@@ -1,0 +1,319 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+77812,73,SavedShot,0.9059999847412109,0.435,0.2311909943819046,Maximilian Eggestein,a,125,OpenPlay,2015,Head,1086,Hannover 96,Werder Bremen,1,0,2015-10-03 17:30:00,Santiago García,Aerial
+83799,17,MissedShots,0.8480000305175781,0.6,0.02540690079331398,Maximilian Eggestein,h,125,OpenPlay,2015,LeftFoot,1320,Werder Bremen,Eintracht Frankfurt,1,0,2016-05-14 17:30:00,,Aerial
+134202,79,Goal,0.9519999694824218,0.48,0.6266890168190002,Maximilian Eggestein,h,125,OpenPlay,2016,Head,3814,Werder Bremen,Schalke 04,3,0,2017-04-04 19:00:00,Max Kruse,Chipped
+134567,27,MissedShots,0.715999984741211,0.5879999923706055,0.009965869598090649,Maximilian Eggestein,h,125,SetPiece,2016,RightFoot,3850,Werder Bremen,Hertha Berlin,2,0,2017-04-29 14:30:00,,None
+165803,35,MissedShots,0.8080000305175781,0.39599998474121095,0.029344499111175537,Maximilian Eggestein,a,125,FromCorner,2017,RightFoot,8260,Hoffenheim,Werder Bremen,1,0,2017-08-19 14:30:00,,None
+165810,58,SavedShot,0.8490000152587891,0.2610000038146973,0.029377400875091553,Maximilian Eggestein,a,125,OpenPlay,2017,RightFoot,8260,Hoffenheim,Werder Bremen,1,0,2017-08-19 14:30:00,Max Kruse,Pass
+166588,47,MissedShots,0.7230000305175781,0.32799999237060545,0.011945299804210663,Maximilian Eggestein,h,125,FromCorner,2017,LeftFoot,8287,Werder Bremen,Schalke 04,1,2,2017-09-16 14:30:00,,Aerial
+166599,88,BlockedShot,0.7909999847412109,0.44599998474121094,0.03564950078725815,Maximilian Eggestein,h,125,OpenPlay,2017,LeftFoot,8287,Werder Bremen,Schalke 04,1,2,2017-09-16 14:30:00,Robert Bauer,Pass
+168052,48,MissedShots,0.894000015258789,0.655,0.03882540017366409,Maximilian Eggestein,a,125,OpenPlay,2017,LeftFoot,8332,FC Cologne,Werder Bremen,0,0,2017-10-22 12:30:00,Florian Kainz,Cross
+168644,26,SavedShot,0.735,0.34900001525878904,0.012368099763989449,Maximilian Eggestein,h,125,OpenPlay,2017,LeftFoot,8343,Werder Bremen,Augsburg,0,3,2017-10-29 14:30:00,,None
+167559,41,SavedShot,0.835999984741211,0.3940000152587891,0.07550469785928726,Maximilian Eggestein,a,125,FromCorner,2017,LeftFoot,8353,Eintracht Frankfurt,Werder Bremen,2,1,2017-11-03 19:30:00,,TakeOn
+167561,52,MissedShots,0.8809999847412109,0.5270000076293946,0.08695010095834732,Maximilian Eggestein,a,125,OpenPlay,2017,LeftFoot,8353,Eintracht Frankfurt,Werder Bremen,2,1,2017-11-03 19:30:00,Ludwig Augustinsson,Cross
+167570,77,MissedShots,0.7559999847412109,0.664000015258789,0.019566800445318222,Maximilian Eggestein,a,125,OpenPlay,2017,RightFoot,8353,Eintracht Frankfurt,Werder Bremen,2,1,2017-11-03 19:30:00,Florian Kainz,Pass
+167908,19,BlockedShot,0.8730000305175781,0.5609999847412109,0.11922699958086014,Maximilian Eggestein,h,125,OpenPlay,2017,LeftFoot,8361,Werder Bremen,Hannover 96,4,0,2017-11-19 17:00:00,,TakeOn
+167924,67,MissedShots,0.925,0.4229999923706055,0.23604999482631683,Maximilian Eggestein,h,125,OpenPlay,2017,Head,8361,Werder Bremen,Hannover 96,4,0,2017-11-19 17:00:00,Fin Bartels,Cross
+168282,14,MissedShots,0.9230000305175782,0.3659999847412109,0.09596320241689682,Maximilian Eggestein,a,125,OpenPlay,2017,RightFoot,8368,RasenBallsport Leipzig,Werder Bremen,2,0,2017-11-25 14:30:00,Theodor Gebre Selassie,Pass
+168293,43,MissedShots,0.8919999694824219,0.46,0.030376100912690163,Maximilian Eggestein,a,125,OpenPlay,2017,Head,8368,RasenBallsport Leipzig,Werder Bremen,2,0,2017-11-25 14:30:00,Max Kruse,Aerial
+168954,42,BlockedShot,0.7819999694824219,0.48700000762939455,0.037035200744867325,Maximilian Eggestein,h,125,OpenPlay,2017,LeftFoot,8380,Werder Bremen,VfB Stuttgart,1,0,2017-12-02 14:30:00,Fin Bartels,Pass
+168957,49,BlockedShot,0.86,0.4179999923706055,0.07859589904546738,Maximilian Eggestein,h,125,SetPiece,2017,LeftFoot,8380,Werder Bremen,VfB Stuttgart,1,0,2017-12-02 14:30:00,Fin Bartels,Pass
+179820,25,Goal,0.8569999694824219,0.28200000762939453,0.03183380141854286,Maximilian Eggestein,a,125,OpenPlay,2017,LeftFoot,8385,Borussia Dortmund,Werder Bremen,1,2,2017-12-09 14:30:00,Max Kruse,Chipped
+184028,31,SavedShot,0.904000015258789,0.46700000762939453,0.07789289951324463,Maximilian Eggestein,a,125,OpenPlay,2017,Head,8399,Bayer Leverkusen,Werder Bremen,1,0,2017-12-13 19:30:00,Florian Kainz,Cross
+183735,25,SavedShot,0.9209999847412109,0.5790000152587891,0.5327100157737732,Maximilian Eggestein,h,125,OpenPlay,2017,RightFoot,8409,Werder Bremen,Mainz 05,2,2,2017-12-16 14:30:00,,None
+183738,41,MissedShots,0.8980000305175782,0.549000015258789,0.061326198279857635,Maximilian Eggestein,h,125,FromCorner,2017,LeftFoot,8409,Werder Bremen,Mainz 05,2,2,2017-12-16 14:30:00,Ludwig Augustinsson,Cross
+183739,53,SavedShot,0.8690000152587891,0.5709999847412109,0.1082329973578453,Maximilian Eggestein,h,125,OpenPlay,2017,RightFoot,8409,Werder Bremen,Mainz 05,2,2,2017-12-16 14:30:00,Ludwig Augustinsson,Pass
+187218,49,MissedShots,0.89,0.43599998474121093,0.07954580336809158,Maximilian Eggestein,h,125,FromCorner,2017,RightFoot,8415,Werder Bremen,Hoffenheim,1,1,2018-01-13 14:30:00,Milos Veljkovic,HeadPass
+192360,33,BlockedShot,0.8530000305175781,0.6040000152587891,0.06970909982919693,Maximilian Eggestein,h,125,OpenPlay,2017,RightFoot,8433,Werder Bremen,Hertha Berlin,0,0,2018-01-27 17:30:00,Ludwig Augustinsson,Pass
+192376,93,BlockedShot,0.919000015258789,0.52,0.44944000244140625,Maximilian Eggestein,h,125,OpenPlay,2017,LeftFoot,8433,Werder Bremen,Hertha Berlin,0,0,2018-01-27 17:30:00,Ishak Belfodil,HeadPass
+194806,92,MissedShots,0.8680000305175781,0.47200000762939454,0.3000969886779785,Maximilian Eggestein,a,125,OpenPlay,2017,RightFoot,8442,Schalke 04,Werder Bremen,1,2,2018-02-03 14:30:00,Aron Jóhannsson,Chipped
+195026,28,SavedShot,0.9540000152587891,0.43099998474121093,0.4355179965496063,Maximilian Eggestein,h,125,OpenPlay,2017,Head,8455,Werder Bremen,Wolfsburg,3,1,2018-02-11 17:00:00,Aron Jóhannsson,Cross
+197555,15,BlockedShot,0.8180000305175781,0.37900001525878907,0.046104200184345245,Maximilian Eggestein,h,125,OpenPlay,2017,LeftFoot,8470,Werder Bremen,Hamburger SV,1,0,2018-02-24 17:30:00,Thomas Delaney,Pass
+197565,67,BlockedShot,0.8619999694824219,0.544000015258789,0.09877669811248779,Maximilian Eggestein,h,125,OpenPlay,2017,LeftFoot,8470,Werder Bremen,Hamburger SV,1,0,2018-02-24 17:30:00,Max Kruse,Pass
+197567,70,MissedShots,0.8130000305175781,0.39799999237060546,0.04056340083479881,Maximilian Eggestein,h,125,OpenPlay,2017,LeftFoot,8470,Werder Bremen,Hamburger SV,1,0,2018-02-24 17:30:00,Zlatko Junuzovic,TakeOn
+197570,81,SavedShot,0.9180000305175782,0.455,0.12157399952411652,Maximilian Eggestein,h,125,OpenPlay,2017,Head,8470,Werder Bremen,Hamburger SV,1,0,2018-02-24 17:30:00,Thomas Delaney,Cross
+198588,56,MissedShots,0.9219999694824219,0.5609999847412109,0.1105630025267601,Maximilian Eggestein,a,125,OpenPlay,2017,Head,8478,Borussia M.Gladbach,Werder Bremen,2,2,2018-03-02 19:30:00,Ludwig Augustinsson,Cross
+201008,53,MissedShots,0.7280000305175781,0.5270000076293946,0.015055499970912933,Maximilian Eggestein,h,125,FromCorner,2017,RightFoot,8491,Werder Bremen,FC Cologne,3,1,2018-03-12 19:30:00,,None
+201015,89,Goal,0.8959999847412109,0.6859999847412109,0.466715008020401,Maximilian Eggestein,h,125,OpenPlay,2017,LeftFoot,8491,Werder Bremen,FC Cologne,3,1,2018-03-12 19:30:00,Zlatko Junuzovic,Throughball
+201359,0,SavedShot,0.825999984741211,0.40799999237060547,0.043369799852371216,Maximilian Eggestein,a,125,OpenPlay,2017,RightFoot,8501,Augsburg,Werder Bremen,1,3,2018-03-17 14:30:00,,Rebound
+201367,20,BlockedShot,0.815,0.455,0.07181040197610855,Maximilian Eggestein,a,125,OpenPlay,2017,LeftFoot,8501,Augsburg,Werder Bremen,1,3,2018-03-17 14:30:00,Philipp Bargfrede,BallTouch
+201379,56,SavedShot,0.795,0.40299999237060546,0.05687649920582771,Maximilian Eggestein,a,125,OpenPlay,2017,RightFoot,8501,Augsburg,Werder Bremen,1,3,2018-03-17 14:30:00,Max Kruse,HeadPass
+201388,73,MissedShots,0.825,0.38599998474121094,0.05290279909968376,Maximilian Eggestein,a,125,OpenPlay,2017,RightFoot,8501,Augsburg,Werder Bremen,1,3,2018-03-17 14:30:00,,Rebound
+207432,77,BlockedShot,0.8490000152587891,0.5609999847412109,0.11749699711799622,Maximilian Eggestein,a,125,OpenPlay,2017,LeftFoot,8519,Hannover 96,Werder Bremen,2,1,2018-04-06 18:30:00,Max Kruse,Pass
+212518,2,MissedShots,0.750999984741211,0.539000015258789,0.019242800772190094,Maximilian Eggestein,h,125,OpenPlay,2017,RightFoot,8542,Werder Bremen,Borussia Dortmund,1,1,2018-04-29 16:00:00,,None
+212533,44,SavedShot,0.93,0.4759999847412109,0.40097400546073914,Maximilian Eggestein,h,125,OpenPlay,2017,Head,8542,Werder Bremen,Borussia Dortmund,1,1,2018-04-29 16:00:00,Theodor Gebre Selassie,HeadPass
+212537,50,BlockedShot,0.9019999694824219,0.3509999847412109,0.08841809630393982,Maximilian Eggestein,h,125,OpenPlay,2017,RightFoot,8542,Werder Bremen,Borussia Dortmund,1,1,2018-04-29 16:00:00,Zlatko Junuzovic,Pass
+212538,51,SavedShot,0.7,0.40099998474121096,0.015548399649560452,Maximilian Eggestein,h,125,OpenPlay,2017,RightFoot,8542,Werder Bremen,Borussia Dortmund,1,1,2018-04-29 16:00:00,Jérôme Gondorf,Pass
+212539,52,MissedShots,0.8269999694824218,0.43900001525878907,0.06483399868011475,Maximilian Eggestein,h,125,OpenPlay,2017,LeftFoot,8542,Werder Bremen,Borussia Dortmund,1,1,2018-04-29 16:00:00,Zlatko Junuzovic,Pass
+213283,31,MissedShots,0.9359999847412109,0.48400001525878905,0.14773200452327728,Maximilian Eggestein,h,125,OpenPlay,2017,Head,8553,Werder Bremen,Bayer Leverkusen,0,0,2018-05-05 14:30:00,Max Kruse,Cross
+214684,50,BlockedShot,0.735,0.36700000762939455,0.014297699555754662,Maximilian Eggestein,a,125,FromCorner,2017,RightFoot,8563,Mainz 05,Werder Bremen,1,2,2018-05-12 14:30:00,,None
+219972,13,SavedShot,0.8169999694824219,0.36700000762939455,0.04045410081744194,Maximilian Eggestein,h,125,OpenPlay,2018,LeftFoot,10341,Werder Bremen,Hannover 96,1,1,2018-08-25 16:30:00,Philipp Bargfrede,Pass
+224214,25,Goal,0.7819999694824219,0.3240000152587891,0.025029100477695465,Maximilian Eggestein,h,125,OpenPlay,2018,RightFoot,10362,Werder Bremen,Nuernberg,1,1,2018-09-16 13:30:00,Davy Klaassen,Pass
+224218,54,MissedShots,0.8819999694824219,0.31,0.05295420065522194,Maximilian Eggestein,h,125,OpenPlay,2018,LeftFoot,10362,Werder Bremen,Nuernberg,1,1,2018-09-16 13:30:00,Martin Harnik,TakeOn
+224225,80,MissedShots,0.884000015258789,0.6419999694824219,0.08820600062608719,Maximilian Eggestein,h,125,OpenPlay,2018,RightFoot,10362,Werder Bremen,Nuernberg,1,1,2018-09-16 13:30:00,Max Kruse,BallTouch
+224226,81,SavedShot,0.93,0.5870000076293945,0.11278200149536133,Maximilian Eggestein,h,125,OpenPlay,2018,Head,10362,Werder Bremen,Nuernberg,1,1,2018-09-16 13:30:00,Milot Rashica,Cross
+224950,35,Goal,0.7559999847412109,0.45799999237060546,0.03297809883952141,Maximilian Eggestein,a,125,OpenPlay,2018,RightFoot,10367,Augsburg,Werder Bremen,2,3,2018-09-22 13:30:00,Claudio Pizarro,Pass
+226143,4,SavedShot,0.745,0.38299999237060545,0.016635699197649956,Maximilian Eggestein,h,125,OpenPlay,2018,RightFoot,10373,Werder Bremen,Hertha Berlin,3,1,2018-09-25 16:30:00,,TakeOn
+226157,52,BlockedShot,0.785,0.34900001525878904,0.04335249960422516,Maximilian Eggestein,h,125,OpenPlay,2018,RightFoot,10373,Werder Bremen,Hertha Berlin,3,1,2018-09-25 16:30:00,Yuya Osako,Pass
+227883,57,ShotOnPost,0.8669999694824219,0.37099998474121093,0.06485970318317413,Maximilian Eggestein,a,125,OpenPlay,2018,RightFoot,10383,VfB Stuttgart,Werder Bremen,2,1,2018-09-29 13:30:00,Yuya Osako,Pass
+255201,76,BlockedShot,0.865,0.5259999847412109,0.1152300015091896,Maximilian Eggestein,h,125,OpenPlay,2018,RightFoot,10395,Werder Bremen,Wolfsburg,2,0,2018-10-05 18:30:00,Davy Klaassen,Pass
+255578,42,Goal,0.7830000305175782,0.615,0.027573399245738983,Maximilian Eggestein,a,125,OpenPlay,2018,RightFoot,10400,Schalke 04,Werder Bremen,0,2,2018-10-20 16:30:00,Max Kruse,Pass
+255581,50,MissedShots,0.8569999694824219,0.2670000076293945,0.04196479916572571,Maximilian Eggestein,a,125,OpenPlay,2018,LeftFoot,10400,Schalke 04,Werder Bremen,0,2,2018-10-20 16:30:00,Theodor Gebre Selassie,Pass
+255584,65,Goal,0.8669999694824219,0.34799999237060547,0.07262519747018814,Maximilian Eggestein,a,125,OpenPlay,2018,LeftFoot,10400,Schalke 04,Werder Bremen,0,2,2018-10-20 16:30:00,Theodor Gebre Selassie,Pass
+255867,69,MissedShots,0.8430000305175781,0.3609999847412109,0.030349699780344963,Maximilian Eggestein,h,125,OpenPlay,2018,LeftFoot,10412,Werder Bremen,Bayer Leverkusen,2,6,2018-10-28 16:00:00,Claudio Pizarro,HeadPass
+256138,46,BlockedShot,0.725,0.3820000076293945,0.013833800330758095,Maximilian Eggestein,a,125,FromCorner,2018,RightFoot,10420,Mainz 05,Werder Bremen,2,1,2018-11-04 17:00:00,,None
+256139,46,MissedShots,0.725,0.41200000762939454,0.01756349951028824,Maximilian Eggestein,a,125,FromCorner,2018,RightFoot,10420,Mainz 05,Werder Bremen,2,1,2018-11-04 17:00:00,,Rebound
+256225,20,MissedShots,0.7580000305175781,0.425,0.026107000187039375,Maximilian Eggestein,h,125,OpenPlay,2018,LeftFoot,10431,Werder Bremen,Borussia M.Gladbach,1,3,2018-11-10 14:30:00,Davy Klaassen,Pass
+256255,87,MissedShots,0.895,0.4470000076293945,0.04843520000576973,Maximilian Eggestein,h,125,FromCorner,2018,Head,10431,Werder Bremen,Borussia M.Gladbach,1,3,2018-11-10 14:30:00,Max Kruse,Cross
+256604,15,BlockedShot,0.7390000152587891,0.27,0.014731000177562237,Maximilian Eggestein,a,125,OpenPlay,2018,RightFoot,10442,Freiburg,Werder Bremen,1,1,2018-11-25 14:30:00,Max Kruse,Pass
+256623,51,MissedShots,0.7580000305175781,0.5920000076293945,0.026142099872231483,Maximilian Eggestein,a,125,OpenPlay,2018,LeftFoot,10442,Freiburg,Werder Bremen,1,1,2018-11-25 14:30:00,Martin Harnik,LayOff
+256982,44,BlockedShot,0.765,0.33,0.017370399087667465,Maximilian Eggestein,h,125,OpenPlay,2018,RightFoot,10459,Werder Bremen,Fortuna Duesseldorf,3,1,2018-12-07 19:30:00,Theodor Gebre Selassie,Pass
+257619,11,BlockedShot,0.7119999694824218,0.4929999923706055,0.01409829966723919,Maximilian Eggestein,h,125,OpenPlay,2018,LeftFoot,10474,Werder Bremen,Hoffenheim,1,1,2018-12-19 19:30:00,Davy Klaassen,Pass
+278381,42,MissedShots,0.914000015258789,0.345,0.0564798004925251,Maximilian Eggestein,a,125,OpenPlay,2018,RightFoot,10494,Hannover 96,Werder Bremen,0,1,2019-01-19 14:30:00,Theodor Gebre Selassie,Cross
+278396,84,SavedShot,0.9319999694824219,0.32,0.09853679686784744,Maximilian Eggestein,a,125,OpenPlay,2018,RightFoot,10494,Hannover 96,Werder Bremen,0,1,2019-01-19 14:30:00,,TakeOn
+278684,26,Goal,0.895,0.43099998474121093,0.19596700370311737,Maximilian Eggestein,h,125,OpenPlay,2018,RightFoot,10503,Werder Bremen,Eintracht Frankfurt,2,2,2019-01-26 17:30:00,Martin Harnik,TakeOn
+278688,38,ShotOnPost,0.779000015258789,0.4329999923706055,0.03214849904179573,Maximilian Eggestein,h,125,OpenPlay,2018,RightFoot,10503,Werder Bremen,Eintracht Frankfurt,2,2,2019-01-26 17:30:00,Max Kruse,Pass
+278690,48,SavedShot,0.9159999847412109,0.55,0.05423840135335922,Maximilian Eggestein,h,125,OpenPlay,2018,Head,10503,Werder Bremen,Eintracht Frankfurt,2,2,2019-01-26 17:30:00,,Aerial
+278699,79,SavedShot,0.925,0.3629999923706055,0.01880349963903427,Maximilian Eggestein,h,125,OpenPlay,2018,Head,10503,Werder Bremen,Eintracht Frankfurt,2,2,2019-01-26 17:30:00,Max Kruse,Cross
+278703,88,MissedShots,0.745999984741211,0.36400001525878906,0.020174099132418633,Maximilian Eggestein,h,125,OpenPlay,2018,RightFoot,10503,Werder Bremen,Eintracht Frankfurt,2,2,2019-01-26 17:30:00,Philipp Bargfrede,Pass
+278704,91,BlockedShot,0.8619999694824219,0.5570000076293945,0.09261690080165863,Maximilian Eggestein,h,125,OpenPlay,2018,RightFoot,10503,Werder Bremen,Eintracht Frankfurt,2,2,2019-01-26 17:30:00,Max Kruse,Pass
+278852,38,BlockedShot,0.8619999694824219,0.28200000762939453,0.11108700186014175,Maximilian Eggestein,a,125,OpenPlay,2018,RightFoot,10514,Nuernberg,Werder Bremen,1,1,2019-02-02 14:30:00,Theodor Gebre Selassie,Throughball
+278856,58,SavedShot,0.7780000305175782,0.66,0.022479599341750145,Maximilian Eggestein,a,125,OpenPlay,2018,LeftFoot,10514,Nuernberg,Werder Bremen,1,1,2019-02-02 14:30:00,Johannes Eggestein,Pass
+279126,33,MissedShots,0.755,0.2670000076293945,0.020210500806570053,Maximilian Eggestein,h,125,OpenPlay,2018,RightFoot,10521,Werder Bremen,Augsburg,4,0,2019-02-10 14:30:00,Max Kruse,Pass
+279367,29,BlockedShot,0.8859999847412109,0.3160000038146973,0.04690929874777794,Maximilian Eggestein,h,125,OpenPlay,2018,RightFoot,10539,Werder Bremen,VfB Stuttgart,1,1,2019-02-22 19:30:00,,None
+279772,62,SavedShot,0.8490000152587891,0.41,0.06545999646186829,Maximilian Eggestein,a,125,OpenPlay,2018,RightFoot,10551,Wolfsburg,Werder Bremen,1,1,2019-03-03 17:00:00,Johannes Eggestein,Pass
+284204,4,MissedShots,0.7759999847412109,0.3529999923706055,0.024711400270462036,Maximilian Eggestein,h,125,OpenPlay,2018,RightFoot,10557,Werder Bremen,Schalke 04,4,2,2019-03-08 19:30:00,Davy Klaassen,Pass
+284217,41,BlockedShot,0.8469999694824218,0.30700000762939456,0.03818630054593086,Maximilian Eggestein,h,125,OpenPlay,2018,LeftFoot,10557,Werder Bremen,Schalke 04,4,2,2019-03-08 19:30:00,Max Kruse,Pass
+284225,58,BlockedShot,0.8069999694824219,0.37400001525878906,0.04642200097441673,Maximilian Eggestein,h,125,OpenPlay,2018,RightFoot,10557,Werder Bremen,Schalke 04,4,2,2019-03-08 19:30:00,Max Kruse,Pass
+292799,61,MissedShots,0.7280000305175781,0.4620000076293945,0.018571700900793076,Maximilian Eggestein,a,125,OpenPlay,2018,RightFoot,10584,Borussia M.Gladbach,Werder Bremen,1,1,2019-04-07 17:00:00,Max Kruse,Pass
+293497,12,BlockedShot,0.76,0.4329999923706055,0.021460099145770073,Maximilian Eggestein,h,125,OpenPlay,2018,RightFoot,10594,Werder Bremen,Freiburg,2,1,2019-04-13 14:30:00,,None
+293508,58,MissedShots,0.875999984741211,0.5870000076293945,0.016724400222301483,Maximilian Eggestein,h,125,OpenPlay,2018,Head,10594,Werder Bremen,Freiburg,2,1,2019-04-13 14:30:00,Nuri Sahin,Aerial
+295164,5,BlockedShot,0.9169999694824219,0.365,0.09667620062828064,Maximilian Eggestein,a,125,OpenPlay,2018,RightFoot,10598,Bayern Munich,Werder Bremen,1,0,2019-04-20 14:30:00,Theodor Gebre Selassie,Pass
+297226,59,BlockedShot,0.759000015258789,0.43,0.023446500301361084,Maximilian Eggestein,a,125,OpenPlay,2018,RightFoot,10614,Fortuna Duesseldorf,Werder Bremen,4,1,2019-04-27 14:30:00,Yuya Osako,Pass
+297235,77,BlockedShot,0.8730000305175781,0.3579999923706055,0.07995089888572693,Maximilian Eggestein,a,125,OpenPlay,2018,RightFoot,10614,Fortuna Duesseldorf,Werder Bremen,4,1,2019-04-27 14:30:00,Milot Rashica,Pass
+299436,52,SavedShot,0.7319999694824219,0.3920000076293945,0.016898199915885925,Maximilian Eggestein,h,125,OpenPlay,2018,LeftFoot,10621,Werder Bremen,Borussia Dortmund,2,2,2019-05-04 17:30:00,Nuri Sahin,Pass
+310573,3,BlockedShot,0.7680000305175781,0.645,0.017159700393676758,Maximilian Eggestein,h,125,FromCorner,2019,LeftFoot,12404,Werder Bremen,Fortuna Duesseldorf,1,3,2019-08-17 14:30:00,,None
+310579,34,MissedShots,0.789000015258789,0.6869999694824219,0.014045700430870056,Maximilian Eggestein,h,125,FromCorner,2019,LeftFoot,12404,Werder Bremen,Fortuna Duesseldorf,1,3,2019-08-17 14:30:00,,Aerial
+312367,55,SavedShot,0.759000015258789,0.5329999923706055,0.014573900029063225,Maximilian Eggestein,a,125,FromCorner,2019,RightFoot,12414,Hoffenheim,Werder Bremen,3,2,2019-08-24 14:30:00,,Aerial
+312369,59,BlockedShot,0.8780000305175781,0.33299999237060546,0.05046210065484047,Maximilian Eggestein,a,125,OpenPlay,2019,RightFoot,12414,Hoffenheim,Werder Bremen,3,2,2019-08-24 14:30:00,,Dispossessed
+312376,78,BlockedShot,0.899000015258789,0.355,0.06234240159392357,Maximilian Eggestein,a,125,OpenPlay,2019,LeftFoot,12414,Hoffenheim,Werder Bremen,3,2,2019-08-24 14:30:00,Yuya Osako,Chipped
+316358,29,BlockedShot,0.8930000305175781,0.524000015258789,0.11610700190067291,Maximilian Eggestein,h,125,OpenPlay,2019,LeftFoot,12428,Werder Bremen,Augsburg,3,2,2019-09-01 14:30:00,,None
+320642,45,MissedShots,0.749000015258789,0.3770000076293945,0.018038300797343254,Maximilian Eggestein,h,125,OpenPlay,2019,RightFoot,12444,Werder Bremen,RasenBallsport Leipzig,0,3,2019-09-21 16:30:00,Johannes Eggestein,Pass
+324979,6,ShotOnPost,0.8540000152587891,0.34200000762939453,0.054012201726436615,Maximilian Eggestein,a,125,OpenPlay,2019,RightFoot,12464,Eintracht Frankfurt,Werder Bremen,2,2,2019-10-06 17:00:00,Leonardo Bittencourt,Pass
+325005,77,MissedShots,0.7280000305175781,0.46099998474121096,0.01836629956960678,Maximilian Eggestein,a,125,OpenPlay,2019,RightFoot,12464,Eintracht Frankfurt,Werder Bremen,2,2,2019-10-06 17:00:00,Davy Klaassen,Pass
+325478,54,SavedShot,0.745999984741211,0.43,0.027259700000286102,Maximilian Eggestein,h,125,OpenPlay,2019,LeftFoot,12472,Werder Bremen,Hertha Berlin,1,1,2019-10-19 14:30:00,Theodor Gebre Selassie,Pass
+325485,73,BlockedShot,0.835999984741211,0.32099998474121094,0.038096100091934204,Maximilian Eggestein,h,125,OpenPlay,2019,RightFoot,12472,Werder Bremen,Hertha Berlin,1,1,2019-10-19 14:30:00,Milot Rashica,Pass
+325487,88,SavedShot,0.8440000152587891,0.34,0.0452721007168293,Maximilian Eggestein,h,125,OpenPlay,2019,LeftFoot,12472,Werder Bremen,Hertha Berlin,1,1,2019-10-19 14:30:00,Johannes Eggestein,Pass
+327413,64,BlockedShot,0.7380000305175781,0.555,0.00843080971390009,Maximilian Eggestein,a,125,FromCorner,2019,LeftFoot,12475,Bayer Leverkusen,Werder Bremen,2,2,2019-10-26 17:30:00,Nuri Sahin,Chipped
+328995,46,BlockedShot,0.785,0.4809999847412109,0.015178199857473373,Maximilian Eggestein,h,125,OpenPlay,2019,RightFoot,12488,Werder Bremen,Freiburg,2,2,2019-11-02 14:30:00,,Aerial
+329007,75,BlockedShot,0.8009999847412109,0.46099998474121096,0.06299129873514175,Maximilian Eggestein,h,125,OpenPlay,2019,LeftFoot,12488,Werder Bremen,Freiburg,2,2,2019-11-02 14:30:00,Davy Klaassen,Pass
+329009,80,SavedShot,0.750999984741211,0.4879999923706055,0.0293589998036623,Maximilian Eggestein,h,125,OpenPlay,2019,RightFoot,12488,Werder Bremen,Freiburg,2,2,2019-11-02 14:30:00,Leonardo Bittencourt,Pass
+331176,41,SavedShot,0.915,0.4879999923706055,0.32102900743484497,Maximilian Eggestein,a,125,OpenPlay,2019,Head,12500,Borussia M.Gladbach,Werder Bremen,3,1,2019-11-10 12:30:00,Leonardo Bittencourt,Cross
+331193,88,BlockedShot,0.769000015258789,0.549000015258789,0.027374200522899628,Maximilian Eggestein,a,125,FromCorner,2019,RightFoot,12500,Borussia M.Gladbach,Werder Bremen,3,1,2019-11-10 12:30:00,Benjamin Goller,Pass
+332051,5,BlockedShot,0.7380000305175781,0.509000015258789,0.02678680047392845,Maximilian Eggestein,h,125,OpenPlay,2019,LeftFoot,12507,Werder Bremen,Schalke 04,1,2,2019-11-23 14:30:00,,TakeOn
+332054,13,SavedShot,0.7380000305175781,0.40900001525878904,0.01971150003373623,Maximilian Eggestein,h,125,OpenPlay,2019,RightFoot,12507,Werder Bremen,Schalke 04,1,2,2019-11-23 14:30:00,Milot Rashica,Pass
+332064,64,MissedShots,0.8930000305175781,0.64,0.09252969920635223,Maximilian Eggestein,h,125,OpenPlay,2019,LeftFoot,12507,Werder Bremen,Schalke 04,1,2,2019-11-23 14:30:00,Davy Klaassen,TakeOn
+332066,68,BlockedShot,0.7809999847412109,0.4640000152587891,0.038865599781274796,Maximilian Eggestein,h,125,OpenPlay,2019,LeftFoot,12507,Werder Bremen,Schalke 04,1,2,2019-11-23 14:30:00,Milot Rashica,Pass
+332067,68,BlockedShot,0.7390000152587891,0.5970000076293945,0.015841400250792503,Maximilian Eggestein,h,125,OpenPlay,2019,RightFoot,12507,Werder Bremen,Schalke 04,1,2,2019-11-23 14:30:00,Ludwig Augustinsson,Pass
+334539,76,MissedShots,0.8719999694824219,0.43,0.09200940281152725,Maximilian Eggestein,a,125,OpenPlay,2019,RightFoot,12519,Wolfsburg,Werder Bremen,2,3,2019-12-01 17:00:00,Yuya Osako,Pass
+336526,24,MissedShots,0.8519999694824218,0.34200000762939453,0.04896080121397972,Maximilian Eggestein,h,125,OpenPlay,2019,RightFoot,12525,Werder Bremen,Paderborn,0,1,2019-12-08 17:00:00,,None
+336531,34,MissedShots,0.76,0.3579999923706055,0.021200699731707573,Maximilian Eggestein,h,125,OpenPlay,2019,LeftFoot,12525,Werder Bremen,Paderborn,0,1,2019-12-08 17:00:00,Philipp Bargfrede,TakeOn
+336538,63,SavedShot,0.7959999847412109,0.2979999923706055,0.022758500650525093,Maximilian Eggestein,h,125,OpenPlay,2019,LeftFoot,12525,Werder Bremen,Paderborn,0,1,2019-12-08 17:00:00,Theodor Gebre Selassie,Pass
+336949,27,MissedShots,0.8590000152587891,0.6969999694824218,0.054175399243831635,Maximilian Eggestein,a,125,OpenPlay,2019,LeftFoot,12529,Bayern Munich,Werder Bremen,6,1,2019-12-14 14:30:00,Ludwig Augustinsson,Pass
+336971,69,BlockedShot,0.8769999694824219,0.3160000038146973,0.05225419998168945,Maximilian Eggestein,a,125,OpenPlay,2019,RightFoot,12529,Bayern Munich,Werder Bremen,6,1,2019-12-14 14:30:00,Milot Rashica,Pass
+354811,74,SavedShot,0.8009999847412109,0.509000015258789,0.06178420037031174,Maximilian Eggestein,a,125,OpenPlay,2019,LeftFoot,12558,Fortuna Duesseldorf,Werder Bremen,0,1,2020-01-18 14:30:00,,None
+356290,55,SavedShot,0.7380000305175781,0.32599998474121095,0.016155699267983437,Maximilian Eggestein,h,125,OpenPlay,2019,LeftFoot,12571,Werder Bremen,Hoffenheim,0,3,2020-01-26 14:30:00,Leonardo Bittencourt,Pass
+356291,56,BlockedShot,0.745,0.524000015258789,0.019235599786043167,Maximilian Eggestein,h,125,OpenPlay,2019,LeftFoot,12571,Werder Bremen,Hoffenheim,0,3,2020-01-26 14:30:00,Milot Rashica,Pass
+356297,69,BlockedShot,0.7859999847412109,0.6120000076293945,0.02852340042591095,Maximilian Eggestein,h,125,OpenPlay,2019,LeftFoot,12571,Werder Bremen,Hoffenheim,0,3,2020-01-26 14:30:00,Milot Rashica,Pass
+356303,87,SavedShot,0.7980000305175782,0.34,0.0334726981818676,Maximilian Eggestein,h,125,OpenPlay,2019,LeftFoot,12571,Werder Bremen,Hoffenheim,0,3,2020-01-26 14:30:00,Fin Bartels,LayOff
+357939,26,MissedShots,0.9230000305175782,0.44099998474121094,0.1373489946126938,Maximilian Eggestein,h,125,OpenPlay,2019,RightFoot,12588,Werder Bremen,Union Berlin,0,2,2020-02-08 14:30:00,Leonardo Bittencourt,Pass
+357940,35,BlockedShot,0.825999984741211,0.44299999237060544,0.06276720017194748,Maximilian Eggestein,h,125,OpenPlay,2019,LeftFoot,12588,Werder Bremen,Union Berlin,0,2,2020-02-08 14:30:00,Leonardo Bittencourt,Pass
+363101,45,BlockedShot,0.8530000305175781,0.6480000305175782,0.061340298503637314,Maximilian Eggestein,h,125,OpenPlay,2019,LeftFoot,12631,Werder Bremen,Bayer Leverkusen,1,4,2020-05-18 18:30:00,,TakeOn
+363104,61,MissedShots,0.825,0.48900001525878906,0.07149829715490341,Maximilian Eggestein,h,125,OpenPlay,2019,LeftFoot,12631,Werder Bremen,Bayer Leverkusen,1,4,2020-05-18 18:30:00,Davie Selke,Pass
+363217,30,BlockedShot,0.7319999694824219,0.32,0.01958250068128109,Maximilian Eggestein,a,125,OpenPlay,2019,RightFoot,12643,Freiburg,Werder Bremen,0,1,2020-05-23 13:30:00,Leonardo Bittencourt,Pass
+363674,77,BlockedShot,0.8630000305175781,0.615999984741211,0.036088600754737854,Maximilian Eggestein,a,125,OpenPlay,2019,RightFoot,12661,Schalke 04,Werder Bremen,0,1,2020-05-30 13:30:00,,Aerial
+363981,38,BlockedShot,0.8009999847412109,0.49400001525878906,0.0457226000726223,Maximilian Eggestein,h,125,OpenPlay,2019,RightFoot,12668,Werder Bremen,Wolfsburg,0,1,2020-06-07 11:30:00,,None
+364268,58,Goal,0.9069999694824219,0.500999984741211,0.5241720080375671,Maximilian Eggestein,a,125,OpenPlay,2019,RightFoot,12681,Paderborn,Werder Bremen,1,5,2020-06-13 13:30:00,,Rebound
+364588,17,MissedShots,0.7669999694824219,0.605,0.026040099561214447,Maximilian Eggestein,h,125,OpenPlay,2019,RightFoot,12687,Werder Bremen,Bayern Munich,0,1,2020-06-16 18:30:00,Niklas Moisander,Pass
+364601,89,MissedShots,0.755,0.5420000076293945,0.0208538006991148,Maximilian Eggestein,h,125,OpenPlay,2019,RightFoot,12687,Werder Bremen,Bayern Munich,0,1,2020-06-16 18:30:00,Joshua Sargent,Pass
+366958,21,MissedShots,0.750999984741211,0.47,0.022602800279855728,Maximilian Eggestein,h,125,OpenPlay,2019,RightFoot,12705,Werder Bremen,FC Cologne,6,1,2020-06-27 13:30:00,Marco Friedl,Pass
+377408,8,BlockedShot,0.715,0.34,0.01276019960641861,Maximilian Eggestein,h,125,OpenPlay,2020,RightFoot,14177,Werder Bremen,Hertha Berlin,1,4,2020-09-19 13:30:00,,BallRecovery
+377426,77,MissedShots,0.735999984741211,0.6129999923706054,0.011741500347852707,Maximilian Eggestein,h,125,OpenPlay,2020,RightFoot,14177,Werder Bremen,Hertha Berlin,1,4,2020-09-19 13:30:00,Leonardo Bittencourt,Pass
+384040,4,Goal,0.87,0.5209999847412109,0.07612519711256027,Maximilian Eggestein,h,125,OpenPlay,2020,LeftFoot,15183,Werder Bremen,Hoffenheim,1,1,2020-10-25 17:00:00,Theodor Gebre Selassie,Cross
+384598,74,MissedShots,0.7219999694824218,0.455,0.017864100635051727,Maximilian Eggestein,a,125,OpenPlay,2020,RightFoot,15189,Eintracht Frankfurt,Werder Bremen,1,1,2020-10-31 14:30:00,Theodor Gebre Selassie,Pass
+387341,44,Goal,0.8919999694824219,0.4640000152587891,0.4159829914569855,Maximilian Eggestein,a,125,OpenPlay,2020,LeftFoot,15203,Bayern Munich,Werder Bremen,1,1,2020-11-21 14:30:00,Joshua Sargent,Pass
+390827,64,BlockedShot,0.78,0.56,0.02919680066406727,Maximilian Eggestein,h,125,OpenPlay,2020,LeftFoot,15228,Werder Bremen,VfB Stuttgart,1,2,2020-12-06 14:30:00,Nick Woltemade,Tackle
+393907,22,SavedShot,0.825999984741211,0.5479999923706055,0.06412690132856369,Maximilian Eggestein,a,125,OpenPlay,2020,RightFoot,15255,Mainz 05,Werder Bremen,0,1,2020-12-19 14:30:00,Romano Schmid,BallTouch
+393920,76,MissedShots,0.794000015258789,0.68,0.02692819945514202,Maximilian Eggestein,a,125,FromCorner,2020,LeftFoot,15255,Mainz 05,Werder Bremen,0,1,2020-12-19 14:30:00,Kevin Möhwald,Cross
+393921,80,MissedShots,0.8209999847412109,0.31,0.02913229912519455,Maximilian Eggestein,a,125,OpenPlay,2020,RightFoot,15255,Mainz 05,Werder Bremen,0,1,2020-12-19 14:30:00,,None
+396334,27,MissedShots,0.7830000305175782,0.5309999847412109,0.03791860118508339,Maximilian Eggestein,h,125,OpenPlay,2020,LeftFoot,15263,Werder Bremen,Union Berlin,0,2,2021-01-02 14:30:00,Joshua Sargent,Pass
+396347,72,BlockedShot,0.7530000305175781,0.35700000762939454,0.02879980020225048,Maximilian Eggestein,h,125,FromCorner,2020,RightFoot,15263,Werder Bremen,Union Berlin,0,2,2021-01-02 14:30:00,Romano Schmid,Pass
+398955,45,SavedShot,0.7609999847412109,0.3320000076293945,0.018035000190138817,Maximilian Eggestein,h,125,OpenPlay,2020,RightFoot,15282,Werder Bremen,Augsburg,2,0,2021-01-16 14:30:00,,BallRecovery
+398958,60,BlockedShot,0.9009999847412109,0.7080000305175781,0.042851999402046204,Maximilian Eggestein,h,125,OpenPlay,2020,RightFoot,15282,Werder Bremen,Augsburg,2,0,2021-01-16 14:30:00,Kevin Möhwald,Pass
+398962,76,BlockedShot,0.784000015258789,0.30200000762939455,0.023549899458885193,Maximilian Eggestein,h,125,OpenPlay,2020,RightFoot,15282,Werder Bremen,Augsburg,2,0,2021-01-16 14:30:00,Ömer Toprak,Pass
+400580,67,MissedShots,0.7340000152587891,0.46099998474121096,0.01212379988282919,Maximilian Eggestein,a,125,SetPiece,2020,RightFoot,15297,Hertha Berlin,Werder Bremen,1,4,2021-01-23 17:30:00,,None
+401552,51,SavedShot,0.77,0.49,0.032820798456668854,Maximilian Eggestein,h,125,OpenPlay,2020,RightFoot,15309,Werder Bremen,Schalke 04,1,1,2021-01-30 14:30:00,Joshua Sargent,Pass
+415851,62,ShotOnPost,0.720999984741211,0.4909999847412109,0.013243099674582481,Maximilian Eggestein,a,125,OpenPlay,2020,LeftFoot,15392,Borussia Dortmund,Werder Bremen,4,1,2021-04-18 13:30:00,Joshua Sargent,Pass
+416488,31,MissedShots,0.7230000305175781,0.44799999237060545,0.017667099833488464,Maximilian Eggestein,h,125,OpenPlay,2020,RightFoot,15407,Werder Bremen,Mainz 05,0,1,2021-04-21 18:30:00,Joshua Sargent,Pass
+416496,48,BlockedShot,0.7290000152587891,0.4909999847412109,0.014605199918150902,Maximilian Eggestein,h,125,SetPiece,2020,LeftFoot,15407,Werder Bremen,Mainz 05,0,1,2021-04-21 18:30:00,Milot Rashica,BlockedPass
+416499,57,MissedShots,0.795,0.41200000762939454,0.030897000804543495,Maximilian Eggestein,h,125,FromCorner,2020,RightFoot,15407,Werder Bremen,Mainz 05,0,1,2021-04-21 18:30:00,Marco Friedl,Pass
+416505,76,BlockedShot,0.885,0.5540000152587891,0.024928800761699677,Maximilian Eggestein,h,125,OpenPlay,2020,Head,15407,Werder Bremen,Mainz 05,0,1,2021-04-21 18:30:00,Milot Rashica,Aerial
+416513,94,BlockedShot,0.8590000152587891,0.59,0.026649000123143196,Maximilian Eggestein,h,125,OpenPlay,2020,LeftFoot,15407,Werder Bremen,Mainz 05,0,1,2021-04-21 18:30:00,,Aerial
+428520,75,MissedShots,0.7580000305175781,0.45299999237060545,0.03442620113492012,Maximilian Eggestein,a,125,OpenPlay,2021,RightFoot,17539,VfB Stuttgart,Freiburg,2,3,2021-08-28 13:30:00,,None
+434233,54,BlockedShot,0.8619999694824219,0.38,0.09551669657230377,Maximilian Eggestein,h,125,OpenPlay,2021,LeftFoot,17569,Freiburg,Augsburg,3,0,2021-09-26 15:30:00,Christian Günter,Chipped
+436068,85,MissedShots,0.7709999847412109,0.5840000152587891,0.02492400072515011,Maximilian Eggestein,h,125,FromCorner,2021,RightFoot,17582,Freiburg,RasenBallsport Leipzig,1,1,2021-10-16 13:30:00,Lucas Höler,Pass
+440970,23,MissedShots,0.8280000305175781,0.39,0.049253299832344055,Maximilian Eggestein,a,125,OpenPlay,2021,RightFoot,17614,Bayern Munich,Freiburg,2,1,2021-11-06 14:30:00,,None
+440977,48,MissedShots,0.745999984741211,0.4979999923706055,0.02119150012731552,Maximilian Eggestein,a,125,OpenPlay,2021,RightFoot,17614,Bayern Munich,Freiburg,2,1,2021-11-06 14:30:00,Christian Günter,Pass
+447017,1,Goal,0.909000015258789,0.53,0.11055900156497955,Maximilian Eggestein,a,125,OpenPlay,2021,RightFoot,17638,Borussia M.Gladbach,Freiburg,0,6,2021-12-05 16:30:00,Kevin Schade,Cross
+447625,7,SavedShot,0.8040000152587891,0.5720000076293945,0.0397224985063076,Maximilian Eggestein,h,125,OpenPlay,2021,RightFoot,17646,Freiburg,Hoffenheim,1,2,2021-12-11 14:30:00,,None
+449032,4,BlockedShot,0.7959999847412109,0.3770000076293945,0.034446198493242264,Maximilian Eggestein,a,125,OpenPlay,2021,LeftFoot,17656,Union Berlin,Freiburg,0,0,2021-12-15 19:30:00,Woo-Yeong Jeong,Pass
+454525,4,MissedShots,0.9119999694824219,0.47099998474121096,0.07444369792938232,Maximilian Eggestein,h,125,OpenPlay,2021,RightFoot,17691,Freiburg,VfB Stuttgart,2,0,2022-01-22 14:30:00,Kevin Schade,Aerial
+454530,31,MissedShots,0.855,0.4570000076293945,0.10931699723005295,Maximilian Eggestein,h,125,OpenPlay,2021,LeftFoot,17691,Freiburg,VfB Stuttgart,2,0,2022-01-22 14:30:00,,TakeOn
+455674,46,SavedShot,0.76,0.595999984741211,0.023176299408078194,Maximilian Eggestein,a,125,OpenPlay,2021,RightFoot,17696,FC Cologne,Freiburg,1,0,2022-02-05 14:30:00,Vincenzo Grifo,Pass
+455684,71,BlockedShot,0.8269999694824218,0.555,0.05020919814705849,Maximilian Eggestein,a,125,OpenPlay,2021,RightFoot,17696,FC Cologne,Freiburg,1,0,2022-02-05 14:30:00,,Rebound
+456880,39,MissedShots,0.7580000305175781,0.37099998474121093,0.02244189940392971,Maximilian Eggestein,h,125,OpenPlay,2021,RightFoot,17708,Freiburg,Mainz 05,1,1,2022-02-12 14:30:00,Lucas Höler,Pass
+458190,46,MissedShots,0.774000015258789,0.5479999923706055,0.01818629913032055,Maximilian Eggestein,a,125,OpenPlay,2021,LeftFoot,17717,Augsburg,Freiburg,1,2,2022-02-19 14:30:00,,Aerial
+459720,16,BlockedShot,0.73,0.3060000038146973,0.019971299916505814,Maximilian Eggestein,h,125,OpenPlay,2021,RightFoot,17727,Freiburg,Hertha Berlin,3,0,2022-02-26 14:30:00,Nicolas Höfler,Pass
+459729,33,SavedShot,0.7759999847412109,0.43,0.04438760131597519,Maximilian Eggestein,h,125,OpenPlay,2021,LeftFoot,17727,Freiburg,Hertha Berlin,3,0,2022-02-26 14:30:00,,None
+465033,60,BlockedShot,0.7430000305175781,0.36,0.017220299690961838,Maximilian Eggestein,h,125,OpenPlay,2021,LeftFoot,17762,Freiburg,Bayern Munich,1,4,2022-04-02 13:30:00,Lucas Höler,Pass
+467502,23,MissedShots,0.8569999694824219,0.6,0.024688400328159332,Maximilian Eggestein,a,125,FromCorner,2021,LeftFoot,17773,Eintracht Frankfurt,Freiburg,1,2,2022-04-10 15:30:00,,Aerial
+467999,2,SavedShot,0.8880000305175781,0.34599998474121096,0.07628460228443146,Maximilian Eggestein,h,125,OpenPlay,2021,RightFoot,17781,Freiburg,Bochum,3,0,2022-04-16 13:30:00,Nils Petersen,Pass
+469928,65,SavedShot,0.8569999694824219,0.44799999237060545,0.05264969915151596,Maximilian Eggestein,h,125,OpenPlay,2021,RightFoot,17790,Freiburg,Borussia M.Gladbach,3,3,2022-04-23 13:30:00,Christian Günter,Cross
+469932,75,BlockedShot,0.754000015258789,0.64,0.01577560044825077,Maximilian Eggestein,h,125,FromCorner,2021,LeftFoot,17790,Freiburg,Borussia M.Gladbach,3,3,2022-04-23 13:30:00,,None
+473082,79,MissedShots,0.850999984741211,0.49400001525878906,0.01999959908425808,Maximilian Eggestein,h,125,OpenPlay,2021,Head,17809,Freiburg,Union Berlin,1,4,2022-05-07 13:30:00,Christian Günter,Cross
+475623,37,MissedShots,0.7380000305175781,0.31,0.025964299216866493,Maximilian Eggestein,a,125,FromCorner,2021,RightFoot,17819,Bayer Leverkusen,Freiburg,2,1,2022-05-14 13:30:00,Lukas Kübler,Pass
+479220,33,BlockedShot,0.795,0.3189999961853027,0.026168499141931534,Maximilian Eggestein,a,125,OpenPlay,2022,RightFoot,19347,Augsburg,Freiburg,0,4,2022-08-06 13:30:00,Vincenzo Grifo,Pass
+479226,47,MissedShots,0.904000015258789,0.3559999847412109,0.10547900199890137,Maximilian Eggestein,a,125,OpenPlay,2022,RightFoot,19347,Augsburg,Freiburg,0,4,2022-08-06 13:30:00,,None
+480040,9,SavedShot,0.7630000305175781,0.29399999618530276,0.01859310083091259,Maximilian Eggestein,h,125,OpenPlay,2022,RightFoot,19351,Freiburg,Borussia Dortmund,1,3,2022-08-12 18:30:00,Ritsu Doan,Pass
+489609,58,MissedShots,0.8430000305175781,0.38799999237060545,0.0704393982887268,Maximilian Eggestein,a,125,OpenPlay,2022,RightFoot,19404,Hoffenheim,Freiburg,0,0,2022-09-18 17:30:00,Daniel-Kofi Kyereh,Pass
+497396,12,MissedShots,0.8959999847412109,0.5570000076293945,0.034758999943733215,Maximilian Eggestein,a,125,OpenPlay,2022,Head,19448,Schalke 04,Freiburg,0,2,2022-10-30 16:30:00,Christian Günter,Aerial
+498823,30,BlockedShot,0.8440000152587891,0.58,0.047102898359298706,Maximilian Eggestein,h,125,FromCorner,2022,LeftFoot,19450,Freiburg,FC Cologne,2,0,2022-11-06 16:30:00,Christian Günter,Pass
+514123,4,Goal,0.87,0.54,0.046025898307561874,Maximilian Eggestein,h,125,OpenPlay,2022,LeftFoot,19551,Freiburg,Hoffenheim,2,1,2023-03-12 14:30:00,,Aerial
+514129,39,BlockedShot,0.765,0.31,0.026652200147509575,Maximilian Eggestein,h,125,OpenPlay,2022,RightFoot,19551,Freiburg,Hoffenheim,2,1,2023-03-12 14:30:00,Matthias Ginter,Pass
+516125,20,BlockedShot,0.76,0.4420000076293945,0.021938400343060493,Maximilian Eggestein,h,125,OpenPlay,2022,RightFoot,19568,Freiburg,Hertha Berlin,1,1,2023-04-01 13:30:00,,None
+516131,41,MissedShots,0.7630000305175781,0.509000015258789,0.0181450005620718,Maximilian Eggestein,h,125,SetPiece,2022,RightFoot,19568,Freiburg,Hertha Berlin,1,1,2023-04-01 13:30:00,,None
+516135,54,BlockedShot,0.8219999694824218,0.685,0.04302329942584038,Maximilian Eggestein,h,125,OpenPlay,2022,RightFoot,19568,Freiburg,Hertha Berlin,1,1,2023-04-01 13:30:00,Christian Günter,Pass
+516144,77,BlockedShot,0.774000015258789,0.36900001525878906,0.02217629924416542,Maximilian Eggestein,h,125,OpenPlay,2022,RightFoot,19568,Freiburg,Hertha Berlin,1,1,2023-04-01 13:30:00,Christian Günter,Pass
+517918,65,MissedShots,0.8080000305175781,0.5120000076293946,0.04458620026707649,Maximilian Eggestein,h,125,OpenPlay,2022,RightFoot,19578,Freiburg,Bayern Munich,0,1,2023-04-08 13:30:00,,None
+522653,31,SavedShot,0.8430000305175781,0.435,0.06431494653224945,Maximilian Eggestein,a,125,OpenPlay,2022,RightFoot,19606,FC Cologne,Freiburg,0,1,2023-04-29 13:30:00,,None
+522664,58,SavedShot,0.745999984741211,0.385,0.026262428611516953,Maximilian Eggestein,a,125,OpenPlay,2022,RightFoot,19606,FC Cologne,Freiburg,0,1,2023-04-29 13:30:00,Vincenzo Grifo,Pass
+527041,11,MissedShots,0.740999984741211,0.38,0.022474411875009537,Maximilian Eggestein,h,125,OpenPlay,2022,RightFoot,19632,Freiburg,Wolfsburg,2,0,2023-05-19 18:30:00,Matthias Ginter,Pass
+534620,42,BlockedShot,0.6919999694824219,0.34,0.012799535878002644,Maximilian Eggestein,h,125,OpenPlay,2023,RightFoot,23075,Freiburg,Werder Bremen,1,0,2023-08-26 13:30:00,Vincenzo Grifo,Pass
+534636,75,BlockedShot,0.7269999694824218,0.5070000076293946,0.017087426036596298,Maximilian Eggestein,h,125,OpenPlay,2023,RightFoot,23075,Freiburg,Werder Bremen,1,0,2023-08-26 13:30:00,Maximilian Philipp,Pass
+537562,65,BlockedShot,0.7809999847412109,0.34700000762939454,0.024620091542601585,Maximilian Eggestein,h,125,OpenPlay,2023,LeftFoot,23094,Freiburg,Borussia Dortmund,2,4,2023-09-16 13:30:00,Vincenzo Grifo,TakeOn
+541923,90,BlockedShot,0.7480000305175781,0.5609999847412109,0.03165074437856674,Maximilian Eggestein,h,125,OpenPlay,2023,LeftFoot,23118,Freiburg,Augsburg,2,0,2023-10-01 15:30:00,Merlin Röhl,Pass
+543939,18,BlockedShot,0.7830000305175782,0.485,0.03238954395055771,Maximilian Eggestein,h,125,OpenPlay,2023,RightFoot,23130,Freiburg,Bochum,2,1,2023-10-21 13:30:00,Vincenzo Grifo,Pass
+543951,53,MissedShots,0.84,0.475,0.08181387186050415,Maximilian Eggestein,h,125,OpenPlay,2023,RightFoot,23130,Freiburg,Bochum,2,1,2023-10-21 13:30:00,,None
+543956,60,BlockedShot,0.89,0.38799999237060545,0.018505487591028214,Maximilian Eggestein,h,125,FromCorner,2023,Head,23130,Freiburg,Bochum,2,1,2023-10-21 13:30:00,Vincenzo Grifo,Cross
+543963,86,BlockedShot,0.825999984741211,0.51,0.07928650826215744,Maximilian Eggestein,h,125,OpenPlay,2023,LeftFoot,23130,Freiburg,Bochum,2,1,2023-10-21 13:30:00,Lukas Kübler,Pass
+546768,1,MissedShots,0.715,0.4370000076293945,0.013758647255599499,Maximilian Eggestein,h,125,FromCorner,2023,RightFoot,23148,Freiburg,Borussia M.Gladbach,3,3,2023-11-04 14:30:00,,None
+546780,46,BlockedShot,0.7580000305175781,0.4829999923706055,0.025687983259558678,Maximilian Eggestein,h,125,OpenPlay,2023,LeftFoot,23148,Freiburg,Borussia M.Gladbach,3,3,2023-11-04 14:30:00,Merlin Röhl,Pass
+549211,34,SavedShot,0.7080000305175781,0.46700000762939453,0.015958797186613083,Maximilian Eggestein,a,125,OpenPlay,2023,RightFoot,23156,RasenBallsport Leipzig,Freiburg,3,1,2023-11-12 19:30:00,Vincenzo Grifo,Pass
+549212,45,BlockedShot,0.8909999847412109,0.5259999847412109,0.0743543803691864,Maximilian Eggestein,a,125,OpenPlay,2023,Head,23156,RasenBallsport Leipzig,Freiburg,3,1,2023-11-12 19:30:00,Noah Weißhaupt,Cross
+549220,70,MissedShots,0.8180000305175781,0.5479999923706055,0.050264909863471985,Maximilian Eggestein,a,125,OpenPlay,2023,LeftFoot,23156,RasenBallsport Leipzig,Freiburg,3,1,2023-11-12 19:30:00,Lucas Höler,Pass
+549678,45,MissedShots,0.8540000152587891,0.44,0.08868484199047089,Maximilian Eggestein,h,125,OpenPlay,2023,LeftFoot,23166,Freiburg,Darmstadt,1,1,2023-11-25 14:30:00,Lucas Höler,Pass
+549686,86,BlockedShot,0.7819999694824219,0.5629999923706055,0.03164457157254219,Maximilian Eggestein,h,125,OpenPlay,2023,LeftFoot,23166,Freiburg,Darmstadt,1,1,2023-11-25 14:30:00,,None
+549689,92,SavedShot,0.9290000152587891,0.40400001525878904,0.08804841339588165,Maximilian Eggestein,h,125,OpenPlay,2023,Head,23166,Freiburg,Darmstadt,1,1,2023-11-25 14:30:00,Noah Weißhaupt,Cross
+551823,50,MissedShots,0.875,0.5420000076293945,0.08501937985420227,Maximilian Eggestein,a,125,OpenPlay,2023,LeftFoot,23176,Mainz 05,Freiburg,0,1,2023-12-03 14:30:00,Michael Gregoritsch,HeadPass
+551830,66,BlockedShot,0.7680000305175781,0.47900001525878905,0.029028335586190224,Maximilian Eggestein,a,125,OpenPlay,2023,LeftFoot,23176,Mainz 05,Freiburg,0,1,2023-12-03 14:30:00,Michael Gregoritsch,Pass
+554891,88,BlockedShot,0.8180000305175781,0.48400001525878905,0.0423157699406147,Maximilian Eggestein,h,125,FromCorner,2023,LeftFoot,23193,Freiburg,FC Cologne,2,0,2023-12-17 14:30:00,,None
+554892,89,BlockedShot,0.855,0.539000015258789,0.07360865920782089,Maximilian Eggestein,h,125,FromCorner,2023,LeftFoot,23193,Freiburg,FC Cologne,2,0,2023-12-17 14:30:00,,Rebound
+555701,84,BlockedShot,0.779000015258789,0.3220000076293945,0.027649078518152237,Maximilian Eggestein,a,125,OpenPlay,2023,RightFoot,23208,FC Heidenheim,Freiburg,3,2,2023-12-20 19:30:00,Michael Gregoritsch,LayOff
+555705,88,BlockedShot,0.85,0.46599998474121096,0.0687318816781044,Maximilian Eggestein,a,125,OpenPlay,2023,RightFoot,23208,FC Heidenheim,Freiburg,3,2,2023-12-20 19:30:00,,None
+561185,50,MissedShots,0.905,0.3,0.04479636624455452,Maximilian Eggestein,h,125,OpenPlay,2023,RightFoot,23238,Freiburg,VfB Stuttgart,1,3,2024-02-03 14:30:00,Roland Sallai,Chipped
+561197,93,SavedShot,0.85,0.5170000076293946,0.05895553156733513,Maximilian Eggestein,h,125,OpenPlay,2023,RightFoot,23238,Freiburg,VfB Stuttgart,1,3,2024-02-03 14:30:00,,None
+562176,83,MissedShots,0.8180000305175781,0.4540000152587891,0.040561556816101074,Maximilian Eggestein,a,125,FromCorner,2023,RightFoot,23246,Borussia Dortmund,Freiburg,3,0,2024-02-09 19:30:00,,None
+564461,42,MissedShots,0.8669999694824219,0.6869999694824219,0.03214864432811737,Maximilian Eggestein,h,125,FromCorner,2023,LeftFoot,23255,Freiburg,Eintracht Frankfurt,3,3,2024-02-18 14:30:00,Manuel Gulde,BallTouch
+564464,51,BlockedShot,0.7380000305175781,0.38799999237060545,0.018713761121034622,Maximilian Eggestein,h,125,OpenPlay,2023,RightFoot,23255,Freiburg,Eintracht Frankfurt,3,3,2024-02-18 14:30:00,Lucas Höler,Pass
+566181,41,MissedShots,0.785,0.34599998474121096,0.025267455726861954,Maximilian Eggestein,h,125,OpenPlay,2023,RightFoot,23273,Freiburg,Bayern Munich,2,2,2024-03-01 19:30:00,Vincenzo Grifo,Pass
+566186,48,MissedShots,0.870999984741211,0.37799999237060544,0.07702254503965378,Maximilian Eggestein,h,125,OpenPlay,2023,RightFoot,23273,Freiburg,Bayern Munich,2,2,2024-03-01 19:30:00,Roland Sallai,Pass
+566188,57,MissedShots,0.725,0.4129999923706055,0.014257289469242096,Maximilian Eggestein,h,125,FromCorner,2023,RightFoot,23273,Freiburg,Bayern Munich,2,2,2024-03-01 19:30:00,,None
+566199,82,MissedShots,0.8959999847412109,0.5320000076293945,0.07124260812997818,Maximilian Eggestein,h,125,OpenPlay,2023,Head,23273,Freiburg,Bayern Munich,2,2,2024-03-01 19:30:00,Merlin Röhl,Cross
+568652,35,Goal,0.950999984741211,0.45,0.5493501424789429,Maximilian Eggestein,a,125,OpenPlay,2023,RightFoot,23287,Bochum,Freiburg,1,2,2024-03-10 14:30:00,Michael Gregoritsch,HeadPass
+570553,6,BlockedShot,0.8640000152587891,0.36700000762939455,0.059952497482299805,Maximilian Eggestein,a,125,OpenPlay,2023,RightFoot,23303,Borussia M.Gladbach,Freiburg,0,3,2024-03-30 14:30:00,,None
+570566,33,SavedShot,0.7230000305175781,0.45799999237060546,0.01969541609287262,Maximilian Eggestein,a,125,OpenPlay,2023,RightFoot,23303,Borussia M.Gladbach,Freiburg,0,3,2024-03-30 14:30:00,,None
+572357,40,SavedShot,0.87,0.34799999237060547,0.06647289544343948,Maximilian Eggestein,h,125,OpenPlay,2023,RightFoot,23310,Freiburg,RasenBallsport Leipzig,1,4,2024-04-06 13:30:00,Ritsu Doan,Pass
+579801,45,BlockedShot,0.8580000305175781,0.6930000305175781,0.03899093344807625,Maximilian Eggestein,h,125,OpenPlay,2023,RightFoot,23355,Freiburg,FC Heidenheim,1,1,2024-05-11 13:30:00,Michael Gregoritsch,Pass
+579802,46,SavedShot,0.909000015258789,0.4420000076293945,0.041478224098682404,Maximilian Eggestein,h,125,OpenPlay,2023,Head,23355,Freiburg,FC Heidenheim,1,1,2024-05-11 13:30:00,Christian Günter,Aerial
+581488,9,SavedShot,0.919000015258789,0.36700000762939455,0.09672961384057999,Maximilian Eggestein,a,125,OpenPlay,2023,LeftFoot,23363,Union Berlin,Freiburg,2,1,2024-05-18 13:30:00,Ritsu Doan,Pass
+581500,58,BlockedShot,0.774000015258789,0.500999984741211,0.03258556127548218,Maximilian Eggestein,a,125,OpenPlay,2023,RightFoot,23363,Union Berlin,Freiburg,2,1,2024-05-18 13:30:00,Nicolas Höfler,Pass
+590668,2,MissedShots,0.8669999694824219,0.47200000762939454,0.0384482815861702,Maximilian Eggestein,h,125,SetPiece,2024,RightFoot,27762,Freiburg,Bochum,2,1,2024-09-14 13:30:00,Vincenzo Grifo,Cross
+590696,66,BlockedShot,0.8369999694824218,0.455,0.07497435063123703,Maximilian Eggestein,h,125,OpenPlay,2024,RightFoot,27762,Freiburg,Bochum,2,1,2024-09-14 13:30:00,,Rebound
+595406,15,MissedShots,0.7709999847412109,0.5670000076293945,0.02097245678305626,Maximilian Eggestein,a,125,OpenPlay,2024,LeftFoot,27789,Werder Bremen,Freiburg,0,1,2024-10-05 13:30:00,,Rebound
+595410,28,SavedShot,0.784000015258789,0.40099998474121096,0.03173531964421272,Maximilian Eggestein,a,125,OpenPlay,2024,RightFoot,27789,Werder Bremen,Freiburg,0,1,2024-10-05 13:30:00,Eren Sami Dinkci,Pass
+595418,57,BlockedShot,0.77,0.37599998474121094,0.020155973732471466,Maximilian Eggestein,a,125,OpenPlay,2024,LeftFoot,27789,Werder Bremen,Freiburg,0,1,2024-10-05 13:30:00,,None
+596933,26,SavedShot,0.7240000152587891,0.4809999847412109,0.013056335970759392,Maximilian Eggestein,h,125,OpenPlay,2024,RightFoot,27800,Freiburg,Augsburg,3,1,2024-10-19 13:30:00,,None
+596948,87,BlockedShot,0.8919999694824219,0.48200000762939454,0.11102350801229477,Maximilian Eggestein,h,125,OpenPlay,2024,RightFoot,27800,Freiburg,Augsburg,3,1,2024-10-19 13:30:00,,None
+600595,47,MissedShots,0.7119999694824218,0.5890000152587891,0.014040155336260796,Maximilian Eggestein,h,125,OpenPlay,2024,RightFoot,27819,Freiburg,Mainz 05,0,0,2024-11-03 14:30:00,Vincenzo Grifo,Pass
+600597,54,BlockedShot,0.905,0.710999984741211,0.037083763629198074,Maximilian Eggestein,h,125,OpenPlay,2024,RightFoot,27819,Freiburg,Mainz 05,0,0,2024-11-03 14:30:00,Vincenzo Grifo,Pass
+604201,1,BlockedShot,0.855,0.3340000152587891,0.045152418315410614,Maximilian Eggestein,h,125,OpenPlay,2024,RightFoot,27845,Freiburg,Borussia M.Gladbach,3,1,2024-11-30 14:30:00,Lucas Höler,Pass
+604211,44,SavedShot,0.7519999694824219,0.6480000305175782,0.02755758911371231,Maximilian Eggestein,h,125,OpenPlay,2024,RightFoot,27845,Freiburg,Borussia M.Gladbach,3,1,2024-11-30 14:30:00,Nicolas Höfler,Pass
+606534,27,BlockedShot,0.8530000305175781,0.41900001525878905,0.08887897431850433,Maximilian Eggestein,a,125,OpenPlay,2024,RightFoot,27852,Hoffenheim,Freiburg,1,1,2024-12-08 16:30:00,Ritsu Doan,Pass
+606539,45,MissedShots,0.8690000152587891,0.45099998474121095,0.07962905615568161,Maximilian Eggestein,a,125,OpenPlay,2024,RightFoot,27852,Hoffenheim,Freiburg,1,1,2024-12-08 16:30:00,,None
+608483,14,SavedShot,0.9619999694824218,0.5170000076293946,0.7387526035308838,Maximilian Eggestein,a,125,SetPiece,2024,Head,27868,Bayer Leverkusen,Freiburg,5,1,2024-12-21 17:30:00,,Aerial
+610660,28,SavedShot,0.72,0.47200000762939454,0.01593184843659401,Maximilian Eggestein,h,125,OpenPlay,2024,RightFoot,27881,Freiburg,Holstein Kiel,3,2,2025-01-11 14:30:00,,Rebound
+613240,5,BlockedShot,0.7290000152587891,0.4379999923706055,0.018102915957570076,Maximilian Eggestein,h,125,OpenPlay,2024,LeftFoot,27912,Freiburg,Bayern Munich,1,2,2025-01-25 14:30:00,Ritsu Doan,Pass
+614749,59,BlockedShot,0.875999984741211,0.285,0.0489378497004509,Maximilian Eggestein,a,125,OpenPlay,2024,RightFoot,27914,Bochum,Freiburg,0,1,2025-02-01 14:30:00,Kiliann Sildillia,Pass
+614751,59,BlockedShot,0.8880000305175781,0.4159999847412109,0.08764007687568665,Maximilian Eggestein,a,125,FromCorner,2024,LeftFoot,27914,Bochum,Freiburg,0,1,2025-02-01 14:30:00,,Rebound
+618113,58,BlockedShot,0.9469999694824218,0.5879999923706055,0.028663624078035355,Maximilian Eggestein,h,125,FromCorner,2024,Head,27944,Freiburg,Werder Bremen,5,0,2025-02-21 19:30:00,Vincenzo Grifo,Aerial
+621512,63,BlockedShot,0.8880000305175781,0.5359999847412109,0.07515540719032288,Maximilian Eggestein,h,125,FromCorner,2024,RightFoot,27963,Freiburg,RasenBallsport Leipzig,0,0,2025-03-08 17:30:00,Kiliann Sildillia,BallTouch
+621517,76,BlockedShot,0.7280000305175781,0.4829999923706055,0.020042860880494118,Maximilian Eggestein,h,125,OpenPlay,2024,LeftFoot,27963,Freiburg,RasenBallsport Leipzig,0,0,2025-03-08 17:30:00,Vincenzo Grifo,Pass
+622521,21,BlockedShot,0.87,0.5220000076293946,0.09242303669452667,Maximilian Eggestein,a,125,OpenPlay,2024,RightFoot,27972,Mainz 05,Freiburg,2,2,2025-03-15 14:30:00,,Rebound
+622525,32,MissedShots,0.8340000152587891,0.4779999923706055,0.05796298757195473,Maximilian Eggestein,a,125,OpenPlay,2024,RightFoot,27972,Mainz 05,Freiburg,2,2,2025-03-15 14:30:00,,Rebound
+622532,53,BlockedShot,0.9340000152587891,0.34700000762939454,0.05927187576889992,Maximilian Eggestein,a,125,FromCorner,2024,LeftFoot,27972,Mainz 05,Freiburg,2,2,2025-03-15 14:30:00,,None
+624649,76,MissedShots,0.9059999847412109,0.46099998474121096,0.04003900662064552,Maximilian Eggestein,h,125,OpenPlay,2024,Head,27982,Freiburg,Union Berlin,1,2,2025-03-30 14:30:00,Jan-Niklas Beste,Aerial
+625631,87,Goal,0.8730000305175781,0.33799999237060546,0.06086684390902519,Maximilian Eggestein,h,125,OpenPlay,2024,RightFoot,27988,Freiburg,Borussia Dortmund,1,4,2025-04-05 13:30:00,Ritsu Doan,Pass
+627060,18,SavedShot,0.7909999847412109,0.2720000076293945,0.017603063955903053,Maximilian Eggestein,a,125,OpenPlay,2024,RightFoot,28000,Borussia M.Gladbach,Freiburg,1,2,2025-04-12 13:30:00,Lukas Kübler,Pass
+627085,92,BlockedShot,0.8019999694824219,0.624000015258789,0.050822239369153976,Maximilian Eggestein,a,125,OpenPlay,2024,RightFoot,28000,Borussia M.Gladbach,Freiburg,1,2,2025-04-12 13:30:00,,None
+627086,92,SavedShot,0.9340000152587891,0.575,0.48450911045074463,Maximilian Eggestein,a,125,OpenPlay,2024,LeftFoot,28000,Borussia M.Gladbach,Freiburg,1,2,2025-04-12 13:30:00,,BlockedPass
+628386,13,SavedShot,0.745999984741211,0.4879999923706055,0.016973327845335007,Maximilian Eggestein,h,125,OpenPlay,2024,RightFoot,28007,Freiburg,Hoffenheim,3,2,2025-04-19 13:30:00,,Rebound
+628394,40,BlockedShot,0.74,0.5579999923706055,0.01895313523709774,Maximilian Eggestein,h,125,OpenPlay,2024,RightFoot,28007,Freiburg,Hoffenheim,3,2,2025-04-19 13:30:00,,None
+630198,72,MissedShots,0.8090000152587891,0.4809999847412109,0.0710144117474556,Maximilian Eggestein,a,125,OpenPlay,2024,RightFoot,28018,Wolfsburg,Freiburg,0,1,2025-04-26 13:30:00,Johan Manzambi,Pass
+632118,43,Goal,0.7319999694824219,0.5609999847412109,0.02259918674826622,Maximilian Eggestein,h,125,OpenPlay,2024,RightFoot,28024,Freiburg,Bayer Leverkusen,2,2,2025-05-04 15:30:00,,TakeOn
+634495,2,BlockedShot,0.795,0.2929999923706055,0.021771039813756943,Maximilian Eggestein,h,125,OpenPlay,2024,LeftFoot,28043,Freiburg,Eintracht Frankfurt,1,3,2025-05-17 13:30:00,Max Rosenfelder,Pass
+634511,89,MissedShots,0.89,0.595999984741211,0.07099904119968414,Maximilian Eggestein,h,125,SetPiece,2024,RightFoot,28043,Freiburg,Eintracht Frankfurt,1,3,2025-05-17 13:30:00,,None
+634512,96,MissedShots,0.905,0.3990000152587891,0.04710552468895912,Maximilian Eggestein,h,125,SetPiece,2024,Head,28043,Freiburg,Eintracht Frankfurt,1,3,2025-05-17 13:30:00,Vincenzo Grifo,Cross
+638728,14,BlockedShot,0.795,0.5820000076293945,0.04083327576518059,Maximilian Eggestein,h,125,OpenPlay,2025,LeftFoot,30229,Freiburg,Augsburg,1,3,2025-08-23 13:30:00,Vincenzo Grifo,Pass
+641093,17,MissedShots,0.740999984741211,0.5,0.02015787363052368,Maximilian Eggestein,a,125,OpenPlay,2025,RightFoot,30241,FC Cologne,Freiburg,4,1,2025-08-31 17:30:00,Vincenzo Grifo,Pass
+641097,32,BlockedShot,0.9819999694824219,0.38,0.016137516126036644,Maximilian Eggestein,a,125,FromCorner,2025,Head,30241,FC Cologne,Freiburg,4,1,2025-08-31 17:30:00,Christian Günter,Cross
+641114,83,Goal,0.9390000152587891,0.5320000076293945,0.12370923161506653,Maximilian Eggestein,a,125,FromCorner,2025,Head,30241,FC Cologne,Freiburg,4,1,2025-08-31 17:30:00,Christian Günter,Cross
+641500,27,BlockedShot,0.8109999847412109,0.495,0.04612917825579643,Maximilian Eggestein,h,125,OpenPlay,2025,LeftFoot,30243,Freiburg,VfB Stuttgart,3,1,2025-09-13 13:30:00,,None
+643034,79,MissedShots,0.9230000305175782,0.39299999237060546,0.05921870842576027,Maximilian Eggestein,a,125,SetPiece,2025,Head,30252,Werder Bremen,Freiburg,0,3,2025-09-20 13:30:00,Derry Scherhant,Cross
+647037,8,MissedShots,0.7919999694824219,0.6179999923706054,0.02328556589782238,Maximilian Eggestein,a,125,OpenPlay,2025,LeftFoot,30270,Borussia M.Gladbach,Freiburg,0,0,2025-10-05 17:30:00,Vincenzo Grifo,HeadPass
+650723,78,BlockedShot,0.7430000305175781,0.44799999237060545,0.017693469300866127,Maximilian Eggestein,a,125,OpenPlay,2025,LeftFoot,30303,Union Berlin,Freiburg,0,0,2025-11-01 14:30:00,,None
+652845,14,BlockedShot,0.855,0.48700000762939455,0.05574128031730652,Maximilian Eggestein,h,125,FromCorner,2025,RightFoot,30308,Freiburg,St. Pauli,2,1,2025-11-09 14:30:00,Philipp Lienhart,BallTouch
+652846,14,BlockedShot,0.9540000152587891,0.47900001525878905,0.4871826767921448,Maximilian Eggestein,h,125,FromCorner,2025,Head,30308,Freiburg,St. Pauli,2,1,2025-11-09 14:30:00,Jan-Niklas Beste,Cross
+652849,49,Goal,0.93,0.51,0.5929612517356873,Maximilian Eggestein,h,125,OpenPlay,2025,RightFoot,30308,Freiburg,St. Pauli,2,1,2025-11-09 14:30:00,,None
+653553,47,BlockedShot,0.764000015258789,0.5740000152587891,0.025106282904744148,Maximilian Eggestein,a,125,OpenPlay,2025,RightFoot,30315,Bayern Munich,Freiburg,6,2,2025-11-22 14:30:00,Derry Scherhant,Pass
+655913,42,MissedShots,0.8909999847412109,0.5370000076293945,0.08356329053640366,Maximilian Eggestein,h,125,FromCorner,2025,LeftFoot,30327,Freiburg,Mainz 05,4,0,2025-11-30 18:30:00,Matthias Ginter,HeadPass
+655914,42,SavedShot,0.905,0.4520000076293945,0.08221326023340225,Maximilian Eggestein,h,125,OpenPlay,2025,Head,30327,Freiburg,Mainz 05,4,0,2025-11-30 18:30:00,Jan-Niklas Beste,Cross
+656751,54,BlockedShot,0.8519999694824218,0.285,0.04893786087632179,Maximilian Eggestein,a,125,OpenPlay,2025,LeftFoot,30338,FC Heidenheim,Freiburg,2,1,2025-12-06 14:30:00,,None
+656754,60,MissedShots,0.7909999847412109,0.585999984741211,0.025601737201213837,Maximilian Eggestein,a,125,OpenPlay,2025,LeftFoot,30338,FC Heidenheim,Freiburg,2,1,2025-12-06 14:30:00,,Rebound
+656759,68,BlockedShot,0.8030000305175782,0.5520000076293945,0.04489617794752121,Maximilian Eggestein,a,125,OpenPlay,2025,RightFoot,30338,FC Heidenheim,Freiburg,2,1,2025-12-06 14:30:00,,None
+656763,79,SavedShot,0.9080000305175782,0.30100000381469727,0.061532486230134964,Maximilian Eggestein,a,125,OpenPlay,2025,RightFoot,30338,FC Heidenheim,Freiburg,2,1,2025-12-06 14:30:00,Lucas Höler,Pass
+658699,81,BlockedShot,0.815,0.3609999847412109,0.03906673192977905,Maximilian Eggestein,h,125,OpenPlay,2025,RightFoot,30345,Freiburg,Borussia Dortmund,1,1,2025-12-14 14:30:00,,None
+659189,52,BlockedShot,0.9580000305175781,0.40900001525878904,0.11966565996408463,Maximilian Eggestein,a,125,SetPiece,2025,RightFoot,30358,Wolfsburg,Freiburg,3,4,2025-12-20 14:30:00,,Rebound
+659199,80,SavedShot,0.975,0.4909999847412109,0.1950523406267166,Maximilian Eggestein,a,125,FromCorner,2025,RightFoot,30358,Wolfsburg,Freiburg,3,4,2025-12-20 14:30:00,,Rebound
+662400,12,MissedShots,0.8930000305175781,0.6459999847412109,0.020498136058449745,Maximilian Eggestein,h,125,SetPiece,2025,Head,30363,Freiburg,Hamburger SV,2,1,2026-01-10 14:30:00,Christian Günter,Cross
+662405,26,BlockedShot,0.8590000152587891,0.40900001525878904,0.06108611077070236,Maximilian Eggestein,h,125,SetPiece,2025,RightFoot,30363,Freiburg,Hamburger SV,2,1,2026-01-10 14:30:00,Lucas Höler,Chipped
+662420,75,BlockedShot,0.749000015258789,0.4470000076293945,0.021525058895349503,Maximilian Eggestein,h,125,OpenPlay,2025,RightFoot,30363,Freiburg,Hamburger SV,2,1,2026-01-10 14:30:00,Philipp Treu,Pass
+663043,19,SavedShot,0.8980000305175782,0.34900001525878904,0.021101385354995728,Maximilian Eggestein,a,125,SetPiece,2025,Head,30374,RasenBallsport Leipzig,Freiburg,2,0,2026-01-14 19:30:00,Yuito Suzuki,Cross
+664207,58,SavedShot,0.769000015258789,0.3370000076293945,0.0175347700715065,Maximilian Eggestein,a,125,OpenPlay,2025,LeftFoot,30377,Augsburg,Freiburg,2,2,2026-01-18 16:30:00,Lukas Kübler,Pass
+665447,6,BlockedShot,0.7069999694824218,0.45599998474121095,0.013130316510796547,Maximilian Eggestein,h,125,OpenPlay,2025,LeftFoot,30390,Freiburg,FC Cologne,2,1,2026-01-25 16:30:00,Igor Matanovic,Pass
+666573,48,MissedShots,0.840999984741211,0.34,0.017697980627417564,Maximilian Eggestein,a,125,OpenPlay,2025,RightFoot,30402,VfB Stuttgart,Freiburg,1,0,2026-02-01 14:30:00,,Aerial
+667188,57,MissedShots,0.8590000152587891,0.46299999237060546,0.06788906455039978,Maximilian Eggestein,h,125,SetPiece,2025,LeftFoot,30407,Freiburg,Werder Bremen,1,0,2026-02-07 14:30:00,,None
+668685,0,SavedShot,0.8240000152587891,0.3509999847412109,0.02767897956073284,Maximilian Eggestein,a,125,SetPiece,2025,RightFoot,30418,Hoffenheim,Freiburg,3,0,2026-02-14 14:30:00,Cyriaque Irié,HeadPass
+668692,26,SavedShot,0.850999984741211,0.71,0.04138331860303879,Maximilian Eggestein,a,125,FromCorner,2025,RightFoot,30418,Hoffenheim,Freiburg,3,0,2026-02-14 14:30:00,Derry Scherhant,Pass
+668713,68,MissedShots,0.9569999694824218,0.6120000076293945,0.05263228341937065,Maximilian Eggestein,a,125,FromCorner,2025,RightFoot,30418,Hoffenheim,Freiburg,3,0,2026-02-14 14:30:00,Derry Scherhant,Cross
+668714,71,BlockedShot,0.9230000305175782,0.37099998474121093,0.09595714509487152,Maximilian Eggestein,a,125,OpenPlay,2025,RightFoot,30418,Hoffenheim,Freiburg,3,0,2026-02-14 14:30:00,Philipp Treu,Pass
+670243,4,BlockedShot,0.815,0.54,0.052764154970645905,Maximilian Eggestein,h,125,OpenPlay,2025,LeftFoot,30424,Freiburg,Borussia M.Gladbach,2,1,2026-02-22 14:30:00,,None
+670263,86,SavedShot,0.8180000305175781,0.544000015258789,0.062231823801994324,Maximilian Eggestein,h,125,OpenPlay,2025,LeftFoot,30424,Freiburg,Borussia M.Gladbach,2,1,2026-02-22 14:30:00,Derry Scherhant,Pass
+672558,88,SavedShot,0.860999984741211,0.485,0.07753054797649384,Maximilian Eggestein,h,125,OpenPlay,2025,RightFoot,30442,Freiburg,Bayer Leverkusen,3,3,2026-03-07 14:30:00,,None
+674595,11,MissedShots,0.87,0.255,0.031136825680732727,Maximilian Eggestein,h,125,OpenPlay,2025,RightFoot,30453,Freiburg,Union Berlin,0,1,2026-03-15 16:30:00,Philipp Treu,Pass
+674598,19,BlockedShot,0.805,0.24600000381469728,0.019862351939082146,Maximilian Eggestein,h,125,OpenPlay,2025,RightFoot,30453,Freiburg,Union Berlin,0,1,2026-03-15 16:30:00,Cyriaque Irié,Pass
+674616,89,SavedShot,0.8730000305175781,0.34599998474121096,0.05231915041804314,Maximilian Eggestein,h,125,OpenPlay,2025,RightFoot,30453,Freiburg,Union Berlin,0,1,2026-03-15 16:30:00,,Rebound
+676591,74,BlockedShot,0.8119999694824219,0.64,0.051179420202970505,Maximilian Eggestein,h,125,OpenPlay,2025,RightFoot,30470,Freiburg,Bayern Munich,2,3,2026-04-04 13:30:00,Philipp Treu,Pass
+676600,97,BlockedShot,0.9290000152587891,0.5409999847412109,0.11480915546417236,Maximilian Eggestein,h,125,OpenPlay,2025,RightFoot,30470,Freiburg,Bayern Munich,2,3,2026-04-04 13:30:00,Derry Scherhant,BallTouch
+679665,82,Goal,0.86,0.4759999847412109,0.10522421449422836,Maximilian Eggestein,h,125,OpenPlay,2025,RightFoot,30489,Freiburg,FC Heidenheim,2,1,2026-04-19 13:30:00,Vincenzo Grifo,Pass
+683130,25,BlockedShot,0.924000015258789,0.4329999923706055,0.04802298918366432,Maximilian Eggestein,h,125,SetPiece,2025,Head,30507,Freiburg,Wolfsburg,1,1,2026-05-03 17:30:00,Jan-Niklas Beste,Aerial
+683147,90,MissedShots,0.8380000305175781,0.565,0.1129697635769844,Maximilian Eggestein,h,125,OpenPlay,2025,RightFoot,30507,Freiburg,Wolfsburg,1,1,2026-05-03 17:30:00,Derry Scherhant,Pass

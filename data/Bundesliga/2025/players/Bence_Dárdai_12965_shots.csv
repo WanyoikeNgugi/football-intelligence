@@ -1,0 +1,12 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+602434,41,Goal,0.960999984741211,0.43099998474121093,0.11145386844873428,Bence Dárdai,a,12965,FromCorner,2024,RightFoot,27825,FC Heidenheim,Wolfsburg,1,3,2024-11-10 18:30:00,,None
+606796,23,BlockedShot,0.924000015258789,0.55,0.10519653558731079,Bence Dárdai,a,12965,FromCorner,2024,RightFoot,27862,Freiburg,Wolfsburg,3,2,2024-12-13 19:30:00,,None
+606802,42,BlockedShot,0.7340000152587891,0.47700000762939454,0.019699709489941597,Bence Dárdai,a,12965,OpenPlay,2024,RightFoot,27862,Freiburg,Wolfsburg,3,2,2024-12-13 19:30:00,Maximilian Arnold,Pass
+611408,30,BlockedShot,0.799000015258789,0.4490000152587891,0.0545010082423687,Bence Dárdai,h,12965,OpenPlay,2024,RightFoot,27891,Wolfsburg,Borussia M.Gladbach,5,1,2025-01-14 19:30:00,Joakim Maehle,Pass
+619953,35,BlockedShot,0.8090000152587891,0.44799999237060545,0.06712672859430313,Bence Dárdai,a,12965,OpenPlay,2024,RightFoot,27953,Werder Bremen,Wolfsburg,1,2,2025-03-01 14:30:00,Mohammed Amoura,Pass
+621164,89,MissedShots,0.924000015258789,0.2979999923706055,0.050824202597141266,Bence Dárdai,h,12965,OpenPlay,2024,RightFoot,27964,Wolfsburg,St. Pauli,1,1,2025-03-08 14:30:00,,None
+622593,55,MissedShots,0.7419999694824219,0.6090000152587891,0.019682414829730988,Bence Dárdai,a,12965,OpenPlay,2024,RightFoot,27971,Augsburg,Wolfsburg,1,0,2025-03-15 14:30:00,Mohammed Amoura,Pass
+626744,21,ShotOnPost,0.8869999694824219,0.5459999847412109,0.057170379906892776,Bence Dárdai,h,12965,OpenPlay,2024,Head,27999,Wolfsburg,RasenBallsport Leipzig,2,3,2025-04-11 18:30:00,Maximilian Arnold,Cross
+626745,21,MissedShots,0.9569999694824218,0.600999984741211,0.3999243676662445,Bence Dárdai,h,12965,OpenPlay,2024,LeftFoot,27999,Wolfsburg,RasenBallsport Leipzig,2,3,2025-04-11 18:30:00,,Rebound
+626748,34,BlockedShot,0.9340000152587891,0.46599998474121096,0.14365695416927338,Bence Dárdai,h,12965,OpenPlay,2024,Head,27999,Wolfsburg,RasenBallsport Leipzig,2,3,2025-04-11 18:30:00,Jakub Kaminski,Cross
+628492,14,MissedShots,0.970999984741211,0.3559999847412109,0.12974420189857483,Bence Dárdai,a,12965,OpenPlay,2024,RightFoot,28009,Mainz 05,Wolfsburg,2,2,2025-04-19 13:30:00,Mohammed Amoura,Pass

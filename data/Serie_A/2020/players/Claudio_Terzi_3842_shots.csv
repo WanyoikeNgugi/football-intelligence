@@ -1,0 +1,7 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+42067,20,MissedShots,0.8419999694824218,0.5129999923706055,0.056269798427820206,Claudio Terzi,h,3842,FromCorner,2014,LeftFoot,5128,Palermo,Inter,1,1,2014-09-21 19:45:00,,None
+385041,72,MissedShots,0.9490000152587891,0.6509999847412109,0.011881600134074688,Claudio Terzi,h,3842,FromCorner,2020,Head,15482,Spezia,Juventus,1,4,2020-11-01 14:00:00,Simone Bastoni,Aerial
+391494,94,MissedShots,0.9,0.515,0.06310970336198807,Claudio Terzi,a,3842,FromCorner,2020,Head,15529,Crotone,Spezia,4,1,2020-12-12 14:00:00,Riccardo Marchizza,Cross
+398569,19,Goal,0.95,0.46599998474121096,0.4498400092124939,Claudio Terzi,h,3842,FromCorner,2020,Head,15593,Spezia,Sampdoria,2,1,2021-01-11 19:45:00,Julian Chabot,Aerial
+421477,29,MissedShots,0.895,0.5779999923706055,0.05407689884305,Claudio Terzi,a,3842,FromCorner,2020,RightFoot,15783,Sampdoria,Spezia,2,2,2021-05-12 18:45:00,Simone Bastoni,Cross
+421789,43,SavedShot,0.8859999847412109,0.575,0.04662429913878441,Claudio Terzi,h,3842,SetPiece,2020,Head,15795,Spezia,Torino,4,1,2021-05-15 13:00:00,Matteo Ricci,Cross

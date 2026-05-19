@@ -1,0 +1,449 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+24900,15,SavedShot,0.8780000305175781,0.6140000152587891,0.016651200130581856,Anthony Modeste,h,137,OpenPlay,2014,Head,5412,Hoffenheim,Wolfsburg,1,1,2014-09-13 14:30:00,Niklas Süle,Pass
+24922,54,Goal,0.945,0.5179999923706055,0.6217589974403381,Anthony Modeste,h,137,OpenPlay,2014,RightFoot,5412,Hoffenheim,Wolfsburg,1,1,2014-09-13 14:30:00,,Rebound
+24924,57,MissedShots,0.789000015258789,0.355,0.041322801262140274,Anthony Modeste,h,137,OpenPlay,2014,LeftFoot,5412,Hoffenheim,Wolfsburg,1,1,2014-09-13 14:30:00,Sebastian Rudy,Interception
+24925,58,MissedShots,0.8169999694824219,0.575,0.056191399693489075,Anthony Modeste,h,137,SetPiece,2014,RightFoot,5412,Hoffenheim,Wolfsburg,1,1,2014-09-13 14:30:00,Tarik Elyounoussi,HeadPass
+25163,14,Goal,0.8980000305175782,0.5270000076293946,0.06293629854917526,Anthony Modeste,a,137,SetPiece,2014,Head,5421,VfB Stuttgart,Hoffenheim,0,2,2014-09-20 14:30:00,Sebastian Rudy,Chipped
+25546,9,SavedShot,0.8640000152587891,0.634000015258789,0.3075149953365326,Anthony Modeste,a,137,OpenPlay,2014,RightFoot,5438,Mainz 05,Hoffenheim,0,0,2014-09-26 19:30:00,Eugen Polanski,Throughball
+25550,24,SavedShot,0.8119999694824219,0.375,0.055417198687791824,Anthony Modeste,a,137,OpenPlay,2014,RightFoot,5438,Mainz 05,Hoffenheim,0,0,2014-09-26 19:30:00,Eugen Polanski,Pass
+25552,27,MissedShots,0.885,0.4759999847412109,0.08266980201005936,Anthony Modeste,a,137,OpenPlay,2014,RightFoot,5438,Mainz 05,Hoffenheim,0,0,2014-09-26 19:30:00,Sebastian Rudy,Cross
+25556,50,BlockedShot,0.745,0.40200000762939453,0.015580699779093266,Anthony Modeste,a,137,OpenPlay,2014,RightFoot,5438,Mainz 05,Hoffenheim,0,0,2014-09-26 19:30:00,,None
+26120,14,Goal,0.785,0.33599998474121096,0.37247800827026367,Anthony Modeste,a,137,OpenPlay,2014,RightFoot,5399,Hamburger SV,Hoffenheim,1,1,2014-10-19 14:30:00,Pirmin Schwegler,Throughball
+26121,17,MissedShots,0.855,0.2610000038146973,0.028050599619746208,Anthony Modeste,a,137,OpenPlay,2014,RightFoot,5399,Hamburger SV,Hoffenheim,1,1,2014-10-19 14:30:00,Niklas Süle,TakeOn
+26529,23,BlockedShot,0.7290000152587891,0.44799999237060545,0.015758100897073746,Anthony Modeste,a,137,OpenPlay,2014,RightFoot,5353,Borussia M.Gladbach,Hoffenheim,3,1,2014-11-02 14:30:00,,BallRecovery
+26532,29,Goal,0.8519999694824218,0.41900001525878905,0.36106300354003906,Anthony Modeste,a,137,OpenPlay,2014,RightFoot,5353,Borussia M.Gladbach,Hoffenheim,3,1,2014-11-02 14:30:00,Steven Zuber,Throughball
+26922,8,MissedShots,0.9269999694824219,0.4620000076293945,0.34550899267196655,Anthony Modeste,a,137,OpenPlay,2014,Head,5365,Bayern Munich,Hoffenheim,4,0,2014-11-22 14:30:00,Tarik Elyounoussi,Chipped
+26925,19,MissedShots,0.9059999847412109,0.44299999237060544,0.13119199872016907,Anthony Modeste,a,137,OpenPlay,2014,RightFoot,5365,Bayern Munich,Hoffenheim,4,0,2014-11-22 14:30:00,Roberto Firmino,Pass
+28091,16,MissedShots,0.8180000305175781,0.664000015258789,0.033850301057100296,Anthony Modeste,h,137,OpenPlay,2014,RightFoot,5321,Hoffenheim,Eintracht Frankfurt,3,2,2014-12-12 19:30:00,Tarik Elyounoussi,Pass
+28092,18,SavedShot,0.8690000152587891,0.5790000152587891,0.023125600069761276,Anthony Modeste,h,137,OpenPlay,2014,Head,5321,Hoffenheim,Eintracht Frankfurt,3,2,2014-12-12 19:30:00,Andreas Beck,Cross
+28093,22,MissedShots,0.8480000305175781,0.5179999923706055,0.04620720073580742,Anthony Modeste,h,137,OpenPlay,2014,RightFoot,5321,Hoffenheim,Eintracht Frankfurt,3,2,2014-12-12 19:30:00,Tarik Elyounoussi,Cross
+28095,29,BlockedShot,0.7169999694824218,0.5729999923706055,0.015294300392270088,Anthony Modeste,h,137,OpenPlay,2014,RightFoot,5321,Hoffenheim,Eintracht Frankfurt,3,2,2014-12-12 19:30:00,Kevin Volland,Pass
+28101,45,MissedShots,0.919000015258789,0.5179999923706055,0.10423099994659424,Anthony Modeste,h,137,FromCorner,2014,Head,5321,Hoffenheim,Eintracht Frankfurt,3,2,2014-12-12 19:30:00,Pirmin Schwegler,Cross
+28496,3,MissedShots,0.9290000152587891,0.7240000152587891,0.0667572021484375,Anthony Modeste,a,137,OpenPlay,2014,LeftFoot,5261,Augsburg,Hoffenheim,3,1,2015-02-01 16:30:00,Roberto Firmino,Pass
+28510,47,MissedShots,0.91,0.500999984741211,0.1055850014090538,Anthony Modeste,a,137,OpenPlay,2014,RightFoot,5261,Augsburg,Hoffenheim,3,1,2015-02-01 16:30:00,Andreas Beck,Chipped
+28644,90,MissedShots,0.8190000152587891,0.4929999923706055,0.0077275498770177364,Anthony Modeste,h,137,SetPiece,2014,Head,5270,Hoffenheim,Werder Bremen,1,2,2015-02-04 19:00:00,Sebastian Rudy,Aerial
+29369,70,SavedShot,0.9059999847412109,0.44,0.523730993270874,Anthony Modeste,a,137,OpenPlay,2014,RightFoot,5276,Wolfsburg,Hoffenheim,3,0,2015-02-07 14:30:00,,None
+29371,74,MissedShots,0.845,0.47200000762939454,0.03390439972281456,Anthony Modeste,a,137,SetPiece,2014,Head,5276,Wolfsburg,Hoffenheim,3,0,2015-02-07 14:30:00,Jin-Su Kim,Chipped
+29219,74,SavedShot,0.8809999847412109,0.2879999923706055,0.022265600040555,Anthony Modeste,h,137,OpenPlay,2014,RightFoot,5283,Hoffenheim,VfB Stuttgart,2,1,2015-02-14 14:30:00,Roberto Firmino,Cross
+29221,76,MissedShots,0.97,0.38799999237060545,0.1116499975323677,Anthony Modeste,h,137,OpenPlay,2014,RightFoot,5283,Hoffenheim,VfB Stuttgart,2,1,2015-02-14 14:30:00,Kevin Volland,Pass
+29224,83,MissedShots,0.9209999847412109,0.59,0.017829300835728645,Anthony Modeste,h,137,FromCorner,2014,Head,5283,Hoffenheim,VfB Stuttgart,2,1,2015-02-14 14:30:00,Sejad Salihovic,Aerial
+29327,5,MissedShots,0.700999984741211,0.47,0.010546100325882435,Anthony Modeste,a,137,OpenPlay,2014,RightFoot,5290,Freiburg,Hoffenheim,1,1,2015-02-21 14:30:00,,None
+29329,14,SavedShot,0.7219999694824218,0.47900001525878905,0.017400499433279037,Anthony Modeste,a,137,OpenPlay,2014,RightFoot,5290,Freiburg,Hoffenheim,1,1,2015-02-21 14:30:00,Kevin Volland,Pass
+29334,34,MissedShots,0.8190000152587891,0.34900001525878904,0.017156299203634262,Anthony Modeste,a,137,OpenPlay,2014,RightFoot,5290,Freiburg,Hoffenheim,1,1,2015-02-21 14:30:00,Kevin Volland,Chipped
+29338,49,MissedShots,0.81,0.44599998474121094,0.05447069928050041,Anthony Modeste,a,137,OpenPlay,2014,RightFoot,5290,Freiburg,Hoffenheim,1,1,2015-02-21 14:30:00,Sejad Salihovic,BallRecovery
+29345,65,SavedShot,0.8919999694824219,0.30100000381469727,0.11327499896287918,Anthony Modeste,a,137,OpenPlay,2014,LeftFoot,5290,Freiburg,Hoffenheim,1,1,2015-02-21 14:30:00,Roberto Firmino,Throughball
+29346,68,MissedShots,0.9459999847412109,0.5420000076293945,0.14760400354862213,Anthony Modeste,a,137,OpenPlay,2014,LeftFoot,5290,Freiburg,Hoffenheim,1,1,2015-02-21 14:30:00,Kevin Volland,Pass
+29735,2,BlockedShot,0.93,0.38299999237060545,0.35131600499153137,Anthony Modeste,a,137,OpenPlay,2014,LeftFoot,5238,Schalke 04,Hoffenheim,3,1,2015-03-07 14:30:00,,None
+29743,23,BlockedShot,0.93,0.43900001525878907,0.48065701127052307,Anthony Modeste,a,137,OpenPlay,2014,LeftFoot,5238,Schalke 04,Hoffenheim,3,1,2015-03-07 14:30:00,Andreas Beck,Pass
+29744,24,MissedShots,0.9269999694824219,0.455,0.04811039939522743,Anthony Modeste,a,137,FromCorner,2014,Head,5238,Schalke 04,Hoffenheim,3,1,2015-03-07 14:30:00,Pirmin Schwegler,Aerial
+30229,77,SavedShot,0.9230000305175782,0.5070000076293946,0.38078799843788147,Anthony Modeste,h,137,SetPiece,2014,Head,5198,Hoffenheim,Borussia M.Gladbach,1,4,2015-04-04 14:30:00,Sejad Salihovic,Chipped
+30234,86,SavedShot,0.855,0.6509999847412109,0.27890101075172424,Anthony Modeste,h,137,OpenPlay,2014,RightFoot,5198,Hoffenheim,Borussia M.Gladbach,1,4,2015-04-04 14:30:00,,BallRecovery
+31470,71,MissedShots,0.884000015258789,0.5520000076293945,0.0838112011551857,Anthony Modeste,a,137,OpenPlay,2014,RightFoot,5211,FC Cologne,Hoffenheim,3,2,2015-04-12 14:30:00,Ádám Szalai,Chipped
+31469,71,MissedShots,0.7869999694824219,0.4640000152587891,0.034345101565122604,Anthony Modeste,a,137,OpenPlay,2014,RightFoot,5211,FC Cologne,Hoffenheim,3,2,2015-04-12 14:30:00,,None
+31475,87,Goal,0.945,0.5070000076293946,0.2786490023136139,Anthony Modeste,a,137,FromCorner,2014,Head,5211,FC Cologne,Hoffenheim,3,2,2015-04-12 14:30:00,Sebastian Rudy,Aerial
+31476,89,MissedShots,0.9209999847412109,0.509000015258789,0.053748298436403275,Anthony Modeste,a,137,OpenPlay,2014,Head,5211,FC Cologne,Hoffenheim,3,2,2015-04-12 14:30:00,Kevin Volland,Aerial
+32023,29,SavedShot,0.825999984741211,0.4759999847412109,0.3135890066623688,Anthony Modeste,h,137,OpenPlay,2014,RightFoot,5215,Hoffenheim,Bayern Munich,0,2,2015-04-18 14:30:00,,None
+29790,1,Goal,0.9269999694824219,0.5840000152587891,0.4060269892215729,Anthony Modeste,a,137,OpenPlay,2014,RightFoot,5223,Hannover 96,Hoffenheim,1,2,2015-04-25 14:30:00,Roberto Firmino,Rebound
+29801,32,MissedShots,0.9869999694824219,0.42400001525878905,0.10895700007677078,Anthony Modeste,a,137,OpenPlay,2014,RightFoot,5223,Hannover 96,Hoffenheim,1,2,2015-04-25 14:30:00,,Foul
+30882,3,SavedShot,0.895,0.6359999847412109,0.11652299761772156,Anthony Modeste,h,137,OpenPlay,2014,RightFoot,5162,Hoffenheim,Borussia Dortmund,1,1,2015-05-02 14:30:00,Kevin Volland,Throughball
+30890,42,MissedShots,0.9519999694824218,0.34200000762939453,0.06548620015382767,Anthony Modeste,h,137,OpenPlay,2014,RightFoot,5162,Hoffenheim,Borussia Dortmund,1,1,2015-05-02 14:30:00,,None
+30893,57,MissedShots,0.9080000305175782,0.66,0.32930201292037964,Anthony Modeste,h,137,OpenPlay,2014,RightFoot,5162,Hoffenheim,Borussia Dortmund,1,1,2015-05-02 14:30:00,,BallRecovery
+30895,60,SavedShot,0.9519999694824218,0.36400001525878906,0.43133100867271423,Anthony Modeste,h,137,OpenPlay,2014,RightFoot,5162,Hoffenheim,Borussia Dortmund,1,1,2015-05-02 14:30:00,,Aerial
+30899,67,MissedShots,0.9069999694824219,0.445,0.09233859926462173,Anthony Modeste,h,137,OpenPlay,2014,RightFoot,5162,Hoffenheim,Borussia Dortmund,1,1,2015-05-02 14:30:00,Kevin Volland,Cross
+30900,73,MissedShots,0.8380000305175781,0.53,0.05704160034656525,Anthony Modeste,h,137,OpenPlay,2014,RightFoot,5162,Hoffenheim,Borussia Dortmund,1,1,2015-05-02 14:30:00,Roberto Firmino,HeadPass
+31699,20,MissedShots,0.7709999847412109,0.5990000152587891,0.03457380086183548,Anthony Modeste,a,137,SetPiece,2014,RightFoot,5173,Eintracht Frankfurt,Hoffenheim,3,1,2015-05-09 14:30:00,Ádám Szalai,LayOff
+30175,16,SavedShot,0.840999984741211,0.7140000152587891,0.04180160164833069,Anthony Modeste,a,137,OpenPlay,2014,LeftFoot,5178,Bayer Leverkusen,Hoffenheim,2,0,2015-05-16 14:30:00,Kevin Volland,HeadPass
+30176,17,MissedShots,0.7130000305175781,0.6880000305175781,0.009400789625942707,Anthony Modeste,a,137,OpenPlay,2014,RightFoot,5178,Bayer Leverkusen,Hoffenheim,2,0,2015-05-16 14:30:00,,None
+30202,93,MissedShots,0.815,0.6120000076293945,0.03218439966440201,Anthony Modeste,a,137,OpenPlay,2014,LeftFoot,5178,Bayer Leverkusen,Hoffenheim,2,0,2015-05-16 14:30:00,,None
+31339,7,Goal,0.8690000152587891,0.6170000076293946,0.07203900068998337,Anthony Modeste,h,137,OpenPlay,2014,RightFoot,5190,Hoffenheim,Hertha Berlin,2,1,2015-05-23 14:30:00,Roberto Firmino,Chipped
+31346,51,BlockedShot,0.9030000305175782,0.69,0.07382850348949432,Anthony Modeste,h,137,OpenPlay,2014,LeftFoot,5190,Hoffenheim,Hertha Berlin,2,1,2015-05-23 14:30:00,Jeremy Toljan,Pass
+76186,74,Goal,0.885,0.5,0.7577769756317139,Anthony Modeste,a,137,Penalty,2015,RightFoot,1029,VfB Stuttgart,FC Cologne,1,3,2015-08-16 19:30:00,,Standard
+76423,59,BlockedShot,0.9259999847412109,0.48400001525878905,0.14502599835395813,Anthony Modeste,h,137,OpenPlay,2015,Head,1034,FC Cologne,Wolfsburg,1,1,2015-08-22 17:30:00,Marcel Risse,Cross
+76424,59,SavedShot,0.8490000152587891,0.5029999923706054,0.07414159923791885,Anthony Modeste,h,137,OpenPlay,2015,RightFoot,1034,FC Cologne,Wolfsburg,1,1,2015-08-22 17:30:00,Marcel Risse,Cross
+76430,70,SavedShot,0.874000015258789,0.56,0.10368099808692932,Anthony Modeste,h,137,OpenPlay,2015,RightFoot,1034,FC Cologne,Wolfsburg,1,1,2015-08-22 17:30:00,Simon Zoller,Chipped
+76678,62,ShotOnPost,0.8540000152587891,0.47,0.08493710309267044,Anthony Modeste,h,137,OpenPlay,2015,RightFoot,1042,FC Cologne,Hamburger SV,2,1,2015-08-29 17:30:00,Milos Jojic,Pass
+76681,74,SavedShot,0.775,0.4209999847412109,0.09495999664068222,Anthony Modeste,h,137,OpenPlay,2015,RightFoot,1042,FC Cologne,Hamburger SV,2,1,2015-08-29 17:30:00,Milos Jojic,Throughball
+76685,80,Goal,0.885,0.5,0.7577769756317139,Anthony Modeste,h,137,Penalty,2015,RightFoot,1042,FC Cologne,Hamburger SV,2,1,2015-08-29 17:30:00,,Standard
+76860,27,Goal,0.919000015258789,0.49900001525878906,0.3206529915332794,Anthony Modeste,a,137,OpenPlay,2015,Head,1054,Eintracht Frankfurt,FC Cologne,6,2,2015-09-12 20:30:00,Simon Zoller,Cross
+76872,65,SavedShot,0.8669999694824219,0.3189999961853027,0.042552098631858826,Anthony Modeste,a,137,OpenPlay,2015,RightFoot,1054,Eintracht Frankfurt,FC Cologne,6,2,2015-09-12 20:30:00,Philipp Hosiner,Pass
+77154,60,MissedShots,0.904000015258789,0.39799999237060546,0.028481200337409973,Anthony Modeste,h,137,FromCorner,2015,Head,1062,FC Cologne,Borussia M.Gladbach,1,0,2015-09-19 17:30:00,Milos Jojic,Cross
+77155,63,Goal,0.925,0.56,0.0559346005320549,Anthony Modeste,h,137,OpenPlay,2015,Head,1062,FC Cologne,Borussia M.Gladbach,1,0,2015-09-19 17:30:00,Leonardo Bittencourt,Aerial
+77156,77,SavedShot,0.9009999847412109,0.6020000076293945,0.0469249002635479,Anthony Modeste,h,137,OpenPlay,2015,Head,1062,FC Cologne,Borussia M.Gladbach,1,0,2015-09-19 17:30:00,Yuya Osako,Cross
+77359,41,MissedShots,0.8969999694824219,0.5579999923706055,0.07228259742259979,Anthony Modeste,a,137,OpenPlay,2015,Head,1067,Hertha Berlin,FC Cologne,2,0,2015-09-22 22:00:00,Jonas Hector,Cross
+77363,49,MissedShots,0.909000015258789,0.425,0.07666269689798355,Anthony Modeste,a,137,OpenPlay,2015,Head,1067,Hertha Berlin,FC Cologne,2,0,2015-09-22 22:00:00,Marcel Risse,Cross
+77370,63,SavedShot,0.879000015258789,0.5779999923706055,0.03144510090351105,Anthony Modeste,a,137,OpenPlay,2015,Head,1067,Hertha Berlin,FC Cologne,2,0,2015-09-22 22:00:00,Yuya Osako,Cross
+77373,88,SavedShot,0.865999984741211,0.475,0.013294099830091,Anthony Modeste,a,137,OpenPlay,2015,Head,1067,Hertha Berlin,FC Cologne,2,0,2015-09-22 22:00:00,Dominique Heintz,Aerial
+77641,9,Goal,0.879000015258789,0.509000015258789,0.05637170001864433,Anthony Modeste,h,137,OpenPlay,2015,Head,1075,FC Cologne,Ingolstadt,1,1,2015-09-25 22:30:00,Marcel Risse,Cross
+77656,58,MissedShots,0.7380000305175781,0.549000015258789,0.014549899846315384,Anthony Modeste,h,137,OpenPlay,2015,RightFoot,1075,FC Cologne,Ingolstadt,1,1,2015-09-25 22:30:00,Yuya Osako,HeadPass
+77657,60,MissedShots,0.8859999847412109,0.504000015258789,0.0345878005027771,Anthony Modeste,h,137,OpenPlay,2015,Head,1075,FC Cologne,Ingolstadt,1,1,2015-09-25 22:30:00,Leonardo Bittencourt,Aerial
+77717,5,MissedShots,0.8719999694824219,0.5129999923706055,0.012645900249481201,Anthony Modeste,a,137,SetPiece,2015,Head,1090,Schalke 04,FC Cologne,0,3,2015-10-04 17:30:00,Jonas Hector,Aerial
+77723,25,SavedShot,0.865999984741211,0.7019999694824218,0.3087559938430786,Anthony Modeste,a,137,OpenPlay,2015,RightFoot,1090,Schalke 04,FC Cologne,0,3,2015-10-04 17:30:00,Jonas Hector,Throughball
+77724,26,MissedShots,0.8059999847412109,0.4540000152587891,0.05186789855360985,Anthony Modeste,a,137,OpenPlay,2015,RightFoot,1090,Schalke 04,FC Cologne,0,3,2015-10-04 17:30:00,Pawel Olkowski,Pass
+77731,44,Goal,0.8719999694824219,0.34,0.08302920311689377,Anthony Modeste,a,137,OpenPlay,2015,RightFoot,1090,Schalke 04,FC Cologne,0,3,2015-10-04 17:30:00,Leonardo Bittencourt,Pass
+77736,67,BlockedShot,0.919000015258789,0.6090000152587891,0.34127599000930786,Anthony Modeste,a,137,OpenPlay,2015,RightFoot,1090,Schalke 04,FC Cologne,0,3,2015-10-04 17:30:00,,Rebound
+77735,67,BlockedShot,0.919000015258789,0.6090000152587891,0.12050899863243103,Anthony Modeste,a,137,OpenPlay,2015,LeftFoot,1090,Schalke 04,FC Cologne,0,3,2015-10-04 17:30:00,Yuya Osako,Pass
+78098,13,BlockedShot,0.875,0.5970000076293945,0.07052239775657654,Anthony Modeste,h,137,SetPiece,2015,RightFoot,1100,FC Cologne,Hannover 96,0,1,2015-10-18 17:30:00,Marcel Risse,Chipped
+78099,13,MissedShots,0.875,0.5970000076293945,0.07492180168628693,Anthony Modeste,h,137,SetPiece,2015,RightFoot,1100,FC Cologne,Hannover 96,0,1,2015-10-18 17:30:00,,Rebound
+78103,24,MissedShots,0.885,0.620999984741211,0.09139460325241089,Anthony Modeste,h,137,OpenPlay,2015,LeftFoot,1100,FC Cologne,Hannover 96,0,1,2015-10-18 17:30:00,Yannick Gerhardt,Pass
+78112,64,SavedShot,0.95,0.42400001525878905,0.2841080129146576,Anthony Modeste,h,137,OpenPlay,2015,Head,1100,FC Cologne,Hannover 96,0,1,2015-10-18 17:30:00,Leonardo Bittencourt,Cross
+78117,85,SavedShot,0.8930000305175781,0.500999984741211,0.04284980148077011,Anthony Modeste,h,137,OpenPlay,2015,Head,1100,FC Cologne,Hannover 96,0,1,2015-10-18 17:30:00,Marcel Risse,Chipped
+78582,47,MissedShots,0.85,0.6630000305175782,0.2474599927663803,Anthony Modeste,h,137,OpenPlay,2015,RightFoot,1112,FC Cologne,Hoffenheim,0,0,2015-10-31 18:30:00,Kevin Vogt,Pass
+78585,56,SavedShot,0.9119999694824219,0.4640000152587891,0.11890000104904175,Anthony Modeste,h,137,OpenPlay,2015,Head,1112,FC Cologne,Hoffenheim,0,0,2015-10-31 18:30:00,Marcel Risse,Cross
+78586,57,MissedShots,0.9269999694824219,0.42200000762939455,0.07141140103340149,Anthony Modeste,h,137,FromCorner,2015,Head,1112,FC Cologne,Hoffenheim,0,0,2015-10-31 18:30:00,Jonas Hector,Cross
+78588,63,MissedShots,0.8830000305175781,0.675,0.05471180006861687,Anthony Modeste,h,137,OpenPlay,2015,LeftFoot,1112,FC Cologne,Hoffenheim,0,0,2015-10-31 18:30:00,Leonardo Bittencourt,Chipped
+78589,64,SavedShot,0.8180000305175781,0.754000015258789,0.021858399733901024,Anthony Modeste,h,137,OpenPlay,2015,RightFoot,1112,FC Cologne,Hoffenheim,0,0,2015-10-31 18:30:00,Matthias Lehmann,Chipped
+78596,81,MissedShots,0.9259999847412109,0.46700000762939453,0.15919500589370728,Anthony Modeste,h,137,OpenPlay,2015,OtherBodyPart,1112,FC Cologne,Hoffenheim,0,0,2015-10-31 18:30:00,Leonardo Bittencourt,Cross
+78597,85,MissedShots,0.8040000152587891,0.5029999923706054,0.03593739867210388,Anthony Modeste,h,137,OpenPlay,2015,LeftFoot,1112,FC Cologne,Hoffenheim,0,0,2015-10-31 18:30:00,Philipp Hosiner,HeadPass
+78685,3,BlockedShot,0.86,0.500999984741211,0.0802927017211914,Anthony Modeste,a,137,OpenPlay,2015,RightFoot,1123,Bayer Leverkusen,FC Cologne,1,2,2015-11-07 18:30:00,Marcel Risse,Chipped
+78686,3,SavedShot,0.8919999694824219,0.53,0.3880369961261749,Anthony Modeste,a,137,OpenPlay,2015,LeftFoot,1123,Bayer Leverkusen,FC Cologne,1,2,2015-11-07 18:30:00,,Rebound
+78696,29,MissedShots,0.8669999694824219,0.555,0.0989006981253624,Anthony Modeste,a,137,OpenPlay,2015,RightFoot,1123,Bayer Leverkusen,FC Cologne,1,2,2015-11-07 18:30:00,Marcel Risse,Chipped
+78697,30,BlockedShot,0.9069999694824219,0.4779999923706055,0.0352368988096714,Anthony Modeste,a,137,FromCorner,2015,Head,1123,Bayer Leverkusen,FC Cologne,1,2,2015-11-07 18:30:00,Leonardo Bittencourt,Aerial
+78699,48,MissedShots,0.865,0.505,0.10403499752283096,Anthony Modeste,a,137,OpenPlay,2015,RightFoot,1123,Bayer Leverkusen,FC Cologne,1,2,2015-11-07 18:30:00,Matthias Lehmann,Pass
+79051,47,SavedShot,0.915,0.29399999618530276,0.051766201853752136,Anthony Modeste,h,137,OpenPlay,2015,RightFoot,1132,FC Cologne,Mainz 05,0,0,2015-11-21 18:30:00,Yuya Osako,Chipped
+79320,36,MissedShots,0.9119999694824219,0.5220000076293946,0.10784599930047989,Anthony Modeste,a,137,OpenPlay,2015,LeftFoot,1138,Darmstadt,FC Cologne,0,0,2015-11-27 23:30:00,Yannick Gerhardt,Cross
+79321,38,MissedShots,0.8880000305175781,0.6959999847412109,0.10885600000619888,Anthony Modeste,a,137,OpenPlay,2015,LeftFoot,1138,Darmstadt,FC Cologne,0,0,2015-11-27 23:30:00,Kevin Vogt,Throughball
+79325,51,BlockedShot,0.95,0.46599998474121096,0.14773400127887726,Anthony Modeste,a,137,OpenPlay,2015,RightFoot,1138,Darmstadt,FC Cologne,0,0,2015-11-27 23:30:00,Yuya Osako,Rebound
+79523,2,BlockedShot,0.8680000305175781,0.42700000762939455,0.09652189910411835,Anthony Modeste,h,137,OpenPlay,2015,RightFoot,1150,FC Cologne,Augsburg,0,1,2015-12-05 18:30:00,Leonardo Bittencourt,Pass
+79534,24,BlockedShot,0.8590000152587891,0.47,0.06832379847764969,Anthony Modeste,h,137,SetPiece,2015,RightFoot,1150,FC Cologne,Augsburg,0,1,2015-12-05 18:30:00,,None
+79547,57,SavedShot,0.885,0.5,0.7577769756317139,Anthony Modeste,h,137,Penalty,2015,RightFoot,1150,FC Cologne,Augsburg,0,1,2015-12-05 18:30:00,,Standard
+79548,58,MissedShots,0.915,0.5629999923706055,0.024090299382805824,Anthony Modeste,h,137,FromCorner,2015,Head,1150,FC Cologne,Augsburg,0,1,2015-12-05 18:30:00,Jonas Hector,Aerial
+79552,71,MissedShots,0.8880000305175781,0.509000015258789,0.3834800124168396,Anthony Modeste,h,137,OpenPlay,2015,LeftFoot,1150,FC Cologne,Augsburg,0,1,2015-12-05 18:30:00,Leonardo Bittencourt,HeadPass
+79734,30,MissedShots,0.895,0.6809999847412109,0.05249549821019173,Anthony Modeste,a,137,OpenPlay,2015,LeftFoot,1159,Werder Bremen,FC Cologne,1,1,2015-12-12 18:30:00,Dusan Svento,Pass
+79996,89,Goal,0.86,0.46,0.3031519949436188,Anthony Modeste,h,137,OpenPlay,2015,RightFoot,1169,FC Cologne,Borussia Dortmund,2,1,2015-12-19 18:30:00,Frederik Sörensen,HeadPass
+80175,18,Goal,0.885,0.5,0.7577769756317139,Anthony Modeste,h,137,Penalty,2015,RightFoot,1175,FC Cologne,VfB Stuttgart,1,3,2016-01-23 18:30:00,,Standard
+80189,60,MissedShots,0.815,0.5120000076293946,0.02018590085208416,Anthony Modeste,h,137,OpenPlay,2015,Head,1175,FC Cologne,VfB Stuttgart,1,3,2016-01-23 18:30:00,Jonas Hector,Chipped
+80192,72,MissedShots,0.885,0.5720000076293945,0.041106101125478745,Anthony Modeste,h,137,OpenPlay,2015,Head,1175,FC Cologne,VfB Stuttgart,1,3,2016-01-23 18:30:00,Filip Mladenovic,Cross
+80197,85,MissedShots,0.8880000305175781,0.46299999237060546,0.06254199892282486,Anthony Modeste,h,137,SetPiece,2015,Head,1175,FC Cologne,VfB Stuttgart,1,3,2016-01-23 18:30:00,Milos Jojic,Cross
+80200,90,SavedShot,0.9080000305175782,0.5029999923706054,0.39380401372909546,Anthony Modeste,h,137,OpenPlay,2015,RightFoot,1175,FC Cologne,VfB Stuttgart,1,3,2016-01-23 18:30:00,Yuya Osako,Pass
+80378,53,SavedShot,0.8969999694824219,0.4520000076293945,0.017898499965667725,Anthony Modeste,a,137,FromCorner,2015,Head,1190,Wolfsburg,FC Cologne,1,1,2016-01-31 18:30:00,Marcel Risse,Aerial
+80381,61,MissedShots,0.845999984741211,0.475,0.09344740211963654,Anthony Modeste,a,137,OpenPlay,2015,RightFoot,1190,Wolfsburg,FC Cologne,1,1,2016-01-31 18:30:00,Jonas Hector,Pass
+80382,61,SavedShot,0.9130000305175782,0.5729999923706055,0.26489201188087463,Anthony Modeste,a,137,OpenPlay,2015,Head,1190,Wolfsburg,FC Cologne,1,1,2016-01-31 18:30:00,Simon Zoller,Chipped
+80388,74,Goal,0.84,0.5979999923706054,0.04835459962487221,Anthony Modeste,a,137,OpenPlay,2015,RightFoot,1190,Wolfsburg,FC Cologne,1,1,2016-01-31 18:30:00,Leonardo Bittencourt,BallRecovery
+80593,4,MissedShots,0.88,0.24299999237060546,0.054598499089479446,Anthony Modeste,a,137,OpenPlay,2015,RightFoot,1199,Hamburger SV,FC Cologne,1,1,2016-02-07 18:30:00,,None
+80599,37,ShotOnPost,0.909000015258789,0.43,0.05588480085134506,Anthony Modeste,a,137,FromCorner,2015,Head,1199,Hamburger SV,FC Cologne,1,1,2016-02-07 18:30:00,Marcel Risse,Cross
+80610,61,MissedShots,0.9009999847412109,0.6519999694824219,0.0634630024433136,Anthony Modeste,a,137,OpenPlay,2015,LeftFoot,1199,Hamburger SV,FC Cologne,1,1,2016-02-07 18:30:00,,None
+80614,70,BlockedShot,0.860999984741211,0.40599998474121096,0.0902215987443924,Anthony Modeste,a,137,OpenPlay,2015,RightFoot,1199,Hamburger SV,FC Cologne,1,1,2016-02-07 18:30:00,Marcel Risse,Pass
+80901,19,SavedShot,0.6890000152587891,0.5059999847412109,0.02128159999847412,Anthony Modeste,h,137,OpenPlay,2015,RightFoot,1207,FC Cologne,Eintracht Frankfurt,3,1,2016-02-13 21:30:00,Yannick Gerhardt,Pass
+80908,45,BlockedShot,0.915,0.445,0.07545579969882965,Anthony Modeste,h,137,FromCorner,2015,LeftFoot,1207,FC Cologne,Eintracht Frankfurt,3,1,2016-02-13 21:30:00,Marcel Risse,Cross
+80915,71,Goal,0.919000015258789,0.5220000076293946,0.5232639908790588,Anthony Modeste,h,137,OpenPlay,2015,RightFoot,1207,FC Cologne,Eintracht Frankfurt,3,1,2016-02-13 21:30:00,Yannick Gerhardt,Pass
+80919,91,SavedShot,0.8619999694824219,0.37,0.11983100324869156,Anthony Modeste,h,137,OpenPlay,2015,RightFoot,1207,FC Cologne,Eintracht Frankfurt,3,1,2016-02-13 21:30:00,Kevin Vogt,Pass
+81070,13,BlockedShot,0.8780000305175781,0.3509999847412109,0.06136510148644447,Anthony Modeste,a,137,OpenPlay,2015,RightFoot,1215,Borussia M.Gladbach,FC Cologne,1,0,2016-02-20 18:30:00,Matthias Lehmann,Pass
+81084,53,MissedShots,0.905,0.45099998474121095,0.08563269674777985,Anthony Modeste,a,137,OpenPlay,2015,Head,1215,Borussia M.Gladbach,FC Cologne,1,0,2016-02-20 18:30:00,Filip Mladenovic,Cross
+81087,60,MissedShots,0.8830000305175781,0.4759999847412109,0.08032649755477905,Anthony Modeste,a,137,OpenPlay,2015,RightFoot,1215,Borussia M.Gladbach,FC Cologne,1,0,2016-02-20 18:30:00,Leonardo Bittencourt,Cross
+81091,79,BlockedShot,0.924000015258789,0.5179999923706055,0.11262799799442291,Anthony Modeste,a,137,FromCorner,2015,Head,1215,Borussia M.Gladbach,FC Cologne,1,0,2016-02-20 18:30:00,Milos Jojic,Cross
+81399,6,SavedShot,0.8519999694824218,0.2670000076293945,0.04906729981303215,Anthony Modeste,h,137,OpenPlay,2015,RightFoot,1219,FC Cologne,Hertha Berlin,0,1,2016-02-26 23:30:00,Marcel Risse,Pass
+81405,39,MissedShots,0.8780000305175781,0.5370000076293945,0.037122998386621475,Anthony Modeste,h,137,OpenPlay,2015,Head,1219,FC Cologne,Hertha Berlin,0,1,2016-02-26 23:30:00,Dominique Heintz,Chipped
+81412,67,BlockedShot,0.884000015258789,0.475,0.020546099171042442,Anthony Modeste,h,137,SetPiece,2015,Head,1219,FC Cologne,Hertha Berlin,0,1,2016-02-26 23:30:00,Jonas Hector,Aerial
+81419,81,ShotOnPost,0.8690000152587891,0.51,0.1296059936285019,Anthony Modeste,h,137,OpenPlay,2015,RightFoot,1219,FC Cologne,Hertha Berlin,0,1,2016-02-26 23:30:00,Marcel Risse,Pass
+81640,9,MissedShots,0.8619999694824219,0.32099998474121094,0.049017999321222305,Anthony Modeste,a,137,OpenPlay,2015,RightFoot,1229,Ingolstadt,FC Cologne,1,1,2016-03-01 23:00:00,Marcel Risse,Chipped
+81652,71,Goal,0.9119999694824219,0.4779999923706055,0.5902770161628723,Anthony Modeste,a,137,OpenPlay,2015,Head,1229,Ingolstadt,FC Cologne,1,1,2016-03-01 23:00:00,Marcel Risse,HeadPass
+81656,84,SavedShot,0.8519999694824218,0.34200000762939453,0.28245899081230164,Anthony Modeste,a,137,OpenPlay,2015,RightFoot,1229,Ingolstadt,FC Cologne,1,1,2016-03-01 23:00:00,Kevin Vogt,Chipped
+81876,8,MissedShots,0.89,0.5820000076293945,0.17061200737953186,Anthony Modeste,h,137,OpenPlay,2015,Head,1241,FC Cologne,Schalke 04,1,3,2016-03-05 18:30:00,Marcel Risse,Chipped
+81879,14,MissedShots,0.950999984741211,0.5209999847412109,0.7848929762840271,Anthony Modeste,h,137,OpenPlay,2015,LeftFoot,1241,FC Cologne,Schalke 04,1,3,2016-03-05 18:30:00,Leonardo Bittencourt,Pass
+81882,17,SavedShot,0.81,0.31,0.02701609954237938,Anthony Modeste,h,137,OpenPlay,2015,RightFoot,1241,FC Cologne,Schalke 04,1,3,2016-03-05 18:30:00,Yannick Gerhardt,TakeOn
+81898,65,MissedShots,0.8640000152587891,0.56,0.017265399917960167,Anthony Modeste,h,137,OpenPlay,2015,Head,1241,FC Cologne,Schalke 04,1,3,2016-03-05 18:30:00,Jonas Hector,Aerial
+81900,70,MissedShots,0.88,0.4329999923706055,0.3747349977493286,Anthony Modeste,h,137,OpenPlay,2015,LeftFoot,1241,FC Cologne,Schalke 04,1,3,2016-03-05 18:30:00,Leonardo Bittencourt,Throughball
+82045,51,BlockedShot,0.8580000305175781,0.4,0.0826508030295372,Anthony Modeste,a,137,OpenPlay,2015,RightFoot,1251,Hannover 96,FC Cologne,0,2,2016-03-12 18:30:00,,None
+82374,73,BlockedShot,0.855,0.524000015258789,0.3723590075969696,Anthony Modeste,h,137,OpenPlay,2015,RightFoot,1259,FC Cologne,Bayern Munich,0,1,2016-03-19 18:30:00,,None
+82533,36,MissedShots,0.8730000305175781,0.4620000076293945,0.37783899903297424,Anthony Modeste,a,137,OpenPlay,2015,RightFoot,1272,Hoffenheim,FC Cologne,1,1,2016-04-03 19:30:00,Leonardo Bittencourt,Throughball
+82770,20,MissedShots,0.919000015258789,0.585,0.07906939834356308,Anthony Modeste,h,137,OpenPlay,2015,Head,1281,FC Cologne,Bayer Leverkusen,0,2,2016-04-10 19:30:00,Jonas Hector,Cross
+82772,33,SavedShot,0.7680000305175781,0.655,0.07109940052032471,Anthony Modeste,h,137,OpenPlay,2015,RightFoot,1281,FC Cologne,Bayer Leverkusen,0,2,2016-04-10 19:30:00,Kevin Vogt,Chipped
+82783,60,SavedShot,0.8130000305175781,0.51,0.011557199992239475,Anthony Modeste,h,137,OpenPlay,2015,Head,1281,FC Cologne,Bayer Leverkusen,0,2,2016-04-10 19:30:00,Marcel Risse,Aerial
+82786,69,BlockedShot,0.8590000152587891,0.4570000076293945,0.010772000066936016,Anthony Modeste,h,137,SetPiece,2015,Head,1281,FC Cologne,Bayer Leverkusen,0,2,2016-04-10 19:30:00,Filip Mladenovic,Aerial
+83010,18,SavedShot,0.759000015258789,0.40799999237060547,0.042419999837875366,Anthony Modeste,a,137,OpenPlay,2015,RightFoot,1290,Mainz 05,FC Cologne,2,3,2016-04-17 19:30:00,Matthias Lehmann,BallRecovery
+83025,73,MissedShots,0.885,0.40700000762939453,0.03254320099949837,Anthony Modeste,a,137,OpenPlay,2015,Head,1290,Mainz 05,FC Cologne,2,3,2016-04-17 19:30:00,Filip Mladenovic,Chipped
+83028,78,BlockedShot,0.7080000305175781,0.4879999923706055,0.014323900453746319,Anthony Modeste,a,137,OpenPlay,2015,RightFoot,1290,Mainz 05,FC Cologne,2,3,2016-04-17 19:30:00,,Interception
+83029,82,Goal,0.84,0.40400001525878904,0.05914720147848129,Anthony Modeste,a,137,OpenPlay,2015,RightFoot,1290,Mainz 05,FC Cologne,2,3,2016-04-17 19:30:00,Matthias Lehmann,Chipped
+83221,3,Goal,0.8469999694824218,0.4370000076293945,0.2862890064716339,Anthony Modeste,h,137,OpenPlay,2015,RightFoot,1294,FC Cologne,Darmstadt,4,1,2016-04-23 17:30:00,Yannick Gerhardt,Pass
+83223,7,BlockedShot,0.87,0.5659999847412109,0.37944498658180237,Anthony Modeste,h,137,OpenPlay,2015,RightFoot,1294,FC Cologne,Darmstadt,4,1,2016-04-23 17:30:00,Marcel Risse,Chipped
+83229,33,MissedShots,0.9030000305175782,0.534000015258789,0.08107460290193558,Anthony Modeste,h,137,SetPiece,2015,LeftFoot,1294,FC Cologne,Darmstadt,4,1,2016-04-23 17:30:00,,None
+83230,34,Goal,0.8590000152587891,0.3340000152587891,0.28017500042915344,Anthony Modeste,h,137,OpenPlay,2015,RightFoot,1294,FC Cologne,Darmstadt,4,1,2016-04-23 17:30:00,Frederik Sörensen,Chipped
+83233,39,MissedShots,0.9259999847412109,0.5220000076293946,0.5743139982223511,Anthony Modeste,h,137,OpenPlay,2015,RightFoot,1294,FC Cologne,Darmstadt,4,1,2016-04-23 17:30:00,Marcel Risse,Pass
+83242,66,MissedShots,0.87,0.40700000762939453,0.09682690352201462,Anthony Modeste,h,137,SetPiece,2015,RightFoot,1294,FC Cologne,Darmstadt,4,1,2016-04-23 17:30:00,,TakeOn
+83246,75,SavedShot,0.8580000305175781,0.580999984741211,0.2839049994945526,Anthony Modeste,h,137,OpenPlay,2015,LeftFoot,1294,FC Cologne,Darmstadt,4,1,2016-04-23 17:30:00,Yuya Osako,Pass
+83368,63,BlockedShot,0.84,0.41,0.03054109960794449,Anthony Modeste,a,137,OpenPlay,2015,RightFoot,1300,Augsburg,FC Cologne,0,0,2016-04-29 22:30:00,Marcel Risse,Cross
+83637,46,SavedShot,0.88,0.6959999847412109,0.09248510003089905,Anthony Modeste,h,137,OpenPlay,2015,LeftFoot,1314,FC Cologne,Werder Bremen,0,0,2016-05-07 17:30:00,Leonardo Bittencourt,HeadPass
+83638,53,MissedShots,0.865999984741211,0.47900001525878905,0.03261660039424896,Anthony Modeste,h,137,OpenPlay,2015,Head,1314,FC Cologne,Werder Bremen,0,0,2016-05-07 17:30:00,Marcel Risse,Chipped
+83643,76,SavedShot,0.89,0.595999984741211,0.0837642028927803,Anthony Modeste,h,137,OpenPlay,2015,LeftFoot,1314,FC Cologne,Werder Bremen,0,0,2016-05-07 17:30:00,Yuya Osako,Chipped
+83818,26,Goal,0.925,0.4779999923706055,0.4785720109939575,Anthony Modeste,a,137,OpenPlay,2015,RightFoot,1321,Borussia Dortmund,FC Cologne,2,2,2016-05-14 17:30:00,Marcel Risse,Pass
+83826,70,SavedShot,0.879000015258789,0.595999984741211,0.31707000732421875,Anthony Modeste,a,137,OpenPlay,2015,RightFoot,1321,Borussia Dortmund,FC Cologne,2,2,2016-05-14 17:30:00,Leonardo Bittencourt,TakeOn
+127564,2,MissedShots,0.915,0.4640000152587891,0.12331199645996094,Anthony Modeste,h,137,OpenPlay,2016,Head,1331,FC Cologne,Darmstadt,2,0,2016-08-27 17:30:00,Marco Höger,Cross
+127566,5,MissedShots,0.9459999847412109,0.7119999694824218,0.056745901703834534,Anthony Modeste,h,137,OpenPlay,2016,LeftFoot,1331,FC Cologne,Darmstadt,2,0,2016-08-27 17:30:00,Artjoms Rudnevs,BallRecovery
+127573,22,MissedShots,0.9259999847412109,0.415,0.04877670109272003,Anthony Modeste,h,137,OpenPlay,2016,Head,1331,FC Cologne,Darmstadt,2,0,2016-08-27 17:30:00,Matthias Lehmann,Aerial
+127586,60,Goal,0.9530000305175781,0.500999984741211,0.6952940225601196,Anthony Modeste,h,137,OpenPlay,2016,LeftFoot,1331,FC Cologne,Darmstadt,2,0,2016-08-27 17:30:00,Artjoms Rudnevs,Pass
+127590,79,SavedShot,0.9419999694824219,0.25299999237060544,0.05012140050530434,Anthony Modeste,h,137,SetPiece,2016,RightFoot,1331,FC Cologne,Darmstadt,2,0,2016-08-27 17:30:00,,TakeOn
+127876,3,SavedShot,0.909000015258789,0.3270000076293945,0.1718669980764389,Anthony Modeste,a,137,OpenPlay,2016,RightFoot,1337,Wolfsburg,FC Cologne,0,0,2016-09-10 17:30:00,Frederik Sörensen,Pass
+127877,6,MissedShots,0.8059999847412109,0.415,0.05137639865279198,Anthony Modeste,a,137,OpenPlay,2016,RightFoot,1337,Wolfsburg,FC Cologne,0,0,2016-09-10 17:30:00,Marcel Risse,Chipped
+127895,50,BlockedShot,0.9540000152587891,0.41,0.12020300328731537,Anthony Modeste,a,137,SetPiece,2016,RightFoot,1337,Wolfsburg,FC Cologne,0,0,2016-09-10 17:30:00,,Rebound
+127903,75,SavedShot,0.865999984741211,0.47900001525878905,0.08078519999980927,Anthony Modeste,a,137,OpenPlay,2016,RightFoot,1337,Wolfsburg,FC Cologne,0,0,2016-09-10 17:30:00,,None
+128261,5,BlockedShot,0.860999984741211,0.6840000152587891,0.04709349945187569,Anthony Modeste,h,137,OpenPlay,2016,LeftFoot,1345,FC Cologne,Freiburg,3,0,2016-09-16 22:30:00,Leonardo Bittencourt,Pass
+128262,8,MissedShots,0.875999984741211,0.29399999618530276,0.03367200121283531,Anthony Modeste,h,137,OpenPlay,2016,RightFoot,1345,FC Cologne,Freiburg,3,0,2016-09-16 22:30:00,Frederik Sörensen,Pass
+128265,28,Goal,0.9469999694824218,0.5570000076293945,0.12438900023698807,Anthony Modeste,h,137,FromCorner,2016,Head,1345,FC Cologne,Freiburg,3,0,2016-09-16 22:30:00,Marcel Risse,Cross
+128272,42,Goal,0.9580000305175781,0.42700000762939455,0.06945910304784775,Anthony Modeste,h,137,OpenPlay,2016,Head,1345,FC Cologne,Freiburg,3,0,2016-09-16 22:30:00,Frederik Sörensen,Pass
+128274,45,MissedShots,0.9230000305175782,0.4640000152587891,0.04721049964427948,Anthony Modeste,h,137,FromCorner,2016,Head,1345,FC Cologne,Freiburg,3,0,2016-09-16 22:30:00,Marcel Risse,Aerial
+128451,43,MissedShots,0.7709999847412109,0.3129999923706055,0.015272299759089947,Anthony Modeste,a,137,OpenPlay,2016,LeftFoot,1362,Schalke 04,FC Cologne,1,3,2016-09-21 22:00:00,,None
+128456,76,Goal,0.889000015258789,0.5420000076293945,0.3109619915485382,Anthony Modeste,a,137,OpenPlay,2016,RightFoot,1362,Schalke 04,FC Cologne,1,3,2016-09-21 22:00:00,Konstantin Rausch,Cross
+128679,28,MissedShots,0.7959999847412109,0.32799999237060545,0.032684098929166794,Anthony Modeste,h,137,OpenPlay,2016,RightFoot,1371,FC Cologne,RasenBallsport Leipzig,1,1,2016-09-25 19:45:00,Matthias Lehmann,Chipped
+128681,43,MissedShots,0.8880000305175781,0.595999984741211,0.12698499858379364,Anthony Modeste,h,137,OpenPlay,2016,RightFoot,1371,FC Cologne,RasenBallsport Leipzig,1,1,2016-09-25 19:45:00,Marcel Risse,Chipped
+128837,62,Goal,0.9290000152587891,0.47400001525878904,0.4023270010948181,Anthony Modeste,a,137,OpenPlay,2016,RightFoot,1373,Bayern Munich,FC Cologne,1,1,2016-10-01 17:30:00,Marcel Risse,Cross
+129166,27,Goal,0.8730000305175781,0.49700000762939456,0.3821299970149994,Anthony Modeste,h,137,OpenPlay,2016,LeftFoot,1383,FC Cologne,Ingolstadt,2,1,2016-10-15 17:30:00,Yuya Osako,Throughball
+129168,38,Goal,0.885,0.5,0.7577769756317139,Anthony Modeste,h,137,Penalty,2016,RightFoot,1383,FC Cologne,Ingolstadt,2,1,2016-10-15 17:30:00,,Standard
+129176,61,MissedShots,0.95,0.5479999923706055,0.13086900115013123,Anthony Modeste,h,137,FromCorner,2016,Head,1383,FC Cologne,Ingolstadt,2,1,2016-10-15 17:30:00,Konstantin Rausch,Cross
+129177,63,MissedShots,0.8780000305175781,0.435,0.44305500388145447,Anthony Modeste,h,137,OpenPlay,2016,RightFoot,1383,FC Cologne,Ingolstadt,2,1,2016-10-15 17:30:00,Marcel Risse,Pass
+129178,72,MissedShots,0.9719999694824218,0.4779999923706055,0.665427029132843,Anthony Modeste,h,137,FromCorner,2016,RightFoot,1383,FC Cologne,Ingolstadt,2,1,2016-10-15 17:30:00,Jonas Hector,HeadPass
+129180,85,MissedShots,0.9359999847412109,0.4779999923706055,0.6957420110702515,Anthony Modeste,h,137,OpenPlay,2016,LeftFoot,1383,FC Cologne,Ingolstadt,2,1,2016-10-15 17:30:00,Salih Özcan,Pass
+129351,13,MissedShots,0.86,0.26799999237060546,0.032332200556993484,Anthony Modeste,a,137,OpenPlay,2016,RightFoot,1394,Hertha Berlin,FC Cologne,2,1,2016-10-22 17:30:00,Marcel Risse,Chipped
+129361,64,Goal,0.9690000152587891,0.48700000762939455,0.7770469784736633,Anthony Modeste,a,137,OpenPlay,2016,RightFoot,1394,Hertha Berlin,FC Cologne,2,1,2016-10-22 17:30:00,Leonardo Bittencourt,Pass
+129362,68,MissedShots,0.9290000152587891,0.40599998474121096,0.05530799925327301,Anthony Modeste,a,137,FromCorner,2016,Head,1394,Hertha Berlin,FC Cologne,2,1,2016-10-22 17:30:00,Marcel Risse,Cross
+129943,16,BlockedShot,0.8969999694824219,0.4370000076293945,0.030703900381922722,Anthony Modeste,h,137,OpenPlay,2016,Head,3307,FC Cologne,Hamburger SV,3,0,2016-10-30 20:30:00,Frederik Sörensen,Aerial
+129950,40,ShotOnPost,0.885,0.5,0.7575340270996094,Anthony Modeste,h,137,Penalty,2016,RightFoot,3307,FC Cologne,Hamburger SV,3,0,2016-10-30 20:30:00,,Standard
+129953,60,Goal,0.93,0.54,0.3977639973163605,Anthony Modeste,h,137,OpenPlay,2016,RightFoot,3307,FC Cologne,Hamburger SV,3,0,2016-10-30 20:30:00,Simon Zoller,Cross
+129954,63,MissedShots,0.9280000305175782,0.2620000076293945,0.044967301189899445,Anthony Modeste,h,137,OpenPlay,2016,RightFoot,3307,FC Cologne,Hamburger SV,3,0,2016-10-30 20:30:00,Yuya Osako,Pass
+129956,67,BlockedShot,0.889000015258789,0.4229999923706055,0.08346190303564072,Anthony Modeste,h,137,OpenPlay,2016,RightFoot,3307,FC Cologne,Hamburger SV,3,0,2016-10-30 20:30:00,Marco Höger,Cross
+129960,71,MissedShots,0.9,0.5459999847412109,0.4292770028114319,Anthony Modeste,h,137,OpenPlay,2016,RightFoot,3307,FC Cologne,Hamburger SV,3,0,2016-10-30 20:30:00,Yuya Osako,Throughball
+129963,81,Goal,0.955999984741211,0.4370000076293945,0.4662039875984192,Anthony Modeste,h,137,OpenPlay,2016,Head,3307,FC Cologne,Hamburger SV,3,0,2016-10-30 20:30:00,Marcel Risse,Cross
+129964,85,Goal,0.91,0.40099998474121096,0.3566780090332031,Anthony Modeste,h,137,OpenPlay,2016,RightFoot,3307,FC Cologne,Hamburger SV,3,0,2016-10-30 20:30:00,Marcel Risse,Chipped
+129678,15,MissedShots,0.9619999694824218,0.4620000076293945,0.07799780368804932,Anthony Modeste,a,137,OpenPlay,2016,Head,2812,Eintracht Frankfurt,FC Cologne,1,0,2016-11-05 21:30:00,Jonas Hector,Aerial
+129689,80,BlockedShot,0.879000015258789,0.40400001525878904,0.08705990016460419,Anthony Modeste,a,137,OpenPlay,2016,RightFoot,2812,Eintracht Frankfurt,FC Cologne,1,0,2016-11-05 21:30:00,Marco Höger,Pass
+129690,85,MissedShots,0.8669999694824219,0.42400001525878905,0.009848999790847301,Anthony Modeste,a,137,OpenPlay,2016,Head,2812,Eintracht Frankfurt,FC Cologne,1,0,2016-11-05 21:30:00,Marcel Risse,Aerial
+129852,3,BlockedShot,0.855999984741211,0.710999984741211,0.030138099566102028,Anthony Modeste,a,137,OpenPlay,2016,RightFoot,2816,Borussia M.Gladbach,FC Cologne,1,2,2016-11-19 18:30:00,Jonas Hector,Pass
+129858,23,MissedShots,0.8180000305175781,0.485,0.057034701108932495,Anthony Modeste,a,137,OpenPlay,2016,RightFoot,2816,Borussia M.Gladbach,FC Cologne,1,2,2016-11-19 18:30:00,Marcel Risse,Pass
+129867,58,Goal,0.8959999847412109,0.5709999847412109,0.030025899410247803,Anthony Modeste,a,137,OpenPlay,2016,Head,2816,Borussia M.Gladbach,FC Cologne,1,2,2016-11-19 18:30:00,,Aerial
+131146,13,MissedShots,0.950999984741211,0.5,0.5467380285263062,Anthony Modeste,h,137,OpenPlay,2016,Head,2825,FC Cologne,Augsburg,0,0,2016-11-26 18:30:00,Konstantin Rausch,Aerial
+131152,31,SavedShot,0.8169999694824219,0.624000015258789,0.039719101041555405,Anthony Modeste,h,137,OpenPlay,2016,RightFoot,2825,FC Cologne,Augsburg,0,0,2016-11-26 18:30:00,Konstantin Rausch,Pass
+131154,33,MissedShots,0.9130000305175782,0.59,0.19570499658584595,Anthony Modeste,h,137,SetPiece,2016,Head,2825,FC Cologne,Augsburg,0,0,2016-11-26 18:30:00,,Rebound
+131156,47,BlockedShot,0.909000015258789,0.5220000076293946,0.05571329966187477,Anthony Modeste,h,137,OpenPlay,2016,Head,2825,FC Cologne,Augsburg,0,0,2016-11-26 18:30:00,Yuya Osako,Aerial
+131162,65,MissedShots,0.8969999694824219,0.6120000076293945,0.06231530010700226,Anthony Modeste,h,137,OpenPlay,2016,LeftFoot,2825,FC Cologne,Augsburg,0,0,2016-11-26 18:30:00,Konstantin Rausch,Cross
+130720,11,MissedShots,0.89,0.4759999847412109,0.290336012840271,Anthony Modeste,a,137,OpenPlay,2016,RightFoot,3196,Hoffenheim,FC Cologne,4,0,2016-12-03 18:30:00,Marcel Risse,Chipped
+131178,49,MissedShots,0.9390000152587891,0.3160000038146973,0.5447499752044678,Anthony Modeste,h,137,OpenPlay,2016,RightFoot,3203,FC Cologne,Borussia Dortmund,1,1,2016-12-10 18:30:00,Yuya Osako,TakeOn
+131610,27,SavedShot,0.8980000305175782,0.5820000076293945,0.3901959955692291,Anthony Modeste,a,137,OpenPlay,2016,RightFoot,3212,Werder Bremen,FC Cologne,1,1,2016-12-17 18:30:00,Jonas Hector,Throughball
+131621,54,BlockedShot,0.86,0.6609999847412109,0.0806393027305603,Anthony Modeste,a,137,OpenPlay,2016,RightFoot,3212,Werder Bremen,FC Cologne,1,1,2016-12-17 18:30:00,Yuya Osako,Pass
+131625,63,MissedShots,0.875,0.3340000152587891,0.05544640123844147,Anthony Modeste,a,137,OpenPlay,2016,RightFoot,3212,Werder Bremen,FC Cologne,1,1,2016-12-17 18:30:00,Yuya Osako,Chipped
+130233,20,Goal,0.879000015258789,0.4640000152587891,0.10547100007534027,Anthony Modeste,h,137,OpenPlay,2016,RightFoot,3226,FC Cologne,Bayer Leverkusen,1,1,2016-12-21 23:00:00,Frederik Sörensen,Cross
+130236,27,BlockedShot,0.925,0.42900001525878906,0.11535900086164474,Anthony Modeste,h,137,OpenPlay,2016,RightFoot,3226,FC Cologne,Bayer Leverkusen,1,1,2016-12-21 23:00:00,Pawel Olkowski,Cross
+130246,53,BlockedShot,0.8930000305175781,0.4779999923706055,0.11382800340652466,Anthony Modeste,h,137,SetPiece,2016,LeftFoot,3226,FC Cologne,Bayer Leverkusen,1,1,2016-12-21 23:00:00,Dominique Heintz,Pass
+130247,54,BlockedShot,0.9330000305175781,0.595999984741211,0.05584320053458214,Anthony Modeste,h,137,FromCorner,2016,Head,3226,FC Cologne,Bayer Leverkusen,1,1,2016-12-21 23:00:00,Konstantin Rausch,Cross
+130248,61,BlockedShot,0.8590000152587891,0.5929999923706055,0.08596529811620712,Anthony Modeste,h,137,OpenPlay,2016,LeftFoot,3226,FC Cologne,Bayer Leverkusen,1,1,2016-12-21 23:00:00,Konstantin Rausch,Pass
+130253,83,BlockedShot,0.84,0.7580000305175781,0.026088999584317207,Anthony Modeste,h,137,OpenPlay,2016,RightFoot,3226,FC Cologne,Bayer Leverkusen,1,1,2016-12-21 23:00:00,Dominique Heintz,Pass
+130564,32,SavedShot,0.7519999694824219,0.3139999961853027,0.01800839975476265,Anthony Modeste,a,137,OpenPlay,2016,LeftFoot,3730,Mainz 05,FC Cologne,0,0,2017-01-22 19:30:00,Pawel Olkowski,Pass
+130570,44,MissedShots,0.9130000305175782,0.4779999923706055,0.05413860082626343,Anthony Modeste,a,137,OpenPlay,2016,Head,3730,Mainz 05,FC Cologne,0,0,2017-01-22 19:30:00,Marco Höger,Aerial
+131378,41,Goal,0.9219999694824219,0.5220000076293946,0.5852259993553162,Anthony Modeste,a,137,OpenPlay,2016,LeftFoot,3736,Darmstadt,FC Cologne,1,6,2017-01-28 17:30:00,Leonardo Bittencourt,Pass
+132093,26,MissedShots,0.7319999694824219,0.7440000152587891,0.011782100424170494,Anthony Modeste,h,137,OpenPlay,2016,LeftFoot,3741,FC Cologne,Wolfsburg,1,0,2017-02-04 14:30:00,Konstantin Rausch,BallTouch
+132098,53,MissedShots,0.9319999694824219,0.3160000038146973,0.05143959820270538,Anthony Modeste,h,137,OpenPlay,2016,RightFoot,3741,FC Cologne,Wolfsburg,1,0,2017-02-04 14:30:00,Pawel Olkowski,Chipped
+132107,77,BlockedShot,0.955,0.5820000076293945,0.15064799785614014,Anthony Modeste,h,137,OpenPlay,2016,Head,3741,FC Cologne,Wolfsburg,1,0,2017-02-04 14:30:00,Simon Zoller,Cross
+132110,80,Goal,0.885,0.5,0.7577769756317139,Anthony Modeste,h,137,Penalty,2016,RightFoot,3741,FC Cologne,Wolfsburg,1,0,2017-02-04 14:30:00,,Standard
+131814,38,Goal,0.9619999694824218,0.45799999237060546,0.6340849995613098,Anthony Modeste,a,137,OpenPlay,2016,RightFoot,3757,Freiburg,FC Cologne,2,1,2017-02-12 16:30:00,,Rebound
+131816,49,SavedShot,0.904000015258789,0.395,0.3612239956855774,Anthony Modeste,a,137,OpenPlay,2016,RightFoot,3757,Freiburg,FC Cologne,2,1,2017-02-12 16:30:00,Christian Clemens,Pass
+131820,61,SavedShot,0.875999984741211,0.33599998474121096,0.06042810156941414,Anthony Modeste,a,137,OpenPlay,2016,RightFoot,3757,Freiburg,FC Cologne,2,1,2017-02-12 16:30:00,Yuya Osako,Chipped
+132155,42,Goal,0.7859999847412109,0.5790000152587891,0.033074699342250824,Anthony Modeste,h,137,OpenPlay,2016,RightFoot,3766,FC Cologne,Schalke 04,1,1,2017-02-19 16:30:00,Yuya Osako,Pass
+132413,47,MissedShots,0.92,0.4470000076293945,0.11477799713611603,Anthony Modeste,a,137,OpenPlay,2016,Head,3769,RasenBallsport Leipzig,FC Cologne,3,1,2017-02-25 14:30:00,Christian Clemens,Cross
+133971,14,Goal,0.885,0.5,0.7577769756317139,Anthony Modeste,a,137,Penalty,2016,RightFoot,3791,Ingolstadt,FC Cologne,2,2,2017-03-11 17:30:00,,Standard
+133982,48,MissedShots,0.894000015258789,0.5309999847412109,0.09160280227661133,Anthony Modeste,a,137,OpenPlay,2016,RightFoot,3791,Ingolstadt,FC Cologne,2,2,2017-03-11 17:30:00,Konstantin Rausch,Cross
+133987,59,Goal,0.9130000305175782,0.33799999237060546,0.32523900270462036,Anthony Modeste,a,137,OpenPlay,2016,RightFoot,3791,Ingolstadt,FC Cologne,2,2,2017-03-11 17:30:00,Milos Jojic,Throughball
+134605,4,SavedShot,0.7169999694824218,0.5270000076293946,0.020256299525499344,Anthony Modeste,h,137,OpenPlay,2016,LeftFoot,3796,FC Cologne,Hertha Berlin,4,2,2017-03-18 14:30:00,Yuya Osako,Pass
+134609,34,Goal,0.8390000152587891,0.5129999923706055,0.09485229849815369,Anthony Modeste,h,137,OpenPlay,2016,LeftFoot,3796,FC Cologne,Hertha Berlin,4,2,2017-03-18 14:30:00,Yuya Osako,Pass
+134610,36,Goal,0.8530000305175781,0.45,0.4871009886264801,Anthony Modeste,h,137,OpenPlay,2016,RightFoot,3796,FC Cologne,Hertha Berlin,4,2,2017-03-18 14:30:00,Matthias Lehmann,Throughball
+134612,62,Goal,0.865999984741211,0.29100000381469726,0.37430301308631897,Anthony Modeste,h,137,OpenPlay,2016,RightFoot,3796,FC Cologne,Hertha Berlin,4,2,2017-03-18 14:30:00,Marco Höger,Chipped
+134617,84,SavedShot,0.8859999847412109,0.73,0.04108620062470436,Anthony Modeste,h,137,OpenPlay,2016,LeftFoot,3796,FC Cologne,Hertha Berlin,4,2,2017-03-18 14:30:00,Jonas Hector,BallRecovery
+133160,0,MissedShots,0.9490000152587891,0.5479999923706055,0.12274999916553497,Anthony Modeste,a,137,OpenPlay,2016,LeftFoot,3804,Hamburger SV,FC Cologne,2,1,2017-04-01 14:30:00,Konstantin Rausch,Cross
+133161,0,MissedShots,0.9630000305175781,0.4759999847412109,0.7025219798088074,Anthony Modeste,a,137,OpenPlay,2016,RightFoot,3804,Hamburger SV,FC Cologne,2,1,2017-04-01 14:30:00,,Rebound
+133167,27,MissedShots,0.9309999847412109,0.5940000152587891,0.05695610120892525,Anthony Modeste,a,137,FromCorner,2016,Head,3804,Hamburger SV,FC Cologne,2,1,2017-04-01 14:30:00,Milos Jojic,Cross
+133168,30,MissedShots,0.8159999847412109,0.39,0.07612989842891693,Anthony Modeste,a,137,OpenPlay,2016,LeftFoot,3804,Hamburger SV,FC Cologne,2,1,2017-04-01 14:30:00,,None
+134031,9,MissedShots,0.9340000152587891,0.5479999923706055,0.13634000718593597,Anthony Modeste,h,137,SetPiece,2016,Head,3813,FC Cologne,Eintracht Frankfurt,1,0,2017-04-04 19:00:00,Milos Jojic,Cross
+134646,14,MissedShots,0.955999984741211,0.534000015258789,0.08313599973917007,Anthony Modeste,h,137,OpenPlay,2016,Head,3825,FC Cologne,Borussia M.Gladbach,2,3,2017-04-08 14:30:00,Konstantin Rausch,Aerial
+134662,57,Goal,0.875,0.52,0.07951900362968445,Anthony Modeste,h,137,SetPiece,2016,RightFoot,3825,FC Cologne,Borussia M.Gladbach,2,3,2017-04-08 14:30:00,Milos Jojic,Chipped
+134668,90,MissedShots,0.8159999847412109,0.5259999847412109,0.04782069846987724,Anthony Modeste,h,137,OpenPlay,2016,LeftFoot,3825,FC Cologne,Borussia M.Gladbach,2,3,2017-04-08 14:30:00,,None
+132870,16,MissedShots,0.6669999694824219,0.5629999923706055,0.026456700637936592,Anthony Modeste,a,137,OpenPlay,2016,RightFoot,3834,Augsburg,FC Cologne,2,1,2017-04-15 14:30:00,Timo Horn,Pass
+132872,24,MissedShots,0.8959999847412109,0.47299999237060547,0.07973860204219818,Anthony Modeste,a,137,OpenPlay,2016,Head,3834,Augsburg,FC Cologne,2,1,2017-04-15 14:30:00,Lukas Klünter,Cross
+132877,64,MissedShots,0.9130000305175782,0.57,0.06559310108423233,Anthony Modeste,a,137,FromCorner,2016,LeftFoot,3834,Augsburg,FC Cologne,2,1,2017-04-15 14:30:00,Jonas Hector,Cross
+132884,93,MissedShots,0.725999984741211,0.4329999923706055,0.013772799633443356,Anthony Modeste,a,137,OpenPlay,2016,RightFoot,3834,Augsburg,FC Cologne,2,1,2017-04-15 14:30:00,,None
+133748,57,MissedShots,0.7380000305175781,0.365,0.016422899439930916,Anthony Modeste,h,137,OpenPlay,2016,RightFoot,3842,FC Cologne,Hoffenheim,1,1,2017-04-21 19:30:00,Frederik Sörensen,TakeOn
+133756,83,SavedShot,0.789000015258789,0.7980000305175782,0.06333240121603012,Anthony Modeste,h,137,OpenPlay,2016,RightFoot,3842,FC Cologne,Hoffenheim,1,1,2017-04-21 19:30:00,Marco Höger,Chipped
+134980,1,MissedShots,0.8959999847412109,0.629000015258789,0.013086900115013123,Anthony Modeste,h,137,OpenPlay,2016,Head,3863,FC Cologne,Werder Bremen,4,3,2017-05-05 19:30:00,Dominique Heintz,Aerial
+134986,12,Goal,0.97,0.485,0.68544602394104,Anthony Modeste,h,137,FromCorner,2016,RightFoot,3863,FC Cologne,Werder Bremen,4,3,2017-05-05 19:30:00,Leonardo Bittencourt,None
+134982,12,SavedShot,0.915,0.4640000152587891,0.05723839998245239,Anthony Modeste,h,137,OpenPlay,2016,Head,3863,FC Cologne,Werder Bremen,4,3,2017-05-05 19:30:00,Frederik Sörensen,Aerial
+134988,26,SavedShot,0.9159999847412109,0.40099998474121096,0.13953900337219238,Anthony Modeste,h,137,OpenPlay,2016,RightFoot,3863,FC Cologne,Werder Bremen,4,3,2017-05-05 19:30:00,Leonardo Bittencourt,Throughball
+134998,46,Goal,0.89,0.3370000076293945,0.03311049938201904,Anthony Modeste,h,137,OpenPlay,2016,RightFoot,3863,FC Cologne,Werder Bremen,4,3,2017-05-05 19:30:00,,Aerial
+135004,85,SavedShot,0.8830000305175781,0.5570000076293945,0.4948830008506775,Anthony Modeste,h,137,OpenPlay,2016,RightFoot,3863,FC Cologne,Werder Bremen,4,3,2017-05-05 19:30:00,Lukas Klünter,Pass
+132903,45,MissedShots,0.765,0.37099998474121093,0.09184210002422333,Anthony Modeste,a,137,OpenPlay,2016,RightFoot,3866,Bayer Leverkusen,FC Cologne,2,2,2017-05-13 14:30:00,Yuya Osako,Chipped
+127865,52,MissedShots,0.779000015258789,0.3340000152587891,0.029916299507021904,Anthony Modeste,h,137,OpenPlay,2016,LeftFoot,3878,FC Cologne,Mainz 05,2,0,2017-05-20 14:30:00,Jonas Hector,Pass
+127873,89,MissedShots,0.8959999847412109,0.5690000152587891,0.14719000458717346,Anthony Modeste,h,137,OpenPlay,2016,LeftFoot,3878,FC Cologne,Mainz 05,2,0,2017-05-20 14:30:00,Dominique Heintz,Pass
+310695,10,BlockedShot,0.799000015258789,0.42400001525878905,0.04300070181488991,Anthony Modeste,a,137,OpenPlay,2019,RightFoot,12408,Wolfsburg,FC Cologne,2,1,2019-08-17 14:30:00,Kingsley Schindler,Pass
+310716,85,MissedShots,0.8919999694824219,0.43900001525878907,0.027776099741458893,Anthony Modeste,a,137,SetPiece,2019,Head,12408,Wolfsburg,FC Cologne,2,1,2019-08-17 14:30:00,Darko Churlinov,Foul
+312169,26,BlockedShot,0.875999984741211,0.3729999923706055,0.06336440145969391,Anthony Modeste,h,137,OpenPlay,2019,LeftFoot,12412,FC Cologne,Borussia Dortmund,1,3,2019-08-23 19:30:00,,Rebound
+312176,37,MissedShots,0.8819999694824219,0.39,0.029245100915431976,Anthony Modeste,h,137,OpenPlay,2019,Head,12412,FC Cologne,Borussia Dortmund,1,3,2019-08-23 19:30:00,,None
+312178,48,BlockedShot,0.9319999694824219,0.5479999923706055,0.05232759937644005,Anthony Modeste,h,137,FromCorner,2019,Head,12412,FC Cologne,Borussia Dortmund,1,3,2019-08-23 19:30:00,Birger Verstraete,Aerial
+315690,14,BlockedShot,0.895,0.4329999923706055,0.0811569020152092,Anthony Modeste,a,137,OpenPlay,2019,RightFoot,12423,Freiburg,FC Cologne,1,2,2019-08-31 14:30:00,Kingsley Ehizibue,Cross
+315699,51,Goal,0.93,0.41700000762939454,0.08042579889297485,Anthony Modeste,a,137,OpenPlay,2019,Head,12423,Freiburg,FC Cologne,1,2,2019-08-31 14:30:00,Ellyes Skhiri,Cross
+317152,3,BlockedShot,0.91,0.590999984741211,0.1179559975862503,Anthony Modeste,h,137,OpenPlay,2019,RightFoot,12433,FC Cologne,Borussia M.Gladbach,0,1,2019-09-14 13:30:00,Louis Schaub,Pass
+317170,61,SavedShot,0.8969999694824219,0.48200000762939454,0.050599098205566406,Anthony Modeste,h,137,OpenPlay,2019,Head,12433,FC Cologne,Borussia M.Gladbach,0,1,2019-09-14 13:30:00,Jonas Hector,Chipped
+323495,49,MissedShots,0.8469999694824218,0.67,0.03475610166788101,Anthony Modeste,h,137,OpenPlay,2019,LeftFoot,12456,FC Cologne,Hertha Berlin,0,4,2019-09-29 16:00:00,Florian Kainz,Pass
+324330,90,SavedShot,0.8619999694824219,0.5690000152587891,0.06468849629163742,Anthony Modeste,a,137,OpenPlay,2019,RightFoot,12457,Schalke 04,FC Cologne,1,1,2019-10-05 17:30:00,Marcel Risse,Chipped
+332470,67,MissedShots,0.9030000305175782,0.4759999847412109,0.3031960129737854,Anthony Modeste,a,137,OpenPlay,2019,Head,12504,RasenBallsport Leipzig,FC Cologne,4,1,2019-11-23 17:30:00,Marcel Risse,Chipped
+336406,77,MissedShots,0.845999984741211,0.455,0.01899770088493824,Anthony Modeste,a,137,OpenPlay,2019,Head,12528,Union Berlin,FC Cologne,2,0,2019-12-08 14:30:00,Benno Schmitz,Aerial
+355536,90,MissedShots,0.9230000305175782,0.4759999847412109,0.051271598786115646,Anthony Modeste,a,137,FromCorner,2019,Head,12566,Borussia Dortmund,FC Cologne,5,1,2020-01-24 19:30:00,Florian Kainz,Aerial
+359429,85,SavedShot,0.9,0.4779999923706055,0.37951400876045227,Anthony Modeste,h,137,OpenPlay,2019,RightFoot,12598,FC Cologne,Bayern Munich,1,4,2020-02-16 14:30:00,Ellyes Skhiri,Pass
+359431,88,SavedShot,0.8780000305175781,0.485,0.3157309889793396,Anthony Modeste,h,137,OpenPlay,2019,RightFoot,12598,FC Cologne,Bayern Munich,1,4,2020-02-16 14:30:00,Florian Kainz,Pass
+361510,12,MissedShots,0.830999984741211,0.5729999923706055,0.044923700392246246,Anthony Modeste,a,137,FromCorner,2019,RightFoot,12627,Paderborn,FC Cologne,1,2,2020-03-06 19:00:00,,None
+361515,23,BlockedShot,0.889000015258789,0.5720000076293945,0.024128900840878487,Anthony Modeste,a,137,OpenPlay,2019,Head,12627,Paderborn,FC Cologne,1,2,2020-03-06 19:00:00,Mark Uth,Aerial
+361530,77,MissedShots,0.9169999694824219,0.710999984741211,0.4971509873867035,Anthony Modeste,a,137,OpenPlay,2019,LeftFoot,12627,Paderborn,FC Cologne,1,2,2020-03-06 19:00:00,Elvis Rexhbecaj,TakeOn
+363332,68,MissedShots,0.9159999847412109,0.5370000076293945,0.07906150072813034,Anthony Modeste,h,137,OpenPlay,2019,RightFoot,12645,FC Cologne,Fortuna Duesseldorf,2,2,2020-05-24 16:00:00,Ellyes Skhiri,Cross
+363336,73,MissedShots,0.7440000152587891,0.43400001525878906,0.017896100878715515,Anthony Modeste,h,137,OpenPlay,2019,RightFoot,12645,FC Cologne,Fortuna Duesseldorf,2,2,2020-05-24 16:00:00,Jhon Córdoba,BallTouch
+363338,81,SavedShot,0.8730000305175781,0.5370000076293945,0.05673829838633537,Anthony Modeste,h,137,OpenPlay,2019,RightFoot,12645,FC Cologne,Fortuna Duesseldorf,2,2,2020-05-24 16:00:00,Sebastiaan Bornauw,Cross
+363340,87,Goal,0.924000015258789,0.5520000076293945,0.06473220139741898,Anthony Modeste,h,137,OpenPlay,2019,Head,12645,FC Cologne,Fortuna Duesseldorf,2,2,2020-05-24 16:00:00,Dominick Drexler,Aerial
+363342,93,MissedShots,0.7669999694824219,0.40299999237060546,0.015943000093102455,Anthony Modeste,h,137,OpenPlay,2019,RightFoot,12645,FC Cologne,Fortuna Duesseldorf,2,2,2020-05-24 16:00:00,Simon Terodde,HeadPass
+363499,91,BlockedShot,0.8619999694824219,0.5659999847412109,0.09350070357322693,Anthony Modeste,a,137,OpenPlay,2019,RightFoot,12648,Hoffenheim,FC Cologne,3,1,2020-05-27 18:30:00,Simon Terodde,Pass
+363500,94,BlockedShot,0.8690000152587891,0.495,0.05708380043506622,Anthony Modeste,a,137,OpenPlay,2019,LeftFoot,12648,Hoffenheim,FC Cologne,3,1,2020-05-27 18:30:00,Elvis Rexhbecaj,Cross
+363501,94,MissedShots,0.9130000305175782,0.505,0.31550300121307373,Anthony Modeste,a,137,OpenPlay,2019,Head,12648,Hoffenheim,FC Cologne,3,1,2020-05-27 18:30:00,Florian Kainz,Cross
+363774,54,Goal,0.75,0.38599998474121094,0.012505900114774704,Anthony Modeste,h,137,OpenPlay,2019,RightFoot,12662,FC Cologne,RasenBallsport Leipzig,2,4,2020-06-01 18:30:00,,None
+363783,86,MissedShots,0.8440000152587891,0.45099998474121095,0.23591899871826172,Anthony Modeste,h,137,OpenPlay,2019,RightFoot,12662,FC Cologne,RasenBallsport Leipzig,2,4,2020-06-01 18:30:00,Ellyes Skhiri,Pass
+364043,84,Goal,0.85,0.5920000076293945,0.04578389972448349,Anthony Modeste,a,137,OpenPlay,2019,LeftFoot,12671,Augsburg,FC Cologne,1,1,2020-06-07 16:00:00,Ismail Jakobs,HeadPass
+364245,51,MissedShots,0.8830000305175781,0.575,0.016084300354123116,Anthony Modeste,h,137,OpenPlay,2019,Head,12680,FC Cologne,Union Berlin,1,2,2020-06-13 13:30:00,Toni Leistner,Aerial
+364250,85,SavedShot,0.8630000305175781,0.6129999923706054,0.01611509919166565,Anthony Modeste,h,137,OpenPlay,2019,Head,12680,FC Cologne,Union Berlin,1,2,2020-06-13 13:30:00,Marco Höger,Aerial
+364809,44,MissedShots,0.899000015258789,0.55,0.054892100393772125,Anthony Modeste,a,137,FromCorner,2019,Head,12684,Bayer Leverkusen,FC Cologne,3,1,2020-06-17 18:30:00,Dominick Drexler,Cross
+364811,54,BlockedShot,0.8419999694824218,0.37099998474121093,0.06600219756364822,Anthony Modeste,a,137,OpenPlay,2019,LeftFoot,12684,Bayer Leverkusen,FC Cologne,3,1,2020-06-17 18:30:00,Dominick Drexler,Pass
+366956,8,SavedShot,0.8959999847412109,0.4370000076293945,0.08612179756164551,Anthony Modeste,a,137,OpenPlay,2019,RightFoot,12705,Werder Bremen,FC Cologne,6,1,2020-06-27 13:30:00,Ismail Jakobs,Cross
+382598,91,MissedShots,0.7140000152587891,0.4909999847412109,0.057097699493169785,Anthony Modeste,h,137,OpenPlay,2020,RightFoot,15174,FC Cologne,Eintracht Frankfurt,1,1,2020-10-18 13:30:00,Elvis Rexhbecaj,Chipped
+391532,73,MissedShots,0.9630000305175781,0.425,0.40588799118995667,Anthony Modeste,a,137,OpenPlay,2020,RightFoot,15237,Mainz 05,FC Cologne,0,1,2020-12-12 14:30:00,Ismail Jakobs,Cross
+393176,71,MissedShots,0.750999984741211,0.4370000076293945,0.014825600199401379,Anthony Modeste,h,137,OpenPlay,2020,RightFoot,15241,FC Cologne,Bayer Leverkusen,0,4,2020-12-16 19:30:00,,None
+396390,65,MissedShots,0.924000015258789,0.47099998474121096,0.050951600074768066,Anthony Modeste,h,137,FromCorner,2020,Head,15262,FC Cologne,Augsburg,0,1,2021-01-02 14:30:00,Ondrej Duda,Aerial
+401014,77,SavedShot,0.885,0.5,0.7577769756317139,Anthony Modeste,a,137,Penalty,2020,RightFoot,15295,Hoffenheim,FC Cologne,3,0,2021-01-24 17:00:00,,Standard
+401016,78,BlockedShot,0.9380000305175781,0.37900001525878907,0.0158780999481678,Anthony Modeste,a,137,FromCorner,2020,Head,15295,Hoffenheim,FC Cologne,3,0,2021-01-24 17:00:00,,Aerial
+401018,83,BlockedShot,0.8519999694824218,0.5659999847412109,0.034348201006650925,Anthony Modeste,a,137,OpenPlay,2020,RightFoot,15295,Hoffenheim,FC Cologne,3,0,2021-01-24 17:00:00,,Aerial
+401019,83,MissedShots,0.9309999847412109,0.46900001525878904,0.3478600084781647,Anthony Modeste,a,137,OpenPlay,2020,Head,15295,Hoffenheim,FC Cologne,3,0,2021-01-24 17:00:00,Dominick Drexler,Cross
+402704,68,MissedShots,0.950999984741211,0.4370000076293945,0.39723798632621765,Anthony Modeste,h,137,OpenPlay,2020,Head,15984,Saint-Etienne,Nantes,1,1,2021-02-03 20:00:00,Miguel Trauco,Cross
+402708,83,SavedShot,0.87,0.5179999923706055,0.012027200311422348,Anthony Modeste,h,137,SetPiece,2020,Head,15984,Saint-Etienne,Nantes,1,1,2021-02-03 20:00:00,Wahbi Khazri,Aerial
+403656,32,BlockedShot,0.74,0.5879999923706055,0.027119699865579605,Anthony Modeste,h,137,OpenPlay,2020,RightFoot,15990,Saint-Etienne,Metz,1,0,2021-02-07 14:00:00,Romain Hamouma,Pass
+405393,40,MissedShots,0.789000015258789,0.754000015258789,0.017315400764346123,Anthony Modeste,h,137,OpenPlay,2020,RightFoot,16014,Saint-Etienne,Reims,1,1,2021-02-20 12:00:00,Pape Abou Cissé,HeadPass
+405394,52,MissedShots,0.8690000152587891,0.5570000076293945,0.06541089713573456,Anthony Modeste,h,137,OpenPlay,2020,LeftFoot,16014,Saint-Etienne,Reims,1,1,2021-02-20 12:00:00,Denis Bouanga,Cross
+407235,19,MissedShots,0.8519999694824218,0.5209999847412109,0.029586199671030045,Anthony Modeste,a,137,OpenPlay,2020,Head,16020,Lorient,Saint-Etienne,2,1,2021-02-28 14:00:00,Mathieu Debuchy,Cross
+407241,36,MissedShots,0.93,0.5370000076293945,0.11338900029659271,Anthony Modeste,a,137,FromCorner,2020,Head,16020,Lorient,Saint-Etienne,2,1,2021-02-28 14:00:00,Arnaud Nordin,Cross
+407829,73,MissedShots,0.855999984741211,0.3120000076293945,0.03675059974193573,Anthony Modeste,h,137,OpenPlay,2020,RightFoot,16034,Saint-Etienne,Lens,2,3,2021-03-03 18:00:00,Mahdi Camara,Pass
+426483,11,MissedShots,0.9059999847412109,0.62,0.09117449820041656,Anthony Modeste,h,137,OpenPlay,2021,LeftFoot,17524,FC Cologne,Hertha Berlin,3,1,2021-08-15 15:30:00,Florian Kainz,Pass
+426489,40,Goal,0.9180000305175782,0.485,0.3367060124874115,Anthony Modeste,h,137,OpenPlay,2021,Head,17524,FC Cologne,Hertha Berlin,3,1,2021-08-15 15:30:00,Jan Thielmann,Cross
+426490,44,MissedShots,0.8730000305175781,0.47200000762939454,0.038092199712991714,Anthony Modeste,h,137,OpenPlay,2021,Head,17524,FC Cologne,Hertha Berlin,3,1,2021-08-15 15:30:00,Benno Schmitz,Cross
+426497,64,MissedShots,0.894000015258789,0.4420000076293945,0.056240200996398926,Anthony Modeste,h,137,OpenPlay,2021,Head,17524,FC Cologne,Hertha Berlin,3,1,2021-08-15 15:30:00,Benno Schmitz,Cross
+427793,34,MissedShots,0.8019999694824219,0.425,0.007466750219464302,Anthony Modeste,a,137,SetPiece,2021,Head,17533,Bayern Munich,FC Cologne,3,2,2021-08-22 15:30:00,Florian Kainz,Aerial
+427801,51,MissedShots,0.960999984741211,0.46,0.0861034020781517,Anthony Modeste,a,137,FromCorner,2021,Head,17533,Bayern Munich,FC Cologne,3,2,2021-08-22 15:30:00,Mark Uth,Aerial
+427802,56,MissedShots,0.755,0.4520000076293945,0.02328450046479702,Anthony Modeste,a,137,OpenPlay,2021,RightFoot,17533,Bayern Munich,FC Cologne,3,2,2021-08-22 15:30:00,Dejan Ljubicic,Pass
+427804,59,Goal,0.9159999847412109,0.5,0.31980401277542114,Anthony Modeste,a,137,OpenPlay,2021,Head,17533,Bayern Munich,FC Cologne,3,2,2021-08-22 15:30:00,Jonas Hector,Cross
+428606,3,ShotOnPost,0.97,0.5109999847412109,0.6269320249557495,Anthony Modeste,h,137,OpenPlay,2021,RightFoot,17535,FC Cologne,Bochum,2,1,2021-08-28 13:30:00,Benno Schmitz,Cross
+428611,19,MissedShots,0.9119999694824219,0.5470000076293945,0.03794490173459053,Anthony Modeste,h,137,FromCorner,2021,Head,17535,FC Cologne,Bochum,2,1,2021-08-28 13:30:00,Florian Kainz,Aerial
+428613,24,BlockedShot,0.8680000305175781,0.4209999847412109,0.0946061983704567,Anthony Modeste,h,137,OpenPlay,2021,RightFoot,17535,FC Cologne,Bochum,2,1,2021-08-28 13:30:00,Benno Schmitz,Pass
+428618,39,SavedShot,0.915,0.45799999237060546,0.1136770024895668,Anthony Modeste,h,137,SetPiece,2021,Head,17535,FC Cologne,Bochum,2,1,2021-08-28 13:30:00,Florian Kainz,Cross
+428630,72,BlockedShot,0.8159999847412109,0.5559999847412109,0.05678509920835495,Anthony Modeste,h,137,OpenPlay,2021,LeftFoot,17535,FC Cologne,Bochum,2,1,2021-08-28 13:30:00,Tim Lemperle,Pass
+428632,76,MissedShots,0.789000015258789,0.47099998474121096,0.03925849869847298,Anthony Modeste,h,137,OpenPlay,2021,LeftFoot,17535,FC Cologne,Bochum,2,1,2021-08-28 13:30:00,Benno Schmitz,Pass
+429689,25,MissedShots,0.735999984741211,0.53,0.012452400289475918,Anthony Modeste,a,137,SetPiece,2021,RightFoot,17545,Freiburg,FC Cologne,1,1,2021-09-11 13:30:00,,None
+429692,28,MissedShots,0.875999984741211,0.524000015258789,0.04276420176029205,Anthony Modeste,a,137,OpenPlay,2021,Head,17545,Freiburg,FC Cologne,1,1,2021-09-11 13:30:00,Salih Özcan,Cross
+429694,31,BlockedShot,0.889000015258789,0.6179999923706054,0.09252259880304337,Anthony Modeste,a,137,OpenPlay,2021,LeftFoot,17545,Freiburg,FC Cologne,1,1,2021-09-11 13:30:00,Mark Uth,Pass
+429695,32,Goal,0.8809999847412109,0.5540000152587891,0.02189129963517189,Anthony Modeste,a,137,OpenPlay,2021,Head,17545,Freiburg,FC Cologne,1,1,2021-09-11 13:30:00,Benno Schmitz,Aerial
+429696,36,MissedShots,0.8959999847412109,0.40099998474121096,0.041770901530981064,Anthony Modeste,a,137,SetPiece,2021,Head,17545,Freiburg,FC Cologne,1,1,2021-09-11 13:30:00,Florian Kainz,Cross
+431510,29,SavedShot,0.78,0.575999984741211,0.03043290041387081,Anthony Modeste,h,137,OpenPlay,2021,RightFoot,17557,FC Cologne,RasenBallsport Leipzig,1,1,2021-09-18 16:30:00,Mark Uth,Pass
+431516,48,MissedShots,0.95,0.5029999923706054,0.13394400477409363,Anthony Modeste,h,137,FromCorner,2021,Head,17557,FC Cologne,RasenBallsport Leipzig,1,1,2021-09-18 16:30:00,Mark Uth,Cross
+431518,52,Goal,0.9,0.585,0.40682101249694824,Anthony Modeste,h,137,OpenPlay,2021,RightFoot,17557,FC Cologne,RasenBallsport Leipzig,1,1,2021-09-18 16:30:00,,None
+433368,20,MissedShots,0.9069999694824219,0.5129999923706055,0.05974309891462326,Anthony Modeste,a,137,OpenPlay,2021,Head,17564,Eintracht Frankfurt,FC Cologne,1,1,2021-09-25 13:30:00,Dejan Ljubicic,Chipped
+434538,39,MissedShots,0.9230000305175782,0.4279999923706055,0.07573319971561432,Anthony Modeste,h,137,OpenPlay,2021,Head,17570,FC Cologne,Greuther Fuerth,3,1,2021-10-01 18:30:00,Jonas Hector,Cross
+434540,42,SavedShot,0.919000015258789,0.5459999847412109,0.0413254015147686,Anthony Modeste,h,137,OpenPlay,2021,Head,17570,FC Cologne,Greuther Fuerth,3,1,2021-10-01 18:30:00,Jonas Hector,Aerial
+435914,38,MissedShots,0.9369999694824219,0.5779999923706055,0.0903209000825882,Anthony Modeste,a,137,OpenPlay,2021,Head,17581,Hoffenheim,FC Cologne,5,0,2021-10-15 18:30:00,Florian Kainz,Cross
+438385,27,MissedShots,0.88,0.5529999923706055,0.0442298986017704,Anthony Modeste,h,137,OpenPlay,2021,Head,17589,FC Cologne,Bayer Leverkusen,2,2,2021-10-24 13:30:00,Dejan Ljubicic,Cross
+438397,62,Goal,0.9669999694824218,0.4109999847412109,0.25760599970817566,Anthony Modeste,h,137,OpenPlay,2021,RightFoot,17589,FC Cologne,Bayer Leverkusen,2,2,2021-10-24 13:30:00,Jonas Hector,Cross
+438400,77,MissedShots,0.9669999694824218,0.4229999923706055,0.3755579888820648,Anthony Modeste,h,137,OpenPlay,2021,RightFoot,17589,FC Cologne,Bayer Leverkusen,2,2,2021-10-24 13:30:00,Mark Uth,Cross
+438403,81,Goal,0.935,0.5020000076293946,0.07100629806518555,Anthony Modeste,h,137,OpenPlay,2021,Head,17589,FC Cologne,Bayer Leverkusen,2,2,2021-10-24 13:30:00,Sebastian Andersson,Aerial
+439590,48,SavedShot,0.8080000305175781,0.5840000152587891,0.04114079847931862,Anthony Modeste,a,137,OpenPlay,2021,LeftFoot,17605,Borussia Dortmund,FC Cologne,2,0,2021-10-30 13:30:00,Mark Uth,Pass
+439591,50,SavedShot,0.94,0.539000015258789,0.06261420249938965,Anthony Modeste,a,137,OpenPlay,2021,Head,17605,Borussia Dortmund,FC Cologne,2,0,2021-10-30 13:30:00,Jan Thielmann,Aerial
+439596,61,MissedShots,0.91,0.375,0.019909599795937538,Anthony Modeste,a,137,OpenPlay,2021,Head,17605,Borussia Dortmund,FC Cologne,2,0,2021-10-30 13:30:00,,Aerial
+439595,61,SavedShot,0.8730000305175781,0.355,0.0600414015352726,Anthony Modeste,a,137,OpenPlay,2021,RightFoot,17605,Borussia Dortmund,FC Cologne,2,0,2021-10-30 13:30:00,Salih Özcan,Chipped
+439598,64,BlockedShot,0.9780000305175781,0.42900001525878906,0.09323710203170776,Anthony Modeste,a,137,OpenPlay,2021,RightFoot,17605,Borussia Dortmund,FC Cologne,2,0,2021-10-30 13:30:00,,End
+439600,66,MissedShots,0.8819999694824219,0.405,0.10035300254821777,Anthony Modeste,a,137,OpenPlay,2021,RightFoot,17605,Borussia Dortmund,FC Cologne,2,0,2021-10-30 13:30:00,Benno Schmitz,Pass
+439607,85,MissedShots,0.8580000305175781,0.49900001525878906,0.062350500375032425,Anthony Modeste,a,137,OpenPlay,2021,LeftFoot,17605,Borussia Dortmund,FC Cologne,2,0,2021-10-30 13:30:00,,None
+441881,6,Goal,0.9819999694824219,0.5429999923706055,0.8404319882392883,Anthony Modeste,h,137,OpenPlay,2021,RightFoot,17608,FC Cologne,Union Berlin,2,2,2021-11-07 16:30:00,,Rebound
+441886,22,MissedShots,0.9490000152587891,0.435,0.11630500108003616,Anthony Modeste,h,137,FromCorner,2021,Head,17608,FC Cologne,Union Berlin,2,2,2021-11-07 16:30:00,Mark Uth,Cross
+441887,23,BlockedShot,0.8780000305175781,0.539000015258789,0.08366739749908447,Anthony Modeste,h,137,OpenPlay,2021,RightFoot,17608,FC Cologne,Union Berlin,2,2,2021-11-07 16:30:00,,None
+441890,37,MissedShots,0.9019999694824219,0.4929999923706055,0.10488399863243103,Anthony Modeste,h,137,OpenPlay,2021,Head,17608,FC Cologne,Union Berlin,2,2,2021-11-07 16:30:00,Florian Kainz,Cross
+441892,41,SavedShot,0.8909999847412109,0.6170000076293946,0.018984399735927582,Anthony Modeste,h,137,OpenPlay,2021,Head,17608,FC Cologne,Union Berlin,2,2,2021-11-07 16:30:00,Jonas Hector,Aerial
+441899,55,BlockedShot,0.9430000305175781,0.4470000076293945,0.11590000241994858,Anthony Modeste,h,137,OpenPlay,2021,OtherBodyPart,17608,FC Cologne,Union Berlin,2,2,2021-11-07 16:30:00,Mark Uth,Cross
+441903,85,Goal,0.9369999694824219,0.5729999923706055,0.0906464010477066,Anthony Modeste,h,137,FromCorner,2021,Head,17608,FC Cologne,Union Berlin,2,2,2021-11-07 16:30:00,Florian Kainz,Cross
+441906,88,MissedShots,0.730999984741211,0.625,0.015684600919485092,Anthony Modeste,h,137,OpenPlay,2021,LeftFoot,17608,FC Cologne,Union Berlin,2,2,2021-11-07 16:30:00,Sebastian Andersson,Pass
+443415,34,SavedShot,0.9409999847412109,0.3320000076293945,0.3180310130119324,Anthony Modeste,a,137,OpenPlay,2021,RightFoot,17617,Mainz 05,FC Cologne,1,1,2021-11-21 16:30:00,Ondrej Duda,Throughball
+444010,21,SavedShot,0.8580000305175781,0.5029999923706054,0.06117179989814758,Anthony Modeste,h,137,OpenPlay,2021,RightFoot,17626,FC Cologne,Borussia M.Gladbach,4,1,2021-11-27 14:30:00,Jonas Hector,Cross
+444011,23,MissedShots,0.8880000305175781,0.5790000152587891,0.0498494990170002,Anthony Modeste,h,137,OpenPlay,2021,Head,17626,FC Cologne,Borussia M.Gladbach,4,1,2021-11-27 14:30:00,Luca Kilian,Cross
+444016,34,SavedShot,0.945,0.495,0.423554003238678,Anthony Modeste,h,137,FromCorner,2021,Head,17626,FC Cologne,Borussia M.Gladbach,4,1,2021-11-27 14:30:00,Jonas Hector,HeadPass
+444024,62,MissedShots,0.9119999694824219,0.29700000762939455,0.08526519685983658,Anthony Modeste,h,137,OpenPlay,2021,RightFoot,17626,FC Cologne,Borussia M.Gladbach,4,1,2021-11-27 14:30:00,Salih Özcan,Pass
+446029,3,SavedShot,0.9169999694824219,0.49,0.31051701307296753,Anthony Modeste,a,137,OpenPlay,2021,Head,17633,Arminia Bielefeld,FC Cologne,1,1,2021-12-04 14:30:00,Ondrej Duda,Chipped
+446038,28,MissedShots,0.88,0.5429999923706055,0.06856690347194672,Anthony Modeste,a,137,OpenPlay,2021,Head,17633,Arminia Bielefeld,FC Cologne,1,1,2021-12-04 14:30:00,Benno Schmitz,Cross
+446045,61,MissedShots,0.8830000305175781,0.46700000762939453,0.06988109648227692,Anthony Modeste,a,137,OpenPlay,2021,Head,17633,Arminia Bielefeld,FC Cologne,1,1,2021-12-04 14:30:00,Dejan Ljubicic,Cross
+447282,1,MissedShots,0.93,0.5129999923706055,0.437826007604599,Anthony Modeste,h,137,OpenPlay,2021,Head,17644,FC Cologne,Augsburg,0,2,2021-12-10 19:30:00,Dejan Ljubicic,Cross
+447286,19,MissedShots,0.8959999847412109,0.46900001525878904,0.08471319824457169,Anthony Modeste,h,137,OpenPlay,2021,Head,17644,FC Cologne,Augsburg,0,2,2021-12-10 19:30:00,Benno Schmitz,Cross
+447293,46,MissedShots,0.8969999694824219,0.47900001525878905,0.1309880018234253,Anthony Modeste,h,137,OpenPlay,2021,LeftFoot,17644,FC Cologne,Augsburg,0,2,2021-12-10 19:30:00,Ondrej Duda,Pass
+447295,50,SavedShot,0.92,0.5870000076293945,0.08255229890346527,Anthony Modeste,h,137,OpenPlay,2021,Head,17644,FC Cologne,Augsburg,0,2,2021-12-10 19:30:00,Dejan Ljubicic,Cross
+448811,18,SavedShot,0.88,0.5029999923706054,0.023183299228549004,Anthony Modeste,a,137,OpenPlay,2021,Head,17658,Wolfsburg,FC Cologne,2,3,2021-12-14 19:30:00,Jonas Hector,Aerial
+448815,33,Goal,0.9890000152587891,0.5070000076293946,0.8910390138626099,Anthony Modeste,a,137,OpenPlay,2021,Head,17658,Wolfsburg,FC Cologne,2,3,2021-12-14 19:30:00,,Rebound
+448826,55,MissedShots,0.8580000305175781,0.4470000076293945,0.07589700073003769,Anthony Modeste,a,137,OpenPlay,2021,LeftFoot,17658,Wolfsburg,FC Cologne,2,3,2021-12-14 19:30:00,Louis Schaub,Pass
+448834,80,MissedShots,0.8719999694824219,0.5170000076293946,0.371612012386322,Anthony Modeste,a,137,OpenPlay,2021,RightFoot,17658,Wolfsburg,FC Cologne,2,3,2021-12-14 19:30:00,Mark Uth,Pass
+448838,88,Goal,0.9330000305175781,0.47,0.08972609788179398,Anthony Modeste,a,137,OpenPlay,2021,Head,17658,Wolfsburg,FC Cologne,2,3,2021-12-14 19:30:00,,None
+449839,40,MissedShots,0.970999984741211,0.5279999923706055,0.6493099927902222,Anthony Modeste,h,137,OpenPlay,2021,Head,17662,FC Cologne,VfB Stuttgart,1,0,2021-12-19 16:30:00,Florian Kainz,Cross
+449843,57,SavedShot,0.9,0.555,0.08859100192785263,Anthony Modeste,h,137,OpenPlay,2021,RightFoot,17662,FC Cologne,VfB Stuttgart,1,0,2021-12-19 16:30:00,Mark Uth,Cross
+449844,64,MissedShots,0.9159999847412109,0.43900001525878907,0.13588100671768188,Anthony Modeste,h,137,OpenPlay,2021,RightFoot,17662,FC Cologne,VfB Stuttgart,1,0,2021-12-19 16:30:00,Jonas Hector,Pass
+449845,72,MissedShots,0.904000015258789,0.5870000076293945,0.12079200148582458,Anthony Modeste,h,137,OpenPlay,2021,RightFoot,17662,FC Cologne,VfB Stuttgart,1,0,2021-12-19 16:30:00,Jan Thielmann,Pass
+449847,87,Goal,0.8980000305175782,0.48400001525878905,0.08477730304002762,Anthony Modeste,h,137,OpenPlay,2021,Head,17662,FC Cologne,VfB Stuttgart,1,0,2021-12-19 16:30:00,Kingsley Schindler,Cross
+452532,28,Goal,0.9330000305175781,0.4759999847412109,0.4318540096282959,Anthony Modeste,a,137,OpenPlay,2021,Head,17671,Hertha Berlin,FC Cologne,1,3,2022-01-09 14:30:00,Mark Uth,Cross
+452535,41,SavedShot,0.835,0.5479999923706055,0.24330300092697144,Anthony Modeste,a,137,OpenPlay,2021,RightFoot,17671,Hertha Berlin,FC Cologne,1,3,2022-01-09 14:30:00,Mark Uth,Pass
+453128,68,MissedShots,0.9359999847412109,0.48200000762939454,0.09733379632234573,Anthony Modeste,h,137,OpenPlay,2021,Head,17678,FC Cologne,Bayern Munich,0,4,2022-01-15 14:30:00,Florian Kainz,Aerial
+454792,7,MissedShots,0.705999984741211,0.34700000762939454,0.009426739998161793,Anthony Modeste,a,137,OpenPlay,2021,RightFoot,17688,Bochum,FC Cologne,2,2,2022-01-22 17:30:00,,None
+454797,22,MissedShots,0.895,0.5259999847412109,0.09649670124053955,Anthony Modeste,a,137,OpenPlay,2021,LeftFoot,17688,Bochum,FC Cologne,2,2,2022-01-22 17:30:00,Dejan Ljubicic,Cross
+454804,44,Goal,0.7980000305175782,0.565,0.2852480113506317,Anthony Modeste,a,137,OpenPlay,2021,RightFoot,17688,Bochum,FC Cologne,2,2,2022-01-22 17:30:00,Florian Kainz,Chipped
+455670,21,MissedShots,0.9269999694824219,0.475,0.13572800159454346,Anthony Modeste,h,137,OpenPlay,2021,Head,17696,FC Cologne,Freiburg,1,0,2022-02-05 14:30:00,Jan Thielmann,Cross
+455671,22,Goal,0.855,0.645,0.26946398615837097,Anthony Modeste,h,137,OpenPlay,2021,RightFoot,17696,FC Cologne,Freiburg,1,0,2022-02-05 14:30:00,Jan Thielmann,Pass
+455679,55,BlockedShot,0.9009999847412109,0.45799999237060546,0.11153899878263474,Anthony Modeste,h,137,OpenPlay,2021,RightFoot,17696,FC Cologne,Freiburg,1,0,2022-02-05 14:30:00,Jan Thielmann,HeadPass
+458457,83,Goal,0.825999984741211,0.35200000762939454,0.28571999073028564,Anthony Modeste,h,137,OpenPlay,2021,RightFoot,17714,FC Cologne,Eintracht Frankfurt,1,0,2022-02-19 17:30:00,Ellyes Skhiri,None
+459754,13,SavedShot,0.9019999694824219,0.4809999847412109,0.054232899099588394,Anthony Modeste,a,137,OpenPlay,2021,Head,17723,Greuther Fuerth,FC Cologne,1,1,2022-02-26 14:30:00,Ellyes Skhiri,Chipped
+459763,48,MissedShots,0.8769999694824219,0.4370000076293945,0.023714400827884674,Anthony Modeste,a,137,OpenPlay,2021,Head,17723,Greuther Fuerth,FC Cologne,1,1,2022-02-26 14:30:00,Ellyes Skhiri,Aerial
+461778,32,SavedShot,0.8590000152587891,0.3529999923706055,0.05480299890041351,Anthony Modeste,h,137,OpenPlay,2021,LeftFoot,17733,FC Cologne,Hoffenheim,0,1,2022-03-06 16:30:00,,None
+461781,40,MissedShots,0.9069999694824219,0.5309999847412109,0.4526689946651459,Anthony Modeste,h,137,OpenPlay,2021,RightFoot,17733,FC Cologne,Hoffenheim,0,1,2022-03-06 16:30:00,Dejan Ljubicic,Pass
+461789,76,MissedShots,0.9680000305175781,0.46900001525878904,0.13959099352359772,Anthony Modeste,h,137,FromCorner,2021,Head,17733,FC Cologne,Hoffenheim,0,1,2022-03-06 16:30:00,Mark Uth,Cross
+461791,83,SavedShot,0.905,0.5,0.0373212993144989,Anthony Modeste,h,137,OpenPlay,2021,Head,17733,FC Cologne,Hoffenheim,0,1,2022-03-06 16:30:00,Benno Schmitz,Aerial
+463130,54,MissedShots,0.9059999847412109,0.48700000762939455,0.060631800442934036,Anthony Modeste,a,137,OpenPlay,2021,Head,17747,Bayer Leverkusen,FC Cologne,0,1,2022-03-13 14:30:00,Salih Özcan,Chipped
+464772,35,MissedShots,0.9159999847412109,0.5879999923706055,0.032921601086854935,Anthony Modeste,h,137,OpenPlay,2021,Head,17752,FC Cologne,Borussia Dortmund,1,1,2022-03-20 18:30:00,Jannes Horn,Aerial
+466654,38,MissedShots,0.935,0.51,0.1310340017080307,Anthony Modeste,h,137,OpenPlay,2021,Head,17770,FC Cologne,Mainz 05,3,2,2022-04-09 13:30:00,Jannes Horn,Cross
+466657,59,MissedShots,0.909000015258789,0.55,0.06581249833106995,Anthony Modeste,h,137,FromCorner,2021,Head,17770,FC Cologne,Mainz 05,3,2,2022-04-09 13:30:00,Mark Uth,Cross
+468375,4,Goal,0.904000015258789,0.549000015258789,0.09014119952917099,Anthony Modeste,a,137,OpenPlay,2021,LeftFoot,17782,Borussia M.Gladbach,FC Cologne,1,3,2022-04-16 16:30:00,Florian Kainz,Cross
+468397,66,SavedShot,0.8719999694824219,0.44599998474121094,0.11024100333452225,Anthony Modeste,a,137,OpenPlay,2021,RightFoot,17782,Borussia M.Gladbach,FC Cologne,1,3,2022-04-16 16:30:00,Jan Thielmann,Cross
+469945,42,Goal,0.87,0.5829999923706055,0.08024480193853378,Anthony Modeste,h,137,OpenPlay,2021,RightFoot,17788,FC Cologne,Arminia Bielefeld,3,1,2022-04-23 13:30:00,Mark Uth,Chipped
+469958,64,MissedShots,0.9269999694824219,0.46,0.08010400086641312,Anthony Modeste,h,137,OpenPlay,2021,Head,17788,FC Cologne,Arminia Bielefeld,3,1,2022-04-23 13:30:00,Benno Schmitz,Aerial
+469969,91,BlockedShot,0.8130000305175781,0.5170000076293946,0.08482299745082855,Anthony Modeste,h,137,OpenPlay,2021,RightFoot,17788,FC Cologne,Arminia Bielefeld,3,1,2022-04-23 13:30:00,Mathias Olesen,Pass
+469970,92,BlockedShot,0.9630000305175781,0.35900001525878905,0.016635799780488014,Anthony Modeste,h,137,FromCorner,2021,Head,17788,FC Cologne,Arminia Bielefeld,3,1,2022-04-23 13:30:00,Louis Schaub,Cross
+471453,20,MissedShots,0.9330000305175781,0.4179999923706055,0.21308599412441254,Anthony Modeste,a,137,SetPiece,2021,Head,17796,Augsburg,FC Cologne,1,4,2022-04-30 13:30:00,Florian Kainz,Cross
+471455,25,SavedShot,0.8830000305175781,0.6890000152587891,0.07259110361337662,Anthony Modeste,a,137,OpenPlay,2021,RightFoot,17796,Augsburg,FC Cologne,1,4,2022-04-30 13:30:00,Ellyes Skhiri,Pass
+471465,42,MissedShots,0.8680000305175781,0.56,0.04447469860315323,Anthony Modeste,a,137,OpenPlay,2021,Head,17796,Augsburg,FC Cologne,1,4,2022-04-30 13:30:00,Benno Schmitz,Chipped
+471467,62,Goal,0.885,0.5,0.7576959729194641,Anthony Modeste,a,137,Penalty,2021,RightFoot,17796,Augsburg,FC Cologne,1,4,2022-04-30 13:30:00,,Standard
+471469,71,MissedShots,0.865,0.5629999923706055,0.1064779981970787,Anthony Modeste,a,137,OpenPlay,2021,RightFoot,17796,Augsburg,FC Cologne,1,4,2022-04-30 13:30:00,Tim Lemperle,Cross
+471472,76,Goal,0.845,0.5359999847412109,0.11782900243997574,Anthony Modeste,a,137,OpenPlay,2021,RightFoot,17796,Augsburg,FC Cologne,1,4,2022-04-30 13:30:00,Mark Uth,Pass
+471476,88,MissedShots,0.9180000305175782,0.57,0.22124099731445312,Anthony Modeste,a,137,FromCorner,2021,Head,17796,Augsburg,FC Cologne,1,4,2022-04-30 13:30:00,Jonas Hector,Rebound
+473141,2,SavedShot,0.8880000305175781,0.46099998474121096,0.14500199258327484,Anthony Modeste,h,137,OpenPlay,2021,Head,17806,FC Cologne,Wolfsburg,0,1,2022-05-07 13:30:00,Salih Özcan,Cross
+473145,9,MissedShots,0.9069999694824219,0.49900001525878906,0.0515516996383667,Anthony Modeste,h,137,OpenPlay,2021,Head,17806,FC Cologne,Wolfsburg,0,1,2022-05-07 13:30:00,Jan Thielmann,Aerial
+473157,68,SavedShot,0.91,0.43099998474121093,0.06941629946231842,Anthony Modeste,h,137,OpenPlay,2021,Head,17806,FC Cologne,Wolfsburg,0,1,2022-05-07 13:30:00,Jonas Hector,Cross
+473159,73,SavedShot,0.9430000305175781,0.56,0.05232369899749756,Anthony Modeste,h,137,OpenPlay,2021,Head,17806,FC Cologne,Wolfsburg,0,1,2022-05-07 13:30:00,,None
+475706,44,SavedShot,0.8069999694824219,0.34900001525878904,0.0317951999604702,Anthony Modeste,a,137,OpenPlay,2021,RightFoot,17816,VfB Stuttgart,FC Cologne,2,1,2022-05-14 13:30:00,Kingsley Ehizibue,Chipped
+475713,58,Goal,0.975,0.46599998474121096,0.6174110174179077,Anthony Modeste,a,137,OpenPlay,2021,Head,17816,VfB Stuttgart,FC Cologne,2,1,2022-05-14 13:30:00,,None
+475720,83,MissedShots,0.960999984741211,0.5929999923706055,0.13057200610637665,Anthony Modeste,a,137,OpenPlay,2021,RightFoot,17816,VfB Stuttgart,FC Cologne,2,1,2022-05-14 13:30:00,Tim Lemperle,Pass
+480043,21,SavedShot,0.8869999694824219,0.674000015258789,0.05534150078892708,Anthony Modeste,a,137,OpenPlay,2022,LeftFoot,19351,Freiburg,Borussia Dortmund,1,3,2022-08-12 18:30:00,Marco Reus,Pass
+480048,37,MissedShots,0.85,0.57,0.06760360300540924,Anthony Modeste,a,137,OpenPlay,2022,RightFoot,19351,Freiburg,Borussia Dortmund,1,3,2022-08-12 18:30:00,Mahmoud Dahoud,Pass
+483473,21,SavedShot,0.8640000152587891,0.5309999847412109,0.07756319642066956,Anthony Modeste,a,137,OpenPlay,2022,RightFoot,19373,Hertha Berlin,Borussia Dortmund,0,1,2022-08-27 13:30:00,,None
+483474,24,MissedShots,0.8669999694824219,0.40400001525878904,0.3496600091457367,Anthony Modeste,a,137,OpenPlay,2022,RightFoot,19373,Hertha Berlin,Borussia Dortmund,0,1,2022-08-27 13:30:00,Karim Adeyemi,Pass
+483475,31,Goal,0.9119999694824219,0.4520000076293945,0.05169390141963959,Anthony Modeste,a,137,OpenPlay,2022,Head,19373,Hertha Berlin,Borussia Dortmund,0,1,2022-08-27 13:30:00,Salih Özcan,Aerial
+485546,18,MissedShots,0.9259999847412109,0.49599998474121093,0.425911009311676,Anthony Modeste,h,137,OpenPlay,2022,Head,19378,Borussia Dortmund,Hoffenheim,1,0,2022-09-02 18:30:00,Marius Wolf,Cross
+485562,66,SavedShot,0.8830000305175781,0.44,0.11786200106143951,Anthony Modeste,h,137,OpenPlay,2022,RightFoot,19378,Borussia Dortmund,Hoffenheim,1,0,2022-09-02 18:30:00,,Rebound
+485564,84,MissedShots,0.8040000152587891,0.34799999237060547,0.05546950176358223,Anthony Modeste,h,137,OpenPlay,2022,RightFoot,19378,Borussia Dortmund,Hoffenheim,1,0,2022-09-02 18:30:00,Thorgan Hazard,Pass
+487420,42,BlockedShot,0.9490000152587891,0.5820000076293945,0.037851400673389435,Anthony Modeste,a,137,FromCorner,2022,Head,19389,RasenBallsport Leipzig,Borussia Dortmund,3,0,2022-09-10 13:30:00,Julian Brandt,Aerial
+487426,62,MissedShots,0.9080000305175782,0.5329999923706055,0.07970599830150604,Anthony Modeste,a,137,OpenPlay,2022,LeftFoot,19389,RasenBallsport Leipzig,Borussia Dortmund,3,0,2022-09-10 13:30:00,Giovanni Reyna,Cross
+488734,6,MissedShots,0.8180000305175781,0.4759999847412109,0.06411519646644592,Anthony Modeste,h,137,OpenPlay,2022,RightFoot,19397,Borussia Dortmund,Schalke 04,1,0,2022-09-17 13:30:00,Thomas Meunier,Pass
+488737,45,MissedShots,0.9569999694824218,0.5170000076293946,0.13695499300956726,Anthony Modeste,h,137,FromCorner,2022,Head,19397,Borussia Dortmund,Schalke 04,1,0,2022-09-17 13:30:00,Donyell Malen,Cross
+489916,10,MissedShots,0.905,0.455,0.06638990342617035,Anthony Modeste,a,137,FromCorner,2022,Head,19408,FC Cologne,Borussia Dortmund,3,2,2022-10-01 13:30:00,Donyell Malen,Cross
+489949,75,BlockedShot,0.9469999694824218,0.45799999237060546,0.09669890254735947,Anthony Modeste,a,137,OpenPlay,2022,RightFoot,19408,FC Cologne,Borussia Dortmund,3,2,2022-10-01 13:30:00,Thomas Meunier,Cross
+491759,82,SavedShot,0.95,0.5320000076293945,0.5059589743614197,Anthony Modeste,h,137,OpenPlay,2022,RightFoot,19414,Borussia Dortmund,Bayern Munich,2,2,2022-10-08 16:30:00,Karim Adeyemi,Pass
+491764,94,Goal,0.9730000305175781,0.575999984741211,0.362091988325119,Anthony Modeste,h,137,OpenPlay,2022,Head,19414,Borussia Dortmund,Bayern Munich,2,2,2022-10-08 16:30:00,Nico Schlotterbeck,Cross
+495010,78,SavedShot,0.9369999694824219,0.37099998474121093,0.12299499660730362,Anthony Modeste,h,137,OpenPlay,2022,RightFoot,19432,Borussia Dortmund,VfB Stuttgart,5,0,2022-10-22 13:30:00,Thorgan Hazard,Pass
+499028,93,MissedShots,0.9390000152587891,0.505,0.0863656997680664,Anthony Modeste,a,137,OpenPlay,2022,RightFoot,19464,Wolfsburg,Borussia Dortmund,2,0,2022-11-08 17:30:00,,None
+499768,65,SavedShot,0.955,0.4829999923706055,0.6246700286865234,Anthony Modeste,a,137,FromCorner,2022,RightFoot,19472,Borussia M.Gladbach,Borussia Dortmund,4,2,2022-11-11 19:30:00,,Rebound
+499771,83,SavedShot,0.789000015258789,0.62,0.03304719924926758,Anthony Modeste,a,137,OpenPlay,2022,RightFoot,19472,Borussia M.Gladbach,Borussia Dortmund,4,2,2022-11-11 19:30:00,Raphael Guerreiro,Pass
+522490,89,MissedShots,0.8880000305175781,0.445,0.03681305795907974,Anthony Modeste,a,137,FromCorner,2022,Head,19609,Bochum,Borussia Dortmund,1,1,2023-04-28 18:30:00,Jude Bellingham,Chipped

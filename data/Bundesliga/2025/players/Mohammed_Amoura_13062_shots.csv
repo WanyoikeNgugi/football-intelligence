@@ -1,0 +1,137 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+590641,95,MissedShots,0.8430000305175781,0.6869999694824219,0.03965960070490837,Mohammed Amoura,h,13062,OpenPlay,2024,RightFoot,27764,Wolfsburg,Eintracht Frankfurt,1,2,2024-09-14 13:30:00,Jonas Wind,Pass
+592972,3,MissedShots,0.7040000152587891,0.644000015258789,0.012114640325307846,Mohammed Amoura,a,13062,OpenPlay,2024,RightFoot,27775,Bayer Leverkusen,Wolfsburg,4,3,2024-09-22 13:30:00,Mattias Svanberg,BallRecovery
+592975,9,SavedShot,0.855999984741211,0.4,0.06084168329834938,Mohammed Amoura,a,13062,OpenPlay,2024,RightFoot,27775,Bayer Leverkusen,Wolfsburg,4,3,2024-09-22 13:30:00,Patrick Wimmer,Cross
+592979,21,MissedShots,0.9230000305175782,0.5729999923706055,0.0517713725566864,Mohammed Amoura,a,13062,OpenPlay,2024,Head,27775,Bayer Leverkusen,Wolfsburg,4,3,2024-09-22 13:30:00,Bote Baku,Aerial
+592981,30,MissedShots,0.879000015258789,0.6709999847412109,0.053003691136837006,Mohammed Amoura,a,13062,OpenPlay,2024,RightFoot,27775,Bayer Leverkusen,Wolfsburg,4,3,2024-09-22 13:30:00,,None
+594040,67,Goal,0.919000015258789,0.65,0.30334538221359253,Mohammed Amoura,h,13062,OpenPlay,2024,RightFoot,27780,Wolfsburg,VfB Stuttgart,2,2,2024-09-28 13:30:00,Jonas Wind,Pass
+595359,46,BlockedShot,0.759000015258789,0.3820000076293945,0.10656993836164474,Mohammed Amoura,a,13062,OpenPlay,2024,RightFoot,27792,Bochum,Wolfsburg,1,3,2024-10-05 13:30:00,Jonas Wind,Chipped
+595364,52,ShotOnPost,0.850999984741211,0.44,0.28164729475975037,Mohammed Amoura,a,13062,OpenPlay,2024,RightFoot,27792,Bochum,Wolfsburg,1,3,2024-10-05 13:30:00,Jonas Wind,Pass
+595376,79,SavedShot,0.86,0.605,0.0778745710849762,Mohammed Amoura,a,13062,OpenPlay,2024,RightFoot,27792,Bochum,Wolfsburg,1,3,2024-10-05 13:30:00,Patrick Wimmer,Chipped
+597721,32,MissedShots,0.815,0.25799999237060545,0.04048553854227066,Mohammed Amoura,h,13062,OpenPlay,2024,RightFoot,27801,Wolfsburg,Werder Bremen,2,4,2024-10-20 15:30:00,Kamil Grabara,Pass
+597723,36,SavedShot,0.8419999694824218,0.7290000152587891,0.029779808595776558,Mohammed Amoura,h,13062,OpenPlay,2024,RightFoot,27801,Wolfsburg,Werder Bremen,2,4,2024-10-20 15:30:00,Maximilian Arnold,TakeOn
+597732,54,MissedShots,0.9059999847412109,0.38,0.3711875081062317,Mohammed Amoura,h,13062,OpenPlay,2024,RightFoot,27801,Wolfsburg,Werder Bremen,2,4,2024-10-20 15:30:00,,None
+598299,9,MissedShots,0.8640000152587891,0.5359999847412109,0.034037742763757706,Mohammed Amoura,a,13062,OpenPlay,2024,Head,27813,St. Pauli,Wolfsburg,0,0,2024-10-26 13:30:00,Denis Vavro,Chipped
+598309,45,SavedShot,0.8859999847412109,0.425,0.11148799955844879,Mohammed Amoura,a,13062,OpenPlay,2024,RightFoot,27813,St. Pauli,Wolfsburg,0,0,2024-10-26 13:30:00,Bote Baku,Pass
+598310,47,SavedShot,0.91,0.5620000076293945,0.42967817187309265,Mohammed Amoura,a,13062,OpenPlay,2024,LeftFoot,27813,St. Pauli,Wolfsburg,0,0,2024-10-26 13:30:00,Tiago Tomás,Pass
+598317,72,MissedShots,0.8209999847412109,0.27799999237060546,0.048441626131534576,Mohammed Amoura,a,13062,OpenPlay,2024,RightFoot,27813,St. Pauli,Wolfsburg,0,0,2024-10-26 13:30:00,Jonas Wind,Pass
+599987,30,BlockedShot,0.8869999694824219,0.37099998474121093,0.06788992136716843,Mohammed Amoura,h,13062,OpenPlay,2024,LeftFoot,27820,Wolfsburg,Augsburg,1,1,2024-11-02 14:30:00,,Rebound
+599989,35,BlockedShot,0.9269999694824219,0.7080000305175781,0.03951752185821533,Mohammed Amoura,h,13062,OpenPlay,2024,RightFoot,27820,Wolfsburg,Augsburg,1,1,2024-11-02 14:30:00,Tiago Tomás,Pass
+599991,39,BlockedShot,0.9259999847412109,0.42400001525878905,0.047408297657966614,Mohammed Amoura,h,13062,FromCorner,2024,RightFoot,27820,Wolfsburg,Augsburg,1,1,2024-11-02 14:30:00,,Aerial
+599993,48,BlockedShot,0.855999984741211,0.33,0.03390643745660782,Mohammed Amoura,h,13062,FromCorner,2024,LeftFoot,27820,Wolfsburg,Augsburg,1,1,2024-11-02 14:30:00,Maximilian Arnold,Cross
+599996,61,BlockedShot,0.8169999694824219,0.715,0.022454118356108665,Mohammed Amoura,h,13062,OpenPlay,2024,RightFoot,27820,Wolfsburg,Augsburg,1,1,2024-11-02 14:30:00,Lovro Majer,BlockedPass
+600001,81,Goal,0.8680000305175781,0.5829999923706055,0.0773426815867424,Mohammed Amoura,h,13062,OpenPlay,2024,RightFoot,27820,Wolfsburg,Augsburg,1,1,2024-11-02 14:30:00,Joakim Maehle,Pass
+602432,40,BlockedShot,0.8419999694824218,0.7519999694824219,0.031443167477846146,Mohammed Amoura,a,13062,OpenPlay,2024,RightFoot,27825,FC Heidenheim,Wolfsburg,1,3,2024-11-10 18:30:00,Bence Dárdai,Pass
+602820,9,SavedShot,0.870999984741211,0.43400001525878906,0.0231751911342144,Mohammed Amoura,h,13062,OpenPlay,2024,Head,27838,Wolfsburg,Union Berlin,1,0,2024-11-23 14:30:00,Maximilian Arnold,Pass
+602825,43,MissedShots,0.8159999847412109,0.72,0.018037354573607445,Mohammed Amoura,h,13062,FromCorner,2024,RightFoot,27838,Wolfsburg,Union Berlin,1,0,2024-11-23 14:30:00,Patrick Wimmer,HeadPass
+602829,66,MissedShots,0.8140000152587891,0.509000015258789,0.04010404273867607,Mohammed Amoura,h,13062,FromCorner,2024,RightFoot,27838,Wolfsburg,Union Berlin,1,0,2024-11-23 14:30:00,,None
+604009,3,Goal,0.970999984741211,0.5729999923706055,0.5597466230392456,Mohammed Amoura,a,13062,OpenPlay,2024,RightFoot,27841,RasenBallsport Leipzig,Wolfsburg,1,5,2024-11-30 14:30:00,,None
+604011,15,Goal,0.9790000152587891,0.33599998474121096,0.07559743523597717,Mohammed Amoura,a,13062,OpenPlay,2024,RightFoot,27841,RasenBallsport Leipzig,Wolfsburg,1,5,2024-11-30 14:30:00,Bence Dárdai,Chipped
+604016,37,SavedShot,0.7930000305175782,0.5990000152587891,0.09337998926639557,Mohammed Amoura,a,13062,OpenPlay,2024,RightFoot,27841,RasenBallsport Leipzig,Wolfsburg,1,5,2024-11-30 14:30:00,Tiago Tomás,Pass
+604020,62,BlockedShot,0.8730000305175781,0.4129999923706055,0.09516249597072601,Mohammed Amoura,a,13062,OpenPlay,2024,RightFoot,27841,RasenBallsport Leipzig,Wolfsburg,1,5,2024-11-30 14:30:00,Tiago Tomás,BallRecovery
+606387,18,Goal,0.970999984741211,0.515,0.7019307613372803,Mohammed Amoura,h,13062,OpenPlay,2024,RightFoot,27853,Wolfsburg,Mainz 05,4,3,2024-12-08 14:30:00,,None
+606791,12,SavedShot,0.8680000305175781,0.6090000152587891,0.5248303413391113,Mohammed Amoura,a,13062,OpenPlay,2024,RightFoot,27862,Freiburg,Wolfsburg,3,2,2024-12-13 19:30:00,Tiago Tomás,Throughball
+606807,47,MissedShots,0.7880000305175782,0.7169999694824218,0.03550250083208084,Mohammed Amoura,a,13062,OpenPlay,2024,RightFoot,27862,Freiburg,Wolfsburg,3,2,2024-12-13 19:30:00,Patrick Wimmer,Pass
+608840,52,MissedShots,0.8109999847412109,0.535,0.05869697034358978,Mohammed Amoura,h,13062,OpenPlay,2024,RightFoot,27874,Wolfsburg,Borussia Dortmund,1,3,2024-12-22 16:30:00,Tiago Tomás,TakeOn
+608843,67,BlockedShot,0.875999984741211,0.30100000381469727,0.032561834901571274,Mohammed Amoura,h,13062,FromCorner,2024,RightFoot,27874,Wolfsburg,Borussia Dortmund,1,3,2024-12-22 16:30:00,,None
+608847,82,MissedShots,0.9080000305175782,0.6709999847412109,0.023215072229504585,Mohammed Amoura,h,13062,FromCorner,2024,LeftFoot,27874,Wolfsburg,Borussia Dortmund,1,3,2024-12-22 16:30:00,,Aerial
+608850,84,BlockedShot,0.865999984741211,0.3110000038146973,0.03281005844473839,Mohammed Amoura,h,13062,FromCorner,2024,RightFoot,27874,Wolfsburg,Borussia Dortmund,1,3,2024-12-22 16:30:00,,None
+610607,28,Goal,0.9130000305175782,0.5109999847412109,0.09349644184112549,Mohammed Amoura,a,13062,FromCorner,2024,Head,27879,Hoffenheim,Wolfsburg,0,1,2025-01-11 14:30:00,Maximilian Arnold,Cross
+611411,34,MissedShots,0.7190000152587891,0.585,0.023658936843276024,Mohammed Amoura,h,13062,OpenPlay,2024,RightFoot,27891,Wolfsburg,Borussia M.Gladbach,5,1,2025-01-14 19:30:00,Jonas Wind,Pass
+611414,48,ShotOnPost,0.8640000152587891,0.3629999923706055,0.07704146951436996,Mohammed Amoura,h,13062,OpenPlay,2024,RightFoot,27891,Wolfsburg,Borussia M.Gladbach,5,1,2025-01-14 19:30:00,,None
+612188,23,Goal,0.899000015258789,0.5629999923706055,0.44046998023986816,Mohammed Amoura,a,13062,SetPiece,2024,RightFoot,27897,Bayern Munich,Wolfsburg,3,2,2025-01-18 14:30:00,,TakeOn
+612195,43,MissedShots,0.874000015258789,0.27799999237060546,0.043739769607782364,Mohammed Amoura,a,13062,OpenPlay,2024,RightFoot,27897,Bayern Munich,Wolfsburg,3,2,2025-01-18 14:30:00,Lukas Nmecha,HeadPass
+612205,80,SavedShot,0.860999984741211,0.6220000076293946,0.06078984588384628,Mohammed Amoura,a,13062,OpenPlay,2024,RightFoot,27897,Bayern Munich,Wolfsburg,3,2,2025-01-18 14:30:00,Mattias Svanberg,BallRecovery
+612208,87,Goal,0.905,0.634000015258789,0.10766612738370895,Mohammed Amoura,a,13062,OpenPlay,2024,LeftFoot,27897,Bayern Munich,Wolfsburg,3,2,2025-01-18 14:30:00,Tiago Tomás,Pass
+613072,5,BlockedShot,0.955999984741211,0.615,0.07994866371154785,Mohammed Amoura,h,13062,FromCorner,2024,LeftFoot,27910,Wolfsburg,Holstein Kiel,2,2,2025-01-24 19:30:00,,None
+613089,55,BlockedShot,0.8869999694824219,0.38,0.09726601839065552,Mohammed Amoura,h,13062,OpenPlay,2024,RightFoot,27910,Wolfsburg,Holstein Kiel,2,2,2025-01-24 19:30:00,Andreas Skov Olsen,CornerAwarded
+613091,63,BlockedShot,0.7859999847412109,0.3129999923706055,0.017322098836302757,Mohammed Amoura,h,13062,FromCorner,2024,RightFoot,27910,Wolfsburg,Holstein Kiel,2,2,2025-01-24 19:30:00,,None
+613092,69,BlockedShot,0.8590000152587891,0.67,0.06635536253452301,Mohammed Amoura,h,13062,OpenPlay,2024,RightFoot,27910,Wolfsburg,Holstein Kiel,2,2,2025-01-24 19:30:00,Joakim Maehle,Pass
+615493,29,SavedShot,0.855999984741211,0.3110000038146973,0.027008162811398506,Mohammed Amoura,a,13062,SetPiece,2024,RightFoot,27919,Eintracht Frankfurt,Wolfsburg,1,1,2025-02-02 14:30:00,Maximilian Arnold,Pass
+615494,30,BlockedShot,0.8280000305175781,0.34900001525878904,0.040920156985521317,Mohammed Amoura,a,13062,OpenPlay,2024,RightFoot,27919,Eintracht Frankfurt,Wolfsburg,1,1,2025-02-02 14:30:00,,None
+615497,49,BlockedShot,0.9009999847412109,0.5109999847412109,0.34872519969940186,Mohammed Amoura,a,13062,OpenPlay,2024,RightFoot,27919,Eintracht Frankfurt,Wolfsburg,1,1,2025-02-02 14:30:00,Jonas Wind,CornerAwarded
+616099,67,BlockedShot,0.7530000305175781,0.39099998474121095,0.01962508074939251,Mohammed Amoura,h,13062,OpenPlay,2024,RightFoot,27927,Wolfsburg,Bayer Leverkusen,0,0,2025-02-08 14:30:00,Joakim Maehle,Pass
+616105,85,SavedShot,0.8669999694824219,0.7240000152587891,0.02592398412525654,Mohammed Amoura,h,13062,SetPiece,2024,RightFoot,27927,Wolfsburg,Bayer Leverkusen,0,0,2025-02-08 14:30:00,Denis Vavro,Chipped
+617135,86,Goal,0.885,0.5,0.75777667760849,Mohammed Amoura,a,13062,Penalty,2024,RightFoot,27932,VfB Stuttgart,Wolfsburg,1,2,2025-02-15 14:30:00,,Standard
+618375,10,SavedShot,0.915,0.385,0.365344762802124,Mohammed Amoura,h,13062,OpenPlay,2024,RightFoot,27945,Wolfsburg,Bochum,1,1,2025-02-22 14:30:00,,None
+619940,0,BlockedShot,0.8880000305175781,0.48700000762939455,0.10021305829286575,Mohammed Amoura,a,13062,OpenPlay,2024,RightFoot,27953,Werder Bremen,Wolfsburg,1,2,2025-03-01 14:30:00,Jonas Wind,Chipped
+619941,1,BlockedShot,0.875999984741211,0.664000015258789,0.047674596309661865,Mohammed Amoura,a,13062,OpenPlay,2024,RightFoot,27953,Werder Bremen,Wolfsburg,1,2,2025-03-01 14:30:00,Joakim Maehle,Pass
+619944,9,BlockedShot,0.8119999694824219,0.525,0.07069352269172668,Mohammed Amoura,a,13062,OpenPlay,2024,RightFoot,27953,Werder Bremen,Wolfsburg,1,2,2025-03-01 14:30:00,Andreas Skov Olsen,Pass
+621158,70,Goal,0.885,0.5,0.75777667760849,Mohammed Amoura,h,13062,Penalty,2024,RightFoot,27964,Wolfsburg,St. Pauli,1,1,2025-03-08 14:30:00,,Standard
+621159,77,SavedShot,0.9180000305175782,0.47200000762939454,0.5018227696418762,Mohammed Amoura,h,13062,OpenPlay,2024,RightFoot,27964,Wolfsburg,St. Pauli,1,1,2025-03-08 14:30:00,Jakub Kaminski,Pass
+626492,4,MissedShots,0.899000015258789,0.34599998474121096,0.3161675035953522,Mohammed Amoura,a,13062,OpenPlay,2024,RightFoot,27991,Union Berlin,Wolfsburg,1,0,2025-04-06 15:30:00,,None
+626499,35,SavedShot,0.9640000152587891,0.305,0.041948866099119186,Mohammed Amoura,a,13062,OpenPlay,2024,RightFoot,27991,Union Berlin,Wolfsburg,1,0,2025-04-06 15:30:00,Kilian Fischer,Pass
+626759,64,MissedShots,0.8590000152587891,0.37400001525878906,0.07102159410715103,Mohammed Amoura,h,13062,OpenPlay,2024,RightFoot,27999,Wolfsburg,RasenBallsport Leipzig,2,3,2025-04-11 18:30:00,Kilian Fischer,Pass
+626761,67,MissedShots,0.9330000305175781,0.3870000076293945,0.08118671923875809,Mohammed Amoura,h,13062,FromCorner,2024,RightFoot,27999,Wolfsburg,RasenBallsport Leipzig,2,3,2025-04-11 18:30:00,,None
+626762,69,SavedShot,0.8809999847412109,0.66,0.08633903414011002,Mohammed Amoura,h,13062,OpenPlay,2024,RightFoot,27999,Wolfsburg,RasenBallsport Leipzig,2,3,2025-04-11 18:30:00,Jonas Wind,Chipped
+628485,4,MissedShots,0.8480000305175781,0.6430000305175781,0.06945323199033737,Mohammed Amoura,a,13062,OpenPlay,2024,RightFoot,28009,Mainz 05,Wolfsburg,2,2,2025-04-19 13:30:00,Kevin Paredes,Pass
+628493,17,SavedShot,0.909000015258789,0.38,0.39534813165664673,Mohammed Amoura,a,13062,OpenPlay,2024,RightFoot,28009,Mainz 05,Wolfsburg,2,2,2025-04-19 13:30:00,,None
+628494,18,MissedShots,0.975,0.5270000076293946,0.5727507472038269,Mohammed Amoura,a,13062,FromCorner,2024,Head,28009,Mainz 05,Wolfsburg,2,2,2025-04-19 13:30:00,Maximilian Arnold,Cross
+630182,14,BlockedShot,0.7980000305175782,0.7280000305175781,0.02062384970486164,Mohammed Amoura,h,13062,OpenPlay,2024,RightFoot,28018,Wolfsburg,Freiburg,0,1,2025-04-26 13:30:00,Joakim Maehle,TakeOn
+631589,74,MissedShots,0.8869999694824219,0.624000015258789,0.04188986122608185,Mohammed Amoura,a,13062,OpenPlay,2024,RightFoot,28022,Borussia Dortmund,Wolfsburg,4,0,2025-05-03 16:30:00,Andreas Skov Olsen,Cross
+632445,15,BlockedShot,0.87,0.6780000305175782,0.054485589265823364,Mohammed Amoura,h,13062,OpenPlay,2024,RightFoot,28035,Wolfsburg,Hoffenheim,2,2,2025-05-09 18:30:00,Patrick Wimmer,Pass
+632461,64,SavedShot,0.8069999694824219,0.6270000076293946,0.036167774349451065,Mohammed Amoura,h,13062,OpenPlay,2024,RightFoot,28035,Wolfsburg,Hoffenheim,2,2,2025-05-09 18:30:00,Andreas Skov Olsen,Pass
+634312,0,MissedShots,0.774000015258789,0.625,0.021847089752554893,Mohammed Amoura,a,13062,OpenPlay,2024,RightFoot,28046,Borussia M.Gladbach,Wolfsburg,0,1,2025-05-17 13:30:00,,None
+634320,18,BlockedShot,0.8719999694824219,0.3770000076293945,0.07936698943376541,Mohammed Amoura,a,13062,OpenPlay,2024,RightFoot,28046,Borussia M.Gladbach,Wolfsburg,0,1,2025-05-17 13:30:00,Patrick Wimmer,Pass
+634323,22,MissedShots,0.7369999694824219,0.6609999847412109,0.014197000302374363,Mohammed Amoura,a,13062,OpenPlay,2024,RightFoot,28046,Borussia M.Gladbach,Wolfsburg,0,1,2025-05-17 13:30:00,Yannick Gerhardt,Pass
+634337,73,BlockedShot,0.8530000305175781,0.5620000076293945,0.10290995240211487,Mohammed Amoura,a,13062,OpenPlay,2024,RightFoot,28046,Borussia M.Gladbach,Wolfsburg,0,1,2025-05-17 13:30:00,Lovro Majer,Pass
+638725,86,Goal,0.885,0.5,0.75777667760849,Mohammed Amoura,a,13062,Penalty,2025,RightFoot,30225,FC Heidenheim,Wolfsburg,1,3,2025-08-23 13:30:00,,Standard
+641627,18,MissedShots,0.8269999694824218,0.39299999237060546,0.045232512056827545,Mohammed Amoura,h,13062,OpenPlay,2025,RightFoot,30246,Wolfsburg,FC Cologne,3,3,2025-09-13 13:30:00,,None
+641631,41,Goal,0.9580000305175781,0.46,0.4806671440601349,Mohammed Amoura,h,13062,SetPiece,2025,Head,30246,Wolfsburg,FC Cologne,3,3,2025-09-13 13:30:00,Maximilian Arnold,Aerial
+641636,51,BlockedShot,0.9290000152587891,0.4229999923706055,0.0756797268986702,Mohammed Amoura,h,13062,FromCorner,2025,Head,30246,Wolfsburg,FC Cologne,3,3,2025-09-13 13:30:00,Maximilian Arnold,Cross
+641638,62,MissedShots,0.9209999847412109,0.445,0.10977371782064438,Mohammed Amoura,h,13062,OpenPlay,2025,LeftFoot,30246,Wolfsburg,FC Cologne,3,3,2025-09-13 13:30:00,Kilian Fischer,Cross
+643955,17,MissedShots,0.8180000305175781,0.675,0.048447221517562866,Mohammed Amoura,a,13062,OpenPlay,2025,RightFoot,30259,Borussia Dortmund,Wolfsburg,1,0,2025-09-21 17:30:00,,Rebound
+643963,57,MissedShots,0.919000015258789,0.395,0.1151975765824318,Mohammed Amoura,a,13062,SetPiece,2025,Head,30259,Borussia Dortmund,Wolfsburg,1,0,2025-09-21 17:30:00,Maximilian Arnold,Cross
+644568,0,SavedShot,0.8469999694824218,0.7530000305175781,0.02609982155263424,Mohammed Amoura,h,13062,OpenPlay,2025,RightFoot,30264,Wolfsburg,RasenBallsport Leipzig,0,1,2025-09-27 13:30:00,Patrick Wimmer,Pass
+644570,3,BlockedShot,0.9440000152587891,0.6780000305175782,0.04782319441437721,Mohammed Amoura,h,13062,FromCorner,2025,LeftFoot,30264,Wolfsburg,RasenBallsport Leipzig,0,1,2025-09-27 13:30:00,,None
+644581,46,MissedShots,0.825,0.675,0.0323980487883091,Mohammed Amoura,h,13062,OpenPlay,2025,RightFoot,30264,Wolfsburg,RasenBallsport Leipzig,0,1,2025-09-27 13:30:00,,None
+644587,55,MissedShots,0.9769999694824218,0.5720000076293945,0.3448229432106018,Mohammed Amoura,h,13062,FromCorner,2025,Head,30264,Wolfsburg,RasenBallsport Leipzig,0,1,2025-09-27 13:30:00,Maximilian Arnold,Cross
+644604,74,BlockedShot,0.9409999847412109,0.58,0.12868185341358185,Mohammed Amoura,h,13062,FromCorner,2025,RightFoot,30264,Wolfsburg,RasenBallsport Leipzig,0,1,2025-09-27 13:30:00,,Rebound
+646047,34,MissedShots,0.7140000152587891,0.2989999961853027,0.015600926242768764,Mohammed Amoura,a,13062,OpenPlay,2025,RightFoot,30276,Augsburg,Wolfsburg,3,1,2025-10-04 13:30:00,Vinicius Souza,Pass
+646051,52,MissedShots,0.845,0.5590000152587891,0.05523495376110077,Mohammed Amoura,a,13062,OpenPlay,2025,RightFoot,30276,Augsburg,Wolfsburg,3,1,2025-10-04 13:30:00,Moritz Jenz,HeadPass
+646052,56,SavedShot,0.895,0.48200000762939454,0.11983998864889145,Mohammed Amoura,a,13062,OpenPlay,2025,RightFoot,30276,Augsburg,Wolfsburg,3,1,2025-10-04 13:30:00,Andreas Skov Olsen,Pass
+646061,89,BlockedShot,0.9,0.42900001525878906,0.08660769462585449,Mohammed Amoura,a,13062,OpenPlay,2025,RightFoot,30276,Augsburg,Wolfsburg,3,1,2025-10-04 13:30:00,Lovro Majer,BallTouch
+648822,31,SavedShot,0.774000015258789,0.7480000305175781,0.01385576743632555,Mohammed Amoura,a,13062,FromCorner,2025,RightFoot,30292,Hamburger SV,Wolfsburg,0,1,2025-10-25 13:30:00,,None
+651654,13,Goal,0.9640000152587891,0.6279999923706054,0.5770774483680725,Mohammed Amoura,h,13062,OpenPlay,2025,LeftFoot,30304,Wolfsburg,Hoffenheim,2,3,2025-11-02 16:30:00,Mattias Svanberg,TakeOn
+651658,45,SavedShot,0.85,0.675,0.031755391508340836,Mohammed Amoura,h,13062,FromCorner,2025,RightFoot,30304,Wolfsburg,Hoffenheim,2,3,2025-11-02 16:30:00,,None
+651664,55,Goal,0.8780000305175781,0.39099998474121095,0.3765909969806671,Mohammed Amoura,h,13062,OpenPlay,2025,RightFoot,30304,Wolfsburg,Hoffenheim,2,3,2025-11-02 16:30:00,Sael Kumbedi,Throughball
+651665,60,MissedShots,0.8009999847412109,0.3940000152587891,0.11532478034496307,Mohammed Amoura,h,13062,OpenPlay,2025,RightFoot,30304,Wolfsburg,Hoffenheim,2,3,2025-11-02 16:30:00,Lovro Majer,Throughball
+653473,52,MissedShots,0.7769999694824219,0.5940000152587891,0.02070458233356476,Mohammed Amoura,h,13062,OpenPlay,2025,RightFoot,30322,Wolfsburg,Bayer Leverkusen,1,3,2025-11-22 14:30:00,,None
+653474,54,MissedShots,0.8090000152587891,0.6609999847412109,0.02048609033226967,Mohammed Amoura,h,13062,OpenPlay,2025,RightFoot,30322,Wolfsburg,Bayer Leverkusen,1,3,2025-11-22 14:30:00,Kamil Grabara,Pass
+655672,21,MissedShots,0.905,0.5459999847412109,0.3160926103591919,Mohammed Amoura,a,13062,OpenPlay,2025,RightFoot,30326,Eintracht Frankfurt,Wolfsburg,1,1,2025-11-30 16:30:00,Christian Eriksen,Cross
+655681,58,SavedShot,0.92,0.4929999923706055,0.4994111955165863,Mohammed Amoura,a,13062,OpenPlay,2025,RightFoot,30326,Eintracht Frankfurt,Wolfsburg,1,1,2025-11-30 16:30:00,,Rebound
+656821,29,Goal,0.8919999694824219,0.4640000152587891,0.13512247800827026,Mohammed Amoura,h,13062,OpenPlay,2025,RightFoot,30333,Wolfsburg,Union Berlin,3,1,2025-12-06 14:30:00,Sael Kumbedi,Pass
+658139,26,MissedShots,0.960999984741211,0.6819999694824219,0.0444457121193409,Mohammed Amoura,a,13062,FromCorner,2025,RightFoot,30343,Borussia M.Gladbach,Wolfsburg,1,3,2025-12-13 14:30:00,,None
+658142,29,Goal,0.909000015258789,0.47200000762939454,0.4925977885723114,Mohammed Amoura,a,13062,OpenPlay,2025,LeftFoot,30343,Borussia M.Gladbach,Wolfsburg,1,3,2025-12-13 14:30:00,,None
+658146,50,BlockedShot,0.805,0.669000015258789,0.04868757352232933,Mohammed Amoura,a,13062,OpenPlay,2025,RightFoot,30343,Borussia M.Gladbach,Wolfsburg,1,3,2025-12-13 14:30:00,Christian Eriksen,HeadPass
+663402,41,MissedShots,0.960999984741211,0.30100000381469727,0.07803167402744293,Mohammed Amoura,h,13062,SetPiece,2025,RightFoot,30385,Wolfsburg,FC Heidenheim,1,1,2026-01-17 14:30:00,Jan Bürger,LayOff
+663406,48,BlockedShot,0.86,0.47700000762939454,0.06407853215932846,Mohammed Amoura,h,13062,OpenPlay,2025,RightFoot,30385,Wolfsburg,FC Heidenheim,1,1,2026-01-17 14:30:00,Christian Eriksen,BallTouch
+663414,82,SavedShot,0.8519999694824218,0.759000015258789,0.04855670779943466,Mohammed Amoura,h,13062,OpenPlay,2025,RightFoot,30385,Wolfsburg,FC Heidenheim,1,1,2026-01-17 14:30:00,Christian Eriksen,Pass
+664664,2,Goal,0.9580000305175781,0.4979999923706055,0.6829138398170471,Mohammed Amoura,a,13062,OpenPlay,2025,RightFoot,30392,Mainz 05,Wolfsburg,3,1,2026-01-24 14:30:00,Sael Kumbedi,Pass
+664667,9,MissedShots,0.8240000152587891,0.745999984741211,0.043168459087610245,Mohammed Amoura,a,13062,OpenPlay,2025,RightFoot,30392,Mainz 05,Wolfsburg,3,1,2026-01-24 14:30:00,Dzenan Pejcinovic,Pass
+667088,2,MissedShots,0.7880000305175782,0.7290000152587891,0.01470297109335661,Mohammed Amoura,h,13062,OpenPlay,2025,RightFoot,30412,Wolfsburg,Borussia Dortmund,1,2,2026-02-07 14:30:00,,None
+667095,23,MissedShots,0.7269999694824218,0.5459999847412109,0.03698015585541725,Mohammed Amoura,h,13062,OpenPlay,2025,RightFoot,30412,Wolfsburg,Borussia Dortmund,1,2,2026-02-07 14:30:00,Adam Daghim,Pass
+667096,24,MissedShots,0.8369999694824218,0.524000015258789,0.07657960057258606,Mohammed Amoura,h,13062,OpenPlay,2025,RightFoot,30412,Wolfsburg,Borussia Dortmund,1,2,2026-02-07 14:30:00,Adam Daghim,Pass
+667111,53,MissedShots,0.909000015258789,0.5559999847412109,0.438963919878006,Mohammed Amoura,h,13062,OpenPlay,2025,RightFoot,30412,Wolfsburg,Borussia Dortmund,1,2,2026-02-07 14:30:00,Adam Daghim,Pass
+667114,61,MissedShots,0.8590000152587891,0.6780000305175782,0.04308099299669266,Mohammed Amoura,h,13062,OpenPlay,2025,LeftFoot,30412,Wolfsburg,Borussia Dortmund,1,2,2026-02-07 14:30:00,Kevin Paredes,Pass
+667115,64,MissedShots,0.8059999847412109,0.3160000038146973,0.3134380877017975,Mohammed Amoura,h,13062,OpenPlay,2025,RightFoot,30412,Wolfsburg,Borussia Dortmund,1,2,2026-02-07 14:30:00,Adam Daghim,Chipped
+667116,66,MissedShots,0.8190000152587891,0.49900001525878906,0.05847468972206116,Mohammed Amoura,h,13062,OpenPlay,2025,RightFoot,30412,Wolfsburg,Borussia Dortmund,1,2,2026-02-07 14:30:00,Christian Eriksen,Pass
+667117,70,SavedShot,0.899000015258789,0.32799999237060545,0.48866984248161316,Mohammed Amoura,h,13062,OpenPlay,2025,RightFoot,30412,Wolfsburg,Borussia Dortmund,1,2,2026-02-07 14:30:00,Adam Daghim,Throughball
+669208,35,MissedShots,0.7169999694824218,0.495,0.015688426792621613,Mohammed Amoura,a,13062,OpenPlay,2025,RightFoot,30419,RasenBallsport Leipzig,Wolfsburg,2,2,2026-02-15 16:30:00,Lovro Majer,Pass
+669213,51,Goal,0.8869999694824219,0.35,0.11581967025995255,Mohammed Amoura,a,13062,OpenPlay,2025,RightFoot,30419,RasenBallsport Leipzig,Wolfsburg,2,2,2026-02-15 16:30:00,Adam Daghim,Pass
+669215,64,MissedShots,0.82,0.735,0.015237715095281601,Mohammed Amoura,a,13062,SetPiece,2025,RightFoot,30419,RasenBallsport Leipzig,Wolfsburg,2,2,2026-02-15 16:30:00,,None
+669216,65,MissedShots,0.8269999694824218,0.295,0.04469400271773338,Mohammed Amoura,a,13062,OpenPlay,2025,RightFoot,30419,RasenBallsport Leipzig,Wolfsburg,2,2,2026-02-15 16:30:00,Denis Vavro,Chipped
+671651,16,MissedShots,0.9669999694824218,0.455,0.11360731720924377,Mohammed Amoura,a,13062,FromCorner,2025,Head,30438,VfB Stuttgart,Wolfsburg,4,0,2026-03-01 14:30:00,,Aerial
+672669,93,BlockedShot,0.825,0.4979999923706055,0.04070815071463585,Mohammed Amoura,h,13062,FromCorner,2025,RightFoot,30448,Wolfsburg,Hamburger SV,1,2,2026-03-07 14:30:00,Konstantinos Koulierakis,BallTouch
+675190,20,BlockedShot,0.725,0.515,0.02084185928106308,Mohammed Amoura,h,13062,OpenPlay,2025,RightFoot,30466,Wolfsburg,Werder Bremen,0,1,2026-03-21 14:30:00,Vinicius Souza,Pass
+675199,59,MissedShots,0.9680000305175781,0.6419999694824219,0.2484574317932129,Mohammed Amoura,h,13062,OpenPlay,2025,RightFoot,30466,Wolfsburg,Werder Bremen,0,1,2026-03-21 14:30:00,Konstantinos Koulierakis,Pass
+676504,2,MissedShots,0.8769999694824219,0.575999984741211,0.3321596384048462,Mohammed Amoura,a,13062,OpenPlay,2025,RightFoot,30467,Bayer Leverkusen,Wolfsburg,6,3,2026-04-04 13:30:00,Christian Eriksen,Pass
+676511,22,MissedShots,0.879000015258789,0.43099998474121093,0.36445143818855286,Mohammed Amoura,a,13062,OpenPlay,2025,RightFoot,30467,Bayer Leverkusen,Wolfsburg,6,3,2026-04-04 13:30:00,Patrick Wimmer,Pass
+676523,60,SavedShot,0.8059999847412109,0.5109999847412109,0.3208595812320709,Mohammed Amoura,a,13062,OpenPlay,2025,RightFoot,30467,Bayer Leverkusen,Wolfsburg,6,3,2026-04-04 13:30:00,Patrick Wimmer,Throughball
+677724,11,SavedShot,0.9180000305175782,0.534000015258789,0.48673295974731445,Mohammed Amoura,h,13062,OpenPlay,2025,RightFoot,30484,Wolfsburg,Eintracht Frankfurt,1,2,2026-04-11 13:30:00,,BallTouch
+677733,48,BlockedShot,0.9109999847412109,0.700999984741211,0.03714795038104057,Mohammed Amoura,h,13062,SetPiece,2025,RightFoot,30484,Wolfsburg,Eintracht Frankfurt,1,2,2026-04-11 13:30:00,,Rebound
+677737,60,MissedShots,0.8580000305175781,0.5459999847412109,0.07248455286026001,Mohammed Amoura,h,13062,OpenPlay,2025,RightFoot,30484,Wolfsburg,Eintracht Frankfurt,1,2,2026-04-11 13:30:00,Patrick Wimmer,BallTouch
+677746,80,BlockedShot,0.8180000305175781,0.27600000381469725,0.023594601079821587,Mohammed Amoura,h,13062,OpenPlay,2025,RightFoot,30484,Wolfsburg,Eintracht Frankfurt,1,2,2026-04-11 13:30:00,Maximilian Arnold,Pass
+680849,14,SavedShot,0.884000015258789,0.6609999847412109,0.06412497907876968,Mohammed Amoura,h,13062,OpenPlay,2025,RightFoot,30502,Wolfsburg,Borussia M.Gladbach,0,0,2026-04-25 13:30:00,Dzenan Pejcinovic,HeadPass
+680858,43,MissedShots,0.765,0.5929999923706055,0.021542517468333244,Mohammed Amoura,h,13062,OpenPlay,2025,RightFoot,30502,Wolfsburg,Borussia M.Gladbach,0,0,2026-04-25 13:30:00,,None
+680862,67,SavedShot,0.7,0.6020000076293945,0.04867163300514221,Mohammed Amoura,h,13062,OpenPlay,2025,RightFoot,30502,Wolfsburg,Borussia M.Gladbach,0,0,2026-04-25 13:30:00,Dzenan Pejcinovic,TakeOn

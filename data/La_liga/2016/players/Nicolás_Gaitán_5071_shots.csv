@@ -1,0 +1,18 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+136012,9,MissedShots,0.76,0.29200000762939454,0.02635120041668415,Nicolás Gaitán,h,5071,OpenPlay,2016,LeftFoot,1811,Atletico Madrid,Sporting Gijon,5,0,2016-09-17 18:15:00,Filipe Luis,Pass
+136305,23,MissedShots,0.9,0.4520000076293945,0.09110549837350845,Nicolás Gaitán,h,5071,OpenPlay,2016,LeftFoot,1835,Atletico Madrid,Deportivo La Coruna,1,0,2016-09-25 18:15:00,Antoine Griezmann,HeadPass
+136311,49,MissedShots,0.7390000152587891,0.5629999923706055,0.021263599395751953,Nicolás Gaitán,h,5071,OpenPlay,2016,LeftFoot,1835,Atletico Madrid,Deportivo La Coruna,1,0,2016-09-25 18:15:00,Koke,Pass
+136910,62,Goal,0.9569999694824218,0.40599998474121096,0.4896019995212555,Nicolás Gaitán,h,5071,OpenPlay,2016,LeftFoot,1852,Atletico Madrid,Granada,7,1,2016-10-15 20:30:00,,Rebound
+136915,78,SavedShot,0.9009999847412109,0.735999984741211,0.05272490158677101,Nicolás Gaitán,h,5071,OpenPlay,2016,RightFoot,1852,Atletico Madrid,Granada,7,1,2016-10-15 20:30:00,Filipe Luis,HeadPass
+136917,80,Goal,0.8630000305175781,0.34700000762939454,0.07787910103797913,Nicolás Gaitán,h,5071,OpenPlay,2016,LeftFoot,1852,Atletico Madrid,Granada,7,1,2016-10-15 20:30:00,Yannick Carrasco,Pass
+140688,8,Goal,0.9530000305175781,0.5590000152587891,0.5759249925613403,Nicolás Gaitán,h,5071,OpenPlay,2016,LeftFoot,3896,Atletico Madrid,Real Betis,1,0,2017-01-14 21:30:00,,None
+139052,90,MissedShots,0.925,0.6409999847412109,0.1552100032567978,Nicolás Gaitán,h,5071,OpenPlay,2016,RightFoot,3977,Atletico Madrid,Valencia,3,0,2017-03-05 15:15:00,Koke,TakeOn
+143151,31,SavedShot,0.865,0.555,0.013723400421440601,Nicolás Gaitán,h,5071,OpenPlay,2016,Head,4060,Atletico Madrid,Villarreal,0,1,2017-04-25 20:30:00,,Rebound
+143157,53,SavedShot,0.875,0.3890000152587891,0.3566470146179199,Nicolás Gaitán,h,5071,OpenPlay,2016,LeftFoot,4060,Atletico Madrid,Villarreal,0,1,2017-04-25 20:30:00,,Dispossessed
+169116,79,BlockedShot,0.8209999847412109,0.524000015258789,0.055103600025177,Nicolás Gaitán,a,5071,OpenPlay,2017,RightFoot,7882,Girona,Atletico Madrid,2,2,2017-08-19 19:15:00,Yannick Carrasco,Pass
+169787,61,SavedShot,0.8819999694824219,0.6680000305175782,0.06458509713411331,Nicolás Gaitán,a,5071,OpenPlay,2017,LeftFoot,7908,Valencia,Atletico Madrid,0,0,2017-09-09 15:15:00,Filipe Luis,Pass
+169790,65,BlockedShot,0.8109999847412109,0.67,0.023252500221133232,Nicolás Gaitán,a,5071,OpenPlay,2017,LeftFoot,7908,Valencia,Atletico Madrid,0,0,2017-09-09 15:15:00,,Rebound
+169794,84,MissedShots,0.76,0.519000015258789,0.023349499329924583,Nicolás Gaitán,a,5071,OpenPlay,2017,LeftFoot,7908,Valencia,Atletico Madrid,0,0,2017-09-09 15:15:00,,None
+170236,1,BlockedShot,0.8219999694824218,0.5109999847412109,0.06524059921503067,Nicolás Gaitán,a,5071,OpenPlay,2017,LeftFoot,7927,Athletic Club,Atletico Madrid,1,2,2017-09-20 19:00:00,,BallTouch
+170242,34,SavedShot,0.9369999694824219,0.66,0.3362730145454407,Nicolás Gaitán,a,5071,OpenPlay,2017,LeftFoot,7927,Athletic Club,Atletico Madrid,1,2,2017-09-20 19:00:00,,BallRecovery
+172181,50,SavedShot,0.7919999694824219,0.725999984741211,0.017096400260925293,Nicolás Gaitán,a,5071,OpenPlay,2017,LeftFoot,7984,Deportivo La Coruna,Atletico Madrid,0,1,2017-11-04 15:15:00,Saúl Ñíguez,HeadPass

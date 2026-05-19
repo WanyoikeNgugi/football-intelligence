@@ -1,0 +1,24 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+24374,32,MissedShots,0.870999984741211,0.54,0.10969100147485733,Sebastian Boenisch,a,260,OpenPlay,2014,LeftFoot,5453,Borussia Dortmund,Bayer Leverkusen,0,2,2014-08-23 17:30:00,Stefan Kießling,BallTouch
+24378,53,BlockedShot,0.7519999694824219,0.6469999694824219,0.01874390058219433,Sebastian Boenisch,a,260,OpenPlay,2014,RightFoot,5453,Borussia Dortmund,Bayer Leverkusen,0,2,2014-08-23 17:30:00,,Rebound
+24584,37,BlockedShot,0.6890000152587891,0.73,0.007577210199087858,Sebastian Boenisch,h,260,SetPiece,2014,RightFoot,5460,Bayer Leverkusen,Hertha Berlin,4,2,2014-08-30 14:30:00,,None
+25341,57,MissedShots,0.8780000305175781,0.43099998474121093,0.08517830073833466,Sebastian Boenisch,h,260,FromCorner,2014,LeftFoot,5434,Bayer Leverkusen,Augsburg,1,0,2014-09-24 19:00:00,,Rebound
+25346,68,BlockedShot,0.7130000305175781,0.625999984741211,0.011907000094652176,Sebastian Boenisch,h,260,OpenPlay,2014,LeftFoot,5434,Bayer Leverkusen,Augsburg,1,0,2014-09-24 19:00:00,,Aerial
+27037,26,BlockedShot,0.7759999847412109,0.710999984741211,0.016352899372577667,Sebastian Boenisch,a,260,OpenPlay,2014,RightFoot,5369,Hannover 96,Bayer Leverkusen,1,3,2014-11-22 14:30:00,Karim Bellarabi,Pass
+27042,44,MissedShots,0.624000015258789,0.6309999847412109,0.007230979856103659,Sebastian Boenisch,a,260,OpenPlay,2014,RightFoot,5369,Hannover 96,Bayer Leverkusen,1,3,2014-11-22 14:30:00,,None
+27047,55,BlockedShot,0.735999984741211,0.580999984741211,0.02316409908235073,Sebastian Boenisch,a,260,OpenPlay,2014,LeftFoot,5369,Hannover 96,Bayer Leverkusen,1,3,2014-11-22 14:30:00,Gonzalo Castro,Pass
+27055,64,MissedShots,0.9319999694824219,0.41200000762939454,0.06753569841384888,Sebastian Boenisch,a,260,FromCorner,2014,RightFoot,5369,Hannover 96,Bayer Leverkusen,1,3,2014-11-22 14:30:00,Hakan Calhanoglu,Cross
+27510,42,BlockedShot,0.9530000305175781,0.5129999923706055,0.13353900611400604,Sebastian Boenisch,h,260,FromCorner,2014,Head,5377,Bayer Leverkusen,FC Cologne,5,1,2014-11-29 14:30:00,Hakan Calhanoglu,Cross
+27742,52,MissedShots,0.7269999694824218,0.7390000152587891,0.01123259961605072,Sebastian Boenisch,a,260,OpenPlay,2014,RightFoot,5337,Hoffenheim,Bayer Leverkusen,0,1,2014-12-17 19:00:00,Son Heung-Min,Pass
+28997,36,MissedShots,0.860999984741211,0.4879999923706055,0.0103388000279665,Sebastian Boenisch,h,260,SetPiece,2014,Head,5282,Bayer Leverkusen,Wolfsburg,4,5,2015-02-14 14:30:00,Hakan Calhanoglu,Aerial
+30198,87,MissedShots,0.81,0.36,0.052657101303339005,Sebastian Boenisch,h,260,OpenPlay,2014,LeftFoot,5178,Bayer Leverkusen,Hoffenheim,2,0,2015-05-16 14:30:00,Hakan Calhanoglu,Pass
+31537,47,SavedShot,0.735,0.28200000762939453,0.014431999996304512,Sebastian Boenisch,a,260,OpenPlay,2014,LeftFoot,5188,Eintracht Frankfurt,Bayer Leverkusen,2,1,2015-05-23 14:30:00,Stefan Kießling,Pass
+31539,54,MissedShots,0.8619999694824219,0.34200000762939453,0.03508409857749939,Sebastian Boenisch,a,260,FromCorner,2014,RightFoot,5188,Eintracht Frankfurt,Bayer Leverkusen,2,1,2015-05-23 14:30:00,Hakan Calhanoglu,Foul
+77983,24,MissedShots,0.965999984741211,0.6819999694824219,0.011886700056493282,Sebastian Boenisch,a,260,FromCorner,2015,Head,1098,Hamburger SV,Bayer Leverkusen,0,0,2015-10-17 17:30:00,Julian Brandt,Aerial
+78222,69,Goal,0.9259999847412109,0.46,0.12216799706220627,Sebastian Boenisch,h,260,FromCorner,2015,RightFoot,1106,Bayer Leverkusen,VfB Stuttgart,4,3,2015-10-24 17:30:00,Karim Bellarabi,Pass
+78708,81,MissedShots,0.91,0.4759999847412109,0.08318720012903214,Sebastian Boenisch,h,260,FromCorner,2015,Head,1123,Bayer Leverkusen,FC Cologne,1,2,2015-11-07 18:30:00,Hakan Calhanoglu,Cross
+78712,88,MissedShots,0.7440000152587891,0.629000015258789,0.018721699714660645,Sebastian Boenisch,h,260,OpenPlay,2015,RightFoot,1123,Bayer Leverkusen,FC Cologne,1,2,2015-11-07 18:30:00,Hakan Calhanoglu,Pass
+78713,91,MissedShots,0.7240000152587891,0.6270000076293946,0.012430200353264809,Sebastian Boenisch,h,260,OpenPlay,2015,LeftFoot,1123,Bayer Leverkusen,FC Cologne,1,2,2015-11-07 18:30:00,,None
+81784,8,BlockedShot,0.750999984741211,0.14100000381469727,0.008810900151729584,Sebastian Boenisch,a,260,OpenPlay,2015,LeftFoot,1238,Augsburg,Bayer Leverkusen,3,3,2016-03-05 18:30:00,Christoph Kramer,LayOff
+81801,65,BlockedShot,0.8219999694824218,0.26,0.020416099578142166,Sebastian Boenisch,a,260,OpenPlay,2015,LeftFoot,1238,Augsburg,Bayer Leverkusen,3,3,2016-03-05 18:30:00,Admir Mehmedi,Pass
+81802,65,MissedShots,0.745999984741211,0.4759999847412109,0.01421939954161644,Sebastian Boenisch,a,260,OpenPlay,2015,LeftFoot,1238,Augsburg,Bayer Leverkusen,3,3,2016-03-05 18:30:00,,None

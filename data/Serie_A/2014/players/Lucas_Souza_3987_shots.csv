@@ -1,0 +1,6 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+42942,78,MissedShots,0.8880000305175781,0.6430000305175781,0.0823936015367508,Lucas Souza,h,3987,OpenPlay,2014,LeftFoot,5072,Parma,Genoa,1,2,2014-10-05 14:00:00,Antonio Cassano,Pass
+43462,67,SavedShot,0.9,0.5640000152587891,0.046489499509334564,Lucas Souza,h,3987,OpenPlay,2014,Head,5090,Parma,Sassuolo,1,3,2014-10-25 17:00:00,Andrea Rispoli,Aerial
+43468,84,MissedShots,0.8490000152587891,0.7419999694824219,0.018723299726843834,Lucas Souza,h,3987,SetPiece,2014,RightFoot,5090,Parma,Sassuolo,1,3,2014-10-25 17:00:00,,None
+44730,94,MissedShots,0.805,0.5690000152587891,0.03960840031504631,Lucas Souza,a,3987,OpenPlay,2014,LeftFoot,5064,Palermo,Parma,2,1,2014-11-30 14:00:00,,None
+44731,94,BlockedShot,0.7980000305175782,0.78,0.014158000238239765,Lucas Souza,a,3987,OpenPlay,2014,RightFoot,5064,Palermo,Parma,2,1,2014-11-30 14:00:00,,BallRecovery

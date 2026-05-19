@@ -1,0 +1,125 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+31,10,Goal,0.9309999847412109,0.54,0.33720600605010986,André-Pierre Gignac,a,4747,OpenPlay,2014,Head,6186,SC Bastia,Marseille,3,3,2014-08-09 20:00:00,Benjamin Mendy,Cross
+41,50,BlockedShot,0.805,0.385,0.050437599420547485,André-Pierre Gignac,a,4747,OpenPlay,2014,LeftFoot,6186,SC Bastia,Marseille,3,3,2014-08-09 20:00:00,Dimitri Payet,Pass
+44,61,Goal,0.885,0.5,0.7600950002670288,André-Pierre Gignac,a,4747,Penalty,2014,RightFoot,6186,SC Bastia,Marseille,3,3,2014-08-09 20:00:00,,Standard
+48,79,MissedShots,0.8580000305175781,0.26899999618530274,0.01317480020225048,André-Pierre Gignac,a,4747,SetPiece,2014,RightFoot,6186,SC Bastia,Marseille,3,3,2014-08-09 20:00:00,,Aerial
+311,23,SavedShot,0.875,0.5179999923706055,0.07517240196466446,André-Pierre Gignac,h,4747,OpenPlay,2014,LeftFoot,6202,Marseille,Montpellier,0,2,2014-08-17 16:00:00,Giannelli Imbula,BallTouch
+331,75,MissedShots,0.889000015258789,0.5529999923706055,0.06784600019454956,André-Pierre Gignac,h,4747,OpenPlay,2014,RightFoot,6202,Marseille,Montpellier,0,2,2014-08-17 16:00:00,Benjamin Mendy,Cross
+334,78,MissedShots,0.764000015258789,0.6419999694824219,0.016610199585556984,André-Pierre Gignac,h,4747,FromCorner,2014,RightFoot,6202,Marseille,Montpellier,0,2,2014-08-17 16:00:00,,None
+493,19,SavedShot,0.6559999847412109,0.500999984741211,0.008326799608767033,André-Pierre Gignac,a,4747,OpenPlay,2014,RightFoot,6206,Guingamp,Marseille,0,1,2014-08-23 16:00:00,Dimitri Payet,TakeOn
+494,24,MissedShots,0.92,0.56,0.0779431015253067,André-Pierre Gignac,a,4747,FromCorner,2014,Head,6206,Guingamp,Marseille,0,1,2014-08-23 16:00:00,Dimitri Payet,Cross
+498,45,Goal,0.865,0.3039999961853027,0.01998309977352619,André-Pierre Gignac,a,4747,OpenPlay,2014,RightFoot,6206,Guingamp,Marseille,0,1,2014-08-23 16:00:00,Dimitri Payet,Cross
+500,53,MissedShots,0.775,0.33599998474121096,0.03062549978494644,André-Pierre Gignac,a,4747,OpenPlay,2014,RightFoot,6206,Guingamp,Marseille,0,1,2014-08-23 16:00:00,,Dispossessed
+501,67,MissedShots,0.8959999847412109,0.285,0.054392699152231216,André-Pierre Gignac,a,4747,OpenPlay,2014,RightFoot,6206,Guingamp,Marseille,0,1,2014-08-23 16:00:00,Abdel Barrada,Pass
+1151,0,Goal,0.885,0.3320000076293945,0.28076601028442383,André-Pierre Gignac,a,4747,OpenPlay,2014,RightFoot,6154,Evian Thonon Gaillard,Marseille,1,3,2014-09-14 20:00:00,Rod Fanni,Chipped
+2103,13,SavedShot,0.87,0.585,0.017667900770902634,André-Pierre Gignac,h,4747,OpenPlay,2014,Head,6156,Marseille,Rennes,3,0,2014-09-20 16:00:00,Brice Dja Djédjé,Cross
+2105,17,MissedShots,0.8680000305175781,0.46599998474121096,0.032420799136161804,André-Pierre Gignac,h,4747,OpenPlay,2014,Head,6156,Marseille,Rennes,3,0,2014-09-20 16:00:00,Benjamin Mendy,Cross
+2106,19,SavedShot,0.835,0.48200000762939454,0.0628466010093689,André-Pierre Gignac,h,4747,OpenPlay,2014,RightFoot,6156,Marseille,Rennes,3,0,2014-09-20 16:00:00,,None
+2109,46,MissedShots,0.9569999694824218,0.590999984741211,0.45510101318359375,André-Pierre Gignac,h,4747,OpenPlay,2014,LeftFoot,6156,Marseille,Rennes,3,0,2014-09-20 16:00:00,,None
+2110,49,Goal,0.9319999694824219,0.5940000152587891,0.420289009809494,André-Pierre Gignac,h,4747,OpenPlay,2014,RightFoot,6156,Marseille,Rennes,3,0,2014-09-20 16:00:00,,None
+2117,62,Goal,0.7919999694824219,0.509000015258789,0.028421999886631966,André-Pierre Gignac,h,4747,FromCorner,2014,RightFoot,6156,Marseille,Rennes,3,0,2014-09-20 16:00:00,,None
+2121,81,MissedShots,0.7709999847412109,0.3840000152587891,0.03138969838619232,André-Pierre Gignac,h,4747,OpenPlay,2014,RightFoot,6156,Marseille,Rennes,3,0,2014-09-20 16:00:00,Rod Fanni,Pass
+1779,7,SavedShot,0.885,0.5,0.7600950002670288,André-Pierre Gignac,a,4747,Penalty,2014,RightFoot,6165,Reims,Marseille,0,5,2014-09-23 18:00:00,,Standard
+1780,7,Goal,0.9009999847412109,0.5470000076293945,0.2783769965171814,André-Pierre Gignac,a,4747,OpenPlay,2014,Head,6165,Reims,Marseille,0,5,2014-09-23 18:00:00,Benjamin Mendy,Cross
+1781,16,MissedShots,0.9069999694824219,0.5870000076293945,0.039142198860645294,André-Pierre Gignac,a,4747,OpenPlay,2014,Head,6165,Reims,Marseille,0,5,2014-09-23 18:00:00,Dimitri Payet,Aerial
+1784,19,Goal,0.8959999847412109,0.48700000762939455,0.30481401085853577,André-Pierre Gignac,a,4747,OpenPlay,2014,Head,6165,Reims,Marseille,0,5,2014-09-23 18:00:00,,Rebound
+1791,43,MissedShots,0.9159999847412109,0.555,0.13937699794769287,André-Pierre Gignac,a,4747,OpenPlay,2014,LeftFoot,6165,Reims,Marseille,0,5,2014-09-23 18:00:00,Benjamin Mendy,Rebound
+2186,54,BlockedShot,0.8680000305175781,0.629000015258789,0.09161610156297684,André-Pierre Gignac,h,4747,OpenPlay,2014,RightFoot,6184,Marseille,Saint-Etienne,2,1,2014-09-28 20:00:00,Benjamin Mendy,Pass
+2192,77,SavedShot,0.9030000305175782,0.2610000038146973,0.02875480055809021,André-Pierre Gignac,h,4747,SetPiece,2014,RightFoot,6184,Marseille,Saint-Etienne,2,1,2014-09-28 20:00:00,,None
+2193,83,SavedShot,0.8519999694824218,0.4779999923706055,0.3603140115737915,André-Pierre Gignac,h,4747,OpenPlay,2014,RightFoot,6184,Marseille,Saint-Etienne,2,1,2014-09-28 20:00:00,Abdel Barrada,Throughball
+2196,92,SavedShot,0.775,0.700999984741211,0.017972400411963463,André-Pierre Gignac,h,4747,FromCorner,2014,RightFoot,6184,Marseille,Saint-Etienne,2,1,2014-09-28 20:00:00,,Dispossessed
+2437,19,SavedShot,0.7959999847412109,0.725999984741211,0.03932740166783333,André-Pierre Gignac,a,4747,OpenPlay,2014,RightFoot,6115,Caen,Marseille,1,2,2014-10-04 16:00:00,Dimitri Payet,Pass
+2442,30,MissedShots,0.975,0.39799999237060546,0.07279930263757706,André-Pierre Gignac,a,4747,OpenPlay,2014,RightFoot,6115,Caen,Marseille,1,2,2014-10-04 16:00:00,Florian Thauvin,Cross
+2448,47,MissedShots,0.8519999694824218,0.76,0.021500999107956886,André-Pierre Gignac,a,4747,FromCorner,2014,RightFoot,6115,Caen,Marseille,1,2,2014-10-04 16:00:00,Dimitri Payet,Pass
+2449,49,MissedShots,0.7819999694824219,0.39799999237060546,0.028281399980187416,André-Pierre Gignac,a,4747,FromCorner,2014,RightFoot,6115,Caen,Marseille,1,2,2014-10-04 16:00:00,Dimitri Payet,Cross
+2457,81,SavedShot,0.8690000152587891,0.4279999923706055,0.03616590052843094,André-Pierre Gignac,a,4747,OpenPlay,2014,Head,6115,Caen,Marseille,1,2,2014-10-04 16:00:00,Romain Alessandrini,Cross
+2463,92,Goal,0.9330000305175781,0.435,0.5270940065383911,André-Pierre Gignac,a,4747,OpenPlay,2014,RightFoot,6115,Caen,Marseille,1,2,2014-10-04 16:00:00,Benjamin Mendy,Pass
+1718,22,SavedShot,0.785,0.375,0.03573239967226982,André-Pierre Gignac,h,4747,OpenPlay,2014,RightFoot,6131,Marseille,Toulouse,2,0,2014-10-19 13:00:00,Benjamin Mendy,Pass
+1720,34,Goal,0.8869999694824219,0.47099998474121096,0.41757500171661377,André-Pierre Gignac,h,4747,OpenPlay,2014,LeftFoot,6131,Marseille,Toulouse,2,0,2014-10-19 13:00:00,,None
+1723,48,MissedShots,0.97,0.7580000305175781,0.0325435996055603,André-Pierre Gignac,h,4747,OpenPlay,2014,RightFoot,6131,Marseille,Toulouse,2,0,2014-10-19 13:00:00,Dimitri Payet,Cross
+2018,52,SavedShot,0.865,0.6680000305175782,0.05496010184288025,André-Pierre Gignac,a,4747,OpenPlay,2014,LeftFoot,6143,Lyon,Marseille,1,0,2014-10-26 20:00:00,Dimitri Payet,Chipped
+2022,64,SavedShot,0.92,0.695,0.05358070135116577,André-Pierre Gignac,a,4747,OpenPlay,2014,RightFoot,6143,Lyon,Marseille,1,0,2014-10-26 20:00:00,Dimitri Payet,Pass
+3518,19,SavedShot,0.7809999847412109,0.5829999923706055,0.03990250080823898,André-Pierre Gignac,h,4747,OpenPlay,2014,LeftFoot,6084,Marseille,Lens,2,1,2014-11-02 20:00:00,André Ayew,BallRecovery
+3527,43,MissedShots,0.9030000305175782,0.5740000152587891,0.05773580074310303,André-Pierre Gignac,h,4747,FromCorner,2014,LeftFoot,6084,Marseille,Lens,2,1,2014-11-02 20:00:00,Dimitri Payet,Cross
+5368,4,ShotOnPost,0.9519999694824218,0.4209999847412109,0.09521839767694473,André-Pierre Gignac,a,4747,FromCorner,2014,Head,6094,Paris Saint Germain,Marseille,2,0,2014-11-09 20:00:00,Florian Thauvin,Cross
+5371,8,MissedShots,0.7680000305175781,0.720999984741211,0.015596600249409676,André-Pierre Gignac,a,4747,OpenPlay,2014,RightFoot,6094,Paris Saint Germain,Marseille,2,0,2014-11-09 20:00:00,Benjamin Mendy,BallRecovery
+5381,30,BlockedShot,0.84,0.620999984741211,0.05801299959421158,André-Pierre Gignac,a,4747,OpenPlay,2014,RightFoot,6094,Paris Saint Germain,Marseille,2,0,2014-11-09 20:00:00,Romain Alessandrini,Pass
+5387,51,SavedShot,0.7909999847412109,0.3220000076293945,0.2055779993534088,André-Pierre Gignac,a,4747,OpenPlay,2014,RightFoot,6094,Paris Saint Germain,Marseille,2,0,2014-11-09 20:00:00,,BallRecovery
+5400,84,MissedShots,0.43400001525878906,0.14300000190734863,0.006686389911919832,André-Pierre Gignac,a,4747,OpenPlay,2014,RightFoot,6094,Paris Saint Germain,Marseille,2,0,2014-11-09 20:00:00,,BallRecovery
+5834,33,MissedShots,0.9490000152587891,0.44799999237060545,0.48648399114608765,André-Pierre Gignac,h,4747,OpenPlay,2014,RightFoot,6103,Marseille,Bordeaux,3,1,2014-11-23 20:00:00,Brice Dja Djédjé,Cross
+5835,33,SavedShot,0.8619999694824219,0.5629999923706055,0.2950670123100281,André-Pierre Gignac,h,4747,OpenPlay,2014,RightFoot,6103,Marseille,Bordeaux,3,1,2014-11-23 20:00:00,Dimitri Payet,Chipped
+5839,43,SavedShot,0.7730000305175782,0.66,0.023932399228215218,André-Pierre Gignac,h,4747,OpenPlay,2014,RightFoot,6103,Marseille,Bordeaux,3,1,2014-11-23 20:00:00,Florian Thauvin,TakeOn
+5841,49,SavedShot,0.8969999694824219,0.5570000076293945,0.09162720292806625,André-Pierre Gignac,h,4747,OpenPlay,2014,RightFoot,6103,Marseille,Bordeaux,3,1,2014-11-23 20:00:00,Florian Thauvin,Cross
+5852,70,MissedShots,0.879000015258789,0.24,0.028309199959039688,André-Pierre Gignac,h,4747,OpenPlay,2014,RightFoot,6103,Marseille,Bordeaux,3,1,2014-11-23 20:00:00,Giannelli Imbula,Chipped
+5855,84,Goal,0.905,0.41700000762939454,0.04002159833908081,André-Pierre Gignac,h,4747,FromCorner,2014,Head,6103,Marseille,Bordeaux,3,1,2014-11-23 20:00:00,Dimitri Payet,Cross
+3340,10,BlockedShot,0.7180000305175781,0.59,0.01945759914815426,André-Pierre Gignac,h,4747,OpenPlay,2014,RightFoot,6104,Marseille,Nantes,2,0,2014-11-28 19:30:00,Benjamin Mendy,Pass
+3346,26,BlockedShot,0.9130000305175782,0.5990000152587891,0.053530000150203705,André-Pierre Gignac,h,4747,FromCorner,2014,RightFoot,6104,Marseille,Nantes,2,0,2014-11-28 19:30:00,Dimitri Payet,Cross
+3355,52,SavedShot,0.8090000152587891,0.625,0.08987029641866684,André-Pierre Gignac,h,4747,OpenPlay,2014,RightFoot,6104,Marseille,Nantes,2,0,2014-11-28 19:30:00,Dimitri Payet,TakeOn
+3356,64,MissedShots,0.9459999847412109,0.39099998474121095,0.12806099653244019,André-Pierre Gignac,h,4747,OpenPlay,2014,RightFoot,6104,Marseille,Nantes,2,0,2014-11-28 19:30:00,Brice Dja Djédjé,Cross
+4576,10,MissedShots,0.7080000305175781,0.5770000076293945,0.01506619993597269,André-Pierre Gignac,a,4747,FromCorner,2014,RightFoot,6036,Lorient,Marseille,1,1,2014-12-02 18:00:00,,Rebound
+4578,23,SavedShot,0.7930000305175782,0.37099998474121093,0.02356570027768612,André-Pierre Gignac,a,4747,OpenPlay,2014,RightFoot,6036,Lorient,Marseille,1,1,2014-12-02 18:00:00,Steve Mandanda,Pass
+4579,25,MissedShots,0.8830000305175781,0.43599998474121093,0.07378380000591278,André-Pierre Gignac,a,4747,OpenPlay,2014,RightFoot,6036,Lorient,Marseille,1,1,2014-12-02 18:00:00,Dimitri Payet,Cross
+4590,57,BlockedShot,0.8769999694824219,0.29600000381469727,0.042906999588012695,André-Pierre Gignac,a,4747,OpenPlay,2014,RightFoot,6036,Lorient,Marseille,1,1,2014-12-02 18:00:00,Florian Thauvin,Pass
+4592,59,BlockedShot,0.8719999694824219,0.2929999923706055,0.04038029909133911,André-Pierre Gignac,a,4747,OpenPlay,2014,RightFoot,6036,Lorient,Marseille,1,1,2014-12-02 18:00:00,,None
+4593,71,BlockedShot,0.865,0.4229999923706055,0.3458380103111267,André-Pierre Gignac,a,4747,OpenPlay,2014,RightFoot,6036,Lorient,Marseille,1,1,2014-12-02 18:00:00,,None
+4597,81,SavedShot,0.919000015258789,0.585,0.05346040055155754,André-Pierre Gignac,a,4747,FromCorner,2014,Head,6036,Lorient,Marseille,1,1,2014-12-02 18:00:00,Dimitri Payet,Cross
+4601,91,SavedShot,0.8480000305175781,0.44,0.06675619632005692,André-Pierre Gignac,a,4747,OpenPlay,2014,LeftFoot,6036,Lorient,Marseille,1,1,2014-12-02 18:00:00,,None
+5734,42,Goal,0.9069999694824219,0.46299999237060546,0.2643370032310486,André-Pierre Gignac,h,4747,OpenPlay,2014,Head,6055,Marseille,Metz,3,1,2014-12-07 20:00:00,Dimitri Payet,Cross
+5736,51,BlockedShot,0.8140000152587891,0.634000015258789,0.03497859835624695,André-Pierre Gignac,h,4747,OpenPlay,2014,RightFoot,6055,Marseille,Metz,3,1,2014-12-07 20:00:00,Dimitri Payet,Pass
+5738,53,BlockedShot,0.8619999694824219,0.4129999923706055,0.08473490178585052,André-Pierre Gignac,h,4747,OpenPlay,2014,RightFoot,6055,Marseille,Metz,3,1,2014-12-07 20:00:00,Jacques-Alaixys Romao,Pass
+5745,71,MissedShots,0.9180000305175782,0.5929999923706055,0.016379399225115776,André-Pierre Gignac,h,4747,FromCorner,2014,Head,6055,Marseille,Metz,3,1,2014-12-07 20:00:00,Dimitri Payet,Aerial
+5746,80,SavedShot,0.89,0.5879999923706055,0.08831220120191574,André-Pierre Gignac,h,4747,OpenPlay,2014,RightFoot,6055,Marseille,Metz,3,1,2014-12-07 20:00:00,Mario Lemina,Cross
+5747,82,SavedShot,0.8180000305175781,0.46599998474121096,0.07873260229825974,André-Pierre Gignac,h,4747,OpenPlay,2014,RightFoot,6055,Marseille,Metz,3,1,2014-12-07 20:00:00,Mario Lemina,TakeOn
+4529,8,MissedShots,0.9069999694824219,0.39299999237060546,0.24490199983119965,André-Pierre Gignac,a,4747,OpenPlay,2014,Head,6065,Monaco,Marseille,1,0,2014-12-14 20:00:00,Florian Thauvin,Cross
+4540,40,BlockedShot,0.8919999694824219,0.5979999923706054,0.11233299970626831,André-Pierre Gignac,a,4747,OpenPlay,2014,RightFoot,6065,Monaco,Marseille,1,0,2014-12-14 20:00:00,André Ayew,TakeOn
+4543,58,SavedShot,0.8959999847412109,0.28700000762939454,0.0681919977068901,André-Pierre Gignac,a,4747,OpenPlay,2014,RightFoot,6065,Monaco,Marseille,1,0,2014-12-14 20:00:00,Dimitri Payet,Pass
+5094,5,MissedShots,0.9490000152587891,0.355,0.01627109944820404,André-Pierre Gignac,h,4747,FromCorner,2014,Head,6073,Marseille,Lille,2,1,2014-12-21 13:00:00,Florian Thauvin,Cross
+5097,11,MissedShots,0.865,0.5559999847412109,0.37319499254226685,André-Pierre Gignac,h,4747,OpenPlay,2014,RightFoot,6073,Marseille,Lille,2,1,2014-12-21 13:00:00,,None
+3200,21,SavedShot,0.9319999694824219,0.6020000076293945,0.01658030040562153,André-Pierre Gignac,a,4747,FromCorner,2014,Head,5999,Montpellier,Marseille,2,1,2015-01-09 19:30:00,Dimitri Payet,Aerial
+4300,17,SavedShot,0.86,0.5690000152587891,0.02882079966366291,André-Pierre Gignac,h,4747,SetPiece,2014,Head,6018,Marseille,Guingamp,2,1,2015-01-18 20:00:00,Dimitri Payet,Cross
+4308,42,MissedShots,0.805,0.5259999847412109,0.044901300221681595,André-Pierre Gignac,h,4747,OpenPlay,2014,LeftFoot,6018,Marseille,Guingamp,2,1,2015-01-18 20:00:00,Florian Thauvin,Pass
+4313,56,BlockedShot,0.885,0.6229999923706054,0.0603456012904644,André-Pierre Gignac,h,4747,FromCorner,2014,RightFoot,6018,Marseille,Guingamp,2,1,2015-01-18 20:00:00,,None
+4315,66,SavedShot,0.88,0.3120000076293945,0.05206739902496338,André-Pierre Gignac,h,4747,OpenPlay,2014,RightFoot,6018,Marseille,Guingamp,2,1,2015-01-18 20:00:00,Michy Batshuayi,Pass
+4317,69,MissedShots,0.89,0.43400001525878906,0.08144789934158325,André-Pierre Gignac,h,4747,OpenPlay,2014,RightFoot,6018,Marseille,Guingamp,2,1,2015-01-18 20:00:00,Florian Thauvin,Cross
+4322,88,Goal,0.9180000305175782,0.4909999847412109,0.13039299845695496,André-Pierre Gignac,h,4747,SetPiece,2014,Head,6018,Marseille,Guingamp,2,1,2015-01-18 20:00:00,Dimitri Payet,Cross
+5614,14,BlockedShot,0.9290000152587891,0.34799999237060547,0.06733489781618118,André-Pierre Gignac,a,4747,OpenPlay,2014,RightFoot,6019,Nice,Marseille,2,1,2015-01-23 19:30:00,,Rebound
+6123,26,MissedShots,0.935,0.5709999847412109,0.13723500072956085,André-Pierre Gignac,h,4747,OpenPlay,2014,RightFoot,6030,Marseille,Evian Thonon Gaillard,1,0,2015-01-31 15:30:00,Romain Alessandrini,Rebound
+6125,31,MissedShots,0.875,0.46700000762939453,0.0471160002052784,André-Pierre Gignac,h,4747,OpenPlay,2014,Head,6030,Marseille,Evian Thonon Gaillard,1,0,2015-01-31 15:30:00,Florian Thauvin,Cross
+6126,35,MissedShots,0.924000015258789,0.43599998474121093,0.08053179830312729,André-Pierre Gignac,h,4747,FromCorner,2014,Head,6030,Marseille,Evian Thonon Gaillard,1,0,2015-01-31 15:30:00,Dimitri Payet,Cross
+6131,48,Goal,0.885,0.5,0.7600950002670288,André-Pierre Gignac,h,4747,Penalty,2014,RightFoot,6030,Marseille,Evian Thonon Gaillard,1,0,2015-01-31 15:30:00,,Standard
+6133,57,BlockedShot,0.8590000152587891,0.47700000762939454,0.11092200130224228,André-Pierre Gignac,h,4747,OpenPlay,2014,RightFoot,6030,Marseille,Evian Thonon Gaillard,1,0,2015-01-31 15:30:00,Brice Dja Djédjé,Pass
+6138,83,MissedShots,0.88,0.3940000152587891,0.10149800032377243,André-Pierre Gignac,h,4747,OpenPlay,2014,RightFoot,6030,Marseille,Evian Thonon Gaillard,1,0,2015-01-31 15:30:00,Dimitri Payet,Cross
+3688,39,MissedShots,0.845,0.5990000152587891,0.05331230163574219,André-Pierre Gignac,a,4747,SetPiece,2014,RightFoot,5964,Rennes,Marseille,1,1,2015-02-07 15:00:00,,None
+3694,56,BlockedShot,0.774000015258789,0.639000015258789,0.023899899795651436,André-Pierre Gignac,a,4747,OpenPlay,2014,RightFoot,5964,Rennes,Marseille,1,1,2015-02-07 15:00:00,Florian Thauvin,Pass
+3698,77,BlockedShot,0.8080000305175781,0.6020000076293945,0.06674990057945251,André-Pierre Gignac,a,4747,OpenPlay,2014,RightFoot,5964,Rennes,Marseille,1,1,2015-02-07 15:00:00,Florian Thauvin,Pass
+2527,12,MissedShots,0.935,0.544000015258789,0.11730500310659409,André-Pierre Gignac,h,4747,SetPiece,2014,Head,5973,Marseille,Reims,2,2,2015-02-13 19:30:00,Dimitri Payet,Cross
+2534,37,MissedShots,0.92,0.49599998474121093,0.04925930127501488,André-Pierre Gignac,h,4747,FromCorner,2014,Head,5973,Marseille,Reims,2,2,2015-02-13 19:30:00,Dimitri Payet,Aerial
+2535,40,MissedShots,0.8819999694824219,0.5209999847412109,0.06249820068478584,André-Pierre Gignac,h,4747,SetPiece,2014,Head,5973,Marseille,Reims,2,2,2015-02-13 19:30:00,Dimitri Payet,Cross
+2550,74,SavedShot,0.8969999694824219,0.35200000762939454,0.31749698519706726,André-Pierre Gignac,h,4747,OpenPlay,2014,RightFoot,5973,Marseille,Reims,2,2,2015-02-13 19:30:00,Lucas Ocampos,Pass
+4872,59,SavedShot,0.895,0.35700000762939454,0.34453099966049194,André-Pierre Gignac,h,4747,OpenPlay,2014,RightFoot,5991,Marseille,Caen,2,3,2015-02-27 19:30:00,Dimitri Payet,Throughball
+4874,62,Goal,0.98,0.4779999923706055,0.9433680176734924,André-Pierre Gignac,h,4747,OpenPlay,2014,RightFoot,5991,Marseille,Caen,2,3,2015-02-27 19:30:00,,Rebound
+4877,75,BlockedShot,0.8490000152587891,0.6909999847412109,0.04250190034508705,André-Pierre Gignac,h,4747,OpenPlay,2014,RightFoot,5991,Marseille,Caen,2,3,2015-02-27 19:30:00,Romain Alessandrini,TakeOn
+7639,88,Goal,0.8830000305175781,0.700999984741211,0.08626560121774673,André-Pierre Gignac,a,4747,OpenPlay,2014,RightFoot,5930,Toulouse,Marseille,1,6,2015-03-06 19:30:00,,TakeOn
+7899,2,SavedShot,0.8830000305175781,0.3320000076293945,0.056481800973415375,André-Pierre Gignac,h,4747,OpenPlay,2014,LeftFoot,5949,Marseille,Lyon,0,0,2015-03-15 20:00:00,Brice Dja Djédjé,Pass
+7907,28,SavedShot,0.884000015258789,0.45599998474121095,0.04037659987807274,André-Pierre Gignac,h,4747,OpenPlay,2014,Head,5949,Marseille,Lyon,0,0,2015-03-15 20:00:00,Benjamin Mendy,Chipped
+8355,0,BlockedShot,0.774000015258789,0.39799999237060546,0.0402039997279644,André-Pierre Gignac,a,4747,OpenPlay,2014,RightFoot,5959,Lens,Marseille,0,4,2015-03-22 20:00:00,,TakeOn
+8356,1,BlockedShot,0.8219999694824218,0.5709999847412109,0.03951060026884079,André-Pierre Gignac,a,4747,FromCorner,2014,LeftFoot,5959,Lens,Marseille,0,4,2015-03-22 20:00:00,,None
+8357,2,MissedShots,0.874000015258789,0.675,0.044356100261211395,André-Pierre Gignac,a,4747,OpenPlay,2014,RightFoot,5959,Lens,Marseille,0,4,2015-03-22 20:00:00,Dimitri Payet,Chipped
+8367,45,MissedShots,0.7090000152587891,0.5829999923706055,0.0157455001026392,André-Pierre Gignac,a,4747,OpenPlay,2014,RightFoot,5959,Lens,Marseille,0,4,2015-03-22 20:00:00,Dimitri Payet,Pass
+8535,29,Goal,0.9469999694824218,0.59,0.36990800499916077,André-Pierre Gignac,h,4747,OpenPlay,2014,Head,5894,Marseille,Paris Saint Germain,2,3,2015-04-05 20:00:00,Dimitri Payet,Aerial
+8538,42,Goal,0.8480000305175781,0.395,0.06648539751768112,André-Pierre Gignac,h,4747,OpenPlay,2014,RightFoot,5894,Marseille,Paris Saint Germain,2,3,2015-04-05 20:00:00,Jacques-Alaixys Romao,BallRecovery
+8539,45,MissedShots,0.8880000305175781,0.32799999237060545,0.04947949945926666,André-Pierre Gignac,h,4747,OpenPlay,2014,RightFoot,5894,Marseille,Paris Saint Germain,2,3,2015-04-05 20:00:00,Dimitri Payet,Cross
+8027,5,MissedShots,0.895,0.6270000076293946,0.03192229941487312,André-Pierre Gignac,a,4747,SetPiece,2014,Head,5903,Bordeaux,Marseille,1,0,2015-04-12 20:00:00,Dimitri Payet,Chipped
+8040,48,MissedShots,0.9180000305175782,0.5829999923706055,0.32021498680114746,André-Pierre Gignac,a,4747,OpenPlay,2014,LeftFoot,5903,Bordeaux,Marseille,1,0,2015-04-12 20:00:00,Jérémy Morel,Cross
+8042,52,BlockedShot,0.875999984741211,0.5920000076293945,0.017589200288057327,André-Pierre Gignac,a,4747,FromCorner,2014,Head,5903,Bordeaux,Marseille,1,0,2015-04-12 20:00:00,Dimitri Payet,Cross
+6692,45,MissedShots,0.919000015258789,0.4370000076293945,0.2947629988193512,André-Pierre Gignac,h,4747,OpenPlay,2014,Head,5915,Marseille,Lorient,3,5,2015-04-24 19:30:00,Dimitri Payet,Cross
+7206,37,Goal,0.8519999694824218,0.4909999847412109,0.06405089795589447,André-Pierre Gignac,a,4747,FromCorner,2014,RightFoot,5845,Metz,Marseille,0,2,2015-05-01 19:30:00,,None
+7213,61,Goal,0.86,0.5670000076293945,0.3644390106201172,André-Pierre Gignac,a,4747,OpenPlay,2014,RightFoot,5845,Metz,Marseille,0,2,2015-05-01 19:30:00,Dimitri Payet,Throughball
+6320,16,SavedShot,0.8569999694824219,0.32599998474121095,0.05047459900379181,André-Pierre Gignac,h,4747,OpenPlay,2014,RightFoot,5864,Marseille,Monaco,2,1,2015-05-10 20:00:00,Dimitri Payet,Pass
+6756,1,Goal,0.9269999694824219,0.5670000076293945,0.4164780080318451,André-Pierre Gignac,a,4747,OpenPlay,2014,RightFoot,5869,Lille,Marseille,0,4,2015-05-16 20:00:00,,Rebound
+6766,33,MissedShots,0.899000015258789,0.41200000762939454,0.45490801334381104,André-Pierre Gignac,a,4747,OpenPlay,2014,RightFoot,5869,Lille,Marseille,0,4,2015-05-16 20:00:00,Rod Fanni,Pass
+6770,59,MissedShots,0.7130000305175781,0.6609999847412109,0.02034980058670044,André-Pierre Gignac,a,4747,OpenPlay,2014,RightFoot,5869,Lille,Marseille,0,4,2015-05-16 20:00:00,André Ayew,Pass
+7270,4,SavedShot,0.8959999847412109,0.4229999923706055,0.041492801159620285,André-Pierre Gignac,h,4747,OpenPlay,2014,Head,5880,Marseille,SC Bastia,3,0,2015-05-23 20:00:00,Dimitri Payet,Chipped
+7278,25,MissedShots,0.7340000152587891,0.3089999961853027,0.021442800760269165,André-Pierre Gignac,h,4747,OpenPlay,2014,RightFoot,5880,Marseille,SC Bastia,3,0,2015-05-23 20:00:00,Brice Dja Djédjé,Pass
+7279,27,BlockedShot,0.7669999694824219,0.7290000152587891,0.018320400267839432,André-Pierre Gignac,h,4747,OpenPlay,2014,RightFoot,5880,Marseille,SC Bastia,3,0,2015-05-23 20:00:00,Romain Alessandrini,Pass
+7286,58,BlockedShot,0.8590000152587891,0.6959999847412109,0.07531139999628067,André-Pierre Gignac,h,4747,OpenPlay,2014,RightFoot,5880,Marseille,SC Bastia,3,0,2015-05-23 20:00:00,Dimitri Payet,Chipped

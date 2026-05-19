@@ -1,0 +1,13 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+27873,76,MissedShots,0.73,0.28899999618530275,0.01324789971113205,Simon Rolfes,h,4234,OpenPlay,2014,LeftFoot,5328,Bayer Leverkusen,Borussia M.Gladbach,1,1,2014-12-14 14:30:00,Karim Bellarabi,Pass
+28022,62,BlockedShot,0.7609999847412109,0.3729999923706055,0.023798499256372452,Simon Rolfes,h,4234,OpenPlay,2014,LeftFoot,5343,Bayer Leverkusen,Eintracht Frankfurt,1,1,2014-12-20 14:30:00,Stefan Kießling,LayOff
+28978,32,Goal,0.8730000305175781,0.534000015258789,0.08206679672002792,Simon Rolfes,h,4234,OpenPlay,2014,LeftFoot,5300,Bayer Leverkusen,Freiburg,1,0,2015-02-28 14:30:00,,None
+31675,31,MissedShots,0.7709999847412109,0.35700000762939454,0.019033199176192284,Simon Rolfes,a,4234,OpenPlay,2014,RightFoot,5257,Schalke 04,Bayer Leverkusen,0,1,2015-03-21 17:30:00,,None
+32310,78,BlockedShot,0.754000015258789,0.35900001525878905,0.01806659996509552,Simon Rolfes,h,4234,OpenPlay,2014,LeftFoot,5199,Bayer Leverkusen,Hamburger SV,4,0,2015-04-04 14:30:00,,None
+31744,81,BlockedShot,0.9059999847412109,0.62,0.12892000377178192,Simon Rolfes,h,4234,OpenPlay,2014,LeftFoot,5218,Bayer Leverkusen,Hannover 96,4,0,2015-04-18 14:30:00,Gonzalo Castro,Pass
+30154,13,MissedShots,0.6859999847412109,0.5159999847412109,0.009583730250597,Simon Rolfes,a,4234,OpenPlay,2014,LeftFoot,5226,FC Cologne,Bayer Leverkusen,1,1,2015-04-25 14:30:00,Stefan Kießling,HeadPass
+30479,8,BlockedShot,0.8119999694824219,0.624000015258789,0.03518550097942352,Simon Rolfes,h,4234,OpenPlay,2014,LeftFoot,5165,Bayer Leverkusen,Bayern Munich,2,0,2015-05-02 17:30:00,Son Heung-Min,Pass
+30486,34,MissedShots,0.8969999694824219,0.5670000076293945,0.01749279908835888,Simon Rolfes,h,4234,FromCorner,2014,Head,5165,Bayer Leverkusen,Bayern Munich,2,0,2015-05-02 17:30:00,Roberto Hilbert,Aerial
+30492,48,SavedShot,0.9030000305175782,0.5220000076293946,0.02501560002565384,Simon Rolfes,h,4234,FromCorner,2014,Head,5165,Bayer Leverkusen,Bayern Munich,2,0,2015-05-02 17:30:00,Hakan Calhanoglu,Aerial
+30497,65,SavedShot,0.8209999847412109,0.505,0.07516519725322723,Simon Rolfes,h,4234,OpenPlay,2014,LeftFoot,5165,Bayer Leverkusen,Bayern Munich,2,0,2015-05-02 17:30:00,Son Heung-Min,Pass
+30184,31,BlockedShot,0.715,0.5279999923706055,0.01227479986846447,Simon Rolfes,h,4234,OpenPlay,2014,LeftFoot,5178,Bayer Leverkusen,Hoffenheim,2,0,2015-05-16 14:30:00,,None

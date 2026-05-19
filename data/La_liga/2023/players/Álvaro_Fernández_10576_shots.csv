@@ -1,0 +1,17 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+541674,58,MissedShots,0.9390000152587891,0.5570000076293945,0.13304610550403595,Álvaro Fernández,a,10576,SetPiece,2023,Head,22755,Almeria,Granada,3,3,2023-10-01 12:00:00,Gerard Gumbau,Cross
+541689,100,ShotOnPost,0.850999984741211,0.5209999847412109,0.07858708500862122,Álvaro Fernández,a,10576,OpenPlay,2023,LeftFoot,22755,Almeria,Granada,3,3,2023-10-01 12:00:00,,Rebound
+543648,37,SavedShot,0.919000015258789,0.4209999847412109,0.08983713388442993,Álvaro Fernández,a,10576,FromCorner,2023,RightFoot,22783,Osasuna,Granada,2,0,2023-10-20 19:00:00,Ignasi Miquel,None
+543651,54,BlockedShot,0.865,0.445,0.013154812157154083,Álvaro Fernández,a,10576,FromCorner,2023,Head,22783,Osasuna,Granada,2,0,2023-10-20 19:00:00,Gerard Gumbau,Aerial
+546464,49,MissedShots,0.9059999847412109,0.4,0.045632991939783096,Álvaro Fernández,h,10576,FromCorner,2023,Head,22791,Granada,Villarreal,2,3,2023-10-30 20:00:00,Bryan Zaragoza,Cross
+549348,1,MissedShots,0.9580000305175781,0.6869999694824219,0.05226101353764534,Álvaro Fernández,a,10576,OpenPlay,2023,LeftFoot,22819,Alaves,Granada,3,1,2023-11-24 20:00:00,Lucas Boyé,Pass
+555329,69,MissedShots,0.8830000305175781,0.6419999694824219,0.07691999524831772,Álvaro Fernández,h,10576,OpenPlay,2023,RightFoot,22861,Granada,Sevilla,0,3,2023-12-19 20:30:00,Myrto Uzuni,Pass
+638464,6,MissedShots,0.7480000305175781,0.6409999847412109,0.02096983976662159,Álvaro Fernández,h,10576,OpenPlay,2025,LeftFoot,29167,Real Madrid,Osasuna,1,0,2025-08-19 19:00:00,Brahim Diaz,Pass
+638472,42,BlockedShot,0.7930000305175782,0.63,0.028615480288863182,Álvaro Fernández,h,10576,OpenPlay,2025,RightFoot,29167,Real Madrid,Osasuna,1,0,2025-08-19 19:00:00,Dean Huijsen,Pass
+648491,89,MissedShots,0.924000015258789,0.7180000305175781,0.06134004518389702,Álvaro Fernández,a,10576,OpenPlay,2025,LeftFoot,29242,Getafe,Real Madrid,0,1,2025-10-19 19:00:00,Vinícius Júnior,Chipped
+651202,81,Goal,0.879000015258789,0.7630000305175781,0.02214256301522255,Álvaro Fernández,h,10576,OpenPlay,2025,LeftFoot,29263,Real Madrid,Valencia,4,0,2025-11-01 20:00:00,,Rebound
+652899,30,MissedShots,0.889000015258789,0.7380000305175781,0.03457106649875641,Álvaro Fernández,a,10576,OpenPlay,2025,RightFoot,29272,Rayo Vallecano,Real Madrid,0,0,2025-11-09 15:15:00,Vinícius Júnior,Pass
+652920,86,BlockedShot,0.9030000305175782,0.4620000076293945,0.024145258590579033,Álvaro Fernández,a,10576,FromCorner,2025,Head,29272,Rayo Vallecano,Real Madrid,0,0,2025-11-09 15:15:00,Arda Güler,Aerial
+668029,64,Goal,0.9019999694824219,0.54,0.1816456913948059,Álvaro Fernández,a,10576,OpenPlay,2025,RightFoot,29387,Valencia,Real Madrid,0,2,2026-02-08 20:00:00,Dean Huijsen,TakeOn
+669922,32,BlockedShot,0.8009999847412109,0.6070000076293945,0.027739787474274635,Álvaro Fernández,a,10576,SetPiece,2025,LeftFoot,29405,Osasuna,Real Madrid,2,1,2026-02-21 17:30:00,,None
+685155,57,SavedShot,0.9569999694824218,0.6270000076293946,0.35714632272720337,Álvaro Fernández,h,10576,OpenPlay,2025,LeftFoot,29517,Real Madrid,Real Oviedo,2,0,2026-05-14 19:30:00,Brahim Diaz,Pass

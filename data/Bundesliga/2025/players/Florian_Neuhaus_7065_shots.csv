@@ -1,0 +1,302 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+220324,66,MissedShots,0.7390000152587891,0.47200000762939454,0.023806700482964516,Florian Neuhaus,h,7065,OpenPlay,2018,RightFoot,10343,Borussia M.Gladbach,Bayer Leverkusen,2,0,2018-08-25 19:30:00,Raffael,Pass
+221582,81,BlockedShot,0.86,0.52,0.10040099918842316,Florian Neuhaus,a,7065,OpenPlay,2018,RightFoot,10349,Augsburg,Borussia M.Gladbach,1,1,2018-09-01 13:30:00,Alassane Pléa,Pass
+224920,60,MissedShots,0.745,0.6120000076293945,0.023070599883794785,Florian Neuhaus,a,7065,FromCorner,2018,RightFoot,10366,Hertha Berlin,Borussia M.Gladbach,4,2,2018-09-22 13:30:00,Jonas Hofmann,Pass
+226724,1,SavedShot,0.875999984741211,0.23899999618530274,0.02941269986331463,Florian Neuhaus,h,7065,OpenPlay,2018,RightFoot,10380,Borussia M.Gladbach,Eintracht Frankfurt,3,1,2018-09-26 18:30:00,Jonas Hofmann,Pass
+226732,26,BlockedShot,0.735999984741211,0.38,0.012647399678826332,Florian Neuhaus,h,7065,OpenPlay,2018,RightFoot,10380,Borussia M.Gladbach,Eintracht Frankfurt,3,1,2018-09-26 18:30:00,,Rebound
+226735,40,SavedShot,0.7759999847412109,0.6309999847412109,0.023854900151491165,Florian Neuhaus,h,7065,OpenPlay,2018,RightFoot,10380,Borussia M.Gladbach,Eintracht Frankfurt,3,1,2018-09-26 18:30:00,Oscar Wendt,Pass
+255340,69,MissedShots,0.789000015258789,0.36700000762939455,0.08753670006990433,Florian Neuhaus,a,7065,OpenPlay,2018,RightFoot,10391,Bayern Munich,Borussia M.Gladbach,0,3,2018-10-06 16:30:00,Alassane Pléa,Pass
+256095,19,MissedShots,0.7719999694824219,0.48200000762939454,0.03133980184793472,Florian Neuhaus,h,7065,OpenPlay,2018,LeftFoot,10426,Borussia M.Gladbach,Fortuna Duesseldorf,3,0,2018-11-04 14:30:00,Alassane Pléa,Pass
+256096,21,SavedShot,0.825,0.5720000076293945,0.0669516995549202,Florian Neuhaus,h,7065,OpenPlay,2018,LeftFoot,10426,Borussia M.Gladbach,Fortuna Duesseldorf,3,0,2018-11-04 14:30:00,Raffael,Pass
+256107,45,MissedShots,0.915,0.5359999847412109,0.46997499465942383,Florian Neuhaus,h,7065,OpenPlay,2018,RightFoot,10426,Borussia M.Gladbach,Fortuna Duesseldorf,3,0,2018-11-04 14:30:00,Oscar Wendt,Pass
+256115,58,BlockedShot,0.8919999694824219,0.40400001525878904,0.3835560083389282,Florian Neuhaus,h,7065,OpenPlay,2018,RightFoot,10426,Borussia M.Gladbach,Fortuna Duesseldorf,3,0,2018-11-04 14:30:00,Raffael,Pass
+256121,76,BlockedShot,0.865999984741211,0.47,0.12944500148296356,Florian Neuhaus,h,7065,OpenPlay,2018,RightFoot,10426,Borussia M.Gladbach,Fortuna Duesseldorf,3,0,2018-11-04 14:30:00,Thorgan Hazard,Pass
+256238,50,MissedShots,0.785,0.8,0.01503629982471466,Florian Neuhaus,a,7065,OpenPlay,2018,RightFoot,10431,Werder Bremen,Borussia M.Gladbach,1,3,2018-11-10 14:30:00,Oscar Wendt,Pass
+256257,90,MissedShots,0.96,0.3509999847412109,0.42409101128578186,Florian Neuhaus,a,7065,OpenPlay,2018,RightFoot,10431,Werder Bremen,Borussia M.Gladbach,1,3,2018-11-10 14:30:00,,TakeOn
+256647,8,BlockedShot,0.8169999694824219,0.5720000076293945,0.05815019831061363,Florian Neuhaus,h,7065,OpenPlay,2018,RightFoot,10439,Borussia M.Gladbach,Hannover 96,4,1,2018-11-25 17:00:00,Alassane Pléa,Pass
+256652,16,BlockedShot,0.7969999694824219,0.4520000076293945,0.05376889929175377,Florian Neuhaus,h,7065,OpenPlay,2018,RightFoot,10439,Borussia M.Gladbach,Hannover 96,4,1,2018-11-25 17:00:00,Jonas Hofmann,LayOff
+256803,11,SavedShot,0.8209999847412109,0.435,0.05385410040616989,Florian Neuhaus,a,7065,OpenPlay,2018,RightFoot,10447,RasenBallsport Leipzig,Borussia M.Gladbach,2,0,2018-12-02 14:30:00,Thorgan Hazard,Pass
+256814,50,MissedShots,0.9369999694824219,0.7269999694824218,0.045517001301050186,Florian Neuhaus,a,7065,OpenPlay,2018,LeftFoot,10447,RasenBallsport Leipzig,Borussia M.Gladbach,2,0,2018-12-02 14:30:00,Alassane Pléa,Pass
+257223,66,BlockedShot,0.7719999694824219,0.549000015258789,0.029952799901366234,Florian Neuhaus,h,7065,OpenPlay,2018,LeftFoot,10457,Borussia M.Gladbach,VfB Stuttgart,3,0,2018-12-09 17:00:00,Raffael,Pass
+257226,76,Goal,0.8959999847412109,0.5420000076293945,0.4300310015678406,Florian Neuhaus,h,7065,OpenPlay,2018,RightFoot,10457,Borussia M.Gladbach,VfB Stuttgart,3,0,2018-12-09 17:00:00,Thorgan Hazard,Pass
+257228,87,MissedShots,0.7959999847412109,0.5220000076293946,0.06138579919934273,Florian Neuhaus,h,7065,OpenPlay,2018,RightFoot,10457,Borussia M.Gladbach,VfB Stuttgart,3,0,2018-12-09 17:00:00,Raffael,Pass
+257266,58,MissedShots,0.86,0.23,0.02545519918203354,Florian Neuhaus,a,7065,OpenPlay,2018,RightFoot,10463,Hoffenheim,Borussia M.Gladbach,0,0,2018-12-15 14:30:00,Michaël Cuisance,Pass
+257413,57,MissedShots,0.9119999694824219,0.62,0.11551199853420258,Florian Neuhaus,h,7065,OpenPlay,2018,RightFoot,10479,Borussia M.Gladbach,Nuernberg,2,0,2018-12-18 17:30:00,Thorgan Hazard,Pass
+257676,32,SavedShot,0.815,0.3039999961853027,0.024093100801110268,Florian Neuhaus,a,7065,OpenPlay,2018,RightFoot,10483,Borussia Dortmund,Borussia M.Gladbach,2,1,2018-12-21 19:30:00,Patrick Herrmann,Pass
+278568,23,MissedShots,0.8090000152587891,0.55,0.04844510182738304,Florian Neuhaus,h,7065,OpenPlay,2018,RightFoot,10501,Borussia M.Gladbach,Augsburg,2,0,2019-01-26 14:30:00,Tobias Strobl,Pass
+278895,90,Goal,0.8919999694824219,0.5640000152587891,0.43398699164390564,Florian Neuhaus,a,7065,OpenPlay,2018,LeftFoot,10516,Schalke 04,Borussia M.Gladbach,0,2,2019-02-02 17:30:00,,None
+281089,21,MissedShots,0.759000015258789,0.67,0.011877600103616714,Florian Neuhaus,h,7065,SetPiece,2018,LeftFoot,10520,Borussia M.Gladbach,Hertha Berlin,0,3,2019-02-09 14:30:00,,None
+279300,33,SavedShot,0.95,0.33799999237060546,0.06497450172901154,Florian Neuhaus,a,7065,SetPiece,2018,RightFoot,10529,Eintracht Frankfurt,Borussia M.Gladbach,1,1,2019-02-17 14:30:00,Matthias Ginter,HeadPass
+279387,21,MissedShots,0.7709999847412109,0.27,0.01557449996471405,Florian Neuhaus,h,7065,OpenPlay,2018,RightFoot,10538,Borussia M.Gladbach,Wolfsburg,0,3,2019-02-23 14:30:00,Patrick Herrmann,Pass
+279389,25,ShotOnPost,0.850999984741211,0.40299999237060546,0.037205200642347336,Florian Neuhaus,h,7065,OpenPlay,2018,RightFoot,10538,Borussia M.Gladbach,Wolfsburg,0,3,2019-02-23 14:30:00,Thorgan Hazard,Cross
+279390,26,BlockedShot,0.895,0.48200000762939454,0.42790699005126953,Florian Neuhaus,h,7065,OpenPlay,2018,RightFoot,10538,Borussia M.Gladbach,Wolfsburg,0,3,2019-02-23 14:30:00,Lars Stindl,Pass
+279393,56,BlockedShot,0.835999984741211,0.5659999847412109,0.06505680084228516,Florian Neuhaus,h,7065,OpenPlay,2018,LeftFoot,10538,Borussia M.Gladbach,Wolfsburg,0,3,2019-02-23 14:30:00,Jonas Hofmann,Pass
+279715,14,MissedShots,0.899000015258789,0.4470000076293945,0.05994810163974762,Florian Neuhaus,h,7065,OpenPlay,2018,Head,10548,Borussia M.Gladbach,Bayern Munich,1,5,2019-03-02 17:30:00,Oscar Wendt,Cross
+279729,50,BlockedShot,0.7569999694824219,0.43099998474121093,0.025244100019335747,Florian Neuhaus,h,7065,OpenPlay,2018,RightFoot,10548,Borussia M.Gladbach,Bayern Munich,1,5,2019-03-02 17:30:00,Thorgan Hazard,TakeOn
+287479,12,SavedShot,0.8690000152587891,0.35700000762939454,0.05680359899997711,Florian Neuhaus,a,7065,OpenPlay,2018,LeftFoot,10579,Fortuna Duesseldorf,Borussia M.Gladbach,3,1,2019-03-30 14:30:00,Fabian Johnson,TakeOn
+292790,19,MissedShots,0.8690000152587891,0.6229999923706054,0.07715100049972534,Florian Neuhaus,h,7065,OpenPlay,2018,RightFoot,10584,Borussia M.Gladbach,Werder Bremen,1,1,2019-04-07 17:00:00,Alassane Pléa,Pass
+292797,48,Goal,0.9690000152587891,0.3920000076293945,0.6694669723510742,Florian Neuhaus,h,7065,OpenPlay,2018,RightFoot,10584,Borussia M.Gladbach,Werder Bremen,1,1,2019-04-07 17:00:00,Nico Elvedi,TakeOn
+292806,73,MissedShots,0.89,0.425,0.13811999559402466,Florian Neuhaus,h,7065,OpenPlay,2018,RightFoot,10584,Borussia M.Gladbach,Werder Bremen,1,1,2019-04-07 17:00:00,Christoph Kramer,Throughball
+292807,77,MissedShots,0.8690000152587891,0.45,0.3669489920139313,Florian Neuhaus,h,7065,OpenPlay,2018,RightFoot,10584,Borussia M.Gladbach,Werder Bremen,1,1,2019-04-07 17:00:00,Fabian Johnson,Pass
+293466,13,BlockedShot,0.8959999847412109,0.44599998474121094,0.41444599628448486,Florian Neuhaus,a,7065,OpenPlay,2018,RightFoot,10595,Hannover 96,Borussia M.Gladbach,0,1,2019-04-13 14:30:00,,BallRecovery
+293474,23,MissedShots,0.7380000305175781,0.48200000762939454,0.01615310087800026,Florian Neuhaus,a,7065,FromCorner,2018,LeftFoot,10595,Hannover 96,Borussia M.Gladbach,0,1,2019-04-13 14:30:00,,None
+293478,39,MissedShots,0.7390000152587891,0.6569999694824219,0.019281700253486633,Florian Neuhaus,a,7065,OpenPlay,2018,LeftFoot,10595,Hannover 96,Borussia M.Gladbach,0,1,2019-04-13 14:30:00,Alassane Pléa,Pass
+293485,52,BlockedShot,0.7830000305175782,0.29200000762939454,0.02365189976990223,Florian Neuhaus,a,7065,OpenPlay,2018,LeftFoot,10595,Hannover 96,Borussia M.Gladbach,0,1,2019-04-13 14:30:00,Christoph Kramer,Pass
+295506,40,MissedShots,0.8809999847412109,0.27399999618530274,0.034652698785066605,Florian Neuhaus,h,7065,OpenPlay,2018,LeftFoot,10604,Borussia M.Gladbach,RasenBallsport Leipzig,1,2,2019-04-20 17:30:00,,Rebound
+297563,28,SavedShot,0.7530000305175781,0.580999984741211,0.030109399929642677,Florian Neuhaus,a,7065,FromCorner,2018,RightFoot,10610,VfB Stuttgart,Borussia M.Gladbach,1,0,2019-04-27 17:30:00,Patrick Herrmann,Pass
+297568,38,MissedShots,0.805,0.27700000762939453,0.018531600013375282,Florian Neuhaus,a,7065,OpenPlay,2018,RightFoot,10610,VfB Stuttgart,Borussia M.Gladbach,1,0,2019-04-27 17:30:00,,None
+297579,64,BlockedShot,0.785,0.555,0.033267099410295486,Florian Neuhaus,a,7065,OpenPlay,2018,RightFoot,10610,VfB Stuttgart,Borussia M.Gladbach,1,0,2019-04-27 17:30:00,,Rebound
+299226,71,BlockedShot,0.91,0.7019999694824218,0.04706680029630661,Florian Neuhaus,h,7065,OpenPlay,2018,RightFoot,10619,Borussia M.Gladbach,Hoffenheim,2,2,2019-05-04 14:30:00,,Rebound
+300617,2,BlockedShot,0.845999984741211,0.5990000152587891,0.06170009821653366,Florian Neuhaus,a,7065,OpenPlay,2018,RightFoot,10633,Nuernberg,Borussia M.Gladbach,0,4,2019-05-11 14:30:00,Oscar Wendt,Pass
+300622,28,BlockedShot,0.8130000305175781,0.5359999847412109,0.05845269933342934,Florian Neuhaus,a,7065,OpenPlay,2018,RightFoot,10633,Nuernberg,Borussia M.Gladbach,0,4,2019-05-11 14:30:00,Thorgan Hazard,Pass
+300626,43,MissedShots,0.9069999694824219,0.56,0.039995599538087845,Florian Neuhaus,a,7065,OpenPlay,2018,Head,10633,Nuernberg,Borussia M.Gladbach,0,4,2019-05-11 14:30:00,Ibrahima Traoré,Aerial
+310809,40,BlockedShot,0.764000015258789,0.519000015258789,0.020297599956393242,Florian Neuhaus,h,7065,FromCorner,2019,RightFoot,12409,Borussia M.Gladbach,Schalke 04,0,0,2019-08-17 17:30:00,,None
+312426,60,MissedShots,0.87,0.4570000076293945,0.07290630042552948,Florian Neuhaus,a,7065,OpenPlay,2019,LeftFoot,12416,Mainz 05,Borussia M.Gladbach,1,3,2019-08-24 14:30:00,Stefan Lainer,Cross
+317153,4,MissedShots,0.7919999694824219,0.9419999694824219,0.02522590011358261,Florian Neuhaus,a,7065,DirectFreekick,2019,RightFoot,12433,FC Cologne,Borussia M.Gladbach,0,1,2019-09-14 13:30:00,,Standard
+317164,38,BlockedShot,0.9,0.610999984741211,0.07478220015764236,Florian Neuhaus,a,7065,OpenPlay,2019,RightFoot,12433,FC Cologne,Borussia M.Gladbach,0,1,2019-09-14 13:30:00,Stefan Lainer,Cross
+317176,80,SavedShot,0.71,0.5979999923706054,0.018186600878834724,Florian Neuhaus,a,7065,OpenPlay,2019,RightFoot,12433,FC Cologne,Borussia M.Gladbach,0,1,2019-09-14 13:30:00,László Bénes,Pass
+321123,18,BlockedShot,0.82,0.5129999923706055,0.021586500108242035,Florian Neuhaus,h,7065,FromCorner,2019,LeftFoot,12445,Borussia M.Gladbach,Fortuna Duesseldorf,2,1,2019-09-22 13:30:00,,Aerial
+322441,27,MissedShots,0.955999984741211,0.39799999237060546,0.11771800369024277,Florian Neuhaus,a,7065,OpenPlay,2019,RightFoot,12453,Hoffenheim,Borussia M.Gladbach,0,3,2019-09-28 13:30:00,,Rebound
+322440,27,BlockedShot,0.875,0.4279999923706055,0.01676129922270775,Florian Neuhaus,a,7065,OpenPlay,2019,Head,12453,Hoffenheim,Borussia M.Gladbach,0,3,2019-09-28 13:30:00,Stefan Lainer,Aerial
+322454,72,SavedShot,0.9119999694824219,0.5820000076293945,0.518248975276947,Florian Neuhaus,a,7065,OpenPlay,2019,LeftFoot,12453,Hoffenheim,Borussia M.Gladbach,0,3,2019-09-28 13:30:00,Alassane Pléa,Throughball
+322458,82,Goal,0.865999984741211,0.67,0.37965500354766846,Florian Neuhaus,a,7065,OpenPlay,2019,LeftFoot,12453,Hoffenheim,Borussia M.Gladbach,0,3,2019-09-28 13:30:00,Alassane Pléa,Throughball
+325858,88,SavedShot,0.98,0.515,0.8465279936790466,Florian Neuhaus,a,7065,OpenPlay,2019,RightFoot,12469,Borussia Dortmund,Borussia M.Gladbach,1,0,2019-10-19 17:30:00,,None
+329114,55,SavedShot,0.9159999847412109,0.5129999923706055,0.38780900835990906,Florian Neuhaus,a,7065,OpenPlay,2019,LeftFoot,12486,Bayer Leverkusen,Borussia M.Gladbach,1,2,2019-11-02 14:30:00,Jonas Hofmann,Cross
+329116,56,SavedShot,0.8330000305175781,0.41900001525878905,0.07921619713306427,Florian Neuhaus,a,7065,OpenPlay,2019,LeftFoot,12486,Bayer Leverkusen,Borussia M.Gladbach,1,2,2019-11-02 14:30:00,Stefan Lainer,Pass
+334367,48,SavedShot,0.899000015258789,0.5270000076293946,0.11669100075960159,Florian Neuhaus,h,7065,SetPiece,2019,RightFoot,12511,Borussia M.Gladbach,Freiburg,4,2,2019-12-01 14:30:00,,Rebound
+334383,86,MissedShots,0.8730000305175781,0.3039999961853027,0.18910400569438934,Florian Neuhaus,h,7065,OpenPlay,2019,RightFoot,12511,Borussia M.Gladbach,Freiburg,4,2,2019-12-01 14:30:00,Alassane Pléa,Pass
+338129,55,BlockedShot,0.87,0.5879999923706055,0.07359889894723892,Florian Neuhaus,h,7065,OpenPlay,2019,RightFoot,12540,Borussia M.Gladbach,Paderborn,2,0,2019-12-18 19:30:00,Lars Stindl,Cross
+338802,65,BlockedShot,0.8469999694824218,0.4540000152587891,0.08549659699201584,Florian Neuhaus,a,7065,OpenPlay,2019,LeftFoot,12551,Hertha Berlin,Borussia M.Gladbach,0,0,2019-12-21 17:30:00,Tony Jantschke,Pass
+338804,73,MissedShots,0.740999984741211,0.4,0.015455299988389015,Florian Neuhaus,a,7065,FromCorner,2019,RightFoot,12551,Hertha Berlin,Borussia M.Gladbach,0,0,2019-12-21 17:30:00,,None
+354709,83,BlockedShot,0.7559999847412109,0.5420000076293945,0.023032300174236298,Florian Neuhaus,a,7065,OpenPlay,2019,LeftFoot,12561,Schalke 04,Borussia M.Gladbach,2,0,2020-01-17 19:30:00,Marcus Thuram,Pass
+355680,87,Goal,0.6419999694824219,0.43900001525878907,0.009242589585483074,Florian Neuhaus,h,7065,OpenPlay,2019,RightFoot,12568,Borussia M.Gladbach,Mainz 05,3,1,2020-01-25 14:30:00,,None
+359081,18,MissedShots,0.740999984741211,0.3820000076293945,0.011584600433707237,Florian Neuhaus,a,7065,SetPiece,2019,RightFoot,12595,Fortuna Duesseldorf,Borussia M.Gladbach,1,4,2020-02-15 17:30:00,,None
+359083,28,MissedShots,0.779000015258789,0.4229999923706055,0.022272299975156784,Florian Neuhaus,a,7065,FromCorner,2019,RightFoot,12595,Fortuna Duesseldorf,Borussia M.Gladbach,1,4,2020-02-15 17:30:00,,None
+359087,40,BlockedShot,0.8109999847412109,0.5029999923706054,0.038437098264694214,Florian Neuhaus,a,7065,FromCorner,2019,LeftFoot,12595,Fortuna Duesseldorf,Borussia M.Gladbach,1,4,2020-02-15 17:30:00,,None
+359091,55,SavedShot,0.8580000305175781,0.5220000076293946,0.08942440152168274,Florian Neuhaus,a,7065,OpenPlay,2019,RightFoot,12595,Fortuna Duesseldorf,Borussia M.Gladbach,1,4,2020-02-15 17:30:00,Lars Stindl,TakeOn
+359100,81,Goal,0.9019999694824219,0.6309999847412109,0.10381600260734558,Florian Neuhaus,a,7065,OpenPlay,2019,LeftFoot,12595,Fortuna Duesseldorf,Borussia M.Gladbach,1,4,2020-02-15 17:30:00,Breel Embolo,Pass
+359793,53,SavedShot,0.8590000152587891,0.47200000762939454,0.11098799854516983,Florian Neuhaus,h,7065,OpenPlay,2019,RightFoot,12603,Borussia M.Gladbach,Hoffenheim,1,1,2020-02-22 14:30:00,Stefan Lainer,Pass
+359805,80,MissedShots,0.7280000305175781,0.5479999923706055,0.012855799868702888,Florian Neuhaus,h,7065,FromCorner,2019,RightFoot,12603,Borussia M.Gladbach,Hoffenheim,1,1,2020-02-22 14:30:00,,Aerial
+360801,41,SavedShot,0.865,0.544000015258789,0.10713300108909607,Florian Neuhaus,a,7065,OpenPlay,2019,LeftFoot,12616,Augsburg,Borussia M.Gladbach,2,3,2020-02-29 14:30:00,Marcus Thuram,Pass
+360803,42,MissedShots,0.8630000305175781,0.6840000152587891,0.045997198671102524,Florian Neuhaus,a,7065,OpenPlay,2019,RightFoot,12616,Augsburg,Borussia M.Gladbach,2,3,2020-02-29 14:30:00,,None
+360817,83,MissedShots,0.7169999694824218,0.509000015258789,0.020364299416542053,Florian Neuhaus,a,7065,OpenPlay,2019,RightFoot,12616,Augsburg,Borussia M.Gladbach,2,3,2020-02-29 14:30:00,,BallTouch
+361822,1,BlockedShot,0.735999984741211,0.5129999923706055,0.018972299993038177,Florian Neuhaus,h,7065,OpenPlay,2019,LeftFoot,12621,Borussia M.Gladbach,Borussia Dortmund,1,2,2020-03-07 17:30:00,,BallRecovery
+361834,56,BlockedShot,0.8030000305175782,0.500999984741211,0.04634860157966614,Florian Neuhaus,h,7065,OpenPlay,2019,RightFoot,12621,Borussia M.Gladbach,Borussia Dortmund,1,2,2020-03-07 17:30:00,Alassane Pléa,None
+363027,49,MissedShots,0.7090000152587891,0.415,0.02082890085875988,Florian Neuhaus,a,7065,OpenPlay,2019,RightFoot,12630,Eintracht Frankfurt,Borussia M.Gladbach,1,3,2020-05-16 16:30:00,Breel Embolo,Pass
+363172,40,SavedShot,0.774000015258789,0.595999984741211,0.020265700295567513,Florian Neuhaus,h,7065,FromCorner,2019,RightFoot,12639,Borussia M.Gladbach,Bayer Leverkusen,1,3,2020-05-23 13:30:00,,None
+363183,63,SavedShot,0.9159999847412109,0.5,0.47670701146125793,Florian Neuhaus,h,7065,OpenPlay,2019,RightFoot,12639,Borussia M.Gladbach,Bayer Leverkusen,1,3,2020-05-23 13:30:00,Marcus Thuram,Pass
+363367,3,SavedShot,0.825,0.525,0.068926602602005,Florian Neuhaus,a,7065,OpenPlay,2019,RightFoot,12647,Werder Bremen,Borussia M.Gladbach,0,0,2020-05-26 18:30:00,Oscar Wendt,Pass
+363368,8,SavedShot,0.9740000152587891,0.605999984741211,0.07452750205993652,Florian Neuhaus,a,7065,OpenPlay,2019,RightFoot,12647,Werder Bremen,Borussia M.Gladbach,0,0,2020-05-26 18:30:00,Marcus Thuram,Cross
+363372,27,MissedShots,0.7440000152587891,0.580999984741211,0.01906760036945343,Florian Neuhaus,a,7065,OpenPlay,2019,LeftFoot,12647,Werder Bremen,Borussia M.Gladbach,0,0,2020-05-26 18:30:00,Lars Stindl,Pass
+363373,37,SavedShot,0.77,0.5790000152587891,0.028159499168395996,Florian Neuhaus,a,7065,OpenPlay,2019,RightFoot,12647,Werder Bremen,Borussia M.Gladbach,0,0,2020-05-26 18:30:00,Christoph Kramer,Pass
+363379,65,MissedShots,0.855999984741211,0.8330000305175781,0.05033370107412338,Florian Neuhaus,a,7065,DirectFreekick,2019,RightFoot,12647,Werder Bremen,Borussia M.Gladbach,0,0,2020-05-26 18:30:00,,Standard
+363382,77,MissedShots,0.7919999694824219,0.5570000076293945,0.04075409844517708,Florian Neuhaus,a,7065,OpenPlay,2019,RightFoot,12647,Werder Bremen,Borussia M.Gladbach,0,0,2020-05-26 18:30:00,Stefan Lainer,Pass
+363708,12,SavedShot,0.455,0.705,0.006433890201151371,Florian Neuhaus,h,7065,OpenPlay,2019,RightFoot,12656,Borussia M.Gladbach,Union Berlin,4,1,2020-05-31 13:30:00,Lars Stindl,Pass
+363712,16,Goal,0.88,0.54,0.1291940063238144,Florian Neuhaus,h,7065,OpenPlay,2019,LeftFoot,12656,Borussia M.Gladbach,Union Berlin,4,1,2020-05-31 13:30:00,Patrick Herrmann,TakeOn
+363807,1,BlockedShot,0.7680000305175781,0.5279999923706055,0.02478020079433918,Florian Neuhaus,a,7065,OpenPlay,2019,RightFoot,12670,Freiburg,Borussia M.Gladbach,1,0,2020-06-05 18:30:00,Alassane Pléa,Pass
+363811,10,SavedShot,0.715999984741211,0.620999984741211,0.013540700078010559,Florian Neuhaus,a,7065,OpenPlay,2019,RightFoot,12670,Freiburg,Borussia M.Gladbach,1,0,2020-06-05 18:30:00,,BallRecovery
+363815,25,MissedShots,0.93,0.54,0.5606510043144226,Florian Neuhaus,a,7065,OpenPlay,2019,RightFoot,12670,Freiburg,Borussia M.Gladbach,1,0,2020-06-05 18:30:00,Marcus Thuram,Pass
+363820,36,MissedShots,0.9540000152587891,0.46900001525878904,0.6021649837493896,Florian Neuhaus,a,7065,OpenPlay,2019,RightFoot,12670,Freiburg,Borussia M.Gladbach,1,0,2020-06-05 18:30:00,Lars Stindl,HeadPass
+363837,86,BlockedShot,0.9490000152587891,0.56,0.11943800002336502,Florian Neuhaus,a,7065,FromCorner,2019,Head,12670,Freiburg,Borussia M.Gladbach,1,0,2020-06-05 18:30:00,László Bénes,Cross
+364318,87,MissedShots,0.8059999847412109,0.5620000076293945,0.05436389893293381,Florian Neuhaus,a,7065,OpenPlay,2019,RightFoot,12673,Bayern Munich,Borussia M.Gladbach,2,1,2020-06-13 16:30:00,Lars Stindl,LayOff
+365427,28,MissedShots,0.769000015258789,0.6509999847412109,0.028136199340224266,Florian Neuhaus,a,7065,OpenPlay,2019,RightFoot,12699,Paderborn,Borussia M.Gladbach,1,3,2020-06-20 13:30:00,Christoph Kramer,Pass
+365431,38,SavedShot,0.794000015258789,0.6480000305175782,0.03352310135960579,Florian Neuhaus,a,7065,OpenPlay,2019,LeftFoot,12699,Paderborn,Borussia M.Gladbach,1,3,2020-06-20 13:30:00,Jonas Hofmann,Pass
+365434,47,MissedShots,0.9069999694824219,0.509000015258789,0.1322290003299713,Florian Neuhaus,a,7065,OpenPlay,2019,Head,12699,Paderborn,Borussia M.Gladbach,1,3,2020-06-20 13:30:00,Patrick Herrmann,Cross
+365437,49,MissedShots,0.7559999847412109,0.6079999923706054,0.029078200459480286,Florian Neuhaus,a,7065,OpenPlay,2019,LeftFoot,12699,Paderborn,Borussia M.Gladbach,1,3,2020-06-20 13:30:00,,None
+365443,67,BlockedShot,0.8630000305175781,0.48200000762939454,0.09936069697141647,Florian Neuhaus,a,7065,OpenPlay,2019,RightFoot,12699,Paderborn,Borussia M.Gladbach,1,3,2020-06-20 13:30:00,,None
+366873,30,SavedShot,0.7680000305175781,0.5270000076293946,0.034069400280714035,Florian Neuhaus,h,7065,OpenPlay,2019,RightFoot,12702,Borussia M.Gladbach,Hertha Berlin,2,1,2020-06-27 13:30:00,Jonas Hofmann,Pass
+366876,37,MissedShots,0.759000015258789,0.6020000076293945,0.030650999397039413,Florian Neuhaus,h,7065,OpenPlay,2019,RightFoot,12702,Borussia M.Gladbach,Hertha Berlin,2,1,2020-06-27 13:30:00,,None
+366885,56,SavedShot,0.7780000305175782,0.415,0.04344030097126961,Florian Neuhaus,h,7065,OpenPlay,2019,LeftFoot,12702,Borussia M.Gladbach,Hertha Berlin,2,1,2020-06-27 13:30:00,Stefan Lainer,HeadPass
+377685,85,BlockedShot,0.735999984741211,0.4420000076293945,0.016100799664855003,Florian Neuhaus,a,7065,OpenPlay,2020,RightFoot,14179,Borussia Dortmund,Borussia M.Gladbach,3,0,2020-09-19 16:30:00,Ramy Bensebaini,Pass
+378751,38,MissedShots,0.525,0.25,0.006548060104250908,Florian Neuhaus,h,7065,OpenPlay,2020,RightFoot,14186,Borussia M.Gladbach,Union Berlin,1,1,2020-09-26 13:30:00,,None
+380561,39,BlockedShot,0.740999984741211,0.45,0.0236200001090765,Florian Neuhaus,a,7065,OpenPlay,2020,RightFoot,15159,FC Cologne,Borussia M.Gladbach,1,3,2020-10-03 13:30:00,,BallRecovery
+380568,79,SavedShot,0.8780000305175781,0.6509999847412109,0.2397730052471161,Florian Neuhaus,a,7065,OpenPlay,2020,LeftFoot,15159,FC Cologne,Borussia M.Gladbach,1,3,2020-10-03 13:30:00,Alassane Pléa,Pass
+382121,17,BlockedShot,0.8180000305175781,0.34,0.0329027995467186,Florian Neuhaus,h,7065,FromCorner,2020,LeftFoot,15173,Borussia M.Gladbach,Wolfsburg,1,1,2020-10-17 18:30:00,Jonas Hofmann,Pass
+382124,20,ShotOnPost,0.9259999847412109,0.47400001525878904,0.4775159955024719,Florian Neuhaus,h,7065,OpenPlay,2020,Head,15173,Borussia M.Gladbach,Wolfsburg,1,1,2020-10-17 18:30:00,Stefan Lainer,Aerial
+382143,79,MissedShots,0.46099998474121096,0.5220000076293946,0.017280099913477898,Florian Neuhaus,h,7065,DirectFreekick,2020,RightFoot,15173,Borussia M.Gladbach,Wolfsburg,1,1,2020-10-17 18:30:00,,Standard
+387237,4,Goal,0.8419999694824218,0.4129999923706055,0.055691201239824295,Florian Neuhaus,h,7065,OpenPlay,2020,RightFoot,15204,Borussia M.Gladbach,Augsburg,1,1,2020-11-21 14:30:00,,Rebound
+387246,49,MissedShots,0.759000015258789,0.6569999694824219,0.026079999282956123,Florian Neuhaus,h,7065,OpenPlay,2020,LeftFoot,15204,Borussia M.Gladbach,Augsburg,1,1,2020-11-21 14:30:00,Patrick Herrmann,Pass
+388897,14,Goal,0.8580000305175781,0.46099998474121096,0.07732970267534256,Florian Neuhaus,h,7065,OpenPlay,2020,RightFoot,15214,Borussia M.Gladbach,Schalke 04,4,1,2020-11-28 17:30:00,,Rebound
+388916,65,SavedShot,0.7340000152587891,0.4520000076293945,0.017508599907159805,Florian Neuhaus,h,7065,OpenPlay,2020,RightFoot,15214,Borussia M.Gladbach,Schalke 04,4,1,2020-11-28 17:30:00,,None
+390126,85,SavedShot,0.7440000152587891,0.5070000076293946,0.02339090034365654,Florian Neuhaus,a,7065,OpenPlay,2020,LeftFoot,15223,Freiburg,Borussia M.Gladbach,2,2,2020-12-05 14:30:00,Patrick Herrmann,HeadPass
+391542,27,MissedShots,0.9419999694824219,0.335,0.012380899861454964,Florian Neuhaus,h,7065,FromCorner,2020,Head,15232,Borussia M.Gladbach,Hertha Berlin,1,1,2020-12-12 14:30:00,Patrick Herrmann,Cross
+391559,79,BlockedShot,0.850999984741211,0.615,0.07202140241861343,Florian Neuhaus,h,7065,OpenPlay,2020,LeftFoot,15232,Borussia M.Gladbach,Hertha Berlin,1,1,2020-12-12 14:30:00,Breel Embolo,Pass
+393878,19,MissedShots,0.81,0.48400001525878905,0.05019199848175049,Florian Neuhaus,h,7065,OpenPlay,2020,RightFoot,15249,Borussia M.Gladbach,Hoffenheim,1,2,2020-12-19 14:30:00,,None
+393881,28,BlockedShot,0.7480000305175781,0.53,0.023068999871611595,Florian Neuhaus,h,7065,OpenPlay,2020,RightFoot,15249,Borussia M.Gladbach,Hoffenheim,1,2,2020-12-19 14:30:00,Lars Stindl,LayOff
+396356,10,MissedShots,0.7630000305175781,0.735,0.011665900237858295,Florian Neuhaus,a,7065,OpenPlay,2020,LeftFoot,15264,Arminia Bielefeld,Borussia M.Gladbach,0,1,2021-01-02 14:30:00,,None
+396360,21,SavedShot,0.695,0.534000015258789,0.01263010036200285,Florian Neuhaus,a,7065,OpenPlay,2020,RightFoot,15264,Arminia Bielefeld,Borussia M.Gladbach,0,1,2021-01-02 14:30:00,,BallRecovery
+396374,65,BlockedShot,0.745,0.49400001525878906,0.013951200060546398,Florian Neuhaus,a,7065,SetPiece,2020,LeftFoot,15264,Arminia Bielefeld,Borussia M.Gladbach,0,1,2021-01-02 14:30:00,,None
+397681,48,Goal,0.8190000152587891,0.5220000076293946,0.06575509905815125,Florian Neuhaus,h,7065,OpenPlay,2020,RightFoot,15267,Borussia M.Gladbach,Bayern Munich,3,2,2021-01-08 19:30:00,Jonas Hofmann,Pass
+399074,17,SavedShot,0.8069999694824219,0.5,0.05261639878153801,Florian Neuhaus,a,7065,OpenPlay,2020,RightFoot,15283,VfB Stuttgart,Borussia M.Gladbach,2,2,2021-01-16 17:30:00,Breel Embolo,Pass
+399091,79,SavedShot,0.8669999694824219,0.62,0.11510399729013443,Florian Neuhaus,a,7065,OpenPlay,2020,LeftFoot,15283,VfB Stuttgart,Borussia M.Gladbach,2,2,2021-01-16 17:30:00,,TakeOn
+399670,28,MissedShots,0.7319999694824219,0.38299999237060545,0.012613699771463871,Florian Neuhaus,h,7065,FromCorner,2020,RightFoot,15285,Borussia M.Gladbach,Werder Bremen,1,0,2021-01-19 17:30:00,,Aerial
+399676,45,SavedShot,0.715,0.585,0.009631169959902763,Florian Neuhaus,h,7065,OpenPlay,2020,LeftFoot,15285,Borussia M.Gladbach,Werder Bremen,1,0,2021-01-19 17:30:00,,Aerial
+400236,43,MissedShots,0.8159999847412109,0.475,0.053213100880384445,Florian Neuhaus,h,7065,OpenPlay,2020,RightFoot,15293,Borussia M.Gladbach,Borussia Dortmund,4,2,2021-01-22 19:30:00,,None
+403341,15,Goal,0.7859999847412109,0.5709999847412109,0.03680099919438362,Florian Neuhaus,h,7065,OpenPlay,2020,RightFoot,15311,Borussia M.Gladbach,FC Cologne,1,2,2021-02-06 17:30:00,Lars Stindl,Pass
+403346,53,MissedShots,0.754000015258789,0.4259999847412109,0.01756110042333603,Florian Neuhaus,h,7065,FromCorner,2020,RightFoot,15311,Borussia M.Gladbach,FC Cologne,1,2,2021-02-06 17:30:00,,None
+403354,83,BlockedShot,0.825999984741211,0.6519999694824219,0.028798500075936317,Florian Neuhaus,h,7065,FromCorner,2020,RightFoot,15311,Borussia M.Gladbach,FC Cologne,1,2,2021-02-06 17:30:00,,None
+408476,13,MissedShots,0.7280000305175781,0.6919999694824219,0.010469100438058376,Florian Neuhaus,h,7065,OpenPlay,2020,RightFoot,15352,Borussia M.Gladbach,Bayer Leverkusen,0,1,2021-03-06 14:30:00,,None
+408494,89,SavedShot,0.750999984741211,0.6459999847412109,0.05557680130004883,Florian Neuhaus,h,7065,DirectFreekick,2020,RightFoot,15352,Borussia M.Gladbach,Bayer Leverkusen,0,1,2021-03-06 14:30:00,,Standard
+409596,4,SavedShot,0.8719999694824219,0.3729999923706055,0.06703189760446548,Florian Neuhaus,a,7065,OpenPlay,2020,RightFoot,15362,Augsburg,Borussia M.Gladbach,3,1,2021-03-12 19:30:00,Marcus Thuram,HeadPass
+409618,67,Goal,0.85,0.54,0.081734798848629,Florian Neuhaus,a,7065,OpenPlay,2020,RightFoot,15362,Augsburg,Borussia M.Gladbach,3,1,2021-03-12 19:30:00,Oscar Wendt,Pass
+409621,71,SavedShot,0.8730000305175781,0.3529999923706055,0.05005659908056259,Florian Neuhaus,a,7065,FromCorner,2020,RightFoot,15362,Augsburg,Borussia M.Gladbach,3,1,2021-03-12 19:30:00,Matthias Ginter,Pass
+409628,83,MissedShots,0.8109999847412109,0.509000015258789,0.05382879823446274,Florian Neuhaus,a,7065,OpenPlay,2020,RightFoot,15362,Augsburg,Borussia M.Gladbach,3,1,2021-03-12 19:30:00,Alassane Pléa,Pass
+409630,89,MissedShots,0.885,0.5590000152587891,0.0380977988243103,Florian Neuhaus,a,7065,OpenPlay,2020,Head,15362,Augsburg,Borussia M.Gladbach,3,1,2021-03-12 19:30:00,Breel Embolo,Cross
+411497,14,BlockedShot,0.8959999847412109,0.6120000076293945,0.07656919956207275,Florian Neuhaus,a,7065,OpenPlay,2020,RightFoot,15370,Schalke 04,Borussia M.Gladbach,0,3,2021-03-20 17:30:00,,None
+411506,36,MissedShots,0.904000015258789,0.635,0.08943410217761993,Florian Neuhaus,a,7065,OpenPlay,2020,LeftFoot,15370,Schalke 04,Borussia M.Gladbach,0,3,2021-03-20 17:30:00,,None
+411515,70,SavedShot,0.7130000305175781,0.43,0.02237810008227825,Florian Neuhaus,a,7065,OpenPlay,2020,RightFoot,15370,Schalke 04,Borussia M.Gladbach,0,3,2021-03-20 17:30:00,Stefan Lainer,TakeOn
+412785,43,MissedShots,0.8380000305175781,0.5529999923706055,0.05756799876689911,Florian Neuhaus,h,7065,OpenPlay,2020,LeftFoot,15376,Borussia M.Gladbach,Freiburg,2,1,2021-04-03 18:30:00,,Rebound
+412793,61,MissedShots,0.7319999694824219,0.47400001525878904,0.02309590019285679,Florian Neuhaus,h,7065,OpenPlay,2020,RightFoot,15376,Borussia M.Gladbach,Freiburg,2,1,2021-04-03 18:30:00,Marcus Thuram,Pass
+412795,75,MissedShots,0.4829999923706055,0.52,0.008022069931030273,Florian Neuhaus,h,7065,OpenPlay,2020,RightFoot,15376,Borussia M.Gladbach,Freiburg,2,1,2021-04-03 18:30:00,,Aerial
+413829,84,MissedShots,0.7659999847412109,0.4279999923706055,0.020754100754857063,Florian Neuhaus,a,7065,OpenPlay,2020,LeftFoot,15386,Hertha Berlin,Borussia M.Gladbach,2,2,2021-04-10 13:30:00,Valentino Lazaro,TakeOn
+415346,53,MissedShots,0.885,0.5629999923706055,0.39086800813674927,Florian Neuhaus,h,7065,OpenPlay,2020,RightFoot,15394,Borussia M.Gladbach,Eintracht Frankfurt,4,0,2021-04-17 13:30:00,Jonas Hofmann,Pass
+415362,88,MissedShots,0.8140000152587891,0.509000015258789,0.07732319831848145,Florian Neuhaus,h,7065,OpenPlay,2020,RightFoot,15394,Borussia M.Gladbach,Eintracht Frankfurt,4,0,2021-04-17 13:30:00,Patrick Herrmann,Pass
+417953,46,BlockedShot,0.8140000152587891,0.5359999847412109,0.07768239825963974,Florian Neuhaus,h,7065,OpenPlay,2020,RightFoot,15411,Borussia M.Gladbach,Arminia Bielefeld,5,0,2021-04-25 16:00:00,Valentino Lazaro,Pass
+423462,49,MissedShots,0.7290000152587891,0.44799999237060545,0.02313629910349846,Florian Neuhaus,a,7065,OpenPlay,2020,RightFoot,15444,Werder Bremen,Borussia M.Gladbach,2,4,2021-05-22 13:30:00,Denis Zakaria,BallTouch
+423464,52,BlockedShot,0.82,0.49400001525878906,0.10976400226354599,Florian Neuhaus,a,7065,OpenPlay,2020,LeftFoot,15444,Werder Bremen,Borussia M.Gladbach,2,4,2021-05-22 13:30:00,,TakeOn
+423468,66,Goal,0.8469999694824218,0.5359999847412109,0.09089040011167526,Florian Neuhaus,a,7065,OpenPlay,2020,LeftFoot,15444,Werder Bremen,Borussia M.Gladbach,2,4,2021-05-22 13:30:00,Lars Stindl,BallTouch
+425548,54,SavedShot,0.9259999847412109,0.28700000762939454,0.0321291983127594,Florian Neuhaus,h,7065,FromCorner,2021,RightFoot,17516,Borussia M.Gladbach,Bayern Munich,1,1,2021-08-13 18:30:00,Patrick Herrmann,Cross
+427192,43,SavedShot,0.8640000152587891,0.37,0.04933499917387962,Florian Neuhaus,a,7065,FromCorner,2021,RightFoot,17531,Bayer Leverkusen,Borussia M.Gladbach,4,0,2021-08-21 16:30:00,,None
+427194,49,MissedShots,0.955999984741211,0.4159999847412109,0.27052199840545654,Florian Neuhaus,a,7065,FromCorner,2021,Head,17531,Bayer Leverkusen,Borussia M.Gladbach,4,0,2021-08-21 16:30:00,Ramy Bensebaini,Cross
+427193,49,BlockedShot,0.8230000305175781,0.49900001525878906,0.04339899867773056,Florian Neuhaus,a,7065,OpenPlay,2021,RightFoot,17531,Bayer Leverkusen,Borussia M.Gladbach,4,0,2021-08-21 16:30:00,Jonas Hofmann,Dispossessed
+429222,11,MissedShots,0.7969999694824219,0.5720000076293945,0.0320109985768795,Florian Neuhaus,a,7065,FromCorner,2021,RightFoot,17541,Union Berlin,Borussia M.Gladbach,2,1,2021-08-29 13:30:00,Jonas Hofmann,Cross
+429230,43,MissedShots,0.8590000152587891,0.42700000762939455,0.28760799765586853,Florian Neuhaus,a,7065,OpenPlay,2021,RightFoot,17541,Union Berlin,Borussia M.Gladbach,2,1,2021-08-29 13:30:00,,Rebound
+429241,71,MissedShots,0.740999984741211,0.629000015258789,0.01212919969111681,Florian Neuhaus,a,7065,OpenPlay,2021,RightFoot,17541,Union Berlin,Borussia M.Gladbach,2,1,2021-08-29 13:30:00,Ramy Bensebaini,Chipped
+430714,61,BlockedShot,0.7680000305175781,0.4540000152587891,0.028588099405169487,Florian Neuhaus,h,7065,OpenPlay,2021,RightFoot,17551,Borussia M.Gladbach,Arminia Bielefeld,3,1,2021-09-12 17:30:00,Alassane Pléa,Pass
+437941,69,BlockedShot,0.695,0.62,0.01410439983010292,Florian Neuhaus,a,7065,OpenPlay,2021,RightFoot,17591,Hertha Berlin,Borussia M.Gladbach,1,0,2021-10-23 16:30:00,Kouadio Kone,Pass
+440456,78,SavedShot,0.8430000305175781,0.4779999923706055,0.1137399971485138,Florian Neuhaus,h,7065,OpenPlay,2021,LeftFoot,17601,Borussia M.Gladbach,Bochum,2,1,2021-10-31 16:30:00,Alassane Pléa,Pass
+440678,37,Goal,0.9390000152587891,0.5020000076293946,0.6099129915237427,Florian Neuhaus,a,7065,OpenPlay,2021,RightFoot,17610,Mainz 05,Borussia M.Gladbach,1,1,2021-11-05 19:30:00,,Rebound
+440680,43,MissedShots,0.895,0.245,0.0426241010427475,Florian Neuhaus,a,7065,OpenPlay,2021,RightFoot,17610,Mainz 05,Borussia M.Gladbach,1,1,2021-11-05 19:30:00,Alassane Pléa,Chipped
+440697,80,MissedShots,0.7869999694824219,0.4229999923706055,0.03578399866819382,Florian Neuhaus,a,7065,OpenPlay,2021,RightFoot,17610,Mainz 05,Borussia M.Gladbach,1,1,2021-11-05 19:30:00,Patrick Herrmann,Pass
+442436,27,Goal,0.7069999694824218,0.345,0.013000800274312496,Florian Neuhaus,h,7065,OpenPlay,2021,RightFoot,17620,Borussia M.Gladbach,Greuther Fuerth,4,0,2021-11-20 14:30:00,,None
+442441,42,MissedShots,0.764000015258789,0.35200000762939454,0.016571199521422386,Florian Neuhaus,h,7065,FromCorner,2021,RightFoot,17620,Borussia M.Gladbach,Greuther Fuerth,4,0,2021-11-20 14:30:00,,None
+442444,53,SavedShot,0.74,0.5790000152587891,0.028836999088525772,Florian Neuhaus,h,7065,OpenPlay,2021,RightFoot,17620,Borussia M.Gladbach,Greuther Fuerth,4,0,2021-11-20 14:30:00,Jonas Hofmann,Pass
+448946,5,Goal,0.8580000305175781,0.3679999923706055,0.041720200330019,Florian Neuhaus,h,7065,OpenPlay,2021,RightFoot,17655,Borussia M.Gladbach,Eintracht Frankfurt,2,3,2021-12-15 17:30:00,Joe Scally,HeadPass
+451898,26,Goal,0.92,0.43,0.31784701347351074,Florian Neuhaus,a,7065,OpenPlay,2021,RightFoot,17677,Bayern Munich,Borussia M.Gladbach,1,2,2022-01-07 19:30:00,,BallTouch
+453372,15,SavedShot,0.8730000305175781,0.42400001525878905,0.08552529662847519,Florian Neuhaus,h,7065,OpenPlay,2021,RightFoot,17683,Borussia M.Gladbach,Bayer Leverkusen,1,2,2022-01-15 17:30:00,Breel Embolo,Dispossessed
+453389,58,BlockedShot,0.7830000305175782,0.3629999923706055,0.023736199364066124,Florian Neuhaus,h,7065,OpenPlay,2021,RightFoot,17683,Borussia M.Gladbach,Bayer Leverkusen,1,2,2022-01-15 17:30:00,Stefan Lainer,BallTouch
+453396,67,SavedShot,0.7959999847412109,0.69,0.07252249866724014,Florian Neuhaus,h,7065,DirectFreekick,2021,RightFoot,17683,Borussia M.Gladbach,Bayer Leverkusen,1,2,2022-01-15 17:30:00,,Standard
+454509,5,SavedShot,0.7090000152587891,0.7,0.009085229597985744,Florian Neuhaus,h,7065,OpenPlay,2021,RightFoot,17692,Borussia M.Gladbach,Union Berlin,1,2,2022-01-22 14:30:00,,None
+454514,23,MissedShots,0.8319999694824218,0.4329999923706055,0.0733179971575737,Florian Neuhaus,h,7065,OpenPlay,2021,RightFoot,17692,Borussia M.Gladbach,Union Berlin,1,2,2022-01-22 14:30:00,Matthias Ginter,TakeOn
+454515,29,MissedShots,0.7830000305175782,0.6370000076293946,0.01767979934811592,Florian Neuhaus,h,7065,SetPiece,2021,RightFoot,17692,Borussia M.Gladbach,Union Berlin,1,2,2022-01-22 14:30:00,,None
+454521,67,BlockedShot,0.8490000152587891,0.49599998474121093,0.10015500336885452,Florian Neuhaus,h,7065,OpenPlay,2021,RightFoot,17692,Borussia M.Gladbach,Union Berlin,1,2,2022-01-22 14:30:00,Breel Embolo,Pass
+455787,41,MissedShots,0.8240000152587891,0.6769999694824219,0.03225350007414818,Florian Neuhaus,a,7065,OpenPlay,2021,RightFoot,17697,Arminia Bielefeld,Borussia M.Gladbach,1,1,2022-02-05 14:30:00,Jonas Hofmann,Pass
+455795,60,MissedShots,0.6790000152587891,0.5279999923706055,0.009558900259435177,Florian Neuhaus,a,7065,OpenPlay,2021,RightFoot,17697,Arminia Bielefeld,Borussia M.Gladbach,1,1,2022-02-05 14:30:00,,None
+455806,92,BlockedShot,0.7769999694824219,0.4809999847412109,0.03620209917426109,Florian Neuhaus,a,7065,OpenPlay,2021,RightFoot,17697,Arminia Bielefeld,Borussia M.Gladbach,1,1,2022-02-05 14:30:00,,Dispossessed
+456977,12,MissedShots,0.855,0.42900001525878906,0.08437660336494446,Florian Neuhaus,h,7065,OpenPlay,2021,RightFoot,17709,Borussia M.Gladbach,Augsburg,3,2,2022-02-12 14:30:00,Jonas Hofmann,Pass
+456997,88,SavedShot,0.9219999694824219,0.41700000762939454,0.5347830057144165,Florian Neuhaus,h,7065,OpenPlay,2021,RightFoot,17709,Borussia M.Gladbach,Augsburg,3,2,2022-02-12 14:30:00,Alassane Pléa,Throughball
+458882,35,SavedShot,0.855999984741211,0.395,0.062383100390434265,Florian Neuhaus,a,7065,OpenPlay,2021,RightFoot,17721,Borussia Dortmund,Borussia M.Gladbach,6,0,2022-02-20 16:30:00,Breel Embolo,BallTouch
+459701,54,MissedShots,0.7780000305175782,0.6759999847412109,0.022080199792981148,Florian Neuhaus,h,7065,OpenPlay,2021,RightFoot,17728,Borussia M.Gladbach,Wolfsburg,2,2,2022-02-26 14:30:00,Ramy Bensebaini,Pass
+461293,10,BlockedShot,0.7809999847412109,0.47,0.03247959911823273,Florian Neuhaus,a,7065,OpenPlay,2021,RightFoot,17737,VfB Stuttgart,Borussia M.Gladbach,3,2,2022-03-05 17:30:00,Kouadio Kone,Pass
+461313,70,SavedShot,0.950999984741211,0.6859999847412109,0.06617210060358047,Florian Neuhaus,a,7065,OpenPlay,2021,LeftFoot,17737,VfB Stuttgart,Borussia M.Gladbach,3,2,2022-03-05 17:30:00,Ramy Bensebaini,Pass
+462700,35,BlockedShot,0.8719999694824219,0.615,0.09846329689025879,Florian Neuhaus,h,7065,OpenPlay,2021,RightFoot,17745,Borussia M.Gladbach,Hertha Berlin,2,0,2022-03-12 17:30:00,Breel Embolo,Pass
+472885,10,MissedShots,0.8480000305175781,0.485,0.06969960033893585,Florian Neuhaus,a,7065,OpenPlay,2021,LeftFoot,17751,Bochum,Borussia M.Gladbach,0,2,2022-03-18 17:30:00,,None
+472899,53,SavedShot,0.985,0.629000015258789,0.08334329724311829,Florian Neuhaus,a,7065,OpenPlay,2021,RightFoot,17751,Bochum,Borussia M.Gladbach,0,2,2022-03-18 17:30:00,Luca Netz,Pass
+465960,35,SavedShot,0.6790000152587891,0.34599998474121096,0.013034899719059467,Florian Neuhaus,h,7065,OpenPlay,2021,RightFoot,17763,Borussia M.Gladbach,Mainz 05,1,1,2022-04-03 15:30:00,,BallRecovery
+465962,41,MissedShots,0.6780000305175782,0.6170000076293946,0.010941999964416027,Florian Neuhaus,h,7065,OpenPlay,2021,RightFoot,17763,Borussia M.Gladbach,Mainz 05,1,1,2022-04-03 15:30:00,,None
+465977,74,SavedShot,0.8119999694824219,0.36700000762939455,0.03641790151596069,Florian Neuhaus,h,7065,OpenPlay,2021,RightFoot,17763,Borussia M.Gladbach,Mainz 05,1,1,2022-04-03 15:30:00,Conor Noß,Pass
+466668,1,BlockedShot,0.8719999694824219,0.49599998474121093,0.3929919898509979,Florian Neuhaus,a,7065,OpenPlay,2021,RightFoot,17768,Greuther Fuerth,Borussia M.Gladbach,0,2,2022-04-09 13:30:00,Joe Scally,BallTouch
+466671,8,BlockedShot,0.915,0.49900001525878906,0.46998900175094604,Florian Neuhaus,a,7065,OpenPlay,2021,LeftFoot,17768,Greuther Fuerth,Borussia M.Gladbach,0,2,2022-04-09 13:30:00,Marcus Thuram,HeadPass
+466672,16,MissedShots,0.8130000305175781,0.38799999237060545,0.047842200845479965,Florian Neuhaus,a,7065,OpenPlay,2021,RightFoot,17768,Greuther Fuerth,Borussia M.Gladbach,0,2,2022-04-09 13:30:00,Stefan Lainer,BallTouch
+466687,61,MissedShots,0.7680000305175781,0.4279999923706055,0.017944099381566048,Florian Neuhaus,a,7065,SetPiece,2021,RightFoot,17768,Greuther Fuerth,Borussia M.Gladbach,0,2,2022-04-09 13:30:00,,None
+469926,59,SavedShot,0.955999984741211,0.6559999847412109,0.08851470053195953,Florian Neuhaus,a,7065,OpenPlay,2021,RightFoot,17790,Freiburg,Borussia M.Gladbach,3,3,2022-04-23 13:30:00,Luca Netz,Pass
+474180,52,MissedShots,0.7140000152587891,0.6519999694824219,0.013327999971807003,Florian Neuhaus,a,7065,OpenPlay,2021,RightFoot,17810,Eintracht Frankfurt,Borussia M.Gladbach,1,1,2022-05-08 13:30:00,,None
+475673,38,MissedShots,0.8130000305175781,0.48200000762939454,0.02045469917356968,Florian Neuhaus,h,7065,OpenPlay,2021,RightFoot,17817,Borussia M.Gladbach,Hoffenheim,5,1,2022-05-14 13:30:00,,Aerial
+475677,50,SavedShot,0.7519999694824219,0.5420000076293945,0.03503499925136566,Florian Neuhaus,h,7065,OpenPlay,2021,LeftFoot,17817,Borussia M.Gladbach,Hoffenheim,5,1,2022-05-14 13:30:00,Lars Stindl,Pass
+479151,45,MissedShots,0.8519999694824218,0.6120000076293945,0.050092898309230804,Florian Neuhaus,h,7065,OpenPlay,2022,LeftFoot,19344,Borussia M.Gladbach,Hoffenheim,3,1,2022-08-06 13:30:00,Marcus Thuram,HeadPass
+479152,47,MissedShots,0.7230000305175781,0.5840000152587891,0.018406299874186516,Florian Neuhaus,h,7065,OpenPlay,2022,RightFoot,19344,Borussia M.Gladbach,Hoffenheim,3,1,2022-08-06 13:30:00,Alassane Pléa,Pass
+479162,89,BlockedShot,0.8159999847412109,0.47900001525878905,0.04094810038805008,Florian Neuhaus,h,7065,FromCorner,2022,LeftFoot,19344,Borussia M.Gladbach,Hoffenheim,3,1,2022-08-06 13:30:00,,None
+479163,91,BlockedShot,0.9059999847412109,0.5990000152587891,0.13617999851703644,Florian Neuhaus,h,7065,OpenPlay,2022,LeftFoot,19344,Borussia M.Gladbach,Hoffenheim,3,1,2022-08-06 13:30:00,Christoph Kramer,Pass
+480568,20,SavedShot,0.7659999847412109,0.5379999923706055,0.028289299458265305,Florian Neuhaus,a,7065,OpenPlay,2022,RightFoot,19357,Schalke 04,Borussia M.Gladbach,2,2,2022-08-13 16:30:00,Kouadio Kone,Pass
+480578,48,MissedShots,0.8969999694824219,0.47099998474121096,0.09919910132884979,Florian Neuhaus,a,7065,OpenPlay,2022,RightFoot,19357,Schalke 04,Borussia M.Gladbach,2,2,2022-08-13 16:30:00,Alassane Pléa,Chipped
+481524,4,BlockedShot,0.9059999847412109,0.5990000152587891,0.10074599832296371,Florian Neuhaus,h,7065,SetPiece,2022,RightFoot,19360,Borussia M.Gladbach,Hertha Berlin,1,0,2022-08-19 18:30:00,Nico Elvedi,Pass
+483912,65,MissedShots,0.7180000305175781,0.485,0.021881600841879845,Florian Neuhaus,a,7065,OpenPlay,2022,RightFoot,19375,Bayern Munich,Borussia M.Gladbach,1,1,2022-08-27 16:30:00,Marcus Thuram,Pass
+488108,4,SavedShot,0.8930000305175781,0.3920000076293945,0.2957189977169037,Florian Neuhaus,a,7065,OpenPlay,2022,LeftFoot,19395,Freiburg,Borussia M.Gladbach,0,0,2022-09-11 15:30:00,Jonas Hofmann,Cross
+513409,5,MissedShots,0.87,0.539000015258789,0.10774599760770798,Florian Neuhaus,a,7065,OpenPlay,2022,LeftFoot,19550,RasenBallsport Leipzig,Borussia M.Gladbach,3,0,2023-03-11 14:30:00,Jonas Hofmann,Pass
+514585,36,BlockedShot,0.754000015258789,0.4620000076293945,0.024348000064492226,Florian Neuhaus,h,7065,OpenPlay,2022,LeftFoot,19563,Borussia M.Gladbach,Werder Bremen,2,2,2023-03-17 19:30:00,Jonas Hofmann,Pass
+514595,54,MissedShots,0.7659999847412109,0.54,0.030896900221705437,Florian Neuhaus,h,7065,OpenPlay,2022,RightFoot,19563,Borussia M.Gladbach,Werder Bremen,2,2,2023-03-17 19:30:00,Lars Stindl,Pass
+514599,61,BlockedShot,0.8209999847412109,0.30100000381469727,0.02935970015823841,Florian Neuhaus,h,7065,FromCorner,2022,RightFoot,19563,Borussia M.Gladbach,Werder Bremen,2,2,2023-03-17 19:30:00,Jonas Hofmann,Pass
+514600,61,MissedShots,0.8519999694824218,0.34200000762939453,0.04070670157670975,Florian Neuhaus,h,7065,FromCorner,2022,RightFoot,19563,Borussia M.Gladbach,Werder Bremen,2,2,2023-03-17 19:30:00,Jonas Hofmann,Pass
+514605,72,Goal,0.8190000152587891,0.5029999923706054,0.0480692982673645,Florian Neuhaus,h,7065,OpenPlay,2022,LeftFoot,19563,Borussia M.Gladbach,Werder Bremen,2,2,2023-03-17 19:30:00,,Rebound
+516996,53,MissedShots,0.9169999694824219,0.5929999923706055,0.11969099938869476,Florian Neuhaus,a,7065,OpenPlay,2022,RightFoot,19569,FC Cologne,Borussia M.Gladbach,0,0,2023-04-02 13:30:00,Marcus Thuram,Pass
+516998,61,MissedShots,0.8190000152587891,0.355,0.04155629873275757,Florian Neuhaus,a,7065,OpenPlay,2022,RightFoot,19569,FC Cologne,Borussia M.Gladbach,0,0,2023-04-02 13:30:00,Jonas Hofmann,Pass
+517002,79,BlockedShot,0.8569999694824219,0.475,0.10395000129938126,Florian Neuhaus,a,7065,OpenPlay,2022,LeftFoot,19569,FC Cologne,Borussia M.Gladbach,0,0,2023-04-02 13:30:00,Marcus Thuram,Pass
+518667,66,MissedShots,0.835999984741211,0.519000015258789,0.11019899696111679,Florian Neuhaus,h,7065,OpenPlay,2022,RightFoot,19581,Borussia M.Gladbach,Wolfsburg,2,0,2023-04-09 13:30:00,Marcus Thuram,Pass
+519694,8,MissedShots,0.805,0.47200000762939454,0.046634599566459656,Florian Neuhaus,a,7065,OpenPlay,2022,LeftFoot,19589,Eintracht Frankfurt,Borussia M.Gladbach,1,1,2023-04-15 16:30:00,,None
+522707,31,BlockedShot,0.7809999847412109,0.700999984741211,0.02068960852921009,Florian Neuhaus,a,7065,OpenPlay,2022,LeftFoot,19610,VfB Stuttgart,Borussia M.Gladbach,2,1,2023-04-29 13:30:00,Julian Weigl,Pass
+524464,18,SavedShot,0.865,0.36700000762939455,0.06640145182609558,Florian Neuhaus,h,7065,OpenPlay,2022,RightFoot,19617,Borussia M.Gladbach,Bochum,2,0,2023-05-06 13:30:00,Jonas Hofmann,Pass
+524468,28,BlockedShot,0.754000015258789,0.7340000152587891,0.019464511424303055,Florian Neuhaus,h,7065,OpenPlay,2022,RightFoot,19617,Borussia M.Gladbach,Bochum,2,0,2023-05-06 13:30:00,Ramy Bensebaini,Pass
+524474,40,MissedShots,0.720999984741211,0.5879999923706055,0.02026614360511303,Florian Neuhaus,h,7065,OpenPlay,2022,RightFoot,19617,Borussia M.Gladbach,Bochum,2,0,2023-05-06 13:30:00,,BallRecovery
+524488,68,MissedShots,0.7440000152587891,0.6320000076293946,0.02093941532075405,Florian Neuhaus,h,7065,FromCorner,2022,RightFoot,19617,Borussia M.Gladbach,Bochum,2,0,2023-05-06 13:30:00,Jonas Hofmann,Pass
+526206,35,SavedShot,0.695,0.4759999847412109,0.009192905388772488,Florian Neuhaus,a,7065,OpenPlay,2022,RightFoot,19622,Borussia Dortmund,Borussia M.Gladbach,5,2,2023-05-13 16:30:00,Hannes Wolf,Pass
+526212,47,MissedShots,0.7659999847412109,0.5579999923706055,0.02001352049410343,Florian Neuhaus,a,7065,FromCorner,2022,RightFoot,19622,Borussia Dortmund,Borussia M.Gladbach,5,2,2023-05-13 16:30:00,,None
+529079,4,SavedShot,0.8319999694824218,0.53,0.08853071182966232,Florian Neuhaus,h,7065,OpenPlay,2022,LeftFoot,19643,Borussia M.Gladbach,Augsburg,2,0,2023-05-27 13:30:00,Marcus Thuram,Pass
+533031,66,SavedShot,0.7709999847412109,0.48700000762939455,0.030758986249566078,Florian Neuhaus,a,7065,OpenPlay,2023,RightFoot,23069,Augsburg,Borussia M.Gladbach,4,4,2023-08-19 13:30:00,Julian Weigl,Pass
+536511,73,MissedShots,0.4490000152587891,0.5420000076293945,0.017017345875501633,Florian Neuhaus,h,7065,DirectFreekick,2023,RightFoot,23089,Borussia M.Gladbach,Bayern Munich,1,2,2023-09-02 16:30:00,,Standard
+538408,58,MissedShots,0.7609999847412109,0.639000015258789,0.017591100186109543,Florian Neuhaus,a,7065,OpenPlay,2023,RightFoot,23100,Darmstadt,Borussia M.Gladbach,3,3,2023-09-17 15:30:00,Luca Netz,Pass
+538414,66,SavedShot,0.8080000305175781,0.504000015258789,0.03938828408718109,Florian Neuhaus,a,7065,OpenPlay,2023,RightFoot,23100,Darmstadt,Borussia M.Gladbach,3,3,2023-09-17 15:30:00,,None
+538415,69,BlockedShot,0.9019999694824219,0.68,0.0761382058262825,Florian Neuhaus,a,7065,OpenPlay,2023,LeftFoot,23100,Darmstadt,Borussia M.Gladbach,3,3,2023-09-17 15:30:00,Julian Weigl,TakeOn
+538416,70,MissedShots,0.7959999847412109,0.41200000762939454,0.04070677235722542,Florian Neuhaus,a,7065,OpenPlay,2023,RightFoot,23100,Darmstadt,Borussia M.Gladbach,3,3,2023-09-17 15:30:00,Julian Weigl,Pass
+538418,72,Goal,0.9269999694824219,0.46900001525878904,0.3517811894416809,Florian Neuhaus,a,7065,OpenPlay,2023,LeftFoot,23100,Darmstadt,Borussia M.Gladbach,3,3,2023-09-17 15:30:00,Tomás Cvancara,HeadPass
+538424,96,SavedShot,0.8859999847412109,0.46,0.0580173097550869,Florian Neuhaus,a,7065,OpenPlay,2023,Head,23100,Darmstadt,Borussia M.Gladbach,3,3,2023-09-17 15:30:00,Franck Honorat,Cross
+541072,26,Goal,0.84,0.514000015258789,0.08249736577272415,Florian Neuhaus,a,7065,OpenPlay,2023,RightFoot,23111,Bochum,Borussia M.Gladbach,1,3,2023-09-30 13:30:00,Alassane Pléa,Pass
+541082,46,MissedShots,0.740999984741211,0.46599998474121096,0.01795916073024273,Florian Neuhaus,a,7065,SetPiece,2023,RightFoot,23111,Bochum,Borussia M.Gladbach,1,3,2023-09-30 13:30:00,Alassane Pléa,Pass
+541084,49,BlockedShot,0.93,0.49,0.6092260479927063,Florian Neuhaus,a,7065,OpenPlay,2023,RightFoot,23111,Bochum,Borussia M.Gladbach,1,3,2023-09-30 13:30:00,,Rebound
+541085,49,MissedShots,0.9209999847412109,0.4909999847412109,0.5815252065658569,Florian Neuhaus,a,7065,OpenPlay,2023,RightFoot,23111,Bochum,Borussia M.Gladbach,1,3,2023-09-30 13:30:00,,Rebound
+542242,12,BlockedShot,0.74,0.6730000305175782,0.015155451372265816,Florian Neuhaus,h,7065,OpenPlay,2023,RightFoot,23119,Borussia M.Gladbach,Mainz 05,2,2,2023-10-06 18:30:00,Maximilian Wöber,Pass
+542245,18,BlockedShot,0.7269999694824218,0.509000015258789,0.015017632395029068,Florian Neuhaus,h,7065,FromCorner,2023,RightFoot,23119,Borussia M.Gladbach,Mainz 05,2,2,2023-10-06 18:30:00,,None
+542248,21,Goal,0.919000015258789,0.5259999847412109,0.12856581807136536,Florian Neuhaus,h,7065,OpenPlay,2023,Head,23119,Borussia M.Gladbach,Mainz 05,2,2,2023-10-06 18:30:00,Franck Honorat,Cross
+552810,81,BlockedShot,0.715,0.49400001525878906,0.012897889129817486,Florian Neuhaus,a,7065,OpenPlay,2023,RightFoot,23183,Union Berlin,Borussia M.Gladbach,3,1,2023-12-09 14:30:00,Nathan N&#039;Goumou Minpol,Pass
+552811,81,SavedShot,0.7,0.5029999923706054,0.014415418729186058,Florian Neuhaus,a,7065,OpenPlay,2023,RightFoot,23183,Union Berlin,Borussia M.Gladbach,3,1,2023-12-09 14:30:00,Marvin Friedrich,Pass
+559926,26,SavedShot,0.8390000152587891,0.6419999694824219,0.07436628639698029,Florian Neuhaus,a,7065,OpenPlay,2023,LeftFoot,23229,Bayer Leverkusen,Borussia M.Gladbach,0,0,2024-01-27 17:30:00,Jordan Siebatcheu,LayOff
+561124,26,MissedShots,0.4570000076293945,0.45799999237060546,0.009726305492222309,Florian Neuhaus,a,7065,OpenPlay,2023,RightFoot,23236,Bayern Munich,Borussia M.Gladbach,3,1,2024-02-03 14:30:00,,BallRecovery
+561126,32,BlockedShot,0.8590000152587891,0.5020000076293946,0.07556239515542984,Florian Neuhaus,a,7065,OpenPlay,2023,RightFoot,23236,Bayern Munich,Borussia M.Gladbach,3,1,2024-02-03 14:30:00,,None
+562412,8,BlockedShot,0.9230000305175782,0.43,0.10884178429841995,Florian Neuhaus,h,7065,OpenPlay,2023,LeftFoot,23245,Borussia M.Gladbach,Darmstadt,0,0,2024-02-10 14:30:00,Franck Honorat,Cross
+562422,51,SavedShot,0.9059999847412109,0.5479999923706055,0.4421100616455078,Florian Neuhaus,h,7065,OpenPlay,2023,RightFoot,23245,Borussia M.Gladbach,Darmstadt,0,0,2024-02-10 14:30:00,,BallTouch
+562427,62,SavedShot,0.8169999694824219,0.5,0.06396807730197906,Florian Neuhaus,h,7065,OpenPlay,2023,LeftFoot,23245,Borussia M.Gladbach,Darmstadt,0,0,2024-02-10 14:30:00,Nathan N&#039;Goumou Minpol,Pass
+565117,6,MissedShots,0.8040000152587891,0.37400001525878906,0.013384629972279072,Florian Neuhaus,h,7065,FromCorner,2023,RightFoot,23266,Borussia M.Gladbach,Bochum,5,2,2024-02-24 14:30:00,Robin Hack,Chipped
+565118,8,BlockedShot,0.87,0.40400001525878904,0.09748808294534683,Florian Neuhaus,h,7065,OpenPlay,2023,RightFoot,23266,Borussia M.Gladbach,Bochum,5,2,2024-02-24 14:30:00,Jordan Siebatcheu,Pass
+565119,14,BlockedShot,0.71,0.525,0.014562628231942654,Florian Neuhaus,h,7065,OpenPlay,2023,LeftFoot,23266,Borussia M.Gladbach,Bochum,5,2,2024-02-24 14:30:00,Jordan Siebatcheu,LayOff
+566484,40,BlockedShot,0.8969999694824219,0.705999984741211,0.03979351371526718,Florian Neuhaus,a,7065,OpenPlay,2023,RightFoot,23275,Mainz 05,Borussia M.Gladbach,1,1,2024-03-02 14:30:00,Julian Weigl,Pass
+566493,64,SavedShot,0.905,0.59,0.3008355498313904,Florian Neuhaus,a,7065,OpenPlay,2023,LeftFoot,23275,Mainz 05,Borussia M.Gladbach,1,1,2024-03-02 14:30:00,Franck Honorat,Cross
+567914,8,SavedShot,0.84,0.46700000762939453,0.0741051584482193,Florian Neuhaus,h,7065,OpenPlay,2023,RightFoot,23285,Borussia M.Gladbach,FC Cologne,3,3,2024-03-09 14:30:00,Franck Honorat,Pass
+567916,10,MissedShots,0.8030000305175782,0.4520000076293945,0.032496415078639984,Florian Neuhaus,h,7065,FromCorner,2023,LeftFoot,23285,Borussia M.Gladbach,FC Cologne,3,3,2024-03-09 14:30:00,,None
+567929,52,ShotOnPost,0.9669999694824218,0.5570000076293945,0.6862416863441467,Florian Neuhaus,h,7065,OpenPlay,2023,LeftFoot,23285,Borussia M.Gladbach,FC Cologne,3,3,2024-03-09 14:30:00,Jordan Siebatcheu,Pass
+567932,68,BlockedShot,0.855999984741211,0.580999984741211,0.025891629979014397,Florian Neuhaus,h,7065,FromCorner,2023,RightFoot,23285,Borussia M.Gladbach,FC Cologne,3,3,2024-03-09 14:30:00,,Aerial
+567938,86,MissedShots,0.8180000305175781,0.5359999847412109,0.06525924801826477,Florian Neuhaus,h,7065,OpenPlay,2023,LeftFoot,23285,Borussia M.Gladbach,FC Cologne,3,3,2024-03-09 14:30:00,Rocco Reitz,Pass
+567941,95,BlockedShot,0.805,0.4129999923706055,0.044556211680173874,Florian Neuhaus,h,7065,OpenPlay,2023,RightFoot,23285,Borussia M.Gladbach,FC Cologne,3,3,2024-03-09 14:30:00,Franck Honorat,Pass
+569373,39,MissedShots,0.8219999694824218,0.48700000762939455,0.07911741733551025,Florian Neuhaus,a,7065,OpenPlay,2023,RightFoot,23297,FC Heidenheim,Borussia M.Gladbach,1,1,2024-03-16 14:30:00,Joe Scally,Pass
+570568,44,SavedShot,0.7609999847412109,0.49400001525878906,0.026945779100060463,Florian Neuhaus,h,7065,OpenPlay,2023,RightFoot,23303,Borussia M.Gladbach,Freiburg,0,3,2024-03-30 14:30:00,Joe Scally,Pass
+570569,45,MissedShots,0.8040000152587891,0.3890000152587891,0.027127446606755257,Florian Neuhaus,h,7065,FromCorner,2023,RightFoot,23303,Borussia M.Gladbach,Freiburg,0,3,2024-03-30 14:30:00,,None
+578295,90,Goal,0.885,0.5,0.75777667760849,Florian Neuhaus,a,7065,Penalty,2023,RightFoot,23350,Werder Bremen,Borussia M.Gladbach,2,2,2024-05-04 13:30:00,,Standard
+600764,76,MissedShots,0.9290000152587891,0.46,0.12707938253879547,Florian Neuhaus,h,7065,OpenPlay,2024,LeftFoot,27821,Borussia M.Gladbach,Werder Bremen,4,1,2024-11-03 16:30:00,Kevin Stöger,None
+603573,70,BlockedShot,0.8869999694824219,0.39099998474121095,0.14151433110237122,Florian Neuhaus,h,7065,OpenPlay,2024,RightFoot,27839,Borussia M.Gladbach,St. Pauli,2,0,2024-11-24 16:30:00,Franck Honorat,Pass
+616209,19,MissedShots,0.759000015258789,0.5729999923706055,0.049947842955589294,Florian Neuhaus,h,7065,OpenPlay,2024,LeftFoot,27929,Borussia M.Gladbach,Eintracht Frankfurt,1,1,2025-02-08 17:30:00,Joe Scally,BallRecovery
+616219,61,MissedShots,0.8130000305175781,0.5670000076293945,0.05106702074408531,Florian Neuhaus,h,7065,OpenPlay,2024,RightFoot,27929,Borussia M.Gladbach,Eintracht Frankfurt,1,1,2025-02-08 17:30:00,Kevin Stöger,Pass
+618350,87,SavedShot,0.755,0.534000015258789,0.018436407670378685,Florian Neuhaus,h,7065,OpenPlay,2024,RightFoot,27947,Borussia M.Gladbach,Augsburg,0,3,2025-02-22 14:30:00,Luca Netz,Pass
+620927,74,BlockedShot,0.87,0.6509999847412109,0.0611705482006073,Florian Neuhaus,h,7065,OpenPlay,2024,RightFoot,27965,Borussia M.Gladbach,Mainz 05,1,3,2025-03-07 19:30:00,Luca Netz,Pass
+620935,92,SavedShot,0.7140000152587891,0.40299999237060546,0.01931813545525074,Florian Neuhaus,h,7065,OpenPlay,2024,RightFoot,27965,Borussia M.Gladbach,Mainz 05,1,3,2025-03-07 19:30:00,,None
+630226,67,BlockedShot,0.85,0.5779999923706055,0.050086136907339096,Florian Neuhaus,a,7065,FromCorner,2024,RightFoot,28020,Holstein Kiel,Borussia M.Gladbach,4,3,2025-04-26 13:30:00,Alassane Pléa,Pass
+631373,83,SavedShot,0.7330000305175781,0.595999984741211,0.019037097692489624,Florian Neuhaus,h,7065,OpenPlay,2024,RightFoot,28027,Borussia M.Gladbach,Hoffenheim,4,4,2025-05-03 13:30:00,Philipp Sander,Pass
+639526,66,BlockedShot,0.8030000305175782,0.575999984741211,0.04048234596848488,Florian Neuhaus,h,7065,OpenPlay,2025,RightFoot,30232,Borussia M.Gladbach,Hamburger SV,0,0,2025-08-24 15:30:00,Robin Hack,Pass
+640146,89,BlockedShot,0.8490000152587891,0.6309999847412109,0.043712254613637924,Florian Neuhaus,a,7065,FromCorner,2025,RightFoot,30237,VfB Stuttgart,Borussia M.Gladbach,1,0,2025-08-30 13:30:00,Robin Hack,Pass
+640147,90,SavedShot,0.9259999847412109,0.67,0.05485597997903824,Florian Neuhaus,a,7065,OpenPlay,2025,LeftFoot,30237,VfB Stuttgart,Borussia M.Gladbach,1,0,2025-08-30 13:30:00,Robin Hack,Pass
+643849,78,BlockedShot,0.710999984741211,0.575999984741211,0.016704870387911797,Florian Neuhaus,a,7065,OpenPlay,2025,LeftFoot,30258,Bayer Leverkusen,Borussia M.Gladbach,1,1,2025-09-21 15:30:00,Nico Elvedi,Pass
+644999,69,MissedShots,0.775,0.405,0.060616616159677505,Florian Neuhaus,h,7065,OpenPlay,2025,RightFoot,30265,Borussia M.Gladbach,Eintracht Frankfurt,4,6,2025-09-27 16:30:00,Philipp Sander,Pass
+647045,47,SavedShot,0.749000015258789,0.6840000152587891,0.017734192311763763,Florian Neuhaus,h,7065,OpenPlay,2025,RightFoot,30270,Borussia M.Gladbach,Freiburg,0,0,2025-10-05 17:30:00,Jens Castrop,Pass
+647051,72,MissedShots,0.9080000305175782,0.485,0.10477359592914581,Florian Neuhaus,h,7065,OpenPlay,2025,RightFoot,30270,Borussia M.Gladbach,Freiburg,0,0,2025-10-05 17:30:00,Luca Netz,HeadPass
+647052,74,SavedShot,0.76,0.46299999237060546,0.027196358889341354,Florian Neuhaus,h,7065,OpenPlay,2025,RightFoot,30270,Borussia M.Gladbach,Freiburg,0,0,2025-10-05 17:30:00,Jan Urbich,Pass
+647134,0,MissedShots,0.49900001525878906,0.5,0.007449094671756029,Florian Neuhaus,a,7065,OpenPlay,2025,RightFoot,30285,Union Berlin,Borussia M.Gladbach,3,1,2025-10-17 18:30:00,,Start
+653491,25,BlockedShot,0.7019999694824218,0.67,0.008421223610639572,Florian Neuhaus,a,7065,SetPiece,2025,RightFoot,30318,FC Heidenheim,Borussia M.Gladbach,0,3,2025-11-22 14:30:00,,None
+653493,44,BlockedShot,0.8390000152587891,0.5129999923706055,0.059925105422735214,Florian Neuhaus,a,7065,FromCorner,2025,RightFoot,30318,FC Heidenheim,Borussia M.Gladbach,0,3,2025-11-22 14:30:00,,TakeOn
+653504,67,ShotOnPost,0.7980000305175782,0.5429999923706055,0.09381763637065887,Florian Neuhaus,a,7065,OpenPlay,2025,RightFoot,30318,FC Heidenheim,Borussia M.Gladbach,0,3,2025-11-22 14:30:00,Franck Honorat,Pass
+654682,17,BlockedShot,0.8690000152587891,0.47099998474121096,0.0916849821805954,Florian Neuhaus,h,7065,OpenPlay,2025,LeftFoot,30325,Borussia M.Gladbach,RasenBallsport Leipzig,0,0,2025-11-28 19:30:00,,Dispossessed
+654688,45,MissedShots,0.835999984741211,0.6769999694824219,0.026670511811971664,Florian Neuhaus,h,7065,SetPiece,2025,RightFoot,30325,Borussia M.Gladbach,RasenBallsport Leipzig,0,0,2025-11-28 19:30:00,Nico Elvedi,HeadPass
+659090,35,BlockedShot,0.9790000152587891,0.6359999847412109,0.06075514480471611,Florian Neuhaus,a,7065,OpenPlay,2025,RightFoot,30351,Borussia Dortmund,Borussia M.Gladbach,2,0,2025-12-19 19:30:00,Rocco Reitz,Pass
+659093,47,BlockedShot,0.914000015258789,0.595,0.07528414577245712,Florian Neuhaus,a,7065,OpenPlay,2025,RightFoot,30351,Borussia Dortmund,Borussia M.Gladbach,2,0,2025-12-19 19:30:00,,None
+662692,9,BlockedShot,0.8780000305175781,0.425,0.11909160763025284,Florian Neuhaus,h,7065,OpenPlay,2025,RightFoot,30361,Borussia M.Gladbach,Augsburg,4,0,2026-01-11 14:30:00,Franck Honorat,Pass
+662710,64,BlockedShot,0.8269999694824218,0.644000015258789,0.062158677726984024,Florian Neuhaus,h,7065,OpenPlay,2025,RightFoot,30361,Borussia M.Gladbach,Augsburg,4,0,2026-01-11 14:30:00,Yannick Engelhardt,Pass
+665304,22,SavedShot,0.73,0.4809999847412109,0.017397280782461166,Florian Neuhaus,h,7065,OpenPlay,2025,RightFoot,30388,Borussia M.Gladbach,VfB Stuttgart,0,3,2026-01-25 14:30:00,,BallTouch
+665305,23,MissedShots,0.7330000305175781,0.49599998474121093,0.018684053793549538,Florian Neuhaus,h,7065,OpenPlay,2025,LeftFoot,30388,Borussia M.Gladbach,VfB Stuttgart,0,3,2026-01-25 14:30:00,Kota Takai,Pass
+665318,68,SavedShot,0.730999984741211,0.3729999923706055,0.011472036130726337,Florian Neuhaus,h,7065,OpenPlay,2025,RightFoot,30388,Borussia M.Gladbach,VfB Stuttgart,0,3,2026-01-25 14:30:00,,Tackle
+673553,92,SavedShot,0.985,0.6129999923706054,0.3735146224498749,Florian Neuhaus,h,7065,OpenPlay,2025,RightFoot,30450,Borussia M.Gladbach,St. Pauli,2,0,2026-03-13 19:30:00,,BallRecovery

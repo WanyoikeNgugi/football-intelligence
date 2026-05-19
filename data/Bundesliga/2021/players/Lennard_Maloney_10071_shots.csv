@@ -1,0 +1,24 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+533097,51,MissedShots,0.92,0.5429999923706055,0.1145789623260498,Lennard Maloney,a,10071,FromCorner,2023,RightFoot,23067,Wolfsburg,FC Heidenheim,2,0,2023-08-19 13:30:00,Tim Siersleben,Pass
+534541,72,BlockedShot,0.7819999694824219,0.3629999923706055,0.028142133727669716,Lennard Maloney,h,10071,OpenPlay,2023,RightFoot,23078,FC Heidenheim,Hoffenheim,2,3,2023-08-26 13:30:00,Eren Sami Dinkci,Pass
+535816,51,SavedShot,0.49900001525878906,0.6469999694824219,0.005593054927885532,Lennard Maloney,a,10071,SetPiece,2023,Head,23083,Borussia Dortmund,FC Heidenheim,2,2,2023-09-01 18:30:00,Jan-Niklas Beste,Cross
+538280,11,MissedShots,0.7619999694824219,0.53,0.038232266902923584,Lennard Maloney,h,10071,OpenPlay,2023,RightFoot,23099,FC Heidenheim,Werder Bremen,4,2,2023-09-17 13:30:00,,None
+541047,46,SavedShot,0.855999984741211,0.5659999847412109,0.026366423815488815,Lennard Maloney,h,10071,SetPiece,2023,RightFoot,23112,FC Heidenheim,Union Berlin,1,0,2023-09-30 13:30:00,Jan-Niklas Beste,Cross
+541052,54,MissedShots,0.7369999694824219,0.615,0.013364302925765514,Lennard Maloney,h,10071,OpenPlay,2023,RightFoot,23112,FC Heidenheim,Union Berlin,1,0,2023-09-30 13:30:00,,None
+544786,7,BlockedShot,0.9219999694824219,0.5320000076293945,0.10044049471616745,Lennard Maloney,h,10071,FromCorner,2023,LeftFoot,23136,FC Heidenheim,Augsburg,2,5,2023-10-22 15:30:00,,BallTouch
+544795,51,BlockedShot,0.9230000305175782,0.6379999923706055,0.08512110263109207,Lennard Maloney,h,10071,OpenPlay,2023,RightFoot,23136,FC Heidenheim,Augsburg,2,5,2023-10-22 15:30:00,Adrian Beck,Pass
+544807,95,MissedShots,0.8469999694824218,0.37099998474121093,0.04189671576023102,Lennard Maloney,h,10071,OpenPlay,2023,LeftFoot,23136,FC Heidenheim,Augsburg,2,5,2023-10-22 15:30:00,,None
+545327,76,BlockedShot,0.8419999694824218,0.4640000152587891,0.025620710104703903,Lennard Maloney,a,10071,SetPiece,2023,RightFoot,23141,Borussia M.Gladbach,FC Heidenheim,2,1,2023-10-28 13:30:00,Jonas Föhrenbach,Cross
+552750,59,OwnGoal,0.06400000095367432,0.49700000762939456,0,Lennard Maloney,h,10071,OpenPlay,2023,LeftFoot,23190,FC Heidenheim,Darmstadt,3,2,2023-12-09 14:30:00,,TakeOn
+559827,73,MissedShots,0.8669999694824219,0.46799999237060547,0.023531533777713776,Lennard Maloney,a,10071,FromCorner,2023,Head,23232,Hoffenheim,FC Heidenheim,1,1,2024-01-27 14:30:00,Jan-Niklas Beste,Cross
+562387,11,Goal,0.924000015258789,0.5220000076293946,0.05302689969539642,Lennard Maloney,a,10071,FromCorner,2023,Head,23249,Werder Bremen,FC Heidenheim,1,2,2024-02-10 14:30:00,Jan-Niklas Beste,Aerial
+562398,75,MissedShots,0.960999984741211,0.6,0.19406971335411072,Lennard Maloney,a,10071,FromCorner,2023,Head,23249,Werder Bremen,FC Heidenheim,1,2,2024-02-10 14:30:00,Jan-Niklas Beste,Cross
+565102,39,BlockedShot,0.765,0.4209999847412109,0.03589615970849991,Lennard Maloney,a,10071,OpenPlay,2023,RightFoot,23269,Union Berlin,FC Heidenheim,2,2,2024-02-24 14:30:00,,None
+592331,46,MissedShots,0.965,0.515,0.09786121547222137,Lennard Maloney,h,10071,FromCorner,2024,Head,27772,FC Heidenheim,Freiburg,0,3,2024-09-21 13:30:00,Mathias Honsak,Aerial
+596863,87,BlockedShot,0.9159999847412109,0.6659999847412109,0.038735341280698776,Lennard Maloney,a,10071,FromCorner,2024,RightFoot,27803,Borussia M.Gladbach,FC Heidenheim,3,2,2024-10-19 13:30:00,Mathias Honsak,Cross
+602794,9,MissedShots,0.860999984741211,0.5870000076293945,0.06275978684425354,Lennard Maloney,a,10071,SetPiece,2024,RightFoot,27832,Bayer Leverkusen,FC Heidenheim,5,2,2024-11-23 14:30:00,,None
+650737,46,BlockedShot,0.9740000152587891,0.44,0.4459839165210724,Lennard Maloney,h,10071,FromCorner,2025,Head,30300,Mainz 05,Werder Bremen,1,1,2025-11-01 14:30:00,Nadiem Amiri,Cross
+658828,30,MissedShots,0.8930000305175781,0.645,0.02280224673449993,Lennard Maloney,a,10071,SetPiece,2025,LeftFoot,30342,Bayern Munich,Mainz 05,2,2,2025-12-14 16:30:00,William Bøving,Cross
+658840,74,MissedShots,0.4640000152587891,0.09199999809265137,0.009833826683461666,Lennard Maloney,a,10071,OpenPlay,2025,RightFoot,30342,Bayern Munich,Mainz 05,2,2,2025-12-14 16:30:00,,BallRecovery
+680898,95,BlockedShot,0.9059999847412109,0.6459999847412109,0.014404714107513428,Lennard Maloney,h,10071,FromCorner,2025,Head,30499,Mainz 05,Bayern Munich,3,4,2026-04-25 13:30:00,Anthony Caci,Cross
+680899,95,BlockedShot,0.9,0.654000015258789,0.05814860388636589,Lennard Maloney,h,10071,FromCorner,2025,LeftFoot,30499,Mainz 05,Bayern Munich,3,4,2026-04-25 13:30:00,,TakeOn

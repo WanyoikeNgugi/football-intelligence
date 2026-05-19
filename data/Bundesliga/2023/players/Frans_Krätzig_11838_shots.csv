@@ -1,0 +1,12 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+539027,67,SavedShot,0.8240000152587891,0.5409999847412109,0.08970491588115692,Frans Krätzig,h,11838,OpenPlay,2023,LeftFoot,23104,Bayern Munich,Bochum,7,0,2023-09-23 13:30:00,Noussair Mazraoui,Pass
+543328,88,SavedShot,0.8380000305175781,0.5,0.12015519291162491,Frans Krätzig,h,11838,OpenPlay,2023,LeftFoot,23126,Bayern Munich,Freiburg,3,0,2023-10-08 15:30:00,Leroy Sané,Pass
+610635,16,Goal,0.8680000305175781,0.5059999847412109,0.3013783097267151,Frans Krätzig,h,11838,OpenPlay,2024,LeftFoot,27880,FC Heidenheim,Union Berlin,2,0,2025-01-11 14:30:00,Léo Scienza,Cross
+611711,17,BlockedShot,0.769000015258789,0.6409999847412109,0.022678012028336525,Frans Krätzig,a,11838,OpenPlay,2024,LeftFoot,27890,Werder Bremen,FC Heidenheim,3,3,2025-01-15 19:30:00,Paul Wanner,Pass
+611717,30,MissedShots,0.9030000305175782,0.40099998474121096,0.09362785518169403,Frans Krätzig,a,11838,OpenPlay,2024,RightFoot,27890,Werder Bremen,FC Heidenheim,3,3,2025-01-15 19:30:00,Budu Zivzivadze,BallTouch
+612175,75,SavedShot,0.8419999694824218,0.5359999847412109,0.07375277578830719,Frans Krätzig,h,11838,OpenPlay,2024,LeftFoot,27899,FC Heidenheim,St. Pauli,0,2,2025-01-18 14:30:00,Adrian Beck,Pass
+613227,58,SavedShot,0.765,0.7180000305175781,0.01130081620067358,Frans Krätzig,a,11838,OpenPlay,2024,LeftFoot,27911,Augsburg,FC Heidenheim,2,1,2025-01-25 14:30:00,Luca Kerber,Chipped
+617932,25,BlockedShot,0.8040000152587891,0.37,0.025095362216234207,Frans Krätzig,h,11838,FromCorner,2024,LeftFoot,27934,FC Heidenheim,Mainz 05,0,2,2025-02-16 18:30:00,,None
+625563,17,MissedShots,0.905,0.624000015258789,0.05170757323503494,Frans Krätzig,h,11838,OpenPlay,2024,LeftFoot,27986,FC Heidenheim,Bayer Leverkusen,0,1,2025-04-05 13:30:00,Omar Traoré,Cross
+629993,38,MissedShots,0.9159999847412109,0.615,0.34768420457839966,Frans Krätzig,a,11838,OpenPlay,2024,LeftFoot,28013,VfB Stuttgart,FC Heidenheim,0,1,2025-04-25 18:30:00,Adrian Beck,Pass
+632664,69,BlockedShot,0.865,0.6370000076293946,0.08416210860013962,Frans Krätzig,a,11838,OpenPlay,2024,LeftFoot,28036,Union Berlin,FC Heidenheim,0,3,2025-05-10 13:30:00,Adrian Beck,BallTouch

@@ -1,0 +1,36 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+30254,73,BlockedShot,0.754000015258789,0.5940000152587891,0.020375199615955353,Tolga Cigerci,a,258,OpenPlay,2014,RightFoot,5233,VfB Stuttgart,Hertha Berlin,0,0,2015-03-06 19:30:00,Roy Beerens,Pass
+77014,45,BlockedShot,0.7430000305175781,0.37,0.02243879996240139,Tolga Cigerci,a,258,OpenPlay,2015,RightFoot,1059,Wolfsburg,Hertha Berlin,2,0,2015-09-19 17:30:00,Vladimir Darida,Pass
+77013,46,SavedShot,0.8280000305175781,0.6819999694824219,0.029655400663614273,Tolga Cigerci,a,258,OpenPlay,2015,RightFoot,1059,Wolfsburg,Hertha Berlin,2,0,2015-09-19 17:30:00,,TakeOn
+77017,61,MissedShots,0.705999984741211,0.6930000305175781,0.014145500026643276,Tolga Cigerci,a,258,OpenPlay,2015,RightFoot,1059,Wolfsburg,Hertha Berlin,2,0,2015-09-19 17:30:00,Vladimir Darida,Pass
+77375,92,SavedShot,0.8769999694824219,0.36,0.07767140120267868,Tolga Cigerci,h,258,OpenPlay,2015,RightFoot,1067,Hertha Berlin,FC Cologne,2,0,2015-09-22 22:00:00,,None
+77822,18,SavedShot,0.8440000152587891,0.7080000305175781,0.043880101293325424,Tolga Cigerci,h,258,OpenPlay,2015,RightFoot,1087,Hertha Berlin,Hamburger SV,3,0,2015-10-03 17:30:00,Genki Haraguchi,Pass
+77833,67,SavedShot,0.855999984741211,0.7169999694824218,0.052110400050878525,Tolga Cigerci,h,258,OpenPlay,2015,RightFoot,1087,Hertha Berlin,Hamburger SV,3,0,2015-10-03 17:30:00,,BallRecovery
+78606,29,MissedShots,0.960999984741211,0.519000015258789,0.1346299946308136,Tolga Cigerci,h,258,FromCorner,2015,Head,1113,Hertha Berlin,Borussia M.Gladbach,1,4,2015-10-31 18:30:00,Sebastian Langkamp,HeadPass
+78614,59,SavedShot,0.6270000076293946,0.610999984741211,0.006668940186500549,Tolga Cigerci,h,258,OpenPlay,2015,RightFoot,1113,Hertha Berlin,Borussia M.Gladbach,1,4,2015-10-31 18:30:00,Genki Haraguchi,Pass
+78616,60,BlockedShot,0.8009999847412109,0.2520000076293945,0.016489699482917786,Tolga Cigerci,h,258,OpenPlay,2015,LeftFoot,1113,Hertha Berlin,Borussia M.Gladbach,1,4,2015-10-31 18:30:00,Vladimir Darida,Pass
+80823,47,MissedShots,0.909000015258789,0.485,0.32187798619270325,Tolga Cigerci,a,258,OpenPlay,2015,Head,1205,VfB Stuttgart,Hertha Berlin,2,0,2016-02-13 18:30:00,Vladimir Darida,Cross
+82062,26,MissedShots,0.8059999847412109,0.759000015258789,0.056327298283576965,Tolga Cigerci,h,258,DirectFreekick,2015,RightFoot,1246,Hertha Berlin,Schalke 04,2,0,2016-03-11 23:30:00,,Standard
+82064,36,SavedShot,0.7669999694824219,0.649000015258789,0.017335500568151474,Tolga Cigerci,h,258,OpenPlay,2015,RightFoot,1246,Hertha Berlin,Schalke 04,2,0,2016-03-11 23:30:00,,None
+82075,68,BlockedShot,0.7290000152587891,0.534000015258789,0.01574070006608963,Tolga Cigerci,h,258,OpenPlay,2015,RightFoot,1246,Hertha Berlin,Schalke 04,2,0,2016-03-11 23:30:00,,Rebound
+82076,68,MissedShots,0.7530000305175781,0.4640000152587891,0.018077200278639793,Tolga Cigerci,h,258,FromCorner,2015,RightFoot,1246,Hertha Berlin,Schalke 04,2,0,2016-03-11 23:30:00,,None
+82077,71,MissedShots,0.904000015258789,0.33099998474121095,0.24891799688339233,Tolga Cigerci,h,258,OpenPlay,2015,RightFoot,1246,Hertha Berlin,Schalke 04,2,0,2016-03-11 23:30:00,Vedad Ibisevic,Pass
+82082,78,ShotOnPost,0.7669999694824219,0.47200000762939454,0.07622279971837997,Tolga Cigerci,h,258,OpenPlay,2015,RightFoot,1246,Hertha Berlin,Schalke 04,2,0,2016-03-11 23:30:00,,BallRecovery
+82086,86,BlockedShot,0.705999984741211,0.5329999923706055,0.015738699585199356,Tolga Cigerci,h,258,OpenPlay,2015,RightFoot,1246,Hertha Berlin,Schalke 04,2,0,2016-03-11 23:30:00,Vladimir Darida,BallRecovery
+82383,41,MissedShots,0.6580000305175782,0.575,0.011058099567890167,Tolga Cigerci,h,258,SetPiece,2015,RightFoot,1260,Hertha Berlin,Ingolstadt,2,1,2016-03-19 18:30:00,Genki Haraguchi,Pass
+82802,19,BlockedShot,0.7569999694824219,0.3579999923706055,0.018764199689030647,Tolga Cigerci,h,258,OpenPlay,2015,RightFoot,1273,Hertha Berlin,Hannover 96,2,2,2016-04-08 22:30:00,Peter Pekarík,Pass
+82807,48,SavedShot,0.7580000305175781,0.5320000076293945,0.024625999853014946,Tolga Cigerci,h,258,OpenPlay,2015,RightFoot,1273,Hertha Berlin,Hannover 96,2,2,2016-04-08 22:30:00,Vedad Ibisevic,Pass
+82811,62,MissedShots,0.7090000152587891,0.549000015258789,0.043400198221206665,Tolga Cigerci,h,258,DirectFreekick,2015,RightFoot,1273,Hertha Berlin,Hannover 96,2,2,2016-04-08 22:30:00,,Standard
+83251,3,BlockedShot,0.784000015258789,0.509000015258789,0.035349901765584946,Tolga Cigerci,h,258,OpenPlay,2015,RightFoot,1295,Hertha Berlin,Bayern Munich,0,2,2016-04-23 17:30:00,,None
+83259,32,BlockedShot,0.759000015258789,0.36400001525878906,0.019124699756503105,Tolga Cigerci,h,258,OpenPlay,2015,RightFoot,1295,Hertha Berlin,Bayern Munich,0,2,2016-04-23 17:30:00,Maximilian Mittelstädt,Pass
+83346,61,SavedShot,0.7659999847412109,0.7090000152587891,0.017146799713373184,Tolga Cigerci,a,258,OpenPlay,2015,RightFoot,1307,Bayer Leverkusen,Hertha Berlin,2,1,2016-04-30 20:30:00,Mitchell Weiser,Pass
+83354,84,BlockedShot,0.755,0.31,0.010866999626159668,Tolga Cigerci,a,258,SetPiece,2015,RightFoot,1307,Bayer Leverkusen,Hertha Berlin,2,1,2016-04-30 20:30:00,,None
+507055,82,SavedShot,0.7080000305175781,0.5540000152587891,0.042789898812770844,Tolga Cigerci,a,258,DirectFreekick,2022,RightFoot,19508,Eintracht Frankfurt,Hertha Berlin,3,0,2023-02-04 14:30:00,,Standard
+510338,38,SavedShot,0.7430000305175781,0.69,0.01054569985717535,Tolga Cigerci,a,258,OpenPlay,2022,RightFoot,19522,Borussia Dortmund,Hertha Berlin,4,1,2023-02-19 16:30:00,Marvin Plattenhardt,Pass
+510706,17,BlockedShot,0.6959999847412109,0.4420000076293945,0.010922599583864212,Tolga Cigerci,h,258,OpenPlay,2022,LeftFoot,19537,Hertha Berlin,Augsburg,2,0,2023-02-25 14:30:00,,Rebound
+510711,56,SavedShot,0.7330000305175781,0.4329999923706055,0.017179200425744057,Tolga Cigerci,h,258,OpenPlay,2022,RightFoot,19537,Hertha Berlin,Augsburg,2,0,2023-02-25 14:30:00,,Dispossessed
+512744,7,BlockedShot,0.75,0.23600000381469727,0.012241899967193604,Tolga Cigerci,a,258,OpenPlay,2022,RightFoot,19541,Bayer Leverkusen,Hertha Berlin,4,1,2023-03-05 14:30:00,,BallRecovery
+513398,37,MissedShots,0.7390000152587891,0.59,0.013506700284779072,Tolga Cigerci,h,258,SetPiece,2022,LeftFoot,19555,Hertha Berlin,Mainz 05,1,1,2023-03-11 14:30:00,,Rebound
+518302,12,BlockedShot,0.7959999847412109,0.5670000076293945,0.040384501218795776,Tolga Cigerci,h,258,OpenPlay,2022,LeftFoot,19584,Hertha Berlin,RasenBallsport Leipzig,0,1,2023-04-08 16:30:00,Kevin-Prince Boateng,Pass
+518309,47,BlockedShot,0.7559999847412109,0.3320000076293945,0.015093600377440453,Tolga Cigerci,h,258,OpenPlay,2022,RightFoot,19584,Hertha Berlin,RasenBallsport Leipzig,0,1,2023-04-08 16:30:00,,None
+520733,32,MissedShots,0.8130000305175781,0.6609999847412109,0.030064690858125687,Tolga Cigerci,h,258,FromCorner,2022,RightFoot,19602,Hertha Berlin,Werder Bremen,2,4,2023-04-22 13:30:00,Dodi Lukebakio,Cross

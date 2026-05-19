@@ -1,0 +1,166 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+83255,19,MissedShots,0.965999984741211,0.32099998474121094,0.052202701568603516,Maximilian Mittelstädt,h,419,OpenPlay,2015,RightFoot,1295,Hertha Berlin,Bayern Munich,0,2,2016-04-23 17:30:00,Tolga Cigerci,Chipped
+129603,8,SavedShot,0.6530000305175782,0.5879999923706055,0.007279170211404562,Maximilian Mittelstädt,h,419,SetPiece,2016,LeftFoot,2806,Hertha Berlin,Borussia M.Gladbach,3,0,2016-11-04 23:30:00,,Aerial
+129619,76,MissedShots,0.885,0.7,0.10731799900531769,Maximilian Mittelstädt,h,419,OpenPlay,2016,LeftFoot,2806,Hertha Berlin,Borussia M.Gladbach,3,0,2016-11-04 23:30:00,Mitchell Weiser,Pass
+134604,88,BlockedShot,0.8009999847412109,0.38799999237060545,0.03373739868402481,Maximilian Mittelstädt,h,419,OpenPlay,2016,LeftFoot,3828,Hertha Berlin,Augsburg,2,0,2017-04-09 14:30:00,Alexander Esswein,Cross
+133639,87,SavedShot,0.9209999847412109,0.6430000305175781,0.31319698691368103,Maximilian Mittelstädt,h,419,OpenPlay,2016,LeftFoot,3843,Hertha Berlin,Wolfsburg,1,0,2017-04-22 14:30:00,Vladimir Darida,Pass
+167874,82,SavedShot,0.8109999847412109,0.6819999694824219,0.028414299711585045,Maximilian Mittelstädt,h,419,OpenPlay,2017,LeftFoot,8360,Hertha Berlin,Borussia M.Gladbach,2,4,2017-11-18 17:30:00,Davie Selke,Pass
+167875,84,SavedShot,0.7930000305175782,0.565,0.039282798767089844,Maximilian Mittelstädt,h,419,OpenPlay,2017,RightFoot,8360,Hertha Berlin,Borussia M.Gladbach,2,4,2017-11-18 17:30:00,,Dispossessed
+168340,33,SavedShot,0.754000015258789,0.7080000305175781,0.01993199996650219,Maximilian Mittelstädt,a,419,OpenPlay,2017,LeftFoot,8369,FC Cologne,Hertha Berlin,0,2,2017-11-26 17:00:00,Davie Selke,Pass
+168894,1,BlockedShot,0.7980000305175782,0.5990000152587891,0.02631549909710884,Maximilian Mittelstädt,h,419,FromCorner,2017,RightFoot,8378,Hertha Berlin,Eintracht Frankfurt,1,2,2017-12-03 14:30:00,,None
+179736,20,SavedShot,0.8009999847412109,0.710999984741211,0.023787399753928185,Maximilian Mittelstädt,a,419,OpenPlay,2017,LeftFoot,8392,Augsburg,Hertha Berlin,1,1,2017-12-10 17:00:00,Vedad Ibisevic,Pass
+201403,41,SavedShot,0.749000015258789,0.38299999237060545,0.012516300193965435,Maximilian Mittelstädt,a,419,SetPiece,2017,LeftFoot,8500,Hamburger SV,Hertha Berlin,1,2,2018-03-17 14:30:00,,None
+201411,58,MissedShots,0.775,0.67,0.016910400241613388,Maximilian Mittelstädt,a,419,FromCorner,2017,LeftFoot,8500,Hamburger SV,Hertha Berlin,1,2,2018-03-17 14:30:00,,None
+204529,60,SavedShot,0.8009999847412109,0.46099998474121096,0.01852310076355934,Maximilian Mittelstädt,h,419,FromCorner,2017,RightFoot,8505,Hertha Berlin,Wolfsburg,0,0,2018-03-31 14:30:00,,Aerial
+213104,78,MissedShots,0.794000015258789,0.6170000076293946,0.02358279936015606,Maximilian Mittelstädt,a,419,FromCorner,2017,LeftFoot,8548,Hannover 96,Hertha Berlin,3,1,2018-05-05 14:30:00,,None
+255689,76,BlockedShot,0.8440000152587891,0.7609999847412109,0.020490000024437904,Maximilian Mittelstädt,a,419,OpenPlay,2018,LeftFoot,10410,Borussia Dortmund,Hertha Berlin,2,2,2018-10-27 13:30:00,,None
+256287,15,MissedShots,0.93,0.555,0.04590870067477226,Maximilian Mittelstädt,a,419,FromCorner,2018,Head,10434,Fortuna Duesseldorf,Hertha Berlin,4,1,2018-11-10 14:30:00,Valentino Lazaro,Aerial
+256763,86,SavedShot,0.8919999694824219,0.620999984741211,0.10123900324106216,Maximilian Mittelstädt,a,419,OpenPlay,2018,LeftFoot,10451,Hannover 96,Hertha Berlin,0,2,2018-12-01 14:30:00,Pal Dardai,Cross
+256764,92,BlockedShot,0.8959999847412109,0.674000015258789,0.1073869988322258,Maximilian Mittelstädt,a,419,OpenPlay,2018,LeftFoot,10451,Hannover 96,Hertha Berlin,0,2,2018-12-01 14:30:00,Arne Maier,Pass
+256888,8,MissedShots,0.909000015258789,0.664000015258789,0.0952410027384758,Maximilian Mittelstädt,a,419,OpenPlay,2018,LeftFoot,10466,VfB Stuttgart,Hertha Berlin,2,1,2018-12-15 14:30:00,,TakeOn
+256890,13,MissedShots,0.8769999694824219,0.75,0.02915710024535656,Maximilian Mittelstädt,a,419,OpenPlay,2018,LeftFoot,10466,VfB Stuttgart,Hertha Berlin,2,1,2018-12-15 14:30:00,Vedad Ibisevic,Pass
+256892,25,MissedShots,0.865999984741211,0.6530000305175782,0.009289019741117954,Maximilian Mittelstädt,a,419,OpenPlay,2018,Head,10466,VfB Stuttgart,Hertha Berlin,2,1,2018-12-15 14:30:00,Mathew Leckie,Aerial
+256896,37,Goal,0.9119999694824219,0.595999984741211,0.4078980088233948,Maximilian Mittelstädt,a,419,OpenPlay,2018,LeftFoot,10466,VfB Stuttgart,Hertha Berlin,2,1,2018-12-15 14:30:00,,None
+256899,52,MissedShots,0.7440000152587891,0.4929999923706055,0.030089300125837326,Maximilian Mittelstädt,a,419,OpenPlay,2018,LeftFoot,10466,VfB Stuttgart,Hertha Berlin,2,1,2018-12-15 14:30:00,,BallRecovery
+257461,22,SavedShot,0.745999984741211,0.5429999923706055,0.02341490052640438,Maximilian Mittelstädt,h,419,OpenPlay,2018,LeftFoot,10480,Hertha Berlin,Augsburg,2,2,2018-12-18 19:30:00,Arne Maier,Pass
+257462,23,MissedShots,0.9009999847412109,0.67,0.056670401245355606,Maximilian Mittelstädt,h,419,OpenPlay,2018,LeftFoot,10480,Hertha Berlin,Augsburg,2,2,2018-12-18 19:30:00,Mathew Leckie,Chipped
+257476,72,SavedShot,0.9130000305175782,0.61,0.28417301177978516,Maximilian Mittelstädt,h,419,SetPiece,2018,LeftFoot,10480,Hertha Berlin,Augsburg,2,2,2018-12-18 19:30:00,Valentino Lazaro,Chipped
+257481,92,BlockedShot,0.8159999847412109,0.5709999847412109,0.03989709913730621,Maximilian Mittelstädt,h,419,OpenPlay,2018,RightFoot,10480,Hertha Berlin,Augsburg,2,2,2018-12-18 19:30:00,,Rebound
+281085,11,BlockedShot,0.935,0.7130000305175781,0.05156970024108887,Maximilian Mittelstädt,a,419,OpenPlay,2018,LeftFoot,10520,Borussia M.Gladbach,Hertha Berlin,0,3,2019-02-09 14:30:00,Davie Selke,Pass
+281842,51,BlockedShot,0.855999984741211,0.6619999694824219,0.048896100372076035,Maximilian Mittelstädt,h,419,OpenPlay,2018,LeftFoot,10549,Hertha Berlin,Mainz 05,2,1,2019-03-02 14:30:00,,None
+284380,54,MissedShots,0.9059999847412109,0.7280000305175781,0.031047699972987175,Maximilian Mittelstädt,a,419,FromCorner,2018,LeftFoot,10560,Freiburg,Hertha Berlin,2,1,2019-03-09 14:30:00,Ondrej Duda,Cross
+286381,3,SavedShot,0.8009999847412109,0.7080000305175781,0.02576960064470768,Maximilian Mittelstädt,h,419,OpenPlay,2018,RightFoot,10568,Hertha Berlin,Borussia Dortmund,2,3,2019-03-16 17:30:00,Davie Selke,LayOff
+286401,61,MissedShots,0.7959999847412109,0.685,0.034658901393413544,Maximilian Mittelstädt,h,419,FromCorner,2018,LeftFoot,10568,Hertha Berlin,Borussia Dortmund,2,3,2019-03-16 17:30:00,Arne Maier,Pass
+287773,47,BlockedShot,0.7730000305175782,0.759000015258789,0.008076859638094902,Maximilian Mittelstädt,a,419,OpenPlay,2018,LeftFoot,10573,RasenBallsport Leipzig,Hertha Berlin,5,0,2019-03-30 17:30:00,Marko Grujic,Chipped
+294021,32,MissedShots,0.8859999847412109,0.705999984741211,0.047459300607442856,Maximilian Mittelstädt,a,419,OpenPlay,2018,LeftFoot,10589,Hoffenheim,Hertha Berlin,2,0,2019-04-14 12:30:00,Salomon Kalou,Pass
+294030,68,MissedShots,0.755,0.5309999847412109,0.02164199948310852,Maximilian Mittelstädt,a,419,OpenPlay,2018,LeftFoot,10589,Hoffenheim,Hertha Berlin,2,0,2019-04-14 12:30:00,,None
+297281,55,BlockedShot,0.764000015258789,0.5840000152587891,0.025290800258517265,Maximilian Mittelstädt,a,419,OpenPlay,2018,LeftFoot,10611,Eintracht Frankfurt,Hertha Berlin,0,0,2019-04-27 14:30:00,Per Skjelbred,Pass
+299171,14,SavedShot,0.7919999694824219,0.5990000152587891,0.03496060147881508,Maximilian Mittelstädt,h,419,OpenPlay,2018,LeftFoot,10620,Hertha Berlin,VfB Stuttgart,3,1,2019-05-04 14:30:00,Salomon Kalou,Pass
+313181,27,MissedShots,0.88,0.7030000305175781,0.028355199843645096,Maximilian Mittelstädt,h,419,OpenPlay,2019,LeftFoot,12420,Hertha Berlin,Wolfsburg,0,3,2019-08-25 17:00:00,Lukas Klünter,Cross
+323487,3,SavedShot,0.8119999694824219,0.545,0.014848199672996998,Maximilian Mittelstädt,a,419,OpenPlay,2019,Head,12456,FC Cologne,Hertha Berlin,0,4,2019-09-29 16:00:00,,None
+323745,33,MissedShots,0.915,0.6819999694824219,0.04740019887685776,Maximilian Mittelstädt,h,419,OpenPlay,2019,LeftFoot,12459,Hertha Berlin,Fortuna Duesseldorf,3,1,2019-10-04 19:30:00,Vladimir Darida,Chipped
+323753,60,BlockedShot,0.754000015258789,0.629000015258789,0.013377400115132332,Maximilian Mittelstädt,h,419,FromCorner,2019,LeftFoot,12459,Hertha Berlin,Fortuna Duesseldorf,3,1,2019-10-04 19:30:00,,Aerial
+325464,15,MissedShots,0.77,0.645,0.017412099987268448,Maximilian Mittelstädt,a,419,FromCorner,2019,LeftFoot,12472,Werder Bremen,Hertha Berlin,1,1,2019-10-19 14:30:00,,None
+330569,31,Goal,0.765,0.5629999923706055,0.02857629954814911,Maximilian Mittelstädt,h,419,OpenPlay,2019,RightFoot,12494,Hertha Berlin,RasenBallsport Leipzig,2,4,2019-11-09 14:30:00,Dodi Lukebakio,TakeOn
+333516,64,BlockedShot,0.8690000152587891,0.6459999847412109,0.059362899512052536,Maximilian Mittelstädt,h,419,OpenPlay,2019,LeftFoot,12513,Hertha Berlin,Borussia Dortmund,1,2,2019-11-30 14:30:00,Dodi Lukebakio,Pass
+336937,83,BlockedShot,0.7069999694824218,0.5629999923706055,0.01883609965443611,Maximilian Mittelstädt,h,419,OpenPlay,2019,LeftFoot,12533,Hertha Berlin,Freiburg,1,0,2019-12-14 14:30:00,Vladimir Darida,Pass
+336939,85,MissedShots,0.8080000305175781,0.6990000152587891,0.031717699021101,Maximilian Mittelstädt,h,419,OpenPlay,2019,LeftFoot,12533,Hertha Berlin,Freiburg,1,0,2019-12-14 14:30:00,Marius Wolf,Pass
+355685,19,BlockedShot,0.735,0.6990000152587891,0.015109100379049778,Maximilian Mittelstädt,a,419,OpenPlay,2019,LeftFoot,12569,Wolfsburg,Hertha Berlin,1,2,2020-01-25 14:30:00,Santiago Ascacibar,Pass
+356531,94,MissedShots,0.884000015258789,0.7080000305175781,0.04205229878425598,Maximilian Mittelstädt,h,419,OpenPlay,2019,LeftFoot,12578,Hertha Berlin,Schalke 04,0,0,2020-01-31 19:30:00,Javairo Dilrosun,Pass
+357968,43,MissedShots,0.784000015258789,0.6569999694824219,0.021960200741887093,Maximilian Mittelstädt,h,419,OpenPlay,2019,LeftFoot,12589,Hertha Berlin,Mainz 05,1,3,2020-02-08 14:30:00,,BallTouch
+358922,46,MissedShots,0.7519999694824219,0.5990000152587891,0.01668969914317131,Maximilian Mittelstädt,a,419,FromCorner,2019,LeftFoot,12599,Paderborn,Hertha Berlin,1,2,2020-02-15 14:30:00,,None
+359844,46,BlockedShot,0.825999984741211,0.5640000152587891,0.05834589898586273,Maximilian Mittelstädt,h,419,OpenPlay,2019,LeftFoot,12607,Hertha Berlin,FC Cologne,0,5,2020-02-22 14:30:00,Dodi Lukebakio,Pass
+359856,77,BlockedShot,0.8859999847412109,0.7140000152587891,0.04743019863963127,Maximilian Mittelstädt,h,419,OpenPlay,2019,LeftFoot,12607,Hertha Berlin,FC Cologne,0,5,2020-02-22 14:30:00,Marko Grujic,Pass
+360554,53,BlockedShot,0.855999984741211,0.6780000305175782,0.04712139815092087,Maximilian Mittelstädt,a,419,OpenPlay,2019,LeftFoot,12614,Fortuna Duesseldorf,Hertha Berlin,3,3,2020-02-28 19:30:00,Vladimir Darida,Pass
+361715,59,SavedShot,0.8469999694824218,0.7319999694824219,0.029391400516033173,Maximilian Mittelstädt,h,419,OpenPlay,2019,LeftFoot,12623,Hertha Berlin,Werder Bremen,2,2,2020-03-07 14:30:00,Marius Wolf,Pass
+362974,45,SavedShot,0.86,0.6469999694824219,0.06289800256490707,Maximilian Mittelstädt,a,419,OpenPlay,2019,LeftFoot,12632,Hoffenheim,Hertha Berlin,0,3,2020-05-16 13:30:00,Matheus Cunha,Pass
+362976,48,MissedShots,0.8630000305175781,0.629000015258789,0.037754498422145844,Maximilian Mittelstädt,a,419,OpenPlay,2019,LeftFoot,12632,Hoffenheim,Hertha Berlin,0,3,2020-05-16 13:30:00,Peter Pekarík,Cross
+362986,63,SavedShot,0.8780000305175781,0.6659999847412109,0.0893751010298729,Maximilian Mittelstädt,a,419,OpenPlay,2019,LeftFoot,12632,Hoffenheim,Hertha Berlin,0,3,2020-05-16 13:30:00,Vedad Ibisevic,Pass
+362994,83,BlockedShot,0.8369999694824218,0.6859999847412109,0.09240420162677765,Maximilian Mittelstädt,a,419,OpenPlay,2019,LeftFoot,12632,Hoffenheim,Hertha Berlin,0,3,2020-05-16 13:30:00,,BallRecovery
+363465,49,MissedShots,0.765,0.5870000076293945,0.026144299656152725,Maximilian Mittelstädt,a,419,OpenPlay,2019,LeftFoot,12653,RasenBallsport Leipzig,Hertha Berlin,2,2,2020-05-27 16:30:00,Vladimir Darida,Pass
+378552,15,SavedShot,0.6609999847412109,0.6609999847412109,0.009729670360684395,Maximilian Mittelstädt,h,419,OpenPlay,2020,LeftFoot,14182,Hertha Berlin,Eintracht Frankfurt,1,3,2020-09-25 18:30:00,,BallRecovery
+378558,47,MissedShots,0.6840000152587891,0.5790000152587891,0.008408620022237301,Maximilian Mittelstädt,h,419,SetPiece,2020,LeftFoot,14182,Hertha Berlin,Eintracht Frankfurt,1,3,2020-09-25 18:30:00,,None
+381741,26,BlockedShot,0.7180000305175781,0.5070000076293946,0.016211800277233124,Maximilian Mittelstädt,h,419,OpenPlay,2020,LeftFoot,15169,Hertha Berlin,VfB Stuttgart,0,2,2020-10-17 13:30:00,Mathew Leckie,Pass
+381754,62,MissedShots,0.8719999694824219,0.7530000305175781,0.027053900063037872,Maximilian Mittelstädt,h,419,OpenPlay,2020,LeftFoot,15169,Hertha Berlin,VfB Stuttgart,0,2,2020-10-17 13:30:00,Matheus Cunha,Pass
+385321,72,MissedShots,0.7069999694824218,0.5,0.01344900019466877,Maximilian Mittelstädt,h,419,FromCorner,2020,LeftFoot,15192,Hertha Berlin,Wolfsburg,1,1,2020-11-01 17:00:00,,None
+394603,35,BlockedShot,0.870999984741211,0.6469999694824219,0.06309390068054199,Maximilian Mittelstädt,a,419,OpenPlay,2020,RightFoot,15252,Freiburg,Hertha Berlin,4,1,2020-12-20 14:30:00,Dodi Lukebakio,TakeOn
+398437,39,SavedShot,0.7330000305175781,0.6480000305175782,0.019199300557374954,Maximilian Mittelstädt,a,419,OpenPlay,2020,LeftFoot,15274,Arminia Bielefeld,Hertha Berlin,1,0,2021-01-10 17:00:00,Vladimir Darida,Pass
+398452,83,BlockedShot,0.8090000152587891,0.4929999923706055,0.037279900163412094,Maximilian Mittelstädt,a,419,FromCorner,2020,LeftFoot,15274,Arminia Bielefeld,Hertha Berlin,1,0,2021-01-10 17:00:00,,None
+399768,29,BlockedShot,0.7040000152587891,0.5529999923706055,0.0203940998762846,Maximilian Mittelstädt,h,419,FromCorner,2020,LeftFoot,15288,Hertha Berlin,Hoffenheim,0,3,2021-01-19 19:30:00,Matheus Cunha,Pass
+400566,18,MissedShots,0.830999984741211,0.525,0.011986900120973587,Maximilian Mittelstädt,h,419,OpenPlay,2020,Head,15297,Hertha Berlin,Werder Bremen,1,4,2021-01-23 17:30:00,Jhon Córdoba,Cross
+400570,34,SavedShot,0.7980000305175782,0.6179999923706054,0.03509970009326935,Maximilian Mittelstädt,h,419,OpenPlay,2020,LeftFoot,15297,Hertha Berlin,Werder Bremen,1,4,2021-01-23 17:30:00,Luca Netz,Pass
+406048,19,MissedShots,0.870999984741211,0.6669999694824219,0.059290699660778046,Maximilian Mittelstädt,h,419,OpenPlay,2020,LeftFoot,15333,Hertha Berlin,RasenBallsport Leipzig,0,3,2021-02-21 14:30:00,Krzysztof Piatek,BallTouch
+406050,22,MissedShots,0.7619999694824219,0.7380000305175781,0.013509600423276424,Maximilian Mittelstädt,h,419,FromCorner,2020,LeftFoot,15333,Hertha Berlin,RasenBallsport Leipzig,0,3,2021-02-21 14:30:00,,None
+406057,50,SavedShot,0.7130000305175781,0.539000015258789,0.015143799595534801,Maximilian Mittelstädt,h,419,OpenPlay,2020,RightFoot,15333,Hertha Berlin,RasenBallsport Leipzig,0,3,2021-02-21 14:30:00,,Rebound
+411833,66,MissedShots,0.9019999694824219,0.24299999237060546,0.018722299486398697,Maximilian Mittelstädt,h,419,FromCorner,2020,LeftFoot,15369,Hertha Berlin,Bayer Leverkusen,3,0,2021-03-21 14:30:00,,TakeOn
+420760,7,SavedShot,0.7959999847412109,0.45799999237060546,0.04149330034852028,Maximilian Mittelstädt,h,419,OpenPlay,2020,LeftFoot,15424,Hertha Berlin,Arminia Bielefeld,0,0,2021-05-09 16:00:00,Jhon Córdoba,Pass
+434850,89,MissedShots,0.7909999847412109,0.730999984741211,0.01598379947245121,Maximilian Mittelstädt,h,419,OpenPlay,2021,LeftFoot,17572,Hertha Berlin,Freiburg,1,2,2021-10-02 13:30:00,Lucas Tousart,Chipped
+441763,75,BlockedShot,0.8640000152587891,0.6909999847412109,0.09300660341978073,Maximilian Mittelstädt,h,419,OpenPlay,2021,LeftFoot,17609,Hertha Berlin,Bayer Leverkusen,1,1,2021-11-07 14:30:00,,Rebound
+442819,43,MissedShots,0.8380000305175781,0.745999984741211,0.011683899909257889,Maximilian Mittelstädt,a,419,OpenPlay,2021,LeftFoot,17621,Union Berlin,Hertha Berlin,2,0,2021-11-20 17:30:00,,Aerial
+455552,34,MissedShots,0.779000015258789,0.6819999694824219,0.025279300287365913,Maximilian Mittelstädt,h,419,FromCorner,2021,LeftFoot,17698,Hertha Berlin,Bochum,1,1,2022-02-04 19:30:00,Vladimir Darida,Cross
+455553,40,BlockedShot,0.735999984741211,0.5129999923706055,0.026628199964761734,Maximilian Mittelstädt,h,419,OpenPlay,2021,RightFoot,17698,Hertha Berlin,Bochum,1,1,2022-02-04 19:30:00,,BallRecovery
+456916,36,MissedShots,0.8069999694824219,0.6370000076293946,0.03297080099582672,Maximilian Mittelstädt,a,419,OpenPlay,2021,LeftFoot,17705,Greuther Fuerth,Hertha Berlin,2,1,2022-02-12 14:30:00,,None
+461007,84,BlockedShot,0.8909999847412109,0.3160000038146973,0.05269009992480278,Maximilian Mittelstädt,h,419,OpenPlay,2021,LeftFoot,17735,Hertha Berlin,Eintracht Frankfurt,1,4,2022-03-05 14:30:00,Stevan Jovetic,Pass
+463994,84,MissedShots,0.7290000152587891,0.539000015258789,0.027805399149656296,Maximilian Mittelstädt,h,419,OpenPlay,2021,LeftFoot,17753,Hertha Berlin,Hoffenheim,3,0,2022-03-19 14:30:00,Marc-Oliver Kempf,HeadPass
+463995,91,MissedShots,0.9069999694824219,0.5879999923706055,0.024371100589632988,Maximilian Mittelstädt,h,419,OpenPlay,2021,Head,17753,Hertha Berlin,Hoffenheim,3,0,2022-03-19 14:30:00,,Aerial
+465077,1,MissedShots,0.8519999694824218,0.7119999694824218,0.0340317003428936,Maximilian Mittelstädt,a,419,OpenPlay,2021,LeftFoot,17765,Bayer Leverkusen,Hertha Berlin,2,1,2022-04-02 13:30:00,,None
+470752,92,MissedShots,0.845,0.7030000305175781,0.041551798582077026,Maximilian Mittelstädt,h,419,OpenPlay,2021,LeftFoot,17789,Hertha Berlin,VfB Stuttgart,2,0,2022-04-24 15:30:00,Niklas Stark,Pass
+481534,27,BlockedShot,0.765,0.735,0.015368900261819363,Maximilian Mittelstädt,a,419,OpenPlay,2022,LeftFoot,19360,Borussia M.Gladbach,Hertha Berlin,1,0,2022-08-19 18:30:00,,BallTouch
+493233,57,BlockedShot,0.774000015258789,0.4779999923706055,0.015795599669218063,Maximilian Mittelstädt,a,419,FromCorner,2022,LeftFoot,19424,RasenBallsport Leipzig,Hertha Berlin,3,2,2022-10-15 16:30:00,,Aerial
+500012,80,BlockedShot,0.715999984741211,0.7290000152587891,0.01851459965109825,Maximilian Mittelstädt,h,419,OpenPlay,2022,RightFoot,19474,Hertha Berlin,FC Cologne,2,0,2022-11-12 14:30:00,Jean-Paul Boëtius,TakeOn
+505339,24,MissedShots,0.7980000305175782,0.6379999923706055,0.01585409976541996,Maximilian Mittelstädt,h,419,FromCorner,2022,LeftFoot,19492,Hertha Berlin,Wolfsburg,0,5,2023-01-24 19:30:00,,Aerial
+514922,33,SavedShot,0.8019999694824219,0.6919999694824219,0.02249320037662983,Maximilian Mittelstädt,a,419,OpenPlay,2022,LeftFoot,19562,Hoffenheim,Hertha Berlin,3,1,2023-03-18 14:30:00,Jessic Ngankam,Tackle
+514935,80,SavedShot,0.91,0.675,0.0734815001487732,Maximilian Mittelstädt,a,419,OpenPlay,2022,LeftFoot,19562,Hoffenheim,Hertha Berlin,3,1,2023-03-18 14:30:00,Dodi Lukebakio,Pass
+543977,74,MissedShots,0.745999984741211,0.5940000152587891,0.022142985835671425,Maximilian Mittelstädt,a,419,OpenPlay,2023,LeftFoot,23129,Union Berlin,VfB Stuttgart,0,3,2023-10-21 13:30:00,Hiroki Ito,Pass
+547572,78,BlockedShot,0.8480000305175781,0.634000015258789,0.04779251292347908,Maximilian Mittelstädt,a,419,OpenPlay,2023,LeftFoot,23153,FC Heidenheim,VfB Stuttgart,2,0,2023-11-05 16:30:00,Chris Führich,CornerAwarded
+548315,1,MissedShots,0.7090000152587891,0.639000015258789,0.009020071476697922,Maximilian Mittelstädt,h,419,SetPiece,2023,LeftFoot,23162,VfB Stuttgart,Borussia Dortmund,2,1,2023-11-11 14:30:00,,None
+550000,55,MissedShots,0.754000015258789,0.7419999694824219,0.019188715144991875,Maximilian Mittelstädt,a,419,OpenPlay,2023,LeftFoot,23167,Eintracht Frankfurt,VfB Stuttgart,1,2,2023-11-25 17:30:00,Angelo Stiller,Pass
+551259,2,BlockedShot,0.8919999694824219,0.7419999694824219,0.029764395207166672,Maximilian Mittelstädt,h,419,OpenPlay,2023,LeftFoot,23180,VfB Stuttgart,Werder Bremen,2,0,2023-12-02 17:30:00,Silas Wamangituka,Chipped
+553566,35,MissedShots,0.8030000305175782,0.6990000152587891,0.026105163618922234,Maximilian Mittelstädt,h,419,OpenPlay,2023,LeftFoot,23189,VfB Stuttgart,Bayer Leverkusen,1,1,2023-12-10 14:30:00,Dan-Axel Zagadou,Pass
+555043,15,SavedShot,0.79,0.629000015258789,0.027708865702152252,Maximilian Mittelstädt,a,419,OpenPlay,2023,LeftFoot,23191,Bayern Munich,VfB Stuttgart,3,0,2023-12-17 18:30:00,,None
+555669,45,SavedShot,0.7180000305175781,0.7140000152587891,0.01682564988732338,Maximilian Mittelstädt,h,419,OpenPlay,2023,LeftFoot,23207,VfB Stuttgart,Augsburg,3,0,2023-12-20 19:30:00,Jamie Leweling,Pass
+559748,21,BlockedShot,0.765,0.500999984741211,0.029802093282341957,Maximilian Mittelstädt,h,419,OpenPlay,2023,LeftFoot,23235,VfB Stuttgart,RasenBallsport Leipzig,5,2,2024-01-27 14:30:00,Jamie Leweling,BallTouch
+559755,36,SavedShot,0.7919999694824219,0.674000015258789,0.032420482486486435,Maximilian Mittelstädt,h,419,OpenPlay,2023,LeftFoot,23235,VfB Stuttgart,RasenBallsport Leipzig,5,2,2024-01-27 14:30:00,Chris Führich,Pass
+559761,51,BlockedShot,0.755,0.5070000076293946,0.01862931437790394,Maximilian Mittelstädt,h,419,FromCorner,2023,LeftFoot,23235,VfB Stuttgart,RasenBallsport Leipzig,5,2,2024-01-27 14:30:00,,None
+561190,73,Goal,0.9669999694824218,0.6559999847412109,0.3246244490146637,Maximilian Mittelstädt,a,419,OpenPlay,2023,LeftFoot,23238,Freiburg,VfB Stuttgart,1,3,2024-02-03 14:30:00,Deniz Undav,Throughball
+563059,46,Goal,0.9019999694824219,0.634000015258789,0.05215611681342125,Maximilian Mittelstädt,h,419,OpenPlay,2023,LeftFoot,23253,VfB Stuttgart,Mainz 05,3,1,2024-02-11 14:30:00,Pascal Stenzel,Cross
+563797,5,BlockedShot,0.8040000152587891,0.51,0.05322698876261711,Maximilian Mittelstädt,a,419,OpenPlay,2023,RightFoot,23262,Darmstadt,VfB Stuttgart,1,2,2024-02-17 14:30:00,Atakan Karazor,Pass
+567637,77,MissedShots,0.8569999694824219,0.5879999923706055,0.08177895843982697,Maximilian Mittelstädt,h,419,OpenPlay,2023,LeftFoot,23289,VfB Stuttgart,Union Berlin,2,0,2024-03-08 19:30:00,,None
+569615,66,MissedShots,0.7230000305175781,0.615,0.013741420581936836,Maximilian Mittelstädt,a,419,FromCorner,2023,LeftFoot,23296,Hoffenheim,VfB Stuttgart,0,3,2024-03-16 17:30:00,,None
+571447,56,MissedShots,0.7430000305175781,0.49700000762939456,0.019897911697626114,Maximilian Mittelstädt,h,419,OpenPlay,2023,RightFoot,23307,VfB Stuttgart,FC Heidenheim,3,3,2024-03-31 16:30:00,Enzo Millot,Pass
+571454,80,MissedShots,0.919000015258789,0.725,0.05952853709459305,Maximilian Mittelstädt,h,419,OpenPlay,2023,LeftFoot,23307,VfB Stuttgart,FC Heidenheim,3,3,2024-03-31 16:30:00,,None
+573947,31,MissedShots,0.7319999694824219,0.48900001525878906,0.015510077588260174,Maximilian Mittelstädt,h,419,FromCorner,2023,LeftFoot,23324,VfB Stuttgart,Eintracht Frankfurt,3,0,2024-04-13 16:30:00,,None
+581657,10,SavedShot,0.950999984741211,0.7080000305175781,0.04450032860040665,Maximilian Mittelstädt,h,419,OpenPlay,2023,LeftFoot,23369,VfB Stuttgart,Borussia M.Gladbach,4,0,2024-05-18 13:30:00,Chris Führich,Pass
+581686,90,ShotOnPost,0.725999984741211,0.509000015258789,0.030049940571188927,Maximilian Mittelstädt,h,419,OpenPlay,2023,LeftFoot,23369,VfB Stuttgart,Borussia M.Gladbach,4,0,2024-05-18 13:30:00,Angelo Stiller,Pass
+589062,82,BlockedShot,0.7430000305175781,0.45599998474121095,0.029212387278676033,Maximilian Mittelstädt,h,419,FromCorner,2024,LeftFoot,27755,VfB Stuttgart,Mainz 05,3,3,2024-08-31 13:30:00,Angelo Stiller,Pass
+594032,38,MissedShots,0.915,0.6519999694824219,0.25830575823783875,Maximilian Mittelstädt,a,419,OpenPlay,2024,LeftFoot,27780,Wolfsburg,VfB Stuttgart,2,2,2024-09-28 13:30:00,Ermedin Demirovic,Pass
+594039,55,MissedShots,0.6959999847412109,0.5829999923706055,0.010815474204719067,Maximilian Mittelstädt,a,419,SetPiece,2024,LeftFoot,27780,Wolfsburg,VfB Stuttgart,2,2,2024-09-28 13:30:00,,Rebound
+594044,88,MissedShots,0.8209999847412109,0.5620000076293945,0.018337223678827286,Maximilian Mittelstädt,a,419,OpenPlay,2024,LeftFoot,27780,Wolfsburg,VfB Stuttgart,2,2,2024-09-28 13:30:00,,Aerial
+596443,7,BlockedShot,0.774000015258789,0.47200000762939454,0.03410065546631813,Maximilian Mittelstädt,h,419,FromCorner,2024,LeftFoot,27795,VfB Stuttgart,Hoffenheim,1,1,2024-10-06 17:30:00,,Rebound
+596446,32,SavedShot,0.8009999847412109,0.6659999847412109,0.026454119011759758,Maximilian Mittelstädt,h,419,OpenPlay,2024,LeftFoot,27795,VfB Stuttgart,Hoffenheim,1,1,2024-10-06 17:30:00,,None
+596447,34,MissedShots,0.8030000305175782,0.5,0.03593916445970535,Maximilian Mittelstädt,h,419,FromCorner,2024,RightFoot,27795,VfB Stuttgart,Hoffenheim,1,1,2024-10-06 17:30:00,Angelo Stiller,TakeOn
+604076,49,MissedShots,0.740999984741211,0.600999984741211,0.019846512004733086,Maximilian Mittelstädt,a,419,OpenPlay,2024,LeftFoot,27844,Werder Bremen,VfB Stuttgart,2,2,2024-11-30 14:30:00,Angelo Stiller,Pass
+605497,63,SavedShot,0.755,0.624000015258789,0.02267867885529995,Maximilian Mittelstädt,h,419,OpenPlay,2024,LeftFoot,27851,VfB Stuttgart,Union Berlin,3,2,2024-12-06 19:30:00,Angelo Stiller,Pass
+607528,19,Goal,0.919000015258789,0.6759999847412109,0.2631366550922394,Maximilian Mittelstädt,a,419,OpenPlay,2024,LeftFoot,27861,FC Heidenheim,VfB Stuttgart,1,3,2024-12-15 14:30:00,Nick Woltemade,Pass
+607537,51,MissedShots,0.795,0.6370000076293946,0.022171759977936745,Maximilian Mittelstädt,a,419,FromCorner,2024,LeftFoot,27861,FC Heidenheim,VfB Stuttgart,1,3,2024-12-15 14:30:00,,None
+608339,57,MissedShots,0.9340000152587891,0.69,0.04968107491731644,Maximilian Mittelstädt,h,419,OpenPlay,2024,LeftFoot,27869,VfB Stuttgart,St. Pauli,0,1,2024-12-21 14:30:00,Yannik Keitel,Chipped
+627775,28,MissedShots,0.765,0.5640000152587891,0.019653115421533585,Maximilian Mittelstädt,h,419,FromCorner,2024,LeftFoot,27995,VfB Stuttgart,Werder Bremen,1,2,2025-04-13 13:30:00,,None
+628831,32,BlockedShot,0.7909999847412109,0.685,0.042120348662137985,Maximilian Mittelstädt,a,419,OpenPlay,2024,LeftFoot,28010,Union Berlin,VfB Stuttgart,4,4,2025-04-19 16:30:00,Leonidas Stergiou,TakeOn
+628833,36,MissedShots,0.78,0.6179999923706054,0.026885757222771645,Maximilian Mittelstädt,a,419,OpenPlay,2024,LeftFoot,28010,Union Berlin,VfB Stuttgart,4,4,2025-04-19 16:30:00,Angelo Stiller,Pass
+628845,75,MissedShots,0.84,0.6609999847412109,0.04388444125652313,Maximilian Mittelstädt,a,419,OpenPlay,2024,LeftFoot,28010,Union Berlin,VfB Stuttgart,4,4,2025-04-19 16:30:00,,None
+629988,24,BlockedShot,0.735,0.6120000076293945,0.010351267643272877,Maximilian Mittelstädt,h,419,OpenPlay,2024,LeftFoot,28013,VfB Stuttgart,FC Heidenheim,0,1,2025-04-25 18:30:00,,Aerial
+631289,22,BlockedShot,0.784000015258789,0.67,0.02466774918138981,Maximilian Mittelstädt,a,419,OpenPlay,2024,LeftFoot,28029,St. Pauli,VfB Stuttgart,0,1,2025-05-03 13:30:00,Angelo Stiller,Pass
+631295,51,MissedShots,0.715,0.59,0.009878570213913918,Maximilian Mittelstädt,a,419,SetPiece,2024,LeftFoot,28029,St. Pauli,VfB Stuttgart,0,1,2025-05-03 13:30:00,,None
+631304,85,SavedShot,0.879000015258789,0.625,0.06703934073448181,Maximilian Mittelstädt,a,419,OpenPlay,2024,LeftFoot,28029,St. Pauli,VfB Stuttgart,0,1,2025-05-03 13:30:00,Jacob Bruun Larsen,Rebound
+633774,82,MissedShots,0.779000015258789,0.5690000152587891,0.0370071604847908,Maximilian Mittelstädt,h,419,OpenPlay,2024,LeftFoot,28031,VfB Stuttgart,Augsburg,4,0,2025-05-11 17:30:00,Nick Woltemade,Pass
+638788,26,MissedShots,0.8169999694824219,0.5370000076293945,0.04594109207391739,Maximilian Mittelstädt,a,419,SetPiece,2025,RightFoot,30227,Union Berlin,VfB Stuttgart,2,1,2025-08-23 13:30:00,,None
+638798,49,SavedShot,0.7240000152587891,0.4329999923706055,0.014401075430214405,Maximilian Mittelstädt,a,419,FromCorner,2025,LeftFoot,30227,Union Berlin,VfB Stuttgart,2,1,2025-08-23 13:30:00,,None
+642735,74,MissedShots,0.88,0.6790000152587891,0.06118452548980713,Maximilian Mittelstädt,h,419,OpenPlay,2025,LeftFoot,30251,VfB Stuttgart,St. Pauli,2,0,2025-09-19 18:30:00,,None
+645449,76,MissedShots,0.8080000305175781,0.5679999923706055,0.0371580570936203,Maximilian Mittelstädt,a,419,SetPiece,2025,LeftFoot,30267,FC Cologne,VfB Stuttgart,1,2,2025-09-28 15:30:00,,None
+646778,61,MissedShots,0.725,0.4909999847412109,0.01411642786115408,Maximilian Mittelstädt,h,419,OpenPlay,2025,RightFoot,30275,VfB Stuttgart,FC Heidenheim,1,0,2025-10-05 13:30:00,,None
+646780,64,BlockedShot,0.879000015258789,0.6819999694824219,0.0510014072060585,Maximilian Mittelstädt,h,419,OpenPlay,2025,LeftFoot,30275,VfB Stuttgart,FC Heidenheim,1,0,2025-10-05 13:30:00,,None
+647468,36,SavedShot,0.805,0.534000015258789,0.03428785875439644,Maximilian Mittelstädt,a,419,FromCorner,2025,LeftFoot,30286,Wolfsburg,VfB Stuttgart,0,3,2025-10-18 13:30:00,,None
+647473,54,Goal,0.9080000305175782,0.47900001525878905,0.46481120586395264,Maximilian Mittelstädt,a,419,OpenPlay,2025,LeftFoot,30286,Wolfsburg,VfB Stuttgart,0,3,2025-10-18 13:30:00,,Rebound
+647474,57,SavedShot,0.8769999694824219,0.69,0.06927981227636337,Maximilian Mittelstädt,a,419,OpenPlay,2025,LeftFoot,30286,Wolfsburg,VfB Stuttgart,0,3,2025-10-18 13:30:00,Bilal El Khannouss,Pass
+650680,17,SavedShot,0.710999984741211,0.5209999847412109,0.010051198303699493,Maximilian Mittelstädt,a,419,SetPiece,2025,LeftFoot,30301,RasenBallsport Leipzig,VfB Stuttgart,3,1,2025-11-01 14:30:00,,None
+653004,17,Goal,0.885,0.5,0.75777667760849,Maximilian Mittelstädt,h,419,Penalty,2025,LeftFoot,30311,VfB Stuttgart,Augsburg,3,2,2025-11-09 16:30:00,,Standard
+653017,46,BlockedShot,0.9030000305175782,0.62,0.043726302683353424,Maximilian Mittelstädt,h,419,FromCorner,2025,LeftFoot,30311,VfB Stuttgart,Augsburg,3,2,2025-11-09 16:30:00,Angelo Stiller,Cross
+656844,8,MissedShots,0.8630000305175781,0.664000015258789,0.04546681419014931,Maximilian Mittelstädt,h,419,OpenPlay,2025,LeftFoot,30332,VfB Stuttgart,Bayern Munich,0,5,2025-12-06 14:30:00,,Rebound
+656850,28,BlockedShot,0.8580000305175781,0.610999984741211,0.06642773002386093,Maximilian Mittelstädt,h,419,OpenPlay,2025,LeftFoot,30332,VfB Stuttgart,Bayern Munich,0,5,2025-12-06 14:30:00,Jamie Leweling,Pass
+659172,68,SavedShot,0.9059999847412109,0.669000015258789,0.06036454811692238,Maximilian Mittelstädt,h,419,SetPiece,2025,LeftFoot,30357,VfB Stuttgart,Hoffenheim,0,0,2025-12-20 14:30:00,Jamie Leweling,BallTouch
+662469,28,Goal,0.885,0.5,0.75777667760849,Maximilian Mittelstädt,a,419,Penalty,2025,LeftFoot,30359,Bayer Leverkusen,VfB Stuttgart,1,4,2026-01-10 17:30:00,,Standard
+662921,33,MissedShots,0.7340000152587891,0.40200000762939453,0.01484140194952488,Maximilian Mittelstädt,h,419,FromCorner,2025,LeftFoot,30375,VfB Stuttgart,Eintracht Frankfurt,3,2,2026-01-13 17:30:00,,None
+664109,25,MissedShots,0.7180000305175781,0.6379999923706055,0.010369857773184776,Maximilian Mittelstädt,h,419,OpenPlay,2025,LeftFoot,30383,VfB Stuttgart,Union Berlin,1,1,2026-01-18 14:30:00,Angelo Stiller,Chipped
+665324,83,SavedShot,0.7909999847412109,0.6609999847412109,0.04417327046394348,Maximilian Mittelstädt,a,419,OpenPlay,2025,LeftFoot,30388,Borussia M.Gladbach,VfB Stuttgart,0,3,2026-01-25 14:30:00,Julian Chabot,Pass
+670458,43,Goal,0.885,0.5,0.75777667760849,Maximilian Mittelstädt,a,419,Penalty,2025,LeftFoot,30425,FC Heidenheim,VfB Stuttgart,3,3,2026-02-22 18:30:00,,Standard
+670461,52,MissedShots,0.805,0.68,0.028226500377058983,Maximilian Mittelstädt,a,419,OpenPlay,2025,LeftFoot,30425,FC Heidenheim,VfB Stuttgart,3,3,2026-02-22 18:30:00,Chema Andres,Pass
+672585,3,SavedShot,0.9419999694824219,0.3129999923706055,0.04907821863889694,Maximilian Mittelstädt,a,419,FromCorner,2025,LeftFoot,30444,Mainz 05,VfB Stuttgart,2,2,2026-03-07 14:30:00,Deniz Undav,Pass
+674747,85,MissedShots,0.8540000152587891,0.6630000305175782,0.06843259930610657,Maximilian Mittelstädt,h,419,OpenPlay,2025,LeftFoot,30456,VfB Stuttgart,RasenBallsport Leipzig,1,0,2026-03-15 18:30:00,Deniz Undav,BallTouch
+676765,7,BlockedShot,0.7440000152587891,0.7440000152587891,0.01715795323252678,Maximilian Mittelstädt,h,419,OpenPlay,2025,LeftFoot,30473,VfB Stuttgart,Borussia Dortmund,0,2,2026-04-04 16:30:00,Angelo Stiller,Pass
+678561,50,SavedShot,0.9630000305175781,0.6819999694824219,0.0830192118883133,Maximilian Mittelstädt,h,419,OpenPlay,2025,LeftFoot,30483,VfB Stuttgart,Hamburger SV,4,0,2026-04-12 15:30:00,Chris Führich,Pass
+678566,55,Goal,0.735,0.595,0.024387452751398087,Maximilian Mittelstädt,h,419,FromCorner,2025,LeftFoot,30483,VfB Stuttgart,Hamburger SV,4,0,2026-04-12 15:30:00,Chris Führich,Pass
+678567,58,SavedShot,0.795,0.35400001525878905,0.08717141300439835,Maximilian Mittelstädt,h,419,DirectFreekick,2025,LeftFoot,30483,VfB Stuttgart,Hamburger SV,4,0,2026-04-12 15:30:00,,Standard
+681453,30,SavedShot,0.7909999847412109,0.735,0.056550294160842896,Maximilian Mittelstädt,h,419,DirectFreekick,2025,LeftFoot,30501,VfB Stuttgart,Werder Bremen,1,1,2026-04-26 13:30:00,,Standard
+683636,6,MissedShots,0.7969999694824219,0.6029999923706054,0.03828476741909981,Maximilian Mittelstädt,h,419,OpenPlay,2025,LeftFoot,30519,VfB Stuttgart,Bayer Leverkusen,3,1,2026-05-09 13:30:00,Angelo Stiller,Pass
+683650,51,Goal,0.885,0.5,0.75777667760849,Maximilian Mittelstädt,h,419,Penalty,2025,LeftFoot,30519,VfB Stuttgart,Bayer Leverkusen,3,1,2026-05-09 13:30:00,,Standard
+683652,53,BlockedShot,0.919000015258789,0.6079999923706054,0.38324472308158875,Maximilian Mittelstädt,h,419,OpenPlay,2025,LeftFoot,30519,VfB Stuttgart,Bayer Leverkusen,3,1,2026-05-09 13:30:00,Chris Führich,Pass

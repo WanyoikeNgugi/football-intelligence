@@ -1,0 +1,13 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+480212,29,SavedShot,0.755,0.3659999847412109,0.017364200204610825,Jordi Osei-Tutu,a,6723,OpenPlay,2022,LeftFoot,19355,Hoffenheim,Bochum,3,2,2022-08-13 13:30:00,Philipp Hofmann,HeadPass
+485731,21,MissedShots,0.7230000305175781,0.7030000305175781,0.00928077008575201,Jordi Osei-Tutu,h,6723,OpenPlay,2022,RightFoot,19383,Bochum,Werder Bremen,0,2,2022-09-03 13:30:00,,None
+485754,79,MissedShots,0.7780000305175782,0.555,0.015883000567555428,Jordi Osei-Tutu,h,6723,FromCorner,2022,RightFoot,19383,Bochum,Werder Bremen,0,2,2022-09-03 13:30:00,,Aerial
+487634,92,MissedShots,0.8530000305175781,0.710999984741211,0.03024910017848015,Jordi Osei-Tutu,a,6723,OpenPlay,2022,RightFoot,19393,Schalke 04,Bochum,3,1,2022-09-10 16:30:00,Erhan Masovic,Pass
+491452,93,SavedShot,0.865,0.29399999618530276,0.05240840092301369,Jordi Osei-Tutu,h,6723,OpenPlay,2022,LeftFoot,19419,Bochum,Eintracht Frankfurt,3,0,2022-10-08 13:30:00,Silvère Ganvoula,Pass
+495683,42,SavedShot,0.8159999847412109,0.5479999923706055,0.07313720136880875,Jordi Osei-Tutu,h,6723,OpenPlay,2022,LeftFoot,19438,Bochum,Union Berlin,2,1,2022-10-23 13:30:00,Philipp Förster,TakeOn
+495687,47,MissedShots,0.835999984741211,0.4159999847412109,0.07886289805173874,Jordi Osei-Tutu,h,6723,OpenPlay,2022,LeftFoot,19438,Bochum,Union Berlin,2,1,2022-10-23 13:30:00,Christopher Antwi-Adjei,Pass
+495689,61,ShotOnPost,0.8340000152587891,0.525,0.09638310223817825,Jordi Osei-Tutu,h,6723,OpenPlay,2022,RightFoot,19438,Bochum,Union Berlin,2,1,2022-10-23 13:30:00,Philipp Förster,Pass
+497944,46,SavedShot,0.9009999847412109,0.625999984741211,0.25688400864601135,Jordi Osei-Tutu,a,6723,OpenPlay,2022,LeftFoot,19457,Borussia Dortmund,Bochum,3,0,2022-11-05 14:30:00,Kevin Stöger,Pass
+505469,83,MissedShots,0.8730000305175781,0.44299999237060544,0.019086400046944618,Jordi Osei-Tutu,a,6723,SetPiece,2022,Head,19487,Bayer Leverkusen,Bochum,2,0,2023-01-25 19:30:00,,None
+509491,71,SavedShot,0.8730000305175781,0.3089999961853027,0.04835529997944832,Jordi Osei-Tutu,h,6723,OpenPlay,2022,RightFoot,19528,Bochum,Freiburg,0,2,2023-02-18 14:30:00,Christopher Antwi-Adjei,Pass
+510797,24,BlockedShot,0.855,0.33099998474121095,0.04701419919729233,Jordi Osei-Tutu,a,6723,OpenPlay,2022,LeftFoot,19539,Werder Bremen,Bochum,3,0,2023-02-25 14:30:00,,None

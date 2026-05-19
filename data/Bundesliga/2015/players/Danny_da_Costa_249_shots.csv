@@ -1,0 +1,95 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+80341,87,MissedShots,0.7930000305175782,0.4620000076293945,0.029373599216341972,Danny da Costa,a,249,OpenPlay,2015,LeftFoot,1185,Borussia Dortmund,Ingolstadt,2,0,2016-01-30 18:30:00,Romain Brègerie,TakeOn
+82392,77,BlockedShot,0.8640000152587891,0.29100000381469726,0.03440000116825104,Danny da Costa,a,249,OpenPlay,2015,LeftFoot,1260,Hertha Berlin,Ingolstadt,2,1,2016-03-19 18:30:00,Alfredo Morales,Pass
+82590,33,MissedShots,0.7719999694824219,0.47900001525878905,0.022156400606036186,Danny da Costa,h,249,FromCorner,2015,RightFoot,1267,Ingolstadt,Schalke 04,3,0,2016-04-02 17:30:00,,None
+82834,72,SavedShot,0.8780000305175781,0.35700000762939454,0.07311999797821045,Danny da Costa,h,249,OpenPlay,2015,RightFoot,1274,Ingolstadt,Borussia M.Gladbach,1,0,2016-04-09 17:30:00,Pascal Groß,Pass
+83278,59,BlockedShot,0.789000015258789,0.38,0.04446160048246384,Danny da Costa,h,249,OpenPlay,2015,RightFoot,1296,Ingolstadt,Hannover 96,2,2,2016-04-23 17:30:00,,None
+83868,24,MissedShots,0.7680000305175781,0.315,0.025692500174045563,Danny da Costa,a,249,OpenPlay,2015,RightFoot,1323,Bayer Leverkusen,Ingolstadt,3,2,2016-05-14 17:30:00,,Tackle
+195068,86,SavedShot,0.955999984741211,0.33099998474121095,0.08522109687328339,Danny da Costa,h,249,OpenPlay,2017,RightFoot,8456,Eintracht Frankfurt,FC Cologne,4,2,2018-02-10 14:30:00,,BallTouch
+197000,55,MissedShots,0.91,0.3820000076293945,0.13775299489498138,Danny da Costa,h,249,OpenPlay,2017,RightFoot,8462,Eintracht Frankfurt,RasenBallsport Leipzig,2,1,2018-02-19 19:30:00,Marius Wolf,Throughball
+197246,8,ShotOnPost,0.7219999694824218,0.34200000762939453,0.016137700527906418,Danny da Costa,a,249,OpenPlay,2017,LeftFoot,8471,VfB Stuttgart,Eintracht Frankfurt,1,0,2018-02-24 14:30:00,Mijat Gacinovic,Pass
+198705,12,MissedShots,0.9080000305175782,0.56,0.020104000344872475,Danny da Costa,h,249,FromCorner,2017,Head,8480,Eintracht Frankfurt,Hannover 96,1,0,2018-03-03 14:30:00,Jonathan de Guzmán,Aerial
+198708,38,Goal,0.9290000152587891,0.519000015258789,0.36668500304222107,Danny da Costa,h,249,FromCorner,2017,Head,8480,Eintracht Frankfurt,Hannover 96,1,0,2018-03-03 14:30:00,Jonathan de Guzmán,Cross
+198718,78,MissedShots,0.8969999694824219,0.39799999237060546,0.04363660141825676,Danny da Costa,h,249,SetPiece,2017,Head,8480,Eintracht Frankfurt,Hannover 96,1,0,2018-03-03 14:30:00,Jonathan de Guzmán,Cross
+204554,77,MissedShots,0.9719999694824218,0.3820000076293945,0.0622050017118454,Danny da Costa,a,249,OpenPlay,2017,RightFoot,8504,Werder Bremen,Eintracht Frankfurt,2,1,2018-04-01 14:30:00,Taleb Tawatha,Cross
+207366,62,BlockedShot,0.919000015258789,0.46299999237060546,0.06285060197114944,Danny da Costa,h,249,OpenPlay,2017,Head,8516,Eintracht Frankfurt,Hoffenheim,1,1,2018-04-08 16:00:00,Jetro Willems,Aerial
+214606,76,MissedShots,0.9519999694824218,0.4540000152587891,0.1172259971499443,Danny da Costa,a,249,FromCorner,2017,RightFoot,8560,Schalke 04,Eintracht Frankfurt,1,0,2018-05-12 14:30:00,,None
+220011,38,MissedShots,0.7730000305175782,0.27299999237060546,0.022231699898838997,Danny da Costa,a,249,OpenPlay,2018,RightFoot,10342,Freiburg,Eintracht Frankfurt,0,2,2018-08-25 16:30:00,Gelson Fernandes,Pass
+220014,45,MissedShots,0.750999984741211,0.37900001525878907,0.026819700375199318,Danny da Costa,a,249,OpenPlay,2018,RightFoot,10342,Freiburg,Eintracht Frankfurt,0,2,2018-08-25 16:30:00,,BallRecovery
+225970,75,MissedShots,0.88,0.38,0.08724690228700638,Danny da Costa,h,249,OpenPlay,2018,RightFoot,10372,Eintracht Frankfurt,RasenBallsport Leipzig,1,1,2018-09-23 16:00:00,Sébastien Haller,Pass
+226728,20,BlockedShot,0.8319999694824218,0.3029999923706055,0.03199870139360428,Danny da Costa,a,249,OpenPlay,2018,LeftFoot,10380,Borussia M.Gladbach,Eintracht Frankfurt,3,1,2018-09-26 18:30:00,,None
+228648,82,SavedShot,0.9169999694824219,0.43900001525878907,0.30113500356674194,Danny da Costa,h,249,OpenPlay,2018,Head,10389,Eintracht Frankfurt,Hannover 96,4,1,2018-09-30 13:30:00,Jetro Willems,Cross
+255823,88,MissedShots,0.8880000305175781,0.40599998474121096,0.060622598975896835,Danny da Costa,a,249,OpenPlay,2018,RightFoot,10417,Nuernberg,Eintracht Frankfurt,1,1,2018-10-28 11:30:00,Filip Kostic,Cross
+257374,27,Goal,0.970999984741211,0.4809999847412109,0.8491920232772827,Danny da Costa,h,249,OpenPlay,2018,RightFoot,10467,Eintracht Frankfurt,Bayer Leverkusen,2,1,2018-12-16 17:00:00,Filip Kostic,Pass
+257574,61,BlockedShot,0.8159999847412109,0.27399999618530274,0.023962000384926796,Danny da Costa,a,249,OpenPlay,2018,LeftFoot,10476,Mainz 05,Eintracht Frankfurt,2,2,2018-12-19 19:30:00,Mijat Gacinovic,Pass
+257799,7,SavedShot,0.9009999847412109,0.32799999237060545,0.2750779986381531,Danny da Costa,h,249,OpenPlay,2018,RightFoot,10487,Eintracht Frankfurt,Bayern Munich,0,3,2018-12-22 17:30:00,Mijat Gacinovic,Pass
+257806,20,MissedShots,0.8590000152587891,0.49400001525878906,0.0765426978468895,Danny da Costa,h,249,OpenPlay,2018,LeftFoot,10487,Eintracht Frankfurt,Bayern Munich,0,3,2018-12-22 17:30:00,,None
+257812,60,SavedShot,0.950999984741211,0.519000015258789,0.4563550055027008,Danny da Costa,h,249,FromCorner,2018,RightFoot,10487,Eintracht Frankfurt,Bayern Munich,0,3,2018-12-22 17:30:00,Jonathan de Guzmán,Cross
+278805,2,SavedShot,0.8619999694824219,0.42700000762939455,0.31932199001312256,Danny da Costa,h,249,OpenPlay,2018,RightFoot,10510,Eintracht Frankfurt,Borussia Dortmund,1,1,2019-02-02 14:30:00,Sébastien Haller,Pass
+279020,33,MissedShots,0.9119999694824219,0.555,0.024470100179314613,Danny da Costa,a,249,FromCorner,2018,Head,10519,RasenBallsport Leipzig,Eintracht Frankfurt,0,0,2019-02-09 14:30:00,Sebastian Rode,Aerial
+279297,19,BlockedShot,0.7909999847412109,0.35400001525878905,0.01658869907259941,Danny da Costa,h,249,OpenPlay,2018,LeftFoot,10529,Eintracht Frankfurt,Borussia M.Gladbach,1,1,2019-02-17 14:30:00,Ante Rebic,Chipped
+279305,45,Goal,0.9530000305175781,0.48700000762939455,0.618058979511261,Danny da Costa,h,249,FromCorner,2018,RightFoot,10529,Eintracht Frankfurt,Borussia M.Gladbach,1,1,2019-02-17 14:30:00,,Rebound
+279515,13,MissedShots,0.9469999694824218,0.44299999237060544,0.06218000128865242,Danny da Costa,a,249,FromCorner,2018,Head,10540,Hannover 96,Eintracht Frankfurt,0,3,2019-02-24 14:30:00,Filip Kostic,Aerial
+286778,13,MissedShots,0.8530000305175781,0.36900001525878906,0.05569370090961456,Danny da Costa,h,249,OpenPlay,2018,RightFoot,10570,Eintracht Frankfurt,Nuernberg,1,0,2019-03-17 14:30:00,,None
+286788,55,MissedShots,0.8830000305175781,0.49,0.056879300624132156,Danny da Costa,h,249,FromCorner,2018,Head,10570,Eintracht Frankfurt,Nuernberg,1,0,2019-03-17 14:30:00,Filip Kostic,Cross
+286792,63,SavedShot,0.9219999694824219,0.4279999923706055,0.025027399882674217,Danny da Costa,h,249,FromCorner,2018,Head,10570,Eintracht Frankfurt,Nuernberg,1,0,2019-03-17 14:30:00,Sebastian Rode,Aerial
+301540,5,MissedShots,0.97,0.5640000152587891,0.533066987991333,Danny da Costa,h,249,OpenPlay,2018,RightFoot,10630,Eintracht Frankfurt,Mainz 05,0,2,2019-05-12 17:00:00,Filip Kostic,Cross
+301558,70,MissedShots,0.81,0.3029999923706055,0.02598709985613823,Danny da Costa,h,249,OpenPlay,2018,RightFoot,10630,Eintracht Frankfurt,Mainz 05,0,2,2019-05-12 17:00:00,Luka Jovic,Pass
+317182,9,BlockedShot,0.8169999694824219,0.28600000381469726,0.02441520057618618,Danny da Costa,a,249,OpenPlay,2019,LeftFoot,12432,Augsburg,Eintracht Frankfurt,2,1,2019-09-14 13:30:00,,None
+317187,22,MissedShots,0.86,0.3139999961853027,0.04979860037565231,Danny da Costa,a,249,OpenPlay,2019,RightFoot,12432,Augsburg,Eintracht Frankfurt,2,1,2019-09-14 13:30:00,André Silva,BallTouch
+324980,7,MissedShots,0.915,0.345,0.03957350179553032,Danny da Costa,h,249,OpenPlay,2019,RightFoot,12464,Eintracht Frankfurt,Werder Bremen,2,2,2019-10-06 17:00:00,Filip Kostic,Cross
+325190,22,BlockedShot,0.8780000305175781,0.4279999923706055,0.12257099896669388,Danny da Costa,h,249,OpenPlay,2019,LeftFoot,12471,Eintracht Frankfurt,Bayer Leverkusen,3,0,2019-10-18 19:30:00,Gonçalo Paciência,TakeOn
+328065,15,BlockedShot,0.8680000305175781,0.43099998474121093,0.07598850131034851,Danny da Costa,a,249,OpenPlay,2019,RightFoot,12479,Borussia M.Gladbach,Eintracht Frankfurt,4,2,2019-10-27 17:00:00,,None
+328074,51,MissedShots,0.860999984741211,0.53,0.0538116991519928,Danny da Costa,a,249,OpenPlay,2019,LeftFoot,12479,Borussia M.Gladbach,Eintracht Frankfurt,4,2,2019-10-27 17:00:00,Filip Kostic,Cross
+328081,58,Goal,0.9330000305175781,0.4470000076293945,0.44624200463294983,Danny da Costa,a,249,OpenPlay,2019,RightFoot,12479,Borussia M.Gladbach,Eintracht Frankfurt,4,2,2019-10-27 17:00:00,Daichi Kamada,Pass
+329096,85,SavedShot,0.8809999847412109,0.315,0.06823620200157166,Danny da Costa,h,249,OpenPlay,2019,RightFoot,12487,Eintracht Frankfurt,Bayern Munich,5,1,2019-11-02 14:30:00,,BallRecovery
+332045,77,BlockedShot,0.830999984741211,0.29700000762939455,0.023983199149370193,Danny da Costa,h,249,OpenPlay,2019,RightFoot,12508,Eintracht Frankfurt,Wolfsburg,0,2,2019-11-23 14:30:00,Erik Durm,Pass
+335313,75,SavedShot,0.825999984741211,0.3770000076293945,0.04438979923725128,Danny da Costa,h,249,OpenPlay,2019,LeftFoot,12524,Eintracht Frankfurt,Hertha Berlin,2,2,2019-12-06 19:30:00,Djibril Sow,Pass
+339363,28,MissedShots,0.855,0.3240000152587891,0.041482001543045044,Danny da Costa,a,249,OpenPlay,2019,RightFoot,12555,Paderborn,Eintracht Frankfurt,2,1,2019-12-22 17:00:00,,None
+339391,86,MissedShots,0.8590000152587891,0.34299999237060547,0.05690990015864372,Danny da Costa,a,249,OpenPlay,2019,RightFoot,12555,Paderborn,Eintracht Frankfurt,2,1,2019-12-22 17:00:00,Daichi Kamada,Pass
+339395,93,MissedShots,0.7769999694824219,0.5120000076293946,0.03429200127720833,Danny da Costa,a,249,OpenPlay,2019,RightFoot,12555,Paderborn,Eintracht Frankfurt,2,1,2019-12-22 17:00:00,André Silva,Pass
+362584,87,MissedShots,0.695,0.595999984741211,0.2556999921798706,Danny da Costa,a,249,OpenPlay,2019,RightFoot,12557,Hoffenheim,Eintracht Frankfurt,1,2,2020-01-18 14:30:00,Bas Dost,Chipped
+363267,74,MissedShots,0.9,0.38799999237060545,0.04682829976081848,Danny da Costa,a,249,OpenPlay,2019,RightFoot,12638,Bayern Munich,Eintracht Frankfurt,5,2,2020-05-23 16:30:00,Almamy Touré,Cross
+364214,3,SavedShot,0.8959999847412109,0.5609999847412109,0.06694129854440689,Danny da Costa,a,249,OpenPlay,2019,Head,12677,Hertha Berlin,Eintracht Frankfurt,1,4,2020-06-13 13:30:00,Filip Kostic,Cross
+364229,59,MissedShots,0.9469999694824218,0.6,0.060002200305461884,Danny da Costa,a,249,FromCorner,2019,Head,12677,Hertha Berlin,Eintracht Frankfurt,1,4,2020-06-13 13:30:00,Filip Kostic,Cross
+377355,17,BlockedShot,0.7980000305175782,0.34200000762939453,0.026619000360369682,Danny da Costa,h,249,OpenPlay,2020,RightFoot,14174,Eintracht Frankfurt,Arminia Bielefeld,1,1,2020-09-19 13:30:00,,None
+377357,21,MissedShots,0.9119999694824219,0.4329999923706055,0.09441360086202621,Danny da Costa,h,249,OpenPlay,2020,RightFoot,14174,Eintracht Frankfurt,Arminia Bielefeld,1,1,2020-09-19 13:30:00,Filip Kostic,Cross
+388659,92,BlockedShot,0.7569999694824219,0.35200000762939454,0.013988800346851349,Danny da Costa,a,249,OpenPlay,2020,LeftFoot,15217,Union Berlin,Eintracht Frankfurt,3,3,2020-11-28 14:30:00,Evan Ndicka,TakeOn
+408315,62,MissedShots,0.710999984741211,0.45099998474121095,0.011812799610197544,Danny da Costa,a,249,OpenPlay,2020,RightFoot,15348,Schalke 04,Mainz 05,0,0,2021-03-05 19:30:00,,None
+409915,23,ShotOnPost,0.7959999847412109,0.3120000076293945,0.021057700738310814,Danny da Costa,h,249,OpenPlay,2020,RightFoot,15361,Mainz 05,Freiburg,1,0,2021-03-13 14:30:00,Jean-Paul Boëtius,Pass
+412440,87,MissedShots,0.9030000305175782,0.3390000152587891,0.07601910084486008,Danny da Costa,h,249,OpenPlay,2020,RightFoot,15380,Mainz 05,Arminia Bielefeld,1,1,2021-04-03 13:30:00,Karim Onisiwo,Pass
+448949,22,MissedShots,0.9209999847412109,0.4640000152587891,0.044110000133514404,Danny da Costa,a,249,FromCorner,2021,Head,17655,Borussia M.Gladbach,Eintracht Frankfurt,2,3,2021-12-15 17:30:00,Filip Kostic,Aerial
+456949,18,BlockedShot,0.8830000305175781,0.295,0.04220239818096161,Danny da Costa,h,249,SetPiece,2021,RightFoot,17712,Eintracht Frankfurt,Wolfsburg,0,2,2022-02-12 14:30:00,Jesper Lindstrom,BallTouch
+488362,92,MissedShots,0.7880000305175782,0.42400001525878905,0.0248383991420269,Danny da Costa,h,249,FromCorner,2022,RightFoot,19396,Mainz 05,Hertha Berlin,1,1,2022-09-16 18:30:00,,None
+499421,21,BlockedShot,0.915,0.38599998474121094,0.04747200012207031,Danny da Costa,a,249,FromCorner,2022,RightFoot,19467,Schalke 04,Mainz 05,1,0,2022-11-09 19:30:00,Aarón Martín,Cross
+499430,45,MissedShots,0.870999984741211,0.4640000152587891,0.012787500396370888,Danny da Costa,a,249,SetPiece,2022,Head,19467,Schalke 04,Mainz 05,1,0,2022-11-09 19:30:00,Edimilson Fernandes,Aerial
+500738,88,MissedShots,0.905,0.3940000152587891,0.0786316990852356,Danny da Costa,h,249,OpenPlay,2022,RightFoot,19470,Mainz 05,Eintracht Frankfurt,1,1,2022-11-13 14:30:00,,None
+507009,51,MissedShots,0.7659999847412109,0.33799999237060546,0.018667999655008316,Danny da Costa,a,249,OpenPlay,2022,RightFoot,19505,Union Berlin,Mainz 05,2,1,2023-02-04 14:30:00,,None
+525893,62,SavedShot,0.9359999847412109,0.43900001525878907,0.3230981230735779,Danny da Costa,a,249,OpenPlay,2022,Head,19626,Eintracht Frankfurt,Mainz 05,3,0,2023-05-13 13:30:00,Karim Onisiwo,Cross
+525894,62,BlockedShot,0.955999984741211,0.435,0.13833430409431458,Danny da Costa,a,249,OpenPlay,2022,LeftFoot,19626,Eintracht Frankfurt,Mainz 05,3,0,2023-05-13 13:30:00,,Rebound
+533777,2,BlockedShot,0.8640000152587891,0.3870000076293945,0.07209044694900513,Danny da Costa,a,249,OpenPlay,2023,RightFoot,23072,Union Berlin,Mainz 05,4,1,2023-08-20 13:30:00,Karim Onisiwo,Pass
+533784,29,MissedShots,0.88,0.3029999923706055,0.035668257623910904,Danny da Costa,a,249,OpenPlay,2023,RightFoot,23072,Union Berlin,Mainz 05,4,1,2023-08-20 13:30:00,,None
+542270,83,SavedShot,0.840999984741211,0.36400001525878906,0.015001385472714901,Danny da Costa,a,249,SetPiece,2023,Head,23119,Borussia M.Gladbach,Mainz 05,2,2,2023-10-06 18:30:00,Edimilson Fernandes,Cross
+544262,9,MissedShots,0.7519999694824219,0.4179999923706055,0.021927736699581146,Danny da Costa,h,249,OpenPlay,2023,RightFoot,23134,Mainz 05,Bayern Munich,1,3,2023-10-21 16:30:00,Leandro Barreiro Martins,Pass
+545108,63,MissedShots,0.8109999847412109,0.4279999923706055,0.046788666397333145,Danny da Costa,a,249,OpenPlay,2023,RightFoot,23143,Bochum,Mainz 05,2,2,2023-10-27 18:30:00,,None
+548287,88,BlockedShot,0.8180000305175781,0.325,0.030612779781222343,Danny da Costa,a,249,OpenPlay,2023,RightFoot,23163,Darmstadt,Mainz 05,0,0,2023-11-11 14:30:00,Aymen Barkok,Pass
+604952,16,MissedShots,0.715,0.49700000762939456,0.01401054672896862,Danny da Costa,h,249,FromCorner,2024,RightFoot,27847,Mainz 05,Hoffenheim,2,0,2024-12-01 16:30:00,,None
+614278,60,BlockedShot,0.745,0.375,0.01621229201555252,Danny da Costa,a,249,OpenPlay,2024,RightFoot,27921,Werder Bremen,Mainz 05,1,0,2025-01-31 19:30:00,Hong Hyun-Seok,BallRecovery
+630169,56,SavedShot,0.735999984741211,0.3609999847412109,0.013842861168086529,Danny da Costa,a,249,OpenPlay,2024,RightFoot,28014,Bayern Munich,Mainz 05,3,0,2025-04-26 13:30:00,Paul Nebel,Pass
+632640,48,MissedShots,0.6880000305175781,0.6459999847412109,0.011385452933609486,Danny da Costa,a,249,FromCorner,2024,LeftFoot,28037,Bochum,Mainz 05,1,4,2025-05-10 13:30:00,,Aerial
+634534,82,BlockedShot,0.7340000152587891,0.4490000152587891,0.015473205596208572,Danny da Costa,h,249,FromCorner,2024,RightFoot,28045,Mainz 05,Bayer Leverkusen,2,2,2025-05-17 13:30:00,,None
+639367,91,MissedShots,0.735999984741211,0.32799999237060545,0.012439141981303692,Danny da Costa,h,249,OpenPlay,2025,RightFoot,30231,Mainz 05,FC Cologne,0,1,2025-08-24 13:30:00,,None
+649778,22,MissedShots,0.9330000305175781,0.4279999923706055,0.05221802741289139,Danny da Costa,a,249,SetPiece,2025,Head,30294,VfB Stuttgart,Mainz 05,2,1,2025-10-26 15:30:00,Nadiem Amiri,Aerial
+649789,54,SavedShot,0.9180000305175782,0.3160000038146973,0.0637718215584755,Danny da Costa,a,249,OpenPlay,2025,RightFoot,30294,VfB Stuttgart,Mainz 05,2,1,2025-10-26 15:30:00,,Dispossessed
+649802,93,BlockedShot,0.975999984741211,0.3079999923706055,0.04747508466243744,Danny da Costa,a,249,OpenPlay,2025,RightFoot,30294,VfB Stuttgart,Mainz 05,2,1,2025-10-26 15:30:00,Armindo Sieb,Rebound
+653281,74,BlockedShot,0.9669999694824218,0.47900001525878905,0.7491467595100403,Danny da Costa,h,249,SetPiece,2025,Head,30319,Mainz 05,Hoffenheim,1,1,2025-11-21 19:30:00,Dominik Kohr,Aerial
+653283,75,Goal,0.950999984741211,0.49599998474121093,0.6127244234085083,Danny da Costa,h,249,FromCorner,2025,RightFoot,30319,Mainz 05,Hoffenheim,1,1,2025-11-21 19:30:00,,Rebound
+656542,57,OwnGoal,0.030999999046325683,0.4490000152587891,0,Danny da Costa,h,249,FromCorner,2025,OtherBodyPart,30339,Mainz 05,Borussia M.Gladbach,0,1,2025-12-05 19:30:00,,None
+659726,80,BlockedShot,0.79,0.30100000381469727,0.03649388626217842,Danny da Costa,h,249,OpenPlay,2025,LeftFoot,30355,Mainz 05,St. Pauli,0,0,2025-12-21 14:30:00,Nadiem Amiri,Pass
+663493,44,SavedShot,0.7090000152587891,0.49599998474121093,0.013581312261521816,Danny da Costa,a,249,FromCorner,2025,RightFoot,30379,FC Cologne,Mainz 05,2,1,2026-01-17 14:30:00,,None
+671031,90,MissedShots,0.8159999847412109,0.45,0.05754945054650307,Danny da Costa,a,249,OpenPlay,2025,RightFoot,30432,Bayer Leverkusen,Mainz 05,1,1,2026-02-28 14:30:00,Silas Wamangituka,BallTouch
+672609,88,BlockedShot,0.7980000305175782,0.3820000076293945,0.032717954367399216,Danny da Costa,h,249,OpenPlay,2025,RightFoot,30444,Mainz 05,VfB Stuttgart,2,2,2026-03-07 14:30:00,Phillip Tietz,Pass
+672612,90,Goal,0.9690000152587891,0.48,0.5838475227355957,Danny da Costa,h,249,OpenPlay,2025,Head,30444,Mainz 05,VfB Stuttgart,2,2,2026-03-07 14:30:00,,Rebound
+678628,21,MissedShots,0.83,0.4,0.05219478905200958,Danny da Costa,h,249,OpenPlay,2025,RightFoot,30480,Mainz 05,Freiburg,0,1,2026-04-12 17:30:00,,None
+680870,13,BlockedShot,0.925,0.63,0.09544653445482254,Danny da Costa,h,249,OpenPlay,2025,LeftFoot,30499,Mainz 05,Bayern Munich,3,4,2026-04-25 13:30:00,Philipp Mwene,Pass
+682839,30,MissedShots,0.9009999847412109,0.56,0.017216172069311142,Danny da Costa,a,249,FromCorner,2025,Head,30509,St. Pauli,Mainz 05,1,2,2026-05-03 13:30:00,Nadiem Amiri,Aerial

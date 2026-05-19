@@ -1,0 +1,18 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+61577,90,MissedShots,0.8219999694824218,0.6680000305175782,0.033818598836660385,Ferebory Dore,h,3698,OpenPlay,2015,RightFoot,1883,Angers,Nantes,0,0,2015-08-15 22:00:00,,None
+62318,2,BlockedShot,0.8380000305175781,0.48200000762939454,0.06479910016059875,Ferebory Dore,a,3698,OpenPlay,2015,RightFoot,1912,Lorient,Angers,3,1,2015-09-12 22:00:00,,None
+62321,10,MissedShots,0.8569999694824219,0.6220000076293946,0.075872503221035,Ferebory Dore,a,3698,OpenPlay,2015,LeftFoot,1912,Lorient,Angers,3,1,2015-09-12 22:00:00,Abdoul Camara,Pass
+62326,41,BlockedShot,0.9019999694824219,0.40200000762939453,0.12121900171041489,Ferebory Dore,a,3698,OpenPlay,2015,LeftFoot,1912,Lorient,Angers,3,1,2015-09-12 22:00:00,Romain Saiss,Pass
+62001,37,ShotOnPost,0.8859999847412109,0.39299999237060546,0.2679139971733093,Ferebory Dore,h,3698,OpenPlay,2015,RightFoot,1921,Angers,Troyes,1,0,2015-09-19 22:00:00,,TakeOn
+62005,53,SavedShot,0.87,0.509000015258789,0.08249569684267044,Ferebory Dore,h,3698,OpenPlay,2015,LeftFoot,1921,Angers,Troyes,1,0,2015-09-19 22:00:00,Thomas Mangani,Chipped
+62009,59,MissedShots,0.7930000305175782,0.4129999923706055,0.0497468002140522,Ferebory Dore,h,3698,OpenPlay,2015,RightFoot,1921,Angers,Troyes,1,0,2015-09-19 22:00:00,Abdoul Camara,Pass
+64523,64,MissedShots,0.84,0.38,0.07173269987106323,Ferebory Dore,a,3698,OpenPlay,2015,RightFoot,1944,Marseille,Angers,1,2,2015-09-27 16:00:00,Billy Ketkeophomphone,Pass
+64536,91,SavedShot,0.9430000305175781,0.700999984741211,0.06672210246324539,Ferebory Dore,a,3698,FromCorner,2015,RightFoot,1944,Marseille,Angers,1,2,2015-09-27 16:00:00,Abdoul Camara,TakeOn
+62833,37,BlockedShot,0.8880000305175781,0.495,0.09559290111064911,Ferebory Dore,h,3698,OpenPlay,2015,LeftFoot,1952,Angers,SC Bastia,1,0,2015-10-03 22:00:00,Cheikh Ndoye,HeadPass
+62856,70,MissedShots,0.9259999847412109,0.5929999923706055,0.1821250021457672,Ferebory Dore,h,3698,SetPiece,2015,Head,1952,Angers,SC Bastia,1,0,2015-10-03 22:00:00,Thomas Mangani,Cross
+104357,89,BlockedShot,0.789000015258789,0.45599998474121095,0.03311590105295181,Ferebory Dore,a,3698,OpenPlay,2016,RightFoot,2315,Monaco,Angers,2,1,2016-09-24 22:00:00,Mateo Pavlovic,Chipped
+107566,4,MissedShots,0.8040000152587891,0.7440000152587891,0.014570600353181362,Ferebory Dore,a,3698,OpenPlay,2016,RightFoot,4123,Saint-Etienne,Angers,2,1,2017-01-22 19:00:00,Thomas Mangani,Chipped
+107588,75,MissedShots,0.8880000305175781,0.4540000152587891,0.05043419823050499,Ferebory Dore,a,3698,OpenPlay,2016,Head,4123,Saint-Etienne,Angers,2,1,2017-01-22 19:00:00,Baptiste Santamaria,Cross
+106870,73,SavedShot,0.8590000152587891,0.445,0.025049399584531784,Ferebory Dore,h,3698,OpenPlay,2016,Head,4126,Angers,Metz,2,1,2017-01-28 22:00:00,Vincent Manceau,Cross
+106871,73,MissedShots,0.8859999847412109,0.7,0.06457920372486115,Ferebory Dore,h,3698,OpenPlay,2016,LeftFoot,4126,Angers,Metz,2,1,2017-01-28 22:00:00,Baptiste Santamaria,Pass
+106874,90,SavedShot,0.8859999847412109,0.3609999847412109,0.33658701181411743,Ferebory Dore,h,3698,OpenPlay,2016,RightFoot,4126,Angers,Metz,2,1,2017-01-28 22:00:00,Abdoulaye Bamba,Throughball

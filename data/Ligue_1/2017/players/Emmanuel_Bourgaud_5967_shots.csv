@@ -1,0 +1,12 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+162516,88,BlockedShot,0.76,0.3509999847412109,0.011958199553191662,Emmanuel Bourgaud,a,5967,OpenPlay,2017,LeftFoot,8593,Saint-Etienne,Amiens,3,0,2017-08-19 19:00:00,,None
+162539,4,MissedShots,0.6919999694824219,0.295,0.011126900091767311,Emmanuel Bourgaud,h,5967,OpenPlay,2017,RightFoot,8595,Amiens,Nice,3,0,2017-08-26 19:00:00,Thomas Monconduit,Pass
+162550,38,MissedShots,0.8230000305175781,0.295,0.04748539999127388,Emmanuel Bourgaud,h,5967,OpenPlay,2017,RightFoot,8595,Amiens,Nice,3,0,2017-08-26 19:00:00,Tanguy NDombele Alvaro,Pass
+164040,19,MissedShots,0.74,0.639000015258789,0.010955199599266052,Emmanuel Bourgaud,a,5967,SetPiece,2017,RightFoot,8647,Toulouse,Amiens,1,0,2017-10-14 19:00:00,,None
+164556,82,BlockedShot,0.745999984741211,0.5429999923706055,0.02238219976425171,Emmanuel Bourgaud,h,5967,OpenPlay,2017,LeftFoot,8685,Amiens,Monaco,1,1,2017-11-17 19:45:00,Issa Cissokho,Pass
+176553,89,ShotOnPost,0.745999984741211,0.5609999847412109,0.06218649819493294,Emmanuel Bourgaud,h,5967,DirectFreekick,2017,RightFoot,8635,Amiens,Lille,3,0,2017-11-20 18:00:00,,Standard
+165269,26,MissedShots,0.8730000305175781,0.43400001525878906,0.02608869969844818,Emmanuel Bourgaud,a,5967,OpenPlay,2017,Head,8703,Metz,Amiens,0,2,2017-11-25 19:00:00,Gaël Kakuta,Cross
+165279,47,MissedShots,0.91,0.27399999618530274,0.032258398830890656,Emmanuel Bourgaud,a,5967,OpenPlay,2017,RightFoot,8703,Metz,Amiens,0,2,2017-11-25 19:00:00,Moussa Konate,Cross
+187720,26,SavedShot,0.825999984741211,0.34900001525878904,0.27346500754356384,Emmanuel Bourgaud,a,5967,OpenPlay,2017,RightFoot,8760,Nice,Amiens,1,0,2018-01-13 19:00:00,Gaël Kakuta,Pass
+187727,61,BlockedShot,0.6869999694824219,0.3340000152587891,0.00973241962492466,Emmanuel Bourgaud,a,5967,SetPiece,2017,RightFoot,8760,Nice,Amiens,1,0,2018-01-13 19:00:00,,BallTouch
+197628,88,MissedShots,0.720999984741211,0.7530000305175781,0.031085599213838577,Emmanuel Bourgaud,a,5967,DirectFreekick,2017,RightFoot,8829,Nantes,Amiens,0,1,2018-02-24 19:00:00,,Standard

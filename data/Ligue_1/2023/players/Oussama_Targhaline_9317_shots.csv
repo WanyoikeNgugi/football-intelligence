@@ -1,0 +1,12 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+532489,15,MissedShots,0.6890000152587891,0.565,0.014693849720060825,Oussama Targhaline,a,9317,OpenPlay,2023,RightFoot,23376,Montpellier,Le Havre,2,2,2023-08-13 13:00:00,Josué Casimir,Pass
+553515,66,MissedShots,0.7759999847412109,0.35200000762939454,0.023715486750006676,Oussama Targhaline,a,9317,OpenPlay,2023,RightFoot,23498,Strasbourg,Le Havre,2,1,2023-12-10 14:00:00,Abdoulaye Touré,Pass
+560191,62,BlockedShot,0.7080000305175781,0.4879999923706055,0.015173058025538921,Oussama Targhaline,a,9317,OpenPlay,2023,RightFoot,23536,Lorient,Le Havre,3,3,2024-01-28 14:00:00,Christopher Operi,Pass
+572503,30,MissedShots,0.75,0.5270000076293946,0.020914873108267784,Oussama Targhaline,a,9317,OpenPlay,2023,RightFoot,23619,Lens,Le Havre,1,1,2024-04-06 15:00:00,Christopher Operi,Pass
+575411,17,MissedShots,0.8169999694824219,0.4759999847412109,0.04502055421471596,Oussama Targhaline,h,9317,SetPiece,2023,RightFoot,23639,Le Havre,Metz,0,1,2024-04-21 13:00:00,Daler Kuzyaev,Pass
+575424,74,MissedShots,0.754000015258789,0.5179999923706055,0.021625060588121414,Oussama Targhaline,h,9317,OpenPlay,2023,RightFoot,23639,Le Havre,Metz,0,1,2024-04-21 13:00:00,Oualid El Hajjam,Pass
+589988,54,BlockedShot,0.7240000152587891,0.41900001525878905,0.020523561164736748,Oussama Targhaline,h,9317,OpenPlay,2024,RightFoot,28071,Le Havre,Auxerre,3,1,2024-09-01 15:00:00,Yassine Kechta,Pass
+589991,61,BlockedShot,0.779000015258789,0.4809999847412109,0.027610156685113907,Oussama Targhaline,h,9317,SetPiece,2024,RightFoot,28071,Le Havre,Auxerre,3,1,2024-09-01 15:00:00,Loïc Négo,Pass
+606062,10,MissedShots,0.7859999847412109,0.62,0.023112885653972626,Oussama Targhaline,a,9317,FromCorner,2024,RightFoot,28165,Nice,Le Havre,2,1,2024-12-07 18:00:00,,Dispossessed
+606079,75,BlockedShot,0.784000015258789,0.625999984741211,0.027469221502542496,Oussama Targhaline,a,9317,OpenPlay,2024,LeftFoot,28165,Nice,Le Havre,2,1,2024-12-07 18:00:00,,BallRecovery
+612797,45,BlockedShot,0.8490000152587891,0.4520000076293945,0.05895735323429108,Oussama Targhaline,a,9317,FromCorner,2024,RightFoot,28207,Reims,Le Havre,1,1,2025-01-19 16:15:00,,None

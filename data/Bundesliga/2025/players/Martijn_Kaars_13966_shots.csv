@@ -1,0 +1,23 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+639965,86,SavedShot,0.885,0.3039999961853027,0.06250499933958054,Martijn Kaars,a,13966,OpenPlay,2025,RightFoot,30233,Hamburger SV,St. Pauli,0,2,2025-08-29 18:30:00,Manolis Saliakas,Pass
+639968,97,BlockedShot,0.85,0.35400001525878905,0.13842308521270752,Martijn Kaars,a,13966,OpenPlay,2025,RightFoot,30233,Hamburger SV,St. Pauli,0,2,2025-08-29 18:30:00,Danel Sinani,Throughball
+642268,64,MissedShots,0.8780000305175781,0.3240000152587891,0.05893222615122795,Martijn Kaars,h,13966,OpenPlay,2025,RightFoot,30249,St. Pauli,Augsburg,2,1,2025-09-14 13:30:00,Danel Sinani,Pass
+646022,40,BlockedShot,0.905,0.63,0.1358681172132492,Martijn Kaars,a,13966,OpenPlay,2025,LeftFoot,30277,Werder Bremen,St. Pauli,1,0,2025-10-04 13:30:00,Louis Oppie,Throughball
+646032,75,MissedShots,0.905,0.5029999923706054,0.09005871415138245,Martijn Kaars,a,13966,OpenPlay,2025,Head,30277,Werder Bremen,St. Pauli,1,0,2025-10-04 13:30:00,Manolis Saliakas,Cross
+646039,92,BlockedShot,0.8580000305175781,0.44299999237060544,0.08534159511327744,Martijn Kaars,a,13966,OpenPlay,2025,RightFoot,30277,Werder Bremen,St. Pauli,1,0,2025-10-04 13:30:00,Danel Sinani,Pass
+648328,40,SavedShot,0.9180000305175782,0.3970000076293945,0.5533326268196106,Martijn Kaars,h,13966,OpenPlay,2025,RightFoot,30284,St. Pauli,Hoffenheim,0,3,2025-10-19 15:30:00,Joel Chima Fujita,Throughball
+648335,58,SavedShot,0.9119999694824219,0.28899999618530275,0.05085756629705429,Martijn Kaars,h,13966,OpenPlay,2025,RightFoot,30284,St. Pauli,Hoffenheim,0,3,2025-10-19 15:30:00,Pereira Lage,HeadPass
+658066,28,BlockedShot,0.9,0.41400001525878904,0.08145943284034729,Martijn Kaars,h,13966,FromCorner,2025,RightFoot,30347,St. Pauli,FC Heidenheim,2,1,2025-12-13 14:30:00,,None
+658068,34,Goal,0.879000015258789,0.41700000762939454,0.1242598295211792,Martijn Kaars,h,13966,OpenPlay,2025,RightFoot,30347,St. Pauli,FC Heidenheim,2,1,2025-12-13 14:30:00,Joel Chima Fujita,Throughball
+658071,52,Goal,0.8930000305175781,0.3,0.14925865828990936,Martijn Kaars,h,13966,OpenPlay,2025,RightFoot,30347,St. Pauli,FC Heidenheim,2,1,2025-12-13 14:30:00,Joel Chima Fujita,Throughball
+663511,17,BlockedShot,0.9080000305175782,0.4159999847412109,0.07391706854104996,Martijn Kaars,a,13966,SetPiece,2025,RightFoot,30378,Borussia Dortmund,St. Pauli,3,2,2026-01-17 14:30:00,Eric Smith,Cross
+665705,89,SavedShot,0.8980000305175782,0.4809999847412109,0.07470016181468964,Martijn Kaars,h,13966,OpenPlay,2025,Head,30365,St. Pauli,RasenBallsport Leipzig,1,1,2026-01-27 19:30:00,Arkadiusz Pyrka,Cross
+665706,92,Goal,0.885,0.5,0.75777667760849,Martijn Kaars,h,13966,Penalty,2025,RightFoot,30365,St. Pauli,RasenBallsport Leipzig,1,1,2026-01-27 19:30:00,,Standard
+667124,18,BlockedShot,0.8219999694824218,0.3990000152587891,0.054520417004823685,Martijn Kaars,h,13966,OpenPlay,2025,RightFoot,30410,St. Pauli,VfB Stuttgart,2,1,2026-02-07 14:30:00,James Sands,Pass
+667128,32,BlockedShot,0.92,0.30100000381469727,0.058741845190525055,Martijn Kaars,h,13966,OpenPlay,2025,RightFoot,30410,St. Pauli,VfB Stuttgart,2,1,2026-02-07 14:30:00,Manolis Saliakas,Pass
+667136,82,SavedShot,0.875999984741211,0.6969999694824218,0.26853927969932556,Martijn Kaars,h,13966,OpenPlay,2025,LeftFoot,30410,St. Pauli,VfB Stuttgart,2,1,2026-02-07 14:30:00,Arkadiusz Pyrka,Pass
+668609,14,MissedShots,0.8969999694824219,0.6480000305175782,0.06527809798717499,Martijn Kaars,a,13966,OpenPlay,2025,LeftFoot,30414,Bayer Leverkusen,St. Pauli,4,0,2026-02-14 14:30:00,,BallTouch
+668616,46,MissedShots,0.875,0.4540000152587891,0.03566742315888405,Martijn Kaars,a,13966,SetPiece,2025,Head,30414,Bayer Leverkusen,St. Pauli,4,0,2026-02-14 14:30:00,Mathias Rasmussen,Cross
+670352,9,SavedShot,0.8919999694824219,0.62,0.08990529179573059,Martijn Kaars,h,13966,OpenPlay,2025,RightFoot,30428,St. Pauli,Werder Bremen,2,1,2026-02-22 16:30:00,Arkadiusz Pyrka,Pass
+682852,73,BlockedShot,0.8919999694824219,0.4379999923706055,0.33196282386779785,Martijn Kaars,h,13966,OpenPlay,2025,RightFoot,30509,St. Pauli,Mainz 05,1,2,2026-05-03 13:30:00,Abdoulie Ceesay,Pass
+683619,33,ShotOnPost,0.860999984741211,0.544000015258789,0.4473419189453125,Martijn Kaars,a,13966,OpenPlay,2025,LeftFoot,30518,RasenBallsport Leipzig,St. Pauli,2,1,2026-05-09 13:30:00,Andréas Hountondji,Pass

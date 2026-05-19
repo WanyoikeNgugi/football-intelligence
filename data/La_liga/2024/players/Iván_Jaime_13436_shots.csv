@@ -1,0 +1,9 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+617478,63,BlockedShot,0.7290000152587891,0.7319999694824219,0.016121212393045425,Iván Jaime,a,13436,OpenPlay,2024,RightFoot,27216,Villarreal,Valencia,1,1,2025-02-15 20:00:00,Pepelu,Pass
+618604,46,BlockedShot,0.889000015258789,0.42400001525878905,0.03261234611272812,Iván Jaime,h,13436,OpenPlay,2024,Head,27225,Valencia,Atletico Madrid,0,3,2025-02-22 17:30:00,Dimitri Foulquier,Aerial
+618613,63,BlockedShot,0.7530000305175781,0.624000015258789,0.016598258167505264,Iván Jaime,h,13436,OpenPlay,2024,RightFoot,27225,Valencia,Atletico Madrid,0,3,2025-02-22 17:30:00,Hugo Duro,Pass
+620819,50,SavedShot,0.779000015258789,0.5890000152587891,0.027999751269817352,Iván Jaime,a,13436,OpenPlay,2024,RightFoot,27234,Osasuna,Valencia,3,3,2025-03-02 20:00:00,Enzo Barrenechea,BallRecovery
+621549,89,BlockedShot,0.9059999847412109,0.46099998474121096,0.14131087064743042,Iván Jaime,h,13436,OpenPlay,2024,RightFoot,27248,Valencia,Real Valladolid,2,1,2025-03-08 17:30:00,Umar Sadiq,Pass
+632567,80,BlockedShot,0.86,0.4,0.0789647102355957,Iván Jaime,h,13436,OpenPlay,2024,RightFoot,27330,Valencia,Getafe,3,0,2025-05-10 12:00:00,,None
+634024,86,SavedShot,0.8780000305175781,0.40700000762939453,0.08512876182794571,Iván Jaime,a,13436,OpenPlay,2024,LeftFoot,27333,Alaves,Valencia,1,0,2025-05-14 17:00:00,Fran Pérez,TakeOn
+635785,72,SavedShot,0.85,0.67,0.036588575690984726,Iván Jaime,a,13436,SetPiece,2024,RightFoot,27354,Real Betis,Valencia,1,1,2025-05-23 19:00:00,,None

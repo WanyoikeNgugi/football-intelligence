@@ -1,0 +1,37 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+128045,77,BlockedShot,0.875999984741211,0.62,0.06034040078520775,Danny Blum,a,5236,SetPiece,2016,LeftFoot,1339,Darmstadt,Eintracht Frankfurt,1,0,2016-09-10 17:30:00,Szabolcs Huszti,Rebound
+128799,3,SavedShot,0.8719999694824219,0.3160000038146973,0.05061719939112663,Danny Blum,h,5236,OpenPlay,2016,LeftFoot,1368,Eintracht Frankfurt,Hertha Berlin,3,3,2016-09-24 17:30:00,Haris Seferovic,HeadPass
+128806,51,BlockedShot,0.7919999694824219,0.49,0.0722099021077156,Danny Blum,h,5236,OpenPlay,2016,RightFoot,1368,Eintracht Frankfurt,Hertha Berlin,3,3,2016-09-24 17:30:00,Marco Fabián,Pass
+129691,93,MissedShots,0.6469999694824219,0.8240000152587891,0.01531209982931614,Danny Blum,h,5236,OpenPlay,2016,LeftFoot,2812,Eintracht Frankfurt,FC Cologne,1,0,2016-11-05 21:30:00,Lukas Hradecky,TakeOn
+131854,84,MissedShots,0.9219999694824219,0.485,0.5581669807434082,Danny Blum,h,5236,OpenPlay,2016,Head,3759,Eintracht Frankfurt,Ingolstadt,0,2,2017-02-18 14:30:00,Taleb Tawatha,Aerial
+131857,89,SavedShot,0.8690000152587891,0.575999984741211,0.04807889834046364,Danny Blum,h,5236,OpenPlay,2016,LeftFoot,3759,Eintracht Frankfurt,Ingolstadt,0,2,2017-02-18 14:30:00,Omar Mascarell,Chipped
+132056,70,BlockedShot,0.8880000305175781,0.6459999847412109,0.012314800173044205,Danny Blum,a,5236,FromCorner,2016,Head,3773,Hertha Berlin,Eintracht Frankfurt,2,0,2017-02-25 17:30:00,Shani Tarashaj,Cross
+133385,22,MissedShots,0.909000015258789,0.45,0.3302069902420044,Danny Blum,h,5236,OpenPlay,2016,LeftFoot,3783,Eintracht Frankfurt,Freiburg,1,2,2017-03-05 14:30:00,Taleb Tawatha,Chipped
+133389,47,SavedShot,0.96,0.3240000152587891,0.05473250150680542,Danny Blum,h,5236,OpenPlay,2016,RightFoot,3783,Eintracht Frankfurt,Freiburg,1,2,2017-03-05 14:30:00,Omar Mascarell,Pass
+133395,59,BlockedShot,0.8030000305175782,0.30100000381469727,0.023208800703287125,Danny Blum,h,5236,OpenPlay,2016,LeftFoot,3783,Eintracht Frankfurt,Freiburg,1,2,2017-03-05 14:30:00,Ante Rebic,Pass
+133403,90,BlockedShot,0.8190000152587891,0.4909999847412109,0.04935289919376373,Danny Blum,h,5236,OpenPlay,2016,LeftFoot,3783,Eintracht Frankfurt,Freiburg,1,2,2017-03-05 14:30:00,,None
+133405,93,MissedShots,0.7780000305175782,0.385,0.02011219970881939,Danny Blum,h,5236,FromCorner,2016,LeftFoot,3783,Eintracht Frankfurt,Freiburg,1,2,2017-03-05 14:30:00,,None
+133480,15,SavedShot,0.7190000152587891,0.3890000152587891,0.013856500387191772,Danny Blum,a,5236,OpenPlay,2016,LeftFoot,3786,Bayern Munich,Eintracht Frankfurt,3,0,2017-03-11 14:30:00,Ante Rebic,BlockedPass
+133482,27,SavedShot,0.8430000305175781,0.655,0.046416498720645905,Danny Blum,a,5236,OpenPlay,2016,LeftFoot,3786,Bayern Munich,Eintracht Frankfurt,3,0,2017-03-11 14:30:00,Ante Rebic,Pass
+133489,51,MissedShots,0.924000015258789,0.69,0.053137801587581635,Danny Blum,a,5236,OpenPlay,2016,LeftFoot,3786,Bayern Munich,Eintracht Frankfurt,3,0,2017-03-11 14:30:00,Ante Rebic,Pass
+133493,65,SavedShot,0.884000015258789,0.28,0.030632199719548225,Danny Blum,a,5236,OpenPlay,2016,LeftFoot,3786,Bayern Munich,Eintracht Frankfurt,3,0,2017-03-11 14:30:00,Ante Rebic,Chipped
+134831,49,BlockedShot,0.875999984741211,0.30700000762939456,0.048069700598716736,Danny Blum,h,5236,OpenPlay,2016,LeftFoot,3821,Eintracht Frankfurt,Werder Bremen,2,2,2017-04-07 19:30:00,Ante Rebic,Pass
+134835,79,MissedShots,0.845,0.4759999847412109,0.07738009840250015,Danny Blum,h,5236,OpenPlay,2016,RightFoot,3821,Eintracht Frankfurt,Werder Bremen,2,2,2017-04-07 19:30:00,,Dispossessed
+134838,84,MissedShots,0.88,0.26799999237060546,0.025737900286912918,Danny Blum,h,5236,FromCorner,2016,RightFoot,3821,Eintracht Frankfurt,Werder Bremen,2,2,2017-04-07 19:30:00,,None
+134976,88,MissedShots,0.720999984741211,0.575,0.009409709833562374,Danny Blum,a,5236,OpenPlay,2016,LeftFoot,3830,Borussia Dortmund,Eintracht Frankfurt,3,1,2017-04-15 14:30:00,,None
+132779,71,SavedShot,0.789000015258789,0.6780000305175782,0.021509800106287003,Danny Blum,h,5236,OpenPlay,2016,LeftFoot,3857,Eintracht Frankfurt,Wolfsburg,0,2,2017-05-06 14:30:00,Haris Seferovic,Pass
+132780,71,MissedShots,0.8040000152587891,0.7290000152587891,0.011157000437378883,Danny Blum,h,5236,OpenPlay,2016,LeftFoot,3857,Eintracht Frankfurt,Wolfsburg,0,2,2017-05-06 14:30:00,Guillermo Varela,Cross
+128072,89,Goal,0.9119999694824219,0.6580000305175782,0.31025099754333496,Danny Blum,h,5236,OpenPlay,2016,LeftFoot,3882,Eintracht Frankfurt,RasenBallsport Leipzig,2,2,2017-05-20 14:30:00,Bastian Oczipka,Pass
+200852,89,MissedShots,0.8680000305175781,0.7559999847412109,0.02071950025856495,Danny Blum,a,5236,FromCorner,2017,LeftFoot,8485,Borussia Dortmund,Eintracht Frankfurt,3,2,2018-03-11 17:00:00,,None
+200853,90,Goal,0.9540000152587891,0.5479999923706055,0.5169839859008789,Danny Blum,a,5236,OpenPlay,2017,LeftFoot,8485,Borussia Dortmund,Eintracht Frankfurt,3,2,2018-03-11 17:00:00,Danny da Costa,Cross
+438612,2,Goal,0.9019999694824219,0.37099998474121093,0.35273298621177673,Danny Blum,h,5236,OpenPlay,2021,RightFoot,17588,Bochum,Eintracht Frankfurt,2,0,2021-10-24 17:30:00,Takuma Asano,Throughball
+438619,23,MissedShots,0.774000015258789,0.3270000076293945,0.023846900090575218,Danny Blum,h,5236,FromCorner,2021,LeftFoot,17588,Bochum,Eintracht Frankfurt,2,0,2021-10-24 17:30:00,Eduard Löwen,Pass
+438620,25,SavedShot,0.9059999847412109,0.5879999923706055,0.07875219732522964,Danny Blum,h,5236,OpenPlay,2021,Head,17588,Bochum,Eintracht Frankfurt,2,0,2021-10-24 17:30:00,Danilo Soares,Cross
+440458,85,Goal,0.8059999847412109,0.18600000381469728,0.04298890009522438,Danny Blum,a,5236,DirectFreekick,2021,LeftFoot,17601,Borussia M.Gladbach,Bochum,2,1,2021-10-31 16:30:00,,Standard
+441032,35,MissedShots,0.8480000305175781,0.38799999237060545,0.05722159892320633,Danny Blum,h,5236,OpenPlay,2021,RightFoot,17607,Bochum,Hoffenheim,2,0,2021-11-06 14:30:00,,None
+453157,66,MissedShots,0.8830000305175781,0.545,0.07836160063743591,Danny Blum,a,5236,OpenPlay,2021,LeftFoot,17681,Mainz 05,Bochum,1,0,2022-01-15 14:30:00,Manuel Riemann,Chipped
+453163,74,MissedShots,0.9019999694824219,0.7340000152587891,0.03576109930872917,Danny Blum,a,5236,OpenPlay,2021,LeftFoot,17681,Mainz 05,Bochum,1,0,2022-01-15 14:30:00,,None
+453165,80,MissedShots,0.8980000305175782,0.7169999694824218,0.04062550142407417,Danny Blum,a,5236,OpenPlay,2021,LeftFoot,17681,Mainz 05,Bochum,1,0,2022-01-15 14:30:00,Jürgen Locadia,BallTouch
+467399,85,SavedShot,0.870999984741211,0.5729999923706055,0.028451399877667427,Danny Blum,h,5236,OpenPlay,2021,Head,17769,Bochum,Bayer Leverkusen,0,0,2022-04-10 13:30:00,Cristian Gamboa,Cross
+468017,65,SavedShot,0.850999984741211,0.6,0.013675499707460403,Danny Blum,a,5236,OpenPlay,2021,Head,17781,Freiburg,Bochum,3,0,2022-04-16 13:30:00,Cristian Gamboa,Aerial
+472757,85,MissedShots,0.9290000152587891,0.5570000076293945,0.05940140038728714,Danny Blum,h,5236,OpenPlay,2021,Head,17805,Bochum,Arminia Bielefeld,2,1,2022-05-06 18:30:00,Simon Zoller,Aerial

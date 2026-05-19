@@ -1,0 +1,320 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+356826,77,SavedShot,0.7909999847412109,0.39599998474121095,0.03489679843187332,Dani Olmo,h,8292,OpenPlay,2019,RightFoot,12575,RasenBallsport Leipzig,Borussia M.Gladbach,2,2,2020-02-01 17:30:00,Christopher Nkunku,Pass
+356834,90,MissedShots,0.8080000305175781,0.475,0.03626430034637451,Dani Olmo,h,8292,FromCorner,2019,LeftFoot,12575,RasenBallsport Leipzig,Borussia M.Gladbach,2,2,2020-02-01 17:30:00,,None
+358838,6,MissedShots,0.97,0.43599998474121093,0.6019139885902405,Dani Olmo,h,8292,OpenPlay,2019,RightFoot,12593,RasenBallsport Leipzig,Werder Bremen,3,0,2020-02-15 14:30:00,Timo Werner,Rebound
+361689,64,BlockedShot,0.7680000305175781,0.42700000762939455,0.031009700149297714,Dani Olmo,a,8292,FromCorner,2019,LeftFoot,12622,Wolfsburg,RasenBallsport Leipzig,0,0,2020-03-07 14:30:00,Angelino,Pass
+361691,65,MissedShots,0.884000015258789,0.5,0.06856069713830948,Dani Olmo,a,8292,OpenPlay,2019,Head,12622,Wolfsburg,RasenBallsport Leipzig,0,0,2020-03-07 14:30:00,Angelino,Cross
+363458,15,BlockedShot,0.8059999847412109,0.5879999923706055,0.04361499845981598,Dani Olmo,h,8292,OpenPlay,2019,RightFoot,12653,RasenBallsport Leipzig,Hertha Berlin,2,2,2020-05-27 16:30:00,Christopher Nkunku,Pass
+363460,25,BlockedShot,0.8730000305175781,0.3189999961853027,0.03689119964838028,Dani Olmo,h,8292,FromCorner,2019,RightFoot,12653,RasenBallsport Leipzig,Hertha Berlin,2,2,2020-05-27 16:30:00,,None
+363775,56,Goal,0.840999984741211,0.445,0.05344809964299202,Dani Olmo,a,8292,FromCorner,2019,RightFoot,12662,FC Cologne,RasenBallsport Leipzig,2,4,2020-06-01 18:30:00,,None
+363776,61,BlockedShot,0.8190000152587891,0.45799999237060546,0.019505999982357025,Dani Olmo,a,8292,SetPiece,2019,RightFoot,12662,FC Cologne,RasenBallsport Leipzig,2,4,2020-06-01 18:30:00,,Aerial
+363780,76,MissedShots,0.8630000305175781,0.41900001525878905,0.44549500942230225,Dani Olmo,a,8292,OpenPlay,2019,RightFoot,12662,FC Cologne,RasenBallsport Leipzig,2,4,2020-06-01 18:30:00,Christopher Nkunku,Pass
+363851,34,MissedShots,0.8780000305175781,0.2589999961853027,0.048023201525211334,Dani Olmo,h,8292,OpenPlay,2019,RightFoot,12665,RasenBallsport Leipzig,Paderborn,1,1,2020-06-06 13:30:00,,None
+363856,59,SavedShot,0.8690000152587891,0.27399999618530274,0.025308499112725258,Dani Olmo,h,8292,FromCorner,2019,RightFoot,12665,RasenBallsport Leipzig,Paderborn,1,1,2020-06-06 13:30:00,,None
+364090,8,Goal,0.885,0.38799999237060545,0.0725829005241394,Dani Olmo,a,8292,OpenPlay,2019,RightFoot,12675,Hoffenheim,RasenBallsport Leipzig,0,2,2020-06-12 18:30:00,,None
+364091,10,Goal,0.8969999694824219,0.4179999923706055,0.09024559706449509,Dani Olmo,a,8292,OpenPlay,2019,RightFoot,12675,Hoffenheim,RasenBallsport Leipzig,0,2,2020-06-12 18:30:00,Marcel Sabitzer,HeadPass
+364111,64,MissedShots,0.8590000152587891,0.5820000076293945,0.1158749982714653,Dani Olmo,a,8292,OpenPlay,2019,LeftFoot,12675,Hoffenheim,RasenBallsport Leipzig,0,2,2020-06-12 18:30:00,Timo Werner,Pass
+365262,50,MissedShots,0.7190000152587891,0.4329999923706055,0.01770690083503723,Dani Olmo,h,8292,OpenPlay,2019,RightFoot,12692,RasenBallsport Leipzig,Borussia Dortmund,0,2,2020-06-20 13:30:00,Timo Werner,Pass
+365263,51,BlockedShot,0.7659999847412109,0.4,0.03509189933538437,Dani Olmo,h,8292,OpenPlay,2019,RightFoot,12692,RasenBallsport Leipzig,Borussia Dortmund,0,2,2020-06-20 13:30:00,Patrik Schick,LayOff
+366979,11,SavedShot,0.7819999694824219,0.5990000152587891,0.03093389980494976,Dani Olmo,a,8292,OpenPlay,2019,RightFoot,12707,Augsburg,RasenBallsport Leipzig,1,2,2020-06-27 13:30:00,Tyler Adams,Pass
+366983,24,BlockedShot,0.855999984741211,0.45,0.07208549976348877,Dani Olmo,a,8292,OpenPlay,2019,RightFoot,12707,Augsburg,RasenBallsport Leipzig,1,2,2020-06-27 13:30:00,,None
+366986,34,BlockedShot,0.7240000152587891,0.49,0.021156400442123413,Dani Olmo,a,8292,OpenPlay,2019,RightFoot,12707,Augsburg,RasenBallsport Leipzig,1,2,2020-06-27 13:30:00,Emil Forsberg,Pass
+366988,43,BlockedShot,0.7330000305175781,0.549000015258789,0.022574299946427345,Dani Olmo,a,8292,OpenPlay,2019,RightFoot,12707,Augsburg,RasenBallsport Leipzig,1,2,2020-06-27 13:30:00,Timo Werner,Pass
+378104,3,SavedShot,0.7290000152587891,0.4279999923706055,0.02072490006685257,Dani Olmo,h,8292,OpenPlay,2020,RightFoot,14180,RasenBallsport Leipzig,Mainz 05,3,1,2020-09-20 13:30:00,Tyler Adams,Pass
+378116,30,BlockedShot,0.8440000152587891,0.455,0.056349899619817734,Dani Olmo,h,8292,OpenPlay,2020,RightFoot,14180,RasenBallsport Leipzig,Mainz 05,3,1,2020-09-20 13:30:00,,Rebound
+378123,55,SavedShot,0.9469999694824218,0.355,0.12404300272464752,Dani Olmo,h,8292,OpenPlay,2020,RightFoot,14180,RasenBallsport Leipzig,Mainz 05,3,1,2020-09-20 13:30:00,Yussuf Poulsen,Pass
+378705,54,MissedShots,0.784000015258789,0.6580000305175782,0.027880800887942314,Dani Olmo,a,8292,OpenPlay,2020,RightFoot,14187,Bayer Leverkusen,RasenBallsport Leipzig,1,1,2020-09-26 13:30:00,Hee-Chan Hwang,LayOff
+380769,54,MissedShots,0.9330000305175781,0.7090000152587891,0.08614639937877655,Dani Olmo,h,8292,OpenPlay,2020,LeftFoot,15164,RasenBallsport Leipzig,Schalke 04,4,0,2020-10-03 16:30:00,Marcel Halstenberg,Chipped
+380772,58,BlockedShot,0.7630000305175781,0.475,0.03963420167565346,Dani Olmo,h,8292,OpenPlay,2020,RightFoot,15164,RasenBallsport Leipzig,Schalke 04,4,0,2020-10-03 16:30:00,Marcel Halstenberg,Pass
+380774,62,SavedShot,0.7269999694824218,0.4490000152587891,0.028073899447917938,Dani Olmo,h,8292,OpenPlay,2020,RightFoot,15164,RasenBallsport Leipzig,Schalke 04,4,0,2020-10-03 16:30:00,Dayotchanculle Upamecano,Pass
+380775,63,BlockedShot,0.8230000305175781,0.37400001525878906,0.02035360038280487,Dani Olmo,h,8292,OpenPlay,2020,RightFoot,15164,RasenBallsport Leipzig,Schalke 04,4,0,2020-10-03 16:30:00,,Aerial
+380780,78,BlockedShot,0.8469999694824218,0.5029999923706054,0.07503320276737213,Dani Olmo,h,8292,OpenPlay,2020,RightFoot,15164,RasenBallsport Leipzig,Schalke 04,4,0,2020-10-03 16:30:00,Angelino,TakeOn
+381839,16,SavedShot,0.915,0.385,0.1101830005645752,Dani Olmo,a,8292,OpenPlay,2020,RightFoot,15170,Augsburg,RasenBallsport Leipzig,0,2,2020-10-17 13:30:00,Christopher Nkunku,Pass
+381845,47,MissedShots,0.795,0.44799999237060545,0.05520860105752945,Dani Olmo,a,8292,OpenPlay,2020,RightFoot,15170,Augsburg,RasenBallsport Leipzig,0,2,2020-10-17 13:30:00,Benjamin Henrichs,Pass
+383268,81,BlockedShot,0.879000015258789,0.5509999847412109,0.09446340054273605,Dani Olmo,h,8292,OpenPlay,2020,RightFoot,15179,RasenBallsport Leipzig,Hertha Berlin,2,1,2020-10-24 13:30:00,Alexander Sørloth,HeadPass
+383271,82,SavedShot,0.79,0.590999984741211,0.04372439906001091,Dani Olmo,h,8292,OpenPlay,2020,RightFoot,15179,RasenBallsport Leipzig,Hertha Berlin,2,1,2020-10-24 13:30:00,Yussuf Poulsen,Pass
+384768,21,BlockedShot,0.789000015258789,0.615999984741211,0.029079299420118332,Dani Olmo,a,8292,OpenPlay,2020,RightFoot,15190,Borussia M.Gladbach,RasenBallsport Leipzig,1,0,2020-10-31 17:30:00,,None
+384770,35,BlockedShot,0.8430000305175781,0.285,0.031543001532554626,Dani Olmo,a,8292,OpenPlay,2020,RightFoot,15190,Borussia M.Gladbach,RasenBallsport Leipzig,1,0,2020-10-31 17:30:00,Lazar Samardzic,Pass
+386001,84,MissedShots,0.7619999694824219,0.36400001525878906,0.03726549819111824,Dani Olmo,h,8292,OpenPlay,2020,RightFoot,15196,RasenBallsport Leipzig,Freiburg,3,0,2020-11-07 14:30:00,Marcel Sabitzer,Pass
+387493,14,BlockedShot,0.9019999694824219,0.62,0.07471189647912979,Dani Olmo,a,8292,OpenPlay,2020,LeftFoot,15208,Eintracht Frankfurt,RasenBallsport Leipzig,1,1,2020-11-21 17:30:00,,None
+387495,19,MissedShots,0.870999984741211,0.455,0.034334201365709305,Dani Olmo,a,8292,OpenPlay,2020,Head,15208,Eintracht Frankfurt,RasenBallsport Leipzig,1,1,2020-11-21 17:30:00,Amadou Haidara,Cross
+387497,27,BlockedShot,0.8809999847412109,0.7040000152587891,0.04230089858174324,Dani Olmo,a,8292,OpenPlay,2020,RightFoot,15208,Eintracht Frankfurt,RasenBallsport Leipzig,1,1,2020-11-21 17:30:00,Christopher Nkunku,Pass
+388666,21,MissedShots,0.7219999694824218,0.4329999923706055,0.019782399758696556,Dani Olmo,h,8292,OpenPlay,2020,RightFoot,15213,RasenBallsport Leipzig,Arminia Bielefeld,2,1,2020-11-28 14:30:00,Tyler Adams,Pass
+388670,36,SavedShot,0.845,0.46599998474121096,0.09741059690713882,Dani Olmo,h,8292,OpenPlay,2020,LeftFoot,15213,RasenBallsport Leipzig,Arminia Bielefeld,2,1,2020-11-28 14:30:00,Angelino,Pass
+391568,22,BlockedShot,0.865999984741211,0.4,0.05426609888672829,Dani Olmo,h,8292,OpenPlay,2020,RightFoot,15231,RasenBallsport Leipzig,Werder Bremen,2,0,2020-12-12 14:30:00,Willi Orban,Cross
+391575,40,Goal,0.8690000152587891,0.46299999237060546,0.1868010014295578,Dani Olmo,h,8292,OpenPlay,2020,RightFoot,15231,RasenBallsport Leipzig,Werder Bremen,2,0,2020-12-12 14:30:00,Yussuf Poulsen,TakeOn
+391583,76,SavedShot,0.749000015258789,0.745999984741211,0.018887899816036224,Dani Olmo,h,8292,OpenPlay,2020,RightFoot,15231,RasenBallsport Leipzig,Werder Bremen,2,0,2020-12-12 14:30:00,Alexander Sørloth,Pass
+393969,69,BlockedShot,0.83,0.6890000152587891,0.03483530133962631,Dani Olmo,h,8292,OpenPlay,2020,LeftFoot,15248,RasenBallsport Leipzig,FC Cologne,0,0,2020-12-19 14:30:00,Marcel Halstenberg,Pass
+393970,69,MissedShots,0.8169999694824219,0.6480000305175782,0.0345504991710186,Dani Olmo,h,8292,OpenPlay,2020,RightFoot,15248,RasenBallsport Leipzig,FC Cologne,0,0,2020-12-19 14:30:00,Angelino,Pass
+393974,79,SavedShot,0.710999984741211,0.38299999237060545,0.015197900123894215,Dani Olmo,h,8292,OpenPlay,2020,RightFoot,15248,RasenBallsport Leipzig,FC Cologne,0,0,2020-12-19 14:30:00,Emil Forsberg,Pass
+393976,88,BlockedShot,0.8769999694824219,0.30200000762939455,0.04403569921851158,Dani Olmo,h,8292,OpenPlay,2020,RightFoot,15248,RasenBallsport Leipzig,FC Cologne,0,0,2020-12-19 14:30:00,Tyler Adams,Pass
+396566,11,BlockedShot,0.7930000305175782,0.23899999618530274,0.013453599996864796,Dani Olmo,a,8292,OpenPlay,2020,RightFoot,15265,VfB Stuttgart,RasenBallsport Leipzig,0,1,2021-01-02 19:30:00,Amadou Haidara,None
+396574,40,MissedShots,0.8980000305175782,0.26899999618530274,0.016684100031852722,Dani Olmo,a,8292,OpenPlay,2020,RightFoot,15265,VfB Stuttgart,RasenBallsport Leipzig,0,1,2021-01-02 19:30:00,,Aerial
+396582,66,Goal,0.9619999694824218,0.415,0.49030500650405884,Dani Olmo,a,8292,OpenPlay,2020,RightFoot,15265,VfB Stuttgart,RasenBallsport Leipzig,0,1,2021-01-02 19:30:00,,None
+396589,83,MissedShots,0.7869999694824219,0.28200000762939453,0.026249799877405167,Dani Olmo,a,8292,OpenPlay,2020,RightFoot,15265,VfB Stuttgart,RasenBallsport Leipzig,0,1,2021-01-02 19:30:00,Yussuf Poulsen,Pass
+397906,37,BlockedShot,0.7280000305175781,0.415,0.015755999833345413,Dani Olmo,h,8292,OpenPlay,2020,RightFoot,15266,RasenBallsport Leipzig,Borussia Dortmund,1,3,2021-01-09 17:30:00,Amadou Haidara,BallRecovery
+397907,40,MissedShots,0.764000015258789,0.495,0.02539229951798916,Dani Olmo,h,8292,OpenPlay,2020,RightFoot,15266,RasenBallsport Leipzig,Borussia Dortmund,1,3,2021-01-09 17:30:00,,None
+397915,66,ShotOnPost,0.9419999694824219,0.3160000038146973,0.3279860019683838,Dani Olmo,h,8292,OpenPlay,2020,RightFoot,15266,RasenBallsport Leipzig,Borussia Dortmund,1,3,2021-01-09 17:30:00,Amadou Haidara,TakeOn
+397927,86,BlockedShot,0.8190000152587891,0.615999984741211,0.02627510018646717,Dani Olmo,h,8292,OpenPlay,2020,RightFoot,15266,RasenBallsport Leipzig,Borussia Dortmund,1,3,2021-01-09 17:30:00,Angelino,TakeOn
+398919,66,SavedShot,0.8190000152587891,0.519000015258789,0.07498220354318619,Dani Olmo,a,8292,OpenPlay,2020,RightFoot,15278,Wolfsburg,RasenBallsport Leipzig,2,2,2021-01-16 14:30:00,Amadou Haidara,TakeOn
+398921,68,BlockedShot,0.9690000152587891,0.6609999847412109,0.012278899550437927,Dani Olmo,a,8292,FromCorner,2020,Head,15278,Wolfsburg,RasenBallsport Leipzig,2,2,2021-01-16 14:30:00,Christopher Nkunku,Cross
+398922,68,SavedShot,0.8390000152587891,0.7130000305175781,0.027279099449515343,Dani Olmo,a,8292,FromCorner,2020,RightFoot,15278,Wolfsburg,RasenBallsport Leipzig,2,2,2021-01-16 14:30:00,Angelino,HeadPass
+400051,30,SavedShot,0.775,0.3559999847412109,0.023868000134825706,Dani Olmo,h,8292,OpenPlay,2020,LeftFoot,15284,RasenBallsport Leipzig,Union Berlin,1,0,2021-01-20 19:30:00,Marcel Halstenberg,Pass
+400061,83,MissedShots,0.7430000305175781,0.4640000152587891,0.027451399713754654,Dani Olmo,h,8292,OpenPlay,2020,RightFoot,15284,RasenBallsport Leipzig,Union Berlin,1,0,2021-01-20 19:30:00,Tyler Adams,Pass
+400404,28,BlockedShot,0.905,0.42700000762939455,0.091914601624012,Dani Olmo,a,8292,OpenPlay,2020,RightFoot,15299,Mainz 05,RasenBallsport Leipzig,3,2,2021-01-23 14:30:00,Alexander Sørloth,HeadPass
+401777,3,MissedShots,0.8859999847412109,0.40299999237060546,0.025833500549197197,Dani Olmo,h,8292,OpenPlay,2020,Head,15304,RasenBallsport Leipzig,Bayer Leverkusen,1,0,2021-01-30 17:30:00,Tyler Adams,Cross
+401790,60,BlockedShot,0.7519999694824219,0.4759999847412109,0.029353400692343712,Dani Olmo,h,8292,OpenPlay,2020,RightFoot,15304,RasenBallsport Leipzig,Bayer Leverkusen,1,0,2021-01-30 17:30:00,Marcel Sabitzer,HeadPass
+401792,61,SavedShot,0.895,0.4179999923706055,0.366890013217926,Dani Olmo,h,8292,OpenPlay,2020,RightFoot,15304,RasenBallsport Leipzig,Bayer Leverkusen,1,0,2021-01-30 17:30:00,,Rebound
+401796,85,MissedShots,0.7719999694824219,0.46700000762939453,0.020820999518036842,Dani Olmo,h,8292,SetPiece,2020,RightFoot,15304,RasenBallsport Leipzig,Bayer Leverkusen,1,0,2021-01-30 17:30:00,,None
+403105,12,SavedShot,0.875999984741211,0.42700000762939455,0.3921560049057007,Dani Olmo,a,8292,SetPiece,2020,RightFoot,15316,Schalke 04,RasenBallsport Leipzig,0,3,2021-02-06 14:30:00,,None
+403109,28,MissedShots,0.7480000305175781,0.7819999694824219,0.013072500005364418,Dani Olmo,a,8292,OpenPlay,2020,RightFoot,15316,Schalke 04,RasenBallsport Leipzig,0,3,2021-02-06 14:30:00,Angelino,Pass
+403118,49,BlockedShot,0.86,0.515,0.0693444013595581,Dani Olmo,a,8292,SetPiece,2020,RightFoot,15316,Schalke 04,RasenBallsport Leipzig,0,3,2021-02-06 14:30:00,,None
+404062,0,MissedShots,0.8009999847412109,0.6940000152587891,0.025302300229668617,Dani Olmo,h,8292,OpenPlay,2020,LeftFoot,15322,RasenBallsport Leipzig,Augsburg,2,1,2021-02-12 19:30:00,Marcel Halstenberg,BallRecovery
+404067,22,MissedShots,0.7580000305175781,0.4779999923706055,0.016871599480509758,Dani Olmo,h,8292,SetPiece,2020,RightFoot,15322,RasenBallsport Leipzig,Augsburg,2,1,2021-02-12 19:30:00,,Rebound
+404068,32,SavedShot,0.85,0.505,0.0942511036992073,Dani Olmo,h,8292,OpenPlay,2020,RightFoot,15322,RasenBallsport Leipzig,Augsburg,2,1,2021-02-12 19:30:00,Amadou Haidara,Pass
+404069,37,Goal,0.885,0.5,0.7577769756317139,Dani Olmo,h,8292,Penalty,2020,RightFoot,15322,RasenBallsport Leipzig,Augsburg,2,1,2021-02-12 19:30:00,,Standard
+406062,67,MissedShots,0.705999984741211,0.5790000152587891,0.01874390058219433,Dani Olmo,a,8292,OpenPlay,2020,RightFoot,15333,Hertha Berlin,RasenBallsport Leipzig,0,3,2021-02-21 14:30:00,Marcel Halstenberg,Pass
+406880,7,SavedShot,0.8730000305175781,0.46599998474121096,0.07891280204057693,Dani Olmo,h,8292,OpenPlay,2020,RightFoot,15340,RasenBallsport Leipzig,Borussia M.Gladbach,3,2,2021-02-27 17:30:00,,Rebound
+406888,45,BlockedShot,0.875,0.4179999923706055,0.09765289723873138,Dani Olmo,h,8292,OpenPlay,2020,RightFoot,15340,RasenBallsport Leipzig,Borussia M.Gladbach,3,2,2021-02-27 17:30:00,Nordi Mukiele,Pass
+406891,57,MissedShots,0.6990000152587891,0.7030000305175781,0.012526700273156166,Dani Olmo,h,8292,OpenPlay,2020,RightFoot,15340,RasenBallsport Leipzig,Borussia M.Gladbach,3,2,2021-02-27 17:30:00,Marcel Halstenberg,Pass
+406896,71,SavedShot,0.745999984741211,0.629000015258789,0.010885899886488914,Dani Olmo,h,8292,OpenPlay,2020,RightFoot,15340,RasenBallsport Leipzig,Borussia M.Gladbach,3,2,2021-02-27 17:30:00,,Aerial
+406900,82,MissedShots,0.840999984741211,0.5209999847412109,0.08427120000123978,Dani Olmo,h,8292,OpenPlay,2020,LeftFoot,15340,RasenBallsport Leipzig,Borussia M.Gladbach,3,2,2021-02-27 17:30:00,Emil Forsberg,Pass
+408523,14,MissedShots,0.7730000305175782,0.6170000076293946,0.021754400804638863,Dani Olmo,a,8292,OpenPlay,2020,RightFoot,15354,Freiburg,RasenBallsport Leipzig,0,3,2021-03-06 14:30:00,Yussuf Poulsen,Pass
+408528,39,MissedShots,0.865999984741211,0.5779999923706055,0.10041800141334534,Dani Olmo,a,8292,OpenPlay,2020,LeftFoot,15354,Freiburg,RasenBallsport Leipzig,0,3,2021-03-06 14:30:00,Christopher Nkunku,Pass
+411086,3,MissedShots,0.91,0.4759999847412109,0.13250599801540375,Dani Olmo,a,8292,OpenPlay,2020,RightFoot,15373,Arminia Bielefeld,RasenBallsport Leipzig,0,1,2021-03-19 19:30:00,Christopher Nkunku,Pass
+411090,13,BlockedShot,0.8540000152587891,0.610999984741211,0.06111909821629524,Dani Olmo,a,8292,OpenPlay,2020,RightFoot,15373,Arminia Bielefeld,RasenBallsport Leipzig,0,1,2021-03-19 19:30:00,Christopher Nkunku,None
+412733,51,MissedShots,0.8580000305175781,0.46,0.06408070027828217,Dani Olmo,h,8292,OpenPlay,2020,RightFoot,15375,RasenBallsport Leipzig,Bayern Munich,0,1,2021-04-03 16:30:00,,None
+412734,52,MissedShots,0.89,0.6990000152587891,0.043897200375795364,Dani Olmo,h,8292,OpenPlay,2020,RightFoot,15375,RasenBallsport Leipzig,Bayern Munich,0,1,2021-04-03 16:30:00,,BallRecovery
+412738,58,BlockedShot,0.8180000305175781,0.47400001525878904,0.04191270098090172,Dani Olmo,h,8292,FromCorner,2020,RightFoot,15375,RasenBallsport Leipzig,Bayern Munich,0,1,2021-04-03 16:30:00,,None
+413786,22,Goal,0.899000015258789,0.585,0.38151100277900696,Dani Olmo,a,8292,OpenPlay,2020,RightFoot,15389,Werder Bremen,RasenBallsport Leipzig,1,4,2021-04-10 13:30:00,Kevin Kampl,Pass
+417856,25,MissedShots,0.850999984741211,0.4809999847412109,0.08553069829940796,Dani Olmo,h,8292,OpenPlay,2020,RightFoot,15410,RasenBallsport Leipzig,VfB Stuttgart,2,0,2021-04-25 13:30:00,Tyler Adams,Pass
+417861,37,BlockedShot,0.7780000305175782,0.30700000762939456,0.02277049981057644,Dani Olmo,h,8292,OpenPlay,2020,RightFoot,15410,RasenBallsport Leipzig,VfB Stuttgart,2,0,2021-04-25 13:30:00,Amadou Haidara,Pass
+417870,62,SavedShot,0.9009999847412109,0.42400001525878905,0.37437599897384644,Dani Olmo,h,8292,OpenPlay,2020,RightFoot,15410,RasenBallsport Leipzig,VfB Stuttgart,2,0,2021-04-25 13:30:00,,Rebound
+417871,64,MissedShots,0.78,0.475,0.02445399947464466,Dani Olmo,h,8292,SetPiece,2020,RightFoot,15410,RasenBallsport Leipzig,VfB Stuttgart,2,0,2021-04-25 13:30:00,,None
+420027,12,BlockedShot,0.7780000305175782,0.38299999237060545,0.02203340083360672,Dani Olmo,a,8292,SetPiece,2020,LeftFoot,15420,Borussia Dortmund,RasenBallsport Leipzig,3,2,2021-05-08 13:30:00,Dayotchanculle Upamecano,Pass
+420032,34,BlockedShot,0.740999984741211,0.30100000381469727,0.016245700418949127,Dani Olmo,a,8292,OpenPlay,2020,RightFoot,15420,Borussia Dortmund,RasenBallsport Leipzig,3,2,2021-05-08 13:30:00,Marcel Sabitzer,Pass
+420044,68,MissedShots,0.9380000305175781,0.6769999694824219,0.05603580176830292,Dani Olmo,a,8292,OpenPlay,2020,RightFoot,15420,Borussia Dortmund,RasenBallsport Leipzig,3,2,2021-05-08 13:30:00,Justin Kluivert,Pass
+420045,76,Goal,0.9259999847412109,0.5220000076293946,0.5255730152130127,Dani Olmo,a,8292,OpenPlay,2020,RightFoot,15420,Borussia Dortmund,RasenBallsport Leipzig,3,2,2021-05-08 13:30:00,Hee-Chan Hwang,Pass
+420050,87,SavedShot,0.779000015258789,0.37900001525878907,0.02709610015153885,Dani Olmo,a,8292,OpenPlay,2020,RightFoot,15420,Borussia Dortmund,RasenBallsport Leipzig,3,2,2021-05-08 13:30:00,Amadou Haidara,Pass
+420052,91,MissedShots,0.8590000152587891,0.46599998474121096,0.08703819662332535,Dani Olmo,a,8292,OpenPlay,2020,LeftFoot,15420,Borussia Dortmund,RasenBallsport Leipzig,3,2,2021-05-08 13:30:00,Marcel Halstenberg,Pass
+430115,24,MissedShots,0.7319999694824219,0.4370000076293945,0.019363900646567345,Dani Olmo,h,8292,OpenPlay,2021,RightFoot,17548,RasenBallsport Leipzig,Bayern Munich,1,4,2021-09-11 16:30:00,Mohamed Simakan,Pass
+430122,44,SavedShot,0.8430000305175781,0.5029999923706054,0.07009200006723404,Dani Olmo,h,8292,OpenPlay,2021,LeftFoot,17548,RasenBallsport Leipzig,Bayern Munich,1,4,2021-09-11 16:30:00,Christopher Nkunku,Pass
+431502,3,MissedShots,0.8880000305175781,0.40400001525878904,0.10981299728155136,Dani Olmo,a,8292,OpenPlay,2021,RightFoot,17557,FC Cologne,RasenBallsport Leipzig,1,1,2021-09-18 16:30:00,Christopher Nkunku,Pass
+455915,9,MissedShots,0.8390000152587891,0.575,0.07521159946918488,Dani Olmo,a,8292,OpenPlay,2021,LeftFoot,17704,Bayern Munich,RasenBallsport Leipzig,3,2,2022-02-05 17:30:00,Angelino,Pass
+455919,15,SavedShot,0.9069999694824219,0.5059999847412109,0.46078500151634216,Dani Olmo,a,8292,OpenPlay,2021,RightFoot,17704,Bayern Munich,RasenBallsport Leipzig,3,2,2022-02-05 17:30:00,,Rebound
+455920,17,SavedShot,0.9009999847412109,0.585999984741211,0.4196769893169403,Dani Olmo,a,8292,OpenPlay,2021,LeftFoot,17704,Bayern Munich,RasenBallsport Leipzig,3,2,2022-02-05 17:30:00,Christopher Nkunku,Throughball
+455933,50,SavedShot,0.815,0.6930000305175781,0.025130700320005417,Dani Olmo,a,8292,OpenPlay,2021,RightFoot,17704,Bayern Munich,RasenBallsport Leipzig,3,2,2022-02-05 17:30:00,Angelino,Pass
+456743,53,Goal,0.7580000305175781,0.38299999237060545,0.028623400256037712,Dani Olmo,h,8292,OpenPlay,2021,RightFoot,17713,RasenBallsport Leipzig,FC Cologne,3,1,2022-02-11 19:30:00,Amadou Haidara,Pass
+459027,73,Goal,0.9519999694824218,0.5829999923706055,0.5393159985542297,Dani Olmo,a,8292,OpenPlay,2021,LeftFoot,17716,Hertha Berlin,RasenBallsport Leipzig,1,6,2022-02-20 18:30:00,,Rebound
+460379,93,BlockedShot,0.855999984741211,0.4929999923706055,0.10450000315904617,Dani Olmo,a,8292,OpenPlay,2021,RightFoot,17724,Bochum,RasenBallsport Leipzig,0,1,2022-02-27 14:30:00,Benjamin Henrichs,Pass
+460950,60,SavedShot,0.7959999847412109,0.69,0.026930399239063263,Dani Olmo,h,8292,OpenPlay,2021,RightFoot,17739,RasenBallsport Leipzig,Freiburg,1,1,2022-03-05 14:30:00,Angelino,Pass
+460951,71,MissedShots,0.8580000305175781,0.265,0.03148519992828369,Dani Olmo,h,8292,OpenPlay,2021,RightFoot,17739,RasenBallsport Leipzig,Freiburg,1,1,2022-03-05 14:30:00,Benjamin Henrichs,Pass
+464593,45,SavedShot,0.8469999694824218,0.5309999847412109,0.10530699789524078,Dani Olmo,h,8292,OpenPlay,2021,RightFoot,17757,RasenBallsport Leipzig,Eintracht Frankfurt,0,0,2022-03-20 14:30:00,Konrad Laimer,TakeOn
+464598,62,BlockedShot,0.845,0.39799999237060546,0.038769401609897614,Dani Olmo,h,8292,FromCorner,2021,LeftFoot,17757,RasenBallsport Leipzig,Eintracht Frankfurt,0,0,2022-03-20 14:30:00,Christopher Nkunku,Pass
+465418,51,BlockedShot,0.904000015258789,0.74,0.04208660125732422,Dani Olmo,a,8292,FromCorner,2021,RightFoot,17767,Borussia Dortmund,RasenBallsport Leipzig,1,4,2022-04-02 16:30:00,Christopher Nkunku,Pass
+465419,52,MissedShots,0.8209999847412109,0.504000015258789,0.044382598251104355,Dani Olmo,a,8292,FromCorner,2021,RightFoot,17767,Borussia Dortmund,RasenBallsport Leipzig,1,4,2022-04-02 16:30:00,,None
+465426,85,Goal,0.769000015258789,0.49400001525878906,0.038777001202106476,Dani Olmo,a,8292,OpenPlay,2021,RightFoot,17767,Borussia Dortmund,RasenBallsport Leipzig,1,4,2022-04-02 16:30:00,Christopher Nkunku,Pass
+467642,82,MissedShots,0.8880000305175781,0.4520000076293945,0.13748699426651,Dani Olmo,h,8292,OpenPlay,2021,LeftFoot,17775,RasenBallsport Leipzig,Hoffenheim,3,0,2022-04-10 17:30:00,,TakeOn
+469853,82,BlockedShot,0.84,0.59,0.08471299707889557,Dani Olmo,h,8292,OpenPlay,2021,RightFoot,17793,RasenBallsport Leipzig,Union Berlin,1,2,2022-04-23 13:30:00,Konrad Laimer,Pass
+472529,82,SavedShot,0.7859999847412109,0.3559999847412109,0.026111800223588943,Dani Olmo,a,8292,OpenPlay,2021,RightFoot,17800,Borussia M.Gladbach,RasenBallsport Leipzig,3,1,2022-05-02 18:30:00,Kevin Kampl,Pass
+475771,76,SavedShot,0.86,0.4279999923706055,0.08293759822845459,Dani Olmo,a,8292,OpenPlay,2021,RightFoot,17813,Arminia Bielefeld,RasenBallsport Leipzig,1,1,2022-05-14 13:30:00,Benjamin Henrichs,Pass
+475774,82,SavedShot,0.710999984741211,0.5459999847412109,0.022727400064468384,Dani Olmo,a,8292,FromCorner,2021,RightFoot,17813,Arminia Bielefeld,RasenBallsport Leipzig,1,1,2022-05-14 13:30:00,Kevin Kampl,Pass
+479750,13,MissedShots,0.715,0.5879999923706055,0.0177925992757082,Dani Olmo,a,8292,OpenPlay,2022,RightFoot,19349,VfB Stuttgart,RasenBallsport Leipzig,1,1,2022-08-07 13:30:00,Christopher Nkunku,Pass
+479752,21,SavedShot,0.7880000305175782,0.7419999694824219,0.02466229908168316,Dani Olmo,a,8292,OpenPlay,2022,RightFoot,19349,VfB Stuttgart,RasenBallsport Leipzig,1,1,2022-08-07 13:30:00,Kevin Kampl,Pass
+479754,34,MissedShots,0.9009999847412109,0.3060000038146973,0.04805599898099899,Dani Olmo,a,8292,OpenPlay,2022,RightFoot,19349,VfB Stuttgart,RasenBallsport Leipzig,1,1,2022-08-07 13:30:00,André Silva,Pass
+479756,41,BlockedShot,0.7380000305175781,0.3920000076293945,0.02059279941022396,Dani Olmo,a,8292,OpenPlay,2022,RightFoot,19349,VfB Stuttgart,RasenBallsport Leipzig,1,1,2022-08-07 13:30:00,Christopher Nkunku,Pass
+479771,74,SavedShot,0.745999984741211,0.6669999694824219,0.020308900624513626,Dani Olmo,a,8292,FromCorner,2022,RightFoot,19349,VfB Stuttgart,RasenBallsport Leipzig,1,1,2022-08-07 13:30:00,Christopher Nkunku,Pass
+479773,75,MissedShots,0.735999984741211,0.345,0.015493599697947502,Dani Olmo,a,8292,OpenPlay,2022,RightFoot,19349,VfB Stuttgart,RasenBallsport Leipzig,1,1,2022-08-07 13:30:00,,BallRecovery
+482059,37,BlockedShot,0.895,0.41,0.0711292028427124,Dani Olmo,a,8292,OpenPlay,2022,LeftFoot,19366,Union Berlin,RasenBallsport Leipzig,2,1,2022-08-20 16:30:00,,None
+483560,14,ShotOnPost,0.91,0.3940000152587891,0.3976759910583496,Dani Olmo,h,8292,OpenPlay,2022,RightFoot,19370,RasenBallsport Leipzig,Wolfsburg,2,0,2022-08-27 13:30:00,,None
+494867,91,MissedShots,0.774000015258789,0.7030000305175781,0.021164799109101295,Dani Olmo,a,8292,OpenPlay,2022,RightFoot,19439,Augsburg,RasenBallsport Leipzig,3,3,2022-10-22 13:30:00,Christopher Nkunku,Pass
+497978,23,SavedShot,0.87,0.5709999847412109,0.0719589963555336,Dani Olmo,a,8292,OpenPlay,2022,RightFoot,19452,Hoffenheim,RasenBallsport Leipzig,1,3,2022-11-05 14:30:00,David Raum,Cross
+497984,47,MissedShots,0.8159999847412109,0.46599998474121096,0.044298700988292694,Dani Olmo,a,8292,FromCorner,2022,RightFoot,19452,Hoffenheim,RasenBallsport Leipzig,1,3,2022-11-05 14:30:00,Marcel Halstenberg,Pass
+497986,48,MissedShots,0.950999984741211,0.5720000076293945,0.1096239984035492,Dani Olmo,a,8292,FromCorner,2022,Head,19452,Hoffenheim,RasenBallsport Leipzig,1,3,2022-11-05 14:30:00,David Raum,Cross
+497990,56,SavedShot,0.78,0.5640000152587891,0.052589401602745056,Dani Olmo,a,8292,OpenPlay,2022,RightFoot,19452,Hoffenheim,RasenBallsport Leipzig,1,3,2022-11-05 14:30:00,Dominik Szoboszlai,Pass
+497994,68,Goal,0.8480000305175781,0.610999984741211,0.1008630022406578,Dani Olmo,a,8292,OpenPlay,2022,RightFoot,19452,Hoffenheim,RasenBallsport Leipzig,1,3,2022-11-05 14:30:00,Dominik Szoboszlai,Pass
+499501,52,SavedShot,0.7440000152587891,0.5020000076293946,0.02034970000386238,Dani Olmo,h,8292,OpenPlay,2022,RightFoot,19460,RasenBallsport Leipzig,Freiburg,3,1,2022-11-09 19:30:00,André Silva,HeadPass
+499507,58,MissedShots,0.7609999847412109,0.6509999847412109,0.016139699146151543,Dani Olmo,h,8292,FromCorner,2022,RightFoot,19460,RasenBallsport Leipzig,Freiburg,3,1,2022-11-09 19:30:00,,None
+504374,27,MissedShots,0.7619999694824219,0.5479999923706055,0.022829700261354446,Dani Olmo,h,8292,OpenPlay,2022,RightFoot,19478,RasenBallsport Leipzig,Bayern Munich,1,1,2023-01-20 19:30:00,,None
+504379,53,SavedShot,0.7440000152587891,0.5729999923706055,0.019047599285840988,Dani Olmo,h,8292,OpenPlay,2022,RightFoot,19478,RasenBallsport Leipzig,Bayern Munich,1,1,2023-01-20 19:30:00,Marcel Halstenberg,BallRecovery
+504381,69,BlockedShot,0.755,0.6530000305175782,0.021965300664305687,Dani Olmo,h,8292,OpenPlay,2022,RightFoot,19478,RasenBallsport Leipzig,Bayern Munich,1,1,2023-01-20 19:30:00,André Silva,Pass
+505311,42,MissedShots,0.7880000305175782,0.55,0.05245169997215271,Dani Olmo,a,8292,OpenPlay,2022,RightFoot,19493,Schalke 04,RasenBallsport Leipzig,1,6,2023-01-24 17:30:00,Marcel Halstenberg,Pass
+505312,43,SavedShot,0.8490000152587891,0.47400001525878904,0.12092600017786026,Dani Olmo,a,8292,OpenPlay,2022,RightFoot,19493,Schalke 04,RasenBallsport Leipzig,1,6,2023-01-24 17:30:00,Konrad Laimer,Pass
+505322,61,MissedShots,0.850999984741211,0.18200000762939453,0.011452499777078629,Dani Olmo,a,8292,SetPiece,2022,RightFoot,19493,Schalke 04,RasenBallsport Leipzig,1,6,2023-01-24 17:30:00,,None
+505329,74,BlockedShot,0.8230000305175781,0.5509999847412109,0.08934669941663742,Dani Olmo,a,8292,OpenPlay,2022,RightFoot,19493,Schalke 04,RasenBallsport Leipzig,1,6,2023-01-24 17:30:00,Timo Werner,Pass
+505331,82,Goal,0.8540000152587891,0.3060000038146973,0.031119799241423607,Dani Olmo,a,8292,SetPiece,2022,RightFoot,19493,Schalke 04,RasenBallsport Leipzig,1,6,2023-01-24 17:30:00,,None
+505562,32,BlockedShot,0.915,0.5570000076293945,0.0317608006298542,Dani Olmo,h,8292,FromCorner,2022,Head,19497,RasenBallsport Leipzig,VfB Stuttgart,2,1,2023-01-27 19:30:00,,Aerial
+505564,38,MissedShots,0.84,0.6530000305175782,0.0649833008646965,Dani Olmo,h,8292,OpenPlay,2022,RightFoot,19497,RasenBallsport Leipzig,VfB Stuttgart,2,1,2023-01-27 19:30:00,André Silva,BallRecovery
+514900,77,MissedShots,0.7880000305175782,0.40599998474121096,0.04899090155959129,Dani Olmo,a,8292,OpenPlay,2022,RightFoot,19564,Bochum,RasenBallsport Leipzig,1,0,2023-03-18 14:30:00,André Silva,LayOff
+514905,88,SavedShot,0.7390000152587891,0.6170000076293946,0.01856819912791252,Dani Olmo,a,8292,OpenPlay,2022,RightFoot,19564,Bochum,RasenBallsport Leipzig,1,0,2023-03-18 14:30:00,David Raum,Pass
+514908,90,SavedShot,0.9619999694824218,0.4279999923706055,0.5164669752120972,Dani Olmo,a,8292,FromCorner,2022,RightFoot,19564,Bochum,RasenBallsport Leipzig,1,0,2023-03-18 14:30:00,,Rebound
+514910,90,SavedShot,0.7369999694824219,0.49900001525878906,0.020093100145459175,Dani Olmo,a,8292,OpenPlay,2022,RightFoot,19564,Bochum,RasenBallsport Leipzig,1,0,2023-03-18 14:30:00,Amadou Haidara,Pass
+516178,87,SavedShot,0.6969999694824218,0.46,0.016443999484181404,Dani Olmo,h,8292,SetPiece,2022,RightFoot,19575,RasenBallsport Leipzig,Mainz 05,0,3,2023-04-01 13:30:00,Dominik Szoboszlai,Pass
+518318,72,BlockedShot,0.725999984741211,0.35900001525878905,0.02051820047199726,Dani Olmo,a,8292,OpenPlay,2022,RightFoot,19584,Hertha Berlin,RasenBallsport Leipzig,0,1,2023-04-08 16:30:00,Dominik Szoboszlai,Pass
+519269,32,BlockedShot,0.9330000305175781,0.2720000076293945,0.06223040074110031,Dani Olmo,h,8292,OpenPlay,2022,RightFoot,19586,RasenBallsport Leipzig,Augsburg,3,2,2023-04-15 13:30:00,,BallRecovery
+519276,72,BlockedShot,0.835,0.3679999923706055,0.07485730201005936,Dani Olmo,h,8292,OpenPlay,2022,RightFoot,19586,RasenBallsport Leipzig,Augsburg,3,2,2023-04-15 13:30:00,Dominik Szoboszlai,Pass
+521626,4,BlockedShot,0.7519999694824219,0.519000015258789,0.023971309885382652,Dani Olmo,a,8292,OpenPlay,2022,RightFoot,19595,Bayer Leverkusen,RasenBallsport Leipzig,2,0,2023-04-23 15:30:00,Dominik Szoboszlai,Pass
+521638,58,MissedShots,0.7669999694824219,0.6419999694824219,0.02165081538259983,Dani Olmo,a,8292,OpenPlay,2022,RightFoot,19595,Bayer Leverkusen,RasenBallsport Leipzig,2,0,2023-04-23 15:30:00,Timo Werner,Pass
+521648,76,SavedShot,0.7219999694824218,0.5990000152587891,0.016799405217170715,Dani Olmo,a,8292,OpenPlay,2022,RightFoot,19595,Bayer Leverkusen,RasenBallsport Leipzig,2,0,2023-04-23 15:30:00,Timo Werner,Pass
+522608,94,BlockedShot,0.855999984741211,0.504000015258789,0.10276498645544052,Dani Olmo,h,8292,OpenPlay,2022,RightFoot,19604,RasenBallsport Leipzig,Hoffenheim,1,0,2023-04-29 13:30:00,Timo Werner,BallTouch
+524614,45,SavedShot,0.8530000305175781,0.7090000152587891,0.036776598542928696,Dani Olmo,a,8292,OpenPlay,2022,RightFoot,19614,Freiburg,RasenBallsport Leipzig,0,1,2023-05-06 13:30:00,Christopher Nkunku,Chipped
+527670,35,SavedShot,0.8819999694824219,0.5570000076293945,0.04338498413562775,Dani Olmo,a,8292,OpenPlay,2022,Head,19630,Bayern Munich,RasenBallsport Leipzig,1,3,2023-05-20 16:30:00,Marcel Halstenberg,Cross
+527675,45,BlockedShot,0.8130000305175781,0.425,0.04327084496617317,Dani Olmo,a,8292,OpenPlay,2022,RightFoot,19630,Bayern Munich,RasenBallsport Leipzig,1,3,2023-05-20 16:30:00,,None
+527676,57,MissedShots,0.8059999847412109,0.6659999847412109,0.030981844291090965,Dani Olmo,a,8292,OpenPlay,2022,LeftFoot,19630,Bayern Munich,RasenBallsport Leipzig,1,3,2023-05-20 16:30:00,Christopher Nkunku,Pass
+527684,83,MissedShots,0.9290000152587891,0.5790000152587891,0.07046053558588028,Dani Olmo,a,8292,FromCorner,2022,Head,19630,Bayern Munich,RasenBallsport Leipzig,1,3,2023-05-20 16:30:00,Marcel Halstenberg,Cross
+533124,38,Goal,0.9680000305175781,0.44599998474121094,0.13384822010993958,Dani Olmo,a,8292,FromCorner,2023,Head,23066,Bayer Leverkusen,RasenBallsport Leipzig,3,2,2023-08-19 13:30:00,David Raum,Cross
+534324,4,BlockedShot,0.7230000305175781,0.3920000076293945,0.046093959361314774,Dani Olmo,h,8292,DirectFreekick,2023,RightFoot,23074,RasenBallsport Leipzig,VfB Stuttgart,5,1,2023-08-25 18:30:00,,Standard
+534325,4,MissedShots,0.7240000152587891,0.40700000762939453,0.012285039760172367,Dani Olmo,h,8292,SetPiece,2023,LeftFoot,23074,RasenBallsport Leipzig,VfB Stuttgart,5,1,2023-08-25 18:30:00,,Rebound
+534334,41,MissedShots,0.9059999847412109,0.639000015258789,0.08734739571809769,Dani Olmo,h,8292,OpenPlay,2023,RightFoot,23074,RasenBallsport Leipzig,VfB Stuttgart,5,1,2023-08-25 18:30:00,,TakeOn
+534339,62,Goal,0.845,0.4640000152587891,0.0896400436758995,Dani Olmo,h,8292,OpenPlay,2023,LeftFoot,23074,RasenBallsport Leipzig,VfB Stuttgart,5,1,2023-08-25 18:30:00,Xavi Simons,Pass
+536974,75,SavedShot,0.775,0.4909999847412109,0.042274147272109985,Dani Olmo,a,8292,OpenPlay,2023,LeftFoot,23091,Union Berlin,RasenBallsport Leipzig,0,3,2023-09-03 15:30:00,Benjamin Sesko,Pass
+543869,81,MissedShots,0.7630000305175781,0.500999984741211,0.0812547579407692,Dani Olmo,a,8292,DirectFreekick,2023,RightFoot,23133,Darmstadt,RasenBallsport Leipzig,1,3,2023-10-21 13:30:00,,Standard
+558104,72,BlockedShot,0.93,0.5220000076293946,0.10436054319143295,Dani Olmo,h,8292,OpenPlay,2023,LeftFoot,23210,RasenBallsport Leipzig,Eintracht Frankfurt,0,1,2024-01-13 14:30:00,Benjamin Henrichs,Cross
+558106,80,BlockedShot,0.84,0.7609999847412109,0.020290175452828407,Dani Olmo,h,8292,OpenPlay,2023,RightFoot,23210,RasenBallsport Leipzig,Eintracht Frankfurt,0,1,2024-01-13 14:30:00,,None
+559108,13,MissedShots,0.7619999694824219,0.43099998474121093,0.03141438588500023,Dani Olmo,h,8292,OpenPlay,2023,RightFoot,23219,RasenBallsport Leipzig,Bayer Leverkusen,2,3,2024-01-20 17:30:00,Nicolas Seiwald,Pass
+561887,42,BlockedShot,0.7619999694824219,0.27899999618530275,0.024562550708651543,Dani Olmo,h,8292,OpenPlay,2023,RightFoot,23237,RasenBallsport Leipzig,Union Berlin,2,0,2024-02-04 16:30:00,Lukas Klostermann,Pass
+561894,52,SavedShot,0.884000015258789,0.315,0.07622285187244415,Dani Olmo,h,8292,OpenPlay,2023,RightFoot,23237,RasenBallsport Leipzig,Union Berlin,2,0,2024-02-04 16:30:00,Benjamin Sesko,Pass
+562366,17,SavedShot,0.924000015258789,0.48200000762939454,0.32394298911094666,Dani Olmo,a,8292,FromCorner,2023,Head,23251,Augsburg,RasenBallsport Leipzig,2,2,2024-02-10 14:30:00,Willi Orban,HeadPass
+564078,12,SavedShot,0.7780000305175782,0.65,0.02613525092601776,Dani Olmo,h,8292,OpenPlay,2023,LeftFoot,23254,RasenBallsport Leipzig,Borussia M.Gladbach,2,0,2024-02-17 17:30:00,Amadou Haidara,Pass
+564087,22,MissedShots,0.9419999694824219,0.6379999923706055,0.09590250998735428,Dani Olmo,h,8292,OpenPlay,2023,LeftFoot,23254,RasenBallsport Leipzig,Borussia M.Gladbach,2,0,2024-02-17 17:30:00,,None
+565383,0,BlockedShot,0.889000015258789,0.315,0.058803580701351166,Dani Olmo,a,8292,OpenPlay,2023,RightFoot,23271,Bayern Munich,RasenBallsport Leipzig,2,1,2024-02-24 17:30:00,,BallRecovery
+566450,12,MissedShots,0.7430000305175781,0.4929999923706055,0.02115514501929283,Dani Olmo,a,8292,OpenPlay,2023,RightFoot,23278,Bochum,RasenBallsport Leipzig,1,4,2024-03-02 14:30:00,Amadou Haidara,Pass
+566455,29,Goal,0.7930000305175782,0.5870000076293945,0.05531594157218933,Dani Olmo,a,8292,OpenPlay,2023,RightFoot,23278,Bochum,RasenBallsport Leipzig,1,4,2024-03-02 14:30:00,Benjamin Sesko,Pass
+566456,40,MissedShots,0.9359999847412109,0.5270000076293946,0.0989670604467392,Dani Olmo,a,8292,FromCorner,2023,OtherBodyPart,23278,Bochum,RasenBallsport Leipzig,1,4,2024-03-02 14:30:00,David Raum,Cross
+567976,79,BlockedShot,0.845999984741211,0.5579999923706055,0.11367683857679367,Dani Olmo,h,8292,OpenPlay,2023,RightFoot,23282,RasenBallsport Leipzig,Darmstadt,2,0,2024-03-09 14:30:00,Xavi Simons,Pass
+569104,30,SavedShot,0.794000015258789,0.36400001525878906,0.02925494872033596,Dani Olmo,a,8292,OpenPlay,2023,RightFoot,23295,FC Cologne,RasenBallsport Leipzig,1,5,2024-03-15 19:30:00,Loïs Openda,Pass
+569106,35,MissedShots,0.750999984741211,0.5529999923706055,0.021960396319627762,Dani Olmo,a,8292,OpenPlay,2023,RightFoot,23295,FC Cologne,RasenBallsport Leipzig,1,5,2024-03-15 19:30:00,Xaver Schlager,Pass
+569108,45,ShotOnPost,0.8719999694824219,0.51,0.050052061676979065,Dani Olmo,a,8292,FromCorner,2023,LeftFoot,23295,FC Cologne,RasenBallsport Leipzig,1,5,2024-03-15 19:30:00,Xavi Simons,Cross
+569121,75,BlockedShot,0.8059999847412109,0.2589999961853027,0.020526297390460968,Dani Olmo,a,8292,OpenPlay,2023,LeftFoot,23295,FC Cologne,RasenBallsport Leipzig,1,5,2024-03-15 19:30:00,Benjamin Henrichs,Pass
+569122,76,MissedShots,0.7730000305175782,0.7030000305175781,0.055940888822078705,Dani Olmo,a,8292,DirectFreekick,2023,RightFoot,23295,FC Cologne,RasenBallsport Leipzig,1,5,2024-03-15 19:30:00,,Standard
+570654,17,SavedShot,0.7959999847412109,0.36200000762939455,0.031100543215870857,Dani Olmo,h,8292,OpenPlay,2023,RightFoot,23300,RasenBallsport Leipzig,Mainz 05,0,0,2024-03-30 14:30:00,Xavi Simons,Pass
+570656,23,MissedShots,0.8930000305175781,0.3659999847412109,0.08038333058357239,Dani Olmo,h,8292,OpenPlay,2023,LeftFoot,23300,RasenBallsport Leipzig,Mainz 05,0,0,2024-03-30 14:30:00,Benjamin Henrichs,Pass
+570660,47,BlockedShot,0.89,0.36200000762939455,0.06951630115509033,Dani Olmo,h,8292,OpenPlay,2023,RightFoot,23300,RasenBallsport Leipzig,Mainz 05,0,0,2024-03-30 14:30:00,Christoph Baumgartner,Chipped
+570666,54,MissedShots,0.9209999847412109,0.4370000076293945,0.07915377616882324,Dani Olmo,h,8292,FromCorner,2023,Head,23300,RasenBallsport Leipzig,Mainz 05,0,0,2024-03-30 14:30:00,David Raum,Cross
+570668,58,SavedShot,0.9269999694824219,0.5459999847412109,0.35861560702323914,Dani Olmo,h,8292,OpenPlay,2023,Head,23300,RasenBallsport Leipzig,Mainz 05,0,0,2024-03-30 14:30:00,David Raum,Cross
+570673,85,MissedShots,0.9540000152587891,0.4909999847412109,0.5776435732841492,Dani Olmo,h,8292,OpenPlay,2023,Head,23300,RasenBallsport Leipzig,Mainz 05,0,0,2024-03-30 14:30:00,David Raum,Cross
+572359,41,BlockedShot,0.8690000152587891,0.39599998474121095,0.12637968361377716,Dani Olmo,a,8292,OpenPlay,2023,RightFoot,23310,Freiburg,RasenBallsport Leipzig,1,4,2024-04-06 13:30:00,Benjamin Sesko,Pass
+573570,12,Goal,0.765,0.51,0.028878582641482353,Dani Olmo,h,8292,OpenPlay,2023,RightFoot,23318,RasenBallsport Leipzig,Wolfsburg,3,0,2024-04-13 13:30:00,Xaver Schlager,Pass
+573574,36,BlockedShot,0.8219999694824218,0.49900001525878906,0.0740513727068901,Dani Olmo,h,8292,OpenPlay,2023,LeftFoot,23318,RasenBallsport Leipzig,Wolfsburg,3,0,2024-04-13 13:30:00,,None
+573576,42,BlockedShot,0.8419999694824218,0.8030000305175782,0.02480253577232361,Dani Olmo,h,8292,OpenPlay,2023,RightFoot,23318,RasenBallsport Leipzig,Wolfsburg,3,0,2024-04-13 13:30:00,Xaver Schlager,Pass
+573577,43,SavedShot,0.93,0.5740000152587891,0.03005135990679264,Dani Olmo,h,8292,FromCorner,2023,Head,23318,RasenBallsport Leipzig,Wolfsburg,3,0,2024-04-13 13:30:00,Xavi Simons,Aerial
+573590,86,BlockedShot,0.9180000305175782,0.29700000762939455,0.08191550523042679,Dani Olmo,h,8292,OpenPlay,2023,RightFoot,23318,RasenBallsport Leipzig,Wolfsburg,3,0,2024-04-13 13:30:00,Eljif Elmas,Pass
+573591,89,SavedShot,0.905,0.36,0.11969496309757233,Dani Olmo,h,8292,OpenPlay,2023,LeftFoot,23318,RasenBallsport Leipzig,Wolfsburg,3,0,2024-04-13 13:30:00,Xavi Simons,Pass
+574877,43,MissedShots,0.8040000152587891,0.3509999847412109,0.0346962995827198,Dani Olmo,a,8292,OpenPlay,2023,RightFoot,23334,FC Heidenheim,RasenBallsport Leipzig,1,2,2024-04-20 13:30:00,Benjamin Sesko,Pass
+574886,82,MissedShots,0.9569999694824218,0.385,0.05086183547973633,Dani Olmo,a,8292,FromCorner,2023,RightFoot,23334,FC Heidenheim,RasenBallsport Leipzig,1,2,2024-04-20 13:30:00,David Raum,Cross
+576691,14,MissedShots,0.7959999847412109,0.539000015258789,0.04337422177195549,Dani Olmo,h,8292,OpenPlay,2023,RightFoot,23336,RasenBallsport Leipzig,Borussia Dortmund,4,1,2024-04-27 13:30:00,Loïs Openda,Pass
+576699,43,MissedShots,0.7619999694824219,0.4590000152587891,0.02625403180718422,Dani Olmo,h,8292,OpenPlay,2023,RightFoot,23336,RasenBallsport Leipzig,Borussia Dortmund,4,1,2024-04-27 13:30:00,David Raum,Pass
+576707,60,MissedShots,0.7630000305175781,0.43400001525878906,0.0439768023788929,Dani Olmo,h,8292,OpenPlay,2023,LeftFoot,23336,RasenBallsport Leipzig,Borussia Dortmund,4,1,2024-04-27 13:30:00,Loïs Openda,HeadPass
+576717,84,MissedShots,0.840999984741211,0.3870000076293945,0.0901108905673027,Dani Olmo,h,8292,OpenPlay,2023,RightFoot,23336,RasenBallsport Leipzig,Borussia Dortmund,4,1,2024-04-27 13:30:00,Christoph Baumgartner,Pass
+576718,87,MissedShots,0.8490000152587891,0.700999984741211,0.050198353826999664,Dani Olmo,h,8292,OpenPlay,2023,RightFoot,23336,RasenBallsport Leipzig,Borussia Dortmund,4,1,2024-04-27 13:30:00,,BallRecovery
+587262,57,ShotOnPost,0.7019999694824218,0.44,0.0110369473695755,Dani Olmo,a,8292,OpenPlay,2024,RightFoot,27004,Rayo Vallecano,Barcelona,1,2,2024-08-27 19:30:00,Marc Bernal,Foul
+587266,78,BlockedShot,0.7759999847412109,0.29600000381469727,0.014485727995634079,Dani Olmo,a,8292,OpenPlay,2024,RightFoot,27004,Rayo Vallecano,Barcelona,1,2,2024-08-27 19:30:00,,None
+587269,81,Goal,0.8980000305175782,0.37,0.0872543454170227,Dani Olmo,a,8292,OpenPlay,2024,LeftFoot,27004,Rayo Vallecano,Barcelona,1,2,2024-08-27 19:30:00,Lamine Yamal,Pass
+589308,3,ShotOnPost,0.960999984741211,0.38,0.34611189365386963,Dani Olmo,h,8292,OpenPlay,2024,RightFoot,27012,Barcelona,Real Valladolid,7,0,2024-08-31 15:00:00,Robert Lewandowski,Rebound
+589318,38,SavedShot,0.725999984741211,0.36400001525878906,0.02193465083837509,Dani Olmo,h,8292,OpenPlay,2024,RightFoot,27012,Barcelona,Real Valladolid,7,0,2024-08-31 15:00:00,Pedri,Pass
+589319,40,ShotOnPost,0.8530000305175781,0.515,0.12392028421163559,Dani Olmo,h,8292,OpenPlay,2024,RightFoot,27012,Barcelona,Real Valladolid,7,0,2024-08-31 15:00:00,Robert Lewandowski,Pass
+589323,49,BlockedShot,0.914000015258789,0.6179999923706054,0.1315528154373169,Dani Olmo,h,8292,OpenPlay,2024,LeftFoot,27012,Barcelona,Real Valladolid,7,0,2024-08-31 15:00:00,Robert Lewandowski,Pass
+589325,54,MissedShots,0.8180000305175781,0.735,0.025155790150165558,Dani Olmo,h,8292,OpenPlay,2024,RightFoot,27012,Barcelona,Real Valladolid,7,0,2024-08-31 15:00:00,Pedri,Pass
+589331,81,Goal,0.9419999694824219,0.6170000076293946,0.4376397430896759,Dani Olmo,h,8292,OpenPlay,2024,RightFoot,27012,Barcelona,Real Valladolid,7,0,2024-08-31 15:00:00,Ferrán Torres,TakeOn
+591478,46,Goal,0.965,0.2979999923706055,0.12356333434581757,Dani Olmo,a,8292,OpenPlay,2024,RightFoot,27028,Girona,Barcelona,1,4,2024-09-15 14:15:00,Jules Koundé,Throughball
+598724,88,MissedShots,0.8090000152587891,0.37400001525878906,0.03681571036577225,Dani Olmo,a,8292,FromCorner,2024,RightFoot,27085,Real Madrid,Barcelona,0,4,2024-10-26 19:00:00,Lamine Yamal,Pass
+600714,7,MissedShots,0.9490000152587891,0.4929999923706055,0.5726586580276489,Dani Olmo,h,8292,OpenPlay,2024,Head,27101,Barcelona,Espanyol,3,1,2024-11-03 15:15:00,Hector Fort,Aerial
+600716,9,SavedShot,0.7809999847412109,0.48900001525878906,0.03463135287165642,Dani Olmo,h,8292,OpenPlay,2024,RightFoot,27101,Barcelona,Espanyol,3,1,2024-11-03 15:15:00,Lamine Yamal,Pass
+600717,11,Goal,0.92,0.43099998474121093,0.4504460394382477,Dani Olmo,h,8292,OpenPlay,2024,RightFoot,27101,Barcelona,Espanyol,3,1,2024-11-03 15:15:00,Lamine Yamal,Throughball
+600721,30,Goal,0.8109999847412109,0.48400001525878905,0.08090139180421829,Dani Olmo,h,8292,OpenPlay,2024,RightFoot,27101,Barcelona,Espanyol,3,1,2024-11-03 15:15:00,Álex Balde,Pass
+602366,58,BlockedShot,0.8480000305175781,0.6409999847412109,0.06001559644937515,Dani Olmo,a,8292,OpenPlay,2024,RightFoot,27108,Real Sociedad,Barcelona,1,0,2024-11-10 20:00:00,Álex Balde,TakeOn
+602373,80,MissedShots,0.7519999694824219,0.7319999694824219,0.01840961165726185,Dani Olmo,a,8292,FromCorner,2024,RightFoot,27108,Real Sociedad,Barcelona,1,0,2024-11-10 20:00:00,Pedri,Pass
+603217,43,SavedShot,0.8190000152587891,0.62,0.06770883500576019,Dani Olmo,a,8292,OpenPlay,2024,RightFoot,27117,Celta Vigo,Barcelona,2,2,2024-11-23 20:00:00,Robert Lewandowski,TakeOn
+605128,40,BlockedShot,0.7569999694824219,0.41700000762939454,0.030836569145321846,Dani Olmo,a,8292,OpenPlay,2024,RightFoot,27167,Mallorca,Barcelona,1,5,2024-12-03 18:00:00,Ferrán Torres,Pass
+605136,59,MissedShots,0.87,0.5209999847412109,0.018534863367676735,Dani Olmo,a,8292,SetPiece,2024,Head,27167,Mallorca,Barcelona,1,5,2024-12-03 18:00:00,Pedri,Foul
+605905,24,MissedShots,0.7269999694824218,0.5370000076293945,0.01795492321252823,Dani Olmo,a,8292,OpenPlay,2024,RightFoot,27139,Real Betis,Barcelona,2,2,2024-12-07 15:15:00,Álex Balde,Pass
+607838,19,MissedShots,0.8730000305175781,0.46900001525878904,0.04169631376862526,Dani Olmo,h,8292,OpenPlay,2024,Head,27143,Barcelona,Leganes,0,1,2024-12-15 20:00:00,Jules Koundé,Cross
+607841,32,MissedShots,0.8969999694824219,0.39,0.03302876278758049,Dani Olmo,h,8292,OpenPlay,2024,Head,27143,Barcelona,Leganes,0,1,2024-12-15 20:00:00,Jules Koundé,Cross
+608575,79,MissedShots,0.9269999694824219,0.6509999847412109,0.06565245240926743,Dani Olmo,h,8292,OpenPlay,2024,RightFoot,27160,Barcelona,Atletico Madrid,1,2,2024-12-21 20:00:00,Álex Balde,TakeOn
+618788,61,Goal,0.89,0.4909999847412109,0.43136289715766907,Dani Olmo,a,8292,OpenPlay,2024,LeftFoot,27226,Las Palmas,Barcelona,0,2,2025-02-22 20:00:00,Lamine Yamal,Pass
+620510,20,BlockedShot,0.88,0.47200000762939454,0.11392372846603394,Dani Olmo,h,8292,OpenPlay,2024,LeftFoot,27232,Barcelona,Real Sociedad,4,0,2025-03-02 15:15:00,Lamine Yamal,Pass
+620514,28,MissedShots,0.8090000152587891,0.4129999923706055,0.03280569612979889,Dani Olmo,h,8292,FromCorner,2024,RightFoot,27232,Barcelona,Real Sociedad,4,0,2025-03-02 15:15:00,,Goal
+620520,43,BlockedShot,0.8490000152587891,0.5129999923706055,0.057715561240911484,Dani Olmo,h,8292,FromCorner,2024,RightFoot,27232,Barcelona,Real Sociedad,4,0,2025-03-02 15:15:00,Pedri,Pass
+620521,45,SavedShot,0.8690000152587891,0.3579999923706055,0.07330332696437836,Dani Olmo,h,8292,OpenPlay,2024,RightFoot,27232,Barcelona,Real Sociedad,4,0,2025-03-02 15:15:00,,None
+620531,63,SavedShot,0.894000015258789,0.6919999694824219,0.09616389870643616,Dani Olmo,h,8292,FromCorner,2024,LeftFoot,27232,Barcelona,Real Sociedad,4,0,2025-03-02 15:15:00,Frenkie de Jong,Throughball
+623795,8,MissedShots,0.915,0.5790000152587891,0.12667697668075562,Dani Olmo,h,8292,OpenPlay,2024,RightFoot,27244,Barcelona,Osasuna,3,0,2025-03-27 20:00:00,Álex Balde,Pass
+623798,20,Goal,0.885,0.5,0.7432776093482971,Dani Olmo,h,8292,Penalty,2024,RightFoot,27244,Barcelona,Osasuna,3,0,2025-03-27 20:00:00,,Standard
+628683,63,Goal,0.8919999694824219,0.580999984741211,0.2959471642971039,Dani Olmo,h,8292,OpenPlay,2024,LeftFoot,27292,Barcelona,Celta Vigo,4,3,2025-04-19 14:15:00,Raphinha,Pass
+628687,72,MissedShots,0.9130000305175782,0.5790000152587891,0.31244826316833496,Dani Olmo,h,8292,OpenPlay,2024,RightFoot,27292,Barcelona,Celta Vigo,4,3,2025-04-19 14:15:00,Iñigo Martínez,Chipped
+629634,25,SavedShot,0.92,0.3970000076293945,0.3843507766723633,Dani Olmo,h,8292,OpenPlay,2024,RightFoot,27305,Barcelona,Mallorca,1,0,2025-04-22 19:30:00,Lamine Yamal,Throughball
+629639,30,MissedShots,0.8830000305175781,0.35400001525878905,0.06333989650011063,Dani Olmo,h,8292,OpenPlay,2024,RightFoot,27305,Barcelona,Mallorca,1,0,2025-04-22 19:30:00,,None
+629642,37,BlockedShot,0.8630000305175781,0.7230000305175781,0.02983410842716694,Dani Olmo,h,8292,FromCorner,2024,RightFoot,27305,Barcelona,Mallorca,1,0,2025-04-22 19:30:00,Gavi,Pass
+629651,45,Goal,0.8869999694824219,0.40099998474121096,0.09915599226951599,Dani Olmo,h,8292,OpenPlay,2024,LeftFoot,27305,Barcelona,Mallorca,1,0,2025-04-22 19:30:00,Eric Garcia,Pass
+631709,87,SavedShot,0.7430000305175781,0.46599998474121096,0.0672496035695076,Dani Olmo,a,8292,DirectFreekick,2024,RightFoot,27316,Real Valladolid,Barcelona,1,2,2025-05-03 19:00:00,,Standard
+633583,53,MissedShots,0.779000015258789,0.6229999923706054,0.03665691614151001,Dani Olmo,h,8292,OpenPlay,2024,RightFoot,27324,Barcelona,Real Madrid,4,3,2025-05-11 14:15:00,Raphinha,Pass
+634169,53,BlockedShot,0.8209999847412109,0.505,0.07869631052017212,Dani Olmo,a,8292,OpenPlay,2024,RightFoot,27332,Espanyol,Barcelona,0,2,2025-05-15 19:30:00,Raphinha,Pass
+636609,93,Goal,0.885,0.5,0.7432776093482971,Dani Olmo,a,8292,Penalty,2024,RightFoot,27353,Athletic Club,Barcelona,0,3,2025-05-25 19:00:00,,Standard
+637891,57,SavedShot,0.9169999694824219,0.4520000076293945,0.048319779336452484,Dani Olmo,a,8292,OpenPlay,2025,Head,29160,Mallorca,Barcelona,0,3,2025-08-16 17:30:00,,Aerial
+637893,57,BlockedShot,0.9230000305175782,0.485,0.11860474944114685,Dani Olmo,a,8292,OpenPlay,2025,LeftFoot,29160,Mallorca,Barcelona,0,3,2025-08-16 17:30:00,Pedri,Foul
+637895,68,ShotOnPost,0.9,0.42700000762939455,0.13936404883861542,Dani Olmo,a,8292,OpenPlay,2025,RightFoot,29160,Mallorca,Barcelona,0,3,2025-08-16 17:30:00,Raphinha,Pass
+637900,79,BlockedShot,0.75,0.5329999923706055,0.031433213502168655,Dani Olmo,a,8292,FromCorner,2025,RightFoot,29160,Mallorca,Barcelona,0,3,2025-08-16 17:30:00,Pedri,Pass
+637899,79,BlockedShot,0.8109999847412109,0.43599998474121093,0.07437517493963242,Dani Olmo,a,8292,OpenPlay,2025,RightFoot,29160,Mallorca,Barcelona,0,3,2025-08-16 17:30:00,Marcus Rashford,Pass
+639234,71,SavedShot,0.7869999694824219,0.5359999847412109,0.037959881126880646,Dani Olmo,a,8292,OpenPlay,2025,RightFoot,29171,Levante,Barcelona,2,3,2025-08-23 19:30:00,Eric Garcia,Pass
+639236,77,MissedShots,0.874000015258789,0.3160000038146973,0.0544249527156353,Dani Olmo,a,8292,OpenPlay,2025,RightFoot,29171,Levante,Barcelona,2,3,2025-08-23 19:30:00,Lamine Yamal,Pass
+641225,25,SavedShot,0.6819999694824219,0.56,0.015737103298306465,Dani Olmo,a,8292,SetPiece,2025,RightFoot,29188,Rayo Vallecano,Barcelona,1,1,2025-08-31 19:30:00,Raphinha,Pass
+641230,47,MissedShots,0.8119999694824219,0.5179999923706055,0.07298558950424194,Dani Olmo,a,8292,OpenPlay,2025,RightFoot,29188,Rayo Vallecano,Barcelona,1,1,2025-08-31 19:30:00,Ferrán Torres,Pass
+641229,48,MissedShots,0.8909999847412109,0.5270000076293946,0.44785213470458984,Dani Olmo,a,8292,OpenPlay,2025,RightFoot,29188,Rayo Vallecano,Barcelona,1,1,2025-08-31 19:30:00,,None
+642632,80,MissedShots,0.7930000305175782,0.3270000076293945,0.04444834589958191,Dani Olmo,h,8292,OpenPlay,2025,RightFoot,29194,Barcelona,Valencia,6,0,2025-09-14 19:00:00,Pedri,Pass
+644005,40,MissedShots,0.8159999847412109,0.5570000076293945,0.0764046236872673,Dani Olmo,h,8292,OpenPlay,2025,RightFoot,29199,Barcelona,Getafe,3,0,2025-09-21 19:00:00,Gerard Martín,Pass
+644009,59,MissedShots,0.6940000152587891,0.5420000076293945,0.040363859385252,Dani Olmo,h,8292,DirectFreekick,2025,RightFoot,29199,Barcelona,Getafe,3,0,2025-09-21 19:00:00,,Standard
+644010,61,Goal,0.85,0.5420000076293945,0.4145561456680298,Dani Olmo,h,8292,OpenPlay,2025,RightFoot,29199,Barcelona,Getafe,3,0,2025-09-21 19:00:00,,None
+644012,69,BlockedShot,0.8040000152587891,0.2589999961853027,0.06465481966733932,Dani Olmo,h,8292,DirectFreekick,2025,RightFoot,29199,Barcelona,Getafe,3,0,2025-09-21 19:00:00,,Standard
+644304,2,MissedShots,0.735,0.36400001525878906,0.021350819617509842,Dani Olmo,a,8292,OpenPlay,2025,RightFoot,29213,Real Oviedo,Barcelona,1,3,2025-09-25 19:30:00,Marc Casadó,Pass
+644319,54,MissedShots,0.905,0.44799999237060545,0.0841597467660904,Dani Olmo,a,8292,OpenPlay,2025,RightFoot,29213,Real Oviedo,Barcelona,1,3,2025-09-25 19:30:00,Raphinha,Cross
+645555,69,SavedShot,0.764000015258789,0.3990000152587891,0.03227091208100319,Dani Olmo,h,8292,OpenPlay,2025,RightFoot,29220,Barcelona,Real Sociedad,2,1,2025-09-28 16:30:00,Frenkie de Jong,Pass
+645561,92,BlockedShot,0.74,0.715,0.043368082493543625,Dani Olmo,h,8292,DirectFreekick,2025,RightFoot,29220,Barcelona,Real Sociedad,2,1,2025-09-28 16:30:00,,Standard
+646819,14,BlockedShot,0.755,0.49599998474121093,0.025276167318224907,Dani Olmo,a,8292,OpenPlay,2025,RightFoot,29233,Sevilla,Barcelona,4,1,2025-10-05 14:15:00,Pedri,Pass
+653192,43,SavedShot,0.8159999847412109,0.53,0.053675249218940735,Dani Olmo,a,8292,OpenPlay,2025,LeftFoot,29274,Celta Vigo,Barcelona,2,4,2025-11-09 20:00:00,,None
+653196,67,BlockedShot,0.7980000305175782,0.6569999694824219,0.022222882136702538,Dani Olmo,a,8292,FromCorner,2025,RightFoot,29274,Celta Vigo,Barcelona,2,4,2025-11-09 20:00:00,Eric Garcia,None
+653199,74,BlockedShot,0.8419999694824218,0.5520000076293945,0.0861879289150238,Dani Olmo,a,8292,OpenPlay,2025,RightFoot,29274,Celta Vigo,Barcelona,2,4,2025-11-09 20:00:00,,Dispossessed
+653703,7,BlockedShot,0.8059999847412109,0.6419999694824219,0.047522228211164474,Dani Olmo,h,8292,OpenPlay,2025,RightFoot,29284,Barcelona,Athletic Club,4,0,2025-11-22 15:15:00,Pau Cubarsí,Chipped
+653710,19,MissedShots,0.8240000152587891,0.5429999923706055,0.0711098313331604,Dani Olmo,h,8292,OpenPlay,2025,RightFoot,29284,Barcelona,Athletic Club,4,0,2025-11-22 15:15:00,,Rebound
+653719,60,BlockedShot,0.9069999694824219,0.34799999237060547,0.08900916576385498,Dani Olmo,h,8292,OpenPlay,2025,RightFoot,29284,Barcelona,Athletic Club,4,0,2025-11-22 15:15:00,Lamine Yamal,Pass
+653722,64,MissedShots,0.88,0.3609999847412109,0.09871971607208252,Dani Olmo,h,8292,OpenPlay,2025,RightFoot,29284,Barcelona,Athletic Club,4,0,2025-11-22 15:15:00,Jules Koundé,Pass
+655118,25,Goal,0.8830000305175781,0.549000015258789,0.39084479212760925,Dani Olmo,h,8292,OpenPlay,2025,RightFoot,29294,Barcelona,Alaves,3,1,2025-11-29 15:15:00,Raphinha,Pass
+655128,70,MissedShots,0.874000015258789,0.46700000762939453,0.09972450882196426,Dani Olmo,h,8292,OpenPlay,2025,RightFoot,29294,Barcelona,Alaves,3,1,2025-11-29 15:15:00,,None
+655135,92,Goal,0.8619999694824219,0.549000015258789,0.40288272500038147,Dani Olmo,h,8292,OpenPlay,2025,LeftFoot,29294,Barcelona,Alaves,3,1,2025-11-29 15:15:00,Lamine Yamal,Pass
+656177,57,MissedShots,0.7169999694824218,0.5729999923706055,0.015198685228824615,Dani Olmo,h,8292,OpenPlay,2025,RightFoot,29342,Barcelona,Atletico Madrid,3,1,2025-12-02 20:00:00,Robert Lewandowski,Pass
+656178,64,Goal,0.8780000305175781,0.549000015258789,0.40682461857795715,Dani Olmo,h,8292,OpenPlay,2025,LeftFoot,29342,Barcelona,Atletico Madrid,3,1,2025-12-02 20:00:00,,Dispossessed
+661218,85,Goal,0.8059999847412109,0.6519999694824219,0.03155927360057831,Dani Olmo,a,8292,OpenPlay,2025,RightFoot,29333,Espanyol,Barcelona,0,2,2026-01-03 20:00:00,Fermín López,Pass
+661219,88,SavedShot,0.9590000152587891,0.83,0.07079387456178665,Dani Olmo,a,8292,DirectFreekick,2025,RightFoot,29333,Espanyol,Barcelona,0,2,2026-01-03 20:00:00,,Standard
+664338,3,SavedShot,0.8090000152587891,0.6969999694824218,0.027187345549464226,Dani Olmo,a,8292,OpenPlay,2025,RightFoot,29350,Real Sociedad,Barcelona,2,1,2026-01-18 20:00:00,Álex Balde,Pass
+664339,12,MissedShots,0.78,0.4,0.02912680245935917,Dani Olmo,a,8292,OpenPlay,2025,RightFoot,29350,Real Sociedad,Barcelona,2,1,2026-01-18 20:00:00,Pedri,Pass
+664340,22,MissedShots,0.9169999694824219,0.4590000152587891,0.4863148331642151,Dani Olmo,a,8292,OpenPlay,2025,RightFoot,29350,Real Sociedad,Barcelona,2,1,2026-01-18 20:00:00,Lamine Yamal,Pass
+664345,36,SavedShot,0.8469999694824218,0.7440000152587891,0.024402620270848274,Dani Olmo,a,8292,OpenPlay,2025,RightFoot,29350,Real Sociedad,Barcelona,2,1,2026-01-18 20:00:00,Álex Balde,Pass
+664350,46,ShotOnPost,0.9780000305175781,0.57,0.44911861419677734,Dani Olmo,a,8292,OpenPlay,2025,LeftFoot,29350,Real Sociedad,Barcelona,2,1,2026-01-18 20:00:00,Fermín López,Cross
+664351,48,SavedShot,0.9119999694824219,0.6129999923706054,0.3335910737514496,Dani Olmo,a,8292,OpenPlay,2025,RightFoot,29350,Real Sociedad,Barcelona,2,1,2026-01-18 20:00:00,Álex Balde,Pass
+665333,33,BlockedShot,0.8580000305175781,0.705,0.030394643545150757,Dani Olmo,h,8292,SetPiece,2025,RightFoot,29361,Barcelona,Real Oviedo,3,0,2026-01-25 15:15:00,Raphinha,Pass
+665334,36,BlockedShot,0.8430000305175781,0.4470000076293945,0.08524057269096375,Dani Olmo,h,8292,OpenPlay,2025,RightFoot,29361,Barcelona,Real Oviedo,3,0,2026-01-25 15:15:00,Lamine Yamal,Pass
+665341,50,MissedShots,0.9340000152587891,0.5559999847412109,0.38807961344718933,Dani Olmo,h,8292,OpenPlay,2025,Head,29361,Barcelona,Real Oviedo,3,0,2026-01-25 15:15:00,Raphinha,Cross
+665342,51,Goal,0.8640000152587891,0.3970000076293945,0.07561786472797394,Dani Olmo,h,8292,OpenPlay,2025,RightFoot,29361,Barcelona,Real Oviedo,3,0,2026-01-25 15:15:00,,BallRecovery
+666311,15,MissedShots,0.875,0.600999984741211,0.10739485919475555,Dani Olmo,a,8292,OpenPlay,2025,RightFoot,29373,Elche,Barcelona,1,3,2026-01-31 20:00:00,Álex Balde,Pass
+666315,27,ShotOnPost,0.845999984741211,0.6370000076293946,0.06993042677640915,Dani Olmo,a,8292,OpenPlay,2025,RightFoot,29373,Elche,Barcelona,1,3,2026-01-31 20:00:00,Lamine Yamal,Pass
+667358,17,BlockedShot,0.7330000305175781,0.7230000305175781,0.01376618817448616,Dani Olmo,h,8292,OpenPlay,2025,RightFoot,29381,Barcelona,Mallorca,3,0,2026-02-07 15:15:00,Marcus Rashford,Pass
+667374,56,SavedShot,0.759000015258789,0.6580000305175782,0.040515292435884476,Dani Olmo,h,8292,OpenPlay,2025,RightFoot,29381,Barcelona,Mallorca,3,0,2026-02-07 15:15:00,Marcus Rashford,Pass
+667378,65,BlockedShot,0.764000015258789,0.6730000305175782,0.025172527879476547,Dani Olmo,h,8292,FromCorner,2025,RightFoot,29381,Barcelona,Mallorca,3,0,2026-02-07 15:15:00,Fermín López,Pass
+669354,50,MissedShots,0.8,0.6669999694824219,0.029243309050798416,Dani Olmo,a,8292,OpenPlay,2025,RightFoot,29395,Girona,Barcelona,2,1,2026-02-16 20:00:00,Raphinha,Pass
+670280,57,SavedShot,0.8680000305175781,0.41900001525878905,0.1253594309091568,Dani Olmo,h,8292,OpenPlay,2025,RightFoot,29401,Barcelona,Levante,3,0,2026-02-22 15:15:00,Raphinha,Pass
+671156,43,MissedShots,0.905,0.325,0.04239547997713089,Dani Olmo,h,8292,FromCorner,2025,RightFoot,29408,Barcelona,Villarreal,4,1,2026-02-28 15:15:00,Raphinha,End
+671158,46,SavedShot,0.950999984741211,0.4809999847412109,0.6674009561538696,Dani Olmo,h,8292,OpenPlay,2025,RightFoot,29408,Barcelona,Villarreal,4,1,2026-02-28 15:15:00,Jules Koundé,Pass
+671163,57,MissedShots,0.7630000305175781,0.4540000152587891,0.03639144077897072,Dani Olmo,h,8292,OpenPlay,2025,LeftFoot,29408,Barcelona,Villarreal,4,1,2026-02-28 15:15:00,Lamine Yamal,Pass
+672907,55,BlockedShot,0.7759999847412109,0.705999984741211,0.06052735075354576,Dani Olmo,a,8292,DirectFreekick,2025,RightFoot,29418,Athletic Club,Barcelona,0,1,2026-03-07 20:00:00,,Standard
+674517,16,SavedShot,0.7230000305175781,0.3990000152587891,0.024542266502976418,Dani Olmo,h,8292,OpenPlay,2025,RightFoot,29430,Barcelona,Sevilla,5,2,2026-03-15 15:15:00,Pedri,Pass
+674522,37,Goal,0.87,0.46599998474121096,0.4675428867340088,Dani Olmo,h,8292,OpenPlay,2025,RightFoot,29430,Barcelona,Sevilla,5,2,2026-03-15 15:15:00,,None
+674533,75,MissedShots,0.825999984741211,0.6309999847412109,0.06265133619308472,Dani Olmo,h,8292,OpenPlay,2025,RightFoot,29430,Barcelona,Sevilla,5,2,2026-03-15 15:15:00,,Dispossessed
+675780,67,MissedShots,0.84,0.25299999237060544,0.017194755375385284,Dani Olmo,h,8292,SetPiece,2025,RightFoot,29441,Barcelona,Rayo Vallecano,1,0,2026-03-22 13:00:00,,Rebound
+676868,80,BlockedShot,0.799000015258789,0.4,0.04006996005773544,Dani Olmo,a,8292,OpenPlay,2025,LeftFoot,29449,Atletico Madrid,Barcelona,1,2,2026-04-04 19:00:00,Lamine Yamal,Pass
+680392,36,MissedShots,0.9180000305175782,0.465,0.37825843691825867,Dani Olmo,h,8292,OpenPlay,2025,Head,29479,Barcelona,Celta Vigo,1,0,2026-04-22 19:30:00,Lamine Yamal,Cross
+680398,67,MissedShots,0.8590000152587891,0.41700000762939454,0.09545600414276123,Dani Olmo,h,8292,OpenPlay,2025,RightFoot,29479,Barcelona,Celta Vigo,1,0,2026-04-22 19:30:00,Roony Bardghji,Pass
+681088,4,MissedShots,0.84,0.3890000152587891,0.06596729159355164,Dani Olmo,a,8292,OpenPlay,2025,RightFoot,29469,Getafe,Barcelona,0,2,2026-04-25 14:15:00,Fermín López,TakeOn
+681095,51,SavedShot,0.9130000305175782,0.4209999847412109,0.33216625452041626,Dani Olmo,a,8292,OpenPlay,2025,RightFoot,29469,Getafe,Barcelona,0,2,2026-04-25 14:15:00,Jules Koundé,Cross
+682557,12,MissedShots,0.774000015258789,0.5079999923706054,0.09751192480325699,Dani Olmo,a,8292,DirectFreekick,2025,RightFoot,29488,Osasuna,Barcelona,1,2,2026-05-02 19:00:00,,Standard
+682564,49,BlockedShot,0.925,0.5070000076293946,0.11216813325881958,Dani Olmo,a,8292,OpenPlay,2025,RightFoot,29488,Osasuna,Barcelona,1,2,2026-05-02 19:00:00,Eric Garcia,HeadPass
+684403,38,MissedShots,0.875,0.4129999923706055,0.06710977107286453,Dani Olmo,h,8292,FromCorner,2025,RightFoot,29500,Barcelona,Real Madrid,2,0,2026-05-10 19:00:00,,None
+685070,9,BlockedShot,0.754000015258789,0.48700000762939455,0.025892334058880806,Dani Olmo,a,8292,OpenPlay,2025,RightFoot,29508,Alaves,Barcelona,1,0,2026-05-13 19:30:00,Marc Casadó,Pass
+685081,59,MissedShots,0.7230000305175781,0.46599998474121096,0.018659185618162155,Dani Olmo,a,8292,OpenPlay,2025,RightFoot,29508,Alaves,Barcelona,1,0,2026-05-13 19:30:00,Álex Balde,Pass

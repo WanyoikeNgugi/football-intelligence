@@ -1,0 +1,44 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+32383,55,Goal,0.894000015258789,0.545,0.4370410144329071,Ikechukwu Uche,a,2349,OpenPlay,2014,LeftFoot,5833,Levante,Villarreal,0,2,2014-08-24 22:00:00,Cani,Pass
+33557,23,MissedShots,0.9619999694824218,0.61,0.05477190017700195,Ikechukwu Uche,h,2349,OpenPlay,2014,Head,5802,Villarreal,Rayo Vallecano,4,2,2014-09-21 16:00:00,Denis Cheryshev,Cross
+33565,35,ShotOnPost,0.9719999694824218,0.43099998474121093,0.6887710094451904,Ikechukwu Uche,h,2349,OpenPlay,2014,RightFoot,5802,Villarreal,Rayo Vallecano,4,2,2014-09-21 16:00:00,Bruno,TakeOn
+33569,54,SavedShot,0.9330000305175781,0.40200000762939453,0.3556169867515564,Ikechukwu Uche,h,2349,OpenPlay,2014,RightFoot,5802,Villarreal,Rayo Vallecano,4,2,2014-09-21 16:00:00,Denis Cheryshev,HeadPass
+33572,61,SavedShot,0.9280000305175782,0.5870000076293945,0.4529229998588562,Ikechukwu Uche,h,2349,FromCorner,2014,Head,5802,Villarreal,Rayo Vallecano,4,2,2014-09-21 16:00:00,Gabriel,TakeOn
+33167,25,MissedShots,0.9459999847412109,0.40700000762939453,0.153889000415802,Ikechukwu Uche,a,2349,OpenPlay,2014,LeftFoot,5808,Eibar,Villarreal,1,1,2014-09-24 19:00:00,Javier Espinosa,TakeOn
+33359,6,SavedShot,0.8619999694824219,0.639000015258789,0.05938519909977913,Ikechukwu Uche,h,2349,OpenPlay,2014,LeftFoot,5817,Villarreal,Real Madrid,0,2,2014-09-27 15:00:00,Bruno,Pass
+33369,36,BlockedShot,0.7780000305175782,0.5690000152587891,0.027112800627946854,Ikechukwu Uche,h,2349,OpenPlay,2014,LeftFoot,5817,Villarreal,Real Madrid,0,2,2014-09-27 15:00:00,Manu Trigueros,Pass
+34365,51,MissedShots,0.9259999847412109,0.45799999237060546,0.05831649899482727,Ikechukwu Uche,a,2349,FromCorner,2014,Head,5761,Celta Vigo,Villarreal,1,3,2014-10-05 16:00:00,,None
+34375,93,MissedShots,0.88,0.605999984741211,0.10217999666929245,Ikechukwu Uche,a,2349,OpenPlay,2014,RightFoot,5761,Celta Vigo,Villarreal,1,3,2014-10-05 16:00:00,Manu Trigueros,GoodSkill
+34376,94,SavedShot,0.8930000305175781,0.5359999847412109,0.4385629892349243,Ikechukwu Uche,a,2349,OpenPlay,2014,RightFoot,5761,Celta Vigo,Villarreal,1,3,2014-10-05 16:00:00,Jonathan dos Santos,TakeOn
+35096,22,Goal,0.955999984741211,0.525,0.5574619770050049,Ikechukwu Uche,h,2349,OpenPlay,2014,Head,5772,Villarreal,Almeria,2,0,2014-10-19 20:00:00,,Rebound
+35101,53,BlockedShot,0.7769999694824219,0.47700000762939454,0.041345901787281036,Ikechukwu Uche,h,2349,OpenPlay,2014,RightFoot,5772,Villarreal,Almeria,2,0,2014-10-19 20:00:00,Manu Trigueros,Pass
+35104,58,SavedShot,0.9490000152587891,0.4370000076293945,0.4926849901676178,Ikechukwu Uche,h,2349,OpenPlay,2014,RightFoot,5772,Villarreal,Almeria,2,0,2014-10-19 20:00:00,Moi Gómez,Goal
+35105,58,Goal,0.9569999694824218,0.4779999923706055,0.6375529766082764,Ikechukwu Uche,h,2349,OpenPlay,2014,RightFoot,5772,Villarreal,Almeria,2,0,2014-10-19 20:00:00,,None
+35766,43,SavedShot,0.93,0.39,0.3930549919605255,Ikechukwu Uche,a,2349,SetPiece,2014,RightFoot,5782,Sevilla,Villarreal,2,1,2014-10-26 18:00:00,,Rebound
+35770,54,MissedShots,0.8490000152587891,0.5479999923706055,0.35756000876426697,Ikechukwu Uche,a,2349,OpenPlay,2014,RightFoot,5782,Sevilla,Villarreal,2,1,2014-10-26 18:00:00,Moi Gómez,Throughball
+34411,60,BlockedShot,0.8430000305175781,0.41,0.13186199963092804,Ikechukwu Uche,a,2349,OpenPlay,2014,RightFoot,5732,Espanyol,Villarreal,1,1,2014-11-09 16:00:00,Jonathan dos Santos,Throughball
+34413,62,SavedShot,0.8319999694824218,0.6480000305175782,0.31794700026512146,Ikechukwu Uche,a,2349,OpenPlay,2014,LeftFoot,5732,Espanyol,Villarreal,1,1,2014-11-09 16:00:00,,None
+35821,69,Goal,0.955999984741211,0.6580000305175782,0.0383078008890152,Ikechukwu Uche,a,2349,FromCorner,2014,RightFoot,5752,Cordoba,Villarreal,0,2,2014-11-30 18:00:00,Jonathan dos Santos,Cross
+34004,38,BlockedShot,0.8930000305175781,0.3170000076293945,0.04724980145692825,Ikechukwu Uche,h,2349,OpenPlay,2014,RightFoot,5693,Villarreal,Real Sociedad,4,0,2014-12-07 18:00:00,Bruno,Pass
+34006,43,SavedShot,0.9619999694824218,0.27,0.03943140059709549,Ikechukwu Uche,h,2349,OpenPlay,2014,RightFoot,5693,Villarreal,Real Sociedad,4,0,2014-12-07 18:00:00,Bruno,TakeOn
+34021,68,MissedShots,0.7580000305175781,0.40200000762939453,0.03315189853310585,Ikechukwu Uche,h,2349,OpenPlay,2014,LeftFoot,5693,Villarreal,Real Sociedad,4,0,2014-12-07 18:00:00,Manu Trigueros,BallRecovery
+35409,4,BlockedShot,0.91,0.385,0.12730099260807037,Ikechukwu Uche,h,2349,OpenPlay,2014,LeftFoot,5712,Villarreal,Deportivo La Coruna,3,0,2014-12-21 11:00:00,,TakeOn
+35408,4,BlockedShot,0.749000015258789,0.43400001525878906,0.02388240024447441,Ikechukwu Uche,h,2349,OpenPlay,2014,RightFoot,5712,Villarreal,Deportivo La Coruna,3,0,2014-12-21 11:00:00,Denis Cheryshev,Pass
+38104,16,Goal,0.9469999694824218,0.4759999847412109,0.6103079915046692,Ikechukwu Uche,a,2349,OpenPlay,2014,RightFoot,5644,Elche,Villarreal,2,2,2015-01-03 19:00:00,,None
+38111,32,BlockedShot,0.9159999847412109,0.4540000152587891,0.5035169720649719,Ikechukwu Uche,a,2349,OpenPlay,2014,LeftFoot,5644,Elche,Villarreal,2,2,2015-01-03 19:00:00,Luciano Vietto,Pass
+37707,33,SavedShot,0.9269999694824219,0.6530000305175782,0.2976219952106476,Ikechukwu Uche,a,2349,OpenPlay,2014,LeftFoot,5654,Malaga,Villarreal,1,1,2015-01-10 17:00:00,Manu Trigueros,Chipped
+37717,74,BlockedShot,0.84,0.59,0.07259110361337662,Ikechukwu Uche,a,2349,OpenPlay,2014,LeftFoot,5654,Malaga,Villarreal,1,1,2015-01-10 17:00:00,Moi Gómez,Pass
+37718,80,MissedShots,0.9690000152587891,0.29600000381469727,0.047377701848745346,Ikechukwu Uche,a,2349,OpenPlay,2014,RightFoot,5654,Malaga,Villarreal,1,1,2015-01-10 17:00:00,Tomás Pina,Chipped
+38024,19,MissedShots,0.7980000305175782,0.23899999618530274,0.017350900918245316,Ikechukwu Uche,h,2349,OpenPlay,2014,RightFoot,5665,Villarreal,Athletic Club,2,0,2015-01-17 19:00:00,Luciano Vietto,Chipped
+38036,48,MissedShots,0.77,0.7090000152587891,0.023592300713062286,Ikechukwu Uche,h,2349,OpenPlay,2014,RightFoot,5665,Villarreal,Athletic Club,2,0,2015-01-17 19:00:00,Jonathan dos Santos,Pass
+38040,64,BlockedShot,0.7930000305175782,0.4370000076293945,0.055161699652671814,Ikechukwu Uche,h,2349,OpenPlay,2014,RightFoot,5665,Villarreal,Athletic Club,2,0,2015-01-17 19:00:00,,None
+38172,17,MissedShots,0.89,0.4470000076293945,0.06754700094461441,Ikechukwu Uche,h,2349,OpenPlay,2014,Head,5676,Villarreal,Levante,1,0,2015-01-24 21:00:00,Jonathan dos Santos,Cross
+38184,62,SavedShot,0.7969999694824219,0.5740000152587891,0.04859679937362671,Ikechukwu Uche,h,2349,OpenPlay,2014,RightFoot,5676,Villarreal,Levante,1,0,2015-01-24 21:00:00,Jonathan dos Santos,Pass
+41057,1,MissedShots,0.78,0.445,0.029957400634884834,Ikechukwu Uche,h,2349,OpenPlay,2014,RightFoot,5610,Villarreal,Granada,2,0,2015-02-07 17:00:00,Chechu Dorado,Pass
+39567,80,MissedShots,0.8719999694824219,0.3240000152587891,0.07160600274801254,Ikechukwu Uche,h,2349,OpenPlay,2014,LeftFoot,5598,Villarreal,Sevilla,0,2,2015-03-22 16:00:00,Luciano Vietto,Pass
+39100,4,SavedShot,0.730999984741211,0.5279999923706055,0.021930299699306488,Ikechukwu Uche,a,2349,OpenPlay,2014,RightFoot,5530,Getafe,Villarreal,1,1,2015-04-12 11:00:00,Mario,Pass
+39101,5,MissedShots,0.8959999847412109,0.4520000076293945,0.062334198504686356,Ikechukwu Uche,a,2349,FromCorner,2014,Head,5530,Getafe,Villarreal,1,1,2015-04-12 11:00:00,Bojan Jokic,Cross
+39108,51,Goal,0.885,0.5,0.7432780265808105,Ikechukwu Uche,a,2349,Penalty,2014,RightFoot,5530,Getafe,Villarreal,1,1,2015-04-12 11:00:00,,Standard
+39109,53,SavedShot,0.9169999694824219,0.27399999618530274,0.0609264001250267,Ikechukwu Uche,a,2349,OpenPlay,2014,RightFoot,5530,Getafe,Villarreal,1,1,2015-04-12 11:00:00,Antonio Rukavina,BallRecovery
+39318,16,MissedShots,0.7809999847412109,0.6329999923706054,0.047453299164772034,Ikechukwu Uche,h,2349,OpenPlay,2014,LeftFoot,5542,Villarreal,Cordoba,0,0,2015-04-19 18:00:00,Denis Cheryshev,Pass
+92207,87,SavedShot,0.7290000152587891,0.5509999847412109,0.015938499942421913,Ikechukwu Uche,a,2349,OpenPlay,2015,RightFoot,1760,Celta Vigo,Malaga,1,0,2016-05-08 19:00:00,Weligton,BallRecovery

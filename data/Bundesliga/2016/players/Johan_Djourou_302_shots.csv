@@ -1,0 +1,21 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+24508,9,MissedShots,0.9059999847412109,0.47200000762939454,0.07291019707918167,Johan Djourou,a,302,FromCorner,2014,Head,5452,FC Cologne,Hamburger SV,0,0,2014-08-23 14:30:00,Rafael van der Vaart,Cross
+24535,86,MissedShots,0.9219999694824219,0.6409999847412109,0.011566800065338612,Johan Djourou,a,302,FromCorner,2014,Head,5452,FC Cologne,Hamburger SV,0,0,2014-08-23 14:30:00,Rafael van der Vaart,Aerial
+25373,63,MissedShots,0.9540000152587891,0.5459999847412109,0.11518699675798416,Johan Djourou,a,302,SetPiece,2014,Head,5435,Borussia M.Gladbach,Hamburger SV,1,0,2014-09-24 19:00:00,,None
+26636,51,BlockedShot,0.8619999694824219,0.6,0.06075629964470863,Johan Djourou,h,302,SetPiece,2014,LeftFoot,5351,Hamburger SV,Bayer Leverkusen,1,0,2014-11-01 14:30:00,,None
+27487,70,SavedShot,0.905,0.385,0.03366350010037422,Johan Djourou,h,302,FromCorner,2014,Head,5319,Hamburger SV,Mainz 05,2,1,2014-12-07 14:30:00,Ronny Marcos,Cross
+27974,85,MissedShots,0.9590000152587891,0.34900001525878904,0.06355749815702438,Johan Djourou,a,302,SetPiece,2014,RightFoot,5342,Schalke 04,Hamburger SV,0,0,2014-12-20 14:30:00,Lewis Holtby,Chipped
+30924,52,MissedShots,0.6419999694824219,0.415,0.00890969019383192,Johan Djourou,a,302,OpenPlay,2014,RightFoot,5184,VfB Stuttgart,Hamburger SV,2,1,2015-05-16 14:30:00,,BallRecovery
+76388,88,Goal,0.92,0.5659999847412109,0.39069101214408875,Johan Djourou,h,302,OpenPlay,2015,RightFoot,1036,Hamburger SV,VfB Stuttgart,3,2,2015-08-22 20:30:00,Pierre-Michel Lasogga,HeadPass
+77030,9,ShotOnPost,0.935,0.41700000762939454,0.47340500354766846,Johan Djourou,h,302,SetPiece,2015,RightFoot,1060,Hamburger SV,Eintracht Frankfurt,0,0,2015-09-19 17:30:00,,Rebound
+79467,89,Goal,0.91,0.47,0.2597459852695465,Johan Djourou,h,302,FromCorner,2015,Head,1149,Hamburger SV,Mainz 05,1,3,2015-12-05 18:30:00,Lewis Holtby,Chipped
+79887,5,BlockedShot,0.860999984741211,0.4420000076293945,0.07487639784812927,Johan Djourou,h,302,FromCorner,2015,LeftFoot,1167,Hamburger SV,Augsburg,0,1,2015-12-19 18:30:00,,Rebound
+79890,24,MissedShots,0.9330000305175781,0.40200000762939453,0.05896800011396408,Johan Djourou,h,302,SetPiece,2015,Head,1167,Hamburger SV,Augsburg,0,1,2015-12-19 18:30:00,Lewis Holtby,Chipped
+79914,89,BlockedShot,0.9009999847412109,0.5570000076293945,0.040926799178123474,Johan Djourou,h,302,FromCorner,2015,RightFoot,1167,Hamburger SV,Augsburg,0,1,2015-12-19 18:30:00,Ivo Ilicevic,Aerial
+83472,35,SavedShot,0.9159999847412109,0.6140000152587891,0.027605000883340836,Johan Djourou,a,302,FromCorner,2015,Head,1303,Mainz 05,Hamburger SV,0,0,2016-04-30 17:30:00,Gotoku Sakai,Chipped
+83567,25,MissedShots,0.889000015258789,0.38599998474121094,0.01801059953868389,Johan Djourou,h,302,FromCorner,2015,Head,1311,Hamburger SV,Wolfsburg,0,1,2016-05-07 17:30:00,Aaron Hunt,Cross
+127505,83,MissedShots,0.9159999847412109,0.36700000762939455,0.01169230043888092,Johan Djourou,h,302,FromCorner,2016,Head,1329,Hamburger SV,Ingolstadt,1,1,2016-08-27 17:30:00,Aaron Hunt,Aerial
+129962,80,MissedShots,0.8580000305175781,0.485,0.00961786974221468,Johan Djourou,a,302,SetPiece,2016,Head,3307,FC Cologne,Hamburger SV,3,0,2016-10-30 20:30:00,Matthias Ostrzolek,Aerial
+131213,5,BlockedShot,0.9459999847412109,0.43200000762939456,0.10882300138473511,Johan Djourou,h,302,FromCorner,2016,Head,3204,Hamburger SV,Augsburg,1,0,2016-12-10 18:30:00,Matthias Ostrzolek,Cross
+130292,75,SavedShot,0.885,0.5,0.7577769756317139,Johan Djourou,h,302,Penalty,2016,RightFoot,3221,Hamburger SV,Schalke 04,2,1,2016-12-20 23:00:00,,Standard
+222687,59,SavedShot,0.9490000152587891,0.44299999237060544,0.2586059868335724,Johan Djourou,a,302,SetPiece,2018,OtherBodyPart,9606,Torino,SPAL 2013,1,0,2018-09-02 18:30:00,Mohamed Fares,CornerAwarded

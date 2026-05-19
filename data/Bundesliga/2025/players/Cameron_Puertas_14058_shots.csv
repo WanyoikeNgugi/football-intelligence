@@ -1,0 +1,38 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+642451,9,SavedShot,0.799000015258789,0.5120000076293946,0.05061528831720352,Cameron Puertas,a,14058,OpenPlay,2025,RightFoot,30250,Borussia M.Gladbach,Werder Bremen,0,4,2025-09-14 15:30:00,Marco Grüll,Pass
+642462,39,MissedShots,0.9009999847412109,0.6969999694824218,0.06971337646245956,Cameron Puertas,a,14058,OpenPlay,2025,LeftFoot,30250,Borussia M.Gladbach,Werder Bremen,0,4,2025-09-14 15:30:00,Marco Grüll,Pass
+642465,46,MissedShots,0.795,0.549000015258789,0.05919009819626808,Cameron Puertas,a,14058,OpenPlay,2025,RightFoot,30250,Borussia M.Gladbach,Werder Bremen,0,4,2025-09-14 15:30:00,Samuel Mbangula,Pass
+643026,61,SavedShot,0.8909999847412109,0.705999984741211,0.033868033438920975,Cameron Puertas,h,14058,OpenPlay,2025,LeftFoot,30252,Werder Bremen,Freiburg,0,3,2025-09-20 13:30:00,,None
+643029,72,MissedShots,0.774000015258789,0.42400001525878905,0.01991790346801281,Cameron Puertas,h,14058,OpenPlay,2025,RightFoot,30252,Werder Bremen,Freiburg,0,3,2025-09-20 13:30:00,,None
+643032,76,BlockedShot,0.950999984741211,0.3129999923706055,0.05833177641034126,Cameron Puertas,h,14058,OpenPlay,2025,RightFoot,30252,Werder Bremen,Freiburg,0,3,2025-09-20 13:30:00,Isaac Schmidt,Pass
+646018,10,BlockedShot,0.7909999847412109,0.7140000152587891,0.062248826026916504,Cameron Puertas,h,14058,DirectFreekick,2025,RightFoot,30277,Werder Bremen,St. Pauli,1,0,2025-10-04 13:30:00,,Standard
+646023,46,BlockedShot,0.874000015258789,0.34,0.07994600385427475,Cameron Puertas,h,14058,OpenPlay,2025,RightFoot,30277,Werder Bremen,St. Pauli,1,0,2025-10-04 13:30:00,Romano Schmid,Pass
+646030,73,MissedShots,0.7669999694824219,0.47099998474121096,0.04779789596796036,Cameron Puertas,h,14058,OpenPlay,2025,LeftFoot,30277,Werder Bremen,St. Pauli,1,0,2025-10-04 13:30:00,Romano Schmid,LayOff
+647430,29,MissedShots,0.7090000152587891,0.33599998474121096,0.015561935491859913,Cameron Puertas,a,14058,OpenPlay,2025,RightFoot,30281,FC Heidenheim,Werder Bremen,2,2,2025-10-18 13:30:00,Yukinari Sugawara,Pass
+647433,38,SavedShot,0.7959999847412109,0.33299999237060546,0.027317173779010773,Cameron Puertas,a,14058,OpenPlay,2025,RightFoot,30281,FC Heidenheim,Werder Bremen,2,2,2025-10-18 13:30:00,Yukinari Sugawara,Pass
+654229,50,MissedShots,0.8530000305175781,0.2610000038146973,0.02378668263554573,Cameron Puertas,a,14058,SetPiece,2025,LeftFoot,30320,RasenBallsport Leipzig,Werder Bremen,2,0,2025-11-23 14:30:00,Amos Pieper,Pass
+654889,20,BlockedShot,0.8590000152587891,0.6430000305175781,0.06481361389160156,Cameron Puertas,h,14058,OpenPlay,2025,LeftFoot,30331,Werder Bremen,FC Cologne,1,1,2025-11-29 14:30:00,Romano Schmid,Pass
+654891,31,BlockedShot,0.7869999694824219,0.34200000762939453,0.027719832956790924,Cameron Puertas,h,14058,OpenPlay,2025,RightFoot,30331,Werder Bremen,FC Cologne,1,1,2025-11-29 14:30:00,Romano Schmid,Pass
+654896,46,SavedShot,0.8730000305175781,0.35700000762939454,0.08327365666627884,Cameron Puertas,h,14058,OpenPlay,2025,RightFoot,30331,Werder Bremen,FC Cologne,1,1,2025-11-29 14:30:00,Romano Schmid,Pass
+657443,6,MissedShots,0.5609999847412109,0.675,0.01074749045073986,Cameron Puertas,a,14058,OpenPlay,2025,RightFoot,30337,Hamburger SV,Werder Bremen,3,2,2025-12-07 14:30:00,,BallRecovery
+657454,58,MissedShots,0.955,0.445,0.42233866453170776,Cameron Puertas,a,14058,FromCorner,2025,OtherBodyPart,30337,Hamburger SV,Werder Bremen,3,2,2025-12-07 14:30:00,Marco Grüll,Cross
+659226,11,BlockedShot,0.6919999694824219,0.615,0.03441515192389488,Cameron Puertas,a,14058,DirectFreekick,2025,RightFoot,30350,Augsburg,Werder Bremen,0,0,2025-12-20 14:30:00,,Standard
+659231,47,MissedShots,0.7730000305175782,0.5940000152587891,0.04347169026732445,Cameron Puertas,a,14058,OpenPlay,2025,RightFoot,30350,Augsburg,Werder Bremen,0,0,2025-12-20 14:30:00,Justin Njinmah,Pass
+668724,5,MissedShots,0.875,0.2520000076293945,0.0564311221241951,Cameron Puertas,h,14058,OpenPlay,2025,RightFoot,30421,Werder Bremen,Bayern Munich,0,3,2026-02-14 14:30:00,Marco Grüll,Pass
+668743,72,BlockedShot,0.7880000305175782,0.4420000076293945,0.019483326002955437,Cameron Puertas,h,14058,OpenPlay,2025,RightFoot,30421,Werder Bremen,Bayern Munich,0,3,2026-02-14 14:30:00,,Rebound
+670977,87,MissedShots,0.805,0.73,0.033197980374097824,Cameron Puertas,h,14058,FromCorner,2025,RightFoot,30439,Werder Bremen,FC Heidenheim,2,0,2026-02-28 14:30:00,Jens Stage,Pass
+673281,5,BlockedShot,0.87,0.6819999694824219,0.04866626858711243,Cameron Puertas,a,14058,OpenPlay,2025,LeftFoot,30447,Union Berlin,Werder Bremen,1,4,2026-03-08 16:30:00,Romano Schmid,Pass
+673292,43,MissedShots,0.8040000152587891,0.5409999847412109,0.08463528752326965,Cameron Puertas,a,14058,OpenPlay,2025,RightFoot,30447,Union Berlin,Werder Bremen,1,4,2026-03-08 16:30:00,,TakeOn
+673298,74,BlockedShot,0.7759999847412109,0.759000015258789,0.016414297744631767,Cameron Puertas,a,14058,OpenPlay,2025,RightFoot,30447,Union Berlin,Werder Bremen,1,4,2026-03-08 16:30:00,Olivier Deman,Pass
+674503,61,BlockedShot,0.75,0.40299999237060546,0.016428492963314056,Cameron Puertas,h,14058,SetPiece,2025,RightFoot,30457,Werder Bremen,Mainz 05,0,2,2026-03-15 14:30:00,,Interception
+675187,11,SavedShot,0.8019999694824219,0.505,0.1370469182729721,Cameron Puertas,a,14058,DirectFreekick,2025,RightFoot,30466,Wolfsburg,Werder Bremen,0,1,2026-03-21 14:30:00,,Standard
+676463,33,MissedShots,0.8730000305175781,0.64,0.09588443487882614,Cameron Puertas,h,14058,OpenPlay,2025,LeftFoot,30475,Werder Bremen,RasenBallsport Leipzig,1,2,2026-04-04 13:30:00,Senne Lynen,TakeOn
+676466,42,BlockedShot,0.7530000305175781,0.534000015258789,0.07636834681034088,Cameron Puertas,h,14058,OpenPlay,2025,RightFoot,30475,Werder Bremen,RasenBallsport Leipzig,1,2,2026-04-04 13:30:00,Justin Njinmah,TakeOn
+679165,7,SavedShot,0.8330000305175781,0.500999984741211,0.08965977281332016,Cameron Puertas,h,14058,OpenPlay,2025,LeftFoot,30493,Werder Bremen,Hamburger SV,3,1,2026-04-18 13:30:00,Jovan Milosevic,TakeOn
+679166,10,MissedShots,0.8059999847412109,0.44299999237060544,0.029680414125323296,Cameron Puertas,h,14058,OpenPlay,2025,RightFoot,30493,Werder Bremen,Hamburger SV,3,1,2026-04-18 13:30:00,Justin Njinmah,Cross
+679182,67,MissedShots,0.81,0.46799999237060547,0.06403108686208725,Cameron Puertas,h,14058,OpenPlay,2025,RightFoot,30493,Werder Bremen,Hamburger SV,3,1,2026-04-18 13:30:00,Justin Njinmah,Pass
+679187,90,Goal,0.8469999694824218,0.65,0.07206384837627411,Cameron Puertas,h,14058,OpenPlay,2025,RightFoot,30493,Werder Bremen,Hamburger SV,3,1,2026-04-18 13:30:00,Romano Schmid,Pass
+679188,94,SavedShot,0.9330000305175781,0.705999984741211,0.04489690810441971,Cameron Puertas,h,14058,FromCorner,2025,LeftFoot,30493,Werder Bremen,Hamburger SV,3,1,2026-04-18 13:30:00,Romano Schmid,Pass
+682126,21,BlockedShot,0.76,0.30100000381469727,0.0196930430829525,Cameron Puertas,h,14058,OpenPlay,2025,RightFoot,30511,Werder Bremen,Augsburg,1,3,2026-05-02 13:30:00,Yukinari Sugawara,Pass
+682128,26,MissedShots,0.7930000305175782,0.425,0.039356909692287445,Cameron Puertas,h,14058,OpenPlay,2025,LeftFoot,30511,Werder Bremen,Augsburg,1,3,2026-05-02 13:30:00,Senne Lynen,Pass
+683609,67,MissedShots,0.720999984741211,0.34900001525878904,0.041264552623033524,Cameron Puertas,a,14058,DirectFreekick,2025,RightFoot,30516,Hoffenheim,Werder Bremen,1,0,2026-05-09 13:30:00,,Standard

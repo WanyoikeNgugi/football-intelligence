@@ -1,0 +1,7 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+385090,3,SavedShot,0.750999984741211,0.6990000152587891,0.01237650029361248,Warren Tchimbembé,a,8688,OpenPlay,2020,RightFoot,15840,Nimes,Metz,0,1,2020-11-01 14:00:00,,None
+385094,18,BlockedShot,0.7269999694824218,0.42400001525878905,0.021406300365924835,Warren Tchimbembé,a,8688,OpenPlay,2020,LeftFoot,15840,Nimes,Metz,0,1,2020-11-01 14:00:00,,BlockedPass
+387723,26,MissedShots,0.91,0.59,0.08664199709892273,Warren Tchimbembé,a,8688,OpenPlay,2020,LeftFoot,15863,Nantes,Metz,1,1,2020-11-22 12:00:00,Thomas Delaine,Cross
+392115,32,BlockedShot,0.895,0.5770000076293945,0.08242390304803848,Warren Tchimbembé,a,8688,OpenPlay,2020,RightFoot,15894,Strasbourg,Metz,2,2,2020-12-13 14:00:00,Fabien Centonze,Cross
+392118,37,MissedShots,0.889000015258789,0.5579999923706055,0.07577289640903473,Warren Tchimbembé,a,8688,OpenPlay,2020,Head,15894,Strasbourg,Metz,2,2,2020-12-13 14:00:00,Thomas Delaine,Cross
+402121,70,MissedShots,0.7669999694824219,0.5129999923706055,0.0288309995085001,Warren Tchimbembé,a,8688,OpenPlay,2020,LeftFoot,15968,Brest,Metz,2,4,2021-01-31 14:00:00,Pape Sarr,BallRecovery

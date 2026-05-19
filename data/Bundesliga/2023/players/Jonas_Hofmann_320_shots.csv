@@ -1,0 +1,348 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+25082,17,SavedShot,0.7919999694824219,0.575,0.029134800657629967,Jonas Hofmann,h,320,OpenPlay,2014,RightFoot,5426,Mainz 05,Borussia Dortmund,2,0,2014-09-20 17:30:00,Shinji Okazaki,TakeOn
+25088,37,SavedShot,0.8019999694824219,0.7190000152587891,0.02408289909362793,Jonas Hofmann,h,320,OpenPlay,2014,RightFoot,5426,Mainz 05,Borussia Dortmund,2,0,2014-09-20 17:30:00,Júnior Díaz,Pass
+25480,40,Goal,0.8380000305175781,0.3320000076293945,0.44150200486183167,Jonas Hofmann,a,320,OpenPlay,2014,RightFoot,5432,Eintracht Frankfurt,Mainz 05,2,2,2014-09-23 19:00:00,Daniel Brosinski,Throughball
+25489,85,SavedShot,0.8680000305175781,0.3509999847412109,0.3559510111808777,Jonas Hofmann,a,320,OpenPlay,2014,RightFoot,5432,Eintracht Frankfurt,Mainz 05,2,2,2014-09-23 19:00:00,Júnior Díaz,Chipped
+25558,52,SavedShot,0.9480000305175781,0.33,0.07807879894971848,Jonas Hofmann,h,320,OpenPlay,2014,RightFoot,5438,Mainz 05,Hoffenheim,0,0,2014-09-26 19:30:00,Daniel Brosinski,Pass
+25560,53,MissedShots,0.8319999694824218,0.355,0.04683569818735123,Jonas Hofmann,h,320,OpenPlay,2014,LeftFoot,5438,Mainz 05,Hoffenheim,0,0,2014-09-26 19:30:00,Christoph Moritz,TakeOn
+25840,30,Goal,0.885,0.5,0.7577769756317139,Jonas Hofmann,a,320,Penalty,2014,RightFoot,5391,Borussia M.Gladbach,Mainz 05,1,1,2014-10-05 16:30:00,,Standard
+26015,4,SavedShot,0.8730000305175781,0.4620000076293945,0.07657969743013382,Jonas Hofmann,h,320,OpenPlay,2014,RightFoot,5393,Mainz 05,Augsburg,2,1,2014-10-18 14:30:00,Jairo Samperio,HeadPass
+26018,19,Goal,0.884000015258789,0.6370000076293946,0.06472239643335342,Jonas Hofmann,h,320,OpenPlay,2014,RightFoot,5393,Mainz 05,Augsburg,2,1,2014-10-18 14:30:00,,None
+26023,42,SavedShot,0.965999984741211,0.595999984741211,0.4308359920978546,Jonas Hofmann,h,320,FromCorner,2014,RightFoot,5393,Mainz 05,Augsburg,2,1,2014-10-18 14:30:00,,None
+29875,61,SavedShot,0.76,0.37400001525878906,0.021916400641202927,Jonas Hofmann,h,320,OpenPlay,2014,LeftFoot,5239,Mainz 05,Borussia M.Gladbach,2,2,2015-03-07 17:30:00,Daniel Brosinski,Pass
+29876,61,BlockedShot,0.9119999694824219,0.07900000095367432,0.010167799890041351,Jonas Hofmann,h,320,OpenPlay,2014,RightFoot,5239,Mainz 05,Borussia M.Gladbach,2,2,2015-03-07 17:30:00,,None
+76520,86,SavedShot,0.7769999694824219,0.47200000762939454,0.038892801851034164,Jonas Hofmann,a,320,OpenPlay,2015,RightFoot,1037,Ingolstadt,Borussia Dortmund,0,4,2015-08-23 17:30:00,Pierre-Emerick Aubameyang,Pass
+76978,17,BlockedShot,0.895,0.345,0.07583709806203842,Jonas Hofmann,h,320,OpenPlay,2015,RightFoot,1065,Borussia Dortmund,Bayer Leverkusen,3,0,2015-09-20 19:30:00,Ilkay Gündogan,Pass
+76979,17,SavedShot,0.8969999694824219,0.34,0.05794620141386986,Jonas Hofmann,h,320,OpenPlay,2015,LeftFoot,1065,Borussia Dortmund,Bayer Leverkusen,3,0,2015-09-20 19:30:00,,Rebound
+76980,18,Goal,0.91,0.33599998474121096,0.34306600689888,Jonas Hofmann,h,320,OpenPlay,2015,RightFoot,1065,Borussia Dortmund,Bayer Leverkusen,3,0,2015-09-20 19:30:00,Shinji Kagawa,Chipped
+79970,5,BlockedShot,0.8730000305175781,0.6680000305175782,0.05377579852938652,Jonas Hofmann,a,320,OpenPlay,2015,LeftFoot,1169,FC Cologne,Borussia Dortmund,2,1,2015-12-19 18:30:00,,None
+79989,64,BlockedShot,0.899000015258789,0.6090000152587891,0.1976490020751953,Jonas Hofmann,a,320,OpenPlay,2015,RightFoot,1169,FC Cologne,Borussia Dortmund,2,1,2015-12-19 18:30:00,Henrikh Mkhitaryan,TakeOn
+80112,82,MissedShots,0.905,0.6469999694824219,0.056192100048065186,Jonas Hofmann,h,320,OpenPlay,2015,LeftFoot,1180,Borussia M.Gladbach,Borussia Dortmund,1,3,2016-01-23 21:30:00,,None
+80490,64,SavedShot,0.7830000305175782,0.3220000076293945,0.02191930077970028,Jonas Hofmann,a,320,OpenPlay,2015,RightFoot,1183,Mainz 05,Borussia M.Gladbach,1,0,2016-01-29 23:30:00,Lars Stindl,Pass
+80814,92,BlockedShot,0.7609999847412109,0.3629999923706055,0.018611200153827667,Jonas Hofmann,a,320,OpenPlay,2015,RightFoot,1208,Hamburger SV,Borussia M.Gladbach,3,2,2016-02-14 18:30:00,,None
+81089,71,SavedShot,0.9130000305175782,0.6270000076293946,0.10370299965143204,Jonas Hofmann,h,320,OpenPlay,2015,RightFoot,1215,Borussia M.Gladbach,FC Cologne,1,0,2016-02-20 18:30:00,Lars Stindl,BallTouch
+83120,90,SavedShot,0.9569999694824218,0.6140000152587891,0.3366760015487671,Jonas Hofmann,h,320,OpenPlay,2015,LeftFoot,1298,Borussia M.Gladbach,Hoffenheim,3,1,2016-04-24 17:30:00,André Hahn,Pass
+83949,36,SavedShot,0.9259999847412109,0.285,0.057541798800230026,Jonas Hofmann,a,320,OpenPlay,2015,RightFoot,1326,Darmstadt,Borussia M.Gladbach,0,2,2016-05-14 17:30:00,Ibrahima Traoré,Pass
+83953,50,MissedShots,0.775,0.565,0.04076220095157623,Jonas Hofmann,a,320,OpenPlay,2015,LeftFoot,1326,Darmstadt,Borussia M.Gladbach,0,2,2016-05-14 17:30:00,Ibrahima Traoré,Pass
+83957,56,MissedShots,0.76,0.43400001525878906,0.016172800213098526,Jonas Hofmann,a,320,OpenPlay,2015,RightFoot,1326,Darmstadt,Borussia M.Gladbach,0,2,2016-05-14 17:30:00,André Hahn,Aerial
+83964,76,ShotOnPost,0.9730000305175781,0.40900001525878904,0.520097017288208,Jonas Hofmann,a,320,OpenPlay,2015,RightFoot,1326,Darmstadt,Borussia M.Gladbach,0,2,2016-05-14 17:30:00,Patrick Herrmann,Chipped
+83969,82,BlockedShot,0.8119999694824219,0.44299999237060544,0.07598210126161575,Jonas Hofmann,a,320,OpenPlay,2015,RightFoot,1326,Darmstadt,Borussia M.Gladbach,0,2,2016-05-14 17:30:00,André Hahn,Pass
+130826,6,SavedShot,0.9730000305175781,0.3529999923706055,0.08865679800510406,Jonas Hofmann,a,320,OpenPlay,2016,RightFoot,3727,Darmstadt,Borussia M.Gladbach,0,0,2017-01-21 17:30:00,Raffael,TakeOn
+130834,57,BlockedShot,0.8390000152587891,0.5570000076293945,0.09474410116672516,Jonas Hofmann,a,320,OpenPlay,2016,RightFoot,3727,Darmstadt,Borussia M.Gladbach,0,0,2017-01-21 17:30:00,Mahmoud Dahoud,TakeOn
+131052,12,MissedShots,0.7519999694824219,0.6140000152587891,0.016296900808811188,Jonas Hofmann,a,320,FromCorner,2016,RightFoot,3737,Bayer Leverkusen,Borussia M.Gladbach,2,3,2017-01-28 20:30:00,,None
+131066,61,BlockedShot,0.9119999694824219,0.3340000152587891,0.07506260275840759,Jonas Hofmann,a,320,OpenPlay,2016,RightFoot,3737,Bayer Leverkusen,Borussia M.Gladbach,2,3,2017-01-28 20:30:00,Lars Stindl,Pass
+131977,70,BlockedShot,0.919000015258789,0.5179999923706055,0.0691177025437355,Jonas Hofmann,h,320,OpenPlay,2016,Head,3765,Borussia M.Gladbach,RasenBallsport Leipzig,1,2,2017-02-19 14:30:00,Tony Jantschke,Aerial
+134372,3,BlockedShot,0.8190000152587891,0.45799999237060546,0.058171700686216354,Jonas Hofmann,h,320,OpenPlay,2016,RightFoot,3802,Borussia M.Gladbach,Bayern Munich,0,1,2017-03-19 16:30:00,André Hahn,Pass
+134387,53,MissedShots,0.8069999694824219,0.5670000076293945,0.03081429935991764,Jonas Hofmann,h,320,SetPiece,2016,RightFoot,3802,Borussia M.Gladbach,Bayern Munich,0,1,2017-03-19 16:30:00,,Rebound
+134400,88,BlockedShot,0.785,0.5790000152587891,0.03044229932129383,Jonas Hofmann,h,320,OpenPlay,2016,RightFoot,3802,Borussia M.Gladbach,Bayern Munich,0,1,2017-03-19 16:30:00,,None
+133371,45,BlockedShot,0.7819999694824219,0.2879999923706055,0.01778160035610199,Jonas Hofmann,a,320,OpenPlay,2016,LeftFoot,3809,Eintracht Frankfurt,Borussia M.Gladbach,0,0,2017-04-01 17:30:00,Tobias Strobl,Chipped
+133373,57,MissedShots,0.8519999694824218,0.27399999618530274,0.03402220085263252,Jonas Hofmann,a,320,OpenPlay,2016,RightFoot,3809,Eintracht Frankfurt,Borussia M.Gladbach,0,0,2017-04-01 17:30:00,Tobias Strobl,Chipped
+133780,52,MissedShots,0.8580000305175781,0.425,0.10085300356149673,Jonas Hofmann,h,320,OpenPlay,2016,RightFoot,3820,Borussia M.Gladbach,Hertha Berlin,1,0,2017-04-05 19:00:00,Patrick Herrmann,Pass
+133784,57,ShotOnPost,0.9159999847412109,0.664000015258789,0.2860549986362457,Jonas Hofmann,h,320,OpenPlay,2016,LeftFoot,3820,Borussia M.Gladbach,Hertha Berlin,1,0,2017-04-05 19:00:00,Thorgan Hazard,Chipped
+133787,58,ShotOnPost,0.865,0.649000015258789,0.06719460338354111,Jonas Hofmann,h,320,OpenPlay,2016,RightFoot,3820,Borussia M.Gladbach,Hertha Berlin,1,0,2017-04-05 19:00:00,Jannik Vestergaard,Rebound
+133788,60,SavedShot,0.889000015258789,0.35700000762939454,0.08967369794845581,Jonas Hofmann,h,320,OpenPlay,2016,RightFoot,3820,Borussia M.Gladbach,Hertha Berlin,1,0,2017-04-05 19:00:00,,Dispossessed
+134648,25,MissedShots,0.899000015258789,0.3609999847412109,0.0869264006614685,Jonas Hofmann,a,320,OpenPlay,2016,RightFoot,3825,FC Cologne,Borussia M.Gladbach,2,3,2017-04-08 14:30:00,Lars Stindl,Pass
+133131,90,SavedShot,0.8030000305175782,0.585,0.050429899245500565,Jonas Hofmann,a,320,OpenPlay,2016,LeftFoot,3838,Hoffenheim,Borussia M.Gladbach,5,3,2017-04-15 14:30:00,Josip Drmic,Pass
+134330,84,MissedShots,0.7830000305175782,0.5359999847412109,0.05283129960298538,Jonas Hofmann,a,320,OpenPlay,2016,RightFoot,3855,Mainz 05,Borussia M.Gladbach,1,2,2017-04-29 14:30:00,Mahmoud Dahoud,Pass
+134889,43,MissedShots,0.8669999694824219,0.4370000076293945,0.3522860109806061,Jonas Hofmann,h,320,OpenPlay,2016,RightFoot,3861,Borussia M.Gladbach,Augsburg,1,1,2017-05-06 14:30:00,Lars Stindl,Pass
+134896,65,BlockedShot,0.7440000152587891,0.620999984741211,0.015424899756908417,Jonas Hofmann,h,320,OpenPlay,2016,RightFoot,3861,Borussia M.Gladbach,Augsburg,1,1,2017-05-06 14:30:00,,None
+133135,8,ShotOnPost,0.875,0.605999984741211,0.35257598757743835,Jonas Hofmann,a,320,OpenPlay,2016,LeftFoot,3869,Wolfsburg,Borussia M.Gladbach,1,1,2017-05-13 14:30:00,,Interception
+133140,22,SavedShot,0.710999984741211,0.4329999923706055,0.01732349954545498,Jonas Hofmann,a,320,OpenPlay,2016,RightFoot,3869,Wolfsburg,Borussia M.Gladbach,1,1,2017-05-13 14:30:00,Mahmoud Dahoud,Pass
+133151,51,MissedShots,0.86,0.37900001525878907,0.0865074023604393,Jonas Hofmann,a,320,OpenPlay,2016,RightFoot,3869,Wolfsburg,Borussia M.Gladbach,1,1,2017-05-13 14:30:00,Nico Elvedi,Pass
+127742,33,SavedShot,0.9490000152587891,0.3729999923706055,0.3588300049304962,Jonas Hofmann,h,320,OpenPlay,2016,RightFoot,3876,Borussia M.Gladbach,Darmstadt,2,2,2017-05-20 14:30:00,Andreas Christensen,Throughball
+127744,36,MissedShots,0.85,0.7330000305175781,0.08511040359735489,Jonas Hofmann,h,320,OpenPlay,2016,LeftFoot,3876,Borussia M.Gladbach,Darmstadt,2,2,2017-05-20 14:30:00,Christoph Kramer,Chipped
+127758,74,MissedShots,0.7580000305175781,0.485,0.041346799582242966,Jonas Hofmann,h,320,OpenPlay,2016,RightFoot,3876,Borussia M.Gladbach,Darmstadt,2,2,2017-05-20 14:30:00,László Bénes,BallRecovery
+166162,70,BlockedShot,0.8819999694824219,0.3189999961853027,0.06560350209474564,Jonas Hofmann,a,320,OpenPlay,2017,LeftFoot,8272,Augsburg,Borussia M.Gladbach,2,2,2017-08-26 14:30:00,László Bénes,Pass
+166170,82,BlockedShot,0.6940000152587891,0.36900001525878906,0.008468439802527428,Jonas Hofmann,a,320,SetPiece,2017,RightFoot,8272,Augsburg,Borussia M.Gladbach,2,2,2017-08-26 14:30:00,,None
+166527,1,MissedShots,0.875999984741211,0.4620000076293945,0.11546400189399719,Jonas Hofmann,a,320,OpenPlay,2017,RightFoot,8291,RasenBallsport Leipzig,Borussia M.Gladbach,2,2,2017-09-16 17:30:00,Lars Stindl,Pass
+166536,40,MissedShots,0.8590000152587891,0.3240000152587891,0.040010299533605576,Jonas Hofmann,a,320,OpenPlay,2017,LeftFoot,8291,RasenBallsport Leipzig,Borussia M.Gladbach,2,2,2017-09-16 17:30:00,Raffael,Pass
+167385,90,MissedShots,0.9059999847412109,0.48,0.35117700695991516,Jonas Hofmann,a,320,OpenPlay,2017,RightFoot,8310,Borussia Dortmund,Borussia M.Gladbach,6,1,2017-09-23 17:30:00,Michaël Cuisance,Throughball
+187880,85,MissedShots,0.9230000305175782,0.35200000762939454,0.12151999771595001,Jonas Hofmann,a,320,OpenPlay,2017,RightFoot,8414,FC Cologne,Borussia M.Gladbach,2,1,2018-01-14 14:30:00,Thorgan Hazard,Throughball
+189701,85,BlockedShot,0.8180000305175781,0.5940000152587891,0.05191459879279137,Jonas Hofmann,a,320,OpenPlay,2017,LeftFoot,8432,Eintracht Frankfurt,Borussia M.Gladbach,2,0,2018-01-26 19:30:00,Thorgan Hazard,Pass
+195130,14,BlockedShot,0.870999984741211,0.72,0.035796500742435455,Jonas Hofmann,a,320,SetPiece,2017,RightFoot,8450,VfB Stuttgart,Borussia M.Gladbach,1,0,2018-02-11 14:30:00,Vincenzo Grifo,Chipped
+195132,25,SavedShot,0.8380000305175781,0.3029999923706055,0.034301601350307465,Jonas Hofmann,a,320,OpenPlay,2017,RightFoot,8450,VfB Stuttgart,Borussia M.Gladbach,1,0,2018-02-11 14:30:00,Denis Zakaria,Pass
+196828,27,BlockedShot,0.7930000305175782,0.285,0.023122699931263924,Jonas Hofmann,h,320,OpenPlay,2017,RightFoot,8460,Borussia M.Gladbach,Borussia Dortmund,0,1,2018-02-18 17:00:00,Denis Zakaria,Pass
+197218,32,MissedShots,0.7819999694824219,0.39599998474121095,0.021556999534368515,Jonas Hofmann,a,320,FromCorner,2017,RightFoot,8472,Hannover 96,Borussia M.Gladbach,0,1,2018-02-24 14:30:00,,None
+197228,62,ShotOnPost,0.850999984741211,0.35700000762939454,0.07963020354509354,Jonas Hofmann,a,320,OpenPlay,2017,RightFoot,8472,Hannover 96,Borussia M.Gladbach,0,1,2018-02-24 14:30:00,Lars Stindl,Pass
+197237,80,SavedShot,0.8680000305175781,0.3129999923706055,0.0828733965754509,Jonas Hofmann,a,320,OpenPlay,2017,RightFoot,8472,Hannover 96,Borussia M.Gladbach,0,1,2018-02-24 14:30:00,Lars Stindl,Pass
+198585,49,BlockedShot,0.9740000152587891,0.42,0.13366000354290009,Jonas Hofmann,h,320,OpenPlay,2017,Head,8478,Borussia M.Gladbach,Werder Bremen,2,2,2018-03-02 19:30:00,Thorgan Hazard,Cross
+201309,51,SavedShot,0.8019999694824219,0.34799999237060547,0.031023899093270302,Jonas Hofmann,h,320,OpenPlay,2017,LeftFoot,8496,Borussia M.Gladbach,Hoffenheim,3,3,2018-03-17 14:30:00,Thorgan Hazard,Pass
+201310,53,BlockedShot,0.774000015258789,0.5520000076293945,0.03986459970474243,Jonas Hofmann,h,320,OpenPlay,2017,LeftFoot,8496,Borussia M.Gladbach,Hoffenheim,3,3,2018-03-17 14:30:00,Lars Stindl,TakeOn
+204423,89,BlockedShot,0.8030000305175782,0.4640000152587891,0.04539940133690834,Jonas Hofmann,a,320,OpenPlay,2017,RightFoot,8508,Mainz 05,Borussia M.Gladbach,0,0,2018-04-01 17:00:00,,None
+210151,34,SavedShot,0.9019999694824219,0.4779999923706055,0.1228019967675209,Jonas Hofmann,h,320,OpenPlay,2017,LeftFoot,8532,Borussia M.Gladbach,Wolfsburg,3,0,2018-04-20 18:30:00,Jannik Vestergaard,Pass
+210162,65,SavedShot,0.8859999847412109,0.43099998474121093,0.1920119971036911,Jonas Hofmann,h,320,OpenPlay,2017,LeftFoot,8532,Borussia M.Gladbach,Wolfsburg,3,0,2018-04-20 18:30:00,Nico Elvedi,TakeOn
+213244,76,BlockedShot,0.88,0.40099998474121096,0.14288100600242615,Jonas Hofmann,h,320,OpenPlay,2017,LeftFoot,8554,Borussia M.Gladbach,Freiburg,3,1,2018-05-05 14:30:00,Ibrahima Traoré,TakeOn
+220312,27,MissedShots,0.9019999694824219,0.41,0.08509600162506104,Jonas Hofmann,h,320,OpenPlay,2018,RightFoot,10343,Borussia M.Gladbach,Bayer Leverkusen,2,0,2018-08-25 19:30:00,,None
+220317,45,SavedShot,0.715,0.34,0.012446500360965729,Jonas Hofmann,h,320,OpenPlay,2018,RightFoot,10343,Borussia M.Gladbach,Bayer Leverkusen,2,0,2018-08-25 19:30:00,Thorgan Hazard,Pass
+220320,54,Goal,0.885,0.5,0.7577769756317139,Jonas Hofmann,h,320,Penalty,2018,RightFoot,10343,Borussia M.Gladbach,Bayer Leverkusen,2,0,2018-08-25 19:30:00,,Standard
+220329,69,BlockedShot,0.9159999847412109,0.555,0.019619299098849297,Jonas Hofmann,h,320,OpenPlay,2018,Head,10343,Borussia M.Gladbach,Bayer Leverkusen,2,0,2018-08-25 19:30:00,,Rebound
+220333,83,SavedShot,0.9290000152587891,0.6719999694824219,0.08562160283327103,Jonas Hofmann,h,320,OpenPlay,2018,LeftFoot,10343,Borussia M.Gladbach,Bayer Leverkusen,2,0,2018-08-25 19:30:00,Thorgan Hazard,Pass
+221563,1,BlockedShot,0.8530000305175781,0.40299999237060546,0.04900920018553734,Jonas Hofmann,a,320,FromCorner,2018,RightFoot,10349,Augsburg,Borussia M.Gladbach,1,1,2018-09-01 13:30:00,Thorgan Hazard,Pass
+223771,10,MissedShots,0.789000015258789,0.34200000762939453,0.010695899836719036,Jonas Hofmann,h,320,FromCorner,2018,RightFoot,10361,Borussia M.Gladbach,Schalke 04,2,1,2018-09-15 16:30:00,Thorgan Hazard,Chipped
+223782,55,MissedShots,0.7430000305175781,0.6869999694824219,0.04547329992055893,Jonas Hofmann,h,320,DirectFreekick,2018,RightFoot,10361,Borussia M.Gladbach,Schalke 04,2,1,2018-09-15 16:30:00,,Standard
+223788,72,ShotOnPost,0.8580000305175781,0.5,0.3709299862384796,Jonas Hofmann,h,320,OpenPlay,2018,RightFoot,10361,Borussia M.Gladbach,Schalke 04,2,1,2018-09-15 16:30:00,Alassane Pléa,Pass
+223792,81,BlockedShot,0.87,0.6669999694824219,0.11738800257444382,Jonas Hofmann,h,320,OpenPlay,2018,RightFoot,10361,Borussia M.Gladbach,Schalke 04,2,1,2018-09-15 16:30:00,,Dispossessed
+223796,90,BlockedShot,0.965,0.29100000381469726,0.05475040152668953,Jonas Hofmann,h,320,OpenPlay,2018,RightFoot,10361,Borussia M.Gladbach,Schalke 04,2,1,2018-09-15 16:30:00,,None
+224913,37,BlockedShot,0.7859999847412109,0.27100000381469724,0.011568300426006317,Jonas Hofmann,a,320,OpenPlay,2018,RightFoot,10366,Hertha Berlin,Borussia M.Gladbach,4,2,2018-09-22 13:30:00,Thorgan Hazard,Chipped
+224914,40,BlockedShot,0.7169999694824218,0.48200000762939454,0.014142300002276897,Jonas Hofmann,a,320,FromCorner,2018,RightFoot,10366,Hertha Berlin,Borussia M.Gladbach,4,2,2018-09-22 13:30:00,,None
+255335,47,MissedShots,0.5409999847412109,0.629000015258789,0.009134460240602493,Jonas Hofmann,a,320,OpenPlay,2018,RightFoot,10391,Bayern Munich,Borussia M.Gladbach,0,3,2018-10-06 16:30:00,,BallRecovery
+255621,20,Goal,0.9019999694824219,0.3579999923706055,0.3338930010795593,Jonas Hofmann,h,320,OpenPlay,2018,RightFoot,10404,Borussia M.Gladbach,Mainz 05,4,0,2018-10-21 16:00:00,Thorgan Hazard,Throughball
+255624,28,MissedShots,0.7169999694824218,0.30700000762939456,0.021726099774241447,Jonas Hofmann,h,320,OpenPlay,2018,RightFoot,10404,Borussia M.Gladbach,Mainz 05,4,0,2018-10-21 16:00:00,Alassane Pléa,Pass
+255629,42,BlockedShot,0.8209999847412109,0.4759999847412109,0.07639180123806,Jonas Hofmann,h,320,OpenPlay,2018,RightFoot,10404,Borussia M.Gladbach,Mainz 05,4,0,2018-10-21 16:00:00,Oscar Wendt,Pass
+255632,52,Goal,0.9869999694824219,0.5359999847412109,0.9645450115203857,Jonas Hofmann,h,320,OpenPlay,2018,LeftFoot,10404,Borussia M.Gladbach,Mainz 05,4,0,2018-10-21 16:00:00,Thorgan Hazard,Pass
+255637,62,Goal,0.8719999694824219,0.26399999618530273,0.4866800010204315,Jonas Hofmann,h,320,OpenPlay,2018,RightFoot,10404,Borussia M.Gladbach,Mainz 05,4,0,2018-10-21 16:00:00,Florian Neuhaus,TakeOn
+255655,24,BlockedShot,0.7759999847412109,0.34200000762939453,0.025167299434542656,Jonas Hofmann,a,320,OpenPlay,2018,RightFoot,10414,Freiburg,Borussia M.Gladbach,3,1,2018-10-26 18:30:00,Matthias Ginter,Pass
+255658,45,SavedShot,0.7290000152587891,0.534000015258789,0.01511290017515421,Jonas Hofmann,a,320,FromCorner,2018,RightFoot,10414,Freiburg,Borussia M.Gladbach,3,1,2018-10-26 18:30:00,,None
+256118,66,Goal,0.889000015258789,0.575,0.40325799584388733,Jonas Hofmann,h,320,OpenPlay,2018,RightFoot,10426,Borussia M.Gladbach,Fortuna Duesseldorf,3,0,2018-11-04 14:30:00,Florian Neuhaus,Pass
+256228,24,MissedShots,0.715999984741211,0.66,0.01270660012960434,Jonas Hofmann,a,320,FromCorner,2018,RightFoot,10431,Werder Bremen,Borussia M.Gladbach,1,3,2018-11-10 14:30:00,,None
+256658,51,MissedShots,0.7480000305175781,0.45599998474121095,0.031154299154877663,Jonas Hofmann,h,320,OpenPlay,2018,LeftFoot,10439,Borussia M.Gladbach,Hannover 96,4,1,2018-11-25 17:00:00,,BallTouch
+278425,80,MissedShots,0.8830000305175781,0.635,0.11560600250959396,Jonas Hofmann,a,320,OpenPlay,2018,LeftFoot,10498,Bayer Leverkusen,Borussia M.Gladbach,0,1,2019-01-19 14:30:00,Thorgan Hazard,Pass
+278572,43,SavedShot,0.885,0.5,0.7577769756317139,Jonas Hofmann,h,320,Penalty,2018,RightFoot,10501,Borussia M.Gladbach,Augsburg,2,0,2019-01-26 14:30:00,,Standard
+278881,43,BlockedShot,0.710999984741211,0.515,0.012309599667787552,Jonas Hofmann,a,320,FromCorner,2018,RightFoot,10516,Schalke 04,Borussia M.Gladbach,0,2,2019-02-02 17:30:00,,Aerial
+278884,46,MissedShots,0.7419999694824219,0.5829999923706055,0.018658600747585297,Jonas Hofmann,a,320,FromCorner,2018,RightFoot,10516,Schalke 04,Borussia M.Gladbach,0,2,2019-02-02 17:30:00,Matthias Ginter,BallTouch
+279394,58,BlockedShot,0.7380000305175781,0.575,0.015584900043904781,Jonas Hofmann,h,320,FromCorner,2018,RightFoot,10538,Borussia M.Gladbach,Wolfsburg,0,3,2019-02-23 14:30:00,,None
+285883,18,BlockedShot,0.7769999694824219,0.6029999923706054,0.024368200451135635,Jonas Hofmann,h,320,OpenPlay,2018,RightFoot,10569,Borussia M.Gladbach,Freiburg,1,1,2019-03-15 19:30:00,Oscar Wendt,Pass
+285885,20,BlockedShot,0.805,0.7669999694824219,0.015998799353837967,Jonas Hofmann,h,320,OpenPlay,2018,RightFoot,10569,Borussia M.Gladbach,Freiburg,1,1,2019-03-15 19:30:00,Alassane Pléa,Pass
+285892,62,SavedShot,0.8919999694824219,0.33599998474121096,0.06554310023784637,Jonas Hofmann,h,320,OpenPlay,2018,RightFoot,10569,Borussia M.Gladbach,Freiburg,1,1,2019-03-15 19:30:00,Lars Stindl,Pass
+295520,88,BlockedShot,0.9030000305175782,0.42400001525878905,0.4249210059642792,Jonas Hofmann,h,320,OpenPlay,2018,RightFoot,10604,Borussia M.Gladbach,RasenBallsport Leipzig,1,2,2019-04-20 17:30:00,Alassane Pléa,None
+297565,36,MissedShots,0.88,0.25799999237060545,0.03721249848604202,Jonas Hofmann,a,320,OpenPlay,2018,RightFoot,10610,VfB Stuttgart,Borussia M.Gladbach,1,0,2019-04-27 17:30:00,,Dispossessed
+300644,86,MissedShots,0.8930000305175781,0.715,0.0893813967704773,Jonas Hofmann,a,320,OpenPlay,2018,LeftFoot,10633,Nuernberg,Borussia M.Gladbach,0,4,2019-05-11 14:30:00,Tobias Strobl,Chipped
+302334,13,MissedShots,0.725,0.47299999237060547,0.016246700659394264,Jonas Hofmann,h,320,OpenPlay,2018,RightFoot,10639,Borussia M.Gladbach,Borussia Dortmund,0,2,2019-05-18 13:30:00,Josip Drmic,Pass
+329108,36,BlockedShot,0.7830000305175782,0.7,0.061813101172447205,Jonas Hofmann,a,320,DirectFreekick,2019,RightFoot,12486,Bayer Leverkusen,Borussia M.Gladbach,1,2,2019-11-02 14:30:00,,Standard
+334385,93,SavedShot,0.9480000305175781,0.6569999694824219,0.22503000497817993,Jonas Hofmann,h,320,OpenPlay,2019,RightFoot,12511,Borussia M.Gladbach,Freiburg,4,2,2019-12-01 14:30:00,Alassane Pléa,Pass
+334386,94,SavedShot,0.9309999847412109,0.6809999847412109,0.22518299520015717,Jonas Hofmann,h,320,OpenPlay,2019,LeftFoot,12511,Borussia M.Gladbach,Freiburg,4,2,2019-12-01 14:30:00,Denis Zakaria,Pass
+354695,38,BlockedShot,0.755,0.365,0.019315000623464584,Jonas Hofmann,a,320,OpenPlay,2019,RightFoot,12561,Schalke 04,Borussia M.Gladbach,2,0,2020-01-17 19:30:00,Denis Zakaria,Pass
+354711,87,MissedShots,0.7419999694824219,0.32799999237060545,0.008862519636750221,Jonas Hofmann,a,320,OpenPlay,2019,RightFoot,12561,Schalke 04,Borussia M.Gladbach,2,0,2020-01-17 19:30:00,,None
+356814,15,MissedShots,0.8530000305175781,0.5940000152587891,0.0836573988199234,Jonas Hofmann,a,320,OpenPlay,2019,RightFoot,12575,RasenBallsport Leipzig,Borussia M.Gladbach,2,2,2020-02-01 17:30:00,Alassane Pléa,Pass
+356817,34,Goal,0.8819999694824219,0.5129999923706055,0.40892699360847473,Jonas Hofmann,a,320,OpenPlay,2019,RightFoot,12575,RasenBallsport Leipzig,Borussia M.Gladbach,2,2,2020-02-01 17:30:00,Florian Neuhaus,TakeOn
+359082,21,Goal,0.935,0.35700000762939454,0.11362399905920029,Jonas Hofmann,a,320,OpenPlay,2019,RightFoot,12595,Fortuna Duesseldorf,Borussia M.Gladbach,1,4,2020-02-15 17:30:00,Marcus Thuram,Throughball
+360802,41,MissedShots,0.9059999847412109,0.4,0.34749698638916016,Jonas Hofmann,a,320,OpenPlay,2019,RightFoot,12616,Augsburg,Borussia M.Gladbach,2,3,2020-02-29 14:30:00,,Rebound
+360818,87,SavedShot,0.87,0.435,0.3821899890899658,Jonas Hofmann,a,320,OpenPlay,2019,RightFoot,12616,Augsburg,Borussia M.Gladbach,2,3,2020-02-29 14:30:00,Breel Embolo,Throughball
+363020,20,MissedShots,0.87,0.3820000076293945,0.05990130081772804,Jonas Hofmann,a,320,OpenPlay,2019,RightFoot,12630,Eintracht Frankfurt,Borussia M.Gladbach,1,3,2020-05-16 16:30:00,,Rebound
+363034,84,BlockedShot,0.9290000152587891,0.5570000076293945,0.5672770142555237,Jonas Hofmann,a,320,OpenPlay,2019,RightFoot,12630,Eintracht Frankfurt,Borussia M.Gladbach,1,3,2020-05-16 16:30:00,Patrick Herrmann,Pass
+363707,10,BlockedShot,0.7669999694824219,0.3390000152587891,0.017485499382019043,Jonas Hofmann,h,320,OpenPlay,2019,RightFoot,12656,Borussia M.Gladbach,Union Berlin,4,1,2020-05-31 13:30:00,,None
+364513,9,Goal,0.8540000152587891,0.46299999237060546,0.3578900098800659,Jonas Hofmann,h,320,OpenPlay,2019,RightFoot,12685,Borussia M.Gladbach,Wolfsburg,3,0,2020-06-16 16:30:00,Breel Embolo,Throughball
+364518,29,Goal,0.8919999694824219,0.40599998474121096,0.3946329951286316,Jonas Hofmann,h,320,OpenPlay,2019,RightFoot,12685,Borussia M.Gladbach,Wolfsburg,3,0,2020-06-16 16:30:00,Matthias Ginter,Pass
+364522,47,BlockedShot,0.86,0.7140000152587891,0.05200539901852608,Jonas Hofmann,h,320,OpenPlay,2019,RightFoot,12685,Borussia M.Gladbach,Wolfsburg,3,0,2020-06-16 16:30:00,Ibrahima Traoré,Pass
+364526,56,MissedShots,0.855999984741211,0.5940000152587891,0.11165100336074829,Jonas Hofmann,h,320,OpenPlay,2019,RightFoot,12685,Borussia M.Gladbach,Wolfsburg,3,0,2020-06-16 16:30:00,Breel Embolo,Pass
+365415,2,MissedShots,0.7630000305175781,0.7530000305175781,0.014238899573683739,Jonas Hofmann,a,320,OpenPlay,2019,RightFoot,12699,Paderborn,Borussia M.Gladbach,1,3,2020-06-20 13:30:00,Ramy Bensebaini,BallRecovery
+365423,14,SavedShot,0.735,0.575,0.05519060045480728,Jonas Hofmann,a,320,DirectFreekick,2019,RightFoot,12699,Paderborn,Borussia M.Gladbach,1,3,2020-06-20 13:30:00,,Standard
+365440,62,BlockedShot,0.8580000305175781,0.3120000076293945,0.05850769951939583,Jonas Hofmann,a,320,OpenPlay,2019,RightFoot,12699,Paderborn,Borussia M.Gladbach,1,3,2020-06-20 13:30:00,Matthias Ginter,Chipped
+365445,82,MissedShots,0.9309999847412109,0.745,0.030409300699830055,Jonas Hofmann,a,320,FromCorner,2019,RightFoot,12699,Paderborn,Borussia M.Gladbach,1,3,2020-06-20 13:30:00,László Bénes,Pass
+366870,6,Goal,0.870999984741211,0.5370000076293945,0.11020900309085846,Jonas Hofmann,h,320,OpenPlay,2019,RightFoot,12702,Borussia M.Gladbach,Hertha Berlin,2,1,2020-06-27 13:30:00,Breel Embolo,Pass
+366881,45,SavedShot,0.875999984741211,0.45599998474121095,0.3924739956855774,Jonas Hofmann,h,320,OpenPlay,2019,RightFoot,12702,Borussia M.Gladbach,Hertha Berlin,2,1,2020-06-27 13:30:00,Breel Embolo,Throughball
+377672,31,SavedShot,0.8930000305175781,0.55,0.3143090009689331,Jonas Hofmann,a,320,OpenPlay,2020,RightFoot,14179,Borussia Dortmund,Borussia M.Gladbach,3,0,2020-09-19 16:30:00,Hannes Wolf,Chipped
+377677,43,BlockedShot,0.749000015258789,0.63,0.019708799198269844,Jonas Hofmann,a,320,OpenPlay,2020,RightFoot,14179,Borussia Dortmund,Borussia M.Gladbach,3,0,2020-09-19 16:30:00,Hannes Wolf,Pass
+377684,83,MissedShots,0.7880000305175782,0.6419999694824219,0.019500499591231346,Jonas Hofmann,a,320,OpenPlay,2020,RightFoot,14179,Borussia Dortmund,Borussia M.Gladbach,3,0,2020-09-19 16:30:00,,None
+378750,37,SavedShot,0.8530000305175781,0.31,0.036639198660850525,Jonas Hofmann,h,320,OpenPlay,2020,RightFoot,14186,Borussia M.Gladbach,Union Berlin,1,1,2020-09-26 13:30:00,Lars Stindl,Pass
+380552,3,SavedShot,0.889000015258789,0.39099998474121095,0.2533929944038391,Jonas Hofmann,a,320,OpenPlay,2020,RightFoot,15159,FC Cologne,Borussia M.Gladbach,1,3,2020-10-03 13:30:00,Lars Stindl,OffsidePass
+382128,28,MissedShots,0.8859999847412109,0.7230000305175781,0.01766500063240528,Jonas Hofmann,h,320,FromCorner,2020,RightFoot,15173,Borussia M.Gladbach,Wolfsburg,1,1,2020-10-17 18:30:00,,Aerial
+382130,34,MissedShots,0.9430000305175781,0.3120000076293945,0.05727190151810646,Jonas Hofmann,h,320,OpenPlay,2020,RightFoot,15173,Borussia M.Gladbach,Wolfsburg,1,1,2020-10-17 18:30:00,Christoph Kramer,Pass
+382142,77,Goal,0.885,0.5,0.7577769756317139,Jonas Hofmann,h,320,Penalty,2020,RightFoot,15173,Borussia M.Gladbach,Wolfsburg,1,1,2020-10-17 18:30:00,,Standard
+383190,75,Goal,0.885,0.5,0.7577769756317139,Jonas Hofmann,a,320,Penalty,2020,RightFoot,15178,Mainz 05,Borussia M.Gladbach,2,3,2020-10-24 13:30:00,,Standard
+396364,36,SavedShot,0.945,0.32099998474121094,0.05431630089879036,Jonas Hofmann,a,320,OpenPlay,2020,RightFoot,15264,Arminia Bielefeld,Borussia M.Gladbach,0,1,2021-01-02 14:30:00,Florian Neuhaus,Chipped
+396369,53,BlockedShot,0.735,0.435,0.02050420083105564,Jonas Hofmann,a,320,OpenPlay,2020,RightFoot,15264,Arminia Bielefeld,Borussia M.Gladbach,0,1,2021-01-02 14:30:00,Christoph Kramer,Pass
+397671,9,BlockedShot,0.8190000152587891,0.5170000076293946,0.06189969927072525,Jonas Hofmann,h,320,OpenPlay,2020,RightFoot,15267,Borussia M.Gladbach,Bayern Munich,3,2,2021-01-08 19:30:00,Ramy Bensebaini,Pass
+397677,34,Goal,0.8490000152587891,0.6070000076293945,0.296097993850708,Jonas Hofmann,h,320,OpenPlay,2020,LeftFoot,15267,Borussia M.Gladbach,Bayern Munich,3,2,2021-01-08 19:30:00,Lars Stindl,Throughball
+397679,44,Goal,0.86,0.44099998474121094,0.34966498613357544,Jonas Hofmann,h,320,OpenPlay,2020,RightFoot,15267,Borussia M.Gladbach,Bayern Munich,3,2,2021-01-08 19:30:00,Lars Stindl,Throughball
+399070,8,BlockedShot,0.8780000305175781,0.25799999237060545,0.03190410137176514,Jonas Hofmann,a,320,OpenPlay,2020,RightFoot,15283,VfB Stuttgart,Borussia M.Gladbach,2,2,2021-01-16 17:30:00,Lars Stindl,Pass
+400223,6,SavedShot,0.7619999694824219,0.43400001525878906,0.026485500857234,Jonas Hofmann,h,320,OpenPlay,2020,RightFoot,15293,Borussia M.Gladbach,Borussia Dortmund,4,2,2021-01-22 19:30:00,Christoph Kramer,Pass
+405546,17,BlockedShot,0.8619999694824219,0.265,0.04258520156145096,Jonas Hofmann,h,320,OpenPlay,2020,RightFoot,15329,Borussia M.Gladbach,Mainz 05,1,2,2021-02-20 14:30:00,,TakeOn
+406878,5,Goal,0.885,0.5,0.7577769756317139,Jonas Hofmann,a,320,Penalty,2020,RightFoot,15340,RasenBallsport Leipzig,Borussia M.Gladbach,3,2,2021-02-27 17:30:00,,Standard
+406887,39,MissedShots,0.9130000305175782,0.590999984741211,0.509788990020752,Jonas Hofmann,a,320,OpenPlay,2020,LeftFoot,15340,RasenBallsport Leipzig,Borussia M.Gladbach,3,2,2021-02-27 17:30:00,,None
+406889,47,BlockedShot,0.740999984741211,0.5120000076293946,0.019109399989247322,Jonas Hofmann,a,320,OpenPlay,2020,RightFoot,15340,RasenBallsport Leipzig,Borussia M.Gladbach,3,2,2021-02-27 17:30:00,,None
+409619,69,MissedShots,0.675,0.3160000038146973,0.01188149955123663,Jonas Hofmann,a,320,OpenPlay,2020,RightFoot,15362,Augsburg,Borussia M.Gladbach,3,1,2021-03-12 19:30:00,Stefan Lainer,Pass
+415347,54,BlockedShot,0.7019999694824218,0.700999984741211,0.01816760003566742,Jonas Hofmann,h,320,OpenPlay,2020,RightFoot,15394,Borussia M.Gladbach,Eintracht Frankfurt,4,0,2021-04-17 13:30:00,Ramy Bensebaini,Pass
+415349,59,Goal,0.9330000305175781,0.23600000381469727,0.020760200917720795,Jonas Hofmann,h,320,FromCorner,2020,RightFoot,15394,Borussia M.Gladbach,Eintracht Frankfurt,4,0,2021-04-17 13:30:00,Florian Neuhaus,Chipped
+416470,56,MissedShots,0.889000015258789,0.5840000152587891,0.03803199902176857,Jonas Hofmann,a,320,OpenPlay,2020,OtherBodyPart,15403,Hoffenheim,Borussia M.Gladbach,3,2,2021-04-21 18:30:00,Stefan Lainer,Aerial
+420270,39,BlockedShot,0.875999984741211,0.7190000152587891,0.028491700068116188,Jonas Hofmann,a,320,OpenPlay,2020,RightFoot,15419,Bayern Munich,Borussia M.Gladbach,6,0,2021-05-08 16:30:00,Florian Neuhaus,Pass
+427184,14,ShotOnPost,0.7930000305175782,0.44599998474121094,0.04558999836444855,Jonas Hofmann,a,320,OpenPlay,2021,RightFoot,17531,Bayer Leverkusen,Borussia M.Gladbach,4,0,2021-08-21 16:30:00,Alassane Pléa,Pass
+427200,82,SavedShot,0.865,0.634000015258789,0.07062560319900513,Jonas Hofmann,a,320,OpenPlay,2021,RightFoot,17531,Bayer Leverkusen,Borussia M.Gladbach,4,0,2021-08-21 16:30:00,Luca Netz,Pass
+427201,84,SavedShot,0.95,0.6370000076293946,0.29027798771858215,Jonas Hofmann,a,320,OpenPlay,2021,LeftFoot,17531,Bayer Leverkusen,Borussia M.Gladbach,4,0,2021-08-21 16:30:00,Hannes Wolf,BallRecovery
+429220,9,BlockedShot,0.715999984741211,0.51,0.04755819961428642,Jonas Hofmann,a,320,DirectFreekick,2021,RightFoot,17541,Union Berlin,Borussia M.Gladbach,2,1,2021-08-29 13:30:00,,Standard
+429224,28,MissedShots,0.91,0.34200000762939453,0.07329829782247543,Jonas Hofmann,a,320,OpenPlay,2021,RightFoot,17541,Union Berlin,Borussia M.Gladbach,2,1,2021-08-29 13:30:00,Joe Scally,Pass
+429229,42,SavedShot,0.8640000152587891,0.395,0.04897430166602135,Jonas Hofmann,a,320,OpenPlay,2021,RightFoot,17541,Union Berlin,Borussia M.Gladbach,2,1,2021-08-29 13:30:00,Joe Scally,Chipped
+429248,90,Goal,0.9130000305175782,0.4979999923706055,0.39458900690078735,Jonas Hofmann,a,320,OpenPlay,2021,RightFoot,17541,Union Berlin,Borussia M.Gladbach,2,1,2021-08-29 13:30:00,,Rebound
+429249,92,MissedShots,0.919000015258789,0.655,0.026481200009584427,Jonas Hofmann,a,320,OpenPlay,2021,LeftFoot,17541,Union Berlin,Borussia M.Gladbach,2,1,2021-08-29 13:30:00,,Aerial
+430698,26,MissedShots,0.9230000305175782,0.5479999923706055,0.36097800731658936,Jonas Hofmann,h,320,OpenPlay,2021,RightFoot,17551,Borussia M.Gladbach,Arminia Bielefeld,3,1,2021-09-12 17:30:00,Joe Scally,Cross
+433632,10,BlockedShot,0.8080000305175781,0.51,0.14889299869537354,Jonas Hofmann,h,320,DirectFreekick,2021,RightFoot,17567,Borussia M.Gladbach,Borussia Dortmund,1,0,2021-09-25 16:30:00,,Standard
+433642,55,SavedShot,0.970999984741211,0.15,0.027770299464464188,Jonas Hofmann,h,320,OpenPlay,2021,RightFoot,17567,Borussia M.Gladbach,Borussia Dortmund,1,0,2021-09-25 16:30:00,Joe Scally,Pass
+433646,62,BlockedShot,0.7609999847412109,0.34,0.02623569965362549,Jonas Hofmann,h,320,OpenPlay,2021,RightFoot,17567,Borussia M.Gladbach,Borussia Dortmund,1,0,2021-09-25 16:30:00,Matthias Ginter,Pass
+434774,6,Goal,0.85,0.5220000076293946,0.6165339946746826,Jonas Hofmann,a,320,OpenPlay,2021,RightFoot,17575,Wolfsburg,Borussia M.Gladbach,1,3,2021-10-02 13:30:00,Breel Embolo,TakeOn
+434779,36,BlockedShot,0.850999984741211,0.44,0.12917999923229218,Jonas Hofmann,a,320,OpenPlay,2021,RightFoot,17575,Wolfsburg,Borussia M.Gladbach,1,3,2021-10-02 13:30:00,Breel Embolo,Pass
+434790,64,SavedShot,0.6990000152587891,0.46599998474121096,0.01915529929101467,Jonas Hofmann,a,320,OpenPlay,2021,RightFoot,17575,Wolfsburg,Borussia M.Gladbach,1,3,2021-10-02 13:30:00,Lars Stindl,Pass
+436473,37,MissedShots,0.8959999847412109,0.36700000762939455,0.0778815969824791,Jonas Hofmann,h,320,OpenPlay,2021,RightFoot,17583,Borussia M.Gladbach,VfB Stuttgart,1,1,2021-10-16 16:30:00,Matthias Ginter,Pass
+436474,39,MissedShots,0.7390000152587891,0.5640000152587891,0.019374800845980644,Jonas Hofmann,h,320,OpenPlay,2021,RightFoot,17583,Borussia M.Gladbach,VfB Stuttgart,1,1,2021-10-16 16:30:00,Breel Embolo,Pass
+436477,41,Goal,0.8240000152587891,0.7019999694824218,0.021442899480462074,Jonas Hofmann,h,320,FromCorner,2021,RightFoot,17583,Borussia M.Gladbach,VfB Stuttgart,1,1,2021-10-16 16:30:00,,None
+436489,72,BlockedShot,0.7819999694824219,0.38,0.020613500848412514,Jonas Hofmann,h,320,FromCorner,2021,LeftFoot,17583,Borussia M.Gladbach,VfB Stuttgart,1,1,2021-10-16 16:30:00,,None
+436491,77,BlockedShot,0.825999984741211,0.6120000076293945,0.05448339879512787,Jonas Hofmann,h,320,OpenPlay,2021,RightFoot,17583,Borussia M.Gladbach,VfB Stuttgart,1,1,2021-10-16 16:30:00,,BallRecovery
+440446,39,Goal,0.9459999847412109,0.34599998474121096,0.09664689749479294,Jonas Hofmann,h,320,OpenPlay,2021,RightFoot,17601,Borussia M.Gladbach,Bochum,2,1,2021-10-31 16:30:00,Alassane Pléa,Pass
+440449,51,BlockedShot,0.9540000152587891,0.4329999923706055,0.14156700670719147,Jonas Hofmann,h,320,OpenPlay,2021,Head,17601,Borussia M.Gladbach,Bochum,2,1,2021-10-31 16:30:00,Alassane Pléa,Cross
+440455,73,BlockedShot,0.9219999694824219,0.645,0.5432050228118896,Jonas Hofmann,h,320,OpenPlay,2021,LeftFoot,17601,Borussia M.Gladbach,Bochum,2,1,2021-10-31 16:30:00,Alassane Pléa,TakeOn
+440669,1,BlockedShot,0.764000015258789,0.4470000076293945,0.026690799742937088,Jonas Hofmann,a,320,OpenPlay,2021,RightFoot,17610,Mainz 05,Borussia M.Gladbach,1,1,2021-11-05 19:30:00,Breel Embolo,Pass
+442431,8,Goal,0.8869999694824219,0.4229999923706055,0.3549250066280365,Jonas Hofmann,h,320,OpenPlay,2021,LeftFoot,17620,Borussia M.Gladbach,Greuther Fuerth,4,0,2021-11-20 14:30:00,Lars Stindl,Pass
+442445,56,Goal,0.8569999694824219,0.5,0.47141098976135254,Jonas Hofmann,h,320,OpenPlay,2021,RightFoot,17620,Borussia M.Gladbach,Greuther Fuerth,4,0,2021-11-20 14:30:00,Lars Stindl,Throughball
+444008,13,SavedShot,0.8519999694824218,0.6680000305175782,0.04298020154237747,Jonas Hofmann,a,320,OpenPlay,2021,RightFoot,17626,FC Cologne,Borussia M.Gladbach,4,1,2021-11-27 14:30:00,Denis Zakaria,Chipped
+444025,65,MissedShots,0.8669999694824219,0.3320000076293945,0.1291400045156479,Jonas Hofmann,a,320,OpenPlay,2021,RightFoot,17626,FC Cologne,Borussia M.Gladbach,4,1,2021-11-27 14:30:00,Patrick Herrmann,Throughball
+444027,68,BlockedShot,0.7669999694824219,0.5840000152587891,0.07754380255937576,Jonas Hofmann,a,320,DirectFreekick,2021,RightFoot,17626,FC Cologne,Borussia M.Gladbach,4,1,2021-11-27 14:30:00,,Standard
+444028,68,BlockedShot,0.76,0.61,0.017407799139618874,Jonas Hofmann,a,320,FromCorner,2021,RightFoot,17626,FC Cologne,Borussia M.Gladbach,4,1,2021-11-27 14:30:00,,None
+444029,73,Goal,0.9059999847412109,0.3340000152587891,0.06754530221223831,Jonas Hofmann,a,320,OpenPlay,2021,RightFoot,17626,FC Cologne,Borussia M.Gladbach,4,1,2021-11-27 14:30:00,Patrick Herrmann,Pass
+447034,48,BlockedShot,0.8590000152587891,0.6370000076293946,0.07108569890260696,Jonas Hofmann,h,320,OpenPlay,2021,RightFoot,17638,Borussia M.Gladbach,Freiburg,0,6,2021-12-05 16:30:00,Ramy Bensebaini,Pass
+447037,69,BlockedShot,0.8930000305175781,0.26799999237060546,0.03437479957938194,Jonas Hofmann,h,320,OpenPlay,2021,RightFoot,17638,Borussia M.Gladbach,Freiburg,0,6,2021-12-05 16:30:00,Patrick Herrmann,Pass
+447041,71,MissedShots,0.9530000305175781,0.669000015258789,0.024830399081110954,Jonas Hofmann,h,320,OpenPlay,2021,LeftFoot,17638,Borussia M.Gladbach,Freiburg,0,6,2021-12-05 16:30:00,Joe Scally,Cross
+447045,87,BlockedShot,0.845999984741211,0.610999984741211,0.046603698283433914,Jonas Hofmann,h,320,OpenPlay,2021,RightFoot,17638,Borussia M.Gladbach,Freiburg,0,6,2021-12-05 16:30:00,,None
+454508,4,BlockedShot,0.7630000305175781,0.7090000152587891,0.050125401467084885,Jonas Hofmann,h,320,DirectFreekick,2021,RightFoot,17692,Borussia M.Gladbach,Union Berlin,1,2,2022-01-22 14:30:00,,Standard
+455777,4,SavedShot,0.9030000305175782,0.32799999237060545,0.06294479966163635,Jonas Hofmann,a,320,OpenPlay,2021,RightFoot,17697,Arminia Bielefeld,Borussia M.Gladbach,1,1,2022-02-05 14:30:00,Alassane Pléa,Pass
+455790,49,BlockedShot,0.93,0.29399999618530276,0.05081859976053238,Jonas Hofmann,a,320,OpenPlay,2021,RightFoot,17697,Arminia Bielefeld,Borussia M.Gladbach,1,1,2022-02-05 14:30:00,Matthias Ginter,Pass
+455794,58,BlockedShot,0.8819999694824219,0.34,0.06249209865927696,Jonas Hofmann,a,320,OpenPlay,2021,RightFoot,17697,Arminia Bielefeld,Borussia M.Gladbach,1,1,2022-02-05 14:30:00,Kouadio Kone,Pass
+456973,4,MissedShots,0.8819999694824219,0.3509999847412109,0.08690600097179413,Jonas Hofmann,h,320,OpenPlay,2021,RightFoot,17709,Borussia M.Gladbach,Augsburg,3,2,2022-02-12 14:30:00,Alassane Pléa,LayOff
+456976,12,MissedShots,0.8980000305175782,0.295,0.030095400288701057,Jonas Hofmann,h,320,OpenPlay,2021,RightFoot,17709,Borussia M.Gladbach,Augsburg,3,2,2022-02-12 14:30:00,Stefan Lainer,Cross
+456979,18,BlockedShot,0.9059999847412109,0.41900001525878905,0.11997699737548828,Jonas Hofmann,h,320,OpenPlay,2021,RightFoot,17709,Borussia M.Gladbach,Augsburg,3,2,2022-02-12 14:30:00,Breel Embolo,Pass
+456988,45,Goal,0.8819999694824219,0.53,0.12355399876832962,Jonas Hofmann,h,320,OpenPlay,2021,LeftFoot,17709,Borussia M.Gladbach,Augsburg,3,2,2022-02-12 14:30:00,Ramy Bensebaini,Pass
+458880,29,SavedShot,0.9409999847412109,0.37400001525878906,0.34111499786376953,Jonas Hofmann,a,320,OpenPlay,2021,LeftFoot,17721,Borussia Dortmund,Borussia M.Gladbach,6,0,2022-02-20 16:30:00,Breel Embolo,Pass
+458888,61,ShotOnPost,0.850999984741211,0.26299999237060545,0.026490699499845505,Jonas Hofmann,a,320,OpenPlay,2021,RightFoot,17721,Borussia Dortmund,Borussia M.Gladbach,6,0,2022-02-20 16:30:00,Alassane Pléa,Pass
+459690,18,SavedShot,0.9430000305175781,0.33599998474121096,0.06503599882125854,Jonas Hofmann,h,320,OpenPlay,2021,RightFoot,17728,Borussia M.Gladbach,Wolfsburg,2,2,2022-02-26 14:30:00,Marcus Thuram,Pass
+468387,27,MissedShots,0.9490000152587891,0.41200000762939454,0.3443419933319092,Jonas Hofmann,h,320,OpenPlay,2021,RightFoot,17782,Borussia M.Gladbach,FC Cologne,1,3,2022-04-16 16:30:00,,None
+468395,59,MissedShots,0.899000015258789,0.66,0.08809900283813477,Jonas Hofmann,h,320,OpenPlay,2021,LeftFoot,17782,Borussia M.Gladbach,FC Cologne,1,3,2022-04-16 16:30:00,Breel Embolo,Throughball
+472521,46,Goal,0.8419999694824218,0.524000015258789,0.5118709802627563,Jonas Hofmann,h,320,OpenPlay,2021,LeftFoot,17800,Borussia M.Gladbach,RasenBallsport Leipzig,3,1,2022-05-02 18:30:00,Breel Embolo,Throughball
+472528,76,Goal,0.9319999694824219,0.405,0.3705739974975586,Jonas Hofmann,h,320,OpenPlay,2021,RightFoot,17800,Borussia M.Gladbach,RasenBallsport Leipzig,3,1,2022-05-02 18:30:00,,TakeOn
+474165,2,SavedShot,0.8830000305175781,0.41900001525878905,0.10517299920320511,Jonas Hofmann,a,320,OpenPlay,2021,LeftFoot,17810,Eintracht Frankfurt,Borussia M.Gladbach,1,1,2022-05-08 13:30:00,Alassane Pléa,Pass
+474171,25,BlockedShot,0.7440000152587891,0.3029999923706055,0.016588199883699417,Jonas Hofmann,a,320,OpenPlay,2021,RightFoot,17810,Eintracht Frankfurt,Borussia M.Gladbach,1,1,2022-05-08 13:30:00,,None
+475676,45,Goal,0.92,0.34799999237060547,0.2985979914665222,Jonas Hofmann,h,320,OpenPlay,2021,RightFoot,17817,Borussia M.Gladbach,Hoffenheim,5,1,2022-05-14 13:30:00,Florian Neuhaus,Chipped
+475683,67,Goal,0.9669999694824218,0.6190000152587891,0.3718149960041046,Jonas Hofmann,h,320,SetPiece,2021,LeftFoot,17817,Borussia M.Gladbach,Hoffenheim,5,1,2022-05-14 13:30:00,,None
+479150,45,BlockedShot,0.8580000305175781,0.32099998474121094,0.04238159954547882,Jonas Hofmann,h,320,OpenPlay,2022,RightFoot,19344,Borussia M.Gladbach,Hoffenheim,3,1,2022-08-06 13:30:00,Alassane Pléa,Pass
+479156,60,MissedShots,0.784000015258789,0.5690000152587891,0.09863080084323883,Jonas Hofmann,h,320,DirectFreekick,2022,RightFoot,19344,Borussia M.Gladbach,Hoffenheim,3,1,2022-08-06 13:30:00,,Standard
+480584,71,Goal,0.9019999694824219,0.455,0.20636700093746185,Jonas Hofmann,a,320,OpenPlay,2022,RightFoot,19357,Schalke 04,Borussia M.Gladbach,2,2,2022-08-13 16:30:00,Marcus Thuram,TakeOn
+481522,2,SavedShot,0.5520000076293945,0.11899999618530273,0.006473919842392206,Jonas Hofmann,h,320,OpenPlay,2022,RightFoot,19360,Borussia M.Gladbach,Hertha Berlin,1,0,2022-08-19 18:30:00,,None
+481542,65,BlockedShot,0.905,0.38799999237060545,0.12135700136423111,Jonas Hofmann,h,320,OpenPlay,2022,RightFoot,19360,Borussia M.Gladbach,Hertha Berlin,1,0,2022-08-19 18:30:00,Florian Neuhaus,Pass
+481543,69,SavedShot,0.885,0.5,0.7577769756317139,Jonas Hofmann,h,320,Penalty,2022,RightFoot,19360,Borussia M.Gladbach,Hertha Berlin,1,0,2022-08-19 18:30:00,,Standard
+486724,73,BlockedShot,0.9130000305175782,0.625,0.0898514986038208,Jonas Hofmann,h,320,OpenPlay,2022,LeftFoot,19386,Borussia M.Gladbach,Mainz 05,0,1,2022-09-04 15:30:00,Lars Stindl,Pass
+488114,27,SavedShot,0.794000015258789,0.25299999237060544,0.021934300661087036,Jonas Hofmann,a,320,OpenPlay,2022,RightFoot,19395,Freiburg,Borussia M.Gladbach,0,0,2022-09-11 15:30:00,Lars Stindl,Pass
+488878,9,Goal,0.9590000152587891,0.40299999237060546,0.49378401041030884,Jonas Hofmann,h,320,OpenPlay,2022,RightFoot,19401,Borussia M.Gladbach,RasenBallsport Leipzig,3,0,2022-09-17 16:30:00,,Aerial
+488883,34,Goal,0.850999984741211,0.3970000076293945,0.3396730124950409,Jonas Hofmann,h,320,OpenPlay,2022,RightFoot,19401,Borussia M.Gladbach,RasenBallsport Leipzig,3,0,2022-09-17 16:30:00,Marcus Thuram,Pass
+488884,36,MissedShots,0.7140000152587891,0.46900001525878904,0.021146699786186218,Jonas Hofmann,h,320,OpenPlay,2022,RightFoot,19401,Borussia M.Gladbach,RasenBallsport Leipzig,3,0,2022-09-17 16:30:00,Kouadio Kone,Pass
+488893,51,SavedShot,0.8859999847412109,0.34599998474121096,0.2519499957561493,Jonas Hofmann,h,320,OpenPlay,2022,RightFoot,19401,Borussia M.Gladbach,RasenBallsport Leipzig,3,0,2022-09-17 16:30:00,Marcus Thuram,Pass
+488898,57,SavedShot,0.8390000152587891,0.5129999923706055,0.07901159673929214,Jonas Hofmann,h,320,OpenPlay,2022,LeftFoot,19401,Borussia M.Gladbach,RasenBallsport Leipzig,3,0,2022-09-17 16:30:00,,None
+488900,66,BlockedShot,0.8869999694824219,0.36400001525878906,0.09416619688272476,Jonas Hofmann,h,320,OpenPlay,2022,RightFoot,19401,Borussia M.Gladbach,RasenBallsport Leipzig,3,0,2022-09-17 16:30:00,Lars Stindl,Pass
+488903,87,SavedShot,0.894000015258789,0.3820000076293945,0.3252989947795868,Jonas Hofmann,h,320,OpenPlay,2022,RightFoot,19401,Borussia M.Gladbach,RasenBallsport Leipzig,3,0,2022-09-17 16:30:00,Christoph Kramer,Pass
+493007,46,BlockedShot,0.865,0.245,0.026416299864649773,Jonas Hofmann,a,320,OpenPlay,2022,LeftFoot,19428,Wolfsburg,Borussia M.Gladbach,2,2,2022-10-15 13:30:00,Alassane Pléa,Pass
+497644,3,Goal,0.875999984741211,0.509000015258789,0.3058300018310547,Jonas Hofmann,h,320,OpenPlay,2022,RightFoot,19453,Borussia M.Gladbach,VfB Stuttgart,3,1,2022-11-04 18:30:00,Alassane Pléa,Cross
+497661,61,MissedShots,0.785,0.3079999923706055,0.024486100301146507,Jonas Hofmann,h,320,OpenPlay,2022,RightFoot,19453,Borussia M.Gladbach,VfB Stuttgart,3,1,2022-11-04 18:30:00,Christoph Kramer,Pass
+497663,65,BlockedShot,0.8630000305175781,0.545,0.11466299742460251,Jonas Hofmann,h,320,OpenPlay,2022,RightFoot,19453,Borussia M.Gladbach,VfB Stuttgart,3,1,2022-11-04 18:30:00,Alassane Pléa,Pass
+499744,3,Goal,0.865,0.5540000152587891,0.35026198625564575,Jonas Hofmann,h,320,OpenPlay,2022,LeftFoot,19472,Borussia M.Gladbach,Borussia Dortmund,4,2,2022-11-11 19:30:00,Lars Stindl,Throughball
+505714,11,Goal,0.86,0.33799999237060546,0.09843199700117111,Jonas Hofmann,a,320,OpenPlay,2022,RightFoot,19500,Hoffenheim,Borussia M.Gladbach,1,4,2023-01-28 14:30:00,Lars Stindl,Chipped
+505722,36,Goal,0.845999984741211,0.4909999847412109,0.08832159638404846,Jonas Hofmann,a,320,OpenPlay,2022,RightFoot,19500,Hoffenheim,Borussia M.Gladbach,1,4,2023-01-28 14:30:00,,None
+507374,89,BlockedShot,0.84,0.3609999847412109,0.04787420108914375,Jonas Hofmann,h,320,OpenPlay,2022,RightFoot,19507,Borussia M.Gladbach,Schalke 04,0,0,2023-02-04 17:30:00,Alassane Pléa,Pass
+509591,36,MissedShots,0.71,0.42400001525878905,0.016139600425958633,Jonas Hofmann,h,320,OpenPlay,2022,RightFoot,19525,Borussia M.Gladbach,Bayern Munich,3,2,2023-02-18 14:30:00,Alassane Pléa,Pass
+509593,38,BlockedShot,0.8540000152587891,0.3340000152587891,0.06852920353412628,Jonas Hofmann,h,320,OpenPlay,2022,RightFoot,19525,Borussia M.Gladbach,Bayern Munich,3,2,2023-02-18 14:30:00,Lars Stindl,Pass
+509598,54,Goal,0.9019999694824219,0.46799999237060547,0.4491940140724182,Jonas Hofmann,h,320,OpenPlay,2022,LeftFoot,19525,Borussia M.Gladbach,Bayern Munich,3,2,2023-02-18 14:30:00,Alassane Pléa,Pass
+510593,10,BlockedShot,0.789000015258789,0.30200000762939455,0.022724900394678116,Jonas Hofmann,a,320,OpenPlay,2022,RightFoot,19535,Mainz 05,Borussia M.Gladbach,4,0,2023-02-24 19:30:00,Christoph Kramer,Pass
+510599,46,BlockedShot,0.77,0.33799999237060546,0.06359589844942093,Jonas Hofmann,a,320,DirectFreekick,2022,RightFoot,19535,Mainz 05,Borussia M.Gladbach,4,0,2023-02-24 19:30:00,,Standard
+512002,20,BlockedShot,0.874000015258789,0.519000015258789,0.09500499814748764,Jonas Hofmann,h,320,OpenPlay,2022,RightFoot,19544,Borussia M.Gladbach,Freiburg,0,0,2023-03-04 14:30:00,Kouadio Kone,BallTouch
+514594,54,BlockedShot,0.955999984741211,0.4909999847412109,0.5989919900894165,Jonas Hofmann,h,320,OpenPlay,2022,RightFoot,19563,Borussia M.Gladbach,Werder Bremen,2,2,2023-03-17 19:30:00,Joe Scally,Cross
+514596,58,SavedShot,0.745999984741211,0.6869999694824219,0.046696700155735016,Jonas Hofmann,h,320,DirectFreekick,2022,RightFoot,19563,Borussia M.Gladbach,Werder Bremen,2,2,2023-03-17 19:30:00,,Standard
+514597,58,BlockedShot,0.7730000305175782,0.67,0.029084499925374985,Jonas Hofmann,h,320,OpenPlay,2022,RightFoot,19563,Borussia M.Gladbach,Werder Bremen,2,2,2023-03-17 19:30:00,Kouadio Kone,Pass
+519695,12,Goal,0.914000015258789,0.43400001525878906,0.4386279881000519,Jonas Hofmann,a,320,OpenPlay,2022,RightFoot,19589,Eintracht Frankfurt,Borussia M.Gladbach,1,1,2023-04-15 16:30:00,Marcus Thuram,Pass
+522717,48,MissedShots,0.865,0.4159999847412109,0.058521345257759094,Jonas Hofmann,a,320,OpenPlay,2022,RightFoot,19610,VfB Stuttgart,Borussia M.Gladbach,2,1,2023-04-29 13:30:00,Stefan Lainer,Cross
+524470,34,Goal,0.9330000305175781,0.41700000762939454,0.31692269444465637,Jonas Hofmann,h,320,OpenPlay,2022,RightFoot,19617,Borussia M.Gladbach,Bochum,2,0,2023-05-06 13:30:00,Ramy Bensebaini,Cross
+524487,67,SavedShot,0.9259999847412109,0.2979999923706055,0.07117974013090134,Jonas Hofmann,h,320,OpenPlay,2022,RightFoot,19617,Borussia M.Gladbach,Bochum,2,0,2023-05-06 13:30:00,Stefan Lainer,Pass
+524490,73,SavedShot,0.899000015258789,0.2929999923706055,0.06358838826417923,Jonas Hofmann,h,320,OpenPlay,2022,RightFoot,19617,Borussia M.Gladbach,Bochum,2,0,2023-05-06 13:30:00,Florian Neuhaus,Pass
+526213,52,MissedShots,0.7919999694824219,0.40099998474121096,0.10043780505657196,Jonas Hofmann,a,320,DirectFreekick,2022,RightFoot,19622,Borussia Dortmund,Borussia M.Gladbach,5,2,2023-05-13 16:30:00,,Standard
+528254,38,SavedShot,0.874000015258789,0.7090000152587891,0.04085954278707504,Jonas Hofmann,a,320,OpenPlay,2022,RightFoot,19631,Bayer Leverkusen,Borussia M.Gladbach,2,2,2023-05-21 17:30:00,Marcus Thuram,Pass
+528261,57,Goal,0.874000015258789,0.6379999923706055,0.2891281247138977,Jonas Hofmann,a,320,OpenPlay,2022,LeftFoot,19631,Bayer Leverkusen,Borussia M.Gladbach,2,2,2023-05-21 17:30:00,,BallRecovery
+529080,10,MissedShots,0.860999984741211,0.31,0.059392623603343964,Jonas Hofmann,h,320,OpenPlay,2022,RightFoot,19643,Borussia M.Gladbach,Augsburg,2,0,2023-05-27 13:30:00,Lars Stindl,Pass
+529087,34,BlockedShot,0.7040000152587891,0.515,0.04203920438885689,Jonas Hofmann,h,320,DirectFreekick,2022,RightFoot,19643,Borussia M.Gladbach,Augsburg,2,0,2023-05-27 13:30:00,,Standard
+529089,39,Goal,0.8640000152587891,0.395,0.3033354878425598,Jonas Hofmann,h,320,OpenPlay,2022,RightFoot,19643,Borussia M.Gladbach,Augsburg,2,0,2023-05-27 13:30:00,Lars Stindl,Pass
+529100,77,MissedShots,0.665,0.575,0.040461424738168716,Jonas Hofmann,h,320,OpenPlay,2022,RightFoot,19643,Borussia M.Gladbach,Augsburg,2,0,2023-05-27 13:30:00,Jonas Omlin,Pass
+529104,92,SavedShot,0.8730000305175781,0.35400001525878905,0.10374300181865692,Jonas Hofmann,h,320,OpenPlay,2022,RightFoot,19643,Borussia M.Gladbach,Augsburg,2,0,2023-05-27 13:30:00,Patrick Herrmann,Pass
+533115,7,MissedShots,0.7619999694824219,0.445,0.022465713322162628,Jonas Hofmann,h,320,OpenPlay,2023,LeftFoot,23066,Bayer Leverkusen,RasenBallsport Leipzig,3,2,2023-08-19 13:30:00,,None
+534916,24,BlockedShot,0.9159999847412109,0.5779999923706055,0.13779281079769135,Jonas Hofmann,a,320,OpenPlay,2023,LeftFoot,23080,Borussia M.Gladbach,Bayer Leverkusen,0,3,2023-08-26 16:30:00,Florian Wirtz,Pass
+534929,46,SavedShot,0.9259999847412109,0.6809999847412109,0.07845526933670044,Jonas Hofmann,a,320,OpenPlay,2023,LeftFoot,23080,Borussia M.Gladbach,Bayer Leverkusen,0,3,2023-08-26 16:30:00,Florian Wirtz,Pass
+534934,51,BlockedShot,0.905,0.3890000152587891,0.1329587996006012,Jonas Hofmann,a,320,OpenPlay,2023,RightFoot,23080,Borussia M.Gladbach,Bayer Leverkusen,0,3,2023-08-26 16:30:00,Florian Wirtz,Pass
+534937,55,SavedShot,0.8130000305175781,0.34299999237060547,0.051681216806173325,Jonas Hofmann,a,320,OpenPlay,2023,RightFoot,23080,Borussia M.Gladbach,Bayer Leverkusen,0,3,2023-08-26 16:30:00,Jeremie Frimpong,BallTouch
+534944,73,SavedShot,0.8769999694824219,0.3890000152587891,0.10114473849534988,Jonas Hofmann,a,320,OpenPlay,2023,RightFoot,23080,Borussia M.Gladbach,Bayer Leverkusen,0,3,2023-08-26 16:30:00,Florian Wirtz,Pass
+536202,36,SavedShot,0.784000015258789,0.5579999923706055,0.034780122339725494,Jonas Hofmann,h,320,OpenPlay,2023,RightFoot,23084,Bayer Leverkusen,Darmstadt,5,1,2023-09-02 13:30:00,Granit Xhaka,Pass
+536205,45,SavedShot,0.789000015258789,0.425,0.03626910224556923,Jonas Hofmann,h,320,OpenPlay,2023,RightFoot,23084,Bayer Leverkusen,Darmstadt,5,1,2023-09-02 13:30:00,Edmond Tapsoba,Pass
+536210,66,Goal,0.8069999694824219,0.3659999847412109,0.0510585643351078,Jonas Hofmann,h,320,OpenPlay,2023,RightFoot,23084,Bayer Leverkusen,Darmstadt,5,1,2023-09-02 13:30:00,Victor Boniface,Pass
+536218,90,MissedShots,0.9019999694824219,0.35200000762939454,0.2881738543510437,Jonas Hofmann,h,320,OpenPlay,2023,RightFoot,23084,Bayer Leverkusen,Darmstadt,5,1,2023-09-02 13:30:00,,Rebound
+539785,29,MissedShots,0.9009999847412109,0.3559999847412109,0.3463408052921295,Jonas Hofmann,h,320,OpenPlay,2023,RightFoot,23108,Bayer Leverkusen,FC Heidenheim,4,1,2023-09-24 13:30:00,Odilon Kossounou,Throughball
+539787,34,SavedShot,0.8919999694824219,0.2979999923706055,0.06383778154850006,Jonas Hofmann,h,320,OpenPlay,2023,RightFoot,23108,Bayer Leverkusen,FC Heidenheim,4,1,2023-09-24 13:30:00,,None
+539793,44,BlockedShot,0.9019999694824219,0.3290000152587891,0.0827404260635376,Jonas Hofmann,h,320,OpenPlay,2023,RightFoot,23108,Bayer Leverkusen,FC Heidenheim,4,1,2023-09-24 13:30:00,Odilon Kossounou,Pass
+539797,62,Goal,0.8590000152587891,0.5420000076293945,0.33580663800239563,Jonas Hofmann,h,320,OpenPlay,2023,RightFoot,23108,Bayer Leverkusen,FC Heidenheim,4,1,2023-09-24 13:30:00,Exequiel Palacios,Throughball
+540967,64,Goal,0.889000015258789,0.4129999923706055,0.14001895487308502,Jonas Hofmann,a,320,OpenPlay,2023,RightFoot,23114,Mainz 05,Bayer Leverkusen,0,3,2023-09-30 13:30:00,Amine Adli,Pass
+540972,82,MissedShots,0.8969999694824219,0.26,0.024626512080430984,Jonas Hofmann,a,320,OpenPlay,2023,RightFoot,23114,Mainz 05,Bayer Leverkusen,0,3,2023-09-30 13:30:00,,Rebound
+543233,14,BlockedShot,0.8019999694824219,0.39,0.03612721711397171,Jonas Hofmann,h,320,OpenPlay,2023,RightFoot,23125,Bayer Leverkusen,FC Cologne,3,0,2023-10-08 13:30:00,Granit Xhaka,Pass
+543236,21,Goal,0.9159999847412109,0.5570000076293945,0.4664938449859619,Jonas Hofmann,h,320,OpenPlay,2023,LeftFoot,23125,Bayer Leverkusen,FC Cologne,3,0,2023-10-08 13:30:00,Florian Wirtz,Pass
+546285,34,BlockedShot,0.899000015258789,0.455,0.12939508259296417,Jonas Hofmann,h,320,OpenPlay,2023,RightFoot,23139,Bayer Leverkusen,Freiburg,2,1,2023-10-29 16:30:00,Victor Boniface,Pass
+546292,59,Goal,0.789000015258789,0.4540000152587891,0.050160787999629974,Jonas Hofmann,h,320,OpenPlay,2023,RightFoot,23139,Bayer Leverkusen,Freiburg,2,1,2023-10-29 16:30:00,Florian Wirtz,Pass
+546686,24,MissedShots,0.8159999847412109,0.46099998474121096,0.06559660285711288,Jonas Hofmann,a,320,OpenPlay,2023,LeftFoot,23152,Hoffenheim,Bayer Leverkusen,2,3,2023-11-04 14:30:00,Álex Grimaldo,Pass
+546689,44,BlockedShot,0.8169999694824219,0.4209999847412109,0.05746130272746086,Jonas Hofmann,a,320,OpenPlay,2023,RightFoot,23152,Hoffenheim,Bayer Leverkusen,2,3,2023-11-04 14:30:00,Jeremie Frimpong,Pass
+549010,70,BlockedShot,0.794000015258789,0.3840000152587891,0.03785315528512001,Jonas Hofmann,h,320,OpenPlay,2023,RightFoot,23157,Bayer Leverkusen,Union Berlin,4,0,2023-11-12 14:30:00,Jeremie Frimpong,Pass
+549569,81,BlockedShot,0.7869999694824219,0.595,0.03629586845636368,Jonas Hofmann,a,320,OpenPlay,2023,RightFoot,23171,Werder Bremen,Bayer Leverkusen,0,3,2023-11-25 14:30:00,Álex Grimaldo,Pass
+549572,86,SavedShot,0.855999984741211,0.3129999923706055,0.02862182818353176,Jonas Hofmann,a,320,OpenPlay,2023,RightFoot,23171,Werder Bremen,Bayer Leverkusen,0,3,2023-11-25 14:30:00,,Rebound
+551935,18,MissedShots,0.785,0.5609999847412109,0.03267185017466545,Jonas Hofmann,h,320,OpenPlay,2023,RightFoot,23175,Bayer Leverkusen,Borussia Dortmund,1,1,2023-12-03 16:30:00,,None
+551950,60,BlockedShot,0.7909999847412109,0.3559999847412109,0.02613564021885395,Jonas Hofmann,h,320,OpenPlay,2023,RightFoot,23175,Bayer Leverkusen,Borussia Dortmund,1,1,2023-12-03 16:30:00,,None
+555624,41,SavedShot,0.8119999694824219,0.5,0.09930072724819183,Jonas Hofmann,h,320,OpenPlay,2023,RightFoot,23202,Bayer Leverkusen,Bochum,4,0,2023-12-20 19:30:00,Patrik Schick,TakeOn
+555628,59,BlockedShot,0.8619999694824219,0.41900001525878905,0.12119069695472717,Jonas Hofmann,h,320,OpenPlay,2023,RightFoot,23202,Bayer Leverkusen,Bochum,4,0,2023-12-20 19:30:00,Florian Wirtz,Pass
+557990,31,BlockedShot,0.8569999694824219,0.51,0.10065549612045288,Jonas Hofmann,a,320,OpenPlay,2023,RightFoot,23216,Augsburg,Bayer Leverkusen,0,1,2024-01-13 14:30:00,Adam Hlozek,Pass
+558010,87,SavedShot,0.79,0.625999984741211,0.03103080950677395,Jonas Hofmann,a,320,OpenPlay,2023,RightFoot,23216,Augsburg,Bayer Leverkusen,0,1,2024-01-13 14:30:00,Álex Grimaldo,Pass
+559112,30,MissedShots,0.7519999694824219,0.3659999847412109,0.02084331400692463,Jonas Hofmann,a,320,SetPiece,2023,RightFoot,23219,RasenBallsport Leipzig,Bayer Leverkusen,2,3,2024-01-20 17:30:00,Granit Xhaka,Pass
+559919,17,SavedShot,0.8680000305175781,0.6730000305175782,0.061382997781038284,Jonas Hofmann,h,320,OpenPlay,2023,RightFoot,23229,Bayer Leverkusen,Borussia M.Gladbach,0,0,2024-01-27 17:30:00,Piero Hincapié,Pass
+559931,45,SavedShot,0.8209999847412109,0.5209999847412109,0.071268230676651,Jonas Hofmann,h,320,OpenPlay,2023,RightFoot,23229,Bayer Leverkusen,Borussia M.Gladbach,0,0,2024-01-27 17:30:00,Álex Grimaldo,Pass
+559932,53,MissedShots,0.9119999694824219,0.47200000762939454,0.11027012020349503,Jonas Hofmann,h,320,OpenPlay,2023,LeftFoot,23229,Bayer Leverkusen,Borussia M.Gladbach,0,0,2024-01-27 17:30:00,Jeremie Frimpong,Cross
+559935,57,BlockedShot,0.8119999694824219,0.6170000076293946,0.045034054666757584,Jonas Hofmann,h,320,OpenPlay,2023,RightFoot,23229,Bayer Leverkusen,Borussia M.Gladbach,0,0,2024-01-27 17:30:00,Álex Grimaldo,Pass
+559938,68,BlockedShot,0.8969999694824219,0.385,0.15906979143619537,Jonas Hofmann,h,320,OpenPlay,2023,LeftFoot,23229,Bayer Leverkusen,Borussia M.Gladbach,0,0,2024-01-27 17:30:00,Patrik Schick,TakeOn
+564915,15,SavedShot,0.960999984741211,0.34400001525878904,0.2824467420578003,Jonas Hofmann,h,320,OpenPlay,2023,RightFoot,23268,Bayer Leverkusen,Mainz 05,2,1,2024-02-23 19:30:00,Jeremie Frimpong,Pass
+564920,27,BlockedShot,0.8159999847412109,0.4490000152587891,0.09001020342111588,Jonas Hofmann,h,320,OpenPlay,2023,RightFoot,23268,Bayer Leverkusen,Mainz 05,2,1,2024-02-23 19:30:00,Jeremie Frimpong,Pass
+564923,36,BlockedShot,0.8440000152587891,0.7130000305175781,0.02339514158666134,Jonas Hofmann,h,320,FromCorner,2023,RightFoot,23268,Bayer Leverkusen,Mainz 05,2,1,2024-02-23 19:30:00,,None
+564924,39,SavedShot,0.9230000305175782,0.37099998474121093,0.35737040638923645,Jonas Hofmann,h,320,OpenPlay,2023,RightFoot,23268,Bayer Leverkusen,Mainz 05,2,1,2024-02-23 19:30:00,,BallRecovery
+567209,2,MissedShots,0.8490000152587891,0.4809999847412109,0.08988182246685028,Jonas Hofmann,a,320,OpenPlay,2023,RightFoot,23276,FC Cologne,Bayer Leverkusen,0,2,2024-03-03 14:30:00,Patrik Schick,Pass
+568881,81,SavedShot,0.7140000152587891,0.3189999961853027,0.020791348069906235,Jonas Hofmann,h,320,FromCorner,2023,RightFoot,23283,Bayer Leverkusen,Wolfsburg,2,0,2024-03-10 18:30:00,Exequiel Palacios,Pass
+570611,5,BlockedShot,0.735999984741211,0.5429999923706055,0.020738784223794937,Jonas Hofmann,h,320,OpenPlay,2023,RightFoot,23301,Bayer Leverkusen,Hoffenheim,2,1,2024-03-30 14:30:00,Florian Wirtz,Pass
+570615,19,BlockedShot,0.8959999847412109,0.2670000076293945,0.03856605291366577,Jonas Hofmann,h,320,OpenPlay,2023,RightFoot,23301,Bayer Leverkusen,Hoffenheim,2,1,2024-03-30 14:30:00,,None
+570619,40,BlockedShot,0.91,0.265,0.036689117550849915,Jonas Hofmann,h,320,OpenPlay,2023,RightFoot,23301,Bayer Leverkusen,Hoffenheim,2,1,2024-03-30 14:30:00,Robert Andrich,Pass
+570622,43,SavedShot,0.9169999694824219,0.3220000076293945,0.056117333471775055,Jonas Hofmann,h,320,OpenPlay,2023,RightFoot,23301,Bayer Leverkusen,Hoffenheim,2,1,2024-03-30 14:30:00,Florian Wirtz,Pass
+570623,46,BlockedShot,0.8780000305175781,0.40900001525878904,0.08550728857517242,Jonas Hofmann,h,320,OpenPlay,2023,RightFoot,23301,Bayer Leverkusen,Hoffenheim,2,1,2024-03-30 14:30:00,Jeremie Frimpong,Pass
+570626,49,BlockedShot,0.7769999694824219,0.3270000076293945,0.022278528660535812,Jonas Hofmann,h,320,OpenPlay,2023,RightFoot,23301,Bayer Leverkusen,Hoffenheim,2,1,2024-03-30 14:30:00,Granit Xhaka,Pass
+574378,34,BlockedShot,0.8919999694824219,0.4379999923706055,0.1472373604774475,Jonas Hofmann,h,320,OpenPlay,2023,RightFoot,23319,Bayer Leverkusen,Werder Bremen,5,0,2024-04-14 15:30:00,,TakeOn
+575663,13,MissedShots,0.774000015258789,0.33,0.02416718192398548,Jonas Hofmann,a,320,OpenPlay,2023,RightFoot,23326,Borussia Dortmund,Bayer Leverkusen,1,1,2024-04-21 15:30:00,Edmond Tapsoba,Pass
+576899,64,SavedShot,0.9209999847412109,0.42700000762939455,0.4355999231338501,Jonas Hofmann,h,320,OpenPlay,2023,LeftFoot,23338,Bayer Leverkusen,VfB Stuttgart,2,2,2024-04-27 16:30:00,,Rebound
+579066,29,SavedShot,0.755,0.4929999923706055,0.03970620408654213,Jonas Hofmann,a,320,OpenPlay,2023,RightFoot,23346,Eintracht Frankfurt,Bayer Leverkusen,1,5,2024-05-05 15:30:00,Arthur,BallRecovery
+579070,41,BlockedShot,0.8280000305175781,0.355,0.04593309760093689,Jonas Hofmann,a,320,OpenPlay,2023,RightFoot,23346,Eintracht Frankfurt,Bayer Leverkusen,1,5,2024-05-05 15:30:00,Odilon Kossounou,Pass
+580574,77,BlockedShot,0.805,0.4929999923706055,0.10191353410482407,Jonas Hofmann,a,320,OpenPlay,2023,LeftFoot,23359,Bochum,Bayer Leverkusen,0,5,2024-05-12 17:30:00,Borja Iglesias,Pass
+580576,82,SavedShot,0.9519999694824218,0.5509999847412109,0.6083546280860901,Jonas Hofmann,a,320,OpenPlay,2023,RightFoot,23359,Bochum,Bayer Leverkusen,0,5,2024-05-12 17:30:00,Álex Grimaldo,Pass
+581515,24,SavedShot,0.805,0.28899999618530275,0.030782612040638924,Jonas Hofmann,h,320,OpenPlay,2023,RightFoot,23364,Bayer Leverkusen,Augsburg,2,1,2024-05-18 13:30:00,Robert Andrich,Pass
+581523,47,SavedShot,0.8519999694824218,0.42400001525878905,0.12078804522752762,Jonas Hofmann,h,320,OpenPlay,2023,RightFoot,23364,Bayer Leverkusen,Augsburg,2,1,2024-05-18 13:30:00,Amine Adli,Pass
+581524,52,MissedShots,0.76,0.5270000076293946,0.03435685485601425,Jonas Hofmann,h,320,FromCorner,2023,RightFoot,23364,Bayer Leverkusen,Augsburg,2,1,2024-05-18 13:30:00,Exequiel Palacios,Pass
+581532,68,BlockedShot,0.8719999694824219,0.595999984741211,0.1066855937242508,Jonas Hofmann,h,320,OpenPlay,2023,RightFoot,23364,Bayer Leverkusen,Augsburg,2,1,2024-05-18 13:30:00,Robert Andrich,Pass
+585738,54,SavedShot,0.8530000305175781,0.5679999923706055,0.0943036824464798,Jonas Hofmann,a,320,OpenPlay,2024,LeftFoot,27742,Borussia M.Gladbach,Bayer Leverkusen,2,3,2024-08-23 18:30:00,Álex Grimaldo,Cross
+595317,5,BlockedShot,0.8590000152587891,0.4129999923706055,0.08411017060279846,Jonas Hofmann,h,320,OpenPlay,2024,LeftFoot,27794,Bayer Leverkusen,Holstein Kiel,2,2,2024-10-05 13:30:00,,Rebound
+595320,7,Goal,0.925,0.3559999847412109,0.27801284193992615,Jonas Hofmann,h,320,OpenPlay,2024,RightFoot,27794,Bayer Leverkusen,Holstein Kiel,2,2,2024-10-05 13:30:00,Exequiel Palacios,Rebound
+595321,8,BlockedShot,0.8490000152587891,0.3,0.0549355112016201,Jonas Hofmann,h,320,OpenPlay,2024,RightFoot,27794,Bayer Leverkusen,Holstein Kiel,2,2,2024-10-05 13:30:00,Jeremie Frimpong,BallRecovery
+595324,16,SavedShot,0.7880000305175782,0.7,0.03377463296055794,Jonas Hofmann,h,320,FromCorner,2024,RightFoot,27794,Bayer Leverkusen,Holstein Kiel,2,2,2024-10-05 13:30:00,Granit Xhaka,Pass
+620218,90,BlockedShot,0.8119999694824219,0.5129999923706055,0.03752617537975311,Jonas Hofmann,a,320,OpenPlay,2024,RightFoot,27951,Eintracht Frankfurt,Bayer Leverkusen,1,4,2025-03-01 17:30:00,,Rebound
+625574,85,SavedShot,0.85,0.425,0.1178862676024437,Jonas Hofmann,a,320,OpenPlay,2024,RightFoot,27986,FC Heidenheim,Bayer Leverkusen,0,1,2025-04-05 13:30:00,Jeremie Frimpong,Pass
+630152,78,MissedShots,0.7519999694824219,0.34400001525878904,0.05995665490627289,Jonas Hofmann,h,320,OpenPlay,2024,RightFoot,28012,Bayer Leverkusen,Augsburg,2,0,2025-04-26 13:30:00,Amine Adli,Pass
+633566,91,Goal,0.924000015258789,0.485,0.332256942987442,Jonas Hofmann,h,320,OpenPlay,2024,Head,28030,Bayer Leverkusen,Borussia Dortmund,2,4,2025-05-11 13:30:00,Florian Wirtz,Chipped
+644627,97,BlockedShot,0.905,0.3529999923706055,0.0949690043926239,Jonas Hofmann,a,320,OpenPlay,2025,RightFoot,30263,St. Pauli,Bayer Leverkusen,1,2,2025-09-27 13:30:00,Christian Kofane,Pass
+646122,91,MissedShots,0.8909999847412109,0.49900001525878906,0.520906925201416,Jonas Hofmann,h,320,OpenPlay,2025,RightFoot,30269,Bayer Leverkusen,Union Berlin,2,0,2025-10-04 13:30:00,,None
+647515,7,SavedShot,0.850999984741211,0.3579999923706055,0.09580157697200775,Jonas Hofmann,a,320,OpenPlay,2025,RightFoot,30282,Mainz 05,Bayer Leverkusen,3,4,2025-10-18 13:30:00,Ernest Poku,Pass
+649621,50,BlockedShot,0.8630000305175781,0.505,0.11246130615472794,Jonas Hofmann,h,320,OpenPlay,2025,LeftFoot,30288,Bayer Leverkusen,Freiburg,2,0,2025-10-26 13:30:00,Ernest Poku,Pass
+652234,11,SavedShot,0.700999984741211,0.40700000762939453,0.018100233748555183,Jonas Hofmann,h,320,OpenPlay,2025,RightFoot,30305,Bayer Leverkusen,FC Heidenheim,6,0,2025-11-08 14:30:00,Ernest Poku,Pass
+652235,15,Goal,0.9119999694824219,0.445,0.27108731865882874,Jonas Hofmann,h,320,OpenPlay,2025,Head,30305,Bayer Leverkusen,FC Heidenheim,6,0,2025-11-08 14:30:00,Edmond Tapsoba,Cross
+652238,29,BlockedShot,0.79,0.5529999923706055,0.04331233724951744,Jonas Hofmann,h,320,OpenPlay,2025,RightFoot,30305,Bayer Leverkusen,FC Heidenheim,6,0,2025-11-08 14:30:00,Álex Grimaldo,Pass
+652239,30,SavedShot,0.78,0.3220000076293945,0.025233695283532143,Jonas Hofmann,h,320,OpenPlay,2025,LeftFoot,30305,Bayer Leverkusen,FC Heidenheim,6,0,2025-11-08 14:30:00,Patrik Schick,Pass
+652255,86,MissedShots,0.860999984741211,0.265,0.0464053712785244,Jonas Hofmann,h,320,OpenPlay,2025,RightFoot,30305,Bayer Leverkusen,FC Heidenheim,6,0,2025-11-08 14:30:00,Martin Terrier,Pass
+653460,8,Goal,0.9130000305175782,0.43900001525878907,0.4651182293891907,Jonas Hofmann,a,320,OpenPlay,2025,RightFoot,30322,Wolfsburg,Bayer Leverkusen,1,3,2025-11-22 14:30:00,Malik Tillman,None
+655236,21,MissedShots,0.8590000152587891,0.29100000381469726,0.036598797887563705,Jonas Hofmann,h,320,OpenPlay,2025,RightFoot,30323,Bayer Leverkusen,Borussia Dortmund,1,2,2025-11-29 17:30:00,Malik Tillman,Pass
+655249,70,ShotOnPost,0.8909999847412109,0.4209999847412109,0.0704348161816597,Jonas Hofmann,h,320,OpenPlay,2025,LeftFoot,30323,Bayer Leverkusen,Borussia Dortmund,1,2,2025-11-29 17:30:00,,None
+656785,1,MissedShots,0.7290000152587891,0.34,0.02319452166557312,Jonas Hofmann,a,320,FromCorner,2025,RightFoot,30334,Augsburg,Bayer Leverkusen,2,0,2025-12-06 14:30:00,Ernest Poku,Pass
+658358,35,SavedShot,0.7519999694824219,0.3579999923706055,0.01860147900879383,Jonas Hofmann,h,320,OpenPlay,2025,RightFoot,30341,Bayer Leverkusen,FC Cologne,2,0,2025-12-13 17:30:00,Christian Kofane,Pass
+658359,35,MissedShots,0.789000015258789,0.5479999923706055,0.03836853429675102,Jonas Hofmann,h,320,OpenPlay,2025,RightFoot,30341,Bayer Leverkusen,FC Cologne,2,0,2025-12-13 17:30:00,Ibrahim Maza,Pass
+663448,94,MissedShots,0.86,0.27399999618530274,0.03075793758034706,Jonas Hofmann,a,320,OpenPlay,2025,RightFoot,30381,Hoffenheim,Bayer Leverkusen,1,0,2026-01-17 14:30:00,Christian Kofane,BlockedPass
+664719,36,BlockedShot,0.7559999847412109,0.34,0.021047193557024002,Jonas Hofmann,h,320,OpenPlay,2025,RightFoot,30386,Bayer Leverkusen,Werder Bremen,1,0,2026-01-24 14:30:00,Álex Grimaldo,Pass
+664727,49,MissedShots,0.8180000305175781,0.46599998474121096,0.07014071196317673,Jonas Hofmann,h,320,OpenPlay,2025,LeftFoot,30386,Bayer Leverkusen,Werder Bremen,1,0,2026-01-24 14:30:00,,None
+667429,74,BlockedShot,0.8669999694824219,0.5629999923706055,0.09900883585214615,Jonas Hofmann,a,320,OpenPlay,2025,LeftFoot,30405,Borussia M.Gladbach,Bayer Leverkusen,1,1,2026-02-07 17:30:00,Ernest Poku,Pass
+669631,72,BlockedShot,0.8,0.37900001525878907,0.03537830337882042,Jonas Hofmann,a,320,OpenPlay,2025,LeftFoot,30429,Union Berlin,Bayer Leverkusen,1,0,2026-02-21 14:30:00,,Rebound
+671017,3,SavedShot,0.7290000152587891,0.31799999237060544,0.013414356857538223,Jonas Hofmann,h,320,OpenPlay,2025,RightFoot,30432,Bayer Leverkusen,Mainz 05,1,1,2026-02-28 14:30:00,Patrik Schick,Pass
+679137,93,MissedShots,0.749000015258789,0.28,0.018336087465286255,Jonas Hofmann,h,320,OpenPlay,2025,RightFoot,30485,Bayer Leverkusen,Augsburg,1,2,2026-04-18 13:30:00,Aleix García,Pass

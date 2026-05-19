@@ -1,0 +1,51 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+93103,6,Goal,0.9369999694824219,0.505,0.477088987827301,Danilo Soddimo,h,1871,OpenPlay,2015,RightFoot,560,Frosinone,Torino,1,2,2015-08-23 22:45:00,Luca Paganini,Cross
+93106,13,BlockedShot,0.8030000305175782,0.39,0.02844489924609661,Danilo Soddimo,h,1871,SetPiece,2015,RightFoot,560,Frosinone,Torino,1,2,2015-08-23 22:45:00,,None
+93361,26,BlockedShot,0.769000015258789,0.20899999618530274,0.013615000061690807,Danilo Soddimo,a,1871,OpenPlay,2015,LeftFoot,570,Atalanta,Frosinone,2,0,2015-08-30 22:45:00,Aleandro Rosi,Pass
+93364,30,MissedShots,0.730999984741211,0.6559999847412109,0.015295799821615219,Danilo Soddimo,a,1871,OpenPlay,2015,LeftFoot,570,Atalanta,Frosinone,2,0,2015-08-30 22:45:00,Roberto Crivello,Pass
+93373,51,MissedShots,0.7830000305175782,0.6980000305175781,0.023638300597667694,Danilo Soddimo,a,1871,FromCorner,2015,LeftFoot,570,Atalanta,Frosinone,2,0,2015-08-30 22:45:00,Robert Gucher,Cross
+93687,48,BlockedShot,0.7080000305175781,0.67,0.013116699643433094,Danilo Soddimo,h,1871,OpenPlay,2015,RightFoot,572,Frosinone,Roma,0,2,2015-09-12 20:00:00,Raman Chibsah,Pass
+94940,76,MissedShots,0.925,0.6709999847412109,0.03894979879260063,Danilo Soddimo,a,1871,OpenPlay,2015,LeftFoot,588,Bologna,Frosinone,1,0,2015-09-20 17:00:00,Luca Paganini,Cross
+94945,87,SavedShot,0.6909999847412109,0.68,0.012011200189590454,Danilo Soddimo,a,1871,OpenPlay,2015,RightFoot,588,Bologna,Frosinone,1,0,2015-09-20 17:00:00,Daniel Pavlovic,Pass
+95666,9,BlockedShot,0.794000015258789,0.29100000381469726,0.02408739924430847,Danilo Soddimo,a,1871,OpenPlay,2015,RightFoot,599,Juventus,Frosinone,1,1,2015-09-23 22:45:00,Daniel Ciofani,Pass
+95693,61,MissedShots,0.705,0.5359999847412109,0.022368399426341057,Danilo Soddimo,a,1871,OpenPlay,2015,RightFoot,599,Juventus,Frosinone,1,1,2015-09-23 22:45:00,Alessandro Frara,TakeOn
+96351,64,SavedShot,0.8419999694824218,0.7169999694824218,0.02963070012629032,Danilo Soddimo,a,1871,OpenPlay,2015,RightFoot,618,Lazio,Frosinone,2,0,2015-10-04 20:00:00,,None
+96794,3,MissedShots,0.8619999694824219,0.674000015258789,0.05194680020213127,Danilo Soddimo,h,1871,OpenPlay,2015,RightFoot,624,Frosinone,Sampdoria,2,0,2015-10-18 17:00:00,Roberto Crivello,Pass
+96803,38,SavedShot,0.735,0.639000015258789,0.0455126017332077,Danilo Soddimo,h,1871,DirectFreekick,2015,RightFoot,624,Frosinone,Sampdoria,2,0,2015-10-18 17:00:00,,Standard
+96807,42,MissedShots,0.745,0.39799999237060546,0.014572899788618088,Danilo Soddimo,h,1871,SetPiece,2015,RightFoot,624,Frosinone,Sampdoria,2,0,2015-10-18 17:00:00,Luca Paganini,HeadPass
+96808,44,SavedShot,0.840999984741211,0.6930000305175781,0.03329480066895485,Danilo Soddimo,h,1871,OpenPlay,2015,RightFoot,624,Frosinone,Sampdoria,2,0,2015-10-18 17:00:00,Daniel Ciofani,Chipped
+96815,57,MissedShots,0.9230000305175782,0.6580000305175782,0.0735526978969574,Danilo Soddimo,h,1871,OpenPlay,2015,LeftFoot,624,Frosinone,Sampdoria,2,0,2015-10-18 17:00:00,Luca Paganini,Cross
+96816,61,BlockedShot,0.9059999847412109,0.6609999847412109,0.10779999941587448,Danilo Soddimo,h,1871,OpenPlay,2015,LeftFoot,624,Frosinone,Sampdoria,2,0,2015-10-18 17:00:00,Federico Dionisi,Pass
+97482,79,BlockedShot,0.7859999847412109,0.8,0.01667659915983677,Danilo Soddimo,a,1871,OpenPlay,2015,RightFoot,635,Udinese,Frosinone,1,0,2015-10-25 18:00:00,Roberto Crivello,Pass
+98755,15,MissedShots,0.8,0.639000015258789,0.021995799615979195,Danilo Soddimo,h,1871,FromCorner,2015,RightFoot,668,Frosinone,Genoa,2,2,2015-11-08 18:00:00,,None
+98767,63,BlockedShot,0.8290000152587891,0.7019999694824218,0.032210201025009155,Danilo Soddimo,h,1871,OpenPlay,2015,LeftFoot,668,Frosinone,Genoa,2,2,2015-11-08 18:00:00,Aleandro Rosi,Pass
+99362,6,SavedShot,0.8959999847412109,0.6719999694824219,0.029578400775790215,Danilo Soddimo,a,1871,OpenPlay,2015,LeftFoot,680,Inter,Frosinone,4,0,2015-11-22 23:45:00,Mirko Gori,Cross
+99366,16,MissedShots,0.8730000305175781,0.45,0.08148270100355148,Danilo Soddimo,a,1871,OpenPlay,2015,RightFoot,680,Inter,Frosinone,4,0,2015-11-22 23:45:00,Daniel Ciofani,HeadPass
+99388,84,BlockedShot,0.6969999694824218,0.45299999237060545,0.010921199806034565,Danilo Soddimo,a,1871,OpenPlay,2015,RightFoot,680,Inter,Frosinone,4,0,2015-11-22 23:45:00,Modibo Diakité,Pass
+100346,16,BlockedShot,0.8030000305175782,0.7280000305175781,0.023832300677895546,Danilo Soddimo,h,1871,FromCorner,2015,RightFoot,697,Frosinone,Chievo,0,2,2015-12-06 18:00:00,Paolo Sammarco,Pass
+100347,28,MissedShots,0.7719999694824219,0.8059999847412109,0.016400299966335297,Danilo Soddimo,h,1871,OpenPlay,2015,RightFoot,697,Frosinone,Chievo,0,2,2015-12-06 18:00:00,Daniel Pavlovic,Pass
+100350,42,MissedShots,0.9419999694824219,0.28299999237060547,0.05337589979171753,Danilo Soddimo,h,1871,OpenPlay,2015,LeftFoot,697,Frosinone,Chievo,0,2,2015-12-06 18:00:00,Aleandro Rosi,Pass
+100922,9,SavedShot,0.7630000305175781,0.15899999618530272,0.02926109917461872,Danilo Soddimo,a,1871,DirectFreekick,2015,RightFoot,702,Palermo,Frosinone,4,1,2015-12-12 21:00:00,,Standard
+100926,15,MissedShots,0.7319999694824219,0.9269999694824219,0.00977552030235529,Danilo Soddimo,a,1871,OpenPlay,2015,RightFoot,702,Palermo,Frosinone,4,1,2015-12-12 21:00:00,Daniel Pavlovic,Pass
+100936,49,MissedShots,0.745,0.7290000152587891,0.012053599581122398,Danilo Soddimo,a,1871,OpenPlay,2015,RightFoot,702,Palermo,Frosinone,4,1,2015-12-12 21:00:00,,None
+101380,5,SavedShot,0.9259999847412109,0.7280000305175781,0.042630601674318314,Danilo Soddimo,h,1871,OpenPlay,2015,LeftFoot,718,Frosinone,AC Milan,2,4,2015-12-20 21:00:00,Daniel Ciofani,Pass
+101402,57,SavedShot,0.7480000305175781,0.6880000305175781,0.04452570155262947,Danilo Soddimo,h,1871,DirectFreekick,2015,RightFoot,718,Frosinone,AC Milan,2,4,2015-12-20 21:00:00,,Standard
+101404,75,MissedShots,0.8590000152587891,0.18799999237060547,0.01219169981777668,Danilo Soddimo,h,1871,OpenPlay,2015,LeftFoot,718,Frosinone,AC Milan,2,4,2015-12-20 21:00:00,Paolo Sammarco,Chipped
+102464,68,SavedShot,0.754000015258789,0.72,0.010754800401628017,Danilo Soddimo,h,1871,OpenPlay,2015,RightFoot,737,Frosinone,Napoli,1,5,2016-01-10 18:00:00,Paolo Sammarco,Pass
+94024,11,BlockedShot,0.9130000305175782,0.7419999694824219,0.03823019936680794,Danilo Soddimo,a,1871,OpenPlay,2015,RightFoot,741,Torino,Frosinone,4,2,2016-01-16 21:00:00,Daniel Pavlovic,Pass
+94044,52,MissedShots,0.7319999694824219,0.32799999237060545,0.007537790108472109,Danilo Soddimo,a,1871,OpenPlay,2015,LeftFoot,741,Torino,Frosinone,4,2,2016-01-16 21:00:00,Paolo Sammarco,Rebound
+94056,85,MissedShots,0.6669999694824219,0.3820000076293945,0.006226439960300922,Danilo Soddimo,a,1871,OpenPlay,2015,RightFoot,741,Torino,Frosinone,4,2,2016-01-16 21:00:00,,None
+93909,89,MissedShots,0.7859999847412109,0.355,0.01897360011935234,Danilo Soddimo,h,1871,FromCorner,2015,LeftFoot,751,Frosinone,Atalanta,0,0,2016-01-23 21:00:00,,None
+94481,6,MissedShots,0.735,0.35900001525878905,0.012556499801576138,Danilo Soddimo,a,1871,OpenPlay,2015,RightFoot,763,Roma,Frosinone,3,1,2016-01-30 23:45:00,Alessandro Frara,TakeOn
+94484,15,BlockedShot,0.865,0.5640000152587891,0.0905717983841896,Danilo Soddimo,a,1871,OpenPlay,2015,RightFoot,763,Roma,Frosinone,3,1,2016-01-30 23:45:00,Daniel Ciofani,Pass
+95341,47,MissedShots,0.705,0.5709999847412109,0.01068970002233982,Danilo Soddimo,h,1871,OpenPlay,2015,RightFoot,772,Frosinone,Bologna,1,0,2016-02-03 21:30:00,Daniel Ciofani,LayOff
+96597,1,BlockedShot,0.8619999694824219,0.639000015258789,0.07071679830551147,Danilo Soddimo,h,1871,OpenPlay,2015,RightFoot,808,Frosinone,Lazio,0,0,2016-02-21 21:00:00,Daniel Pavlovic,Pass
+98038,91,SavedShot,0.9059999847412109,0.7030000305175781,0.04836240038275719,Danilo Soddimo,a,1871,OpenPlay,2015,LeftFoot,836,Carpi,Frosinone,2,1,2016-03-13 18:00:00,Massimiliano Carlini,Pass
+101194,39,MissedShots,0.789000015258789,0.25799999237060545,0.0165839996188879,Danilo Soddimo,h,1871,OpenPlay,2015,RightFoot,892,Frosinone,Palermo,0,2,2016-04-24 14:30:00,,Interception
+101198,54,BlockedShot,0.81,0.544000015258789,0.056018099188804626,Danilo Soddimo,h,1871,OpenPlay,2015,LeftFoot,892,Frosinone,Palermo,0,2,2016-04-24 14:30:00,Leonardo Blanchard,Pass
+223918,18,SavedShot,0.87,0.5429999923706055,0.01817389950156212,Danilo Soddimo,h,1871,SetPiece,2018,Head,9609,Frosinone,Sampdoria,0,5,2018-09-15 18:30:00,,Aerial
+226954,89,BlockedShot,0.7680000305175781,0.549000015258789,0.07903099805116653,Danilo Soddimo,a,1871,DirectFreekick,2018,RightFoot,9634,Roma,Frosinone,4,0,2018-09-26 19:00:00,,Standard
+253050,83,MissedShots,0.6619999694824219,0.52,0.010446099564433098,Danilo Soddimo,a,1871,OpenPlay,2018,RightFoot,9684,Parma Calcio 1913,Frosinone,0,0,2018-11-04 14:00:00,,BallRecovery
+253053,92,MissedShots,0.749000015258789,0.8,0.01594340056180954,Danilo Soddimo,a,1871,OpenPlay,2018,RightFoot,9684,Parma Calcio 1913,Frosinone,0,0,2018-11-04 14:00:00,Mirko Gori,Pass
+253170,81,SavedShot,0.8580000305175781,0.6020000076293945,0.07161050289869308,Danilo Soddimo,h,1871,OpenPlay,2018,LeftFoot,9690,Frosinone,Fiorentina,1,1,2018-11-09 19:30:00,Andrea Pinamonti,Pass
+254068,85,BlockedShot,0.7140000152587891,0.4,0.013111500069499016,Danilo Soddimo,a,1871,OpenPlay,2018,RightFoot,9720,Napoli,Frosinone,4,0,2018-12-08 14:00:00,Francesco Cassata,Pass

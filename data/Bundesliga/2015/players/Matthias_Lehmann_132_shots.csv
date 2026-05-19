@@ -1,0 +1,62 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+25221,62,SavedShot,0.785,0.48200000762939454,0.060534898191690445,Matthias Lehmann,h,132,OpenPlay,2014,RightFoot,5428,FC Cologne,Borussia M.Gladbach,0,0,2014-09-21 16:30:00,Daniel Halfar,Pass
+25429,79,BlockedShot,0.7240000152587891,0.33799999237060546,0.011618000455200672,Matthias Lehmann,a,132,OpenPlay,2014,RightFoot,5436,Hannover 96,FC Cologne,1,0,2014-09-24 19:00:00,,None
+25967,74,MissedShots,0.7219999694824218,0.4929999923706055,0.008275480009615421,Matthias Lehmann,a,132,OpenPlay,2014,RightFoot,5389,Eintracht Frankfurt,FC Cologne,3,2,2014-10-04 17:30:00,Anthony Ujah,Chipped
+26146,28,MissedShots,0.794000015258789,0.42700000762939455,0.05758250132203102,Matthias Lehmann,h,132,OpenPlay,2014,RightFoot,5397,FC Cologne,Borussia Dortmund,2,1,2014-10-18 14:30:00,Dusan Svento,Pass
+26801,11,Goal,0.8119999694824219,0.27700000762939453,0.07065939903259277,Matthias Lehmann,a,132,DirectFreekick,2014,RightFoot,5358,Hoffenheim,FC Cologne,3,4,2014-11-08 14:30:00,,Standard
+26820,76,MissedShots,0.6709999847412109,0.425,0.012039399705827236,Matthias Lehmann,a,132,OpenPlay,2014,RightFoot,5358,Hoffenheim,FC Cologne,3,4,2014-11-08 14:30:00,Anthony Ujah,Pass
+27310,74,MissedShots,0.700999984741211,0.745999984741211,0.011100700125098228,Matthias Lehmann,h,132,OpenPlay,2014,RightFoot,5371,FC Cologne,Hertha Berlin,1,2,2014-11-22 17:30:00,,TakeOn
+27498,3,Goal,0.885,0.5,0.7577769756317139,Matthias Lehmann,a,132,Penalty,2014,RightFoot,5377,Bayer Leverkusen,FC Cologne,5,1,2014-11-29 14:30:00,,Standard
+27650,66,Goal,0.885,0.5,0.7577769756317139,Matthias Lehmann,a,132,Penalty,2014,RightFoot,5325,Schalke 04,FC Cologne,1,2,2014-12-13 14:30:00,,Standard
+27830,26,BlockedShot,0.7190000152587891,0.515,0.01522810012102127,Matthias Lehmann,h,132,OpenPlay,2014,RightFoot,5332,FC Cologne,Mainz 05,0,0,2014-12-16 19:00:00,Dusan Svento,Pass
+27846,82,SavedShot,0.825999984741211,0.6819999694824219,0.014650199562311172,Matthias Lehmann,h,132,OpenPlay,2014,RightFoot,5332,FC Cologne,Mainz 05,0,0,2014-12-16 19:00:00,,Aerial
+28083,67,MissedShots,0.72,0.6519999694824219,0.013578199781477451,Matthias Lehmann,a,132,OpenPlay,2014,RightFoot,5345,Wolfsburg,FC Cologne,2,1,2014-12-20 17:30:00,Simon Zoller,Pass
+29117,93,BlockedShot,0.67,0.45799999237060546,0.03100850060582161,Matthias Lehmann,a,132,DirectFreekick,2014,RightFoot,5281,Borussia M.Gladbach,FC Cologne,1,0,2015-02-14 14:30:00,,Standard
+29692,10,MissedShots,0.7559999847412109,0.48900001525878906,0.03575209900736809,Matthias Lehmann,h,132,OpenPlay,2014,LeftFoot,5295,FC Cologne,Hannover 96,1,1,2015-02-21 17:30:00,,TakeOn
+29698,34,BlockedShot,0.7390000152587891,0.5690000152587891,0.01808840036392212,Matthias Lehmann,h,132,OpenPlay,2014,RightFoot,5295,FC Cologne,Hannover 96,1,1,2015-02-21 17:30:00,Yuya Osako,Pass
+29710,75,SavedShot,0.8240000152587891,0.539000015258789,0.17977400124073029,Matthias Lehmann,h,132,DirectFreekick,2014,RightFoot,5295,FC Cologne,Hannover 96,1,1,2015-02-21 17:30:00,,Standard
+32129,19,MissedShots,0.9390000152587891,0.7290000152587891,0.044248200953006744,Matthias Lehmann,h,132,OpenPlay,2014,LeftFoot,5252,FC Cologne,Werder Bremen,1,1,2015-03-21 14:30:00,Jonas Hector,Pass
+32149,87,Goal,0.885,0.5,0.7577769756317139,Matthias Lehmann,h,132,Penalty,2014,RightFoot,5252,FC Cologne,Werder Bremen,1,1,2015-03-21 14:30:00,,Standard
+30615,7,BlockedShot,0.7140000152587891,0.46099998474121096,0.04599760100245476,Matthias Lehmann,a,132,DirectFreekick,2014,RightFoot,5197,Freiburg,FC Cologne,1,0,2015-04-04 14:30:00,,Standard
+31439,6,MissedShots,0.7440000152587891,0.5420000076293945,0.020709099248051643,Matthias Lehmann,h,132,OpenPlay,2014,RightFoot,5211,FC Cologne,Hoffenheim,3,2,2015-04-12 14:30:00,Marcel Risse,BallTouch
+31443,19,Goal,0.885,0.5,0.7577769756317139,Matthias Lehmann,h,132,Penalty,2014,RightFoot,5211,FC Cologne,Hoffenheim,3,2,2015-04-12 14:30:00,,Standard
+31457,38,MissedShots,0.7830000305175782,0.6959999847412109,0.025450799614191055,Matthias Lehmann,h,132,OpenPlay,2014,RightFoot,5211,FC Cologne,Hoffenheim,3,2,2015-04-12 14:30:00,Kazuki Nagasawa,Pass
+30162,57,BlockedShot,0.889000015258789,0.4879999923706055,0.12772099673748016,Matthias Lehmann,h,132,OpenPlay,2014,LeftFoot,5226,FC Cologne,Bayer Leverkusen,1,1,2015-04-25 14:30:00,Anthony Ujah,Pass
+30760,0,MissedShots,0.5509999847412109,0.504000015258789,0.009036899544298649,Matthias Lehmann,a,132,OpenPlay,2014,RightFoot,5161,Augsburg,FC Cologne,0,0,2015-05-02 14:30:00,Yuya Osako,Pass
+29817,10,MissedShots,0.7019999694824218,0.485,0.010404299944639206,Matthias Lehmann,h,132,OpenPlay,2014,RightFoot,5176,FC Cologne,Schalke 04,2,0,2015-05-10 16:30:00,,None
+76157,1,ShotOnPost,0.7669999694824219,0.669000015258789,0.015749700367450714,Matthias Lehmann,a,132,OpenPlay,2015,RightFoot,1029,VfB Stuttgart,FC Cologne,1,3,2015-08-16 19:30:00,,None
+76869,57,BlockedShot,0.765,0.639000015258789,0.015480699948966503,Matthias Lehmann,a,132,OpenPlay,2015,LeftFoot,1054,Eintracht Frankfurt,FC Cologne,6,2,2015-09-12 20:30:00,Jonas Hector,Pass
+77348,5,MissedShots,0.6759999847412109,0.5179999923706055,0.011316699907183647,Matthias Lehmann,a,132,OpenPlay,2015,RightFoot,1067,Hertha Berlin,FC Cologne,2,0,2015-09-22 22:00:00,Anthony Modeste,Pass
+77660,69,MissedShots,0.7730000305175782,0.3340000152587891,0.018312999978661537,Matthias Lehmann,h,132,OpenPlay,2015,RightFoot,1075,FC Cologne,Ingolstadt,1,1,2015-09-25 22:30:00,,None
+78096,8,BlockedShot,0.6709999847412109,0.38799999237060545,0.012481600046157837,Matthias Lehmann,h,132,OpenPlay,2015,RightFoot,1100,FC Cologne,Hannover 96,0,1,2015-10-18 17:30:00,Yannick Gerhardt,Pass
+78162,49,SavedShot,0.705,0.39799999237060546,0.011587999761104584,Matthias Lehmann,a,132,OpenPlay,2015,RightFoot,1107,Bayern Munich,FC Cologne,4,0,2015-10-24 17:30:00,Kevin Vogt,Pass
+79042,1,MissedShots,0.7319999694824219,0.549000015258789,0.014155699871480465,Matthias Lehmann,h,132,OpenPlay,2015,LeftFoot,1132,FC Cologne,Mainz 05,0,0,2015-11-21 18:30:00,,None
+79062,89,MissedShots,0.7269999694824218,0.46599998474121096,0.018451999872922897,Matthias Lehmann,h,132,OpenPlay,2015,RightFoot,1132,FC Cologne,Mainz 05,0,0,2015-11-21 18:30:00,Yannick Gerhardt,Pass
+79318,23,SavedShot,0.7880000305175782,0.504000015258789,0.04021409898996353,Matthias Lehmann,a,132,OpenPlay,2015,RightFoot,1138,Darmstadt,FC Cologne,0,0,2015-11-27 23:30:00,Yannick Gerhardt,Pass
+79741,61,BlockedShot,0.7140000152587891,0.48900001525878906,0.04656760022044182,Matthias Lehmann,a,132,DirectFreekick,2015,RightFoot,1159,Werder Bremen,FC Cologne,1,1,2015-12-12 18:30:00,,Standard
+79980,40,BlockedShot,0.735999984741211,0.6930000305175781,0.015047799795866013,Matthias Lehmann,h,132,OpenPlay,2015,RightFoot,1169,FC Cologne,Borussia Dortmund,2,1,2015-12-19 18:30:00,Jonas Hector,Pass
+80911,62,ShotOnPost,0.9640000152587891,0.425,0.40249499678611755,Matthias Lehmann,h,132,OpenPlay,2015,RightFoot,1207,FC Cologne,Eintracht Frankfurt,3,1,2016-02-13 21:30:00,Filip Mladenovic,Cross
+81090,78,SavedShot,0.7430000305175781,0.5309999847412109,0.02135230042040348,Matthias Lehmann,a,132,OpenPlay,2015,RightFoot,1215,Borussia M.Gladbach,FC Cologne,1,0,2016-02-20 18:30:00,Jonas Hector,Pass
+82029,8,BlockedShot,0.8059999847412109,0.4179999923706055,0.04884659871459007,Matthias Lehmann,a,132,OpenPlay,2015,RightFoot,1251,Hannover 96,FC Cologne,0,2,2016-03-12 18:30:00,,Dispossessed
+127874,2,SavedShot,0.795,0.6619999694824219,0.013097199611365795,Matthias Lehmann,a,132,OpenPlay,2016,RightFoot,1337,Wolfsburg,FC Cologne,0,0,2016-09-10 17:30:00,,Aerial
+127881,16,MissedShots,0.7,0.6140000152587891,0.009967019781470299,Matthias Lehmann,a,132,OpenPlay,2016,RightFoot,1337,Wolfsburg,FC Cologne,0,0,2016-09-10 17:30:00,,None
+129360,61,MissedShots,0.755,0.40299999237060546,0.019394099712371826,Matthias Lehmann,a,132,OpenPlay,2016,RightFoot,1394,Hertha Berlin,FC Cologne,2,1,2016-10-22 17:30:00,Anthony Modeste,Pass
+129955,64,SavedShot,0.71,0.6730000305175782,0.016057200729846954,Matthias Lehmann,h,132,OpenPlay,2016,RightFoot,3307,FC Cologne,Hamburger SV,3,0,2016-10-30 20:30:00,Simon Zoller,Pass
+129957,67,SavedShot,0.7380000305175781,0.32599998474121095,0.013955200091004372,Matthias Lehmann,h,132,OpenPlay,2016,RightFoot,3307,FC Cologne,Hamburger SV,3,0,2016-10-30 20:30:00,,Rebound
+134666,84,MissedShots,0.725,0.435,0.009303590282797813,Matthias Lehmann,h,132,SetPiece,2016,RightFoot,3825,FC Cologne,Borussia M.Gladbach,2,3,2017-04-08 14:30:00,,Aerial
+133755,76,MissedShots,0.860999984741211,0.3160000038146973,0.05047290027141571,Matthias Lehmann,h,132,OpenPlay,2016,RightFoot,3842,FC Cologne,Hoffenheim,1,1,2017-04-21 19:30:00,Milos Jojic,Pass
+133758,89,SavedShot,0.8,0.49,0.05528710037469864,Matthias Lehmann,h,132,OpenPlay,2016,RightFoot,3842,FC Cologne,Hoffenheim,1,1,2017-04-21 19:30:00,Milos Jojic,Pass
+134167,55,BlockedShot,0.710999984741211,0.6969999694824218,0.008608710020780563,Matthias Lehmann,a,132,OpenPlay,2016,RightFoot,3848,Borussia Dortmund,FC Cologne,0,0,2017-04-29 14:30:00,,None
+127857,22,MissedShots,0.6659999847412109,0.639000015258789,0.009874059818685055,Matthias Lehmann,h,132,OpenPlay,2016,RightFoot,3878,FC Cologne,Mainz 05,2,0,2017-05-20 14:30:00,,BallRecovery
+166062,66,SavedShot,0.6880000305175781,0.62,0.008523600175976753,Matthias Lehmann,h,132,OpenPlay,2017,RightFoot,8268,FC Cologne,Hamburger SV,1,3,2017-08-25 19:30:00,Jannes Horn,Pass
+166369,68,BlockedShot,0.7140000152587891,0.545,0.010298999957740307,Matthias Lehmann,a,132,OpenPlay,2017,RightFoot,8282,Augsburg,FC Cologne,3,0,2017-09-09 14:30:00,Leonardo Bittencourt,Pass
+166810,23,MissedShots,0.8209999847412109,0.33299999237060546,0.013637199997901917,Matthias Lehmann,h,132,OpenPlay,2017,LeftFoot,8299,FC Cologne,Eintracht Frankfurt,0,1,2017-09-20 17:30:00,Jhon Córdoba,Aerial
+166818,43,MissedShots,0.710999984741211,0.655,0.0139055997133255,Matthias Lehmann,h,132,OpenPlay,2017,RightFoot,8299,FC Cologne,Eintracht Frankfurt,0,1,2017-09-20 17:30:00,Konstantin Rausch,Pass
+167941,26,MissedShots,0.675,0.7440000152587891,0.009402720257639885,Matthias Lehmann,a,132,OpenPlay,2017,RightFoot,8330,VfB Stuttgart,FC Cologne,2,1,2017-10-13 19:30:00,Konstantin Rausch,Pass
+167960,65,MissedShots,0.720999984741211,0.5059999847412109,0.01776760071516037,Matthias Lehmann,a,132,OpenPlay,2017,RightFoot,8330,VfB Stuttgart,FC Cologne,2,1,2017-10-13 19:30:00,Leonardo Bittencourt,Pass
+167432,33,MissedShots,0.710999984741211,0.4929999923706055,0.017205100506544113,Matthias Lehmann,h,132,SetPiece,2017,RightFoot,8350,FC Cologne,Hoffenheim,0,3,2017-11-05 14:30:00,Salih Özcan,Pass
+168344,45,MissedShots,0.76,0.5509999847412109,0.02515910007059574,Matthias Lehmann,h,132,OpenPlay,2017,RightFoot,8369,FC Cologne,Hertha Berlin,0,2,2017-11-26 17:00:00,,Rebound
+168352,75,SavedShot,0.7140000152587891,0.4179999923706055,0.012159899808466434,Matthias Lehmann,h,132,OpenPlay,2017,RightFoot,8369,FC Cologne,Hertha Berlin,0,2,2017-11-26 17:00:00,Serhou Guirassy,Pass
+179659,23,BlockedShot,0.7019999694824218,0.6,0.03829380124807358,Matthias Lehmann,h,132,DirectFreekick,2017,RightFoot,8389,FC Cologne,Freiburg,3,4,2017-12-10 12:30:00,,Standard
+184198,48,SavedShot,0.74,0.7480000305175781,0.012521499767899513,Matthias Lehmann,h,132,OpenPlay,2017,RightFoot,8405,FC Cologne,Wolfsburg,1,0,2017-12-16 14:30:00,Jannes Horn,Pass
+189871,46,MissedShots,0.7680000305175781,0.36700000762939455,0.015484300442039967,Matthias Lehmann,h,132,OpenPlay,2017,RightFoot,8434,FC Cologne,Augsburg,1,1,2018-01-27 14:30:00,,Aerial

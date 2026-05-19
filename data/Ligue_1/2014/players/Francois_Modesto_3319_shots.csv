@@ -1,0 +1,15 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+3652,40,Goal,0.9780000305175781,0.455,0.6470209956169128,Francois Modesto,a,3319,FromCorner,2014,RightFoot,6106,Reims,SC Bastia,2,1,2014-11-29 19:00:00,,None
+4207,70,MissedShots,0.975,0.42,0.2622640132904053,Francois Modesto,h,3319,FromCorner,2014,Head,6042,SC Bastia,Evian Thonon Gaillard,1,2,2014-12-03 18:00:00,Christopher Maboulou,HeadPass
+5678,44,Goal,0.950999984741211,0.5879999923706055,0.07701320201158524,Francois Modesto,h,3319,FromCorner,2014,Head,6000,SC Bastia,Paris Saint Germain,4,2,2015-01-10 16:00:00,Ryad Boudebouz,Cross
+5039,83,SavedShot,0.9730000305175781,0.45,0.5285189747810364,Francois Modesto,h,3319,FromCorner,2014,Head,6023,SC Bastia,Bordeaux,0,0,2015-01-24 19:00:00,Guillaume Gillet,Pass
+5040,83,BlockedShot,0.98,0.4779999923706055,0.5779719948768616,Francois Modesto,h,3319,FromCorner,2014,RightFoot,6023,SC Bastia,Bordeaux,0,0,2015-01-24 19:00:00,,KeeperPickup
+7516,59,BlockedShot,0.8330000305175781,0.40799999237060547,0.04835040122270584,Francois Modesto,h,3319,SetPiece,2014,RightFoot,5934,SC Bastia,Nice,2,1,2015-03-07 19:00:00,,None
+6624,74,MissedShots,0.899000015258789,0.6719999694824219,0.03594600036740303,Francois Modesto,h,3319,FromCorner,2014,RightFoot,5866,SC Bastia,Caen,1,1,2015-05-16 20:00:00,Gaël Danic,Cross
+64672,1,MissedShots,0.9230000305175782,0.40700000762939453,0.05586960166692734,Francois Modesto,a,3319,SetPiece,2015,Head,2011,Nantes,SC Bastia,0,0,2015-11-28 23:00:00,Gaël Danic,Chipped
+65289,8,MissedShots,0.9359999847412109,0.4209999847412109,0.04802289977669716,Francois Modesto,h,3319,SetPiece,2015,Head,2051,SC Bastia,Reims,2,0,2015-12-19 23:00:00,Gaël Danic,Aerial
+68994,34,OwnGoal,0.03700000047683716,0.5420000076293945,0,Francois Modesto,a,3319,FromCorner,2015,OtherBodyPart,2099,Monaco,SC Bastia,2,0,2016-02-02 22:00:00,,None
+70077,22,MissedShots,0.8680000305175781,0.6840000152587891,0.018507400527596474,Francois Modesto,a,3319,OpenPlay,2015,RightFoot,2138,Nice,SC Bastia,0,2,2016-02-26 23:30:00,,Aerial
+70078,22,MissedShots,0.9169999694824219,0.5690000152587891,0.10905200242996216,Francois Modesto,a,3319,OpenPlay,2015,RightFoot,2138,Nice,SC Bastia,0,2,2016-02-26 23:30:00,,Card
+66832,7,MissedShots,0.9069999694824219,0.37099998474121093,0.055057499557733536,Francois Modesto,h,3319,FromCorner,2015,RightFoot,2164,SC Bastia,Lille,1,2,2016-03-12 23:00:00,Francois Kamano,HeadPass
+68313,2,SavedShot,0.925,0.35200000762939454,0.014668299816548824,Francois Modesto,h,3319,FromCorner,2015,Head,2236,SC Bastia,Angers,1,0,2016-05-07 23:00:00,Gaël Danic,Cross

@@ -1,0 +1,179 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+362977,53,MissedShots,0.8730000305175781,0.5109999847412109,0.37887701392173767,Maximilian Beier,h,8137,OpenPlay,2019,RightFoot,12632,Hoffenheim,Hertha Berlin,0,3,2020-05-16 13:30:00,Sebastian Rudy,Pass
+362997,94,SavedShot,0.9030000305175782,0.5979999923706054,0.06835850328207016,Maximilian Beier,h,8137,OpenPlay,2019,RightFoot,12632,Hoffenheim,Hertha Berlin,0,3,2020-05-16 13:30:00,,None
+363653,74,SavedShot,0.88,0.38599998474121094,0.08607500046491623,Maximilian Beier,a,8137,OpenPlay,2019,LeftFoot,12659,Mainz 05,Hoffenheim,0,1,2020-05-30 13:30:00,Stefan Posch,Chipped
+363654,78,SavedShot,0.879000015258789,0.3160000038146973,0.08655639737844467,Maximilian Beier,a,8137,OpenPlay,2019,RightFoot,12659,Mainz 05,Hoffenheim,0,1,2020-05-30 13:30:00,Sebastian Rudy,Pass
+364849,75,ShotOnPost,0.85,0.46,0.379707008600235,Maximilian Beier,a,8137,OpenPlay,2019,RightFoot,12689,Augsburg,Hoffenheim,1,3,2020-06-17 18:30:00,Diadie Samassékou,Pass
+533077,85,BlockedShot,0.86,0.4229999923706055,0.06336528062820435,Maximilian Beier,h,8137,OpenPlay,2023,RightFoot,23068,Hoffenheim,Freiburg,1,2,2023-08-19 13:30:00,Pavel Kaderábek,BallTouch
+534543,76,Goal,0.955999984741211,0.47,0.4899573028087616,Maximilian Beier,a,8137,FromCorner,2023,RightFoot,23078,FC Heidenheim,Hoffenheim,2,3,2023-08-26 13:30:00,Tom Bischof,Cross
+536113,11,SavedShot,0.745999984741211,0.3940000152587891,0.04110800474882126,Maximilian Beier,h,8137,OpenPlay,2023,RightFoot,23085,Hoffenheim,Wolfsburg,3,1,2023-09-02 13:30:00,Grischa Prömel,Pass
+536126,59,Goal,0.8830000305175781,0.4640000152587891,0.39432254433631897,Maximilian Beier,h,8137,OpenPlay,2023,LeftFoot,23085,Hoffenheim,Wolfsburg,3,1,2023-09-02 13:30:00,Robert Skov,Cross
+537445,51,Goal,0.8109999847412109,0.66,0.09374403208494186,Maximilian Beier,a,8137,OpenPlay,2023,RightFoot,23097,FC Cologne,Hoffenheim,1,3,2023-09-16 13:30:00,Grischa Prömel,Pass
+538951,14,SavedShot,0.8030000305175782,0.6370000076293946,0.031520597636699677,Maximilian Beier,a,8137,OpenPlay,2023,RightFoot,23106,Union Berlin,Hoffenheim,0,2,2023-09-23 13:30:00,Robert Skov,Pass
+538955,29,BlockedShot,0.825999984741211,0.7090000152587891,0.03187977895140648,Maximilian Beier,a,8137,OpenPlay,2023,RightFoot,23106,Union Berlin,Hoffenheim,0,2,2023-09-23 13:30:00,Grischa Prömel,TakeOn
+538958,37,Goal,0.92,0.49700000762939456,0.4064617156982422,Maximilian Beier,a,8137,OpenPlay,2023,LeftFoot,23106,Union Berlin,Hoffenheim,0,2,2023-09-23 13:30:00,Grischa Prömel,Cross
+540718,35,BlockedShot,0.8119999694824219,0.585,0.049961138516664505,Maximilian Beier,h,8137,OpenPlay,2023,RightFoot,23110,Hoffenheim,Borussia Dortmund,1,3,2023-09-29 18:30:00,Robert Skov,Pass
+542866,7,Goal,0.91,0.5659999847412109,0.4189547002315521,Maximilian Beier,a,8137,OpenPlay,2023,RightFoot,23124,Werder Bremen,Hoffenheim,2,3,2023-10-07 16:30:00,Grischa Prömel,Pass
+542872,45,MissedShots,0.9519999694824218,0.6419999694824219,0.12771952152252197,Maximilian Beier,a,8137,OpenPlay,2023,LeftFoot,23124,Werder Bremen,Hoffenheim,2,3,2023-10-07 16:30:00,Wout Weghorst,Pass
+542874,61,MissedShots,0.8219999694824218,0.664000015258789,0.020325293764472008,Maximilian Beier,a,8137,OpenPlay,2023,RightFoot,23124,Werder Bremen,Hoffenheim,2,3,2023-10-07 16:30:00,,Aerial
+542880,78,MissedShots,0.8369999694824218,0.5,0.10975117236375809,Maximilian Beier,a,8137,OpenPlay,2023,RightFoot,23124,Werder Bremen,Hoffenheim,2,3,2023-10-07 16:30:00,Pavel Kaderábek,LayOff
+543877,2,Goal,0.86,0.5309999847412109,0.2383202314376831,Maximilian Beier,h,8137,OpenPlay,2023,LeftFoot,23132,Hoffenheim,Eintracht Frankfurt,1,3,2023-10-21 13:30:00,Oliver Baumann,TakeOn
+543885,25,MissedShots,0.95,0.6759999847412109,0.04809408634901047,Maximilian Beier,h,8137,FromCorner,2023,LeftFoot,23132,Hoffenheim,Eintracht Frankfurt,1,3,2023-10-21 13:30:00,,None
+543890,38,SavedShot,0.855999984741211,0.4640000152587891,0.08126848191022873,Maximilian Beier,h,8137,OpenPlay,2023,RightFoot,23132,Hoffenheim,Eintracht Frankfurt,1,3,2023-10-21 13:30:00,Anton Stach,Pass
+543892,43,MissedShots,0.955999984741211,0.5370000076293945,0.14161577820777893,Maximilian Beier,h,8137,OpenPlay,2023,LeftFoot,23132,Hoffenheim,Eintracht Frankfurt,1,3,2023-10-21 13:30:00,,Rebound
+545334,3,SavedShot,0.9130000305175782,0.40599998474121096,0.5539587140083313,Maximilian Beier,a,8137,OpenPlay,2023,RightFoot,23145,VfB Stuttgart,Hoffenheim,2,3,2023-10-28 13:30:00,Wout Weghorst,Throughball
+545347,48,SavedShot,0.899000015258789,0.46099998474121096,0.11589417606592178,Maximilian Beier,a,8137,OpenPlay,2023,RightFoot,23145,VfB Stuttgart,Hoffenheim,2,3,2023-10-28 13:30:00,,None
+546691,49,SavedShot,0.925,0.6859999847412109,0.05342501029372215,Maximilian Beier,h,8137,OpenPlay,2023,LeftFoot,23152,Hoffenheim,Bayer Leverkusen,2,3,2023-11-04 14:30:00,Grischa Prömel,Pass
+546692,49,MissedShots,0.9390000152587891,0.615,0.0787762776017189,Maximilian Beier,h,8137,OpenPlay,2023,RightFoot,23152,Hoffenheim,Bayer Leverkusen,2,3,2023-11-04 14:30:00,,Rebound
+546695,57,SavedShot,0.6780000305175782,0.4759999847412109,0.011175808496773243,Maximilian Beier,h,8137,OpenPlay,2023,RightFoot,23152,Hoffenheim,Bayer Leverkusen,2,3,2023-11-04 14:30:00,,BallRecovery
+546700,72,BlockedShot,0.8430000305175781,0.6509999847412109,0.044655829668045044,Maximilian Beier,h,8137,OpenPlay,2023,RightFoot,23152,Hoffenheim,Bayer Leverkusen,2,3,2023-11-04 14:30:00,Wout Weghorst,Pass
+548299,38,MissedShots,0.914000015258789,0.6459999847412109,0.08915621042251587,Maximilian Beier,a,8137,OpenPlay,2023,RightFoot,23161,Augsburg,Hoffenheim,1,1,2023-11-11 14:30:00,,None
+548304,54,SavedShot,0.9319999694824219,0.6630000305175782,0.08304732292890549,Maximilian Beier,a,8137,OpenPlay,2023,LeftFoot,23161,Augsburg,Hoffenheim,1,1,2023-11-11 14:30:00,,TakeOn
+548305,67,SavedShot,0.8769999694824219,0.715,0.03997528925538063,Maximilian Beier,a,8137,OpenPlay,2023,RightFoot,23161,Augsburg,Hoffenheim,1,1,2023-11-11 14:30:00,Grischa Prömel,Pass
+550516,20,MissedShots,0.965,0.67,0.06263305246829987,Maximilian Beier,h,8137,OpenPlay,2023,LeftFoot,23170,Hoffenheim,Mainz 05,1,1,2023-11-26 16:30:00,Andrej Kramaric,Chipped
+550518,27,SavedShot,0.8190000152587891,0.45799999237060546,0.06706083565950394,Maximilian Beier,h,8137,OpenPlay,2023,RightFoot,23170,Hoffenheim,Mainz 05,1,1,2023-11-26 16:30:00,Andrej Kramaric,Pass
+550525,49,BlockedShot,0.8530000305175781,0.5129999923706055,0.0674017071723938,Maximilian Beier,h,8137,OpenPlay,2023,RightFoot,23170,Hoffenheim,Mainz 05,1,1,2023-11-26 16:30:00,,Rebound
+551131,55,BlockedShot,0.8640000152587891,0.6909999847412109,0.0422123484313488,Maximilian Beier,a,8137,OpenPlay,2023,RightFoot,23177,Borussia M.Gladbach,Hoffenheim,2,1,2023-12-02 14:30:00,Finn Becker,Pass
+551141,79,BlockedShot,0.7769999694824219,0.40900001525878904,0.030687768012285233,Maximilian Beier,a,8137,OpenPlay,2023,RightFoot,23177,Borussia M.Gladbach,Hoffenheim,2,1,2023-12-02 14:30:00,Florian Grillitsch,BallRecovery
+555310,87,SavedShot,0.9230000305175782,0.600999984741211,0.04221607372164726,Maximilian Beier,h,8137,FromCorner,2023,Head,23205,Hoffenheim,Darmstadt,3,3,2023-12-19 19:30:00,Robert Skov,Cross
+557821,1,MissedShots,0.9169999694824219,0.4329999923706055,0.09692997485399246,Maximilian Beier,a,8137,OpenPlay,2023,RightFoot,23209,Bayern Munich,Hoffenheim,3,0,2024-01-12 19:30:00,Grischa Prömel,Cross
+557833,49,MissedShots,0.8769999694824219,0.534000015258789,0.02097354270517826,Maximilian Beier,a,8137,OpenPlay,2023,Head,23209,Bayern Munich,Hoffenheim,3,0,2024-01-12 19:30:00,Pavel Kaderábek,Aerial
+557843,62,SavedShot,0.9640000152587891,0.534000015258789,0.5381264686584473,Maximilian Beier,a,8137,FromCorner,2023,Head,23209,Bayern Munich,Hoffenheim,3,0,2024-01-12 19:30:00,Ozan Kabak,Aerial
+557845,64,ShotOnPost,0.9069999694824219,0.42400001525878905,0.4230501651763916,Maximilian Beier,a,8137,OpenPlay,2023,RightFoot,23209,Bayern Munich,Hoffenheim,3,0,2024-01-12 19:30:00,Andrej Kramaric,Throughball
+557849,76,SavedShot,0.7769999694824219,0.6329999923706054,0.05157723277807236,Maximilian Beier,a,8137,OpenPlay,2023,RightFoot,23209,Bayern Munich,Hoffenheim,3,0,2024-01-12 19:30:00,Wout Weghorst,Pass
+558908,76,Goal,0.8540000152587891,0.5,0.30862998962402344,Maximilian Beier,a,8137,OpenPlay,2023,RightFoot,23220,Freiburg,Hoffenheim,3,2,2024-01-20 14:30:00,Florian Grillitsch,TakeOn
+558917,88,BlockedShot,0.8909999847412109,0.504000015258789,0.10174904018640518,Maximilian Beier,a,8137,OpenPlay,2023,RightFoot,23220,Freiburg,Hoffenheim,3,2,2024-01-20 14:30:00,,Rebound
+559797,2,MissedShots,0.8119999694824219,0.48,0.062118686735630035,Maximilian Beier,h,8137,OpenPlay,2023,RightFoot,23232,Hoffenheim,FC Heidenheim,1,1,2024-01-27 14:30:00,Anton Stach,Pass
+559799,9,BlockedShot,0.8,0.5209999847412109,0.09519039839506149,Maximilian Beier,h,8137,OpenPlay,2023,RightFoot,23232,Hoffenheim,FC Heidenheim,1,1,2024-01-27 14:30:00,,Dispossessed
+559813,46,MissedShots,0.9569999694824218,0.65,0.01236194558441639,Maximilian Beier,h,8137,FromCorner,2023,Head,23232,Hoffenheim,FC Heidenheim,1,1,2024-01-27 14:30:00,Andrej Kramaric,Aerial
+559815,48,BlockedShot,0.87,0.5640000152587891,0.07037866115570068,Maximilian Beier,h,8137,OpenPlay,2023,RightFoot,23232,Hoffenheim,FC Heidenheim,1,1,2024-01-27 14:30:00,Wout Weghorst,HeadPass
+559819,49,SavedShot,0.9119999694824219,0.4590000152587891,0.3852141499519348,Maximilian Beier,h,8137,FromCorner,2023,LeftFoot,23232,Hoffenheim,FC Heidenheim,1,1,2024-01-27 14:30:00,Pavel Kaderábek,HeadPass
+561737,5,Goal,0.9459999847412109,0.6580000305175782,0.3076270818710327,Maximilian Beier,a,8137,OpenPlay,2023,LeftFoot,23239,Wolfsburg,Hoffenheim,2,2,2024-02-04 14:30:00,Umut Tohumcu,TakeOn
+561749,36,MissedShots,0.8490000152587891,0.620999984741211,0.0762873962521553,Maximilian Beier,a,8137,OpenPlay,2023,RightFoot,23239,Wolfsburg,Hoffenheim,2,2,2024-02-04 14:30:00,Andrej Kramaric,Pass
+561759,72,SavedShot,0.8640000152587891,0.7480000305175781,0.2732907235622406,Maximilian Beier,a,8137,OpenPlay,2023,RightFoot,23239,Wolfsburg,Hoffenheim,2,2,2024-02-04 14:30:00,,BallRecovery
+563184,63,BlockedShot,0.86,0.5990000152587891,0.06449826061725616,Maximilian Beier,h,8137,OpenPlay,2023,RightFoot,23247,Hoffenheim,FC Cologne,1,1,2024-02-11 16:30:00,,Rebound
+563779,49,MissedShots,0.8619999694824219,0.5529999923706055,0.027036674320697784,Maximilian Beier,h,8137,OpenPlay,2023,Head,23259,Hoffenheim,Union Berlin,0,1,2024-02-17 14:30:00,Pavel Kaderábek,Cross
+563786,67,MissedShots,0.8119999694824219,0.5259999847412109,0.037180107086896896,Maximilian Beier,h,8137,FromCorner,2023,LeftFoot,23259,Hoffenheim,Union Berlin,0,1,2024-02-17 14:30:00,Andrej Kramaric,Pass
+563789,72,MissedShots,0.865999984741211,0.6029999923706054,0.11919430643320084,Maximilian Beier,h,8137,OpenPlay,2023,LeftFoot,23259,Hoffenheim,Union Berlin,0,1,2024-02-17 14:30:00,Wout Weghorst,TakeOn
+563790,76,SavedShot,0.785,0.5890000152587891,0.031963855028152466,Maximilian Beier,h,8137,OpenPlay,2023,RightFoot,23259,Hoffenheim,Union Berlin,0,1,2024-02-17 14:30:00,Andrej Kramaric,Pass
+565809,56,MissedShots,0.794000015258789,0.6780000305175782,0.022185219451785088,Maximilian Beier,a,8137,OpenPlay,2023,RightFoot,23270,Borussia Dortmund,Hoffenheim,2,3,2024-02-25 16:30:00,,BallRecovery
+565810,60,Goal,0.764000015258789,0.585,0.03978151082992554,Maximilian Beier,a,8137,OpenPlay,2023,RightFoot,23270,Borussia Dortmund,Hoffenheim,2,3,2024-02-25 16:30:00,Florian Grillitsch,Pass
+565812,63,Goal,0.9109999847412109,0.4759999847412109,0.6121630668640137,Maximilian Beier,a,8137,OpenPlay,2023,RightFoot,23270,Borussia Dortmund,Hoffenheim,2,3,2024-02-25 16:30:00,Anton Stach,Pass
+567347,5,MissedShots,0.845999984741211,0.635,0.3195604979991913,Maximilian Beier,h,8137,OpenPlay,2023,LeftFoot,23277,Hoffenheim,Werder Bremen,2,1,2024-03-03 16:30:00,Umut Tohumcu,Throughball
+567349,7,Goal,0.8930000305175781,0.5529999923706055,0.055978819727897644,Maximilian Beier,h,8137,FromCorner,2023,RightFoot,23277,Hoffenheim,Werder Bremen,2,1,2024-03-03 16:30:00,Anton Stach,Cross
+567352,18,SavedShot,0.8719999694824219,0.6090000152587891,0.06805312633514404,Maximilian Beier,h,8137,OpenPlay,2023,LeftFoot,23277,Hoffenheim,Werder Bremen,2,1,2024-03-03 16:30:00,Oliver Baumann,Pass
+567360,43,Goal,0.9230000305175782,0.5729999923706055,0.46037447452545166,Maximilian Beier,h,8137,OpenPlay,2023,LeftFoot,23277,Hoffenheim,Werder Bremen,2,1,2024-03-03 16:30:00,Ihlas Bebou,Pass
+567364,57,SavedShot,0.904000015258789,0.46299999237060546,0.5012797117233276,Maximilian Beier,h,8137,OpenPlay,2023,LeftFoot,23277,Hoffenheim,Werder Bremen,2,1,2024-03-03 16:30:00,Ihlas Bebou,Pass
+568795,73,MissedShots,0.909000015258789,0.6869999694824219,0.03986818343400955,Maximilian Beier,a,8137,OpenPlay,2023,LeftFoot,23284,Eintracht Frankfurt,Hoffenheim,3,1,2024-03-10 16:30:00,Florian Grillitsch,Chipped
+568797,77,BlockedShot,0.899000015258789,0.659000015258789,0.043461598455905914,Maximilian Beier,a,8137,OpenPlay,2023,RightFoot,23284,Eintracht Frankfurt,Hoffenheim,3,1,2024-03-10 16:30:00,Florian Grillitsch,Chipped
+569610,52,MissedShots,0.915,0.5929999923706055,0.0636664479970932,Maximilian Beier,h,8137,OpenPlay,2023,RightFoot,23296,Hoffenheim,VfB Stuttgart,0,3,2024-03-16 17:30:00,David Jurásek,Cross
+570616,32,Goal,0.9209999847412109,0.6419999694824219,0.31041961908340454,Maximilian Beier,a,8137,OpenPlay,2023,RightFoot,23301,Bayer Leverkusen,Hoffenheim,2,1,2024-03-30 14:30:00,Wout Weghorst,Pass
+570625,47,BlockedShot,0.74,0.6730000305175782,0.03753546252846718,Maximilian Beier,a,8137,OpenPlay,2023,RightFoot,23301,Bayer Leverkusen,Hoffenheim,2,1,2024-03-30 14:30:00,David Jurásek,Pass
+572952,22,MissedShots,0.9419999694824219,0.5779999923706055,0.2957710325717926,Maximilian Beier,h,8137,OpenPlay,2023,Head,23314,Hoffenheim,Augsburg,3,1,2024-04-07 13:30:00,Pavel Kaderábek,Cross
+572960,51,BlockedShot,0.875,0.34200000762939453,0.10888118296861649,Maximilian Beier,h,8137,OpenPlay,2023,RightFoot,23314,Hoffenheim,Augsburg,3,1,2024-04-07 13:30:00,David Jurásek,Pass
+572962,57,SavedShot,0.8630000305175781,0.509000015258789,0.10988228768110275,Maximilian Beier,h,8137,OpenPlay,2023,RightFoot,23314,Hoffenheim,Augsburg,3,1,2024-04-07 13:30:00,Pavel Kaderábek,Cross
+572976,83,SavedShot,0.79,0.5970000076293945,0.024035632610321045,Maximilian Beier,h,8137,FromCorner,2023,RightFoot,23314,Hoffenheim,Augsburg,3,1,2024-04-07 13:30:00,,None
+573594,2,MissedShots,0.8619999694824219,0.634000015258789,0.05266997590661049,Maximilian Beier,a,8137,SetPiece,2023,RightFoot,23320,Mainz 05,Hoffenheim,4,1,2024-04-13 13:30:00,,None
+573605,35,BlockedShot,0.855,0.7180000305175781,0.06163608655333519,Maximilian Beier,a,8137,OpenPlay,2023,RightFoot,23320,Mainz 05,Hoffenheim,4,1,2024-04-13 13:30:00,Wout Weghorst,Pass
+574898,31,ShotOnPost,0.9330000305175781,0.5770000076293945,0.24838335812091827,Maximilian Beier,h,8137,OpenPlay,2023,Head,23332,Hoffenheim,Borussia M.Gladbach,4,3,2024-04-20 13:30:00,Grischa Prömel,Cross
+574913,52,SavedShot,0.7709999847412109,0.7130000305175781,0.019728928804397583,Maximilian Beier,h,8137,OpenPlay,2023,RightFoot,23332,Hoffenheim,Borussia M.Gladbach,4,3,2024-04-20 13:30:00,Robert Skov,TakeOn
+574923,68,BlockedShot,0.914000015258789,0.3110000038146973,0.11159126460552216,Maximilian Beier,h,8137,OpenPlay,2023,RightFoot,23332,Hoffenheim,Borussia M.Gladbach,4,3,2024-04-20 13:30:00,Wout Weghorst,Pass
+576453,22,BlockedShot,0.8619999694824219,0.6480000305175782,0.05545002967119217,Maximilian Beier,a,8137,OpenPlay,2023,RightFoot,23341,Bochum,Hoffenheim,3,2,2024-04-26 18:30:00,Grischa Prömel,Chipped
+578042,63,SavedShot,0.8859999847412109,0.519000015258789,0.20946966111660004,Maximilian Beier,h,8137,OpenPlay,2023,Head,23349,Hoffenheim,RasenBallsport Leipzig,1,1,2024-05-03 18:30:00,Andrej Kramaric,Cross
+580379,5,Goal,0.89,0.32599998474121095,0.32264673709869385,Maximilian Beier,a,8137,OpenPlay,2023,RightFoot,23361,Darmstadt,Hoffenheim,0,6,2024-05-12 13:30:00,Pavel Kaderábek,Throughball
+580387,43,Goal,0.8569999694824219,0.5320000076293945,0.4597993791103363,Maximilian Beier,a,8137,OpenPlay,2023,RightFoot,23361,Darmstadt,Hoffenheim,0,6,2024-05-12 13:30:00,Ihlas Bebou,Throughball
+581729,7,Goal,0.88,0.48200000762939454,0.3403896689414978,Maximilian Beier,h,8137,OpenPlay,2023,RightFoot,23367,Hoffenheim,Bayern Munich,4,2,2024-05-18 13:30:00,Andrej Kramaric,Pass
+581735,29,SavedShot,0.8469999694824218,0.4209999847412109,0.05615008622407913,Maximilian Beier,h,8137,OpenPlay,2023,RightFoot,23367,Hoffenheim,Bayern Munich,4,2,2024-05-18 13:30:00,,None
+581739,47,MissedShots,0.8680000305175781,0.31,0.040840473026037216,Maximilian Beier,h,8137,OpenPlay,2023,RightFoot,23367,Hoffenheim,Bayern Munich,4,2,2024-05-18 13:30:00,Andrej Kramaric,Pass
+581745,66,MissedShots,0.8680000305175781,0.5479999923706055,0.09197238832712173,Maximilian Beier,h,8137,OpenPlay,2023,RightFoot,23367,Hoffenheim,Bayern Munich,4,2,2024-05-18 13:30:00,David Jurásek,Pass
+590369,89,BlockedShot,0.8440000152587891,0.5479999923706055,0.08599820733070374,Maximilian Beier,h,8137,OpenPlay,2024,LeftFoot,27760,Borussia Dortmund,FC Heidenheim,4,2,2024-09-13 18:30:00,,None
+595396,54,SavedShot,0.8780000305175781,0.40599998474121096,0.3752153813838959,Maximilian Beier,a,8137,OpenPlay,2024,RightFoot,27791,Union Berlin,Borussia Dortmund,2,1,2024-10-05 13:30:00,Julian Brandt,Pass
+595397,57,MissedShots,0.855,0.30100000381469727,0.07310599088668823,Maximilian Beier,a,8137,OpenPlay,2024,RightFoot,27791,Union Berlin,Borussia Dortmund,2,1,2024-10-05 13:30:00,Julian Brandt,Pass
+600271,9,MissedShots,0.9180000305175782,0.4470000076293945,0.3205581307411194,Maximilian Beier,h,8137,OpenPlay,2024,Head,27816,Borussia Dortmund,RasenBallsport Leipzig,2,1,2024-11-02 17:30:00,Jamie Bynoe-Gittens,Cross
+600278,29,Goal,0.960999984741211,0.5179999923706055,0.6632047891616821,Maximilian Beier,h,8137,FromCorner,2024,RightFoot,27816,Borussia Dortmund,RasenBallsport Leipzig,2,1,2024-11-02 17:30:00,Felix Nmecha,Rebound
+600294,73,MissedShots,0.885,0.3629999923706055,0.11254717409610748,Maximilian Beier,h,8137,OpenPlay,2024,RightFoot,27816,Borussia Dortmund,RasenBallsport Leipzig,2,1,2024-11-02 17:30:00,Felix Nmecha,Pass
+602743,6,Goal,0.9119999694824219,0.415,0.4087110757827759,Maximilian Beier,h,8137,OpenPlay,2024,RightFoot,27835,Borussia Dortmund,Freiburg,4,0,2024-11-23 14:30:00,Ramy Bensebaini,Pass
+602757,49,BlockedShot,0.8540000152587891,0.3559999847412109,0.0749424397945404,Maximilian Beier,h,8137,OpenPlay,2024,RightFoot,27835,Borussia Dortmund,Freiburg,4,0,2024-11-23 14:30:00,,BallRecovery
+604376,93,BlockedShot,0.8909999847412109,0.3609999847412109,0.027438681572675705,Maximilian Beier,h,8137,SetPiece,2024,RightFoot,27842,Borussia Dortmund,Bayern Munich,1,1,2024-11-30 17:30:00,Nico Schlotterbeck,Aerial
+606036,17,MissedShots,0.89,0.37400001525878906,0.07026614993810654,Maximilian Beier,a,8137,OpenPlay,2024,LeftFoot,27854,Borussia M.Gladbach,Borussia Dortmund,1,1,2024-12-07 17:30:00,,None
+608826,1,MissedShots,0.9309999847412109,0.4420000076293945,0.3619210720062256,Maximilian Beier,a,8137,OpenPlay,2024,RightFoot,27874,Wolfsburg,Borussia Dortmund,1,3,2024-12-22 16:30:00,Donyell Malen,Cross
+608833,27,Goal,0.87,0.5429999923706055,0.3749428689479828,Maximilian Beier,a,8137,OpenPlay,2024,RightFoot,27874,Wolfsburg,Borussia Dortmund,1,3,2024-12-22 16:30:00,Julian Brandt,Throughball
+608839,51,MissedShots,0.8030000305175782,0.615999984741211,0.058780547231435776,Maximilian Beier,a,8137,OpenPlay,2024,RightFoot,27874,Wolfsburg,Borussia Dortmund,1,3,2024-12-22 16:30:00,Pascal Groß,Pass
+610452,44,MissedShots,0.9290000152587891,0.43400001525878906,0.08826673030853271,Maximilian Beier,h,8137,FromCorner,2024,Head,27878,Borussia Dortmund,Bayer Leverkusen,2,3,2025-01-10 19:30:00,Karim Adeyemi,Cross
+610456,69,MissedShots,0.8059999847412109,0.6619999694824219,0.02696329914033413,Maximilian Beier,h,8137,OpenPlay,2024,RightFoot,27878,Borussia Dortmund,Bayer Leverkusen,2,3,2025-01-10 19:30:00,Yannik Lührs,Pass
+613310,85,BlockedShot,0.950999984741211,0.4859999847412109,0.1444307416677475,Maximilian Beier,h,8137,OpenPlay,2024,Head,27905,Borussia Dortmund,Werder Bremen,2,2,2025-01-25 14:30:00,,None
+613312,89,SavedShot,0.8369999694824218,0.4329999923706055,0.051721133291721344,Maximilian Beier,h,8137,SetPiece,2024,LeftFoot,27905,Borussia Dortmund,Werder Bremen,2,2,2025-01-25 14:30:00,,Rebound
+614782,62,Goal,0.9230000305175782,0.5420000076293945,0.5399405360221863,Maximilian Beier,a,8137,OpenPlay,2024,RightFoot,27920,FC Heidenheim,Borussia Dortmund,1,2,2025-02-01 14:30:00,Ramy Bensebaini,Pass
+617083,65,MissedShots,0.8019999694824219,0.6990000152587891,0.0237872377038002,Maximilian Beier,a,8137,OpenPlay,2024,RightFoot,27938,Bochum,Borussia Dortmund,2,0,2025-02-15 14:30:00,Salih Özcan,Pass
+617090,80,BlockedShot,0.8069999694824219,0.5429999923706055,0.05196796730160713,Maximilian Beier,a,8137,OpenPlay,2024,RightFoot,27938,Bochum,Borussia Dortmund,2,0,2025-02-15 14:30:00,Serhou Guirassy,Pass
+618632,28,MissedShots,0.9069999694824219,0.5690000152587891,0.03362070396542549,Maximilian Beier,h,8137,OpenPlay,2024,Head,27942,Borussia Dortmund,Union Berlin,6,0,2025-02-22 17:30:00,,Rebound
+618634,31,MissedShots,0.8980000305175782,0.6969999694824218,0.06737864762544632,Maximilian Beier,h,8137,OpenPlay,2024,RightFoot,27942,Borussia Dortmund,Union Berlin,6,0,2025-02-22 17:30:00,Pascal Groß,Pass
+618639,41,MissedShots,0.9869999694824219,0.5820000076293945,0.15000565350055695,Maximilian Beier,h,8137,OpenPlay,2024,LeftFoot,27942,Borussia Dortmund,Union Berlin,6,0,2025-02-22 17:30:00,,Rebound
+618644,61,SavedShot,0.865999984741211,0.6730000305175782,0.07411803305149078,Maximilian Beier,h,8137,OpenPlay,2024,RightFoot,27942,Borussia Dortmund,Union Berlin,6,0,2025-02-22 17:30:00,Pascal Groß,Pass
+618646,71,MissedShots,0.925,0.575,0.4027198255062103,Maximilian Beier,h,8137,OpenPlay,2024,RightFoot,27942,Borussia Dortmund,Union Berlin,6,0,2025-02-22 17:30:00,Marcel Sabitzer,Cross
+618653,88,Goal,0.9380000305175781,0.5790000152587891,0.3238161504268646,Maximilian Beier,h,8137,OpenPlay,2024,Head,27942,Borussia Dortmund,Union Berlin,6,0,2025-02-22 17:30:00,Pascal Groß,Cross
+619921,10,MissedShots,0.9209999847412109,0.5220000076293946,0.12231913208961487,Maximilian Beier,a,8137,OpenPlay,2024,LeftFoot,27956,St. Pauli,Borussia Dortmund,0,2,2025-03-01 14:30:00,Serhou Guirassy,HeadPass
+619923,14,BlockedShot,0.8090000152587891,0.6559999847412109,0.09214995801448822,Maximilian Beier,a,8137,OpenPlay,2024,RightFoot,27956,St. Pauli,Borussia Dortmund,0,2,2025-03-01 14:30:00,Pascal Groß,Chipped
+619926,35,BlockedShot,0.8719999694824219,0.7069999694824218,0.04164901003241539,Maximilian Beier,a,8137,OpenPlay,2024,RightFoot,27956,St. Pauli,Borussia Dortmund,0,2,2025-03-01 14:30:00,Serhou Guirassy,Pass
+622862,42,BlockedShot,0.8680000305175781,0.615,0.06491696834564209,Maximilian Beier,a,8137,OpenPlay,2024,RightFoot,27968,RasenBallsport Leipzig,Borussia Dortmund,2,0,2025-03-15 17:30:00,Karim Adeyemi,Pass
+622868,49,ShotOnPost,0.92,0.5029999923706054,0.520542323589325,Maximilian Beier,a,8137,OpenPlay,2024,Head,27968,RasenBallsport Leipzig,Borussia Dortmund,2,0,2025-03-15 17:30:00,Julian Ryerson,Aerial
+622869,51,ShotOnPost,0.8590000152587891,0.544000015258789,0.3050357699394226,Maximilian Beier,a,8137,OpenPlay,2024,RightFoot,27968,RasenBallsport Leipzig,Borussia Dortmund,2,0,2025-03-15 17:30:00,Serhou Guirassy,Throughball
+622870,53,SavedShot,0.9269999694824219,0.46799999237060547,0.3996378183364868,Maximilian Beier,a,8137,OpenPlay,2024,Head,27968,RasenBallsport Leipzig,Borussia Dortmund,2,0,2025-03-15 17:30:00,Serhou Guirassy,HeadPass
+622888,93,SavedShot,0.9259999847412109,0.43599998474121093,0.3436298370361328,Maximilian Beier,a,8137,OpenPlay,2024,RightFoot,27968,RasenBallsport Leipzig,Borussia Dortmund,2,0,2025-03-15 17:30:00,,None
+624762,8,MissedShots,0.9069999694824219,0.49400001525878906,0.35485100746154785,Maximilian Beier,h,8137,OpenPlay,2024,RightFoot,27979,Borussia Dortmund,Mainz 05,3,1,2025-03-30 16:30:00,Waldemar Anton,Chipped
+624768,38,Goal,0.9790000152587891,0.47900001525878905,0.9627671837806702,Maximilian Beier,h,8137,OpenPlay,2024,RightFoot,27979,Borussia Dortmund,Mainz 05,3,1,2025-03-30 16:30:00,Karim Adeyemi,Pass
+624778,58,MissedShots,0.8809999847412109,0.40099998474121096,0.09493115544319153,Maximilian Beier,h,8137,OpenPlay,2024,RightFoot,27979,Borussia Dortmund,Mainz 05,3,1,2025-03-30 16:30:00,Yan Couto,Cross
+624780,71,Goal,0.9490000152587891,0.4909999847412109,0.3339339792728424,Maximilian Beier,h,8137,FromCorner,2024,Head,27979,Borussia Dortmund,Mainz 05,3,1,2025-03-30 16:30:00,Nico Schlotterbeck,Aerial
+625602,2,BlockedShot,0.8859999847412109,0.620999984741211,0.18351732194423676,Maximilian Beier,a,8137,OpenPlay,2024,RightFoot,27988,Freiburg,Borussia Dortmund,1,4,2025-04-05 13:30:00,Karim Adeyemi,TakeOn
+625606,21,BlockedShot,0.89,0.49,0.11936680227518082,Maximilian Beier,a,8137,OpenPlay,2024,RightFoot,27988,Freiburg,Borussia Dortmund,1,4,2025-04-05 13:30:00,Carney Chukwuemeka,Pass
+627344,47,Goal,0.9830000305175781,0.5670000076293945,0.47312310338020325,Maximilian Beier,a,8137,OpenPlay,2024,Head,27996,Bayern Munich,Borussia Dortmund,2,2,2025-04-12 16:30:00,Julian Ryerson,Cross
+627345,57,BlockedShot,0.8630000305175781,0.40299999237060546,0.08958805352449417,Maximilian Beier,a,8137,OpenPlay,2024,RightFoot,27996,Bayern Munich,Borussia Dortmund,2,2,2025-04-12 16:30:00,Julian Brandt,Pass
+641527,50,Goal,0.9159999847412109,0.5159999847412109,0.5338009595870972,Maximilian Beier,a,8137,OpenPlay,2025,RightFoot,30244,FC Heidenheim,Borussia Dortmund,0,2,2025-09-13 13:30:00,Karim Adeyemi,Pass
+641531,55,MissedShots,0.88,0.7240000152587891,0.05020385608077049,Maximilian Beier,a,8137,OpenPlay,2025,RightFoot,30244,FC Heidenheim,Borussia Dortmund,0,2,2025-09-13 13:30:00,Daniel Svensson,Pass
+643958,33,MissedShots,0.9330000305175781,0.4829999923706055,0.47105878591537476,Maximilian Beier,h,8137,OpenPlay,2025,Head,30259,Borussia Dortmund,Wolfsburg,1,0,2025-09-21 17:30:00,Julian Ryerson,Cross
+643959,43,SavedShot,0.88,0.62,0.12484392523765564,Maximilian Beier,h,8137,OpenPlay,2025,RightFoot,30259,Borussia Dortmund,Wolfsburg,1,0,2025-09-21 17:30:00,,None
+643961,46,SavedShot,0.899000015258789,0.47900001525878905,0.06550386548042297,Maximilian Beier,h,8137,FromCorner,2025,Head,30259,Borussia Dortmund,Wolfsburg,1,0,2025-09-21 17:30:00,Julian Ryerson,Cross
+649133,76,BlockedShot,0.924000015258789,0.519000015258789,0.056283582001924515,Maximilian Beier,h,8137,FromCorner,2025,Head,30290,Borussia Dortmund,FC Cologne,1,0,2025-10-25 16:30:00,Daniel Svensson,Aerial
+649140,92,SavedShot,0.7769999694824219,0.47900001525878905,0.05328046530485153,Maximilian Beier,h,8137,OpenPlay,2025,RightFoot,30290,Borussia Dortmund,FC Cologne,1,0,2025-10-25 16:30:00,Julian Brandt,LayOff
+649144,95,Goal,0.8969999694824219,0.6559999847412109,0.044452354311943054,Maximilian Beier,h,8137,FromCorner,2025,RightFoot,30290,Borussia Dortmund,FC Cologne,1,0,2025-10-25 16:30:00,Fabio Silva,BallTouch
+650565,34,MissedShots,0.92,0.6170000076293946,0.036898788064718246,Maximilian Beier,a,8137,OpenPlay,2025,Head,30296,Augsburg,Borussia Dortmund,0,1,2025-10-31 19:30:00,Pascal Groß,Chipped
+652213,24,BlockedShot,0.7709999847412109,0.5579999923706055,0.029981005936861038,Maximilian Beier,a,8137,OpenPlay,2025,RightFoot,30309,Hamburger SV,Borussia Dortmund,1,1,2025-11-08 14:30:00,Carney Chukwuemeka,Pass
+653512,14,BlockedShot,0.8059999847412109,0.7369999694824219,0.02230299450457096,Maximilian Beier,h,8137,OpenPlay,2025,RightFoot,30316,Borussia Dortmund,VfB Stuttgart,3,3,2025-11-22 14:30:00,Jobe Bellingham,Pass
+653522,40,SavedShot,0.9569999694824218,0.5229999923706055,0.6623547673225403,Maximilian Beier,h,8137,OpenPlay,2025,RightFoot,30316,Borussia Dortmund,VfB Stuttgart,3,3,2025-11-22 14:30:00,,Rebound
+653523,40,Goal,0.97,0.48200000762939454,0.7795189619064331,Maximilian Beier,h,8137,OpenPlay,2025,RightFoot,30316,Borussia Dortmund,VfB Stuttgart,3,3,2025-11-22 14:30:00,,Rebound
+659095,60,BlockedShot,0.855,0.295,0.045757684856653214,Maximilian Beier,h,8137,OpenPlay,2025,RightFoot,30351,Borussia Dortmund,Borussia M.Gladbach,2,0,2025-12-19 19:30:00,Felix Nmecha,Pass
+659098,83,MissedShots,0.9109999847412109,0.4109999847412109,0.04243631660938263,Maximilian Beier,h,8137,OpenPlay,2025,Head,30351,Borussia Dortmund,Borussia M.Gladbach,2,0,2025-12-19 19:30:00,,Aerial
+659099,88,SavedShot,0.855,0.5379999923706055,0.46007680892944336,Maximilian Beier,h,8137,OpenPlay,2025,RightFoot,30351,Borussia Dortmund,Borussia M.Gladbach,2,0,2025-12-19 19:30:00,Marcel Sabitzer,BallRecovery
+659101,96,Goal,0.8569999694824219,0.5320000076293945,0.11171385645866394,Maximilian Beier,h,8137,OpenPlay,2025,LeftFoot,30351,Borussia Dortmund,Borussia M.Gladbach,2,0,2025-12-19 19:30:00,Fabio Silva,Pass
+662283,9,Goal,0.9069999694824219,0.4329999923706055,0.31736722588539124,Maximilian Beier,a,8137,OpenPlay,2025,LeftFoot,30362,Eintracht Frankfurt,Borussia Dortmund,3,3,2026-01-09 19:30:00,Julian Ryerson,Cross
+662289,27,BlockedShot,0.7680000305175781,0.47,0.02736043557524681,Maximilian Beier,a,8137,OpenPlay,2025,RightFoot,30362,Eintracht Frankfurt,Borussia Dortmund,3,3,2026-01-09 19:30:00,,None
+662976,0,MissedShots,0.7519999694824219,0.515,0.02036108262836933,Maximilian Beier,h,8137,OpenPlay,2025,RightFoot,30369,Borussia Dortmund,Werder Bremen,3,0,2026-01-13 19:30:00,Fabio Silva,HeadPass
+662987,54,SavedShot,0.870999984741211,0.35400001525878905,0.10183302313089371,Maximilian Beier,h,8137,OpenPlay,2025,RightFoot,30369,Borussia Dortmund,Werder Bremen,3,0,2026-01-13 19:30:00,Fabio Silva,Pass
+662988,54,BlockedShot,0.945,0.3509999847412109,0.38936522603034973,Maximilian Beier,h,8137,OpenPlay,2025,RightFoot,30369,Borussia Dortmund,Werder Bremen,3,0,2026-01-13 19:30:00,,Rebound
+664984,48,MissedShots,0.7809999847412109,0.4829999923706055,0.05123404040932655,Maximilian Beier,a,8137,OpenPlay,2025,LeftFoot,30394,Union Berlin,Borussia Dortmund,0,3,2026-01-24 17:30:00,,BallRecovery
+664993,83,Goal,0.9259999847412109,0.3139999961853027,0.22650255262851715,Maximilian Beier,a,8137,OpenPlay,2025,RightFoot,30394,Union Berlin,Borussia Dortmund,0,3,2026-01-24 17:30:00,Jobe Bellingham,Pass
+667093,22,BlockedShot,0.86,0.5470000076293945,0.09434287250041962,Maximilian Beier,a,8137,OpenPlay,2025,RightFoot,30412,Wolfsburg,Borussia Dortmund,1,2,2026-02-07 14:30:00,Felix Nmecha,Pass
+667099,31,BlockedShot,0.8640000152587891,0.5159999847412109,0.10659235715866089,Maximilian Beier,a,8137,OpenPlay,2025,RightFoot,30412,Wolfsburg,Borussia Dortmund,1,2,2026-02-07 14:30:00,Julian Ryerson,Pass
+667113,59,BlockedShot,0.8730000305175781,0.3840000152587891,0.06715356558561325,Maximilian Beier,a,8137,FromCorner,2025,RightFoot,30412,Wolfsburg,Borussia Dortmund,1,2,2026-02-07 14:30:00,Nico Schlotterbeck,Rebound
+668473,14,Goal,0.9819999694824219,0.5920000076293945,0.20505237579345703,Maximilian Beier,h,8137,OpenPlay,2025,Head,30415,Borussia Dortmund,Mainz 05,4,0,2026-02-13 19:30:00,Julian Ryerson,Cross
+668482,54,SavedShot,0.7730000305175782,0.5209999847412109,0.03915812075138092,Maximilian Beier,h,8137,OpenPlay,2025,RightFoot,30415,Borussia Dortmund,Mainz 05,4,0,2026-02-13 19:30:00,Felix Nmecha,BallRecovery
+669939,7,SavedShot,0.88,0.34799999237060547,0.2836764454841614,Maximilian Beier,a,8137,OpenPlay,2025,RightFoot,30427,RasenBallsport Leipzig,Borussia Dortmund,2,2,2026-02-21 17:30:00,Julian Ryerson,TakeOn
+671276,33,BlockedShot,0.905,0.43200000762939456,0.13578850030899048,Maximilian Beier,h,8137,OpenPlay,2025,LeftFoot,30434,Borussia Dortmund,Bayern Munich,2,3,2026-02-28 17:30:00,Fabio Silva,Pass
+671281,54,MissedShots,0.815,0.4929999923706055,0.05345088243484497,Maximilian Beier,h,8137,OpenPlay,2025,RightFoot,30434,Borussia Dortmund,Bayern Munich,2,3,2026-02-28 17:30:00,Felix Nmecha,Pass
+671282,55,BlockedShot,0.95,0.42400001525878905,0.10442575812339783,Maximilian Beier,h,8137,OpenPlay,2025,RightFoot,30434,Borussia Dortmund,Bayern Munich,2,3,2026-02-28 17:30:00,Fabio Silva,Cross
+672823,14,BlockedShot,0.885,0.7,0.07352330535650253,Maximilian Beier,a,8137,OpenPlay,2025,RightFoot,30441,FC Cologne,Borussia Dortmund,1,2,2026-03-07 17:30:00,Serhou Guirassy,Pass
+672826,32,BlockedShot,0.86,0.6430000305175781,0.07437443733215332,Maximilian Beier,a,8137,OpenPlay,2025,RightFoot,30441,FC Cologne,Borussia Dortmund,1,2,2026-03-07 17:30:00,Serhou Guirassy,Pass
+672837,59,Goal,0.92,0.5829999923706055,0.44218891859054565,Maximilian Beier,a,8137,OpenPlay,2025,RightFoot,30441,FC Cologne,Borussia Dortmund,1,2,2026-03-07 17:30:00,Julian Brandt,Throughball
+673772,28,ShotOnPost,0.845999984741211,0.4620000076293945,0.10266965627670288,Maximilian Beier,h,8137,OpenPlay,2025,RightFoot,30451,Borussia Dortmund,Augsburg,2,0,2026-03-14 14:30:00,Julian Ryerson,Pass
+673780,43,MissedShots,0.9019999694824219,0.54,0.29616156220436096,Maximilian Beier,h,8137,OpenPlay,2025,Head,30451,Borussia Dortmund,Augsburg,2,0,2026-03-14 14:30:00,Julian Ryerson,Chipped
+673785,83,MissedShots,0.8580000305175781,0.675,0.032506313174963,Maximilian Beier,h,8137,FromCorner,2025,RightFoot,30451,Borussia Dortmund,Augsburg,2,0,2026-03-14 14:30:00,Nico Schlotterbeck,BallTouch
+675519,6,SavedShot,0.8869999694824219,0.5579999923706055,0.39792051911354065,Maximilian Beier,h,8137,OpenPlay,2025,LeftFoot,30460,Borussia Dortmund,Hamburger SV,3,2,2026-03-21 17:30:00,,BallRecovery
+675524,31,MissedShots,0.8430000305175781,0.425,0.040971823036670685,Maximilian Beier,h,8137,OpenPlay,2025,RightFoot,30460,Borussia Dortmund,Hamburger SV,3,2,2026-03-21 17:30:00,Marcel Sabitzer,HeadPass
+675525,32,MissedShots,0.915,0.44400001525878907,0.03862438350915909,Maximilian Beier,h,8137,OpenPlay,2025,Head,30460,Borussia Dortmund,Hamburger SV,3,2,2026-03-21 17:30:00,,Aerial
+675527,35,MissedShots,0.9740000152587891,0.5790000152587891,0.2969192564487457,Maximilian Beier,h,8137,FromCorner,2025,Head,30460,Borussia Dortmund,Hamburger SV,3,2,2026-03-21 17:30:00,,Aerial
+675536,60,MissedShots,0.7709999847412109,0.6669999694824219,0.019883424043655396,Maximilian Beier,h,8137,OpenPlay,2025,RightFoot,30460,Borussia Dortmund,Hamburger SV,3,2,2026-03-21 17:30:00,Felix Nmecha,Pass
+679157,64,MissedShots,0.919000015258789,0.5020000076293946,0.04717577248811722,Maximilian Beier,a,8137,OpenPlay,2025,Head,30490,Hoffenheim,Borussia Dortmund,2,1,2026-04-18 13:30:00,Julian Ryerson,Aerial
+679160,90,SavedShot,0.8630000305175781,0.6120000076293945,0.04656984657049179,Maximilian Beier,a,8137,OpenPlay,2025,RightFoot,30490,Hoffenheim,Borussia Dortmund,2,1,2026-04-18 13:30:00,Samuele Inácio,Cross
+681567,7,Goal,0.9440000152587891,0.69,0.27912384271621704,Maximilian Beier,h,8137,OpenPlay,2025,RightFoot,30495,Borussia Dortmund,Freiburg,4,0,2026-04-26 15:30:00,Ramy Bensebaini,Chipped
+681581,46,BlockedShot,0.7659999847412109,0.655,0.0626535415649414,Maximilian Beier,h,8137,DirectFreekick,2025,RightFoot,30495,Borussia Dortmund,Freiburg,4,0,2026-04-26 15:30:00,,Standard
+683367,26,MissedShots,0.909000015258789,0.3240000152587891,0.0525212436914444,Maximilian Beier,h,8137,SetPiece,2025,RightFoot,30513,Borussia Dortmund,Eintracht Frankfurt,3,2,2026-05-08 18:30:00,,None

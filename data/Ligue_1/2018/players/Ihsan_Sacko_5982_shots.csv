@@ -1,0 +1,19 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+161819,84,MissedShots,0.7240000152587891,0.305,0.01136729959398508,Ihsan Sacko,a,5982,OpenPlay,2017,RightFoot,8567,Lyon,Strasbourg,4,0,2017-08-05 19:00:00,Joia Nuno Da Costa,Pass
+161820,86,BlockedShot,0.845999984741211,0.4759999847412109,0.06607639789581299,Ihsan Sacko,a,5982,OpenPlay,2017,RightFoot,8567,Lyon,Strasbourg,4,0,2017-08-05 19:00:00,Stéphane Bahoken,BallTouch
+162239,70,MissedShots,0.749000015258789,0.53,0.018785500898957253,Ihsan Sacko,h,5982,OpenPlay,2017,LeftFoot,8582,Strasbourg,Lille,3,0,2017-08-13 14:00:00,,None
+162241,71,BlockedShot,0.835,0.5709999847412109,0.05192539840936661,Ihsan Sacko,h,5982,OpenPlay,2017,RightFoot,8582,Strasbourg,Lille,3,0,2017-08-13 14:00:00,,Rebound
+162383,3,MissedShots,0.895,0.6680000305175782,0.07289130240678787,Ihsan Sacko,a,5982,OpenPlay,2017,LeftFoot,8589,Montpellier,Strasbourg,1,1,2017-08-19 19:00:00,Idriss Saadi,Pass
+162664,55,ShotOnPost,0.6519999694824219,0.515,0.011002199724316597,Ihsan Sacko,a,5982,FromCorner,2017,RightFoot,8600,Guingamp,Strasbourg,2,0,2017-08-27 14:00:00,,None
+162669,78,MissedShots,0.9159999847412109,0.43599998474121093,0.08711429685354233,Ihsan Sacko,a,5982,OpenPlay,2017,RightFoot,8600,Guingamp,Strasbourg,2,0,2017-08-27 14:00:00,Jonas Martin,Cross
+162922,11,SavedShot,0.9,0.5720000076293945,0.06412369757890701,Ihsan Sacko,h,5982,OpenPlay,2017,Head,8611,Strasbourg,Amiens,0,1,2017-09-09 19:00:00,Idriss Saadi,Cross
+163094,64,MissedShots,0.7140000152587891,0.5590000152587891,0.010046999901533127,Ihsan Sacko,a,5982,SetPiece,2017,LeftFoot,8622,Monaco,Strasbourg,3,0,2017-09-16 16:00:00,Jonas Martin,None
+163960,76,MissedShots,0.875999984741211,0.3160000038146973,0.04682350158691406,Ihsan Sacko,a,5982,OpenPlay,2017,RightFoot,8637,Dijon,Strasbourg,1,1,2017-09-30 19:00:00,Benjamin Corgnet,Pass
+187158,31,MissedShots,0.8830000305175781,0.5970000076293945,0.06845320016145706,Ihsan Sacko,h,5982,FromCorner,2017,LeftFoot,8763,Strasbourg,Guingamp,0,2,2018-01-12 19:45:00,,None
+188183,67,MissedShots,0.7119999694824218,0.28600000381469726,0.008629299700260162,Ihsan Sacko,a,5982,OpenPlay,2017,LeftFoot,8770,Marseille,Strasbourg,2,0,2018-01-16 18:00:00,Anthony Goncalves,LayOff
+262693,55,MissedShots,0.9269999694824219,0.605999984741211,0.39394599199295044,Ihsan Sacko,a,5982,SetPiece,2018,LeftFoot,10832,Strasbourg,Nice,2,0,2018-12-22 19:00:00,,Rebound
+282158,36,MissedShots,0.9080000305175782,0.57,0.13540899753570557,Ihsan Sacko,h,5982,OpenPlay,2018,RightFoot,10836,Nice,Bordeaux,1,0,2019-01-12 19:00:00,Allan Saint-Maximin,Pass
+282166,68,MissedShots,0.845,0.46799999237060547,0.129721000790596,Ihsan Sacko,h,5982,OpenPlay,2018,RightFoot,10836,Nice,Bordeaux,1,0,2019-01-12 19:00:00,Allan Saint-Maximin,Pass
+288033,43,BlockedShot,0.88,0.68,0.051785100251436234,Ihsan Sacko,a,5982,OpenPlay,2018,LeftFoot,10934,Dijon,Nice,0,1,2019-03-31 13:00:00,,None
+288041,58,SavedShot,0.8669999694824219,0.3240000152587891,0.3051539957523346,Ihsan Sacko,a,5982,OpenPlay,2018,RightFoot,10934,Dijon,Nice,0,1,2019-03-31 13:00:00,Wylan Cyprien,Throughball
+298041,74,BlockedShot,0.8769999694824219,0.5159999847412109,0.13569000363349915,Ihsan Sacko,h,5982,OpenPlay,2018,RightFoot,10976,Nice,Guingamp,3,0,2019-04-28 14:00:00,Allan Saint-Maximin,Pass

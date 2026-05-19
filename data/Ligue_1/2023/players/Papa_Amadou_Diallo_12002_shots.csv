@@ -1,0 +1,14 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+551902,79,SavedShot,0.649000015258789,0.5829999923706055,0.007422121707350016,Papa Amadou Diallo,a,12002,OpenPlay,2023,RightFoot,23491,Lille,Metz,2,0,2023-12-03 16:05:00,,BallRecovery
+570889,56,BlockedShot,0.909000015258789,0.29399999618530276,0.04693058505654335,Papa Amadou Diallo,h,12002,OpenPlay,2023,RightFoot,23613,Metz,Monaco,2,5,2024-03-30 16:00:00,Arthur Atta,Pass
+570899,77,Goal,0.9490000152587891,0.49,0.6027228832244873,Papa Amadou Diallo,h,12002,OpenPlay,2023,LeftFoot,23613,Metz,Monaco,2,5,2024-03-30 16:00:00,Koffi Kouao,Rebound
+572754,72,SavedShot,0.9069999694824219,0.46799999237060547,0.10741126537322998,Papa Amadou Diallo,a,12002,OpenPlay,2023,RightFoot,23622,Brest,Metz,4,3,2024-04-07 11:00:00,Kévin Van Den Kerkhof,Cross
+573372,61,MissedShots,0.9059999847412109,0.445,0.09104760736227036,Papa Amadou Diallo,h,12002,OpenPlay,2023,Head,23631,Metz,Lens,2,1,2024-04-12 19:00:00,Arthur Atta,Cross
+573374,64,BlockedShot,0.8019999694824219,0.625999984741211,0.06697344034910202,Papa Amadou Diallo,h,12002,OpenPlay,2023,RightFoot,23631,Metz,Lens,2,1,2024-04-12 19:00:00,Georges Mikautadze,Pass
+575418,42,MissedShots,0.8769999694824219,0.34700000762939454,0.32404863834381104,Papa Amadou Diallo,a,12002,OpenPlay,2023,RightFoot,23639,Le Havre,Metz,0,1,2024-04-21 13:00:00,Georges Mikautadze,Throughball
+578685,44,Goal,0.9209999847412109,0.4570000076293945,0.3742850720882416,Papa Amadou Diallo,h,12002,OpenPlay,2023,RightFoot,23657,Metz,Rennes,2,3,2024-05-04 17:00:00,Georges Mikautadze,Cross
+578692,68,BlockedShot,0.8919999694824219,0.65,0.3407873213291168,Papa Amadou Diallo,h,12002,OpenPlay,2023,RightFoot,23657,Metz,Rennes,2,3,2024-05-04 17:00:00,Georges Mikautadze,Pass
+580691,67,MissedShots,0.935,0.4909999847412109,0.13650141656398773,Papa Amadou Diallo,a,12002,SetPiece,2023,Head,23660,Strasbourg,Metz,2,1,2024-05-12 19:00:00,Kévin Van Den Kerkhof,Cross
+580693,77,SavedShot,0.899000015258789,0.29200000762939454,0.09269526600837708,Papa Amadou Diallo,a,12002,OpenPlay,2023,RightFoot,23660,Strasbourg,Metz,2,1,2024-05-12 19:00:00,Georges Mikautadze,Pass
+582661,44,MissedShots,0.899000015258789,0.7040000152587891,0.03067103400826454,Papa Amadou Diallo,h,12002,SetPiece,2023,LeftFoot,23668,Metz,Paris Saint Germain,0,2,2024-05-19 19:00:00,Georges Mikautadze,Pass
+582675,89,MissedShots,0.9159999847412109,0.4329999923706055,0.28751280903816223,Papa Amadou Diallo,h,12002,OpenPlay,2023,Head,23668,Metz,Paris Saint Germain,0,2,2024-05-19 19:00:00,Arthur Atta,Cross

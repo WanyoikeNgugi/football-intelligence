@@ -1,0 +1,4 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+29260,93,Goal,0.955999984741211,0.43099998474121093,0.1103539988398552,Marwin Hitz,h,263,FromCorner,2014,RightFoot,5291,Augsburg,Bayer Leverkusen,2,2,2015-02-21 14:30:00,,None
+131234,94,MissedShots,0.879000015258789,0.575,0.04166710004210472,Marwin Hitz,a,263,SetPiece,2016,Head,3204,Hamburger SV,Augsburg,1,0,2016-12-10 18:30:00,Daniel Baier,Chipped
+165937,93,BlockedShot,0.9019999694824219,0.55,0.08084859699010849,Marwin Hitz,a,263,SetPiece,2017,LeftFoot,8262,Hamburger SV,Augsburg,1,0,2017-08-19 14:30:00,Erik Thommy,Cross

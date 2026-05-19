@@ -1,0 +1,30 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+403149,89,MissedShots,0.91,0.5220000076293946,0.43007799983024597,Robert Glatzel,h,9326,OpenPlay,2020,LeftFoot,15317,Mainz 05,Union Berlin,1,0,2021-02-06 14:30:00,Jonathan Burkardt,HeadPass
+403152,91,SavedShot,0.8630000305175781,0.5879999923706055,0.12660099565982819,Robert Glatzel,h,9326,OpenPlay,2020,LeftFoot,15317,Mainz 05,Union Berlin,1,0,2021-02-06 14:30:00,Danny da Costa,Chipped
+404229,88,Goal,0.9080000305175782,0.5479999923706055,0.3533119857311249,Robert Glatzel,a,9326,OpenPlay,2020,LeftFoot,15323,Bayer Leverkusen,Mainz 05,2,2,2021-02-13 14:30:00,Moussa Niakhate,Throughball
+408323,81,SavedShot,0.9130000305175782,0.64,0.07209040224552155,Robert Glatzel,a,9326,OpenPlay,2020,LeftFoot,15348,Schalke 04,Mainz 05,0,0,2021-03-05 19:30:00,,None
+409925,64,MissedShots,0.919000015258789,0.48700000762939455,0.5228899717330933,Robert Glatzel,h,9326,OpenPlay,2020,LeftFoot,15361,Mainz 05,Freiburg,1,0,2021-03-13 14:30:00,Danny da Costa,Pass
+409931,83,SavedShot,0.9519999694824218,0.48,0.5516639947891235,Robert Glatzel,h,9326,OpenPlay,2020,Head,15361,Mainz 05,Freiburg,1,0,2021-03-13 14:30:00,Jean-Paul Boëtius,Cross
+411615,0,Goal,0.92,0.35700000762939454,0.34376299381256104,Robert Glatzel,a,9326,OpenPlay,2020,RightFoot,15366,Hoffenheim,Mainz 05,1,2,2021-03-21 12:30:00,,BallRecovery
+411616,2,SavedShot,0.904000015258789,0.525,0.07768739759922028,Robert Glatzel,a,9326,SetPiece,2020,RightFoot,15366,Hoffenheim,Mainz 05,1,2,2021-03-21 12:30:00,Philipp Mwene,Cross
+411619,10,BlockedShot,0.8519999694824218,0.6029999923706054,0.08489879965782166,Robert Glatzel,a,9326,OpenPlay,2020,RightFoot,15366,Hoffenheim,Mainz 05,1,2,2021-03-21 12:30:00,Jonathan Burkardt,BallTouch
+412428,39,BlockedShot,0.875999984741211,0.38299999237060545,0.08480560034513474,Robert Glatzel,h,9326,OpenPlay,2020,RightFoot,15380,Mainz 05,Arminia Bielefeld,1,1,2021-04-03 13:30:00,Leandro Barreiro Martins,Pass
+412430,50,SavedShot,0.8580000305175781,0.6990000152587891,0.03302939981222153,Robert Glatzel,h,9326,OpenPlay,2020,RightFoot,15380,Mainz 05,Arminia Bielefeld,1,1,2021-04-03 13:30:00,Dominik Kohr,Pass
+416511,90,MissedShots,0.8340000152587891,0.62,0.0881573036313057,Robert Glatzel,a,9326,OpenPlay,2020,LeftFoot,15407,Werder Bremen,Mainz 05,0,1,2021-04-21 18:30:00,Jonathan Burkardt,Pass
+419491,91,MissedShots,0.9269999694824219,0.4879999923706055,0.07561390101909637,Robert Glatzel,h,9326,OpenPlay,2020,Head,15399,Mainz 05,Hertha Berlin,1,1,2021-05-03 18:00:00,Daniel Brosinski,Aerial
+641955,81,MissedShots,0.9330000305175781,0.47400001525878904,0.08691386878490448,Robert Glatzel,a,9326,OpenPlay,2025,Head,30248,Bayern Munich,Hamburger SV,5,0,2025-09-13 16:30:00,Rayan Philippe,Chipped
+641958,91,MissedShots,0.8959999847412109,0.37400001525878906,0.03431055694818497,Robert Glatzel,a,9326,SetPiece,2025,Head,30248,Bayern Munich,Hamburger SV,5,0,2025-09-13 16:30:00,Miro Muheim,Chipped
+642953,93,ShotOnPost,0.855999984741211,0.509000015258789,0.37468603253364563,Robert Glatzel,h,9326,OpenPlay,2025,RightFoot,30254,Hamburger SV,FC Heidenheim,2,1,2025-09-20 13:30:00,Alexander Røssing-Lelesiit,Pass
+645589,96,BlockedShot,0.9180000305175782,0.5670000076293945,0.13582317531108856,Robert Glatzel,a,9326,OpenPlay,2025,RightFoot,30268,Union Berlin,Hamburger SV,0,0,2025-09-28 17:30:00,Albert Sambi Lokonga,Pass
+646955,71,SavedShot,0.7569999694824219,0.590999984741211,0.02712973766028881,Robert Glatzel,h,9326,OpenPlay,2025,RightFoot,30273,Hamburger SV,Mainz 05,4,0,2025-10-05 15:30:00,Luka Vuskovic,BallTouch
+652226,75,SavedShot,0.86,0.47099998474121096,0.08055911958217621,Robert Glatzel,h,9326,OpenPlay,2025,RightFoot,30309,Hamburger SV,Borussia Dortmund,1,1,2025-11-08 14:30:00,Albert Sambi Lokonga,Pass
+655729,16,Goal,0.8780000305175781,0.36200000762939455,0.1424901783466339,Robert Glatzel,h,9326,OpenPlay,2025,RightFoot,30328,Hamburger SV,VfB Stuttgart,2,1,2025-11-30 14:30:00,Alexander Røssing-Lelesiit,Throughball
+669512,19,MissedShots,0.9059999847412109,0.5990000152587891,0.05041641741991043,Robert Glatzel,a,9326,OpenPlay,2025,Head,30426,Mainz 05,Hamburger SV,1,1,2026-02-20 19:30:00,Nicolai Remberg,Cross
+669516,25,SavedShot,0.8969999694824219,0.6469999694824219,0.3256959915161133,Robert Glatzel,a,9326,OpenPlay,2025,LeftFoot,30426,Mainz 05,Hamburger SV,1,1,2026-02-20 19:30:00,Philip Otele,Pass
+676612,33,MissedShots,0.9119999694824219,0.45299999237060545,0.08943864703178406,Robert Glatzel,h,9326,OpenPlay,2025,LeftFoot,30471,Hamburger SV,Augsburg,1,1,2026-04-04 13:30:00,Miro Muheim,Cross
+676615,36,MissedShots,0.8640000152587891,0.4829999923706055,0.0772513747215271,Robert Glatzel,h,9326,SetPiece,2025,RightFoot,30471,Hamburger SV,Augsburg,1,1,2026-04-04 13:30:00,Warmed Omari,BallTouch
+676617,43,MissedShots,0.84,0.5,0.11250576376914978,Robert Glatzel,h,9326,OpenPlay,2025,RightFoot,30471,Hamburger SV,Augsburg,1,1,2026-04-04 13:30:00,Albert Sambi Lokonga,Pass
+678574,83,BlockedShot,0.8719999694824219,0.43,0.06419241428375244,Robert Glatzel,a,9326,OpenPlay,2025,RightFoot,30483,VfB Stuttgart,Hamburger SV,4,0,2026-04-12 15:30:00,,None
+679163,4,MissedShots,0.9180000305175782,0.47900001525878905,0.4015769362449646,Robert Glatzel,a,9326,SetPiece,2025,Head,30493,Werder Bremen,Hamburger SV,3,1,2026-04-18 13:30:00,Nicolai Remberg,HeadPass
+679172,40,Goal,0.9059999847412109,0.28299999237060547,0.0840492993593216,Robert Glatzel,a,9326,OpenPlay,2025,RightFoot,30493,Werder Bremen,Hamburger SV,3,1,2026-04-18 13:30:00,Nicolás Capaldo,Chipped
+681208,33,Goal,0.885,0.5,0.75777667760849,Robert Glatzel,h,9326,Penalty,2025,RightFoot,30497,Hamburger SV,Hoffenheim,1,2,2026-04-25 16:30:00,,Standard

@@ -1,0 +1,14 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+532804,73,BlockedShot,0.7830000305175782,0.4879999923706055,0.028642427176237106,Sergio Ruiz,a,11830,FromCorner,2023,RightFoot,22694,Atletico Madrid,Granada,3,1,2023-08-14 19:30:00,Samu Omorodion,BallTouch
+534253,60,MissedShots,0.8209999847412109,0.45,0.09086717665195465,Sergio Ruiz,h,11830,OpenPlay,2023,RightFoot,22704,Granada,Rayo Vallecano,0,2,2023-08-21 19:30:00,,Rebound
+546467,56,MissedShots,0.9219999694824219,0.524000015258789,0.32690009474754333,Sergio Ruiz,h,11830,FromCorner,2023,Head,22791,Granada,Villarreal,2,3,2023-10-30 20:00:00,Myrto Uzuni,Cross
+559499,76,BlockedShot,0.955999984741211,0.62,0.04551904276013374,Sergio Ruiz,h,11830,FromCorner,2023,RightFoot,22890,Granada,Atletico Madrid,0,1,2024-01-22 20:00:00,Gerard Gumbau,Cross
+559502,83,BlockedShot,0.8209999847412109,0.6220000076293946,0.04160488024353981,Sergio Ruiz,h,11830,OpenPlay,2023,LeftFoot,22890,Granada,Atletico Madrid,0,1,2024-01-22 20:00:00,,None
+560505,64,MissedShots,0.7569999694824219,0.485,0.023130491375923157,Sergio Ruiz,a,11830,OpenPlay,2023,RightFoot,22898,Getafe,Granada,2,0,2024-01-29 20:00:00,Matías Arezo,BallTouch
+561295,89,BlockedShot,0.86,0.705,0.05480668693780899,Sergio Ruiz,h,11830,OpenPlay,2023,RightFoot,22909,Granada,Las Palmas,1,1,2024-02-03 15:15:00,Carlos Neva,TakeOn
+567019,49,MissedShots,0.745999984741211,0.5890000152587891,0.013516916893422604,Sergio Ruiz,a,11830,OpenPlay,2023,RightFoot,22953,Villarreal,Granada,5,1,2024-03-03 13:00:00,,None
+568283,44,SavedShot,0.9069999694824219,0.3629999923706055,0.0863807424902916,Sergio Ruiz,h,11830,OpenPlay,2023,RightFoot,22959,Granada,Real Sociedad,2,3,2024-03-09 17:30:00,Facundo Pellistri,Pass
+574324,13,BlockedShot,0.784000015258789,0.45,0.050387416034936905,Sergio Ruiz,h,11830,OpenPlay,2023,RightFoot,22994,Granada,Alaves,2,0,2024-04-14 14:15:00,,None
+574770,55,MissedShots,0.7819999694824219,0.5459999847412109,0.02459391951560974,Sergio Ruiz,a,11830,SetPiece,2023,LeftFoot,22996,Athletic Club,Granada,1,1,2024-04-19 19:00:00,,None
+580073,40,BlockedShot,0.899000015258789,0.3290000152587891,0.0654788538813591,Sergio Ruiz,h,11830,OpenPlay,2023,RightFoot,23029,Granada,Real Madrid,0,4,2024-05-11 16:30:00,Facundo Pellistri,Pass
+582493,31,MissedShots,0.905,0.3920000076293945,0.06221611052751541,Sergio Ruiz,h,11830,FromCorner,2023,RightFoot,23052,Granada,Celta Vigo,1,2,2024-05-19 17:00:00,Gerard Gumbau,Pass

@@ -1,0 +1,88 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+167759,91,SavedShot,0.894000015258789,0.5509999847412109,0.09740269929170609,Johannes Eggestein,h,6084,OpenPlay,2017,RightFoot,8326,Werder Bremen,Borussia M.Gladbach,0,2,2017-10-15 17:00:00,Niklas Moisander,Rebound
+207439,90,MissedShots,0.945,0.5429999923706055,0.09255529940128326,Johannes Eggestein,a,6084,OpenPlay,2017,Head,8519,Hannover 96,Werder Bremen,2,1,2018-04-06 18:30:00,Milot Rashica,Chipped
+219998,93,MissedShots,0.9219999694824219,0.5129999923706055,0.3903520107269287,Johannes Eggestein,h,6084,OpenPlay,2018,Head,10341,Werder Bremen,Hannover 96,1,1,2018-08-25 16:30:00,Milot Rashica,Cross
+255205,85,Goal,0.89,0.6040000152587891,0.3796460032463074,Johannes Eggestein,h,6084,OpenPlay,2018,LeftFoot,10395,Werder Bremen,Wolfsburg,2,0,2018-10-05 18:30:00,Claudio Pizarro,Throughball
+256241,52,BlockedShot,0.87,0.41900001525878905,0.06419979780912399,Johannes Eggestein,h,6084,OpenPlay,2018,RightFoot,10431,Werder Bremen,Borussia M.Gladbach,1,3,2018-11-10 14:30:00,,Rebound
+256250,81,SavedShot,0.8919999694824219,0.6619999694824219,0.0788578987121582,Johannes Eggestein,h,6084,OpenPlay,2018,RightFoot,10431,Werder Bremen,Borussia M.Gladbach,1,3,2018-11-10 14:30:00,,TakeOn
+256620,47,SavedShot,0.8019999694824219,0.639000015258789,0.06409990042448044,Johannes Eggestein,a,6084,OpenPlay,2018,RightFoot,10442,Freiburg,Werder Bremen,1,1,2018-11-25 14:30:00,Martin Harnik,TakeOn
+256686,11,MissedShots,0.740999984741211,0.52,0.01650810055434704,Johannes Eggestein,h,6084,FromCorner,2018,LeftFoot,10450,Werder Bremen,Bayern Munich,1,2,2018-12-01 14:30:00,,None
+256703,57,BlockedShot,0.8580000305175781,0.425,0.05450509861111641,Johannes Eggestein,h,6084,OpenPlay,2018,LeftFoot,10450,Werder Bremen,Bayern Munich,1,2,2018-12-01 14:30:00,Theodor Gebre Selassie,HeadPass
+256992,70,SavedShot,0.799000015258789,0.505,0.04421219974756241,Johannes Eggestein,h,6084,OpenPlay,2018,RightFoot,10459,Werder Bremen,Fortuna Duesseldorf,3,1,2018-12-07 19:30:00,,None
+257627,27,MissedShots,0.885,0.3139999961853027,0.07865560054779053,Johannes Eggestein,h,6084,OpenPlay,2018,RightFoot,10474,Werder Bremen,Hoffenheim,1,1,2018-12-19 19:30:00,Niklas Moisander,Pass
+257640,59,BlockedShot,0.8430000305175781,0.5329999923706055,0.04861370101571083,Johannes Eggestein,h,6084,OpenPlay,2018,LeftFoot,10474,Werder Bremen,Hoffenheim,1,1,2018-12-19 19:30:00,Max Kruse,Cross
+257643,73,BlockedShot,0.865999984741211,0.4470000076293945,0.10118400305509567,Johannes Eggestein,h,6084,OpenPlay,2018,RightFoot,10474,Werder Bremen,Hoffenheim,1,1,2018-12-19 19:30:00,Milot Rashica,Pass
+257749,1,BlockedShot,0.86,0.3770000076293945,0.030637100338935852,Johannes Eggestein,a,6084,OpenPlay,2018,RightFoot,10485,RasenBallsport Leipzig,Werder Bremen,3,2,2018-12-22 14:30:00,Max Kruse,Cross
+257764,47,MissedShots,0.94,0.365,0.050700701773166656,Johannes Eggestein,a,6084,OpenPlay,2018,RightFoot,10485,RasenBallsport Leipzig,Werder Bremen,3,2,2018-12-22 14:30:00,Max Kruse,Cross
+257765,49,MissedShots,0.919000015258789,0.345,0.0937402993440628,Johannes Eggestein,a,6084,OpenPlay,2018,RightFoot,10485,RasenBallsport Leipzig,Werder Bremen,3,2,2018-12-22 14:30:00,Theodor Gebre Selassie,TakeOn
+278683,22,MissedShots,0.9630000305175781,0.6990000152587891,0.05682170018553734,Johannes Eggestein,h,6084,OpenPlay,2018,LeftFoot,10503,Werder Bremen,Eintracht Frankfurt,2,2,2019-01-26 17:30:00,Martin Harnik,Pass
+278689,42,SavedShot,0.899000015258789,0.6519999694824219,0.2945399880409241,Johannes Eggestein,h,6084,OpenPlay,2018,LeftFoot,10503,Werder Bremen,Eintracht Frankfurt,2,2,2019-01-26 17:30:00,Davy Klaassen,Pass
+278698,76,BlockedShot,0.89,0.5629999923706055,0.09794340282678604,Johannes Eggestein,h,6084,OpenPlay,2018,RightFoot,10503,Werder Bremen,Eintracht Frankfurt,2,2,2019-01-26 17:30:00,Maximilian Eggestein,BallTouch
+278859,63,Goal,0.9669999694824218,0.45599998474121095,0.6694179773330688,Johannes Eggestein,a,6084,OpenPlay,2018,RightFoot,10514,Nuernberg,Werder Bremen,1,1,2019-02-02 14:30:00,,Rebound
+279122,26,Goal,0.8919999694824219,0.4620000076293945,0.10979600250720978,Johannes Eggestein,h,6084,SetPiece,2018,RightFoot,10521,Werder Bremen,Augsburg,4,0,2019-02-10 14:30:00,,Rebound
+279127,38,MissedShots,0.935,0.6680000305175782,0.09720800071954727,Johannes Eggestein,h,6084,OpenPlay,2018,LeftFoot,10521,Werder Bremen,Augsburg,4,0,2019-02-10 14:30:00,Max Kruse,Chipped
+279758,8,MissedShots,0.9690000152587891,0.4540000152587891,0.6229770183563232,Johannes Eggestein,a,6084,OpenPlay,2018,LeftFoot,10551,Wolfsburg,Werder Bremen,1,1,2019-03-03 17:00:00,,None
+279763,45,MissedShots,0.889000015258789,0.40700000762939453,0.023074500262737274,Johannes Eggestein,a,6084,OpenPlay,2018,Head,10551,Wolfsburg,Werder Bremen,1,1,2019-03-03 17:00:00,Ludwig Augustinsson,Aerial
+279768,57,BlockedShot,0.8690000152587891,0.40400001525878904,0.061410900205373764,Johannes Eggestein,a,6084,OpenPlay,2018,LeftFoot,10551,Wolfsburg,Werder Bremen,1,1,2019-03-03 17:00:00,,None
+279775,70,BlockedShot,0.85,0.40400001525878904,0.08939550071954727,Johannes Eggestein,a,6084,OpenPlay,2018,RightFoot,10551,Wolfsburg,Werder Bremen,1,1,2019-03-03 17:00:00,Maximilian Eggestein,TakeOn
+286637,3,SavedShot,0.865999984741211,0.655,0.07219210267066956,Johannes Eggestein,a,6084,OpenPlay,2018,LeftFoot,10563,Bayer Leverkusen,Werder Bremen,1,3,2019-03-17 12:30:00,Max Kruse,TakeOn
+286638,3,MissedShots,0.9290000152587891,0.74,0.030872799456119537,Johannes Eggestein,a,6084,OpenPlay,2018,LeftFoot,10563,Bayer Leverkusen,Werder Bremen,1,3,2019-03-17 12:30:00,,Rebound
+286646,38,BlockedShot,0.8130000305175781,0.63,0.05587650090456009,Johannes Eggestein,a,6084,OpenPlay,2018,RightFoot,10563,Bayer Leverkusen,Werder Bremen,1,3,2019-03-17 12:30:00,Davy Klaassen,Pass
+292789,14,SavedShot,0.9069999694824219,0.35700000762939454,0.3036229908466339,Johannes Eggestein,a,6084,OpenPlay,2018,LeftFoot,10584,Borussia M.Gladbach,Werder Bremen,1,1,2019-04-07 17:00:00,Max Kruse,Pass
+292795,41,BlockedShot,0.8109999847412109,0.7230000305175781,0.02455260045826435,Johannes Eggestein,a,6084,OpenPlay,2018,RightFoot,10584,Borussia M.Gladbach,Werder Bremen,1,1,2019-04-07 17:00:00,Milot Rashica,Pass
+297223,43,BlockedShot,0.8640000152587891,0.415,0.012393999844789505,Johannes Eggestein,a,6084,OpenPlay,2018,Head,10614,Fortuna Duesseldorf,Werder Bremen,4,1,2019-04-27 14:30:00,Theodor Gebre Selassie,Aerial
+300704,19,SavedShot,0.9219999694824219,0.7019999694824218,0.0460674986243248,Johannes Eggestein,a,6084,OpenPlay,2018,LeftFoot,10625,Hoffenheim,Werder Bremen,0,1,2019-05-11 14:30:00,Yuya Osako,Pass
+300709,38,SavedShot,0.905,0.36700000762939455,0.09640909731388092,Johannes Eggestein,a,6084,OpenPlay,2018,RightFoot,10625,Hoffenheim,Werder Bremen,0,1,2019-05-11 14:30:00,Maximilian Eggestein,Pass
+300710,38,Goal,0.965,0.48400001525878905,0.16173900663852692,Johannes Eggestein,a,6084,OpenPlay,2018,Head,10625,Hoffenheim,Werder Bremen,0,1,2019-05-11 14:30:00,Milot Rashica,Aerial
+300715,56,BlockedShot,0.909000015258789,0.645,0.10750599950551987,Johannes Eggestein,a,6084,OpenPlay,2018,LeftFoot,10625,Hoffenheim,Werder Bremen,0,1,2019-05-11 14:30:00,Ludwig Augustinsson,Pass
+310582,46,Goal,0.915,0.5459999847412109,0.08970359712839127,Johannes Eggestein,h,6084,OpenPlay,2019,Head,12404,Werder Bremen,Fortuna Duesseldorf,1,3,2019-08-17 14:30:00,Milot Rashica,Cross
+310589,59,SavedShot,0.9490000152587891,0.3160000038146973,0.05330970138311386,Johannes Eggestein,h,6084,OpenPlay,2019,RightFoot,12404,Werder Bremen,Fortuna Duesseldorf,1,3,2019-08-17 14:30:00,Maximilian Eggestein,Pass
+310599,75,MissedShots,0.830999984741211,0.43900001525878907,0.04051230102777481,Johannes Eggestein,h,6084,FromCorner,2019,RightFoot,12404,Werder Bremen,Fortuna Duesseldorf,1,3,2019-08-17 14:30:00,Claudio Pizarro,BallTouch
+312357,37,BlockedShot,0.9180000305175782,0.315,0.05888570100069046,Johannes Eggestein,a,6084,OpenPlay,2019,RightFoot,12414,Hoffenheim,Werder Bremen,3,2,2019-08-24 14:30:00,Maximilian Eggestein,BallRecovery
+312361,44,MissedShots,0.8030000305175782,0.3110000038146973,0.017193099483847618,Johannes Eggestein,a,6084,SetPiece,2019,RightFoot,12414,Hoffenheim,Werder Bremen,3,2,2019-08-24 14:30:00,,None
+312366,55,BlockedShot,0.9530000305175781,0.675,0.06636519730091095,Johannes Eggestein,a,6084,OpenPlay,2019,LeftFoot,12414,Hoffenheim,Werder Bremen,3,2,2019-08-24 14:30:00,Yuya Osako,Pass
+317124,8,BlockedShot,0.7859999847412109,0.295,0.026941899210214615,Johannes Eggestein,a,6084,OpenPlay,2019,RightFoot,12434,Union Berlin,Werder Bremen,1,2,2019-09-14 13:30:00,Yuya Osako,Pass
+317127,16,MissedShots,0.885,0.47400001525878904,0.048309698700904846,Johannes Eggestein,a,6084,OpenPlay,2019,Head,12434,Union Berlin,Werder Bremen,1,2,2019-09-14 13:30:00,Michael Lang,Chipped
+317132,35,SavedShot,0.9690000152587891,0.7119999694824218,0.04715440049767494,Johannes Eggestein,a,6084,OpenPlay,2019,LeftFoot,12434,Union Berlin,Werder Bremen,1,2,2019-09-14 13:30:00,,None
+317144,73,SavedShot,0.8809999847412109,0.31799999237060544,0.06350330263376236,Johannes Eggestein,a,6084,OpenPlay,2019,RightFoot,12434,Union Berlin,Werder Bremen,1,2,2019-09-14 13:30:00,Leonardo Bittencourt,Pass
+337980,47,SavedShot,0.759000015258789,0.47,0.02214219979941845,Johannes Eggestein,h,6084,OpenPlay,2019,RightFoot,12543,Werder Bremen,Mainz 05,0,5,2019-12-17 17:30:00,Leonardo Bittencourt,BallTouch
+358853,91,SavedShot,0.885,0.25299999237060544,0.02867019921541214,Johannes Eggestein,a,6084,OpenPlay,2019,RightFoot,12593,RasenBallsport Leipzig,Werder Bremen,3,0,2020-02-15 14:30:00,Milos Veljkovic,Pass
+359825,68,BlockedShot,0.7040000152587891,0.5529999923706055,0.010219099931418896,Johannes Eggestein,h,6084,OpenPlay,2019,RightFoot,12606,Werder Bremen,Borussia Dortmund,0,2,2020-02-22 14:30:00,Niklas Moisander,BallRecovery
+359828,78,MissedShots,0.7930000305175782,0.3659999847412109,0.029035599902272224,Johannes Eggestein,h,6084,OpenPlay,2019,LeftFoot,12606,Werder Bremen,Borussia Dortmund,0,2,2020-02-22 14:30:00,Davie Selke,BallTouch
+363110,74,BlockedShot,0.845999984741211,0.34200000762939453,0.05145769938826561,Johannes Eggestein,h,6084,OpenPlay,2019,LeftFoot,12631,Werder Bremen,Bayer Leverkusen,1,4,2020-05-18 18:30:00,Nick Woltemade,Pass
+588868,13,BlockedShot,0.894000015258789,0.3770000076293945,0.06613576412200928,Johannes Eggestein,a,6084,SetPiece,2024,RightFoot,27751,Union Berlin,St. Pauli,1,0,2024-08-30 18:30:00,,None
+588870,20,MissedShots,0.9490000152587891,0.3970000076293945,0.3054337203502655,Johannes Eggestein,a,6084,OpenPlay,2024,RightFoot,27751,Union Berlin,St. Pauli,1,0,2024-08-30 18:30:00,Jackson Irvine,Chipped
+593243,17,SavedShot,0.735999984741211,0.5420000076293945,0.0189921073615551,Johannes Eggestein,h,6084,OpenPlay,2024,RightFoot,27777,St. Pauli,RasenBallsport Leipzig,0,0,2024-09-22 17:30:00,,Dispossessed
+593250,41,SavedShot,0.9790000152587891,0.405,0.48007845878601074,Johannes Eggestein,h,6084,OpenPlay,2024,RightFoot,27777,St. Pauli,RasenBallsport Leipzig,0,0,2024-09-22 17:30:00,,Rebound
+593253,55,BlockedShot,0.894000015258789,0.6509999847412109,0.04267942160367966,Johannes Eggestein,h,6084,OpenPlay,2024,LeftFoot,27777,St. Pauli,RasenBallsport Leipzig,0,0,2024-09-22 17:30:00,Oladapo Afolayan,Cross
+594010,20,BlockedShot,0.720999984741211,0.33099998474121095,0.020327165722846985,Johannes Eggestein,a,6084,OpenPlay,2024,LeftFoot,27779,Freiburg,St. Pauli,0,3,2024-09-28 13:30:00,Manolis Saliakas,Pass
+595800,23,SavedShot,0.8590000152587891,0.415,0.04973660409450531,Johannes Eggestein,h,6084,OpenPlay,2024,RightFoot,27793,St. Pauli,Mainz 05,0,3,2024-10-05 16:30:00,Hauke Wahl,Chipped
+595808,45,BlockedShot,0.9,0.7230000305175781,0.03628595545887947,Johannes Eggestein,h,6084,SetPiece,2024,LeftFoot,27793,St. Pauli,Mainz 05,0,3,2024-10-05 16:30:00,Elias Saad,Pass
+595810,45,BlockedShot,0.8969999694824219,0.6969999694824218,0.03373264521360397,Johannes Eggestein,h,6084,FromCorner,2024,LeftFoot,27793,St. Pauli,Mainz 05,0,3,2024-10-05 16:30:00,Eric Smith,Cross
+595811,46,BlockedShot,0.8669999694824219,0.669000015258789,0.02060084603726864,Johannes Eggestein,h,6084,OpenPlay,2024,RightFoot,27793,St. Pauli,Mainz 05,0,3,2024-10-05 16:30:00,Karol Mets,Aerial
+595817,71,BlockedShot,0.840999984741211,0.634000015258789,0.06466218084096909,Johannes Eggestein,h,6084,OpenPlay,2024,RightFoot,27793,St. Pauli,Mainz 05,0,3,2024-10-05 16:30:00,Philipp Treu,Pass
+598300,14,SavedShot,0.8040000152587891,0.5509999847412109,0.04026862233877182,Johannes Eggestein,h,6084,OpenPlay,2024,LeftFoot,27813,St. Pauli,Wolfsburg,0,0,2024-10-26 13:30:00,Danel Sinani,Pass
+598312,57,BlockedShot,0.92,0.6959999847412109,0.051665354520082474,Johannes Eggestein,h,6084,OpenPlay,2024,LeftFoot,27813,St. Pauli,Wolfsburg,0,0,2024-10-26 13:30:00,,None
+603556,3,MissedShots,0.9290000152587891,0.575,0.05128103867173195,Johannes Eggestein,a,6084,OpenPlay,2024,Head,27839,Borussia M.Gladbach,St. Pauli,2,0,2024-11-24 16:30:00,Jackson Irvine,Aerial
+604036,27,BlockedShot,0.9680000305175781,0.595,0.38962510228157043,Johannes Eggestein,h,6084,OpenPlay,2024,LeftFoot,27849,St. Pauli,Holstein Kiel,3,1,2024-11-30 14:30:00,,Rebound
+604048,84,Goal,0.889000015258789,0.55,0.5204180479049683,Johannes Eggestein,h,6084,OpenPlay,2024,LeftFoot,27849,St. Pauli,Holstein Kiel,3,1,2024-11-30 14:30:00,Philipp Treu,Throughball
+605794,80,MissedShots,0.8380000305175781,0.38299999237060545,0.05466426908969879,Johannes Eggestein,a,6084,OpenPlay,2024,RightFoot,27850,Bayer Leverkusen,St. Pauli,2,1,2024-12-07 14:30:00,,Tackle
+605796,88,MissedShots,0.914000015258789,0.3220000076293945,0.09746886789798737,Johannes Eggestein,a,6084,OpenPlay,2024,RightFoot,27850,Bayer Leverkusen,St. Pauli,2,1,2024-12-07 14:30:00,Danel Sinani,Throughball
+607238,17,SavedShot,0.825,0.754000015258789,0.02347436361014843,Johannes Eggestein,h,6084,OpenPlay,2024,RightFoot,27867,St. Pauli,Werder Bremen,0,2,2024-12-14 17:30:00,Eric Smith,Pass
+607241,36,BlockedShot,0.8880000305175781,0.44299999237060544,0.07672018557786942,Johannes Eggestein,h,6084,OpenPlay,2024,RightFoot,27867,St. Pauli,Werder Bremen,0,2,2024-12-14 17:30:00,Manolis Saliakas,Cross
+607247,53,SavedShot,0.8490000152587891,0.40599998474121096,0.06109468266367912,Johannes Eggestein,h,6084,OpenPlay,2024,RightFoot,27867,St. Pauli,Werder Bremen,0,2,2024-12-14 17:30:00,Hauke Wahl,Pass
+608317,7,MissedShots,0.8330000305175781,0.40599998474121096,0.06137770414352417,Johannes Eggestein,a,6084,OpenPlay,2024,RightFoot,27869,VfB Stuttgart,St. Pauli,0,1,2024-12-21 14:30:00,Morgan Guilavogui,Chipped
+608323,20,Goal,0.919000015258789,0.53,0.4900411069393158,Johannes Eggestein,a,6084,OpenPlay,2024,LeftFoot,27869,VfB Stuttgart,St. Pauli,0,1,2024-12-21 14:30:00,Jackson Irvine,BallTouch
+608328,40,MissedShots,0.775,0.29200000762939454,0.02659582905471325,Johannes Eggestein,a,6084,OpenPlay,2024,RightFoot,27869,VfB Stuttgart,St. Pauli,0,1,2024-12-21 14:30:00,Jackson Irvine,Pass
+608337,53,SavedShot,0.885,0.5,0.75777667760849,Johannes Eggestein,a,6084,Penalty,2024,RightFoot,27869,VfB Stuttgart,St. Pauli,0,1,2024-12-21 14:30:00,,Standard
+612168,15,SavedShot,0.6709999847412109,0.415,0.010509910993278027,Johannes Eggestein,a,6084,OpenPlay,2024,RightFoot,27899,FC Heidenheim,St. Pauli,0,2,2025-01-18 14:30:00,James Sands,BallTouch
+612170,24,Goal,0.885,0.5,0.75777667760849,Johannes Eggestein,a,6084,Penalty,2024,RightFoot,27899,FC Heidenheim,St. Pauli,0,2,2025-01-18 14:30:00,,Standard
+612176,78,BlockedShot,0.9,0.3940000152587891,0.3551766574382782,Johannes Eggestein,a,6084,OpenPlay,2024,RightFoot,27899,FC Heidenheim,St. Pauli,0,2,2025-01-18 14:30:00,Morgan Guilavogui,Pass
+614017,36,BlockedShot,0.9419999694824219,0.46900001525878904,0.1318465918302536,Johannes Eggestein,h,6084,FromCorner,2024,LeftFoot,27907,St. Pauli,Union Berlin,3,0,2025-01-26 16:30:00,Noah Weißhaupt,Cross
+614018,36,BlockedShot,0.909000015258789,0.36,0.07144365459680557,Johannes Eggestein,h,6084,FromCorner,2024,RightFoot,27907,St. Pauli,Union Berlin,3,0,2025-01-26 16:30:00,,Rebound
+614019,40,BlockedShot,0.91,0.4279999923706055,0.0624084547162056,Johannes Eggestein,h,6084,FromCorner,2024,RightFoot,27907,St. Pauli,Union Berlin,3,0,2025-01-26 16:30:00,Noah Weißhaupt,Cross
+614024,50,BlockedShot,0.970999984741211,0.4279999923706055,0.09724066406488419,Johannes Eggestein,h,6084,OpenPlay,2024,Head,27907,St. Pauli,Union Berlin,3,0,2025-01-26 16:30:00,Noah Weißhaupt,Aerial
+614854,12,BlockedShot,0.805,0.5890000152587891,0.047191232442855835,Johannes Eggestein,h,6084,OpenPlay,2024,LeftFoot,27915,St. Pauli,Augsburg,1,1,2025-02-01 14:30:00,,Foul
+614859,51,BlockedShot,0.915,0.3770000076293945,0.10918582230806351,Johannes Eggestein,h,6084,OpenPlay,2024,RightFoot,27915,St. Pauli,Augsburg,1,1,2025-02-01 14:30:00,Manolis Saliakas,Pass
+616506,87,SavedShot,0.919000015258789,0.5640000152587891,0.26176875829696655,Johannes Eggestein,a,6084,OpenPlay,2024,Head,27923,RasenBallsport Leipzig,St. Pauli,2,0,2025-02-09 16:30:00,Eric Smith,Cross
+618372,81,MissedShots,0.8680000305175781,0.5670000076293945,0.10242917388677597,Johannes Eggestein,a,6084,OpenPlay,2024,LeftFoot,27946,Mainz 05,St. Pauli,2,0,2025-02-22 14:30:00,Noah Weißhaupt,HeadPass

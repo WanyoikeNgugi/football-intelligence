@@ -1,0 +1,225 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+166755,22,Goal,0.9230000305175782,0.524000015258789,0.396261990070343,Lucas Alario,h,6338,OpenPlay,2017,RightFoot,8312,Bayer Leverkusen,Hamburger SV,3,0,2017-09-24 17:00:00,Leon Bailey,Cross
+167168,48,SavedShot,0.8959999847412109,0.62,0.10015200078487396,Lucas Alario,a,6338,OpenPlay,2017,RightFoot,8314,Schalke 04,Bayer Leverkusen,1,1,2017-09-29 19:30:00,Wendell,Throughball
+167174,81,MissedShots,0.9269999694824219,0.5179999923706055,0.4249660074710846,Lucas Alario,a,6338,OpenPlay,2017,Head,8314,Schalke 04,Bayer Leverkusen,1,1,2017-09-29 19:30:00,Julian Brandt,Cross
+167786,9,BlockedShot,0.7769999694824219,0.6170000076293946,0.07959959656000137,Lucas Alario,h,6338,DirectFreekick,2017,RightFoot,8327,Bayer Leverkusen,Wolfsburg,2,2,2017-10-15 14:30:00,,Standard
+167803,60,Goal,0.9069999694824219,0.509000015258789,0.35305899381637573,Lucas Alario,h,6338,OpenPlay,2017,RightFoot,8327,Bayer Leverkusen,Wolfsburg,2,2,2017-10-15 14:30:00,Wendell,Cross
+168156,33,SavedShot,0.8980000305175782,0.6630000305175782,0.013374799862504005,Lucas Alario,a,6338,OpenPlay,2017,Head,8334,Borussia M.Gladbach,Bayer Leverkusen,1,5,2017-10-21 14:30:00,Wendell,Cross
+168780,71,BlockedShot,0.850999984741211,0.2879999923706055,0.034230999648571014,Lucas Alario,h,6338,OpenPlay,2017,RightFoot,8345,Bayer Leverkusen,FC Cologne,2,1,2017-10-28 14:30:00,Benjamin Henrichs,TakeOn
+167618,75,BlockedShot,0.894000015258789,0.41200000762939454,0.03653449937701225,Lucas Alario,a,6338,OpenPlay,2017,Head,8354,Augsburg,Bayer Leverkusen,1,1,2017-11-04 14:30:00,Leon Bailey,Cross
+167621,82,MissedShots,0.9290000152587891,0.5870000076293945,0.04433939978480339,Lucas Alario,a,6338,FromCorner,2017,Head,8354,Augsburg,Bayer Leverkusen,1,1,2017-11-04 14:30:00,Lars Bender,HeadPass
+168503,14,MissedShots,0.860999984741211,0.37900001525878907,0.0762156993150711,Lucas Alario,a,6338,OpenPlay,2017,RightFoot,8372,Eintracht Frankfurt,Bayer Leverkusen,0,1,2017-11-25 14:30:00,Julian Brandt,Pass
+168507,29,ShotOnPost,0.8769999694824219,0.5629999923706055,0.04642510041594505,Lucas Alario,a,6338,SetPiece,2017,Head,8372,Eintracht Frankfurt,Bayer Leverkusen,0,1,2017-11-25 14:30:00,Julian Brandt,Chipped
+168509,31,ShotOnPost,0.865,0.3579999923706055,0.06425920128822327,Lucas Alario,a,6338,OpenPlay,2017,RightFoot,8372,Eintracht Frankfurt,Bayer Leverkusen,0,1,2017-11-25 14:30:00,Dominik Kohr,Pass
+184024,10,Goal,0.9730000305175781,0.47,0.6935750246047974,Lucas Alario,h,6338,OpenPlay,2017,RightFoot,8399,Bayer Leverkusen,Werder Bremen,1,0,2017-12-13 19:30:00,,None
+183827,31,SavedShot,0.9180000305175782,0.445,0.09385610371828079,Lucas Alario,a,6338,OpenPlay,2017,Head,8411,Hannover 96,Bayer Leverkusen,4,4,2017-12-17 14:30:00,Julian Brandt,Cross
+183852,79,MissedShots,0.9230000305175782,0.44099998474121094,0.05241049826145172,Lucas Alario,a,6338,OpenPlay,2017,Head,8411,Hannover 96,Bayer Leverkusen,4,4,2017-12-17 14:30:00,,Rebound
+183855,90,MissedShots,0.9280000305175782,0.5729999923706055,0.11633999645709991,Lucas Alario,a,6338,OpenPlay,2017,Head,8411,Hannover 96,Bayer Leverkusen,4,4,2017-12-17 14:30:00,Karim Bellarabi,Cross
+187147,76,MissedShots,0.7869999694824219,0.3940000152587891,0.045235201716423035,Lucas Alario,h,6338,OpenPlay,2017,LeftFoot,8417,Bayer Leverkusen,Bayern Munich,1,3,2018-01-12 19:30:00,,TakeOn
+188663,69,Goal,0.9119999694824219,0.59,0.38601499795913696,Lucas Alario,a,6338,OpenPlay,2017,RightFoot,8422,Hoffenheim,Bayer Leverkusen,1,4,2018-01-20 14:30:00,Leon Bailey,Pass
+188667,84,MissedShots,0.8109999847412109,0.485,0.08326389640569687,Lucas Alario,a,6338,OpenPlay,2017,RightFoot,8422,Hoffenheim,Bayer Leverkusen,1,4,2018-01-20 14:30:00,Kevin Volland,Pass
+188670,92,Goal,0.9719999694824218,0.5479999923706055,0.6990609765052795,Lucas Alario,a,6338,OpenPlay,2017,LeftFoot,8422,Hoffenheim,Bayer Leverkusen,1,4,2018-01-20 14:30:00,Panagiotis Retsos,Pass
+190384,10,BlockedShot,0.835,0.2620000076293945,0.027218500152230263,Lucas Alario,h,6338,OpenPlay,2017,RightFoot,8438,Bayer Leverkusen,Mainz 05,2,0,2018-01-28 14:30:00,Julian Brandt,Pass
+190391,45,MissedShots,0.919000015258789,0.5120000076293946,0.10663100332021713,Lucas Alario,h,6338,FromCorner,2017,Head,8438,Bayer Leverkusen,Mainz 05,2,0,2018-01-28 14:30:00,Wendell,Cross
+190397,86,SavedShot,0.965,0.5579999923706055,0.12701599299907684,Lucas Alario,h,6338,FromCorner,2017,Head,8438,Bayer Leverkusen,Mainz 05,2,0,2018-01-28 14:30:00,Leon Bailey,Cross
+190398,87,MissedShots,0.91,0.6170000076293946,0.10895700007677078,Lucas Alario,h,6338,OpenPlay,2017,RightFoot,8438,Bayer Leverkusen,Mainz 05,2,0,2018-01-28 14:30:00,Benjamin Henrichs,Chipped
+194732,7,ShotOnPost,0.884000015258789,0.5420000076293945,0.03179290145635605,Lucas Alario,a,6338,OpenPlay,2017,Head,8440,Freiburg,Bayer Leverkusen,0,0,2018-02-03 14:30:00,Karim Bellarabi,Aerial
+194735,24,BlockedShot,0.8519999694824218,0.735999984741211,0.030103599652647972,Lucas Alario,a,6338,OpenPlay,2017,LeftFoot,8440,Freiburg,Bayer Leverkusen,0,0,2018-02-03 14:30:00,Wendell,Pass
+194736,25,MissedShots,0.9019999694824219,0.4,0.11101700365543365,Lucas Alario,a,6338,OpenPlay,2017,RightFoot,8440,Freiburg,Bayer Leverkusen,0,0,2018-02-03 14:30:00,Karim Bellarabi,Pass
+194755,82,BlockedShot,0.9290000152587891,0.5990000152587891,0.03467779979109764,Lucas Alario,a,6338,OpenPlay,2017,Head,8440,Freiburg,Bayer Leverkusen,0,0,2018-02-03 14:30:00,Julian Brandt,Aerial
+195107,15,SavedShot,0.8719999694824219,0.46599998474121096,0.04683699831366539,Lucas Alario,h,6338,SetPiece,2017,Head,8448,Bayer Leverkusen,Hertha Berlin,0,2,2018-02-10 14:30:00,Julian Brandt,Cross
+196271,74,SavedShot,0.8080000305175781,0.6430000305175781,0.0462225005030632,Lucas Alario,a,6338,OpenPlay,2017,RightFoot,8464,Hamburger SV,Bayer Leverkusen,1,2,2018-02-17 14:30:00,Kevin Volland,Pass
+197969,63,SavedShot,0.904000015258789,0.5309999847412109,0.09116099774837494,Lucas Alario,h,6338,OpenPlay,2017,LeftFoot,8474,Bayer Leverkusen,Schalke 04,0,2,2018-02-25 14:30:00,Wendell,Cross
+197972,81,BlockedShot,0.9619999694824218,0.3820000076293945,0.04812519997358322,Lucas Alario,h,6338,FromCorner,2017,RightFoot,8474,Bayer Leverkusen,Schalke 04,0,2,2018-02-25 14:30:00,Wendell,Cross
+198731,18,MissedShots,0.909000015258789,0.585,0.06686689704656601,Lucas Alario,a,6338,SetPiece,2017,Head,8483,Wolfsburg,Bayer Leverkusen,1,2,2018-03-03 14:30:00,Charles Aránguiz,Cross
+198733,30,Goal,0.885,0.5,0.7577769756317139,Lucas Alario,a,6338,Penalty,2017,RightFoot,8483,Wolfsburg,Bayer Leverkusen,1,2,2018-03-03 14:30:00,,Standard
+198740,55,MissedShots,0.865999984741211,0.48900001525878906,0.040348999202251434,Lucas Alario,a,6338,OpenPlay,2017,Head,8483,Wolfsburg,Bayer Leverkusen,1,2,2018-03-03 14:30:00,Karim Bellarabi,Chipped
+200179,30,BlockedShot,0.81,0.43599998474121093,0.055631399154663086,Lucas Alario,h,6338,OpenPlay,2017,RightFoot,8492,Bayer Leverkusen,Borussia M.Gladbach,2,0,2018-03-10 17:30:00,Kevin Volland,Pass
+200181,38,Goal,0.955,0.5029999923706054,0.6107890009880066,Lucas Alario,h,6338,OpenPlay,2017,LeftFoot,8492,Bayer Leverkusen,Borussia M.Gladbach,2,0,2018-03-10 17:30:00,Kevin Volland,HeadPass
+200182,42,MissedShots,0.8880000305175781,0.534000015258789,0.09077750146389008,Lucas Alario,h,6338,OpenPlay,2017,Head,8492,Bayer Leverkusen,Borussia M.Gladbach,2,0,2018-03-10 17:30:00,Wendell,Cross
+200183,44,MissedShots,0.8159999847412109,0.6940000152587891,0.03623810037970543,Lucas Alario,h,6338,OpenPlay,2017,RightFoot,8492,Bayer Leverkusen,Borussia M.Gladbach,2,0,2018-03-10 17:30:00,Julian Baumgartlinger,Pass
+200185,47,MissedShots,0.89,0.4540000152587891,0.08811470121145248,Lucas Alario,h,6338,OpenPlay,2017,Head,8492,Bayer Leverkusen,Borussia M.Gladbach,2,0,2018-03-10 17:30:00,Leon Bailey,Cross
+200187,62,SavedShot,0.9440000152587891,0.5129999923706055,0.1593639999628067,Lucas Alario,h,6338,OpenPlay,2017,LeftFoot,8492,Bayer Leverkusen,Borussia M.Gladbach,2,0,2018-03-10 17:30:00,Kevin Volland,Rebound
+202087,21,MissedShots,0.8130000305175781,0.639000015258789,0.03994720056653023,Lucas Alario,a,6338,OpenPlay,2017,LeftFoot,8498,FC Cologne,Bayer Leverkusen,2,0,2018-03-18 14:30:00,Julian Brandt,Pass
+202088,25,SavedShot,0.9130000305175782,0.485,0.04782230034470558,Lucas Alario,a,6338,OpenPlay,2017,Head,8498,FC Cologne,Bayer Leverkusen,2,0,2018-03-18 14:30:00,Wendell,HeadPass
+210565,7,MissedShots,0.9080000305175782,0.6819999694824219,0.08274929970502853,Lucas Alario,a,6338,OpenPlay,2017,LeftFoot,8529,Borussia Dortmund,Bayer Leverkusen,4,0,2018-04-21 16:30:00,Julian Brandt,Pass
+210569,13,BlockedShot,0.97,0.6759999847412109,0.05638039857149124,Lucas Alario,a,6338,OpenPlay,2017,LeftFoot,8529,Borussia Dortmund,Bayer Leverkusen,4,0,2018-04-21 16:30:00,Julian Brandt,Pass
+211931,7,SavedShot,0.8959999847412109,0.40299999237060546,0.03165990114212036,Lucas Alario,h,6338,OpenPlay,2017,Head,8544,Bayer Leverkusen,VfB Stuttgart,0,1,2018-04-28 16:30:00,Leon Bailey,Chipped
+211932,16,SavedShot,0.885,0.5,0.7577769756317139,Lucas Alario,h,6338,Penalty,2017,RightFoot,8544,Bayer Leverkusen,VfB Stuttgart,0,1,2018-04-28 16:30:00,,Standard
+211944,52,MissedShots,0.9390000152587891,0.5129999923706055,0.12806400656700134,Lucas Alario,h,6338,FromCorner,2017,Head,8544,Bayer Leverkusen,VfB Stuttgart,0,1,2018-04-28 16:30:00,Leon Bailey,Cross
+211951,77,MissedShots,0.8059999847412109,0.38599998474121094,0.040136899799108505,Lucas Alario,h,6338,OpenPlay,2017,LeftFoot,8544,Bayer Leverkusen,VfB Stuttgart,0,1,2018-04-28 16:30:00,Stefan Kießling,Pass
+211954,93,SavedShot,0.9069999694824219,0.595999984741211,0.024025699123740196,Lucas Alario,h,6338,OpenPlay,2017,Head,8544,Bayer Leverkusen,VfB Stuttgart,0,1,2018-04-28 16:30:00,Leon Bailey,Aerial
+213289,83,BlockedShot,0.8380000305175781,0.48700000762939455,0.08293239772319794,Lucas Alario,a,6338,OpenPlay,2017,RightFoot,8553,Werder Bremen,Bayer Leverkusen,0,0,2018-05-05 14:30:00,Karim Bellarabi,Pass
+214608,2,Goal,0.899000015258789,0.6969999694824218,0.051487598568201065,Lucas Alario,h,6338,OpenPlay,2017,LeftFoot,8561,Bayer Leverkusen,Hannover 96,3,2,2018-05-12 14:30:00,Charles Aránguiz,Chipped
+214616,17,Goal,0.9619999694824218,0.4420000076293945,0.9189810156822205,Lucas Alario,h,6338,OpenPlay,2017,RightFoot,8561,Bayer Leverkusen,Hannover 96,3,2,2018-05-12 14:30:00,,TakeOn
+214622,46,BlockedShot,0.92,0.3220000076293945,0.09599520266056061,Lucas Alario,h,6338,OpenPlay,2017,RightFoot,8561,Bayer Leverkusen,Hannover 96,3,2,2018-05-12 14:30:00,Kai Havertz,Pass
+214624,49,MissedShots,0.95,0.5879999923706055,0.12594500184059143,Lucas Alario,h,6338,OpenPlay,2017,Head,8561,Bayer Leverkusen,Hannover 96,3,2,2018-05-12 14:30:00,Leon Bailey,Cross
+214625,51,SavedShot,0.95,0.5270000076293946,0.5562329888343811,Lucas Alario,h,6338,OpenPlay,2017,Head,8561,Bayer Leverkusen,Hannover 96,3,2,2018-05-12 14:30:00,Leon Bailey,Cross
+214628,56,BlockedShot,0.894000015258789,0.28299999237060547,0.04523710161447525,Lucas Alario,h,6338,OpenPlay,2017,RightFoot,8561,Bayer Leverkusen,Hannover 96,3,2,2018-05-12 14:30:00,,None
+214634,67,BlockedShot,0.8719999694824219,0.580999984741211,0.31219398975372314,Lucas Alario,h,6338,OpenPlay,2017,RightFoot,8561,Bayer Leverkusen,Hannover 96,3,2,2018-05-12 14:30:00,Kai Havertz,Pass
+220310,16,BlockedShot,0.749000015258789,0.54,0.02424119971692562,Lucas Alario,a,6338,OpenPlay,2018,RightFoot,10343,Borussia M.Gladbach,Bayer Leverkusen,2,0,2018-08-25 19:30:00,Leon Bailey,Pass
+220330,70,MissedShots,0.905,0.5509999847412109,0.06377729773521423,Lucas Alario,a,6338,FromCorner,2018,Head,10343,Borussia M.Gladbach,Bayer Leverkusen,2,0,2018-08-25 19:30:00,Leon Bailey,Cross
+220334,85,SavedShot,0.91,0.555,0.0830330029129982,Lucas Alario,a,6338,OpenPlay,2018,Head,10343,Borussia M.Gladbach,Bayer Leverkusen,2,0,2018-08-25 19:30:00,Mitchell Weiser,Cross
+221620,1,BlockedShot,0.9019999694824219,0.40900001525878904,0.08058329671621323,Lucas Alario,h,6338,FromCorner,2018,RightFoot,10351,Bayer Leverkusen,Wolfsburg,1,3,2018-09-01 13:30:00,,None
+221643,65,MissedShots,0.92,0.4540000152587891,0.12450999766588211,Lucas Alario,h,6338,SetPiece,2018,Head,10351,Bayer Leverkusen,Wolfsburg,1,3,2018-09-01 13:30:00,Kevin Volland,Cross
+225837,18,MissedShots,0.8680000305175781,0.4909999847412109,0.019660500809550285,Lucas Alario,h,6338,OpenPlay,2018,Head,10371,Bayer Leverkusen,Mainz 05,1,0,2018-09-23 13:30:00,Jonathan Tah,Aerial
+225844,39,BlockedShot,0.9359999847412109,0.4370000076293945,0.10416100174188614,Lucas Alario,h,6338,OpenPlay,2018,LeftFoot,10371,Bayer Leverkusen,Mainz 05,1,0,2018-09-23 13:30:00,Mitchell Weiser,Cross
+225858,72,MissedShots,0.8490000152587891,0.5840000152587891,0.019703399389982224,Lucas Alario,h,6338,SetPiece,2018,Head,10371,Bayer Leverkusen,Mainz 05,1,0,2018-09-23 13:30:00,Leon Bailey,Cross
+228233,17,SavedShot,0.8819999694824219,0.5379999923706055,0.06926870346069336,Lucas Alario,h,6338,OpenPlay,2018,Head,10388,Bayer Leverkusen,Borussia Dortmund,2,4,2018-09-29 16:30:00,Mitchell Weiser,Cross
+228235,38,BlockedShot,0.9069999694824219,0.4279999923706055,0.017797300592064857,Lucas Alario,h,6338,FromCorner,2018,Head,10388,Bayer Leverkusen,Borussia Dortmund,2,4,2018-09-29 16:30:00,Julian Brandt,Aerial
+255353,41,MissedShots,0.875999984741211,0.7169999694824218,0.036663200706243515,Lucas Alario,a,6338,OpenPlay,2018,LeftFoot,10397,Freiburg,Bayer Leverkusen,0,0,2018-10-07 11:30:00,Julian Brandt,Pass
+255355,52,MissedShots,0.9130000305175782,0.575,0.1284410059452057,Lucas Alario,a,6338,OpenPlay,2018,LeftFoot,10397,Freiburg,Bayer Leverkusen,0,0,2018-10-07 11:30:00,Julian Brandt,Pass
+255358,57,MissedShots,0.9740000152587891,0.6079999923706054,0.02372319996356964,Lucas Alario,a,6338,OpenPlay,2018,Head,10397,Freiburg,Bayer Leverkusen,0,0,2018-10-07 11:30:00,Kevin Volland,Aerial
+255447,9,BlockedShot,0.8830000305175781,0.5670000076293945,0.013536299578845501,Lucas Alario,h,6338,FromCorner,2018,Head,10401,Bayer Leverkusen,Hannover 96,2,2,2018-10-20 13:30:00,Julian Brandt,Aerial
+255458,41,MissedShots,0.8830000305175781,0.43099998474121093,0.02747589908540249,Lucas Alario,h,6338,FromCorner,2018,Head,10401,Bayer Leverkusen,Hannover 96,2,2,2018-10-20 13:30:00,Julian Brandt,Cross
+255465,62,MissedShots,0.9259999847412109,0.59,0.07138189673423767,Lucas Alario,h,6338,OpenPlay,2018,Head,10401,Bayer Leverkusen,Hannover 96,2,2,2018-10-20 13:30:00,Mitchell Weiser,Cross
+255467,73,MissedShots,0.8959999847412109,0.5609999847412109,0.020049599930644035,Lucas Alario,h,6338,SetPiece,2018,Head,10401,Bayer Leverkusen,Hannover 96,2,2,2018-10-20 13:30:00,Julian Brandt,Aerial
+256377,77,MissedShots,0.909000015258789,0.46099998474121096,0.10629100352525711,Lucas Alario,a,6338,OpenPlay,2018,Head,10429,RasenBallsport Leipzig,Bayer Leverkusen,3,0,2018-11-11 14:30:00,Dominik Kohr,Cross
+257067,74,Goal,0.909000015258789,0.45599998474121095,0.13506799936294556,Lucas Alario,h,6338,OpenPlay,2018,RightFoot,10456,Bayer Leverkusen,Augsburg,1,0,2018-12-08 14:30:00,Lars Bender,Pass
+257537,34,Goal,0.85,0.6270000076293946,0.03700689971446991,Lucas Alario,a,6338,OpenPlay,2018,LeftFoot,10473,Schalke 04,Bayer Leverkusen,1,2,2018-12-19 17:30:00,Wendell,Cross
+278801,86,Goal,0.9159999847412109,0.5690000152587891,0.44147199392318726,Lucas Alario,h,6338,OpenPlay,2018,LeftFoot,10508,Bayer Leverkusen,Bayern Munich,3,1,2019-02-02 14:30:00,Julian Brandt,Pass
+278981,83,SavedShot,0.9119999694824219,0.555,0.07109779864549637,Lucas Alario,a,6338,FromCorner,2018,Head,10524,Mainz 05,Bayer Leverkusen,1,5,2019-02-08 19:30:00,Leon Bailey,Cross
+279329,55,SavedShot,0.8690000152587891,0.5359999847412109,0.10751999914646149,Lucas Alario,h,6338,OpenPlay,2018,RightFoot,10527,Bayer Leverkusen,Fortuna Duesseldorf,2,0,2019-02-17 17:00:00,,Rebound
+279332,67,MissedShots,0.8969999694824219,0.6530000305175782,0.13399000465869904,Lucas Alario,h,6338,OpenPlay,2018,LeftFoot,10527,Bayer Leverkusen,Fortuna Duesseldorf,2,0,2019-02-17 17:00:00,Julian Brandt,Throughball
+279333,75,BlockedShot,0.9159999847412109,0.5829999923706055,0.1280899941921234,Lucas Alario,h,6338,OpenPlay,2018,LeftFoot,10527,Bayer Leverkusen,Fortuna Duesseldorf,2,0,2019-02-17 17:00:00,Kevin Volland,Cross
+279334,87,MissedShots,0.779000015258789,0.3659999847412109,0.031683299690485,Lucas Alario,h,6338,OpenPlay,2018,RightFoot,10527,Bayer Leverkusen,Fortuna Duesseldorf,2,0,2019-02-17 17:00:00,Kevin Volland,Pass
+279553,71,SavedShot,0.9130000305175782,0.5,0.29475298523902893,Lucas Alario,a,6338,OpenPlay,2018,Head,10536,Borussia Dortmund,Bayer Leverkusen,3,2,2019-02-24 17:00:00,Kevin Volland,Cross
+291883,73,MissedShots,0.899000015258789,0.44299999237060544,0.138045996427536,Lucas Alario,h,6338,OpenPlay,2018,Head,10582,Bayer Leverkusen,RasenBallsport Leipzig,2,4,2019-04-06 14:30:00,Wendell,Chipped
+293434,83,SavedShot,0.9080000305175782,0.5429999923706055,0.05096320062875748,Lucas Alario,a,6338,OpenPlay,2018,Head,10592,VfB Stuttgart,Bayer Leverkusen,0,1,2019-04-13 14:30:00,Charles Aránguiz,Chipped
+295149,47,SavedShot,0.9280000305175782,0.47,0.13760599493980408,Lucas Alario,h,6338,OpenPlay,2018,Head,10599,Bayer Leverkusen,Nuernberg,2,0,2019-04-20 14:30:00,Kevin Volland,Cross
+295154,60,Goal,0.9290000152587891,0.5720000076293945,0.0810936987400055,Lucas Alario,h,6338,FromCorner,2018,Head,10599,Bayer Leverkusen,Nuernberg,2,0,2019-04-20 14:30:00,Julian Brandt,Cross
+295155,62,SavedShot,0.8590000152587891,0.355,0.07459139823913574,Lucas Alario,h,6338,OpenPlay,2018,RightFoot,10599,Bayer Leverkusen,Nuernberg,2,0,2019-04-20 14:30:00,Mitchell Weiser,Pass
+297108,6,MissedShots,0.91,0.5279999923706055,0.05314350128173828,Lucas Alario,a,6338,OpenPlay,2018,OtherBodyPart,10612,Augsburg,Bayer Leverkusen,1,4,2019-04-26 19:30:00,Mitchell Weiser,Aerial
+297115,28,MissedShots,0.925,0.5829999923706055,0.3201049864292145,Lucas Alario,a,6338,OpenPlay,2018,RightFoot,10612,Augsburg,Bayer Leverkusen,1,4,2019-04-26 19:30:00,Mitchell Weiser,Chipped
+297118,46,ShotOnPost,0.9159999847412109,0.5920000076293945,0.40400800108909607,Lucas Alario,a,6338,OpenPlay,2018,RightFoot,10612,Augsburg,Bayer Leverkusen,1,4,2019-04-26 19:30:00,Charles Aránguiz,Pass
+300201,22,Goal,0.9619999694824218,0.4809999847412109,0.15817199647426605,Lucas Alario,h,6338,OpenPlay,2018,Head,10618,Bayer Leverkusen,Eintracht Frankfurt,6,1,2019-05-05 17:00:00,Lars Bender,Cross
+300205,33,Goal,0.965999984741211,0.48200000762939454,0.8182910084724426,Lucas Alario,h,6338,OpenPlay,2018,LeftFoot,10618,Bayer Leverkusen,Eintracht Frankfurt,6,1,2019-05-05 17:00:00,Kevin Volland,Pass
+300755,20,MissedShots,0.9640000152587891,0.5879999923706055,0.10637900233268738,Lucas Alario,h,6338,OpenPlay,2018,RightFoot,10627,Bayer Leverkusen,Schalke 04,1,1,2019-05-11 14:30:00,Kevin Volland,HeadPass
+300768,61,MissedShots,0.74,0.41200000762939454,0.018342800438404083,Lucas Alario,h,6338,OpenPlay,2018,RightFoot,10627,Bayer Leverkusen,Schalke 04,1,1,2019-05-11 14:30:00,Mitchell Weiser,BallRecovery
+302362,37,Goal,0.9019999694824219,0.575,0.3795729875564575,Lucas Alario,a,6338,OpenPlay,2018,RightFoot,10638,Hertha Berlin,Bayer Leverkusen,1,5,2019-05-18 13:30:00,Wendell,Pass
+302368,71,Goal,0.9930000305175781,0.4640000152587891,0.8954229950904846,Lucas Alario,a,6338,OpenPlay,2018,Head,10638,Hertha Berlin,Bayer Leverkusen,1,5,2019-05-18 13:30:00,Kevin Volland,Rebound
+302370,87,Goal,0.915,0.5029999923706054,0.559918999671936,Lucas Alario,a,6338,OpenPlay,2018,LeftFoot,10638,Hertha Berlin,Bayer Leverkusen,1,5,2019-05-18 13:30:00,Lars Bender,Pass
+312406,88,SavedShot,0.8519999694824218,0.33,0.0660163015127182,Lucas Alario,a,6338,OpenPlay,2019,RightFoot,12415,Fortuna Duesseldorf,Bayer Leverkusen,1,3,2019-08-24 14:30:00,Nadiem Amiri,Pass
+320248,24,Goal,0.779000015258789,0.49900001525878906,0.045062899589538574,Lucas Alario,h,6338,OpenPlay,2019,LeftFoot,12443,Bayer Leverkusen,Union Berlin,2,0,2019-09-21 13:30:00,Wendell,Pass
+322486,32,SavedShot,0.7630000305175781,0.28899999618530275,0.021383199840784073,Lucas Alario,a,6338,OpenPlay,2019,RightFoot,12451,Augsburg,Bayer Leverkusen,0,3,2019-09-28 13:30:00,Charles Aránguiz,Pass
+325187,14,MissedShots,0.8059999847412109,0.49599998474121093,0.04496850073337555,Lucas Alario,a,6338,OpenPlay,2019,RightFoot,12471,Eintracht Frankfurt,Bayer Leverkusen,3,0,2019-10-18 19:30:00,Kai Havertz,Pass
+325192,38,MissedShots,0.9619999694824218,0.355,0.06770709902048111,Lucas Alario,a,6338,SetPiece,2019,RightFoot,12471,Eintracht Frankfurt,Bayer Leverkusen,3,0,2019-10-18 19:30:00,Kai Havertz,BallTouch
+325195,41,SavedShot,0.840999984741211,0.49599998474121093,0.050158098340034485,Lucas Alario,a,6338,OpenPlay,2019,RightFoot,12471,Eintracht Frankfurt,Bayer Leverkusen,3,0,2019-10-18 19:30:00,Karim Bellarabi,Chipped
+325201,65,SavedShot,0.925,0.47900001525878905,0.3381649851799011,Lucas Alario,a,6338,OpenPlay,2019,Head,12471,Eintracht Frankfurt,Bayer Leverkusen,3,0,2019-10-18 19:30:00,Kevin Volland,Cross
+325207,75,MissedShots,0.9,0.4929999923706055,0.06920859962701797,Lucas Alario,a,6338,FromCorner,2019,Head,12471,Eintracht Frankfurt,Bayer Leverkusen,3,0,2019-10-18 19:30:00,Nadiem Amiri,Cross
+327390,3,MissedShots,0.9440000152587891,0.39,0.01583239994943142,Lucas Alario,h,6338,FromCorner,2019,Head,12475,Bayer Leverkusen,Werder Bremen,2,2,2019-10-26 17:30:00,Kerem Demirbay,Aerial
+327394,24,BlockedShot,0.9719999694824218,0.62,0.09597250074148178,Lucas Alario,h,6338,OpenPlay,2019,LeftFoot,12475,Bayer Leverkusen,Werder Bremen,2,2,2019-10-26 17:30:00,,None
+327395,26,MissedShots,0.95,0.45099998474121095,0.07154010236263275,Lucas Alario,h,6338,FromCorner,2019,Head,12475,Bayer Leverkusen,Werder Bremen,2,2,2019-10-26 17:30:00,Kerem Demirbay,Aerial
+327406,45,MissedShots,0.8830000305175781,0.42900001525878906,0.09312059730291367,Lucas Alario,h,6338,OpenPlay,2019,RightFoot,12475,Bayer Leverkusen,Werder Bremen,2,2,2019-10-26 17:30:00,,Rebound
+327409,57,Goal,0.95,0.45799999237060546,0.5014749765396118,Lucas Alario,h,6338,OpenPlay,2019,RightFoot,12475,Bayer Leverkusen,Werder Bremen,2,2,2019-10-26 17:30:00,Karim Bellarabi,Cross
+327415,66,ShotOnPost,0.909000015258789,0.395,0.04831999912858009,Lucas Alario,h,6338,OpenPlay,2019,Head,12475,Bayer Leverkusen,Werder Bremen,2,2,2019-10-26 17:30:00,Nadiem Amiri,Cross
+329099,5,MissedShots,0.9009999847412109,0.5279999923706055,0.02765039913356304,Lucas Alario,h,6338,FromCorner,2019,Head,12486,Bayer Leverkusen,Borussia M.Gladbach,1,2,2019-11-02 14:30:00,,Aerial
+329111,44,MissedShots,0.8490000152587891,0.505,0.3755449950695038,Lucas Alario,h,6338,OpenPlay,2019,RightFoot,12486,Bayer Leverkusen,Borussia M.Gladbach,1,2,2019-11-02 14:30:00,,None
+329117,57,MissedShots,0.8959999847412109,0.575999984741211,0.09617120027542114,Lucas Alario,h,6338,OpenPlay,2019,RightFoot,12486,Bayer Leverkusen,Borussia M.Gladbach,1,2,2019-11-02 14:30:00,Kai Havertz,Pass
+329120,62,MissedShots,0.9530000305175781,0.42200000762939455,0.10125099867582321,Lucas Alario,h,6338,FromCorner,2019,Head,12486,Bayer Leverkusen,Borussia M.Gladbach,1,2,2019-11-02 14:30:00,Kerem Demirbay,Cross
+329125,73,MissedShots,0.960999984741211,0.6659999847412109,0.012036300264298916,Lucas Alario,h,6338,FromCorner,2019,Head,12486,Bayer Leverkusen,Borussia M.Gladbach,1,2,2019-11-02 14:30:00,Nadiem Amiri,Aerial
+329127,80,BlockedShot,0.955,0.580999984741211,0.10152299702167511,Lucas Alario,h,6338,OpenPlay,2019,RightFoot,12486,Bayer Leverkusen,Borussia M.Gladbach,1,2,2019-11-02 14:30:00,Karim Bellarabi,Cross
+332142,87,BlockedShot,0.9630000305175781,0.34299999237060547,0.038308799266815186,Lucas Alario,h,6338,FromCorner,2019,RightFoot,12503,Bayer Leverkusen,Freiburg,1,1,2019-11-23 14:30:00,Kerem Demirbay,Cross
+335876,14,Goal,0.9690000152587891,0.519000015258789,0.544668972492218,Lucas Alario,h,6338,FromCorner,2019,Head,12522,Bayer Leverkusen,Schalke 04,2,1,2019-12-07 17:30:00,Leon Bailey,Cross
+335878,17,MissedShots,0.9130000305175782,0.4879999923706055,0.03949639946222305,Lucas Alario,h,6338,FromCorner,2019,Head,12522,Bayer Leverkusen,Schalke 04,2,1,2019-12-07 17:30:00,Leon Bailey,Aerial
+335884,39,SavedShot,0.899000015258789,0.519000015258789,0.4833790063858032,Lucas Alario,h,6338,OpenPlay,2019,RightFoot,12522,Bayer Leverkusen,Schalke 04,2,1,2019-12-07 17:30:00,Charles Aránguiz,Pass
+335893,80,Goal,0.9490000152587891,0.5640000152587891,0.5766689777374268,Lucas Alario,h,6338,OpenPlay,2019,RightFoot,12522,Bayer Leverkusen,Schalke 04,2,1,2019-12-07 17:30:00,Charles Aránguiz,Pass
+338064,17,SavedShot,0.9490000152587891,0.745,0.10672900080680847,Lucas Alario,h,6338,OpenPlay,2019,RightFoot,12539,Bayer Leverkusen,Hertha Berlin,0,1,2019-12-18 17:30:00,Daley Sinkgraven,Throughball
+338068,29,MissedShots,0.8919999694824219,0.46599998474121096,0.02494869939982891,Lucas Alario,h,6338,SetPiece,2019,Head,12539,Bayer Leverkusen,Hertha Berlin,0,1,2019-12-18 17:30:00,Nadiem Amiri,Aerial
+338075,47,MissedShots,0.9280000305175782,0.6959999847412109,0.17881399393081665,Lucas Alario,h,6338,OpenPlay,2019,RightFoot,12539,Bayer Leverkusen,Hertha Berlin,0,1,2019-12-18 17:30:00,Daley Sinkgraven,Pass
+338528,81,MissedShots,0.9430000305175781,0.5690000152587891,0.10921300202608109,Lucas Alario,a,6338,OpenPlay,2019,RightFoot,12552,Mainz 05,Bayer Leverkusen,0,1,2019-12-21 14:30:00,Kevin Volland,Cross
+338538,92,Goal,0.975,0.4520000076293945,0.7203840017318726,Lucas Alario,a,6338,OpenPlay,2019,RightFoot,12552,Mainz 05,Bayer Leverkusen,0,1,2019-12-21 14:30:00,Kevin Volland,Pass
+355328,80,SavedShot,0.9119999694824219,0.5770000076293945,0.054671600461006165,Lucas Alario,a,6338,FromCorner,2019,Head,12564,Paderborn,Bayer Leverkusen,1,4,2020-01-19 17:00:00,Kerem Demirbay,Cross
+356376,88,Goal,0.885,0.5,0.7577769756317139,Lucas Alario,h,6338,Penalty,2019,RightFoot,12567,Bayer Leverkusen,Fortuna Duesseldorf,3,0,2020-01-26 17:00:00,,Standard
+356633,76,SavedShot,0.9209999847412109,0.4640000152587891,0.09928900003433228,Lucas Alario,a,6338,FromCorner,2019,Head,12576,Hoffenheim,Bayer Leverkusen,2,1,2020-02-01 14:30:00,Kerem Demirbay,Cross
+360250,22,BlockedShot,0.749000015258789,0.3509999847412109,0.022244499996304512,Lucas Alario,h,6338,OpenPlay,2019,RightFoot,12602,Bayer Leverkusen,Augsburg,2,0,2020-02-23 14:30:00,Exequiel Palacios,Pass
+361350,28,SavedShot,0.865999984741211,0.4540000152587891,0.03545070067048073,Lucas Alario,a,6338,OpenPlay,2019,Head,12611,RasenBallsport Leipzig,Bayer Leverkusen,1,1,2020-03-01 14:30:00,Kai Havertz,Chipped
+361354,41,SavedShot,0.8619999694824219,0.38799999237060545,0.09935659915208817,Lucas Alario,a,6338,OpenPlay,2019,RightFoot,12611,RasenBallsport Leipzig,Bayer Leverkusen,1,1,2020-03-01 14:30:00,,None
+361366,88,BlockedShot,0.915,0.43099998474121093,0.06813430041074753,Lucas Alario,a,6338,FromCorner,2019,RightFoot,12611,RasenBallsport Leipzig,Bayer Leverkusen,1,1,2020-03-01 14:30:00,Kerem Demirbay,Cross
+363405,84,BlockedShot,0.9309999847412109,0.44599998474121094,0.45194000005722046,Lucas Alario,h,6338,OpenPlay,2019,RightFoot,12654,Bayer Leverkusen,Wolfsburg,1,4,2020-05-26 18:30:00,Florian Wirtz,Pass
+363868,8,Goal,0.9259999847412109,0.6020000076293945,0.30465999245643616,Lucas Alario,h,6338,OpenPlay,2019,RightFoot,12666,Bayer Leverkusen,Bayern Munich,2,4,2020-06-06 13:30:00,Julian Baumgartlinger,Chipped
+363882,54,BlockedShot,0.9690000152587891,0.3970000076293945,0.05940379947423935,Lucas Alario,h,6338,OpenPlay,2019,Head,12666,Bayer Leverkusen,Bayern Munich,2,4,2020-06-06 13:30:00,Moussa Diaby,Cross
+363887,71,MissedShots,0.909000015258789,0.5720000076293945,0.0459308996796608,Lucas Alario,h,6338,OpenPlay,2019,Head,12666,Bayer Leverkusen,Bayern Munich,2,4,2020-06-06 13:30:00,Wendell,Aerial
+364410,22,BlockedShot,0.9590000152587891,0.5609999847412109,0.14269499480724335,Lucas Alario,a,6338,OpenPlay,2019,Head,12679,Schalke 04,Bayer Leverkusen,1,1,2020-06-14 16:00:00,Mitchell Weiser,Cross
+364417,54,MissedShots,0.8959999847412109,0.5070000076293946,0.07576020061969757,Lucas Alario,a,6338,OpenPlay,2019,Head,12679,Schalke 04,Bayer Leverkusen,1,1,2020-06-14 16:00:00,Kai Havertz,Cross
+364418,57,SavedShot,0.8769999694824219,0.76,0.024985700845718384,Lucas Alario,a,6338,OpenPlay,2019,RightFoot,12679,Schalke 04,Bayer Leverkusen,1,1,2020-06-14 16:00:00,Wendell,Pass
+364419,62,BlockedShot,0.9209999847412109,0.41900001525878905,0.06188559904694557,Lucas Alario,a,6338,FromCorner,2019,Head,12679,Schalke 04,Bayer Leverkusen,1,1,2020-06-14 16:00:00,Kerem Demirbay,Cross
+364423,72,BlockedShot,0.8159999847412109,0.48700000762939455,0.059765201061964035,Lucas Alario,a,6338,OpenPlay,2019,RightFoot,12679,Schalke 04,Bayer Leverkusen,1,1,2020-06-14 16:00:00,Moussa Diaby,Pass
+364424,75,MissedShots,0.764000015258789,0.51,0.028042299672961235,Lucas Alario,a,6338,OpenPlay,2019,RightFoot,12679,Schalke 04,Bayer Leverkusen,1,1,2020-06-14 16:00:00,Paulinho,Pass
+364426,81,SavedShot,0.82,0.5659999847412109,0.010580199770629406,Lucas Alario,a,6338,OpenPlay,2019,Head,12679,Schalke 04,Bayer Leverkusen,1,1,2020-06-14 16:00:00,Daley Sinkgraven,Cross
+364427,83,BlockedShot,0.8580000305175781,0.5659999847412109,0.0975681021809578,Lucas Alario,a,6338,OpenPlay,2019,RightFoot,12679,Schalke 04,Bayer Leverkusen,1,1,2020-06-14 16:00:00,Paulinho,Pass
+378206,2,SavedShot,0.9290000152587891,0.6029999923706054,0.016291700303554535,Lucas Alario,a,6338,FromCorner,2020,Head,14181,Wolfsburg,Bayer Leverkusen,0,0,2020-09-20 16:00:00,Kerem Demirbay,Aerial
+378208,16,BlockedShot,0.9340000152587891,0.605999984741211,0.040335699915885925,Lucas Alario,a,6338,FromCorner,2020,Head,14181,Wolfsburg,Bayer Leverkusen,0,0,2020-09-20 16:00:00,Sven Bender,HeadPass
+378215,58,MissedShots,0.8830000305175781,0.524000015258789,0.026874899864196777,Lucas Alario,a,6338,OpenPlay,2020,Head,14181,Wolfsburg,Bayer Leverkusen,0,0,2020-09-20 16:00:00,Karim Bellarabi,Aerial
+380523,60,SavedShot,0.914000015258789,0.5520000076293945,0.2886910140514374,Lucas Alario,a,6338,OpenPlay,2020,Head,15161,VfB Stuttgart,Bayer Leverkusen,1,1,2020-10-03 13:30:00,Karim Bellarabi,Cross
+381860,29,Goal,0.9290000152587891,0.5020000076293946,0.06164969876408577,Lucas Alario,a,6338,FromCorner,2020,Head,15171,Mainz 05,Bayer Leverkusen,0,1,2020-10-17 13:30:00,Leon Bailey,Aerial
+381868,56,SavedShot,0.914000015258789,0.53,0.12737800180912018,Lucas Alario,a,6338,OpenPlay,2020,Head,15171,Mainz 05,Bayer Leverkusen,0,1,2020-10-17 13:30:00,Leon Bailey,Cross
+384217,14,BlockedShot,0.91,0.4370000076293945,0.06333789974451065,Lucas Alario,h,6338,FromCorner,2020,Head,15184,Bayer Leverkusen,Augsburg,3,1,2020-10-26 19:30:00,Nadiem Amiri,Cross
+384218,15,Goal,0.885,0.5,0.7577769756317139,Lucas Alario,h,6338,Penalty,2020,RightFoot,15184,Bayer Leverkusen,Augsburg,3,1,2020-10-26 19:30:00,,Standard
+384223,41,MissedShots,0.875999984741211,0.4929999923706055,0.09194549918174744,Lucas Alario,h,6338,OpenPlay,2020,RightFoot,15184,Bayer Leverkusen,Augsburg,3,1,2020-10-26 19:30:00,Exequiel Palacios,Cross
+384225,44,SavedShot,0.875,0.685,0.06541039794683456,Lucas Alario,h,6338,OpenPlay,2020,LeftFoot,15184,Bayer Leverkusen,Augsburg,3,1,2020-10-26 19:30:00,Daley Sinkgraven,Pass
+384233,71,ShotOnPost,0.919000015258789,0.5220000076293946,0.05992789939045906,Lucas Alario,h,6338,OpenPlay,2020,Head,15184,Bayer Leverkusen,Augsburg,3,1,2020-10-26 19:30:00,Moussa Diaby,Aerial
+384234,73,Goal,0.865,0.485,0.11894100159406662,Lucas Alario,h,6338,SetPiece,2020,Head,15184,Bayer Leverkusen,Augsburg,3,1,2020-10-26 19:30:00,Nadiem Amiri,Cross
+385190,28,Goal,0.8819999694824219,0.31799999237060544,0.23512500524520874,Lucas Alario,a,6338,OpenPlay,2020,RightFoot,15191,Freiburg,Bayer Leverkusen,2,4,2020-11-01 14:30:00,,BallRecovery
+385192,41,BlockedShot,0.8430000305175781,0.509000015258789,0.06737139821052551,Lucas Alario,a,6338,OpenPlay,2020,LeftFoot,15191,Freiburg,Bayer Leverkusen,2,4,2020-11-01 14:30:00,,None
+385193,41,Goal,0.9009999847412109,0.4759999847412109,0.4440850019454956,Lucas Alario,a,6338,OpenPlay,2020,RightFoot,15191,Freiburg,Bayer Leverkusen,2,4,2020-11-01 14:30:00,Lars Bender,Pass
+386789,12,BlockedShot,0.8819999694824219,0.40299999237060546,0.09131869673728943,Lucas Alario,h,6338,OpenPlay,2020,LeftFoot,15202,Bayer Leverkusen,Borussia M.Gladbach,4,3,2020-11-08 17:00:00,Leon Bailey,Pass
+386792,26,Goal,0.855999984741211,0.65,0.08293340355157852,Lucas Alario,h,6338,OpenPlay,2020,RightFoot,15202,Bayer Leverkusen,Borussia M.Gladbach,4,3,2020-11-08 17:00:00,Moussa Diaby,Pass
+386800,40,Goal,0.95,0.5179999923706055,0.13662199676036835,Lucas Alario,h,6338,OpenPlay,2020,Head,15202,Bayer Leverkusen,Borussia M.Gladbach,4,3,2020-11-08 17:00:00,Florian Wirtz,Cross
+387325,33,BlockedShot,0.8490000152587891,0.5359999847412109,0.09591399878263474,Lucas Alario,a,6338,OpenPlay,2020,RightFoot,15207,Arminia Bielefeld,Bayer Leverkusen,1,2,2020-11-21 14:30:00,Florian Wirtz,BallTouch
+387327,49,MissedShots,0.9130000305175782,0.35700000762939454,0.08647479861974716,Lucas Alario,a,6338,OpenPlay,2020,RightFoot,15207,Arminia Bielefeld,Bayer Leverkusen,1,2,2020-11-21 14:30:00,Leon Bailey,Pass
+392379,90,Goal,0.885,0.5,0.7577769756317139,Lucas Alario,h,6338,Penalty,2020,RightFoot,15233,Bayer Leverkusen,Hoffenheim,4,1,2020-12-13 17:00:00,,Standard
+396416,69,MissedShots,0.8159999847412109,0.5370000076293945,0.032565098255872726,Lucas Alario,a,6338,FromCorner,2020,LeftFoot,15260,Eintracht Frankfurt,Bayer Leverkusen,2,1,2021-01-02 14:30:00,Kerem Demirbay,Chipped
+397874,63,BlockedShot,0.8180000305175781,0.5609999847412109,0.04073429852724075,Lucas Alario,h,6338,OpenPlay,2020,RightFoot,15268,Bayer Leverkusen,Werder Bremen,1,1,2021-01-09 14:30:00,Leon Bailey,Chipped
+399792,8,MissedShots,0.794000015258789,0.495,0.047038499265909195,Lucas Alario,h,6338,OpenPlay,2020,LeftFoot,15286,Bayer Leverkusen,Borussia Dortmund,2,1,2021-01-19 19:30:00,Florian Wirtz,Pass
+399797,26,BlockedShot,0.8719999694824219,0.48400001525878905,0.11595000326633453,Lucas Alario,h,6338,OpenPlay,2020,RightFoot,15286,Bayer Leverkusen,Borussia Dortmund,2,1,2021-01-19 19:30:00,,Rebound
+399804,43,SavedShot,0.894000015258789,0.47299999237060547,0.25071701407432556,Lucas Alario,h,6338,OpenPlay,2020,Head,15286,Bayer Leverkusen,Borussia Dortmund,2,1,2021-01-19 19:30:00,Moussa Diaby,Cross
+399814,68,MissedShots,0.845,0.67,0.04398350045084953,Lucas Alario,h,6338,OpenPlay,2020,RightFoot,15286,Bayer Leverkusen,Borussia Dortmund,2,1,2021-01-19 19:30:00,Leon Bailey,Pass
+400455,5,ShotOnPost,0.9180000305175782,0.46900001525878904,0.1288519948720932,Lucas Alario,h,6338,OpenPlay,2020,Head,15294,Bayer Leverkusen,Wolfsburg,0,1,2021-01-23 14:30:00,Moussa Diaby,Cross
+400459,20,SavedShot,0.9080000305175782,0.49400001525878906,0.10475900024175644,Lucas Alario,h,6338,OpenPlay,2020,RightFoot,15294,Bayer Leverkusen,Wolfsburg,0,1,2021-01-23 14:30:00,Moussa Diaby,Cross
+401797,87,SavedShot,0.8980000305175782,0.43099998474121093,0.43077701330184937,Lucas Alario,a,6338,OpenPlay,2020,RightFoot,15304,RasenBallsport Leipzig,Bayer Leverkusen,1,0,2021-01-30 17:30:00,Karim Bellarabi,Pass
+404202,13,Goal,0.945,0.5629999923706055,0.4065999984741211,Lucas Alario,h,6338,OpenPlay,2020,RightFoot,15323,Bayer Leverkusen,Mainz 05,2,2,2021-02-13 14:30:00,Moussa Diaby,Cross
+404214,46,MissedShots,0.8719999694824219,0.5770000076293945,0.019647400826215744,Lucas Alario,h,6338,FromCorner,2020,Head,15323,Bayer Leverkusen,Mainz 05,2,2,2021-02-13 14:30:00,Leon Bailey,Cross
+407469,10,SavedShot,0.9219999694824219,0.415,0.019520999863743782,Lucas Alario,h,6338,FromCorner,2020,Head,15341,Bayer Leverkusen,Freiburg,1,2,2021-02-28 17:00:00,Demarai Gray,Aerial
+407473,32,MissedShots,0.8980000305175782,0.69,0.052462898194789886,Lucas Alario,h,6338,OpenPlay,2020,LeftFoot,15341,Bayer Leverkusen,Freiburg,1,2,2021-02-28 17:00:00,,None
+410310,68,MissedShots,0.875,0.5629999923706055,0.3035399913787842,Lucas Alario,h,6338,OpenPlay,2020,RightFoot,15358,Bayer Leverkusen,Arminia Bielefeld,1,2,2021-03-14 12:30:00,Charles Aránguiz,TakeOn
+410317,89,MissedShots,0.9259999847412109,0.47900001525878905,0.05628509819507599,Lucas Alario,h,6338,OpenPlay,2020,Head,15358,Bayer Leverkusen,Arminia Bielefeld,1,2,2021-03-14 12:30:00,Leon Bailey,Aerial
+410319,91,SavedShot,0.8780000305175781,0.48,0.3526439964771271,Lucas Alario,h,6338,OpenPlay,2020,RightFoot,15358,Bayer Leverkusen,Arminia Bielefeld,1,2,2021-03-14 12:30:00,Florian Wirtz,Pass
+411835,75,BlockedShot,0.8930000305175781,0.5270000076293946,0.02891720086336136,Lucas Alario,a,6338,FromCorner,2020,Head,15369,Hertha Berlin,Bayer Leverkusen,3,0,2021-03-21 14:30:00,Nadiem Amiri,Foul
+412467,24,BlockedShot,0.8640000152587891,0.5790000152587891,0.022328799590468407,Lucas Alario,h,6338,OpenPlay,2020,Head,15377,Bayer Leverkusen,Schalke 04,2,1,2021-04-03 13:30:00,Nadiem Amiri,Aerial
+412468,25,Goal,0.95,0.4620000076293945,0.6135479807853699,Lucas Alario,h,6338,OpenPlay,2020,RightFoot,15377,Bayer Leverkusen,Schalke 04,2,1,2021-04-03 13:30:00,Kerem Demirbay,Pass
+417418,79,Goal,0.9630000305175781,0.6040000152587891,0.4982979893684387,Lucas Alario,h,6338,OpenPlay,2020,LeftFoot,15412,Bayer Leverkusen,Eintracht Frankfurt,3,1,2021-04-24 16:30:00,Leon Bailey,Pass
+429798,79,SavedShot,0.8730000305175781,0.6419999694824219,0.058469898998737335,Lucas Alario,h,6338,OpenPlay,2021,LeftFoot,17547,Bayer Leverkusen,Borussia Dortmund,3,4,2021-09-11 13:30:00,Moussa Diaby,Pass
+439572,71,BlockedShot,0.9469999694824218,0.32799999237060545,0.04931360110640526,Lucas Alario,h,6338,OpenPlay,2021,RightFoot,17603,Bayer Leverkusen,Wolfsburg,0,2,2021-10-30 13:30:00,Jeremie Frimpong,None
+439578,91,MissedShots,0.9119999694824219,0.514000015258789,0.06298869848251343,Lucas Alario,h,6338,OpenPlay,2021,Head,17603,Bayer Leverkusen,Wolfsburg,0,2,2021-10-30 13:30:00,Daley Sinkgraven,Aerial
+439579,95,SavedShot,0.885,0.5,0.7577769756317139,Lucas Alario,h,6338,Penalty,2021,RightFoot,17603,Bayer Leverkusen,Wolfsburg,0,2,2021-10-30 13:30:00,,Standard
+448492,89,BlockedShot,0.9530000305175781,0.42900001525878906,0.09276849776506424,Lucas Alario,a,6338,OpenPlay,2021,Head,17647,Eintracht Frankfurt,Bayer Leverkusen,5,2,2021-12-12 16:30:00,Kerem Demirbay,Chipped
+454500,71,BlockedShot,0.8930000305175781,0.3940000152587891,0.12280900031328201,Lucas Alario,h,6338,OpenPlay,2021,RightFoot,17693,Bayer Leverkusen,Augsburg,5,1,2022-01-22 14:30:00,Moussa Diaby,TakeOn
+454506,80,Goal,0.92,0.47200000762939454,0.455595999956131,Lucas Alario,h,6338,OpenPlay,2021,RightFoot,17693,Bayer Leverkusen,Augsburg,5,1,2022-01-22 14:30:00,Robert Andrich,Chipped
+457966,50,SavedShot,0.915,0.49700000762939456,0.1402129977941513,Lucas Alario,a,6338,OpenPlay,2021,Head,17718,Mainz 05,Bayer Leverkusen,3,2,2022-02-18 19:30:00,Jeremie Frimpong,Cross
+457970,68,SavedShot,0.905,0.4759999847412109,0.09483709931373596,Lucas Alario,a,6338,OpenPlay,2021,RightFoot,17718,Mainz 05,Bayer Leverkusen,3,2,2022-02-18 19:30:00,Kerem Demirbay,None
+457971,73,Goal,0.875,0.4420000076293945,0.11184599995613098,Lucas Alario,a,6338,OpenPlay,2021,RightFoot,17718,Mainz 05,Bayer Leverkusen,3,2,2022-02-18 19:30:00,Moussa Diaby,Pass
+457972,80,SavedShot,0.8869999694824219,0.6320000076293946,0.35055699944496155,Lucas Alario,a,6338,OpenPlay,2021,LeftFoot,17718,Mainz 05,Bayer Leverkusen,3,2,2022-02-18 19:30:00,Piero Hincapié,Throughball
+459640,13,MissedShots,0.9080000305175782,0.49700000762939456,0.12516799569129944,Lucas Alario,h,6338,OpenPlay,2021,Head,17730,Bayer Leverkusen,Arminia Bielefeld,3,0,2022-02-26 14:30:00,Mitchel Bakker,Cross
+459646,28,Goal,0.950999984741211,0.5259999847412109,0.6445639729499817,Lucas Alario,h,6338,OpenPlay,2021,RightFoot,17730,Bayer Leverkusen,Arminia Bielefeld,3,0,2022-02-26 14:30:00,,Rebound
+459649,38,SavedShot,0.9369999694824219,0.615999984741211,0.3749159872531891,Lucas Alario,h,6338,OpenPlay,2021,LeftFoot,17730,Bayer Leverkusen,Arminia Bielefeld,3,0,2022-02-26 14:30:00,Florian Wirtz,Throughball
+459663,84,SavedShot,0.7630000305175781,0.38799999237060545,0.04223329946398735,Lucas Alario,h,6338,OpenPlay,2021,RightFoot,17730,Bayer Leverkusen,Arminia Bielefeld,3,0,2022-02-26 14:30:00,Charles Aránguiz,TakeOn
+465081,23,BlockedShot,0.9180000305175782,0.6029999923706054,0.07879260182380676,Lucas Alario,h,6338,SetPiece,2021,LeftFoot,17765,Bayer Leverkusen,Hertha Berlin,2,1,2022-04-02 13:30:00,Charles Aránguiz,Chipped
+465082,30,MissedShots,0.914000015258789,0.624000015258789,0.03145059943199158,Lucas Alario,h,6338,OpenPlay,2021,Head,17765,Bayer Leverkusen,Hertha Berlin,2,1,2022-04-02 13:30:00,Karim Bellarabi,Cross
+465084,33,Goal,0.9180000305175782,0.35,0.04696130007505417,Lucas Alario,h,6338,OpenPlay,2021,RightFoot,17765,Bayer Leverkusen,Hertha Berlin,2,1,2022-04-02 13:30:00,Moussa Diaby,Cross
+465089,43,SavedShot,0.9319999694824219,0.45,0.13195499777793884,Lucas Alario,h,6338,OpenPlay,2021,RightFoot,17765,Bayer Leverkusen,Hertha Berlin,2,1,2022-04-02 13:30:00,,CornerAwarded
+467398,79,MissedShots,0.795,0.7530000305175781,0.020635299384593964,Lucas Alario,a,6338,OpenPlay,2021,RightFoot,17769,Bochum,Bayer Leverkusen,0,0,2022-04-10 13:30:00,Robert Andrich,Pass
+472512,91,MissedShots,0.9269999694824219,0.5720000076293945,0.44075798988342285,Lucas Alario,h,6338,OpenPlay,2021,RightFoot,17802,Bayer Leverkusen,Eintracht Frankfurt,2,0,2022-05-02 18:30:00,Mitchel Bakker,Cross
+473117,90,Goal,0.96,0.5270000076293946,0.9654020071029663,Lucas Alario,a,6338,OpenPlay,2021,RightFoot,17808,Hoffenheim,Bayer Leverkusen,2,4,2022-05-07 13:30:00,Exequiel Palacios,TakeOn
+475627,52,Goal,0.9180000305175782,0.46599998474121096,0.4974530041217804,Lucas Alario,h,6338,OpenPlay,2021,RightFoot,17819,Bayer Leverkusen,Freiburg,2,1,2022-05-14 13:30:00,Patrik Schick,Pass
+480184,42,MissedShots,0.904000015258789,0.5970000076293945,0.019185999408364296,Lucas Alario,a,6338,OpenPlay,2022,Head,19356,Hertha Berlin,Eintracht Frankfurt,1,1,2022-08-13 13:30:00,Christopher Lenz,Aerial
+482432,74,MissedShots,0.77,0.6379999923706055,0.04334390163421631,Lucas Alario,h,6338,OpenPlay,2022,RightFoot,19367,Eintracht Frankfurt,FC Cologne,1,1,2022-08-21 13:30:00,Djibril Sow,TakeOn
+487479,87,MissedShots,0.8640000152587891,0.45799999237060546,0.034955501556396484,Lucas Alario,h,6338,OpenPlay,2022,RightFoot,19391,Eintracht Frankfurt,Wolfsburg,0,1,2022-09-10 13:30:00,,Aerial
+491430,6,MissedShots,0.7719999694824219,0.5740000152587891,0.027984099462628365,Lucas Alario,a,6338,OpenPlay,2022,RightFoot,19419,Bochum,Eintracht Frankfurt,3,0,2022-10-08 13:30:00,Mario Götze,Pass
+491432,22,SavedShot,0.8469999694824218,0.40700000762939453,0.33844301104545593,Lucas Alario,a,6338,OpenPlay,2022,RightFoot,19419,Bochum,Eintracht Frankfurt,3,0,2022-10-08 13:30:00,Kristijan Jakic,Throughball
+491433,24,MissedShots,0.9269999694824219,0.5870000076293945,0.03441299870610237,Lucas Alario,a,6338,SetPiece,2022,Head,19419,Bochum,Eintracht Frankfurt,3,0,2022-10-08 13:30:00,Luca Pellegrini,Aerial
+493070,85,Goal,0.9419999694824219,0.53,0.6480919718742371,Lucas Alario,h,6338,OpenPlay,2022,RightFoot,19427,Eintracht Frankfurt,Bayer Leverkusen,5,1,2022-10-15 13:30:00,Santos Borré,Pass
+497973,92,MissedShots,0.8530000305175781,0.4370000076293945,0.10261999815702438,Lucas Alario,a,6338,OpenPlay,2022,RightFoot,19454,Augsburg,Eintracht Frankfurt,1,2,2022-11-05 14:30:00,Kristijan Jakic,Pass
+507061,91,BlockedShot,0.914000015258789,0.615999984741211,0.018062999472022057,Lucas Alario,h,6338,OpenPlay,2022,Head,19508,Eintracht Frankfurt,Hertha Berlin,3,0,2023-02-04 14:30:00,Christopher Lenz,End
+515668,68,SavedShot,0.8669999694824219,0.3940000152587891,0.06092759966850281,Lucas Alario,a,6338,OpenPlay,2022,RightFoot,19560,Union Berlin,Eintracht Frankfurt,2,0,2023-03-19 14:30:00,,Rebound
+515673,84,SavedShot,0.89,0.4490000152587891,0.019486600533127785,Lucas Alario,a,6338,SetPiece,2022,Head,19560,Union Berlin,Eintracht Frankfurt,2,0,2023-03-19 14:30:00,Philipp Max,Aerial

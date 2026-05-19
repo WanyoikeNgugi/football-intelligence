@@ -1,0 +1,5 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+650400,75,BlockedShot,0.7380000305175781,0.675,0.014118330553174019,Tuomas Ollila,h,13804,OpenPlay,2025,LeftFoot,29622,Paris FC,Lyon,3,3,2025-10-29 19:05:00,Jean-Phillipe Krasso,Pass
+657550,10,ShotOnPost,0.7730000305175782,0.645,0.019609443843364716,Tuomas Ollila,a,13804,OpenPlay,2025,RightFoot,29666,Le Havre,Paris FC,0,0,2025-12-07 16:15:00,,None
+657556,38,ShotOnPost,0.8180000305175781,0.64,0.03619866073131561,Tuomas Ollila,a,13804,OpenPlay,2025,LeftFoot,29666,Le Havre,Paris FC,0,0,2025-12-07 16:15:00,Moses Simon,Pass
+682989,91,SavedShot,0.735999984741211,0.47200000762939454,0.051449816673994064,Tuomas Ollila,h,13804,OpenPlay,2025,LeftFoot,29823,Paris FC,Brest,4,0,2026-05-03 15:15:00,,BallRecovery

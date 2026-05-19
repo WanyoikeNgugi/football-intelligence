@@ -1,0 +1,12 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+629887,66,BlockedShot,0.9219999694824219,0.3089999961853027,0.04838966205716133,García Pascual,a,13294,OpenPlay,2024,RightFoot,27309,Osasuna,Sevilla,1,0,2025-04-24 17:00:00,Lucien Agoume,Pass
+629888,66,SavedShot,0.924000015258789,0.5929999923706055,0.05782301723957062,García Pascual,a,13294,FromCorner,2024,Head,27309,Osasuna,Sevilla,1,0,2025-04-24 17:00:00,Adrià Pedrosa,Cross
+629889,68,MissedShots,0.899000015258789,0.59,0.024995187297463417,García Pascual,a,13294,OpenPlay,2024,Head,27309,Osasuna,Sevilla,1,0,2025-04-24 17:00:00,Adrià Pedrosa,Aerial
+629894,85,MissedShots,0.9340000152587891,0.41200000762939454,0.11718419194221497,García Pascual,a,13294,OpenPlay,2024,RightFoot,27309,Osasuna,Sevilla,1,0,2025-04-24 17:00:00,Juanlu Sanchez,Pass
+629895,85,BlockedShot,0.9440000152587891,0.31,0.048389069736003876,García Pascual,a,13294,OpenPlay,2024,RightFoot,27309,Osasuna,Sevilla,1,0,2025-04-24 17:00:00,Juanlu Sanchez,Pass
+632005,57,MissedShots,0.8619999694824219,0.395,0.07441255450248718,García Pascual,h,13294,OpenPlay,2024,LeftFoot,27320,Sevilla,Leganes,2,2,2025-05-04 14:15:00,Dodi Lukebakio,BallTouch
+632007,62,SavedShot,0.915,0.4640000152587891,0.12203264236450195,García Pascual,h,13294,OpenPlay,2024,Head,27320,Sevilla,Leganes,2,2,2025-05-04 14:15:00,Adrià Pedrosa,Cross
+632850,92,SavedShot,0.8569999694824219,0.43,0.05831938982009888,García Pascual,a,13294,OpenPlay,2024,RightFoot,27326,Celta Vigo,Sevilla,3,2,2025-05-10 14:15:00,,None
+633995,51,Goal,0.924000015258789,0.4759999847412109,0.0609850138425827,García Pascual,h,13294,SetPiece,2024,Head,27340,Sevilla,Las Palmas,1,0,2025-05-13 19:30:00,Lucien Agoume,BallTouch
+635249,47,MissedShots,0.855999984741211,0.32,0.3114679753780365,García Pascual,h,13294,OpenPlay,2024,RightFoot,27348,Sevilla,Real Madrid,0,2,2025-05-18 17:00:00,,BallRecovery
+636210,14,MissedShots,0.9290000152587891,0.6,0.059635523706674576,García Pascual,a,13294,OpenPlay,2024,RightFoot,27361,Villarreal,Sevilla,4,2,2025-05-25 14:15:00,Adrià Pedrosa,Cross

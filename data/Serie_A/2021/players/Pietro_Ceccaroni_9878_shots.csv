@@ -1,0 +1,22 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+431803,3,SavedShot,0.9330000305175781,0.6480000305175782,0.06069700047373772,Pietro Ceccaroni,h,9878,FromCorner,2021,LeftFoot,16795,Venezia,Spezia,1,2,2021-09-19 13:00:00,,None
+431819,58,Goal,0.9059999847412109,0.5029999923706054,0.04724140092730522,Pietro Ceccaroni,h,9878,SetPiece,2021,Head,16795,Venezia,Spezia,1,2,2021-09-19 13:00:00,Gianluca Busio,Aerial
+434478,17,MissedShots,0.950999984741211,0.4379999923706055,0.05780620127916336,Pietro Ceccaroni,h,9878,FromCorner,2021,Head,16814,Venezia,Torino,1,1,2021-09-27 18:45:00,Sofian Kiyine,Aerial
+437249,65,BlockedShot,0.855999984741211,0.654000015258789,0.06486059725284576,Pietro Ceccaroni,h,9878,OpenPlay,2021,LeftFoot,16835,Venezia,Fiorentina,1,0,2021-10-18 18:45:00,,None
+437924,91,BlockedShot,0.960999984741211,0.41200000762939454,0.07804209738969803,Pietro Ceccaroni,a,9878,FromCorner,2021,Head,16844,Sassuolo,Venezia,3,1,2021-10-23 16:00:00,Sofian Kiyine,Cross
+445051,21,MissedShots,0.81,0.485,0.03582590073347092,Pietro Ceccaroni,a,9878,FromCorner,2021,RightFoot,16896,Atalanta,Venezia,4,0,2021-11-30 17:30:00,,None
+446787,11,Goal,0.965,0.48200000762939454,0.5845310091972351,Pietro Ceccaroni,h,9878,FromCorner,2021,LeftFoot,16915,Venezia,Verona,3,4,2021-12-05 14:00:00,Thomas Henry,HeadPass
+450118,24,BlockedShot,0.9540000152587891,0.37799999237060544,0.024012800306081772,Pietro Ceccaroni,h,9878,FromCorner,2021,Head,16945,Venezia,Lazio,1,3,2021-12-22 15:30:00,Mattia Aramu,Cross
+450120,35,MissedShots,0.9590000152587891,0.61,0.038240499794483185,Pietro Ceccaroni,h,9878,FromCorner,2021,Head,16945,Venezia,Lazio,1,3,2021-12-22 15:30:00,Mattia Aramu,Cross
+450128,90,MissedShots,0.9269999694824219,0.6530000305175782,0.01338720042258501,Pietro Ceccaroni,h,9878,FromCorner,2021,Head,16945,Venezia,Lazio,1,3,2021-12-22 15:30:00,Gianluca Busio,Cross
+453656,89,BlockedShot,0.9459999847412109,0.72,0.03938340023159981,Pietro Ceccaroni,h,9878,OpenPlay,2021,LeftFoot,16975,Venezia,Empoli,1,1,2022-01-16 14:00:00,Michaël Cuisance,Chipped
+458668,12,MissedShots,0.9580000305175781,0.6,0.018470399081707,Pietro Ceccaroni,h,9878,FromCorner,2021,Head,17015,Venezia,Genoa,1,1,2022-02-20 14:00:00,Mattia Aramu,Aerial
+460255,25,SavedShot,0.9159999847412109,0.5940000152587891,0.10582999885082245,Pietro Ceccaroni,a,9878,SetPiece,2021,RightFoot,17019,Verona,Venezia,3,1,2022-02-27 14:00:00,,Rebound
+461634,94,MissedShots,0.700999984741211,0.5529999923706055,0.00895071029663086,Pietro Ceccaroni,h,9878,OpenPlay,2021,LeftFoot,17035,Venezia,Sassuolo,1,4,2022-03-06 14:00:00,Arnór Sigurdsson,Pass
+464326,45,MissedShots,0.9290000152587891,0.5690000152587891,0.0790477991104126,Pietro Ceccaroni,h,9878,FromCorner,2021,Head,17055,Venezia,Sampdoria,0,2,2022-03-20 11:30:00,Mattia Aramu,Cross
+464336,94,SavedShot,0.9619999694824218,0.46700000762939453,0.5903059840202332,Pietro Ceccaroni,h,9878,SetPiece,2021,LeftFoot,17055,Venezia,Sampdoria,0,2,2022-03-20 11:30:00,Sofian Kiyine,Chipped
+467296,65,MissedShots,0.9790000152587891,0.4209999847412109,0.2804360091686249,Pietro Ceccaroni,h,9878,FromCorner,2021,Head,17075,Venezia,Udinese,1,2,2022-04-10 13:00:00,Mattia Aramu,Cross
+472637,0,SavedShot,0.8909999847412109,0.45799999237060546,0.11774499714374542,Pietro Ceccaroni,a,9878,SetPiece,2021,RightFoot,16952,Salernitana,Venezia,2,1,2022-05-05 16:00:00,David Okereke,Pass
+474116,31,MissedShots,0.73,0.64,0.019419899210333824,Pietro Ceccaroni,h,9878,OpenPlay,2021,LeftFoot,17115,Venezia,Bologna,4,3,2022-05-08 13:00:00,Michaël Cuisance,Pass
+523921,78,MissedShots,0.9109999847412109,0.5479999923706055,0.046831097453832626,Pietro Ceccaroni,a,9878,FromCorner,2022,OtherBodyPart,18905,Juventus,Lecce,2,1,2023-05-03 16:00:00,Remi Oudin,Cross
+523928,94,BlockedShot,0.7769999694824219,0.56,0.012397998943924904,Pietro Ceccaroni,a,9878,OpenPlay,2022,LeftFoot,18905,Juventus,Lecce,2,1,2023-05-03 16:00:00,,Aerial

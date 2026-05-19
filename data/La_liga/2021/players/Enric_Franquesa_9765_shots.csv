@@ -1,0 +1,6 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+465328,16,BlockedShot,0.9080000305175782,0.6619999694824219,0.03487810119986534,Enric Franquesa,h,9765,OpenPlay,2021,LeftFoot,17433,Levante,Villarreal,2,0,2022-04-02 14:15:00,Jorge Miramón,Cross
+586983,84,Goal,0.9130000305175782,0.6759999847412109,0.28119829297065735,Enric Franquesa,h,9765,OpenPlay,2024,LeftFoot,26999,Leganes,Las Palmas,2,1,2024-08-25 17:00:00,Óscar Rodríguez,Pass
+591915,69,MissedShots,0.855999984741211,0.6320000076293946,0.046604473143815994,Enric Franquesa,h,9765,FromCorner,2024,LeftFoot,27047,Leganes,Athletic Club,0,2,2024-09-19 17:00:00,,None
+591919,78,MissedShots,0.8169999694824219,0.6079999923706054,0.03412094712257385,Enric Franquesa,h,9765,FromCorner,2024,LeftFoot,27047,Leganes,Athletic Club,0,2,2024-09-19 17:00:00,,None
+600212,93,MissedShots,0.89,0.7559999847412109,0.030418628826737404,Enric Franquesa,a,9765,OpenPlay,2024,RightFoot,27095,Girona,Leganes,4,3,2024-11-02 15:15:00,,Rebound

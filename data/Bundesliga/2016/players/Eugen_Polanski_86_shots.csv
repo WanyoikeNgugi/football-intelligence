@@ -1,0 +1,72 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+24420,31,BlockedShot,0.7969999694824219,0.575,0.02798379957675934,Eugen Polanski,h,86,FromCorner,2014,LeftFoot,5448,Hoffenheim,Augsburg,2,0,2014-08-23 14:30:00,,None
+24696,43,MissedShots,0.6990000152587891,0.38599998474121094,0.013480800203979015,Eugen Polanski,a,86,OpenPlay,2014,LeftFoot,5457,Werder Bremen,Hoffenheim,1,1,2014-08-30 14:30:00,,None
+24929,70,BlockedShot,0.7090000152587891,0.3770000076293945,0.012811600230634212,Eugen Polanski,h,86,FromCorner,2014,RightFoot,5412,Hoffenheim,Wolfsburg,1,1,2014-09-13 14:30:00,,None
+25403,56,MissedShots,0.8240000152587891,0.5209999847412109,0.037743501365184784,Eugen Polanski,h,86,FromCorner,2014,RightFoot,5429,Hoffenheim,Freiburg,3,3,2014-09-23 19:00:00,Sebastian Rudy,Cross
+26348,29,MissedShots,0.7730000305175782,0.5070000076293946,0.029290400445461273,Eugen Polanski,h,86,OpenPlay,2014,RightFoot,5404,Hoffenheim,Paderborn,1,0,2014-10-25 14:30:00,Ádám Szalai,Pass
+26528,21,SavedShot,0.6959999847412109,0.33099998474121095,0.012664600275456905,Eugen Polanski,a,86,OpenPlay,2014,LeftFoot,5353,Borussia M.Gladbach,Hoffenheim,3,1,2014-11-02 14:30:00,Steven Zuber,Pass
+26811,36,BlockedShot,0.769000015258789,0.44299999237060544,0.02915949933230877,Eugen Polanski,h,86,FromCorner,2014,RightFoot,5358,Hoffenheim,FC Cologne,3,4,2014-11-08 14:30:00,,TakeOn
+27673,58,Goal,0.7269999694824218,0.3729999923706055,0.014101999811828136,Eugen Polanski,h,86,OpenPlay,2014,LeftFoot,5380,Hoffenheim,Hannover 96,4,3,2014-11-29 17:30:00,Kevin Volland,Pass
+27259,55,BlockedShot,0.7040000152587891,0.49700000762939456,0.00946302991360426,Eugen Polanski,a,86,OpenPlay,2014,RightFoot,5312,Borussia Dortmund,Hoffenheim,1,0,2014-12-05 19:30:00,,Aerial
+28115,69,MissedShots,0.675,0.565,0.009953579865396023,Eugen Polanski,h,86,SetPiece,2014,RightFoot,5321,Hoffenheim,Eintracht Frankfurt,3,2,2014-12-12 19:30:00,Pirmin Schwegler,BallTouch
+28240,34,SavedShot,0.735999984741211,0.24600000381469728,0.013576099649071693,Eugen Polanski,a,86,OpenPlay,2014,RightFoot,5346,Hertha Berlin,Hoffenheim,0,5,2014-12-21 14:30:00,,Rebound
+28503,32,SavedShot,0.735,0.5940000152587891,0.018325600773096085,Eugen Polanski,a,86,OpenPlay,2014,RightFoot,5261,Augsburg,Hoffenheim,3,1,2015-02-01 16:30:00,Roberto Firmino,Pass
+28516,72,BlockedShot,0.749000015258789,0.595999984741211,0.013123099692165852,Eugen Polanski,a,86,SetPiece,2014,LeftFoot,5261,Augsburg,Hoffenheim,3,1,2015-02-01 16:30:00,,None
+28517,72,MissedShots,0.7659999847412109,0.6040000152587891,0.016332199797034264,Eugen Polanski,a,86,SetPiece,2014,RightFoot,5261,Augsburg,Hoffenheim,3,1,2015-02-01 16:30:00,,Rebound
+29372,76,BlockedShot,0.735999984741211,0.5220000076293946,0.013282500207424164,Eugen Polanski,a,86,FromCorner,2014,RightFoot,5276,Wolfsburg,Hoffenheim,3,0,2015-02-07 14:30:00,,Aerial
+29339,51,BlockedShot,0.7019999694824218,0.41200000762939454,0.010355600155889988,Eugen Polanski,a,86,OpenPlay,2014,RightFoot,5290,Freiburg,Hoffenheim,1,1,2015-02-21 14:30:00,,None
+29340,51,SavedShot,0.71,0.4520000076293945,0.01418639998883009,Eugen Polanski,a,86,OpenPlay,2014,RightFoot,5290,Freiburg,Hoffenheim,1,1,2015-02-21 14:30:00,,BallTouch
+29165,5,BlockedShot,0.77,0.35200000762939454,0.01964550092816353,Eugen Polanski,h,86,OpenPlay,2014,RightFoot,5301,Hoffenheim,Mainz 05,2,0,2015-02-28 14:30:00,Kevin Volland,Pass
+29194,75,Goal,0.9540000152587891,0.585,0.4099830090999603,Eugen Polanski,h,86,OpenPlay,2014,Head,5301,Hoffenheim,Mainz 05,2,0,2015-02-28 14:30:00,,None
+29745,25,BlockedShot,0.6909999847412109,0.6790000152587891,0.00760931009426713,Eugen Polanski,a,86,SetPiece,2014,LeftFoot,5238,Schalke 04,Hoffenheim,3,1,2015-03-07 14:30:00,,Aerial
+29755,74,BlockedShot,0.775,0.710999984741211,0.014096600003540516,Eugen Polanski,a,86,OpenPlay,2014,LeftFoot,5238,Schalke 04,Hoffenheim,3,1,2015-03-07 14:30:00,Kevin Volland,Pass
+31176,21,Goal,0.885,0.5,0.7577769756317139,Eugen Polanski,h,86,Penalty,2014,RightFoot,5244,Hoffenheim,Hamburger SV,3,0,2015-03-14 14:30:00,,Standard
+31177,38,MissedShots,0.7669999694824219,0.5929999923706055,0.011374399997293949,Eugen Polanski,h,86,FromCorner,2014,LeftFoot,5244,Hoffenheim,Hamburger SV,3,0,2015-03-14 14:30:00,Ermin Bicakcic,HeadPass
+31181,48,MissedShots,0.895,0.595999984741211,0.09806499630212784,Eugen Polanski,h,86,OpenPlay,2014,RightFoot,5244,Hoffenheim,Hamburger SV,3,0,2015-03-14 14:30:00,Kevin Volland,Chipped
+31182,50,MissedShots,0.8419999694824218,0.525,0.030440500006079674,Eugen Polanski,h,86,FromCorner,2014,RightFoot,5244,Hoffenheim,Hamburger SV,3,0,2015-03-14 14:30:00,Sven Schipplock,HeadPass
+31196,80,Goal,0.8780000305175781,0.685,0.06168289855122566,Eugen Polanski,h,86,OpenPlay,2014,LeftFoot,5244,Hoffenheim,Hamburger SV,3,0,2015-03-14 14:30:00,Pirmin Schwegler,Pass
+32181,6,MissedShots,0.7069999694824218,0.509000015258789,0.015171799808740616,Eugen Polanski,a,86,OpenPlay,2014,LeftFoot,5253,Paderborn,Hoffenheim,0,0,2015-03-21 14:30:00,Kevin Volland,Pass
+32183,19,MissedShots,0.7040000152587891,0.5220000076293946,0.014549300074577332,Eugen Polanski,a,86,OpenPlay,2014,LeftFoot,5253,Paderborn,Hoffenheim,0,0,2015-03-21 14:30:00,Sebastian Rudy,Pass
+31442,15,MissedShots,0.8859999847412109,0.5690000152587891,0.0380231998860836,Eugen Polanski,a,86,OpenPlay,2014,Head,5211,FC Cologne,Hoffenheim,3,2,2015-04-12 14:30:00,Roberto Firmino,Cross
+31468,69,Goal,0.885,0.5,0.7577769756317139,Eugen Polanski,a,86,Penalty,2014,RightFoot,5211,FC Cologne,Hoffenheim,3,2,2015-04-12 14:30:00,,Standard
+29794,11,MissedShots,0.879000015258789,0.7180000305175781,0.030927399173378944,Eugen Polanski,a,86,SetPiece,2014,RightFoot,5223,Hannover 96,Hoffenheim,1,2,2015-04-25 14:30:00,,None
+30886,23,BlockedShot,0.7190000152587891,0.6580000305175782,0.013784700073301792,Eugen Polanski,h,86,OpenPlay,2014,RightFoot,5162,Hoffenheim,Borussia Dortmund,1,1,2015-05-02 14:30:00,Andreas Beck,Pass
+30196,83,MissedShots,0.7269999694824218,0.47200000762939454,0.013840899802744389,Eugen Polanski,a,86,OpenPlay,2014,RightFoot,5178,Bayer Leverkusen,Hoffenheim,2,0,2015-05-16 14:30:00,Anthony Modeste,Pass
+30197,85,MissedShots,0.8680000305175781,0.634000015258789,0.06974200159311295,Eugen Polanski,a,86,OpenPlay,2014,RightFoot,5178,Bayer Leverkusen,Hoffenheim,2,0,2015-05-16 14:30:00,Sejad Salihovic,Pass
+31343,39,MissedShots,0.855,0.7559999847412109,0.029198799282312393,Eugen Polanski,h,86,OpenPlay,2014,LeftFoot,5190,Hoffenheim,Hertha Berlin,2,1,2015-05-23 14:30:00,Jeremy Toljan,Pass
+31349,64,SavedShot,0.6969999694824218,0.33299999237060546,0.014089499600231647,Eugen Polanski,h,86,OpenPlay,2014,LeftFoot,5190,Hoffenheim,Hertha Berlin,2,1,2015-05-23 14:30:00,Kevin Volland,Pass
+31351,67,MissedShots,0.7069999694824218,0.5540000152587891,0.019259700551629066,Eugen Polanski,h,86,OpenPlay,2014,LeftFoot,5190,Hoffenheim,Hertha Berlin,2,1,2015-05-23 14:30:00,Roberto Firmino,Pass
+31354,78,BlockedShot,0.855,0.7090000152587891,0.03561060130596161,Eugen Polanski,h,86,OpenPlay,2014,LeftFoot,5190,Hoffenheim,Hertha Berlin,2,1,2015-05-23 14:30:00,Roberto Firmino,Pass
+76131,66,BlockedShot,0.7269999694824218,0.6930000305175781,0.012665200047194958,Eugen Polanski,a,86,OpenPlay,2015,RightFoot,1022,Bayer Leverkusen,Hoffenheim,2,1,2015-08-15 17:30:00,,Dispossessed
+76493,73,ShotOnPost,0.885,0.5,0.7577769756317139,Eugen Polanski,h,86,Penalty,2015,RightFoot,1031,Hoffenheim,Bayern Munich,1,2,2015-08-22 17:30:00,,Standard
+76928,13,MissedShots,0.7919999694824219,0.649000015258789,0.01980840042233467,Eugen Polanski,h,86,SetPiece,2015,LeftFoot,1055,Hoffenheim,Werder Bremen,1,3,2015-09-13 17:30:00,Niklas Süle,HeadPass
+76949,84,SavedShot,0.77,0.3089999961853027,0.0159767996519804,Eugen Polanski,h,86,OpenPlay,2015,RightFoot,1055,Hoffenheim,Werder Bremen,1,3,2015-09-13 17:30:00,Pirmin Schwegler,TakeOn
+77170,43,BlockedShot,0.899000015258789,0.425,0.0848165974020958,Eugen Polanski,a,86,FromCorner,2015,RightFoot,1057,Mainz 05,Hoffenheim,3,1,2015-09-18 22:30:00,,None
+77174,53,MissedShots,0.8219999694824218,0.5429999923706055,0.022106099873781204,Eugen Polanski,a,86,OpenPlay,2015,LeftFoot,1057,Mainz 05,Hoffenheim,3,1,2015-09-18 22:30:00,,Aerial
+77177,61,MissedShots,0.735999984741211,0.64,0.0159022007137537,Eugen Polanski,a,86,OpenPlay,2015,RightFoot,1057,Mainz 05,Hoffenheim,3,1,2015-09-18 22:30:00,Jonathan Schmid,Pass
+77391,59,MissedShots,0.7609999847412109,0.745999984741211,0.011230199597775936,Eugen Polanski,h,86,OpenPlay,2015,RightFoot,1070,Hoffenheim,Borussia Dortmund,1,1,2015-09-23 22:00:00,,None
+77572,58,MissedShots,0.894000015258789,0.17399999618530274,0.011111699976027012,Eugen Polanski,a,86,OpenPlay,2015,RightFoot,1078,Augsburg,Hoffenheim,1,3,2015-09-26 17:30:00,,Aerial
+77579,74,MissedShots,0.8540000152587891,0.28899999618530275,0.055622100830078125,Eugen Polanski,a,86,OpenPlay,2015,RightFoot,1078,Augsburg,Hoffenheim,1,3,2015-09-26 17:30:00,Eduardo Vargas,Pass
+78279,2,MissedShots,0.9019999694824219,0.72,0.034930698573589325,Eugen Polanski,h,86,SetPiece,2015,LeftFoot,1102,Hoffenheim,Hamburger SV,0,1,2015-10-23 22:30:00,,None
+78295,52,BlockedShot,0.715,0.44299999237060544,0.01785390079021454,Eugen Polanski,h,86,OpenPlay,2015,LeftFoot,1102,Hoffenheim,Hamburger SV,0,1,2015-10-23 22:30:00,Eduardo Vargas,Pass
+79065,29,OwnGoal,0.05300000190734863,0.5729999923706055,0,Eugen Polanski,a,86,SetPiece,2015,Head,1136,Hertha Berlin,Hoffenheim,1,0,2015-11-22 18:30:00,,None
+79255,6,SavedShot,0.7390000152587891,0.6630000305175782,0.015706099569797516,Eugen Polanski,h,86,OpenPlay,2015,LeftFoot,1141,Hoffenheim,Borussia M.Gladbach,3,3,2015-11-28 18:30:00,Tarik Elyounoussi,Pass
+79263,33,Goal,0.8780000305175781,0.6179999923706054,0.07940009981393814,Eugen Polanski,h,86,OpenPlay,2015,RightFoot,1141,Hoffenheim,Borussia M.Gladbach,3,3,2015-11-28 18:30:00,Nadiem Amiri,Pass
+79278,69,MissedShots,0.7859999847412109,0.5640000152587891,0.042917199432849884,Eugen Polanski,h,86,OpenPlay,2015,LeftFoot,1141,Hoffenheim,Borussia M.Gladbach,3,3,2015-11-28 18:30:00,Nadiem Amiri,Pass
+79283,89,BlockedShot,0.7090000152587891,0.36900001525878906,0.012721999548375607,Eugen Polanski,h,86,FromCorner,2015,RightFoot,1141,Hoffenheim,Borussia M.Gladbach,3,3,2015-11-28 18:30:00,,None
+79785,90,MissedShots,0.8680000305175781,0.5790000152587891,0.10455500334501266,Eugen Polanski,h,86,OpenPlay,2015,LeftFoot,1160,Hoffenheim,Hannover 96,1,0,2015-12-12 18:30:00,Eduardo Vargas,Pass
+81236,80,MissedShots,0.7719999694824219,0.720999984741211,0.01030260045081377,Eugen Polanski,a,86,OpenPlay,2015,LeftFoot,1225,Borussia Dortmund,Hoffenheim,3,1,2016-02-28 20:30:00,,Aerial
+81754,24,SavedShot,0.6969999694824218,0.52,0.011037499643862247,Eugen Polanski,a,86,OpenPlay,2015,RightFoot,1237,VfB Stuttgart,Hoffenheim,5,1,2016-03-05 18:30:00,,None
+81764,46,BlockedShot,0.7480000305175781,0.5479999923706055,0.015088800340890884,Eugen Polanski,a,86,OpenPlay,2015,LeftFoot,1237,VfB Stuttgart,Hoffenheim,5,1,2016-03-05 18:30:00,Nadiem Amiri,Pass
+83656,13,MissedShots,0.764000015258789,0.61,0.019744299352169037,Eugen Polanski,a,86,OpenPlay,2015,RightFoot,1315,Hannover 96,Hoffenheim,1,0,2016-05-07 17:30:00,,None
+83662,30,BlockedShot,0.735999984741211,0.41900001525878905,0.01753919944167137,Eugen Polanski,a,86,OpenPlay,2015,RightFoot,1315,Hannover 96,Hoffenheim,1,0,2016-05-07 17:30:00,Mark Uth,Pass
+83856,70,SavedShot,0.8230000305175781,0.705,0.029016699641942978,Eugen Polanski,h,86,FromCorner,2015,LeftFoot,1322,Hoffenheim,Schalke 04,1,4,2016-05-14 17:30:00,Tarik Elyounoussi,Pass
+128372,87,SavedShot,0.725,0.46599998474121096,0.017749199643731117,Eugen Polanski,h,86,OpenPlay,2016,RightFoot,1347,Hoffenheim,Wolfsburg,0,0,2016-09-17 17:30:00,Kerem Demirbay,Pass
+130929,41,SavedShot,0.745999984741211,0.4779999923706055,0.014049099758267403,Eugen Polanski,a,86,SetPiece,2016,RightFoot,2826,Borussia M.Gladbach,Hoffenheim,1,1,2016-11-26 18:30:00,,None
+130723,23,MissedShots,0.759000015258789,0.6090000152587891,0.030316200107336044,Eugen Polanski,h,86,OpenPlay,2016,RightFoot,3196,Hoffenheim,FC Cologne,4,0,2016-12-03 18:30:00,,None
+130373,16,BlockedShot,0.7340000152587891,0.3240000152587891,0.017482299357652664,Eugen Polanski,h,86,OpenPlay,2016,RightFoot,3224,Hoffenheim,Werder Bremen,1,1,2016-12-21 23:00:00,,TakeOn
+130386,73,MissedShots,0.7269999694824218,0.5220000076293946,0.011438299901783466,Eugen Polanski,h,86,SetPiece,2016,RightFoot,3224,Hoffenheim,Werder Bremen,1,1,2016-12-21 23:00:00,,None
+166248,70,MissedShots,0.7980000305175782,0.6229999923706054,0.06029240041971207,Eugen Polanski,h,86,OpenPlay,2017,LeftFoot,8283,Hoffenheim,Bayern Munich,2,0,2017-09-09 17:30:00,Nadiem Amiri,TakeOn
+167210,40,BlockedShot,0.7680000305175781,0.7,0.019310999661684036,Eugen Polanski,a,86,OpenPlay,2017,LeftFoot,8303,Mainz 05,Hoffenheim,2,3,2017-09-20 19:30:00,,Rebound
+187229,76,BlockedShot,0.8380000305175781,0.544000015258789,0.0507626011967659,Eugen Polanski,a,86,FromCorner,2017,LeftFoot,8415,Werder Bremen,Hoffenheim,1,1,2018-01-13 14:30:00,Steven Zuber,Pass
+199935,86,BlockedShot,0.8380000305175781,0.4759999847412109,0.10870900005102158,Eugen Polanski,h,86,OpenPlay,2017,RightFoot,8486,Hoffenheim,Wolfsburg,3,0,2018-03-10 14:30:00,Lukas Rupp,Pass

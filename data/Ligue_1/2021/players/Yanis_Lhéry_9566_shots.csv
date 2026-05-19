@@ -1,0 +1,4 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+424580,81,MissedShots,0.7680000305175781,0.36400001525878906,0.01913060061633587,Yanis Lhéry,h,9566,OpenPlay,2020,RightFoot,16134,Saint-Etienne,Dijon,0,1,2021-05-23 19:00:00,,TakeOn
+445295,88,SavedShot,0.860999984741211,0.7140000152587891,0.03673800081014633,Yanis Lhéry,a,9566,OpenPlay,2021,LeftFoot,17973,Brest,Saint-Etienne,1,0,2021-12-01 18:00:00,Mahdi Camara,TakeOn
+450424,87,BlockedShot,0.8669999694824219,0.4279999923706055,0.37880799174308777,Yanis Lhéry,h,9566,SetPiece,2021,RightFoot,18010,Saint-Etienne,Nantes,0,1,2021-12-22 19:45:00,,None

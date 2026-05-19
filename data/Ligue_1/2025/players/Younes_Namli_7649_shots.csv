@@ -1,0 +1,14 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+307238,6,MissedShots,0.8859999847412109,0.37099998474121093,0.3157300055027008,Younes Namli,a,7649,OpenPlay,2019,RightFoot,11029,FK Akhmat,FC Krasnodar,1,0,2019-07-14 18:30:00,Ruslan Kambolov,Throughball
+307298,7,MissedShots,0.8480000305175781,0.29700000762939455,0.02240540087223053,Younes Namli,a,7649,OpenPlay,2019,LeftFoot,11031,FC Ufa,FC Krasnodar,2,3,2019-07-20 11:00:00,Cristian Ramírez,Cross
+307310,48,Goal,0.965,0.5509999847412109,0.5906190276145935,Younes Namli,a,7649,OpenPlay,2019,RightFoot,11031,FC Ufa,FC Krasnodar,2,3,2019-07-20 11:00:00,,None
+312650,82,MissedShots,0.7659999847412109,0.31799999237060544,0.01646379940211773,Younes Namli,h,7649,OpenPlay,2019,LeftFoot,11073,FC Krasnodar,Lokomotiv Moscow,1,1,2019-08-24 17:00:00,Sergei Petrov,Pass
+312653,88,MissedShots,0.9019999694824219,0.715,0.026666199788451195,Younes Namli,h,7649,FromCorner,2019,LeftFoot,11073,FC Krasnodar,Lokomotiv Moscow,1,1,2019-08-24 17:00:00,,BallTouch
+318159,90,BlockedShot,0.7219999694824218,0.3729999923706055,0.016330700367689133,Younes Namli,h,7649,OpenPlay,2019,RightFoot,11093,FC Krasnodar,Krylya Sovetov Samara,4,2,2019-09-15 16:00:00,,BallRecovery
+326480,8,BlockedShot,0.7780000305175782,0.5309999847412109,0.03352599963545799,Younes Namli,a,7649,OpenPlay,2019,LeftFoot,11123,Dinamo Moscow,FC Krasnodar,1,1,2019-10-20 17:00:00,Kristoffer Olsson,Pass
+326483,17,BlockedShot,0.8480000305175781,0.620999984741211,0.05920039862394333,Younes Namli,a,7649,OpenPlay,2019,LeftFoot,11123,Dinamo Moscow,FC Krasnodar,1,1,2019-10-20 17:00:00,,TakeOn
+326489,40,MissedShots,0.85,0.6480000305175782,0.05263270065188408,Younes Namli,a,7649,OpenPlay,2019,LeftFoot,11123,Dinamo Moscow,FC Krasnodar,1,1,2019-10-20 17:00:00,,BallTouch
+637844,40,BlockedShot,0.84,0.39299999237060546,0.05078916251659393,Younes Namli,a,7649,OpenPlay,2025,LeftFoot,29540,Monaco,Le Havre,3,1,2025-08-16 17:00:00,Arouna Sangante,Pass
+643796,83,MissedShots,0.700999984741211,0.3039999961853027,0.012384395115077496,Younes Namli,h,7649,OpenPlay,2025,LeftFoot,29576,Le Havre,Lorient,1,1,2025-09-21 15:15:00,Loïc Négo,Pass
+652488,88,BlockedShot,0.8859999847412109,0.6769999694824219,0.05763242766261101,Younes Namli,h,7649,OpenPlay,2025,LeftFoot,29638,Le Havre,Nantes,1,1,2025-11-08 18:00:00,Reda Khadra,Pass
+657571,87,MissedShots,0.7430000305175781,0.335,0.018923018127679825,Younes Namli,h,7649,OpenPlay,2025,LeftFoot,29666,Le Havre,Paris FC,0,0,2025-12-07 16:15:00,Loïc Négo,Pass

@@ -1,0 +1,9 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+443345,88,BlockedShot,0.895,0.435,0.07823439687490463,Raúl Torrente,h,9403,FromCorner,2021,LeftFoot,17270,Granada,Real Madrid,1,4,2021-11-21 15:15:00,Luis Suárez,Pass
+457758,66,MissedShots,0.87,0.47299999237060547,0.01404779963195324,Raúl Torrente,a,9403,FromCorner,2021,Head,17372,Real Sociedad,Granada,2,0,2022-02-13 17:30:00,Álex Collado,Aerial
+458093,75,MissedShots,0.9230000305175782,0.5879999923706055,0.06121179834008217,Raúl Torrente,h,9403,FromCorner,2021,Head,17380,Granada,Villarreal,1,4,2022-02-19 13:00:00,Luis Milla,Cross
+458098,93,BlockedShot,0.73,0.5729999923706055,0.01132030040025711,Raúl Torrente,h,9403,OpenPlay,2021,LeftFoot,17380,Granada,Villarreal,1,4,2022-02-19 13:00:00,Luis Milla,HeadPass
+540553,49,MissedShots,0.895,0.5370000076293945,0.059837762266397476,Raúl Torrente,h,9403,FromCorner,2023,LeftFoot,22750,Granada,Real Betis,1,1,2023-09-28 17:00:00,Gerard Gumbau,Cross
+548584,55,MissedShots,0.779000015258789,0.415,0.023021623492240906,Raúl Torrente,h,9403,FromCorner,2023,RightFoot,22811,Granada,Getafe,1,1,2023-11-11 17:30:00,,None
+549350,10,OwnGoal,0.04699999809265137,0.44,0,Raúl Torrente,a,9403,OpenPlay,2023,RightFoot,22819,Alaves,Granada,3,1,2023-11-24 20:00:00,,BlockedPass
+555325,61,MissedShots,0.9209999847412109,0.4759999847412109,0.0520482212305069,Raúl Torrente,h,9403,FromCorner,2023,Head,22861,Granada,Sevilla,0,3,2023-12-19 20:30:00,Gerard Gumbau,Aerial

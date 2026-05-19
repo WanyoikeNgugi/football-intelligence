@@ -1,0 +1,21 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+631103,95,SavedShot,0.8419999694824218,0.5620000076293945,0.08147928863763809,Julian Niehues,h,13429,OpenPlay,2024,RightFoot,28023,FC Heidenheim,Bochum,0,0,2025-05-02 18:30:00,Budu Zivzivadze,Pass
+634387,49,MissedShots,0.9390000152587891,0.46799999237060547,0.06805667281150818,Julian Niehues,h,13429,FromCorner,2024,Head,28042,FC Heidenheim,Werder Bremen,1,4,2025-05-17 13:30:00,Léo Scienza,Aerial
+648813,87,BlockedShot,0.8159999847412109,0.49200000762939455,0.043320201337337494,Julian Niehues,a,13429,OpenPlay,2025,RightFoot,30293,Hoffenheim,FC Heidenheim,3,1,2025-10-25 13:30:00,,None
+650757,65,SavedShot,0.7169999694824218,0.445,0.016807500272989273,Julian Niehues,h,13429,OpenPlay,2025,LeftFoot,30299,FC Heidenheim,Eintracht Frankfurt,1,1,2025-11-01 14:30:00,Patrick Mainka,Pass
+654880,72,MissedShots,0.9119999694824219,0.5170000076293946,0.05447307601571083,Julian Niehues,a,13429,SetPiece,2025,Head,30330,Union Berlin,FC Heidenheim,1,2,2025-11-29 14:30:00,Arijon Ibrahimovic,Aerial
+654882,81,MissedShots,0.8019999694824219,0.3110000038146973,0.02652328833937645,Julian Niehues,a,13429,OpenPlay,2025,LeftFoot,30330,Union Berlin,FC Heidenheim,1,2,2025-11-29 14:30:00,Omar Traoré,Pass
+656748,46,BlockedShot,0.7859999847412109,0.48400001525878905,0.030209729447960854,Julian Niehues,h,13429,OpenPlay,2025,RightFoot,30338,FC Heidenheim,Freiburg,2,1,2025-12-06 14:30:00,Marvin Pieringer,Pass
+658072,57,SavedShot,0.8130000305175781,0.48700000762939455,0.05436252802610397,Julian Niehues,a,13429,OpenPlay,2025,RightFoot,30347,St. Pauli,FC Heidenheim,2,1,2025-12-13 14:30:00,Marvin Pieringer,Pass
+662437,25,Goal,0.9169999694824219,0.549000015258789,0.4476683437824249,Julian Niehues,h,13429,FromCorner,2025,LeftFoot,30364,FC Heidenheim,FC Cologne,2,2,2026-01-10 14:30:00,,Rebound
+666727,47,Goal,0.7680000305175781,0.485,0.03109591081738472,Julian Niehues,a,13429,OpenPlay,2025,RightFoot,30396,Borussia Dortmund,FC Heidenheim,3,2,2026-02-01 16:30:00,Eren Sami Dinkci,BallTouch
+666724,49,Goal,0.9380000305175781,0.4979999923706055,0.580378532409668,Julian Niehues,a,13429,OpenPlay,2025,LeftFoot,30396,Borussia Dortmund,FC Heidenheim,3,2,2026-02-01 16:30:00,,Rebound
+666723,49,BlockedShot,0.92,0.47700000762939454,0.493220716714859,Julian Niehues,a,13429,OpenPlay,2025,LeftFoot,30396,Borussia Dortmund,FC Heidenheim,3,2,2026-02-01 16:30:00,Mathias Honsak,Pass
+666729,55,MissedShots,0.8109999847412109,0.544000015258789,0.0410890057682991,Julian Niehues,a,13429,SetPiece,2025,LeftFoot,30396,Borussia Dortmund,FC Heidenheim,3,2,2026-02-01 16:30:00,Arijon Ibrahimovic,Pass
+667145,4,MissedShots,0.784000015258789,0.3509999847412109,0.022690704092383385,Julian Niehues,h,13429,OpenPlay,2025,RightFoot,30408,FC Heidenheim,Hamburger SV,0,2,2026-02-07 14:30:00,Omar Traoré,Pass
+667154,45,MissedShots,0.775,0.39799999237060546,0.030011789873242378,Julian Niehues,h,13429,FromCorner,2025,RightFoot,30408,FC Heidenheim,Hamburger SV,0,2,2026-02-07 14:30:00,,Rebound
+669104,7,BlockedShot,0.8519999694824218,0.4520000076293945,0.07110346108675003,Julian Niehues,a,13429,OpenPlay,2025,RightFoot,30413,Augsburg,FC Heidenheim,1,0,2026-02-15 14:30:00,,None
+669107,12,BlockedShot,0.8590000152587891,0.5379999923706055,0.06693966686725616,Julian Niehues,a,13429,FromCorner,2025,RightFoot,30413,Augsburg,FC Heidenheim,1,0,2026-02-15 14:30:00,,None
+669108,13,MissedShots,0.96,0.6120000076293945,0.03942012041807175,Julian Niehues,a,13429,FromCorner,2025,Head,30413,Augsburg,FC Heidenheim,1,0,2026-02-15 14:30:00,Arijon Ibrahimovic,Cross
+675214,48,ShotOnPost,0.795,0.5209999847412109,0.03372984007000923,Julian Niehues,h,13429,OpenPlay,2025,RightFoot,30462,FC Heidenheim,Bayer Leverkusen,3,3,2026-03-21 14:30:00,,None
+676553,54,MissedShots,0.6890000152587891,0.5970000076293945,0.01515156403183937,Julian Niehues,a,13429,OpenPlay,2025,RightFoot,30468,Borussia M.Gladbach,FC Heidenheim,2,2,2026-04-04 13:30:00,Mathias Honsak,Pass

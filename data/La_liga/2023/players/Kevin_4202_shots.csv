@@ -1,0 +1,8 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+364739,33,MissedShots,0.6969999694824218,0.3160000038146973,0.011576400138437748,Kevin,a,4202,FromCorner,2019,RightFoot,12310,Real Valladolid,Celta Vigo,0,0,2020-06-17 17:30:00,,None
+418033,16,MissedShots,0.8019999694824219,0.32,0.023871900513768196,Kevin,h,4202,OpenPlay,2020,RightFoot,15089,Celta Vigo,Osasuna,2,1,2021-04-25 16:30:00,,None
+462678,48,MissedShots,0.874000015258789,0.315,0.049063101410865784,Kevin,a,4202,OpenPlay,2021,RightFoot,17415,Villarreal,Celta Vigo,1,0,2022-03-12 17:30:00,,None
+473644,12,MissedShots,0.9519999694824218,0.4420000076293945,0.13195200264453888,Kevin,h,4202,OpenPlay,2021,RightFoot,17479,Celta Vigo,Alaves,4,0,2022-05-07 16:30:00,,BallTouch
+473659,87,SavedShot,0.935,0.4640000152587891,0.5683550238609314,Kevin,h,4202,OpenPlay,2021,RightFoot,17479,Celta Vigo,Alaves,4,0,2022-05-07 16:30:00,Nolito,Pass
+553965,80,SavedShot,0.794000015258789,0.28100000381469725,0.020520921796560287,Kevin,a,4202,OpenPlay,2023,RightFoot,22843,Rayo Vallecano,Celta Vigo,0,0,2023-12-11 20:00:00,,BallRecovery
+554086,8,MissedShots,0.8480000305175781,0.4129999923706055,0.05654928460717201,Kevin,h,4202,SetPiece,2023,RightFoot,22847,Celta Vigo,Granada,1,0,2023-12-16 13:00:00,Renato Tapia,None

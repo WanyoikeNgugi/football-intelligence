@@ -1,0 +1,12 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+640795,8,Goal,0.835999984741211,0.685,0.03381210193037987,Aaron Zehnter,h,10863,OpenPlay,2025,LeftFoot,30239,Wolfsburg,Mainz 05,1,1,2025-08-31 13:30:00,Lovro Majer,Pass
+640802,27,MissedShots,0.7809999847412109,0.710999984741211,0.014204527251422405,Aaron Zehnter,h,10863,OpenPlay,2025,LeftFoot,30239,Wolfsburg,Mainz 05,1,1,2025-08-31 13:30:00,,Aerial
+647482,83,MissedShots,0.7090000152587891,0.624000015258789,0.008115431293845177,Aaron Zehnter,h,10863,OpenPlay,2025,RightFoot,30286,Wolfsburg,VfB Stuttgart,0,3,2025-10-18 13:30:00,,None
+648832,54,MissedShots,0.9159999847412109,0.5259999847412109,0.5149303078651428,Aaron Zehnter,a,10863,OpenPlay,2025,LeftFoot,30292,Hamburger SV,Wolfsburg,0,1,2025-10-25 13:30:00,Mohammed Amoura,Pass
+651673,91,SavedShot,0.7919999694824219,0.7469999694824219,0.01292602252215147,Aaron Zehnter,h,10863,FromCorner,2025,LeftFoot,30304,Wolfsburg,Hoffenheim,2,3,2025-11-02 16:30:00,,Aerial
+655671,19,MissedShots,0.914000015258789,0.675,0.032850127667188644,Aaron Zehnter,a,10863,OpenPlay,2025,LeftFoot,30326,Eintracht Frankfurt,Wolfsburg,1,1,2025-11-30 16:30:00,Mohammed Amoura,Cross
+655684,66,Goal,0.95,0.629000015258789,0.2852892577648163,Aaron Zehnter,a,10863,OpenPlay,2025,LeftFoot,30326,Eintracht Frankfurt,Wolfsburg,1,1,2025-11-30 16:30:00,Sael Kumbedi,Cross
+656832,75,BlockedShot,0.8190000152587891,0.5459999847412109,0.08204251527786255,Aaron Zehnter,h,10863,OpenPlay,2025,LeftFoot,30333,Wolfsburg,Union Berlin,3,1,2025-12-06 14:30:00,Yannick Gerhardt,Pass
+677735,54,MissedShots,0.9080000305175782,0.4929999923706055,0.3744467794895172,Aaron Zehnter,h,10863,OpenPlay,2025,LeftFoot,30484,Wolfsburg,Eintracht Frankfurt,1,2,2026-04-11 13:30:00,Lovro Majer,Throughball
+679073,37,SavedShot,0.9180000305175782,0.21899999618530275,0.020900622010231018,Aaron Zehnter,a,10863,FromCorner,2025,LeftFoot,30492,Union Berlin,Wolfsburg,1,2,2026-04-18 13:30:00,Vinicius Souza,None
+680859,46,SavedShot,0.894000015258789,0.545,0.4301014542579651,Aaron Zehnter,h,10863,OpenPlay,2025,LeftFoot,30502,Wolfsburg,Borussia M.Gladbach,0,0,2026-04-25 13:30:00,Christian Eriksen,None

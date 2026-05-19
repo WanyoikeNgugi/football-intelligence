@@ -1,0 +1,21 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+61741,53,MissedShots,0.7580000305175781,0.725999984741211,0.014240499585866928,Benoit Assou-Ekotto,h,3516,OpenPlay,2015,LeftFoot,1880,Saint-Etienne,Bordeaux,1,1,2015-08-15 19:00:00,,Dispossessed
+62177,47,MissedShots,0.7140000152587891,0.585,0.016252299770712852,Benoit Assou-Ekotto,h,3516,OpenPlay,2015,LeftFoot,1906,Saint-Etienne,SC Bastia,2,1,2015-08-30 16:00:00,Jérémy Clément,Pass
+63495,11,SavedShot,0.779000015258789,0.639000015258789,0.01872830092906952,Benoit Assou-Ekotto,h,3516,FromCorner,2015,LeftFoot,1962,Saint-Etienne,GFC Ajaccio,2,0,2015-10-17 22:00:00,,None
+63977,45,SavedShot,0.7019999694824218,0.5920000076293945,0.009093410335481167,Benoit Assou-Ekotto,a,3516,SetPiece,2015,LeftFoot,1977,Paris Saint Germain,Saint-Etienne,4,1,2015-10-26 00:00:00,,None
+64811,1,MissedShots,0.730999984741211,0.6070000076293945,0.014357299543917179,Benoit Assou-Ekotto,h,3516,FromCorner,2015,LeftFoot,1979,Saint-Etienne,Reims,3,0,2015-10-31 20:00:00,,None
+64241,43,MissedShots,0.7959999847412109,0.6730000305175782,0.017192000523209572,Benoit Assou-Ekotto,a,3516,SetPiece,2015,LeftFoot,1997,Lyon,Saint-Etienne,3,0,2015-11-09 00:00:00,,Rebound
+69843,68,BlockedShot,0.85,0.6270000076293946,0.05915360152721405,Benoit Assou-Ekotto,a,3516,OpenPlay,2015,LeftFoot,2135,Marseille,Saint-Etienne,1,1,2016-02-21 17:00:00,Jean-Christophe Bahebeck,Pass
+69845,71,MissedShots,0.7819999694824219,0.6580000305175782,0.024604199454188347,Benoit Assou-Ekotto,a,3516,FromCorner,2015,LeftFoot,2135,Marseille,Saint-Etienne,1,1,2016-02-21 17:00:00,Jean-Christophe Bahebeck,Pass
+68188,18,MissedShots,0.8069999694824219,0.6840000152587891,0.023165900260210037,Benoit Assou-Ekotto,a,3516,OpenPlay,2015,LeftFoot,2201,SC Bastia,Saint-Etienne,0,1,2016-04-16 22:00:00,Nolan Roux,Pass
+68207,1,BlockedShot,0.7040000152587891,0.549000015258789,0.013339799828827381,Benoit Assou-Ekotto,h,3516,OpenPlay,2015,LeftFoot,2220,Saint-Etienne,Toulouse,0,0,2016-04-30 19:00:00,,BallRecovery
+68212,19,MissedShots,0.7340000152587891,0.5529999923706055,0.014653299935162067,Benoit Assou-Ekotto,h,3516,OpenPlay,2015,LeftFoot,2220,Saint-Etienne,Toulouse,0,0,2016-04-30 19:00:00,,None
+105115,90,SavedShot,0.475,0.4809999847412109,0.017645999789237976,Benoit Assou-Ekotto,a,3516,DirectFreekick,2016,LeftFoot,3326,Rennes,Metz,1,0,2016-10-30 20:00:00,,Standard
+105572,13,MissedShots,0.7169999694824218,0.6270000076293946,0.013163000345230103,Benoit Assou-Ekotto,h,3516,FromCorner,2016,LeftFoot,2841,Metz,Saint-Etienne,0,0,2016-11-06 20:00:00,,None
+107178,34,MissedShots,0.59,0.6220000076293946,0.020938999950885773,Benoit Assou-Ekotto,a,3516,DirectFreekick,2016,LeftFoot,2870,Nancy,Metz,4,0,2016-11-30 22:00:00,,Standard
+108589,11,MissedShots,0.6509999847412109,0.655,0.012262200005352497,Benoit Assou-Ekotto,h,3516,SetPiece,2016,LeftFoot,4154,Metz,Dijon,2,1,2017-02-08 21:00:00,Yann Jouffre,Pass
+108592,15,BlockedShot,0.7319999694824219,0.5459999847412109,0.019625099375844002,Benoit Assou-Ekotto,h,3516,FromCorner,2016,LeftFoot,4154,Metz,Dijon,2,1,2017-02-08 21:00:00,,Rebound
+108596,36,BlockedShot,0.7780000305175782,0.655,0.017774300649762154,Benoit Assou-Ekotto,h,3516,FromCorner,2016,LeftFoot,4154,Metz,Dijon,2,1,2017-02-08 21:00:00,,None
+109935,60,SavedShot,0.7569999694824219,0.38299999237060545,0.06270559877157211,Benoit Assou-Ekotto,a,3516,DirectFreekick,2016,LeftFoot,4227,Bordeaux,Metz,3,0,2017-04-08 19:00:00,,Standard
+162618,70,MissedShots,0.7480000305175781,0.7230000305175781,0.01089209970086813,Benoit Assou-Ekotto,a,3516,OpenPlay,2017,LeftFoot,8598,Caen,Metz,1,0,2017-08-26 19:00:00,,TakeOn
+163384,4,MissedShots,0.7140000152587891,0.67,0.012458300217986107,Benoit Assou-Ekotto,a,3516,FromCorner,2017,LeftFoot,8642,Nantes,Metz,1,0,2017-09-30 19:00:00,,None

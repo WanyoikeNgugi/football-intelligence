@@ -1,0 +1,46 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+87911,69,MissedShots,0.7909999847412109,0.39799999237060546,0.02116359956562519,Miguel Cardoso,a,2583,OpenPlay,2015,LeftFoot,1540,Barcelona,Deportivo La Coruna,2,2,2015-12-12 19:00:00,Lucas Pérez,HeadPass
+87913,74,BlockedShot,0.8119999694824219,0.4909999847412109,0.05301399901509285,Miguel Cardoso,a,2583,OpenPlay,2015,RightFoot,1540,Barcelona,Deportivo La Coruna,2,2,2015-12-12 19:00:00,Juan Domínguez,Pass
+87916,80,MissedShots,0.8819999694824219,0.3089999961853027,0.04696429893374443,Miguel Cardoso,a,2583,OpenPlay,2015,RightFoot,1540,Barcelona,Deportivo La Coruna,2,2,2015-12-12 19:00:00,Lucas Pérez,Pass
+87919,90,MissedShots,0.9269999694824219,0.27700000762939453,0.06524799764156342,Miguel Cardoso,a,2583,OpenPlay,2015,RightFoot,1540,Barcelona,Deportivo La Coruna,2,2,2015-12-12 19:00:00,Lucas Pérez,Pass
+223075,92,BlockedShot,0.845,0.6719999694824219,0.054575301706790924,Miguel Cardoso,h,2583,OpenPlay,2018,RightFoot,8990,Dinamo Moscow,FC Orenburg,2,0,2018-09-02 13:30:00,Kirill Panchenko,Pass
+227342,4,Goal,0.9209999847412109,0.43900001525878907,0.04438110068440437,Miguel Cardoso,a,2583,OpenPlay,2018,Head,9000,Lokomotiv Moscow,Dinamo Moscow,1,1,2018-09-14 16:30:00,Konstantin Rausch,Aerial
+227165,5,SavedShot,0.8830000305175781,0.5940000152587891,0.11920499801635742,Miguel Cardoso,h,2583,OpenPlay,2018,RightFoot,9008,Dinamo Moscow,Anzhi Makhachkala,0,1,2018-09-22 11:00:00,,None
+227181,56,MissedShots,0.750999984741211,0.720999984741211,0.013801099732518196,Miguel Cardoso,h,2583,OpenPlay,2018,RightFoot,9008,Dinamo Moscow,Anzhi Makhachkala,0,1,2018-09-22 11:00:00,Konstantin Rausch,Pass
+227182,59,BlockedShot,0.764000015258789,0.47,0.023997100070118904,Miguel Cardoso,h,2583,OpenPlay,2018,RightFoot,9008,Dinamo Moscow,Anzhi Makhachkala,0,1,2018-09-22 11:00:00,Konstantin Rausch,HeadPass
+230800,12,BlockedShot,0.775,0.6469999694824219,0.02301359921693802,Miguel Cardoso,a,2583,OpenPlay,2018,LeftFoot,9009,FC Krasnodar,Dinamo Moscow,3,0,2018-09-30 13:30:00,Konstantin Rausch,Pass
+230803,19,MissedShots,0.7819999694824219,0.375,0.025187399238348007,Miguel Cardoso,a,2583,OpenPlay,2018,LeftFoot,9009,FC Krasnodar,Dinamo Moscow,3,0,2018-09-30 13:30:00,Aleksei Kozlov,Pass
+230816,81,SavedShot,0.8540000152587891,0.26799999237060546,0.03121820092201233,Miguel Cardoso,a,2583,OpenPlay,2018,RightFoot,9009,FC Krasnodar,Dinamo Moscow,3,0,2018-09-30 13:30:00,Anton Terekhov,Pass
+238150,35,MissedShots,0.7380000305175781,0.6469999694824219,0.01784989982843399,Miguel Cardoso,h,2583,OpenPlay,2018,RightFoot,9029,Dinamo Moscow,Zenit St. Petersburg,1,0,2018-10-21 11:00:00,Sebastian Holmén,Pass
+238153,51,BlockedShot,0.8109999847412109,0.605999984741211,0.04052089899778366,Miguel Cardoso,h,2583,OpenPlay,2018,RightFoot,9029,Dinamo Moscow,Zenit St. Petersburg,1,0,2018-10-21 11:00:00,,None
+245286,28,ShotOnPost,0.835999984741211,0.3820000076293945,0.026737399399280548,Miguel Cardoso,h,2583,OpenPlay,2018,RightFoot,9059,Dinamo Moscow,FC Yenisey Krasnoyarsk,1,2,2018-11-24 11:00:00,Joãozinho,TakeOn
+245311,79,SavedShot,0.8569999694824219,0.590999984741211,0.07542409747838974,Miguel Cardoso,h,2583,OpenPlay,2018,RightFoot,9059,Dinamo Moscow,FC Yenisey Krasnoyarsk,1,2,2018-11-24 11:00:00,Evgeni Lutsenko,Pass
+245315,89,SavedShot,0.9319999694824219,0.6140000152587891,0.03110389970242977,Miguel Cardoso,h,2583,OpenPlay,2018,Head,9059,Dinamo Moscow,FC Yenisey Krasnoyarsk,1,2,2018-11-24 11:00:00,Sebastian Holmén,Chipped
+291757,12,MissedShots,0.94,0.4779999923706055,0.4693419933319092,Miguel Cardoso,a,2583,OpenPlay,2018,Head,9120,Anzhi Makhachkala,Dinamo Moscow,1,1,2019-04-06 12:00:00,Gregory Morozov,Cross
+291765,23,SavedShot,0.9530000305175781,0.6140000152587891,0.0784790962934494,Miguel Cardoso,a,2583,OpenPlay,2018,LeftFoot,9120,Anzhi Makhachkala,Dinamo Moscow,1,1,2019-04-06 12:00:00,Kirill Panchenko,Rebound
+291775,51,BlockedShot,0.8080000305175781,0.3920000076293945,0.036092400550842285,Miguel Cardoso,a,2583,OpenPlay,2018,RightFoot,9120,Anzhi Makhachkala,Dinamo Moscow,1,1,2019-04-06 12:00:00,,Rebound
+296228,6,MissedShots,0.9390000152587891,0.5790000152587891,0.0918499007821083,Miguel Cardoso,h,2583,OpenPlay,2018,Head,9129,Dinamo Moscow,Krylya Sovetov Samara,1,0,2019-04-20 14:30:00,Joãozinho,Cross
+296230,33,MissedShots,0.7230000305175781,0.610999984741211,0.017079100012779236,Miguel Cardoso,h,2583,OpenPlay,2018,RightFoot,9129,Dinamo Moscow,Krylya Sovetov Samara,1,0,2019-04-20 14:30:00,Artur Yusupov,Pass
+296239,74,BlockedShot,0.845,0.23600000381469727,0.029293499886989594,Miguel Cardoso,h,2583,OpenPlay,2018,RightFoot,9129,Dinamo Moscow,Krylya Sovetov Samara,1,0,2019-04-20 14:30:00,Artur Yusupov,Pass
+298624,32,SavedShot,0.905,0.3659999847412109,0.34018000960350037,Miguel Cardoso,h,2583,OpenPlay,2018,RightFoot,9152,Dinamo Moscow,FK Akhmat,0,0,2019-04-27 17:00:00,,None
+298628,41,MissedShots,0.705999984741211,0.40400001525878904,0.014442400075495243,Miguel Cardoso,h,2583,OpenPlay,2018,RightFoot,9152,Dinamo Moscow,FK Akhmat,0,0,2019-04-27 17:00:00,Joãozinho,Pass
+299999,34,Goal,0.879000015258789,0.43900001525878907,0.3087109923362732,Miguel Cardoso,a,2583,OpenPlay,2018,RightFoot,9159,CSKA Moscow,Dinamo Moscow,2,2,2019-05-05 14:30:00,Aleksei Kozlov,TakeOn
+300012,70,MissedShots,0.7819999694824219,0.725999984741211,0.023445500060915947,Miguel Cardoso,a,2583,OpenPlay,2018,RightFoot,9159,CSKA Moscow,Dinamo Moscow,2,2,2019-05-05 14:30:00,Gregory Morozov,Pass
+301928,14,BlockedShot,0.8009999847412109,0.6719999694824219,0.03036710061132908,Miguel Cardoso,h,2583,OpenPlay,2018,RightFoot,9162,Dinamo Moscow,FC Rostov,0,0,2019-05-10 12:00:00,Roman Evgeniev,Chipped
+301946,65,BlockedShot,0.7609999847412109,0.47400001525878904,0.026346400380134583,Miguel Cardoso,h,2583,OpenPlay,2018,LeftFoot,9162,Dinamo Moscow,FC Rostov,0,0,2019-05-10 12:00:00,Kirill Panchenko,Pass
+301947,65,SavedShot,0.8730000305175781,0.5570000076293945,0.3627910017967224,Miguel Cardoso,h,2583,OpenPlay,2018,LeftFoot,9162,Dinamo Moscow,FC Rostov,0,0,2019-05-10 12:00:00,Evgeni Lutsenko,Throughball
+301953,80,MissedShots,0.9030000305175782,0.435,0.09411010146141052,Miguel Cardoso,h,2583,FromCorner,2018,LeftFoot,9162,Dinamo Moscow,FC Rostov,0,0,2019-05-10 12:00:00,,None
+304320,23,BlockedShot,0.8719999694824219,0.47400001525878904,0.3234510123729706,Miguel Cardoso,a,2583,OpenPlay,2018,LeftFoot,9171,FC Yenisey Krasnoyarsk,Dinamo Moscow,2,2,2019-05-19 11:00:00,,Rebound
+304326,36,MissedShots,0.8540000152587891,0.3370000076293945,0.034456200897693634,Miguel Cardoso,a,2583,OpenPlay,2018,RightFoot,9171,FC Yenisey Krasnoyarsk,Dinamo Moscow,2,2,2019-05-19 11:00:00,Joãozinho,Cross
+304329,48,BlockedShot,0.8380000305175781,0.2610000038146973,0.02574409916996956,Miguel Cardoso,a,2583,OpenPlay,2018,LeftFoot,9171,FC Yenisey Krasnoyarsk,Dinamo Moscow,2,2,2019-05-19 11:00:00,Evgeni Lutsenko,Pass
+304341,93,BlockedShot,0.8669999694824219,0.7119999694824218,0.03835989907383919,Miguel Cardoso,a,2583,OpenPlay,2018,LeftFoot,9171,FC Yenisey Krasnoyarsk,Dinamo Moscow,2,2,2019-05-19 11:00:00,Artur Yusupov,Pass
+304484,1,SavedShot,0.9340000152587891,0.509000015258789,0.42747101187705994,Miguel Cardoso,h,2583,OpenPlay,2018,Head,9180,Dinamo Moscow,Arsenal Tula,3,3,2019-05-26 11:00:00,Joãozinho,Cross
+304485,1,Goal,0.985,0.5059999847412109,0.9674810171127319,Miguel Cardoso,h,2583,OpenPlay,2018,LeftFoot,9180,Dinamo Moscow,Arsenal Tula,3,3,2019-05-26 11:00:00,,Rebound
+304495,38,MissedShots,0.7390000152587891,0.34900001525878904,0.02297299914062023,Miguel Cardoso,h,2583,OpenPlay,2018,RightFoot,9180,Dinamo Moscow,Arsenal Tula,3,3,2019-05-26 11:00:00,Artur Yusupov,Pass
+304498,46,BlockedShot,0.7619999694824219,0.39599998474121095,0.028829300776124,Miguel Cardoso,h,2583,OpenPlay,2018,LeftFoot,9180,Dinamo Moscow,Arsenal Tula,3,3,2019-05-26 11:00:00,Kirill Panchenko,Pass
+307079,5,BlockedShot,0.9130000305175782,0.28299999237060547,0.0430959016084671,Miguel Cardoso,a,2583,OpenPlay,2019,RightFoot,11023,Arsenal Tula,Dinamo Moscow,1,1,2019-07-12 17:00:00,,None
+307082,15,Goal,0.8419999694824218,0.44299999237060544,0.06215919926762581,Miguel Cardoso,a,2583,OpenPlay,2019,LeftFoot,11023,Arsenal Tula,Dinamo Moscow,1,1,2019-07-12 17:00:00,,None
+307092,46,MissedShots,0.7759999847412109,0.26399999618530273,0.03512689843773842,Miguel Cardoso,a,2583,OpenPlay,2019,LeftFoot,11023,Arsenal Tula,Dinamo Moscow,1,1,2019-07-12 17:00:00,Artur Yusupov,TakeOn
+307099,69,BlockedShot,0.8680000305175781,0.32,0.0614762008190155,Miguel Cardoso,a,2583,OpenPlay,2019,LeftFoot,11023,Arsenal Tula,Dinamo Moscow,1,1,2019-07-12 17:00:00,Ramil Sheydaev,Pass
+307492,43,SavedShot,0.87,0.545,0.4583840072154999,Miguel Cardoso,h,2583,OpenPlay,2019,RightFoot,11037,Dinamo Moscow,Rubin Kazan,0,1,2019-07-21 16:00:00,Sebastian Szymanski,Pass
+307498,56,MissedShots,0.9219999694824219,0.34,0.2899610102176666,Miguel Cardoso,h,2583,OpenPlay,2019,RightFoot,11037,Dinamo Moscow,Rubin Kazan,0,1,2019-07-21 16:00:00,Ramil Sheydaev,Pass

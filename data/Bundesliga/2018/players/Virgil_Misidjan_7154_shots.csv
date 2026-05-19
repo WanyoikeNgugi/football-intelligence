@@ -1,0 +1,24 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+224227,83,BlockedShot,0.919000015258789,0.3029999923706055,0.04748009890317917,Virgil Misidjan,a,7154,OpenPlay,2018,RightFoot,10362,Werder Bremen,Nuernberg,1,1,2018-09-16 13:30:00,,None
+224229,91,Goal,0.9209999847412109,0.6519999694824219,0.07434280216693878,Virgil Misidjan,a,7154,OpenPlay,2018,RightFoot,10362,Werder Bremen,Nuernberg,1,1,2018-09-16 13:30:00,Hanno Behrens,Pass
+225002,13,BlockedShot,0.725999984741211,0.7419999694824219,0.008388659916818142,Virgil Misidjan,h,7154,SetPiece,2018,RightFoot,10369,Nuernberg,Hannover 96,2,0,2018-09-22 13:30:00,,None
+225007,36,SavedShot,0.925,0.3609999847412109,0.3450849950313568,Virgil Misidjan,h,7154,OpenPlay,2018,RightFoot,10369,Nuernberg,Hannover 96,2,0,2018-09-22 13:30:00,Hanno Behrens,Throughball
+226678,17,MissedShots,0.8540000152587891,0.27399999618530274,0.025400299578905106,Virgil Misidjan,a,7154,OpenPlay,2018,RightFoot,10378,Borussia Dortmund,Nuernberg,7,0,2018-09-26 18:30:00,Enrico Valentini,Pass
+227943,82,SavedShot,0.8809999847412109,0.590999984741211,0.45980599522590637,Virgil Misidjan,h,7154,OpenPlay,2018,RightFoot,10387,Nuernberg,Fortuna Duesseldorf,3,0,2018-09-29 13:30:00,,Dispossessed
+255916,48,MissedShots,0.9869999694824219,0.5940000152587891,0.32514798641204834,Virgil Misidjan,a,7154,FromCorner,2018,LeftFoot,10419,Augsburg,Nuernberg,2,2,2018-11-03 14:30:00,,Rebound
+256326,54,SavedShot,0.985999984741211,0.3820000076293945,0.070346400141716,Virgil Misidjan,h,7154,OpenPlay,2018,RightFoot,10435,Nuernberg,VfB Stuttgart,0,2,2018-11-10 14:30:00,,Rebound
+256338,83,MissedShots,0.7069999694824218,0.325,0.011711000464856625,Virgil Misidjan,h,7154,OpenPlay,2018,RightFoot,10435,Nuernberg,VfB Stuttgart,0,2,2018-11-10 14:30:00,Lukas Mühl,Pass
+256944,30,BlockedShot,0.7769999694824219,0.7880000305175782,0.016048800200223923,Virgil Misidjan,h,7154,OpenPlay,2018,RightFoot,10453,Nuernberg,Bayer Leverkusen,1,1,2018-12-03 19:30:00,Tim Leibold,Pass
+257240,55,MissedShots,0.8590000152587891,0.635,0.12309499830007553,Virgil Misidjan,h,7154,OpenPlay,2018,RightFoot,10471,Nuernberg,Wolfsburg,0,2,2018-12-14 19:30:00,Ondrej Petrák,TakeOn
+257777,0,MissedShots,0.6830000305175781,0.33299999237060546,0.01051849965006113,Virgil Misidjan,h,7154,OpenPlay,2018,RightFoot,10481,Nuernberg,Freiburg,0,1,2018-12-22 14:30:00,,BallRecovery
+278449,12,BlockedShot,0.850999984741211,0.395,0.07450290024280548,Virgil Misidjan,h,7154,OpenPlay,2018,RightFoot,10495,Nuernberg,Hertha Berlin,1,3,2019-01-20 14:30:00,Tim Leibold,Pass
+278460,48,MissedShots,0.7140000152587891,0.43900001525878907,0.016365600749850273,Virgil Misidjan,h,7154,FromCorner,2018,RightFoot,10495,Nuernberg,Hertha Berlin,1,3,2019-01-20 14:30:00,,Rebound
+278471,74,SavedShot,0.750999984741211,0.6519999694824219,0.012981399893760681,Virgil Misidjan,h,7154,OpenPlay,2018,RightFoot,10495,Nuernberg,Hertha Berlin,1,3,2019-01-20 14:30:00,Tim Leibold,Pass
+278473,77,MissedShots,0.8019999694824219,0.28899999618530275,0.01871030032634735,Virgil Misidjan,h,7154,OpenPlay,2018,RightFoot,10495,Nuernberg,Hertha Berlin,1,3,2019-01-20 14:30:00,Mikael Ishak,Pass
+278626,32,MissedShots,0.8669999694824219,0.3089999961853027,0.04157299920916557,Virgil Misidjan,a,7154,OpenPlay,2018,RightFoot,10505,Mainz 05,Nuernberg,2,1,2019-01-26 14:30:00,Ewerton,Chipped
+279623,89,SavedShot,0.785,0.7290000152587891,0.018492700532078743,Virgil Misidjan,h,7154,OpenPlay,2018,RightFoot,10552,Nuernberg,RasenBallsport Leipzig,0,1,2019-03-02 14:30:00,Tim Leibold,Pass
+291908,69,BlockedShot,0.8080000305175781,0.7140000152587891,0.03099210001528263,Virgil Misidjan,a,7154,OpenPlay,2018,RightFoot,10583,VfB Stuttgart,Nuernberg,1,1,2019-04-06 14:30:00,Tim Leibold,Pass
+291914,84,MissedShots,0.87,0.7580000305175781,0.02566239982843399,Virgil Misidjan,a,7154,OpenPlay,2018,RightFoot,10583,VfB Stuttgart,Nuernberg,1,1,2019-04-06 14:30:00,,None
+291919,89,SavedShot,0.9680000305175781,0.49,0.6711059808731079,Virgil Misidjan,a,7154,FromCorner,2018,RightFoot,10583,VfB Stuttgart,Nuernberg,1,1,2019-04-06 14:30:00,,None
+291918,89,SavedShot,0.905,0.46599998474121096,0.2300029993057251,Virgil Misidjan,a,7154,OpenPlay,2018,Head,10583,VfB Stuttgart,Nuernberg,1,1,2019-04-06 14:30:00,Tim Leibold,Cross
+291920,92,MissedShots,0.835,0.7030000305175781,0.08816239982843399,Virgil Misidjan,a,7154,OpenPlay,2018,RightFoot,10583,VfB Stuttgart,Nuernberg,1,1,2019-04-06 14:30:00,Tim Leibold,Chipped

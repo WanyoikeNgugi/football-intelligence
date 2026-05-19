@@ -1,0 +1,21 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+546491,70,MissedShots,0.6830000305175781,0.6880000305175781,0.028804941102862358,Moritz-Broni Kwarteng,a,12134,DirectFreekick,2023,RightFoot,23154,Darmstadt,Bochum,1,2,2023-11-03 19:30:00,,Standard
+546498,92,MissedShots,0.799000015258789,0.509000015258789,0.06977414339780807,Moritz-Broni Kwarteng,a,12134,OpenPlay,2023,LeftFoot,23154,Darmstadt,Bochum,1,2,2023-11-03 19:30:00,Tim Oermann,TakeOn
+548595,7,MissedShots,0.8640000152587891,0.7230000305175781,0.03427687659859657,Moritz-Broni Kwarteng,h,12134,OpenPlay,2023,RightFoot,23160,Bochum,FC Cologne,1,1,2023-11-11 17:30:00,Takuma Asano,Pass
+548601,21,SavedShot,0.9330000305175781,0.4329999923706055,0.4392301142215729,Moritz-Broni Kwarteng,h,12134,OpenPlay,2023,RightFoot,23160,Bochum,FC Cologne,1,1,2023-11-11 17:30:00,Philipp Hofmann,TakeOn
+548605,44,BlockedShot,0.9030000305175782,0.6179999923706054,0.11075911670923233,Moritz-Broni Kwarteng,h,12134,OpenPlay,2023,RightFoot,23160,Bochum,FC Cologne,1,1,2023-11-11 17:30:00,Philipp Hofmann,Pass
+551105,78,BlockedShot,0.7609999847412109,0.40099998474121096,0.03171679750084877,Moritz-Broni Kwarteng,h,12134,OpenPlay,2023,RightFoot,23178,Bochum,Wolfsburg,3,1,2023-12-02 14:30:00,,None
+560369,86,SavedShot,0.9009999847412109,0.3039999961853027,0.03218324854969978,Moritz-Broni Kwarteng,a,12134,OpenPlay,2023,RightFoot,23227,Borussia Dortmund,Bochum,3,1,2024-01-28 16:30:00,Kevin Stöger,TakeOn
+560371,92,MissedShots,0.8640000152587891,0.5459999847412109,0.02641894482076168,Moritz-Broni Kwarteng,a,12134,OpenPlay,2023,Head,23227,Borussia Dortmund,Bochum,3,1,2024-01-28 16:30:00,Kevin Stöger,Cross
+561107,74,MissedShots,0.9019999694824219,0.29100000381469726,0.3213776648044586,Moritz-Broni Kwarteng,h,12134,OpenPlay,2023,RightFoot,23242,Bochum,Augsburg,1,1,2024-02-03 14:30:00,,BallRecovery
+564609,100,SavedShot,0.874000015258789,0.7319999694824219,0.040785763412714005,Moritz-Broni Kwarteng,h,12134,OpenPlay,2023,RightFoot,23260,Bochum,Bayern Munich,3,2,2024-02-18 16:30:00,Kevin Stöger,Pass
+564608,100,BlockedShot,0.874000015258789,0.6680000305175782,0.0735011100769043,Moritz-Broni Kwarteng,h,12134,OpenPlay,2023,RightFoot,23260,Bochum,Bayern Munich,3,2,2024-02-18 16:30:00,Philipp Förster,Pass
+565132,52,BlockedShot,0.975999984741211,0.5840000152587891,0.4291360378265381,Moritz-Broni Kwarteng,a,12134,FromCorner,2023,LeftFoot,23266,Borussia M.Gladbach,Bochum,5,2,2024-02-24 14:30:00,,Rebound
+565134,54,MissedShots,0.765,0.46,0.024091893807053566,Moritz-Broni Kwarteng,a,12134,OpenPlay,2023,RightFoot,23266,Borussia M.Gladbach,Bochum,5,2,2024-02-24 14:30:00,Kevin Stöger,TakeOn
+565137,56,MissedShots,0.8469999694824218,0.4420000076293945,0.0774741917848587,Moritz-Broni Kwarteng,a,12134,OpenPlay,2023,RightFoot,23266,Borussia M.Gladbach,Bochum,5,2,2024-02-24 14:30:00,Matús Bero,Pass
+590705,92,MissedShots,0.87,0.6580000305175782,0.032490313053131104,Moritz-Broni Kwarteng,a,12134,OpenPlay,2024,LeftFoot,27762,Freiburg,Bochum,2,1,2024-09-14 13:30:00,Philipp Hofmann,HeadPass
+592259,94,MissedShots,0.759000015258789,0.5590000152587891,0.016083702445030212,Moritz-Broni Kwarteng,h,12134,SetPiece,2024,RightFoot,27771,Bochum,Holstein Kiel,2,2,2024-09-21 13:30:00,,None
+596970,75,BlockedShot,0.7559999847412109,0.5229999923706055,0.02316056750714779,Moritz-Broni Kwarteng,a,12134,OpenPlay,2024,RightFoot,27799,Hoffenheim,Bochum,3,1,2024-10-19 13:30:00,Maximilian Wittek,Pass
+596973,83,BlockedShot,0.745,0.3729999923706055,0.019236166030168533,Moritz-Broni Kwarteng,a,12134,OpenPlay,2024,RightFoot,27799,Hoffenheim,Bochum,3,1,2024-10-19 13:30:00,Cristian Gamboa,Pass
+604248,69,SavedShot,0.8090000152587891,0.37400001525878906,0.038150716572999954,Moritz-Broni Kwarteng,a,12134,OpenPlay,2024,LeftFoot,27846,Augsburg,Bochum,1,0,2024-11-30 14:30:00,Koji Miyoshi,Pass
+605780,91,MissedShots,0.774000015258789,0.4829999923706055,0.02609292045235634,Moritz-Broni Kwarteng,h,12134,SetPiece,2024,RightFoot,27855,Bochum,Werder Bremen,0,1,2024-12-07 14:30:00,Matús Bero,Pass

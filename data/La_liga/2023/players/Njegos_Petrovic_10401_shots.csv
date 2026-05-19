@@ -1,0 +1,13 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+462522,52,SavedShot,0.8480000305175781,0.555,0.06252089887857437,Njegos Petrovic,h,10401,OpenPlay,2021,RightFoot,17411,Granada,Elche,0,1,2022-03-12 15:15:00,Raúl Torrente,TakeOn
+466467,47,MissedShots,0.9069999694824219,0.43900001525878907,0.045118898153305054,Njegos Petrovic,a,10401,FromCorner,2021,Head,17442,Sevilla,Granada,4,2,2022-04-08 19:00:00,,None
+466473,68,BlockedShot,0.7559999847412109,0.34599998474121096,0.016190800815820694,Njegos Petrovic,a,10401,OpenPlay,2021,RightFoot,17442,Sevilla,Granada,4,2,2022-04-08 19:00:00,,BallTouch
+468546,76,MissedShots,0.9769999694824218,0.4759999847412109,0.14628799259662628,Njegos Petrovic,h,10401,FromCorner,2021,LeftFoot,17451,Granada,Levante,1,4,2022-04-17 12:00:00,Darwin Machís,Cross
+469319,60,MissedShots,0.775,0.3060000038146973,0.01820410043001175,Njegos Petrovic,a,10401,OpenPlay,2021,LeftFoot,17456,Atletico Madrid,Granada,0,0,2022-04-20 17:00:00,Álex Collado,Pass
+469326,80,MissedShots,0.6940000152587891,0.700999984741211,0.013116399757564068,Njegos Petrovic,a,10401,OpenPlay,2021,RightFoot,17456,Atletico Madrid,Granada,0,0,2022-04-20 17:00:00,Montoro,Pass
+472248,39,BlockedShot,0.7119999694824218,0.5690000152587891,0.012059999629855156,Njegos Petrovic,h,10401,OpenPlay,2021,RightFoot,17470,Granada,Celta Vigo,1,1,2022-05-01 14:15:00,,Rebound
+472260,73,SavedShot,0.9109999847412109,0.5570000076293945,0.08225800096988678,Njegos Petrovic,h,10401,FromCorner,2021,Head,17470,Granada,Celta Vigo,1,1,2022-05-01 14:15:00,Darwin Machís,Cross
+472942,5,BlockedShot,0.9290000152587891,0.534000015258789,0.10304400324821472,Njegos Petrovic,a,10401,FromCorner,2021,RightFoot,17480,Mallorca,Granada,2,6,2022-05-07 12:00:00,Domingos Duarte,BallTouch
+540561,79,BlockedShot,0.6840000152587891,0.5729999923706055,0.036013178527355194,Njegos Petrovic,h,10401,DirectFreekick,2023,RightFoot,22750,Granada,Real Betis,1,1,2023-09-28 17:00:00,,Standard
+540567,94,MissedShots,0.8809999847412109,0.585,0.032704174518585205,Njegos Petrovic,h,10401,OpenPlay,2023,Head,22750,Granada,Real Betis,1,1,2023-09-28 17:00:00,Ricard Sánchez,Cross
+546472,93,SavedShot,0.7419999694824219,0.5720000076293945,0.013028979301452637,Njegos Petrovic,h,10401,SetPiece,2023,RightFoot,22791,Granada,Villarreal,2,3,2023-10-30 20:00:00,,None

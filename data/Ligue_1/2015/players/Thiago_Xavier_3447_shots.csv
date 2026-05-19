@@ -1,0 +1,14 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+61802,92,ShotOnPost,0.9309999847412109,0.5129999923706055,0.3269599974155426,Thiago Xavier,h,3447,SetPiece,2015,RightFoot,1881,Troyes,Nice,3,3,2015-08-15 22:00:00,Fabien Camus,Goal
+61803,92,Goal,0.97,0.555,0.5892999768257141,Thiago Xavier,h,3447,SetPiece,2015,LeftFoot,1881,Troyes,Nice,3,3,2015-08-15 22:00:00,,None
+65523,93,MissedShots,0.91,0.6409999847412109,0.011509999632835388,Thiago Xavier,h,3447,FromCorner,2015,Head,2055,Troyes,Monaco,0,0,2015-12-19 23:00:00,Yoann Court,Aerial
+69019,34,MissedShots,0.9419999694824219,0.39099998474121095,0.014716600067913532,Thiago Xavier,a,3447,FromCorner,2015,Head,2103,Guingamp,Troyes,4,0,2016-02-03 22:00:00,Karim Azamoum,Aerial
+69022,41,MissedShots,0.9169999694824219,0.5279999923706055,0.09430409967899323,Thiago Xavier,a,3447,FromCorner,2015,Head,2103,Guingamp,Troyes,4,0,2016-02-03 22:00:00,Karim Azamoum,Cross
+69028,54,MissedShots,0.8859999847412109,0.5109999847412109,0.045198000967502594,Thiago Xavier,a,3447,FromCorner,2015,Head,2103,Guingamp,Troyes,4,0,2016-02-03 22:00:00,Karim Azamoum,Cross
+66721,13,MissedShots,0.965,0.46,0.48728999495506287,Thiago Xavier,a,3447,FromCorner,2015,Head,2153,Nice,Troyes,2,1,2016-03-05 23:00:00,,Rebound
+67253,14,BlockedShot,0.8980000305175782,0.5520000076293945,0.09164179861545563,Thiago Xavier,h,3447,OpenPlay,2015,LeftFoot,2166,Troyes,Paris Saint Germain,0,9,2016-03-13 17:00:00,Corentin Jean,Cross
+67270,56,MissedShots,0.7580000305175781,0.6079999923706054,0.017659900709986687,Thiago Xavier,h,3447,OpenPlay,2015,RightFoot,2166,Troyes,Paris Saint Germain,0,9,2016-03-13 17:00:00,Jessy Pi,Pass
+67275,66,MissedShots,0.9480000305175781,0.5309999847412109,0.12853899598121643,Thiago Xavier,h,3447,FromCorner,2015,Head,2166,Troyes,Paris Saint Germain,0,9,2016-03-13 17:00:00,Fabien Camus,Cross
+67224,21,Goal,0.9359999847412109,0.48900001525878906,0.41368401050567627,Thiago Xavier,a,3447,FromCorner,2015,Head,2173,Caen,Troyes,2,1,2016-03-19 23:00:00,Benjamin Nivet,Cross
+67603,12,BlockedShot,0.9259999847412109,0.295,0.03417620062828064,Thiago Xavier,a,3447,FromCorner,2015,RightFoot,2192,Saint-Etienne,Troyes,1,0,2016-04-09 22:00:00,Chris Mavinga,Tackle
+68835,30,BlockedShot,0.725,0.45,0.016133999451994896,Thiago Xavier,h,3447,OpenPlay,2015,LeftFoot,2205,Troyes,Reims,2,1,2016-04-16 22:00:00,Fabien Camus,Pass

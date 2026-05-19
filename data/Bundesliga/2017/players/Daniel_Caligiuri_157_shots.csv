@@ -1,0 +1,330 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+24353,62,MissedShots,0.7819999694824219,0.5659999847412109,0.033837299793958664,Daniel Caligiuri,a,157,OpenPlay,2014,RightFoot,5447,Bayern Munich,Wolfsburg,2,1,2014-08-22 19:30:00,Kevin De Bruyne,Pass
+24357,79,MissedShots,0.8569999694824219,0.625999984741211,0.060701098293066025,Daniel Caligiuri,a,157,OpenPlay,2014,RightFoot,5447,Bayern Munich,Wolfsburg,2,1,2014-08-22 19:30:00,Kevin De Bruyne,TakeOn
+24359,85,MissedShots,0.9,0.525,0.2135230004787445,Daniel Caligiuri,a,157,OpenPlay,2014,Head,5447,Bayern Munich,Wolfsburg,2,1,2014-08-22 19:30:00,Sebastian Jung,Cross
+24901,16,MissedShots,0.8480000305175781,0.3060000038146973,0.035873398184776306,Daniel Caligiuri,a,157,OpenPlay,2014,RightFoot,5412,Hoffenheim,Wolfsburg,1,1,2014-09-13 14:30:00,Ivica Olic,Pass
+24911,35,BlockedShot,0.8919999694824219,0.30100000381469727,0.04941679909825325,Daniel Caligiuri,a,157,OpenPlay,2014,LeftFoot,5412,Hoffenheim,Wolfsburg,1,1,2014-09-13 14:30:00,Sebastian Jung,TakeOn
+24917,47,BlockedShot,0.7780000305175782,0.3940000152587891,0.02158389985561371,Daniel Caligiuri,a,157,OpenPlay,2014,LeftFoot,5412,Hoffenheim,Wolfsburg,1,1,2014-09-13 14:30:00,Kevin De Bruyne,TakeOn
+25052,14,SavedShot,0.960999984741211,0.899000015258789,0.021989500150084496,Daniel Caligiuri,h,157,OpenPlay,2014,LeftFoot,5427,Wolfsburg,Bayer Leverkusen,4,1,2014-09-21 14:30:00,Ricardo Rodríguez,Chipped
+25063,43,SavedShot,0.889000015258789,0.6020000076293945,0.1304139941930771,Daniel Caligiuri,h,157,OpenPlay,2014,RightFoot,5427,Wolfsburg,Bayer Leverkusen,4,1,2014-09-21 14:30:00,Luiz Gustavo,TakeOn
+25065,46,BlockedShot,0.88,0.664000015258789,0.07919439673423767,Daniel Caligiuri,h,157,OpenPlay,2014,LeftFoot,5427,Wolfsburg,Bayer Leverkusen,4,1,2014-09-21 14:30:00,Vieirinha,Pass
+25069,59,SavedShot,0.8240000152587891,0.715,0.03900749981403351,Daniel Caligiuri,h,157,OpenPlay,2014,RightFoot,5427,Wolfsburg,Bayer Leverkusen,4,1,2014-09-21 14:30:00,,None
+25441,63,BlockedShot,0.805,0.67,0.03181390091776848,Daniel Caligiuri,a,157,OpenPlay,2014,RightFoot,5437,Hertha Berlin,Wolfsburg,1,0,2014-09-24 19:00:00,Ricardo Rodríguez,TakeOn
+25442,64,MissedShots,0.8240000152587891,0.67,0.03633109852671623,Daniel Caligiuri,a,157,OpenPlay,2014,RightFoot,5437,Hertha Berlin,Wolfsburg,1,0,2014-09-24 19:00:00,Aaron Hunt,Pass
+25445,71,BlockedShot,0.8490000152587891,0.74,0.02879980020225048,Daniel Caligiuri,a,157,OpenPlay,2014,RightFoot,5437,Hertha Berlin,Wolfsburg,1,0,2014-09-24 19:00:00,Nicklas Bendtner,Pass
+26058,7,Goal,0.9590000152587891,0.59,0.32703301310539246,Daniel Caligiuri,a,157,OpenPlay,2014,LeftFoot,5395,Freiburg,Wolfsburg,1,2,2014-10-18 14:30:00,Kevin De Bruyne,Cross
+26079,65,Goal,0.8519999694824218,0.6619999694824219,0.05865279957652092,Daniel Caligiuri,a,157,OpenPlay,2014,RightFoot,5395,Freiburg,Wolfsburg,1,2,2014-10-18 14:30:00,Kevin De Bruyne,Pass
+26082,82,SavedShot,0.9180000305175782,0.6309999847412109,0.24365100264549255,Daniel Caligiuri,a,157,OpenPlay,2014,RightFoot,5395,Freiburg,Wolfsburg,1,2,2014-10-18 14:30:00,Ricardo Rodríguez,Pass
+26281,86,Goal,0.975,0.555,0.70586097240448,Daniel Caligiuri,h,157,OpenPlay,2014,LeftFoot,5408,Wolfsburg,Mainz 05,3,0,2014-10-26 14:30:00,Junior Malanda,Pass
+27709,83,BlockedShot,0.895,0.43599998474121093,0.10348600149154663,Daniel Caligiuri,a,157,OpenPlay,2014,RightFoot,5335,Borussia Dortmund,Wolfsburg,2,2,2014-12-17 19:00:00,Maximilian Arnold,Pass
+28446,48,MissedShots,0.89,0.315,0.0472664013504982,Daniel Caligiuri,h,157,OpenPlay,2014,RightFoot,5305,Wolfsburg,Bayern Munich,4,1,2015-01-30 19:30:00,Ivan Perisic,Cross
+29356,16,BlockedShot,0.8530000305175781,0.345,0.03487180173397064,Daniel Caligiuri,h,157,FromCorner,2014,LeftFoot,5276,Wolfsburg,Hoffenheim,3,0,2015-02-07 14:30:00,Ricardo Rodríguez,Cross
+29366,56,MissedShots,0.8619999694824219,0.2560000038146973,0.0806083008646965,Daniel Caligiuri,h,157,OpenPlay,2014,RightFoot,5276,Wolfsburg,Hoffenheim,3,0,2015-02-07 14:30:00,Kevin De Bruyne,Pass
+29487,9,Goal,0.9459999847412109,0.6079999923706054,0.4052639901638031,Daniel Caligiuri,a,157,OpenPlay,2014,LeftFoot,5232,Werder Bremen,Wolfsburg,3,5,2015-03-01 16:30:00,,TakeOn
+29502,52,Goal,0.9580000305175781,0.539000015258789,0.5850430130958557,Daniel Caligiuri,a,157,OpenPlay,2014,RightFoot,5232,Werder Bremen,Wolfsburg,3,5,2015-03-01 16:30:00,Bas Dost,Chipped
+29989,67,SavedShot,0.6880000305175781,0.534000015258789,0.011992299929261208,Daniel Caligiuri,a,157,OpenPlay,2014,RightFoot,5235,Augsburg,Wolfsburg,1,0,2015-03-07 14:30:00,Kevin De Bruyne,LayOff
+29990,75,MissedShots,0.8090000152587891,0.6609999847412109,0.05183279886841774,Daniel Caligiuri,a,157,OpenPlay,2014,RightFoot,5235,Augsburg,Wolfsburg,1,0,2015-03-07 14:30:00,Kevin De Bruyne,Pass
+30860,42,SavedShot,0.8080000305175781,0.610999984741211,0.0504584014415741,Daniel Caligiuri,h,157,OpenPlay,2014,RightFoot,5249,Wolfsburg,Freiburg,3,0,2015-03-15 14:30:00,Ricardo Rodríguez,Pass
+32334,51,SavedShot,0.85,0.6969999694824218,0.041979800909757614,Daniel Caligiuri,h,157,OpenPlay,2014,RightFoot,5200,Wolfsburg,VfB Stuttgart,3,1,2015-04-04 14:30:00,Ricardo Rodríguez,TakeOn
+31365,31,MissedShots,0.8190000152587891,0.7069999694824218,0.034496501088142395,Daniel Caligiuri,a,157,OpenPlay,2014,RightFoot,5210,Hamburger SV,Wolfsburg,0,2,2015-04-11 17:30:00,Ricardo Rodríguez,Pass
+31372,65,BlockedShot,0.9009999847412109,0.654000015258789,0.05030440166592598,Daniel Caligiuri,a,157,FromCorner,2014,LeftFoot,5210,Hamburger SV,Wolfsburg,0,2,2015-04-11 17:30:00,Ricardo Rodríguez,Pass
+31374,72,Goal,0.8959999847412109,0.5629999923706055,0.3342190086841583,Daniel Caligiuri,a,157,OpenPlay,2014,RightFoot,5210,Hamburger SV,Wolfsburg,0,2,2015-04-11 17:30:00,Bas Dost,LayOff
+29534,2,MissedShots,0.7340000152587891,0.3129999923706055,0.01727600023150444,Daniel Caligiuri,a,157,OpenPlay,2014,LeftFoot,5230,Borussia M.Gladbach,Wolfsburg,1,0,2015-04-26 16:30:00,Maximilian Arnold,Pass
+30592,71,BlockedShot,0.784000015258789,0.5790000152587891,0.02448589913547039,Daniel Caligiuri,h,157,OpenPlay,2014,RightFoot,5160,Wolfsburg,Hannover 96,2,2,2015-05-02 14:30:00,Kevin De Bruyne,TakeOn
+30291,0,Goal,0.935,0.5359999847412109,0.5477349758148193,Daniel Caligiuri,h,157,OpenPlay,2014,RightFoot,5179,Wolfsburg,Borussia Dortmund,2,1,2015-05-16 14:30:00,Kevin De Bruyne,Pass
+30313,63,SavedShot,0.8859999847412109,0.36900001525878906,0.05218080058693886,Daniel Caligiuri,h,157,FromCorner,2014,RightFoot,5179,Wolfsburg,Borussia Dortmund,2,1,2015-05-16 14:30:00,Kevin De Bruyne,Pass
+30314,68,SavedShot,0.830999984741211,0.285,0.04019070044159889,Daniel Caligiuri,h,157,OpenPlay,2014,RightFoot,5179,Wolfsburg,Borussia Dortmund,2,1,2015-05-16 14:30:00,Josuha Guilavogui,Chipped
+31754,23,MissedShots,0.924000015258789,0.5429999923706055,0.07718399912118912,Daniel Caligiuri,a,157,OpenPlay,2014,Head,5186,FC Cologne,Wolfsburg,2,2,2015-05-23 14:30:00,Vieirinha,Aerial
+31758,30,BlockedShot,0.855999984741211,0.3940000152587891,0.04834720119833946,Daniel Caligiuri,a,157,FromCorner,2014,RightFoot,5186,FC Cologne,Wolfsburg,2,2,2015-05-23 14:30:00,Kevin De Bruyne,Pass
+31769,61,MissedShots,0.8059999847412109,0.5070000076293946,0.057388998568058014,Daniel Caligiuri,a,157,OpenPlay,2014,RightFoot,5186,FC Cologne,Wolfsburg,2,2,2015-05-23 14:30:00,Bas Dost,Pass
+76432,82,SavedShot,0.88,0.23899999618530274,0.02671930007636547,Daniel Caligiuri,a,157,OpenPlay,2015,LeftFoot,1034,FC Cologne,Wolfsburg,1,1,2015-08-22 17:30:00,,None
+76970,73,BlockedShot,0.94,0.30700000762939456,0.0525951012969017,Daniel Caligiuri,a,157,OpenPlay,2015,RightFoot,1052,Ingolstadt,Wolfsburg,0,0,2015-09-12 17:30:00,Christian Träsch,Pass
+77010,28,MissedShots,0.8480000305175781,0.24899999618530275,0.02464660070836544,Daniel Caligiuri,h,157,OpenPlay,2015,LeftFoot,1059,Wolfsburg,Hertha Berlin,2,0,2015-09-19 17:30:00,Naldo,TakeOn
+77019,63,SavedShot,0.89,0.634000015258789,0.0675048977136612,Daniel Caligiuri,h,157,OpenPlay,2015,RightFoot,1059,Wolfsburg,Hertha Berlin,2,0,2015-09-19 17:30:00,Maximilian Arnold,Rebound
+77026,91,MissedShots,0.720999984741211,0.2620000076293945,0.01255240011960268,Daniel Caligiuri,h,157,OpenPlay,2015,LeftFoot,1059,Wolfsburg,Hertha Berlin,2,0,2015-09-19 17:30:00,,None
+77212,25,Goal,0.8930000305175781,0.32,0.048079200088977814,Daniel Caligiuri,a,157,OpenPlay,2015,RightFoot,1066,Bayern Munich,Wolfsburg,5,1,2015-09-22 22:00:00,Julian Draxler,Chipped
+77461,1,SavedShot,0.895,0.3220000076293945,0.00968352984637022,Daniel Caligiuri,h,157,OpenPlay,2015,Head,1080,Wolfsburg,Hannover 96,1,1,2015-09-26 17:30:00,Ricardo Rodríguez,Aerial
+77467,21,SavedShot,0.81,0.28299999237060547,0.025257699191570282,Daniel Caligiuri,h,157,OpenPlay,2015,LeftFoot,1080,Wolfsburg,Hannover 96,1,1,2015-09-26 17:30:00,Christian Träsch,Pass
+77484,67,SavedShot,0.9459999847412109,0.325,0.18642500042915344,Daniel Caligiuri,h,157,SetPiece,2015,RightFoot,1080,Wolfsburg,Hannover 96,1,1,2015-09-26 17:30:00,Maximilian Arnold,Pass
+77489,80,BlockedShot,0.7190000152587891,0.3940000152587891,0.01734969951212406,Daniel Caligiuri,h,157,OpenPlay,2015,RightFoot,1080,Wolfsburg,Hannover 96,1,1,2015-09-26 17:30:00,Josuha Guilavogui,Pass
+77769,10,MissedShots,0.8819999694824219,0.23899999618530274,0.028560200706124306,Daniel Caligiuri,a,157,OpenPlay,2015,RightFoot,1085,Borussia M.Gladbach,Wolfsburg,2,0,2015-10-03 17:30:00,André Schürrle,Pass
+77780,69,MissedShots,0.795,0.43099998474121093,0.04058900102972984,Daniel Caligiuri,a,157,OpenPlay,2015,RightFoot,1085,Borussia M.Gladbach,Wolfsburg,2,0,2015-10-03 17:30:00,Max Kruse,Pass
+77963,36,SavedShot,0.8980000305175782,0.26799999237060546,0.041352901607751846,Daniel Caligiuri,h,157,OpenPlay,2015,LeftFoot,1097,Wolfsburg,Hoffenheim,4,2,2015-10-17 17:30:00,Max Kruse,TakeOn
+78386,77,Goal,0.825,0.5590000152587891,0.05650410056114197,Daniel Caligiuri,a,157,OpenPlay,2015,RightFoot,1104,Darmstadt,Wolfsburg,0,1,2015-10-24 17:30:00,Max Kruse,Pass
+78435,61,BlockedShot,0.81,0.49900001525878906,0.037878599017858505,Daniel Caligiuri,h,157,FromCorner,2015,LeftFoot,1117,Wolfsburg,Bayer Leverkusen,2,1,2015-10-31 21:30:00,,None
+78824,29,BlockedShot,0.6990000152587891,0.6880000305175781,0.00783947017043829,Daniel Caligiuri,a,157,OpenPlay,2015,RightFoot,1122,Mainz 05,Wolfsburg,2,0,2015-11-07 18:30:00,,TakeOn
+79203,81,MissedShots,0.8009999847412109,0.7,0.025505300611257553,Daniel Caligiuri,a,157,OpenPlay,2015,RightFoot,1146,Augsburg,Wolfsburg,0,0,2015-11-29 20:30:00,Marcel Schäfer,Pass
+79416,37,SavedShot,0.8490000152587891,0.35700000762939454,0.05441410094499588,Daniel Caligiuri,h,157,OpenPlay,2015,LeftFoot,1153,Wolfsburg,Borussia Dortmund,1,2,2015-12-05 21:30:00,Vieirinha,TakeOn
+79689,70,SavedShot,0.96,0.62,0.0742667019367218,Daniel Caligiuri,h,157,OpenPlay,2015,LeftFoot,1158,Wolfsburg,Hamburger SV,1,1,2015-12-12 18:30:00,Julian Draxler,Chipped
+79692,79,BlockedShot,0.879000015258789,0.750999984741211,0.030174100771546364,Daniel Caligiuri,h,157,OpenPlay,2015,RightFoot,1158,Wolfsburg,Hamburger SV,1,1,2015-12-12 18:30:00,Max Kruse,Pass
+79924,33,MissedShots,0.874000015258789,0.35400001525878905,0.03926609829068184,Daniel Caligiuri,a,157,OpenPlay,2015,LeftFoot,1171,VfB Stuttgart,Wolfsburg,3,1,2015-12-19 21:30:00,Marcel Schäfer,Cross
+79941,88,SavedShot,0.840999984741211,0.655,0.01797409914433956,Daniel Caligiuri,a,157,OpenPlay,2015,LeftFoot,1171,VfB Stuttgart,Wolfsburg,3,1,2015-12-19 21:30:00,,Aerial
+80144,17,SavedShot,0.935,0.32,0.06853660196065903,Daniel Caligiuri,a,157,OpenPlay,2015,RightFoot,1181,Eintracht Frankfurt,Wolfsburg,3,2,2016-01-24 18:30:00,Vieirinha,Pass
+80151,41,MissedShots,0.9390000152587891,0.46,0.5909410119056702,Daniel Caligiuri,a,157,OpenPlay,2015,RightFoot,1181,Eintracht Frankfurt,Wolfsburg,3,2,2016-01-24 18:30:00,Ricardo Rodríguez,Pass
+80526,21,ShotOnPost,0.7480000305175781,0.6580000305175782,0.02187890000641346,Daniel Caligiuri,a,157,OpenPlay,2015,RightFoot,1193,Schalke 04,Wolfsburg,3,0,2016-02-06 18:30:00,Robin Knoche,Pass
+80536,55,MissedShots,0.7319999694824219,0.6869999694824219,0.00801782961934805,Daniel Caligiuri,a,157,OpenPlay,2015,RightFoot,1193,Schalke 04,Wolfsburg,3,0,2016-02-06 18:30:00,,None
+80544,88,BlockedShot,0.8280000305175781,0.24200000762939453,0.020703399553894997,Daniel Caligiuri,a,157,OpenPlay,2015,RightFoot,1193,Schalke 04,Wolfsburg,3,0,2016-02-06 18:30:00,Sebastian Jung,Pass
+80770,17,BlockedShot,0.899000015258789,0.47400001525878904,0.047624800354242325,Daniel Caligiuri,h,157,OpenPlay,2015,Head,1204,Wolfsburg,Ingolstadt,2,0,2016-02-13 18:30:00,Christian Träsch,Aerial
+80777,43,SavedShot,0.8680000305175781,0.6140000152587891,0.06442230194807053,Daniel Caligiuri,h,157,OpenPlay,2015,RightFoot,1204,Wolfsburg,Ingolstadt,2,0,2016-02-13 18:30:00,Vieirinha,Cross
+81724,75,BlockedShot,0.7480000305175781,0.39,0.023340899497270584,Daniel Caligiuri,h,157,OpenPlay,2015,RightFoot,1242,Wolfsburg,Borussia M.Gladbach,2,1,2016-03-05 18:30:00,Maximilian Arnold,Pass
+82094,31,SavedShot,0.8809999847412109,0.5129999923706055,0.054001498967409134,Daniel Caligiuri,a,157,OpenPlay,2015,Head,1247,Hoffenheim,Wolfsburg,1,0,2016-03-12 18:30:00,Max Kruse,Cross
+82107,74,MissedShots,0.8519999694824218,0.34599998474121096,0.06347320228815079,Daniel Caligiuri,a,157,OpenPlay,2015,LeftFoot,1247,Hoffenheim,Wolfsburg,1,0,2016-03-12 18:30:00,Maximilian Arnold,TakeOn
+82110,85,SavedShot,0.8690000152587891,0.4490000152587891,0.08245240151882172,Daniel Caligiuri,a,157,FromCorner,2015,RightFoot,1247,Hoffenheim,Wolfsburg,1,0,2016-03-12 18:30:00,,Rebound
+82109,85,BlockedShot,0.8619999694824219,0.43599998474121093,0.04331199824810028,Daniel Caligiuri,a,157,FromCorner,2015,RightFoot,1247,Hoffenheim,Wolfsburg,1,0,2016-03-12 18:30:00,Ricardo Rodríguez,Cross
+82217,27,MissedShots,0.8930000305175781,0.37099998474121093,0.05168820172548294,Daniel Caligiuri,h,157,FromCorner,2015,LeftFoot,1256,Wolfsburg,Darmstadt,1,1,2016-03-19 18:30:00,,BallRecovery
+83124,10,SavedShot,0.8469999694824218,0.2560000038146973,0.0273669995367527,Daniel Caligiuri,h,157,OpenPlay,2015,RightFoot,1293,Wolfsburg,Augsburg,0,2,2016-04-23 17:30:00,Josuha Guilavogui,Pass
+83139,73,SavedShot,0.7559999847412109,0.3940000152587891,0.02110539935529232,Daniel Caligiuri,h,157,OpenPlay,2015,RightFoot,1293,Wolfsburg,Augsburg,0,2,2016-04-23 17:30:00,Naldo,Pass
+83141,75,MissedShots,0.895,0.3340000152587891,0.058739498257637024,Daniel Caligiuri,h,157,FromCorner,2015,RightFoot,1293,Wolfsburg,Augsburg,0,2,2016-04-23 17:30:00,,Rebound
+83310,18,ShotOnPost,0.9219999694824219,0.3770000076293945,0.1514900028705597,Daniel Caligiuri,a,157,OpenPlay,2015,LeftFoot,1306,Borussia Dortmund,Wolfsburg,5,1,2016-04-30 17:30:00,Marcel Schäfer,TakeOn
+83329,89,SavedShot,0.7530000305175781,0.27399999618530274,0.011566899716854095,Daniel Caligiuri,a,157,OpenPlay,2015,LeftFoot,1306,Borussia Dortmund,Wolfsburg,5,1,2016-04-30 17:30:00,Max Kruse,Pass
+83575,71,SavedShot,0.955999984741211,0.6680000305175782,0.07078160345554352,Daniel Caligiuri,a,157,OpenPlay,2015,RightFoot,1311,Hamburger SV,Wolfsburg,0,1,2016-05-07 17:30:00,Marcel Schäfer,TakeOn
+127474,69,SavedShot,0.774000015258789,0.675,0.022442400455474854,Daniel Caligiuri,a,157,OpenPlay,2016,RightFoot,1328,Augsburg,Wolfsburg,0,2,2016-08-27 17:30:00,Maximilian Arnold,Pass
+127479,79,BlockedShot,0.7619999694824219,0.515,0.0340133011341095,Daniel Caligiuri,a,157,OpenPlay,2016,RightFoot,1328,Augsburg,Wolfsburg,0,2,2016-08-27 17:30:00,Jakub Blaszczykowski,Pass
+127889,38,MissedShots,0.69,0.2520000076293945,0.014818199910223484,Daniel Caligiuri,h,157,OpenPlay,2016,RightFoot,1337,Wolfsburg,FC Cologne,0,0,2016-09-10 17:30:00,Jeffrey Bruma,Pass
+127890,39,MissedShots,0.9119999694824219,0.34,0.015335899777710438,Daniel Caligiuri,h,157,OpenPlay,2016,Head,1337,Wolfsburg,FC Cologne,0,0,2016-09-10 17:30:00,Julian Draxler,Aerial
+128334,0,MissedShots,0.845999984741211,0.7440000152587891,0.027241099625825882,Daniel Caligiuri,a,157,OpenPlay,2016,RightFoot,1347,Hoffenheim,Wolfsburg,0,0,2016-09-17 17:30:00,Julian Draxler,Pass
+128368,80,MissedShots,0.784000015258789,0.4329999923706055,0.03310149908065796,Daniel Caligiuri,a,157,OpenPlay,2016,RightFoot,1347,Hoffenheim,Wolfsburg,0,0,2016-09-17 17:30:00,,None
+128758,64,BlockedShot,0.7219999694824218,0.5279999923706055,0.03269150108098984,Daniel Caligiuri,a,157,OpenPlay,2016,RightFoot,1369,Werder Bremen,Wolfsburg,2,1,2016-09-24 20:30:00,Yannick Gerhardt,Pass
+129888,20,MissedShots,0.8909999847412109,0.31,0.07829640060663223,Daniel Caligiuri,h,157,OpenPlay,2016,RightFoot,3301,Wolfsburg,Bayer Leverkusen,1,2,2016-10-29 17:30:00,Julian Draxler,Pass
+129693,2,BlockedShot,0.74,0.6630000305175782,0.012376300059258938,Daniel Caligiuri,a,157,OpenPlay,2016,RightFoot,2811,Freiburg,Wolfsburg,0,3,2016-11-05 18:30:00,,None
+130220,77,Goal,0.914000015258789,0.41,0.0766683965921402,Daniel Caligiuri,a,157,OpenPlay,2016,RightFoot,2828,Ingolstadt,Wolfsburg,1,1,2016-11-26 18:30:00,,None
+130488,11,SavedShot,0.9469999694824218,0.41200000762939454,0.30261099338531494,Daniel Caligiuri,h,157,OpenPlay,2016,Head,3193,Wolfsburg,Hertha Berlin,2,3,2016-12-03 18:30:00,Yannick Gerhardt,Chipped
+130879,35,BlockedShot,0.7819999694824219,0.46099998474121096,0.034807901829481125,Daniel Caligiuri,a,157,OpenPlay,2016,LeftFoot,3206,Bayern Munich,Wolfsburg,5,0,2016-12-10 18:30:00,Mario Gomez,Pass
+130892,78,SavedShot,0.909000015258789,0.395,0.09680269658565521,Daniel Caligiuri,a,157,OpenPlay,2016,LeftFoot,3206,Bayern Munich,Wolfsburg,5,0,2016-12-10 18:30:00,Mario Gomez,Pass
+130893,78,BlockedShot,0.919000015258789,0.43,0.10830499976873398,Daniel Caligiuri,a,157,OpenPlay,2016,RightFoot,3206,Bayern Munich,Wolfsburg,5,0,2016-12-10 18:30:00,,Rebound
+130110,2,Goal,0.9159999847412109,0.46,0.34506499767303467,Daniel Caligiuri,a,157,OpenPlay,2016,RightFoot,3220,Borussia M.Gladbach,Wolfsburg,1,2,2016-12-20 23:00:00,Maximilian Arnold,Cross
+130112,10,BlockedShot,0.8619999694824219,0.3120000076293945,0.05521969869732857,Daniel Caligiuri,a,157,OpenPlay,2016,LeftFoot,3220,Borussia M.Gladbach,Wolfsburg,1,2,2016-12-20 23:00:00,Paul Seguin,Pass
+130114,17,MissedShots,0.759000015258789,0.7180000305175781,0.013887099921703339,Daniel Caligiuri,a,157,FromCorner,2016,RightFoot,3220,Borussia M.Gladbach,Wolfsburg,1,2,2016-12-20 23:00:00,,None
+130140,79,SavedShot,0.855,0.36900001525878906,0.07631880044937134,Daniel Caligiuri,a,157,OpenPlay,2016,LeftFoot,3220,Borussia M.Gladbach,Wolfsburg,1,2,2016-12-20 23:00:00,Julian Draxler,Pass
+130147,93,SavedShot,0.919000015258789,0.37099998474121093,0.3383829891681671,Daniel Caligiuri,a,157,OpenPlay,2016,RightFoot,3220,Borussia M.Gladbach,Wolfsburg,1,2,2016-12-20 23:00:00,Yannick Gerhardt,Pass
+130612,28,MissedShots,0.7730000305175782,0.46,0.015597700141370296,Daniel Caligiuri,h,157,FromCorner,2016,LeftFoot,3724,Wolfsburg,Hamburger SV,1,0,2017-01-21 17:30:00,,Aerial
+130614,47,BlockedShot,0.8569999694824219,0.30700000762939456,0.03810479864478111,Daniel Caligiuri,h,157,OpenPlay,2016,LeftFoot,3724,Wolfsburg,Hamburger SV,1,0,2017-01-21 17:30:00,Yunus Malli,Pass
+132487,39,MissedShots,0.7730000305175782,0.7119999694824218,0.020615600049495697,Daniel Caligiuri,h,157,OpenPlay,2016,LeftFoot,3755,Schalke 04,Hertha Berlin,2,0,2017-02-11 17:30:00,Leon Goretzka,Pass
+132514,58,MissedShots,0.924000015258789,0.44099998474121094,0.10934299975633621,Daniel Caligiuri,a,157,OpenPlay,2016,Head,3782,Borussia M.Gladbach,Schalke 04,4,2,2017-03-04 17:30:00,Guido Burgstaller,Cross
+133714,20,MissedShots,0.6909999847412109,0.485,0.01757510006427765,Daniel Caligiuri,h,157,OpenPlay,2016,RightFoot,3792,Schalke 04,Augsburg,3,0,2017-03-12 14:30:00,Nabil Bentaleb,Pass
+133719,32,BlockedShot,0.8780000305175781,0.5279999923706055,0.1372079998254776,Daniel Caligiuri,h,157,OpenPlay,2016,RightFoot,3792,Schalke 04,Augsburg,3,0,2017-03-12 14:30:00,Guido Burgstaller,Pass
+133720,33,Goal,0.94,0.42700000762939455,0.4256739914417267,Daniel Caligiuri,h,157,OpenPlay,2016,RightFoot,3792,Schalke 04,Augsburg,3,0,2017-03-12 14:30:00,Sead Kolasinac,Chipped
+134472,71,MissedShots,0.860999984741211,0.30100000381469727,0.048430800437927246,Daniel Caligiuri,a,157,OpenPlay,2016,RightFoot,3801,Mainz 05,Schalke 04,0,1,2017-03-19 14:30:00,Alessandro Schöpf,Pass
+133007,67,BlockedShot,0.9080000305175782,0.629000015258789,0.060453400015830994,Daniel Caligiuri,h,157,OpenPlay,2016,LeftFoot,3806,Schalke 04,Borussia Dortmund,1,1,2017-04-01 14:30:00,Thilo Kehrer,Cross
+134186,27,SavedShot,0.879000015258789,0.2520000076293945,0.04395649954676628,Daniel Caligiuri,a,157,OpenPlay,2016,RightFoot,3814,Werder Bremen,Schalke 04,3,0,2017-04-04 19:00:00,,Rebound
+134188,42,MissedShots,0.7619999694824219,0.3240000152587891,0.01993650011718273,Daniel Caligiuri,a,157,OpenPlay,2016,LeftFoot,3814,Werder Bremen,Schalke 04,3,0,2017-04-04 19:00:00,Leon Goretzka,Pass
+134193,54,MissedShots,0.7340000152587891,0.24299999237060546,0.014623800292611122,Daniel Caligiuri,a,157,OpenPlay,2016,RightFoot,3814,Werder Bremen,Schalke 04,3,0,2017-04-04 19:00:00,Max Meyer,Pass
+134198,60,BlockedShot,0.7630000305175781,0.43599998474121093,0.02652120031416416,Daniel Caligiuri,a,157,OpenPlay,2016,LeftFoot,3814,Werder Bremen,Schalke 04,3,0,2017-04-04 19:00:00,Eric Maxim Choupo-Moting,Pass
+134522,47,Goal,0.8680000305175781,0.4640000152587891,0.3398120105266571,Daniel Caligiuri,h,157,OpenPlay,2016,LeftFoot,3824,Schalke 04,Wolfsburg,4,1,2017-04-08 14:30:00,Eric Maxim Choupo-Moting,Cross
+134534,82,BlockedShot,0.769000015258789,0.5570000076293945,0.02376520074903965,Daniel Caligiuri,h,157,SetPiece,2016,LeftFoot,3824,Schalke 04,Wolfsburg,4,1,2017-04-08 14:30:00,Coke,Pass
+133012,9,MissedShots,0.9319999694824219,0.5209999847412109,0.12106599658727646,Daniel Caligiuri,a,157,OpenPlay,2016,RightFoot,3833,Darmstadt,Schalke 04,2,1,2017-04-16 16:30:00,Guido Burgstaller,Cross
+133037,68,MissedShots,0.9119999694824219,0.4329999923706055,0.030748499557375908,Daniel Caligiuri,a,157,OpenPlay,2016,Head,3833,Darmstadt,Schalke 04,2,1,2017-04-16 16:30:00,Holger Badstuber,Aerial
+133041,78,BlockedShot,0.8719999694824219,0.6509999847412109,0.07664159685373306,Daniel Caligiuri,a,157,OpenPlay,2016,RightFoot,3833,Darmstadt,Schalke 04,2,1,2017-04-16 16:30:00,Dennis Aogo,TakeOn
+134240,40,BlockedShot,0.7619999694824219,0.639000015258789,0.036634400486946106,Daniel Caligiuri,a,157,OpenPlay,2016,RightFoot,3856,Bayer Leverkusen,Schalke 04,1,4,2017-04-28 19:30:00,Nabil Bentaleb,Pass
+132976,43,BlockedShot,0.8730000305175781,0.6530000305175782,0.07302960008382797,Daniel Caligiuri,h,157,OpenPlay,2016,RightFoot,3867,Schalke 04,Hamburger SV,1,1,2017-05-13 14:30:00,,None
+165914,94,ShotOnPost,0.9459999847412109,0.3220000076293945,0.0862291008234024,Daniel Caligiuri,h,157,OpenPlay,2017,RightFoot,8265,Schalke 04,RasenBallsport Leipzig,2,0,2017-08-19 17:30:00,Leon Goretzka,Pass
+166578,30,SavedShot,0.805,0.28899999618530275,0.024429699406027794,Daniel Caligiuri,a,157,OpenPlay,2017,RightFoot,8287,Werder Bremen,Schalke 04,1,2,2017-09-16 14:30:00,Benjamin Stambouli,Pass
+167029,53,MissedShots,0.8640000152587891,0.34200000762939453,0.06396319717168808,Daniel Caligiuri,h,157,OpenPlay,2017,LeftFoot,8296,Schalke 04,Bayern Munich,0,3,2017-09-19 19:30:00,Thilo Kehrer,Pass
+166640,32,SavedShot,0.8159999847412109,0.40200000762939453,0.05525340139865875,Daniel Caligiuri,a,157,OpenPlay,2017,LeftFoot,8309,Hoffenheim,Schalke 04,2,0,2017-09-23 14:30:00,Benjamin Stambouli,TakeOn
+168221,85,SavedShot,0.8719999694824219,0.26799999237060546,0.03167799860239029,Daniel Caligiuri,h,157,OpenPlay,2017,RightFoot,8335,Schalke 04,Mainz 05,2,0,2017-10-20 19:30:00,Yevhen Konoplyanka,Cross
+168711,46,BlockedShot,0.8480000305175781,0.23,0.028464199975132942,Daniel Caligiuri,h,157,OpenPlay,2017,LeftFoot,8344,Schalke 04,Wolfsburg,1,1,2017-10-28 14:30:00,Nabil Bentaleb,Chipped
+167467,61,Goal,0.8180000305175781,0.21899999618530275,0.010334299877285957,Daniel Caligiuri,a,157,OpenPlay,2017,RightFoot,8351,Freiburg,Schalke 04,0,1,2017-11-04 14:30:00,Guido Burgstaller,Chipped
+167979,52,MissedShots,0.8480000305175781,0.31,0.018366599455475807,Daniel Caligiuri,h,157,FromCorner,2017,RightFoot,8362,Schalke 04,Hamburger SV,2,0,2017-11-19 14:30:00,Naldo,Aerial
+168235,55,SavedShot,0.855999984741211,0.415,0.119098000228405,Daniel Caligiuri,a,157,OpenPlay,2017,LeftFoot,8367,Borussia Dortmund,Schalke 04,4,4,2017-11-25 14:30:00,Amine Harit,Pass
+168240,61,MissedShots,0.759000015258789,0.3029999923706055,0.013425800018012524,Daniel Caligiuri,a,157,OpenPlay,2017,LeftFoot,8367,Borussia Dortmund,Schalke 04,4,4,2017-11-25 14:30:00,,BallRecovery
+168244,85,Goal,0.915,0.38,0.08551310002803802,Daniel Caligiuri,a,157,OpenPlay,2017,LeftFoot,8367,Borussia Dortmund,Schalke 04,4,4,2017-11-25 14:30:00,Benjamin Stambouli,Pass
+168245,87,SavedShot,0.889000015258789,0.28600000381469726,0.03628399968147278,Daniel Caligiuri,a,157,OpenPlay,2017,RightFoot,8367,Borussia Dortmund,Schalke 04,4,4,2017-11-25 14:30:00,Benjamin Stambouli,Pass
+168998,84,SavedShot,0.7440000152587891,0.32099998474121094,0.018780000507831573,Daniel Caligiuri,h,157,OpenPlay,2017,RightFoot,8381,Schalke 04,FC Cologne,2,2,2017-12-02 17:30:00,,TakeOn
+179696,25,SavedShot,0.9580000305175781,0.295,0.05573379993438721,Daniel Caligiuri,a,157,OpenPlay,2017,LeftFoot,8390,Borussia M.Gladbach,Schalke 04,1,1,2017-12-09 17:30:00,Amine Harit,TakeOn
+184019,82,Goal,0.885,0.5,0.7577769756317139,Daniel Caligiuri,h,157,Penalty,2017,RightFoot,8398,Schalke 04,Augsburg,3,2,2017-12-13 19:30:00,,Standard
+183789,83,SavedShot,0.799000015258789,0.34299999237060547,0.012478100135922432,Daniel Caligiuri,a,157,OpenPlay,2017,LeftFoot,8407,Eintracht Frankfurt,Schalke 04,2,2,2017-12-16 14:30:00,,Aerial
+194794,57,BlockedShot,0.774000015258789,0.33,0.023233499377965927,Daniel Caligiuri,h,157,OpenPlay,2017,RightFoot,8442,Schalke 04,Werder Bremen,1,2,2018-02-03 14:30:00,Yevhen Konoplyanka,Pass
+194796,67,MissedShots,0.7959999847412109,0.40599998474121096,0.0439504012465477,Daniel Caligiuri,h,157,OpenPlay,2017,RightFoot,8442,Schalke 04,Werder Bremen,1,2,2018-02-03 14:30:00,Amine Harit,Pass
+194921,1,MissedShots,0.8540000152587891,0.675,0.036084000021219254,Daniel Caligiuri,a,157,OpenPlay,2017,LeftFoot,8451,Bayern Munich,Schalke 04,2,1,2018-02-10 17:30:00,,Rebound
+196405,17,SavedShot,0.8380000305175781,0.82,0.02180200070142746,Daniel Caligiuri,h,157,OpenPlay,2017,RightFoot,8461,Schalke 04,Hoffenheim,2,1,2018-02-17 17:30:00,Breel Embolo,Tackle
+196413,61,SavedShot,0.9169999694824219,0.6680000305175782,0.20625600218772888,Daniel Caligiuri,h,157,OpenPlay,2017,RightFoot,8461,Schalke 04,Hoffenheim,2,1,2018-02-17 17:30:00,Guido Burgstaller,TakeOn
+199712,4,SavedShot,0.7830000305175782,0.7609999847412109,0.01797330006957054,Daniel Caligiuri,a,157,OpenPlay,2017,RightFoot,8487,Mainz 05,Schalke 04,0,1,2018-03-09 19:30:00,Weston McKennie,Pass
+199715,16,BlockedShot,0.8119999694824219,0.69,0.027203800156712532,Daniel Caligiuri,a,157,OpenPlay,2017,RightFoot,8487,Mainz 05,Schalke 04,0,1,2018-03-09 19:30:00,Franco Di Santo,TakeOn
+199724,54,Goal,0.789000015258789,0.5529999923706055,0.0440250001847744,Daniel Caligiuri,a,157,OpenPlay,2017,RightFoot,8487,Mainz 05,Schalke 04,0,1,2018-03-09 19:30:00,Nabil Bentaleb,TakeOn
+201652,20,BlockedShot,0.7430000305175781,0.56,0.06151619926095009,Daniel Caligiuri,a,157,DirectFreekick,2017,RightFoot,8499,Wolfsburg,Schalke 04,0,1,2018-03-17 17:30:00,,Standard
+201659,48,MissedShots,0.8540000152587891,0.40299999237060546,0.06409350037574768,Daniel Caligiuri,a,157,OpenPlay,2017,LeftFoot,8499,Wolfsburg,Schalke 04,0,1,2018-03-17 17:30:00,Leon Goretzka,HeadPass
+204560,10,SavedShot,0.8519999694824218,0.29200000762939454,0.02440129965543747,Daniel Caligiuri,h,157,OpenPlay,2017,LeftFoot,8503,Schalke 04,Freiburg,2,0,2018-03-31 14:30:00,Naldo,TakeOn
+204568,36,MissedShots,0.8190000152587891,0.2539999961853027,0.023468000814318657,Daniel Caligiuri,h,157,OpenPlay,2017,RightFoot,8503,Schalke 04,Freiburg,2,0,2018-03-31 14:30:00,Leon Goretzka,Pass
+204571,62,Goal,0.885,0.5,0.7577769756317139,Daniel Caligiuri,h,157,Penalty,2017,RightFoot,8503,Schalke 04,Freiburg,2,0,2018-03-31 14:30:00,,Standard
+209147,36,BlockedShot,0.8130000305175781,0.3160000038146973,0.027234099805355072,Daniel Caligiuri,h,157,OpenPlay,2017,LeftFoot,8524,Schalke 04,Borussia Dortmund,2,0,2018-04-15 13:30:00,Amine Harit,Pass
+211170,89,MissedShots,0.8419999694824218,0.42400001525878905,0.07773909717798233,Daniel Caligiuri,a,157,OpenPlay,2017,LeftFoot,8531,FC Cologne,Schalke 04,2,2,2018-04-22 16:00:00,Amine Harit,Pass
+211612,47,Goal,0.885,0.5,0.7577769756317139,Daniel Caligiuri,h,157,Penalty,2017,RightFoot,8543,Schalke 04,Borussia M.Gladbach,1,1,2018-04-28 13:30:00,,Standard
+211619,71,MissedShots,0.7780000305175782,0.555,0.0216962993144989,Daniel Caligiuri,h,157,OpenPlay,2017,LeftFoot,8543,Schalke 04,Borussia M.Gladbach,1,1,2018-04-28 13:30:00,Naldo,TakeOn
+214591,4,BlockedShot,0.8109999847412109,0.23100000381469726,0.031002599745988846,Daniel Caligiuri,h,157,FromCorner,2017,LeftFoot,8560,Schalke 04,Eintracht Frankfurt,1,0,2018-05-12 14:30:00,Amine Harit,Pass
+214602,66,SavedShot,0.865,0.49400001525878906,0.3881550133228302,Daniel Caligiuri,h,157,OpenPlay,2017,RightFoot,8560,Schalke 04,Eintracht Frankfurt,1,0,2018-05-12 14:30:00,Guido Burgstaller,Pass
+222407,3,MissedShots,0.92,0.4179999923706055,0.09548529982566833,Daniel Caligiuri,h,157,OpenPlay,2018,Head,10354,Schalke 04,Hertha Berlin,0,2,2018-09-02 16:00:00,Abdul Rahman Baba,Cross
+222409,12,MissedShots,0.885,0.5,0.7577769756317139,Daniel Caligiuri,h,157,Penalty,2018,RightFoot,10354,Schalke 04,Hertha Berlin,0,2,2018-09-02 16:00:00,,Standard
+222421,84,BlockedShot,0.9159999847412109,0.42900001525878906,0.08112979680299759,Daniel Caligiuri,h,157,OpenPlay,2018,RightFoot,10354,Schalke 04,Hertha Berlin,0,2,2018-09-02 16:00:00,,None
+223794,84,BlockedShot,0.7780000305175782,0.700999984741211,0.02975980006158352,Daniel Caligiuri,a,157,FromCorner,2018,RightFoot,10361,Borussia M.Gladbach,Schalke 04,2,1,2018-09-15 16:30:00,Mark Uth,Pass
+225394,14,BlockedShot,0.750999984741211,0.28899999618530275,0.01660360023379326,Daniel Caligiuri,h,157,OpenPlay,2018,LeftFoot,10370,Schalke 04,Bayern Munich,0,2,2018-09-22 16:30:00,Alessandro Schöpf,Pass
+225399,22,BlockedShot,0.845,0.33099998474121095,0.04678560048341751,Daniel Caligiuri,h,157,OpenPlay,2018,LeftFoot,10370,Schalke 04,Bayern Munich,0,2,2018-09-22 16:30:00,Breel Embolo,HeadPass
+225414,88,MissedShots,0.7930000305175782,0.33099998474121095,0.03800230100750923,Daniel Caligiuri,h,157,OpenPlay,2018,LeftFoot,10370,Schalke 04,Bayern Munich,0,2,2018-09-22 16:30:00,,TakeOn
+255304,11,MissedShots,0.7719999694824219,0.27,0.014313899911940098,Daniel Caligiuri,a,157,FromCorner,2018,RightFoot,10399,Fortuna Duesseldorf,Schalke 04,0,2,2018-10-06 13:30:00,,None
+255321,84,SavedShot,0.9419999694824219,0.3320000076293945,0.09792110323905945,Daniel Caligiuri,a,157,OpenPlay,2018,RightFoot,10399,Fortuna Duesseldorf,Schalke 04,0,2,2018-10-06 13:30:00,Naldo,Chipped
+255322,85,MissedShots,0.754000015258789,0.3240000152587891,0.014731000177562237,Daniel Caligiuri,a,157,FromCorner,2018,RightFoot,10399,Fortuna Duesseldorf,Schalke 04,0,2,2018-10-06 13:30:00,,None
+255585,69,MissedShots,0.8680000305175781,0.345,0.023070499300956726,Daniel Caligiuri,h,157,OpenPlay,2018,RightFoot,10400,Schalke 04,Werder Bremen,0,2,2018-10-20 16:30:00,Weston McKennie,HeadPass
+255839,63,MissedShots,0.735999984741211,0.3920000076293945,0.020116599276661873,Daniel Caligiuri,a,157,OpenPlay,2018,LeftFoot,10411,RasenBallsport Leipzig,Schalke 04,0,0,2018-10-28 13:30:00,Breel Embolo,Pass
+256012,62,BlockedShot,0.8119999694824219,0.43099998474121093,0.09258030354976654,Daniel Caligiuri,h,157,OpenPlay,2018,LeftFoot,10423,Schalke 04,Hannover 96,3,1,2018-11-03 14:30:00,Breel Embolo,Pass
+256584,47,MissedShots,0.745999984741211,0.35700000762939454,0.025461800396442413,Daniel Caligiuri,h,157,OpenPlay,2018,LeftFoot,10437,Schalke 04,Nuernberg,5,2,2018-11-24 17:30:00,Nabil Bentaleb,Pass
+256587,53,MissedShots,0.825,0.31,0.03481899946928024,Daniel Caligiuri,h,157,OpenPlay,2018,LeftFoot,10437,Schalke 04,Nuernberg,5,2,2018-11-24 17:30:00,Steven Skrzybski,TakeOn
+256591,68,SavedShot,0.764000015258789,0.645,0.06347029656171799,Daniel Caligiuri,h,157,DirectFreekick,2018,RightFoot,10437,Schalke 04,Nuernberg,5,2,2018-11-24 17:30:00,,Standard
+256592,69,BlockedShot,0.7909999847412109,0.29700000762939455,0.015418900176882744,Daniel Caligiuri,h,157,OpenPlay,2018,RightFoot,10437,Schalke 04,Nuernberg,5,2,2018-11-24 17:30:00,Guido Burgstaller,Aerial
+256799,91,MissedShots,0.7269999694824218,0.39099998474121095,0.014108999632298946,Daniel Caligiuri,a,157,FromCorner,2018,RightFoot,10445,Hoffenheim,Schalke 04,1,1,2018-12-01 17:30:00,,None
+257029,12,MissedShots,0.7380000305175781,0.28899999618530275,0.014374200254678726,Daniel Caligiuri,h,157,OpenPlay,2018,LeftFoot,10455,Schalke 04,Borussia Dortmund,1,2,2018-12-08 14:30:00,Alessandro Schöpf,Pass
+257037,60,Goal,0.885,0.5,0.7577769756317139,Daniel Caligiuri,h,157,Penalty,2018,RightFoot,10455,Schalke 04,Borussia Dortmund,1,2,2018-12-08 14:30:00,,Standard
+256872,51,Goal,0.75,0.37400001525878906,0.010534700006246567,Daniel Caligiuri,a,157,OpenPlay,2018,RightFoot,10468,Augsburg,Schalke 04,1,1,2018-12-15 14:30:00,,Aerial
+256887,92,SavedShot,0.7959999847412109,0.28,0.02356169931590557,Daniel Caligiuri,a,157,OpenPlay,2018,LeftFoot,10468,Augsburg,Schalke 04,1,1,2018-12-15 14:30:00,Salif Sané,Pass
+257527,11,MissedShots,0.7440000152587891,0.28899999618530275,0.010714800097048283,Daniel Caligiuri,h,157,OpenPlay,2018,LeftFoot,10473,Schalke 04,Bayer Leverkusen,1,2,2018-12-19 17:30:00,,None
+257536,31,MissedShots,0.764000015258789,0.325,0.014490599744021893,Daniel Caligiuri,h,157,OpenPlay,2018,LeftFoot,10473,Schalke 04,Bayer Leverkusen,1,2,2018-12-19 17:30:00,Alessandro Schöpf,HeadPass
+257549,83,MissedShots,0.7480000305175781,0.39599998474121095,0.019064800813794136,Daniel Caligiuri,h,157,OpenPlay,2018,LeftFoot,10473,Schalke 04,Bayer Leverkusen,1,2,2018-12-19 17:30:00,Suat Serdar,TakeOn
+278482,7,Goal,0.885,0.5,0.7577769756317139,Daniel Caligiuri,h,157,Penalty,2018,RightFoot,10496,Schalke 04,Wolfsburg,2,1,2019-01-20 17:00:00,,Standard
+278489,29,MissedShots,0.735,0.3820000076293945,0.013037499971687794,Daniel Caligiuri,h,157,OpenPlay,2018,LeftFoot,10496,Schalke 04,Wolfsburg,2,1,2019-01-20 17:00:00,,None
+278493,46,MissedShots,0.855,0.29700000762939455,0.036455001682043076,Daniel Caligiuri,h,157,OpenPlay,2018,LeftFoot,10496,Schalke 04,Wolfsburg,2,1,2019-01-20 17:00:00,Alessandro Schöpf,Pass
+278501,53,MissedShots,0.8880000305175781,0.26,0.0350612998008728,Daniel Caligiuri,h,157,OpenPlay,2018,RightFoot,10496,Schalke 04,Wolfsburg,2,1,2019-01-20 17:00:00,Sebastian Rudy,Chipped
+278506,77,Goal,0.89,0.3940000152587891,0.09963130205869675,Daniel Caligiuri,h,157,OpenPlay,2018,LeftFoot,10496,Schalke 04,Wolfsburg,2,1,2019-01-20 17:00:00,Weston McKennie,Pass
+278518,32,MissedShots,0.7140000152587891,0.36700000762939455,0.018597500398755074,Daniel Caligiuri,a,157,OpenPlay,2018,RightFoot,10502,Hertha Berlin,Schalke 04,2,2,2019-01-25 19:30:00,Benjamin Stambouli,Pass
+278870,10,MissedShots,0.789000015258789,0.32,0.02410770021378994,Daniel Caligiuri,h,157,OpenPlay,2018,RightFoot,10516,Schalke 04,Borussia M.Gladbach,0,2,2019-02-02 17:30:00,,BallRecovery
+278880,39,MissedShots,0.7569999694824219,0.7330000305175781,0.043569400906562805,Daniel Caligiuri,h,157,DirectFreekick,2018,RightFoot,10516,Schalke 04,Borussia M.Gladbach,0,2,2019-02-02 17:30:00,,Standard
+279109,69,MissedShots,0.7709999847412109,0.29200000762939454,0.01692420057952404,Daniel Caligiuri,a,157,OpenPlay,2018,LeftFoot,10517,Bayern Munich,Schalke 04,3,1,2019-02-09 17:30:00,Amine Harit,Pass
+279461,13,BlockedShot,0.8780000305175781,0.2610000038146973,0.01662459969520569,Daniel Caligiuri,a,157,OpenPlay,2018,LeftFoot,10542,Mainz 05,Schalke 04,3,0,2019-02-23 14:30:00,Bastian Oczipka,Cross
+279695,41,BlockedShot,0.7340000152587891,0.4929999923706055,0.05780870094895363,Daniel Caligiuri,h,157,DirectFreekick,2018,RightFoot,10544,Schalke 04,Fortuna Duesseldorf,0,4,2019-03-02 14:30:00,,Standard
+284206,11,SavedShot,0.7240000152587891,0.6780000305175782,0.03959229961037636,Daniel Caligiuri,a,157,DirectFreekick,2018,RightFoot,10557,Werder Bremen,Schalke 04,4,2,2019-03-08 19:30:00,,Standard
+293115,82,MissedShots,0.9069999694824219,0.3340000152587891,0.06579110026359558,Daniel Caligiuri,h,157,SetPiece,2018,RightFoot,10581,Schalke 04,Eintracht Frankfurt,1,2,2019-04-06 14:30:00,Guido Burgstaller,Pass
+293188,77,MissedShots,0.895,0.23299999237060548,0.01382569968700409,Daniel Caligiuri,a,157,OpenPlay,2018,RightFoot,10597,Nuernberg,Schalke 04,1,1,2019-04-12 19:30:00,,Aerial
+295640,16,BlockedShot,0.6959999847412109,0.5279999923706055,0.038759298622608185,Daniel Caligiuri,h,157,DirectFreekick,2018,RightFoot,10600,Schalke 04,Hoffenheim,2,5,2019-04-20 19:30:00,,Standard
+295641,17,SavedShot,0.85,0.6459999847412109,0.04196760058403015,Daniel Caligiuri,h,157,FromCorner,2018,LeftFoot,10600,Schalke 04,Hoffenheim,2,5,2019-04-20 19:30:00,Jonas Carls,Pass
+295650,56,SavedShot,0.7869999694824219,0.7530000305175781,0.050519298762083054,Daniel Caligiuri,h,157,DirectFreekick,2018,RightFoot,10600,Schalke 04,Hoffenheim,2,5,2019-04-20 19:30:00,,Standard
+295651,59,Goal,0.885,0.5,0.7577769756317139,Daniel Caligiuri,h,157,Penalty,2018,RightFoot,10600,Schalke 04,Hoffenheim,2,5,2019-04-20 19:30:00,,Standard
+295659,81,BlockedShot,0.845999984741211,0.27299999237060546,0.030994899570941925,Daniel Caligiuri,h,157,OpenPlay,2018,RightFoot,10600,Schalke 04,Hoffenheim,2,5,2019-04-20 19:30:00,Breel Embolo,Pass
+295664,88,MissedShots,0.875999984741211,0.28700000762939454,0.029317200183868408,Daniel Caligiuri,h,157,OpenPlay,2018,RightFoot,10600,Schalke 04,Hoffenheim,2,5,2019-04-20 19:30:00,Matija Nastasic,Chipped
+297356,17,Goal,0.885,0.5,0.7576959729194641,Daniel Caligiuri,a,157,Penalty,2018,RightFoot,10607,Borussia Dortmund,Schalke 04,2,4,2019-04-27 14:30:00,,Standard
+297365,61,Goal,0.7130000305175781,0.6780000305175782,0.03617750108242035,Daniel Caligiuri,a,157,DirectFreekick,2018,RightFoot,10607,Borussia Dortmund,Schalke 04,2,4,2019-04-27 14:30:00,,Standard
+299722,6,MissedShots,0.855999984741211,0.27899999618530275,0.03203599900007248,Daniel Caligiuri,h,157,OpenPlay,2018,LeftFoot,10617,Schalke 04,Augsburg,0,0,2019-05-05 12:30:00,Suat Serdar,Chipped
+299728,37,MissedShots,0.870999984741211,0.3160000038146973,0.050382100045681,Daniel Caligiuri,h,157,OpenPlay,2018,RightFoot,10617,Schalke 04,Augsburg,0,0,2019-05-05 12:30:00,Sebastian Rudy,Pass
+300763,52,SavedShot,0.885,0.5,0.7577769756317139,Daniel Caligiuri,a,157,Penalty,2018,RightFoot,10627,Bayer Leverkusen,Schalke 04,1,1,2019-05-11 14:30:00,,Standard
+310821,77,MissedShots,0.8780000305175781,0.35700000762939454,0.06252560019493103,Daniel Caligiuri,a,157,OpenPlay,2019,LeftFoot,12409,Borussia M.Gladbach,Schalke 04,0,0,2019-08-17 17:30:00,Amine Harit,Chipped
+312690,62,BlockedShot,0.7930000305175782,0.40900001525878904,0.10427699983119965,Daniel Caligiuri,h,157,DirectFreekick,2019,RightFoot,12418,Schalke 04,Bayern Munich,0,3,2019-08-24 17:30:00,,Standard
+312694,78,MissedShots,0.8430000305175781,0.539000015258789,0.08797720074653625,Daniel Caligiuri,h,157,OpenPlay,2019,LeftFoot,12418,Schalke 04,Bayern Munich,0,3,2019-08-24 17:30:00,Amine Harit,Pass
+315616,7,BlockedShot,0.7819999694824219,0.09199999809265137,0.014871800318360329,Daniel Caligiuri,h,157,OpenPlay,2019,LeftFoot,12424,Schalke 04,Hertha Berlin,3,0,2019-08-31 14:30:00,Jonjoe Kenny,Pass
+318164,3,MissedShots,0.8590000152587891,0.38,0.06134289875626564,Daniel Caligiuri,a,157,OpenPlay,2019,RightFoot,12438,Paderborn,Schalke 04,1,5,2019-09-15 16:00:00,,None
+318171,27,BlockedShot,0.860999984741211,0.3390000152587891,0.046456798911094666,Daniel Caligiuri,a,157,OpenPlay,2019,RightFoot,12438,Paderborn,Schalke 04,1,5,2019-09-15 16:00:00,,None
+318177,42,MissedShots,0.7530000305175781,0.6079999923706054,0.0627828985452652,Daniel Caligiuri,a,157,DirectFreekick,2019,RightFoot,12438,Paderborn,Schalke 04,1,5,2019-09-15 16:00:00,,Standard
+320022,26,SavedShot,0.7959999847412109,0.5709999847412109,0.03661639988422394,Daniel Caligiuri,h,157,OpenPlay,2019,RightFoot,12439,Schalke 04,Mainz 05,2,1,2019-09-20 18:30:00,Guido Burgstaller,Pass
+324317,50,BlockedShot,0.7959999847412109,0.45,0.042876701802015305,Daniel Caligiuri,h,157,OpenPlay,2019,LeftFoot,12457,Schalke 04,FC Cologne,1,1,2019-10-05 17:30:00,Weston McKennie,Pass
+326458,2,ShotOnPost,0.7130000305175781,0.425,0.04396349936723709,Daniel Caligiuri,a,157,DirectFreekick,2019,RightFoot,12473,Hoffenheim,Schalke 04,2,0,2019-10-20 17:00:00,,Standard
+327086,22,BlockedShot,0.9,0.35400001525878905,0.08484700322151184,Daniel Caligiuri,h,157,OpenPlay,2019,RightFoot,12478,Schalke 04,Borussia Dortmund,0,0,2019-10-26 14:30:00,Amine Harit,Pass
+327092,45,MissedShots,0.8180000305175781,0.48700000762939455,0.05478230118751526,Daniel Caligiuri,h,157,OpenPlay,2019,LeftFoot,12478,Schalke 04,Borussia Dortmund,0,0,2019-10-26 14:30:00,,None
+329970,76,BlockedShot,0.8090000152587891,0.36900001525878906,0.0365745984017849,Daniel Caligiuri,a,157,OpenPlay,2019,RightFoot,12491,Augsburg,Schalke 04,2,3,2019-11-03 17:00:00,,None
+330512,20,BlockedShot,0.8030000305175782,0.36900001525878906,0.03324609994888306,Daniel Caligiuri,h,157,OpenPlay,2019,LeftFoot,12497,Schalke 04,Fortuna Duesseldorf,3,3,2019-11-09 14:30:00,,None
+330516,32,Goal,0.8859999847412109,0.3270000076293945,0.05090809985995293,Daniel Caligiuri,h,157,OpenPlay,2019,RightFoot,12497,Schalke 04,Fortuna Duesseldorf,3,3,2019-11-09 14:30:00,Benito Raman,Chipped
+332055,24,ShotOnPost,0.759000015258789,0.38599998474121094,0.023280000314116478,Daniel Caligiuri,a,157,OpenPlay,2019,LeftFoot,12507,Werder Bremen,Schalke 04,1,2,2019-11-23 14:30:00,Amine Harit,Pass
+332068,70,SavedShot,0.6759999847412109,0.5059999847412109,0.03276180103421211,Daniel Caligiuri,a,157,DirectFreekick,2019,RightFoot,12507,Werder Bremen,Schalke 04,1,2,2019-11-23 14:30:00,,Standard
+332072,78,MissedShots,0.9009999847412109,0.23100000381469726,0.0319226011633873,Daniel Caligiuri,a,157,OpenPlay,2019,RightFoot,12507,Werder Bremen,Schalke 04,1,2,2019-11-23 14:30:00,Jonjoe Kenny,Pass
+333282,46,SavedShot,0.7709999847412109,0.6969999694824218,0.05628940090537071,Daniel Caligiuri,h,157,DirectFreekick,2019,RightFoot,12515,Schalke 04,Union Berlin,2,1,2019-11-29 19:30:00,,Standard
+333292,65,BlockedShot,0.8159999847412109,0.34,0.04076090082526207,Daniel Caligiuri,h,157,FromCorner,2019,LeftFoot,12515,Schalke 04,Union Berlin,2,1,2019-11-29 19:30:00,Amine Harit,Pass
+333293,69,MissedShots,0.71,0.4490000152587891,0.043762899935245514,Daniel Caligiuri,h,157,DirectFreekick,2019,RightFoot,12515,Schalke 04,Union Berlin,2,1,2019-11-29 19:30:00,,Standard
+337732,8,MissedShots,0.7569999694824219,0.5,0.025922900065779686,Daniel Caligiuri,h,157,OpenPlay,2019,LeftFoot,12535,Schalke 04,Eintracht Frankfurt,1,0,2019-12-15 17:00:00,Amine Harit,BallTouch
+337734,15,BlockedShot,0.8490000152587891,0.33299999237060546,0.04535109922289848,Daniel Caligiuri,h,157,OpenPlay,2019,RightFoot,12535,Schalke 04,Eintracht Frankfurt,1,0,2019-12-15 17:00:00,,None
+337746,48,SavedShot,0.7319999694824219,0.3629999923706055,0.018864599987864494,Daniel Caligiuri,h,157,OpenPlay,2019,RightFoot,12535,Schalke 04,Eintracht Frankfurt,1,0,2019-12-15 17:00:00,Omar Mascarell,Pass
+337748,55,BlockedShot,0.9169999694824219,0.3029999923706055,0.07516930252313614,Daniel Caligiuri,h,157,OpenPlay,2019,RightFoot,12535,Schalke 04,Eintracht Frankfurt,1,0,2019-12-15 17:00:00,Amine Harit,Pass
+338490,58,BlockedShot,0.700999984741211,0.425,0.03917950019240379,Daniel Caligiuri,h,157,DirectFreekick,2019,RightFoot,12553,Schalke 04,Freiburg,2,2,2019-12-21 14:30:00,,Standard
+338499,77,SavedShot,0.8690000152587891,0.285,0.03179049864411354,Daniel Caligiuri,h,157,OpenPlay,2019,LeftFoot,12553,Schalke 04,Freiburg,2,2,2019-12-21 14:30:00,Juan Miranda,Chipped
+354701,49,BlockedShot,0.855,0.34599998474121096,0.06831590086221695,Daniel Caligiuri,h,157,OpenPlay,2019,RightFoot,12561,Schalke 04,Borussia M.Gladbach,2,0,2020-01-17 19:30:00,,None
+355901,7,MissedShots,0.779000015258789,0.26399999618530273,0.016714399680495262,Daniel Caligiuri,a,157,OpenPlay,2019,RightFoot,12565,Bayern Munich,Schalke 04,5,0,2020-01-25 17:30:00,Markus Schubert,Pass
+362916,6,BlockedShot,0.745999984741211,0.5790000152587891,0.06177699938416481,Daniel Caligiuri,a,157,DirectFreekick,2019,RightFoot,12628,Borussia Dortmund,Schalke 04,4,0,2020-05-16 13:30:00,,Standard
+362921,25,SavedShot,0.8540000152587891,0.37099998474121093,0.05712930113077164,Daniel Caligiuri,a,157,OpenPlay,2019,RightFoot,12628,Borussia Dortmund,Schalke 04,4,0,2020-05-16 13:30:00,,None
+362922,25,BlockedShot,0.8959999847412109,0.38299999237060545,0.07947579771280289,Daniel Caligiuri,a,157,OpenPlay,2019,RightFoot,12628,Borussia Dortmund,Schalke 04,4,0,2020-05-16 13:30:00,,Rebound
+363273,1,BlockedShot,0.8059999847412109,0.34599998474121096,0.03268979862332344,Daniel Caligiuri,h,157,OpenPlay,2019,RightFoot,12644,Schalke 04,Augsburg,0,3,2020-05-24 11:30:00,Alessandro Schöpf,Pass
+363284,62,MissedShots,0.740999984741211,0.555,0.02254609949886799,Daniel Caligiuri,h,157,OpenPlay,2019,LeftFoot,12644,Schalke 04,Augsburg,0,3,2020-05-24 11:30:00,Alessandro Schöpf,Pass
+363503,20,SavedShot,0.8190000152587891,0.59,0.17234300076961517,Daniel Caligiuri,a,157,OpenPlay,2019,RightFoot,12649,Fortuna Duesseldorf,Schalke 04,2,1,2020-05-27 18:30:00,Matija Nastasic,TakeOn
+363677,93,MissedShots,0.7330000305175781,0.4179999923706055,0.017198000103235245,Daniel Caligiuri,h,157,OpenPlay,2019,RightFoot,12661,Schalke 04,Werder Bremen,0,1,2020-05-30 13:30:00,,Rebound
+364412,26,SavedShot,0.7880000305175782,0.649000015258789,0.025931699201464653,Daniel Caligiuri,h,157,OpenPlay,2019,RightFoot,12679,Schalke 04,Bayer Leverkusen,1,1,2020-06-14 16:00:00,Alessandro Schöpf,Chipped
+364415,50,Goal,0.885,0.5,0.7577769756317139,Daniel Caligiuri,h,157,Penalty,2019,RightFoot,12679,Schalke 04,Bayer Leverkusen,1,1,2020-06-14 16:00:00,,Standard
+364421,68,BlockedShot,0.8540000152587891,0.69,0.0520487017929554,Daniel Caligiuri,h,157,OpenPlay,2019,RightFoot,12679,Schalke 04,Bayer Leverkusen,1,1,2020-06-14 16:00:00,Nassim Boujellab,Pass
+365391,54,SavedShot,0.9169999694824219,0.44099998474121094,0.14896099269390106,Daniel Caligiuri,h,157,OpenPlay,2019,LeftFoot,12697,Schalke 04,Wolfsburg,1,4,2020-06-20 13:30:00,,TakeOn
+365392,54,MissedShots,0.8159999847412109,0.285,0.021591899916529655,Daniel Caligiuri,h,157,OpenPlay,2019,RightFoot,12697,Schalke 04,Wolfsburg,1,4,2020-06-20 13:30:00,Michael Gregoritsch,Pass
+365401,82,MissedShots,0.845999984741211,0.6029999923706054,0.07244879752397537,Daniel Caligiuri,h,157,OpenPlay,2019,RightFoot,12697,Schalke 04,Wolfsburg,1,4,2020-06-20 13:30:00,Timo Becker,Pass
+367059,22,SavedShot,0.749000015258789,0.2670000076293945,0.01606610044836998,Daniel Caligiuri,a,157,OpenPlay,2019,LeftFoot,12706,Freiburg,Schalke 04,4,0,2020-06-27 13:30:00,Alessandro Schöpf,Pass
+367079,78,MissedShots,0.9159999847412109,0.34900001525878904,0.013001100160181522,Daniel Caligiuri,a,157,OpenPlay,2019,Head,12706,Freiburg,Schalke 04,4,0,2020-06-27 13:30:00,Weston McKennie,Aerial
+377384,5,BlockedShot,0.8390000152587891,0.27399999618530274,0.02630689926445484,Daniel Caligiuri,a,157,OpenPlay,2020,LeftFoot,14175,Union Berlin,Augsburg,1,3,2020-09-19 13:30:00,,None
+378801,53,Goal,0.9119999694824219,0.5059999847412109,0.4859910011291504,Daniel Caligiuri,h,157,OpenPlay,2020,RightFoot,14184,Augsburg,Borussia Dortmund,2,0,2020-09-26 13:30:00,Florian Niederlechner,Throughball
+381283,22,MissedShots,0.7780000305175782,0.6509999847412109,0.044367000460624695,Daniel Caligiuri,a,157,OpenPlay,2020,RightFoot,15165,Wolfsburg,Augsburg,0,0,2020-10-04 13:30:00,Carlos Gruezo,TakeOn
+381844,46,SavedShot,0.7909999847412109,0.6680000305175782,0.022897599264979362,Daniel Caligiuri,h,157,OpenPlay,2020,LeftFoot,15170,Augsburg,RasenBallsport Leipzig,0,2,2020-10-17 13:30:00,,None
+384227,50,Goal,0.8690000152587891,0.39099998474121095,0.07468760013580322,Daniel Caligiuri,a,157,OpenPlay,2020,LeftFoot,15184,Bayer Leverkusen,Augsburg,3,1,2020-10-26 19:30:00,Ruben Vargas,Pass
+384232,69,BlockedShot,0.894000015258789,0.3679999923706055,0.09224150329828262,Daniel Caligiuri,a,157,OpenPlay,2020,RightFoot,15184,Bayer Leverkusen,Augsburg,3,1,2020-10-26 19:30:00,Florian Niederlechner,Pass
+387238,11,BlockedShot,0.7319999694824219,0.46599998474121096,0.01981329917907715,Daniel Caligiuri,a,157,OpenPlay,2020,LeftFoot,15204,Borussia M.Gladbach,Augsburg,1,1,2020-11-21 14:30:00,Ruben Vargas,Pass
+387239,14,SavedShot,0.9019999694824219,0.4,0.0180354006588459,Daniel Caligiuri,a,157,OpenPlay,2020,Head,15204,Borussia M.Gladbach,Augsburg,1,1,2020-11-21 14:30:00,Rani Khedira,Aerial
+387242,20,MissedShots,0.794000015258789,0.34299999237060547,0.027078399434685707,Daniel Caligiuri,a,157,OpenPlay,2020,LeftFoot,15204,Borussia M.Gladbach,Augsburg,1,1,2020-11-21 14:30:00,Alfred Finnbogason,Pass
+387255,87,Goal,0.8909999847412109,0.28600000381469726,0.04044739902019501,Daniel Caligiuri,a,157,OpenPlay,2020,RightFoot,15204,Borussia M.Gladbach,Augsburg,1,1,2020-11-21 14:30:00,,BallTouch
+388628,77,MissedShots,0.7719999694824219,0.37599998474121094,0.021792199462652206,Daniel Caligiuri,h,157,OpenPlay,2020,LeftFoot,15219,Augsburg,Freiburg,1,1,2020-11-28 14:30:00,,BallTouch
+391123,11,MissedShots,0.765,0.6659999847412109,0.059747301042079926,Daniel Caligiuri,a,157,DirectFreekick,2020,RightFoot,15222,Hoffenheim,Augsburg,3,1,2020-12-07 19:30:00,,Standard
+391130,30,Goal,0.95,0.42900001525878906,0.05702169984579086,Daniel Caligiuri,a,157,OpenPlay,2020,Head,15222,Hoffenheim,Augsburg,3,1,2020-12-07 19:30:00,Michael Gregoritsch,Aerial
+391140,65,MissedShots,0.89,0.61,0.10290399938821793,Daniel Caligiuri,a,157,OpenPlay,2020,RightFoot,15222,Hoffenheim,Augsburg,3,1,2020-12-07 19:30:00,Ruben Vargas,TakeOn
+392209,23,SavedShot,0.735,0.40599998474121096,0.01903500035405159,Daniel Caligiuri,h,157,OpenPlay,2020,LeftFoot,15238,Augsburg,Schalke 04,2,2,2020-12-13 14:30:00,Tobias Strobl,Pass
+393937,35,MissedShots,0.7869999694824219,0.34799999237060547,0.023548699915409088,Daniel Caligiuri,h,157,OpenPlay,2020,LeftFoot,15256,Augsburg,Eintracht Frankfurt,0,2,2020-12-19 14:30:00,,None
+396394,74,SavedShot,0.7380000305175781,0.4570000076293945,0.059300798922777176,Daniel Caligiuri,a,157,DirectFreekick,2020,RightFoot,15262,FC Cologne,Augsburg,0,1,2021-01-02 14:30:00,,Standard
+398363,13,SavedShot,0.7230000305175781,0.30100000381469727,0.03712169826030731,Daniel Caligiuri,h,157,DirectFreekick,2020,RightFoot,15273,Augsburg,VfB Stuttgart,1,4,2021-01-10 14:30:00,,Standard
+398371,26,BlockedShot,0.6959999847412109,0.5120000076293946,0.038942400366067886,Daniel Caligiuri,h,157,DirectFreekick,2020,RightFoot,15273,Augsburg,VfB Stuttgart,1,4,2021-01-10 14:30:00,,Standard
+398957,49,SavedShot,0.8919999694824219,0.44299999237060544,0.06497439742088318,Daniel Caligiuri,a,157,OpenPlay,2020,Head,15282,Werder Bremen,Augsburg,2,0,2021-01-16 14:30:00,André Hahn,Cross
+400012,66,MissedShots,0.799000015258789,0.295,0.023188099265098572,Daniel Caligiuri,h,157,OpenPlay,2020,LeftFoot,15291,Augsburg,Bayern Munich,0,1,2021-01-20 19:30:00,André Hahn,Pass
+400014,72,MissedShots,0.759000015258789,0.534000015258789,0.0761898010969162,Daniel Caligiuri,h,157,DirectFreekick,2020,RightFoot,15291,Augsburg,Bayern Munich,0,1,2021-01-20 19:30:00,,Standard
+401629,71,BlockedShot,0.8490000152587891,0.3609999847412109,0.06149660050868988,Daniel Caligiuri,a,157,OpenPlay,2020,LeftFoot,15303,Borussia Dortmund,Augsburg,3,1,2021-01-30 14:30:00,Fredrik Jensen,TakeOn
+401632,90,MissedShots,0.9019999694824219,0.33799999237060546,0.012226199731230736,Daniel Caligiuri,a,157,OpenPlay,2020,Head,15303,Borussia Dortmund,Augsburg,3,1,2021-01-30 14:30:00,Felix Uduokhai,Aerial
+403157,17,BlockedShot,0.8930000305175781,0.29700000762939455,0.05035509914159775,Daniel Caligiuri,h,157,OpenPlay,2020,RightFoot,15318,Augsburg,Wolfsburg,0,2,2021-02-06 14:30:00,André Hahn,Pass
+403159,32,SavedShot,0.8769999694824219,0.385,0.05818499997258186,Daniel Caligiuri,h,157,OpenPlay,2020,LeftFoot,15318,Augsburg,Wolfsburg,0,2,2021-02-06 14:30:00,Robert Gumny,Chipped
+404072,76,Goal,0.885,0.5,0.7577769756317139,Daniel Caligiuri,a,157,Penalty,2020,RightFoot,15322,RasenBallsport Leipzig,Augsburg,2,1,2021-02-12 19:30:00,,Standard
+405867,39,MissedShots,0.805,0.6140000152587891,0.11137499660253525,Daniel Caligiuri,h,157,DirectFreekick,2020,RightFoot,15336,Augsburg,Bayer Leverkusen,1,1,2021-02-21 12:30:00,,Standard
+408461,54,MissedShots,0.6669999694824219,0.47400001525878904,0.01739010028541088,Daniel Caligiuri,a,157,OpenPlay,2020,RightFoot,15347,Hertha Berlin,Augsburg,2,1,2021-03-06 14:30:00,Rani Khedira,Pass
+411973,65,SavedShot,0.785,0.39099998474121095,0.0894491970539093,Daniel Caligiuri,a,157,DirectFreekick,2020,RightFoot,15367,Freiburg,Augsburg,2,0,2021-03-21 17:00:00,,Standard
+412442,4,MissedShots,0.715999984741211,0.504000015258789,0.019656499847769737,Daniel Caligiuri,h,157,OpenPlay,2020,LeftFoot,15382,Augsburg,Hoffenheim,2,1,2021-04-03 13:30:00,Ruben Vargas,Pass
+415282,63,SavedShot,0.69,0.3970000076293945,0.008942860178649426,Daniel Caligiuri,h,157,OpenPlay,2020,LeftFoot,15400,Augsburg,Arminia Bielefeld,0,0,2021-04-17 13:30:00,André Hahn,Aerial
+415283,69,BlockedShot,0.7659999847412109,0.4779999923706055,0.025730900466442108,Daniel Caligiuri,h,157,OpenPlay,2020,RightFoot,15400,Augsburg,Arminia Bielefeld,0,0,2021-04-17 13:30:00,,None
+416932,10,BlockedShot,0.7759999847412109,0.38299999237060545,0.07871759682893753,Daniel Caligiuri,h,157,DirectFreekick,2020,RightFoot,15418,Augsburg,FC Cologne,2,3,2021-04-23 18:30:00,,Standard
+416934,19,BlockedShot,0.8919999694824219,0.46099998474121096,0.10729099810123444,Daniel Caligiuri,h,157,OpenPlay,2020,RightFoot,15418,Augsburg,FC Cologne,2,3,2021-04-23 18:30:00,André Hahn,TakeOn
+419695,76,MissedShots,0.775,0.425,0.03020619973540306,Daniel Caligiuri,a,157,OpenPlay,2020,RightFoot,15427,VfB Stuttgart,Augsburg,2,1,2021-05-07 18:30:00,Florian Niederlechner,Pass
+419701,91,MissedShots,0.8969999694824219,0.62,0.06439050287008286,Daniel Caligiuri,a,157,OpenPlay,2020,LeftFoot,15427,VfB Stuttgart,Augsburg,2,1,2021-05-07 18:30:00,,None
+421950,89,Goal,0.885,0.5,0.7577769756317139,Daniel Caligiuri,h,157,Penalty,2020,RightFoot,15435,Augsburg,Werder Bremen,2,0,2021-05-15 13:30:00,,Standard
+423601,18,SavedShot,0.8930000305175781,0.5309999847412109,0.06931760162115097,Daniel Caligiuri,a,157,OpenPlay,2020,Head,15437,Bayern Munich,Augsburg,5,2,2021-05-22 13:30:00,Robert Gumny,Cross
+423607,25,SavedShot,0.885,0.5,0.7577769756317139,Daniel Caligiuri,a,157,Penalty,2020,RightFoot,15437,Bayern Munich,Augsburg,5,2,2021-05-22 13:30:00,,Standard
+426882,73,BlockedShot,0.8190000152587891,0.4829999923706055,0.05528400093317032,Daniel Caligiuri,a,157,OpenPlay,2021,LeftFoot,17530,Eintracht Frankfurt,Augsburg,0,0,2021-08-21 13:30:00,,None
+428569,49,BlockedShot,0.7559999847412109,0.5209999847412109,0.022754399105906487,Daniel Caligiuri,h,157,OpenPlay,2021,LeftFoot,17537,Augsburg,Bayer Leverkusen,1,4,2021-08-28 13:30:00,Florian Niederlechner,BallRecovery
+428572,53,MissedShots,0.914000015258789,0.504000015258789,0.3462409973144531,Daniel Caligiuri,h,157,OpenPlay,2021,LeftFoot,17537,Augsburg,Bayer Leverkusen,1,4,2021-08-28 13:30:00,André Hahn,Cross
+434224,8,BlockedShot,0.7780000305175782,0.6469999694824219,0.02498750016093254,Daniel Caligiuri,a,157,OpenPlay,2021,RightFoot,17569,Freiburg,Augsburg,3,0,2021-09-26 15:30:00,André Hahn,Pass
+434232,45,SavedShot,0.805,0.4929999923706055,0.05435480177402496,Daniel Caligiuri,a,157,OpenPlay,2021,RightFoot,17569,Freiburg,Augsburg,3,0,2021-09-26 15:30:00,Florian Niederlechner,Pass
+434744,2,SavedShot,0.799000015258789,0.20299999237060548,0.014542399905622005,Daniel Caligiuri,a,157,OpenPlay,2021,RightFoot,17576,Borussia Dortmund,Augsburg,2,1,2021-10-02 13:30:00,Tobias Strobl,BallRecovery
+436995,1,MissedShots,0.8130000305175781,0.44799999237060545,0.037261899560689926,Daniel Caligiuri,h,157,FromCorner,2021,LeftFoot,17580,Augsburg,Arminia Bielefeld,1,1,2021-10-17 15:30:00,,None
+437000,17,SavedShot,0.86,0.28600000381469726,0.037259601056575775,Daniel Caligiuri,h,157,OpenPlay,2021,LeftFoot,17580,Augsburg,Arminia Bielefeld,1,1,2021-10-17 15:30:00,Andi Zeqiri,Pass
+437014,84,SavedShot,0.750999984741211,0.585999984741211,0.06443540006875992,Daniel Caligiuri,h,157,DirectFreekick,2021,RightFoot,17580,Augsburg,Arminia Bielefeld,1,1,2021-10-17 15:30:00,,Standard
+437372,35,MissedShots,0.7230000305175781,0.43099998474121093,0.012481999583542347,Daniel Caligiuri,a,157,OpenPlay,2021,RightFoot,17592,Mainz 05,Augsburg,4,1,2021-10-22 18:30:00,,BallTouch
+437378,58,MissedShots,0.7569999694824219,0.32799999237060545,0.011076100170612335,Daniel Caligiuri,a,157,OpenPlay,2021,LeftFoot,17592,Mainz 05,Augsburg,4,1,2021-10-22 18:30:00,Arne Maier,Chipped
+440311,11,MissedShots,0.715,0.5979999923706054,0.015447099693119526,Daniel Caligiuri,h,157,OpenPlay,2021,RightFoot,17598,Augsburg,VfB Stuttgart,4,1,2021-10-31 14:30:00,Andi Zeqiri,Pass
+440326,49,SavedShot,0.7319999694824219,0.5279999923706055,0.015513899736106396,Daniel Caligiuri,h,157,OpenPlay,2021,LeftFoot,17598,Augsburg,VfB Stuttgart,4,1,2021-10-31 14:30:00,Mads Pedersen,None
+440948,33,MissedShots,0.700999984741211,0.7140000152587891,0.030628500506281853,Daniel Caligiuri,a,157,DirectFreekick,2021,RightFoot,17612,Wolfsburg,Augsburg,1,0,2021-11-06 14:30:00,,Standard
+440949,35,SavedShot,0.7380000305175781,0.745,0.012296799570322037,Daniel Caligiuri,a,157,OpenPlay,2021,LeftFoot,17612,Wolfsburg,Augsburg,1,0,2021-11-06 14:30:00,Mads Pedersen,TakeOn
+443987,42,BlockedShot,0.7019999694824218,0.725999984741211,0.030038800090551376,Daniel Caligiuri,a,157,DirectFreekick,2021,RightFoot,17627,Hertha Berlin,Augsburg,1,1,2021-11-27 14:30:00,,Standard
+443990,53,BlockedShot,0.7219999694824218,0.3529999923706055,0.015111999586224556,Daniel Caligiuri,a,157,OpenPlay,2021,LeftFoot,17627,Hertha Berlin,Augsburg,1,1,2021-11-27 14:30:00,Ruben Vargas,Pass
+446137,32,SavedShot,0.765,0.4759999847412109,0.029007799923419952,Daniel Caligiuri,h,157,OpenPlay,2021,LeftFoot,17634,Augsburg,Bochum,2,3,2021-12-04 14:30:00,Ruben Vargas,Pass
+446153,75,BlockedShot,0.850999984741211,0.42400001525878905,0.0692133978009224,Daniel Caligiuri,h,157,OpenPlay,2021,LeftFoot,17634,Augsburg,Bochum,2,3,2021-12-04 14:30:00,Jan Morávek,TakeOn
+446157,85,Goal,0.885,0.5,0.7577769756317139,Daniel Caligiuri,h,157,Penalty,2021,RightFoot,17634,Augsburg,Bochum,2,3,2021-12-04 14:30:00,,Standard
+447287,20,MissedShots,0.8919999694824219,0.32799999237060545,0.023227699100971222,Daniel Caligiuri,a,157,OpenPlay,2021,RightFoot,17644,FC Cologne,Augsburg,0,2,2021-12-10 19:30:00,,Aerial
+449080,85,Goal,0.885,0.5,0.7577769756317139,Daniel Caligiuri,h,157,Penalty,2021,RightFoot,17652,Augsburg,RasenBallsport Leipzig,1,1,2021-12-15 19:30:00,,Standard
+460740,46,MissedShots,0.7380000305175781,0.5579999923706055,0.011041900143027306,Daniel Caligiuri,a,157,OpenPlay,2021,LeftFoot,17734,Arminia Bielefeld,Augsburg,0,1,2022-03-04 19:30:00,,Aerial
+460743,49,Goal,0.865999984741211,0.415,0.05828560143709183,Daniel Caligiuri,a,157,OpenPlay,2021,RightFoot,17734,Arminia Bielefeld,Augsburg,0,1,2022-03-04 19:30:00,Iago,Cross
+465849,51,BlockedShot,0.7630000305175781,0.575,0.03200560063123703,Daniel Caligiuri,h,157,OpenPlay,2021,LeftFoot,17760,Augsburg,Wolfsburg,3,0,2022-04-03 13:30:00,Carlos Gruezo,Pass
+465850,51,MissedShots,0.765,0.6120000076293945,0.015723200514912605,Daniel Caligiuri,h,157,OpenPlay,2021,RightFoot,17760,Augsburg,Wolfsburg,3,0,2022-04-03 13:30:00,,Aerial
+465851,56,MissedShots,0.8730000305175781,0.504000015258789,0.12488199770450592,Daniel Caligiuri,h,157,OpenPlay,2021,LeftFoot,17760,Augsburg,Wolfsburg,3,0,2022-04-03 13:30:00,Iago,Pass
+466337,41,MissedShots,0.8159999847412109,0.43900001525878907,0.026527300477027893,Daniel Caligiuri,h,157,OpenPlay,2021,LeftFoot,17742,Augsburg,Mainz 05,2,1,2022-04-06 16:30:00,,Aerial
+466608,7,BlockedShot,0.7930000305175782,0.3340000152587891,0.025435499846935272,Daniel Caligiuri,a,157,OpenPlay,2021,LeftFoot,17776,Bayern Munich,Augsburg,1,0,2022-04-09 13:30:00,Arne Maier,Pass
+466611,23,BlockedShot,0.860999984741211,0.4490000152587891,0.1358869969844818,Daniel Caligiuri,a,157,OpenPlay,2021,LeftFoot,17776,Bayern Munich,Augsburg,1,0,2022-04-09 13:30:00,,TakeOn
+470680,85,SavedShot,0.9169999694824219,0.335,0.09055829793214798,Daniel Caligiuri,a,157,OpenPlay,2021,RightFoot,17787,Bochum,Augsburg,0,2,2022-04-24 13:30:00,Mads Pedersen,Pass
+474482,0,MissedShots,0.785,0.38,0.015333499759435654,Daniel Caligiuri,a,157,FromCorner,2021,RightFoot,17811,RasenBallsport Leipzig,Augsburg,4,0,2022-05-08 17:30:00,,Aerial
+474483,1,MissedShots,0.960999984741211,0.34599998474121096,0.06323640048503876,Daniel Caligiuri,a,157,OpenPlay,2021,RightFoot,17811,RasenBallsport Leipzig,Augsburg,4,0,2022-05-08 17:30:00,,None
+474496,75,BlockedShot,0.8169999694824219,0.40900001525878904,0.020205099135637283,Daniel Caligiuri,a,157,OpenPlay,2021,LeftFoot,17811,RasenBallsport Leipzig,Augsburg,4,0,2022-05-08 17:30:00,André Hahn,HeadPass
+475807,10,Goal,0.885,0.5,0.7577769756317139,Daniel Caligiuri,h,157,Penalty,2021,RightFoot,17814,Augsburg,Greuther Fuerth,2,1,2022-05-14 13:30:00,,Standard
+475809,19,SavedShot,0.8480000305175781,0.8730000305175781,0.03939349949359894,Daniel Caligiuri,h,157,DirectFreekick,2021,RightFoot,17814,Augsburg,Greuther Fuerth,2,1,2022-05-14 13:30:00,,Standard
+479213,3,MissedShots,0.894000015258789,0.34700000762939454,0.06352660059928894,Daniel Caligiuri,h,157,OpenPlay,2022,RightFoot,19347,Augsburg,Freiburg,0,4,2022-08-06 13:30:00,,None
+479216,10,MissedShots,0.885,0.30100000381469727,0.04097919911146164,Daniel Caligiuri,h,157,OpenPlay,2022,LeftFoot,19347,Augsburg,Freiburg,0,4,2022-08-06 13:30:00,Jeffrey Gouweleeuw,Chipped
+479231,57,SavedShot,0.749000015258789,0.39799999237060546,0.018374700099229813,Daniel Caligiuri,h,157,OpenPlay,2022,LeftFoot,19347,Augsburg,Freiburg,0,4,2022-08-06 13:30:00,Elvis Rexhbecaj,Pass
+480297,67,BlockedShot,0.89,0.3039999961853027,0.050827499479055405,Daniel Caligiuri,a,157,OpenPlay,2022,RightFoot,19352,Bayer Leverkusen,Augsburg,1,2,2022-08-13 13:30:00,Mads Pedersen,Pass
+493720,67,Goal,0.8730000305175781,0.42900001525878906,0.053909800946712494,Daniel Caligiuri,a,157,OpenPlay,2022,LeftFoot,19426,FC Cologne,Augsburg,3,2,2022-10-16 13:30:00,Florian Niederlechner,HeadPass
+517869,85,BlockedShot,0.735999984741211,0.5020000076293946,0.016752999275922775,Daniel Caligiuri,h,157,OpenPlay,2022,RightFoot,19583,Augsburg,FC Cologne,1,3,2023-04-08 13:30:00,,BallRecovery

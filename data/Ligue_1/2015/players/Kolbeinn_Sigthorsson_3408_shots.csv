@@ -1,0 +1,39 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+61932,6,MissedShots,0.9230000305175782,0.7809999847412109,0.03116079978644848,Kolbeinn Sigthorsson,h,3408,OpenPlay,2015,LeftFoot,1891,Nantes,Reims,1,0,2015-08-22 22:00:00,Valentin Rongier,Chipped
+61933,24,SavedShot,0.9169999694824219,0.43900001525878907,0.2828420102596283,Kolbeinn Sigthorsson,h,3408,OpenPlay,2015,Head,1891,Nantes,Reims,1,0,2015-08-22 22:00:00,Johan Audel,Cross
+61940,57,SavedShot,0.725,0.6830000305175781,0.038578100502491,Kolbeinn Sigthorsson,h,3408,DirectFreekick,2015,RightFoot,1891,Nantes,Reims,1,0,2015-08-22 22:00:00,,Standard
+61941,70,MissedShots,0.9540000152587891,0.5629999923706055,0.4317139983177185,Kolbeinn Sigthorsson,h,3408,OpenPlay,2015,LeftFoot,1891,Nantes,Reims,1,0,2015-08-22 22:00:00,Alejandro Bedoya,Cross
+62509,4,MissedShots,0.965999984741211,0.3840000152587891,0.04787319898605347,Kolbeinn Sigthorsson,a,3408,OpenPlay,2015,RightFoot,1907,Bordeaux,Nantes,2,0,2015-08-30 19:00:00,,Aerial
+62526,36,MissedShots,0.705,0.6880000305175781,0.0326835997402668,Kolbeinn Sigthorsson,h,3408,DirectFreekick,2015,RightFoot,1917,Nantes,Rennes,0,2,2015-09-13 19:00:00,,Standard
+62529,40,MissedShots,0.7559999847412109,0.41200000762939454,0.025537099689245224,Kolbeinn Sigthorsson,h,3408,OpenPlay,2015,LeftFoot,1917,Nantes,Rennes,0,2,2015-09-13 19:00:00,Adrien Thomasson,Pass
+62660,61,MissedShots,0.865999984741211,0.48700000762939455,0.05394290015101433,Kolbeinn Sigthorsson,a,3408,OpenPlay,2015,Head,1948,Lille,Nantes,0,1,2015-09-29 20:30:00,Adrien Thomasson,Cross
+63459,77,MissedShots,0.8219999694824218,0.47,0.10662999749183655,Kolbeinn Sigthorsson,h,3408,OpenPlay,2015,LeftFoot,1960,Nantes,Troyes,3,0,2015-10-17 22:00:00,,TakeOn
+63471,88,MissedShots,0.8669999694824219,0.5379999923706055,0.41079801321029663,Kolbeinn Sigthorsson,h,3408,OpenPlay,2015,RightFoot,1960,Nantes,Troyes,3,0,2015-10-17 22:00:00,Adryan,Pass
+63479,91,BlockedShot,0.825999984741211,0.55,0.044309601187705994,Kolbeinn Sigthorsson,h,3408,FromCorner,2015,LeftFoot,1960,Nantes,Troyes,3,0,2015-10-17 22:00:00,,None
+64583,82,BlockedShot,0.8490000152587891,0.4929999923706055,0.015021899715065956,Kolbeinn Sigthorsson,h,3408,FromCorner,2015,Head,1987,Nantes,Marseille,0,1,2015-11-02 00:00:00,Adrien Thomasson,Cross
+102918,69,Goal,0.9519999694824218,0.5129999923706055,0.5828850269317627,Kolbeinn Sigthorsson,a,3408,OpenPlay,2015,RightFoot,1988,Nice,Nantes,1,2,2015-11-04 21:30:00,Yacine Bammou,Cross
+64426,17,MissedShots,0.91,0.46599998474121096,0.11495299637317657,Kolbeinn Sigthorsson,a,3408,SetPiece,2015,Head,1991,Montpellier,Nantes,2,1,2015-11-07 23:00:00,Lorik Cana,Cross
+63708,50,MissedShots,0.8859999847412109,0.4759999847412109,0.05877780169248581,Kolbeinn Sigthorsson,a,3408,OpenPlay,2015,Head,2003,Monaco,Nantes,1,0,2015-11-21 23:00:00,Léo Dubois,Cross
+63710,57,BlockedShot,0.7,0.405,0.03711109980940819,Kolbeinn Sigthorsson,a,3408,DirectFreekick,2015,RightFoot,2003,Monaco,Nantes,1,0,2015-11-21 23:00:00,,Standard
+64676,30,MissedShots,0.9159999847412109,0.68,0.0645717978477478,Kolbeinn Sigthorsson,h,3408,OpenPlay,2015,LeftFoot,2011,Nantes,SC Bastia,0,0,2015-11-28 23:00:00,,BallRecovery
+65274,58,MissedShots,0.95,0.415,0.12602199614048004,Kolbeinn Sigthorsson,a,3408,OpenPlay,2015,Head,2035,GFC Ajaccio,Nantes,1,1,2015-12-05 23:00:00,Alejandro Bedoya,Cross
+65831,76,Goal,0.8630000305175781,0.5229999923706055,0.34868600964546204,Kolbeinn Sigthorsson,h,3408,OpenPlay,2015,RightFoot,2066,Nantes,Saint-Etienne,2,1,2016-01-10 17:00:00,,None
+66246,0,Goal,0.8730000305175781,0.61,0.25052300095558167,Kolbeinn Sigthorsson,h,3408,OpenPlay,2015,RightFoot,2082,Nantes,Bordeaux,2,2,2016-01-23 23:00:00,Birama Touré,Pass
+66257,57,BlockedShot,0.935,0.4129999923706055,0.0361563004553318,Kolbeinn Sigthorsson,h,3408,OpenPlay,2015,Head,2082,Nantes,Bordeaux,2,2,2016-01-23 23:00:00,Alejandro Bedoya,Aerial
+66465,8,MissedShots,0.9059999847412109,0.425,0.1271599978208542,Kolbeinn Sigthorsson,a,3408,OpenPlay,2015,RightFoot,2091,Troyes,Nantes,0,1,2016-01-30 23:00:00,Youssouf Sabaly,Pass
+70021,8,SavedShot,0.8830000305175781,0.7240000152587891,0.2964009940624237,Kolbeinn Sigthorsson,h,3408,OpenPlay,2015,RightFoot,2144,Nantes,Monaco,0,0,2016-02-28 17:00:00,Guillaume Gillet,Throughball
+70023,15,SavedShot,0.8519999694824218,0.37200000762939456,0.06473419815301895,Kolbeinn Sigthorsson,h,3408,OpenPlay,2015,RightFoot,2144,Nantes,Monaco,0,0,2016-02-28 17:00:00,Alejandro Bedoya,Pass
+70028,33,MissedShots,0.8969999694824219,0.7519999694824219,0.03002360090613365,Kolbeinn Sigthorsson,h,3408,OpenPlay,2015,LeftFoot,2144,Nantes,Monaco,0,0,2016-02-28 17:00:00,Alejandro Bedoya,Pass
+70033,70,BlockedShot,0.7219999694824218,0.44599998474121094,0.0482821986079216,Kolbeinn Sigthorsson,h,3408,DirectFreekick,2015,RightFoot,2144,Nantes,Monaco,0,0,2016-02-28 17:00:00,,Standard
+67112,33,SavedShot,0.9330000305175781,0.539000015258789,0.13127100467681885,Kolbeinn Sigthorsson,a,3408,OpenPlay,2015,RightFoot,2155,Rennes,Nantes,4,1,2016-03-06 20:00:00,Rémi Gomis,Rebound
+69880,15,MissedShots,0.8730000305175781,0.5540000152587891,0.03844020143151283,Kolbeinn Sigthorsson,a,3408,SetPiece,2015,Head,2157,SC Bastia,Nantes,0,0,2016-03-09 21:30:00,Jules Iloki,Cross
+67357,7,SavedShot,0.7680000305175781,0.5429999923706055,0.08268850296735764,Kolbeinn Sigthorsson,h,3408,DirectFreekick,2015,RightFoot,2167,Nantes,Angers,2,0,2016-03-13 20:00:00,,Standard
+67478,8,SavedShot,0.6809999847412109,0.4490000152587891,0.03298259899020195,Kolbeinn Sigthorsson,h,3408,DirectFreekick,2015,RightFoot,2186,Nantes,Lille,0,3,2016-04-03 16:00:00,,Standard
+67479,9,SavedShot,0.8069999694824219,0.6309999847412109,0.10460499674081802,Kolbeinn Sigthorsson,h,3408,DirectFreekick,2015,RightFoot,2186,Nantes,Lille,0,3,2016-04-03 16:00:00,,Standard
+67486,50,BlockedShot,0.720999984741211,0.509000015258789,0.04905569925904274,Kolbeinn Sigthorsson,h,3408,DirectFreekick,2015,RightFoot,2186,Nantes,Lille,0,3,2016-04-03 16:00:00,,Standard
+68694,7,ShotOnPost,0.9080000305175782,0.4109999847412109,0.0538116991519928,Kolbeinn Sigthorsson,a,3408,OpenPlay,2015,Head,2194,Reims,Nantes,2,1,2016-04-09 22:00:00,Youssouf Sabaly,Cross
+68696,17,MissedShots,0.7319999694824219,0.6969999694824218,0.03929710015654564,Kolbeinn Sigthorsson,a,3408,DirectFreekick,2015,RightFoot,2194,Reims,Nantes,2,1,2016-04-09 22:00:00,,Standard
+68697,19,BlockedShot,0.9119999694824219,0.4209999847412109,0.08141720294952393,Kolbeinn Sigthorsson,a,3408,OpenPlay,2015,RightFoot,2194,Reims,Nantes,2,1,2016-04-09 22:00:00,Adrien Thomasson,Cross
+103464,35,MissedShots,0.700999984741211,0.49599998474121093,0.04002780094742775,Kolbeinn Sigthorsson,a,3408,DirectFreekick,2016,RightFoot,2276,Bordeaux,Nantes,1,0,2016-08-28 17:00:00,,Standard
+103475,75,SavedShot,0.975,0.6329999923706054,0.07498110085725784,Kolbeinn Sigthorsson,a,3408,OpenPlay,2016,RightFoot,2276,Bordeaux,Nantes,1,0,2016-08-28 17:00:00,Oswaldo Vizcarrondo,TakeOn
+216229,86,MissedShots,0.8819999694824219,0.45,0.03348340094089508,Kolbeinn Sigthorsson,h,3408,OpenPlay,2017,Head,8943,Nantes,Strasbourg,1,0,2018-05-19 19:00:00,Koffi Djidji,Aerial

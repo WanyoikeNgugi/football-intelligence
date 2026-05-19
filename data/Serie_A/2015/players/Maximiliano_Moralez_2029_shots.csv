@@ -1,0 +1,80 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+41400,17,BlockedShot,0.9259999847412109,0.36700000762939455,0.02305609919130802,Maximiliano Moralez,h,2029,OpenPlay,2014,Head,5151,Atalanta,Verona,0,0,2014-08-31 17:00:00,Davide Zappacosta,Cross
+41409,47,MissedShots,0.9330000305175781,0.45,0.5294449925422668,Maximiliano Moralez,h,2029,OpenPlay,2014,RightFoot,5151,Atalanta,Verona,0,0,2014-08-31 17:00:00,Marcelo Estigarribia,Pass
+41410,52,MissedShots,0.875,0.500999984741211,0.03433139994740486,Maximiliano Moralez,h,2029,OpenPlay,2014,Head,5151,Atalanta,Verona,0,0,2014-08-31 17:00:00,,Aerial
+41415,63,BlockedShot,0.78,0.4520000076293945,0.0347013995051384,Maximiliano Moralez,h,2029,OpenPlay,2014,LeftFoot,5151,Atalanta,Verona,0,0,2014-08-31 17:00:00,Rolando Bianchi,Pass
+42957,50,MissedShots,0.8930000305175781,0.6880000305175781,0.008806729689240456,Maximiliano Moralez,a,2029,OpenPlay,2014,Head,5073,Sampdoria,Atalanta,1,0,2014-10-05 14:00:00,Boukary Dramé,Cross
+42962,63,MissedShots,0.9230000305175782,0.2989999961853027,0.22808599472045898,Maximiliano Moralez,a,2029,OpenPlay,2014,RightFoot,5073,Sampdoria,Atalanta,1,0,2014-10-05 14:00:00,Germán Denis,Pass
+42998,31,MissedShots,0.835,0.54,0.07351189851760864,Maximiliano Moralez,h,2029,OpenPlay,2014,RightFoot,5084,Atalanta,Parma,1,0,2014-10-19 14:00:00,Germán Denis,Pass
+43001,47,MissedShots,0.874000015258789,0.6409999847412109,0.05863260105252266,Maximiliano Moralez,h,2029,OpenPlay,2014,RightFoot,5084,Atalanta,Parma,1,0,2014-10-19 14:00:00,,None
+43006,70,BlockedShot,0.8009999847412109,0.3609999847412109,0.0910893976688385,Maximiliano Moralez,h,2029,DirectFreekick,2014,RightFoot,5084,Atalanta,Parma,1,0,2014-10-19 14:00:00,,Standard
+43011,88,MissedShots,0.960999984741211,0.6830000305175781,0.03643549978733063,Maximiliano Moralez,h,2029,OpenPlay,2014,LeftFoot,5084,Atalanta,Parma,1,0,2014-10-19 14:00:00,Daniele Baselli,Cross
+44303,46,BlockedShot,0.8059999847412109,0.40400001525878904,0.032198600471019745,Maximiliano Moralez,a,2029,SetPiece,2014,RightFoot,5040,Sassuolo,Atalanta,0,0,2014-11-08 17:00:00,,None
+44314,0,Goal,0.9059999847412109,0.40400001525878904,0.11474400013685226,Maximiliano Moralez,h,2029,OpenPlay,2014,RightFoot,5050,Atalanta,Roma,1,2,2014-11-22 17:00:00,Cristian Raimondi,Pass
+44327,69,MissedShots,0.8859999847412109,0.48200000762939454,0.2836360037326813,Maximiliano Moralez,h,2029,OpenPlay,2014,LeftFoot,5050,Atalanta,Roma,1,2,2014-11-22 17:00:00,,BallRecovery
+44328,80,MissedShots,0.8040000152587891,0.72,0.06335599720478058,Maximiliano Moralez,h,2029,DirectFreekick,2014,RightFoot,5050,Atalanta,Roma,1,2,2014-11-22 17:00:00,,Standard
+44642,79,MissedShots,0.9030000305175782,0.28,0.04074769839644432,Maximiliano Moralez,a,2029,OpenPlay,2014,RightFoot,5062,Empoli,Atalanta,0,0,2014-11-30 14:00:00,Germán Denis,Pass
+44820,15,MissedShots,0.8930000305175781,0.5920000076293945,0.032304901629686356,Maximiliano Moralez,h,2029,OpenPlay,2014,Head,5006,Atalanta,Cesena,3,2,2014-12-07 14:00:00,Alejandro Gomez,Cross
+44822,26,MissedShots,0.785,0.4229999923706055,0.043965600430965424,Maximiliano Moralez,h,2029,OpenPlay,2014,LeftFoot,5006,Atalanta,Cesena,3,2,2014-12-07 14:00:00,Germán Denis,LayOff
+44835,51,Goal,0.9619999694824218,0.6,0.38168901205062866,Maximiliano Moralez,h,2029,OpenPlay,2014,LeftFoot,5006,Atalanta,Cesena,3,2,2014-12-07 14:00:00,,None
+44842,86,MissedShots,0.8180000305175781,0.3820000076293945,0.29377999901771545,Maximiliano Moralez,h,2029,OpenPlay,2014,RightFoot,5006,Atalanta,Cesena,3,2,2014-12-07 14:00:00,Rolando Bianchi,HeadPass
+45340,44,MissedShots,0.9159999847412109,0.685,0.04904999956488609,Maximiliano Moralez,h,2029,OpenPlay,2014,RightFoot,5027,Atalanta,Palermo,3,3,2014-12-21 14:00:00,,None
+45345,54,Goal,0.9,0.5709999847412109,0.2844560146331787,Maximiliano Moralez,h,2029,OpenPlay,2014,RightFoot,5027,Atalanta,Palermo,3,3,2014-12-21 14:00:00,,None
+45347,66,SavedShot,0.825,0.445,0.048519399017095566,Maximiliano Moralez,h,2029,OpenPlay,2014,LeftFoot,5027,Atalanta,Palermo,3,3,2014-12-21 14:00:00,,None
+45882,48,Goal,0.8930000305175781,0.36900001525878906,0.5474110245704651,Maximiliano Moralez,a,2029,OpenPlay,2014,RightFoot,4963,Genoa,Atalanta,2,2,2015-01-06 14:00:00,Daniele Baselli,Throughball
+45885,67,SavedShot,0.884000015258789,0.629000015258789,0.10418400168418884,Maximiliano Moralez,a,2029,OpenPlay,2014,RightFoot,4963,Genoa,Atalanta,2,2,2015-01-06 14:00:00,Germán Denis,Pass
+45891,87,SavedShot,0.7830000305175782,0.4520000076293945,0.09661249816417694,Maximiliano Moralez,a,2029,DirectFreekick,2014,RightFoot,4963,Genoa,Atalanta,2,2,2015-01-06 14:00:00,,Standard
+46209,26,BlockedShot,0.7980000305175782,0.700999984741211,0.024483399465680122,Maximiliano Moralez,h,2029,OpenPlay,2014,RightFoot,4970,Atalanta,Chievo,1,1,2015-01-11 14:00:00,Daniele Baselli,Pass
+46210,30,BlockedShot,0.879000015258789,0.5979999923706054,0.07057289779186249,Maximiliano Moralez,h,2029,SetPiece,2014,LeftFoot,4970,Atalanta,Chievo,1,1,2015-01-11 14:00:00,Gianpaolo Bellini,Chipped
+46222,69,SavedShot,0.8130000305175781,0.555,0.0618509016931057,Maximiliano Moralez,h,2029,OpenPlay,2014,LeftFoot,4970,Atalanta,Chievo,1,1,2015-01-11 14:00:00,Germán Denis,LayOff
+46005,23,MissedShots,0.785,0.6580000305175782,0.026651300489902496,Maximiliano Moralez,a,2029,OpenPlay,2014,RightFoot,4980,AC Milan,Atalanta,0,1,2015-01-18 14:00:00,Cristiano Del Grosso,Pass
+46020,83,SavedShot,0.955999984741211,0.24700000762939453,0.0382068008184433,Maximiliano Moralez,a,2029,OpenPlay,2014,RightFoot,4980,AC Milan,Atalanta,0,1,2015-01-18 14:00:00,Rolando Bianchi,Pass
+46337,15,MissedShots,0.8919999694824219,0.5740000152587891,0.04872560128569603,Maximiliano Moralez,a,2029,OpenPlay,2014,Head,4990,Verona,Atalanta,1,0,2015-01-25 14:00:00,Cristiano Del Grosso,Cross
+46338,19,MissedShots,0.7969999694824219,0.39,0.03639170154929161,Maximiliano Moralez,a,2029,OpenPlay,2014,RightFoot,4990,Verona,Atalanta,1,0,2015-01-25 14:00:00,Germán Denis,Pass
+46359,73,MissedShots,0.7240000152587891,0.4909999847412109,0.012749199755489826,Maximiliano Moralez,a,2029,OpenPlay,2014,RightFoot,4990,Verona,Atalanta,1,0,2015-01-25 14:00:00,Carlos Carmona,TakeOn
+46881,2,MissedShots,0.905,0.355,0.01521340012550354,Maximiliano Moralez,a,2029,OpenPlay,2014,Head,4929,Fiorentina,Atalanta,3,2,2015-02-08 11:30:00,Andrea Masiello,Cross
+46894,44,MissedShots,0.955999984741211,0.3940000152587891,0.04461570084095001,Maximiliano Moralez,a,2029,FromCorner,2014,Head,4929,Fiorentina,Atalanta,3,2,2015-02-08 11:30:00,Alejandro Gomez,Cross
+46900,67,MissedShots,0.9690000152587891,0.38599998474121094,0.026139700785279274,Maximiliano Moralez,a,2029,FromCorner,2014,Head,4929,Fiorentina,Atalanta,3,2,2015-02-08 11:30:00,Alejandro Gomez,Cross
+46903,77,BlockedShot,0.855,0.705999984741211,0.03735560178756714,Maximiliano Moralez,a,2029,OpenPlay,2014,RightFoot,4929,Fiorentina,Atalanta,3,2,2015-02-08 11:30:00,Davide Zappacosta,Pass
+47254,26,Goal,0.8519999694824218,0.4620000076293945,0.07094939798116684,Maximiliano Moralez,h,2029,SetPiece,2014,LeftFoot,4942,Atalanta,Inter,1,4,2015-02-15 14:00:00,Mauricio Pinilla,HeadPass
+48769,9,BlockedShot,0.8109999847412109,0.2620000076293945,0.02314230054616928,Maximiliano Moralez,h,2029,OpenPlay,2014,RightFoot,4903,Atalanta,Udinese,0,0,2015-03-15 14:00:00,Luca Cigarini,Pass
+48773,20,SavedShot,0.8590000152587891,0.695,0.007199009880423546,Maximiliano Moralez,h,2029,OpenPlay,2014,Head,4903,Atalanta,Udinese,0,0,2015-03-15 14:00:00,Boukary Dramé,Cross
+48775,28,MissedShots,0.9330000305175781,0.3770000076293945,0.06879270076751709,Maximiliano Moralez,h,2029,OpenPlay,2014,LeftFoot,4903,Atalanta,Udinese,0,0,2015-03-15 14:00:00,Luca Cigarini,Cross
+48933,45,MissedShots,0.8880000305175781,0.7480000305175781,0.05865909904241562,Maximiliano Moralez,h,2029,OpenPlay,2014,RightFoot,4848,Atalanta,Sassuolo,2,1,2015-04-12 14:00:00,Germán Denis,Pass
+50946,21,MissedShots,0.7609999847412109,0.345,0.01841370016336441,Maximiliano Moralez,h,2029,OpenPlay,2014,RightFoot,4863,Atalanta,Empoli,2,2,2015-04-26 11:30:00,Marcelo Estigarribia,Pass
+50961,52,SavedShot,0.7959999847412109,0.35200000762939454,0.029994700103998184,Maximiliano Moralez,h,2029,OpenPlay,2014,LeftFoot,4863,Atalanta,Empoli,2,2,2015-04-26 11:30:00,Luca Cigarini,Pass
+49902,7,SavedShot,0.7819999694824219,0.7340000152587891,0.0200824998319149,Maximiliano Moralez,a,2029,OpenPlay,2014,RightFoot,4875,Cesena,Atalanta,2,2,2015-04-29 19:45:00,Alejandro Gomez,Pass
+49903,13,BlockedShot,0.865,0.4209999847412109,0.0952415019273758,Maximiliano Moralez,a,2029,OpenPlay,2014,RightFoot,4875,Cesena,Atalanta,2,2,2015-04-29 19:45:00,Davide Zappacosta,Pass
+49918,76,MissedShots,0.955,0.5879999923706055,0.09721159934997559,Maximiliano Moralez,a,2029,OpenPlay,2014,RightFoot,4875,Cesena,Atalanta,2,2,2015-04-29 19:45:00,Boukary Dramé,Cross
+49889,65,MissedShots,0.925,0.539000015258789,0.0842788964509964,Maximiliano Moralez,h,2029,OpenPlay,2014,LeftFoot,4803,Atalanta,Genoa,1,4,2015-05-17 14:00:00,,None
+50697,43,SavedShot,0.9269999694824219,0.35700000762939454,0.33081600069999695,Maximiliano Moralez,a,2029,OpenPlay,2014,RightFoot,4815,Chievo,Atalanta,1,1,2015-05-24 14:00:00,Luca Cigarini,Throughball
+50709,86,BlockedShot,0.7969999694824219,0.3170000076293945,0.023493699729442596,Maximiliano Moralez,a,2029,SetPiece,2014,RightFoot,4815,Chievo,Atalanta,1,1,2015-05-24 14:00:00,Luca Cigarini,Pass
+50535,14,BlockedShot,0.8859999847412109,0.6880000305175781,0.05496919900178909,Maximiliano Moralez,h,2029,OpenPlay,2014,RightFoot,4820,Atalanta,AC Milan,1,3,2015-05-30 19:45:00,,Tackle
+50543,45,MissedShots,0.94,0.28,0.051845598965883255,Maximiliano Moralez,h,2029,OpenPlay,2014,RightFoot,4820,Atalanta,AC Milan,1,3,2015-05-30 19:45:00,Alejandro Gomez,Pass
+50551,87,BlockedShot,0.774000015258789,0.37200000762939456,0.07011929899454117,Maximiliano Moralez,h,2029,DirectFreekick,2014,RightFoot,4820,Atalanta,AC Milan,1,3,2015-05-30 19:45:00,,Standard
+93178,19,BlockedShot,0.9590000152587891,0.6769999694824219,0.06549199670553207,Maximiliano Moralez,a,2029,OpenPlay,2015,LeftFoot,557,Inter,Atalanta,1,0,2015-08-23 22:45:00,Alejandro Gomez,Pass
+93354,11,MissedShots,0.76,0.3609999847412109,0.022163499146699905,Maximiliano Moralez,h,2029,OpenPlay,2015,RightFoot,570,Atalanta,Frosinone,2,0,2015-08-30 22:45:00,Alejandro Gomez,Pass
+93369,43,MissedShots,0.8419999694824218,0.4470000076293945,0.016150400042533875,Maximiliano Moralez,h,2029,OpenPlay,2015,Head,570,Atalanta,Frosinone,2,0,2015-08-30 22:45:00,Boukary Dramé,Cross
+93371,49,SavedShot,0.9269999694824219,0.3129999923706055,0.29339298605918884,Maximiliano Moralez,h,2029,OpenPlay,2015,RightFoot,570,Atalanta,Frosinone,2,0,2015-08-30 22:45:00,Alberto Grassi,TakeOn
+93375,54,MissedShots,0.7719999694824219,0.315,0.025125499814748764,Maximiliano Moralez,h,2029,OpenPlay,2015,RightFoot,570,Atalanta,Frosinone,2,0,2015-08-30 22:45:00,Mauricio Pinilla,Pass
+93377,59,SavedShot,0.84,0.485,0.5348520278930664,Maximiliano Moralez,h,2029,OpenPlay,2015,LeftFoot,570,Atalanta,Frosinone,2,0,2015-08-30 22:45:00,,BallRecovery
+93883,85,SavedShot,0.885,0.5,0.7612990140914917,Maximiliano Moralez,a,2029,Penalty,2015,RightFoot,576,Sassuolo,Atalanta,2,2,2015-09-13 17:00:00,,Standard
+94880,54,SavedShot,0.8230000305175781,0.5420000076293945,0.0687526986002922,Maximiliano Moralez,h,2029,OpenPlay,2015,RightFoot,587,Atalanta,Verona,1,1,2015-09-20 17:00:00,Alejandro Gomez,Pass
+94888,88,Goal,0.9359999847412109,0.4779999923706055,0.43766099214553833,Maximiliano Moralez,h,2029,OpenPlay,2015,Head,587,Atalanta,Verona,1,1,2015-09-20 17:00:00,Alejandro Gomez,Cross
+95605,27,BlockedShot,0.8680000305175781,0.6179999923706054,0.0719602033495903,Maximiliano Moralez,a,2029,OpenPlay,2015,RightFoot,600,Empoli,Atalanta,0,1,2015-09-24 22:45:00,Mauricio Pinilla,Tackle
+95712,8,MissedShots,0.9269999694824219,0.62,0.11502499878406525,Maximiliano Moralez,h,2029,OpenPlay,2015,RightFoot,610,Atalanta,Sampdoria,2,1,2015-09-28 23:00:00,Boukary Dramé,Pass
+95723,51,MissedShots,0.840999984741211,0.46900001525878904,0.09938439726829529,Maximiliano Moralez,h,2029,OpenPlay,2015,RightFoot,610,Atalanta,Sampdoria,2,1,2015-09-28 23:00:00,Alberto Grassi,Pass
+95733,86,MissedShots,0.749000015258789,0.29,0.021600499749183655,Maximiliano Moralez,h,2029,OpenPlay,2015,RightFoot,610,Atalanta,Sampdoria,2,1,2015-09-28 23:00:00,Marten de Roon,Pass
+96279,24,SavedShot,0.9009999847412109,0.4520000076293945,0.3790859878063202,Maximiliano Moralez,a,2029,OpenPlay,2015,RightFoot,620,Fiorentina,Atalanta,3,0,2015-10-04 22:45:00,Germán Denis,Pass
+96747,28,SavedShot,0.905,0.7380000305175781,0.04101720079779625,Maximiliano Moralez,h,2029,FromCorner,2015,RightFoot,628,Atalanta,Carpi,3,0,2015-10-18 17:00:00,Boukary Dramé,Pass
+97755,51,SavedShot,0.7419999694824219,0.3920000076293945,0.019241299480199814,Maximiliano Moralez,h,2029,OpenPlay,2015,RightFoot,647,Atalanta,Lazio,2,1,2015-10-28 23:45:00,Cristian Raimondi,HeadPass
+98229,88,MissedShots,0.765,0.5470000076293945,0.07630369812250137,Maximiliano Moralez,a,2029,DirectFreekick,2015,RightFoot,655,Bologna,Atalanta,3,0,2015-11-01 18:00:00,,Standard
+98807,54,MissedShots,0.774000015258789,0.5690000152587891,0.028900299221277237,Maximiliano Moralez,a,2029,OpenPlay,2015,RightFoot,662,AC Milan,Atalanta,0,0,2015-11-07 23:45:00,Mauricio Pinilla,Pass
+98812,63,SavedShot,0.9630000305175781,0.34799999237060547,0.06378400325775146,Maximiliano Moralez,a,2029,OpenPlay,2015,RightFoot,662,AC Milan,Atalanta,0,0,2015-11-07 23:45:00,Alberto Grassi,Chipped
+99201,18,BlockedShot,0.7669999694824219,0.6419999694824219,0.06216739863157272,Maximiliano Moralez,h,2029,DirectFreekick,2015,RightFoot,679,Atalanta,Torino,0,1,2015-11-22 18:00:00,,Standard
+99936,59,SavedShot,0.8630000305175781,0.5320000076293945,0.49931299686431885,Maximiliano Moralez,a,2029,OpenPlay,2015,RightFoot,683,Roma,Atalanta,0,2,2015-11-29 18:00:00,Jasmin Kurtic,HeadPass
+100236,20,MissedShots,0.884000015258789,0.39099998474121095,0.32854199409484863,Maximiliano Moralez,h,2029,OpenPlay,2015,RightFoot,695,Atalanta,Palermo,3,0,2015-12-06 18:00:00,Germán Denis,Pass
+100241,33,MissedShots,0.7859999847412109,0.3609999847412109,0.02597389928996563,Maximiliano Moralez,h,2029,OpenPlay,2015,RightFoot,695,Atalanta,Palermo,3,0,2015-12-06 18:00:00,Alejandro Gomez,Pass
+100244,44,MissedShots,0.9790000152587891,0.39799999237060546,0.2913059890270233,Maximiliano Moralez,h,2029,OpenPlay,2015,RightFoot,695,Atalanta,Palermo,3,0,2015-12-06 18:00:00,Alejandro Gomez,Cross
+101274,2,SavedShot,0.904000015258789,0.40400001525878904,0.36940300464630127,Maximiliano Moralez,h,2029,OpenPlay,2015,RightFoot,713,Atalanta,Napoli,1,3,2015-12-20 18:00:00,Germán Denis,Pass
+101279,21,MissedShots,0.9059999847412109,0.3770000076293945,0.019678400829434395,Maximiliano Moralez,h,2029,OpenPlay,2015,Head,713,Atalanta,Napoli,1,3,2015-12-20 18:00:00,Davide Brivio,Cross

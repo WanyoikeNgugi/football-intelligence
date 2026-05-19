@@ -1,0 +1,67 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+1401,50,BlockedShot,0.9119999694824219,0.48,0.1303980052471161,Marco Verratti,h,3552,OpenPlay,2014,RightFoot,6164,Paris Saint Germain,Lyon,1,1,2014-09-21 20:00:00,Edinson Cavani,HeadPass
+1462,6,MissedShots,0.87,0.35700000762939454,0.07257959991693497,Marco Verratti,h,3552,OpenPlay,2014,RightFoot,6123,Paris Saint Germain,Monaco,1,1,2014-10-05 20:00:00,Lucas Moura,Pass
+2286,23,BlockedShot,0.9030000305175782,0.39,0.10396900027990341,Marco Verratti,h,3552,OpenPlay,2014,LeftFoot,6135,Paris Saint Germain,Bordeaux,3,0,2014-10-25 16:00:00,Lucas Moura,Pass
+3393,85,MissedShots,0.8619999694824219,0.34,0.06807389855384827,Marco Verratti,a,3552,OpenPlay,2014,RightFoot,6076,Lorient,Paris Saint Germain,1,2,2014-11-01 16:00:00,,None
+3446,19,SavedShot,0.7609999847412109,0.5179999923706055,0.021947599947452545,Marco Verratti,a,3552,OpenPlay,2014,RightFoot,6063,Guingamp,Paris Saint Germain,1,0,2014-12-14 16:00:00,David Luiz,Pass
+3456,66,MissedShots,0.785,0.5479999923706055,0.050104498863220215,Marco Verratti,a,3552,OpenPlay,2014,RightFoot,6063,Guingamp,Paris Saint Germain,1,0,2014-12-14 16:00:00,,TakeOn
+4682,37,Goal,0.9209999847412109,0.4259999847412109,0.4778909981250763,Marco Verratti,h,3552,SetPiece,2014,RightFoot,6016,Paris Saint Germain,Evian Thonon Gaillard,4,2,2015-01-18 13:00:00,,None
+5877,69,MissedShots,0.9259999847412109,0.5209999847412109,0.39932501316070557,Marco Verratti,a,3552,OpenPlay,2014,Head,6028,Saint-Etienne,Paris Saint Germain,0,1,2015-01-25 20:00:00,Zlatan Ibrahimovic,Chipped
+3152,90,BlockedShot,0.8580000305175781,0.36900001525878906,0.04290759935975075,Marco Verratti,a,3552,OpenPlay,2014,RightFoot,5972,Lyon,Paris Saint Germain,1,1,2015-02-08 20:00:00,Zlatan Ibrahimovic,HeadPass
+2781,80,MissedShots,0.730999984741211,0.66,0.015661900863051414,Marco Verratti,h,3552,OpenPlay,2014,RightFoot,5974,Paris Saint Germain,Caen,2,2,2015-02-14 15:00:00,Maxwell,Pass
+7755,52,SavedShot,0.8090000152587891,0.6840000152587891,0.02537669986486435,Marco Verratti,h,3552,FromCorner,2014,RightFoot,5931,Paris Saint Germain,Lens,4,1,2015-03-07 16:00:00,Zlatan Ibrahimovic,Pass
+8339,24,Goal,0.8519999694824218,0.445,0.09638399630784988,Marco Verratti,h,3552,OpenPlay,2014,RightFoot,5925,Paris Saint Germain,Metz,3,1,2015-04-28 20:00:00,Javier Pastore,Pass
+62336,7,SavedShot,0.805,0.25799999237060545,0.020375700667500496,Marco Verratti,a,3552,FromCorner,2015,RightFoot,1920,Reims,Paris Saint Germain,1,1,2015-09-19 19:30:00,Ezequiel Lavezzi,LayOff
+62352,61,SavedShot,0.725,0.565,0.01731720007956028,Marco Verratti,a,3552,OpenPlay,2015,RightFoot,1920,Reims,Paris Saint Germain,1,1,2015-09-19 19:30:00,Zlatan Ibrahimovic,Pass
+64001,72,OwnGoal,0.13399999618530273,0.57,0,Marco Verratti,h,3552,OpenPlay,2015,LeftFoot,1977,Paris Saint Germain,Saint-Etienne,4,1,2015-10-26 00:00:00,,Clearance
+103277,70,MissedShots,0.785,0.5570000076293945,0.0585034005343914,Marco Verratti,h,3552,OpenPlay,2016,RightFoot,2268,Paris Saint Germain,Metz,3,0,2016-08-21 22:45:00,Adrien Rabiot,Pass
+103286,93,Goal,0.7909999847412109,0.7340000152587891,0.019354600459337234,Marco Verratti,h,3552,FromCorner,2016,RightFoot,2268,Paris Saint Germain,Metz,3,0,2016-08-21 22:45:00,Ángel Di María,Pass
+105364,78,Goal,0.885,0.47200000762939454,0.48264598846435547,Marco Verratti,h,3552,OpenPlay,2016,RightFoot,2842,Paris Saint Germain,Rennes,4,0,2016-11-06 23:45:00,Hatem Ben Arfa,Pass
+105712,74,MissedShots,0.730999984741211,0.710999984741211,0.01655540056526661,Marco Verratti,h,3552,OpenPlay,2016,RightFoot,2845,Paris Saint Germain,Nantes,2,0,2016-11-19 20:00:00,Hatem Ben Arfa,Pass
+111198,54,BlockedShot,0.700999984741211,0.505,0.01588979922235012,Marco Verratti,h,3552,SetPiece,2016,RightFoot,4170,Paris Saint Germain,Toulouse,0,0,2017-02-19 20:00:00,Adrien Rabiot,Pass
+110263,19,MissedShots,0.9319999694824219,0.345,0.0659618005156517,Marco Verratti,h,3552,OpenPlay,2016,RightFoot,4250,Paris Saint Germain,Montpellier,2,0,2017-04-22 16:00:00,,Rebound
+110538,44,BlockedShot,0.840999984741211,0.6359999847412109,0.04606710001826286,Marco Verratti,a,3552,OpenPlay,2016,RightFoot,4256,Nice,Paris Saint Germain,3,1,2017-04-30 20:00:00,Julian Draxler,Pass
+111566,34,Goal,0.784000015258789,0.21700000762939453,0.01824980042874813,Marco Verratti,h,3552,OpenPlay,2016,RightFoot,4271,Paris Saint Germain,SC Bastia,5,0,2017-05-06 16:00:00,Thomas Meunier,Pass
+111567,38,BlockedShot,0.91,0.4329999923706055,0.11722200363874435,Marco Verratti,h,3552,OpenPlay,2016,RightFoot,4271,Paris Saint Germain,SC Bastia,5,0,2017-05-06 16:00:00,,None
+111569,40,SavedShot,0.9290000152587891,0.46799999237060547,0.1904969960451126,Marco Verratti,h,3552,OpenPlay,2016,RightFoot,4271,Paris Saint Germain,SC Bastia,5,0,2017-05-06 16:00:00,Edinson Cavani,TakeOn
+111580,73,BlockedShot,0.7380000305175781,0.48900001525878906,0.018761999905109406,Marco Verratti,h,3552,OpenPlay,2016,RightFoot,4271,Paris Saint Germain,SC Bastia,5,0,2017-05-06 16:00:00,,None
+111860,42,SavedShot,0.8880000305175781,0.435,0.11768399924039841,Marco Verratti,a,3552,OpenPlay,2016,RightFoot,4275,Saint-Etienne,Paris Saint Germain,0,5,2017-05-14 20:00:00,Julian Draxler,Pass
+161857,3,MissedShots,0.7980000305175782,0.29700000762939455,0.019882500171661377,Marco Verratti,h,3552,OpenPlay,2017,RightFoot,8566,Paris Saint Germain,Amiens,2,0,2017-08-05 16:15:00,Javier Pastore,Pass
+164776,8,MissedShots,0.8680000305175781,0.365,0.0823419988155365,Marco Verratti,a,3552,OpenPlay,2017,RightFoot,8680,Angers,Paris Saint Germain,0,5,2017-11-04 16:00:00,Edinson Cavani,Chipped
+164794,74,MissedShots,0.8690000152587891,0.42700000762939455,0.026743000373244286,Marco Verratti,a,3552,OpenPlay,2017,Head,8680,Angers,Paris Saint Germain,0,5,2017-11-04 16:00:00,Thomas Meunier,Cross
+165605,36,MissedShots,0.8240000152587891,0.4520000076293945,0.06650059670209885,Marco Verratti,h,3552,OpenPlay,2017,RightFoot,8712,Paris Saint Germain,Troyes,2,0,2017-11-29 20:00:00,Javier Pastore,Pass
+165610,48,BlockedShot,0.845999984741211,0.620999984741211,0.05530669912695885,Marco Verratti,h,3552,OpenPlay,2017,RightFoot,8712,Paris Saint Germain,Troyes,2,0,2017-11-29 20:00:00,,None
+183409,23,MissedShots,0.7959999847412109,0.26399999618530273,0.02547759935259819,Marco Verratti,a,3552,OpenPlay,2017,LeftFoot,8741,Rennes,Paris Saint Germain,1,4,2017-12-16 16:00:00,Edinson Cavani,Pass
+189526,50,MissedShots,0.840999984741211,0.64,0.05690909922122955,Marco Verratti,a,3552,OpenPlay,2017,RightFoot,8777,Lyon,Paris Saint Germain,2,1,2018-01-21 20:00:00,Layvin Kurzawa,Pass
+194470,36,SavedShot,0.84,0.6719999694824219,0.04456130042672157,Marco Verratti,a,3552,OpenPlay,2017,RightFoot,8797,Lille,Paris Saint Germain,0,3,2018-02-03 16:00:00,Edinson Cavani,Pass
+262795,37,MissedShots,0.9019999694824219,0.664000015258789,0.07124549895524979,Marco Verratti,h,3552,OpenPlay,2018,RightFoot,10828,Paris Saint Germain,Nantes,1,0,2018-12-22 19:00:00,Julian Draxler,Pass
+292955,74,BlockedShot,0.7880000305175782,0.6430000305175781,0.022784199565649033,Marco Verratti,h,3552,OpenPlay,2018,RightFoot,10946,Paris Saint Germain,Strasbourg,2,2,2019-04-07 20:00:00,Juan Bernat,Pass
+303651,91,BlockedShot,0.745999984741211,0.46299999237060546,0.01901949942111969,Marco Verratti,a,3552,OpenPlay,2018,RightFoot,11021,Reims,Paris Saint Germain,3,1,2019-05-24 19:05:00,,None
+360457,37,MissedShots,0.925,0.6020000076293945,0.08637479692697525,Marco Verratti,h,3552,OpenPlay,2019,LeftFoot,12966,Paris Saint Germain,Bordeaux,4,3,2020-02-23 20:00:00,,None
+360458,37,BlockedShot,0.97,0.5770000076293945,0.11661799997091293,Marco Verratti,h,3552,OpenPlay,2019,RightFoot,12966,Paris Saint Germain,Bordeaux,4,3,2020-02-23 20:00:00,Edinson Cavani,BallTouch
+376428,52,MissedShots,0.6959999847412109,0.3039999961853027,0.016194799914956093,Marco Verratti,a,3552,OpenPlay,2020,RightFoot,13989,Lens,Paris Saint Germain,1,0,2020-09-10 21:00:00,Idrissa Gueye,Pass
+377015,1,SavedShot,0.9530000305175781,0.5,0.5871149897575378,Marco Verratti,h,3552,OpenPlay,2020,RightFoot,14200,Paris Saint Germain,Marseille,0,1,2020-09-13 19:00:00,Alessandro Florenzi,Cross
+377026,56,MissedShots,0.6730000305175782,0.5070000076293946,0.009693159721791744,Marco Verratti,h,3552,OpenPlay,2020,RightFoot,14200,Paris Saint Germain,Marseille,0,1,2020-09-13 19:00:00,,None
+380334,41,SavedShot,0.865,0.6819999694824219,0.03825340047478676,Marco Verratti,h,3552,FromCorner,2020,RightFoot,15806,Paris Saint Germain,Angers,6,1,2020-10-02 19:00:00,Kylian Mbappe-Lottin,Pass
+395536,90,BlockedShot,0.9059999847412109,0.575,0.457381010055542,Marco Verratti,h,3552,OpenPlay,2020,LeftFoot,15924,Paris Saint Germain,Strasbourg,4,0,2020-12-23 20:00:00,Julian Draxler,Pass
+398109,2,BlockedShot,0.8780000305175781,0.41900001525878905,0.08786489814519882,Marco Verratti,h,3552,OpenPlay,2020,RightFoot,15943,Paris Saint Germain,Brest,3,0,2021-01-09 20:00:00,Ángel Di María,Tackle
+398110,2,SavedShot,0.9019999694824219,0.415,0.1020049974322319,Marco Verratti,h,3552,OpenPlay,2020,LeftFoot,15943,Paris Saint Germain,Brest,3,0,2021-01-09 20:00:00,,Rebound
+399186,10,MissedShots,0.885,0.5420000076293945,0.08845440298318863,Marco Verratti,a,3552,OpenPlay,2020,LeftFoot,15946,Angers,Paris Saint Germain,0,1,2021-01-16 20:00:00,Neymar,Cross
+404002,76,MissedShots,0.8390000152587891,0.6120000076293945,0.1050800010561943,Marco Verratti,a,3552,OpenPlay,2020,RightFoot,15995,Marseille,Paris Saint Germain,0,2,2021-02-07 20:00:00,,TakeOn
+412088,14,SavedShot,0.899000015258789,0.42900001525878906,0.085630401968956,Marco Verratti,a,3552,OpenPlay,2020,RightFoot,16055,Lyon,Paris Saint Germain,2,4,2021-03-21 20:00:00,,None
+426748,14,MissedShots,0.935,0.345,0.05258319899439812,Marco Verratti,a,3552,FromCorner,2021,RightFoot,17842,Brest,Paris Saint Germain,2,4,2021-08-20 19:00:00,Kylian Mbappe-Lottin,Pass
+453458,47,ShotOnPost,0.9290000152587891,0.6580000305175782,0.32899999618530273,Marco Verratti,h,3552,OpenPlay,2021,RightFoot,18026,Paris Saint Germain,Brest,2,0,2022-01-15 20:00:00,Ángel Di María,Pass
+455471,43,Goal,0.8490000152587891,0.6940000152587891,0.028449000790715218,Marco Verratti,h,3552,OpenPlay,2021,LeftFoot,18041,Paris Saint Germain,Reims,4,0,2022-01-23 19:45:00,,Rebound
+455481,66,BlockedShot,0.8530000305175781,0.605999984741211,0.04796050116419792,Marco Verratti,h,3552,FromCorner,2021,RightFoot,18041,Paris Saint Germain,Reims,4,0,2022-01-23 19:45:00,Lionel Messi,Pass
+456411,70,BlockedShot,0.7530000305175781,0.645,0.018514199182391167,Marco Verratti,a,3552,OpenPlay,2021,RightFoot,18044,Lille,Paris Saint Germain,1,5,2022-02-06 19:45:00,Kylian Mbappe-Lottin,Pass
+464351,42,MissedShots,0.85,0.7019999694824218,0.03395479917526245,Marco Verratti,a,3552,OpenPlay,2021,RightFoot,18107,Monaco,Paris Saint Germain,3,0,2022-03-20 12:00:00,Kylian Mbappe-Lottin,Pass
+471164,48,MissedShots,0.88,0.4129999923706055,0.10200399905443192,Marco Verratti,a,3552,OpenPlay,2021,RightFoot,18168,Strasbourg,Paris Saint Germain,3,3,2022-04-29 19:00:00,Achraf Hakimi,Pass
+471171,74,OwnGoal,0.034000000953674316,0.4759999847412109,0,Marco Verratti,a,3552,FromCorner,2021,LeftFoot,18168,Strasbourg,Paris Saint Germain,3,3,2022-04-29 19:00:00,,Aerial
+494065,34,BlockedShot,0.894000015258789,0.48200000762939454,0.03651079908013344,Marco Verratti,h,3552,SetPiece,2022,Head,19752,Paris Saint Germain,Marseille,1,0,2022-10-16 18:45:00,,Aerial
+494079,60,SavedShot,0.9030000305175782,0.654000015258789,0.31877401471138,Marco Verratti,h,3552,OpenPlay,2022,RightFoot,19752,Paris Saint Germain,Marseille,1,0,2022-10-16 18:45:00,Kylian Mbappe-Lottin,Pass
+496674,79,SavedShot,0.72,0.615999984741211,0.017124900594353676,Marco Verratti,h,3552,OpenPlay,2022,RightFoot,19773,Paris Saint Germain,Troyes,4,3,2022-10-29 15:00:00,Juan Bernat,Pass
+513780,13,BlockedShot,0.845,0.5259999847412109,0.08638890087604523,Marco Verratti,a,3552,OpenPlay,2022,RightFoot,19917,Brest,Paris Saint Germain,1,2,2023-03-11 20:00:00,Carlos Soler,Pass
+515742,83,SavedShot,0.8809999847412109,0.580999984741211,0.09907740354537964,Marco Verratti,h,3552,OpenPlay,2022,RightFoot,19922,Paris Saint Germain,Rennes,0,2,2023-03-19 16:05:00,Kylian Mbappe-Lottin,Pass
+525325,38,MissedShots,0.7319999694824219,0.6469999694824219,0.019529065117239952,Marco Verratti,a,3552,OpenPlay,2022,RightFoot,19987,Troyes,Paris Saint Germain,1,3,2023-05-07 18:45:00,Vitinha,Pass
+525332,50,SavedShot,0.9169999694824219,0.355,0.35344424843788147,Marco Verratti,a,3552,OpenPlay,2022,RightFoot,19987,Troyes,Paris Saint Germain,1,3,2023-05-07 18:45:00,Hugo Ekitike,Throughball
+529406,29,BlockedShot,0.8780000305175781,0.514000015258789,0.03531366214156151,Marco Verratti,a,3552,FromCorner,2022,RightFoot,20015,Strasbourg,Paris Saint Germain,1,1,2023-05-27 19:00:00,,Aerial

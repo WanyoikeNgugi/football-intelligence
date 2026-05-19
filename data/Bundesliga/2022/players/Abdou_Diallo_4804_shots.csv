@@ -1,0 +1,39 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+104341,14,MissedShots,0.919000015258789,0.5220000076293946,0.10033100098371506,Abdou Diallo,h,4804,FromCorner,2016,Head,2315,Monaco,Angers,2,1,2016-09-24 22:00:00,João Moutinho,Cross
+110555,10,MissedShots,0.894000015258789,0.35700000762939454,0.039209701120853424,Abdou Diallo,a,4804,FromCorner,2016,LeftFoot,4293,Rennes,Monaco,2,3,2017-05-20 20:00:00,Thomas Lemar,Cross
+166421,56,Goal,0.9830000305175781,0.5709999847412109,0.43513500690460205,Abdou Diallo,h,4804,SetPiece,2017,Head,8278,Mainz 05,Bayer Leverkusen,3,1,2017-09-09 14:30:00,Levin Öztunali,Cross
+167472,3,MissedShots,0.960999984741211,0.5359999847412109,0.1447180062532425,Abdou Diallo,a,4804,SetPiece,2017,Head,8318,Wolfsburg,Mainz 05,1,1,2017-09-30 14:30:00,Levin Öztunali,Cross
+167493,18,Goal,0.950999984741211,0.46299999237060546,0.07796400040388107,Abdou Diallo,a,4804,FromCorner,2017,Head,8352,Borussia M.Gladbach,Mainz 05,1,1,2017-11-04 14:30:00,Jean-Philippe Gbamin,Aerial
+168083,57,MissedShots,0.9540000152587891,0.6170000076293946,0.0739917978644371,Abdou Diallo,h,4804,SetPiece,2017,LeftFoot,8364,Mainz 05,FC Cologne,1,0,2017-11-18 14:30:00,,None
+169047,81,MissedShots,0.91,0.5270000076293946,0.032363999634981155,Abdou Diallo,h,4804,FromCorner,2017,Head,8383,Mainz 05,Augsburg,1,3,2017-12-02 14:30:00,Alexandru Maxim,Aerial
+184082,25,MissedShots,0.91,0.485,0.12116800248622894,Abdou Diallo,h,4804,SetPiece,2017,Head,8401,Mainz 05,Borussia Dortmund,0,2,2017-12-12 19:30:00,Daniel Brosinski,Cross
+184094,72,MissedShots,0.9080000305175782,0.764000015258789,0.02606399916112423,Abdou Diallo,h,4804,OpenPlay,2017,LeftFoot,8401,Mainz 05,Borussia Dortmund,0,2,2017-12-12 19:30:00,Alexander Hack,TakeOn
+194878,61,MissedShots,0.93,0.53,0.057720500975847244,Abdou Diallo,h,4804,FromCorner,2017,Head,8445,Mainz 05,Bayern Munich,0,2,2018-02-03 14:30:00,Danny Latza,Aerial
+194877,61,BlockedShot,0.9630000305175781,0.4640000152587891,0.14768299460411072,Abdou Diallo,h,4804,SetPiece,2017,LeftFoot,8445,Mainz 05,Bayern Munich,0,2,2018-02-03 14:30:00,Stefan Bell,Pass
+209425,18,MissedShots,0.924000015258789,0.5509999847412109,0.3739689886569977,Abdou Diallo,h,4804,SetPiece,2017,LeftFoot,8526,Mainz 05,Freiburg,2,0,2018-04-16 18:30:00,Danny Latza,Chipped
+212396,23,MissedShots,0.9159999847412109,0.48200000762939454,0.06363339722156525,Abdou Diallo,h,4804,SetPiece,2017,Head,8545,Mainz 05,RasenBallsport Leipzig,3,0,2018-04-29 13:30:00,Alexander Hack,HeadPass
+213142,29,SavedShot,0.9640000152587891,0.6029999923706054,0.22609399259090424,Abdou Diallo,a,4804,FromCorner,2017,LeftFoot,8550,Borussia Dortmund,Mainz 05,1,2,2018-05-05 14:30:00,Bote Baku,BallTouch
+223163,35,Goal,0.9890000152587891,0.485,0.9664689898490906,Abdou Diallo,h,4804,FromCorner,2018,LeftFoot,10355,Borussia Dortmund,Eintracht Frankfurt,3,1,2018-09-14 18:30:00,,Rebound
+223161,35,SavedShot,0.9619999694824218,0.4929999923706055,0.5206109881401062,Abdou Diallo,h,4804,FromCorner,2018,Head,10355,Borussia Dortmund,Eintracht Frankfurt,3,1,2018-09-14 18:30:00,Marius Wolf,Cross
+223162,35,SavedShot,0.9769999694824218,0.48900001525878906,0.8045369982719421,Abdou Diallo,h,4804,FromCorner,2018,LeftFoot,10355,Borussia Dortmund,Eintracht Frankfurt,3,1,2018-09-14 18:30:00,,None
+255673,16,MissedShots,0.9580000305175781,0.43900001525878907,0.06870099902153015,Abdou Diallo,h,4804,FromCorner,2018,Head,10410,Borussia Dortmund,Hertha Berlin,2,2,2018-10-27 13:30:00,Raphael Guerreiro,Aerial
+257496,75,SavedShot,0.9290000152587891,0.46599998474121096,0.055177200585603714,Abdou Diallo,a,4804,FromCorner,2018,Head,10478,Fortuna Duesseldorf,Borussia Dortmund,2,1,2018-12-18 19:30:00,Jadon Sancho,Aerial
+278437,39,MissedShots,0.91,0.5129999923706055,0.2748660147190094,Abdou Diallo,a,4804,SetPiece,2018,Head,10490,RasenBallsport Leipzig,Borussia Dortmund,0,1,2019-01-19 17:30:00,Raphael Guerreiro,Cross
+279011,84,BlockedShot,0.9230000305175782,0.57,0.026913799345493317,Abdou Diallo,h,4804,FromCorner,2018,Head,10518,Borussia Dortmund,Hoffenheim,3,3,2019-02-09 14:30:00,Raphael Guerreiro,Aerial
+279592,45,MissedShots,0.9740000152587891,0.639000015258789,0.06176159903407097,Abdou Diallo,a,4804,SetPiece,2018,LeftFoot,10550,Augsburg,Borussia Dortmund,2,1,2019-03-01 19:30:00,Axel Witsel,None
+279599,75,MissedShots,0.7980000305175782,0.6719999694824219,0.01489889994263649,Abdou Diallo,a,4804,FromCorner,2018,LeftFoot,10550,Augsburg,Borussia Dortmund,2,1,2019-03-01 19:30:00,,Aerial
+321456,58,MissedShots,0.9440000152587891,0.46599998474121096,0.07058870047330856,Abdou Diallo,a,4804,FromCorner,2019,Head,12761,Lyon,Paris Saint Germain,0,1,2019-09-22 19:00:00,Neymar,Aerial
+321986,44,MissedShots,0.9159999847412109,0.425,0.06918840110301971,Abdou Diallo,h,4804,FromCorner,2019,Head,12772,Paris Saint Germain,Reims,0,2,2019-09-25 19:00:00,Ander Herrera,Cross
+325215,2,SavedShot,0.9580000305175781,0.5270000076293946,0.6678599715232849,Abdou Diallo,a,4804,SetPiece,2019,LeftFoot,12803,Nice,Paris Saint Germain,1,4,2019-10-18 19:45:00,,Rebound
+325214,2,SavedShot,0.9440000152587891,0.46,0.09062889963388443,Abdou Diallo,a,4804,SetPiece,2019,LeftFoot,12803,Nice,Paris Saint Germain,1,4,2019-10-18 19:45:00,Ander Herrera,None
+325228,42,MissedShots,0.914000015258789,0.525,0.03717140108346939,Abdou Diallo,a,4804,FromCorner,2019,Head,12803,Nice,Paris Saint Germain,1,4,2019-10-18 19:45:00,Ángel Di María,Aerial
+377209,52,MissedShots,0.789000015258789,0.5579999923706055,0.040047500282526016,Abdou Diallo,h,4804,FromCorner,2020,LeftFoot,14202,Paris Saint Germain,Metz,1,0,2020-09-16 19:00:00,Ángel Di María,Pass
+398131,66,MissedShots,0.8909999847412109,0.5659999847412109,0.014967800118029118,Abdou Diallo,h,4804,FromCorner,2020,Head,15943,Paris Saint Germain,Brest,3,0,2021-01-09 20:00:00,Ángel Di María,Aerial
+400295,10,MissedShots,0.9130000305175782,0.545,0.07749020308256149,Abdou Diallo,h,4804,FromCorner,2020,Head,15962,Paris Saint Germain,Montpellier,4,0,2021-01-22 20:00:00,Neymar,Cross
+418635,38,MissedShots,0.9169999694824219,0.3320000076293945,0.011908300220966339,Abdou Diallo,h,4804,FromCorner,2020,Head,16104,Paris Saint Germain,Lens,2,1,2021-05-01 15:00:00,Neymar,Cross
+429471,45,SavedShot,0.8109999847412109,0.5220000076293946,0.0444239005446434,Abdou Diallo,a,4804,FromCorner,2021,LeftFoot,17861,Reims,Paris Saint Germain,0,2,2021-08-29 18:45:00,Ángel Di María,Pass
+461374,44,MissedShots,0.905,0.504000015258789,0.055149298161268234,Abdou Diallo,a,4804,OpenPlay,2021,Head,18091,Nice,Paris Saint Germain,1,0,2022-03-05 20:00:00,Ángel Di María,Aerial
+487419,34,MissedShots,0.8880000305175781,0.5459999847412109,0.035954900085926056,Abdou Diallo,h,4804,FromCorner,2022,Head,19389,RasenBallsport Leipzig,Borussia Dortmund,3,0,2022-09-10 13:30:00,David Raum,Rebound
+487424,58,MissedShots,0.970999984741211,0.37,0.06586450338363647,Abdou Diallo,h,4804,SetPiece,2022,RightFoot,19389,RasenBallsport Leipzig,Borussia Dortmund,3,0,2022-09-10 13:30:00,,None
+493223,29,MissedShots,0.8969999694824219,0.6659999847412109,0.01154009997844696,Abdou Diallo,h,4804,FromCorner,2022,Head,19424,RasenBallsport Leipzig,Hertha Berlin,3,2,2022-10-15 16:30:00,Dominik Szoboszlai,Cross
+493240,80,MissedShots,0.9259999847412109,0.5509999847412109,0.057640399783849716,Abdou Diallo,h,4804,FromCorner,2022,OtherBodyPart,19424,RasenBallsport Leipzig,Hertha Berlin,3,2,2022-10-15 16:30:00,Benjamin Henrichs,Cross

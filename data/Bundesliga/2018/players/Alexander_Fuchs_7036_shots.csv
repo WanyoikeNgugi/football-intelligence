@@ -1,0 +1,10 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+221536,63,MissedShots,0.735,0.39599998474121095,0.019131099805235863,Alexander Fuchs,h,7036,OpenPlay,2018,RightFoot,10347,Nuernberg,Mainz 05,1,1,2018-09-01 13:30:00,Mikael Ishak,LayOff
+221537,72,BlockedShot,0.774000015258789,0.225,0.01079300045967102,Alexander Fuchs,h,7036,OpenPlay,2018,RightFoot,10347,Nuernberg,Mainz 05,1,1,2018-09-01 13:30:00,,None
+221540,75,BlockedShot,0.875,0.43099998474121093,0.08602079749107361,Alexander Fuchs,h,7036,OpenPlay,2018,LeftFoot,10347,Nuernberg,Mainz 05,1,1,2018-09-01 13:30:00,,Rebound
+226686,50,BlockedShot,0.8169999694824219,0.49,0.04413120076060295,Alexander Fuchs,a,7036,OpenPlay,2018,RightFoot,10378,Borussia Dortmund,Nuernberg,7,0,2018-09-26 18:30:00,,None
+255907,18,BlockedShot,0.8730000305175781,0.6270000076293946,0.05907969921827316,Alexander Fuchs,a,7036,OpenPlay,2018,LeftFoot,10419,Augsburg,Nuernberg,2,2,2018-11-03 14:30:00,,Rebound
+255918,53,Goal,0.9719999694824218,0.3340000152587891,0.07634039968252182,Alexander Fuchs,a,7036,OpenPlay,2018,RightFoot,10419,Augsburg,Nuernberg,2,2,2018-11-03 14:30:00,Adam Zrelák,LayOff
+257397,4,BlockedShot,0.875999984741211,0.485,0.11432699859142303,Alexander Fuchs,a,7036,OpenPlay,2018,LeftFoot,10479,Borussia M.Gladbach,Nuernberg,2,0,2018-12-18 17:30:00,Adam Zrelák,Pass
+257398,4,ShotOnPost,0.879000015258789,0.4929999923706055,0.09803339838981628,Alexander Fuchs,a,7036,OpenPlay,2018,LeftFoot,10479,Borussia M.Gladbach,Nuernberg,2,0,2018-12-18 17:30:00,,BallRecovery
+257411,54,BlockedShot,0.8080000305175781,0.515,0.05215790122747421,Alexander Fuchs,a,7036,OpenPlay,2018,LeftFoot,10479,Borussia M.Gladbach,Nuernberg,2,0,2018-12-18 17:30:00,Federico Palacios,Pass

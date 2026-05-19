@@ -1,0 +1,20 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+639947,2,BlockedShot,0.7180000305175781,0.5070000076293946,0.01238358672708273,Nicolás Capaldo,h,13923,OpenPlay,2025,RightFoot,30233,Hamburger SV,St. Pauli,0,2,2025-08-29 18:30:00,,None
+641941,35,BlockedShot,0.8640000152587891,0.395,0.00825013592839241,Nicolás Capaldo,a,13923,SetPiece,2025,Head,30248,Bayern Munich,Hamburger SV,5,0,2025-09-13 16:30:00,Fábio Vieira,Aerial
+652217,38,ShotOnPost,0.89,0.505,0.06599646061658859,Nicolás Capaldo,h,13923,OpenPlay,2025,Head,30309,Hamburger SV,Borussia Dortmund,1,1,2025-11-08 14:30:00,Giorgi Gocholeishvili,Cross
+653575,9,BlockedShot,0.9630000305175781,0.355,0.32428687810897827,Nicolás Capaldo,a,13923,OpenPlay,2025,RightFoot,30314,Augsburg,Hamburger SV,1,0,2025-11-22 14:30:00,Fábio Vieira,BlockedPass
+653583,43,SavedShot,0.9109999847412109,0.5529999923706055,0.02446165680885315,Nicolás Capaldo,a,13923,FromCorner,2025,Head,30314,Augsburg,Hamburger SV,1,0,2025-11-22 14:30:00,Miro Muheim,Aerial
+657445,16,BlockedShot,0.6969999694824218,0.315,0.011299102567136288,Nicolás Capaldo,h,13923,OpenPlay,2025,RightFoot,30337,Hamburger SV,Werder Bremen,3,2,2025-12-07 14:30:00,Albert Sambi Lokonga,Pass
+657458,79,BlockedShot,0.879000015258789,0.549000015258789,0.08409257233142853,Nicolás Capaldo,h,13923,OpenPlay,2025,RightFoot,30337,Hamburger SV,Werder Bremen,3,2,2025-12-07 14:30:00,Jean-Luc Dompe,OffsidePass
+662408,40,MissedShots,0.8819999694824219,0.295,0.10668525844812393,Nicolás Capaldo,a,13923,OpenPlay,2025,RightFoot,30363,Freiburg,Hamburger SV,2,1,2026-01-10 14:30:00,Fábio Vieira,Throughball
+662427,94,MissedShots,0.755,0.64,0.06259030848741531,Nicolás Capaldo,a,13923,OpenPlay,2025,LeftFoot,30363,Freiburg,Hamburger SV,2,1,2026-01-10 14:30:00,Miro Muheim,Chipped
+663455,18,SavedShot,0.8630000305175781,0.455,0.3294648826122284,Nicolás Capaldo,h,13923,OpenPlay,2025,LeftFoot,30380,Hamburger SV,Borussia M.Gladbach,0,0,2026-01-17 14:30:00,Damion Downs,Pass
+666228,23,SavedShot,0.889000015258789,0.37200000762939456,0.08426304161548615,Nicolás Capaldo,h,13923,OpenPlay,2025,RightFoot,30399,Hamburger SV,Bayern Munich,2,2,2026-01-31 17:30:00,Albert Sambi Lokonga,Pass
+666231,30,BlockedShot,0.9219999694824219,0.43099998474121093,0.4700869917869568,Nicolás Capaldo,h,13923,OpenPlay,2025,RightFoot,30399,Hamburger SV,Bayern Munich,2,2,2026-01-31 17:30:00,,None
+666239,58,MissedShots,0.8680000305175781,0.4520000076293945,0.03511988744139671,Nicolás Capaldo,h,13923,OpenPlay,2025,Head,30399,Hamburger SV,Bayern Munich,2,2,2026-01-31 17:30:00,Miro Muheim,Cross
+666240,58,MissedShots,0.9030000305175782,0.41900001525878905,0.08686498552560806,Nicolás Capaldo,h,13923,OpenPlay,2025,RightFoot,30399,Hamburger SV,Bayern Munich,2,2,2026-01-31 17:30:00,,None
+668672,46,Goal,0.9030000305175782,0.44799999237060545,0.12811487913131714,Nicolás Capaldo,h,13923,OpenPlay,2025,RightFoot,30417,Hamburger SV,Union Berlin,3,2,2026-02-14 14:30:00,Bakery Jatta,Pass
+669525,56,MissedShots,0.7809999847412109,0.669000015258789,0.019672783091664314,Nicolás Capaldo,a,13923,OpenPlay,2025,RightFoot,30426,Mainz 05,Hamburger SV,1,1,2026-02-20 19:30:00,Ransford Königsdörffer,BallTouch
+679175,47,MissedShots,0.8590000152587891,0.664000015258789,0.040511030703783035,Nicolás Capaldo,a,13923,OpenPlay,2025,RightFoot,30493,Werder Bremen,Hamburger SV,3,1,2026-04-18 13:30:00,,Rebound
+681223,82,BlockedShot,0.865999984741211,0.3629999923706055,0.05313413217663765,Nicolás Capaldo,h,13923,OpenPlay,2025,RightFoot,30497,Hamburger SV,Hoffenheim,1,2,2026-04-25 16:30:00,,BallRecovery
+682218,54,MissedShots,0.7,0.555,0.01373178232461214,Nicolás Capaldo,a,13923,OpenPlay,2025,RightFoot,30506,Eintracht Frankfurt,Hamburger SV,1,2,2026-05-02 13:30:00,,BallRecovery

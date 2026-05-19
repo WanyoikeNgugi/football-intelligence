@@ -1,0 +1,21 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+326126,49,Goal,0.9369999694824219,0.48700000762939455,0.12977999448776245,Lisandro Magallán,h,8029,FromCorner,2019,Head,12103,Alaves,Celta Vigo,2,0,2019-10-20 11:00:00,Lucas Pérez,Cross
+326873,37,MissedShots,0.9180000305175782,0.47,0.10274499654769897,Lisandro Magallán,a,8029,FromCorner,2019,Head,12121,Villarreal,Alaves,4,1,2019-10-25 20:00:00,Aleix Vidal,Cross
+326890,88,MissedShots,0.899000015258789,0.4490000152587891,0.027887800708413124,Lisandro Magallán,a,8029,SetPiece,2019,Head,12121,Villarreal,Alaves,4,1,2019-10-25 20:00:00,Lucas Pérez,Aerial
+328253,69,MissedShots,0.8490000152587891,0.4779999923706055,0.009317879565060139,Lisandro Magallán,h,8029,SetPiece,2019,Head,12123,Alaves,Atletico Madrid,1,1,2019-10-29 18:00:00,Aleix Vidal,Aerial
+357862,49,SavedShot,0.925,0.5609999847412109,0.2730009853839874,Lisandro Magallán,h,8029,FromCorner,2019,Head,12249,Alaves,Eibar,2,1,2020-02-07 20:00:00,Víctor Camarasa,Cross
+368113,27,MissedShots,0.93,0.49,0.47504499554634094,Lisandro Magallán,h,8029,SetPiece,2019,RightFoot,12343,Alaves,Granada,0,2,2020-07-01 17:30:00,Lucas Pérez,Cross
+378068,72,MissedShots,0.9340000152587891,0.545,0.05328169837594032,Lisandro Magallán,a,8029,FromCorner,2020,Head,14119,Genoa,Crotone,4,1,2020-09-20 13:00:00,Luca Cigarini,Aerial
+380409,10,BlockedShot,0.915,0.5329999923706055,0.0954366996884346,Lisandro Magallán,a,8029,FromCorner,2020,LeftFoot,15447,Sassuolo,Crotone,4,1,2020-10-03 13:00:00,,BallTouch
+399372,84,BlockedShot,0.980999984741211,0.5679999923706055,0.07478529959917068,Lisandro Magallán,h,8029,FromCorner,2020,OtherBodyPart,15599,Crotone,Benevento,4,1,2021-01-17 14:00:00,,Aerial
+402054,26,MissedShots,0.9109999847412109,0.3220000076293945,0.007282710168510675,Lisandro Magallán,h,8029,SetPiece,2020,Head,15616,Crotone,Genoa,0,3,2021-01-31 14:00:00,Ahmed Benali,Aerial
+406301,71,MissedShots,0.9,0.46700000762939453,0.035041000694036484,Lisandro Magallán,a,8029,SetPiece,2020,Head,15647,Juventus,Crotone,3,0,2021-02-22 19:45:00,Milos Vulic,Aerial
+407289,48,SavedShot,0.9230000305175782,0.500999984741211,0.054412901401519775,Lisandro Magallán,h,8029,FromCorner,2020,Head,15658,Crotone,Cagliari,0,2,2021-02-28 14:00:00,Andrea Rispoli,Aerial
+408995,63,ShotOnPost,0.9259999847412109,0.44299999237060544,0.08734799921512604,Lisandro Magallán,h,8029,FromCorner,2020,Head,15685,Crotone,Torino,4,2,2021-03-07 14:00:00,Junior Messias,Cross
+417301,13,Goal,0.9369999694824219,0.47200000762939454,0.4332210123538971,Lisandro Magallán,a,8029,OpenPlay,2020,Head,15747,Parma Calcio 1913,Crotone,3,4,2021-04-24 16:00:00,Adam Ounas,Cross
+513586,63,SavedShot,0.88,0.5459999847412109,0.014641599729657173,Lisandro Magallán,h,8029,FromCorner,2022,Head,19204,Elche,Real Valladolid,1,1,2023-03-11 15:15:00,Omar Mascarell,Aerial
+522194,14,MissedShots,0.9109999847412109,0.5,0.4753621220588684,Lisandro Magallán,a,8029,FromCorner,2022,RightFoot,19265,Celta Vigo,Elche,1,0,2023-04-26 20:00:00,Carlos Clerc,Rebound
+522201,38,BlockedShot,0.8880000305175781,0.41700000762939454,0.013656231574714184,Lisandro Magallán,a,8029,FromCorner,2022,Head,19265,Celta Vigo,Elche,1,0,2023-04-26 20:00:00,Gerard Gumbau,Aerial
+523792,0,MissedShots,0.91,0.5940000152587891,0.0429258830845356,Lisandro Magallán,a,8029,FromCorner,2022,Head,19288,Almeria,Elche,2,1,2023-05-02 17:30:00,Gerard Gumbau,Cross
+523809,60,BlockedShot,0.9540000152587891,0.555,0.12684176862239838,Lisandro Magallán,a,8029,FromCorner,2022,Head,19288,Almeria,Elche,2,1,2023-05-02 17:30:00,Álex Collado,Cross
+530945,77,SavedShot,0.8690000152587891,0.4370000076293945,0.013271240517497063,Lisandro Magallán,h,8029,FromCorner,2022,Head,19336,Elche,Cadiz,1,1,2023-06-04 18:00:00,Gerard Gumbau,Aerial

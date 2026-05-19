@@ -1,0 +1,47 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+364,38,MissedShots,0.875,0.43599998474121093,0.07654040306806564,Ezequiel Lavezzi,h,3643,OpenPlay,2014,RightFoot,6196,Paris Saint Germain,SC Bastia,2,0,2014-08-16 16:00:00,Edinson Cavani,HeadPass
+2301,80,Goal,0.9519999694824218,0.59,0.13162699341773987,Ezequiel Lavezzi,h,3643,OpenPlay,2014,LeftFoot,6135,Paris Saint Germain,Bordeaux,3,0,2014-10-25 16:00:00,Blaise Matuidi,Cross
+3369,8,SavedShot,0.77,0.49400001525878906,0.032048299908638,Ezequiel Lavezzi,a,3643,OpenPlay,2014,RightFoot,6076,Lorient,Paris Saint Germain,1,2,2014-11-01 16:00:00,,BallRecovery
+5384,49,BlockedShot,0.8490000152587891,0.6079999923706054,0.08508290350437164,Ezequiel Lavezzi,h,3643,OpenPlay,2014,RightFoot,6094,Paris Saint Germain,Marseille,2,0,2014-11-09 20:00:00,Lucas Moura,Pass
+5388,53,SavedShot,0.8809999847412109,0.6840000152587891,0.08827529847621918,Ezequiel Lavezzi,h,3643,OpenPlay,2014,LeftFoot,6094,Paris Saint Germain,Marseille,2,0,2014-11-09 20:00:00,Lucas Moura,Pass
+5923,62,SavedShot,0.9569999694824218,0.68,0.059492699801921844,Ezequiel Lavezzi,a,3643,OpenPlay,2014,LeftFoot,6095,Metz,Paris Saint Germain,2,3,2014-11-21 19:30:00,Javier Pastore,Pass
+5928,82,SavedShot,0.845,0.33599998474121096,0.0416410006582737,Ezequiel Lavezzi,a,3643,OpenPlay,2014,RightFoot,6095,Metz,Paris Saint Germain,2,3,2014-11-21 19:30:00,Javier Pastore,Pass
+5930,82,Goal,0.995,0.46900001525878904,0.9742879867553711,Ezequiel Lavezzi,a,3643,OpenPlay,2014,RightFoot,6095,Metz,Paris Saint Germain,2,3,2014-11-21 19:30:00,,Rebound
+4457,1,SavedShot,0.785,0.664000015258789,0.024406300857663155,Ezequiel Lavezzi,a,3643,OpenPlay,2014,RightFoot,6044,Lille,Paris Saint Germain,1,1,2014-12-03 20:00:00,,BallRecovery
+4466,34,BlockedShot,0.855999984741211,0.6680000305175782,0.06431660056114197,Ezequiel Lavezzi,a,3643,OpenPlay,2014,LeftFoot,6044,Lille,Paris Saint Germain,1,1,2014-12-03 20:00:00,,TakeOn
+2678,42,BlockedShot,0.8719999694824219,0.2979999923706055,0.041030000895261765,Ezequiel Lavezzi,h,3643,OpenPlay,2014,RightFoot,6047,Paris Saint Germain,Nantes,2,1,2014-12-06 16:00:00,Javier Pastore,Pass
+2684,68,MissedShots,0.935,0.47200000762939454,0.4448400139808655,Ezequiel Lavezzi,h,3643,OpenPlay,2014,RightFoot,6047,Paris Saint Germain,Nantes,2,1,2014-12-06 16:00:00,Serge Aurier,Cross
+5882,92,MissedShots,0.81,0.669000015258789,0.04745800048112869,Ezequiel Lavezzi,a,3643,OpenPlay,2014,RightFoot,6028,Saint-Etienne,Paris Saint Germain,0,1,2015-01-25 20:00:00,Blaise Matuidi,Chipped
+2558,28,Goal,0.9290000152587891,0.5179999923706055,0.5816940069198608,Ezequiel Lavezzi,h,3643,OpenPlay,2014,LeftFoot,6029,Paris Saint Germain,Rennes,1,0,2015-01-30 19:30:00,Javier Pastore,Pass
+2567,63,BlockedShot,0.8830000305175781,0.32599998474121095,0.09379380196332932,Ezequiel Lavezzi,h,3643,OpenPlay,2014,LeftFoot,6029,Paris Saint Germain,Rennes,1,0,2015-01-30 19:30:00,,TakeOn
+2770,39,Goal,0.91,0.6769999694824219,0.08382429927587509,Ezequiel Lavezzi,h,3643,OpenPlay,2014,LeftFoot,5974,Paris Saint Germain,Caen,2,2,2015-02-14 15:00:00,Lucas Moura,Pass
+2771,40,MissedShots,0.8959999847412109,0.6040000152587891,0.13213999569416046,Ezequiel Lavezzi,h,3643,OpenPlay,2014,RightFoot,5974,Paris Saint Germain,Caen,2,2,2015-02-14 15:00:00,Zlatan Ibrahimovic,Pass
+2775,59,SavedShot,0.8830000305175781,0.5709999847412109,0.035450298339128494,Ezequiel Lavezzi,h,3643,OpenPlay,2014,Head,5974,Paris Saint Germain,Caen,2,2,2015-02-14 15:00:00,Zlatan Ibrahimovic,Cross
+5074,20,BlockedShot,0.9540000152587891,0.4209999847412109,0.10047399997711182,Ezequiel Lavezzi,a,3643,OpenPlay,2014,RightFoot,5928,Monaco,Paris Saint Germain,0,0,2015-03-01 20:00:00,,None
+5075,24,MissedShots,0.9169999694824219,0.5220000076293946,0.45595601201057434,Ezequiel Lavezzi,a,3643,OpenPlay,2014,LeftFoot,5928,Monaco,Paris Saint Germain,0,0,2015-03-01 20:00:00,Blaise Matuidi,HeadPass
+5076,28,MissedShots,0.8730000305175781,0.7,0.03932119905948639,Ezequiel Lavezzi,a,3643,OpenPlay,2014,LeftFoot,5928,Monaco,Paris Saint Germain,0,0,2015-03-01 20:00:00,Javier Pastore,Pass
+7750,32,BlockedShot,0.835,0.7419999694824219,0.014550999738276005,Ezequiel Lavezzi,h,3643,FromCorner,2014,RightFoot,5931,Paris Saint Germain,Lens,4,1,2015-03-07 16:00:00,Thiago Motta,TakeOn
+7760,60,BlockedShot,0.8430000305175781,0.5279999923706055,0.11587999761104584,Ezequiel Lavezzi,h,3643,OpenPlay,2014,LeftFoot,5931,Paris Saint Germain,Lens,4,1,2015-03-07 16:00:00,Marco Verratti,Pass
+7770,87,SavedShot,0.905,0.46299999237060546,0.04771310091018677,Ezequiel Lavezzi,h,3643,OpenPlay,2014,Head,5931,Paris Saint Germain,Lens,4,1,2015-03-07 16:00:00,Gregory Van der Wiel,Aerial
+7772,89,BlockedShot,0.8869999694824219,0.4420000076293945,0.10801500082015991,Ezequiel Lavezzi,h,3643,OpenPlay,2014,LeftFoot,5931,Paris Saint Germain,Lens,4,1,2015-03-07 16:00:00,,None
+7678,71,SavedShot,0.915,0.46599998474121096,0.4654560089111328,Ezequiel Lavezzi,a,3643,OpenPlay,2014,RightFoot,5948,Bordeaux,Paris Saint Germain,3,2,2015-03-15 16:00:00,Zlatan Ibrahimovic,Pass
+7679,71,SavedShot,0.975999984741211,0.47900001525878905,0.9181069731712341,Ezequiel Lavezzi,a,3643,OpenPlay,2014,RightFoot,5948,Bordeaux,Paris Saint Germain,3,2,2015-03-15 16:00:00,,Rebound
+8395,10,SavedShot,0.894000015258789,0.4179999923706055,0.30624300241470337,Ezequiel Lavezzi,h,3643,OpenPlay,2014,RightFoot,5950,Paris Saint Germain,Lorient,3,1,2015-03-20 19:30:00,Javier Pastore,Chipped
+8404,53,MissedShots,0.965999984741211,0.5829999923706055,0.1236250028014183,Ezequiel Lavezzi,h,3643,OpenPlay,2014,RightFoot,5950,Paris Saint Germain,Lorient,3,1,2015-03-20 19:30:00,Maxwell,Cross
+6741,27,Goal,0.8980000305175782,0.5479999923706055,0.4856559932231903,Ezequiel Lavezzi,h,3643,OpenPlay,2014,RightFoot,5916,Paris Saint Germain,Lille,6,1,2015-04-25 16:00:00,Edinson Cavani,Pass
+6742,42,Goal,0.9130000305175782,0.544000015258789,0.5436679720878601,Ezequiel Lavezzi,h,3643,OpenPlay,2014,RightFoot,5916,Paris Saint Germain,Lille,6,1,2015-04-25 16:00:00,Blaise Matuidi,Pass
+6751,76,Goal,0.8480000305175781,0.4370000076293945,0.07892519980669022,Ezequiel Lavezzi,h,3643,OpenPlay,2014,RightFoot,5916,Paris Saint Germain,Lille,6,1,2015-04-25 16:00:00,Javier Pastore,TakeOn
+6908,5,MissedShots,0.96,0.5020000076293946,0.6128489971160889,Ezequiel Lavezzi,a,3643,OpenPlay,2014,Head,5872,Montpellier,Paris Saint Germain,1,2,2015-05-16 20:00:00,Maxwell,Cross
+6913,24,Goal,0.885,0.485,0.10516799986362457,Ezequiel Lavezzi,a,3643,OpenPlay,2014,RightFoot,5872,Montpellier,Paris Saint Germain,1,2,2015-05-16 20:00:00,Serge Aurier,Cross
+61919,37,MissedShots,0.8590000152587891,0.5109999847412109,0.07648559659719467,Ezequiel Lavezzi,a,3643,OpenPlay,2015,LeftFoot,1889,Montpellier,Paris Saint Germain,0,1,2015-08-21 22:30:00,,None
+62057,82,Goal,0.8530000305175781,0.42700000762939455,0.3679470121860504,Ezequiel Lavezzi,a,3643,OpenPlay,2015,RightFoot,1908,Monaco,Paris Saint Germain,0,3,2015-08-30 23:00:00,Ángel Di María,Throughball
+62059,90,BlockedShot,0.7959999847412109,0.700999984741211,0.031339000910520554,Ezequiel Lavezzi,a,3643,OpenPlay,2015,RightFoot,1908,Monaco,Paris Saint Germain,0,3,2015-08-30 23:00:00,Thiago Motta,BallRecovery
+63040,82,SavedShot,0.755,0.500999984741211,0.025869600474834442,Ezequiel Lavezzi,h,3643,OpenPlay,2015,LeftFoot,1909,Paris Saint Germain,Bordeaux,2,2,2015-09-11 22:30:00,Thiago Motta,Pass
+62341,17,BlockedShot,0.9669999694824218,0.6469999694824219,0.04497440159320831,Ezequiel Lavezzi,a,3643,OpenPlay,2015,RightFoot,1920,Reims,Paris Saint Germain,1,1,2015-09-19 19:30:00,Layvin Kurzawa,Cross
+62349,50,BlockedShot,0.8930000305175781,0.67,0.06448890268802643,Ezequiel Lavezzi,a,3643,OpenPlay,2015,LeftFoot,1920,Reims,Paris Saint Germain,1,1,2015-09-19 19:30:00,Zlatan Ibrahimovic,Pass
+65738,88,SavedShot,0.8490000152587891,0.6379999923706055,0.077914297580719,Ezequiel Lavezzi,a,3643,OpenPlay,2015,RightFoot,1939,Nantes,Paris Saint Germain,1,4,2015-09-26 19:30:00,Javier Pastore,Pass
+64728,2,MissedShots,0.7230000305175781,0.5659999847412109,0.048143599182367325,Ezequiel Lavezzi,a,3643,DirectFreekick,2015,RightFoot,1978,Rennes,Paris Saint Germain,0,1,2015-10-30 23:30:00,,Standard
+64732,16,SavedShot,0.9459999847412109,0.6719999694824219,0.11285600066184998,Ezequiel Lavezzi,a,3643,OpenPlay,2015,LeftFoot,1978,Rennes,Paris Saint Germain,0,1,2015-10-30 23:30:00,Ángel Di María,Throughball
+64589,77,Goal,0.879000015258789,0.600999984741211,0.2836909890174866,Ezequiel Lavezzi,h,3643,SetPiece,2015,RightFoot,1990,Paris Saint Germain,Toulouse,5,0,2015-11-07 20:00:00,Zlatan Ibrahimovic,Chipped
+65341,75,SavedShot,0.8380000305175781,0.4540000152587891,0.4142239987850189,Ezequiel Lavezzi,a,3643,OpenPlay,2015,RightFoot,2050,Caen,Paris Saint Germain,0,3,2015-12-19 20:00:00,Ángel Di María,Throughball
+65344,80,SavedShot,0.8680000305175781,0.565,0.12530499696731567,Ezequiel Lavezzi,a,3643,OpenPlay,2015,RightFoot,2050,Caen,Paris Saint Germain,0,3,2015-12-19 20:00:00,Marco Verratti,Pass

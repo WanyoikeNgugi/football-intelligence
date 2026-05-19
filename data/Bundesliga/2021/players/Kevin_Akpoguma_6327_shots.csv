@@ -1,0 +1,38 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+168608,5,OwnGoal,0.02700000047683716,0.43900001525878907,0,Kevin Akpoguma,a,6327,OpenPlay,2017,RightFoot,8374,Hamburger SV,Hoffenheim,3,0,2017-11-26 14:30:00,,None
+194723,80,BlockedShot,0.8290000152587891,0.4929999923706055,0.07731640338897705,Kevin Akpoguma,a,6327,OpenPlay,2017,RightFoot,8439,Hertha Berlin,Hoffenheim,1,1,2018-02-03 14:30:00,Serge Gnabry,Pass
+197293,26,MissedShots,0.765,0.42400001525878905,0.022826699540019035,Kevin Akpoguma,h,6327,OpenPlay,2017,RightFoot,8469,Hoffenheim,Freiburg,1,1,2018-02-24 14:30:00,Pavel Kaderábek,Pass
+199921,28,MissedShots,0.9009999847412109,0.56,0.01723960041999817,Kevin Akpoguma,h,6327,FromCorner,2017,Head,8486,Hoffenheim,Wolfsburg,3,0,2018-03-10 14:30:00,Andrej Kramaric,Aerial
+213117,47,SavedShot,0.700999984741211,0.3820000076293945,0.013933000154793262,Kevin Akpoguma,a,6327,OpenPlay,2017,RightFoot,8549,VfB Stuttgart,Hoffenheim,2,0,2018-05-05 14:30:00,Andrej Kramaric,Pass
+213131,90,SavedShot,0.9119999694824219,0.5690000152587891,0.06265310198068619,Kevin Akpoguma,a,6327,OpenPlay,2017,Head,8549,VfB Stuttgart,Hoffenheim,2,0,2018-05-05 14:30:00,Nico Schulz,Cross
+315658,89,MissedShots,0.905,0.52,0.07133819907903671,Kevin Akpoguma,a,6327,SetPiece,2019,Head,12426,Bayer Leverkusen,Hoffenheim,0,0,2019-08-31 14:30:00,Dennis Geiger,Chipped
+327013,17,BlockedShot,0.7609999847412109,0.27899999618530275,0.013921399600803852,Kevin Akpoguma,a,6327,FromCorner,2019,RightFoot,12482,Hertha Berlin,Hoffenheim,2,3,2019-10-26 14:30:00,,None
+362981,57,OwnGoal,0.085,0.46799999237060547,0,Kevin Akpoguma,h,6327,OpenPlay,2019,LeftFoot,12632,Hoffenheim,Hertha Berlin,0,3,2020-05-16 13:30:00,,None
+387287,67,SavedShot,0.710999984741211,0.37099998474121093,0.010009000077843666,Kevin Akpoguma,h,6327,OpenPlay,2020,RightFoot,15205,Hoffenheim,VfB Stuttgart,3,3,2020-11-21 14:30:00,,None
+420013,51,Goal,0.91,0.4540000152587891,0.07353609800338745,Kevin Akpoguma,h,6327,FromCorner,2020,Head,15421,Hoffenheim,Schalke 04,4,2,2021-05-08 13:30:00,Andrej Kramaric,Cross
+425751,34,BlockedShot,0.93,0.395,0.13236600160598755,Kevin Akpoguma,a,6327,OpenPlay,2021,RightFoot,17518,Augsburg,Hoffenheim,0,4,2021-08-14 13:30:00,,TakeOn
+427677,13,Goal,0.92,0.534000015258789,0.33828699588775635,Kevin Akpoguma,h,6327,OpenPlay,2021,Head,17532,Hoffenheim,Union Berlin,2,2,2021-08-22 13:30:00,Angelo Stiller,Cross
+428390,89,MissedShots,0.93,0.415,0.06667719781398773,Kevin Akpoguma,a,6327,FromCorner,2021,Head,17534,Borussia Dortmund,Hoffenheim,3,2,2021-08-27 18:30:00,Sebastian Rudy,Cross
+434827,92,MissedShots,0.9019999694824219,0.4570000076293945,0.051430799067020416,Kevin Akpoguma,a,6327,OpenPlay,2021,Head,17574,VfB Stuttgart,Hoffenheim,3,1,2021-10-02 13:30:00,Andrej Kramaric,Aerial
+435923,70,MissedShots,0.9369999694824219,0.34900001525878904,0.08509030193090439,Kevin Akpoguma,h,6327,OpenPlay,2021,RightFoot,17581,Hoffenheim,FC Cologne,5,0,2021-10-15 18:30:00,,None
+442458,13,BlockedShot,0.8580000305175781,0.38799999237060545,0.08008330315351486,Kevin Akpoguma,h,6327,OpenPlay,2021,RightFoot,17618,Hoffenheim,RasenBallsport Leipzig,2,0,2021-11-20 14:30:00,,None
+442461,21,SavedShot,0.72,0.5070000076293946,0.02185080014169216,Kevin Akpoguma,h,6327,OpenPlay,2021,RightFoot,17618,Hoffenheim,RasenBallsport Leipzig,2,0,2021-11-20 14:30:00,Munas Dabbur,Tackle
+442462,23,SavedShot,0.8719999694824219,0.35700000762939454,0.07372929900884628,Kevin Akpoguma,h,6327,OpenPlay,2021,LeftFoot,17618,Hoffenheim,RasenBallsport Leipzig,2,0,2021-11-20 14:30:00,Florian Grillitsch,Chipped
+442468,59,MissedShots,0.9409999847412109,0.47299999237060547,0.12889300286769867,Kevin Akpoguma,h,6327,FromCorner,2021,Head,17618,Hoffenheim,RasenBallsport Leipzig,2,0,2021-11-20 14:30:00,David Raum,Cross
+449437,90,Goal,0.9319999694824219,0.5159999847412109,0.5222179889678955,Kevin Akpoguma,h,6327,OpenPlay,2021,RightFoot,17664,Hoffenheim,Borussia M.Gladbach,1,1,2021-12-18 14:30:00,Ihlas Bebou,HeadPass
+449438,94,MissedShots,0.779000015258789,0.44799999237060545,0.02287130057811737,Kevin Akpoguma,h,6327,SetPiece,2021,LeftFoot,17664,Hoffenheim,Borussia M.Gladbach,1,1,2021-12-18 14:30:00,,None
+489596,11,MissedShots,0.9119999694824219,0.515,0.05260220170021057,Kevin Akpoguma,h,6327,FromCorner,2022,OtherBodyPart,19404,Hoffenheim,Freiburg,0,0,2022-09-18 17:30:00,Dennis Geiger,Cross
+499460,72,BlockedShot,0.875,0.5420000076293945,0.06796339899301529,Kevin Akpoguma,a,6327,FromCorner,2022,RightFoot,19463,Eintracht Frankfurt,Hoffenheim,4,2,2022-11-09 19:30:00,Dennis Geiger,Pass
+500060,48,MissedShots,0.8809999847412109,0.519000015258789,0.05796710029244423,Kevin Akpoguma,h,6327,SetPiece,2022,RightFoot,19471,Hoffenheim,Wolfsburg,1,2,2022-11-12 14:30:00,Angelino,Cross
+505362,29,BlockedShot,0.8930000305175781,0.285,0.047879498451948166,Kevin Akpoguma,h,6327,OpenPlay,2022,RightFoot,19490,Hoffenheim,VfB Stuttgart,2,2,2023-01-24 19:30:00,Andrej Kramaric,TakeOn
+505378,85,SavedShot,0.74,0.30700000762939456,0.012069299817085266,Kevin Akpoguma,h,6327,OpenPlay,2022,RightFoot,19490,Hoffenheim,VfB Stuttgart,2,2,2023-01-24 19:30:00,,None
+508294,52,MissedShots,0.8219999694824218,0.524000015258789,0.1029760017991066,Kevin Akpoguma,h,6327,OpenPlay,2022,LeftFoot,19518,Hoffenheim,Bayer Leverkusen,1,3,2023-02-11 14:30:00,Kasper Dolberg,Pass
+514142,92,MissedShots,0.825,0.5279999923706055,0.051440998911857605,Kevin Akpoguma,a,6327,SetPiece,2022,RightFoot,19551,Freiburg,Hoffenheim,2,1,2023-03-12 14:30:00,,None
+527389,12,MissedShots,0.7719999694824219,0.6580000305175782,0.021450577303767204,Kevin Akpoguma,h,6327,OpenPlay,2022,RightFoot,19634,Hoffenheim,Union Berlin,4,2,2023-05-20 13:30:00,Ihlas Bebou,BallTouch
+563185,70,BlockedShot,0.9280000305175782,0.37599998474121094,0.02586977742612362,Kevin Akpoguma,h,6327,FromCorner,2023,Head,23247,Hoffenheim,FC Cologne,1,1,2024-02-11 16:30:00,Robert Skov,Cross
+580395,70,MissedShots,0.960999984741211,0.4759999847412109,0.6471940279006958,Kevin Akpoguma,a,6327,OpenPlay,2023,OtherBodyPart,23361,Darmstadt,Hoffenheim,0,6,2024-05-12 13:30:00,Andrej Kramaric,Chipped
+613877,56,MissedShots,0.7180000305175781,0.6170000076293946,0.015183800831437111,Kevin Akpoguma,h,6327,OpenPlay,2024,RightFoot,27906,Hoffenheim,Eintracht Frankfurt,2,2,2025-01-26 14:30:00,Finn Becker,Pass
+615641,86,MissedShots,0.6569999694824219,0.5559999847412109,0.007286202162504196,Kevin Akpoguma,a,6327,OpenPlay,2024,RightFoot,27916,Bayer Leverkusen,Hoffenheim,3,1,2025-02-02 16:30:00,Stanley N&#039;Soki,Pass
+622067,79,BlockedShot,0.8159999847412109,0.575,0.05096661299467087,Kevin Akpoguma,h,6327,OpenPlay,2024,RightFoot,27962,Hoffenheim,FC Heidenheim,1,1,2025-03-09 16:30:00,Andrej Kramaric,Pass
+628403,65,BlockedShot,0.6959999847412109,0.545,0.019230162724852562,Kevin Akpoguma,a,6327,FromCorner,2024,RightFoot,28007,Freiburg,Hoffenheim,3,2,2025-04-19 13:30:00,Dennis Geiger,Pass
+634419,84,SavedShot,0.75,0.585,0.014481950551271439,Kevin Akpoguma,h,6327,OpenPlay,2024,RightFoot,28041,Hoffenheim,Bayern Munich,0,4,2025-05-17 13:30:00,Marius Bülter,Pass

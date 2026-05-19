@@ -1,0 +1,11 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+165143,75,SavedShot,0.899000015258789,0.6419999694824219,0.3324210047721863,Santy Ngom,a,6395,OpenPlay,2017,LeftFoot,8715,Saint-Etienne,Nantes,1,1,2017-12-03 14:00:00,,BallRecovery
+165153,93,MissedShots,0.9219999694824219,0.53,0.31961899995803833,Santy Ngom,a,6395,OpenPlay,2017,Head,8715,Saint-Etienne,Nantes,1,1,2017-12-03 14:00:00,Léo Dubois,Cross
+179596,52,BlockedShot,0.7340000152587891,0.515,0.02013459987938404,Santy Ngom,h,6395,OpenPlay,2017,LeftFoot,8732,Nantes,Nice,1,2,2017-12-10 16:00:00,Yacine Bammou,Pass
+183531,74,SavedShot,0.8480000305175781,0.5590000152587891,0.053025901317596436,Santy Ngom,a,6395,SetPiece,2017,LeftFoot,8745,Amiens,Nantes,0,1,2017-12-20 19:50:00,Emiliano Sala,HeadPass
+188875,89,BlockedShot,0.8930000305175781,0.5279999923706055,0.08127570152282715,Santy Ngom,h,6395,SetPiece,2017,Head,8780,Nantes,Bordeaux,0,1,2018-01-20 16:00:00,Léo Dubois,Cross
+188876,92,SavedShot,0.8859999847412109,0.5629999923706055,0.0890251025557518,Santy Ngom,h,6395,SetPiece,2017,RightFoot,8780,Nantes,Bordeaux,0,1,2018-01-20 16:00:00,Koffi Djidji,Pass
+190090,92,Goal,0.855999984741211,0.375,0.09296189993619919,Santy Ngom,a,6395,OpenPlay,2017,LeftFoot,8788,Guingamp,Nantes,0,3,2018-01-27 19:00:00,Andrei Girotto,Pass
+197607,33,MissedShots,0.755,0.5,0.02636370062828064,Santy Ngom,h,6395,OpenPlay,2017,LeftFoot,8829,Nantes,Amiens,0,1,2018-02-24 19:00:00,Adrien Thomasson,Pass
+197612,48,MissedShots,0.9469999694824218,0.40700000762939453,0.023256300017237663,Santy Ngom,h,6395,FromCorner,2017,Head,8829,Nantes,Amiens,0,1,2018-02-24 19:00:00,Lucas Lima,Aerial
+197616,62,BlockedShot,0.8380000305175781,0.42200000762939455,0.02753620035946369,Santy Ngom,h,6395,OpenPlay,2017,LeftFoot,8829,Nantes,Amiens,0,1,2018-02-24 19:00:00,Léo Dubois,Aerial

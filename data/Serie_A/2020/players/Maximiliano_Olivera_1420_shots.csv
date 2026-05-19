@@ -1,0 +1,5 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+172665,27,MissedShots,0.769000015258789,0.720999984741211,0.009686079807579517,Maximiliano Olivera,a,1420,OpenPlay,2017,LeftFoot,7503,Inter,Fiorentina,3,0,2017-08-20 19:45:00,,None
+175896,35,BlockedShot,0.725,0.5790000152587891,0.014108500443398952,Maximiliano Olivera,a,1420,FromCorner,2017,LeftFoot,7626,SPAL 2013,Fiorentina,1,1,2017-11-19 14:00:00,,None
+204939,8,SavedShot,0.9159999847412109,0.6959999847412109,0.06892939656972885,Maximiliano Olivera,h,1420,OpenPlay,2017,LeftFoot,7790,Fiorentina,Crotone,2,0,2018-03-31 14:00:00,Riccardo Saponara,Pass
+355873,86,MissedShots,0.755,0.68,0.01589840091764927,Maximiliano Olivera,h,1420,SetPiece,2019,LeftFoot,13290,Fiorentina,Genoa,0,0,2020-01-25 17:00:00,Germán Pezzella,Pass

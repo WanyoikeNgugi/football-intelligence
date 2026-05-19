@@ -1,0 +1,31 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+10742,89,SavedShot,0.8859999847412109,0.5670000076293945,0.022794900462031364,Tomas Hubocan,h,3022,FromCorner,2014,Head,6412,Dinamo Moscow,Kuban Krasnodar,2,2,2014-09-28 10:30:00,Balázs Dzsudzsák,Cross
+10743,89,MissedShots,0.9330000305175781,0.5479999923706055,0.13581299781799316,Tomas Hubocan,h,3022,FromCorner,2014,RightFoot,6412,Dinamo Moscow,Kuban Krasnodar,2,2,2014-09-28 10:30:00,,Rebound
+10956,5,BlockedShot,0.735,0.41700000762939454,0.01546739973127842,Tomas Hubocan,a,3022,OpenPlay,2014,RightFoot,6347,Lokomotiv Moscow,Dinamo Moscow,4,2,2014-11-02 10:30:00,,None
+9431,10,SavedShot,0.8009999847412109,0.4979999923706055,0.0397769995033741,Tomas Hubocan,h,3022,FromCorner,2014,LeftFoot,6365,Dinamo Moscow,FK Akhmat,3,0,2014-11-23 10:30:00,,Rebound
+13299,35,Goal,0.894000015258789,0.5579999923706055,0.08902669697999954,Tomas Hubocan,a,3022,FromCorner,2014,LeftFoot,6336,Mordovya,Dinamo Moscow,0,1,2014-12-04 14:45:00,,None
+12158,46,BlockedShot,0.9230000305175782,0.75,0.016089199110865593,Tomas Hubocan,h,3022,FromCorner,2014,LeftFoot,6309,Dinamo Moscow,FC Ufa,3,1,2015-03-08 13:00:00,,Aerial
+13777,33,MissedShots,0.7869999694824219,0.385,0.019794100895524025,Tomas Hubocan,a,3022,FromCorner,2014,RightFoot,6293,FK Akhmat,Dinamo Moscow,0,0,2015-04-19 14:00:00,,None
+10232,67,MissedShots,0.8909999847412109,0.600999984741211,0.01184490043669939,Tomas Hubocan,a,3022,FromCorner,2014,Head,6303,FC Rostov,Dinamo Moscow,2,2,2015-04-26 14:00:00,Mathieu Valbuena,Aerial
+14169,10,MissedShots,0.72,0.7180000305175781,0.0093735596165061,Tomas Hubocan,a,3022,OpenPlay,2014,LeftFoot,6248,Ural,Dinamo Moscow,2,1,2015-05-18 15:00:00,,Rebound
+70802,37,MissedShots,0.93,0.44099998474121094,0.03885500133037567,Tomas Hubocan,a,3022,FromCorner,2015,Head,2369,Lokomotiv Moscow,Dinamo Moscow,1,1,2015-08-02 14:30:00,Mathieu Valbuena,Interception
+70817,93,MissedShots,0.8640000152587891,0.49,0.09799490123987198,Tomas Hubocan,a,3022,SetPiece,2015,RightFoot,2369,Lokomotiv Moscow,Dinamo Moscow,1,1,2015-08-02 14:30:00,Roman Zobnin,Pass
+70989,9,MissedShots,0.885,0.4520000076293945,0.04698289930820465,Tomas Hubocan,a,3022,OpenPlay,2015,Head,2375,Anzhi Makhachkala,Dinamo Moscow,2,3,2015-08-08 21:00:00,Aleksei Kozlov,Cross
+71002,45,Goal,0.8619999694824219,0.41,0.016357000917196274,Tomas Hubocan,a,3022,SetPiece,2015,Head,2375,Anzhi Makhachkala,Dinamo Moscow,2,3,2015-08-08 21:00:00,,None
+71009,69,MissedShots,0.904000015258789,0.515,0.022874699905514717,Tomas Hubocan,a,3022,FromCorner,2015,Head,2375,Anzhi Makhachkala,Dinamo Moscow,2,3,2015-08-08 21:00:00,Mathieu Valbuena,Aerial
+71238,59,MissedShots,0.9059999847412109,0.5729999923706055,0.0157919991761446,Tomas Hubocan,h,3022,FromCorner,2015,Head,2386,Dinamo Moscow,Ural,1,0,2015-08-16 18:00:00,Aleksey Ionov,Aerial
+71290,89,BlockedShot,0.8980000305175782,0.395,0.07153130322694778,Tomas Hubocan,a,3022,FromCorner,2015,RightFoot,2389,FK Akhmat,Dinamo Moscow,1,1,2015-08-21 21:00:00,,None
+72254,88,MissedShots,0.725,0.7380000305175781,0.009609930217266083,Tomas Hubocan,h,3022,OpenPlay,2015,RightFoot,2420,Dinamo Moscow,Rubin Kazan,0,0,2015-09-21 20:00:00,,None
+73561,27,SavedShot,0.93,0.6229999923706054,0.019045699387788773,Tomas Hubocan,h,3022,FromCorner,2015,Head,2464,Dinamo Moscow,Kuban Krasnodar,2,1,2015-11-07 19:30:00,Yuri Zhirkov,Interception
+73008,71,BlockedShot,0.8219999694824218,0.47299999237060547,0.04944330081343651,Tomas Hubocan,h,3022,SetPiece,2015,RightFoot,2492,Dinamo Moscow,Anzhi Makhachkala,1,2,2015-12-04 20:00:00,,None
+73388,50,MissedShots,0.875,0.6469999694824219,0.05729110166430473,Tomas Hubocan,a,3022,OpenPlay,2015,RightFoot,2499,Ural,Dinamo Moscow,1,1,2016-03-07 15:30:00,,None
+72543,30,ShotOnPost,0.9469999694824218,0.4370000076293945,0.04312250018119812,Tomas Hubocan,a,3022,FromCorner,2015,Head,2511,FC Ufa,Dinamo Moscow,0,1,2016-03-19 15:30:00,Aleksey Ionov,Rebound
+73761,73,BlockedShot,0.764000015258789,0.4640000152587891,0.019819600507616997,Tomas Hubocan,a,3022,OpenPlay,2015,RightFoot,2528,Rubin Kazan,Dinamo Moscow,4,1,2016-04-09 20:30:00,,None
+73953,9,MissedShots,0.754000015258789,0.34200000762939453,0.015606800094246864,Tomas Hubocan,h,3022,FromCorner,2015,RightFoot,2538,Dinamo Moscow,Krylya Sovetov Samara,0,1,2016-04-17 18:00:00,Sebastian Holmén,Pass
+73963,63,MissedShots,0.8590000152587891,0.38,0.054734598845243454,Tomas Hubocan,h,3022,SetPiece,2015,RightFoot,2538,Dinamo Moscow,Krylya Sovetov Samara,0,1,2016-04-17 18:00:00,,None
+73969,84,MissedShots,0.9490000152587891,0.48700000762939455,0.12806600332260132,Tomas Hubocan,h,3022,FromCorner,2015,Head,2538,Dinamo Moscow,Krylya Sovetov Samara,0,1,2016-04-17 18:00:00,Pavel Pogrebnyak,Cross
+103606,78,ShotOnPost,0.9619999694824218,0.3840000152587891,0.03168049827218056,Tomas Hubocan,a,3022,FromCorner,2016,Head,2288,Nice,Marseille,3,2,2016-09-11 22:45:00,Florian Thauvin,Cross
+104542,91,BlockedShot,0.9219999694824219,0.36700000762939455,0.018962400034070015,Tomas Hubocan,a,3022,FromCorner,2016,Head,2308,Rennes,Marseille,3,2,2016-09-21 23:00:00,Bouna Sarr,Cross
+107504,81,BlockedShot,0.7269999694824218,0.52,0.013110400177538395,Tomas Hubocan,a,3022,OpenPlay,2016,RightFoot,3239,Dijon,Marseille,1,2,2016-12-10 17:30:00,,None
+108110,40,MissedShots,0.9269999694824219,0.5479999923706055,0.0972554013133049,Tomas Hubocan,h,3022,FromCorner,2016,RightFoot,3257,Marseille,Lille,2,0,2016-12-18 20:00:00,Florian Thauvin,Cross
+303532,48,MissedShots,0.7219999694824218,0.5720000076293945,0.014115599915385246,Tomas Hubocan,h,3022,FromCorner,2018,RightFoot,11017,Marseille,Montpellier,1,0,2019-05-24 19:05:00,,None

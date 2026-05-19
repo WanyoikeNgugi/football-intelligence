@@ -1,0 +1,17 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+32434,86,SavedShot,0.950999984741211,0.4209999847412109,0.318697988986969,Guillermo,a,4159,OpenPlay,2014,Head,5826,Malaga,Athletic Club,1,0,2014-08-23 18:00:00,Ibai Gómez,Cross
+33246,85,MissedShots,0.9,0.4329999923706055,0.060717999935150146,Guillermo,a,4159,SetPiece,2014,Head,5809,Rayo Vallecano,Athletic Club,2,1,2014-09-24 19:00:00,Beñat,Chipped
+34438,77,SavedShot,0.9790000152587891,0.5629999923706055,0.5614179968833923,Guillermo,a,4159,FromCorner,2014,LeftFoot,5763,Real Madrid,Athletic Club,5,0,2014-10-05 20:00:00,,None
+33828,36,MissedShots,0.74,0.6630000305175782,0.02712159976363182,Guillermo,h,4159,OpenPlay,2014,RightFoot,5720,Athletic Club,Sevilla,1,0,2014-11-02 11:00:00,Muniain,HeadPass
+33834,74,BlockedShot,0.785,0.33599998474121096,0.03091619908809662,Guillermo,h,4159,OpenPlay,2014,LeftFoot,5720,Athletic Club,Sevilla,1,0,2014-11-02 11:00:00,Iturraspe,Pass
+39801,4,SavedShot,0.92,0.37400001525878906,0.026229700073599815,Guillermo,a,4159,FromCorner,2014,Head,5567,Eibar,Athletic Club,0,1,2015-03-01 16:00:00,Ibai Gómez,Cross
+39807,18,SavedShot,0.935,0.6880000305175781,0.10845000296831131,Guillermo,a,4159,OpenPlay,2014,LeftFoot,5567,Eibar,Athletic Club,0,1,2015-03-01 16:00:00,Muniain,Throughball
+39808,18,SavedShot,0.905,0.5220000076293946,0.11277200281620026,Guillermo,a,4159,OpenPlay,2014,Head,5567,Eibar,Athletic Club,0,1,2015-03-01 16:00:00,De Marcos,Cross
+39862,67,MissedShots,0.7290000152587891,0.525,0.10985500365495682,Guillermo,a,4159,OpenPlay,2014,LeftFoot,5585,Celta Vigo,Athletic Club,1,2,2015-03-14 21:00:00,San José,Throughball
+39866,78,SavedShot,0.87,0.5559999847412109,0.13472600281238556,Guillermo,a,4159,OpenPlay,2014,RightFoot,5585,Celta Vigo,Athletic Club,1,2,2015-03-14 21:00:00,Muniain,Throughball
+39868,89,MissedShots,0.9259999847412109,0.40900001525878904,0.3231399953365326,Guillermo,a,4159,OpenPlay,2014,RightFoot,5585,Celta Vigo,Athletic Club,1,2,2015-03-14 21:00:00,Iturraspe,Cross
+39749,2,MissedShots,0.7959999847412109,0.24399999618530274,0.013374599628150463,Guillermo,h,4159,OpenPlay,2014,RightFoot,5595,Athletic Club,Almeria,2,1,2015-03-21 21:00:00,,None
+39759,32,BlockedShot,0.8519999694824218,0.534000015258789,0.08707260340452194,Guillermo,h,4159,OpenPlay,2014,RightFoot,5595,Athletic Club,Almeria,2,1,2015-03-21 21:00:00,Beñat,Pass
+39765,40,BlockedShot,0.9419999694824219,0.45599998474121095,0.11886300146579742,Guillermo,h,4159,OpenPlay,2014,RightFoot,5595,Athletic Club,Almeria,2,1,2015-03-21 21:00:00,Iñaki Williams,CornerAwarded
+39120,6,BlockedShot,0.7430000305175781,0.5479999923706055,0.011425199918448925,Guillermo,a,4159,OpenPlay,2014,RightFoot,5531,Espanyol,Athletic Club,1,0,2015-04-12 16:00:00,,Aerial
+37055,79,BlockedShot,0.6819999694824219,0.6409999847412109,0.010955399833619595,Guillermo,a,4159,OpenPlay,2014,RightFoot,5467,Atletico Madrid,Athletic Club,0,0,2015-05-02 17:00:00,Mikel Rico,BallRecovery

@@ -1,0 +1,52 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+76300,74,BlockedShot,0.9390000152587891,0.5459999847412109,0.0801514983177185,Tobias Kempe,h,9,OpenPlay,2015,Head,1026,Darmstadt,Hannover 96,2,2,2015-08-15 17:30:00,Dominik Stroh-Engel,HeadPass
+76302,76,SavedShot,0.8090000152587891,0.25,0.020500199869275093,Tobias Kempe,h,9,SetPiece,2015,LeftFoot,1026,Darmstadt,Hannover 96,2,2,2015-08-15 17:30:00,Luca Caldirola,Pass
+78051,91,MissedShots,0.7269999694824218,0.7630000305175781,0.01906530000269413,Tobias Kempe,a,9,OpenPlay,2015,RightFoot,1094,Augsburg,Darmstadt,0,2,2015-10-17 17:30:00,Jan Rosenthal,TakeOn
+78494,72,MissedShots,0.8669999694824219,0.750999984741211,0.029438700526952744,Tobias Kempe,a,9,OpenPlay,2015,LeftFoot,1118,VfB Stuttgart,Darmstadt,2,0,2015-11-01 18:30:00,Sandro Wagner,Pass
+78502,87,MissedShots,0.81,0.6759999847412109,0.027537500485777855,Tobias Kempe,a,9,OpenPlay,2015,RightFoot,1118,VfB Stuttgart,Darmstadt,2,0,2015-11-01 18:30:00,,None
+78857,87,MissedShots,0.7340000152587891,0.3940000152587891,0.010555200278759003,Tobias Kempe,h,9,OpenPlay,2015,RightFoot,1126,Darmstadt,Hamburger SV,1,1,2015-11-07 21:30:00,,Aerial
+79092,83,BlockedShot,0.9159999847412109,0.46,0.11966300010681152,Tobias Kempe,a,9,OpenPlay,2015,LeftFoot,1137,Ingolstadt,Darmstadt,3,1,2015-11-22 20:40:00,Luca Caldirola,Pass
+79329,62,MissedShots,0.7869999694824219,0.23299999237060548,0.04740919917821884,Tobias Kempe,h,9,DirectFreekick,2015,RightFoot,1138,Darmstadt,FC Cologne,0,0,2015-11-27 23:30:00,,Standard
+79330,72,SavedShot,0.8480000305175781,0.6930000305175781,0.042841799557209015,Tobias Kempe,h,9,OpenPlay,2015,LeftFoot,1138,Darmstadt,FC Cologne,0,0,2015-11-27 23:30:00,Konstantin Rausch,BallTouch
+79332,77,BlockedShot,0.924000015258789,0.28899999618530275,0.053711701184511185,Tobias Kempe,h,9,OpenPlay,2015,RightFoot,1138,Darmstadt,FC Cologne,0,0,2015-11-27 23:30:00,Marcel Heller,Pass
+79491,10,BlockedShot,0.695,0.4759999847412109,0.03845829889178276,Tobias Kempe,a,9,DirectFreekick,2015,RightFoot,1155,Eintracht Frankfurt,Darmstadt,0,1,2015-12-06 20:30:00,,Standard
+79497,26,BlockedShot,0.8159999847412109,0.5829999923706055,0.04744169861078262,Tobias Kempe,a,9,OpenPlay,2015,RightFoot,1155,Eintracht Frankfurt,Darmstadt,0,1,2015-12-06 20:30:00,Sandro Wagner,Pass
+79508,59,MissedShots,0.7280000305175781,0.5970000076293945,0.04945690184831619,Tobias Kempe,a,9,DirectFreekick,2015,RightFoot,1155,Eintracht Frankfurt,Darmstadt,0,1,2015-12-06 20:30:00,,Standard
+79857,3,BlockedShot,0.8090000152587891,0.4570000076293945,0.1454869955778122,Tobias Kempe,a,9,DirectFreekick,2015,RightFoot,1173,Borussia M.Gladbach,Darmstadt,3,2,2015-12-20 20:30:00,,Standard
+79858,5,MissedShots,0.93,0.715,0.037513598799705505,Tobias Kempe,a,9,OpenPlay,2015,RightFoot,1173,Borussia M.Gladbach,Darmstadt,3,2,2015-12-20 20:30:00,Marcel Heller,Chipped
+79869,44,MissedShots,0.8730000305175781,0.36900001525878906,0.07400880008935928,Tobias Kempe,a,9,OpenPlay,2015,RightFoot,1173,Borussia M.Gladbach,Darmstadt,3,2,2015-12-20 20:30:00,Jan Rosenthal,Pass
+80511,78,MissedShots,0.725999984741211,0.625999984741211,0.016602400690317154,Tobias Kempe,h,9,OpenPlay,2015,RightFoot,1184,Darmstadt,Schalke 04,0,2,2016-01-30 18:30:00,Sandro Wagner,Pass
+80707,65,SavedShot,0.725999984741211,0.6140000152587891,0.04692729935050011,Tobias Kempe,a,9,DirectFreekick,2015,RightFoot,1200,Hoffenheim,Darmstadt,0,2,2016-02-07 20:30:00,,Standard
+80951,24,SavedShot,0.7169999694824218,0.519000015258789,0.047946300357580185,Tobias Kempe,h,9,DirectFreekick,2015,RightFoot,1202,Darmstadt,Bayer Leverkusen,1,2,2016-02-13 18:30:00,,Standard
+80952,27,MissedShots,0.8719999694824219,0.38,0.0654015988111496,Tobias Kempe,h,9,OpenPlay,2015,LeftFoot,1202,Darmstadt,Bayer Leverkusen,1,2,2016-02-13 18:30:00,,None
+81010,69,SavedShot,0.850999984741211,0.265,0.028356000781059265,Tobias Kempe,a,9,OpenPlay,2015,RightFoot,1211,Bayern Munich,Darmstadt,3,1,2016-02-20 18:30:00,Sandro Wagner,Pass
+81364,47,BlockedShot,0.740999984741211,0.36,0.05121460184454918,Tobias Kempe,a,9,DirectFreekick,2015,RightFoot,1220,Werder Bremen,Darmstadt,2,2,2016-02-27 18:30:00,,Standard
+81365,47,MissedShots,0.740999984741211,0.36,0.012753100134432316,Tobias Kempe,a,9,SetPiece,2015,RightFoot,1220,Werder Bremen,Darmstadt,2,2,2016-02-27 18:30:00,,Rebound
+81913,15,SavedShot,0.9159999847412109,0.549000015258789,0.13595199584960938,Tobias Kempe,a,9,OpenPlay,2015,LeftFoot,1244,Mainz 05,Darmstadt,0,0,2016-03-06 18:30:00,Marcel Heller,TakeOn
+81932,81,MissedShots,0.93,0.48400001525878905,0.11922299861907959,Tobias Kempe,a,9,OpenPlay,2015,RightFoot,1244,Mainz 05,Darmstadt,0,0,2016-03-06 18:30:00,Marcel Heller,Chipped
+82159,29,SavedShot,0.7390000152587891,0.745,0.013582799583673477,Tobias Kempe,h,9,OpenPlay,2015,RightFoot,1249,Darmstadt,Augsburg,2,2,2016-03-12 18:30:00,Sandro Wagner,Pass
+82163,38,SavedShot,0.8109999847412109,0.674000015258789,0.04614640027284622,Tobias Kempe,h,9,OpenPlay,2015,RightFoot,1249,Darmstadt,Augsburg,2,2,2016-03-12 18:30:00,Jérôme Gondorf,Chipped
+83503,84,BlockedShot,0.8909999847412109,0.37099998474121093,0.05877489969134331,Tobias Kempe,h,9,OpenPlay,2015,LeftFoot,1304,Darmstadt,Eintracht Frankfurt,1,2,2016-04-30 17:30:00,Aytac Sulu,Pass
+83504,84,BlockedShot,0.874000015258789,0.35200000762939454,0.052282001823186874,Tobias Kempe,h,9,OpenPlay,2015,RightFoot,1304,Darmstadt,Eintracht Frankfurt,1,2,2016-04-30 17:30:00,,Rebound
+83970,84,BlockedShot,0.7919999694824219,0.24200000762939453,0.013629299588501453,Tobias Kempe,h,9,OpenPlay,2015,LeftFoot,1326,Darmstadt,Borussia M.Gladbach,0,2,2016-05-14 17:30:00,Marco Sailer,Pass
+534511,89,BlockedShot,0.754000015258789,0.629000015258789,0.012994805350899696,Tobias Kempe,h,9,OpenPlay,2023,RightFoot,23079,Darmstadt,Union Berlin,1,4,2023-08-26 13:30:00,,None
+538388,3,MissedShots,0.79,0.6830000305175781,0.07082110643386841,Tobias Kempe,h,9,DirectFreekick,2023,RightFoot,23100,Darmstadt,Borussia M.Gladbach,3,3,2023-09-17 15:30:00,,Standard
+538398,39,BlockedShot,0.879000015258789,0.415,0.1309649646282196,Tobias Kempe,h,9,OpenPlay,2023,RightFoot,23100,Darmstadt,Borussia M.Gladbach,3,3,2023-09-17 15:30:00,Tim Skarke,Pass
+541839,61,Goal,0.885,0.5,0.75777667760849,Tobias Kempe,h,9,Penalty,2023,RightFoot,23117,Darmstadt,Werder Bremen,4,2,2023-10-01 13:30:00,,Standard
+542514,32,MissedShots,0.879000015258789,0.35200000762939454,0.2439698576927185,Tobias Kempe,a,9,OpenPlay,2023,RightFoot,23122,Augsburg,Darmstadt,1,2,2023-10-07 13:30:00,Tim Skarke,Foul
+542526,69,Goal,0.885,0.5,0.75777667760849,Tobias Kempe,a,9,Penalty,2023,RightFoot,23122,Augsburg,Darmstadt,1,2,2023-10-07 13:30:00,,Standard
+543859,31,Goal,0.885,0.5,0.75777667760849,Tobias Kempe,h,9,Penalty,2023,RightFoot,23133,Darmstadt,RasenBallsport Leipzig,1,3,2023-10-21 13:30:00,,Standard
+543860,34,MissedShots,0.77,0.3320000076293945,0.02023441717028618,Tobias Kempe,h,9,OpenPlay,2023,LeftFoot,23133,Darmstadt,RasenBallsport Leipzig,1,3,2023-10-21 13:30:00,Tim Skarke,Pass
+543870,83,BlockedShot,0.794000015258789,0.425,0.039637401700019836,Tobias Kempe,h,9,OpenPlay,2023,RightFoot,23133,Darmstadt,RasenBallsport Leipzig,1,3,2023-10-21 13:30:00,Fraser Hornby,BallTouch
+545436,5,BlockedShot,0.8090000152587891,0.4640000152587891,0.14719662070274353,Tobias Kempe,a,9,DirectFreekick,2023,RightFoot,23137,Bayern Munich,Darmstadt,8,0,2023-10-28 13:30:00,,Standard
+546485,58,BlockedShot,0.8059999847412109,0.5120000076293946,0.05279935151338577,Tobias Kempe,h,9,OpenPlay,2023,LeftFoot,23154,Darmstadt,Bochum,1,2,2023-11-03 19:30:00,Fabian Nürnberger,Pass
+550831,68,MissedShots,0.7730000305175782,0.73,0.05009748786687851,Tobias Kempe,h,9,DirectFreekick,2023,RightFoot,23181,Darmstadt,FC Cologne,0,1,2023-12-01 18:30:00,,Standard
+552737,27,BlockedShot,0.845999984741211,0.6419999694824219,0.0350511409342289,Tobias Kempe,a,9,FromCorner,2023,LeftFoot,23190,FC Heidenheim,Darmstadt,3,2,2023-12-09 14:30:00,Thomas Isherwood,BallTouch
+552744,45,MissedShots,0.78,0.7180000305175781,0.015549475327134132,Tobias Kempe,a,9,OpenPlay,2023,RightFoot,23190,FC Heidenheim,Darmstadt,3,2,2023-12-09 14:30:00,,None
+555285,9,BlockedShot,0.874000015258789,0.5729999923706055,0.016500191763043404,Tobias Kempe,a,9,OpenPlay,2023,Head,23205,Hoffenheim,Darmstadt,3,3,2023-12-19 19:30:00,Tim Skarke,Aerial
+567971,65,SavedShot,0.7630000305175781,0.55,0.012070810422301292,Tobias Kempe,a,9,OpenPlay,2023,RightFoot,23282,RasenBallsport Leipzig,Darmstadt,2,0,2024-03-09 14:30:00,,Aerial
+574283,54,BlockedShot,0.904000015258789,0.519000015258789,0.11443670094013214,Tobias Kempe,h,9,OpenPlay,2023,LeftFoot,23325,Darmstadt,Freiburg,0,1,2024-04-14 13:30:00,,Rebound
+574284,54,MissedShots,0.8959999847412109,0.43400001525878906,0.09339893609285355,Tobias Kempe,h,9,OpenPlay,2023,RightFoot,23325,Darmstadt,Freiburg,0,1,2024-04-14 13:30:00,,Rebound
+574285,58,BlockedShot,0.7369999694824219,0.4159999847412109,0.019342826679348946,Tobias Kempe,h,9,OpenPlay,2023,LeftFoot,23325,Darmstadt,Freiburg,0,1,2024-04-14 13:30:00,Fabian Holland,TakeOn
+574286,60,BlockedShot,0.815,0.649000015258789,0.03531361371278763,Tobias Kempe,h,9,OpenPlay,2023,LeftFoot,23325,Darmstadt,Freiburg,0,1,2024-04-14 13:30:00,Oscar Vilhelmsson,Pass
+574930,4,BlockedShot,0.84,0.4929999923706055,0.07440301775932312,Tobias Kempe,a,9,OpenPlay,2023,RightFoot,23331,FC Cologne,Darmstadt,0,2,2024-04-20 13:30:00,Aaron Seydel,Pass

@@ -1,0 +1,11 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+640867,51,Goal,0.9540000152587891,0.5279999923706055,0.14223819971084595,Kojo Peprah Oppong,a,13750,FromCorner,2025,LeftFoot,29561,Le Havre,Nice,3,1,2025-08-31 15:15:00,Hichem Boudaoui,Pass
+641804,19,SavedShot,0.705999984741211,0.4179999923706055,0.010920261032879353,Kojo Peprah Oppong,h,13750,OpenPlay,2025,RightFoot,29570,Nice,Nantes,1,0,2025-09-13 15:00:00,,Rebound
+645268,53,BlockedShot,0.710999984741211,0.610999984741211,0.014821563847362995,Kojo Peprah Oppong,h,13750,OpenPlay,2025,RightFoot,29587,Nice,Paris FC,1,1,2025-09-28 13:00:00,,None
+650255,82,MissedShots,0.9230000305175782,0.4759999847412109,0.34187018871307373,Kojo Peprah Oppong,h,13750,SetPiece,2025,Head,29623,Nice,Lille,2,0,2025-10-29 17:00:00,Tom Louchet,Chipped
+650954,31,BlockedShot,0.9459999847412109,0.44,0.1390485018491745,Kojo Peprah Oppong,a,13750,FromCorner,2025,LeftFoot,29634,Paris Saint Germain,Nice,1,0,2025-11-01 16:00:00,Ali Abdi,Rebound
+652941,64,MissedShots,0.9080000305175782,0.5420000076293945,0.032403718680143356,Kojo Peprah Oppong,a,13750,FromCorner,2025,Head,29642,Metz,Nice,2,1,2025-11-09 16:15:00,Mohamed Ali-Cho,Aerial
+653312,65,BlockedShot,0.78,0.6969999694824218,0.016443392261862755,Kojo Peprah Oppong,h,13750,OpenPlay,2025,RightFoot,29651,Nice,Marseille,1,5,2025-11-21 19:45:00,,BallTouch
+655758,34,MissedShots,0.895,0.5579999923706055,0.04336206614971161,Kojo Peprah Oppong,a,13750,FromCorner,2025,Head,29657,Lorient,Nice,3,1,2025-11-30 16:15:00,Jonathan Clauss,Cross
+666643,37,BlockedShot,0.9580000305175781,0.545,0.08041058480739594,Kojo Peprah Oppong,h,13750,FromCorner,2025,Head,29714,Nice,Brest,2,2,2026-02-01 16:15:00,Sofiane Diop,Aerial
+671625,35,SavedShot,0.9459999847412109,0.445,0.488540381193161,Kojo Peprah Oppong,a,13750,OpenPlay,2025,RightFoot,29751,Paris FC,Nice,1,0,2026-03-01 14:00:00,Juma Bah,HeadPass

@@ -1,0 +1,10 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+533829,64,BlockedShot,0.919000015258789,0.4779999923706055,0.48586297035217285,Christoph Klarer,a,11913,FromCorner,2023,RightFoot,23073,Eintracht Frankfurt,Darmstadt,1,0,2023-08-20 15:30:00,,Rebound
+541841,75,MissedShots,0.9369999694824219,0.5429999923706055,0.12146703153848648,Christoph Klarer,h,11913,FromCorner,2023,Head,23117,Darmstadt,Werder Bremen,4,2,2023-10-01 13:30:00,Tobias Kempe,Cross
+543862,43,MissedShots,0.92,0.53,0.060744185000658035,Christoph Klarer,h,11913,SetPiece,2023,Head,23133,Darmstadt,RasenBallsport Leipzig,1,3,2023-10-21 13:30:00,Tobias Kempe,Aerial
+558995,94,Goal,0.9109999847412109,0.4759999847412109,0.3937120735645294,Christoph Klarer,h,11913,OpenPlay,2023,LeftFoot,23226,Darmstadt,Eintracht Frankfurt,2,2,2024-01-20 14:30:00,Tobias Kempe,Cross
+560297,94,MissedShots,0.8880000305175781,0.514000015258789,0.027192184701561928,Christoph Klarer,a,11913,OpenPlay,2023,Head,23228,Union Berlin,Darmstadt,1,0,2024-01-28 14:30:00,Matthias Bader,Aerial
+567946,23,MissedShots,0.91,0.575,0.017495423555374146,Christoph Klarer,a,11913,FromCorner,2023,Head,23282,RasenBallsport Leipzig,Darmstadt,2,0,2024-03-09 14:30:00,Tobias Kempe,Aerial
+571518,43,MissedShots,0.9269999694824219,0.62,0.0759361982345581,Christoph Klarer,a,11913,FromCorner,2023,LeftFoot,23305,Bochum,Darmstadt,2,2,2024-03-31 18:30:00,,None
+572300,51,MissedShots,0.899000015258789,0.575999984741211,0.016927922144532204,Christoph Klarer,a,11913,SetPiece,2023,Head,23313,Mainz 05,Darmstadt,4,0,2024-04-06 13:30:00,Tim Skarke,Aerial
+574946,56,Goal,0.9230000305175782,0.519000015258789,0.5212225914001465,Christoph Klarer,a,11913,FromCorner,2023,RightFoot,23331,FC Cologne,Darmstadt,0,2,2024-04-20 13:30:00,,None

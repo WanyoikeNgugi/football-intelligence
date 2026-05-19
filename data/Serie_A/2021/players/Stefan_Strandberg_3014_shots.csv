@@ -1,0 +1,24 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+72664,13,SavedShot,0.915,0.40400001525878904,0.06929689645767212,Stefan Strandberg,h,3014,FromCorner,2015,RightFoot,2425,FC Krasnodar,FK Akhmat,1,1,2015-09-27 17:30:00,Ari,Pass
+72512,86,MissedShots,0.894000015258789,0.5940000152587891,0.011264399625360966,Stefan Strandberg,a,3014,SetPiece,2015,Head,2443,Anzhi Makhachkala,FC Krasnodar,2,2,2015-10-18 19:30:00,Charles Kaboré,Aerial
+122583,13,MissedShots,0.9,0.6179999923706054,0.00959817972034216,Stefan Strandberg,a,3014,SetPiece,2016,Head,2618,Spartak Moscow,FC Krasnodar,2,0,2016-08-21 19:00:00,Mauricio Pereyra,Aerial
+285745,91,BlockedShot,0.789000015258789,0.57,0.09404589980840683,Stefan Strandberg,a,3014,DirectFreekick,2018,RightFoot,9092,FK Akhmat,Ural,1,1,2019-03-11 14:30:00,,Standard
+296995,49,MissedShots,0.9359999847412109,0.5370000076293945,0.1375100016593933,Stefan Strandberg,a,3014,OpenPlay,2018,Head,9143,Krylya Sovetov Samara,Ural,0,1,2019-04-25 16:30:00,Nikolay Dimitrov,Cross
+296998,53,BlockedShot,0.6880000305175781,0.3659999847412109,0.010487300343811512,Stefan Strandberg,a,3014,OpenPlay,2018,RightFoot,9143,Krylya Sovetov Samara,Ural,0,1,2019-04-25 16:30:00,Petrus Boumal,Pass
+301925,93,SavedShot,0.9390000152587891,0.53,0.5595700144767761,Stefan Strandberg,a,3014,SetPiece,2018,RightFoot,9166,FC Orenburg,Ural,2,2,2019-05-10 09:30:00,Andrey Egorychev,HeadPass
+376500,21,Goal,0.904000015258789,0.655,0.03769790008664131,Stefan Strandberg,h,3014,FromCorner,2020,LeftFoot,14226,Ural,Khimki,3,1,2020-09-12 13:30:00,Othman El Kabir,Cross
+376507,47,SavedShot,0.884000015258789,0.6419999694824219,0.008530469611287117,Stefan Strandberg,h,3014,SetPiece,2020,Head,14226,Ural,Khimki,3,1,2020-09-12 13:30:00,Othman El Kabir,Aerial
+383670,49,BlockedShot,0.9219999694824219,0.63,0.010386999696493149,Stefan Strandberg,h,3014,SetPiece,2020,Head,14313,Ural,FC Tambov,0,0,2020-10-25 11:00:00,Denys Kulakov,Aerial
+385779,90,MissedShots,0.9080000305175782,0.5879999923706055,0.03370539844036102,Stefan Strandberg,h,3014,FromCorner,2020,Head,14330,Ural,Spartak Moscow,2,2,2020-11-07 11:00:00,Denys Kulakov,Cross
+417046,84,MissedShots,0.8159999847412109,0.4470000076293945,0.0438367985188961,Stefan Strandberg,h,3014,SetPiece,2020,LeftFoot,14433,Ural,FK Akhmat,1,1,2021-04-24 11:00:00,,None
+418892,59,BlockedShot,0.9580000305175781,0.6419999694824219,0.017647400498390198,Stefan Strandberg,a,3014,SetPiece,2020,Head,14447,Khimki,Ural,1,0,2021-05-02 11:00:00,Denys Kulakov,Cross
+430369,74,BlockedShot,0.855,0.5420000076293945,0.014505499973893166,Stefan Strandberg,a,3014,FromCorner,2021,Head,16785,Torino,Salernitana,4,0,2021-09-12 13:00:00,Wajdi Kechrida,Cross
+433975,2,MissedShots,0.91,0.46599998474121096,0.07470480352640152,Stefan Strandberg,a,3014,FromCorner,2021,Head,16811,Sassuolo,Salernitana,1,0,2021-09-26 13:00:00,Grigoris Kastanos,Cross
+433984,32,MissedShots,0.9230000305175782,0.6,0.040548499673604965,Stefan Strandberg,a,3014,FromCorner,2021,Head,16811,Sassuolo,Salernitana,1,0,2021-09-26 13:00:00,Grigoris Kastanos,Cross
+434717,10,SavedShot,0.914000015258789,0.4490000152587891,0.025800099596381187,Stefan Strandberg,h,3014,FromCorner,2021,Head,16822,Salernitana,Genoa,1,0,2021-10-02 13:00:00,Grigoris Kastanos,Aerial
+434725,31,MissedShots,0.8959999847412109,0.43599998474121093,0.014822199940681458,Stefan Strandberg,h,3014,FromCorner,2021,Head,16822,Salernitana,Genoa,1,0,2021-10-02 13:00:00,Grigoris Kastanos,Aerial
+437577,12,OwnGoal,0.01899999976158142,0.5320000076293945,0,Stefan Strandberg,h,3014,OpenPlay,2021,LeftFoot,16842,Salernitana,Empoli,2,4,2021-10-23 13:00:00,,None
+437593,54,BlockedShot,0.9840000152587891,0.565,0.07477550208568573,Stefan Strandberg,h,3014,FromCorner,2021,Head,16842,Salernitana,Empoli,2,4,2021-10-23 13:00:00,Franck Ribéry,Aerial
+438792,69,BlockedShot,0.735,0.48200000762939454,0.05478860065340996,Stefan Strandberg,a,3014,DirectFreekick,2021,RightFoot,16855,Venezia,Salernitana,1,2,2021-10-26 16:30:00,,Standard
+440474,48,MissedShots,0.7619999694824219,0.4179999923706055,0.015912000089883804,Stefan Strandberg,h,3014,SetPiece,2021,RightFoot,16863,Salernitana,Napoli,0,1,2021-10-31 17:00:00,,None
+440484,84,SavedShot,0.9119999694824219,0.4520000076293945,0.07064910233020782,Stefan Strandberg,h,3014,FromCorner,2021,Head,16863,Salernitana,Napoli,0,1,2021-10-31 17:00:00,Andrea Schiavone,Cross

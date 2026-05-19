@@ -1,0 +1,47 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+640204,45,ShotOnPost,0.8980000305175782,0.3129999923706055,0.33145806193351746,Christian Kofane,a,13856,OpenPlay,2025,RightFoot,30236,Werder Bremen,Bayer Leverkusen,3,3,2025-08-30 13:30:00,,BallRecovery
+640208,54,SavedShot,0.8669999694824219,0.2989999961853027,0.06839663535356522,Christian Kofane,a,13856,OpenPlay,2025,RightFoot,30236,Werder Bremen,Bayer Leverkusen,3,3,2025-08-30 13:30:00,Álex Grimaldo,Pass
+646100,28,MissedShots,0.95,0.24899999618530275,0.05174817144870758,Christian Kofane,h,13856,OpenPlay,2025,RightFoot,30269,Bayer Leverkusen,Union Berlin,2,0,2025-10-04 13:30:00,Loic Bade,Pass
+646108,48,Goal,0.9269999694824219,0.4570000076293945,0.8452302813529968,Christian Kofane,h,13856,OpenPlay,2025,RightFoot,30269,Bayer Leverkusen,Union Berlin,2,0,2025-10-04 13:30:00,,TakeOn
+647517,15,SavedShot,0.855999984741211,0.48900001525878906,0.11244864761829376,Christian Kofane,a,13856,OpenPlay,2025,LeftFoot,30282,Mainz 05,Bayer Leverkusen,3,4,2025-10-18 13:30:00,Ernest Poku,Pass
+647519,22,SavedShot,0.8430000305175781,0.4620000076293945,0.3635501563549042,Christian Kofane,a,13856,OpenPlay,2025,LeftFoot,30282,Mainz 05,Bayer Leverkusen,3,4,2025-10-18 13:30:00,Ezequiél Fernández,Throughball
+647520,23,Goal,0.8590000152587891,0.41700000762939454,0.09181296080350876,Christian Kofane,a,13856,OpenPlay,2025,RightFoot,30282,Mainz 05,Bayer Leverkusen,3,4,2025-10-18 13:30:00,Ernest Poku,Pass
+647533,58,MissedShots,0.904000015258789,0.615999984741211,0.10636520385742188,Christian Kofane,a,13856,OpenPlay,2025,LeftFoot,30282,Mainz 05,Bayer Leverkusen,3,4,2025-10-18 13:30:00,Ernest Poku,Pass
+647534,59,MissedShots,0.8769999694824219,0.624000015258789,0.4714307487010956,Christian Kofane,a,13856,OpenPlay,2025,LeftFoot,30282,Mainz 05,Bayer Leverkusen,3,4,2025-10-18 13:30:00,Álex Grimaldo,Throughball
+649610,5,MissedShots,0.9530000305175781,0.5520000076293945,0.5118499398231506,Christian Kofane,h,13856,OpenPlay,2025,Head,30288,Bayer Leverkusen,Freiburg,2,0,2025-10-26 13:30:00,Arthur,Aerial
+649616,36,BlockedShot,0.8809999847412109,0.49,0.037106726318597794,Christian Kofane,h,13856,OpenPlay,2025,Head,30288,Bayer Leverkusen,Freiburg,2,0,2025-10-26 13:30:00,Aleix García,Aerial
+649622,50,BlockedShot,0.9080000305175782,0.4159999847412109,0.1284124255180359,Christian Kofane,h,13856,OpenPlay,2025,RightFoot,30288,Bayer Leverkusen,Freiburg,2,0,2025-10-26 13:30:00,,Rebound
+649626,57,MissedShots,0.85,0.5770000076293945,0.14459684491157532,Christian Kofane,h,13856,OpenPlay,2025,RightFoot,30288,Bayer Leverkusen,Freiburg,2,0,2025-10-26 13:30:00,Álex Grimaldo,TakeOn
+651101,73,MissedShots,0.925,0.3340000152587891,0.08711323142051697,Christian Kofane,a,13856,OpenPlay,2025,RightFoot,30297,Bayern Munich,Bayer Leverkusen,3,0,2025-11-01 17:30:00,Martin Terrier,Throughball
+651102,80,SavedShot,0.924000015258789,0.28299999237060547,0.04329035431146622,Christian Kofane,a,13856,OpenPlay,2025,RightFoot,30297,Bayern Munich,Bayer Leverkusen,3,0,2025-11-01 17:30:00,Robert Andrich,Pass
+651108,87,BlockedShot,0.8619999694824219,0.3579999923706055,0.0637257993221283,Christian Kofane,a,13856,OpenPlay,2025,RightFoot,30297,Bayern Munich,Bayer Leverkusen,3,0,2025-11-01 17:30:00,Jonas Hofmann,Pass
+655253,82,Goal,0.8640000152587891,0.535,0.0472787544131279,Christian Kofane,h,13856,OpenPlay,2025,RightFoot,30323,Bayer Leverkusen,Borussia Dortmund,1,2,2025-11-29 17:30:00,Ibrahim Maza,Cross
+658352,8,SavedShot,0.9180000305175782,0.6140000152587891,0.36640241742134094,Christian Kofane,h,13856,OpenPlay,2025,LeftFoot,30341,Bayer Leverkusen,FC Cologne,2,0,2025-12-13 17:30:00,Malik Tillman,Pass
+658354,25,MissedShots,0.9530000305175781,0.41700000762939454,0.13664205372333527,Christian Kofane,h,13856,OpenPlay,2025,RightFoot,30341,Bayer Leverkusen,FC Cologne,2,0,2025-12-13 17:30:00,Jonas Hofmann,Pass
+658364,54,SavedShot,0.865,0.46,0.03293028101325035,Christian Kofane,h,13856,OpenPlay,2025,Head,30341,Bayer Leverkusen,FC Cologne,2,0,2025-12-13 17:30:00,Jarell Quansah,Cross
+659483,84,MissedShots,0.815,0.5640000152587891,0.06724710762500763,Christian Kofane,a,13856,OpenPlay,2025,RightFoot,30356,RasenBallsport Leipzig,Bayer Leverkusen,1,3,2025-12-20 17:30:00,Montrell Culbreath,Pass
+659485,93,SavedShot,0.855999984741211,0.6270000076293946,0.08084181696176529,Christian Kofane,a,13856,OpenPlay,2025,RightFoot,30356,RasenBallsport Leipzig,Bayer Leverkusen,1,3,2025-12-20 17:30:00,Ezequiél Fernández,Pass
+659486,93,SavedShot,0.9019999694824219,0.5890000152587891,0.3482297956943512,Christian Kofane,a,13856,OpenPlay,2025,LeftFoot,30356,RasenBallsport Leipzig,Bayer Leverkusen,1,3,2025-12-20 17:30:00,,Rebound
+668618,60,SavedShot,0.749000015258789,0.4859999847412109,0.02573268860578537,Christian Kofane,h,13856,OpenPlay,2025,RightFoot,30414,Bayer Leverkusen,St. Pauli,4,0,2026-02-14 14:30:00,,BallRecovery
+668624,84,SavedShot,0.8030000305175782,0.73,0.10740312188863754,Christian Kofane,h,13856,OpenPlay,2025,RightFoot,30414,Bayer Leverkusen,St. Pauli,4,0,2026-02-14 14:30:00,Aleix García,Chipped
+668627,92,MissedShots,0.9269999694824219,0.7240000152587891,0.16393227875232697,Christian Kofane,h,13856,OpenPlay,2025,LeftFoot,30414,Bayer Leverkusen,St. Pauli,4,0,2026-02-14 14:30:00,Malik Tillman,Pass
+672287,31,SavedShot,0.875,0.5170000076293946,0.02487863413989544,Christian Kofane,a,13856,OpenPlay,2025,Head,30371,Hamburger SV,Bayer Leverkusen,0,1,2026-03-04 19:30:00,Ibrahim Maza,Aerial
+672292,55,MissedShots,0.7819999694824219,0.4909999847412109,0.058612339198589325,Christian Kofane,a,13856,OpenPlay,2025,RightFoot,30371,Hamburger SV,Bayer Leverkusen,0,1,2026-03-04 19:30:00,Montrell Culbreath,Pass
+672293,72,Goal,0.9030000305175782,0.6320000076293946,0.2829194962978363,Christian Kofane,a,13856,OpenPlay,2025,LeftFoot,30371,Hamburger SV,Bayer Leverkusen,0,1,2026-03-04 19:30:00,Ibrahim Maza,Pass
+672295,86,MissedShots,0.9459999847412109,0.43,0.04971277341246605,Christian Kofane,a,13856,FromCorner,2025,Head,30371,Hamburger SV,Bayer Leverkusen,0,1,2026-03-04 19:30:00,Álex Grimaldo,Aerial
+672522,2,MissedShots,0.88,0.5029999923706054,0.02725771628320217,Christian Kofane,a,13856,OpenPlay,2025,Head,30442,Freiburg,Bayer Leverkusen,3,3,2026-03-07 14:30:00,Ibrahim Maza,Aerial
+672532,20,MissedShots,0.9340000152587891,0.515,0.4640415906906128,Christian Kofane,a,13856,OpenPlay,2025,Head,30442,Freiburg,Bayer Leverkusen,3,3,2026-03-07 14:30:00,Álex Grimaldo,Cross
+672538,36,Goal,0.8219999694824218,0.47200000762939454,0.06539979577064514,Christian Kofane,a,13856,OpenPlay,2025,RightFoot,30442,Freiburg,Bayer Leverkusen,3,3,2026-03-07 14:30:00,Martin Terrier,Pass
+672539,38,MissedShots,0.735999984741211,0.48400001525878905,0.021173812448978424,Christian Kofane,a,13856,OpenPlay,2025,LeftFoot,30442,Freiburg,Bayer Leverkusen,3,3,2026-03-07 14:30:00,Janis Blaswich,Pass
+672548,53,SavedShot,0.9630000305175781,0.5020000076293946,0.65251225233078,Christian Kofane,a,13856,OpenPlay,2025,Head,30442,Freiburg,Bayer Leverkusen,3,3,2026-03-07 14:30:00,,None
+673819,90,MissedShots,0.9540000152587891,0.395,0.07941972464323044,Christian Kofane,h,13856,OpenPlay,2025,Head,30449,Bayer Leverkusen,Bayern Munich,1,1,2026-03-14 14:30:00,Ibrahim Maza,Cross
+676521,58,BlockedShot,0.9209999847412109,0.514000015258789,0.06441514194011688,Christian Kofane,h,13856,OpenPlay,2025,Head,30467,Bayer Leverkusen,Wolfsburg,6,3,2026-04-04 13:30:00,Álex Grimaldo,Aerial
+676534,82,BlockedShot,0.8390000152587891,0.509000015258789,0.10801742970943451,Christian Kofane,h,13856,OpenPlay,2025,LeftFoot,30467,Bayer Leverkusen,Wolfsburg,6,3,2026-04-04 13:30:00,Patrik Schick,Pass
+677763,31,SavedShot,0.79,0.56,0.03579704836010933,Christian Kofane,a,13856,OpenPlay,2025,LeftFoot,30477,Borussia Dortmund,Bayer Leverkusen,0,1,2026-04-11 13:30:00,Exequiel Palacios,Pass
+679132,75,BlockedShot,0.8969999694824219,0.47200000762939454,0.12429539859294891,Christian Kofane,h,13856,OpenPlay,2025,LeftFoot,30485,Bayer Leverkusen,Augsburg,1,2,2026-04-18 13:30:00,,Rebound
+679133,75,MissedShots,0.835999984741211,0.5209999847412109,0.0829799696803093,Christian Kofane,h,13856,OpenPlay,2025,LeftFoot,30485,Bayer Leverkusen,Augsburg,1,2,2026-04-18 13:30:00,Montrell Culbreath,Pass
+679134,77,MissedShots,0.9119999694824219,0.42900001525878906,0.09440407156944275,Christian Kofane,h,13856,OpenPlay,2025,RightFoot,30485,Bayer Leverkusen,Augsburg,1,2,2026-04-18 13:30:00,Montrell Culbreath,Cross
+679135,88,MissedShots,0.9419999694824219,0.4590000152587891,0.1836523860692978,Christian Kofane,h,13856,OpenPlay,2025,OtherBodyPart,30485,Bayer Leverkusen,Augsburg,1,2,2026-04-18 13:30:00,Álex Grimaldo,Cross
+679140,100,SavedShot,0.9590000152587891,0.539000015258789,0.5959104299545288,Christian Kofane,h,13856,OpenPlay,2025,LeftFoot,30485,Bayer Leverkusen,Augsburg,1,2,2026-04-18 13:30:00,Jonas Hofmann,Pass
+679141,100,BlockedShot,0.9540000152587891,0.539000015258789,0.1396242082118988,Christian Kofane,h,13856,OpenPlay,2025,RightFoot,30485,Bayer Leverkusen,Augsburg,1,2,2026-04-18 13:30:00,,Rebound
+683645,30,MissedShots,0.904000015258789,0.4979999923706055,0.056170910596847534,Christian Kofane,a,13856,OpenPlay,2025,Head,30519,VfB Stuttgart,Bayer Leverkusen,3,1,2026-05-09 13:30:00,Aleix García,Aerial

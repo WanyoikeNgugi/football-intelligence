@@ -1,0 +1,10 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+46116,17,MissedShots,0.9259999847412109,0.415,0.09556879848241806,Mattia Cassani,h,1813,OpenPlay,2014,Head,4961,Parma,Fiorentina,1,0,2015-01-06 14:00:00,Raffaele Palladino,Cross
+46292,31,BlockedShot,0.8109999847412109,0.3559999847412109,0.02411480061709881,Mattia Cassani,a,1813,FromCorner,2014,RightFoot,4973,Verona,Parma,3,1,2015-01-11 14:00:00,,None
+46386,68,BlockedShot,0.749000015258789,0.31,0.016410399228334427,Mattia Cassani,h,1813,OpenPlay,2014,RightFoot,4991,Parma,Cesena,1,2,2015-01-25 14:00:00,,Rebound
+47502,27,MissedShots,0.6980000305175781,0.42700000762939455,0.01259090006351471,Mattia Cassani,a,1813,FromCorner,2014,RightFoot,4943,Roma,Parma,0,0,2015-02-15 14:00:00,,None
+48720,85,BlockedShot,0.855999984741211,0.24,0.02217019908130169,Mattia Cassani,h,1813,OpenPlay,2014,RightFoot,4841,Parma,Juventus,1,0,2015-04-11 17:00:00,Silvestre Varela,Cross
+51045,32,SavedShot,0.8030000305175782,0.28299999237060547,0.02339480072259903,Mattia Cassani,h,1813,OpenPlay,2014,RightFoot,4812,Parma,Verona,2,2,2015-05-24 14:00:00,,Rebound
+93290,29,MissedShots,0.765,0.24600000381469728,0.01465190015733242,Mattia Cassani,h,1813,OpenPlay,2015,RightFoot,555,Sampdoria,Carpi,5,2,2015-08-23 22:45:00,,None
+95116,92,ShotOnPost,0.925,0.5059999847412109,0.3827359974384308,Mattia Cassani,a,1813,FromCorner,2015,LeftFoot,790,Roma,Sampdoria,2,1,2016-02-07 23:45:00,Dodô,Cross
+96703,90,MissedShots,0.8719999694824219,0.48200000762939454,0.06383609771728516,Mattia Cassani,a,1813,FromCorner,2015,LeftFoot,803,Inter,Sampdoria,3,1,2016-02-20 23:45:00,Andrea Ranocchia,HeadPass

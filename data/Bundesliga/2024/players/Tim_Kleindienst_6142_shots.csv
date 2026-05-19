@@ -1,0 +1,208 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+165843,35,MissedShots,0.8730000305175781,0.3160000038146973,0.039309799671173096,Tim Kleindienst,h,6142,OpenPlay,2017,LeftFoot,8266,Freiburg,Eintracht Frankfurt,0,0,2017-08-20 14:30:00,Christian Günter,Chipped
+165845,44,SavedShot,0.7719999694824219,0.265,0.016766000539064407,Tim Kleindienst,h,6142,OpenPlay,2017,LeftFoot,8266,Freiburg,Eintracht Frankfurt,0,0,2017-08-20 14:30:00,Pascal Stenzel,TakeOn
+166275,5,SavedShot,0.8590000152587891,0.45799999237060546,0.30660301446914673,Tim Kleindienst,h,6142,OpenPlay,2017,RightFoot,8280,Freiburg,Borussia Dortmund,0,0,2017-09-09 14:30:00,Yoric Ravet,Pass
+166276,5,BlockedShot,0.96,0.38599998474121094,0.0943986028432846,Tim Kleindienst,h,6142,OpenPlay,2017,LeftFoot,8280,Freiburg,Borussia Dortmund,0,0,2017-09-09 14:30:00,,Interception
+166279,24,MissedShots,0.855,0.40200000762939453,0.03781750053167343,Tim Kleindienst,h,6142,OpenPlay,2017,RightFoot,8280,Freiburg,Borussia Dortmund,0,0,2017-09-09 14:30:00,Christian Günter,Cross
+179666,48,MissedShots,0.9569999694824218,0.48700000762939455,0.46925899386405945,Tim Kleindienst,a,6142,FromCorner,2017,LeftFoot,8389,FC Cologne,Freiburg,3,4,2017-12-10 12:30:00,Yoric Ravet,Cross
+179672,63,SavedShot,0.9830000305175781,0.40200000762939453,0.07693430036306381,Tim Kleindienst,a,6142,FromCorner,2017,RightFoot,8389,FC Cologne,Freiburg,3,4,2017-12-10 12:30:00,,None
+179676,74,BlockedShot,0.8530000305175781,0.34,0.03491469845175743,Tim Kleindienst,a,6142,SetPiece,2017,LeftFoot,8389,FC Cologne,Freiburg,3,4,2017-12-10 12:30:00,,Rebound
+179677,75,MissedShots,0.8969999694824219,0.5320000076293945,0.05934619903564453,Tim Kleindienst,a,6142,FromCorner,2017,Head,8389,FC Cologne,Freiburg,3,4,2017-12-10 12:30:00,Yoric Ravet,Cross
+179678,80,SavedShot,0.91,0.7230000305175781,0.03617379814386368,Tim Kleindienst,a,6142,OpenPlay,2017,LeftFoot,8389,FC Cologne,Freiburg,3,4,2017-12-10 12:30:00,Yoric Ravet,Pass
+183974,14,ShotOnPost,0.7880000305175782,0.7319999694824219,0.01784059964120388,Tim Kleindienst,h,6142,OpenPlay,2017,RightFoot,8397,Freiburg,Borussia M.Gladbach,1,0,2017-12-12 19:30:00,Christian Günter,Pass
+183977,26,SavedShot,0.87,0.7559999847412109,0.03620610013604164,Tim Kleindienst,h,6142,OpenPlay,2017,LeftFoot,8397,Freiburg,Borussia M.Gladbach,1,0,2017-12-12 19:30:00,Nils Petersen,Pass
+183984,44,MissedShots,0.8640000152587891,0.3390000152587891,0.07111450284719467,Tim Kleindienst,h,6142,OpenPlay,2017,LeftFoot,8397,Freiburg,Borussia M.Gladbach,1,0,2017-12-12 19:30:00,Nils Petersen,Pass
+183986,46,SavedShot,0.8880000305175781,0.5829999923706055,0.05033370107412338,Tim Kleindienst,h,6142,OpenPlay,2017,Head,8397,Freiburg,Borussia M.Gladbach,1,0,2017-12-12 19:30:00,Christian Günter,Cross
+183987,48,MissedShots,0.7340000152587891,0.664000015258789,0.019225800409913063,Tim Kleindienst,h,6142,OpenPlay,2017,RightFoot,8397,Freiburg,Borussia M.Gladbach,1,0,2017-12-12 19:30:00,Janik Haberer,Pass
+183992,66,BlockedShot,0.9,0.41,0.10720500349998474,Tim Kleindienst,h,6142,OpenPlay,2017,LeftFoot,8397,Freiburg,Borussia M.Gladbach,1,0,2017-12-12 19:30:00,,None
+183993,67,MissedShots,0.7659999847412109,0.4640000152587891,0.03723660111427307,Tim Kleindienst,h,6142,OpenPlay,2017,LeftFoot,8397,Freiburg,Borussia M.Gladbach,1,0,2017-12-12 19:30:00,Marco Terrazzino,Pass
+183799,31,BlockedShot,0.985999984741211,0.33599998474121096,0.04550100117921829,Tim Kleindienst,a,6142,FromCorner,2017,RightFoot,8406,Augsburg,Freiburg,3,3,2017-12-16 14:30:00,,None
+183809,69,SavedShot,0.9269999694824219,0.62,0.045670799911022186,Tim Kleindienst,a,6142,OpenPlay,2017,Head,8406,Augsburg,Freiburg,3,3,2017-12-16 14:30:00,Nils Petersen,Cross
+194733,17,SavedShot,0.875,0.5990000152587891,0.07868380099534988,Tim Kleindienst,h,6142,OpenPlay,2017,LeftFoot,8440,Freiburg,Bayer Leverkusen,0,0,2018-02-03 14:30:00,Nils Petersen,HeadPass
+194754,80,BlockedShot,0.7519999694824219,0.62,0.02517079934477806,Tim Kleindienst,h,6142,OpenPlay,2017,LeftFoot,8440,Freiburg,Bayer Leverkusen,0,0,2018-02-03 14:30:00,Nils Petersen,LayOff
+196028,22,SavedShot,0.8590000152587891,0.5220000076293946,0.2983199954032898,Tim Kleindienst,a,6142,OpenPlay,2017,RightFoot,8449,Hannover 96,Freiburg,2,1,2018-02-10 14:30:00,Nils Petersen,Chipped
+196032,29,BlockedShot,0.7,0.46599998474121096,0.01535279955714941,Tim Kleindienst,a,6142,OpenPlay,2017,LeftFoot,8449,Hannover 96,Freiburg,2,1,2018-02-10 14:30:00,Robin Koch,Pass
+196036,43,BlockedShot,0.8830000305175781,0.735999984741211,0.03784310072660446,Tim Kleindienst,a,6142,OpenPlay,2017,LeftFoot,8449,Hannover 96,Freiburg,2,1,2018-02-10 14:30:00,Amir Abrashi,Pass
+199948,44,BlockedShot,0.879000015258789,0.5279999923706055,0.11845900118350983,Tim Kleindienst,a,6142,OpenPlay,2017,LeftFoot,8490,Hertha Berlin,Freiburg,0,0,2018-03-10 14:30:00,Christian Günter,Pass
+199955,89,MissedShots,0.7369999694824219,0.3120000076293945,0.01500799972563982,Tim Kleindienst,a,6142,OpenPlay,2017,LeftFoot,8490,Hertha Berlin,Freiburg,0,0,2018-03-10 14:30:00,Florian Kath,Pass
+204577,84,BlockedShot,0.8859999847412109,0.5070000076293946,0.05708020180463791,Tim Kleindienst,a,6142,SetPiece,2017,Head,8503,Schalke 04,Freiburg,2,0,2018-03-31 14:30:00,Vincent Sierro,Chipped
+207541,84,MissedShots,0.765,0.5129999923706055,0.014227899722754955,Tim Kleindienst,h,6142,OpenPlay,2017,RightFoot,8514,Freiburg,Wolfsburg,0,2,2018-04-07 13:30:00,Nils Petersen,HeadPass
+207542,85,MissedShots,0.92,0.41900001525878905,0.04834650084376335,Tim Kleindienst,h,6142,OpenPlay,2017,Head,8514,Freiburg,Wolfsburg,0,2,2018-04-07 13:30:00,Janik Haberer,Aerial
+207545,90,BlockedShot,0.8780000305175781,0.4759999847412109,0.04046880081295967,Tim Kleindienst,h,6142,OpenPlay,2017,Head,8514,Freiburg,Wolfsburg,0,2,2018-04-07 13:30:00,,Aerial
+209441,72,MissedShots,0.9159999847412109,0.5779999923706055,0.03289080038666725,Tim Kleindienst,a,6142,SetPiece,2017,Head,8526,Mainz 05,Freiburg,2,0,2018-04-16 18:30:00,Janik Haberer,Aerial
+210361,34,SavedShot,0.870999984741211,0.385,0.012649999931454659,Tim Kleindienst,a,6142,OpenPlay,2017,Head,8535,Hamburger SV,Freiburg,1,0,2018-04-21 13:30:00,,Rebound
+210365,47,BlockedShot,0.740999984741211,0.3729999923706055,0.01617489941418171,Tim Kleindienst,a,6142,OpenPlay,2017,LeftFoot,8535,Hamburger SV,Freiburg,1,0,2018-04-21 13:30:00,Lucas Höler,Pass
+210374,80,MissedShots,0.955999984741211,0.3820000076293945,0.04513610154390335,Tim Kleindienst,a,6142,OpenPlay,2017,Head,8535,Hamburger SV,Freiburg,1,0,2018-04-21 13:30:00,Christian Günter,Cross
+211578,10,MissedShots,0.9519999694824218,0.519000015258789,0.13876700401306152,Tim Kleindienst,h,6142,OpenPlay,2017,Head,8541,Freiburg,FC Cologne,3,2,2018-04-28 13:30:00,,Aerial
+211579,12,MissedShots,0.8930000305175781,0.56,0.07946410030126572,Tim Kleindienst,h,6142,OpenPlay,2017,LeftFoot,8541,Freiburg,FC Cologne,3,2,2018-04-28 13:30:00,Christian Günter,Cross
+211590,57,MissedShots,0.77,0.21200000762939453,0.022214600816369057,Tim Kleindienst,h,6142,OpenPlay,2017,LeftFoot,8541,Freiburg,FC Cologne,3,2,2018-04-28 13:30:00,Lukas Kübler,Pass
+213216,7,MissedShots,0.9369999694824219,0.3120000076293945,0.05468440055847168,Tim Kleindienst,a,6142,OpenPlay,2017,RightFoot,8554,Borussia M.Gladbach,Freiburg,3,1,2018-05-05 14:30:00,Marco Terrazzino,Chipped
+213224,32,SavedShot,0.7230000305175781,0.53,0.013649499975144863,Tim Kleindienst,a,6142,OpenPlay,2017,LeftFoot,8554,Borussia M.Gladbach,Freiburg,3,1,2018-05-05 14:30:00,,None
+213226,40,MissedShots,0.85,0.49,0.015058799646794796,Tim Kleindienst,a,6142,OpenPlay,2017,Head,8554,Borussia M.Gladbach,Freiburg,3,1,2018-05-05 14:30:00,Marco Terrazzino,Aerial
+213239,58,Goal,0.9769999694824218,0.4640000152587891,0.6345540285110474,Tim Kleindienst,a,6142,FromCorner,2017,RightFoot,8554,Borussia M.Gladbach,Freiburg,3,1,2018-05-05 14:30:00,Marc-Oliver Kempf,HeadPass
+213247,81,BlockedShot,0.81,0.4909999847412109,0.041663799434900284,Tim Kleindienst,a,6142,OpenPlay,2017,LeftFoot,8554,Borussia M.Gladbach,Freiburg,3,1,2018-05-05 14:30:00,,None
+214587,64,Goal,0.9019999694824219,0.6619999694824219,0.0853922963142395,Tim Kleindienst,h,6142,OpenPlay,2017,LeftFoot,8559,Freiburg,Augsburg,2,0,2018-05-12 14:30:00,,BallRecovery
+214588,71,MissedShots,0.7330000305175781,0.43400001525878906,0.027306199073791504,Tim Kleindienst,h,6142,OpenPlay,2017,LeftFoot,8559,Freiburg,Augsburg,2,0,2018-05-12 14:30:00,Pascal Stenzel,Pass
+228819,75,SavedShot,0.9619999694824218,0.46599998474121096,0.5968469977378845,Tim Kleindienst,a,6142,FromCorner,2018,RightFoot,10390,Augsburg,Freiburg,4,1,2018-09-30 16:00:00,Dominique Heintz,None
+255977,61,BlockedShot,0.84,0.725999984741211,0.0290204007178545,Tim Kleindienst,a,6142,OpenPlay,2018,LeftFoot,10422,Bayern Munich,Freiburg,1,1,2018-11-03 14:30:00,Janik Haberer,Pass
+256265,26,BlockedShot,0.6990000152587891,0.4520000076293945,0.011601099744439125,Tim Kleindienst,h,6142,OpenPlay,2018,LeftFoot,10433,Freiburg,Mainz 05,1,3,2018-11-10 14:30:00,Gian-Luca Waldschmidt,TakeOn
+256267,29,BlockedShot,0.879000015258789,0.62,0.015724599361419678,Tim Kleindienst,h,6142,OpenPlay,2018,Head,10433,Freiburg,Mainz 05,1,3,2018-11-10 14:30:00,Christian Günter,Cross
+256284,89,MissedShots,0.8809999847412109,0.5159999847412109,0.03758449852466583,Tim Kleindienst,h,6142,OpenPlay,2018,Head,10433,Freiburg,Mainz 05,1,3,2018-11-10 14:30:00,Janik Haberer,Aerial
+533106,75,BlockedShot,0.8819999694824219,0.655,0.0701996237039566,Tim Kleindienst,a,6142,OpenPlay,2023,LeftFoot,23067,Wolfsburg,FC Heidenheim,2,0,2023-08-19 13:30:00,Jonas Föhrenbach,Pass
+534516,1,MissedShots,0.9490000152587891,0.48400001525878905,0.13347338140010834,Tim Kleindienst,h,6142,FromCorner,2023,Head,23078,FC Heidenheim,Hoffenheim,2,3,2023-08-26 13:30:00,Jan-Niklas Beste,Cross
+534520,16,SavedShot,0.8690000152587891,0.4979999923706055,0.08163706213235855,Tim Kleindienst,h,6142,OpenPlay,2023,LeftFoot,23078,FC Heidenheim,Hoffenheim,2,3,2023-08-26 13:30:00,Jan-Niklas Beste,HeadPass
+534530,41,SavedShot,0.759000015258789,0.6969999694824218,0.025876691564917564,Tim Kleindienst,h,6142,OpenPlay,2023,RightFoot,23078,FC Heidenheim,Hoffenheim,2,3,2023-08-26 13:30:00,Jonas Föhrenbach,Pass
+534532,47,MissedShots,0.970999984741211,0.5609999847412109,0.3980637490749359,Tim Kleindienst,h,6142,FromCorner,2023,Head,23078,FC Heidenheim,Hoffenheim,2,3,2023-08-26 13:30:00,Denis Thomalla,Chipped
+534542,72,SavedShot,0.9119999694824219,0.4829999923706055,0.14395923912525177,Tim Kleindienst,h,6142,OpenPlay,2023,LeftFoot,23078,FC Heidenheim,Hoffenheim,2,3,2023-08-26 13:30:00,Lennard Maloney,Rebound
+535806,24,MissedShots,0.9580000305175781,0.539000015258789,0.09045753628015518,Tim Kleindienst,a,6142,FromCorner,2023,Head,23083,Borussia Dortmund,FC Heidenheim,2,2,2023-09-01 18:30:00,Eren Sami Dinkci,Aerial
+535815,48,SavedShot,0.8580000305175781,0.5790000152587891,0.2579785883426666,Tim Kleindienst,a,6142,OpenPlay,2023,LeftFoot,23083,Borussia Dortmund,FC Heidenheim,2,2,2023-09-01 18:30:00,Eren Sami Dinkci,Chipped
+535828,62,MissedShots,0.755,0.5540000152587891,0.02221822738647461,Tim Kleindienst,a,6142,OpenPlay,2023,LeftFoot,23083,Borussia Dortmund,FC Heidenheim,2,2,2023-09-01 18:30:00,,Rebound
+535830,81,Goal,0.885,0.5,0.75777667760849,Tim Kleindienst,a,6142,Penalty,2023,LeftFoot,23083,Borussia Dortmund,FC Heidenheim,2,2,2023-09-01 18:30:00,,Standard
+535833,98,MissedShots,0.77,0.7030000305175781,0.013693807646632195,Tim Kleindienst,a,6142,OpenPlay,2023,LeftFoot,23083,Borussia Dortmund,FC Heidenheim,2,2,2023-09-01 18:30:00,,None
+538278,4,Goal,0.885,0.5,0.75777667760849,Tim Kleindienst,h,6142,Penalty,2023,LeftFoot,23099,FC Heidenheim,Werder Bremen,4,2,2023-09-17 13:30:00,,Standard
+538281,18,MissedShots,0.885,0.47,0.1297132670879364,Tim Kleindienst,h,6142,OpenPlay,2023,LeftFoot,23099,FC Heidenheim,Werder Bremen,4,2,2023-09-17 13:30:00,Eren Sami Dinkci,Pass
+538284,26,MissedShots,0.9459999847412109,0.6730000305175782,0.10414077341556549,Tim Kleindienst,h,6142,OpenPlay,2023,LeftFoot,23099,FC Heidenheim,Werder Bremen,4,2,2023-09-17 13:30:00,,TakeOn
+538296,60,BlockedShot,0.845999984741211,0.29,0.04072405770421028,Tim Kleindienst,h,6142,OpenPlay,2023,LeftFoot,23099,FC Heidenheim,Werder Bremen,4,2,2023-09-17 13:30:00,Norman Theuerkauf,Pass
+538301,71,MissedShots,0.8569999694824219,0.49599998474121093,0.0691903755068779,Tim Kleindienst,h,6142,OpenPlay,2023,LeftFoot,23099,FC Heidenheim,Werder Bremen,4,2,2023-09-17 13:30:00,Jonas Föhrenbach,Cross
+539789,43,SavedShot,0.91,0.5770000076293945,0.5770853161811829,Tim Kleindienst,a,6142,OpenPlay,2023,LeftFoot,23108,Bayer Leverkusen,FC Heidenheim,4,1,2023-09-24 13:30:00,,None
+541037,15,MissedShots,0.8859999847412109,0.6680000305175782,0.05146762728691101,Tim Kleindienst,h,6142,OpenPlay,2023,LeftFoot,23112,FC Heidenheim,Union Berlin,1,0,2023-09-30 13:30:00,Tim Siersleben,Rebound
+543487,54,MissedShots,0.9480000305175781,0.5079999923706054,0.4707085192203522,Tim Kleindienst,a,6142,FromCorner,2023,Head,23127,Eintracht Frankfurt,FC Heidenheim,2,0,2023-10-08 17:30:00,Jan-Niklas Beste,Cross
+544785,7,SavedShot,0.9619999694824218,0.500999984741211,0.6277225017547607,Tim Kleindienst,h,6142,FromCorner,2023,RightFoot,23136,FC Heidenheim,Augsburg,2,5,2023-10-22 15:30:00,Tim Siersleben,None
+544788,16,Goal,0.9630000305175781,0.48400001525878905,0.6251846551895142,Tim Kleindienst,h,6142,FromCorner,2023,RightFoot,23136,FC Heidenheim,Augsburg,2,5,2023-10-22 15:30:00,Adrian Beck,None
+545325,69,SavedShot,0.9059999847412109,0.5579999923706055,0.029680101200938225,Tim Kleindienst,a,6142,OpenPlay,2023,Head,23141,Borussia M.Gladbach,FC Heidenheim,2,1,2023-10-28 13:30:00,Marnon Busch,Aerial
+547554,28,BlockedShot,0.9209999847412109,0.6780000305175782,0.06343498080968857,Tim Kleindienst,h,6142,OpenPlay,2023,LeftFoot,23153,FC Heidenheim,VfB Stuttgart,2,0,2023-11-05 16:30:00,Jan Schöppner,HeadPass
+547557,32,BlockedShot,0.955999984741211,0.4570000076293945,0.14503435790538788,Tim Kleindienst,h,6142,FromCorner,2023,RightFoot,23153,FC Heidenheim,VfB Stuttgart,2,0,2023-11-05 16:30:00,,Rebound
+547558,32,SavedShot,0.8959999847412109,0.4420000076293945,0.04656657949090004,Tim Kleindienst,h,6142,FromCorner,2023,Head,23153,FC Heidenheim,VfB Stuttgart,2,0,2023-11-05 16:30:00,Jan-Niklas Beste,Cross
+547564,42,BlockedShot,0.69,0.3079999923706055,0.011536569334566593,Tim Kleindienst,h,6142,OpenPlay,2023,LeftFoot,23153,FC Heidenheim,VfB Stuttgart,2,0,2023-11-05 16:30:00,Adrian Beck,Pass
+547581,93,Goal,0.55,0.49200000762939455,0.008348889648914337,Tim Kleindienst,h,6142,OpenPlay,2023,LeftFoot,23153,FC Heidenheim,VfB Stuttgart,2,0,2023-11-05 16:30:00,,BallRecovery
+548249,19,MissedShots,0.8969999694824219,0.34900001525878904,0.07534389942884445,Tim Kleindienst,a,6142,OpenPlay,2023,RightFoot,23155,Bayern Munich,FC Heidenheim,4,2,2023-11-11 14:30:00,Eren Sami Dinkci,Pass
+548256,48,MissedShots,0.894000015258789,0.5459999847412109,0.0677676573395729,Tim Kleindienst,a,6142,OpenPlay,2023,LeftFoot,23155,Bayern Munich,FC Heidenheim,4,2,2023-11-11 14:30:00,Jonas Föhrenbach,Cross
+548258,66,Goal,0.9619999694824218,0.5670000076293945,0.5978609919548035,Tim Kleindienst,a,6142,OpenPlay,2023,RightFoot,23155,Bayern Munich,FC Heidenheim,4,2,2023-11-11 14:30:00,,None
+548269,95,MissedShots,0.9309999847412109,0.5159999847412109,0.06265142560005188,Tim Kleindienst,a,6142,FromCorner,2023,Head,23155,Bayern Munich,FC Heidenheim,4,2,2023-11-11 14:30:00,Kevin Sessa,Aerial
+550414,57,SavedShot,0.8519999694824218,0.38299999237060545,0.06846308708190918,Tim Kleindienst,h,6142,OpenPlay,2023,RightFoot,23172,FC Heidenheim,Bochum,0,0,2023-11-26 14:30:00,Eren Sami Dinkci,Pass
+550419,88,MissedShots,0.8390000152587891,0.48400001525878905,0.3312704563140869,Tim Kleindienst,h,6142,OpenPlay,2023,RightFoot,23172,FC Heidenheim,Bochum,0,0,2023-11-26 14:30:00,,None
+552752,69,SavedShot,0.925,0.32799999237060545,0.30685538053512573,Tim Kleindienst,h,6142,OpenPlay,2023,RightFoot,23190,FC Heidenheim,Darmstadt,3,2,2023-12-09 14:30:00,Marvin Pieringer,Throughball
+554246,58,BlockedShot,0.889000015258789,0.7169999694824218,0.07373882830142975,Tim Kleindienst,a,6142,OpenPlay,2023,LeftFoot,23195,Mainz 05,FC Heidenheim,0,1,2023-12-16 14:30:00,Jan-Niklas Beste,Pass
+554256,91,SavedShot,0.8009999847412109,0.4570000076293945,0.06136638671159744,Tim Kleindienst,a,6142,OpenPlay,2023,LeftFoot,23195,Mainz 05,FC Heidenheim,0,1,2023-12-16 14:30:00,Marnon Busch,Chipped
+555686,31,SavedShot,0.9130000305175782,0.4640000152587891,0.08465375751256943,Tim Kleindienst,h,6142,FromCorner,2023,Head,23208,FC Heidenheim,Freiburg,3,2,2023-12-20 19:30:00,Eren Sami Dinkci,Cross
+555699,82,BlockedShot,0.9230000305175782,0.49700000762939456,0.05407629907131195,Tim Kleindienst,h,6142,FromCorner,2023,Head,23208,FC Heidenheim,Freiburg,3,2,2023-12-20 19:30:00,Norman Theuerkauf,Aerial
+555700,83,Goal,0.97,0.524000015258789,0.8167678117752075,Tim Kleindienst,h,6142,OpenPlay,2023,LeftFoot,23208,FC Heidenheim,Freiburg,3,2,2023-12-20 19:30:00,Stefan Schimmer,Pass
+555706,88,MissedShots,0.8919999694824219,0.3029999923706055,0.09673499315977097,Tim Kleindienst,h,6142,OpenPlay,2023,RightFoot,23208,FC Heidenheim,Freiburg,3,2,2023-12-20 19:30:00,Eren Sami Dinkci,Chipped
+558024,50,MissedShots,0.9459999847412109,0.4620000076293945,0.555517315864563,Tim Kleindienst,a,6142,OpenPlay,2023,RightFoot,23214,FC Cologne,FC Heidenheim,1,1,2024-01-13 14:30:00,,None
+558029,67,MissedShots,0.9369999694824219,0.49900001525878906,0.10795439779758453,Tim Kleindienst,a,6142,SetPiece,2023,Head,23214,FC Cologne,FC Heidenheim,1,1,2024-01-13 14:30:00,Benedikt Gimber,HeadPass
+558954,20,SavedShot,0.9230000305175782,0.505,0.10351883620023727,Tim Kleindienst,h,6142,OpenPlay,2023,Head,23225,FC Heidenheim,Wolfsburg,1,1,2024-01-20 14:30:00,Jan-Niklas Beste,Cross
+558960,43,MissedShots,0.9130000305175782,0.5259999847412109,0.04550115019083023,Tim Kleindienst,h,6142,OpenPlay,2023,Head,23225,FC Heidenheim,Wolfsburg,1,1,2024-01-20 14:30:00,Eren Sami Dinkci,Aerial
+558961,44,SavedShot,0.915,0.485,0.08756687492132187,Tim Kleindienst,h,6142,OpenPlay,2023,Head,23225,FC Heidenheim,Wolfsburg,1,1,2024-01-20 14:30:00,Eren Sami Dinkci,Cross
+558968,61,MissedShots,0.899000015258789,0.4809999847412109,0.04866890609264374,Tim Kleindienst,h,6142,OpenPlay,2023,Head,23225,FC Heidenheim,Wolfsburg,1,1,2024-01-20 14:30:00,,Aerial
+559805,17,MissedShots,0.915,0.5279999923706055,0.06579112261533737,Tim Kleindienst,a,6142,FromCorner,2023,Head,23232,Hoffenheim,FC Heidenheim,1,1,2024-01-27 14:30:00,Jan-Niklas Beste,Chipped
+559806,27,MissedShots,0.52,0.8340000152587891,0.009808787144720554,Tim Kleindienst,a,6142,OpenPlay,2023,LeftFoot,23232,Hoffenheim,FC Heidenheim,1,1,2024-01-27 14:30:00,,BallRecovery
+559810,32,MissedShots,0.78,0.36400001525878906,0.03970552608370781,Tim Kleindienst,a,6142,OpenPlay,2023,LeftFoot,23232,Hoffenheim,FC Heidenheim,1,1,2024-01-27 14:30:00,Adrian Beck,HeadPass
+559831,89,MissedShots,0.9059999847412109,0.5929999923706055,0.04838494956493378,Tim Kleindienst,a,6142,SetPiece,2023,Head,23232,Hoffenheim,FC Heidenheim,1,1,2024-01-27 14:30:00,Jonas Föhrenbach,Cross
+560874,13,MissedShots,0.8590000152587891,0.5620000076293945,0.3613286316394806,Tim Kleindienst,h,6142,OpenPlay,2023,LeftFoot,23243,FC Heidenheim,Borussia Dortmund,0,0,2024-02-02 19:30:00,,BallRecovery
+560876,17,MissedShots,0.9009999847412109,0.5579999923706055,0.042739540338516235,Tim Kleindienst,h,6142,OpenPlay,2023,Head,23243,FC Heidenheim,Borussia Dortmund,0,0,2024-02-02 19:30:00,,None
+562393,37,MissedShots,0.970999984741211,0.5220000076293946,0.7377640008926392,Tim Kleindienst,a,6142,FromCorner,2023,OtherBodyPart,23249,Werder Bremen,FC Heidenheim,1,2,2024-02-10 14:30:00,Lennard Maloney,HeadPass
+563700,35,MissedShots,0.845,0.63,0.04846174642443657,Tim Kleindienst,h,6142,OpenPlay,2023,LeftFoot,23261,FC Heidenheim,Bayer Leverkusen,1,2,2024-02-17 14:30:00,Omar Traoré,Chipped
+563717,85,Goal,0.955,0.46799999237060547,0.5256699919700623,Tim Kleindienst,h,6142,SetPiece,2023,Head,23261,FC Heidenheim,Bayer Leverkusen,1,2,2024-02-17 14:30:00,Nikola Dovedan,HeadPass
+565110,62,MissedShots,0.9059999847412109,0.49900001525878906,0.0791933536529541,Tim Kleindienst,a,6142,FromCorner,2023,Head,23269,Union Berlin,FC Heidenheim,2,2,2024-02-24 14:30:00,Jan-Niklas Beste,Cross
+566442,93,MissedShots,0.9569999694824218,0.4129999923706055,0.22600488364696503,Tim Kleindienst,h,6142,OpenPlay,2023,Head,23279,FC Heidenheim,Eintracht Frankfurt,1,2,2024-03-02 14:30:00,Norman Theuerkauf,Cross
+569370,10,BlockedShot,0.8919999694824219,0.4370000076293945,0.024796580895781517,Tim Kleindienst,h,6142,SetPiece,2023,Head,23297,FC Heidenheim,Borussia M.Gladbach,1,1,2024-03-16 14:30:00,,Aerial
+569378,49,MissedShots,0.955999984741211,0.595999984741211,0.07165877521038055,Tim Kleindienst,h,6142,FromCorner,2023,Head,23297,FC Heidenheim,Borussia M.Gladbach,1,1,2024-03-16 14:30:00,Jan-Niklas Beste,Cross
+569381,53,MissedShots,0.904000015258789,0.40400001525878904,0.039339542388916016,Tim Kleindienst,h,6142,FromCorner,2023,Head,23297,FC Heidenheim,Borussia M.Gladbach,1,1,2024-03-16 14:30:00,Jan-Niklas Beste,Cross
+569384,60,MissedShots,0.904000015258789,0.525,0.07730058580636978,Tim Kleindienst,h,6142,FromCorner,2023,Head,23297,FC Heidenheim,Borussia M.Gladbach,1,1,2024-03-16 14:30:00,Jan-Niklas Beste,Cross
+569387,73,ShotOnPost,0.925,0.48700000762939455,0.3628482520580292,Tim Kleindienst,h,6142,FromCorner,2023,Head,23297,FC Heidenheim,Borussia M.Gladbach,1,1,2024-03-16 14:30:00,Jan-Niklas Beste,Cross
+571450,61,SavedShot,0.9180000305175782,0.5279999923706055,0.3155722916126251,Tim Kleindienst,a,6142,FromCorner,2023,Head,23307,VfB Stuttgart,FC Heidenheim,3,3,2024-03-31 16:30:00,Jan-Niklas Beste,Cross
+571455,83,Goal,0.9069999694824219,0.44799999237060545,0.3336026072502136,Tim Kleindienst,a,6142,OpenPlay,2023,LeftFoot,23307,VfB Stuttgart,FC Heidenheim,3,3,2024-03-31 16:30:00,Jan-Niklas Beste,Cross
+571456,84,Goal,0.9680000305175781,0.5259999847412109,0.7608364224433899,Tim Kleindienst,a,6142,OpenPlay,2023,Head,23307,VfB Stuttgart,FC Heidenheim,3,3,2024-03-31 16:30:00,Eren Sami Dinkci,Cross
+572274,50,Goal,0.9309999847412109,0.4209999847412109,0.2956904470920563,Tim Kleindienst,h,6142,OpenPlay,2023,RightFoot,23315,FC Heidenheim,Bayern Munich,3,2,2024-04-06 13:30:00,Jan-Niklas Beste,Chipped
+572283,78,Goal,0.925,0.5970000076293945,0.5225393772125244,Tim Kleindienst,h,6142,OpenPlay,2023,LeftFoot,23315,FC Heidenheim,Bayern Munich,3,2,2024-04-06 13:30:00,Marvin Pieringer,Pass
+573634,39,SavedShot,0.895,0.5029999923706054,0.2905293107032776,Tim Kleindienst,a,6142,OpenPlay,2023,Head,23322,Bochum,FC Heidenheim,1,1,2024-04-13 13:30:00,Kevin Sessa,Cross
+573640,54,MissedShots,0.9330000305175781,0.46299999237060546,0.07105819880962372,Tim Kleindienst,a,6142,OpenPlay,2023,Head,23322,Bochum,FC Heidenheim,1,1,2024-04-13 13:30:00,Jan-Niklas Beste,Aerial
+573653,81,MissedShots,0.6719999694824219,0.06400000095367432,0.015135134570300579,Tim Kleindienst,a,6142,OpenPlay,2023,RightFoot,23322,Bochum,FC Heidenheim,1,1,2024-04-13 13:30:00,Marvin Pieringer,Chipped
+574869,5,MissedShots,0.860999984741211,0.5670000076293945,0.10503849387168884,Tim Kleindienst,h,6142,OpenPlay,2023,LeftFoot,23334,FC Heidenheim,RasenBallsport Leipzig,1,2,2024-04-20 13:30:00,Kevin Sessa,TakeOn
+574871,28,SavedShot,0.93,0.575999984741211,0.11953327059745789,Tim Kleindienst,h,6142,OpenPlay,2023,Head,23334,FC Heidenheim,RasenBallsport Leipzig,1,2,2024-04-20 13:30:00,Omar Traoré,Cross
+574885,76,MissedShots,0.950999984741211,0.605,0.07322965562343597,Tim Kleindienst,h,6142,OpenPlay,2023,Head,23334,FC Heidenheim,RasenBallsport Leipzig,1,2,2024-04-20 13:30:00,Omar Traoré,Cross
+574884,76,SavedShot,0.94,0.5790000152587891,0.49335750937461853,Tim Kleindienst,h,6142,OpenPlay,2023,OtherBodyPart,23334,FC Heidenheim,RasenBallsport Leipzig,1,2,2024-04-20 13:30:00,Nikola Dovedan,Rebound
+577645,15,MissedShots,0.8190000152587891,0.3870000076293945,0.045453209429979324,Tim Kleindienst,a,6142,OpenPlay,2023,LeftFoot,23343,Darmstadt,FC Heidenheim,0,1,2024-04-28 17:30:00,Marvin Pieringer,Pass
+577646,16,MissedShots,0.914000015258789,0.485,0.058059852570295334,Tim Kleindienst,a,6142,OpenPlay,2023,Head,23343,Darmstadt,FC Heidenheim,0,1,2024-04-28 17:30:00,Jan-Niklas Beste,Aerial
+577659,57,SavedShot,0.794000015258789,0.6709999847412109,0.023185696452856064,Tim Kleindienst,a,6142,OpenPlay,2023,LeftFoot,23343,Darmstadt,FC Heidenheim,0,1,2024-04-28 17:30:00,,None
+579180,28,MissedShots,0.9630000305175781,0.41900001525878905,0.11279863864183426,Tim Kleindienst,h,6142,OpenPlay,2023,LeftFoot,23352,FC Heidenheim,Mainz 05,1,1,2024-05-05 17:30:00,,BallTouch
+579189,64,Goal,0.914000015258789,0.48200000762939454,0.3117065727710724,Tim Kleindienst,h,6142,OpenPlay,2023,Head,23352,FC Heidenheim,Mainz 05,1,1,2024-05-05 17:30:00,Omar Traoré,Aerial
+579191,69,MissedShots,0.850999984741211,0.5259999847412109,0.03742342069745064,Tim Kleindienst,h,6142,SetPiece,2023,Head,23352,FC Heidenheim,Mainz 05,1,1,2024-05-05 17:30:00,Patrick Mainka,HeadPass
+581697,41,BlockedShot,0.97,0.41900001525878905,0.11083362251520157,Tim Kleindienst,h,6142,SetPiece,2023,RightFoot,23370,FC Heidenheim,FC Cologne,4,1,2024-05-18 13:30:00,Lennard Maloney,Rebound
+581711,69,SavedShot,0.904000015258789,0.5579999923706055,0.5024068355560303,Tim Kleindienst,h,6142,OpenPlay,2023,LeftFoot,23370,FC Heidenheim,FC Cologne,4,1,2024-05-18 13:30:00,Florian Pick,Pass
+581725,90,SavedShot,0.7290000152587891,0.46900001525878904,0.02320101298391819,Tim Kleindienst,h,6142,OpenPlay,2023,LeftFoot,23370,FC Heidenheim,FC Cologne,4,1,2024-05-18 13:30:00,Florian Pick,Pass
+585727,20,SavedShot,0.894000015258789,0.27,0.03666945546865463,Tim Kleindienst,h,6142,OpenPlay,2024,RightFoot,27742,Borussia M.Gladbach,Bayer Leverkusen,2,3,2024-08-23 18:30:00,Franck Honorat,Pass
+585729,29,BlockedShot,0.9119999694824219,0.5120000076293946,0.08353525400161743,Tim Kleindienst,h,6142,SetPiece,2024,LeftFoot,27742,Borussia M.Gladbach,Bayer Leverkusen,2,3,2024-08-23 18:30:00,,None
+585732,35,BlockedShot,0.8280000305175781,0.5,0.06133052706718445,Tim Kleindienst,h,6142,SetPiece,2024,RightFoot,27742,Borussia M.Gladbach,Bayer Leverkusen,2,3,2024-08-23 18:30:00,Kevin Stöger,Chipped
+585754,84,Goal,0.93,0.47400001525878904,0.08837828785181046,Tim Kleindienst,h,6142,OpenPlay,2024,RightFoot,27742,Borussia M.Gladbach,Bayer Leverkusen,2,3,2024-08-23 18:30:00,,None
+589112,4,BlockedShot,0.895,0.23700000762939452,0.03309650346636772,Tim Kleindienst,a,6142,OpenPlay,2024,LeftFoot,27752,Bochum,Borussia M.Gladbach,0,2,2024-08-31 13:30:00,Kevin Stöger,BlockedPass
+589130,66,Goal,0.9880000305175781,0.534000015258789,0.8333207964897156,Tim Kleindienst,a,6142,OpenPlay,2024,Head,27752,Bochum,Borussia M.Gladbach,0,2,2024-08-31 13:30:00,Franck Honorat,Chipped
+590584,4,BlockedShot,0.7930000305175782,0.45799999237060546,0.038981348276138306,Tim Kleindienst,h,6142,OpenPlay,2024,LeftFoot,27765,Borussia M.Gladbach,VfB Stuttgart,1,3,2024-09-14 13:30:00,Franck Honorat,Pass
+590585,5,SavedShot,0.860999984741211,0.664000015258789,0.060537587851285934,Tim Kleindienst,h,6142,OpenPlay,2024,LeftFoot,27765,Borussia M.Gladbach,VfB Stuttgart,1,3,2024-09-14 13:30:00,Alassane Pléa,Pass
+590589,25,SavedShot,0.9059999847412109,0.710999984741211,0.04344388097524643,Tim Kleindienst,h,6142,OpenPlay,2024,LeftFoot,27765,Borussia M.Gladbach,VfB Stuttgart,1,3,2024-09-14 13:30:00,,BallRecovery
+590608,87,ShotOnPost,0.91,0.49900001525878906,0.2903134226799011,Tim Kleindienst,h,6142,SetPiece,2024,OtherBodyPart,27765,Borussia M.Gladbach,VfB Stuttgart,1,3,2024-09-14 13:30:00,Robin Hack,Cross
+592666,25,BlockedShot,0.860999984741211,0.5059999847412109,0.06211768463253975,Tim Kleindienst,a,6142,OpenPlay,2024,LeftFoot,27774,Eintracht Frankfurt,Borussia M.Gladbach,2,0,2024-09-21 16:30:00,Luca Netz,Cross
+592684,56,BlockedShot,0.9359999847412109,0.47,0.07270745933055878,Tim Kleindienst,a,6142,OpenPlay,2024,Head,27774,Eintracht Frankfurt,Borussia M.Gladbach,2,0,2024-09-21 16:30:00,,None
+592692,66,BlockedShot,0.9280000305175782,0.525,0.05838426575064659,Tim Kleindienst,a,6142,OpenPlay,2024,Head,27774,Eintracht Frankfurt,Borussia M.Gladbach,2,0,2024-09-21 16:30:00,Robin Hack,Aerial
+592693,66,SavedShot,0.9019999694824219,0.5220000076293946,0.02419351413846016,Tim Kleindienst,a,6142,FromCorner,2024,Head,27774,Eintracht Frankfurt,Borussia M.Gladbach,2,0,2024-09-21 16:30:00,Kevin Stöger,Aerial
+593978,57,BlockedShot,0.92,0.4759999847412109,0.06651635468006134,Tim Kleindienst,h,6142,OpenPlay,2024,Head,27782,Borussia M.Gladbach,Union Berlin,1,0,2024-09-28 13:30:00,Philipp Sander,Aerial
+595094,30,MissedShots,0.899000015258789,0.730999984741211,0.03544015437364578,Tim Kleindienst,a,6142,OpenPlay,2024,LeftFoot,27790,Augsburg,Borussia M.Gladbach,2,1,2024-10-04 18:30:00,Alassane Pléa,Pass
+595102,50,MissedShots,0.894000015258789,0.42700000762939455,0.05715758353471756,Tim Kleindienst,a,6142,OpenPlay,2024,Head,27790,Augsburg,Borussia M.Gladbach,2,1,2024-10-04 18:30:00,Alassane Pléa,Cross
+595106,62,SavedShot,0.8959999847412109,0.53,0.03457903489470482,Tim Kleindienst,a,6142,OpenPlay,2024,Head,27790,Augsburg,Borussia M.Gladbach,2,1,2024-10-04 18:30:00,Alassane Pléa,Aerial
+595110,71,Goal,0.9290000152587891,0.47,0.36542409658432007,Tim Kleindienst,a,6142,FromCorner,2024,Head,27790,Augsburg,Borussia M.Gladbach,2,1,2024-10-04 18:30:00,Kevin Stöger,Cross
+595115,95,MissedShots,0.874000015258789,0.534000015258789,0.045929692685604095,Tim Kleindienst,a,6142,OpenPlay,2024,RightFoot,27790,Augsburg,Borussia M.Gladbach,2,1,2024-10-04 18:30:00,Rocco Reitz,Aerial
+596842,27,BlockedShot,0.8880000305175781,0.3,0.04713335633277893,Tim Kleindienst,h,6142,OpenPlay,2024,RightFoot,27803,Borussia M.Gladbach,FC Heidenheim,3,2,2024-10-19 13:30:00,,None
+596844,42,MissedShots,0.8540000152587891,0.5,0.009649156592786312,Tim Kleindienst,h,6142,SetPiece,2024,Head,27803,Borussia M.Gladbach,FC Heidenheim,3,2,2024-10-19 13:30:00,Franck Honorat,Aerial
+596850,50,MissedShots,0.8730000305175781,0.44799999237060545,0.07729721069335938,Tim Kleindienst,h,6142,OpenPlay,2024,LeftFoot,27803,Borussia M.Gladbach,FC Heidenheim,3,2,2024-10-19 13:30:00,,None
+596855,61,Goal,0.9519999694824218,0.4759999847412109,0.6326125860214233,Tim Kleindienst,h,6142,OpenPlay,2024,RightFoot,27803,Borussia M.Gladbach,FC Heidenheim,3,2,2024-10-19 13:30:00,Alassane Pléa,Pass
+596857,72,SavedShot,0.8490000152587891,0.6790000152587891,0.056285131722688675,Tim Kleindienst,h,6142,OpenPlay,2024,LeftFoot,27803,Borussia M.Gladbach,FC Heidenheim,3,2,2024-10-19 13:30:00,Alassane Pléa,Pass
+596858,74,Goal,0.885,0.5,0.75777667760849,Tim Kleindienst,h,6142,Penalty,2024,LeftFoot,27803,Borussia M.Gladbach,FC Heidenheim,3,2,2024-10-19 13:30:00,,Standard
+596869,93,SavedShot,0.8569999694824219,0.595999984741211,0.3649764955043793,Tim Kleindienst,h,6142,OpenPlay,2024,LeftFoot,27803,Borussia M.Gladbach,FC Heidenheim,3,2,2024-10-19 13:30:00,Kevin Stöger,Chipped
+598070,56,Goal,0.9109999847412109,0.49700000762939456,0.344880610704422,Tim Kleindienst,a,6142,OpenPlay,2024,Head,27810,Mainz 05,Borussia M.Gladbach,1,1,2024-10-25 18:30:00,Franck Honorat,Cross
+598072,63,SavedShot,0.894000015258789,0.28,0.10910740494728088,Tim Kleindienst,a,6142,OpenPlay,2024,RightFoot,27810,Mainz 05,Borussia M.Gladbach,1,1,2024-10-25 18:30:00,Rocco Reitz,Throughball
+600743,19,SavedShot,0.8040000152587891,0.6129999923706054,0.03850360959768295,Tim Kleindienst,h,6142,OpenPlay,2024,RightFoot,27821,Borussia M.Gladbach,Werder Bremen,4,1,2024-11-03 16:30:00,,None
+600746,28,BlockedShot,0.9590000152587891,0.49,0.5059376358985901,Tim Kleindienst,h,6142,FromCorner,2024,Head,27821,Borussia M.Gladbach,Werder Bremen,4,1,2024-11-03 16:30:00,Franck Honorat,Cross
+600754,51,SavedShot,0.9209999847412109,0.6809999847412109,0.2284311205148697,Tim Kleindienst,h,6142,OpenPlay,2024,LeftFoot,27821,Borussia M.Gladbach,Werder Bremen,4,1,2024-11-03 16:30:00,Alassane Pléa,Pass
+601695,21,SavedShot,0.9209999847412109,0.44799999237060545,0.49552619457244873,Tim Kleindienst,a,6142,OpenPlay,2024,RightFoot,27824,RasenBallsport Leipzig,Borussia M.Gladbach,0,0,2024-11-09 17:30:00,Franck Honorat,Cross
+601698,29,MissedShots,0.7130000305175781,0.32099998474121094,0.03176393732428551,Tim Kleindienst,a,6142,OpenPlay,2024,RightFoot,27824,RasenBallsport Leipzig,Borussia M.Gladbach,0,0,2024-11-09 17:30:00,Julian Weigl,Pass
+601699,33,BlockedShot,0.8880000305175781,0.634000015258789,0.08111117780208588,Tim Kleindienst,a,6142,OpenPlay,2024,LeftFoot,27824,RasenBallsport Leipzig,Borussia M.Gladbach,0,0,2024-11-09 17:30:00,Robin Hack,Pass
+603566,43,Goal,0.8719999694824219,0.62,0.325518399477005,Tim Kleindienst,h,6142,OpenPlay,2024,LeftFoot,27839,Borussia M.Gladbach,St. Pauli,2,0,2024-11-24 16:30:00,Robin Hack,Throughball
+604220,60,Goal,0.9419999694824219,0.4809999847412109,0.47614434361457825,Tim Kleindienst,a,6142,OpenPlay,2024,Head,27845,Freiburg,Borussia M.Gladbach,3,1,2024-11-30 14:30:00,Lukas Ullrich,Cross
+606043,52,BlockedShot,0.894000015258789,0.3060000038146973,0.14114496111869812,Tim Kleindienst,h,6142,OpenPlay,2024,RightFoot,27854,Borussia M.Gladbach,Borussia Dortmund,1,1,2024-12-07 17:30:00,Joe Scally,Throughball
+607022,0,Goal,0.945,0.500999984741211,0.5591937899589539,Tim Kleindienst,h,6142,OpenPlay,2024,Head,27865,Borussia M.Gladbach,Holstein Kiel,4,1,2024-12-14 14:30:00,Franck Honorat,Cross
+607023,18,MissedShots,0.9259999847412109,0.5359999847412109,0.39374014735221863,Tim Kleindienst,h,6142,OpenPlay,2024,Head,27865,Borussia M.Gladbach,Holstein Kiel,4,1,2024-12-14 14:30:00,Rocco Reitz,Cross
+607029,31,MissedShots,0.9419999694824219,0.5729999923706055,0.4635370671749115,Tim Kleindienst,h,6142,OpenPlay,2024,Head,27865,Borussia M.Gladbach,Holstein Kiel,4,1,2024-12-14 14:30:00,Franck Honorat,Cross
+607030,40,SavedShot,0.889000015258789,0.4420000076293945,0.07011034339666367,Tim Kleindienst,h,6142,OpenPlay,2024,Head,27865,Borussia M.Gladbach,Holstein Kiel,4,1,2024-12-14 14:30:00,Lukas Ullrich,Cross
+607036,63,MissedShots,0.8959999847412109,0.51,0.020519252866506577,Tim Kleindienst,h,6142,FromCorner,2024,Head,27865,Borussia M.Gladbach,Holstein Kiel,4,1,2024-12-14 14:30:00,Franck Honorat,Aerial
+608225,1,MissedShots,0.9159999847412109,0.5309999847412109,0.03942731022834778,Tim Kleindienst,a,6142,FromCorner,2024,Head,27872,Hoffenheim,Borussia M.Gladbach,1,2,2024-12-21 14:30:00,Ko Itakura,Aerial
+610848,48,MissedShots,0.9769999694824218,0.5970000076293945,0.19089625775814056,Tim Kleindienst,h,6142,OpenPlay,2024,Head,27884,Borussia M.Gladbach,Bayern Munich,0,1,2025-01-11 17:30:00,Rocco Reitz,Cross
+612448,69,BlockedShot,0.7280000305175781,0.47,0.014883385971188545,Tim Kleindienst,a,6142,OpenPlay,2024,RightFoot,27895,Bayer Leverkusen,Borussia M.Gladbach,3,1,2025-01-18 17:30:00,Philipp Sander,BallRecovery
+612451,86,SavedShot,0.909000015258789,0.415,0.0628250390291214,Tim Kleindienst,a,6142,OpenPlay,2024,RightFoot,27895,Bayer Leverkusen,Borussia M.Gladbach,3,1,2025-01-18 17:30:00,Stefan Lainer,Cross
+612452,90,Goal,0.899000015258789,0.5220000076293946,0.27712979912757874,Tim Kleindienst,a,6142,OpenPlay,2024,RightFoot,27895,Bayer Leverkusen,Borussia M.Gladbach,3,1,2025-01-18 17:30:00,Luca Netz,Cross
+613546,7,MissedShots,0.925,0.5940000152587891,0.07645814120769501,Tim Kleindienst,h,6142,OpenPlay,2024,Head,27908,Borussia M.Gladbach,Bochum,3,0,2025-01-25 17:30:00,Kevin Stöger,Cross
+613552,39,BlockedShot,0.7730000305175782,0.4909999847412109,0.06084447726607323,Tim Kleindienst,h,6142,OpenPlay,2024,RightFoot,27908,Borussia M.Gladbach,Bochum,3,0,2025-01-25 17:30:00,Lukas Ullrich,Pass
+613554,46,BlockedShot,0.86,0.35900001525878905,0.07998804748058319,Tim Kleindienst,h,6142,OpenPlay,2024,RightFoot,27908,Borussia M.Gladbach,Bochum,3,0,2025-01-25 17:30:00,Rocco Reitz,Pass
+613557,66,SavedShot,0.955,0.4879999923706055,0.4935727119445801,Tim Kleindienst,h,6142,FromCorner,2024,Head,27908,Borussia M.Gladbach,Bochum,3,0,2025-01-25 17:30:00,Kevin Stöger,Cross
+613565,85,SavedShot,0.885,0.5,0.75777667760849,Tim Kleindienst,h,6142,Penalty,2024,LeftFoot,27908,Borussia M.Gladbach,Bochum,3,0,2025-01-25 17:30:00,,Standard
+613566,85,Goal,0.9030000305175782,0.47299999237060547,0.47356072068214417,Tim Kleindienst,h,6142,SetPiece,2024,RightFoot,27908,Borussia M.Gladbach,Bochum,3,0,2025-01-25 17:30:00,,Rebound
+613568,90,SavedShot,0.7659999847412109,0.634000015258789,0.029024707153439522,Tim Kleindienst,h,6142,OpenPlay,2024,LeftFoot,27908,Borussia M.Gladbach,Bochum,3,0,2025-01-25 17:30:00,Nathan N&#039;Goumou Minpol,Pass
+614846,70,MissedShots,0.894000015258789,0.4570000076293945,0.040778517723083496,Tim Kleindienst,a,6142,OpenPlay,2024,Head,27917,VfB Stuttgart,Borussia M.Gladbach,1,2,2025-02-01 14:30:00,Lukas Ullrich,Aerial
+614848,74,SavedShot,0.830999984741211,0.675,0.30866315960884094,Tim Kleindienst,a,6142,OpenPlay,2024,LeftFoot,27917,VfB Stuttgart,Borussia M.Gladbach,1,2,2025-02-01 14:30:00,Lukas Ullrich,Throughball
+614850,80,Goal,0.9619999694824218,0.4640000152587891,0.6596367359161377,Tim Kleindienst,a,6142,OpenPlay,2024,LeftFoot,27917,VfB Stuttgart,Borussia M.Gladbach,1,2,2025-02-01 14:30:00,Lukas Ullrich,Pass
+616210,25,Goal,0.9209999847412109,0.5020000076293946,0.381756991147995,Tim Kleindienst,h,6142,SetPiece,2024,Head,27929,Borussia M.Gladbach,Eintracht Frankfurt,1,1,2025-02-08 17:30:00,Florian Neuhaus,Cross
+616215,39,MissedShots,0.7219999694824218,0.36400001525878906,0.01960442028939724,Tim Kleindienst,h,6142,OpenPlay,2024,LeftFoot,27929,Borussia M.Gladbach,Eintracht Frankfurt,1,1,2025-02-08 17:30:00,Joe Scally,Pass
+617098,25,Goal,0.9690000152587891,0.514000015258789,0.8313074111938477,Tim Kleindienst,a,6142,OpenPlay,2024,LeftFoot,27937,Union Berlin,Borussia M.Gladbach,1,2,2025-02-15 14:30:00,Nathan N&#039;Goumou Minpol,Pass
+617101,41,SavedShot,0.8969999694824219,0.45799999237060546,0.022543558850884438,Tim Kleindienst,a,6142,FromCorner,2024,Head,27937,Union Berlin,Borussia M.Gladbach,1,2,2025-02-15 14:30:00,,Aerial
+617115,79,SavedShot,0.899000015258789,0.639000015258789,0.3062595725059509,Tim Kleindienst,a,6142,OpenPlay,2024,LeftFoot,27937,Union Berlin,Borussia M.Gladbach,1,2,2025-02-15 14:30:00,Stefan Lainer,Chipped
+618329,27,MissedShots,0.9690000152587891,0.6890000152587891,0.11045616120100021,Tim Kleindienst,h,6142,OpenPlay,2024,LeftFoot,27947,Borussia M.Gladbach,Augsburg,0,3,2025-02-22 14:30:00,Robin Hack,Throughball
+620911,25,SavedShot,0.950999984741211,0.5740000152587891,0.12568745017051697,Tim Kleindienst,h,6142,OpenPlay,2024,Head,27965,Borussia M.Gladbach,Mainz 05,1,3,2025-03-07 19:30:00,Philipp Sander,Cross
+620933,88,MissedShots,0.9669999694824218,0.40400001525878904,0.08732448518276215,Tim Kleindienst,h,6142,OpenPlay,2024,Head,27965,Borussia M.Gladbach,Mainz 05,1,3,2025-03-07 19:30:00,Luca Netz,Cross
+622550,10,MissedShots,0.9259999847412109,0.605999984741211,0.03739132732152939,Tim Kleindienst,a,6142,OpenPlay,2024,Head,27970,Werder Bremen,Borussia M.Gladbach,2,4,2025-03-15 14:30:00,Nathan N&#039;Goumou Minpol,Aerial
+622578,80,Goal,0.9630000305175781,0.46,0.6055383682250977,Tim Kleindienst,a,6142,OpenPlay,2024,LeftFoot,27970,Werder Bremen,Borussia M.Gladbach,2,4,2025-03-15 14:30:00,Alassane Pléa,Cross
+626337,24,MissedShots,0.895,0.5459999847412109,0.0833592414855957,Tim Kleindienst,a,6142,OpenPlay,2024,Head,27993,St. Pauli,Borussia M.Gladbach,1,1,2025-04-06 13:30:00,Franck Honorat,Cross
+627074,63,BlockedShot,0.9,0.45599998474121095,0.08843521773815155,Tim Kleindienst,h,6142,OpenPlay,2024,RightFoot,28000,Borussia M.Gladbach,Freiburg,1,2,2025-04-12 13:30:00,,None
+630220,51,BlockedShot,0.955,0.5720000076293945,0.11292263865470886,Tim Kleindienst,a,6142,FromCorner,2024,Head,28020,Holstein Kiel,Borussia M.Gladbach,4,3,2025-04-26 13:30:00,Robin Hack,Cross
+630224,66,SavedShot,0.8159999847412109,0.5379999923706055,0.04799352213740349,Tim Kleindienst,a,6142,OpenPlay,2024,RightFoot,28020,Holstein Kiel,Borussia M.Gladbach,4,3,2025-04-26 13:30:00,Tomás Cvancara,Pass
+631374,90,Goal,0.914000015258789,0.47200000762939454,0.4778245985507965,Tim Kleindienst,h,6142,OpenPlay,2024,OtherBodyPart,28027,Borussia M.Gladbach,Hoffenheim,4,4,2025-05-03 13:30:00,Robin Hack,Aerial
+632989,43,SavedShot,0.925,0.49,0.056689828634262085,Tim Kleindienst,a,6142,OpenPlay,2024,Head,28032,Bayern Munich,Borussia M.Gladbach,2,0,2025-05-10 16:30:00,Franck Honorat,Aerial
+632994,54,BlockedShot,0.8730000305175781,0.654000015258789,0.05785808712244034,Tim Kleindienst,a,6142,OpenPlay,2024,LeftFoot,28032,Bayern Munich,Borussia M.Gladbach,2,0,2025-05-10 16:30:00,Franck Honorat,Pass

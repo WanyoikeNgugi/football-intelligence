@@ -1,0 +1,24 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+534486,23,Goal,0.855999984741211,0.51,0.3811754584312439,Marvin Mehlem,h,11916,OpenPlay,2023,LeftFoot,23079,Darmstadt,Union Berlin,1,4,2023-08-26 13:30:00,,None
+534493,41,MissedShots,0.830999984741211,0.5940000152587891,0.05696233734488487,Marvin Mehlem,h,11916,OpenPlay,2023,RightFoot,23079,Darmstadt,Union Berlin,1,4,2023-08-26 13:30:00,Fabian Holland,Pass
+534499,57,MissedShots,0.7380000305175781,0.539000015258789,0.020122172310948372,Marvin Mehlem,h,11916,OpenPlay,2023,RightFoot,23079,Darmstadt,Union Berlin,1,4,2023-08-26 13:30:00,Matej Maglica,Pass
+538389,7,Goal,0.8680000305175781,0.54,0.2931848168373108,Marvin Mehlem,h,11916,OpenPlay,2023,LeftFoot,23100,Darmstadt,Borussia M.Gladbach,3,3,2023-09-17 15:30:00,Fabian Holland,Chipped
+541832,27,SavedShot,0.779000015258789,0.4179999923706055,0.029910311102867126,Marvin Mehlem,h,11916,OpenPlay,2023,RightFoot,23117,Darmstadt,Werder Bremen,4,2,2023-10-01 13:30:00,,None
+541834,49,Goal,0.8819999694824219,0.52,0.5135985612869263,Marvin Mehlem,h,11916,OpenPlay,2023,RightFoot,23117,Darmstadt,Werder Bremen,4,2,2023-10-01 13:30:00,Matthias Bader,Throughball
+542519,46,SavedShot,0.8480000305175781,0.5379999923706055,0.35395386815071106,Marvin Mehlem,a,11916,OpenPlay,2023,RightFoot,23122,Augsburg,Darmstadt,1,2,2023-10-07 13:30:00,,BallRecovery
+543851,5,SavedShot,0.9230000305175782,0.59,0.10131051391363144,Marvin Mehlem,h,11916,OpenPlay,2023,LeftFoot,23133,Darmstadt,RasenBallsport Leipzig,1,3,2023-10-21 13:30:00,Fabian Nürnberger,Rebound
+543856,12,BlockedShot,0.8730000305175781,0.7080000305175781,0.03790178894996643,Marvin Mehlem,h,11916,OpenPlay,2023,RightFoot,23133,Darmstadt,RasenBallsport Leipzig,1,3,2023-10-21 13:30:00,,BallRecovery
+543865,50,BlockedShot,0.925,0.36200000762939455,0.13284975290298462,Marvin Mehlem,h,11916,OpenPlay,2023,RightFoot,23133,Darmstadt,RasenBallsport Leipzig,1,3,2023-10-21 13:30:00,Tobias Kempe,Throughball
+543872,88,MissedShots,0.7809999847412109,0.63,0.01306114997714758,Marvin Mehlem,h,11916,OpenPlay,2023,LeftFoot,23133,Darmstadt,RasenBallsport Leipzig,1,3,2023-10-21 13:30:00,Mathias Honsak,HeadPass
+543875,96,MissedShots,0.9409999847412109,0.534000015258789,0.15086491405963898,Marvin Mehlem,h,11916,OpenPlay,2023,Head,23133,Darmstadt,RasenBallsport Leipzig,1,3,2023-10-21 13:30:00,Fabian Nürnberger,Cross
+545442,17,BlockedShot,0.84,0.41400001525878904,0.07440026849508286,Marvin Mehlem,a,11916,OpenPlay,2023,RightFoot,23137,Bayern Munich,Darmstadt,8,0,2023-10-28 13:30:00,Matthias Bader,Pass
+545446,26,MissedShots,0.8580000305175781,0.524000015258789,0.06905469298362732,Marvin Mehlem,a,11916,OpenPlay,2023,LeftFoot,23137,Bayern Munich,Darmstadt,8,0,2023-10-28 13:30:00,Fabian Nürnberger,HeadPass
+545449,35,SavedShot,0.875999984741211,0.6680000305175782,0.46292662620544434,Marvin Mehlem,a,11916,OpenPlay,2023,LeftFoot,23137,Bayern Munich,Darmstadt,8,0,2023-10-28 13:30:00,Luca Pfeiffer,Throughball
+548290,92,SavedShot,0.8680000305175781,0.549000015258789,0.03467473387718201,Marvin Mehlem,h,11916,OpenPlay,2023,Head,23163,Darmstadt,Mainz 05,0,0,2023-11-11 14:30:00,Matthias Bader,Cross
+549682,64,MissedShots,0.8119999694824219,0.54,0.05444299802184105,Marvin Mehlem,a,11916,OpenPlay,2023,RightFoot,23166,Freiburg,Darmstadt,1,1,2023-11-25 14:30:00,Mathias Honsak,Pass
+549685,81,BlockedShot,0.875,0.3,0.06532175838947296,Marvin Mehlem,a,11916,OpenPlay,2023,RightFoot,23166,Freiburg,Darmstadt,1,1,2023-11-25 14:30:00,Fabian Nürnberger,Pass
+562417,17,BlockedShot,0.8009999847412109,0.3240000152587891,0.013771709986031055,Marvin Mehlem,a,11916,OpenPlay,2023,RightFoot,23245,Borussia M.Gladbach,Darmstadt,0,0,2024-02-10 14:30:00,Emir Karic,Chipped
+565082,46,MissedShots,0.8569999694824219,0.36700000762939455,0.06920027732849121,Marvin Mehlem,a,11916,OpenPlay,2023,RightFoot,23265,Werder Bremen,Darmstadt,1,1,2024-02-24 14:30:00,Julian Justvan,Pass
+578316,59,MissedShots,0.8930000305175781,0.5309999847412109,0.0460234060883522,Marvin Mehlem,a,11916,OpenPlay,2023,Head,23347,Wolfsburg,Darmstadt,3,0,2024-05-04 13:30:00,Fabian Nürnberger,Aerial
+580381,23,BlockedShot,0.8590000152587891,0.34,0.039882268756628036,Marvin Mehlem,h,11916,OpenPlay,2023,LeftFoot,23361,Darmstadt,Hoffenheim,0,6,2024-05-12 13:30:00,,None
+581463,15,MissedShots,0.73,0.675,0.013196070678532124,Marvin Mehlem,a,11916,FromCorner,2023,RightFoot,23362,Borussia Dortmund,Darmstadt,4,0,2024-05-18 13:30:00,,None

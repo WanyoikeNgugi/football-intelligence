@@ -1,0 +1,12 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+656783,93,Goal,0.8819999694824219,0.5670000076293945,0.01611696183681488,Ricky-Jade Jones,a,14197,OpenPlay,2025,Head,30336,FC Cologne,St. Pauli,1,1,2025-12-06 14:30:00,Danel Sinani,Aerial
+663029,34,SavedShot,0.9480000305175781,0.46799999237060547,0.8428558111190796,Ricky-Jade Jones,a,14197,OpenPlay,2025,RightFoot,30376,Wolfsburg,St. Pauli,2,1,2026-01-14 17:30:00,Joel Chima Fujita,Pass
+663030,34,MissedShots,0.95,0.4779999923706055,0.7442349791526794,Ricky-Jade Jones,a,14197,OpenPlay,2025,LeftFoot,30376,Wolfsburg,St. Pauli,2,1,2026-01-14 17:30:00,,Rebound
+663519,65,BlockedShot,0.9309999847412109,0.6990000152587891,0.04295917972922325,Ricky-Jade Jones,a,14197,OpenPlay,2025,LeftFoot,30378,Borussia Dortmund,St. Pauli,3,2,2026-01-17 14:30:00,James Sands,Pass
+663520,71,Goal,0.8859999847412109,0.395,0.03879128769040108,Ricky-Jade Jones,a,14197,SetPiece,2025,RightFoot,30378,Borussia Dortmund,St. Pauli,3,2,2026-01-17 14:30:00,Eric Smith,Cross
+663521,77,SavedShot,0.9619999694824218,0.33299999237060546,0.0897049531340599,Ricky-Jade Jones,a,14197,OpenPlay,2025,RightFoot,30378,Borussia Dortmund,St. Pauli,3,2,2026-01-17 14:30:00,Joel Chima Fujita,Pass
+663528,96,SavedShot,0.7269999694824218,0.6509999847412109,0.012034597806632519,Ricky-Jade Jones,a,14197,OpenPlay,2025,RightFoot,30378,Borussia Dortmund,St. Pauli,3,2,2026-01-17 14:30:00,,None
+665691,17,BlockedShot,0.8240000152587891,0.45599998474121095,0.1435573399066925,Ricky-Jade Jones,h,14197,OpenPlay,2025,RightFoot,30365,St. Pauli,RasenBallsport Leipzig,1,1,2026-01-27 19:30:00,Joel Chima Fujita,Throughball
+665693,20,MissedShots,0.855,0.37799999237060544,0.29090774059295654,Ricky-Jade Jones,h,14197,OpenPlay,2025,RightFoot,30365,St. Pauli,RasenBallsport Leipzig,1,1,2026-01-27 19:30:00,James Sands,Chipped
+666014,27,BlockedShot,0.9380000305175781,0.48700000762939455,0.585801899433136,Ricky-Jade Jones,a,14197,OpenPlay,2025,OtherBodyPart,30395,Augsburg,St. Pauli,2,1,2026-01-31 14:30:00,Joel Chima Fujita,Pass
+666016,28,BlockedShot,0.81,0.3129999923706055,0.030171532183885574,Ricky-Jade Jones,a,14197,OpenPlay,2025,RightFoot,30395,Augsburg,St. Pauli,2,1,2026-01-31 14:30:00,,BallRecovery

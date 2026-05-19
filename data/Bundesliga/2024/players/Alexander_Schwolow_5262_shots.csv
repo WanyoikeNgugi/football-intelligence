@@ -1,0 +1,4 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+199514,24,OwnGoal,0.01399999976158142,0.5420000076293945,0,Alexander Schwolow,h,5262,OpenPlay,2017,OtherBodyPart,8477,Freiburg,Bayern Munich,0,4,2018-03-04 17:00:00,,BallTouch
+210377,93,MissedShots,0.870999984741211,0.46700000762939453,0.07005009800195694,Alexander Schwolow,a,5262,OpenPlay,2017,RightFoot,8535,Hamburger SV,Freiburg,1,0,2018-04-21 13:30:00,,None
+490917,94,BlockedShot,0.955,0.4109999847412109,0.09960950165987015,Alexander Schwolow,h,5262,FromCorner,2022,RightFoot,19412,Schalke 04,Augsburg,2,3,2022-10-02 15:30:00,Kenan Karaman,None

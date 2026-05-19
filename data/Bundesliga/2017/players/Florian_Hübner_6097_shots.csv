@@ -1,0 +1,11 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+336863,82,ShotOnPost,0.9459999847412109,0.4929999923706055,0.5787320137023926,Florian Hübner,a,6097,SetPiece,2019,RightFoot,12537,Paderborn,Union Berlin,1,1,2019-12-14 14:30:00,Michael Parensen,HeadPass
+338038,11,BlockedShot,0.9130000305175782,0.5109999847412109,0.09258969873189926,Florian Hübner,h,6097,FromCorner,2019,Head,12546,Union Berlin,Hoffenheim,0,2,2019-12-17 19:30:00,Christopher Trimmel,Cross
+357949,65,SavedShot,0.975999984741211,0.59,0.0667852982878685,Florian Hübner,a,6097,FromCorner,2019,Head,12588,Werder Bremen,Union Berlin,0,2,2020-02-08 14:30:00,Christopher Trimmel,Cross
+360506,78,OwnGoal,0.03799999952316284,0.425,0,Florian Hübner,a,6097,OpenPlay,2019,LeftFoot,12605,Eintracht Frankfurt,Union Berlin,1,2,2020-02-24 19:30:00,,Save
+364007,14,MissedShots,0.9519999694824218,0.549000015258789,0.5242630243301392,Florian Hübner,h,6097,OpenPlay,2019,RightFoot,12672,Union Berlin,Schalke 04,1,1,2020-06-07 13:30:00,Yunus Malli,Cross
+364009,25,BlockedShot,0.95,0.500999984741211,0.09488040208816528,Florian Hübner,h,6097,SetPiece,2019,RightFoot,12672,Union Berlin,Schalke 04,1,1,2020-06-07 13:30:00,,None
+364018,86,MissedShots,0.9209999847412109,0.4379999923706055,0.03748039901256561,Florian Hübner,h,6097,FromCorner,2019,Head,12672,Union Berlin,Schalke 04,1,1,2020-06-07 13:30:00,Christopher Trimmel,CornerAwarded
+396338,47,MissedShots,0.9069999694824219,0.5,0.08254019916057587,Florian Hübner,a,6097,FromCorner,2020,Head,15263,Werder Bremen,Union Berlin,0,2,2021-01-02 14:30:00,Christopher Trimmel,Cross
+397832,25,SavedShot,0.8830000305175781,0.4909999847412109,0.015723399817943573,Florian Hübner,h,6097,FromCorner,2020,Head,15270,Union Berlin,Wolfsburg,2,2,2021-01-09 14:30:00,Christopher Trimmel,Aerial
+398775,47,BlockedShot,0.7669999694824219,0.6459999847412109,0.011689599603414536,Florian Hübner,h,6097,OpenPlay,2020,RightFoot,15280,Union Berlin,Bayer Leverkusen,1,0,2021-01-15 19:30:00,,Aerial

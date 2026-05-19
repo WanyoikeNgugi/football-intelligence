@@ -1,0 +1,97 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+25606,74,SavedShot,0.785,0.46799999237060547,0.03945700079202652,Lars Bender,a,421,OpenPlay,2014,RightFoot,5439,Freiburg,Bayer Leverkusen,0,0,2014-09-27 14:30:00,Stefan Kießling,HeadPass
+25789,41,Goal,0.94,0.47299999237060547,0.6919460296630859,Lars Bender,h,421,OpenPlay,2014,RightFoot,5387,Bayer Leverkusen,Paderborn,2,2,2014-10-04 14:30:00,,Rebound
+25791,46,MissedShots,0.8569999694824219,0.62,0.051267798990011215,Lars Bender,h,421,FromCorner,2014,LeftFoot,5387,Bayer Leverkusen,Paderborn,2,2,2014-10-04 14:30:00,Son Heung-Min,Pass
+26719,22,MissedShots,0.7909999847412109,0.315,0.023579999804496765,Lars Bender,h,421,OpenPlay,2014,RightFoot,5359,Bayer Leverkusen,Mainz 05,0,0,2014-11-08 14:30:00,Son Heung-Min,Pass
+27501,12,MissedShots,0.769000015258789,0.355,0.023157300427556038,Lars Bender,h,421,OpenPlay,2014,RightFoot,5377,Bayer Leverkusen,FC Cologne,5,1,2014-11-29 14:30:00,Roberto Hilbert,Pass
+27504,27,SavedShot,0.7780000305175782,0.5929999923706055,0.02697410061955452,Lars Bender,h,421,OpenPlay,2014,RightFoot,5377,Bayer Leverkusen,FC Cologne,5,1,2014-11-29 14:30:00,,None
+27857,22,BlockedShot,0.8919999694824219,0.355,0.1004600003361702,Lars Bender,h,421,OpenPlay,2014,RightFoot,5328,Bayer Leverkusen,Borussia M.Gladbach,1,1,2014-12-14 14:30:00,Karim Bellarabi,Pass
+27861,36,MissedShots,0.9209999847412109,0.5629999923706055,0.05839629843831062,Lars Bender,h,421,OpenPlay,2014,Head,5328,Bayer Leverkusen,Borussia M.Gladbach,1,1,2014-12-14 14:30:00,Hakan Calhanoglu,Aerial
+27878,86,BlockedShot,0.745,0.56,0.01711530052125454,Lars Bender,h,421,OpenPlay,2014,RightFoot,5328,Bayer Leverkusen,Borussia M.Gladbach,1,1,2014-12-14 14:30:00,,None
+28014,36,MissedShots,0.6940000152587891,0.54,0.014016799628734589,Lars Bender,h,421,OpenPlay,2014,RightFoot,5343,Bayer Leverkusen,Eintracht Frankfurt,1,1,2014-12-20 14:30:00,Karim Bellarabi,Pass
+28024,76,MissedShots,0.785,0.43400001525878906,0.024474600329995155,Lars Bender,h,421,FromCorner,2014,RightFoot,5343,Bayer Leverkusen,Eintracht Frankfurt,1,1,2014-12-20 14:30:00,,None
+29731,71,MissedShots,0.899000015258789,0.55,0.02962060086429119,Lars Bender,a,421,OpenPlay,2014,Head,5278,Werder Bremen,Bayer Leverkusen,2,1,2015-02-08 14:30:00,Wendell,Aerial
+28990,6,SavedShot,0.759000015258789,0.509000015258789,0.023374199867248535,Lars Bender,h,421,OpenPlay,2014,RightFoot,5282,Bayer Leverkusen,Wolfsburg,4,5,2015-02-14 14:30:00,,None
+32294,38,MissedShots,0.795,0.3120000076293945,0.03177719935774803,Lars Bender,h,421,OpenPlay,2014,RightFoot,5199,Bayer Leverkusen,Hamburger SV,4,0,2015-04-04 14:30:00,Stefan Kießling,Pass
+32297,47,BlockedShot,0.845999984741211,0.5029999923706054,0.0676874965429306,Lars Bender,h,421,OpenPlay,2014,LeftFoot,5199,Bayer Leverkusen,Hamburger SV,4,0,2015-04-04 14:30:00,,Rebound
+32299,53,MissedShots,0.9469999694824218,0.6480000305175782,0.012649600394070148,Lars Bender,h,421,FromCorner,2014,Head,5199,Bayer Leverkusen,Hamburger SV,4,0,2015-04-04 14:30:00,Gonzalo Castro,Aerial
+31051,11,SavedShot,0.915,0.47200000762939454,0.05532649904489517,Lars Bender,a,421,OpenPlay,2014,Head,5208,Mainz 05,Bayer Leverkusen,2,3,2015-04-11 14:30:00,Wendell,Aerial
+31718,1,SavedShot,0.9690000152587891,0.6580000305175782,0.012287599965929985,Lars Bender,h,421,FromCorner,2014,Head,5218,Bayer Leverkusen,Hannover 96,4,0,2015-04-18 14:30:00,Hakan Calhanoglu,Cross
+31735,44,MissedShots,0.7680000305175781,0.32,0.018875999376177788,Lars Bender,h,421,OpenPlay,2014,LeftFoot,5218,Bayer Leverkusen,Hannover 96,4,0,2015-04-18 14:30:00,Julian Brandt,Pass
+30152,9,BlockedShot,0.8090000152587891,0.519000015258789,0.06054310128092766,Lars Bender,a,421,OpenPlay,2014,RightFoot,5226,FC Cologne,Bayer Leverkusen,1,1,2015-04-25 14:30:00,Wendell,Pass
+30155,13,SavedShot,0.78,0.3089999961853027,0.028129400685429573,Lars Bender,a,421,OpenPlay,2014,LeftFoot,5226,FC Cologne,Bayer Leverkusen,1,1,2015-04-25 14:30:00,,TakeOn
+31516,75,MissedShots,0.8690000152587891,0.42900001525878906,0.028149599209427834,Lars Bender,a,421,OpenPlay,2014,Head,5171,Borussia M.Gladbach,Bayer Leverkusen,3,0,2015-05-09 14:30:00,Giulio Donati,Cross
+76110,17,MissedShots,0.785,0.575,0.031351398676633835,Lars Bender,h,421,OpenPlay,2015,RightFoot,1022,Bayer Leverkusen,Hoffenheim,2,1,2015-08-15 17:30:00,,None
+76445,41,BlockedShot,0.7319999694824219,0.5920000076293945,0.01860019937157631,Lars Bender,a,421,OpenPlay,2015,RightFoot,1035,Hannover 96,Bayer Leverkusen,0,1,2015-08-22 17:30:00,Hakan Calhanoglu,Pass
+76446,42,SavedShot,0.7859999847412109,0.6940000152587891,0.026912100613117218,Lars Bender,a,421,FromCorner,2015,RightFoot,1035,Hannover 96,Bayer Leverkusen,0,1,2015-08-22 17:30:00,Hakan Calhanoglu,Pass
+76816,38,MissedShots,0.9119999694824219,0.4279999923706055,0.08406569808721542,Lars Bender,h,421,OpenPlay,2015,RightFoot,1053,Bayer Leverkusen,Darmstadt,0,1,2015-09-12 17:30:00,Julian Brandt,HeadPass
+76815,38,BlockedShot,0.8109999847412109,0.53,0.04548240080475807,Lars Bender,h,421,OpenPlay,2015,RightFoot,1053,Bayer Leverkusen,Darmstadt,0,1,2015-09-12 17:30:00,,None
+77594,34,MissedShots,0.735999984741211,0.4420000076293945,0.012155800126492977,Lars Bender,a,421,SetPiece,2015,LeftFoot,1079,Werder Bremen,Bayer Leverkusen,0,3,2015-09-26 17:30:00,,None
+77757,49,SavedShot,0.8519999694824218,0.3060000038146973,0.036256998777389526,Lars Bender,h,421,OpenPlay,2015,LeftFoot,1091,Bayer Leverkusen,Augsburg,1,1,2015-10-04 19:30:00,Hakan Calhanoglu,Pass
+77758,53,SavedShot,0.875999984741211,0.59,0.011126600205898285,Lars Bender,h,421,SetPiece,2015,Head,1091,Bayer Leverkusen,Augsburg,1,1,2015-10-04 19:30:00,Hakan Calhanoglu,Aerial
+77767,94,SavedShot,0.91,0.3970000076293945,0.0318077988922596,Lars Bender,h,421,FromCorner,2015,Head,1091,Bayer Leverkusen,Augsburg,1,1,2015-10-04 19:30:00,Admir Mehmedi,Cross
+83331,15,Goal,0.98,0.475,0.8399199843406677,Lars Bender,h,421,SetPiece,2015,RightFoot,1307,Bayer Leverkusen,Hertha Berlin,2,1,2016-04-30 20:30:00,,None
+83337,41,BlockedShot,0.895,0.5609999847412109,0.04350360110402107,Lars Bender,h,421,FromCorner,2015,Head,1307,Bayer Leverkusen,Hertha Berlin,2,1,2016-04-30 20:30:00,Hakan Calhanoglu,Cross
+128426,49,MissedShots,0.7169999694824218,0.46,0.01264750026166439,Lars Bender,h,421,OpenPlay,2016,RightFoot,1361,Bayer Leverkusen,Augsburg,0,0,2016-09-21 22:00:00,Charles Aránguiz,TakeOn
+129882,6,BlockedShot,0.825,0.4909999847412109,0.06116659939289093,Lars Bender,a,421,OpenPlay,2016,RightFoot,3301,Wolfsburg,Bayer Leverkusen,1,2,2016-10-29 17:30:00,Chicharito,Pass
+131946,13,MissedShots,0.8719999694824219,0.5629999923706055,0.012929899618029594,Lars Bender,h,421,FromCorner,2016,Head,3771,Bayer Leverkusen,Mainz 05,0,2,2017-02-25 14:30:00,Kevin Kampl,Aerial
+132457,27,MissedShots,0.9159999847412109,0.585,0.03000669926404953,Lars Bender,a,421,SetPiece,2016,Head,3781,Borussia Dortmund,Bayer Leverkusen,6,2,2017-03-04 14:30:00,Kevin Kampl,Aerial
+132465,48,SavedShot,0.764000015258789,0.28899999618530275,0.01767750084400177,Lars Bender,a,421,OpenPlay,2016,RightFoot,3781,Borussia Dortmund,Bayer Leverkusen,6,2,2017-03-04 14:30:00,Karim Bellarabi,Pass
+166667,17,BlockedShot,0.860999984741211,0.3120000076293945,0.04988719895482063,Lars Bender,h,421,OpenPlay,2017,RightFoot,8293,Bayer Leverkusen,Freiburg,4,0,2017-09-17 14:30:00,Dominik Kohr,BallTouch
+167785,6,BlockedShot,0.7519999694824219,0.5640000152587891,0.019185999408364296,Lars Bender,h,421,OpenPlay,2017,RightFoot,8327,Bayer Leverkusen,Wolfsburg,2,2,2017-10-15 14:30:00,,None
+167787,19,BlockedShot,0.9730000305175781,0.53,0.1423729956150055,Lars Bender,h,421,FromCorner,2017,RightFoot,8327,Bayer Leverkusen,Wolfsburg,2,2,2017-10-15 14:30:00,Jonathan Tah,HeadPass
+167792,28,Goal,0.9490000152587891,0.62,0.07020150125026703,Lars Bender,h,421,FromCorner,2017,LeftFoot,8327,Bayer Leverkusen,Wolfsburg,2,2,2017-10-15 14:30:00,Panagiotis Retsos,Pass
+167794,35,MissedShots,0.955999984741211,0.51,0.1413159966468811,Lars Bender,h,421,FromCorner,2017,LeftFoot,8327,Bayer Leverkusen,Wolfsburg,2,2,2017-10-15 14:30:00,Leon Bailey,Cross
+167804,62,BlockedShot,0.7630000305175781,0.5059999847412109,0.0387938991189003,Lars Bender,h,421,OpenPlay,2017,LeftFoot,8327,Bayer Leverkusen,Wolfsburg,2,2,2017-10-15 14:30:00,,None
+167620,77,SavedShot,0.92,0.5209999847412109,0.3251590132713318,Lars Bender,a,421,FromCorner,2017,Head,8354,Augsburg,Bayer Leverkusen,1,1,2017-11-04 14:30:00,Leon Bailey,Cross
+168028,58,MissedShots,0.86,0.29200000762939454,0.014263699762523174,Lars Bender,h,421,OpenPlay,2017,RightFoot,8363,Bayer Leverkusen,RasenBallsport Leipzig,2,2,2017-11-18 14:30:00,,Aerial
+169006,22,MissedShots,0.7230000305175781,0.27,0.009502720087766647,Lars Bender,h,421,OpenPlay,2017,RightFoot,8382,Bayer Leverkusen,Borussia Dortmund,1,1,2017-12-02 14:30:00,,None
+179803,65,MissedShots,0.919000015258789,0.38799999237060545,0.018013499677181244,Lars Bender,a,421,SetPiece,2017,Head,8393,VfB Stuttgart,Bayer Leverkusen,0,2,2017-12-08 19:30:00,Jonathan Tah,Aerial
+179811,79,Goal,0.9269999694824219,0.52,0.11568500101566315,Lars Bender,a,421,FromCorner,2017,Head,8393,VfB Stuttgart,Bayer Leverkusen,0,2,2017-12-08 19:30:00,Leon Bailey,Cross
+183828,40,SavedShot,0.6840000152587891,0.5279999923706055,0.013771099969744682,Lars Bender,a,421,OpenPlay,2017,RightFoot,8411,Hannover 96,Bayer Leverkusen,4,4,2017-12-17 14:30:00,Karim Bellarabi,Pass
+187129,27,MissedShots,0.7909999847412109,0.34200000762939453,0.0228193998336792,Lars Bender,h,421,OpenPlay,2017,RightFoot,8417,Bayer Leverkusen,Bayern Munich,1,3,2018-01-12 19:30:00,Kai Havertz,Pass
+190385,15,BlockedShot,0.9469999694824218,0.5070000076293946,0.11204099655151367,Lars Bender,h,421,OpenPlay,2017,RightFoot,8438,Bayer Leverkusen,Mainz 05,2,0,2018-01-28 14:30:00,,None
+198724,0,MissedShots,0.925,0.29399999618530276,0.04557019844651222,Lars Bender,a,421,OpenPlay,2017,RightFoot,8483,Wolfsburg,Bayer Leverkusen,1,2,2018-03-03 14:30:00,Lucas Alario,Pass
+200169,4,SavedShot,0.78,0.31799999237060544,0.02127249911427498,Lars Bender,h,421,OpenPlay,2017,RightFoot,8492,Bayer Leverkusen,Borussia M.Gladbach,2,0,2018-03-10 17:30:00,Julian Baumgartlinger,HeadPass
+211937,35,MissedShots,0.914000015258789,0.30100000381469727,0.05021300166845322,Lars Bender,h,421,OpenPlay,2017,LeftFoot,8544,Bayer Leverkusen,VfB Stuttgart,0,1,2018-04-28 16:30:00,Karim Bellarabi,Chipped
+211939,43,BlockedShot,0.8719999694824219,0.5329999923706055,0.04395059868693352,Lars Bender,h,421,SetPiece,2017,RightFoot,8544,Bayer Leverkusen,VfB Stuttgart,0,1,2018-04-28 16:30:00,,Aerial
+211946,56,MissedShots,0.895,0.37099998474121093,0.018001599237322807,Lars Bender,h,421,OpenPlay,2017,Head,8544,Bayer Leverkusen,VfB Stuttgart,0,1,2018-04-28 16:30:00,Leon Bailey,Aerial
+214613,10,BlockedShot,0.8159999847412109,0.3089999961853027,0.03549240157008171,Lars Bender,h,421,OpenPlay,2017,LeftFoot,8561,Bayer Leverkusen,Hannover 96,3,2,2018-05-12 14:30:00,Charles Aránguiz,Pass
+221621,1,BlockedShot,0.855,0.57,0.04096110165119171,Lars Bender,h,421,FromCorner,2018,LeftFoot,10351,Bayer Leverkusen,Wolfsburg,1,3,2018-09-01 13:30:00,Jonathan Tah,HeadPass
+225841,36,BlockedShot,0.7880000305175782,0.6020000076293945,0.029286600649356842,Lars Bender,h,421,OpenPlay,2018,RightFoot,10371,Bayer Leverkusen,Mainz 05,1,0,2018-09-23 13:30:00,Julian Brandt,Pass
+255456,33,Goal,0.8859999847412109,0.33299999237060546,0.06327210366725922,Lars Bender,h,421,OpenPlay,2018,RightFoot,10401,Bayer Leverkusen,Hannover 96,2,2,2018-10-20 13:30:00,Julian Brandt,Pass
+255466,66,SavedShot,0.775,0.549000015258789,0.03246080130338669,Lars Bender,h,421,OpenPlay,2018,LeftFoot,10401,Bayer Leverkusen,Hannover 96,2,2,2018-10-20 13:30:00,Lucas Alario,Pass
+255475,94,SavedShot,0.7269999694824218,0.37599998474121094,0.012422899715602398,Lars Bender,h,421,OpenPlay,2018,RightFoot,10401,Bayer Leverkusen,Hannover 96,2,2,2018-10-20 13:30:00,,None
+255858,39,SavedShot,0.9390000152587891,0.5979999923706054,0.01945500075817108,Lars Bender,a,421,FromCorner,2018,Head,10412,Werder Bremen,Bayer Leverkusen,2,6,2018-10-28 16:00:00,Julian Brandt,Aerial
+256027,2,MissedShots,0.9230000305175782,0.504000015258789,0.3990510106086731,Lars Bender,h,421,OpenPlay,2018,Head,10424,Bayer Leverkusen,Hoffenheim,1,4,2018-11-03 14:30:00,Karim Bellarabi,Cross
+256050,70,BlockedShot,0.9259999847412109,0.715,0.018859699368476868,Lars Bender,h,421,OpenPlay,2018,RightFoot,10424,Bayer Leverkusen,Hoffenheim,1,4,2018-11-03 14:30:00,,Aerial
+256949,46,BlockedShot,0.8969999694824219,0.4929999923706055,0.021133199334144592,Lars Bender,a,421,FromCorner,2018,Head,10453,Nuernberg,Bayer Leverkusen,1,1,2018-12-03 19:30:00,Julian Brandt,Aerial
+256961,79,BlockedShot,0.9330000305175781,0.5220000076293946,0.06348030269145966,Lars Bender,a,421,FromCorner,2018,Head,10453,Nuernberg,Bayer Leverkusen,1,1,2018-12-03 19:30:00,Leon Bailey,Aerial
+257056,38,MissedShots,0.8819999694824219,0.28100000381469725,0.041847698390483856,Lars Bender,h,421,OpenPlay,2018,LeftFoot,10456,Bayer Leverkusen,Augsburg,1,0,2018-12-08 14:30:00,Kevin Volland,Pass
+278404,19,BlockedShot,0.8059999847412109,0.30700000762939456,0.026566099375486374,Lars Bender,h,421,OpenPlay,2018,RightFoot,10498,Bayer Leverkusen,Borussia M.Gladbach,0,1,2019-01-19 14:30:00,Julian Brandt,Pass
+278413,46,BlockedShot,0.899000015258789,0.415,0.015090799890458584,Lars Bender,h,421,FromCorner,2018,Head,10498,Bayer Leverkusen,Borussia M.Gladbach,0,1,2019-01-19 14:30:00,Leon Bailey,Aerial
+286651,63,SavedShot,0.784000015258789,0.27100000381469724,0.008796210400760174,Lars Bender,h,421,OpenPlay,2018,LeftFoot,10563,Bayer Leverkusen,Werder Bremen,1,3,2019-03-17 12:30:00,Paulinho,Chipped
+286657,76,MissedShots,0.909000015258789,0.34900001525878904,0.05994829908013344,Lars Bender,h,421,OpenPlay,2018,RightFoot,10563,Bayer Leverkusen,Werder Bremen,1,3,2019-03-17 12:30:00,Leon Bailey,Rebound
+315637,10,BlockedShot,0.720999984741211,0.3240000152587891,0.012658200226724148,Lars Bender,h,421,OpenPlay,2019,RightFoot,12426,Bayer Leverkusen,Hoffenheim,0,0,2019-08-31 14:30:00,,Dispossessed
+315641,19,MissedShots,0.7919999694824219,0.3029999923706055,0.018902000039815903,Lars Bender,h,421,OpenPlay,2019,RightFoot,12426,Bayer Leverkusen,Hoffenheim,0,0,2019-08-31 14:30:00,,None
+315644,41,MissedShots,0.9130000305175782,0.5359999847412109,0.08424709737300873,Lars Bender,h,421,FromCorner,2019,Head,12426,Bayer Leverkusen,Hoffenheim,0,0,2019-08-31 14:30:00,Kerem Demirbay,Cross
+320249,47,MissedShots,0.86,0.5220000076293946,0.010037500411272049,Lars Bender,h,421,SetPiece,2019,Head,12443,Bayer Leverkusen,Union Berlin,2,0,2019-09-21 13:30:00,Nadiem Amiri,Aerial
+327388,2,BlockedShot,0.9340000152587891,0.425,0.032952699810266495,Lars Bender,h,421,FromCorner,2019,Head,12475,Bayer Leverkusen,Werder Bremen,2,2,2019-10-26 17:30:00,Kerem Demirbay,Aerial
+327404,45,BlockedShot,0.785,0.29700000762939455,0.015067500062286854,Lars Bender,h,421,OpenPlay,2019,RightFoot,12475,Bayer Leverkusen,Werder Bremen,2,2,2019-10-26 17:30:00,Kerem Demirbay,Cross
+327414,65,BlockedShot,0.899000015258789,0.524000015258789,0.06466499716043472,Lars Bender,h,421,FromCorner,2019,Head,12475,Bayer Leverkusen,Werder Bremen,2,2,2019-10-26 17:30:00,Nadiem Amiri,Cross
+335882,29,MissedShots,0.9080000305175782,0.4779999923706055,0.11220899969339371,Lars Bender,h,421,SetPiece,2019,Head,12522,Bayer Leverkusen,Schalke 04,2,1,2019-12-07 17:30:00,Leon Bailey,Cross
+335885,40,BlockedShot,0.914000015258789,0.47299999237060547,0.037751100957393646,Lars Bender,h,421,FromCorner,2019,Head,12522,Bayer Leverkusen,Schalke 04,2,1,2019-12-07 17:30:00,Leon Bailey,Aerial
+335896,88,BlockedShot,0.9130000305175782,0.5840000152587891,0.016482200473546982,Lars Bender,h,421,FromCorner,2019,Head,12522,Bayer Leverkusen,Schalke 04,2,1,2019-12-07 17:30:00,Nadiem Amiri,Aerial
+338059,1,BlockedShot,0.8540000152587891,0.46700000762939453,0.06417570263147354,Lars Bender,h,421,FromCorner,2019,LeftFoot,12539,Bayer Leverkusen,Hertha Berlin,0,1,2019-12-18 17:30:00,,None
+356349,52,MissedShots,0.960999984741211,0.35200000762939454,0.05224910005927086,Lars Bender,h,421,FromCorner,2019,LeftFoot,12567,Bayer Leverkusen,Fortuna Duesseldorf,3,0,2020-01-26 17:00:00,Kerem Demirbay,Pass
+356371,77,Goal,0.980999984741211,0.5870000076293945,0.21804900467395782,Lars Bender,h,421,FromCorner,2019,LeftFoot,12567,Bayer Leverkusen,Fortuna Duesseldorf,3,0,2020-01-26 17:00:00,Kerem Demirbay,Cross
+358149,81,Goal,0.9169999694824219,0.5770000076293945,0.03931799903512001,Lars Bender,h,421,OpenPlay,2019,Head,12584,Bayer Leverkusen,Borussia Dortmund,4,3,2020-02-08 17:30:00,Daley Sinkgraven,Aerial
+378702,34,MissedShots,0.7330000305175781,0.3770000076293945,0.01170669961720705,Lars Bender,h,421,OpenPlay,2020,RightFoot,14187,Bayer Leverkusen,RasenBallsport Leipzig,1,1,2020-09-26 13:30:00,Karim Bellarabi,HeadPass
+389438,23,BlockedShot,0.81,0.2589999961853027,0.02326210029423237,Lars Bender,h,421,OpenPlay,2020,LeftFoot,15215,Bayer Leverkusen,Hertha Berlin,0,0,2020-11-29 14:30:00,Julian Baumgartlinger,Pass
+389439,23,BlockedShot,0.76,0.24799999237060547,0.014261700212955475,Lars Bender,h,421,OpenPlay,2020,RightFoot,15215,Bayer Leverkusen,Hertha Berlin,0,0,2020-11-29 14:30:00,Moussa Diaby,Pass
+389446,32,MissedShots,0.9409999847412109,0.40400001525878904,0.0647616982460022,Lars Bender,h,421,FromCorner,2020,RightFoot,15215,Bayer Leverkusen,Hertha Berlin,0,0,2020-11-29 14:30:00,Kerem Demirbay,Cross
+389448,34,MissedShots,0.965,0.5120000076293946,0.13500100374221802,Lars Bender,h,421,FromCorner,2020,Head,15215,Bayer Leverkusen,Hertha Berlin,0,0,2020-11-29 14:30:00,Kerem Demirbay,Cross
+389449,38,BlockedShot,0.8290000152587891,0.3770000076293945,0.06917549669742584,Lars Bender,h,421,OpenPlay,2020,RightFoot,15215,Bayer Leverkusen,Hertha Berlin,0,0,2020-11-29 14:30:00,Julian Baumgartlinger,TakeOn
+389455,91,MissedShots,0.9269999694824219,0.5209999847412109,0.3973259925842285,Lars Bender,h,421,SetPiece,2020,Head,15215,Bayer Leverkusen,Hertha Berlin,0,0,2020-11-29 14:30:00,Kerem Demirbay,Cross
+390989,68,MissedShots,0.97,0.6,0.05256130173802376,Lars Bender,a,421,FromCorner,2020,Head,15226,Schalke 04,Bayer Leverkusen,0,3,2020-12-06 17:00:00,Nadiem Amiri,Cross
+423655,88,Goal,0.885,0.5,0.7577769756317139,Lars Bender,a,421,Penalty,2020,RightFoot,15438,Borussia Dortmund,Bayer Leverkusen,3,1,2021-05-22 13:30:00,,Standard

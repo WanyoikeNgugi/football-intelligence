@@ -1,0 +1,10 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+41617,3,MissedShots,0.8780000305175781,0.730999984741211,0.03464030101895332,Giovanni Pasquale,h,1889,OpenPlay,2014,LeftFoot,5158,Udinese,Empoli,2,0,2014-08-31 19:45:00,,None
+41630,46,MissedShots,0.8669999694824219,0.6769999694824219,0.026901399716734886,Giovanni Pasquale,h,1889,OpenPlay,2014,LeftFoot,5158,Udinese,Empoli,2,0,2014-08-31 19:45:00,Silvan Widmer,Cross
+44964,67,MissedShots,0.7,0.7480000305175781,0.009416709654033184,Giovanni Pasquale,a,1889,OpenPlay,2014,LeftFoot,5007,Inter,Udinese,1,2,2014-12-07 19:45:00,Allan,Pass
+45322,58,MissedShots,0.74,0.615,0.01665549911558628,Giovanni Pasquale,h,1889,OpenPlay,2014,LeftFoot,5015,Udinese,Verona,1,2,2014-12-14 14:00:00,,None
+46759,70,BlockedShot,0.7909999847412109,0.6229999923706054,0.015361499972641468,Giovanni Pasquale,h,1889,FromCorner,2014,RightFoot,4920,Udinese,Juventus,0,0,2015-02-01 14:00:00,,Aerial
+48244,10,MissedShots,0.845999984741211,0.55,0.05523790046572685,Giovanni Pasquale,h,1889,OpenPlay,2014,RightFoot,4895,Udinese,Torino,3,2,2015-03-08 14:00:00,Allan,Cross
+48784,62,BlockedShot,0.769000015258789,0.765,0.015626199543476105,Giovanni Pasquale,a,1889,OpenPlay,2014,LeftFoot,4903,Atalanta,Udinese,0,0,2015-03-15 14:00:00,,TakeOn
+48787,68,BlockedShot,0.765,0.5740000152587891,0.02543330006301403,Giovanni Pasquale,a,1889,OpenPlay,2014,LeftFoot,4903,Atalanta,Udinese,0,0,2015-03-15 14:00:00,Silvan Widmer,Pass
+50516,56,MissedShots,0.8130000305175781,0.5529999923706055,0.055005401372909546,Giovanni Pasquale,h,1889,OpenPlay,2014,LeftFoot,4871,Udinese,Inter,1,2,2015-04-28 19:45:00,Silvan Widmer,Pass

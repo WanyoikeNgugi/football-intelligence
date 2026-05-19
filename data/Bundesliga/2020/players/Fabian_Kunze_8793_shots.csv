@@ -1,0 +1,19 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+377382,94,BlockedShot,0.895,0.6170000076293946,0.11738999933004379,Fabian Kunze,a,8793,OpenPlay,2020,LeftFoot,14174,Eintracht Frankfurt,Arminia Bielefeld,1,1,2020-09-19 13:30:00,,TakeOn
+393116,28,MissedShots,0.789000015258789,0.3920000076293945,0.03035390004515648,Fabian Kunze,h,8793,OpenPlay,2020,RightFoot,15243,Arminia Bielefeld,Augsburg,0,1,2020-12-16 19:30:00,,None
+393123,65,MissedShots,0.919000015258789,0.49700000762939456,0.10572899878025055,Fabian Kunze,h,8793,FromCorner,2020,Head,15243,Arminia Bielefeld,Augsburg,0,1,2020-12-16 19:30:00,Ritsu Doan,Cross
+405079,81,MissedShots,0.7709999847412109,0.27700000762939453,0.019650600850582123,Fabian Kunze,a,8793,OpenPlay,2020,RightFoot,15320,Bayern Munich,Arminia Bielefeld,3,3,2021-02-15 19:30:00,Nils Seufert,Pass
+406705,11,SavedShot,0.865999984741211,0.3060000038146973,0.04262059926986694,Fabian Kunze,a,8793,OpenPlay,2020,RightFoot,15339,Borussia Dortmund,Arminia Bielefeld,3,0,2021-02-27 14:30:00,Ritsu Doan,Pass
+415273,11,BlockedShot,0.8880000305175781,0.575,0.09439309686422348,Fabian Kunze,a,8793,OpenPlay,2020,LeftFoot,15400,Augsburg,Arminia Bielefeld,0,0,2021-04-17 13:30:00,,BallRecovery
+415289,93,MissedShots,0.7530000305175781,0.605,0.013441300019621849,Fabian Kunze,a,8793,SetPiece,2020,LeftFoot,15400,Augsburg,Arminia Bielefeld,0,0,2021-04-17 13:30:00,,None
+426964,3,MissedShots,0.725,0.31,0.009093490429222584,Fabian Kunze,a,8793,SetPiece,2021,RightFoot,17526,Greuther Fuerth,Arminia Bielefeld,1,1,2021-08-21 13:30:00,,None
+428582,20,MissedShots,0.7119999694824218,0.5129999923706055,0.010140599682927132,Fabian Kunze,h,8793,SetPiece,2021,RightFoot,17536,Arminia Bielefeld,Eintracht Frankfurt,1,1,2021-08-28 13:30:00,,None
+437016,86,MissedShots,0.8030000305175782,0.41200000762939454,0.0406653992831707,Fabian Kunze,a,8793,OpenPlay,2021,RightFoot,17580,Augsburg,Arminia Bielefeld,1,1,2021-10-17 15:30:00,,None
+437703,13,BlockedShot,0.7759999847412109,0.5120000076293946,0.035281598567962646,Fabian Kunze,h,8793,FromCorner,2021,RightFoot,17590,Arminia Bielefeld,Borussia Dortmund,1,3,2021-10-23 13:30:00,,Rebound
+447541,21,MissedShots,0.705,0.669000015258789,0.009604640305042267,Fabian Kunze,a,8793,OpenPlay,2021,RightFoot,17645,Hertha Berlin,Arminia Bielefeld,2,0,2021-12-11 14:30:00,,None
+455791,52,SavedShot,0.87,0.615,0.11276499927043915,Fabian Kunze,h,8793,OpenPlay,2021,LeftFoot,17697,Arminia Bielefeld,Borussia M.Gladbach,1,1,2022-02-05 14:30:00,Janni Serra,Pass
+459648,37,MissedShots,0.8040000152587891,0.539000015258789,0.04636450111865997,Fabian Kunze,a,8793,OpenPlay,2021,LeftFoot,17730,Bayer Leverkusen,Arminia Bielefeld,3,0,2022-02-26 14:30:00,Masaya Okugawa,Pass
+459660,61,MissedShots,0.750999984741211,0.36,0.01468919962644577,Fabian Kunze,a,8793,OpenPlay,2021,LeftFoot,17730,Bayer Leverkusen,Arminia Bielefeld,3,0,2022-02-26 14:30:00,Patrick Wimmer,TakeOn
+460738,38,MissedShots,0.7119999694824218,0.4759999847412109,0.01118490006774664,Fabian Kunze,h,8793,OpenPlay,2021,RightFoot,17734,Arminia Bielefeld,Augsburg,0,1,2022-03-04 19:30:00,,None
+466641,59,MissedShots,0.895,0.595999984741211,0.04713449999690056,Fabian Kunze,a,8793,FromCorner,2021,LeftFoot,17774,Wolfsburg,Arminia Bielefeld,4,0,2022-04-09 13:30:00,Robin Hack,Cross
+471491,89,BlockedShot,0.7080000305175781,0.46099998474121096,0.011947199702262878,Fabian Kunze,h,8793,OpenPlay,2021,RightFoot,17795,Arminia Bielefeld,Hertha Berlin,1,1,2022-04-30 13:30:00,,None

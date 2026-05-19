@@ -1,0 +1,30 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+505451,95,SavedShot,0.855,0.4879999923706055,0.06577470153570175,Andreas Hanche-Olsen,h,11309,OpenPlay,2022,LeftFoot,19489,Mainz 05,Borussia Dortmund,1,2,2023-01-25 17:30:00,,BallTouch
+505776,51,MissedShots,0.9290000152587891,0.5479999923706055,0.04898339882493019,Andreas Hanche-Olsen,h,11309,FromCorner,2022,Head,19499,Mainz 05,Bochum,5,2,2023-01-28 14:30:00,Anthony Caci,Aerial
+510446,49,BlockedShot,0.855999984741211,0.2610000038146973,0.03862379863858223,Andreas Hanche-Olsen,a,11309,OpenPlay,2022,RightFoot,19523,Bayer Leverkusen,Mainz 05,2,3,2023-02-19 18:30:00,Karim Onisiwo,Pass
+515844,39,BlockedShot,0.784000015258789,0.25799999237060545,0.015487699769437313,Andreas Hanche-Olsen,h,11309,OpenPlay,2022,RightFoot,19561,Mainz 05,Freiburg,1,1,2023-03-19 18:30:00,Ludovic Ajorque,Pass
+516179,92,MissedShots,0.91,0.415,0.04507569968700409,Andreas Hanche-Olsen,a,11309,FromCorner,2022,Head,19575,RasenBallsport Leipzig,Mainz 05,0,3,2023-04-01 13:30:00,Aarón Martín,Cross
+524411,52,MissedShots,0.935,0.534000015258789,0.1214035153388977,Andreas Hanche-Olsen,h,11309,FromCorner,2022,Head,19615,Mainz 05,Schalke 04,2,3,2023-05-05 18:30:00,Aarón Martín,Cross
+528876,14,Goal,0.965,0.600999984741211,0.05453355610370636,Andreas Hanche-Olsen,a,11309,FromCorner,2022,Head,19639,Borussia Dortmund,Mainz 05,2,2,2023-05-27 13:30:00,Edimilson Fernandes,Cross
+563754,45,MissedShots,0.8780000305175781,0.49,0.13116498291492462,Andreas Hanche-Olsen,h,11309,SetPiece,2023,Head,23257,Mainz 05,Augsburg,1,0,2024-02-17 14:30:00,Nadiem Amiri,Cross
+572296,31,Goal,0.9830000305175781,0.44599998474121094,0.7135198712348938,Andreas Hanche-Olsen,h,11309,SetPiece,2023,RightFoot,23313,Mainz 05,Darmstadt,4,0,2024-04-06 13:30:00,Jae-Sung Lee,Rebound
+573609,41,MissedShots,0.9630000305175781,0.45,0.09584738314151764,Andreas Hanche-Olsen,h,11309,FromCorner,2023,OtherBodyPart,23320,Mainz 05,Hoffenheim,4,1,2024-04-13 13:30:00,Nadiem Amiri,Aerial
+575772,16,MissedShots,0.97,0.39799999237060546,0.05557314679026604,Andreas Hanche-Olsen,a,11309,FromCorner,2023,RightFoot,23328,Freiburg,Mainz 05,1,1,2024-04-21 17:30:00,Nadiem Amiri,Cross
+612761,94,MissedShots,0.9,0.46,0.07631678134202957,Andreas Hanche-Olsen,a,11309,OpenPlay,2024,Head,27901,Union Berlin,Mainz 05,2,1,2025-01-19 14:30:00,Jae-Sung Lee,Cross
+613262,64,BlockedShot,0.935,0.49700000762939456,0.12908044457435608,Andreas Hanche-Olsen,h,11309,FromCorner,2024,Head,27909,Mainz 05,VfB Stuttgart,2,0,2025-01-25 14:30:00,Nadiem Amiri,Cross
+613266,76,MissedShots,0.8909999847412109,0.5029999923706054,0.05466160923242569,Andreas Hanche-Olsen,h,11309,FromCorner,2024,Head,27909,Mainz 05,VfB Stuttgart,2,0,2025-01-25 14:30:00,Nadiem Amiri,Cross
+618369,76,BlockedShot,0.9319999694824219,0.655,0.01125201117247343,Andreas Hanche-Olsen,h,11309,FromCorner,2024,Head,27946,Mainz 05,St. Pauli,2,0,2025-02-22 14:30:00,Nadiem Amiri,Aerial
+620015,73,BlockedShot,0.8669999694824219,0.625999984741211,0.011826696805655956,Andreas Hanche-Olsen,a,11309,FromCorner,2024,Head,27950,RasenBallsport Leipzig,Mainz 05,1,2,2025-03-01 14:30:00,Nadiem Amiri,Cross
+620930,81,MissedShots,0.789000015258789,0.38,0.037553995847702026,Andreas Hanche-Olsen,a,11309,OpenPlay,2024,RightFoot,27965,Borussia M.Gladbach,Mainz 05,1,3,2025-03-07 19:30:00,Kaishu Sano,Pass
+622544,73,Goal,0.914000015258789,0.5429999923706055,0.06815043091773987,Andreas Hanche-Olsen,h,11309,SetPiece,2024,Head,27972,Mainz 05,Freiburg,2,2,2025-03-15 14:30:00,Anthony Caci,Chipped
+628513,78,SavedShot,0.9130000305175782,0.5129999923706055,0.2956179082393646,Andreas Hanche-Olsen,h,11309,FromCorner,2024,Head,28009,Mainz 05,Wolfsburg,2,2,2025-04-19 13:30:00,Nadiem Amiri,Cross
+632242,33,MissedShots,0.92,0.504000015258789,0.05043187364935875,Andreas Hanche-Olsen,h,11309,FromCorner,2024,Head,28026,Mainz 05,Eintracht Frankfurt,1,1,2025-05-04 17:30:00,Nadiem Amiri,Aerial
+632633,41,BlockedShot,0.9019999694824219,0.5990000152587891,0.025080807507038116,Andreas Hanche-Olsen,a,11309,OpenPlay,2024,Head,28037,Bochum,Mainz 05,1,4,2025-05-10 13:30:00,Anthony Caci,CornerAwarded
+634513,3,MissedShots,0.9159999847412109,0.5209999847412109,0.09217457473278046,Andreas Hanche-Olsen,h,11309,FromCorner,2024,RightFoot,28045,Mainz 05,Bayer Leverkusen,2,2,2025-05-17 13:30:00,Nadiem Amiri,Cross
+640812,67,BlockedShot,0.9340000152587891,0.37599998474121094,0.04612107574939728,Andreas Hanche-Olsen,a,11309,FromCorner,2025,RightFoot,30239,Wolfsburg,Mainz 05,1,1,2025-08-31 13:30:00,Nadiem Amiri,Cross
+644629,15,MissedShots,0.9059999847412109,0.5740000152587891,0.022790057584643364,Andreas Hanche-Olsen,h,11309,SetPiece,2025,Head,30262,Mainz 05,Borussia Dortmund,0,2,2025-09-27 13:30:00,Nadiem Amiri,Aerial
+644634,26,SavedShot,0.8680000305175781,0.42700000762939455,0.019307833164930344,Andreas Hanche-Olsen,h,11309,OpenPlay,2025,Head,30262,Mainz 05,Borussia Dortmund,0,2,2025-09-27 13:30:00,Silvan Widmer,Pass
+644639,55,SavedShot,0.9030000305175782,0.5520000076293945,0.05993352830410004,Andreas Hanche-Olsen,h,11309,FromCorner,2025,Head,30262,Mainz 05,Borussia Dortmund,0,2,2025-09-27 13:30:00,Paul Nebel,Cross
+653257,7,OwnGoal,0.15300000190734864,0.42900001525878906,0,Andreas Hanche-Olsen,h,11309,OpenPlay,2025,Head,30319,Mainz 05,Hoffenheim,1,1,2025-11-21 19:30:00,,Aerial
+653280,70,MissedShots,0.9119999694824219,0.485,0.03753495588898659,Andreas Hanche-Olsen,h,11309,FromCorner,2025,Head,30319,Mainz 05,Hoffenheim,1,1,2025-11-21 19:30:00,Nadiem Amiri,Aerial
+655922,80,SavedShot,0.8119999694824219,0.5259999847412109,0.0500621423125267,Andreas Hanche-Olsen,a,11309,OpenPlay,2025,RightFoot,30327,Freiburg,Mainz 05,4,0,2025-11-30 18:30:00,Armindo Sieb,BallTouch

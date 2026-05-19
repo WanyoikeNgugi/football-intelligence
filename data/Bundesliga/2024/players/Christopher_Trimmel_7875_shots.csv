@@ -1,0 +1,67 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+322271,71,SavedShot,0.715,0.3340000152587891,0.007485449779778719,Christopher Trimmel,h,7875,OpenPlay,2019,RightFoot,12448,Union Berlin,Eintracht Frankfurt,1,2,2019-09-27 18:30:00,,None
+333279,39,SavedShot,0.919000015258789,0.295,0.018897200003266335,Christopher Trimmel,a,7875,OpenPlay,2019,RightFoot,12515,Schalke 04,Union Berlin,2,1,2019-11-29 19:30:00,Christopher Lenz,Cross
+363133,73,BlockedShot,0.825,0.3129999923706055,0.03148220106959343,Christopher Trimmel,a,7875,OpenPlay,2019,RightFoot,12641,Hertha Berlin,Union Berlin,4,0,2020-05-22 18:30:00,Sebastian Polter,BallTouch
+364013,56,BlockedShot,0.774000015258789,0.33799999237060546,0.013403999619185925,Christopher Trimmel,h,7875,OpenPlay,2019,RightFoot,12672,Union Berlin,Schalke 04,1,1,2020-06-07 13:30:00,Anthony Ujah,Chipped
+365277,0,SavedShot,0.754000015258789,0.30100000381469727,0.015098599717020988,Christopher Trimmel,a,7875,OpenPlay,2019,RightFoot,12693,Hoffenheim,Union Berlin,4,0,2020-06-20 13:30:00,Yunus Malli,BallTouch
+377406,95,BlockedShot,0.735,0.4540000152587891,0.012177900411188602,Christopher Trimmel,h,7875,SetPiece,2020,RightFoot,14175,Union Berlin,Augsburg,1,3,2020-09-19 13:30:00,,None
+388652,50,SavedShot,0.745999984741211,0.44,0.02123989909887314,Christopher Trimmel,h,7875,OpenPlay,2020,RightFoot,15217,Union Berlin,Eintracht Frankfurt,3,3,2020-11-28 14:30:00,Max Kruse,Pass
+397844,78,MissedShots,0.8430000305175781,0.3120000076293945,0.03739349916577339,Christopher Trimmel,h,7875,OpenPlay,2020,RightFoot,15270,Union Berlin,Wolfsburg,2,2,2021-01-09 14:30:00,,None
+398781,63,MissedShots,0.83,0.37799999237060544,0.05364169925451279,Christopher Trimmel,h,7875,OpenPlay,2020,RightFoot,15280,Union Berlin,Bayer Leverkusen,1,0,2021-01-15 19:30:00,Robert Andrich,Pass
+409904,66,Goal,0.8980000305175782,0.40700000762939453,0.08211889863014221,Christopher Trimmel,h,7875,OpenPlay,2020,RightFoot,15360,Union Berlin,FC Cologne,2,1,2021-03-13 14:30:00,,None
+413282,46,BlockedShot,0.8719999694824219,0.41,0.08193279802799225,Christopher Trimmel,h,7875,OpenPlay,2020,LeftFoot,15379,Union Berlin,Hertha Berlin,1,1,2021-04-04 16:00:00,Robert Andrich,BallTouch
+415265,63,SavedShot,0.7290000152587891,0.4590000152587891,0.02318510040640831,Christopher Trimmel,h,7875,OpenPlay,2020,RightFoot,15398,Union Berlin,VfB Stuttgart,2,1,2021-04-17 13:30:00,Max Kruse,Pass
+423525,68,MissedShots,0.749000015258789,0.4209999847412109,0.017338799312710762,Christopher Trimmel,h,7875,OpenPlay,2020,RightFoot,15442,Union Berlin,RasenBallsport Leipzig,2,1,2021-05-22 13:30:00,Max Kruse,HeadPass
+429219,2,MissedShots,0.905,0.40400001525878904,0.08427999913692474,Christopher Trimmel,h,7875,OpenPlay,2021,LeftFoot,17541,Union Berlin,Borussia M.Gladbach,2,1,2021-08-29 13:30:00,,None
+429729,64,MissedShots,0.7730000305175782,0.3990000152587891,0.020097900182008743,Christopher Trimmel,h,7875,OpenPlay,2021,LeftFoot,17546,Union Berlin,Augsburg,0,0,2021-09-11 13:30:00,,Rebound
+433262,8,MissedShots,0.89,0.46099998474121096,0.06348580121994019,Christopher Trimmel,h,7875,OpenPlay,2021,Head,17562,Union Berlin,Arminia Bielefeld,1,0,2021-09-25 13:30:00,Niko Gießelmann,Cross
+433278,56,MissedShots,0.8669999694824219,0.38599998474121094,0.03792630136013031,Christopher Trimmel,h,7875,OpenPlay,2021,RightFoot,17562,Union Berlin,Arminia Bielefeld,1,0,2021-09-25 13:30:00,Max Kruse,Cross
+433282,68,SavedShot,0.889000015258789,0.47200000762939454,0.041863199323415756,Christopher Trimmel,h,7875,OpenPlay,2021,Head,17562,Union Berlin,Arminia Bielefeld,1,0,2021-09-25 13:30:00,Niko Gießelmann,Chipped
+438480,3,BlockedShot,0.7340000152587891,0.4640000152587891,0.01488369982689619,Christopher Trimmel,a,7875,OpenPlay,2021,LeftFoot,17593,VfB Stuttgart,Union Berlin,1,1,2021-10-24 15:30:00,,None
+438482,15,MissedShots,0.9740000152587891,0.4159999847412109,0.10305999964475632,Christopher Trimmel,a,7875,OpenPlay,2021,RightFoot,17593,VfB Stuttgart,Union Berlin,1,1,2021-10-24 15:30:00,Sheraldo Becker,Cross
+439541,30,BlockedShot,0.919000015258789,0.8030000305175782,0.07402639836072922,Christopher Trimmel,h,7875,DirectFreekick,2021,RightFoot,17602,Union Berlin,Bayern Munich,2,5,2021-10-30 13:30:00,,Standard
+439549,57,SavedShot,0.7280000305175781,0.46900001525878904,0.012976700440049171,Christopher Trimmel,h,7875,OpenPlay,2021,RightFoot,17602,Union Berlin,Bayern Munich,2,5,2021-10-30 13:30:00,,BallTouch
+442815,29,Goal,0.8440000152587891,0.24100000381469727,0.026607999578118324,Christopher Trimmel,h,7875,FromCorner,2021,RightFoot,17621,Union Berlin,Hertha Berlin,2,0,2021-11-20 17:30:00,Niko Gießelmann,Cross
+449447,44,BlockedShot,0.875,0.28200000762939453,0.05247480049729347,Christopher Trimmel,a,7875,OpenPlay,2021,RightFoot,17661,Bochum,Union Berlin,0,1,2021-12-18 14:30:00,Taiwo Awoniyi,Pass
+452162,44,SavedShot,0.735,0.40299999237060546,0.01287280023097992,Christopher Trimmel,a,7875,FromCorner,2021,LeftFoot,17674,Bayer Leverkusen,Union Berlin,2,2,2022-01-08 14:30:00,,Aerial
+466925,41,MissedShots,0.96,0.42900001525878906,0.41589799523353577,Christopher Trimmel,a,7875,OpenPlay,2021,Head,17771,Hertha Berlin,Union Berlin,1,4,2022-04-09 16:30:00,Sheraldo Becker,Cross
+468902,89,MissedShots,0.85,0.46,0.09015840291976929,Christopher Trimmel,h,7875,OpenPlay,2021,LeftFoot,17783,Union Berlin,Eintracht Frankfurt,2,0,2022-04-17 15:30:00,Timo Baumgartl,Cross
+469841,1,MissedShots,0.9880000305175781,0.41400001525878904,0.027218900620937347,Christopher Trimmel,a,7875,OpenPlay,2021,Head,17793,RasenBallsport Leipzig,Union Berlin,1,2,2022-04-23 13:30:00,,Rebound
+469844,37,MissedShots,0.9059999847412109,0.45799999237060546,0.3169049918651581,Christopher Trimmel,a,7875,OpenPlay,2021,RightFoot,17793,RasenBallsport Leipzig,Union Berlin,1,2,2022-04-23 13:30:00,Sheraldo Becker,Chipped
+469846,46,MissedShots,0.7390000152587891,0.30700000762939456,0.014014700427651405,Christopher Trimmel,a,7875,OpenPlay,2021,RightFoot,17793,RasenBallsport Leipzig,Union Berlin,1,2,2022-04-23 13:30:00,Taiwo Awoniyi,BallTouch
+469847,46,ShotOnPost,0.725,0.42700000762939455,0.01710120029747486,Christopher Trimmel,a,7875,FromCorner,2021,RightFoot,17793,RasenBallsport Leipzig,Union Berlin,1,2,2022-04-23 13:30:00,Andras Schafer,BallTouch
+473058,6,MissedShots,0.7959999847412109,0.28200000762939453,0.025168899446725845,Christopher Trimmel,a,7875,FromCorner,2021,RightFoot,17809,Freiburg,Union Berlin,1,4,2022-05-07 13:30:00,Bastian Oczipka,Cross
+473062,29,Goal,0.915,0.5129999923706055,0.3587850034236908,Christopher Trimmel,a,7875,OpenPlay,2021,Head,17809,Freiburg,Union Berlin,1,4,2022-05-07 13:30:00,Sheraldo Becker,Cross
+479125,28,SavedShot,0.9080000305175782,0.3729999923706055,0.026882199570536613,Christopher Trimmel,h,7875,OpenPlay,2022,Head,19343,Union Berlin,Hertha Berlin,3,1,2022-08-06 13:30:00,Janik Haberer,Cross
+485824,31,MissedShots,0.7169999694824218,0.355,0.01342179998755455,Christopher Trimmel,h,7875,OpenPlay,2022,RightFoot,19380,Union Berlin,Bayern Munich,1,1,2022-09-03 13:30:00,,BallTouch
+488014,13,MissedShots,0.9,0.26600000381469724,0.02665109932422638,Christopher Trimmel,a,7875,OpenPlay,2022,RightFoot,19394,FC Cologne,Union Berlin,0,1,2022-09-11 13:30:00,Sheraldo Becker,Cross
+488025,57,ShotOnPost,0.9069999694824219,0.7609999847412109,0.024167099967598915,Christopher Trimmel,a,7875,SetPiece,2022,RightFoot,19394,FC Cologne,Union Berlin,0,1,2022-09-11 13:30:00,Sheraldo Becker,Pass
+489963,28,BlockedShot,0.8719999694824219,0.37900001525878907,0.011713800020515919,Christopher Trimmel,a,7875,FromCorner,2022,Head,19409,Eintracht Frankfurt,Union Berlin,2,0,2022-10-01 13:30:00,Niko Gießelmann,Aerial
+489982,82,MissedShots,0.7709999847412109,0.47900001525878905,0.031459201127290726,Christopher Trimmel,a,7875,OpenPlay,2022,RightFoot,19409,Eintracht Frankfurt,Union Berlin,2,0,2022-10-01 13:30:00,Paul Seguin,Pass
+504556,14,MissedShots,0.8980000305175782,0.42400001525878905,0.03657490015029907,Christopher Trimmel,h,7875,OpenPlay,2022,OtherBodyPart,19479,Union Berlin,Hoffenheim,3,1,2023-01-21 14:30:00,Niko Gießelmann,Aerial
+504568,54,MissedShots,0.884000015258789,0.4329999923706055,0.072604700922966,Christopher Trimmel,h,7875,OpenPlay,2022,RightFoot,19479,Union Berlin,Hoffenheim,3,1,2023-01-21 14:30:00,Sheraldo Becker,Cross
+504573,67,MissedShots,0.9130000305175782,0.3940000152587891,0.023633399978280067,Christopher Trimmel,h,7875,OpenPlay,2022,Head,19479,Union Berlin,Hoffenheim,3,1,2023-01-21 14:30:00,Niko Gießelmann,Aerial
+510257,4,SavedShot,0.9290000152587891,0.455,0.06352870166301727,Christopher Trimmel,h,7875,OpenPlay,2022,Head,19524,Union Berlin,Schalke 04,0,0,2023-02-19 14:30:00,Sven Michel,Aerial
+512078,79,MissedShots,0.855999984741211,0.355,0.055974699556827545,Christopher Trimmel,h,7875,OpenPlay,2022,RightFoot,19542,Union Berlin,FC Cologne,0,0,2023-03-04 14:30:00,Sheraldo Becker,Pass
+524578,93,SavedShot,0.715,0.31,0.00803961232304573,Christopher Trimmel,a,7875,SetPiece,2022,LeftFoot,19618,Augsburg,Union Berlin,1,0,2023-05-06 13:30:00,,Aerial
+525938,19,MissedShots,0.8830000305175781,0.3270000076293945,0.07162649184465408,Christopher Trimmel,h,7875,OpenPlay,2022,RightFoot,19624,Union Berlin,Freiburg,4,2,2023-05-13 13:30:00,Kevin Behrens,Pass
+529107,15,BlockedShot,0.7769999694824219,0.5209999847412109,0.09654190391302109,Christopher Trimmel,h,7875,DirectFreekick,2022,RightFoot,19641,Union Berlin,Werder Bremen,1,0,2023-05-27 13:30:00,,Standard
+545396,0,SavedShot,0.9,0.47,0.1334732621908188,Christopher Trimmel,a,7875,OpenPlay,2023,RightFoot,23142,Werder Bremen,Union Berlin,2,0,2023-10-28 13:30:00,Sheraldo Becker,Pass
+546799,40,SavedShot,0.700999984741211,0.4520000076293945,0.012318440712988377,Christopher Trimmel,h,7875,OpenPlay,2023,RightFoot,23147,Union Berlin,Eintracht Frankfurt,0,3,2023-11-04 14:30:00,Alex Kral,TakeOn
+549660,58,SavedShot,0.885,0.33099998474121095,0.05831347778439522,Christopher Trimmel,h,7875,OpenPlay,2023,LeftFoot,23165,Union Berlin,Augsburg,1,1,2023-11-25 14:30:00,Paul Jäckel,Pass
+560275,46,MissedShots,0.774000015258789,0.385,0.026213092729449272,Christopher Trimmel,h,7875,OpenPlay,2023,RightFoot,23228,Union Berlin,Darmstadt,1,0,2024-01-28 14:30:00,Alex Kral,Pass
+561893,49,BlockedShot,0.860999984741211,0.27,0.01511174626648426,Christopher Trimmel,a,7875,OpenPlay,2023,RightFoot,23237,RasenBallsport Leipzig,Union Berlin,2,0,2024-02-04 16:30:00,Benedict Hollerbach,Cross
+579723,59,SavedShot,0.8590000152587891,0.5309999847412109,0.06909583508968353,Christopher Trimmel,a,7875,OpenPlay,2023,LeftFoot,23358,FC Cologne,Union Berlin,3,2,2024-05-11 13:30:00,Robin Gosens,Cross
+585903,17,BlockedShot,0.805,0.25799999237060545,0.015669425949454308,Christopher Trimmel,a,7875,OpenPlay,2024,LeftFoot,27747,Mainz 05,Union Berlin,1,1,2024-08-24 13:30:00,,None
+597589,33,MissedShots,0.895,0.2510000038146973,0.049024902284145355,Christopher Trimmel,a,7875,OpenPlay,2024,RightFoot,27804,Holstein Kiel,Union Berlin,0,2,2024-10-20 13:30:00,,None
+597592,45,SavedShot,0.7659999847412109,0.4420000076293945,0.040229152888059616,Christopher Trimmel,a,7875,OpenPlay,2024,LeftFoot,27804,Holstein Kiel,Union Berlin,0,2,2024-10-20 13:30:00,Benedict Hollerbach,Tackle
+597599,72,MissedShots,0.805,0.2979999923706055,0.031860947608947754,Christopher Trimmel,a,7875,OpenPlay,2024,RightFoot,27804,Holstein Kiel,Union Berlin,0,2,2024-10-20 13:30:00,Woo-Yeong Jeong,Pass
+599040,15,BlockedShot,0.92,0.365,0.021205538883805275,Christopher Trimmel,h,7875,OpenPlay,2024,Head,27811,Union Berlin,Eintracht Frankfurt,1,1,2024-10-27 16:30:00,Benedict Hollerbach,CornerAwarded
+599053,49,ShotOnPost,0.7519999694824219,0.5,0.011166923679411411,Christopher Trimmel,h,7875,OpenPlay,2024,RightFoot,27811,Union Berlin,Eintracht Frankfurt,1,1,2024-10-27 16:30:00,,Aerial
+601163,49,SavedShot,0.7559999847412109,0.7140000152587891,0.010249020531773567,Christopher Trimmel,h,7875,SetPiece,2024,RightFoot,27829,Union Berlin,Freiburg,0,0,2024-11-08 19:30:00,,None
+631312,19,MissedShots,0.7290000152587891,0.28600000381469726,0.01439088024199009,Christopher Trimmel,h,7875,SetPiece,2024,RightFoot,28028,Union Berlin,Werder Bremen,2,2,2025-05-03 13:30:00,Benedict Hollerbach,Pass
+632658,18,SavedShot,0.9180000305175782,0.2989999961853027,0.02050088904798031,Christopher Trimmel,h,7875,FromCorner,2024,RightFoot,28036,Union Berlin,FC Heidenheim,0,3,2025-05-10 13:30:00,,Aerial
+640960,5,MissedShots,0.7530000305175781,0.25799999237060545,0.012812618166208267,Christopher Trimmel,a,7875,OpenPlay,2025,RightFoot,30240,Borussia Dortmund,Union Berlin,3,0,2025-08-31 15:30:00,Ilyas Ansah,Pass
+648571,23,BlockedShot,0.715,0.3270000076293945,0.013131242245435715,Christopher Trimmel,a,7875,SetPiece,2025,RightFoot,30295,Werder Bremen,Union Berlin,1,0,2025-10-24 18:30:00,Rani Khedira,Pass
+656828,58,BlockedShot,0.7959999847412109,0.225,0.01723918318748474,Christopher Trimmel,a,7875,FromCorner,2025,RightFoot,30333,Wolfsburg,Union Berlin,3,1,2025-12-06 14:30:00,,Rebound
+679087,83,BlockedShot,0.7369999694824219,0.36,0.012454628013074398,Christopher Trimmel,h,7875,OpenPlay,2025,RightFoot,30492,Union Berlin,Wolfsburg,1,2,2026-04-18 13:30:00,Tim Skarke,Pass

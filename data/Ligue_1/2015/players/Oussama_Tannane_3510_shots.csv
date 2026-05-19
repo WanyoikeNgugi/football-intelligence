@@ -1,0 +1,71 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+69244,2,SavedShot,0.7069999694824218,0.5570000076293945,0.041355401277542114,Oussama Tannane,a,3510,DirectFreekick,2015,LeftFoot,2117,Bordeaux,Saint-Etienne,1,4,2016-02-07 20:00:00,,Standard
+69247,6,Goal,0.9,0.355,0.3007049858570099,Oussama Tannane,a,3510,OpenPlay,2015,RightFoot,2117,Bordeaux,Saint-Etienne,1,4,2016-02-07 20:00:00,Benjamin Corgnet,Chipped
+69436,18,MissedShots,0.7469999694824219,0.37,0.02192709967494011,Oussama Tannane,h,3510,OpenPlay,2015,RightFoot,2127,Saint-Etienne,Monaco,1,1,2016-02-14 20:00:00,Kévin Monnet-Paquet,Pass
+69439,27,BlockedShot,0.7630000305175781,0.7080000305175781,0.04921310022473335,Oussama Tannane,h,3510,DirectFreekick,2015,LeftFoot,2127,Saint-Etienne,Monaco,1,1,2016-02-14 20:00:00,,Standard
+69445,42,SavedShot,0.899000015258789,0.700999984741211,0.05083309859037399,Oussama Tannane,h,3510,OpenPlay,2015,LeftFoot,2127,Saint-Etienne,Monaco,1,1,2016-02-14 20:00:00,Vincent Pajot,Pass
+69446,46,SavedShot,0.7559999847412109,0.3240000152587891,0.02001810073852539,Oussama Tannane,h,3510,OpenPlay,2015,LeftFoot,2127,Saint-Etienne,Monaco,1,1,2016-02-14 20:00:00,Vincent Pajot,Pass
+69829,8,BlockedShot,0.7680000305175781,0.63,0.014840899966657162,Oussama Tannane,a,3510,SetPiece,2015,LeftFoot,2135,Marseille,Saint-Etienne,1,1,2016-02-21 17:00:00,,None
+69831,27,BlockedShot,0.7580000305175781,0.27899999618530275,0.04493580013513565,Oussama Tannane,a,3510,DirectFreekick,2015,LeftFoot,2135,Marseille,Saint-Etienne,1,1,2016-02-21 17:00:00,,Standard
+69940,28,MissedShots,0.91,0.28700000762939454,0.04624389857053757,Oussama Tannane,h,3510,OpenPlay,2015,LeftFoot,2145,Saint-Etienne,Caen,1,2,2016-02-28 20:00:00,Alexander Søderlund,Pass
+69945,53,MissedShots,0.9269999694824219,0.37,0.0224418006837368,Oussama Tannane,h,3510,OpenPlay,2015,Head,2145,Saint-Etienne,Caen,1,2,2016-02-28 20:00:00,Kévin Théophile-Catherine,Aerial
+67201,10,SavedShot,0.8080000305175781,0.42700000762939455,0.04569770023226738,Oussama Tannane,a,3510,OpenPlay,2015,LeftFoot,2162,Guingamp,Saint-Etienne,2,0,2016-03-12 23:00:00,Vincent Pajot,Pass
+66953,79,Goal,0.9359999847412109,0.5179999923706055,0.5853829979896545,Oussama Tannane,h,3510,SetPiece,2015,RightFoot,2170,Saint-Etienne,Montpellier,3,0,2016-03-19 20:00:00,Nolan Roux,Pass
+67611,38,SavedShot,0.735999984741211,0.68,0.009892879985272884,Oussama Tannane,h,3510,OpenPlay,2015,LeftFoot,2192,Saint-Etienne,Troyes,1,0,2016-04-09 22:00:00,Benoit Assou-Ekotto,TakeOn
+67622,80,BlockedShot,0.845999984741211,0.67,0.055309098213911057,Oussama Tannane,h,3510,OpenPlay,2015,RightFoot,2192,Saint-Etienne,Troyes,1,0,2016-04-09 22:00:00,Valentin Eysseric,Chipped
+67626,90,MissedShots,0.9569999694824218,0.46599998474121096,0.6385629773139954,Oussama Tannane,h,3510,OpenPlay,2015,LeftFoot,2192,Saint-Etienne,Troyes,1,0,2016-04-09 22:00:00,Nolan Roux,Pass
+68184,12,SavedShot,0.825999984741211,0.7769999694824219,0.017715400084853172,Oussama Tannane,a,3510,OpenPlay,2015,LeftFoot,2201,SC Bastia,Saint-Etienne,0,1,2016-04-16 22:00:00,Renaud Cohade,TakeOn
+68335,33,MissedShots,0.7269999694824218,0.7419999694824219,0.017247499898076057,Oussama Tannane,h,3510,OpenPlay,2015,RightFoot,2213,Saint-Etienne,Lorient,2,0,2016-04-24 19:00:00,Benoit Assou-Ekotto,Pass
+68336,40,SavedShot,0.7269999694824218,0.62,0.01824359968304634,Oussama Tannane,h,3510,OpenPlay,2015,LeftFoot,2213,Saint-Etienne,Lorient,2,0,2016-04-24 19:00:00,Renaud Cohade,Pass
+68339,50,BlockedShot,0.7780000305175782,0.6270000076293946,0.02587210014462471,Oussama Tannane,h,3510,OpenPlay,2015,LeftFoot,2213,Saint-Etienne,Lorient,2,0,2016-04-24 19:00:00,Fabien Lemoine,Pass
+68344,69,SavedShot,0.8680000305175781,0.7030000305175781,0.039486899971961975,Oussama Tannane,h,3510,OpenPlay,2015,RightFoot,2213,Saint-Etienne,Lorient,2,0,2016-04-24 19:00:00,Romain Hamouma,Pass
+102945,6,SavedShot,0.8440000152587891,0.7019999694824218,0.03618450090289116,Oussama Tannane,a,3510,FromCorner,2016,RightFoot,2251,Bordeaux,Saint-Etienne,3,2,2016-08-13 19:00:00,Cheikh M&#039;Bengue,TakeOn
+102948,19,SavedShot,0.8969999694824219,0.285,0.021427199244499207,Oussama Tannane,a,3510,OpenPlay,2016,LeftFoot,2251,Bordeaux,Saint-Etienne,3,2,2016-08-13 19:00:00,Pierre-Yves Polomat,Cross
+102959,58,BlockedShot,0.855999984741211,0.23399999618530273,0.024669500067830086,Oussama Tannane,a,3510,OpenPlay,2016,LeftFoot,2251,Bordeaux,Saint-Etienne,3,2,2016-08-13 19:00:00,Vincent Pajot,Pass
+103151,19,MissedShots,0.88,0.14,0.04642929881811142,Oussama Tannane,h,3510,DirectFreekick,2016,LeftFoot,2267,Saint-Etienne,Montpellier,3,1,2016-08-21 19:00:00,,Standard
+103165,63,SavedShot,0.81,0.14600000381469727,0.03574930131435394,Oussama Tannane,h,3510,DirectFreekick,2016,LeftFoot,2267,Saint-Etienne,Montpellier,3,1,2016-08-21 19:00:00,,Standard
+103433,18,SavedShot,0.805,0.6990000152587891,0.025366399437189102,Oussama Tannane,h,3510,OpenPlay,2016,LeftFoot,2277,Saint-Etienne,Toulouse,0,0,2016-08-28 19:00:00,Kévin Monnet-Paquet,Pass
+103448,80,BlockedShot,0.86,0.7730000305175782,0.03533979877829552,Oussama Tannane,h,3510,FromCorner,2016,RightFoot,2277,Saint-Etienne,Toulouse,0,0,2016-08-28 19:00:00,Florentin Pogba,Pass
+103453,93,SavedShot,0.794000015258789,0.4929999923706055,0.04530030116438866,Oussama Tannane,h,3510,OpenPlay,2016,LeftFoot,2277,Saint-Etienne,Toulouse,0,0,2016-08-28 19:00:00,Jordan Veretout,Pass
+103778,6,MissedShots,0.9169999694824219,0.345,0.06523620337247849,Oussama Tannane,h,3510,SetPiece,2016,RightFoot,2297,Saint-Etienne,SC Bastia,1,0,2016-09-18 19:00:00,Vincent Pajot,BallTouch
+103782,23,MissedShots,0.7140000152587891,0.505,0.04559339955449104,Oussama Tannane,h,3510,DirectFreekick,2016,LeftFoot,2297,Saint-Etienne,SC Bastia,1,0,2016-09-18 19:00:00,,Standard
+104572,29,MissedShots,0.7080000305175781,0.33099998474121095,0.034805599600076675,Oussama Tannane,a,3510,DirectFreekick,2016,LeftFoot,2303,Nantes,Saint-Etienne,0,0,2016-09-21 21:00:00,,Standard
+104582,61,BlockedShot,0.8069999694824219,0.4909999847412109,0.02962319925427437,Oussama Tannane,a,3510,OpenPlay,2016,LeftFoot,2303,Nantes,Saint-Etienne,0,0,2016-09-21 21:00:00,Romain Hamouma,Cross
+104586,75,MissedShots,0.7280000305175781,0.655,0.017821699380874634,Oussama Tannane,a,3510,OpenPlay,2016,RightFoot,2303,Nantes,Saint-Etienne,0,0,2016-09-21 21:00:00,Ronael Pierre Gabriel,Pass
+104480,80,MissedShots,0.8159999847412109,0.38599998474121094,0.04339560121297836,Oussama Tannane,a,3510,OpenPlay,2016,LeftFoot,2328,Lyon,Saint-Etienne,2,0,2016-10-02 22:45:00,Kevin Malcuit,Pass
+104789,24,MissedShots,0.8590000152587891,0.4779999923706055,0.06337159872055054,Oussama Tannane,h,3510,OpenPlay,2016,LeftFoot,2337,Saint-Etienne,Dijon,1,1,2016-10-16 19:00:00,Cheikh M&#039;Bengue,Cross
+104796,41,MissedShots,0.865999984741211,0.634000015258789,0.07476239651441574,Oussama Tannane,h,3510,OpenPlay,2016,LeftFoot,2337,Saint-Etienne,Dijon,1,1,2016-10-16 19:00:00,Alexander Søderlund,LayOff
+105116,17,MissedShots,0.879000015258789,0.3139999961853027,0.04598909988999367,Oussama Tannane,a,3510,SetPiece,2016,LeftFoot,2346,Caen,Saint-Etienne,0,2,2016-10-23 17:00:00,Jordan Veretout,Pass
+105122,50,BlockedShot,0.9019999694824219,0.7240000152587891,0.05730760097503662,Oussama Tannane,a,3510,OpenPlay,2016,LeftFoot,2346,Caen,Saint-Etienne,0,2,2016-10-23 17:00:00,Kévin Monnet-Paquet,Pass
+105127,63,BlockedShot,0.82,0.3129999923706055,0.08990930020809174,Oussama Tannane,a,3510,DirectFreekick,2016,LeftFoot,2346,Caen,Saint-Etienne,0,2,2016-10-23 17:00:00,,Standard
+105132,83,SavedShot,0.8930000305175781,0.5379999923706055,0.13274699449539185,Oussama Tannane,a,3510,OpenPlay,2016,LeftFoot,2346,Caen,Saint-Etienne,0,2,2016-10-23 17:00:00,Kévin Monnet-Paquet,Cross
+105273,42,SavedShot,0.7519999694824219,0.32799999237060545,0.02101599983870983,Oussama Tannane,h,3510,OpenPlay,2016,LeftFoot,3323,Saint-Etienne,Monaco,1,1,2016-10-29 22:00:00,Jordan Veretout,Pass
+105277,73,BlockedShot,0.749000015258789,0.565,0.02104480005800724,Oussama Tannane,h,3510,OpenPlay,2016,LeftFoot,3323,Saint-Etienne,Monaco,1,1,2016-10-29 22:00:00,,TakeOn
+105568,3,SavedShot,0.6969999694824218,0.415,0.036601901054382324,Oussama Tannane,a,3510,DirectFreekick,2016,LeftFoot,2841,Metz,Saint-Etienne,0,0,2016-11-06 20:00:00,,Standard
+106573,77,Goal,0.8880000305175781,0.3509999847412109,0.10058099776506424,Oussama Tannane,a,3510,OpenPlay,2016,RightFoot,2860,Angers,Saint-Etienne,1,2,2016-11-27 18:00:00,Kevin Malcuit,TakeOn
+107307,4,SavedShot,0.7709999847412109,0.4620000076293945,0.027491899207234383,Oussama Tannane,h,3510,OpenPlay,2016,LeftFoot,2871,Saint-Etienne,Marseille,0,0,2016-11-30 22:00:00,,None
+107314,42,BlockedShot,0.8859999847412109,0.33799999237060546,0.0978361964225769,Oussama Tannane,h,3510,OpenPlay,2016,LeftFoot,2871,Saint-Etienne,Marseille,0,0,2016-11-30 22:00:00,Henri Saivet,TakeOn
+107316,55,SavedShot,0.8140000152587891,0.25,0.02161549963057041,Oussama Tannane,h,3510,OpenPlay,2016,LeftFoot,2871,Saint-Etienne,Marseille,0,0,2016-11-30 22:00:00,Kévin Monnet-Paquet,Pass
+106281,10,BlockedShot,0.935,0.3029999923706055,0.07923279702663422,Oussama Tannane,a,3510,OpenPlay,2016,LeftFoot,3236,Rennes,Saint-Etienne,2,0,2016-12-04 18:00:00,Nolan Roux,TakeOn
+106893,7,MissedShots,0.7380000305175781,0.47,0.058625999838113785,Oussama Tannane,h,3510,DirectFreekick,2016,LeftFoot,3247,Saint-Etienne,Guingamp,1,0,2016-12-11 20:00:00,,Standard
+111218,81,MissedShots,0.750999984741211,0.4370000076293945,0.0464308001101017,Oussama Tannane,a,3510,OpenPlay,2016,LeftFoot,4237,Marseille,Saint-Etienne,4,0,2017-04-16 20:00:00,Romain Hamouma,Pass
+161844,6,SavedShot,0.9080000305175782,0.2620000076293945,0.04837710037827492,Oussama Tannane,h,3510,OpenPlay,2017,LeftFoot,8569,Saint-Etienne,Nice,1,0,2017-08-05 19:00:00,Romain Hamouma,Chipped
+162058,5,BlockedShot,0.8230000305175781,0.4779999923706055,0.07236570119857788,Oussama Tannane,a,3510,OpenPlay,2017,LeftFoot,8580,Caen,Saint-Etienne,0,1,2017-08-12 19:00:00,Bryan Dabo,Pass
+162061,13,SavedShot,0.9369999694824219,0.5179999923706055,0.5934230089187622,Oussama Tannane,a,3510,OpenPlay,2017,LeftFoot,8580,Caen,Saint-Etienne,0,1,2017-08-12 19:00:00,,Rebound
+162060,13,SavedShot,0.8680000305175781,0.47400001525878904,0.03277929872274399,Oussama Tannane,a,3510,OpenPlay,2017,Head,8580,Caen,Saint-Etienne,0,1,2017-08-12 19:00:00,Romain Hamouma,Cross
+169750,19,MissedShots,0.9059999847412109,0.32099998474121094,0.05612190067768097,Oussama Tannane,a,3510,OpenPlay,2017,RightFoot,7907,Malaga,Las Palmas,1,3,2017-09-11 20:00:00,Jonathan Viera,Pass
+169764,74,SavedShot,0.855,0.37900001525878907,0.0757514014840126,Oussama Tannane,a,3510,OpenPlay,2017,LeftFoot,7907,Malaga,Las Palmas,1,3,2017-09-11 20:00:00,Jonathan Viera,Pass
+170011,82,ShotOnPost,0.759000015258789,0.4129999923706055,0.039605800062417984,Oussama Tannane,h,3510,OpenPlay,2017,LeftFoot,7917,Las Palmas,Athletic Club,1,0,2017-09-17 17:30:00,Loïc Remy,Pass
+170603,51,SavedShot,0.6880000305175781,0.475,0.038493700325489044,Oussama Tannane,h,3510,DirectFreekick,2017,LeftFoot,7936,Las Palmas,Leganes,0,2,2017-09-24 17:30:00,,Standard
+171042,24,SavedShot,0.7140000152587891,0.29399999618530276,0.017099399119615555,Oussama Tannane,a,3510,OpenPlay,2017,LeftFoot,7945,Barcelona,Las Palmas,3,0,2017-10-01 15:15:00,Tana,Pass
+171056,49,MissedShots,0.845,0.35200000762939454,0.03652400150895119,Oussama Tannane,a,3510,OpenPlay,2017,LeftFoot,7945,Barcelona,Las Palmas,3,0,2017-10-01 15:15:00,Jonathan Viera,Pass
+171067,84,MissedShots,0.8859999847412109,0.345,0.06283629685640335,Oussama Tannane,a,3510,OpenPlay,2017,RightFoot,7945,Barcelona,Las Palmas,3,0,2017-10-01 15:15:00,Jonathan Viera,Pass
+170629,54,BlockedShot,0.8919999694824219,0.565,0.07411409914493561,Oussama Tannane,h,3510,SetPiece,2017,LeftFoot,7956,Las Palmas,Celta Vigo,2,5,2017-10-16 20:00:00,,None
+170630,54,MissedShots,0.7369999694824219,0.18600000381469728,0.018523400649428368,Oussama Tannane,h,3510,FromCorner,2017,LeftFoot,7956,Las Palmas,Celta Vigo,2,5,2017-10-16 20:00:00,Jonathan Viera,Pass
+179889,42,SavedShot,0.7569999694824219,0.24100000381469727,0.042286500334739685,Oussama Tannane,a,3510,DirectFreekick,2017,LeftFoot,8021,Alaves,Las Palmas,2,0,2017-12-08 20:00:00,,Standard
+184310,68,MissedShots,0.7090000152587891,0.20700000762939452,0.007262890227138996,Oussama Tannane,h,3510,OpenPlay,2017,LeftFoot,8033,Las Palmas,Espanyol,2,2,2017-12-17 17:30:00,Jonathan Calleri,BallRecovery
+184317,93,SavedShot,0.7030000305175781,0.585,0.011911099776625633,Oussama Tannane,h,3510,OpenPlay,2017,LeftFoot,8033,Las Palmas,Espanyol,2,2,2017-12-17 17:30:00,Mauricio Lemos,HeadPass
+184381,56,MissedShots,0.7730000305175782,0.25,0.04934839904308319,Oussama Tannane,a,3510,DirectFreekick,2017,LeftFoot,8040,Getafe,Las Palmas,2,0,2017-12-20 18:30:00,,Standard
+207266,73,SavedShot,0.8669999694824219,0.40900001525878904,0.3566490113735199,Oussama Tannane,h,3510,OpenPlay,2017,RightFoot,8882,Saint-Etienne,Paris Saint Germain,1,1,2018-04-06 18:45:00,Rémy Cabella,Throughball
+216267,63,SavedShot,0.8440000152587891,0.3029999923706055,0.04352070018649101,Oussama Tannane,h,3510,OpenPlay,2017,LeftFoot,8941,Saint-Etienne,Lille,5,0,2018-05-19 19:00:00,Jonathan Bamba,Pass
+216269,70,SavedShot,0.7980000305175782,0.3240000152587891,0.040372200310230255,Oussama Tannane,h,3510,OpenPlay,2017,RightFoot,8941,Saint-Etienne,Lille,5,0,2018-05-19 19:00:00,Paul-Georges Ntep,Pass

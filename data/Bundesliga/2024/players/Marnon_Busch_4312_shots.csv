@@ -1,0 +1,35 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+25465,71,SavedShot,0.91,0.265,0.03134649991989136,Marnon Busch,h,4312,OpenPlay,2014,RightFoot,5431,Werder Bremen,Schalke 04,0,3,2014-09-23 19:00:00,Fin Bartels,Pass
+25522,14,BlockedShot,0.7619999694824219,0.7380000305175781,0.017309699207544327,Marnon Busch,a,4312,FromCorner,2014,RightFoot,5444,Wolfsburg,Werder Bremen,2,1,2014-09-27 17:30:00,Zlatko Junuzovic,Pass
+25529,36,Goal,0.8669999694824219,0.285,0.0576229989528656,Marnon Busch,a,4312,OpenPlay,2014,RightFoot,5444,Wolfsburg,Werder Bremen,2,1,2014-09-27 17:30:00,Fin Bartels,LayOff
+31142,44,MissedShots,0.8980000305175782,0.35200000762939454,0.08186700195074081,Marnon Busch,a,4312,OpenPlay,2014,RightFoot,5193,Borussia Dortmund,Werder Bremen,3,2,2015-05-23 14:30:00,Levin Öztunali,Pass
+533090,29,MissedShots,0.789000015258789,0.5690000152587891,0.025575442239642143,Marnon Busch,a,4312,FromCorner,2023,RightFoot,23067,Wolfsburg,FC Heidenheim,2,0,2023-08-19 13:30:00,,None
+545326,74,SavedShot,0.749000015258789,0.37099998474121093,0.020165467634797096,Marnon Busch,a,4312,OpenPlay,2023,RightFoot,23141,Borussia M.Gladbach,FC Heidenheim,2,1,2023-10-28 13:30:00,Lennard Maloney,Pass
+550421,92,MissedShots,0.77,0.445,0.020950108766555786,Marnon Busch,h,4312,FromCorner,2023,RightFoot,23172,FC Heidenheim,Bochum,0,0,2023-11-26 14:30:00,,None
+555684,5,MissedShots,0.8019999694824219,0.20100000381469726,0.04509670287370682,Marnon Busch,h,4312,DirectFreekick,2023,RightFoot,23208,FC Heidenheim,Freiburg,3,2,2023-12-20 19:30:00,,Standard
+558021,41,MissedShots,0.8159999847412109,0.44,0.018300509080290794,Marnon Busch,a,4312,SetPiece,2023,RightFoot,23214,FC Cologne,FC Heidenheim,1,1,2024-01-13 14:30:00,,Aerial
+593994,44,BlockedShot,0.749000015258789,0.2979999923706055,0.02317524515092373,Marnon Busch,a,4312,OpenPlay,2024,RightFoot,27781,Mainz 05,FC Heidenheim,0,2,2024-09-28 13:30:00,Jan Schöppner,Pass
+596175,5,BlockedShot,0.6569999694824219,0.524000015258789,0.013342544436454773,Marnon Busch,h,4312,SetPiece,2024,RightFoot,27788,FC Heidenheim,RasenBallsport Leipzig,0,1,2024-10-06 13:30:00,Paul Wanner,Pass
+596843,31,BlockedShot,0.72,0.3870000076293945,0.009941806085407734,Marnon Busch,a,4312,SetPiece,2024,RightFoot,27803,Borussia M.Gladbach,FC Heidenheim,3,2,2024-10-19 13:30:00,,None
+596853,57,BlockedShot,0.715999984741211,0.7269999694824218,0.03276262432336807,Marnon Busch,a,4312,DirectFreekick,2024,RightFoot,27803,Borussia M.Gladbach,FC Heidenheim,3,2,2024-10-19 13:30:00,,Standard
+607548,86,BlockedShot,0.8919999694824219,0.30100000381469727,0.04928417503833771,Marnon Busch,h,4312,OpenPlay,2024,RightFoot,27861,FC Heidenheim,VfB Stuttgart,1,3,2024-12-15 14:30:00,,BallTouch
+610649,73,SavedShot,0.76,0.4620000076293945,0.03167639300227165,Marnon Busch,h,4312,OpenPlay,2024,RightFoot,27880,FC Heidenheim,Union Berlin,2,0,2025-01-11 14:30:00,Budu Zivzivadze,Pass
+613232,75,MissedShots,0.8009999847412109,0.3609999847412109,0.023069484159350395,Marnon Busch,a,4312,SetPiece,2024,RightFoot,27911,Augsburg,FC Heidenheim,2,1,2025-01-25 14:30:00,,None
+616064,38,SavedShot,0.715999984741211,0.735999984741211,0.013345900923013687,Marnon Busch,a,4312,OpenPlay,2024,RightFoot,27926,Freiburg,FC Heidenheim,1,0,2025-02-08 14:30:00,Patrick Mainka,Pass
+618962,78,MissedShots,0.78,0.4,0.04359869286417961,Marnon Busch,a,4312,OpenPlay,2024,RightFoot,27941,RasenBallsport Leipzig,FC Heidenheim,2,2,2025-02-23 14:30:00,Jonas Föhrenbach,Pass
+622039,16,MissedShots,0.799000015258789,0.6759999847412109,0.027201101183891296,Marnon Busch,a,4312,OpenPlay,2024,RightFoot,27962,Hoffenheim,FC Heidenheim,1,1,2025-03-09 16:30:00,Jan Schöppner,Pass
+623545,32,MissedShots,0.8159999847412109,0.47900001525878905,0.05189346522092819,Marnon Busch,h,4312,OpenPlay,2024,RightFoot,27969,FC Heidenheim,Holstein Kiel,3,1,2025-03-16 16:30:00,Budu Zivzivadze,Pass
+627895,31,MissedShots,0.730999984741211,0.515,0.015477183274924755,Marnon Busch,a,4312,OpenPlay,2024,LeftFoot,27997,Eintracht Frankfurt,FC Heidenheim,3,0,2025-04-13 15:30:00,,None
+627908,62,SavedShot,0.8009999847412109,0.7180000305175781,0.022074615582823753,Marnon Busch,a,4312,FromCorner,2024,RightFoot,27997,Eintracht Frankfurt,FC Heidenheim,3,0,2025-04-13 15:30:00,Paul Wanner,Pass
+644663,96,SavedShot,0.7930000305175782,0.34799999237060547,0.02883836068212986,Marnon Busch,h,4312,OpenPlay,2025,RightFoot,30261,FC Heidenheim,Augsburg,2,1,2025-09-27 13:30:00,Luca Kerber,Pass
+647449,74,BlockedShot,0.8440000152587891,0.3370000076293945,0.046116553246974945,Marnon Busch,h,4312,OpenPlay,2025,RightFoot,30281,FC Heidenheim,Werder Bremen,2,2,2025-10-18 13:30:00,Niklas Dorsch,Pass
+648805,66,MissedShots,0.93,0.44,0.26767656207084656,Marnon Busch,a,4312,OpenPlay,2025,RightFoot,30293,Hoffenheim,FC Heidenheim,3,1,2025-10-25 13:30:00,Stefan Schimmer,Cross
+658085,90,BlockedShot,0.6869999694824219,0.46599998474121096,0.013913317583501339,Marnon Busch,a,4312,OpenPlay,2025,RightFoot,30347,St. Pauli,FC Heidenheim,2,1,2025-12-13 14:30:00,Jonas Föhrenbach,Pass
+663397,19,MissedShots,0.7959999847412109,0.3729999923706055,0.02738177962601185,Marnon Busch,a,4312,OpenPlay,2025,RightFoot,30385,Wolfsburg,FC Heidenheim,1,1,2026-01-17 14:30:00,Arijon Ibrahimovic,Pass
+669106,8,MissedShots,0.69,0.35400001525878905,0.011746210977435112,Marnon Busch,a,4312,OpenPlay,2025,RightFoot,30413,Augsburg,FC Heidenheim,1,0,2026-02-15 14:30:00,Hennes Behrens,Pass
+676556,63,Goal,0.8619999694824219,0.395,0.06389600038528442,Marnon Busch,a,4312,OpenPlay,2025,LeftFoot,30468,Borussia M.Gladbach,FC Heidenheim,2,2,2026-04-04 13:30:00,,Rebound
+676564,84,BlockedShot,0.785,0.27600000381469725,0.01896403543651104,Marnon Busch,a,4312,OpenPlay,2025,RightFoot,30468,Borussia M.Gladbach,FC Heidenheim,2,2,2026-04-04 13:30:00,Julian Niehues,Pass
+677783,17,MissedShots,0.8159999847412109,0.4590000152587891,0.07431598752737045,Marnon Busch,h,4312,OpenPlay,2025,LeftFoot,30479,FC Heidenheim,Union Berlin,3,1,2026-04-11 13:30:00,Julian Niehues,Pass
+679669,94,MissedShots,0.7830000305175782,0.35400001525878905,0.07683981955051422,Marnon Busch,a,4312,DirectFreekick,2025,RightFoot,30489,Freiburg,FC Heidenheim,2,1,2026-04-19 13:30:00,,Standard
+680923,94,SavedShot,0.8690000152587891,0.5370000076293945,0.13088847696781158,Marnon Busch,h,4312,OpenPlay,2025,LeftFoot,30498,FC Heidenheim,St. Pauli,2,0,2026-04-25 13:30:00,,None
+682173,12,BlockedShot,0.8959999847412109,0.2589999961853027,0.03638174384832382,Marnon Busch,a,4312,OpenPlay,2025,RightFoot,30504,Bayern Munich,FC Heidenheim,3,3,2026-05-02 13:30:00,Jan Schöppner,Pass

@@ -1,0 +1,29 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+82544,87,MissedShots,0.9230000305175782,0.524000015258789,0.10786700248718262,Lukas Klünter,a,403,FromCorner,2015,Head,1272,Hoffenheim,FC Cologne,1,1,2016-04-03 19:30:00,Leonardo Bittencourt,Cross
+132896,31,MissedShots,0.755,0.3509999847412109,0.024113500490784645,Lukas Klünter,a,403,OpenPlay,2016,LeftFoot,3866,Bayer Leverkusen,FC Cologne,2,2,2017-05-13 14:30:00,Anthony Modeste,Pass
+132906,48,Goal,0.855,0.38,0.10603100061416626,Lukas Klünter,a,403,OpenPlay,2016,RightFoot,3866,Bayer Leverkusen,FC Cologne,2,2,2017-05-13 14:30:00,Milos Jojic,TakeOn
+165886,82,MissedShots,0.8780000305175781,0.33099998474121095,0.05710599943995476,Lukas Klünter,a,403,OpenPlay,2017,LeftFoot,8267,Borussia M.Gladbach,FC Cologne,1,0,2017-08-20 17:00:00,Jonas Hector,Pass
+166523,78,SavedShot,0.935,0.34700000762939454,0.2350970059633255,Lukas Klünter,a,403,OpenPlay,2017,RightFoot,8294,Borussia Dortmund,FC Cologne,5,0,2017-09-17 17:00:00,Milos Jojic,HeadPass
+166831,77,BlockedShot,0.78,0.40299999237060546,0.02752709947526455,Lukas Klünter,h,403,OpenPlay,2017,RightFoot,8299,FC Cologne,Eintracht Frankfurt,0,1,2017-09-20 17:30:00,,None
+166840,55,MissedShots,0.8969999694824219,0.415,0.3875260055065155,Lukas Klünter,a,403,OpenPlay,2017,LeftFoot,8311,Hannover 96,FC Cologne,0,0,2017-09-24 14:30:00,Salih Özcan,Throughball
+166929,1,MissedShots,0.7659999847412109,0.46599998474121096,0.02295989915728569,Lukas Klünter,h,403,FromCorner,2017,LeftFoot,8313,FC Cologne,RasenBallsport Leipzig,1,2,2017-10-01 17:00:00,,Dispossessed
+167931,9,BlockedShot,0.759000015258789,0.265,0.01126949954777956,Lukas Klünter,a,403,OpenPlay,2017,LeftFoot,8330,VfB Stuttgart,FC Cologne,2,1,2017-10-13 19:30:00,Matthias Lehmann,Chipped
+168059,85,BlockedShot,0.7619999694824219,0.40200000762939453,0.01808849908411503,Lukas Klünter,h,403,FromCorner,2017,LeftFoot,8332,FC Cologne,Werder Bremen,0,0,2017-10-22 12:30:00,,None
+168061,86,MissedShots,0.7819999694824219,0.539000015258789,0.03326909989118576,Lukas Klünter,h,403,OpenPlay,2017,LeftFoot,8332,FC Cologne,Werder Bremen,0,0,2017-10-22 12:30:00,,None
+168779,69,MissedShots,0.7290000152587891,0.4540000152587891,0.015027999877929688,Lukas Klünter,a,403,FromCorner,2017,RightFoot,8345,Bayer Leverkusen,FC Cologne,2,1,2017-10-28 14:30:00,,None
+179656,7,Goal,0.874000015258789,0.5940000152587891,0.3764050006866455,Lukas Klünter,h,403,OpenPlay,2017,LeftFoot,8389,FC Cologne,Freiburg,3,4,2017-12-10 12:30:00,Milos Jojic,Throughball
+183891,20,MissedShots,0.865,0.18600000381469728,0.02261289954185486,Lukas Klünter,a,403,OpenPlay,2017,RightFoot,8394,Bayern Munich,FC Cologne,1,0,2017-12-13 19:30:00,Milos Jojic,Pass
+183915,86,SavedShot,0.815,0.545,0.06616710126399994,Lukas Klünter,a,403,OpenPlay,2017,LeftFoot,8394,Bayern Munich,FC Cologne,1,0,2017-12-13 19:30:00,Salih Özcan,TakeOn
+184193,33,SavedShot,0.9790000152587891,0.42200000762939455,0.1547829955816269,Lukas Klünter,h,403,OpenPlay,2017,RightFoot,8405,FC Cologne,Wolfsburg,1,0,2017-12-16 14:30:00,,Rebound
+184192,33,SavedShot,0.9730000305175781,0.38299999237060545,0.1988919973373413,Lukas Klünter,h,403,OpenPlay,2017,RightFoot,8405,FC Cologne,Wolfsburg,1,0,2017-12-16 14:30:00,Frederik Sörensen,TakeOn
+184207,75,ShotOnPost,0.9740000152587891,0.35900001525878905,0.1241530030965805,Lukas Klünter,h,403,OpenPlay,2017,RightFoot,8405,FC Cologne,Wolfsburg,1,0,2017-12-16 14:30:00,Milos Jojic,Throughball
+187878,81,MissedShots,0.9669999694824218,0.67,0.026895400136709213,Lukas Klünter,h,403,OpenPlay,2017,Head,8414,FC Cologne,Borussia M.Gladbach,2,1,2018-01-14 14:30:00,Frederik Sörensen,HeadPass
+189882,79,SavedShot,0.795,0.37099998474121093,0.01758600026369095,Lukas Klünter,h,403,FromCorner,2017,Head,8434,FC Cologne,Augsburg,1,1,2018-01-27 14:30:00,,None
+281098,74,MissedShots,0.8830000305175781,0.3240000152587891,0.04015139862895012,Lukas Klünter,a,403,OpenPlay,2018,LeftFoot,10520,Borussia M.Gladbach,Hertha Berlin,0,3,2019-02-09 14:30:00,,Rebound
+296054,0,MissedShots,0.879000015258789,0.2610000038146973,0.031633298844099045,Lukas Klünter,h,403,OpenPlay,2018,LeftFoot,10603,Hertha Berlin,Hannover 96,0,0,2019-04-21 17:00:00,Marko Grujic,Chipped
+296068,48,MissedShots,0.7530000305175781,0.3240000152587891,0.02116359956562519,Lukas Klünter,h,403,OpenPlay,2018,LeftFoot,10603,Hertha Berlin,Hannover 96,0,0,2019-04-21 17:00:00,Mathew Leckie,Pass
+300676,37,SavedShot,0.88,0.26799999237060546,0.037868600338697433,Lukas Klünter,a,403,OpenPlay,2018,LeftFoot,10631,Augsburg,Hertha Berlin,3,4,2019-05-11 14:30:00,Per Skjelbred,TakeOn
+302350,1,MissedShots,0.740999984741211,0.27600000381469725,0.010575099848210812,Lukas Klünter,h,403,OpenPlay,2018,RightFoot,10638,Hertha Berlin,Bayer Leverkusen,1,5,2019-05-18 13:30:00,,None
+336925,42,MissedShots,0.755,0.4470000076293945,0.023545999079942703,Lukas Klünter,h,403,OpenPlay,2019,LeftFoot,12533,Hertha Berlin,Freiburg,1,0,2019-12-14 14:30:00,Vladimir Darida,Pass
+364231,65,MissedShots,0.89,0.3729999923706055,0.2391829937696457,Lukas Klünter,h,403,OpenPlay,2019,RightFoot,12677,Hertha Berlin,Eintracht Frankfurt,1,4,2020-06-13 13:30:00,Vladimir Darida,Cross
+406658,36,OwnGoal,0.07300000190734864,0.5420000076293945,0,Lukas Klünter,a,403,OpenPlay,2020,LeftFoot,15342,Wolfsburg,Hertha Berlin,2,0,2021-02-27 14:30:00,,Tackle

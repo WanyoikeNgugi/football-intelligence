@@ -1,0 +1,505 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+24653,10,Goal,0.889000015258789,0.525,0.4318709969520569,Marco Reus,a,319,OpenPlay,2014,LeftFoot,5456,Augsburg,Borussia Dortmund,2,3,2014-08-29 19:30:00,Kevin Großkreutz,Pass
+24669,56,BlockedShot,0.765,0.5070000076293946,0.03618859872221947,Marco Reus,a,319,OpenPlay,2014,RightFoot,5456,Augsburg,Borussia Dortmund,2,3,2014-08-29 19:30:00,,TakeOn
+24675,77,BlockedShot,0.75,0.509000015258789,0.06938210129737854,Marco Reus,a,319,DirectFreekick,2014,RightFoot,5456,Augsburg,Borussia Dortmund,2,3,2014-08-29 19:30:00,,Standard
+24678,80,MissedShots,0.7680000305175781,0.5529999923706055,0.037885699421167374,Marco Reus,a,319,OpenPlay,2014,RightFoot,5456,Augsburg,Borussia Dortmund,2,3,2014-08-29 19:30:00,Pierre-Emerick Aubameyang,Pass
+26144,10,MissedShots,0.875999984741211,0.759000015258789,0.02901720069348812,Marco Reus,a,319,OpenPlay,2014,LeftFoot,5397,FC Cologne,Borussia Dortmund,2,1,2014-10-18 14:30:00,Shinji Kagawa,Pass
+26147,31,SavedShot,0.899000015258789,0.34,0.11253699660301208,Marco Reus,a,319,OpenPlay,2014,RightFoot,5397,FC Cologne,Borussia Dortmund,2,1,2014-10-18 14:30:00,Ciro Immobile,TakeOn
+26153,51,BlockedShot,0.87,0.5929999923706055,0.09118390083312988,Marco Reus,a,319,OpenPlay,2014,RightFoot,5397,FC Cologne,Borussia Dortmund,2,1,2014-10-18 14:30:00,Shinji Kagawa,Pass
+26156,54,BlockedShot,0.8630000305175781,0.6759999847412109,0.02588449977338314,Marco Reus,a,319,OpenPlay,2014,LeftFoot,5397,FC Cologne,Borussia Dortmund,2,1,2014-10-18 14:30:00,Lukasz Piszczek,Cross
+26164,92,BlockedShot,0.7619999694824219,0.35900001525878905,0.021620700135827065,Marco Reus,a,319,OpenPlay,2014,RightFoot,5397,FC Cologne,Borussia Dortmund,2,1,2014-10-18 14:30:00,Shinji Kagawa,Pass
+26195,19,MissedShots,0.785,0.35900001525878905,0.029249100014567375,Marco Reus,h,319,OpenPlay,2014,LeftFoot,5406,Borussia Dortmund,Hannover 96,0,1,2014-10-25 14:30:00,Ilkay Gündogan,Pass
+26198,38,MissedShots,0.8219999694824218,0.5879999923706055,0.05826599895954132,Marco Reus,h,319,OpenPlay,2014,LeftFoot,5406,Borussia Dortmund,Hannover 96,0,1,2014-10-25 14:30:00,Pierre-Emerick Aubameyang,Pass
+26199,42,MissedShots,0.6859999847412109,0.27399999618530274,0.027466800063848495,Marco Reus,h,319,DirectFreekick,2014,RightFoot,5406,Borussia Dortmund,Hannover 96,0,1,2014-10-25 14:30:00,,Standard
+26200,46,MissedShots,0.9,0.6969999694824218,0.2900199890136719,Marco Reus,h,319,OpenPlay,2014,LeftFoot,5406,Borussia Dortmund,Hannover 96,0,1,2014-10-25 14:30:00,Henrikh Mkhitaryan,Chipped
+26201,48,BlockedShot,0.7959999847412109,0.500999984741211,0.043339699506759644,Marco Reus,h,319,OpenPlay,2014,RightFoot,5406,Borussia Dortmund,Hannover 96,0,1,2014-10-25 14:30:00,Henrikh Mkhitaryan,Pass
+26202,52,MissedShots,0.904000015258789,0.6630000305175782,0.03219909965991974,Marco Reus,h,319,OpenPlay,2014,LeftFoot,5406,Borussia Dortmund,Hannover 96,0,1,2014-10-25 14:30:00,Henrikh Mkhitaryan,Cross
+26203,54,SavedShot,0.8780000305175781,0.4759999847412109,0.3997710049152374,Marco Reus,h,319,OpenPlay,2014,RightFoot,5406,Borussia Dortmund,Hannover 96,0,1,2014-10-25 14:30:00,Pierre-Emerick Aubameyang,BallTouch
+26458,9,MissedShots,0.8109999847412109,0.6120000076293945,0.05352979898452759,Marco Reus,a,319,OpenPlay,2014,RightFoot,5352,Bayern Munich,Borussia Dortmund,2,1,2014-11-01 17:30:00,Pierre-Emerick Aubameyang,TakeOn
+26465,30,Goal,0.919000015258789,0.47900001525878905,0.06777779757976532,Marco Reus,a,319,OpenPlay,2014,Head,5352,Bayern Munich,Borussia Dortmund,2,1,2014-11-01 17:30:00,Pierre-Emerick Aubameyang,Aerial
+26692,1,MissedShots,0.955,0.66,0.08200140297412872,Marco Reus,h,319,OpenPlay,2014,LeftFoot,5364,Borussia Dortmund,Borussia M.Gladbach,1,0,2014-11-09 16:30:00,Sven Bender,TakeOn
+26693,8,SavedShot,0.88,0.4179999923706055,0.10150899738073349,Marco Reus,h,319,OpenPlay,2014,RightFoot,5364,Borussia Dortmund,Borussia M.Gladbach,1,0,2014-11-09 16:30:00,Henrikh Mkhitaryan,Pass
+26695,14,SavedShot,0.7709999847412109,0.3160000038146973,0.05919070169329643,Marco Reus,h,319,DirectFreekick,2014,RightFoot,5364,Borussia Dortmund,Borussia M.Gladbach,1,0,2014-11-09 16:30:00,,Standard
+26700,27,BlockedShot,0.8130000305175781,0.6309999847412109,0.03020869940519333,Marco Reus,h,319,OpenPlay,2014,RightFoot,5364,Borussia Dortmund,Borussia M.Gladbach,1,0,2014-11-09 16:30:00,,Rebound
+26702,33,BlockedShot,0.8490000152587891,0.4179999923706055,0.07741910219192505,Marco Reus,h,319,OpenPlay,2014,RightFoot,5364,Borussia Dortmund,Borussia M.Gladbach,1,0,2014-11-09 16:30:00,Pierre-Emerick Aubameyang,Pass
+26707,48,BlockedShot,0.7559999847412109,0.5420000076293945,0.022642500698566437,Marco Reus,h,319,OpenPlay,2014,RightFoot,5364,Borussia Dortmund,Borussia M.Gladbach,1,0,2014-11-09 16:30:00,Sebastian Kehl,Pass
+26709,58,ShotOnPost,0.8159999847412109,0.32799999237060545,0.04661070182919502,Marco Reus,h,319,OpenPlay,2014,RightFoot,5364,Borussia Dortmund,Borussia M.Gladbach,1,0,2014-11-09 16:30:00,,None
+26711,65,SavedShot,0.8180000305175781,0.980999984741211,0.024285800755023956,Marco Reus,h,319,DirectFreekick,2014,RightFoot,5364,Borussia Dortmund,Borussia M.Gladbach,1,0,2014-11-09 16:30:00,,Standard
+27380,1,SavedShot,0.8530000305175781,0.44599998474121094,0.11754699796438217,Marco Reus,a,319,OpenPlay,2014,RightFoot,5370,Paderborn,Borussia Dortmund,2,2,2014-11-22 14:30:00,Henrikh Mkhitaryan,Throughball
+27387,45,Goal,0.9030000305175782,0.34200000762939453,0.34074699878692627,Marco Reus,a,319,OpenPlay,2014,RightFoot,5370,Paderborn,Borussia Dortmund,2,2,2014-11-22 14:30:00,Pierre-Emerick Aubameyang,Throughball
+27388,46,SavedShot,0.9469999694824218,0.649000015258789,0.10623499751091003,Marco Reus,a,319,OpenPlay,2014,LeftFoot,5370,Paderborn,Borussia Dortmund,2,2,2014-11-22 14:30:00,Ilkay Gündogan,Chipped
+29769,14,MissedShots,0.875999984741211,0.6840000152587891,0.05443720147013664,Marco Reus,h,319,OpenPlay,2014,LeftFoot,5266,Borussia Dortmund,Augsburg,0,1,2015-02-04 19:00:00,Mats Hummels,Chipped
+29832,0,MissedShots,0.9580000305175781,0.4879999923706055,0.14943400025367737,Marco Reus,a,319,OpenPlay,2014,RightFoot,5273,Freiburg,Borussia Dortmund,0,3,2015-02-07 14:30:00,Pierre-Emerick Aubameyang,Pass
+29837,8,Goal,0.879000015258789,0.61,0.3262139856815338,Marco Reus,a,319,OpenPlay,2014,LeftFoot,5273,Freiburg,Borussia Dortmund,0,3,2015-02-07 14:30:00,Pierre-Emerick Aubameyang,Pass
+29838,15,MissedShots,0.81,0.634000015258789,0.1082879975438118,Marco Reus,a,319,DirectFreekick,2014,RightFoot,5273,Freiburg,Borussia Dortmund,0,3,2015-02-07 14:30:00,,Standard
+29847,54,MissedShots,0.8019999694824219,0.515,0.07766149938106537,Marco Reus,a,319,OpenPlay,2014,RightFoot,5273,Freiburg,Borussia Dortmund,0,3,2015-02-07 14:30:00,Shinji Kagawa,Pass
+29851,65,SavedShot,0.914000015258789,0.315,0.16419599950313568,Marco Reus,a,319,OpenPlay,2014,RightFoot,5273,Freiburg,Borussia Dortmund,0,3,2015-02-07 14:30:00,Lukasz Piszczek,TakeOn
+28890,2,ShotOnPost,0.9130000305175782,0.3659999847412109,0.06656210124492645,Marco Reus,h,319,FromCorner,2014,RightFoot,5280,Borussia Dortmund,Mainz 05,4,2,2015-02-13 19:30:00,Sokratis,HeadPass
+28896,21,MissedShots,0.7780000305175782,0.715,0.015299100428819656,Marco Reus,h,319,FromCorner,2014,RightFoot,5280,Borussia Dortmund,Mainz 05,4,2,2015-02-13 19:30:00,Shinji Kagawa,HeadPass
+28898,31,MissedShots,0.8680000305175781,0.500999984741211,0.09548729658126831,Marco Reus,h,319,OpenPlay,2014,RightFoot,5280,Borussia Dortmund,Mainz 05,4,2,2015-02-13 19:30:00,Shinji Kagawa,Pass
+28902,48,SavedShot,0.8109999847412109,0.7669999694824219,0.05599530041217804,Marco Reus,h,319,DirectFreekick,2014,RightFoot,5280,Borussia Dortmund,Mainz 05,4,2,2015-02-13 19:30:00,,Standard
+28905,54,Goal,0.9330000305175781,0.415,0.7843959927558899,Marco Reus,h,319,OpenPlay,2014,RightFoot,5280,Borussia Dortmund,Mainz 05,4,2,2015-02-13 19:30:00,Kevin Kampl,TakeOn
+29460,88,Goal,0.91,0.36900001525878906,0.5981690287590027,Marco Reus,a,319,OpenPlay,2014,RightFoot,5289,VfB Stuttgart,Borussia Dortmund,2,3,2015-02-20 19:30:00,,TakeOn
+28859,14,MissedShots,0.925,0.6819999694824219,0.02690109983086586,Marco Reus,h,319,OpenPlay,2014,LeftFoot,5299,Borussia Dortmund,Schalke 04,3,0,2015-02-28 14:30:00,Henrikh Mkhitaryan,Cross
+28864,25,SavedShot,0.7340000152587891,0.5529999923706055,0.0176256000995636,Marco Reus,h,319,OpenPlay,2014,LeftFoot,5299,Borussia Dortmund,Schalke 04,3,0,2015-02-28 14:30:00,,BallRecovery
+28868,33,BlockedShot,0.850999984741211,0.64,0.03632489964365959,Marco Reus,h,319,FromCorner,2014,RightFoot,5299,Borussia Dortmund,Schalke 04,3,0,2015-02-28 14:30:00,Marcel Schmelzer,Cross
+28871,35,MissedShots,0.865999984741211,0.5570000076293945,0.12197499722242355,Marco Reus,h,319,OpenPlay,2014,RightFoot,5299,Borussia Dortmund,Schalke 04,3,0,2015-02-28 14:30:00,Shinji Kagawa,Throughball
+28872,51,MissedShots,0.749000015258789,0.40299999237060546,0.02380339987576008,Marco Reus,h,319,OpenPlay,2014,RightFoot,5299,Borussia Dortmund,Schalke 04,3,0,2015-02-28 14:30:00,Neven Subotic,Pass
+28876,55,SavedShot,0.905,0.41900001525878905,0.277536004781723,Marco Reus,h,319,OpenPlay,2014,RightFoot,5299,Borussia Dortmund,Schalke 04,3,0,2015-02-28 14:30:00,Nuri Sahin,TakeOn
+28884,74,SavedShot,0.8730000305175781,0.8080000305175781,0.06236720085144043,Marco Reus,h,319,DirectFreekick,2014,RightFoot,5299,Borussia Dortmund,Schalke 04,3,0,2015-02-28 14:30:00,,Standard
+28887,85,Goal,0.919000015258789,0.48,0.47902700304985046,Marco Reus,h,319,OpenPlay,2014,RightFoot,5299,Borussia Dortmund,Schalke 04,3,0,2015-02-28 14:30:00,,Tackle
+30348,56,MissedShots,0.8519999694824218,0.34900001525878904,0.07988759875297546,Marco Reus,a,319,OpenPlay,2014,RightFoot,5234,Hamburger SV,Borussia Dortmund,0,0,2015-03-07 14:30:00,Henrikh Mkhitaryan,Pass
+30644,0,SavedShot,0.9880000305175781,0.6519999694824219,0.05730560049414635,Marco Reus,h,319,OpenPlay,2014,LeftFoot,5248,Borussia Dortmund,FC Cologne,0,0,2015-03-14 17:30:00,Henrikh Mkhitaryan,Chipped
+30655,65,SavedShot,0.8540000152587891,0.3609999847412109,0.054962098598480225,Marco Reus,h,319,OpenPlay,2014,RightFoot,5248,Borussia Dortmund,FC Cologne,0,0,2015-03-14 17:30:00,,None
+31916,65,BlockedShot,0.8819999694824219,0.38,0.11635500192642212,Marco Reus,a,319,OpenPlay,2014,RightFoot,5254,Hannover 96,Borussia Dortmund,2,3,2015-03-21 14:30:00,Jakub Blaszczykowski,Pass
+31917,74,MissedShots,0.7759999847412109,0.295,0.01550890039652586,Marco Reus,a,319,FromCorner,2014,RightFoot,5254,Hannover 96,Borussia Dortmund,2,3,2015-03-21 14:30:00,,None
+31919,79,SavedShot,0.835999984741211,0.5179999923706055,0.2670300006866455,Marco Reus,a,319,OpenPlay,2014,RightFoot,5254,Hannover 96,Borussia Dortmund,2,3,2015-03-21 14:30:00,Jakub Blaszczykowski,Pass
+32250,53,BlockedShot,0.715999984741211,0.4370000076293945,0.016435299068689346,Marco Reus,h,319,OpenPlay,2014,LeftFoot,5201,Borussia Dortmund,Bayern Munich,0,1,2015-04-04 17:30:00,Sven Bender,HeadPass
+32252,60,MissedShots,0.8930000305175781,0.37,0.0627422034740448,Marco Reus,h,319,OpenPlay,2014,RightFoot,5201,Borussia Dortmund,Bayern Munich,0,1,2015-04-04 17:30:00,Sven Bender,BallRecovery
+32259,86,BlockedShot,0.865,0.43400001525878906,0.06494180113077164,Marco Reus,h,319,OpenPlay,2014,RightFoot,5201,Borussia Dortmund,Bayern Munich,0,1,2015-04-04 17:30:00,,Dispossessed
+32260,87,SavedShot,0.75,0.5279999923706055,0.06879889965057373,Marco Reus,h,319,DirectFreekick,2014,RightFoot,5201,Borussia Dortmund,Bayern Munich,0,1,2015-04-04 17:30:00,,Standard
+29433,67,MissedShots,0.9719999694824218,0.6020000076293945,0.4088909924030304,Marco Reus,h,319,OpenPlay,2014,LeftFoot,5227,Borussia Dortmund,Eintracht Frankfurt,2,0,2015-04-25 14:30:00,Henrikh Mkhitaryan,Pass
+30319,82,BlockedShot,0.7119999694824218,0.46099998474121096,0.045065898448228836,Marco Reus,a,319,DirectFreekick,2014,RightFoot,5179,Wolfsburg,Borussia Dortmund,2,1,2015-05-16 14:30:00,,Standard
+30320,83,SavedShot,0.904000015258789,0.27100000381469724,0.0322628989815712,Marco Reus,a,319,OpenPlay,2014,RightFoot,5179,Wolfsburg,Borussia Dortmund,2,1,2015-05-16 14:30:00,Lukasz Piszczek,Pass
+31140,39,SavedShot,0.8540000152587891,0.38799999237060545,0.09027469903230667,Marco Reus,h,319,OpenPlay,2014,RightFoot,5193,Borussia Dortmund,Werder Bremen,3,2,2015-05-23 14:30:00,Henrikh Mkhitaryan,Pass
+31143,47,MissedShots,0.9930000305175781,0.6509999847412109,0.08615510165691376,Marco Reus,h,319,OpenPlay,2014,LeftFoot,5193,Borussia Dortmund,Werder Bremen,3,2,2015-05-23 14:30:00,Marcel Schmelzer,BlockedPass
+31144,52,SavedShot,0.8080000305175781,0.47900001525878905,0.07788199931383133,Marco Reus,h,319,OpenPlay,2014,RightFoot,5193,Borussia Dortmund,Werder Bremen,3,2,2015-05-23 14:30:00,Henrikh Mkhitaryan,Pass
+76089,14,Goal,0.88,0.674000015258789,0.0574675016105175,Marco Reus,h,319,OpenPlay,2015,RightFoot,1027,Borussia Dortmund,Borussia M.Gladbach,4,0,2015-08-15 20:30:00,Shinji Kagawa,Pass
+76097,35,MissedShots,0.905,0.710999984741211,0.04706199839711189,Marco Reus,h,319,FromCorner,2015,RightFoot,1027,Borussia Dortmund,Borussia M.Gladbach,4,0,2015-08-15 20:30:00,,Rebound
+76103,62,MissedShots,0.8819999694824219,0.24399999618530274,0.058975700289011,Marco Reus,h,319,OpenPlay,2015,RightFoot,1027,Borussia Dortmund,Borussia M.Gladbach,4,0,2015-08-15 20:30:00,Henrikh Mkhitaryan,Chipped
+76502,5,MissedShots,0.8880000305175781,0.5690000152587891,0.4329470098018646,Marco Reus,a,319,SetPiece,2015,RightFoot,1037,Ingolstadt,Borussia Dortmund,0,4,2015-08-23 17:30:00,Marcel Schmelzer,Pass
+76509,27,MissedShots,0.9630000305175781,0.34200000762939453,0.06427919864654541,Marco Reus,a,319,OpenPlay,2015,RightFoot,1037,Ingolstadt,Borussia Dortmund,0,4,2015-08-23 17:30:00,Pierre-Emerick Aubameyang,Chipped
+76514,59,Goal,0.885,0.5,0.7577769756317139,Marco Reus,a,319,Penalty,2015,RightFoot,1037,Ingolstadt,Borussia Dortmund,0,4,2015-08-23 17:30:00,,Standard
+76517,73,SavedShot,0.88,0.6930000305175781,0.04502110183238983,Marco Reus,a,319,FromCorner,2015,RightFoot,1037,Ingolstadt,Borussia Dortmund,0,4,2015-08-23 17:30:00,Julian Weigl,Pass
+76559,74,MissedShots,0.8830000305175781,0.5429999923706055,0.3549880087375641,Marco Reus,h,319,OpenPlay,2015,RightFoot,1046,Borussia Dortmund,Hertha Berlin,3,1,2015-08-30 17:30:00,Henrikh Mkhitaryan,Pass
+77386,35,MissedShots,0.774000015258789,0.4420000076293945,0.028471099212765694,Marco Reus,a,319,OpenPlay,2015,RightFoot,1070,Hoffenheim,Borussia Dortmund,1,1,2015-09-23 22:00:00,Gonzalo Castro,TakeOn
+77388,45,SavedShot,0.8619999694824219,0.29399999618530276,0.034487199038267136,Marco Reus,a,319,OpenPlay,2015,RightFoot,1070,Hoffenheim,Borussia Dortmund,1,1,2015-09-23 22:00:00,Matthias Ginter,HeadPass
+77443,10,MissedShots,0.9459999847412109,0.4779999923706055,0.12723299860954285,Marco Reus,h,319,OpenPlay,2015,RightFoot,1083,Borussia Dortmund,Darmstadt,2,2,2015-09-27 19:30:00,Pierre-Emerick Aubameyang,Chipped
+77450,36,BlockedShot,0.94,0.28299999237060547,0.047268301248550415,Marco Reus,h,319,OpenPlay,2015,RightFoot,1083,Borussia Dortmund,Darmstadt,2,2,2015-09-27 19:30:00,Shinji Kagawa,HeadPass
+77702,56,MissedShots,0.885,0.580999984741211,0.0525113008916378,Marco Reus,a,319,OpenPlay,2015,RightFoot,1092,Bayern Munich,Borussia Dortmund,5,1,2015-10-04 19:30:00,Sokratis,Cross
+77710,75,MissedShots,0.7519999694824219,0.555,0.06855349987745285,Marco Reus,a,319,DirectFreekick,2015,RightFoot,1092,Bayern Munich,Borussia Dortmund,5,1,2015-10-04 19:30:00,,Standard
+78123,13,SavedShot,0.825999984741211,0.6509999847412109,0.04241809993982315,Marco Reus,a,319,OpenPlay,2015,RightFoot,1093,Mainz 05,Borussia Dortmund,0,2,2015-10-16 22:30:00,Shinji Kagawa,Pass
+78124,17,Goal,0.9130000305175782,0.5829999923706055,0.40501800179481506,Marco Reus,a,319,OpenPlay,2015,LeftFoot,1093,Mainz 05,Borussia Dortmund,0,2,2015-10-16 22:30:00,Pierre-Emerick Aubameyang,Pass
+78129,45,BlockedShot,0.899000015258789,0.6730000305175782,0.08238130062818527,Marco Reus,a,319,OpenPlay,2015,LeftFoot,1093,Mainz 05,Borussia Dortmund,0,2,2015-10-16 22:30:00,Pierre-Emerick Aubameyang,Pass
+78130,46,SavedShot,0.885,0.5,0.7577769756317139,Marco Reus,a,319,Penalty,2015,RightFoot,1093,Mainz 05,Borussia Dortmund,0,2,2015-10-16 22:30:00,,Standard
+78179,2,BlockedShot,0.875999984741211,0.55,0.10474500060081482,Marco Reus,h,319,OpenPlay,2015,RightFoot,1109,Borussia Dortmund,Augsburg,5,1,2015-10-25 18:30:00,Gonzalo Castro,Pass
+78184,20,Goal,0.9540000152587891,0.585,0.4846329987049103,Marco Reus,h,319,OpenPlay,2015,RightFoot,1109,Borussia Dortmund,Augsburg,5,1,2015-10-25 18:30:00,Shinji Kagawa,Pass
+78188,32,Goal,0.9719999694824218,0.4640000152587891,0.747160017490387,Marco Reus,h,319,OpenPlay,2015,RightFoot,1109,Borussia Dortmund,Augsburg,5,1,2015-10-25 18:30:00,Shinji Kagawa,Pass
+78539,8,Goal,0.919000015258789,0.5990000152587891,0.38585299253463745,Marco Reus,a,319,OpenPlay,2015,RightFoot,1115,Werder Bremen,Borussia Dortmund,1,3,2015-10-31 18:30:00,,None
+78556,71,Goal,0.8859999847412109,0.365,0.2928839921951294,Marco Reus,a,319,OpenPlay,2015,RightFoot,1115,Werder Bremen,Borussia Dortmund,1,3,2015-10-31 18:30:00,Henrikh Mkhitaryan,Pass
+78956,8,BlockedShot,0.8169999694824219,0.69,0.08761739730834961,Marco Reus,a,319,DirectFreekick,2015,RightFoot,1129,Hamburger SV,Borussia Dortmund,3,1,2015-11-20 23:45:00,,Standard
+78959,22,SavedShot,0.805,0.5729999923706055,0.035086698830127716,Marco Reus,a,319,OpenPlay,2015,RightFoot,1129,Hamburger SV,Borussia Dortmund,3,1,2015-11-20 23:45:00,Ilkay Gündogan,Chipped
+79141,67,MissedShots,0.860999984741211,0.4329999923706055,0.2854729890823364,Marco Reus,h,319,OpenPlay,2015,RightFoot,1144,Borussia Dortmund,VfB Stuttgart,4,1,2015-11-29 18:30:00,Henrikh Mkhitaryan,Pass
+79406,4,MissedShots,0.7630000305175781,0.515,0.029933499172329903,Marco Reus,a,319,FromCorner,2015,RightFoot,1153,Wolfsburg,Borussia Dortmund,1,2,2015-12-05 21:30:00,,Rebound
+79407,13,BlockedShot,0.87,0.42200000762939455,0.07061869651079178,Marco Reus,a,319,OpenPlay,2015,RightFoot,1153,Wolfsburg,Borussia Dortmund,1,2,2015-12-05 21:30:00,Neven Subotic,Chipped
+79412,31,SavedShot,0.94,0.695,0.045510198920965195,Marco Reus,a,319,OpenPlay,2015,LeftFoot,1153,Wolfsburg,Borussia Dortmund,1,2,2015-12-05 21:30:00,Neven Subotic,Chipped
+79413,31,Goal,0.91,0.4,0.6267020106315613,Marco Reus,a,319,OpenPlay,2015,RightFoot,1153,Wolfsburg,Borussia Dortmund,1,2,2015-12-05 21:30:00,Henrikh Mkhitaryan,TakeOn
+79626,5,SavedShot,0.8230000305175781,0.7080000305175781,0.020653899759054184,Marco Reus,h,319,FromCorner,2015,RightFoot,1164,Borussia Dortmund,Eintracht Frankfurt,4,1,2015-12-13 20:30:00,,None
+79630,28,MissedShots,0.7730000305175782,0.4179999923706055,0.01891460083425045,Marco Reus,h,319,SetPiece,2015,RightFoot,1164,Borussia Dortmund,Eintracht Frankfurt,4,1,2015-12-13 20:30:00,,None
+80099,40,Goal,0.904000015258789,0.34299999237060547,0.31814900040626526,Marco Reus,a,319,OpenPlay,2015,RightFoot,1180,Borussia M.Gladbach,Borussia Dortmund,1,3,2016-01-23 21:30:00,Ilkay Gündogan,Throughball
+80684,48,MissedShots,0.855999984741211,0.7019999694824218,0.05230649933218956,Marco Reus,a,319,OpenPlay,2015,RightFoot,1196,Hertha Berlin,Borussia Dortmund,0,0,2016-02-06 18:30:00,Marcel Schmelzer,TakeOn
+80749,8,SavedShot,0.9469999694824218,0.46599998474121096,0.5267149806022644,Marco Reus,h,319,OpenPlay,2015,LeftFoot,1203,Borussia Dortmund,Hannover 96,1,0,2016-02-13 18:30:00,Lukasz Piszczek,Cross
+80750,15,ShotOnPost,0.8009999847412109,0.6519999694824219,0.0904856026172638,Marco Reus,h,319,DirectFreekick,2015,RightFoot,1203,Borussia Dortmund,Hannover 96,1,0,2016-02-13 18:30:00,,Standard
+80752,27,SavedShot,0.815,0.7559999847412109,0.060885198414325714,Marco Reus,h,319,DirectFreekick,2015,RightFoot,1203,Borussia Dortmund,Hannover 96,1,0,2016-02-13 18:30:00,,Standard
+80765,73,SavedShot,0.960999984741211,0.2620000076293945,0.12217599898576736,Marco Reus,h,319,OpenPlay,2015,RightFoot,1203,Borussia Dortmund,Hannover 96,1,0,2016-02-13 18:30:00,Henrikh Mkhitaryan,Throughball
+81064,87,SavedShot,0.8809999847412109,0.5520000076293945,0.393777996301651,Marco Reus,a,319,OpenPlay,2015,LeftFoot,1216,Bayer Leverkusen,Borussia Dortmund,0,1,2016-02-21 18:30:00,Matthias Ginter,Throughball
+81065,89,BlockedShot,0.7669999694824219,0.345,0.06327570229768753,Marco Reus,a,319,DirectFreekick,2015,RightFoot,1216,Bayer Leverkusen,Borussia Dortmund,0,1,2016-02-21 18:30:00,,Standard
+81218,42,SavedShot,0.7609999847412109,0.6880000305175781,0.05324060097336769,Marco Reus,h,319,DirectFreekick,2015,RightFoot,1225,Borussia Dortmund,Hoffenheim,3,1,2016-02-28 20:30:00,,Standard
+81220,47,MissedShots,0.91,0.6580000305175782,0.05948900058865547,Marco Reus,h,319,OpenPlay,2015,LeftFoot,1225,Borussia Dortmund,Hoffenheim,3,1,2016-02-28 20:30:00,,Rebound
+81676,2,BlockedShot,0.8619999694824219,0.575999984741211,0.11544299870729446,Marco Reus,h,319,OpenPlay,2015,RightFoot,1243,Borussia Dortmund,Bayern Munich,0,0,2016-03-05 21:30:00,Henrikh Mkhitaryan,Pass
+81685,39,SavedShot,0.5329999923706055,0.49900001525878906,0.010407799854874611,Marco Reus,h,319,OpenPlay,2015,RightFoot,1243,Borussia Dortmund,Bayern Munich,0,0,2016-03-05 21:30:00,,TakeOn
+81693,59,MissedShots,0.8419999694824218,0.32799999237060545,0.01570099964737892,Marco Reus,h,319,SetPiece,2015,RightFoot,1243,Borussia Dortmund,Bayern Munich,0,0,2016-03-05 21:30:00,,Aerial
+81961,29,Goal,0.899000015258789,0.34700000762939454,0.3338029980659485,Marco Reus,h,319,OpenPlay,2015,RightFoot,1254,Borussia Dortmund,Mainz 05,2,0,2016-03-13 20:30:00,Gonzalo Castro,Throughball
+81969,59,SavedShot,0.8859999847412109,0.85,0.022334599867463112,Marco Reus,h,319,OpenPlay,2015,RightFoot,1254,Borussia Dortmund,Mainz 05,2,0,2016-03-13 20:30:00,Henrikh Mkhitaryan,Pass
+81975,67,MissedShots,0.889000015258789,0.4329999923706055,0.39818400144577026,Marco Reus,h,319,OpenPlay,2015,RightFoot,1254,Borussia Dortmund,Mainz 05,2,0,2016-03-13 20:30:00,Henrikh Mkhitaryan,Pass
+82313,40,SavedShot,0.9169999694824219,0.5520000076293945,0.4696440100669861,Marco Reus,a,319,OpenPlay,2015,RightFoot,1263,Augsburg,Borussia Dortmund,1,3,2016-03-20 20:30:00,Henrikh Mkhitaryan,Throughball
+82431,40,BlockedShot,0.955999984741211,0.5879999923706055,0.11772900074720383,Marco Reus,h,319,OpenPlay,2015,Head,1270,Borussia Dortmund,Werder Bremen,3,2,2016-04-02 20:30:00,Erik Durm,Cross
+82436,55,MissedShots,0.6959999847412109,0.40700000762939453,0.01924699917435646,Marco Reus,h,319,OpenPlay,2015,RightFoot,1270,Borussia Dortmund,Werder Bremen,3,2,2016-04-02 20:30:00,Lukasz Piszczek,Pass
+82443,71,MissedShots,0.924000015258789,0.6459999847412109,0.027411799877882004,Marco Reus,h,319,FromCorner,2015,RightFoot,1270,Borussia Dortmund,Werder Bremen,3,2,2016-04-02 20:30:00,,Aerial
+82446,78,BlockedShot,0.9290000152587891,0.4470000076293945,0.12849000096321106,Marco Reus,h,319,OpenPlay,2015,LeftFoot,1270,Borussia Dortmund,Werder Bremen,3,2,2016-04-02 20:30:00,Shinji Kagawa,Pass
+83183,8,MissedShots,0.8909999847412109,0.48700000762939455,0.399850994348526,Marco Reus,a,319,OpenPlay,2015,RightFoot,1292,VfB Stuttgart,Borussia Dortmund,0,3,2016-04-23 17:30:00,,Rebound
+83193,25,SavedShot,0.8540000152587891,0.5059999847412109,0.13620400428771973,Marco Reus,a,319,OpenPlay,2015,RightFoot,1292,VfB Stuttgart,Borussia Dortmund,0,3,2016-04-23 17:30:00,Adrián Ramos,Pass
+83304,1,MissedShots,0.8580000305175781,0.3729999923706055,0.01130330003798008,Marco Reus,h,319,OpenPlay,2015,Head,1306,Borussia Dortmund,Wolfsburg,5,1,2016-04-30 17:30:00,Lukasz Piszczek,Cross
+83308,9,MissedShots,0.865999984741211,0.5690000152587891,0.11348400264978409,Marco Reus,h,319,OpenPlay,2015,LeftFoot,1306,Borussia Dortmund,Wolfsburg,5,1,2016-04-30 17:30:00,Henrikh Mkhitaryan,Chipped
+83311,31,MissedShots,0.9080000305175782,0.6759999847412109,0.5010570287704468,Marco Reus,h,319,OpenPlay,2015,LeftFoot,1306,Borussia Dortmund,Wolfsburg,5,1,2016-04-30 17:30:00,Sven Bender,TakeOn
+83318,58,Goal,0.895,0.34,0.09163650125265121,Marco Reus,h,319,OpenPlay,2015,RightFoot,1306,Borussia Dortmund,Wolfsburg,5,1,2016-04-30 17:30:00,Adrián Ramos,Pass
+83615,29,BlockedShot,0.7330000305175781,0.645,0.01781510002911091,Marco Reus,a,319,OpenPlay,2015,RightFoot,1313,Eintracht Frankfurt,Borussia Dortmund,1,0,2016-05-07 17:30:00,Nuri Sahin,Pass
+83819,33,MissedShots,0.86,0.515,0.06768050044775009,Marco Reus,h,319,OpenPlay,2015,RightFoot,1321,Borussia Dortmund,FC Cologne,2,2,2016-05-14 17:30:00,Pierre-Emerick Aubameyang,Cross
+83828,74,Goal,0.815,0.5220000076293946,0.16281799972057343,Marco Reus,h,319,DirectFreekick,2015,RightFoot,1321,Borussia Dortmund,FC Cologne,2,2,2016-05-14 17:30:00,,Standard
+83830,84,MissedShots,0.8480000305175781,0.3820000076293945,0.06554719805717468,Marco Reus,h,319,OpenPlay,2015,RightFoot,1321,Borussia Dortmund,FC Cologne,2,2,2016-05-14 17:30:00,Moritz Leitner,Pass
+130355,22,MissedShots,0.9080000305175782,0.6819999694824219,0.12181899696588516,Marco Reus,h,319,OpenPlay,2016,LeftFoot,3194,Borussia Dortmund,Borussia M.Gladbach,4,1,2016-12-03 18:30:00,Marc Bartra,Chipped
+130356,32,BlockedShot,0.895,0.42200000762939455,0.13773199915885925,Marco Reus,h,319,OpenPlay,2016,RightFoot,3194,Borussia Dortmund,Borussia M.Gladbach,4,1,2016-12-03 18:30:00,Ousmane Dembélé,Throughball
+130363,60,BlockedShot,0.915,0.6370000076293946,0.2994920015335083,Marco Reus,h,319,OpenPlay,2016,LeftFoot,3194,Borussia Dortmund,Borussia M.Gladbach,4,1,2016-12-03 18:30:00,Marc Bartra,Chipped
+131175,23,MissedShots,0.765,0.6469999694824219,0.06370049715042114,Marco Reus,a,319,DirectFreekick,2016,RightFoot,3203,FC Cologne,Borussia Dortmund,1,1,2016-12-10 18:30:00,,Standard
+131186,73,SavedShot,0.894000015258789,0.33599998474121096,0.0572223998606205,Marco Reus,a,319,OpenPlay,2016,RightFoot,3203,FC Cologne,Borussia Dortmund,1,1,2016-12-10 18:30:00,Ousmane Dembélé,Pass
+131189,89,Goal,0.8930000305175781,0.4370000076293945,0.4092540144920349,Marco Reus,a,319,OpenPlay,2016,RightFoot,3203,FC Cologne,Borussia Dortmund,1,1,2016-12-10 18:30:00,Adrián Ramos,Pass
+130749,45,BlockedShot,0.93,0.32799999237060545,0.08346889913082123,Marco Reus,a,319,OpenPlay,2016,LeftFoot,3726,Werder Bremen,Borussia Dortmund,1,2,2017-01-21 14:30:00,Lukasz Piszczek,Pass
+130755,57,SavedShot,0.919000015258789,0.6179999923706054,0.5835229754447937,Marco Reus,a,319,OpenPlay,2016,LeftFoot,3726,Werder Bremen,Borussia Dortmund,1,2,2017-01-21 14:30:00,Shinji Kagawa,Throughball
+130759,68,MissedShots,0.93,0.59,0.05482200160622597,Marco Reus,a,319,OpenPlay,2016,Head,3726,Werder Bremen,Borussia Dortmund,1,2,2017-01-21 14:30:00,Matthias Ginter,Chipped
+131190,2,Goal,0.8519999694824218,0.544000015258789,0.34343400597572327,Marco Reus,a,319,OpenPlay,2016,RightFoot,3739,Mainz 05,Borussia Dortmund,1,1,2017-01-29 19:30:00,André Schürrle,Pass
+131559,50,MissedShots,0.879000015258789,0.5820000076293945,0.33256301283836365,Marco Reus,h,319,OpenPlay,2016,LeftFoot,3746,Borussia Dortmund,RasenBallsport Leipzig,1,0,2017-02-04 17:30:00,Pierre-Emerick Aubameyang,TakeOn
+131561,68,BlockedShot,0.8319999694824218,0.5459999847412109,0.04964330047369003,Marco Reus,h,319,OpenPlay,2016,RightFoot,3746,Borussia Dortmund,RasenBallsport Leipzig,1,0,2017-02-04 17:30:00,Christian Pulisic,Cross
+131562,82,MissedShots,0.879000015258789,0.42200000762939455,0.5916410088539124,Marco Reus,h,319,OpenPlay,2016,RightFoot,3746,Borussia Dortmund,RasenBallsport Leipzig,1,0,2017-02-04 17:30:00,Lukasz Piszczek,Throughball
+131563,88,SavedShot,0.9130000305175782,0.46099998474121096,0.49137601256370544,Marco Reus,h,319,OpenPlay,2016,RightFoot,3746,Borussia Dortmund,RasenBallsport Leipzig,1,0,2017-02-04 17:30:00,Pierre-Emerick Aubameyang,TakeOn
+131762,23,SavedShot,0.89,0.575999984741211,0.13461199402809143,Marco Reus,a,319,OpenPlay,2016,LeftFoot,3751,Darmstadt,Borussia Dortmund,2,1,2017-02-11 14:30:00,Pierre-Emerick Aubameyang,Pass
+131763,31,ShotOnPost,0.76,0.6090000152587891,0.06752859801054001,Marco Reus,a,319,DirectFreekick,2016,RightFoot,3751,Darmstadt,Borussia Dortmund,2,1,2017-02-11 14:30:00,,Standard
+131911,8,SavedShot,0.77,0.7390000152587891,0.02050280012190342,Marco Reus,h,319,OpenPlay,2016,RightFoot,3763,Borussia Dortmund,Wolfsburg,3,0,2017-02-18 14:30:00,Marc Bartra,Pass
+131914,19,BlockedShot,0.8959999847412109,0.59,0.06954240053892136,Marco Reus,h,319,OpenPlay,2016,RightFoot,3763,Borussia Dortmund,Wolfsburg,3,0,2017-02-18 14:30:00,André Schürrle,Cross
+131918,34,MissedShots,0.895,0.595999984741211,0.12107899785041809,Marco Reus,h,319,OpenPlay,2016,LeftFoot,3763,Borussia Dortmund,Wolfsburg,3,0,2017-02-18 14:30:00,Ousmane Dembélé,Pass
+132358,30,SavedShot,0.9230000305175782,0.7119999694824218,0.07746060192584991,Marco Reus,a,319,OpenPlay,2016,LeftFoot,3770,Freiburg,Borussia Dortmund,0,3,2017-02-25 14:30:00,Raphael Guerreiro,TakeOn
+132364,44,SavedShot,0.8680000305175781,0.5029999923706054,0.0837906002998352,Marco Reus,a,319,OpenPlay,2016,RightFoot,3770,Freiburg,Borussia Dortmund,0,3,2017-02-25 14:30:00,Erik Durm,Cross
+132375,72,BlockedShot,0.850999984741211,0.7119999694824218,0.07316260039806366,Marco Reus,a,319,OpenPlay,2016,RightFoot,3770,Freiburg,Borussia Dortmund,0,3,2017-02-25 14:30:00,Ousmane Dembélé,Chipped
+132463,40,SavedShot,0.8719999694824219,0.5790000152587891,0.38392001390457153,Marco Reus,h,319,OpenPlay,2016,LeftFoot,3781,Borussia Dortmund,Bayer Leverkusen,6,2,2017-03-04 14:30:00,Marc Bartra,TakeOn
+134956,2,Goal,0.955999984741211,0.4370000076293945,0.1443520039319992,Marco Reus,h,319,OpenPlay,2016,RightFoot,3830,Borussia Dortmund,Eintracht Frankfurt,3,1,2017-04-15 14:30:00,Christian Pulisic,Pass
+133408,1,MissedShots,0.8819999694824219,0.42400001525878905,0.03717460110783577,Marco Reus,a,319,OpenPlay,2016,Head,3840,Borussia M.Gladbach,Borussia Dortmund,2,3,2017-04-22 17:30:00,Ousmane Dembélé,Chipped
+133407,1,MissedShots,0.8,0.7719999694824219,0.05069800093770027,Marco Reus,a,319,DirectFreekick,2016,RightFoot,3840,Borussia M.Gladbach,Borussia Dortmund,2,3,2017-04-22 17:30:00,,Standard
+133409,9,Goal,0.885,0.5,0.7577769756317139,Marco Reus,a,319,Penalty,2016,RightFoot,3840,Borussia M.Gladbach,Borussia Dortmund,2,3,2017-04-22 17:30:00,,Standard
+133413,26,BlockedShot,0.925,0.5770000076293945,0.28799501061439514,Marco Reus,a,319,OpenPlay,2016,RightFoot,3840,Borussia M.Gladbach,Borussia Dortmund,2,3,2017-04-22 17:30:00,Christian Pulisic,TakeOn
+134149,6,BlockedShot,0.8130000305175781,0.62,0.11942999809980392,Marco Reus,h,319,DirectFreekick,2016,RightFoot,3848,Borussia Dortmund,FC Cologne,0,0,2017-04-29 14:30:00,,Standard
+134150,6,BlockedShot,0.8130000305175781,0.62,0.02684669941663742,Marco Reus,h,319,SetPiece,2016,RightFoot,3848,Borussia Dortmund,FC Cologne,0,0,2017-04-29 14:30:00,,Rebound
+134157,26,MissedShots,0.9180000305175782,0.5209999847412109,0.5296069979667664,Marco Reus,h,319,OpenPlay,2016,RightFoot,3848,Borussia Dortmund,FC Cologne,0,0,2017-04-29 14:30:00,Pierre-Emerick Aubameyang,Pass
+134160,36,MissedShots,0.8380000305175781,0.6370000076293946,0.08714339882135391,Marco Reus,h,319,OpenPlay,2016,RightFoot,3848,Borussia Dortmund,FC Cologne,0,0,2017-04-29 14:30:00,Marcel Schmelzer,BallRecovery
+134162,45,SavedShot,0.855,0.72,0.03271690011024475,Marco Reus,h,319,OpenPlay,2016,RightFoot,3848,Borussia Dortmund,FC Cologne,0,0,2017-04-29 14:30:00,Gonzalo Castro,TakeOn
+134842,3,Goal,0.8809999847412109,0.6090000152587891,0.31264999508857727,Marco Reus,h,319,OpenPlay,2016,RightFoot,3860,Borussia Dortmund,Hoffenheim,2,1,2017-05-06 14:30:00,Gonzalo Castro,Pass
+134852,57,SavedShot,0.9069999694824219,0.6020000076293945,0.2793850004673004,Marco Reus,h,319,SetPiece,2016,LeftFoot,3860,Borussia Dortmund,Hoffenheim,2,1,2017-05-06 14:30:00,Sokratis,Chipped
+134856,72,MissedShots,0.8619999694824219,0.455,0.130622997879982,Marco Reus,h,319,OpenPlay,2016,RightFoot,3860,Borussia Dortmund,Hoffenheim,2,1,2017-05-06 14:30:00,,None
+133249,82,MissedShots,0.9159999847412109,0.6619999694824219,0.0716416984796524,Marco Reus,a,319,OpenPlay,2016,RightFoot,3870,Augsburg,Borussia Dortmund,1,1,2017-05-13 14:30:00,Shinji Kagawa,Pass
+127680,13,BlockedShot,0.9490000152587891,0.5940000152587891,0.08760129660367966,Marco Reus,h,319,OpenPlay,2016,LeftFoot,3875,Borussia Dortmund,Werder Bremen,4,3,2017-05-20 14:30:00,Shinji Kagawa,Cross
+127681,14,ShotOnPost,0.9669999694824218,0.649000015258789,0.061719901859760284,Marco Reus,h,319,OpenPlay,2016,LeftFoot,3875,Borussia Dortmund,Werder Bremen,4,3,2017-05-20 14:30:00,Raphael Guerreiro,Chipped
+127687,31,Goal,0.8780000305175781,0.509000015258789,0.3985520005226135,Marco Reus,h,319,OpenPlay,2016,RightFoot,3875,Borussia Dortmund,Werder Bremen,4,3,2017-05-20 14:30:00,Shinji Kagawa,Pass
+127689,36,MissedShots,0.7319999694824219,0.34200000762939453,0.04481419920921326,Marco Reus,h,319,DirectFreekick,2016,RightFoot,3875,Borussia Dortmund,Werder Bremen,4,3,2017-05-20 14:30:00,,Standard
+127704,74,Goal,0.885,0.5,0.7577769756317139,Marco Reus,h,319,Penalty,2016,RightFoot,3875,Borussia Dortmund,Werder Bremen,4,3,2017-05-20 14:30:00,,Standard
+127708,84,MissedShots,0.9930000305175781,0.575,0.0836666002869606,Marco Reus,h,319,OpenPlay,2016,LeftFoot,3875,Borussia Dortmund,Werder Bremen,4,3,2017-05-20 14:30:00,,None
+196830,31,Goal,0.855,0.3029999923706055,0.041067998856306076,Marco Reus,a,319,OpenPlay,2017,RightFoot,8460,Borussia M.Gladbach,Borussia Dortmund,0,1,2018-02-18 17:00:00,André Schürrle,Pass
+196844,60,SavedShot,0.875999984741211,0.395,0.06251019984483719,Marco Reus,a,319,FromCorner,2017,RightFoot,8460,Borussia M.Gladbach,Borussia Dortmund,0,1,2018-02-18 17:00:00,,None
+198129,15,Goal,0.98,0.4490000152587891,0.6928489804267883,Marco Reus,h,319,OpenPlay,2017,RightFoot,8467,Borussia Dortmund,Augsburg,1,1,2018-02-26 19:30:00,,None
+198133,35,BlockedShot,0.73,0.6029999923706054,0.02502400055527687,Marco Reus,h,319,OpenPlay,2017,RightFoot,8467,Borussia Dortmund,Augsburg,1,1,2018-02-26 19:30:00,Julian Weigl,Pass
+199047,9,MissedShots,0.860999984741211,0.3220000076293945,0.0368536002933979,Marco Reus,a,319,OpenPlay,2017,RightFoot,8475,RasenBallsport Leipzig,Borussia Dortmund,1,1,2018-03-03 17:30:00,,Rebound
+199050,37,Goal,0.9359999847412109,0.5879999923706055,0.596176028251648,Marco Reus,a,319,OpenPlay,2017,LeftFoot,8475,RasenBallsport Leipzig,Borussia Dortmund,1,1,2018-03-03 17:30:00,Mahmoud Dahoud,TakeOn
+200831,6,MissedShots,0.8919999694824219,0.64,0.02741510048508644,Marco Reus,h,319,SetPiece,2017,RightFoot,8485,Borussia Dortmund,Eintracht Frankfurt,3,2,2018-03-11 17:00:00,,Aerial
+200837,21,MissedShots,0.9369999694824219,0.3039999961853027,0.07228740304708481,Marco Reus,h,319,OpenPlay,2017,RightFoot,8485,Borussia Dortmund,Eintracht Frankfurt,3,2,2018-03-11 17:00:00,Mahmoud Dahoud,Pass
+200839,29,BlockedShot,0.87,0.7340000152587891,0.043463099747896194,Marco Reus,h,319,OpenPlay,2017,RightFoot,8485,Borussia Dortmund,Eintracht Frankfurt,3,2,2018-03-11 17:00:00,Mahmoud Dahoud,Chipped
+200851,84,SavedShot,0.8680000305175781,0.7240000152587891,0.02551949955523014,Marco Reus,h,319,FromCorner,2017,LeftFoot,8485,Borussia Dortmund,Eintracht Frankfurt,3,2,2018-03-11 17:00:00,,None
+207450,40,MissedShots,0.9119999694824219,0.6780000305175782,0.07619760185480118,Marco Reus,h,319,OpenPlay,2017,RightFoot,8511,Borussia Dortmund,VfB Stuttgart,3,0,2018-04-08 13:30:00,Nuri Sahin,Chipped
+207462,85,BlockedShot,0.87,0.5129999923706055,0.10334400087594986,Marco Reus,h,319,OpenPlay,2017,LeftFoot,8511,Borussia Dortmund,VfB Stuttgart,3,0,2018-04-08 13:30:00,Mahmoud Dahoud,BallTouch
+209143,23,SavedShot,0.7119999694824218,0.664000015258789,0.03706130012869835,Marco Reus,a,319,DirectFreekick,2017,RightFoot,8524,Schalke 04,Borussia Dortmund,2,0,2018-04-15 13:30:00,,Standard
+209152,65,SavedShot,0.9009999847412109,0.43,0.08148930221796036,Marco Reus,a,319,OpenPlay,2017,LeftFoot,8524,Schalke 04,Borussia Dortmund,2,0,2018-04-15 13:30:00,Marcel Schmelzer,BallTouch
+209156,75,MissedShots,0.8769999694824219,0.2879999923706055,0.038424599915742874,Marco Reus,a,319,OpenPlay,2017,RightFoot,8524,Schalke 04,Borussia Dortmund,2,0,2018-04-15 13:30:00,Nuri Sahin,Chipped
+209160,88,SavedShot,0.8530000305175781,0.46599998474121096,0.09419599920511246,Marco Reus,a,319,OpenPlay,2017,RightFoot,8524,Schalke 04,Borussia Dortmund,2,0,2018-04-15 13:30:00,Christian Pulisic,Pass
+210564,7,BlockedShot,0.8430000305175781,0.6370000076293946,0.0529090017080307,Marco Reus,h,319,OpenPlay,2017,LeftFoot,8529,Borussia Dortmund,Bayer Leverkusen,4,0,2018-04-21 16:30:00,Jadon Sancho,Pass
+210572,25,BlockedShot,0.8480000305175781,0.28200000762939453,0.041824501007795334,Marco Reus,h,319,OpenPlay,2017,LeftFoot,8529,Borussia Dortmund,Bayer Leverkusen,4,0,2018-04-21 16:30:00,Christian Pulisic,Pass
+210575,36,SavedShot,0.885,0.5,0.7577769756317139,Marco Reus,h,319,Penalty,2017,RightFoot,8529,Borussia Dortmund,Bayer Leverkusen,4,0,2018-04-21 16:30:00,,Standard
+210579,50,ShotOnPost,0.8580000305175781,0.7330000305175781,0.03635869920253754,Marco Reus,h,319,OpenPlay,2017,RightFoot,8529,Borussia Dortmund,Bayer Leverkusen,4,0,2018-04-21 16:30:00,Julian Weigl,Chipped
+210582,54,Goal,0.9569999694824218,0.645,0.586027979850769,Marco Reus,h,319,OpenPlay,2017,LeftFoot,8529,Borussia Dortmund,Bayer Leverkusen,4,0,2018-04-21 16:30:00,Mario Götze,TakeOn
+210588,78,Goal,0.97,0.42400001525878905,0.43076398968696594,Marco Reus,h,319,OpenPlay,2017,Head,8529,Borussia Dortmund,Bayer Leverkusen,4,0,2018-04-21 16:30:00,Jadon Sancho,Cross
+212523,10,MissedShots,0.9159999847412109,0.31,0.050010599195957184,Marco Reus,a,319,OpenPlay,2017,RightFoot,8542,Werder Bremen,Borussia Dortmund,1,1,2018-04-29 16:00:00,,Rebound
+212526,18,Goal,0.8590000152587891,0.4329999923706055,0.07224199920892715,Marco Reus,a,319,OpenPlay,2017,RightFoot,8542,Werder Bremen,Borussia Dortmund,1,1,2018-04-29 16:00:00,,Rebound
+212532,42,SavedShot,0.8380000305175781,0.5709999847412109,0.3398579955101013,Marco Reus,a,319,OpenPlay,2017,LeftFoot,8542,Werder Bremen,Borussia Dortmund,1,1,2018-04-29 16:00:00,Mario Götze,Throughball
+212541,64,BlockedShot,0.8630000305175781,0.34,0.2135010063648224,Marco Reus,a,319,OpenPlay,2017,RightFoot,8542,Werder Bremen,Borussia Dortmund,1,1,2018-04-29 16:00:00,Jadon Sancho,Pass
+212553,92,MissedShots,0.8669999694824219,0.37400001525878906,0.0518811009824276,Marco Reus,a,319,FromCorner,2017,RightFoot,8542,Werder Bremen,Borussia Dortmund,1,1,2018-04-29 16:00:00,,None
+213135,9,BlockedShot,0.8959999847412109,0.6509999847412109,0.05755700170993805,Marco Reus,h,319,OpenPlay,2017,RightFoot,8550,Borussia Dortmund,Mainz 05,1,2,2018-05-05 14:30:00,Maximilian Philipp,BallTouch
+213146,56,BlockedShot,0.875999984741211,0.7090000152587891,0.043581098318099976,Marco Reus,h,319,OpenPlay,2017,LeftFoot,8550,Borussia Dortmund,Mainz 05,1,2,2018-05-05 14:30:00,Mario Götze,Pass
+214539,50,SavedShot,0.6980000305175781,0.4809999847412109,0.010631799697875977,Marco Reus,a,319,OpenPlay,2017,RightFoot,8557,Hoffenheim,Borussia Dortmund,3,1,2018-05-12 14:30:00,Julian Weigl,BallRecovery
+214543,57,Goal,0.9619999694824218,0.534000015258789,0.6618350148200989,Marco Reus,a,319,OpenPlay,2017,RightFoot,8557,Hoffenheim,Borussia Dortmund,3,1,2018-05-12 14:30:00,Raphael Guerreiro,Pass
+220746,19,BlockedShot,0.845999984741211,0.545,0.05889130011200905,Marco Reus,h,319,OpenPlay,2018,LeftFoot,10345,Borussia Dortmund,RasenBallsport Leipzig,4,1,2018-08-26 19:00:00,Thomas Delaney,None
+220764,90,Goal,0.9030000305175782,0.645,0.15323500335216522,Marco Reus,h,319,OpenPlay,2018,LeftFoot,10345,Borussia Dortmund,RasenBallsport Leipzig,4,1,2018-08-26 19:00:00,Jadon Sancho,Throughball
+221332,39,SavedShot,0.8809999847412109,0.33,0.31181800365448,Marco Reus,a,319,OpenPlay,2018,RightFoot,10346,Hannover 96,Borussia Dortmund,0,0,2018-08-31 21:30:00,,None
+221333,41,ShotOnPost,0.925,0.3160000038146973,0.3053390085697174,Marco Reus,a,319,OpenPlay,2018,RightFoot,10346,Hannover 96,Borussia Dortmund,0,0,2018-08-31 21:30:00,Mahmoud Dahoud,Throughball
+224896,81,BlockedShot,0.8159999847412109,0.3220000076293945,0.09253480285406113,Marco Reus,a,319,DirectFreekick,2018,RightFoot,10365,Hoffenheim,Borussia Dortmund,1,1,2018-09-22 13:30:00,,Standard
+226675,10,SavedShot,0.8969999694824219,0.55,0.4503050148487091,Marco Reus,h,319,OpenPlay,2018,RightFoot,10378,Borussia Dortmund,Nuernberg,7,0,2018-09-26 18:30:00,Jacob Bruun Larsen,Interception
+226676,11,BlockedShot,0.8519999694824218,0.6430000305175781,0.07498879730701447,Marco Reus,h,319,OpenPlay,2018,RightFoot,10378,Borussia Dortmund,Nuernberg,7,0,2018-09-26 18:30:00,Marcel Schmelzer,Pass
+226681,31,Goal,0.774000015258789,0.509000015258789,0.042767301201820374,Marco Reus,h,319,OpenPlay,2018,RightFoot,10378,Borussia Dortmund,Nuernberg,7,0,2018-09-26 18:30:00,Maximilian Philipp,Pass
+226689,57,Goal,0.915,0.5509999847412109,0.5249590277671814,Marco Reus,h,319,OpenPlay,2018,RightFoot,10378,Borussia Dortmund,Nuernberg,7,0,2018-09-26 18:30:00,Jacob Bruun Larsen,Pass
+228234,35,SavedShot,0.735,0.34900001525878904,0.046951498836278915,Marco Reus,a,319,DirectFreekick,2018,RightFoot,10388,Bayer Leverkusen,Borussia Dortmund,2,4,2018-09-29 16:30:00,,Standard
+228240,47,MissedShots,0.8919999694824219,0.519000015258789,0.06751079857349396,Marco Reus,a,319,OpenPlay,2018,RightFoot,10388,Bayer Leverkusen,Borussia Dortmund,2,4,2018-09-29 16:30:00,Jacob Bruun Larsen,Chipped
+228247,64,SavedShot,0.9540000152587891,0.66,0.027652300894260406,Marco Reus,a,319,OpenPlay,2018,LeftFoot,10388,Bayer Leverkusen,Borussia Dortmund,2,4,2018-09-29 16:30:00,Achraf Hakimi,Cross
+228250,68,Goal,0.879000015258789,0.42900001525878906,0.5457010269165039,Marco Reus,a,319,OpenPlay,2018,RightFoot,10388,Bayer Leverkusen,Borussia Dortmund,2,4,2018-09-29 16:30:00,Jadon Sancho,Pass
+255211,14,MissedShots,0.9019999694824219,0.44299999237060544,0.4115000069141388,Marco Reus,h,319,OpenPlay,2018,RightFoot,10393,Borussia Dortmund,Augsburg,4,3,2018-10-06 13:30:00,Jadon Sancho,Pass
+255504,22,Goal,0.8590000152587891,0.44599998474121094,0.3524630069732666,Marco Reus,a,319,OpenPlay,2018,RightFoot,10402,VfB Stuttgart,Borussia Dortmund,0,4,2018-10-20 13:30:00,Lukasz Piszczek,Pass
+255684,55,MissedShots,0.8040000152587891,0.7080000305175781,0.07140470296144485,Marco Reus,h,319,DirectFreekick,2018,RightFoot,10410,Borussia Dortmund,Hertha Berlin,2,2,2018-10-27 13:30:00,,Standard
+255687,74,BlockedShot,0.91,0.595999984741211,0.10936000198125839,Marco Reus,h,319,OpenPlay,2018,LeftFoot,10410,Borussia Dortmund,Hertha Berlin,2,2,2018-10-27 13:30:00,,None
+255691,81,MissedShots,0.7780000305175782,0.3240000152587891,0.016970399767160416,Marco Reus,h,319,FromCorner,2018,RightFoot,10410,Borussia Dortmund,Hertha Berlin,2,2,2018-10-27 13:30:00,,None
+255941,26,Goal,0.98,0.5570000076293945,0.5753369927406311,Marco Reus,a,319,OpenPlay,2018,Head,10421,Wolfsburg,Borussia Dortmund,0,1,2018-11-03 14:30:00,Thomas Delaney,Rebound
+255945,43,BlockedShot,0.894000015258789,0.31799999237060544,0.04406360164284706,Marco Reus,a,319,FromCorner,2018,RightFoot,10421,Wolfsburg,Borussia Dortmund,0,1,2018-11-03 14:30:00,Jadon Sancho,Pass
+256341,9,SavedShot,0.8209999847412109,0.5359999847412109,0.30605199933052063,Marco Reus,h,319,OpenPlay,2018,RightFoot,10428,Borussia Dortmund,Bayern Munich,3,2,2018-11-10 17:30:00,,TakeOn
+256347,48,Goal,0.885,0.5,0.7577769756317139,Marco Reus,h,319,Penalty,2018,RightFoot,10428,Borussia Dortmund,Bayern Munich,3,2,2018-11-10 17:30:00,,Standard
+256350,58,BlockedShot,0.9430000305175781,0.509000015258789,0.5553539991378784,Marco Reus,h,319,OpenPlay,2018,RightFoot,10428,Borussia Dortmund,Bayern Munich,3,2,2018-11-10 17:30:00,,None
+256353,64,MissedShots,0.865999984741211,0.500999984741211,0.0939721018075943,Marco Reus,h,319,OpenPlay,2018,RightFoot,10428,Borussia Dortmund,Bayern Munich,3,2,2018-11-10 17:30:00,Achraf Hakimi,Pass
+256354,66,Goal,0.8730000305175781,0.4159999847412109,0.060498300939798355,Marco Reus,h,319,OpenPlay,2018,RightFoot,10428,Borussia Dortmund,Bayern Munich,3,2,2018-11-10 17:30:00,Lukasz Piszczek,Cross
+256359,90,MissedShots,0.895,0.6780000305175782,0.05310229957103729,Marco Reus,h,319,SetPiece,2018,LeftFoot,10428,Borussia Dortmund,Bayern Munich,3,2,2018-11-10 17:30:00,Axel Witsel,Chipped
+256531,9,MissedShots,0.899000015258789,0.4329999923706055,0.06573300063610077,Marco Reus,a,319,OpenPlay,2018,Head,10443,Mainz 05,Borussia Dortmund,1,2,2018-11-24 14:30:00,Lukasz Piszczek,Cross
+256538,30,SavedShot,0.7680000305175781,0.30700000762939456,0.055659398436546326,Marco Reus,a,319,DirectFreekick,2018,RightFoot,10443,Mainz 05,Borussia Dortmund,1,2,2018-11-24 14:30:00,,Standard
+256552,88,SavedShot,0.7959999847412109,0.5609999847412109,0.05065020173788071,Marco Reus,a,319,OpenPlay,2018,RightFoot,10443,Mainz 05,Borussia Dortmund,1,2,2018-11-24 14:30:00,Paco Alcácer,Pass
+256675,27,BlockedShot,0.935,0.5479999923706055,0.14458100497722626,Marco Reus,h,319,OpenPlay,2018,LeftFoot,10446,Borussia Dortmund,Freiburg,2,0,2018-12-01 14:30:00,Jacob Bruun Larsen,Pass
+256677,39,Goal,0.885,0.5,0.7577769756317139,Marco Reus,h,319,Penalty,2018,RightFoot,10446,Borussia Dortmund,Freiburg,2,0,2018-12-01 14:30:00,,Standard
+256680,47,SavedShot,0.9259999847412109,0.3609999847412109,0.3675130009651184,Marco Reus,h,319,OpenPlay,2018,RightFoot,10446,Borussia Dortmund,Freiburg,2,0,2018-12-01 14:30:00,,BallRecovery
+257035,32,MissedShots,0.7609999847412109,0.30100000381469727,0.02547840029001236,Marco Reus,a,319,OpenPlay,2018,RightFoot,10455,Schalke 04,Borussia Dortmund,1,2,2018-12-08 14:30:00,Paco Alcácer,Pass
+257039,78,SavedShot,0.8830000305175781,0.6619999694824219,0.11759500205516815,Marco Reus,a,319,OpenPlay,2018,RightFoot,10455,Schalke 04,Borussia Dortmund,1,2,2018-12-08 14:30:00,Mario Götze,TakeOn
+257317,26,Goal,0.8730000305175781,0.4329999923706055,0.3786740005016327,Marco Reus,h,319,OpenPlay,2018,RightFoot,10464,Borussia Dortmund,Werder Bremen,2,1,2018-12-15 17:30:00,Jadon Sancho,Pass
+257321,39,SavedShot,0.7440000152587891,0.7390000152587891,0.03859579935669899,Marco Reus,h,319,DirectFreekick,2018,RightFoot,10464,Borussia Dortmund,Werder Bremen,2,1,2018-12-15 17:30:00,,Standard
+257326,47,SavedShot,0.8830000305175781,0.575999984741211,0.12435600161552429,Marco Reus,h,319,OpenPlay,2018,RightFoot,10464,Borussia Dortmund,Werder Bremen,2,1,2018-12-15 17:30:00,Paco Alcácer,Pass
+257330,56,BlockedShot,0.94,0.555,0.1482129991054535,Marco Reus,h,319,OpenPlay,2018,RightFoot,10464,Borussia Dortmund,Werder Bremen,2,1,2018-12-15 17:30:00,Paco Alcácer,CornerAwarded
+257331,61,MissedShots,0.845,0.705,0.032588399946689606,Marco Reus,h,319,FromCorner,2018,LeftFoot,10464,Borussia Dortmund,Werder Bremen,2,1,2018-12-15 17:30:00,Raphael Guerreiro,Pass
+257335,70,MissedShots,0.7809999847412109,0.705,0.018261399120092392,Marco Reus,h,319,SetPiece,2018,RightFoot,10464,Borussia Dortmund,Werder Bremen,2,1,2018-12-15 17:30:00,Raphael Guerreiro,Pass
+257492,70,BlockedShot,0.9519999694824218,0.28100000381469725,0.04065150022506714,Marco Reus,a,319,OpenPlay,2018,RightFoot,10478,Fortuna Duesseldorf,Borussia Dortmund,2,1,2018-12-18 19:30:00,Jadon Sancho,Pass
+257673,19,SavedShot,0.905,0.625,0.3520300090312958,Marco Reus,h,319,OpenPlay,2018,RightFoot,10483,Borussia Dortmund,Borussia M.Gladbach,2,1,2018-12-21 19:30:00,Paco Alcácer,Throughball
+257681,53,Goal,0.970999984741211,0.519000015258789,0.7838069796562195,Marco Reus,h,319,OpenPlay,2018,LeftFoot,10483,Borussia Dortmund,Borussia M.Gladbach,2,1,2018-12-21 19:30:00,Mario Götze,Throughball
+257683,64,ShotOnPost,0.7759999847412109,0.67,0.06543300300836563,Marco Reus,h,319,DirectFreekick,2018,RightFoot,10483,Borussia Dortmund,Borussia M.Gladbach,2,1,2018-12-21 19:30:00,,Standard
+278542,19,MissedShots,0.8680000305175781,0.5270000076293946,0.3711720108985901,Marco Reus,h,319,OpenPlay,2018,RightFoot,10500,Borussia Dortmund,Hannover 96,5,1,2019-01-26 14:30:00,Mario Götze,Pass
+278543,21,ShotOnPost,0.8930000305175781,0.48,0.4210590124130249,Marco Reus,h,319,OpenPlay,2018,LeftFoot,10500,Borussia Dortmund,Hannover 96,5,1,2019-01-26 14:30:00,Lukasz Piszczek,Throughball
+278555,59,Goal,0.9019999694824219,0.605999984741211,0.38309499621391296,Marco Reus,h,319,OpenPlay,2018,RightFoot,10500,Borussia Dortmund,Hannover 96,5,1,2019-01-26 14:30:00,Achraf Hakimi,Pass
+278558,70,MissedShots,0.8530000305175781,0.6819999694824219,0.38384100794792175,Marco Reus,h,319,OpenPlay,2018,RightFoot,10500,Borussia Dortmund,Hannover 96,5,1,2019-01-26 14:30:00,,Aerial
+278809,21,Goal,0.9130000305175782,0.515,0.5178059935569763,Marco Reus,a,319,OpenPlay,2018,LeftFoot,10510,Eintracht Frankfurt,Borussia Dortmund,1,1,2019-02-02 14:30:00,Raphael Guerreiro,Pass
+278810,23,MissedShots,0.8719999694824219,0.43599998474121093,0.3891099989414215,Marco Reus,a,319,OpenPlay,2018,RightFoot,10510,Eintracht Frankfurt,Borussia Dortmund,1,1,2019-02-02 14:30:00,,None
+278811,24,ShotOnPost,0.89,0.5570000076293945,0.3884899914264679,Marco Reus,a,319,OpenPlay,2018,RightFoot,10510,Eintracht Frankfurt,Borussia Dortmund,1,1,2019-02-02 14:30:00,Axel Witsel,Pass
+278812,28,MissedShots,0.8780000305175781,0.4329999923706055,0.09848179668188095,Marco Reus,a,319,SetPiece,2018,RightFoot,10510,Eintracht Frankfurt,Borussia Dortmund,1,1,2019-02-02 14:30:00,Raphael Guerreiro,Pass
+279579,7,SavedShot,0.9619999694824218,0.5459999847412109,0.6216009855270386,Marco Reus,a,319,OpenPlay,2018,RightFoot,10550,Augsburg,Borussia Dortmund,2,1,2019-03-01 19:30:00,Jacob Bruun Larsen,Pass
+279588,30,MissedShots,0.885,0.544000015258789,0.05310149863362312,Marco Reus,a,319,OpenPlay,2018,Head,10550,Augsburg,Borussia Dortmund,2,1,2019-03-01 19:30:00,Abdou Diallo,Cross
+284430,61,Goal,0.885,0.5,0.7577769756317139,Marco Reus,h,319,Penalty,2018,RightFoot,10555,Borussia Dortmund,VfB Stuttgart,3,1,2019-03-09 14:30:00,,Standard
+284435,83,BlockedShot,0.82,0.48700000762939455,0.022326799109578133,Marco Reus,h,319,OpenPlay,2018,RightFoot,10555,Borussia Dortmund,VfB Stuttgart,3,1,2019-03-09 14:30:00,,Aerial
+286390,37,MissedShots,0.799000015258789,0.44299999237060544,0.017990300431847572,Marco Reus,a,319,FromCorner,2018,RightFoot,10568,Hertha Berlin,Borussia Dortmund,2,3,2019-03-16 17:30:00,,Aerial
+286411,91,Goal,0.8909999847412109,0.56,0.1200840026140213,Marco Reus,a,319,OpenPlay,2018,RightFoot,10568,Hertha Berlin,Borussia Dortmund,2,3,2019-03-16 17:30:00,Jadon Sancho,Pass
+293773,13,BlockedShot,0.9669999694824218,0.6880000305175781,0.046763498336076736,Marco Reus,h,319,OpenPlay,2018,LeftFoot,10590,Borussia Dortmund,Mainz 05,2,1,2019-04-13 17:30:00,,Rebound
+293780,44,BlockedShot,0.8669999694824219,0.36,0.09488219767808914,Marco Reus,h,319,OpenPlay,2018,RightFoot,10590,Borussia Dortmund,Mainz 05,2,1,2019-04-13 17:30:00,Jadon Sancho,Pass
+293782,51,SavedShot,0.9130000305175782,0.4129999923706055,0.13870100677013397,Marco Reus,h,319,OpenPlay,2018,LeftFoot,10590,Borussia Dortmund,Mainz 05,2,1,2019-04-13 17:30:00,Marius Wolf,Pass
+293790,80,MissedShots,0.89,0.41,0.4369319975376129,Marco Reus,h,319,OpenPlay,2018,RightFoot,10590,Borussia Dortmund,Mainz 05,2,1,2019-04-13 17:30:00,Jadon Sancho,Pass
+295915,18,SavedShot,0.725999984741211,0.7140000152587891,0.01412389986217022,Marco Reus,a,319,SetPiece,2018,RightFoot,10601,Freiburg,Borussia Dortmund,0,4,2019-04-21 14:30:00,Raphael Guerreiro,Pass
+295924,53,Goal,0.92,0.35700000762939454,0.35782700777053833,Marco Reus,a,319,OpenPlay,2018,RightFoot,10601,Freiburg,Borussia Dortmund,0,4,2019-04-21 14:30:00,Raphael Guerreiro,Throughball
+302332,6,MissedShots,0.9340000152587891,0.46900001525878904,0.14511899650096893,Marco Reus,a,319,OpenPlay,2018,Head,10639,Borussia M.Gladbach,Borussia Dortmund,0,2,2019-05-18 13:30:00,Mario Götze,Cross
+302336,36,MissedShots,0.799000015258789,0.7609999847412109,0.05309220030903816,Marco Reus,a,319,DirectFreekick,2018,RightFoot,10639,Borussia M.Gladbach,Borussia Dortmund,0,2,2019-05-18 13:30:00,,Standard
+302339,50,MissedShots,0.8490000152587891,0.5420000076293945,0.0992773026227951,Marco Reus,a,319,OpenPlay,2018,LeftFoot,10639,Borussia M.Gladbach,Borussia Dortmund,0,2,2019-05-18 13:30:00,Jadon Sancho,Pass
+302340,51,SavedShot,0.8969999694824219,0.5840000152587891,0.1061370000243187,Marco Reus,a,319,OpenPlay,2018,LeftFoot,10639,Borussia M.Gladbach,Borussia Dortmund,0,2,2019-05-18 13:30:00,,None
+302342,53,Goal,0.9719999694824218,0.49700000762939456,0.9225999712944031,Marco Reus,a,319,OpenPlay,2018,LeftFoot,10639,Borussia M.Gladbach,Borussia Dortmund,0,2,2019-05-18 13:30:00,Christian Pulisic,Pass
+310652,18,SavedShot,0.9069999694824219,0.5279999923706055,0.10066799819469452,Marco Reus,h,319,OpenPlay,2019,Head,12406,Borussia Dortmund,Augsburg,5,1,2019-08-17 14:30:00,Thorgan Hazard,Cross
+310653,20,BlockedShot,0.7780000305175782,0.375,0.022879300639033318,Marco Reus,h,319,FromCorner,2019,LeftFoot,12406,Borussia Dortmund,Augsburg,5,1,2019-08-17 14:30:00,Axel Witsel,Pass
+310654,24,SavedShot,0.8730000305175781,0.42400001525878905,0.0750311017036438,Marco Reus,h,319,OpenPlay,2019,RightFoot,12406,Borussia Dortmund,Augsburg,5,1,2019-08-17 14:30:00,,None
+310658,37,MissedShots,0.715,0.524000015258789,0.01659969985485077,Marco Reus,h,319,FromCorner,2019,RightFoot,12406,Borussia Dortmund,Augsburg,5,1,2019-08-17 14:30:00,Lukasz Piszczek,BallTouch
+310661,56,Goal,0.89,0.4759999847412109,0.4556800127029419,Marco Reus,h,319,OpenPlay,2019,RightFoot,12406,Borussia Dortmund,Augsburg,5,1,2019-08-17 14:30:00,Paco Alcácer,Pass
+312167,22,SavedShot,0.730999984741211,0.6370000076293946,0.046825699508190155,Marco Reus,a,319,DirectFreekick,2019,RightFoot,12412,FC Cologne,Borussia Dortmund,1,3,2019-08-23 19:30:00,,Standard
+312181,62,SavedShot,0.925,0.605999984741211,0.40651699900627136,Marco Reus,a,319,OpenPlay,2019,LeftFoot,12412,FC Cologne,Borussia Dortmund,1,3,2019-08-23 19:30:00,Julian Brandt,Throughball
+316028,13,MissedShots,0.8219999694824218,0.7869999694824219,0.05416730046272278,Marco Reus,a,319,DirectFreekick,2019,RightFoot,12427,Union Berlin,Borussia Dortmund,3,1,2019-08-31 17:30:00,,Standard
+316030,19,MissedShots,0.855999984741211,0.46799999237060547,0.2911370098590851,Marco Reus,a,319,OpenPlay,2019,RightFoot,12427,Union Berlin,Borussia Dortmund,3,1,2019-08-31 17:30:00,Manuel Akanji,Chipped
+316036,46,SavedShot,0.779000015258789,0.5420000076293945,0.03368990123271942,Marco Reus,a,319,OpenPlay,2019,LeftFoot,12427,Union Berlin,Borussia Dortmund,3,1,2019-08-31 17:30:00,Paco Alcácer,Pass
+316039,47,MissedShots,0.895,0.6759999847412109,0.056623201817274094,Marco Reus,a,319,OpenPlay,2019,RightFoot,12427,Union Berlin,Borussia Dortmund,3,1,2019-08-31 17:30:00,Paco Alcácer,HeadPass
+317105,23,SavedShot,0.9,0.3160000038146973,0.29989099502563477,Marco Reus,h,319,OpenPlay,2019,RightFoot,12435,Borussia Dortmund,Bayer Leverkusen,4,0,2019-09-14 13:30:00,Paco Alcácer,Pass
+317115,49,Goal,0.89,0.41700000762939454,0.3752470016479492,Marco Reus,h,319,OpenPlay,2019,RightFoot,12435,Borussia Dortmund,Bayer Leverkusen,4,0,2019-09-14 13:30:00,Jadon Sancho,Pass
+317122,89,Goal,0.9359999847412109,0.5320000076293945,0.5973830223083496,Marco Reus,h,319,OpenPlay,2019,LeftFoot,12435,Borussia Dortmund,Bayer Leverkusen,4,0,2019-09-14 13:30:00,Jacob Bruun Larsen,Pass
+321363,77,BlockedShot,0.875,0.46799999237060547,0.09225799888372421,Marco Reus,a,319,OpenPlay,2019,RightFoot,12446,Eintracht Frankfurt,Borussia Dortmund,2,2,2019-09-22 16:00:00,Mario Götze,Cross
+321364,78,SavedShot,0.865999984741211,0.43099998474121093,0.10896799713373184,Marco Reus,a,319,OpenPlay,2019,RightFoot,12446,Eintracht Frankfurt,Borussia Dortmund,2,2,2019-09-22 16:00:00,Mario Götze,Pass
+322905,40,Goal,0.9030000305175782,0.4490000152587891,0.09347870200872421,Marco Reus,h,319,OpenPlay,2019,Head,12454,Borussia Dortmund,Werder Bremen,2,2,2019-09-28 16:30:00,Thorgan Hazard,Cross
+322921,77,MissedShots,0.8819999694824219,0.5259999847412109,0.1051890030503273,Marco Reus,h,319,OpenPlay,2019,LeftFoot,12454,Borussia Dortmund,Werder Bremen,2,2,2019-09-28 16:30:00,Julian Brandt,Rebound
+324023,9,BlockedShot,0.8540000152587891,0.5690000152587891,0.08862409740686417,Marco Reus,a,319,OpenPlay,2019,RightFoot,12460,Freiburg,Borussia Dortmund,2,2,2019-10-05 14:30:00,Achraf Hakimi,Pass
+324031,46,MissedShots,0.8930000305175781,0.3920000076293945,0.020559299737215042,Marco Reus,a,319,FromCorner,2019,Head,12460,Freiburg,Borussia Dortmund,2,2,2019-10-05 14:30:00,Raphael Guerreiro,Cross
+325839,45,BlockedShot,0.89,0.35900001525878905,0.050857800990343094,Marco Reus,h,319,FromCorner,2019,RightFoot,12469,Borussia Dortmund,Borussia M.Gladbach,1,0,2019-10-19 17:30:00,Thorgan Hazard,Pass
+325850,57,Goal,0.909000015258789,0.375,0.35044899582862854,Marco Reus,h,319,OpenPlay,2019,RightFoot,12469,Borussia Dortmund,Borussia M.Gladbach,1,0,2019-10-19 17:30:00,Thorgan Hazard,Throughball
+325857,87,SavedShot,0.9059999847412109,0.45599998474121095,0.3203350007534027,Marco Reus,h,319,OpenPlay,2019,RightFoot,12469,Borussia Dortmund,Borussia M.Gladbach,1,0,2019-10-19 17:30:00,Mats Hummels,Chipped
+329019,14,BlockedShot,0.850999984741211,0.3970000076293945,0.09311109781265259,Marco Reus,h,319,OpenPlay,2019,RightFoot,12484,Borussia Dortmund,Wolfsburg,3,0,2019-11-02 14:30:00,,TakeOn
+331760,30,BlockedShot,0.9359999847412109,0.7080000305175781,0.052113499492406845,Marco Reus,h,319,OpenPlay,2019,LeftFoot,12502,Borussia Dortmund,Paderborn,3,3,2019-11-22 19:30:00,Mahmoud Dahoud,HeadPass
+331765,47,SavedShot,0.9119999694824219,0.645,0.07863599807024002,Marco Reus,h,319,OpenPlay,2019,LeftFoot,12502,Borussia Dortmund,Paderborn,3,3,2019-11-22 19:30:00,Julian Brandt,Pass
+331768,58,MissedShots,0.8819999694824219,0.38599998474121094,0.08772250264883041,Marco Reus,h,319,OpenPlay,2019,RightFoot,12502,Borussia Dortmund,Paderborn,3,3,2019-11-22 19:30:00,Achraf Hakimi,Pass
+331775,80,MissedShots,0.924000015258789,0.524000015258789,0.13640999794006348,Marco Reus,h,319,OpenPlay,2019,Head,12502,Borussia Dortmund,Paderborn,3,3,2019-11-22 19:30:00,Raphael Guerreiro,Cross
+331779,91,Goal,0.9540000152587891,0.5279999923706055,0.49094998836517334,Marco Reus,h,319,OpenPlay,2019,Head,12502,Borussia Dortmund,Paderborn,3,3,2019-11-22 19:30:00,Jadon Sancho,Cross
+335568,2,MissedShots,0.7340000152587891,0.5690000152587891,0.011768599972128868,Marco Reus,h,319,SetPiece,2019,RightFoot,12520,Borussia Dortmund,Fortuna Duesseldorf,5,0,2019-12-07 14:30:00,,None
+335569,9,SavedShot,0.8490000152587891,0.4370000076293945,0.08471789956092834,Marco Reus,h,319,OpenPlay,2019,RightFoot,12520,Borussia Dortmund,Fortuna Duesseldorf,5,0,2019-12-07 14:30:00,Thorgan Hazard,Pass
+335570,15,MissedShots,0.855999984741211,0.5279999923706055,0.057147398591041565,Marco Reus,h,319,OpenPlay,2019,RightFoot,12520,Borussia Dortmund,Fortuna Duesseldorf,5,0,2019-12-07 14:30:00,Raphael Guerreiro,Cross
+335577,41,Goal,0.914000015258789,0.44599998474121094,0.4954339861869812,Marco Reus,h,319,OpenPlay,2019,LeftFoot,12520,Borussia Dortmund,Fortuna Duesseldorf,5,0,2019-12-07 14:30:00,Lukasz Piszczek,Throughball
+335580,54,MissedShots,0.899000015258789,0.53,0.13738800585269928,Marco Reus,h,319,OpenPlay,2019,LeftFoot,12520,Borussia Dortmund,Fortuna Duesseldorf,5,0,2019-12-07 14:30:00,Julian Brandt,Pass
+335585,69,Goal,0.9440000152587891,0.49700000762939456,0.6487470269203186,Marco Reus,h,319,OpenPlay,2019,LeftFoot,12520,Borussia Dortmund,Fortuna Duesseldorf,5,0,2019-12-07 14:30:00,Thorgan Hazard,Pass
+336886,6,BlockedShot,0.855,0.3970000076293945,0.08133140206336975,Marco Reus,a,319,OpenPlay,2019,RightFoot,12534,Mainz 05,Borussia Dortmund,0,4,2019-12-14 14:30:00,Achraf Hakimi,Pass
+336887,6,BlockedShot,0.91,0.42400001525878905,0.11827199906110764,Marco Reus,a,319,OpenPlay,2019,RightFoot,12534,Mainz 05,Borussia Dortmund,0,4,2019-12-14 14:30:00,,Rebound
+336892,19,MissedShots,0.894000015258789,0.5729999923706055,0.08764529973268509,Marco Reus,a,319,OpenPlay,2019,LeftFoot,12534,Mainz 05,Borussia Dortmund,0,4,2019-12-14 14:30:00,,None
+336893,31,Goal,0.830999984741211,0.49599998474121093,0.04336930066347122,Marco Reus,a,319,FromCorner,2019,RightFoot,12534,Mainz 05,Borussia Dortmund,0,4,2019-12-14 14:30:00,,BallTouch
+338011,67,MissedShots,0.925,0.3220000076293945,0.08195880055427551,Marco Reus,h,319,OpenPlay,2019,RightFoot,12538,Borussia Dortmund,RasenBallsport Leipzig,3,3,2019-12-17 19:30:00,,BallRecovery
+354858,7,MissedShots,0.915,0.5179999923706055,0.5105260014533997,Marco Reus,a,319,OpenPlay,2019,RightFoot,12562,Augsburg,Borussia Dortmund,3,5,2020-01-18 14:30:00,Jadon Sancho,Pass
+354864,28,MissedShots,0.9309999847412109,0.485,0.5736879706382751,Marco Reus,a,319,OpenPlay,2019,RightFoot,12562,Augsburg,Borussia Dortmund,3,5,2020-01-18 14:30:00,Axel Witsel,Pass
+354878,61,SavedShot,0.8209999847412109,0.6680000305175782,0.03751229867339134,Marco Reus,a,319,OpenPlay,2019,LeftFoot,12562,Augsburg,Borussia Dortmund,3,5,2020-01-18 14:30:00,Jadon Sancho,Goal
+355514,13,SavedShot,0.7930000305175782,0.23299999237060548,0.04946029931306839,Marco Reus,h,319,DirectFreekick,2019,RightFoot,12566,Borussia Dortmund,FC Cologne,5,1,2020-01-24 19:30:00,,Standard
+355517,28,Goal,0.8880000305175781,0.4279999923706055,0.30408498644828796,Marco Reus,h,319,OpenPlay,2019,RightFoot,12566,Borussia Dortmund,FC Cologne,5,1,2020-01-24 19:30:00,Mats Hummels,Chipped
+356585,8,SavedShot,0.7519999694824219,0.6659999847412109,0.02189530059695244,Marco Reus,h,319,OpenPlay,2019,LeftFoot,12574,Borussia Dortmund,Union Berlin,5,0,2020-02-01 14:30:00,,TakeOn
+356598,67,Goal,0.885,0.5,0.7576959729194641,Marco Reus,h,319,Penalty,2019,RightFoot,12574,Borussia Dortmund,Union Berlin,5,0,2020-02-01 14:30:00,,Standard
+378804,76,BlockedShot,0.7469999694824219,0.43900001525878907,0.06424350291490555,Marco Reus,a,319,DirectFreekick,2020,RightFoot,14184,Augsburg,Borussia Dortmund,2,0,2020-09-26 13:30:00,,Standard
+380500,63,MissedShots,0.9530000305175781,0.5640000152587891,0.4926010072231293,Marco Reus,h,319,OpenPlay,2020,Head,15162,Borussia Dortmund,Freiburg,4,0,2020-10-03 13:30:00,Jude Bellingham,Chipped
+381775,73,SavedShot,0.845,0.509000015258789,0.07765260338783264,Marco Reus,a,319,OpenPlay,2020,LeftFoot,15167,Hoffenheim,Borussia Dortmund,0,1,2020-10-17 13:30:00,Thomas Meunier,BallRecovery
+381776,75,Goal,0.9169999694824219,0.5279999923706055,0.5179529786109924,Marco Reus,a,319,OpenPlay,2020,LeftFoot,15167,Hoffenheim,Borussia Dortmund,0,1,2020-10-17 13:30:00,Erling Haaland,Pass
+381782,88,MissedShots,0.9080000305175782,0.705999984741211,0.04431900009512901,Marco Reus,a,319,FromCorner,2020,RightFoot,15167,Hoffenheim,Borussia Dortmund,0,1,2020-10-17 13:30:00,Raphael Guerreiro,Pass
+384553,1,BlockedShot,0.7319999694824219,0.7080000305175781,0.038849301636219025,Marco Reus,a,319,DirectFreekick,2020,RightFoot,15188,Arminia Bielefeld,Borussia Dortmund,0,2,2020-10-31 14:30:00,,Standard
+384561,32,SavedShot,0.8230000305175781,0.6669999694824219,0.041605498641729355,Marco Reus,a,319,FromCorner,2020,RightFoot,15188,Arminia Bielefeld,Borussia Dortmund,0,2,2020-10-31 14:30:00,Thomas Delaney,Pass
+386119,23,BlockedShot,0.9059999847412109,0.6630000305175782,0.07339049875736237,Marco Reus,h,319,OpenPlay,2020,LeftFoot,15200,Borussia Dortmund,Bayern Munich,2,3,2020-11-07 17:30:00,Raphael Guerreiro,Pass
+386122,30,MissedShots,0.785,0.5029999923706054,0.03305340185761452,Marco Reus,h,319,FromCorner,2020,RightFoot,15200,Borussia Dortmund,Bayern Munich,2,3,2020-11-07 17:30:00,Raphael Guerreiro,Pass
+386128,44,Goal,0.9230000305175782,0.5279999923706055,0.5249670147895813,Marco Reus,h,319,OpenPlay,2020,RightFoot,15200,Borussia Dortmund,Bayern Munich,2,3,2020-11-07 17:30:00,Raphael Guerreiro,Pass
+386134,67,SavedShot,0.8919999694824219,0.41700000762939454,0.1392190009355545,Marco Reus,h,319,OpenPlay,2020,LeftFoot,15200,Borussia Dortmund,Bayern Munich,2,3,2020-11-07 17:30:00,Jude Bellingham,TakeOn
+386139,86,MissedShots,0.8959999847412109,0.4929999923706055,0.35408300161361694,Marco Reus,h,319,OpenPlay,2020,LeftFoot,15200,Borussia Dortmund,Bayern Munich,2,3,2020-11-07 17:30:00,Raphael Guerreiro,Cross
+387562,16,SavedShot,0.89,0.66,0.055399201810359955,Marco Reus,a,319,OpenPlay,2020,RightFoot,15209,Hertha Berlin,Borussia Dortmund,2,5,2020-11-21 19:30:00,,Rebound
+387573,53,MissedShots,0.850999984741211,0.35200000762939454,0.08710239827632904,Marco Reus,a,319,OpenPlay,2020,RightFoot,15209,Hertha Berlin,Borussia Dortmund,2,5,2020-11-21 19:30:00,Julian Brandt,Pass
+388695,41,BlockedShot,0.8769999694824219,0.6020000076293945,0.08379670232534409,Marco Reus,h,319,OpenPlay,2020,LeftFoot,15212,Borussia Dortmund,FC Cologne,1,2,2020-11-28 14:30:00,Jadon Sancho,Pass
+388696,48,SavedShot,0.7340000152587891,0.6509999847412109,0.01290970016270876,Marco Reus,h,319,SetPiece,2020,RightFoot,15212,Borussia Dortmund,FC Cologne,1,2,2020-11-28 14:30:00,Emre Can,Foul
+392657,71,SavedShot,0.92,0.3820000076293945,0.039439599961042404,Marco Reus,a,319,OpenPlay,2020,Head,15242,Werder Bremen,Borussia Dortmund,1,2,2020-12-15 19:30:00,Mateu Morey,Cross
+392658,77,SavedShot,0.885,0.5,0.7577769756317139,Marco Reus,a,319,Penalty,2020,RightFoot,15242,Werder Bremen,Borussia Dortmund,1,2,2020-12-15 19:30:00,,Standard
+392659,77,Goal,0.9790000152587891,0.5070000076293946,0.9461950063705444,Marco Reus,a,319,SetPiece,2020,RightFoot,15242,Werder Bremen,Borussia Dortmund,1,2,2020-12-15 19:30:00,,Rebound
+392661,94,SavedShot,0.9490000152587891,0.4420000076293945,0.5807530283927917,Marco Reus,a,319,OpenPlay,2020,LeftFoot,15242,Werder Bremen,Borussia Dortmund,1,2,2020-12-15 19:30:00,Giovanni Reyna,TakeOn
+396888,9,SavedShot,0.9059999847412109,0.5729999923706055,0.12291699647903442,Marco Reus,h,319,OpenPlay,2020,LeftFoot,15258,Borussia Dortmund,Wolfsburg,2,0,2021-01-03 14:30:00,Giovanni Reyna,Pass
+396898,48,SavedShot,0.7559999847412109,0.35400001525878905,0.05839940160512924,Marco Reus,h,319,DirectFreekick,2020,RightFoot,15258,Borussia Dortmund,Wolfsburg,2,0,2021-01-03 14:30:00,,Standard
+397908,48,SavedShot,0.9369999694824219,0.6780000305175782,0.06701850146055222,Marco Reus,a,319,OpenPlay,2020,LeftFoot,15266,RasenBallsport Leipzig,Borussia Dortmund,1,3,2021-01-09 17:30:00,Jadon Sancho,Pass
+397921,76,BlockedShot,0.885,0.4640000152587891,0.13902099430561066,Marco Reus,a,319,OpenPlay,2020,RightFoot,15266,RasenBallsport Leipzig,Borussia Dortmund,1,3,2021-01-09 17:30:00,Thomas Meunier,Pass
+398968,11,SavedShot,0.8059999847412109,0.6969999694824218,0.07668279856443405,Marco Reus,h,319,DirectFreekick,2020,RightFoot,15276,Borussia Dortmund,Mainz 05,1,1,2021-01-16 14:30:00,,Standard
+398972,25,BlockedShot,0.855,0.544000015258789,0.07250019907951355,Marco Reus,h,319,OpenPlay,2020,LeftFoot,15276,Borussia Dortmund,Mainz 05,1,1,2021-01-16 14:30:00,,None
+398973,25,SavedShot,0.895,0.500999984741211,0.44721099734306335,Marco Reus,h,319,OpenPlay,2020,RightFoot,15276,Borussia Dortmund,Mainz 05,1,1,2021-01-16 14:30:00,Emre Can,Throughball
+398983,72,BlockedShot,0.7659999847412109,0.735999984741211,0.015700900927186012,Marco Reus,h,319,OpenPlay,2020,RightFoot,15276,Borussia Dortmund,Mainz 05,1,1,2021-01-16 14:30:00,Raphael Guerreiro,Pass
+398985,75,MissedShots,0.885,0.5,0.5855200290679932,Marco Reus,h,319,Penalty,2020,RightFoot,15276,Borussia Dortmund,Mainz 05,1,1,2021-01-16 14:30:00,,Standard
+398991,89,BlockedShot,0.8030000305175782,0.33,0.024548200890421867,Marco Reus,h,319,SetPiece,2020,RightFoot,15276,Borussia Dortmund,Mainz 05,1,1,2021-01-16 14:30:00,Raphael Guerreiro,Pass
+399790,3,BlockedShot,0.8469999694824218,0.6790000152587891,0.03192939981818199,Marco Reus,a,319,OpenPlay,2020,RightFoot,15286,Bayer Leverkusen,Borussia Dortmund,2,1,2021-01-19 19:30:00,,Rebound
+399791,5,SavedShot,0.789000015258789,0.40599998474121096,0.0327237993478775,Marco Reus,a,319,OpenPlay,2020,RightFoot,15286,Bayer Leverkusen,Borussia Dortmund,2,1,2021-01-19 19:30:00,Julian Brandt,Pass
+399818,76,BlockedShot,0.8030000305175782,0.485,0.04756280034780502,Marco Reus,a,319,FromCorner,2020,RightFoot,15286,Bayer Leverkusen,Borussia Dortmund,2,1,2021-01-19 19:30:00,,Rebound
+405656,43,MissedShots,0.9259999847412109,0.43599998474121093,0.13149100542068481,Marco Reus,a,319,OpenPlay,2020,Head,15334,Schalke 04,Borussia Dortmund,0,4,2021-02-20 17:30:00,Jadon Sancho,Cross
+406707,27,ShotOnPost,0.8719999694824219,0.500999984741211,0.09545409679412842,Marco Reus,h,319,SetPiece,2020,LeftFoot,15339,Borussia Dortmund,Arminia Bielefeld,3,0,2021-02-27 14:30:00,,Rebound
+406715,52,BlockedShot,0.855999984741211,0.33299999237060546,0.06813210248947144,Marco Reus,h,319,OpenPlay,2020,LeftFoot,15339,Borussia Dortmund,Arminia Bielefeld,3,0,2021-02-27 14:30:00,Giovanni Reyna,BallTouch
+406719,69,SavedShot,0.9080000305175782,0.2879999923706055,0.06977140158414841,Marco Reus,h,319,OpenPlay,2020,RightFoot,15339,Borussia Dortmund,Arminia Bielefeld,3,0,2021-02-27 14:30:00,Jadon Sancho,Pass
+410096,11,MissedShots,0.925,0.45,0.3871519863605499,Marco Reus,h,319,OpenPlay,2020,RightFoot,15356,Borussia Dortmund,Hertha Berlin,2,0,2021-03-13 17:30:00,Mateu Morey,Cross
+410097,17,ShotOnPost,0.8059999847412109,0.355,0.09850440174341202,Marco Reus,h,319,DirectFreekick,2020,RightFoot,15356,Borussia Dortmund,Hertha Berlin,2,0,2021-03-13 17:30:00,,Standard
+412545,57,MissedShots,0.8980000305175782,0.63,0.07117830216884613,Marco Reus,h,319,OpenPlay,2020,LeftFoot,15374,Borussia Dortmund,Eintracht Frankfurt,1,2,2021-04-03 13:30:00,,None
+412544,57,MissedShots,0.9159999847412109,0.620999984741211,0.0673099011182785,Marco Reus,h,319,OpenPlay,2020,RightFoot,15374,Borussia Dortmund,Eintracht Frankfurt,1,2,2021-04-03 13:30:00,Thorgan Hazard,Cross
+414000,5,BlockedShot,0.759000015258789,0.5029999923706054,0.027279499918222427,Marco Reus,a,319,OpenPlay,2020,RightFoot,15391,VfB Stuttgart,Borussia Dortmund,2,3,2021-04-10 16:30:00,Jude Bellingham,Pass
+414010,33,SavedShot,0.8469999694824218,0.5359999847412109,0.06696350127458572,Marco Reus,a,319,OpenPlay,2020,RightFoot,15391,VfB Stuttgart,Borussia Dortmund,2,3,2021-04-10 16:30:00,Mats Hummels,Chipped
+414018,51,Goal,0.8690000152587891,0.615999984741211,0.3103350102901459,Marco Reus,a,319,OpenPlay,2020,RightFoot,15391,VfB Stuttgart,Borussia Dortmund,2,3,2021-04-10 16:30:00,Mateu Morey,Pass
+415848,44,MissedShots,0.8490000152587891,0.715,0.0239413995295763,Marco Reus,h,319,FromCorner,2020,LeftFoot,15392,Borussia Dortmund,Werder Bremen,4,1,2021-04-18 13:30:00,,None
+415849,54,SavedShot,0.815,0.644000015258789,0.05999160185456276,Marco Reus,h,319,OpenPlay,2020,LeftFoot,15392,Borussia Dortmund,Werder Bremen,4,1,2021-04-18 13:30:00,Erling Haaland,Pass
+415850,55,MissedShots,0.784000015258789,0.6320000076293946,0.02027120068669319,Marco Reus,h,319,FromCorner,2020,RightFoot,15392,Borussia Dortmund,Werder Bremen,4,1,2021-04-18 13:30:00,,None
+416433,9,MissedShots,0.9069999694824219,0.539000015258789,0.4726870059967041,Marco Reus,h,319,OpenPlay,2020,LeftFoot,15402,Borussia Dortmund,Union Berlin,2,0,2021-04-21 18:30:00,Thorgan Hazard,Pass
+416440,26,Goal,0.9869999694824219,0.500999984741211,0.9705269932746887,Marco Reus,h,319,SetPiece,2020,RightFoot,15402,Borussia Dortmund,Union Berlin,2,0,2021-04-21 18:30:00,,Rebound
+420025,3,BlockedShot,0.909000015258789,0.544000015258789,0.13428999483585358,Marco Reus,h,319,OpenPlay,2020,LeftFoot,15420,Borussia Dortmund,RasenBallsport Leipzig,3,2,2021-05-08 13:30:00,Giovanni Reyna,Pass
+420026,6,Goal,0.9159999847412109,0.3940000152587891,0.37184399366378784,Marco Reus,h,319,OpenPlay,2020,LeftFoot,15420,Borussia Dortmund,RasenBallsport Leipzig,3,2,2021-05-08 13:30:00,Thorgan Hazard,Pass
+420029,26,MissedShots,0.7730000305175782,0.4370000076293945,0.043260399252176285,Marco Reus,h,319,OpenPlay,2020,RightFoot,15420,Borussia Dortmund,RasenBallsport Leipzig,3,2,2021-05-08 13:30:00,,None
+420047,82,BlockedShot,0.8530000305175781,0.56,0.0842496007680893,Marco Reus,h,319,OpenPlay,2020,LeftFoot,15420,Borussia Dortmund,RasenBallsport Leipzig,3,2,2021-05-08 13:30:00,Julian Brandt,Pass
+424602,41,Goal,0.9309999847412109,0.524000015258789,0.5938370227813721,Marco Reus,a,319,OpenPlay,2020,RightFoot,15434,Mainz 05,Borussia Dortmund,1,3,2021-05-16 16:00:00,Jadon Sancho,Pass
+423640,43,BlockedShot,0.860999984741211,0.44,0.10691600292921066,Marco Reus,h,319,OpenPlay,2020,RightFoot,15438,Borussia Dortmund,Bayer Leverkusen,3,1,2021-05-22 13:30:00,Erling Haaland,Pass
+423641,50,Goal,0.8440000152587891,0.8019999694824219,0.05649679899215698,Marco Reus,h,319,DirectFreekick,2020,RightFoot,15438,Borussia Dortmund,Bayer Leverkusen,3,1,2021-05-22 13:30:00,,Standard
+426014,22,Goal,0.9080000305175782,0.620999984741211,0.3747279942035675,Marco Reus,h,319,OpenPlay,2021,LeftFoot,17522,Borussia Dortmund,Eintracht Frankfurt,5,2,2021-08-14 16:30:00,Erling Haaland,Pass
+428366,25,BlockedShot,0.915,0.5929999923706055,0.12526200711727142,Marco Reus,h,319,OpenPlay,2021,LeftFoot,17534,Borussia Dortmund,Hoffenheim,3,2,2021-08-27 18:30:00,Giovanni Reyna,Pass
+428367,26,MissedShots,0.794000015258789,0.47200000762939454,0.04581509903073311,Marco Reus,h,319,OpenPlay,2021,RightFoot,17534,Borussia Dortmund,Hoffenheim,3,2,2021-08-27 18:30:00,Giovanni Reyna,Pass
+428395,94,MissedShots,0.9159999847412109,0.455,0.4946030080318451,Marco Reus,h,319,OpenPlay,2021,RightFoot,17534,Borussia Dortmund,Hoffenheim,3,2,2021-08-27 18:30:00,Thomas Meunier,Pass
+429781,16,BlockedShot,0.845999984741211,0.4159999847412109,0.05522629991173744,Marco Reus,a,319,OpenPlay,2021,RightFoot,17547,Bayer Leverkusen,Borussia Dortmund,3,4,2021-09-11 13:30:00,,None
+431997,15,BlockedShot,0.720999984741211,0.39,0.045028798282146454,Marco Reus,h,319,DirectFreekick,2021,RightFoot,17559,Borussia Dortmund,Union Berlin,4,2,2021-09-19 15:30:00,,Standard
+432010,60,MissedShots,0.8769999694824219,0.47,0.06915809959173203,Marco Reus,h,319,FromCorner,2021,LeftFoot,17559,Borussia Dortmund,Union Berlin,4,2,2021-09-19 15:30:00,Mahmoud Dahoud,Pass
+432014,85,ShotOnPost,0.7030000305175781,0.39799999237060546,0.03852669894695282,Marco Reus,h,319,DirectFreekick,2021,RightFoot,17559,Borussia Dortmund,Union Berlin,4,2,2021-09-19 15:30:00,,Standard
+434748,20,MissedShots,0.815,0.3220000076293945,0.012448799796402454,Marco Reus,h,319,FromCorner,2021,RightFoot,17576,Borussia Dortmund,Augsburg,2,1,2021-10-02 13:30:00,Raphael Guerreiro,Chipped
+434755,56,ShotOnPost,0.950999984741211,0.5970000076293945,0.3865390121936798,Marco Reus,h,319,OpenPlay,2021,LeftFoot,17576,Borussia Dortmund,Augsburg,2,1,2021-10-02 13:30:00,,Rebound
+434758,56,MissedShots,0.950999984741211,0.4909999847412109,0.08382780104875565,Marco Reus,h,319,OpenPlay,2021,Head,17576,Borussia Dortmund,Augsburg,2,1,2021-10-02 13:30:00,Donyell Malen,CornerAwarded
+434764,69,MissedShots,0.885,0.46,0.40237998962402344,Marco Reus,h,319,OpenPlay,2021,RightFoot,17576,Borussia Dortmund,Augsburg,2,1,2021-10-02 13:30:00,Julian Brandt,Pass
+436134,2,Goal,0.8480000305175781,0.4490000152587891,0.068293496966362,Marco Reus,h,319,OpenPlay,2021,LeftFoot,17587,Borussia Dortmund,Mainz 05,3,1,2021-10-16 13:30:00,,None
+437708,34,MissedShots,0.9230000305175782,0.5129999923706055,0.5467420220375061,Marco Reus,a,319,OpenPlay,2021,LeftFoot,17590,Arminia Bielefeld,Borussia Dortmund,1,3,2021-10-23 13:30:00,,Rebound
+437714,56,MissedShots,0.9209999847412109,0.2720000076293945,0.06603779643774033,Marco Reus,a,319,OpenPlay,2021,RightFoot,17590,Arminia Bielefeld,Borussia Dortmund,1,3,2021-10-23 13:30:00,Julian Brandt,Pass
+437721,71,BlockedShot,0.845999984741211,0.43,0.11361700296401978,Marco Reus,a,319,OpenPlay,2021,LeftFoot,17590,Arminia Bielefeld,Borussia Dortmund,1,3,2021-10-23 13:30:00,Marius Wolf,Pass
+439586,24,MissedShots,0.9269999694824219,0.5329999923706055,0.535440981388092,Marco Reus,h,319,OpenPlay,2021,RightFoot,17605,Borussia Dortmund,FC Cologne,2,0,2021-10-30 13:30:00,Marius Wolf,Pass
+439605,82,SavedShot,0.8,0.7230000305175781,0.06424800306558609,Marco Reus,h,319,DirectFreekick,2021,RightFoot,17605,Borussia Dortmund,FC Cologne,2,0,2021-10-30 13:30:00,,Standard
+441247,41,BlockedShot,0.75,0.3659999847412109,0.028526900336146355,Marco Reus,a,319,FromCorner,2021,RightFoot,17613,RasenBallsport Leipzig,Borussia Dortmund,2,1,2021-11-06 17:30:00,Thorgan Hazard,Pass
+441251,51,Goal,0.86,0.41900001525878905,0.3422139883041382,Marco Reus,a,319,OpenPlay,2021,RightFoot,17613,RasenBallsport Leipzig,Borussia Dortmund,2,1,2021-11-06 17:30:00,Thomas Meunier,Throughball
+442365,6,MissedShots,0.7290000152587891,0.515,0.05460520088672638,Marco Reus,h,319,DirectFreekick,2021,RightFoot,17623,Borussia Dortmund,VfB Stuttgart,2,1,2021-11-20 14:30:00,,Standard
+442369,17,BlockedShot,0.9130000305175782,0.41200000762939454,0.07653240114450455,Marco Reus,h,319,SetPiece,2021,RightFoot,17623,Borussia Dortmund,VfB Stuttgart,2,1,2021-11-20 14:30:00,Julian Brandt,Cross
+442378,48,SavedShot,0.749000015258789,0.549000015258789,0.06672179698944092,Marco Reus,h,319,DirectFreekick,2021,RightFoot,17623,Borussia Dortmund,VfB Stuttgart,2,1,2021-11-20 14:30:00,,Standard
+442391,73,MissedShots,0.92,0.34200000762939453,0.06546570360660553,Marco Reus,h,319,OpenPlay,2021,RightFoot,17623,Borussia Dortmund,VfB Stuttgart,2,1,2021-11-20 14:30:00,,None
+442395,84,Goal,0.9359999847412109,0.48400001525878905,0.6494920253753662,Marco Reus,h,319,OpenPlay,2021,LeftFoot,17623,Borussia Dortmund,VfB Stuttgart,2,1,2021-11-20 14:30:00,,Rebound
+443944,1,SavedShot,0.8169999694824219,0.44299999237060544,0.038977500051259995,Marco Reus,a,319,FromCorner,2021,LeftFoot,17630,Wolfsburg,Borussia Dortmund,1,3,2021-11-27 14:30:00,,None
+443951,25,MissedShots,0.7959999847412109,0.7969999694824219,0.043852798640728,Marco Reus,a,319,DirectFreekick,2021,RightFoot,17630,Wolfsburg,Borussia Dortmund,1,3,2021-11-27 14:30:00,,Standard
+443970,86,SavedShot,0.9030000305175782,0.605,0.3194049894809723,Marco Reus,a,319,OpenPlay,2021,LeftFoot,17630,Wolfsburg,Borussia Dortmund,1,3,2021-11-27 14:30:00,Mahmoud Dahoud,Pass
+447652,18,SavedShot,0.9580000305175781,0.46099998474121096,0.6155099868774414,Marco Reus,a,319,OpenPlay,2021,RightFoot,17643,Bochum,Borussia Dortmund,1,1,2021-12-11 14:30:00,,None
+447657,37,BlockedShot,0.8580000305175781,0.46,0.10301999747753143,Marco Reus,a,319,OpenPlay,2021,LeftFoot,17643,Bochum,Borussia Dortmund,1,1,2021-12-11 14:30:00,Mahmoud Dahoud,Pass
+448981,35,SavedShot,0.91,0.34900001525878904,0.13323800265789032,Marco Reus,h,319,OpenPlay,2021,RightFoot,17659,Borussia Dortmund,Greuther Fuerth,3,0,2021-12-15 19:30:00,Julian Brandt,Throughball
+448985,43,SavedShot,0.769000015258789,0.37599998474121094,0.07137879729270935,Marco Reus,h,319,DirectFreekick,2021,RightFoot,17659,Borussia Dortmund,Greuther Fuerth,3,0,2021-12-15 19:30:00,,Standard
+449551,10,SavedShot,0.9080000305175782,0.43,0.38804998993873596,Marco Reus,a,319,OpenPlay,2021,RightFoot,17663,Hertha Berlin,Borussia Dortmund,3,2,2021-12-18 17:30:00,Thomas Meunier,Throughball
+449552,12,MissedShots,0.9030000305175782,0.51,0.4197390079498291,Marco Reus,a,319,OpenPlay,2021,Head,17663,Hertha Berlin,Borussia Dortmund,3,2,2021-12-18 17:30:00,Thomas Meunier,Aerial
+452980,39,BlockedShot,0.9159999847412109,0.4209999847412109,0.14185400307178497,Marco Reus,h,319,OpenPlay,2021,RightFoot,17686,Borussia Dortmund,Freiburg,5,1,2022-01-14 19:30:00,Donyell Malen,Pass
+454561,57,Goal,0.9009999847412109,0.4490000152587891,0.4361239969730377,Marco Reus,a,319,OpenPlay,2021,RightFoot,17690,Hoffenheim,Borussia Dortmund,2,3,2022-01-22 14:30:00,Donyell Malen,Throughball
+456282,69,BlockedShot,0.950999984741211,0.8219999694824218,0.069370798766613,Marco Reus,h,319,DirectFreekick,2021,RightFoot,17703,Borussia Dortmund,Bayer Leverkusen,2,5,2022-02-06 14:30:00,,Standard
+457588,17,Goal,0.9319999694824219,0.5579999923706055,0.5411040186882019,Marco Reus,a,319,OpenPlay,2021,LeftFoot,17710,Union Berlin,Borussia Dortmund,0,3,2022-02-13 14:30:00,Mahmoud Dahoud,Pass
+457590,24,Goal,0.9719999694824218,0.6140000152587891,0.5936440229415894,Marco Reus,a,319,OpenPlay,2021,LeftFoot,17710,Union Berlin,Borussia Dortmund,0,3,2022-02-13 14:30:00,Donyell Malen,TakeOn
+458879,25,Goal,0.9180000305175782,0.49599998474121093,0.4985480010509491,Marco Reus,h,319,OpenPlay,2021,RightFoot,17721,Borussia Dortmund,Borussia M.Gladbach,6,0,2022-02-20 16:30:00,,Rebound
+458894,80,Goal,0.904000015258789,0.4229999923706055,0.5035930275917053,Marco Reus,h,319,OpenPlay,2021,RightFoot,17721,Borussia Dortmund,Borussia M.Gladbach,6,0,2022-02-20 16:30:00,Mats Hummels,Throughball
+466385,16,SavedShot,0.9680000305175781,0.445,0.13881799578666687,Marco Reus,a,319,OpenPlay,2021,RightFoot,17772,VfB Stuttgart,Borussia Dortmund,0,2,2022-04-08 18:30:00,Julian Brandt,Cross
+466390,23,MissedShots,0.8730000305175781,0.5220000076293946,0.10033699870109558,Marco Reus,a,319,OpenPlay,2021,Head,17772,VfB Stuttgart,Borussia Dortmund,0,2,2022-04-08 18:30:00,Mahmoud Dahoud,Throughball
+466396,59,MissedShots,0.7880000305175782,0.5529999923706055,0.04833289980888367,Marco Reus,a,319,OpenPlay,2021,LeftFoot,17772,VfB Stuttgart,Borussia Dortmund,0,2,2022-04-08 18:30:00,Jude Bellingham,Pass
+466398,64,SavedShot,0.720999984741211,0.6880000305175781,0.013597100041806698,Marco Reus,a,319,SetPiece,2021,RightFoot,17772,VfB Stuttgart,Borussia Dortmund,0,2,2022-04-08 18:30:00,Raphael Guerreiro,Pass
+468028,16,BlockedShot,0.754000015258789,0.3189999961853027,0.012732000090181828,Marco Reus,h,319,FromCorner,2021,LeftFoot,17785,Borussia Dortmund,Wolfsburg,6,1,2022-04-16 13:30:00,,Aerial
+468038,50,SavedShot,0.905,0.6090000152587891,0.48162001371383667,Marco Reus,h,319,OpenPlay,2021,LeftFoot,17785,Borussia Dortmund,Wolfsburg,6,1,2022-04-16 13:30:00,Axel Witsel,Throughball
+470153,53,SavedShot,0.9719999694824218,0.6409999847412109,0.06295040249824524,Marco Reus,a,319,OpenPlay,2021,LeftFoot,17794,Bayern Munich,Borussia Dortmund,3,1,2022-04-23 16:30:00,Erling Haaland,Pass
+470154,54,BlockedShot,0.889000015258789,0.610999984741211,0.11812800168991089,Marco Reus,a,319,OpenPlay,2021,LeftFoot,17794,Bayern Munich,Borussia Dortmund,3,1,2022-04-23 16:30:00,Erling Haaland,Pass
+471538,25,SavedShot,0.874000015258789,0.42400001525878905,0.3687250018119812,Marco Reus,h,319,OpenPlay,2021,RightFoot,17803,Borussia Dortmund,Bochum,3,4,2022-04-30 13:30:00,Erling Haaland,Throughball
+471555,79,MissedShots,0.8980000305175782,0.5479999923706055,0.43579399585723877,Marco Reus,h,319,OpenPlay,2021,LeftFoot,17803,Borussia Dortmund,Bochum,3,4,2022-04-30 13:30:00,Raphael Guerreiro,Pass
+479413,9,Goal,0.9969999694824219,0.4520000076293945,0.9513850212097168,Marco Reus,h,319,OpenPlay,2022,RightFoot,19348,Borussia Dortmund,Bayer Leverkusen,1,0,2022-08-06 16:30:00,,None
+479416,19,MissedShots,0.9019999694824219,0.7190000152587891,0.057372499257326126,Marco Reus,h,319,OpenPlay,2022,LeftFoot,19348,Borussia Dortmund,Bayer Leverkusen,1,0,2022-08-06 16:30:00,Raphael Guerreiro,Pass
+479417,27,BlockedShot,0.8769999694824219,0.6809999847412109,0.04022359848022461,Marco Reus,h,319,OpenPlay,2022,LeftFoot,19348,Borussia Dortmund,Bayer Leverkusen,1,0,2022-08-06 16:30:00,Donyell Malen,Cross
+479433,94,MissedShots,0.8090000152587891,0.580999984741211,0.13210199773311615,Marco Reus,h,319,DirectFreekick,2022,RightFoot,19348,Borussia Dortmund,Bayer Leverkusen,1,0,2022-08-06 16:30:00,,Standard
+483468,14,BlockedShot,0.8580000305175781,0.539000015258789,0.07449260354042053,Marco Reus,a,319,OpenPlay,2022,RightFoot,19373,Hertha Berlin,Borussia Dortmund,0,1,2022-08-27 13:30:00,,None
+483476,42,MissedShots,0.8969999694824219,0.580999984741211,0.034603700041770935,Marco Reus,a,319,OpenPlay,2022,Head,19373,Hertha Berlin,Borussia Dortmund,0,1,2022-08-27 13:30:00,Marius Wolf,Aerial
+483482,62,BlockedShot,0.8519999694824218,0.5459999847412109,0.11661200225353241,Marco Reus,a,319,OpenPlay,2022,LeftFoot,19373,Hertha Berlin,Borussia Dortmund,0,1,2022-08-27 13:30:00,Anthony Modeste,LayOff
+483497,88,BlockedShot,0.7669999694824219,0.5640000152587891,0.08067630231380463,Marco Reus,a,319,DirectFreekick,2022,RightFoot,19373,Hertha Berlin,Borussia Dortmund,0,1,2022-08-27 13:30:00,,Standard
+485545,15,Goal,0.9309999847412109,0.5829999923706055,0.4449400007724762,Marco Reus,h,319,OpenPlay,2022,RightFoot,19378,Borussia Dortmund,Hoffenheim,1,0,2022-09-02 18:30:00,Julian Brandt,Pass
+485548,26,MissedShots,0.89,0.7609999847412109,0.014220500364899635,Marco Reus,h,319,FromCorner,2022,LeftFoot,19378,Borussia Dortmund,Hoffenheim,1,0,2022-09-02 18:30:00,Marius Wolf,HeadPass
+485550,42,MissedShots,0.8730000305175781,0.3659999847412109,0.07948719710111618,Marco Reus,h,319,OpenPlay,2022,LeftFoot,19378,Borussia Dortmund,Hoffenheim,1,0,2022-09-02 18:30:00,Jude Bellingham,Pass
+487423,56,MissedShots,0.8219999694824218,0.509000015258789,0.04493480175733566,Marco Reus,a,319,FromCorner,2022,LeftFoot,19389,RasenBallsport Leipzig,Borussia Dortmund,3,0,2022-09-10 13:30:00,,None
+493826,76,SavedShot,0.9669999694824218,0.34900001525878904,0.07093360275030136,Marco Reus,a,319,OpenPlay,2022,RightFoot,19425,Union Berlin,Borussia Dortmund,2,0,2022-10-16 15:30:00,Julian Brandt,Pass
+506976,30,BlockedShot,0.8880000305175781,0.3340000152587891,0.07951139658689499,Marco Reus,h,319,OpenPlay,2022,RightFoot,19504,Borussia Dortmund,Freiburg,5,1,2023-02-04 14:30:00,Julian Brandt,BallTouch
+506982,52,MissedShots,0.8619999694824219,0.5540000152587891,0.12490499764680862,Marco Reus,h,319,OpenPlay,2022,LeftFoot,19504,Borussia Dortmund,Freiburg,5,1,2023-02-04 14:30:00,Sébastien Haller,Pass
+506986,54,ShotOnPost,0.9669999694824218,0.5929999923706055,0.40218400955200195,Marco Reus,h,319,FromCorner,2022,RightFoot,19504,Borussia Dortmund,Freiburg,5,1,2023-02-04 14:30:00,,Rebound
+506987,62,BlockedShot,0.9419999694824219,0.785,0.02396249957382679,Marco Reus,h,319,SetPiece,2022,RightFoot,19504,Borussia Dortmund,Freiburg,5,1,2023-02-04 14:30:00,Raphael Guerreiro,Pass
+508266,45,SavedShot,0.8830000305175781,0.4129999923706055,0.2907570004463196,Marco Reus,a,319,OpenPlay,2022,RightFoot,19521,Werder Bremen,Borussia Dortmund,0,2,2023-02-11 14:30:00,Jude Bellingham,Chipped
+510330,24,MissedShots,0.9309999847412109,0.5029999923706054,0.14406399428844452,Marco Reus,h,319,OpenPlay,2022,Head,19522,Borussia Dortmund,Hertha Berlin,4,1,2023-02-19 16:30:00,Julian Brandt,Cross
+510331,26,MissedShots,0.8680000305175781,0.4329999923706055,0.10170400142669678,Marco Reus,h,319,OpenPlay,2022,RightFoot,19522,Borussia Dortmund,Hertha Berlin,4,1,2023-02-19 16:30:00,Julian Brandt,Pass
+510344,75,Goal,0.7859999847412109,0.41700000762939454,0.09775260090827942,Marco Reus,h,319,DirectFreekick,2022,RightFoot,19522,Borussia Dortmund,Hertha Berlin,4,1,2023-02-19 16:30:00,,Standard
+510724,8,BlockedShot,0.795,0.3509999847412109,0.030734799802303314,Marco Reus,a,319,FromCorner,2022,RightFoot,19536,Hoffenheim,Borussia Dortmund,0,1,2023-02-25 14:30:00,Raphael Guerreiro,Pass
+511771,20,Goal,0.885,0.5,0.7577769756317139,Marco Reus,h,319,Penalty,2022,RightFoot,19540,Borussia Dortmund,RasenBallsport Leipzig,2,1,2023-03-03 19:30:00,,Standard
+511775,47,BlockedShot,0.7230000305175781,0.685,0.013795900158584118,Marco Reus,h,319,SetPiece,2022,RightFoot,19540,Borussia Dortmund,RasenBallsport Leipzig,2,1,2023-03-03 19:30:00,Emre Can,Pass
+511776,48,BlockedShot,0.794000015258789,0.665,0.07956799864768982,Marco Reus,h,319,DirectFreekick,2022,RightFoot,19540,Borussia Dortmund,RasenBallsport Leipzig,2,1,2023-03-03 19:30:00,,Standard
+511779,66,SavedShot,0.8480000305175781,0.5740000152587891,0.07856609672307968,Marco Reus,h,319,OpenPlay,2022,RightFoot,19540,Borussia Dortmund,RasenBallsport Leipzig,2,1,2023-03-03 19:30:00,,None
+515241,31,Goal,0.8669999694824219,0.45,0.12667499482631683,Marco Reus,h,319,OpenPlay,2022,RightFoot,19558,Borussia Dortmund,FC Cologne,6,1,2023-03-18 17:30:00,Raphael Guerreiro,Pass
+515251,69,Goal,0.88,0.42400001525878905,0.5220909714698792,Marco Reus,h,319,OpenPlay,2022,RightFoot,19558,Borussia Dortmund,FC Cologne,6,1,2023-03-18 17:30:00,Donyell Malen,Throughball
+516598,6,BlockedShot,0.94,0.3320000076293945,0.07134280353784561,Marco Reus,a,319,OpenPlay,2022,RightFoot,19574,Bayern Munich,Borussia Dortmund,4,2,2023-04-01 16:30:00,Marius Wolf,Pass
+519332,76,BlockedShot,0.74,0.575,0.05824559926986694,Marco Reus,a,319,DirectFreekick,2022,RightFoot,19591,VfB Stuttgart,Borussia Dortmund,3,3,2023-04-15 13:30:00,,Standard
+521060,82,BlockedShot,0.860999984741211,0.5670000076293945,0.11923186480998993,Marco Reus,h,319,OpenPlay,2022,LeftFoot,19594,Borussia Dortmund,Eintracht Frankfurt,4,0,2023-04-22 16:30:00,Youssoufa Moukoko,LayOff
+525191,71,SavedShot,0.8019999694824219,0.7380000305175781,0.06068123131990433,Marco Reus,h,319,DirectFreekick,2022,RightFoot,19612,Borussia Dortmund,Wolfsburg,6,0,2023-05-07 15:30:00,,Standard
+525192,73,BlockedShot,0.8190000152587891,0.4879999923706055,0.06136434152722359,Marco Reus,h,319,OpenPlay,2022,RightFoot,19612,Borussia Dortmund,Wolfsburg,6,0,2023-05-07 15:30:00,,None
+526233,91,BlockedShot,0.815,0.6769999694824219,0.032745614647865295,Marco Reus,h,319,OpenPlay,2022,RightFoot,19622,Borussia Dortmund,Borussia M.Gladbach,5,2,2023-05-13 16:30:00,Raphael Guerreiro,Pass
+528172,83,SavedShot,0.8980000305175782,0.49,0.4801121652126312,Marco Reus,a,319,OpenPlay,2022,RightFoot,19635,Augsburg,Borussia Dortmund,0,3,2023-05-21 15:30:00,Donyell Malen,Pass
+528899,72,MissedShots,0.9019999694824219,0.55,0.08048448711633682,Marco Reus,h,319,OpenPlay,2022,RightFoot,19639,Borussia Dortmund,Mainz 05,2,2,2023-05-27 13:30:00,Sébastien Haller,HeadPass
+528900,73,MissedShots,0.9530000305175781,0.5790000152587891,0.2633243203163147,Marco Reus,h,319,OpenPlay,2022,Head,19639,Borussia Dortmund,Mainz 05,2,2,2023-05-27 13:30:00,Julian Ryerson,Cross
+533410,30,MissedShots,0.955999984741211,0.43099998474121093,0.11778628826141357,Marco Reus,h,319,FromCorner,2023,Head,23071,Borussia Dortmund,FC Cologne,1,0,2023-08-19 16:30:00,Julian Brandt,Cross
+537570,89,SavedShot,0.81,0.47400001525878904,0.07081299275159836,Marco Reus,a,319,OpenPlay,2023,RightFoot,23094,Freiburg,Borussia Dortmund,2,4,2023-09-16 13:30:00,Niclas Füllkrug,Pass
+537571,91,Goal,0.8980000305175782,0.3770000076293945,0.3380860984325409,Marco Reus,a,319,OpenPlay,2023,RightFoot,23094,Freiburg,Borussia Dortmund,2,4,2023-09-16 13:30:00,Marius Wolf,Pass
+538981,4,SavedShot,0.7819999694824219,0.72,0.056249555200338364,Marco Reus,h,319,DirectFreekick,2023,RightFoot,23105,Borussia Dortmund,Wolfsburg,1,0,2023-09-23 13:30:00,,Standard
+538993,55,MissedShots,0.8640000152587891,0.3920000076293945,0.08039989322423935,Marco Reus,h,319,OpenPlay,2023,LeftFoot,23105,Borussia Dortmund,Wolfsburg,1,0,2023-09-23 13:30:00,Julian Brandt,Pass
+539000,67,Goal,0.9269999694824219,0.545,0.40524792671203613,Marco Reus,h,319,OpenPlay,2023,LeftFoot,23105,Borussia Dortmund,Wolfsburg,1,0,2023-09-23 13:30:00,Julian Brandt,Cross
+540721,47,Goal,0.924000015258789,0.44799999237060545,0.5160263180732727,Marco Reus,a,319,OpenPlay,2023,RightFoot,23110,Hoffenheim,Borussia Dortmund,1,3,2023-09-29 18:30:00,,None
+543590,31,MissedShots,0.9469999694824218,0.5979999923706054,0.44754675030708313,Marco Reus,h,319,OpenPlay,2023,RightFoot,23128,Borussia Dortmund,Werder Bremen,1,0,2023-10-20 18:30:00,Julian Brandt,Pass
+546157,61,BlockedShot,0.8630000305175781,0.45099998474121095,0.07077194005250931,Marco Reus,a,319,OpenPlay,2023,RightFoot,23140,Eintracht Frankfurt,Borussia Dortmund,3,3,2023-10-29 14:30:00,Niclas Füllkrug,HeadPass
+547019,25,MissedShots,0.9130000305175782,0.5379999923706055,0.08551564812660217,Marco Reus,h,319,OpenPlay,2023,LeftFoot,23146,Borussia Dortmund,Bayern Munich,0,4,2023-11-04 17:30:00,Niclas Füllkrug,HeadPass
+547028,55,SavedShot,0.875999984741211,0.46900001525878904,0.32605406641960144,Marco Reus,h,319,OpenPlay,2023,RightFoot,23146,Borussia Dortmund,Bayern Munich,0,4,2023-11-04 17:30:00,Niclas Füllkrug,Pass
+547033,63,MissedShots,0.904000015258789,0.5529999923706055,0.09352611005306244,Marco Reus,h,319,OpenPlay,2023,Head,23146,Borussia Dortmund,Bayern Munich,0,4,2023-11-04 17:30:00,Marcel Sabitzer,Cross
+549612,10,MissedShots,0.9359999847412109,0.5540000152587891,0.11202359199523926,Marco Reus,h,319,FromCorner,2023,Head,23164,Borussia Dortmund,Borussia M.Gladbach,4,2,2023-11-25 14:30:00,Julian Brandt,Cross
+549624,47,SavedShot,0.950999984741211,0.6079999923706054,0.4173969626426697,Marco Reus,h,319,OpenPlay,2023,LeftFoot,23164,Borussia Dortmund,Borussia M.Gladbach,4,2,2023-11-25 14:30:00,Niclas Füllkrug,Throughball
+549630,55,ShotOnPost,0.8090000152587891,0.5159999847412109,0.15049578249454498,Marco Reus,h,319,DirectFreekick,2023,RightFoot,23164,Borussia Dortmund,Borussia M.Gladbach,4,2,2023-11-25 14:30:00,,Standard
+549637,89,SavedShot,0.8669999694824219,0.83,0.05360246077179909,Marco Reus,h,319,DirectFreekick,2023,RightFoot,23164,Borussia Dortmund,Borussia M.Gladbach,4,2,2023-11-25 14:30:00,,Standard
+553156,61,BlockedShot,0.8440000152587891,0.44299999237060544,0.05933971703052521,Marco Reus,h,319,SetPiece,2023,RightFoot,23182,Borussia Dortmund,RasenBallsport Leipzig,2,3,2023-12-09 17:30:00,,None
+554159,7,SavedShot,0.91,0.6129999923706054,0.31456640362739563,Marco Reus,a,319,OpenPlay,2023,LeftFoot,23198,Augsburg,Borussia Dortmund,1,1,2023-12-16 14:30:00,Jamie Bynoe-Gittens,BallRecovery
+558261,76,Goal,0.955999984741211,0.509000015258789,0.7172811627388,Marco Reus,a,319,OpenPlay,2023,LeftFoot,23217,Darmstadt,Borussia Dortmund,0,3,2024-01-13 17:30:00,Jadon Sancho,Pass
+558266,88,SavedShot,0.9309999847412109,0.6229999923706054,0.3786429762840271,Marco Reus,a,319,OpenPlay,2023,LeftFoot,23217,Darmstadt,Borussia Dortmund,0,3,2024-01-13 17:30:00,,Rebound
+562169,70,SavedShot,0.9259999847412109,0.4129999923706055,0.19041743874549866,Marco Reus,h,319,OpenPlay,2023,Head,23246,Borussia Dortmund,Freiburg,3,0,2024-02-09 19:30:00,Donyell Malen,Cross
+562172,74,MissedShots,0.919000015258789,0.65,0.29793599247932434,Marco Reus,h,319,OpenPlay,2023,LeftFoot,23246,Borussia Dortmund,Freiburg,3,0,2024-02-09 19:30:00,Donyell Malen,Pass
+562173,76,BlockedShot,0.8680000305175781,0.3940000152587891,0.09343207627534866,Marco Reus,h,319,OpenPlay,2023,RightFoot,23246,Borussia Dortmund,Freiburg,3,0,2024-02-09 19:30:00,Niclas Füllkrug,HeadPass
+563720,7,SavedShot,0.885,0.6140000152587891,0.2987275719642639,Marco Reus,a,319,OpenPlay,2023,LeftFoot,23256,Wolfsburg,Borussia Dortmund,1,1,2024-02-17 14:30:00,Marcel Sabitzer,Chipped
+563723,25,MissedShots,0.7619999694824219,0.5740000152587891,0.07467202842235565,Marco Reus,a,319,DirectFreekick,2023,RightFoot,23256,Wolfsburg,Borussia Dortmund,1,1,2024-02-17 14:30:00,,Standard
+565814,68,SavedShot,0.955999984741211,0.66,0.06356719881296158,Marco Reus,h,319,FromCorner,2023,LeftFoot,23270,Borussia Dortmund,Hoffenheim,2,3,2024-02-25 16:30:00,Nico Schlotterbeck,Rebound
+565818,80,BlockedShot,0.88,0.5070000076293946,0.09040012955665588,Marco Reus,h,319,OpenPlay,2023,LeftFoot,23270,Borussia Dortmund,Hoffenheim,2,3,2024-02-25 16:30:00,,Rebound
+565820,84,MissedShots,0.8180000305175781,0.4829999923706055,0.049267515540122986,Marco Reus,h,319,FromCorner,2023,RightFoot,23270,Borussia Dortmund,Hoffenheim,2,3,2024-02-25 16:30:00,Jamie Bynoe-Gittens,Pass
+570075,6,MissedShots,0.765,0.485,0.08304587006568909,Marco Reus,h,319,DirectFreekick,2023,RightFoot,23290,Borussia Dortmund,Eintracht Frankfurt,3,1,2024-03-17 16:30:00,,Standard
+570080,17,SavedShot,0.9480000305175781,0.590999984741211,0.42230337858200073,Marco Reus,h,319,FromCorner,2023,RightFoot,23290,Borussia Dortmund,Eintracht Frankfurt,3,1,2024-03-17 16:30:00,Mats Hummels,Pass
+570087,58,MissedShots,0.9459999847412109,0.43900001525878907,0.05782168358564377,Marco Reus,h,319,FromCorner,2023,Head,23290,Borussia Dortmund,Eintracht Frankfurt,3,1,2024-03-17 16:30:00,Julian Brandt,Aerial
+572595,87,MissedShots,0.8540000152587891,0.610999984741211,0.05408450961112976,Marco Reus,h,319,OpenPlay,2023,RightFoot,23308,Borussia Dortmund,VfB Stuttgart,0,1,2024-04-06 16:30:00,,None
+576710,65,SavedShot,0.9119999694824219,0.40900001525878904,0.041690096259117126,Marco Reus,a,319,OpenPlay,2023,Head,23336,RasenBallsport Leipzig,Borussia Dortmund,4,1,2024-04-27 13:30:00,Marius Wolf,Aerial
+578328,8,BlockedShot,0.8959999847412109,0.43599998474121093,0.13188870251178741,Marco Reus,h,319,OpenPlay,2023,RightFoot,23344,Borussia Dortmund,Augsburg,5,1,2024-05-04 13:30:00,Youssoufa Moukoko,Pass
+578343,33,Goal,0.895,0.45599998474121095,0.35191160440444946,Marco Reus,h,319,OpenPlay,2023,RightFoot,23344,Borussia Dortmund,Augsburg,5,1,2024-05-04 13:30:00,Kjell-Arik Wätjen,Chipped
+578357,64,SavedShot,0.9130000305175782,0.34900001525878904,0.29549989104270935,Marco Reus,h,319,OpenPlay,2023,RightFoot,23344,Borussia Dortmund,Augsburg,5,1,2024-05-04 13:30:00,Karim Adeyemi,Pass
+580095,4,SavedShot,0.8540000152587891,0.32099998474121094,0.04490410536527634,Marco Reus,a,319,OpenPlay,2023,LeftFoot,23356,Mainz 05,Borussia Dortmund,3,0,2024-05-11 16:30:00,,None
+581461,6,MissedShots,0.8519999694824218,0.8119999694824219,0.055576201528310776,Marco Reus,h,319,DirectFreekick,2023,RightFoot,23362,Borussia Dortmund,Darmstadt,4,0,2024-05-18 13:30:00,,Standard
+581462,10,ShotOnPost,0.8769999694824219,0.42400001525878905,0.10329663008451462,Marco Reus,h,319,OpenPlay,2023,RightFoot,23362,Borussia Dortmund,Darmstadt,4,0,2024-05-18 13:30:00,Jadon Sancho,Pass
+581466,33,MissedShots,0.8080000305175781,0.5279999923706055,0.07106903195381165,Marco Reus,h,319,OpenPlay,2023,RightFoot,23362,Borussia Dortmund,Darmstadt,4,0,2024-05-18 13:30:00,Jadon Sancho,Pass
+581468,37,Goal,0.815,0.63,0.1167590394616127,Marco Reus,h,319,DirectFreekick,2023,RightFoot,23362,Borussia Dortmund,Darmstadt,4,0,2024-05-18 13:30:00,,Standard
+581474,55,MissedShots,0.7880000305175782,0.385,0.09079112112522125,Marco Reus,h,319,DirectFreekick,2023,RightFoot,23362,Borussia Dortmund,Darmstadt,4,0,2024-05-18 13:30:00,,Standard

@@ -1,0 +1,12 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+379459,66,SavedShot,0.774000015258789,0.7090000152587891,0.017238600179553032,Thomas Ouwejan,a,8922,OpenPlay,2020,RightFoot,14129,Verona,Udinese,1,0,2020-09-27 13:00:00,,None
+380100,90,SavedShot,0.7390000152587891,0.66,0.016692999750375748,Thomas Ouwejan,h,8922,OpenPlay,2020,LeftFoot,14134,Udinese,Spezia,0,2,2020-09-30 16:00:00,Rodrigo de Paul,Pass
+380804,70,MissedShots,0.75,0.5579999923706055,0.018588799983263016,Thomas Ouwejan,h,8922,OpenPlay,2020,LeftFoot,15449,Udinese,Roma,0,1,2020-10-03 18:45:00,,BallTouch
+382739,44,MissedShots,0.8690000152587891,0.5879999923706055,0.06023449823260307,Thomas Ouwejan,h,8922,OpenPlay,2020,RightFoot,15463,Udinese,Parma Calcio 1913,3,2,2020-10-18 16:00:00,Rodrigo de Paul,Cross
+384025,34,MissedShots,0.7909999847412109,0.7,0.01376620028167963,Thomas Ouwejan,a,8922,FromCorner,2020,LeftFoot,15469,Fiorentina,Udinese,3,2,2020-10-25 17:00:00,,Aerial
+421134,59,MissedShots,0.7909999847412109,0.6919999694824219,0.011027799919247627,Thomas Ouwejan,a,8922,OpenPlay,2020,LeftFoot,15784,Napoli,Udinese,5,1,2021-05-11 18:45:00,Roberto Pereyra,Chipped
+483443,17,MissedShots,0.7090000152587891,0.5829999923706055,0.011813400313258171,Thomas Ouwejan,h,8922,OpenPlay,2022,LeftFoot,19374,Schalke 04,Union Berlin,1,6,2022-08-27 13:30:00,,None
+483457,71,MissedShots,0.745999984741211,0.620999984741211,0.01616309955716133,Thomas Ouwejan,h,8922,OpenPlay,2022,LeftFoot,19374,Schalke 04,Union Berlin,1,6,2022-08-27 13:30:00,Florian Flick,Pass
+492708,29,SavedShot,0.899000015258789,0.715,0.03991580009460449,Thomas Ouwejan,h,8922,OpenPlay,2022,LeftFoot,19430,Schalke 04,Hoffenheim,0,3,2022-10-14 18:30:00,,Rebound
+492709,33,MissedShots,0.7719999694824219,0.5670000076293945,0.026443099603056908,Thomas Ouwejan,h,8922,OpenPlay,2022,LeftFoot,19430,Schalke 04,Hoffenheim,0,3,2022-10-14 18:30:00,,None
+495753,20,BlockedShot,0.7809999847412109,0.6179999923706054,0.025922000408172607,Thomas Ouwejan,a,8922,OpenPlay,2022,LeftFoot,19440,Hertha Berlin,Schalke 04,2,1,2022-10-23 15:30:00,Dominick Drexler,Pass

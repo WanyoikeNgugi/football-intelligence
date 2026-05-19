@@ -1,0 +1,7 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+585200,94,Goal,0.8909999847412109,0.6419999694824219,0.1671859323978424,Lasso Coulibaly,h,12826,OpenPlay,2024,RightFoot,28052,Auxerre,Nice,2,1,2024-08-18 13:00:00,Donovan Léon,Pass
+586842,84,MissedShots,0.9119999694824219,0.4,0.07444602251052856,Lasso Coulibaly,a,12826,OpenPlay,2024,RightFoot,28064,Nantes,Auxerre,2,0,2024-08-25 15:00:00,Lassine Sinayoko,HeadPass
+634613,93,SavedShot,0.7819999694824219,0.46700000762939453,0.04024028405547142,Lasso Coulibaly,a,12826,OpenPlay,2024,LeftFoot,28351,Paris Saint Germain,Auxerre,3,1,2025-05-17 19:00:00,Ado Onaiwu,Pass
+649739,72,BlockedShot,0.87,0.2720000076293945,0.02461313270032406,Lasso Coulibaly,h,12826,FromCorner,2025,RightFoot,29611,Auxerre,Le Havre,0,1,2025-10-26 15:15:00,,None
+661510,79,BlockedShot,0.9390000152587891,0.5,0.15276309847831726,Lasso Coulibaly,a,12826,OpenPlay,2025,LeftFoot,29682,Brest,Auxerre,2,0,2026-01-04 16:15:00,,Rebound
+667818,93,MissedShots,0.789000015258789,0.625,0.08705580979585648,Lasso Coulibaly,h,12826,DirectFreekick,2025,RightFoot,29719,Auxerre,Paris FC,0,0,2026-02-08 16:15:00,,Standard

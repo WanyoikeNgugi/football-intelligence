@@ -1,0 +1,12 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+638881,37,Goal,0.8430000305175781,0.2929999923706055,0.2962944805622101,Javier Rueda,a,12643,OpenPlay,2025,RightFoot,29169,Mallorca,Celta Vigo,1,1,2025-08-23 15:00:00,Hugo Sotelo,Throughball
+639896,83,MissedShots,0.785,0.37099998474121093,0.021682195365428925,Javier Rueda,h,12643,FromCorner,2025,RightFoot,29178,Celta Vigo,Real Betis,1,1,2025-08-27 19:00:00,,None
+640828,35,MissedShots,0.8980000305175782,0.3240000152587891,0.05344463139772415,Javier Rueda,h,12643,OpenPlay,2025,RightFoot,29185,Celta Vigo,Villarreal,1,1,2025-08-31 15:00:00,,Rebound
+640830,39,BlockedShot,0.9009999847412109,0.47099998474121096,0.0943647101521492,Javier Rueda,h,12643,FromCorner,2025,RightFoot,29185,Celta Vigo,Villarreal,1,1,2025-08-31 15:00:00,Iago Aspas,Pass
+655783,48,SavedShot,0.7140000152587891,0.3170000076293945,0.019041338935494423,Javier Rueda,h,12643,OpenPlay,2025,RightFoot,29289,Celta Vigo,Espanyol,0,1,2025-11-30 17:30:00,Borja Iglesias,Pass
+659147,4,MissedShots,0.8880000305175781,0.43,0.2936539947986603,Javier Rueda,a,12643,OpenPlay,2025,RightFoot,29326,Real Oviedo,Celta Vigo,0,0,2025-12-20 13:00:00,Bryan Zaragoza,Cross
+664283,78,Goal,0.9619999694824218,0.35,0.28096461296081543,Javier Rueda,h,12643,OpenPlay,2025,RightFoot,29353,Celta Vigo,Rayo Vallecano,3,0,2026-01-18 17:30:00,,Rebound
+667014,65,MissedShots,0.874000015258789,0.36400001525878906,0.06900479644536972,Javier Rueda,h,12643,OpenPlay,2025,RightFoot,29382,Celta Vigo,Osasuna,1,2,2026-02-06 20:00:00,Borja Iglesias,Pass
+670429,5,BlockedShot,0.725,0.514000015258789,0.015152810141444206,Javier Rueda,h,12643,FromCorner,2025,RightFoot,29403,Celta Vigo,Mallorca,2,0,2026-02-22 17:30:00,,None
+670439,55,MissedShots,0.9459999847412109,0.4370000076293945,0.4435417950153351,Javier Rueda,h,12643,OpenPlay,2025,Head,29403,Celta Vigo,Mallorca,2,0,2026-02-22 17:30:00,,Rebound
+678596,2,MissedShots,0.88,0.39099998474121095,0.018463755026459694,Javier Rueda,h,12643,OpenPlay,2025,Head,29467,Celta Vigo,Real Oviedo,0,3,2026-04-12 16:30:00,Williot Swedberg,Cross

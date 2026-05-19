@@ -1,0 +1,64 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+93382,75,MissedShots,0.764000015258789,0.7169999694824218,0.012279899790883064,Aleksandar Tonev,a,1359,OpenPlay,2015,LeftFoot,570,Atalanta,Frosinone,2,0,2015-08-30 22:45:00,Massimiliano Carlini,Pass
+93671,1,MissedShots,0.7659999847412109,0.6020000076293945,0.02221200056374073,Aleksandar Tonev,h,1359,OpenPlay,2015,LeftFoot,572,Frosinone,Roma,0,2,2015-09-12 20:00:00,,None
+93678,27,SavedShot,0.725,0.47400001525878904,0.020277200266718864,Aleksandar Tonev,h,1359,OpenPlay,2015,LeftFoot,572,Frosinone,Roma,0,2,2015-09-12 20:00:00,Aleandro Rosi,Pass
+93685,45,MissedShots,0.705,0.325,0.010668200440704823,Aleksandar Tonev,h,1359,OpenPlay,2015,RightFoot,572,Frosinone,Roma,0,2,2015-09-12 20:00:00,,BallRecovery
+93695,68,MissedShots,0.8180000305175781,0.3120000076293945,0.0285349003970623,Aleksandar Tonev,h,1359,OpenPlay,2015,LeftFoot,572,Frosinone,Roma,0,2,2015-09-12 20:00:00,Danilo Soddimo,Pass
+93707,90,MissedShots,0.735,0.46700000762939453,0.017975900322198868,Aleksandar Tonev,h,1359,SetPiece,2015,RightFoot,572,Frosinone,Roma,0,2,2015-09-12 20:00:00,Daniel Pavlovic,Pass
+94919,7,MissedShots,0.7319999694824219,0.5929999923706055,0.01920809969305992,Aleksandar Tonev,a,1359,OpenPlay,2015,RightFoot,588,Bologna,Frosinone,1,0,2015-09-20 17:00:00,Paolo Sammarco,Pass
+95781,27,MissedShots,0.7130000305175781,0.4879999923706055,0.04333290085196495,Aleksandar Tonev,h,1359,DirectFreekick,2015,RightFoot,609,Frosinone,Empoli,2,0,2015-09-28 21:00:00,,Standard
+100948,82,BlockedShot,0.715,0.5790000152587891,0.014588999561965466,Aleksandar Tonev,a,1359,SetPiece,2015,RightFoot,702,Palermo,Frosinone,4,1,2015-12-12 21:00:00,Nicolás Castillo,Pass
+101388,16,MissedShots,0.7290000152587891,0.47400001525878904,0.01155760046094656,Aleksandar Tonev,h,1359,SetPiece,2015,LeftFoot,718,Frosinone,AC Milan,2,4,2015-12-20 21:00:00,,None
+101397,45,MissedShots,0.784000015258789,0.2879999923706055,0.023083899170160294,Aleksandar Tonev,h,1359,OpenPlay,2015,LeftFoot,718,Frosinone,AC Milan,2,4,2015-12-20 21:00:00,Daniel Ciofani,Pass
+94042,51,SavedShot,0.784000015258789,0.4209999847412109,0.044109098613262177,Aleksandar Tonev,a,1359,OpenPlay,2015,RightFoot,741,Torino,Frosinone,4,2,2016-01-16 21:00:00,Paolo Sammarco,TakeOn
+94045,53,SavedShot,0.9309999847412109,0.7580000305175781,0.030847899615764618,Aleksandar Tonev,a,1359,OpenPlay,2015,LeftFoot,741,Torino,Frosinone,4,2,2016-01-16 21:00:00,Danilo Soddimo,Pass
+94058,90,MissedShots,0.774000015258789,0.735999984741211,0.014597100205719471,Aleksandar Tonev,a,1359,OpenPlay,2015,LeftFoot,741,Torino,Frosinone,4,2,2016-01-16 21:00:00,Daniel Pavlovic,Pass
+95322,1,BlockedShot,0.7930000305175782,0.500999984741211,0.03618650138378143,Aleksandar Tonev,h,1359,FromCorner,2015,RightFoot,772,Frosinone,Bologna,1,0,2016-02-03 21:30:00,Danilo Soddimo,Pass
+95328,22,BlockedShot,0.7290000152587891,0.4620000076293945,0.05069020017981529,Aleksandar Tonev,h,1359,DirectFreekick,2015,RightFoot,772,Frosinone,Bologna,1,0,2016-02-03 21:30:00,,Standard
+95329,24,SavedShot,0.8390000152587891,0.5029999923706054,0.08105369657278061,Aleksandar Tonev,h,1359,OpenPlay,2015,RightFoot,772,Frosinone,Bologna,1,0,2016-02-03 21:30:00,Daniel Ciofani,Pass
+95331,26,MissedShots,0.7230000305175781,0.685,0.011873500421643257,Aleksandar Tonev,h,1359,OpenPlay,2015,RightFoot,772,Frosinone,Bologna,1,0,2016-02-03 21:30:00,Daniel Pavlovic,Pass
+95343,50,SavedShot,0.759000015258789,0.36900001525878906,0.019852599129080772,Aleksandar Tonev,h,1359,OpenPlay,2015,RightFoot,772,Frosinone,Bologna,1,0,2016-02-03 21:30:00,,BallRecovery
+95345,56,MissedShots,0.7419999694824219,0.30100000381469727,0.010886600241065025,Aleksandar Tonev,h,1359,OpenPlay,2015,RightFoot,772,Frosinone,Bologna,1,0,2016-02-03 21:30:00,,None
+95348,68,MissedShots,0.8769999694824219,0.34400001525878904,0.03566199913620949,Aleksandar Tonev,h,1359,OpenPlay,2015,RightFoot,772,Frosinone,Bologna,1,0,2016-02-03 21:30:00,Roberto Crivello,Cross
+95352,78,MissedShots,0.9230000305175782,0.29,0.06595899909734726,Aleksandar Tonev,h,1359,OpenPlay,2015,RightFoot,772,Frosinone,Bologna,1,0,2016-02-03 21:30:00,,BallRecovery
+96100,15,MissedShots,0.7519999694824219,0.7169999694824218,0.01913129910826683,Aleksandar Tonev,a,1359,OpenPlay,2015,RightFoot,793,Empoli,Frosinone,1,2,2016-02-13 18:00:00,Federico Dionisi,Pass
+96109,35,MissedShots,0.7219999694824218,0.375,0.02094149962067604,Aleksandar Tonev,a,1359,OpenPlay,2015,LeftFoot,793,Empoli,Frosinone,1,2,2016-02-13 18:00:00,Paolo Sammarco,Pass
+97046,15,BlockedShot,0.8059999847412109,0.3340000152587891,0.036320801824331284,Aleksandar Tonev,a,1359,OpenPlay,2015,LeftFoot,814,Sampdoria,Frosinone,2,0,2016-02-28 18:00:00,Daniel Ciofani,HeadPass
+97054,32,MissedShots,0.735,0.5279999923706055,0.022123899310827255,Aleksandar Tonev,a,1359,FromCorner,2015,LeftFoot,814,Sampdoria,Frosinone,2,0,2016-02-28 18:00:00,Daniel Pavlovic,Cross
+97071,75,SavedShot,0.8690000152587891,0.29,0.03766600042581558,Aleksandar Tonev,a,1359,OpenPlay,2015,RightFoot,814,Sampdoria,Frosinone,2,0,2016-02-28 18:00:00,Daniel Ciofani,Pass
+98566,75,SavedShot,0.7869999694824219,0.38,0.029321299865841866,Aleksandar Tonev,h,1359,OpenPlay,2015,LeftFoot,846,Frosinone,Fiorentina,0,0,2016-03-20 18:00:00,Luca Paganini,Pass
+98569,80,SavedShot,0.9069999694824219,0.5359999847412109,0.29430699348449707,Aleksandar Tonev,h,1359,SetPiece,2015,Head,846,Frosinone,Fiorentina,0,0,2016-03-20 18:00:00,,Rebound
+98570,84,MissedShots,0.774000015258789,0.4979999923706055,0.0325424000620842,Aleksandar Tonev,h,1359,OpenPlay,2015,LeftFoot,846,Frosinone,Fiorentina,0,0,2016-03-20 18:00:00,Paolo Sammarco,Pass
+100597,88,BlockedShot,0.644000015258789,0.505,0.006694119889289141,Aleksandar Tonev,a,1359,OpenPlay,2015,RightFoot,886,Chievo,Frosinone,5,1,2016-04-20 22:45:00,Matteo Ciofani,BallRecovery
+144885,73,SavedShot,0.755,0.24899999618530275,0.013319799676537514,Aleksandar Tonev,h,1359,OpenPlay,2016,LeftFoot,949,Crotone,Genoa,1,3,2016-08-28 22:45:00,Aniello Salzano,Pass
+144889,82,MissedShots,0.730999984741211,0.47900001525878905,0.0157127995043993,Aleksandar Tonev,h,1359,OpenPlay,2016,RightFoot,949,Crotone,Genoa,1,3,2016-08-28 22:45:00,Aniello Salzano,BallTouch
+144892,90,SavedShot,0.755,0.585,0.016978999599814415,Aleksandar Tonev,h,1359,OpenPlay,2016,LeftFoot,949,Crotone,Genoa,1,3,2016-08-28 22:45:00,Simy,TakeOn
+147528,2,SavedShot,0.89,0.3,0.04665689915418625,Aleksandar Tonev,a,1359,OpenPlay,2016,LeftFoot,996,Cagliari,Crotone,2,1,2016-10-02 17:00:00,,None
+147532,13,MissedShots,0.8880000305175781,0.38,0.09661009907722473,Aleksandar Tonev,a,1359,OpenPlay,2016,RightFoot,996,Cagliari,Crotone,2,1,2016-10-02 17:00:00,Diego Falcinelli,Pass
+147540,38,BlockedShot,0.8230000305175781,0.375,0.039074599742889404,Aleksandar Tonev,a,1359,OpenPlay,2016,LeftFoot,996,Cagliari,Crotone,2,1,2016-10-02 17:00:00,Lorenzo Crisetig,Chipped
+147551,62,MissedShots,0.7480000305175781,0.415,0.014797800220549107,Aleksandar Tonev,a,1359,OpenPlay,2016,LeftFoot,996,Cagliari,Crotone,2,1,2016-10-02 17:00:00,Lorenzo Crisetig,BallRecovery
+147555,71,SavedShot,0.7519999694824219,0.635,0.016762100160121918,Aleksandar Tonev,a,1359,OpenPlay,2016,RightFoot,996,Cagliari,Crotone,2,1,2016-10-02 17:00:00,Lorenzo Crisetig,Pass
+148237,51,BlockedShot,0.8640000152587891,0.3160000038146973,0.06038369983434677,Aleksandar Tonev,a,1359,OpenPlay,2016,LeftFoot,1007,Sassuolo,Crotone,2,1,2016-10-16 17:00:00,Raffaele Palladino,Pass
+148588,10,BlockedShot,0.745999984741211,0.3120000076293945,0.017782799899578094,Aleksandar Tonev,h,1359,OpenPlay,2016,LeftFoot,1015,Crotone,Napoli,1,2,2016-10-23 17:00:00,Leonardo Capezzi,Pass
+153402,24,BlockedShot,0.750999984741211,0.37900001525878907,0.02106359973549843,Aleksandar Tonev,h,1359,OpenPlay,2016,LeftFoot,3570,Crotone,Juventus,0,2,2017-02-08 20:00:00,Mario Sampirisi,Pass
+146842,10,SavedShot,0.75,0.5329999923706055,0.021075500175356865,Aleksandar Tonev,h,1359,OpenPlay,2016,LeftFoot,3574,Crotone,Roma,0,2,2017-02-12 11:30:00,Boadu Maxwell Acosty,Pass
+146846,20,SavedShot,0.7440000152587891,0.37099998474121093,0.011296099983155727,Aleksandar Tonev,h,1359,OpenPlay,2016,LeftFoot,3574,Crotone,Roma,0,2,2017-02-12 11:30:00,,TakeOn
+146850,41,MissedShots,0.775,0.28299999237060547,0.010048200376331806,Aleksandar Tonev,h,1359,OpenPlay,2016,RightFoot,3574,Crotone,Roma,0,2,2017-02-12 11:30:00,Boadu Maxwell Acosty,Chipped
+146865,79,MissedShots,0.745,0.6140000152587891,0.01785860024392605,Aleksandar Tonev,h,1359,OpenPlay,2016,LeftFoot,3574,Crotone,Roma,0,2,2017-02-12 11:30:00,Lorenzo Crisetig,Pass
+149327,12,BlockedShot,0.705999984741211,0.49599998474121093,0.010900700464844704,Aleksandar Tonev,h,1359,OpenPlay,2016,RightFoot,3623,Crotone,Fiorentina,0,1,2017-03-19 14:00:00,Diego Falcinelli,LayOff
+152618,70,Goal,0.740999984741211,0.6759999847412109,0.01651879958808422,Aleksandar Tonev,a,1359,OpenPlay,2016,RightFoot,3685,Pescara,Crotone,0,1,2017-05-07 14:00:00,Marcello Trotta,Pass
+152619,83,MissedShots,0.6909999847412109,0.6040000152587891,0.015112999826669693,Aleksandar Tonev,a,1359,SetPiece,2016,RightFoot,3685,Pescara,Crotone,0,1,2017-05-07 14:00:00,Leonardo Capezzi,Pass
+153643,4,BlockedShot,0.855,0.7269999694824218,0.03091360069811344,Aleksandar Tonev,a,1359,OpenPlay,2016,LeftFoot,3705,Juventus,Crotone,3,0,2017-05-21 14:00:00,Lorenzo Crisetig,Pass
+154191,36,MissedShots,0.7090000152587891,0.42200000762939455,0.018812600523233414,Aleksandar Tonev,h,1359,OpenPlay,2016,RightFoot,3716,Crotone,Lazio,3,1,2017-05-28 19:45:00,Diego Falcinelli,Pass
+154195,58,BlockedShot,0.7659999847412109,0.779000015258789,0.012929700314998627,Aleksandar Tonev,h,1359,SetPiece,2016,RightFoot,3716,Crotone,Lazio,3,1,2017-05-28 19:45:00,Bruno Martella,Pass
+154199,80,MissedShots,0.7390000152587891,0.629000015258789,0.017320599406957626,Aleksandar Tonev,h,1359,FromCorner,2016,RightFoot,3716,Crotone,Lazio,3,1,2017-05-28 19:45:00,Andrea Barberis,Pass
+173381,8,SavedShot,0.865999984741211,0.19399999618530273,0.01866229996085167,Aleksandar Tonev,h,1359,OpenPlay,2017,RightFoot,7530,Crotone,Inter,0,2,2017-09-16 14:00:00,,BallRecovery
+173386,37,BlockedShot,0.7580000305175781,0.31,0.018276000395417213,Aleksandar Tonev,h,1359,OpenPlay,2017,LeftFoot,7530,Crotone,Inter,0,2,2017-09-16 14:00:00,Ante Budimir,Pass
+173391,50,SavedShot,0.8819999694824219,0.415,0.33354899287223816,Aleksandar Tonev,h,1359,OpenPlay,2017,RightFoot,7530,Crotone,Inter,0,2,2017-09-16 14:00:00,Ante Budimir,Throughball
+173392,64,MissedShots,0.8159999847412109,0.16100000381469726,0.01668740063905716,Aleksandar Tonev,h,1359,OpenPlay,2017,LeftFoot,7530,Crotone,Inter,0,2,2017-09-16 14:00:00,Ante Budimir,Pass
+176104,9,MissedShots,0.615,0.6780000305175782,0.02550330013036728,Aleksandar Tonev,a,1359,OpenPlay,2017,RightFoot,7634,Juventus,Crotone,3,0,2017-11-26 19:45:00,Andrea Barberis,TakeOn
+176116,39,MissedShots,0.9469999694824218,0.710999984741211,0.04816490039229393,Aleksandar Tonev,a,1359,OpenPlay,2017,LeftFoot,7634,Juventus,Crotone,3,0,2017-11-26 19:45:00,Andrea Barberis,Pass
+176287,6,SavedShot,0.76,0.805,0.014639300294220448,Aleksandar Tonev,h,1359,OpenPlay,2017,RightFoot,7641,Crotone,Udinese,0,3,2017-12-04 18:00:00,Rolando Mandragora,Pass
+176294,48,MissedShots,0.7430000305175781,0.33599998474121096,0.017543399706482887,Aleksandar Tonev,h,1359,OpenPlay,2017,RightFoot,7641,Crotone,Udinese,0,3,2017-12-04 18:00:00,Andrea Barberis,Pass
+176301,64,BlockedShot,0.8669999694824219,0.56,0.07670579850673676,Aleksandar Tonev,h,1359,OpenPlay,2017,LeftFoot,7641,Crotone,Udinese,0,3,2017-12-04 18:00:00,Simy,BallTouch
+180246,83,MissedShots,0.710999984741211,0.7269999694824218,0.012340099550783634,Aleksandar Tonev,a,1359,OpenPlay,2017,RightFoot,7656,Sassuolo,Crotone,2,1,2017-12-10 17:00:00,Bruno Martella,Pass

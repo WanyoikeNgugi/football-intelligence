@@ -1,0 +1,10 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+2644,47,SavedShot,0.7090000152587891,0.62,0.013656100258231163,Chris Philipps,a,4793,OpenPlay,2014,RightFoot,5966,SC Bastia,Metz,2,0,2015-02-07 19:00:00,Juan Manuel Falcón,Pass
+7330,53,SavedShot,0.7169999694824218,0.5479999923706055,0.012008599936962128,Chris Philipps,h,4793,OpenPlay,2014,RightFoot,5879,Metz,Lille,1,4,2015-05-23 20:00:00,Cheick Doukoure,Pass
+107022,6,BlockedShot,0.7380000305175781,0.5309999847412109,0.019322700798511505,Chris Philipps,a,4793,OpenPlay,2016,RightFoot,4112,Nice,Metz,0,0,2017-01-15 18:00:00,Florent Mollet,Pass
+107040,68,MissedShots,0.7659999847412109,0.6759999847412109,0.016816500574350357,Chris Philipps,a,4793,OpenPlay,2016,RightFoot,4112,Nice,Metz,0,0,2017-01-15 18:00:00,Florent Mollet,Pass
+106700,63,BlockedShot,0.7759999847412109,0.3840000152587891,0.011799500323832035,Chris Philipps,h,4793,OpenPlay,2016,RightFoot,3231,Metz,Lyon,0,3,2017-04-05 18:00:00,,Aerial
+163190,67,BlockedShot,0.769000015258789,0.325,0.018720800057053566,Chris Philipps,h,4793,OpenPlay,2017,RightFoot,8614,Metz,Paris Saint Germain,1,5,2017-09-08 19:45:00,Mathieu Dossevi,Pass
+163394,31,MissedShots,0.7559999847412109,0.36,0.017059199512004852,Chris Philipps,a,4793,OpenPlay,2017,RightFoot,8642,Nantes,Metz,1,0,2017-09-30 19:00:00,,None
+164130,30,SavedShot,0.8680000305175781,0.3370000076293945,0.018755199387669563,Chris Philipps,h,4793,OpenPlay,2017,Head,8657,Metz,Dijon,1,2,2017-10-21 19:00:00,,None
+165075,46,BlockedShot,0.9380000305175781,0.6519999694824219,0.04013499990105629,Chris Philipps,a,4793,FromCorner,2017,RightFoot,8719,Nice,Metz,3,1,2017-12-02 19:00:00,Mathieu Dossevi,Cross

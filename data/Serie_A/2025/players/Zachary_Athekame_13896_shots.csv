@@ -1,0 +1,12 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+648449,41,MissedShots,0.795,0.285,0.021950270980596542,Zachary Athekame,h,13896,OpenPlay,2025,LeftFoot,29911,AC Milan,Fiorentina,2,1,2025-10-19 18:45:00,Luka Modric,Pass
+648614,92,Goal,0.7440000152587891,0.37799999237060544,0.020546669140458107,Zachary Athekame,h,13896,FromCorner,2025,RightFoot,29919,AC Milan,Pisa,2,2,2025-10-24 18:45:00,Luka Modric,Pass
+662251,78,SavedShot,0.7369999694824219,0.5620000076293945,0.0218178890645504,Zachary Athekame,h,13896,FromCorner,2025,RightFoot,30028,AC Milan,Genoa,1,1,2026-01-08 19:45:00,Luka Modric,Pass
+668503,61,BlockedShot,0.8330000305175781,0.2989999961853027,0.02317582629621029,Zachary Athekame,a,13896,FromCorner,2025,RightFoot,30091,Pisa,AC Milan,1,2,2026-02-13 19:45:00,Youssouf Fofana,BallTouch
+670426,96,BlockedShot,0.8780000305175781,0.32099998474121094,0.03431561589241028,Zachary Athekame,h,13896,OpenPlay,2025,RightFoot,30101,AC Milan,Parma Calcio 1913,0,1,2026-02-22 17:00:00,Rafael Leão,Cross
+674815,70,MissedShots,0.8430000305175781,0.46,0.06356829404830933,Zachary Athekame,a,13896,OpenPlay,2025,RightFoot,30127,Lazio,AC Milan,1,0,2026-03-15 19:45:00,Alexis Saelemaekers,Pass
+675407,49,BlockedShot,0.8190000152587891,0.34400001525878904,0.03875309228897095,Zachary Athekame,h,13896,OpenPlay,2025,LeftFoot,30141,AC Milan,Torino,3,2,2026-03-21 17:00:00,Alexis Saelemaekers,Pass
+677392,65,MissedShots,0.7419999694824219,0.42400001525878905,0.009938987903296947,Zachary Athekame,a,13896,SetPiece,2025,RightFoot,30149,Napoli,AC Milan,1,0,2026-04-06 18:45:00,,Aerial
+682656,48,MissedShots,0.750999984741211,0.48900001525878906,0.01732972450554371,Zachary Athekame,a,13896,FromCorner,2025,RightFoot,30192,Sassuolo,AC Milan,2,0,2026-05-03 13:00:00,,None
+682664,80,MissedShots,0.8640000152587891,0.27899999618530275,0.032619863748550415,Zachary Athekame,a,13896,OpenPlay,2025,RightFoot,30192,Sassuolo,AC Milan,2,0,2026-05-03 13:00:00,Christian Pulisic,Pass
+684388,84,SavedShot,0.75,0.3270000076293945,0.013425474986433983,Zachary Athekame,h,13896,OpenPlay,2025,RightFoot,30200,AC Milan,Atalanta,2,3,2026-05-10 18:45:00,Youssouf Fofana,Pass

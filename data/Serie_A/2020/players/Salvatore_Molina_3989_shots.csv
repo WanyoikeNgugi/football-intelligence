@@ -1,0 +1,20 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+42469,77,MissedShots,0.8859999847412109,0.39,0.054485999047756195,Salvatore Molina,h,3989,OpenPlay,2014,LeftFoot,5140,Atalanta,Juventus,0,3,2014-09-27 19:45:00,Rolando Bianchi,HeadPass
+44309,58,MissedShots,0.8019999694824219,0.6680000305175782,0.02709529921412468,Salvatore Molina,a,3989,OpenPlay,2014,RightFoot,5040,Sassuolo,Atalanta,0,0,2014-11-08 17:00:00,Cristian Raimondi,Pass
+383692,42,Goal,0.8119999694824219,0.49599998474121093,0.016623400151729584,Salvatore Molina,a,3989,OpenPlay,2020,RightFoot,15468,Cagliari,Crotone,4,2,2020-10-25 11:30:00,,Aerial
+391490,76,SavedShot,0.885,0.36400001525878906,0.07859999686479568,Salvatore Molina,h,3989,OpenPlay,2020,RightFoot,15529,Crotone,Spezia,4,1,2020-12-12 14:00:00,,None
+394074,44,BlockedShot,0.7180000305175781,0.5690000152587891,0.010794900357723236,Salvatore Molina,a,3989,OpenPlay,2020,LeftFoot,15553,Sampdoria,Crotone,3,1,2020-12-19 17:00:00,Sebastiano Luperto,HeadPass
+394968,87,BlockedShot,0.6969999694824218,0.500999984741211,0.014978200197219849,Salvatore Molina,h,3989,OpenPlay,2020,RightFoot,15557,Crotone,Parma Calcio 1913,2,1,2020-12-22 17:30:00,Arkadiusz Reca,Pass
+396659,70,BlockedShot,0.7669999694824219,0.34599998474121096,0.01310889981687069,Salvatore Molina,a,3989,OpenPlay,2020,RightFoot,15571,Inter,Crotone,6,2,2021-01-03 11:30:00,,None
+408972,21,MissedShots,0.9469999694824218,0.33099998474121095,0.011260299943387508,Salvatore Molina,h,3989,FromCorner,2020,Head,15685,Crotone,Torino,4,2,2021-03-07 14:00:00,Junior Messias,Cross
+408978,31,BlockedShot,0.85,0.6619999694824219,0.06425130367279053,Salvatore Molina,h,3989,OpenPlay,2020,RightFoot,15685,Crotone,Torino,4,2,2021-03-07 14:00:00,Simy,BallTouch
+408999,77,SavedShot,0.8490000152587891,0.6819999694824219,0.05515339970588684,Salvatore Molina,h,3989,OpenPlay,2020,RightFoot,15685,Crotone,Torino,4,2,2021-03-07 14:00:00,Junior Messias,Pass
+411256,14,MissedShots,0.784000015258789,0.41200000762939454,0.03057670034468174,Salvatore Molina,h,3989,OpenPlay,2020,RightFoot,15697,Crotone,Bologna,2,3,2021-03-20 14:00:00,,None
+411258,15,MissedShots,0.91,0.44299999237060544,0.06160390004515648,Salvatore Molina,h,3989,FromCorner,2020,Head,15697,Crotone,Bologna,2,3,2021-03-20 14:00:00,Ahmed Benali,Cross
+415155,3,SavedShot,0.9169999694824219,0.5659999847412109,0.2563439905643463,Salvatore Molina,h,3989,OpenPlay,2020,Head,15734,Crotone,Udinese,1,2,2021-04-17 13:00:00,Junior Messias,Chipped
+415159,27,MissedShots,0.735,0.6120000076293945,0.016871299594640732,Salvatore Molina,h,3989,OpenPlay,2020,LeftFoot,15734,Crotone,Udinese,1,2,2021-04-17 13:00:00,Junior Messias,Pass
+416610,89,MissedShots,0.7780000305175782,0.4179999923706055,0.020772699266672134,Salvatore Molina,h,3989,FromCorner,2020,RightFoot,15743,Crotone,Sampdoria,0,1,2021-04-21 18:45:00,,None
+421631,33,SavedShot,0.8430000305175781,0.5129999923706055,0.09036540240049362,Salvatore Molina,h,3989,OpenPlay,2020,RightFoot,15785,Crotone,Verona,2,1,2021-05-13 18:45:00,Koffi Djidji,BallTouch
+421640,86,OwnGoal,0.02,0.47,0,Salvatore Molina,h,3989,FromCorner,2020,OtherBodyPart,15785,Crotone,Verona,2,1,2021-05-13 18:45:00,,CornerAwarded
+421641,87,MissedShots,0.73,0.750999984741211,0.015520899556577206,Salvatore Molina,h,3989,OpenPlay,2020,RightFoot,15785,Crotone,Verona,2,1,2021-05-13 18:45:00,Niccolò Zanellato,Pass
+483209,54,BlockedShot,0.905,0.725999984741211,0.04519379884004593,Salvatore Molina,h,3989,OpenPlay,2022,RightFoot,18602,Monza,Udinese,1,2,2022-08-26 16:30:00,Andrea Petagna,Pass

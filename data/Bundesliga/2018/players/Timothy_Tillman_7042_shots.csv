@@ -1,0 +1,28 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+300645,89,MissedShots,0.8580000305175781,0.645,0.04730780050158501,Timothy Tillman,h,7042,OpenPlay,2018,LeftFoot,10633,Nuernberg,Borussia M.Gladbach,0,4,2019-05-11 14:30:00,Hanno Behrens,HeadPass
+302402,50,BlockedShot,0.8859999847412109,0.315,0.058826200664043427,Timothy Tillman,a,7042,OpenPlay,2018,RightFoot,10636,Freiburg,Nuernberg,5,1,2019-05-18 13:30:00,Eduard Löwen,Pass
+302418,84,BlockedShot,0.815,0.45099998474121095,0.050783999264240265,Timothy Tillman,a,7042,OpenPlay,2018,RightFoot,10636,Freiburg,Nuernberg,5,1,2019-05-18 13:30:00,,BallTouch
+434531,20,MissedShots,0.825,0.2989999961853027,0.054815199226140976,Timothy Tillman,a,7042,OpenPlay,2021,RightFoot,17570,FC Cologne,Greuther Fuerth,3,1,2021-10-01 18:30:00,Sebastian Griesbeck,Pass
+436073,31,SavedShot,0.8130000305175781,0.7019999694824218,0.027990300208330154,Timothy Tillman,h,7042,OpenPlay,2021,LeftFoot,17579,Greuther Fuerth,Bochum,0,1,2021-10-16 13:30:00,Jetro Willems,Pass
+436083,62,MissedShots,0.72,0.46,0.018218299373984337,Timothy Tillman,h,7042,OpenPlay,2021,LeftFoot,17579,Greuther Fuerth,Bochum,0,1,2021-10-16 13:30:00,Branimir Hrgota,Pass
+442047,86,SavedShot,0.909000015258789,0.555,0.44873499870300293,Timothy Tillman,h,7042,OpenPlay,2021,RightFoot,17606,Greuther Fuerth,Eintracht Frankfurt,1,2,2021-11-07 18:30:00,Gian-Luca Itter,Pass
+442049,90,BlockedShot,0.835,0.7040000152587891,0.047502100467681885,Timothy Tillman,h,7042,FromCorner,2021,RightFoot,17606,Greuther Fuerth,Eintracht Frankfurt,1,2,2021-11-07 18:30:00,Branimir Hrgota,TakeOn
+444037,5,BlockedShot,0.8540000152587891,0.26899999618530274,0.025864800438284874,Timothy Tillman,h,7042,SetPiece,2021,RightFoot,17624,Greuther Fuerth,Hoffenheim,3,6,2021-11-27 14:30:00,Branimir Hrgota,Pass
+444038,6,SavedShot,0.7469999694824219,0.5640000152587891,0.023057900369167328,Timothy Tillman,h,7042,OpenPlay,2021,RightFoot,17624,Greuther Fuerth,Hoffenheim,3,6,2021-11-27 14:30:00,Håvard Nielsen,Pass
+444046,31,ShotOnPost,0.960999984741211,0.6179999923706054,0.3561500012874603,Timothy Tillman,h,7042,OpenPlay,2021,LeftFoot,17624,Greuther Fuerth,Hoffenheim,3,6,2021-11-27 14:30:00,Dickson Abiama,Pass
+444051,45,Goal,0.9019999694824219,0.5379999923706055,0.10809800028800964,Timothy Tillman,h,7042,OpenPlay,2021,LeftFoot,17624,Greuther Fuerth,Hoffenheim,3,6,2021-11-27 14:30:00,Branimir Hrgota,Pass
+446069,50,BlockedShot,0.8190000152587891,0.395,0.047280099242925644,Timothy Tillman,a,7042,FromCorner,2021,LeftFoot,17640,Bayer Leverkusen,Greuther Fuerth,7,1,2021-12-04 14:30:00,,Rebound
+452082,49,MissedShots,0.755,0.6359999847412109,0.017340099439024925,Timothy Tillman,h,7042,OpenPlay,2021,RightFoot,17669,Greuther Fuerth,VfB Stuttgart,0,0,2022-01-08 14:30:00,Jamie Leweling,Pass
+453782,29,BlockedShot,0.9669999694824218,0.6270000076293946,0.11091800034046173,Timothy Tillman,a,7042,OpenPlay,2021,RightFoot,17679,Arminia Bielefeld,Greuther Fuerth,2,2,2022-01-16 16:30:00,Branimir Hrgota,TakeOn
+453789,51,SavedShot,0.6930000305175781,0.6980000305175781,0.030077500268816948,Timothy Tillman,a,7042,DirectFreekick,2021,RightFoot,17679,Arminia Bielefeld,Greuther Fuerth,2,2,2022-01-16 16:30:00,,Standard
+456338,17,MissedShots,0.7780000305175782,0.6140000152587891,0.025115400552749634,Timothy Tillman,a,7042,OpenPlay,2021,RightFoot,17702,Wolfsburg,Greuther Fuerth,4,1,2022-02-06 16:30:00,Jetro Willems,Pass
+456908,15,MissedShots,0.8880000305175781,0.545,0.10544099658727646,Timothy Tillman,h,7042,OpenPlay,2021,RightFoot,17705,Greuther Fuerth,Hertha Berlin,2,1,2022-02-12 14:30:00,Branimir Hrgota,Chipped
+456912,32,BlockedShot,0.9030000305175782,0.6719999694824219,0.08077690005302429,Timothy Tillman,h,7042,OpenPlay,2021,LeftFoot,17705,Greuther Fuerth,Hertha Berlin,2,1,2022-02-12 14:30:00,Branimir Hrgota,Pass
+459761,40,SavedShot,0.924000015258789,0.7380000305175781,0.03582580015063286,Timothy Tillman,h,7042,OpenPlay,2021,LeftFoot,17723,Greuther Fuerth,FC Cologne,1,1,2022-02-26 14:30:00,Jamie Leweling,Pass
+459762,45,SavedShot,0.8009999847412109,0.634000015258789,0.032009199261665344,Timothy Tillman,h,7042,OpenPlay,2021,RightFoot,17723,Greuther Fuerth,FC Cologne,1,1,2022-02-26 14:30:00,,None
+461010,13,BlockedShot,0.845,0.53,0.055960699915885925,Timothy Tillman,a,7042,OpenPlay,2021,RightFoot,17732,Bochum,Greuther Fuerth,2,1,2022-03-05 14:30:00,Branimir Hrgota,Chipped
+461019,44,BlockedShot,0.909000015258789,0.82,0.06525930017232895,Timothy Tillman,a,7042,DirectFreekick,2021,RightFoot,17732,Bochum,Greuther Fuerth,2,1,2022-03-05 14:30:00,,Standard
+463997,1,BlockedShot,0.7609999847412109,0.6580000305175782,0.022771399468183517,Timothy Tillman,h,7042,OpenPlay,2021,LeftFoot,17750,Greuther Fuerth,Freiburg,0,0,2022-03-19 14:30:00,Marco Meyerhöfer,Pass
+464005,27,SavedShot,0.9319999694824219,0.3240000152587891,0.22085799276828766,Timothy Tillman,h,7042,OpenPlay,2021,RightFoot,17750,Greuther Fuerth,Freiburg,0,0,2022-03-19 14:30:00,Jamie Leweling,Pass
+469974,15,MissedShots,0.865,0.43900001525878907,0.06755799800157547,Timothy Tillman,h,7042,OpenPlay,2021,RightFoot,17786,Greuther Fuerth,Bayer Leverkusen,1,4,2022-04-23 13:30:00,Sebastian Griesbeck,HeadPass
+474866,6,MissedShots,0.799000015258789,0.41700000762939454,0.03909330070018768,Timothy Tillman,h,7042,OpenPlay,2021,RightFoot,17804,Greuther Fuerth,Borussia Dortmund,1,3,2022-05-07 13:30:00,,None

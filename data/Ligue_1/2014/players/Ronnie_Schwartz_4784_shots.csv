@@ -1,0 +1,23 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+263,19,MissedShots,0.874000015258789,0.46599998474121096,0.035842299461364746,Ronnie Schwartz,a,4784,OpenPlay,2014,Head,6199,Lens,Guingamp,0,1,2014-08-16 19:00:00,Maxime Baca,Cross
+833,84,SavedShot,0.7190000152587891,0.5559999847412109,0.04670250043272972,Ronnie Schwartz,a,4784,DirectFreekick,2014,RightFoot,6221,Lorient,Guingamp,4,0,2014-08-30 19:00:00,,Standard
+2305,3,SavedShot,0.8390000152587891,0.44299999237060544,0.08442939817905426,Ronnie Schwartz,a,4784,OpenPlay,2014,LeftFoot,6177,Montpellier,Guingamp,2,1,2014-09-27 19:00:00,Rachid Alioui,Pass
+2307,8,SavedShot,0.8730000305175781,0.7469999694824219,0.032630398869514465,Ronnie Schwartz,a,4784,OpenPlay,2014,LeftFoot,6177,Montpellier,Guingamp,2,1,2014-09-27 19:00:00,Lionel Mathis,Chipped
+2321,69,SavedShot,0.740999984741211,0.54,0.0601808987557888,Ronnie Schwartz,a,4784,DirectFreekick,2014,RightFoot,6177,Montpellier,Guingamp,2,1,2014-09-27 19:00:00,,Standard
+1171,13,MissedShots,0.4490000152587891,0.6329999923706054,0.005819410085678101,Ronnie Schwartz,h,4784,OpenPlay,2014,RightFoot,6121,Guingamp,Nantes,0,1,2014-10-05 16:00:00,Sylvain Marveaux,HeadPass
+1177,38,MissedShots,0.9059999847412109,0.585,0.03879069909453392,Ronnie Schwartz,h,4784,OpenPlay,2014,Head,6121,Guingamp,Nantes,0,1,2014-10-05 16:00:00,Jérémy Pied,HeadPass
+1180,43,SavedShot,0.695,0.795,0.025084400549530983,Ronnie Schwartz,h,4784,DirectFreekick,2014,RightFoot,6121,Guingamp,Nantes,0,1,2014-10-05 16:00:00,,Standard
+1191,79,SavedShot,0.9519999694824218,0.5259999847412109,0.43759799003601074,Ronnie Schwartz,h,4784,OpenPlay,2014,LeftFoot,6121,Guingamp,Nantes,0,1,2014-10-05 16:00:00,,KeeperPickup
+1615,16,SavedShot,0.885,0.3029999923706055,0.0438631996512413,Ronnie Schwartz,a,4784,OpenPlay,2014,LeftFoot,6126,Lille,Guingamp,1,2,2014-10-18 19:00:00,Sylvain Marveaux,Pass
+1631,56,Goal,0.8690000152587891,0.4620000076293945,0.38636401295661926,Ronnie Schwartz,a,4784,OpenPlay,2014,RightFoot,6126,Lille,Guingamp,1,2,2014-10-18 19:00:00,Sylvain Marveaux,Throughball
+2241,1,BlockedShot,0.8780000305175781,0.43599998474121093,0.11489900201559067,Ronnie Schwartz,h,4784,OpenPlay,2014,LeftFoot,6142,Guingamp,Nice,2,7,2014-10-26 16:00:00,Sylvain Marveaux,Pass
+2242,2,BlockedShot,0.8469999694824218,0.500999984741211,0.08786270022392273,Ronnie Schwartz,h,4784,OpenPlay,2014,RightFoot,6142,Guingamp,Nice,2,7,2014-10-26 16:00:00,Claudio Beauvue,Pass
+2247,20,SavedShot,0.9290000152587891,0.45599998474121095,0.11518000066280365,Ronnie Schwartz,h,4784,OpenPlay,2014,LeftFoot,6142,Guingamp,Nice,2,7,2014-10-26 16:00:00,Sambou Yatabaré,Cross
+2254,45,SavedShot,0.7909999847412109,0.48200000762939454,0.04753569886088371,Ronnie Schwartz,h,4784,OpenPlay,2014,RightFoot,6142,Guingamp,Nice,2,7,2014-10-26 16:00:00,Claudio Beauvue,Pass
+2258,58,MissedShots,0.9059999847412109,0.54,0.2605690062046051,Ronnie Schwartz,h,4784,OpenPlay,2014,RightFoot,6142,Guingamp,Nice,2,7,2014-10-26 16:00:00,Thibault Giresse,Chipped
+2263,69,Goal,0.895,0.47400001525878904,0.35752299427986145,Ronnie Schwartz,h,4784,OpenPlay,2014,RightFoot,6142,Guingamp,Nice,2,7,2014-10-26 16:00:00,Claudio Beauvue,Pass
+2265,75,MissedShots,0.8580000305175781,0.3579999923706055,0.04316110163927078,Ronnie Schwartz,h,4784,OpenPlay,2014,LeftFoot,6142,Guingamp,Nice,2,7,2014-10-26 16:00:00,Thibault Giresse,Chipped
+3121,53,MissedShots,0.7680000305175781,0.40799999237060547,0.10192900151014328,Ronnie Schwartz,h,4784,OpenPlay,2014,RightFoot,6078,Guingamp,SC Bastia,1,0,2014-11-01 19:00:00,,TakeOn
+2593,77,SavedShot,0.795,0.590999984741211,0.05577940121293068,Ronnie Schwartz,a,4784,OpenPlay,2014,RightFoot,5980,Metz,Guingamp,0,2,2015-02-15 16:00:00,Jérémy Pied,Pass
+2594,78,ShotOnPost,0.8869999694824219,0.3089999961853027,0.07437139749526978,Ronnie Schwartz,a,4784,OpenPlay,2014,RightFoot,5980,Metz,Guingamp,0,2,2015-02-15 16:00:00,Younousse Sankhare,Pass
+7655,86,MissedShots,0.7180000305175781,0.4329999923706055,0.045670799911022186,Ronnie Schwartz,h,4784,DirectFreekick,2014,RightFoot,5938,Guingamp,Lille,0,1,2015-03-08 16:00:00,,Standard

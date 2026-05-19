@@ -1,0 +1,21 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+479867,20,BlockedShot,0.9590000152587891,0.6469999694824219,0.11100400239229202,Florian Dietz,h,10848,OpenPlay,2022,LeftFoot,19350,FC Cologne,Schalke 04,3,1,2022-08-07 15:30:00,Dejan Ljubicic,Throughball
+479868,24,SavedShot,0.9269999694824219,0.4809999847412109,0.4139289855957031,Florian Dietz,h,10848,OpenPlay,2022,Head,19350,FC Cologne,Schalke 04,3,1,2022-08-07 15:30:00,Benno Schmitz,Cross
+479869,24,SavedShot,0.9330000305175781,0.4909999847412109,0.07353659719228745,Florian Dietz,h,10848,OpenPlay,2022,Head,19350,FC Cologne,Schalke 04,3,1,2022-08-07 15:30:00,Benno Schmitz,Rebound
+479878,46,MissedShots,0.9169999694824219,0.5540000152587891,0.122809998691082,Florian Dietz,h,10848,OpenPlay,2022,Head,19350,FC Cologne,Schalke 04,3,1,2022-08-07 15:30:00,Ellyes Skhiri,Cross
+479889,73,MissedShots,0.914000015258789,0.5129999923706055,0.11633600294589996,Florian Dietz,h,10848,OpenPlay,2022,Head,19350,FC Cologne,Schalke 04,3,1,2022-08-07 15:30:00,Benno Schmitz,Cross
+480236,16,BlockedShot,0.865,0.4640000152587891,0.0782317966222763,Florian Dietz,a,10848,OpenPlay,2022,RightFoot,19353,RasenBallsport Leipzig,FC Cologne,2,2,2022-08-13 13:30:00,,None
+480240,38,BlockedShot,0.789000015258789,0.3220000076293945,0.0502316989004612,Florian Dietz,a,10848,OpenPlay,2022,LeftFoot,19353,RasenBallsport Leipzig,FC Cologne,2,2,2022-08-13 13:30:00,Dejan Ljubicic,TakeOn
+480242,39,Goal,0.9540000152587891,0.55,0.5524489879608154,Florian Dietz,a,10848,OpenPlay,2022,LeftFoot,19353,RasenBallsport Leipzig,FC Cologne,2,2,2022-08-13 13:30:00,Florian Kainz,Pass
+480247,68,SavedShot,0.95,0.45099998474121095,0.13340699672698975,Florian Dietz,a,10848,OpenPlay,2022,Head,19353,RasenBallsport Leipzig,FC Cologne,2,2,2022-08-13 13:30:00,Florian Kainz,Cross
+488019,39,BlockedShot,0.8240000152587891,0.5,0.05622519925236702,Florian Dietz,h,10848,OpenPlay,2022,RightFoot,19394,FC Cologne,Union Berlin,0,1,2022-09-11 13:30:00,Kristian Pedersen,HeadPass
+489489,80,MissedShots,0.9159999847412109,0.495,0.048763200640678406,Florian Dietz,a,10848,OpenPlay,2022,Head,19403,Bochum,FC Cologne,1,1,2022-09-18 15:30:00,Sargis Adamyan,Aerial
+489490,84,SavedShot,0.9769999694824218,0.45599998474121095,0.10482099652290344,Florian Dietz,a,10848,FromCorner,2022,Head,19403,Bochum,FC Cologne,1,1,2022-09-18 15:30:00,Jonas Hector,Aerial
+489492,92,BlockedShot,0.9269999694824219,0.28299999237060547,0.05196269974112511,Florian Dietz,a,10848,OpenPlay,2022,RightFoot,19403,Bochum,FC Cologne,1,1,2022-09-18 15:30:00,,BallRecovery
+489941,63,MissedShots,0.955999984741211,0.605,0.0954504981637001,Florian Dietz,h,10848,OpenPlay,2022,Head,19408,FC Cologne,Borussia Dortmund,3,2,2022-10-01 13:30:00,Benno Schmitz,Cross
+489945,68,ShotOnPost,0.8980000305175782,0.325,0.21909600496292114,Florian Dietz,h,10848,OpenPlay,2022,RightFoot,19408,FC Cologne,Borussia Dortmund,3,2,2022-10-01 13:30:00,Dejan Ljubicic,Pass
+489948,73,BlockedShot,0.8440000152587891,0.455,0.10251899808645248,Florian Dietz,h,10848,OpenPlay,2022,RightFoot,19408,FC Cologne,Borussia Dortmund,3,2,2022-10-01 13:30:00,,Rebound
+489954,84,SavedShot,0.8380000305175781,0.624000015258789,0.05489249899983406,Florian Dietz,h,10848,OpenPlay,2022,RightFoot,19408,FC Cologne,Borussia Dortmund,3,2,2022-10-01 13:30:00,Jonas Hector,Pass
+553665,65,MissedShots,0.855999984741211,0.5929999923706055,0.11756667494773865,Florian Dietz,h,10848,OpenPlay,2023,RightFoot,23186,FC Cologne,Mainz 05,0,0,2023-12-10 16:30:00,Linton Maina,Pass
+581716,76,SavedShot,0.8680000305175781,0.46700000762939453,0.05840231850743294,Florian Dietz,a,10848,FromCorner,2023,RightFoot,23370,FC Heidenheim,FC Cologne,4,1,2024-05-18 13:30:00,Steffen Tigges,BallTouch
+581719,79,BlockedShot,0.88,0.5309999847412109,0.08844368159770966,Florian Dietz,a,10848,OpenPlay,2023,RightFoot,23370,FC Heidenheim,FC Cologne,4,1,2024-05-18 13:30:00,,Rebound

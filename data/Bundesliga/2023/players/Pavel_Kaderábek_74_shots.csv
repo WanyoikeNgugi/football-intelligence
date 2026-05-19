@@ -1,0 +1,157 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+76729,73,BlockedShot,0.8730000305175781,0.2520000076293945,0.03002680093050003,Pavel Kaderábek,a,74,OpenPlay,2015,RightFoot,1044,Darmstadt,Hoffenheim,0,0,2015-08-29 17:30:00,Jonathan Schmid,Pass
+78584,54,MissedShots,0.9369999694824219,0.40900001525878904,0.06555390357971191,Pavel Kaderábek,a,74,FromCorner,2015,Head,1112,FC Cologne,Hoffenheim,0,0,2015-10-31 18:30:00,Jonathan Schmid,Cross
+81629,74,SavedShot,0.9330000305175781,0.41900001525878905,0.05173639953136444,Pavel Kaderábek,h,74,OpenPlay,2015,Head,1232,Hoffenheim,Augsburg,2,1,2016-03-02 23:00:00,,None
+82539,70,MissedShots,0.9330000305175781,0.28,0.02619840018451214,Pavel Kaderábek,h,74,OpenPlay,2015,RightFoot,1272,Hoffenheim,FC Cologne,1,1,2016-04-03 19:30:00,Andrej Kramaric,Cross
+82996,74,MissedShots,0.870999984741211,0.5209999847412109,0.04716410115361214,Pavel Kaderábek,h,74,SetPiece,2015,Head,1283,Hoffenheim,Hertha Berlin,2,1,2016-04-16 17:30:00,Nadiem Amiri,Chipped
+83671,66,SavedShot,0.855,0.48700000762939455,0.0399227999150753,Pavel Kaderábek,a,74,SetPiece,2015,Head,1315,Hannover 96,Hoffenheim,1,0,2016-05-07 17:30:00,Kevin Volland,Chipped
+127844,73,BlockedShot,0.7859999847412109,0.6140000152587891,0.021844200789928436,Pavel Kaderábek,a,74,FromCorner,2016,LeftFoot,1344,Mainz 05,Hoffenheim,4,4,2016-09-11 19:30:00,,None
+128959,20,SavedShot,0.895,0.700999984741211,0.0637919008731842,Pavel Kaderábek,a,74,OpenPlay,2016,RightFoot,1375,Ingolstadt,Hoffenheim,1,2,2016-10-01 17:30:00,Lukas Rupp,Pass
+129311,27,MissedShots,0.8280000305175781,0.29399999618530276,0.022070400416851044,Pavel Kaderábek,a,74,OpenPlay,2016,RightFoot,1395,Bayer Leverkusen,Hoffenheim,0,3,2016-10-22 17:30:00,Sandro Wagner,Cross
+129508,28,ShotOnPost,0.87,0.35900001525878905,0.014688399620354176,Pavel Kaderábek,h,74,OpenPlay,2016,Head,3306,Hoffenheim,Hertha Berlin,1,0,2016-10-30 18:30:00,,Aerial
+129551,92,MissedShots,0.710999984741211,0.24,0.00882336962968111,Pavel Kaderábek,a,74,OpenPlay,2016,RightFoot,2809,Bayern Munich,Hoffenheim,1,1,2016-11-05 18:30:00,Steven Zuber,BallRecovery
+130769,5,MissedShots,0.895,0.34599998474121096,0.06270190328359604,Pavel Kaderábek,h,74,OpenPlay,2016,RightFoot,2822,Hoffenheim,Hamburger SV,2,2,2016-11-20 18:30:00,,None
+130371,6,MissedShots,0.855,0.39599998474121095,0.05669499933719635,Pavel Kaderábek,h,74,OpenPlay,2016,RightFoot,3224,Hoffenheim,Werder Bremen,1,1,2016-12-21 23:00:00,Kevin Vogt,Chipped
+134851,56,MissedShots,0.909000015258789,0.3940000152587891,0.039628900587558746,Pavel Kaderábek,a,74,OpenPlay,2016,Head,3860,Borussia Dortmund,Hoffenheim,2,1,2017-05-06 14:30:00,Andrej Kramaric,Cross
+166646,49,SavedShot,0.6969999694824218,0.3609999847412109,0.02043589949607849,Pavel Kaderábek,h,74,OpenPlay,2017,RightFoot,8309,Hoffenheim,Schalke 04,2,0,2017-09-23 14:30:00,Dennis Geiger,Pass
+166650,60,MissedShots,0.7419999694824219,0.37099998474121093,0.022172700613737106,Pavel Kaderábek,h,74,OpenPlay,2017,RightFoot,8309,Hoffenheim,Schalke 04,2,0,2017-09-23 14:30:00,Sandro Wagner,Pass
+167059,66,BlockedShot,0.8180000305175781,0.33799999237060546,0.033292099833488464,Pavel Kaderábek,a,74,OpenPlay,2017,RightFoot,8316,Freiburg,Hoffenheim,3,2,2017-10-01 12:30:00,,None
+167060,66,MissedShots,0.835,0.33599998474121096,0.0390596017241478,Pavel Kaderábek,a,74,OpenPlay,2017,RightFoot,8316,Freiburg,Hoffenheim,3,2,2017-10-01 12:30:00,,Rebound
+167657,90,BlockedShot,0.894000015258789,0.3340000152587891,0.05315849930047989,Pavel Kaderábek,h,74,SetPiece,2017,LeftFoot,8324,Hoffenheim,Augsburg,2,2,2017-10-14 14:30:00,,None
+168531,13,MissedShots,0.9080000305175782,0.345,0.01029490027576685,Pavel Kaderábek,h,74,OpenPlay,2017,Head,8341,Hoffenheim,Borussia M.Gladbach,1,3,2017-10-28 14:30:00,Dennis Geiger,Aerial
+168877,29,SavedShot,0.9019999694824219,0.34700000762939454,0.0312453992664814,Pavel Kaderábek,h,74,SetPiece,2017,RightFoot,8377,Hoffenheim,RasenBallsport Leipzig,4,0,2017-12-02 14:30:00,Kevin Akpoguma,Cross
+168890,85,SavedShot,0.875,0.35700000762939454,0.08927450329065323,Pavel Kaderábek,h,74,OpenPlay,2017,RightFoot,8377,Hoffenheim,RasenBallsport Leipzig,4,0,2017-12-02 14:30:00,,Tackle
+183926,50,MissedShots,0.8780000305175781,0.3240000152587891,0.06327150017023087,Pavel Kaderábek,h,74,OpenPlay,2017,RightFoot,8395,Hoffenheim,VfB Stuttgart,1,0,2017-12-13 17:30:00,Serge Gnabry,Pass
+183928,54,MissedShots,0.9719999694824218,0.3529999923706055,0.027700699865818024,Pavel Kaderábek,h,74,SetPiece,2017,Head,8395,Hoffenheim,VfB Stuttgart,1,0,2017-12-13 17:30:00,Kerem Demirbay,Chipped
+183933,80,BlockedShot,0.9590000152587891,0.42700000762939455,0.5438690185546875,Pavel Kaderábek,h,74,OpenPlay,2017,RightFoot,8395,Hoffenheim,VfB Stuttgart,1,0,2017-12-13 17:30:00,,None
+183934,80,BlockedShot,0.98,0.3920000076293945,0.3419950008392334,Pavel Kaderábek,h,74,OpenPlay,2017,RightFoot,8395,Hoffenheim,VfB Stuttgart,1,0,2017-12-13 17:30:00,,Goal
+184150,77,MissedShots,0.875,0.33099998474121095,0.05468279868364334,Pavel Kaderábek,a,74,OpenPlay,2017,LeftFoot,8403,Borussia Dortmund,Hoffenheim,2,1,2017-12-16 17:30:00,Ádám Szalai,Pass
+188651,26,MissedShots,0.895,0.40599998474121096,0.027868200093507767,Pavel Kaderábek,h,74,FromCorner,2017,Head,8422,Hoffenheim,Bayer Leverkusen,1,4,2018-01-20 14:30:00,Dennis Geiger,Cross
+194725,85,BlockedShot,0.8640000152587891,0.3,0.05400040000677109,Pavel Kaderábek,a,74,OpenPlay,2017,RightFoot,8439,Hertha Berlin,Hoffenheim,1,1,2018-02-03 14:30:00,Robert Zulj,LayOff
+197296,44,MissedShots,0.9459999847412109,0.38299999237060545,0.08244939893484116,Pavel Kaderábek,h,74,OpenPlay,2017,RightFoot,8469,Hoffenheim,Freiburg,1,1,2018-02-24 14:30:00,,None
+197302,74,ShotOnPost,0.919000015258789,0.49900001525878906,0.09348820149898529,Pavel Kaderábek,h,74,OpenPlay,2017,Head,8469,Hoffenheim,Freiburg,1,1,2018-02-24 14:30:00,Dennis Geiger,Chipped
+199915,4,SavedShot,0.950999984741211,0.34599998474121096,0.01649090088903904,Pavel Kaderábek,h,74,OpenPlay,2017,Head,8486,Hoffenheim,Wolfsburg,3,0,2018-03-10 14:30:00,Andrej Kramaric,Cross
+201296,4,MissedShots,0.884000015258789,0.5429999923706055,0.098683200776577,Pavel Kaderábek,a,74,OpenPlay,2017,LeftFoot,8496,Borussia M.Gladbach,Hoffenheim,3,3,2018-03-17 14:30:00,Florian Grillitsch,OffsidePass
+208341,46,ShotOnPost,0.9680000305175781,0.34,0.09009650349617004,Pavel Kaderábek,h,74,OpenPlay,2017,RightFoot,8521,Hoffenheim,Hamburger SV,2,0,2018-04-14 13:30:00,Ádám Szalai,HeadPass
+210325,44,Goal,0.9519999694824218,0.524000015258789,0.5725880265235901,Pavel Kaderábek,a,74,OpenPlay,2017,LeftFoot,8530,RasenBallsport Leipzig,Hoffenheim,2,5,2018-04-21 13:30:00,Mark Uth,Cross
+211393,52,SavedShot,0.875999984741211,0.3220000076293945,0.06669759750366211,Pavel Kaderábek,h,74,OpenPlay,2017,LeftFoot,8539,Hoffenheim,Hannover 96,3,1,2018-04-27 18:30:00,Steven Zuber,Pass
+214547,72,Goal,0.9269999694824219,0.47400001525878904,0.08595409989356995,Pavel Kaderábek,h,74,SetPiece,2017,RightFoot,8557,Hoffenheim,Borussia Dortmund,3,1,2018-05-12 14:30:00,,None
+221592,10,MissedShots,0.905,0.5720000076293945,0.050527699291706085,Pavel Kaderábek,h,74,FromCorner,2018,Head,10350,Hoffenheim,Freiburg,3,1,2018-09-01 13:30:00,Leonardo Bittencourt,Cross
+223486,38,SavedShot,0.8719999694824219,0.43900001525878907,0.015846800059080124,Pavel Kaderábek,a,74,OpenPlay,2018,Head,10359,Fortuna Duesseldorf,Hoffenheim,2,1,2018-09-15 13:30:00,Florian Grillitsch,Aerial
+226245,0,BlockedShot,0.88,0.3579999923706055,0.07780510187149048,Pavel Kaderábek,a,74,OpenPlay,2018,RightFoot,10374,Hannover 96,Hoffenheim,1,3,2018-09-25 18:30:00,Leonardo Bittencourt,Pass
+226261,48,Goal,0.7330000305175781,0.42700000762939455,0.02436400018632412,Pavel Kaderábek,a,74,OpenPlay,2018,LeftFoot,10374,Hannover 96,Hoffenheim,1,3,2018-09-25 18:30:00,Leonardo Bittencourt,Pass
+255557,36,SavedShot,0.9059999847412109,0.42200000762939455,0.07653799653053284,Pavel Kaderábek,a,74,SetPiece,2018,LeftFoot,10408,Nuernberg,Hoffenheim,1,3,2018-10-20 13:30:00,Joelinton,Cross
+256464,28,BlockedShot,0.9059999847412109,0.41700000762939454,0.4227660000324249,Pavel Kaderábek,a,74,OpenPlay,2018,RightFoot,10440,Hertha Berlin,Hoffenheim,3,3,2018-11-24 14:30:00,,None
+256772,9,MissedShots,0.909000015258789,0.31799999237060544,0.05524609982967377,Pavel Kaderábek,h,74,OpenPlay,2018,RightFoot,10445,Hoffenheim,Schalke 04,1,1,2018-12-01 17:30:00,Ishak Belfodil,HeadPass
+257108,17,BlockedShot,0.850999984741211,0.4520000076293945,0.09586939960718155,Pavel Kaderábek,a,74,OpenPlay,2018,RightFoot,10462,Wolfsburg,Hoffenheim,2,2,2018-12-08 14:30:00,Kerem Demirbay,BallTouch
+257124,70,BlockedShot,0.965999984741211,0.41900001525878905,0.2762889862060547,Pavel Kaderábek,a,74,OpenPlay,2018,Head,10462,Wolfsburg,Hoffenheim,2,2,2018-12-08 14:30:00,Joelinton,Cross
+257251,2,SavedShot,0.895,0.48200000762939454,0.06448700278997421,Pavel Kaderábek,h,74,FromCorner,2018,RightFoot,10463,Hoffenheim,Borussia M.Gladbach,0,0,2018-12-15 14:30:00,Kerem Demirbay,Cross
+257255,14,MissedShots,0.9490000152587891,0.40299999237060546,0.08623620122671127,Pavel Kaderábek,h,74,OpenPlay,2018,RightFoot,10463,Hoffenheim,Borussia M.Gladbach,0,0,2018-12-15 14:30:00,Nico Schulz,Cross
+257268,64,MissedShots,0.97,0.5609999847412109,0.6203470230102539,Pavel Kaderábek,h,74,SetPiece,2018,RightFoot,10463,Hoffenheim,Borussia M.Gladbach,0,0,2018-12-15 14:30:00,Stefan Posch,Rebound
+257626,25,MissedShots,0.8830000305175781,0.42700000762939455,0.3663710057735443,Pavel Kaderábek,a,74,OpenPlay,2018,LeftFoot,10474,Werder Bremen,Hoffenheim,1,1,2018-12-19 19:30:00,,None
+257630,45,MissedShots,0.965,0.669000015258789,0.051479000598192215,Pavel Kaderábek,a,74,SetPiece,2018,LeftFoot,10474,Werder Bremen,Hoffenheim,1,1,2018-12-19 19:30:00,,Rebound
+278993,50,MissedShots,0.909000015258789,0.34,0.01228609960526228,Pavel Kaderábek,a,74,FromCorner,2018,Head,10518,Borussia Dortmund,Hoffenheim,3,3,2019-02-09 14:30:00,Dennis Geiger,Cross
+279002,73,SavedShot,0.9130000305175782,0.5579999923706055,0.24045200645923615,Pavel Kaderábek,a,74,FromCorner,2018,Head,10518,Borussia Dortmund,Hoffenheim,3,3,2019-02-09 14:30:00,Dennis Geiger,Cross
+279009,82,Goal,0.9319999694824219,0.4420000076293945,0.47955700755119324,Pavel Kaderábek,a,74,OpenPlay,2018,Head,10518,Borussia Dortmund,Hoffenheim,3,3,2019-02-09 14:30:00,Florian Grillitsch,Aerial
+279198,10,MissedShots,0.8730000305175781,0.38299999237060545,0.022004399448633194,Pavel Kaderábek,h,74,OpenPlay,2018,Head,10526,Hoffenheim,Hannover 96,3,0,2019-02-16 14:30:00,Andrej Kramaric,Cross
+279558,16,SavedShot,0.875,0.29700000762939455,0.043142400681972504,Pavel Kaderábek,a,74,OpenPlay,2018,RightFoot,10537,RasenBallsport Leipzig,Hoffenheim,1,1,2019-02-25 19:30:00,,None
+285150,41,MissedShots,0.9740000152587891,0.4490000152587891,0.6575239896774292,Pavel Kaderábek,h,74,OpenPlay,2018,RightFoot,10554,Hoffenheim,Nuernberg,2,1,2019-03-10 14:30:00,Nico Schulz,Pass
+286212,47,ShotOnPost,0.93,0.5129999923706055,0.37727999687194824,Pavel Kaderábek,a,74,FromCorner,2018,Head,10562,VfB Stuttgart,Hoffenheim,1,1,2019-03-16 14:30:00,Kerem Demirbay,Cross
+286217,65,MissedShots,0.9590000152587891,0.26399999618530273,0.050566401332616806,Pavel Kaderábek,a,74,OpenPlay,2018,RightFoot,10562,VfB Stuttgart,Hoffenheim,1,1,2019-03-16 14:30:00,Florian Grillitsch,Chipped
+286219,67,SavedShot,0.9569999694824218,0.4,0.12573400139808655,Pavel Kaderábek,a,74,OpenPlay,2018,RightFoot,10562,VfB Stuttgart,Hoffenheim,1,1,2019-03-16 14:30:00,Ishak Belfodil,Pass
+292628,55,BlockedShot,0.8859999847412109,0.35900001525878905,0.07448060065507889,Pavel Kaderábek,a,74,OpenPlay,2018,RightFoot,10586,Augsburg,Hoffenheim,0,4,2019-04-07 14:30:00,Nico Schulz,Chipped
+294031,71,SavedShot,0.9669999694824218,0.435,0.0752284973859787,Pavel Kaderábek,h,74,FromCorner,2018,Head,10589,Hoffenheim,Hertha Berlin,2,0,2019-04-14 12:30:00,,None
+299208,32,Goal,0.91,0.5279999923706055,0.28476399183273315,Pavel Kaderábek,a,74,FromCorner,2018,Head,10619,Borussia M.Gladbach,Hoffenheim,2,2,2019-05-04 14:30:00,Kerem Demirbay,Cross
+299234,85,MissedShots,0.91,0.524000015258789,0.032801900058984756,Pavel Kaderábek,a,74,FromCorner,2018,Head,10619,Borussia M.Gladbach,Hoffenheim,2,2,2019-05-04 14:30:00,Kerem Demirbay,Aerial
+300714,52,SavedShot,0.7330000305175781,0.37400001525878906,0.01829260028898716,Pavel Kaderábek,h,74,OpenPlay,2018,RightFoot,10625,Hoffenheim,Werder Bremen,0,1,2019-05-11 14:30:00,Joshua Brenet,Pass
+311106,19,MissedShots,0.899000015258789,0.645,0.008229070343077183,Pavel Kaderábek,a,74,SetPiece,2019,Head,12410,Eintracht Frankfurt,Hoffenheim,1,0,2019-08-18 14:30:00,Dennis Geiger,Aerial
+312379,86,Goal,0.9069999694824219,0.48900001525878906,0.2822610139846802,Pavel Kaderábek,h,74,FromCorner,2019,Head,12414,Hoffenheim,Werder Bremen,3,2,2019-08-24 14:30:00,Dennis Geiger,Cross
+315639,13,BlockedShot,0.860999984741211,0.3270000076293945,0.04442119970917702,Pavel Kaderábek,a,74,OpenPlay,2019,RightFoot,12426,Bayer Leverkusen,Hoffenheim,0,0,2019-08-31 14:30:00,Ishak Belfodil,Pass
+318012,14,SavedShot,0.8530000305175781,0.4370000076293945,0.07657209783792496,Pavel Kaderábek,h,74,OpenPlay,2019,LeftFoot,12437,Hoffenheim,Freiburg,0,3,2019-09-15 13:30:00,Ishak Belfodil,Pass
+318019,34,MissedShots,0.909000015258789,0.40700000762939453,0.02054009959101677,Pavel Kaderábek,h,74,OpenPlay,2019,Head,12437,Hoffenheim,Freiburg,0,3,2019-09-15 13:30:00,Sebastian Rudy,Aerial
+318020,35,MissedShots,0.915,0.605999984741211,0.03441379964351654,Pavel Kaderábek,h,74,FromCorner,2019,Head,12437,Hoffenheim,Freiburg,0,3,2019-09-15 13:30:00,Dennis Geiger,Cross
+321478,47,SavedShot,0.9030000305175782,0.4,0.0266891997307539,Pavel Kaderábek,a,74,OpenPlay,2019,Head,12447,Wolfsburg,Hoffenheim,1,1,2019-09-23 18:30:00,Dennis Geiger,Pass
+322448,56,MissedShots,0.91,0.43099998474121093,0.06985799968242645,Pavel Kaderábek,h,74,OpenPlay,2019,Head,12453,Hoffenheim,Borussia M.Gladbach,0,3,2019-09-28 13:30:00,Robert Skov,Cross
+327017,26,MissedShots,0.91,0.45099998474121095,0.09603220224380493,Pavel Kaderábek,a,74,OpenPlay,2019,LeftFoot,12482,Hertha Berlin,Hoffenheim,2,3,2019-10-26 14:30:00,Florian Grillitsch,Cross
+327036,84,MissedShots,0.9369999694824219,0.5640000152587891,0.060254599899053574,Pavel Kaderábek,a,74,SetPiece,2019,Head,12482,Hertha Berlin,Hoffenheim,2,3,2019-10-26 14:30:00,Robert Skov,Aerial
+328781,14,Goal,0.9069999694824219,0.37599998474121094,0.36811700463294983,Pavel Kaderábek,h,74,OpenPlay,2019,RightFoot,12489,Hoffenheim,Paderborn,3,0,2019-11-01 19:30:00,Florian Grillitsch,Pass
+328789,43,BlockedShot,0.9159999847412109,0.605,0.03510599955916405,Pavel Kaderábek,h,74,FromCorner,2019,Head,12489,Hoffenheim,Paderborn,3,0,2019-11-01 19:30:00,Sebastian Rudy,Cross
+328790,45,BlockedShot,0.8490000152587891,0.3820000076293945,0.11320599913597107,Pavel Kaderábek,h,74,OpenPlay,2019,RightFoot,12489,Hoffenheim,Paderborn,3,0,2019-11-01 19:30:00,,TakeOn
+328791,48,MissedShots,0.894000015258789,0.4279999923706055,0.05216959863901138,Pavel Kaderábek,h,74,SetPiece,2019,Head,12489,Hoffenheim,Paderborn,3,0,2019-11-01 19:30:00,Robert Skov,Cross
+330240,19,BlockedShot,0.9590000152587891,0.395,0.12366300076246262,Pavel Kaderábek,a,74,OpenPlay,2019,RightFoot,12498,FC Cologne,Hoffenheim,1,2,2019-11-08 19:30:00,Florian Grillitsch,Pass
+333056,8,MissedShots,0.9209999847412109,0.5579999923706055,0.26200398802757263,Pavel Kaderábek,h,74,FromCorner,2019,Head,12506,Hoffenheim,Mainz 05,1,5,2019-11-24 17:00:00,Sebastian Rudy,Cross
+333060,15,SavedShot,0.8959999847412109,0.625999984741211,0.05149880051612854,Pavel Kaderábek,h,74,OpenPlay,2019,RightFoot,12506,Hoffenheim,Mainz 05,1,5,2019-11-24 17:00:00,Robert Skov,Cross
+333071,51,OwnGoal,0.07800000190734863,0.48400001525878905,0,Pavel Kaderábek,h,74,OpenPlay,2019,Head,12506,Hoffenheim,Mainz 05,1,5,2019-11-24 17:00:00,,Clearance
+333073,58,SavedShot,0.9680000305175781,0.39799999237060546,0.2847000062465668,Pavel Kaderábek,h,74,OpenPlay,2019,RightFoot,12506,Hoffenheim,Mainz 05,1,5,2019-11-24 17:00:00,,None
+333077,81,SavedShot,0.9280000305175782,0.5,0.3793700039386749,Pavel Kaderábek,h,74,FromCorner,2019,Head,12506,Hoffenheim,Mainz 05,1,5,2019-11-24 17:00:00,Andrej Kramaric,Cross
+333578,45,MissedShots,0.889000015258789,0.43599998474121093,0.09231659770011902,Pavel Kaderábek,h,74,OpenPlay,2019,RightFoot,12518,Hoffenheim,Fortuna Duesseldorf,1,1,2019-11-30 14:30:00,Robert Skov,Cross
+356617,32,MissedShots,0.88,0.3160000038146973,0.05045349895954132,Pavel Kaderábek,h,74,OpenPlay,2019,RightFoot,12576,Hoffenheim,Bayer Leverkusen,2,1,2020-02-01 14:30:00,Sebastian Rudy,Pass
+356635,84,MissedShots,0.8280000305175781,0.7030000305175781,0.05661199986934662,Pavel Kaderábek,h,74,OpenPlay,2019,RightFoot,12576,Hoffenheim,Bayer Leverkusen,2,1,2020-02-01 14:30:00,Sebastian Rudy,Pass
+357996,47,MissedShots,0.9340000152587891,0.32799999237060545,0.05083499848842621,Pavel Kaderábek,a,74,OpenPlay,2019,RightFoot,12590,Freiburg,Hoffenheim,1,0,2020-02-08 14:30:00,Benjamin Hübner,Chipped
+358854,7,SavedShot,0.8569999694824219,0.3579999923706055,0.23392699658870697,Pavel Kaderábek,h,74,OpenPlay,2019,RightFoot,12594,Hoffenheim,Wolfsburg,2,3,2020-02-15 14:30:00,Andrej Kramaric,Pass
+363138,18,SavedShot,0.874000015258789,0.3,0.022288400679826736,Pavel Kaderábek,a,74,OpenPlay,2019,RightFoot,12637,Paderborn,Hoffenheim,1,1,2020-05-23 13:30:00,Steven Zuber,Cross
+364106,51,SavedShot,0.9319999694824219,0.5420000076293945,0.11253999918699265,Pavel Kaderábek,h,74,FromCorner,2019,Head,12675,Hoffenheim,RasenBallsport Leipzig,0,2,2020-06-12 18:30:00,Dennis Geiger,Cross
+366831,13,BlockedShot,0.8490000152587891,0.24,0.03235439956188202,Pavel Kaderábek,a,74,OpenPlay,2019,RightFoot,12700,Borussia Dortmund,Hoffenheim,0,4,2020-06-27 13:30:00,Sebastian Rudy,Pass
+377500,17,SavedShot,0.909000015258789,0.5870000076293945,0.40652400255203247,Pavel Kaderábek,a,74,OpenPlay,2020,RightFoot,14176,FC Cologne,Hoffenheim,2,3,2020-09-19 13:30:00,Christoph Baumgartner,Pass
+380480,72,BlockedShot,0.9069999694824219,0.5840000152587891,0.025557100772857666,Pavel Kaderábek,a,74,FromCorner,2020,Head,15163,Eintracht Frankfurt,Hoffenheim,2,1,2020-10-03 13:30:00,Mijat Gacinovic,CornerAwarded
+401659,84,SavedShot,0.960999984741211,0.5970000076293945,0.09453070163726807,Pavel Kaderábek,a,74,FromCorner,2020,RightFoot,15302,Bayern Munich,Hoffenheim,4,1,2021-01-30 14:30:00,Håvard Nordtveit,HeadPass
+401663,87,BlockedShot,0.7780000305175782,0.3340000152587891,0.020913999527692795,Pavel Kaderábek,a,74,OpenPlay,2020,RightFoot,15302,Bayern Munich,Hoffenheim,4,1,2021-01-30 14:30:00,Andrej Kramaric,Pass
+408508,47,MissedShots,0.8690000152587891,0.3370000076293945,0.007344549987465143,Pavel Kaderábek,h,74,SetPiece,2020,Head,15353,Hoffenheim,Wolfsburg,2,1,2021-03-06 14:30:00,Sebastian Rudy,Aerial
+410616,36,SavedShot,0.9080000305175782,0.44599998474121094,0.06543990224599838,Pavel Kaderábek,a,74,FromCorner,2020,Head,15364,VfB Stuttgart,Hoffenheim,2,0,2021-03-14 17:00:00,Sebastian Rudy,Cross
+412453,61,SavedShot,0.9490000152587891,0.42900001525878906,0.08151169866323471,Pavel Kaderábek,a,74,OpenPlay,2020,Head,15382,Augsburg,Hoffenheim,2,1,2021-04-03 13:30:00,Florian Grillitsch,Aerial
+417145,31,MissedShots,0.92,0.4420000076293945,0.0825899988412857,Pavel Kaderábek,a,74,FromCorner,2020,Head,15414,Freiburg,Hoffenheim,1,1,2021-04-24 13:30:00,Andrej Kramaric,Cross
+423662,29,MissedShots,0.925,0.35700000762939454,0.11713200062513351,Pavel Kaderábek,h,74,OpenPlay,2020,RightFoot,15439,Hoffenheim,Hertha Berlin,2,1,2021-05-22 13:30:00,Robert Skov,Throughball
+423679,80,MissedShots,0.9019999694824219,0.40400001525878904,0.0370544008910656,Pavel Kaderábek,h,74,OpenPlay,2020,Head,15439,Hoffenheim,Hertha Berlin,2,1,2021-05-22 13:30:00,Florian Grillitsch,Chipped
+433289,4,BlockedShot,0.925,0.45,0.09856300055980682,Pavel Kaderábek,h,74,FromCorner,2021,Head,17566,Hoffenheim,Wolfsburg,3,1,2021-09-25 13:30:00,David Raum,Cross
+433309,80,Goal,0.955999984741211,0.5120000076293946,0.6745759844779968,Pavel Kaderábek,h,74,SetPiece,2021,RightFoot,17566,Hoffenheim,Wolfsburg,3,1,2021-09-25 13:30:00,,Rebound
+435910,24,BlockedShot,0.9130000305175782,0.36400001525878906,0.09893839806318283,Pavel Kaderábek,h,74,OpenPlay,2021,RightFoot,17581,Hoffenheim,FC Cologne,5,0,2021-10-15 18:30:00,Christoph Baumgartner,Pass
+447641,75,BlockedShot,0.8859999847412109,0.34799999237060547,0.06831780076026917,Pavel Kaderábek,a,74,OpenPlay,2021,RightFoot,17646,Freiburg,Hoffenheim,1,2,2021-12-11 14:30:00,Christoph Baumgartner,Pass
+449407,3,MissedShots,0.8490000152587891,0.47200000762939454,0.09245859831571579,Pavel Kaderábek,h,74,OpenPlay,2021,LeftFoot,17664,Hoffenheim,Borussia M.Gladbach,1,1,2021-12-18 14:30:00,Andrej Kramaric,Pass
+449413,22,SavedShot,0.94,0.325,0.06813310086727142,Pavel Kaderábek,h,74,OpenPlay,2021,RightFoot,17664,Hoffenheim,Borussia M.Gladbach,1,1,2021-12-18 14:30:00,Andrej Kramaric,HeadPass
+449422,36,BlockedShot,0.850999984741211,0.445,0.06014540046453476,Pavel Kaderábek,h,74,OpenPlay,2021,RightFoot,17664,Hoffenheim,Borussia M.Gladbach,1,1,2021-12-18 14:30:00,,None
+449435,84,BlockedShot,0.9169999694824219,0.5509999847412109,0.08192320168018341,Pavel Kaderábek,h,74,FromCorner,2021,Head,17664,Hoffenheim,Borussia M.Gladbach,1,1,2021-12-18 14:30:00,David Raum,Cross
+457704,73,MissedShots,0.894000015258789,0.3679999923706055,0.08602479845285416,Pavel Kaderábek,h,74,OpenPlay,2021,RightFoot,17707,Hoffenheim,Arminia Bielefeld,2,0,2022-02-13 16:30:00,,None
+459335,14,BlockedShot,0.955999984741211,0.5279999923706055,0.11835300177335739,Pavel Kaderábek,h,74,SetPiece,2021,Head,17726,Hoffenheim,VfB Stuttgart,2,1,2022-02-25 19:30:00,Andrej Kramaric,Aerial
+459339,19,ShotOnPost,0.9830000305175781,0.5209999847412109,0.9567829966545105,Pavel Kaderábek,h,74,SetPiece,2021,RightFoot,17726,Hoffenheim,VfB Stuttgart,2,1,2022-02-25 19:30:00,,Rebound
+487447,51,MissedShots,0.92,0.6090000152587891,0.0722901001572609,Pavel Kaderábek,h,74,FromCorner,2022,RightFoot,19390,Hoffenheim,Mainz 05,4,1,2022-09-10 13:30:00,Dennis Geiger,Pass
+487463,91,Goal,0.894000015258789,0.48200000762939454,0.44497498869895935,Pavel Kaderábek,h,74,OpenPlay,2022,RightFoot,19390,Hoffenheim,Mainz 05,4,1,2022-09-10 13:30:00,Angelo Stiller,Pass
+505379,91,MissedShots,0.9519999694824218,0.525,0.43783000111579895,Pavel Kaderábek,h,74,OpenPlay,2022,Head,19490,Hoffenheim,VfB Stuttgart,2,2,2023-01-24 19:30:00,Tom Bischof,Aerial
+505723,43,MissedShots,0.875,0.32799999237060545,0.25181999802589417,Pavel Kaderábek,h,74,OpenPlay,2022,RightFoot,19500,Hoffenheim,Borussia M.Gladbach,1,4,2023-01-28 14:30:00,Kasper Dolberg,Pass
+514914,7,MissedShots,0.919000015258789,0.43599998474121093,0.10443300008773804,Pavel Kaderábek,h,74,OpenPlay,2022,LeftFoot,19562,Hoffenheim,Hertha Berlin,3,1,2023-03-18 14:30:00,Andrej Kramaric,Chipped
+514921,31,MissedShots,0.815,0.4640000152587891,0.03958659991621971,Pavel Kaderábek,h,74,FromCorner,2022,RightFoot,19562,Hoffenheim,Hertha Berlin,3,1,2023-03-18 14:30:00,,None
+519366,54,MissedShots,0.94,0.37599998474121094,0.0645831972360611,Pavel Kaderábek,a,74,OpenPlay,2022,RightFoot,19585,Bayern Munich,Hoffenheim,1,1,2023-04-15 13:30:00,Angelino,Cross
+519371,67,BlockedShot,0.9030000305175782,0.5120000076293946,0.12380900233983994,Pavel Kaderábek,a,74,OpenPlay,2022,RightFoot,19585,Bayern Munich,Hoffenheim,1,1,2023-04-15 13:30:00,Dennis Geiger,Pass
+533065,52,BlockedShot,0.8430000305175781,0.49400001525878906,0.07501743733882904,Pavel Kaderábek,h,74,OpenPlay,2023,LeftFoot,23068,Hoffenheim,Freiburg,1,2,2023-08-19 13:30:00,Ihlas Bebou,Pass
+533069,57,MissedShots,0.9169999694824219,0.43,0.23365311324596405,Pavel Kaderábek,h,74,OpenPlay,2023,Head,23068,Hoffenheim,Freiburg,1,2,2023-08-19 13:30:00,Marius Bülter,Cross
+534545,79,Goal,0.9730000305175781,0.46599998474121096,0.7980360984802246,Pavel Kaderábek,a,74,OpenPlay,2023,RightFoot,23078,FC Heidenheim,Hoffenheim,2,3,2023-08-26 13:30:00,,Rebound
+537447,63,SavedShot,0.9290000152587891,0.335,0.05840841308236122,Pavel Kaderábek,a,74,SetPiece,2023,RightFoot,23097,FC Cologne,Hoffenheim,1,3,2023-09-16 13:30:00,,None
+537448,64,MissedShots,0.955999984741211,0.38,0.0287763774394989,Pavel Kaderábek,a,74,FromCorner,2023,Head,23097,FC Cologne,Hoffenheim,1,3,2023-09-16 13:30:00,Andrej Kramaric,Cross
+538959,42,MissedShots,0.9359999847412109,0.49700000762939456,0.14351284503936768,Pavel Kaderábek,a,74,SetPiece,2023,Head,23106,Union Berlin,Hoffenheim,0,2,2023-09-23 13:30:00,Andrej Kramaric,Cross
+551120,18,MissedShots,0.9459999847412109,0.3129999923706055,0.05614675581455231,Pavel Kaderábek,a,74,OpenPlay,2023,RightFoot,23177,Borussia M.Gladbach,Hoffenheim,2,1,2023-12-02 14:30:00,,None
+551122,18,MissedShots,0.9119999694824219,0.41,0.044426076114177704,Pavel Kaderábek,a,74,FromCorner,2023,Head,23177,Borussia M.Gladbach,Hoffenheim,2,1,2023-12-02 14:30:00,Anton Stach,Cross
+551134,61,SavedShot,0.8909999847412109,0.36700000762939455,0.06858312338590622,Pavel Kaderábek,a,74,OpenPlay,2023,LeftFoot,23177,Borussia M.Gladbach,Hoffenheim,2,1,2023-12-02 14:30:00,,None
+555312,95,MissedShots,0.9119999694824219,0.49900001525878906,0.037821415811777115,Pavel Kaderábek,h,74,FromCorner,2023,Head,23205,Hoffenheim,Darmstadt,3,3,2023-12-19 19:30:00,Robert Skov,Aerial
+565792,0,BlockedShot,0.925,0.4879999923706055,0.04834464192390442,Pavel Kaderábek,a,74,FromCorner,2023,OtherBodyPart,23270,Borussia Dortmund,Hoffenheim,2,3,2024-02-25 16:30:00,Robert Skov,Aerial
+569611,58,MissedShots,0.9259999847412109,0.595999984741211,0.05080719292163849,Pavel Kaderábek,h,74,FromCorner,2023,Head,23296,Hoffenheim,VfB Stuttgart,0,3,2024-03-16 17:30:00,Anton Stach,Cross
+572947,6,MissedShots,0.924000015258789,0.5990000152587891,0.016490602865815163,Pavel Kaderábek,h,74,FromCorner,2023,Head,23314,Hoffenheim,Augsburg,3,1,2024-04-07 13:30:00,Anton Stach,Aerial
+573598,18,Goal,0.9109999847412109,0.4879999923706055,0.3721591532230377,Pavel Kaderábek,a,74,OpenPlay,2023,Head,23320,Mainz 05,Hoffenheim,4,1,2024-04-13 13:30:00,Andrej Kramaric,Aerial
+574891,13,BlockedShot,0.8109999847412109,0.3139999961853027,0.017951473593711853,Pavel Kaderábek,h,74,OpenPlay,2023,RightFoot,23332,Hoffenheim,Borussia M.Gladbach,4,3,2024-04-20 13:30:00,Andrej Kramaric,Chipped
+574892,17,SavedShot,0.8869999694824219,0.34900001525878904,0.06649971008300781,Pavel Kaderábek,h,74,OpenPlay,2023,LeftFoot,23332,Hoffenheim,Borussia M.Gladbach,4,3,2024-04-20 13:30:00,Ozan Kabak,Pass
+574911,50,MissedShots,0.83,0.525,0.08285904675722122,Pavel Kaderábek,h,74,OpenPlay,2023,LeftFoot,23332,Hoffenheim,Borussia M.Gladbach,4,3,2024-04-20 13:30:00,Maximilian Beier,LayOff
+578034,46,BlockedShot,0.9540000152587891,0.3160000038146973,0.036151573061943054,Pavel Kaderábek,h,74,FromCorner,2023,RightFoot,23349,Hoffenheim,RasenBallsport Leipzig,1,1,2024-05-03 18:30:00,Andrej Kramaric,Cross
+580380,21,Goal,0.9680000305175781,0.30100000381469727,0.08761108666658401,Pavel Kaderábek,a,74,OpenPlay,2023,RightFoot,23361,Darmstadt,Hoffenheim,0,6,2024-05-12 13:30:00,Florian Grillitsch,Chipped
+581733,23,MissedShots,0.96,0.40900001525878904,0.0853709951043129,Pavel Kaderábek,h,74,SetPiece,2023,RightFoot,23367,Hoffenheim,Bayern Munich,4,2,2024-05-18 13:30:00,Marius Bülter,Cross
+590724,48,BlockedShot,0.8540000152587891,0.38,0.047492366284132004,Pavel Kaderábek,h,74,FromCorner,2024,RightFoot,27761,Hoffenheim,Bayer Leverkusen,1,4,2024-09-14 13:30:00,,None
+592231,92,MissedShots,0.874000015258789,0.45099998474121095,0.020522933453321457,Pavel Kaderábek,a,74,FromCorner,2024,Head,27770,Union Berlin,Hoffenheim,2,1,2024-09-21 13:30:00,Jacob Bruun Larsen,Dispossessed
+594844,47,SavedShot,0.9469999694824218,0.34,0.012479125522077084,Pavel Kaderábek,h,74,FromCorner,2024,Head,27786,Hoffenheim,Werder Bremen,3,4,2024-09-29 15:30:00,Tom Bischof,Aerial
+600019,91,MissedShots,0.8880000305175781,0.25,0.03043222241103649,Pavel Kaderábek,h,74,OpenPlay,2024,RightFoot,27818,Hoffenheim,St. Pauli,0,2,2024-11-02 14:30:00,,None
+602721,29,MissedShots,0.83,0.295,0.032445404678583145,Pavel Kaderábek,h,74,OpenPlay,2024,RightFoot,27837,Hoffenheim,RasenBallsport Leipzig,4,3,2024-11-23 14:30:00,Adam Hlozek,Pass
+617683,22,BlockedShot,0.879000015258789,0.47400001525878904,0.10190598666667938,Pavel Kaderábek,a,74,OpenPlay,2024,LeftFoot,27935,Werder Bremen,Hoffenheim,1,3,2025-02-16 14:30:00,Andrej Kramaric,Pass
+622044,43,MissedShots,0.765,0.35900001525878905,0.028480060398578644,Pavel Kaderábek,h,74,OpenPlay,2024,RightFoot,27962,Hoffenheim,FC Heidenheim,1,1,2025-03-09 16:30:00,,None
+628408,80,MissedShots,0.8590000152587891,0.37,0.05213916674256325,Pavel Kaderábek,a,74,OpenPlay,2024,RightFoot,28007,Freiburg,Hoffenheim,3,2,2025-04-19 13:30:00,,None
+630264,90,Goal,0.965,0.4129999923706055,0.2684558033943176,Pavel Kaderábek,h,74,OpenPlay,2024,Head,28016,Hoffenheim,Borussia Dortmund,2,3,2025-04-26 13:30:00,David Jurásek,Cross
+630265,91,MissedShots,0.895,0.41,0.023500217124819756,Pavel Kaderábek,h,74,OpenPlay,2024,Head,28016,Hoffenheim,Borussia Dortmund,2,3,2025-04-26 13:30:00,Stanley N&#039;Soki,Aerial
+631344,25,MissedShots,0.8880000305175781,0.385,0.027788447216153145,Pavel Kaderábek,a,74,OpenPlay,2024,Head,28027,Borussia M.Gladbach,Hoffenheim,4,4,2025-05-03 13:30:00,Andrej Kramaric,Chipped
+632449,33,Goal,0.88,0.3890000152587891,0.05639839172363281,Pavel Kaderábek,a,74,OpenPlay,2024,RightFoot,28035,Wolfsburg,Hoffenheim,2,2,2025-05-09 18:30:00,Marius Bülter,Cross
+632451,36,MissedShots,0.845,0.34599998474121096,0.03369951993227005,Pavel Kaderábek,a,74,FromCorner,2024,RightFoot,28035,Wolfsburg,Hoffenheim,2,2,2025-05-09 18:30:00,Tom Bischof,Cross
+632463,71,BlockedShot,0.8440000152587891,0.37,0.04978788271546364,Pavel Kaderábek,a,74,SetPiece,2024,RightFoot,28035,Wolfsburg,Hoffenheim,2,2,2025-05-09 18:30:00,Adam Hlozek,Pass

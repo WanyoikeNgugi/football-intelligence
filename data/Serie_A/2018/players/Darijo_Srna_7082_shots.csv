@@ -1,0 +1,11 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+220870,48,BlockedShot,0.845999984741211,0.26399999618530273,0.035489100962877274,Darijo Srna,h,7082,OpenPlay,2018,RightFoot,9591,Cagliari,Sassuolo,2,2,2018-08-26 21:30:00,Nicolò Barella,Pass
+222517,76,BlockedShot,0.8580000305175781,0.31799999237060544,0.03593369945883751,Darijo Srna,a,7082,OpenPlay,2018,RightFoot,9603,Atalanta,Cagliari,0,1,2018-09-02 18:30:00,Nicolò Barella,Cross
+226829,24,MissedShots,0.795,0.3659999847412109,0.01537999976426363,Darijo Srna,h,7082,FromCorner,2018,RightFoot,9628,Cagliari,Sampdoria,0,0,2018-09-26 19:00:00,,Aerial
+226840,53,MissedShots,0.905,0.3220000076293945,0.2722119987010956,Darijo Srna,h,7082,OpenPlay,2018,RightFoot,9628,Cagliari,Sampdoria,0,0,2018-09-26 19:00:00,,Rebound
+253858,27,BlockedShot,0.8130000305175781,0.2879999923706055,0.019276900216937065,Darijo Srna,a,7082,OpenPlay,2018,RightFoot,9710,Frosinone,Cagliari,1,1,2018-12-02 14:00:00,Simone Padoin,Cross
+277843,73,MissedShots,0.8009999847412109,0.15100000381469728,0.011639299802482128,Darijo Srna,a,7082,OpenPlay,2018,RightFoot,9824,Sampdoria,Cagliari,1,0,2019-02-24 11:30:00,,Interception
+277983,62,MissedShots,0.7440000152587891,0.3529999923706055,0.01313059963285923,Darijo Srna,h,7082,OpenPlay,2018,RightFoot,9831,Cagliari,Inter,2,1,2019-03-01 19:30:00,Nicolò Barella,Chipped
+291060,5,MissedShots,0.7080000305175781,0.5179999923706055,0.01334370020776987,Darijo Srna,h,7082,FromCorner,2018,RightFoot,9868,Cagliari,Juventus,0,2,2019-04-02 20:00:00,,None
+297869,88,BlockedShot,0.78,0.6480000305175782,0.06969430297613144,Darijo Srna,a,7082,DirectFreekick,2018,RightFoot,9908,Roma,Cagliari,3,0,2019-04-27 17:00:00,,Standard
+304152,37,SavedShot,0.759000015258789,0.5129999923706055,0.07280679792165756,Darijo Srna,h,7082,DirectFreekick,2018,RightFoot,9949,Cagliari,Udinese,1,2,2019-05-26 18:30:00,,Standard

@@ -1,0 +1,647 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+13141,20,MissedShots,0.730999984741211,0.29100000381469726,0.01260290015488863,Quincy Promes,a,2815,FromCorner,2014,RightFoot,6443,CSKA Moscow,Spartak Moscow,0,1,2014-08-17 10:30:00,,Aerial
+13143,25,SavedShot,0.81,0.24399999618530274,0.021447399631142616,Quincy Promes,a,2815,OpenPlay,2014,RightFoot,6443,CSKA Moscow,Spartak Moscow,0,1,2014-08-17 10:30:00,Kim Källström,Pass
+13157,70,SavedShot,0.755,0.7519999694824219,0.013776499778032303,Quincy Promes,a,2815,OpenPlay,2014,RightFoot,6443,CSKA Moscow,Spartak Moscow,0,1,2014-08-17 10:30:00,Serdar Tasci,Chipped
+13161,88,BlockedShot,0.8240000152587891,0.45,0.11070699989795685,Quincy Promes,a,2815,OpenPlay,2014,RightFoot,6443,CSKA Moscow,Spartak Moscow,0,1,2014-08-17 10:30:00,Denis Davydov,Pass
+12664,30,MissedShots,0.870999984741211,0.34900001525878904,0.10843300074338913,Quincy Promes,a,2815,OpenPlay,2014,RightFoot,6450,FC Ufa,Spartak Moscow,1,2,2014-08-23 11:00:00,Artem Dzyuba,Pass
+12666,35,MissedShots,0.9080000305175782,0.635,0.10029800236225128,Quincy Promes,a,2815,OpenPlay,2014,RightFoot,6450,FC Ufa,Spartak Moscow,1,2,2014-08-23 11:00:00,Jurado,Pass
+12669,61,SavedShot,0.9109999847412109,0.529000015258789,0.4764539897441864,Quincy Promes,a,2815,OpenPlay,2014,RightFoot,6450,FC Ufa,Spartak Moscow,1,2,2014-08-23 11:00:00,Artem Dzyuba,TakeOn
+9713,33,Goal,0.8630000305175781,0.5259999847412109,0.3220039904117584,Quincy Promes,h,2815,FromCorner,2014,RightFoot,6397,Spartak Moscow,Torpedo Moscow,3,1,2014-09-14 10:30:00,Serdar Tasci,Pass
+9727,69,Goal,0.9030000305175782,0.32799999237060545,0.09118969738483429,Quincy Promes,h,2815,OpenPlay,2014,RightFoot,6397,Spartak Moscow,Torpedo Moscow,3,1,2014-09-14 10:30:00,Artem Dzyuba,Pass
+10195,45,SavedShot,0.9390000152587891,0.24299999237060546,0.03649450093507767,Quincy Promes,a,2815,OpenPlay,2014,RightFoot,6411,Zenit St. Petersburg,Spartak Moscow,0,0,2014-09-27 15:30:00,Artem Dzyuba,Pass
+10201,75,MissedShots,0.795,0.27399999618530274,0.015125700272619724,Quincy Promes,a,2815,FromCorner,2014,RightFoot,6411,Zenit St. Petersburg,Spartak Moscow,0,0,2014-09-27 15:30:00,,None
+8870,21,MissedShots,0.8119999694824219,0.715,0.02481210045516491,Quincy Promes,a,2815,OpenPlay,2014,RightFoot,6380,Ural,Spartak Moscow,2,0,2014-10-19 10:30:00,Tino Costa,Pass
+9953,25,MissedShots,0.8430000305175781,0.485,0.12807400524616241,Quincy Promes,h,2815,OpenPlay,2014,RightFoot,6387,Spartak Moscow,Lokomotiv Moscow,1,1,2014-10-26 10:30:00,Rómulo,Throughball
+9604,19,MissedShots,0.884000015258789,0.720999984741211,0.05100949853658676,Quincy Promes,h,2815,OpenPlay,2014,RightFoot,6360,Spartak Moscow,Arsenal Tula,2,0,2014-11-09 15:00:00,,None
+9605,21,Goal,0.9440000152587891,0.495,0.6189540028572083,Quincy Promes,h,2815,OpenPlay,2014,RightFoot,6360,Spartak Moscow,Arsenal Tula,2,0,2014-11-09 15:00:00,,None
+9613,44,MissedShots,0.885,0.6409999847412109,0.12671799957752228,Quincy Promes,h,2815,OpenPlay,2014,LeftFoot,6360,Spartak Moscow,Arsenal Tula,2,0,2014-11-09 15:00:00,,TakeOn
+9616,54,MissedShots,0.909000015258789,0.2989999961853027,0.10230699926614761,Quincy Promes,h,2815,OpenPlay,2014,RightFoot,6360,Spartak Moscow,Arsenal Tula,2,0,2014-11-09 15:00:00,Sergey Parshivlyuk,TakeOn
+9620,69,MissedShots,0.885,0.5170000076293946,0.024652300402522087,Quincy Promes,h,2815,OpenPlay,2014,Head,6360,Spartak Moscow,Arsenal Tula,2,0,2014-11-09 15:00:00,Patrick Ebert,Aerial
+9624,84,MissedShots,0.87,0.5590000152587891,0.09397540241479874,Quincy Promes,h,2815,OpenPlay,2014,RightFoot,6360,Spartak Moscow,Arsenal Tula,2,0,2014-11-09 15:00:00,,None
+9686,8,Goal,0.9030000305175782,0.4909999847412109,0.44304800033569336,Quincy Promes,h,2815,OpenPlay,2014,RightFoot,6367,Spartak Moscow,Mordovya,4,2,2014-11-23 15:30:00,Yura Movsisyan,Pass
+9688,17,Goal,0.8530000305175781,0.3940000152587891,0.30904000997543335,Quincy Promes,h,2815,OpenPlay,2014,LeftFoot,6367,Spartak Moscow,Mordovya,4,2,2014-11-23 15:30:00,,TakeOn
+13249,35,MissedShots,0.8619999694824219,0.45599998474121095,0.39028701186180115,Quincy Promes,a,2815,OpenPlay,2014,RightFoot,6374,Lokomotiv Moscow,Spartak Moscow,1,0,2014-11-30 10:30:00,Denis Glushakov,Pass
+12924,8,MissedShots,0.9109999847412109,0.3579999923706055,0.2838580012321472,Quincy Promes,h,2815,OpenPlay,2014,RightFoot,6337,Spartak Moscow,FC Rostov,1,1,2014-12-04 16:45:00,Yura Movsisyan,Cross
+12939,78,SavedShot,0.879000015258789,0.3729999923706055,0.06906239688396454,Quincy Promes,h,2815,OpenPlay,2014,LeftFoot,6337,Spartak Moscow,FC Rostov,1,1,2014-12-04 16:45:00,Artem Dzyuba,Pass
+11846,16,SavedShot,0.7919999694824219,0.6980000305175781,0.023407399654388428,Quincy Promes,h,2815,OpenPlay,2014,RightFoot,6345,Spartak Moscow,Ural,2,0,2014-12-08 17:00:00,Denis Glushakov,Pass
+11854,54,SavedShot,0.7769999694824219,0.4109999847412109,0.02853360027074814,Quincy Promes,h,2815,OpenPlay,2014,RightFoot,6345,Spartak Moscow,Ural,2,0,2014-12-08 17:00:00,Yura Movsisyan,BallTouch
+11864,88,BlockedShot,0.8119999694824219,0.4779999923706055,0.08093090355396271,Quincy Promes,h,2815,OpenPlay,2014,RightFoot,6345,Spartak Moscow,Ural,2,0,2014-12-08 17:00:00,Jurado,Pass
+12509,5,SavedShot,0.9,0.365,0.09250059723854065,Quincy Promes,h,2815,OpenPlay,2014,RightFoot,6308,Spartak Moscow,FC Krasnodar,1,3,2015-03-08 10:30:00,Jurado,Pass
+12510,6,BlockedShot,0.889000015258789,0.600999984741211,0.10477100312709808,Quincy Promes,h,2815,OpenPlay,2014,RightFoot,6308,Spartak Moscow,FC Krasnodar,1,3,2015-03-08 10:30:00,Kim Källström,Pass
+12526,72,MissedShots,0.8130000305175781,0.3220000076293945,0.06873840093612671,Quincy Promes,h,2815,OpenPlay,2014,LeftFoot,6308,Spartak Moscow,FC Krasnodar,1,3,2015-03-08 10:30:00,Kim Källström,Chipped
+12530,79,MissedShots,0.9309999847412109,0.4520000076293945,0.06473290175199509,Quincy Promes,h,2815,OpenPlay,2014,Head,6308,Spartak Moscow,FC Krasnodar,1,3,2015-03-08 10:30:00,,Aerial
+12532,86,Goal,0.9830000305175781,0.44099998474121094,0.6775190234184265,Quincy Promes,h,2815,OpenPlay,2014,RightFoot,6308,Spartak Moscow,FC Krasnodar,1,3,2015-03-08 10:30:00,Denis Davydov,Pass
+13510,81,MissedShots,0.7830000305175782,0.39299999237060546,0.05607200041413307,Quincy Promes,h,2815,OpenPlay,2014,RightFoot,6318,Spartak Moscow,Dinamo Moscow,1,0,2015-03-15 10:30:00,Patrick Ebert,Pass
+13512,91,SavedShot,0.9230000305175782,0.5979999923706054,0.3930250108242035,Quincy Promes,h,2815,OpenPlay,2014,LeftFoot,6318,Spartak Moscow,Dinamo Moscow,1,0,2015-03-15 10:30:00,Vyacheslav Krotov,TakeOn
+13858,20,Goal,0.8980000305175782,0.39299999237060546,0.08092480152845383,Quincy Promes,a,2815,OpenPlay,2014,RightFoot,6326,Torpedo Moscow,Spartak Moscow,0,1,2015-03-21 16:00:00,Denis Davydov,Chipped
+13872,67,BlockedShot,0.8019999694824219,0.36900001525878906,0.045099399983882904,Quincy Promes,a,2815,OpenPlay,2014,RightFoot,6326,Torpedo Moscow,Spartak Moscow,0,1,2015-03-21 16:00:00,,Tackle
+13874,68,BlockedShot,0.865,0.355,0.08565010130405426,Quincy Promes,a,2815,OpenPlay,2014,LeftFoot,6326,Torpedo Moscow,Spartak Moscow,0,1,2015-03-21 16:00:00,Juan Insaurralde,Pass
+11386,10,BlockedShot,0.7659999847412109,0.345,0.013706999830901623,Quincy Promes,h,2815,FromCorner,2014,RightFoot,6268,Spartak Moscow,Kuban Krasnodar,1,1,2015-04-04 17:00:00,,Aerial
+11395,53,SavedShot,0.8819999694824219,0.45,0.09734360128641129,Quincy Promes,h,2815,OpenPlay,2014,RightFoot,6268,Spartak Moscow,Kuban Krasnodar,1,1,2015-04-04 17:00:00,Evgeni Makeev,Cross
+11771,39,MissedShots,0.8540000152587891,0.534000015258789,0.1328659951686859,Quincy Promes,a,2815,OpenPlay,2014,RightFoot,6279,Arsenal Tula,Spartak Moscow,1,0,2015-04-09 15:45:00,Denis Davydov,Pass
+11787,87,MissedShots,0.730999984741211,0.6359999847412109,0.01889820024371147,Quincy Promes,a,2815,OpenPlay,2014,RightFoot,6279,Arsenal Tula,Spartak Moscow,1,0,2015-04-09 15:45:00,Juan Insaurralde,Pass
+10495,10,BlockedShot,0.7580000305175781,0.5070000076293946,0.02342809922993183,Quincy Promes,a,2815,OpenPlay,2014,RightFoot,6288,FC Rostov,Spartak Moscow,2,1,2015-04-13 17:30:00,Dmitri Kombarov,Pass
+10502,36,SavedShot,0.9290000152587891,0.7180000305175781,0.043031901121139526,Quincy Promes,a,2815,FromCorner,2014,RightFoot,6288,FC Rostov,Spartak Moscow,2,1,2015-04-13 17:30:00,Kim Källström,Pass
+13673,14,SavedShot,0.8780000305175781,0.7369999694824219,0.0334957018494606,Quincy Promes,a,2815,OpenPlay,2014,RightFoot,6290,Mordovya,Spartak Moscow,1,3,2015-04-18 14:00:00,Dmitri Kombarov,Pass
+13675,18,MissedShots,0.754000015258789,0.54,0.021459199488162994,Quincy Promes,a,2815,OpenPlay,2014,RightFoot,6290,Mordovya,Spartak Moscow,1,3,2015-04-18 14:00:00,,None
+13680,31,BlockedShot,0.7190000152587891,0.6120000076293945,0.012180100195109844,Quincy Promes,a,2815,OpenPlay,2014,RightFoot,6290,Mordovya,Spartak Moscow,1,3,2015-04-18 14:00:00,,None
+13689,45,Goal,0.92,0.49,0.4809519946575165,Quincy Promes,a,2815,OpenPlay,2014,RightFoot,6290,Mordovya,Spartak Moscow,1,3,2015-04-18 14:00:00,Denis Davydov,Pass
+13700,77,Goal,0.9290000152587891,0.40799999237060547,0.2560940086841583,Quincy Promes,a,2815,FromCorner,2014,RightFoot,6290,Mordovya,Spartak Moscow,1,3,2015-04-18 14:00:00,Patrick Ebert,Cross
+10939,21,BlockedShot,0.874000015258789,0.285,0.031071800738573074,Quincy Promes,h,2815,OpenPlay,2014,RightFoot,6302,Spartak Moscow,Rubin Kazan,1,0,2015-04-26 11:30:00,Vyacheslav Krotov,Pass
+10954,84,BlockedShot,0.8540000152587891,0.405,0.08036740124225616,Quincy Promes,h,2815,OpenPlay,2014,RightFoot,6302,Spartak Moscow,Rubin Kazan,1,0,2015-04-26 11:30:00,Denis Glushakov,Pass
+10955,90,Goal,0.8859999847412109,0.580999984741211,0.2830289900302887,Quincy Promes,h,2815,OpenPlay,2014,RightFoot,6302,Spartak Moscow,Rubin Kazan,1,0,2015-04-26 11:30:00,Yura Movsisyan,TakeOn
+459269,4,MissedShots,0.720999984741211,0.52,0.016097500920295715,Quincy Promes,h,2815,OpenPlay,2014,RightFoot,6225,Spartak Moscow,Zenit St. Petersburg,1,1,2015-05-02 11:30:00,Denis Glushakov,Pass
+459275,36,MissedShots,0.8630000305175781,0.72,0.035013001412153244,Quincy Promes,h,2815,OpenPlay,2014,LeftFoot,6225,Spartak Moscow,Zenit St. Petersburg,1,1,2015-05-02 11:30:00,Kim Källström,Pass
+459279,51,BlockedShot,0.865999984741211,0.25799999237060545,0.03892029821872711,Quincy Promes,h,2815,OpenPlay,2014,RightFoot,6225,Spartak Moscow,Zenit St. Petersburg,1,1,2015-05-02 11:30:00,Dmitri Kombarov,Chipped
+459281,58,MissedShots,0.5579999923706055,0.051999998092651364,0.00678597018122673,Quincy Promes,h,2815,OpenPlay,2014,RightFoot,6225,Spartak Moscow,Zenit St. Petersburg,1,1,2015-05-02 11:30:00,,None
+12693,74,Goal,0.95,0.47400001525878904,0.4587779939174652,Quincy Promes,a,2815,OpenPlay,2014,Head,6238,FK Akhmat,Spartak Moscow,4,2,2015-05-11 11:30:00,Dmitri Kombarov,Cross
+12697,85,MissedShots,0.935,0.4879999923706055,0.13246700167655945,Quincy Promes,a,2815,OpenPlay,2014,RightFoot,6238,FK Akhmat,Spartak Moscow,4,2,2015-05-11 11:30:00,Dmitri Kombarov,Cross
+14042,6,MissedShots,0.9,0.6990000152587891,0.04602479934692383,Quincy Promes,h,2815,OpenPlay,2014,LeftFoot,6251,Spartak Moscow,FC Ufa,1,2,2015-05-23 16:00:00,Rómulo,Chipped
+14045,9,BlockedShot,0.78,0.5879999923706055,0.019780699163675308,Quincy Promes,h,2815,FromCorner,2014,RightFoot,6251,Spartak Moscow,FC Ufa,1,2,2015-05-23 16:00:00,,None
+14053,29,MissedShots,0.8330000305175781,0.3659999847412109,0.047681499272584915,Quincy Promes,h,2815,OpenPlay,2014,RightFoot,6251,Spartak Moscow,FC Ufa,1,2,2015-05-23 16:00:00,Denis Glushakov,Chipped
+14061,62,BlockedShot,0.9159999847412109,0.3340000152587891,0.07311960309743881,Quincy Promes,h,2815,OpenPlay,2014,RightFoot,6251,Spartak Moscow,FC Ufa,1,2,2015-05-23 16:00:00,Denis Davydov,Pass
+14227,13,MissedShots,0.6919999694824219,0.435,0.014183400198817253,Quincy Promes,h,2815,OpenPlay,2014,RightFoot,6260,Spartak Moscow,Amkar,3,3,2015-05-30 11:30:00,Juan Insaurralde,Pass
+14244,59,SavedShot,0.7330000305175781,0.529000015258789,0.04985009878873825,Quincy Promes,h,2815,DirectFreekick,2014,RightFoot,6260,Spartak Moscow,Amkar,3,3,2015-05-30 11:30:00,,Standard
+14245,63,Goal,0.735999984741211,0.47200000762939454,0.01961209997534752,Quincy Promes,h,2815,OpenPlay,2014,RightFoot,6260,Spartak Moscow,Amkar,3,3,2015-05-30 11:30:00,Kim Källström,Pass
+14247,68,MissedShots,0.755,0.5770000076293945,0.02189899981021881,Quincy Promes,h,2815,OpenPlay,2014,RightFoot,6260,Spartak Moscow,Amkar,3,3,2015-05-30 11:30:00,Vyacheslav Krotov,Pass
+14254,89,SavedShot,0.75,0.55,0.022345799952745438,Quincy Promes,h,2815,OpenPlay,2014,RightFoot,6260,Spartak Moscow,Amkar,3,3,2015-05-30 11:30:00,João Carlos,Pass
+14255,90,Goal,0.9590000152587891,0.5120000076293946,0.5357940196990967,Quincy Promes,h,2815,SetPiece,2014,Head,6260,Spartak Moscow,Amkar,3,3,2015-05-30 11:30:00,Juan Insaurralde,HeadPass
+70256,6,SavedShot,0.93,0.3940000152587891,0.3744780123233795,Quincy Promes,h,2815,OpenPlay,2015,RightFoot,2349,Spartak Moscow,FC Ufa,2,2,2015-07-17 20:00:00,,None
+70260,13,BlockedShot,0.754000015258789,0.45799999237060546,0.023121099919080734,Quincy Promes,h,2815,OpenPlay,2015,RightFoot,2349,Spartak Moscow,FC Ufa,2,2,2015-07-17 20:00:00,Ivelin Popov,Pass
+70281,60,SavedShot,0.8209999847412109,0.52,0.1290149986743927,Quincy Promes,h,2815,OpenPlay,2015,RightFoot,2349,Spartak Moscow,FC Ufa,2,2,2015-07-17 20:00:00,Denis Glushakov,TakeOn
+70522,2,SavedShot,0.855,0.5109999847412109,0.33815300464630127,Quincy Promes,a,2815,OpenPlay,2015,RightFoot,2363,FC Krasnodar,Spartak Moscow,0,1,2015-07-26 21:00:00,Ivelin Popov,Throughball
+70525,8,MissedShots,0.735,0.47200000762939454,0.014901800081133842,Quincy Promes,a,2815,FromCorner,2015,RightFoot,2363,FC Krasnodar,Spartak Moscow,0,1,2015-07-26 21:00:00,,None
+70528,19,MissedShots,0.855,0.6309999847412109,0.06431850045919418,Quincy Promes,a,2815,OpenPlay,2015,RightFoot,2363,FC Krasnodar,Spartak Moscow,0,1,2015-07-26 21:00:00,Dmitri Kombarov,Pass
+70542,67,BlockedShot,0.9030000305175782,0.56,0.08247700333595276,Quincy Promes,a,2815,OpenPlay,2015,Head,2363,FC Krasnodar,Spartak Moscow,0,1,2015-07-26 21:00:00,Ivelin Popov,Cross
+70549,85,MissedShots,0.7190000152587891,0.37200000762939456,0.0169645007699728,Quincy Promes,a,2815,OpenPlay,2015,RightFoot,2363,FC Krasnodar,Spartak Moscow,0,1,2015-07-26 21:00:00,Denis Davydov,Pass
+70655,4,BlockedShot,0.855,0.25299999237060544,0.026471899822354317,Quincy Promes,h,2815,OpenPlay,2015,RightFoot,2372,Spartak Moscow,Rubin Kazan,1,0,2015-08-03 20:00:00,Jano Ananidze,Pass
+70658,7,MissedShots,0.94,0.5420000076293945,0.6374890208244324,Quincy Promes,h,2815,OpenPlay,2015,LeftFoot,2372,Spartak Moscow,Rubin Kazan,1,0,2015-08-03 20:00:00,,None
+70680,62,SavedShot,0.8830000305175781,0.47200000762939454,0.3510049879550934,Quincy Promes,h,2815,OpenPlay,2015,RightFoot,2372,Spartak Moscow,Rubin Kazan,1,0,2015-08-03 20:00:00,Denis Glushakov,TakeOn
+70819,4,Goal,0.7190000152587891,0.580999984741211,0.040901001542806625,Quincy Promes,a,2815,DirectFreekick,2015,RightFoot,2378,Krylya Sovetov Samara,Spartak Moscow,0,2,2015-08-09 20:00:00,,Standard
+70827,31,MissedShots,0.7819999694824219,0.5929999923706055,0.041474100202322006,Quincy Promes,a,2815,OpenPlay,2015,LeftFoot,2378,Krylya Sovetov Samara,Spartak Moscow,0,2,2015-08-09 20:00:00,,None
+70828,46,ShotOnPost,0.905,0.2989999961853027,0.06841839849948883,Quincy Promes,a,2815,OpenPlay,2015,RightFoot,2378,Krylya Sovetov Samara,Spartak Moscow,0,2,2015-08-09 20:00:00,Ivelin Popov,Pass
+70829,51,Goal,0.865999984741211,0.524000015258789,0.3558120131492615,Quincy Promes,a,2815,OpenPlay,2015,RightFoot,2378,Krylya Sovetov Samara,Spartak Moscow,0,2,2015-08-09 20:00:00,Yura Movsisyan,Pass
+70832,60,SavedShot,0.745,0.24200000762939453,0.01975720003247261,Quincy Promes,a,2815,OpenPlay,2015,RightFoot,2378,Krylya Sovetov Samara,Spartak Moscow,0,2,2015-08-09 20:00:00,Ivelin Popov,Pass
+71074,23,BlockedShot,0.904000015258789,0.34,0.07509540021419525,Quincy Promes,h,2815,OpenPlay,2015,RightFoot,2382,Spartak Moscow,CSKA Moscow,1,2,2015-08-14 22:30:00,Kirill Kombarov,TakeOn
+71082,43,MissedShots,0.745,0.5109999847412109,0.022682199254631996,Quincy Promes,h,2815,OpenPlay,2015,RightFoot,2382,Spartak Moscow,CSKA Moscow,1,2,2015-08-14 22:30:00,Ivelin Popov,Pass
+71083,48,BlockedShot,0.8130000305175781,0.6229999923706054,0.10728900134563446,Quincy Promes,h,2815,DirectFreekick,2015,RightFoot,2382,Spartak Moscow,CSKA Moscow,1,2,2015-08-14 22:30:00,,Standard
+71088,57,SavedShot,0.885,0.48,0.10277599841356277,Quincy Promes,h,2815,OpenPlay,2015,RightFoot,2382,Spartak Moscow,CSKA Moscow,1,2,2015-08-14 22:30:00,Yura Movsisyan,Pass
+71436,5,MissedShots,0.7719999694824219,0.555,0.02854589931666851,Quincy Promes,a,2815,OpenPlay,2015,RightFoot,2390,Amkar,Spartak Moscow,1,3,2015-08-22 16:00:00,Denis Glushakov,Pass
+71447,65,Goal,0.7609999847412109,0.7169999694824218,0.015157099813222885,Quincy Promes,a,2815,OpenPlay,2015,RightFoot,2390,Amkar,Spartak Moscow,1,3,2015-08-22 16:00:00,,TakeOn
+71448,70,Goal,0.7269999694824218,0.674000015258789,0.022732200101017952,Quincy Promes,a,2815,OpenPlay,2015,RightFoot,2390,Amkar,Spartak Moscow,1,3,2015-08-22 16:00:00,Roman Shirokov,Pass
+71457,12,ShotOnPost,0.7630000305175781,0.740999984741211,0.039138201624155045,Quincy Promes,h,2815,DirectFreekick,2015,RightFoot,2401,Spartak Moscow,Anzhi Makhachkala,1,2,2015-08-29 20:30:00,,Standard
+71743,26,Goal,0.8040000152587891,0.6309999847412109,0.06388960033655167,Quincy Promes,h,2815,OpenPlay,2015,RightFoot,2408,Spartak Moscow,FC Rostov,1,0,2015-09-13 14:30:00,Roman Shirokov,Pass
+71874,14,BlockedShot,0.7780000305175782,0.34299999237060547,0.01909090019762516,Quincy Promes,a,2815,OpenPlay,2015,RightFoot,2415,Kuban Krasnodar,Spartak Moscow,3,0,2015-09-19 20:00:00,Roman Shirokov,BallRecovery
+71886,45,SavedShot,0.870999984741211,0.6790000152587891,0.05906910076737404,Quincy Promes,a,2815,OpenPlay,2015,LeftFoot,2415,Kuban Krasnodar,Spartak Moscow,3,0,2015-09-19 20:00:00,Zé Luís,Pass
+71895,63,SavedShot,0.7330000305175781,0.5990000152587891,0.04564239829778671,Quincy Promes,a,2815,DirectFreekick,2015,RightFoot,2415,Kuban Krasnodar,Spartak Moscow,3,0,2015-09-19 20:00:00,,Standard
+71897,69,SavedShot,0.9319999694824219,0.3029999923706055,0.046246301382780075,Quincy Promes,a,2815,SetPiece,2015,RightFoot,2415,Kuban Krasnodar,Spartak Moscow,3,0,2015-09-19 20:00:00,,None
+73143,8,BlockedShot,0.8719999694824219,0.635,0.06946049630641937,Quincy Promes,h,2815,OpenPlay,2015,RightFoot,2423,Spartak Moscow,Zenit St. Petersburg,2,2,2015-09-26 20:00:00,Ivelin Popov,Chipped
+73147,17,BlockedShot,0.9419999694824219,0.3340000152587891,0.07675310224294662,Quincy Promes,h,2815,OpenPlay,2015,RightFoot,2423,Spartak Moscow,Zenit St. Petersburg,2,2,2015-09-26 20:00:00,,None
+73150,24,SavedShot,0.765,0.6229999923706054,0.039955198764801025,Quincy Promes,h,2815,OpenPlay,2015,RightFoot,2423,Spartak Moscow,Zenit St. Petersburg,2,2,2015-09-26 20:00:00,Zé Luís,TakeOn
+73159,53,BlockedShot,0.9530000305175781,0.6840000152587891,0.03502710163593292,Quincy Promes,h,2815,OpenPlay,2015,RightFoot,2423,Spartak Moscow,Zenit St. Petersburg,2,2,2015-09-26 20:00:00,Ivelin Popov,Cross
+73162,61,BlockedShot,0.765,0.29200000762939454,0.014809800311923027,Quincy Promes,h,2815,OpenPlay,2015,RightFoot,2423,Spartak Moscow,Zenit St. Petersburg,2,2,2015-09-26 20:00:00,Ivelin Popov,Pass
+73165,78,MissedShots,0.779000015258789,0.7390000152587891,0.044468700885772705,Quincy Promes,h,2815,DirectFreekick,2015,RightFoot,2423,Spartak Moscow,Zenit St. Petersburg,2,2,2015-09-26 20:00:00,,Standard
+71774,71,SavedShot,0.909000015258789,0.415,0.3786129951477051,Quincy Promes,a,2815,OpenPlay,2015,RightFoot,2430,Mordovya,Spartak Moscow,0,1,2015-10-03 15:30:00,Aras Özbiliz,Throughball
+72806,46,SavedShot,0.88,0.44599998474121094,0.08371909707784653,Quincy Promes,h,2815,OpenPlay,2015,RightFoot,2441,Spartak Moscow,Lokomotiv Moscow,1,2,2015-10-18 14:30:00,Roman Shirokov,Chipped
+72808,50,SavedShot,0.8769999694824219,0.36,0.02647539973258972,Quincy Promes,h,2815,OpenPlay,2015,RightFoot,2441,Spartak Moscow,Lokomotiv Moscow,1,2,2015-10-18 14:30:00,Ivelin Popov,HeadPass
+71853,21,Goal,0.905,0.575999984741211,0.3800640106201172,Quincy Promes,a,2815,OpenPlay,2015,RightFoot,2449,Dinamo Moscow,Spartak Moscow,2,3,2015-10-25 14:30:00,Dmitri Kombarov,Throughball
+71856,46,BlockedShot,0.764000015258789,0.649000015258789,0.022411899641156197,Quincy Promes,a,2815,OpenPlay,2015,RightFoot,2449,Dinamo Moscow,Spartak Moscow,2,3,2015-10-25 14:30:00,Dmitri Kombarov,Pass
+71868,90,Goal,0.919000015258789,0.5220000076293946,0.362527996301651,Quincy Promes,a,2815,OpenPlay,2015,RightFoot,2449,Dinamo Moscow,Spartak Moscow,2,3,2015-10-25 14:30:00,Denis Davydov,Chipped
+74547,15,BlockedShot,0.8969999694824219,0.28299999237060547,0.03996409848332405,Quincy Promes,h,2815,OpenPlay,2015,RightFoot,2458,Spartak Moscow,Ural,0,1,2015-11-01 20:30:00,Ivelin Popov,Chipped
+74552,35,MissedShots,0.634000015258789,0.3,0.022306500002741814,Quincy Promes,h,2815,DirectFreekick,2015,RightFoot,2458,Spartak Moscow,Ural,0,1,2015-11-01 20:30:00,,Standard
+74562,66,MissedShots,0.6780000305175782,0.485,0.030325500294566154,Quincy Promes,h,2815,DirectFreekick,2015,RightFoot,2458,Spartak Moscow,Ural,0,1,2015-11-01 20:30:00,,Standard
+74567,77,MissedShots,0.9740000152587891,0.59,0.05894070118665695,Quincy Promes,h,2815,FromCorner,2015,Head,2458,Spartak Moscow,Ural,0,1,2015-11-01 20:30:00,Aras Özbiliz,Cross
+73689,5,BlockedShot,0.8530000305175781,0.805,0.05094410106539726,Quincy Promes,a,2815,DirectFreekick,2015,RightFoot,2465,FK Akhmat,Spartak Moscow,2,1,2015-11-07 20:30:00,,Standard
+73700,49,SavedShot,0.9590000152587891,0.5429999923706055,0.6389560103416443,Quincy Promes,a,2815,OpenPlay,2015,RightFoot,2465,FK Akhmat,Spartak Moscow,2,1,2015-11-07 20:30:00,Ivelin Popov,Pass
+74227,28,Goal,0.9280000305175782,0.47,0.6671860218048096,Quincy Promes,h,2815,OpenPlay,2015,RightFoot,2475,Spartak Moscow,FC Krasnodar,3,2,2015-11-22 20:30:00,Ivelin Popov,Pass
+74493,73,Goal,0.885,0.5,0.7542750239372253,Quincy Promes,a,2815,Penalty,2015,RightFoot,2484,Rubin Kazan,Spartak Moscow,2,2,2015-11-30 20:15:00,,Standard
+74661,0,Goal,0.924000015258789,0.5029999923706054,0.41533100605010986,Quincy Promes,h,2815,OpenPlay,2015,LeftFoot,2490,Spartak Moscow,Krylya Sovetov Samara,1,0,2015-12-04 20:00:00,Dmitri Kombarov,Cross
+74668,25,BlockedShot,0.8680000305175781,0.6459999847412109,0.10081999748945236,Quincy Promes,h,2815,OpenPlay,2015,LeftFoot,2490,Spartak Moscow,Krylya Sovetov Samara,1,0,2015-12-04 20:00:00,Ivelin Popov,LayOff
+74674,51,SavedShot,0.8880000305175781,0.49400001525878906,0.3739050030708313,Quincy Promes,h,2815,OpenPlay,2015,RightFoot,2490,Spartak Moscow,Krylya Sovetov Samara,1,0,2015-12-04 20:00:00,Ivelin Popov,Throughball
+74677,56,BlockedShot,0.750999984741211,0.49900001525878906,0.025171399116516113,Quincy Promes,h,2815,OpenPlay,2015,RightFoot,2490,Spartak Moscow,Krylya Sovetov Samara,1,0,2015-12-04 20:00:00,Alexandr Zotov,Pass
+74685,75,SavedShot,0.8880000305175781,0.6580000305175782,0.08808589726686478,Quincy Promes,h,2815,OpenPlay,2015,LeftFoot,2490,Spartak Moscow,Krylya Sovetov Samara,1,0,2015-12-04 20:00:00,Ivelin Popov,Pass
+74689,82,MissedShots,0.6919999694824219,0.53,0.014631399884819984,Quincy Promes,h,2815,OpenPlay,2015,RightFoot,2490,Spartak Moscow,Krylya Sovetov Samara,1,0,2015-12-04 20:00:00,Dmitri Kombarov,BallRecovery
+73535,82,SavedShot,0.769000015258789,0.7709999847412109,0.03645399957895279,Quincy Promes,a,2815,DirectFreekick,2015,RightFoot,2498,CSKA Moscow,Spartak Moscow,1,0,2016-03-06 20:30:00,,Standard
+73537,89,BlockedShot,0.7440000152587891,0.48200000762939454,0.056724999099969864,Quincy Promes,a,2815,DirectFreekick,2015,RightFoot,2498,CSKA Moscow,Spartak Moscow,1,0,2016-03-06 20:30:00,,Standard
+74137,4,MissedShots,0.889000015258789,0.355,0.09414439648389816,Quincy Promes,h,2815,OpenPlay,2015,LeftFoot,2503,Spartak Moscow,Amkar,2,1,2016-03-12 18:00:00,Lorenzo Melgarejo,TakeOn
+74145,28,BlockedShot,0.7730000305175782,0.6430000305175781,0.0233123991638422,Quincy Promes,h,2815,OpenPlay,2015,RightFoot,2503,Spartak Moscow,Amkar,2,1,2016-03-12 18:00:00,Ivelin Popov,Pass
+74154,59,BlockedShot,0.8830000305175781,0.63,0.07295049726963043,Quincy Promes,h,2815,OpenPlay,2015,LeftFoot,2503,Spartak Moscow,Amkar,2,1,2016-03-12 18:00:00,Dmitri Kombarov,Pass
+74161,86,Goal,0.885,0.5,0.7542750239372253,Quincy Promes,h,2815,Penalty,2015,RightFoot,2503,Spartak Moscow,Amkar,2,1,2016-03-12 18:00:00,,Standard
+74192,28,SavedShot,0.695,0.7419999694824219,0.012402099557220936,Quincy Promes,a,2815,OpenPlay,2015,RightFoot,2510,Anzhi Makhachkala,Spartak Moscow,0,4,2016-03-18 20:30:00,Zé Luís,Pass
+74198,40,BlockedShot,0.855999984741211,0.485,0.12360499799251556,Quincy Promes,a,2815,OpenPlay,2015,RightFoot,2510,Anzhi Makhachkala,Spartak Moscow,0,4,2016-03-18 20:30:00,Ivelin Popov,Pass
+74202,56,SavedShot,0.7040000152587891,0.515,0.03734850138425827,Quincy Promes,a,2815,DirectFreekick,2015,RightFoot,2510,Anzhi Makhachkala,Spartak Moscow,0,4,2016-03-18 20:30:00,,Standard
+74204,64,MissedShots,0.769000015258789,0.740999984741211,0.017176799476146698,Quincy Promes,a,2815,OpenPlay,2015,RightFoot,2510,Anzhi Makhachkala,Spartak Moscow,0,4,2016-03-18 20:30:00,Jano Ananidze,Pass
+74207,66,Goal,0.9359999847412109,0.5829999923706055,0.39827001094818115,Quincy Promes,a,2815,OpenPlay,2015,LeftFoot,2510,Anzhi Makhachkala,Spartak Moscow,0,4,2016-03-18 20:30:00,Jano Ananidze,Chipped
+74210,81,BlockedShot,0.725,0.5529999923706055,0.024205399677157402,Quincy Promes,a,2815,OpenPlay,2015,RightFoot,2510,Anzhi Makhachkala,Spartak Moscow,0,4,2016-03-18 20:30:00,Dmitri Kombarov,Pass
+73342,18,MissedShots,0.9690000152587891,0.46599998474121096,0.5978379845619202,Quincy Promes,a,2815,OpenPlay,2015,RightFoot,2520,FC Rostov,Spartak Moscow,2,0,2016-04-02 20:30:00,Dmitri Kombarov,Cross
+73344,31,MissedShots,0.8530000305175781,0.504000015258789,0.01512909960001707,Quincy Promes,a,2815,OpenPlay,2015,Head,2520,FC Rostov,Spartak Moscow,2,0,2016-04-02 20:30:00,Dmitri Kombarov,Cross
+73345,37,BlockedShot,0.8440000152587891,0.6309999847412109,0.0451853983104229,Quincy Promes,a,2815,SetPiece,2015,RightFoot,2520,FC Rostov,Spartak Moscow,2,0,2016-04-02 20:30:00,,None
+73352,65,BlockedShot,0.8090000152587891,0.33,0.030006099492311478,Quincy Promes,a,2815,OpenPlay,2015,RightFoot,2520,FC Rostov,Spartak Moscow,2,0,2016-04-02 20:30:00,Dmitri Kombarov,Pass
+73459,18,BlockedShot,0.9,0.6020000076293945,0.09767050296068192,Quincy Promes,h,2815,OpenPlay,2015,RightFoot,2531,Spartak Moscow,Kuban Krasnodar,2,2,2016-04-10 20:30:00,,Rebound
+73462,23,MissedShots,0.7519999694824219,0.835,0.01519280020147562,Quincy Promes,h,2815,OpenPlay,2015,RightFoot,2531,Spartak Moscow,Kuban Krasnodar,2,2,2016-04-10 20:30:00,Denis Glushakov,Pass
+73464,32,SavedShot,0.845,0.585,0.07412929832935333,Quincy Promes,h,2815,OpenPlay,2015,RightFoot,2531,Spartak Moscow,Kuban Krasnodar,2,2,2016-04-10 20:30:00,,None
+73473,50,Goal,0.8209999847412109,0.7980000305175782,0.04464609920978546,Quincy Promes,h,2815,DirectFreekick,2015,RightFoot,2531,Spartak Moscow,Kuban Krasnodar,2,2,2016-04-10 20:30:00,,Standard
+73475,54,ShotOnPost,0.7680000305175781,0.29700000762939455,0.047064200043678284,Quincy Promes,h,2815,DirectFreekick,2015,RightFoot,2531,Spartak Moscow,Kuban Krasnodar,2,2,2016-04-10 20:30:00,,Standard
+73478,70,BlockedShot,0.8519999694824218,0.3240000152587891,0.0457955002784729,Quincy Promes,h,2815,OpenPlay,2015,LeftFoot,2531,Spartak Moscow,Kuban Krasnodar,2,2,2016-04-10 20:30:00,,BallRecovery
+75281,46,MissedShots,0.6309999847412109,0.3579999923706055,0.022899899631738663,Quincy Promes,a,2815,DirectFreekick,2015,RightFoot,2536,Zenit St. Petersburg,Spartak Moscow,5,2,2016-04-16 20:30:00,,Standard
+75292,92,SavedShot,0.7340000152587891,0.2610000038146973,0.03233399987220764,Quincy Promes,a,2815,DirectFreekick,2015,RightFoot,2536,Zenit St. Petersburg,Spartak Moscow,5,2,2016-04-16 20:30:00,,Standard
+75451,5,SavedShot,0.9459999847412109,0.3840000152587891,0.3009890019893646,Quincy Promes,h,2815,OpenPlay,2015,RightFoot,2542,Spartak Moscow,Mordovya,2,2,2016-04-23 18:00:00,Ivelin Popov,Chipped
+75454,14,MissedShots,0.7559999847412109,0.48200000762939454,0.022575300186872482,Quincy Promes,h,2815,OpenPlay,2015,RightFoot,2542,Spartak Moscow,Mordovya,2,2,2016-04-23 18:00:00,Zé Luís,LayOff
+75456,26,MissedShots,0.8,0.30700000762939456,0.06523170322179794,Quincy Promes,h,2815,DirectFreekick,2015,RightFoot,2542,Spartak Moscow,Mordovya,2,2,2016-04-23 18:00:00,,Standard
+75467,57,Goal,0.875,0.46799999237060547,0.3632679879665375,Quincy Promes,h,2815,OpenPlay,2015,RightFoot,2542,Spartak Moscow,Mordovya,2,2,2016-04-23 18:00:00,Zé Luís,BallTouch
+75475,90,BlockedShot,0.6980000305175781,0.5029999923706054,0.035460200160741806,Quincy Promes,h,2815,DirectFreekick,2015,RightFoot,2542,Spartak Moscow,Mordovya,2,2,2016-04-23 18:00:00,,Standard
+75248,25,SavedShot,0.879000015258789,0.59,0.33126500248908997,Quincy Promes,a,2815,OpenPlay,2015,RightFoot,2552,Lokomotiv Moscow,Spartak Moscow,0,2,2016-04-30 20:30:00,Jano Ananidze,Throughball
+75249,30,SavedShot,0.8969999694824219,0.38799999237060545,0.022767499089241028,Quincy Promes,a,2815,OpenPlay,2015,Head,2552,Lokomotiv Moscow,Spartak Moscow,0,2,2016-04-30 20:30:00,Ivelin Popov,Cross
+75250,32,MissedShots,0.735,0.6530000305175782,0.04121239855885506,Quincy Promes,a,2815,DirectFreekick,2015,RightFoot,2552,Lokomotiv Moscow,Spartak Moscow,0,2,2016-04-30 20:30:00,,Standard
+75251,36,MissedShots,0.795,0.37099998474121093,0.029214100912213326,Quincy Promes,a,2815,OpenPlay,2015,RightFoot,2552,Lokomotiv Moscow,Spartak Moscow,0,2,2016-04-30 20:30:00,,None
+75508,4,BlockedShot,0.855,0.38299999237060545,0.056694500148296356,Quincy Promes,h,2815,OpenPlay,2015,RightFoot,2564,Spartak Moscow,Dinamo Moscow,3,0,2016-05-08 20:30:00,,None
+75515,25,SavedShot,0.7630000305175781,0.59,0.06429640203714371,Quincy Promes,h,2815,DirectFreekick,2015,RightFoot,2564,Spartak Moscow,Dinamo Moscow,3,0,2016-05-08 20:30:00,,Standard
+75519,43,Goal,0.8419999694824218,0.3320000076293945,0.040782298892736435,Quincy Promes,h,2815,OpenPlay,2015,RightFoot,2564,Spartak Moscow,Dinamo Moscow,3,0,2016-05-08 20:30:00,Rómulo,Pass
+75526,64,SavedShot,0.8730000305175781,0.5690000152587891,0.4822799861431122,Quincy Promes,h,2815,OpenPlay,2015,RightFoot,2564,Spartak Moscow,Dinamo Moscow,3,0,2016-05-08 20:30:00,Jano Ananidze,Pass
+75534,85,Goal,0.8959999847412109,0.6029999923706054,0.1285029947757721,Quincy Promes,h,2815,OpenPlay,2015,RightFoot,2564,Spartak Moscow,Dinamo Moscow,3,0,2016-05-08 20:30:00,Zé Luís,Pass
+75982,39,Goal,0.905,0.435,0.3604559898376465,Quincy Promes,a,2815,OpenPlay,2015,RightFoot,2570,Ural,Spartak Moscow,0,1,2016-05-12 18:00:00,,Rebound
+75990,70,MissedShots,0.879000015258789,0.4370000076293945,0.3611629903316498,Quincy Promes,a,2815,OpenPlay,2015,RightFoot,2570,Ural,Spartak Moscow,0,1,2016-05-12 18:00:00,,TakeOn
+74931,36,BlockedShot,0.6990000152587891,0.4879999923706055,0.03573640063405037,Quincy Promes,h,2815,DirectFreekick,2015,RightFoot,2580,Spartak Moscow,FK Akhmat,3,0,2016-05-16 20:30:00,,Standard
+74939,61,BlockedShot,0.8430000305175781,0.445,0.3885740041732788,Quincy Promes,h,2815,OpenPlay,2015,RightFoot,2580,Spartak Moscow,FK Akhmat,3,0,2016-05-16 20:30:00,Jano Ananidze,Throughball
+74940,62,Goal,0.9290000152587891,0.3820000076293945,0.5010889768600464,Quincy Promes,h,2815,OpenPlay,2015,RightFoot,2580,Spartak Moscow,FK Akhmat,3,0,2016-05-16 20:30:00,Rómulo,TakeOn
+74941,66,BlockedShot,0.7859999847412109,0.7269999694824218,0.03056650049984455,Quincy Promes,h,2815,OpenPlay,2015,RightFoot,2580,Spartak Moscow,FK Akhmat,3,0,2016-05-16 20:30:00,Jano Ananidze,Pass
+74942,73,MissedShots,0.720999984741211,0.3509999847412109,0.0368489995598793,Quincy Promes,h,2815,DirectFreekick,2015,RightFoot,2580,Spartak Moscow,FK Akhmat,3,0,2016-05-16 20:30:00,,Standard
+74945,82,BlockedShot,0.874000015258789,0.40900001525878904,0.09683260321617126,Quincy Promes,h,2815,OpenPlay,2015,RightFoot,2580,Spartak Moscow,FK Akhmat,3,0,2016-05-16 20:30:00,Denis Glushakov,BallTouch
+75078,10,MissedShots,0.8330000305175781,0.32,0.04091089963912964,Quincy Promes,a,2815,OpenPlay,2015,RightFoot,2584,FC Ufa,Spartak Moscow,3,1,2016-05-21 14:30:00,Zé Luís,TakeOn
+75092,44,MissedShots,0.8880000305175781,0.69,0.03577379882335663,Quincy Promes,a,2815,OpenPlay,2015,RightFoot,2584,FC Ufa,Spartak Moscow,3,1,2016-05-21 14:30:00,Zé Luís,Pass
+75098,74,MissedShots,0.7019999694824218,0.785,0.025169100612401962,Quincy Promes,a,2815,DirectFreekick,2015,RightFoot,2584,FC Ufa,Spartak Moscow,3,1,2016-05-21 14:30:00,,Standard
+121848,0,MissedShots,0.764000015258789,0.2610000038146973,0.016680199652910233,Quincy Promes,h,2815,OpenPlay,2016,RightFoot,2593,Spartak Moscow,Arsenal Tula,4,0,2016-07-31 19:00:00,Jano Ananidze,Pass
+121856,22,MissedShots,0.775,0.51,0.04445980116724968,Quincy Promes,h,2815,OpenPlay,2016,RightFoot,2593,Spartak Moscow,Arsenal Tula,4,0,2016-07-31 19:00:00,Dmitri Kombarov,Pass
+121858,26,SavedShot,0.81,0.45099998474121095,0.070421002805233,Quincy Promes,h,2815,OpenPlay,2016,RightFoot,2593,Spartak Moscow,Arsenal Tula,4,0,2016-07-31 19:00:00,Zé Luís,Pass
+121867,46,Goal,0.9590000152587891,0.5359999847412109,0.6981840133666992,Quincy Promes,h,2815,OpenPlay,2016,LeftFoot,2593,Spartak Moscow,Arsenal Tula,4,0,2016-07-31 19:00:00,Dmitri Kombarov,Pass
+121869,58,MissedShots,0.8219999694824218,0.5570000076293945,0.07576709985733032,Quincy Promes,h,2815,OpenPlay,2016,RightFoot,2593,Spartak Moscow,Arsenal Tula,4,0,2016-07-31 19:00:00,Jano Ananidze,TakeOn
+121870,61,BlockedShot,0.85,0.40400001525878904,0.0967131033539772,Quincy Promes,h,2815,OpenPlay,2016,RightFoot,2593,Spartak Moscow,Arsenal Tula,4,0,2016-07-31 19:00:00,Zé Luís,Pass
+121878,81,SavedShot,0.9630000305175781,0.649000015258789,0.10059499740600586,Quincy Promes,h,2815,OpenPlay,2016,LeftFoot,2593,Spartak Moscow,Arsenal Tula,4,0,2016-07-31 19:00:00,Aleksandr Zuev,Pass
+121879,89,SavedShot,0.735,0.4209999847412109,0.01661680079996586,Quincy Promes,h,2815,OpenPlay,2016,RightFoot,2593,Spartak Moscow,Arsenal Tula,4,0,2016-07-31 19:00:00,Lorenzo Melgarejo,TakeOn
+121881,91,Goal,0.8880000305175781,0.345,0.0996842011809349,Quincy Promes,h,2815,OpenPlay,2016,RightFoot,2593,Spartak Moscow,Arsenal Tula,4,0,2016-07-31 19:00:00,Aleksandr Zuev,Pass
+122055,14,MissedShots,0.754000015258789,0.44,0.02107590064406395,Quincy Promes,h,2815,OpenPlay,2016,RightFoot,2604,Spartak Moscow,Krylya Sovetov Samara,1,0,2016-08-08 20:30:00,Zé Luís,Pass
+122057,22,SavedShot,0.8159999847412109,0.29200000762939454,0.02707269974052906,Quincy Promes,h,2815,OpenPlay,2016,RightFoot,2604,Spartak Moscow,Krylya Sovetov Samara,1,0,2016-08-08 20:30:00,Zé Luís,Pass
+122062,28,MissedShots,0.8419999694824218,0.624000015258789,0.12304800003767014,Quincy Promes,h,2815,OpenPlay,2016,LeftFoot,2604,Spartak Moscow,Krylya Sovetov Samara,1,0,2016-08-08 20:30:00,Denis Glushakov,Throughball
+122072,56,MissedShots,0.9519999694824218,0.524000015258789,0.6316459774971008,Quincy Promes,h,2815,OpenPlay,2016,RightFoot,2604,Spartak Moscow,Krylya Sovetov Samara,1,0,2016-08-08 20:30:00,Dmitri Kombarov,Pass
+122587,24,BlockedShot,0.7959999847412109,0.34599998474121096,0.03542099893093109,Quincy Promes,h,2815,OpenPlay,2016,RightFoot,2618,Spartak Moscow,FC Krasnodar,2,0,2016-08-21 19:00:00,Zé Luís,Pass
+122953,4,MissedShots,0.9459999847412109,0.580999984741211,0.35024499893188477,Quincy Promes,a,2815,OpenPlay,2016,RightFoot,2628,Anzhi Makhachkala,Spartak Moscow,0,2,2016-08-28 22:30:00,Zé Luís,Cross
+122965,42,ShotOnPost,0.875,0.32799999237060545,0.07112660259008408,Quincy Promes,a,2815,OpenPlay,2016,RightFoot,2628,Anzhi Makhachkala,Spartak Moscow,0,2,2016-08-28 22:30:00,Roman Zobnin,TakeOn
+122973,59,SavedShot,0.665,0.8859999847412109,0.00960818026214838,Quincy Promes,a,2815,OpenPlay,2016,RightFoot,2628,Anzhi Makhachkala,Spartak Moscow,0,2,2016-08-28 22:30:00,Dmitri Kombarov,Pass
+122977,76,SavedShot,0.7440000152587891,0.7440000152587891,0.010839300230145454,Quincy Promes,a,2815,OpenPlay,2016,RightFoot,2628,Anzhi Makhachkala,Spartak Moscow,0,2,2016-08-28 22:30:00,Rómulo,Chipped
+122979,80,Goal,0.9640000152587891,0.6140000152587891,0.3563140034675598,Quincy Promes,a,2815,OpenPlay,2016,RightFoot,2628,Anzhi Makhachkala,Spartak Moscow,0,2,2016-08-28 22:30:00,,None
+122884,76,MissedShots,0.6809999847412109,0.6480000305175782,0.028005899861454964,Quincy Promes,h,2815,DirectFreekick,2016,RightFoot,2634,Spartak Moscow,Lokomotiv Moscow,1,0,2016-09-11 17:30:00,,Standard
+122885,76,MissedShots,0.8490000152587891,0.7440000152587891,0.03468399867415428,Quincy Promes,h,2815,OpenPlay,2016,RightFoot,2634,Spartak Moscow,Lokomotiv Moscow,1,0,2016-09-11 17:30:00,Zé Luís,Pass
+122886,77,SavedShot,0.8119999694824219,0.705,0.03212549909949303,Quincy Promes,h,2815,OpenPlay,2016,RightFoot,2634,Spartak Moscow,Lokomotiv Moscow,1,0,2016-09-11 17:30:00,Zé Luís,Pass
+122891,87,SavedShot,0.9159999847412109,0.7230000305175781,0.053449198603630066,Quincy Promes,h,2815,OpenPlay,2016,LeftFoot,2634,Spartak Moscow,Lokomotiv Moscow,1,0,2016-09-11 17:30:00,Lorenzo Melgarejo,TakeOn
+123135,1,Goal,0.749000015258789,0.4540000152587891,0.01692040078341961,Quincy Promes,a,2815,OpenPlay,2016,RightFoot,2637,FC Orenburg,Spartak Moscow,1,3,2016-09-16 18:00:00,Roman Zobnin,Pass
+123140,50,MissedShots,0.7030000305175781,0.615,0.033861901611089706,Quincy Promes,a,2815,DirectFreekick,2016,RightFoot,2637,FC Orenburg,Spartak Moscow,1,3,2016-09-16 18:00:00,,Standard
+123143,65,Goal,0.8969999694824219,0.3629999923706055,0.29807400703430176,Quincy Promes,a,2815,OpenPlay,2016,RightFoot,2637,FC Orenburg,Spartak Moscow,1,3,2016-09-16 18:00:00,,Rebound
+123331,53,BlockedShot,0.894000015258789,0.49,0.11541400104761124,Quincy Promes,h,2815,OpenPlay,2016,RightFoot,2649,Spartak Moscow,FC Ufa,0,1,2016-09-25 18:00:00,Roman Zobnin,Pass
+123336,61,BlockedShot,0.745,0.6120000076293945,0.01864209957420826,Quincy Promes,h,2815,OpenPlay,2016,RightFoot,2649,Spartak Moscow,FC Ufa,0,1,2016-09-25 18:00:00,Roman Zobnin,Pass
+123344,77,MissedShots,0.845999984741211,0.6990000152587891,0.03228839859366417,Quincy Promes,h,2815,FromCorner,2016,RightFoot,2649,Spartak Moscow,FC Ufa,0,1,2016-09-25 18:00:00,,Rebound
+123347,84,SavedShot,0.784000015258789,0.36700000762939455,0.021076099947094917,Quincy Promes,h,2815,OpenPlay,2016,RightFoot,2649,Spartak Moscow,FC Ufa,0,1,2016-09-25 18:00:00,Zé Luís,Pass
+123350,88,BlockedShot,0.885,0.51,0.09999579936265945,Quincy Promes,h,2815,OpenPlay,2016,LeftFoot,2649,Spartak Moscow,FC Ufa,0,1,2016-09-25 18:00:00,Denis Glushakov,Pass
+123515,14,BlockedShot,0.7919999694824219,0.36400001525878906,0.02153019979596138,Quincy Promes,a,2815,OpenPlay,2016,LeftFoot,2658,Zenit St. Petersburg,Spartak Moscow,4,2,2016-10-02 17:30:00,,Rebound
+123522,27,SavedShot,0.7180000305175781,0.6719999694824219,0.03422209993004799,Quincy Promes,a,2815,DirectFreekick,2016,RightFoot,2658,Zenit St. Petersburg,Spartak Moscow,4,2,2016-10-02 17:30:00,,Standard
+123527,41,MissedShots,0.8440000152587891,0.7469999694824219,0.024862099438905716,Quincy Promes,a,2815,OpenPlay,2016,RightFoot,2658,Zenit St. Petersburg,Spartak Moscow,4,2,2016-10-02 17:30:00,Roman Zobnin,Tackle
+123538,92,BlockedShot,0.700999984741211,0.23100000381469726,0.007049160078167915,Quincy Promes,a,2815,OpenPlay,2016,RightFoot,2658,Zenit St. Petersburg,Spartak Moscow,4,2,2016-10-02 17:30:00,,Dispossessed
+123686,11,MissedShots,0.8590000152587891,0.2670000076293945,0.031915098428726196,Quincy Promes,h,2815,OpenPlay,2016,RightFoot,2962,Spartak Moscow,CSKA Moscow,3,1,2016-10-29 19:00:00,Zé Luís,BallTouch
+123687,16,MissedShots,0.68,0.4929999923706055,0.03077789954841137,Quincy Promes,h,2815,DirectFreekick,2016,RightFoot,2962,Spartak Moscow,CSKA Moscow,3,1,2016-10-29 19:00:00,,Standard
+124354,33,SavedShot,0.9059999847412109,0.3770000076293945,0.018482699990272522,Quincy Promes,h,2815,OpenPlay,2016,Head,2730,Spartak Moscow,Amkar,1,0,2016-11-20 18:00:00,Jano Ananidze,Cross
+124359,45,MissedShots,0.7369999694824219,0.7930000305175782,0.013652900233864784,Quincy Promes,h,2815,OpenPlay,2016,RightFoot,2730,Spartak Moscow,Amkar,1,0,2016-11-20 18:00:00,Roman Zobnin,Pass
+124362,67,SavedShot,0.870999984741211,0.534000015258789,0.11484699696302414,Quincy Promes,h,2815,OpenPlay,2016,RightFoot,2730,Spartak Moscow,Amkar,1,0,2016-11-20 18:00:00,Andrey Eshchenko,Pass
+124364,86,BlockedShot,0.76,0.5629999923706055,0.023339800536632538,Quincy Promes,h,2815,OpenPlay,2016,RightFoot,2730,Spartak Moscow,Amkar,1,0,2016-11-20 18:00:00,Denis Davydov,Pass
+124811,36,SavedShot,0.759000015258789,0.24799999237060547,0.016293099150061607,Quincy Promes,a,2815,OpenPlay,2016,RightFoot,2737,FK Akhmat,Spartak Moscow,0,1,2016-11-26 19:00:00,Denis Glushakov,Interception
+124815,55,MissedShots,0.7630000305175781,0.6630000305175782,0.019297700375318527,Quincy Promes,a,2815,OpenPlay,2016,RightFoot,2737,FK Akhmat,Spartak Moscow,0,1,2016-11-26 19:00:00,Fernando,TakeOn
+125207,76,BlockedShot,0.8569999694824219,0.6819999694824219,0.04216869920492172,Quincy Promes,a,2815,OpenPlay,2016,RightFoot,3270,Krylya Sovetov Samara,Spartak Moscow,4,0,2016-12-01 19:00:00,Evgeni Makeev,Pass
+125371,6,BlockedShot,0.7930000305175782,0.34900001525878904,0.07379239797592163,Quincy Promes,h,2815,DirectFreekick,2016,RightFoot,3279,Spartak Moscow,Rubin Kazan,2,1,2016-12-05 20:30:00,,Standard
+125376,38,SavedShot,0.919000015258789,0.500999984741211,0.4545629918575287,Quincy Promes,h,2815,OpenPlay,2016,LeftFoot,3279,Spartak Moscow,Rubin Kazan,2,1,2016-12-05 20:30:00,Ivelin Popov,Pass
+125377,42,Goal,0.865999984741211,0.509000015258789,0.37864500284194946,Quincy Promes,h,2815,OpenPlay,2016,RightFoot,3279,Spartak Moscow,Rubin Kazan,2,1,2016-12-05 20:30:00,,None
+125378,46,MissedShots,0.8880000305175781,0.57,0.03924360126256943,Quincy Promes,h,2815,OpenPlay,2016,Head,3279,Spartak Moscow,Rubin Kazan,2,1,2016-12-05 20:30:00,Andrey Eshchenko,Cross
+124754,68,MissedShots,0.7719999694824219,0.4279999923706055,0.03663240000605583,Quincy Promes,h,2815,OpenPlay,2016,RightFoot,4305,Spartak Moscow,Anzhi Makhachkala,1,0,2017-03-12 13:30:00,Aleksandr Samedov,Pass
+125129,0,SavedShot,0.874000015258789,0.710999984741211,0.03831519931554794,Quincy Promes,a,2815,OpenPlay,2016,LeftFoot,4311,Lokomotiv Moscow,Spartak Moscow,1,1,2017-03-18 13:30:00,Zé Luís,Pass
+125137,51,Goal,0.925,0.5929999923706055,0.3396889865398407,Quincy Promes,a,2815,OpenPlay,2016,RightFoot,4311,Lokomotiv Moscow,Spartak Moscow,1,1,2017-03-18 13:30:00,Zé Luís,HeadPass
+125778,13,BlockedShot,0.889000015258789,0.29700000762939455,0.03938340023159981,Quincy Promes,h,2815,OpenPlay,2016,LeftFoot,4324,Spartak Moscow,FC Orenburg,3,2,2017-04-03 17:30:00,Jano Ananidze,Pass
+125780,17,MissedShots,0.7380000305175781,0.7330000305175781,0.013610100373625755,Quincy Promes,h,2815,OpenPlay,2016,RightFoot,4324,Spartak Moscow,FC Orenburg,3,2,2017-04-03 17:30:00,Dmitri Kombarov,Pass
+125781,18,BlockedShot,0.9019999694824219,0.69,0.06316109746694565,Quincy Promes,h,2815,OpenPlay,2016,LeftFoot,4324,Spartak Moscow,FC Orenburg,3,2,2017-04-03 17:30:00,Roman Zobnin,Pass
+125790,46,SavedShot,0.8830000305175781,0.3940000152587891,0.0931112989783287,Quincy Promes,h,2815,OpenPlay,2016,RightFoot,4324,Spartak Moscow,FC Orenburg,3,2,2017-04-03 17:30:00,,None
+125801,74,SavedShot,0.775,0.7290000152587891,0.01810700073838234,Quincy Promes,h,2815,OpenPlay,2016,RightFoot,4324,Spartak Moscow,FC Orenburg,3,2,2017-04-03 17:30:00,Jano Ananidze,Pass
+125805,94,Goal,0.87,0.4570000076293945,0.10859200358390808,Quincy Promes,h,2815,OpenPlay,2016,RightFoot,4324,Spartak Moscow,FC Orenburg,3,2,2017-04-03 17:30:00,Andrey Eshchenko,Pass
+125861,2,SavedShot,0.86,0.41900001525878905,0.29555100202560425,Quincy Promes,a,2815,OpenPlay,2016,LeftFoot,4329,FC Ufa,Spartak Moscow,1,3,2017-04-09 12:00:00,Zé Luís,Pass
+125870,30,BlockedShot,0.765,0.754000015258789,0.03782439976930618,Quincy Promes,a,2815,DirectFreekick,2016,RightFoot,4329,FC Ufa,Spartak Moscow,1,3,2017-04-09 12:00:00,,Standard
+125874,43,SavedShot,0.8,0.6459999847412109,0.03957799822092056,Quincy Promes,a,2815,OpenPlay,2016,RightFoot,4329,FC Ufa,Spartak Moscow,1,3,2017-04-09 12:00:00,Zé Luís,Pass
+125877,48,BlockedShot,0.9459999847412109,0.7180000305175781,0.0624707005918026,Quincy Promes,a,2815,OpenPlay,2016,LeftFoot,4329,FC Ufa,Spartak Moscow,1,3,2017-04-09 12:00:00,Zé Luís,Pass
+125878,51,MissedShots,0.7269999694824218,0.76,0.015543900430202484,Quincy Promes,a,2815,OpenPlay,2016,RightFoot,4329,FC Ufa,Spartak Moscow,1,3,2017-04-09 12:00:00,Dmitri Kombarov,Pass
+125881,55,Goal,0.885,0.5,0.7542750239372253,Quincy Promes,a,2815,Penalty,2016,RightFoot,4329,FC Ufa,Spartak Moscow,1,3,2017-04-09 12:00:00,,Standard
+125892,91,BlockedShot,0.860999984741211,0.7319999694824219,0.06302370131015778,Quincy Promes,a,2815,OpenPlay,2016,RightFoot,4329,FC Ufa,Spartak Moscow,1,3,2017-04-09 12:00:00,,TakeOn
+126043,20,Goal,0.9159999847412109,0.35700000762939454,0.07513370364904404,Quincy Promes,h,2815,OpenPlay,2016,RightFoot,4335,Spartak Moscow,Zenit St. Petersburg,2,1,2017-04-16 18:00:00,Denis Glushakov,Chipped
+126047,33,SavedShot,0.7280000305175781,0.47299999237060547,0.04727260023355484,Quincy Promes,h,2815,DirectFreekick,2016,RightFoot,4335,Spartak Moscow,Zenit St. Petersburg,2,1,2017-04-16 18:00:00,,Standard
+126049,35,SavedShot,0.9319999694824219,0.649000015258789,0.051208801567554474,Quincy Promes,h,2815,FromCorner,2016,LeftFoot,4335,Spartak Moscow,Zenit St. Petersburg,2,1,2017-04-16 18:00:00,Ivelin Popov,TakeOn
+126064,81,SavedShot,0.8530000305175781,0.34799999237060547,0.06047330051660538,Quincy Promes,h,2815,OpenPlay,2016,LeftFoot,4335,Spartak Moscow,Zenit St. Petersburg,2,1,2017-04-16 18:00:00,Fernando,Chipped
+126262,88,SavedShot,0.7040000152587891,0.46299999237060546,0.012442899867892265,Quincy Promes,a,2815,OpenPlay,2016,RightFoot,4344,FC Rostov,Spartak Moscow,3,0,2017-04-22 14:30:00,Lorenzo Melgarejo,Pass
+126469,90,SavedShot,0.904000015258789,0.7169999694824218,0.027858199551701546,Quincy Promes,h,2815,OpenPlay,2016,RightFoot,4351,Spartak Moscow,Ural,1,0,2017-04-25 17:30:00,Andrey Eshchenko,Cross
+126654,14,MissedShots,0.7019999694824218,0.575,0.03530789911746979,Quincy Promes,a,2815,DirectFreekick,2016,RightFoot,4361,CSKA Moscow,Spartak Moscow,1,2,2017-04-30 15:00:00,,Standard
+126679,84,ShotOnPost,0.8430000305175781,0.5609999847412109,0.5204989910125732,Quincy Promes,a,2815,OpenPlay,2016,RightFoot,4361,CSKA Moscow,Spartak Moscow,1,2,2017-04-30 15:00:00,Giorgi Jikia,BallRecovery
+126683,92,BlockedShot,0.894000015258789,0.33099998474121095,0.5245389938354492,Quincy Promes,a,2815,OpenPlay,2016,RightFoot,4361,CSKA Moscow,Spartak Moscow,1,2,2017-04-30 15:00:00,Zé Luís,TakeOn
+126847,9,BlockedShot,0.950999984741211,0.3659999847412109,0.02032249979674816,Quincy Promes,h,2815,OpenPlay,2016,Head,4367,Spartak Moscow,Tom Tomsk,1,0,2017-05-06 17:00:00,Dmitri Kombarov,Cross
+126848,14,Goal,0.885,0.5,0.7542750239372253,Quincy Promes,h,2815,Penalty,2016,RightFoot,4367,Spartak Moscow,Tom Tomsk,1,0,2017-05-06 17:00:00,,Standard
+126855,35,SavedShot,0.9369999694824219,0.38799999237060545,0.10722099989652634,Quincy Promes,h,2815,OpenPlay,2016,LeftFoot,4367,Spartak Moscow,Tom Tomsk,1,0,2017-05-06 17:00:00,Ivelin Popov,Chipped
+126871,84,MissedShots,0.725999984741211,0.6079999923706054,0.020674999803304672,Quincy Promes,h,2815,OpenPlay,2016,RightFoot,4367,Spartak Moscow,Tom Tomsk,1,0,2017-05-06 17:00:00,Jano Ananidze,TakeOn
+127053,68,BlockedShot,0.7959999847412109,0.40400001525878904,0.05897980183362961,Quincy Promes,a,2815,OpenPlay,2016,RightFoot,4377,Amkar,Spartak Moscow,0,1,2017-05-13 12:30:00,Zé Luís,TakeOn
+127057,76,BlockedShot,0.77,0.3370000076293945,0.05567590147256851,Quincy Promes,a,2815,DirectFreekick,2016,RightFoot,4377,Amkar,Spartak Moscow,0,1,2017-05-13 12:30:00,,Standard
+127246,73,Goal,0.8809999847412109,0.59,0.17374299466609955,Quincy Promes,h,2815,OpenPlay,2016,RightFoot,4383,Spartak Moscow,FK Akhmat,3,0,2017-05-17 17:30:00,Jano Ananidze,TakeOn
+122402,10,BlockedShot,0.7080000305175781,0.5990000152587891,0.013644400052726269,Quincy Promes,a,2815,OpenPlay,2016,RightFoot,4393,Arsenal Tula,Spartak Moscow,3,0,2017-05-21 13:00:00,Fernando,Pass
+122417,67,MissedShots,0.785,0.36,0.07074999809265137,Quincy Promes,a,2815,DirectFreekick,2016,RightFoot,4393,Arsenal Tula,Spartak Moscow,3,0,2017-05-21 13:00:00,,Standard
+158058,18,BlockedShot,0.7340000152587891,0.5120000076293946,0.011093899607658386,Quincy Promes,a,2815,OpenPlay,2017,RightFoot,6708,Dinamo Moscow,Spartak Moscow,2,2,2017-07-18 17:30:00,Dmitri Kombarov,TakeOn
+158062,28,Goal,0.955,0.4570000076293945,0.5361049771308899,Quincy Promes,a,2815,OpenPlay,2017,Head,6708,Dinamo Moscow,Spartak Moscow,2,2,2017-07-18 17:30:00,Lorenzo Melgarejo,Cross
+158069,49,SavedShot,0.6909999847412109,0.54,0.0331215001642704,Quincy Promes,a,2815,DirectFreekick,2017,RightFoot,6708,Dinamo Moscow,Spartak Moscow,2,2,2017-07-18 17:30:00,,Standard
+154669,7,SavedShot,0.7909999847412109,0.67,0.024345099925994873,Quincy Promes,a,2815,OpenPlay,2017,RightFoot,6477,FC Ufa,Spartak Moscow,0,0,2017-07-23 13:00:00,Zé Luís,Pass
+154671,16,BlockedShot,0.8390000152587891,0.565,0.05777139961719513,Quincy Promes,a,2815,OpenPlay,2017,RightFoot,6477,FC Ufa,Spartak Moscow,0,0,2017-07-23 13:00:00,Ivelin Popov,Chipped
+154678,30,SavedShot,0.715999984741211,0.5570000076293945,0.04084920138120651,Quincy Promes,a,2815,DirectFreekick,2017,RightFoot,6477,FC Ufa,Spartak Moscow,0,0,2017-07-23 13:00:00,,Standard
+154851,19,MissedShots,0.7169999694824218,0.5720000076293945,0.011104799807071686,Quincy Promes,h,2815,OpenPlay,2017,RightFoot,6492,Spartak Moscow,FC Krasnodar,2,0,2017-07-31 17:30:00,,Rebound
+154855,24,MissedShots,0.7869999694824219,0.4209999847412109,0.029746700078248978,Quincy Promes,h,2815,OpenPlay,2017,RightFoot,6492,Spartak Moscow,FC Krasnodar,2,0,2017-07-31 17:30:00,Luiz Adriano,Pass
+154854,24,SavedShot,0.735999984741211,0.519000015258789,0.02122649922966957,Quincy Promes,h,2815,OpenPlay,2017,RightFoot,6492,Spartak Moscow,FC Krasnodar,2,0,2017-07-31 17:30:00,Aleksandr Samedov,Pass
+154859,36,BlockedShot,0.8619999694824219,0.43400001525878906,0.09447179734706879,Quincy Promes,h,2815,OpenPlay,2017,RightFoot,6492,Spartak Moscow,FC Krasnodar,2,0,2017-07-31 17:30:00,Luiz Adriano,Pass
+154860,37,Goal,0.885,0.5,0.7542750239372253,Quincy Promes,h,2815,Penalty,2017,RightFoot,6492,Spartak Moscow,FC Krasnodar,2,0,2017-07-31 17:30:00,,Standard
+154868,53,SavedShot,0.8959999847412109,0.49700000762939456,0.48634499311447144,Quincy Promes,h,2815,OpenPlay,2017,RightFoot,6492,Spartak Moscow,FC Krasnodar,2,0,2017-07-31 17:30:00,Luiz Adriano,Pass
+154880,81,SavedShot,0.8540000152587891,0.36900001525878906,0.06868419796228409,Quincy Promes,h,2815,OpenPlay,2017,RightFoot,6492,Spartak Moscow,FC Krasnodar,2,0,2017-07-31 17:30:00,Andrey Eshchenko,TakeOn
+155071,0,MissedShots,0.8719999694824219,0.48700000762939455,0.0848195031285286,Quincy Promes,a,2815,OpenPlay,2017,RightFoot,6499,Zenit St. Petersburg,Spartak Moscow,5,1,2017-08-06 18:00:00,Aleksandr Samedov,Cross
+155072,6,MissedShots,0.7140000152587891,0.45599998474121095,0.015448600053787231,Quincy Promes,a,2815,OpenPlay,2017,RightFoot,6499,Zenit St. Petersburg,Spartak Moscow,5,1,2017-08-06 18:00:00,Ivelin Popov,TakeOn
+155074,18,MissedShots,0.745,0.720999984741211,0.012062099762260914,Quincy Promes,a,2815,OpenPlay,2017,RightFoot,6499,Zenit St. Petersburg,Spartak Moscow,5,1,2017-08-06 18:00:00,Denis Glushakov,Pass
+155084,59,SavedShot,0.745999984741211,0.4640000152587891,0.013315300457179546,Quincy Promes,a,2815,OpenPlay,2017,RightFoot,6499,Zenit St. Petersburg,Spartak Moscow,5,1,2017-08-06 18:00:00,,None
+155085,60,MissedShots,0.9540000152587891,0.5640000152587891,0.34495800733566284,Quincy Promes,a,2815,OpenPlay,2017,LeftFoot,6499,Zenit St. Petersburg,Spartak Moscow,5,1,2017-08-06 18:00:00,Aleksandr Samedov,Cross
+155087,70,Goal,0.885,0.5,0.7542750239372253,Quincy Promes,a,2815,Penalty,2017,RightFoot,6499,Zenit St. Petersburg,Spartak Moscow,5,1,2017-08-06 18:00:00,,Standard
+155461,4,MissedShots,0.7130000305175781,0.6309999847412109,0.03574629873037338,Quincy Promes,h,2815,DirectFreekick,2017,RightFoot,6504,Spartak Moscow,Arsenal Tula,2,0,2017-08-09 17:30:00,,Standard
+155463,6,BlockedShot,0.784000015258789,0.56,0.03590729832649231,Quincy Promes,h,2815,OpenPlay,2017,RightFoot,6504,Spartak Moscow,Arsenal Tula,2,0,2017-08-09 17:30:00,Mario Pasalic,Pass
+155464,11,MissedShots,0.8640000152587891,0.5420000076293945,0.09753040224313736,Quincy Promes,h,2815,OpenPlay,2017,RightFoot,6504,Spartak Moscow,Arsenal Tula,2,0,2017-08-09 17:30:00,Zé Luís,Pass
+155467,19,Goal,0.915,0.5920000076293945,0.3819870054721832,Quincy Promes,h,2815,OpenPlay,2017,RightFoot,6504,Spartak Moscow,Arsenal Tula,2,0,2017-08-09 17:30:00,Mario Pasalic,Pass
+155476,65,MissedShots,0.71,0.6959999847412109,0.030794400721788406,Quincy Promes,h,2815,DirectFreekick,2017,RightFoot,6504,Spartak Moscow,Arsenal Tula,2,0,2017-08-09 17:30:00,,Standard
+155482,85,SavedShot,0.9230000305175782,0.6569999694824219,0.12410599738359451,Quincy Promes,h,2815,OpenPlay,2017,RightFoot,6504,Spartak Moscow,Arsenal Tula,2,0,2017-08-09 17:30:00,Mario Pasalic,Pass
+155483,89,BlockedShot,0.855,0.3940000152587891,0.09692519903182983,Quincy Promes,h,2815,OpenPlay,2017,RightFoot,6504,Spartak Moscow,Arsenal Tula,2,0,2017-08-09 17:30:00,Mario Pasalic,Pass
+155250,1,SavedShot,0.835999984741211,0.7609999847412109,0.0329647995531559,Quincy Promes,a,2815,FromCorner,2017,RightFoot,6510,CSKA Moscow,Spartak Moscow,2,1,2017-08-12 15:30:00,Fernando,Pass
+155251,4,MissedShots,0.725999984741211,0.5820000076293945,0.01929450035095215,Quincy Promes,a,2815,OpenPlay,2017,RightFoot,6510,CSKA Moscow,Spartak Moscow,2,1,2017-08-12 15:30:00,Mario Pasalic,Pass
+155279,92,SavedShot,0.769000015258789,0.6120000076293945,0.02181440033018589,Quincy Promes,a,2815,OpenPlay,2017,RightFoot,6510,CSKA Moscow,Spartak Moscow,2,1,2017-08-12 15:30:00,,None
+155416,76,BlockedShot,0.7119999694824218,0.519000015258789,0.018117200583219528,Quincy Promes,h,2815,OpenPlay,2017,RightFoot,6519,Spartak Moscow,Lokomotiv Moscow,3,4,2017-08-19 15:30:00,Fernando,Pass
+155421,84,SavedShot,0.779000015258789,0.5059999847412109,0.03420469909906387,Quincy Promes,h,2815,OpenPlay,2017,RightFoot,6519,Spartak Moscow,Lokomotiv Moscow,3,4,2017-08-19 15:30:00,Dmitri Kombarov,Pass
+155422,88,MissedShots,0.8169999694824219,0.5279999923706055,0.044661201536655426,Quincy Promes,h,2815,OpenPlay,2017,RightFoot,6519,Spartak Moscow,Lokomotiv Moscow,3,4,2017-08-19 15:30:00,Fernando,Chipped
+155424,91,Goal,0.8819999694824219,0.615,0.09675659984350204,Quincy Promes,h,2815,OpenPlay,2017,RightFoot,6519,Spartak Moscow,Lokomotiv Moscow,3,4,2017-08-19 15:30:00,Fernando,Pass
+155773,35,MissedShots,0.785,0.19700000762939454,0.012950600124895573,Quincy Promes,a,2815,OpenPlay,2017,RightFoot,6529,SKA-Khabarovsk,Spartak Moscow,0,0,2017-08-27 09:00:00,Fernando,Pass
+155776,49,MissedShots,0.754000015258789,0.49,0.021591100841760635,Quincy Promes,a,2815,OpenPlay,2017,LeftFoot,6529,SKA-Khabarovsk,Spartak Moscow,0,0,2017-08-27 09:00:00,Andrey Eshchenko,Pass
+155779,56,SavedShot,0.8430000305175781,0.345,0.04640889912843704,Quincy Promes,a,2815,OpenPlay,2017,RightFoot,6529,SKA-Khabarovsk,Spartak Moscow,0,0,2017-08-27 09:00:00,Mario Pasalic,Chipped
+155783,63,SavedShot,0.6990000152587891,0.37400001525878906,0.015620700083673,Quincy Promes,a,2815,OpenPlay,2017,RightFoot,6529,SKA-Khabarovsk,Spartak Moscow,0,0,2017-08-27 09:00:00,Fernando,Pass
+155784,66,SavedShot,0.7609999847412109,0.5940000152587891,0.017243800684809685,Quincy Promes,a,2815,OpenPlay,2017,RightFoot,6529,SKA-Khabarovsk,Spartak Moscow,0,0,2017-08-27 09:00:00,Fernando,TakeOn
+155785,68,MissedShots,0.8680000305175781,0.6759999847412109,0.045162200927734375,Quincy Promes,a,2815,OpenPlay,2017,RightFoot,6529,SKA-Khabarovsk,Spartak Moscow,0,0,2017-08-27 09:00:00,Fernando,TakeOn
+155786,70,MissedShots,0.7230000305175781,0.49700000762939456,0.01272599957883358,Quincy Promes,a,2815,OpenPlay,2017,RightFoot,6529,SKA-Khabarovsk,Spartak Moscow,0,0,2017-08-27 09:00:00,Luiz Adriano,LayOff
+156526,47,Goal,0.8109999847412109,0.45099998474121095,0.12388599663972855,Quincy Promes,h,2815,OpenPlay,2017,RightFoot,6537,Spartak Moscow,Rubin Kazan,1,0,2017-09-09 17:00:00,Denis Glushakov,Throughball
+156528,57,SavedShot,0.8209999847412109,0.4879999923706055,0.16350899636745453,Quincy Promes,h,2815,OpenPlay,2017,RightFoot,6537,Spartak Moscow,Rubin Kazan,1,0,2017-09-09 17:00:00,Artyom Rebrov,Pass
+156037,92,MissedShots,0.9390000152587891,0.6480000305175782,0.012610699981451035,Quincy Promes,a,2815,OpenPlay,2017,Head,6545,Tosno,Spartak Moscow,2,2,2017-09-17 11:00:00,Ivelin Popov,Cross
+156897,88,MissedShots,0.8959999847412109,0.3509999847412109,0.09562619775533676,Quincy Promes,a,2815,OpenPlay,2017,RightFoot,6570,FK Akhmat,Spartak Moscow,1,2,2017-10-13 17:30:00,Aleksandr Samedov,Pass
+157095,8,SavedShot,0.8,0.57,0.05602189898490906,Quincy Promes,h,2815,OpenPlay,2017,RightFoot,6578,Spartak Moscow,Amkar,0,0,2017-10-21 17:00:00,Luiz Adriano,LayOff
+157103,36,MissedShots,0.8980000305175782,0.5870000076293945,0.3587239980697632,Quincy Promes,h,2815,OpenPlay,2017,RightFoot,6578,Spartak Moscow,Amkar,0,0,2017-10-21 17:00:00,Lorenzo Melgarejo,Throughball
+157110,51,MissedShots,0.7269999694824218,0.509000015258789,0.013996600173413754,Quincy Promes,h,2815,OpenPlay,2017,RightFoot,6578,Spartak Moscow,Amkar,0,0,2017-10-21 17:00:00,Luiz Adriano,Pass
+157118,71,BlockedShot,0.8530000305175781,0.664000015258789,0.05266429856419563,Quincy Promes,h,2815,OpenPlay,2017,RightFoot,6578,Spartak Moscow,Amkar,0,0,2017-10-21 17:00:00,Dmitri Kombarov,Pass
+157119,76,BlockedShot,0.7780000305175782,0.745,0.016867399215698242,Quincy Promes,h,2815,OpenPlay,2017,RightFoot,6578,Spartak Moscow,Amkar,0,0,2017-10-21 17:00:00,,TakeOn
+157708,22,BlockedShot,0.774000015258789,0.3029999923706055,0.016139499843120575,Quincy Promes,a,2815,OpenPlay,2017,RightFoot,6588,FC Rostov,Spartak Moscow,2,2,2017-10-28 17:00:00,Ivelin Popov,BallRecovery
+157715,50,BlockedShot,0.740999984741211,0.504000015258789,0.019124800339341164,Quincy Promes,a,2815,OpenPlay,2017,RightFoot,6588,FC Rostov,Spartak Moscow,2,2,2017-10-28 17:00:00,Zelimkhan Bakaev,Pass
+157716,57,BlockedShot,0.7190000152587891,0.5990000152587891,0.01429620012640953,Quincy Promes,a,2815,OpenPlay,2017,RightFoot,6588,FC Rostov,Spartak Moscow,2,2,2017-10-28 17:00:00,Zelimkhan Bakaev,Pass
+157137,16,SavedShot,0.6969999694824218,0.509000015258789,0.03513890132308006,Quincy Promes,h,2815,DirectFreekick,2017,RightFoot,6592,Spartak Moscow,FC Ufa,3,1,2017-11-05 16:00:00,,Standard
+157138,20,MissedShots,0.745,0.32,0.015629999339580536,Quincy Promes,h,2815,OpenPlay,2017,RightFoot,6592,Spartak Moscow,FC Ufa,3,1,2017-11-05 16:00:00,Ivelin Popov,Pass
+157149,57,MissedShots,0.7169999694824218,0.6959999847412109,0.01463400013744831,Quincy Promes,h,2815,OpenPlay,2017,RightFoot,6592,Spartak Moscow,FC Ufa,3,1,2017-11-05 16:00:00,Giorgi Jikia,Pass
+157151,62,Goal,0.8540000152587891,0.740999984741211,0.020367199555039406,Quincy Promes,h,2815,OpenPlay,2017,RightFoot,6592,Spartak Moscow,FC Ufa,3,1,2017-11-05 16:00:00,Dmitri Kombarov,Pass
+157154,84,BlockedShot,0.845999984741211,0.504000015258789,0.08365090191364288,Quincy Promes,h,2815,OpenPlay,2017,RightFoot,6592,Spartak Moscow,FC Ufa,3,1,2017-11-05 16:00:00,,Dispossessed
+157638,14,SavedShot,0.8669999694824219,0.6329999923706054,0.08006010204553604,Quincy Promes,a,2815,OpenPlay,2017,RightFoot,6600,FC Krasnodar,Spartak Moscow,1,4,2017-11-18 13:30:00,Giorgi Jikia,BallRecovery
+157641,25,SavedShot,0.870999984741211,0.654000015258789,0.07196129858493805,Quincy Promes,a,2815,OpenPlay,2017,RightFoot,6600,FC Krasnodar,Spartak Moscow,1,4,2017-11-18 13:30:00,Denis Glushakov,Pass
+157654,89,Goal,0.8830000305175781,0.5929999923706055,0.4135900139808655,Quincy Promes,a,2815,OpenPlay,2017,RightFoot,6600,FC Krasnodar,Spartak Moscow,1,4,2017-11-18 13:30:00,Zé Luís,Throughball
+157087,58,SavedShot,0.865,0.4490000152587891,0.07847010344266891,Quincy Promes,h,2815,OpenPlay,2017,RightFoot,6608,Spartak Moscow,Zenit St. Petersburg,3,1,2017-11-27 16:30:00,Roman Zobnin,Cross
+179039,9,Goal,0.9690000152587891,0.59,0.2903139889240265,Quincy Promes,h,2815,OpenPlay,2017,RightFoot,6622,Spartak Moscow,CSKA Moscow,3,0,2017-12-10 13:30:00,,TakeOn
+179053,36,SavedShot,0.889000015258789,0.6179999923706054,0.3364120125770569,Quincy Promes,h,2815,OpenPlay,2017,LeftFoot,6622,Spartak Moscow,CSKA Moscow,3,0,2017-12-10 13:30:00,Roman Zobnin,Pass
+179057,60,Goal,0.8680000305175781,0.5820000076293945,0.3457219898700714,Quincy Promes,h,2815,OpenPlay,2017,RightFoot,6622,Spartak Moscow,CSKA Moscow,3,0,2017-12-10 13:30:00,Luiz Adriano,Pass
+199331,21,BlockedShot,0.8540000152587891,0.710999984741211,0.03383069857954979,Quincy Promes,a,2815,OpenPlay,2017,LeftFoot,6635,Lokomotiv Moscow,Spartak Moscow,0,0,2018-03-04 13:30:00,,None
+199339,57,BlockedShot,0.7569999694824219,0.4640000152587891,0.02638709917664528,Quincy Promes,a,2815,OpenPlay,2017,RightFoot,6635,Lokomotiv Moscow,Spartak Moscow,0,0,2018-03-04 13:30:00,Denis Glushakov,Pass
+200744,28,SavedShot,0.885,0.5,0.7542750239372253,Quincy Promes,h,2815,Penalty,2017,RightFoot,6639,Spartak Moscow,SKA-Khabarovsk,1,0,2018-03-11 16:00:00,,Standard
+200749,39,MissedShots,0.7880000305175782,0.6480000305175782,0.025854500010609627,Quincy Promes,h,2815,OpenPlay,2017,RightFoot,6639,Spartak Moscow,SKA-Khabarovsk,1,0,2018-03-11 16:00:00,Dmitri Kombarov,Pass
+200751,45,MissedShots,0.7559999847412109,0.4879999923706055,0.021028000861406326,Quincy Promes,h,2815,OpenPlay,2017,RightFoot,6639,Spartak Moscow,SKA-Khabarovsk,1,0,2018-03-11 16:00:00,Sofiane Hanni,LayOff
+200753,51,SavedShot,0.745999984741211,0.639000015258789,0.01891780085861683,Quincy Promes,h,2815,OpenPlay,2017,RightFoot,6639,Spartak Moscow,SKA-Khabarovsk,1,0,2018-03-11 16:00:00,Denis Glushakov,Pass
+200757,59,MissedShots,0.8769999694824219,0.664000015258789,0.030755700543522835,Quincy Promes,h,2815,OpenPlay,2017,RightFoot,6639,Spartak Moscow,SKA-Khabarovsk,1,0,2018-03-11 16:00:00,Dmitri Kombarov,HeadPass
+200762,63,BlockedShot,0.7169999694824218,0.5570000076293945,0.0180635005235672,Quincy Promes,h,2815,OpenPlay,2017,RightFoot,6639,Spartak Moscow,SKA-Khabarovsk,1,0,2018-03-11 16:00:00,Aleksandr Samedov,Pass
+200765,70,MissedShots,0.84,0.5729999923706055,0.03721490129828453,Quincy Promes,h,2815,FromCorner,2017,RightFoot,6639,Spartak Moscow,SKA-Khabarovsk,1,0,2018-03-11 16:00:00,Fernando,Cross
+200768,74,MissedShots,0.7630000305175781,0.6780000305175782,0.014115500263869762,Quincy Promes,h,2815,OpenPlay,2017,RightFoot,6639,Spartak Moscow,SKA-Khabarovsk,1,0,2018-03-11 16:00:00,Dmitri Kombarov,Pass
+203844,9,MissedShots,0.7019999694824218,0.6170000076293946,0.03350279852747917,Quincy Promes,h,2815,DirectFreekick,2017,RightFoot,6657,Spartak Moscow,Tosno,2,1,2018-03-31 00:00:00,,Standard
+203851,41,MissedShots,0.8080000305175781,0.6419999694824219,0.022095799446105957,Quincy Promes,h,2815,FromCorner,2017,RightFoot,6657,Spartak Moscow,Tosno,2,1,2018-03-31 00:00:00,Luiz Adriano,None
+203857,59,SavedShot,0.855,0.6990000152587891,0.04926009848713875,Quincy Promes,h,2815,OpenPlay,2017,RightFoot,6657,Spartak Moscow,Tosno,2,1,2018-03-31 00:00:00,Denis Glushakov,Pass
+203863,74,BlockedShot,0.879000015258789,0.7,0.06447260081768036,Quincy Promes,h,2815,OpenPlay,2017,RightFoot,6657,Spartak Moscow,Tosno,2,1,2018-03-31 00:00:00,Zé Luís,Pass
+206744,9,Goal,0.9719999694824218,0.519000015258789,0.882544994354248,Quincy Promes,a,2815,OpenPlay,2017,RightFoot,6661,Anzhi Makhachkala,Spartak Moscow,1,4,2018-04-08 16:00:00,Sofiane Hanni,Pass
+206746,13,Goal,0.7809999847412109,0.585,0.030404800549149513,Quincy Promes,a,2815,OpenPlay,2017,RightFoot,6661,Anzhi Makhachkala,Spartak Moscow,1,4,2018-04-08 16:00:00,,TakeOn
+206749,26,Goal,0.885,0.5,0.7542750239372253,Quincy Promes,a,2815,Penalty,2017,RightFoot,6661,Anzhi Makhachkala,Spartak Moscow,1,4,2018-04-08 16:00:00,,Standard
+208895,10,BlockedShot,0.88,0.575,0.10810700058937073,Quincy Promes,a,2815,OpenPlay,2017,RightFoot,6674,Ural,Spartak Moscow,2,1,2018-04-15 11:00:00,Sofiane Hanni,Pass
+208905,35,ShotOnPost,0.7809999847412109,0.5709999847412109,0.031131599098443985,Quincy Promes,a,2815,OpenPlay,2017,LeftFoot,6674,Ural,Spartak Moscow,2,1,2018-04-15 11:00:00,Sofiane Hanni,Pass
+208913,50,BlockedShot,0.879000015258789,0.5879999923706055,0.0646200031042099,Quincy Promes,a,2815,OpenPlay,2017,RightFoot,6674,Ural,Spartak Moscow,2,1,2018-04-15 11:00:00,Roman Zobnin,Cross
+208915,57,MissedShots,0.7440000152587891,0.6430000305175781,0.01888040080666542,Quincy Promes,a,2815,OpenPlay,2017,RightFoot,6674,Ural,Spartak Moscow,2,1,2018-04-15 11:00:00,Sofiane Hanni,Pass
+208917,63,MissedShots,0.7869999694824219,0.7730000305175782,0.012985100038349628,Quincy Promes,a,2815,OpenPlay,2017,RightFoot,6674,Ural,Spartak Moscow,2,1,2018-04-15 11:00:00,Marko Petkovic,Cross
+208928,90,Goal,0.7780000305175782,0.5279999923706055,0.01646840013563633,Quincy Promes,a,2815,OpenPlay,2017,RightFoot,6674,Ural,Spartak Moscow,2,1,2018-04-15 11:00:00,,Rebound
+208929,92,MissedShots,0.7390000152587891,0.43,0.010689199902117252,Quincy Promes,a,2815,OpenPlay,2017,RightFoot,6674,Ural,Spartak Moscow,2,1,2018-04-15 11:00:00,Nikola Maksimovic,Aerial
+211273,57,BlockedShot,0.735,0.6959999847412109,0.010386000387370586,Quincy Promes,h,2815,OpenPlay,2017,RightFoot,6682,Spartak Moscow,FK Akhmat,1,3,2018-04-23 16:30:00,Artem Timofeev,Pass
+212175,18,MissedShots,0.9469999694824218,0.525,0.15264900028705597,Quincy Promes,a,2815,OpenPlay,2017,Head,6687,Amkar,Spartak Moscow,0,2,2018-04-29 11:00:00,Fernando,Cross
+212182,33,BlockedShot,0.9159999847412109,0.5520000076293945,0.09638290107250214,Quincy Promes,a,2815,OpenPlay,2017,Head,6687,Amkar,Spartak Moscow,0,2,2018-04-29 11:00:00,Andrey Eshchenko,Cross
+212185,36,MissedShots,0.779000015258789,0.4279999923706055,0.020210200920701027,Quincy Promes,a,2815,FromCorner,2017,RightFoot,6687,Amkar,Spartak Moscow,0,2,2018-04-29 11:00:00,,None
+212189,49,BlockedShot,0.8159999847412109,0.75,0.02666429989039898,Quincy Promes,a,2815,OpenPlay,2017,RightFoot,6687,Amkar,Spartak Moscow,0,2,2018-04-29 11:00:00,Mario Pasalic,Pass
+212190,56,BlockedShot,0.889000015258789,0.7269999694824218,0.050324298441410065,Quincy Promes,a,2815,OpenPlay,2017,LeftFoot,6687,Amkar,Spartak Moscow,0,2,2018-04-29 11:00:00,Mario Pasalic,Pass
+212191,62,MissedShots,0.78,0.4540000152587891,0.03891820088028908,Quincy Promes,a,2815,OpenPlay,2017,RightFoot,6687,Amkar,Spartak Moscow,0,2,2018-04-29 11:00:00,Roman Zobnin,Pass
+213405,14,MissedShots,0.6680000305175782,0.6569999694824219,0.02598709985613823,Quincy Promes,h,2815,DirectFreekick,2017,RightFoot,6698,Spartak Moscow,FC Rostov,2,0,2018-05-05 17:00:00,,Standard
+213408,21,BlockedShot,0.8530000305175781,0.39099998474121095,0.07339770346879959,Quincy Promes,h,2815,OpenPlay,2017,RightFoot,6698,Spartak Moscow,FC Rostov,2,0,2018-05-05 17:00:00,Luiz Adriano,Pass
+213411,33,BlockedShot,0.860999984741211,0.59,0.09322819858789444,Quincy Promes,h,2815,OpenPlay,2017,RightFoot,6698,Spartak Moscow,FC Rostov,2,0,2018-05-05 17:00:00,Roman Zobnin,Pass
+213419,57,ShotOnPost,0.7119999694824218,0.40599998474121096,0.03763839974999428,Quincy Promes,h,2815,DirectFreekick,2017,RightFoot,6698,Spartak Moscow,FC Rostov,2,0,2018-05-05 17:00:00,,Standard
+213425,83,Goal,0.9230000305175782,0.575,0.47693198919296265,Quincy Promes,h,2815,OpenPlay,2017,RightFoot,6698,Spartak Moscow,FC Rostov,2,0,2018-05-05 17:00:00,Sofiane Hanni,Pass
+215204,18,MissedShots,0.6819999694824219,0.509000015258789,0.03121500089764595,Quincy Promes,h,2815,DirectFreekick,2017,RightFoot,6471,Spartak Moscow,Dinamo Moscow,0,1,2018-05-13 12:00:00,,Standard
+215206,24,SavedShot,0.7880000305175782,0.6959999847412109,0.020778300240635872,Quincy Promes,h,2815,OpenPlay,2017,RightFoot,6471,Spartak Moscow,Dinamo Moscow,0,1,2018-05-13 12:00:00,Sofiane Hanni,Pass
+215220,55,MissedShots,0.7119999694824218,0.5129999923706055,0.01707109995186329,Quincy Promes,h,2815,OpenPlay,2017,RightFoot,6471,Spartak Moscow,Dinamo Moscow,0,1,2018-05-13 12:00:00,Ilya Kutepov,Pass
+215231,92,SavedShot,0.88,0.645,0.05088320001959801,Quincy Promes,h,2815,OpenPlay,2017,RightFoot,6471,Spartak Moscow,Dinamo Moscow,0,1,2018-05-13 12:00:00,,Dispossessed
+219156,43,SavedShot,0.895,0.6179999923706054,0.1137320026755333,Quincy Promes,h,2815,OpenPlay,2018,LeftFoot,8946,Spartak Moscow,FC Orenburg,1,0,2018-07-28 19:00:00,Zé Luís,Pass
+219159,53,BlockedShot,0.75,0.6840000152587891,0.021427800878882408,Quincy Promes,h,2815,OpenPlay,2018,RightFoot,8946,Spartak Moscow,FC Orenburg,1,0,2018-07-28 19:00:00,Dmitri Kombarov,Pass
+219293,10,SavedShot,0.8680000305175781,0.5209999847412109,0.3703339993953705,Quincy Promes,a,2815,OpenPlay,2018,RightFoot,8956,Lokomotiv Moscow,Spartak Moscow,0,0,2018-08-04 19:00:00,Zé Luís,Pass
+219300,51,BlockedShot,0.8690000152587891,0.6459999847412109,0.04218190163373947,Quincy Promes,a,2815,FromCorner,2018,RightFoot,8956,Lokomotiv Moscow,Spartak Moscow,0,0,2018-08-04 19:00:00,,None
+219304,60,BlockedShot,0.81,0.5129999923706055,0.14634500443935394,Quincy Promes,a,2815,DirectFreekick,2018,RightFoot,8956,Lokomotiv Moscow,Spartak Moscow,0,0,2018-08-04 19:00:00,,Standard
+219305,62,SavedShot,0.8430000305175781,0.7269999694824218,0.029000500217080116,Quincy Promes,a,2815,OpenPlay,2018,RightFoot,8956,Lokomotiv Moscow,Spartak Moscow,0,0,2018-08-04 19:00:00,Fernando,Pass
+219459,19,MissedShots,0.8059999847412109,0.25299999237060544,0.013754899613559246,Quincy Promes,h,2815,OpenPlay,2018,RightFoot,8963,Spartak Moscow,Anzhi Makhachkala,1,0,2018-08-11 19:00:00,,Rebound
+219467,47,MissedShots,0.785,0.43900001525878907,0.09078279882669449,Quincy Promes,h,2815,DirectFreekick,2018,RightFoot,8963,Spartak Moscow,Anzhi Makhachkala,1,0,2018-08-11 19:00:00,,Standard
+219468,49,SavedShot,0.8009999847412109,0.33099998474121095,0.019307199865579605,Quincy Promes,h,2815,SetPiece,2018,RightFoot,8963,Spartak Moscow,Anzhi Makhachkala,1,0,2018-08-11 19:00:00,,None
+219478,73,BlockedShot,0.8690000152587891,0.6659999847412109,0.06399340182542801,Quincy Promes,h,2815,OpenPlay,2018,LeftFoot,8963,Spartak Moscow,Anzhi Makhachkala,1,0,2018-08-11 19:00:00,Roman Zobnin,Pass
+219485,86,SavedShot,0.8490000152587891,0.715,0.02175539918243885,Quincy Promes,h,2815,FromCorner,2018,RightFoot,8963,Spartak Moscow,Anzhi Makhachkala,1,0,2018-08-11 19:00:00,Dmitri Kombarov,Pass
+219486,86,MissedShots,0.850999984741211,0.46900001525878904,0.05520559847354889,Quincy Promes,h,2815,FromCorner,2018,RightFoot,8963,Spartak Moscow,Anzhi Makhachkala,1,0,2018-08-11 19:00:00,Samuel Gigot,Pass
+219487,90,MissedShots,0.8030000305175782,0.705999984741211,0.022348500788211823,Quincy Promes,h,2815,OpenPlay,2018,RightFoot,8963,Spartak Moscow,Anzhi Makhachkala,1,0,2018-08-11 19:00:00,Dmitri Kombarov,TakeOn
+219683,27,MissedShots,0.7369999694824219,0.79,0.0100728003308177,Quincy Promes,a,2815,OpenPlay,2018,RightFoot,8971,FC Krasnodar,Spartak Moscow,0,1,2018-08-18 19:00:00,Luiz Adriano,Pass
+219688,44,SavedShot,0.8830000305175781,0.72,0.03726939857006073,Quincy Promes,a,2815,OpenPlay,2018,RightFoot,8971,FC Krasnodar,Spartak Moscow,0,1,2018-08-18 19:00:00,Roman Zobnin,Pass
+222813,6,Goal,0.885,0.5,0.7542750239372253,Quincy Promes,h,2815,Penalty,2018,RightFoot,8980,Spartak Moscow,Dinamo Moscow,2,1,2018-08-25 19:00:00,,Standard
+222816,22,SavedShot,0.8119999694824219,0.750999984741211,0.042247798293828964,Quincy Promes,h,2815,OpenPlay,2018,RightFoot,8980,Spartak Moscow,Dinamo Moscow,2,1,2018-08-25 19:00:00,Fernando,Chipped
+222819,38,BlockedShot,0.8490000152587891,0.69,0.05499719828367233,Quincy Promes,h,2815,OpenPlay,2018,RightFoot,8980,Spartak Moscow,Dinamo Moscow,2,1,2018-08-25 19:00:00,Zé Luís,Pass
+222821,47,SavedShot,0.874000015258789,0.7319999694824219,0.0527644008398056,Quincy Promes,h,2815,OpenPlay,2018,RightFoot,8980,Spartak Moscow,Dinamo Moscow,2,1,2018-08-25 19:00:00,Roman Zobnin,Pass
+222831,59,MissedShots,0.925,0.73,0.06404969841241837,Quincy Promes,h,2815,OpenPlay,2018,LeftFoot,8980,Spartak Moscow,Dinamo Moscow,2,1,2018-08-25 19:00:00,Aleksandr Samedov,Pass
+222841,85,MissedShots,0.9130000305175782,0.7230000305175781,0.02443460002541542,Quincy Promes,h,2815,FromCorner,2018,LeftFoot,8980,Spartak Moscow,Dinamo Moscow,2,1,2018-08-25 19:00:00,Giorgi Jikia,Chipped
+222842,88,SavedShot,0.775,0.745,0.013555100187659264,Quincy Promes,h,2815,OpenPlay,2018,RightFoot,8980,Spartak Moscow,Dinamo Moscow,2,1,2018-08-25 19:00:00,Ivelin Popov,Chipped
+222844,92,MissedShots,0.924000015258789,0.67,0.06132709980010986,Quincy Promes,h,2815,OpenPlay,2018,RightFoot,8980,Spartak Moscow,Dinamo Moscow,2,1,2018-08-25 19:00:00,Fernando,TakeOn
+228275,85,BlockedShot,0.7559999847412109,0.66,0.06677830219268799,Quincy Promes,a,2815,OpenPlay,2018,RightFoot,10024,Eibar,Sevilla,1,3,2018-09-29 16:30:00,Franco Vázquez,Pass
+258101,79,BlockedShot,0.8719999694824219,0.5670000076293945,0.13107800483703613,Quincy Promes,h,2815,OpenPlay,2018,RightFoot,10029,Sevilla,Celta Vigo,2,1,2018-10-07 16:30:00,Jesús Navas,Pass
+258916,8,MissedShots,0.8669999694824219,0.7419999694824219,0.031202899292111397,Quincy Promes,a,2815,OpenPlay,2018,LeftFoot,10064,Real Sociedad,Sevilla,0,0,2018-11-04 17:30:00,Luis Muriel,Pass
+258917,17,BlockedShot,0.8680000305175781,0.34,0.05221179872751236,Quincy Promes,a,2815,OpenPlay,2018,RightFoot,10064,Real Sociedad,Sevilla,0,0,2018-11-04 17:30:00,Pablo Sarabia,Pass
+259177,9,ShotOnPost,0.935,0.445,0.39173200726509094,Quincy Promes,h,2815,OpenPlay,2018,Head,10076,Sevilla,Espanyol,2,1,2018-11-11 17:30:00,Franco Vázquez,Cross
+259694,62,MissedShots,0.9419999694824219,0.345,0.28697600960731506,Quincy Promes,a,2815,OpenPlay,2018,RightFoot,10087,Alaves,Sevilla,1,1,2018-12-02 19:45:00,André Silva,Pass
+259797,62,MissedShots,0.8059999847412109,0.30100000381469727,0.03500000014901161,Quincy Promes,a,2815,OpenPlay,2018,LeftFoot,10106,Valencia,Sevilla,1,1,2018-12-08 15:15:00,Éver Banega,Chipped
+280232,80,MissedShots,0.789000015258789,0.66,0.022672200575470924,Quincy Promes,a,2815,OpenPlay,2018,RightFoot,10146,Athletic Club,Sevilla,2,0,2019-01-13 15:15:00,Éver Banega,Pass
+280234,88,SavedShot,0.9119999694824219,0.6680000305175782,0.06105409935116768,Quincy Promes,a,2815,OpenPlay,2018,LeftFoot,10146,Athletic Club,Sevilla,2,0,2019-01-13 15:15:00,Munir,BallTouch
+280575,21,MissedShots,0.8019999694824219,0.675,0.027705799788236618,Quincy Promes,h,2815,OpenPlay,2018,RightFoot,10166,Sevilla,Levante,5,0,2019-01-26 12:00:00,André Silva,Pass
+280598,89,Goal,0.9459999847412109,0.47900001525878905,0.6239960193634033,Quincy Promes,h,2815,SetPiece,2018,RightFoot,10166,Sevilla,Levante,5,0,2019-01-26 12:00:00,,Rebound
+280597,89,SavedShot,0.885,0.5,0.7432780265808105,Quincy Promes,h,2815,Penalty,2018,RightFoot,10166,Sevilla,Levante,5,0,2019-01-26 12:00:00,,Standard
+280890,39,BlockedShot,0.8230000305175781,0.40799999237060547,0.020641500130295753,Quincy Promes,a,2815,OpenPlay,2018,LeftFoot,10175,Celta Vigo,Sevilla,1,0,2019-02-02 19:45:00,,Aerial
+281215,48,BlockedShot,0.85,0.355,0.048548098653554916,Quincy Promes,h,2815,OpenPlay,2018,RightFoot,10178,Sevilla,Eibar,2,2,2019-02-10 17:30:00,Pablo Sarabia,Pass
+281478,12,MissedShots,0.8219999694824218,0.8230000305175781,0.019057100638747215,Quincy Promes,a,2815,OpenPlay,2018,RightFoot,10196,Villarreal,Sevilla,3,0,2019-02-17 17:30:00,Franco Vázquez,Pass
+281487,41,BlockedShot,0.774000015258789,0.700999984741211,0.021113399416208267,Quincy Promes,a,2815,OpenPlay,2018,RightFoot,10196,Villarreal,Sevilla,3,0,2019-02-17 17:30:00,Ibrahim Amadou,Pass
+281500,65,MissedShots,0.8530000305175781,0.3039999961853027,0.033003099262714386,Quincy Promes,a,2815,OpenPlay,2018,LeftFoot,10196,Villarreal,Sevilla,3,0,2019-02-17 17:30:00,,None
+281877,14,BlockedShot,0.9069999694824219,0.6140000152587891,0.38864099979400635,Quincy Promes,a,2815,OpenPlay,2018,RightFoot,10213,SD Huesca,Sevilla,2,1,2019-03-02 17:30:00,André Silva,None
+281880,22,MissedShots,0.7369999694824219,0.7480000305175781,0.009818649850785732,Quincy Promes,a,2815,OpenPlay,2018,RightFoot,10213,SD Huesca,Sevilla,2,1,2019-03-02 17:30:00,,None
+285326,53,BlockedShot,0.8859999847412109,0.6719999694824219,0.07427159696817398,Quincy Promes,h,2815,OpenPlay,2018,RightFoot,10225,Sevilla,Real Sociedad,5,2,2019-03-10 17:30:00,Munir,Pass
+286811,18,BlockedShot,0.8980000305175782,0.720999984741211,0.044237200170755386,Quincy Promes,a,2815,OpenPlay,2018,RightFoot,10234,Espanyol,Sevilla,0,1,2019-03-17 15:15:00,Daniel Carriço,Chipped
+286822,53,BlockedShot,0.8430000305175781,0.754000015258789,0.03170249983668327,Quincy Promes,a,2815,OpenPlay,2018,RightFoot,10234,Espanyol,Sevilla,0,1,2019-03-17 15:15:00,Wissam Ben Yedder,Pass
+292671,63,BlockedShot,0.785,0.580999984741211,0.032628901302814484,Quincy Promes,a,2815,OpenPlay,2018,RightFoot,10262,Real Valladolid,Sevilla,0,2,2019-04-07 15:15:00,Pablo Sarabia,Pass
+292673,72,BlockedShot,0.695,0.615,0.012216299772262573,Quincy Promes,a,2815,FromCorner,2018,RightFoot,10262,Real Valladolid,Sevilla,0,2,2019-04-07 15:15:00,,None
+293936,83,MissedShots,0.7569999694824219,0.6809999847412109,0.025484599173069,Quincy Promes,h,2815,OpenPlay,2018,RightFoot,10269,Sevilla,Real Betis,3,2,2019-04-13 19:45:00,Pablo Sarabia,Pass
+295814,84,MissedShots,0.77,0.36,0.2361299991607666,Quincy Promes,a,2815,OpenPlay,2018,RightFoot,10278,Getafe,Sevilla,3,0,2019-04-21 13:00:00,Simon Kjaer,Chipped
+295816,94,BlockedShot,0.8019999694824219,0.7240000152587891,0.018929999321699142,Quincy Promes,a,2815,OpenPlay,2018,RightFoot,10278,Getafe,Sevilla,3,0,2019-04-21 13:00:00,Roque Mesa,Chipped
+297043,36,MissedShots,0.799000015258789,0.6079999923706054,0.0348500981926918,Quincy Promes,h,2815,OpenPlay,2018,RightFoot,10296,Sevilla,Rayo Vallecano,5,0,2019-04-25 18:30:00,,None
+297045,42,MissedShots,0.725,0.5059999847412109,0.015167700126767159,Quincy Promes,h,2815,FromCorner,2018,RightFoot,10296,Sevilla,Rayo Vallecano,5,0,2019-04-25 18:30:00,,None
+297048,54,SavedShot,0.795,0.6270000076293946,0.029919199645519257,Quincy Promes,h,2815,OpenPlay,2018,RightFoot,10296,Sevilla,Rayo Vallecano,5,0,2019-04-25 18:30:00,,None
+297049,54,Goal,0.855,0.52,0.08187559992074966,Quincy Promes,h,2815,OpenPlay,2018,RightFoot,10296,Sevilla,Rayo Vallecano,5,0,2019-04-25 18:30:00,,Rebound
+407007,10,BlockedShot,0.8,0.30100000381469727,0.024993300437927246,Quincy Promes,h,2815,OpenPlay,2020,LeftFoot,14378,Spartak Moscow,Rubin Kazan,0,2,2021-02-28 11:00:00,Roman Zobnin,Pass
+409067,7,Goal,0.915,0.595999984741211,0.37224599719047546,Quincy Promes,h,2815,OpenPlay,2020,RightFoot,14386,Spartak Moscow,FC Krasnodar,6,1,2021-03-07 16:00:00,Jordan Larsson,Throughball
+409090,48,SavedShot,0.8209999847412109,0.5770000076293945,0.05270810052752495,Quincy Promes,h,2815,OpenPlay,2020,RightFoot,14386,Spartak Moscow,FC Krasnodar,6,1,2021-03-07 16:00:00,Jordan Larsson,None
+410017,2,BlockedShot,0.8009999847412109,0.46,0.049242399632930756,Quincy Promes,a,2815,OpenPlay,2020,LeftFoot,14393,Dinamo Moscow,Spartak Moscow,1,2,2021-03-13 16:00:00,Jordan Larsson,Pass
+410028,41,MissedShots,0.750999984741211,0.68,0.016572799533605576,Quincy Promes,a,2815,SetPiece,2020,RightFoot,14393,Dinamo Moscow,Spartak Moscow,1,2,2021-03-13 16:00:00,Jordan Larsson,Pass
+410030,49,MissedShots,0.845,0.46299999237060546,0.08151409775018692,Quincy Promes,a,2815,OpenPlay,2020,RightFoot,14393,Dinamo Moscow,Spartak Moscow,1,2,2021-03-13 16:00:00,Jordan Larsson,Pass
+410031,58,MissedShots,0.865999984741211,0.3729999923706055,0.1065479964017868,Quincy Promes,a,2815,OpenPlay,2020,RightFoot,14393,Dinamo Moscow,Spartak Moscow,1,2,2021-03-13 16:00:00,Jordan Larsson,TakeOn
+411014,25,Goal,0.9290000152587891,0.35,0.09145410358905792,Quincy Promes,h,2815,OpenPlay,2020,LeftFoot,14406,Spartak Moscow,Ural,5,1,2021-03-18 16:00:00,Roman Zobnin,Pass
+413251,34,BlockedShot,0.93,0.3160000038146973,0.04851159825921059,Quincy Promes,a,2815,OpenPlay,2020,RightFoot,14413,FC Rostov,Spartak Moscow,2,3,2021-04-04 16:00:00,,None
+413254,38,MissedShots,0.8680000305175781,0.5920000076293945,0.061171699315309525,Quincy Promes,a,2815,SetPiece,2020,RightFoot,14413,FC Rostov,Spartak Moscow,2,3,2021-04-04 16:00:00,Jordan Larsson,HeadPass
+413268,75,MissedShots,0.7919999694824219,0.7319999694824219,0.01543979998677969,Quincy Promes,a,2815,FromCorner,2020,RightFoot,14413,FC Rostov,Spartak Moscow,2,3,2021-04-04 16:00:00,Victor Moses,Pass
+414683,15,SavedShot,0.7280000305175781,0.4370000076293945,0.017295999452471733,Quincy Promes,a,2815,OpenPlay,2020,RightFoot,14421,Lokomotiv Moscow,Spartak Moscow,2,0,2021-04-11 16:00:00,Ayrton Lucas,Pass
+414686,19,BlockedShot,0.830999984741211,0.534000015258789,0.0581400990486145,Quincy Promes,a,2815,OpenPlay,2020,RightFoot,14421,Lokomotiv Moscow,Spartak Moscow,2,0,2021-04-11 16:00:00,,None
+414697,55,MissedShots,0.6940000152587891,0.4159999847412109,0.03280499950051308,Quincy Promes,a,2815,DirectFreekick,2020,RightFoot,14421,Lokomotiv Moscow,Spartak Moscow,2,0,2021-04-11 16:00:00,,Standard
+414698,60,BlockedShot,0.8809999847412109,0.7569999694824219,0.03604729846119881,Quincy Promes,a,2815,FromCorner,2020,RightFoot,14421,Lokomotiv Moscow,Spartak Moscow,2,0,2021-04-11 16:00:00,Nail Umiarov,Pass
+414702,72,BlockedShot,0.7630000305175781,0.5940000152587891,0.0637023001909256,Quincy Promes,a,2815,DirectFreekick,2020,RightFoot,14421,Lokomotiv Moscow,Spartak Moscow,2,0,2021-04-11 16:00:00,,Standard
+415943,26,MissedShots,0.889000015258789,0.8290000152587891,0.051185399293899536,Quincy Promes,h,2815,DirectFreekick,2020,RightFoot,14430,Spartak Moscow,FC Ufa,0,3,2021-04-18 16:00:00,,Standard
+415949,50,MissedShots,0.894000015258789,0.6940000152587891,0.0426785983145237,Quincy Promes,h,2815,OpenPlay,2020,LeftFoot,14430,Spartak Moscow,FC Ufa,0,3,2021-04-18 16:00:00,,Dispossessed
+415954,67,SavedShot,0.7340000152587891,0.6630000305175782,0.010754699818789959,Quincy Promes,h,2815,OpenPlay,2020,RightFoot,14430,Spartak Moscow,FC Ufa,0,3,2021-04-18 16:00:00,,BallRecovery
+415957,71,SavedShot,0.759000015258789,0.7,0.0224239993840456,Quincy Promes,h,2815,FromCorner,2020,RightFoot,14430,Spartak Moscow,FC Ufa,0,3,2021-04-18 16:00:00,Victor Moses,Pass
+415963,87,BlockedShot,0.789000015258789,0.74,0.014314400032162666,Quincy Promes,h,2815,OpenPlay,2020,RightFoot,14430,Spartak Moscow,FC Ufa,0,3,2021-04-18 16:00:00,Nail Umiarov,BallRecovery
+417838,47,BlockedShot,0.7730000305175782,0.525,0.030733900144696236,Quincy Promes,h,2815,OpenPlay,2020,LeftFoot,14439,Spartak Moscow,CSKA Moscow,1,0,2021-04-25 13:30:00,Jordan Larsson,Pass
+417849,86,BlockedShot,0.7909999847412109,0.33099998474121095,0.09662999957799911,Quincy Promes,h,2815,OpenPlay,2020,RightFoot,14439,Spartak Moscow,CSKA Moscow,1,0,2021-04-25 13:30:00,Jordan Larsson,HeadPass
+417851,89,MissedShots,0.8590000152587891,0.620999984741211,0.0886417031288147,Quincy Promes,h,2815,OpenPlay,2020,LeftFoot,14439,Spartak Moscow,CSKA Moscow,1,0,2021-04-25 13:30:00,Victor Moses,Pass
+419413,5,MissedShots,0.9080000305175782,0.6480000305175782,0.06140980124473572,Quincy Promes,a,2815,OpenPlay,2020,LeftFoot,14446,Arsenal Tula,Spartak Moscow,1,2,2021-05-03 13:30:00,Victor Moses,Chipped
+419418,19,SavedShot,0.7869999694824219,0.6329999923706054,0.02680180035531521,Quincy Promes,a,2815,OpenPlay,2020,LeftFoot,14446,Arsenal Tula,Spartak Moscow,1,2,2021-05-03 13:30:00,Nail Umiarov,Pass
+419433,68,MissedShots,0.76,0.6020000076293945,0.01929200068116188,Quincy Promes,a,2815,OpenPlay,2020,RightFoot,14446,Arsenal Tula,Spartak Moscow,1,2,2021-05-03 13:30:00,Jordan Larsson,Pass
+420991,82,BlockedShot,0.845999984741211,0.48400001525878905,0.08779890090227127,Quincy Promes,h,2815,OpenPlay,2020,RightFoot,14456,Spartak Moscow,Khimki,2,1,2021-05-10 16:00:00,Ayrton Lucas,Pass
+420994,86,MissedShots,0.7709999847412109,0.6170000076293946,0.025850100442767143,Quincy Promes,h,2815,OpenPlay,2020,RightFoot,14456,Spartak Moscow,Khimki,2,1,2021-05-10 16:00:00,Roman Zobnin,Pass
+420996,92,SavedShot,0.8069999694824219,0.6179999923706054,0.05015769973397255,Quincy Promes,h,2815,OpenPlay,2020,RightFoot,14456,Spartak Moscow,Khimki,2,1,2021-05-10 16:00:00,Alexander Sobolev,Card
+422150,4,MissedShots,0.8690000152587891,0.5570000076293945,0.3346099853515625,Quincy Promes,a,2815,OpenPlay,2020,RightFoot,14460,FK Akhmat,Spartak Moscow,2,2,2021-05-16 11:00:00,Jordan Larsson,Pass
+422152,18,BlockedShot,0.7519999694824219,0.5259999847412109,0.02053230069577694,Quincy Promes,a,2815,OpenPlay,2020,RightFoot,14460,FK Akhmat,Spartak Moscow,2,2,2021-05-16 11:00:00,Jordan Larsson,Pass
+422153,18,MissedShots,0.85,0.5429999923706055,0.28576698899269104,Quincy Promes,a,2815,OpenPlay,2020,RightFoot,14460,FK Akhmat,Spartak Moscow,2,2,2021-05-16 11:00:00,Alexander Sobolev,Pass
+422161,46,SavedShot,0.69,0.5029999923706054,0.007659980095922947,Quincy Promes,a,2815,OpenPlay,2020,RightFoot,14460,FK Akhmat,Spartak Moscow,2,2,2021-05-16 11:00:00,,None
+422165,53,Goal,0.9009999847412109,0.51,0.354775995016098,Quincy Promes,a,2815,OpenPlay,2020,RightFoot,14460,FK Akhmat,Spartak Moscow,2,2,2021-05-16 11:00:00,Alex Kral,Pass
+422169,63,MissedShots,0.914000015258789,0.55,0.1287039965391159,Quincy Promes,a,2815,OpenPlay,2020,RightFoot,14460,FK Akhmat,Spartak Moscow,2,2,2021-05-16 11:00:00,Ayrton Lucas,Pass
+422170,69,SavedShot,0.8530000305175781,0.5359999847412109,0.07238049805164337,Quincy Promes,a,2815,OpenPlay,2020,RightFoot,14460,FK Akhmat,Spartak Moscow,2,2,2021-05-16 11:00:00,Alexander Sobolev,Pass
+424701,24,MissedShots,0.6559999847412109,0.5729999923706055,0.009274940006434917,Quincy Promes,a,2815,OpenPlay,2021,RightFoot,16139,Rubin Kazan,Spartak Moscow,1,0,2021-07-24 19:00:00,Roman Zobnin,Pass
+424702,27,SavedShot,0.765,0.7659999847412109,0.01280440017580986,Quincy Promes,a,2815,OpenPlay,2021,RightFoot,16139,Rubin Kazan,Spartak Moscow,1,0,2021-07-24 19:00:00,Jordan Larsson,Pass
+429990,12,MissedShots,0.924000015258789,0.545,0.1079379990696907,Quincy Promes,h,2815,OpenPlay,2021,Head,16185,Spartak Moscow,Khimki,3,1,2021-09-11 16:00:00,Victor Moses,Cross
+429993,23,MissedShots,0.77,0.4809999847412109,0.026129700243473053,Quincy Promes,h,2815,OpenPlay,2021,RightFoot,16185,Spartak Moscow,Khimki,3,1,2021-09-11 16:00:00,Ezequiel Ponce,Pass
+429999,47,Goal,0.8569999694824219,0.36700000762939455,0.07803309708833694,Quincy Promes,h,2815,OpenPlay,2021,RightFoot,16185,Spartak Moscow,Khimki,3,1,2021-09-11 16:00:00,Ezequiel Ponce,TakeOn
+430002,54,BlockedShot,0.71,0.6509999847412109,0.013592800125479698,Quincy Promes,h,2815,OpenPlay,2021,RightFoot,16185,Spartak Moscow,Khimki,3,1,2021-09-11 16:00:00,Ayrton Lucas,Pass
+432301,29,SavedShot,0.6969999694824218,0.590999984741211,0.013944500125944614,Quincy Promes,a,2815,OpenPlay,2021,RightFoot,16193,CSKA Moscow,Spartak Moscow,1,0,2021-09-20 16:30:00,Nail Umiarov,Pass
+432315,89,SavedShot,0.915,0.5579999923706055,0.38962599635124207,Quincy Promes,a,2815,OpenPlay,2021,RightFoot,16193,CSKA Moscow,Spartak Moscow,1,0,2021-09-20 16:30:00,Nikolai Rasskazov,HeadPass
+432316,94,SavedShot,0.884000015258789,0.7140000152587891,0.033589400351047516,Quincy Promes,a,2815,SetPiece,2021,RightFoot,16193,CSKA Moscow,Spartak Moscow,1,0,2021-09-20 16:30:00,,None
+433565,5,SavedShot,0.8480000305175781,0.48700000762939455,0.08586680144071579,Quincy Promes,h,2815,OpenPlay,2021,RightFoot,16201,Spartak Moscow,FC Ufa,2,0,2021-09-25 16:00:00,Samuel Gigot,Chipped
+433571,28,Goal,0.865999984741211,0.46099998474121096,0.28704899549484253,Quincy Promes,h,2815,OpenPlay,2021,RightFoot,16201,Spartak Moscow,FC Ufa,2,0,2021-09-25 16:00:00,,TakeOn
+433574,44,SavedShot,0.8809999847412109,0.5429999923706055,0.1264909952878952,Quincy Promes,h,2815,OpenPlay,2021,LeftFoot,16201,Spartak Moscow,FC Ufa,2,0,2021-09-25 16:00:00,Ayrton Lucas,Pass
+435697,2,SavedShot,0.695,0.6940000152587891,0.009530570358037949,Quincy Promes,a,2815,OpenPlay,2021,RightFoot,16212,FK Akhmat,Spartak Moscow,0,1,2021-10-03 16:00:00,Ayrton Lucas,Pass
+435699,7,MissedShots,0.759000015258789,0.5579999923706055,0.020943699404597282,Quincy Promes,a,2815,OpenPlay,2021,RightFoot,16212,FK Akhmat,Spartak Moscow,0,1,2021-10-03 16:00:00,Ayrton Lucas,Pass
+435701,15,MissedShots,0.7469999694824219,0.5409999847412109,0.01810009963810444,Quincy Promes,a,2815,OpenPlay,2021,RightFoot,16212,FK Akhmat,Spartak Moscow,0,1,2021-10-03 16:00:00,Victor Moses,Pass
+438547,52,Goal,0.8830000305175781,0.5470000076293945,0.0880741998553276,Quincy Promes,a,2815,OpenPlay,2021,LeftFoot,16224,Zenit St. Petersburg,Spartak Moscow,7,1,2021-10-24 16:00:00,Alexander Sobolev,BallTouch
+439462,17,MissedShots,0.7630000305175781,0.669000015258789,0.014434300363063812,Quincy Promes,h,2815,OpenPlay,2021,RightFoot,16233,Spartak Moscow,FC Rostov,1,1,2021-10-30 13:30:00,Alexander Sobolev,Pass
+439473,60,BlockedShot,0.7759999847412109,0.575999984741211,0.01342140045017004,Quincy Promes,h,2815,OpenPlay,2021,RightFoot,16233,Spartak Moscow,FC Rostov,1,1,2021-10-30 13:30:00,,Aerial
+439476,67,SavedShot,0.9130000305175782,0.5179999923706055,0.12447299808263779,Quincy Promes,h,2815,OpenPlay,2021,LeftFoot,16233,Spartak Moscow,FC Rostov,1,1,2021-10-30 13:30:00,Alexander Sobolev,Cross
+441811,70,BlockedShot,0.8519999694824218,0.639000015258789,0.04451199993491173,Quincy Promes,h,2815,OpenPlay,2021,RightFoot,16240,Spartak Moscow,Lokomotiv Moscow,1,1,2021-11-07 16:00:00,Alexander Sobolev,Pass
+442724,29,BlockedShot,0.7859999847412109,0.6909999847412109,0.02282870002090931,Quincy Promes,a,2815,OpenPlay,2021,RightFoot,16250,FC Krasnodar,Spartak Moscow,2,1,2021-11-20 16:00:00,Victor Moses,Pass
+442731,49,MissedShots,0.845999984741211,0.63,0.03981510177254677,Quincy Promes,a,2815,OpenPlay,2021,RightFoot,16250,FC Krasnodar,Spartak Moscow,2,1,2021-11-20 16:00:00,Alexander Sobolev,Chipped
+445977,9,SavedShot,0.7319999694824219,0.25,0.031031599268317223,Quincy Promes,h,2815,DirectFreekick,2021,RightFoot,16265,Spartak Moscow,FK Akhmat,2,1,2021-12-04 14:00:00,,Standard
+445979,10,SavedShot,0.8519999694824218,0.695,0.035490598529577255,Quincy Promes,h,2815,OpenPlay,2021,LeftFoot,16265,Spartak Moscow,FK Akhmat,2,1,2021-12-04 14:00:00,,None
+445986,41,MissedShots,0.8290000152587891,0.6580000305175782,0.12896999716758728,Quincy Promes,h,2815,OpenPlay,2021,RightFoot,16265,Spartak Moscow,FK Akhmat,2,1,2021-12-04 14:00:00,Giorgi Jikia,TakeOn
+445997,86,Goal,0.9209999847412109,0.435,0.11490099877119064,Quincy Promes,h,2815,OpenPlay,2021,RightFoot,16265,Spartak Moscow,FK Akhmat,2,1,2021-12-04 14:00:00,Roman Zobnin,Cross
+448685,15,SavedShot,0.8540000152587891,0.6170000076293946,0.07819080352783203,Quincy Promes,a,2815,OpenPlay,2021,RightFoot,16279,PFC Sochi,Spartak Moscow,3,0,2021-12-13 16:00:00,Zelimkhan Bakaev,Pass
+448694,44,SavedShot,0.96,0.6120000076293945,0.3070850074291229,Quincy Promes,a,2815,OpenPlay,2021,LeftFoot,16279,PFC Sochi,Spartak Moscow,3,0,2021-12-13 16:00:00,Alexander Lomovitskiy,Pass
+448695,47,SavedShot,0.9159999847412109,0.8080000305175781,0.06267750263214111,Quincy Promes,a,2815,DirectFreekick,2021,RightFoot,16279,PFC Sochi,Spartak Moscow,3,0,2021-12-13 16:00:00,,Standard
+448699,61,MissedShots,0.8819999694824219,0.34299999237060547,0.05951390042901039,Quincy Promes,a,2815,OpenPlay,2021,RightFoot,16279,PFC Sochi,Spartak Moscow,3,0,2021-12-13 16:00:00,Samuel Gigot,Pass
+448700,63,MissedShots,0.7780000305175782,0.715,0.04881549999117851,Quincy Promes,a,2815,DirectFreekick,2021,RightFoot,16279,PFC Sochi,Spartak Moscow,3,0,2021-12-13 16:00:00,,Standard
+448713,93,BlockedShot,0.8580000305175781,0.7319999694824219,0.020006999373435974,Quincy Promes,a,2815,OpenPlay,2021,RightFoot,16279,PFC Sochi,Spartak Moscow,3,0,2021-12-13 16:00:00,,None
+459900,3,MissedShots,0.77,0.38599998474121094,0.023517899215221405,Quincy Promes,h,2815,OpenPlay,2021,RightFoot,16281,Spartak Moscow,CSKA Moscow,0,2,2022-02-26 16:00:00,,BallRecovery
+459909,38,ShotOnPost,0.8090000152587891,0.46,0.05493750050663948,Quincy Promes,h,2815,OpenPlay,2021,RightFoot,16281,Spartak Moscow,CSKA Moscow,0,2,2022-02-26 16:00:00,Victor Moses,Pass
+459920,84,BlockedShot,0.82,0.745,0.02080320008099079,Quincy Promes,h,2815,OpenPlay,2021,RightFoot,16281,Spartak Moscow,CSKA Moscow,0,2,2022-02-26 16:00:00,Christopher Martins Pereira,Pass
+459921,85,BlockedShot,0.805,0.5479999923706055,0.03717530146241188,Quincy Promes,h,2815,OpenPlay,2021,RightFoot,16281,Spartak Moscow,CSKA Moscow,0,2,2022-02-26 16:00:00,Samuel Gigot,Pass
+459922,85,BlockedShot,0.855,0.545,0.05188180133700371,Quincy Promes,h,2815,OpenPlay,2021,LeftFoot,16281,Spartak Moscow,CSKA Moscow,0,2,2022-02-26 16:00:00,,Rebound
+459924,91,BlockedShot,0.8969999694824219,0.6809999847412109,0.07277730107307434,Quincy Promes,h,2815,OpenPlay,2021,LeftFoot,16281,Spartak Moscow,CSKA Moscow,0,2,2022-02-26 16:00:00,Jordan Larsson,Pass
+461734,36,Goal,0.7669999694824219,0.600999984741211,0.03163729980587959,Quincy Promes,a,2815,OpenPlay,2021,RightFoot,16294,Dinamo Moscow,Spartak Moscow,0,2,2022-03-06 16:00:00,Zelimkhan Bakaev,Pass
+461737,54,MissedShots,0.785,0.6759999847412109,0.061200499534606934,Quincy Promes,a,2815,DirectFreekick,2021,RightFoot,16294,Dinamo Moscow,Spartak Moscow,0,2,2022-03-06 16:00:00,,Standard
+461746,90,MissedShots,0.865999984741211,0.5579999923706055,0.32197898626327515,Quincy Promes,a,2815,OpenPlay,2021,RightFoot,16294,Dinamo Moscow,Spartak Moscow,0,2,2022-03-06 16:00:00,Roman Zobnin,Chipped
+463163,23,MissedShots,0.7769999694824219,0.4490000152587891,0.024803200736641884,Quincy Promes,h,2815,OpenPlay,2021,RightFoot,16296,Spartak Moscow,FC Krasnodar,1,2,2022-03-13 16:00:00,Christopher Martins Pereira,Pass
+463168,37,Goal,0.885,0.5,0.7542750239372253,Quincy Promes,h,2815,Penalty,2021,RightFoot,16296,Spartak Moscow,FC Krasnodar,1,2,2022-03-13 16:00:00,,Standard
+463181,90,BlockedShot,0.870999984741211,0.6730000305175782,0.058932799845933914,Quincy Promes,h,2815,OpenPlay,2021,RightFoot,16296,Spartak Moscow,FC Krasnodar,1,2,2022-03-13 16:00:00,Ayrton Lucas,TakeOn
+463794,7,BlockedShot,0.77,0.610999984741211,0.023398099467158318,Quincy Promes,a,2815,OpenPlay,2021,RightFoot,16305,Nizhny Novgorod,Spartak Moscow,1,1,2022-03-19 11:00:00,Roman Zobnin,Pass
+463804,51,MissedShots,0.8230000305175781,0.735,0.015283499844372272,Quincy Promes,a,2815,OpenPlay,2021,RightFoot,16305,Nizhny Novgorod,Spartak Moscow,1,1,2022-03-19 11:00:00,Roman Zobnin,Chipped
+463809,66,SavedShot,0.8480000305175781,0.7319999694824219,0.029048999771475792,Quincy Promes,a,2815,OpenPlay,2021,RightFoot,16305,Nizhny Novgorod,Spartak Moscow,1,1,2022-03-19 11:00:00,Christopher Martins Pereira,Pass
+463816,85,BlockedShot,0.7959999847412109,0.7040000152587891,0.0440031997859478,Quincy Promes,a,2815,OpenPlay,2021,RightFoot,16305,Nizhny Novgorod,Spartak Moscow,1,1,2022-03-19 11:00:00,Christopher Martins Pereira,Pass
+471987,73,SavedShot,0.9430000305175781,0.6129999923706054,0.28872498869895935,Quincy Promes,h,2815,OpenPlay,2021,RightFoot,16351,Spartak Moscow,Krylya Sovetov Samara,2,1,2022-05-01 11:00:00,Ruslan Litvinov,Cross
+471992,81,SavedShot,0.9590000152587891,0.605999984741211,0.29823800921440125,Quincy Promes,h,2815,OpenPlay,2021,LeftFoot,16351,Spartak Moscow,Krylya Sovetov Samara,2,1,2022-05-01 11:00:00,Victor Moses,Cross
+472864,28,BlockedShot,0.779000015258789,0.47099998474121096,0.037477198988199234,Quincy Promes,a,2815,OpenPlay,2021,RightFoot,16359,Ural,Spartak Moscow,1,3,2022-05-07 11:00:00,Ruslan Litvinov,BallRecovery
+476470,66,SavedShot,0.7919999694824219,0.6569999694824219,0.034608498215675354,Quincy Promes,h,2815,OpenPlay,2021,RightFoot,16360,Spartak Moscow,Zenit St. Petersburg,1,1,2022-05-15 13:30:00,,BallRecovery
+478405,50,MissedShots,0.8830000305175781,0.43599998474121093,0.06036579981446266,Quincy Promes,a,2815,OpenPlay,2022,RightFoot,20031,FK Akhmat,Spartak Moscow,1,1,2022-07-16 17:00:00,Alexander Sobolev,HeadPass
+478726,14,MissedShots,0.7319999694824219,0.7669999694824219,0.011119999922811985,Quincy Promes,a,2815,OpenPlay,2022,RightFoot,20039,FC Krasnodar,Spartak Moscow,1,4,2022-07-23 17:00:00,Daniil Khlusevich,Pass
+478736,45,Goal,0.904000015258789,0.5279999923706055,0.48631900548934937,Quincy Promes,a,2815,OpenPlay,2022,RightFoot,20039,FC Krasnodar,Spartak Moscow,1,4,2022-07-23 17:00:00,Daniil Khlusevich,TakeOn
+478741,54,MissedShots,0.7780000305175782,0.5640000152587891,0.08191719651222229,Quincy Promes,a,2815,DirectFreekick,2022,RightFoot,20039,FC Krasnodar,Spartak Moscow,1,4,2022-07-23 17:00:00,,Standard
+478745,71,SavedShot,0.9009999847412109,0.6530000305175782,0.2521989941596985,Quincy Promes,a,2815,OpenPlay,2022,RightFoot,20039,FC Krasnodar,Spartak Moscow,1,4,2022-07-23 17:00:00,Roman Zobnin,Pass
+478753,91,MissedShots,0.8769999694824219,0.42900001525878906,0.0829429030418396,Quincy Promes,a,2815,OpenPlay,2022,RightFoot,20039,FC Krasnodar,Spartak Moscow,1,4,2022-07-23 17:00:00,,Rebound
+478907,13,BlockedShot,0.960999984741211,0.6659999847412109,0.06462190300226212,Quincy Promes,h,2815,OpenPlay,2022,LeftFoot,20049,Spartak Moscow,FC Orenburg,4,1,2022-07-31 14:30:00,Victor Moses,BallRecovery
+478913,37,Goal,0.889000015258789,0.5629999923706055,0.12524299323558807,Quincy Promes,h,2815,OpenPlay,2022,RightFoot,20049,Spartak Moscow,FC Orenburg,4,1,2022-07-31 14:30:00,Daniil Khlusevich,Cross
+478920,56,MissedShots,0.749000015258789,0.48200000762939454,0.02158069983124733,Quincy Promes,h,2815,OpenPlay,2022,RightFoot,20049,Spartak Moscow,FC Orenburg,4,1,2022-07-31 14:30:00,Alexander Sobolev,Pass
+478921,62,MissedShots,0.740999984741211,0.38,0.027407299727201462,Quincy Promes,h,2815,OpenPlay,2022,RightFoot,20049,Spartak Moscow,FC Orenburg,4,1,2022-07-31 14:30:00,Ruslan Litvinov,Pass
+478924,70,BlockedShot,0.8809999847412109,0.500999984741211,0.14456699788570404,Quincy Promes,h,2815,OpenPlay,2022,RightFoot,20049,Spartak Moscow,FC Orenburg,4,1,2022-07-31 14:30:00,,Rebound
+478928,88,SavedShot,0.855999984741211,0.5120000076293946,0.14240500330924988,Quincy Promes,h,2815,OpenPlay,2022,RightFoot,20049,Spartak Moscow,FC Orenburg,4,1,2022-07-31 14:30:00,Roman Zobnin,Throughball
+478929,88,BlockedShot,0.9069999694824219,0.5479999923706055,0.1435849964618683,Quincy Promes,h,2815,OpenPlay,2022,LeftFoot,20049,Spartak Moscow,FC Orenburg,4,1,2022-07-31 14:30:00,Roman Zobnin,Pass
+478930,91,BlockedShot,0.904000015258789,0.549000015258789,0.48868298530578613,Quincy Promes,h,2815,OpenPlay,2022,LeftFoot,20049,Spartak Moscow,FC Orenburg,4,1,2022-07-31 14:30:00,Roman Zobnin,Pass
+478931,93,SavedShot,0.885,0.5,0.7542750239372253,Quincy Promes,h,2815,Penalty,2022,RightFoot,20049,Spartak Moscow,FC Orenburg,4,1,2022-07-31 14:30:00,,Standard
+478932,93,Goal,0.925,0.5570000076293945,0.4929879903793335,Quincy Promes,h,2815,SetPiece,2022,RightFoot,20049,Spartak Moscow,FC Orenburg,4,1,2022-07-31 14:30:00,,Rebound
+479084,18,BlockedShot,0.8780000305175781,0.615,0.12736299633979797,Quincy Promes,a,2815,OpenPlay,2022,RightFoot,20052,Ural,Spartak Moscow,0,2,2022-08-06 12:00:00,Alexander Sobolev,Throughball
+479088,26,Goal,0.875,0.4759999847412109,0.11040899902582169,Quincy Promes,a,2815,OpenPlay,2022,RightFoot,20052,Ural,Spartak Moscow,0,2,2022-08-06 12:00:00,Alexander Sobolev,Pass
+479089,34,MissedShots,0.7869999694824219,0.7330000305175781,0.0485633984208107,Quincy Promes,a,2815,DirectFreekick,2022,RightFoot,20052,Ural,Spartak Moscow,0,2,2022-08-06 12:00:00,,Standard
+479093,47,SavedShot,0.7330000305175781,0.6730000305175782,0.01451180037111044,Quincy Promes,a,2815,OpenPlay,2022,RightFoot,20052,Ural,Spartak Moscow,0,2,2022-08-06 12:00:00,Daniil Khlusevich,Pass
+479099,55,ShotOnPost,0.85,0.5720000076293945,0.31641900539398193,Quincy Promes,a,2815,OpenPlay,2022,RightFoot,20052,Ural,Spartak Moscow,0,2,2022-08-06 12:00:00,Mikhail Ignatov,Chipped
+479102,58,SavedShot,0.8919999694824219,0.6669999694824219,0.28348100185394287,Quincy Promes,a,2815,OpenPlay,2022,LeftFoot,20052,Ural,Spartak Moscow,0,2,2022-08-06 12:00:00,Mikhail Ignatov,Pass
+479110,67,MissedShots,0.899000015258789,0.46099998474121096,0.1263190060853958,Quincy Promes,a,2815,OpenPlay,2022,RightFoot,20052,Ural,Spartak Moscow,0,2,2022-08-06 12:00:00,Mikhail Ignatov,LayOff
+479113,78,SavedShot,0.8730000305175781,0.36400001525878906,0.15784400701522827,Quincy Promes,a,2815,OpenPlay,2022,RightFoot,20052,Ural,Spartak Moscow,0,2,2022-08-06 12:00:00,Mikhail Ignatov,Throughball
+481155,56,Goal,0.855,0.425,0.32318899035453796,Quincy Promes,h,2815,OpenPlay,2022,RightFoot,20067,Spartak Moscow,PFC Sochi,3,0,2022-08-14 17:00:00,Mikhail Ignatov,None
+481156,59,BlockedShot,0.884000015258789,0.66,0.0874188020825386,Quincy Promes,h,2815,OpenPlay,2022,RightFoot,20067,Spartak Moscow,PFC Sochi,3,0,2022-08-14 17:00:00,Roman Zobnin,Pass
+481157,61,SavedShot,0.9730000305175781,0.610999984741211,0.09891189634799957,Quincy Promes,h,2815,OpenPlay,2022,RightFoot,20067,Spartak Moscow,PFC Sochi,3,0,2022-08-14 17:00:00,Alexander Sobolev,TakeOn
+481162,80,BlockedShot,0.755,0.6809999847412109,0.02709049917757511,Quincy Promes,h,2815,OpenPlay,2022,RightFoot,20067,Spartak Moscow,PFC Sochi,3,0,2022-08-14 17:00:00,Roman Zobnin,Pass
+481165,83,Goal,0.8590000152587891,0.5629999923706055,0.061723701655864716,Quincy Promes,h,2815,OpenPlay,2022,RightFoot,20067,Spartak Moscow,PFC Sochi,3,0,2022-08-14 17:00:00,Roman Zobnin,TakeOn
+481903,9,MissedShots,0.925,0.6569999694824219,0.08805059641599655,Quincy Promes,a,2815,OpenPlay,2022,LeftFoot,20072,Dinamo Moscow,Spartak Moscow,1,0,2022-08-20 14:30:00,Roman Zobnin,Pass
+481922,60,BlockedShot,0.8369999694824218,0.8469999694824218,0.03788299858570099,Quincy Promes,a,2815,DirectFreekick,2022,RightFoot,20072,Dinamo Moscow,Spartak Moscow,1,0,2022-08-20 14:30:00,,Standard
+483731,3,SavedShot,0.8969999694824219,0.8540000152587891,0.045382000505924225,Quincy Promes,a,2815,DirectFreekick,2022,RightFoot,20078,Fakel,Spartak Moscow,1,4,2022-08-27 14:30:00,,Standard
+483736,12,SavedShot,0.7959999847412109,0.655,0.027479300275444984,Quincy Promes,a,2815,OpenPlay,2022,RightFoot,20078,Fakel,Spartak Moscow,1,4,2022-08-27 14:30:00,,None
+483744,43,BlockedShot,0.7859999847412109,0.565,0.03184359893202782,Quincy Promes,a,2815,OpenPlay,2022,RightFoot,20078,Fakel,Spartak Moscow,1,4,2022-08-27 14:30:00,Nail Umiarov,Pass
+483762,93,Goal,0.91,0.6329999923706054,0.08046209812164307,Quincy Promes,a,2815,OpenPlay,2022,LeftFoot,20078,Fakel,Spartak Moscow,1,4,2022-08-27 14:30:00,Alexander Sobolev,TakeOn
+483763,95,MissedShots,0.9490000152587891,0.3509999847412109,0.09745769947767258,Quincy Promes,a,2815,OpenPlay,2022,RightFoot,20078,Fakel,Spartak Moscow,1,4,2022-08-27 14:30:00,Danil Denisov,Pass
+486812,92,SavedShot,0.8680000305175781,0.5840000152587891,0.08095130324363708,Quincy Promes,h,2815,OpenPlay,2022,RightFoot,20087,Spartak Moscow,Zenit St. Petersburg,1,2,2022-09-04 17:00:00,Shamar Nicholson,Pass
+488180,23,Goal,0.9080000305175782,0.49200000762939455,0.3411110043525696,Quincy Promes,a,2815,OpenPlay,2022,RightFoot,20098,FC Rostov,Spartak Moscow,4,2,2022-09-11 16:45:00,Maciej Rybus,Cross
+489498,15,BlockedShot,0.7959999847412109,0.629000015258789,0.03221290186047554,Quincy Promes,h,2815,OpenPlay,2022,RightFoot,20105,Spartak Moscow,Lokomotiv Moscow,1,0,2022-09-18 16:00:00,Danil Prutsev,Pass
+489500,22,BlockedShot,0.8819999694824219,0.7609999847412109,0.026720799505710602,Quincy Promes,h,2815,OpenPlay,2022,RightFoot,20105,Spartak Moscow,Lokomotiv Moscow,1,0,2022-09-18 16:00:00,,None
+489507,45,SavedShot,0.8969999694824219,0.8530000305175781,0.045639801770448685,Quincy Promes,h,2815,DirectFreekick,2022,RightFoot,20105,Spartak Moscow,Lokomotiv Moscow,1,0,2022-09-18 16:00:00,,Standard
+489514,64,BlockedShot,0.769000015258789,0.4879999923706055,0.040222298353910446,Quincy Promes,h,2815,OpenPlay,2022,RightFoot,20105,Spartak Moscow,Lokomotiv Moscow,1,0,2022-09-18 16:00:00,,None
+489518,69,BlockedShot,0.8090000152587891,0.6,0.0544327013194561,Quincy Promes,h,2815,OpenPlay,2022,RightFoot,20105,Spartak Moscow,Lokomotiv Moscow,1,0,2022-09-18 16:00:00,,None
+489521,89,SavedShot,0.889000015258789,0.9619999694824218,0.02739180065691471,Quincy Promes,h,2815,DirectFreekick,2022,RightFoot,20105,Spartak Moscow,Lokomotiv Moscow,1,0,2022-09-18 16:00:00,,Standard
+490972,10,BlockedShot,0.7780000305175782,0.5029999923706054,0.02846750058233738,Quincy Promes,a,2815,OpenPlay,2022,RightFoot,20109,Nizhny Novgorod,Spartak Moscow,1,2,2022-10-02 16:00:00,Shamar Nicholson,Rebound
+490979,49,BlockedShot,0.8780000305175781,0.580999984741211,0.06525179743766785,Quincy Promes,a,2815,OpenPlay,2022,RightFoot,20109,Nizhny Novgorod,Spartak Moscow,1,2,2022-10-02 16:00:00,,None
+490989,74,Goal,0.885,0.5,0.7542750239372253,Quincy Promes,a,2815,Penalty,2022,RightFoot,20109,Nizhny Novgorod,Spartak Moscow,1,2,2022-10-02 16:00:00,,Standard
+491950,4,MissedShots,0.8219999694824218,0.33799999237060546,0.03480549901723862,Quincy Promes,h,2815,OpenPlay,2022,RightFoot,20120,Spartak Moscow,Krylya Sovetov Samara,5,2,2022-10-09 11:00:00,,None
+491954,12,BlockedShot,0.78,0.515,0.03352459892630577,Quincy Promes,h,2815,OpenPlay,2022,RightFoot,20120,Spartak Moscow,Krylya Sovetov Samara,5,2,2022-10-09 11:00:00,Giorgi Jikia,Pass
+491965,49,Goal,0.865,0.445,0.052231501787900925,Quincy Promes,h,2815,OpenPlay,2022,RightFoot,20120,Spartak Moscow,Krylya Sovetov Samara,5,2,2022-10-09 11:00:00,Danil Denisov,HeadPass
+491973,86,ShotOnPost,0.8980000305175782,0.7090000152587891,0.04513619840145111,Quincy Promes,h,2815,OpenPlay,2022,LeftFoot,20120,Spartak Moscow,Krylya Sovetov Samara,5,2,2022-10-09 11:00:00,,None
+491975,94,Goal,0.830999984741211,0.6580000305175782,0.05737460032105446,Quincy Promes,h,2815,OpenPlay,2022,LeftFoot,20120,Spartak Moscow,Krylya Sovetov Samara,5,2,2022-10-09 11:00:00,Pavel Maslov,Pass
+493944,35,SavedShot,0.799000015258789,0.7569999694824219,0.018836800009012222,Quincy Promes,a,2815,OpenPlay,2022,RightFoot,20124,CSKA Moscow,Spartak Moscow,2,2,2022-10-16 17:00:00,Roman Zobnin,Pass
+497071,40,BlockedShot,0.9459999847412109,0.549000015258789,0.5682610273361206,Quincy Promes,h,2815,OpenPlay,2022,RightFoot,20140,Spartak Moscow,Torpedo Moscow,1,0,2022-10-30 13:30:00,Shamar Nicholson,Pass
+497074,48,MissedShots,0.8569999694824219,0.65,0.04901859909296036,Quincy Promes,h,2815,OpenPlay,2022,RightFoot,20140,Spartak Moscow,Torpedo Moscow,1,0,2022-10-30 13:30:00,Roman Zobnin,Pass
+497075,49,Goal,0.9430000305175781,0.5420000076293945,0.5834270119667053,Quincy Promes,h,2815,OpenPlay,2022,RightFoot,20140,Spartak Moscow,Torpedo Moscow,1,0,2022-10-30 13:30:00,,None
+497084,85,SavedShot,0.9080000305175782,0.6140000152587891,0.11783900111913681,Quincy Promes,h,2815,OpenPlay,2022,LeftFoot,20140,Spartak Moscow,Torpedo Moscow,1,0,2022-10-30 13:30:00,Anton Zinkovskiy,Pass
+497760,4,BlockedShot,0.8,0.6370000076293946,0.030745400115847588,Quincy Promes,a,2815,OpenPlay,2022,RightFoot,20151,PFC Sochi,Spartak Moscow,1,1,2022-11-05 11:00:00,,None
+497761,6,Goal,0.8980000305175782,0.509000015258789,0.255715012550354,Quincy Promes,a,2815,OpenPlay,2022,Head,20151,PFC Sochi,Spartak Moscow,1,1,2022-11-05 11:00:00,Danil Denisov,Cross
+497764,39,BlockedShot,0.9019999694824219,0.505,0.14321400225162506,Quincy Promes,a,2815,OpenPlay,2022,RightFoot,20151,PFC Sochi,Spartak Moscow,1,1,2022-11-05 11:00:00,Daniil Khlusevich,Pass
+497773,57,MissedShots,0.6819999694824219,0.395,0.010639900341629982,Quincy Promes,a,2815,OpenPlay,2022,RightFoot,20151,PFC Sochi,Spartak Moscow,1,1,2022-11-05 11:00:00,Danil Prutsev,BallRecovery
+497774,59,MissedShots,0.9690000152587891,0.600999984741211,0.37685200572013855,Quincy Promes,a,2815,OpenPlay,2022,RightFoot,20151,PFC Sochi,Spartak Moscow,1,1,2022-11-05 11:00:00,Mikhail Ignatov,Pass
+500244,8,SavedShot,0.725,0.6930000305175781,0.010276200249791145,Quincy Promes,a,2815,OpenPlay,2022,RightFoot,20158,Lokomotiv Moscow,Spartak Moscow,1,2,2022-11-12 16:30:00,Danil Denisov,BallRecovery
+500245,20,Goal,0.885,0.5,0.7542750239372253,Quincy Promes,a,2815,Penalty,2022,RightFoot,20158,Lokomotiv Moscow,Spartak Moscow,1,2,2022-11-12 16:30:00,,Standard
+500257,64,BlockedShot,0.9180000305175782,0.49400001525878906,0.14556600153446198,Quincy Promes,a,2815,OpenPlay,2022,RightFoot,20158,Lokomotiv Moscow,Spartak Moscow,1,2,2022-11-12 16:30:00,Alexander Sobolev,Cross
+500258,66,SavedShot,0.8480000305175781,0.5659999847412109,0.09560810029506683,Quincy Promes,a,2815,OpenPlay,2022,RightFoot,20158,Lokomotiv Moscow,Spartak Moscow,1,2,2022-11-12 16:30:00,Alexander Sobolev,LayOff
+500263,85,SavedShot,0.8690000152587891,0.635,0.31744199991226196,Quincy Promes,a,2815,OpenPlay,2022,LeftFoot,20158,Lokomotiv Moscow,Spartak Moscow,1,2,2022-11-12 16:30:00,Danil Denisov,Chipped
+511852,17,SavedShot,0.9080000305175782,0.40700000762939453,0.36397498846054077,Quincy Promes,h,2815,OpenPlay,2022,LeftFoot,20168,Spartak Moscow,Ural,2,2,2023-03-04 11:00:00,Mikhail Ignatov,Pass
+511858,39,MissedShots,0.775,0.750999984741211,0.04106669872999191,Quincy Promes,h,2815,DirectFreekick,2022,RightFoot,20168,Spartak Moscow,Ural,2,2,2023-03-04 11:00:00,,Standard
+511864,65,BlockedShot,0.885,0.68,0.05888979882001877,Quincy Promes,h,2815,OpenPlay,2022,RightFoot,20168,Spartak Moscow,Ural,2,2,2023-03-04 11:00:00,Tomás Tavares,Pass
+511869,82,SavedShot,0.769000015258789,0.725999984741211,0.01699640043079853,Quincy Promes,h,2815,OpenPlay,2022,RightFoot,20168,Spartak Moscow,Ural,2,2,2023-03-04 11:00:00,Danil Prutsev,Pass
+511871,91,SavedShot,0.7980000305175782,0.5840000152587891,0.02539980039000511,Quincy Promes,h,2815,OpenPlay,2022,RightFoot,20168,Spartak Moscow,Ural,2,2,2023-03-04 11:00:00,Anton Zinkovskiy,Cross
+511872,93,BlockedShot,0.9180000305175782,0.6,0.12052100151777267,Quincy Promes,h,2815,OpenPlay,2022,RightFoot,20168,Spartak Moscow,Ural,2,2,2023-03-04 11:00:00,Anton Zinkovskiy,Pass
+513290,17,Goal,0.95,0.48200000762939454,0.6413620114326477,Quincy Promes,h,2815,OpenPlay,2022,RightFoot,20172,Spartak Moscow,Fakel,3,2,2023-03-11 13:30:00,,Rebound
+513291,21,BlockedShot,0.835,0.7240000152587891,0.03448599949479103,Quincy Promes,h,2815,OpenPlay,2022,RightFoot,20172,Spartak Moscow,Fakel,3,2,2023-03-11 13:30:00,Roman Zobnin,Pass
+513295,40,Goal,0.8809999847412109,0.615999984741211,0.2748189866542816,Quincy Promes,h,2815,OpenPlay,2022,LeftFoot,20172,Spartak Moscow,Fakel,3,2,2023-03-11 13:30:00,Ruslan Litvinov,TakeOn
+513305,70,ShotOnPost,0.789000015258789,0.5329999923706055,0.10127200186252594,Quincy Promes,h,2815,DirectFreekick,2022,RightFoot,20172,Spartak Moscow,Fakel,3,2,2023-03-11 13:30:00,,Standard
+514723,26,SavedShot,0.7959999847412109,0.7680000305175781,0.009504109621047974,Quincy Promes,a,2815,OpenPlay,2022,RightFoot,20186,FC Orenburg,Spartak Moscow,2,0,2023-03-18 09:00:00,,None
+514727,46,MissedShots,0.8130000305175781,0.5540000152587891,0.14323900640010834,Quincy Promes,a,2815,DirectFreekick,2022,RightFoot,20186,FC Orenburg,Spartak Moscow,2,0,2023-03-18 09:00:00,,Standard
+521840,77,BlockedShot,0.764000015258789,0.6790000152587891,0.016646334901452065,Quincy Promes,h,2815,OpenPlay,2022,RightFoot,20216,Spartak Moscow,FC Krasnodar,4,3,2023-04-24 16:00:00,Anton Zinkovskiy,Pass
+521844,83,Goal,0.905,0.5729999923706055,0.10513295233249664,Quincy Promes,h,2815,OpenPlay,2022,RightFoot,20216,Spartak Moscow,FC Krasnodar,4,3,2023-04-24 16:00:00,,Rebound
+521843,83,BlockedShot,0.855999984741211,0.5479999923706055,0.08915717154741287,Quincy Promes,h,2815,OpenPlay,2022,RightFoot,20216,Spartak Moscow,FC Krasnodar,4,3,2023-04-24 16:00:00,Shamar Nicholson,Pass
+522939,70,BlockedShot,0.8290000152587891,0.29600000381469727,0.06881272792816162,Quincy Promes,h,2815,OpenPlay,2022,RightFoot,20227,Spartak Moscow,FC Rostov,1,1,2023-04-29 16:00:00,Alexander Sobolev,BallRecovery
+525102,25,BlockedShot,0.9459999847412109,0.6809999847412109,0.04821430891752243,Quincy Promes,a,2815,OpenPlay,2022,RightFoot,20229,Zenit St. Petersburg,Spartak Moscow,3,2,2023-05-07 15:00:00,,Rebound
+525118,84,Goal,0.885,0.5,0.7542753219604492,Quincy Promes,a,2815,Penalty,2022,RightFoot,20229,Zenit St. Petersburg,Spartak Moscow,3,2,2023-05-07 15:00:00,,Standard
+525694,26,MissedShots,0.710999984741211,0.6509999847412109,0.03389810025691986,Quincy Promes,a,2815,DirectFreekick,2022,RightFoot,20243,Khimki,Spartak Moscow,1,1,2023-05-13 11:00:00,,Standard
+525703,54,SavedShot,0.8959999847412109,0.33599998474121096,0.10506550222635269,Quincy Promes,a,2815,OpenPlay,2022,RightFoot,20243,Khimki,Spartak Moscow,1,1,2023-05-13 11:00:00,Ruslan Litvinov,Throughball
+528036,5,BlockedShot,0.7519999694824219,0.735999984741211,0.01582062803208828,Quincy Promes,h,2815,OpenPlay,2022,RightFoot,20251,Spartak Moscow,CSKA Moscow,2,1,2023-05-21 13:30:00,Roman Zobnin,Pass
+528048,42,Goal,0.9580000305175781,0.5870000076293945,0.20048344135284424,Quincy Promes,h,2815,OpenPlay,2022,Head,20251,Spartak Moscow,CSKA Moscow,2,1,2023-05-21 13:30:00,Anton Zinkovskiy,Cross
+528053,74,SavedShot,0.8680000305175781,0.6659999847412109,0.06167226284742355,Quincy Promes,h,2815,OpenPlay,2022,RightFoot,20251,Spartak Moscow,CSKA Moscow,2,1,2023-05-21 13:30:00,Roman Zobnin,Pass
+528057,89,Goal,0.889000015258789,0.3970000076293945,0.33555686473846436,Quincy Promes,h,2815,SetPiece,2022,RightFoot,20251,Spartak Moscow,CSKA Moscow,2,1,2023-05-21 13:30:00,,Rebound
+528056,89,SavedShot,0.885,0.5,0.7542753219604492,Quincy Promes,h,2815,Penalty,2022,RightFoot,20251,Spartak Moscow,CSKA Moscow,2,1,2023-05-21 13:30:00,,Standard
+529565,46,BlockedShot,0.955999984741211,0.46,0.6256281137466431,Quincy Promes,h,2815,OpenPlay,2022,RightFoot,20259,Spartak Moscow,Nizhny Novgorod,0,0,2023-05-28 11:00:00,Danil Denisov,Pass
+529567,54,BlockedShot,0.8880000305175781,0.6469999694824219,0.02276882901787758,Quincy Promes,h,2815,FromCorner,2022,RightFoot,20259,Spartak Moscow,Nizhny Novgorod,0,0,2023-05-28 11:00:00,,Aerial
+529568,54,BlockedShot,0.78,0.6619999694824219,0.03329205885529518,Quincy Promes,h,2815,FromCorner,2022,RightFoot,20259,Spartak Moscow,Nizhny Novgorod,0,0,2023-05-28 11:00:00,Tomás Tavares,Pass
+529576,78,BlockedShot,0.8180000305175781,0.6930000305175781,0.021570254117250443,Quincy Promes,h,2815,FromCorner,2022,RightFoot,20259,Spartak Moscow,Nizhny Novgorod,0,0,2023-05-28 11:00:00,Anton Zinkovskiy,Pass
+529585,94,MissedShots,0.8109999847412109,0.745,0.01649267040193081,Quincy Promes,h,2815,FromCorner,2022,RightFoot,20259,Spartak Moscow,Nizhny Novgorod,0,0,2023-05-28 11:00:00,,BallTouch
+530345,10,SavedShot,0.8880000305175781,0.6469999694824219,0.08567292243242264,Quincy Promes,a,2815,OpenPlay,2022,RightFoot,20265,Krylya Sovetov Samara,Spartak Moscow,1,0,2023-06-03 14:00:00,Roman Zobnin,Pass
+530348,16,MissedShots,0.865999984741211,0.47900001525878905,0.10835419595241547,Quincy Promes,a,2815,OpenPlay,2022,RightFoot,20265,Krylya Sovetov Samara,Spartak Moscow,1,0,2023-06-03 14:00:00,Mikhail Ignatov,Pass
+530352,36,MissedShots,0.7569999694824219,0.39799999237060546,0.043042320758104324,Quincy Promes,a,2815,OpenPlay,2022,RightFoot,20265,Krylya Sovetov Samara,Spartak Moscow,1,0,2023-06-03 14:00:00,Christopher Martins Pereira,Pass
+530360,64,SavedShot,0.885,0.5,0.7542753219604492,Quincy Promes,a,2815,Penalty,2022,RightFoot,20265,Krylya Sovetov Samara,Spartak Moscow,1,0,2023-06-03 14:00:00,,Standard
+531423,38,BlockedShot,0.825,0.655,0.04054586589336395,Quincy Promes,h,2815,OpenPlay,2023,RightFoot,21690,Spartak Moscow,FC Orenburg,3,2,2023-07-23 14:30:00,Daniil Khlusevich,Pass
+531435,81,BlockedShot,0.8109999847412109,0.4929999923706055,0.0636598989367485,Quincy Promes,h,2815,OpenPlay,2023,RightFoot,21690,Spartak Moscow,FC Orenburg,3,2,2023-07-23 14:30:00,Christopher Martins Pereira,TakeOn
+531437,87,MissedShots,0.8080000305175781,0.6969999694824218,0.06874093413352966,Quincy Promes,h,2815,DirectFreekick,2023,RightFoot,21690,Spartak Moscow,FC Orenburg,3,2,2023-07-23 14:30:00,,Standard
+531440,93,MissedShots,0.870999984741211,0.3970000076293945,0.34018632769584656,Quincy Promes,h,2815,OpenPlay,2023,RightFoot,21690,Spartak Moscow,FC Orenburg,3,2,2023-07-23 14:30:00,Theo Bongonda,Pass
+531666,20,BlockedShot,0.735999984741211,0.69,0.014663327485322952,Quincy Promes,h,2815,OpenPlay,2023,RightFoot,21700,Spartak Moscow,Baltika,2,1,2023-07-31 16:30:00,Alexander Sobolev,Pass
+531686,83,Goal,0.9619999694824218,0.5459999847412109,0.6514679789543152,Quincy Promes,h,2815,OpenPlay,2023,RightFoot,21700,Spartak Moscow,Baltika,2,1,2023-07-31 16:30:00,Mikhail Ignatov,Pass
+531749,59,BlockedShot,0.8780000305175781,0.7080000305175781,0.04052123799920082,Quincy Promes,a,2815,OpenPlay,2023,RightFoot,21703,Rubin Kazan,Spartak Moscow,1,4,2023-08-05 14:30:00,Jesús Medina,TakeOn
+531754,72,Goal,0.914000015258789,0.5359999847412109,0.4805184304714203,Quincy Promes,a,2815,OpenPlay,2023,RightFoot,21703,Rubin Kazan,Spartak Moscow,1,4,2023-08-05 14:30:00,Christopher Martins Pereira,Pass
+531879,35,MissedShots,0.7180000305175781,0.6179999923706054,0.01585286855697632,Quincy Promes,a,2815,OpenPlay,2023,RightFoot,21709,Ural,Spartak Moscow,3,2,2023-08-11 15:00:00,Christopher Martins Pereira,Pass
+531887,60,BlockedShot,0.805,0.4879999923706055,0.05539780110120773,Quincy Promes,a,2815,OpenPlay,2023,LeftFoot,21709,Ural,Spartak Moscow,3,2,2023-08-11 15:00:00,Mikhail Ignatov,Pass
+531889,66,BlockedShot,0.8040000152587891,0.6329999923706054,0.036908961832523346,Quincy Promes,a,2815,OpenPlay,2023,RightFoot,21709,Ural,Spartak Moscow,3,2,2023-08-11 15:00:00,Theo Bongonda,Pass
+531895,83,SavedShot,0.825999984741211,0.6179999923706054,0.061430253088474274,Quincy Promes,a,2815,OpenPlay,2023,RightFoot,21709,Ural,Spartak Moscow,3,2,2023-08-11 15:00:00,Alexander Sobolev,Pass
+533930,82,MissedShots,0.885,0.38,0.059944454580545425,Quincy Promes,h,2815,OpenPlay,2023,RightFoot,21723,Spartak Moscow,Zenit St. Petersburg,1,3,2023-08-20 16:30:00,Alexander Sobolev,BallTouch
+534825,24,SavedShot,0.6830000305175781,0.5629999923706055,0.03079630620777607,Quincy Promes,h,2815,DirectFreekick,2023,RightFoot,21729,Spartak Moscow,FK Akhmat,0,0,2023-08-26 16:30:00,,Standard
+534831,41,BlockedShot,0.8469999694824218,0.46,0.08584798872470856,Quincy Promes,h,2815,OpenPlay,2023,RightFoot,21729,Spartak Moscow,FK Akhmat,0,0,2023-08-26 16:30:00,Alexander Sobolev,Pass
+534836,47,BlockedShot,0.870999984741211,0.37900001525878907,0.0544847771525383,Quincy Promes,h,2815,OpenPlay,2023,RightFoot,21729,Spartak Moscow,FK Akhmat,0,0,2023-08-26 16:30:00,,Rebound
+534840,82,SavedShot,0.7330000305175781,0.7419999694824219,0.03187818452715874,Quincy Promes,h,2815,DirectFreekick,2023,RightFoot,21729,Spartak Moscow,FK Akhmat,0,0,2023-08-26 16:30:00,,Standard
+536548,48,BlockedShot,0.9019999694824219,0.7090000152587891,0.0280512236058712,Quincy Promes,a,2815,OpenPlay,2023,LeftFoot,21736,FC Krasnodar,Spartak Moscow,2,0,2023-09-02 17:00:00,Theo Bongonda,Cross
+537791,0,SavedShot,0.9,0.639000015258789,0.12258676439523697,Quincy Promes,h,2815,OpenPlay,2023,LeftFoot,21869,Spartak Moscow,PFC Sochi,1,0,2023-09-16 16:00:00,Alexander Sobolev,Pass
+537805,65,BlockedShot,0.8869999694824219,0.6869999694824219,0.04662327468395233,Quincy Promes,h,2815,OpenPlay,2023,RightFoot,21869,Spartak Moscow,PFC Sochi,1,0,2023-09-16 16:00:00,,None
+537807,72,SavedShot,0.9619999694824218,0.5629999923706055,0.39544451236724854,Quincy Promes,h,2815,OpenPlay,2023,Head,21869,Spartak Moscow,PFC Sochi,1,0,2023-09-16 16:00:00,Danil Denisov,Pass
+539196,15,BlockedShot,0.754000015258789,0.72,0.020643023774027824,Quincy Promes,h,2815,OpenPlay,2023,RightFoot,21750,Spartak Moscow,Dinamo Moscow,1,0,2023-09-23 16:00:00,Danil Prutsev,Pass
+539218,61,BlockedShot,0.8469999694824218,0.509000015258789,0.10768270492553711,Quincy Promes,h,2815,OpenPlay,2023,RightFoot,21750,Spartak Moscow,Dinamo Moscow,1,0,2023-09-23 16:00:00,Theo Bongonda,Pass
+539225,88,SavedShot,0.8230000305175781,0.5209999847412109,0.10356979072093964,Quincy Promes,h,2815,OpenPlay,2023,RightFoot,21750,Spartak Moscow,Dinamo Moscow,1,0,2023-09-23 16:00:00,Roman Zobnin,Pass
+539226,89,MissedShots,0.904000015258789,0.639000015258789,0.10876524448394775,Quincy Promes,h,2815,OpenPlay,2023,LeftFoot,21750,Spartak Moscow,Dinamo Moscow,1,0,2023-09-23 16:00:00,Anton Zinkovskiy,Pass
+541801,11,ShotOnPost,0.775,0.47900001525878905,0.03407777473330498,Quincy Promes,a,2815,OpenPlay,2023,RightFoot,21763,Krylya Sovetov Samara,Spartak Moscow,4,0,2023-10-01 13:30:00,Danil Denisov,Pass
+541804,23,MissedShots,0.7930000305175782,0.7280000305175781,0.02035132423043251,Quincy Promes,a,2815,OpenPlay,2023,RightFoot,21763,Krylya Sovetov Samara,Spartak Moscow,4,0,2023-10-01 13:30:00,Alexander Sobolev,Pass
+541808,30,BlockedShot,0.7480000305175781,0.5629999923706055,0.05694902688264847,Quincy Promes,a,2815,DirectFreekick,2023,RightFoot,21763,Krylya Sovetov Samara,Spartak Moscow,4,0,2023-10-01 13:30:00,,Standard
+543377,24,BlockedShot,0.8590000152587891,0.69,0.036783136427402496,Quincy Promes,h,2815,OpenPlay,2023,LeftFoot,21770,Spartak Moscow,CSKA Moscow,2,2,2023-10-08 16:00:00,Theo Bongonda,Pass
+543381,38,Goal,0.8190000152587891,0.7430000305175781,0.022367702797055244,Quincy Promes,h,2815,OpenPlay,2023,RightFoot,21770,Spartak Moscow,CSKA Moscow,2,2,2023-10-08 16:00:00,Oleg Reabciuk,Pass
+544443,0,BlockedShot,0.835999984741211,0.49,0.06152212619781494,Quincy Promes,h,2815,OpenPlay,2023,RightFoot,21777,Spartak Moscow,Nizhny Novgorod,2,0,2023-10-22 11:00:00,,None
+544445,15,SavedShot,0.765,0.534000015258789,0.020466219633817673,Quincy Promes,h,2815,OpenPlay,2023,RightFoot,21777,Spartak Moscow,Nizhny Novgorod,2,0,2023-10-22 11:00:00,Jesús Medina,Pass
+547511,85,MissedShots,0.8690000152587891,0.33299999237060546,0.2871416211128235,Quincy Promes,a,2815,OpenPlay,2023,RightFoot,21792,Lokomotiv Moscow,Spartak Moscow,1,1,2023-11-05 16:30:00,Danil Prutsev,Pass
+547513,91,BlockedShot,0.8090000152587891,0.6659999847412109,0.02873668260872364,Quincy Promes,a,2815,OpenPlay,2023,RightFoot,21792,Lokomotiv Moscow,Spartak Moscow,1,1,2023-11-05 16:30:00,,None
+549112,14,Goal,0.899000015258789,0.4909999847412109,0.40178510546684265,Quincy Promes,h,2815,OpenPlay,2023,RightFoot,21803,Spartak Moscow,FC Rostov,2,1,2023-11-12 16:30:00,Mikhail Ignatov,Pass
+549123,59,BlockedShot,0.8180000305175781,0.48200000762939454,0.054258495569229126,Quincy Promes,h,2815,OpenPlay,2023,RightFoot,21803,Spartak Moscow,FC Rostov,2,1,2023-11-12 16:30:00,,None
+549125,67,BlockedShot,0.8619999694824219,0.62,0.15206857025623322,Quincy Promes,h,2815,OpenPlay,2023,RightFoot,21803,Spartak Moscow,FC Rostov,2,1,2023-11-12 16:30:00,Theo Bongonda,TakeOn
+549878,36,BlockedShot,0.9259999847412109,0.6309999847412109,0.18287019431591034,Quincy Promes,a,2815,OpenPlay,2023,RightFoot,21809,Baltika,Spartak Moscow,0,2,2023-11-25 16:45:00,Oleg Reabciuk,TakeOn
+549881,49,SavedShot,0.855,0.4490000152587891,0.11118276417255402,Quincy Promes,a,2815,OpenPlay,2023,RightFoot,21809,Baltika,Spartak Moscow,0,2,2023-11-25 16:45:00,Anton Zinkovskiy,Pass
+549896,87,Goal,0.9519999694824218,0.425,0.4956537187099457,Quincy Promes,a,2815,OpenPlay,2023,RightFoot,21809,Baltika,Spartak Moscow,0,2,2023-11-25 16:45:00,Alexander Sobolev,Pass
+551878,78,BlockedShot,0.9030000305175782,0.534000015258789,0.11436516791582108,Quincy Promes,a,2815,OpenPlay,2023,RightFoot,21816,FK Akhmat,Spartak Moscow,2,1,2023-12-03 16:00:00,Danil Prutsev,Pass
+551879,79,BlockedShot,0.894000015258789,0.649000015258789,0.037818439304828644,Quincy Promes,a,2815,FromCorner,2023,RightFoot,21816,FK Akhmat,Spartak Moscow,2,1,2023-12-03 16:00:00,Victor Moses,Cross
+552601,1,Goal,0.8209999847412109,0.47400001525878904,0.05265084654092789,Quincy Promes,h,2815,OpenPlay,2023,RightFoot,21827,Spartak Moscow,Krylya Sovetov Samara,3,0,2023-12-09 11:00:00,Christopher Martins Pereira,Chipped
+552606,26,ShotOnPost,0.7669999694824219,0.7130000305175781,0.015364996157586575,Quincy Promes,h,2815,OpenPlay,2023,RightFoot,21827,Spartak Moscow,Krylya Sovetov Samara,3,0,2023-12-09 11:00:00,Anton Zinkovskiy,Pass
+552611,37,ShotOnPost,0.754000015258789,0.5420000076293945,0.06266896426677704,Quincy Promes,h,2815,DirectFreekick,2023,RightFoot,21827,Spartak Moscow,Krylya Sovetov Samara,3,0,2023-12-09 11:00:00,,Standard

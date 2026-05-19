@@ -1,0 +1,560 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+24416,12,MissedShots,0.740999984741211,0.4640000152587891,0.011232700198888779,Kevin Volland,h,83,OpenPlay,2014,LeftFoot,5448,Hoffenheim,Augsburg,2,0,2014-08-23 14:30:00,,Aerial
+24428,56,MissedShots,0.9,0.22700000762939454,0.04681200161576271,Kevin Volland,h,83,OpenPlay,2014,LeftFoot,5448,Hoffenheim,Augsburg,2,0,2014-08-23 14:30:00,Andreas Beck,Pass
+24699,52,BlockedShot,0.7969999694824219,0.24899999618530275,0.024103200063109398,Kevin Volland,a,83,OpenPlay,2014,LeftFoot,5457,Werder Bremen,Hoffenheim,1,1,2014-08-30 14:30:00,David Abraham,Chipped
+24930,81,BlockedShot,0.8230000305175781,0.5720000076293945,0.07549720257520676,Kevin Volland,h,83,OpenPlay,2014,LeftFoot,5412,Hoffenheim,Wolfsburg,1,1,2014-09-13 14:30:00,Tobias Strobl,Pass
+25179,79,BlockedShot,0.870999984741211,0.6759999847412109,0.06726469844579697,Kevin Volland,a,83,OpenPlay,2014,LeftFoot,5421,VfB Stuttgart,Hoffenheim,0,2,2014-09-20 14:30:00,,None
+25389,4,SavedShot,0.7659999847412109,0.445,0.030233899131417274,Kevin Volland,h,83,OpenPlay,2014,LeftFoot,5429,Hoffenheim,Freiburg,3,3,2014-09-23 19:00:00,Niklas Süle,Chipped
+25390,5,BlockedShot,0.7930000305175782,0.59,0.030655600130558014,Kevin Volland,h,83,OpenPlay,2014,LeftFoot,5429,Hoffenheim,Freiburg,3,3,2014-09-23 19:00:00,Eugen Polanski,Pass
+25391,15,MissedShots,0.8580000305175781,0.5940000152587891,0.07573819905519485,Kevin Volland,h,83,OpenPlay,2014,LeftFoot,5429,Hoffenheim,Freiburg,3,3,2014-09-23 19:00:00,Tarik Elyounoussi,Pass
+25400,44,MissedShots,0.754000015258789,0.6120000076293945,0.020305199548602104,Kevin Volland,h,83,OpenPlay,2014,LeftFoot,5429,Hoffenheim,Freiburg,3,3,2014-09-23 19:00:00,Eugen Polanski,HeadPass
+25545,5,BlockedShot,0.91,0.3160000038146973,0.05967789888381958,Kevin Volland,a,83,OpenPlay,2014,LeftFoot,5438,Mainz 05,Hoffenheim,0,0,2014-09-26 19:30:00,Roberto Firmino,Pass
+25561,56,MissedShots,0.815,0.26799999237060546,0.01982009969651699,Kevin Volland,a,83,OpenPlay,2014,LeftFoot,5438,Mainz 05,Hoffenheim,0,0,2014-09-26 19:30:00,Anthony Modeste,Pass
+25858,2,SavedShot,0.8769999694824219,0.20100000381469726,0.019302500411868095,Kevin Volland,h,83,OpenPlay,2014,LeftFoot,5388,Hoffenheim,Schalke 04,2,1,2014-10-04 14:30:00,Tarik Elyounoussi,BallRecovery
+26137,68,MissedShots,0.784000015258789,0.46,0.03502250090241432,Kevin Volland,a,83,OpenPlay,2014,LeftFoot,5399,Hamburger SV,Hoffenheim,1,1,2014-10-19 14:30:00,Ádám Szalai,Pass
+26345,24,SavedShot,0.8230000305175781,0.3220000076293945,0.03363040089607239,Kevin Volland,h,83,OpenPlay,2014,LeftFoot,5404,Hoffenheim,Paderborn,1,0,2014-10-25 14:30:00,Ádám Szalai,Pass
+26349,32,MissedShots,0.82,0.28299999237060547,0.022400200366973877,Kevin Volland,h,83,OpenPlay,2014,LeftFoot,5404,Hoffenheim,Paderborn,1,0,2014-10-25 14:30:00,Eugen Polanski,Chipped
+26351,40,MissedShots,0.7390000152587891,0.5370000076293945,0.01926640048623085,Kevin Volland,h,83,OpenPlay,2014,LeftFoot,5404,Hoffenheim,Paderborn,1,0,2014-10-25 14:30:00,Ádám Szalai,Pass
+26361,65,ShotOnPost,0.8380000305175781,0.18,0.04965269938111305,Kevin Volland,h,83,DirectFreekick,2014,LeftFoot,5404,Hoffenheim,Paderborn,1,0,2014-10-25 14:30:00,,Standard
+26363,72,Goal,0.9069999694824219,0.5729999923706055,0.12728600203990936,Kevin Volland,h,83,OpenPlay,2014,LeftFoot,5404,Hoffenheim,Paderborn,1,0,2014-10-25 14:30:00,Andreas Beck,Pass
+26799,8,BlockedShot,0.705,0.28700000762939454,0.03149329870939255,Kevin Volland,h,83,DirectFreekick,2014,LeftFoot,5358,Hoffenheim,FC Cologne,3,4,2014-11-08 14:30:00,,Standard
+26800,10,MissedShots,0.830999984741211,0.40200000762939453,0.06057079881429672,Kevin Volland,h,83,OpenPlay,2014,LeftFoot,5358,Hoffenheim,FC Cologne,3,4,2014-11-08 14:30:00,Roberto Firmino,Pass
+26804,28,BlockedShot,0.7709999847412109,0.37,0.023817500099539757,Kevin Volland,h,83,OpenPlay,2014,LeftFoot,5358,Hoffenheim,FC Cologne,3,4,2014-11-08 14:30:00,Roberto Firmino,Pass
+26806,30,BlockedShot,0.9080000305175782,0.24100000381469727,0.03612099960446358,Kevin Volland,h,83,OpenPlay,2014,RightFoot,5358,Hoffenheim,FC Cologne,3,4,2014-11-08 14:30:00,Tobias Strobl,Pass
+26817,48,MissedShots,0.8730000305175781,0.45799999237060546,0.031523898243904114,Kevin Volland,h,83,OpenPlay,2014,Head,5358,Hoffenheim,FC Cologne,3,4,2014-11-08 14:30:00,Roberto Firmino,Aerial
+26829,89,SavedShot,0.9030000305175782,0.3920000076293945,0.01070099975913763,Kevin Volland,h,83,SetPiece,2014,Head,5358,Hoffenheim,FC Cologne,3,4,2014-11-08 14:30:00,Sebastian Rudy,Aerial
+26928,25,BlockedShot,0.8030000305175782,0.39099998474121095,0.04458659887313843,Kevin Volland,a,83,OpenPlay,2014,LeftFoot,5365,Bayern Munich,Hoffenheim,4,0,2014-11-22 14:30:00,Tobias Strobl,HeadPass
+26929,31,SavedShot,0.779000015258789,0.3629999923706055,0.07612500339746475,Kevin Volland,a,83,DirectFreekick,2014,LeftFoot,5365,Bayern Munich,Hoffenheim,4,0,2014-11-22 14:30:00,,Standard
+26941,65,SavedShot,0.8680000305175781,0.664000015258789,0.069377601146698,Kevin Volland,a,83,OpenPlay,2014,LeftFoot,5365,Bayern Munich,Hoffenheim,4,0,2014-11-22 14:30:00,Andreas Beck,Pass
+27662,21,BlockedShot,0.8230000305175781,0.6680000305175782,0.07019519805908203,Kevin Volland,h,83,OpenPlay,2014,LeftFoot,5380,Hoffenheim,Hannover 96,4,3,2014-11-29 17:30:00,,TakeOn
+27667,36,Goal,0.9459999847412109,0.4520000076293945,0.6634309887886047,Kevin Volland,h,83,OpenPlay,2014,RightFoot,5380,Hoffenheim,Hannover 96,4,3,2014-11-29 17:30:00,Jin-Su Kim,Pass
+27681,76,SavedShot,0.8540000152587891,0.32799999237060545,0.07124490290880203,Kevin Volland,h,83,OpenPlay,2014,LeftFoot,5380,Hoffenheim,Hannover 96,4,3,2014-11-29 17:30:00,Tobias Strobl,TakeOn
+28100,42,Goal,0.8959999847412109,0.620999984741211,0.33570700883865356,Kevin Volland,h,83,OpenPlay,2014,LeftFoot,5321,Hoffenheim,Eintracht Frankfurt,3,2,2014-12-12 19:30:00,Roberto Firmino,Pass
+28102,47,BlockedShot,0.9069999694824219,0.615,0.07453110069036484,Kevin Volland,h,83,SetPiece,2014,RightFoot,5321,Hoffenheim,Eintracht Frankfurt,3,2,2014-12-12 19:30:00,Pirmin Schwegler,Chipped
+28103,49,SavedShot,0.7380000305175781,0.3509999847412109,0.025097200646996498,Kevin Volland,h,83,OpenPlay,2014,LeftFoot,5321,Hoffenheim,Eintracht Frankfurt,3,2,2014-12-12 19:30:00,Pirmin Schwegler,Pass
+28111,64,BlockedShot,0.8290000152587891,0.54,0.04140489920973778,Kevin Volland,h,83,FromCorner,2014,LeftFoot,5321,Hoffenheim,Eintracht Frankfurt,3,2,2014-12-12 19:30:00,Roberto Firmino,Pass
+27732,7,SavedShot,0.695,0.580999984741211,0.0185163002461195,Kevin Volland,h,83,OpenPlay,2014,LeftFoot,5337,Hoffenheim,Bayer Leverkusen,0,1,2014-12-17 19:00:00,Tarik Elyounoussi,Pass
+27755,91,SavedShot,0.9369999694824219,0.29100000381469726,0.04501489922404289,Kevin Volland,h,83,OpenPlay,2014,RightFoot,5337,Hoffenheim,Bayer Leverkusen,0,1,2014-12-17 19:00:00,Andreas Beck,Pass
+28232,14,BlockedShot,0.9169999694824219,0.5670000076293945,0.13509899377822876,Kevin Volland,a,83,OpenPlay,2014,LeftFoot,5346,Hertha Berlin,Hoffenheim,0,5,2014-12-21 14:30:00,Sven Schipplock,Pass
+28236,29,MissedShots,0.7369999694824219,0.34,0.01032629981637001,Kevin Volland,a,83,OpenPlay,2014,LeftFoot,5346,Hertha Berlin,Hoffenheim,0,5,2014-12-21 14:30:00,,Aerial
+28239,34,BlockedShot,0.8109999847412109,0.38,0.040814898908138275,Kevin Volland,a,83,OpenPlay,2014,RightFoot,5346,Hertha Berlin,Hoffenheim,0,5,2014-12-21 14:30:00,,None
+28623,16,SavedShot,0.9059999847412109,0.3220000076293945,0.06701549887657166,Kevin Volland,h,83,OpenPlay,2014,RightFoot,5270,Hoffenheim,Werder Bremen,1,2,2015-02-04 19:00:00,Roberto Firmino,TakeOn
+28625,27,BlockedShot,0.7780000305175782,0.2620000076293945,0.018917299807071686,Kevin Volland,h,83,OpenPlay,2014,LeftFoot,5270,Hoffenheim,Werder Bremen,1,2,2015-02-04 19:00:00,Roberto Firmino,Pass
+29353,7,MissedShots,0.735999984741211,0.44099998474121094,0.0208343006670475,Kevin Volland,a,83,OpenPlay,2014,LeftFoot,5276,Wolfsburg,Hoffenheim,3,0,2015-02-07 14:30:00,Roberto Firmino,TakeOn
+29363,33,MissedShots,0.7809999847412109,0.49700000762939456,0.03913139924407005,Kevin Volland,a,83,OpenPlay,2014,LeftFoot,5276,Wolfsburg,Hoffenheim,3,0,2015-02-07 14:30:00,Roberto Firmino,Pass
+29367,66,SavedShot,0.8109999847412109,0.23899999618530274,0.0175199992954731,Kevin Volland,a,83,OpenPlay,2014,LeftFoot,5276,Wolfsburg,Hoffenheim,3,0,2015-02-07 14:30:00,Nadiem Amiri,Pass
+29201,15,MissedShots,0.884000015258789,0.6480000305175782,0.06989189982414246,Kevin Volland,h,83,OpenPlay,2014,LeftFoot,5283,Hoffenheim,VfB Stuttgart,2,1,2015-02-14 14:30:00,,BallRecovery
+29207,34,MissedShots,0.925,0.654000015258789,0.06531400233507156,Kevin Volland,h,83,SetPiece,2014,LeftFoot,5283,Hoffenheim,VfB Stuttgart,2,1,2015-02-14 14:30:00,Pirmin Schwegler,Chipped
+29213,54,MissedShots,0.7330000305175781,0.285,0.010744200088083744,Kevin Volland,h,83,OpenPlay,2014,LeftFoot,5283,Hoffenheim,VfB Stuttgart,2,1,2015-02-14 14:30:00,Roberto Firmino,Chipped
+29335,38,Goal,0.7330000305175781,0.5659999847412109,0.01960650086402893,Kevin Volland,a,83,OpenPlay,2014,LeftFoot,5290,Freiburg,Hoffenheim,1,1,2015-02-21 14:30:00,Anthony Modeste,Pass
+29336,44,MissedShots,0.8580000305175781,0.7119999694824218,0.035454701632261276,Kevin Volland,a,83,OpenPlay,2014,RightFoot,5290,Freiburg,Hoffenheim,1,1,2015-02-21 14:30:00,,None
+29167,11,SavedShot,0.9430000305175781,0.6229999923706054,0.012818800285458565,Kevin Volland,h,83,FromCorner,2014,Head,5301,Hoffenheim,Mainz 05,2,0,2015-02-28 14:30:00,Sejad Salihovic,Aerial
+29183,53,BlockedShot,0.875999984741211,0.3390000152587891,0.06870590150356293,Kevin Volland,h,83,OpenPlay,2014,LeftFoot,5301,Hoffenheim,Mainz 05,2,0,2015-02-28 14:30:00,Eugen Polanski,Pass
+29184,54,Goal,0.919000015258789,0.4209999847412109,0.5362460017204285,Kevin Volland,h,83,OpenPlay,2014,RightFoot,5301,Hoffenheim,Mainz 05,2,0,2015-02-28 14:30:00,Roberto Firmino,Pass
+29752,50,MissedShots,0.81,0.6569999694824219,0.022938599810004234,Kevin Volland,a,83,OpenPlay,2014,LeftFoot,5238,Schalke 04,Hoffenheim,3,1,2015-03-07 14:30:00,Jin-Su Kim,Chipped
+29754,72,Goal,0.8530000305175781,0.4520000076293945,0.11556600034236908,Kevin Volland,a,83,OpenPlay,2014,LeftFoot,5238,Schalke 04,Hoffenheim,3,1,2015-03-07 14:30:00,Ádám Szalai,Pass
+29756,75,MissedShots,0.7469999694824219,0.6140000152587891,0.014259199611842632,Kevin Volland,a,83,OpenPlay,2014,RightFoot,5238,Schalke 04,Hoffenheim,3,1,2015-03-07 14:30:00,Jin-Su Kim,Pass
+31184,53,MissedShots,0.769000015258789,0.28100000381469725,0.02814510092139244,Kevin Volland,h,83,OpenPlay,2014,LeftFoot,5244,Hoffenheim,Hamburger SV,3,0,2015-03-14 14:30:00,Andreas Beck,TakeOn
+31198,83,MissedShots,0.9130000305175782,0.7290000152587891,0.07595810294151306,Kevin Volland,h,83,OpenPlay,2014,LeftFoot,5244,Hoffenheim,Hamburger SV,3,0,2015-03-14 14:30:00,Sebastian Rudy,Chipped
+32185,26,SavedShot,0.755,0.3340000152587891,0.016895700246095657,Kevin Volland,a,83,OpenPlay,2014,LeftFoot,5253,Paderborn,Hoffenheim,0,0,2015-03-21 14:30:00,Sebastian Rudy,BallRecovery
+32188,32,MissedShots,0.8430000305175781,0.6309999847412109,0.02568409964442253,Kevin Volland,a,83,FromCorner,2014,LeftFoot,5253,Paderborn,Hoffenheim,0,0,2015-03-21 14:30:00,Tobias Strobl,HeadPass
+32200,86,MissedShots,0.7559999847412109,0.3509999847412109,0.05786750093102455,Kevin Volland,a,83,DirectFreekick,2014,LeftFoot,5253,Paderborn,Hoffenheim,0,0,2015-03-21 14:30:00,,Standard
+30211,20,SavedShot,0.700999984741211,0.265,0.017004400491714478,Kevin Volland,h,83,OpenPlay,2014,LeftFoot,5198,Hoffenheim,Borussia M.Gladbach,1,4,2015-04-04 14:30:00,Andreas Beck,Pass
+30224,65,SavedShot,0.7830000305175782,0.315,0.019662700593471527,Kevin Volland,h,83,OpenPlay,2014,LeftFoot,5198,Hoffenheim,Borussia M.Gladbach,1,4,2015-04-04 14:30:00,Roberto Firmino,Pass
+31441,10,SavedShot,0.8819999694824219,0.41700000762939454,0.3545069992542267,Kevin Volland,a,83,OpenPlay,2014,RightFoot,5211,FC Cologne,Hoffenheim,3,2,2015-04-12 14:30:00,Nadiem Amiri,Pass
+31451,28,BlockedShot,0.915,0.3220000076293945,0.08094380050897598,Kevin Volland,a,83,OpenPlay,2014,LeftFoot,5211,FC Cologne,Hoffenheim,3,2,2015-04-12 14:30:00,Andreas Beck,TakeOn
+31458,41,SavedShot,0.8169999694824219,0.30100000381469727,0.025745199993252754,Kevin Volland,a,83,OpenPlay,2014,LeftFoot,5211,FC Cologne,Hoffenheim,3,2,2015-04-12 14:30:00,,None
+31459,44,BlockedShot,0.725999984741211,0.500999984741211,0.05296500027179718,Kevin Volland,a,83,DirectFreekick,2014,LeftFoot,5211,FC Cologne,Hoffenheim,3,2,2015-04-12 14:30:00,,Standard
+31466,62,MissedShots,0.7280000305175781,0.48700000762939455,0.010559899732470512,Kevin Volland,a,83,OpenPlay,2014,LeftFoot,5211,FC Cologne,Hoffenheim,3,2,2015-04-12 14:30:00,,None
+31474,86,SavedShot,0.855,0.2620000076293945,0.02538139931857586,Kevin Volland,a,83,OpenPlay,2014,LeftFoot,5211,FC Cologne,Hoffenheim,3,2,2015-04-12 14:30:00,Anthony Modeste,Pass
+32026,43,MissedShots,0.9,0.48,0.1797879934310913,Kevin Volland,h,83,OpenPlay,2014,Head,5215,Hoffenheim,Bayern Munich,0,2,2015-04-18 14:30:00,Eugen Polanski,Chipped
+32030,51,MissedShots,0.825,0.345,0.04363249987363815,Kevin Volland,h,83,OpenPlay,2014,LeftFoot,5215,Hoffenheim,Bayern Munich,0,2,2015-04-18 14:30:00,Roberto Firmino,Pass
+32033,62,MissedShots,0.740999984741211,0.40299999237060546,0.02037630043923855,Kevin Volland,h,83,OpenPlay,2014,LeftFoot,5215,Hoffenheim,Bayern Munich,0,2,2015-04-18 14:30:00,Pirmin Schwegler,Pass
+30887,30,MissedShots,0.735999984741211,0.29100000381469726,0.016240699216723442,Kevin Volland,h,83,OpenPlay,2014,LeftFoot,5162,Hoffenheim,Borussia Dortmund,1,1,2015-05-02 14:30:00,Anthony Modeste,Pass
+30888,32,Goal,0.93,0.3970000076293945,0.3607670068740845,Kevin Volland,h,83,OpenPlay,2014,LeftFoot,5162,Hoffenheim,Borussia Dortmund,1,1,2015-05-02 14:30:00,,TakeOn
+30891,45,MissedShots,0.7240000152587891,0.6020000076293945,0.01772109977900982,Kevin Volland,h,83,OpenPlay,2014,LeftFoot,5162,Hoffenheim,Borussia Dortmund,1,1,2015-05-02 14:30:00,Roberto Firmino,TakeOn
+31708,50,Goal,0.725,0.4929999923706055,0.05236930027604103,Kevin Volland,a,83,DirectFreekick,2014,LeftFoot,5173,Eintracht Frankfurt,Hoffenheim,3,1,2015-05-09 14:30:00,,Standard
+31709,53,SavedShot,0.904000015258789,0.11699999809265137,0.04480630159378052,Kevin Volland,a,83,DirectFreekick,2014,LeftFoot,5173,Eintracht Frankfurt,Hoffenheim,3,1,2015-05-09 14:30:00,,Standard
+30177,19,BlockedShot,0.950999984741211,0.6759999847412109,0.06232399865984917,Kevin Volland,a,83,OpenPlay,2014,LeftFoot,5178,Bayer Leverkusen,Hoffenheim,2,0,2015-05-16 14:30:00,Anthony Modeste,Pass
+30181,24,SavedShot,0.8819999694824219,0.5420000076293945,0.024393299594521523,Kevin Volland,a,83,OpenPlay,2014,Head,5178,Bayer Leverkusen,Hoffenheim,2,0,2015-05-16 14:30:00,Andreas Beck,Rebound
+30185,37,SavedShot,0.895,0.5790000152587891,0.03528760001063347,Kevin Volland,a,83,FromCorner,2014,Head,5178,Bayer Leverkusen,Hoffenheim,2,0,2015-05-16 14:30:00,Sebastian Rudy,Cross
+30187,40,BlockedShot,0.909000015258789,0.36700000762939455,0.09898190200328827,Kevin Volland,a,83,OpenPlay,2014,LeftFoot,5178,Bayer Leverkusen,Hoffenheim,2,0,2015-05-16 14:30:00,Eugen Polanski,Pass
+30200,91,MissedShots,0.9719999694824218,0.620999984741211,0.02204979956150055,Kevin Volland,a,83,FromCorner,2014,Head,5178,Bayer Leverkusen,Hoffenheim,2,0,2015-05-16 14:30:00,Sejad Salihovic,Cross
+31341,19,BlockedShot,0.8530000305175781,0.33099998474121095,0.06398610025644302,Kevin Volland,h,83,OpenPlay,2014,LeftFoot,5190,Hoffenheim,Hertha Berlin,2,1,2015-05-23 14:30:00,Eugen Polanski,Pass
+31344,46,SavedShot,0.759000015258789,0.14300000190734863,0.018354099243879318,Kevin Volland,h,83,OpenPlay,2014,LeftFoot,5190,Hoffenheim,Hertha Berlin,2,1,2015-05-23 14:30:00,Roberto Firmino,Pass
+31353,74,MissedShots,0.7240000152587891,0.31799999237060544,0.03917500004172325,Kevin Volland,h,83,DirectFreekick,2014,LeftFoot,5190,Hoffenheim,Hertha Berlin,2,1,2015-05-23 14:30:00,,Standard
+76123,45,MissedShots,0.879000015258789,0.67,0.04306450113654137,Kevin Volland,a,83,OpenPlay,2015,RightFoot,1022,Bayer Leverkusen,Hoffenheim,2,1,2015-08-15 17:30:00,Jonathan Schmid,Chipped
+76473,0,Goal,0.845,0.545,0.3455039858818054,Kevin Volland,h,83,OpenPlay,2015,LeftFoot,1031,Hoffenheim,Bayern Munich,1,2,2015-08-22 17:30:00,,Start
+76484,46,BlockedShot,0.8019999694824219,0.69,0.02673109993338585,Kevin Volland,h,83,OpenPlay,2015,LeftFoot,1031,Hoffenheim,Bayern Munich,1,2,2015-08-22 17:30:00,Jonathan Schmid,Pass
+76735,89,MissedShots,0.8680000305175781,0.24299999237060546,0.028063399717211723,Kevin Volland,a,83,OpenPlay,2015,LeftFoot,1044,Darmstadt,Hoffenheim,0,0,2015-08-29 17:30:00,Jonathan Schmid,Pass
+76944,57,SavedShot,0.8130000305175781,0.19200000762939454,0.0148290004581213,Kevin Volland,h,83,OpenPlay,2015,LeftFoot,1055,Hoffenheim,Werder Bremen,1,3,2015-09-13 17:30:00,Pavel Kaderábek,Pass
+76947,66,BlockedShot,0.7019999694824218,0.23,0.027385400608181953,Kevin Volland,h,83,DirectFreekick,2015,LeftFoot,1055,Hoffenheim,Werder Bremen,1,3,2015-09-13 17:30:00,,Standard
+77164,22,SavedShot,0.8519999694824218,0.575,0.13283100724220276,Kevin Volland,a,83,OpenPlay,2015,RightFoot,1057,Mainz 05,Hoffenheim,3,1,2015-09-18 22:30:00,Eugen Polanski,TakeOn
+77171,46,MissedShots,0.7040000152587891,0.40700000762939453,0.01744679920375347,Kevin Volland,a,83,OpenPlay,2015,LeftFoot,1057,Mainz 05,Hoffenheim,3,1,2015-09-18 22:30:00,Eugen Polanski,Pass
+77175,59,BlockedShot,0.8730000305175781,0.28899999618530275,0.038628000766038895,Kevin Volland,a,83,OpenPlay,2015,LeftFoot,1057,Mainz 05,Hoffenheim,3,1,2015-09-18 22:30:00,Eduardo Vargas,Pass
+77377,0,SavedShot,0.7280000305175781,0.4159999847412109,0.015887200832366943,Kevin Volland,h,83,OpenPlay,2015,RightFoot,1070,Hoffenheim,Borussia Dortmund,1,1,2015-09-23 22:00:00,Eduardo Vargas,BallRecovery
+77385,35,SavedShot,0.8209999847412109,0.55,0.08519119769334793,Kevin Volland,h,83,OpenPlay,2015,RightFoot,1070,Hoffenheim,Borussia Dortmund,1,1,2015-09-23 22:00:00,Eduardo Vargas,TakeOn
+77552,9,Goal,0.845999984741211,0.41900001525878905,0.10072799772024155,Kevin Volland,a,83,OpenPlay,2015,LeftFoot,1078,Augsburg,Hoffenheim,1,3,2015-09-26 17:30:00,Eduardo Vargas,Pass
+77570,56,MissedShots,0.71,0.24600000381469728,0.029563400894403458,Kevin Volland,a,83,DirectFreekick,2015,LeftFoot,1078,Augsburg,Hoffenheim,1,3,2015-09-26 17:30:00,,Standard
+77575,67,Goal,0.885,0.5,0.7577769756317139,Kevin Volland,a,83,Penalty,2015,LeftFoot,1078,Augsburg,Hoffenheim,1,3,2015-09-26 17:30:00,,Standard
+77847,32,Goal,0.885,0.5,0.7577769756317139,Kevin Volland,h,83,Penalty,2015,LeftFoot,1088,Hoffenheim,VfB Stuttgart,2,2,2015-10-03 17:30:00,,Standard
+77864,76,Goal,0.899000015258789,0.285,0.1113319993019104,Kevin Volland,h,83,OpenPlay,2015,LeftFoot,1088,Hoffenheim,VfB Stuttgart,2,2,2015-10-03 17:30:00,,TakeOn
+77960,27,MissedShots,0.8180000305175781,0.509000015258789,0.06905309855937958,Kevin Volland,a,83,OpenPlay,2015,RightFoot,1097,Wolfsburg,Hoffenheim,4,2,2015-10-17 17:30:00,Eduardo Vargas,Pass
+78296,53,MissedShots,0.7819999694824219,0.5329999923706055,0.03186890110373497,Kevin Volland,h,83,OpenPlay,2015,LeftFoot,1102,Hoffenheim,Hamburger SV,0,1,2015-10-23 22:30:00,Jeremy Toljan,Chipped
+78806,37,BlockedShot,0.769000015258789,0.3820000076293945,0.01359230000525713,Kevin Volland,h,83,OpenPlay,2015,LeftFoot,1121,Hoffenheim,Eintracht Frankfurt,0,0,2015-11-07 18:30:00,Eduardo Vargas,Chipped
+78810,53,MissedShots,0.915,0.40599998474121096,0.3600800037384033,Kevin Volland,h,83,OpenPlay,2015,RightFoot,1121,Hoffenheim,Eintracht Frankfurt,0,0,2015-11-07 18:30:00,,Rebound
+79064,19,MissedShots,0.7680000305175781,0.3039999961853027,0.02039089985191822,Kevin Volland,a,83,OpenPlay,2015,LeftFoot,1136,Hertha Berlin,Hoffenheim,1,0,2015-11-22 18:30:00,Mark Uth,Pass
+79069,75,MissedShots,0.8930000305175781,0.555,0.10463500022888184,Kevin Volland,a,83,OpenPlay,2015,LeftFoot,1136,Hertha Berlin,Hoffenheim,1,0,2015-11-22 18:30:00,Steven Zuber,Pass
+79267,42,BlockedShot,0.8040000152587891,0.3039999961853027,0.027742799371480942,Kevin Volland,h,83,OpenPlay,2015,LeftFoot,1141,Hoffenheim,Borussia M.Gladbach,3,3,2015-11-28 18:30:00,Oliver Baumann,Pass
+79276,64,BlockedShot,0.8530000305175781,0.38799999237060545,0.08483889698982239,Kevin Volland,h,83,OpenPlay,2015,LeftFoot,1141,Hoffenheim,Borussia M.Gladbach,3,3,2015-11-28 18:30:00,Nadiem Amiri,Pass
+79590,42,ShotOnPost,0.8569999694824219,0.509000015258789,0.3246139883995056,Kevin Volland,a,83,OpenPlay,2015,LeftFoot,1152,Ingolstadt,Hoffenheim,1,1,2015-12-05 18:30:00,Nadiem Amiri,Pass
+79756,11,BlockedShot,0.9119999694824219,0.544000015258789,0.09733720123767853,Kevin Volland,h,83,FromCorner,2015,LeftFoot,1160,Hoffenheim,Hannover 96,1,0,2015-12-12 18:30:00,Nadiem Amiri,Pass
+79769,53,MissedShots,0.889000015258789,0.59,0.11929800361394882,Kevin Volland,h,83,OpenPlay,2015,LeftFoot,1160,Hoffenheim,Hannover 96,1,0,2015-12-12 18:30:00,Nadiem Amiri,Pass
+79772,60,SavedShot,0.91,0.6680000305175782,0.29373401403427124,Kevin Volland,h,83,OpenPlay,2015,LeftFoot,1160,Hoffenheim,Hannover 96,1,0,2015-12-12 18:30:00,Jonathan Schmid,Pass
+79844,70,MissedShots,0.8330000305175781,0.7169999694824218,0.024176599457859993,Kevin Volland,a,83,OpenPlay,2015,LeftFoot,1165,Schalke 04,Hoffenheim,1,0,2015-12-18 23:30:00,Niklas Süle,Pass
+80323,83,SavedShot,0.8669999694824219,0.3340000152587891,0.04148989915847778,Kevin Volland,a,83,OpenPlay,2015,LeftFoot,1191,Bayern Munich,Hoffenheim,2,0,2016-01-31 20:30:00,,None
+80700,30,MissedShots,0.735999984741211,0.49599998474121093,0.019711699336767197,Kevin Volland,h,83,OpenPlay,2015,LeftFoot,1200,Hoffenheim,Darmstadt,0,2,2016-02-07 20:30:00,Tobias Strobl,TakeOn
+80704,39,BlockedShot,0.7680000305175781,0.534000015258789,0.03059929981827736,Kevin Volland,h,83,OpenPlay,2015,LeftFoot,1200,Hoffenheim,Darmstadt,0,2,2016-02-07 20:30:00,Sebastian Rudy,Pass
+80876,36,BlockedShot,0.870999984741211,0.28899999618530275,0.05335669964551926,Kevin Volland,a,83,OpenPlay,2015,LeftFoot,1206,Werder Bremen,Hoffenheim,1,1,2016-02-13 18:30:00,Eduardo Vargas,TakeOn
+80886,71,SavedShot,0.715999984741211,0.2560000038146973,0.007368479855358601,Kevin Volland,a,83,OpenPlay,2015,LeftFoot,1206,Werder Bremen,Hoffenheim,1,1,2016-02-13 18:30:00,Eduardo Vargas,Chipped
+81179,64,BlockedShot,0.8619999694824219,0.705999984741211,0.038738399744033813,Kevin Volland,h,83,OpenPlay,2015,LeftFoot,1213,Hoffenheim,Mainz 05,3,2,2016-02-20 18:30:00,Nadiem Amiri,Pass
+81182,69,MissedShots,0.7930000305175782,0.63,0.012965500354766846,Kevin Volland,h,83,SetPiece,2015,LeftFoot,1213,Hoffenheim,Mainz 05,3,2,2016-02-20 18:30:00,,Aerial
+81210,2,BlockedShot,0.965,0.3890000152587891,0.09587600082159042,Kevin Volland,a,83,FromCorner,2015,LeftFoot,1225,Borussia Dortmund,Hoffenheim,3,1,2016-02-28 20:30:00,Fabian Schär,Rebound
+81211,24,SavedShot,0.7880000305175782,0.649000015258789,0.027126800268888474,Kevin Volland,a,83,OpenPlay,2015,LeftFoot,1225,Borussia Dortmund,Hoffenheim,3,1,2016-02-28 20:30:00,Sebastian Rudy,Pass
+81213,28,SavedShot,0.91,0.34,0.16086000204086304,Kevin Volland,a,83,OpenPlay,2015,LeftFoot,1225,Borussia Dortmund,Hoffenheim,3,1,2016-02-28 20:30:00,Mark Uth,TakeOn
+81608,0,SavedShot,0.91,0.7119999694824218,0.2381560057401657,Kevin Volland,h,83,OpenPlay,2015,LeftFoot,1232,Hoffenheim,Augsburg,2,1,2016-03-02 23:00:00,Philipp Ochs,Pass
+81614,24,Goal,0.899000015258789,0.46299999237060546,0.4444650113582611,Kevin Volland,h,83,OpenPlay,2015,LeftFoot,1232,Hoffenheim,Augsburg,2,1,2016-03-02 23:00:00,Philipp Ochs,Pass
+81778,86,MissedShots,0.845,0.3609999847412109,0.05598510056734085,Kevin Volland,a,83,OpenPlay,2015,LeftFoot,1237,VfB Stuttgart,Hoffenheim,5,1,2016-03-05 18:30:00,Nadiem Amiri,Pass
+82098,45,BlockedShot,0.8730000305175781,0.6840000152587891,0.06103859841823578,Kevin Volland,h,83,OpenPlay,2015,LeftFoot,1247,Hoffenheim,Wolfsburg,1,0,2016-03-12 18:30:00,Mark Uth,Pass
+82102,56,SavedShot,0.885,0.5,0.7577769756317139,Kevin Volland,h,83,Penalty,2015,LeftFoot,1247,Hoffenheim,Wolfsburg,1,0,2016-03-12 18:30:00,,Standard
+82244,12,MissedShots,0.8209999847412109,0.7630000305175781,0.022692199796438217,Kevin Volland,a,83,OpenPlay,2015,LeftFoot,1257,Hamburger SV,Hoffenheim,1,3,2016-03-19 18:30:00,Jeremy Toljan,Pass
+82248,21,SavedShot,0.9359999847412109,0.6990000152587891,0.07024669647216797,Kevin Volland,a,83,OpenPlay,2015,LeftFoot,1257,Hamburger SV,Hoffenheim,1,3,2016-03-19 18:30:00,Jeremy Toljan,Chipped
+82249,22,Goal,0.9030000305175782,0.575,0.11482100188732147,Kevin Volland,a,83,SetPiece,2015,LeftFoot,1257,Hamburger SV,Hoffenheim,1,3,2016-03-19 18:30:00,Sebastian Rudy,Pass
+82536,61,MissedShots,0.9430000305175781,0.6509999847412109,0.06807669997215271,Kevin Volland,h,83,OpenPlay,2015,LeftFoot,1272,Hoffenheim,FC Cologne,1,1,2016-04-03 19:30:00,,None
+82537,66,BlockedShot,0.8040000152587891,0.5,0.05172380059957504,Kevin Volland,h,83,OpenPlay,2015,LeftFoot,1272,Hoffenheim,FC Cologne,1,1,2016-04-03 19:30:00,Eduardo Vargas,Pass
+82540,76,MissedShots,0.8269999694824218,0.545,0.0516371987760067,Kevin Volland,h,83,OpenPlay,2015,RightFoot,1272,Hoffenheim,FC Cologne,1,1,2016-04-03 19:30:00,,None
+82547,90,Goal,0.9769999694824218,0.3920000076293945,0.33382800221443176,Kevin Volland,h,83,OpenPlay,2015,RightFoot,1272,Hoffenheim,FC Cologne,1,1,2016-04-03 19:30:00,,Rebound
+82979,20,MissedShots,0.7519999694824219,0.6659999847412109,0.014854099601507187,Kevin Volland,h,83,FromCorner,2015,LeftFoot,1283,Hoffenheim,Hertha Berlin,2,1,2016-04-16 17:30:00,,None
+82983,35,BlockedShot,0.9169999694824219,0.27399999618530274,0.06041499972343445,Kevin Volland,h,83,OpenPlay,2015,LeftFoot,1283,Hoffenheim,Hertha Berlin,2,1,2016-04-16 17:30:00,Nadiem Amiri,Pass
+82984,38,BlockedShot,0.85,0.5970000076293945,0.053369101136922836,Kevin Volland,h,83,SetPiece,2015,LeftFoot,1283,Hoffenheim,Hertha Berlin,2,1,2016-04-16 17:30:00,Nadiem Amiri,Pass
+83109,68,MissedShots,0.8930000305175781,0.5790000152587891,0.03677019849419594,Kevin Volland,a,83,OpenPlay,2015,Head,1298,Borussia M.Gladbach,Hoffenheim,3,1,2016-04-24 17:30:00,Tobias Strobl,Cross
+83111,70,SavedShot,0.935,0.47200000762939454,0.0870044007897377,Kevin Volland,a,83,OpenPlay,2015,LeftFoot,1298,Borussia M.Gladbach,Hoffenheim,3,1,2016-04-24 17:30:00,Sebastian Rudy,Cross
+83112,70,SavedShot,0.9569999694824218,0.47200000762939454,0.14113399386405945,Kevin Volland,a,83,OpenPlay,2015,LeftFoot,1298,Borussia M.Gladbach,Hoffenheim,3,1,2016-04-24 17:30:00,,Rebound
+83119,84,MissedShots,0.8719999694824219,0.4929999923706055,0.02668840065598488,Kevin Volland,a,83,OpenPlay,2015,Head,1298,Borussia M.Gladbach,Hoffenheim,3,1,2016-04-24 17:30:00,Tobias Strobl,Chipped
+83446,25,MissedShots,0.9230000305175782,0.3920000076293945,0.08262380212545395,Kevin Volland,h,83,OpenPlay,2015,LeftFoot,1302,Hoffenheim,Ingolstadt,2,1,2016-04-30 17:30:00,Andrej Kramaric,Chipped
+83463,78,SavedShot,0.8090000152587891,0.3609999847412109,0.10464400053024292,Kevin Volland,h,83,DirectFreekick,2015,LeftFoot,1302,Hoffenheim,Ingolstadt,2,1,2016-04-30 17:30:00,,Standard
+83661,30,MissedShots,0.9019999694824219,0.5309999847412109,0.07343350350856781,Kevin Volland,a,83,OpenPlay,2015,Head,1315,Hannover 96,Hoffenheim,1,0,2016-05-07 17:30:00,Andrej Kramaric,Cross
+83670,60,BlockedShot,0.8580000305175781,0.46099998474121096,0.08793730288743973,Kevin Volland,a,83,OpenPlay,2015,RightFoot,1315,Hannover 96,Hoffenheim,1,0,2016-05-07 17:30:00,Pavel Kaderábek,Pass
+83837,8,BlockedShot,0.9690000152587891,0.6370000076293946,0.06116180121898651,Kevin Volland,h,83,OpenPlay,2015,LeftFoot,1322,Hoffenheim,Schalke 04,1,4,2016-05-14 17:30:00,,None
+83845,44,BlockedShot,0.84,0.6880000305175781,0.03484459966421127,Kevin Volland,h,83,OpenPlay,2015,LeftFoot,1322,Hoffenheim,Schalke 04,1,4,2016-05-14 17:30:00,Tarik Elyounoussi,Pass
+127625,16,SavedShot,0.8569999694824219,0.3120000076293945,0.05321339890360832,Kevin Volland,a,83,OpenPlay,2016,LeftFoot,1333,Borussia M.Gladbach,Bayer Leverkusen,2,1,2016-08-27 20:30:00,Kevin Kampl,TakeOn
+128388,66,SavedShot,0.8669999694824219,0.54,0.1069519966840744,Kevin Volland,a,83,OpenPlay,2016,RightFoot,1348,Eintracht Frankfurt,Bayer Leverkusen,2,1,2016-09-17 17:30:00,Hakan Calhanoglu,Pass
+128389,70,MissedShots,0.9119999694824219,0.4879999923706055,0.6118990182876587,Kevin Volland,a,83,OpenPlay,2016,RightFoot,1348,Eintracht Frankfurt,Bayer Leverkusen,2,1,2016-09-17 17:30:00,Julian Brandt,Pass
+128417,22,MissedShots,0.9290000152587891,0.3840000152587891,0.03219649940729141,Kevin Volland,h,83,FromCorner,2016,Head,1361,Bayer Leverkusen,Augsburg,0,0,2016-09-21 22:00:00,Hakan Calhanoglu,Cross
+128423,37,BlockedShot,0.904000015258789,0.19200000762939454,0.06925059854984283,Kevin Volland,h,83,DirectFreekick,2016,LeftFoot,1361,Bayer Leverkusen,Augsburg,0,0,2016-09-21 22:00:00,,Standard
+128672,84,BlockedShot,0.7280000305175781,0.5,0.022199299186468124,Kevin Volland,a,83,OpenPlay,2016,LeftFoot,1365,Mainz 05,Bayer Leverkusen,2,3,2016-09-24 17:30:00,Kevin Kampl,Pass
+128866,86,SavedShot,0.8930000305175781,0.40299999237060546,0.09844460338354111,Kevin Volland,h,83,OpenPlay,2016,LeftFoot,1378,Bayer Leverkusen,Borussia Dortmund,2,0,2016-10-01 20:30:00,Bernd Leno,TakeOn
+129218,34,MissedShots,0.7980000305175782,0.40200000762939453,0.03650299832224846,Kevin Volland,a,83,OpenPlay,2016,LeftFoot,1387,Werder Bremen,Bayer Leverkusen,2,1,2016-10-15 20:30:00,,None
+129826,84,BlockedShot,0.9119999694824219,0.3820000076293945,0.09002979844808578,Kevin Volland,h,83,OpenPlay,2016,LeftFoot,2815,Bayer Leverkusen,RasenBallsport Leipzig,2,3,2016-11-18 23:30:00,Julian Brandt,Pass
+130866,81,MissedShots,0.98,0.42200000762939455,0.5210369825363159,Kevin Volland,a,83,OpenPlay,2016,Head,2830,Bayern Munich,Bayer Leverkusen,2,1,2016-11-26 21:30:00,Jonathan Tah,TakeOn
+132174,60,BlockedShot,0.764000015258789,0.605999984741211,0.020681099966168404,Kevin Volland,a,83,OpenPlay,2016,RightFoot,3740,Hamburger SV,Bayer Leverkusen,1,0,2017-02-03 19:30:00,Charles Aránguiz,Pass
+132441,77,Goal,0.935,0.485,0.513841986656189,Kevin Volland,h,83,OpenPlay,2016,LeftFoot,3750,Bayer Leverkusen,Eintracht Frankfurt,3,0,2017-02-11 14:30:00,Karim Bellarabi,Cross
+132443,80,MissedShots,0.9369999694824219,0.4779999923706055,0.06880059838294983,Kevin Volland,h,83,FromCorner,2016,Head,3750,Bayer Leverkusen,Eintracht Frankfurt,3,0,2017-02-11 14:30:00,Kevin Kampl,Aerial
+131958,61,SavedShot,0.7709999847412109,0.24100000381469727,0.04373529925942421,Kevin Volland,h,83,DirectFreekick,2016,LeftFoot,3771,Bayer Leverkusen,Mainz 05,0,2,2017-02-25 14:30:00,,Standard
+132449,12,BlockedShot,0.8280000305175781,0.62,0.05373600125312805,Kevin Volland,a,83,OpenPlay,2016,LeftFoot,3781,Borussia Dortmund,Bayer Leverkusen,6,2,2017-03-04 14:30:00,Admir Mehmedi,Pass
+132451,13,BlockedShot,0.8719999694824219,0.6229999923706054,0.0574255995452404,Kevin Volland,a,83,OpenPlay,2016,LeftFoot,3781,Borussia Dortmund,Bayer Leverkusen,6,2,2017-03-04 14:30:00,,None
+132452,14,MissedShots,0.9369999694824219,0.62,0.04954639822244644,Kevin Volland,a,83,FromCorner,2016,LeftFoot,3781,Borussia Dortmund,Bayer Leverkusen,6,2,2017-03-04 14:30:00,Kai Havertz,Cross
+132464,47,Goal,0.905,0.705,0.1823830008506775,Kevin Volland,a,83,OpenPlay,2016,LeftFoot,3781,Borussia Dortmund,Bayer Leverkusen,6,2,2017-03-04 14:30:00,Wendell,Pass
+133596,6,Goal,0.9319999694824219,0.4929999923706055,0.46055498719215393,Kevin Volland,h,83,OpenPlay,2016,Head,3785,Bayer Leverkusen,Werder Bremen,1,1,2017-03-10 19:30:00,,Rebound
+133599,28,BlockedShot,0.86,0.5570000076293945,0.09396819770336151,Kevin Volland,h,83,OpenPlay,2016,LeftFoot,3785,Bayer Leverkusen,Werder Bremen,1,1,2017-03-10 19:30:00,,None
+132737,48,SavedShot,0.7709999847412109,0.30700000762939456,0.05717489868402481,Kevin Volland,a,83,DirectFreekick,2016,LeftFoot,3799,Hoffenheim,Bayer Leverkusen,1,0,2017-03-18 14:30:00,,Standard
+132934,64,Goal,0.9730000305175781,0.575,0.11856699734926224,Kevin Volland,h,83,SetPiece,2016,LeftFoot,3811,Bayer Leverkusen,Wolfsburg,3,3,2017-04-02 16:30:00,Kai Havertz,Pass
+132939,84,BlockedShot,0.740999984741211,0.4640000152587891,0.022744499146938324,Kevin Volland,h,83,OpenPlay,2016,LeftFoot,3811,Bayer Leverkusen,Wolfsburg,3,3,2017-04-02 16:30:00,Aleksandar Dragovic,Chipped
+134265,55,Goal,0.8919999694824219,0.6,0.09743580222129822,Kevin Volland,a,83,OpenPlay,2016,LeftFoot,3816,Darmstadt,Bayer Leverkusen,0,2,2017-04-05 19:00:00,,None
+134269,66,SavedShot,0.955,0.72,0.10277699679136276,Kevin Volland,a,83,OpenPlay,2016,LeftFoot,3816,Darmstadt,Bayer Leverkusen,0,2,2017-04-05 19:00:00,Julian Brandt,Pass
+134272,69,BlockedShot,0.8880000305175781,0.5479999923706055,0.1340859979391098,Kevin Volland,a,83,OpenPlay,2016,RightFoot,3816,Darmstadt,Bayer Leverkusen,0,2,2017-04-05 19:00:00,Wendell,Pass
+135034,91,MissedShots,0.6569999694824219,0.7390000152587891,0.013585600070655346,Kevin Volland,h,83,OpenPlay,2016,LeftFoot,3831,Bayer Leverkusen,Bayern Munich,0,0,2017-04-15 17:30:00,Wendell,BallRecovery
+134073,15,SavedShot,0.8690000152587891,0.6719999694824219,0.05534939840435982,Kevin Volland,a,83,OpenPlay,2016,LeftFoot,3847,Freiburg,Bayer Leverkusen,2,1,2017-04-23 14:30:00,Kai Havertz,Pass
+134081,59,Goal,0.885,0.5,0.7577769756317139,Kevin Volland,a,83,Penalty,2016,LeftFoot,3847,Freiburg,Bayer Leverkusen,2,1,2017-04-23 14:30:00,,Standard
+134082,64,ShotOnPost,0.735,0.5309999847412109,0.01818780042231083,Kevin Volland,a,83,OpenPlay,2016,LeftFoot,3847,Freiburg,Bayer Leverkusen,2,1,2017-04-23 14:30:00,Julian Baumgartlinger,BallRecovery
+134093,92,MissedShots,0.8469999694824218,0.3120000076293945,0.04592829942703247,Kevin Volland,a,83,OpenPlay,2016,LeftFoot,3847,Freiburg,Bayer Leverkusen,2,1,2017-04-23 14:30:00,Joel Pohjanpalo,HeadPass
+134230,3,MissedShots,0.8119999694824219,0.6179999923706054,0.04017990082502365,Kevin Volland,h,83,OpenPlay,2016,RightFoot,3856,Bayer Leverkusen,Schalke 04,1,4,2017-04-28 19:30:00,,None
+134234,11,MissedShots,0.7369999694824219,0.48200000762939454,0.018503200262784958,Kevin Volland,h,83,OpenPlay,2016,LeftFoot,3856,Bayer Leverkusen,Schalke 04,1,4,2017-04-28 19:30:00,Roberto Hilbert,Pass
+135071,81,BlockedShot,0.89,0.6530000305175782,0.5551699995994568,Kevin Volland,a,83,OpenPlay,2016,LeftFoot,3865,Ingolstadt,Bayer Leverkusen,1,1,2017-05-06 14:30:00,Julian Baumgartlinger,TakeOn
+165766,20,SavedShot,0.9390000152587891,0.3120000076293945,0.0656374990940094,Kevin Volland,a,83,OpenPlay,2017,RightFoot,8259,Bayern Munich,Bayer Leverkusen,3,1,2017-08-18 19:30:00,Admir Mehmedi,Pass
+166118,15,MissedShots,0.8590000152587891,0.48200000762939454,0.3504590094089508,Kevin Volland,h,83,OpenPlay,2017,RightFoot,8271,Bayer Leverkusen,Hoffenheim,2,2,2017-08-26 14:30:00,Admir Mehmedi,Pass
+166420,54,MissedShots,0.9059999847412109,0.5029999923706054,0.12438700348138809,Kevin Volland,a,83,OpenPlay,2017,Head,8278,Mainz 05,Bayer Leverkusen,3,1,2017-09-09 14:30:00,Karim Bellarabi,Cross
+166668,20,Goal,0.749000015258789,0.5790000152587891,0.02432749979197979,Kevin Volland,h,83,OpenPlay,2017,LeftFoot,8293,Bayer Leverkusen,Freiburg,4,0,2017-09-17 14:30:00,Charles Aránguiz,Pass
+166674,33,Goal,0.97,0.5270000076293946,0.7605869770050049,Kevin Volland,h,83,OpenPlay,2017,LeftFoot,8293,Bayer Leverkusen,Freiburg,4,0,2017-09-17 14:30:00,,None
+166680,54,MissedShots,0.745999984741211,0.40900001525878904,0.035364799201488495,Kevin Volland,h,83,OpenPlay,2017,LeftFoot,8293,Bayer Leverkusen,Freiburg,4,0,2017-09-17 14:30:00,Lars Bender,Pass
+166859,33,BlockedShot,0.7069999694824218,0.4809999847412109,0.015506899915635586,Kevin Volland,a,83,OpenPlay,2017,LeftFoot,8300,Hertha Berlin,Bayer Leverkusen,2,1,2017-09-20 19:30:00,Charles Aránguiz,Pass
+166869,90,MissedShots,0.9030000305175782,0.46799999237060547,0.08013450354337692,Kevin Volland,a,83,OpenPlay,2017,Head,8300,Hertha Berlin,Bayer Leverkusen,2,1,2017-09-20 19:30:00,Admir Mehmedi,Cross
+166754,19,Goal,0.8730000305175781,0.6619999694824219,0.04973459988832474,Kevin Volland,h,83,OpenPlay,2017,LeftFoot,8312,Bayer Leverkusen,Hamburger SV,3,0,2017-09-24 17:00:00,Leon Bailey,HeadPass
+166775,82,Goal,0.9530000305175781,0.524000015258789,0.7275300025939941,Kevin Volland,h,83,OpenPlay,2017,LeftFoot,8312,Bayer Leverkusen,Hamburger SV,3,0,2017-09-24 17:00:00,Lucas Alario,Pass
+167159,14,BlockedShot,0.759000015258789,0.5509999847412109,0.02704549953341484,Kevin Volland,a,83,OpenPlay,2017,LeftFoot,8314,Schalke 04,Bayer Leverkusen,1,1,2017-09-29 19:30:00,Charles Aránguiz,Pass
+167165,39,SavedShot,0.75,0.28899999618530275,0.044577501714229584,Kevin Volland,a,83,DirectFreekick,2017,LeftFoot,8314,Schalke 04,Bayer Leverkusen,1,1,2017-09-29 19:30:00,,Standard
+167791,28,SavedShot,0.8519999694824218,0.580999984741211,0.0658624991774559,Kevin Volland,h,83,OpenPlay,2017,RightFoot,8327,Bayer Leverkusen,Wolfsburg,2,2,2017-10-15 14:30:00,,None
+167805,63,SavedShot,0.8809999847412109,0.6309999847412109,0.1403370052576065,Kevin Volland,h,83,OpenPlay,2017,LeftFoot,8327,Bayer Leverkusen,Wolfsburg,2,2,2017-10-15 14:30:00,Julian Brandt,Throughball
+168173,68,Goal,0.84,0.5829999923706055,0.45346599817276,Kevin Volland,a,83,OpenPlay,2017,LeftFoot,8334,Borussia M.Gladbach,Bayer Leverkusen,1,5,2017-10-21 14:30:00,Wendell,Throughball
+168762,7,MissedShots,0.9030000305175782,0.6480000305175782,0.06605560332536697,Kevin Volland,h,83,OpenPlay,2017,LeftFoot,8345,Bayer Leverkusen,FC Cologne,2,1,2017-10-28 14:30:00,,Rebound
+168770,50,MissedShots,0.8680000305175781,0.539000015258789,0.06842830032110214,Kevin Volland,h,83,OpenPlay,2017,LeftFoot,8345,Bayer Leverkusen,FC Cologne,2,1,2017-10-28 14:30:00,,None
+167612,46,Goal,0.855999984741211,0.625999984741211,0.105772003531456,Kevin Volland,a,83,OpenPlay,2017,RightFoot,8354,Augsburg,Bayer Leverkusen,1,1,2017-11-04 14:30:00,Jonathan Tah,Chipped
+168022,48,MissedShots,0.8630000305175781,0.45,0.02809480018913746,Kevin Volland,h,83,OpenPlay,2017,Head,8363,Bayer Leverkusen,RasenBallsport Leipzig,2,2,2017-11-18 14:30:00,Benjamin Henrichs,Cross
+168026,56,SavedShot,0.9290000152587891,0.735,0.03376990184187889,Kevin Volland,h,83,OpenPlay,2017,LeftFoot,8363,Bayer Leverkusen,RasenBallsport Leipzig,2,2,2017-11-18 14:30:00,Charles Aránguiz,Pass
+168033,73,Goal,0.9519999694824218,0.5659999847412109,0.5300160050392151,Kevin Volland,h,83,FromCorner,2017,RightFoot,8363,Bayer Leverkusen,RasenBallsport Leipzig,2,2,2017-11-18 14:30:00,,None
+168512,36,SavedShot,0.8809999847412109,0.664000015258789,0.07002340257167816,Kevin Volland,a,83,OpenPlay,2017,LeftFoot,8372,Eintracht Frankfurt,Bayer Leverkusen,0,1,2017-11-25 14:30:00,Admir Mehmedi,Pass
+168513,38,SavedShot,0.795,0.7280000305175781,0.023259999230504036,Kevin Volland,a,83,OpenPlay,2017,RightFoot,8372,Eintracht Frankfurt,Bayer Leverkusen,0,1,2017-11-25 14:30:00,Admir Mehmedi,Pass
+168518,50,MissedShots,0.914000015258789,0.5479999923706055,0.0541996993124485,Kevin Volland,a,83,OpenPlay,2017,Head,8372,Eintracht Frankfurt,Bayer Leverkusen,0,1,2017-11-25 14:30:00,Kai Havertz,Chipped
+168525,75,Goal,0.8859999847412109,0.4,0.09373690187931061,Kevin Volland,a,83,OpenPlay,2017,LeftFoot,8372,Eintracht Frankfurt,Bayer Leverkusen,0,1,2017-11-25 14:30:00,Admir Mehmedi,Cross
+169008,29,Goal,0.89,0.4620000076293945,0.7652559876441956,Kevin Volland,h,83,OpenPlay,2017,LeftFoot,8382,Bayer Leverkusen,Borussia Dortmund,1,1,2017-12-02 14:30:00,Kai Havertz,TakeOn
+169012,37,BlockedShot,0.8930000305175781,0.4620000076293945,0.13571800291538239,Kevin Volland,h,83,OpenPlay,2017,LeftFoot,8382,Bayer Leverkusen,Borussia Dortmund,1,1,2017-12-02 14:30:00,Leon Bailey,Pass
+169021,71,SavedShot,0.8690000152587891,0.7419999694824219,0.3254239857196808,Kevin Volland,h,83,OpenPlay,2017,LeftFoot,8382,Bayer Leverkusen,Borussia Dortmund,1,1,2017-12-02 14:30:00,Lars Bender,Chipped
+179793,17,SavedShot,0.785,0.31799999237060544,0.043028298765420914,Kevin Volland,a,83,OpenPlay,2017,LeftFoot,8393,VfB Stuttgart,Bayer Leverkusen,0,2,2017-12-08 19:30:00,Julian Brandt,Pass
+184026,24,MissedShots,0.8159999847412109,0.710999984741211,0.03342920169234276,Kevin Volland,h,83,OpenPlay,2017,LeftFoot,8399,Bayer Leverkusen,Werder Bremen,1,0,2017-12-13 19:30:00,Lucas Alario,Pass
+184029,35,MissedShots,0.92,0.445,0.1476230025291443,Kevin Volland,h,83,OpenPlay,2017,RightFoot,8399,Bayer Leverkusen,Werder Bremen,1,0,2017-12-13 19:30:00,Leon Bailey,Chipped
+187142,61,BlockedShot,0.8909999847412109,0.6509999847412109,0.12132400274276733,Kevin Volland,h,83,OpenPlay,2017,LeftFoot,8417,Bayer Leverkusen,Bayern Munich,1,3,2018-01-12 19:30:00,Leon Bailey,Pass
+187143,70,Goal,0.8040000152587891,0.4159999847412109,0.0557342991232872,Kevin Volland,h,83,OpenPlay,2017,LeftFoot,8417,Bayer Leverkusen,Bayern Munich,1,3,2018-01-12 19:30:00,Kai Havertz,TakeOn
+187146,75,BlockedShot,0.8930000305175781,0.43900001525878907,0.10227099806070328,Kevin Volland,h,83,OpenPlay,2017,LeftFoot,8417,Bayer Leverkusen,Bayern Munich,1,3,2018-01-12 19:30:00,Kai Havertz,Pass
+188669,87,MissedShots,0.7390000152587891,0.5570000076293945,0.029902400448918343,Kevin Volland,a,83,OpenPlay,2017,LeftFoot,8422,Hoffenheim,Bayer Leverkusen,1,4,2018-01-20 14:30:00,Admir Mehmedi,LayOff
+190387,30,BlockedShot,0.8919999694824219,0.42200000762939455,0.04333150014281273,Kevin Volland,h,83,FromCorner,2017,Head,8438,Bayer Leverkusen,Mainz 05,2,0,2018-01-28 14:30:00,Leon Bailey,Cross
+195117,48,MissedShots,0.909000015258789,0.645,0.06246500089764595,Kevin Volland,h,83,OpenPlay,2017,RightFoot,8448,Bayer Leverkusen,Hertha Berlin,0,2,2018-02-10 14:30:00,Lucas Alario,BallTouch
+195124,71,ShotOnPost,0.9819999694824219,0.4229999923706055,0.5181869864463806,Kevin Volland,h,83,SetPiece,2017,LeftFoot,8448,Bayer Leverkusen,Hertha Berlin,0,2,2018-02-10 14:30:00,,Rebound
+196251,22,SavedShot,0.8480000305175781,0.5629999923706055,0.06469350308179855,Kevin Volland,a,83,OpenPlay,2017,LeftFoot,8464,Hamburger SV,Bayer Leverkusen,1,2,2018-02-17 14:30:00,Julian Brandt,Rebound
+196258,35,BlockedShot,0.915,0.35200000762939454,0.08089110255241394,Kevin Volland,a,83,OpenPlay,2017,LeftFoot,8464,Hamburger SV,Bayer Leverkusen,1,2,2018-02-17 14:30:00,Tin Jedvaj,Pass
+197965,53,SavedShot,0.825,0.29700000762939455,0.029446899890899658,Kevin Volland,h,83,OpenPlay,2017,LeftFoot,8474,Bayer Leverkusen,Schalke 04,0,2,2018-02-25 14:30:00,Kai Havertz,Pass
+198727,8,BlockedShot,0.754000015258789,0.185,0.010323300026357174,Kevin Volland,a,83,OpenPlay,2017,LeftFoot,8483,Wolfsburg,Bayer Leverkusen,1,2,2018-03-03 14:30:00,Julian Baumgartlinger,TakeOn
+198728,8,SavedShot,0.7390000152587891,0.3220000076293945,0.014440399594604969,Kevin Volland,a,83,OpenPlay,2017,LeftFoot,8483,Wolfsburg,Bayer Leverkusen,1,2,2018-03-03 14:30:00,Julian Baumgartlinger,Pass
+198732,26,BlockedShot,0.8969999694824219,0.4640000152587891,0.12860099971294403,Kevin Volland,a,83,OpenPlay,2017,RightFoot,8483,Wolfsburg,Bayer Leverkusen,1,2,2018-03-03 14:30:00,Julian Baumgartlinger,Pass
+198746,85,MissedShots,0.8530000305175781,0.3039999961853027,0.04807959869503975,Kevin Volland,a,83,OpenPlay,2017,LeftFoot,8483,Wolfsburg,Bayer Leverkusen,1,2,2018-03-03 14:30:00,Lucas Alario,Pass
+200180,35,MissedShots,0.9669999694824218,0.539000015258789,0.6162229776382446,Kevin Volland,h,83,OpenPlay,2017,Head,8492,Bayer Leverkusen,Borussia M.Gladbach,2,0,2018-03-10 17:30:00,Leon Bailey,Cross
+200186,62,MissedShots,0.93,0.66,0.07762420177459717,Kevin Volland,h,83,OpenPlay,2017,LeftFoot,8492,Bayer Leverkusen,Borussia M.Gladbach,2,0,2018-03-10 17:30:00,Kai Havertz,HeadPass
+207484,68,Goal,0.8780000305175781,0.45799999237060546,0.4592660069465637,Kevin Volland,a,83,OpenPlay,2017,LeftFoot,8512,RasenBallsport Leipzig,Bayer Leverkusen,1,4,2018-04-09 18:30:00,Julian Brandt,Pass
+208384,11,MissedShots,0.8090000152587891,0.355,0.03630400076508522,Kevin Volland,h,83,OpenPlay,2017,LeftFoot,8525,Bayer Leverkusen,Eintracht Frankfurt,4,1,2018-04-14 13:30:00,Benjamin Henrichs,Pass
+208385,13,SavedShot,0.8340000152587891,0.56,0.09491810202598572,Kevin Volland,h,83,OpenPlay,2017,LeftFoot,8525,Bayer Leverkusen,Eintracht Frankfurt,4,1,2018-04-14 13:30:00,Lars Bender,Pass
+208391,57,SavedShot,0.8519999694824218,0.6179999923706054,0.058664001524448395,Kevin Volland,h,83,OpenPlay,2017,LeftFoot,8525,Bayer Leverkusen,Eintracht Frankfurt,4,1,2018-04-14 13:30:00,,None
+208394,70,Goal,0.8930000305175781,0.485,0.440203994512558,Kevin Volland,h,83,OpenPlay,2017,LeftFoot,8525,Bayer Leverkusen,Eintracht Frankfurt,4,1,2018-04-14 13:30:00,Kai Havertz,Pass
+208396,76,Goal,0.9330000305175781,0.485,0.6087650060653687,Kevin Volland,h,83,OpenPlay,2017,RightFoot,8525,Bayer Leverkusen,Eintracht Frankfurt,4,1,2018-04-14 13:30:00,Karim Bellarabi,Pass
+208399,87,Goal,0.955,0.5329999923706055,0.9113500118255615,Kevin Volland,h,83,OpenPlay,2017,LeftFoot,8525,Bayer Leverkusen,Eintracht Frankfurt,4,1,2018-04-14 13:30:00,Karim Bellarabi,Pass
+211945,55,MissedShots,0.8930000305175781,0.5359999847412109,0.4303869903087616,Kevin Volland,h,83,OpenPlay,2017,LeftFoot,8544,Bayer Leverkusen,VfB Stuttgart,0,1,2018-04-28 16:30:00,Lars Bender,Pass
+220313,32,BlockedShot,0.9230000305175782,0.5729999923706055,0.13499799370765686,Kevin Volland,a,83,OpenPlay,2018,LeftFoot,10343,Borussia M.Gladbach,Bayer Leverkusen,2,0,2018-08-25 19:30:00,Julian Brandt,Pass
+220323,65,SavedShot,0.8380000305175781,0.7230000305175781,0.027619199827313423,Kevin Volland,a,83,OpenPlay,2018,LeftFoot,10343,Borussia M.Gladbach,Bayer Leverkusen,2,0,2018-08-25 19:30:00,Leon Bailey,TakeOn
+221636,45,MissedShots,0.955,0.5070000076293946,0.12577000260353088,Kevin Volland,h,83,OpenPlay,2018,Head,10351,Bayer Leverkusen,Wolfsburg,1,3,2018-09-01 13:30:00,Mitchell Weiser,Aerial
+221642,63,BlockedShot,0.7530000305175781,0.62,0.02162270061671734,Kevin Volland,h,83,OpenPlay,2018,RightFoot,10351,Bayer Leverkusen,Wolfsburg,1,3,2018-09-01 13:30:00,Aleksandar Dragovic,Pass
+226428,49,Goal,0.9819999694824219,0.53,0.9157459735870361,Kevin Volland,a,83,FromCorner,2018,LeftFoot,10377,Fortuna Duesseldorf,Bayer Leverkusen,1,2,2018-09-26 16:30:00,Dominik Kohr,Rebound
+226430,59,Goal,0.9209999847412109,0.46,0.34573400020599365,Kevin Volland,a,83,OpenPlay,2018,Head,10377,Fortuna Duesseldorf,Bayer Leverkusen,1,2,2018-09-26 16:30:00,Kai Havertz,Chipped
+228229,6,MissedShots,0.95,0.5820000076293945,0.04286880046129227,Kevin Volland,h,83,FromCorner,2018,Head,10388,Bayer Leverkusen,Borussia Dortmund,2,4,2018-09-29 16:30:00,Julian Brandt,CornerAwarded
+228243,53,ShotOnPost,0.7559999847412109,0.46900001525878904,0.03167809918522835,Kevin Volland,h,83,OpenPlay,2018,LeftFoot,10388,Bayer Leverkusen,Borussia Dortmund,2,4,2018-09-29 16:30:00,Lars Bender,Pass
+255348,26,MissedShots,0.695,0.4929999923706055,0.01893250085413456,Kevin Volland,a,83,OpenPlay,2018,LeftFoot,10397,Freiburg,Bayer Leverkusen,0,0,2018-10-07 11:30:00,Dominik Kohr,Pass
+255847,7,Goal,0.9540000152587891,0.5590000152587891,0.570917010307312,Kevin Volland,a,83,OpenPlay,2018,LeftFoot,10412,Werder Bremen,Bayer Leverkusen,2,6,2018-10-28 16:00:00,Karim Bellarabi,Pass
+255848,19,SavedShot,0.764000015258789,0.37900001525878907,0.026093900203704834,Kevin Volland,a,83,OpenPlay,2018,LeftFoot,10412,Werder Bremen,Bayer Leverkusen,2,6,2018-10-28 16:00:00,Mitchell Weiser,Pass
+256028,9,SavedShot,0.8119999694824219,0.6370000076293946,0.027947600930929184,Kevin Volland,h,83,SetPiece,2018,LeftFoot,10424,Bayer Leverkusen,Hoffenheim,1,4,2018-11-03 14:30:00,,None
+256043,53,MissedShots,0.8959999847412109,0.6229999923706054,0.023021899163722992,Kevin Volland,h,83,OpenPlay,2018,Head,10424,Bayer Leverkusen,Hoffenheim,1,4,2018-11-03 14:30:00,Mitchell Weiser,Cross
+256046,64,MissedShots,0.8680000305175781,0.6730000305175782,0.05583159998059273,Kevin Volland,h,83,OpenPlay,2018,LeftFoot,10424,Bayer Leverkusen,Hoffenheim,1,4,2018-11-03 14:30:00,Wendell,Pass
+256051,71,SavedShot,0.9430000305175781,0.4470000076293945,0.5125420093536377,Kevin Volland,h,83,OpenPlay,2018,RightFoot,10424,Bayer Leverkusen,Hoffenheim,1,4,2018-11-03 14:30:00,,Dispossessed
+256376,76,MissedShots,0.8180000305175781,0.5590000152587891,0.03932559862732887,Kevin Volland,a,83,FromCorner,2018,LeftFoot,10429,RasenBallsport Leipzig,Bayer Leverkusen,3,0,2018-11-11 14:30:00,,None
+256400,6,MissedShots,0.8919999694824219,0.3920000076293945,0.10072900354862213,Kevin Volland,h,83,OpenPlay,2018,RightFoot,10438,Bayer Leverkusen,VfB Stuttgart,2,0,2018-11-23 19:30:00,Karim Bellarabi,Pass
+256401,8,BlockedShot,0.9019999694824219,0.6880000305175781,0.11309000104665756,Kevin Volland,h,83,OpenPlay,2018,LeftFoot,10438,Bayer Leverkusen,VfB Stuttgart,2,0,2018-11-23 19:30:00,Julian Brandt,Throughball
+256403,15,BlockedShot,0.8819999694824219,0.18200000762939453,0.060838401317596436,Kevin Volland,h,83,DirectFreekick,2018,LeftFoot,10438,Bayer Leverkusen,VfB Stuttgart,2,0,2018-11-23 19:30:00,,Standard
+256408,33,MissedShots,0.9519999694824218,0.34,0.22709499299526215,Kevin Volland,h,83,OpenPlay,2018,RightFoot,10438,Bayer Leverkusen,VfB Stuttgart,2,0,2018-11-23 19:30:00,Julian Brandt,Pass
+256412,46,SavedShot,0.9269999694824219,0.435,0.10803700238466263,Kevin Volland,h,83,OpenPlay,2018,LeftFoot,10438,Bayer Leverkusen,VfB Stuttgart,2,0,2018-11-23 19:30:00,Tin Jedvaj,Chipped
+256417,59,MissedShots,0.9319999694824219,0.475,0.6569880247116089,Kevin Volland,h,83,OpenPlay,2018,LeftFoot,10438,Bayer Leverkusen,VfB Stuttgart,2,0,2018-11-23 19:30:00,Karim Bellarabi,Pass
+256422,75,Goal,0.9530000305175781,0.45,0.40794000029563904,Kevin Volland,h,83,FromCorner,2018,Head,10438,Bayer Leverkusen,VfB Stuttgart,2,0,2018-11-23 19:30:00,Kai Havertz,Chipped
+256424,82,Goal,0.845,0.5109999847412109,0.10039299726486206,Kevin Volland,h,83,OpenPlay,2018,LeftFoot,10438,Bayer Leverkusen,VfB Stuttgart,2,0,2018-11-23 19:30:00,Lucas Alario,Pass
+256940,9,MissedShots,0.9780000305175781,0.42400001525878905,0.4878250062465668,Kevin Volland,a,83,FromCorner,2018,RightFoot,10453,Nuernberg,Bayer Leverkusen,1,1,2018-12-03 19:30:00,,Rebound
+256950,48,MissedShots,0.955,0.3340000152587891,0.05359619855880737,Kevin Volland,a,83,OpenPlay,2018,RightFoot,10453,Nuernberg,Bayer Leverkusen,1,1,2018-12-03 19:30:00,Karim Bellarabi,Cross
+256958,74,SavedShot,0.785,0.5840000152587891,0.02314249984920025,Kevin Volland,a,83,SetPiece,2018,LeftFoot,10453,Nuernberg,Bayer Leverkusen,1,1,2018-12-03 19:30:00,,None
+256966,85,MissedShots,0.8619999694824219,0.47900001525878905,0.10083899646997452,Kevin Volland,a,83,OpenPlay,2018,LeftFoot,10453,Nuernberg,Bayer Leverkusen,1,1,2018-12-03 19:30:00,Lucas Alario,Pass
+257054,29,SavedShot,0.905,0.5579999923706055,0.1479479968547821,Kevin Volland,h,83,OpenPlay,2018,LeftFoot,10456,Bayer Leverkusen,Augsburg,1,0,2018-12-08 14:30:00,Leon Bailey,Pass
+257058,44,BlockedShot,0.8059999847412109,0.5790000152587891,0.06572890281677246,Kevin Volland,h,83,OpenPlay,2018,RightFoot,10456,Bayer Leverkusen,Augsburg,1,0,2018-12-08 14:30:00,,TakeOn
+257060,50,BlockedShot,0.8569999694824219,0.63,0.06798730045557022,Kevin Volland,h,83,OpenPlay,2018,LeftFoot,10456,Bayer Leverkusen,Augsburg,1,0,2018-12-08 14:30:00,Karim Bellarabi,Pass
+257061,54,SavedShot,0.919000015258789,0.595999984741211,0.4039109945297241,Kevin Volland,h,83,OpenPlay,2018,LeftFoot,10456,Bayer Leverkusen,Augsburg,1,0,2018-12-08 14:30:00,Leon Bailey,Pass
+257368,10,BlockedShot,0.865999984741211,0.47200000762939454,0.07112959772348404,Kevin Volland,a,83,SetPiece,2018,RightFoot,10467,Eintracht Frankfurt,Bayer Leverkusen,2,1,2018-12-16 17:00:00,,None
+257371,17,BlockedShot,0.955999984741211,0.6459999847412109,0.016149500384926796,Kevin Volland,a,83,FromCorner,2018,Head,10467,Eintracht Frankfurt,Bayer Leverkusen,2,1,2018-12-16 17:00:00,Julian Brandt,Cross
+257375,30,SavedShot,0.8090000152587891,0.3970000076293945,0.04412110149860382,Kevin Volland,a,83,OpenPlay,2018,LeftFoot,10467,Eintracht Frankfurt,Bayer Leverkusen,2,1,2018-12-16 17:00:00,Julian Brandt,Pass
+257395,90,SavedShot,0.9230000305175782,0.5790000152587891,0.09104809910058975,Kevin Volland,a,83,OpenPlay,2018,RightFoot,10467,Eintracht Frankfurt,Bayer Leverkusen,2,1,2018-12-16 17:00:00,Karim Bellarabi,Chipped
+257885,2,ShotOnPost,0.93,0.3240000152587891,0.04329949989914894,Kevin Volland,h,83,OpenPlay,2018,RightFoot,10484,Bayer Leverkusen,Hertha Berlin,3,1,2018-12-22 14:30:00,Lukas Hradecky,Pass
+257886,4,Goal,0.9019999694824219,0.4520000076293945,0.4321660101413727,Kevin Volland,h,83,OpenPlay,2018,RightFoot,10484,Bayer Leverkusen,Hertha Berlin,3,1,2018-12-22 14:30:00,Charles Aránguiz,Pass
+278420,68,SavedShot,0.9,0.6519999694824219,0.06559550017118454,Kevin Volland,h,83,OpenPlay,2018,LeftFoot,10498,Bayer Leverkusen,Borussia M.Gladbach,0,1,2019-01-19 14:30:00,Kai Havertz,Pass
+278422,71,SavedShot,0.914000015258789,0.49900001525878906,0.09617819637060165,Kevin Volland,h,83,OpenPlay,2018,LeftFoot,10498,Bayer Leverkusen,Borussia M.Gladbach,0,1,2019-01-19 14:30:00,Karim Bellarabi,Cross
+278655,38,SavedShot,0.9219999694824219,0.6819999694824219,0.06012750044465065,Kevin Volland,a,83,OpenPlay,2018,LeftFoot,10506,Wolfsburg,Bayer Leverkusen,0,3,2019-01-26 14:30:00,Karim Bellarabi,Pass
+278665,57,SavedShot,0.7080000305175781,0.4420000076293945,0.023688599467277527,Kevin Volland,a,83,OpenPlay,2018,LeftFoot,10506,Wolfsburg,Bayer Leverkusen,0,3,2019-01-26 14:30:00,Lars Bender,Pass
+278666,59,SavedShot,0.9519999694824218,0.6719999694824219,0.09183230251073837,Kevin Volland,a,83,OpenPlay,2018,RightFoot,10506,Wolfsburg,Bayer Leverkusen,0,3,2019-01-26 14:30:00,Charles Aránguiz,TakeOn
+278669,61,Goal,0.919000015258789,0.34299999237060547,0.09636290371417999,Kevin Volland,a,83,OpenPlay,2018,RightFoot,10506,Wolfsburg,Bayer Leverkusen,0,3,2019-01-26 14:30:00,Charles Aránguiz,Pass
+278676,79,MissedShots,0.894000015258789,0.6809999847412109,0.07652220129966736,Kevin Volland,a,83,OpenPlay,2018,LeftFoot,10506,Wolfsburg,Bayer Leverkusen,0,3,2019-01-26 14:30:00,Julian Baumgartlinger,Pass
+278778,0,BlockedShot,0.8640000152587891,0.59,0.09212719649076462,Kevin Volland,h,83,OpenPlay,2018,RightFoot,10508,Bayer Leverkusen,Bayern Munich,3,1,2019-02-02 14:30:00,Julian Brandt,Pass
+278796,62,Goal,0.9230000305175782,0.4540000152587891,0.5101810097694397,Kevin Volland,h,83,OpenPlay,2018,LeftFoot,10508,Bayer Leverkusen,Bayern Munich,3,1,2019-02-02 14:30:00,Karim Bellarabi,Pass
+278959,13,SavedShot,0.8580000305175781,0.5220000076293946,0.10330100357532501,Kevin Volland,a,83,OpenPlay,2018,LeftFoot,10524,Mainz 05,Bayer Leverkusen,1,5,2019-02-08 19:30:00,Mitchell Weiser,Pass
+278968,35,MissedShots,0.8919999694824219,0.645,0.10174600034952164,Kevin Volland,a,83,OpenPlay,2018,LeftFoot,10524,Mainz 05,Bayer Leverkusen,1,5,2019-02-08 19:30:00,Leon Bailey,Pass
+279324,33,SavedShot,0.8090000152587891,0.2929999923706055,0.03239620104432106,Kevin Volland,h,83,OpenPlay,2018,LeftFoot,10527,Bayer Leverkusen,Fortuna Duesseldorf,2,0,2019-02-17 17:00:00,Julian Brandt,Pass
+279325,40,BlockedShot,0.9130000305175782,0.4540000152587891,0.44944900274276733,Kevin Volland,h,83,OpenPlay,2018,LeftFoot,10527,Bayer Leverkusen,Fortuna Duesseldorf,2,0,2019-02-17 17:00:00,Lucas Alario,Pass
+279326,45,SavedShot,0.8580000305175781,0.18200000762939453,0.024922499433159828,Kevin Volland,h,83,OpenPlay,2018,RightFoot,10527,Bayer Leverkusen,Fortuna Duesseldorf,2,0,2019-02-17 17:00:00,Kai Havertz,Pass
+279546,36,Goal,0.7869999694824219,0.3029999923706055,0.02250099927186966,Kevin Volland,a,83,OpenPlay,2018,LeftFoot,10536,Borussia Dortmund,Bayer Leverkusen,3,2,2019-02-24 17:00:00,Kai Havertz,Pass
+279554,72,MissedShots,0.7480000305175781,0.28200000762939453,0.042793601751327515,Kevin Volland,a,83,DirectFreekick,2018,LeftFoot,10536,Borussia Dortmund,Bayer Leverkusen,3,2,2019-02-24 17:00:00,,Standard
+279668,25,SavedShot,0.97,0.40599998474121096,0.4604159891605377,Kevin Volland,h,83,OpenPlay,2018,RightFoot,10545,Bayer Leverkusen,Freiburg,2,0,2019-03-02 14:30:00,,None
+279672,41,MissedShots,0.9059999847412109,0.5790000152587891,0.07516550272703171,Kevin Volland,h,83,FromCorner,2018,LeftFoot,10545,Bayer Leverkusen,Freiburg,2,0,2019-03-02 14:30:00,Aleksandar Dragovic,BallTouch
+279676,53,BlockedShot,0.8340000152587891,0.53,0.09350139647722244,Kevin Volland,h,83,OpenPlay,2018,LeftFoot,10545,Bayer Leverkusen,Freiburg,2,0,2019-03-02 14:30:00,Julian Brandt,Pass
+279677,54,BlockedShot,0.8780000305175781,0.5359999847412109,0.140065997838974,Kevin Volland,h,83,OpenPlay,2018,LeftFoot,10545,Bayer Leverkusen,Freiburg,2,0,2019-03-02 14:30:00,Julian Brandt,Throughball
+279680,63,SavedShot,0.7869999694824219,0.4279999923706055,0.05174430087208748,Kevin Volland,h,83,OpenPlay,2018,LeftFoot,10545,Bayer Leverkusen,Freiburg,2,0,2019-03-02 14:30:00,,BallRecovery
+279683,72,BlockedShot,0.9880000305175781,0.53,0.9648110270500183,Kevin Volland,h,83,OpenPlay,2018,LeftFoot,10545,Bayer Leverkusen,Freiburg,2,0,2019-03-02 14:30:00,Julian Brandt,Rebound
+285283,12,Goal,0.985,0.47200000762939454,0.9558150172233582,Kevin Volland,a,83,OpenPlay,2018,LeftFoot,10561,Hannover 96,Bayer Leverkusen,2,3,2019-03-10 17:00:00,,Rebound
+285285,20,MissedShots,0.98,0.2979999923706055,0.04896720126271248,Kevin Volland,a,83,OpenPlay,2018,RightFoot,10561,Hannover 96,Bayer Leverkusen,2,3,2019-03-10 17:00:00,Leon Bailey,Chipped
+285287,27,Goal,0.8540000152587891,0.5720000076293945,0.35731399059295654,Kevin Volland,a,83,OpenPlay,2018,LeftFoot,10561,Hannover 96,Bayer Leverkusen,2,3,2019-03-10 17:00:00,Julian Brandt,Throughball
+285290,46,MissedShots,0.9130000305175782,0.5929999923706055,0.434671014547348,Kevin Volland,a,83,OpenPlay,2018,LeftFoot,10561,Hannover 96,Bayer Leverkusen,2,3,2019-03-10 17:00:00,Leon Bailey,Pass
+286644,34,MissedShots,0.9159999847412109,0.44299999237060544,0.08239710330963135,Kevin Volland,h,83,OpenPlay,2018,Head,10563,Bayer Leverkusen,Werder Bremen,1,3,2019-03-17 12:30:00,Karim Bellarabi,Cross
+286661,90,MissedShots,0.955999984741211,0.585,0.04945610091090202,Kevin Volland,h,83,OpenPlay,2018,Head,10563,Bayer Leverkusen,Werder Bremen,1,3,2019-03-17 12:30:00,Leon Bailey,Aerial
+287159,12,MissedShots,0.9269999694824219,0.4909999847412109,0.05874190106987953,Kevin Volland,a,83,FromCorner,2018,Head,10571,Hoffenheim,Bayer Leverkusen,4,1,2019-03-29 19:30:00,Julian Brandt,Aerial
+287161,16,Goal,0.92,0.545,0.24253299832344055,Kevin Volland,a,83,OpenPlay,2018,Head,10571,Hoffenheim,Bayer Leverkusen,4,1,2019-03-29 19:30:00,Julian Brandt,Chipped
+287164,24,SavedShot,0.850999984741211,0.2610000038146973,0.028575699776411057,Kevin Volland,a,83,OpenPlay,2018,LeftFoot,10571,Hoffenheim,Bayer Leverkusen,4,1,2019-03-29 19:30:00,Leon Bailey,Pass
+291874,14,SavedShot,0.8719999694824219,0.4570000076293945,0.5856109857559204,Kevin Volland,h,83,OpenPlay,2018,LeftFoot,10582,Bayer Leverkusen,RasenBallsport Leipzig,2,4,2019-04-06 14:30:00,Julian Brandt,Throughball
+291877,25,SavedShot,0.9330000305175781,0.5609999847412109,0.3884519934654236,Kevin Volland,h,83,OpenPlay,2018,LeftFoot,10582,Bayer Leverkusen,RasenBallsport Leipzig,2,4,2019-04-06 14:30:00,Leon Bailey,Cross
+291878,37,MissedShots,0.845999984741211,0.7959999847412109,0.02406720072031021,Kevin Volland,h,83,OpenPlay,2018,LeftFoot,10582,Bayer Leverkusen,RasenBallsport Leipzig,2,4,2019-04-06 14:30:00,,None
+293417,38,SavedShot,0.9069999694824219,0.62,0.05910230055451393,Kevin Volland,a,83,FromCorner,2018,RightFoot,10592,VfB Stuttgart,Bayer Leverkusen,0,1,2019-04-13 14:30:00,,BallTouch
+293421,45,SavedShot,0.9119999694824219,0.43599998474121093,0.3438029885292053,Kevin Volland,a,83,FromCorner,2018,LeftFoot,10592,VfB Stuttgart,Bayer Leverkusen,0,1,2019-04-13 14:30:00,Jonathan Tah,HeadPass
+293423,51,MissedShots,0.9019999694824219,0.49400001525878906,0.10042600333690643,Kevin Volland,a,83,OpenPlay,2018,Head,10592,VfB Stuttgart,Bayer Leverkusen,0,1,2019-04-13 14:30:00,Charles Aránguiz,Cross
+293428,72,SavedShot,0.889000015258789,0.3629999923706055,0.08420079946517944,Kevin Volland,a,83,OpenPlay,2018,LeftFoot,10592,VfB Stuttgart,Bayer Leverkusen,0,1,2019-04-13 14:30:00,Julian Brandt,Chipped
+295157,71,BlockedShot,0.9269999694824219,0.5990000152587891,0.04919679835438728,Kevin Volland,h,83,FromCorner,2018,Head,10599,Bayer Leverkusen,Nuernberg,2,0,2019-04-20 14:30:00,Julian Brandt,Cross
+295159,72,SavedShot,0.8180000305175781,0.794000015258789,0.024280300363898277,Kevin Volland,h,83,OpenPlay,2018,LeftFoot,10599,Bayer Leverkusen,Nuernberg,2,0,2019-04-20 14:30:00,Wendell,Pass
+295162,85,Goal,0.8819999694824219,0.5990000152587891,0.13642799854278564,Kevin Volland,h,83,OpenPlay,2018,RightFoot,10599,Bayer Leverkusen,Nuernberg,2,0,2019-04-20 14:30:00,Lucas Alario,Pass
+297114,14,Goal,0.8690000152587891,0.6680000305175782,0.20662100613117218,Kevin Volland,a,83,OpenPlay,2018,LeftFoot,10612,Augsburg,Bayer Leverkusen,1,4,2019-04-26 19:30:00,Charles Aránguiz,Pass
+300198,16,BlockedShot,0.9719999694824218,0.6780000305175782,0.050721801817417145,Kevin Volland,h,83,OpenPlay,2018,LeftFoot,10618,Bayer Leverkusen,Eintracht Frankfurt,6,1,2019-05-05 17:00:00,Julian Brandt,Cross
+300200,22,SavedShot,0.9169999694824219,0.6969999694824218,0.06962980329990387,Kevin Volland,h,83,OpenPlay,2018,LeftFoot,10618,Bayer Leverkusen,Eintracht Frankfurt,6,1,2019-05-05 17:00:00,,None
+300215,86,MissedShots,0.8630000305175781,0.4620000076293945,0.12346299737691879,Kevin Volland,h,83,OpenPlay,2018,RightFoot,10618,Bayer Leverkusen,Eintracht Frankfurt,6,1,2019-05-05 17:00:00,Julian Brandt,Pass
+300772,82,SavedShot,0.904000015258789,0.624000015258789,0.10991600155830383,Kevin Volland,h,83,OpenPlay,2018,LeftFoot,10627,Bayer Leverkusen,Schalke 04,1,1,2019-05-11 14:30:00,,TakeOn
+300774,86,SavedShot,0.8080000305175781,0.5270000076293946,0.046955499798059464,Kevin Volland,h,83,OpenPlay,2018,RightFoot,10627,Bayer Leverkusen,Schalke 04,1,1,2019-05-11 14:30:00,Charles Aránguiz,Pass
+302353,15,MissedShots,0.865,0.745999984741211,0.029736699536442757,Kevin Volland,a,83,OpenPlay,2018,LeftFoot,10638,Hertha Berlin,Bayer Leverkusen,1,5,2019-05-18 13:30:00,Charles Aránguiz,Pass
+302367,71,MissedShots,0.8859999847412109,0.639000015258789,0.04660879820585251,Kevin Volland,a,83,OpenPlay,2018,LeftFoot,10638,Hertha Berlin,Bayer Leverkusen,1,5,2019-05-18 13:30:00,,Aerial
+310675,9,MissedShots,0.8690000152587891,0.34,0.05268539860844612,Kevin Volland,h,83,OpenPlay,2019,LeftFoot,12407,Bayer Leverkusen,Paderborn,3,2,2019-08-17 14:30:00,Lars Bender,TakeOn
+310682,26,BlockedShot,0.895,0.42700000762939455,0.12106499820947647,Kevin Volland,h,83,OpenPlay,2019,LeftFoot,12407,Bayer Leverkusen,Paderborn,3,2,2019-08-17 14:30:00,Kai Havertz,Pass
+310690,64,MissedShots,0.915,0.46,0.10843099653720856,Kevin Volland,h,83,OpenPlay,2019,Head,12407,Bayer Leverkusen,Paderborn,3,2,2019-08-17 14:30:00,Leon Bailey,Cross
+310691,68,Goal,0.9319999694824219,0.495,0.5809929966926575,Kevin Volland,h,83,OpenPlay,2019,RightFoot,12407,Bayer Leverkusen,Paderborn,3,2,2019-08-17 14:30:00,Wendell,Pass
+312382,3,SavedShot,0.7930000305175782,0.38599998474121094,0.033041201531887054,Kevin Volland,a,83,OpenPlay,2019,LeftFoot,12415,Fortuna Duesseldorf,Bayer Leverkusen,1,3,2019-08-24 14:30:00,Kai Havertz,Pass
+315649,58,BlockedShot,0.8690000152587891,0.46,0.10568200051784515,Kevin Volland,h,83,OpenPlay,2019,LeftFoot,12426,Bayer Leverkusen,Hoffenheim,0,0,2019-08-31 14:30:00,Leon Bailey,Pass
+317112,41,MissedShots,0.825999984741211,0.705999984741211,0.02604600042104721,Kevin Volland,a,83,OpenPlay,2019,RightFoot,12435,Borussia Dortmund,Bayer Leverkusen,4,0,2019-09-14 13:30:00,Jonathan Tah,TakeOn
+320246,19,Goal,0.860999984741211,0.710999984741211,0.03652450069785118,Kevin Volland,h,83,OpenPlay,2019,LeftFoot,12443,Bayer Leverkusen,Union Berlin,2,0,2019-09-21 13:30:00,,None
+320254,53,BlockedShot,0.9430000305175781,0.34200000762939453,0.06610509753227234,Kevin Volland,h,83,FromCorner,2019,LeftFoot,12443,Bayer Leverkusen,Union Berlin,2,0,2019-09-21 13:30:00,,Rebound
+322483,5,SavedShot,0.874000015258789,0.710999984741211,0.03544899821281433,Kevin Volland,a,83,OpenPlay,2019,RightFoot,12451,Augsburg,Bayer Leverkusen,0,3,2019-09-28 13:30:00,Kai Havertz,Chipped
+322489,50,BlockedShot,0.8490000152587891,0.655,0.06478740274906158,Kevin Volland,a,83,OpenPlay,2019,LeftFoot,12451,Augsburg,Bayer Leverkusen,0,3,2019-09-28 13:30:00,Mitchell Weiser,Pass
+322492,63,SavedShot,0.794000015258789,0.28899999618530275,0.06471510231494904,Kevin Volland,a,83,DirectFreekick,2019,LeftFoot,12451,Augsburg,Bayer Leverkusen,0,3,2019-09-28 13:30:00,,Standard
+322495,75,Goal,0.745,0.5159999847412109,0.030490700155496597,Kevin Volland,a,83,OpenPlay,2019,RightFoot,12451,Augsburg,Bayer Leverkusen,0,3,2019-09-28 13:30:00,Kai Havertz,BallTouch
+323979,23,SavedShot,0.899000015258789,0.5579999923706055,0.035597000271081924,Kevin Volland,h,83,OpenPlay,2019,Head,12462,Bayer Leverkusen,RasenBallsport Leipzig,1,1,2019-10-05 14:30:00,Kai Havertz,Aerial
+323983,32,MissedShots,0.8190000152587891,0.524000015258789,0.06155490130186081,Kevin Volland,h,83,OpenPlay,2019,RightFoot,12462,Bayer Leverkusen,RasenBallsport Leipzig,1,1,2019-10-05 14:30:00,Julian Baumgartlinger,Pass
+323989,65,Goal,0.9490000152587891,0.500999984741211,0.5822060108184814,Kevin Volland,h,83,OpenPlay,2019,LeftFoot,12462,Bayer Leverkusen,RasenBallsport Leipzig,1,1,2019-10-05 14:30:00,Charles Aránguiz,Cross
+323993,93,SavedShot,0.93,0.45599998474121095,0.3661839962005615,Kevin Volland,h,83,OpenPlay,2019,RightFoot,12462,Bayer Leverkusen,RasenBallsport Leipzig,1,1,2019-10-05 14:30:00,Kai Havertz,Chipped
+323994,93,SavedShot,0.95,0.425,0.466279000043869,Kevin Volland,h,83,OpenPlay,2019,RightFoot,12462,Bayer Leverkusen,RasenBallsport Leipzig,1,1,2019-10-05 14:30:00,,Rebound
+325197,53,MissedShots,0.9630000305175781,0.6680000305175782,0.0235872995108366,Kevin Volland,a,83,OpenPlay,2019,RightFoot,12471,Eintracht Frankfurt,Bayer Leverkusen,3,0,2019-10-18 19:30:00,Karim Bellarabi,Cross
+325203,67,MissedShots,0.8590000152587891,0.7180000305175781,0.03495299816131592,Kevin Volland,a,83,OpenPlay,2019,LeftFoot,12471,Eintracht Frankfurt,Bayer Leverkusen,3,0,2019-10-18 19:30:00,Kerem Demirbay,Pass
+327398,32,SavedShot,0.9069999694824219,0.5420000076293945,0.24592800438404083,Kevin Volland,h,83,OpenPlay,2019,Head,12475,Bayer Leverkusen,Werder Bremen,2,2,2019-10-26 17:30:00,Lars Bender,Cross
+327400,36,MissedShots,0.9369999694824219,0.45599998474121095,0.5922390222549438,Kevin Volland,h,83,OpenPlay,2019,RightFoot,12475,Bayer Leverkusen,Werder Bremen,2,2,2019-10-26 17:30:00,Nadiem Amiri,Cross
+327405,45,SavedShot,0.9319999694824219,0.23899999618530274,0.03398599848151207,Kevin Volland,h,83,OpenPlay,2019,LeftFoot,12475,Bayer Leverkusen,Werder Bremen,2,2,2019-10-26 17:30:00,Karim Bellarabi,Pass
+327417,69,BlockedShot,0.9009999847412109,0.5359999847412109,0.0939399003982544,Kevin Volland,h,83,OpenPlay,2019,LeftFoot,12475,Bayer Leverkusen,Werder Bremen,2,2,2019-10-26 17:30:00,,None
+329103,24,Goal,0.965999984741211,0.4279999923706055,0.6671919822692871,Kevin Volland,h,83,OpenPlay,2019,RightFoot,12486,Bayer Leverkusen,Borussia M.Gladbach,1,2,2019-11-02 14:30:00,Lucas Alario,TakeOn
+329105,26,MissedShots,0.725,0.5,0.019704999402165413,Kevin Volland,h,83,OpenPlay,2019,LeftFoot,12486,Bayer Leverkusen,Borussia M.Gladbach,1,2,2019-11-02 14:30:00,Mitchell Weiser,Pass
+329107,30,SavedShot,0.8980000305175782,0.595999984741211,0.08191590011119843,Kevin Volland,h,83,OpenPlay,2019,RightFoot,12486,Bayer Leverkusen,Borussia M.Gladbach,1,2,2019-11-02 14:30:00,,None
+329124,69,MissedShots,0.9009999847412109,0.5059999847412109,0.03462029993534088,Kevin Volland,h,83,OpenPlay,2019,Head,12486,Bayer Leverkusen,Borussia M.Gladbach,1,2,2019-11-02 14:30:00,Karim Bellarabi,Aerial
+331450,39,SavedShot,0.8719999694824219,0.6519999694824219,0.07919059693813324,Kevin Volland,a,83,OpenPlay,2019,LeftFoot,12501,Wolfsburg,Bayer Leverkusen,0,2,2019-11-10 14:30:00,Nadiem Amiri,BallRecovery
+331462,94,BlockedShot,0.8959999847412109,0.47299999237060547,0.11296900361776352,Kevin Volland,a,83,OpenPlay,2019,LeftFoot,12501,Wolfsburg,Bayer Leverkusen,0,2,2019-11-10 14:30:00,,None
+332109,0,BlockedShot,0.92,0.6079999923706054,0.07004360109567642,Kevin Volland,h,83,OpenPlay,2019,LeftFoot,12503,Bayer Leverkusen,Freiburg,1,1,2019-11-23 14:30:00,Moussa Diaby,Cross
+332111,2,BlockedShot,0.904000015258789,0.495,0.1214200034737587,Kevin Volland,h,83,SetPiece,2019,LeftFoot,12503,Bayer Leverkusen,Freiburg,1,1,2019-11-23 14:30:00,,Rebound
+332126,45,MissedShots,0.955,0.605,0.05163130164146423,Kevin Volland,h,83,FromCorner,2019,Head,12503,Bayer Leverkusen,Freiburg,1,1,2019-11-23 14:30:00,Kerem Demirbay,Cross
+332128,49,SavedShot,0.9480000305175781,0.5,0.5777230262756348,Kevin Volland,h,83,OpenPlay,2019,LeftFoot,12503,Bayer Leverkusen,Freiburg,1,1,2019-11-23 14:30:00,Karim Bellarabi,Cross
+332129,53,BlockedShot,0.955,0.5779999923706055,0.10158699750900269,Kevin Volland,h,83,OpenPlay,2019,LeftFoot,12503,Bayer Leverkusen,Freiburg,1,1,2019-11-23 14:30:00,,None
+333858,27,BlockedShot,0.8130000305175781,0.435,0.062306199222803116,Kevin Volland,a,83,OpenPlay,2019,LeftFoot,12512,Bayern Munich,Bayer Leverkusen,1,2,2019-11-30 17:30:00,Leon Bailey,Pass
+333871,67,BlockedShot,0.9230000305175782,0.47,0.12458900362253189,Kevin Volland,a,83,OpenPlay,2019,RightFoot,12512,Bayern Munich,Bayer Leverkusen,1,2,2019-11-30 17:30:00,Karim Bellarabi,Cross
+335895,87,BlockedShot,0.8209999847412109,0.64,0.032068900763988495,Kevin Volland,h,83,OpenPlay,2019,LeftFoot,12522,Bayer Leverkusen,Schalke 04,2,1,2019-12-07 17:30:00,Lucas Alario,Cross
+335897,91,SavedShot,0.875999984741211,0.6880000305175781,0.08442900329828262,Kevin Volland,h,83,OpenPlay,2019,RightFoot,12522,Bayer Leverkusen,Schalke 04,2,1,2019-12-07 17:30:00,Nadiem Amiri,Pass
+338060,6,MissedShots,0.9259999847412109,0.575999984741211,0.09786040335893631,Kevin Volland,h,83,OpenPlay,2019,Head,12539,Bayer Leverkusen,Hertha Berlin,0,1,2019-12-18 17:30:00,Moussa Diaby,Cross
+338062,9,MissedShots,0.8519999694824218,0.7569999694824219,0.026563599705696106,Kevin Volland,h,83,OpenPlay,2019,LeftFoot,12539,Bayer Leverkusen,Hertha Berlin,0,1,2019-12-18 17:30:00,Nadiem Amiri,Pass
+338079,65,SavedShot,0.9280000305175782,0.51,0.41050198674201965,Kevin Volland,h,83,OpenPlay,2019,Head,12539,Bayer Leverkusen,Hertha Berlin,0,1,2019-12-18 17:30:00,Moussa Diaby,Cross
+338085,92,SavedShot,0.875,0.5670000076293945,0.03337559849023819,Kevin Volland,h,83,OpenPlay,2019,Head,12539,Bayer Leverkusen,Hertha Berlin,0,1,2019-12-18 17:30:00,Moussa Diaby,Cross
+338522,68,SavedShot,0.784000015258789,0.37,0.022072000429034233,Kevin Volland,a,83,OpenPlay,2019,LeftFoot,12552,Mainz 05,Bayer Leverkusen,0,1,2019-12-21 14:30:00,Kai Havertz,TakeOn
+338532,86,BlockedShot,0.845999984741211,0.7140000152587891,0.03385519981384277,Kevin Volland,a,83,OpenPlay,2019,RightFoot,12552,Mainz 05,Bayer Leverkusen,0,1,2019-12-21 14:30:00,Charles Aránguiz,Pass
+338534,90,SavedShot,0.8530000305175781,0.7240000152587891,0.03138060122728348,Kevin Volland,a,83,OpenPlay,2019,LeftFoot,12552,Mainz 05,Bayer Leverkusen,0,1,2019-12-21 14:30:00,Kai Havertz,Pass
+338537,92,SavedShot,0.9030000305175782,0.5870000076293945,0.383433997631073,Kevin Volland,a,83,OpenPlay,2019,LeftFoot,12552,Mainz 05,Bayer Leverkusen,0,1,2019-12-21 14:30:00,Kai Havertz,Pass
+355309,10,Goal,0.87,0.485,0.16843000054359436,Kevin Volland,a,83,OpenPlay,2019,Head,12564,Paderborn,Bayer Leverkusen,1,4,2020-01-19 17:00:00,Moussa Diaby,Cross
+355310,13,Goal,0.9640000152587891,0.47,0.6357290148735046,Kevin Volland,a,83,SetPiece,2019,Head,12564,Paderborn,Bayer Leverkusen,1,4,2020-01-19 17:00:00,Kai Havertz,Aerial
+355316,46,BlockedShot,0.9490000152587891,0.5379999923706055,0.1438080072402954,Kevin Volland,a,83,FromCorner,2019,LeftFoot,12564,Paderborn,Bayer Leverkusen,1,4,2020-01-19 17:00:00,Julian Baumgartlinger,Rebound
+356340,23,MissedShots,0.9690000152587891,0.39,0.38480499386787415,Kevin Volland,h,83,SetPiece,2019,RightFoot,12567,Bayer Leverkusen,Fortuna Duesseldorf,3,0,2020-01-26 17:00:00,Kai Havertz,BallTouch
+356345,41,BlockedShot,0.874000015258789,0.6669999694824219,0.06673389673233032,Kevin Volland,h,83,OpenPlay,2019,LeftFoot,12567,Bayer Leverkusen,Fortuna Duesseldorf,3,0,2020-01-26 17:00:00,Daley Sinkgraven,Pass
+356351,54,MissedShots,0.9390000152587891,0.46,0.4575420022010803,Kevin Volland,h,83,OpenPlay,2019,Head,12567,Bayer Leverkusen,Fortuna Duesseldorf,3,0,2020-01-26 17:00:00,Moussa Diaby,Cross
+356361,68,SavedShot,0.6880000305175781,0.4909999847412109,0.016983600333333015,Kevin Volland,h,83,OpenPlay,2019,LeftFoot,12567,Bayer Leverkusen,Fortuna Duesseldorf,3,0,2020-01-26 17:00:00,Lars Bender,TakeOn
+356362,69,BlockedShot,0.965,0.45099998474121095,0.07333719730377197,Kevin Volland,h,83,FromCorner,2019,Head,12567,Bayer Leverkusen,Fortuna Duesseldorf,3,0,2020-01-26 17:00:00,Jonathan Tah,Pass
+356363,69,BlockedShot,0.919000015258789,0.5,0.10138799995183945,Kevin Volland,h,83,FromCorner,2019,LeftFoot,12567,Bayer Leverkusen,Fortuna Duesseldorf,3,0,2020-01-26 17:00:00,Lars Bender,BallTouch
+356374,82,MissedShots,0.81,0.4540000152587891,0.07196710258722305,Kevin Volland,h,83,OpenPlay,2019,RightFoot,12567,Bayer Leverkusen,Fortuna Duesseldorf,3,0,2020-01-26 17:00:00,Lucas Alario,Pass
+356607,17,MissedShots,0.8419999694824218,0.725999984741211,0.034766700118780136,Kevin Volland,a,83,OpenPlay,2019,LeftFoot,12576,Hoffenheim,Bayer Leverkusen,2,1,2020-02-01 14:30:00,Moussa Diaby,Pass
+356616,32,SavedShot,0.865999984741211,0.45,0.08319859951734543,Kevin Volland,a,83,OpenPlay,2019,RightFoot,12576,Hoffenheim,Bayer Leverkusen,2,1,2020-02-01 14:30:00,,Rebound
+356621,46,BlockedShot,0.8369999694824218,0.649000015258789,0.043512698262929916,Kevin Volland,a,83,OpenPlay,2019,LeftFoot,12576,Hoffenheim,Bayer Leverkusen,2,1,2020-02-01 14:30:00,Moussa Diaby,Pass
+356622,46,MissedShots,0.92,0.5379999923706055,0.11093199998140335,Kevin Volland,a,83,OpenPlay,2019,LeftFoot,12576,Hoffenheim,Bayer Leverkusen,2,1,2020-02-01 14:30:00,Leon Bailey,Cross
+356627,62,BlockedShot,0.9630000305175781,0.4470000076293945,0.546118974685669,Kevin Volland,a,83,OpenPlay,2019,Head,12576,Hoffenheim,Bayer Leverkusen,2,1,2020-02-01 14:30:00,Kerem Demirbay,Cross
+358135,19,Goal,0.8619999694824219,0.5770000076293945,0.27681800723075867,Kevin Volland,h,83,OpenPlay,2019,LeftFoot,12584,Bayer Leverkusen,Borussia Dortmund,4,3,2020-02-08 17:30:00,Nadiem Amiri,Pass
+358141,42,Goal,0.915,0.42200000762939455,0.0758780986070633,Kevin Volland,h,83,FromCorner,2019,RightFoot,12584,Bayer Leverkusen,Borussia Dortmund,4,3,2020-02-08 17:30:00,Jonathan Tah,Chipped
+358958,30,MissedShots,0.9259999847412109,0.5359999847412109,0.4248160123825073,Kevin Volland,a,83,OpenPlay,2019,Head,12600,Union Berlin,Bayer Leverkusen,2,3,2020-02-15 14:30:00,Kai Havertz,Aerial
+358970,79,MissedShots,0.755,0.47299999237060547,0.01710529997944832,Kevin Volland,a,83,OpenPlay,2019,LeftFoot,12600,Union Berlin,Bayer Leverkusen,2,3,2020-02-15 14:30:00,Kai Havertz,HeadPass
+358971,81,BlockedShot,0.8159999847412109,0.475,0.061562299728393555,Kevin Volland,a,83,OpenPlay,2019,LeftFoot,12600,Union Berlin,Bayer Leverkusen,2,3,2020-02-15 14:30:00,Lars Bender,Pass
+358975,88,BlockedShot,0.915,0.625,0.08695749938488007,Kevin Volland,a,83,OpenPlay,2019,LeftFoot,12600,Union Berlin,Bayer Leverkusen,2,3,2020-02-15 14:30:00,Kai Havertz,BallTouch
+363889,80,BlockedShot,0.860999984741211,0.5179999923706055,0.09201879799365997,Kevin Volland,h,83,OpenPlay,2019,LeftFoot,12666,Bayer Leverkusen,Bayern Munich,2,4,2020-06-06 13:30:00,Wendell,Pass
+363893,90,SavedShot,0.745,0.6580000305175782,0.01732020080089569,Kevin Volland,h,83,OpenPlay,2019,LeftFoot,12666,Bayer Leverkusen,Bayern Munich,2,4,2020-06-06 13:30:00,Wendell,Pass
+364422,70,SavedShot,0.919000015258789,0.6909999847412109,0.05102679878473282,Kevin Volland,a,83,OpenPlay,2019,LeftFoot,12679,Schalke 04,Bayer Leverkusen,1,1,2020-06-14 16:00:00,Lucas Alario,Pass
+364808,41,ShotOnPost,0.7880000305175782,0.5459999847412109,0.06182609871029854,Kevin Volland,h,83,OpenPlay,2019,RightFoot,12684,Bayer Leverkusen,FC Cologne,3,1,2020-06-17 18:30:00,Moussa Diaby,Pass
+365321,5,MissedShots,0.950999984741211,0.4590000152587891,0.10749699920415878,Kevin Volland,a,83,OpenPlay,2019,RightFoot,12695,Hertha Berlin,Bayer Leverkusen,2,0,2020-06-20 13:30:00,,None
+365322,14,MissedShots,0.875,0.5220000076293946,0.1157900020480156,Kevin Volland,a,83,OpenPlay,2019,LeftFoot,12695,Hertha Berlin,Bayer Leverkusen,2,0,2020-06-20 13:30:00,Leon Bailey,Pass
+365330,35,BlockedShot,0.7559999847412109,0.6359999847412109,0.02010899968445301,Kevin Volland,a,83,OpenPlay,2019,LeftFoot,12695,Hertha Berlin,Bayer Leverkusen,2,0,2020-06-20 13:30:00,Kai Havertz,Pass
+366850,1,Goal,0.865,0.3820000076293945,0.3158099949359894,Kevin Volland,h,83,OpenPlay,2019,LeftFoot,12701,Bayer Leverkusen,Mainz 05,1,0,2020-06-27 13:30:00,,None
+366857,38,SavedShot,0.815,0.6880000305175781,0.041704099625349045,Kevin Volland,h,83,OpenPlay,2019,LeftFoot,12701,Bayer Leverkusen,Mainz 05,1,0,2020-06-27 13:30:00,,None
+376926,28,SavedShot,0.9180000305175782,0.5729999923706055,0.11849900335073471,Kevin Volland,h,83,OpenPlay,2020,LeftFoot,14199,Monaco,Nantes,2,1,2020-09-13 15:00:00,Cesc Fàbregas,Chipped
+385265,30,Goal,0.955999984741211,0.49700000762939456,0.6318519711494446,Kevin Volland,h,83,OpenPlay,2020,Head,15838,Monaco,Bordeaux,4,0,2020-11-01 16:00:00,Wissam Ben Yedder,Aerial
+385271,55,SavedShot,0.9290000152587891,0.610999984741211,0.01484570000320673,Kevin Volland,h,83,FromCorner,2020,Head,15838,Monaco,Bordeaux,4,0,2020-11-01 16:00:00,Youssouf Fofana,Aerial
+385272,57,Goal,0.9769999694824218,0.47,0.9414269924163818,Kevin Volland,h,83,OpenPlay,2020,LeftFoot,15838,Monaco,Bordeaux,4,0,2020-11-01 16:00:00,Gelson Martins,Pass
+386721,2,SavedShot,0.860999984741211,0.3920000076293945,0.0647851973772049,Kevin Volland,a,83,OpenPlay,2020,LeftFoot,15849,Nice,Monaco,1,2,2020-11-08 16:00:00,Ruben Aguilar,Pass
+386724,8,SavedShot,0.8859999847412109,0.385,0.09938780218362808,Kevin Volland,a,83,OpenPlay,2020,RightFoot,15849,Nice,Monaco,1,2,2020-11-08 16:00:00,Sofiane Diop,Pass
+387090,9,SavedShot,0.77,0.37400001525878906,0.07025419920682907,Kevin Volland,h,83,DirectFreekick,2020,LeftFoot,15861,Monaco,Paris Saint Germain,3,2,2020-11-20 20:00:00,,Standard
+387103,49,SavedShot,0.9519999694824218,0.5879999923706055,0.0775815024971962,Kevin Volland,h,83,FromCorner,2020,Head,15861,Monaco,Paris Saint Germain,3,2,2020-11-20 20:00:00,Cesc Fàbregas,Cross
+387105,51,Goal,0.95,0.515,0.623852014541626,Kevin Volland,h,83,OpenPlay,2020,LeftFoot,15861,Monaco,Paris Saint Germain,3,2,2020-11-20 20:00:00,,Rebound
+387107,64,Goal,0.9769999694824218,0.52,0.593936026096344,Kevin Volland,h,83,OpenPlay,2020,LeftFoot,15861,Monaco,Paris Saint Germain,3,2,2020-11-20 20:00:00,Cesc Fàbregas,BallTouch
+389330,56,MissedShots,0.965,0.4929999923706055,0.6473140120506287,Kevin Volland,h,83,OpenPlay,2020,RightFoot,15869,Monaco,Nimes,3,0,2020-11-29 14:00:00,Sofiane Diop,Cross
+389336,76,Goal,0.9319999694824219,0.5529999923706055,0.6083239912986755,Kevin Volland,h,83,OpenPlay,2020,LeftFoot,15869,Monaco,Nimes,3,0,2020-11-29 14:00:00,Wissam Ben Yedder,Pass
+390593,46,MissedShots,0.875999984741211,0.5459999847412109,0.08252499997615814,Kevin Volland,a,83,OpenPlay,2020,RightFoot,15879,Lille,Monaco,2,1,2020-12-06 12:00:00,Wissam Ben Yedder,HeadPass
+393384,6,MissedShots,0.9569999694824218,0.39,0.0683228000998497,Kevin Volland,h,83,OpenPlay,2020,LeftFoot,15901,Monaco,Lens,0,3,2020-12-16 20:00:00,Gelson Martins,Cross
+393385,11,BlockedShot,0.7580000305175781,0.32799999237060545,0.053578201681375504,Kevin Volland,h,83,DirectFreekick,2020,LeftFoot,15901,Monaco,Lens,0,3,2020-12-16 20:00:00,,Standard
+393386,12,SavedShot,0.9640000152587891,0.43900001525878907,0.36129000782966614,Kevin Volland,h,83,FromCorner,2020,Head,15901,Monaco,Lens,0,3,2020-12-16 20:00:00,Axel Disasi,HeadPass
+393389,31,BlockedShot,0.895,0.4640000152587891,0.03545539826154709,Kevin Volland,h,83,OpenPlay,2020,Head,15901,Monaco,Lens,0,3,2020-12-16 20:00:00,,Aerial
+394480,14,Goal,0.8719999694824219,0.5629999923706055,0.10903599858283997,Kevin Volland,a,83,OpenPlay,2020,RightFoot,15907,Dijon,Monaco,0,1,2020-12-20 14:00:00,Wissam Ben Yedder,Pass
+394497,68,SavedShot,0.7559999847412109,0.27399999618530274,0.0173249002546072,Kevin Volland,a,83,OpenPlay,2020,LeftFoot,15907,Dijon,Monaco,0,1,2020-12-20 14:00:00,Willem Geubbels,Pass
+395443,47,Goal,0.9159999847412109,0.4109999847412109,0.38174301385879517,Kevin Volland,h,83,OpenPlay,2020,LeftFoot,15922,Monaco,Saint-Etienne,2,2,2020-12-23 20:00:00,Gelson Martins,Pass
+397499,67,Goal,0.86,0.5770000076293945,0.026243099942803383,Kevin Volland,a,83,OpenPlay,2020,Head,15927,Lorient,Monaco,2,5,2021-01-06 18:00:00,Guillermo Maripán,Chipped
+397972,8,MissedShots,0.8780000305175781,0.47,0.08305499702692032,Kevin Volland,h,83,OpenPlay,2020,LeftFoot,15940,Monaco,Angers,3,0,2021-01-09 20:00:00,Gelson Martins,Cross
+397980,41,MissedShots,0.8480000305175781,0.5429999923706055,0.10394900292158127,Kevin Volland,h,83,OpenPlay,2020,RightFoot,15940,Monaco,Angers,3,0,2021-01-09 20:00:00,Sofiane Diop,Pass
+397981,45,BlockedShot,0.860999984741211,0.610999984741211,0.09124530106782913,Kevin Volland,h,83,OpenPlay,2020,LeftFoot,15940,Monaco,Angers,3,0,2021-01-09 20:00:00,Sofiane Diop,Pass
+397985,71,Goal,0.955,0.45099998474121095,0.6197270154953003,Kevin Volland,h,83,OpenPlay,2020,LeftFoot,15940,Monaco,Angers,3,0,2021-01-09 20:00:00,Caio Henrique,Pass
+398790,23,Goal,0.8690000152587891,0.42900001525878906,0.07577300071716309,Kevin Volland,a,83,FromCorner,2020,LeftFoot,15952,Montpellier,Monaco,2,3,2021-01-15 20:00:00,,Rebound
+398796,45,SavedShot,0.94,0.3220000076293945,0.08572539687156677,Kevin Volland,a,83,OpenPlay,2020,RightFoot,15952,Montpellier,Monaco,2,3,2021-01-15 20:00:00,Ruben Aguilar,Pass
+398798,51,BlockedShot,0.8590000152587891,0.5370000076293945,0.12572799623012543,Kevin Volland,a,83,OpenPlay,2020,RightFoot,15952,Montpellier,Monaco,2,3,2021-01-15 20:00:00,Sofiane Diop,Pass
+398809,79,BlockedShot,0.8969999694824219,0.5509999847412109,0.10607200115919113,Kevin Volland,a,83,OpenPlay,2020,LeftFoot,15952,Montpellier,Monaco,2,3,2021-01-15 20:00:00,Fode Toure,Cross
+400635,39,SavedShot,0.8419999694824218,0.5540000152587891,0.29602500796318054,Kevin Volland,h,83,OpenPlay,2020,LeftFoot,15960,Monaco,Marseille,3,1,2021-01-23 20:00:00,Aurelien Tchouameni,Pass
+402386,40,BlockedShot,0.8240000152587891,0.5179999923706055,0.07184209674596786,Kevin Volland,a,83,OpenPlay,2020,LeftFoot,15973,Nantes,Monaco,1,2,2021-01-31 20:00:00,Sofiane Diop,Pass
+402391,51,BlockedShot,0.8619999694824219,0.43099998474121093,0.12303999811410904,Kevin Volland,a,83,OpenPlay,2020,LeftFoot,15973,Nantes,Monaco,1,2,2021-01-31 20:00:00,,TakeOn
+402394,59,Goal,0.9069999694824219,0.4490000152587891,0.4372769892215729,Kevin Volland,a,83,OpenPlay,2020,LeftFoot,15973,Nantes,Monaco,1,2,2021-01-31 20:00:00,Caio Henrique,Throughball
+402758,62,BlockedShot,0.919000015258789,0.6730000305175782,0.08885320276021957,Kevin Volland,h,83,OpenPlay,2020,LeftFoot,15980,Monaco,Nice,2,1,2021-02-03 20:00:00,Wissam Ben Yedder,Pass
+403688,76,Goal,0.875999984741211,0.600999984741211,0.36623600125312805,Kevin Volland,a,83,OpenPlay,2020,LeftFoot,15989,Nimes,Monaco,3,4,2021-02-07 14:00:00,Aleksandr Golovin,Pass
+404614,24,SavedShot,0.88,0.5670000076293945,0.013217699714004993,Kevin Volland,h,83,SetPiece,2020,Head,16002,Monaco,Lorient,2,2,2021-02-14 12:00:00,Caio Henrique,Aerial
+404617,32,BlockedShot,0.9340000152587891,0.3629999923706055,0.07383300364017487,Kevin Volland,h,83,OpenPlay,2020,RightFoot,16002,Monaco,Lorient,2,2,2021-02-14 12:00:00,Caio Henrique,Pass
+404625,75,MissedShots,0.93,0.44299999237060544,0.05064599961042404,Kevin Volland,h,83,OpenPlay,2020,Head,16002,Monaco,Lorient,2,2,2021-02-14 12:00:00,Stevan Jovetic,Aerial
+406264,61,MissedShots,0.9519999694824218,0.54,0.49707600474357605,Kevin Volland,a,83,OpenPlay,2020,Head,16013,Paris Saint Germain,Monaco,0,2,2021-02-21 20:00:00,Caio Henrique,Pass
+407119,89,Goal,0.9569999694824218,0.4570000076293945,0.566444993019104,Kevin Volland,h,83,SetPiece,2020,RightFoot,16021,Monaco,Brest,2,0,2021-02-28 12:00:00,Aleksandr Golovin,Cross
+408162,44,BlockedShot,0.904000015258789,0.5890000152587891,0.024691900238394737,Kevin Volland,a,83,OpenPlay,2020,Head,16035,Strasbourg,Monaco,1,0,2021-03-03 20:00:00,Caio Henrique,Aerial
+410580,20,BlockedShot,0.7980000305175782,0.545,0.04633830115199089,Kevin Volland,h,83,OpenPlay,2020,RightFoot,16039,Monaco,Lille,0,0,2021-03-14 16:05:00,Aleksandr Golovin,Pass
+410581,24,SavedShot,0.9269999694824219,0.7190000152587891,0.046394698321819305,Kevin Volland,h,83,OpenPlay,2020,LeftFoot,16039,Monaco,Lille,0,0,2021-03-14 16:05:00,Wissam Ben Yedder,Pass
+410586,58,BlockedShot,0.9019999694824219,0.61,0.019229799509048462,Kevin Volland,h,83,OpenPlay,2020,Head,16039,Monaco,Lille,0,0,2021-03-14 16:05:00,Caio Henrique,Aerial
+410587,64,SavedShot,0.9259999847412109,0.649000015258789,0.041890598833560944,Kevin Volland,h,83,FromCorner,2020,LeftFoot,16039,Monaco,Lille,0,0,2021-03-14 16:05:00,Aleksandr Golovin,Cross
+412169,22,MissedShots,0.7819999694824219,0.6309999847412109,0.027230000123381615,Kevin Volland,h,83,OpenPlay,2020,LeftFoot,16063,Monaco,Metz,4,0,2021-04-03 11:00:00,Caio Henrique,Pass
+412170,32,ShotOnPost,0.9459999847412109,0.46299999237060546,0.14770300686359406,Kevin Volland,h,83,OpenPlay,2020,Head,16063,Monaco,Metz,4,0,2021-04-03 11:00:00,Aleksandr Golovin,Cross
+412178,51,Goal,0.8969999694824219,0.620999984741211,0.3432460129261017,Kevin Volland,h,83,OpenPlay,2020,LeftFoot,16063,Monaco,Metz,4,0,2021-04-03 11:00:00,Eliot Matazo,Pass
+415923,28,Goal,0.8809999847412109,0.6229999923706054,0.08705929666757584,Kevin Volland,a,83,OpenPlay,2020,RightFoot,16085,Bordeaux,Monaco,0,3,2021-04-18 15:05:00,Wissam Ben Yedder,Pass
+417929,35,MissedShots,0.8480000305175781,0.3060000038146973,0.0369425006210804,Kevin Volland,a,83,OpenPlay,2020,LeftFoot,16095,Angers,Monaco,0,1,2021-04-25 15:05:00,Wissam Ben Yedder,Pass
+419386,10,MissedShots,0.9209999847412109,0.73,0.06138309836387634,Kevin Volland,h,83,OpenPlay,2020,LeftFoot,16101,Monaco,Lyon,2,3,2021-05-02 19:00:00,Cesc Fàbregas,Pass
+419391,24,Goal,0.9169999694824219,0.5590000152587891,0.4587930142879486,Kevin Volland,h,83,OpenPlay,2020,RightFoot,16101,Monaco,Lyon,2,3,2021-05-02 19:00:00,Wissam Ben Yedder,Throughball
+419395,40,MissedShots,0.8690000152587891,0.534000015258789,0.10216400027275085,Kevin Volland,h,83,OpenPlay,2020,RightFoot,16101,Monaco,Lyon,2,3,2021-05-02 19:00:00,Wissam Ben Yedder,Chipped
+424430,29,SavedShot,0.8590000152587891,0.455,0.08334700018167496,Kevin Volland,a,83,OpenPlay,2020,RightFoot,16128,Lens,Monaco,0,0,2021-05-23 19:00:00,,BallTouch
+424432,33,MissedShots,0.89,0.3920000076293945,0.023551400750875473,Kevin Volland,a,83,OpenPlay,2020,Head,16128,Lens,Monaco,0,0,2021-05-23 19:00:00,Djibril Sidibe,Cross
+424436,54,BlockedShot,0.85,0.4129999923706055,0.08293890208005905,Kevin Volland,a,83,OpenPlay,2020,LeftFoot,16128,Lens,Monaco,0,0,2021-05-23 19:00:00,Aurelien Tchouameni,Pass
+425100,24,BlockedShot,0.785,0.38799999237060545,0.04240059852600098,Kevin Volland,h,83,OpenPlay,2021,LeftFoot,17822,Monaco,Nantes,1,1,2021-08-06 19:00:00,,None
+425102,30,MissedShots,0.9359999847412109,0.415,0.02524849958717823,Kevin Volland,h,83,FromCorner,2021,Head,17822,Monaco,Nantes,1,1,2021-08-06 19:00:00,Jean Lucas,Aerial
+425622,27,SavedShot,0.8159999847412109,0.4929999923706055,0.06079280003905296,Kevin Volland,a,83,OpenPlay,2021,LeftFoot,17832,Lorient,Monaco,1,0,2021-08-13 19:00:00,Sofiane Diop,Pass
+425628,60,MissedShots,0.9440000152587891,0.575,0.11701200157403946,Kevin Volland,a,83,OpenPlay,2021,RightFoot,17832,Lorient,Monaco,1,0,2021-08-13 19:00:00,Axel Disasi,Pass
+427175,74,MissedShots,0.9159999847412109,0.40700000762939453,0.04304410144686699,Kevin Volland,h,83,FromCorner,2021,Head,17843,Monaco,Lens,0,2,2021-08-21 15:00:00,Jean Lucas,Cross
+430170,47,MissedShots,0.9059999847412109,0.44599998474121094,0.025324100628495216,Kevin Volland,h,83,FromCorner,2021,Head,17871,Monaco,Marseille,0,2,2021-09-11 19:00:00,Ruben Aguilar,Aerial
+432558,26,Goal,0.9369999694824219,0.3240000152587891,0.09202440083026886,Kevin Volland,h,83,OpenPlay,2021,RightFoot,17886,Monaco,Saint-Etienne,3,1,2021-09-22 17:00:00,Youssouf Fofana,Pass
+432565,52,MissedShots,0.79,0.6370000076293946,0.02916399948298931,Kevin Volland,h,83,OpenPlay,2021,LeftFoot,17886,Monaco,Saint-Etienne,3,1,2021-09-22 17:00:00,Caio Henrique,Pass
+434189,47,Goal,0.9130000305175782,0.46900001525878904,0.37014201283454895,Kevin Volland,a,83,OpenPlay,2021,LeftFoot,17894,Clermont Foot,Monaco,1,3,2021-09-26 15:00:00,Caio Henrique,Cross
+434192,61,MissedShots,0.8059999847412109,0.30700000762939456,0.07669460028409958,Kevin Volland,a,83,DirectFreekick,2021,LeftFoot,17894,Clermont Foot,Monaco,1,3,2021-09-26 15:00:00,,Standard
+436498,5,MissedShots,0.8540000152587891,0.3160000038146973,0.042743101716041565,Kevin Volland,a,83,OpenPlay,2021,LeftFoot,17915,Lyon,Monaco,2,0,2021-10-16 19:00:00,Youssouf Fofana,Pass
+436509,53,BlockedShot,0.93,0.315,0.09312620013952255,Kevin Volland,a,83,OpenPlay,2021,RightFoot,17915,Lyon,Monaco,2,0,2021-10-16 19:00:00,Jean Lucas,Pass
+438456,9,SavedShot,0.889000015258789,0.28100000381469725,0.046556100249290466,Kevin Volland,h,83,OpenPlay,2021,LeftFoot,17926,Monaco,Montpellier,3,1,2021-10-24 15:00:00,Gelson Martins,BallTouch
+438458,11,Goal,0.9580000305175781,0.525,0.6643760204315186,Kevin Volland,h,83,OpenPlay,2021,LeftFoot,17926,Monaco,Montpellier,3,1,2021-10-24 15:00:00,Caio Henrique,Pass
+441676,70,BlockedShot,0.8,0.33,0.0258565004914999,Kevin Volland,a,83,OpenPlay,2021,LeftFoot,17949,Reims,Monaco,0,0,2021-11-07 14:00:00,Krépin Diatta,Pass
+441682,90,MissedShots,0.965,0.4929999923706055,0.6615189909934998,Kevin Volland,a,83,OpenPlay,2021,Head,17949,Reims,Monaco,0,0,2021-11-07 14:00:00,Caio Henrique,Cross
+442201,48,BlockedShot,0.97,0.43400001525878906,0.10306599736213684,Kevin Volland,h,83,OpenPlay,2021,LeftFoot,17961,Monaco,Lille,2,2,2021-11-19 20:00:00,Strahinja Pavlovic,Chipped
+442202,51,SavedShot,0.8490000152587891,0.42200000762939455,0.0717201977968216,Kevin Volland,h,83,OpenPlay,2021,LeftFoot,17961,Monaco,Lille,2,2,2021-11-19 20:00:00,Gelson Martins,Pass
+442209,68,MissedShots,0.9480000305175781,0.155,0.059178099036216736,Kevin Volland,h,83,DirectFreekick,2021,LeftFoot,17961,Monaco,Lille,2,2,2021-11-19 20:00:00,,Standard
+442211,73,SavedShot,0.909000015258789,0.4759999847412109,0.09390880167484283,Kevin Volland,h,83,OpenPlay,2021,Head,17961,Monaco,Lille,2,2,2021-11-19 20:00:00,Ismail Jakobs,Cross
+444701,65,SavedShot,0.8219999694824218,0.504000015258789,0.07106419652700424,Kevin Volland,h,83,OpenPlay,2021,RightFoot,17969,Monaco,Strasbourg,1,1,2021-11-28 14:00:00,Wissam Ben Yedder,Pass
+444702,75,SavedShot,0.9069999694824219,0.500999984741211,0.10414700210094452,Kevin Volland,h,83,OpenPlay,2021,RightFoot,17969,Monaco,Strasbourg,1,1,2021-11-28 14:00:00,Aleksandr Golovin,Cross
+445258,17,SavedShot,0.9259999847412109,0.605999984741211,0.0385482981801033,Kevin Volland,a,83,FromCorner,2021,Head,17972,Angers,Monaco,1,3,2021-12-01 18:00:00,Sofiane Diop,Cross
+445272,68,SavedShot,0.93,0.6880000305175781,0.0636288970708847,Kevin Volland,a,83,OpenPlay,2021,LeftFoot,17972,Angers,Monaco,1,3,2021-12-01 18:00:00,Ismail Jakobs,Chipped
+446836,43,Goal,0.885,0.5,0.7600950002670288,Kevin Volland,h,83,Penalty,2021,LeftFoot,17988,Monaco,Metz,4,0,2021-12-05 14:00:00,,Standard
+450480,31,BlockedShot,0.8519999694824218,0.3629999923706055,0.04594369977712631,Kevin Volland,h,83,OpenPlay,2021,LeftFoot,18007,Monaco,Rennes,2,1,2021-12-22 19:45:00,Djibril Sidibe,Pass
+450488,60,SavedShot,0.875999984741211,0.5120000076293946,0.08619119971990585,Kevin Volland,h,83,OpenPlay,2021,LeftFoot,18007,Monaco,Rennes,2,1,2021-12-22 19:45:00,Ismail Jakobs,Cross
+450491,71,Goal,0.92,0.435,0.29752400517463684,Kevin Volland,h,83,OpenPlay,2021,Head,18007,Monaco,Rennes,2,1,2021-12-22 19:45:00,Sofiane Diop,Rebound
+452632,16,MissedShots,0.904000015258789,0.40400001525878904,0.025071799755096436,Kevin Volland,a,83,OpenPlay,2021,Head,18014,Nantes,Monaco,0,0,2022-01-09 16:05:00,Djibril Sidibe,Aerial
+453708,25,BlockedShot,0.96,0.54,0.15372300148010254,Kevin Volland,h,83,FromCorner,2021,OtherBodyPart,18024,Monaco,Clermont Foot,4,0,2022-01-16 14:00:00,Sofiane Diop,Cross
+453712,40,MissedShots,0.925,0.5540000152587891,0.11848299950361252,Kevin Volland,h,83,SetPiece,2021,Head,18024,Monaco,Clermont Foot,4,0,2022-01-16 14:00:00,Caio Henrique,Cross
+453713,45,MissedShots,0.9730000305175781,0.545,0.6224690079689026,Kevin Volland,h,83,OpenPlay,2021,Head,18024,Monaco,Clermont Foot,4,0,2022-01-16 14:00:00,Ismail Jakobs,Cross
+453718,52,SavedShot,0.9369999694824219,0.49,0.14271600544452667,Kevin Volland,h,83,FromCorner,2021,LeftFoot,18024,Monaco,Clermont Foot,4,0,2022-01-16 14:00:00,Wissam Ben Yedder,Rebound
+455998,12,SavedShot,0.9740000152587891,0.6869999694824219,0.06882040202617645,Kevin Volland,h,83,OpenPlay,2021,LeftFoot,18047,Monaco,Lyon,2,0,2022-02-05 20:00:00,,None
+457339,40,MissedShots,0.8880000305175781,0.68,0.05288650095462799,Kevin Volland,h,83,OpenPlay,2021,RightFoot,18054,Monaco,Lorient,0,0,2022-02-13 12:00:00,,None
+460193,83,OwnGoal,0.09399999618530273,0.575,0,Kevin Volland,h,83,SetPiece,2021,Head,18074,Monaco,Reims,1,2,2022-02-27 12:00:00,,Foul
+461879,57,ShotOnPost,0.8769999694824219,0.40700000762939453,0.09660869836807251,Kevin Volland,a,83,OpenPlay,2021,LeftFoot,18089,Marseille,Monaco,0,1,2022-03-06 19:45:00,Wissam Ben Yedder,Pass
+464358,67,Goal,0.924000015258789,0.5120000076293946,0.565617024898529,Kevin Volland,h,83,OpenPlay,2021,RightFoot,18107,Monaco,Paris Saint Germain,3,0,2022-03-20 12:00:00,Ruben Aguilar,Pass
+467319,56,Goal,0.9259999847412109,0.47400001525878904,0.11869499832391739,Kevin Volland,h,83,OpenPlay,2021,LeftFoot,18129,Monaco,Troyes,2,1,2022-04-10 13:00:00,Aleksandr Golovin,Cross
+467852,7,MissedShots,0.86,0.6309999847412109,0.3193100094795227,Kevin Volland,a,83,OpenPlay,2021,LeftFoot,18139,Rennes,Monaco,2,3,2022-04-15 19:00:00,Youssouf Fofana,Throughball
+469185,61,BlockedShot,0.879000015258789,0.7319999694824219,0.09581190347671509,Kevin Volland,h,83,OpenPlay,2021,LeftFoot,18148,Monaco,Nice,1,0,2022-04-20 17:00:00,Vanderson,Chipped
+469189,69,SavedShot,0.7880000305175782,0.5579999923706055,0.04769790172576904,Kevin Volland,h,83,OpenPlay,2021,LeftFoot,18148,Monaco,Nice,1,0,2022-04-20 17:00:00,Vanderson,Pass
+470190,0,MissedShots,0.81,0.6559999847412109,0.037712398916482925,Kevin Volland,a,83,OpenPlay,2021,LeftFoot,18161,Saint-Etienne,Monaco,1,4,2022-04-23 17:00:00,Vanderson,Chipped
+470191,2,SavedShot,0.8730000305175781,0.649000015258789,0.21702100336551666,Kevin Volland,a,83,OpenPlay,2021,LeftFoot,18161,Saint-Etienne,Monaco,1,4,2022-04-23 17:00:00,Wissam Ben Yedder,Pass
+470196,24,Goal,0.9069999694824219,0.495,0.49406498670578003,Kevin Volland,a,83,OpenPlay,2021,LeftFoot,18161,Saint-Etienne,Monaco,1,4,2022-04-23 17:00:00,Gelson Martins,Pass
+472165,4,SavedShot,0.9019999694824219,0.445,0.052194200456142426,Kevin Volland,h,83,OpenPlay,2021,Head,18165,Monaco,Angers,2,0,2022-05-01 13:00:00,Caio Henrique,Chipped
+472188,80,BlockedShot,0.905,0.3890000152587891,0.1254120022058487,Kevin Volland,h,83,OpenPlay,2021,LeftFoot,18165,Monaco,Angers,2,0,2022-05-01 13:00:00,Ismail Jakobs,Cross
+476110,7,MissedShots,0.8230000305175781,0.45,0.06081100180745125,Kevin Volland,h,83,OpenPlay,2021,LeftFoot,18189,Monaco,Brest,4,2,2022-05-14 19:00:00,Youssouf Fofana,Pass
+476116,18,MissedShots,0.899000015258789,0.515,0.07395180314779282,Kevin Volland,h,83,FromCorner,2021,Head,18189,Monaco,Brest,4,2,2022-05-14 19:00:00,Aleksandr Golovin,Cross
+476130,49,SavedShot,0.9119999694824219,0.6830000305175781,0.05024519935250282,Kevin Volland,h,83,OpenPlay,2021,LeftFoot,18189,Monaco,Brest,4,2,2022-05-14 19:00:00,Aurelien Tchouameni,Pass
+476138,69,Goal,0.95,0.524000015258789,0.6500030159950256,Kevin Volland,h,83,OpenPlay,2021,LeftFoot,18189,Monaco,Brest,4,2,2022-05-14 19:00:00,,Rebound
+484697,19,Goal,0.850999984741211,0.48700000762939455,0.11702299863100052,Kevin Volland,a,83,OpenPlay,2022,LeftFoot,19683,Paris Saint Germain,Monaco,1,1,2022-08-28 18:45:00,Aleksandr Golovin,Pass
+498557,42,MissedShots,0.8619999694824219,0.28200000762939453,0.03652679920196533,Kevin Volland,a,83,OpenPlay,2022,LeftFoot,19786,Toulouse,Monaco,0,2,2022-11-06 14:00:00,Breel Embolo,Pass
+498563,50,SavedShot,0.9419999694824219,0.639000015258789,0.10794299840927124,Kevin Volland,a,83,OpenPlay,2022,LeftFoot,19786,Toulouse,Monaco,0,2,2022-11-06 14:00:00,Aleksandr Golovin,Pass
+498567,68,MissedShots,0.9459999847412109,0.6459999847412109,0.11119800060987473,Kevin Volland,a,83,OpenPlay,2022,LeftFoot,19786,Toulouse,Monaco,0,2,2022-11-06 14:00:00,Aleksandr Golovin,Chipped
+498568,70,BlockedShot,0.8580000305175781,0.27100000381469724,0.039844099432229996,Kevin Volland,a,83,OpenPlay,2022,LeftFoot,19786,Toulouse,Monaco,0,2,2022-11-06 14:00:00,Vanderson,Pass
+498574,85,SavedShot,0.740999984741211,0.6320000076293946,0.016930600628256798,Kevin Volland,a,83,OpenPlay,2022,LeftFoot,19786,Toulouse,Monaco,0,2,2022-11-06 14:00:00,,None
+500898,29,SavedShot,0.9290000152587891,0.6969999694824218,0.06591930240392685,Kevin Volland,h,83,OpenPlay,2022,LeftFoot,19788,Monaco,Marseille,2,3,2022-11-13 19:45:00,Aleksandr Golovin,Pass
+500903,66,SavedShot,0.9319999694824219,0.5259999847412109,0.07816290110349655,Kevin Volland,h,83,OpenPlay,2022,Head,19788,Monaco,Marseille,2,3,2022-11-13 19:45:00,Krépin Diatta,Aerial
+500904,71,Goal,0.8780000305175781,0.44299999237060544,0.36967000365257263,Kevin Volland,h,83,OpenPlay,2022,LeftFoot,19788,Monaco,Marseille,2,3,2022-11-13 19:45:00,Aleksandr Golovin,Throughball
+500908,86,BlockedShot,0.850999984741211,0.2589999961853027,0.02982800081372261,Kevin Volland,h,83,OpenPlay,2022,LeftFoot,19788,Monaco,Marseille,2,3,2022-11-13 19:45:00,Aleksandr Golovin,BallTouch
+512546,40,MissedShots,0.8880000305175781,0.4490000152587891,0.10531400144100189,Kevin Volland,a,83,OpenPlay,2022,LeftFoot,19907,Troyes,Monaco,2,2,2023-03-05 12:00:00,Wissam Ben Yedder,LayOff
+518743,69,BlockedShot,0.8030000305175782,0.40200000762939453,0.05488469824194908,Kevin Volland,a,83,OpenPlay,2022,LeftFoot,19941,Nantes,Monaco,2,2,2023-04-09 15:05:00,Aleksandr Golovin,Pass
+520165,33,BlockedShot,0.9069999694824219,0.48,0.5552679896354675,Kevin Volland,h,83,OpenPlay,2022,RightFoot,19949,Monaco,Lorient,3,1,2023-04-16 15:05:00,Krépin Diatta,Pass
+520167,54,Goal,0.8469999694824218,0.52,0.11423999816179276,Kevin Volland,h,83,OpenPlay,2022,LeftFoot,19949,Monaco,Lorient,3,1,2023-04-16 15:05:00,Wissam Ben Yedder,Pass
+521188,74,BlockedShot,0.874000015258789,0.43099998474121093,0.10399169474840164,Kevin Volland,a,83,OpenPlay,2022,LeftFoot,19966,Lens,Monaco,3,0,2023-04-22 19:00:00,Axel Disasi,Pass
+534506,74,SavedShot,0.865999984741211,0.6509999847412109,0.07963690906763077,Kevin Volland,a,83,OpenPlay,2023,RightFoot,23079,Darmstadt,Union Berlin,1,4,2023-08-26 13:30:00,Jordan Siebatcheu,Pass
+536963,12,SavedShot,0.9219999694824219,0.4209999847412109,0.10315264016389847,Kevin Volland,h,83,OpenPlay,2023,Head,23091,Union Berlin,RasenBallsport Leipzig,0,3,2023-09-03 15:30:00,Alex Kral,Cross
+542615,79,MissedShots,0.9259999847412109,0.43,0.02940007857978344,Kevin Volland,a,83,FromCorner,2023,Head,23120,Borussia Dortmund,Union Berlin,4,2,2023-10-07 13:30:00,Brenden Aaronson,Aerial
+542617,85,MissedShots,0.7290000152587891,0.435,0.013987072743475437,Kevin Volland,a,83,OpenPlay,2023,LeftFoot,23120,Borussia Dortmund,Union Berlin,4,2,2023-10-07 13:30:00,Robin Gosens,Pass
+549657,45,BlockedShot,0.76,0.675,0.01963917911052704,Kevin Volland,h,83,OpenPlay,2023,LeftFoot,23165,Union Berlin,Augsburg,1,1,2023-11-25 14:30:00,Kevin Behrens,Pass
+549664,87,Goal,0.8730000305175781,0.43400001525878906,0.0703572928905487,Kevin Volland,h,83,SetPiece,2023,RightFoot,23165,Union Berlin,Augsburg,1,1,2023-11-25 14:30:00,,None
+549667,92,MissedShots,0.7719999694824219,0.575999984741211,0.02480311132967472,Kevin Volland,h,83,OpenPlay,2023,LeftFoot,23165,Union Berlin,Augsburg,1,1,2023-11-25 14:30:00,Andras Schafer,Pass
+552790,22,Goal,0.885,0.5,0.75777667760849,Kevin Volland,h,83,Penalty,2023,LeftFoot,23183,Union Berlin,Borussia M.Gladbach,3,1,2023-12-09 14:30:00,,Standard
+552795,45,SavedShot,0.9169999694824219,0.6959999847412109,0.29219019412994385,Kevin Volland,h,83,OpenPlay,2023,LeftFoot,23183,Union Berlin,Borussia M.Gladbach,3,1,2023-12-09 14:30:00,Robin Gosens,HeadPass
+554201,0,BlockedShot,0.9169999694824219,0.32299999237060545,0.08587639033794403,Kevin Volland,a,83,OpenPlay,2023,RightFoot,23197,Bochum,Union Berlin,3,0,2023-12-16 14:30:00,Benedict Hollerbach,Pass
+555375,18,MissedShots,0.769000015258789,0.34099998474121096,0.015784217044711113,Kevin Volland,h,83,OpenPlay,2023,LeftFoot,23201,Union Berlin,FC Cologne,2,0,2023-12-20 17:30:00,Kevin Behrens,Chipped
+555394,71,BlockedShot,0.93,0.40900001525878904,0.5466030240058899,Kevin Volland,h,83,OpenPlay,2023,LeftFoot,23201,Union Berlin,FC Cologne,2,0,2023-12-20 17:30:00,,Rebound
+555397,83,BlockedShot,0.8109999847412109,0.375,0.05807984620332718,Kevin Volland,h,83,OpenPlay,2023,LeftFoot,23201,Union Berlin,FC Cologne,2,0,2023-12-20 17:30:00,David Datro Fofana,Pass
+558077,84,BlockedShot,0.75,0.46599998474121096,0.017636099830269814,Kevin Volland,a,83,FromCorner,2023,LeftFoot,23211,Freiburg,Union Berlin,0,0,2024-01-13 14:30:00,,None
+563347,5,BlockedShot,0.9119999694824219,0.5020000076293946,0.135308638215065,Kevin Volland,a,83,OpenPlay,2023,RightFoot,23221,Mainz 05,Union Berlin,1,1,2024-02-07 17:30:00,Janik Haberer,Rebound
+563348,6,ShotOnPost,0.9640000152587891,0.40700000762939453,0.31350862979888916,Kevin Volland,a,83,OpenPlay,2023,LeftFoot,23221,Mainz 05,Union Berlin,1,1,2024-02-07 17:30:00,Janik Haberer,Cross
+563359,24,BlockedShot,0.875,0.3029999923706055,0.04479415342211723,Kevin Volland,a,83,OpenPlay,2023,RightFoot,23221,Mainz 05,Union Berlin,1,1,2024-02-07 17:30:00,,None
+563362,30,BlockedShot,0.8640000152587891,0.4259999847412109,0.12107536941766739,Kevin Volland,a,83,OpenPlay,2023,LeftFoot,23221,Mainz 05,Union Berlin,1,1,2024-02-07 17:30:00,Benedict Hollerbach,Pass
+563364,38,ShotOnPost,0.7519999694824219,0.3029999923706055,0.017091434448957443,Kevin Volland,a,83,OpenPlay,2023,LeftFoot,23221,Mainz 05,Union Berlin,1,1,2024-02-07 17:30:00,Andras Schafer,Pass
+562537,7,MissedShots,0.8919999694824219,0.654000015258789,0.06279414892196655,Kevin Volland,h,83,OpenPlay,2023,LeftFoot,23248,Union Berlin,Wolfsburg,1,0,2024-02-10 14:30:00,Lucas Tousart,HeadPass
+563768,0,MissedShots,0.6969999694824218,0.5070000076293946,0.012686210684478283,Kevin Volland,a,83,OpenPlay,2023,LeftFoot,23259,Hoffenheim,Union Berlin,0,1,2024-02-17 14:30:00,,BallRecovery
+566506,7,BlockedShot,0.895,0.5120000076293946,0.04157017171382904,Kevin Volland,h,83,OpenPlay,2023,Head,23272,Union Berlin,Borussia Dortmund,0,2,2024-03-02 14:30:00,Jérôme Roussillon,Aerial
+566518,55,SavedShot,0.8980000305175782,0.5270000076293946,0.4289945065975189,Kevin Volland,h,83,OpenPlay,2023,RightFoot,23272,Union Berlin,Borussia Dortmund,0,2,2024-03-02 14:30:00,,Rebound
+566527,84,SavedShot,0.8130000305175781,0.6020000076293945,0.04173028841614723,Kevin Volland,h,83,OpenPlay,2023,LeftFoot,23272,Union Berlin,Borussia Dortmund,0,2,2024-03-02 14:30:00,Andras Schafer,Pass
+567626,32,SavedShot,0.9269999694824219,0.6990000152587891,0.05623185634613037,Kevin Volland,a,83,SetPiece,2023,LeftFoot,23289,VfB Stuttgart,Union Berlin,2,0,2024-03-08 19:30:00,Rani Khedira,HeadPass
+567632,48,SavedShot,0.7669999694824219,0.40599998474121096,0.02437063492834568,Kevin Volland,a,83,OpenPlay,2023,LeftFoot,23289,VfB Stuttgart,Union Berlin,2,0,2024-03-08 19:30:00,Josip Juranovic,Pass
+569312,98,MissedShots,0.9430000305175781,0.28700000762939454,0.11080559343099594,Kevin Volland,h,83,OpenPlay,2023,RightFoot,23291,Union Berlin,Werder Bremen,2,1,2024-03-16 14:30:00,Aissa Laidouni,Chipped
+570600,68,BlockedShot,0.765,0.575,0.018272098153829575,Kevin Volland,a,83,OpenPlay,2023,LeftFoot,23302,Eintracht Frankfurt,Union Berlin,0,0,2024-03-30 14:30:00,Benedict Hollerbach,HeadPass
+573295,87,MissedShots,0.955999984741211,0.605999984741211,0.07466835528612137,Kevin Volland,a,83,OpenPlay,2023,Head,23323,Augsburg,Union Berlin,2,0,2024-04-12 18:30:00,Aissa Laidouni,Cross
+575155,37,BlockedShot,0.8040000152587891,0.6969999694824218,0.025203026831150055,Kevin Volland,h,83,OpenPlay,2023,LeftFoot,23327,Union Berlin,Bayern Munich,1,5,2024-04-20 16:30:00,Andras Schafer,Pass
+577316,6,SavedShot,0.745999984741211,0.28399999618530275,0.016536641865968704,Kevin Volland,a,83,OpenPlay,2023,LeftFoot,23340,Borussia M.Gladbach,Union Berlin,0,0,2024-04-28 13:30:00,Brenden Aaronson,Pass
+577321,24,SavedShot,0.7469999694824219,0.24399999618530274,0.012674517929553986,Kevin Volland,a,83,OpenPlay,2023,LeftFoot,23340,Borussia M.Gladbach,Union Berlin,0,0,2024-04-28 13:30:00,Brenden Aaronson,Pass
+577332,61,ShotOnPost,0.9319999694824219,0.26,0.48815613985061646,Kevin Volland,a,83,OpenPlay,2023,LeftFoot,23340,Borussia M.Gladbach,Union Berlin,0,0,2024-04-28 13:30:00,,TakeOn
+579713,18,Goal,0.885,0.5,0.75777667760849,Kevin Volland,a,83,Penalty,2023,LeftFoot,23358,FC Cologne,Union Berlin,3,2,2024-05-11 13:30:00,,Standard
+579714,32,BlockedShot,0.865,0.5429999923706055,0.12113586068153381,Kevin Volland,a,83,OpenPlay,2023,RightFoot,23358,FC Cologne,Union Berlin,3,2,2024-05-11 13:30:00,Jérôme Roussillon,Pass
+581509,91,SavedShot,0.885,0.5,0.75777667760849,Kevin Volland,h,83,Penalty,2023,LeftFoot,23363,Union Berlin,Freiburg,2,1,2024-05-18 13:30:00,,Standard

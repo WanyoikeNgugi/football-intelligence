@@ -1,0 +1,48 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+9150,47,MissedShots,0.785,0.654000015258789,0.02279689908027649,Salvatore Bocchetti,a,2810,OpenPlay,2014,LeftFoot,6439,FC Krasnodar,Spartak Moscow,4,0,2014-08-14 18:00:00,Kim Källström,TakeOn
+46850,92,SavedShot,0.8669999694824219,0.600999984741211,0.09891489893198013,Salvatore Bocchetti,h,2810,OpenPlay,2014,LeftFoot,4926,AC Milan,Parma,3,1,2015-02-01 19:45:00,Alessio Cerci,Pass
+49701,21,MissedShots,0.635,0.6659999847412109,0.00946956966072321,Salvatore Bocchetti,h,2810,OpenPlay,2014,LeftFoot,4817,AC Milan,Torino,3,0,2015-05-24 19:45:00,Andrea Poli,Pass
+70534,45,MissedShots,0.9069999694824219,0.5590000152587891,0.051204100251197815,Salvatore Bocchetti,a,2810,FromCorner,2015,Head,2363,FC Krasnodar,Spartak Moscow,0,1,2015-07-26 21:00:00,Quincy Promes,Cross
+70825,19,MissedShots,0.695,0.45799999237060546,0.013863099738955498,Salvatore Bocchetti,a,2810,OpenPlay,2015,LeftFoot,2378,Krylya Sovetov Samara,Spartak Moscow,0,2,2015-08-09 20:00:00,Denis Glushakov,Pass
+70830,56,SavedShot,0.950999984741211,0.6040000152587891,0.17431600391864777,Salvatore Bocchetti,a,2810,SetPiece,2015,Head,2378,Krylya Sovetov Samara,Spartak Moscow,0,2,2015-08-09 20:00:00,Roman Shirokov,Cross
+71439,13,MissedShots,0.955999984741211,0.47,0.12895099818706512,Salvatore Bocchetti,a,2810,FromCorner,2015,Head,2390,Amkar,Spartak Moscow,1,3,2015-08-22 16:00:00,Dmitri Kombarov,Cross
+71467,42,BlockedShot,0.9209999847412109,0.53,0.11775600165128708,Salvatore Bocchetti,h,2810,FromCorner,2015,LeftFoot,2401,Spartak Moscow,Anzhi Makhachkala,1,2,2015-08-29 20:30:00,,None
+71472,56,MissedShots,0.909000015258789,0.5379999923706055,0.023579800501465797,Salvatore Bocchetti,h,2810,FromCorner,2015,Head,2401,Spartak Moscow,Anzhi Makhachkala,1,2,2015-08-29 20:30:00,Roman Shirokov,Aerial
+71879,30,SavedShot,0.9180000305175782,0.5309999847412109,0.08446159958839417,Salvatore Bocchetti,a,2810,FromCorner,2015,Head,2415,Kuban Krasnodar,Spartak Moscow,3,0,2015-09-19 20:00:00,Quincy Promes,Cross
+73146,17,SavedShot,0.89,0.5279999923706055,0.10871200263500214,Salvatore Bocchetti,h,2810,OpenPlay,2015,RightFoot,2423,Spartak Moscow,Zenit St. Petersburg,2,2,2015-09-26 20:00:00,Ivelin Popov,Cross
+72816,76,Goal,0.965999984741211,0.44599998474121094,0.1408119946718216,Salvatore Bocchetti,h,2810,FromCorner,2015,LeftFoot,2441,Spartak Moscow,Lokomotiv Moscow,1,2,2015-10-18 14:30:00,Aras Özbiliz,Cross
+73704,83,MissedShots,0.7140000152587891,0.7030000305175781,0.011042900383472443,Salvatore Bocchetti,a,2810,OpenPlay,2015,LeftFoot,2465,FK Akhmat,Spartak Moscow,2,1,2015-11-07 20:30:00,,None
+74223,25,SavedShot,0.9059999847412109,0.5840000152587891,0.033223800361156464,Salvatore Bocchetti,h,2810,FromCorner,2015,Head,2475,Spartak Moscow,FC Krasnodar,3,2,2015-11-22 20:30:00,Quincy Promes,Cross
+74242,82,MissedShots,0.9259999847412109,0.5459999847412109,0.08876720070838928,Salvatore Bocchetti,h,2810,FromCorner,2015,Head,2475,Spartak Moscow,FC Krasnodar,3,2,2015-11-22 20:30:00,Quincy Promes,Cross
+74479,38,MissedShots,0.935,0.580999984741211,0.22859300673007965,Salvatore Bocchetti,a,2810,FromCorner,2015,Head,2484,Rubin Kazan,Spartak Moscow,2,2,2015-11-30 20:15:00,Zé Luís,HeadPass
+74142,16,MissedShots,0.8680000305175781,0.5029999923706054,0.012841599993407726,Salvatore Bocchetti,h,2810,FromCorner,2015,Head,2503,Spartak Moscow,Amkar,2,1,2016-03-12 18:00:00,Quincy Promes,Aerial
+75274,28,MissedShots,0.9330000305175781,0.5459999847412109,0.13638700544834137,Salvatore Bocchetti,a,2810,FromCorner,2015,LeftFoot,2536,Zenit St. Petersburg,Spartak Moscow,5,2,2016-04-16 20:30:00,,Rebound
+75465,48,Goal,0.9530000305175781,0.5129999923706055,0.5923539996147156,Salvatore Bocchetti,h,2810,FromCorner,2015,LeftFoot,2542,Spartak Moscow,Mordovya,2,2,2016-04-23 18:00:00,,None
+75510,6,MissedShots,0.92,0.5279999923706055,0.039276499301195145,Salvatore Bocchetti,h,2810,FromCorner,2015,Head,2564,Spartak Moscow,Dinamo Moscow,3,0,2016-05-08 20:30:00,Quincy Promes,Aerial
+74930,32,Goal,0.9180000305175782,0.46900001525878904,0.05318339914083481,Salvatore Bocchetti,h,2810,SetPiece,2015,Head,2580,Spartak Moscow,FK Akhmat,3,0,2016-05-16 20:30:00,Quincy Promes,Aerial
+122068,39,MissedShots,0.759000015258789,0.654000015258789,0.017545200884342194,Salvatore Bocchetti,h,2810,OpenPlay,2016,LeftFoot,2604,Spartak Moscow,Krylya Sovetov Samara,1,0,2016-08-08 20:30:00,Roman Zobnin,Pass
+122251,47,MissedShots,0.9580000305175781,0.6029999923706054,0.05864199995994568,Salvatore Bocchetti,a,2810,OpenPlay,2016,Head,2608,Rubin Kazan,Spartak Moscow,1,1,2016-08-13 21:30:00,Ivelin Popov,Cross
+122252,50,MissedShots,0.9419999694824219,0.7180000305175781,0.0512893982231617,Salvatore Bocchetti,a,2810,OpenPlay,2016,LeftFoot,2608,Rubin Kazan,Spartak Moscow,1,1,2016-08-13 21:30:00,Quincy Promes,Pass
+122974,62,MissedShots,0.899000015258789,0.509000015258789,0.05692189931869507,Salvatore Bocchetti,a,2810,FromCorner,2016,Head,2628,Anzhi Makhachkala,Spartak Moscow,0,2,2016-08-28 22:30:00,Quincy Promes,Cross
+122868,8,SavedShot,0.9259999847412109,0.415,0.1467680037021637,Salvatore Bocchetti,h,2810,SetPiece,2016,Head,2634,Spartak Moscow,Lokomotiv Moscow,1,0,2016-09-11 17:30:00,Quincy Promes,Cross
+123136,12,MissedShots,0.9209999847412109,0.5370000076293945,0.11914200335741043,Salvatore Bocchetti,a,2810,SetPiece,2016,Head,2637,FC Orenburg,Spartak Moscow,1,3,2016-09-16 18:00:00,Quincy Promes,Cross
+123523,27,Goal,0.9369999694824219,0.45599998474121095,0.5691319704055786,Salvatore Bocchetti,a,2810,SetPiece,2016,LeftFoot,2658,Zenit St. Petersburg,Spartak Moscow,4,2,2016-10-02 17:30:00,,Rebound
+123537,88,MissedShots,0.904000015258789,0.575,0.08696030080318451,Salvatore Bocchetti,a,2810,SetPiece,2016,LeftFoot,2658,Zenit St. Petersburg,Spartak Moscow,4,2,2016-10-02 17:30:00,Denis Glushakov,HeadPass
+123772,47,MissedShots,0.7809999847412109,0.7869999694824219,0.01125549990683794,Salvatore Bocchetti,h,2810,OpenPlay,2016,LeftFoot,2664,Spartak Moscow,FC Rostov,1,0,2016-10-15 20:30:00,Dmitri Kombarov,Pass
+123782,74,SavedShot,0.8830000305175781,0.5309999847412109,0.01844649948179722,Salvatore Bocchetti,h,2810,SetPiece,2016,Head,2664,Spartak Moscow,FC Rostov,1,0,2016-10-15 20:30:00,Dmitri Kombarov,Aerial
+158059,18,MissedShots,0.889000015258789,0.4520000076293945,0.04644029960036278,Salvatore Bocchetti,a,2810,FromCorner,2017,Head,6708,Dinamo Moscow,Spartak Moscow,2,2,2017-07-18 17:30:00,Dmitri Kombarov,Cross
+154697,83,MissedShots,0.9209999847412109,0.48400001525878905,0.04354479908943176,Salvatore Bocchetti,a,2810,FromCorner,2017,Head,6477,FC Ufa,Spartak Moscow,0,0,2017-07-23 13:00:00,Quincy Promes,Aerial
+155091,82,MissedShots,0.9130000305175782,0.5870000076293945,0.03796590119600296,Salvatore Bocchetti,a,2810,FromCorner,2017,Head,6499,Zenit St. Petersburg,Spartak Moscow,5,1,2017-08-06 18:00:00,Quincy Promes,Cross
+155769,20,SavedShot,0.9390000152587891,0.5940000152587891,0.03401320055127144,Salvatore Bocchetti,a,2810,FromCorner,2017,Head,6529,SKA-Khabarovsk,Spartak Moscow,0,0,2017-08-27 09:00:00,Luiz Adriano,Rebound
+156529,71,MissedShots,0.9169999694824219,0.40700000762939453,0.05646349862217903,Salvatore Bocchetti,h,2810,FromCorner,2017,LeftFoot,6537,Spartak Moscow,Rubin Kazan,1,0,2017-09-09 17:00:00,Quincy Promes,Cross
+211268,30,MissedShots,0.9290000152587891,0.4909999847412109,0.0547155998647213,Salvatore Bocchetti,h,2810,FromCorner,2017,Head,6682,Spartak Moscow,FK Akhmat,1,3,2018-04-23 16:30:00,Quincy Promes,Aerial
+211286,87,MissedShots,0.9480000305175781,0.4909999847412109,0.12671199440956116,Salvatore Bocchetti,h,2810,FromCorner,2017,Head,6682,Spartak Moscow,FK Akhmat,1,3,2018-04-23 16:30:00,Fernando,Cross
+212172,7,Goal,0.9340000152587891,0.38,0.022352900356054306,Salvatore Bocchetti,a,2810,FromCorner,2017,Head,6687,Amkar,Spartak Moscow,0,2,2018-04-29 11:00:00,Fernando,Cross
+212176,20,MissedShots,0.6940000152587891,0.7090000152587891,0.011417499743402004,Salvatore Bocchetti,a,2810,OpenPlay,2017,LeftFoot,6687,Amkar,Spartak Moscow,0,2,2018-04-29 11:00:00,Quincy Promes,Pass
+227297,27,MissedShots,0.9469999694824218,0.4159999847412109,0.07209719717502594,Salvatore Bocchetti,h,2810,FromCorner,2018,Head,8998,Spartak Moscow,FK Akhmat,1,2,2018-09-16 16:00:00,Fernando,Cross
+230662,50,MissedShots,0.889000015258789,0.5570000076293945,0.029364200308918953,Salvatore Bocchetti,h,2810,FromCorner,2018,Head,9015,Spartak Moscow,FC Rostov,0,1,2018-09-30 16:00:00,Fernando,Cross
+230671,72,MissedShots,0.8909999847412109,0.620999984741211,0.012454300187528133,Salvatore Bocchetti,h,2810,FromCorner,2018,Head,9015,Spartak Moscow,FC Rostov,0,1,2018-09-30 16:00:00,Fernando,Cross
+230898,74,MissedShots,0.6859999847412109,0.415,0.010570299811661243,Salvatore Bocchetti,a,2810,OpenPlay,2018,LeftFoot,9019,FC Yenisey Krasnoyarsk,Spartak Moscow,2,3,2018-10-07 08:30:00,,None
+238634,1,MissedShots,0.965999984741211,0.5279999923706055,0.4679569900035858,Salvatore Bocchetti,h,2810,FromCorner,2018,LeftFoot,9028,Spartak Moscow,Arsenal Tula,2,3,2018-10-21 13:30:00,Roman Eremenko,Tackle
+238636,2,MissedShots,0.93,0.38,0.020152300596237183,Salvatore Bocchetti,h,2810,FromCorner,2018,Head,9028,Spartak Moscow,Arsenal Tula,2,3,2018-10-21 13:30:00,Dmitri Kombarov,Chipped
+238488,13,MissedShots,0.785,0.695,0.019291600212454796,Salvatore Bocchetti,h,2810,OpenPlay,2018,LeftFoot,9046,Spartak Moscow,Ural,1,2,2018-11-04 16:00:00,,None

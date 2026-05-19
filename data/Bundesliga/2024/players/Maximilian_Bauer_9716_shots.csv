@@ -1,0 +1,20 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+426987,86,MissedShots,0.93,0.485,0.06121530011296272,Maximilian Bauer,h,9716,FromCorner,2021,Head,17526,Greuther Fuerth,Arminia Bielefeld,1,1,2021-08-21 13:30:00,Branimir Hrgota,Aerial
+430953,41,BlockedShot,0.91,0.5879999923706055,0.0769696980714798,Maximilian Bauer,a,9716,SetPiece,2021,RightFoot,17552,Hertha Berlin,Greuther Fuerth,2,1,2021-09-17 18:30:00,,None
+430967,78,OwnGoal,0.025999999046325682,0.48700000762939455,0,Maximilian Bauer,a,9716,FromCorner,2021,RightFoot,17552,Hertha Berlin,Greuther Fuerth,2,1,2021-09-17 18:30:00,,None
+434550,91,SavedShot,0.8930000305175781,0.615999984741211,0.008678490296006203,Maximilian Bauer,a,9716,SetPiece,2021,Head,17570,FC Cologne,Greuther Fuerth,3,1,2021-10-01 18:30:00,Marius Funk,Aerial
+448378,60,MissedShots,0.865,0.644000015258789,0.025647100061178207,Maximilian Bauer,h,9716,SetPiece,2021,Head,17642,Greuther Fuerth,Union Berlin,1,0,2021-12-12 14:30:00,Timothy Tillman,Chipped
+448991,70,MissedShots,0.8590000152587891,0.6229999923706054,0.013492199592292309,Maximilian Bauer,a,9716,SetPiece,2021,Head,17659,Borussia Dortmund,Greuther Fuerth,3,0,2021-12-15 19:30:00,,None
+481753,44,BlockedShot,0.9130000305175782,0.4520000076293945,0.0357000008225441,Maximilian Bauer,h,9716,FromCorner,2022,Head,19362,Augsburg,Mainz 05,1,2,2022-08-20 13:30:00,Arne Maier,BallRecovery
+483520,56,BlockedShot,0.9059999847412109,0.43900001525878907,0.018969299271702766,Maximilian Bauer,a,9716,FromCorner,2022,Head,19372,Hoffenheim,Augsburg,1,0,2022-08-27 13:30:00,Mads Pedersen,Aerial
+487225,25,BlockedShot,0.9680000305175781,0.45099998474121095,0.4895769953727722,Maximilian Bauer,a,9716,FromCorner,2022,Head,19387,Werder Bremen,Augsburg,0,1,2022-09-09 18:30:00,Mërgim Berisha,Cross
+488617,23,BlockedShot,0.8480000305175781,0.5109999847412109,0.06463909894227982,Maximilian Bauer,h,9716,FromCorner,2022,RightFoot,19399,Augsburg,Bayern Munich,1,0,2022-09-17 13:30:00,Iago,HeadPass
+488620,25,BlockedShot,0.9269999694824219,0.4490000152587891,0.08419419825077057,Maximilian Bauer,h,9716,SetPiece,2022,RightFoot,19399,Augsburg,Bayern Munich,1,0,2022-09-17 13:30:00,,None
+488624,38,MissedShots,0.93,0.5029999923706054,0.46902701258659363,Maximilian Bauer,h,9716,SetPiece,2022,Head,19399,Augsburg,Bayern Munich,1,0,2022-09-17 13:30:00,Iago,Chipped
+496385,44,MissedShots,0.9519999694824218,0.4520000076293945,0.07437609881162643,Maximilian Bauer,a,9716,FromCorner,2022,Head,19447,VfB Stuttgart,Augsburg,2,1,2022-10-29 13:30:00,Mërgim Berisha,Aerial
+499466,3,MissedShots,0.9109999847412109,0.38599998474121094,0.013951900415122509,Maximilian Bauer,a,9716,FromCorner,2022,Head,19461,Union Berlin,Augsburg,2,2,2022-11-09 19:30:00,Mërgim Berisha,Aerial
+533022,40,Goal,0.9830000305175781,0.46299999237060546,0.7315834760665894,Maximilian Bauer,h,9716,FromCorner,2023,RightFoot,23069,Augsburg,Borussia M.Gladbach,4,4,2023-08-19 13:30:00,Ermedin Demirovic,HeadPass
+537576,22,BlockedShot,0.9309999847412109,0.5509999847412109,0.057470258325338364,Maximilian Bauer,a,9716,FromCorner,2023,Head,23093,RasenBallsport Leipzig,Augsburg,3,0,2023-09-16 13:30:00,Felix Uduokhai,HeadPass
+546722,51,MissedShots,0.905,0.47900001525878905,0.125409334897995,Maximilian Bauer,a,9716,FromCorner,2023,RightFoot,23151,FC Cologne,Augsburg,1,1,2023-11-04 14:30:00,,Rebound
+546730,71,BlockedShot,0.950999984741211,0.46099998474121096,0.5662696361541748,Maximilian Bauer,a,9716,FromCorner,2023,RightFoot,23151,FC Cologne,Augsburg,1,1,2023-11-04 14:30:00,,None
+608216,77,SavedShot,0.9169999694824219,0.519000015258789,0.09909447282552719,Maximilian Bauer,a,9716,FromCorner,2024,LeftFoot,27876,Holstein Kiel,Augsburg,5,1,2024-12-21 14:30:00,,BallTouch

@@ -1,0 +1,16 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+37579,31,MissedShots,0.720999984741211,0.39099998474121095,0.016506999731063843,Javier Mascherano,a,2091,OpenPlay,2014,RightFoot,5650,Real Sociedad,Barcelona,1,0,2015-01-04 20:00:00,Sergio Busquets,Pass
+40192,8,SavedShot,0.700999984741211,0.595999984741211,0.013741499744355679,Javier Mascherano,a,2091,OpenPlay,2014,RightFoot,5639,Granada,Barcelona,1,3,2015-02-28 15:00:00,Neymar,Pass
+84298,25,ShotOnPost,0.9330000305175781,0.5279999923706055,0.39670300483703613,Javier Mascherano,h,2091,FromCorner,2015,Head,1411,Barcelona,Malaga,1,0,2015-08-29 22:30:00,Lionel Messi,Cross
+84304,49,MissedShots,0.7680000305175781,0.3120000076293945,0.021037399768829346,Javier Mascherano,h,2091,OpenPlay,2015,RightFoot,1411,Barcelona,Malaga,1,0,2015-08-29 22:30:00,Andrés Iniesta,Pass
+85505,81,SavedShot,0.6969999694824218,0.53,0.015738800168037415,Javier Mascherano,h,2091,OpenPlay,2015,RightFoot,1450,Barcelona,Las Palmas,2,1,2015-09-26 18:00:00,Luis Suárez,Pass
+135619,92,BlockedShot,0.9459999847412109,0.35900001525878905,0.0420369990170002,Javier Mascherano,h,2091,FromCorner,2016,RightFoot,1804,Barcelona,Alaves,1,2,2016-09-10 22:30:00,Neymar,Cross
+137247,54,MissedShots,0.9390000152587891,0.585,0.0800262987613678,Javier Mascherano,h,2091,FromCorner,2016,Head,3312,Barcelona,Granada,1,0,2016-10-29 22:45:00,Neymar,Cross
+137740,48,MissedShots,0.9230000305175782,0.40099998474121096,0.017124099656939507,Javier Mascherano,h,2091,FromCorner,2016,Head,2788,Barcelona,Malaga,0,0,2016-11-19 19:15:00,Neymar,Aerial
+137755,93,MissedShots,0.7340000152587891,0.4759999847412109,0.021863199770450592,Javier Mascherano,h,2091,FromCorner,2016,LeftFoot,2788,Barcelona,Malaga,0,0,2016-11-19 19:15:00,,Rebound
+137996,44,BlockedShot,0.8880000305175781,0.41,0.045728899538517,Javier Mascherano,a,2091,FromCorner,2016,RightFoot,2804,Real Sociedad,Barcelona,1,1,2016-11-27 23:45:00,Neymar,Cross
+138008,80,MissedShots,0.9459999847412109,0.34900001525878904,0.017385300248861313,Javier Mascherano,a,2091,FromCorner,2016,Head,2804,Real Sociedad,Barcelona,1,1,2016-11-27 23:45:00,Neymar,Cross
+139099,70,MissedShots,0.870999984741211,0.43900001525878907,0.043409399688243866,Javier Mascherano,a,2091,SetPiece,2016,Head,3892,Villarreal,Barcelona,1,1,2017-01-08 23:45:00,Lionel Messi,Cross
+141012,7,MissedShots,0.7609999847412109,0.37900001525878907,0.017811400815844536,Javier Mascherano,h,2091,FromCorner,2016,RightFoot,4003,Barcelona,Valencia,4,2,2017-03-19 19:45:00,,None
+142765,49,SavedShot,0.9490000152587891,0.445,0.39254799485206604,Javier Mascherano,h,2091,FromCorner,2016,Head,4055,Barcelona,Osasuna,7,1,2017-04-26 18:30:00,Paco Alcácer,Cross
+142773,66,Goal,0.885,0.5,0.7432780265808105,Javier Mascherano,h,2091,Penalty,2016,RightFoot,4055,Barcelona,Osasuna,7,1,2017-04-26 18:30:00,,Standard

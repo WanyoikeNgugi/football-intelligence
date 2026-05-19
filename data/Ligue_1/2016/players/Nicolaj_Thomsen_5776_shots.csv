@@ -1,0 +1,10 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+103062,47,Goal,0.9469999694824218,0.5029999923706054,0.5477079749107361,Nicolaj Thomsen,a,5776,OpenPlay,2016,Head,2255,Dijon,Nantes,0,1,2016-08-13 22:00:00,Jules Iloki,Cross
+103366,57,MissedShots,0.9630000305175781,0.38599998474121094,0.04398350045084953,Nicolaj Thomsen,h,5776,OpenPlay,2016,Head,2260,Nantes,Monaco,0,1,2016-08-20 19:00:00,Kolbeinn Sigthorsson,HeadPass
+103367,59,SavedShot,0.915,0.5070000076293946,0.08257269859313965,Nicolaj Thomsen,h,5776,OpenPlay,2016,Head,2260,Nantes,Monaco,0,1,2016-08-20 19:00:00,Lucas Lima,Cross
+103739,11,MissedShots,0.845,0.67,0.04869930073618889,Nicolaj Thomsen,a,5776,OpenPlay,2016,LeftFoot,2291,Nancy,Nantes,1,1,2016-09-17 22:00:00,Mariusz Stepinski,BallRecovery
+104588,84,BlockedShot,0.875,0.6379999923706055,0.07846959680318832,Nicolaj Thomsen,h,5776,OpenPlay,2016,RightFoot,2303,Nantes,Saint-Etienne,0,0,2016-09-21 21:00:00,Valentin Rongier,Pass
+104689,3,MissedShots,0.8280000305175781,0.485,0.05926999822258949,Nicolaj Thomsen,h,5776,OpenPlay,2016,LeftFoot,2323,Nantes,SC Bastia,1,0,2016-10-01 22:00:00,,None
+104706,42,BlockedShot,0.85,0.35900001525878905,0.028109999373555183,Nicolaj Thomsen,h,5776,OpenPlay,2016,LeftFoot,2323,Nantes,SC Bastia,1,0,2016-10-01 22:00:00,,Aerial
+104710,58,BlockedShot,0.8180000305175781,0.28299999237060547,0.032706499099731445,Nicolaj Thomsen,h,5776,OpenPlay,2016,RightFoot,2323,Nantes,SC Bastia,1,0,2016-10-01 22:00:00,Léo Dubois,Pass
+108023,9,MissedShots,0.905,0.715,0.044581398367881775,Nicolaj Thomsen,h,5776,OpenPlay,2016,LeftFoot,2867,Nantes,Lyon,0,6,2016-11-30 22:00:00,,None

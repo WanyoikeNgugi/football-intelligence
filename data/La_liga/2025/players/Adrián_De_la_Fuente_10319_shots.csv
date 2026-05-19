@@ -1,0 +1,38 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+639218,41,MissedShots,0.8719999694824219,0.5420000076293945,0.26494523882865906,Adrián De la Fuente,h,10319,SetPiece,2025,Head,29171,Levante,Barcelona,2,3,2025-08-23 19:30:00,Pablo Martínez,Chipped
+639935,61,MissedShots,0.6819999694824219,0.46,0.0362529493868351,Adrián De la Fuente,a,10319,DirectFreekick,2025,RightFoot,29179,Elche,Levante,2,0,2025-08-29 17:30:00,,Standard
+644154,12,MissedShots,0.914000015258789,0.45599998474121095,0.29276585578918457,Adrián De la Fuente,h,10319,FromCorner,2025,Head,29210,Levante,Real Madrid,1,4,2025-09-23 19:30:00,Unai Vencedor,Cross
+645927,12,SavedShot,0.735999984741211,0.4570000076293945,0.01947959139943123,Adrián De la Fuente,a,10319,OpenPlay,2025,RightFoot,29236,Real Oviedo,Levante,0,2,2025-10-04 12:00:00,Manuel Sánchez,Pass
+652390,11,OwnGoal,0.03900000095367431,0.4879999923706055,0,Adrián De la Fuente,a,10319,OpenPlay,2025,LeftFoot,29269,Atletico Madrid,Levante,3,1,2025-11-08 17:30:00,,Tackle
+659373,48,MissedShots,0.87,0.4829999923706055,0.03385935723781586,Adrián De la Fuente,h,10319,OpenPlay,2025,OtherBodyPart,29321,Levante,Real Sociedad,1,1,2025-12-20 15:15:00,,Aerial
+659388,93,Goal,0.885,0.5,0.7432776093482971,Adrián De la Fuente,h,10319,Penalty,2025,RightFoot,29321,Levante,Real Sociedad,1,1,2025-12-20 15:15:00,,Standard
+659391,95,BlockedShot,0.85,0.4640000152587891,0.07554943114519119,Adrián De la Fuente,h,10319,FromCorner,2025,RightFoot,29321,Levante,Real Sociedad,1,1,2025-12-20 15:15:00,,Rebound
+663373,45,BlockedShot,0.8190000152587891,0.639000015258789,0.11972662061452866,Adrián De la Fuente,a,10319,DirectFreekick,2025,RightFoot,29351,Real Madrid,Levante,2,0,2026-01-17 13:00:00,,Standard
+664562,0,BlockedShot,0.87,0.6229999923706054,0.053306616842746735,Adrián De la Fuente,h,10319,FromCorner,2025,LeftFoot,29363,Levante,Elche,3,2,2026-01-23 20:00:00,Carlos Álvarez,Pass
+664568,9,BlockedShot,0.96,0.4520000076293945,0.13141575455665588,Adrián De la Fuente,h,10319,FromCorner,2025,RightFoot,29363,Levante,Elche,3,2,2026-01-23 20:00:00,Carlos Álvarez,Cross
+664576,27,BlockedShot,0.6840000152587891,0.42700000762939455,0.01383324433118105,Adrián De la Fuente,h,10319,OpenPlay,2025,RightFoot,29363,Levante,Elche,3,2,2026-01-23 20:00:00,Pablo Martínez,Pass
+664583,56,BlockedShot,0.7280000305175781,0.5209999847412109,0.017660807818174362,Adrián De la Fuente,h,10319,OpenPlay,2025,RightFoot,29363,Levante,Elche,3,2,2026-01-23 20:00:00,Pablo Martínez,Pass
+664587,67,Goal,0.87,0.445,0.04247270151972771,Adrián De la Fuente,h,10319,SetPiece,2025,Head,29363,Levante,Elche,3,2,2026-01-23 20:00:00,Pablo Martínez,Cross
+664589,79,BlockedShot,0.9630000305175781,0.590999984741211,0.03046964481472969,Adrián De la Fuente,h,10319,FromCorner,2025,Head,29363,Levante,Elche,3,2,2026-01-23 20:00:00,Pablo Martínez,Aerial
+666184,62,BlockedShot,0.765,0.4379999923706055,0.023918844759464264,Adrián De la Fuente,h,10319,OpenPlay,2025,RightFoot,29372,Levante,Atletico Madrid,0,0,2026-01-31 17:30:00,,None
+666191,75,SavedShot,0.9169999694824219,0.5559999847412109,0.046694137156009674,Adrián De la Fuente,h,10319,SetPiece,2025,Head,29372,Levante,Atletico Madrid,0,0,2026-01-31 17:30:00,Jon Ander Olasagasti,Aerial
+669256,45,MissedShots,0.88,0.495,0.016708649694919586,Adrián De la Fuente,h,10319,SetPiece,2025,Head,29390,Levante,Valencia,0,2,2026-02-15 17:30:00,Pablo Martínez,Aerial
+669260,60,MissedShots,0.4,0.28899999618530275,0.009336492978036404,Adrián De la Fuente,h,10319,OpenPlay,2025,RightFoot,29390,Levante,Valencia,0,2,2026-02-15 17:30:00,,BallRecovery
+669262,75,BlockedShot,0.7580000305175781,0.5529999923706055,0.07799407839775085,Adrián De la Fuente,h,10319,DirectFreekick,2025,RightFoot,29390,Levante,Valencia,0,2,2026-02-15 17:30:00,,Standard
+669416,72,MissedShots,0.7719999694824219,0.6,0.08333239704370499,Adrián De la Fuente,h,10319,DirectFreekick,2025,RightFoot,29311,Levante,Villarreal,0,1,2026-02-18 19:00:00,,Standard
+670754,44,MissedShots,0.8690000152587891,0.605999984741211,0.05192894488573074,Adrián De la Fuente,h,10319,FromCorner,2025,RightFoot,29412,Levante,Alaves,2,0,2026-02-27 20:00:00,Carlos Álvarez,Pass
+670763,67,BlockedShot,0.764000015258789,0.45099998474121095,0.025767546147108078,Adrián De la Fuente,h,10319,OpenPlay,2025,RightFoot,29412,Levante,Alaves,2,0,2026-02-27 20:00:00,Kareem Tunde,Pass
+670767,70,BlockedShot,0.9730000305175781,0.38799999237060545,0.03281518071889877,Adrián De la Fuente,h,10319,FromCorner,2025,Head,29412,Levante,Alaves,2,0,2026-02-27 20:00:00,Manuel Sánchez,Rebound
+670769,81,BlockedShot,0.93,0.3940000152587891,0.04104330763220787,Adrián De la Fuente,h,10319,FromCorner,2025,Head,29412,Levante,Alaves,2,0,2026-02-27 20:00:00,Jon Ander Olasagasti,None
+672686,44,BlockedShot,0.6969999694824218,0.5609999847412109,0.013700070790946484,Adrián De la Fuente,h,10319,SetPiece,2025,RightFoot,29425,Levante,Girona,1,1,2026-03-07 15:15:00,Jon Ander Olasagasti,Pass
+675476,29,SavedShot,0.8130000305175781,0.48,0.0237885769456625,Adrián De la Fuente,h,10319,SetPiece,2025,Head,29443,Levante,Real Oviedo,4,2,2026-03-21 17:30:00,Iker Losada,Chipped
+676385,80,BlockedShot,0.72,0.5170000076293946,0.01845012977719307,Adrián De la Fuente,a,10319,OpenPlay,2025,RightFoot,29457,Real Sociedad,Levante,2,0,2026-04-04 12:00:00,Pablo Martínez,Pass
+678824,38,SavedShot,0.9059999847412109,0.4590000152587891,0.09799035638570786,Adrián De la Fuente,h,10319,SetPiece,2025,Head,29461,Levante,Getafe,1,0,2026-04-13 19:00:00,Pablo Martínez,Cross
+678827,52,BlockedShot,0.840999984741211,0.5309999847412109,0.023638566955924034,Adrián De la Fuente,h,10319,SetPiece,2025,Head,29461,Levante,Getafe,1,0,2026-04-13 19:00:00,Jon Ander Olasagasti,Cross
+678830,60,SavedShot,0.885,0.5,0.7432776093482971,Adrián De la Fuente,h,10319,Penalty,2025,RightFoot,29461,Levante,Getafe,1,0,2026-04-13 19:00:00,,Standard
+678836,77,BlockedShot,0.7430000305175781,0.44400001525878907,0.011390079744160175,Adrián De la Fuente,h,10319,OpenPlay,2025,LeftFoot,29461,Levante,Getafe,1,0,2026-04-13 19:00:00,,Aerial
+681895,87,BlockedShot,0.865,0.5220000076293946,0.010887330397963524,Adrián De la Fuente,a,10319,SetPiece,2025,Head,29477,Espanyol,Levante,0,0,2026-04-27 19:00:00,Carlos Álvarez,Aerial
+683463,52,BlockedShot,0.7769999694824219,0.36400001525878906,0.022067353129386902,Adrián De la Fuente,h,10319,OpenPlay,2025,RightFoot,29501,Levante,Osasuna,3,2,2026-05-08 19:00:00,,None
+683467,56,ShotOnPost,0.695,0.40900001525878904,0.016105573624372482,Adrián De la Fuente,h,10319,OpenPlay,2025,RightFoot,29501,Levante,Osasuna,3,2,2026-05-08 19:00:00,Matías Moreno,Pass
+684835,34,MissedShots,0.7169999694824218,0.345,0.015444154851138592,Adrián De la Fuente,a,10319,OpenPlay,2025,RightFoot,29510,Celta Vigo,Levante,2,3,2026-05-12 17:00:00,Kervin Arriaga,Pass
+684843,56,Goal,0.7230000305175781,0.46,0.014744080603122711,Adrián De la Fuente,a,10319,OpenPlay,2025,RightFoot,29510,Celta Vigo,Levante,2,3,2026-05-12 17:00:00,Kervin Arriaga,HeadPass

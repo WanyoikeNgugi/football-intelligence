@@ -1,0 +1,9 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+32763,73,BlockedShot,0.9340000152587891,0.7580000305175781,0.030313899740576744,Álvaro,h,4142,OpenPlay,2014,LeftFoot,5785,Elche,Granada,1,1,2014-08-31 22:00:00,Víctor Rodríguez,Pass
+33502,86,BlockedShot,0.9440000152587891,0.6630000305175782,0.07656469941139221,Álvaro,h,4142,OpenPlay,2014,LeftFoot,5796,Elche,Eibar,0,2,2014-09-19 20:00:00,Cristian Herrera,Pass
+36020,90,SavedShot,0.935,0.6980000305175781,0.07518590241670609,Álvaro,a,4142,OpenPlay,2014,LeftFoot,5547,Atletico Madrid,Elche,3,0,2015-04-25 17:00:00,Cristian Herrera,Throughball
+388029,73,MissedShots,0.784000015258789,0.38799999237060545,0.027533600106835365,Álvaro,h,4142,OpenPlay,2020,LeftFoot,14869,Cadiz,Real Sociedad,0,1,2020-11-22 15:15:00,,BallTouch
+388559,46,MissedShots,0.9059999847412109,0.41200000762939454,0.057991500943899155,Álvaro,a,4142,OpenPlay,2020,Head,14884,Elche,Cadiz,1,1,2020-11-28 13:00:00,Salvi Sánchez,Cross
+388560,54,Goal,0.9419999694824219,0.46,0.3984139859676361,Álvaro,a,4142,OpenPlay,2020,Head,14884,Elche,Cadiz,1,1,2020-11-28 13:00:00,Alberto Perea,Cross
+390477,7,Goal,0.9930000305175781,0.46,0.9371799826622009,Álvaro,h,4142,FromCorner,2020,LeftFoot,14885,Cadiz,Barcelona,2,1,2020-12-05 20:00:00,,None
+396010,79,BlockedShot,0.8830000305175781,0.6359999847412109,0.06823589652776718,Álvaro,h,4142,OpenPlay,2020,LeftFoot,14932,Cadiz,Real Valladolid,0,0,2020-12-29 20:30:00,Álvaro Negredo,Pass

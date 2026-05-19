@@ -1,0 +1,32 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+80142,5,MissedShots,0.9119999694824219,0.6179999923706054,0.03673220053315163,Szabolcs Huszti,h,2660,OpenPlay,2015,Head,1181,Eintracht Frankfurt,Wolfsburg,3,2,2016-01-24 18:30:00,Marc Stendera,Cross
+80153,48,BlockedShot,0.6919999694824219,0.3820000076293945,0.03426700085401535,Szabolcs Huszti,h,2660,DirectFreekick,2015,LeftFoot,1181,Eintracht Frankfurt,Wolfsburg,3,2,2016-01-24 18:30:00,,Standard
+80438,59,BlockedShot,0.8730000305175781,0.47,0.09316620230674744,Szabolcs Huszti,a,2660,OpenPlay,2015,RightFoot,1187,Augsburg,Eintracht Frankfurt,0,0,2016-01-30 18:30:00,Marc Stendera,Tackle
+80446,84,SavedShot,0.8859999847412109,0.425,0.09429589658975601,Szabolcs Huszti,a,2660,OpenPlay,2015,LeftFoot,1187,Augsburg,Eintracht Frankfurt,0,0,2016-01-30 18:30:00,,Rebound
+80619,0,BlockedShot,0.9669999694824218,0.6519999694824219,0.0621487982571125,Szabolcs Huszti,h,2660,OpenPlay,2015,LeftFoot,1194,Eintracht Frankfurt,VfB Stuttgart,2,4,2016-02-06 18:30:00,,Rebound
+80618,0,SavedShot,0.924000015258789,0.5990000152587891,0.08916889876127243,Szabolcs Huszti,h,2660,OpenPlay,2015,LeftFoot,1194,Eintracht Frankfurt,VfB Stuttgart,2,4,2016-02-06 18:30:00,Stefan Aigner,Cross
+80629,35,BlockedShot,0.7069999694824218,0.28700000762939454,0.012860099785029888,Szabolcs Huszti,h,2660,OpenPlay,2015,LeftFoot,1194,Eintracht Frankfurt,VfB Stuttgart,2,4,2016-02-06 18:30:00,Stefan Aigner,Pass
+80634,45,BlockedShot,0.7930000305175782,0.3609999847412109,0.027531500905752182,Szabolcs Huszti,h,2660,OpenPlay,2015,RightFoot,1194,Eintracht Frankfurt,VfB Stuttgart,2,4,2016-02-06 18:30:00,,None
+80649,89,Goal,0.919000015258789,0.505,0.10123299807310104,Szabolcs Huszti,h,2660,FromCorner,2015,LeftFoot,1194,Eintracht Frankfurt,VfB Stuttgart,2,4,2016-02-06 18:30:00,Marco Fabián,Cross
+80902,21,SavedShot,0.8980000305175782,0.59,0.03210519999265671,Szabolcs Huszti,a,2660,FromCorner,2015,Head,1207,FC Cologne,Eintracht Frankfurt,3,1,2016-02-13 21:30:00,Marco Fabián,Cross
+80904,23,MissedShots,0.7919999694824219,0.649000015258789,0.02690950036048889,Szabolcs Huszti,a,2660,OpenPlay,2015,LeftFoot,1207,FC Cologne,Eintracht Frankfurt,3,1,2016-02-13 21:30:00,Bastian Oczipka,Pass
+81386,26,BlockedShot,0.879000015258789,0.53,0.08543259650468826,Szabolcs Huszti,h,2660,OpenPlay,2015,RightFoot,1227,Eintracht Frankfurt,Schalke 04,0,0,2016-02-28 22:30:00,Haris Seferovic,HeadPass
+81393,64,MissedShots,0.925,0.6759999847412109,0.05986560136079788,Szabolcs Huszti,h,2660,OpenPlay,2015,LeftFoot,1227,Eintracht Frankfurt,Schalke 04,0,0,2016-02-28 22:30:00,,None
+81586,5,BlockedShot,0.7240000152587891,0.47,0.05138450115919113,Szabolcs Huszti,a,2660,DirectFreekick,2015,LeftFoot,1231,Hertha Berlin,Eintracht Frankfurt,2,0,2016-03-02 23:00:00,,Standard
+81591,33,BlockedShot,0.715,0.45599998474121095,0.04630409926176071,Szabolcs Huszti,a,2660,DirectFreekick,2015,LeftFoot,1231,Hertha Berlin,Eintracht Frankfurt,2,0,2016-03-02 23:00:00,,Standard
+82405,45,MissedShots,0.899000015258789,0.735999984741211,0.031936198472976685,Szabolcs Huszti,a,2660,OpenPlay,2015,LeftFoot,1265,Bayern Munich,Eintracht Frankfurt,1,0,2016-04-02 17:30:00,Constant Djakpa,Pass
+82884,11,BlockedShot,0.7469999694824219,0.3770000076293945,0.014760799705982208,Szabolcs Huszti,a,2660,OpenPlay,2015,LeftFoot,1285,Bayer Leverkusen,Eintracht Frankfurt,3,0,2016-04-16 17:30:00,,None
+82890,47,BlockedShot,0.7469999694824219,0.585,0.061787400394678116,Szabolcs Huszti,a,2660,DirectFreekick,2015,LeftFoot,1285,Bayer Leverkusen,Eintracht Frankfurt,3,0,2016-04-16 17:30:00,,Standard
+82896,70,SavedShot,0.889000015258789,0.5929999923706055,0.03251019865274429,Szabolcs Huszti,a,2660,OpenPlay,2015,Head,1285,Bayer Leverkusen,Eintracht Frankfurt,3,0,2016-04-16 17:30:00,Constant Djakpa,Cross
+83494,47,MissedShots,0.7090000152587891,0.515,0.01626479998230934,Szabolcs Huszti,a,2660,OpenPlay,2015,LeftFoot,1304,Darmstadt,Eintracht Frankfurt,1,2,2016-04-30 17:30:00,Makoto Hasebe,Pass
+128028,33,BlockedShot,0.7019999694824218,0.3509999847412109,0.019541600719094276,Szabolcs Huszti,a,2660,OpenPlay,2016,LeftFoot,1339,Darmstadt,Eintracht Frankfurt,1,0,2016-09-10 17:30:00,,BallRecovery
+128029,37,BlockedShot,0.7930000305175782,0.5709999847412109,0.0390016995370388,Szabolcs Huszti,a,2660,OpenPlay,2016,LeftFoot,1339,Darmstadt,Eintracht Frankfurt,1,0,2016-09-10 17:30:00,Branimir Hrgota,Pass
+128033,43,MissedShots,0.705,0.40799999237060547,0.010236999951303005,Szabolcs Huszti,a,2660,OpenPlay,2016,LeftFoot,1339,Darmstadt,Eintracht Frankfurt,1,0,2016-09-10 17:30:00,,None
+128044,77,SavedShot,0.9230000305175782,0.6619999694824219,0.27778398990631104,Szabolcs Huszti,a,2660,SetPiece,2016,LeftFoot,1339,Darmstadt,Eintracht Frankfurt,1,0,2016-09-10 17:30:00,Mijat Gacinovic,Chipped
+128387,63,SavedShot,0.77,0.6029999923706054,0.02220810018479824,Szabolcs Huszti,h,2660,OpenPlay,2016,LeftFoot,1348,Eintracht Frankfurt,Bayer Leverkusen,2,1,2016-09-17 17:30:00,,None
+129020,21,MissedShots,0.8480000305175781,0.6509999847412109,0.04485879838466644,Szabolcs Huszti,a,2660,OpenPlay,2016,RightFoot,1377,Freiburg,Eintracht Frankfurt,1,0,2016-10-01 17:30:00,,None
+129268,42,Goal,0.889000015258789,0.6270000076293946,0.3574979901313782,Szabolcs Huszti,h,2660,OpenPlay,2016,LeftFoot,1386,Eintracht Frankfurt,Bayern Munich,2,2,2016-10-15 17:30:00,,None
+129271,48,MissedShots,0.8019999694824219,0.2720000076293945,0.017998799681663513,Szabolcs Huszti,h,2660,OpenPlay,2016,LeftFoot,1386,Eintracht Frankfurt,Bayern Munich,2,2,2016-10-15 17:30:00,,None
+130073,43,BlockedShot,0.7190000152587891,0.5690000152587891,0.047053199261426926,Szabolcs Huszti,a,2660,DirectFreekick,2016,LeftFoot,2823,Werder Bremen,Eintracht Frankfurt,1,2,2016-11-20 20:30:00,,Standard
+130264,35,SavedShot,0.7959999847412109,0.59,0.0364145003259182,Szabolcs Huszti,h,2660,OpenPlay,2016,LeftFoot,2829,Eintracht Frankfurt,Borussia Dortmund,2,1,2016-11-26 18:30:00,Mijat Gacinovic,Pass
+130267,45,Goal,0.865,0.46,0.10580600053071976,Szabolcs Huszti,h,2660,OpenPlay,2016,RightFoot,2829,Eintracht Frankfurt,Borussia Dortmund,2,1,2016-11-26 18:30:00,Timothy Chandler,Pass

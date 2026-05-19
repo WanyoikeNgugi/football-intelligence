@@ -1,0 +1,50 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+381432,87,Goal,0.9059999847412109,0.485,0.10012900084257126,Jessic Ngankam,a,8396,OpenPlay,2020,Head,15166,Bayern Munich,Hertha Berlin,4,3,2020-10-04 16:00:00,Maximilian Mittelstädt,Cross
+389456,94,SavedShot,0.865,0.445,0.02296609990298748,Jessic Ngankam,a,8396,OpenPlay,2020,Head,15215,Bayer Leverkusen,Hertha Berlin,0,0,2020-11-29 14:30:00,Vladimir Darida,Cross
+392675,85,MissedShots,0.9019999694824219,0.44299999237060544,0.09178370237350464,Jessic Ngankam,h,8396,OpenPlay,2020,Head,15239,Hertha Berlin,Mainz 05,0,0,2020-12-15 19:30:00,Maximilian Mittelstädt,Cross
+392676,87,BlockedShot,0.865999984741211,0.46299999237060546,0.03491469845175743,Jessic Ngankam,h,8396,OpenPlay,2020,Head,15239,Hertha Berlin,Mainz 05,0,0,2020-12-15 19:30:00,Maximilian Mittelstädt,Chipped
+421223,72,Goal,0.904000015258789,0.6029999923706054,0.11055800318717957,Jessic Ngankam,a,8396,OpenPlay,2020,LeftFoot,15416,Schalke 04,Hertha Berlin,1,2,2021-05-12 16:00:00,Nemanja Radonjic,Pass
+421880,38,SavedShot,0.9419999694824219,0.30100000381469727,0.07527440041303635,Jessic Ngankam,h,8396,OpenPlay,2020,RightFoot,15432,Hertha Berlin,FC Cologne,0,0,2021-05-15 13:30:00,Javairo Dilrosun,Pass
+466690,69,MissedShots,0.925,0.46900001525878904,0.07103189826011658,Jessic Ngankam,h,8396,OpenPlay,2021,Head,17768,Greuther Fuerth,Borussia M.Gladbach,0,2,2022-04-09 13:30:00,Jamie Leweling,Aerial
+466694,78,MissedShots,0.9280000305175782,0.34400001525878904,0.013948099687695503,Jessic Ngankam,h,8396,FromCorner,2021,Head,17768,Greuther Fuerth,Borussia M.Gladbach,0,2,2022-04-09 13:30:00,Gian-Luca Itter,Cross
+469971,4,SavedShot,0.935,0.2879999923706055,0.05586649850010872,Jessic Ngankam,h,8396,OpenPlay,2021,RightFoot,17786,Greuther Fuerth,Bayer Leverkusen,1,4,2022-04-23 13:30:00,Branimir Hrgota,TakeOn
+469981,59,SavedShot,0.9219999694824219,0.4779999923706055,0.4815790057182312,Jessic Ngankam,h,8396,OpenPlay,2021,RightFoot,17786,Greuther Fuerth,Bayer Leverkusen,1,4,2022-04-23 13:30:00,Simon Asta,BallTouch
+469982,61,BlockedShot,0.9259999847412109,0.5329999923706055,0.0875914990901947,Jessic Ngankam,h,8396,OpenPlay,2021,RightFoot,17786,Greuther Fuerth,Bayer Leverkusen,1,4,2022-04-23 13:30:00,Julian Green,Cross
+474876,69,Goal,0.8919999694824219,0.4540000152587891,0.427031010389328,Jessic Ngankam,h,8396,OpenPlay,2021,RightFoot,17804,Greuther Fuerth,Borussia Dortmund,1,3,2022-05-07 13:30:00,Branimir Hrgota,Throughball
+474880,82,SavedShot,0.9569999694824218,0.49900001525878906,0.6036109924316406,Jessic Ngankam,h,8396,FromCorner,2021,RightFoot,17804,Greuther Fuerth,Borussia Dortmund,1,3,2022-05-07 13:30:00,,None
+475810,22,Goal,0.8119999694824219,0.35,0.036292001605033875,Jessic Ngankam,a,8396,OpenPlay,2021,RightFoot,17814,Augsburg,Greuther Fuerth,2,1,2022-05-14 13:30:00,Tobias Raschl,Pass
+475813,53,BlockedShot,0.7240000152587891,0.6229999923706054,0.014856800436973572,Jessic Ngankam,a,8396,OpenPlay,2021,RightFoot,17814,Augsburg,Greuther Fuerth,2,1,2022-05-14 13:30:00,Branimir Hrgota,BallTouch
+504546,76,SavedShot,0.9490000152587891,0.5129999923706055,0.13727900385856628,Jessic Ngankam,a,8396,OpenPlay,2022,Head,19484,Bochum,Hertha Berlin,3,1,2023-01-21 14:30:00,Myziane Maolida,Aerial
+504548,86,BlockedShot,0.8480000305175781,0.5509999847412109,0.08636859804391861,Jessic Ngankam,a,8396,OpenPlay,2022,RightFoot,19484,Bochum,Hertha Berlin,3,1,2023-01-21 14:30:00,Lucas Tousart,Pass
+505349,66,MissedShots,0.9080000305175782,0.515,0.06054069846868515,Jessic Ngankam,h,8396,OpenPlay,2022,Head,19492,Hertha Berlin,Wolfsburg,0,5,2023-01-24 19:30:00,,None
+507050,61,BlockedShot,0.9159999847412109,0.46700000762939453,0.2716340124607086,Jessic Ngankam,a,8396,OpenPlay,2022,RightFoot,19508,Eintracht Frankfurt,Hertha Berlin,3,0,2023-02-04 14:30:00,Lucas Tousart,Chipped
+507060,90,SavedShot,0.9259999847412109,0.3220000076293945,0.06872879713773727,Jessic Ngankam,a,8396,OpenPlay,2022,RightFoot,19508,Eintracht Frankfurt,Hertha Berlin,3,0,2023-02-04 14:30:00,Marco Richter,Pass
+508958,29,Goal,0.9630000305175781,0.5159999847412109,0.5895010232925415,Jessic Ngankam,h,8396,OpenPlay,2022,RightFoot,19519,Hertha Berlin,Borussia M.Gladbach,4,1,2023-02-12 14:30:00,Marco Richter,Cross
+508959,35,BlockedShot,0.8809999847412109,0.2720000076293945,0.03497619926929474,Jessic Ngankam,h,8396,OpenPlay,2022,RightFoot,19519,Hertha Berlin,Borussia M.Gladbach,4,1,2023-02-12 14:30:00,Marco Richter,Pass
+508971,57,BlockedShot,0.8630000305175781,0.6769999694824219,0.05479170009493828,Jessic Ngankam,h,8396,OpenPlay,2022,RightFoot,19519,Hertha Berlin,Borussia M.Gladbach,4,1,2023-02-12 14:30:00,Lucas Tousart,Pass
+510325,11,MissedShots,0.8190000152587891,0.6580000305175782,0.03554389998316765,Jessic Ngankam,a,8396,OpenPlay,2022,RightFoot,19522,Borussia Dortmund,Hertha Berlin,4,1,2023-02-19 16:30:00,,None
+510709,44,MissedShots,0.8280000305175781,0.24600000381469728,0.018806399777531624,Jessic Ngankam,h,8396,OpenPlay,2022,RightFoot,19537,Hertha Berlin,Augsburg,2,0,2023-02-25 14:30:00,,None
+513394,17,Goal,0.885,0.5,0.7577769756317139,Jessic Ngankam,h,8396,Penalty,2022,RightFoot,19555,Hertha Berlin,Mainz 05,1,1,2023-03-11 14:30:00,,Standard
+514934,80,BlockedShot,0.865,0.7530000305175781,0.026912499219179153,Jessic Ngankam,a,8396,OpenPlay,2022,RightFoot,19562,Hoffenheim,Hertha Berlin,3,1,2023-03-18 14:30:00,Maximilian Mittelstädt,Pass
+514936,81,MissedShots,0.8059999847412109,0.49700000762939456,0.03440370038151741,Jessic Ngankam,a,8396,OpenPlay,2022,RightFoot,19562,Hoffenheim,Hertha Berlin,3,1,2023-03-18 14:30:00,Stevan Jovetic,Chipped
+516142,74,MissedShots,0.960999984741211,0.534000015258789,0.5031629800796509,Jessic Ngankam,a,8396,OpenPlay,2022,Head,19568,Freiburg,Hertha Berlin,1,1,2023-04-01 13:30:00,Wilfried Kanga,Aerial
+516143,76,Goal,0.860999984741211,0.4570000076293945,0.37918999791145325,Jessic Ngankam,a,8396,OpenPlay,2022,RightFoot,19568,Freiburg,Hertha Berlin,1,1,2023-04-01 13:30:00,,None
+520741,53,SavedShot,0.8980000305175782,0.3870000076293945,0.3042902648448944,Jessic Ngankam,h,8396,OpenPlay,2022,RightFoot,19602,Hertha Berlin,Werder Bremen,2,4,2023-04-22 13:30:00,,BallRecovery
+520746,67,Goal,0.914000015258789,0.385,0.30351391434669495,Jessic Ngankam,h,8396,OpenPlay,2022,RightFoot,19602,Hertha Berlin,Werder Bremen,2,4,2023-04-22 13:30:00,Suat Serdar,Throughball
+525570,62,SavedShot,0.9480000305175781,0.5579999923706055,0.6700107455253601,Jessic Ngankam,a,8396,OpenPlay,2022,RightFoot,19625,FC Cologne,Hertha Berlin,5,2,2023-05-12 18:30:00,,TakeOn
+525572,70,MissedShots,0.8980000305175782,0.4570000076293945,0.04894581437110901,Jessic Ngankam,a,8396,OpenPlay,2022,Head,19625,FC Cologne,Hertha Berlin,5,2,2023-05-12 18:30:00,Maximilian Mittelstädt,Aerial
+533838,93,SavedShot,0.9669999694824218,0.34,0.07782714813947678,Jessic Ngankam,h,8396,OpenPlay,2023,RightFoot,23073,Eintracht Frankfurt,Darmstadt,1,0,2023-08-20 15:30:00,,None
+536904,76,BlockedShot,0.86,0.45599998474121095,0.03171588107943535,Jessic Ngankam,h,8396,FromCorner,2023,RightFoot,23090,Eintracht Frankfurt,FC Cologne,1,1,2023-09-03 13:30:00,Jens Petter Hauge,Aerial
+537859,6,SavedShot,0.9259999847412109,0.6580000305175782,0.07913220673799515,Jessic Ngankam,a,8396,OpenPlay,2023,LeftFoot,23098,Bochum,Eintracht Frankfurt,1,1,2023-09-16 16:30:00,Mario Götze,Pass
+539928,68,MissedShots,0.8540000152587891,0.41900001525878905,0.08949204534292221,Jessic Ngankam,h,8396,OpenPlay,2023,RightFoot,23109,Eintracht Frankfurt,Freiburg,0,0,2023-09-24 15:30:00,Hugo Larsson,Pass
+543481,29,MissedShots,0.885,0.5,0.75777667760849,Jessic Ngankam,h,8396,Penalty,2023,RightFoot,23127,Eintracht Frankfurt,FC Heidenheim,2,0,2023-10-08 17:30:00,,Standard
+543482,37,SavedShot,0.915,0.5029999923706054,0.13469888269901276,Jessic Ngankam,h,8396,OpenPlay,2023,Head,23127,Eintracht Frankfurt,FC Heidenheim,2,0,2023-10-08 17:30:00,Philipp Max,Cross
+543485,41,SavedShot,0.8119999694824219,0.5070000076293946,0.060848597437143326,Jessic Ngankam,h,8396,OpenPlay,2023,RightFoot,23127,Eintracht Frankfurt,FC Heidenheim,2,0,2023-10-08 17:30:00,Farès Chaïbi,Pass
+552030,95,MissedShots,0.8540000152587891,0.4759999847412109,0.38020455837249756,Jessic Ngankam,a,8396,OpenPlay,2023,RightFoot,23179,Augsburg,Eintracht Frankfurt,2,1,2023-12-03 18:30:00,,None
+561162,51,BlockedShot,0.8669999694824219,0.35,0.049890708178281784,Jessic Ngankam,h,8396,OpenPlay,2023,RightFoot,23240,Mainz 05,Werder Bremen,0,1,2024-02-03 14:30:00,Silvan Widmer,HeadPass
+561164,60,SavedShot,0.865999984741211,0.46299999237060546,0.06498675793409348,Jessic Ngankam,h,8396,OpenPlay,2023,LeftFoot,23240,Mainz 05,Werder Bremen,0,1,2024-02-03 14:30:00,Jonathan Burkardt,Cross
+563372,84,BlockedShot,0.8190000152587891,0.5529999923706055,0.05862833186984062,Jessic Ngankam,h,8396,OpenPlay,2023,RightFoot,23221,Mainz 05,Union Berlin,1,1,2024-02-07 17:30:00,Anthony Caci,Chipped
+563058,37,MissedShots,0.9690000152587891,0.43,0.35624071955680847,Jessic Ngankam,a,8396,FromCorner,2023,Head,23253,VfB Stuttgart,Mainz 05,3,1,2024-02-11 14:30:00,Anthony Caci,Cross
+563061,50,BlockedShot,0.78,0.5409999847412109,0.023358015343546867,Jessic Ngankam,a,8396,OpenPlay,2023,RightFoot,23253,VfB Stuttgart,Mainz 05,3,1,2024-02-11 14:30:00,Ludovic Ajorque,BallRecovery
+563762,85,BlockedShot,0.8519999694824218,0.36700000762939455,0.07064428925514221,Jessic Ngankam,h,8396,OpenPlay,2023,LeftFoot,23257,Mainz 05,Augsburg,1,0,2024-02-17 14:30:00,Nadiem Amiri,Chipped
+564934,64,BlockedShot,0.7880000305175782,0.37799999237060544,0.02848951704800129,Jessic Ngankam,a,8396,OpenPlay,2023,RightFoot,23268,Bayer Leverkusen,Mainz 05,2,1,2024-02-23 19:30:00,,None

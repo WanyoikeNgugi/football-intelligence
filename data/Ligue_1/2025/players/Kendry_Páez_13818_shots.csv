@@ -1,0 +1,11 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+639424,31,MissedShots,0.7930000305175782,0.3110000038146973,0.024991968646645546,Kendry Páez,h,13818,OpenPlay,2025,LeftFoot,29552,Strasbourg,Nantes,1,0,2025-08-24 15:15:00,Felix Lemarechal,Pass
+639430,59,BlockedShot,0.7559999847412109,0.3579999923706055,0.022294025868177414,Kendry Páez,h,13818,OpenPlay,2025,LeftFoot,29552,Strasbourg,Nantes,1,0,2025-08-24 15:15:00,Junior Mwanga,Pass
+639432,62,BlockedShot,0.9109999847412109,0.33099998474121095,0.05623406544327736,Kendry Páez,h,13818,OpenPlay,2025,RightFoot,29552,Strasbourg,Nantes,1,0,2025-08-24 15:15:00,Joaquín Panichelli,Rebound
+640934,85,SavedShot,0.8809999847412109,0.6370000076293946,0.3505095839500427,Kendry Páez,a,13818,OpenPlay,2025,LeftFoot,29563,Monaco,Strasbourg,3,2,2025-08-31 15:15:00,Valentín Barco,Throughball
+642418,75,SavedShot,0.8469999694824218,0.18100000381469727,0.05103878676891327,Kendry Páez,h,13818,DirectFreekick,2025,LeftFoot,29573,Strasbourg,Le Havre,1,0,2025-09-14 15:15:00,,Standard
+643652,26,Goal,0.9330000305175781,0.5420000076293945,0.3986758887767792,Kendry Páez,a,13818,OpenPlay,2025,Head,29582,Paris FC,Strasbourg,2,3,2025-09-21 13:00:00,Diego Moreira,Cross
+644402,15,MissedShots,0.74,0.38299999237060545,0.013995200395584106,Kendry Páez,h,13818,OpenPlay,2025,LeftFoot,29590,Strasbourg,Marseille,1,2,2025-09-26 18:45:00,,None
+650487,72,MissedShots,0.754000015258789,0.48700000762939455,0.07119926810264587,Kendry Páez,h,13818,DirectFreekick,2025,LeftFoot,29627,Strasbourg,Auxerre,3,0,2025-10-29 19:05:00,,Standard
+650491,90,SavedShot,0.7430000305175781,0.46,0.03136100620031357,Kendry Páez,h,13818,OpenPlay,2025,LeftFoot,29627,Strasbourg,Auxerre,3,0,2025-10-29 19:05:00,Samir El Mourabet,Pass
+657184,65,MissedShots,0.909000015258789,0.345,0.059958621859550476,Kendry Páez,a,13818,SetPiece,2025,RightFoot,29672,Toulouse,Strasbourg,1,0,2025-12-06 18:00:00,,None

@@ -1,0 +1,7 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+566414,71,MissedShots,0.885,0.6229999923706054,0.07524577528238297,Pep Biel,a,12406,OpenPlay,2023,LeftFoot,23280,Darmstadt,Augsburg,0,6,2024-03-02 14:30:00,Felix Uduokhai,TakeOn
+571372,94,BlockedShot,0.7719999694824219,0.385,0.02280193381011486,Pep Biel,h,12406,OpenPlay,2023,LeftFoot,23306,Augsburg,FC Cologne,1,1,2024-03-31 14:30:00,Kevin Mbabu,Pass
+573287,77,BlockedShot,0.825,0.45,0.07287970930337906,Pep Biel,h,12406,OpenPlay,2023,LeftFoot,23323,Augsburg,Union Berlin,2,0,2024-04-12 18:30:00,,None
+573300,94,BlockedShot,0.875999984741211,0.46900001525878904,0.07328828424215317,Pep Biel,h,12406,OpenPlay,2023,RightFoot,23323,Augsburg,Union Berlin,2,0,2024-04-12 18:30:00,,Aerial
+581537,79,SavedShot,0.9380000305175781,0.45,0.41902101039886475,Pep Biel,a,12406,OpenPlay,2023,LeftFoot,23364,Bayer Leverkusen,Augsburg,2,1,2024-05-18 13:30:00,Jeffrey Gouweleeuw,Cross
+581539,86,MissedShots,0.874000015258789,0.544000015258789,0.28526660799980164,Pep Biel,a,12406,OpenPlay,2023,LeftFoot,23364,Bayer Leverkusen,Augsburg,2,1,2024-05-18 13:30:00,Sven Michel,Cross

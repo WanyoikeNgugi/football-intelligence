@@ -1,0 +1,25 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+2835,47,MissedShots,0.91,0.5070000076293946,0.08589159697294235,Lamine Sané,h,3254,FromCorner,2014,Head,6111,Bordeaux,Lille,1,0,2014-11-30 13:00:00,Thomas Touré,Cross
+2840,56,MissedShots,0.9080000305175782,0.54,0.0252446997910738,Lamine Sané,h,3254,FromCorner,2014,Head,6111,Bordeaux,Lille,1,0,2014-11-30 13:00:00,Thomas Touré,Aerial
+4150,24,MissedShots,0.8930000305175781,0.5479999923706055,0.073232501745224,Lamine Sané,a,3254,SetPiece,2014,Head,6057,Nantes,Bordeaux,2,1,2014-12-13 16:00:00,Grégory Sertic,Cross
+4163,85,MissedShots,0.9340000152587891,0.51,0.12456200271844864,Lamine Sané,a,3254,FromCorner,2014,Head,6057,Nantes,Bordeaux,2,1,2014-12-13 16:00:00,Grégory Sertic,Cross
+4165,85,BlockedShot,0.9209999847412109,0.5279999923706055,0.10222700238227844,Lamine Sané,a,3254,FromCorner,2014,Head,6057,Nantes,Bordeaux,2,1,2014-12-13 16:00:00,Grégory Sertic,Cross
+4401,66,MissedShots,0.8969999694824219,0.544000015258789,0.017565399408340454,Lamine Sané,h,3254,FromCorner,2014,Head,5994,Bordeaux,Reims,1,1,2015-02-28 19:00:00,Wahbi Khazri,Aerial
+7555,33,SavedShot,0.7319999694824219,0.44,0.01783280074596405,Lamine Sané,a,3254,OpenPlay,2014,RightFoot,5936,Caen,Bordeaux,1,2,2015-03-07 19:00:00,Nicolas Maurice-Belay,Pass
+7661,15,MissedShots,0.855999984741211,0.3940000152587891,0.008197960443794727,Lamine Sané,h,3254,SetPiece,2014,Head,5948,Bordeaux,Paris Saint Germain,3,2,2015-03-15 16:00:00,Wahbi Khazri,Aerial
+7662,17,Goal,0.89,0.4329999923706055,0.014782099984586239,Lamine Sané,h,3254,FromCorner,2014,Head,5948,Bordeaux,Paris Saint Germain,3,2,2015-03-15 16:00:00,Wahbi Khazri,Aerial
+8206,56,MissedShots,0.9580000305175781,0.40099998474121096,0.05963769927620888,Lamine Sané,a,3254,FromCorner,2014,Head,5954,Toulouse,Bordeaux,2,1,2015-03-21 19:00:00,Wahbi Khazri,Cross
+63587,18,MissedShots,0.9269999694824219,0.6,0.054011501371860504,Lamine Sané,h,3254,SetPiece,2015,Head,1976,Bordeaux,Troyes,1,0,2015-10-25 20:00:00,Wahbi Khazri,Chipped
+63916,5,MissedShots,0.9180000305175782,0.534000015258789,0.09280239790678024,Lamine Sané,a,3254,FromCorner,2015,Head,2007,Rennes,Bordeaux,2,2,2015-11-22 20:00:00,Wahbi Khazri,Cross
+66665,22,SavedShot,0.865999984741211,0.5229999923706055,0.011058599688112736,Lamine Sané,h,3254,SetPiece,2015,Head,2151,Bordeaux,GFC Ajaccio,1,1,2016-03-05 23:00:00,Valentin Vada,Aerial
+128231,69,MissedShots,0.8980000305175782,0.5279999923706055,0.06207070127129555,Lamine Sané,a,3254,FromCorner,2016,Head,1351,Borussia M.Gladbach,Werder Bremen,4,1,2016-09-17 20:30:00,Zlatko Junuzovic,Cross
+128996,50,Goal,0.9669999694824218,0.5259999847412109,0.6952610015869141,Lamine Sané,a,3254,SetPiece,2016,OtherBodyPart,1376,Darmstadt,Werder Bremen,2,2,2016-10-01 17:30:00,Theodor Gebre Selassie,HeadPass
+130596,66,MissedShots,0.8119999694824219,0.45799999237060546,0.03750300034880638,Lamine Sané,h,3254,FromCorner,2016,RightFoot,3197,Werder Bremen,Ingolstadt,2,1,2016-12-03 18:30:00,,None
+132117,17,MissedShots,0.9119999694824219,0.485,0.12307199835777283,Lamine Sané,a,3254,SetPiece,2016,Head,3767,Wolfsburg,Werder Bremen,1,2,2017-02-24 19:30:00,Zlatko Junuzovic,Cross
+133911,10,MissedShots,0.96,0.485,0.1421169936656952,Lamine Sané,a,3254,SetPiece,2016,Head,3846,Ingolstadt,Werder Bremen,2,4,2017-04-22 14:30:00,Niklas Moisander,HeadPass
+127679,11,MissedShots,0.8530000305175781,0.48700000762939455,0.016323300078511238,Lamine Sané,a,3254,SetPiece,2016,Head,3875,Borussia Dortmund,Werder Bremen,4,3,2017-05-20 14:30:00,,None
+165799,26,MissedShots,0.895,0.4640000152587891,0.01826299913227558,Lamine Sané,a,3254,FromCorner,2017,Head,8260,Hoffenheim,Werder Bremen,1,0,2017-08-19 14:30:00,Max Kruse,Aerial
+166574,19,Goal,0.9059999847412109,0.46799999237060547,0.12443699687719345,Lamine Sané,h,3254,FromCorner,2017,LeftFoot,8287,Werder Bremen,Schalke 04,1,2,2017-09-16 14:30:00,,Rebound
+168053,49,MissedShots,0.92,0.6090000152587891,0.17931300401687622,Lamine Sané,a,3254,FromCorner,2017,Head,8332,FC Cologne,Werder Bremen,0,0,2017-10-22 12:30:00,Izet Hajrovic,Cross
+168656,56,BlockedShot,0.89,0.5329999923706055,0.030977999791502953,Lamine Sané,h,3254,FromCorner,2017,Head,8343,Werder Bremen,Augsburg,0,3,2017-10-29 14:30:00,Izet Hajrovic,Rebound
+168658,56,SavedShot,0.9459999847412109,0.48,0.4426420032978058,Lamine Sané,h,3254,FromCorner,2017,RightFoot,8343,Werder Bremen,Augsburg,0,3,2017-10-29 14:30:00,Ishak Belfodil,Cross

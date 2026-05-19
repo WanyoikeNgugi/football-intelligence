@@ -1,0 +1,14 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+586449,61,BlockedShot,0.8669999694824219,0.575999984741211,0.020858215168118477,Jacques Ekomie,a,10243,OpenPlay,2024,Head,28059,Lille,Angers,2,0,2024-08-24 17:00:00,Carlens Arcus,Card
+640780,47,SavedShot,0.875,0.72,0.05347157269716263,Jacques Ekomie,h,10243,OpenPlay,2025,RightFoot,29560,Angers,Rennes,1,1,2025-08-31 13:00:00,,TakeOn
+640788,73,MissedShots,0.865,0.7340000152587891,0.029068125411868095,Jacques Ekomie,h,10243,FromCorner,2025,LeftFoot,29560,Angers,Rennes,1,1,2025-08-31 13:00:00,Lilian Raolisoa,Cross
+642767,95,BlockedShot,0.9680000305175781,0.42900001525878906,0.055121347308158875,Jacques Ekomie,a,10243,FromCorner,2025,Head,29578,Lyon,Angers,1,0,2025-09-19 18:45:00,Jordan Lefort,Rebound
+642768,95,SavedShot,0.975999984741211,0.47400001525878904,0.177837535738945,Jacques Ekomie,a,10243,FromCorner,2025,Head,29578,Lyon,Angers,1,0,2025-09-19 18:45:00,,Rebound
+657408,54,MissedShots,0.950999984741211,0.6379999923706055,0.19234491884708405,Jacques Ekomie,a,10243,OpenPlay,2025,Head,29670,Nice,Angers,0,1,2025-12-07 14:00:00,Amine Sbaï,Cross
+657409,55,SavedShot,0.9730000305175781,0.62,0.1740729659795761,Jacques Ekomie,a,10243,OpenPlay,2025,Head,29670,Nice,Angers,0,1,2025-12-07 14:00:00,,Rebound
+669158,21,BlockedShot,0.8669999694824219,0.5640000152587891,0.06196611374616623,Jacques Ekomie,a,10243,OpenPlay,2025,LeftFoot,29729,Lorient,Angers,2,0,2026-02-15 16:15:00,Yassin Belkhdim,Cross
+671309,92,MissedShots,0.865,0.5659999847412109,0.041549332439899445,Jacques Ekomie,a,10243,OpenPlay,2025,LeftFoot,29750,Monaco,Angers,2,0,2026-02-28 18:00:00,Carlens Arcus,Cross
+676942,94,BlockedShot,0.9480000305175781,0.2610000038146973,0.037251442670822144,Jacques Ekomie,h,10243,OpenPlay,2025,LeftFoot,29781,Angers,Lyon,0,0,2026-04-05 13:00:00,Marius Louãr,Pass
+681245,76,MissedShots,0.845,0.30700000762939456,0.039631959050893784,Jacques Ekomie,h,10243,OpenPlay,2025,LeftFoot,29808,Angers,Paris Saint Germain,0,3,2026-04-25 17:00:00,Haris Belkebla,Pass
+682961,90,MissedShots,0.9319999694824219,0.4229999923706055,0.0778464749455452,Jacques Ekomie,a,10243,FromCorner,2025,Head,29817,Auxerre,Angers,3,1,2026-05-03 15:15:00,Louis Mouton,Cross
+684413,8,MissedShots,0.8590000152587891,0.7559999847412109,0.0288162212818861,Jacques Ekomie,h,10243,OpenPlay,2025,RightFoot,29826,Angers,Strasbourg,1,1,2026-05-10 19:00:00,Branco van den Boomen,TakeOn

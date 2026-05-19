@@ -1,0 +1,159 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+27065,8,MissedShots,0.879000015258789,0.2560000038146973,0.042504001408815384,Daniel Ginczek,h,426,OpenPlay,2014,RightFoot,5373,VfB Stuttgart,Augsburg,0,1,2014-11-23 16:30:00,Daniel Schwaab,TakeOn
+27991,50,SavedShot,0.865,0.45799999237060546,0.32746198773384094,Daniel Ginczek,a,426,OpenPlay,2014,RightFoot,5327,Mainz 05,VfB Stuttgart,1,1,2014-12-13 17:30:00,Christian Gentner,Pass
+29295,59,MissedShots,0.909000015258789,0.41700000762939454,0.09214679896831512,Daniel Ginczek,a,426,OpenPlay,2014,Head,5302,Hannover 96,VfB Stuttgart,1,1,2015-02-28 14:30:00,Timo Werner,Cross
+30251,64,MissedShots,0.9219999694824219,0.49700000762939456,0.542451024055481,Daniel Ginczek,h,426,OpenPlay,2014,RightFoot,5233,VfB Stuttgart,Hertha Berlin,0,0,2015-03-06 19:30:00,,None
+30741,16,SavedShot,0.9119999694824219,0.5629999923706055,0.45531800389289856,Daniel Ginczek,a,426,OpenPlay,2014,RightFoot,5242,Bayer Leverkusen,VfB Stuttgart,4,0,2015-03-13 19:30:00,Timo Werner,Pass
+30752,54,SavedShot,0.9640000152587891,0.33799999237060546,0.05909569934010506,Daniel Ginczek,a,426,SetPiece,2014,RightFoot,5242,Bayer Leverkusen,VfB Stuttgart,4,0,2015-03-13 19:30:00,Gotoku Sakai,Chipped
+30759,89,SavedShot,0.875,0.5359999847412109,0.3320949971675873,Daniel Ginczek,a,426,OpenPlay,2014,LeftFoot,5242,Bayer Leverkusen,VfB Stuttgart,4,0,2015-03-13 19:30:00,Christian Gentner,BallTouch
+32057,53,SavedShot,0.895,0.534000015258789,0.07636579871177673,Daniel Ginczek,h,426,OpenPlay,2014,Head,5256,VfB Stuttgart,Eintracht Frankfurt,3,1,2015-03-21 14:30:00,Timo Werner,Cross
+32059,62,Goal,0.9730000305175781,0.48900001525878906,0.9431099891662598,Daniel Ginczek,h,426,OpenPlay,2014,OtherBodyPart,5256,VfB Stuttgart,Eintracht Frankfurt,3,1,2015-03-21 14:30:00,Martin Harnik,Pass
+32060,65,Goal,0.8969999694824219,0.4570000076293945,0.3134250044822693,Daniel Ginczek,h,426,OpenPlay,2014,RightFoot,5256,VfB Stuttgart,Eintracht Frankfurt,3,1,2015-03-21 14:30:00,Alexandru Maxim,Chipped
+32064,86,SavedShot,0.8809999847412109,0.5479999923706055,0.11719100177288055,Daniel Ginczek,h,426,OpenPlay,2014,RightFoot,5256,VfB Stuttgart,Eintracht Frankfurt,3,1,2015-03-21 14:30:00,Alexandru Maxim,Cross
+32337,58,MissedShots,0.9369999694824219,0.524000015258789,0.4641749858856201,Daniel Ginczek,a,426,OpenPlay,2014,Head,5200,Wolfsburg,VfB Stuttgart,3,1,2015-04-04 14:30:00,Filip Kostic,Cross
+31264,22,MissedShots,0.8469999694824218,0.24299999237060546,0.04061039909720421,Daniel Ginczek,h,426,OpenPlay,2014,RightFoot,5212,VfB Stuttgart,Werder Bremen,3,2,2015-04-12 16:30:00,Sven Ulreich,Pass
+31277,69,Goal,0.9459999847412109,0.5159999847412109,0.5221850275993347,Daniel Ginczek,h,426,OpenPlay,2014,Head,5212,VfB Stuttgart,Werder Bremen,3,2,2015-04-12 16:30:00,Martin Harnik,Aerial
+31282,81,BlockedShot,0.874000015258789,0.624000015258789,0.05562080070376396,Daniel Ginczek,h,426,FromCorner,2014,RightFoot,5212,VfB Stuttgart,Werder Bremen,3,2,2015-04-12 16:30:00,,None
+31284,90,Goal,0.8880000305175781,0.49,0.4127129912376404,Daniel Ginczek,h,426,OpenPlay,2014,RightFoot,5212,VfB Stuttgart,Werder Bremen,3,2,2015-04-12 16:30:00,Geoffroy Serey Dié,Pass
+31959,21,Goal,0.97,0.47400001525878904,0.8001819849014282,Daniel Ginczek,a,426,SetPiece,2014,RightFoot,5219,Augsburg,VfB Stuttgart,2,1,2015-04-18 17:30:00,Filip Kostic,Pass
+31964,38,SavedShot,0.919000015258789,0.49900001525878906,0.6372339725494385,Daniel Ginczek,a,426,OpenPlay,2014,RightFoot,5219,Augsburg,VfB Stuttgart,2,1,2015-04-18 17:30:00,Christian Gentner,Pass
+31969,47,BlockedShot,0.8219999694824218,0.3609999847412109,0.039819300174713135,Daniel Ginczek,a,426,OpenPlay,2014,RightFoot,5219,Augsburg,VfB Stuttgart,2,1,2015-04-18 17:30:00,Alexandru Maxim,Pass
+29916,2,MissedShots,0.720999984741211,0.664000015258789,0.01347070001065731,Daniel Ginczek,h,426,OpenPlay,2014,RightFoot,5224,VfB Stuttgart,Freiburg,2,2,2015-04-25 14:30:00,Filip Kostic,BallRecovery
+29917,5,BlockedShot,0.7759999847412109,0.62,0.026659399271011353,Daniel Ginczek,h,426,OpenPlay,2014,RightFoot,5224,VfB Stuttgart,Freiburg,2,2,2015-04-25 14:30:00,Oriol Romeu,Pass
+29920,23,Goal,0.9069999694824219,0.5179999923706055,0.09750880300998688,Daniel Ginczek,h,426,OpenPlay,2014,RightFoot,5224,VfB Stuttgart,Freiburg,2,2,2015-04-25 14:30:00,,None
+29923,31,MissedShots,0.9159999847412109,0.5,0.06059889867901802,Daniel Ginczek,h,426,SetPiece,2014,Head,5224,VfB Stuttgart,Freiburg,2,2,2015-04-25 14:30:00,Alexandru Maxim,Aerial
+31810,28,BlockedShot,0.7319999694824219,0.54,0.055649399757385254,Daniel Ginczek,h,426,DirectFreekick,2014,RightFoot,5174,VfB Stuttgart,Mainz 05,2,0,2015-05-09 17:30:00,,Standard
+31816,39,MissedShots,0.9319999694824219,0.59,0.3778190016746521,Daniel Ginczek,h,426,OpenPlay,2014,RightFoot,5174,VfB Stuttgart,Mainz 05,2,0,2015-05-09 17:30:00,,Rebound
+31817,41,BlockedShot,0.8730000305175781,0.5879999923706055,0.010178199969232082,Daniel Ginczek,h,426,SetPiece,2014,Head,5174,VfB Stuttgart,Mainz 05,2,0,2015-05-09 17:30:00,Filip Kostic,Aerial
+31823,70,MissedShots,0.8730000305175781,0.534000015258789,0.23366299271583557,Daniel Ginczek,h,426,OpenPlay,2014,Head,5174,VfB Stuttgart,Mainz 05,2,0,2015-05-09 17:30:00,Filip Kostic,Cross
+31824,73,SavedShot,0.7290000152587891,0.5120000076293946,0.05464959889650345,Daniel Ginczek,h,426,DirectFreekick,2014,RightFoot,5174,VfB Stuttgart,Mainz 05,2,0,2015-05-09 17:30:00,,Standard
+31829,86,SavedShot,0.875999984741211,0.46700000762939453,0.13031600415706635,Daniel Ginczek,h,426,OpenPlay,2014,LeftFoot,5174,VfB Stuttgart,Mainz 05,2,0,2015-05-09 17:30:00,Alexandru Maxim,Pass
+30932,82,SavedShot,0.88,0.43900001525878907,0.04873000085353851,Daniel Ginczek,h,426,FromCorner,2014,RightFoot,5184,VfB Stuttgart,Hamburger SV,2,1,2015-05-16 14:30:00,Filip Kostic,Cross
+31870,28,SavedShot,0.8480000305175781,0.4209999847412109,0.08725319802761078,Daniel Ginczek,a,426,OpenPlay,2014,LeftFoot,5194,Paderborn,VfB Stuttgart,1,2,2015-05-23 14:30:00,Filip Kostic,TakeOn
+31876,44,MissedShots,0.925,0.43099998474121093,0.45488300919532776,Daniel Ginczek,a,426,OpenPlay,2014,RightFoot,5194,Paderborn,VfB Stuttgart,1,2,2015-05-23 14:30:00,Daniel Schwaab,TakeOn
+31880,54,BlockedShot,0.8830000305175781,0.33099998474121095,0.06262809783220291,Daniel Ginczek,a,426,OpenPlay,2014,RightFoot,5194,Paderborn,VfB Stuttgart,1,2,2015-05-23 14:30:00,Martin Harnik,Pass
+31890,71,Goal,0.97,0.56,0.657105028629303,Daniel Ginczek,a,426,OpenPlay,2014,LeftFoot,5194,Paderborn,VfB Stuttgart,1,2,2015-05-23 14:30:00,Alexandru Maxim,Pass
+76172,42,BlockedShot,0.8619999694824219,0.445,0.015477599576115608,Daniel Ginczek,h,426,OpenPlay,2015,Head,1029,VfB Stuttgart,FC Cologne,1,3,2015-08-16 19:30:00,Filip Kostic,CornerAwarded
+76174,46,MissedShots,0.93,0.534000015258789,0.4696139991283417,Daniel Ginczek,h,426,OpenPlay,2015,RightFoot,1029,VfB Stuttgart,FC Cologne,1,3,2015-08-16 19:30:00,Martin Harnik,HeadPass
+76192,90,BlockedShot,0.9130000305175782,0.40200000762939453,0.015098500065505505,Daniel Ginczek,h,426,FromCorner,2015,Head,1029,VfB Stuttgart,FC Cologne,1,3,2015-08-16 19:30:00,Alexandru Maxim,Aerial
+76371,22,Goal,0.8880000305175781,0.44,0.5256019830703735,Daniel Ginczek,a,426,OpenPlay,2015,RightFoot,1036,Hamburger SV,VfB Stuttgart,3,2,2015-08-22 20:30:00,Daniel Didavi,TakeOn
+76378,41,Goal,0.8830000305175781,0.5109999847412109,0.7029529809951782,Daniel Ginczek,a,426,OpenPlay,2015,LeftFoot,1036,Hamburger SV,VfB Stuttgart,3,2,2015-08-22 20:30:00,Christian Gentner,TakeOn
+76591,26,SavedShot,0.8619999694824219,0.6819999694824219,0.03903929889202118,Daniel Ginczek,h,426,SetPiece,2015,RightFoot,1040,VfB Stuttgart,Eintracht Frankfurt,1,4,2015-08-29 17:30:00,Emiliano Insúa,Pass
+76597,42,BlockedShot,0.7719999694824219,0.34599998474121096,0.01894799992442131,Daniel Ginczek,h,426,OpenPlay,2015,RightFoot,1040,VfB Stuttgart,Eintracht Frankfurt,1,4,2015-08-29 17:30:00,Christian Gentner,Chipped
+76910,25,MissedShots,0.909000015258789,0.5059999847412109,0.09175249934196472,Daniel Ginczek,a,426,OpenPlay,2015,Head,1051,Hertha Berlin,VfB Stuttgart,2,1,2015-09-12 17:30:00,Filip Kostic,Cross
+77049,24,BlockedShot,0.74,0.6669999694824219,0.047045398503541946,Daniel Ginczek,h,426,DirectFreekick,2015,RightFoot,1063,VfB Stuttgart,Schalke 04,0,1,2015-09-20 17:30:00,,Standard
+77050,26,MissedShots,0.8159999847412109,0.54,0.1443679928779602,Daniel Ginczek,h,426,OpenPlay,2015,RightFoot,1063,VfB Stuttgart,Schalke 04,0,1,2015-09-20 17:30:00,Alexandru Maxim,Throughball
+77051,28,SavedShot,0.89,0.5359999847412109,0.04705119878053665,Daniel Ginczek,h,426,FromCorner,2015,Head,1063,VfB Stuttgart,Schalke 04,0,1,2015-09-20 17:30:00,Alexandru Maxim,Cross
+77056,33,MissedShots,0.985999984741211,0.4129999923706055,0.08264820277690887,Daniel Ginczek,h,426,OpenPlay,2015,RightFoot,1063,VfB Stuttgart,Schalke 04,0,1,2015-09-20 17:30:00,,None
+77064,54,SavedShot,0.8919999694824219,0.4370000076293945,0.040018100291490555,Daniel Ginczek,h,426,FromCorner,2015,Head,1063,VfB Stuttgart,Schalke 04,0,1,2015-09-20 17:30:00,Filip Kostic,Cross
+77074,74,SavedShot,0.925,0.43099998474121093,0.27722299098968506,Daniel Ginczek,h,426,OpenPlay,2015,RightFoot,1063,VfB Stuttgart,Schalke 04,0,1,2015-09-20 17:30:00,Florian Klein,Chipped
+77326,17,SavedShot,0.845,0.524000015258789,0.3145259916782379,Daniel Ginczek,a,426,OpenPlay,2015,RightFoot,1074,Hannover 96,VfB Stuttgart,1,3,2015-09-23 22:00:00,Christian Gentner,Pass
+77339,62,BlockedShot,0.8569999694824219,0.3579999923706055,0.06579510122537613,Daniel Ginczek,a,426,OpenPlay,2015,RightFoot,1074,Hannover 96,VfB Stuttgart,1,3,2015-09-23 22:00:00,Timo Werner,Pass
+77526,39,Goal,0.885,0.5,0.7576959729194641,Daniel Ginczek,h,426,Penalty,2015,RightFoot,1077,VfB Stuttgart,Borussia M.Gladbach,1,3,2015-09-26 17:30:00,,Standard
+77531,56,BlockedShot,0.8930000305175781,0.5540000152587891,0.07679740339517593,Daniel Ginczek,h,426,OpenPlay,2015,LeftFoot,1077,VfB Stuttgart,Borussia M.Gladbach,1,3,2015-09-26 17:30:00,,None
+167246,65,MissedShots,0.8090000152587891,0.5790000152587891,0.13294699788093567,Daniel Ginczek,a,426,DirectFreekick,2017,RightFoot,8320,Eintracht Frankfurt,VfB Stuttgart,2,1,2017-09-30 14:30:00,,Standard
+167254,76,MissedShots,0.7730000305175782,0.5540000152587891,0.04927640035748482,Daniel Ginczek,a,426,OpenPlay,2017,LeftFoot,8320,Eintracht Frankfurt,VfB Stuttgart,2,1,2017-09-30 14:30:00,Simon Terodde,LayOff
+167964,80,SavedShot,0.9230000305175782,0.29100000381469726,0.04723130166530609,Daniel Ginczek,h,426,OpenPlay,2017,RightFoot,8330,VfB Stuttgart,FC Cologne,2,1,2017-10-13 19:30:00,Chadrac Akolo,Pass
+168824,15,SavedShot,0.8930000305175781,0.6519999694824219,0.06994280219078064,Daniel Ginczek,h,426,OpenPlay,2017,LeftFoot,8348,VfB Stuttgart,Freiburg,3,0,2017-10-29 17:00:00,Berkay Özcan,Pass
+168833,37,Goal,0.9330000305175781,0.47299999237060547,0.10150399804115295,Daniel Ginczek,h,426,OpenPlay,2017,LeftFoot,8348,VfB Stuttgart,Freiburg,3,0,2017-10-29 17:00:00,,None
+167659,2,SavedShot,0.8819999694824219,0.3940000152587891,0.4118970036506653,Daniel Ginczek,a,426,OpenPlay,2017,RightFoot,8355,Hamburger SV,VfB Stuttgart,3,1,2017-11-04 14:30:00,Berkay Özcan,TakeOn
+167671,54,Goal,0.885,0.5,0.7577769756317139,Daniel Ginczek,a,426,Penalty,2017,RightFoot,8355,Hamburger SV,VfB Stuttgart,3,1,2017-11-04 14:30:00,,Standard
+188610,79,BlockedShot,0.7680000305175781,0.575999984741211,0.02889619953930378,Daniel Ginczek,a,426,OpenPlay,2017,RightFoot,8428,Mainz 05,VfB Stuttgart,3,2,2018-01-20 14:30:00,Berkay Özcan,Pass
+188612,88,SavedShot,0.909000015258789,0.5970000076293945,0.09999100118875504,Daniel Ginczek,a,426,OpenPlay,2017,LeftFoot,8428,Mainz 05,VfB Stuttgart,3,2,2018-01-20 14:30:00,Dzenis Burnic,Pass
+188613,90,Goal,0.9490000152587891,0.4209999847412109,0.11738000065088272,Daniel Ginczek,a,426,OpenPlay,2017,Head,8428,Mainz 05,VfB Stuttgart,3,2,2018-01-20 14:30:00,Christian Gentner,Cross
+189902,59,MissedShots,0.865,0.4879999923706055,0.03512300178408623,Daniel Ginczek,h,426,OpenPlay,2017,Head,8436,VfB Stuttgart,Schalke 04,0,2,2018-01-27 14:30:00,Timo Baumgartl,Cross
+194905,46,MissedShots,0.9530000305175781,0.32,0.03979330137372017,Daniel Ginczek,a,426,OpenPlay,2017,RightFoot,8446,Wolfsburg,VfB Stuttgart,1,1,2018-02-03 14:30:00,Ron-Robert Zieler,Pass
+194908,57,BlockedShot,0.9119999694824219,0.52,0.08779300004243851,Daniel Ginczek,a,426,FromCorner,2017,Head,8446,Wolfsburg,VfB Stuttgart,1,1,2018-02-03 14:30:00,Erik Thommy,Cross
+194916,77,MissedShots,0.93,0.47400001525878904,0.4439919888973236,Daniel Ginczek,a,426,OpenPlay,2017,LeftFoot,8446,Wolfsburg,VfB Stuttgart,1,1,2018-02-03 14:30:00,Mario Gomez,Cross
+195128,4,Goal,0.8719999694824219,0.43099998474121093,0.3934380114078522,Daniel Ginczek,h,426,OpenPlay,2017,RightFoot,8450,VfB Stuttgart,Borussia M.Gladbach,1,0,2018-02-11 14:30:00,Mario Gomez,Pass
+195138,50,BlockedShot,0.769000015258789,0.6370000076293946,0.030191900208592415,Daniel Ginczek,h,426,OpenPlay,2017,RightFoot,8450,VfB Stuttgart,Borussia M.Gladbach,1,0,2018-02-11 14:30:00,Emiliano Insúa,Pass
+196762,28,BlockedShot,0.805,0.6680000305175782,0.03776239976286888,Daniel Ginczek,a,426,OpenPlay,2017,RightFoot,8463,Augsburg,VfB Stuttgart,0,1,2018-02-18 14:30:00,Emiliano Insúa,Pass
+196768,50,BlockedShot,0.9169999694824219,0.34299999237060547,0.06239689886569977,Daniel Ginczek,a,426,SetPiece,2017,LeftFoot,8463,Augsburg,VfB Stuttgart,0,1,2018-02-18 14:30:00,Benjamin Pavard,Rebound
+196776,75,MissedShots,0.8819999694824219,0.5509999847412109,0.11372300237417221,Daniel Ginczek,a,426,OpenPlay,2017,RightFoot,8463,Augsburg,VfB Stuttgart,0,1,2018-02-18 14:30:00,,BallRecovery
+196777,83,BlockedShot,0.8580000305175781,0.66,0.09288550168275833,Daniel Ginczek,a,426,OpenPlay,2017,RightFoot,8463,Augsburg,VfB Stuttgart,0,1,2018-02-18 14:30:00,Mario Gomez,Pass
+197245,4,BlockedShot,0.88,0.5359999847412109,0.11353600025177002,Daniel Ginczek,h,426,OpenPlay,2017,RightFoot,8471,VfB Stuttgart,Eintracht Frankfurt,1,0,2018-02-24 14:30:00,Erik Thommy,Pass
+197248,12,BlockedShot,0.9830000305175781,0.3920000076293945,0.3282870054244995,Daniel Ginczek,h,426,OpenPlay,2017,RightFoot,8471,VfB Stuttgart,Eintracht Frankfurt,1,0,2018-02-24 14:30:00,,None
+197250,14,MissedShots,0.889000015258789,0.36400001525878906,0.14189599454402924,Daniel Ginczek,h,426,SetPiece,2017,LeftFoot,8471,VfB Stuttgart,Eintracht Frankfurt,1,0,2018-02-24 14:30:00,,TakeOn
+197255,46,BlockedShot,0.9690000152587891,0.5509999847412109,0.4094739854335785,Daniel Ginczek,h,426,OpenPlay,2017,RightFoot,8471,VfB Stuttgart,Eintracht Frankfurt,1,0,2018-02-24 14:30:00,Mario Gomez,TakeOn
+197257,47,SavedShot,0.8859999847412109,0.5659999847412109,0.03229669854044914,Daniel Ginczek,h,426,FromCorner,2017,Head,8471,VfB Stuttgart,Eintracht Frankfurt,1,0,2018-02-24 14:30:00,Erik Thommy,Cross
+197261,83,SavedShot,0.86,0.53,0.0445295013487339,Daniel Ginczek,h,426,OpenPlay,2017,RightFoot,8471,VfB Stuttgart,Eintracht Frankfurt,1,0,2018-02-24 14:30:00,Mario Gomez,Aerial
+197262,87,MissedShots,0.740999984741211,0.545,0.025744900107383728,Daniel Ginczek,h,426,OpenPlay,2017,RightFoot,8471,VfB Stuttgart,Eintracht Frankfurt,1,0,2018-02-24 14:30:00,,None
+200703,24,BlockedShot,0.874000015258789,0.745,0.022481899708509445,Daniel Ginczek,h,426,SetPiece,2017,RightFoot,8489,VfB Stuttgart,RasenBallsport Leipzig,0,0,2018-03-11 14:30:00,,None
+200712,62,BlockedShot,0.875,0.40400001525878904,0.06208939850330353,Daniel Ginczek,h,426,OpenPlay,2017,RightFoot,8489,VfB Stuttgart,RasenBallsport Leipzig,0,0,2018-03-11 14:30:00,Erik Thommy,Cross
+200713,62,BlockedShot,0.865999984741211,0.48,0.08814600110054016,Daniel Ginczek,h,426,OpenPlay,2017,LeftFoot,8489,VfB Stuttgart,RasenBallsport Leipzig,0,0,2018-03-11 14:30:00,,Rebound
+200719,84,MissedShots,0.8930000305175781,0.5579999923706055,0.031962499022483826,Daniel Ginczek,h,426,OpenPlay,2017,Head,8489,VfB Stuttgart,RasenBallsport Leipzig,0,0,2018-03-11 14:30:00,Chadrac Akolo,Aerial
+201140,37,MissedShots,0.9219999694824219,0.4420000076293945,0.12188199907541275,Daniel Ginczek,a,426,OpenPlay,2017,Head,8497,Freiburg,VfB Stuttgart,1,2,2018-03-16 19:30:00,Erik Thommy,Cross
+204459,43,Goal,0.9690000152587891,0.43900001525878907,0.5857530236244202,Daniel Ginczek,h,426,OpenPlay,2017,RightFoot,8510,VfB Stuttgart,Hamburger SV,1,1,2018-03-31 14:30:00,,Rebound
+204461,53,SavedShot,0.9119999694824219,0.515,0.054600898176431656,Daniel Ginczek,h,426,OpenPlay,2017,Head,8510,VfB Stuttgart,Hamburger SV,1,1,2018-03-31 14:30:00,Christian Gentner,Aerial
+204465,64,BlockedShot,0.8480000305175781,0.5070000076293946,0.08068829774856567,Daniel Ginczek,h,426,OpenPlay,2017,RightFoot,8510,VfB Stuttgart,Hamburger SV,1,1,2018-03-31 14:30:00,Mario Gomez,Pass
+204469,80,BlockedShot,0.879000015258789,0.40400001525878904,0.08448989689350128,Daniel Ginczek,h,426,OpenPlay,2017,LeftFoot,8510,VfB Stuttgart,Hamburger SV,1,1,2018-03-31 14:30:00,,BlockedPass
+208407,19,SavedShot,0.7480000305175781,0.5329999923706055,0.06697750091552734,Daniel Ginczek,h,426,DirectFreekick,2017,RightFoot,8528,VfB Stuttgart,Hannover 96,1,1,2018-04-14 13:30:00,,Standard
+208418,76,BlockedShot,0.9430000305175781,0.40099998474121096,0.23517100512981415,Daniel Ginczek,h,426,OpenPlay,2017,LeftFoot,8528,VfB Stuttgart,Hannover 96,1,1,2018-04-14 13:30:00,Christian Gentner,TakeOn
+210399,7,BlockedShot,0.75,0.395,0.019905999302864075,Daniel Ginczek,h,426,OpenPlay,2017,RightFoot,8537,VfB Stuttgart,Werder Bremen,2,0,2018-04-21 13:30:00,Mario Gomez,BallTouch
+214723,4,Goal,0.9209999847412109,0.56,0.5944579839706421,Daniel Ginczek,a,426,OpenPlay,2017,RightFoot,8556,Bayern Munich,VfB Stuttgart,1,4,2018-05-12 14:30:00,Anastasios Donis,Pass
+214728,25,SavedShot,0.845999984741211,0.41,0.24134500324726105,Daniel Ginczek,a,426,OpenPlay,2017,RightFoot,8556,Bayern Munich,VfB Stuttgart,1,4,2018-05-12 14:30:00,Orel Mangala,Pass
+214737,54,Goal,0.935,0.5459999847412109,0.5942739844322205,Daniel Ginczek,a,426,OpenPlay,2017,LeftFoot,8556,Bayern Munich,VfB Stuttgart,1,4,2018-05-12 14:30:00,,Rebound
+220049,93,Goal,0.8590000152587891,0.5059999847412109,0.3246990144252777,Daniel Ginczek,h,426,OpenPlay,2018,RightFoot,10338,Wolfsburg,Schalke 04,2,1,2018-08-25 16:30:00,,Rebound
+223471,73,MissedShots,0.8959999847412109,0.5209999847412109,0.04299420118331909,Daniel Ginczek,h,426,OpenPlay,2018,Head,10358,Wolfsburg,Hertha Berlin,2,2,2018-09-15 13:30:00,Wout Weghorst,HeadPass
+224984,48,SavedShot,0.865,0.46,0.02882480062544346,Daniel Ginczek,h,426,OpenPlay,2018,Head,10368,Wolfsburg,Freiburg,1,3,2018-09-22 13:30:00,William,Cross
+226763,32,MissedShots,0.874000015258789,0.395,0.08703509718179703,Daniel Ginczek,a,426,OpenPlay,2018,RightFoot,10381,Mainz 05,Wolfsburg,0,0,2018-09-26 18:30:00,Admir Mehmedi,Pass
+226776,76,ShotOnPost,0.9009999847412109,0.36900001525878906,0.027872299775481224,Daniel Ginczek,a,426,FromCorner,2018,LeftFoot,10381,Mainz 05,Wolfsburg,0,0,2018-09-26 18:30:00,,Aerial
+255198,70,MissedShots,0.7680000305175781,0.48200000762939454,0.024445999413728714,Daniel Ginczek,a,426,OpenPlay,2018,RightFoot,10395,Werder Bremen,Wolfsburg,2,0,2018-10-05 18:30:00,Wout Weghorst,Pass
+255207,92,BlockedShot,0.7290000152587891,0.40200000762939453,0.014389400370419025,Daniel Ginczek,a,426,OpenPlay,2018,LeftFoot,10395,Werder Bremen,Wolfsburg,2,0,2018-10-05 18:30:00,William,Pass
+255539,60,BlockedShot,0.8119999694824219,0.435,0.021804500371217728,Daniel Ginczek,h,426,OpenPlay,2018,LeftFoot,10407,Wolfsburg,Bayern Munich,1,3,2018-10-20 13:30:00,Jérôme Roussillon,Cross
+255543,78,MissedShots,0.93,0.539000015258789,0.08216790109872818,Daniel Ginczek,h,426,OpenPlay,2018,Head,10407,Wolfsburg,Bayern Munich,1,3,2018-10-20 13:30:00,William,Aerial
+255547,91,MissedShots,0.7780000305175782,0.40200000762939453,0.021001100540161133,Daniel Ginczek,h,426,FromCorner,2018,LeftFoot,10407,Wolfsburg,Bayern Munich,1,3,2018-10-20 13:30:00,,None
+255761,44,SavedShot,0.749000015258789,0.355,0.03157670050859451,Daniel Ginczek,a,426,OpenPlay,2018,RightFoot,10416,Fortuna Duesseldorf,Wolfsburg,0,3,2018-10-27 13:30:00,Wout Weghorst,HeadPass
+255764,54,SavedShot,0.879000015258789,0.585,0.011979799717664719,Daniel Ginczek,a,426,SetPiece,2018,Head,10416,Fortuna Duesseldorf,Wolfsburg,0,3,2018-10-27 13:30:00,Wout Weghorst,Aerial
+255767,60,MissedShots,0.8580000305175781,0.695,0.017893100157380104,Daniel Ginczek,a,426,FromCorner,2018,RightFoot,10416,Fortuna Duesseldorf,Wolfsburg,0,3,2018-10-27 13:30:00,,Aerial
+255772,79,Goal,0.7980000305175782,0.41700000762939454,0.05349060148000717,Daniel Ginczek,a,426,OpenPlay,2018,RightFoot,10416,Fortuna Duesseldorf,Wolfsburg,0,3,2018-10-27 13:30:00,,Dispossessed
+255774,86,MissedShots,0.919000015258789,0.5609999847412109,0.10601100325584412,Daniel Ginczek,a,426,OpenPlay,2018,Head,10416,Fortuna Duesseldorf,Wolfsburg,0,3,2018-10-27 13:30:00,Yunus Malli,Cross
+255938,14,BlockedShot,0.7819999694824219,0.3840000152587891,0.028892699629068375,Daniel Ginczek,h,426,OpenPlay,2018,RightFoot,10421,Wolfsburg,Borussia Dortmund,0,1,2018-11-03 14:30:00,William,Pass
+256155,14,MissedShots,0.9319999694824219,0.635,0.08029670268297195,Daniel Ginczek,a,426,OpenPlay,2018,LeftFoot,10432,Hannover 96,Wolfsburg,2,1,2018-11-09 19:30:00,Yunus Malli,Chipped
+256161,37,MissedShots,0.7880000305175782,0.5720000076293945,0.013482900336384773,Daniel Ginczek,a,426,FromCorner,2018,RightFoot,10432,Hannover 96,Wolfsburg,2,1,2018-11-09 19:30:00,Wout Weghorst,HeadPass
+256556,13,SavedShot,0.9730000305175781,0.5529999923706055,0.597790002822876,Daniel Ginczek,h,426,SetPiece,2018,LeftFoot,10444,Wolfsburg,RasenBallsport Leipzig,1,0,2018-11-24 14:30:00,,None
+256558,28,MissedShots,0.8680000305175781,0.43099998474121093,0.29710298776626587,Daniel Ginczek,h,426,OpenPlay,2018,RightFoot,10444,Wolfsburg,RasenBallsport Leipzig,1,0,2018-11-24 14:30:00,Maximilian Arnold,Chipped
+256564,49,SavedShot,0.9180000305175782,0.3370000076293945,0.1098330020904541,Daniel Ginczek,h,426,OpenPlay,2018,RightFoot,10444,Wolfsburg,RasenBallsport Leipzig,1,0,2018-11-24 14:30:00,Admir Mehmedi,Chipped
+256925,57,MissedShots,0.875,0.5629999923706055,0.0713891014456749,Daniel Ginczek,a,426,SetPiece,2018,RightFoot,10449,Eintracht Frankfurt,Wolfsburg,1,2,2018-12-02 17:00:00,,None
+256928,67,Goal,0.9280000305175782,0.4520000076293945,0.37368300557136536,Daniel Ginczek,a,426,OpenPlay,2018,RightFoot,10449,Eintracht Frankfurt,Wolfsburg,1,2,2018-12-02 17:00:00,Elvis Rexhbecaj,Cross
+257112,30,Goal,0.8690000152587891,0.3220000076293945,0.1204800009727478,Daniel Ginczek,h,426,OpenPlay,2018,RightFoot,10462,Wolfsburg,Hoffenheim,2,2,2018-12-08 14:30:00,Admir Mehmedi,Throughball
+257230,3,SavedShot,0.955999984741211,0.6819999694824219,0.053515199571847916,Daniel Ginczek,a,426,OpenPlay,2018,LeftFoot,10471,Nuernberg,Wolfsburg,0,2,2018-12-14 19:30:00,Maximilian Arnold,Chipped
+257232,10,SavedShot,0.91,0.30700000762939456,0.06497859954833984,Daniel Ginczek,a,426,OpenPlay,2018,RightFoot,10471,Nuernberg,Wolfsburg,0,2,2018-12-14 19:30:00,William,Pass
+257234,30,MissedShots,0.7219999694824218,0.38,0.014188099652528763,Daniel Ginczek,a,426,OpenPlay,2018,RightFoot,10471,Nuernberg,Wolfsburg,0,2,2018-12-14 19:30:00,Wout Weghorst,BallRecovery
+257242,57,Goal,0.8530000305175781,0.46299999237060546,0.10959599912166595,Daniel Ginczek,a,426,OpenPlay,2018,RightFoot,10471,Nuernberg,Wolfsburg,0,2,2018-12-14 19:30:00,Maximilian Arnold,Pass
+257524,87,MissedShots,0.835,0.29200000762939454,0.04636570066213608,Daniel Ginczek,h,426,OpenPlay,2018,RightFoot,10477,Wolfsburg,VfB Stuttgart,2,0,2018-12-18 19:30:00,Josuha Guilavogui,Pass
+257831,40,BlockedShot,0.845,0.47200000762939454,0.09490379691123962,Daniel Ginczek,a,426,OpenPlay,2018,RightFoot,10488,Augsburg,Wolfsburg,2,3,2018-12-23 14:30:00,Wout Weghorst,Pass
+293445,51,SavedShot,0.8859999847412109,0.585,0.058405499905347824,Daniel Ginczek,a,426,OpenPlay,2018,RightFoot,10591,RasenBallsport Leipzig,Wolfsburg,2,0,2019-04-13 14:30:00,Marcel Tisserand,Cross
+293455,75,BlockedShot,0.825999984741211,0.505,0.09486310184001923,Daniel Ginczek,a,426,OpenPlay,2018,RightFoot,10591,RasenBallsport Leipzig,Wolfsburg,2,0,2019-04-13 14:30:00,Jérôme Roussillon,TakeOn
+296426,64,BlockedShot,0.975999984741211,0.26399999618530273,0.041762299835681915,Daniel Ginczek,h,426,OpenPlay,2018,RightFoot,10605,Wolfsburg,Eintracht Frankfurt,1,1,2019-04-22 19:30:00,,None
+300816,84,MissedShots,0.8059999847412109,0.575,0.0484980009496212,Daniel Ginczek,a,426,OpenPlay,2018,LeftFoot,10629,VfB Stuttgart,Wolfsburg,3,0,2019-05-11 14:30:00,Maximilian Arnold,Pass
+302286,56,Goal,0.919000015258789,0.49900001525878906,0.5742620229721069,Daniel Ginczek,h,426,OpenPlay,2018,RightFoot,10641,Wolfsburg,Augsburg,8,1,2019-05-18 13:30:00,,Rebound
+334537,74,MissedShots,0.8919999694824219,0.4520000076293945,0.0707423985004425,Daniel Ginczek,h,426,OpenPlay,2019,Head,12519,Wolfsburg,Werder Bremen,2,3,2019-12-01 17:00:00,William,Cross
+338176,89,SavedShot,0.924000015258789,0.3089999961853027,0.0734672024846077,Daniel Ginczek,h,426,OpenPlay,2019,RightFoot,12541,Wolfsburg,Schalke 04,1,1,2019-12-18 19:30:00,Renato Steffen,TakeOn
+354891,10,MissedShots,0.7759999847412109,0.6659999847412109,0.02597150020301342,Daniel Ginczek,a,426,OpenPlay,2019,LeftFoot,12563,FC Cologne,Wolfsburg,3,1,2020-01-18 14:30:00,Wout Weghorst,TakeOn
+354902,50,SavedShot,0.7819999694824219,0.36700000762939455,0.049247898161411285,Daniel Ginczek,a,426,OpenPlay,2019,RightFoot,12563,FC Cologne,Wolfsburg,3,1,2020-01-18 14:30:00,Xaver Schlager,Pass
+357293,39,Goal,0.9319999694824219,0.32799999237060545,0.20922499895095825,Daniel Ginczek,a,426,OpenPlay,2019,RightFoot,12582,Paderborn,Wolfsburg,2,4,2020-02-02 17:00:00,Xaver Schlager,Pass
+357297,59,Goal,0.915,0.54,0.40948599576950073,Daniel Ginczek,a,426,OpenPlay,2019,RightFoot,12582,Paderborn,Wolfsburg,2,4,2020-02-02 17:00:00,Renato Steffen,HeadPass
+360337,45,MissedShots,0.8090000152587891,0.3559999847412109,0.05359259992837906,Daniel Ginczek,h,426,OpenPlay,2019,RightFoot,12604,Wolfsburg,Mainz 05,4,0,2020-02-23 17:00:00,Josip Brekalo,Pass
+361226,34,BlockedShot,0.855,0.38299999237060545,0.035203300416469574,Daniel Ginczek,a,426,OpenPlay,2019,RightFoot,12618,Union Berlin,Wolfsburg,2,2,2020-03-01 12:30:00,Paulo Otávio,Cross
+362915,90,Goal,0.9780000305175781,0.5309999847412109,0.8897770047187805,Daniel Ginczek,a,426,OpenPlay,2019,RightFoot,12634,Augsburg,Wolfsburg,1,2,2020-05-16 13:30:00,Kevin Mbabu,Pass
+363202,48,MissedShots,0.8919999694824219,0.24100000381469727,0.037999801337718964,Daniel Ginczek,h,426,SetPiece,2019,RightFoot,12640,Wolfsburg,Borussia Dortmund,0,2,2020-05-23 13:30:00,Renato Steffen,HeadPass
+363608,82,MissedShots,0.889000015258789,0.580999984741211,0.01750200055539608,Daniel Ginczek,h,426,OpenPlay,2019,Head,12657,Wolfsburg,Eintracht Frankfurt,1,2,2020-05-30 13:30:00,Josip Brekalo,Aerial
+363993,72,BlockedShot,0.875,0.3160000038146973,0.04893770068883896,Daniel Ginczek,a,426,OpenPlay,2019,RightFoot,12668,Werder Bremen,Wolfsburg,0,1,2020-06-07 11:30:00,,None
+363996,80,BlockedShot,0.8680000305175781,0.545,0.07073680311441422,Daniel Ginczek,a,426,SetPiece,2019,RightFoot,12668,Werder Bremen,Wolfsburg,0,1,2020-06-07 11:30:00,,None
+364176,27,BlockedShot,0.9480000305175781,0.47299999237060547,0.06198969855904579,Daniel Ginczek,h,426,FromCorner,2019,Head,12674,Wolfsburg,Freiburg,2,2,2020-06-13 13:30:00,,Foul
+364175,27,BlockedShot,0.94,0.6809999847412109,0.11424700170755386,Daniel Ginczek,h,426,OpenPlay,2019,RightFoot,12674,Wolfsburg,Freiburg,2,2,2020-06-13 13:30:00,Josip Brekalo,TakeOn
+364187,58,BlockedShot,0.785,0.4759999847412109,0.058758001774549484,Daniel Ginczek,h,426,OpenPlay,2019,RightFoot,12674,Wolfsburg,Freiburg,2,2,2020-06-13 13:30:00,,TakeOn
+364194,72,BlockedShot,0.8909999847412109,0.5720000076293945,0.052623201161623,Daniel Ginczek,h,426,OpenPlay,2019,Head,12674,Wolfsburg,Freiburg,2,2,2020-06-13 13:30:00,Jérôme Roussillon,Cross
+364195,73,MissedShots,0.92,0.504000015258789,0.05038189888000488,Daniel Ginczek,h,426,FromCorner,2019,Head,12674,Wolfsburg,Freiburg,2,2,2020-06-13 13:30:00,Maximilian Arnold,Aerial
+364531,77,MissedShots,0.7580000305175781,0.5459999847412109,0.025283200666308403,Daniel Ginczek,a,426,OpenPlay,2019,RightFoot,12685,Borussia M.Gladbach,Wolfsburg,3,0,2020-06-16 16:30:00,Renato Steffen,Pass
+365382,6,MissedShots,0.889000015258789,0.5879999923706055,0.3871369957923889,Daniel Ginczek,a,426,OpenPlay,2019,LeftFoot,12697,Schalke 04,Wolfsburg,1,4,2020-06-20 13:30:00,,None
+365385,15,BlockedShot,0.9219999694824219,0.46299999237060546,0.3865250051021576,Daniel Ginczek,a,426,OpenPlay,2019,LeftFoot,12697,Schalke 04,Wolfsburg,1,4,2020-06-20 13:30:00,Renato Steffen,Cross
+365394,57,ShotOnPost,0.9059999847412109,0.3659999847412109,0.37206798791885376,Daniel Ginczek,a,426,SetPiece,2019,RightFoot,12697,Schalke 04,Wolfsburg,1,4,2020-06-20 13:30:00,Maximilian Arnold,Throughball
+366908,30,MissedShots,0.8980000305175782,0.5579999923706055,0.28667399287223816,Daniel Ginczek,h,426,OpenPlay,2019,RightFoot,12703,Wolfsburg,Bayern Munich,0,4,2020-06-27 13:30:00,Kevin Mbabu,Cross
+366921,58,SavedShot,0.8090000152587891,0.620999984741211,0.06411279737949371,Daniel Ginczek,h,426,OpenPlay,2019,RightFoot,12703,Wolfsburg,Bayern Munich,0,4,2020-06-27 13:30:00,Josip Brekalo,Pass
+379672,7,MissedShots,0.84,0.4379999923706055,0.07807770371437073,Daniel Ginczek,a,426,OpenPlay,2020,RightFoot,14190,Freiburg,Wolfsburg,1,1,2020-09-27 16:00:00,Yunus Malli,Pass
+390149,74,BlockedShot,0.924000015258789,0.64,0.020307499915361404,Daniel Ginczek,a,426,OpenPlay,2020,Head,15227,FC Cologne,Wolfsburg,2,2,2020-12-05 14:30:00,Jérôme Roussillon,Aerial
+394752,73,BlockedShot,0.8959999847412109,0.5670000076293945,0.1234230026602745,Daniel Ginczek,h,426,OpenPlay,2020,RightFoot,15251,Wolfsburg,VfB Stuttgart,1,0,2020-12-20 17:00:00,Wout Weghorst,Pass
+413782,94,MissedShots,0.875,0.575,0.028539299964904785,Daniel Ginczek,a,426,OpenPlay,2020,Head,15385,Eintracht Frankfurt,Wolfsburg,4,3,2021-04-10 13:30:00,Jérôme Roussillon,Cross
+434798,90,SavedShot,0.8619999694824219,0.455,0.09624390304088593,Daniel Ginczek,h,426,OpenPlay,2021,RightFoot,17575,Wolfsburg,Borussia M.Gladbach,1,3,2021-10-02 13:30:00,Wout Weghorst,LayOff

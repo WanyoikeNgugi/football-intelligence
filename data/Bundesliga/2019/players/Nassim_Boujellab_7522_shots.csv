@@ -1,0 +1,30 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+293169,38,MissedShots,0.7719999694824219,0.30700000762939456,0.01987149938941002,Nassim Boujellab,a,7522,OpenPlay,2018,LeftFoot,10597,Nuernberg,Schalke 04,1,1,2019-04-12 19:30:00,Daniel Caligiuri,Pass
+293170,43,BlockedShot,0.875,0.33099998474121095,0.05595270171761513,Nassim Boujellab,a,7522,OpenPlay,2018,RightFoot,10597,Nuernberg,Schalke 04,1,1,2019-04-12 19:30:00,Omar Mascarell,Pass
+293176,50,MissedShots,0.9690000152587891,0.6370000076293946,0.016636500135064125,Nassim Boujellab,a,7522,FromCorner,2018,Head,10597,Nuernberg,Schalke 04,1,1,2019-04-12 19:30:00,Bastian Oczipka,Cross
+295662,86,MissedShots,0.7880000305175782,0.43599998474121093,0.02712699957191944,Nassim Boujellab,h,7522,OpenPlay,2018,RightFoot,10600,Schalke 04,Hoffenheim,2,5,2019-04-20 19:30:00,,None
+299734,73,BlockedShot,0.7859999847412109,0.4129999923706055,0.03346480056643486,Nassim Boujellab,h,7522,OpenPlay,2018,RightFoot,10617,Schalke 04,Augsburg,0,0,2019-05-05 12:30:00,Omar Mascarell,Pass
+300760,36,SavedShot,0.8730000305175781,0.5540000152587891,0.4049150049686432,Nassim Boujellab,a,7522,OpenPlay,2018,RightFoot,10627,Bayer Leverkusen,Schalke 04,1,1,2019-05-11 14:30:00,Breel Embolo,Pass
+302452,7,MissedShots,0.750999984741211,0.4520000076293945,0.02494939975440502,Nassim Boujellab,h,7522,OpenPlay,2018,RightFoot,10634,Schalke 04,VfB Stuttgart,0,0,2019-05-18 13:30:00,Sebastian Rudy,Pass
+302469,64,MissedShots,0.85,0.515,0.07309439778327942,Nassim Boujellab,h,7522,OpenPlay,2018,RightFoot,10634,Schalke 04,VfB Stuttgart,0,0,2019-05-18 13:30:00,,Rebound
+302470,69,BlockedShot,0.7830000305175782,0.46299999237060546,0.03943369910120964,Nassim Boujellab,h,7522,OpenPlay,2018,LeftFoot,10634,Schalke 04,VfB Stuttgart,0,0,2019-05-18 13:30:00,,BallRecovery
+355928,88,MissedShots,0.8919999694824219,0.41200000762939454,0.0800589993596077,Nassim Boujellab,a,7522,OpenPlay,2019,RightFoot,12565,Bayern Munich,Schalke 04,5,0,2020-01-25 17:30:00,,BallTouch
+363290,82,BlockedShot,0.95,0.26799999237060546,0.0311926007270813,Nassim Boujellab,h,7522,OpenPlay,2019,RightFoot,12644,Schalke 04,Augsburg,0,3,2020-05-24 11:30:00,Benito Raman,Chipped
+364413,26,BlockedShot,0.8519999694824218,0.509000015258789,0.0747700035572052,Nassim Boujellab,h,7522,OpenPlay,2019,LeftFoot,12679,Schalke 04,Bayer Leverkusen,1,1,2020-06-14 16:00:00,,Rebound
+364678,8,MissedShots,0.9290000152587891,0.5720000076293945,0.08039560168981552,Nassim Boujellab,a,7522,FromCorner,2019,Head,12686,Eintracht Frankfurt,Schalke 04,2,1,2020-06-17 16:30:00,Bastian Oczipka,Cross
+367069,49,BlockedShot,0.784000015258789,0.46,0.03713659942150116,Nassim Boujellab,a,7522,OpenPlay,2019,RightFoot,12706,Freiburg,Schalke 04,4,0,2020-06-27 13:30:00,Juan Miranda,Pass
+367080,82,BlockedShot,0.825,0.44599998474121094,0.06799110025167465,Nassim Boujellab,a,7522,OpenPlay,2019,RightFoot,12706,Freiburg,Schalke 04,4,0,2020-06-27 13:30:00,Weston McKennie,Pass
+378994,51,BlockedShot,0.965,0.28299999237060547,0.03461330011487007,Nassim Boujellab,h,7522,OpenPlay,2020,RightFoot,14188,Schalke 04,Werder Bremen,1,3,2020-09-26 16:30:00,,None
+378998,54,BlockedShot,0.885,0.3970000076293945,0.30851298570632935,Nassim Boujellab,h,7522,OpenPlay,2020,RightFoot,14188,Schalke 04,Werder Bremen,1,3,2020-09-26 16:30:00,,CornerAwarded
+379006,85,SavedShot,0.7169999694824218,0.29,0.011906900443136692,Nassim Boujellab,h,7522,OpenPlay,2020,RightFoot,14188,Schalke 04,Werder Bremen,1,3,2020-09-26 16:30:00,Mark Uth,Pass
+379007,85,BlockedShot,0.8919999694824219,0.415,0.021278200671076775,Nassim Boujellab,h,7522,FromCorner,2020,Head,14188,Schalke 04,Werder Bremen,1,3,2020-09-26 16:30:00,Sebastian Rudy,OffsidePass
+390972,23,MissedShots,0.8030000305175782,0.3940000152587891,0.0346640981733799,Nassim Boujellab,h,7522,OpenPlay,2020,RightFoot,15226,Schalke 04,Bayer Leverkusen,0,3,2020-12-06 17:00:00,,Rebound
+392208,21,SavedShot,0.8530000305175781,0.6959999847412109,0.044047899544239044,Nassim Boujellab,a,7522,OpenPlay,2020,RightFoot,15238,Augsburg,Schalke 04,2,2,2020-12-13 14:30:00,Bastian Oczipka,Chipped
+392221,60,Goal,0.9259999847412109,0.39099998474121095,0.11945100128650665,Nassim Boujellab,a,7522,OpenPlay,2020,RightFoot,15238,Augsburg,Schalke 04,2,2,2020-12-13 14:30:00,Suat Serdar,Pass
+392223,68,BlockedShot,0.8280000305175781,0.6819999694824219,0.04743960127234459,Nassim Boujellab,a,7522,OpenPlay,2020,RightFoot,15238,Augsburg,Schalke 04,2,2,2020-12-13 14:30:00,Benito Raman,Pass
+392225,77,MissedShots,0.9169999694824219,0.4909999847412109,0.39270099997520447,Nassim Boujellab,a,7522,OpenPlay,2020,RightFoot,15238,Augsburg,Schalke 04,2,2,2020-12-13 14:30:00,Benito Raman,Cross
+392894,47,MissedShots,0.915,0.5870000076293945,0.09192749857902527,Nassim Boujellab,h,7522,OpenPlay,2020,RightFoot,15240,Schalke 04,Freiburg,0,2,2020-12-16 17:30:00,Bastian Oczipka,Cross
+392896,53,SavedShot,0.874000015258789,0.27399999618530274,0.035538200289011,Nassim Boujellab,h,7522,OpenPlay,2020,RightFoot,15240,Schalke 04,Freiburg,0,2,2020-12-16 17:30:00,Amine Harit,Pass
+393864,41,BlockedShot,0.8090000152587891,0.4490000152587891,0.05114910006523132,Nassim Boujellab,h,7522,OpenPlay,2020,RightFoot,15254,Schalke 04,Arminia Bielefeld,0,1,2020-12-19 14:30:00,Benjamin Stambouli,Pass
+393867,45,SavedShot,0.7080000305175781,0.31799999237060544,0.009432739578187466,Nassim Boujellab,h,7522,OpenPlay,2020,RightFoot,15254,Schalke 04,Arminia Bielefeld,0,1,2020-12-19 14:30:00,,None
+404410,88,MissedShots,0.89,0.6229999923706054,0.10693299770355225,Nassim Boujellab,a,7522,OpenPlay,2020,RightFoot,15326,Union Berlin,Schalke 04,0,0,2021-02-13 17:30:00,,TakeOn

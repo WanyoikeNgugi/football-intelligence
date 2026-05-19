@@ -1,0 +1,243 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+24365,3,SavedShot,0.895,0.5070000076293946,0.03359140083193779,Matthias Ginter,h,315,SetPiece,2014,Head,5453,Borussia Dortmund,Bayer Leverkusen,0,2,2014-08-23 17:30:00,Marco Reus,Aerial
+24381,83,SavedShot,0.9080000305175782,0.6029999923706054,0.013432799838483334,Matthias Ginter,h,315,FromCorner,2014,Head,5453,Borussia Dortmund,Bayer Leverkusen,0,2,2014-08-23 17:30:00,Jonas Hofmann,Aerial
+25101,73,OwnGoal,0.09699999809265136,0.47200000762939454,0,Matthias Ginter,a,315,OpenPlay,2014,LeftFoot,5426,Mainz 05,Borussia Dortmund,2,0,2014-09-20 17:30:00,,None
+25503,33,BlockedShot,0.74,0.59,0.0180588997900486,Matthias Ginter,a,315,OpenPlay,2014,RightFoot,5441,Schalke 04,Borussia Dortmund,2,1,2014-09-27 14:30:00,Adrián Ramos,Pass
+25507,49,MissedShots,0.685,0.51,0.013580399565398693,Matthias Ginter,a,315,OpenPlay,2014,RightFoot,5441,Schalke 04,Borussia Dortmund,2,1,2014-09-27 14:30:00,Adrián Ramos,Pass
+25511,58,BlockedShot,0.7380000305175781,0.44099998474121094,0.01614060066640377,Matthias Ginter,a,315,OpenPlay,2014,RightFoot,5441,Schalke 04,Borussia Dortmund,2,1,2014-09-27 14:30:00,,None
+27392,58,BlockedShot,0.870999984741211,0.5129999923706055,0.028109800070524216,Matthias Ginter,a,315,FromCorner,2014,Head,5370,Paderborn,Borussia Dortmund,2,2,2014-11-22 14:30:00,Marco Reus,Cross
+27200,90,MissedShots,0.8680000305175781,0.49900001525878906,0.03019239939749241,Matthias Ginter,a,315,FromCorner,2014,Head,5382,Eintracht Frankfurt,Borussia Dortmund,2,0,2014-11-30 16:30:00,Henrikh Mkhitaryan,Chipped
+28273,80,SavedShot,0.909000015258789,0.3770000076293945,0.012714000418782234,Matthias Ginter,a,315,SetPiece,2014,Head,5341,Werder Bremen,Borussia Dortmund,2,1,2014-12-20 14:30:00,Shinji Kagawa,Aerial
+28420,3,MissedShots,0.875,0.43099998474121093,0.015091699548065662,Matthias Ginter,a,315,OpenPlay,2014,Head,5311,Bayer Leverkusen,Borussia Dortmund,0,0,2015-01-31 17:30:00,Lukasz Piszczek,Aerial
+28433,80,MissedShots,0.7280000305175781,0.42700000762939455,0.010454400442540646,Matthias Ginter,a,315,OpenPlay,2014,RightFoot,5311,Bayer Leverkusen,Borussia Dortmund,0,0,2015-01-31 17:30:00,,Aerial
+29856,79,MissedShots,0.8919999694824219,0.48200000762939454,0.05454370006918907,Matthias Ginter,a,315,FromCorner,2014,Head,5273,Freiburg,Borussia Dortmund,0,3,2015-02-07 14:30:00,Shinji Kagawa,Cross
+31623,3,SavedShot,0.675,0.615999984741211,0.010704499669373035,Matthias Ginter,h,315,OpenPlay,2014,RightFoot,5217,Borussia Dortmund,Paderborn,3,0,2015-04-18 14:30:00,Marcel Schmelzer,Pass
+31632,40,BlockedShot,0.745,0.42400001525878905,0.023018300533294678,Matthias Ginter,h,315,OpenPlay,2014,RightFoot,5217,Borussia Dortmund,Paderborn,3,0,2015-04-18 14:30:00,Jakub Blaszczykowski,Pass
+31641,58,BlockedShot,0.889000015258789,0.5629999923706055,0.13653799891471863,Matthias Ginter,h,315,OpenPlay,2014,RightFoot,5217,Borussia Dortmund,Paderborn,3,0,2015-04-18 14:30:00,Marcel Schmelzer,Pass
+76513,54,Goal,0.865999984741211,0.39,0.3186649978160858,Matthias Ginter,a,315,OpenPlay,2015,LeftFoot,1037,Ingolstadt,Borussia Dortmund,0,4,2015-08-23 17:30:00,Henrikh Mkhitaryan,TakeOn
+76552,44,MissedShots,0.9230000305175782,0.5820000076293945,0.03410790115594864,Matthias Ginter,h,315,SetPiece,2015,Head,1046,Borussia Dortmund,Hertha Berlin,3,1,2015-08-30 17:30:00,Marco Reus,Aerial
+76887,14,BlockedShot,0.874000015258789,0.26799999237060546,0.017746400088071823,Matthias Ginter,a,315,OpenPlay,2015,RightFoot,1050,Hannover 96,Borussia Dortmund,2,4,2015-09-12 17:30:00,Shinji Kagawa,Chipped
+76901,83,SavedShot,0.825,0.38799999237060545,0.06616800278425217,Matthias Ginter,a,315,OpenPlay,2015,LeftFoot,1050,Hannover 96,Borussia Dortmund,2,4,2015-09-12 17:30:00,Shinji Kagawa,TakeOn
+76976,13,BlockedShot,0.8680000305175781,0.5609999847412109,0.019883399829268456,Matthias Ginter,h,315,FromCorner,2015,Head,1065,Borussia Dortmund,Bayer Leverkusen,3,0,2015-09-20 19:30:00,Jonas Hofmann,Cross
+78181,5,MissedShots,0.9180000305175782,0.34599998474121096,0.014064500108361244,Matthias Ginter,h,315,OpenPlay,2015,Head,1109,Borussia Dortmund,Augsburg,5,1,2015-10-25 18:30:00,Marcel Schmelzer,Cross
+78669,36,MissedShots,0.865999984741211,0.539000015258789,0.026977000758051872,Matthias Ginter,h,315,FromCorner,2015,Head,1127,Borussia Dortmund,Schalke 04,3,2,2015-11-08 18:30:00,Henrikh Mkhitaryan,Chipped
+78670,42,Goal,0.955999984741211,0.539000015258789,0.4723980128765106,Matthias Ginter,h,315,FromCorner,2015,Head,1127,Borussia Dortmund,Schalke 04,3,2,2015-11-08 18:30:00,Henrikh Mkhitaryan,Cross
+78962,35,BlockedShot,0.8540000152587891,0.48700000762939455,0.07500839978456497,Matthias Ginter,a,315,FromCorner,2015,LeftFoot,1129,Hamburger SV,Borussia Dortmund,3,1,2015-11-20 23:45:00,,Rebound
+79408,13,MissedShots,0.9219999694824219,0.49400001525878906,0.052852798253297806,Matthias Ginter,a,315,FromCorner,2015,Head,1153,Wolfsburg,Borussia Dortmund,1,2,2015-12-05 21:30:00,Henrikh Mkhitaryan,Aerial
+79969,2,MissedShots,0.84,0.27,0.026056800037622452,Matthias Ginter,a,315,OpenPlay,2015,RightFoot,1169,FC Cologne,Borussia Dortmund,2,1,2015-12-19 18:30:00,,None
+79979,37,SavedShot,0.9130000305175782,0.27,0.04836209863424301,Matthias Ginter,a,315,OpenPlay,2015,RightFoot,1169,FC Cologne,Borussia Dortmund,2,1,2015-12-19 18:30:00,Joo-Ho Park,Chipped
+81057,46,MissedShots,0.8159999847412109,0.29399999618530276,0.022579500451683998,Matthias Ginter,a,315,OpenPlay,2015,RightFoot,1216,Bayer Leverkusen,Borussia Dortmund,0,1,2016-02-21 18:30:00,Moritz Leitner,Pass
+81665,43,BlockedShot,0.88,0.3029999923706055,0.0683882012963295,Matthias Ginter,a,315,OpenPlay,2015,RightFoot,1230,Darmstadt,Borussia Dortmund,0,2,2016-03-02 23:00:00,Felix Passlack,Pass
+82632,35,MissedShots,0.889000015258789,0.32,0.008300709538161755,Matthias Ginter,a,315,OpenPlay,2015,Head,1280,Schalke 04,Borussia Dortmund,2,2,2016-04-10 17:30:00,Mats Hummels,Aerial
+82640,55,Goal,0.9330000305175781,0.509000015258789,0.4406470060348511,Matthias Ginter,a,315,SetPiece,2015,Head,1280,Schalke 04,Borussia Dortmund,2,2,2016-04-10 17:30:00,,None
+82865,11,MissedShots,0.89,0.46799999237060547,0.01659199967980385,Matthias Ginter,h,315,FromCorner,2015,Head,1289,Borussia Dortmund,Hamburger SV,3,0,2016-04-17 17:30:00,Christian Pulisic,Aerial
+128197,41,BlockedShot,0.7169999694824218,0.47,0.01835859939455986,Matthias Ginter,h,315,SetPiece,2016,RightFoot,1350,Borussia Dortmund,Darmstadt,6,0,2016-09-17 17:30:00,Gonzalo Castro,Pass
+128615,27,BlockedShot,0.924000015258789,0.485,0.11333800107240677,Matthias Ginter,h,315,FromCorner,2016,Head,1363,Borussia Dortmund,Freiburg,3,1,2016-09-23 22:30:00,Emre Mor,Cross
+129069,49,MissedShots,0.8769999694824219,0.5570000076293945,0.040272798389196396,Matthias Ginter,h,315,SetPiece,2016,Head,1381,Borussia Dortmund,Hertha Berlin,1,1,2016-10-14 22:30:00,Emre Mor,Cross
+129399,32,MissedShots,0.764000015258789,0.355,0.01920340023934841,Matthias Ginter,a,315,OpenPlay,2016,RightFoot,1391,Ingolstadt,Borussia Dortmund,3,3,2016-10-22 17:30:00,Shinji Kagawa,Pass
+129646,85,MissedShots,0.905,0.5320000076293945,0.043940700590610504,Matthias Ginter,a,315,SetPiece,2016,OtherBodyPart,2807,Hamburger SV,Borussia Dortmund,2,5,2016-11-05 18:30:00,Gonzalo Castro,Aerial
+130357,33,MissedShots,0.9,0.4370000076293945,0.05922840163111687,Matthias Ginter,h,315,FromCorner,2016,RightFoot,3194,Borussia Dortmund,Borussia M.Gladbach,4,1,2016-12-03 18:30:00,Marco Reus,Cross
+130364,61,MissedShots,0.9569999694824218,0.48200000762939454,0.14235100150108337,Matthias Ginter,h,315,FromCorner,2016,RightFoot,3194,Borussia Dortmund,Borussia M.Gladbach,4,1,2016-12-03 18:30:00,Ousmane Dembélé,Cross
+131662,30,BlockedShot,0.9480000305175781,0.6630000305175782,0.008548259735107422,Matthias Ginter,a,315,SetPiece,2016,Head,3210,Hoffenheim,Borussia Dortmund,2,2,2016-12-16 19:30:00,Mario Götze,Aerial
+131733,26,SavedShot,0.8780000305175781,0.5259999847412109,0.05210839956998825,Matthias Ginter,h,315,SetPiece,2016,Head,3222,Borussia Dortmund,Augsburg,1,1,2016-12-20 23:00:00,Marcel Schmelzer,Chipped
+131742,43,MissedShots,0.874000015258789,0.5159999847412109,0.014124100096523762,Matthias Ginter,h,315,FromCorner,2016,Head,3222,Borussia Dortmund,Augsburg,1,1,2016-12-20 23:00:00,Shinji Kagawa,Aerial
+131564,90,BlockedShot,0.9019999694824219,0.4209999847412109,0.38440701365470886,Matthias Ginter,h,315,OpenPlay,2016,RightFoot,3746,Borussia Dortmund,RasenBallsport Leipzig,1,0,2017-02-04 17:30:00,Pierre-Emerick Aubameyang,Pass
+131771,47,BlockedShot,0.9219999694824219,0.46,0.05263489857316017,Matthias Ginter,a,315,SetPiece,2016,Head,3751,Darmstadt,Borussia Dortmund,2,1,2017-02-11 14:30:00,Raphael Guerreiro,BallTouch
+131921,47,MissedShots,0.9059999847412109,0.5259999847412109,0.08920209854841232,Matthias Ginter,h,315,SetPiece,2016,RightFoot,3763,Borussia Dortmund,Wolfsburg,3,0,2017-02-18 14:30:00,Ousmane Dembélé,Chipped
+133797,3,MissedShots,0.92,0.43900001525878907,0.07823590189218521,Matthias Ginter,a,315,FromCorner,2016,Head,3790,Hertha Berlin,Borussia Dortmund,2,1,2017-03-11 14:30:00,Gonzalo Castro,Cross
+133810,38,BlockedShot,0.8819999694824219,0.6869999694824219,0.03346849977970123,Matthias Ginter,a,315,FromCorner,2016,LeftFoot,3790,Hertha Berlin,Borussia Dortmund,2,1,2017-03-11 14:30:00,Pierre-Emerick Aubameyang,Pass
+133414,27,BlockedShot,0.9390000152587891,0.6,0.028617000207304955,Matthias Ginter,a,315,FromCorner,2016,Head,3840,Borussia M.Gladbach,Borussia Dortmund,2,3,2017-04-22 17:30:00,Raphael Guerreiro,Foul
+134855,63,MissedShots,0.8130000305175781,0.5129999923706055,0.07083989679813385,Matthias Ginter,h,315,OpenPlay,2016,LeftFoot,3860,Borussia Dortmund,Hoffenheim,2,1,2017-05-06 14:30:00,Raphael Guerreiro,Pass
+127686,26,MissedShots,0.9369999694824219,0.48900001525878906,0.12865999341011047,Matthias Ginter,h,315,FromCorner,2016,Head,3875,Borussia Dortmund,Werder Bremen,4,3,2017-05-20 14:30:00,Ousmane Dembélé,Cross
+127691,37,MissedShots,0.909000015258789,0.485,0.039896998554468155,Matthias Ginter,h,315,FromCorner,2016,Head,3875,Borussia Dortmund,Werder Bremen,4,3,2017-05-20 14:30:00,Ousmane Dembélé,BallTouch
+127707,77,BlockedShot,0.895,0.509000015258789,0.06102050095796585,Matthias Ginter,h,315,FromCorner,2016,Head,3875,Borussia Dortmund,Werder Bremen,4,3,2017-05-20 14:30:00,Marco Reus,Cross
+166325,54,SavedShot,0.925,0.5790000152587891,0.023615999147295952,Matthias Ginter,h,315,FromCorner,2017,Head,8281,Borussia M.Gladbach,Eintracht Frankfurt,0,1,2017-09-09 14:30:00,Oscar Wendt,Aerial
+166329,68,MissedShots,0.919000015258789,0.49700000762939456,0.04912760108709335,Matthias Ginter,h,315,FromCorner,2017,Head,8281,Borussia M.Gladbach,Eintracht Frankfurt,0,1,2017-09-09 14:30:00,Jonas Hofmann,Aerial
+167102,23,MissedShots,0.9330000305175781,0.5479999923706055,0.054170701652765274,Matthias Ginter,h,315,FromCorner,2017,Head,8315,Borussia M.Gladbach,Hannover 96,2,1,2017-09-30 14:30:00,Thorgan Hazard,Aerial
+167118,64,SavedShot,0.9,0.47200000762939454,0.09262450039386749,Matthias Ginter,h,315,SetPiece,2017,Head,8315,Borussia M.Gladbach,Hannover 96,2,1,2017-09-30 14:30:00,Thorgan Hazard,Cross
+167119,66,Goal,0.9519999694824218,0.48,0.5717779994010925,Matthias Ginter,h,315,SetPiece,2017,RightFoot,8315,Borussia M.Gladbach,Hannover 96,2,1,2017-09-30 14:30:00,Michaël Cuisance,Cross
+167728,19,MissedShots,0.9330000305175781,0.504000015258789,0.12467099726200104,Matthias Ginter,a,315,FromCorner,2017,Head,8326,Werder Bremen,Borussia M.Gladbach,0,2,2017-10-15 17:00:00,Thorgan Hazard,Cross
+168535,20,MissedShots,0.8090000152587891,0.3659999847412109,0.033020999282598495,Matthias Ginter,a,315,OpenPlay,2017,RightFoot,8341,Hoffenheim,Borussia M.Gladbach,1,3,2017-10-28 14:30:00,Patrick Herrmann,Pass
+168543,48,MissedShots,0.8680000305175781,0.5840000152587891,0.09203319996595383,Matthias Ginter,a,315,OpenPlay,2017,LeftFoot,8341,Hoffenheim,Borussia M.Gladbach,1,3,2017-10-28 14:30:00,,TakeOn
+168555,78,Goal,0.86,0.545,0.3488599956035614,Matthias Ginter,a,315,OpenPlay,2017,RightFoot,8341,Hoffenheim,Borussia M.Gladbach,1,3,2017-10-28 14:30:00,Vincenzo Grifo,Pass
+168455,43,Goal,0.965,0.46,0.6573830246925354,Matthias Ginter,h,315,OpenPlay,2017,RightFoot,8371,Borussia M.Gladbach,Bayern Munich,2,1,2017-11-25 17:30:00,,Rebound
+169053,6,SavedShot,0.789000015258789,0.4129999923706055,0.031139299273490906,Matthias Ginter,a,315,OpenPlay,2017,RightFoot,8384,Wolfsburg,Borussia M.Gladbach,3,0,2017-12-03 17:00:00,,Dispossessed
+169063,40,SavedShot,0.9069999694824219,0.555,0.0632442981004715,Matthias Ginter,a,315,FromCorner,2017,Head,8384,Wolfsburg,Borussia M.Gladbach,3,0,2017-12-03 17:00:00,Oscar Wendt,Cross
+169077,81,MissedShots,0.7709999847412109,0.3609999847412109,0.015346099622547626,Matthias Ginter,a,315,OpenPlay,2017,RightFoot,8384,Wolfsburg,Borussia M.Gladbach,3,0,2017-12-03 17:00:00,,None
+179689,13,SavedShot,0.9119999694824219,0.44299999237060544,0.0695229023694992,Matthias Ginter,h,315,FromCorner,2017,Head,8390,Borussia M.Gladbach,Schalke 04,1,1,2017-12-09 17:30:00,Thorgan Hazard,Cross
+179694,22,MissedShots,0.9130000305175782,0.41900001525878905,0.05220570042729378,Matthias Ginter,h,315,FromCorner,2017,Head,8390,Borussia M.Gladbach,Schalke 04,1,1,2017-12-09 17:30:00,Thorgan Hazard,Cross
+183997,76,BlockedShot,0.8059999847412109,0.580999984741211,0.039601199328899384,Matthias Ginter,a,315,OpenPlay,2017,RightFoot,8397,Freiburg,Borussia M.Gladbach,1,0,2017-12-12 19:30:00,,Dispossessed
+188553,9,Goal,0.9280000305175782,0.4779999923706055,0.36758700013160706,Matthias Ginter,h,315,FromCorner,2017,Head,8425,Borussia M.Gladbach,Augsburg,2,0,2018-01-20 14:30:00,Thorgan Hazard,Cross
+196836,50,SavedShot,0.904000015258789,0.44299999237060544,0.0576556995511055,Matthias Ginter,h,315,FromCorner,2017,Head,8460,Borussia M.Gladbach,Borussia Dortmund,0,1,2018-02-18 17:00:00,Thorgan Hazard,Cross
+198586,51,MissedShots,0.9390000152587891,0.45799999237060546,0.06318990141153336,Matthias Ginter,h,315,FromCorner,2017,Head,8478,Borussia M.Gladbach,Werder Bremen,2,2,2018-03-02 19:30:00,Jonas Hofmann,Aerial
+200193,84,MissedShots,0.789000015258789,0.4779999923706055,0.015287499874830246,Matthias Ginter,a,315,SetPiece,2017,RightFoot,8492,Bayer Leverkusen,Borussia M.Gladbach,2,0,2018-03-10 17:30:00,Thorgan Hazard,Aerial
+201325,89,Goal,0.95,0.5670000076293945,0.5107740163803101,Matthias Ginter,h,315,FromCorner,2017,RightFoot,8496,Borussia M.Gladbach,Hoffenheim,3,3,2018-03-17 14:30:00,Raffael,Rebound
+201327,90,BlockedShot,0.8319999694824218,0.44299999237060544,0.07414460182189941,Matthias Ginter,h,315,OpenPlay,2017,RightFoot,8496,Borussia M.Gladbach,Hoffenheim,3,3,2018-03-17 14:30:00,Thorgan Hazard,Pass
+210166,77,MissedShots,0.95,0.46099998474121096,0.1313289999961853,Matthias Ginter,h,315,FromCorner,2017,Head,8532,Borussia M.Gladbach,Wolfsburg,3,0,2018-04-20 18:30:00,Lars Stindl,Cross
+210168,89,BlockedShot,0.8009999847412109,0.45599998474121095,0.04476039856672287,Matthias Ginter,h,315,OpenPlay,2017,LeftFoot,8532,Borussia M.Gladbach,Wolfsburg,3,0,2018-04-20 18:30:00,Jannik Vestergaard,None
+213221,22,MissedShots,0.950999984741211,0.49599998474121093,0.0847650021314621,Matthias Ginter,h,315,FromCorner,2017,Head,8554,Borussia M.Gladbach,Freiburg,3,1,2018-05-05 14:30:00,Jonas Hofmann,Aerial
+213228,45,ShotOnPost,0.9130000305175782,0.49599998474121093,0.09412389993667603,Matthias Ginter,h,315,FromCorner,2017,Head,8554,Borussia M.Gladbach,Freiburg,3,1,2018-05-05 14:30:00,Jonas Hofmann,Cross
+213242,67,MissedShots,0.7830000305175782,0.36400001525878906,0.023098699748516083,Matthias Ginter,h,315,SetPiece,2017,RightFoot,8554,Borussia M.Gladbach,Freiburg,3,1,2018-05-05 14:30:00,Tobias Strobl,Pass
+220326,69,BlockedShot,0.8469999694824218,0.6780000305175782,0.04233559966087341,Matthias Ginter,h,315,OpenPlay,2018,RightFoot,10343,Borussia M.Gladbach,Bayer Leverkusen,2,0,2018-08-25 19:30:00,,None
+220335,88,BlockedShot,0.9390000152587891,0.5429999923706055,0.06286299973726273,Matthias Ginter,h,315,FromCorner,2018,Head,10343,Borussia M.Gladbach,Bayer Leverkusen,2,0,2018-08-25 19:30:00,Thorgan Hazard,Aerial
+223768,2,Goal,0.9180000305175782,0.585,0.017560500651597977,Matthias Ginter,h,315,FromCorner,2018,Head,10361,Borussia M.Gladbach,Schalke 04,2,1,2018-09-15 16:30:00,Jonas Hofmann,Aerial
+226725,12,BlockedShot,0.8959999847412109,0.5420000076293945,0.09356799721717834,Matthias Ginter,h,315,FromCorner,2018,LeftFoot,10380,Borussia M.Gladbach,Eintracht Frankfurt,3,1,2018-09-26 18:30:00,Louis Beyer,HeadPass
+226727,17,BlockedShot,0.980999984741211,0.385,0.07630810141563416,Matthias Ginter,h,315,FromCorner,2018,RightFoot,10380,Borussia M.Gladbach,Eintracht Frankfurt,3,1,2018-09-26 18:30:00,,Rebound
+226736,41,SavedShot,0.889000015258789,0.4329999923706055,0.03491570055484772,Matthias Ginter,h,315,FromCorner,2018,Head,10380,Borussia M.Gladbach,Eintracht Frankfurt,3,1,2018-09-26 18:30:00,Thorgan Hazard,Cross
+227904,24,MissedShots,0.965999984741211,0.605,0.04706300050020218,Matthias Ginter,a,315,FromCorner,2018,Head,10386,Wolfsburg,Borussia M.Gladbach,2,2,2018-09-29 13:30:00,Thorgan Hazard,Cross
+255625,28,SavedShot,0.894000015258789,0.5820000076293945,0.013767300173640251,Matthias Ginter,h,315,FromCorner,2018,Head,10404,Borussia M.Gladbach,Mainz 05,4,0,2018-10-21 16:00:00,Jonas Hofmann,Aerial
+255635,55,SavedShot,0.8830000305175781,0.47200000762939454,0.10122600197792053,Matthias Ginter,h,315,FromCorner,2018,RightFoot,10404,Borussia M.Gladbach,Mainz 05,4,0,2018-10-21 16:00:00,Nico Elvedi,Rebound
+256092,2,BlockedShot,0.924000015258789,0.3609999847412109,0.06540050357580185,Matthias Ginter,h,315,FromCorner,2018,RightFoot,10426,Borussia M.Gladbach,Fortuna Duesseldorf,3,0,2018-11-04 14:30:00,,None
+256222,4,MissedShots,0.92,0.49700000762939456,0.10847599804401398,Matthias Ginter,a,315,FromCorner,2018,RightFoot,10431,Werder Bremen,Borussia M.Gladbach,1,3,2018-11-10 14:30:00,,None
+278882,43,BlockedShot,0.905,0.495,0.08556120097637177,Matthias Ginter,a,315,FromCorner,2018,Head,10516,Schalke 04,Borussia M.Gladbach,0,2,2019-02-02 17:30:00,Thorgan Hazard,Cross
+278883,44,SavedShot,0.9080000305175782,0.5459999847412109,0.024205399677157402,Matthias Ginter,a,315,FromCorner,2018,Head,10516,Schalke 04,Borussia M.Gladbach,0,2,2019-02-02 17:30:00,Thorgan Hazard,Aerial
+279384,7,SavedShot,0.749000015258789,0.28299999237060547,0.014833600260317326,Matthias Ginter,h,315,OpenPlay,2018,RightFoot,10538,Borussia M.Gladbach,Wolfsburg,0,3,2019-02-23 14:30:00,Denis Zakaria,Pass
+279717,20,BlockedShot,0.8930000305175781,0.5309999847412109,0.05365139991044998,Matthias Ginter,h,315,FromCorner,2018,Head,10548,Borussia M.Gladbach,Bayern Munich,1,5,2019-03-02 17:30:00,Jonas Hofmann,Cross
+287491,82,MissedShots,0.909000015258789,0.6040000152587891,0.033739399164915085,Matthias Ginter,a,315,FromCorner,2018,Head,10579,Fortuna Duesseldorf,Borussia M.Gladbach,3,1,2019-03-30 14:30:00,Lars Stindl,Cross
+292810,84,MissedShots,0.9419999694824219,0.4909999847412109,0.43693798780441284,Matthias Ginter,h,315,FromCorner,2018,Head,10584,Borussia M.Gladbach,Werder Bremen,1,1,2019-04-07 17:00:00,Thorgan Hazard,Cross
+292812,88,SavedShot,0.774000015258789,0.3220000076293945,0.02211970090866089,Matthias Ginter,h,315,OpenPlay,2018,RightFoot,10584,Borussia M.Gladbach,Werder Bremen,1,1,2019-04-07 17:00:00,Denis Zakaria,Pass
+295497,4,MissedShots,0.8859999847412109,0.575,0.01339040044695139,Matthias Ginter,h,315,FromCorner,2018,Head,10604,Borussia M.Gladbach,RasenBallsport Leipzig,1,2,2019-04-20 17:30:00,Patrick Herrmann,Aerial
+297566,36,MissedShots,0.9059999847412109,0.515,0.029276300221681595,Matthias Ginter,a,315,FromCorner,2018,Head,10610,VfB Stuttgart,Borussia M.Gladbach,1,0,2019-04-27 17:30:00,Patrick Herrmann,Aerial
+297586,92,BlockedShot,0.895,0.4420000076293945,0.1101749986410141,Matthias Ginter,a,315,OpenPlay,2018,RightFoot,10610,VfB Stuttgart,Borussia M.Gladbach,1,0,2019-04-27 17:30:00,Thorgan Hazard,Pass
+299227,71,Goal,0.91,0.4909999847412109,0.12047000229358673,Matthias Ginter,h,315,OpenPlay,2018,LeftFoot,10619,Borussia M.Gladbach,Hoffenheim,2,2,2019-05-04 14:30:00,,Rebound
+315419,68,MissedShots,0.909000015258789,0.4520000076293945,0.04220709949731827,Matthias Ginter,h,315,SetPiece,2019,Head,12421,Borussia M.Gladbach,RasenBallsport Leipzig,1,3,2019-08-30 19:30:00,László Bénes,Aerial
+321128,38,SavedShot,0.9469999694824218,0.5420000076293945,0.42686399817466736,Matthias Ginter,h,315,FromCorner,2019,Head,12445,Borussia M.Gladbach,Fortuna Duesseldorf,2,1,2019-09-22 13:30:00,László Bénes,Cross
+321149,86,SavedShot,0.9259999847412109,0.505,0.4708470106124878,Matthias Ginter,h,315,OpenPlay,2019,Head,12445,Borussia M.Gladbach,Fortuna Duesseldorf,2,1,2019-09-22 13:30:00,,None
+324619,36,MissedShots,0.9490000152587891,0.445,0.4050390124320984,Matthias Ginter,h,315,FromCorner,2019,Head,12465,Borussia M.Gladbach,Augsburg,5,1,2019-10-06 12:30:00,László Bénes,Cross
+332020,80,BlockedShot,0.6990000152587891,0.3370000076293945,0.013598400168120861,Matthias Ginter,a,315,OpenPlay,2019,RightFoot,12509,Union Berlin,Borussia M.Gladbach,2,0,2019-11-23 14:30:00,Patrick Herrmann,Pass
+338123,45,SavedShot,0.899000015258789,0.48700000762939455,0.02258959971368313,Matthias Ginter,h,315,FromCorner,2019,Head,12540,Borussia M.Gladbach,Paderborn,2,0,2019-12-18 19:30:00,Jonas Hofmann,Aerial
+338124,45,SavedShot,0.9019999694824219,0.5429999923706055,0.020587699487805367,Matthias Ginter,h,315,FromCorner,2019,Head,12540,Borussia M.Gladbach,Paderborn,2,0,2019-12-18 19:30:00,Jonas Hofmann,Aerial
+338135,76,BlockedShot,0.865,0.4779999923706055,0.1141740009188652,Matthias Ginter,h,315,OpenPlay,2019,LeftFoot,12540,Borussia M.Gladbach,Paderborn,2,0,2019-12-18 19:30:00,Alassane Pléa,Cross
+338805,76,MissedShots,0.879000015258789,0.425,0.022771300747990608,Matthias Ginter,a,315,SetPiece,2019,OtherBodyPart,12551,Hertha Berlin,Borussia M.Gladbach,0,0,2019-12-21 17:30:00,Florian Neuhaus,Cross
+354710,87,BlockedShot,0.865,0.3220000076293945,0.048394300043582916,Matthias Ginter,a,315,OpenPlay,2019,RightFoot,12561,Schalke 04,Borussia M.Gladbach,2,0,2020-01-17 19:30:00,Stefan Lainer,Pass
+359076,6,MissedShots,0.91,0.45799999237060546,0.10479199886322021,Matthias Ginter,a,315,SetPiece,2019,Head,12595,Fortuna Duesseldorf,Borussia M.Gladbach,1,4,2020-02-15 17:30:00,Jonas Hofmann,Cross
+359777,10,Goal,0.86,0.45799999237060546,0.06711240112781525,Matthias Ginter,h,315,FromCorner,2019,RightFoot,12603,Borussia M.Gladbach,Hoffenheim,1,1,2020-02-22 14:30:00,Marcus Thuram,None
+359784,40,SavedShot,0.9259999847412109,0.48700000762939455,0.10509800165891647,Matthias Ginter,h,315,FromCorner,2019,RightFoot,12603,Borussia M.Gladbach,Hoffenheim,1,1,2020-02-22 14:30:00,Marcus Thuram,BallTouch
+363168,13,BlockedShot,0.8440000152587891,0.5120000076293946,0.06236549839377403,Matthias Ginter,h,315,SetPiece,2019,LeftFoot,12639,Borussia M.Gladbach,Bayer Leverkusen,1,3,2020-05-23 13:30:00,,None
+363196,86,BlockedShot,0.905,0.5220000076293946,0.0975055992603302,Matthias Ginter,h,315,OpenPlay,2019,RightFoot,12639,Borussia M.Gladbach,Bayer Leverkusen,1,3,2020-05-23 13:30:00,László Bénes,Foul
+364520,38,MissedShots,0.8919999694824219,0.4879999923706055,0.018486900255084038,Matthias Ginter,h,315,FromCorner,2019,Head,12685,Borussia M.Gladbach,Wolfsburg,3,0,2020-06-16 16:30:00,Jonas Hofmann,Aerial
+364524,54,BlockedShot,0.8830000305175781,0.45099998474121095,0.07319500297307968,Matthias Ginter,h,315,FromCorner,2019,RightFoot,12685,Borussia M.Gladbach,Wolfsburg,3,0,2020-06-16 16:30:00,Jonas Hofmann,Pass
+378757,54,SavedShot,0.8319999694824218,0.34200000762939453,0.057142600417137146,Matthias Ginter,h,315,OpenPlay,2020,RightFoot,14186,Borussia M.Gladbach,Union Berlin,1,1,2020-09-26 13:30:00,Alassane Pléa,TakeOn
+378769,92,SavedShot,0.9369999694824219,0.5220000076293946,0.12121699750423431,Matthias Ginter,h,315,OpenPlay,2020,RightFoot,14186,Borussia M.Gladbach,Union Berlin,1,1,2020-09-26 13:30:00,,End
+383191,80,MissedShots,0.8880000305175781,0.5359999847412109,0.06959419697523117,Matthias Ginter,a,315,SetPiece,2020,Head,15178,Mainz 05,Borussia M.Gladbach,2,3,2020-10-24 13:30:00,Jonas Hofmann,Cross
+383192,82,Goal,0.9530000305175781,0.59,0.27038899064064026,Matthias Ginter,a,315,FromCorner,2020,Head,15178,Mainz 05,Borussia M.Gladbach,2,3,2020-10-24 13:30:00,Jonas Hofmann,Cross
+388908,40,MissedShots,0.9169999694824219,0.4159999847412109,0.01753149926662445,Matthias Ginter,h,315,FromCorner,2020,Head,15214,Borussia M.Gladbach,Schalke 04,4,1,2020-11-28 17:30:00,Patrick Herrmann,Aerial
+391554,68,BlockedShot,0.82,0.49599998474121093,0.04398350045084953,Matthias Ginter,h,315,FromCorner,2020,RightFoot,15232,Borussia M.Gladbach,Hertha Berlin,1,1,2020-12-12 14:30:00,Hannes Wolf,Pass
+391563,92,MissedShots,0.9590000152587891,0.3920000076293945,0.05900749936699867,Matthias Ginter,h,315,OpenPlay,2020,Head,15232,Borussia M.Gladbach,Hertha Berlin,1,1,2020-12-12 14:30:00,Stefan Lainer,Cross
+392552,3,MissedShots,0.86,0.4520000076293945,0.07422509789466858,Matthias Ginter,a,315,OpenPlay,2020,RightFoot,15247,Eintracht Frankfurt,Borussia M.Gladbach,3,3,2020-12-15 17:30:00,,None
+396370,53,MissedShots,0.8690000152587891,0.485,0.02710149995982647,Matthias Ginter,a,315,FromCorner,2020,Head,15264,Arminia Bielefeld,Borussia M.Gladbach,0,1,2021-01-02 14:30:00,Jonas Hofmann,Cross
+396377,78,MissedShots,0.9,0.4590000152587891,0.024518899619579315,Matthias Ginter,a,315,FromCorner,2020,Head,15264,Arminia Bielefeld,Borussia M.Gladbach,0,1,2021-01-02 14:30:00,,Aerial
+397675,28,SavedShot,0.9019999694824219,0.5279999923706055,0.06951820105314255,Matthias Ginter,h,315,FromCorner,2020,Head,15267,Borussia M.Gladbach,Bayern Munich,3,2,2021-01-08 19:30:00,Jonas Hofmann,Cross
+399675,45,SavedShot,0.9059999847412109,0.415,0.05682549998164177,Matthias Ginter,h,315,FromCorner,2020,Head,15285,Borussia M.Gladbach,Werder Bremen,1,0,2021-01-19 17:30:00,Alassane Pléa,Cross
+400224,7,MissedShots,0.915,0.5420000076293945,0.03341890126466751,Matthias Ginter,h,315,FromCorner,2020,Head,15293,Borussia M.Gladbach,Borussia Dortmund,4,2,2021-01-22 19:30:00,Jonas Hofmann,Aerial
+401565,14,MissedShots,0.899000015258789,0.48700000762939455,0.022558599710464478,Matthias Ginter,a,315,FromCorner,2020,Head,15307,Union Berlin,Borussia M.Gladbach,1,1,2021-01-30 14:30:00,Jonas Hofmann,Aerial
+408495,90,SavedShot,0.8519999694824218,0.42700000762939455,0.07804740220308304,Matthias Ginter,h,315,OpenPlay,2020,RightFoot,15352,Borussia M.Gladbach,Bayer Leverkusen,0,1,2021-03-06 14:30:00,Patrick Herrmann,Pass
+409600,17,BlockedShot,0.905,0.51,0.027783600613474846,Matthias Ginter,a,315,FromCorner,2020,Head,15362,Augsburg,Borussia M.Gladbach,3,1,2021-03-12 19:30:00,Jonas Hofmann,Aerial
+409622,71,MissedShots,0.9169999694824219,0.5329999923706055,0.09336210042238235,Matthias Ginter,a,315,FromCorner,2020,Head,15362,Augsburg,Borussia M.Gladbach,3,1,2021-03-12 19:30:00,Jonas Hofmann,Cross
+411509,48,MissedShots,0.8540000152587891,0.43099998474121093,0.021811099722981453,Matthias Ginter,a,315,FromCorner,2020,Head,15370,Schalke 04,Borussia M.Gladbach,0,3,2021-03-20 17:30:00,Christoph Kramer,Cross
+413813,29,MissedShots,0.885,0.5629999923706055,0.013952899724245071,Matthias Ginter,a,315,FromCorner,2020,Head,15386,Hertha Berlin,Borussia M.Gladbach,2,2,2021-04-10 13:30:00,Lars Stindl,Aerial
+415330,5,MissedShots,0.8859999847412109,0.595999984741211,0.021739600226283073,Matthias Ginter,h,315,FromCorner,2020,Head,15394,Borussia M.Gladbach,Eintracht Frankfurt,4,0,2021-04-17 13:30:00,Jonas Hofmann,Cross
+415331,9,Goal,0.9690000152587891,0.425,0.35376301407814026,Matthias Ginter,h,315,FromCorner,2020,Head,15394,Borussia M.Gladbach,Eintracht Frankfurt,4,0,2021-04-17 13:30:00,Jonas Hofmann,Cross
+417943,16,BlockedShot,0.8640000152587891,0.4909999847412109,0.02682800032198429,Matthias Ginter,h,315,FromCorner,2020,RightFoot,15411,Borussia M.Gladbach,Arminia Bielefeld,5,0,2021-04-25 16:00:00,Nico Elvedi,Aerial
+417945,21,SavedShot,0.7830000305175782,0.3110000038146973,0.026822799816727638,Matthias Ginter,h,315,OpenPlay,2020,RightFoot,15411,Borussia M.Gladbach,Arminia Bielefeld,5,0,2021-04-25 16:00:00,Denis Zakaria,Pass
+430701,33,MissedShots,0.9269999694824219,0.5979999923706054,0.4213080108165741,Matthias Ginter,h,315,FromCorner,2021,LeftFoot,17551,Borussia M.Gladbach,Arminia Bielefeld,3,1,2021-09-12 17:30:00,,None
+430703,45,BlockedShot,0.8969999694824219,0.595999984741211,0.028617000207304955,Matthias Ginter,h,315,FromCorner,2021,Head,17551,Borussia M.Gladbach,Arminia Bielefeld,3,1,2021-09-12 17:30:00,Jonas Hofmann,Cross
+434784,50,MissedShots,0.925,0.5529999923706055,0.09495770186185837,Matthias Ginter,a,315,FromCorner,2021,Head,17575,Wolfsburg,Borussia M.Gladbach,1,3,2021-10-02 13:30:00,Jonas Hofmann,Cross
+434788,55,SavedShot,0.9159999847412109,0.5179999923706055,0.09748449921607971,Matthias Ginter,a,315,FromCorner,2021,Head,17575,Wolfsburg,Borussia M.Gladbach,1,3,2021-10-02 13:30:00,Jonas Hofmann,Cross
+436466,17,MissedShots,0.7759999847412109,0.315,0.0210363008081913,Matthias Ginter,h,315,OpenPlay,2021,RightFoot,17583,Borussia M.Gladbach,VfB Stuttgart,1,1,2021-10-16 16:30:00,Louis Beyer,Pass
+436472,32,BlockedShot,0.7880000305175782,0.34,0.025293299928307533,Matthias Ginter,h,315,OpenPlay,2021,RightFoot,17583,Borussia M.Gladbach,VfB Stuttgart,1,1,2021-10-16 16:30:00,Denis Zakaria,Pass
+436480,50,MissedShots,0.8030000305175782,0.345,0.03150419890880585,Matthias Ginter,h,315,OpenPlay,2021,RightFoot,17583,Borussia M.Gladbach,VfB Stuttgart,1,1,2021-10-16 16:30:00,Denis Zakaria,Pass
+436494,87,MissedShots,0.8090000152587891,0.5279999923706055,0.14880700409412384,Matthias Ginter,h,315,DirectFreekick,2021,RightFoot,17583,Borussia M.Gladbach,VfB Stuttgart,1,1,2021-10-16 16:30:00,,Standard
+436495,92,SavedShot,0.909000015258789,0.3890000152587891,0.0361614003777504,Matthias Ginter,h,315,OpenPlay,2021,Head,17583,Borussia M.Gladbach,VfB Stuttgart,1,1,2021-10-16 16:30:00,Patrick Herrmann,Cross
+440437,2,SavedShot,0.915,0.465,0.03632130101323128,Matthias Ginter,h,315,FromCorner,2021,Head,17601,Borussia M.Gladbach,Bochum,2,1,2021-10-31 16:30:00,Jonas Hofmann,Aerial
+440670,6,BlockedShot,0.9130000305175782,0.4779999923706055,0.12360800057649612,Matthias Ginter,a,315,SetPiece,2021,Head,17610,Mainz 05,Borussia M.Gladbach,1,1,2021-11-05 19:30:00,Jonas Hofmann,Cross
+442446,64,SavedShot,0.8880000305175781,0.54,0.08658889681100845,Matthias Ginter,h,315,FromCorner,2021,RightFoot,17620,Borussia M.Gladbach,Greuther Fuerth,4,0,2021-11-20 14:30:00,,None
+442448,72,SavedShot,0.8419999694824218,0.3529999923706055,0.07437819987535477,Matthias Ginter,h,315,OpenPlay,2021,LeftFoot,17620,Borussia M.Gladbach,Greuther Fuerth,4,0,2021-11-20 14:30:00,Kouadio Kone,Pass
+444032,80,SavedShot,0.9359999847412109,0.4809999847412109,0.0730385035276413,Matthias Ginter,a,315,FromCorner,2021,Head,17626,FC Cologne,Borussia M.Gladbach,4,1,2021-11-27 14:30:00,,None
+447029,29,SavedShot,0.875,0.590999984741211,0.009099810384213924,Matthias Ginter,h,315,SetPiece,2021,Head,17638,Borussia M.Gladbach,Freiburg,0,6,2021-12-05 16:30:00,Jonas Hofmann,Aerial
+447042,84,MissedShots,0.705999984741211,0.38299999237060545,0.011500800028443336,Matthias Ginter,h,315,OpenPlay,2021,RightFoot,17638,Borussia M.Gladbach,Freiburg,0,6,2021-12-05 16:30:00,Jonas Hofmann,Pass
+448967,80,SavedShot,0.9280000305175782,0.4570000076293945,0.10476399958133698,Matthias Ginter,h,315,OpenPlay,2021,Head,17655,Borussia M.Gladbach,Eintracht Frankfurt,2,3,2021-12-15 17:30:00,Christoph Kramer,Cross
+448971,85,BlockedShot,0.9490000152587891,0.42700000762939455,0.04885119944810867,Matthias Ginter,h,315,FromCorner,2021,Head,17655,Borussia M.Gladbach,Eintracht Frankfurt,2,3,2021-12-15 17:30:00,Patrick Herrmann,Aerial
+448973,88,SavedShot,0.7280000305175781,0.4329999923706055,0.018701599910855293,Matthias Ginter,h,315,OpenPlay,2021,RightFoot,17655,Borussia M.Gladbach,Eintracht Frankfurt,2,3,2021-12-15 17:30:00,Marcus Thuram,Pass
+448975,94,BlockedShot,0.8419999694824218,0.34200000762939453,0.04230109974741936,Matthias Ginter,h,315,OpenPlay,2021,RightFoot,17655,Borussia M.Gladbach,Eintracht Frankfurt,2,3,2021-12-15 17:30:00,Alassane Pléa,BallTouch
+451899,30,BlockedShot,0.960999984741211,0.26899999618530274,0.04372509941458702,Matthias Ginter,a,315,SetPiece,2021,RightFoot,17677,Bayern Munich,Borussia M.Gladbach,1,2,2022-01-07 19:30:00,Luca Netz,Chipped
+454522,76,SavedShot,0.9280000305175782,0.34299999237060547,0.07517849653959274,Matthias Ginter,h,315,OpenPlay,2021,RightFoot,17692,Borussia M.Gladbach,Union Berlin,1,2,2022-01-22 14:30:00,Denis Zakaria,BallTouch
+455785,31,BlockedShot,0.91,0.6569999694824219,0.04633380100131035,Matthias Ginter,a,315,FromCorner,2021,LeftFoot,17697,Arminia Bielefeld,Borussia M.Gladbach,1,1,2022-02-05 14:30:00,,BallTouch
+458883,40,BlockedShot,0.9340000152587891,0.44,0.046365901827812195,Matthias Ginter,a,315,FromCorner,2021,Head,17721,Borussia Dortmund,Borussia M.Gladbach,6,0,2022-02-20 16:30:00,Jonas Hofmann,CornerAwarded
+459704,62,SavedShot,0.835,0.34,0.0372776985168457,Matthias Ginter,h,315,OpenPlay,2021,RightFoot,17728,Borussia M.Gladbach,Wolfsburg,2,2,2022-02-26 14:30:00,Jonas Hofmann,Pass
+459709,76,SavedShot,0.9019999694824219,0.46700000762939453,0.12055200338363647,Matthias Ginter,h,315,FromCorner,2021,LeftFoot,17728,Borussia M.Gladbach,Wolfsburg,2,2,2022-02-26 14:30:00,,Rebound
+461308,54,BlockedShot,0.9369999694824219,0.44299999237060544,0.06640949845314026,Matthias Ginter,a,315,SetPiece,2021,Head,17737,VfB Stuttgart,Borussia M.Gladbach,3,2,2022-03-05 17:30:00,,Aerial
+462710,58,Goal,0.919000015258789,0.47200000762939454,0.16024300456047058,Matthias Ginter,h,315,FromCorner,2021,Head,17745,Borussia M.Gladbach,Hertha Berlin,2,0,2022-03-12 17:30:00,Luca Netz,Aerial
+465971,53,MissedShots,0.904000015258789,0.42200000762939455,0.06877320259809494,Matthias Ginter,h,315,SetPiece,2021,Head,17763,Borussia M.Gladbach,Mainz 05,1,1,2022-04-03 15:30:00,Lars Stindl,Cross
+468374,4,SavedShot,0.9619999694824218,0.595,0.06511980295181274,Matthias Ginter,h,315,FromCorner,2021,Head,17782,Borussia M.Gladbach,FC Cologne,1,3,2022-04-16 16:30:00,Jonas Hofmann,Cross
+468386,23,MissedShots,0.8819999694824219,0.49599998474121093,0.0413707010447979,Matthias Ginter,h,315,FromCorner,2021,Head,17782,Borussia M.Gladbach,FC Cologne,1,3,2022-04-16 16:30:00,Jonas Hofmann,Cross
+479233,60,Goal,0.8719999694824219,0.565,0.06906139850616455,Matthias Ginter,a,315,SetPiece,2022,RightFoot,19347,Augsburg,Freiburg,0,4,2022-08-06 13:30:00,Michael Gregoritsch,HeadPass
+481723,12,SavedShot,0.7040000152587891,0.7030000305175781,0.013975200243294239,Matthias Ginter,a,315,OpenPlay,2022,RightFoot,19363,VfB Stuttgart,Freiburg,0,1,2022-08-20 13:30:00,,BallRecovery
+483277,23,MissedShots,0.9119999694824219,0.595999984741211,0.015622000209987164,Matthias Ginter,h,315,FromCorner,2022,Head,19369,Freiburg,Bochum,1,0,2022-08-26 18:30:00,Christian Günter,Aerial
+485850,47,Goal,0.9580000305175781,0.4879999923706055,0.49900099635124207,Matthias Ginter,a,315,FromCorner,2022,Head,19379,Bayer Leverkusen,Freiburg,2,3,2022-09-03 13:30:00,Vincenzo Grifo,Cross
+489602,37,SavedShot,0.8880000305175781,0.415,0.03846209868788719,Matthias Ginter,a,315,OpenPlay,2022,Head,19404,Hoffenheim,Freiburg,0,0,2022-09-18 17:30:00,Christian Günter,Chipped
+493959,15,BlockedShot,0.8690000152587891,0.445,0.07098300009965897,Matthias Ginter,a,315,FromCorner,2022,RightFoot,19423,Bayern Munich,Freiburg,5,0,2022-10-16 17:30:00,,None
+493969,68,BlockedShot,0.8730000305175781,0.529000015258789,0.032562799751758575,Matthias Ginter,a,315,OpenPlay,2022,Head,19423,Bayern Munich,Freiburg,5,0,2022-10-16 17:30:00,Christian Günter,Cross
+497402,29,BlockedShot,0.955999984741211,0.580999984741211,0.09691700339317322,Matthias Ginter,a,315,FromCorner,2022,Head,19448,Schalke 04,Freiburg,0,2,2022-10-30 16:30:00,Vincenzo Grifo,Cross
+497410,53,SavedShot,0.9530000305175781,0.62,0.012022599577903748,Matthias Ginter,a,315,OpenPlay,2022,Head,19448,Schalke 04,Freiburg,0,2,2022-10-30 16:30:00,Christian Günter,Rebound
+505486,46,Goal,0.9209999847412109,0.47400001525878904,0.34656399488449097,Matthias Ginter,h,315,FromCorner,2022,Head,19488,Freiburg,Eintracht Frankfurt,1,1,2023-01-25 19:30:00,Christian Günter,Cross
+511387,70,SavedShot,0.9269999694824219,0.46900001525878904,0.13223299384117126,Matthias Ginter,h,315,SetPiece,2022,Head,19533,Freiburg,Bayer Leverkusen,1,1,2023-02-26 14:30:00,Vincenzo Grifo,Cross
+512010,55,MissedShots,0.850999984741211,0.43,0.03109849989414215,Matthias Ginter,a,315,OpenPlay,2022,RightFoot,19544,Borussia M.Gladbach,Freiburg,0,0,2023-03-04 14:30:00,,Aerial
+517925,87,MissedShots,0.8830000305175781,0.5929999923706055,0.017779499292373657,Matthias Ginter,h,315,SetPiece,2022,Head,19578,Freiburg,Bayern Munich,0,1,2023-04-08 13:30:00,Lukas Kübler,None
+517929,94,MissedShots,0.9430000305175781,0.43400001525878906,0.052424099296331406,Matthias Ginter,h,315,OpenPlay,2022,Head,19578,Freiburg,Bayern Munich,0,1,2023-04-08 13:30:00,Christian Günter,Aerial
+521527,44,MissedShots,0.9269999694824219,0.5990000152587891,0.048021964728832245,Matthias Ginter,h,315,FromCorner,2022,Head,19596,Freiburg,Schalke 04,4,0,2023-04-23 13:30:00,Vincenzo Grifo,Cross
+521532,55,SavedShot,0.9059999847412109,0.40599998474121096,0.03662160038948059,Matthias Ginter,h,315,FromCorner,2022,Head,19596,Freiburg,Schalke 04,4,0,2023-04-23 13:30:00,Vincenzo Grifo,Cross
+521541,81,Goal,0.935,0.39299999237060546,0.22893115878105164,Matthias Ginter,h,315,FromCorner,2022,LeftFoot,19596,Freiburg,Schalke 04,4,0,2023-04-23 13:30:00,Merlin Röhl,BallTouch
+525954,83,SavedShot,0.955999984741211,0.5109999847412109,0.4739936888217926,Matthias Ginter,a,315,FromCorner,2022,RightFoot,19624,Union Berlin,Freiburg,4,2,2023-05-13 13:30:00,Ritsu Doan,Cross
+525955,83,BlockedShot,0.9540000152587891,0.5359999847412109,0.1455831527709961,Matthias Ginter,a,315,FromCorner,2022,RightFoot,19624,Union Berlin,Freiburg,4,2,2023-05-13 13:30:00,,Rebound
+529135,37,SavedShot,0.8859999847412109,0.5590000152587891,0.01420994009822607,Matthias Ginter,a,315,FromCorner,2022,Head,19644,Eintracht Frankfurt,Freiburg,2,1,2023-05-27 13:30:00,Vincenzo Grifo,Aerial
+529137,42,MissedShots,0.925,0.5320000076293945,0.05446959659457207,Matthias Ginter,a,315,FromCorner,2022,Head,19644,Eintracht Frankfurt,Freiburg,2,1,2023-05-27 13:30:00,,Aerial
+534642,90,BlockedShot,0.9169999694824219,0.605999984741211,0.09538391977548599,Matthias Ginter,h,315,FromCorner,2023,RightFoot,23075,Freiburg,Werder Bremen,1,0,2023-08-26 13:30:00,,Rebound
+536030,2,SavedShot,0.980999984741211,0.5720000076293945,0.0625554621219635,Matthias Ginter,a,315,FromCorner,2023,Head,23088,VfB Stuttgart,Freiburg,5,0,2023-09-02 13:30:00,,None
+552816,18,MissedShots,0.9109999847412109,0.5279999923706055,0.30632299184799194,Matthias Ginter,a,315,FromCorner,2023,LeftFoot,23185,Wolfsburg,Freiburg,0,1,2023-12-09 14:30:00,Vincenzo Grifo,Chipped
+555708,91,OwnGoal,0.030999999046325683,0.49599998474121093,0,Matthias Ginter,a,315,OpenPlay,2023,RightFoot,23208,FC Heidenheim,Freiburg,3,2,2023-12-20 19:30:00,,Challenge
+558910,79,SavedShot,0.9169999694824219,0.5629999923706055,0.030638357624411583,Matthias Ginter,h,315,FromCorner,2023,Head,23220,Freiburg,Hoffenheim,3,2,2024-01-20 14:30:00,,Aerial
+559710,21,SavedShot,0.905,0.40299999237060546,0.05404552072286606,Matthias Ginter,a,315,SetPiece,2023,Head,23233,Werder Bremen,Freiburg,3,1,2024-01-27 14:30:00,Vincenzo Grifo,Cross
+559726,95,MissedShots,0.955999984741211,0.595999984741211,0.06675481796264648,Matthias Ginter,a,315,FromCorner,2023,Head,23233,Werder Bremen,Freiburg,3,1,2024-01-27 14:30:00,Florent Muslija,Cross
+561189,72,SavedShot,0.9269999694824219,0.46900001525878904,0.38676777482032776,Matthias Ginter,h,315,SetPiece,2023,Head,23238,Freiburg,VfB Stuttgart,1,3,2024-02-03 14:30:00,Vincenzo Grifo,Cross
+592322,0,MissedShots,0.9180000305175782,0.5970000076293945,0.04280760884284973,Matthias Ginter,a,315,FromCorner,2024,Head,27772,FC Heidenheim,Freiburg,0,3,2024-09-21 13:30:00,Vincenzo Grifo,Cross
+592329,42,MissedShots,0.7040000152587891,0.544000015258789,0.01388070359826088,Matthias Ginter,a,315,OpenPlay,2024,RightFoot,27772,FC Heidenheim,Freiburg,0,3,2024-09-21 13:30:00,Christian Günter,Pass
+596934,27,BlockedShot,0.914000015258789,0.5520000076293945,0.10004264861345291,Matthias Ginter,h,315,FromCorner,2024,RightFoot,27800,Freiburg,Augsburg,3,1,2024-10-19 13:30:00,,None
+598370,89,MissedShots,0.94,0.43099998474121093,0.08195878565311432,Matthias Ginter,a,315,OpenPlay,2024,RightFoot,27806,RasenBallsport Leipzig,Freiburg,3,1,2024-10-26 13:30:00,,None
+600606,89,MissedShots,0.92,0.534000015258789,0.05315295234322548,Matthias Ginter,h,315,SetPiece,2024,Head,27819,Freiburg,Mainz 05,0,0,2024-11-03 14:30:00,Christian Günter,Foul
+606548,67,Goal,0.9259999847412109,0.48,0.4543066918849945,Matthias Ginter,a,315,SetPiece,2024,RightFoot,27852,Hoffenheim,Freiburg,1,1,2024-12-08 16:30:00,Vincenzo Grifo,Cross
+606790,5,SavedShot,0.9030000305175782,0.5729999923706055,0.054752375930547714,Matthias Ginter,h,315,FromCorner,2024,Head,27862,Freiburg,Wolfsburg,3,2,2024-12-13 19:30:00,Vincenzo Grifo,Cross
+610661,36,BlockedShot,0.9159999847412109,0.4929999923706055,0.12069893628358841,Matthias Ginter,h,315,SetPiece,2024,Head,27881,Freiburg,Holstein Kiel,3,2,2025-01-11 14:30:00,Vincenzo Grifo,Cross
+613248,67,Goal,0.935,0.49,0.12710632383823395,Matthias Ginter,h,315,FromCorner,2024,Head,27912,Freiburg,Bayern Munich,1,2,2025-01-25 14:30:00,Ritsu Doan,Cross
+613253,89,MissedShots,0.874000015258789,0.515,0.01814008317887783,Matthias Ginter,h,315,OpenPlay,2024,Head,27912,Freiburg,Bayern Munich,1,2,2025-01-25 14:30:00,Vincenzo Grifo,Aerial
+614735,26,MissedShots,0.980999984741211,0.4620000076293945,0.6953414082527161,Matthias Ginter,a,315,OpenPlay,2024,Head,27914,Bochum,Freiburg,0,1,2025-02-01 14:30:00,Kiliann Sildillia,Pass
+614742,44,MissedShots,0.9380000305175781,0.505,0.07242338359355927,Matthias Ginter,a,315,FromCorner,2024,Head,27914,Bochum,Freiburg,0,1,2025-02-01 14:30:00,Vincenzo Grifo,Aerial
+616065,45,MissedShots,0.915,0.41700000762939454,0.01760229840874672,Matthias Ginter,h,315,FromCorner,2024,Head,27926,Freiburg,FC Heidenheim,1,0,2025-02-08 14:30:00,Vincenzo Grifo,Aerial
+618100,2,SavedShot,0.9290000152587891,0.4809999847412109,0.39936429262161255,Matthias Ginter,h,315,OpenPlay,2024,Head,27944,Freiburg,Werder Bremen,5,0,2025-02-21 19:30:00,Maximilian Eggestein,Chipped
+620636,86,MissedShots,0.909000015258789,0.4229999923706055,0.30730098485946655,Matthias Ginter,a,315,OpenPlay,2024,Head,27954,Augsburg,Freiburg,0,0,2025-03-02 16:30:00,Christian Günter,Aerial
+622523,32,BlockedShot,0.865999984741211,0.585999984741211,0.0903443694114685,Matthias Ginter,a,315,OpenPlay,2024,RightFoot,27972,Mainz 05,Freiburg,2,2,2025-03-15 14:30:00,Maximilian Eggestein,Pass
+622524,32,BlockedShot,0.905,0.565,0.036752477288246155,Matthias Ginter,a,315,OpenPlay,2024,Head,27972,Mainz 05,Freiburg,2,2,2025-03-15 14:30:00,Kiliann Sildillia,Aerial
+622533,54,MissedShots,0.905,0.45299999237060545,0.06542178243398666,Matthias Ginter,a,315,FromCorner,2024,Head,27972,Mainz 05,Freiburg,2,2,2025-03-15 14:30:00,Vincenzo Grifo,Cross
+624639,26,MissedShots,0.6780000305175782,0.5379999923706055,0.009143287315964699,Matthias Ginter,h,315,OpenPlay,2024,RightFoot,27982,Freiburg,Union Berlin,1,2,2025-03-30 14:30:00,,None
+628397,44,MissedShots,0.955,0.3920000076293945,0.04714123532176018,Matthias Ginter,h,315,FromCorner,2024,Head,28007,Freiburg,Hoffenheim,3,2,2025-04-19 13:30:00,Vincenzo Grifo,Cross
+628406,76,MissedShots,0.9259999847412109,0.415,0.09316296130418777,Matthias Ginter,h,315,SetPiece,2024,Head,28007,Freiburg,Hoffenheim,3,2,2025-04-19 13:30:00,Merlin Röhl,Cross
+630191,42,MissedShots,0.970999984741211,0.504000015258789,0.7314800024032593,Matthias Ginter,a,315,OpenPlay,2024,Head,28018,Wolfsburg,Freiburg,0,1,2025-04-26 13:30:00,,None
+632603,23,ShotOnPost,0.92,0.580999984741211,0.3443584740161896,Matthias Ginter,a,315,SetPiece,2024,RightFoot,28038,Holstein Kiel,Freiburg,1,2,2025-05-10 13:30:00,Vincenzo Grifo,Cross
+634494,1,MissedShots,0.9059999847412109,0.5540000152587891,0.04063766822218895,Matthias Ginter,h,315,OpenPlay,2024,Head,28043,Freiburg,Eintracht Frankfurt,1,3,2025-05-17 13:30:00,Philipp Lienhart,Aerial
+638754,89,SavedShot,0.9119999694824219,0.48,0.06344203650951385,Matthias Ginter,h,315,OpenPlay,2025,Head,30229,Freiburg,Augsburg,1,3,2025-08-23 13:30:00,Jordy Makengo,Aerial
+641111,72,MissedShots,0.924000015258789,0.37200000762939456,0.023486174643039703,Matthias Ginter,a,315,OpenPlay,2025,Head,30241,FC Cologne,Freiburg,4,1,2025-08-31 17:30:00,Anthony Jung,Chipped
+645316,51,BlockedShot,0.9540000152587891,0.4379999923706055,0.06413178145885468,Matthias Ginter,h,315,FromCorner,2025,Head,30266,Freiburg,Hoffenheim,1,1,2025-09-28 13:30:00,Jan-Niklas Beste,Aerial
+648173,93,SavedShot,0.9519999694824218,0.325,0.030410269275307655,Matthias Ginter,h,315,OpenPlay,2025,RightFoot,30280,Freiburg,Eintracht Frankfurt,2,2,2025-10-19 13:30:00,Jan-Niklas Beste,Cross
+650708,16,BlockedShot,0.9459999847412109,0.5379999923706055,0.05786493793129921,Matthias Ginter,a,315,FromCorner,2025,Head,30303,Union Berlin,Freiburg,0,0,2025-11-01 14:30:00,Jan-Niklas Beste,Foul
+658694,68,MissedShots,0.914000015258789,0.4129999923706055,0.02500062808394432,Matthias Ginter,h,315,OpenPlay,2025,Head,30345,Freiburg,Borussia Dortmund,1,1,2025-12-14 14:30:00,Yuito Suzuki,Aerial
+658702,85,BlockedShot,0.9619999694824218,0.5970000076293945,0.06405003368854523,Matthias Ginter,h,315,FromCorner,2025,Head,30345,Freiburg,Borussia Dortmund,1,1,2025-12-14 14:30:00,Vincenzo Grifo,Cross
+658703,88,BlockedShot,0.725,0.46,0.01850474439561367,Matthias Ginter,h,315,OpenPlay,2025,RightFoot,30345,Freiburg,Borussia Dortmund,1,1,2025-12-14 14:30:00,Philipp Treu,Pass
+659194,70,SavedShot,0.9790000152587891,0.5370000076293945,0.13106444478034973,Matthias Ginter,a,315,OpenPlay,2025,Head,30358,Wolfsburg,Freiburg,3,4,2025-12-20 14:30:00,Anthony Jung,HeadPass
+666576,56,MissedShots,0.9359999847412109,0.5679999923706055,0.04181969165802002,Matthias Ginter,a,315,FromCorner,2025,Head,30402,VfB Stuttgart,Freiburg,1,0,2026-02-01 14:30:00,Derry Scherhant,Aerial
+670248,37,Goal,0.9290000152587891,0.5020000076293946,0.08501195907592773,Matthias Ginter,h,315,OpenPlay,2025,RightFoot,30424,Freiburg,Borussia M.Gladbach,2,1,2026-02-22 14:30:00,,Aerial
+672557,85,Goal,0.970999984741211,0.47400001525878904,0.6051067113876343,Matthias Ginter,h,315,OpenPlay,2025,Head,30442,Freiburg,Bayer Leverkusen,3,3,2026-03-07 14:30:00,Derry Scherhant,Cross
+672560,93,MissedShots,0.9319999694824219,0.45099998474121095,0.05184609815478325,Matthias Ginter,h,315,FromCorner,2025,Head,30442,Freiburg,Bayer Leverkusen,3,3,2026-03-07 14:30:00,Derry Scherhant,Aerial
+674599,20,SavedShot,0.8869999694824219,0.4829999923706055,0.04762284830212593,Matthias Ginter,h,315,FromCorner,2025,Head,30453,Freiburg,Union Berlin,0,1,2026-03-15 16:30:00,Derry Scherhant,Cross
+678641,71,BlockedShot,0.884000015258789,0.34,0.05253538116812706,Matthias Ginter,a,315,SetPiece,2025,LeftFoot,30480,Mainz 05,Freiburg,0,1,2026-04-12 17:30:00,Igor Matanovic,None
+679645,27,BlockedShot,0.88,0.625999984741211,0.07746725529432297,Matthias Ginter,h,315,OpenPlay,2025,RightFoot,30489,Freiburg,FC Heidenheim,2,1,2026-04-19 13:30:00,Igor Matanovic,HeadPass
+679660,72,MissedShots,0.8959999847412109,0.5129999923706055,0.09566065669059753,Matthias Ginter,h,315,OpenPlay,2025,RightFoot,30489,Freiburg,FC Heidenheim,2,1,2026-04-19 13:30:00,Lucas Höler,HeadPass

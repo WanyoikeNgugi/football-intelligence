@@ -1,0 +1,48 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+24434,90,MissedShots,0.7219999694824218,0.3120000076293945,0.011003299616277218,Paul Verhaegh,a,264,OpenPlay,2014,RightFoot,5448,Hoffenheim,Augsburg,2,0,2014-08-23 14:30:00,Markus Feulner,Pass
+25000,56,MissedShots,0.7709999847412109,0.32599998474121095,0.025838499888777733,Paul Verhaegh,a,264,OpenPlay,2014,LeftFoot,5418,Eintracht Frankfurt,Augsburg,0,1,2014-09-14 14:30:00,,None
+25122,47,Goal,0.885,0.5,0.7577769756317139,Paul Verhaegh,h,264,Penalty,2014,RightFoot,5425,Augsburg,Werder Bremen,4,2,2014-09-20 14:30:00,,Standard
+25573,26,Goal,0.885,0.5,0.7576959729194641,Paul Verhaegh,h,264,Penalty,2014,RightFoot,5445,Augsburg,Hertha Berlin,1,0,2014-09-28 14:30:00,,Standard
+26314,10,Goal,0.885,0.5,0.7577769756317139,Paul Verhaegh,h,264,Penalty,2014,RightFoot,5403,Augsburg,Freiburg,2,0,2014-10-25 14:30:00,,Standard
+26321,22,BlockedShot,0.740999984741211,0.26399999618530273,0.011685900390148163,Paul Verhaegh,h,264,OpenPlay,2014,RightFoot,5403,Augsburg,Freiburg,2,0,2014-10-25 14:30:00,Halil Altintop,Chipped
+26495,9,BlockedShot,0.8040000152587891,0.25799999237060545,0.013225199654698372,Paul Verhaegh,a,264,OpenPlay,2014,LeftFoot,5410,Schalke 04,Augsburg,1,0,2014-10-31 19:30:00,Tobias Werner,Chipped
+27085,71,Goal,0.885,0.5,0.7577769756317139,Paul Verhaegh,a,264,Penalty,2014,RightFoot,5373,VfB Stuttgart,Augsburg,0,1,2014-11-23 16:30:00,,Standard
+27628,69,Goal,0.885,0.5,0.7577769756317139,Paul Verhaegh,h,264,Penalty,2014,RightFoot,5375,Augsburg,Hamburger SV,3,1,2014-11-29 14:30:00,,Standard
+27541,52,SavedShot,0.8919999694824219,0.34200000762939453,0.06760469824075699,Paul Verhaegh,a,264,OpenPlay,2014,RightFoot,5317,FC Cologne,Augsburg,1,2,2014-12-06 14:30:00,Halil Altintop,Pass
+27758,13,SavedShot,0.7830000305175782,0.3509999847412109,0.02057019993662834,Paul Verhaegh,a,264,FromCorner,2014,RightFoot,5330,Hannover 96,Augsburg,2,0,2014-12-16 19:00:00,Alexander Esswein,LayOff
+29775,30,MissedShots,0.81,0.42700000762939455,0.04776319861412048,Paul Verhaegh,a,264,OpenPlay,2014,RightFoot,5266,Borussia Dortmund,Augsburg,0,1,2015-02-04 19:00:00,Halil Altintop,Pass
+31566,50,MissedShots,0.87,0.27700000762939453,0.03937320038676262,Paul Verhaegh,a,264,OpenPlay,2014,RightFoot,5209,Paderborn,Augsburg,2,1,2015-04-11 14:30:00,Pierre-Emile Højbjerg,Pass
+31973,67,MissedShots,0.759000015258789,0.28899999618530275,0.01052779983729124,Paul Verhaegh,h,264,SetPiece,2014,RightFoot,5219,Augsburg,VfB Stuttgart,2,1,2015-04-18 17:30:00,,None
+30039,91,MissedShots,0.7819999694824219,0.35200000762939454,0.018969900906085968,Paul Verhaegh,a,264,FromCorner,2014,RightFoot,5225,Hamburger SV,Augsburg,3,2,2015-04-25 14:30:00,,None
+30770,58,BlockedShot,0.7759999847412109,0.25799999237060545,0.015210799872875214,Paul Verhaegh,h,264,OpenPlay,2014,LeftFoot,5161,Augsburg,FC Cologne,0,0,2015-05-02 14:30:00,Alexander Esswein,Pass
+30773,66,MissedShots,0.799000015258789,0.3,0.020403999835252762,Paul Verhaegh,h,264,OpenPlay,2014,RightFoot,5161,Augsburg,FC Cologne,0,0,2015-05-02 14:30:00,Markus Feulner,Pass
+31316,14,ShotOnPost,0.885,0.5,0.7577769756317139,Paul Verhaegh,a,264,Penalty,2014,RightFoot,5169,Bayern Munich,Augsburg,0,1,2015-05-09 14:30:00,,Standard
+30508,22,BlockedShot,0.735,0.3129999923706055,0.01132069993764162,Paul Verhaegh,h,264,OpenPlay,2014,RightFoot,5180,Augsburg,Hannover 96,1,2,2015-05-16 14:30:00,,Rebound
+30511,29,Goal,0.885,0.5,0.7577769756317139,Paul Verhaegh,h,264,Penalty,2014,RightFoot,5180,Augsburg,Hannover 96,1,2,2015-05-16 14:30:00,,Standard
+77090,31,Goal,0.885,0.5,0.7577769756317139,Paul Verhaegh,h,264,Penalty,2015,RightFoot,1064,Augsburg,Hannover 96,2,0,2015-09-20 19:30:00,,Standard
+77098,53,SavedShot,0.87,0.23899999618530274,0.03536909818649292,Paul Verhaegh,h,264,OpenPlay,2015,LeftFoot,1064,Augsburg,Hannover 96,2,0,2015-09-20 19:30:00,Ja-Cheol Koo,Pass
+77306,50,Goal,0.885,0.5,0.7577769756317139,Paul Verhaegh,a,264,Penalty,2015,RightFoot,1073,Borussia M.Gladbach,Augsburg,4,2,2015-09-23 22:00:00,,Standard
+77314,74,Goal,0.885,0.5,0.7577769756317139,Paul Verhaegh,a,264,Penalty,2015,RightFoot,1073,Borussia M.Gladbach,Augsburg,4,2,2015-09-23 22:00:00,,Standard
+78517,40,BlockedShot,0.7969999694824219,0.3120000076293945,0.015968499705195427,Paul Verhaegh,h,264,OpenPlay,2015,RightFoot,1114,Augsburg,Mainz 05,3,3,2015-10-31 18:30:00,,None
+78518,41,Goal,0.885,0.5,0.7577769756317139,Paul Verhaegh,h,264,Penalty,2015,RightFoot,1114,Augsburg,Mainz 05,3,3,2015-10-31 18:30:00,,Standard
+78770,90,Goal,0.885,0.5,0.7577769756317139,Paul Verhaegh,h,264,Penalty,2015,RightFoot,1128,Augsburg,Werder Bremen,1,2,2015-11-08 20:30:00,,Standard
+79188,42,MissedShots,0.905,0.40599998474121096,0.3778190016746521,Paul Verhaegh,h,264,OpenPlay,2015,LeftFoot,1146,Augsburg,Wolfsburg,0,0,2015-11-29 20:30:00,,None
+80858,72,MissedShots,0.8080000305175781,0.43900001525878907,0.03798440098762512,Paul Verhaegh,h,264,SetPiece,2015,LeftFoot,1209,Augsburg,Bayern Munich,1,3,2016-02-14 20:30:00,,None
+81617,39,Goal,0.885,0.5,0.7577769756317139,Paul Verhaegh,a,264,Penalty,2015,RightFoot,1232,Hoffenheim,Augsburg,2,1,2016-03-02 23:00:00,,Standard
+81805,79,OwnGoal,0.022999999523162843,0.45599998474121095,0,Paul Verhaegh,h,264,FromCorner,2015,OtherBodyPart,1238,Augsburg,Bayer Leverkusen,3,3,2016-03-05 18:30:00,,CornerAwarded
+128317,27,MissedShots,0.8019999694824219,0.32099998474121094,0.02543500065803528,Paul Verhaegh,h,264,OpenPlay,2016,LeftFoot,1352,Augsburg,Mainz 05,1,3,2016-09-18 17:30:00,Raúl Bobadilla,Pass
+129994,4,SavedShot,0.6990000152587891,0.2979999923706055,0.007787379901856184,Paul Verhaegh,h,264,OpenPlay,2016,RightFoot,3302,Augsburg,Bayern Munich,1,3,2016-10-29 17:30:00,Daniel Baier,Chipped
+132264,54,Goal,0.885,0.5,0.7577769756317139,Paul Verhaegh,a,264,Penalty,2016,RightFoot,3768,Darmstadt,Augsburg,1,2,2017-02-25 14:30:00,,Standard
+132266,60,BlockedShot,0.8009999847412109,0.33599998474121096,0.024972299113869667,Paul Verhaegh,a,264,OpenPlay,2016,RightFoot,3768,Darmstadt,Augsburg,1,2,2017-02-25 14:30:00,Halil Altintop,Pass
+133718,31,BlockedShot,0.8190000152587891,0.5379999923706055,0.04711829870939255,Paul Verhaegh,a,264,SetPiece,2016,LeftFoot,3792,Schalke 04,Augsburg,3,0,2017-03-12 14:30:00,,None
+133717,31,SavedShot,0.885,0.5,0.7577769756317139,Paul Verhaegh,a,264,Penalty,2016,RightFoot,3792,Schalke 04,Augsburg,3,0,2017-03-12 14:30:00,,Standard
+134115,75,Goal,0.885,0.5,0.7577769756317139,Paul Verhaegh,h,264,Penalty,2016,RightFoot,3817,Augsburg,Ingolstadt,2,3,2017-04-05 19:00:00,,Standard
+134118,88,MissedShots,0.8219999694824218,0.355,0.028824100270867348,Paul Verhaegh,h,264,OpenPlay,2016,RightFoot,3817,Augsburg,Ingolstadt,2,3,2017-04-05 19:00:00,Alfred Finnbogason,HeadPass
+132871,22,Goal,0.885,0.5,0.7577769756317139,Paul Verhaegh,h,264,Penalty,2016,RightFoot,3834,Augsburg,FC Cologne,2,1,2017-04-15 14:30:00,,Standard
+134506,88,MissedShots,0.8109999847412109,0.21600000381469728,0.02684899978339672,Paul Verhaegh,h,264,OpenPlay,2016,RightFoot,3853,Augsburg,Hamburger SV,4,0,2017-04-30 14:30:00,Dominik Kohr,Pass
+184105,14,Goal,0.885,0.5,0.7577769756317139,Paul Verhaegh,h,264,Penalty,2017,RightFoot,8402,Wolfsburg,RasenBallsport Leipzig,1,1,2017-12-12 17:30:00,,Standard
+195035,48,SavedShot,0.885,0.5,0.7577769756317139,Paul Verhaegh,a,264,Penalty,2017,RightFoot,8455,Werder Bremen,Wolfsburg,3,1,2018-02-11 17:00:00,,Standard
+195036,48,Goal,0.9690000152587891,0.47,0.7541630268096924,Paul Verhaegh,a,264,SetPiece,2017,RightFoot,8455,Werder Bremen,Wolfsburg,3,1,2018-02-11 17:00:00,,Rebound
+201669,75,SavedShot,0.885,0.5,0.7577769756317139,Paul Verhaegh,h,264,Penalty,2017,RightFoot,8499,Wolfsburg,Schalke 04,0,1,2018-03-17 17:30:00,,Standard
+204532,73,BlockedShot,0.875,0.28,0.040181901305913925,Paul Verhaegh,a,264,OpenPlay,2017,RightFoot,8505,Hertha Berlin,Wolfsburg,0,0,2018-03-31 14:30:00,Maximilian Arnold,Pass
+208115,91,SavedShot,0.8430000305175781,0.3609999847412109,0.05024909973144531,Paul Verhaegh,h,264,OpenPlay,2017,LeftFoot,8527,Wolfsburg,Augsburg,0,0,2018-04-13 18:30:00,,None

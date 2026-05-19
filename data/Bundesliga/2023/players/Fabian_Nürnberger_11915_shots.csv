@@ -1,0 +1,20 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+538401,46,SavedShot,0.8530000305175781,0.5070000076293946,0.10231208056211472,Fabian Nürnberger,h,11915,OpenPlay,2023,LeftFoot,23100,Darmstadt,Borussia M.Gladbach,3,3,2023-09-17 15:30:00,Luca Pfeiffer,BallTouch
+538402,47,SavedShot,0.7980000305175782,0.34200000762939453,0.015287203714251518,Fabian Nürnberger,h,11915,FromCorner,2023,LeftFoot,23100,Darmstadt,Borussia M.Gladbach,3,3,2023-09-17 15:30:00,,Aerial
+541824,1,MissedShots,0.850999984741211,0.7130000305175781,0.019787341356277466,Fabian Nürnberger,h,11915,OpenPlay,2023,LeftFoot,23117,Darmstadt,Werder Bremen,4,2,2023-10-01 13:30:00,Marvin Mehlem,HeadPass
+542508,27,MissedShots,0.7809999847412109,0.2879999923706055,0.02123592235147953,Fabian Nürnberger,a,11915,FromCorner,2023,LeftFoot,23122,Augsburg,Darmstadt,1,2,2023-10-07 13:30:00,Tobias Kempe,Pass
+542510,29,BlockedShot,0.775,0.700999984741211,0.01737443171441555,Fabian Nürnberger,a,11915,OpenPlay,2023,LeftFoot,23122,Augsburg,Darmstadt,1,2,2023-10-07 13:30:00,Matej Maglica,Pass
+543850,5,MissedShots,0.8190000152587891,0.555,0.018225377425551414,Fabian Nürnberger,h,11915,OpenPlay,2023,RightFoot,23133,Darmstadt,RasenBallsport Leipzig,1,3,2023-10-21 13:30:00,,Aerial
+546482,42,Goal,0.914000015258789,0.4490000152587891,0.05102524161338806,Fabian Nürnberger,h,11915,OpenPlay,2023,Head,23154,Darmstadt,Bochum,1,2,2023-11-03 19:30:00,Luca Pfeiffer,HeadPass
+546489,67,SavedShot,0.874000015258789,0.7,0.04435297101736069,Fabian Nürnberger,h,11915,OpenPlay,2023,LeftFoot,23154,Darmstadt,Bochum,1,2,2023-11-03 19:30:00,Marvin Mehlem,Pass
+546497,84,ShotOnPost,0.9330000305175781,0.13399999618530273,0.05241827666759491,Fabian Nürnberger,h,11915,DirectFreekick,2023,LeftFoot,23154,Darmstadt,Bochum,1,2,2023-11-03 19:30:00,,Standard
+548285,85,BlockedShot,0.735,0.7180000305175781,0.018714508041739464,Fabian Nürnberger,h,11915,OpenPlay,2023,LeftFoot,23163,Darmstadt,Mainz 05,0,0,2023-11-11 14:30:00,Marvin Mehlem,Pass
+550832,69,BlockedShot,0.799000015258789,0.6759999847412109,0.024796409532427788,Fabian Nürnberger,h,11915,OpenPlay,2023,LeftFoot,23181,Darmstadt,FC Cologne,0,1,2023-12-01 18:30:00,Fabian Holland,Pass
+563812,54,BlockedShot,0.905,0.6959999847412109,0.051837529987096786,Fabian Nürnberger,h,11915,OpenPlay,2023,LeftFoot,23262,Darmstadt,VfB Stuttgart,1,2,2024-02-17 14:30:00,Emir Karic,Pass
+563817,71,BlockedShot,0.7369999694824219,0.33099998474121095,0.045505013316869736,Fabian Nürnberger,h,11915,DirectFreekick,2023,LeftFoot,23262,Darmstadt,VfB Stuttgart,1,2,2024-02-17 14:30:00,,Standard
+577643,4,MissedShots,0.8590000152587891,0.6220000076293946,0.07680206745862961,Fabian Nürnberger,h,11915,OpenPlay,2023,LeftFoot,23343,Darmstadt,FC Heidenheim,0,1,2024-04-28 17:30:00,Tim Skarke,Pass
+577648,26,MissedShots,0.84,0.6559999847412109,0.0480724535882473,Fabian Nürnberger,h,11915,OpenPlay,2023,LeftFoot,23343,Darmstadt,FC Heidenheim,0,1,2024-04-28 17:30:00,Luca Pfeiffer,Pass
+577661,65,SavedShot,0.7230000305175781,0.515,0.051165297627449036,Fabian Nürnberger,h,11915,DirectFreekick,2023,LeftFoot,23343,Darmstadt,FC Heidenheim,0,1,2024-04-28 17:30:00,,Standard
+578312,44,SavedShot,0.7680000305175781,0.4379999923706055,0.08193959295749664,Fabian Nürnberger,a,11915,DirectFreekick,2023,LeftFoot,23347,Wolfsburg,Darmstadt,3,0,2024-05-04 13:30:00,,Standard
+580386,41,BlockedShot,0.7680000305175781,0.5620000076293945,0.027990439906716347,Fabian Nürnberger,h,11915,OpenPlay,2023,RightFoot,23361,Darmstadt,Hoffenheim,0,6,2024-05-12 13:30:00,Julian Justvan,Pass
+580390,49,BlockedShot,0.855,0.5740000152587891,0.07399716973304749,Fabian Nürnberger,h,11915,OpenPlay,2023,RightFoot,23361,Darmstadt,Hoffenheim,0,6,2024-05-12 13:30:00,Tim Skarke,Pass

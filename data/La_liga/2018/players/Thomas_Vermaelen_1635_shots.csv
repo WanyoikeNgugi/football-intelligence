@@ -1,0 +1,10 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+36903,34,MissedShots,0.74,0.700999984741211,0.014312700368463993,Thomas Vermaelen,h,1635,OpenPlay,2014,LeftFoot,5496,Barcelona,Deportivo La Coruna,2,2,2015-05-23 17:30:00,,Rebound
+84299,29,SavedShot,0.8819999694824219,0.41,0.013008000329136848,Thomas Vermaelen,h,1635,FromCorner,2015,Head,1411,Barcelona,Malaga,1,0,2015-08-29 22:30:00,Neymar,Aerial
+84306,52,SavedShot,0.88,0.5670000076293945,0.04781470075249672,Thomas Vermaelen,h,1635,FromCorner,2015,RightFoot,1411,Barcelona,Malaga,1,0,2015-08-29 22:30:00,Ivan Rakitic,Cross
+84315,72,Goal,0.89,0.485,0.4421060085296631,Thomas Vermaelen,h,1635,FromCorner,2015,LeftFoot,1411,Barcelona,Malaga,1,0,2015-08-29 22:30:00,,None
+171665,51,MissedShots,0.9480000305175781,0.4490000152587891,0.07169920206069946,Thomas Vermaelen,a,1635,FromCorner,2017,Head,8008,Valencia,Barcelona,1,1,2017-11-26 19:45:00,Ivan Rakitic,Aerial
+187011,40,SavedShot,0.9059999847412109,0.435,0.06262350082397461,Thomas Vermaelen,h,1635,FromCorner,2017,Head,8055,Barcelona,Levante,3,0,2018-01-07 15:15:00,Andrés Iniesta,Cross
+197683,81,SavedShot,0.9290000152587891,0.46,0.06434469670057297,Thomas Vermaelen,h,1635,FromCorner,2017,Head,8122,Barcelona,Girona,6,1,2018-02-24 19:45:00,Luis Suárez,HeadPass
+260212,9,MissedShots,0.9119999694824219,0.5540000152587891,0.027380099520087242,Thomas Vermaelen,a,1635,FromCorner,2018,Head,10110,Levante,Barcelona,0,5,2018-12-16 19:45:00,Lionel Messi,Aerial
+280870,46,MissedShots,0.8569999694824219,0.4809999847412109,0.06714580208063126,Thomas Vermaelen,h,1635,FromCorner,2018,LeftFoot,10167,Barcelona,Valencia,2,2,2019-02-02 17:30:00,,None

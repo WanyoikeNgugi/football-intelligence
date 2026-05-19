@@ -1,0 +1,12 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+103890,22,MissedShots,0.7219999694824218,0.6759999847412109,0.010069499723613262,Diallo Guidileye,a,5641,OpenPlay,2016,RightFoot,2283,Lorient,Nancy,0,2,2016-09-10 22:00:00,Antony Robic,LayOff
+103740,13,MissedShots,0.9059999847412109,0.32599998474121095,0.07398080080747604,Diallo Guidileye,h,5641,OpenPlay,2016,RightFoot,2291,Nancy,Nantes,1,1,2016-09-17 22:00:00,Antony Robic,Pass
+106605,9,BlockedShot,0.759000015258789,0.5179999923706055,0.023148899897933006,Diallo Guidileye,h,5641,OpenPlay,2016,LeftFoot,4110,Nancy,SC Bastia,1,0,2017-01-14 23:00:00,,None
+106615,51,BlockedShot,0.7169999694824218,0.54,0.015429499559104443,Diallo Guidileye,h,5641,OpenPlay,2016,RightFoot,4110,Nancy,SC Bastia,1,0,2017-01-14 23:00:00,Vincent Muratori,Pass
+106620,62,MissedShots,0.7380000305175781,0.52,0.015992099419236183,Diallo Guidileye,h,5641,FromCorner,2016,RightFoot,4110,Nancy,SC Bastia,1,0,2017-01-14 23:00:00,,None
+106071,75,BlockedShot,0.710999984741211,0.4809999847412109,0.01532789971679449,Diallo Guidileye,h,5641,OpenPlay,2016,RightFoot,4129,Nancy,Bordeaux,0,2,2017-01-28 22:00:00,Junior Dalé,Pass
+108408,40,MissedShots,0.805,0.43099998474121093,0.042895298451185226,Diallo Guidileye,a,5641,OpenPlay,2016,RightFoot,4149,Lyon,Nancy,4,0,2017-02-08 21:00:00,Youssef Ait Bennasser,TakeOn
+108613,11,MissedShots,0.8219999694824218,0.3509999847412109,0.04377619922161102,Diallo Guidileye,h,5641,OpenPlay,2016,LeftFoot,4155,Nancy,Montpellier,0,3,2017-02-11 19:00:00,Julien Cetout,TakeOn
+109699,71,MissedShots,0.5359999847412109,0.5779999923706055,0.009112659841775894,Diallo Guidileye,h,5641,OpenPlay,2016,RightFoot,4225,Nancy,Rennes,3,0,2017-04-08 19:00:00,Vincent Muratori,BallRecovery
+111742,11,BlockedShot,0.865,0.34200000762939453,0.05293779820203781,Diallo Guidileye,h,5641,OpenPlay,2016,RightFoot,4245,Nancy,Marseille,0,0,2017-04-21 19:45:00,,None
+111178,68,BlockedShot,0.7080000305175781,0.39,0.010876299813389778,Diallo Guidileye,h,5641,OpenPlay,2016,RightFoot,4265,Nancy,Monaco,0,3,2017-05-06 19:00:00,Amine Bassi,Pass

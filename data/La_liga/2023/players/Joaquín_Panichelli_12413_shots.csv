@@ -1,0 +1,68 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+571501,77,MissedShots,0.9319999694824219,0.495,0.0676087811589241,Joaquín Panichelli,h,12413,OpenPlay,2023,Head,22980,Alaves,Real Sociedad,0,1,2024-03-31 17:30:00,Abderrahmane Rebbach,Aerial
+574331,49,SavedShot,0.8490000152587891,0.28200000762939453,0.028908411040902138,Joaquín Panichelli,a,12413,OpenPlay,2023,RightFoot,22994,Granada,Alaves,2,0,2024-04-14 14:15:00,Alex Sola,Pass
+574332,52,MissedShots,0.7730000305175782,0.47,0.032534465193748474,Joaquín Panichelli,a,12413,OpenPlay,2023,LeftFoot,22994,Granada,Alaves,2,0,2024-04-14 14:15:00,Abderrahmane Rebbach,Pass
+574333,57,BlockedShot,0.7469999694824219,0.3729999923706055,0.01865638978779316,Joaquín Panichelli,a,12413,OpenPlay,2023,RightFoot,22994,Granada,Alaves,2,0,2024-04-14 14:15:00,Nahuel Tenaglia,Pass
+576924,95,MissedShots,0.9269999694824219,0.3890000152587891,0.020621592178940773,Joaquín Panichelli,h,12413,OpenPlay,2023,Head,23010,Alaves,Celta Vigo,3,0,2024-04-27 16:30:00,Alex Sola,Aerial
+581006,88,SavedShot,0.7969999694824219,0.505,0.032266274094581604,Joaquín Panichelli,a,12413,OpenPlay,2023,RightFoot,23044,Real Madrid,Alaves,5,0,2024-05-14 19:30:00,,TakeOn
+583452,39,MissedShots,0.9430000305175781,0.53,0.07345159351825714,Joaquín Panichelli,a,12413,OpenPlay,2023,Head,23064,Las Palmas,Alaves,1,1,2024-05-26 14:15:00,Carlos Vicente,BallTouch
+583459,61,MissedShots,0.7930000305175782,0.40299999237060546,0.0727585181593895,Joaquín Panichelli,a,12413,OpenPlay,2023,RightFoot,23064,Las Palmas,Alaves,1,1,2024-05-26 14:15:00,,TakeOn
+583460,66,BlockedShot,0.8830000305175781,0.315,0.07076504081487656,Joaquín Panichelli,a,12413,OpenPlay,2023,RightFoot,23064,Las Palmas,Alaves,1,1,2024-05-26 14:15:00,Carlos Vicente,Pass
+638221,85,Goal,0.914000015258789,0.48400001525878905,0.33359575271606445,Joaquín Panichelli,a,12413,OpenPlay,2025,Head,29545,Metz,Strasbourg,0,1,2025-08-17 15:15:00,Dilane Bakwa,Chipped
+639422,18,MissedShots,0.93,0.46299999237060546,0.05426561459898949,Joaquín Panichelli,h,12413,FromCorner,2025,Head,29552,Strasbourg,Nantes,1,0,2025-08-24 15:15:00,Felix Lemarechal,Aerial
+639431,62,MissedShots,0.9019999694824219,0.46599998474121096,0.08628855645656586,Joaquín Panichelli,h,12413,OpenPlay,2025,Head,29552,Strasbourg,Nantes,1,0,2025-08-24 15:15:00,Samir El Mourabet,Cross
+640922,37,MissedShots,0.8919999694824219,0.46,0.04869963228702545,Joaquín Panichelli,a,12413,FromCorner,2025,Head,29563,Monaco,Strasbourg,3,2,2025-08-31 15:15:00,Felix Lemarechal,Cross
+640930,75,Goal,0.885,0.5,0.7600951194763184,Joaquín Panichelli,a,12413,Penalty,2025,RightFoot,29563,Monaco,Strasbourg,3,2,2025-08-31 15:15:00,,Standard
+642413,47,SavedShot,0.8919999694824219,0.34,0.3276943564414978,Joaquín Panichelli,h,12413,OpenPlay,2025,RightFoot,29573,Strasbourg,Le Havre,1,0,2025-09-14 15:15:00,Samuel Amo-Ameyaw,Throughball
+642419,79,BlockedShot,0.9230000305175782,0.5929999923706055,0.050556622445583344,Joaquín Panichelli,h,12413,FromCorner,2025,Head,29573,Strasbourg,Le Havre,1,0,2025-09-14 15:15:00,Samuel Amo-Ameyaw,Cross
+642422,90,Goal,0.885,0.5,0.7600951194763184,Joaquín Panichelli,h,12413,Penalty,2025,RightFoot,29573,Strasbourg,Le Havre,1,0,2025-09-14 15:15:00,,Standard
+644413,71,BlockedShot,0.865,0.435,0.08770547062158585,Joaquín Panichelli,h,12413,OpenPlay,2025,LeftFoot,29590,Strasbourg,Marseille,1,2,2025-09-26 18:45:00,Diego Moreira,Chipped
+644414,72,MissedShots,0.904000015258789,0.5320000076293945,0.056596532464027405,Joaquín Panichelli,h,12413,OpenPlay,2025,Head,29590,Strasbourg,Marseille,1,2,2025-09-26 18:45:00,Guela Doué,Aerial
+644418,88,MissedShots,0.8769999694824219,0.465,0.07998653501272202,Joaquín Panichelli,h,12413,FromCorner,2025,LeftFoot,29590,Strasbourg,Marseille,1,2,2025-09-26 18:45:00,,None
+644421,92,MissedShots,0.970999984741211,0.6029999923706054,0.14405857026576996,Joaquín Panichelli,h,12413,OpenPlay,2025,Head,29590,Strasbourg,Marseille,1,2,2025-09-26 18:45:00,Guemissongui Ouattara,Cross
+646897,25,SavedShot,0.9059999847412109,0.49200000762939455,0.47303134202957153,Joaquín Panichelli,h,12413,OpenPlay,2025,LeftFoot,29600,Strasbourg,Angers,5,0,2025-10-05 15:15:00,Valentín Barco,Throughball
+646898,26,SavedShot,0.8969999694824219,0.63,0.34501323103904724,Joaquín Panichelli,h,12413,OpenPlay,2025,RightFoot,29600,Strasbourg,Angers,5,0,2025-10-05 15:15:00,Samir El Mourabet,Pass
+646903,35,Goal,0.8580000305175781,0.44400001525878907,0.3584898114204407,Joaquín Panichelli,h,12413,OpenPlay,2025,RightFoot,29600,Strasbourg,Angers,5,0,2025-10-05 15:15:00,Valentín Barco,Throughball
+646904,42,MissedShots,0.8909999847412109,0.5320000076293945,0.07533851265907288,Joaquín Panichelli,h,12413,SetPiece,2025,Head,29600,Strasbourg,Angers,5,0,2025-10-05 15:15:00,Valentín Barco,Cross
+646908,50,Goal,0.9159999847412109,0.4779999923706055,0.38622742891311646,Joaquín Panichelli,h,12413,OpenPlay,2025,RightFoot,29600,Strasbourg,Angers,5,0,2025-10-05 15:15:00,Felix Lemarechal,Cross
+646914,69,SavedShot,0.8090000152587891,0.519000015258789,0.06720427423715591,Joaquín Panichelli,h,12413,OpenPlay,2025,RightFoot,29600,Strasbourg,Angers,5,0,2025-10-05 15:15:00,,BallRecovery
+647161,10,SavedShot,0.9340000152587891,0.509000015258789,0.5028417110443115,Joaquín Panichelli,a,12413,OpenPlay,2025,LeftFoot,29608,Paris Saint Germain,Strasbourg,3,3,2025-10-17 18:45:00,Diego Moreira,Cross
+647164,21,BlockedShot,0.88,0.4329999923706055,0.08754384517669678,Joaquín Panichelli,a,12413,OpenPlay,2025,RightFoot,29608,Paris Saint Germain,Strasbourg,3,3,2025-10-17 18:45:00,Julio Enciso,Pass
+647168,25,Goal,0.9019999694824219,0.549000015258789,0.03236619755625725,Joaquín Panichelli,a,12413,OpenPlay,2025,Head,29608,Paris Saint Germain,Strasbourg,3,3,2025-10-17 18:45:00,Guela Doué,Aerial
+647174,48,Goal,0.895,0.5279999923706055,0.43457719683647156,Joaquín Panichelli,a,12413,OpenPlay,2025,RightFoot,29608,Paris Saint Germain,Strasbourg,3,3,2025-10-17 18:45:00,Diego Moreira,Pass
+647188,84,MissedShots,0.904000015258789,0.4540000152587891,0.04241777956485748,Joaquín Panichelli,a,12413,OpenPlay,2025,Head,29608,Paris Saint Germain,Strasbourg,3,3,2025-10-17 18:45:00,Martial Godo,Chipped
+649944,24,Goal,0.93,0.4809999847412109,0.46391043066978455,Joaquín Panichelli,a,12413,OpenPlay,2025,Head,29616,Lyon,Strasbourg,2,1,2025-10-26 18:45:00,Guela Doué,Aerial
+650468,8,MissedShots,0.9019999694824219,0.42700000762939455,0.12527059018611908,Joaquín Panichelli,h,12413,OpenPlay,2025,RightFoot,29627,Strasbourg,Auxerre,3,0,2025-10-29 19:05:00,Valentín Barco,Throughball
+650470,18,MissedShots,0.914000015258789,0.509000015258789,0.4820403754711151,Joaquín Panichelli,h,12413,OpenPlay,2025,RightFoot,29627,Strasbourg,Auxerre,3,0,2025-10-29 19:05:00,Diego Moreira,Pass
+650472,20,SavedShot,0.93,0.5359999847412109,0.5354753732681274,Joaquín Panichelli,h,12413,OpenPlay,2025,LeftFoot,29627,Strasbourg,Auxerre,3,0,2025-10-29 19:05:00,,Rebound
+650473,20,SavedShot,0.945,0.5229999923706055,0.15779182314872742,Joaquín Panichelli,h,12413,OpenPlay,2025,RightFoot,29627,Strasbourg,Auxerre,3,0,2025-10-29 19:05:00,,Rebound
+650479,45,Goal,0.970999984741211,0.4829999923706055,0.6780437231063843,Joaquín Panichelli,h,12413,OpenPlay,2025,RightFoot,29627,Strasbourg,Auxerre,3,0,2025-10-29 19:05:00,Sebastian Nanasi,None
+651420,45,BlockedShot,0.8369999694824218,0.5109999847412109,0.06418979167938232,Joaquín Panichelli,a,12413,OpenPlay,2025,RightFoot,29635,Rennes,Strasbourg,4,1,2025-11-02 14:00:00,Samir El Mourabet,BallTouch
+651433,80,MissedShots,0.9069999694824219,0.485,0.029600856825709343,Joaquín Panichelli,a,12413,FromCorner,2025,Head,29635,Rennes,Strasbourg,4,1,2025-11-02 14:00:00,Valentín Barco,Aerial
+655856,4,MissedShots,0.9069999694824219,0.46099998474121096,0.024801569059491158,Joaquín Panichelli,h,12413,FromCorner,2025,Head,29663,Strasbourg,Brest,1,2,2025-11-30 14:00:00,Julio Enciso,Aerial
+655859,27,ShotOnPost,0.8530000305175781,0.3290000152587891,0.054977256804704666,Joaquín Panichelli,h,12413,OpenPlay,2025,RightFoot,29663,Strasbourg,Brest,1,2,2025-11-30 14:00:00,Samir El Mourabet,Pass
+655863,45,SavedShot,0.9080000305175782,0.525,0.1301479935646057,Joaquín Panichelli,h,12413,OpenPlay,2025,RightFoot,29663,Strasbourg,Brest,1,2,2025-11-30 14:00:00,Kendry Páez,BallTouch
+658780,32,BlockedShot,0.9169999694824219,0.485,0.06541326642036438,Joaquín Panichelli,h,12413,OpenPlay,2025,Head,29680,Strasbourg,Lorient,0,0,2025-12-14 16:15:00,Samuel Amo-Ameyaw,Aerial
+658783,40,MissedShots,0.9080000305175782,0.45099998474121095,0.02267523668706417,Joaquín Panichelli,h,12413,FromCorner,2025,Head,29680,Strasbourg,Lorient,0,0,2025-12-14 16:15:00,Valentín Barco,Aerial
+658786,46,BlockedShot,0.98,0.5890000152587891,0.40628689527511597,Joaquín Panichelli,h,12413,OpenPlay,2025,Head,29680,Strasbourg,Lorient,0,0,2025-12-14 16:15:00,Julio Enciso,Aerial
+658790,80,MissedShots,0.9230000305175782,0.43200000762939456,0.04936066269874573,Joaquín Panichelli,h,12413,OpenPlay,2025,Head,29680,Strasbourg,Lorient,0,0,2025-12-14 16:15:00,Ismaël Doukouré,Aerial
+658794,97,MissedShots,0.924000015258789,0.5359999847412109,0.060302939265966415,Joaquín Panichelli,h,12413,OpenPlay,2025,Head,29680,Strasbourg,Lorient,0,0,2025-12-14 16:15:00,Kendry Páez,Aerial
+661145,12,Goal,0.885,0.5,0.7600951194763184,Joaquín Panichelli,a,12413,Penalty,2025,RightFoot,29688,Nice,Strasbourg,1,1,2026-01-03 18:00:00,,Standard
+664053,32,SavedShot,0.9109999847412109,0.34599998474121096,0.06178170070052147,Joaquín Panichelli,h,12413,OpenPlay,2025,RightFoot,29698,Strasbourg,Metz,2,1,2026-01-18 14:00:00,Samir El Mourabet,Chipped
+665533,24,Goal,0.924000015258789,0.4540000152587891,0.3721420168876648,Joaquín Panichelli,a,12413,OpenPlay,2025,LeftFoot,29703,Lille,Strasbourg,1,4,2026-01-25 19:45:00,Guela Doué,Cross
+665542,39,ShotOnPost,0.905,0.53,0.11020475625991821,Joaquín Panichelli,a,12413,OpenPlay,2025,Head,29703,Lille,Strasbourg,1,4,2026-01-25 19:45:00,Martial Godo,Cross
+665543,41,BlockedShot,0.8530000305175781,0.35,0.10908357053995132,Joaquín Panichelli,a,12413,OpenPlay,2025,RightFoot,29703,Lille,Strasbourg,1,4,2026-01-25 19:45:00,Julio Enciso,Pass
+666785,19,SavedShot,0.885,0.5,0.7600951194763184,Joaquín Panichelli,h,12413,Penalty,2025,RightFoot,29716,Strasbourg,Paris Saint Germain,1,2,2026-02-01 19:45:00,,Standard
+668767,39,MissedShots,0.86,0.34,0.05257060006260872,Joaquín Panichelli,a,12413,OpenPlay,2025,RightFoot,29731,Marseille,Strasbourg,2,2,2026-02-14 16:00:00,Diego Moreira,Pass
+668781,92,MissedShots,0.970999984741211,0.40599998474121096,0.2661224901676178,Joaquín Panichelli,a,12413,OpenPlay,2025,Head,29731,Marseille,Strasbourg,2,2,2026-02-14 16:00:00,Guemissongui Ouattara,Cross
+668782,96,Goal,0.885,0.5,0.7600951194763184,Joaquín Panichelli,a,12413,Penalty,2025,RightFoot,29731,Marseille,Strasbourg,2,2,2026-02-14 16:00:00,,Standard
+670472,5,SavedShot,0.840999984741211,0.49599998474121093,0.08839984983205795,Joaquín Panichelli,h,12413,OpenPlay,2025,RightFoot,29743,Strasbourg,Lyon,3,1,2026-02-22 19:45:00,Julio Enciso,Pass
+670476,23,SavedShot,0.9009999847412109,0.5940000152587891,0.03251092880964279,Joaquín Panichelli,h,12413,OpenPlay,2025,Head,29743,Strasbourg,Lyon,3,1,2026-02-22 19:45:00,Guela Doué,Aerial
+670485,66,MissedShots,0.76,0.6,0.03248416259884834,Joaquín Panichelli,h,12413,OpenPlay,2025,RightFoot,29743,Strasbourg,Lyon,3,1,2026-02-22 19:45:00,Samir El Mourabet,BallRecovery
+670488,82,Goal,0.885,0.5,0.7600951194763184,Joaquín Panichelli,h,12413,Penalty,2025,RightFoot,29743,Strasbourg,Lyon,3,1,2026-02-22 19:45:00,,Standard
+670707,11,BlockedShot,0.9769999694824218,0.6170000076293946,0.020277949050068855,Joaquín Panichelli,h,12413,FromCorner,2025,Head,29753,Strasbourg,Lens,1,1,2026-02-27 19:45:00,Valentín Barco,Cross
+670708,17,Goal,0.8130000305175781,0.6980000305175781,0.3063466250896454,Joaquín Panichelli,h,12413,OpenPlay,2025,RightFoot,29753,Strasbourg,Lens,1,1,2026-02-27 19:45:00,,None
+672865,88,BlockedShot,0.8809999847412109,0.3970000076293945,0.10058891028165817,Joaquín Panichelli,a,12413,OpenPlay,2025,RightFoot,29754,Auxerre,Strasbourg,0,0,2026-03-07 18:00:00,Julio Enciso,Pass
+674480,56,SavedShot,0.88,0.509000015258789,0.11904134601354599,Joaquín Panichelli,h,12413,OpenPlay,2025,RightFoot,29771,Strasbourg,Paris FC,0,0,2026-03-15 14:00:00,Valentín Barco,Pass
+676223,77,Goal,0.9359999847412109,0.415,0.4683762192726135,Joaquín Panichelli,a,12413,OpenPlay,2025,RightFoot,29776,Nantes,Strasbourg,2,3,2026-03-22 19:45:00,Gessime Yassine,Pass
+676228,91,Goal,0.9490000152587891,0.5079999923706054,0.5907015204429626,Joaquín Panichelli,a,12413,SetPiece,2025,LeftFoot,29776,Nantes,Strasbourg,2,3,2026-03-22 19:45:00,,None

@@ -1,0 +1,25 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+24457,19,BlockedShot,0.6719999694824219,0.6580000305175782,0.028216399252414703,Ronny,h,381,DirectFreekick,2014,LeftFoot,5450,Hertha Berlin,Werder Bremen,2,2,2014-08-23 14:30:00,,Standard
+24458,19,SavedShot,0.9380000305175781,0.7019999694824218,0.04069250077009201,Ronny,h,381,FromCorner,2014,RightFoot,5450,Hertha Berlin,Werder Bremen,2,2,2014-08-23 14:30:00,Genki Haraguchi,TakeOn
+24463,24,MissedShots,0.7619999694824219,0.7,0.02582000009715557,Ronny,h,381,OpenPlay,2014,LeftFoot,5450,Hertha Berlin,Werder Bremen,2,2,2014-08-23 14:30:00,Genki Haraguchi,Pass
+24474,61,MissedShots,0.8109999847412109,0.6170000076293946,0.11817099899053574,Ronny,h,381,DirectFreekick,2014,LeftFoot,5450,Hertha Berlin,Werder Bremen,2,2,2014-08-23 14:30:00,,Standard
+24975,55,BlockedShot,0.6919999694824219,0.4,0.035120900720357895,Ronny,h,381,DirectFreekick,2014,LeftFoot,5415,Hertha Berlin,Mainz 05,1,3,2014-09-13 14:30:00,,Standard
+24979,85,Goal,0.885,0.5,0.7577769756317139,Ronny,h,381,Penalty,2014,LeftFoot,5415,Hertha Berlin,Mainz 05,1,3,2014-09-13 14:30:00,,Standard
+25138,12,MissedShots,0.7040000152587891,0.10699999809265137,0.022270699962973595,Ronny,a,381,DirectFreekick,2014,LeftFoot,5420,Freiburg,Hertha Berlin,2,2,2014-09-19 19:30:00,,Standard
+25139,14,BlockedShot,0.75,0.4179999923706055,0.02020839974284172,Ronny,a,381,OpenPlay,2014,LeftFoot,5420,Freiburg,Hertha Berlin,2,2,2014-09-19 19:30:00,Roy Beerens,Pass
+25143,35,Goal,0.7340000152587891,0.505,0.05782319977879524,Ronny,a,381,DirectFreekick,2014,LeftFoot,5420,Freiburg,Hertha Berlin,2,2,2014-09-19 19:30:00,,Standard
+25158,95,Goal,0.7530000305175781,0.49700000762939456,0.0719505026936531,Ronny,a,381,DirectFreekick,2014,LeftFoot,5420,Freiburg,Hertha Berlin,2,2,2014-09-19 19:30:00,,Standard
+25569,1,SavedShot,0.7619999694824219,0.5059999847412109,0.02570750005543232,Ronny,a,381,OpenPlay,2014,LeftFoot,5445,Augsburg,Hertha Berlin,1,0,2014-09-28 14:30:00,Genki Haraguchi,Pass
+25581,77,BlockedShot,0.7480000305175781,0.49700000762939456,0.024267200380563736,Ronny,a,381,OpenPlay,2014,LeftFoot,5445,Augsburg,Hertha Berlin,1,0,2014-09-28 14:30:00,Marcel Ndjeng,Pass
+25585,94,BlockedShot,0.750999984741211,0.18200000762939453,0.031009899452328682,Ronny,a,381,DirectFreekick,2014,LeftFoot,5445,Augsburg,Hertha Berlin,1,0,2014-09-28 14:30:00,,Standard
+26689,86,MissedShots,0.7380000305175781,0.41,0.01286260038614273,Ronny,a,381,OpenPlay,2014,LeftFoot,5355,Paderborn,Hertha Berlin,3,1,2014-11-02 16:30:00,Per Skjelbred,TakeOn
+27128,70,SavedShot,0.6769999694824219,0.525,0.032910801470279694,Ronny,h,381,DirectFreekick,2014,LeftFoot,5378,Hertha Berlin,Bayern Munich,0,1,2014-11-29 14:30:00,,Standard
+27282,45,BlockedShot,0.6980000305175781,0.42900001525878906,0.018450800329446793,Ronny,a,381,OpenPlay,2014,LeftFoot,5313,Borussia M.Gladbach,Hertha Berlin,3,2,2014-12-06 14:30:00,Peter Pekarík,Pass
+27286,62,MissedShots,0.7290000152587891,0.34,0.01499130018055439,Ronny,a,381,OpenPlay,2014,LeftFoot,5313,Borussia M.Gladbach,Hertha Berlin,3,2,2014-12-06 14:30:00,Peter Pekarík,Pass
+27287,70,BlockedShot,0.7190000152587891,0.4929999923706055,0.0491085983812809,Ronny,a,381,DirectFreekick,2014,LeftFoot,5313,Borussia M.Gladbach,Hertha Berlin,3,2,2014-12-06 14:30:00,,Standard
+28147,25,MissedShots,0.754000015258789,0.325,0.05223440006375313,Ronny,h,381,DirectFreekick,2014,LeftFoot,5322,Hertha Berlin,Borussia Dortmund,1,0,2014-12-13 14:30:00,,Standard
+28244,51,BlockedShot,0.85,0.57,0.05453690141439438,Ronny,h,381,OpenPlay,2014,RightFoot,5346,Hertha Berlin,Hoffenheim,0,5,2014-12-21 14:30:00,,None
+28854,89,BlockedShot,0.7019999694824218,0.44799999237060545,0.04043319821357727,Ronny,h,381,DirectFreekick,2014,LeftFoot,5269,Hertha Berlin,Bayer Leverkusen,0,1,2015-02-04 19:00:00,,Standard
+30613,84,SavedShot,0.7819999694824219,0.9440000152587891,0.024495799094438553,Ronny,h,381,DirectFreekick,2014,LeftFoot,5183,Hertha Berlin,Eintracht Frankfurt,0,0,2015-05-16 14:30:00,,Standard
+78617,64,MissedShots,0.779000015258789,0.44799999237060545,0.02184309996664524,Ronny,h,381,OpenPlay,2015,LeftFoot,1113,Hertha Berlin,Borussia M.Gladbach,1,4,2015-10-31 18:30:00,Vladimir Darida,HeadPass
+78618,78,SavedShot,0.7819999694824219,0.66,0.023581799119710922,Ronny,h,381,OpenPlay,2015,LeftFoot,1113,Hertha Berlin,Borussia M.Gladbach,1,4,2015-10-31 18:30:00,Genki Haraguchi,Pass

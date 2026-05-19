@@ -1,0 +1,25 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+320744,85,MissedShots,0.7380000305175781,0.6730000305175782,0.015646200627088547,Cristian Battocchio,a,7734,SetPiece,2019,RightFoot,12762,Bordeaux,Brest,2,2,2019-09-21 18:00:00,Yoann Court,Pass
+325899,8,BlockedShot,0.86,0.3970000076293945,0.04996329918503761,Cristian Battocchio,a,7734,FromCorner,2019,RightFoot,12800,Angers,Brest,0,1,2019-10-19 19:00:00,Mathias Autret,Pass
+334794,38,MissedShots,0.7809999847412109,0.29399999618530276,0.05795060098171234,Cristian Battocchio,h,7734,DirectFreekick,2019,RightFoot,12866,Brest,Strasbourg,5,0,2019-12-03 18:00:00,,Standard
+334798,44,BlockedShot,0.8540000152587891,0.6940000152587891,0.031689200550317764,Cristian Battocchio,h,7734,FromCorner,2019,RightFoot,12866,Brest,Strasbourg,5,0,2019-12-03 18:00:00,Irvin Cardona,Pass
+334799,45,Goal,0.805,0.8280000305175781,0.01643110066652298,Cristian Battocchio,h,7734,OpenPlay,2019,RightFoot,12866,Brest,Strasbourg,5,0,2019-12-03 18:00:00,Gaëtan Charbonnier,Pass
+334803,52,Goal,0.7630000305175781,0.325,0.02005380019545555,Cristian Battocchio,h,7734,OpenPlay,2019,RightFoot,12866,Brest,Strasbourg,5,0,2019-12-03 18:00:00,Irvin Cardona,BallRecovery
+334806,64,MissedShots,0.899000015258789,0.6819999694824219,0.06189490109682083,Cristian Battocchio,h,7734,OpenPlay,2019,LeftFoot,12866,Brest,Strasbourg,5,0,2019-12-03 18:00:00,,None
+334808,74,Goal,0.874000015258789,0.4779999923706055,0.4304499924182892,Cristian Battocchio,h,7734,OpenPlay,2019,RightFoot,12866,Brest,Strasbourg,5,0,2019-12-03 18:00:00,Mathias Autret,Pass
+335271,28,BlockedShot,0.7040000152587891,0.629000015258789,0.013554999604821205,Cristian Battocchio,a,7734,OpenPlay,2019,RightFoot,12878,Lille,Brest,1,0,2019-12-06 18:00:00,Alexandre Mendy,Pass
+337230,30,BlockedShot,0.7440000152587891,0.7290000152587891,0.039084598422050476,Cristian Battocchio,h,7734,DirectFreekick,2019,RightFoot,12888,Brest,Nice,0,0,2019-12-14 19:00:00,,Standard
+337246,77,BlockedShot,0.8069999694824219,0.25799999237060545,0.019104300066828728,Cristian Battocchio,h,7734,FromCorner,2019,LeftFoot,12888,Brest,Nice,0,0,2019-12-14 19:00:00,Mathias Autret,Pass
+337253,93,BlockedShot,0.720999984741211,0.4370000076293945,0.04732130095362663,Cristian Battocchio,h,7734,DirectFreekick,2019,RightFoot,12888,Brest,Nice,0,0,2019-12-14 19:00:00,,Standard
+339061,24,SavedShot,0.6819999694824219,0.4490000152587891,0.011115199886262417,Cristian Battocchio,a,7734,OpenPlay,2019,RightFoot,12889,Montpellier,Brest,4,0,2019-12-21 19:45:00,,Dispossessed
+354233,60,SavedShot,0.730999984741211,0.5540000152587891,0.01926420070230961,Cristian Battocchio,a,7734,OpenPlay,2019,RightFoot,12899,Toulouse,Brest,2,5,2020-01-11 19:00:00,Ludovic Baal,Pass
+354243,91,SavedShot,0.769000015258789,0.5509999847412109,0.08283379673957825,Cristian Battocchio,a,7734,DirectFreekick,2019,RightFoot,12899,Toulouse,Brest,2,5,2020-01-11 19:00:00,,Standard
+356845,25,MissedShots,0.7390000152587891,0.625,0.01361829973757267,Cristian Battocchio,a,7734,OpenPlay,2019,RightFoot,12921,Dijon,Brest,3,0,2020-02-01 19:00:00,Gaëtan Charbonnier,BallTouch
+357713,43,SavedShot,0.885,0.5,0.7600950002670288,Cristian Battocchio,h,7734,Penalty,2019,RightFoot,12938,Brest,Bordeaux,1,1,2020-02-05 18:00:00,,Standard
+357721,58,MissedShots,0.7190000152587891,0.3820000076293945,0.013392000459134579,Cristian Battocchio,h,7734,FromCorner,2019,RightFoot,12938,Brest,Bordeaux,1,1,2020-02-05 18:00:00,,None
+361013,45,MissedShots,0.6840000152587891,0.6759999847412109,0.011790500022470951,Cristian Battocchio,h,7734,OpenPlay,2019,RightFoot,12971,Brest,Angers,0,1,2020-02-29 19:00:00,Romain Perraud,Pass
+361958,77,BlockedShot,0.675,0.500999984741211,0.013068499974906445,Cristian Battocchio,a,7734,OpenPlay,2019,RightFoot,12988,Reims,Brest,1,0,2020-03-07 18:00:00,Brendan Chardonnet,Pass
+376770,50,MissedShots,0.7580000305175781,0.44,0.03097050078213215,Cristian Battocchio,a,7734,OpenPlay,2020,RightFoot,14196,Dijon,Brest,0,2,2020-09-13 13:00:00,Ibrahima Diallo,Pass
+390754,78,MissedShots,0.7809999847412109,0.7630000305175781,0.014768700115382671,Cristian Battocchio,a,7734,OpenPlay,2020,RightFoot,15877,Bordeaux,Brest,1,0,2020-12-06 14:00:00,Gaëtan Charbonnier,Pass
+393314,2,MissedShots,0.8830000305175781,0.6370000076293946,0.2759590148925781,Cristian Battocchio,a,7734,OpenPlay,2020,RightFoot,15900,Lyon,Brest,2,2,2020-12-16 20:00:00,Franck Honorat,Pass
+393339,66,SavedShot,0.7919999694824219,0.6909999847412109,0.02200940065085888,Cristian Battocchio,a,7734,FromCorner,2020,RightFoot,15900,Lyon,Brest,2,2,2020-12-16 20:00:00,Romain Faivre,Pass

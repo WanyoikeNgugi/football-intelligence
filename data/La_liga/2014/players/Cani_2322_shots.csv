@@ -1,0 +1,12 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+33357,2,BlockedShot,0.775,0.54,0.03182680159807205,Cani,h,2322,OpenPlay,2014,RightFoot,5817,Villarreal,Real Madrid,0,2,2014-09-27 15:00:00,Ikechukwu Uche,Pass
+84177,11,MissedShots,0.774000015258789,0.3240000152587891,0.01710980013012886,Cani,h,2322,FromCorner,2015,LeftFoot,1400,Deportivo La Coruna,Real Sociedad,0,0,2015-08-22 20:30:00,,None
+88065,16,MissedShots,0.5659999847412109,0.051999998092651364,0.0063776299357414246,Cani,a,2322,OpenPlay,2015,RightFoot,1523,Las Palmas,Deportivo La Coruna,0,2,2015-11-29 01:00:00,,None
+89565,45,SavedShot,0.8419999694824218,0.53,0.059433698654174805,Cani,h,2322,OpenPlay,2015,LeftFoot,1617,Deportivo La Coruna,Rayo Vallecano,2,2,2016-02-01 23:30:00,,None
+89571,63,MissedShots,0.7380000305175781,0.9359999847412109,0.013117100112140179,Cani,h,2322,OpenPlay,2015,RightFoot,1617,Deportivo La Coruna,Rayo Vallecano,2,2,2016-02-01 23:30:00,Álex Bergantiños,Pass
+89354,10,SavedShot,0.7290000152587891,0.29100000381469726,0.013504499569535255,Cani,a,2322,OpenPlay,2015,RightFoot,1622,Sporting Gijon,Deportivo La Coruna,1,1,2016-02-07 01:05:00,Pedro Mosquera,Pass
+89718,8,BlockedShot,0.755,0.45799999237060546,0.02323940023779869,Cani,h,2322,OpenPlay,2015,RightFoot,1632,Deportivo La Coruna,Real Betis,2,2,2016-02-14 01:05:00,Luis Alberto,Pass
+89722,24,SavedShot,0.7190000152587891,0.7269999694824218,0.011483299545943737,Cani,h,2322,OpenPlay,2015,RightFoot,1632,Deportivo La Coruna,Real Betis,2,2,2016-02-14 01:05:00,,BallRecovery
+89728,33,SavedShot,0.8780000305175781,0.6090000152587891,0.32379698753356934,Cani,h,2322,OpenPlay,2015,LeftFoot,1632,Deportivo La Coruna,Real Betis,2,2,2016-02-14 01:05:00,Lucas Pérez,HeadPass
+90710,62,SavedShot,0.9530000305175781,0.6840000152587891,0.010930799879133701,Cani,h,2322,OpenPlay,2015,Head,1693,Deportivo La Coruna,Levante,2,1,2016-03-19 23:30:00,Lucas Pérez,Cross
+91920,18,BlockedShot,0.7959999847412109,0.3160000038146973,0.022217899560928345,Cani,h,2322,OpenPlay,2015,RightFoot,1731,Deportivo La Coruna,Barcelona,0,8,2016-04-20 22:00:00,,None

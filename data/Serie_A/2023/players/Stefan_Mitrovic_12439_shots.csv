@@ -1,0 +1,8 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+571608,16,MissedShots,0.8819999694824219,0.6669999694824219,0.05470388010144234,Stefan Mitrovic,a,12439,OpenPlay,2023,RightFoot,22595,Cagliari,Verona,1,1,2024-04-01 14:00:00,Ondrej Duda,Chipped
+573087,88,BlockedShot,0.745999984741211,0.30700000762939456,0.011675837449729443,Stefan Mitrovic,h,12439,OpenPlay,2023,LeftFoot,22606,Verona,Genoa,1,2,2024-04-07 16:00:00,,TakeOn
+577040,12,MissedShots,0.985999984741211,0.62,0.0588967390358448,Stefan Mitrovic,a,12439,OpenPlay,2023,LeftFoot,22635,Lazio,Verona,1,0,2024-04-27 18:45:00,Karol Swiderski,Chipped
+583607,2,BlockedShot,0.855,0.27299999237060546,0.03196068853139877,Stefan Mitrovic,h,12439,OpenPlay,2023,RightFoot,22679,Verona,Inter,2,2,2024-05-26 18:45:00,Tijjani Noslin,Pass
+583609,12,SavedShot,0.94,0.5659999847412109,0.08896329998970032,Stefan Mitrovic,h,12439,SetPiece,2023,LeftFoot,22679,Verona,Inter,2,2,2024-05-26 18:45:00,,None
+583620,40,BlockedShot,0.915,0.2929999923706055,0.08946352452039719,Stefan Mitrovic,h,12439,OpenPlay,2023,RightFoot,22679,Verona,Inter,2,2,2024-05-26 18:45:00,Suat Serdar,Pass
+583626,61,BlockedShot,0.86,0.47,0.0723840594291687,Stefan Mitrovic,h,12439,OpenPlay,2023,RightFoot,22679,Verona,Inter,2,2,2024-05-26 18:45:00,Tomás Suslov,Cross

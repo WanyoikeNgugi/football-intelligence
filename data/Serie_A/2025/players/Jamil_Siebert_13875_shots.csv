@@ -1,0 +1,7 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+663141,72,SavedShot,0.8730000305175781,0.48400001525878905,0.0934482142329216,Jamil Siebert,a,13875,OpenPlay,2025,LeftFoot,29998,Inter,Lecce,1,0,2026-01-14 19:45:00,Mohamed Kaba,BallTouch
+663142,72,BlockedShot,0.8719999694824219,0.6419999694824219,0.06461935490369797,Jamil Siebert,a,13875,OpenPlay,2025,RightFoot,29998,Inter,Lecce,1,0,2026-01-14 19:45:00,Nikola Stulic,Pass
+665055,92,BlockedShot,0.915,0.56,0.023559212684631348,Jamil Siebert,h,13875,FromCorner,2025,Head,30060,Lecce,Lazio,0,0,2026-01-24 19:45:00,Riccardo Sottil,Aerial
+673965,2,Goal,0.9259999847412109,0.5570000076293945,0.2657075524330139,Jamil Siebert,a,13875,FromCorner,2025,Head,30128,Napoli,Lecce,2,1,2026-03-14 17:00:00,Antonino Gallo,Cross
+677315,55,BlockedShot,0.8630000305175781,0.5329999923706055,0.0180086437612772,Jamil Siebert,h,13875,FromCorner,2025,Head,30148,Lecce,Atalanta,0,3,2026-04-06 13:00:00,Lameck Banda,Cross
+677329,91,MissedShots,0.735,0.435,0.014425406232476234,Jamil Siebert,h,13875,OpenPlay,2025,LeftFoot,30148,Lecce,Atalanta,0,3,2026-04-06 13:00:00,Oumar Ngom,Pass

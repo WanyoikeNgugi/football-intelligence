@@ -1,0 +1,6 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+261610,7,Goal,0.9530000305175781,0.54,0.14233599603176117,Jakob Johansson,h,7207,SetPiece,2018,RightFoot,10768,Rennes,Nantes,1,1,2018-11-11 16:00:00,Clément Grenier,Rebound
+261615,19,MissedShots,0.7319999694824219,0.5579999923706055,0.013224899768829346,Jakob Johansson,h,7207,SetPiece,2018,RightFoot,10768,Rennes,Nantes,1,1,2018-11-11 16:00:00,,Rebound
+261849,79,MissedShots,0.7909999847412109,0.3509999847412109,0.020116399973630905,Jakob Johansson,a,7207,FromCorner,2018,RightFoot,10777,Montpellier,Rennes,2,2,2018-11-25 14:00:00,,None
+282360,42,MissedShots,0.7619999694824219,0.34700000762939454,0.012821500189602375,Jakob Johansson,a,7207,SetPiece,2018,RightFoot,10816,Guingamp,Rennes,2,1,2019-01-16 18:00:00,,None
+302974,63,SavedShot,0.7369999694824219,0.48400001525878905,0.01223399955779314,Jakob Johansson,a,7207,OpenPlay,2018,RightFoot,11011,Strasbourg,Rennes,0,2,2019-05-18 19:00:00,Clément Grenier,Chipped

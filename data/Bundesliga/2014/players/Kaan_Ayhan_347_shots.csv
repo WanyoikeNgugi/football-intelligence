@@ -1,0 +1,70 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+24442,43,MissedShots,0.6840000152587891,0.34599998474121096,0.011458500288426876,Kaan Ayhan,a,347,FromCorner,2014,RightFoot,5449,Hannover 96,Schalke 04,2,1,2014-08-23 14:30:00,,None
+24567,38,BlockedShot,0.7709999847412109,0.4640000152587891,0.08818980306386948,Kaan Ayhan,h,347,DirectFreekick,2014,RightFoot,5462,Schalke 04,Bayern Munich,1,1,2014-08-30 17:30:00,,Standard
+24568,40,MissedShots,0.5429999923706055,0.33599998474121096,0.00698055000975728,Kaan Ayhan,h,347,OpenPlay,2014,RightFoot,5462,Schalke 04,Bayern Munich,1,1,2014-08-30 17:30:00,,None
+27426,83,MissedShots,0.735,0.2979999923706055,0.014545300044119358,Kaan Ayhan,a,347,OpenPlay,2014,RightFoot,5315,VfB Stuttgart,Schalke 04,0,4,2014-12-06 14:30:00,Christian Clemens,Pass
+27888,30,OwnGoal,0.02700000047683716,0.5270000076293946,0,Kaan Ayhan,a,347,OpenPlay,2014,RightFoot,5338,Paderborn,Schalke 04,1,2,2014-12-17 19:00:00,,Challenge
+28949,92,BlockedShot,0.8059999847412109,0.6759999847412109,0.02308250032365322,Kaan Ayhan,h,347,SetPiece,2014,RightFoot,5293,Schalke 04,Werder Bremen,1,1,2015-02-21 14:30:00,Tranquillo Barnetta,Pass
+220068,62,BlockedShot,0.7480000305175781,0.4520000076293945,0.01717809960246086,Kaan Ayhan,h,347,FromCorner,2018,RightFoot,10339,Fortuna Duesseldorf,Augsburg,1,2,2018-08-25 16:30:00,,None
+223481,27,SavedShot,0.8980000305175782,0.5159999847412109,0.16822899878025055,Kaan Ayhan,h,347,SetPiece,2018,Head,10359,Fortuna Duesseldorf,Hoffenheim,2,1,2018-09-15 13:30:00,Marvin Ducksch,Cross
+224670,50,SavedShot,0.955,0.4570000076293945,0.5210279822349548,Kaan Ayhan,a,347,FromCorner,2018,RightFoot,10364,VfB Stuttgart,Fortuna Duesseldorf,0,0,2018-09-21 18:30:00,Marvin Ducksch,HeadPass
+224678,66,BlockedShot,0.635,0.49900001525878906,0.025299200788140297,Kaan Ayhan,a,347,DirectFreekick,2018,RightFoot,10364,VfB Stuttgart,Fortuna Duesseldorf,0,0,2018-09-21 18:30:00,,Standard
+224686,86,SavedShot,0.9180000305175782,0.5220000076293946,0.10066600143909454,Kaan Ayhan,a,347,FromCorner,2018,Head,10364,VfB Stuttgart,Fortuna Duesseldorf,0,0,2018-09-21 18:30:00,Niko Gießelmann,Cross
+226434,82,BlockedShot,0.7809999847412109,0.7140000152587891,0.05724089965224266,Kaan Ayhan,h,347,DirectFreekick,2018,RightFoot,10377,Fortuna Duesseldorf,Bayer Leverkusen,1,2,2018-09-26 16:30:00,,Standard
+227932,40,MissedShots,0.8959999847412109,0.5379999923706055,0.08392159640789032,Kaan Ayhan,a,347,SetPiece,2018,Head,10387,Nuernberg,Fortuna Duesseldorf,3,0,2018-09-29 13:30:00,Niko Gießelmann,Cross
+255758,34,MissedShots,0.899000015258789,0.46599998474121096,0.06572390347719193,Kaan Ayhan,h,347,FromCorner,2018,RightFoot,10416,Fortuna Duesseldorf,Wolfsburg,0,3,2018-10-27 13:30:00,Jean Zimmer,Cross
+255768,61,BlockedShot,0.755,0.6930000305175781,0.04956749826669693,Kaan Ayhan,h,347,DirectFreekick,2018,RightFoot,10416,Fortuna Duesseldorf,Wolfsburg,0,3,2018-10-27 13:30:00,,Standard
+256111,50,MissedShots,0.9069999694824219,0.37900001525878907,0.021427899599075317,Kaan Ayhan,a,347,FromCorner,2018,Head,10426,Borussia M.Gladbach,Fortuna Duesseldorf,3,0,2018-11-04 14:30:00,Jean Zimmer,Cross
+257295,54,Goal,0.909000015258789,0.48700000762939455,0.08385399729013443,Kaan Ayhan,h,347,FromCorner,2018,Head,10470,Fortuna Duesseldorf,Freiburg,2,0,2018-12-15 14:30:00,Takashi Usami,Cross
+257306,78,Goal,0.9430000305175781,0.47200000762939454,0.5098959803581238,Kaan Ayhan,h,347,FromCorner,2018,RightFoot,10470,Fortuna Duesseldorf,Freiburg,2,0,2018-12-15 14:30:00,Marcin Kaminski,HeadPass
+280818,4,SavedShot,0.9480000305175781,0.34799999237060547,0.01627819985151291,Kaan Ayhan,a,347,FromCorner,2018,Head,10515,Hoffenheim,Fortuna Duesseldorf,1,1,2019-02-02 14:30:00,Marvin Ducksch,Cross
+280829,57,ShotOnPost,0.8969999694824219,0.5670000076293945,0.020646700635552406,Kaan Ayhan,a,347,SetPiece,2018,Head,10515,Hoffenheim,Fortuna Duesseldorf,1,1,2019-02-02 14:30:00,Kevin Stöger,Aerial
+279159,57,MissedShots,0.9069999694824219,0.3609999847412109,0.016047300770878792,Kaan Ayhan,h,347,FromCorner,2018,Head,10525,Fortuna Duesseldorf,VfB Stuttgart,3,0,2019-02-10 17:00:00,Jean Zimmer,Cross
+279492,24,SavedShot,0.9169999694824219,0.475,0.35085999965667725,Kaan Ayhan,h,347,SetPiece,2018,Head,10543,Fortuna Duesseldorf,Nuernberg,2,1,2019-02-23 17:30:00,Kevin Stöger,Chipped
+279497,43,MissedShots,0.914000015258789,0.4779999923706055,0.03913139924407005,Kaan Ayhan,h,347,FromCorner,2018,Head,10543,Fortuna Duesseldorf,Nuernberg,2,1,2019-02-23 17:30:00,Kevin Stöger,Aerial
+279509,82,Goal,0.9569999694824218,0.5570000076293945,0.5047630071640015,Kaan Ayhan,h,347,SetPiece,2018,Head,10543,Fortuna Duesseldorf,Nuernberg,2,1,2019-02-23 17:30:00,Kevin Stöger,Cross
+286130,29,Goal,0.7759999847412109,0.5790000152587891,0.0872810035943985,Kaan Ayhan,a,347,DirectFreekick,2018,RightFoot,10566,Wolfsburg,Fortuna Duesseldorf,5,2,2019-03-16 14:30:00,,Standard
+286150,81,MissedShots,0.9619999694824218,0.44799999237060545,0.4625769853591919,Kaan Ayhan,a,347,FromCorner,2018,Head,10566,Wolfsburg,Fortuna Duesseldorf,5,2,2019-03-16 14:30:00,Kevin Stöger,Cross
+295096,14,MissedShots,0.9440000152587891,0.509000015258789,0.0788113996386528,Kaan Ayhan,a,347,FromCorner,2018,Head,10606,Mainz 05,Fortuna Duesseldorf,3,1,2019-04-20 14:30:00,Markus Suttner,Aerial
+297213,5,MissedShots,0.9740000152587891,0.5879999923706055,0.02700899913907051,Kaan Ayhan,h,347,FromCorner,2018,Head,10614,Fortuna Duesseldorf,Werder Bremen,4,1,2019-04-27 14:30:00,Markus Suttner,Aerial
+297215,24,MissedShots,0.73,0.549000015258789,0.054016001522541046,Kaan Ayhan,h,347,DirectFreekick,2018,RightFoot,10614,Fortuna Duesseldorf,Werder Bremen,4,1,2019-04-27 14:30:00,,Standard
+310591,63,Goal,0.9319999694824219,0.49599998474121093,0.06515509635210037,Kaan Ayhan,a,347,FromCorner,2019,Head,12404,Werder Bremen,Fortuna Duesseldorf,1,3,2019-08-17 14:30:00,Erik Thommy,Aerial
+312385,14,BlockedShot,0.81,0.475,0.1514109969139099,Kaan Ayhan,h,347,DirectFreekick,2019,RightFoot,12415,Fortuna Duesseldorf,Bayer Leverkusen,1,3,2019-08-24 14:30:00,,Standard
+312402,79,MissedShots,0.9469999694824218,0.4570000076293945,0.4397619962692261,Kaan Ayhan,h,347,SetPiece,2019,Head,12415,Fortuna Duesseldorf,Bayer Leverkusen,1,3,2019-08-24 14:30:00,Niko Gießelmann,Chipped
+321112,2,MissedShots,0.7759999847412109,0.6309999847412109,0.022310199216008186,Kaan Ayhan,a,347,SetPiece,2019,RightFoot,12445,Borussia M.Gladbach,Fortuna Duesseldorf,2,1,2019-09-22 13:30:00,Niko Gießelmann,Pass
+321113,3,MissedShots,0.8690000152587891,0.48,0.012006700038909912,Kaan Ayhan,a,347,SetPiece,2019,Head,12445,Borussia M.Gladbach,Fortuna Duesseldorf,2,1,2019-09-22 13:30:00,Niko Gießelmann,Aerial
+321116,9,MissedShots,0.435,0.3240000152587891,0.007203190121799707,Kaan Ayhan,a,347,OpenPlay,2019,RightFoot,12445,Borussia M.Gladbach,Fortuna Duesseldorf,2,1,2019-09-22 13:30:00,,BallRecovery
+323344,90,SavedShot,0.885,0.43599998474121093,0.016587400808930397,Kaan Ayhan,h,347,FromCorner,2019,Head,12455,Fortuna Duesseldorf,Freiburg,1,2,2019-09-29 13:30:00,,Aerial
+325493,27,MissedShots,0.914000015258789,0.4540000152587891,0.0357012003660202,Kaan Ayhan,h,347,FromCorner,2019,Head,12474,Fortuna Duesseldorf,Mainz 05,1,0,2019-10-19 14:30:00,,Aerial
+327118,46,MissedShots,0.9209999847412109,0.41,0.04108219966292381,Kaan Ayhan,a,347,FromCorner,2019,Head,12477,Paderborn,Fortuna Duesseldorf,2,0,2019-10-26 14:30:00,,None
+327132,93,BlockedShot,0.755,0.46299999237060546,0.07244139909744263,Kaan Ayhan,a,347,DirectFreekick,2019,RightFoot,12477,Paderborn,Fortuna Duesseldorf,2,0,2019-10-26 14:30:00,,Standard
+330520,41,SavedShot,0.89,0.40799999237060547,0.025286199524998665,Kaan Ayhan,a,347,FromCorner,2019,Head,12497,Schalke 04,Fortuna Duesseldorf,3,3,2019-11-09 14:30:00,Niko Gießelmann,Cross
+333572,1,SavedShot,0.7280000305175781,0.46599998474121096,0.053515300154685974,Kaan Ayhan,a,347,DirectFreekick,2019,RightFoot,12518,Hoffenheim,Fortuna Duesseldorf,1,1,2019-11-30 14:30:00,,Standard
+333580,49,MissedShots,0.919000015258789,0.5690000152587891,0.22483600676059723,Kaan Ayhan,a,347,SetPiece,2019,Head,12518,Hoffenheim,Fortuna Duesseldorf,1,1,2019-11-30 14:30:00,Erik Thommy,Cross
+333591,75,MissedShots,0.8640000152587891,0.5929999923706055,0.06983750313520432,Kaan Ayhan,a,347,OpenPlay,2019,RightFoot,12518,Hoffenheim,Fortuna Duesseldorf,1,1,2019-11-30 14:30:00,Alfredo Morales,Pass
+338022,29,MissedShots,0.915,0.509000015258789,0.3215920031070709,Kaan Ayhan,a,347,SetPiece,2019,Head,12545,Augsburg,Fortuna Duesseldorf,3,0,2019-12-17 19:30:00,Erik Thommy,Cross
+338031,65,MissedShots,0.6919999694824219,0.5570000076293945,0.03672569990158081,Kaan Ayhan,a,347,DirectFreekick,2019,RightFoot,12545,Augsburg,Fortuna Duesseldorf,3,0,2019-12-17 19:30:00,,Standard
+339318,45,BlockedShot,0.7530000305175781,0.6790000152587891,0.05107029899954796,Kaan Ayhan,h,347,DirectFreekick,2019,RightFoot,12550,Fortuna Duesseldorf,Union Berlin,2,1,2019-12-22 14:30:00,,Standard
+339334,81,MissedShots,0.9219999694824219,0.44299999237060544,0.051150500774383545,Kaan Ayhan,h,347,SetPiece,2019,Head,12550,Fortuna Duesseldorf,Union Berlin,2,1,2019-12-22 14:30:00,Markus Suttner,Aerial
+354812,78,MissedShots,0.9169999694824219,0.4209999847412109,0.06940539926290512,Kaan Ayhan,h,347,OpenPlay,2019,Head,12558,Fortuna Duesseldorf,Werder Bremen,0,1,2020-01-18 14:30:00,Steven Skrzybski,Cross
+356353,55,MissedShots,0.9830000305175781,0.40599998474121096,0.048903901129961014,Kaan Ayhan,a,347,FromCorner,2019,RightFoot,12567,Bayer Leverkusen,Fortuna Duesseldorf,3,0,2020-01-26 17:00:00,Erik Thommy,Cross
+356650,77,Goal,0.754000015258789,0.585,0.0667428970336914,Kaan Ayhan,h,347,DirectFreekick,2019,RightFoot,12577,Fortuna Duesseldorf,Eintracht Frankfurt,1,1,2020-02-01 14:30:00,,Standard
+360549,37,BlockedShot,0.754000015258789,0.519000015258789,0.0724932998418808,Kaan Ayhan,h,347,DirectFreekick,2019,RightFoot,12614,Fortuna Duesseldorf,Hertha Berlin,3,3,2020-02-28 19:30:00,,Standard
+362292,32,BlockedShot,0.784000015258789,0.4179999923706055,0.09559810161590576,Kaan Ayhan,a,347,DirectFreekick,2019,RightFoot,12624,Mainz 05,Fortuna Duesseldorf,1,1,2020-03-08 17:00:00,,Standard
+363002,31,MissedShots,0.93,0.585,0.08484990149736404,Kaan Ayhan,h,347,SetPiece,2019,Head,12633,Fortuna Duesseldorf,Paderborn,0,0,2020-05-16 13:30:00,Markus Suttner,Cross
+363945,71,MissedShots,0.8809999847412109,0.3659999847412109,0.008217589929699898,Kaan Ayhan,h,347,SetPiece,2019,Head,12669,Fortuna Duesseldorf,Hoffenheim,2,2,2020-06-06 13:30:00,Kevin Stöger,Aerial
+364782,29,MissedShots,0.8590000152587891,0.2989999961853027,0.03984349966049194,Kaan Ayhan,a,347,SetPiece,2019,RightFoot,12683,RasenBallsport Leipzig,Fortuna Duesseldorf,2,2,2020-06-17 18:30:00,Markus Suttner,Chipped
+366997,11,BlockedShot,0.9019999694824219,0.42200000762939455,0.015134899877011776,Kaan Ayhan,a,347,FromCorner,2019,Head,12708,Union Berlin,Fortuna Duesseldorf,3,0,2020-06-27 13:30:00,Kevin Stöger,Aerial
+367028,83,MissedShots,0.905,0.5429999923706055,0.10054899752140045,Kaan Ayhan,a,347,SetPiece,2019,Head,12708,Union Berlin,Fortuna Duesseldorf,3,0,2020-06-27 13:30:00,Kevin Stöger,Cross
+367029,84,BlockedShot,0.935,0.4640000152587891,0.06148630008101463,Kaan Ayhan,a,347,FromCorner,2019,Head,12708,Union Berlin,Fortuna Duesseldorf,3,0,2020-06-27 13:30:00,Jean Zimmer,Aerial
+380416,37,MissedShots,0.9209999847412109,0.49900001525878906,0.10795299708843231,Kaan Ayhan,h,347,FromCorner,2020,RightFoot,15447,Sassuolo,Crotone,4,1,2020-10-03 13:00:00,Domenico Berardi,Cross
+382973,14,BlockedShot,0.78,0.6969999694824218,0.05730940029025078,Kaan Ayhan,h,347,DirectFreekick,2020,RightFoot,15475,Sassuolo,Torino,3,3,2020-10-23 18:45:00,,Standard
+382995,60,MissedShots,0.9280000305175782,0.475,0.11247500032186508,Kaan Ayhan,h,347,FromCorner,2020,Head,15475,Sassuolo,Torino,3,3,2020-10-23 18:45:00,Giacomo Raspadori,Cross
+397307,23,BlockedShot,0.7659999847412109,0.5790000152587891,0.07308699935674667,Kaan Ayhan,h,347,DirectFreekick,2020,RightFoot,15584,Sassuolo,Genoa,2,1,2021-01-06 14:00:00,,Standard
+399330,63,MissedShots,0.9,0.5420000076293945,0.09732390195131302,Kaan Ayhan,h,347,FromCorner,2020,RightFoot,15604,Sassuolo,Parma Calcio 1913,1,1,2021-01-17 14:00:00,,None
+444583,71,BlockedShot,0.7330000305175781,0.5179999923706055,0.05357800051569939,Kaan Ayhan,a,347,DirectFreekick,2021,RightFoot,16889,AC Milan,Sassuolo,1,3,2021-11-28 14:00:00,,Standard
+446781,90,BlockedShot,0.75,0.63,0.05408180132508278,Kaan Ayhan,a,347,DirectFreekick,2021,RightFoot,16914,Spezia,Sassuolo,2,2,2021-12-05 14:00:00,,Standard
+463658,77,Goal,0.9540000152587891,0.34400001525878904,0.054765600711107254,Kaan Ayhan,h,347,FromCorner,2021,RightFoot,17054,Sassuolo,Spezia,4,1,2022-03-18 17:45:00,,None
+473524,89,MissedShots,0.97,0.629000015258789,0.04145960137248039,Kaan Ayhan,h,347,FromCorner,2021,LeftFoot,17112,Sassuolo,Udinese,1,1,2022-05-07 16:00:00,Maxime Lopez,Cross
+478063,29,MissedShots,0.9030000305175782,0.4370000076293945,0.030053000897169113,Kaan Ayhan,h,347,SetPiece,2021,Head,17132,Sassuolo,AC Milan,0,3,2022-05-22 16:00:00,Giacomo Raspadori,Aerial
+481399,30,SavedShot,0.645,0.2539999961853027,0.009091160260140896,Kaan Ayhan,a,347,OpenPlay,2022,RightFoot,18591,Juventus,Sassuolo,3,0,2022-08-15 18:45:00,Davide Frattesi,Pass

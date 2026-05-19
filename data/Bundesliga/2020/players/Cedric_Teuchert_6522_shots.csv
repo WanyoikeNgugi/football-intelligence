@@ -1,0 +1,34 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+204579,88,MissedShots,0.85,0.38,0.09378259629011154,Cedric Teuchert,h,6522,OpenPlay,2017,LeftFoot,8503,Schalke 04,Freiburg,2,0,2018-03-31 14:30:00,Leon Goretzka,Pass
+204580,91,BlockedShot,0.8769999694824219,0.534000015258789,0.12365300208330154,Cedric Teuchert,h,6522,OpenPlay,2017,LeftFoot,8503,Schalke 04,Freiburg,2,0,2018-03-31 14:30:00,Amine Harit,Pass
+213079,92,SavedShot,0.85,0.6,0.26106101274490356,Cedric Teuchert,a,6522,OpenPlay,2017,RightFoot,8547,Augsburg,Schalke 04,1,2,2018-05-05 14:30:00,Alessandro Schöpf,Pass
+214603,71,SavedShot,0.9080000305175782,0.3509999847412109,0.07859809696674347,Cedric Teuchert,h,6522,OpenPlay,2017,RightFoot,8560,Schalke 04,Eintracht Frankfurt,1,0,2018-05-12 14:30:00,Weston McKennie,Chipped
+214604,72,MissedShots,0.8819999694824219,0.6940000152587891,0.11036399751901627,Cedric Teuchert,h,6522,OpenPlay,2017,LeftFoot,8560,Schalke 04,Eintracht Frankfurt,1,0,2018-05-12 14:30:00,,None
+220047,92,SavedShot,0.9780000305175781,0.6480000305175782,0.06465139985084534,Cedric Teuchert,a,6522,OpenPlay,2018,LeftFoot,10338,Wolfsburg,Schalke 04,2,1,2018-08-25 16:30:00,Weston McKennie,HeadPass
+377400,83,SavedShot,0.95,0.6020000076293945,0.1941639930009842,Cedric Teuchert,h,6522,OpenPlay,2020,Head,14175,Union Berlin,Augsburg,1,3,2020-09-19 13:30:00,Marius Bülter,Cross
+378765,83,SavedShot,0.8569999694824219,0.6140000152587891,0.07211370021104813,Cedric Teuchert,a,6522,OpenPlay,2020,LeftFoot,14186,Borussia M.Gladbach,Union Berlin,1,1,2020-09-26 13:30:00,Max Kruse,Pass
+385533,93,Goal,0.9369999694824219,0.545,0.6896600127220154,Cedric Teuchert,a,6522,OpenPlay,2020,RightFoot,15193,Hoffenheim,Union Berlin,1,3,2020-11-02 19:30:00,Max Kruse,Pass
+385894,88,Goal,0.9080000305175782,0.549000015258789,0.5621619820594788,Cedric Teuchert,h,6522,OpenPlay,2020,RightFoot,15197,Union Berlin,Arminia Bielefeld,5,0,2020-11-07 14:30:00,Akaki Gogia,Throughball
+388140,80,BlockedShot,0.8480000305175781,0.30100000381469727,0.0487762987613678,Cedric Teuchert,a,6522,OpenPlay,2020,RightFoot,15211,FC Cologne,Union Berlin,1,2,2020-11-22 17:00:00,Sheraldo Becker,Pass
+391753,80,BlockedShot,0.919000015258789,0.705,0.053120799362659454,Cedric Teuchert,h,6522,OpenPlay,2020,LeftFoot,15236,Union Berlin,Bayern Munich,1,1,2020-12-12 17:30:00,Christopher Lenz,Pass
+392620,22,SavedShot,0.7609999847412109,0.40099998474121096,0.03546300157904625,Cedric Teuchert,a,6522,OpenPlay,2020,RightFoot,15244,VfB Stuttgart,Union Berlin,2,2,2020-12-15 19:30:00,Sheraldo Becker,BallRecovery
+392629,42,MissedShots,0.7769999694824219,0.40299999237060546,0.04261760041117668,Cedric Teuchert,a,6522,OpenPlay,2020,RightFoot,15244,VfB Stuttgart,Union Berlin,2,2,2020-12-15 19:30:00,Grischa Prömel,BallTouch
+393756,2,MissedShots,0.7340000152587891,0.46799999237060547,0.01888209953904152,Cedric Teuchert,h,6522,OpenPlay,2020,RightFoot,15253,Union Berlin,Borussia Dortmund,2,1,2020-12-18 19:30:00,Christopher Trimmel,HeadPass
+393760,16,MissedShots,0.8390000152587891,0.43599998474121093,0.05905169993638992,Cedric Teuchert,h,6522,OpenPlay,2020,RightFoot,15253,Union Berlin,Borussia Dortmund,2,1,2020-12-18 19:30:00,,Rebound
+393762,24,BlockedShot,0.769000015258789,0.5179999923706055,0.030375400558114052,Cedric Teuchert,h,6522,OpenPlay,2020,LeftFoot,15253,Union Berlin,Borussia Dortmund,2,1,2020-12-18 19:30:00,Taiwo Awoniyi,Pass
+393766,36,BlockedShot,0.8630000305175781,0.6179999923706054,0.08215469866991043,Cedric Teuchert,h,6522,OpenPlay,2020,LeftFoot,15253,Union Berlin,Borussia Dortmund,2,1,2020-12-18 19:30:00,Taiwo Awoniyi,Pass
+393771,53,SavedShot,0.8719999694824219,0.6780000305175782,0.04719439893960953,Cedric Teuchert,h,6522,OpenPlay,2020,LeftFoot,15253,Union Berlin,Borussia Dortmund,2,1,2020-12-18 19:30:00,Taiwo Awoniyi,Pass
+398776,49,ShotOnPost,0.8730000305175781,0.5820000076293945,0.4062429964542389,Cedric Teuchert,h,6522,OpenPlay,2020,LeftFoot,15280,Union Berlin,Bayer Leverkusen,1,0,2021-01-15 19:30:00,Grischa Prömel,Pass
+398778,60,MissedShots,0.855,0.39599998474121095,0.10158800333738327,Cedric Teuchert,h,6522,OpenPlay,2020,RightFoot,15280,Union Berlin,Bayer Leverkusen,1,0,2021-01-15 19:30:00,Marcus Ingvartsen,Pass
+398784,79,SavedShot,0.8290000152587891,0.45099998474121095,0.06590860337018967,Cedric Teuchert,h,6522,OpenPlay,2020,RightFoot,15280,Union Berlin,Bayer Leverkusen,1,0,2021-01-15 19:30:00,Marius Bülter,BallTouch
+398785,87,Goal,0.8969999694824219,0.5690000152587891,0.3647190034389496,Cedric Teuchert,h,6522,OpenPlay,2020,RightFoot,15280,Union Berlin,Bayer Leverkusen,1,0,2021-01-15 19:30:00,Christopher Lenz,Throughball
+401574,49,SavedShot,0.9690000152587891,0.7190000152587891,0.056982800364494324,Cedric Teuchert,h,6522,OpenPlay,2020,LeftFoot,15307,Union Berlin,Borussia M.Gladbach,1,1,2021-01-30 14:30:00,Niko Gießelmann,Chipped
+401575,54,MissedShots,0.855,0.25799999237060545,0.05804799869656563,Cedric Teuchert,h,6522,OpenPlay,2020,RightFoot,15307,Union Berlin,Borussia M.Gladbach,1,1,2021-01-30 14:30:00,Taiwo Awoniyi,Pass
+403141,50,SavedShot,0.925,0.5720000076293945,0.31795498728752136,Cedric Teuchert,a,6522,OpenPlay,2020,LeftFoot,15317,Mainz 05,Union Berlin,1,0,2021-02-06 14:30:00,Nico Schlotterbeck,Chipped
+411363,74,BlockedShot,0.7830000305175782,0.47400001525878904,0.04325859993696213,Cedric Teuchert,a,6522,OpenPlay,2020,RightFoot,15368,Eintracht Frankfurt,Union Berlin,5,2,2021-03-20 14:30:00,Julian Ryerson,Pass
+411365,74,BlockedShot,0.9030000305175782,0.62,0.07921429723501205,Cedric Teuchert,a,6522,FromCorner,2020,RightFoot,15368,Eintracht Frankfurt,Union Berlin,5,2,2021-03-20 14:30:00,Max Kruse,Rebound
+411369,90,MissedShots,0.9259999847412109,0.534000015258789,0.08075200021266937,Cedric Teuchert,a,6522,OpenPlay,2020,LeftFoot,15368,Eintracht Frankfurt,Union Berlin,5,2,2021-03-20 14:30:00,Marvin Friedrich,Cross
+417133,91,BlockedShot,0.9580000305175781,0.44299999237060544,0.12420099973678589,Cedric Teuchert,h,6522,FromCorner,2020,Head,15415,Union Berlin,Werder Bremen,3,1,2021-04-24 13:30:00,Christopher Trimmel,Cross
+425704,84,SavedShot,0.9059999847412109,0.3270000076293945,0.0870606005191803,Cedric Teuchert,h,6522,OpenPlay,2021,RightFoot,17520,Union Berlin,Bayer Leverkusen,1,1,2021-08-14 13:30:00,Kevin Behrens,Pass
+427693,86,MissedShots,0.9,0.34900001525878904,0.06354790180921555,Cedric Teuchert,a,6522,SetPiece,2021,RightFoot,17532,Hoffenheim,Union Berlin,2,2,2021-08-22 13:30:00,Max Kruse,Chipped
+448386,93,BlockedShot,0.85,0.5,0.09040860086679459,Cedric Teuchert,a,6522,OpenPlay,2021,LeftFoot,17642,Greuther Fuerth,Union Berlin,1,0,2021-12-12 14:30:00,,TakeOn

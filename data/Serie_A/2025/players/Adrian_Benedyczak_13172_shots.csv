@@ -1,0 +1,12 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+600960,83,BlockedShot,0.884000015258789,0.445,0.07370007038116455,Adrian Benedyczak,h,13172,OpenPlay,2024,RightFoot,27469,Parma Calcio 1913,Genoa,0,1,2024-11-04 17:30:00,,None
+600964,92,MissedShots,0.87,0.3089999961853027,0.04476581886410713,Adrian Benedyczak,h,13172,OpenPlay,2024,RightFoot,27469,Parma Calcio 1913,Genoa,0,1,2024-11-04 17:30:00,Dennis Man,HeadPass
+601303,26,MissedShots,0.7819999694824219,0.5070000076293946,0.05415276437997818,Adrian Benedyczak,a,13172,OpenPlay,2024,RightFoot,27477,Venezia,Parma Calcio 1913,1,2,2024-11-09 14:00:00,,TakeOn
+645987,92,MissedShots,0.9330000305175781,0.515,0.3821693956851959,Adrian Benedyczak,h,13172,FromCorner,2025,Head,29901,Parma Calcio 1913,Lecce,0,1,2025-10-04 13:00:00,Nahuel Estévez,Cross
+651687,30,BlockedShot,0.855999984741211,0.605999984741211,0.09159699827432632,Adrian Benedyczak,h,13172,OpenPlay,2025,LeftFoot,29939,Parma Calcio 1913,Bologna,1,3,2025-11-02 17:00:00,,TakeOn
+651697,54,MissedShots,0.8959999847412109,0.3390000152587891,0.11371046304702759,Adrian Benedyczak,h,13172,OpenPlay,2025,RightFoot,29939,Parma Calcio 1913,Bologna,1,3,2025-11-02 17:00:00,Adrián Bernabé,Throughball
+654967,80,MissedShots,0.8959999847412109,0.49900001525878906,0.05139164254069328,Adrian Benedyczak,h,13172,OpenPlay,2025,Head,29971,Parma Calcio 1913,Udinese,0,2,2025-11-29 14:00:00,Jacob Ondrejka,Foul
+657726,12,SavedShot,0.9259999847412109,0.3029999923706055,0.21671701967716217,Adrian Benedyczak,a,13172,OpenPlay,2025,RightFoot,29979,Pisa,Parma Calcio 1913,0,1,2025-12-08 14:00:00,Adrián Bernabé,Pass
+657731,39,Goal,0.885,0.5,0.7612988352775574,Adrian Benedyczak,a,13172,Penalty,2025,RightFoot,29979,Pisa,Parma Calcio 1913,0,1,2025-12-08 14:00:00,,Standard
+658273,18,MissedShots,0.8690000152587891,0.549000015258789,0.024011388421058655,Adrian Benedyczak,h,13172,OpenPlay,2025,Head,29990,Parma Calcio 1913,Lazio,0,1,2025-12-13 17:00:00,Gaetano Oristanio,Cross
+665240,5,SavedShot,0.925,0.529000015258789,0.3529599905014038,Adrian Benedyczak,a,13172,SetPiece,2025,Head,30054,Atalanta,Parma Calcio 1913,4,0,2026-01-25 14:00:00,Adrián Bernabé,Chipped

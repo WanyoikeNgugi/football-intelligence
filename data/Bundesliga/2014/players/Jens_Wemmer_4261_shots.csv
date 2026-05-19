@@ -1,0 +1,17 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+24549,59,MissedShots,0.7269999694824218,0.31799999237060544,0.014684099704027176,Jens Wemmer,h,4261,FromCorner,2014,RightFoot,5454,Paderborn,Mainz 05,2,2,2014-08-24 14:30:00,,Rebound
+24780,51,BlockedShot,0.6869999694824219,0.27399999618530274,0.007564870174974203,Jens Wemmer,a,4261,SetPiece,2014,RightFoot,5459,Hamburger SV,Paderborn,0,3,2014-08-30 14:30:00,,None
+25243,54,BlockedShot,0.8519999694824218,0.495,0.049087099730968475,Jens Wemmer,h,4261,OpenPlay,2014,RightFoot,5424,Paderborn,Hannover 96,2,0,2014-09-20 14:30:00,Daniel Brückner,Cross
+25705,45,BlockedShot,0.8930000305175781,0.40400001525878904,0.0717960000038147,Jens Wemmer,h,4261,SetPiece,2014,RightFoot,5443,Paderborn,Borussia M.Gladbach,1,2,2014-09-27 14:30:00,,None
+25713,69,Goal,0.9359999847412109,0.425,0.40426599979400635,Jens Wemmer,h,4261,OpenPlay,2014,RightFoot,5443,Paderborn,Borussia M.Gladbach,1,2,2014-09-27 14:30:00,Moritz Stoppelkamp,Pass
+25716,80,SavedShot,0.799000015258789,0.24600000381469728,0.008571149781346321,Jens Wemmer,h,4261,OpenPlay,2014,LeftFoot,5443,Paderborn,Borussia M.Gladbach,1,2,2014-09-27 14:30:00,Mario Vrancic,Chipped
+26770,4,BlockedShot,0.6840000152587891,0.4209999847412109,0.007800519932061434,Jens Wemmer,a,4261,OpenPlay,2014,LeftFoot,5357,Augsburg,Paderborn,3,0,2014-11-08 14:30:00,Alban Meha,Chipped
+27602,51,SavedShot,0.975,0.3340000152587891,0.0630728006362915,Jens Wemmer,h,4261,OpenPlay,2014,RightFoot,5316,Paderborn,Freiburg,1,1,2014-12-06 14:30:00,Süleyman Koc,TakeOn
+27882,17,MissedShots,0.8719999694824219,0.225,0.024217499420046806,Jens Wemmer,h,4261,OpenPlay,2014,LeftFoot,5338,Paderborn,Schalke 04,1,2,2014-12-17 19:00:00,Mario Vrancic,Pass
+28390,88,MissedShots,0.7130000305175781,0.40099998474121096,0.011386699974536896,Jens Wemmer,a,4261,OpenPlay,2014,LeftFoot,5344,VfB Stuttgart,Paderborn,0,0,2014-12-20 14:30:00,,None
+28478,45,MissedShots,0.6719999694824219,0.500999984741211,0.011678299866616726,Jens Wemmer,a,4261,FromCorner,2014,RightFoot,5306,Mainz 05,Paderborn,5,0,2015-01-31 14:30:00,,None
+28493,88,BlockedShot,0.8909999847412109,0.2610000038146973,0.025723600760102272,Jens Wemmer,a,4261,OpenPlay,2014,RightFoot,5306,Mainz 05,Paderborn,5,0,2015-01-31 14:30:00,Lukas Rupp,TakeOn
+30568,91,MissedShots,0.86,0.5609999847412109,0.04585840180516243,Jens Wemmer,h,4261,OpenPlay,2014,RightFoot,5241,Paderborn,Bayer Leverkusen,0,3,2015-03-08 16:30:00,Stefan Kutschke,HeadPass
+30321,4,MissedShots,0.945,0.5120000076293946,0.12725399434566498,Jens Wemmer,a,4261,FromCorner,2014,RightFoot,5203,Hertha Berlin,Paderborn,2,0,2015-04-05 16:30:00,Patrick Ziegler,HeadPass
+30328,46,MissedShots,0.9290000152587891,0.42900001525878906,0.05555669963359833,Jens Wemmer,a,4261,OpenPlay,2014,Head,5203,Hertha Berlin,Paderborn,2,0,2015-04-05 16:30:00,Daniel Brückner,Aerial
+31896,89,MissedShots,0.775,0.28100000381469725,0.014584599994122982,Jens Wemmer,h,4261,OpenPlay,2014,RightFoot,5194,Paderborn,VfB Stuttgart,1,2,2015-05-23 14:30:00,,None

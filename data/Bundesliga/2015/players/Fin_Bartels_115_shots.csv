@@ -1,0 +1,161 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+24839,24,MissedShots,0.905,0.41200000762939454,0.411545991897583,Fin Bartels,a,115,OpenPlay,2014,RightFoot,5411,Bayer Leverkusen,Werder Bremen,3,3,2014-09-12 19:30:00,,None
+24849,44,Goal,0.8290000152587891,0.35900001525878905,0.03498790040612221,Fin Bartels,a,115,OpenPlay,2014,RightFoot,5411,Bayer Leverkusen,Werder Bremen,3,3,2014-09-12 19:30:00,Santiago García,Chipped
+25118,26,SavedShot,0.9319999694824219,0.6270000076293946,0.10607600212097168,Fin Bartels,a,115,OpenPlay,2014,RightFoot,5425,Augsburg,Werder Bremen,4,2,2014-09-20 14:30:00,Franco Di Santo,Pass
+25918,21,MissedShots,0.8290000152587891,0.6930000305175781,0.023418499156832695,Fin Bartels,h,115,FromCorner,2014,RightFoot,5384,Werder Bremen,Freiburg,1,1,2014-10-04 14:30:00,,None
+25924,41,MissedShots,0.9640000152587891,0.3120000076293945,0.05046439915895462,Fin Bartels,h,115,OpenPlay,2014,RightFoot,5384,Werder Bremen,Freiburg,1,1,2014-10-04 14:30:00,Franco Di Santo,Chipped
+25934,74,SavedShot,0.7880000305175782,0.2879999923706055,0.011169499717652798,Fin Bartels,h,115,OpenPlay,2014,RightFoot,5384,Werder Bremen,Freiburg,1,1,2014-10-04 14:30:00,,Aerial
+26397,27,MissedShots,0.9380000305175781,0.26399999618530273,0.04060849919915199,Fin Bartels,h,115,OpenPlay,2014,RightFoot,5401,Werder Bremen,FC Cologne,0,1,2014-10-24 19:30:00,,None
+26399,29,MissedShots,0.7580000305175781,0.2589999961853027,0.016747500747442245,Fin Bartels,h,115,OpenPlay,2014,RightFoot,5401,Werder Bremen,FC Cologne,0,1,2014-10-24 19:30:00,Zlatko Junuzovic,Pass
+26405,56,MissedShots,0.8080000305175781,0.754000015258789,0.019566500559449196,Fin Bartels,h,115,FromCorner,2014,RightFoot,5401,Werder Bremen,FC Cologne,0,1,2014-10-24 19:30:00,Franco Di Santo,Pass
+26412,83,SavedShot,0.8780000305175781,0.4520000076293945,0.07668159902095795,Fin Bartels,h,115,OpenPlay,2014,RightFoot,5401,Werder Bremen,FC Cologne,0,1,2014-10-24 19:30:00,Theodor Gebre Selassie,Chipped
+26861,56,Goal,0.8569999694824219,0.49,0.05686260014772415,Fin Bartels,h,115,FromCorner,2014,RightFoot,5362,Werder Bremen,VfB Stuttgart,2,0,2014-11-08 17:30:00,Zlatko Junuzovic,Pass
+27092,27,BlockedShot,0.8119999694824219,0.30700000762939456,0.026836499571800232,Fin Bartels,a,115,OpenPlay,2014,LeftFoot,5372,Hamburger SV,Werder Bremen,2,0,2014-11-23 14:30:00,Theodor Gebre Selassie,Pass
+27111,90,BlockedShot,0.825,0.39799999237060546,0.04532470181584358,Fin Bartels,a,115,OpenPlay,2014,RightFoot,5372,Hamburger SV,Werder Bremen,2,0,2014-11-23 14:30:00,Assani Lukimya,Pass
+27151,45,BlockedShot,0.815,0.47900001525878905,0.0821022018790245,Fin Bartels,h,115,OpenPlay,2014,LeftFoot,5379,Werder Bremen,Paderborn,4,0,2014-11-29 14:30:00,Davie Selke,LayOff
+27154,49,Goal,0.8469999694824218,0.5540000152587891,0.4218299984931946,Fin Bartels,h,115,OpenPlay,2014,RightFoot,5379,Werder Bremen,Paderborn,4,0,2014-11-29 14:30:00,,Aerial
+27365,63,BlockedShot,0.9069999694824219,0.5029999923706054,0.09439150243997574,Fin Bartels,a,115,OpenPlay,2014,LeftFoot,5320,Eintracht Frankfurt,Werder Bremen,5,2,2014-12-07 16:30:00,Davie Selke,HeadPass
+28216,46,BlockedShot,0.9019999694824219,0.605999984741211,0.2975960075855255,Fin Bartels,h,115,OpenPlay,2014,RightFoot,5323,Werder Bremen,Hannover 96,3,3,2014-12-13 14:30:00,Levent Aycicek,Chipped
+28220,60,SavedShot,0.7519999694824219,0.5790000152587891,0.04828299954533577,Fin Bartels,h,115,OpenPlay,2014,RightFoot,5323,Werder Bremen,Hannover 96,3,3,2014-12-13 14:30:00,Levent Aycicek,Pass
+27713,4,MissedShots,0.8780000305175781,0.61,0.018403200432658195,Fin Bartels,a,115,OpenPlay,2014,Head,5336,Borussia M.Gladbach,Werder Bremen,4,1,2014-12-17 19:00:00,Zlatko Junuzovic,Cross
+28256,6,BlockedShot,0.8630000305175781,0.425,0.042597200721502304,Fin Bartels,h,115,FromCorner,2014,RightFoot,5341,Werder Bremen,Borussia Dortmund,2,1,2014-12-20 14:30:00,Zlatko Junuzovic,Cross
+28257,13,BlockedShot,0.895,0.6179999923706054,0.0977173000574112,Fin Bartels,h,115,OpenPlay,2014,RightFoot,5341,Werder Bremen,Borussia Dortmund,2,1,2014-12-20 14:30:00,Davie Selke,Pass
+28265,61,Goal,0.8969999694824219,0.5640000152587891,0.5193060040473938,Fin Bartels,h,115,OpenPlay,2014,RightFoot,5341,Werder Bremen,Borussia Dortmund,2,1,2014-12-20 14:30:00,Davie Selke,Pass
+28275,88,ShotOnPost,0.93,0.34299999237060547,0.30028098821640015,Fin Bartels,h,115,OpenPlay,2014,RightFoot,5341,Werder Bremen,Borussia Dortmund,2,1,2014-12-20 14:30:00,Clemens Fritz,Pass
+28526,13,BlockedShot,0.755,0.5120000076293946,0.019608600065112114,Fin Bartels,h,115,SetPiece,2014,RightFoot,5260,Werder Bremen,Hertha Berlin,2,0,2015-02-01 14:30:00,Levin Öztunali,BallTouch
+28537,47,SavedShot,0.7340000152587891,0.40299999237060546,0.011313900351524353,Fin Bartels,h,115,SetPiece,2014,RightFoot,5260,Werder Bremen,Hertha Berlin,2,0,2015-02-01 14:30:00,,None
+28544,88,MissedShots,0.725,0.5120000076293946,0.01663859933614731,Fin Bartels,h,115,OpenPlay,2014,RightFoot,5260,Werder Bremen,Hertha Berlin,2,0,2015-02-01 14:30:00,,None
+28633,53,BlockedShot,0.894000015258789,0.3029999923706055,0.06557469815015793,Fin Bartels,a,115,OpenPlay,2014,RightFoot,5270,Hoffenheim,Werder Bremen,1,2,2015-02-04 19:00:00,Theodor Gebre Selassie,Pass
+29718,26,MissedShots,0.85,0.6909999847412109,0.04856010153889656,Fin Bartels,h,115,OpenPlay,2014,RightFoot,5278,Werder Bremen,Bayer Leverkusen,2,1,2015-02-08 14:30:00,Janek Sternberg,Pass
+28703,9,MissedShots,0.8730000305175781,0.3920000076293945,0.06012680009007454,Fin Bartels,h,115,FromCorner,2014,RightFoot,5284,Werder Bremen,Augsburg,3,2,2015-02-14 14:30:00,,None
+28719,50,SavedShot,0.9569999694824218,0.455,0.13563799858093262,Fin Bartels,h,115,OpenPlay,2014,RightFoot,5284,Werder Bremen,Augsburg,3,2,2015-02-14 14:30:00,,None
+28721,57,MissedShots,0.9430000305175781,0.30700000762939456,0.08464059978723526,Fin Bartels,h,115,OpenPlay,2014,RightFoot,5284,Werder Bremen,Augsburg,3,2,2015-02-14 14:30:00,Franco Di Santo,Pass
+28924,19,SavedShot,0.9480000305175781,0.27600000381469725,0.018931100144982338,Fin Bartels,a,115,OpenPlay,2014,RightFoot,5293,Schalke 04,Werder Bremen,1,1,2015-02-21 14:30:00,Franco Di Santo,Cross
+28926,26,MissedShots,0.91,0.2879999923706055,0.10986199975013733,Fin Bartels,a,115,OpenPlay,2014,RightFoot,5293,Schalke 04,Werder Bremen,1,1,2015-02-21 14:30:00,Felix Kroos,Throughball
+28929,36,MissedShots,0.805,0.4540000152587891,0.03757350146770477,Fin Bartels,a,115,SetPiece,2014,RightFoot,5293,Schalke 04,Werder Bremen,1,1,2015-02-21 14:30:00,,None
+30132,37,MissedShots,0.8680000305175781,0.5879999923706055,0.0661315992474556,Fin Bartels,a,115,SetPiece,2014,RightFoot,5237,Freiburg,Werder Bremen,0,1,2015-03-07 14:30:00,Franco Di Santo,HeadPass
+30144,69,MissedShots,0.9519999694824218,0.7140000152587891,0.03382039815187454,Fin Bartels,a,115,SetPiece,2014,LeftFoot,5237,Freiburg,Werder Bremen,0,1,2015-03-07 14:30:00,,Rebound
+31390,63,SavedShot,0.7469999694824219,0.9030000305175782,0.00889177992939949,Fin Bartels,h,115,OpenPlay,2014,RightFoot,5246,Werder Bremen,Bayern Munich,0,4,2015-03-14 14:30:00,Santiago García,Pass
+32126,4,SavedShot,0.9590000152587891,0.2620000076293945,0.017582299187779427,Fin Bartels,a,115,OpenPlay,2014,RightFoot,5252,FC Cologne,Werder Bremen,1,1,2015-03-21 14:30:00,Janek Sternberg,Cross
+30427,17,MissedShots,0.919000015258789,0.7,0.02057719975709915,Fin Bartels,h,115,OpenPlay,2014,LeftFoot,5195,Werder Bremen,Mainz 05,0,0,2015-04-04 14:30:00,,Aerial
+30438,53,MissedShots,0.7340000152587891,0.5840000152587891,0.009917840361595154,Fin Bartels,h,115,OpenPlay,2014,RightFoot,5195,Werder Bremen,Mainz 05,0,0,2015-04-04 14:30:00,Levent Aycicek,Chipped
+30446,68,MissedShots,0.7859999847412109,0.23399999618530273,0.0101367998868227,Fin Bartels,h,115,OpenPlay,2014,LeftFoot,5195,Werder Bremen,Mainz 05,0,0,2015-04-04 14:30:00,,Aerial
+30447,69,MissedShots,0.7619999694824219,0.7419999694824219,0.019926000386476517,Fin Bartels,h,115,OpenPlay,2014,RightFoot,5195,Werder Bremen,Mainz 05,0,0,2015-04-04 14:30:00,Felix Kroos,Pass
+30448,71,MissedShots,0.8290000152587891,0.3340000152587891,0.029137499630451202,Fin Bartels,h,115,SetPiece,2014,RightFoot,5195,Werder Bremen,Mainz 05,0,0,2015-04-04 14:30:00,,None
+30454,91,MissedShots,0.8619999694824219,0.46,0.05916760116815567,Fin Bartels,h,115,OpenPlay,2014,RightFoot,5195,Werder Bremen,Mainz 05,0,0,2015-04-04 14:30:00,Theodor Gebre Selassie,Cross
+31617,81,BlockedShot,0.884000015258789,0.27,0.11027800291776657,Fin Bartels,a,115,OpenPlay,2014,RightFoot,5172,Hannover 96,Werder Bremen,1,1,2015-05-09 14:30:00,Levin Öztunali,Throughball
+31145,53,MissedShots,0.885,0.67,0.06355109810829163,Fin Bartels,a,115,OpenPlay,2014,RightFoot,5193,Borussia Dortmund,Werder Bremen,3,2,2015-05-23 14:30:00,Zlatko Junuzovic,Pass
+76240,49,MissedShots,0.7559999847412109,0.3509999847412109,0.020854100584983826,Fin Bartels,h,115,OpenPlay,2015,RightFoot,1024,Werder Bremen,Schalke 04,0,3,2015-08-15 17:30:00,Clemens Fritz,Pass
+76244,57,MissedShots,0.909000015258789,0.395,0.07780399918556213,Fin Bartels,h,115,OpenPlay,2015,RightFoot,1024,Werder Bremen,Schalke 04,0,3,2015-08-15 17:30:00,Zlatko Junuzovic,Pass
+76660,83,SavedShot,0.85,0.5379999923706055,0.5351539850234985,Fin Bartels,h,115,OpenPlay,2015,RightFoot,1047,Werder Bremen,Borussia M.Gladbach,2,1,2015-08-30 19:30:00,,BallRecovery
+77115,12,SavedShot,0.8919999694824219,0.43900001525878907,0.40622198581695557,Fin Bartels,h,115,OpenPlay,2015,RightFoot,1061,Werder Bremen,Ingolstadt,0,1,2015-09-19 17:30:00,,None
+77123,44,MissedShots,0.8909999847412109,0.42700000762939455,0.06731929630041122,Fin Bartels,h,115,FromCorner,2015,RightFoot,1061,Werder Bremen,Ingolstadt,0,1,2015-09-19 17:30:00,Aron Jóhannsson,Pass
+77789,4,MissedShots,0.8969999694824219,0.4,0.06743939965963364,Fin Bartels,a,115,OpenPlay,2015,RightFoot,1086,Hannover 96,Werder Bremen,1,0,2015-10-03 17:30:00,Theodor Gebre Selassie,Cross
+77791,9,BlockedShot,0.8590000152587891,0.6519999694824219,0.03576270118355751,Fin Bartels,a,115,FromCorner,2015,LeftFoot,1086,Hannover 96,Werder Bremen,1,0,2015-10-03 17:30:00,Anthony Ujah,Pass
+77800,26,BlockedShot,0.8240000152587891,0.34,0.03352519869804382,Fin Bartels,a,115,OpenPlay,2015,LeftFoot,1086,Hannover 96,Werder Bremen,1,0,2015-10-03 17:30:00,Anthony Ujah,Pass
+77816,80,SavedShot,0.8909999847412109,0.654000015258789,0.3100390136241913,Fin Bartels,a,115,OpenPlay,2015,RightFoot,1086,Hannover 96,Werder Bremen,1,0,2015-10-03 17:30:00,,Rebound
+78066,68,BlockedShot,0.740999984741211,0.46,0.01673859916627407,Fin Bartels,h,115,FromCorner,2015,RightFoot,1095,Werder Bremen,Bayern Munich,0,1,2015-10-17 17:30:00,Anthony Ujah,LayOff
+78317,38,MissedShots,0.9590000152587891,0.305,0.020588399842381477,Fin Bartels,a,115,OpenPlay,2015,RightFoot,1103,Mainz 05,Werder Bremen,1,3,2015-10-24 17:30:00,Santiago García,Cross
+78321,47,Goal,0.905,0.52,0.5149710178375244,Fin Bartels,a,115,OpenPlay,2015,RightFoot,1103,Mainz 05,Werder Bremen,1,3,2015-10-24 17:30:00,Florian Grillitsch,Pass
+78557,77,BlockedShot,0.7559999847412109,0.415,0.02094089984893799,Fin Bartels,h,115,OpenPlay,2015,RightFoot,1115,Werder Bremen,Borussia Dortmund,1,3,2015-10-31 18:30:00,Anthony Ujah,Pass
+78743,12,ShotOnPost,0.9230000305175782,0.33299999237060546,0.051856398582458496,Fin Bartels,a,115,OpenPlay,2015,RightFoot,1128,Augsburg,Werder Bremen,1,2,2015-11-08 20:30:00,Levin Öztunali,Cross
+78764,68,Goal,0.915,0.33799999237060546,0.33855998516082764,Fin Bartels,a,115,OpenPlay,2015,RightFoot,1128,Augsburg,Werder Bremen,1,2,2015-11-08 20:30:00,Zlatko Junuzovic,TakeOn
+78931,38,SavedShot,0.775,0.7440000152587891,0.016680900007486343,Fin Bartels,a,115,OpenPlay,2015,RightFoot,1134,Wolfsburg,Werder Bremen,6,0,2015-11-21 18:30:00,Santiago García,Pass
+78944,67,SavedShot,0.9119999694824219,0.534000015258789,0.4340679943561554,Fin Bartels,a,115,OpenPlay,2015,RightFoot,1134,Wolfsburg,Werder Bremen,6,0,2015-11-21 18:30:00,Claudio Pizarro,Pass
+79218,50,SavedShot,0.8690000152587891,0.4329999923706055,0.23607300221920013,Fin Bartels,h,115,OpenPlay,2015,RightFoot,1139,Werder Bremen,Hamburger SV,1,3,2015-11-28 18:30:00,Philipp Bargfrede,TakeOn
+79220,51,MissedShots,0.8690000152587891,0.42700000762939455,0.15014199912548065,Fin Bartels,h,115,OpenPlay,2015,LeftFoot,1139,Werder Bremen,Hamburger SV,1,3,2015-11-28 18:30:00,Santiago García,TakeOn
+80467,66,Goal,0.845999984741211,0.5690000152587891,0.07711049914360046,Fin Bartels,h,115,OpenPlay,2015,LeftFoot,1188,Werder Bremen,Hertha Berlin,3,3,2016-01-30 18:30:00,Zlatko Junuzovic,Pass
+80473,89,SavedShot,0.9169999694824219,0.44,0.11048000305891037,Fin Bartels,h,115,OpenPlay,2015,Head,1188,Werder Bremen,Hertha Berlin,3,3,2016-01-30 18:30:00,Zlatko Junuzovic,Cross
+80589,71,MissedShots,0.8959999847412109,0.6630000305175782,0.068675696849823,Fin Bartels,a,115,OpenPlay,2015,LeftFoot,1192,Borussia M.Gladbach,Werder Bremen,5,1,2016-02-05 23:30:00,Claudio Pizarro,Pass
+80873,28,SavedShot,0.795,0.3579999923706055,0.03427080065011978,Fin Bartels,h,115,OpenPlay,2015,RightFoot,1206,Werder Bremen,Hoffenheim,1,1,2016-02-13 18:30:00,Florian Grillitsch,HeadPass
+80883,61,SavedShot,0.905,0.7130000305175781,0.05201350152492523,Fin Bartels,h,115,OpenPlay,2015,LeftFoot,1206,Werder Bremen,Hoffenheim,1,1,2016-02-13 18:30:00,Santiago García,BallRecovery
+81207,86,BlockedShot,0.899000015258789,0.5670000076293945,0.07296360284090042,Fin Bartels,a,115,OpenPlay,2015,LeftFoot,1214,Ingolstadt,Werder Bremen,2,0,2016-02-20 18:30:00,Anthony Ujah,BallTouch
+81371,67,BlockedShot,0.8530000305175781,0.610999984741211,0.06047850102186203,Fin Bartels,h,115,OpenPlay,2015,LeftFoot,1220,Werder Bremen,Darmstadt,2,2,2016-02-27 18:30:00,,None
+81377,83,BlockedShot,0.7709999847412109,0.6609999847412109,0.020375899970531464,Fin Bartels,h,115,OpenPlay,2015,RightFoot,1220,Werder Bremen,Darmstadt,2,2,2016-02-27 18:30:00,Zlatko Junuzovic,TakeOn
+81506,4,Goal,0.88,0.590999984741211,0.07505380362272263,Fin Bartels,a,115,SetPiece,2015,RightFoot,1235,Bayer Leverkusen,Werder Bremen,1,4,2016-03-02 23:00:00,Papy Djilobodji,BallTouch
+81818,17,Goal,0.9469999694824218,0.46799999237060547,0.6151120066642761,Fin Bartels,h,115,OpenPlay,2015,RightFoot,1239,Werder Bremen,Hannover 96,4,1,2016-03-05 18:30:00,,Rebound
+81834,70,MissedShots,0.8390000152587891,0.5109999847412109,0.11134999990463257,Fin Bartels,h,115,OpenPlay,2015,RightFoot,1239,Werder Bremen,Hannover 96,4,1,2016-03-05 18:30:00,Levin Öztunali,Pass
+82344,87,MissedShots,0.870999984741211,0.7530000305175781,0.0285435002297163,Fin Bartels,h,115,OpenPlay,2015,RightFoot,1258,Werder Bremen,Mainz 05,1,1,2016-03-19 18:30:00,Zlatko Junuzovic,Pass
+82730,28,MissedShots,0.7669999694824219,0.5840000152587891,0.018213700503110886,Fin Bartels,h,115,SetPiece,2015,RightFoot,1277,Werder Bremen,Augsburg,1,2,2016-04-09 17:30:00,Zlatko Junuzovic,HeadPass
+82927,19,SavedShot,0.865,0.49700000762939456,0.030827999114990234,Fin Bartels,h,115,OpenPlay,2015,Head,1287,Werder Bremen,Wolfsburg,3,2,2016-04-16 17:30:00,Santiago García,Cross
+82930,28,ShotOnPost,0.91,0.62,0.2941629886627197,Fin Bartels,h,115,OpenPlay,2015,RightFoot,1287,Werder Bremen,Wolfsburg,3,2,2016-04-16 17:30:00,Sambou Yatabaré,TakeOn
+82932,30,SavedShot,0.9740000152587891,0.6809999847412109,0.04835980013012886,Fin Bartels,h,115,OpenPlay,2015,LeftFoot,1287,Werder Bremen,Wolfsburg,3,2,2016-04-16 17:30:00,Claudio Pizarro,Pass
+82937,36,SavedShot,0.8690000152587891,0.57,0.10247000306844711,Fin Bartels,h,115,OpenPlay,2015,RightFoot,1287,Werder Bremen,Wolfsburg,3,2,2016-04-16 17:30:00,Theodor Gebre Selassie,Pass
+82945,63,Goal,0.9209999847412109,0.515,0.549310028553009,Fin Bartels,h,115,OpenPlay,2015,RightFoot,1287,Werder Bremen,Wolfsburg,3,2,2016-04-16 17:30:00,Zlatko Junuzovic,Throughball
+83150,16,MissedShots,0.899000015258789,0.2589999961853027,0.036426298320293427,Fin Bartels,a,115,OpenPlay,2015,RightFoot,1291,Hamburger SV,Werder Bremen,2,1,2016-04-22 22:30:00,Sambou Yatabaré,Chipped
+83160,46,MissedShots,0.8619999694824219,0.5940000152587891,0.056363899260759354,Fin Bartels,a,115,OpenPlay,2015,RightFoot,1291,Hamburger SV,Werder Bremen,2,1,2016-04-22 22:30:00,,None
+83162,52,SavedShot,0.975999984741211,0.635,0.04877509921789169,Fin Bartels,a,115,OpenPlay,2015,RightFoot,1291,Hamburger SV,Werder Bremen,2,1,2016-04-22 22:30:00,Claudio Pizarro,HeadPass
+83380,9,Goal,0.9059999847412109,0.3890000152587891,0.30054399371147156,Fin Bartels,h,115,OpenPlay,2015,RightFoot,1308,Werder Bremen,VfB Stuttgart,6,2,2016-05-02 22:15:00,Claudio Pizarro,Chipped
+83403,79,Goal,0.91,0.580999984741211,0.4990119934082031,Fin Bartels,h,115,OpenPlay,2015,RightFoot,1308,Werder Bremen,VfB Stuttgart,6,2,2016-05-02 22:15:00,Levin Öztunali,Pass
+83629,11,MissedShots,0.8640000152587891,0.3,0.043479401618242264,Fin Bartels,a,115,OpenPlay,2015,RightFoot,1314,FC Cologne,Werder Bremen,0,0,2016-05-07 17:30:00,Claudio Pizarro,Pass
+127457,84,SavedShot,0.8280000305175781,0.5659999847412109,0.09490740299224854,Fin Bartels,a,115,OpenPlay,2016,RightFoot,1327,Bayern Munich,Werder Bremen,6,0,2016-08-26 22:30:00,Fallou Diagne,TakeOn
+127979,42,MissedShots,0.919000015258789,0.4370000076293945,0.44902700185775757,Fin Bartels,h,115,OpenPlay,2016,LeftFoot,1343,Werder Bremen,Augsburg,1,2,2016-09-11 17:30:00,Serge Gnabry,Pass
+127987,62,BlockedShot,0.8480000305175781,0.31,0.03019239939749241,Fin Bartels,h,115,SetPiece,2016,RightFoot,1343,Werder Bremen,Augsburg,1,2,2016-09-11 17:30:00,,None
+129224,62,MissedShots,0.875999984741211,0.30700000762939456,0.0247213002294302,Fin Bartels,h,115,OpenPlay,2016,RightFoot,1387,Werder Bremen,Bayer Leverkusen,2,1,2016-10-15 20:30:00,,Aerial
+129493,85,BlockedShot,0.9319999694824219,0.35900001525878905,0.012364599853754044,Fin Bartels,a,115,OpenPlay,2016,Head,1397,RasenBallsport Leipzig,Werder Bremen,3,1,2016-10-23 17:30:00,Santiago García,Aerial
+129586,40,MissedShots,0.965999984741211,0.39599998474121095,0.111735999584198,Fin Bartels,a,115,OpenPlay,2016,RightFoot,2814,Schalke 04,Werder Bremen,3,1,2016-11-06 20:30:00,Clemens Fritz,Pass
+129595,61,SavedShot,0.7969999694824219,0.7169999694824218,0.017504900693893433,Fin Bartels,a,115,OpenPlay,2016,RightFoot,2814,Schalke 04,Werder Bremen,3,1,2016-11-06 20:30:00,Milos Veljkovic,Chipped
+130155,13,Goal,0.8690000152587891,0.39,0.062376100569963455,Fin Bartels,a,115,OpenPlay,2016,LeftFoot,2827,Hamburger SV,Werder Bremen,2,2,2016-11-26 18:30:00,Clemens Fritz,Chipped
+130158,20,BlockedShot,0.905,0.55,0.1250859946012497,Fin Bartels,a,115,OpenPlay,2016,RightFoot,2827,Hamburger SV,Werder Bremen,2,2,2016-11-26 18:30:00,,Rebound
+130163,36,SavedShot,0.9319999694824219,0.4209999847412109,0.4131869971752167,Fin Bartels,a,115,OpenPlay,2016,RightFoot,2827,Hamburger SV,Werder Bremen,2,2,2016-11-26 18:30:00,,TakeOn
+130594,59,MissedShots,0.96,0.38,0.34922999143600464,Fin Bartels,h,115,OpenPlay,2016,RightFoot,3197,Werder Bremen,Ingolstadt,2,1,2016-12-03 18:30:00,Claudio Pizarro,Pass
+130600,75,Goal,0.9290000152587891,0.5279999923706055,0.5567460060119629,Fin Bartels,h,115,OpenPlay,2016,RightFoot,3197,Werder Bremen,Ingolstadt,2,1,2016-12-03 18:30:00,Claudio Pizarro,Pass
+131103,36,SavedShot,0.865,0.5359999847412109,0.07070890069007874,Fin Bartels,a,115,OpenPlay,2016,LeftFoot,3207,Hertha Berlin,Werder Bremen,0,1,2016-12-10 21:30:00,Max Kruse,Cross
+131623,59,SavedShot,0.8730000305175781,0.37099998474121093,0.06380239874124527,Fin Bartels,h,115,OpenPlay,2016,RightFoot,3212,Werder Bremen,FC Cologne,1,1,2016-12-17 18:30:00,,None
+130381,58,SavedShot,0.8219999694824218,0.524000015258789,0.04443059861660004,Fin Bartels,a,115,FromCorner,2016,RightFoot,3224,Hoffenheim,Werder Bremen,1,1,2016-12-21 23:00:00,,None
+130385,67,MissedShots,0.795,0.2620000076293945,0.0200251005589962,Fin Bartels,a,115,OpenPlay,2016,RightFoot,3224,Hoffenheim,Werder Bremen,1,1,2016-12-21 23:00:00,Zlatko Junuzovic,Pass
+130391,87,BlockedShot,0.86,0.355,0.08878479897975922,Fin Bartels,a,115,OpenPlay,2016,RightFoot,3224,Hoffenheim,Werder Bremen,1,1,2016-12-21 23:00:00,Max Kruse,Pass
+130742,17,SavedShot,0.85,0.3129999923706055,0.0639955997467041,Fin Bartels,h,115,OpenPlay,2016,RightFoot,3726,Werder Bremen,Borussia Dortmund,1,2,2017-01-21 14:30:00,Max Kruse,Pass
+130756,58,Goal,0.84,0.52,0.10216999799013138,Fin Bartels,h,115,OpenPlay,2016,RightFoot,3726,Werder Bremen,Borussia Dortmund,1,2,2017-01-21 14:30:00,Clemens Fritz,TakeOn
+130766,90,BlockedShot,0.875999984741211,0.40299999237060546,0.06457710266113281,Fin Bartels,h,115,OpenPlay,2016,LeftFoot,3726,Werder Bremen,Borussia Dortmund,1,2,2017-01-21 14:30:00,Santiago García,HeadPass
+132674,16,SavedShot,0.899000015258789,0.5279999923706055,0.43385300040245056,Fin Bartels,h,115,OpenPlay,2016,RightFoot,3754,Werder Bremen,Borussia M.Gladbach,0,1,2017-02-11 14:30:00,Zlatko Junuzovic,Pass
+132677,28,MissedShots,0.7780000305175782,0.44099998474121094,0.03011319972574711,Fin Bartels,h,115,OpenPlay,2016,RightFoot,3754,Werder Bremen,Borussia M.Gladbach,0,1,2017-02-11 14:30:00,Serge Gnabry,Pass
+132696,88,BlockedShot,0.8619999694824219,0.3029999923706055,0.029907099902629852,Fin Bartels,h,115,FromCorner,2016,RightFoot,3754,Werder Bremen,Borussia M.Gladbach,0,1,2017-02-11 14:30:00,,None
+132023,90,MissedShots,0.92,0.3029999923706055,0.08319420367479324,Fin Bartels,a,115,OpenPlay,2016,RightFoot,3761,Mainz 05,Werder Bremen,0,2,2017-02-18 14:30:00,Max Kruse,HeadPass
+132121,19,SavedShot,0.8130000305175781,0.515,0.0853722020983696,Fin Bartels,a,115,OpenPlay,2016,RightFoot,3767,Wolfsburg,Werder Bremen,1,2,2017-02-24 19:30:00,Serge Gnabry,TakeOn
+133604,38,BlockedShot,0.8530000305175781,0.7069999694824218,0.05651260167360306,Fin Bartels,a,115,OpenPlay,2016,RightFoot,3785,Bayer Leverkusen,Werder Bremen,1,1,2017-03-10 19:30:00,Zlatko Junuzovic,Pass
+133461,43,MissedShots,0.885,0.645,0.02583250030875206,Fin Bartels,a,115,OpenPlay,2016,Head,3807,Freiburg,Werder Bremen,2,5,2017-04-01 14:30:00,Thomas Delaney,Chipped
+133465,53,SavedShot,0.8730000305175781,0.5379999923706055,0.36713099479675293,Fin Bartels,a,115,OpenPlay,2016,RightFoot,3807,Freiburg,Werder Bremen,2,5,2017-04-01 14:30:00,Max Kruse,Pass
+133473,70,Goal,0.91,0.5179999923706055,0.1589220017194748,Fin Bartels,a,115,OpenPlay,2016,RightFoot,3807,Freiburg,Werder Bremen,2,5,2017-04-01 14:30:00,Thomas Delaney,Rebound
+134200,68,MissedShots,0.9490000152587891,0.7090000152587891,0.08611670136451721,Fin Bartels,h,115,OpenPlay,2016,LeftFoot,3814,Werder Bremen,Schalke 04,3,0,2017-04-04 19:00:00,Zlatko Junuzovic,TakeOn
+134826,42,Goal,0.8419999694824218,0.435,0.07871879637241364,Fin Bartels,a,115,OpenPlay,2016,RightFoot,3821,Eintracht Frankfurt,Werder Bremen,2,2,2017-04-07 19:30:00,Max Kruse,HeadPass
+132952,24,MissedShots,0.87,0.27,0.025587400421500206,Fin Bartels,h,115,OpenPlay,2016,RightFoot,3832,Werder Bremen,Hamburger SV,2,1,2017-04-16 14:30:00,Maximilian Eggestein,Pass
+132956,48,BlockedShot,0.8640000152587891,0.6940000152587891,0.0987183004617691,Fin Bartels,h,115,OpenPlay,2016,LeftFoot,3832,Werder Bremen,Hamburger SV,2,1,2017-04-16 14:30:00,Max Kruse,TakeOn
+132963,92,SavedShot,0.845,0.3659999847412109,0.07311739772558212,Fin Bartels,h,115,OpenPlay,2016,RightFoot,3832,Werder Bremen,Hamburger SV,2,1,2017-04-16 14:30:00,Maximilian Eggestein,BallRecovery
+133919,38,SavedShot,0.9819999694824219,0.3120000076293945,0.032276399433612823,Fin Bartels,a,115,OpenPlay,2016,RightFoot,3846,Ingolstadt,Werder Bremen,2,4,2017-04-22 14:30:00,Theodor Gebre Selassie,Chipped
+133923,54,MissedShots,0.889000015258789,0.6569999694824219,0.2948099970817566,Fin Bartels,a,115,OpenPlay,2016,RightFoot,3846,Ingolstadt,Werder Bremen,2,4,2017-04-22 14:30:00,Florian Kainz,Pass
+134563,8,Goal,0.865,0.3820000076293945,0.3604699969291687,Fin Bartels,h,115,OpenPlay,2016,RightFoot,3850,Werder Bremen,Hertha Berlin,2,0,2017-04-29 14:30:00,Max Kruse,Chipped
+134992,33,Goal,0.8880000305175781,0.5279999923706055,0.2631649971008301,Fin Bartels,a,115,OpenPlay,2016,RightFoot,3863,FC Cologne,Werder Bremen,4,3,2017-05-05 19:30:00,Zlatko Junuzovic,Chipped
+135000,61,MissedShots,0.860999984741211,0.685,0.0430418998003006,Fin Bartels,a,115,OpenPlay,2016,RightFoot,3863,FC Cologne,Werder Bremen,4,3,2017-05-05 19:30:00,Max Kruse,Pass
+135005,91,SavedShot,0.8830000305175781,0.375,0.04887460172176361,Fin Bartels,a,115,OpenPlay,2016,RightFoot,3863,FC Cologne,Werder Bremen,4,3,2017-05-05 19:30:00,Max Kruse,HeadPass
+133356,81,MissedShots,0.8009999847412109,0.524000015258789,0.019392700865864754,Fin Bartels,h,115,OpenPlay,2016,RightFoot,3871,Werder Bremen,Hoffenheim,3,5,2017-05-13 14:30:00,Max Kruse,Chipped
+127694,45,Goal,0.9259999847412109,0.4540000152587891,0.504489004611969,Fin Bartels,a,115,OpenPlay,2016,RightFoot,3875,Borussia Dortmund,Werder Bremen,4,3,2017-05-20 14:30:00,Max Kruse,Pass
+166268,62,SavedShot,0.8030000305175782,0.575,0.04251839965581894,Fin Bartels,a,115,OpenPlay,2017,RightFoot,8284,Hertha Berlin,Werder Bremen,1,1,2017-09-10 14:30:00,Max Kruse,Pass
+166571,7,MissedShots,0.8730000305175781,0.66,0.083781398832798,Fin Bartels,h,115,OpenPlay,2017,LeftFoot,8287,Werder Bremen,Schalke 04,1,2,2017-09-16 14:30:00,Florian Kainz,Pass
+166590,59,MissedShots,0.85,0.4420000076293945,0.09100329875946045,Fin Bartels,h,115,OpenPlay,2017,RightFoot,8287,Werder Bremen,Schalke 04,1,2,2017-09-16 14:30:00,Ishak Belfodil,Pass
+166600,90,MissedShots,0.8190000152587891,0.5670000076293945,0.038982801139354706,Fin Bartels,h,115,FromCorner,2017,LeftFoot,8287,Werder Bremen,Schalke 04,1,2,2017-09-16 14:30:00,,None
+167271,55,Goal,0.9009999847412109,0.49700000762939456,0.259115993976593,Fin Bartels,a,115,OpenPlay,2017,Head,8298,Wolfsburg,Werder Bremen,1,1,2017-09-19 19:30:00,,None
+166694,24,MissedShots,0.8580000305175781,0.59,0.08275379985570908,Fin Bartels,h,115,OpenPlay,2017,RightFoot,8307,Werder Bremen,Freiburg,0,0,2017-09-23 14:30:00,Ludwig Augustinsson,Pass
+166717,87,SavedShot,0.8719999694824219,0.5129999923706055,0.08407410234212875,Fin Bartels,h,115,OpenPlay,2017,RightFoot,8307,Werder Bremen,Freiburg,0,0,2017-09-23 14:30:00,,None
+167335,3,MissedShots,0.8769999694824219,0.22799999237060548,0.030271900817751884,Fin Bartels,a,115,OpenPlay,2017,RightFoot,8319,Hamburger SV,Werder Bremen,0,0,2017-09-30 17:30:00,Ishak Belfodil,HeadPass
+167348,44,BlockedShot,0.8530000305175781,0.735999984741211,0.02054790034890175,Fin Bartels,a,115,SetPiece,2017,RightFoot,8319,Hamburger SV,Werder Bremen,0,0,2017-09-30 17:30:00,,None
+167355,70,SavedShot,0.8680000305175781,0.6040000152587891,0.09031730145215988,Fin Bartels,a,115,OpenPlay,2017,LeftFoot,8319,Hamburger SV,Werder Bremen,0,0,2017-09-30 17:30:00,Zlatko Junuzovic,Pass
+167741,45,BlockedShot,0.85,0.38,0.06852520257234573,Fin Bartels,h,115,OpenPlay,2017,RightFoot,8326,Werder Bremen,Borussia M.Gladbach,0,2,2017-10-15 17:00:00,Robert Bauer,Pass
+167556,38,SavedShot,0.7519999694824219,0.43400001525878906,0.017442600801587105,Fin Bartels,a,115,FromCorner,2017,RightFoot,8353,Eintracht Frankfurt,Werder Bremen,2,1,2017-11-03 19:30:00,,None
+167904,13,BlockedShot,0.825,0.41700000762939454,0.05203869938850403,Fin Bartels,h,115,FromCorner,2017,RightFoot,8361,Werder Bremen,Hannover 96,4,0,2017-11-19 17:00:00,,TakeOn
+167913,31,MissedShots,0.9230000305175782,0.5279999923706055,0.3952859938144684,Fin Bartels,h,115,OpenPlay,2017,Head,8361,Werder Bremen,Hannover 96,4,0,2017-11-19 17:00:00,Zlatko Junuzovic,Cross
+167915,38,Goal,0.9,0.39099998474121095,0.36510899662971497,Fin Bartels,h,115,OpenPlay,2017,RightFoot,8361,Werder Bremen,Hannover 96,4,0,2017-11-19 17:00:00,Max Kruse,Throughball
+168286,26,BlockedShot,0.8980000305175782,0.735999984741211,0.07246419787406921,Fin Bartels,a,115,OpenPlay,2017,RightFoot,8368,RasenBallsport Leipzig,Werder Bremen,2,0,2017-11-25 14:30:00,Max Kruse,BallRecovery
+168288,36,MissedShots,0.7969999694824219,0.35400001525878905,0.027922799810767174,Fin Bartels,a,115,OpenPlay,2017,LeftFoot,8368,RasenBallsport Leipzig,Werder Bremen,2,0,2017-11-25 14:30:00,,None
+168295,57,SavedShot,0.8969999694824219,0.4640000152587891,0.3534959852695465,Fin Bartels,a,115,OpenPlay,2017,RightFoot,8368,RasenBallsport Leipzig,Werder Bremen,2,0,2017-11-25 14:30:00,Thomas Delaney,Cross
+168297,74,SavedShot,0.8909999847412109,0.33299999237060546,0.2603429853916168,Fin Bartels,a,115,OpenPlay,2017,RightFoot,8368,RasenBallsport Leipzig,Werder Bremen,2,0,2017-11-25 14:30:00,Ludwig Augustinsson,Pass
+168298,74,BlockedShot,0.8580000305175781,0.40799999237060547,0.07560259848833084,Fin Bartels,a,115,OpenPlay,2017,RightFoot,8368,RasenBallsport Leipzig,Werder Bremen,2,0,2017-11-25 14:30:00,Theodor Gebre Selassie,Pass
+168947,7,MissedShots,0.8930000305175781,0.445,0.08147670328617096,Fin Bartels,h,115,OpenPlay,2017,Head,8380,Werder Bremen,VfB Stuttgart,1,0,2017-12-02 14:30:00,Zlatko Junuzovic,Cross
+168961,66,SavedShot,0.8080000305175781,0.38299999237060545,0.027804700657725334,Fin Bartels,h,115,FromCorner,2017,LeftFoot,8380,Werder Bremen,VfB Stuttgart,1,0,2017-12-02 14:30:00,,None
+337988,82,SavedShot,0.9230000305175782,0.6580000305175782,0.07865379750728607,Fin Bartels,h,115,OpenPlay,2019,LeftFoot,12543,Werder Bremen,Mainz 05,0,5,2019-12-17 17:30:00,Milot Rashica,Pass
+337989,84,SavedShot,0.7730000305175782,0.415,0.02808530069887638,Fin Bartels,h,115,OpenPlay,2019,RightFoot,12543,Werder Bremen,Mainz 05,0,5,2019-12-17 17:30:00,Claudio Pizarro,Pass
+337990,88,MissedShots,0.8690000152587891,0.39799999237060546,0.01628669910132885,Fin Bartels,h,115,OpenPlay,2019,Head,12543,Werder Bremen,Mainz 05,0,5,2019-12-17 17:30:00,Leonardo Bittencourt,Cross
+363226,66,BlockedShot,0.7390000152587891,0.46700000762939453,0.027309199795126915,Fin Bartels,a,115,OpenPlay,2019,RightFoot,12643,Freiburg,Werder Bremen,0,1,2020-05-23 13:30:00,Milot Rashica,Pass
+363792,46,SavedShot,0.8059999847412109,0.6370000076293946,0.033457200974226,Fin Bartels,h,115,OpenPlay,2019,RightFoot,12612,Werder Bremen,Eintracht Frankfurt,0,3,2020-06-03 18:30:00,Yuya Osako,HeadPass
+365374,79,MissedShots,0.715999984741211,0.5479999923706055,0.016842300072312355,Fin Bartels,a,115,OpenPlay,2019,RightFoot,12696,Mainz 05,Werder Bremen,3,1,2020-06-20 13:30:00,Davy Klaassen,Pass
+366975,82,BlockedShot,0.779000015258789,0.605,0.03170450031757355,Fin Bartels,h,115,OpenPlay,2019,RightFoot,12705,Werder Bremen,FC Cologne,6,1,2020-06-27 13:30:00,Joshua Sargent,Pass

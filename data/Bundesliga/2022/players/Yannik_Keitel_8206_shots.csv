@@ -1,0 +1,37 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+365236,53,MissedShots,0.7880000305175782,0.5209999847412109,0.028691299259662628,Yannik Keitel,a,8206,SetPiece,2019,RightFoot,12691,Bayern Munich,Freiburg,3,1,2020-06-20 13:30:00,,None
+367076,61,SavedShot,0.779000015258789,0.4179999923706055,0.04260899871587753,Yannik Keitel,h,8206,OpenPlay,2019,RightFoot,12706,Freiburg,Schalke 04,4,0,2020-06-27 13:30:00,Jonathan Schmid,Pass
+400043,78,BlockedShot,0.7369999694824219,0.4779999923706055,0.019658900797367096,Yannik Keitel,h,8206,OpenPlay,2020,RightFoot,15287,Freiburg,Eintracht Frankfurt,2,2,2021-01-20 19:30:00,Vincenzo Grifo,Pass
+402295,89,BlockedShot,0.9169999694824219,0.5770000076293945,0.020183799788355827,Yannik Keitel,a,8206,FromCorner,2020,Head,15305,Wolfsburg,Freiburg,3,0,2021-01-31 17:00:00,Christian Günter,Aerial
+412780,27,BlockedShot,0.7169999694824218,0.4759999847412109,0.019289400428533554,Yannik Keitel,a,8206,OpenPlay,2020,RightFoot,15376,Borussia M.Gladbach,Freiburg,2,1,2021-04-03 18:30:00,Christian Günter,Pass
+412798,88,SavedShot,0.7269999694824218,0.52,0.017219899222254753,Yannik Keitel,a,8206,OpenPlay,2020,RightFoot,15376,Borussia M.Gladbach,Freiburg,2,1,2021-04-03 18:30:00,Christian Günter,Pass
+417140,25,BlockedShot,0.7140000152587891,0.4,0.014391900040209293,Yannik Keitel,h,8206,OpenPlay,2020,RightFoot,15414,Freiburg,Hoffenheim,1,1,2021-04-24 13:30:00,Jonathan Schmid,Pass
+417146,36,MissedShots,0.8009999847412109,0.6609999847412109,0.029407000169157982,Yannik Keitel,h,8206,OpenPlay,2020,RightFoot,15414,Freiburg,Hoffenheim,1,1,2021-04-24 13:30:00,Christian Günter,Pass
+419589,81,BlockedShot,0.7880000305175782,0.5170000076293946,0.03925840184092522,Yannik Keitel,a,8206,OpenPlay,2020,LeftFoot,15405,Hertha Berlin,Freiburg,3,0,2021-05-06 16:30:00,Vincenzo Grifo,Pass
+421869,78,MissedShots,0.7569999694824219,0.33599998474121096,0.02098740078508854,Yannik Keitel,h,8206,OpenPlay,2020,RightFoot,15431,Freiburg,Bayern Munich,2,2,2021-05-15 13:30:00,Vincenzo Grifo,Pass
+425772,16,MissedShots,0.789000015258789,0.4540000152587891,0.01704850047826767,Yannik Keitel,a,8206,FromCorner,2021,RightFoot,17517,Arminia Bielefeld,Freiburg,0,0,2021-08-14 13:30:00,,Aerial
+425775,26,MissedShots,0.8730000305175781,0.595999984741211,0.08475189656019211,Yannik Keitel,a,8206,SetPiece,2021,LeftFoot,17517,Arminia Bielefeld,Freiburg,0,0,2021-08-14 13:30:00,Nico Schlotterbeck,Pass
+425785,56,MissedShots,0.9080000305175782,0.49700000762939456,0.05698079988360405,Yannik Keitel,a,8206,OpenPlay,2021,Head,17517,Arminia Bielefeld,Freiburg,0,0,2021-08-14 13:30:00,Christian Günter,Aerial
+425787,56,SavedShot,0.845,0.46599998474121096,0.06855860352516174,Yannik Keitel,a,8206,OpenPlay,2021,RightFoot,17517,Arminia Bielefeld,Freiburg,0,0,2021-08-14 13:30:00,,Rebound
+425788,57,MissedShots,0.8230000305175781,0.4329999923706055,0.060936398804187775,Yannik Keitel,a,8206,OpenPlay,2021,RightFoot,17517,Arminia Bielefeld,Freiburg,0,0,2021-08-14 13:30:00,Jonathan Schmid,Pass
+426909,58,OwnGoal,0.06,0.5359999847412109,0,Yannik Keitel,h,8206,OpenPlay,2021,LeftFoot,17529,Freiburg,Borussia Dortmund,2,1,2021-08-21 13:30:00,,BallTouch
+428494,7,BlockedShot,0.77,0.34,0.02671019919216633,Yannik Keitel,a,8206,OpenPlay,2021,RightFoot,17539,VfB Stuttgart,Freiburg,2,3,2021-08-28 13:30:00,Vincenzo Grifo,Pass
+429699,51,SavedShot,0.9280000305175782,0.49,0.5278000235557556,Yannik Keitel,h,8206,SetPiece,2021,LeftFoot,17545,Freiburg,FC Cologne,1,1,2021-09-11 13:30:00,Nico Schlotterbeck,HeadPass
+429709,90,MissedShots,0.82,0.49700000762939456,0.05600690096616745,Yannik Keitel,h,8206,OpenPlay,2021,RightFoot,17545,Freiburg,FC Cologne,1,1,2021-09-11 13:30:00,,None
+439534,86,MissedShots,0.7290000152587891,0.4470000076293945,0.022054100409150124,Yannik Keitel,h,8206,FromCorner,2021,RightFoot,17600,Freiburg,Greuther Fuerth,3,1,2021-10-30 13:30:00,Christian Günter,Pass
+443943,93,BlockedShot,0.8690000152587891,0.4470000076293945,0.07038089632987976,Yannik Keitel,a,8206,SetPiece,2021,RightFoot,17625,Bochum,Freiburg,2,1,2021-11-27 14:30:00,Philipp Lienhart,None
+521537,67,SavedShot,0.909000015258789,0.545,0.025415193289518356,Yannik Keitel,h,8206,FromCorner,2022,Head,19596,Freiburg,Schalke 04,4,0,2023-04-23 13:30:00,Christian Günter,Aerial
+525944,45,SavedShot,0.8719999694824219,0.385,0.0196096021682024,Yannik Keitel,a,8206,OpenPlay,2022,Head,19624,Union Berlin,Freiburg,4,2,2023-05-13 13:30:00,Noah Weißhaupt,Chipped
+529131,10,BlockedShot,0.7219999694824218,0.5590000152587891,0.01564045436680317,Yannik Keitel,a,8206,OpenPlay,2022,RightFoot,19644,Eintracht Frankfurt,Freiburg,2,1,2023-05-27 13:30:00,Lucas Höler,Pass
+529143,53,SavedShot,0.905,0.5670000076293945,0.037528034299612045,Yannik Keitel,a,8206,FromCorner,2022,Head,19644,Eintracht Frankfurt,Freiburg,2,1,2023-05-27 13:30:00,Roland Sallai,Chipped
+569985,78,Goal,0.980999984741211,0.5729999923706055,0.4219377040863037,Yannik Keitel,h,8206,OpenPlay,2023,RightFoot,23292,Freiburg,Bayer Leverkusen,2,3,2024-03-17 14:30:00,,Rebound
+569984,78,SavedShot,0.905,0.62,0.08684507012367249,Yannik Keitel,h,8206,OpenPlay,2023,LeftFoot,23292,Freiburg,Bayer Leverkusen,2,3,2024-03-17 14:30:00,Florent Muslija,Pass
+570565,32,BlockedShot,0.92,0.49700000762939456,0.0736127644777298,Yannik Keitel,a,8206,SetPiece,2023,RightFoot,23303,Borussia M.Gladbach,Freiburg,0,3,2024-03-30 14:30:00,,Aerial
+574287,69,MissedShots,0.9290000152587891,0.505,0.06343017518520355,Yannik Keitel,a,8206,FromCorner,2023,Head,23325,Darmstadt,Freiburg,0,1,2024-04-14 13:30:00,Roland Sallai,Aerial
+579790,12,MissedShots,0.9030000305175782,0.5640000152587891,0.07752915471792221,Yannik Keitel,h,8206,SetPiece,2023,Head,23355,Freiburg,FC Heidenheim,1,1,2024-05-11 13:30:00,Vincenzo Grifo,Cross
+579813,81,MissedShots,0.93,0.605999984741211,0.10420305281877518,Yannik Keitel,h,8206,SetPiece,2023,RightFoot,23355,Freiburg,FC Heidenheim,1,1,2024-05-11 13:30:00,,Rebound
+608322,19,SavedShot,0.9490000152587891,0.43200000762939456,0.5043084025382996,Yannik Keitel,h,8206,FromCorner,2024,LeftFoot,27869,VfB Stuttgart,St. Pauli,0,1,2024-12-21 14:30:00,,Rebound
+608326,33,BlockedShot,0.8069999694824219,0.44,0.027340590953826904,Yannik Keitel,h,8206,OpenPlay,2024,RightFoot,27869,VfB Stuttgart,St. Pauli,0,1,2024-12-21 14:30:00,Nick Woltemade,HeadPass
+608341,60,MissedShots,0.7469999694824219,0.5990000152587891,0.01832927018404007,Yannik Keitel,h,8206,OpenPlay,2024,RightFoot,27869,VfB Stuttgart,St. Pauli,0,1,2024-12-21 14:30:00,Ermedin Demirovic,Pass
+627786,85,SavedShot,0.749000015258789,0.5670000076293945,0.02028142660856247,Yannik Keitel,h,8206,OpenPlay,2024,RightFoot,27995,VfB Stuttgart,Werder Bremen,1,2,2025-04-13 13:30:00,Jacob Bruun Larsen,Pass
+633748,17,MissedShots,0.855,0.43,0.09760072827339172,Yannik Keitel,h,8206,OpenPlay,2024,RightFoot,28031,VfB Stuttgart,Augsburg,4,0,2025-05-11 17:30:00,Pascal Stenzel,Pass

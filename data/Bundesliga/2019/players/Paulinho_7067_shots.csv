@@ -1,0 +1,48 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+221648,86,MissedShots,0.7809999847412109,0.43099998474121093,0.033341098576784134,Paulinho,h,7067,OpenPlay,2018,RightFoot,10351,Bayer Leverkusen,Wolfsburg,1,3,2018-09-01 13:30:00,Leon Bailey,Pass
+286647,55,BlockedShot,0.8909999847412109,0.5840000152587891,0.07899370044469833,Paulinho,h,7067,OpenPlay,2018,RightFoot,10563,Bayer Leverkusen,Werder Bremen,1,3,2019-03-17 12:30:00,Kevin Volland,BallTouch
+291887,88,MissedShots,0.9719999694824218,0.6819999694824219,0.010097100399434566,Paulinho,h,7067,FromCorner,2018,Head,10582,Bayer Leverkusen,RasenBallsport Leipzig,2,4,2019-04-06 14:30:00,Leon Bailey,Cross
+300214,84,MissedShots,0.779000015258789,0.3729999923706055,0.03282589837908745,Paulinho,h,7067,OpenPlay,2018,RightFoot,10618,Bayer Leverkusen,Eintracht Frankfurt,6,1,2019-05-05 17:00:00,,BallRecovery
+300771,80,BlockedShot,0.754000015258789,0.5179999923706055,0.0231711994856596,Paulinho,h,7067,OpenPlay,2018,RightFoot,10627,Bayer Leverkusen,Schalke 04,1,1,2019-05-11 14:30:00,Julian Brandt,Pass
+300776,93,MissedShots,0.7769999694824219,0.6790000152587891,0.023594599217176437,Paulinho,h,7067,OpenPlay,2018,RightFoot,10627,Bayer Leverkusen,Schalke 04,1,1,2019-05-11 14:30:00,Dominik Kohr,Chipped
+322500,89,BlockedShot,0.784000015258789,0.6509999847412109,0.07936359941959381,Paulinho,a,7067,OpenPlay,2019,RightFoot,12451,Augsburg,Bayer Leverkusen,0,3,2019-09-28 13:30:00,Nadiem Amiri,Pass
+331459,89,SavedShot,0.915,0.29200000762939454,0.3187220096588135,Paulinho,a,7067,OpenPlay,2019,RightFoot,12501,Wolfsburg,Bayer Leverkusen,0,2,2019-11-10 14:30:00,,BallRecovery
+331463,95,Goal,0.855999984741211,0.5509999847412109,0.3069230020046234,Paulinho,a,7067,OpenPlay,2019,RightFoot,12501,Wolfsburg,Bayer Leverkusen,0,2,2019-11-10 14:30:00,Kevin Volland,Pass
+361650,7,BlockedShot,0.9269999694824219,0.285,0.06378919631242752,Paulinho,h,7067,OpenPlay,2019,RightFoot,12620,Bayer Leverkusen,Eintracht Frankfurt,4,0,2020-03-07 14:30:00,,None
+361656,48,Goal,0.919000015258789,0.3559999847412109,0.34581801295280457,Paulinho,h,7067,OpenPlay,2019,RightFoot,12620,Bayer Leverkusen,Eintracht Frankfurt,4,0,2020-03-07 14:30:00,Karim Bellarabi,TakeOn
+361659,54,Goal,0.919000015258789,0.39599998474121095,0.49564099311828613,Paulinho,h,7067,OpenPlay,2019,RightFoot,12620,Bayer Leverkusen,Eintracht Frankfurt,4,0,2020-03-07 14:30:00,Kai Havertz,Throughball
+361663,76,MissedShots,0.8190000152587891,0.5520000076293945,0.07851170003414154,Paulinho,h,7067,OpenPlay,2019,RightFoot,12620,Bayer Leverkusen,Eintracht Frankfurt,4,0,2020-03-07 14:30:00,Exequiel Palacios,Pass
+361665,79,MissedShots,0.8190000152587891,0.5779999923706055,0.1058100014925003,Paulinho,h,7067,OpenPlay,2019,RightFoot,12620,Bayer Leverkusen,Eintracht Frankfurt,4,0,2020-03-07 14:30:00,Moussa Diaby,Pass
+364822,89,MissedShots,0.845,0.48900001525878906,0.46167099475860596,Paulinho,h,7067,OpenPlay,2019,RightFoot,12684,Bayer Leverkusen,FC Cologne,3,1,2020-06-17 18:30:00,Nadiem Amiri,Throughball
+423632,21,MissedShots,0.9119999694824219,0.41,0.06763549894094467,Paulinho,a,7067,OpenPlay,2020,Head,15438,Borussia Dortmund,Bayer Leverkusen,3,1,2021-05-22 13:30:00,Karim Bellarabi,Cross
+423636,34,SavedShot,0.924000015258789,0.43099998474121093,0.11907900124788284,Paulinho,a,7067,OpenPlay,2020,RightFoot,15438,Borussia Dortmund,Bayer Leverkusen,3,1,2021-05-22 13:30:00,Karim Bellarabi,Pass
+423637,37,BlockedShot,0.7869999694824219,0.26799999237060546,0.019178999587893486,Paulinho,a,7067,OpenPlay,2020,RightFoot,15438,Borussia Dortmund,Bayer Leverkusen,3,1,2021-05-22 13:30:00,Charles Aránguiz,Pass
+428558,21,MissedShots,0.8419999694824218,0.649000015258789,0.06529220193624496,Paulinho,a,7067,OpenPlay,2021,RightFoot,17537,Augsburg,Bayer Leverkusen,1,4,2021-08-28 13:30:00,,BallRecovery
+428560,26,SavedShot,0.855999984741211,0.32299999237060545,0.1440580040216446,Paulinho,a,7067,OpenPlay,2021,RightFoot,17537,Augsburg,Bayer Leverkusen,1,4,2021-08-28 13:30:00,Moussa Diaby,Throughball
+428564,35,BlockedShot,0.874000015258789,0.65,0.03763429820537567,Paulinho,a,7067,SetPiece,2021,LeftFoot,17537,Augsburg,Bayer Leverkusen,1,4,2021-08-28 13:30:00,Kerem Demirbay,Pass
+433261,91,SavedShot,0.889000015258789,0.42400001525878905,0.37471500039100647,Paulinho,h,7067,OpenPlay,2021,RightFoot,17563,Bayer Leverkusen,Mainz 05,1,0,2021-09-25 13:30:00,Amine Adli,Throughball
+441753,34,MissedShots,0.8680000305175781,0.3870000076293945,0.014732199721038342,Paulinho,a,7067,OpenPlay,2021,Head,17609,Hertha Berlin,Bayer Leverkusen,1,1,2021-11-07 14:30:00,Piero Hincapié,Aerial
+442425,77,SavedShot,0.875,0.4929999923706055,0.34419700503349304,Paulinho,h,7067,OpenPlay,2021,RightFoot,17622,Bayer Leverkusen,Bochum,1,0,2021-11-20 14:30:00,Moussa Diaby,Pass
+452174,64,SavedShot,0.815,0.3840000152587891,0.033425699919462204,Paulinho,h,7067,OpenPlay,2021,RightFoot,17674,Bayer Leverkusen,Union Berlin,2,2,2022-01-08 14:30:00,Kerem Demirbay,Pass
+452175,68,SavedShot,0.9230000305175782,0.41700000762939454,0.05916760116815567,Paulinho,h,7067,FromCorner,2021,Head,17674,Bayer Leverkusen,Union Berlin,2,2,2022-01-08 14:30:00,Kerem Demirbay,Cross
+452176,69,BlockedShot,0.9219999694824219,0.40400001525878904,0.017120499163866043,Paulinho,h,7067,FromCorner,2021,Head,17674,Bayer Leverkusen,Union Berlin,2,2,2022-01-08 14:30:00,Kerem Demirbay,Aerial
+459636,3,MissedShots,0.9,0.509000015258789,0.09144700318574905,Paulinho,h,7067,OpenPlay,2021,Head,17730,Bayer Leverkusen,Arminia Bielefeld,3,0,2022-02-26 14:30:00,Jeremie Frimpong,Cross
+459638,6,SavedShot,0.865,0.585,0.3633280098438263,Paulinho,h,7067,OpenPlay,2021,RightFoot,17730,Bayer Leverkusen,Arminia Bielefeld,3,0,2022-02-26 14:30:00,Florian Wirtz,Throughball
+459641,23,SavedShot,0.9080000305175782,0.42700000762939455,0.12764699757099152,Paulinho,h,7067,OpenPlay,2021,RightFoot,17730,Bayer Leverkusen,Arminia Bielefeld,3,0,2022-02-26 14:30:00,Jeremie Frimpong,Pass
+459645,28,BlockedShot,0.9169999694824219,0.47200000762939454,0.14252999424934387,Paulinho,h,7067,OpenPlay,2021,RightFoot,17730,Bayer Leverkusen,Arminia Bielefeld,3,0,2022-02-26 14:30:00,Jeremie Frimpong,Pass
+459651,40,MissedShots,0.9019999694824219,0.6379999923706055,0.08308710157871246,Paulinho,h,7067,OpenPlay,2021,RightFoot,17730,Bayer Leverkusen,Arminia Bielefeld,3,0,2022-02-26 14:30:00,Charles Aránguiz,HeadPass
+463118,10,BlockedShot,0.884000015258789,0.625999984741211,0.08356419950723648,Paulinho,h,7067,OpenPlay,2021,LeftFoot,17747,Bayer Leverkusen,FC Cologne,0,1,2022-03-13 14:30:00,Piero Hincapié,Pass
+463120,17,SavedShot,0.9009999847412109,0.4129999923706055,0.3935239911079407,Paulinho,h,7067,OpenPlay,2021,RightFoot,17747,Bayer Leverkusen,FC Cologne,0,1,2022-03-13 14:30:00,Florian Wirtz,Throughball
+464705,85,Goal,0.8219999694824218,0.38799999237060545,0.057308901101350784,Paulinho,a,7067,OpenPlay,2021,RightFoot,17756,Wolfsburg,Bayer Leverkusen,0,2,2022-03-20 16:30:00,Charles Aránguiz,TakeOn
+464706,91,Goal,0.899000015258789,0.4370000076293945,0.25521600246429443,Paulinho,a,7067,OpenPlay,2021,Head,17756,Wolfsburg,Bayer Leverkusen,0,2,2022-03-20 16:30:00,Kerem Demirbay,Cross
+465083,33,BlockedShot,0.8040000152587891,0.43099998474121093,0.04784319922327995,Paulinho,h,7067,OpenPlay,2021,RightFoot,17765,Bayer Leverkusen,Hertha Berlin,2,1,2022-04-02 13:30:00,Robert Andrich,Pass
+465088,43,BlockedShot,0.9219999694824219,0.4640000152587891,0.14939799904823303,Paulinho,h,7067,OpenPlay,2021,LeftFoot,17765,Bayer Leverkusen,Hertha Berlin,2,1,2022-04-02 13:30:00,Lucas Alario,Pass
+467383,16,BlockedShot,0.850999984741211,0.5879999923706055,0.06354600191116333,Paulinho,a,7067,OpenPlay,2021,LeftFoot,17769,Bochum,Bayer Leverkusen,0,0,2022-04-10 13:30:00,,None
+469976,22,BlockedShot,0.8969999694824219,0.5659999847412109,0.11089800298213959,Paulinho,a,7067,OpenPlay,2021,LeftFoot,17786,Greuther Fuerth,Bayer Leverkusen,1,4,2022-04-23 13:30:00,,None
+469980,57,Goal,0.8769999694824219,0.5779999923706055,0.3071590065956116,Paulinho,a,7067,OpenPlay,2021,RightFoot,17786,Greuther Fuerth,Bayer Leverkusen,1,4,2022-04-23 13:30:00,Sardar Azmoun,Chipped
+472493,17,Goal,0.9369999694824219,0.5420000076293945,0.6578940153121948,Paulinho,h,7067,OpenPlay,2021,LeftFoot,17802,Bayer Leverkusen,Eintracht Frankfurt,2,0,2022-05-02 18:30:00,Moussa Diaby,Pass
+473091,8,SavedShot,0.9390000152587891,0.675,0.05121130123734474,Paulinho,a,7067,OpenPlay,2021,LeftFoot,17808,Hoffenheim,Bayer Leverkusen,2,4,2022-05-07 13:30:00,Moussa Diaby,Chipped
+475628,58,SavedShot,0.8419999694824218,0.54,0.1107570007443428,Paulinho,h,7067,OpenPlay,2021,RightFoot,17819,Bayer Leverkusen,Freiburg,2,1,2022-05-14 13:30:00,Moussa Diaby,TakeOn
+475630,63,ShotOnPost,0.9380000305175781,0.7019999694824218,0.0725862979888916,Paulinho,h,7067,OpenPlay,2021,LeftFoot,17819,Bayer Leverkusen,Freiburg,2,1,2022-05-14 13:30:00,Moussa Diaby,Pass
+491550,89,Goal,0.909000015258789,0.45,0.5448769927024841,Paulinho,h,7067,OpenPlay,2022,RightFoot,19415,Bayer Leverkusen,Schalke 04,4,0,2022-10-08 13:30:00,Amine Adli,Throughball
+493054,46,MissedShots,0.8159999847412109,0.4490000152587891,0.05206599831581116,Paulinho,a,7067,OpenPlay,2022,RightFoot,19427,Eintracht Frankfurt,Bayer Leverkusen,5,1,2022-10-15 13:30:00,,None

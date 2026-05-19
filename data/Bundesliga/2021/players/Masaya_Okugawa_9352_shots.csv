@@ -1,0 +1,42 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+405271,84,SavedShot,0.8619999694824219,0.36,0.06421869993209839,Masaya Okugawa,h,9352,OpenPlay,2020,RightFoot,15337,Arminia Bielefeld,Wolfsburg,0,3,2021-02-19 19:30:00,Manuel Prietl,Pass
+410297,36,MissedShots,0.9030000305175782,0.48,0.12619400024414062,Masaya Okugawa,a,9352,OpenPlay,2020,Head,15358,Bayer Leverkusen,Arminia Bielefeld,1,2,2021-03-14 12:30:00,Cédric Brunner,Cross
+410305,56,Goal,0.9169999694824219,0.555,0.6061559915542603,Masaya Okugawa,a,9352,OpenPlay,2020,RightFoot,15358,Bayer Leverkusen,Arminia Bielefeld,1,2,2021-03-14 12:30:00,,None
+410308,64,MissedShots,0.9259999847412109,0.4809999847412109,0.1381080001592636,Masaya Okugawa,a,9352,OpenPlay,2020,RightFoot,15358,Bayer Leverkusen,Arminia Bielefeld,1,2,2021-03-14 12:30:00,Manuel Prietl,Pass
+412427,37,MissedShots,0.754000015258789,0.5329999923706055,0.018274499103426933,Masaya Okugawa,a,9352,FromCorner,2020,RightFoot,15380,Mainz 05,Arminia Bielefeld,1,1,2021-04-03 13:30:00,,None
+412433,59,MissedShots,0.7630000305175781,0.4179999923706055,0.016198599711060524,Masaya Okugawa,a,9352,SetPiece,2020,RightFoot,15380,Mainz 05,Arminia Bielefeld,1,1,2021-04-03 13:30:00,,None
+413568,27,SavedShot,0.8640000152587891,0.5429999923706055,0.09955500066280365,Masaya Okugawa,h,9352,OpenPlay,2020,LeftFoot,15390,Arminia Bielefeld,Freiburg,1,0,2021-04-09 18:30:00,Fabian Klos,Pass
+413577,67,MissedShots,0.9359999847412109,0.34700000762939454,0.05316409841179848,Masaya Okugawa,h,9352,FromCorner,2020,RightFoot,15390,Arminia Bielefeld,Freiburg,1,0,2021-04-09 18:30:00,Arne Maier,Pass
+421966,54,SavedShot,0.855,0.47900001525878905,0.08694840222597122,Masaya Okugawa,h,9352,OpenPlay,2020,LeftFoot,15436,Arminia Bielefeld,Hoffenheim,1,1,2021-05-15 13:30:00,Andreas Voglsammer,Pass
+425781,47,SavedShot,0.8680000305175781,0.375,0.31591200828552246,Masaya Okugawa,h,9352,OpenPlay,2021,RightFoot,17517,Arminia Bielefeld,Freiburg,0,0,2021-08-14 13:30:00,,TakeOn
+425782,49,SavedShot,0.8159999847412109,0.485,0.06039569899439812,Masaya Okugawa,h,9352,OpenPlay,2021,LeftFoot,17517,Arminia Bielefeld,Freiburg,0,0,2021-08-14 13:30:00,Alessandro Schöpf,BallTouch
+430704,45,SavedShot,0.884000015258789,0.644000015258789,0.22398899495601654,Masaya Okugawa,a,9352,OpenPlay,2021,LeftFoot,17551,Borussia M.Gladbach,Arminia Bielefeld,3,1,2021-09-12 17:30:00,Manuel Prietl,Pass
+430705,46,Goal,0.914000015258789,0.5470000076293945,0.4553869962692261,Masaya Okugawa,a,9352,OpenPlay,2021,RightFoot,17551,Borussia M.Gladbach,Arminia Bielefeld,3,1,2021-09-12 17:30:00,,Rebound
+431225,68,BlockedShot,0.88,0.5629999923706055,0.11150100082159042,Masaya Okugawa,h,9352,OpenPlay,2021,RightFoot,17555,Arminia Bielefeld,Hoffenheim,0,0,2021-09-18 13:30:00,Fabian Klos,Pass
+435803,15,MissedShots,0.899000015258789,0.639000015258789,0.01720689982175827,Masaya Okugawa,h,9352,OpenPlay,2021,Head,17571,Arminia Bielefeld,Bayer Leverkusen,0,4,2021-10-03 17:30:00,Cédric Brunner,Cross
+441006,18,Goal,0.855999984741211,0.5320000076293945,0.2960360050201416,Masaya Okugawa,a,9352,OpenPlay,2021,RightFoot,17611,VfB Stuttgart,Arminia Bielefeld,0,1,2021-11-06 14:30:00,Patrick Wimmer,Chipped
+442483,10,Goal,0.914000015258789,0.3679999923706055,0.36162900924682617,Masaya Okugawa,h,9352,OpenPlay,2021,RightFoot,17615,Arminia Bielefeld,Wolfsburg,2,2,2021-11-20 14:30:00,Patrick Wimmer,Throughball
+444295,66,MissedShots,0.710999984741211,0.47400001525878904,0.014326199889183044,Masaya Okugawa,a,9352,OpenPlay,2021,RightFoot,17632,Bayern Munich,Arminia Bielefeld,1,0,2021-11-27 17:30:00,,BallTouch
+448877,50,Goal,0.919000015258789,0.500999984741211,0.0654670000076294,Masaya Okugawa,h,9352,OpenPlay,2021,Head,17651,Arminia Bielefeld,Bochum,2,0,2021-12-14 19:30:00,Patrick Wimmer,Aerial
+449399,74,Goal,0.87,0.36,0.3560729920864105,Masaya Okugawa,a,9352,OpenPlay,2021,LeftFoot,17667,RasenBallsport Leipzig,Arminia Bielefeld,0,2,2021-12-18 14:30:00,Florian Krüger,Throughball
+452132,28,MissedShots,0.865,0.6930000305175781,0.03689280152320862,Masaya Okugawa,a,9352,OpenPlay,2021,RightFoot,17673,Freiburg,Arminia Bielefeld,2,2,2022-01-08 14:30:00,Sebastian Vasiliadis,Chipped
+452145,59,Goal,0.7709999847412109,0.7080000305175781,0.012118600308895111,Masaya Okugawa,a,9352,OpenPlay,2021,RightFoot,17673,Freiburg,Arminia Bielefeld,2,2,2022-01-08 14:30:00,Janni Serra,Pass
+452148,71,MissedShots,0.8959999847412109,0.595999984741211,0.09400399774312973,Masaya Okugawa,a,9352,OpenPlay,2021,RightFoot,17673,Freiburg,Arminia Bielefeld,2,2,2022-01-08 14:30:00,,TakeOn
+452152,93,MissedShots,0.89,0.5479999923706055,0.11748900264501572,Masaya Okugawa,a,9352,OpenPlay,2021,RightFoot,17673,Freiburg,Arminia Bielefeld,2,2,2022-01-08 14:30:00,Alessandro Schöpf,Pass
+453780,7,Goal,0.870999984741211,0.36700000762939455,0.08015300333499908,Masaya Okugawa,h,9352,OpenPlay,2021,RightFoot,17679,Arminia Bielefeld,Greuther Fuerth,2,2,2022-01-16 16:30:00,Florian Krüger,Pass
+454313,39,SavedShot,0.845,0.495,0.05249990150332451,Masaya Okugawa,a,9352,OpenPlay,2021,RightFoot,17694,Eintracht Frankfurt,Arminia Bielefeld,0,2,2022-01-21 19:30:00,,Aerial
+454324,79,MissedShots,0.9019999694824219,0.3060000038146973,0.07451889663934708,Masaya Okugawa,a,9352,OpenPlay,2021,RightFoot,17694,Eintracht Frankfurt,Arminia Bielefeld,0,2,2022-01-21 19:30:00,Fabian Klos,Pass
+455783,29,MissedShots,0.8530000305175781,0.4620000076293945,0.022334899753332138,Masaya Okugawa,h,9352,OpenPlay,2021,Head,17697,Arminia Bielefeld,Borussia M.Gladbach,1,1,2022-02-05 14:30:00,Janni Serra,Aerial
+458217,52,Goal,0.8690000152587891,0.3320000076293945,0.3292370140552521,Masaya Okugawa,h,9352,OpenPlay,2021,RightFoot,17715,Arminia Bielefeld,Union Berlin,1,0,2022-02-19 14:30:00,Patrick Wimmer,Throughball
+463228,13,SavedShot,0.865,0.36400001525878906,0.07800640165805817,Masaya Okugawa,a,9352,OpenPlay,2021,RightFoot,17749,Borussia Dortmund,Arminia Bielefeld,1,0,2022-03-13 16:30:00,Bryan Lasme,Pass
+463235,38,MissedShots,0.8730000305175781,0.5640000152587891,0.057550098747015,Masaya Okugawa,a,9352,OpenPlay,2021,RightFoot,17749,Borussia Dortmund,Arminia Bielefeld,1,0,2022-03-13 16:30:00,Cédric Brunner,Cross
+463251,80,BlockedShot,0.904000015258789,0.5479999923706055,0.11724899709224701,Masaya Okugawa,a,9352,OpenPlay,2021,RightFoot,17749,Borussia Dortmund,Arminia Bielefeld,1,0,2022-03-13 16:30:00,Bryan Lasme,Pass
+463960,38,MissedShots,0.7830000305175782,0.43099998474121093,0.027735300362110138,Masaya Okugawa,a,9352,OpenPlay,2021,RightFoot,17754,Mainz 05,Arminia Bielefeld,4,0,2022-03-19 14:30:00,Bryan Lasme,Pass
+468732,15,MissedShots,0.875,0.5529999923706055,0.07530319690704346,Masaya Okugawa,h,9352,FromCorner,2021,LeftFoot,17777,Arminia Bielefeld,Bayern Munich,0,3,2022-04-17 13:30:00,,None
+468742,50,MissedShots,0.9409999847412109,0.669000015258789,0.05151659995317459,Masaya Okugawa,h,9352,OpenPlay,2021,LeftFoot,17777,Arminia Bielefeld,Bayern Munich,0,3,2022-04-17 13:30:00,Stefan Ortega Moreno,Chipped
+469946,45,SavedShot,0.8969999694824219,0.5790000152587891,0.051848698407411575,Masaya Okugawa,a,9352,FromCorner,2021,RightFoot,17788,FC Cologne,Arminia Bielefeld,3,1,2022-04-23 13:30:00,Patrick Wimmer,Cross
+469948,45,BlockedShot,0.775,0.6819999694824219,0.02135320007801056,Masaya Okugawa,a,9352,OpenPlay,2021,RightFoot,17788,FC Cologne,Arminia Bielefeld,3,1,2022-04-23 13:30:00,Patrick Wimmer,Pass
+472732,5,MissedShots,0.86,0.6630000305175782,0.05407769978046417,Masaya Okugawa,a,9352,OpenPlay,2021,LeftFoot,17805,Bochum,Arminia Bielefeld,2,1,2022-05-06 18:30:00,Guilherme Ramos,Chipped
+472735,8,BlockedShot,0.755,0.41900001525878905,0.023229200392961502,Masaya Okugawa,a,9352,OpenPlay,2021,LeftFoot,17805,Bochum,Arminia Bielefeld,2,1,2022-05-06 18:30:00,Florian Krüger,Pass
+472745,32,SavedShot,0.759000015258789,0.715,0.017995599657297134,Masaya Okugawa,a,9352,OpenPlay,2021,RightFoot,17805,Bochum,Arminia Bielefeld,2,1,2022-05-06 18:30:00,Manuel Prietl,Pass
+475770,71,MissedShots,0.88,0.5709999847412109,0.39519500732421875,Masaya Okugawa,h,9352,OpenPlay,2021,LeftFoot,17813,Arminia Bielefeld,RasenBallsport Leipzig,1,1,2022-05-14 13:30:00,,None

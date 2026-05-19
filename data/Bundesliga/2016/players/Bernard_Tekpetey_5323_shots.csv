@@ -1,0 +1,13 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+323337,70,SavedShot,0.754000015258789,0.29600000381469727,0.01747730001807213,Bernard Tekpetey,h,5323,OpenPlay,2019,RightFoot,12455,Fortuna Duesseldorf,Freiburg,1,2,2019-09-29 13:30:00,Lewis Baker,Pass
+323342,82,BlockedShot,0.8730000305175781,0.3509999847412109,0.0521354004740715,Bernard Tekpetey,h,5323,OpenPlay,2019,RightFoot,12455,Fortuna Duesseldorf,Freiburg,1,2,2019-09-29 13:30:00,,None
+323348,94,MissedShots,0.8780000305175781,0.5359999847412109,0.05088379979133606,Bernard Tekpetey,h,5323,SetPiece,2019,Head,12455,Fortuna Duesseldorf,Freiburg,1,2,2019-09-29 13:30:00,Lewis Baker,Chipped
+323752,55,BlockedShot,0.850999984741211,0.2589999961853027,0.023689299821853638,Bernard Tekpetey,a,5323,OpenPlay,2019,LeftFoot,12459,Hertha Berlin,Fortuna Duesseldorf,3,1,2019-10-04 19:30:00,Oliver Fink,Pass
+325491,25,MissedShots,0.8080000305175781,0.3770000076293945,0.038392599672079086,Bernard Tekpetey,h,5323,OpenPlay,2019,RightFoot,12474,Fortuna Duesseldorf,Mainz 05,1,0,2019-10-19 14:30:00,Adam Bodzek,Pass
+325494,32,BlockedShot,0.6859999847412109,0.5729999923706055,0.011378100141882896,Bernard Tekpetey,h,5323,OpenPlay,2019,RightFoot,12474,Fortuna Duesseldorf,Mainz 05,1,0,2019-10-19 14:30:00,Adam Bodzek,BallRecovery
+325503,58,BlockedShot,0.735999984741211,0.48400001525878905,0.021125800907611847,Bernard Tekpetey,h,5323,OpenPlay,2019,RightFoot,12474,Fortuna Duesseldorf,Mainz 05,1,0,2019-10-19 14:30:00,Kenan Karaman,Pass
+327103,12,BlockedShot,0.875,0.49900001525878906,0.08531329780817032,Bernard Tekpetey,a,5323,OpenPlay,2019,RightFoot,12477,Paderborn,Fortuna Duesseldorf,2,0,2019-10-26 14:30:00,,None
+327115,45,BlockedShot,0.705999984741211,0.555,0.011658900417387486,Bernard Tekpetey,a,5323,OpenPlay,2019,LeftFoot,12477,Paderborn,Fortuna Duesseldorf,2,0,2019-10-26 14:30:00,,None
+327123,59,MissedShots,0.8130000305175781,0.44,0.036528099328279495,Bernard Tekpetey,a,5323,FromCorner,2019,RightFoot,12477,Paderborn,Fortuna Duesseldorf,2,0,2019-10-26 14:30:00,,None
+338034,72,MissedShots,0.7969999694824219,0.505,0.045435499399900436,Bernard Tekpetey,a,5323,OpenPlay,2019,RightFoot,12545,Augsburg,Fortuna Duesseldorf,3,0,2019-12-17 19:30:00,,Dispossessed
+357913,1,BlockedShot,0.8159999847412109,0.38,0.03528720140457153,Bernard Tekpetey,a,5323,OpenPlay,2019,LeftFoot,12586,Wolfsburg,Fortuna Duesseldorf,1,1,2020-02-08 14:30:00,Kaan Ayhan,Pass

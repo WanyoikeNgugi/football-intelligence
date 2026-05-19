@@ -1,0 +1,31 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+599957,31,Goal,0.9690000152587891,0.4979999923706055,0.9307712316513062,Nathaniel Brown,h,13122,OpenPlay,2024,LeftFoot,27817,Eintracht Frankfurt,Bochum,7,2,2024-11-02 14:30:00,Nnamdi Collins,Pass
+599966,46,MissedShots,0.7969999694824219,0.615,0.021956773474812508,Nathaniel Brown,h,13122,OpenPlay,2024,LeftFoot,27817,Eintracht Frankfurt,Bochum,7,2,2024-11-02 14:30:00,,Rebound
+602251,54,Goal,0.9480000305175781,0.514000015258789,0.6230124235153198,Nathaniel Brown,a,13122,OpenPlay,2024,RightFoot,27823,VfB Stuttgart,Eintracht Frankfurt,2,3,2024-11-10 16:30:00,,None
+602255,66,SavedShot,0.89,0.644000015258789,0.37092486023902893,Nathaniel Brown,a,13122,OpenPlay,2024,LeftFoot,27823,VfB Stuttgart,Eintracht Frankfurt,2,3,2024-11-10 16:30:00,,BallRecovery
+607815,39,Goal,0.8490000152587891,0.68,0.03886507824063301,Nathaniel Brown,a,13122,OpenPlay,2024,LeftFoot,27859,RasenBallsport Leipzig,Eintracht Frankfurt,2,1,2024-12-15 18:30:00,Can Uzun,Pass
+608270,66,BlockedShot,0.9180000305175782,0.654000015258789,0.052364982664585114,Nathaniel Brown,h,13122,OpenPlay,2024,LeftFoot,27871,Eintracht Frankfurt,Mainz 05,1,3,2024-12-21 14:30:00,Robin Koch,Rebound
+610715,30,BlockedShot,0.860999984741211,0.46599998474121096,0.10192260146141052,Nathaniel Brown,a,13122,OpenPlay,2024,RightFoot,27885,St. Pauli,Eintracht Frankfurt,0,1,2025-01-11 14:30:00,Mario Götze,Pass
+611440,49,SavedShot,0.904000015258789,0.7469999694824219,0.11154020577669144,Nathaniel Brown,h,13122,OpenPlay,2024,LeftFoot,27889,Eintracht Frankfurt,Freiburg,4,1,2025-01-14 19:30:00,Mario Götze,Throughball
+611950,0,MissedShots,0.8490000152587891,0.6919999694824219,0.035794444382190704,Nathaniel Brown,h,13122,OpenPlay,2024,LeftFoot,27898,Eintracht Frankfurt,Borussia Dortmund,2,0,2025-01-17 19:30:00,Hugo Ekitike,Chipped
+611962,36,MissedShots,0.8919999694824219,0.6079999923706054,0.09287736564874649,Nathaniel Brown,h,13122,OpenPlay,2024,RightFoot,27898,Eintracht Frankfurt,Borussia Dortmund,2,0,2025-01-17 19:30:00,,None
+617847,23,ShotOnPost,0.8130000305175781,0.6170000076293946,0.04415549337863922,Nathaniel Brown,h,13122,OpenPlay,2024,RightFoot,27933,Eintracht Frankfurt,Holstein Kiel,3,1,2025-02-16 16:30:00,,Rebound
+624316,35,BlockedShot,0.8530000305175781,0.28899999618530275,0.03706507012248039,Nathaniel Brown,h,13122,FromCorner,2024,LeftFoot,27978,Eintracht Frankfurt,VfB Stuttgart,1,0,2025-03-29 17:30:00,Rasmus Kristensen,Pass
+630452,70,BlockedShot,0.8680000305175781,0.705999984741211,0.03366885706782341,Nathaniel Brown,h,13122,SetPiece,2024,RightFoot,28015,Eintracht Frankfurt,RasenBallsport Leipzig,4,0,2025-04-26 16:30:00,Ellyes Skhiri,Pass
+643695,6,SavedShot,0.795,0.6719999694824219,0.026298461481928825,Nathaniel Brown,h,13122,OpenPlay,2025,LeftFoot,30257,Eintracht Frankfurt,Union Berlin,3,4,2025-09-21 13:30:00,Hugo Larsson,Pass
+643707,47,Goal,0.7909999847412109,0.63,0.027203259989619255,Nathaniel Brown,h,13122,OpenPlay,2025,RightFoot,30257,Eintracht Frankfurt,Union Berlin,3,4,2025-09-21 13:30:00,Sepe Elye Wahi,Pass
+644992,52,SavedShot,0.87,0.6580000305175782,0.08937174081802368,Nathaniel Brown,a,13122,OpenPlay,2025,LeftFoot,30265,Borussia M.Gladbach,Eintracht Frankfurt,4,6,2025-09-27 16:30:00,Can Uzun,Pass
+648170,88,BlockedShot,0.8619999694824219,0.42700000762939455,0.05964197218418121,Nathaniel Brown,a,13122,OpenPlay,2025,RightFoot,30280,Freiburg,Eintracht Frankfurt,2,2,2025-10-19 13:30:00,Jean Négoce,Cross
+648172,91,MissedShots,0.8690000152587891,0.585999984741211,0.0928005799651146,Nathaniel Brown,a,13122,OpenPlay,2025,LeftFoot,30280,Freiburg,Eintracht Frankfurt,2,2,2025-10-19 13:30:00,Robin Koch,Pass
+648856,48,SavedShot,0.9330000305175781,0.4809999847412109,0.5780763626098633,Nathaniel Brown,h,13122,OpenPlay,2025,LeftFoot,30291,Eintracht Frankfurt,St. Pauli,2,0,2025-10-25 13:30:00,Ansgar Knauff,Pass
+655675,37,BlockedShot,0.8080000305175781,0.53,0.062204379588365555,Nathaniel Brown,h,13122,OpenPlay,2025,RightFoot,30326,Eintracht Frankfurt,Wolfsburg,1,1,2025-11-30 16:30:00,Jean Négoce,LayOff
+659222,76,BlockedShot,0.975,0.515,0.19816048443317413,Nathaniel Brown,a,13122,OpenPlay,2025,RightFoot,30353,Hamburger SV,Eintracht Frankfurt,1,1,2025-12-20 14:30:00,,Rebound
+665985,37,MissedShots,0.745999984741211,0.435,0.013600521720945835,Nathaniel Brown,h,13122,FromCorner,2025,LeftFoot,30397,Eintracht Frankfurt,Bayer Leverkusen,1,3,2026-01-31 14:30:00,,Aerial
+665991,50,BlockedShot,0.8959999847412109,0.47900001525878905,0.11607035994529724,Nathaniel Brown,h,13122,OpenPlay,2025,RightFoot,30397,Eintracht Frankfurt,Bayer Leverkusen,1,3,2026-01-31 14:30:00,Mario Götze,Pass
+666950,82,Goal,0.845,0.49,0.06821051985025406,Nathaniel Brown,a,13122,OpenPlay,2025,LeftFoot,30411,Union Berlin,Eintracht Frankfurt,1,1,2026-02-06 19:30:00,Mahmoud Dahoud,None
+668632,23,Goal,0.8830000305175781,0.590999984741211,0.10298894345760345,Nathaniel Brown,h,13122,OpenPlay,2025,RightFoot,30416,Eintracht Frankfurt,Borussia M.Gladbach,3,0,2026-02-14 14:30:00,Jean Négoce,Pass
+668658,88,BlockedShot,0.779000015258789,0.63,0.03693057969212532,Nathaniel Brown,h,13122,OpenPlay,2025,LeftFoot,30416,Eintracht Frankfurt,Borussia M.Gladbach,3,0,2026-02-14 14:30:00,Mahmoud Dahoud,Pass
+669710,61,MissedShots,0.9290000152587891,0.6559999847412109,0.07282032817602158,Nathaniel Brown,a,13122,OpenPlay,2025,LeftFoot,30422,Bayern Munich,Eintracht Frankfurt,3,2,2026-02-21 14:30:00,Jean Négoce,Pass
+671829,23,SavedShot,0.759000015258789,0.34900001525878904,0.017512524500489235,Nathaniel Brown,h,13122,OpenPlay,2025,LeftFoot,30435,Eintracht Frankfurt,Freiburg,2,0,2026-03-01 16:30:00,Arnaud Kalimuendo Muinga,Pass
+671838,69,MissedShots,0.7619999694824219,0.4779999923706055,0.029170988127589226,Nathaniel Brown,h,13122,OpenPlay,2025,LeftFoot,30435,Eintracht Frankfurt,Freiburg,2,0,2026-03-01 16:30:00,Arnaud Kalimuendo Muinga,Pass
+675941,19,Goal,0.9069999694824219,0.534000015258789,0.45927169919013977,Nathaniel Brown,a,13122,OpenPlay,2025,RightFoot,30463,Mainz 05,Eintracht Frankfurt,2,1,2026-03-22 14:30:00,Jean Négoce,Pass

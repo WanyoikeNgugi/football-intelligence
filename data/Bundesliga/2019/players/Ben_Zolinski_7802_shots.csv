@@ -1,0 +1,21 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+315683,90,MissedShots,0.7780000305175782,0.7630000305175781,0.011570099741220474,Ben Zolinski,a,7802,OpenPlay,2019,RightFoot,12422,Wolfsburg,Paderborn,1,1,2019-08-31 14:30:00,,None
+320344,26,BlockedShot,0.9209999847412109,0.5990000152587891,0.09183680266141891,Ben Zolinski,a,7802,OpenPlay,2019,LeftFoot,12440,Hertha Berlin,Paderborn,2,1,2019-09-21 13:30:00,,Rebound
+320351,53,Goal,0.965999984741211,0.46599998474121096,0.5955910086631775,Ben Zolinski,a,7802,OpenPlay,2019,RightFoot,12440,Hertha Berlin,Paderborn,2,1,2019-09-21 13:30:00,Mohamed Dräger,Cross
+320356,66,SavedShot,0.94,0.7030000305175781,0.054384201765060425,Ben Zolinski,a,7802,OpenPlay,2019,LeftFoot,12440,Hertha Berlin,Paderborn,2,1,2019-09-21 13:30:00,Jamilu Collins,Pass
+324040,13,Goal,0.8569999694824219,0.5640000152587891,0.07893390208482742,Ben Zolinski,h,7802,OpenPlay,2019,LeftFoot,12458,Paderborn,Mainz 05,1,2,2019-10-05 14:30:00,Mohamed Dräger,Pass
+324063,79,MissedShots,0.95,0.5,0.14846700429916382,Ben Zolinski,h,7802,SetPiece,2019,Head,12458,Paderborn,Mainz 05,1,2,2019-10-05 14:30:00,Kai Pröger,Cross
+327102,4,SavedShot,0.909000015258789,0.2670000076293945,0.039652999490499496,Ben Zolinski,h,7802,OpenPlay,2019,RightFoot,12477,Paderborn,Fortuna Duesseldorf,2,0,2019-10-26 14:30:00,,None
+331759,29,MissedShots,0.9640000152587891,0.6630000305175782,0.012074699625372887,Ben Zolinski,a,7802,FromCorner,2019,Head,12502,Borussia Dortmund,Paderborn,3,3,2019-11-22 19:30:00,Kai Pröger,Aerial
+336527,26,BlockedShot,0.764000015258789,0.5,0.025288499891757965,Ben Zolinski,a,7802,OpenPlay,2019,RightFoot,12525,Werder Bremen,Paderborn,0,1,2019-12-08 17:00:00,Streli Mamba,Pass
+336851,43,BlockedShot,0.9169999694824219,0.539000015258789,0.13917900621891022,Ben Zolinski,h,7802,OpenPlay,2019,RightFoot,12537,Paderborn,Union Berlin,1,1,2019-12-14 14:30:00,,Rebound
+336850,43,BlockedShot,0.924000015258789,0.539000015258789,0.48346200585365295,Ben Zolinski,h,7802,OpenPlay,2019,RightFoot,12537,Paderborn,Union Berlin,1,1,2019-12-14 14:30:00,,BallTouch
+336858,64,MissedShots,0.8859999847412109,0.42700000762939455,0.09061949700117111,Ben Zolinski,h,7802,FromCorner,2019,RightFoot,12537,Paderborn,Union Berlin,1,1,2019-12-14 14:30:00,Kai Pröger,Rebound
+339380,56,MissedShots,0.855999984741211,0.48900001525878906,0.12381000071763992,Ben Zolinski,h,7802,OpenPlay,2019,LeftFoot,12555,Paderborn,Eintracht Frankfurt,2,1,2019-12-22 17:00:00,Streli Mamba,Pass
+357291,21,Goal,0.9630000305175781,0.539000015258789,0.6260380148887634,Ben Zolinski,h,7802,FromCorner,2019,RightFoot,12582,Paderborn,Wolfsburg,2,4,2020-02-02 17:00:00,Christian Strohdiek,Rebound
+363864,89,MissedShots,0.88,0.56,0.07103010267019272,Ben Zolinski,a,7802,OpenPlay,2019,LeftFoot,12665,RasenBallsport Leipzig,Paderborn,1,1,2020-06-06 13:30:00,,BallTouch
+363867,93,SavedShot,0.884000015258789,0.5659999847412109,0.275752991437912,Ben Zolinski,a,7802,OpenPlay,2019,Head,12665,RasenBallsport Leipzig,Paderborn,1,1,2020-06-06 13:30:00,Antony Evans,Chipped
+364272,74,SavedShot,0.9540000152587891,0.3370000076293945,0.06764090061187744,Ben Zolinski,h,7802,OpenPlay,2019,RightFoot,12681,Paderborn,Werder Bremen,1,5,2020-06-13 13:30:00,Sven Michel,Pass
+364638,26,OwnGoal,0.12600000381469725,0.425,0,Ben Zolinski,a,7802,SetPiece,2019,Head,12690,Union Berlin,Paderborn,1,0,2020-06-16 18:30:00,,Foul
+364641,35,MissedShots,0.8769999694824219,0.67,0.05701829865574837,Ben Zolinski,a,7802,OpenPlay,2019,RightFoot,12690,Union Berlin,Paderborn,1,0,2020-06-16 18:30:00,Gerrit Holtmann,Pass
+364652,58,BlockedShot,0.89,0.37599998474121094,0.06880810111761093,Ben Zolinski,a,7802,OpenPlay,2019,RightFoot,12690,Union Berlin,Paderborn,1,0,2020-06-16 18:30:00,Marlon Ritter,Pass

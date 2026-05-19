@@ -1,0 +1,13 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+217478,90,Goal,0.884000015258789,0.53,0.05484050139784813,Senou Coulibaly,a,6876,FromCorner,2018,RightFoot,10646,Montpellier,Dijon,1,2,2018-08-11 21:00:00,Naim Sliti,Cross
+283685,80,MissedShots,0.93,0.504000015258789,0.061512600630521774,Senou Coulibaly,h,6876,FromCorner,2018,Head,10894,Dijon,Saint-Etienne,0,1,2019-02-22 18:00:00,Naim Sliti,Aerial
+310204,88,MissedShots,0.935,0.495,0.13158099353313446,Senou Coulibaly,h,6876,FromCorner,2019,RightFoot,12715,Dijon,Saint-Etienne,1,2,2019-08-10 19:00:00,Didier Ndong,HeadPass
+310943,71,MissedShots,0.9269999694824219,0.45799999237060546,0.04785589873790741,Senou Coulibaly,a,6876,FromCorner,2019,Head,12725,Toulouse,Dijon,1,0,2019-08-17 19:00:00,Frederic Sammaritano,Aerial
+333925,83,MissedShots,0.9209999847412109,0.504000015258789,0.33024200797080994,Senou Coulibaly,a,6876,FromCorner,2019,Head,12857,Lille,Dijon,1,0,2019-11-30 19:00:00,Mounir Chouiar,Cross
+334916,1,MissedShots,0.8540000152587891,0.5159999847412109,0.07312309741973877,Senou Coulibaly,h,6876,FromCorner,2019,LeftFoot,12862,Dijon,Montpellier,2,2,2019-12-04 18:00:00,,Rebound
+334919,7,MissedShots,0.9009999847412109,0.4490000152587891,0.018271099776029587,Senou Coulibaly,h,6876,FromCorner,2019,Head,12862,Dijon,Montpellier,2,2,2019-12-04 18:00:00,Mounir Chouiar,Aerial
+400824,62,SavedShot,0.92,0.48400001525878905,0.047939199954271317,Senou Coulibaly,h,6876,FromCorner,2020,Head,15957,Dijon,Strasbourg,1,1,2021-01-24 14:00:00,Frederic Sammaritano,Aerial
+400825,62,Goal,0.9640000152587891,0.509000015258789,0.6400799751281738,Senou Coulibaly,h,6876,FromCorner,2020,LeftFoot,15957,Dijon,Strasbourg,1,1,2021-01-24 14:00:00,,None
+403612,4,Goal,0.9180000305175782,0.5279999923706055,0.09652189910411835,Senou Coulibaly,a,6876,FromCorner,2020,Head,15986,Montpellier,Dijon,4,2,2021-02-07 14:00:00,Bersant Celina,Cross
+403614,13,MissedShots,0.9230000305175782,0.38299999237060545,0.016407599672675133,Senou Coulibaly,a,6876,SetPiece,2020,Head,15986,Montpellier,Dijon,4,2,2021-02-07 14:00:00,Bersant Celina,Aerial
+413370,74,BlockedShot,0.8959999847412109,0.36700000762939455,0.01939290016889572,Senou Coulibaly,a,6876,OpenPlay,2020,Head,16062,Marseille,Dijon,2,0,2021-04-04 19:00:00,Bersant Celina,Cross

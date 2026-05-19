@@ -1,0 +1,10 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+129502,13,SavedShot,0.815,0.605999984741211,0.04498710110783577,Allan,a,5239,OpenPlay,2016,LeftFoot,3306,Hoffenheim,Hertha Berlin,1,0,2016-10-30 18:30:00,Genki Haraguchi,Pass
+131688,38,MissedShots,0.535,0.525,0.01908780075609684,Allan,a,5239,DirectFreekick,2016,LeftFoot,3213,RasenBallsport Leipzig,Hertha Berlin,2,0,2016-12-17 18:30:00,,Standard
+132757,54,BlockedShot,0.735999984741211,0.345,0.01614929921925068,Allan,a,5239,OpenPlay,2016,LeftFoot,3835,Mainz 05,Hertha Berlin,1,0,2017-04-15 14:30:00,Genki Haraguchi,Pass
+133636,64,MissedShots,0.7830000305175782,0.38,0.020815499126911163,Allan,h,5239,FromCorner,2016,LeftFoot,3843,Hertha Berlin,Wolfsburg,1,0,2017-04-22 14:30:00,,None
+133640,89,MissedShots,0.5970000076293945,0.4229999923706055,0.008610369637608528,Allan,h,5239,OpenPlay,2016,LeftFoot,3843,Hertha Berlin,Wolfsburg,1,0,2017-04-22 14:30:00,,None
+134571,47,MissedShots,0.7709999847412109,0.5279999923706055,0.021910900250077248,Allan,a,5239,OpenPlay,2016,LeftFoot,3850,Werder Bremen,Hertha Berlin,2,0,2017-04-29 14:30:00,,None
+133436,47,MissedShots,0.375,0.4520000076293945,0.009940169751644135,Allan,a,5239,OpenPlay,2016,LeftFoot,3872,Darmstadt,Hertha Berlin,0,2,2017-05-13 14:30:00,Alexander Esswein,BallRecovery
+228645,60,MissedShots,0.8180000305175781,0.35400001525878905,0.05106719955801964,Allan,h,5239,OpenPlay,2018,LeftFoot,10389,Eintracht Frankfurt,Hannover 96,4,1,2018-09-30 13:30:00,,BallRecovery
+228649,83,MissedShots,0.8090000152587891,0.46599998474121096,0.07269109785556793,Allan,h,5239,OpenPlay,2018,LeftFoot,10389,Eintracht Frankfurt,Hannover 96,4,1,2018-09-30 13:30:00,Luka Jovic,Pass

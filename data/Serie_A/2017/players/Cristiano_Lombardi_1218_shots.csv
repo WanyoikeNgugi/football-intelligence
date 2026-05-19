@@ -1,0 +1,26 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+144249,32,Goal,0.8919999694824219,0.47,0.45403701066970825,Cristiano Lombardi,a,1218,OpenPlay,2016,RightFoot,936,Atalanta,Lazio,3,4,2016-08-21 22:45:00,,Rebound
+144257,60,BlockedShot,0.89,0.295,0.047788798809051514,Cristiano Lombardi,a,1218,OpenPlay,2016,RightFoot,936,Atalanta,Lazio,3,4,2016-08-21 22:45:00,,None
+147959,76,ShotOnPost,0.9269999694824219,0.5420000076293945,0.14800000190734863,Cristiano Lombardi,a,1218,OpenPlay,2016,RightFoot,991,Udinese,Lazio,0,3,2016-10-01 22:45:00,Senad Lulic,Pass
+147960,76,MissedShots,0.935,0.555,0.050755999982357025,Cristiano Lombardi,a,1218,OpenPlay,2016,Head,991,Udinese,Lazio,0,3,2016-10-01 22:45:00,,Rebound
+149178,87,BlockedShot,0.9259999847412109,0.5429999923706055,0.14378400146961212,Cristiano Lombardi,h,1218,OpenPlay,2016,LeftFoot,3283,Lazio,Cagliari,4,1,2016-10-26 22:45:00,Alessandro Murgia,Pass
+153464,84,SavedShot,0.9159999847412109,0.27,0.03117470070719719,Cristiano Lombardi,a,1218,SetPiece,2016,RightFoot,3098,Inter,Lazio,3,0,2016-12-21 19:45:00,Stefan de Vrij,Pass
+153909,39,MissedShots,0.8280000305175781,0.40200000762939453,0.04638290032744408,Cristiano Lombardi,h,1218,OpenPlay,2016,RightFoot,3525,Lazio,Crotone,1,0,2017-01-08 18:00:00,Marco Parolo,Pass
+153914,65,BlockedShot,0.9080000305175782,0.28600000381469726,0.0504487007856369,Cristiano Lombardi,h,1218,OpenPlay,2016,RightFoot,3525,Lazio,Crotone,1,0,2017-01-08 18:00:00,Ciro Immobile,Pass
+151119,74,MissedShots,0.8530000305175781,0.5840000152587891,0.32516300678253174,Cristiano Lombardi,a,1218,OpenPlay,2016,RightFoot,3658,Genoa,Lazio,2,2,2017-04-15 14:00:00,Keita,Pass
+152746,77,SavedShot,0.88,0.3629999923706055,0.4258610010147095,Cristiano Lombardi,h,1218,OpenPlay,2016,RightFoot,3690,Lazio,Sampdoria,7,3,2017-05-07 14:00:00,Ciro Immobile,Throughball
+153163,75,OwnGoal,0.05300000190734863,0.4370000076293945,0,Cristiano Lombardi,a,1218,OpenPlay,2016,LeftFoot,3696,Fiorentina,Lazio,3,2,2017-05-13 17:00:00,,Challenge
+173482,38,MissedShots,0.7240000152587891,0.5670000076293945,0.014354400336742401,Cristiano Lombardi,a,1218,OpenPlay,2017,RightFoot,7534,Napoli,Benevento,6,0,2017-09-17 14:00:00,Samuel Armenteros,Pass
+173941,65,SavedShot,0.9319999694824219,0.27899999618530275,0.04037940129637718,Cristiano Lombardi,a,1218,OpenPlay,2017,RightFoot,7550,Crotone,Benevento,2,0,2017-09-24 14:00:00,Danilo Cataldi,BallTouch
+174552,52,MissedShots,0.7169999694824218,0.45,0.008619429543614388,Cristiano Lombardi,a,1218,OpenPlay,2017,RightFoot,7573,Verona,Benevento,1,0,2017-10-16 19:45:00,Gaetano Letizia,Chipped
+174756,85,BlockedShot,0.755,0.41,0.01920350082218647,Cristiano Lombardi,h,1218,OpenPlay,2017,RightFoot,7580,Benevento,Fiorentina,0,3,2017-10-22 14:00:00,Ledian Memushaj,Pass
+175030,74,SavedShot,0.9080000305175782,0.43400001525878906,0.08862999826669693,Cristiano Lombardi,a,1218,OpenPlay,2017,RightFoot,7591,Cagliari,Benevento,2,1,2017-10-25 19:45:00,Gaetano Letizia,Cross
+175033,86,MissedShots,0.9630000305175781,0.3609999847412109,0.015370099805295467,Cristiano Lombardi,a,1218,FromCorner,2017,Head,7591,Cagliari,Benevento,2,1,2017-10-25 19:45:00,Nicolas Viola,Cross
+185863,16,MissedShots,0.7419999694824219,0.29700000762939455,0.016134699806571007,Cristiano Lombardi,h,1218,OpenPlay,2017,RightFoot,7680,Benevento,Chievo,1,0,2017-12-30 14:00:00,Ledian Memushaj,Pass
+185864,17,SavedShot,0.9340000152587891,0.37099998474121093,0.0247236005961895,Cristiano Lombardi,h,1218,OpenPlay,2017,Head,7680,Benevento,Chievo,1,0,2017-12-30 14:00:00,Lorenzo Venuti,Cross
+186752,66,MissedShots,0.915,0.425,0.33713600039482117,Cristiano Lombardi,h,1218,OpenPlay,2017,RightFoot,7696,Benevento,Sampdoria,3,2,2018-01-06 14:00:00,Lorenzo Venuti,Cross
+189289,11,MissedShots,0.960999984741211,0.5990000152587891,0.055858101695775986,Cristiano Lombardi,a,1218,FromCorner,2017,Head,7699,Bologna,Benevento,3,0,2018-01-21 14:00:00,Nicolas Viola,Cross
+200486,31,MissedShots,0.9290000152587891,0.5179999923706055,0.3653779923915863,Cristiano Lombardi,a,1218,OpenPlay,2017,Head,7770,Fiorentina,Benevento,1,0,2018-03-11 11:30:00,Bacary Sagna,Cross
+200487,37,SavedShot,0.8730000305175781,0.710999984741211,0.03512270003557205,Cristiano Lombardi,a,1218,OpenPlay,2017,RightFoot,7770,Fiorentina,Benevento,1,0,2018-03-11 11:30:00,Lorenzo Venuti,BlockedPass
+204902,1,MissedShots,0.909000015258789,0.29200000762939454,0.04549479857087135,Cristiano Lombardi,a,1218,OpenPlay,2017,RightFoot,7789,Lazio,Benevento,6,2,2018-03-31 14:00:00,Guilherme,Chipped
+209623,9,MissedShots,0.8780000305175781,0.3920000076293945,0.06153799965977669,Cristiano Lombardi,h,1218,FromCorner,2017,LeftFoot,7819,Benevento,Atalanta,0,3,2018-04-18 16:00:00,,None

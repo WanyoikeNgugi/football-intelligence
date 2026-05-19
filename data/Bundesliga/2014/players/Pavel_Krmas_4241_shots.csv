@@ -1,0 +1,13 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+24726,47,MissedShots,0.9740000152587891,0.5509999847412109,0.09845349937677383,Pavel Krmas,h,4241,SetPiece,2014,LeftFoot,5464,Freiburg,Borussia M.Gladbach,0,0,2014-08-31 16:30:00,,None
+25159,97,MissedShots,0.8969999694824219,0.48700000762939455,0.06493259966373444,Pavel Krmas,h,4241,SetPiece,2014,Head,5420,Freiburg,Hertha Berlin,2,2,2014-09-19 19:30:00,Jonathan Schmid,Chipped
+25586,1,MissedShots,0.909000015258789,0.5109999847412109,0.08547250181436539,Pavel Krmas,h,4241,FromCorner,2014,Head,5439,Freiburg,Bayer Leverkusen,0,0,2014-09-27 14:30:00,Jonathan Schmid,Cross
+25592,37,SavedShot,0.8969999694824219,0.6179999923706054,0.011922899633646011,Pavel Krmas,h,4241,FromCorner,2014,Head,5439,Freiburg,Bayer Leverkusen,0,0,2014-09-27 14:30:00,Jonathan Schmid,Aerial
+25593,42,MissedShots,0.925,0.5029999923706054,0.06931249797344208,Pavel Krmas,h,4241,SetPiece,2014,Head,5439,Freiburg,Bayer Leverkusen,0,0,2014-09-27 14:30:00,Jonathan Schmid,Aerial
+26064,32,SavedShot,0.865999984741211,0.32799999237060545,0.010572800412774086,Pavel Krmas,h,4241,SetPiece,2014,Head,5395,Freiburg,Wolfsburg,1,2,2014-10-18 14:30:00,Admir Mehmedi,Cross
+26336,84,MissedShots,0.8859999847412109,0.5790000152587891,0.026180900633335114,Pavel Krmas,a,4241,OpenPlay,2014,Head,5403,Augsburg,Freiburg,2,0,2014-10-25 14:30:00,Sascha Riether,Aerial
+30149,83,MissedShots,0.9069999694824219,0.43099998474121093,0.018749099224805832,Pavel Krmas,h,4241,FromCorner,2014,Head,5237,Freiburg,Werder Bremen,0,1,2015-03-07 14:30:00,Jonathan Schmid,Aerial
+31223,55,SavedShot,0.9459999847412109,0.549000015258789,0.48749399185180664,Pavel Krmas,h,4241,OpenPlay,2014,Head,5164,Freiburg,Paderborn,1,2,2015-05-02 14:30:00,,Rebound
+31932,18,MissedShots,0.9640000152587891,0.585,0.08471400290727615,Pavel Krmas,a,4241,FromCorner,2014,RightFoot,5168,Hamburger SV,Freiburg,1,1,2015-05-08 19:30:00,Jonathan Schmid,Cross
+31421,47,MissedShots,0.9019999694824219,0.629000015258789,0.03783399984240532,Pavel Krmas,a,4241,SetPiece,2014,Head,5189,Hannover 96,Freiburg,2,1,2015-05-23 14:30:00,Jonathan Schmid,Chipped
+31432,83,OwnGoal,0.01,0.46099998474121096,0,Pavel Krmas,a,4241,OpenPlay,2014,RightFoot,5189,Hannover 96,Freiburg,2,1,2015-05-23 14:30:00,,None

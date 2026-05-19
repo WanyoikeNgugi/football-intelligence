@@ -1,0 +1,89 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+25294,18,BlockedShot,0.7280000305175781,0.5479999923706055,0.016267800703644753,Marcel Schmelzer,h,313,OpenPlay,2014,RightFoot,5433,Borussia Dortmund,VfB Stuttgart,2,2,2014-09-24 19:00:00,Kevin Großkreutz,Pass
+25755,2,BlockedShot,0.8430000305175781,0.6780000305175782,0.04344660043716431,Marcel Schmelzer,h,313,OpenPlay,2014,LeftFoot,5386,Borussia Dortmund,Hamburger SV,0,1,2014-10-04 14:30:00,Kevin Großkreutz,Pass
+25756,7,MissedShots,0.754000015258789,0.40900001525878904,0.06593330204486847,Marcel Schmelzer,h,313,DirectFreekick,2014,LeftFoot,5386,Borussia Dortmund,Hamburger SV,0,1,2014-10-04 14:30:00,,Standard
+25769,74,BlockedShot,0.7780000305175782,0.575999984741211,0.01285760011523962,Marcel Schmelzer,h,313,SetPiece,2014,LeftFoot,5386,Borussia Dortmund,Hamburger SV,0,1,2014-10-04 14:30:00,,Aerial
+25773,77,BlockedShot,0.845,0.6229999923706054,0.03772620111703873,Marcel Schmelzer,h,313,FromCorner,2014,LeftFoot,5386,Borussia Dortmund,Hamburger SV,0,1,2014-10-04 14:30:00,,BallTouch
+25772,77,MissedShots,0.7619999694824219,0.6630000305175782,0.01327119953930378,Marcel Schmelzer,h,313,FromCorner,2014,LeftFoot,5386,Borussia Dortmund,Hamburger SV,0,1,2014-10-04 14:30:00,,Aerial
+25777,84,MissedShots,0.87,0.6790000152587891,0.04529289901256561,Marcel Schmelzer,h,313,OpenPlay,2014,LeftFoot,5386,Borussia Dortmund,Hamburger SV,0,1,2014-10-04 14:30:00,,Rebound
+27247,0,SavedShot,0.7290000152587891,0.6120000076293945,0.015020900405943394,Marcel Schmelzer,h,313,OpenPlay,2014,LeftFoot,5312,Borussia Dortmund,Hoffenheim,1,0,2014-12-05 19:30:00,Lukasz Piszczek,Pass
+27254,39,MissedShots,0.8440000152587891,0.685,0.017709700390696526,Marcel Schmelzer,h,313,FromCorner,2014,LeftFoot,5312,Borussia Dortmund,Hoffenheim,1,0,2014-12-05 19:30:00,Sebastian Kehl,HeadPass
+27258,50,BlockedShot,0.909000015258789,0.76,0.03458600118756294,Marcel Schmelzer,h,313,OpenPlay,2014,LeftFoot,5312,Borussia Dortmund,Hoffenheim,1,0,2014-12-05 19:30:00,Henrikh Mkhitaryan,Rebound
+27267,75,MissedShots,0.8009999847412109,0.5729999923706055,0.02971700020134449,Marcel Schmelzer,h,313,FromCorner,2014,LeftFoot,5312,Borussia Dortmund,Hoffenheim,1,0,2014-12-05 19:30:00,,None
+28161,78,SavedShot,0.74,0.5870000076293945,0.020187199115753174,Marcel Schmelzer,a,313,OpenPlay,2014,LeftFoot,5322,Hertha Berlin,Borussia Dortmund,1,0,2014-12-13 14:30:00,Adrián Ramos,Pass
+28260,32,MissedShots,0.8719999694824219,0.76,0.026140399277210236,Marcel Schmelzer,a,313,OpenPlay,2014,LeftFoot,5341,Werder Bremen,Borussia Dortmund,2,1,2014-12-20 14:30:00,Oliver Kirch,None
+28269,68,BlockedShot,0.7390000152587891,0.6819999694824219,0.013327999971807003,Marcel Schmelzer,a,313,OpenPlay,2014,LeftFoot,5341,Werder Bremen,Borussia Dortmund,2,1,2014-12-20 14:30:00,Shinji Kagawa,Pass
+28422,25,SavedShot,0.8040000152587891,0.7390000152587891,0.02957960031926632,Marcel Schmelzer,a,313,OpenPlay,2014,LeftFoot,5311,Bayer Leverkusen,Borussia Dortmund,0,0,2015-01-31 17:30:00,Kevin Großkreutz,LayOff
+29776,35,MissedShots,0.8430000305175781,0.7169999694824218,0.01907539926469326,Marcel Schmelzer,h,313,OpenPlay,2014,LeftFoot,5266,Borussia Dortmund,Augsburg,0,1,2015-02-04 19:00:00,Pierre-Emerick Aubameyang,Cross
+29788,91,SavedShot,0.8769999694824219,0.519000015258789,0.054128799587488174,Marcel Schmelzer,h,313,OpenPlay,2014,Head,5266,Borussia Dortmund,Augsburg,0,1,2015-02-04 19:00:00,Henrikh Mkhitaryan,Cross
+29453,37,MissedShots,0.7630000305175781,0.23399999618530273,0.04014870151877403,Marcel Schmelzer,a,313,DirectFreekick,2014,LeftFoot,5289,VfB Stuttgart,Borussia Dortmund,2,3,2015-02-20 19:30:00,,Standard
+30353,77,MissedShots,0.7819999694824219,0.6329999923706054,0.026960300281643867,Marcel Schmelzer,a,313,OpenPlay,2014,LeftFoot,5234,Hamburger SV,Borussia Dortmund,0,0,2015-03-07 14:30:00,Kevin Kampl,Pass
+30654,59,MissedShots,0.755,0.7080000305175781,0.02057969942688942,Marcel Schmelzer,h,313,OpenPlay,2014,LeftFoot,5248,Borussia Dortmund,FC Cologne,0,0,2015-03-14 17:30:00,Ilkay Gündogan,Pass
+30659,80,SavedShot,0.9880000305175781,0.7269999694824218,0.040703799575567245,Marcel Schmelzer,h,313,OpenPlay,2014,LeftFoot,5248,Borussia Dortmund,FC Cologne,0,0,2015-03-14 17:30:00,Kevin Kampl,Pass
+30950,52,BlockedShot,0.889000015258789,0.7119999694824218,0.04764699935913086,Marcel Schmelzer,a,313,FromCorner,2014,LeftFoot,5207,Borussia M.Gladbach,Borussia Dortmund,3,1,2015-04-11 14:30:00,Jakub Blaszczykowski,TakeOn
+29429,55,MissedShots,0.7580000305175781,0.30100000381469727,0.04981920123100281,Marcel Schmelzer,h,313,DirectFreekick,2014,LeftFoot,5227,Borussia Dortmund,Eintracht Frankfurt,2,0,2015-04-25 14:30:00,,Standard
+30897,62,MissedShots,0.795,0.66,0.018386000767350197,Marcel Schmelzer,a,313,OpenPlay,2014,RightFoot,5162,Hoffenheim,Borussia Dortmund,1,1,2015-05-02 14:30:00,Kevin Kampl,Cross
+31401,26,MissedShots,0.9119999694824219,0.14300000190734863,0.05291470140218735,Marcel Schmelzer,h,313,DirectFreekick,2014,LeftFoot,5170,Borussia Dortmund,Hertha Berlin,2,0,2015-05-09 14:30:00,,Standard
+30306,44,MissedShots,0.7919999694824219,0.7290000152587891,0.020446399226784706,Marcel Schmelzer,a,313,OpenPlay,2014,LeftFoot,5179,Wolfsburg,Borussia Dortmund,2,1,2015-05-16 14:30:00,Sebastian Kehl,Pass
+30312,54,BlockedShot,0.725999984741211,0.7730000305175782,0.009584140032529831,Marcel Schmelzer,a,313,OpenPlay,2014,LeftFoot,5179,Wolfsburg,Borussia Dortmund,2,1,2015-05-16 14:30:00,Ilkay Gündogan,TakeOn
+76547,16,SavedShot,0.7340000152587891,0.710999984741211,0.01733030006289482,Marcel Schmelzer,h,313,OpenPlay,2015,RightFoot,1046,Borussia Dortmund,Hertha Berlin,3,1,2015-08-30 17:30:00,Ilkay Gündogan,Pass
+76890,22,SavedShot,0.8859999847412109,0.7609999847412109,0.029512399807572365,Marcel Schmelzer,a,313,OpenPlay,2015,LeftFoot,1050,Hannover 96,Borussia Dortmund,2,4,2015-09-12 17:30:00,Henrikh Mkhitaryan,Pass
+77000,85,SavedShot,0.879000015258789,0.6780000305175782,0.035180699080228806,Marcel Schmelzer,h,313,OpenPlay,2015,LeftFoot,1065,Borussia Dortmund,Bayer Leverkusen,3,0,2015-09-20 19:30:00,,Rebound
+77001,85,MissedShots,0.7469999694824219,0.5459999847412109,0.01706710085272789,Marcel Schmelzer,h,313,FromCorner,2015,LeftFoot,1065,Borussia Dortmund,Bayer Leverkusen,3,0,2015-09-20 19:30:00,,None
+77448,23,MissedShots,0.915,0.6509999847412109,0.05075350031256676,Marcel Schmelzer,h,313,OpenPlay,2015,LeftFoot,1083,Borussia Dortmund,Darmstadt,2,2,2015-09-27 19:30:00,Henrikh Mkhitaryan,Cross
+77451,48,BlockedShot,0.88,0.7440000152587891,0.013634700328111649,Marcel Schmelzer,h,313,SetPiece,2015,LeftFoot,1083,Borussia Dortmund,Darmstadt,2,2,2015-09-27 19:30:00,,Aerial
+78964,47,MissedShots,0.7519999694824219,0.664000015258789,0.015623199753463268,Marcel Schmelzer,a,313,OpenPlay,2015,LeftFoot,1129,Hamburger SV,Borussia Dortmund,3,1,2015-11-20 23:45:00,Ilkay Gündogan,Pass
+78966,50,MissedShots,0.8080000305175781,0.6370000076293946,0.026899000629782677,Marcel Schmelzer,a,313,OpenPlay,2015,LeftFoot,1129,Hamburger SV,Borussia Dortmund,3,1,2015-11-20 23:45:00,,None
+79409,26,SavedShot,0.8680000305175781,0.769000015258789,0.017226900905370712,Marcel Schmelzer,a,313,SetPiece,2015,LeftFoot,1153,Wolfsburg,Borussia Dortmund,1,2,2015-12-05 21:30:00,,None
+79991,72,SavedShot,0.730999984741211,0.34200000762939453,0.04440410062670708,Marcel Schmelzer,a,313,DirectFreekick,2015,LeftFoot,1169,FC Cologne,Borussia Dortmund,2,1,2015-12-19 18:30:00,,Standard
+80753,30,SavedShot,0.745999984741211,0.7019999694824218,0.017117200419306755,Marcel Schmelzer,h,313,OpenPlay,2015,RightFoot,1203,Borussia Dortmund,Hannover 96,1,0,2016-02-13 18:30:00,Henrikh Mkhitaryan,Pass
+80754,37,SavedShot,0.955,0.7390000152587891,0.03947509825229645,Marcel Schmelzer,h,313,OpenPlay,2015,LeftFoot,1203,Borussia Dortmund,Hannover 96,1,0,2016-02-13 18:30:00,Matthias Ginter,Chipped
+81216,35,BlockedShot,0.9469999694824218,0.6930000305175781,0.061019301414489746,Marcel Schmelzer,h,313,OpenPlay,2015,RightFoot,1225,Borussia Dortmund,Hoffenheim,3,1,2016-02-28 20:30:00,Marco Reus,TakeOn
+81222,54,BlockedShot,0.8519999694824218,0.6990000152587891,0.040755998343229294,Marcel Schmelzer,h,313,OpenPlay,2015,LeftFoot,1225,Borussia Dortmund,Hoffenheim,3,1,2016-02-28 20:30:00,Pierre-Emerick Aubameyang,Pass
+81230,69,SavedShot,0.8680000305175781,0.8969999694824219,0.016378600150346756,Marcel Schmelzer,h,313,OpenPlay,2015,LeftFoot,1225,Borussia Dortmund,Hoffenheim,3,1,2016-02-28 20:30:00,Sven Bender,Pass
+81238,83,MissedShots,0.789000015258789,0.6430000305175781,0.025567900389432907,Marcel Schmelzer,h,313,OpenPlay,2015,RightFoot,1225,Borussia Dortmund,Hoffenheim,3,1,2016-02-28 20:30:00,,None
+81957,22,SavedShot,0.8430000305175781,0.75,0.028685400262475014,Marcel Schmelzer,h,313,OpenPlay,2015,RightFoot,1254,Borussia Dortmund,Mainz 05,2,0,2016-03-13 20:30:00,Marco Reus,TakeOn
+81980,84,MissedShots,0.884000015258789,0.6609999847412109,0.26193100214004517,Marcel Schmelzer,h,313,OpenPlay,2015,LeftFoot,1254,Borussia Dortmund,Mainz 05,2,0,2016-03-13 20:30:00,,Rebound
+81981,88,BlockedShot,0.7909999847412109,0.585,0.05951220169663429,Marcel Schmelzer,h,313,OpenPlay,2015,RightFoot,1254,Borussia Dortmund,Mainz 05,2,0,2016-03-13 20:30:00,Marco Reus,TakeOn
+82430,38,MissedShots,0.89,0.6840000152587891,0.03603469952940941,Marcel Schmelzer,h,313,OpenPlay,2015,LeftFoot,1270,Borussia Dortmund,Werder Bremen,3,2,2016-04-02 20:30:00,Pierre-Emerick Aubameyang,Chipped
+83624,88,MissedShots,0.6969999694824218,0.735999984741211,0.011776399798691273,Marcel Schmelzer,a,313,OpenPlay,2015,LeftFoot,1313,Eintracht Frankfurt,Borussia Dortmund,1,0,2016-05-07 17:30:00,Henrikh Mkhitaryan,Pass
+83625,90,BlockedShot,0.700999984741211,0.5990000152587891,0.01581070013344288,Marcel Schmelzer,a,313,OpenPlay,2015,LeftFoot,1313,Eintracht Frankfurt,Borussia Dortmund,1,0,2016-05-07 17:30:00,Nuri Sahin,Pass
+127611,49,MissedShots,0.7380000305175781,0.615,0.02048259973526001,Marcel Schmelzer,h,313,FromCorner,2016,RightFoot,1332,Borussia Dortmund,Mainz 05,2,1,2016-08-27 17:30:00,André Schürrle,Pass
+128189,2,MissedShots,0.7380000305175781,0.5940000152587891,0.010609200224280357,Marcel Schmelzer,h,313,OpenPlay,2016,LeftFoot,1350,Borussia Dortmund,Darmstadt,6,0,2016-09-17 17:30:00,,Aerial
+128465,18,SavedShot,0.955999984741211,0.61,0.4048579931259155,Marcel Schmelzer,a,313,OpenPlay,2016,LeftFoot,1354,Wolfsburg,Borussia Dortmund,1,5,2016-09-20 22:00:00,Ousmane Dembélé,Pass
+128613,23,MissedShots,0.785,0.5320000076293945,0.026994600892066956,Marcel Schmelzer,h,313,FromCorner,2016,LeftFoot,1363,Borussia Dortmund,Freiburg,3,1,2016-09-23 22:30:00,,Dispossessed
+128860,63,MissedShots,0.8380000305175781,0.7230000305175781,0.0301533006131649,Marcel Schmelzer,a,313,OpenPlay,2016,RightFoot,1378,Bayer Leverkusen,Borussia Dortmund,2,0,2016-10-01 20:30:00,Ousmane Dembélé,Pass
+128867,93,BlockedShot,0.7780000305175782,0.5970000076293945,0.02957569994032383,Marcel Schmelzer,a,313,OpenPlay,2016,LeftFoot,1378,Bayer Leverkusen,Borussia Dortmund,2,0,2016-10-01 20:30:00,Shinji Kagawa,Pass
+129072,53,MissedShots,0.7480000305175781,0.27299999237060546,0.041474599391222,Marcel Schmelzer,h,313,DirectFreekick,2016,LeftFoot,1381,Borussia Dortmund,Hertha Berlin,1,1,2016-10-14 22:30:00,,Standard
+129074,60,SavedShot,0.7290000152587891,0.6120000076293945,0.013302899897098541,Marcel Schmelzer,h,313,OpenPlay,2016,LeftFoot,1381,Borussia Dortmund,Hertha Berlin,1,1,2016-10-14 22:30:00,,None
+129772,28,SavedShot,0.7619999694824219,0.7630000305175781,0.01484409999102354,Marcel Schmelzer,h,313,OpenPlay,2016,LeftFoot,2821,Borussia Dortmund,Bayern Munich,1,0,2016-11-19 21:30:00,Lukasz Piszczek,Cross
+131181,57,BlockedShot,0.8480000305175781,0.7380000305175781,0.025457099080085754,Marcel Schmelzer,a,313,OpenPlay,2016,LeftFoot,3203,FC Cologne,Borussia Dortmund,1,1,2016-12-10 18:30:00,Sebastian Rode,Pass
+131183,58,MissedShots,0.9219999694824219,0.585,0.042176999151706696,Marcel Schmelzer,a,313,FromCorner,2016,Head,3203,FC Cologne,Borussia Dortmund,1,1,2016-12-10 18:30:00,,None
+131655,5,MissedShots,0.9059999847412109,0.5520000076293945,0.03137509897351265,Marcel Schmelzer,a,313,OpenPlay,2016,Head,3210,Hoffenheim,Borussia Dortmund,2,2,2016-12-16 19:30:00,Matthias Ginter,Aerial
+131665,31,MissedShots,0.914000015258789,0.5609999847412109,0.04144660010933876,Marcel Schmelzer,a,313,SetPiece,2016,Head,3210,Hoffenheim,Borussia Dortmund,2,2,2016-12-16 19:30:00,Marco Reus,Aerial
+131666,40,BlockedShot,0.7669999694824219,0.38299999237060545,0.07130429893732071,Marcel Schmelzer,a,313,DirectFreekick,2016,LeftFoot,3210,Hoffenheim,Borussia Dortmund,2,2,2016-12-16 19:30:00,,Standard
+131671,56,BlockedShot,0.7619999694824219,0.67,0.015697399154305458,Marcel Schmelzer,a,313,OpenPlay,2016,LeftFoot,3210,Hoffenheim,Borussia Dortmund,2,2,2016-12-16 19:30:00,,None
+130738,9,BlockedShot,0.874000015258789,0.7140000152587891,0.04911720007658005,Marcel Schmelzer,a,313,OpenPlay,2016,LeftFoot,3726,Werder Bremen,Borussia Dortmund,1,2,2017-01-21 14:30:00,Shinji Kagawa,Pass
+131193,17,BlockedShot,0.7719999694824219,0.674000015258789,0.027110999450087547,Marcel Schmelzer,a,313,OpenPlay,2016,LeftFoot,3739,Mainz 05,Borussia Dortmund,1,1,2017-01-29 19:30:00,,None
+131208,82,SavedShot,0.7980000305175782,0.2929999923706055,0.06819940358400345,Marcel Schmelzer,a,313,DirectFreekick,2016,LeftFoot,3739,Mainz 05,Borussia Dortmund,1,1,2017-01-29 19:30:00,,Standard
+131912,13,MissedShots,0.7319999694824219,0.595999984741211,0.01971770077943802,Marcel Schmelzer,h,313,OpenPlay,2016,LeftFoot,3763,Borussia Dortmund,Wolfsburg,3,0,2017-02-18 14:30:00,Ousmane Dembélé,Pass
+134287,28,BlockedShot,0.8119999694824219,0.649000015258789,0.041242800652980804,Marcel Schmelzer,h,313,OpenPlay,2016,RightFoot,3794,Borussia Dortmund,Ingolstadt,1,0,2017-03-17 19:30:00,Shinji Kagawa,Pass
+134294,40,MissedShots,0.88,0.7180000305175781,0.04794640094041824,Marcel Schmelzer,h,313,OpenPlay,2016,LeftFoot,3794,Borussia Dortmund,Ingolstadt,1,0,2017-03-17 19:30:00,Erik Durm,Chipped
+133417,47,OwnGoal,0.06699999809265136,0.5779999923706055,0,Marcel Schmelzer,a,313,FromCorner,2016,LeftFoot,3840,Borussia M.Gladbach,Borussia Dortmund,2,3,2017-04-22 17:30:00,,CornerAwarded
+134163,49,SavedShot,0.740999984741211,0.6969999694824218,0.01742120087146759,Marcel Schmelzer,h,313,OpenPlay,2016,LeftFoot,3848,Borussia Dortmund,FC Cologne,0,0,2017-04-29 14:30:00,Shinji Kagawa,Pass
+134164,49,BlockedShot,0.8059999847412109,0.5979999923706054,0.029262999072670937,Marcel Schmelzer,h,313,FromCorner,2016,LeftFoot,3848,Borussia Dortmund,FC Cologne,0,0,2017-04-29 14:30:00,,None
+134846,22,MissedShots,0.7559999847412109,0.655,0.022783899679780006,Marcel Schmelzer,h,313,OpenPlay,2016,LeftFoot,3860,Borussia Dortmund,Hoffenheim,2,1,2017-05-06 14:30:00,,None
+133231,15,BlockedShot,0.665,0.615,0.00733355013653636,Marcel Schmelzer,a,313,OpenPlay,2016,LeftFoot,3870,Augsburg,Borussia Dortmund,1,1,2017-05-13 14:30:00,Ousmane Dembélé,TakeOn
+133245,73,SavedShot,0.7090000152587891,0.6370000076293946,0.012746299616992474,Marcel Schmelzer,a,313,OpenPlay,2016,LeftFoot,3870,Augsburg,Borussia Dortmund,1,1,2017-05-13 14:30:00,Ousmane Dembélé,Pass
+133248,80,MissedShots,0.7709999847412109,0.629000015258789,0.018248800188302994,Marcel Schmelzer,a,313,FromCorner,2016,LeftFoot,3870,Augsburg,Borussia Dortmund,1,1,2017-05-13 14:30:00,,None
+168866,69,BlockedShot,0.6890000152587891,0.49599998474121093,0.012425299733877182,Marcel Schmelzer,h,313,FromCorner,2017,LeftFoot,8357,Borussia Dortmund,Bayern Munich,1,3,2017-11-04 17:30:00,,None
+184081,23,MissedShots,0.825999984741211,0.7340000152587891,0.025554999709129333,Marcel Schmelzer,a,313,OpenPlay,2017,LeftFoot,8401,Mainz 05,Borussia Dortmund,0,2,2017-12-12 19:30:00,,Tackle
+184134,15,BlockedShot,0.8130000305175781,0.6580000305175782,0.02431040070950985,Marcel Schmelzer,h,313,FromCorner,2017,LeftFoot,8403,Borussia Dortmund,Hoffenheim,2,1,2017-12-16 17:30:00,,None
+207444,26,BlockedShot,0.8540000152587891,0.5640000152587891,0.06991869956254959,Marcel Schmelzer,h,313,OpenPlay,2017,LeftFoot,8511,Borussia Dortmund,VfB Stuttgart,3,0,2018-04-08 13:30:00,,None
+213151,89,SavedShot,0.9169999694824219,0.5270000076293946,0.045446399599313736,Marcel Schmelzer,h,313,OpenPlay,2017,Head,8550,Borussia Dortmund,Mainz 05,1,2,2018-05-05 14:30:00,Andriy Yarmolenko,Aerial
+223168,75,MissedShots,0.86,0.740999984741211,0.042746998369693756,Marcel Schmelzer,h,313,OpenPlay,2018,LeftFoot,10355,Borussia Dortmund,Eintracht Frankfurt,3,1,2018-09-14 18:30:00,,None
+226680,28,MissedShots,0.92,0.74,0.04897430166602135,Marcel Schmelzer,h,313,OpenPlay,2018,LeftFoot,10378,Borussia Dortmund,Nuernberg,7,0,2018-09-26 18:30:00,Thomas Delaney,Pass
+257489,49,BlockedShot,0.805,0.7340000152587891,0.018983500078320503,Marcel Schmelzer,a,313,OpenPlay,2018,RightFoot,10478,Fortuna Duesseldorf,Borussia Dortmund,2,1,2018-12-18 19:30:00,Marco Reus,Pass
+300745,91,MissedShots,0.885,0.68,0.06824749708175659,Marcel Schmelzer,h,313,OpenPlay,2018,LeftFoot,10626,Borussia Dortmund,Fortuna Duesseldorf,3,2,2019-05-11 14:30:00,Paco Alcácer,HeadPass
+363757,88,Goal,0.9640000152587891,0.49,0.5560910105705261,Marcel Schmelzer,a,313,FromCorner,2019,RightFoot,12663,Paderborn,Borussia Dortmund,1,6,2020-05-31 16:00:00,Axel Witsel,Cross
+364772,73,BlockedShot,0.875,0.5640000152587891,0.10461000353097916,Marcel Schmelzer,h,313,OpenPlay,2019,LeftFoot,12682,Borussia Dortmund,Mainz 05,0,2,2020-06-17 18:30:00,Raphael Guerreiro,Pass

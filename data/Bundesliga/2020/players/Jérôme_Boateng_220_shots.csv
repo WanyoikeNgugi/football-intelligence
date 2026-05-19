@@ -1,0 +1,79 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+25202,81,MissedShots,0.685,0.4620000076293945,0.015766199678182602,Jérôme Boateng,a,220,SetPiece,2014,RightFoot,5422,Hamburger SV,Bayern Munich,0,0,2014-09-20 14:30:00,Xabi Alonso,Pass
+25981,65,BlockedShot,0.9,0.6430000305175781,0.03951270133256912,Jérôme Boateng,h,220,FromCorner,2014,RightFoot,5392,Bayern Munich,Werder Bremen,6,0,2014-10-18 14:30:00,Xherdan Shaqiri,Cross
+26889,85,MissedShots,0.7769999694824219,0.42700000762939455,0.036483798176050186,Jérôme Boateng,a,220,FromCorner,2014,LeftFoot,5360,Eintracht Frankfurt,Bayern Munich,0,4,2014-11-08 14:30:00,Arjen Robben,Pass
+28354,70,SavedShot,0.94,0.6669999694824219,0.008760490454733372,Jérôme Boateng,h,220,OpenPlay,2014,Head,5333,Bayern Munich,Freiburg,2,0,2014-12-16 19:00:00,Rafinha,Aerial
+28356,71,BlockedShot,0.7090000152587891,0.46900001525878904,0.01454710029065609,Jérôme Boateng,h,220,OpenPlay,2014,LeftFoot,5333,Bayern Munich,Freiburg,2,0,2014-12-16 19:00:00,,Rebound
+28139,68,SavedShot,0.9469999694824218,0.649000015258789,0.060555700212717056,Jérôme Boateng,a,220,FromCorner,2014,RightFoot,5339,Mainz 05,Bayern Munich,1,2,2014-12-19 19:30:00,,None
+28660,64,MissedShots,0.93,0.639000015258789,0.10088899731636047,Jérôme Boateng,a,220,OpenPlay,2014,LeftFoot,5294,Paderborn,Bayern Munich,0,6,2015-02-21 14:30:00,Thomas Müller,BallTouch
+28775,51,MissedShots,0.879000015258789,0.34,0.008031940087676048,Jérôme Boateng,h,220,SetPiece,2014,Head,5298,Bayern Munich,FC Cologne,4,1,2015-02-27 19:30:00,Franck Ribéry,Aerial
+28777,55,MissedShots,0.6830000305175781,0.5,0.012309599667787552,Jérôme Boateng,h,220,OpenPlay,2014,LeftFoot,5298,Bayern Munich,FC Cologne,4,1,2015-02-27 19:30:00,,None
+28791,84,MissedShots,0.7819999694824219,0.455,0.03363389894366264,Jérôme Boateng,h,220,OpenPlay,2014,RightFoot,5298,Bayern Munich,FC Cologne,4,1,2015-02-27 19:30:00,,None
+30009,89,BlockedShot,0.8730000305175781,0.27399999618530274,0.05021459981799126,Jérôme Boateng,a,220,OpenPlay,2014,RightFoot,5236,Hannover 96,Bayern Munich,1,3,2015-03-07 14:30:00,,Tackle
+31384,18,BlockedShot,0.8319999694824218,0.38,0.017953600734472275,Jérôme Boateng,a,220,SetPiece,2014,LeftFoot,5246,Werder Bremen,Bayern Munich,0,4,2015-03-14 14:30:00,,Aerial
+31592,69,MissedShots,0.7219999694824218,0.515,0.017427099868655205,Jérôme Boateng,h,220,OpenPlay,2014,LeftFoot,5259,Bayern Munich,Borussia M.Gladbach,0,2,2015-03-22 16:30:00,Bastian Schweinsteiger,Pass
+32037,73,BlockedShot,0.8230000305175781,0.5129999923706055,0.07987400144338608,Jérôme Boateng,a,220,OpenPlay,2014,RightFoot,5215,Hoffenheim,Bayern Munich,0,2,2015-04-18 14:30:00,Mario Götze,Pass
+32044,89,MissedShots,0.7140000152587891,0.69,0.0153742004185915,Jérôme Boateng,a,220,OpenPlay,2014,LeftFoot,5215,Hoffenheim,Bayern Munich,0,2,2015-04-18 14:30:00,,Interception
+32270,34,MissedShots,0.7240000152587891,0.44,0.018201999366283417,Jérôme Boateng,h,220,OpenPlay,2014,RightFoot,5228,Bayern Munich,Hertha Berlin,1,0,2015-04-25 17:30:00,Bastian Schweinsteiger,Pass
+32278,67,SavedShot,0.740999984741211,0.47400001525878904,0.021154899150133133,Jérôme Boateng,h,220,OpenPlay,2014,RightFoot,5228,Bayern Munich,Hertha Berlin,1,0,2015-04-25 17:30:00,Sebastian Rode,Pass
+31337,87,MissedShots,0.7980000305175782,0.3120000076293945,0.026838399469852448,Jérôme Boateng,h,220,OpenPlay,2014,RightFoot,5169,Bayern Munich,Augsburg,0,1,2015-05-09 14:30:00,Mario Götze,Pass
+30791,27,SavedShot,0.9059999847412109,0.49900001525878906,0.08071059733629227,Jérôme Boateng,a,220,FromCorner,2014,Head,5185,Freiburg,Bayern Munich,2,1,2015-05-16 14:30:00,Xabi Alonso,Cross
+31027,23,SavedShot,0.750999984741211,0.6,0.018628200516104698,Jérôme Boateng,h,220,OpenPlay,2014,RightFoot,5192,Bayern Munich,Mainz 05,2,0,2015-05-23 14:30:00,Mario Götze,Pass
+76064,31,SavedShot,0.6619999694824219,0.3270000076293945,0.013227200135588646,Jérôme Boateng,h,220,OpenPlay,2015,RightFoot,1021,Bayern Munich,Hamburger SV,5,0,2015-08-14 22:30:00,Arturo Vidal,Pass
+76065,32,MissedShots,0.9459999847412109,0.45599998474121095,0.0693615972995758,Jérôme Boateng,h,220,FromCorner,2015,Head,1021,Bayern Munich,Hamburger SV,5,0,2015-08-14 22:30:00,Xabi Alonso,Aerial
+76084,89,MissedShots,0.7080000305175781,0.3659999847412109,0.021322399377822876,Jérôme Boateng,h,220,OpenPlay,2015,RightFoot,1021,Bayern Munich,Hamburger SV,5,0,2015-08-14 22:30:00,Douglas Costa,Pass
+77689,89,BlockedShot,0.7609999847412109,0.3609999847412109,0.020183000713586807,Jérôme Boateng,a,220,OpenPlay,2015,LeftFoot,1076,Mainz 05,Bayern Munich,0,3,2015-09-26 17:30:00,Philipp Lahm,Pass
+79107,35,MissedShots,0.695,0.33,0.014718400314450264,Jérôme Boateng,h,220,OpenPlay,2015,LeftFoot,1142,Bayern Munich,Hertha Berlin,2,0,2015-11-28 18:30:00,Thomas Müller,Pass
+79608,43,BlockedShot,0.6909999847412109,0.34599998474121096,0.011832799762487411,Jérôme Boateng,h,220,OpenPlay,2015,RightFoot,1161,Bayern Munich,Ingolstadt,2,0,2015-12-12 18:30:00,Philipp Lahm,Pass
+80124,46,MissedShots,0.7340000152587891,0.6179999923706054,0.025780899450182915,Jérôme Boateng,a,220,FromCorner,2015,LeftFoot,1174,Hamburger SV,Bayern Munich,1,2,2016-01-22 23:30:00,Philipp Lahm,Pass
+128407,34,MissedShots,0.9369999694824219,0.35700000762939454,0.02252179943025112,Jérôme Boateng,h,220,FromCorner,2016,Head,1360,Bayern Munich,Hertha Berlin,3,0,2016-09-21 22:00:00,Xabi Alonso,Cross
+128707,62,BlockedShot,0.68,0.6079999923706054,0.010385599918663502,Jérôme Boateng,a,220,OpenPlay,2016,RightFoot,1366,Hamburger SV,Bayern Munich,0,1,2016-09-24 17:30:00,Joshua Kimmich,BallRecovery
+134790,26,MissedShots,0.6669999694824219,0.40400001525878904,0.015758100897073746,Jérôme Boateng,h,220,FromCorner,2016,RightFoot,3859,Bayern Munich,Darmstadt,1,0,2017-05-06 14:30:00,Rafinha,Pass
+134810,78,MissedShots,0.8859999847412109,0.41,0.053732000291347504,Jérôme Boateng,h,220,FromCorner,2016,RightFoot,3859,Bayern Munich,Darmstadt,1,0,2017-05-06 14:30:00,Thomas Müller,Chipped
+166470,18,BlockedShot,0.725,0.35200000762939454,0.022446999326348305,Jérôme Boateng,h,220,FromCorner,2017,RightFoot,8289,Bayern Munich,Mainz 05,4,0,2017-09-16 14:30:00,Thiago Alcántara,Pass
+167309,2,BlockedShot,0.9230000305175782,0.5259999847412109,0.10851000249385834,Jérôme Boateng,h,220,FromCorner,2017,RightFoot,8304,Bayern Munich,Wolfsburg,2,2,2017-09-22 19:30:00,,None
+167326,75,MissedShots,0.9119999694824219,0.5359999847412109,0.031919799745082855,Jérôme Boateng,h,220,FromCorner,2017,Head,8304,Bayern Munich,Wolfsburg,2,2,2017-09-22 19:30:00,Franck Ribéry,Aerial
+166995,26,MissedShots,0.9319999694824219,0.41200000762939454,0.09781649708747864,Jérôme Boateng,a,220,OpenPlay,2017,Head,8317,Hertha Berlin,Bayern Munich,2,2,2017-10-01 14:30:00,Joshua Kimmich,Cross
+166999,36,SavedShot,0.7069999694824218,0.33599998474121096,0.014024600386619568,Jérôme Boateng,a,220,OpenPlay,2017,LeftFoot,8317,Hertha Berlin,Bayern Munich,2,2,2017-10-01 14:30:00,Thomas Müller,Pass
+179723,40,BlockedShot,0.7230000305175781,0.40700000762939453,0.014032400213181973,Jérôme Boateng,a,220,FromCorner,2017,LeftFoot,8391,Eintracht Frankfurt,Bayern Munich,0,1,2017-12-09 14:30:00,,None
+183893,24,MissedShots,0.875999984741211,0.46599998474121096,0.013860199600458145,Jérôme Boateng,h,220,FromCorner,2017,Head,8394,Bayern Munich,FC Cologne,1,0,2017-12-13 19:30:00,David Alaba,Aerial
+183873,63,BlockedShot,0.9309999847412109,0.37,0.013511699624359608,Jérôme Boateng,a,220,FromCorner,2017,Head,8410,VfB Stuttgart,Bayern Munich,0,1,2017-12-16 14:30:00,James Rodríguez,Aerial
+183874,65,SavedShot,0.75,0.6419999694824219,0.01899689994752407,Jérôme Boateng,a,220,OpenPlay,2017,LeftFoot,8410,VfB Stuttgart,Bayern Munich,0,1,2017-12-16 14:30:00,Rafinha,Pass
+189313,61,MissedShots,0.8069999694824219,0.5220000076293946,0.04038430005311966,Jérôme Boateng,h,220,SetPiece,2017,RightFoot,8421,Bayern Munich,Werder Bremen,4,2,2018-01-21 14:30:00,,None
+189804,24,Goal,0.9640000152587891,0.5129999923706055,0.5253790020942688,Jérôme Boateng,h,220,FromCorner,2017,Head,8431,Bayern Munich,Hoffenheim,5,2,2018-01-27 14:30:00,Arjen Robben,Cross
+194865,22,MissedShots,0.7769999694824219,0.46900001525878904,0.028435099869966507,Jérôme Boateng,a,220,FromCorner,2017,LeftFoot,8445,Mainz 05,Bayern Munich,0,2,2018-02-03 14:30:00,Franck Ribéry,Pass
+207388,71,BlockedShot,0.8680000305175781,0.38599998474121094,0.07893189787864685,Jérôme Boateng,a,220,OpenPlay,2017,LeftFoot,8517,Augsburg,Bayern Munich,1,4,2018-04-07 13:30:00,,None
+219800,10,BlockedShot,0.9030000305175782,0.55,0.09435439854860306,Jérôme Boateng,h,220,FromCorner,2018,RightFoot,10337,Bayern Munich,Hoffenheim,3,1,2018-08-24 21:30:00,,None
+221912,31,BlockedShot,0.7469999694824219,0.3160000038146973,0.01459760032594204,Jérôme Boateng,a,220,OpenPlay,2018,LeftFoot,10352,VfB Stuttgart,Bayern Munich,0,3,2018-09-01 16:30:00,Arjen Robben,Pass
+221928,74,MissedShots,0.9440000152587891,0.285,0.01959259994328022,Jérôme Boateng,a,220,FromCorner,2018,RightFoot,10352,VfB Stuttgart,Bayern Munich,0,3,2018-09-01 16:30:00,,Aerial
+223372,27,MissedShots,0.9490000152587891,0.47200000762939454,0.08054880052804947,Jérôme Boateng,h,220,FromCorner,2018,Head,10360,Bayern Munich,Bayer Leverkusen,3,1,2018-09-15 13:30:00,Arjen Robben,Aerial
+223383,63,MissedShots,0.68,0.6090000152587891,0.012685500085353851,Jérôme Boateng,h,220,OpenPlay,2018,RightFoot,10360,Bayern Munich,Bayer Leverkusen,3,1,2018-09-15 13:30:00,Thomas Müller,Pass
+227595,13,MissedShots,0.8980000305175782,0.4520000076293945,0.05479539930820465,Jérôme Boateng,a,220,FromCorner,2018,Head,10382,Hertha Berlin,Bayern Munich,2,0,2018-09-28 18:30:00,James Rodríguez,Cross
+227614,67,SavedShot,0.955999984741211,0.565,0.12126100063323975,Jérôme Boateng,a,220,FromCorner,2018,Head,10382,Hertha Berlin,Bayern Munich,2,0,2018-09-28 18:30:00,Joshua Kimmich,Cross
+255725,8,MissedShots,0.7219999694824218,0.5459999847412109,0.021163299679756165,Jérôme Boateng,a,220,FromCorner,2018,RightFoot,10415,Mainz 05,Bayern Munich,1,2,2018-10-27 13:30:00,Thiago Alcántara,Pass
+256430,13,MissedShots,0.735,0.35700000762939454,0.02129169926047325,Jérôme Boateng,h,220,FromCorner,2018,RightFoot,10436,Bayern Munich,Fortuna Duesseldorf,3,3,2018-11-24 14:30:00,Joshua Kimmich,Pass
+257014,43,MissedShots,0.904000015258789,0.3659999847412109,0.08245699852705002,Jérôme Boateng,h,220,SetPiece,2018,LeftFoot,10454,Bayern Munich,Nuernberg,3,0,2018-12-08 14:30:00,Niklas Süle,Pass
+257023,86,BlockedShot,0.8190000152587891,0.7669999694824219,0.020509500056505203,Jérôme Boateng,h,220,FromCorner,2018,RightFoot,10454,Bayern Munich,Nuernberg,3,0,2018-12-08 14:30:00,Thiago Alcántara,Pass
+284459,66,MissedShots,0.735999984741211,0.33,0.022899899631738663,Jérôme Boateng,h,220,FromCorner,2018,RightFoot,10553,Bayern Munich,Wolfsburg,6,0,2019-03-09 14:30:00,Thiago Alcántara,Pass
+287400,65,SavedShot,0.755,0.30700000762939456,0.008571149781346321,Jérôme Boateng,a,220,FromCorner,2018,RightFoot,10578,Freiburg,Bayern Munich,1,1,2019-03-30 14:30:00,Robert Lewandowski,Chipped
+299244,36,SavedShot,0.735,0.4929999923706055,0.015840500593185425,Jérôme Boateng,h,220,FromCorner,2018,LeftFoot,10616,Bayern Munich,Hannover 96,3,1,2019-05-04 14:30:00,,None
+320287,47,MissedShots,0.735999984741211,0.5179999923706055,0.024720899760723114,Jérôme Boateng,h,220,OpenPlay,2019,LeftFoot,12442,Bayern Munich,FC Cologne,4,0,2019-09-21 13:30:00,Corentin Tolisso,Pass
+338556,61,BlockedShot,0.7169999694824218,0.5529999923706055,0.013975800015032291,Jérôme Boateng,h,220,FromCorner,2019,RightFoot,12547,Bayern Munich,Wolfsburg,2,0,2019-12-21 14:30:00,,None
+359409,36,BlockedShot,0.9119999694824219,0.5429999923706055,0.12200400233268738,Jérôme Boateng,a,220,SetPiece,2019,LeftFoot,12598,FC Cologne,Bayern Munich,1,4,2020-02-16 14:30:00,,Rebound
+364592,32,SavedShot,0.6909999847412109,0.504000015258789,0.015744300559163094,Jérôme Boateng,a,220,SetPiece,2019,RightFoot,12687,Werder Bremen,Bayern Munich,0,1,2020-06-16 18:30:00,Alphonso Davies,Pass
+365219,9,SavedShot,0.9180000305175782,0.7119999694824218,0.03799109905958176,Jérôme Boateng,h,220,FromCorner,2019,LeftFoot,12691,Bayern Munich,Freiburg,3,1,2020-06-20 13:30:00,Leon Goretzka,HeadPass
+365234,43,MissedShots,0.7569999694824219,0.33099998474121095,0.015179400332272053,Jérôme Boateng,h,220,FromCorner,2019,LeftFoot,12691,Bayern Munich,Freiburg,3,1,2020-06-20 13:30:00,,None
+378395,5,MissedShots,0.9019999694824219,0.32799999237060545,0.04723779857158661,Jérôme Boateng,h,220,FromCorner,2020,LeftFoot,14173,Bayern Munich,Schalke 04,8,0,2020-09-18 18:30:00,,None
+391743,45,BlockedShot,0.7680000305175781,0.40400001525878904,0.01692800037562847,Jérôme Boateng,a,220,SetPiece,2020,RightFoot,15236,Union Berlin,Bayern Munich,1,1,2020-12-12 17:30:00,,Rebound
+399412,31,MissedShots,0.6919999694824219,0.43,0.01548330020159483,Jérôme Boateng,h,220,OpenPlay,2020,RightFoot,15275,Bayern Munich,Freiburg,2,1,2021-01-17 14:30:00,Robert Lewandowski,Pass
+400892,12,MissedShots,0.899000015258789,0.53,0.04353170096874237,Jérôme Boateng,a,220,FromCorner,2020,Head,15298,Schalke 04,Bayern Munich,0,4,2021-01-24 14:30:00,,None
+401640,31,Goal,0.9180000305175782,0.475,0.09959819912910461,Jérôme Boateng,h,220,FromCorner,2020,Head,15302,Bayern Munich,Hoffenheim,4,1,2021-01-30 14:30:00,Joshua Kimmich,Cross
+405510,81,MissedShots,0.894000015258789,0.29700000762939455,0.03494919836521149,Jérôme Boateng,a,220,FromCorner,2020,LeftFoot,15332,Eintracht Frankfurt,Bayern Munich,2,1,2021-02-20 14:30:00,,None
+413844,53,SavedShot,0.9169999694824219,0.7230000305175781,0.04322019964456558,Jérôme Boateng,h,220,FromCorner,2020,RightFoot,15383,Bayern Munich,Union Berlin,1,1,2021-04-10 13:30:00,Leroy Sané,Pass
+415249,75,SavedShot,0.775,0.4809999847412109,0.036484699696302414,Jérôme Boateng,a,220,FromCorner,2020,RightFoot,15396,Wolfsburg,Bayern Munich,2,3,2021-04-17 13:30:00,Joshua Kimmich,Pass
+433792,54,BlockedShot,0.8190000152587891,0.5720000076293945,0.04345709830522537,Jérôme Boateng,h,220,SetPiece,2021,RightFoot,17895,Lyon,Lorient,1,1,2021-09-25 19:00:00,,None
+438143,50,SavedShot,0.740999984741211,0.4909999847412109,0.029002700001001358,Jérôme Boateng,a,220,FromCorner,2021,LeftFoot,17928,Nice,Lyon,3,2,2021-10-24 11:00:00,Bruno Guimarães,Pass
+453773,77,SavedShot,0.905,0.6840000152587891,0.08078990131616592,Jérôme Boateng,a,220,OpenPlay,2021,LeftFoot,18031,Troyes,Lyon,0,1,2022-01-16 16:05:00,Xherdan Shaqiri,Pass
+456008,36,MissedShots,0.8769999694824219,0.6329999923706054,0.025360900908708572,Jérôme Boateng,a,220,SetPiece,2021,RightFoot,18047,Monaco,Lyon,2,0,2022-02-05 20:00:00,,Aerial
+465943,67,SavedShot,0.9330000305175781,0.48900001525878906,0.0725874975323677,Jérôme Boateng,h,220,FromCorner,2021,Head,18114,Lyon,Angers,3,2,2022-04-03 15:05:00,Moussa Dembele,HeadPass
+530651,4,OwnGoal,0.14899999618530274,0.5929999923706055,0,Jérôme Boateng,a,220,OpenPlay,2022,LeftFoot,20023,Nice,Lyon,3,1,2023-06-03 17:00:00,,BallRecovery

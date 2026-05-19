@@ -1,0 +1,475 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+27034,15,SavedShot,0.8830000305175781,0.42400001525878905,0.08054880052804947,Lars Stindl,h,208,OpenPlay,2014,RightFoot,5369,Hannover 96,Bayer Leverkusen,1,3,2014-11-22 14:30:00,Joselu,HeadPass
+27040,32,ShotOnPost,0.8880000305175781,0.5479999923706055,0.10801099985837936,Lars Stindl,h,208,OpenPlay,2014,RightFoot,5369,Hannover 96,Bayer Leverkusen,1,3,2014-11-22 14:30:00,,Rebound
+27046,53,SavedShot,0.8519999694824218,0.295,0.031194599345326424,Lars Stindl,h,208,OpenPlay,2014,LeftFoot,5369,Hannover 96,Bayer Leverkusen,1,3,2014-11-22 14:30:00,Ceyhun Gülselam,Pass
+27665,26,SavedShot,0.710999984741211,0.3340000152587891,0.01190780010074377,Lars Stindl,a,208,OpenPlay,2014,RightFoot,5380,Hoffenheim,Hannover 96,4,3,2014-11-29 17:30:00,Joselu,HeadPass
+27669,42,Goal,0.9119999694824219,0.4809999847412109,0.059192098677158356,Lars Stindl,a,208,OpenPlay,2014,Head,5380,Hoffenheim,Hannover 96,4,3,2014-11-29 17:30:00,,Aerial
+27676,63,BlockedShot,0.8490000152587891,0.365,0.0548865981400013,Lars Stindl,a,208,OpenPlay,2014,LeftFoot,5380,Hoffenheim,Hannover 96,4,3,2014-11-29 17:30:00,,Tackle
+27683,85,Goal,0.935,0.5379999923706055,0.5113049745559692,Lars Stindl,a,208,OpenPlay,2014,RightFoot,5380,Hoffenheim,Hannover 96,4,3,2014-11-29 17:30:00,Artur Sobiech,Pass
+27327,29,BlockedShot,0.7709999847412109,0.23100000381469726,0.012629300355911255,Lars Stindl,h,208,OpenPlay,2014,RightFoot,5314,Hannover 96,Wolfsburg,1,3,2014-12-06 14:30:00,Hiroki Sakai,HeadPass
+27330,43,BlockedShot,0.7719999694824219,0.6880000305175781,0.018164200708270073,Lars Stindl,h,208,OpenPlay,2014,RightFoot,5314,Hannover 96,Wolfsburg,1,3,2014-12-06 14:30:00,Jimmy Briand,Pass
+27339,64,SavedShot,0.9330000305175781,0.565,0.5119739770889282,Lars Stindl,h,208,OpenPlay,2014,LeftFoot,5314,Hannover 96,Wolfsburg,1,3,2014-12-06 14:30:00,Hiroshi Kiyotake,Pass
+28204,11,Goal,0.9669999694824218,0.55,0.6456400156021118,Lars Stindl,a,208,OpenPlay,2014,RightFoot,5323,Werder Bremen,Hannover 96,3,3,2014-12-13 14:30:00,,Rebound
+28207,23,SavedShot,0.8830000305175781,0.3139999961853027,0.06055080145597458,Lars Stindl,a,208,OpenPlay,2014,RightFoot,5323,Werder Bremen,Hannover 96,3,3,2014-12-13 14:30:00,Manuel Schmiedebach,BallTouch
+28211,33,BlockedShot,0.914000015258789,0.5579999923706055,0.14853499829769135,Lars Stindl,a,208,FromCorner,2014,Head,5323,Werder Bremen,Hannover 96,3,3,2014-12-13 14:30:00,Hiroshi Kiyotake,Aerial
+27764,51,BlockedShot,0.855,0.515,0.04626980051398277,Lars Stindl,h,208,OpenPlay,2014,RightFoot,5330,Hannover 96,Augsburg,2,0,2014-12-16 19:00:00,,Aerial
+28303,5,SavedShot,0.8419999694824218,0.5309999847412109,0.10402099788188934,Lars Stindl,a,208,OpenPlay,2014,RightFoot,5347,Freiburg,Hannover 96,2,2,2014-12-21 16:30:00,Joselu,LayOff
+28323,68,BlockedShot,0.7219999694824218,0.485,0.017313199117779732,Lars Stindl,a,208,OpenPlay,2014,RightFoot,5347,Freiburg,Hannover 96,2,2,2014-12-21 16:30:00,Joselu,Pass
+28324,75,SavedShot,0.9459999847412109,0.69,0.032402001321315765,Lars Stindl,a,208,SetPiece,2014,LeftFoot,5347,Freiburg,Hannover 96,2,2,2014-12-21 16:30:00,Manuel Schmiedebach,Pass
+28328,93,SavedShot,0.895,0.5829999923706055,0.11387600004673004,Lars Stindl,a,208,OpenPlay,2014,LeftFoot,5347,Freiburg,Hannover 96,2,2,2014-12-21 16:30:00,Leonardo Bittencourt,Pass
+28398,30,BlockedShot,0.8959999847412109,0.3509999847412109,0.07042880356311798,Lars Stindl,a,208,SetPiece,2014,RightFoot,5310,Schalke 04,Hannover 96,1,0,2015-01-31 14:30:00,Leonardo Bittencourt,Pass
+28413,82,BlockedShot,0.779000015258789,0.6120000076293945,0.029093600809574127,Lars Stindl,a,208,OpenPlay,2014,RightFoot,5310,Schalke 04,Hannover 96,1,0,2015-01-31 14:30:00,Leonardo Bittencourt,Pass
+28738,3,SavedShot,0.8480000305175781,0.6759999847412109,0.2707119882106781,Lars Stindl,h,208,OpenPlay,2014,RightFoot,5262,Hannover 96,Mainz 05,1,1,2015-02-03 19:00:00,Joselu,HeadPass
+28578,5,SavedShot,0.7380000305175781,0.5129999923706055,0.021023599430918694,Lars Stindl,a,208,OpenPlay,2014,RightFoot,5277,Hamburger SV,Hannover 96,2,1,2015-02-07 17:30:00,Hiroshi Kiyotake,Pass
+28579,7,MissedShots,0.9290000152587891,0.345,0.06664659827947617,Lars Stindl,a,208,OpenPlay,2014,RightFoot,5277,Hamburger SV,Hannover 96,2,1,2015-02-07 17:30:00,Miiko Albornoz,Chipped
+28580,9,BlockedShot,0.8930000305175781,0.6959999847412109,0.04823819920420647,Lars Stindl,a,208,OpenPlay,2014,LeftFoot,5277,Hamburger SV,Hannover 96,2,1,2015-02-07 17:30:00,Hiroshi Kiyotake,Pass
+28585,32,MissedShots,0.8190000152587891,0.27100000381469724,0.026667699217796326,Lars Stindl,a,208,OpenPlay,2014,LeftFoot,5277,Hamburger SV,Hannover 96,2,1,2015-02-07 17:30:00,Manuel Schmiedebach,Pass
+28590,63,BlockedShot,0.93,0.7230000305175781,0.035440798848867416,Lars Stindl,a,208,OpenPlay,2014,LeftFoot,5277,Hamburger SV,Hannover 96,2,1,2015-02-07 17:30:00,Miiko Albornoz,Chipped
+28601,90,ShotOnPost,0.7869999694824219,0.385,0.08974830061197281,Lars Stindl,a,208,DirectFreekick,2014,RightFoot,5277,Hamburger SV,Hannover 96,2,1,2015-02-07 17:30:00,,Standard
+29309,27,MissedShots,0.8730000305175781,0.5820000076293945,0.05761909857392311,Lars Stindl,h,208,OpenPlay,2014,RightFoot,5288,Hannover 96,Paderborn,1,2,2015-02-15 16:30:00,João Pereira,Cross
+29313,36,SavedShot,0.875,0.6630000305175782,0.043443698436021805,Lars Stindl,h,208,SetPiece,2014,RightFoot,5288,Hannover 96,Paderborn,1,2,2015-02-15 16:30:00,,Rebound
+29705,67,SavedShot,0.8540000152587891,0.29100000381469726,0.037621598690748215,Lars Stindl,a,208,OpenPlay,2014,RightFoot,5295,FC Cologne,Hannover 96,1,1,2015-02-21 17:30:00,Maurice Hirsch,Pass
+29280,1,MissedShots,0.7169999694824218,0.22799999237060548,0.008568339981138706,Lars Stindl,h,208,OpenPlay,2014,RightFoot,5302,Hannover 96,VfB Stuttgart,1,1,2015-02-28 14:30:00,,None
+29284,10,MissedShots,0.9390000152587891,0.28899999618530275,0.05171990022063255,Lars Stindl,h,208,OpenPlay,2014,RightFoot,5302,Hannover 96,VfB Stuttgart,1,1,2015-02-28 14:30:00,Hiroki Sakai,Pass
+29301,69,Goal,0.9230000305175782,0.5359999847412109,0.4900360107421875,Lars Stindl,h,208,SetPiece,2014,RightFoot,5302,Hannover 96,VfB Stuttgart,1,1,2015-02-28 14:30:00,Joselu,HeadPass
+31900,13,SavedShot,0.87,0.29399999618530276,0.04025470092892647,Lars Stindl,h,208,OpenPlay,2014,LeftFoot,5254,Hannover 96,Borussia Dortmund,2,3,2015-03-21 14:30:00,Hiroshi Kiyotake,Pass
+31906,30,Goal,0.875999984741211,0.565,0.13506199419498444,Lars Stindl,h,208,OpenPlay,2014,RightFoot,5254,Hannover 96,Borussia Dortmund,2,3,2015-03-21 14:30:00,Leonardo Bittencourt,Pass
+31921,81,Goal,0.7919999694824219,0.6,0.03834820166230202,Lars Stindl,h,208,OpenPlay,2014,RightFoot,5254,Hannover 96,Borussia Dortmund,2,3,2015-03-21 14:30:00,Hiroshi Kiyotake,Pass
+30534,50,BlockedShot,0.7080000305175781,0.56,0.01213349960744381,Lars Stindl,a,208,FromCorner,2014,LeftFoot,5196,Eintracht Frankfurt,Hannover 96,2,2,2015-04-04 14:30:00,,Aerial
+30539,55,BlockedShot,0.8519999694824218,0.47,0.08770869672298431,Lars Stindl,a,208,OpenPlay,2014,RightFoot,5196,Eintracht Frankfurt,Hannover 96,2,2,2015-04-04 14:30:00,Hiroki Sakai,Pass
+30542,67,MissedShots,0.87,0.544000015258789,0.09356279671192169,Lars Stindl,a,208,OpenPlay,2014,LeftFoot,5196,Eintracht Frankfurt,Hannover 96,2,2,2015-04-04 14:30:00,Christian Schulz,Pass
+31164,49,ShotOnPost,0.7069999694824218,0.46900001525878904,0.01991480030119419,Lars Stindl,h,208,OpenPlay,2014,RightFoot,5204,Hannover 96,Hertha Berlin,1,1,2015-04-10 19:30:00,Hiroki Sakai,Pass
+29799,23,Goal,0.885,0.5,0.7577769756317139,Lars Stindl,h,208,Penalty,2014,RightFoot,5223,Hannover 96,Hoffenheim,1,2,2015-04-25 14:30:00,,Standard
+29807,62,MissedShots,0.914000015258789,0.37599998474121094,0.10610099881887436,Lars Stindl,h,208,OpenPlay,2014,LeftFoot,5223,Hannover 96,Hoffenheim,1,2,2015-04-25 14:30:00,Salif Sané,Pass
+31603,10,BlockedShot,0.9369999694824219,0.61,0.12131199985742569,Lars Stindl,h,208,OpenPlay,2014,LeftFoot,5172,Hannover 96,Werder Bremen,1,1,2015-05-09 14:30:00,Edgar Prib,Pass
+31607,20,Goal,0.8480000305175781,0.509000015258789,0.3131229877471924,Lars Stindl,h,208,OpenPlay,2014,RightFoot,5172,Hannover 96,Werder Bremen,1,1,2015-05-09 14:30:00,Jimmy Briand,HeadPass
+31609,28,MissedShots,0.8880000305175781,0.5870000076293945,0.02599719911813736,Lars Stindl,h,208,FromCorner,2014,Head,5172,Hannover 96,Werder Bremen,1,1,2015-05-09 14:30:00,Hiroshi Kiyotake,Cross
+30509,23,Goal,0.865,0.4540000152587891,0.1166590005159378,Lars Stindl,a,208,OpenPlay,2014,RightFoot,5180,Augsburg,Hannover 96,1,2,2015-05-16 14:30:00,Jimmy Briand,LayOff
+30515,53,Goal,0.914000015258789,0.48200000762939454,0.13634300231933594,Lars Stindl,a,208,OpenPlay,2014,RightFoot,5180,Augsburg,Hannover 96,1,2,2015-05-16 14:30:00,Jimmy Briand,Pass
+31416,15,SavedShot,0.7340000152587891,0.6930000305175781,0.01861640065908432,Lars Stindl,h,208,OpenPlay,2014,RightFoot,5189,Hannover 96,Freiburg,2,1,2015-05-23 14:30:00,Edgar Prib,HeadPass
+31426,66,SavedShot,0.935,0.580999984741211,0.11014100164175034,Lars Stindl,h,208,SetPiece,2014,Head,5189,Hannover 96,Freiburg,2,1,2015-05-23 14:30:00,Hiroshi Kiyotake,Cross
+31427,68,SavedShot,0.7480000305175781,0.29700000762939455,0.01647070050239563,Lars Stindl,h,208,OpenPlay,2014,RightFoot,5189,Hannover 96,Freiburg,2,1,2015-05-23 14:30:00,,None
+31434,90,MissedShots,0.7419999694824219,0.5070000076293946,0.028092799708247185,Lars Stindl,h,208,OpenPlay,2014,RightFoot,5189,Hannover 96,Freiburg,2,1,2015-05-23 14:30:00,Salif Sané,Pass
+76350,56,MissedShots,0.7030000305175781,0.6430000305175781,0.013007800094783306,Lars Stindl,h,208,OpenPlay,2015,RightFoot,1038,Borussia M.Gladbach,Mainz 05,1,2,2015-08-23 19:30:00,Patrick Herrmann,Pass
+76649,44,Goal,0.894000015258789,0.33,0.0628373995423317,Lars Stindl,a,208,OpenPlay,2015,RightFoot,1047,Werder Bremen,Borussia M.Gladbach,2,1,2015-08-30 19:30:00,Thorgan Hazard,Pass
+76833,23,MissedShots,0.865999984741211,0.44,0.07545880228281021,Lars Stindl,h,208,OpenPlay,2015,RightFoot,1048,Borussia M.Gladbach,Hamburger SV,0,3,2015-09-11 22:30:00,Raffael,Chipped
+76837,31,BlockedShot,0.7930000305175782,0.29200000762939454,0.03564310073852539,Lars Stindl,h,208,OpenPlay,2015,RightFoot,1048,Borussia M.Gladbach,Hamburger SV,0,3,2015-09-11 22:30:00,Raffael,Pass
+77294,18,Goal,0.8180000305175781,0.7069999694824218,0.028181400150060654,Lars Stindl,h,208,OpenPlay,2015,RightFoot,1073,Borussia M.Gladbach,Augsburg,4,2,2015-09-23 22:00:00,Raffael,Pass
+77312,65,SavedShot,0.860999984741211,0.39099998474121095,0.12004099786281586,Lars Stindl,h,208,OpenPlay,2015,RightFoot,1073,Borussia M.Gladbach,Augsburg,4,2,2015-09-23 22:00:00,Raffael,LayOff
+77523,33,SavedShot,0.9440000152587891,0.735,0.07842840254306793,Lars Stindl,a,208,OpenPlay,2015,RightFoot,1077,VfB Stuttgart,Borussia M.Gladbach,1,3,2015-09-26 17:30:00,Håvard Nordtveit,Chipped
+77545,84,MissedShots,0.794000015258789,0.23,0.018275700509548187,Lars Stindl,a,208,OpenPlay,2015,RightFoot,1077,VfB Stuttgart,Borussia M.Gladbach,1,3,2015-09-26 17:30:00,,None
+77770,11,ShotOnPost,0.865999984741211,0.525,0.3718770146369934,Lars Stindl,h,208,OpenPlay,2015,LeftFoot,1085,Borussia M.Gladbach,Wolfsburg,2,0,2015-10-03 17:30:00,,None
+77778,59,MissedShots,0.7369999694824219,0.7480000305175781,0.0132063003256917,Lars Stindl,h,208,OpenPlay,2015,RightFoot,1085,Borussia M.Gladbach,Wolfsburg,2,0,2015-10-03 17:30:00,Oscar Wendt,Pass
+78074,5,MissedShots,0.8030000305175782,0.3820000076293945,0.035378798842430115,Lars Stindl,a,208,OpenPlay,2015,RightFoot,1099,Eintracht Frankfurt,Borussia M.Gladbach,1,5,2015-10-17 20:30:00,,None
+78076,15,SavedShot,0.9369999694824219,0.355,0.28415700793266296,Lars Stindl,a,208,OpenPlay,2015,RightFoot,1099,Eintracht Frankfurt,Borussia M.Gladbach,1,5,2015-10-17 20:30:00,Ibrahima Traoré,Pass
+78084,47,ShotOnPost,0.8230000305175781,0.365,0.06600890308618546,Lars Stindl,a,208,OpenPlay,2015,LeftFoot,1099,Eintracht Frankfurt,Borussia M.Gladbach,1,5,2015-10-17 20:30:00,,TakeOn
+78088,53,MissedShots,0.8719999694824219,0.425,0.4276939928531647,Lars Stindl,a,208,OpenPlay,2015,RightFoot,1099,Eintracht Frankfurt,Borussia M.Gladbach,1,5,2015-10-17 20:30:00,,Rebound
+78239,31,Goal,0.9330000305175781,0.48,0.509797990322113,Lars Stindl,h,208,SetPiece,2015,Head,1110,Borussia M.Gladbach,Schalke 04,3,1,2015-10-25 20:30:00,,Aerial
+78238,31,SavedShot,0.885,0.5,0.7577769756317139,Lars Stindl,h,208,Penalty,2015,RightFoot,1110,Borussia M.Gladbach,Schalke 04,3,1,2015-10-25 20:30:00,,Standard
+78248,58,SavedShot,0.9490000152587891,0.35900001525878905,0.09330689907073975,Lars Stindl,h,208,OpenPlay,2015,RightFoot,1110,Borussia M.Gladbach,Schalke 04,3,1,2015-10-25 20:30:00,Håvard Nordtveit,Pass
+78250,59,BlockedShot,0.9259999847412109,0.534000015258789,0.07089869678020477,Lars Stindl,h,208,FromCorner,2015,Head,1110,Borussia M.Gladbach,Schalke 04,3,1,2015-10-25 20:30:00,Raffael,Chipped
+78258,74,SavedShot,0.8219999694824218,0.5920000076293945,0.06434209644794464,Lars Stindl,h,208,OpenPlay,2015,RightFoot,1110,Borussia M.Gladbach,Schalke 04,3,1,2015-10-25 20:30:00,Fabian Johnson,Pass
+78260,78,MissedShots,0.8590000152587891,0.3729999923706055,0.053286999464035034,Lars Stindl,h,208,SetPiece,2015,RightFoot,1110,Borussia M.Gladbach,Schalke 04,3,1,2015-10-25 20:30:00,,None
+78600,12,MissedShots,0.899000015258789,0.6840000152587891,0.055018000304698944,Lars Stindl,a,208,OpenPlay,2015,RightFoot,1113,Hertha Berlin,Borussia M.Gladbach,1,4,2015-10-31 18:30:00,,None
+78615,60,SavedShot,0.8069999694824219,0.5209999847412109,0.0986395999789238,Lars Stindl,a,208,OpenPlay,2015,RightFoot,1113,Hertha Berlin,Borussia M.Gladbach,1,4,2015-10-31 18:30:00,,TakeOn
+78723,32,BlockedShot,0.8319999694824218,0.5420000076293945,0.07735949754714966,Lars Stindl,h,208,OpenPlay,2015,RightFoot,1124,Borussia M.Gladbach,Ingolstadt,0,0,2015-11-07 18:30:00,Oscar Wendt,Pass
+78725,40,SavedShot,0.8009999847412109,0.750999984741211,0.014673000201582909,Lars Stindl,h,208,OpenPlay,2015,LeftFoot,1124,Borussia M.Gladbach,Ingolstadt,0,0,2015-11-07 18:30:00,,None
+78727,55,MissedShots,0.9319999694824219,0.51,0.4623749852180481,Lars Stindl,h,208,SetPiece,2015,Head,1124,Borussia M.Gladbach,Ingolstadt,0,0,2015-11-07 18:30:00,Ibrahima Traoré,Cross
+78891,12,ShotOnPost,0.8880000305175781,0.3579999923706055,0.08024899661540985,Lars Stindl,h,208,OpenPlay,2015,RightFoot,1133,Borussia M.Gladbach,Hannover 96,2,1,2015-11-21 18:30:00,Ibrahima Traoré,Pass
+78906,62,ShotOnPost,0.8980000305175782,0.6329999923706054,0.30167001485824585,Lars Stindl,h,208,OpenPlay,2015,LeftFoot,1133,Borussia M.Gladbach,Hannover 96,2,1,2015-11-21 18:30:00,Oscar Wendt,TakeOn
+78911,67,MissedShots,0.9080000305175782,0.5659999847412109,0.05745510011911392,Lars Stindl,h,208,FromCorner,2015,Head,1133,Borussia M.Gladbach,Hannover 96,2,1,2015-11-21 18:30:00,Ibrahima Traoré,Cross
+79252,3,BlockedShot,0.855,0.6229999923706054,0.05873509868979454,Lars Stindl,a,208,OpenPlay,2015,RightFoot,1141,Hoffenheim,Borussia M.Gladbach,3,3,2015-11-28 18:30:00,,None
+79258,19,MissedShots,0.84,0.49900001525878906,0.08871269971132278,Lars Stindl,a,208,OpenPlay,2015,RightFoot,1141,Hoffenheim,Borussia M.Gladbach,3,3,2015-11-28 18:30:00,Raffael,Pass
+79262,32,BlockedShot,0.7759999847412109,0.4,0.025971300899982452,Lars Stindl,a,208,OpenPlay,2015,RightFoot,1141,Hoffenheim,Borussia M.Gladbach,3,3,2015-11-28 18:30:00,Mahmoud Dahoud,Pass
+79380,28,MissedShots,0.9319999694824219,0.48200000762939454,0.1398089975118637,Lars Stindl,h,208,OpenPlay,2015,Head,1148,Borussia M.Gladbach,Bayern Munich,3,1,2015-12-05 18:30:00,Oscar Wendt,Cross
+79381,29,BlockedShot,0.7669999694824219,0.5659999847412109,0.02759549953043461,Lars Stindl,h,208,OpenPlay,2015,RightFoot,1148,Borussia M.Gladbach,Bayern Munich,3,1,2015-12-05 18:30:00,Fabian Johnson,Pass
+79391,65,Goal,0.9209999847412109,0.47200000762939454,0.4913159906864166,Lars Stindl,h,208,SetPiece,2015,RightFoot,1148,Borussia M.Gladbach,Bayern Munich,3,1,2015-12-05 18:30:00,Nico Elvedi,HeadPass
+79861,10,SavedShot,0.7930000305175782,0.46,0.043638598173856735,Lars Stindl,h,208,OpenPlay,2015,RightFoot,1173,Borussia M.Gladbach,Darmstadt,3,2,2015-12-20 20:30:00,Fabian Johnson,Pass
+79867,40,SavedShot,0.885,0.29399999618530276,0.03924329951405525,Lars Stindl,h,208,OpenPlay,2015,RightFoot,1173,Borussia M.Gladbach,Darmstadt,3,2,2015-12-20 20:30:00,Julian Korb,Pass
+79868,43,Goal,0.7819999694824219,0.500999984741211,0.03307089954614639,Lars Stindl,h,208,OpenPlay,2015,LeftFoot,1173,Borussia M.Gladbach,Darmstadt,3,2,2015-12-20 20:30:00,,None
+80103,47,MissedShots,0.8219999694824218,0.500999984741211,0.05199639871716499,Lars Stindl,h,208,OpenPlay,2015,LeftFoot,1180,Borussia M.Gladbach,Borussia Dortmund,1,3,2016-01-23 21:30:00,,Rebound
+80113,89,SavedShot,0.86,0.3840000152587891,0.08110520243644714,Lars Stindl,h,208,OpenPlay,2015,RightFoot,1180,Borussia M.Gladbach,Borussia Dortmund,1,3,2016-01-23 21:30:00,,TakeOn
+80480,36,SavedShot,0.935,0.5359999847412109,0.06979189813137054,Lars Stindl,a,208,SetPiece,2015,Head,1183,Mainz 05,Borussia M.Gladbach,1,0,2016-01-29 23:30:00,Ibrahima Traoré,Aerial
+80481,38,BlockedShot,0.9169999694824219,0.3940000152587891,0.12593400478363037,Lars Stindl,a,208,OpenPlay,2015,RightFoot,1183,Mainz 05,Borussia M.Gladbach,1,0,2016-01-29 23:30:00,Ibrahima Traoré,TakeOn
+80483,41,MissedShots,0.9230000305175782,0.5259999847412109,0.41292399168014526,Lars Stindl,a,208,SetPiece,2015,RightFoot,1183,Mainz 05,Borussia M.Gladbach,1,0,2016-01-29 23:30:00,Ibrahima Traoré,Chipped
+80492,71,BlockedShot,0.9119999694824219,0.5209999847412109,0.30241599678993225,Lars Stindl,a,208,OpenPlay,2015,Head,1183,Mainz 05,Borussia M.Gladbach,1,0,2016-01-29 23:30:00,Oscar Wendt,Chipped
+80564,11,Goal,0.935,0.49900001525878906,0.600970983505249,Lars Stindl,h,208,OpenPlay,2015,RightFoot,1192,Borussia M.Gladbach,Werder Bremen,5,1,2016-02-05 23:30:00,Thorgan Hazard,Pass
+80805,67,SavedShot,0.9009999847412109,0.5129999923706055,0.10246700048446655,Lars Stindl,a,208,OpenPlay,2015,LeftFoot,1208,Hamburger SV,Borussia M.Gladbach,3,2,2016-02-14 18:30:00,Thorgan Hazard,Chipped
+81072,23,MissedShots,0.7290000152587891,0.40599998474121096,0.02543729916214943,Lars Stindl,h,208,OpenPlay,2015,RightFoot,1215,Borussia M.Gladbach,FC Cologne,1,0,2016-02-20 18:30:00,Mahmoud Dahoud,Pass
+81081,52,SavedShot,0.835,0.365,0.09625490009784698,Lars Stindl,h,208,OpenPlay,2015,RightFoot,1215,Borussia M.Gladbach,FC Cologne,1,0,2016-02-20 18:30:00,Thorgan Hazard,Pass
+81538,15,BlockedShot,0.835,0.509000015258789,0.06462450325489044,Lars Stindl,h,208,OpenPlay,2015,RightFoot,1236,Borussia M.Gladbach,VfB Stuttgart,4,0,2016-03-02 23:00:00,,None
+81540,35,MissedShots,0.950999984741211,0.545,0.6258779764175415,Lars Stindl,h,208,OpenPlay,2015,LeftFoot,1236,Borussia M.Gladbach,VfB Stuttgart,4,0,2016-03-02 23:00:00,Raffael,Pass
+81544,49,MissedShots,0.875999984741211,0.5879999923706055,0.11591099947690964,Lars Stindl,h,208,OpenPlay,2015,RightFoot,1236,Borussia M.Gladbach,VfB Stuttgart,4,0,2016-03-02 23:00:00,Fabian Johnson,Pass
+81712,38,BlockedShot,0.89,0.4640000152587891,0.08368880301713943,Lars Stindl,a,208,OpenPlay,2015,LeftFoot,1242,Wolfsburg,Borussia M.Gladbach,2,1,2016-03-05 18:30:00,Martin Hinteregger,Cross
+81715,48,SavedShot,0.8669999694824219,0.34299999237060547,0.04902070015668869,Lars Stindl,a,208,OpenPlay,2015,RightFoot,1242,Wolfsburg,Borussia M.Gladbach,2,1,2016-03-05 18:30:00,,None
+82009,9,SavedShot,0.86,0.6419999694824219,0.0692266970872879,Lars Stindl,h,208,OpenPlay,2015,LeftFoot,1250,Borussia M.Gladbach,Eintracht Frankfurt,3,0,2016-03-12 18:30:00,Martin Hinteregger,Pass
+82012,27,SavedShot,0.9069999694824219,0.5790000152587891,0.500711977481842,Lars Stindl,h,208,OpenPlay,2015,LeftFoot,1250,Borussia M.Gladbach,Eintracht Frankfurt,3,0,2016-03-12 18:30:00,Raffael,Pass
+82015,35,Goal,0.8809999847412109,0.46,0.07536330074071884,Lars Stindl,h,208,SetPiece,2015,RightFoot,1250,Borussia M.Gladbach,Eintracht Frankfurt,3,0,2016-03-12 18:30:00,,None
+82022,69,MissedShots,0.8580000305175781,0.46900001525878904,0.09336449950933456,Lars Stindl,h,208,OpenPlay,2015,RightFoot,1250,Borussia M.Gladbach,Eintracht Frankfurt,3,0,2016-03-12 18:30:00,Raffael,HeadPass
+82027,88,SavedShot,0.85,0.4759999847412109,0.1208610013127327,Lars Stindl,h,208,OpenPlay,2015,RightFoot,1250,Borussia M.Gladbach,Eintracht Frankfurt,3,0,2016-03-12 18:30:00,Thorgan Hazard,Pass
+82185,27,BlockedShot,0.8109999847412109,0.4520000076293945,0.04956819862127304,Lars Stindl,a,208,OpenPlay,2015,RightFoot,1255,Schalke 04,Borussia M.Gladbach,2,1,2016-03-18 23:30:00,,None
+82189,36,SavedShot,0.8380000305175781,0.2620000076293945,0.04369869828224182,Lars Stindl,a,208,OpenPlay,2015,RightFoot,1255,Schalke 04,Borussia M.Gladbach,2,1,2016-03-18 23:30:00,Thorgan Hazard,Pass
+82193,43,SavedShot,0.9530000305175781,0.39799999237060546,0.30883100628852844,Lars Stindl,a,208,OpenPlay,2015,RightFoot,1255,Schalke 04,Borussia M.Gladbach,2,1,2016-03-18 23:30:00,Thorgan Hazard,Cross
+82196,56,MissedShots,0.855999984741211,0.6669999694824219,0.05199350044131279,Lars Stindl,a,208,OpenPlay,2015,RightFoot,1255,Schalke 04,Borussia M.Gladbach,2,1,2016-03-18 23:30:00,Fabian Johnson,HeadPass
+82201,76,SavedShot,0.795,0.43099998474121093,0.039434000849723816,Lars Stindl,a,208,OpenPlay,2015,RightFoot,1255,Schalke 04,Borussia M.Gladbach,2,1,2016-03-18 23:30:00,Patrick Herrmann,Pass
+82203,80,MissedShots,0.7440000152587891,0.519000015258789,0.02896060049533844,Lars Stindl,a,208,OpenPlay,2015,RightFoot,1255,Schalke 04,Borussia M.Gladbach,2,1,2016-03-18 23:30:00,,TakeOn
+82968,64,BlockedShot,0.905,0.6609999847412109,0.07472550123929977,Lars Stindl,a,208,OpenPlay,2015,LeftFoot,1282,Hannover 96,Borussia M.Gladbach,2,0,2016-04-15 22:30:00,Ibrahima Traoré,Pass
+83303,93,MissedShots,0.32599998474121095,0.52,0.009367610327899456,Lars Stindl,a,208,OpenPlay,2015,RightFoot,1305,Bayern Munich,Borussia M.Gladbach,1,1,2016-04-30 17:30:00,,Punch
+83553,61,MissedShots,0.8090000152587891,0.66,0.030701400712132454,Lars Stindl,h,208,OpenPlay,2015,RightFoot,1310,Borussia M.Gladbach,Bayer Leverkusen,2,1,2016-05-07 17:30:00,Oscar Wendt,Pass
+83560,78,BlockedShot,0.8930000305175781,0.5259999847412109,0.12808699905872345,Lars Stindl,h,208,OpenPlay,2015,LeftFoot,1310,Borussia M.Gladbach,Bayer Leverkusen,2,1,2016-05-07 17:30:00,Oscar Wendt,Pass
+127630,28,BlockedShot,0.870999984741211,0.44299999237060544,0.04707060009241104,Lars Stindl,h,208,FromCorner,2016,RightFoot,1333,Borussia M.Gladbach,Bayer Leverkusen,2,1,2016-08-27 20:30:00,Raffael,Cross
+127648,84,Goal,0.885,0.38799999237060545,0.3588629961013794,Lars Stindl,h,208,OpenPlay,2016,RightFoot,1333,Borussia M.Gladbach,Bayer Leverkusen,2,1,2016-08-27 20:30:00,Thorgan Hazard,Throughball
+128229,61,MissedShots,0.9169999694824219,0.5879999923706055,0.017373299226164818,Lars Stindl,h,208,FromCorner,2016,Head,1351,Borussia M.Gladbach,Werder Bremen,4,1,2016-09-17 20:30:00,Ibrahima Traoré,Aerial
+128639,23,SavedShot,0.955999984741211,0.40599998474121096,0.44481799006462097,Lars Stindl,h,208,OpenPlay,2016,LeftFoot,1364,Borussia M.Gladbach,Ingolstadt,2,0,2016-09-24 17:30:00,Mahmoud Dahoud,Pass
+128642,41,Goal,0.8180000305175781,0.4620000076293945,0.09034329652786255,Lars Stindl,h,208,OpenPlay,2016,LeftFoot,1364,Borussia M.Gladbach,Ingolstadt,2,0,2016-09-24 17:30:00,,None
+128885,69,MissedShots,0.9769999694824218,0.6140000152587891,0.028481800109148026,Lars Stindl,a,208,SetPiece,2016,Head,1380,Schalke 04,Borussia M.Gladbach,4,0,2016-10-02 19:30:00,Ibrahima Traoré,Cross
+128894,85,BlockedShot,0.855999984741211,0.46,0.0935233011841774,Lars Stindl,a,208,OpenPlay,2016,RightFoot,1380,Schalke 04,Borussia M.Gladbach,4,0,2016-10-02 19:30:00,Thorgan Hazard,Pass
+129093,57,SavedShot,0.8630000305175781,0.4540000152587891,0.10432799905538559,Lars Stindl,h,208,OpenPlay,2016,RightFoot,1382,Borussia M.Gladbach,Hamburger SV,0,0,2016-10-15 17:30:00,Ibrahima Traoré,Pass
+129094,60,ShotOnPost,0.885,0.5,0.7577769756317139,Lars Stindl,h,208,Penalty,2016,RightFoot,1382,Borussia M.Gladbach,Hamburger SV,0,0,2016-10-15 17:30:00,,Standard
+129098,67,BlockedShot,0.8959999847412109,0.33799999237060546,0.07937529683113098,Lars Stindl,h,208,OpenPlay,2016,RightFoot,1382,Borussia M.Gladbach,Hamburger SV,0,0,2016-10-15 17:30:00,Fabian Johnson,Pass
+129104,82,BlockedShot,0.9319999694824219,0.4370000076293945,0.041945699602365494,Lars Stindl,h,208,FromCorner,2016,Head,1382,Borussia M.Gladbach,Hamburger SV,0,0,2016-10-15 17:30:00,Ibrahima Traoré,Aerial
+129106,83,BlockedShot,0.8590000152587891,0.39799999237060546,0.08814279735088348,Lars Stindl,h,208,OpenPlay,2016,RightFoot,1382,Borussia M.Gladbach,Hamburger SV,0,0,2016-10-15 17:30:00,Christoph Kramer,Pass
+129109,89,MissedShots,0.9469999694824218,0.43099998474121093,0.4994960129261017,Lars Stindl,h,208,OpenPlay,2016,RightFoot,1382,Borussia M.Gladbach,Hamburger SV,0,0,2016-10-15 17:30:00,,Rebound
+129110,92,SavedShot,0.8530000305175781,0.534000015258789,0.09349209815263748,Lars Stindl,h,208,OpenPlay,2016,RightFoot,1382,Borussia M.Gladbach,Hamburger SV,0,0,2016-10-15 17:30:00,Jannik Vestergaard,Pass
+129797,42,MissedShots,0.82,0.549000015258789,0.05865510180592537,Lars Stindl,h,208,OpenPlay,2016,RightFoot,3299,Borussia M.Gladbach,Eintracht Frankfurt,0,0,2016-10-28 22:30:00,Fabian Johnson,Pass
+129802,71,SavedShot,0.81,0.43599998474121093,0.03692770004272461,Lars Stindl,h,208,OpenPlay,2016,LeftFoot,3299,Borussia M.Gladbach,Eintracht Frankfurt,0,0,2016-10-28 22:30:00,André Hahn,HeadPass
+129606,16,MissedShots,0.865999984741211,0.43099998474121093,0.09784059971570969,Lars Stindl,a,208,OpenPlay,2016,RightFoot,2806,Hertha Berlin,Borussia M.Gladbach,3,0,2016-11-04 23:30:00,Patrick Herrmann,Pass
+129612,52,MissedShots,0.7630000305175781,0.3220000076293945,0.009873449802398682,Lars Stindl,a,208,OpenPlay,2016,RightFoot,2806,Hertha Berlin,Borussia M.Gladbach,3,0,2016-11-04 23:30:00,Julian Korb,HeadPass
+129620,77,SavedShot,0.915,0.36700000762939455,0.2727130055427551,Lars Stindl,a,208,OpenPlay,2016,RightFoot,2806,Hertha Berlin,Borussia M.Gladbach,3,0,2016-11-04 23:30:00,Fabian Johnson,Pass
+129860,31,Goal,0.9230000305175782,0.4209999847412109,0.44345399737358093,Lars Stindl,h,208,OpenPlay,2016,RightFoot,2816,Borussia M.Gladbach,FC Cologne,1,2,2016-11-19 18:30:00,Ibrahima Traoré,Pass
+129877,83,SavedShot,0.9059999847412109,0.7130000305175781,0.06635569781064987,Lars Stindl,h,208,OpenPlay,2016,LeftFoot,2816,Borussia M.Gladbach,FC Cologne,1,2,2016-11-19 18:30:00,Raffael,Pass
+130922,19,SavedShot,0.9290000152587891,0.66,0.11442600190639496,Lars Stindl,h,208,OpenPlay,2016,LeftFoot,2826,Borussia M.Gladbach,Hoffenheim,1,1,2016-11-26 18:30:00,Raffael,Throughball
+130926,29,SavedShot,0.7559999847412109,0.534000015258789,0.031213900074362755,Lars Stindl,h,208,OpenPlay,2016,RightFoot,2826,Borussia M.Gladbach,Hoffenheim,1,1,2016-11-26 18:30:00,Mahmoud Dahoud,Pass
+130931,48,SavedShot,0.865,0.5259999847412109,0.38296499848365784,Lars Stindl,h,208,OpenPlay,2016,RightFoot,2826,Borussia M.Gladbach,Hoffenheim,1,1,2016-11-26 18:30:00,Raffael,Throughball
+130368,72,BlockedShot,0.92,0.4229999923706055,0.021923599764704704,Lars Stindl,a,208,FromCorner,2016,Head,3194,Borussia Dortmund,Borussia M.Gladbach,4,1,2016-12-03 18:30:00,Raffael,Aerial
+130954,22,SavedShot,0.7819999694824219,0.6079999923706054,0.02541710063815117,Lars Stindl,h,208,OpenPlay,2016,RightFoot,3208,Borussia M.Gladbach,Mainz 05,1,0,2016-12-11 18:30:00,Nico Elvedi,Pass
+130961,51,MissedShots,0.7140000152587891,0.47,0.03548869863152504,Lars Stindl,h,208,OpenPlay,2016,RightFoot,3208,Borussia M.Gladbach,Mainz 05,1,0,2016-12-11 18:30:00,Thorgan Hazard,HeadPass
+130967,75,BlockedShot,0.86,0.495,0.030015500262379646,Lars Stindl,h,208,FromCorner,2016,RightFoot,3208,Borussia M.Gladbach,Mainz 05,1,0,2016-12-11 18:30:00,,Aerial
+130125,51,SavedShot,0.8159999847412109,0.580999984741211,0.05169549956917763,Lars Stindl,h,208,OpenPlay,2016,RightFoot,3220,Borussia M.Gladbach,Wolfsburg,1,2,2016-12-20 23:00:00,Thorgan Hazard,Pass
+130131,63,MissedShots,0.8959999847412109,0.3240000152587891,0.036959998309612274,Lars Stindl,h,208,OpenPlay,2016,RightFoot,3220,Borussia M.Gladbach,Wolfsburg,1,2,2016-12-20 23:00:00,Oscar Wendt,Cross
+130134,66,SavedShot,0.8430000305175781,0.3240000152587891,0.04407050088047981,Lars Stindl,h,208,OpenPlay,2016,RightFoot,3220,Borussia M.Gladbach,Wolfsburg,1,2,2016-12-20 23:00:00,Tobias Strobl,Pass
+130136,70,MissedShots,0.86,0.40299999237060546,0.07324309647083282,Lars Stindl,h,208,OpenPlay,2016,RightFoot,3220,Borussia M.Gladbach,Wolfsburg,1,2,2016-12-20 23:00:00,Julian Korb,Pass
+131063,51,Goal,0.855999984741211,0.67,0.03769230097532272,Lars Stindl,a,208,OpenPlay,2016,RightFoot,3737,Bayer Leverkusen,Borussia M.Gladbach,2,3,2017-01-28 20:30:00,,None
+131065,57,Goal,0.935,0.5070000076293946,0.43636101484298706,Lars Stindl,a,208,OpenPlay,2016,Head,3737,Bayer Leverkusen,Borussia M.Gladbach,2,3,2017-01-28 20:30:00,Oscar Wendt,Chipped
+131070,89,SavedShot,0.84,0.5279999923706055,0.3230449855327606,Lars Stindl,a,208,OpenPlay,2016,LeftFoot,3737,Bayer Leverkusen,Borussia M.Gladbach,2,3,2017-01-28 20:30:00,Josip Drmic,Pass
+131583,11,BlockedShot,0.8530000305175781,0.42200000762939455,0.050262700766325,Lars Stindl,h,208,OpenPlay,2016,RightFoot,3744,Borussia M.Gladbach,Freiburg,3,0,2017-02-04 14:30:00,André Hahn,HeadPass
+131595,51,MissedShots,0.764000015258789,0.655,0.018240999430418015,Lars Stindl,h,208,OpenPlay,2016,RightFoot,3744,Borussia M.Gladbach,Freiburg,3,0,2017-02-04 14:30:00,André Hahn,Pass
+131599,72,Goal,0.7909999847412109,0.4909999847412109,0.04230070114135742,Lars Stindl,h,208,OpenPlay,2016,RightFoot,3744,Borussia M.Gladbach,Freiburg,3,0,2017-02-04 14:30:00,Fabian Johnson,TakeOn
+131976,63,SavedShot,0.9569999694824218,0.6730000305175782,0.060550298541784286,Lars Stindl,h,208,OpenPlay,2016,LeftFoot,3765,Borussia M.Gladbach,RasenBallsport Leipzig,1,2,2017-02-19 14:30:00,Thorgan Hazard,Pass
+132185,18,SavedShot,0.740999984741211,0.38,0.019076300784945488,Lars Stindl,a,208,OpenPlay,2016,RightFoot,3774,Ingolstadt,Borussia M.Gladbach,0,2,2017-02-26 14:30:00,Fabian Johnson,Pass
+132190,43,BlockedShot,0.889000015258789,0.705,0.03349129855632782,Lars Stindl,a,208,FromCorner,2016,RightFoot,3774,Ingolstadt,Borussia M.Gladbach,0,2,2017-02-26 14:30:00,,None
+132195,59,Goal,0.955999984741211,0.45599998474121095,0.6121159791946411,Lars Stindl,a,208,FromCorner,2016,OtherBodyPart,3774,Ingolstadt,Borussia M.Gladbach,0,2,2017-02-26 14:30:00,,None
+132498,1,MissedShots,0.8009999847412109,0.6079999923706054,0.03831519931554794,Lars Stindl,h,208,OpenPlay,2016,RightFoot,3782,Borussia M.Gladbach,Schalke 04,4,2,2017-03-04 17:30:00,Raffael,Pass
+132510,52,SavedShot,0.904000015258789,0.40700000762939453,0.08628100156784058,Lars Stindl,h,208,OpenPlay,2016,RightFoot,3782,Borussia M.Gladbach,Schalke 04,4,2,2017-03-04 17:30:00,,None
+132515,61,SavedShot,0.899000015258789,0.6,0.06576289981603622,Lars Stindl,h,208,OpenPlay,2016,LeftFoot,3782,Borussia M.Gladbach,Schalke 04,4,2,2017-03-04 17:30:00,Patrick Herrmann,Cross
+133767,12,BlockedShot,0.8019999694824219,0.48,0.045483801513910294,Lars Stindl,h,208,OpenPlay,2016,RightFoot,3820,Borussia M.Gladbach,Hertha Berlin,1,0,2017-04-05 19:00:00,,None
+133777,48,BlockedShot,0.8090000152587891,0.639000015258789,0.03904670104384422,Lars Stindl,h,208,OpenPlay,2016,RightFoot,3820,Borussia M.Gladbach,Hertha Berlin,1,0,2017-04-05 19:00:00,Mahmoud Dahoud,Pass
+133779,49,MissedShots,0.8730000305175781,0.4779999923706055,0.11891400068998337,Lars Stindl,h,208,OpenPlay,2016,LeftFoot,3820,Borussia M.Gladbach,Hertha Berlin,1,0,2017-04-05 19:00:00,Patrick Herrmann,Pass
+133783,54,SavedShot,0.889000015258789,0.31799999237060544,0.07142999768257141,Lars Stindl,h,208,OpenPlay,2016,RightFoot,3820,Borussia M.Gladbach,Hertha Berlin,1,0,2017-04-05 19:00:00,Thorgan Hazard,Pass
+134657,46,MissedShots,0.674000015258789,0.664000015258789,0.008281960152089596,Lars Stindl,a,208,OpenPlay,2016,LeftFoot,3825,FC Cologne,Borussia M.Gladbach,2,3,2017-04-08 14:30:00,,None
+134665,79,Goal,0.875,0.5940000152587891,0.07628670334815979,Lars Stindl,a,208,OpenPlay,2016,LeftFoot,3825,FC Cologne,Borussia M.Gladbach,2,3,2017-04-08 14:30:00,,Rebound
+133118,34,Goal,0.91,0.44099998474121094,0.43789100646972656,Lars Stindl,a,208,OpenPlay,2016,RightFoot,3838,Hoffenheim,Borussia M.Gladbach,5,3,2017-04-15 14:30:00,Mahmoud Dahoud,Pass
+133132,90,MissedShots,0.985999984741211,0.3770000076293945,0.05133900046348572,Lars Stindl,a,208,OpenPlay,2016,RightFoot,3838,Hoffenheim,Borussia M.Gladbach,5,3,2017-04-15 14:30:00,,Rebound
+133415,42,Goal,0.8780000305175781,0.6430000305175781,0.2624549865722656,Lars Stindl,h,208,OpenPlay,2016,LeftFoot,3840,Borussia M.Gladbach,Borussia Dortmund,2,3,2017-04-22 17:30:00,André Hahn,Pass
+134305,1,BlockedShot,0.6809999847412109,0.624000015258789,0.01057989988476038,Lars Stindl,a,208,OpenPlay,2016,RightFoot,3855,Mainz 05,Borussia M.Gladbach,1,2,2017-04-29 14:30:00,Patrick Herrmann,Pass
+134307,9,MissedShots,0.6759999847412109,0.5420000076293945,0.017468299716711044,Lars Stindl,a,208,OpenPlay,2016,RightFoot,3855,Mainz 05,Borussia M.Gladbach,1,2,2017-04-29 14:30:00,László Bénes,Pass
+134309,21,SavedShot,0.7290000152587891,0.7069999694824218,0.011182400397956371,Lars Stindl,a,208,OpenPlay,2016,LeftFoot,3855,Mainz 05,Borussia M.Gladbach,1,2,2017-04-29 14:30:00,André Hahn,HeadPass
+134311,30,Goal,0.9619999694824218,0.43599998474121093,0.6694980263710022,Lars Stindl,a,208,OpenPlay,2016,RightFoot,3855,Mainz 05,Borussia M.Gladbach,1,2,2017-04-29 14:30:00,Nico Schulz,Pass
+134318,57,SavedShot,0.8680000305175781,0.68,0.07327420264482498,Lars Stindl,a,208,OpenPlay,2016,LeftFoot,3855,Mainz 05,Borussia M.Gladbach,1,2,2017-04-29 14:30:00,Mahmoud Dahoud,Pass
+134328,78,MissedShots,0.8059999847412109,0.3220000076293945,0.02901430055499077,Lars Stindl,a,208,OpenPlay,2016,RightFoot,3855,Mainz 05,Borussia M.Gladbach,1,2,2017-04-29 14:30:00,Patrick Herrmann,Pass
+134879,5,BlockedShot,0.8640000152587891,0.39099998474121095,0.04081910103559494,Lars Stindl,h,208,FromCorner,2016,RightFoot,3861,Borussia M.Gladbach,Augsburg,1,1,2017-05-06 14:30:00,Jonas Hofmann,Cross
+134904,88,BlockedShot,0.7930000305175782,0.36,0.020336799323558807,Lars Stindl,h,208,SetPiece,2016,RightFoot,3861,Borussia M.Gladbach,Augsburg,1,1,2017-05-06 14:30:00,Andreas Christensen,HeadPass
+133134,6,BlockedShot,0.8019999694824219,0.625,0.05111299827694893,Lars Stindl,a,208,OpenPlay,2016,LeftFoot,3869,Wolfsburg,Borussia M.Gladbach,1,1,2017-05-13 14:30:00,André Hahn,LayOff
+133136,8,BlockedShot,0.86,0.5129999923706055,0.3309580087661743,Lars Stindl,a,208,OpenPlay,2016,RightFoot,3869,Wolfsburg,Borussia M.Gladbach,1,1,2017-05-13 14:30:00,,Rebound
+133157,80,SavedShot,0.8569999694824219,0.29399999618530276,0.11301200091838837,Lars Stindl,a,208,OpenPlay,2016,RightFoot,3869,Wolfsburg,Borussia M.Gladbach,1,1,2017-05-13 14:30:00,Raffael,LayOff
+127733,7,BlockedShot,0.825,0.534000015258789,0.05667160078883171,Lars Stindl,h,208,OpenPlay,2016,RightFoot,3876,Borussia M.Gladbach,Darmstadt,2,2,2017-05-20 14:30:00,,None
+127738,22,SavedShot,0.855999984741211,0.5590000152587891,0.0927542969584465,Lars Stindl,h,208,OpenPlay,2016,RightFoot,3876,Borussia M.Gladbach,Darmstadt,2,2,2017-05-20 14:30:00,Thorgan Hazard,Pass
+127755,72,MissedShots,0.9059999847412109,0.44099998474121094,0.06267619878053665,Lars Stindl,h,208,FromCorner,2016,RightFoot,3876,Borussia M.Gladbach,Darmstadt,2,2,2017-05-20 14:30:00,Raffael,Cross
+165859,8,SavedShot,0.875,0.5870000076293945,0.10266000032424927,Lars Stindl,h,208,OpenPlay,2017,LeftFoot,8267,Borussia M.Gladbach,FC Cologne,1,0,2017-08-20 17:00:00,Thorgan Hazard,Pass
+165862,15,SavedShot,0.8930000305175781,0.6270000076293946,0.05822649970650673,Lars Stindl,h,208,OpenPlay,2017,RightFoot,8267,Borussia M.Gladbach,FC Cologne,1,0,2017-08-20 17:00:00,Oscar Wendt,Cross
+165868,38,BlockedShot,0.7390000152587891,0.40900001525878904,0.015424399636685848,Lars Stindl,h,208,FromCorner,2017,LeftFoot,8267,Borussia M.Gladbach,FC Cologne,1,0,2017-08-20 17:00:00,,None
+165883,70,SavedShot,0.8730000305175781,0.2560000038146973,0.03879899904131889,Lars Stindl,h,208,OpenPlay,2017,RightFoot,8267,Borussia M.Gladbach,FC Cologne,1,0,2017-08-20 17:00:00,Christoph Kramer,Pass
+166171,82,MissedShots,0.8580000305175781,0.534000015258789,0.042015399783849716,Lars Stindl,a,208,OpenPlay,2017,Head,8272,Augsburg,Borussia M.Gladbach,2,2,2017-08-26 14:30:00,László Bénes,Cross
+166326,54,SavedShot,0.740999984741211,0.37599998474121094,0.017702599987387657,Lars Stindl,h,208,FromCorner,2017,RightFoot,8281,Borussia M.Gladbach,Eintracht Frankfurt,0,1,2017-09-09 14:30:00,,BallTouch
+166334,95,MissedShots,0.8809999847412109,0.6179999923706054,0.04118010029196739,Lars Stindl,h,208,FromCorner,2017,RightFoot,8281,Borussia M.Gladbach,Eintracht Frankfurt,0,1,2017-09-09 14:30:00,Jonas Hofmann,Cross
+166538,51,MissedShots,0.895,0.40599998474121096,0.06957170367240906,Lars Stindl,a,208,OpenPlay,2017,RightFoot,8291,RasenBallsport Leipzig,Borussia M.Gladbach,2,2,2017-09-16 17:30:00,Raffael,Cross
+166541,60,Goal,0.7730000305175782,0.6880000305175781,0.01965869963169098,Lars Stindl,a,208,OpenPlay,2017,RightFoot,8291,RasenBallsport Leipzig,Borussia M.Gladbach,2,2,2017-09-16 17:30:00,Denis Zakaria,Pass
+166973,32,SavedShot,0.845999984741211,0.715,0.031351398676633835,Lars Stindl,h,208,OpenPlay,2017,LeftFoot,8295,Borussia M.Gladbach,VfB Stuttgart,2,0,2017-09-19 17:30:00,,None
+167371,40,SavedShot,0.8180000305175781,0.565,0.05697229877114296,Lars Stindl,a,208,OpenPlay,2017,RightFoot,8310,Borussia Dortmund,Borussia M.Gladbach,6,1,2017-09-23 17:30:00,Raffael,Pass
+167383,65,Goal,0.9119999694824219,0.5420000076293945,0.33807000517845154,Lars Stindl,a,208,OpenPlay,2017,RightFoot,8310,Borussia Dortmund,Borussia M.Gladbach,6,1,2017-09-23 17:30:00,,None
+167098,7,MissedShots,0.87,0.2979999923706055,0.03051380068063736,Lars Stindl,h,208,FromCorner,2017,RightFoot,8315,Borussia M.Gladbach,Hannover 96,2,1,2017-09-30 14:30:00,,None
+167108,37,MissedShots,0.7669999694824219,0.5420000076293945,0.039108701050281525,Lars Stindl,h,208,OpenPlay,2017,RightFoot,8315,Borussia M.Gladbach,Hannover 96,2,1,2017-09-30 14:30:00,Thorgan Hazard,HeadPass
+167109,43,BlockedShot,0.730999984741211,0.4909999847412109,0.014490500092506409,Lars Stindl,h,208,OpenPlay,2017,LeftFoot,8315,Borussia M.Gladbach,Hannover 96,2,1,2017-09-30 14:30:00,,None
+167116,61,SavedShot,0.825,0.505,0.06455589830875397,Lars Stindl,h,208,OpenPlay,2017,RightFoot,8315,Borussia M.Gladbach,Hannover 96,2,1,2017-09-30 14:30:00,Michaël Cuisance,Pass
+167124,83,BlockedShot,0.8619999694824219,0.6170000076293946,0.0901188999414444,Lars Stindl,h,208,OpenPlay,2017,LeftFoot,8315,Borussia M.Gladbach,Hannover 96,2,1,2017-09-30 14:30:00,Raúl Bobadilla,LayOff
+167732,26,Goal,0.9630000305175781,0.6659999847412109,0.08815780282020569,Lars Stindl,a,208,OpenPlay,2017,RightFoot,8326,Werder Bremen,Borussia M.Gladbach,0,2,2017-10-15 17:00:00,,TakeOn
+167754,83,ShotOnPost,0.87,0.47,0.03598279878497124,Lars Stindl,a,208,OpenPlay,2017,Head,8326,Werder Bremen,Borussia M.Gladbach,0,2,2017-10-15 17:00:00,Ibrahima Traoré,Cross
+168155,24,BlockedShot,0.799000015258789,0.24100000381469727,0.02283710055053234,Lars Stindl,h,208,FromCorner,2017,RightFoot,8334,Borussia M.Gladbach,Bayer Leverkusen,1,5,2017-10-21 14:30:00,Michaël Cuisance,Cross
+168160,40,BlockedShot,0.8419999694824218,0.7240000152587891,0.032229501754045486,Lars Stindl,h,208,FromCorner,2017,RightFoot,8334,Borussia M.Gladbach,Bayer Leverkusen,1,5,2017-10-21 14:30:00,,Rebound
+168162,43,BlockedShot,0.8080000305175781,0.485,0.056311700493097305,Lars Stindl,h,208,OpenPlay,2017,LeftFoot,8334,Borussia M.Gladbach,Bayer Leverkusen,1,5,2017-10-21 14:30:00,Raffael,Pass
+168541,42,MissedShots,0.8569999694824219,0.5520000076293945,0.08179400116205215,Lars Stindl,a,208,OpenPlay,2017,LeftFoot,8341,Hoffenheim,Borussia M.Gladbach,1,3,2017-10-28 14:30:00,Thorgan Hazard,Pass
+168549,59,MissedShots,0.865999984741211,0.5879999923706055,0.043049901723861694,Lars Stindl,a,208,FromCorner,2017,RightFoot,8341,Hoffenheim,Borussia M.Gladbach,1,3,2017-10-28 14:30:00,Oscar Wendt,Cross
+167489,4,BlockedShot,0.865,0.5279999923706055,0.07903479784727097,Lars Stindl,h,208,OpenPlay,2017,RightFoot,8352,Borussia M.Gladbach,Mainz 05,1,1,2017-11-04 14:30:00,,None
+167854,4,Goal,0.925,0.5729999923706055,0.4722149968147278,Lars Stindl,a,208,OpenPlay,2017,LeftFoot,8360,Hertha Berlin,Borussia M.Gladbach,2,4,2017-11-18 17:30:00,,None
+167855,11,BlockedShot,0.8190000152587891,0.485,0.09737960249185562,Lars Stindl,a,208,OpenPlay,2017,RightFoot,8360,Hertha Berlin,Borussia M.Gladbach,2,4,2017-11-18 17:30:00,,TakeOn
+167862,32,MissedShots,0.8930000305175781,0.44299999237060544,0.15877099335193634,Lars Stindl,a,208,OpenPlay,2017,Head,8360,Hertha Berlin,Borussia M.Gladbach,2,4,2017-11-18 17:30:00,Thorgan Hazard,Cross
+168454,43,BlockedShot,0.8730000305175781,0.710999984741211,0.07033070176839828,Lars Stindl,h,208,OpenPlay,2017,LeftFoot,8371,Borussia M.Gladbach,Bayern Munich,2,1,2017-11-25 17:30:00,Thorgan Hazard,TakeOn
+169055,9,MissedShots,0.8669999694824219,0.315,0.04548320174217224,Lars Stindl,a,208,OpenPlay,2017,RightFoot,8384,Wolfsburg,Borussia M.Gladbach,3,0,2017-12-03 17:00:00,Raffael,Chipped
+169068,48,MissedShots,0.965999984741211,0.46,0.5700759887695312,Lars Stindl,a,208,OpenPlay,2017,RightFoot,8384,Wolfsburg,Borussia M.Gladbach,3,0,2017-12-03 17:00:00,Vincenzo Grifo,Cross
+169079,86,SavedShot,0.8519999694824218,0.6120000076293945,0.07421749830245972,Lars Stindl,a,208,OpenPlay,2017,RightFoot,8384,Wolfsburg,Borussia M.Gladbach,3,0,2017-12-03 17:00:00,Vincenzo Grifo,Pass
+179703,50,MissedShots,0.8780000305175781,0.40799999237060547,0.07734669744968414,Lars Stindl,h,208,FromCorner,2017,LeftFoot,8390,Borussia M.Gladbach,Schalke 04,1,1,2017-12-09 17:30:00,,Rebound
+183979,28,SavedShot,0.745,0.40400001525878904,0.020067499950528145,Lars Stindl,a,208,OpenPlay,2017,RightFoot,8397,Freiburg,Borussia M.Gladbach,1,0,2017-12-12 19:30:00,Thorgan Hazard,Pass
+183981,37,SavedShot,0.769000015258789,0.48700000762939455,0.025139300152659416,Lars Stindl,a,208,OpenPlay,2017,LeftFoot,8397,Freiburg,Borussia M.Gladbach,1,0,2017-12-12 19:30:00,Matthias Ginter,Pass
+187856,12,SavedShot,0.9259999847412109,0.6179999923706054,0.08072199672460556,Lars Stindl,a,208,OpenPlay,2017,LeftFoot,8414,FC Cologne,Borussia M.Gladbach,2,1,2018-01-14 14:30:00,Thorgan Hazard,Foul
+187862,36,MissedShots,0.7730000305175782,0.5129999923706055,0.02162959985435009,Lars Stindl,a,208,SetPiece,2017,RightFoot,8414,FC Cologne,Borussia M.Gladbach,2,1,2018-01-14 14:30:00,,None
+187868,66,MissedShots,0.909000015258789,0.5179999923706055,0.48809200525283813,Lars Stindl,a,208,OpenPlay,2017,LeftFoot,8414,FC Cologne,Borussia M.Gladbach,2,1,2018-01-14 14:30:00,Oscar Wendt,Pass
+187874,73,SavedShot,0.884000015258789,0.24299999237060546,0.030147099867463112,Lars Stindl,a,208,OpenPlay,2017,RightFoot,8414,FC Cologne,Borussia M.Gladbach,2,1,2018-01-14 14:30:00,Patrick Herrmann,Pass
+188562,33,BlockedShot,0.914000015258789,0.40299999237060546,0.03939469903707504,Lars Stindl,h,208,FromCorner,2017,Head,8425,Borussia M.Gladbach,Augsburg,2,0,2018-01-20 14:30:00,Thorgan Hazard,Cross
+189694,62,BlockedShot,0.7819999694824219,0.6530000305175782,0.024715999141335487,Lars Stindl,a,208,OpenPlay,2017,RightFoot,8432,Eintracht Frankfurt,Borussia M.Gladbach,2,0,2018-01-26 19:30:00,Michaël Cuisance,Pass
+194766,43,BlockedShot,0.745999984741211,0.37900001525878907,0.019461799412965775,Lars Stindl,h,208,SetPiece,2017,RightFoot,8441,Borussia M.Gladbach,RasenBallsport Leipzig,0,1,2018-02-03 17:30:00,Thorgan Hazard,Pass
+194767,43,MissedShots,0.8569999694824219,0.57,0.03218710049986839,Lars Stindl,h,208,OpenPlay,2017,RightFoot,8441,Borussia M.Gladbach,RasenBallsport Leipzig,0,1,2018-02-03 17:30:00,,Aerial
+194772,50,BlockedShot,0.875999984741211,0.47400001525878904,0.5327360033988953,Lars Stindl,h,208,OpenPlay,2017,RightFoot,8441,Borussia M.Gladbach,RasenBallsport Leipzig,0,1,2018-02-03 17:30:00,Patrick Herrmann,Pass
+195131,24,SavedShot,0.9230000305175782,0.590999984741211,0.07968950271606445,Lars Stindl,a,208,OpenPlay,2017,LeftFoot,8450,VfB Stuttgart,Borussia M.Gladbach,1,0,2018-02-11 14:30:00,Vincenzo Grifo,Pass
+195136,45,SavedShot,0.6780000305175782,0.34599998474121096,0.010412500239908695,Lars Stindl,a,208,OpenPlay,2017,RightFoot,8450,VfB Stuttgart,Borussia M.Gladbach,1,0,2018-02-11 14:30:00,,BallRecovery
+195137,46,MissedShots,0.874000015258789,0.6480000305175782,0.05838799849152565,Lars Stindl,a,208,OpenPlay,2017,LeftFoot,8450,VfB Stuttgart,Borussia M.Gladbach,1,0,2018-02-11 14:30:00,Thorgan Hazard,Pass
+195142,73,BlockedShot,0.7709999847412109,0.3160000038146973,0.020228300243616104,Lars Stindl,a,208,OpenPlay,2017,RightFoot,8450,VfB Stuttgart,Borussia M.Gladbach,1,0,2018-02-11 14:30:00,Raffael,Pass
+196826,12,SavedShot,0.85,0.555,0.06673979759216309,Lars Stindl,h,208,OpenPlay,2017,LeftFoot,8460,Borussia M.Gladbach,Borussia Dortmund,0,1,2018-02-18 17:00:00,,None
+196832,41,BlockedShot,0.7280000305175781,0.46,0.011436600238084793,Lars Stindl,h,208,SetPiece,2017,RightFoot,8460,Borussia M.Gladbach,Borussia Dortmund,0,1,2018-02-18 17:00:00,,None
+196835,49,MissedShots,0.8030000305175782,0.5279999923706055,0.0418098010122776,Lars Stindl,h,208,OpenPlay,2017,LeftFoot,8460,Borussia M.Gladbach,Borussia Dortmund,0,1,2018-02-18 17:00:00,,Rebound
+196838,54,SavedShot,0.774000015258789,0.38,0.023009799420833588,Lars Stindl,h,208,OpenPlay,2017,RightFoot,8460,Borussia M.Gladbach,Borussia Dortmund,0,1,2018-02-18 17:00:00,Thorgan Hazard,Pass
+196840,56,BlockedShot,0.855,0.3039999961853027,0.040664900094270706,Lars Stindl,h,208,OpenPlay,2017,RightFoot,8460,Borussia M.Gladbach,Borussia Dortmund,0,1,2018-02-18 17:00:00,Denis Zakaria,Pass
+196841,56,MissedShots,0.8490000152587891,0.27100000381469724,0.029201900586485863,Lars Stindl,h,208,OpenPlay,2017,RightFoot,8460,Borussia M.Gladbach,Borussia Dortmund,0,1,2018-02-18 17:00:00,Denis Zakaria,Pass
+196847,63,SavedShot,0.8819999694824219,0.3160000038146973,0.04605279862880707,Lars Stindl,h,208,OpenPlay,2017,RightFoot,8460,Borussia M.Gladbach,Borussia Dortmund,0,1,2018-02-18 17:00:00,,None
+196853,85,BlockedShot,0.909000015258789,0.49900001525878906,0.05246160179376602,Lars Stindl,h,208,OpenPlay,2017,OtherBodyPart,8460,Borussia M.Gladbach,Borussia Dortmund,0,1,2018-02-18 17:00:00,Patrick Herrmann,Aerial
+197211,5,BlockedShot,0.88,0.515,0.40529799461364746,Lars Stindl,a,208,OpenPlay,2017,RightFoot,8472,Hannover 96,Borussia M.Gladbach,0,1,2018-02-24 14:30:00,Thorgan Hazard,Pass
+197227,61,MissedShots,0.7930000305175782,0.44299999237060544,0.027688099071383476,Lars Stindl,a,208,FromCorner,2017,RightFoot,8472,Hannover 96,Borussia M.Gladbach,0,1,2018-02-24 14:30:00,,None
+200189,67,SavedShot,0.774000015258789,0.6179999923706054,0.027952199801802635,Lars Stindl,a,208,OpenPlay,2017,RightFoot,8492,Bayer Leverkusen,Borussia M.Gladbach,2,0,2018-03-10 17:30:00,Denis Zakaria,Pass
+200194,87,BlockedShot,0.8880000305175781,0.43099998474121093,0.09988539665937424,Lars Stindl,a,208,OpenPlay,2017,LeftFoot,8492,Bayer Leverkusen,Borussia M.Gladbach,2,0,2018-03-10 17:30:00,Christoph Kramer,Pass
+201299,14,BlockedShot,0.8619999694824219,0.49599998474121093,0.0913856029510498,Lars Stindl,h,208,OpenPlay,2017,RightFoot,8496,Borussia M.Gladbach,Hoffenheim,3,3,2018-03-17 14:30:00,Jonas Hofmann,Pass
+201315,71,Goal,0.8519999694824218,0.5179999923706055,0.07016920298337936,Lars Stindl,h,208,OpenPlay,2017,RightFoot,8496,Borussia M.Gladbach,Hoffenheim,3,3,2018-03-17 14:30:00,Jonas Hofmann,Pass
+201323,88,MissedShots,0.8119999694824219,0.6229999923706054,0.042433299124240875,Lars Stindl,h,208,OpenPlay,2017,RightFoot,8496,Borussia M.Gladbach,Hoffenheim,3,3,2018-03-17 14:30:00,Raffael,Pass
+204404,38,MissedShots,0.779000015258789,0.5979999923706054,0.04980799928307533,Lars Stindl,a,208,OpenPlay,2017,RightFoot,8508,Mainz 05,Borussia M.Gladbach,0,0,2018-04-01 17:00:00,Raffael,Pass
+204406,41,BlockedShot,0.8880000305175781,0.5629999923706055,0.12494999915361404,Lars Stindl,a,208,OpenPlay,2017,LeftFoot,8508,Mainz 05,Borussia M.Gladbach,0,0,2018-04-01 17:00:00,,TakeOn
+204416,60,BlockedShot,0.8730000305175781,0.575,0.07598079741001129,Lars Stindl,a,208,OpenPlay,2017,LeftFoot,8508,Mainz 05,Borussia M.Gladbach,0,0,2018-04-01 17:00:00,,None
+207329,29,MissedShots,0.8930000305175781,0.7180000305175781,0.035390399396419525,Lars Stindl,h,208,OpenPlay,2017,LeftFoot,8515,Borussia M.Gladbach,Hertha Berlin,2,1,2018-04-07 13:30:00,Oscar Wendt,Pass
+210146,7,Goal,0.9069999694824219,0.34,0.3245700001716614,Lars Stindl,h,208,OpenPlay,2017,RightFoot,8532,Borussia M.Gladbach,Wolfsburg,3,0,2018-04-20 18:30:00,,Dispossessed
+210148,25,SavedShot,0.889000015258789,0.34599998474121096,0.09293399751186371,Lars Stindl,h,208,OpenPlay,2017,RightFoot,8532,Borussia M.Gladbach,Wolfsburg,3,0,2018-04-20 18:30:00,Denis Zakaria,Pass
+210150,31,MissedShots,0.9030000305175782,0.4329999923706055,0.05834690108895302,Lars Stindl,h,208,FromCorner,2017,RightFoot,8532,Borussia M.Gladbach,Wolfsburg,3,0,2018-04-20 18:30:00,Oscar Wendt,Cross
+210155,41,MissedShots,0.46,0.49700000762939456,0.010397300124168396,Lars Stindl,h,208,OpenPlay,2017,RightFoot,8532,Borussia M.Gladbach,Wolfsburg,3,0,2018-04-20 18:30:00,,BallRecovery
+255328,15,Goal,0.86,0.51,0.15770000219345093,Lars Stindl,a,208,OpenPlay,2018,RightFoot,10391,Bayern Munich,Borussia M.Gladbach,0,3,2018-10-06 16:30:00,Jonas Hofmann,TakeOn
+255617,10,MissedShots,0.87,0.580999984741211,0.10065300017595291,Lars Stindl,h,208,OpenPlay,2018,LeftFoot,10404,Borussia M.Gladbach,Mainz 05,4,0,2018-10-21 16:00:00,Oscar Wendt,Pass
+255626,30,MissedShots,0.730999984741211,0.5629999923706055,0.02307239919900894,Lars Stindl,h,208,OpenPlay,2018,RightFoot,10404,Borussia M.Gladbach,Mainz 05,4,0,2018-10-21 16:00:00,Tobias Strobl,BlockedPass
+255659,47,MissedShots,0.7369999694824219,0.5209999847412109,0.020715100690722466,Lars Stindl,a,208,OpenPlay,2018,RightFoot,10414,Freiburg,Borussia M.Gladbach,3,1,2018-10-26 18:30:00,Oscar Wendt,Pass
+255665,82,BlockedShot,0.9130000305175782,0.4209999847412109,0.08653990179300308,Lars Stindl,a,208,OpenPlay,2018,RightFoot,10414,Freiburg,Borussia M.Gladbach,3,1,2018-10-26 18:30:00,Thorgan Hazard,Cross
+256233,38,BlockedShot,0.72,0.45799999237060546,0.014277500100433826,Lars Stindl,a,208,FromCorner,2018,RightFoot,10431,Werder Bremen,Borussia M.Gladbach,1,3,2018-11-10 14:30:00,,None
+256655,46,MissedShots,0.7419999694824219,0.4209999847412109,0.023247500881552696,Lars Stindl,h,208,OpenPlay,2018,RightFoot,10439,Borussia M.Gladbach,Hannover 96,4,1,2018-11-25 17:00:00,Florian Neuhaus,Pass
+256659,52,MissedShots,0.7319999694824219,0.5420000076293945,0.024720799177885056,Lars Stindl,h,208,OpenPlay,2018,RightFoot,10439,Borussia M.Gladbach,Hannover 96,4,1,2018-11-25 17:00:00,,Dispossessed
+256661,57,Goal,0.8730000305175781,0.46099998474121096,0.09247419983148575,Lars Stindl,h,208,OpenPlay,2018,RightFoot,10439,Borussia M.Gladbach,Hannover 96,4,1,2018-11-25 17:00:00,Thorgan Hazard,Chipped
+256667,79,BlockedShot,0.8630000305175781,0.32,0.069234199821949,Lars Stindl,h,208,OpenPlay,2018,RightFoot,10439,Borussia M.Gladbach,Hannover 96,4,1,2018-11-25 17:00:00,Florian Neuhaus,Pass
+256805,20,SavedShot,0.9,0.37099998474121093,0.3507539927959442,Lars Stindl,a,208,OpenPlay,2018,RightFoot,10447,RasenBallsport Leipzig,Borussia M.Gladbach,2,0,2018-12-02 14:30:00,Thorgan Hazard,Throughball
+256806,30,SavedShot,0.899000015258789,0.47400001525878904,0.07091020047664642,Lars Stindl,a,208,OpenPlay,2018,Head,10447,RasenBallsport Leipzig,Borussia M.Gladbach,2,0,2018-12-02 14:30:00,Oscar Wendt,Cross
+257205,25,MissedShots,0.92,0.40799999237060547,0.04766499996185303,Lars Stindl,h,208,FromCorner,2018,Head,10457,Borussia M.Gladbach,VfB Stuttgart,3,0,2018-12-09 17:00:00,Thorgan Hazard,Cross
+257221,63,BlockedShot,0.740999984741211,0.445,0.01990240067243576,Lars Stindl,h,208,OpenPlay,2018,RightFoot,10457,Borussia M.Gladbach,VfB Stuttgart,3,0,2018-12-09 17:00:00,Raffael,Pass
+278570,25,BlockedShot,0.8119999694824219,0.42700000762939455,0.04929539933800697,Lars Stindl,h,208,OpenPlay,2018,RightFoot,10501,Borussia M.Gladbach,Augsburg,2,0,2019-01-26 14:30:00,Florian Neuhaus,Pass
+278576,68,BlockedShot,0.909000015258789,0.375,0.022755900397896767,Lars Stindl,h,208,OpenPlay,2018,Head,10501,Borussia M.Gladbach,Augsburg,2,0,2019-01-26 14:30:00,Ibrahima Traoré,OffsidePass
+278577,71,MissedShots,0.925,0.4809999847412109,0.07294169813394547,Lars Stindl,h,208,OpenPlay,2018,Head,10501,Borussia M.Gladbach,Augsburg,2,0,2019-01-26 14:30:00,Ibrahima Traoré,Aerial
+278872,13,ShotOnPost,0.8209999847412109,0.645,0.038396500051021576,Lars Stindl,a,208,OpenPlay,2018,LeftFoot,10516,Schalke 04,Borussia M.Gladbach,0,2,2019-02-02 17:30:00,Denis Zakaria,Pass
+278893,72,SavedShot,0.8069999694824219,0.53,0.1443600058555603,Lars Stindl,a,208,DirectFreekick,2018,RightFoot,10516,Schalke 04,Borussia M.Gladbach,0,2,2019-02-02 17:30:00,,Standard
+281087,13,MissedShots,0.905,0.43400001525878906,0.10236000269651413,Lars Stindl,h,208,OpenPlay,2018,RightFoot,10520,Borussia M.Gladbach,Hertha Berlin,0,3,2019-02-09 14:30:00,,BallTouch
+279292,6,MissedShots,0.9280000305175782,0.46099998474121096,0.06563209742307663,Lars Stindl,a,208,OpenPlay,2018,Head,10529,Eintracht Frankfurt,Borussia M.Gladbach,1,1,2019-02-17 14:30:00,Patrick Herrmann,Aerial
+279382,2,MissedShots,0.789000015258789,0.4570000076293945,0.01457150001078844,Lars Stindl,h,208,SetPiece,2018,RightFoot,10538,Borussia M.Gladbach,Wolfsburg,0,3,2019-02-23 14:30:00,,Aerial
+279385,10,BlockedShot,0.754000015258789,0.53,0.020669499412178993,Lars Stindl,h,208,OpenPlay,2018,RightFoot,10538,Borussia M.Gladbach,Wolfsburg,0,3,2019-02-23 14:30:00,Patrick Herrmann,Pass
+279398,75,SavedShot,0.8130000305175781,0.27399999618530274,0.017864299938082695,Lars Stindl,h,208,FromCorner,2018,RightFoot,10538,Borussia M.Gladbach,Wolfsburg,0,3,2019-02-23 14:30:00,,None
+279399,78,SavedShot,0.8080000305175781,0.5770000076293945,0.05073750019073486,Lars Stindl,h,208,OpenPlay,2018,LeftFoot,10538,Borussia M.Gladbach,Wolfsburg,0,3,2019-02-23 14:30:00,Thorgan Hazard,Pass
+279723,33,MissedShots,0.8959999847412109,0.6229999923706054,0.08260490000247955,Lars Stindl,h,208,OpenPlay,2018,LeftFoot,10548,Borussia M.Gladbach,Bayern Munich,1,5,2019-03-02 17:30:00,Thorgan Hazard,Pass
+279724,36,Goal,0.9230000305175782,0.6309999847412109,0.0840189978480339,Lars Stindl,h,208,OpenPlay,2018,LeftFoot,10548,Borussia M.Gladbach,Bayern Munich,1,5,2019-03-02 17:30:00,Thorgan Hazard,Pass
+284701,1,SavedShot,0.919000015258789,0.3120000076293945,0.11936499923467636,Lars Stindl,a,208,OpenPlay,2018,RightFoot,10559,Mainz 05,Borussia M.Gladbach,0,1,2019-03-09 17:30:00,Thorgan Hazard,Throughball
+284702,1,SavedShot,0.9640000152587891,0.34200000762939453,0.061268698424100876,Lars Stindl,a,208,OpenPlay,2018,RightFoot,10559,Mainz 05,Borussia M.Gladbach,0,1,2019-03-09 17:30:00,,Rebound
+284718,79,BlockedShot,0.7619999694824219,0.48200000762939454,0.03530089929699898,Lars Stindl,a,208,OpenPlay,2018,RightFoot,10559,Mainz 05,Borussia M.Gladbach,0,1,2019-03-09 17:30:00,Alassane Pléa,Pass
+285891,61,MissedShots,0.8490000152587891,0.664000015258789,0.04622320085763931,Lars Stindl,h,208,OpenPlay,2018,LeftFoot,10569,Borussia M.Gladbach,Freiburg,1,1,2019-03-15 19:30:00,,None
+287486,40,MissedShots,0.8190000152587891,0.5320000076293945,0.06735590100288391,Lars Stindl,a,208,OpenPlay,2018,RightFoot,10579,Fortuna Duesseldorf,Borussia M.Gladbach,3,1,2019-03-30 14:30:00,Patrick Herrmann,Pass
+287487,42,SavedShot,0.794000015258789,0.27100000381469724,0.012241199612617493,Lars Stindl,a,208,OpenPlay,2018,RightFoot,10579,Fortuna Duesseldorf,Borussia M.Gladbach,3,1,2019-03-30 14:30:00,,None
+287497,89,BlockedShot,0.845,0.5479999923706055,0.08516400307416916,Lars Stindl,a,208,OpenPlay,2018,RightFoot,10579,Fortuna Duesseldorf,Borussia M.Gladbach,3,1,2019-03-30 14:30:00,Jonas Hofmann,Pass
+328075,52,MissedShots,0.81,0.5579999923706055,0.08065210282802582,Lars Stindl,h,208,OpenPlay,2019,RightFoot,12479,Borussia M.Gladbach,Eintracht Frankfurt,4,2,2019-10-27 17:00:00,László Bénes,TakeOn
+335665,58,BlockedShot,0.7909999847412109,0.575,0.0369889996945858,Lars Stindl,h,208,OpenPlay,2019,RightFoot,12523,Borussia M.Gladbach,Bayern Munich,2,1,2019-12-07 14:30:00,Jonas Hofmann,Pass
+338113,10,MissedShots,0.9230000305175782,0.5220000076293946,0.4074389934539795,Lars Stindl,h,208,OpenPlay,2019,Head,12540,Borussia M.Gladbach,Paderborn,2,0,2019-12-18 19:30:00,Patrick Herrmann,Cross
+338122,44,SavedShot,0.8919999694824219,0.4329999923706055,0.3391070067882538,Lars Stindl,h,208,OpenPlay,2019,RightFoot,12540,Borussia M.Gladbach,Paderborn,2,0,2019-12-18 19:30:00,Tony Jantschke,Throughball
+338132,66,Goal,0.885,0.5,0.7577769756317139,Lars Stindl,h,208,Penalty,2019,RightFoot,12540,Borussia M.Gladbach,Paderborn,2,0,2019-12-18 19:30:00,,Standard
+338133,68,MissedShots,0.9540000152587891,0.46700000762939453,0.1475439965724945,Lars Stindl,h,208,SetPiece,2019,Head,12540,Borussia M.Gladbach,Paderborn,2,0,2019-12-18 19:30:00,Jonas Hofmann,Cross
+359089,50,Goal,0.9219999694824219,0.47200000762939454,0.5473570227622986,Lars Stindl,a,208,OpenPlay,2019,RightFoot,12595,Fortuna Duesseldorf,Borussia M.Gladbach,1,4,2020-02-15 17:30:00,Marcus Thuram,Pass
+359090,54,BlockedShot,0.855999984741211,0.5929999923706055,0.08106320351362228,Lars Stindl,a,208,OpenPlay,2019,LeftFoot,12595,Fortuna Duesseldorf,Borussia M.Gladbach,1,4,2020-02-15 17:30:00,,None
+359098,76,Goal,0.9080000305175782,0.590999984741211,0.4090360105037689,Lars Stindl,a,208,OpenPlay,2019,LeftFoot,12595,Fortuna Duesseldorf,Borussia M.Gladbach,1,4,2020-02-15 17:30:00,Denis Zakaria,Pass
+360800,35,SavedShot,0.8130000305175781,0.4620000076293945,0.061333298683166504,Lars Stindl,a,208,OpenPlay,2019,RightFoot,12616,Augsburg,Borussia M.Gladbach,2,3,2020-02-29 14:30:00,Florian Neuhaus,Pass
+360807,52,Goal,0.8830000305175781,0.4540000152587891,0.41543999314308167,Lars Stindl,a,208,OpenPlay,2019,RightFoot,12616,Augsburg,Borussia M.Gladbach,2,3,2020-02-29 14:30:00,Alassane Pléa,Pass
+360815,78,Goal,0.9369999694824219,0.5109999847412109,0.6281480193138123,Lars Stindl,a,208,OpenPlay,2019,LeftFoot,12616,Augsburg,Borussia M.Gladbach,2,3,2020-02-29 14:30:00,Stefan Lainer,TakeOn
+361832,49,Goal,0.9690000152587891,0.5379999923706055,0.6704300045967102,Lars Stindl,h,208,FromCorner,2019,RightFoot,12621,Borussia M.Gladbach,Borussia Dortmund,1,2,2020-03-07 17:30:00,Alassane Pléa,Rebound
+363038,89,MissedShots,0.72,0.40900001525878904,0.04607969895005226,Lars Stindl,a,208,DirectFreekick,2019,RightFoot,12630,Eintracht Frankfurt,Borussia M.Gladbach,1,3,2020-05-16 16:30:00,,Standard
+363185,64,BlockedShot,0.855,0.305,0.03438949957489967,Lars Stindl,h,208,OpenPlay,2019,RightFoot,12639,Borussia M.Gladbach,Bayer Leverkusen,1,3,2020-05-23 13:30:00,Marcus Thuram,Pass
+363187,71,BlockedShot,0.8809999847412109,0.38599998474121094,0.09952720254659653,Lars Stindl,h,208,OpenPlay,2019,RightFoot,12639,Borussia M.Gladbach,Bayer Leverkusen,1,3,2020-05-23 13:30:00,Alassane Pléa,TakeOn
+363374,45,BlockedShot,0.7619999694824219,0.534000015258789,0.026088999584317207,Lars Stindl,a,208,OpenPlay,2019,RightFoot,12647,Werder Bremen,Borussia M.Gladbach,0,0,2020-05-26 18:30:00,Alassane Pléa,Pass
+363709,13,BlockedShot,0.7280000305175781,0.639000015258789,0.012319300323724747,Lars Stindl,h,208,FromCorner,2019,RightFoot,12656,Borussia M.Gladbach,Union Berlin,4,1,2020-05-31 13:30:00,,Aerial
+363713,21,SavedShot,0.8680000305175781,0.6309999847412109,0.08501970022916794,Lars Stindl,h,208,OpenPlay,2019,RightFoot,12656,Borussia M.Gladbach,Union Berlin,4,1,2020-05-31 13:30:00,,BallRecovery
+363813,15,SavedShot,0.8040000152587891,0.4929999923706055,0.036637600511312485,Lars Stindl,a,208,OpenPlay,2019,RightFoot,12670,Freiburg,Borussia M.Gladbach,1,0,2020-06-05 18:30:00,,Rebound
+363819,33,MissedShots,0.715999984741211,0.519000015258789,0.014580800198018551,Lars Stindl,a,208,OpenPlay,2019,RightFoot,12670,Freiburg,Borussia M.Gladbach,1,0,2020-06-05 18:30:00,Alassane Pléa,HeadPass
+363821,40,BlockedShot,0.8,0.6940000152587891,0.07378680258989334,Lars Stindl,a,208,DirectFreekick,2019,RightFoot,12670,Freiburg,Borussia M.Gladbach,1,0,2020-06-05 18:30:00,,Standard
+363829,60,MissedShots,0.850999984741211,0.29700000762939455,0.03325369954109192,Lars Stindl,a,208,OpenPlay,2019,RightFoot,12670,Freiburg,Borussia M.Gladbach,1,0,2020-06-05 18:30:00,Florian Neuhaus,Pass
+364319,88,MissedShots,0.6869999694824219,0.37099998474121093,0.008251889608800411,Lars Stindl,a,208,OpenPlay,2019,RightFoot,12673,Bayern Munich,Borussia M.Gladbach,2,1,2020-06-13 16:30:00,Tony Jantschke,BallRecovery
+364527,59,BlockedShot,0.9009999847412109,0.889000015258789,0.04303320124745369,Lars Stindl,h,208,DirectFreekick,2019,RightFoot,12685,Borussia M.Gladbach,Wolfsburg,3,0,2020-06-16 16:30:00,,Standard
+364529,64,Goal,0.875999984741211,0.4520000076293945,0.45971500873565674,Lars Stindl,h,208,OpenPlay,2019,RightFoot,12685,Borussia M.Gladbach,Wolfsburg,3,0,2020-06-16 16:30:00,Ibrahima Traoré,Pass
+365439,54,Goal,0.885,0.5,0.7577769756317139,Lars Stindl,a,208,Penalty,2019,RightFoot,12699,Paderborn,Borussia M.Gladbach,1,3,2020-06-20 13:30:00,,Standard
+365442,65,SavedShot,0.9159999847412109,0.575,0.06178570166230202,Lars Stindl,a,208,FromCorner,2019,Head,12699,Paderborn,Borussia M.Gladbach,1,3,2020-06-20 13:30:00,Jonas Hofmann,Cross
+365444,72,Goal,0.9330000305175781,0.47900001525878905,0.5181030035018921,Lars Stindl,a,208,OpenPlay,2019,RightFoot,12699,Paderborn,Borussia M.Gladbach,1,3,2020-06-20 13:30:00,Ramy Bensebaini,HeadPass
+366872,22,SavedShot,0.8019999694824219,0.53,0.07051479816436768,Lars Stindl,h,208,OpenPlay,2019,RightFoot,12702,Borussia M.Gladbach,Hertha Berlin,2,1,2020-06-27 13:30:00,Florian Neuhaus,Pass
+366874,31,BlockedShot,0.8919999694824219,0.40599998474121096,0.08725760132074356,Lars Stindl,h,208,OpenPlay,2019,LeftFoot,12702,Borussia M.Gladbach,Hertha Berlin,2,1,2020-06-27 13:30:00,Stefan Lainer,Cross
+366877,40,ShotOnPost,0.899000015258789,0.4909999847412109,0.47102901339530945,Lars Stindl,h,208,OpenPlay,2019,RightFoot,12702,Borussia M.Gladbach,Hertha Berlin,2,1,2020-06-27 13:30:00,,None
+366882,51,MissedShots,0.774000015258789,0.57,0.08685120195150375,Lars Stindl,h,208,DirectFreekick,2019,RightFoot,12702,Borussia M.Gladbach,Hertha Berlin,2,1,2020-06-27 13:30:00,,Standard
+366892,85,MissedShots,0.885,0.5120000076293946,0.06834550201892853,Lars Stindl,h,208,OpenPlay,2019,Head,12702,Borussia M.Gladbach,Hertha Berlin,2,1,2020-06-27 13:30:00,Stefan Lainer,Cross
+377668,13,MissedShots,0.860999984741211,0.4279999923706055,0.029412399977445602,Lars Stindl,a,208,OpenPlay,2020,Head,14179,Borussia Dortmund,Borussia M.Gladbach,3,0,2020-09-19 16:30:00,Matthias Ginter,Chipped
+377676,42,BlockedShot,0.894000015258789,0.4179999923706055,0.0499843992292881,Lars Stindl,a,208,FromCorner,2020,LeftFoot,14179,Borussia Dortmund,Borussia M.Gladbach,3,0,2020-09-19 16:30:00,Jonas Hofmann,Cross
+378755,50,BlockedShot,0.885,0.3659999847412109,0.06521239876747131,Lars Stindl,h,208,OpenPlay,2020,RightFoot,14186,Borussia M.Gladbach,Union Berlin,1,1,2020-09-26 13:30:00,,Rebound
+380554,5,BlockedShot,0.745999984741211,0.605,0.01420930027961731,Lars Stindl,a,208,OpenPlay,2020,RightFoot,15159,FC Cologne,Borussia M.Gladbach,1,3,2020-10-03 13:30:00,,Rebound
+380562,45,SavedShot,0.8640000152587891,0.5879999923706055,0.08546420186758041,Lars Stindl,a,208,OpenPlay,2020,RightFoot,15159,FC Cologne,Borussia M.Gladbach,1,3,2020-10-03 13:30:00,,None
+380563,55,Goal,0.885,0.5,0.7577769756317139,Lars Stindl,a,208,Penalty,2020,RightFoot,15159,FC Cologne,Borussia M.Gladbach,1,3,2020-10-03 13:30:00,,Standard
+380565,60,SavedShot,0.8080000305175781,0.585,0.029336199164390564,Lars Stindl,a,208,SetPiece,2020,RightFoot,15159,FC Cologne,Borussia M.Gladbach,1,3,2020-10-03 13:30:00,Jonas Hofmann,Chipped
+382118,0,SavedShot,0.895,0.5259999847412109,0.04439089819788933,Lars Stindl,h,208,OpenPlay,2020,Head,15173,Borussia M.Gladbach,Wolfsburg,1,1,2020-10-17 18:30:00,Stefan Lainer,Aerial
+382127,28,BlockedShot,0.855,0.6120000076293945,0.07325589656829834,Lars Stindl,h,208,OpenPlay,2020,RightFoot,15173,Borussia M.Gladbach,Wolfsburg,1,1,2020-10-17 18:30:00,Oscar Wendt,Pass
+382132,37,MissedShots,0.7819999694824219,0.49400001525878906,0.03427540138363838,Lars Stindl,h,208,OpenPlay,2020,RightFoot,15173,Borussia M.Gladbach,Wolfsburg,1,1,2020-10-17 18:30:00,,None
+383166,14,Goal,0.92,0.49599998474121093,0.5076509714126587,Lars Stindl,a,208,OpenPlay,2020,LeftFoot,15178,Mainz 05,Borussia M.Gladbach,2,3,2020-10-24 13:30:00,,Rebound
+383170,29,MissedShots,0.8619999694824219,0.4,0.12001899629831314,Lars Stindl,a,208,OpenPlay,2020,RightFoot,15178,Mainz 05,Borussia M.Gladbach,2,3,2020-10-24 13:30:00,Patrick Herrmann,Pass
+386790,17,Goal,0.885,0.5,0.7577769756317139,Lars Stindl,a,208,Penalty,2020,RightFoot,15202,Bayer Leverkusen,Borussia M.Gladbach,4,3,2020-11-08 17:00:00,,Standard
+386793,28,BlockedShot,0.75,0.605999984741211,0.02125149965286255,Lars Stindl,a,208,OpenPlay,2020,LeftFoot,15202,Bayer Leverkusen,Borussia M.Gladbach,4,3,2020-11-08 17:00:00,Breel Embolo,Pass
+386795,28,Goal,0.899000015258789,0.5770000076293945,0.41072601079940796,Lars Stindl,a,208,OpenPlay,2020,LeftFoot,15202,Bayer Leverkusen,Borussia M.Gladbach,4,3,2020-11-08 17:00:00,Marcus Thuram,None
+386802,46,MissedShots,0.8540000152587891,0.345,0.05081219971179962,Lars Stindl,a,208,OpenPlay,2020,RightFoot,15202,Bayer Leverkusen,Borussia M.Gladbach,4,3,2020-11-08 17:00:00,,None
+386806,66,SavedShot,0.9690000152587891,0.40599998474121096,0.40543800592422485,Lars Stindl,a,208,OpenPlay,2020,RightFoot,15202,Bayer Leverkusen,Borussia M.Gladbach,4,3,2020-11-08 17:00:00,Ramy Bensebaini,Pass
+387236,4,SavedShot,0.899000015258789,0.425,0.10704199969768524,Lars Stindl,h,208,OpenPlay,2020,LeftFoot,15204,Borussia M.Gladbach,Augsburg,1,1,2020-11-21 14:30:00,,Rebound
+387244,43,MissedShots,0.7440000152587891,0.5970000076293945,0.05843869969248772,Lars Stindl,h,208,DirectFreekick,2020,RightFoot,15204,Borussia M.Gladbach,Augsburg,1,1,2020-11-21 14:30:00,,Standard
+390115,55,MissedShots,0.725,0.40299999237060546,0.01846330054104328,Lars Stindl,a,208,OpenPlay,2020,RightFoot,15223,Freiburg,Borussia M.Gladbach,2,2,2020-12-05 14:30:00,Florian Neuhaus,Pass
+392553,13,Goal,0.7140000152587891,0.3890000152587891,0.042024798691272736,Lars Stindl,a,208,DirectFreekick,2020,RightFoot,15247,Eintracht Frankfurt,Borussia M.Gladbach,3,3,2020-12-15 17:30:00,,Standard
+392566,89,Goal,0.885,0.5,0.7577769756317139,Lars Stindl,a,208,Penalty,2020,RightFoot,15247,Eintracht Frankfurt,Borussia M.Gladbach,3,3,2020-12-15 17:30:00,,Standard
+392567,94,SavedShot,0.8980000305175782,0.5,0.0784699022769928,Lars Stindl,a,208,OpenPlay,2020,Head,15247,Eintracht Frankfurt,Borussia M.Gladbach,3,3,2020-12-15 17:30:00,Ibrahima Traoré,Cross
+392568,94,Goal,0.9580000305175781,0.5220000076293946,0.12813599407672882,Lars Stindl,a,208,OpenPlay,2020,Head,15247,Eintracht Frankfurt,Borussia M.Gladbach,3,3,2020-12-15 17:30:00,,Aerial
+393876,13,MissedShots,0.7190000152587891,0.4640000152587891,0.04854840040206909,Lars Stindl,h,208,DirectFreekick,2020,RightFoot,15249,Borussia M.Gladbach,Hoffenheim,1,2,2020-12-19 14:30:00,,Standard
+393883,33,Goal,0.885,0.5,0.7576149702072144,Lars Stindl,h,208,Penalty,2020,RightFoot,15249,Borussia M.Gladbach,Hoffenheim,1,2,2020-12-19 14:30:00,,Standard
+393887,43,MissedShots,0.8490000152587891,0.245,0.03536200150847435,Lars Stindl,h,208,OpenPlay,2020,RightFoot,15249,Borussia M.Gladbach,Hoffenheim,1,2,2020-12-19 14:30:00,Stefan Lainer,Pass
+393890,58,SavedShot,0.750999984741211,0.6029999923706054,0.023701099678874016,Lars Stindl,h,208,OpenPlay,2020,RightFoot,15249,Borussia M.Gladbach,Hoffenheim,1,2,2020-12-19 14:30:00,Valentino Lazaro,Pass
+396350,1,MissedShots,0.7040000152587891,0.395,0.010178700089454651,Lars Stindl,a,208,OpenPlay,2020,RightFoot,15264,Arminia Bielefeld,Borussia M.Gladbach,0,1,2021-01-02 14:30:00,,None
+396352,4,BlockedShot,0.909000015258789,0.3820000076293945,0.012440199963748455,Lars Stindl,a,208,FromCorner,2020,Head,15264,Arminia Bielefeld,Borussia M.Gladbach,0,1,2021-01-02 14:30:00,Jonas Hofmann,Aerial
+396359,20,BlockedShot,0.9130000305175782,0.48700000762939455,0.08587480336427689,Lars Stindl,a,208,SetPiece,2020,RightFoot,15264,Arminia Bielefeld,Borussia M.Gladbach,0,1,2021-01-02 14:30:00,Matthias Ginter,HeadPass
+397683,57,MissedShots,0.784000015258789,0.4909999847412109,0.045577701181173325,Lars Stindl,h,208,OpenPlay,2020,RightFoot,15267,Borussia M.Gladbach,Bayern Munich,3,2,2021-01-08 19:30:00,Stefan Lainer,Pass
+399075,20,MissedShots,0.7619999694824219,0.36700000762939455,0.021709099411964417,Lars Stindl,a,208,OpenPlay,2020,RightFoot,15283,VfB Stuttgart,Borussia M.Gladbach,2,2,2021-01-16 17:30:00,,BallRecovery
+399078,34,Goal,0.885,0.5,0.7577769756317139,Lars Stindl,a,208,Penalty,2020,RightFoot,15283,VfB Stuttgart,Borussia M.Gladbach,2,2,2021-01-16 17:30:00,,Standard
+400231,31,SavedShot,0.7069999694824218,0.65,0.036641400307416916,Lars Stindl,h,208,DirectFreekick,2020,RightFoot,15293,Borussia M.Gladbach,Borussia Dortmund,4,2,2021-01-22 19:30:00,,Standard
+403344,49,MissedShots,0.74,0.4159999847412109,0.022176099941134453,Lars Stindl,h,208,OpenPlay,2020,RightFoot,15311,Borussia M.Gladbach,FC Cologne,1,2,2021-02-06 17:30:00,Christoph Kramer,Pass
+403352,77,MissedShots,0.855,0.5629999923706055,0.04958619922399521,Lars Stindl,h,208,OpenPlay,2020,RightFoot,15311,Borussia M.Gladbach,FC Cologne,1,2,2021-02-06 17:30:00,Matthias Ginter,Cross
+404911,51,SavedShot,0.830999984741211,0.49599998474121093,0.0781622976064682,Lars Stindl,a,208,OpenPlay,2020,RightFoot,15324,Wolfsburg,Borussia M.Gladbach,0,0,2021-02-14 17:00:00,Florian Neuhaus,Pass
+405548,25,Goal,0.889000015258789,0.6780000305175782,0.05461160093545914,Lars Stindl,h,208,OpenPlay,2020,RightFoot,15329,Borussia M.Gladbach,Mainz 05,1,2,2021-02-20 14:30:00,Jonas Hofmann,Pass
+405557,56,MissedShots,0.795,0.6379999923706055,0.09009610116481781,Lars Stindl,h,208,DirectFreekick,2020,RightFoot,15329,Borussia M.Gladbach,Mainz 05,1,2,2021-02-20 14:30:00,,Standard
+409595,2,MissedShots,0.7809999847412109,0.3770000076293945,0.027024999260902405,Lars Stindl,a,208,OpenPlay,2020,RightFoot,15362,Augsburg,Borussia M.Gladbach,3,1,2021-03-12 19:30:00,Valentino Lazaro,Pass
+409598,14,MissedShots,0.899000015258789,0.68,0.05966870114207268,Lars Stindl,a,208,OpenPlay,2020,RightFoot,15362,Augsburg,Borussia M.Gladbach,3,1,2021-03-12 19:30:00,Alassane Pléa,Chipped
+409606,37,MissedShots,0.885,0.5,0.7577769756317139,Lars Stindl,a,208,Penalty,2020,RightFoot,15362,Augsburg,Borussia M.Gladbach,3,1,2021-03-12 19:30:00,,Standard
+409607,39,MissedShots,0.8680000305175781,0.39099998474121095,0.08403869718313217,Lars Stindl,a,208,OpenPlay,2020,RightFoot,15362,Augsburg,Borussia M.Gladbach,3,1,2021-03-12 19:30:00,Jonas Hofmann,Pass
+409623,73,SavedShot,0.9690000152587891,0.6270000076293946,0.028109900653362274,Lars Stindl,a,208,SetPiece,2020,Head,15362,Augsburg,Borussia M.Gladbach,3,1,2021-03-12 19:30:00,Oscar Wendt,Cross
+411498,14,Goal,0.9080000305175782,0.455,0.12984700500965118,Lars Stindl,a,208,OpenPlay,2020,RightFoot,15370,Schalke 04,Borussia M.Gladbach,0,3,2021-03-20 17:30:00,,Rebound
+412772,1,SavedShot,0.815,0.4,0.04475969821214676,Lars Stindl,h,208,OpenPlay,2020,LeftFoot,15376,Borussia M.Gladbach,Freiburg,2,1,2021-04-03 18:30:00,,None
+412796,77,MissedShots,0.925,0.3629999923706055,0.09453240036964417,Lars Stindl,h,208,OpenPlay,2020,RightFoot,15376,Borussia M.Gladbach,Freiburg,2,1,2021-04-03 18:30:00,,None
+412797,82,BlockedShot,0.765,0.34200000762939453,0.06141360104084015,Lars Stindl,h,208,DirectFreekick,2020,RightFoot,15376,Borussia M.Gladbach,Freiburg,2,1,2021-04-03 18:30:00,,Standard
+413812,29,SavedShot,0.785,0.34400001525878904,0.02646709978580475,Lars Stindl,a,208,OpenPlay,2020,RightFoot,15386,Hertha Berlin,Borussia M.Gladbach,2,2,2021-04-10 13:30:00,Stefan Lainer,Pass
+413816,37,Goal,0.885,0.5,0.7577769756317139,Lars Stindl,a,208,Penalty,2020,RightFoot,15386,Hertha Berlin,Borussia M.Gladbach,2,2,2021-04-10 13:30:00,,Standard
+413822,53,SavedShot,0.9480000305175781,0.6680000305175782,0.06605599820613861,Lars Stindl,a,208,OpenPlay,2020,LeftFoot,15386,Hertha Berlin,Borussia M.Gladbach,2,2,2021-04-10 13:30:00,Florian Neuhaus,Pass
+420285,75,BlockedShot,0.7180000305175781,0.46799999237060547,0.04816100001335144,Lars Stindl,a,208,DirectFreekick,2020,RightFoot,15419,Bayern Munich,Borussia M.Gladbach,6,0,2021-05-08 16:30:00,,Standard
+421807,32,BlockedShot,0.7659999847412109,0.41200000762939454,0.026174599304795265,Lars Stindl,h,208,OpenPlay,2020,RightFoot,15429,Borussia M.Gladbach,VfB Stuttgart,1,2,2021-05-15 13:30:00,,BallTouch
+421810,44,Goal,0.9159999847412109,0.534000015258789,0.11768399924039841,Lars Stindl,h,208,OpenPlay,2020,RightFoot,15429,Borussia M.Gladbach,VfB Stuttgart,1,2,2021-05-15 13:30:00,Christoph Kramer,Chipped
+423449,2,Goal,0.865,0.4520000076293945,0.1042419970035553,Lars Stindl,a,208,OpenPlay,2020,RightFoot,15444,Werder Bremen,Borussia M.Gladbach,2,4,2021-05-22 13:30:00,Stefan Lainer,Pass
+425538,29,MissedShots,0.7480000305175781,0.7130000305175781,0.01863880082964897,Lars Stindl,h,208,OpenPlay,2021,LeftFoot,17516,Borussia M.Gladbach,Bayern Munich,1,1,2021-08-13 18:30:00,,BallRecovery
+425553,69,SavedShot,0.805,0.5209999847412109,0.05312269926071167,Lars Stindl,h,208,OpenPlay,2021,RightFoot,17516,Borussia M.Gladbach,Bayern Munich,1,1,2021-08-13 18:30:00,Marcus Thuram,BallTouch
+425556,80,MissedShots,0.95,0.5320000076293945,0.6226249933242798,Lars Stindl,h,208,OpenPlay,2021,LeftFoot,17516,Borussia M.Gladbach,Bayern Munich,1,1,2021-08-13 18:30:00,Jonas Hofmann,Pass
+427191,42,SavedShot,0.885,0.5,0.7577769756317139,Lars Stindl,a,208,Penalty,2021,RightFoot,17531,Bayer Leverkusen,Borussia M.Gladbach,4,0,2021-08-21 16:30:00,,Standard
+427197,68,SavedShot,0.879000015258789,0.49900001525878906,0.054699599742889404,Lars Stindl,a,208,OpenPlay,2021,Head,17531,Bayer Leverkusen,Borussia M.Gladbach,4,0,2021-08-21 16:30:00,Joe Scally,Cross
+427198,73,MissedShots,0.9,0.5820000076293945,0.05196119844913483,Lars Stindl,a,208,FromCorner,2021,RightFoot,17531,Bayer Leverkusen,Borussia M.Gladbach,4,0,2021-08-21 16:30:00,Jonas Hofmann,Cross
+429221,10,BlockedShot,0.965,0.46599998474121096,0.12905199825763702,Lars Stindl,a,208,FromCorner,2021,LeftFoot,17541,Union Berlin,Borussia M.Gladbach,2,1,2021-08-29 13:30:00,,None
+430694,16,BlockedShot,0.8480000305175781,0.4779999923706055,0.09430749714374542,Lars Stindl,h,208,OpenPlay,2021,RightFoot,17551,Borussia M.Gladbach,Arminia Bielefeld,3,1,2021-09-12 17:30:00,Luca Netz,Pass
+430697,23,BlockedShot,0.85,0.4540000152587891,0.10520199686288834,Lars Stindl,h,208,OpenPlay,2021,RightFoot,17551,Borussia M.Gladbach,Arminia Bielefeld,3,1,2021-09-12 17:30:00,,TakeOn
+430702,34,Goal,0.7219999694824218,0.3820000076293945,0.01792849972844124,Lars Stindl,h,208,OpenPlay,2021,RightFoot,17551,Borussia M.Gladbach,Arminia Bielefeld,3,1,2021-09-12 17:30:00,Luca Netz,Pass
+430709,58,MissedShots,0.8290000152587891,0.5179999923706055,0.042119100689888,Lars Stindl,h,208,OpenPlay,2021,RightFoot,17551,Borussia M.Gladbach,Arminia Bielefeld,3,1,2021-09-12 17:30:00,Alassane Pléa,HeadPass
+430717,68,Goal,0.895,0.46599998474121096,0.0823196992278099,Lars Stindl,h,208,OpenPlay,2021,Head,17551,Borussia M.Gladbach,Arminia Bielefeld,3,1,2021-09-12 17:30:00,Patrick Herrmann,Cross
+431293,66,MissedShots,0.97,0.5870000076293945,0.19117000699043274,Lars Stindl,a,208,SetPiece,2021,Head,17553,Augsburg,Borussia M.Gladbach,1,0,2021-09-18 13:30:00,Patrick Herrmann,Cross
+434770,1,MissedShots,0.8690000152587891,0.485,0.048972100019454956,Lars Stindl,a,208,FromCorner,2021,LeftFoot,17575,Wolfsburg,Borussia M.Gladbach,1,3,2021-10-02 13:30:00,Jonas Hofmann,Cross
+434791,67,BlockedShot,0.7909999847412109,0.6859999847412109,0.07054699957370758,Lars Stindl,a,208,DirectFreekick,2021,RightFoot,17575,Wolfsburg,Borussia M.Gladbach,1,3,2021-10-02 13:30:00,,Standard
+434794,77,SavedShot,0.885,0.5,0.7577769756317139,Lars Stindl,a,208,Penalty,2021,RightFoot,17575,Wolfsburg,Borussia M.Gladbach,1,3,2021-10-02 13:30:00,,Standard
+436478,45,BlockedShot,0.7919999694824219,0.57,0.036231398582458496,Lars Stindl,h,208,OpenPlay,2021,RightFoot,17583,Borussia M.Gladbach,VfB Stuttgart,1,1,2021-10-16 16:30:00,Matthias Ginter,Pass
+436479,48,SavedShot,0.845,0.37099998474121093,0.06106770038604736,Lars Stindl,h,208,OpenPlay,2021,RightFoot,17583,Borussia M.Gladbach,VfB Stuttgart,1,1,2021-10-16 16:30:00,Jonas Hofmann,Pass
+436481,50,MissedShots,0.9019999694824219,0.5359999847412109,0.4225899875164032,Lars Stindl,h,208,OpenPlay,2021,RightFoot,17583,Borussia M.Gladbach,VfB Stuttgart,1,1,2021-10-16 16:30:00,Matthias Ginter,Rebound
+437926,3,BlockedShot,0.745,0.6559999847412109,0.016973000019788742,Lars Stindl,a,208,OpenPlay,2021,RightFoot,17591,Hertha Berlin,Borussia M.Gladbach,1,0,2021-10-23 16:30:00,Jonas Hofmann,Pass
+440438,4,BlockedShot,0.895,0.5879999923706055,0.04910150170326233,Lars Stindl,h,208,FromCorner,2021,LeftFoot,17601,Borussia M.Gladbach,Bochum,2,1,2021-10-31 16:30:00,Jonas Hofmann,Cross
+442437,35,ShotOnPost,0.8630000305175781,0.5770000076293945,0.3033129870891571,Lars Stindl,h,208,OpenPlay,2021,RightFoot,17620,Borussia M.Gladbach,Greuther Fuerth,4,0,2021-11-20 14:30:00,Alassane Pléa,Pass
+444022,57,BlockedShot,0.884000015258789,0.4879999923706055,0.07939290255308151,Lars Stindl,a,208,OpenPlay,2021,RightFoot,17626,FC Cologne,Borussia M.Gladbach,4,1,2021-11-27 14:30:00,,BallTouch
+447611,52,SavedShot,0.745999984741211,0.4420000076293945,0.01928340084850788,Lars Stindl,a,208,OpenPlay,2021,RightFoot,17649,RasenBallsport Leipzig,Borussia M.Gladbach,4,1,2021-12-11 14:30:00,Kouadio Kone,Pass
+449412,21,SavedShot,0.88,0.6120000076293945,0.28204798698425293,Lars Stindl,a,208,OpenPlay,2021,RightFoot,17664,Hoffenheim,Borussia M.Gladbach,1,1,2021-12-18 14:30:00,Breel Embolo,Pass
+449416,28,SavedShot,0.7530000305175781,0.49700000762939456,0.02444629929959774,Lars Stindl,a,208,OpenPlay,2021,RightFoot,17664,Hoffenheim,Borussia M.Gladbach,1,1,2021-12-18 14:30:00,Christoph Kramer,Pass
+449423,38,BlockedShot,0.8680000305175781,0.4,0.08831190317869186,Lars Stindl,a,208,OpenPlay,2021,LeftFoot,17664,Hoffenheim,Borussia M.Gladbach,1,1,2021-12-18 14:30:00,,None
+453374,16,BlockedShot,0.865,0.6359999847412109,0.047963500022888184,Lars Stindl,h,208,FromCorner,2021,RightFoot,17683,Borussia M.Gladbach,Bayer Leverkusen,1,2,2022-01-15 17:30:00,,None
+453393,63,SavedShot,0.7869999694824219,0.45799999237060546,0.03569529950618744,Lars Stindl,h,208,OpenPlay,2021,RightFoot,17683,Borussia M.Gladbach,Bayer Leverkusen,1,2,2022-01-15 17:30:00,Breel Embolo,Pass
+465958,32,BlockedShot,0.725999984741211,0.5429999923706055,0.017904700711369514,Lars Stindl,h,208,OpenPlay,2021,RightFoot,17763,Borussia M.Gladbach,Mainz 05,1,1,2022-04-03 15:30:00,Louis Beyer,Pass
+465963,44,BlockedShot,0.89,0.32599998474121095,0.06400419771671295,Lars Stindl,h,208,OpenPlay,2021,RightFoot,17763,Borussia M.Gladbach,Mainz 05,1,1,2022-04-03 15:30:00,Florian Neuhaus,Chipped
+469930,73,MissedShots,0.7390000152587891,0.539000015258789,0.020861199125647545,Lars Stindl,a,208,OpenPlay,2021,RightFoot,17790,Freiburg,Borussia M.Gladbach,3,3,2022-04-23 13:30:00,Breel Embolo,HeadPass
+469936,92,Goal,0.9069999694824219,0.4759999847412109,0.038637999445199966,Lars Stindl,a,208,OpenPlay,2021,Head,17790,Freiburg,Borussia M.Gladbach,3,3,2022-04-23 13:30:00,Patrick Herrmann,Aerial
+472519,30,MissedShots,0.795,0.6480000305175782,0.011540899984538555,Lars Stindl,h,208,FromCorner,2021,RightFoot,17800,Borussia M.Gladbach,RasenBallsport Leipzig,3,1,2022-05-02 18:30:00,Jonas Hofmann,Chipped
+472525,60,SavedShot,0.8269999694824218,0.5509999847412109,0.07926289737224579,Lars Stindl,h,208,OpenPlay,2021,LeftFoot,17800,Borussia M.Gladbach,RasenBallsport Leipzig,3,1,2022-05-02 18:30:00,,Dispossessed
+474177,46,SavedShot,0.865999984741211,0.745,0.08069069683551788,Lars Stindl,a,208,OpenPlay,2021,RightFoot,17810,Eintracht Frankfurt,Borussia M.Gladbach,1,1,2022-05-08 13:30:00,Luca Netz,TakeOn
+474181,54,BlockedShot,0.774000015258789,0.41200000762939454,0.04188229888677597,Lars Stindl,a,208,OpenPlay,2021,LeftFoot,17810,Eintracht Frankfurt,Borussia M.Gladbach,1,1,2022-05-08 13:30:00,,BallTouch
+474182,56,BlockedShot,0.78,0.45099998474121095,0.09730660170316696,Lars Stindl,a,208,DirectFreekick,2021,RightFoot,17810,Eintracht Frankfurt,Borussia M.Gladbach,1,1,2022-05-08 13:30:00,,Standard
+474184,63,MissedShots,0.8669999694824219,0.36900001525878906,0.08498519659042358,Lars Stindl,a,208,OpenPlay,2021,RightFoot,17810,Eintracht Frankfurt,Borussia M.Gladbach,1,1,2022-05-08 13:30:00,,BlockedPass
+475668,18,SavedShot,0.89,0.575,0.0146246999502182,Lars Stindl,h,208,FromCorner,2021,Head,17817,Borussia M.Gladbach,Hoffenheim,5,1,2022-05-14 13:30:00,Luca Netz,Aerial
+475669,19,BlockedShot,0.8730000305175781,0.475,0.09044960141181946,Lars Stindl,h,208,OpenPlay,2021,LeftFoot,17817,Borussia M.Gladbach,Hoffenheim,5,1,2022-05-14 13:30:00,Florian Neuhaus,Pass
+475671,25,Goal,0.9480000305175781,0.48700000762939455,0.6112390160560608,Lars Stindl,h,208,OpenPlay,2021,RightFoot,17817,Borussia M.Gladbach,Hoffenheim,5,1,2022-05-14 13:30:00,,Rebound
+475681,57,MissedShots,0.889000015258789,0.3220000076293945,0.2663150131702423,Lars Stindl,h,208,OpenPlay,2021,RightFoot,17817,Borussia M.Gladbach,Hoffenheim,5,1,2022-05-14 13:30:00,Breel Embolo,Pass
+488107,3,MissedShots,0.8430000305175781,0.5570000076293945,0.0644821971654892,Lars Stindl,a,208,OpenPlay,2022,LeftFoot,19395,Freiburg,Borussia M.Gladbach,0,0,2022-09-11 15:30:00,,None
+488123,63,SavedShot,0.755,0.48,0.025465700775384903,Lars Stindl,a,208,OpenPlay,2022,RightFoot,19395,Freiburg,Borussia M.Gladbach,0,0,2022-09-11 15:30:00,Marcus Thuram,Pass
+488873,6,BlockedShot,0.8440000152587891,0.6459999847412109,0.05301690101623535,Lars Stindl,h,208,OpenPlay,2022,RightFoot,19401,Borussia M.Gladbach,RasenBallsport Leipzig,3,0,2022-09-17 16:30:00,Marcus Thuram,Pass
+488882,29,BlockedShot,0.740999984741211,0.3060000038146973,0.01584869995713234,Lars Stindl,h,208,OpenPlay,2022,RightFoot,19401,Borussia M.Gladbach,RasenBallsport Leipzig,3,0,2022-09-17 16:30:00,Jonas Hofmann,TakeOn
+488885,39,BlockedShot,0.78,0.6029999923706054,0.030002400279045105,Lars Stindl,h,208,FromCorner,2022,RightFoot,19401,Borussia M.Gladbach,RasenBallsport Leipzig,3,0,2022-09-17 16:30:00,Jonas Hofmann,Pass
+488886,42,BlockedShot,0.7709999847412109,0.40400001525878904,0.017504500225186348,Lars Stindl,h,208,SetPiece,2022,RightFoot,19401,Borussia M.Gladbach,RasenBallsport Leipzig,3,0,2022-09-17 16:30:00,,None
+488887,46,MissedShots,0.8040000152587891,0.4490000152587891,0.06808490306138992,Lars Stindl,h,208,OpenPlay,2022,RightFoot,19401,Borussia M.Gladbach,RasenBallsport Leipzig,3,0,2022-09-17 16:30:00,Jonas Hofmann,Pass
+488901,67,MissedShots,0.765,0.5309999847412109,0.020367899909615517,Lars Stindl,h,208,FromCorner,2022,RightFoot,19401,Borussia M.Gladbach,RasenBallsport Leipzig,3,0,2022-09-17 16:30:00,,None
+490330,41,SavedShot,0.8980000305175782,0.539000015258789,0.3540410101413727,Lars Stindl,a,208,OpenPlay,2022,RightFoot,19413,Werder Bremen,Borussia M.Gladbach,5,1,2022-10-01 16:30:00,Joe Scally,Pass
+490333,51,SavedShot,0.7669999694824219,0.5509999847412109,0.029035700485110283,Lars Stindl,a,208,OpenPlay,2022,RightFoot,19413,Werder Bremen,Borussia M.Gladbach,5,1,2022-10-01 16:30:00,Kouadio Kone,Pass
+490337,64,SavedShot,0.899000015258789,0.685,0.061084598302841187,Lars Stindl,a,208,OpenPlay,2022,LeftFoot,19413,Werder Bremen,Borussia M.Gladbach,5,1,2022-10-01 16:30:00,Christoph Kramer,Pass
+492219,46,Goal,0.7390000152587891,0.605,0.02426839992403984,Lars Stindl,h,208,OpenPlay,2022,RightFoot,19418,Borussia M.Gladbach,FC Cologne,5,2,2022-10-09 13:30:00,,BallRecovery
+495190,21,SavedShot,0.899000015258789,0.3579999923706055,0.24079899489879608,Lars Stindl,h,208,OpenPlay,2022,RightFoot,19437,Borussia M.Gladbach,Eintracht Frankfurt,1,3,2022-10-22 16:30:00,Christoph Kramer,Chipped
+505066,81,Goal,0.8440000152587891,0.5829999923706055,0.08170890063047409,Lars Stindl,h,208,OpenPlay,2022,LeftFoot,19481,Borussia M.Gladbach,Bayer Leverkusen,2,3,2023-01-22 16:30:00,Hannes Wolf,Pass
+505069,92,Goal,0.78,0.46799999237060547,0.03544760122895241,Lars Stindl,h,208,OpenPlay,2022,RightFoot,19481,Borussia M.Gladbach,Bayer Leverkusen,2,3,2023-01-22 16:30:00,Ko Itakura,Pass
+505719,23,MissedShots,0.7190000152587891,0.5129999923706055,0.014311700128018856,Lars Stindl,a,208,FromCorner,2022,RightFoot,19500,Hoffenheim,Borussia M.Gladbach,1,4,2023-01-28 14:30:00,,None
+505726,65,SavedShot,0.9309999847412109,0.644000015258789,0.09826429933309555,Lars Stindl,a,208,OpenPlay,2022,LeftFoot,19500,Hoffenheim,Borussia M.Gladbach,1,4,2023-01-28 14:30:00,Jonas Hofmann,BallTouch
+505733,82,Goal,0.899000015258789,0.4779999923706055,0.4499790072441101,Lars Stindl,a,208,OpenPlay,2022,RightFoot,19500,Hoffenheim,Borussia M.Gladbach,1,4,2023-01-28 14:30:00,Jonas Hofmann,Pass
+507346,24,BlockedShot,0.7469999694824219,0.5370000076293945,0.02116760052740574,Lars Stindl,h,208,OpenPlay,2022,RightFoot,19507,Borussia M.Gladbach,Schalke 04,0,0,2023-02-04 17:30:00,Kouadio Kone,Pass
+507364,65,MissedShots,0.8530000305175781,0.6730000305175782,0.05176600068807602,Lars Stindl,h,208,OpenPlay,2022,LeftFoot,19507,Borussia M.Gladbach,Schalke 04,0,0,2023-02-04 17:30:00,Marcus Thuram,HeadPass
+507366,71,MissedShots,0.92,0.4329999923706055,0.44760701060295105,Lars Stindl,h,208,OpenPlay,2022,RightFoot,19507,Borussia M.Gladbach,Schalke 04,0,0,2023-02-04 17:30:00,Jonas Hofmann,Pass
+507370,80,BlockedShot,0.9490000152587891,0.3270000076293945,0.06788399815559387,Lars Stindl,h,208,OpenPlay,2022,RightFoot,19507,Borussia M.Gladbach,Schalke 04,0,0,2023-02-04 17:30:00,,BallRecovery
+507373,88,MissedShots,0.7440000152587891,0.4570000076293945,0.016705699265003204,Lars Stindl,h,208,FromCorner,2022,RightFoot,19507,Borussia M.Gladbach,Schalke 04,0,0,2023-02-04 17:30:00,,None
+508954,9,BlockedShot,0.874000015258789,0.3679999923706055,0.02442209981381893,Lars Stindl,a,208,SetPiece,2022,RightFoot,19519,Hertha Berlin,Borussia M.Gladbach,4,1,2023-02-12 14:30:00,Jonas Hofmann,Cross
+509581,11,SavedShot,0.785,0.6709999847412109,0.07105889916419983,Lars Stindl,h,208,DirectFreekick,2022,RightFoot,19525,Borussia M.Gladbach,Bayern Munich,3,2,2023-02-18 14:30:00,,Standard
+509582,12,Goal,0.815,0.40700000762939453,0.03787560015916824,Lars Stindl,h,208,SetPiece,2022,RightFoot,19525,Borussia M.Gladbach,Bayern Munich,3,2,2023-02-18 14:30:00,Jonas Hofmann,Pass
+509585,18,SavedShot,0.62,0.07400000095367432,0.008342320099473,Lars Stindl,h,208,OpenPlay,2022,RightFoot,19525,Borussia M.Gladbach,Bayern Munich,3,2,2023-02-18 14:30:00,,BallRecovery
+509586,23,MissedShots,0.8809999847412109,0.46099998474121096,0.39534300565719604,Lars Stindl,h,208,OpenPlay,2022,RightFoot,19525,Borussia M.Gladbach,Bayern Munich,3,2,2023-02-18 14:30:00,Kouadio Kone,Pass
+510592,8,MissedShots,0.6869999694824219,0.44799999237060545,0.015582400374114513,Lars Stindl,a,208,OpenPlay,2022,RightFoot,19535,Mainz 05,Borussia M.Gladbach,4,0,2023-02-24 19:30:00,Hannes Wolf,Pass
+510610,78,BlockedShot,0.8080000305175781,0.5029999923706054,0.055862098932266235,Lars Stindl,a,208,OpenPlay,2022,RightFoot,19535,Mainz 05,Borussia M.Gladbach,4,0,2023-02-24 19:30:00,Jonas Hofmann,Pass
+514582,7,MissedShots,0.879000015258789,0.4520000076293945,0.30573898553848267,Lars Stindl,h,208,OpenPlay,2022,RightFoot,19563,Borussia M.Gladbach,Werder Bremen,2,2,2023-03-17 19:30:00,Marcus Thuram,Cross
+514584,32,SavedShot,0.8019999694824219,0.39599998474121095,0.061146099120378494,Lars Stindl,h,208,OpenPlay,2022,RightFoot,19563,Borussia M.Gladbach,Werder Bremen,2,2,2023-03-17 19:30:00,Joe Scally,Pass
+514589,42,MissedShots,0.8780000305175781,0.75,0.03022010065615177,Lars Stindl,h,208,OpenPlay,2022,RightFoot,19563,Borussia M.Gladbach,Werder Bremen,2,2,2023-03-17 19:30:00,Marcus Thuram,Pass
+514602,68,MissedShots,0.8119999694824219,0.5220000076293946,0.059403300285339355,Lars Stindl,h,208,OpenPlay,2022,RightFoot,19563,Borussia M.Gladbach,Werder Bremen,2,2,2023-03-17 19:30:00,Luca Netz,Pass
+514604,72,SavedShot,0.8569999694824219,0.4829999923706055,0.4431760013103485,Lars Stindl,h,208,OpenPlay,2022,RightFoot,19563,Borussia M.Gladbach,Werder Bremen,2,2,2023-03-17 19:30:00,Jonas Hofmann,TakeOn
+514606,82,MissedShots,0.7390000152587891,0.4570000076293945,0.026857299730181694,Lars Stindl,h,208,OpenPlay,2022,RightFoot,19563,Borussia M.Gladbach,Werder Bremen,2,2,2023-03-17 19:30:00,,Dispossessed
+516995,52,MissedShots,0.76,0.6459999847412109,0.021755099296569824,Lars Stindl,a,208,OpenPlay,2022,RightFoot,19569,FC Cologne,Borussia M.Gladbach,0,0,2023-04-02 13:30:00,Jonas Hofmann,Pass
+518658,32,BlockedShot,0.720999984741211,0.534000015258789,0.0496474988758564,Lars Stindl,h,208,DirectFreekick,2022,RightFoot,19581,Borussia M.Gladbach,Wolfsburg,2,0,2023-04-09 13:30:00,,Standard
+521721,26,SavedShot,0.7069999694824218,0.6480000305175782,0.01577666401863098,Lars Stindl,h,208,OpenPlay,2022,RightFoot,19599,Borussia M.Gladbach,Union Berlin,0,1,2023-04-23 17:30:00,Julian Weigl,Pass
+524492,82,BlockedShot,0.8630000305175781,0.27399999618530274,0.04902135953307152,Lars Stindl,h,208,OpenPlay,2022,LeftFoot,19617,Borussia M.Gladbach,Bochum,2,0,2023-05-06 13:30:00,,None
+524495,88,SavedShot,0.865999984741211,0.45099998474121095,0.1153826043009758,Lars Stindl,h,208,OpenPlay,2022,RightFoot,19617,Borussia M.Gladbach,Bochum,2,0,2023-05-06 13:30:00,Jonas Hofmann,Pass
+524497,90,BlockedShot,0.8669999694824219,0.5170000076293946,0.11558865755796432,Lars Stindl,h,208,OpenPlay,2022,RightFoot,19617,Borussia M.Gladbach,Bochum,2,0,2023-05-06 13:30:00,Ramy Bensebaini,Pass
+524498,90,Goal,0.9059999847412109,0.514000015258789,0.04860208183526993,Lars Stindl,h,208,OpenPlay,2022,Head,19617,Borussia M.Gladbach,Bochum,2,0,2023-05-06 13:30:00,,Rebound
+526228,84,Goal,0.784000015258789,0.6190000152587891,0.020969048142433167,Lars Stindl,a,208,OpenPlay,2022,RightFoot,19622,Borussia Dortmund,Borussia M.Gladbach,5,2,2023-05-13 16:30:00,Luca Netz,Pass
+526229,87,SavedShot,0.8380000305175781,0.485,0.04337151721119881,Lars Stindl,a,208,OpenPlay,2022,RightFoot,19622,Borussia Dortmund,Borussia M.Gladbach,5,2,2023-05-13 16:30:00,Stefan Lainer,Cross
+528270,84,MissedShots,0.9309999847412109,0.5259999847412109,0.4734049439430237,Lars Stindl,a,208,OpenPlay,2022,RightFoot,19631,Bayer Leverkusen,Borussia M.Gladbach,2,2,2023-05-21 17:30:00,Stefan Lainer,Cross
+528271,89,Goal,0.91,0.5629999923706055,0.46232616901397705,Lars Stindl,a,208,OpenPlay,2022,LeftFoot,19631,Bayer Leverkusen,Borussia M.Gladbach,2,2,2023-05-21 17:30:00,Marcus Thuram,Pass
+529082,18,MissedShots,0.919000015258789,0.34900001525878904,0.3073897361755371,Lars Stindl,h,208,OpenPlay,2022,RightFoot,19643,Borussia M.Gladbach,Augsburg,2,0,2023-05-27 13:30:00,Jonas Hofmann,Pass
+529092,49,SavedShot,0.8080000305175781,0.534000015258789,0.14559771120548248,Lars Stindl,h,208,DirectFreekick,2022,RightFoot,19643,Borussia M.Gladbach,Augsburg,2,0,2023-05-27 13:30:00,,Standard
+529102,80,MissedShots,0.8630000305175781,0.4540000152587891,0.12179335206747055,Lars Stindl,h,208,OpenPlay,2022,RightFoot,19643,Borussia M.Gladbach,Augsburg,2,0,2023-05-27 13:30:00,Jonas Hofmann,Pass

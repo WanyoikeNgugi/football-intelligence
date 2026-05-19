@@ -1,0 +1,8 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+496211,67,MissedShots,0.9490000152587891,0.48200000762939454,0.5709859728813171,Moussa Diarra,a,7613,SetPiece,2022,Head,19774,Lens,Toulouse,3,0,2022-10-28 19:00:00,Branco van den Boomen,Cross
+539553,9,MissedShots,0.9390000152587891,0.44,0.10880734771490097,Moussa Diarra,a,7613,FromCorner,2023,Head,23419,Lens,Toulouse,2,1,2023-09-24 13:00:00,Niklas Schmidt,Cross
+550183,70,BlockedShot,0.9009999847412109,0.6609999847412109,0.05605688691139221,Moussa Diarra,a,7613,OpenPlay,2023,LeftFoot,23484,Nice,Toulouse,1,0,2023-11-26 12:00:00,,Rebound
+564389,19,SavedShot,0.9290000152587891,0.5129999923706055,0.11490748822689056,Moussa Diarra,a,7613,FromCorner,2023,LeftFoot,23562,Monaco,Toulouse,1,2,2024-02-18 14:00:00,Logan Costa,HeadPass
+573990,31,Goal,0.924000015258789,0.644000015258789,0.07153801620006561,Moussa Diarra,a,7613,OpenPlay,2023,LeftFoot,23627,Rennes,Toulouse,1,2,2024-04-13 19:00:00,,None
+575735,55,MissedShots,0.7280000305175781,0.6120000076293945,0.016029953956604004,Moussa Diarra,h,7613,OpenPlay,2023,LeftFoot,23633,Toulouse,Marseille,2,2,2024-04-21 17:00:00,Warren Kamanzi,Pass
+607556,15,BlockedShot,0.789000015258789,0.685,0.02481282502412796,Moussa Diarra,h,7613,OpenPlay,2024,RightFoot,27149,Alaves,Athletic Club,1,1,2024-12-15 15:15:00,Carlos Martín,Pass

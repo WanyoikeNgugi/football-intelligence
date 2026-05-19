@@ -1,0 +1,15 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+587124,66,BlockedShot,0.8959999847412109,0.5679999923706055,0.08266350626945496,Bojan Miovski,a,12995,FromCorner,2024,LeftFoot,27001,Atletico Madrid,Girona,3,0,2024-08-25 19:30:00,,None
+587126,68,SavedShot,0.8680000305175781,0.5540000152587891,0.09028629958629608,Bojan Miovski,a,12995,OpenPlay,2024,LeftFoot,27001,Atletico Madrid,Girona,3,0,2024-08-25 19:30:00,Miguel Gutiérrez,Pass
+587368,41,BlockedShot,0.759000015258789,0.4620000076293945,0.0390210896730423,Bojan Miovski,h,12995,OpenPlay,2024,LeftFoot,27010,Girona,Osasuna,4,0,2024-08-29 17:00:00,,BallRecovery
+592641,16,BlockedShot,0.9419999694824219,0.4179999923706055,0.05709679797291756,Bojan Miovski,a,12995,OpenPlay,2024,Head,27038,Valencia,Girona,2,0,2024-09-21 16:30:00,,Aerial
+598640,54,SavedShot,0.8909999847412109,0.514000015258789,0.16178888082504272,Bojan Miovski,a,12995,SetPiece,2024,Head,27087,Las Palmas,Girona,1,0,2024-10-26 16:30:00,Miguel Gutiérrez,Cross
+598643,65,BlockedShot,0.8469999694824218,0.275,0.030175767838954926,Bojan Miovski,a,12995,OpenPlay,2024,LeftFoot,27087,Las Palmas,Girona,1,0,2024-10-26 16:30:00,Donny van de Beek,Pass
+600189,15,MissedShots,0.8540000152587891,0.4879999923706055,0.015489903278648853,Bojan Miovski,h,12995,OpenPlay,2024,Head,27095,Girona,Leganes,4,3,2024-11-02 15:15:00,Miguel Gutiérrez,BallTouch
+600193,20,BlockedShot,0.9230000305175782,0.455,0.060819029808044434,Bojan Miovski,h,12995,OpenPlay,2024,Head,27095,Girona,Leganes,4,3,2024-11-02 15:15:00,Bryan Gil Salvatierra,Goal
+603163,15,Goal,0.9669999694824218,0.4779999923706055,0.7056738138198853,Bojan Miovski,h,12995,OpenPlay,2024,LeftFoot,27121,Girona,Espanyol,4,1,2024-11-23 17:30:00,Bryan Gil Salvatierra,Pass
+603164,20,Goal,0.9369999694824219,0.4859999847412109,0.5657075643539429,Bojan Miovski,h,12995,OpenPlay,2024,LeftFoot,27121,Girona,Espanyol,4,1,2024-11-23 17:30:00,Bryan Gil Salvatierra,Cross
+603170,47,MissedShots,0.9580000305175781,0.48900001525878906,0.7552306056022644,Bojan Miovski,h,12995,OpenPlay,2024,LeftFoot,27121,Girona,Espanyol,4,1,2024-11-23 17:30:00,Donny van de Beek,Pass
+616993,93,BlockedShot,0.905,0.6270000076293946,0.011951196938753128,Bojan Miovski,h,12995,OpenPlay,2024,Head,27213,Girona,Getafe,1,2,2025-02-14 20:00:00,Yáser Asprilla,Aerial
+622248,4,MissedShots,0.92,0.600999984741211,0.053462665528059006,Bojan Miovski,a,12995,FromCorner,2024,LeftFoot,27242,Espanyol,Girona,1,1,2025-03-10 20:00:00,Viktor Tsygankov,Cross
+622249,6,MissedShots,0.9290000152587891,0.7180000305175781,0.046313297003507614,Bojan Miovski,a,12995,OpenPlay,2024,LeftFoot,27242,Espanyol,Girona,1,1,2025-03-10 20:00:00,Ladislav Krejcí,Chipped

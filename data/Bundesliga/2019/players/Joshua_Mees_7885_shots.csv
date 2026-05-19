@@ -1,0 +1,12 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+325431,89,BlockedShot,0.7519999694824219,0.45599998474121095,0.040189001709222794,Joshua Mees,h,7885,OpenPlay,2019,RightFoot,12468,Union Berlin,Freiburg,2,0,2019-10-19 14:30:00,Anthony Ujah,Pass
+325432,92,SavedShot,0.730999984741211,0.4929999923706055,0.02858860045671463,Joshua Mees,h,7885,OpenPlay,2019,LeftFoot,12468,Union Berlin,Freiburg,2,0,2019-10-19 14:30:00,Robert Andrich,Pass
+329466,59,BlockedShot,0.8019999694824219,0.500999984741211,0.052148498594760895,Joshua Mees,h,7885,OpenPlay,2019,LeftFoot,12492,Union Berlin,Hertha Berlin,1,0,2019-11-02 17:30:00,Christian Gentner,BallTouch
+336865,86,MissedShots,0.7730000305175782,0.629000015258789,0.023462699726223946,Joshua Mees,a,7885,OpenPlay,2019,RightFoot,12537,Paderborn,Union Berlin,1,1,2019-12-14 14:30:00,Christopher Lenz,TakeOn
+339326,60,BlockedShot,0.8830000305175781,0.5459999847412109,0.11539699882268906,Joshua Mees,a,7885,OpenPlay,2019,LeftFoot,12550,Fortuna Duesseldorf,Union Berlin,2,1,2019-12-22 14:30:00,Christopher Lenz,Pass
+363727,69,SavedShot,0.8959999847412109,0.5159999847412109,0.07477880269289017,Joshua Mees,a,7885,OpenPlay,2019,Head,12656,Borussia M.Gladbach,Union Berlin,4,1,2020-05-31 13:30:00,Christian Gentner,Aerial
+363729,75,MissedShots,0.7830000305175782,0.6090000152587891,0.029372800141572952,Joshua Mees,a,7885,OpenPlay,2019,RightFoot,12656,Borussia M.Gladbach,Union Berlin,4,1,2020-05-31 13:30:00,Sebastian Andersson,Pass
+363733,85,SavedShot,0.750999984741211,0.6419999694824219,0.01738310046494007,Joshua Mees,a,7885,OpenPlay,2019,RightFoot,12656,Borussia M.Gladbach,Union Berlin,4,1,2020-05-31 13:30:00,Grischa Prömel,Pass
+367001,25,MissedShots,0.8780000305175781,0.6320000076293946,0.03949210047721863,Joshua Mees,h,7885,FromCorner,2019,LeftFoot,12708,Union Berlin,Fortuna Duesseldorf,3,0,2020-06-27 13:30:00,Christopher Trimmel,Cross
+377407,95,MissedShots,0.8590000152587891,0.590999984741211,0.015080000273883343,Joshua Mees,h,7885,OpenPlay,2020,Head,14175,Union Berlin,Augsburg,1,3,2020-09-19 13:30:00,Robin Knoche,Aerial
+377405,95,MissedShots,0.9290000152587891,0.5729999923706055,0.048286501318216324,Joshua Mees,h,7885,SetPiece,2020,Head,14175,Union Berlin,Augsburg,1,3,2020-09-19 13:30:00,Niko Gießelmann,Aerial

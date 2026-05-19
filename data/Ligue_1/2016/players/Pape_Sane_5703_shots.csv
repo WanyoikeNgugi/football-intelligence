@@ -1,0 +1,7 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+104111,23,SavedShot,0.86,0.7390000152587891,0.03052240051329136,Pape Sane,a,5703,OpenPlay,2016,RightFoot,2311,Bordeaux,Caen,0,0,2016-09-24 22:00:00,Jonathan Delaplace,Pass
+104115,48,BlockedShot,0.9009999847412109,0.27600000381469725,0.04036640003323555,Pape Sane,a,5703,OpenPlay,2016,RightFoot,2311,Bordeaux,Caen,0,0,2016-09-24 22:00:00,Jonathan Delaplace,Pass
+104123,60,MissedShots,0.9259999847412109,0.51,0.11541800200939178,Pape Sane,a,5703,FromCorner,2016,Head,2311,Bordeaux,Caen,0,0,2016-09-24 22:00:00,Julien Féret,Cross
+104734,79,ShotOnPost,0.9219999694824219,0.5070000076293946,0.1087770015001297,Pape Sane,h,5703,FromCorner,2016,Head,2324,Caen,Toulouse,1,0,2016-10-01 22:00:00,Julien Féret,Cross
+104737,87,SavedShot,0.84,0.6719999694824219,0.0561118982732296,Pape Sane,h,5703,OpenPlay,2016,RightFoot,2324,Caen,Toulouse,1,0,2016-10-01 22:00:00,Emmanuel Imorou,Pass
+108475,92,Goal,0.8819999694824219,0.46799999237060547,0.35822001099586487,Pape Sane,h,5703,OpenPlay,2016,RightFoot,3251,Caen,Metz,3,0,2016-12-18 17:30:00,Yann Karamoh,Cross

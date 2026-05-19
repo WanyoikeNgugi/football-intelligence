@@ -1,0 +1,22 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+639,55,BlockedShot,0.874000015258789,0.735999984741211,0.02464039996266365,Antoine Conte,h,3238,SetPiece,2014,RightFoot,6209,Reims,Caen,0,2,2014-08-23 19:00:00,,None
+643,70,MissedShots,0.7069999694824218,0.6040000152587891,0.012870900332927704,Antoine Conte,h,3238,FromCorner,2014,RightFoot,6209,Reims,Caen,0,2,2014-08-23 19:00:00,,None
+777,51,MissedShots,0.725,0.815,0.009454679675400257,Antoine Conte,a,3238,OpenPlay,2014,RightFoot,6220,Lens,Reims,4,2,2014-08-30 19:00:00,Antoine Devaux,Tackle
+1912,63,MissedShots,0.9359999847412109,0.3609999847412109,0.019362200051546097,Antoine Conte,a,3238,OpenPlay,2014,Head,6129,Nantes,Reims,1,1,2014-10-18 19:00:00,Odaïr Fortes,Cross
+1916,76,MissedShots,0.925,0.355,0.04064280167222023,Antoine Conte,a,3238,FromCorner,2014,RightFoot,6129,Nantes,Reims,1,1,2014-10-18 19:00:00,Benjamin Moukandjo,Cross
+2336,33,MissedShots,0.77,0.26899999618530274,0.011896999552845955,Antoine Conte,h,3238,OpenPlay,2014,RightFoot,6136,Reims,Montpellier,1,0,2014-10-25 19:00:00,,Rebound
+3792,20,MissedShots,0.7090000152587891,0.22299999237060547,0.011562599800527096,Antoine Conte,a,3238,OpenPlay,2014,RightFoot,6144,Monaco,Reims,1,1,2014-10-31 19:30:00,Antoine Devaux,Pass
+3650,36,SavedShot,0.7119999694824218,0.740999984741211,0.013292700052261353,Antoine Conte,h,3238,OpenPlay,2014,RightFoot,6106,Reims,SC Bastia,2,1,2014-11-29 19:00:00,,Tackle
+3615,33,MissedShots,0.8869999694824219,0.32599998474121095,0.0243523009121418,Antoine Conte,h,3238,OpenPlay,2014,RightFoot,6005,Reims,Saint-Etienne,1,2,2015-01-10 19:00:00,Chris Mavinga,Cross
+6231,21,MissedShots,0.7140000152587891,0.48,0.01522899977862835,Antoine Conte,a,3238,OpenPlay,2014,RightFoot,5857,Evian Thonon Gaillard,Reims,2,3,2015-05-09 19:00:00,Antoine Devaux,Pass
+6236,38,ShotOnPost,0.9580000305175781,0.41,0.18142099678516388,Antoine Conte,a,3238,OpenPlay,2014,LeftFoot,5857,Evian Thonon Gaillard,Reims,2,3,2015-05-09 19:00:00,Omenuke Mfulu,TakeOn
+7375,28,SavedShot,0.7340000152587891,0.3120000076293945,0.016410600394010544,Antoine Conte,a,3238,OpenPlay,2014,RightFoot,5878,Paris Saint Germain,Reims,3,2,2015-05-23 20:00:00,Prince Oniangué,Pass
+69860,28,SavedShot,0.759000015258789,0.29100000381469726,0.01757970079779625,Antoine Conte,a,3238,OpenPlay,2015,RightFoot,2130,Paris Saint Germain,Reims,4,1,2016-02-20 20:00:00,Prince Oniangué,Pass
+66701,18,MissedShots,0.7380000305175781,0.41,0.013630700297653675,Antoine Conte,a,3238,OpenPlay,2015,RightFoot,2152,Lille,Reims,2,0,2016-03-05 23:00:00,,Rebound
+66706,53,SavedShot,0.7559999847412109,0.33599998474121096,0.020135900005698204,Antoine Conte,a,3238,OpenPlay,2015,RightFoot,2152,Lille,Reims,2,0,2016-03-05 23:00:00,Johann Carrasso,Pass
+67301,83,MissedShots,0.795,0.22100000381469725,0.017345400527119637,Antoine Conte,h,3238,OpenPlay,2015,RightFoot,2174,Reims,Guingamp,0,1,2016-03-19 23:00:00,Nicolas de Preville,Pass
+67303,91,BlockedShot,0.764000015258789,0.49700000762939456,0.026013299822807312,Antoine Conte,h,3238,OpenPlay,2015,RightFoot,2174,Reims,Guingamp,0,1,2016-03-19 23:00:00,Lass,Pass
+68713,88,MissedShots,0.9590000152587891,0.28100000381469725,0.05730380117893219,Antoine Conte,h,3238,OpenPlay,2015,RightFoot,2194,Reims,Nantes,2,1,2016-04-09 22:00:00,Aly Ndom,Pass
+68850,73,MissedShots,0.9109999847412109,0.27600000381469725,0.03493190184235573,Antoine Conte,a,3238,OpenPlay,2015,RightFoot,2205,Troyes,Reims,2,1,2016-04-16 22:00:00,Hamari Traore,Pass
+68855,83,MissedShots,0.9519999694824218,0.6409999847412109,0.021953599527478218,Antoine Conte,a,3238,FromCorner,2015,Head,2205,Troyes,Reims,2,1,2016-04-16 22:00:00,Nicolas de Preville,Cross
+67692,46,BlockedShot,0.9540000152587891,0.67,0.054138001054525375,Antoine Conte,h,3238,SetPiece,2015,RightFoot,2223,Reims,Montpellier,2,3,2016-04-30 21:00:00,Prince Oniangué,Pass

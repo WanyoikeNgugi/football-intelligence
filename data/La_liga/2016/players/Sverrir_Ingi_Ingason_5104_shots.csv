@@ -1,0 +1,40 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+139337,15,MissedShots,0.914000015258789,0.5309999847412109,0.09400639683008194,Sverrir Ingi Ingason,a,5104,FromCorner,2016,Head,3915,Villarreal,Granada,2,0,2017-01-28 15:00:00,Isaac Cuenca,Cross
+141140,50,Goal,0.9569999694824218,0.5129999923706055,0.49508601427078247,Sverrir Ingi Ingason,a,5104,FromCorner,2016,RightFoot,4002,Sporting Gijon,Granada,3,1,2017-03-19 17:30:00,Andreas Pereira,Cross
+141902,60,MissedShots,0.9669999694824218,0.40900001525878904,0.22185899317264557,Sverrir Ingi Ingason,h,5104,FromCorner,2016,Head,4043,Granada,Celta Vigo,0,3,2017-04-16 19:45:00,Andreas Pereira,Cross
+141909,70,BlockedShot,0.9230000305175782,0.5720000076293945,0.03662329912185669,Sverrir Ingi Ingason,h,5104,FromCorner,2016,Head,4043,Granada,Celta Vigo,0,3,2017-04-16 19:45:00,Mubarak Wakaso,Rebound
+143527,87,BlockedShot,0.7659999847412109,0.6,0.025516100227832794,Sverrir Ingi Ingason,h,5104,OpenPlay,2016,RightFoot,4097,Granada,Espanyol,1,2,2017-05-19 19:45:00,Héctor,Pass
+154953,67,SavedShot,0.879000015258789,0.5259999847412109,0.05253180116415024,Sverrir Ingi Ingason,a,5104,FromCorner,2017,RightFoot,6489,Amkar,FC Rostov,0,1,2017-07-30 13:00:00,Timofei Kalachev,Cross
+154961,18,SavedShot,0.6790000152587891,0.39099998474121095,0.012113600037992,Sverrir Ingi Ingason,a,5104,OpenPlay,2017,RightFoot,6493,Anzhi Makhachkala,FC Rostov,0,1,2017-08-04 18:00:00,Artur Yusupov,Pass
+154964,28,MissedShots,0.8880000305175781,0.43599998474121093,0.04553050175309181,Sverrir Ingi Ingason,a,5104,SetPiece,2017,Head,6493,Anzhi Makhachkala,FC Rostov,0,1,2017-08-04 18:00:00,Timofei Kalachev,Cross
+155686,17,ShotOnPost,0.924000015258789,0.524000015258789,0.14089299738407135,Sverrir Ingi Ingason,h,5104,SetPiece,2017,LeftFoot,6505,FC Rostov,Dinamo Moscow,1,0,2017-08-09 18:00:00,,Rebound
+155685,17,SavedShot,0.870999984741211,0.4809999847412109,0.035580798983573914,Sverrir Ingi Ingason,h,5104,SetPiece,2017,Head,6505,FC Rostov,Dinamo Moscow,1,0,2017-08-09 18:00:00,Timofei Kalachev,Cross
+155697,71,BlockedShot,0.73,0.43900001525878907,0.01794460043311119,Sverrir Ingi Ingason,h,5104,OpenPlay,2017,RightFoot,6505,FC Rostov,Dinamo Moscow,1,0,2017-08-09 18:00:00,Artur Yusupov,Pass
+155570,79,MissedShots,0.9259999847412109,0.40400001525878904,0.04186080023646355,Sverrir Ingi Ingason,h,5104,FromCorner,2017,Head,6523,FC Rostov,FC Krasnodar,0,0,2017-08-20 18:00:00,Timofei Kalachev,Cross
+156038,4,BlockedShot,0.7580000305175781,0.4490000152587891,0.023420099169015884,Sverrir Ingi Ingason,a,5104,OpenPlay,2017,RightFoot,6546,CSKA Moscow,FC Rostov,2,0,2017-09-16 14:30:00,,Save
+156055,77,BlockedShot,0.7909999847412109,0.40400001525878904,0.020303500816226006,Sverrir Ingi Ingason,a,5104,OpenPlay,2017,RightFoot,6546,CSKA Moscow,FC Rostov,2,0,2017-09-16 14:30:00,,None
+156148,54,BlockedShot,0.88,0.4,0.0753927007317543,Sverrir Ingi Ingason,h,5104,OpenPlay,2017,RightFoot,6550,FC Rostov,Lokomotiv Moscow,0,1,2017-09-24 14:30:00,Timofei Kalachev,Chipped
+158092,55,Goal,0.885,0.5,0.7542750239372253,Sverrir Ingi Ingason,a,5104,Penalty,2017,RightFoot,6575,Tosno,FC Rostov,1,1,2017-10-21 12:00:00,,Standard
+157279,48,MissedShots,0.6769999694824219,0.4759999847412109,0.03006739914417267,Sverrir Ingi Ingason,a,5104,DirectFreekick,2017,RightFoot,6594,FK Akhmat,FC Rostov,1,0,2017-11-04 16:00:00,,Standard
+157931,77,BlockedShot,0.8490000152587891,0.3729999923706055,0.053351398557424545,Sverrir Ingi Ingason,h,5104,OpenPlay,2017,RightFoot,6603,FC Rostov,Amkar,0,0,2017-11-19 13:30:00,Aleksandr Zuev,Pass
+157932,78,SavedShot,0.885,0.5,0.7542750239372253,Sverrir Ingi Ingason,h,5104,Penalty,2017,RightFoot,6603,FC Rostov,Amkar,0,0,2017-11-19 13:30:00,,Standard
+157952,58,MissedShots,0.7440000152587891,0.655,0.009544320404529572,Sverrir Ingi Ingason,a,5104,OpenPlay,2017,RightFoot,6620,Dinamo Moscow,FC Rostov,2,0,2017-12-02 11:00:00,Aleksandr Zuev,Pass
+179109,21,Goal,0.9519999694824218,0.5659999847412109,0.33598899841308594,Sverrir Ingi Ingason,h,5104,SetPiece,2017,Head,6627,FC Rostov,FC Ufa,1,0,2017-12-10 16:00:00,Aleksandr Zuev,Chipped
+198961,5,BlockedShot,0.93,0.3729999923706055,0.07172819972038269,Sverrir Ingi Ingason,a,5104,OpenPlay,2017,RightFoot,6631,FC Krasnodar,FC Rostov,3,1,2018-03-03 16:00:00,Björn Sigurdarson,HeadPass
+201239,82,MissedShots,0.9230000305175782,0.53,0.09475540369749069,Sverrir Ingi Ingason,a,5104,FromCorner,2017,Head,6650,Arsenal Tula,FC Rostov,2,2,2018-03-17 11:00:00,Timofei Kalachev,Cross
+203879,60,Goal,0.904000015258789,0.549000015258789,0.08792530000209808,Sverrir Ingi Ingason,h,5104,SetPiece,2017,RightFoot,6658,FC Rostov,CSKA Moscow,1,2,2018-04-01 17:00:00,,None
+212509,61,MissedShots,0.764000015258789,0.455,0.022070299834012985,Sverrir Ingi Ingason,h,5104,OpenPlay,2017,RightFoot,6688,FC Rostov,Tosno,2,0,2018-04-29 16:00:00,Aleksey Ionov,Pass
+213404,10,MissedShots,0.8880000305175781,0.580999984741211,0.0755556970834732,Sverrir Ingi Ingason,a,5104,FromCorner,2017,RightFoot,6698,Spartak Moscow,FC Rostov,2,0,2018-05-05 17:00:00,,None
+215370,73,MissedShots,0.700999984741211,0.39799999237060546,0.01419910043478012,Sverrir Ingi Ingason,h,5104,OpenPlay,2017,RightFoot,6706,FC Rostov,Ural,1,0,2018-05-13 12:00:00,Aleksandru Gatcan,Pass
+219014,66,ShotOnPost,0.9669999694824218,0.3840000152587891,0.07560250163078308,Sverrir Ingi Ingason,h,5104,FromCorner,2018,RightFoot,8947,FC Rostov,FK Akhmat,1,0,2018-07-28 21:30:00,Maciej Wilusz,Rebound
+219321,57,SavedShot,0.9519999694824218,0.64,0.023299500346183777,Sverrir Ingi Ingason,h,5104,FromCorner,2018,Head,8964,FC Rostov,Krylya Sovetov Samara,0,1,2018-08-11 21:30:00,Aleksandru Gatcan,HeadPass
+219541,6,SavedShot,0.7030000305175781,0.26799999237060546,0.009988919831812382,Sverrir Ingi Ingason,h,5104,OpenPlay,2018,RightFoot,8975,FC Rostov,FC Yenisey Krasnoyarsk,4,0,2018-08-19 21:30:00,Ayaz Guliev,Pass
+222946,30,BlockedShot,0.735999984741211,0.43900001525878907,0.014036400243639946,Sverrir Ingi Ingason,h,5104,OpenPlay,2018,RightFoot,8985,FC Rostov,Rubin Kazan,1,1,2018-08-31 19:30:00,Dmitrii Skopintcev,Cross
+227227,30,MissedShots,0.8619999694824219,0.46,0.01493849977850914,Sverrir Ingi Ingason,a,5104,FromCorner,2018,Head,8995,Ural,FC Rostov,1,1,2018-09-17 14:30:00,Ayaz Guliev,Cross
+227012,11,MissedShots,0.92,0.53,0.0545957013964653,Sverrir Ingi Ingason,h,5104,SetPiece,2018,Head,9002,FC Rostov,FC Ufa,0,0,2018-09-22 16:00:00,Anton Salétros,Aerial
+238589,26,Goal,0.960999984741211,0.4879999923706055,0.6258999705314636,Sverrir Ingi Ingason,a,5104,FromCorner,2018,RightFoot,9026,Lokomotiv Moscow,FC Rostov,2,1,2018-10-19 17:30:00,,None
+238199,29,BlockedShot,0.7759999847412109,0.5629999923706055,0.028546499088406563,Sverrir Ingi Ingason,h,5104,OpenPlay,2018,RightFoot,9034,FC Rostov,Anzhi Makhachkala,1,0,2018-10-27 16:00:00,Ayaz Guliev,Pass
+238413,80,Goal,0.9730000305175781,0.49700000762939456,0.7659929990768433,Sverrir Ingi Ingason,a,5104,FromCorner,2018,RightFoot,9042,FC Krasnodar,FC Rostov,2,2,2018-11-04 13:30:00,Vidar Orn Kjartansson,None
+263161,5,BlockedShot,0.700999984741211,0.4779999923706055,0.010441900230944157,Sverrir Ingi Ingason,h,5104,OpenPlay,2018,RightFoot,9066,FC Rostov,CSKA Moscow,0,0,2018-12-02 13:30:00,,Aerial
+263254,52,MissedShots,0.9,0.67,0.009970990009605885,Sverrir Ingi Ingason,a,5104,FromCorner,2018,Head,9074,Krylya Sovetov Samara,FC Rostov,1,0,2018-12-08 09:30:00,Aleksandr Zuev,Cross
+263260,68,BlockedShot,0.7340000152587891,0.34900001525878904,0.013102799654006958,Sverrir Ingi Ingason,a,5104,OpenPlay,2018,RightFoot,9074,Krylya Sovetov Samara,FC Rostov,1,0,2018-12-08 09:30:00,,Dispossessed

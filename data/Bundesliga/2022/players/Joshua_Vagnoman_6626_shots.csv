@@ -1,0 +1,77 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+479762,48,MissedShots,0.895,0.38,0.06593289971351624,Joshua Vagnoman,h,6626,SetPiece,2022,RightFoot,19349,VfB Stuttgart,RasenBallsport Leipzig,1,1,2022-08-07 13:30:00,Hiroki Ito,Chipped
+480264,50,BlockedShot,0.7090000152587891,0.27899999618530275,0.01438989955931902,Joshua Vagnoman,a,6626,OpenPlay,2022,LeftFoot,19354,Werder Bremen,VfB Stuttgart,2,2,2022-08-13 13:30:00,Wataru Endo,Pass
+481720,5,MissedShots,0.925,0.5070000076293946,0.071881502866745,Joshua Vagnoman,h,6626,OpenPlay,2022,Head,19363,VfB Stuttgart,Freiburg,0,1,2022-08-20 13:30:00,Borna Sosa,Aerial
+481732,50,BlockedShot,0.8880000305175781,0.2539999961853027,0.027914799749851227,Joshua Vagnoman,h,6626,OpenPlay,2022,RightFoot,19363,VfB Stuttgart,Freiburg,0,1,2022-08-20 13:30:00,Sasa Kalajdzic,Chipped
+484396,38,MissedShots,0.9180000305175782,0.40400001525878904,0.23741400241851807,Joshua Vagnoman,a,6626,FromCorner,2022,Head,19376,FC Cologne,VfB Stuttgart,0,0,2022-08-28 13:30:00,Chris Führich,Cross
+485798,31,BlockedShot,0.955,0.51,0.14894600212574005,Joshua Vagnoman,h,6626,FromCorner,2022,LeftFoot,19381,VfB Stuttgart,Schalke 04,1,1,2022-09-03 13:30:00,,Rebound
+504527,86,MissedShots,0.9630000305175781,0.5520000076293945,0.508974015712738,Joshua Vagnoman,h,6626,FromCorner,2022,RightFoot,19485,VfB Stuttgart,Mainz 05,1,1,2023-01-21 14:30:00,Wataru Endo,HeadPass
+509526,87,BlockedShot,0.8640000152587891,0.6890000152587891,0.0660087987780571,Joshua Vagnoman,h,6626,OpenPlay,2022,RightFoot,19530,VfB Stuttgart,FC Cologne,3,0,2023-02-18 14:30:00,Enzo Millot,Pass
+509527,90,MissedShots,0.97,0.6040000152587891,0.12607699632644653,Joshua Vagnoman,h,6626,OpenPlay,2022,LeftFoot,19530,VfB Stuttgart,FC Cologne,3,0,2023-02-18 14:30:00,Enzo Millot,Pass
+516263,75,SavedShot,0.9069999694824219,0.57,0.43276500701904297,Joshua Vagnoman,a,6626,SetPiece,2022,LeftFoot,19567,Union Berlin,VfB Stuttgart,3,0,2023-04-01 13:30:00,,Rebound
+518783,9,BlockedShot,0.774000015258789,0.37099998474121093,0.02539129927754402,Joshua Vagnoman,a,6626,OpenPlay,2022,LeftFoot,19582,Bochum,VfB Stuttgart,2,3,2023-04-09 15:30:00,,BallTouch
+518792,50,SavedShot,0.935,0.42700000762939455,0.40325498580932617,Joshua Vagnoman,a,6626,OpenPlay,2022,RightFoot,19582,Bochum,VfB Stuttgart,2,3,2023-04-09 15:30:00,Enzo Millot,TakeOn
+518798,62,Goal,0.960999984741211,0.41700000762939454,0.3303470015525818,Joshua Vagnoman,a,6626,OpenPlay,2022,Head,19582,Bochum,VfB Stuttgart,2,3,2023-04-09 15:30:00,Enzo Millot,Cross
+518799,66,MissedShots,0.7280000305175781,0.2620000076293945,0.022894199937582016,Joshua Vagnoman,a,6626,OpenPlay,2022,RightFoot,19582,Bochum,VfB Stuttgart,2,3,2023-04-09 15:30:00,Wataru Endo,Chipped
+519313,4,MissedShots,0.8909999847412109,0.40400001525878904,0.07854469865560532,Joshua Vagnoman,h,6626,OpenPlay,2022,LeftFoot,19591,VfB Stuttgart,Borussia Dortmund,3,3,2023-04-15 13:30:00,Serhou Guirassy,None
+519335,80,MissedShots,0.9319999694824219,0.4779999923706055,0.12088199704885483,Joshua Vagnoman,h,6626,FromCorner,2022,Head,19591,VfB Stuttgart,Borussia Dortmund,3,3,2023-04-15 13:30:00,Borna Sosa,Cross
+519336,83,Goal,0.9080000305175782,0.48400001525878905,0.102122001349926,Joshua Vagnoman,h,6626,FromCorner,2022,RightFoot,19591,VfB Stuttgart,Borussia Dortmund,3,3,2023-04-15 13:30:00,,None
+520469,14,BlockedShot,0.7609999847412109,0.4159999847412109,0.027822796255350113,Joshua Vagnoman,a,6626,FromCorner,2022,LeftFoot,19601,Augsburg,VfB Stuttgart,1,1,2023-04-21 18:30:00,Wataru Endo,TakeOn
+520474,72,BlockedShot,0.835999984741211,0.3160000038146973,0.0338890366256237,Joshua Vagnoman,a,6626,OpenPlay,2022,LeftFoot,19601,Augsburg,VfB Stuttgart,1,1,2023-04-21 18:30:00,Silas Wamangituka,Pass
+524547,68,MissedShots,0.9380000305175781,0.3129999923706055,0.007818201556801796,Joshua Vagnoman,a,6626,OpenPlay,2022,Head,19619,Hertha Berlin,VfB Stuttgart,2,1,2023-05-06 13:30:00,Borna Sosa,Aerial
+524549,81,SavedShot,0.8730000305175781,0.355,0.03202252462506294,Joshua Vagnoman,a,6626,FromCorner,2022,RightFoot,19619,Hertha Berlin,VfB Stuttgart,2,1,2023-05-06 13:30:00,Enzo Millot,TakeOn
+526600,70,MissedShots,0.9669999694824218,0.42700000762939455,0.3182551860809326,Joshua Vagnoman,h,6626,FromCorner,2022,Head,19629,VfB Stuttgart,Bayer Leverkusen,1,1,2023-05-14 13:30:00,Serhou Guirassy,Rebound
+528977,10,MissedShots,0.8830000305175781,0.34,0.05327721685171127,Joshua Vagnoman,h,6626,OpenPlay,2022,RightFoot,19647,VfB Stuttgart,Hoffenheim,1,1,2023-05-27 13:30:00,Wataru Endo,Chipped
+528978,17,MissedShots,0.855,0.49900001525878906,0.37664371728897095,Joshua Vagnoman,h,6626,OpenPlay,2022,LeftFoot,19647,VfB Stuttgart,Hoffenheim,1,1,2023-05-27 13:30:00,Wataru Endo,Throughball
+528982,31,BlockedShot,0.795,0.6329999923706054,0.028894267976284027,Joshua Vagnoman,h,6626,OpenPlay,2022,LeftFoot,19647,VfB Stuttgart,Hoffenheim,1,1,2023-05-27 13:30:00,Serhou Guirassy,Pass
+548335,74,SavedShot,0.8769999694824219,0.3139999961853027,0.055140942335128784,Joshua Vagnoman,h,6626,OpenPlay,2023,RightFoot,23162,VfB Stuttgart,Borussia Dortmund,2,1,2023-11-11 14:30:00,Serhou Guirassy,Pass
+548336,77,BlockedShot,0.8640000152587891,0.35200000762939454,0.03701122850179672,Joshua Vagnoman,h,6626,OpenPlay,2023,RightFoot,23162,VfB Stuttgart,Borussia Dortmund,2,1,2023-11-11 14:30:00,Enzo Millot,Cross
+553550,6,BlockedShot,0.905,0.4829999923706055,0.48761698603630066,Joshua Vagnoman,h,6626,SetPiece,2023,RightFoot,23189,VfB Stuttgart,Bayer Leverkusen,1,1,2023-12-10 14:30:00,,Rebound
+558627,21,MissedShots,0.889000015258789,0.4640000152587891,0.0687950849533081,Joshua Vagnoman,a,6626,OpenPlay,2023,LeftFoot,23213,Borussia M.Gladbach,VfB Stuttgart,3,1,2024-01-14 16:30:00,Maximilian Mittelstädt,Cross
+558636,54,Goal,0.8419999694824218,0.38099998474121094,0.06632163375616074,Joshua Vagnoman,a,6626,OpenPlay,2023,LeftFoot,23213,Borussia M.Gladbach,VfB Stuttgart,3,1,2024-01-14 16:30:00,Jamie Leweling,Pass
+558643,84,MissedShots,0.8230000305175781,0.29700000762939455,0.029270753264427185,Joshua Vagnoman,a,6626,OpenPlay,2023,LeftFoot,23213,Borussia M.Gladbach,VfB Stuttgart,3,1,2024-01-14 16:30:00,Angelo Stiller,Pass
+559041,81,BlockedShot,0.8519999694824218,0.40700000762939453,0.05779124051332474,Joshua Vagnoman,a,6626,OpenPlay,2023,LeftFoot,23224,Bochum,VfB Stuttgart,1,0,2024-01-20 14:30:00,Roberto Massimo,Foul
+559757,40,MissedShots,0.815,0.305,0.03480362892150879,Joshua Vagnoman,h,6626,OpenPlay,2023,LeftFoot,23235,VfB Stuttgart,RasenBallsport Leipzig,5,2,2024-01-27 14:30:00,Chris Führich,Pass
+561187,60,SavedShot,0.83,0.3559999847412109,0.05720888078212738,Joshua Vagnoman,a,6626,OpenPlay,2023,LeftFoot,23238,Freiburg,VfB Stuttgart,1,3,2024-02-03 14:30:00,Chris Führich,Pass
+561194,86,MissedShots,0.9290000152587891,0.4859999847412109,0.21316857635974884,Joshua Vagnoman,a,6626,FromCorner,2023,Head,23238,Freiburg,VfB Stuttgart,1,3,2024-02-03 14:30:00,Mahmoud Dahoud,Aerial
+561196,92,MissedShots,0.9059999847412109,0.48200000762939454,0.10095416754484177,Joshua Vagnoman,a,6626,OpenPlay,2023,Head,23238,Freiburg,VfB Stuttgart,1,3,2024-02-03 14:30:00,Angelo Stiller,Cross
+566860,10,MissedShots,0.9459999847412109,0.34400001525878904,0.037156105041503906,Joshua Vagnoman,a,6626,OpenPlay,2023,RightFoot,23274,Wolfsburg,VfB Stuttgart,2,3,2024-03-02 17:30:00,Maximilian Mittelstädt,Cross
+566870,76,Goal,0.8580000305175781,0.35900001525878905,0.07750000804662704,Joshua Vagnoman,a,6626,OpenPlay,2023,LeftFoot,23274,Wolfsburg,VfB Stuttgart,2,3,2024-03-02 17:30:00,Jamie Leweling,Pass
+567628,45,SavedShot,0.870999984741211,0.34400001525878904,0.31535059213638306,Joshua Vagnoman,h,6626,OpenPlay,2023,RightFoot,23289,VfB Stuttgart,Union Berlin,2,0,2024-03-08 19:30:00,Serhou Guirassy,Throughball
+567638,80,SavedShot,0.745,0.49,0.02456946298480034,Joshua Vagnoman,h,6626,OpenPlay,2023,LeftFoot,23289,VfB Stuttgart,Union Berlin,2,0,2024-03-08 19:30:00,Angelo Stiller,BallRecovery
+569605,36,MissedShots,0.8280000305175781,0.27600000381469725,0.019756639376282692,Joshua Vagnoman,a,6626,FromCorner,2023,RightFoot,23296,Hoffenheim,VfB Stuttgart,0,3,2024-03-16 17:30:00,,None
+571441,32,MissedShots,0.774000015258789,0.3529999923706055,0.019558435305953026,Joshua Vagnoman,h,6626,OpenPlay,2023,LeftFoot,23307,VfB Stuttgart,FC Heidenheim,3,3,2024-03-31 16:30:00,Enzo Millot,Pass
+597295,53,MissedShots,0.884000015258789,0.41900001525878905,0.10469140112400055,Joshua Vagnoman,a,6626,OpenPlay,2024,RightFoot,27797,Bayern Munich,VfB Stuttgart,4,0,2024-10-19 16:30:00,Jamie Leweling,Pass
+602264,85,Goal,0.7709999847412109,0.43099998474121093,0.024981200695037842,Joshua Vagnoman,h,6626,FromCorner,2024,LeftFoot,27823,VfB Stuttgart,Eintracht Frankfurt,2,3,2024-11-10 16:30:00,Chris Führich,Pass
+602769,7,MissedShots,0.8880000305175781,0.4279999923706055,0.3920016884803772,Joshua Vagnoman,h,6626,OpenPlay,2024,RightFoot,27833,VfB Stuttgart,Bochum,2,0,2024-11-23 14:30:00,Chris Führich,Pass
+602782,61,SavedShot,0.879000015258789,0.2510000038146973,0.06130000203847885,Joshua Vagnoman,h,6626,OpenPlay,2024,RightFoot,27833,VfB Stuttgart,Bochum,2,0,2024-11-23 14:30:00,Ermedin Demirovic,Pass
+602787,90,BlockedShot,0.89,0.38,0.11964870244264603,Joshua Vagnoman,h,6626,OpenPlay,2024,RightFoot,27833,VfB Stuttgart,Bochum,2,0,2024-11-23 14:30:00,Justin Diehl,Pass
+604079,49,MissedShots,0.9130000305175782,0.34,0.4789862036705017,Joshua Vagnoman,a,6626,OpenPlay,2024,RightFoot,27844,Werder Bremen,VfB Stuttgart,2,2,2024-11-30 14:30:00,Ermedin Demirovic,Throughball
+604090,78,MissedShots,0.9280000305175782,0.41900001525878905,0.03367191180586815,Joshua Vagnoman,a,6626,OpenPlay,2024,Head,27844,Werder Bremen,VfB Stuttgart,2,2,2024-11-30 14:30:00,Maximilian Mittelstädt,Aerial
+607527,12,SavedShot,0.8069999694824219,0.28600000381469726,0.025042006745934486,Joshua Vagnoman,a,6626,OpenPlay,2024,LeftFoot,27861,FC Heidenheim,VfB Stuttgart,1,3,2024-12-15 14:30:00,Ermedin Demirovic,Pass
+607538,52,BlockedShot,0.8209999847412109,0.30100000381469727,0.03515113517642021,Joshua Vagnoman,a,6626,OpenPlay,2024,LeftFoot,27861,FC Heidenheim,VfB Stuttgart,1,3,2024-12-15 14:30:00,Atakan Karazor,Pass
+608340,59,BlockedShot,0.8430000305175781,0.3189999961853027,0.042819175869226456,Joshua Vagnoman,h,6626,OpenPlay,2024,LeftFoot,27869,VfB Stuttgart,St. Pauli,0,1,2024-12-21 14:30:00,Nick Woltemade,Pass
+611814,5,MissedShots,0.7980000305175782,0.37799999237060544,0.0338064506649971,Joshua Vagnoman,h,6626,OpenPlay,2024,RightFoot,27887,VfB Stuttgart,RasenBallsport Leipzig,2,1,2025-01-15 19:30:00,Deniz Undav,Pass
+611833,91,SavedShot,0.884000015258789,0.305,0.06527028977870941,Joshua Vagnoman,h,6626,OpenPlay,2024,LeftFoot,27887,VfB Stuttgart,RasenBallsport Leipzig,2,1,2025-01-15 19:30:00,Jamie Leweling,Pass
+617127,53,SavedShot,0.870999984741211,0.4,0.05841470882296562,Joshua Vagnoman,h,6626,OpenPlay,2024,RightFoot,27932,VfB Stuttgart,Wolfsburg,1,2,2025-02-15 14:30:00,Chris Führich,Chipped
+619697,5,SavedShot,0.870999984741211,0.3290000152587891,0.11910310387611389,Joshua Vagnoman,h,6626,OpenPlay,2024,RightFoot,27949,VfB Stuttgart,Bayern Munich,1,3,2025-02-28 19:30:00,Alexander Nübel,Pass
+633768,76,MissedShots,0.8919999694824219,0.5129999923706055,0.0761864185333252,Joshua Vagnoman,h,6626,OpenPlay,2024,Head,28031,VfB Stuttgart,Augsburg,4,0,2025-05-11 17:30:00,Enzo Millot,Cross
+638789,30,MissedShots,0.9730000305175781,0.41900001525878905,0.3491556942462921,Joshua Vagnoman,a,6626,OpenPlay,2025,RightFoot,30227,Union Berlin,VfB Stuttgart,2,1,2025-08-23 13:30:00,Maximilian Mittelstädt,Cross
+640140,62,SavedShot,0.960999984741211,0.3940000152587891,0.07081487029790878,Joshua Vagnoman,h,6626,OpenPlay,2025,Head,30237,VfB Stuttgart,Borussia M.Gladbach,1,0,2025-08-30 13:30:00,Maximilian Mittelstädt,Cross
+641499,21,SavedShot,0.89,0.425,0.1111362874507904,Joshua Vagnoman,a,6626,OpenPlay,2025,Head,30243,Freiburg,VfB Stuttgart,3,1,2025-09-13 13:30:00,Badredine Bouanani,Cross
+645434,36,SavedShot,0.774000015258789,0.40299999237060546,0.02653759904205799,Joshua Vagnoman,a,6626,OpenPlay,2025,RightFoot,30267,FC Cologne,VfB Stuttgart,1,2,2025-09-28 15:30:00,Chris Führich,Pass
+645453,80,Goal,0.924000015258789,0.4109999847412109,0.4004323482513428,Joshua Vagnoman,a,6626,OpenPlay,2025,LeftFoot,30267,FC Cologne,VfB Stuttgart,1,2,2025-09-28 15:30:00,Angelo Stiller,Throughball
+649798,80,MissedShots,0.7319999694824219,0.615,0.022053712978959084,Joshua Vagnoman,h,6626,OpenPlay,2025,RightFoot,30294,VfB Stuttgart,Mainz 05,2,1,2025-10-26 15:30:00,Deniz Undav,Pass
+656864,69,MissedShots,0.8240000152587891,0.4420000076293945,0.04495862498879433,Joshua Vagnoman,h,6626,OpenPlay,2025,LeftFoot,30332,VfB Stuttgart,Bayern Munich,0,5,2025-12-06 14:30:00,,None
+658949,58,SavedShot,0.8859999847412109,0.33099998474121095,0.0756593644618988,Joshua Vagnoman,a,6626,OpenPlay,2025,RightFoot,30349,Werder Bremen,VfB Stuttgart,0,4,2025-12-14 18:30:00,Atakan Karazor,BallTouch
+662464,1,SavedShot,0.955,0.4620000076293945,0.5130237936973572,Joshua Vagnoman,a,6626,OpenPlay,2025,Head,30359,Bayer Leverkusen,VfB Stuttgart,1,4,2026-01-10 17:30:00,Chris Führich,Cross
+662466,12,SavedShot,0.9480000305175781,0.5259999847412109,0.1304078996181488,Joshua Vagnoman,a,6626,OpenPlay,2025,Head,30359,Bayer Leverkusen,VfB Stuttgart,1,4,2026-01-10 17:30:00,Nikolas Nartey,Aerial
+662925,38,SavedShot,0.9519999694824218,0.3060000038146973,0.2879769504070282,Joshua Vagnoman,h,6626,OpenPlay,2025,RightFoot,30375,VfB Stuttgart,Eintracht Frankfurt,3,2,2026-01-13 17:30:00,Deniz Undav,Chipped
+664101,5,MissedShots,0.9219999694824219,0.385,0.04109981656074524,Joshua Vagnoman,h,6626,OpenPlay,2025,Head,30383,VfB Stuttgart,Union Berlin,1,1,2026-01-18 14:30:00,Maximilian Mittelstädt,Cross
+664102,6,SavedShot,0.9219999694824219,0.37400001525878906,0.3423481285572052,Joshua Vagnoman,h,6626,OpenPlay,2025,RightFoot,30383,VfB Stuttgart,Union Berlin,1,1,2026-01-18 14:30:00,Chris Führich,Throughball
+664108,21,MissedShots,0.8419999694824218,0.27,0.04970292001962662,Joshua Vagnoman,h,6626,OpenPlay,2025,LeftFoot,30383,VfB Stuttgart,Union Berlin,1,1,2026-01-18 14:30:00,Jamie Leweling,Pass
+664116,47,BlockedShot,0.960999984741211,0.4829999923706055,0.7001221776008606,Joshua Vagnoman,h,6626,OpenPlay,2025,RightFoot,30383,VfB Stuttgart,Union Berlin,1,1,2026-01-18 14:30:00,Chris Führich,Pass
+665299,9,MissedShots,0.7930000305175782,0.35200000762939454,0.029145684093236923,Joshua Vagnoman,a,6626,OpenPlay,2025,LeftFoot,30388,Borussia M.Gladbach,VfB Stuttgart,0,3,2026-01-25 14:30:00,Ermedin Demirovic,Pass
+665302,15,BlockedShot,0.955999984741211,0.3920000076293945,0.2311539649963379,Joshua Vagnoman,a,6626,OpenPlay,2025,Head,30388,Borussia M.Gladbach,VfB Stuttgart,0,3,2026-01-25 14:30:00,Jamie Leweling,Cross
+666560,19,SavedShot,0.9380000305175781,0.4420000076293945,0.11109898239374161,Joshua Vagnoman,h,6626,FromCorner,2025,Head,30402,VfB Stuttgart,Freiburg,1,0,2026-02-01 14:30:00,Angelo Stiller,Cross
+666561,19,MissedShots,0.8859999847412109,0.3579999923706055,0.020043689757585526,Joshua Vagnoman,h,6626,OpenPlay,2025,Head,30402,VfB Stuttgart,Freiburg,1,0,2026-02-01 14:30:00,,None

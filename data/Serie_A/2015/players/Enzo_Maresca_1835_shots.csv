@@ -1,0 +1,23 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+43901,37,BlockedShot,0.725999984741211,0.47,0.019143199548125267,Enzo Maresca,a,1835,OpenPlay,2014,RightFoot,5037,AC Milan,Palermo,0,2,2014-11-02 19:45:00,Achraf Lazaar,Pass
+44209,17,MissedShots,0.8059999847412109,0.5870000076293945,0.12062299996614456,Enzo Maresca,h,1835,DirectFreekick,2014,RightFoot,5046,Palermo,Udinese,1,1,2014-11-09 14:00:00,,Standard
+44233,87,SavedShot,0.740999984741211,0.52,0.05859439820051193,Enzo Maresca,h,1835,DirectFreekick,2014,RightFoot,5046,Palermo,Udinese,1,1,2014-11-09 14:00:00,,Standard
+45051,5,MissedShots,0.715,0.45799999237060546,0.014396799728274345,Enzo Maresca,a,1835,OpenPlay,2014,RightFoot,5002,Torino,Palermo,2,2,2014-12-06 19:45:00,,BallRecovery
+45278,62,MissedShots,0.965,0.539000015258789,0.6067410111427307,Enzo Maresca,h,1835,OpenPlay,2014,Head,5010,Palermo,Sassuolo,2,1,2014-12-13 17:00:00,Michel Morganella,Cross
+45331,8,BlockedShot,0.7180000305175781,0.48,0.018430300056934357,Enzo Maresca,a,1835,OpenPlay,2014,RightFoot,5027,Atalanta,Palermo,3,3,2014-12-21 14:00:00,,None
+45335,31,BlockedShot,0.915,0.68,0.013947299681603909,Enzo Maresca,a,1835,SetPiece,2014,Head,5027,Atalanta,Palermo,3,3,2014-12-21 14:00:00,Achraf Lazaar,Cross
+45356,84,MissedShots,0.78,0.7340000152587891,0.04892219975590706,Enzo Maresca,a,1835,DirectFreekick,2014,RightFoot,5027,Atalanta,Palermo,3,3,2014-12-21 14:00:00,,Standard
+49143,24,MissedShots,0.7819999694824219,0.5870000076293945,0.010333100333809853,Enzo Maresca,a,1835,FromCorner,2014,LeftFoot,4909,Chievo,Palermo,1,0,2015-03-21 17:00:00,Paulo Dybala,Chipped
+49145,42,MissedShots,0.755,0.5659999847412109,0.06576039642095566,Enzo Maresca,a,1835,DirectFreekick,2014,RightFoot,4909,Chievo,Palermo,1,0,2015-03-21 17:00:00,,Standard
+50639,19,SavedShot,0.9540000152587891,0.5309999847412109,0.4735240042209625,Enzo Maresca,a,1835,FromCorner,2014,Head,4823,Roma,Palermo,1,2,2015-05-31 19:45:00,Franco Vázquez,Cross
+93841,84,MissedShots,0.74,0.6120000076293945,0.05100240185856819,Enzo Maresca,h,1835,DirectFreekick,2015,RightFoot,575,Palermo,Carpi,2,2,2015-09-13 17:00:00,,Standard
+94667,73,SavedShot,0.779000015258789,0.49900001525878906,0.09508539736270905,Enzo Maresca,h,1835,DirectFreekick,2015,RightFoot,593,Palermo,Sassuolo,0,1,2015-09-23 22:45:00,,Standard
+97428,68,MissedShots,0.7319999694824219,0.43900001525878907,0.018455900251865387,Enzo Maresca,h,1835,OpenPlay,2015,RightFoot,633,Palermo,Inter,1,1,2015-10-24 22:45:00,Robin Quaison,Pass
+97021,35,MissedShots,0.77,0.2720000076293945,0.0463114008307457,Enzo Maresca,h,1835,DirectFreekick,2015,RightFoot,813,Palermo,Bologna,0,0,2016-02-28 15:30:00,,Standard
+97681,44,BlockedShot,0.7280000305175781,0.40700000762939453,0.04680360108613968,Enzo Maresca,a,1835,DirectFreekick,2015,RightFoot,830,Inter,Palermo,3,1,2016-03-06 23:45:00,,Standard
+99088,79,SavedShot,0.7609999847412109,0.5520000076293945,0.022579699754714966,Enzo Maresca,a,1835,OpenPlay,2015,LeftFoot,854,Chievo,Palermo,3,1,2016-04-03 17:00:00,,BallTouch
+101202,74,MissedShots,0.7040000152587891,0.42700000762939455,0.012886200100183487,Enzo Maresca,a,1835,FromCorner,2015,LeftFoot,892,Frosinone,Palermo,0,2,2016-04-24 14:30:00,,None
+101749,57,BlockedShot,0.7630000305175781,0.3970000076293945,0.06673180311918259,Enzo Maresca,h,1835,DirectFreekick,2015,RightFoot,904,Palermo,Sampdoria,2,0,2016-05-01 17:00:00,,Standard
+101750,66,MissedShots,0.8830000305175781,0.42700000762939455,0.09416189789772034,Enzo Maresca,h,1835,OpenPlay,2015,RightFoot,904,Palermo,Sampdoria,2,0,2016-05-01 17:00:00,Alberto Gilardino,HeadPass
+102775,6,MissedShots,0.8009999847412109,0.5690000152587891,0.034095700830221176,Enzo Maresca,h,1835,OpenPlay,2015,LeftFoot,930,Palermo,Verona,3,2,2016-05-15 22:45:00,Aleksandar Trajkovski,Pass
+102787,50,Goal,0.9430000305175781,0.435,0.08469919860363007,Enzo Maresca,h,1835,OpenPlay,2015,Head,930,Palermo,Verona,3,2,2016-05-15 22:45:00,Andrea Rispoli,Pass

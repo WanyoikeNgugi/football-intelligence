@@ -1,0 +1,6 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+540502,88,BlockedShot,0.8030000305175782,0.23899999618530274,0.05128929018974304,Sydney van Hooijdonk,a,9862,DirectFreekick,2023,RightFoot,22363,Monza,Bologna,0,0,2023-09-28 16:30:00,,Standard
+548808,90,MissedShots,0.9230000305175782,0.5270000076293946,0.5164045691490173,Sydney van Hooijdonk,a,9862,OpenPlay,2023,RightFoot,22420,Fiorentina,Bologna,2,1,2023-11-12 14:00:00,,None
+551457,19,MissedShots,0.8119999694824219,0.35200000762939454,0.04003779590129852,Sydney van Hooijdonk,a,9862,OpenPlay,2023,RightFoot,22437,Lecce,Bologna,1,1,2023-12-03 11:30:00,Giovanni Fabbian,HeadPass
+551465,46,MissedShots,0.8719999694824219,0.625,0.0837506353855133,Sydney van Hooijdonk,a,9862,OpenPlay,2023,LeftFoot,22437,Lecce,Bologna,1,1,2023-12-03 11:30:00,Alexis Saelemaekers,Pass
+556932,76,SavedShot,0.8269999694824218,0.415,0.041250962764024734,Sydney van Hooijdonk,a,9862,OpenPlay,2023,RightFoot,22482,Udinese,Bologna,3,0,2023-12-30 14:00:00,,None

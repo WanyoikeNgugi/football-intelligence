@@ -1,0 +1,16 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+405602,68,MissedShots,0.8540000152587891,0.2620000076293945,0.027860799804329872,Ricard Sánchez,h,8319,OpenPlay,2020,LeftFoot,15009,Atletico Madrid,Levante,0,2,2021-02-20 15:15:00,,BallRecovery
+540551,46,SavedShot,0.775,0.28299999237060547,0.021966561675071716,Ricard Sánchez,h,8319,OpenPlay,2023,RightFoot,22750,Granada,Real Betis,1,1,2023-09-28 17:00:00,Ignasi Miquel,Pass
+541679,69,Goal,0.889000015258789,0.2510000038146973,0.10802461951971054,Ricard Sánchez,a,8319,OpenPlay,2023,RightFoot,22755,Almeria,Granada,3,3,2023-10-01 12:00:00,Antonio Puertas,Throughball
+546460,28,Goal,0.9490000152587891,0.34799999237060547,0.047472644597291946,Ricard Sánchez,h,8319,OpenPlay,2023,RightFoot,22791,Granada,Villarreal,2,3,2023-10-30 20:00:00,Gonzalo Villar,Chipped
+549365,93,BlockedShot,0.8869999694824219,0.34599998474121096,0.04613204672932625,Ricard Sánchez,a,8319,OpenPlay,2023,LeftFoot,22819,Alaves,Granada,3,1,2023-11-24 20:00:00,,Rebound
+554097,53,MissedShots,0.8690000152587891,0.325,0.05020483583211899,Ricard Sánchez,a,8319,OpenPlay,2023,RightFoot,22847,Celta Vigo,Granada,1,0,2023-12-16 13:00:00,Myrto Uzuni,Pass
+560501,60,BlockedShot,0.7769999694824219,0.5470000076293945,0.031035110354423523,Ricard Sánchez,a,8319,OpenPlay,2023,LeftFoot,22898,Getafe,Granada,2,0,2024-01-29 20:00:00,Bruno Méndez,Chipped
+560507,72,BlockedShot,0.8280000305175781,0.505,0.0731220692396164,Ricard Sánchez,a,8319,OpenPlay,2023,LeftFoot,22898,Getafe,Granada,2,0,2024-01-29 20:00:00,Matías Arezo,Pass
+560512,91,MissedShots,0.8980000305175782,0.26299999237060545,0.016126815229654312,Ricard Sánchez,a,8319,OpenPlay,2023,RightFoot,22898,Getafe,Granada,2,0,2024-01-29 20:00:00,,Aerial
+563295,42,Goal,0.904000015258789,0.37900001525878907,0.05521250143647194,Ricard Sánchez,a,8319,OpenPlay,2023,RightFoot,22916,Barcelona,Granada,3,3,2024-02-11 20:00:00,Facundo Pellistri,Cross
+568282,42,MissedShots,0.6530000305175782,0.51,0.011249622330069542,Ricard Sánchez,h,8319,FromCorner,2023,RightFoot,22959,Granada,Real Sociedad,2,3,2024-03-09 17:30:00,,Rebound
+568295,89,MissedShots,0.754000015258789,0.39099998474121095,0.013867032714188099,Ricard Sánchez,h,8319,FromCorner,2023,RightFoot,22959,Granada,Real Sociedad,2,3,2024-03-09 17:30:00,,Aerial
+570286,2,SavedShot,0.875999984741211,0.47,0.07339852303266525,Ricard Sánchez,a,8319,OpenPlay,2023,LeftFoot,22977,Cadiz,Granada,1,0,2024-03-29 20:00:00,Carlos Neva,Cross
+580088,76,BlockedShot,0.9330000305175781,0.43400001525878906,0.11454375088214874,Ricard Sánchez,h,8319,FromCorner,2023,RightFoot,23029,Granada,Real Madrid,0,4,2024-05-11 16:30:00,Facundo Pellistri,HeadPass
+580091,84,BlockedShot,0.8590000152587891,0.26,0.024477630853652954,Ricard Sánchez,h,8319,OpenPlay,2023,LeftFoot,23029,Granada,Real Madrid,0,4,2024-05-11 16:30:00,Óscar Melendo,Pass

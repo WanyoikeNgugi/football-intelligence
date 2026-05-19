@@ -1,0 +1,299 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+24483,86,SavedShot,0.835999984741211,0.33799999237060546,0.04337109997868538,Davie Selke,a,4280,OpenPlay,2014,RightFoot,5450,Hertha Berlin,Werder Bremen,2,2,2014-08-23 14:30:00,Franco Di Santo,Chipped
+24701,56,BlockedShot,0.9540000152587891,0.605999984741211,0.02693209983408451,Davie Selke,h,4280,OpenPlay,2014,Head,5457,Werder Bremen,Hoffenheim,1,1,2014-08-30 14:30:00,Franco Di Santo,Aerial
+24855,63,SavedShot,0.8719999694824219,0.5829999923706055,0.33477500081062317,Davie Selke,a,4280,OpenPlay,2014,RightFoot,5411,Bayer Leverkusen,Werder Bremen,3,3,2014-09-12 19:30:00,Eljero Elia,Pass
+25107,2,Goal,0.9419999694824219,0.46099998474121096,0.47651299834251404,Davie Selke,a,4280,OpenPlay,2014,RightFoot,5425,Augsburg,Werder Bremen,4,2,2014-09-20 14:30:00,Santiago García,Cross
+25124,51,SavedShot,0.7530000305175781,0.6569999694824219,0.017098799347877502,Davie Selke,a,4280,OpenPlay,2014,RightFoot,5425,Augsburg,Werder Bremen,4,2,2014-09-20 14:30:00,,TakeOn
+25449,3,MissedShots,0.870999984741211,0.3060000038146973,0.04868509992957115,Davie Selke,h,4280,OpenPlay,2014,RightFoot,5431,Werder Bremen,Schalke 04,0,3,2014-09-23 19:00:00,Fin Bartels,Pass
+27110,86,SavedShot,0.9740000152587891,0.3390000152587891,0.059620700776576996,Davie Selke,a,4280,OpenPlay,2014,RightFoot,5372,Hamburger SV,Werder Bremen,2,0,2014-11-23 14:30:00,Theodor Gebre Selassie,HeadPass
+27137,6,MissedShots,0.93,0.7180000305175781,0.2163739949464798,Davie Selke,h,4280,OpenPlay,2014,RightFoot,5379,Werder Bremen,Paderborn,4,0,2014-11-29 14:30:00,Zlatko Junuzovic,TakeOn
+27142,21,SavedShot,0.919000015258789,0.5320000076293945,0.4926519989967346,Davie Selke,h,4280,OpenPlay,2014,RightFoot,5379,Werder Bremen,Paderborn,4,0,2014-11-29 14:30:00,Fin Bartels,Pass
+27144,23,BlockedShot,0.9540000152587891,0.4909999847412109,0.14848099648952484,Davie Selke,h,4280,FromCorner,2014,RightFoot,5379,Werder Bremen,Paderborn,4,0,2014-11-29 14:30:00,Sebastian Prödl,Rebound
+27153,47,Goal,0.9590000152587891,0.5270000076293946,0.560467004776001,Davie Selke,h,4280,SetPiece,2014,Head,5379,Werder Bremen,Paderborn,4,0,2014-11-29 14:30:00,,Rebound
+27162,66,SavedShot,0.9269999694824219,0.6969999694824218,0.07704909890890121,Davie Selke,h,4280,OpenPlay,2014,LeftFoot,5379,Werder Bremen,Paderborn,4,0,2014-11-29 14:30:00,Felix Kroos,Pass
+28229,87,Goal,0.9580000305175781,0.49900001525878906,0.6399490237236023,Davie Selke,h,4280,OpenPlay,2014,LeftFoot,5323,Werder Bremen,Hannover 96,3,3,2014-12-13 14:30:00,Alejandro Gálvez,Pass
+27717,22,SavedShot,0.91,0.47900001525878905,0.06068670004606247,Davie Selke,a,4280,SetPiece,2014,Head,5336,Borussia M.Gladbach,Werder Bremen,4,1,2014-12-17 19:00:00,Luca Caldirola,HeadPass
+28254,2,Goal,0.85,0.6819999694824219,0.319489985704422,Davie Selke,h,4280,OpenPlay,2014,RightFoot,5341,Werder Bremen,Borussia Dortmund,2,1,2014-12-20 14:30:00,Santiago García,Throughball
+28268,67,MissedShots,0.9030000305175782,0.5459999847412109,0.38171300292015076,Davie Selke,h,4280,OpenPlay,2014,RightFoot,5341,Werder Bremen,Borussia Dortmund,2,1,2014-12-20 14:30:00,Fin Bartels,Cross
+28278,92,SavedShot,0.8880000305175781,0.715,0.049722298979759216,Davie Selke,h,4280,OpenPlay,2014,LeftFoot,5341,Werder Bremen,Borussia Dortmund,2,1,2014-12-20 14:30:00,Clemens Fritz,Chipped
+28524,8,SavedShot,0.8769999694824219,0.5359999847412109,0.07108510285615921,Davie Selke,h,4280,OpenPlay,2014,RightFoot,5260,Werder Bremen,Hertha Berlin,2,0,2015-02-01 14:30:00,Theodor Gebre Selassie,Cross
+28530,21,SavedShot,0.8080000305175781,0.7440000152587891,0.02351970039308071,Davie Selke,h,4280,OpenPlay,2014,RightFoot,5260,Werder Bremen,Hertha Berlin,2,0,2015-02-01 14:30:00,Janek Sternberg,Pass
+28543,87,SavedShot,0.9119999694824219,0.6569999694824219,0.13681800663471222,Davie Selke,h,4280,OpenPlay,2014,LeftFoot,5260,Werder Bremen,Hertha Berlin,2,0,2015-02-01 14:30:00,Levent Aycicek,Throughball
+28630,44,SavedShot,0.8930000305175781,0.5029999923706054,0.09053739905357361,Davie Selke,a,4280,OpenPlay,2014,RightFoot,5270,Hoffenheim,Werder Bremen,1,2,2015-02-04 19:00:00,Fin Bartels,HeadPass
+28634,57,SavedShot,0.7580000305175781,0.5520000076293945,0.03179959952831268,Davie Selke,a,4280,OpenPlay,2014,RightFoot,5270,Hoffenheim,Werder Bremen,1,2,2015-02-04 19:00:00,Felix Kroos,Pass
+28637,61,BlockedShot,0.87,0.750999984741211,0.03805970028042793,Davie Selke,a,4280,OpenPlay,2014,RightFoot,5270,Hoffenheim,Werder Bremen,1,2,2015-02-04 19:00:00,Felix Kroos,Pass
+29714,16,Goal,0.91,0.44299999237060544,0.4692290127277374,Davie Selke,h,4280,OpenPlay,2014,RightFoot,5278,Werder Bremen,Bayer Leverkusen,2,1,2015-02-08 14:30:00,Fin Bartels,Cross
+28701,6,MissedShots,0.8959999847412109,0.31,0.1041409969329834,Davie Selke,h,4280,OpenPlay,2014,RightFoot,5284,Werder Bremen,Augsburg,3,2,2015-02-14 14:30:00,Clemens Fritz,Chipped
+28712,35,BlockedShot,0.919000015258789,0.51,0.0485679991543293,Davie Selke,h,4280,FromCorner,2014,Head,5284,Werder Bremen,Augsburg,3,2,2015-02-14 14:30:00,Zlatko Junuzovic,Aerial
+28714,42,MissedShots,0.8030000305175782,0.40400001525878904,0.05477520078420639,Davie Selke,h,4280,OpenPlay,2014,RightFoot,5284,Werder Bremen,Augsburg,3,2,2015-02-14 14:30:00,,None
+29498,43,MissedShots,0.8809999847412109,0.3340000152587891,0.09637659788131714,Davie Selke,h,4280,OpenPlay,2014,RightFoot,5232,Werder Bremen,Wolfsburg,3,5,2015-03-01 16:30:00,Zlatko Junuzovic,Pass
+31393,78,SavedShot,0.9869999694824219,0.595999984741211,0.06388580054044724,Davie Selke,h,4280,OpenPlay,2014,LeftFoot,5246,Werder Bremen,Bayern Munich,0,4,2015-03-14 14:30:00,,None
+31395,89,SavedShot,0.9440000152587891,0.7030000305175781,0.0496165007352829,Davie Selke,h,4280,OpenPlay,2014,LeftFoot,5246,Werder Bremen,Bayern Munich,0,4,2015-03-14 14:30:00,Felix Kroos,Pass
+32133,26,Goal,0.925,0.435,0.10170099884271622,Davie Selke,a,4280,FromCorner,2014,LeftFoot,5252,FC Cologne,Werder Bremen,1,1,2015-03-21 14:30:00,,None
+31269,49,Goal,0.899000015258789,0.625999984741211,0.06170690059661865,Davie Selke,a,4280,OpenPlay,2014,Head,5212,VfB Stuttgart,Werder Bremen,3,2,2015-04-12 16:30:00,Clemens Fritz,Chipped
+31271,54,SavedShot,0.76,0.620999984741211,0.04063209891319275,Davie Selke,a,4280,OpenPlay,2014,RightFoot,5212,VfB Stuttgart,Werder Bremen,3,2,2015-04-12 16:30:00,Assani Lukimya,Pass
+32113,34,SavedShot,0.8590000152587891,0.5479999923706055,0.0092010498046875,Davie Selke,h,4280,SetPiece,2014,Head,5220,Werder Bremen,Hamburger SV,1,0,2015-04-19 14:30:00,Zlatko Junuzovic,Aerial
+32115,42,MissedShots,0.8809999847412109,0.5509999847412109,0.2941949963569641,Davie Selke,h,4280,OpenPlay,2014,RightFoot,5220,Werder Bremen,Hamburger SV,1,0,2015-04-19 14:30:00,Franco Di Santo,Cross
+32121,72,SavedShot,0.945,0.3060000038146973,0.0546410009264946,Davie Selke,h,4280,OpenPlay,2014,RightFoot,5220,Werder Bremen,Hamburger SV,1,0,2015-04-19 14:30:00,Theodor Gebre Selassie,Pass
+30260,20,BlockedShot,0.9259999847412109,0.27,0.036436498165130615,Davie Selke,a,4280,OpenPlay,2014,RightFoot,5229,Paderborn,Werder Bremen,2,2,2015-04-26 14:30:00,Clemens Fritz,Chipped
+30270,44,Goal,0.96,0.4929999923706055,0.5445259809494019,Davie Selke,a,4280,SetPiece,2014,Head,5229,Paderborn,Werder Bremen,2,2,2015-04-26 14:30:00,Sebastian Prödl,HeadPass
+31116,65,Goal,0.9259999847412109,0.52,0.5848569869995117,Davie Selke,h,4280,SetPiece,2014,OtherBodyPart,5163,Werder Bremen,Eintracht Frankfurt,1,0,2015-05-02 14:30:00,Assani Lukimya,Pass
+31118,73,SavedShot,0.889000015258789,0.5929999923706055,0.4453139901161194,Davie Selke,h,4280,OpenPlay,2014,LeftFoot,5163,Werder Bremen,Eintracht Frankfurt,1,0,2015-05-02 14:30:00,Franco Di Santo,Pass
+30684,6,MissedShots,0.94,0.485,0.5177320241928101,Davie Selke,h,4280,OpenPlay,2014,Head,5182,Werder Bremen,Borussia M.Gladbach,0,2,2015-05-16 14:30:00,Levin Öztunali,Cross
+30701,45,SavedShot,0.889000015258789,0.46599998474121096,0.12624500691890717,Davie Selke,h,4280,OpenPlay,2014,RightFoot,5182,Werder Bremen,Borussia M.Gladbach,0,2,2015-05-16 14:30:00,Levin Öztunali,Pass
+30702,51,MissedShots,0.759000015258789,0.5220000076293946,0.01688629947602749,Davie Selke,h,4280,SetPiece,2014,RightFoot,5182,Werder Bremen,Borussia M.Gladbach,0,2,2015-05-16 14:30:00,,None
+128306,81,SavedShot,0.879000015258789,0.3240000152587891,0.13622400164604187,Davie Selke,a,4280,OpenPlay,2016,RightFoot,1346,Hamburger SV,RasenBallsport Leipzig,0,4,2016-09-17 17:30:00,Dominik Kaiser,Chipped
+128310,91,Goal,0.875,0.41200000762939454,0.3579210042953491,Davie Selke,a,4280,OpenPlay,2016,RightFoot,1346,Hamburger SV,RasenBallsport Leipzig,0,4,2016-09-17 17:30:00,Emil Forsberg,Pass
+128690,57,MissedShots,0.8690000152587891,0.4159999847412109,0.016964299604296684,Davie Selke,a,4280,FromCorner,2016,Head,1371,FC Cologne,RasenBallsport Leipzig,1,1,2016-09-25 19:45:00,Dominik Kaiser,Cross
+129494,90,MissedShots,0.8469999694824218,0.44299999237060544,0.12987500429153442,Davie Selke,h,4280,OpenPlay,2016,RightFoot,1397,RasenBallsport Leipzig,Werder Bremen,3,1,2016-10-23 17:30:00,Dominik Kaiser,Pass
+129495,92,MissedShots,0.7680000305175781,0.49700000762939456,0.0981948971748352,Davie Selke,h,4280,OpenPlay,2016,RightFoot,1397,RasenBallsport Leipzig,Werder Bremen,3,1,2016-10-23 17:30:00,,TakeOn
+129496,94,Goal,0.8059999847412109,0.24799999237060547,0.2159069925546646,Davie Selke,h,4280,OpenPlay,2016,RightFoot,1397,RasenBallsport Leipzig,Werder Bremen,3,1,2016-10-23 17:30:00,Diego Demme,Pass
+131269,84,MissedShots,0.9169999694824219,0.5279999923706055,0.10026299953460693,Davie Selke,a,4280,OpenPlay,2016,Head,3205,Ingolstadt,RasenBallsport Leipzig,1,0,2016-12-10 18:30:00,Emil Forsberg,Cross
+131271,88,BlockedShot,0.9019999694824219,0.47,0.06752529740333557,Davie Selke,a,4280,FromCorner,2016,Head,3205,Ingolstadt,RasenBallsport Leipzig,1,0,2016-12-10 18:30:00,Emil Forsberg,Cross
+130991,66,BlockedShot,0.9469999694824218,0.32,0.11850900202989578,Davie Selke,h,4280,OpenPlay,2016,LeftFoot,3728,RasenBallsport Leipzig,Eintracht Frankfurt,3,0,2017-01-21 20:30:00,,TakeOn
+134742,72,MissedShots,0.935,0.48200000762939454,0.459648996591568,Davie Selke,h,4280,OpenPlay,2016,RightFoot,3851,RasenBallsport Leipzig,Ingolstadt,0,0,2017-04-29 14:30:00,Bernardo,Chipped
+134747,91,MissedShots,0.9259999847412109,0.515,0.07457660138607025,Davie Selke,h,4280,OpenPlay,2016,Head,3851,RasenBallsport Leipzig,Ingolstadt,0,0,2017-04-29 14:30:00,Benno Schmitz,Aerial
+134954,88,Goal,0.9440000152587891,0.6459999847412109,0.5919880270957947,Davie Selke,a,4280,OpenPlay,2016,RightFoot,3862,Hertha Berlin,RasenBallsport Leipzig,1,4,2017-05-06 17:30:00,Emil Forsberg,TakeOn
+134955,91,Goal,0.904000015258789,0.34200000762939453,0.3314470052719116,Davie Selke,a,4280,OpenPlay,2016,RightFoot,3862,Hertha Berlin,RasenBallsport Leipzig,1,4,2017-05-06 17:30:00,,TakeOn
+168117,81,BlockedShot,0.7809999847412109,0.48200000762939454,0.0314691998064518,Davie Selke,a,4280,OpenPlay,2017,RightFoot,8333,Freiburg,Hertha Berlin,1,1,2017-10-22 14:30:00,,TakeOn
+168602,79,SavedShot,0.87,0.44799999237060545,0.3664250075817108,Davie Selke,h,4280,OpenPlay,2017,RightFoot,8342,Hertha Berlin,Hamburger SV,2,1,2017-10-28 14:30:00,Salomon Kalou,Pass
+167722,82,SavedShot,0.9080000305175782,0.44299999237060544,0.43297699093818665,Davie Selke,a,4280,OpenPlay,2017,RightFoot,8356,Wolfsburg,Hertha Berlin,3,3,2017-11-05 17:00:00,Per Skjelbred,Pass
+167723,82,Goal,0.9769999694824218,0.54,0.8054479956626892,Davie Selke,a,4280,OpenPlay,2017,LeftFoot,8356,Wolfsburg,Hertha Berlin,3,3,2017-11-05 17:00:00,,Rebound
+167724,88,MissedShots,0.885,0.5,0.040546201169490814,Davie Selke,a,4280,OpenPlay,2017,Head,8356,Wolfsburg,Hertha Berlin,3,3,2017-11-05 17:00:00,Mitchell Weiser,Aerial
+167857,18,SavedShot,0.91,0.48700000762939455,0.060356300324201584,Davie Selke,h,4280,OpenPlay,2017,Head,8360,Hertha Berlin,Borussia M.Gladbach,2,4,2017-11-18 17:30:00,Alexander Esswein,Aerial
+167877,90,SavedShot,0.8580000305175781,0.2520000076293945,0.026725100353360176,Davie Selke,h,4280,OpenPlay,2017,RightFoot,8360,Hertha Berlin,Borussia M.Gladbach,2,4,2017-11-18 17:30:00,Per Skjelbred,Pass
+168334,16,SavedShot,0.8930000305175781,0.495,0.018493199720978737,Davie Selke,a,4280,FromCorner,2017,Head,8369,FC Cologne,Hertha Berlin,0,2,2017-11-26 17:00:00,Marvin Plattenhardt,Aerial
+168337,25,BlockedShot,0.85,0.26799999237060546,0.04591879993677139,Davie Selke,a,4280,OpenPlay,2017,RightFoot,8369,FC Cologne,Hertha Berlin,0,2,2017-11-26 17:00:00,Mitchell Weiser,BallRecovery
+168895,8,SavedShot,0.7780000305175782,0.7230000305175781,0.02184939943253994,Davie Selke,h,4280,OpenPlay,2017,RightFoot,8378,Hertha Berlin,Eintracht Frankfurt,1,2,2017-12-03 14:30:00,Marvin Plattenhardt,Pass
+168896,11,SavedShot,0.97,0.34200000762939453,0.07020360231399536,Davie Selke,h,4280,SetPiece,2017,RightFoot,8378,Hertha Berlin,Eintracht Frankfurt,1,2,2017-12-03 14:30:00,Mitchell Weiser,TakeOn
+168897,12,MissedShots,0.91,0.565,0.019365500658750534,Davie Selke,h,4280,FromCorner,2017,Head,8378,Hertha Berlin,Eintracht Frankfurt,1,2,2017-12-03 14:30:00,Mitchell Weiser,Aerial
+168898,14,Goal,0.9019999694824219,0.40599998474121096,0.4017379879951477,Davie Selke,h,4280,OpenPlay,2017,RightFoot,8378,Hertha Berlin,Eintracht Frankfurt,1,2,2017-12-03 14:30:00,Mathew Leckie,Throughball
+168904,40,MissedShots,0.865999984741211,0.62,0.011669600382447243,Davie Selke,h,4280,FromCorner,2017,Head,8378,Hertha Berlin,Eintracht Frankfurt,1,2,2017-12-03 14:30:00,Mitchell Weiser,Aerial
+183941,8,BlockedShot,0.875999984741211,0.4759999847412109,0.11305499821901321,Davie Selke,h,4280,OpenPlay,2017,RightFoot,8396,Hertha Berlin,Hannover 96,3,1,2017-12-13 19:30:00,Peter Pekarík,Pass
+183945,14,SavedShot,0.7719999694824219,0.6609999847412109,0.07043830305337906,Davie Selke,h,4280,OpenPlay,2017,RightFoot,8396,Hertha Berlin,Hannover 96,3,1,2017-12-13 19:30:00,Salomon Kalou,Chipped
+183963,69,SavedShot,0.89,0.3120000076293945,0.09204070270061493,Davie Selke,h,4280,OpenPlay,2017,RightFoot,8396,Hertha Berlin,Hannover 96,3,1,2017-12-13 19:30:00,Salomon Kalou,Pass
+184162,5,Goal,0.8719999694824219,0.5529999923706055,0.10712099820375443,Davie Selke,a,4280,OpenPlay,2017,RightFoot,8404,RasenBallsport Leipzig,Hertha Berlin,2,3,2017-12-17 17:00:00,Alexander Esswein,Pass
+184173,49,SavedShot,0.86,0.33799999237060546,0.16486899554729462,Davie Selke,a,4280,OpenPlay,2017,RightFoot,8404,RasenBallsport Leipzig,Hertha Berlin,2,3,2017-12-17 17:00:00,Arne Maier,TakeOn
+184175,50,Goal,0.9469999694824218,0.46599998474121096,0.40755900740623474,Davie Selke,a,4280,FromCorner,2017,RightFoot,8404,RasenBallsport Leipzig,Hertha Berlin,2,3,2017-12-17 17:00:00,Valentino Lazaro,Cross
+184179,61,ShotOnPost,0.8519999694824218,0.524000015258789,0.47915199398994446,Davie Selke,a,4280,OpenPlay,2017,RightFoot,8404,RasenBallsport Leipzig,Hertha Berlin,2,3,2017-12-17 17:00:00,Fabian Lustenberger,Chipped
+187329,2,MissedShots,0.9319999694824219,0.46700000762939453,0.08735769987106323,Davie Selke,a,4280,SetPiece,2017,Head,8420,VfB Stuttgart,Hertha Berlin,1,0,2018-01-13 14:30:00,Niklas Stark,HeadPass
+188408,45,Goal,0.919000015258789,0.585,0.3082590103149414,Davie Selke,h,4280,OpenPlay,2017,LeftFoot,8423,Hertha Berlin,Borussia Dortmund,1,1,2018-01-19 19:30:00,Valentino Lazaro,Cross
+194706,5,BlockedShot,0.9530000305175781,0.5840000152587891,0.1327580064535141,Davie Selke,h,4280,OpenPlay,2017,RightFoot,8439,Hertha Berlin,Hoffenheim,1,1,2018-02-03 14:30:00,Valentino Lazaro,Pass
+194728,92,MissedShots,0.9359999847412109,0.634000015258789,0.019394099712371826,Davie Selke,h,4280,OpenPlay,2017,Head,8439,Hertha Berlin,Hoffenheim,1,1,2018-02-03 14:30:00,Marvin Plattenhardt,Aerial
+195109,21,MissedShots,0.865,0.505,0.014146699570119381,Davie Selke,a,4280,OpenPlay,2017,Head,8448,Bayer Leverkusen,Hertha Berlin,0,2,2018-02-10 14:30:00,Peter Pekarík,Aerial
+196163,26,MissedShots,0.894000015258789,0.47200000762939454,0.03819410130381584,Davie Selke,h,4280,OpenPlay,2017,Head,8458,Hertha Berlin,Mainz 05,0,2,2018-02-16 19:30:00,Valentino Lazaro,Aerial
+196170,40,MissedShots,0.815,0.5840000152587891,0.04791349917650223,Davie Selke,h,4280,OpenPlay,2017,RightFoot,8458,Hertha Berlin,Mainz 05,0,2,2018-02-16 19:30:00,Jordan Torunarigha,Chipped
+198688,11,SavedShot,0.8119999694824219,0.45799999237060546,0.059203099459409714,Davie Selke,a,4280,OpenPlay,2017,RightFoot,8479,Schalke 04,Hertha Berlin,1,0,2018-03-03 14:30:00,Arne Maier,Pass
+204537,91,MissedShots,0.875999984741211,0.4779999923706055,0.014338100329041481,Davie Selke,h,4280,SetPiece,2017,Head,8505,Hertha Berlin,Wolfsburg,0,0,2018-03-31 14:30:00,Maximilian Mittelstädt,Aerial
+207326,16,MissedShots,0.8640000152587891,0.6880000305175781,0.04096189886331558,Davie Selke,a,4280,OpenPlay,2017,LeftFoot,8515,Borussia M.Gladbach,Hertha Berlin,2,1,2018-04-07 13:30:00,Vladimir Darida,Pass
+207335,52,MissedShots,0.894000015258789,0.5659999847412109,0.08137959986925125,Davie Selke,a,4280,OpenPlay,2017,Head,8515,Borussia M.Gladbach,Hertha Berlin,2,1,2018-04-07 13:30:00,Mitchell Weiser,Cross
+207337,64,MissedShots,0.8419999694824218,0.5790000152587891,0.16022799909114838,Davie Selke,a,4280,OpenPlay,2017,Head,8515,Borussia M.Gladbach,Hertha Berlin,2,1,2018-04-07 13:30:00,Vladimir Darida,Cross
+207340,72,SavedShot,0.8,0.525,0.0759935975074768,Davie Selke,a,4280,OpenPlay,2017,RightFoot,8515,Borussia M.Gladbach,Hertha Berlin,2,1,2018-04-07 13:30:00,Salomon Kalou,Pass
+208363,34,BlockedShot,0.845999984741211,0.41900001525878905,0.07158099859952927,Davie Selke,h,4280,OpenPlay,2017,RightFoot,8522,Hertha Berlin,FC Cologne,2,1,2018-04-14 13:30:00,Valentino Lazaro,Pass
+208366,48,Goal,0.904000015258789,0.355,0.027333900332450867,Davie Selke,h,4280,OpenPlay,2017,RightFoot,8522,Hertha Berlin,FC Cologne,2,1,2018-04-14 13:30:00,,Aerial
+208367,51,Goal,0.915,0.46599998474121096,0.4939590096473694,Davie Selke,h,4280,OpenPlay,2017,RightFoot,8522,Hertha Berlin,FC Cologne,2,1,2018-04-14 13:30:00,Marvin Plattenhardt,Pass
+208377,78,SavedShot,0.8880000305175781,0.3729999923706055,0.3144400119781494,Davie Selke,h,4280,OpenPlay,2017,RightFoot,8522,Hertha Berlin,FC Cologne,2,1,2018-04-14 13:30:00,Ondrej Duda,Pass
+210347,56,Goal,0.885,0.5,0.7577769756317139,Davie Selke,a,4280,Penalty,2017,RightFoot,8533,Eintracht Frankfurt,Hertha Berlin,0,3,2018-04-21 13:30:00,,Standard
+211574,86,Goal,0.92,0.38,0.40237900614738464,Davie Selke,h,4280,OpenPlay,2017,RightFoot,8540,Hertha Berlin,Augsburg,2,2,2018-04-28 13:30:00,Vedad Ibisevic,TakeOn
+213082,8,MissedShots,0.9180000305175782,0.5540000152587891,0.08191599696874619,Davie Selke,a,4280,OpenPlay,2017,Head,8548,Hannover 96,Hertha Berlin,3,1,2018-05-05 14:30:00,Vladimir Darida,Cross
+213086,25,MissedShots,0.909000015258789,0.47200000762939454,0.08411650359630585,Davie Selke,a,4280,OpenPlay,2017,Head,8548,Hannover 96,Hertha Berlin,3,1,2018-05-05 14:30:00,Mathew Leckie,Cross
+213095,46,BlockedShot,0.899000015258789,0.5359999847412109,0.11737100034952164,Davie Selke,a,4280,OpenPlay,2017,LeftFoot,8548,Hannover 96,Hertha Berlin,3,1,2018-05-05 14:30:00,Mathew Leckie,Pass
+213097,49,ShotOnPost,0.915,0.51,0.0630657970905304,Davie Selke,a,4280,OpenPlay,2017,Head,8548,Hannover 96,Hertha Berlin,3,1,2018-05-05 14:30:00,Peter Pekarík,Aerial
+213102,72,Goal,0.885,0.28299999237060547,0.08014310151338577,Davie Selke,a,4280,OpenPlay,2017,RightFoot,8548,Hannover 96,Hertha Berlin,3,1,2018-05-05 14:30:00,Vladimir Darida,Throughball
+213106,84,MissedShots,0.8930000305175781,0.46700000762939453,0.04849909991025925,Davie Selke,a,4280,OpenPlay,2017,Head,8548,Hannover 96,Hertha Berlin,3,1,2018-05-05 14:30:00,Marvin Plattenhardt,Aerial
+226162,78,SavedShot,0.870999984741211,0.5879999923706055,0.2618260085582733,Davie Selke,a,4280,OpenPlay,2018,RightFoot,10373,Werder Bremen,Hertha Berlin,3,1,2018-09-25 16:30:00,Niklas Stark,Chipped
+226164,85,MissedShots,0.914000015258789,0.6880000305175781,0.05686109885573387,Davie Selke,a,4280,OpenPlay,2018,RightFoot,10373,Werder Bremen,Hertha Berlin,3,1,2018-09-25 16:30:00,Javairo Dilrosun,TakeOn
+227624,94,SavedShot,0.4590000152587891,0.15199999809265136,0.008710339665412903,Davie Selke,h,4280,OpenPlay,2018,RightFoot,10382,Hertha Berlin,Bayern Munich,2,0,2018-09-28 18:30:00,,BallRecovery
+255290,64,MissedShots,0.919000015258789,0.475,0.15894100069999695,Davie Selke,a,4280,FromCorner,2018,Head,10398,Mainz 05,Hertha Berlin,0,0,2018-10-06 13:30:00,Marvin Plattenhardt,Aerial
+255299,91,BlockedShot,0.9230000305175782,0.40900001525878904,0.040077801793813705,Davie Selke,a,4280,OpenPlay,2018,Head,10398,Mainz 05,Hertha Berlin,0,0,2018-10-06 13:30:00,Marvin Plattenhardt,Chipped
+255695,87,SavedShot,0.97,0.605999984741211,0.054798200726509094,Davie Selke,a,4280,OpenPlay,2018,Head,10410,Borussia Dortmund,Hertha Berlin,2,2,2018-10-27 13:30:00,Valentino Lazaro,Cross
+256310,80,SavedShot,0.8830000305175781,0.26600000381469724,0.03671979904174805,Davie Selke,a,4280,OpenPlay,2018,RightFoot,10434,Fortuna Duesseldorf,Hertha Berlin,4,1,2018-11-10 14:30:00,Salomon Kalou,Pass
+256312,87,Goal,0.8630000305175781,0.4540000152587891,0.22404000163078308,Davie Selke,a,4280,OpenPlay,2018,RightFoot,10434,Fortuna Duesseldorf,Hertha Berlin,4,1,2018-11-10 14:30:00,Vladimir Darida,TakeOn
+256488,89,SavedShot,0.8780000305175781,0.28899999618530275,0.0385625995695591,Davie Selke,h,4280,OpenPlay,2018,RightFoot,10440,Hertha Berlin,Hoffenheim,3,3,2018-11-24 14:30:00,Salomon Kalou,Pass
+256748,40,BlockedShot,0.855,0.3659999847412109,0.0696420967578888,Davie Selke,a,4280,OpenPlay,2018,RightFoot,10451,Hannover 96,Hertha Berlin,0,2,2018-12-01 14:30:00,Salomon Kalou,Pass
+256751,50,SavedShot,0.7380000305175781,0.45599998474121095,0.028048599138855934,Davie Selke,a,4280,OpenPlay,2018,RightFoot,10451,Hannover 96,Hertha Berlin,0,2,2018-12-01 14:30:00,Marko Grujic,Pass
+256757,72,BlockedShot,0.92,0.39,0.07434249669313431,Davie Selke,a,4280,SetPiece,2018,RightFoot,10451,Hannover 96,Hertha Berlin,0,2,2018-12-01 14:30:00,,None
+257144,30,MissedShots,0.919000015258789,0.3920000076293945,0.03482609987258911,Davie Selke,h,4280,FromCorner,2018,Head,10458,Hertha Berlin,Eintracht Frankfurt,1,0,2018-12-08 17:30:00,Valentino Lazaro,Cross
+257151,52,SavedShot,0.91,0.3089999961853027,0.06728900223970413,Davie Selke,h,4280,OpenPlay,2018,RightFoot,10458,Hertha Berlin,Eintracht Frankfurt,1,0,2018-12-08 17:30:00,Marko Grujic,Pass
+256894,30,BlockedShot,0.865,0.7319999694824219,0.03175349906086922,Davie Selke,a,4280,OpenPlay,2018,RightFoot,10466,VfB Stuttgart,Hertha Berlin,2,1,2018-12-15 14:30:00,Per Skjelbred,Pass
+256907,87,SavedShot,0.919000015258789,0.515,0.05163149908185005,Davie Selke,a,4280,OpenPlay,2018,Head,10466,VfB Stuttgart,Hertha Berlin,2,1,2018-12-15 14:30:00,Maximilian Mittelstädt,Aerial
+256911,91,MissedShots,0.9319999694824219,0.67,0.0585751011967659,Davie Selke,a,4280,OpenPlay,2018,LeftFoot,10466,VfB Stuttgart,Hertha Berlin,2,1,2018-12-15 14:30:00,Maximilian Mittelstädt,Pass
+257455,2,MissedShots,0.9330000305175781,0.43099998474121093,0.11018899828195572,Davie Selke,h,4280,OpenPlay,2018,RightFoot,10480,Hertha Berlin,Augsburg,2,2,2018-12-18 19:30:00,Mathew Leckie,Cross
+257459,10,MissedShots,0.915,0.425,0.03273959830403328,Davie Selke,h,4280,OpenPlay,2018,Head,10480,Hertha Berlin,Augsburg,2,2,2018-12-18 19:30:00,Marvin Plattenhardt,Aerial
+257472,52,SavedShot,0.9490000152587891,0.33799999237060546,0.06356050074100494,Davie Selke,h,4280,OpenPlay,2018,RightFoot,10480,Hertha Berlin,Augsburg,2,2,2018-12-18 19:30:00,,None
+257473,54,MissedShots,0.8680000305175781,0.23700000762939452,0.027042200788855553,Davie Selke,h,4280,OpenPlay,2018,RightFoot,10480,Hertha Berlin,Augsburg,2,2,2018-12-18 19:30:00,Mathew Leckie,BallRecovery
+257474,61,BlockedShot,0.855999984741211,0.40400001525878904,0.06526350229978561,Davie Selke,h,4280,OpenPlay,2018,RightFoot,10480,Hertha Berlin,Augsburg,2,2,2018-12-18 19:30:00,,None
+257887,17,SavedShot,0.9269999694824219,0.5979999923706054,0.05923699960112572,Davie Selke,a,4280,OpenPlay,2018,LeftFoot,10484,Bayer Leverkusen,Hertha Berlin,3,1,2018-12-22 14:30:00,Maximilian Mittelstädt,Foul
+257902,58,SavedShot,0.740999984741211,0.575,0.012112599797546864,Davie Selke,a,4280,OpenPlay,2018,RightFoot,10484,Bayer Leverkusen,Hertha Berlin,3,1,2018-12-22 14:30:00,Valentino Lazaro,Chipped
+257909,80,SavedShot,0.88,0.39599998474121095,0.2888540029525757,Davie Selke,a,4280,OpenPlay,2018,RightFoot,10484,Bayer Leverkusen,Hertha Berlin,3,1,2018-12-22 14:30:00,Vedad Ibisevic,Throughball
+278475,80,ShotOnPost,0.8680000305175781,0.5029999923706054,0.4469430148601532,Davie Selke,a,4280,OpenPlay,2018,RightFoot,10495,Nuernberg,Hertha Berlin,1,3,2019-01-20 14:30:00,Arne Maier,TakeOn
+278477,83,SavedShot,0.879000015258789,0.3120000076293945,0.10275500267744064,Davie Selke,a,4280,OpenPlay,2018,RightFoot,10495,Nuernberg,Hertha Berlin,1,3,2019-01-20 14:30:00,Vladimir Darida,Pass
+278512,4,BlockedShot,0.899000015258789,0.6869999694824219,0.048944201320409775,Davie Selke,h,4280,OpenPlay,2018,RightFoot,10502,Hertha Berlin,Schalke 04,2,2,2019-01-25 19:30:00,Karim Rekik,Chipped
+278515,22,BlockedShot,0.94,0.629000015258789,0.019351499155163765,Davie Selke,h,4280,OpenPlay,2018,Head,10502,Hertha Berlin,Schalke 04,2,2,2019-01-25 19:30:00,Marvin Plattenhardt,Aerial
+278527,60,SavedShot,0.91,0.6630000305175782,0.11727000027894974,Davie Selke,h,4280,OpenPlay,2018,LeftFoot,10502,Hertha Berlin,Schalke 04,2,2,2019-01-25 19:30:00,Marko Grujic,Throughball
+278836,27,SavedShot,0.9159999847412109,0.45099998474121095,0.05353210121393204,Davie Selke,h,4280,OpenPlay,2018,Head,10511,Hertha Berlin,Wolfsburg,0,1,2019-02-02 14:30:00,Arne Maier,Aerial
+278848,88,MissedShots,0.9380000305175781,0.669000015258789,0.3049030005931854,Davie Selke,h,4280,OpenPlay,2018,LeftFoot,10511,Hertha Berlin,Wolfsburg,0,1,2019-02-02 14:30:00,Salomon Kalou,Throughball
+281099,75,Goal,0.9280000305175782,0.5309999847412109,0.42603799700737,Davie Selke,a,4280,SetPiece,2018,Head,10520,Borussia M.Gladbach,Hertha Berlin,0,3,2019-02-09 14:30:00,Ondrej Duda,Cross
+279274,20,ShotOnPost,0.855,0.3629999923706055,0.28866899013519287,Davie Selke,h,4280,OpenPlay,2018,RightFoot,10530,Hertha Berlin,Werder Bremen,1,1,2019-02-16 17:30:00,Salomon Kalou,Chipped
+279276,24,Goal,0.925,0.345,0.32701700925827026,Davie Selke,h,4280,OpenPlay,2018,RightFoot,10530,Hertha Berlin,Werder Bremen,1,1,2019-02-16 17:30:00,Salomon Kalou,Pass
+279287,59,SavedShot,0.9230000305175782,0.49599998474121093,0.05435600131750107,Davie Selke,h,4280,FromCorner,2018,Head,10530,Hertha Berlin,Werder Bremen,1,1,2019-02-16 17:30:00,Valentino Lazaro,Aerial
+279404,1,BlockedShot,0.95,0.6120000076293945,0.03593580052256584,Davie Selke,a,4280,SetPiece,2018,Head,10535,Bayern Munich,Hertha Berlin,1,0,2019-02-23 14:30:00,Ondrej Duda,TakeOn
+279414,55,BlockedShot,0.9169999694824219,0.33599998474121096,0.07701709866523743,Davie Selke,a,4280,OpenPlay,2018,RightFoot,10535,Bayern Munich,Hertha Berlin,1,0,2019-02-23 14:30:00,Ondrej Duda,Pass
+279423,88,MissedShots,0.9019999694824219,0.5929999923706055,0.019321899861097336,Davie Selke,a,4280,OpenPlay,2018,Head,10535,Bayern Munich,Hertha Berlin,1,0,2019-02-23 14:30:00,Niklas Stark,Aerial
+281840,49,SavedShot,0.9359999847412109,0.5590000152587891,0.10694500058889389,Davie Selke,h,4280,FromCorner,2018,Head,10549,Hertha Berlin,Mainz 05,2,1,2019-03-02 14:30:00,Ondrej Duda,Cross
+287787,86,MissedShots,0.9530000305175781,0.5320000076293945,0.6264839768409729,Davie Selke,a,4280,OpenPlay,2018,RightFoot,10573,RasenBallsport Leipzig,Hertha Berlin,5,0,2019-03-30 17:30:00,Marko Grujic,Pass
+296078,79,BlockedShot,0.9,0.38,0.09947170317173004,Davie Selke,h,4280,OpenPlay,2018,RightFoot,10603,Hertha Berlin,Hannover 96,0,0,2019-04-21 17:00:00,Ondrej Duda,Pass
+299191,73,MissedShots,0.8909999847412109,0.5209999847412109,0.01756799966096878,Davie Selke,h,4280,FromCorner,2018,Head,10620,Hertha Berlin,VfB Stuttgart,3,1,2019-05-04 14:30:00,Ondrej Duda,Aerial
+300693,82,MissedShots,0.9019999694824219,0.475,0.26370200514793396,Davie Selke,a,4280,FromCorner,2018,Head,10631,Augsburg,Hertha Berlin,3,4,2019-05-11 14:30:00,Valentino Lazaro,Cross
+300695,87,MissedShots,0.9059999847412109,0.40099998474121096,0.04702189937233925,Davie Selke,a,4280,SetPiece,2018,Head,10631,Augsburg,Hertha Berlin,3,4,2019-05-11 14:30:00,Marvin Plattenhardt,Chipped
+315630,72,BlockedShot,0.9369999694824219,0.3609999847412109,0.08599100261926651,Davie Selke,a,4280,OpenPlay,2019,RightFoot,12424,Schalke 04,Hertha Berlin,3,0,2019-08-31 14:30:00,Vladimir Darida,Throughball
+317214,15,ShotOnPost,0.9169999694824219,0.6940000152587891,0.04513910040259361,Davie Selke,a,4280,OpenPlay,2019,LeftFoot,12431,Mainz 05,Hertha Berlin,2,1,2019-09-14 13:30:00,Marvin Plattenhardt,Chipped
+317216,20,SavedShot,0.8909999847412109,0.5329999923706055,0.4312410056591034,Davie Selke,a,4280,OpenPlay,2019,RightFoot,12431,Mainz 05,Hertha Berlin,2,1,2019-09-14 13:30:00,Dodi Lukebakio,Pass
+317230,54,MissedShots,0.9019999694824219,0.500999984741211,0.09574300050735474,Davie Selke,a,4280,OpenPlay,2019,Head,12431,Mainz 05,Hertha Berlin,2,1,2019-09-14 13:30:00,Marius Wolf,Cross
+317236,90,MissedShots,0.909000015258789,0.51,0.08541890233755112,Davie Selke,a,4280,FromCorner,2019,Head,12431,Mainz 05,Hertha Berlin,2,1,2019-09-14 13:30:00,Marvin Plattenhardt,Cross
+323759,77,MissedShots,0.9030000305175782,0.649000015258789,0.09192690253257751,Davie Selke,h,4280,OpenPlay,2019,LeftFoot,12459,Hertha Berlin,Fortuna Duesseldorf,3,1,2019-10-04 19:30:00,Maximilian Mittelstädt,Pass
+323760,83,BlockedShot,0.8209999847412109,0.5179999923706055,0.07542259991168976,Davie Selke,h,4280,OpenPlay,2019,RightFoot,12459,Hertha Berlin,Fortuna Duesseldorf,3,1,2019-10-04 19:30:00,Dodi Lukebakio,BallRecovery
+330580,91,Goal,0.8530000305175781,0.5729999923706055,0.06783980131149292,Davie Selke,h,4280,OpenPlay,2019,RightFoot,12494,Hertha Berlin,RasenBallsport Leipzig,2,4,2019-11-09 14:30:00,,Dispossessed
+332947,45,MissedShots,0.915,0.555,0.2749269902706146,Davie Selke,a,4280,OpenPlay,2019,Head,12510,Augsburg,Hertha Berlin,4,0,2019-11-24 14:30:00,Marius Wolf,Cross
+332951,56,MissedShots,0.919000015258789,0.41,0.04225879907608032,Davie Selke,a,4280,OpenPlay,2019,Head,12510,Augsburg,Hertha Berlin,4,0,2019-11-24 14:30:00,Maximilian Mittelstädt,Aerial
+333508,20,MissedShots,0.7609999847412109,0.5370000076293945,0.022969599813222885,Davie Selke,h,4280,OpenPlay,2019,RightFoot,12513,Hertha Berlin,Borussia Dortmund,1,2,2019-11-30 14:30:00,Niklas Stark,BallRecovery
+333515,45,BlockedShot,0.9019999694824219,0.4779999923706055,0.11699000000953674,Davie Selke,h,4280,OpenPlay,2019,RightFoot,12513,Hertha Berlin,Borussia Dortmund,1,2,2019-11-30 14:30:00,Dodi Lukebakio,Pass
+335308,67,MissedShots,0.899000015258789,0.555,0.09923849999904633,Davie Selke,a,4280,OpenPlay,2019,LeftFoot,12524,Eintracht Frankfurt,Hertha Berlin,2,2,2019-12-06 19:30:00,Marvin Plattenhardt,Cross
+336922,36,MissedShots,0.95,0.5879999923706055,0.3149699866771698,Davie Selke,h,4280,OpenPlay,2019,LeftFoot,12533,Hertha Berlin,Freiburg,1,0,2019-12-14 14:30:00,Lukas Klünter,Cross
+338066,20,SavedShot,0.9330000305175781,0.3529999923706055,0.11111299693584442,Davie Selke,a,4280,OpenPlay,2019,RightFoot,12539,Bayer Leverkusen,Hertha Berlin,0,1,2019-12-18 17:30:00,Lukas Klünter,Pass
+355242,20,MissedShots,0.8930000305175781,0.52,0.08937390148639679,Davie Selke,h,4280,OpenPlay,2019,Head,12559,Hertha Berlin,Bayern Munich,0,4,2020-01-19 14:30:00,Marvin Plattenhardt,Cross
+355244,25,MissedShots,0.8919999694824219,0.4759999847412109,0.038615498691797256,Davie Selke,h,4280,OpenPlay,2019,Head,12559,Hertha Berlin,Bayern Munich,0,4,2020-01-19 14:30:00,Lukas Klünter,Aerial
+355249,42,BlockedShot,0.795,0.4540000152587891,0.03685479983687401,Davie Selke,h,4280,OpenPlay,2019,RightFoot,12559,Hertha Berlin,Bayern Munich,0,4,2020-01-19 14:30:00,Dodi Lukebakio,Pass
+355260,66,MissedShots,0.7809999847412109,0.4279999923706055,0.047690499573946,Davie Selke,h,4280,OpenPlay,2019,RightFoot,12559,Hertha Berlin,Bayern Munich,0,4,2020-01-19 14:30:00,Javairo Dilrosun,Pass
+356677,22,SavedShot,0.9119999694824219,0.49900001525878906,0.3438499867916107,Davie Selke,a,4280,OpenPlay,2019,RightFoot,12580,Augsburg,Werder Bremen,2,1,2020-02-01 14:30:00,Nuri Sahin,Chipped
+356680,34,MissedShots,0.8919999694824219,0.6270000076293946,0.06836780160665512,Davie Selke,a,4280,OpenPlay,2019,LeftFoot,12580,Augsburg,Werder Bremen,2,1,2020-02-01 14:30:00,Leonardo Bittencourt,Cross
+357935,9,BlockedShot,0.8669999694824219,0.46299999237060546,0.11610899865627289,Davie Selke,h,4280,OpenPlay,2019,LeftFoot,12588,Werder Bremen,Union Berlin,0,2,2020-02-08 14:30:00,Maximilian Eggestein,TakeOn
+357946,58,SavedShot,0.9490000152587891,0.3160000038146973,0.056936200708150864,Davie Selke,h,4280,OpenPlay,2019,RightFoot,12588,Werder Bremen,Union Berlin,0,2,2020-02-08 14:30:00,Maximilian Eggestein,HeadPass
+357950,67,MissedShots,0.9440000152587891,0.33,0.06013450026512146,Davie Selke,h,4280,OpenPlay,2019,RightFoot,12588,Werder Bremen,Union Berlin,0,2,2020-02-08 14:30:00,Yuya Osako,HeadPass
+359812,1,BlockedShot,0.8619999694824219,0.629000015258789,0.07703900337219238,Davie Selke,h,4280,OpenPlay,2019,RightFoot,12606,Werder Bremen,Borussia Dortmund,0,2,2020-02-22 14:30:00,Ludwig Augustinsson,Pass
+363091,16,BlockedShot,0.874000015258789,0.5609999847412109,0.020244000479578972,Davie Selke,h,4280,OpenPlay,2019,Head,12631,Werder Bremen,Bayer Leverkusen,1,4,2020-05-18 18:30:00,Milot Rashica,Aerial
+363385,88,SavedShot,0.9230000305175782,0.5479999923706055,0.0663904994726181,Davie Selke,h,4280,OpenPlay,2019,Head,12647,Werder Bremen,Borussia M.Gladbach,0,0,2020-05-26 18:30:00,Leonardo Bittencourt,Aerial
+363386,88,SavedShot,0.9009999847412109,0.6309999847412109,0.307904988527298,Davie Selke,h,4280,OpenPlay,2019,RightFoot,12647,Werder Bremen,Borussia M.Gladbach,0,0,2020-05-26 18:30:00,Davy Klaassen,Pass
+363675,83,BlockedShot,0.8980000305175782,0.2989999961853027,0.05929800122976303,Davie Selke,a,4280,OpenPlay,2019,RightFoot,12661,Schalke 04,Werder Bremen,0,1,2020-05-30 13:30:00,Davy Klaassen,Pass
+363787,22,SavedShot,0.8730000305175781,0.3,0.043266501277685165,Davie Selke,h,4280,OpenPlay,2019,RightFoot,12612,Werder Bremen,Eintracht Frankfurt,0,3,2020-06-03 18:30:00,,None
+364275,82,MissedShots,0.909000015258789,0.504000015258789,0.11287599802017212,Davie Selke,a,4280,OpenPlay,2019,Head,12681,Paderborn,Werder Bremen,1,5,2020-06-13 13:30:00,Davy Klaassen,Cross
+377413,38,SavedShot,0.7119999694824218,0.3729999923706055,0.013058500364422798,Davie Selke,h,4280,OpenPlay,2020,RightFoot,14177,Werder Bremen,Hertha Berlin,1,4,2020-09-19 13:30:00,Tahith Chong,BallTouch
+377421,68,Goal,0.9540000152587891,0.42700000762939455,0.07855380326509476,Davie Selke,h,4280,OpenPlay,2020,Head,14177,Werder Bremen,Hertha Berlin,1,4,2020-09-19 13:30:00,Ludwig Augustinsson,Aerial
+377435,92,BlockedShot,0.850999984741211,0.3820000076293945,0.04776639863848686,Davie Selke,h,4280,OpenPlay,2020,RightFoot,14177,Werder Bremen,Hertha Berlin,1,4,2020-09-19 13:30:00,,None
+390836,92,Goal,0.9569999694824218,0.43900001525878907,0.09370280057191849,Davie Selke,h,4280,OpenPlay,2020,Head,15228,Werder Bremen,VfB Stuttgart,1,2,2020-12-06 14:30:00,,Aerial
+396339,50,MissedShots,0.89,0.7169999694824218,0.0327581986784935,Davie Selke,h,4280,OpenPlay,2020,LeftFoot,15263,Werder Bremen,Union Berlin,0,2,2021-01-02 14:30:00,Marco Friedl,Chipped
+396343,66,SavedShot,0.9530000305175781,0.5259999847412109,0.580623984336853,Davie Selke,h,4280,FromCorner,2020,LeftFoot,15263,Werder Bremen,Union Berlin,0,2,2021-01-02 14:30:00,,None
+396344,68,MissedShots,0.8969999694824219,0.425,0.016151700168848038,Davie Selke,h,4280,SetPiece,2020,Head,15263,Werder Bremen,Union Berlin,0,2,2021-01-02 14:30:00,Ludwig Augustinsson,Aerial
+396346,71,BlockedShot,0.870999984741211,0.43400001525878906,0.07726749777793884,Davie Selke,h,4280,OpenPlay,2020,LeftFoot,15263,Werder Bremen,Union Berlin,0,2,2021-01-02 14:30:00,Romano Schmid,CornerAwarded
+396349,80,MissedShots,0.855999984741211,0.5629999923706055,0.015920400619506836,Davie Selke,h,4280,OpenPlay,2020,Head,15263,Werder Bremen,Union Berlin,0,2,2021-01-02 14:30:00,Tahith Chong,Cross
+399685,90,BlockedShot,0.7980000305175782,0.4909999847412109,0.04881390184164047,Davie Selke,a,4280,OpenPlay,2020,RightFoot,15285,Borussia M.Gladbach,Werder Bremen,1,0,2021-01-19 17:30:00,Theodor Gebre Selassie,Pass
+399686,91,SavedShot,0.879000015258789,0.580999984741211,0.015652600675821304,Davie Selke,a,4280,OpenPlay,2020,Head,15285,Borussia M.Gladbach,Werder Bremen,1,0,2021-01-19 17:30:00,Theodor Gebre Selassie,Aerial
+400564,9,Goal,0.885,0.5,0.7576959729194641,Davie Selke,a,4280,Penalty,2020,RightFoot,15297,Hertha Berlin,Werder Bremen,1,4,2021-01-23 17:30:00,,Standard
+411332,82,MissedShots,0.9169999694824219,0.3970000076293945,0.30935800075531006,Davie Selke,h,4280,OpenPlay,2020,Head,15372,Werder Bremen,Wolfsburg,1,2,2021-03-20 14:30:00,,Aerial
+411337,93,SavedShot,0.8530000305175781,0.3370000076293945,0.044069599360227585,Davie Selke,h,4280,OpenPlay,2020,LeftFoot,15372,Werder Bremen,Wolfsburg,1,2,2021-03-20 14:30:00,,None
+413787,25,BlockedShot,0.905,0.34400001525878904,0.07192040234804153,Davie Selke,h,4280,OpenPlay,2020,RightFoot,15389,Werder Bremen,RasenBallsport Leipzig,1,4,2021-04-10 13:30:00,Eren Sami Dinkci,Pass
+413788,26,MissedShots,0.9719999694824218,0.47299999237060547,0.11280299723148346,Davie Selke,h,4280,FromCorner,2020,Head,15389,Werder Bremen,RasenBallsport Leipzig,1,4,2021-04-10 13:30:00,Marco Friedl,Aerial
+413790,35,MissedShots,0.860999984741211,0.2670000076293945,0.03167390078306198,Davie Selke,h,4280,OpenPlay,2020,RightFoot,15389,Werder Bremen,RasenBallsport Leipzig,1,4,2021-04-10 13:30:00,Eren Sami Dinkci,Pass
+413798,69,MissedShots,0.764000015258789,0.615,0.06624040007591248,Davie Selke,h,4280,OpenPlay,2020,RightFoot,15389,Werder Bremen,RasenBallsport Leipzig,1,4,2021-04-10 13:30:00,Romano Schmid,Chipped
+415858,78,MissedShots,0.9680000305175781,0.5790000152587891,0.06439019739627838,Davie Selke,a,4280,OpenPlay,2020,Head,15392,Borussia Dortmund,Werder Bremen,4,1,2021-04-18 13:30:00,,Aerial
+416514,94,BlockedShot,0.8730000305175781,0.42400001525878905,0.012660199776291847,Davie Selke,h,4280,FromCorner,2020,Head,15407,Werder Bremen,Mainz 05,0,1,2021-04-21 18:30:00,Ludwig Augustinsson,Aerial
+417124,68,MissedShots,0.885,0.544000015258789,0.06292779743671417,Davie Selke,a,4280,OpenPlay,2020,Head,15415,Union Berlin,Werder Bremen,3,1,2021-04-24 13:30:00,Ludwig Augustinsson,Cross
+417128,81,SavedShot,0.915,0.515,0.12724800407886505,Davie Selke,a,4280,OpenPlay,2020,Head,15415,Union Berlin,Werder Bremen,3,1,2021-04-24 13:30:00,Milot Rashica,Cross
+419958,46,SavedShot,0.889000015258789,0.27700000762939453,0.05880570039153099,Davie Selke,h,4280,OpenPlay,2020,RightFoot,15426,Werder Bremen,Bayer Leverkusen,0,0,2021-05-08 13:30:00,Niclas Füllkrug,Pass
+421928,20,MissedShots,0.850999984741211,0.425,0.013238999992609024,Davie Selke,a,4280,FromCorner,2020,Head,15435,Augsburg,Werder Bremen,2,0,2021-05-15 13:30:00,Ludwig Augustinsson,Cross
+421931,34,SavedShot,0.8780000305175781,0.4640000152587891,0.034052301198244095,Davie Selke,a,4280,FromCorner,2020,Head,15435,Augsburg,Werder Bremen,2,0,2021-05-15 13:30:00,Ludwig Augustinsson,Cross
+423453,18,SavedShot,0.9619999694824218,0.47400001525878904,0.4635010063648224,Davie Selke,h,4280,OpenPlay,2020,RightFoot,15444,Werder Bremen,Borussia M.Gladbach,2,4,2021-05-22 13:30:00,,Tackle
+423452,18,SavedShot,0.9,0.4540000152587891,0.4575980007648468,Davie Selke,h,4280,OpenPlay,2020,RightFoot,15444,Werder Bremen,Borussia M.Gladbach,2,4,2021-05-22 13:30:00,Joshua Sargent,Pass
+423458,32,SavedShot,0.960999984741211,0.6120000076293945,0.05369219928979874,Davie Selke,h,4280,OpenPlay,2020,Head,15444,Werder Bremen,Borussia M.Gladbach,2,4,2021-05-22 13:30:00,Jean-Manuel Mbom,Cross
+426915,3,SavedShot,0.965,0.6359999847412109,0.013228300027549267,Davie Selke,h,4280,OpenPlay,2021,Head,17528,Hertha Berlin,Wolfsburg,1,2,2021-08-21 13:30:00,Marvin Plattenhardt,Aerial
+428882,1,SavedShot,0.7619999694824219,0.669000015258789,0.25798100233078003,Davie Selke,a,4280,OpenPlay,2021,LeftFoot,17540,Bayern Munich,Hertha Berlin,5,0,2021-08-28 16:30:00,,BallRecovery
+428883,4,MissedShots,0.9690000152587891,0.34299999237060547,0.060138899832963943,Davie Selke,a,4280,OpenPlay,2021,RightFoot,17540,Bayern Munich,Hertha Berlin,5,0,2021-08-28 16:30:00,Lucas Tousart,Chipped
+428889,28,MissedShots,0.9319999694824219,0.5309999847412109,0.0597010999917984,Davie Selke,a,4280,FromCorner,2021,Head,17540,Bayern Munich,Hertha Berlin,5,0,2021-08-28 16:30:00,Dodi Lukebakio,Aerial
+430965,75,MissedShots,0.9069999694824219,0.40700000762939453,0.0379066988825798,Davie Selke,h,4280,FromCorner,2021,Head,17552,Hertha Berlin,Greuther Fuerth,2,1,2021-09-17 18:30:00,Marco Richter,Cross
+430966,77,SavedShot,0.9780000305175781,0.315,0.26134198904037476,Davie Selke,h,4280,SetPiece,2021,RightFoot,17552,Hertha Berlin,Greuther Fuerth,2,1,2021-09-17 18:30:00,Marco Richter,Chipped
+443999,84,MissedShots,0.9640000152587891,0.52,0.6231769919395447,Davie Selke,h,4280,OpenPlay,2021,RightFoot,17627,Hertha Berlin,Augsburg,1,1,2021-11-27 14:30:00,Dennis Jastrzembski,Cross
+447562,90,BlockedShot,0.9540000152587891,0.4420000076293945,0.1405639946460724,Davie Selke,h,4280,OpenPlay,2021,RightFoot,17645,Hertha Berlin,Arminia Bielefeld,2,0,2021-12-11 14:30:00,Lucas Tousart,Cross
+447564,94,Goal,0.7969999694824219,0.6659999847412109,0.04109190031886101,Davie Selke,h,4280,OpenPlay,2021,RightFoot,17645,Hertha Berlin,Arminia Bielefeld,2,0,2021-12-11 14:30:00,,BallRecovery
+448850,35,MissedShots,0.905,0.47299999237060547,0.17113099992275238,Davie Selke,a,4280,OpenPlay,2021,Head,17653,Mainz 05,Hertha Berlin,4,0,2021-12-14 19:30:00,Marvin Plattenhardt,Cross
+448853,42,SavedShot,0.9159999847412109,0.5209999847412109,0.05920549854636192,Davie Selke,a,4280,SetPiece,2021,Head,17653,Mainz 05,Hertha Berlin,4,0,2021-12-14 19:30:00,Marvin Plattenhardt,Aerial
+452534,40,MissedShots,0.9580000305175781,0.4540000152587891,0.08104919642210007,Davie Selke,h,4280,FromCorner,2021,Head,17671,Hertha Berlin,FC Cologne,1,3,2022-01-09 14:30:00,Maximilian Mittelstädt,Aerial
+456944,93,BlockedShot,0.92,0.4179999923706055,0.03356479853391647,Davie Selke,a,4280,OpenPlay,2021,Head,17705,Greuther Fuerth,Hertha Berlin,2,1,2022-02-12 14:30:00,Maximilian Mittelstädt,End
+461000,60,Goal,0.830999984741211,0.6409999847412109,0.03576520085334778,Davie Selke,h,4280,OpenPlay,2021,RightFoot,17735,Hertha Berlin,Eintracht Frankfurt,1,4,2022-03-05 14:30:00,,None
+461008,84,MissedShots,0.98,0.325,0.020997999235987663,Davie Selke,h,4280,OpenPlay,2021,RightFoot,17735,Hertha Berlin,Eintracht Frankfurt,1,4,2022-03-05 14:30:00,Maximilian Mittelstädt,Cross
+462704,46,BlockedShot,0.86,0.45299999237060545,0.08877480030059814,Davie Selke,a,4280,OpenPlay,2021,RightFoot,17745,Borussia M.Gladbach,Hertha Berlin,2,0,2022-03-12 17:30:00,Suat Serdar,Pass
+462713,65,MissedShots,0.759000015258789,0.40599998474121096,0.01556050032377243,Davie Selke,a,4280,OpenPlay,2021,RightFoot,17745,Borussia M.Gladbach,Hertha Berlin,2,0,2022-03-12 17:30:00,,None
+468095,20,MissedShots,0.935,0.49,0.477512001991272,Davie Selke,a,4280,OpenPlay,2021,RightFoot,17778,Augsburg,Hertha Berlin,0,1,2022-04-16 13:30:00,Marvin Plattenhardt,Cross
+468111,71,MissedShots,0.774000015258789,0.525,0.12664900720119476,Davie Selke,a,4280,OpenPlay,2021,RightFoot,17778,Augsburg,Hertha Berlin,0,1,2022-04-16 13:30:00,Suat Serdar,TakeOn
+470735,3,Goal,0.9169999694824219,0.48200000762939454,0.37095901370048523,Davie Selke,h,4280,OpenPlay,2021,RightFoot,17789,Hertha Berlin,VfB Stuttgart,2,0,2022-04-24 15:30:00,Marvin Plattenhardt,Cross
+471480,22,SavedShot,0.965999984741211,0.48700000762939455,0.6286450028419495,Davie Selke,a,4280,OpenPlay,2021,Head,17795,Arminia Bielefeld,Hertha Berlin,1,1,2022-04-30 13:30:00,Marvin Plattenhardt,Cross
+471481,23,SavedShot,0.92,0.3529999923706055,0.09072670340538025,Davie Selke,a,4280,OpenPlay,2021,RightFoot,17795,Arminia Bielefeld,Hertha Berlin,1,1,2022-04-30 13:30:00,Peter Pekarík,Pass
+474824,2,BlockedShot,0.875,0.5629999923706055,0.07323279976844788,Davie Selke,h,4280,FromCorner,2021,RightFoot,17807,Hertha Berlin,Mainz 05,1,2,2022-05-07 16:30:00,,None
+474826,4,MissedShots,0.8019999694824219,0.57,0.04795769974589348,Davie Selke,h,4280,OpenPlay,2021,RightFoot,17807,Hertha Berlin,Mainz 05,1,2,2022-05-07 16:30:00,Kevin-Prince Boateng,BallTouch
+474834,49,Goal,0.885,0.5,0.7577769756317139,Davie Selke,h,4280,Penalty,2021,RightFoot,17807,Hertha Berlin,Mainz 05,1,2,2022-05-07 16:30:00,,Standard
+490850,76,SavedShot,0.6980000305175781,0.5990000152587891,0.012203999795019627,Davie Selke,h,4280,OpenPlay,2022,RightFoot,19411,Hertha Berlin,Hoffenheim,1,1,2022-10-02 13:30:00,,BallRecovery
+493242,85,SavedShot,0.84,0.549000015258789,0.05645940080285072,Davie Selke,a,4280,OpenPlay,2022,RightFoot,19424,RasenBallsport Leipzig,Hertha Berlin,3,2,2022-10-15 16:30:00,,None
+497919,10,SavedShot,0.919000015258789,0.5570000076293945,0.10302600264549255,Davie Selke,h,4280,OpenPlay,2022,LeftFoot,19455,Hertha Berlin,Bayern Munich,2,3,2022-11-05 14:30:00,Marvin Plattenhardt,Cross
+497923,27,MissedShots,0.915,0.5790000152587891,0.055925700813531876,Davie Selke,h,4280,FromCorner,2022,Head,19455,Hertha Berlin,Bayern Munich,2,3,2022-11-05 14:30:00,Dodi Lukebakio,Cross
+497930,44,Goal,0.885,0.5,0.7577769756317139,Davie Selke,h,4280,Penalty,2022,RightFoot,19455,Hertha Berlin,Bayern Munich,2,3,2022-11-05 14:30:00,,Standard
+499203,37,MissedShots,0.9540000152587891,0.5429999923706055,0.09422019869089127,Davie Selke,a,4280,FromCorner,2022,Head,19466,VfB Stuttgart,Hertha Berlin,2,1,2022-11-08 19:30:00,,Aerial
+510779,39,BlockedShot,0.895,0.42200000762939455,0.01414019986987114,Davie Selke,h,4280,FromCorner,2022,Head,19534,FC Cologne,Wolfsburg,0,2,2023-02-25 14:30:00,Linton Maina,Aerial
+510782,48,SavedShot,0.8030000305175782,0.6880000305175781,0.02641420066356659,Davie Selke,h,4280,OpenPlay,2022,RightFoot,19534,FC Cologne,Wolfsburg,0,2,2023-02-25 14:30:00,Dejan Ljubicic,Pass
+510789,88,SavedShot,0.945,0.44599998474121094,0.3015109896659851,Davie Selke,h,4280,OpenPlay,2022,RightFoot,19534,FC Cologne,Wolfsburg,0,2,2023-02-25 14:30:00,Tim Lemperle,Chipped
+510791,89,BlockedShot,0.8769999694824219,0.4879999923706055,0.033757299184799194,Davie Selke,h,4280,OpenPlay,2022,Head,19534,FC Cologne,Wolfsburg,0,2,2023-02-25 14:30:00,Ellyes Skhiri,Aerial
+513125,0,MissedShots,0.895,0.5109999847412109,0.04050860181450844,Davie Selke,h,4280,OpenPlay,2022,Head,19552,FC Cologne,Bochum,0,2,2023-03-10 19:30:00,Benno Schmitz,Aerial
+513129,28,SavedShot,0.8969999694824219,0.4370000076293945,0.026841700077056885,Davie Selke,h,4280,OpenPlay,2022,Head,19552,FC Cologne,Bochum,0,2,2023-03-10 19:30:00,Dejan Ljubicic,Aerial
+513131,40,SavedShot,0.9280000305175782,0.46,0.05791439861059189,Davie Selke,h,4280,OpenPlay,2022,Head,19552,FC Cologne,Bochum,0,2,2023-03-10 19:30:00,Benno Schmitz,Aerial
+513133,47,BlockedShot,0.799000015258789,0.4859999847412109,0.03642740100622177,Davie Selke,h,4280,OpenPlay,2022,RightFoot,19552,FC Cologne,Bochum,0,2,2023-03-10 19:30:00,Ellyes Skhiri,Pass
+513134,51,MissedShots,0.9230000305175782,0.5520000076293945,0.091115802526474,Davie Selke,h,4280,FromCorner,2022,Head,19552,FC Cologne,Bochum,0,2,2023-03-10 19:30:00,Florian Kainz,Cross
+513137,60,BlockedShot,0.874000015258789,0.5820000076293945,0.012484200298786163,Davie Selke,h,4280,FromCorner,2022,Head,19552,FC Cologne,Bochum,0,2,2023-03-10 19:30:00,Florian Kainz,Aerial
+515243,38,BlockedShot,0.815,0.504000015258789,0.025648999959230423,Davie Selke,a,4280,OpenPlay,2022,RightFoot,19558,Borussia Dortmund,FC Cologne,6,1,2023-03-18 17:30:00,Benno Schmitz,Cross
+515246,41,Goal,0.980999984741211,0.3990000152587891,0.294854998588562,Davie Selke,a,4280,OpenPlay,2022,RightFoot,19558,Borussia Dortmund,FC Cologne,6,1,2023-03-18 17:30:00,,Rebound
+515245,41,SavedShot,0.9069999694824219,0.3270000076293945,0.07079669833183289,Davie Selke,a,4280,OpenPlay,2022,RightFoot,19558,Borussia Dortmund,FC Cologne,6,1,2023-03-18 17:30:00,Benno Schmitz,Pass
+515247,53,MissedShots,0.895,0.51,0.0909821018576622,Davie Selke,a,4280,SetPiece,2022,Head,19558,Borussia Dortmund,FC Cologne,6,1,2023-03-18 17:30:00,Jonas Hector,Cross
+516986,1,SavedShot,0.875999984741211,0.3820000076293945,0.11796200275421143,Davie Selke,h,4280,OpenPlay,2022,RightFoot,19569,FC Cologne,Borussia M.Gladbach,0,0,2023-04-02 13:30:00,Linton Maina,Pass
+517864,51,SavedShot,0.8969999694824219,0.40099998474121096,0.05447410047054291,Davie Selke,a,4280,OpenPlay,2022,Head,19583,Augsburg,FC Cologne,1,3,2023-04-08 13:30:00,Dejan Ljubicic,Cross
+519347,44,MissedShots,0.9080000305175782,0.59,0.040633998811244965,Davie Selke,h,4280,FromCorner,2022,Head,19588,FC Cologne,Mainz 05,1,1,2023-04-15 13:30:00,Florian Kainz,Cross
+520796,31,SavedShot,0.9080000305175782,0.5159999847412109,0.0634247288107872,Davie Selke,a,4280,OpenPlay,2022,Head,19598,Hoffenheim,FC Cologne,1,3,2023-04-22 13:30:00,Linton Maina,Aerial
+520797,38,Goal,0.95,0.5120000076293946,0.5876739025115967,Davie Selke,a,4280,OpenPlay,2022,Head,19598,Hoffenheim,FC Cologne,1,3,2023-04-22 13:30:00,Florian Kainz,Cross
+522648,18,BlockedShot,0.7880000305175782,0.655,0.02296854555606842,Davie Selke,h,4280,OpenPlay,2022,RightFoot,19606,FC Cologne,Freiburg,0,1,2023-04-29 13:30:00,,None
+524382,13,Goal,0.92,0.48200000762939454,0.3529994487762451,Davie Selke,a,4280,OpenPlay,2022,Head,19613,Bayer Leverkusen,FC Cologne,1,2,2023-05-05 18:30:00,Florian Kainz,Cross
+524388,35,Goal,0.9119999694824219,0.455,0.3433523178100586,Davie Selke,a,4280,OpenPlay,2022,RightFoot,19613,Bayer Leverkusen,FC Cologne,1,2,2023-05-05 18:30:00,Jan Thielmann,Cross
+525543,7,Goal,0.955999984741211,0.529000015258789,0.11616690456867218,Davie Selke,h,4280,OpenPlay,2022,Head,19625,FC Cologne,Hertha Berlin,5,2,2023-05-12 18:30:00,Eric Martel,Aerial
+525548,22,MissedShots,0.9630000305175781,0.36,0.0905127301812172,Davie Selke,h,4280,OpenPlay,2022,RightFoot,19625,FC Cologne,Hertha Berlin,5,2,2023-05-12 18:30:00,Kingsley Schindler,Pass
+527300,64,SavedShot,0.924000015258789,0.6079999923706054,0.06632913649082184,Davie Selke,a,4280,OpenPlay,2022,Head,19638,Werder Bremen,FC Cologne,1,1,2023-05-20 13:30:00,Jan Thielmann,Cross
+527309,83,MissedShots,0.9490000152587891,0.53,0.5874339938163757,Davie Selke,a,4280,FromCorner,2022,RightFoot,19638,Werder Bremen,FC Cologne,1,1,2023-05-20 13:30:00,Julian Chabot,Rebound
+529036,30,MissedShots,0.8809999847412109,0.4129999923706055,0.031950172036886215,Davie Selke,h,4280,OpenPlay,2022,Head,19642,FC Cologne,Bayern Munich,1,2,2023-05-27 13:30:00,Dejan Ljubicic,Cross
+529040,59,SavedShot,0.8969999694824219,0.5870000076293945,0.032895129173994064,Davie Selke,h,4280,FromCorner,2022,Head,19642,FC Cologne,Bayern Munich,1,2,2023-05-27 13:30:00,Florian Kainz,Cross
+533403,16,BlockedShot,0.8480000305175781,0.47200000762939454,0.1123814582824707,Davie Selke,a,4280,OpenPlay,2023,RightFoot,23071,Borussia Dortmund,FC Cologne,1,0,2023-08-19 16:30:00,Dejan Ljubicic,Pass
+534558,23,MissedShots,0.955999984741211,0.35200000762939454,0.018902838230133057,Davie Selke,h,4280,OpenPlay,2023,Head,23076,FC Cologne,Wolfsburg,1,2,2023-08-26 13:30:00,Leart Paqarada,Aerial
+537432,2,SavedShot,0.9269999694824219,0.31,0.0489991270005703,Davie Selke,h,4280,OpenPlay,2023,RightFoot,23097,FC Cologne,Hoffenheim,1,3,2023-09-16 13:30:00,Rasmus Carstensen,Pass
+537441,45,MissedShots,0.895,0.49599998474121093,0.05238838493824005,Davie Selke,h,4280,OpenPlay,2023,Head,23097,FC Cologne,Hoffenheim,1,3,2023-09-16 13:30:00,Rasmus Carstensen,Aerial
+537446,60,Goal,0.9540000152587891,0.32599998474121095,0.059056952595710754,Davie Selke,h,4280,OpenPlay,2023,RightFoot,23097,FC Cologne,Hoffenheim,1,3,2023-09-16 13:30:00,Denis Huseinbasic,BallTouch
+537451,70,MissedShots,0.879000015258789,0.6519999694824219,0.07587561011314392,Davie Selke,h,4280,OpenPlay,2023,RightFoot,23097,FC Cologne,Hoffenheim,1,3,2023-09-16 13:30:00,Gian-Luca Waldschmidt,Pass
+539329,30,Goal,0.9819999694824219,0.49200000762939455,0.7631579041481018,Davie Selke,a,4280,FromCorner,2023,Head,23107,Werder Bremen,FC Cologne,2,1,2023-09-23 16:30:00,,None
+540929,23,MissedShots,0.8130000305175781,0.525,0.05907656252384186,Davie Selke,h,4280,OpenPlay,2023,RightFoot,23115,FC Cologne,VfB Stuttgart,0,2,2023-09-30 13:30:00,Leart Paqarada,Pass
+540956,91,MissedShots,0.889000015258789,0.475,0.04350079223513603,Davie Selke,h,4280,OpenPlay,2023,Head,23115,FC Cologne,VfB Stuttgart,0,2,2023-09-30 13:30:00,Max Finkgrafe,Aerial
+543242,45,BlockedShot,0.89,0.595999984741211,0.09631704539060593,Davie Selke,a,4280,OpenPlay,2023,RightFoot,23125,Bayer Leverkusen,FC Cologne,3,0,2023-10-08 13:30:00,Florian Kainz,Pass
+544681,57,BlockedShot,0.9259999847412109,0.6840000152587891,0.07711080461740494,Davie Selke,h,4280,OpenPlay,2023,LeftFoot,23135,FC Cologne,Borussia M.Gladbach,3,1,2023-10-22 13:30:00,Florian Kainz,Pass
+544683,67,MissedShots,0.9419999694824219,0.4929999923706055,0.12343857437372208,Davie Selke,h,4280,OpenPlay,2023,Head,23135,FC Cologne,Borussia M.Gladbach,3,1,2023-10-22 13:30:00,Eric Martel,Aerial
+544688,83,BlockedShot,0.9380000305175781,0.5329999923706055,0.11536115407943726,Davie Selke,h,4280,FromCorner,2023,Head,23135,FC Cologne,Borussia M.Gladbach,3,1,2023-10-22 13:30:00,Florian Kainz,Cross
+545622,52,SavedShot,0.965,0.549000015258789,0.6691033244132996,Davie Selke,a,4280,OpenPlay,2023,RightFoot,23138,RasenBallsport Leipzig,FC Cologne,6,0,2023-10-28 16:30:00,Dejan Ljubicic,Throughball
+546740,82,BlockedShot,0.8930000305175781,0.3940000152587891,0.04376491531729698,Davie Selke,h,4280,SetPiece,2023,Head,23151,FC Cologne,Augsburg,1,1,2023-11-04 14:30:00,Florian Kainz,Chipped
+546743,88,BlockedShot,0.894000015258789,0.3890000152587891,0.061944738030433655,Davie Selke,h,4280,OpenPlay,2023,RightFoot,23151,FC Cologne,Augsburg,1,1,2023-11-04 14:30:00,Florian Kainz,Cross
+548596,8,MissedShots,0.9180000305175782,0.534000015258789,0.1270904392004013,Davie Selke,a,4280,OpenPlay,2023,Head,23160,Bochum,FC Cologne,1,1,2023-11-11 17:30:00,Rasmus Carstensen,Cross
+548608,53,Goal,0.925,0.445,0.39043954014778137,Davie Selke,a,4280,OpenPlay,2023,RightFoot,23160,Bochum,FC Cologne,1,1,2023-11-11 17:30:00,Linton Maina,Cross
+548621,75,SavedShot,0.9740000152587891,0.6270000076293946,0.10417326539754868,Davie Selke,a,4280,OpenPlay,2023,RightFoot,23160,Bochum,FC Cologne,1,1,2023-11-11 17:30:00,Steffen Tigges,TakeOn
+548622,83,BlockedShot,0.9230000305175782,0.445,0.0891658142209053,Davie Selke,a,4280,FromCorner,2023,Head,23160,Bochum,FC Cologne,1,1,2023-11-11 17:30:00,Florian Kainz,Cross
+548624,85,MissedShots,0.7980000305175782,0.46299999237060546,0.03385153412818909,Davie Selke,a,4280,SetPiece,2023,RightFoot,23160,Bochum,FC Cologne,1,1,2023-11-11 17:30:00,,None
+550818,22,MissedShots,0.8540000152587891,0.46299999237060546,0.02206130512058735,Davie Selke,a,4280,OpenPlay,2023,Head,23181,Darmstadt,FC Cologne,0,1,2023-12-01 18:30:00,Julian Chabot,Cross
+550829,58,BlockedShot,0.97,0.36400001525878906,0.07089019566774368,Davie Selke,a,4280,SetPiece,2023,RightFoot,23181,Darmstadt,FC Cologne,0,1,2023-12-01 18:30:00,,Rebound
+550830,59,Goal,0.9640000152587891,0.45099998474121095,0.5783024430274963,Davie Selke,a,4280,FromCorner,2023,RightFoot,23181,Darmstadt,FC Cologne,0,1,2023-12-01 18:30:00,,None
+555374,13,SavedShot,0.8490000152587891,0.40700000762939453,0.011411529965698719,Davie Selke,a,4280,OpenPlay,2023,Head,23201,Union Berlin,FC Cologne,2,0,2023-12-20 17:30:00,Rasmus Carstensen,Aerial
+555387,50,SavedShot,0.9309999847412109,0.4129999923706055,0.09191276133060455,Davie Selke,a,4280,OpenPlay,2023,Head,23201,Union Berlin,FC Cologne,2,0,2023-12-20 17:30:00,Jan Thielmann,Cross
+558013,13,BlockedShot,0.8719999694824219,0.5259999847412109,0.012625332921743393,Davie Selke,h,4280,SetPiece,2023,Head,23214,FC Cologne,FC Heidenheim,1,1,2024-01-13 14:30:00,Florian Kainz,Aerial
+558015,19,MissedShots,0.919000015258789,0.5479999923706055,0.03579465299844742,Davie Selke,h,4280,FromCorner,2023,Head,23214,FC Cologne,FC Heidenheim,1,1,2024-01-13 14:30:00,Florian Kainz,Aerial
+558017,28,Goal,0.9069999694824219,0.405,0.08503103256225586,Davie Selke,h,4280,OpenPlay,2023,RightFoot,23214,FC Cologne,FC Heidenheim,1,1,2024-01-13 14:30:00,Florian Kainz,Cross
+558023,46,MissedShots,0.9490000152587891,0.4229999923706055,0.06775406002998352,Davie Selke,h,4280,OpenPlay,2023,Head,23214,FC Cologne,FC Heidenheim,1,1,2024-01-13 14:30:00,Florian Kainz,Aerial
+571345,32,Goal,0.924000015258789,0.46,0.6531261205673218,Davie Selke,a,4280,OpenPlay,2023,RightFoot,23306,Augsburg,FC Cologne,1,1,2024-03-31 14:30:00,Sargis Adamyan,Pass
+571359,69,MissedShots,0.9030000305175782,0.44599998474121094,0.019123900681734085,Davie Selke,a,4280,FromCorner,2023,Head,23306,Augsburg,FC Cologne,1,1,2024-03-31 14:30:00,Max Finkgrafe,Aerial
+572250,62,MissedShots,0.92,0.32299999237060545,0.058461811393499374,Davie Selke,h,4280,OpenPlay,2023,RightFoot,23316,FC Cologne,Bochum,2,1,2024-04-06 13:30:00,Faride Alidou,Pass

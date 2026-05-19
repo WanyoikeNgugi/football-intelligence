@@ -1,0 +1,34 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+24955,84,MissedShots,0.8640000152587891,0.6329999923706054,0.02670699916779995,Zoltán Stieber,a,179,OpenPlay,2014,RightFoot,5419,Hannover 96,Hamburger SV,2,0,2014-09-14 16:30:00,,Aerial
+24956,88,BlockedShot,0.750999984741211,0.6809999847412109,0.015594500117003918,Zoltán Stieber,a,179,OpenPlay,2014,LeftFoot,5419,Hannover 96,Hamburger SV,2,0,2014-09-14 16:30:00,Johan Djourou,Pass
+25363,40,BlockedShot,0.8880000305175781,0.62,0.05455999821424484,Zoltán Stieber,a,179,SetPiece,2014,LeftFoot,5435,Borussia M.Gladbach,Hamburger SV,1,0,2014-09-24 19:00:00,Tolgay Arslan,Pass
+25377,71,BlockedShot,0.795,0.789000015258789,0.017500899732112885,Zoltán Stieber,a,179,OpenPlay,2014,LeftFoot,5435,Borussia M.Gladbach,Hamburger SV,1,0,2014-09-24 19:00:00,Matthias Ostrzolek,Pass
+25640,26,MissedShots,0.7980000305175782,0.5379999923706055,0.04443269968032837,Zoltán Stieber,h,179,FromCorner,2014,RightFoot,5446,Hamburger SV,Eintracht Frankfurt,1,2,2014-09-28 16:30:00,Valon Behrami,Rebound
+26141,82,SavedShot,0.8590000152587891,0.5209999847412109,0.10185199975967407,Zoltán Stieber,h,179,OpenPlay,2014,LeftFoot,5399,Hamburger SV,Hoffenheim,1,1,2014-10-19 14:30:00,Pierre-Michel Lasogga,Pass
+26767,82,MissedShots,0.8690000152587891,0.42700000762939455,0.06201009824872017,Zoltán Stieber,a,179,OpenPlay,2014,RightFoot,5363,Wolfsburg,Hamburger SV,2,0,2014-11-09 14:30:00,,None
+29147,36,MissedShots,0.784000015258789,0.710999984741211,0.026806199923157692,Zoltán Stieber,a,179,OpenPlay,2014,LeftFoot,5268,Paderborn,Hamburger SV,0,3,2015-02-04 19:00:00,Rafael van der Vaart,BallRecovery
+29151,44,MissedShots,0.840999984741211,0.455,0.06420540064573288,Zoltán Stieber,a,179,OpenPlay,2014,LeftFoot,5268,Paderborn,Hamburger SV,0,3,2015-02-04 19:00:00,Nicolai Müller,Chipped
+29164,90,Goal,0.889000015258789,0.47200000762939454,0.467536985874176,Zoltán Stieber,a,179,OpenPlay,2014,RightFoot,5268,Paderborn,Hamburger SV,0,3,2015-02-04 19:00:00,Artjoms Rudnevs,HeadPass
+28596,69,SavedShot,0.8580000305175781,0.5220000076293946,0.3878540098667145,Zoltán Stieber,h,179,OpenPlay,2014,RightFoot,5277,Hamburger SV,Hannover 96,2,1,2015-02-07 17:30:00,Nicolai Müller,BallTouch
+28825,85,BlockedShot,0.715,0.49700000762939456,0.014807100407779217,Zoltán Stieber,a,179,OpenPlay,2014,LeftFoot,5285,Bayern Munich,Hamburger SV,8,0,2015-02-14 14:30:00,Marcelo Díaz,Pass
+29562,2,BlockedShot,0.8530000305175781,0.59,0.08025740087032318,Zoltán Stieber,h,179,OpenPlay,2014,LeftFoot,5296,Hamburger SV,Borussia M.Gladbach,1,1,2015-02-22 14:30:00,Matthias Ostrzolek,Pass
+29575,51,MissedShots,0.8590000152587891,0.6370000076293946,0.06283830106258392,Zoltán Stieber,h,179,OpenPlay,2014,RightFoot,5296,Hamburger SV,Borussia M.Gladbach,1,1,2015-02-22 14:30:00,Matthias Ostrzolek,Pass
+29578,72,Goal,0.8030000305175782,0.3970000076293945,0.06440260261297226,Zoltán Stieber,h,179,OpenPlay,2014,LeftFoot,5296,Hamburger SV,Borussia M.Gladbach,1,1,2015-02-22 14:30:00,Artjoms Rudnevs,Pass
+29580,84,SavedShot,0.805,0.5029999923706054,0.06573610007762909,Zoltán Stieber,h,179,OpenPlay,2014,RightFoot,5296,Hamburger SV,Borussia M.Gladbach,1,1,2015-02-22 14:30:00,Ashton Götz,Pass
+29584,88,MissedShots,0.9580000305175781,0.49700000762939456,0.20294900238513947,Zoltán Stieber,h,179,OpenPlay,2014,LeftFoot,5296,Hamburger SV,Borussia M.Gladbach,1,1,2015-02-22 14:30:00,,Rebound
+29622,31,SavedShot,0.725999984741211,0.605999984741211,0.047668199986219406,Zoltán Stieber,a,179,DirectFreekick,2014,LeftFoot,5304,Eintracht Frankfurt,Hamburger SV,2,1,2015-02-28 17:30:00,,Standard
+29625,46,Goal,0.919000015258789,0.5820000076293945,0.4412040114402771,Zoltán Stieber,a,179,OpenPlay,2014,LeftFoot,5304,Eintracht Frankfurt,Hamburger SV,2,1,2015-02-28 17:30:00,Nicolai Müller,Throughball
+30350,63,SavedShot,0.730999984741211,0.6229999923706054,0.04837070032954216,Zoltán Stieber,h,179,DirectFreekick,2014,LeftFoot,5234,Hamburger SV,Borussia Dortmund,0,0,2015-03-07 14:30:00,,Standard
+31175,18,MissedShots,0.7719999694824219,0.6609999847412109,0.018427200615406036,Zoltán Stieber,a,179,OpenPlay,2014,RightFoot,5244,Hoffenheim,Hamburger SV,3,0,2015-03-14 14:30:00,Ivica Olic,Pass
+31199,85,SavedShot,0.805,0.504000015258789,0.03650819882750511,Zoltán Stieber,a,179,OpenPlay,2014,LeftFoot,5244,Hoffenheim,Hamburger SV,3,0,2015-03-14 14:30:00,Lewis Holtby,Chipped
+32083,5,SavedShot,0.7419999694824219,0.31,0.01873520016670227,Zoltán Stieber,h,179,OpenPlay,2014,LeftFoot,5251,Hamburger SV,Hertha Berlin,0,1,2015-03-20 19:30:00,Dennis Diekmeier,Pass
+32092,34,MissedShots,0.7180000305175781,0.355,0.018207799643278122,Zoltán Stieber,h,179,OpenPlay,2014,LeftFoot,5251,Hamburger SV,Hertha Berlin,0,1,2015-03-20 19:30:00,Johan Djourou,Pass
+32096,59,MissedShots,0.685,0.700999984741211,0.011080199852585793,Zoltán Stieber,h,179,FromCorner,2014,RightFoot,5251,Hamburger SV,Hertha Berlin,0,1,2015-03-20 19:30:00,,None
+32104,89,MissedShots,0.78,0.23600000381469727,0.04570399969816208,Zoltán Stieber,h,179,DirectFreekick,2014,LeftFoot,5251,Hamburger SV,Hertha Berlin,0,1,2015-03-20 19:30:00,,Standard
+32111,27,MissedShots,0.855,0.4420000076293945,0.05612049996852875,Zoltán Stieber,a,179,OpenPlay,2014,LeftFoot,5220,Werder Bremen,Hamburger SV,1,0,2015-04-19 14:30:00,Matthias Ostrzolek,Cross
+32116,47,SavedShot,0.8430000305175781,0.47,0.06756410002708435,Zoltán Stieber,a,179,OpenPlay,2014,LeftFoot,5220,Werder Bremen,Hamburger SV,1,0,2015-04-19 14:30:00,,None
+30012,10,MissedShots,0.8830000305175781,0.3529999923706055,0.07744400203227997,Zoltán Stieber,h,179,OpenPlay,2014,LeftFoot,5225,Hamburger SV,Augsburg,3,2,2015-04-25 14:30:00,Heiko Westermann,Pass
+30031,68,SavedShot,0.8480000305175781,0.5220000076293946,0.06217600032687187,Zoltán Stieber,h,179,OpenPlay,2014,LeftFoot,5225,Hamburger SV,Augsburg,3,2,2015-04-25 14:30:00,Ivica Olic,Cross
+31925,1,SavedShot,0.7869999694824219,0.26399999618530273,0.011665199883282185,Zoltán Stieber,h,179,SetPiece,2014,LeftFoot,5168,Hamburger SV,Freiburg,1,1,2015-05-08 19:30:00,,None
+31934,23,MissedShots,0.855999984741211,0.6,0.061495501548051834,Zoltán Stieber,h,179,OpenPlay,2014,LeftFoot,5168,Hamburger SV,Freiburg,1,1,2015-05-08 19:30:00,,Rebound
+31933,23,SavedShot,0.875,0.5629999923706055,0.10483600199222565,Zoltán Stieber,h,179,OpenPlay,2014,LeftFoot,5168,Hamburger SV,Freiburg,1,1,2015-05-08 19:30:00,Matthias Ostrzolek,Pass

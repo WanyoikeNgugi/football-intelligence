@@ -1,0 +1,23 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+425310,41,MissedShots,0.8880000305175781,0.4520000076293945,0.014894999563694,Cédric Hountondji,a,4886,FromCorner,2021,Head,17828,Bordeaux,Clermont Foot,0,2,2021-08-08 13:00:00,Jason Berthomier,Aerial
+427467,43,MissedShots,0.9269999694824219,0.56,0.08966779708862305,Cédric Hountondji,a,4886,FromCorner,2021,Head,17845,Lyon,Clermont Foot,3,3,2021-08-22 11:00:00,Jason Berthomier,Cross
+429145,71,MissedShots,0.9359999847412109,0.4540000152587891,0.07383249700069427,Cédric Hountondji,h,4886,FromCorner,2021,Head,17858,Clermont Foot,Metz,2,2,2021-08-29 13:00:00,Jason Berthomier,Chipped
+435508,52,SavedShot,0.925,0.44599998474121094,0.0862203985452652,Cédric Hountondji,a,4886,SetPiece,2021,RightFoot,17905,Lorient,Clermont Foot,1,1,2021-10-03 13:00:00,Jason Berthomier,Cross
+436328,40,SavedShot,0.8859999847412109,0.5120000076293946,0.016156300902366638,Cédric Hountondji,h,4886,FromCorner,2021,Head,17914,Clermont Foot,Lille,1,0,2021-10-16 15:00:00,Jason Berthomier,Aerial
+437872,71,MissedShots,0.925,0.46599998474121096,0.10668300092220306,Cédric Hountondji,a,4886,FromCorner,2021,Head,17927,Nantes,Clermont Foot,2,1,2021-10-23 15:00:00,Saif-Eddine Khaoui,Cross
+454160,76,OwnGoal,0.03299999952316284,0.55,0,Cédric Hountondji,h,4886,OpenPlay,2021,LeftFoot,18003,Clermont Foot,Strasbourg,0,2,2022-01-19 20:00:00,,None
+454161,81,MissedShots,0.92,0.5379999923706055,0.04792390018701553,Cédric Hountondji,h,4886,FromCorner,2021,Head,18003,Clermont Foot,Strasbourg,0,2,2022-01-19 20:00:00,Vital N&#039;Simba,Aerial
+457497,38,Goal,0.9390000152587891,0.4979999923706055,0.0725914016366005,Cédric Hountondji,h,4886,FromCorner,2021,Head,18058,Clermont Foot,Saint-Etienne,1,2,2022-02-13 14:00:00,Jason Berthomier,Aerial
+480825,9,OwnGoal,0.09199999809265137,0.605,0,Cédric Hountondji,a,4886,FromCorner,2022,Head,19663,Auxerre,Angers,2,2,2022-08-14 13:00:00,,CornerAwarded
+485105,42,MissedShots,0.9319999694824219,0.509000015258789,0.11568599939346313,Cédric Hountondji,h,4886,FromCorner,2022,RightFoot,19689,Angers,Reims,2,4,2022-08-31 17:00:00,,None
+492145,86,SavedShot,0.960999984741211,0.415,0.3720400035381317,Cédric Hountondji,h,4886,SetPiece,2022,RightFoot,19738,Angers,Strasbourg,2,3,2022-10-09 13:00:00,Sofiane Boufal,Cross
+498371,88,MissedShots,0.9259999847412109,0.48700000762939455,0.055935900658369064,Cédric Hountondji,h,4886,FromCorner,2022,Head,19779,Angers,Lens,1,2,2022-11-05 20:00:00,Nabil Bentaleb,Aerial
+500588,5,SavedShot,0.8980000305175782,0.46599998474121096,0.05856110155582428,Cédric Hountondji,a,4886,FromCorner,2022,Head,19790,Lille,Angers,1,0,2022-11-13 14:00:00,Nabil Bentaleb,Cross
+500598,69,SavedShot,0.8809999847412109,0.5420000076293945,0.015053600072860718,Cédric Hountondji,a,4886,SetPiece,2022,Head,19790,Lille,Angers,1,0,2022-11-13 14:00:00,Nabil Bentaleb,Aerial
+500600,92,MissedShots,0.9009999847412109,0.40599998474121096,0.0714849978685379,Cédric Hountondji,a,4886,OpenPlay,2022,RightFoot,19790,Lille,Angers,1,0,2022-11-13 14:00:00,Souleyman Doumbia,Cross
+506116,5,MissedShots,0.935,0.55,0.0731080025434494,Cédric Hountondji,a,4886,FromCorner,2022,OtherBodyPart,19846,Brest,Angers,4,0,2023-01-29 14:00:00,Nabil Bentaleb,Cross
+508949,81,SavedShot,0.925,0.43099998474121093,0.028460800647735596,Cédric Hountondji,h,4886,FromCorner,2022,Head,19869,Angers,Auxerre,1,1,2023-02-12 14:00:00,Pierrick Capelle,Aerial
+514089,73,MissedShots,0.9290000152587891,0.500999984741211,0.06029370054602623,Cédric Hountondji,h,4886,FromCorner,2022,Head,19911,Angers,Toulouse,0,2,2023-03-12 14:00:00,Pierrick Capelle,Aerial
+520516,46,BlockedShot,0.9169999694824219,0.5570000076293945,0.10192713886499405,Cédric Hountondji,h,4886,FromCorner,2022,RightFoot,19960,Angers,Paris Saint Germain,1,2,2023-04-21 19:00:00,,None
+523276,34,OwnGoal,0.26,0.7469999694824219,0,Cédric Hountondji,a,4886,OpenPlay,2022,RightFoot,19975,Rennes,Angers,4,2,2023-04-30 13:00:00,,None
+529315,45,MissedShots,0.8859999847412109,0.4929999923706055,0.05805041640996933,Cédric Hountondji,h,4886,FromCorner,2022,RightFoot,20008,Angers,Troyes,2,1,2023-05-27 19:00:00,Sada Thioub,Cross

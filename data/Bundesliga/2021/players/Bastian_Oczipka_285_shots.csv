@@ -1,0 +1,82 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+25485,67,SavedShot,0.735999984741211,0.9769999694824218,0.0088458601385355,Bastian Oczipka,h,285,OpenPlay,2014,LeftFoot,5432,Eintracht Frankfurt,Mainz 05,2,2,2014-09-23 19:00:00,Takashi Inui,Pass
+25947,23,MissedShots,0.6919999694824219,0.715,0.011053100228309631,Bastian Oczipka,h,285,OpenPlay,2014,LeftFoot,5389,Eintracht Frankfurt,FC Cologne,3,2,2014-10-04 17:30:00,Takashi Inui,Pass
+28121,83,MissedShots,0.8069999694824219,0.6090000152587891,0.028391899541020393,Bastian Oczipka,a,285,FromCorner,2014,LeftFoot,5321,Hoffenheim,Eintracht Frankfurt,3,2,2014-12-12 19:30:00,,None
+28025,78,SavedShot,0.8580000305175781,0.72,0.0545927993953228,Bastian Oczipka,a,285,OpenPlay,2014,RightFoot,5343,Bayer Leverkusen,Eintracht Frankfurt,1,1,2014-12-20 14:30:00,Timothy Chandler,TakeOn
+28973,91,BlockedShot,0.7809999847412109,0.7290000152587891,0.00962849985808134,Bastian Oczipka,h,285,SetPiece,2014,LeftFoot,5263,Eintracht Frankfurt,Wolfsburg,1,1,2015-02-03 19:00:00,,Aerial
+29598,31,BlockedShot,0.7609999847412109,0.575,0.01862730085849762,Bastian Oczipka,a,285,FromCorner,2014,LeftFoot,5279,Augsburg,Eintracht Frankfurt,2,2,2015-02-08 16:30:00,,None
+29623,34,MissedShots,0.7219999694824218,0.6909999847412109,0.00991814024746418,Bastian Oczipka,h,285,OpenPlay,2014,LeftFoot,5304,Eintracht Frankfurt,Hamburger SV,2,1,2015-02-28 17:30:00,Takashi Inui,Chipped
+29638,82,SavedShot,0.7580000305175781,0.37900001525878907,0.06404849886894226,Bastian Oczipka,h,285,DirectFreekick,2014,LeftFoot,5304,Eintracht Frankfurt,Hamburger SV,2,1,2015-02-28 17:30:00,,Standard
+32169,55,SavedShot,0.67,0.664000015258789,0.011112499982118607,Bastian Oczipka,h,285,OpenPlay,2014,LeftFoot,5213,Eintracht Frankfurt,Borussia M.Gladbach,0,0,2015-04-17 19:30:00,Makoto Hasebe,Pass
+32177,83,BlockedShot,0.7230000305175781,0.6930000305175781,0.014521299861371517,Bastian Oczipka,h,285,OpenPlay,2014,LeftFoot,5213,Eintracht Frankfurt,Borussia M.Gladbach,0,0,2015-04-17 19:30:00,Haris Seferovic,Pass
+31698,17,Goal,0.8019999694824219,0.35200000762939454,0.09309700131416321,Bastian Oczipka,h,285,DirectFreekick,2014,LeftFoot,5173,Eintracht Frankfurt,Hoffenheim,3,1,2015-05-09 14:30:00,,Standard
+76143,24,MissedShots,0.8180000305175781,0.769000015258789,0.018228400498628616,Bastian Oczipka,a,285,OpenPlay,2015,LeftFoot,1028,Wolfsburg,Eintracht Frankfurt,2,1,2015-08-16 17:30:00,Takashi Inui,TakeOn
+77247,46,MissedShots,0.769000015258789,0.6090000152587891,0.025307299569249153,Bastian Oczipka,a,285,OpenPlay,2015,LeftFoot,1071,Schalke 04,Eintracht Frankfurt,2,0,2015-09-23 22:00:00,Alexander Meier,Pass
+78090,58,MissedShots,0.774000015258789,0.6990000152587891,0.01617549918591976,Bastian Oczipka,h,285,OpenPlay,2015,LeftFoot,1099,Eintracht Frankfurt,Borussia M.Gladbach,1,5,2015-10-17 20:30:00,Stefan Reinartz,Pass
+79294,36,SavedShot,0.7919999694824219,0.37900001525878907,0.09306409955024719,Bastian Oczipka,a,285,DirectFreekick,2015,LeftFoot,1143,Mainz 05,Eintracht Frankfurt,2,1,2015-11-28 18:45:00,,Standard
+79504,50,BlockedShot,0.7780000305175782,0.415,0.08814729750156403,Bastian Oczipka,h,285,DirectFreekick,2015,LeftFoot,1155,Eintracht Frankfurt,Darmstadt,0,1,2015-12-06 20:30:00,,Standard
+79962,73,MissedShots,0.8159999847412109,0.6419999694824219,0.04310379922389984,Bastian Oczipka,h,285,OpenPlay,2015,RightFoot,1168,Eintracht Frankfurt,Werder Bremen,2,1,2015-12-19 18:30:00,Haris Seferovic,Pass
+80622,23,SavedShot,0.75,0.5570000076293945,0.013482999987900257,Bastian Oczipka,h,285,OpenPlay,2015,RightFoot,1194,Eintracht Frankfurt,VfB Stuttgart,2,4,2016-02-06 18:30:00,Marco Fabián,HeadPass
+80903,21,MissedShots,0.789000015258789,0.705999984741211,0.0166362002491951,Bastian Oczipka,a,285,FromCorner,2015,LeftFoot,1207,FC Cologne,Eintracht Frankfurt,3,1,2016-02-13 21:30:00,David Abraham,None
+80917,88,SavedShot,0.89,0.7169999694824218,0.041889600455760956,Bastian Oczipka,a,285,OpenPlay,2015,LeftFoot,1207,FC Cologne,Eintracht Frankfurt,3,1,2016-02-13 21:30:00,Haris Seferovic,Pass
+81593,34,MissedShots,0.764000015258789,0.63,0.01385090034455061,Bastian Oczipka,a,285,FromCorner,2015,RightFoot,1231,Hertha Berlin,Eintracht Frankfurt,2,0,2016-03-02 23:00:00,,Aerial
+128035,46,BlockedShot,0.75,0.7330000305175781,0.009461269713938236,Bastian Oczipka,a,285,SetPiece,2016,RightFoot,1339,Darmstadt,Eintracht Frankfurt,1,0,2016-09-10 17:30:00,,None
+128501,49,Goal,0.7880000305175782,0.5709999847412109,0.025135599076747894,Bastian Oczipka,a,285,FromCorner,2016,LeftFoot,1355,Ingolstadt,Eintracht Frankfurt,0,2,2016-09-20 22:00:00,,None
+129799,57,BlockedShot,0.7619999694824219,0.6609999847412109,0.013300199992954731,Bastian Oczipka,a,285,FromCorner,2016,RightFoot,3299,Borussia M.Gladbach,Eintracht Frankfurt,0,0,2016-10-28 22:30:00,,Aerial
+130069,28,MissedShots,0.7980000305175782,0.67,0.03372789919376373,Bastian Oczipka,a,285,OpenPlay,2016,RightFoot,2823,Werder Bremen,Eintracht Frankfurt,1,2,2016-11-20 20:30:00,,TakeOn
+131546,74,BlockedShot,0.779000015258789,0.7240000152587891,0.018703799694776535,Bastian Oczipka,a,285,OpenPlay,2016,LeftFoot,3216,Wolfsburg,Eintracht Frankfurt,1,0,2016-12-17 21:30:00,Omar Mascarell,Pass
+130430,58,MissedShots,0.8180000305175781,0.6120000076293945,0.03226900100708008,Bastian Oczipka,h,285,FromCorner,2016,LeftFoot,3219,Eintracht Frankfurt,Mainz 05,3,0,2016-12-20 23:00:00,,None
+130976,10,MissedShots,0.785,0.6840000152587891,0.017367899417877197,Bastian Oczipka,a,285,FromCorner,2016,LeftFoot,3728,RasenBallsport Leipzig,Eintracht Frankfurt,3,0,2017-01-21 20:30:00,,None
+133387,31,BlockedShot,0.7240000152587891,0.675,0.018020600080490112,Bastian Oczipka,h,285,SetPiece,2016,LeftFoot,3783,Eintracht Frankfurt,Freiburg,1,2,2017-03-05 14:30:00,Makoto Hasebe,Pass
+134033,11,MissedShots,0.8030000305175782,0.29200000762939454,0.07080619782209396,Bastian Oczipka,a,285,DirectFreekick,2016,LeftFoot,3813,FC Cologne,Eintracht Frankfurt,1,0,2017-04-04 19:00:00,,Standard
+128065,58,SavedShot,0.73,0.525,0.011385999619960785,Bastian Oczipka,h,285,OpenPlay,2016,LeftFoot,3882,Eintracht Frankfurt,RasenBallsport Leipzig,2,2,2017-05-20 14:30:00,,None
+128066,62,MissedShots,0.845,0.5179999923706055,0.036537300795316696,Bastian Oczipka,h,285,OpenPlay,2016,RightFoot,3882,Eintracht Frankfurt,RasenBallsport Leipzig,2,2,2017-05-20 14:30:00,,Aerial
+166585,41,MissedShots,0.749000015258789,0.73,0.015575800091028214,Bastian Oczipka,a,285,OpenPlay,2017,LeftFoot,8287,Werder Bremen,Schalke 04,1,2,2017-09-16 14:30:00,Amine Harit,Pass
+166591,63,MissedShots,0.8619999694824219,0.685,0.04626369848847389,Bastian Oczipka,a,285,OpenPlay,2017,RightFoot,8287,Werder Bremen,Schalke 04,1,2,2017-09-16 14:30:00,Franco Di Santo,TakeOn
+167160,23,SavedShot,0.7269999694824218,0.705,0.010298900306224823,Bastian Oczipka,h,285,OpenPlay,2017,LeftFoot,8314,Schalke 04,Bayer Leverkusen,1,1,2017-09-29 19:30:00,Weston McKennie,HeadPass
+168220,84,BlockedShot,0.695,0.73,0.014491699635982513,Bastian Oczipka,h,285,OpenPlay,2017,LeftFoot,8335,Schalke 04,Mainz 05,2,0,2017-10-20 19:30:00,Yevhen Konoplyanka,Pass
+168712,56,MissedShots,0.7769999694824219,0.3729999923706055,0.07708510011434555,Bastian Oczipka,h,285,DirectFreekick,2017,LeftFoot,8344,Schalke 04,Wolfsburg,1,1,2017-10-28 14:30:00,,Standard
+168718,75,BlockedShot,0.7759999847412109,0.6959999847412109,0.026399999856948853,Bastian Oczipka,h,285,OpenPlay,2017,LeftFoot,8344,Schalke 04,Wolfsburg,1,1,2017-10-28 14:30:00,Nabil Bentaleb,Pass
+167986,83,BlockedShot,0.850999984741211,0.6480000305175782,0.08888369798660278,Bastian Oczipka,h,285,OpenPlay,2017,RightFoot,8362,Schalke 04,Hamburger SV,2,0,2017-11-19 14:30:00,Yevhen Konoplyanka,TakeOn
+168978,34,SavedShot,0.7269999694824218,0.7580000305175781,0.011985099874436855,Bastian Oczipka,h,285,OpenPlay,2017,LeftFoot,8381,Schalke 04,FC Cologne,2,2,2017-12-02 17:30:00,Max Meyer,Pass
+168980,38,SavedShot,0.720999984741211,0.7,0.018195299431681633,Bastian Oczipka,h,285,OpenPlay,2017,LeftFoot,8381,Schalke 04,FC Cologne,2,2,2017-12-02 17:30:00,Amine Harit,Pass
+168989,65,MissedShots,0.6940000152587891,0.6809999847412109,0.01334409974515438,Bastian Oczipka,h,285,OpenPlay,2017,LeftFoot,8381,Schalke 04,FC Cologne,2,2,2017-12-02 17:30:00,Amine Harit,Pass
+179698,35,BlockedShot,0.7390000152587891,0.6040000152587891,0.018919499590992928,Bastian Oczipka,a,285,OpenPlay,2017,LeftFoot,8390,Borussia M.Gladbach,Schalke 04,1,1,2017-12-09 17:30:00,Max Meyer,Pass
+184004,45,SavedShot,0.9,0.5320000076293945,0.47960901260375977,Bastian Oczipka,h,285,OpenPlay,2017,LeftFoot,8398,Schalke 04,Augsburg,3,2,2017-12-13 19:30:00,,None
+187608,72,MissedShots,0.71,0.7469999694824219,0.007422720082104206,Bastian Oczipka,a,285,OpenPlay,2017,RightFoot,8413,RasenBallsport Leipzig,Schalke 04,3,1,2018-01-13 17:30:00,Benjamin Stambouli,Chipped
+198694,42,BlockedShot,0.855,0.750999984741211,0.03206560015678406,Bastian Oczipka,h,285,OpenPlay,2017,LeftFoot,8479,Schalke 04,Hertha Berlin,1,0,2018-03-03 14:30:00,Nabil Bentaleb,Pass
+201655,33,BlockedShot,0.875,0.7269999694824218,0.03547019883990288,Bastian Oczipka,a,285,OpenPlay,2017,LeftFoot,8499,Wolfsburg,Schalke 04,0,1,2018-03-17 17:30:00,Max Meyer,Pass
+256573,13,MissedShots,0.7230000305175781,0.7080000305175781,0.012592099606990814,Bastian Oczipka,h,285,OpenPlay,2018,LeftFoot,10437,Schalke 04,Nuernberg,5,2,2018-11-24 17:30:00,Guido Burgstaller,Pass
+256600,92,Goal,0.8030000305175782,0.605999984741211,0.05953560024499893,Bastian Oczipka,h,285,OpenPlay,2018,RightFoot,10437,Schalke 04,Nuernberg,5,2,2018-11-24 17:30:00,Omar Mascarell,Pass
+256785,46,MissedShots,0.68,0.894000015258789,0.010520500130951405,Bastian Oczipka,a,285,OpenPlay,2018,LeftFoot,10445,Hoffenheim,Schalke 04,1,1,2018-12-01 17:30:00,,None
+278889,56,BlockedShot,0.7219999694824218,0.7769999694824219,0.012233099900186062,Bastian Oczipka,h,285,OpenPlay,2018,LeftFoot,10516,Schalke 04,Borussia M.Gladbach,0,2,2019-02-02 17:30:00,Mark Uth,Pass
+281322,8,MissedShots,0.755,0.36700000762939455,0.06005819886922836,Bastian Oczipka,h,285,DirectFreekick,2018,LeftFoot,10534,Schalke 04,Freiburg,0,0,2019-02-16 14:30:00,,Standard
+279469,42,BlockedShot,0.715,0.565,0.01758190058171749,Bastian Oczipka,a,285,OpenPlay,2018,LeftFoot,10542,Mainz 05,Schalke 04,3,0,2019-02-23 14:30:00,Daniel Caligiuri,Pass
+279470,46,MissedShots,0.725999984741211,0.6959999847412109,0.012635700404644012,Bastian Oczipka,a,285,FromCorner,2018,LeftFoot,10542,Mainz 05,Schalke 04,3,0,2019-02-23 14:30:00,,None
+293174,47,BlockedShot,0.754000015258789,0.745999984741211,0.009359669871628284,Bastian Oczipka,a,285,SetPiece,2018,LeftFoot,10597,Nuernberg,Schalke 04,1,1,2019-04-12 19:30:00,,None
+293190,83,BlockedShot,0.835,0.73,0.02003219909965992,Bastian Oczipka,a,285,FromCorner,2018,LeftFoot,10597,Nuernberg,Schalke 04,1,1,2019-04-12 19:30:00,,None
+293195,94,MissedShots,0.8580000305175781,0.5590000152587891,0.09072230011224747,Bastian Oczipka,a,285,OpenPlay,2018,RightFoot,10597,Nuernberg,Schalke 04,1,1,2019-04-12 19:30:00,Daniel Caligiuri,Pass
+300773,84,MissedShots,0.755,0.720999984741211,0.014494500122964382,Bastian Oczipka,a,285,SetPiece,2018,LeftFoot,10627,Bayer Leverkusen,Schalke 04,1,1,2019-05-11 14:30:00,Matija Nastasic,Pass
+302463,42,BlockedShot,0.8019999694824219,0.8140000152587891,0.011628299951553345,Bastian Oczipka,h,285,OpenPlay,2018,LeftFoot,10634,Schalke 04,VfB Stuttgart,0,0,2019-05-18 13:30:00,Guido Burgstaller,Cross
+302465,48,BlockedShot,0.7869999694824219,0.49400001525878906,0.0356053002178669,Bastian Oczipka,h,285,OpenPlay,2018,RightFoot,10634,Schalke 04,VfB Stuttgart,0,0,2019-05-18 13:30:00,Suat Serdar,Pass
+315627,53,BlockedShot,0.8340000152587891,0.6419999694824219,0.06017490103840828,Bastian Oczipka,h,285,OpenPlay,2019,LeftFoot,12424,Schalke 04,Hertha Berlin,3,0,2019-08-31 14:30:00,Benito Raman,Pass
+320029,52,MissedShots,0.7319999694824219,0.7830000305175782,0.016049999743700027,Bastian Oczipka,h,285,OpenPlay,2019,LeftFoot,12439,Schalke 04,Mainz 05,2,1,2019-09-20 18:30:00,Amine Harit,Pass
+324318,51,SavedShot,0.7659999847412109,0.7980000305175782,0.008326689712703228,Bastian Oczipka,h,285,OpenPlay,2019,RightFoot,12457,Schalke 04,FC Cologne,1,1,2019-10-05 17:30:00,Weston McKennie,TakeOn
+327081,3,BlockedShot,0.7090000152587891,0.5690000152587891,0.01506580039858818,Bastian Oczipka,h,285,OpenPlay,2019,LeftFoot,12478,Schalke 04,Borussia Dortmund,0,0,2019-10-26 14:30:00,Daniel Caligiuri,Pass
+329963,49,SavedShot,0.8019999694824219,0.7090000152587891,0.02297629974782467,Bastian Oczipka,a,285,OpenPlay,2019,RightFoot,12491,Augsburg,Schalke 04,2,3,2019-11-03 17:00:00,Benito Raman,Pass
+333286,47,BlockedShot,0.965,0.720999984741211,0.04524959996342659,Bastian Oczipka,h,285,FromCorner,2019,LeftFoot,12515,Schalke 04,Union Berlin,2,1,2019-11-29 19:30:00,,Rebound
+356515,40,SavedShot,0.8169999694824219,0.754000015258789,0.018976900726556778,Bastian Oczipka,a,285,OpenPlay,2019,RightFoot,12578,Hertha Berlin,Schalke 04,0,0,2020-01-31 19:30:00,Amine Harit,TakeOn
+361754,13,BlockedShot,0.85,0.654000015258789,0.04978739842772484,Bastian Oczipka,h,285,OpenPlay,2019,LeftFoot,12626,Schalke 04,Hoffenheim,1,1,2020-03-07 14:30:00,,None
+363288,78,BlockedShot,0.72,0.5309999847412109,0.00990321021527052,Bastian Oczipka,h,285,OpenPlay,2019,LeftFoot,12644,Schalke 04,Augsburg,0,3,2020-05-24 11:30:00,Ahmed Kutucu,None
+378406,53,BlockedShot,0.750999984741211,0.6309999847412109,0.015730200335383415,Bastian Oczipka,a,285,FromCorner,2020,LeftFoot,14173,Bayern Munich,Schalke 04,8,0,2020-09-18 18:30:00,,None
+378987,33,MissedShots,0.6430000305175781,0.665,0.009260700084269047,Bastian Oczipka,h,285,OpenPlay,2020,LeftFoot,14188,Schalke 04,Werder Bremen,1,3,2020-09-26 16:30:00,,BallRecovery
+378995,51,BlockedShot,0.8040000152587891,0.6930000305175781,0.019227299839258194,Bastian Oczipka,h,285,FromCorner,2020,LeftFoot,14188,Schalke 04,Werder Bremen,1,3,2020-09-26 16:30:00,,None
+382715,30,MissedShots,0.7,0.5420000076293945,0.012932400219142437,Bastian Oczipka,h,285,FromCorner,2020,LeftFoot,15175,Schalke 04,Union Berlin,1,1,2020-10-18 16:00:00,,None
+383463,33,BlockedShot,0.865,0.6580000305175782,0.061597101390361786,Bastian Oczipka,a,285,OpenPlay,2020,LeftFoot,15181,Borussia Dortmund,Schalke 04,3,0,2020-10-24 16:30:00,Rabbi Matondo,Pass
+385901,16,BlockedShot,0.87,0.6020000076293945,0.08213610202074051,Bastian Oczipka,a,285,OpenPlay,2020,LeftFoot,15198,Mainz 05,Schalke 04,2,2,2020-11-07 14:30:00,Mark Uth,Pass
+421922,80,MissedShots,0.7609999847412109,0.6619999694824219,0.024838600307703018,Bastian Oczipka,h,285,OpenPlay,2020,LeftFoot,15433,Schalke 04,Eintracht Frankfurt,4,3,2021-05-15 13:30:00,Amine Harit,Pass
+449446,40,MissedShots,0.9080000305175782,0.750999984741211,0.09876559674739838,Bastian Oczipka,a,285,OpenPlay,2021,LeftFoot,17661,Bochum,Union Berlin,0,1,2021-12-18 14:30:00,Max Kruse,Chipped
+452191,92,ShotOnPost,0.8819999694824219,0.700999984741211,0.04929789900779724,Bastian Oczipka,a,285,OpenPlay,2021,LeftFoot,17674,Bayer Leverkusen,Union Berlin,2,2,2022-01-08 14:30:00,Levin Öztunali,Pass
+457591,34,SavedShot,0.875,0.5840000152587891,0.3154290020465851,Bastian Oczipka,h,285,OpenPlay,2021,LeftFoot,17710,Union Berlin,Borussia Dortmund,0,3,2022-02-13 14:30:00,Sven Michel,Pass
+460931,72,BlockedShot,0.9169999694824219,0.655,0.04280870035290718,Bastian Oczipka,a,285,OpenPlay,2021,LeftFoot,17738,Wolfsburg,Union Berlin,1,0,2022-03-05 14:30:00,Julian Ryerson,Cross
+475645,37,MissedShots,0.7680000305175781,0.595999984741211,0.016735000535845757,Bastian Oczipka,h,285,SetPiece,2021,LeftFoot,17818,Union Berlin,Bochum,3,2,2022-05-14 13:30:00,,None

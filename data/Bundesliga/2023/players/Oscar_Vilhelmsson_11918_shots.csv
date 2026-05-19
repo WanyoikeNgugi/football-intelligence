@@ -1,0 +1,29 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+534505,70,MissedShots,0.93,0.5570000076293945,0.07534649968147278,Oscar Vilhelmsson,h,11918,OpenPlay,2023,Head,23079,Darmstadt,Union Berlin,1,4,2023-08-26 13:30:00,Matthias Bader,Chipped
+536191,13,BlockedShot,0.76,0.5690000152587891,0.026487356051802635,Oscar Vilhelmsson,a,11918,OpenPlay,2023,LeftFoot,23084,Bayer Leverkusen,Darmstadt,5,1,2023-09-02 13:30:00,Marvin Mehlem,Pass
+536195,19,BlockedShot,0.875,0.46700000762939453,0.11195311695337296,Oscar Vilhelmsson,a,11918,OpenPlay,2023,RightFoot,23084,Bayer Leverkusen,Darmstadt,5,1,2023-09-02 13:30:00,Marvin Mehlem,Pass
+536197,23,Goal,0.960999984741211,0.43900001525878907,0.4808342456817627,Oscar Vilhelmsson,a,11918,SetPiece,2023,Head,23084,Bayer Leverkusen,Darmstadt,5,1,2023-09-02 13:30:00,Christoph Klarer,Aerial
+543858,27,MissedShots,0.915,0.44,0.025320319458842278,Oscar Vilhelmsson,h,11918,FromCorner,2023,Head,23133,Darmstadt,RasenBallsport Leipzig,1,3,2023-10-21 13:30:00,Tobias Kempe,Aerial
+548279,52,MissedShots,0.8580000305175781,0.6079999923706054,0.07456019520759583,Oscar Vilhelmsson,h,11918,OpenPlay,2023,LeftFoot,23163,Darmstadt,Mainz 05,0,0,2023-11-11 14:30:00,Fabian Nürnberger,Pass
+552725,1,MissedShots,0.75,0.29399999618530276,0.011031053960323334,Oscar Vilhelmsson,a,11918,OpenPlay,2023,LeftFoot,23190,FC Heidenheim,Darmstadt,3,2,2023-12-09 14:30:00,,None
+552728,8,SavedShot,0.9019999694824219,0.754000015258789,0.033852364867925644,Oscar Vilhelmsson,a,11918,OpenPlay,2023,LeftFoot,23190,FC Heidenheim,Darmstadt,3,2,2023-12-09 14:30:00,Fabian Holland,Chipped
+552734,23,MissedShots,0.870999984741211,0.5429999923706055,0.07441641390323639,Oscar Vilhelmsson,a,11918,OpenPlay,2023,LeftFoot,23190,FC Heidenheim,Darmstadt,3,2,2023-12-09 14:30:00,Emir Karic,Cross
+552746,48,SavedShot,0.8169999694824219,0.5720000076293945,0.047200437635183334,Oscar Vilhelmsson,a,11918,OpenPlay,2023,LeftFoot,23190,FC Heidenheim,Darmstadt,3,2,2023-12-09 14:30:00,Fabian Holland,Pass
+561072,27,SavedShot,0.8619999694824219,0.524000015258789,0.08334314078092575,Oscar Vilhelmsson,h,11918,OpenPlay,2023,RightFoot,23244,Darmstadt,Bayer Leverkusen,0,2,2024-02-03 14:30:00,Luca Pfeiffer,Rebound
+562434,76,BlockedShot,0.8769999694824219,0.4279999923706055,0.3729138970375061,Oscar Vilhelmsson,a,11918,OpenPlay,2023,RightFoot,23245,Borussia M.Gladbach,Darmstadt,0,0,2024-02-10 14:30:00,Julian Justvan,Throughball
+562435,76,MissedShots,0.94,0.38599998474121094,0.3517579138278961,Oscar Vilhelmsson,a,11918,OpenPlay,2023,RightFoot,23245,Borussia M.Gladbach,Darmstadt,0,0,2024-02-10 14:30:00,,Rebound
+567970,65,SavedShot,0.909000015258789,0.7180000305175781,0.05649922043085098,Oscar Vilhelmsson,a,11918,OpenPlay,2023,LeftFoot,23282,RasenBallsport Leipzig,Darmstadt,2,0,2024-03-09 14:30:00,Emir Karic,TakeOn
+569413,46,ShotOnPost,0.8769999694824219,0.4129999923706055,0.3305405080318451,Oscar Vilhelmsson,h,11918,OpenPlay,2023,RightFoot,23298,Darmstadt,Bayern Munich,2,5,2024-03-16 14:30:00,Fabian Holland,Pass
+569417,69,MissedShots,0.7530000305175781,0.29399999618530276,0.010806364007294178,Oscar Vilhelmsson,h,11918,OpenPlay,2023,LeftFoot,23298,Darmstadt,Bayern Munich,2,5,2024-03-16 14:30:00,Tobias Kempe,HeadPass
+569422,80,BlockedShot,0.784000015258789,0.585999984741211,0.029984110966324806,Oscar Vilhelmsson,h,11918,OpenPlay,2023,LeftFoot,23298,Darmstadt,Bayern Munich,2,5,2024-03-16 14:30:00,Julian Justvan,Pass
+569428,94,Goal,0.9230000305175782,0.55,0.30707523226737976,Oscar Vilhelmsson,h,11918,OpenPlay,2023,LeftFoot,23298,Darmstadt,Bayern Munich,2,5,2024-03-16 14:30:00,Sebastian Polter,Cross
+571507,9,BlockedShot,0.8440000152587891,0.385,0.11078929901123047,Oscar Vilhelmsson,a,11918,OpenPlay,2023,RightFoot,23305,Bochum,Darmstadt,2,2,2024-03-31 18:30:00,Julian Justvan,Throughball
+571521,58,MissedShots,0.8680000305175781,0.45599998474121095,0.020699067041277885,Oscar Vilhelmsson,a,11918,OpenPlay,2023,Head,23305,Bochum,Darmstadt,2,2,2024-03-31 18:30:00,Jannik Müller,Aerial
+571529,75,Goal,0.92,0.6730000305175782,0.06092514842748642,Oscar Vilhelmsson,a,11918,OpenPlay,2023,LeftFoot,23305,Bochum,Darmstadt,2,2,2024-03-31 18:30:00,Julian Justvan,Pass
+571533,86,BlockedShot,0.9309999847412109,0.5520000076293945,0.14534452557563782,Oscar Vilhelmsson,a,11918,OpenPlay,2023,LeftFoot,23305,Bochum,Darmstadt,2,2,2024-03-31 18:30:00,Julian Justvan,Pass
+574274,26,BlockedShot,0.9130000305175782,0.29700000762939455,0.044630128890275955,Oscar Vilhelmsson,h,11918,OpenPlay,2023,LeftFoot,23325,Darmstadt,Freiburg,0,1,2024-04-14 13:30:00,Fabian Holland,Chipped
+574282,54,BlockedShot,0.8090000152587891,0.34299999237060547,0.0340125672519207,Oscar Vilhelmsson,h,11918,OpenPlay,2023,LeftFoot,23325,Darmstadt,Freiburg,0,1,2024-04-14 13:30:00,Klaus Gjasula,Pass
+574941,45,SavedShot,0.8690000152587891,0.6079999923706054,0.08229357749223709,Oscar Vilhelmsson,a,11918,OpenPlay,2023,LeftFoot,23331,FC Cologne,Darmstadt,0,2,2024-04-20 13:30:00,Mathias Honsak,Pass
+574958,89,Goal,0.935,0.519000015258789,0.5774181485176086,Oscar Vilhelmsson,a,11918,OpenPlay,2023,LeftFoot,23331,FC Cologne,Darmstadt,0,2,2024-04-20 13:30:00,,Rebound
+577665,74,SavedShot,0.9080000305175782,0.6930000305175781,0.077146016061306,Oscar Vilhelmsson,h,11918,OpenPlay,2023,LeftFoot,23343,Darmstadt,FC Heidenheim,0,1,2024-04-28 17:30:00,Tim Skarke,Pass
+581470,46,MissedShots,0.9309999847412109,0.3970000076293945,0.03228718414902687,Oscar Vilhelmsson,a,11918,OpenPlay,2023,Head,23362,Borussia Dortmund,Darmstadt,4,0,2024-05-18 13:30:00,Matthias Bader,Chipped

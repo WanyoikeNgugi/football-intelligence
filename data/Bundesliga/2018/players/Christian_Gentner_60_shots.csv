@@ -1,0 +1,187 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+24389,12,BlockedShot,0.7559999847412109,0.5359999847412109,0.025081099942326546,Christian Gentner,a,60,OpenPlay,2014,RightFoot,5455,Borussia M.Gladbach,VfB Stuttgart,1,1,2014-08-24 16:30:00,,Interception
+24410,83,SavedShot,0.879000015258789,0.34299999237060547,0.07161819934844971,Christian Gentner,a,60,OpenPlay,2014,RightFoot,5455,Borussia M.Gladbach,VfB Stuttgart,1,1,2014-08-24 16:30:00,Vedad Ibisevic,Pass
+24746,34,MissedShots,0.955999984741211,0.6659999847412109,0.05132170021533966,Christian Gentner,h,60,FromCorner,2014,RightFoot,5458,VfB Stuttgart,FC Cologne,0,2,2014-08-30 14:30:00,,None
+24759,79,BlockedShot,0.775,0.44099998474121094,0.029677899554371834,Christian Gentner,h,60,OpenPlay,2014,RightFoot,5458,VfB Stuttgart,FC Cologne,0,2,2014-08-30 14:30:00,Filip Kostic,Pass
+24761,90,MissedShots,0.92,0.6029999923706054,0.2673349976539612,Christian Gentner,h,60,OpenPlay,2014,RightFoot,5458,VfB Stuttgart,FC Cologne,0,2,2014-08-30 14:30:00,Vedad Ibisevic,HeadPass
+25292,9,MissedShots,0.8080000305175781,0.34200000762939453,0.032694000750780106,Christian Gentner,a,60,OpenPlay,2014,RightFoot,5433,Borussia Dortmund,VfB Stuttgart,2,2,2014-09-24 19:00:00,Daniel Didavi,Chipped
+25319,83,SavedShot,0.8880000305175781,0.445,0.2877340018749237,Christian Gentner,a,60,OpenPlay,2014,RightFoot,5433,Borussia Dortmund,VfB Stuttgart,2,2,2014-09-24 19:00:00,Sven Ulreich,Pass
+26093,24,MissedShots,0.9740000152587891,0.4370000076293945,0.14372600615024567,Christian Gentner,h,60,FromCorner,2014,RightFoot,5396,VfB Stuttgart,Bayer Leverkusen,3,3,2014-10-18 14:30:00,Georg Niedermeier,Rebound
+26416,2,SavedShot,0.85,0.6040000152587891,0.06003490090370178,Christian Gentner,a,60,OpenPlay,2014,RightFoot,5402,Eintracht Frankfurt,VfB Stuttgart,4,5,2014-10-25 14:30:00,Florian Klein,HeadPass
+26420,18,MissedShots,0.8540000152587891,0.3629999923706055,0.0576150007545948,Christian Gentner,a,60,OpenPlay,2014,LeftFoot,5402,Eintracht Frankfurt,VfB Stuttgart,4,5,2014-10-25 14:30:00,Alexandru Maxim,Pass
+26437,50,Goal,0.914000015258789,0.7019999694824218,0.32923901081085205,Christian Gentner,a,60,OpenPlay,2014,RightFoot,5402,Eintracht Frankfurt,VfB Stuttgart,4,5,2014-10-25 14:30:00,Alexandru Maxim,Throughball
+26452,83,Goal,0.9680000305175781,0.5179999923706055,0.789143979549408,Christian Gentner,a,60,SetPiece,2014,RightFoot,5402,Eintracht Frankfurt,VfB Stuttgart,4,5,2014-10-25 14:30:00,,Rebound
+26605,20,SavedShot,0.8819999694824219,0.38,0.10453099757432938,Christian Gentner,h,60,OpenPlay,2014,RightFoot,5350,VfB Stuttgart,Wolfsburg,0,4,2014-11-01 14:30:00,Alexandru Maxim,Throughball
+26619,49,MissedShots,0.9430000305175781,0.3840000152587891,0.014715700410306454,Christian Gentner,h,60,FromCorner,2014,Head,5350,VfB Stuttgart,Wolfsburg,0,4,2014-11-01 14:30:00,Alexandru Maxim,Aerial
+26855,31,MissedShots,0.9490000152587891,0.53,0.46991801261901855,Christian Gentner,a,60,OpenPlay,2014,Head,5362,Werder Bremen,VfB Stuttgart,2,0,2014-11-08 17:30:00,Sercan Sararer,Cross
+27071,34,MissedShots,0.7090000152587891,0.35900001525878905,0.014901000075042248,Christian Gentner,h,60,OpenPlay,2014,RightFoot,5373,VfB Stuttgart,Augsburg,0,1,2014-11-23 16:30:00,,TakeOn
+27220,51,BlockedShot,0.865,0.5690000152587891,0.12146099656820297,Christian Gentner,a,60,OpenPlay,2014,RightFoot,5374,Freiburg,VfB Stuttgart,1,4,2014-11-28 19:30:00,Sercan Sararer,Pass
+27415,47,MissedShots,0.93,0.42200000762939455,0.0747578963637352,Christian Gentner,h,60,FromCorner,2014,RightFoot,5315,VfB Stuttgart,Schalke 04,0,4,2014-12-06 14:30:00,Florian Klein,Cross
+27424,71,MissedShots,0.8769999694824219,0.51,0.030226100236177444,Christian Gentner,h,60,OpenPlay,2014,Head,5315,VfB Stuttgart,Schalke 04,0,4,2014-12-06 14:30:00,Timo Werner,Chipped
+27998,68,ShotOnPost,0.9430000305175781,0.6509999847412109,0.04116480052471161,Christian Gentner,a,60,FromCorner,2014,RightFoot,5327,Mainz 05,VfB Stuttgart,1,1,2014-12-13 17:30:00,Alexandru Maxim,Cross
+27812,37,BlockedShot,0.8430000305175781,0.509000015258789,0.06711889803409576,Christian Gentner,a,60,OpenPlay,2014,RightFoot,5331,Hamburger SV,VfB Stuttgart,0,1,2014-12-16 19:00:00,,Rebound
+27816,47,SavedShot,0.9519999694824218,0.5820000076293945,0.09252790361642838,Christian Gentner,a,60,FromCorner,2014,Head,5331,Hamburger SV,VfB Stuttgart,0,1,2014-12-16 19:00:00,Alexandru Maxim,Cross
+28376,42,MissedShots,0.89,0.5879999923706055,0.012503799982368946,Christian Gentner,h,60,SetPiece,2014,Head,5344,VfB Stuttgart,Paderborn,0,0,2014-12-20 14:30:00,Daniel Didavi,Aerial
+29211,41,BlockedShot,0.8290000152587891,0.634000015258789,0.042352598160505295,Christian Gentner,a,60,OpenPlay,2014,RightFoot,5283,Hoffenheim,VfB Stuttgart,2,1,2015-02-14 14:30:00,Martin Harnik,Pass
+29222,76,SavedShot,0.7469999694824219,0.5929999923706055,0.01580679975450039,Christian Gentner,a,60,OpenPlay,2014,LeftFoot,5283,Hoffenheim,VfB Stuttgart,2,1,2015-02-14 14:30:00,,None
+29287,24,BlockedShot,0.815,0.6140000152587891,0.04240550100803375,Christian Gentner,a,60,OpenPlay,2014,RightFoot,5302,Hannover 96,VfB Stuttgart,1,1,2015-02-28 14:30:00,Alexandru Maxim,Pass
+29292,51,Goal,0.8780000305175781,0.5179999923706055,0.4111829996109009,Christian Gentner,a,60,OpenPlay,2014,LeftFoot,5302,Hannover 96,VfB Stuttgart,1,1,2015-02-28 14:30:00,,None
+29294,54,BlockedShot,0.8690000152587891,0.715,0.032086800783872604,Christian Gentner,a,60,SetPiece,2014,RightFoot,5302,Hannover 96,VfB Stuttgart,1,1,2015-02-28 14:30:00,Gotoku Sakai,Pass
+30241,18,SavedShot,0.9069999694824219,0.45599998474121095,0.028513500466942787,Christian Gentner,h,60,FromCorner,2014,Head,5233,VfB Stuttgart,Hertha Berlin,0,0,2015-03-06 19:30:00,Adam Hlousek,Aerial
+32065,87,MissedShots,0.7819999694824219,0.5279999923706055,0.016131000593304634,Christian Gentner,h,60,OpenPlay,2014,LeftFoot,5256,VfB Stuttgart,Eintracht Frankfurt,3,1,2015-03-21 14:30:00,,Aerial
+32326,21,MissedShots,0.8180000305175781,0.4370000076293945,0.043984901160001755,Christian Gentner,a,60,SetPiece,2014,LeftFoot,5200,Wolfsburg,VfB Stuttgart,3,1,2015-04-04 14:30:00,,None
+32335,54,SavedShot,0.784000015258789,0.615999984741211,0.029668299481272697,Christian Gentner,a,60,OpenPlay,2014,RightFoot,5200,Wolfsburg,VfB Stuttgart,3,1,2015-04-04 14:30:00,Filip Kostic,Pass
+31258,3,MissedShots,0.8469999694824218,0.45099998474121095,0.010905600152909756,Christian Gentner,h,60,OpenPlay,2014,Head,5212,VfB Stuttgart,Werder Bremen,3,2,2015-04-12 16:30:00,Florian Klein,Aerial
+31262,15,Goal,0.7909999847412109,0.610999984741211,0.05156860128045082,Christian Gentner,h,60,OpenPlay,2014,RightFoot,5212,VfB Stuttgart,Werder Bremen,3,2,2015-04-12 16:30:00,,TakeOn
+31276,65,MissedShots,0.9180000305175782,0.5790000152587891,0.06451229751110077,Christian Gentner,h,60,FromCorner,2014,LeftFoot,5212,VfB Stuttgart,Werder Bremen,3,2,2015-04-12 16:30:00,Filip Kostic,Cross
+31967,45,MissedShots,0.8319999694824218,0.38799999237060545,0.05117369815707207,Christian Gentner,a,60,OpenPlay,2014,RightFoot,5219,Augsburg,VfB Stuttgart,2,1,2015-04-18 17:30:00,,None
+31981,80,MissedShots,0.855,0.6880000305175781,0.04065430164337158,Christian Gentner,a,60,OpenPlay,2014,RightFoot,5219,Augsburg,VfB Stuttgart,2,1,2015-04-18 17:30:00,Alexandru Maxim,Pass
+29925,40,MissedShots,0.9359999847412109,0.549000015258789,0.11597900092601776,Christian Gentner,h,60,FromCorner,2014,Head,5224,VfB Stuttgart,Freiburg,2,2,2015-04-25 14:30:00,Alexandru Maxim,Cross
+29933,65,BlockedShot,0.825999984741211,0.51,0.08370800316333771,Christian Gentner,h,60,OpenPlay,2014,LeftFoot,5224,VfB Stuttgart,Freiburg,2,2,2015-04-25 14:30:00,Alexandru Maxim,Pass
+30364,20,BlockedShot,0.7430000305175781,0.5059999847412109,0.018303299322724342,Christian Gentner,a,60,OpenPlay,2014,LeftFoot,5159,Schalke 04,VfB Stuttgart,3,2,2015-05-02 14:30:00,Filip Kostic,None
+31815,39,BlockedShot,0.8590000152587891,0.45099998474121095,0.054739199578762054,Christian Gentner,h,60,OpenPlay,2014,RightFoot,5174,VfB Stuttgart,Mainz 05,2,0,2015-05-09 17:30:00,Filip Kostic,Cross
+30917,26,Goal,0.9259999847412109,0.355,0.06220129877328873,Christian Gentner,h,60,OpenPlay,2014,RightFoot,5184,VfB Stuttgart,Hamburger SV,2,1,2015-05-16 14:30:00,,None
+30918,28,SavedShot,0.794000015258789,0.610999984741211,0.05392809957265854,Christian Gentner,h,60,OpenPlay,2014,RightFoot,5184,VfB Stuttgart,Hamburger SV,2,1,2015-05-16 14:30:00,Daniel Ginczek,TakeOn
+31882,57,MissedShots,0.86,0.45099998474121095,0.09972559660673141,Christian Gentner,a,60,OpenPlay,2014,LeftFoot,5194,Paderborn,VfB Stuttgart,1,2,2015-05-23 14:30:00,Martin Harnik,Pass
+76160,11,ShotOnPost,0.8059999847412109,0.51,0.05521570146083832,Christian Gentner,h,60,OpenPlay,2015,LeftFoot,1029,VfB Stuttgart,FC Cologne,1,3,2015-08-16 19:30:00,Daniel Didavi,Pass
+76176,50,BlockedShot,0.8819999694824219,0.5570000076293945,0.11625099927186966,Christian Gentner,h,60,OpenPlay,2015,RightFoot,1029,VfB Stuttgart,FC Cologne,1,3,2015-08-16 19:30:00,Emiliano Insúa,Pass
+76364,2,MissedShots,0.9490000152587891,0.6469999694824219,0.015915600582957268,Christian Gentner,a,60,FromCorner,2015,Head,1036,Hamburger SV,VfB Stuttgart,3,2,2015-08-22 20:30:00,Daniel Didavi,Cross
+76370,21,SavedShot,0.9019999694824219,0.5220000076293946,0.2435009926557541,Christian Gentner,a,60,FromCorner,2015,Head,1036,Hamburger SV,VfB Stuttgart,3,2,2015-08-22 20:30:00,Filip Kostic,Cross
+76589,24,MissedShots,0.9119999694824219,0.5579999923706055,0.09538979828357697,Christian Gentner,h,60,OpenPlay,2015,RightFoot,1040,VfB Stuttgart,Eintracht Frankfurt,1,4,2015-08-29 17:30:00,Filip Kostic,Cross
+76606,69,BlockedShot,0.899000015258789,0.6669999694824219,0.027661899104714394,Christian Gentner,h,60,OpenPlay,2015,LeftFoot,1040,VfB Stuttgart,Eintracht Frankfurt,1,4,2015-08-29 17:30:00,Emiliano Insúa,Cross
+76607,84,BlockedShot,0.86,0.515,0.10192400217056274,Christian Gentner,h,60,OpenPlay,2015,RightFoot,1040,VfB Stuttgart,Eintracht Frankfurt,1,4,2015-08-29 17:30:00,Emiliano Insúa,Pass
+76909,22,MissedShots,0.91,0.4209999847412109,0.07440649718046188,Christian Gentner,a,60,SetPiece,2015,RightFoot,1051,Hertha Berlin,VfB Stuttgart,2,1,2015-09-12 17:30:00,Daniel Didavi,Cross
+77060,40,SavedShot,0.975,0.34299999237060547,0.03094480000436306,Christian Gentner,h,60,OpenPlay,2015,RightFoot,1063,VfB Stuttgart,Schalke 04,0,1,2015-09-20 17:30:00,Filip Kostic,Cross
+77059,40,SavedShot,0.970999984741211,0.34299999237060547,0.07178869843482971,Christian Gentner,h,60,OpenPlay,2015,RightFoot,1063,VfB Stuttgart,Schalke 04,0,1,2015-09-20 17:30:00,Timo Werner,Rebound
+77062,49,SavedShot,0.8690000152587891,0.5790000152587891,0.00928959995508194,Christian Gentner,h,60,SetPiece,2015,Head,1063,VfB Stuttgart,Schalke 04,0,1,2015-09-20 17:30:00,Alexandru Maxim,Aerial
+77071,72,MissedShots,0.9580000305175781,0.6569999694824219,0.032319098711013794,Christian Gentner,h,60,SetPiece,2015,RightFoot,1063,VfB Stuttgart,Schalke 04,0,1,2015-09-20 17:30:00,Daniel Didavi,Cross
+77325,15,Goal,0.8969999694824219,0.649000015258789,0.06102539971470833,Christian Gentner,a,60,OpenPlay,2015,RightFoot,1074,Hannover 96,VfB Stuttgart,1,3,2015-09-23 22:00:00,Timo Werner,Pass
+77516,5,MissedShots,0.8719999694824219,0.4329999923706055,0.025787800550460815,Christian Gentner,h,60,OpenPlay,2015,Head,1077,VfB Stuttgart,Borussia M.Gladbach,1,3,2015-09-26 17:30:00,Geoffroy Serey Dié,Cross
+77519,19,OwnGoal,0.04199999809265137,0.539000015258789,0,Christian Gentner,h,60,OpenPlay,2015,Head,1077,VfB Stuttgart,Borussia M.Gladbach,1,3,2015-09-26 17:30:00,,None
+77532,56,BlockedShot,0.8969999694824219,0.33,0.053187400102615356,Christian Gentner,h,60,OpenPlay,2015,RightFoot,1077,VfB Stuttgart,Borussia M.Gladbach,1,3,2015-09-26 17:30:00,,Rebound
+77537,74,BlockedShot,0.915,0.4209999847412109,0.06251870095729828,Christian Gentner,h,60,FromCorner,2015,RightFoot,1077,VfB Stuttgart,Borussia M.Gladbach,1,3,2015-09-26 17:30:00,Filip Kostic,Cross
+78996,32,BlockedShot,0.8490000152587891,0.47299999237060547,0.09237650036811829,Christian Gentner,h,60,OpenPlay,2015,RightFoot,1130,VfB Stuttgart,Augsburg,0,4,2015-11-21 18:30:00,Daniel Didavi,Pass
+79014,88,BlockedShot,0.87,0.6309999847412109,0.05165719985961914,Christian Gentner,h,60,FromCorner,2015,LeftFoot,1130,VfB Stuttgart,Augsburg,0,4,2015-11-21 18:30:00,,None
+79015,88,SavedShot,0.9619999694824218,0.67,0.058921799063682556,Christian Gentner,h,60,FromCorner,2015,LeftFoot,1130,VfB Stuttgart,Augsburg,0,4,2015-11-21 18:30:00,,Rebound
+79474,30,SavedShot,0.735999984741211,0.36900001525878906,0.00926990993320942,Christian Gentner,h,60,SetPiece,2015,LeftFoot,1154,VfB Stuttgart,Werder Bremen,1,1,2015-12-06 18:30:00,,Aerial
+79481,61,MissedShots,0.92,0.42700000762939455,0.11685500293970108,Christian Gentner,h,60,OpenPlay,2015,Head,1154,VfB Stuttgart,Werder Bremen,1,1,2015-12-06 18:30:00,Filip Kostic,Cross
+79789,5,ShotOnPost,0.9730000305175781,0.595999984741211,0.06016730144619942,Christian Gentner,a,60,FromCorner,2015,RightFoot,1156,Mainz 05,VfB Stuttgart,0,0,2015-12-11 23:30:00,Alexandru Maxim,Cross
+79790,9,BlockedShot,0.89,0.5870000076293945,0.11937599629163742,Christian Gentner,a,60,OpenPlay,2015,LeftFoot,1156,Mainz 05,VfB Stuttgart,0,0,2015-12-11 23:30:00,,TakeOn
+80172,9,SavedShot,0.9290000152587891,0.3029999923706055,0.05436759814620018,Christian Gentner,a,60,OpenPlay,2015,RightFoot,1175,FC Cologne,VfB Stuttgart,1,3,2016-01-23 18:30:00,Daniel Didavi,Pass
+80173,12,SavedShot,0.8059999847412109,0.655,0.03213369846343994,Christian Gentner,a,60,OpenPlay,2015,RightFoot,1175,FC Cologne,VfB Stuttgart,1,3,2016-01-23 18:30:00,Timo Werner,Pass
+80194,77,MissedShots,0.915,0.34799999237060547,0.04112819954752922,Christian Gentner,a,60,FromCorner,2015,RightFoot,1175,FC Cologne,VfB Stuttgart,1,3,2016-01-23 18:30:00,Filip Kostic,Cross
+80193,77,SavedShot,0.87,0.754000015258789,0.03940369933843613,Christian Gentner,a,60,OpenPlay,2015,RightFoot,1175,FC Cologne,VfB Stuttgart,1,3,2016-01-23 18:30:00,Filip Kostic,Pass
+80196,82,Goal,0.9390000152587891,0.475,0.7282739877700806,Christian Gentner,a,60,OpenPlay,2015,RightFoot,1175,FC Cologne,VfB Stuttgart,1,3,2016-01-23 18:30:00,Lukas Rupp,Pass
+80391,17,MissedShots,0.9130000305175782,0.5790000152587891,0.43347999453544617,Christian Gentner,h,60,OpenPlay,2015,LeftFoot,1189,VfB Stuttgart,Hamburger SV,2,1,2016-01-30 21:30:00,Daniel Didavi,Pass
+80409,64,BlockedShot,0.9340000152587891,0.59,0.10241799801588058,Christian Gentner,h,60,FromCorner,2015,RightFoot,1189,VfB Stuttgart,Hamburger SV,2,1,2016-01-30 21:30:00,Filip Kostic,TakeOn
+80624,26,Goal,0.8680000305175781,0.46799999237060547,0.36323899030685425,Christian Gentner,a,60,OpenPlay,2015,RightFoot,1194,Eintracht Frankfurt,VfB Stuttgart,2,4,2016-02-06 18:30:00,Lukas Rupp,Throughball
+80828,63,MissedShots,0.9319999694824219,0.5609999847412109,0.098819300532341,Christian Gentner,h,60,FromCorner,2015,Head,1205,VfB Stuttgart,Hertha Berlin,2,0,2016-02-13 18:30:00,Filip Kostic,Cross
+81017,5,SavedShot,0.8680000305175781,0.45,0.10564599931240082,Christian Gentner,a,60,OpenPlay,2015,RightFoot,1218,Schalke 04,VfB Stuttgart,1,1,2016-02-21 20:30:00,Timo Werner,Pass
+81034,56,MissedShots,0.775,0.6140000152587891,0.024324700236320496,Christian Gentner,a,60,OpenPlay,2015,LeftFoot,1218,Schalke 04,VfB Stuttgart,1,1,2016-02-21 20:30:00,,None
+81039,63,MissedShots,0.784000015258789,0.3920000076293945,0.028318600729107857,Christian Gentner,a,60,OpenPlay,2015,LeftFoot,1218,Schalke 04,VfB Stuttgart,1,1,2016-02-21 20:30:00,,Rebound
+81041,73,SavedShot,0.9309999847412109,0.3390000152587891,0.01368310023099184,Christian Gentner,a,60,FromCorner,2015,Head,1218,Schalke 04,VfB Stuttgart,1,1,2016-02-21 20:30:00,Alexandru Maxim,Cross
+81300,35,SavedShot,0.9019999694824219,0.3509999847412109,0.12108399718999863,Christian Gentner,h,60,OpenPlay,2015,RightFoot,1223,VfB Stuttgart,Hannover 96,1,2,2016-02-27 18:30:00,Lukas Rupp,TakeOn
+82130,45,SavedShot,0.9409999847412109,0.8109999847412109,0.024202099069952965,Christian Gentner,a,60,OpenPlay,2015,RightFoot,1248,Ingolstadt,VfB Stuttgart,3,3,2016-03-12 18:30:00,Daniel Didavi,End
+82135,49,BlockedShot,0.8769999694824219,0.38599998474121094,0.0847465991973877,Christian Gentner,a,60,OpenPlay,2015,RightFoot,1248,Ingolstadt,VfB Stuttgart,3,3,2016-03-12 18:30:00,Kevin Großkreutz,Pass
+82287,40,MissedShots,0.9469999694824218,0.37099998474121093,0.02302590012550354,Christian Gentner,h,60,FromCorner,2015,Head,1262,VfB Stuttgart,Bayer Leverkusen,0,2,2016-03-20 18:30:00,Filip Kostic,Cross
+82611,29,MissedShots,0.71,0.475,0.015958299860358238,Christian Gentner,a,60,OpenPlay,2015,RightFoot,1268,Darmstadt,VfB Stuttgart,2,2,2016-04-02 17:30:00,Emiliano Insúa,Pass
+82614,44,Goal,0.8640000152587891,0.35200000762939454,0.038053400814533234,Christian Gentner,a,60,OpenPlay,2015,RightFoot,1268,Darmstadt,VfB Stuttgart,2,2,2016-04-02 17:30:00,Filip Kostic,Cross
+83191,24,BlockedShot,0.875,0.47400001525878904,0.10154899954795837,Christian Gentner,h,60,OpenPlay,2015,RightFoot,1292,VfB Stuttgart,Borussia Dortmund,0,3,2016-04-23 17:30:00,Martin Harnik,Pass
+83584,5,Goal,0.924000015258789,0.46599998474121096,0.5103840231895447,Christian Gentner,h,60,OpenPlay,2015,LeftFoot,1312,VfB Stuttgart,Mainz 05,1,3,2016-05-07 17:30:00,Philip Heise,Rebound
+83596,48,SavedShot,0.7530000305175781,0.6940000152587891,0.01685350015759468,Christian Gentner,h,60,OpenPlay,2015,RightFoot,1312,VfB Stuttgart,Mainz 05,1,3,2016-05-07 17:30:00,Filip Kostic,Pass
+166217,70,MissedShots,0.8480000305175781,0.27100000381469724,0.036862000823020935,Christian Gentner,h,60,OpenPlay,2017,RightFoot,8273,VfB Stuttgart,Mainz 05,1,0,2017-08-26 14:30:00,Benjamin Pavard,Pass
+168201,79,BlockedShot,0.8130000305175781,0.24600000381469728,0.027040699496865273,Christian Gentner,h,60,OpenPlay,2017,RightFoot,8366,VfB Stuttgart,Borussia Dortmund,2,1,2017-11-17 19:30:00,,None
+168680,23,SavedShot,0.6709999847412109,0.5059999847412109,0.01571829989552498,Christian Gentner,a,60,OpenPlay,2017,RightFoot,8375,Hannover 96,VfB Stuttgart,1,1,2017-11-24 19:30:00,Andreas Beck,Pass
+168695,65,MissedShots,0.905,0.43099998474121093,0.051465000957250595,Christian Gentner,a,60,FromCorner,2017,Head,8375,Hannover 96,VfB Stuttgart,1,1,2017-11-24 19:30:00,Berkay Özcan,Cross
+168962,67,MissedShots,0.7469999694824219,0.395,0.010709499940276146,Christian Gentner,a,60,OpenPlay,2017,RightFoot,8380,Werder Bremen,VfB Stuttgart,1,0,2017-12-02 14:30:00,,Aerial
+179799,55,BlockedShot,0.95,0.6669999694824219,0.05180560052394867,Christian Gentner,h,60,FromCorner,2017,LeftFoot,8393,VfB Stuttgart,Bayer Leverkusen,0,2,2017-12-08 19:30:00,,None
+194912,65,MissedShots,0.9590000152587891,0.4279999923706055,0.1113710030913353,Christian Gentner,a,60,FromCorner,2017,RightFoot,8446,Wolfsburg,VfB Stuttgart,1,1,2018-02-03 14:30:00,Erik Thommy,Cross
+195127,3,MissedShots,0.8219999694824218,0.67,0.055452898144721985,Christian Gentner,h,60,OpenPlay,2017,LeftFoot,8450,VfB Stuttgart,Borussia M.Gladbach,1,0,2018-02-11 14:30:00,,TakeOn
+195141,72,SavedShot,0.875999984741211,0.7480000305175781,0.03819109871983528,Christian Gentner,h,60,OpenPlay,2017,RightFoot,8450,VfB Stuttgart,Borussia M.Gladbach,1,0,2018-02-11 14:30:00,Emiliano Insúa,Pass
+196759,23,SavedShot,0.6969999694824218,0.38599998474121094,0.01211750041693449,Christian Gentner,a,60,OpenPlay,2017,RightFoot,8463,Augsburg,VfB Stuttgart,0,1,2018-02-18 14:30:00,Santiago Ascacibar,BallRecovery
+196763,33,SavedShot,0.9230000305175782,0.28299999237060547,0.01925949938595295,Christian Gentner,a,60,FromCorner,2017,RightFoot,8463,Augsburg,VfB Stuttgart,0,1,2018-02-18 14:30:00,,Aerial
+197253,27,MissedShots,0.865999984741211,0.29700000762939455,0.032218098640441895,Christian Gentner,h,60,SetPiece,2017,RightFoot,8471,VfB Stuttgart,Eintracht Frankfurt,1,0,2018-02-24 14:30:00,,None
+197256,46,BlockedShot,0.8680000305175781,0.6719999694824219,0.04078489914536476,Christian Gentner,h,60,FromCorner,2017,RightFoot,8471,VfB Stuttgart,Eintracht Frankfurt,1,0,2018-02-24 14:30:00,Erik Thommy,Pass
+200705,24,SavedShot,0.9590000152587891,0.4779999923706055,0.6662819981575012,Christian Gentner,h,60,SetPiece,2017,LeftFoot,8489,VfB Stuttgart,RasenBallsport Leipzig,0,0,2018-03-11 14:30:00,Benjamin Pavard,Pass
+200714,62,BlockedShot,0.9169999694824219,0.62,0.11119399964809418,Christian Gentner,h,60,OpenPlay,2017,RightFoot,8489,VfB Stuttgart,RasenBallsport Leipzig,0,0,2018-03-11 14:30:00,Mario Gomez,Pass
+201137,8,SavedShot,0.765,0.620999984741211,0.029955999925732613,Christian Gentner,a,60,OpenPlay,2017,LeftFoot,8497,Freiburg,VfB Stuttgart,1,2,2018-03-16 19:30:00,Emiliano Insúa,Pass
+201146,58,MissedShots,0.960999984741211,0.6370000076293946,0.01259430032223463,Christian Gentner,a,60,FromCorner,2017,Head,8497,Freiburg,VfB Stuttgart,1,2,2018-03-16 19:30:00,Erik Thommy,Aerial
+201152,86,MissedShots,0.77,0.534000015258789,0.036960799247026443,Christian Gentner,a,60,OpenPlay,2017,RightFoot,8497,Freiburg,VfB Stuttgart,1,2,2018-03-16 19:30:00,Emiliano Insúa,Pass
+204455,26,MissedShots,0.9319999694824219,0.6430000305175781,0.042938798666000366,Christian Gentner,h,60,FromCorner,2017,RightFoot,8510,VfB Stuttgart,Hamburger SV,1,1,2018-03-31 14:30:00,Erik Thommy,Cross
+207441,0,BlockedShot,0.75,0.41200000762939454,0.016784099861979485,Christian Gentner,a,60,OpenPlay,2017,LeftFoot,8511,Borussia Dortmund,VfB Stuttgart,3,0,2018-04-08 13:30:00,Santiago Ascacibar,None
+207455,57,BlockedShot,0.835,0.7169999694824218,0.02649720013141632,Christian Gentner,a,60,OpenPlay,2017,RightFoot,8511,Borussia Dortmund,VfB Stuttgart,3,0,2018-04-08 13:30:00,Dennis Aogo,Pass
+208420,84,MissedShots,0.89,0.4640000152587891,0.07014170289039612,Christian Gentner,h,60,OpenPlay,2017,Head,8528,VfB Stuttgart,Hannover 96,1,1,2018-04-14 13:30:00,Emiliano Insúa,Cross
+210400,12,Goal,0.95,0.52,0.5628319978713989,Christian Gentner,h,60,OpenPlay,2017,Head,8537,VfB Stuttgart,Werder Bremen,2,0,2018-04-21 13:30:00,Emiliano Insúa,Cross
+211949,66,Goal,0.9290000152587891,0.42700000762939455,0.5116710066795349,Christian Gentner,a,60,OpenPlay,2017,Head,8544,Bayer Leverkusen,VfB Stuttgart,0,1,2018-04-28 16:30:00,Dennis Aogo,Chipped
+220638,14,MissedShots,0.8909999847412109,0.45799999237060546,0.42735201120376587,Christian Gentner,a,60,OpenPlay,2018,LeftFoot,10344,Mainz 05,VfB Stuttgart,1,0,2018-08-26 16:30:00,,None
+220639,15,MissedShots,0.8190000152587891,0.45799999237060546,0.0661327987909317,Christian Gentner,a,60,OpenPlay,2018,RightFoot,10344,Mainz 05,VfB Stuttgart,1,0,2018-08-26 16:30:00,Gonzalo Castro,Pass
+220650,77,BlockedShot,0.7909999847412109,0.610999984741211,0.030603500083088875,Christian Gentner,a,60,OpenPlay,2018,LeftFoot,10344,Mainz 05,VfB Stuttgart,1,0,2018-08-26 16:30:00,Erik Thommy,Pass
+220651,82,MissedShots,0.95,0.42700000762939455,0.10689099878072739,Christian Gentner,a,60,FromCorner,2018,Head,10344,Mainz 05,VfB Stuttgart,1,0,2018-08-26 16:30:00,Daniel Didavi,Cross
+224672,54,BlockedShot,0.8619999694824219,0.6270000076293946,0.07168000191450119,Christian Gentner,h,60,OpenPlay,2018,RightFoot,10364,VfB Stuttgart,Fortuna Duesseldorf,0,0,2018-09-21 18:30:00,Mario Gomez,Pass
+224677,64,MissedShots,0.8830000305175781,0.47200000762939454,0.08649600297212601,Christian Gentner,h,60,OpenPlay,2018,RightFoot,10364,VfB Stuttgart,Fortuna Duesseldorf,0,0,2018-09-21 18:30:00,Mario Gomez,HeadPass
+226708,38,MissedShots,0.825999984741211,0.5629999923706055,0.03398440033197403,Christian Gentner,a,60,OpenPlay,2018,LeftFoot,10379,RasenBallsport Leipzig,VfB Stuttgart,2,0,2018-09-26 18:30:00,Mario Gomez,HeadPass
+226717,55,MissedShots,0.955999984741211,0.595999984741211,0.022534500807523727,Christian Gentner,a,60,FromCorner,2018,Head,10379,RasenBallsport Leipzig,VfB Stuttgart,2,0,2018-09-26 18:30:00,Dennis Aogo,Aerial
+255503,7,SavedShot,0.925,0.40400001525878904,0.05035179853439331,Christian Gentner,h,60,FromCorner,2018,Head,10402,VfB Stuttgart,Borussia Dortmund,0,4,2018-10-20 13:30:00,Erik Thommy,Cross
+255510,47,MissedShots,0.9590000152587891,0.5609999847412109,0.5554260015487671,Christian Gentner,h,60,FromCorner,2018,RightFoot,10402,VfB Stuttgart,Borussia Dortmund,0,4,2018-10-20 13:30:00,,Rebound
+255518,64,MissedShots,0.9490000152587891,0.38,0.030847599729895592,Christian Gentner,h,60,FromCorner,2018,Head,10402,VfB Stuttgart,Borussia Dortmund,0,4,2018-10-20 13:30:00,Erik Thommy,Cross
+255520,70,SavedShot,0.7519999694824219,0.5770000076293945,0.016590900719165802,Christian Gentner,h,60,OpenPlay,2018,RightFoot,10402,VfB Stuttgart,Borussia Dortmund,0,4,2018-10-20 13:30:00,Nicolás González,Pass
+255894,54,MissedShots,0.8,0.40099998474121096,0.034585900604724884,Christian Gentner,h,60,OpenPlay,2018,LeftFoot,10425,VfB Stuttgart,Eintracht Frankfurt,0,3,2018-11-02 19:30:00,Mario Gomez,Pass
+256316,5,BlockedShot,0.7809999847412109,0.5590000152587891,0.0364920012652874,Christian Gentner,a,60,OpenPlay,2018,RightFoot,10435,Nuernberg,VfB Stuttgart,0,2,2018-11-10 14:30:00,,BallRecovery
+256333,78,SavedShot,0.8580000305175781,0.5570000076293945,0.3347789943218231,Christian Gentner,a,60,OpenPlay,2018,RightFoot,10435,Nuernberg,VfB Stuttgart,0,2,2018-11-10 14:30:00,Mario Gomez,Pass
+256334,78,SavedShot,0.9219999694824219,0.580999984741211,0.4084790050983429,Christian Gentner,a,60,OpenPlay,2018,LeftFoot,10435,Nuernberg,VfB Stuttgart,0,2,2018-11-10 14:30:00,,Rebound
+256405,20,BlockedShot,0.8959999847412109,0.585,0.018601199612021446,Christian Gentner,a,60,OpenPlay,2018,Head,10438,Bayer Leverkusen,VfB Stuttgart,2,0,2018-11-23 19:30:00,Andreas Beck,Aerial
+256416,57,BlockedShot,0.754000015258789,0.5529999923706055,0.023880699649453163,Christian Gentner,a,60,OpenPlay,2018,LeftFoot,10438,Bayer Leverkusen,VfB Stuttgart,2,0,2018-11-23 19:30:00,Erik Thommy,Pass
+256418,61,MissedShots,0.9440000152587891,0.3770000076293945,0.029429899528622627,Christian Gentner,a,60,FromCorner,2018,Head,10438,Bayer Leverkusen,VfB Stuttgart,2,0,2018-11-23 19:30:00,Dennis Aogo,Cross
+256724,42,MissedShots,0.74,0.41900001525878905,0.02751689963042736,Christian Gentner,h,60,OpenPlay,2018,RightFoot,10448,VfB Stuttgart,Augsburg,1,0,2018-12-01 14:30:00,Santiago Ascacibar,Pass
+257219,53,MissedShots,0.9430000305175781,0.3270000076293945,0.035703498870134354,Christian Gentner,a,60,FromCorner,2018,RightFoot,10457,Borussia M.Gladbach,VfB Stuttgart,3,0,2018-12-09 17:00:00,Gonzalo Castro,Cross
+257522,86,MissedShots,0.8680000305175781,0.54,0.02654550038278103,Christian Gentner,a,60,OpenPlay,2018,Head,10477,Wolfsburg,VfB Stuttgart,2,0,2018-12-18 19:30:00,Daniel Didavi,Cross
+278284,32,BlockedShot,0.875999984741211,0.6079999923706054,0.0573946014046669,Christian Gentner,h,60,OpenPlay,2018,RightFoot,10491,VfB Stuttgart,Mainz 05,2,3,2019-01-19 14:30:00,,Rebound
+278310,91,SavedShot,0.749000015258789,0.59,0.019009800627827644,Christian Gentner,h,60,OpenPlay,2018,RightFoot,10491,VfB Stuttgart,Mainz 05,2,3,2019-01-19 14:30:00,Nicolás González,Pass
+278720,54,OwnGoal,0.05,0.509000015258789,0,Christian Gentner,a,60,OpenPlay,2018,RightFoot,10499,Bayern Munich,VfB Stuttgart,4,1,2019-01-27 14:30:00,,None
+278922,16,BlockedShot,0.7340000152587891,0.35200000762939454,0.04687720164656639,Christian Gentner,h,60,DirectFreekick,2018,RightFoot,10509,VfB Stuttgart,Freiburg,2,2,2019-02-03 17:00:00,,Standard
+278932,35,BlockedShot,0.8680000305175781,0.4229999923706055,0.06760779768228531,Christian Gentner,h,60,OpenPlay,2018,RightFoot,10509,VfB Stuttgart,Freiburg,2,2,2019-02-03 17:00:00,,Rebound
+278933,35,MissedShots,0.8490000152587891,0.445,0.061265598982572556,Christian Gentner,h,60,OpenPlay,2018,LeftFoot,10509,VfB Stuttgart,Freiburg,2,2,2019-02-03 17:00:00,,Rebound
+279375,62,BlockedShot,0.8730000305175781,0.4929999923706055,0.014169500209391117,Christian Gentner,a,60,FromCorner,2018,Head,10539,Werder Bremen,VfB Stuttgart,1,1,2019-02-22 19:30:00,Gonzalo Castro,Aerial
+299194,83,MissedShots,0.914000015258789,0.37900001525878907,0.04703290015459061,Christian Gentner,a,60,FromCorner,2018,RightFoot,10620,Hertha Berlin,VfB Stuttgart,3,1,2019-05-04 14:30:00,Gonzalo Castro,Cross
+317147,80,SavedShot,0.8959999847412109,0.585,0.07962779700756073,Christian Gentner,h,60,FromCorner,2019,RightFoot,12434,Union Berlin,Werder Bremen,1,2,2019-09-14 13:30:00,,None
+324884,12,MissedShots,0.78,0.32799999237060545,0.02258710004389286,Christian Gentner,a,60,OpenPlay,2019,LeftFoot,12463,Wolfsburg,Union Berlin,1,0,2019-10-06 14:30:00,,BallTouch
+324896,57,MissedShots,0.8640000152587891,0.5790000152587891,0.07136639952659607,Christian Gentner,a,60,OpenPlay,2019,RightFoot,12463,Wolfsburg,Union Berlin,1,0,2019-10-06 14:30:00,,None
+324897,60,SavedShot,0.9430000305175781,0.5790000152587891,0.09297619760036469,Christian Gentner,a,60,FromCorner,2019,Head,12463,Wolfsburg,Union Berlin,1,0,2019-10-06 14:30:00,Christopher Trimmel,Cross
+325417,54,MissedShots,0.8930000305175781,0.40599998474121096,0.085726797580719,Christian Gentner,h,60,OpenPlay,2019,LeftFoot,12468,Union Berlin,Freiburg,2,0,2019-10-19 14:30:00,Marius Bülter,Cross
+325421,61,MissedShots,0.75,0.6940000152587891,0.017062300816178322,Christian Gentner,h,60,OpenPlay,2019,RightFoot,12468,Union Berlin,Freiburg,2,0,2019-10-19 14:30:00,,None
+327145,55,SavedShot,0.9469999694824218,0.425,0.16859400272369385,Christian Gentner,a,60,FromCorner,2019,Head,12476,Bayern Munich,Union Berlin,2,1,2019-10-26 14:30:00,Christopher Trimmel,Aerial
+329459,23,SavedShot,0.7280000305175781,0.5570000076293945,0.01686690002679825,Christian Gentner,h,60,OpenPlay,2019,LeftFoot,12492,Union Berlin,Hertha Berlin,1,0,2019-11-02 17:30:00,Christopher Lenz,Pass
+329462,38,BlockedShot,0.9259999847412109,0.40700000762939453,0.08985219895839691,Christian Gentner,h,60,OpenPlay,2019,RightFoot,12492,Union Berlin,Hertha Berlin,1,0,2019-11-02 17:30:00,,None
+330535,14,MissedShots,0.895,0.415,0.07603470236063004,Christian Gentner,a,60,OpenPlay,2019,RightFoot,12495,Mainz 05,Union Berlin,2,3,2019-11-09 14:30:00,Sebastian Andersson,HeadPass
+330543,33,SavedShot,0.6990000152587891,0.504000015258789,0.009314020164310932,Christian Gentner,a,60,SetPiece,2019,LeftFoot,12495,Mainz 05,Union Berlin,2,3,2019-11-09 14:30:00,,None
+332013,47,BlockedShot,0.9380000305175781,0.3970000076293945,0.04111950099468231,Christian Gentner,h,60,OpenPlay,2019,Head,12509,Union Berlin,Borussia M.Gladbach,2,0,2019-11-23 14:30:00,Christopher Lenz,Aerial
+333271,5,MissedShots,0.9130000305175782,0.5129999923706055,0.12857599556446075,Christian Gentner,a,60,OpenPlay,2019,Head,12515,Schalke 04,Union Berlin,2,1,2019-11-29 19:30:00,Robert Andrich,Cross
+333289,60,MissedShots,0.9640000152587891,0.5990000152587891,0.059281401336193085,Christian Gentner,a,60,FromCorner,2019,Head,12515,Schalke 04,Union Berlin,2,1,2019-11-29 19:30:00,Christopher Trimmel,Cross
+336860,74,MissedShots,0.8030000305175782,0.35200000762939454,0.027386099100112915,Christian Gentner,a,60,OpenPlay,2019,RightFoot,12537,Paderborn,Union Berlin,1,1,2019-12-14 14:30:00,,Rebound
+338052,65,BlockedShot,0.784000015258789,0.6079999923706054,0.04362209886312485,Christian Gentner,h,60,OpenPlay,2019,LeftFoot,12546,Union Berlin,Hoffenheim,0,2,2019-12-17 19:30:00,,TakeOn
+338054,73,MissedShots,0.830999984741211,0.5309999847412109,0.0673706978559494,Christian Gentner,h,60,OpenPlay,2019,RightFoot,12546,Union Berlin,Hoffenheim,0,2,2019-12-17 19:30:00,Florian Hübner,Pass
+338056,84,MissedShots,0.7809999847412109,0.5929999923706055,0.02082579955458641,Christian Gentner,h,60,SetPiece,2019,RightFoot,12546,Union Berlin,Hoffenheim,0,2,2019-12-17 19:30:00,,None
+339325,60,SavedShot,0.9259999847412109,0.5940000152587891,0.36155301332473755,Christian Gentner,a,60,OpenPlay,2019,LeftFoot,12550,Fortuna Duesseldorf,Union Berlin,2,1,2019-12-22 14:30:00,,Rebound
+339332,74,MissedShots,0.9169999694824219,0.500999984741211,0.06938090175390244,Christian Gentner,a,60,OpenPlay,2019,Head,12550,Fortuna Duesseldorf,Union Berlin,2,1,2019-12-22 14:30:00,Christopher Lenz,Aerial
+354989,14,SavedShot,0.91,0.5109999847412109,0.36998599767684937,Christian Gentner,a,60,OpenPlay,2019,Head,12556,RasenBallsport Leipzig,Union Berlin,3,1,2020-01-18 17:30:00,,Rebound
+355006,69,MissedShots,0.9080000305175782,0.735999984741211,0.0285544004291296,Christian Gentner,a,60,FromCorner,2019,RightFoot,12556,RasenBallsport Leipzig,Union Berlin,3,1,2020-01-18 17:30:00,Marius Bülter,BallTouch
+355014,85,BlockedShot,0.7469999694824219,0.5070000076293946,0.017362099140882492,Christian Gentner,a,60,FromCorner,2019,RightFoot,12556,RasenBallsport Leipzig,Union Berlin,3,1,2020-01-18 17:30:00,,None
+355780,18,BlockedShot,0.855999984741211,0.3629999923706055,0.05580399930477142,Christian Gentner,h,60,OpenPlay,2019,RightFoot,12573,Union Berlin,Augsburg,2,0,2020-01-25 14:30:00,,None
+357941,42,MissedShots,0.7680000305175781,0.75,0.01676039956510067,Christian Gentner,a,60,OpenPlay,2019,RightFoot,12588,Werder Bremen,Union Berlin,0,2,2020-02-08 14:30:00,Marius Bülter,Pass
+358951,6,Goal,0.8090000152587891,0.5320000076293945,0.055605798959732056,Christian Gentner,h,60,OpenPlay,2019,RightFoot,12600,Union Berlin,Bayer Leverkusen,2,3,2020-02-15 14:30:00,Yunus Malli,BallTouch
+361730,28,SavedShot,0.845,0.5420000076293945,0.07614409923553467,Christian Gentner,a,60,OpenPlay,2019,LeftFoot,12625,Freiburg,Union Berlin,3,1,2020-03-07 14:30:00,Sebastian Andersson,BallTouch
+361740,78,BlockedShot,0.784000015258789,0.610999984741211,0.02689339965581894,Christian Gentner,a,60,OpenPlay,2019,RightFoot,12625,Freiburg,Union Berlin,3,1,2020-03-07 14:30:00,Marcus Ingvartsen,BallTouch
+363085,74,MissedShots,0.8030000305175782,0.40200000762939453,0.03638270124793053,Christian Gentner,h,60,OpenPlay,2019,LeftFoot,12636,Union Berlin,Bayern Munich,0,2,2020-05-17 16:00:00,,Dispossessed
+363086,77,MissedShots,0.815,0.6859999847412109,0.02760620042681694,Christian Gentner,h,60,OpenPlay,2019,LeftFoot,12636,Union Berlin,Bayern Munich,0,2,2020-05-17 16:00:00,,None
+363556,38,MissedShots,0.7180000305175781,0.42700000762939455,0.011906400322914124,Christian Gentner,h,60,OpenPlay,2019,RightFoot,12651,Union Berlin,Mainz 05,1,1,2020-05-27 18:30:00,Marius Bülter,HeadPass
+363710,14,MissedShots,0.8469999694824218,0.4420000076293945,0.02746479958295822,Christian Gentner,a,60,OpenPlay,2019,Head,12656,Borussia M.Gladbach,Union Berlin,4,1,2020-05-31 13:30:00,Neven Subotic,Chipped
+364248,66,Goal,0.91,0.39,0.20999599993228912,Christian Gentner,a,60,FromCorner,2019,LeftFoot,12680,FC Cologne,Union Berlin,1,2,2020-06-13 13:30:00,Marius Bülter,Cross
+364639,30,MissedShots,0.7630000305175781,0.6170000076293946,0.026020200923085213,Christian Gentner,h,60,OpenPlay,2019,RightFoot,12690,Union Berlin,Paderborn,1,0,2020-06-16 18:30:00,Marius Bülter,Pass
+367012,53,Goal,0.8159999847412109,0.5259999847412109,0.2962320148944855,Christian Gentner,h,60,OpenPlay,2019,LeftFoot,12708,Union Berlin,Fortuna Duesseldorf,3,0,2020-06-27 13:30:00,Anthony Ujah,Pass
+385885,22,MissedShots,0.840999984741211,0.6780000305175782,0.052194301038980484,Christian Gentner,h,60,OpenPlay,2020,RightFoot,15197,Union Berlin,Arminia Bielefeld,5,0,2020-11-07 14:30:00,Christopher Lenz,Pass
+404394,34,MissedShots,0.7230000305175781,0.435,0.010737299919128418,Christian Gentner,h,60,SetPiece,2020,RightFoot,15326,Union Berlin,Schalke 04,0,0,2021-02-13 17:30:00,,None
+407136,78,BlockedShot,0.914000015258789,0.6909999847412109,0.03908500075340271,Christian Gentner,h,60,SetPiece,2020,RightFoot,15343,Union Berlin,Hoffenheim,1,1,2021-02-28 12:30:00,Robin Knoche,Pass
+413281,45,BlockedShot,0.8280000305175781,0.3629999923706055,0.01633409969508648,Christian Gentner,h,60,SetPiece,2020,RightFoot,15379,Union Berlin,Hertha Berlin,1,1,2021-04-04 16:00:00,,Aerial
+413851,84,MissedShots,0.9309999847412109,0.5570000076293945,0.05018790066242218,Christian Gentner,a,60,OpenPlay,2020,Head,15383,Bayern Munich,Union Berlin,1,1,2021-04-10 13:30:00,Joel Pohjanpalo,Aerial
+419988,69,MissedShots,0.7609999847412109,0.3629999923706055,0.01366879977285862,Christian Gentner,a,60,OpenPlay,2020,RightFoot,15422,Wolfsburg,Union Berlin,3,0,2021-05-08 13:30:00,,None
+423511,34,MissedShots,0.8590000152587891,0.3509999847412109,0.053999800235033035,Christian Gentner,h,60,OpenPlay,2020,RightFoot,15442,Union Berlin,RasenBallsport Leipzig,2,1,2021-05-22 13:30:00,,None

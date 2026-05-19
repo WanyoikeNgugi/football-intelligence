@@ -1,0 +1,36 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+377358,24,MissedShots,0.7669999694824219,0.3629999923706055,0.02241620048880577,Manuel Prietl,a,8789,OpenPlay,2020,RightFoot,14174,Eintracht Frankfurt,Arminia Bielefeld,1,1,2020-09-19 13:30:00,,Dispossessed
+377362,38,SavedShot,0.6990000152587891,0.5479999923706055,0.014662499539554119,Manuel Prietl,a,8789,OpenPlay,2020,RightFoot,14174,Eintracht Frankfurt,Arminia Bielefeld,1,1,2020-09-19 13:30:00,Marcel Hartel,Pass
+382059,68,BlockedShot,0.6719999694824219,0.539000015258789,0.006407320033758879,Manuel Prietl,h,8789,OpenPlay,2020,RightFoot,15172,Arminia Bielefeld,Bayern Munich,1,4,2020-10-17 16:30:00,,None
+383934,37,BlockedShot,0.7030000305175781,0.49900001525878906,0.008062340319156647,Manuel Prietl,a,8789,OpenPlay,2020,RightFoot,15182,Wolfsburg,Arminia Bielefeld,2,1,2020-10-25 14:30:00,,None
+383948,82,BlockedShot,0.6980000305175781,0.525,0.010838000103831291,Manuel Prietl,a,8789,OpenPlay,2020,LeftFoot,15182,Wolfsburg,Arminia Bielefeld,2,1,2020-10-25 14:30:00,,None
+390051,20,Goal,0.7290000152587891,0.5059999847412109,0.016758600249886513,Manuel Prietl,h,8789,OpenPlay,2020,RightFoot,15229,Arminia Bielefeld,Mainz 05,2,1,2020-12-05 14:30:00,Ritsu Doan,Pass
+390062,60,SavedShot,0.9430000305175781,0.37,0.3385069966316223,Manuel Prietl,h,8789,OpenPlay,2020,RightFoot,15229,Arminia Bielefeld,Mainz 05,2,1,2020-12-05 14:30:00,Fabian Klos,Chipped
+393855,11,MissedShots,0.805,0.44299999237060544,0.05065929889678955,Manuel Prietl,a,8789,OpenPlay,2020,LeftFoot,15254,Schalke 04,Arminia Bielefeld,0,1,2020-12-19 14:30:00,Sergio Córdova,BallTouch
+405060,29,MissedShots,0.6959999847412109,0.6509999847412109,0.0198247991502285,Manuel Prietl,a,8789,OpenPlay,2020,RightFoot,15320,Bayern Munich,Arminia Bielefeld,3,3,2021-02-15 19:30:00,Jacob Laursen,Pass
+405074,66,BlockedShot,0.78,0.7530000305175781,0.02095700055360794,Manuel Prietl,a,8789,OpenPlay,2020,LeftFoot,15320,Bayern Munich,Arminia Bielefeld,3,3,2021-02-15 19:30:00,Fabian Klos,LayOff
+412425,11,BlockedShot,0.6969999694824218,0.629000015258789,0.009896489791572094,Manuel Prietl,a,8789,OpenPlay,2020,RightFoot,15380,Mainz 05,Arminia Bielefeld,1,1,2021-04-03 13:30:00,,None
+416256,8,SavedShot,0.749000015258789,0.4370000076293945,0.015521500259637833,Manuel Prietl,h,8789,OpenPlay,2020,RightFoot,15408,Arminia Bielefeld,Schalke 04,1,0,2021-04-20 18:30:00,Ritsu Doan,TakeOn
+416267,54,BlockedShot,0.7480000305175781,0.5709999847412109,0.022257700562477112,Manuel Prietl,h,8789,SetPiece,2020,LeftFoot,15408,Arminia Bielefeld,Schalke 04,1,0,2021-04-20 18:30:00,,TakeOn
+416270,61,BlockedShot,0.8130000305175781,0.4420000076293945,0.06466879695653915,Manuel Prietl,h,8789,OpenPlay,2020,LeftFoot,15408,Arminia Bielefeld,Schalke 04,1,0,2021-04-20 18:30:00,Ritsu Doan,Pass
+420764,16,MissedShots,0.720999984741211,0.545,0.01536799967288971,Manuel Prietl,a,8789,OpenPlay,2020,RightFoot,15424,Hertha Berlin,Arminia Bielefeld,0,0,2021-05-09 16:00:00,Fabian Klos,BallRecovery
+420768,27,SavedShot,0.774000015258789,0.44299999237060544,0.032503098249435425,Manuel Prietl,a,8789,OpenPlay,2020,LeftFoot,15424,Hertha Berlin,Arminia Bielefeld,0,0,2021-05-09 16:00:00,Ritsu Doan,BallTouch
+421962,34,MissedShots,0.925,0.539000015258789,0.050569798797369,Manuel Prietl,h,8789,FromCorner,2020,Head,15436,Arminia Bielefeld,Hoffenheim,1,1,2021-05-15 13:30:00,Joakim Nilsson,Aerial
+421973,65,MissedShots,0.789000015258789,0.17399999618530274,0.012767099775373936,Manuel Prietl,h,8789,OpenPlay,2020,RightFoot,15436,Arminia Bielefeld,Hoffenheim,1,1,2021-05-15 13:30:00,,BallRecovery
+426971,46,MissedShots,0.87,0.44599998474121094,0.055085498839616776,Manuel Prietl,a,8789,OpenPlay,2021,LeftFoot,17526,Greuther Fuerth,Arminia Bielefeld,1,1,2021-08-21 13:30:00,,Aerial
+430722,86,SavedShot,0.74,0.3890000152587891,0.012693899683654308,Manuel Prietl,a,8789,OpenPlay,2021,RightFoot,17551,Borussia M.Gladbach,Arminia Bielefeld,3,1,2021-09-12 17:30:00,Janni Serra,Pass
+431218,37,BlockedShot,0.8530000305175781,0.46900001525878904,0.11262699961662292,Manuel Prietl,h,8789,OpenPlay,2021,RightFoot,17555,Arminia Bielefeld,Hoffenheim,0,0,2021-09-18 13:30:00,,TakeOn
+435812,30,BlockedShot,0.8040000152587891,0.639000015258789,0.04201440140604973,Manuel Prietl,h,8789,OpenPlay,2021,LeftFoot,17571,Arminia Bielefeld,Bayer Leverkusen,0,4,2021-10-03 17:30:00,Patrick Wimmer,TakeOn
+437004,39,MissedShots,0.755,0.495,0.022006500512361526,Manuel Prietl,a,8789,OpenPlay,2021,LeftFoot,17580,Augsburg,Arminia Bielefeld,1,1,2021-10-17 15:30:00,,None
+437006,44,MissedShots,0.725999984741211,0.6659999847412109,0.015507199801504612,Manuel Prietl,a,8789,OpenPlay,2021,LeftFoot,17580,Augsburg,Arminia Bielefeld,1,1,2021-10-17 15:30:00,Fabian Kunze,Pass
+439487,5,SavedShot,0.7580000305175781,0.42900001525878906,0.023425500839948654,Manuel Prietl,h,8789,OpenPlay,2021,RightFoot,17597,Arminia Bielefeld,Mainz 05,1,2,2021-10-30 13:30:00,Edimilson Fernandes,Pass
+441015,54,BlockedShot,0.730999984741211,0.495,0.02267169952392578,Manuel Prietl,a,8789,OpenPlay,2021,LeftFoot,17611,VfB Stuttgart,Arminia Bielefeld,0,1,2021-11-06 14:30:00,Jacob Laursen,Pass
+441024,84,MissedShots,0.7580000305175781,0.3820000076293945,0.02859259955585003,Manuel Prietl,a,8789,OpenPlay,2021,LeftFoot,17611,VfB Stuttgart,Arminia Bielefeld,0,1,2021-11-06 14:30:00,,None
+444287,43,BlockedShot,0.8719999694824219,0.544000015258789,0.0905383974313736,Manuel Prietl,a,8789,SetPiece,2021,RightFoot,17632,Bayern Munich,Arminia Bielefeld,1,0,2021-11-27 17:30:00,,Rebound
+446033,12,BlockedShot,0.865,0.575,0.06445279717445374,Manuel Prietl,h,8789,FromCorner,2021,LeftFoot,17633,Arminia Bielefeld,FC Cologne,1,1,2021-12-04 14:30:00,,None
+446036,23,MissedShots,0.82,0.3060000038146973,0.027927100658416748,Manuel Prietl,h,8789,OpenPlay,2021,LeftFoot,17633,Arminia Bielefeld,FC Cologne,1,1,2021-12-04 14:30:00,,None
+446054,84,MissedShots,0.9269999694824219,0.44400001525878907,0.06428089737892151,Manuel Prietl,h,8789,OpenPlay,2021,Head,17633,Arminia Bielefeld,FC Cologne,1,1,2021-12-04 14:30:00,Amos Pieper,Aerial
+465151,8,MissedShots,0.799000015258789,0.37900001525878907,0.024586400017142296,Manuel Prietl,h,8789,FromCorner,2021,RightFoot,17759,Arminia Bielefeld,VfB Stuttgart,1,1,2022-04-02 13:30:00,,None
+465169,74,MissedShots,0.9119999694824219,0.48400001525878905,0.0868908017873764,Manuel Prietl,h,8789,FromCorner,2021,LeftFoot,17759,Arminia Bielefeld,VfB Stuttgart,1,1,2022-04-02 13:30:00,Robin Hack,Cross
+465174,84,SavedShot,0.9430000305175781,0.52,0.07667040079832077,Manuel Prietl,h,8789,FromCorner,2021,Head,17759,Arminia Bielefeld,VfB Stuttgart,1,1,2022-04-02 13:30:00,Joakim Nilsson,Aerial
+468741,50,SavedShot,0.919000015258789,0.4929999923706055,0.048735201358795166,Manuel Prietl,h,8789,FromCorner,2021,Head,17777,Arminia Bielefeld,Bayern Munich,0,3,2022-04-17 13:30:00,Patrick Wimmer,Aerial

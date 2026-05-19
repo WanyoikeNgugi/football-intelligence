@@ -1,0 +1,27 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+390058,52,MissedShots,0.7,0.3,0.012853399850428104,Cédric Brunner,h,8794,OpenPlay,2020,LeftFoot,15229,Arminia Bielefeld,Mainz 05,2,1,2020-12-05 14:30:00,Ritsu Doan,Pass
+391514,75,MissedShots,0.8590000152587891,0.3920000076293945,0.0249393992125988,Cédric Brunner,a,8794,SetPiece,2020,LeftFoot,15235,Freiburg,Arminia Bielefeld,2,0,2020-12-12 14:30:00,,Aerial
+393861,23,BlockedShot,0.9590000152587891,0.5220000076293946,0.1364160031080246,Cédric Brunner,a,8794,FromCorner,2020,Head,15254,Schalke 04,Arminia Bielefeld,0,1,2020-12-19 14:30:00,Ritsu Doan,Cross
+411093,19,MissedShots,0.7830000305175782,0.3189999961853027,0.022136099636554718,Cédric Brunner,h,8794,OpenPlay,2020,RightFoot,15373,Arminia Bielefeld,RasenBallsport Leipzig,0,1,2021-03-19 19:30:00,Michel Vlap,Pass
+412434,61,SavedShot,0.9540000152587891,0.38599998474121094,0.048513300716876984,Cédric Brunner,a,8794,SetPiece,2020,Head,15380,Mainz 05,Arminia Bielefeld,1,1,2021-04-03 13:30:00,Ritsu Doan,Chipped
+412435,66,MissedShots,0.9290000152587891,0.5879999923706055,0.020223800092935562,Cédric Brunner,a,8794,FromCorner,2020,Head,15380,Mainz 05,Arminia Bielefeld,1,1,2021-04-03 13:30:00,Ritsu Doan,Aerial
+430720,85,BlockedShot,0.7440000152587891,0.3220000076293945,0.012621499598026276,Cédric Brunner,a,8794,OpenPlay,2021,RightFoot,17551,Borussia M.Gladbach,Arminia Bielefeld,3,1,2021-09-12 17:30:00,Alessandro Schöpf,Pass
+430724,91,MissedShots,0.7030000305175781,0.365,0.010633699595928192,Cédric Brunner,a,8794,OpenPlay,2021,RightFoot,17551,Borussia M.Gladbach,Arminia Bielefeld,3,1,2021-09-12 17:30:00,Alessandro Schöpf,Pass
+431217,37,BlockedShot,0.794000015258789,0.3060000038146973,0.019980600103735924,Cédric Brunner,h,8794,OpenPlay,2021,RightFoot,17555,Arminia Bielefeld,Hoffenheim,0,0,2021-09-18 13:30:00,,None
+437005,44,BlockedShot,0.7340000152587891,0.3629999923706055,0.018156399950385094,Cédric Brunner,a,8794,OpenPlay,2021,RightFoot,17580,Augsburg,Arminia Bielefeld,1,1,2021-10-17 15:30:00,Fabian Kunze,Pass
+437705,25,MissedShots,0.785,0.3729999923706055,0.030370399355888367,Cédric Brunner,h,8794,OpenPlay,2021,RightFoot,17590,Arminia Bielefeld,Borussia Dortmund,1,3,2021-10-23 13:30:00,,BallRecovery
+446031,7,BlockedShot,0.7909999847412109,0.3110000038146973,0.013489999808371067,Cédric Brunner,h,8794,OpenPlay,2021,LeftFoot,17633,Arminia Bielefeld,FC Cologne,1,1,2021-12-04 14:30:00,Alessandro Schöpf,Chipped
+447560,84,MissedShots,0.8619999694824219,0.33299999237060546,0.04597939923405647,Cédric Brunner,a,8794,OpenPlay,2021,RightFoot,17645,Hertha Berlin,Arminia Bielefeld,2,0,2021-12-11 14:30:00,Robin Hack,HeadPass
+448874,43,MissedShots,0.7390000152587891,0.41,0.01842219941318035,Cédric Brunner,h,8794,OpenPlay,2021,RightFoot,17651,Arminia Bielefeld,Bochum,2,0,2021-12-14 19:30:00,Janni Serra,TakeOn
+458218,62,MissedShots,0.7830000305175782,0.295,0.026100199669599533,Cédric Brunner,h,8794,OpenPlay,2021,RightFoot,17715,Arminia Bielefeld,Union Berlin,1,0,2022-02-19 14:30:00,Masaya Okugawa,Pass
+460745,62,MissedShots,0.6969999694824218,0.39599998474121095,0.014248100109398365,Cédric Brunner,h,8794,OpenPlay,2021,LeftFoot,17734,Arminia Bielefeld,Augsburg,0,1,2022-03-04 19:30:00,Fabian Kunze,Pass
+479894,91,ShotOnPost,0.889000015258789,0.4159999847412109,0.08105809986591339,Cédric Brunner,a,8794,OpenPlay,2022,LeftFoot,19350,FC Cologne,Schalke 04,3,1,2022-08-07 15:30:00,,Interception
+481777,52,MissedShots,0.774000015258789,0.4879999923706055,0.02320599928498268,Cédric Brunner,a,8794,OpenPlay,2022,LeftFoot,19361,Wolfsburg,Schalke 04,0,0,2022-08-20 13:30:00,,Rebound
+499435,68,MissedShots,0.7180000305175781,0.44,0.01748039945960045,Cédric Brunner,h,8794,OpenPlay,2022,RightFoot,19467,Schalke 04,Mainz 05,1,0,2022-11-09 19:30:00,,None
+504585,1,BlockedShot,0.725,0.3890000152587891,0.012129499576985836,Cédric Brunner,a,8794,SetPiece,2022,RightFoot,19482,Eintracht Frankfurt,Schalke 04,3,0,2023-01-21 14:30:00,,Rebound
+505321,56,BlockedShot,0.720999984741211,0.35200000762939454,0.010439000092446804,Cédric Brunner,h,8794,OpenPlay,2022,RightFoot,19493,Schalke 04,RasenBallsport Leipzig,1,6,2023-01-24 17:30:00,,BallTouch
+506219,46,BlockedShot,0.755,0.35700000762939454,0.017248500138521194,Cédric Brunner,h,8794,OpenPlay,2022,RightFoot,19502,Schalke 04,FC Cologne,0,0,2023-01-29 14:30:00,Soichiro Kozuki,Pass
+513731,75,MissedShots,0.8119999694824219,0.47400001525878904,0.03517509996891022,Cédric Brunner,h,8794,FromCorner,2022,LeftFoot,19556,Schalke 04,Borussia Dortmund,2,2,2023-03-11 17:30:00,Maya Yoshida,BallTouch
+519036,11,BlockedShot,0.7709999847412109,0.39599998474121095,0.019346099346876144,Cédric Brunner,h,8794,FromCorner,2022,RightFoot,19592,Schalke 04,Hertha Berlin,5,2,2023-04-14 18:30:00,,None
+525912,22,MissedShots,0.7759999847412109,0.41700000762939454,0.019062738865613937,Cédric Brunner,a,8794,OpenPlay,2022,RightFoot,19621,Bayern Munich,Schalke 04,6,0,2023-05-13 13:30:00,Tom Krauß,Chipped
+528930,61,BlockedShot,0.9630000305175781,0.39599998474121095,0.0796632394194603,Cédric Brunner,a,8794,OpenPlay,2022,RightFoot,19640,RasenBallsport Leipzig,Schalke 04,4,2,2023-05-27 13:30:00,Marius Bülter,Cross

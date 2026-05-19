@@ -1,0 +1,56 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+255591,84,BlockedShot,0.8719999694824219,0.445,0.14273999631404877,Kevin Möhwald,a,7044,OpenPlay,2018,RightFoot,10400,Schalke 04,Werder Bremen,0,2,2018-10-20 16:30:00,Maximilian Eggestein,Pass
+255592,86,SavedShot,0.764000015258789,0.39599998474121095,0.027465399354696274,Kevin Möhwald,a,7044,OpenPlay,2018,RightFoot,10400,Schalke 04,Werder Bremen,0,2,2018-10-20 16:30:00,Theodor Gebre Selassie,Pass
+256705,71,MissedShots,0.785,0.3920000076293945,0.02200300060212612,Kevin Möhwald,h,7044,FromCorner,2018,RightFoot,10450,Werder Bremen,Bayern Munich,1,2,2018-12-01 14:30:00,,None
+256974,19,Goal,0.815,0.6170000076293946,0.04306570068001747,Kevin Möhwald,h,7044,OpenPlay,2018,RightFoot,10459,Werder Bremen,Fortuna Duesseldorf,3,1,2018-12-07 19:30:00,Max Kruse,Pass
+256983,55,SavedShot,0.6959999847412109,0.5270000076293946,0.015506500378251076,Kevin Möhwald,h,7044,OpenPlay,2018,RightFoot,10459,Werder Bremen,Fortuna Duesseldorf,3,1,2018-12-07 19:30:00,Maximilian Eggestein,Pass
+256988,65,MissedShots,0.87,0.3970000076293945,0.03337850049138069,Kevin Möhwald,h,7044,OpenPlay,2018,LeftFoot,10459,Werder Bremen,Fortuna Duesseldorf,3,1,2018-12-07 19:30:00,,Aerial
+257319,31,SavedShot,0.764000015258789,0.555,0.018884800374507904,Kevin Möhwald,a,7044,OpenPlay,2018,RightFoot,10464,Borussia Dortmund,Werder Bremen,2,1,2018-12-15 17:30:00,,None
+257328,50,BlockedShot,0.855999984741211,0.5459999847412109,0.0809876024723053,Kevin Möhwald,a,7044,OpenPlay,2018,LeftFoot,10464,Borussia Dortmund,Werder Bremen,2,1,2018-12-15 17:30:00,Milot Rashica,Pass
+257329,53,SavedShot,0.754000015258789,0.5359999847412109,0.024123400449752808,Kevin Möhwald,a,7044,OpenPlay,2018,RightFoot,10464,Borussia Dortmund,Werder Bremen,2,1,2018-12-15 17:30:00,Max Kruse,Pass
+257336,90,SavedShot,0.8930000305175781,0.5540000152587891,0.10243699699640274,Kevin Möhwald,a,7044,OpenPlay,2018,RightFoot,10464,Borussia Dortmund,Werder Bremen,2,1,2018-12-15 17:30:00,Yuya Osako,Throughball
+257614,5,BlockedShot,0.7290000152587891,0.4520000076293945,0.05348749831318855,Kevin Möhwald,h,7044,DirectFreekick,2018,RightFoot,10474,Werder Bremen,Hoffenheim,1,1,2018-12-19 19:30:00,,Standard
+257642,62,BlockedShot,0.7859999847412109,0.3609999847412109,0.027649300172924995,Kevin Möhwald,h,7044,OpenPlay,2018,RightFoot,10474,Werder Bremen,Hoffenheim,1,1,2018-12-19 19:30:00,Max Kruse,Pass
+257644,73,SavedShot,0.7880000305175782,0.625,0.013610799796879292,Kevin Möhwald,h,7044,OpenPlay,2018,RightFoot,10474,Werder Bremen,Hoffenheim,1,1,2018-12-19 19:30:00,,Aerial
+257651,91,MissedShots,0.8519999694824218,0.485,0.07406149804592133,Kevin Möhwald,h,7044,OpenPlay,2018,RightFoot,10474,Werder Bremen,Hoffenheim,1,1,2018-12-19 19:30:00,,Rebound
+257754,17,MissedShots,0.745999984741211,0.605,0.018962999805808067,Kevin Möhwald,a,7044,OpenPlay,2018,RightFoot,10485,RasenBallsport Leipzig,Werder Bremen,3,2,2018-12-22 14:30:00,Davy Klaassen,Pass
+279138,82,Goal,0.85,0.41900001525878905,0.05450829863548279,Kevin Möhwald,h,7044,FromCorner,2018,RightFoot,10521,Werder Bremen,Augsburg,4,0,2019-02-10 14:30:00,,None
+287428,68,BlockedShot,0.774000015258789,0.5070000076293946,0.0296144001185894,Kevin Möhwald,h,7044,OpenPlay,2018,RightFoot,10576,Werder Bremen,Mainz 05,3,1,2019-03-30 14:30:00,,None
+297237,81,SavedShot,0.7130000305175781,0.5870000076293945,0.010359800420701504,Kevin Möhwald,a,7044,OpenPlay,2018,RightFoot,10614,Fortuna Duesseldorf,Werder Bremen,4,1,2019-04-27 14:30:00,Max Kruse,Pass
+299441,69,Goal,0.815,0.64,0.03444720059633255,Kevin Möhwald,h,7044,OpenPlay,2018,LeftFoot,10621,Werder Bremen,Borussia Dortmund,2,2,2019-05-04 17:30:00,Milot Rashica,Pass
+299449,92,BlockedShot,0.8390000152587891,0.47200000762939454,0.06478369981050491,Kevin Möhwald,h,7044,OpenPlay,2018,RightFoot,10621,Werder Bremen,Borussia Dortmund,2,2,2019-05-04 17:30:00,,None
+312359,41,BlockedShot,0.774000015258789,0.5070000076293946,0.030681699514389038,Kevin Möhwald,a,7044,OpenPlay,2019,RightFoot,12414,Hoffenheim,Werder Bremen,3,2,2019-08-24 14:30:00,Yuya Osako,Pass
+312363,46,BlockedShot,0.740999984741211,0.624000015258789,0.011443999595940113,Kevin Möhwald,a,7044,SetPiece,2019,RightFoot,12414,Hoffenheim,Werder Bremen,3,2,2019-08-24 14:30:00,,None
+312377,78,MissedShots,0.7909999847412109,0.28899999618530275,0.018898900598287582,Kevin Möhwald,a,7044,OpenPlay,2019,RightFoot,12414,Hoffenheim,Werder Bremen,3,2,2019-08-24 14:30:00,Maximilian Eggestein,Pass
+381822,48,MissedShots,0.81,0.29600000381469727,0.014915700070559978,Kevin Möhwald,a,7044,OpenPlay,2020,RightFoot,15168,Freiburg,Werder Bremen,1,1,2020-10-17 13:30:00,Leonardo Bittencourt,Chipped
+381829,63,SavedShot,0.745,0.5309999847412109,0.013720500282943249,Kevin Möhwald,a,7044,FromCorner,2020,RightFoot,15168,Freiburg,Werder Bremen,1,1,2020-10-17 13:30:00,,Aerial
+388427,34,Goal,0.9380000305175781,0.33,0.012317200191318989,Kevin Möhwald,a,7044,FromCorner,2020,Head,15216,Wolfsburg,Werder Bremen,5,3,2020-11-27 19:30:00,Ludwig Augustinsson,Cross
+391564,1,MissedShots,0.9069999694824219,0.41900001525878905,0.3168970048427582,Kevin Möhwald,a,7044,OpenPlay,2020,RightFoot,15231,RasenBallsport Leipzig,Werder Bremen,2,0,2020-12-12 14:30:00,Joshua Sargent,Cross
+392642,0,MissedShots,0.725,0.35400001525878905,0.011278199963271618,Kevin Möhwald,h,7044,OpenPlay,2020,RightFoot,15242,Werder Bremen,Borussia Dortmund,1,2,2020-12-15 19:30:00,,None
+392647,27,Goal,0.799000015258789,0.3729999923706055,0.027834100648760796,Kevin Möhwald,h,7044,OpenPlay,2020,RightFoot,15242,Werder Bremen,Borussia Dortmund,1,2,2020-12-15 19:30:00,Maximilian Eggestein,Pass
+393918,66,MissedShots,0.8059999847412109,0.5320000076293945,0.04724720120429993,Kevin Möhwald,a,7044,OpenPlay,2020,LeftFoot,15255,Mainz 05,Werder Bremen,0,1,2020-12-19 14:30:00,,None
+399677,50,MissedShots,0.8819999694824219,0.8969999694824219,0.0391709990799427,Kevin Möhwald,a,7044,DirectFreekick,2020,RightFoot,15285,Borussia M.Gladbach,Werder Bremen,1,0,2021-01-19 17:30:00,,Standard
+401550,49,BlockedShot,0.7780000305175782,0.36700000762939455,0.022706400603055954,Kevin Möhwald,h,7044,OpenPlay,2020,RightFoot,15309,Werder Bremen,Schalke 04,1,1,2021-01-30 14:30:00,,BallRecovery
+401556,76,Goal,0.85,0.34,0.04419330134987831,Kevin Möhwald,h,7044,OpenPlay,2020,RightFoot,15309,Werder Bremen,Schalke 04,1,1,2021-01-30 14:30:00,Milot Rashica,Pass
+401559,84,MissedShots,0.7619999694824219,0.4640000152587891,0.03511660173535347,Kevin Möhwald,h,7044,OpenPlay,2020,RightFoot,15309,Werder Bremen,Schalke 04,1,1,2021-01-30 14:30:00,Yuya Osako,LayOff
+404245,66,BlockedShot,0.7530000305175781,0.43599998474121093,0.02265780046582222,Kevin Möhwald,h,7044,OpenPlay,2020,RightFoot,15327,Werder Bremen,Freiburg,0,0,2021-02-13 14:30:00,Maximilian Eggestein,BallTouch
+404250,78,MissedShots,0.76,0.3770000076293945,0.019576700404286385,Kevin Möhwald,h,7044,OpenPlay,2020,RightFoot,15327,Werder Bremen,Freiburg,0,0,2021-02-13 14:30:00,Maximilian Eggestein,Pass
+409023,46,MissedShots,0.8690000152587891,0.5509999847412109,0.08574250340461731,Kevin Möhwald,a,7044,OpenPlay,2020,RightFoot,15349,FC Cologne,Werder Bremen,1,1,2021-03-07 14:30:00,,Rebound
+409449,74,Goal,0.925,0.46799999237060547,0.549111008644104,Kevin Möhwald,a,7044,OpenPlay,2020,RightFoot,15319,Arminia Bielefeld,Werder Bremen,0,2,2021-03-10 19:30:00,Maximilian Eggestein,Pass
+411314,22,BlockedShot,0.830999984741211,0.7140000152587891,0.024165699258446693,Kevin Möhwald,h,7044,FromCorner,2020,RightFoot,15372,Werder Bremen,Wolfsburg,1,2,2021-03-20 14:30:00,Ludwig Augustinsson,Pass
+411323,44,Goal,0.889000015258789,0.504000015258789,0.4329470098018646,Kevin Möhwald,h,7044,SetPiece,2020,RightFoot,15372,Werder Bremen,Wolfsburg,1,2,2021-03-20 14:30:00,,Rebound
+413107,1,BlockedShot,0.745999984741211,0.475,0.0180261991918087,Kevin Möhwald,a,7044,OpenPlay,2020,RightFoot,15381,VfB Stuttgart,Werder Bremen,1,0,2021-04-04 13:30:00,Maximilian Eggestein,None
+413114,30,SavedShot,0.7090000152587891,0.53,0.014783600345253944,Kevin Möhwald,a,7044,OpenPlay,2020,RightFoot,15381,VfB Stuttgart,Werder Bremen,1,0,2021-04-04 13:30:00,Romano Schmid,Pass
+413802,86,MissedShots,0.6990000152587891,0.4640000152587891,0.01108120009303093,Kevin Möhwald,h,7044,OpenPlay,2020,RightFoot,15389,Werder Bremen,RasenBallsport Leipzig,1,4,2021-04-10 13:30:00,Yuya Osako,Pass
+416481,12,BlockedShot,0.7430000305175781,0.6530000305175782,0.010356700047850609,Kevin Möhwald,h,7044,OpenPlay,2020,LeftFoot,15407,Werder Bremen,Mainz 05,0,1,2021-04-21 18:30:00,,Aerial
+417117,54,BlockedShot,0.71,0.40900001525878904,0.009680399671196938,Kevin Möhwald,a,7044,OpenPlay,2020,RightFoot,15415,Union Berlin,Werder Bremen,3,1,2021-04-24 13:30:00,,BallTouch
+419968,85,MissedShots,0.775,0.735,0.015068099834024906,Kevin Möhwald,h,7044,OpenPlay,2020,RightFoot,15426,Werder Bremen,Bayer Leverkusen,0,0,2021-05-08 13:30:00,Milot Rashica,Pass
+435576,90,BlockedShot,0.855999984741211,0.5720000076293945,0.0942607969045639,Kevin Möhwald,a,7044,OpenPlay,2021,RightFoot,17573,Mainz 05,Union Berlin,1,2,2021-10-03 13:30:00,Andreas Voglsammer,BallRecovery
+452187,89,SavedShot,0.8009999847412109,0.63,0.02426989935338497,Kevin Möhwald,a,7044,FromCorner,2021,RightFoot,17674,Bayer Leverkusen,Union Berlin,2,2,2022-01-08 14:30:00,,None
+452189,91,MissedShots,0.89,0.46799999237060547,0.06608080118894577,Kevin Möhwald,a,7044,OpenPlay,2021,Head,17674,Bayer Leverkusen,Union Berlin,2,2,2022-01-08 14:30:00,Levin Öztunali,Cross
+457603,83,SavedShot,0.71,0.3970000076293945,0.008515969850122929,Kevin Möhwald,h,7044,OpenPlay,2021,RightFoot,17710,Union Berlin,Borussia Dortmund,0,3,2022-02-13 14:30:00,,None
+458226,93,MissedShots,0.84,0.28899999618530275,0.024034099653363228,Kevin Möhwald,a,7044,OpenPlay,2021,RightFoot,17715,Arminia Bielefeld,Union Berlin,1,0,2022-02-19 14:30:00,Timo Baumgartl,HeadPass
+459684,91,BlockedShot,0.8819999694824219,0.53,0.17659300565719604,Kevin Möhwald,h,7044,OpenPlay,2021,RightFoot,17729,Union Berlin,Mainz 05,3,1,2022-02-26 14:30:00,Sven Michel,TakeOn
+460932,75,MissedShots,0.78,0.5220000076293946,0.03164789825677872,Kevin Möhwald,a,7044,OpenPlay,2021,RightFoot,17738,Wolfsburg,Union Berlin,1,0,2022-03-05 14:30:00,,None
+462414,27,MissedShots,0.759000015258789,0.605999984741211,0.017399299889802933,Kevin Möhwald,h,7044,FromCorner,2021,RightFoot,17746,Union Berlin,VfB Stuttgart,1,1,2022-03-12 14:30:00,,None
+464135,35,MissedShots,0.7980000305175782,0.7169999694824218,0.016070200130343437,Kevin Möhwald,a,7044,OpenPlay,2021,RightFoot,17758,Bayern Munich,Union Berlin,4,0,2022-03-19 17:30:00,Taiwo Awoniyi,Pass

@@ -1,0 +1,174 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+128706,59,MissedShots,0.8959999847412109,0.7869999694824219,0.02008960023522377,Douglas Santos,h,5286,OpenPlay,2016,LeftFoot,1366,Hamburger SV,Bayern Munich,0,1,2016-09-24 17:30:00,Bobby Wood,Chipped
+130175,89,BlockedShot,0.8290000152587891,0.7090000152587891,0.027515200898051262,Douglas Santos,h,5286,OpenPlay,2016,LeftFoot,2827,Hamburger SV,Werder Bremen,2,2,2016-11-26 18:30:00,,None
+131505,72,SavedShot,0.7430000305175781,0.705,0.008435660041868687,Douglas Santos,a,5286,OpenPlay,2016,RightFoot,3215,Mainz 05,Hamburger SV,3,1,2016-12-17 18:30:00,,None
+130285,38,SavedShot,0.7709999847412109,0.6359999847412109,0.023476099595427513,Douglas Santos,h,5286,OpenPlay,2016,LeftFoot,3221,Hamburger SV,Schalke 04,2,1,2016-12-20 23:00:00,Matthias Ostrzolek,Pass
+131282,30,MissedShots,0.7669999694824219,0.625999984741211,0.01492219977080822,Douglas Santos,a,5286,SetPiece,2016,LeftFoot,3734,Ingolstadt,Hamburger SV,3,1,2017-01-28 17:30:00,,None
+131283,35,MissedShots,0.8380000305175781,0.6580000305175782,0.031615499407052994,Douglas Santos,a,5286,FromCorner,2016,LeftFoot,3734,Ingolstadt,Hamburger SV,3,1,2017-01-28 17:30:00,,None
+131887,12,MissedShots,0.7019999694824218,0.45099998474121095,0.01301680039614439,Douglas Santos,a,5286,FromCorner,2016,LeftFoot,3772,Bayern Munich,Hamburger SV,8,0,2017-02-25 14:30:00,,None
+168361,37,BlockedShot,0.7290000152587891,0.5029999923706054,0.015216800384223461,Douglas Santos,h,5286,FromCorner,2017,RightFoot,8338,Hamburger SV,Bayern Munich,0,1,2017-10-21 17:30:00,,None
+168594,28,SavedShot,0.75,0.3820000076293945,0.02388319931924343,Douglas Santos,a,5286,FromCorner,2017,LeftFoot,8342,Hertha Berlin,Hamburger SV,2,1,2017-10-28 14:30:00,Gotoku Sakai,Pass
+167672,57,MissedShots,0.7330000305175781,0.6120000076293945,0.013557299971580505,Douglas Santos,h,5286,OpenPlay,2017,LeftFoot,8355,Hamburger SV,VfB Stuttgart,3,1,2017-11-04 14:30:00,,None
+184057,42,BlockedShot,0.730999984741211,0.59,0.014705399982631207,Douglas Santos,h,5286,FromCorner,2017,LeftFoot,8400,Hamburger SV,Eintracht Frankfurt,1,2,2017-12-12 19:30:00,,None
+184066,57,BlockedShot,0.705,0.5220000076293946,0.013294399715960026,Douglas Santos,h,5286,FromCorner,2017,LeftFoot,8400,Hamburger SV,Eintracht Frankfurt,1,2,2017-12-12 19:30:00,,None
+187254,9,MissedShots,0.74,0.64,0.014538800343871117,Douglas Santos,a,5286,FromCorner,2017,LeftFoot,8418,Augsburg,Hamburger SV,1,0,2018-01-13 14:30:00,,None
+194834,12,SavedShot,0.8159999847412109,0.43900001525878907,0.04500399902462959,Douglas Santos,h,5286,SetPiece,2017,RightFoot,8444,Hamburger SV,Hannover 96,1,1,2018-02-04 17:00:00,Bobby Wood,TakeOn
+194850,67,SavedShot,0.715,0.61,0.00949788000434637,Douglas Santos,h,5286,OpenPlay,2017,LeftFoot,8444,Hamburger SV,Hannover 96,1,1,2018-02-04 17:00:00,Albin Ekdal,Aerial
+194853,80,BlockedShot,0.7080000305175781,0.52,0.010859199799597263,Douglas Santos,h,5286,FromCorner,2017,LeftFoot,8444,Hamburger SV,Hannover 96,1,1,2018-02-04 17:00:00,Gotoku Sakai,HeadPass
+197557,24,BlockedShot,0.77,0.6959999847412109,0.015024499967694283,Douglas Santos,a,5286,OpenPlay,2017,RightFoot,8470,Werder Bremen,Hamburger SV,1,0,2018-02-24 17:30:00,,None
+198769,14,BlockedShot,0.73,0.7230000305175781,0.012014600448310375,Douglas Santos,h,5286,OpenPlay,2017,LeftFoot,8482,Hamburger SV,Mainz 05,0,0,2018-03-03 14:30:00,Filip Kostic,Tackle
+198784,86,MissedShots,0.7330000305175781,0.54,0.0562622994184494,Douglas Santos,h,5286,DirectFreekick,2017,LeftFoot,8482,Hamburger SV,Mainz 05,0,0,2018-03-03 14:30:00,,Standard
+199903,38,BlockedShot,0.700999984741211,0.6790000152587891,0.006716209929436445,Douglas Santos,a,5286,OpenPlay,2017,RightFoot,8484,Bayern Munich,Hamburger SV,6,0,2018-03-10 14:30:00,,TakeOn
+201393,9,MissedShots,0.8480000305175781,0.6869999694824219,0.03938920050859451,Douglas Santos,h,5286,OpenPlay,2017,LeftFoot,8500,Hamburger SV,Hertha Berlin,1,2,2018-03-17 14:30:00,Matti Steinmann,Pass
+201398,24,Goal,0.8930000305175781,0.6430000305175781,0.2732050120830536,Douglas Santos,h,5286,OpenPlay,2017,LeftFoot,8500,Hamburger SV,Hertha Berlin,1,2,2018-03-17 14:30:00,Filip Kostic,Pass
+204471,86,BlockedShot,0.7269999694824218,0.6079999923706054,0.01716969907283783,Douglas Santos,a,5286,OpenPlay,2017,LeftFoot,8510,VfB Stuttgart,Hamburger SV,1,1,2018-03-31 14:30:00,Aaron Hunt,Pass
+208325,11,MissedShots,0.754000015258789,0.629000015258789,0.01973080076277256,Douglas Santos,a,5286,FromCorner,2017,LeftFoot,8521,Hoffenheim,Hamburger SV,2,0,2018-04-14 13:30:00,Filip Kostic,Pass
+211640,75,SavedShot,0.895,0.7030000305175781,0.06816989928483963,Douglas Santos,a,5286,OpenPlay,2017,LeftFoot,8546,Wolfsburg,Hamburger SV,1,3,2018-04-28 13:30:00,Gotoku Sakai,Pass
+213260,62,SavedShot,0.6819999694824219,0.6930000305175781,0.011824900284409523,Douglas Santos,a,5286,OpenPlay,2017,LeftFoot,8555,Eintracht Frankfurt,Hamburger SV,3,0,2018-05-05 14:30:00,Aaron Hunt,Pass
+213263,68,SavedShot,0.7119999694824218,0.525,0.020575400441884995,Douglas Santos,a,5286,FromCorner,2017,LeftFoot,8555,Eintracht Frankfurt,Hamburger SV,3,0,2018-05-05 14:30:00,Matti Steinmann,Pass
+213268,77,BlockedShot,0.875,0.669000015258789,0.07024169713258743,Douglas Santos,a,5286,OpenPlay,2017,LeftFoot,8555,Eintracht Frankfurt,Hamburger SV,3,0,2018-05-05 14:30:00,Gotoku Sakai,TakeOn
+307235,88,SavedShot,0.7319999694824219,0.33099998474121095,0.013248399831354618,Douglas Santos,h,5286,SetPiece,2019,LeftFoot,11028,Zenit St. Petersburg,FC Tambov,2,1,2019-07-14 16:00:00,Sebastián Driussi,Pass
+307523,53,MissedShots,0.884000015258789,0.19700000762939454,0.058819398283958435,Douglas Santos,a,5286,DirectFreekick,2019,LeftFoot,11038,PFC Sochi,Zenit St. Petersburg,0,2,2019-07-21 18:30:00,,Standard
+307543,92,MissedShots,0.889000015258789,0.44299999237060544,0.49517300724983215,Douglas Santos,a,5286,OpenPlay,2019,RightFoot,11038,PFC Sochi,Zenit St. Petersburg,0,2,2019-07-21 18:30:00,Sebastián Driussi,Throughball
+307885,18,SavedShot,0.7469999694824219,0.3920000076293945,0.014933500438928604,Douglas Santos,h,5286,OpenPlay,2019,LeftFoot,11050,Zenit St. Petersburg,FC Krasnodar,1,1,2019-08-03 19:30:00,Aleksey Sutormin,Pass
+307900,79,OwnGoal,0.13800000190734862,0.5529999923706055,0,Douglas Santos,h,5286,OpenPlay,2019,Head,11050,Zenit St. Petersburg,FC Krasnodar,1,1,2019-08-03 19:30:00,,None
+308179,29,MissedShots,0.9530000305175781,0.6809999847412109,0.07728350162506104,Douglas Santos,a,5286,OpenPlay,2019,LeftFoot,11057,Dinamo Moscow,Zenit St. Petersburg,0,2,2019-08-10 17:00:00,Artem Dzyuba,TakeOn
+309200,56,SavedShot,0.7480000305175781,0.4370000076293945,0.015831299126148224,Douglas Santos,h,5286,OpenPlay,2019,LeftFoot,11066,Zenit St. Petersburg,FK Akhmat,0,0,2019-08-17 17:00:00,Magomed Ozdoev,Pass
+312490,76,MissedShots,0.745999984741211,0.7169999694824218,0.014392299577593803,Douglas Santos,a,5286,OpenPlay,2019,LeftFoot,11072,FC Ufa,Zenit St. Petersburg,1,0,2019-08-24 14:30:00,Magomed Ozdoev,Pass
+312495,87,BlockedShot,0.6990000152587891,0.6940000152587891,0.011730000376701355,Douglas Santos,a,5286,OpenPlay,2019,LeftFoot,11072,FC Ufa,Zenit St. Petersburg,1,0,2019-08-24 14:30:00,Aleksey Sutormin,Pass
+316885,46,MissedShots,0.7340000152587891,0.5209999847412109,0.026683099567890167,Douglas Santos,h,5286,OpenPlay,2019,LeftFoot,11090,Zenit St. Petersburg,Arsenal Tula,3,1,2019-09-13 17:00:00,Sebastián Driussi,Pass
+327598,3,SavedShot,0.735,0.5459999847412109,0.016321899369359016,Douglas Santos,a,5286,OpenPlay,2019,LeftFoot,11133,Krylya Sovetov Samara,Zenit St. Petersburg,0,2,2019-10-27 11:00:00,,None
+327605,24,BlockedShot,0.7780000305175782,0.745,0.013159199617803097,Douglas Santos,a,5286,OpenPlay,2019,RightFoot,11133,Krylya Sovetov Samara,Zenit St. Petersburg,0,2,2019-10-27 11:00:00,Magomed Ozdoev,Pass
+329340,58,MissedShots,0.8159999847412109,0.7080000305175781,0.025281300768256187,Douglas Santos,h,5286,OpenPlay,2019,LeftFoot,11138,Zenit St. Petersburg,CSKA Moscow,1,1,2019-11-02 16:00:00,,None
+329341,62,SavedShot,0.6980000305175781,0.31,0.011859799735248089,Douglas Santos,h,5286,OpenPlay,2019,LeftFoot,11138,Zenit St. Petersburg,CSKA Moscow,1,1,2019-11-02 16:00:00,Branislav Ivanovic,Pass
+334432,1,SavedShot,0.8480000305175781,0.545,0.10811299830675125,Douglas Santos,h,5286,OpenPlay,2019,RightFoot,11165,Zenit St. Petersburg,Spartak Moscow,1,0,2019-12-01 16:00:00,Artem Dzyuba,TakeOn
+362517,44,SavedShot,0.7430000305175781,0.6780000305175782,0.01312089990824461,Douglas Santos,h,5286,OpenPlay,2019,LeftFoot,11189,Zenit St. Petersburg,FC Ufa,0,0,2020-03-09 16:00:00,,None
+365548,46,BlockedShot,0.8419999694824218,0.6370000076293946,0.06687889993190765,Douglas Santos,a,5286,OpenPlay,2019,LeftFoot,11200,CSKA Moscow,Zenit St. Petersburg,0,4,2020-06-20 16:00:00,Artem Dzyuba,Pass
+366690,7,BlockedShot,0.8069999694824219,0.7390000152587891,0.021537799388170242,Douglas Santos,h,5286,OpenPlay,2019,LeftFoot,11207,Zenit St. Petersburg,Krylya Sovetov Samara,2,1,2020-06-26 17:30:00,Yaroslav Rakitskiy,Pass
+366692,11,MissedShots,0.779000015258789,0.6880000305175781,0.019562099128961563,Douglas Santos,h,5286,OpenPlay,2019,LeftFoot,11207,Zenit St. Petersburg,Krylya Sovetov Samara,2,1,2020-06-26 17:30:00,Magomed Ozdoev,Pass
+367867,12,MissedShots,0.6859999847412109,0.5609999847412109,0.012064400129020214,Douglas Santos,a,5286,OpenPlay,2019,LeftFoot,11216,FC Tambov,Zenit St. Petersburg,1,2,2020-07-01 14:30:00,Yaroslav Rakitskiy,Pass
+367868,15,MissedShots,0.845999984741211,0.6969999694824218,0.03924860060214996,Douglas Santos,a,5286,OpenPlay,2019,LeftFoot,11216,FC Tambov,Zenit St. Petersburg,1,2,2020-07-01 14:30:00,Wilmar Barrios,Pass
+369069,60,SavedShot,0.7859999847412109,0.6480000305175782,0.03535430133342743,Douglas Santos,a,5286,OpenPlay,2019,RightFoot,11224,FC Krasnodar,Zenit St. Petersburg,2,4,2020-07-05 17:30:00,,None
+375564,21,MissedShots,0.8,0.539000015258789,0.04296889901161194,Douglas Santos,h,5286,OpenPlay,2020,LeftFoot,14024,Zenit St. Petersburg,FC Tambov,4,1,2020-08-22 15:00:00,Artem Dzyuba,Pass
+375569,27,BlockedShot,0.7530000305175781,0.545,0.0202993992716074,Douglas Santos,h,5286,OpenPlay,2020,LeftFoot,14024,Zenit St. Petersburg,FC Tambov,4,1,2020-08-22 15:00:00,Daniil Krugovoy,Pass
+375571,36,BlockedShot,0.7880000305175782,0.3609999847412109,0.07341709733009338,Douglas Santos,h,5286,DirectFreekick,2020,LeftFoot,14024,Zenit St. Petersburg,FC Tambov,4,1,2020-08-22 15:00:00,,Standard
+375573,40,Goal,0.885,0.315,0.0588001012802124,Douglas Santos,h,5286,OpenPlay,2020,LeftFoot,14024,Zenit St. Petersburg,FC Tambov,4,1,2020-08-22 15:00:00,Vyacheslav Karavayev,Pass
+375574,42,MissedShots,0.7519999694824219,0.35200000762939454,0.026004500687122345,Douglas Santos,h,5286,OpenPlay,2020,LeftFoot,14024,Zenit St. Petersburg,FC Tambov,4,1,2020-08-22 15:00:00,Malcom,Pass
+376026,22,BlockedShot,0.7569999694824219,0.2560000038146973,0.01190169993788004,Douglas Santos,a,5286,SetPiece,2020,LeftFoot,14036,Dinamo Moscow,Zenit St. Petersburg,1,0,2020-08-26 17:45:00,,Foul
+376033,49,MissedShots,0.720999984741211,0.57,0.014637799933552742,Douglas Santos,a,5286,OpenPlay,2020,LeftFoot,14036,Dinamo Moscow,Zenit St. Petersburg,1,0,2020-08-26 17:45:00,Magomed Ozdoev,Pass
+376039,76,MissedShots,0.715,0.3220000076293945,0.016772400587797165,Douglas Santos,a,5286,SetPiece,2020,LeftFoot,14036,Dinamo Moscow,Zenit St. Petersburg,1,0,2020-08-26 17:45:00,Wilmar Barrios,Pass
+376041,90,BlockedShot,0.759000015258789,0.22100000381469725,0.013079900294542313,Douglas Santos,a,5286,OpenPlay,2020,LeftFoot,14036,Dinamo Moscow,Zenit St. Petersburg,1,0,2020-08-26 17:45:00,Malcom,Pass
+377495,90,MissedShots,0.7759999847412109,0.534000015258789,0.009508930146694183,Douglas Santos,a,5286,FromCorner,2020,LeftFoot,14234,Ural,Zenit St. Petersburg,1,1,2020-09-19 13:30:00,Malcom,Chipped
+380666,45,SavedShot,0.7130000305175781,0.539000015258789,0.01306269969791174,Douglas Santos,a,5286,OpenPlay,2020,LeftFoot,14300,Spartak Moscow,Zenit St. Petersburg,1,1,2020-10-03 16:00:00,Andrey Mostovoy,Pass
+380669,49,BlockedShot,0.6709999847412109,0.6370000076293946,0.009013029746711254,Douglas Santos,a,5286,OpenPlay,2020,LeftFoot,14300,Spartak Moscow,Zenit St. Petersburg,1,1,2020-10-03 16:00:00,Artem Dzyuba,Pass
+381652,92,Goal,0.8280000305175781,0.6980000305175781,0.03126730024814606,Douglas Santos,h,5286,OpenPlay,2020,LeftFoot,14308,Zenit St. Petersburg,PFC Sochi,3,1,2020-10-17 11:00:00,Aleksey Sutormin,Pass
+383235,83,BlockedShot,0.7140000152587891,0.345,0.014173800125718117,Douglas Santos,h,5286,OpenPlay,2020,LeftFoot,14320,Zenit St. Petersburg,Rubin Kazan,1,2,2020-10-24 13:30:00,,Rebound
+384894,48,MissedShots,0.6959999847412109,0.735,0.009655269794166088,Douglas Santos,a,5286,OpenPlay,2020,LeftFoot,14328,Khimki,Zenit St. Petersburg,0,2,2020-11-01 11:00:00,Magomed Ozdoev,Pass
+386698,33,SavedShot,0.815,0.669000015258789,0.02980639971792698,Douglas Santos,h,5286,OpenPlay,2020,LeftFoot,14336,Zenit St. Petersburg,FC Krasnodar,3,1,2020-11-08 16:00:00,Andrey Mostovoy,TakeOn
+386706,57,BlockedShot,0.735,0.580999984741211,0.016483500599861145,Douglas Santos,h,5286,OpenPlay,2020,LeftFoot,14336,Zenit St. Petersburg,FC Krasnodar,3,1,2020-11-08 16:00:00,,None
+390262,43,Goal,0.8819999694824219,0.49599998474121093,0.47244399785995483,Douglas Santos,h,5286,OpenPlay,2020,LeftFoot,14354,Zenit St. Petersburg,Ural,5,1,2020-12-05 16:00:00,Sardar Azmoun,Pass
+409313,83,MissedShots,0.7319999694824219,0.6040000152587891,0.011069400236010551,Douglas Santos,a,5286,SetPiece,2020,LeftFoot,14390,Rubin Kazan,Zenit St. Petersburg,2,1,2021-03-08 13:30:00,,None
+409816,42,SavedShot,0.9490000152587891,0.675,0.0765497013926506,Douglas Santos,h,5286,OpenPlay,2020,LeftFoot,14394,Zenit St. Petersburg,FK Akhmat,4,0,2021-03-13 13:30:00,Wendel,Pass
+410900,15,ShotOnPost,0.7780000305175782,0.475,0.02618660032749176,Douglas Santos,a,5286,FromCorner,2020,RightFoot,14403,CSKA Moscow,Zenit St. Petersburg,2,3,2021-03-17 17:00:00,Yaroslav Rakitskiy,Cross
+410916,73,SavedShot,0.7669999694824219,0.22700000762939454,0.01325829979032278,Douglas Santos,a,5286,FromCorner,2020,LeftFoot,14403,CSKA Moscow,Zenit St. Petersburg,2,3,2021-03-17 17:00:00,Yaroslav Rakitskiy,Pass
+410919,81,SavedShot,0.884000015258789,0.6669999694824219,0.0679657980799675,Douglas Santos,a,5286,OpenPlay,2020,LeftFoot,14403,CSKA Moscow,Zenit St. Petersburg,2,3,2021-03-17 17:00:00,,Dispossessed
+413379,28,ShotOnPost,0.7290000152587891,0.6179999923706054,0.0169466994702816,Douglas Santos,h,5286,OpenPlay,2020,LeftFoot,14414,Zenit St. Petersburg,Khimki,2,0,2021-04-05 16:00:00,Yaroslav Rakitskiy,Pass
+413386,46,ShotOnPost,0.909000015258789,0.4640000152587891,0.07947549968957901,Douglas Santos,h,5286,FromCorner,2020,LeftFoot,14414,Zenit St. Petersburg,Khimki,2,0,2021-04-05 16:00:00,Yaroslav Rakitskiy,Cross
+413396,81,MissedShots,0.9330000305175781,0.5429999923706055,0.4167490005493164,Douglas Santos,h,5286,OpenPlay,2020,LeftFoot,14414,Zenit St. Petersburg,Khimki,2,0,2021-04-05 16:00:00,Andrey Mostovoy,Cross
+414535,54,MissedShots,0.67,0.5729999923706055,0.010768700391054153,Douglas Santos,a,5286,OpenPlay,2020,RightFoot,14420,PFC Sochi,Zenit St. Petersburg,1,2,2021-04-11 13:30:00,,BallTouch
+417211,43,MissedShots,0.7959999847412109,0.43,0.029245000332593918,Douglas Santos,h,5286,FromCorner,2020,LeftFoot,14440,Zenit St. Petersburg,FC Rotor Volgograd,6,0,2021-04-24 13:30:00,Malcom,Pass
+417228,91,SavedShot,0.7680000305175781,0.575999984741211,0.035440098494291306,Douglas Santos,h,5286,OpenPlay,2020,LeftFoot,14440,Zenit St. Petersburg,FC Rotor Volgograd,6,0,2021-04-24 13:30:00,,BallRecovery
+425118,20,SavedShot,0.774000015258789,0.35,0.06070699915289879,Douglas Santos,h,5286,DirectFreekick,2021,LeftFoot,16153,Zenit St. Petersburg,FC Krasnodar,3,2,2021-08-07 14:00:00,,Standard
+427121,35,MissedShots,0.755,0.4159999847412109,0.05945489928126335,Douglas Santos,a,5286,DirectFreekick,2021,LeftFoot,16170,FC Ufa,Zenit St. Petersburg,1,1,2021-08-21 15:00:00,,Standard
+427125,45,BlockedShot,0.7230000305175781,0.6509999847412109,0.012848399579524994,Douglas Santos,a,5286,FromCorner,2021,LeftFoot,16170,FC Ufa,Zenit St. Petersburg,1,1,2021-08-21 15:00:00,,None
+433336,81,MissedShots,0.7580000305175781,0.5479999923706055,0.022780800238251686,Douglas Santos,h,5286,FromCorner,2021,LeftFoot,16200,Zenit St. Petersburg,Krylya Sovetov Samara,2,1,2021-09-25 13:30:00,Malcom,Cross
+435971,63,MissedShots,0.9369999694824219,0.4520000076293945,0.33788201212882996,Douglas Santos,a,5286,FromCorner,2021,Head,16221,Arsenal Tula,Zenit St. Petersburg,2,1,2021-10-16 11:00:00,Malcom,Cross
+435976,70,MissedShots,0.7380000305175781,0.43400001525878906,0.017873600125312805,Douglas Santos,a,5286,OpenPlay,2021,LeftFoot,16221,Arsenal Tula,Zenit St. Petersburg,2,1,2021-10-16 11:00:00,Aleksey Sutormin,Pass
+442151,44,BlockedShot,0.78,0.5729999923706055,0.009302539750933647,Douglas Santos,h,5286,FromCorner,2021,LeftFoot,16248,Zenit St. Petersburg,Nizhny Novgorod,5,1,2021-11-19 16:00:00,Yaroslav Rakitskiy,Chipped
+461979,59,MissedShots,0.7480000305175781,0.675,0.019108600914478302,Douglas Santos,h,5286,OpenPlay,2021,LeftFoot,16288,Zenit St. Petersburg,FC Ufa,2,0,2022-03-07 13:30:00,Claudinho,Pass
+464071,35,MissedShots,0.7269999694824218,0.47299999237060547,0.04676960036158562,Douglas Santos,h,5286,DirectFreekick,2021,LeftFoot,16306,Zenit St. Petersburg,Arsenal Tula,3,0,2022-03-19 16:30:00,,Standard
+464088,81,SavedShot,0.7190000152587891,0.46700000762939453,0.015474800020456314,Douglas Santos,h,5286,OpenPlay,2021,LeftFoot,16306,Zenit St. Petersburg,Arsenal Tula,3,0,2022-03-19 16:30:00,Malcom,Pass
+471769,56,MissedShots,0.76,0.2589999961853027,0.014362700283527374,Douglas Santos,h,5286,FromCorner,2021,LeftFoot,16350,Zenit St. Petersburg,Lokomotiv Moscow,3,1,2022-04-30 16:30:00,Malcom,Pass
+473027,52,BlockedShot,0.7719999694824219,0.38799999237060545,0.022602800279855728,Douglas Santos,h,5286,OpenPlay,2021,LeftFoot,16352,Zenit St. Petersburg,Khimki,1,0,2022-05-07 13:30:00,Wendel,Pass
+478550,80,MissedShots,0.7119999694824218,0.7959999847412109,0.011166400276124477,Douglas Santos,h,5286,OpenPlay,2022,LeftFoot,20036,Zenit St. Petersburg,Krylya Sovetov Samara,3,0,2022-07-22 17:00:00,Aleksey Sutormin,Pass
+478817,15,SavedShot,0.8430000305175781,0.710999984741211,0.034029800444841385,Douglas Santos,h,5286,OpenPlay,2022,LeftFoot,20046,Zenit St. Petersburg,Lokomotiv Moscow,5,0,2022-07-30 14:30:00,Wendel,Pass
+479467,46,BlockedShot,0.8080000305175781,0.6029999923706054,0.029211200773715973,Douglas Santos,a,5286,OpenPlay,2022,LeftFoot,20054,FK Akhmat,Zenit St. Petersburg,0,0,2022-08-06 17:00:00,Claudinho,Pass
+480433,55,MissedShots,0.8069999694824219,0.49700000762939456,0.1395449936389923,Douglas Santos,h,5286,DirectFreekick,2022,LeftFoot,20062,Zenit St. Petersburg,CSKA Moscow,2,1,2022-08-13 14:00:00,,Standard
+482449,36,MissedShots,0.784000015258789,0.45099998474121095,0.021791599690914154,Douglas Santos,h,5286,SetPiece,2022,LeftFoot,20068,Zenit St. Petersburg,Torpedo Moscow,2,0,2022-08-21 14:30:00,,Rebound
+482452,42,SavedShot,0.764000015258789,0.5690000152587891,0.023748600855469704,Douglas Santos,h,5286,OpenPlay,2022,LeftFoot,20068,Zenit St. Petersburg,Torpedo Moscow,2,0,2022-08-21 14:30:00,Wendel,Pass
+482455,45,BlockedShot,0.8980000305175782,0.5629999923706055,0.09031180292367935,Douglas Santos,h,5286,OpenPlay,2022,LeftFoot,20068,Zenit St. Petersburg,Torpedo Moscow,2,0,2022-08-21 14:30:00,Zelimkhan Bakaev,Cross
+482465,65,BlockedShot,0.8059999847412109,0.44299999237060544,0.03986649960279465,Douglas Santos,h,5286,FromCorner,2022,RightFoot,20068,Zenit St. Petersburg,Torpedo Moscow,2,0,2022-08-21 14:30:00,,Rebound
+482469,74,BlockedShot,0.8019999694824219,0.26399999618530273,0.05379759892821312,Douglas Santos,h,5286,DirectFreekick,2022,LeftFoot,20068,Zenit St. Petersburg,Torpedo Moscow,2,0,2022-08-21 14:30:00,,Standard
+484108,91,BlockedShot,0.8730000305175781,0.3129999923706055,0.03258879855275154,Douglas Santos,a,5286,FromCorner,2022,LeftFoot,20082,Ural,Zenit St. Petersburg,0,4,2022-08-28 10:00:00,Daniil Krugovoy,Pass
+486796,37,BlockedShot,0.840999984741211,0.6519999694824219,0.04352540150284767,Douglas Santos,a,5286,OpenPlay,2022,LeftFoot,20087,Spartak Moscow,Zenit St. Petersburg,1,2,2022-09-04 17:00:00,Andrey Mostovoy,Pass
+488846,65,MissedShots,0.7519999694824219,0.38299999237060545,0.05339739844202995,Douglas Santos,a,5286,DirectFreekick,2022,LeftFoot,20106,Dinamo Moscow,Zenit St. Petersburg,0,2,2022-09-17 16:00:00,,Standard
+490803,29,MissedShots,0.8769999694824219,0.634000015258789,0.07456099987030029,Douglas Santos,h,5286,OpenPlay,2022,LeftFoot,20114,Zenit St. Petersburg,FC Rostov,3,1,2022-10-02 13:30:00,Wendel,Chipped
+493693,28,SavedShot,0.764000015258789,0.6940000152587891,0.021258700639009476,Douglas Santos,a,5286,OpenPlay,2022,LeftFoot,20127,Nizhny Novgorod,Zenit St. Petersburg,0,3,2022-10-16 13:30:00,Malcom,Pass
+493695,31,SavedShot,0.7730000305175782,0.20899999618530274,0.01346729975193739,Douglas Santos,a,5286,OpenPlay,2022,LeftFoot,20127,Nizhny Novgorod,Zenit St. Petersburg,0,3,2022-10-16 13:30:00,Claudinho,Pass
+515772,29,BlockedShot,0.75,0.32799999237060545,0.013423699885606766,Douglas Santos,a,5286,OpenPlay,2022,RightFoot,20184,CSKA Moscow,Zenit St. Petersburg,1,0,2023-03-19 16:30:00,Vyacheslav Karavayev,Pass
+515777,41,MissedShots,0.6719999694824219,0.37099998474121093,0.00900678988546133,Douglas Santos,a,5286,OpenPlay,2022,LeftFoot,20184,CSKA Moscow,Zenit St. Petersburg,1,0,2023-03-19 16:30:00,Daler Kuzyaev,Pass
+518870,71,BlockedShot,0.8919999694824219,0.634000015258789,0.12452899664640427,Douglas Santos,a,5286,OpenPlay,2022,LeftFoot,20198,Lokomotiv Moscow,Zenit St. Petersburg,1,2,2023-04-09 17:00:00,,BallRecovery
+518873,76,MissedShots,0.7919999694824219,0.705999984741211,0.02038249932229519,Douglas Santos,a,5286,OpenPlay,2022,LeftFoot,20198,Lokomotiv Moscow,Zenit St. Petersburg,1,2,2023-04-09 17:00:00,Malcom,Pass
+520268,67,MissedShots,0.94,0.3370000076293945,0.08542049676179886,Douglas Santos,a,5286,OpenPlay,2022,RightFoot,20207,FC Rostov,Zenit St. Petersburg,0,0,2023-04-16 16:00:00,Malcom,Pass
+525867,77,BlockedShot,0.6990000152587891,0.5640000152587891,0.013612662442028522,Douglas Santos,h,5286,OpenPlay,2022,LeftFoot,20236,Zenit St. Petersburg,FC Krasnodar,2,2,2023-05-13 13:30:00,Vyacheslav Karavayev,Pass
+527314,16,SavedShot,0.7769999694824219,0.590999984741211,0.030088253319263458,Douglas Santos,a,5286,OpenPlay,2022,LeftFoot,20245,FC Orenburg,Zenit St. Petersburg,2,2,2023-05-20 13:30:00,Claudinho,Pass
+527323,34,BlockedShot,0.785,0.5320000076293945,0.03201032802462578,Douglas Santos,a,5286,OpenPlay,2022,LeftFoot,20245,FC Orenburg,Zenit St. Petersburg,2,2,2023-05-20 13:30:00,Aleksey Sutormin,Rebound
+531344,77,MissedShots,0.7569999694824219,0.5370000076293945,0.028683403506875038,Douglas Santos,a,5286,OpenPlay,2023,LeftFoot,21687,Nizhny Novgorod,Zenit St. Petersburg,0,2,2023-07-22 12:15:00,Claudinho,Pass
+531827,38,MissedShots,0.8690000152587891,0.6790000152587891,0.035519473254680634,Douglas Santos,h,5286,OpenPlay,2023,LeftFoot,21706,Zenit St. Petersburg,Dinamo Moscow,2,3,2023-08-06 16:00:00,Andrey Mostovoy,Pass
+531829,44,BlockedShot,0.8180000305175781,0.66,0.029530052095651627,Douglas Santos,h,5286,OpenPlay,2023,RightFoot,21706,Zenit St. Petersburg,Dinamo Moscow,2,3,2023-08-06 16:00:00,Andrey Mostovoy,Pass
+531835,56,MissedShots,0.8069999694824219,0.2520000076293945,0.022725526243448257,Douglas Santos,h,5286,FromCorner,2023,LeftFoot,21706,Zenit St. Petersburg,Dinamo Moscow,2,3,2023-08-06 16:00:00,Claudinho,Cross
+536928,19,BlockedShot,0.7140000152587891,0.6869999694824219,0.012911871075630188,Douglas Santos,a,5286,OpenPlay,2023,LeftFoot,21739,CSKA Moscow,Zenit St. Petersburg,1,1,2023-09-03 14:30:00,Claudinho,Pass
+536933,36,MissedShots,0.7830000305175782,0.6919999694824219,0.01747729815542698,Douglas Santos,a,5286,OpenPlay,2023,RightFoot,21739,CSKA Moscow,Zenit St. Petersburg,1,1,2023-09-03 14:30:00,,BallRecovery
+536940,86,BlockedShot,0.68,0.57,0.011102452874183655,Douglas Santos,a,5286,OpenPlay,2023,LeftFoot,21739,CSKA Moscow,Zenit St. Petersburg,1,1,2023-09-03 14:30:00,Wendel,Pass
+536942,87,Goal,0.9180000305175782,0.5,0.04110753536224365,Douglas Santos,a,5286,FromCorner,2023,Head,21739,CSKA Moscow,Zenit St. Petersburg,1,1,2023-09-03 14:30:00,,Rebound
+539803,8,BlockedShot,0.9230000305175782,0.6359999847412109,0.07418990880250931,Douglas Santos,h,5286,OpenPlay,2023,LeftFoot,21753,Zenit St. Petersburg,Lokomotiv Moscow,1,2,2023-09-24 13:30:00,Mateo Cassierra,None
+539814,44,BlockedShot,0.8809999847412109,0.6930000305175781,0.045467913150787354,Douglas Santos,h,5286,OpenPlay,2023,RightFoot,21753,Zenit St. Petersburg,Lokomotiv Moscow,1,2,2023-09-24 13:30:00,,Rebound
+545575,82,MissedShots,0.7430000305175781,0.49599998474121093,0.056273169815540314,Douglas Santos,h,5286,DirectFreekick,2023,LeftFoot,21788,Zenit St. Petersburg,FK Akhmat,2,1,2023-10-28 16:00:00,,Standard
+546959,57,MissedShots,0.9080000305175782,0.40900001525878904,0.013319605961441994,Douglas Santos,a,5286,FromCorner,2023,Head,21794,Baltika,Zenit St. Petersburg,0,2,2023-11-04 16:00:00,Gustavo Mantuan,Aerial
+549430,30,MissedShots,0.960999984741211,0.585,0.11708489060401917,Douglas Santos,h,5286,OpenPlay,2023,Head,21805,Zenit St. Petersburg,PFC Sochi,3,0,2023-11-25 12:15:00,Daniil Krugovoy,Cross
+567738,36,BlockedShot,0.8669999694824219,0.6170000076293946,0.05364309251308441,Douglas Santos,a,5286,OpenPlay,2023,LeftFoot,21843,Ural,Zenit St. Petersburg,1,4,2024-03-09 11:00:00,Mateo Cassierra,Cross
+567739,37,Goal,0.909000015258789,0.5209999847412109,0.04811994731426239,Douglas Santos,a,5286,FromCorner,2023,Head,21843,Ural,Zenit St. Petersburg,1,4,2024-03-09 11:00:00,Strahinja Erakovic,HeadPass
+570313,17,BlockedShot,0.865999984741211,0.66,0.03645399585366249,Douglas Santos,a,5286,FromCorner,2023,LeftFoot,21856,Krylya Sovetov Samara,Zenit St. Petersburg,1,1,2024-03-30 11:00:00,Artur,Pass
+577499,12,BlockedShot,0.870999984741211,0.555,0.07051760703325272,Douglas Santos,a,5286,FromCorner,2023,LeftFoot,21887,Dinamo Moscow,Zenit St. Petersburg,1,0,2024-04-28 16:15:00,,None
+579317,40,Goal,0.9480000305175781,0.6419999694824219,0.22446197271347046,Douglas Santos,a,5286,OpenPlay,2023,Head,21894,Fakel,Zenit St. Petersburg,1,1,2024-05-06 15:00:00,Claudinho,Chipped
+579318,43,MissedShots,0.7809999847412109,0.6780000305175782,0.028901277109980583,Douglas Santos,a,5286,OpenPlay,2023,LeftFoot,21894,Fakel,Zenit St. Petersburg,1,1,2024-05-06 15:00:00,,None
+580054,46,BlockedShot,0.774000015258789,0.3079999923706055,0.02710769884288311,Douglas Santos,h,5286,FromCorner,2023,LeftFoot,21901,Zenit St. Petersburg,CSKA Moscow,0,1,2024-05-11 16:00:00,Artur,Pass
+582327,8,ShotOnPost,0.774000015258789,0.37,0.030854666605591774,Douglas Santos,a,5286,OpenPlay,2023,LeftFoot,21914,FK Akhmat,Zenit St. Petersburg,1,5,2024-05-19 16:00:00,,BallTouch
+582331,15,BlockedShot,0.799000015258789,0.4209999847412109,0.0353647880256176,Douglas Santos,a,5286,OpenPlay,2023,LeftFoot,21914,FK Akhmat,Zenit St. Petersburg,1,5,2024-05-19 16:00:00,Mateo Cassierra,Pass
+583997,1,BlockedShot,0.8919999694824219,0.5729999923706055,0.06586329638957977,Douglas Santos,a,5286,FromCorner,2024,LeftFoot,26372,Rubin Kazan,Zenit St. Petersburg,0,4,2024-07-27 15:30:00,Maksim Glushenkov,Pass
+586206,29,BlockedShot,0.884000015258789,0.705,0.033928293734788895,Douglas Santos,h,5286,OpenPlay,2024,LeftFoot,26404,Zenit St. Petersburg,Spartak Moscow,0,0,2024-08-24 14:30:00,Andrey Mostovoy,Pass
+592295,61,MissedShots,0.86,0.3290000152587891,0.04056628420948982,Douglas Santos,h,5286,SetPiece,2024,LeftFoot,26426,Zenit St. Petersburg,Fakel,3,1,2024-09-21 13:30:00,,None
+595309,78,BlockedShot,0.659000015258789,0.504000015258789,0.013904069550335407,Douglas Santos,h,5286,OpenPlay,2024,LeftFoot,26449,Zenit St. Petersburg,FC Orenburg,1,0,2024-10-05 13:30:00,Wilmar Barrios,Pass
+599102,93,MissedShots,0.799000015258789,0.580999984741211,0.024783385917544365,Douglas Santos,h,5286,OpenPlay,2024,LeftFoot,26465,Zenit St. Petersburg,Lokomotiv Moscow,1,1,2024-10-27 16:30:00,Alexander Sobolev,HeadPass
+600027,18,BlockedShot,0.895,0.5179999923706055,0.12209266424179077,Douglas Santos,h,5286,OpenPlay,2024,RightFoot,26466,Zenit St. Petersburg,Dynamo Makhachkala,2,1,2024-11-02 15:00:00,,None
+602072,40,MissedShots,0.745999984741211,0.5,0.05827217549085617,Douglas Santos,a,5286,DirectFreekick,2024,LeftFoot,26478,FK Akhmat,Zenit St. Petersburg,1,2,2024-11-10 14:30:00,,Standard
+602592,67,SavedShot,0.750999984741211,0.715,0.012254685163497925,Douglas Santos,a,5286,OpenPlay,2024,RightFoot,26483,FC Orenburg,Zenit St. Petersburg,0,1,2024-11-23 09:00:00,,None
+619866,66,MissedShots,0.87,0.43900001525878907,0.02568625845015049,Douglas Santos,h,5286,OpenPlay,2024,Head,26506,Zenit St. Petersburg,CSKA Moscow,0,0,2025-03-01 13:30:00,Gustavo Mantuan,Cross
+625759,46,SavedShot,0.8069999694824219,0.7119999694824218,0.023930570110678673,Douglas Santos,a,5286,OpenPlay,2024,LeftFoot,26543,Lokomotiv Moscow,Zenit St. Petersburg,1,1,2025-04-05 14:30:00,Pedro Henrique,Pass
+625767,83,BlockedShot,0.764000015258789,0.69,0.01736212894320488,Douglas Santos,a,5286,OpenPlay,2024,LeftFoot,26543,Lokomotiv Moscow,Zenit St. Petersburg,1,1,2025-04-05 14:30:00,Luiz Henrique,Pass
+627793,25,MissedShots,0.7630000305175781,0.6969999694824218,0.0158131942152977,Douglas Santos,h,5286,OpenPlay,2024,LeftFoot,26546,Zenit St. Petersburg,FC Krasnodar,4,1,2025-04-13 14:00:00,Luiz Henrique,Pass
+627803,89,MissedShots,0.715999984741211,0.6329999923706054,0.03651125356554985,Douglas Santos,h,5286,DirectFreekick,2024,LeftFoot,26546,Zenit St. Petersburg,FC Krasnodar,4,1,2025-04-13 14:00:00,,Standard
+629163,69,MissedShots,0.7730000305175782,0.6630000305175782,0.026856662705540657,Douglas Santos,h,5286,OpenPlay,2024,LeftFoot,26554,Zenit St. Petersburg,Khimki,1,0,2025-04-20 13:30:00,Wendel,Pass
+635136,41,MissedShots,0.915,0.48200000762939454,0.05253957584500313,Douglas Santos,a,5286,SetPiece,2024,Head,26589,FC Rostov,Zenit St. Petersburg,0,1,2025-05-18 16:00:00,Pedro Henrique,Aerial
+635794,21,MissedShots,0.9290000152587891,0.40400001525878904,0.09387778490781784,Douglas Santos,h,5286,FromCorner,2024,RightFoot,26601,Zenit St. Petersburg,FK Akhmat,3,0,2025-05-24 13:30:00,,None
+636883,40,BlockedShot,0.8159999847412109,0.47900001525878905,0.031792037189006805,Douglas Santos,h,5286,FromCorner,2025,LeftFoot,28360,Zenit St. Petersburg,FC Rostov,2,1,2025-07-20 15:00:00,,Dispossessed
+637109,48,MissedShots,0.889000015258789,0.6459999847412109,0.014080730266869068,Douglas Santos,a,5286,SetPiece,2025,Head,28372,Rubin Kazan,Zenit St. Petersburg,2,2,2025-07-27 17:00:00,Pedro Henrique,Cross
+637237,13,BlockedShot,0.9230000305175782,0.57,0.041230328381061554,Douglas Santos,h,5286,SetPiece,2025,Head,28379,Zenit St. Petersburg,CSKA Moscow,1,1,2025-08-03 15:00:00,Pedro Henrique,Aerial
+637259,85,MissedShots,0.735,0.47200000762939454,0.018211975693702698,Douglas Santos,h,5286,OpenPlay,2025,LeftFoot,28379,Zenit St. Petersburg,CSKA Moscow,1,1,2025-08-03 15:00:00,,None
+637402,21,BlockedShot,0.7759999847412109,0.6,0.024886401370167732,Douglas Santos,a,5286,OpenPlay,2025,LeftFoot,28386,FK Akhmat,Zenit St. Petersburg,1,0,2025-08-09 17:30:00,Luiz Henrique,Pass
+637738,13,SavedShot,0.9259999847412109,0.705999984741211,0.0395275242626667,Douglas Santos,a,5286,OpenPlay,2025,RightFoot,28392,Spartak Moscow,Zenit St. Petersburg,2,2,2025-08-16 14:30:00,Pedro Henrique,Rebound
+640110,46,Goal,0.8519999694824218,0.4520000076293945,0.07989514619112015,Douglas Santos,h,5286,SetPiece,2025,RightFoot,28564,Zenit St. Petersburg,Nizhny Novgorod,2,0,2025-08-30 13:15:00,Alexander Sobolev,Pass
+642276,1,SavedShot,0.7580000305175781,0.6309999847412109,0.01817421242594719,Douglas Santos,a,5286,OpenPlay,2025,LeftFoot,28574,Baltika,Zenit St. Petersburg,0,0,2025-09-14 14:00:00,Maksim Glushenkov,Pass
+643932,42,BlockedShot,0.825999984741211,0.735,0.02388511225581169,Douglas Santos,a,5286,OpenPlay,2025,RightFoot,28583,FC Krasnodar,Zenit St. Petersburg,0,2,2025-09-21 16:30:00,Luiz Henrique,Pass
+644896,32,MissedShots,0.8769999694824219,0.705999984741211,0.025800885632634163,Douglas Santos,h,5286,OpenPlay,2025,LeftFoot,28589,Zenit St. Petersburg,FC Orenburg,5,2,2025-09-27 16:30:00,Gustavo Mantuan,Chipped
+644904,70,SavedShot,0.8719999694824219,0.4909999847412109,0.11159639805555344,Douglas Santos,h,5286,OpenPlay,2025,RightFoot,28589,Zenit St. Petersburg,FC Orenburg,5,2,2025-09-27 16:30:00,Nuraly Alip,Pass
+645878,6,BlockedShot,0.8130000305175781,0.46799999237060547,0.01881319470703602,Douglas Santos,a,5286,FromCorner,2025,LeftFoot,28604,Akron,Zenit St. Petersburg,1,1,2025-10-04 10:00:00,,Aerial
+645886,53,BlockedShot,0.9209999847412109,0.544000015258789,0.08226922154426575,Douglas Santos,a,5286,FromCorner,2025,Head,28604,Akron,Zenit St. Petersburg,1,1,2025-10-04 10:00:00,Pedro Henrique,Cross
+670630,12,BlockedShot,0.915,0.46700000762939453,0.07789154350757599,Douglas Santos,h,5286,FromCorner,2025,Head,28674,Zenit St. Petersburg,Baltika,1,0,2026-02-27 16:30:00,Jhon Jhon,Cross
+670633,21,BlockedShot,0.8490000152587891,0.5559999847412109,0.07252870500087738,Douglas Santos,h,5286,OpenPlay,2025,RightFoot,28674,Zenit St. Petersburg,Baltika,1,0,2026-02-27 16:30:00,,Tackle
+670638,39,MissedShots,0.909000015258789,0.5029999923706054,0.08681798726320267,Douglas Santos,h,5286,FromCorner,2025,RightFoot,28674,Zenit St. Petersburg,Baltika,1,0,2026-02-27 16:30:00,Maksim Glushenkov,Cross
+675755,57,BlockedShot,0.88,0.5790000152587891,0.08349099010229111,Douglas Santos,a,5286,OpenPlay,2025,RightFoot,28702,Dinamo Moscow,Zenit St. Petersburg,1,3,2026-03-22 13:00:00,Jhon Jhon,Cross
+680239,28,MissedShots,0.8669999694824219,0.6480000305175782,0.060880377888679504,Douglas Santos,a,5286,OpenPlay,2025,LeftFoot,28739,Lokomotiv Moscow,Zenit St. Petersburg,0,0,2026-04-22 16:45:00,Wendel,TakeOn
+680241,34,BlockedShot,0.860999984741211,0.5479999923706055,0.09087662398815155,Douglas Santos,a,5286,OpenPlay,2025,RightFoot,28739,Lokomotiv Moscow,Zenit St. Petersburg,0,0,2026-04-22 16:45:00,Alexander Sobolev,LayOff
+680244,46,MissedShots,0.8069999694824219,0.6530000305175782,0.032315902411937714,Douglas Santos,a,5286,OpenPlay,2025,LeftFoot,28739,Lokomotiv Moscow,Zenit St. Petersburg,0,0,2026-04-22 16:45:00,,BallTouch
+683972,20,SavedShot,0.9309999847412109,0.5659999847412109,0.11264161765575409,Douglas Santos,h,5286,SetPiece,2025,Head,28768,Zenit St. Petersburg,PFC Sochi,2,1,2026-05-10 12:00:00,Luiz Henrique,Cross

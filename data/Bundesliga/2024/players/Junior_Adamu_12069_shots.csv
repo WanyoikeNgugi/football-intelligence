@@ -1,0 +1,48 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+543329,89,MissedShots,0.970999984741211,0.27299999237060546,0.0373377688229084,Junior Adamu,a,12069,OpenPlay,2023,RightFoot,23126,Bayern Munich,Freiburg,3,0,2023-10-08 15:30:00,Kiliann Sildillia,Pass
+551836,91,SavedShot,0.9259999847412109,0.35,0.061951059848070145,Junior Adamu,a,12069,OpenPlay,2023,RightFoot,23176,Mainz 05,Freiburg,0,1,2023-12-03 14:30:00,Roland Sallai,Cross
+585964,57,MissedShots,0.875999984741211,0.5270000076293946,0.1235995665192604,Junior Adamu,h,12069,OpenPlay,2024,LeftFoot,27745,Freiburg,VfB Stuttgart,3,1,2024-08-24 13:30:00,Vincenzo Grifo,Pass
+590026,3,MissedShots,0.6880000305175781,0.49900001525878906,0.012496422044932842,Junior Adamu,a,12069,OpenPlay,2024,RightFoot,27759,Bayern Munich,Freiburg,2,0,2024-09-01 15:30:00,Merlin Röhl,Tackle
+590676,26,MissedShots,0.8909999847412109,0.6329999923706054,0.06723099201917648,Junior Adamu,h,12069,OpenPlay,2024,LeftFoot,27762,Freiburg,Bochum,2,1,2024-09-14 13:30:00,Max Rosenfelder,Chipped
+590686,45,SavedShot,0.970999984741211,0.5970000076293945,0.26377037167549133,Junior Adamu,h,12069,SetPiece,2024,LeftFoot,27762,Freiburg,Bochum,2,1,2024-09-14 13:30:00,Vincenzo Grifo,Cross
+590688,57,Goal,0.8190000152587891,0.5,0.31699177622795105,Junior Adamu,h,12069,OpenPlay,2024,LeftFoot,27762,Freiburg,Bochum,2,1,2024-09-14 13:30:00,Vincenzo Grifo,Throughball
+590691,60,Goal,0.9519999694824218,0.4779999923706055,0.15573328733444214,Junior Adamu,h,12069,OpenPlay,2024,LeftFoot,27762,Freiburg,Bochum,2,1,2024-09-14 13:30:00,,Rebound
+590702,85,SavedShot,0.92,0.515,0.4955017864704132,Junior Adamu,h,12069,OpenPlay,2024,RightFoot,27762,Freiburg,Bochum,2,1,2024-09-14 13:30:00,Christian Günter,BallTouch
+590703,85,MissedShots,0.960999984741211,0.57,0.49399664998054504,Junior Adamu,h,12069,OpenPlay,2024,Head,27762,Freiburg,Bochum,2,1,2024-09-14 13:30:00,,None
+592335,58,BlockedShot,0.9059999847412109,0.35400001525878905,0.10692213475704193,Junior Adamu,a,12069,OpenPlay,2024,LeftFoot,27772,FC Heidenheim,Freiburg,0,3,2024-09-21 13:30:00,Eren Sami Dinkci,TakeOn
+594022,70,MissedShots,0.905,0.46,0.05408260226249695,Junior Adamu,h,12069,OpenPlay,2024,Head,27779,Freiburg,St. Pauli,0,3,2024-09-28 13:30:00,Christian Günter,Aerial
+595409,26,MissedShots,0.784000015258789,0.49700000762939456,0.05537452921271324,Junior Adamu,a,12069,OpenPlay,2024,RightFoot,27789,Werder Bremen,Freiburg,0,1,2024-10-05 13:30:00,Lukas Kübler,LayOff
+595413,44,BlockedShot,0.8730000305175781,0.5790000152587891,0.05874372273683548,Junior Adamu,a,12069,OpenPlay,2024,LeftFoot,27789,Werder Bremen,Freiburg,0,1,2024-10-05 13:30:00,Maximilian Eggestein,Cross
+596930,16,MissedShots,0.725,0.6370000076293946,0.018301455304026604,Junior Adamu,h,12069,OpenPlay,2024,LeftFoot,27800,Freiburg,Augsburg,3,1,2024-10-19 13:30:00,Eren Sami Dinkci,Pass
+596931,17,SavedShot,0.840999984741211,0.6270000076293946,0.05384884774684906,Junior Adamu,h,12069,OpenPlay,2024,RightFoot,27800,Freiburg,Augsburg,3,1,2024-10-19 13:30:00,Maximilian Eggestein,Pass
+596935,27,BlockedShot,0.9119999694824219,0.534000015258789,0.10237765312194824,Junior Adamu,h,12069,FromCorner,2024,RightFoot,27800,Freiburg,Augsburg,3,1,2024-10-19 13:30:00,,None
+598350,10,MissedShots,0.895,0.48700000762939455,0.420171320438385,Junior Adamu,a,12069,OpenPlay,2024,RightFoot,27806,RasenBallsport Leipzig,Freiburg,3,1,2024-10-26 13:30:00,,None
+598363,52,SavedShot,0.909000015258789,0.485,0.11308497190475464,Junior Adamu,a,12069,OpenPlay,2024,Head,27806,RasenBallsport Leipzig,Freiburg,3,1,2024-10-26 13:30:00,Christian Günter,Cross
+600593,33,SavedShot,0.855,0.505,0.12577882409095764,Junior Adamu,h,12069,OpenPlay,2024,RightFoot,27819,Freiburg,Mainz 05,0,0,2024-11-03 14:30:00,Eren Sami Dinkci,Pass
+601148,8,MissedShots,0.9159999847412109,0.43,0.04684725031256676,Junior Adamu,a,12069,OpenPlay,2024,Head,27829,Union Berlin,Freiburg,0,0,2024-11-08 19:30:00,Christian Günter,Aerial
+601159,33,MissedShots,0.9419999694824219,0.44,0.6411063075065613,Junior Adamu,a,12069,OpenPlay,2024,RightFoot,27829,Union Berlin,Freiburg,0,0,2024-11-08 19:30:00,Patrick Osterhage,Pass
+602764,70,SavedShot,0.9130000305175782,0.5690000152587891,0.3186185956001282,Junior Adamu,a,12069,SetPiece,2024,LeftFoot,27835,Borussia Dortmund,Freiburg,4,0,2024-11-23 14:30:00,Vincenzo Grifo,Chipped
+612215,5,MissedShots,0.94,0.5820000076293945,0.0841614156961441,Junior Adamu,a,12069,OpenPlay,2024,RightFoot,27896,VfB Stuttgart,Freiburg,4,0,2025-01-18 14:30:00,,None
+613252,86,MissedShots,0.9330000305175781,0.57,0.04171564429998398,Junior Adamu,h,12069,OpenPlay,2024,Head,27912,Freiburg,Bayern Munich,1,2,2025-01-25 14:30:00,Philipp Lienhart,Aerial
+616070,67,SavedShot,0.875,0.7030000305175781,0.05292416363954544,Junior Adamu,h,12069,OpenPlay,2024,LeftFoot,27926,Freiburg,FC Heidenheim,1,0,2025-02-08 14:30:00,Vincenzo Grifo,Pass
+622518,8,MissedShots,0.9490000152587891,0.4379999923706055,0.09752508252859116,Junior Adamu,a,12069,OpenPlay,2024,Head,27972,Mainz 05,Freiburg,2,2,2025-03-15 14:30:00,Kiliann Sildillia,Pass
+622529,48,MissedShots,0.909000015258789,0.57,0.06779007613658905,Junior Adamu,a,12069,OpenPlay,2024,Head,27972,Mainz 05,Freiburg,2,2,2025-03-15 14:30:00,Christian Günter,Cross
+625619,53,SavedShot,0.93,0.53,0.4850429892539978,Junior Adamu,h,12069,OpenPlay,2024,RightFoot,27988,Freiburg,Borussia Dortmund,1,4,2025-04-05 13:30:00,,None
+627067,50,SavedShot,0.9080000305175782,0.4159999847412109,0.11484862864017487,Junior Adamu,a,12069,OpenPlay,2024,RightFoot,28000,Borussia M.Gladbach,Freiburg,1,2,2025-04-12 13:30:00,Vincenzo Grifo,Pass
+627071,57,BlockedShot,0.9169999694824219,0.4640000152587891,0.13191857933998108,Junior Adamu,a,12069,FromCorner,2024,LeftFoot,28000,Borussia M.Gladbach,Freiburg,1,2,2025-04-12 13:30:00,,Rebound
+627075,74,BlockedShot,0.9119999694824219,0.47700000762939454,0.1271386295557022,Junior Adamu,a,12069,OpenPlay,2024,RightFoot,28000,Borussia M.Gladbach,Freiburg,1,2,2025-04-12 13:30:00,Kiliann Sildillia,Pass
+630185,19,MissedShots,0.7959999847412109,0.600999984741211,0.03201562538743019,Junior Adamu,a,12069,OpenPlay,2024,LeftFoot,28018,Wolfsburg,Freiburg,0,1,2025-04-26 13:30:00,Patrick Osterhage,Pass
+630188,21,MissedShots,0.8519999694824218,0.34400001525878904,0.07401274144649506,Junior Adamu,a,12069,OpenPlay,2024,RightFoot,28018,Wolfsburg,Freiburg,0,1,2025-04-26 13:30:00,Ritsu Doan,Pass
+632121,51,BlockedShot,0.874000015258789,0.590999984741211,0.15834489464759827,Junior Adamu,h,12069,OpenPlay,2024,LeftFoot,28024,Freiburg,Bayer Leverkusen,2,2,2025-05-04 15:30:00,Johan Manzambi,Throughball
+632606,35,BlockedShot,0.9180000305175782,0.37,0.012115909717977047,Junior Adamu,a,12069,FromCorner,2024,Head,28038,Holstein Kiel,Freiburg,1,2,2025-05-10 13:30:00,Vincenzo Grifo,Aerial
+632610,50,MissedShots,0.93,0.42400001525878905,0.3203463554382324,Junior Adamu,a,12069,OpenPlay,2024,Head,28038,Holstein Kiel,Freiburg,1,2,2025-05-10 13:30:00,Jordy Makengo,Aerial
+634503,45,MissedShots,0.9269999694824219,0.509000015258789,0.40139293670654297,Junior Adamu,h,12069,OpenPlay,2024,Head,28043,Freiburg,Eintracht Frankfurt,1,3,2025-05-17 13:30:00,Ritsu Doan,Cross
+634508,70,MissedShots,0.860999984741211,0.5379999923706055,0.0761408731341362,Junior Adamu,h,12069,OpenPlay,2024,LeftFoot,28043,Freiburg,Eintracht Frankfurt,1,3,2025-05-17 13:30:00,Lucas Höler,BallTouch
+641117,90,MissedShots,0.9209999847412109,0.5509999847412109,0.36123427748680115,Junior Adamu,a,12069,OpenPlay,2025,Head,30241,FC Cologne,Freiburg,4,1,2025-08-31 17:30:00,Johan Manzambi,Throughball
+643024,53,Goal,0.955,0.5079999923706054,0.5957503318786621,Junior Adamu,a,12069,OpenPlay,2025,LeftFoot,30252,Werder Bremen,Freiburg,0,3,2025-09-20 13:30:00,Vincenzo Grifo,Cross
+645302,2,MissedShots,0.950999984741211,0.4209999847412109,0.28334760665893555,Junior Adamu,h,12069,FromCorner,2025,RightFoot,30266,Freiburg,Hoffenheim,1,1,2025-09-28 13:30:00,Vincenzo Grifo,Cross
+645315,45,MissedShots,0.894000015258789,0.6129999923706054,0.009219063445925713,Junior Adamu,h,12069,SetPiece,2025,Head,30266,Freiburg,Hoffenheim,1,1,2025-09-28 13:30:00,Vincenzo Grifo,Aerial
+648162,47,MissedShots,0.9319999694824219,0.5820000076293945,0.16123388707637787,Junior Adamu,h,12069,OpenPlay,2025,Head,30280,Freiburg,Eintracht Frankfurt,2,2,2025-10-19 13:30:00,Lukas Kübler,Chipped
+649608,3,SavedShot,0.8680000305175781,0.345,0.0625760480761528,Junior Adamu,a,12069,OpenPlay,2025,LeftFoot,30288,Bayer Leverkusen,Freiburg,2,0,2025-10-26 13:30:00,,BallRecovery
+649609,4,SavedShot,0.9369999694824219,0.54,0.061564695090055466,Junior Adamu,a,12069,FromCorner,2025,Head,30288,Bayer Leverkusen,Freiburg,2,0,2025-10-26 13:30:00,Derry Scherhant,Aerial
+650713,38,MissedShots,0.92,0.425,0.25183552503585815,Junior Adamu,a,12069,OpenPlay,2025,Head,30303,Union Berlin,Freiburg,0,0,2025-11-01 14:30:00,Vincenzo Grifo,Cross

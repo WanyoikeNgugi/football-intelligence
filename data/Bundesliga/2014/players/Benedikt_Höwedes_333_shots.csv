@@ -1,0 +1,53 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+24572,61,Goal,0.9930000305175781,0.46599998474121096,0.972478985786438,Benedikt Höwedes,h,333,SetPiece,2014,OtherBodyPart,5462,Schalke 04,Bayern Munich,1,1,2014-08-30 17:30:00,,None
+26905,52,MissedShots,0.895,0.4929999923706055,0.034435998648405075,Benedikt Höwedes,a,333,SetPiece,2014,Head,5361,Freiburg,Schalke 04,2,0,2014-11-08 14:30:00,Dennis Aogo,Aerial
+26969,81,SavedShot,0.915,0.59,0.07738710194826126,Benedikt Höwedes,h,333,OpenPlay,2014,Head,5366,Schalke 04,Wolfsburg,3,2,2014-11-22 14:30:00,Felipe Santana,Cross
+27956,35,SavedShot,0.925,0.5029999923706054,0.07021570205688477,Benedikt Höwedes,h,333,SetPiece,2014,Head,5342,Schalke 04,Hamburger SV,0,0,2014-12-20 14:30:00,Christian Fuchs,Aerial
+29657,71,Goal,0.9290000152587891,0.5279999923706055,0.11720400303602219,Benedikt Höwedes,a,333,FromCorner,2014,Head,5264,Bayern Munich,Schalke 04,1,1,2015-02-03 19:00:00,Sidney Sam,Cross
+28934,44,BlockedShot,0.8690000152587891,0.39,0.08731479942798615,Benedikt Höwedes,h,333,OpenPlay,2014,RightFoot,5293,Schalke 04,Werder Bremen,1,1,2015-02-21 14:30:00,Max Meyer,Pass
+31304,82,BlockedShot,0.9319999694824219,0.3609999847412109,0.018247999250888824,Benedikt Höwedes,a,333,FromCorner,2014,Head,5245,Hertha Berlin,Schalke 04,2,2,2015-03-14 14:30:00,Tranquillo Barnetta,Cross
+30821,54,SavedShot,0.91,0.4640000152587891,0.039037998765707016,Benedikt Höwedes,h,333,FromCorner,2014,OtherBodyPart,5206,Schalke 04,Freiburg,0,0,2015-04-11 14:30:00,Dennis Aogo,Aerial
+30832,73,BlockedShot,0.9009999847412109,0.575,0.11909099668264389,Benedikt Höwedes,h,333,OpenPlay,2014,RightFoot,5206,Schalke 04,Freiburg,0,0,2015-04-11 14:30:00,Dennis Aogo,Pass
+31839,36,BlockedShot,0.8009999847412109,0.32,0.0239522997289896,Benedikt Höwedes,a,333,OpenPlay,2014,RightFoot,5221,Wolfsburg,Schalke 04,1,1,2015-04-19 16:30:00,,None
+30063,51,MissedShots,0.905,0.5279999923706055,0.0259528998285532,Benedikt Höwedes,h,333,FromCorner,2014,Head,5177,Schalke 04,Paderborn,1,0,2015-05-16 14:30:00,Jefferson Farfán,Aerial
+77928,26,Goal,0.9530000305175781,0.46599998474121096,0.4700779914855957,Benedikt Höwedes,h,333,FromCorner,2015,Head,1096,Schalke 04,Hertha Berlin,2,1,2015-10-17 17:30:00,Johannes Geis,Cross
+77943,63,MissedShots,0.9030000305175782,0.5070000076293946,0.026325499638915062,Benedikt Höwedes,h,333,FromCorner,2015,Head,1096,Schalke 04,Hertha Berlin,2,1,2015-10-17 17:30:00,Johannes Geis,Aerial
+78407,49,MissedShots,0.715,0.43099998474121093,0.016415299847722054,Benedikt Höwedes,h,333,OpenPlay,2015,RightFoot,1116,Schalke 04,Ingolstadt,1,1,2015-10-31 18:30:00,Max Meyer,Pass
+79151,13,SavedShot,0.925,0.5129999923706055,0.05613749846816063,Benedikt Höwedes,a,333,FromCorner,2015,Head,1145,Bayer Leverkusen,Schalke 04,1,1,2015-11-29 20:30:00,Dennis Aogo,Aerial
+79335,14,BlockedShot,0.8959999847412109,0.495,0.08043809980154037,Benedikt Höwedes,h,333,SetPiece,2015,LeftFoot,1147,Schalke 04,Hannover 96,3,1,2015-12-04 23:30:00,,None
+79839,61,MissedShots,0.9469999694824218,0.4279999923706055,0.048416100442409515,Benedikt Höwedes,h,333,FromCorner,2015,Head,1165,Schalke 04,Hoffenheim,1,0,2015-12-18 23:30:00,Johannes Geis,Aerial
+83081,87,MissedShots,0.8230000305175781,0.524000015258789,0.0463269017636776,Benedikt Höwedes,h,333,OpenPlay,2015,RightFoot,1297,Schalke 04,Bayer Leverkusen,2,3,2016-04-23 20:30:00,Klaas-Jan Huntelaar,HeadPass
+83508,4,MissedShots,0.899000015258789,0.48200000762939454,0.022195300087332726,Benedikt Höwedes,h,333,FromCorner,2015,Head,1309,Schalke 04,Augsburg,1,1,2016-05-07 17:30:00,Pierre-Emile Højbjerg,Aerial
+128257,87,BlockedShot,0.9669999694824218,0.38799999237060545,0.06912220269441605,Benedikt Höwedes,a,333,OpenPlay,2016,RightFoot,1353,Hertha Berlin,Schalke 04,2,0,2016-09-18 19:30:00,,None
+128438,18,BlockedShot,0.8959999847412109,0.4779999923706055,0.031008299440145493,Benedikt Höwedes,h,333,FromCorner,2016,Head,1362,Schalke 04,FC Cologne,1,3,2016-09-21 22:00:00,Johannes Geis,CornerAwarded
+128440,20,SavedShot,0.845999984741211,0.43099998474121093,0.013387699611485004,Benedikt Höwedes,h,333,FromCorner,2016,Head,1362,Schalke 04,FC Cologne,1,3,2016-09-21 22:00:00,Johannes Geis,Chipped
+128460,90,MissedShots,0.8809999847412109,0.46700000762939453,0.0576447993516922,Benedikt Höwedes,h,333,OpenPlay,2016,Head,1362,Schalke 04,FC Cologne,1,3,2016-09-21 22:00:00,Abdul Rahman Baba,Cross
+128870,16,MissedShots,0.805,0.2620000076293945,0.025797700509428978,Benedikt Höwedes,h,333,OpenPlay,2016,RightFoot,1380,Schalke 04,Borussia M.Gladbach,4,0,2016-10-02 19:30:00,Nabil Bentaleb,HeadPass
+129184,8,MissedShots,0.9069999694824219,0.5029999923706054,0.032020799815654755,Benedikt Höwedes,a,333,FromCorner,2016,Head,1384,Augsburg,Schalke 04,1,1,2016-10-15 17:30:00,Johannes Geis,Aerial
+130997,16,MissedShots,0.9290000152587891,0.425,0.02855359949171543,Benedikt Höwedes,h,333,FromCorner,2016,Head,2831,Schalke 04,Darmstadt,3,1,2016-11-27 18:30:00,Johannes Geis,Aerial
+131013,53,MissedShots,0.9490000152587891,0.5379999923706055,0.07527100294828415,Benedikt Höwedes,h,333,FromCorner,2016,Head,2831,Schalke 04,Darmstadt,3,1,2016-11-27 18:30:00,Johannes Geis,Aerial
+131018,76,BlockedShot,0.845,0.3370000076293945,0.08353269845247269,Benedikt Höwedes,h,333,OpenPlay,2016,RightFoot,2831,Schalke 04,Darmstadt,3,1,2016-11-27 18:30:00,Eric Maxim Choupo-Moting,LayOff
+130821,86,MissedShots,0.9130000305175782,0.5129999923706055,0.04491350054740906,Benedikt Höwedes,a,333,OpenPlay,2016,Head,3198,RasenBallsport Leipzig,Schalke 04,2,1,2016-12-03 21:30:00,Júnior Caiçara,Aerial
+130519,40,MissedShots,0.9540000152587891,0.4929999923706055,0.10426300019025803,Benedikt Höwedes,h,333,SetPiece,2016,Head,3723,Schalke 04,Ingolstadt,1,0,2017-01-21 17:30:00,Johannes Geis,Aerial
+131133,48,MissedShots,0.8919999694824219,0.5259999847412109,0.08100850135087967,Benedikt Höwedes,h,333,SetPiece,2016,Head,3731,Schalke 04,Eintracht Frankfurt,0,1,2017-01-27 22:30:00,Johannes Geis,Cross
+133735,83,MissedShots,0.9169999694824219,0.4640000152587891,0.10456299781799316,Benedikt Höwedes,h,333,FromCorner,2016,RightFoot,3792,Schalke 04,Augsburg,3,0,2017-03-12 14:30:00,,None
+133005,56,SavedShot,0.909000015258789,0.485,0.08451910316944122,Benedikt Höwedes,h,333,FromCorner,2016,Head,3806,Schalke 04,Borussia Dortmund,1,1,2017-04-01 14:30:00,Daniel Caligiuri,Cross
+134232,9,Goal,0.9280000305175782,0.5270000076293946,0.11576800048351288,Benedikt Höwedes,a,333,FromCorner,2016,Head,3856,Bayer Leverkusen,Schalke 04,1,4,2017-04-28 19:30:00,Alessandro Schöpf,Cross
+134251,75,SavedShot,0.865,0.4520000076293945,0.032224200665950775,Benedikt Höwedes,a,333,FromCorner,2016,Head,3856,Bayer Leverkusen,Schalke 04,1,4,2017-04-28 19:30:00,Coke,Cross
+132821,39,MissedShots,0.9119999694824219,0.445,0.04096280038356781,Benedikt Höwedes,a,333,SetPiece,2016,Head,3858,Freiburg,Schalke 04,2,0,2017-05-07 16:30:00,Nabil Bentaleb,Aerial
+132966,5,MissedShots,0.8959999847412109,0.4759999847412109,0.06013600155711174,Benedikt Höwedes,h,333,FromCorner,2016,Head,3867,Schalke 04,Hamburger SV,1,1,2017-05-13 14:30:00,Coke,Cross
+209301,59,Goal,0.95,0.47200000762939454,0.5739250183105469,Benedikt Höwedes,h,333,OpenPlay,2017,Head,7815,Juventus,Sampdoria,3,0,2018-04-15 16:00:00,Douglas Costa,Cross
+211215,12,BlockedShot,0.9480000305175781,0.4490000152587891,0.06343930214643478,Benedikt Höwedes,h,333,FromCorner,2017,Head,7835,Juventus,Napoli,0,1,2018-04-22 18:45:00,Miralem Pjanic,Aerial
+230765,59,SavedShot,0.884000015258789,0.575999984741211,0.03573469817638397,Benedikt Höwedes,h,333,SetPiece,2018,Head,9011,Lokomotiv Moscow,FK Akhmat,2,0,2018-09-29 16:00:00,Manuel Fernandes,Cross
+230980,87,Goal,0.9169999694824219,0.515,0.47165000438690186,Benedikt Höwedes,a,333,FromCorner,2018,RightFoot,9022,CSKA Moscow,Lokomotiv Moscow,0,1,2018-10-07 16:00:00,Vedran Corluka,Pass
+238222,26,MissedShots,0.865999984741211,0.5820000076293945,0.04504840075969696,Benedikt Höwedes,a,333,FromCorner,2018,LeftFoot,9035,FC Yenisey Krasnoyarsk,Lokomotiv Moscow,0,3,2018-10-28 10:00:00,Manuel Fernandes,Card
+238441,25,Goal,0.9669999694824218,0.5220000076293946,0.6467980146408081,Benedikt Höwedes,h,333,SetPiece,2018,Head,9044,Lokomotiv Moscow,Arsenal Tula,3,1,2018-11-03 11:00:00,Manuel Fernandes,Aerial
+286663,1,MissedShots,0.7809999847412109,0.66,0.021716900169849396,Benedikt Höwedes,h,333,OpenPlay,2018,RightFoot,9104,Lokomotiv Moscow,FC Krasnodar,1,0,2019-03-17 13:30:00,,None
+293697,43,ShotOnPost,0.9359999847412109,0.6079999923706054,0.014627199620008469,Benedikt Höwedes,a,333,FromCorner,2018,Head,9126,FK Akhmat,Lokomotiv Moscow,1,3,2019-04-13 17:30:00,Manuel Fernandes,Aerial
+293716,93,MissedShots,0.9459999847412109,0.425,0.037318501621484756,Benedikt Höwedes,a,333,FromCorner,2018,Head,9126,FK Akhmat,Lokomotiv Moscow,1,3,2019-04-13 17:30:00,Roman Tugarev,Aerial
+296242,12,Goal,0.92,0.45799999237060546,0.3551200032234192,Benedikt Höwedes,h,333,FromCorner,2018,RightFoot,9134,Lokomotiv Moscow,CSKA Moscow,1,1,2019-04-20 17:00:00,Fedor Smolov,Cross
+320875,84,SavedShot,0.925,0.5220000076293946,0.48418399691581726,Benedikt Höwedes,a,333,FromCorner,2019,LeftFoot,11100,FC Orenburg,Lokomotiv Moscow,2,3,2019-09-22 08:30:00,Aleksandr Kolomejtsev,Rebound
+322825,46,MissedShots,0.875,0.40299999237060546,0.08912289887666702,Benedikt Höwedes,h,333,OpenPlay,2019,RightFoot,11110,Lokomotiv Moscow,Zenit St. Petersburg,1,0,2019-09-28 16:00:00,Fedor Smolov,Pass
+327724,85,BlockedShot,0.9180000305175782,0.42700000762939455,0.09278859943151474,Benedikt Höwedes,h,333,FromCorner,2019,RightFoot,11130,Lokomotiv Moscow,Spartak Moscow,0,3,2019-10-27 13:30:00,Aleksey Miranchuk,Pass
+334170,77,MissedShots,0.9359999847412109,0.5690000152587891,0.03439849987626076,Benedikt Höwedes,h,333,FromCorner,2019,Head,11163,Lokomotiv Moscow,Dinamo Moscow,1,2,2019-12-01 13:30:00,Aleksey Miranchuk,Aerial
+360852,20,BlockedShot,0.8530000305175781,0.47200000762939454,0.0678471028804779,Benedikt Höwedes,a,333,SetPiece,2019,LeftFoot,11175,Zenit St. Petersburg,Lokomotiv Moscow,0,0,2020-02-29 16:00:00,,Rebound

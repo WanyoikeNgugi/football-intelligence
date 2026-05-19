@@ -1,0 +1,13 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+169300,26,BlockedShot,0.7530000305175781,0.265,0.01881299912929535,Álvaro Jiménez,a,6152,OpenPlay,2017,RightFoot,7884,Athletic Club,Getafe,0,0,2017-08-20 17:15:00,Gaku Shibasaki,Pass
+169706,75,MissedShots,0.9680000305175781,0.27100000381469724,0.029770400375127792,Álvaro Jiménez,a,6152,OpenPlay,2017,RightFoot,7904,Leganes,Getafe,1,2,2017-09-08 20:00:00,Mauro Arambarri,Chipped
+169710,82,Goal,0.759000015258789,0.40400001525878904,0.031067900359630585,Álvaro Jiménez,a,6152,FromCorner,2017,RightFoot,7904,Leganes,Getafe,1,2,2017-09-08 20:00:00,Faycal Fajr,Pass
+169943,66,MissedShots,0.7559999847412109,0.6840000152587891,0.016686199232935905,Álvaro Jiménez,h,6152,SetPiece,2017,RightFoot,7914,Getafe,Barcelona,1,2,2017-09-16 15:15:00,Mauro Arambarri,Pass
+169944,79,SavedShot,0.7190000152587891,0.47900001525878905,0.0165219996124506,Álvaro Jiménez,h,6152,OpenPlay,2017,RightFoot,7914,Getafe,Barcelona,1,2,2017-09-16 15:15:00,Sergio Mora,BallRecovery
+170423,44,SavedShot,0.8980000305175782,0.27899999618530275,0.03692369908094406,Álvaro Jiménez,h,6152,OpenPlay,2017,RightFoot,7933,Getafe,Villarreal,4,0,2017-09-24 15:15:00,Mauro Arambarri,Pass
+170921,74,BlockedShot,0.9019999694824219,0.7030000305175781,0.05335960164666176,Álvaro Jiménez,a,6152,OpenPlay,2017,LeftFoot,7942,Deportivo La Coruna,Getafe,2,1,2017-09-30 12:00:00,Vitorino Antunes,TakeOn
+171523,4,SavedShot,0.6370000076293946,0.36700000762939455,0.01031120028346777,Álvaro Jiménez,h,6152,OpenPlay,2017,RightFoot,7971,Getafe,Real Sociedad,2,1,2017-10-29 11:00:00,Markel Bergara,Pass
+186674,86,MissedShots,0.8780000305175781,0.40700000762939453,0.3014639914035797,Álvaro Jiménez,a,6152,OpenPlay,2017,RightFoot,8050,Atletico Madrid,Getafe,2,0,2018-01-06 12:00:00,Damián Suárez,Pass
+430686,86,MissedShots,0.76,0.3890000152587891,0.014696300029754639,Álvaro Jiménez,h,6152,SetPiece,2021,RightFoot,17168,Cadiz,Real Sociedad,0,2,2021-09-12 16:30:00,,None
+437305,82,MissedShots,0.905,0.29700000762939455,0.03834360092878342,Álvaro Jiménez,a,6152,FromCorner,2021,RightFoot,17220,Espanyol,Cadiz,2,0,2021-10-18 19:00:00,,None
+437308,92,SavedShot,0.8569999694824219,0.3390000152587891,0.04966939985752106,Álvaro Jiménez,a,6152,OpenPlay,2021,RightFoot,17220,Espanyol,Cadiz,2,0,2021-10-18 19:00:00,Varazdat Haroyan,TakeOn

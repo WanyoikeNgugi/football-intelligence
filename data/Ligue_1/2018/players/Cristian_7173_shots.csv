@@ -1,0 +1,13 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+260558,85,BlockedShot,0.9130000305175782,0.52,0.10685200244188309,Cristian,h,7173,OpenPlay,2018,Head,10724,Angers,Strasbourg,2,2,2018-10-06 18:00:00,Flavien Tait,Cross
+260991,87,Goal,0.9259999847412109,0.5279999923706055,0.07913540303707123,Cristian,h,7173,OpenPlay,2018,Head,10744,Angers,Lyon,1,2,2018-10-27 15:00:00,Cheikh Ndoye,Aerial
+282314,76,MissedShots,0.955,0.500999984741211,0.08674869686365128,Cristian,h,7173,FromCorner,2018,Head,10803,Angers,Bordeaux,1,2,2019-01-15 18:00:00,Flavien Tait,Aerial
+282315,78,MissedShots,0.775,0.4370000076293945,0.025464700534939766,Cristian,h,7173,OpenPlay,2018,LeftFoot,10803,Angers,Bordeaux,1,2,2019-01-15 18:00:00,Angelo Fulgini,Pass
+282701,56,ShotOnPost,0.9019999694824219,0.549000015258789,0.34046098589897156,Cristian,a,7173,OpenPlay,2018,RightFoot,10837,Nimes,Angers,3,1,2019-01-23 18:00:00,Angelo Fulgini,Pass
+283492,91,Goal,0.94,0.575,0.11923299729824066,Cristian,h,7173,OpenPlay,2018,Head,10883,Angers,Nice,3,0,2019-02-16 19:00:00,Ismael Traoré,Cross
+286490,56,MissedShots,0.8469999694824218,0.5159999847412109,0.07440599799156189,Cristian,h,7173,OpenPlay,2018,RightFoot,10927,Angers,Amiens,0,0,2019-03-16 19:00:00,Angelo Fulgini,HeadPass
+286495,83,SavedShot,0.885,0.5,0.7600950002670288,Cristian,h,7173,Penalty,2018,RightFoot,10927,Angers,Amiens,0,0,2019-03-16 19:00:00,,Standard
+287683,81,MissedShots,0.9459999847412109,0.39,0.0716371014714241,Cristian,a,7173,OpenPlay,2018,RightFoot,10933,Marseille,Angers,2,2,2019-03-30 16:00:00,Thomas Mangani,Cross
+292235,91,MissedShots,0.9259999847412109,0.4640000152587891,0.10622300207614899,Cristian,h,7173,FromCorner,2018,Head,10948,Angers,Rennes,3,3,2019-04-06 19:00:00,Flavien Tait,Cross
+292234,91,SavedShot,0.9130000305175782,0.45799999237060546,0.25216400623321533,Cristian,h,7173,SetPiece,2018,Head,10948,Angers,Rennes,3,3,2019-04-06 19:00:00,Pierrick Capelle,Cross
+293802,19,MissedShots,0.7669999694824219,0.46299999237060546,0.026308799162507057,Cristian,a,7173,OpenPlay,2018,RightFoot,10954,Caen,Angers,0,1,2019-04-13 19:00:00,,None

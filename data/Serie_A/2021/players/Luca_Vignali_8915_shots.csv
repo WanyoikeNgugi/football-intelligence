@@ -1,0 +1,5 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+401921,41,SavedShot,0.9230000305175782,0.41900001525878905,0.04244169965386391,Luca Vignali,h,8915,OpenPlay,2020,Head,15622,Spezia,Udinese,0,1,2021-01-31 11:30:00,,None
+407707,60,MissedShots,0.6959999847412109,0.5359999847412109,0.012653999961912632,Luca Vignali,a,8915,FromCorner,2020,RightFoot,15670,Juventus,Spezia,3,0,2021-03-02 19:45:00,,None
+415808,90,BlockedShot,0.865,0.3139999961853027,0.04463930055499077,Luca Vignali,a,8915,FromCorner,2020,RightFoot,15733,Bologna,Spezia,4,1,2021-04-18 13:00:00,Matteo Ricci,Pass
+424284,36,BlockedShot,0.7959999847412109,0.355,0.03377800062298775,Luca Vignali,h,8915,OpenPlay,2020,RightFoot,15803,Spezia,Roma,2,2,2021-05-23 18:45:00,Daniele Verde,Pass

@@ -1,0 +1,14 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+425367,73,ShotOnPost,0.9359999847412109,0.5109999847412109,0.43519699573516846,Mickael Nade,h,5753,FromCorner,2021,Head,17826,Saint-Etienne,Lorient,1,1,2021-08-08 13:00:00,Wahbi Khazri,Cross
+430225,3,MissedShots,0.9180000305175782,0.4490000152587891,0.07423499971628189,Mickael Nade,a,5753,SetPiece,2021,Head,17869,Montpellier,Saint-Etienne,2,0,2021-09-12 11:00:00,Romain Hamouma,Chipped
+431645,85,MissedShots,0.7419999694824219,0.6140000152587891,0.015898000448942184,Mickael Nade,h,5753,OpenPlay,2021,LeftFoot,17881,Saint-Etienne,Bordeaux,1,2,2021-09-18 19:00:00,,None
+437492,93,Goal,0.9869999694824219,0.51,0.8032739758491516,Mickael Nade,h,5753,FromCorner,2021,Head,17931,Saint-Etienne,Angers,2,2,2021-10-22 19:00:00,Saidou Sow,Chipped
+450420,71,MissedShots,0.9069999694824219,0.47299999237060547,0.12313800305128098,Mickael Nade,h,5753,SetPiece,2021,LeftFoot,18010,Saint-Etienne,Nantes,0,1,2021-12-22 19:45:00,,Rebound
+461471,23,MissedShots,0.9440000152587891,0.6140000152587891,0.013866299763321877,Mickael Nade,h,5753,FromCorner,2021,Head,18084,Saint-Etienne,Metz,1,0,2022-03-06 12:00:00,Ryad Boudebouz,Aerial
+477573,49,BlockedShot,0.9180000305175782,0.40299999237060546,0.014810300432145596,Mickael Nade,a,5753,FromCorner,2021,Head,18196,Nantes,Saint-Etienne,1,1,2022-05-21 19:00:00,Adil Aouchiche,Aerial
+597327,49,BlockedShot,0.8969999694824219,0.5940000152587891,0.1821398288011551,Mickael Nade,h,5753,FromCorner,2024,Head,28117,Saint-Etienne,Lens,0,2,2024-10-19 17:00:00,Zuriko Davitashvili,Cross
+600407,50,Goal,0.9780000305175781,0.5509999847412109,0.6630078554153442,Mickael Nade,h,5753,FromCorner,2024,LeftFoot,28137,Saint-Etienne,Strasbourg,2,0,2024-11-02 20:00:00,Lucas Stassin,Rebound
+612713,91,MissedShots,0.8769999694824219,0.6220000076293946,0.013849515467882156,Mickael Nade,h,5753,OpenPlay,2024,Head,28205,Saint-Etienne,Nantes,1,1,2025-01-19 14:00:00,Pierre Cornud,Cross
+620070,51,OwnGoal,0.024000000953674317,0.5359999847412109,0,Mickael Nade,h,5753,FromCorner,2024,LeftFoot,28259,Saint-Etienne,Nice,1,3,2025-03-01 16:00:00,,CornerAwarded
+627698,15,MissedShots,0.9069999694824219,0.5120000076293946,0.04670744389295578,Mickael Nade,h,5753,FromCorner,2024,Head,28305,Saint-Etienne,Brest,3,3,2025-04-13 13:00:00,Dennis Appiah,None
+630396,45,SavedShot,0.7440000152587891,0.56,0.01998469978570938,Mickael Nade,a,5753,OpenPlay,2024,LeftFoot,28319,Strasbourg,Saint-Etienne,3,1,2025-04-26 15:00:00,,BallRecovery

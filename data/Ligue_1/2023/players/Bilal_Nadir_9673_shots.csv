@@ -1,0 +1,17 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+552389,89,ShotOnPost,0.860999984741211,0.38599998474121094,0.08276744186878204,Bilal Nadir,h,9673,OpenPlay,2023,LeftFoot,23453,Marseille,Lyon,3,0,2023-12-06 19:00:00,,BallTouch
+610378,38,Goal,0.9069999694824219,0.7080000305175781,0.06965947896242142,Bilal Nadir,h,9673,OpenPlay,2024,LeftFoot,28189,Marseille,Le Havre,5,1,2025-01-05 19:45:00,Quentin Merlin,Pass
+614168,85,BlockedShot,0.8540000152587891,0.2539999961853027,0.031501755118370056,Bilal Nadir,a,9673,OpenPlay,2024,LeftFoot,28217,Nice,Marseille,2,0,2025-01-26 19:45:00,Amir Murillo,Pass
+615719,25,SavedShot,0.895,0.62,0.09987694770097733,Bilal Nadir,h,9673,OpenPlay,2024,LeftFoot,28219,Marseille,Lyon,3,2,2025-02-02 19:45:00,Adrien Rabiot,Pass
+615721,46,SavedShot,0.799000015258789,0.395,0.03973790258169174,Bilal Nadir,h,9673,OpenPlay,2024,LeftFoot,28219,Marseille,Lyon,3,2,2025-02-02 19:45:00,Luis Henrique,Pass
+617325,97,MissedShots,0.9080000305175782,0.28,0.06511515378952026,Bilal Nadir,h,9673,OpenPlay,2024,LeftFoot,28238,Marseille,Saint-Etienne,5,1,2025-02-15 16:00:00,Jonathan Rowe,Pass
+621648,27,MissedShots,0.840999984741211,0.33799999237060546,0.04669760540127754,Bilal Nadir,h,9673,OpenPlay,2024,LeftFoot,28272,Marseille,Lens,0,1,2025-03-08 20:05:00,Pierre-Emile Højbjerg,Pass
+621651,33,MissedShots,0.8180000305175781,0.34700000762939454,0.036820899695158005,Bilal Nadir,h,9673,OpenPlay,2024,RightFoot,28272,Marseille,Lens,0,1,2025-03-08 20:05:00,Amar Dedic,Pass
+623756,26,BlockedShot,0.7819999694824219,0.40099998474121096,0.0874553844332695,Bilal Nadir,a,9673,DirectFreekick,2024,LeftFoot,28273,Paris Saint Germain,Marseille,3,1,2025-03-16 19:45:00,,Standard
+641321,19,BlockedShot,0.795,0.5829999923706055,0.05069087818264961,Bilal Nadir,h,9673,OpenPlay,2025,LeftFoot,29568,Marseille,Lorient,4,0,2025-09-12 18:45:00,Angel Gomes,Pass
+641329,51,BlockedShot,0.88,0.265,0.03260738402605057,Bilal Nadir,h,9673,OpenPlay,2025,LeftFoot,29568,Marseille,Lorient,4,0,2025-09-12 18:45:00,Timothy Weah,Cross
+646248,93,SavedShot,0.9059999847412109,0.639000015258789,0.1098427101969719,Bilal Nadir,a,9673,OpenPlay,2025,LeftFoot,29597,Metz,Marseille,0,3,2025-10-04 15:00:00,Pierre-Emile Højbjerg,Chipped
+655384,51,BlockedShot,0.860999984741211,0.5540000152587891,0.052646707743406296,Bilal Nadir,h,9673,OpenPlay,2025,RightFoot,29659,Marseille,Toulouse,2,2,2025-11-29 20:05:00,Robinio Vaz,HeadPass
+655387,58,MissedShots,0.855999984741211,0.62,0.04791804775595665,Bilal Nadir,h,9673,FromCorner,2025,LeftFoot,29659,Marseille,Toulouse,2,2,2025-11-29 20:05:00,,None
+655388,59,MissedShots,0.76,0.4129999923706055,0.01836719922721386,Bilal Nadir,h,9673,OpenPlay,2025,LeftFoot,29659,Marseille,Toulouse,2,2,2025-11-29 20:05:00,Pierre-Emerick Aubameyang,BallRecovery
+663957,9,MissedShots,0.7880000305175782,0.48200000762939454,0.05976538732647896,Bilal Nadir,a,9673,OpenPlay,2025,LeftFoot,29691,Angers,Marseille,2,5,2026-01-17 20:05:00,,TakeOn

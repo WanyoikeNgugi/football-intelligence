@@ -1,0 +1,27 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+26,2,BlockedShot,0.9419999694824219,0.49700000762939456,0.10486800223588943,Sébastien Squillaci,h,3321,SetPiece,2014,LeftFoot,6186,SC Bastia,Marseille,3,3,2014-08-09 20:00:00,Floyd Ayité,Cross
+460,55,MissedShots,0.9459999847412109,0.51,0.130963996052742,Sébastien Squillaci,h,3321,FromCorner,2014,Head,6211,SC Bastia,Toulouse,1,0,2014-08-23 19:00:00,Ryad Boudebouz,Cross
+1123,43,SavedShot,0.7219999694824218,0.4129999923706055,0.016462499275803566,Sébastien Squillaci,h,3321,OpenPlay,2014,RightFoot,6151,SC Bastia,Lens,1,1,2014-09-13 19:00:00,Christopher Maboulou,Pass
+1132,73,SavedShot,0.93,0.5179999923706055,0.11309400200843811,Sébastien Squillaci,h,3321,FromCorner,2014,Head,6151,SC Bastia,Lens,1,1,2014-09-13 19:00:00,Ryad Boudebouz,Cross
+1449,37,MissedShots,0.9440000152587891,0.4640000152587891,0.10072000324726105,Sébastien Squillaci,h,3321,SetPiece,2014,Head,6172,SC Bastia,Nantes,0,0,2014-09-24 18:00:00,,Aerial
+2055,32,MissedShots,0.9119999694824219,0.46,0.07942110300064087,Sébastien Squillaci,a,3321,FromCorner,2014,Head,6179,Lille,SC Bastia,1,0,2014-09-27 19:00:00,Floyd Ayité,Cross
+2079,26,SavedShot,0.9269999694824219,0.525,0.11626199632883072,Sébastien Squillaci,h,3321,SetPiece,2014,Head,6137,SC Bastia,Monaco,1,3,2014-10-25 19:00:00,Ryad Boudebouz,Cross
+4767,20,ShotOnPost,0.9119999694824219,0.41700000762939454,0.07206480205059052,Sébastien Squillaci,a,3321,SetPiece,2014,Head,6070,Caen,SC Bastia,1,1,2014-12-20 19:00:00,Ryad Boudebouz,Cross
+4777,62,SavedShot,0.914000015258789,0.40200000762939453,0.016482699662446976,Sébastien Squillaci,a,3321,SetPiece,2014,Head,6070,Caen,SC Bastia,1,1,2014-12-20 19:00:00,Ryad Boudebouz,Aerial
+5674,18,BlockedShot,0.8530000305175781,0.51,0.024511300027370453,Sébastien Squillaci,h,3321,SetPiece,2014,Head,6000,SC Bastia,Paris Saint Germain,4,2,2015-01-10 16:00:00,Ryad Boudebouz,Cross
+5023,36,MissedShots,0.9309999847412109,0.475,0.07553230226039886,Sébastien Squillaci,h,3321,SetPiece,2014,Head,6023,SC Bastia,Bordeaux,0,0,2015-01-24 19:00:00,Ryad Boudebouz,Aerial
+2641,35,ShotOnPost,0.8880000305175781,0.5979999923706054,0.07794409990310669,Sébastien Squillaci,h,3321,OpenPlay,2014,RightFoot,5966,SC Bastia,Metz,2,0,2015-02-07 19:00:00,Giovanni Sio,None
+7505,1,BlockedShot,0.8959999847412109,0.5770000076293945,0.05783490091562271,Sébastien Squillaci,h,3321,SetPiece,2014,RightFoot,5934,SC Bastia,Nice,2,1,2015-03-07 19:00:00,Floyd Ayité,Cross
+63213,30,SavedShot,0.925,0.54,0.328000009059906,Sébastien Squillaci,h,3321,SetPiece,2015,Head,1941,SC Bastia,Toulouse,3,0,2015-09-26 22:00:00,Gaël Danic,Cross
+63214,30,Goal,0.9490000152587891,0.5220000076293946,0.5008280277252197,Sébastien Squillaci,h,3321,SetPiece,2015,Head,1941,SC Bastia,Toulouse,3,0,2015-09-26 22:00:00,,Rebound
+63219,41,Goal,0.9230000305175782,0.45599998474121095,0.2958090007305145,Sébastien Squillaci,h,3321,FromCorner,2015,Head,1941,SC Bastia,Toulouse,3,0,2015-09-26 22:00:00,Sadio Diallo,Cross
+64183,50,MissedShots,0.9619999694824218,0.52,0.137254998087883,Sébastien Squillaci,h,3321,FromCorner,2015,Head,1980,SC Bastia,Caen,1,0,2015-10-31 23:00:00,Sadio Diallo,Cross
+65945,69,BlockedShot,0.8919999694824219,0.47,0.07979779690504074,Sébastien Squillaci,a,3321,SetPiece,2015,RightFoot,2059,Paris Saint Germain,SC Bastia,2,0,2016-01-08 23:30:00,,None
+69368,54,MissedShots,0.9390000152587891,0.44599998474121094,0.12640100717544556,Sébastien Squillaci,h,3321,SetPiece,2015,Head,2113,SC Bastia,Troyes,2,0,2016-02-06 23:00:00,Gaël Danic,Cross
+66839,54,MissedShots,0.925,0.5029999923706054,0.11440599709749222,Sébastien Squillaci,h,3321,FromCorner,2015,Head,2164,SC Bastia,Lille,1,2,2016-03-12 23:00:00,Gaël Danic,Cross
+67548,42,MissedShots,0.9419999694824219,0.4370000076293945,0.10875800251960754,Sébastien Squillaci,h,3321,FromCorner,2015,Head,2187,SC Bastia,Marseille,2,1,2016-04-03 19:00:00,Gaël Danic,Cross
+68202,78,MissedShots,0.914000015258789,0.5429999923706055,0.08041349798440933,Sébastien Squillaci,h,3321,FromCorner,2015,Head,2201,SC Bastia,Saint-Etienne,0,1,2016-04-16 22:00:00,Gaël Danic,Cross
+68204,80,MissedShots,0.9159999847412109,0.46,0.08684179931879044,Sébastien Squillaci,h,3321,FromCorner,2015,Head,2201,SC Bastia,Saint-Etienne,0,1,2016-04-16 22:00:00,Gaël Danic,Cross
+68585,45,SavedShot,0.935,0.5920000076293945,0.08962780237197876,Sébastien Squillaci,a,3321,SetPiece,2015,Head,2215,GFC Ajaccio,SC Bastia,3,2,2016-04-24 19:00:00,Axel Ngando,Cross
+103047,41,MissedShots,0.9359999847412109,0.46700000762939453,0.129598006606102,Sébastien Squillaci,h,3321,SetPiece,2016,Head,2249,SC Bastia,Paris Saint Germain,0,1,2016-08-12 22:00:00,Sadio Diallo,Cross
+103781,21,SavedShot,0.89,0.40200000762939453,0.021977199241518974,Sébastien Squillaci,a,3321,FromCorner,2016,Head,2297,Saint-Etienne,SC Bastia,1,0,2016-09-18 19:00:00,Pierre Bengtsson,Cross

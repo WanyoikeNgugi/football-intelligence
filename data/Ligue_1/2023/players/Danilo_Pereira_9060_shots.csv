@@ -1,0 +1,69 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+383609,30,SavedShot,0.924000015258789,0.47200000762939454,0.13394199311733246,Danilo Pereira,h,9060,SetPiece,2020,Head,15831,Paris Saint Germain,Dijon,4,0,2020-10-24 19:00:00,Neymar,Cross
+383611,34,MissedShots,0.91,0.44,0.06273259967565536,Danilo Pereira,h,9060,FromCorner,2020,Head,15831,Paris Saint Germain,Dijon,4,0,2020-10-24 19:00:00,Neymar,Cross
+384843,11,MissedShots,0.9109999847412109,0.5429999923706055,0.0761675015091896,Danilo Pereira,a,9060,FromCorner,2020,Head,15839,Nantes,Paris Saint Germain,0,3,2020-10-31 20:00:00,Rafinha,Cross
+384845,11,MissedShots,0.9130000305175782,0.5670000076293945,0.0707717016339302,Danilo Pereira,a,9060,FromCorner,2020,Head,15839,Nantes,Paris Saint Germain,0,3,2020-10-31 20:00:00,Rafinha,Cross
+387091,11,MissedShots,0.7290000152587891,0.5220000076293946,0.010788500308990479,Danilo Pereira,a,9060,OpenPlay,2020,RightFoot,15861,Monaco,Paris Saint Germain,3,2,2020-11-20 20:00:00,Ángel Di María,Aerial
+392527,82,MissedShots,0.899000015258789,0.49599998474121093,0.038481298834085464,Danilo Pereira,h,9060,SetPiece,2020,Head,15895,Paris Saint Germain,Lyon,0,1,2020-12-13 20:00:00,Alessandro Florenzi,Aerial
+402077,14,MissedShots,0.9219999694824219,0.5279999923706055,0.10388900339603424,Danilo Pereira,a,9060,FromCorner,2020,LeftFoot,15969,Lorient,Paris Saint Germain,3,2,2021-01-31 14:00:00,Ángel Di María,Cross
+402093,66,MissedShots,0.7469999694824219,0.435,0.02063930034637451,Danilo Pereira,a,9060,OpenPlay,2020,RightFoot,15969,Lorient,Paris Saint Germain,3,2,2021-01-31 14:00:00,,Rebound
+406267,76,MissedShots,0.875,0.534000015258789,0.0384799987077713,Danilo Pereira,h,9060,FromCorner,2020,Head,16013,Paris Saint Germain,Monaco,0,2,2021-02-21 20:00:00,Presnel Kimpembe,HeadPass
+406268,83,MissedShots,0.710999984741211,0.47400001525878904,0.011917700059711933,Danilo Pereira,h,9060,OpenPlay,2020,LeftFoot,16013,Paris Saint Germain,Monaco,0,2,2021-02-21 20:00:00,Marco Verratti,Pass
+406817,81,Goal,0.960999984741211,0.549000015258789,0.3283179998397827,Danilo Pereira,a,9060,FromCorner,2020,Head,16018,Dijon,Paris Saint Germain,0,4,2021-02-27 16:00:00,Julian Draxler,Aerial
+408192,50,MissedShots,0.885,0.5209999847412109,0.23415200412273407,Danilo Pereira,a,9060,SetPiece,2020,Head,16026,Bordeaux,Paris Saint Germain,0,1,2021-03-03 20:00:00,Julian Draxler,Chipped
+412093,31,Goal,0.9019999694824219,0.51,0.10392100363969803,Danilo Pereira,a,9060,FromCorner,2020,RightFoot,16055,Lyon,Paris Saint Germain,2,4,2021-03-21 20:00:00,Marquinhos,HeadPass
+415557,21,MissedShots,0.8569999694824219,0.4129999923706055,0.047761399298906326,Danilo Pereira,h,9060,FromCorner,2020,LeftFoot,16077,Paris Saint Germain,Saint-Etienne,3,2,2021-04-18 11:00:00,,BallTouch
+415560,28,MissedShots,0.8569999694824219,0.519000015258789,0.07842200249433517,Danilo Pereira,h,9060,SetPiece,2020,RightFoot,16077,Paris Saint Germain,Saint-Etienne,3,2,2021-04-18 11:00:00,,Rebound
+418629,23,SavedShot,0.8809999847412109,0.45799999237060546,0.05679680034518242,Danilo Pereira,h,9060,SetPiece,2020,Head,16104,Paris Saint Germain,Lens,2,1,2021-05-01 15:00:00,Neymar,Cross
+424413,60,SavedShot,0.9290000152587891,0.5359999847412109,0.05364219844341278,Danilo Pereira,a,9060,FromCorner,2020,Head,16127,Brest,Paris Saint Germain,0,2,2021-05-23 19:00:00,Neymar,Aerial
+429968,23,BlockedShot,0.885,0.5120000076293946,0.1331620067358017,Danilo Pereira,h,9060,OpenPlay,2021,RightFoot,17863,Paris Saint Germain,Clermont Foot,4,0,2021-09-11 15:00:00,Achraf Hakimi,Pass
+435944,68,Goal,0.965,0.4859999847412109,0.5734850168228149,Danilo Pereira,h,9060,FromCorner,2021,Head,17919,Paris Saint Germain,Angers,2,1,2021-10-15 19:00:00,Kylian Mbappe-Lottin,Cross
+439335,66,MissedShots,0.94,0.6179999923706054,0.014278500340878963,Danilo Pereira,h,9060,FromCorner,2021,Head,17939,Paris Saint Germain,Lille,2,1,2021-10-29 19:00:00,Neymar,Aerial
+442714,91,MissedShots,0.925,0.5579999923706055,0.03609450161457062,Danilo Pereira,h,9060,FromCorner,2021,Head,17956,Paris Saint Germain,Nantes,3,1,2021-11-20 16:00:00,Kylian Mbappe-Lottin,Aerial
+445610,88,BlockedShot,0.860999984741211,0.44799999237060545,0.05712579935789108,Danilo Pereira,h,9060,FromCorner,2021,LeftFoot,17978,Paris Saint Germain,Nice,0,0,2021-12-01 20:00:00,Marquinhos,Rebound
+453462,73,SavedShot,0.96,0.34299999237060547,0.09728670120239258,Danilo Pereira,h,9060,OpenPlay,2021,RightFoot,18026,Paris Saint Germain,Brest,2,0,2022-01-15 20:00:00,Kylian Mbappe-Lottin,Pass
+453466,76,SavedShot,0.86,0.36700000762939455,0.042134400457143784,Danilo Pereira,h,9060,FromCorner,2021,RightFoot,18026,Paris Saint Germain,Brest,2,0,2022-01-15 20:00:00,Kylian Mbappe-Lottin,Pass
+455464,23,MissedShots,0.9630000305175781,0.4179999923706055,0.3021720051765442,Danilo Pereira,h,9060,FromCorner,2021,Head,18041,Paris Saint Germain,Reims,4,0,2022-01-23 19:45:00,Ángel Di María,Cross
+455477,61,BlockedShot,0.9519999694824218,0.580999984741211,0.03914729878306389,Danilo Pereira,h,9060,FromCorner,2021,Head,18041,Paris Saint Germain,Reims,4,0,2022-01-23 19:45:00,Ángel Di María,Aerial
+455486,74,Goal,0.8230000305175781,0.4859999847412109,0.09420459717512131,Danilo Pereira,h,9060,OpenPlay,2021,RightFoot,18041,Paris Saint Germain,Reims,4,0,2022-01-23 19:45:00,Kylian Mbappe-Lottin,Pass
+456393,9,Goal,0.975999984741211,0.5259999847412109,0.7688279747962952,Danilo Pereira,a,9060,OpenPlay,2021,RightFoot,18044,Lille,Paris Saint Germain,1,5,2022-02-06 19:45:00,,None
+456407,50,Goal,0.7580000305175781,0.36200000762939455,0.028039300814270973,Danilo Pereira,a,9060,OpenPlay,2021,RightFoot,18044,Lille,Paris Saint Germain,1,5,2022-02-06 19:45:00,Leandro Paredes,Pass
+460107,9,MissedShots,0.9159999847412109,0.5209999847412109,0.2906300127506256,Danilo Pereira,h,9060,FromCorner,2021,Head,18075,Paris Saint Germain,Saint-Etienne,3,1,2022-02-26 20:00:00,Neymar,Cross
+460122,51,Goal,0.9740000152587891,0.43099998474121093,0.3146519958972931,Danilo Pereira,h,9060,FromCorner,2021,Head,18075,Paris Saint Germain,Saint-Etienne,3,1,2022-02-26 20:00:00,Kylian Mbappe-Lottin,Chipped
+460136,87,SavedShot,0.9419999694824219,0.53,0.12800300121307373,Danilo Pereira,h,9060,FromCorner,2021,Head,18075,Paris Saint Germain,Saint-Etienne,3,1,2022-02-26 20:00:00,Julian Draxler,Cross
+466090,5,MissedShots,0.9459999847412109,0.5320000076293945,0.07551489770412445,Danilo Pereira,h,9060,FromCorner,2021,Head,18118,Paris Saint Germain,Lorient,5,1,2022-04-03 18:45:00,Neymar,Aerial
+474596,45,MissedShots,0.960999984741211,0.4909999847412109,0.09314650297164917,Danilo Pereira,h,9060,FromCorner,2021,Head,18174,Paris Saint Germain,Troyes,2,2,2022-05-08 18:45:00,Ángel Di María,Aerial
+477586,10,BlockedShot,0.735,0.549000015258789,0.015465299598872662,Danilo Pereira,h,9060,FromCorner,2021,RightFoot,18197,Paris Saint Germain,Metz,5,0,2022-05-21 19:00:00,,None
+477615,94,MissedShots,0.8959999847412109,0.5029999923706054,0.028675299137830734,Danilo Pereira,h,9060,FromCorner,2021,Head,18197,Paris Saint Germain,Metz,5,0,2022-05-21 19:00:00,Kylian Mbappe-Lottin,Aerial
+484718,91,MissedShots,0.8640000152587891,0.4640000152587891,0.03698030114173889,Danilo Pereira,h,9060,SetPiece,2022,Head,19683,Paris Saint Germain,Monaco,1,1,2022-08-28 18:45:00,Neymar,Cross
+487063,13,SavedShot,0.884000015258789,0.5229999923706055,0.3690899908542633,Danilo Pereira,a,9060,FromCorner,2022,RightFoot,19701,Nantes,Paris Saint Germain,0,3,2022-09-03 19:00:00,Kylian Mbappe-Lottin,Pass
+487064,14,BlockedShot,0.9580000305175781,0.47400001525878904,0.15949800610542297,Danilo Pereira,a,9060,FromCorner,2022,OtherBodyPart,19701,Nantes,Paris Saint Germain,0,3,2022-09-03 19:00:00,Pablo Sarabia,Cross
+487560,5,BlockedShot,0.919000015258789,0.5229999923706055,0.044837601482868195,Danilo Pereira,h,9060,FromCorner,2022,Head,19713,Paris Saint Germain,Brest,1,0,2022-09-10 15:00:00,Lionel Messi,Aerial
+491886,59,MissedShots,0.9380000305175781,0.539000015258789,0.12191300094127655,Danilo Pereira,a,9060,FromCorner,2022,Head,19747,Reims,Paris Saint Germain,0,0,2022-10-08 19:00:00,Kylian Mbappe-Lottin,Cross
+498439,41,BlockedShot,0.8319999694824218,0.4929999923706055,0.060340799391269684,Danilo Pereira,a,9060,FromCorner,2022,RightFoot,19781,Lorient,Paris Saint Germain,1,2,2022-11-06 12:00:00,,Rebound
+498448,64,MissedShots,0.914000015258789,0.49900001525878906,0.08399289846420288,Danilo Pereira,a,9060,SetPiece,2022,Head,19781,Lorient,Paris Saint Germain,1,2,2022-11-06 12:00:00,Neymar,Chipped
+498450,80,Goal,0.9469999694824218,0.49599998474121093,0.13203400373458862,Danilo Pereira,a,9060,FromCorner,2022,Head,19781,Lorient,Paris Saint Germain,1,2,2022-11-06 12:00:00,Neymar,Cross
+506691,18,MissedShots,0.92,0.5579999923706055,0.030302200466394424,Danilo Pereira,a,9060,FromCorner,2022,Head,19852,Montpellier,Paris Saint Germain,1,3,2023-02-01 20:00:00,Lionel Messi,Aerial
+507243,9,MissedShots,0.9630000305175781,0.5509999847412109,0.13221800327301025,Danilo Pereira,h,9060,FromCorner,2022,Head,19863,Paris Saint Germain,Toulouse,2,1,2023-02-04 16:00:00,Lionel Messi,Cross
+507252,33,MissedShots,0.9380000305175781,0.4979999923706055,0.11860699951648712,Danilo Pereira,h,9060,FromCorner,2022,LeftFoot,19863,Paris Saint Germain,Toulouse,2,1,2023-02-04 16:00:00,,None
+507260,56,BlockedShot,0.75,0.4779999923706055,0.020947100594639778,Danilo Pereira,h,9060,OpenPlay,2022,RightFoot,19863,Paris Saint Germain,Toulouse,2,1,2023-02-04 16:00:00,Lionel Messi,Pass
+508540,45,BlockedShot,0.7440000152587891,0.6140000152587891,0.018871499225497246,Danilo Pereira,a,9060,OpenPlay,2022,RightFoot,19868,Monaco,Paris Saint Germain,3,1,2023-02-11 16:00:00,Vitinha,Pass
+512442,59,Goal,0.9130000305175782,0.5420000076293945,0.035407401621341705,Danilo Pereira,h,9060,FromCorner,2022,Head,19901,Paris Saint Germain,Nantes,4,2,2023-03-04 20:00:00,,Aerial
+518386,21,ShotOnPost,0.914000015258789,0.49700000762939456,0.32260099053382874,Danilo Pereira,a,9060,OpenPlay,2022,Head,19943,Nice,Paris Saint Germain,0,2,2023-04-08 19:00:00,Nuno Mendes,Cross
+520507,21,BlockedShot,0.9230000305175782,0.5690000152587891,0.07368437945842743,Danilo Pereira,a,9060,FromCorner,2022,Head,19960,Angers,Paris Saint Germain,1,2,2023-04-21 19:00:00,Lionel Messi,Cross
+520513,41,BlockedShot,0.905,0.5629999923706055,0.05369138717651367,Danilo Pereira,a,9060,FromCorner,2022,Head,19960,Angers,Paris Saint Germain,1,2,2023-04-21 19:00:00,Kylian Mbappe-Lottin,Cross
+523410,26,MissedShots,0.9080000305175782,0.46799999237060547,0.10561396926641464,Danilo Pereira,h,9060,SetPiece,2022,Head,19972,Paris Saint Germain,Lorient,1,3,2023-04-30 15:05:00,Lionel Messi,Cross
+523422,66,SavedShot,0.950999984741211,0.4759999847412109,0.5268816351890564,Danilo Pereira,h,9060,SetPiece,2022,Head,19972,Paris Saint Germain,Lorient,1,3,2023-04-30 15:05:00,Kylian Mbappe-Lottin,Aerial
+525320,22,MissedShots,0.9219999694824219,0.4229999923706055,0.021871749311685562,Danilo Pereira,a,9060,FromCorner,2022,Head,19987,Troyes,Paris Saint Germain,1,3,2023-05-07 18:45:00,Vitinha,Aerial
+525323,36,BlockedShot,0.750999984741211,0.6329999923706054,0.023587092757225037,Danilo Pereira,a,9060,OpenPlay,2022,RightFoot,19987,Troyes,Paris Saint Germain,1,3,2023-05-07 18:45:00,Hugo Ekitike,Pass
+526281,59,SavedShot,0.725999984741211,0.6630000305175782,0.018193520605564117,Danilo Pereira,h,9060,OpenPlay,2022,RightFoot,19992,Paris Saint Germain,Ajaccio,5,0,2023-05-13 19:00:00,Achraf Hakimi,Cross
+541346,17,MissedShots,0.935,0.49700000762939456,0.44794175028800964,Danilo Pereira,a,9060,SetPiece,2023,Head,23431,Clermont Foot,Paris Saint Germain,0,0,2023-09-30 15:00:00,Ousmane Dembélé,Cross
+541374,90,SavedShot,0.9059999847412109,0.5429999923706055,0.24570314586162567,Danilo Pereira,a,9060,SetPiece,2023,Head,23431,Clermont Foot,Paris Saint Germain,0,0,2023-09-30 15:00:00,Ousmane Dembélé,Cross
+545859,75,BlockedShot,0.8869999694824219,0.4620000076293945,0.04168173298239708,Danilo Pereira,a,9060,FromCorner,2023,Head,23460,Brest,Paris Saint Germain,2,3,2023-10-29 12:00:00,Vitinha,Cross
+558709,56,BlockedShot,0.955,0.44400001525878907,0.0803196057677269,Danilo Pereira,a,9060,SetPiece,2023,RightFoot,23528,Lens,Paris Saint Germain,0,2,2024-01-14 19:45:00,Vitinha,BallTouch
+565789,75,MissedShots,0.9580000305175781,0.5470000076293945,0.4295087456703186,Danilo Pereira,h,9060,FromCorner,2023,Head,23569,Paris Saint Germain,Rennes,1,1,2024-02-25 16:05:00,Fabián,HeadPass
+568414,5,MissedShots,0.9569999694824218,0.43099998474121093,0.11623333394527435,Danilo Pereira,h,9060,FromCorner,2023,Head,23587,Paris Saint Germain,Reims,2,2,2024-03-10 12:00:00,Lee Kang-In,Cross
+572660,56,MissedShots,0.9680000305175781,0.585,0.26336470246315,Danilo Pereira,h,9060,SetPiece,2023,Head,23614,Paris Saint Germain,Clermont Foot,1,1,2024-04-06 19:00:00,Marco Asensio,Cross
+580663,53,MissedShots,0.6669999694824219,0.36,0.010751494206488132,Danilo Pereira,h,9060,OpenPlay,2023,RightFoot,23659,Paris Saint Germain,Toulouse,1,3,2024-05-12 19:00:00,Manuel Ugarte,Pass
+580672,66,MissedShots,0.9309999847412109,0.5359999847412109,0.10800802707672119,Danilo Pereira,h,9060,OpenPlay,2023,RightFoot,23659,Paris Saint Germain,Toulouse,1,3,2024-05-12 19:00:00,Marco Asensio,Cross
+582655,29,BlockedShot,0.875999984741211,0.47700000762939454,0.052911028265953064,Danilo Pereira,a,9060,SetPiece,2023,Head,23668,Metz,Paris Saint Germain,0,2,2024-05-19 19:00:00,Carlos Soler,Cross

@@ -1,0 +1,7 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+670094,34,SavedShot,0.7880000305175782,0.6519999694824219,0.023235777392983437,Rafael Obrador,a,8554,SetPiece,2025,LeftFoot,30098,Genoa,Torino,3,0,2026-02-22 11:30:00,Nikola Vlasic,Pass
+672415,31,BlockedShot,0.7669999694824219,0.7369999694824219,0.016677595674991608,Rafael Obrador,a,8554,OpenPlay,2025,LeftFoot,30114,Napoli,Torino,2,1,2026-03-06 19:45:00,Matteo Prati,Pass
+673564,41,BlockedShot,0.850999984741211,0.515,0.06242689862847328,Rafael Obrador,h,8554,FromCorner,2025,LeftFoot,30131,Torino,Parma Calcio 1913,4,1,2026-03-13 19:45:00,,None
+677691,49,MissedShots,0.774000015258789,0.6609999847412109,0.018460683524608612,Rafael Obrador,h,8554,OpenPlay,2025,LeftFoot,30163,Torino,Verona,2,1,2026-04-11 13:00:00,,None
+681655,37,MissedShots,0.8719999694824219,0.779000015258789,0.025867892429232597,Rafael Obrador,h,8554,OpenPlay,2025,LeftFoot,30182,Torino,Inter,2,2,2026-04-26 16:00:00,,Rebound
+682114,62,MissedShots,0.7759999847412109,0.7480000305175781,0.011823208071291447,Rafael Obrador,a,8554,OpenPlay,2025,LeftFoot,30193,Udinese,Torino,2,0,2026-05-02 13:00:00,Giovanni Simeone,BallTouch

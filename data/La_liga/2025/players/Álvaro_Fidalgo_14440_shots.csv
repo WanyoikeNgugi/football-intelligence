@@ -1,0 +1,5 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+667974,14,MissedShots,0.8369999694824218,0.515,0.05523718520998955,Álvaro Fidalgo,a,14440,FromCorner,2025,RightFoot,29380,Atletico Madrid,Real Betis,0,1,2026-02-08 17:30:00,,None
+671880,36,Goal,0.8930000305175781,0.514000015258789,0.4403756260871887,Álvaro Fidalgo,h,14440,OpenPlay,2025,RightFoot,29409,Real Betis,Sevilla,2,2,2026-03-01 17:30:00,Abdessamad Ezzalzouli,Throughball
+673150,1,SavedShot,0.7830000305175782,0.7580000305175781,0.01568557694554329,Álvaro Fidalgo,a,14440,OpenPlay,2025,RightFoot,29423,Getafe,Real Betis,2,0,2026-03-08 15:15:00,,BallRecovery
+680691,44,MissedShots,0.7930000305175782,0.665,0.015261441469192505,Álvaro Fidalgo,h,14440,FromCorner,2025,RightFoot,29474,Real Betis,Real Madrid,1,1,2026-04-24 19:00:00,,Aerial

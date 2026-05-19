@@ -1,0 +1,15 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+103462,28,BlockedShot,0.725,0.5070000076293946,0.017827099189162254,Alexander Kacaniklic,a,5714,OpenPlay,2016,LeftFoot,2276,Bordeaux,Nantes,1,0,2016-08-28 17:00:00,Nicolaj Thomsen,Pass
+104570,21,SavedShot,0.8780000305175781,0.63,0.06530939787626266,Alexander Kacaniklic,h,5714,OpenPlay,2016,RightFoot,2303,Nantes,Saint-Etienne,0,0,2016-09-21 21:00:00,,None
+104577,40,MissedShots,0.795,0.6580000305175782,0.05254809930920601,Alexander Kacaniklic,h,5714,OpenPlay,2016,LeftFoot,2303,Nantes,Saint-Etienne,0,0,2016-09-21 21:00:00,Amine Harit,TakeOn
+108027,16,BlockedShot,0.8419999694824218,0.4520000076293945,0.056846100836992264,Alexander Kacaniklic,h,5714,OpenPlay,2016,LeftFoot,2867,Nantes,Lyon,0,6,2016-11-30 22:00:00,,None
+108030,26,MissedShots,0.889000015258789,0.445,0.10866300016641617,Alexander Kacaniklic,h,5714,OpenPlay,2016,RightFoot,2867,Nantes,Lyon,0,6,2016-11-30 22:00:00,Guillaume Gillet,Pass
+108032,29,MissedShots,0.8090000152587891,0.6090000152587891,0.039349399507045746,Alexander Kacaniklic,h,5714,OpenPlay,2016,LeftFoot,2867,Nantes,Lyon,0,6,2016-11-30 22:00:00,Amine Harit,Pass
+108040,45,MissedShots,0.9290000152587891,0.38,0.05186440050601959,Alexander Kacaniklic,h,5714,OpenPlay,2016,RightFoot,2867,Nantes,Lyon,0,6,2016-11-30 22:00:00,Lucas Lima,Cross
+109805,38,MissedShots,0.9119999694824219,0.6140000152587891,0.12075900286436081,Alexander Kacaniklic,a,5714,OpenPlay,2016,RightFoot,4226,Saint-Etienne,Nantes,1,1,2017-04-09 16:00:00,Emiliano Sala,Pass
+111541,30,BlockedShot,0.85,0.5279999923706055,0.10813499987125397,Alexander Kacaniklic,h,5714,OpenPlay,2016,LeftFoot,4242,Nantes,Bordeaux,0,1,2017-04-16 14:00:00,Prejuce Nakoulma,TakeOn
+110250,59,BlockedShot,0.825999984741211,0.539000015258789,0.05902549996972084,Alexander Kacaniklic,a,5714,OpenPlay,2016,LeftFoot,4287,Lille,Nantes,3,0,2017-05-20 20:00:00,,BallTouch
+110257,86,BlockedShot,0.7930000305175782,0.4640000152587891,0.03639040142297745,Alexander Kacaniklic,a,5714,OpenPlay,2016,LeftFoot,4287,Lille,Nantes,3,0,2017-05-20 20:00:00,Felipe Pardo,Pass
+161891,50,SavedShot,0.7759999847412109,0.29700000762939455,0.056182101368904114,Alexander Kacaniklic,a,5714,DirectFreekick,2017,LeftFoot,8572,Lille,Nantes,3,0,2017-08-06 14:00:00,,Standard
+162132,5,MissedShots,0.919000015258789,0.4640000152587891,0.12726199626922607,Alexander Kacaniklic,h,5714,OpenPlay,2017,Head,8577,Nantes,Marseille,0,1,2017-08-12 16:00:00,Lucas Lima,Cross
+194457,86,BlockedShot,0.795,0.5820000076293945,0.013877799734473228,Alexander Kacaniklic,a,5714,OpenPlay,2017,RightFoot,8796,Caen,Nantes,3,2,2018-02-04 16:00:00,,Aerial

@@ -1,0 +1,11 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+41234,75,SavedShot,0.93,0.495,0.09330269694328308,Bruno Zuculini,h,4067,OpenPlay,2014,RightFoot,5613,Cordoba,Almeria,1,2,2015-02-08 11:00:00,Héldon,Cross
+40691,72,BlockedShot,0.8969999694824219,0.5829999923706055,0.039745599031448364,Bruno Zuculini,a,4067,FromCorner,2014,Head,5638,Espanyol,Cordoba,1,0,2015-02-27 19:45:00,Fede Cartabia,Cross
+40384,59,BlockedShot,0.7659999847412109,0.55,0.024665499106049538,Bruno Zuculini,h,4067,OpenPlay,2014,LeftFoot,5580,Cordoba,Getafe,1,2,2015-03-09 19:45:00,,None
+173216,31,MissedShots,0.9119999694824219,0.49700000762939456,0.09021250158548355,Bruno Zuculini,h,4067,FromCorner,2017,Head,7523,Verona,Fiorentina,0,5,2017-09-10 14:00:00,Daniele Verde,Cross
+173515,42,MissedShots,0.6809999847412109,0.575,0.00782043021172285,Bruno Zuculini,a,4067,OpenPlay,2017,RightFoot,7535,Roma,Verona,3,0,2017-09-16 19:45:00,Mattia Valoti,Pass
+175296,73,BlockedShot,0.7330000305175781,0.6940000152587891,0.008467650040984154,Bruno Zuculini,h,4067,SetPiece,2017,RightFoot,7601,Verona,Inter,1,2,2017-10-30 19:45:00,,Aerial
+175516,5,Goal,0.9169999694824219,0.48700000762939455,0.30840200185775757,Bruno Zuculini,a,4067,FromCorner,2017,Head,7611,Cagliari,Verona,2,1,2017-11-05 14:00:00,Alessio Cerci,Cross
+175539,71,MissedShots,0.8830000305175781,0.5670000076293945,0.024511300027370453,Bruno Zuculini,a,4067,FromCorner,2017,Head,7611,Cagliari,Verona,2,1,2017-11-05 14:00:00,Daniele Verde,Cross
+175786,86,MissedShots,0.865,0.515,0.020177999511361122,Bruno Zuculini,h,4067,FromCorner,2017,Head,7621,Verona,Bologna,2,3,2017-11-20 19:45:00,Rômulo,Cross
+176189,21,Goal,0.9630000305175781,0.5109999847412109,0.6596620082855225,Bruno Zuculini,a,4067,OpenPlay,2017,RightFoot,7637,Sassuolo,Verona,0,2,2017-11-25 17:00:00,,None

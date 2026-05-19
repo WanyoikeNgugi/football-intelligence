@@ -1,0 +1,22 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+42322,9,BlockedShot,0.8030000305175782,0.4109999847412109,0.11485599726438522,Sebastian Giovinco,h,3985,DirectFreekick,2014,RightFoot,5133,Juventus,Cesena,3,0,2014-09-24 19:45:00,,Standard
+42323,9,SavedShot,0.799000015258789,0.3170000076293945,0.01674729958176613,Sebastian Giovinco,h,3985,SetPiece,2014,RightFoot,5133,Juventus,Cesena,3,0,2014-09-24 19:45:00,,Rebound
+42329,34,BlockedShot,0.8159999847412109,0.28700000762939454,0.04070480167865753,Sebastian Giovinco,h,3985,OpenPlay,2014,RightFoot,5133,Juventus,Cesena,3,0,2014-09-24 19:45:00,Giorgio Chiellini,TakeOn
+42330,40,MissedShots,0.7730000305175782,0.624000015258789,0.031314101070165634,Sebastian Giovinco,h,3985,OpenPlay,2014,RightFoot,5133,Juventus,Cesena,3,0,2014-09-24 19:45:00,Patrice Evra,Pass
+42332,43,MissedShots,0.8080000305175781,0.3559999847412109,0.048161398619413376,Sebastian Giovinco,h,3985,OpenPlay,2014,LeftFoot,5133,Juventus,Cesena,3,0,2014-09-24 19:45:00,Claudio Marchisio,Pass
+42334,46,SavedShot,0.905,0.25,0.04287489876151085,Sebastian Giovinco,h,3985,OpenPlay,2014,RightFoot,5133,Juventus,Cesena,3,0,2014-09-24 19:45:00,Giorgio Chiellini,Pass
+42336,47,BlockedShot,0.6659999847412109,0.5320000076293945,0.012759299948811531,Sebastian Giovinco,h,3985,OpenPlay,2014,RightFoot,5133,Juventus,Cesena,3,0,2014-09-24 19:45:00,,BallRecovery
+42337,60,SavedShot,0.7669999694824219,0.25,0.04142380133271217,Sebastian Giovinco,h,3985,DirectFreekick,2014,RightFoot,5133,Juventus,Cesena,3,0,2014-09-24 19:45:00,,Standard
+42343,80,SavedShot,0.8569999694824219,0.5770000076293945,0.09934130311012268,Sebastian Giovinco,h,3985,OpenPlay,2014,RightFoot,5133,Juventus,Cesena,3,0,2014-09-24 19:45:00,Álvaro Morata,Pass
+42344,83,MissedShots,0.95,0.6840000152587891,0.0929253026843071,Sebastian Giovinco,h,3985,OpenPlay,2014,LeftFoot,5133,Juventus,Cesena,3,0,2014-09-24 19:45:00,Claudio Marchisio,Chipped
+42346,87,SavedShot,0.745,0.47900001525878905,0.02600030042231083,Sebastian Giovinco,h,3985,OpenPlay,2014,RightFoot,5133,Juventus,Cesena,3,0,2014-09-24 19:45:00,Patrice Evra,BallRecovery
+42347,89,MissedShots,0.7480000305175781,0.8280000305175781,0.028446700423955917,Sebastian Giovinco,h,3985,DirectFreekick,2014,RightFoot,5133,Juventus,Cesena,3,0,2014-09-24 19:45:00,,Standard
+43358,83,SavedShot,0.9540000152587891,0.29,0.08824049681425095,Sebastian Giovinco,h,3985,OpenPlay,2014,RightFoot,5093,Juventus,Palermo,2,0,2014-10-26 14:00:00,Leonardo Bonucci,Chipped
+43359,88,ShotOnPost,0.74,0.5579999923706055,0.031573500484228134,Sebastian Giovinco,h,3985,OpenPlay,2014,LeftFoot,5093,Juventus,Palermo,2,0,2014-10-26 14:00:00,Claudio Marchisio,Pass
+43360,92,SavedShot,0.7530000305175781,0.43599998474121093,0.026236100122332573,Sebastian Giovinco,h,3985,OpenPlay,2014,RightFoot,5093,Juventus,Palermo,2,0,2014-10-26 14:00:00,,Dispossessed
+43840,5,SavedShot,0.775,0.40400001525878904,0.025300199165940285,Sebastian Giovinco,a,3985,OpenPlay,2014,LeftFoot,5031,Empoli,Juventus,0,2,2014-11-01 17:00:00,,None
+43841,8,BlockedShot,0.865999984741211,0.41,0.09079860150814056,Sebastian Giovinco,a,3985,OpenPlay,2014,RightFoot,5031,Empoli,Juventus,0,2,2014-11-01 17:00:00,Arturo Vidal,Pass
+43844,26,BlockedShot,0.8030000305175782,0.355,0.038437001407146454,Sebastian Giovinco,a,3985,OpenPlay,2014,LeftFoot,5031,Empoli,Juventus,0,2,2014-11-01 17:00:00,Claudio Marchisio,HeadPass
+43848,40,BlockedShot,0.740999984741211,0.6020000076293945,0.014922600239515305,Sebastian Giovinco,a,3985,OpenPlay,2014,RightFoot,5031,Empoli,Juventus,0,2,2014-11-01 17:00:00,,None
+45914,83,SavedShot,0.7559999847412109,0.3320000076293945,0.02131580002605915,Sebastian Giovinco,h,3985,OpenPlay,2014,RightFoot,4986,Juventus,Verona,4,0,2015-01-18 19:45:00,Paul Pogba,BallRecovery
+462644,80,BlockedShot,0.83,0.5970000076293945,0.06130329892039299,Sebastian Giovinco,h,3985,OpenPlay,2021,RightFoot,17042,Sampdoria,Juventus,1,3,2022-03-12 17:00:00,Morten Thorsby,Pass

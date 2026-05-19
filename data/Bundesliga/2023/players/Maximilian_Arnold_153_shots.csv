@@ -1,0 +1,465 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+24607,30,SavedShot,0.7819999694824219,0.5729999923706055,0.030275000259280205,Maximilian Arnold,h,153,OpenPlay,2014,RightFoot,5461,Wolfsburg,Eintracht Frankfurt,2,2,2014-08-30 14:30:00,Kevin De Bruyne,Pass
+24616,61,SavedShot,0.8,0.3220000076293945,0.024761799722909927,Maximilian Arnold,h,153,OpenPlay,2014,LeftFoot,5461,Wolfsburg,Eintracht Frankfurt,2,2,2014-08-30 14:30:00,Vieirinha,Pass
+24621,70,BlockedShot,0.7380000305175781,0.39799999237060546,0.014124499633908272,Maximilian Arnold,h,153,OpenPlay,2014,LeftFoot,5461,Wolfsburg,Eintracht Frankfurt,2,2,2014-08-30 14:30:00,,None
+24622,78,Goal,0.86,0.7230000305175781,0.11622100323438644,Maximilian Arnold,h,153,OpenPlay,2014,LeftFoot,5461,Wolfsburg,Eintracht Frankfurt,2,2,2014-08-30 14:30:00,Kevin De Bruyne,Throughball
+24912,37,MissedShots,0.8690000152587891,0.7769999694824219,0.0833130031824112,Maximilian Arnold,a,153,OpenPlay,2014,LeftFoot,5412,Hoffenheim,Wolfsburg,1,1,2014-09-13 14:30:00,Ricardo Rodríguez,Chipped
+24913,39,SavedShot,0.8080000305175781,0.6409999847412109,0.0392519012093544,Maximilian Arnold,a,153,OpenPlay,2014,LeftFoot,5412,Hoffenheim,Wolfsburg,1,1,2014-09-13 14:30:00,Robin Knoche,Chipped
+24916,46,BlockedShot,0.8180000305175781,0.69,0.02889619953930378,Maximilian Arnold,a,153,OpenPlay,2014,RightFoot,5412,Hoffenheim,Wolfsburg,1,1,2014-09-13 14:30:00,Kevin De Bruyne,Pass
+25818,40,MissedShots,0.9490000152587891,0.3529999923706055,0.09136909991502762,Maximilian Arnold,h,153,OpenPlay,2014,RightFoot,5390,Wolfsburg,Augsburg,1,0,2014-10-05 14:30:00,Kevin De Bruyne,Pass
+25819,41,MissedShots,0.8130000305175781,0.6819999694824219,0.03540550172328949,Maximilian Arnold,h,153,OpenPlay,2014,LeftFoot,5390,Wolfsburg,Augsburg,1,0,2014-10-05 14:30:00,Ivan Perisic,TakeOn
+26271,69,SavedShot,0.865999984741211,0.6659999847412109,0.14922399818897247,Maximilian Arnold,h,153,OpenPlay,2014,LeftFoot,5408,Wolfsburg,Mainz 05,3,0,2014-10-26 14:30:00,Kevin De Bruyne,Throughball
+26272,70,MissedShots,0.7919999694824219,0.5659999847412109,0.017058299854397774,Maximilian Arnold,h,153,FromCorner,2014,LeftFoot,5408,Wolfsburg,Mainz 05,3,0,2014-10-26 14:30:00,,Aerial
+26276,76,ShotOnPost,0.8540000152587891,0.62,0.13515600562095642,Maximilian Arnold,h,153,OpenPlay,2014,LeftFoot,5408,Wolfsburg,Mainz 05,3,0,2014-10-26 14:30:00,Kevin De Bruyne,Throughball
+27553,6,SavedShot,0.9209999847412109,0.04699999809265137,0.032539401203393936,Maximilian Arnold,h,153,DirectFreekick,2014,LeftFoot,5381,Wolfsburg,Borussia M.Gladbach,1,0,2014-11-30 14:30:00,,Standard
+27562,26,BlockedShot,0.7869999694824219,0.38599998474121094,0.02207469940185547,Maximilian Arnold,h,153,FromCorner,2014,LeftFoot,5381,Wolfsburg,Borussia M.Gladbach,1,0,2014-11-30 14:30:00,,None
+27567,39,MissedShots,0.7780000305175782,0.42200000762939455,0.04045280069112778,Maximilian Arnold,h,153,OpenPlay,2014,RightFoot,5381,Wolfsburg,Borussia M.Gladbach,1,0,2014-11-30 14:30:00,Sebastian Jung,Pass
+27345,84,Goal,0.9269999694824219,0.39,0.38835299015045166,Maximilian Arnold,a,153,OpenPlay,2014,LeftFoot,5314,Hannover 96,Wolfsburg,1,3,2014-12-06 14:30:00,Ivan Perisic,Throughball
+27933,64,SavedShot,0.9019999694824219,0.52,0.4295249879360199,Maximilian Arnold,h,153,OpenPlay,2014,LeftFoot,5329,Wolfsburg,Paderborn,1,1,2014-12-14 16:30:00,,Rebound
+27939,79,MissedShots,0.754000015258789,0.31799999237060544,0.014561999589204788,Maximilian Arnold,h,153,FromCorner,2014,RightFoot,5329,Wolfsburg,Paderborn,1,1,2014-12-14 16:30:00,,None
+27945,93,MissedShots,0.799000015258789,0.64,0.03017139993607998,Maximilian Arnold,h,153,OpenPlay,2014,LeftFoot,5329,Wolfsburg,Paderborn,1,1,2014-12-14 16:30:00,Aaron Hunt,Pass
+28450,56,MissedShots,0.9690000152587891,0.5029999923706054,0.6754299998283386,Maximilian Arnold,h,153,OpenPlay,2014,RightFoot,5305,Wolfsburg,Bayern Munich,4,1,2015-01-30 19:30:00,Bas Dost,HeadPass
+28454,65,SavedShot,0.7980000305175782,0.27399999618530274,0.03073050081729889,Maximilian Arnold,h,153,OpenPlay,2014,LeftFoot,5305,Wolfsburg,Bayern Munich,4,1,2015-01-30 19:30:00,Kevin De Bruyne,Pass
+29352,4,SavedShot,0.7390000152587891,0.4759999847412109,0.024555299431085587,Maximilian Arnold,h,153,OpenPlay,2014,LeftFoot,5276,Wolfsburg,Hoffenheim,3,0,2015-02-07 14:30:00,Daniel Caligiuri,Pass
+29010,77,SavedShot,0.7530000305175781,0.35400001525878905,0.01550500001758337,Maximilian Arnold,a,153,FromCorner,2014,LeftFoot,5282,Bayer Leverkusen,Wolfsburg,4,5,2015-02-14 14:30:00,,None
+29027,63,MissedShots,0.710999984741211,0.49900001525878906,0.014627699740231037,Maximilian Arnold,h,153,OpenPlay,2014,LeftFoot,5297,Wolfsburg,Hertha Berlin,2,1,2015-02-22 16:30:00,,BallTouch
+29489,12,MissedShots,0.9219999694824219,0.6020000076293945,0.08412560075521469,Maximilian Arnold,a,153,OpenPlay,2014,LeftFoot,5232,Werder Bremen,Wolfsburg,3,5,2015-03-01 16:30:00,Marcel Schäfer,Cross
+29491,17,Goal,0.895,0.4490000152587891,0.044212400913238525,Maximilian Arnold,a,153,OpenPlay,2014,Head,5232,Werder Bremen,Wolfsburg,3,5,2015-03-01 16:30:00,Kevin De Bruyne,Chipped
+29497,41,BlockedShot,0.8430000305175781,0.32799999237060545,0.01438950002193451,Maximilian Arnold,a,153,OpenPlay,2014,LeftFoot,5232,Werder Bremen,Wolfsburg,3,5,2015-03-01 16:30:00,Bas Dost,Chipped
+30879,83,Goal,0.9330000305175781,0.5479999923706055,0.6241130232810974,Maximilian Arnold,h,153,OpenPlay,2014,LeftFoot,5249,Wolfsburg,Freiburg,3,0,2015-03-15 14:30:00,Kevin De Bruyne,Pass
+31362,18,BlockedShot,0.755,0.41900001525878905,0.028419900685548782,Maximilian Arnold,a,153,OpenPlay,2014,LeftFoot,5210,Hamburger SV,Wolfsburg,0,2,2015-04-11 17:30:00,Bas Dost,Pass
+31375,78,BlockedShot,0.8730000305175781,0.3659999847412109,0.11672499775886536,Maximilian Arnold,a,153,OpenPlay,2014,RightFoot,5210,Hamburger SV,Wolfsburg,0,2,2015-04-11 17:30:00,Kevin De Bruyne,Pass
+31836,29,BlockedShot,0.7780000305175782,0.625,0.02633260004222393,Maximilian Arnold,h,153,OpenPlay,2014,LeftFoot,5221,Wolfsburg,Schalke 04,1,1,2015-04-19 16:30:00,Kevin De Bruyne,Pass
+31852,63,MissedShots,0.754000015258789,0.29700000762939455,0.012465699575841427,Maximilian Arnold,h,153,FromCorner,2014,LeftFoot,5221,Wolfsburg,Schalke 04,1,1,2015-04-19 16:30:00,,Aerial
+31860,79,SavedShot,0.7819999694824219,0.6680000305175782,0.023204099386930466,Maximilian Arnold,h,153,OpenPlay,2014,LeftFoot,5221,Wolfsburg,Schalke 04,1,1,2015-04-19 16:30:00,Daniel Caligiuri,Pass
+29962,81,SavedShot,0.8619999694824219,0.5670000076293945,0.12483300268650055,Maximilian Arnold,a,153,OpenPlay,2014,RightFoot,5175,Paderborn,Wolfsburg,1,3,2015-05-10 14:30:00,Ivan Perisic,Pass
+76972,89,MissedShots,0.7469999694824219,0.5879999923706055,0.018384400755167007,Maximilian Arnold,a,153,OpenPlay,2015,LeftFoot,1052,Ingolstadt,Wolfsburg,0,0,2015-09-12 17:30:00,Max Kruse,Pass
+77018,63,MissedShots,0.845,0.5529999923706055,0.048655301332473755,Maximilian Arnold,h,153,OpenPlay,2015,RightFoot,1059,Wolfsburg,Hertha Berlin,2,0,2015-09-19 17:30:00,Max Kruse,Cross
+77022,75,MissedShots,0.735999984741211,0.5379999923706055,0.01580280065536499,Maximilian Arnold,h,153,FromCorner,2015,RightFoot,1059,Wolfsburg,Hertha Berlin,2,0,2015-09-19 17:30:00,,None
+77225,64,MissedShots,0.72,0.7330000305175781,0.011016800068318844,Maximilian Arnold,a,153,OpenPlay,2015,LeftFoot,1066,Bayern Munich,Wolfsburg,5,1,2015-09-22 22:00:00,Ricardo Rodríguez,Pass
+77487,78,SavedShot,0.8809999847412109,0.7090000152587891,0.04368630051612854,Maximilian Arnold,h,153,OpenPlay,2015,LeftFoot,1080,Wolfsburg,Hannover 96,1,1,2015-09-26 17:30:00,Max Kruse,Pass
+77492,91,MissedShots,0.875999984741211,0.6569999694824219,0.05777880176901817,Maximilian Arnold,h,153,OpenPlay,2015,LeftFoot,1080,Wolfsburg,Hannover 96,1,1,2015-09-26 17:30:00,Max Kruse,Chipped
+78434,60,BlockedShot,0.7469999694824219,0.33599998474121096,0.010969400405883789,Maximilian Arnold,h,153,SetPiece,2015,LeftFoot,1117,Wolfsburg,Bayer Leverkusen,2,1,2015-10-31 21:30:00,,None
+78823,28,MissedShots,0.9080000305175782,0.35200000762939454,0.011247600428760052,Maximilian Arnold,a,153,OpenPlay,2015,Head,1122,Mainz 05,Wolfsburg,2,0,2015-11-07 18:30:00,Ricardo Rodríguez,Aerial
+79185,31,SavedShot,0.749000015258789,0.7290000152587891,0.017699899151921272,Maximilian Arnold,a,153,OpenPlay,2015,LeftFoot,1146,Augsburg,Wolfsburg,0,0,2015-11-29 20:30:00,Max Kruse,Pass
+79419,38,MissedShots,0.8380000305175781,0.355,0.01917470060288906,Maximilian Arnold,h,153,FromCorner,2015,RightFoot,1153,Wolfsburg,Borussia Dortmund,1,2,2015-12-05 21:30:00,Timm Klose,Aerial
+79690,74,SavedShot,0.7859999847412109,0.2670000076293945,0.05486619845032692,Maximilian Arnold,h,153,DirectFreekick,2015,LeftFoot,1158,Wolfsburg,Hamburger SV,1,1,2015-12-12 18:30:00,,Standard
+79691,77,Goal,0.935,0.48700000762939455,0.5559189915657043,Maximilian Arnold,h,153,OpenPlay,2015,LeftFoot,1158,Wolfsburg,Hamburger SV,1,1,2015-12-12 18:30:00,Vieirinha,Pass
+79694,90,BlockedShot,0.7480000305175781,0.5059999847412109,0.026537200435996056,Maximilian Arnold,h,153,OpenPlay,2015,RightFoot,1158,Wolfsburg,Hamburger SV,1,1,2015-12-12 18:30:00,Sebastian Jung,HeadPass
+79916,2,MissedShots,0.8540000152587891,0.33099998474121095,0.04774859920144081,Maximilian Arnold,a,153,OpenPlay,2015,LeftFoot,1171,VfB Stuttgart,Wolfsburg,3,1,2015-12-19 21:30:00,Naldo,Pass
+79920,13,Goal,0.835999984741211,0.4420000076293945,0.06895770132541656,Maximilian Arnold,a,153,OpenPlay,2015,RightFoot,1171,VfB Stuttgart,Wolfsburg,3,1,2015-12-19 21:30:00,Daniel Caligiuri,Pass
+79929,41,SavedShot,0.85,0.48700000762939455,0.027864700183272362,Maximilian Arnold,a,153,OpenPlay,2015,Head,1171,VfB Stuttgart,Wolfsburg,3,1,2015-12-19 21:30:00,Christian Träsch,Chipped
+81149,55,MissedShots,0.7519999694824219,0.53,0.0179843008518219,Maximilian Arnold,a,153,FromCorner,2015,LeftFoot,1212,Hertha Berlin,Wolfsburg,1,1,2016-02-20 18:30:00,,None
+81582,78,SavedShot,0.754000015258789,0.435,0.03326850011944771,Maximilian Arnold,a,153,OpenPlay,2015,LeftFoot,1228,Hannover 96,Wolfsburg,0,4,2016-03-01 23:00:00,Max Kruse,Pass
+81705,14,MissedShots,0.845999984741211,0.39799999237060546,0.05939679965376854,Maximilian Arnold,h,153,OpenPlay,2015,RightFoot,1242,Wolfsburg,Borussia M.Gladbach,2,1,2016-03-05 18:30:00,,None
+82091,15,SavedShot,0.5520000076293945,0.5790000152587891,0.007540530059486628,Maximilian Arnold,a,153,OpenPlay,2015,LeftFoot,1247,Hoffenheim,Wolfsburg,1,0,2016-03-12 18:30:00,,BallRecovery
+82235,85,MissedShots,0.9540000152587891,0.3940000152587891,0.2919679880142212,Maximilian Arnold,h,153,OpenPlay,2015,RightFoot,1256,Wolfsburg,Darmstadt,1,1,2016-03-19 18:30:00,Max Kruse,Chipped
+82455,6,BlockedShot,0.8590000152587891,0.6990000152587891,0.04036970064043999,Maximilian Arnold,a,153,OpenPlay,2015,LeftFoot,1264,Bayer Leverkusen,Wolfsburg,3,0,2016-04-01 22:30:00,Max Kruse,Pass
+82664,35,MissedShots,0.745,0.35900001525878905,0.015925899147987366,Maximilian Arnold,h,153,OpenPlay,2015,LeftFoot,1279,Wolfsburg,Mainz 05,1,1,2016-04-09 20:30:00,Luiz Gustavo,Pass
+82669,59,BlockedShot,0.725,0.41900001525878905,0.00920857023447752,Maximilian Arnold,h,153,SetPiece,2015,LeftFoot,1279,Wolfsburg,Mainz 05,1,1,2016-04-09 20:30:00,,Aerial
+83142,78,BlockedShot,0.7580000305175781,0.43900001525878907,0.01708490028977394,Maximilian Arnold,h,153,OpenPlay,2015,LeftFoot,1293,Wolfsburg,Augsburg,0,2,2016-04-23 17:30:00,,None
+83312,33,SavedShot,0.7240000152587891,0.37900001525878907,0.013722299598157406,Maximilian Arnold,a,153,FromCorner,2015,LeftFoot,1306,Borussia Dortmund,Wolfsburg,5,1,2016-04-30 17:30:00,,None
+83566,22,MissedShots,0.6719999694824219,0.46799999237060547,0.01397360023111105,Maximilian Arnold,a,153,OpenPlay,2015,LeftFoot,1311,Hamburger SV,Wolfsburg,0,1,2016-05-07 17:30:00,Christian Träsch,Pass
+83571,61,SavedShot,0.9,0.485,0.10145600140094757,Maximilian Arnold,a,153,OpenPlay,2015,Head,1311,Hamburger SV,Wolfsburg,0,1,2016-05-07 17:30:00,Vieirinha,Cross
+83913,10,Goal,0.9469999694824218,0.5070000076293946,0.579334020614624,Maximilian Arnold,h,153,OpenPlay,2015,LeftFoot,1325,Wolfsburg,VfB Stuttgart,3,1,2016-05-14 17:30:00,Marcel Schäfer,Cross
+127480,80,MissedShots,0.9230000305175782,0.40900001525878904,0.030163999646902084,Maximilian Arnold,a,153,FromCorner,2016,Head,1328,Augsburg,Wolfsburg,0,2,2016-08-27 17:30:00,Julian Draxler,SubstitutionOn
+127904,83,MissedShots,0.7759999847412109,0.27,0.018214700743556023,Maximilian Arnold,h,153,OpenPlay,2016,LeftFoot,1337,Wolfsburg,FC Cologne,0,0,2016-09-10 17:30:00,Jakub Blaszczykowski,Pass
+128469,32,MissedShots,0.8219999694824218,0.5029999923706054,0.06467770040035248,Maximilian Arnold,h,153,OpenPlay,2016,LeftFoot,1354,Wolfsburg,Borussia Dortmund,1,5,2016-09-20 22:00:00,Bruno Henrique,Pass
+128472,43,SavedShot,0.784000015258789,0.6270000076293946,0.023477299138903618,Maximilian Arnold,h,153,OpenPlay,2016,LeftFoot,1354,Wolfsburg,Borussia Dortmund,1,5,2016-09-20 22:00:00,Bruno Henrique,Pass
+128753,43,BlockedShot,0.775,0.25799999237060545,0.048399098217487335,Maximilian Arnold,a,153,DirectFreekick,2016,LeftFoot,1369,Werder Bremen,Wolfsburg,2,1,2016-09-24 20:30:00,,Standard
+128761,69,BlockedShot,0.754000015258789,0.34,0.02069609984755516,Maximilian Arnold,a,153,OpenPlay,2016,RightFoot,1369,Werder Bremen,Wolfsburg,2,1,2016-09-24 20:30:00,Bruno Henrique,Pass
+128765,80,SavedShot,0.735999984741211,0.3609999847412109,0.02001049928367138,Maximilian Arnold,a,153,OpenPlay,2016,LeftFoot,1369,Werder Bremen,Wolfsburg,2,1,2016-09-24 20:30:00,Mario Gomez,BallRecovery
+128932,25,MissedShots,0.6840000152587891,0.32799999237060545,0.00936202984303236,Maximilian Arnold,h,153,OpenPlay,2016,LeftFoot,1379,Wolfsburg,Mainz 05,0,0,2016-10-02 17:30:00,,Rebound
+129142,17,MissedShots,0.889000015258789,0.4540000152587891,0.19810399413108826,Maximilian Arnold,h,153,OpenPlay,2016,OtherBodyPart,1389,Wolfsburg,RasenBallsport Leipzig,0,1,2016-10-16 19:30:00,Christian Träsch,Foul
+129144,24,BlockedShot,0.8209999847412109,0.5159999847412109,0.06787999719381332,Maximilian Arnold,h,153,OpenPlay,2016,LeftFoot,1389,Wolfsburg,RasenBallsport Leipzig,0,1,2016-10-16 19:30:00,Julian Draxler,Pass
+129890,36,Goal,0.9219999694824219,0.435,0.35091298818588257,Maximilian Arnold,h,153,OpenPlay,2016,RightFoot,3301,Wolfsburg,Bayer Leverkusen,1,2,2016-10-29 17:30:00,Daniel Caligiuri,Cross
+129701,32,MissedShots,0.825,0.6509999847412109,0.06491059809923172,Maximilian Arnold,a,153,OpenPlay,2016,LeftFoot,2811,Freiburg,Wolfsburg,0,3,2016-11-05 18:30:00,Paul Seguin,Pass
+129705,42,SavedShot,0.9540000152587891,0.649000015258789,0.06291750073432922,Maximilian Arnold,a,153,SetPiece,2016,LeftFoot,2811,Freiburg,Wolfsburg,0,3,2016-11-05 18:30:00,,None
+129968,6,MissedShots,0.6659999847412109,0.654000015258789,0.012411000207066536,Maximilian Arnold,h,153,OpenPlay,2016,LeftFoot,2818,Wolfsburg,Schalke 04,0,1,2016-11-19 18:30:00,Yannick Gerhardt,Pass
+129971,12,BlockedShot,0.7219999694824218,0.52,0.017752699553966522,Maximilian Arnold,h,153,FromCorner,2016,RightFoot,2818,Wolfsburg,Schalke 04,0,1,2016-11-19 18:30:00,Daniel Caligiuri,Pass
+129991,77,BlockedShot,0.745999984741211,0.40400001525878904,0.01407339982688427,Maximilian Arnold,h,153,SetPiece,2016,LeftFoot,2818,Wolfsburg,Schalke 04,0,1,2016-11-19 18:30:00,,Rebound
+130205,32,BlockedShot,0.7369999694824219,0.43599998474121093,0.012193099595606327,Maximilian Arnold,a,153,SetPiece,2016,LeftFoot,2828,Ingolstadt,Wolfsburg,1,1,2016-11-26 18:30:00,,None
+130501,69,MissedShots,0.6940000152587891,0.545,0.015261000022292137,Maximilian Arnold,h,153,OpenPlay,2016,LeftFoot,3193,Wolfsburg,Hertha Berlin,2,3,2016-12-03 18:30:00,Daniel Caligiuri,Pass
+130504,76,BlockedShot,0.78,0.40299999237060546,0.028605399653315544,Maximilian Arnold,h,153,OpenPlay,2016,LeftFoot,3193,Wolfsburg,Hertha Berlin,2,3,2016-12-03 18:30:00,Daniel Caligiuri,Pass
+131534,25,SavedShot,0.7219999694824218,0.2979999923706055,0.015491100028157234,Maximilian Arnold,h,153,OpenPlay,2016,LeftFoot,3216,Wolfsburg,Eintracht Frankfurt,1,0,2016-12-17 21:30:00,Josuha Guilavogui,Pass
+130113,16,BlockedShot,0.7390000152587891,0.6630000305175782,0.020282600075006485,Maximilian Arnold,a,153,OpenPlay,2016,LeftFoot,3220,Borussia M.Gladbach,Wolfsburg,1,2,2016-12-20 23:00:00,Julian Draxler,Pass
+130124,45,BlockedShot,0.7230000305175781,0.5429999923706055,0.02237509936094284,Maximilian Arnold,a,153,OpenPlay,2016,RightFoot,3220,Borussia M.Gladbach,Wolfsburg,1,2,2016-12-20 23:00:00,Julian Draxler,Pass
+130138,73,MissedShots,0.9230000305175782,0.585,0.11579599976539612,Maximilian Arnold,a,153,OpenPlay,2016,RightFoot,3220,Borussia M.Gladbach,Wolfsburg,1,2,2016-12-20 23:00:00,Mario Gomez,HeadPass
+130141,83,SavedShot,0.73,0.315,0.040868401527404785,Maximilian Arnold,a,153,DirectFreekick,2016,LeftFoot,3220,Borussia M.Gladbach,Wolfsburg,1,2,2016-12-20 23:00:00,,Standard
+132101,63,MissedShots,0.72,0.5879999923706055,0.010249299928545952,Maximilian Arnold,a,153,SetPiece,2016,LeftFoot,3741,FC Cologne,Wolfsburg,1,0,2017-02-04 14:30:00,,None
+132103,70,SavedShot,0.8109999847412109,0.4879999923706055,0.05124270170927048,Maximilian Arnold,a,153,OpenPlay,2016,LeftFoot,3741,FC Cologne,Wolfsburg,1,0,2017-02-04 14:30:00,,None
+132105,73,BlockedShot,0.9159999847412109,0.635,0.09875719994306564,Maximilian Arnold,a,153,OpenPlay,2016,LeftFoot,3741,FC Cologne,Wolfsburg,1,0,2017-02-04 14:30:00,Yunus Malli,Pass
+132573,49,Goal,0.7959999847412109,0.5879999923706055,0.02658969908952713,Maximilian Arnold,h,153,FromCorner,2016,LeftFoot,3756,Wolfsburg,Hoffenheim,2,1,2017-02-12 14:30:00,,None
+132574,51,SavedShot,0.7069999694824218,0.585,0.015396400354802608,Maximilian Arnold,h,153,OpenPlay,2016,LeftFoot,3756,Wolfsburg,Hoffenheim,2,1,2017-02-12 14:30:00,Mario Gomez,Pass
+131916,21,SavedShot,0.6830000305175781,0.5129999923706055,0.03466539829969406,Maximilian Arnold,a,153,DirectFreekick,2016,LeftFoot,3763,Borussia Dortmund,Wolfsburg,3,0,2017-02-18 14:30:00,,Standard
+131926,63,MissedShots,0.72,0.519000015258789,0.013570199720561504,Maximilian Arnold,a,153,OpenPlay,2016,LeftFoot,3763,Borussia Dortmund,Wolfsburg,3,0,2017-02-18 14:30:00,Yannick Gerhardt,Pass
+131936,81,SavedShot,0.7440000152587891,0.365,0.013622299768030643,Maximilian Arnold,a,153,OpenPlay,2016,LeftFoot,3763,Borussia Dortmund,Wolfsburg,3,0,2017-02-18 14:30:00,,BallRecovery
+132112,3,MissedShots,0.7080000305175781,0.45799999237060546,0.01492329966276884,Maximilian Arnold,h,153,OpenPlay,2016,LeftFoot,3767,Wolfsburg,Werder Bremen,1,2,2017-02-24 19:30:00,Yunus Malli,Pass
+132131,41,BlockedShot,0.755,0.629000015258789,0.020733799785375595,Maximilian Arnold,h,153,SetPiece,2016,LeftFoot,3767,Wolfsburg,Werder Bremen,1,2,2017-02-24 19:30:00,Ricardo Rodríguez,Pass
+132140,70,MissedShots,0.7169999694824218,0.4490000152587891,0.04699090123176575,Maximilian Arnold,h,153,DirectFreekick,2016,LeftFoot,3767,Wolfsburg,Werder Bremen,1,2,2017-02-24 19:30:00,,Standard
+134547,40,MissedShots,0.78,0.37,0.02358580008149147,Maximilian Arnold,h,153,OpenPlay,2016,LeftFoot,3795,Wolfsburg,Darmstadt,1,0,2017-03-18 14:30:00,Vieirinha,Pass
+132930,51,MissedShots,0.7909999847412109,0.56,0.021438799798488617,Maximilian Arnold,a,153,OpenPlay,2016,RightFoot,3811,Bayer Leverkusen,Wolfsburg,3,3,2017-04-02 16:30:00,Vieirinha,HeadPass
+132932,53,SavedShot,0.915,0.30700000762939456,0.048450399190187454,Maximilian Arnold,a,153,OpenPlay,2016,RightFoot,3811,Bayer Leverkusen,Wolfsburg,3,3,2017-04-02 16:30:00,,Rebound
+133944,33,MissedShots,0.8730000305175781,0.34200000762939453,0.07021789997816086,Maximilian Arnold,h,153,OpenPlay,2016,RightFoot,3819,Wolfsburg,Freiburg,0,1,2017-04-05 19:00:00,Jakub Blaszczykowski,Pass
+133955,51,MissedShots,0.7809999847412109,0.29700000762939455,0.022610299289226532,Maximilian Arnold,h,153,OpenPlay,2016,LeftFoot,3819,Wolfsburg,Freiburg,0,1,2017-04-05 19:00:00,Riechedly Bazoer,Pass
+134510,15,BlockedShot,0.7559999847412109,0.6509999847412109,0.020480800420045853,Maximilian Arnold,a,153,OpenPlay,2016,LeftFoot,3824,Schalke 04,Wolfsburg,4,1,2017-04-08 14:30:00,Daniel Didavi,Pass
+134515,25,BlockedShot,0.7609999847412109,0.595999984741211,0.07047440111637115,Maximilian Arnold,a,153,DirectFreekick,2016,LeftFoot,3824,Schalke 04,Wolfsburg,4,1,2017-04-08 14:30:00,,Standard
+134525,58,MissedShots,0.7759999847412109,0.6909999847412109,0.020528199151158333,Maximilian Arnold,a,153,OpenPlay,2016,LeftFoot,3824,Schalke 04,Wolfsburg,4,1,2017-04-08 14:30:00,Josuha Guilavogui,Pass
+132805,55,SavedShot,0.764000015258789,0.12300000190734864,0.027524499222636223,Maximilian Arnold,h,153,DirectFreekick,2016,LeftFoot,3836,Wolfsburg,Ingolstadt,3,0,2017-04-15 14:30:00,,Standard
+133620,9,BlockedShot,0.7130000305175781,0.69,0.028121499344706535,Maximilian Arnold,a,153,OpenPlay,2016,LeftFoot,3843,Hertha Berlin,Wolfsburg,1,0,2017-04-22 14:30:00,Mario Gomez,Pass
+133624,35,MissedShots,0.875,0.54,0.39339300990104675,Maximilian Arnold,a,153,OpenPlay,2016,LeftFoot,3843,Hertha Berlin,Wolfsburg,1,0,2017-04-22 14:30:00,,None
+134410,30,MissedShots,0.7809999847412109,0.34799999237060547,0.025370899587869644,Maximilian Arnold,h,153,OpenPlay,2016,RightFoot,3854,Wolfsburg,Bayern Munich,0,6,2017-04-29 17:30:00,Riechedly Bazoer,Pass
+127926,90,SavedShot,0.92,0.46799999237060547,0.0834093987941742,Maximilian Arnold,a,153,OpenPlay,2016,RightFoot,3879,Hamburger SV,Wolfsburg,2,1,2017-05-20 14:30:00,Philipp Wollscheid,HeadPass
+166097,3,MissedShots,0.37,0.6370000076293946,0.006500020157545805,Maximilian Arnold,a,153,OpenPlay,2017,LeftFoot,8270,Eintracht Frankfurt,Wolfsburg,0,1,2017-08-26 14:30:00,,BallRecovery
+166098,8,SavedShot,0.740999984741211,0.3370000076293945,0.04804150015115738,Maximilian Arnold,a,153,DirectFreekick,2017,LeftFoot,8270,Eintracht Frankfurt,Wolfsburg,0,1,2017-08-26 14:30:00,,Standard
+166439,13,BlockedShot,0.795,0.27,0.05972589924931526,Maximilian Arnold,h,153,DirectFreekick,2017,LeftFoot,8279,Wolfsburg,Hannover 96,1,1,2017-09-09 14:30:00,,Standard
+166456,85,SavedShot,0.7580000305175781,0.48700000762939455,0.018600400537252426,Maximilian Arnold,h,153,OpenPlay,2017,LeftFoot,8279,Wolfsburg,Hannover 96,1,1,2017-09-09 14:30:00,,Rebound
+166459,89,BlockedShot,0.785,0.5479999923706055,0.03710409998893738,Maximilian Arnold,h,153,OpenPlay,2017,RightFoot,8279,Wolfsburg,Hannover 96,1,1,2017-09-09 14:30:00,Landry Dimata,Pass
+167312,19,MissedShots,0.725,0.48900001525878906,0.013709699735045433,Maximilian Arnold,a,153,OpenPlay,2017,LeftFoot,8304,Bayern Munich,Wolfsburg,2,2,2017-09-22 19:30:00,,None
+167318,48,BlockedShot,0.950999984741211,0.4129999923706055,0.11829700320959091,Maximilian Arnold,a,153,OpenPlay,2017,RightFoot,8304,Bayern Munich,Wolfsburg,2,2,2017-09-22 19:30:00,Jakub Blaszczykowski,Pass
+167320,55,Goal,0.7069999694824218,0.5259999847412109,0.043153099715709686,Maximilian Arnold,a,153,DirectFreekick,2017,LeftFoot,8304,Bayern Munich,Wolfsburg,2,2,2017-09-22 19:30:00,,Standard
+167796,39,SavedShot,0.735,0.5220000076293946,0.02245189994573593,Maximilian Arnold,a,153,OpenPlay,2017,LeftFoot,8327,Bayer Leverkusen,Wolfsburg,2,2,2017-10-15 14:30:00,Josuha Guilavogui,HeadPass
+167798,40,BlockedShot,0.8590000152587891,0.5279999923706055,0.0688714012503624,Maximilian Arnold,a,153,OpenPlay,2017,LeftFoot,8327,Bayer Leverkusen,Wolfsburg,2,2,2017-10-15 14:30:00,,Rebound
+168418,10,SavedShot,0.885,0.5,0.7577769756317139,Maximilian Arnold,h,153,Penalty,2017,LeftFoot,8339,Wolfsburg,Hoffenheim,1,1,2017-10-22 17:00:00,,Standard
+168426,37,BlockedShot,0.7719999694824219,0.595999984741211,0.028727099299430847,Maximilian Arnold,h,153,OpenPlay,2017,LeftFoot,8339,Wolfsburg,Hoffenheim,1,1,2017-10-22 17:00:00,,Dispossessed
+168434,60,MissedShots,0.715999984741211,0.5429999923706055,0.04682010039687157,Maximilian Arnold,h,153,DirectFreekick,2017,LeftFoot,8339,Wolfsburg,Hoffenheim,1,1,2017-10-22 17:00:00,,Standard
+168443,93,SavedShot,0.6880000305175781,0.5120000076293946,0.009877219796180725,Maximilian Arnold,h,153,OpenPlay,2017,LeftFoot,8339,Wolfsburg,Hoffenheim,1,1,2017-10-22 17:00:00,,None
+168714,62,MissedShots,0.6890000152587891,0.44,0.011398199945688248,Maximilian Arnold,a,153,OpenPlay,2017,LeftFoot,8344,Schalke 04,Wolfsburg,1,1,2017-10-28 14:30:00,,BallRecovery
+168717,73,SavedShot,0.835,0.3920000076293945,0.05394170060753822,Maximilian Arnold,a,153,OpenPlay,2017,LeftFoot,8344,Schalke 04,Wolfsburg,1,1,2017-10-28 14:30:00,Jakub Blaszczykowski,Pass
+167698,7,MissedShots,0.749000015258789,0.3189999961853027,0.013449599966406822,Maximilian Arnold,h,153,OpenPlay,2017,LeftFoot,8356,Wolfsburg,Hertha Berlin,3,3,2017-11-05 17:00:00,,None
+188013,80,SavedShot,0.8059999847412109,0.7380000305175781,0.06254210323095322,Maximilian Arnold,a,153,DirectFreekick,2017,LeftFoot,8412,Borussia Dortmund,Wolfsburg,0,0,2018-01-14 17:00:00,,Standard
+188638,65,Goal,0.815,0.23700000762939452,0.05871519818902016,Maximilian Arnold,h,153,DirectFreekick,2017,LeftFoot,8429,Wolfsburg,Eintracht Frankfurt,1,3,2018-01-20 14:30:00,,Standard
+190453,59,BlockedShot,0.725999984741211,0.555,0.013223599642515182,Maximilian Arnold,a,153,OpenPlay,2017,LeftFoot,8437,Hannover 96,Wolfsburg,0,1,2018-01-28 17:00:00,,None
+194892,21,MissedShots,0.7440000152587891,0.40799999237060547,0.01784919947385788,Maximilian Arnold,h,153,OpenPlay,2017,LeftFoot,8446,Wolfsburg,VfB Stuttgart,1,1,2018-02-03 14:30:00,Renato Steffen,Pass
+194896,27,BlockedShot,0.730999984741211,0.5259999847412109,0.015353799797594547,Maximilian Arnold,h,153,FromCorner,2017,LeftFoot,8446,Wolfsburg,VfB Stuttgart,1,1,2018-02-03 14:30:00,,None
+195048,89,MissedShots,0.7569999694824219,0.22700000762939454,0.03751419857144356,Maximilian Arnold,a,153,DirectFreekick,2017,LeftFoot,8455,Werder Bremen,Wolfsburg,3,1,2018-02-11 17:00:00,,Standard
+198730,16,SavedShot,0.7469999694824219,0.624000015258789,0.019066400825977325,Maximilian Arnold,h,153,OpenPlay,2017,LeftFoot,8483,Wolfsburg,Bayer Leverkusen,1,2,2018-03-03 14:30:00,Josuha Guilavogui,Pass
+201650,9,MissedShots,0.7630000305175781,0.664000015258789,0.019914699718356133,Maximilian Arnold,h,153,OpenPlay,2017,RightFoot,8499,Wolfsburg,Schalke 04,0,1,2018-03-17 17:30:00,Josip Brekalo,Pass
+201660,49,BlockedShot,0.764000015258789,0.67,0.017737599089741707,Maximilian Arnold,h,153,OpenPlay,2017,LeftFoot,8499,Wolfsburg,Schalke 04,0,1,2018-03-17 17:30:00,Josip Brekalo,Pass
+201662,55,MissedShots,0.8919999694824219,0.53,0.08509069681167603,Maximilian Arnold,h,153,OpenPlay,2017,Head,8499,Wolfsburg,Schalke 04,0,1,2018-03-17 17:30:00,Daniel Didavi,Cross
+207535,57,MissedShots,0.7519999694824219,0.539000015258789,0.030390100553631783,Maximilian Arnold,a,153,OpenPlay,2017,LeftFoot,8514,Freiburg,Wolfsburg,0,2,2018-04-07 13:30:00,Daniel Didavi,Pass
+208097,12,BlockedShot,0.9,0.15800000190734864,0.05596429854631424,Maximilian Arnold,h,153,DirectFreekick,2017,LeftFoot,8527,Wolfsburg,Augsburg,0,0,2018-04-13 18:30:00,,Standard
+208098,27,MissedShots,0.6519999694824219,0.5059999847412109,0.027731500566005707,Maximilian Arnold,h,153,DirectFreekick,2017,LeftFoot,8527,Wolfsburg,Augsburg,0,0,2018-04-13 18:30:00,,Standard
+210153,35,SavedShot,0.6329999923706054,0.549000015258789,0.024884499609470367,Maximilian Arnold,a,153,DirectFreekick,2017,LeftFoot,8532,Borussia M.Gladbach,Wolfsburg,3,0,2018-04-20 18:30:00,,Standard
+210158,50,BlockedShot,0.7469999694824219,0.42400001525878905,0.012891000136733055,Maximilian Arnold,a,153,OpenPlay,2017,LeftFoot,8532,Borussia M.Gladbach,Wolfsburg,3,0,2018-04-20 18:30:00,,None
+211637,65,MissedShots,0.860999984741211,0.645,0.023962300270795822,Maximilian Arnold,h,153,OpenPlay,2017,RightFoot,8546,Wolfsburg,Hamburger SV,1,3,2018-04-28 13:30:00,William,Cross
+213169,58,BlockedShot,0.7580000305175781,0.45099998474121095,0.020781099796295166,Maximilian Arnold,a,153,OpenPlay,2017,LeftFoot,8551,RasenBallsport Leipzig,Wolfsburg,4,1,2018-05-05 14:30:00,Daniel Didavi,Pass
+220037,29,SavedShot,0.745999984741211,0.5070000076293946,0.021848399192094803,Maximilian Arnold,h,153,OpenPlay,2018,RightFoot,10338,Wolfsburg,Schalke 04,2,1,2018-08-25 16:30:00,,BallRecovery
+221645,72,BlockedShot,0.8019999694824219,0.24399999618530274,0.05557100102305412,Maximilian Arnold,a,153,DirectFreekick,2018,LeftFoot,10351,Bayer Leverkusen,Wolfsburg,1,3,2018-09-01 13:30:00,,Standard
+224976,24,SavedShot,0.7190000152587891,0.42700000762939455,0.01665019989013672,Maximilian Arnold,h,153,SetPiece,2018,LeftFoot,10368,Wolfsburg,Freiburg,1,3,2018-09-22 13:30:00,William,Pass
+224979,31,SavedShot,0.7419999694824219,0.6040000152587891,0.014290000312030315,Maximilian Arnold,h,153,OpenPlay,2018,LeftFoot,10368,Wolfsburg,Freiburg,1,3,2018-09-22 13:30:00,Yannick Gerhardt,Tackle
+224991,68,MissedShots,0.8030000305175782,0.5429999923706055,0.035349201411008835,Maximilian Arnold,h,153,OpenPlay,2018,LeftFoot,10368,Wolfsburg,Freiburg,1,3,2018-09-22 13:30:00,,None
+226766,44,MissedShots,0.9640000152587891,0.43599998474121093,0.47561800479888916,Maximilian Arnold,a,153,OpenPlay,2018,Head,10381,Mainz 05,Wolfsburg,0,0,2018-09-26 18:30:00,William,Cross
+226777,89,SavedShot,0.7719999694824219,0.2720000076293945,0.019691800698637962,Maximilian Arnold,a,153,OpenPlay,2018,LeftFoot,10381,Mainz 05,Wolfsburg,0,0,2018-09-26 18:30:00,William,Pass
+227906,35,MissedShots,0.7240000152587891,0.6170000076293946,0.017076099291443825,Maximilian Arnold,h,153,OpenPlay,2018,LeftFoot,10386,Wolfsburg,Borussia M.Gladbach,2,2,2018-09-29 13:30:00,Ignacio Camacho,Pass
+227915,69,BlockedShot,0.7080000305175781,0.5429999923706055,0.011803699657320976,Maximilian Arnold,h,153,OpenPlay,2018,RightFoot,10386,Wolfsburg,Borussia M.Gladbach,2,2,2018-09-29 13:30:00,,Rebound
+255194,51,SavedShot,0.7719999694824219,0.39599998474121095,0.020450100302696228,Maximilian Arnold,a,153,OpenPlay,2018,RightFoot,10395,Werder Bremen,Wolfsburg,2,0,2018-10-05 18:30:00,Yunus Malli,HeadPass
+255755,21,ShotOnPost,0.700999984741211,0.4759999847412109,0.018788399174809456,Maximilian Arnold,a,153,SetPiece,2018,LeftFoot,10416,Fortuna Duesseldorf,Wolfsburg,0,3,2018-10-27 13:30:00,Jérôme Roussillon,Pass
+255765,56,MissedShots,0.7609999847412109,0.5920000076293945,0.03407280147075653,Maximilian Arnold,a,153,OpenPlay,2018,RightFoot,10416,Fortuna Duesseldorf,Wolfsburg,0,3,2018-10-27 13:30:00,,Dispossessed
+255939,15,MissedShots,0.774000015258789,0.34900001525878904,0.023829299956560135,Maximilian Arnold,h,153,OpenPlay,2018,LeftFoot,10421,Wolfsburg,Borussia Dortmund,0,1,2018-11-03 14:30:00,Josip Brekalo,Pass
+255951,57,MissedShots,0.6969999694824218,0.4209999847412109,0.013855500146746635,Maximilian Arnold,h,153,OpenPlay,2018,LeftFoot,10421,Wolfsburg,Borussia Dortmund,0,1,2018-11-03 14:30:00,Daniel Ginczek,Pass
+256160,36,SavedShot,0.735999984741211,0.649000015258789,0.017327699810266495,Maximilian Arnold,a,153,OpenPlay,2018,LeftFoot,10432,Hannover 96,Wolfsburg,2,1,2018-11-09 19:30:00,Jérôme Roussillon,Pass
+256163,50,SavedShot,0.6940000152587891,0.509000015258789,0.03824000060558319,Maximilian Arnold,a,153,DirectFreekick,2018,LeftFoot,10432,Hannover 96,Wolfsburg,2,1,2018-11-09 19:30:00,,Standard
+256172,71,MissedShots,0.8080000305175781,0.485,0.0687049999833107,Maximilian Arnold,a,153,OpenPlay,2018,LeftFoot,10432,Hannover 96,Wolfsburg,2,1,2018-11-09 19:30:00,Yannick Gerhardt,TakeOn
+257106,8,SavedShot,0.904000015258789,0.5070000076293946,0.08805160224437714,Maximilian Arnold,h,153,OpenPlay,2018,LeftFoot,10462,Wolfsburg,Hoffenheim,2,2,2018-12-08 14:30:00,Jérôme Roussillon,Cross
+257107,14,BlockedShot,0.750999984741211,0.6020000076293945,0.020791999995708466,Maximilian Arnold,h,153,OpenPlay,2018,LeftFoot,10462,Wolfsburg,Hoffenheim,2,2,2018-12-08 14:30:00,Daniel Ginczek,Pass
+257116,51,SavedShot,0.72,0.45099998474121095,0.048566099256277084,Maximilian Arnold,h,153,DirectFreekick,2018,LeftFoot,10462,Wolfsburg,Hoffenheim,2,2,2018-12-08 14:30:00,,Standard
+257501,9,SavedShot,0.87,0.6509999847412109,0.06816969811916351,Maximilian Arnold,h,153,OpenPlay,2018,LeftFoot,10477,Wolfsburg,VfB Stuttgart,2,0,2018-12-18 19:30:00,Jérôme Roussillon,Pass
+257502,17,SavedShot,0.7190000152587891,0.56,0.019554900005459785,Maximilian Arnold,h,153,OpenPlay,2018,LeftFoot,10477,Wolfsburg,VfB Stuttgart,2,0,2018-12-18 19:30:00,William,Pass
+257830,40,SavedShot,0.9119999694824219,0.45,0.05970359966158867,Maximilian Arnold,a,153,OpenPlay,2018,Head,10488,Augsburg,Wolfsburg,2,3,2018-12-23 14:30:00,Admir Mehmedi,Aerial
+257832,40,BlockedShot,0.7559999847412109,0.47400001525878904,0.03101849928498268,Maximilian Arnold,a,153,OpenPlay,2018,LeftFoot,10488,Augsburg,Wolfsburg,2,3,2018-12-23 14:30:00,William,Pass
+278494,48,BlockedShot,0.9069999694824219,0.48700000762939455,0.031182000413537025,Maximilian Arnold,a,153,FromCorner,2018,Head,10496,Schalke 04,Wolfsburg,2,1,2019-01-20 17:00:00,Admir Mehmedi,Aerial
+279073,49,MissedShots,0.6880000305175781,0.5279999923706055,0.015211500227451324,Maximilian Arnold,a,153,OpenPlay,2018,LeftFoot,10523,Freiburg,Wolfsburg,3,3,2019-02-09 14:30:00,Yannick Gerhardt,Pass
+279086,91,MissedShots,0.7759999847412109,0.4809999847412109,0.030818000435829163,Maximilian Arnold,a,153,OpenPlay,2018,RightFoot,10523,Freiburg,Wolfsburg,3,3,2019-02-09 14:30:00,,None
+279244,3,Goal,0.795,0.66,0.0276964008808136,Maximilian Arnold,h,153,OpenPlay,2018,LeftFoot,10532,Wolfsburg,Mainz 05,3,0,2019-02-16 14:30:00,Josip Brekalo,Pass
+279256,53,SavedShot,0.7219999694824218,0.34200000762939453,0.040941499173641205,Maximilian Arnold,h,153,DirectFreekick,2018,LeftFoot,10532,Wolfsburg,Mainz 05,3,0,2019-02-16 14:30:00,,Standard
+279259,65,MissedShots,0.7380000305175781,0.525,0.012760300189256668,Maximilian Arnold,h,153,SetPiece,2018,RightFoot,10532,Wolfsburg,Mainz 05,3,0,2019-02-16 14:30:00,,None
+279263,75,SavedShot,0.7340000152587891,0.6040000152587891,0.019482599571347237,Maximilian Arnold,h,153,SetPiece,2018,LeftFoot,10532,Wolfsburg,Mainz 05,3,0,2019-02-16 14:30:00,Josip Brekalo,Pass
+279760,37,BlockedShot,0.7919999694824219,0.46599998474121096,0.03918749839067459,Maximilian Arnold,h,153,OpenPlay,2018,LeftFoot,10551,Wolfsburg,Werder Bremen,1,1,2019-03-03 17:00:00,,None
+279780,80,SavedShot,0.8030000305175782,0.29399999618530276,0.07149869948625565,Maximilian Arnold,h,153,DirectFreekick,2018,LeftFoot,10551,Wolfsburg,Werder Bremen,1,1,2019-03-03 17:00:00,,Standard
+284452,55,SavedShot,0.7680000305175781,0.40599998474121096,0.023114699870347977,Maximilian Arnold,a,153,OpenPlay,2018,RightFoot,10553,Bayern Munich,Wolfsburg,6,0,2019-03-09 14:30:00,Josip Brekalo,Pass
+284453,59,MissedShots,0.8540000152587891,0.5720000076293945,0.05857960134744644,Maximilian Arnold,a,153,FromCorner,2018,LeftFoot,10553,Bayern Munich,Wolfsburg,6,0,2019-03-09 14:30:00,,None
+286125,4,BlockedShot,0.735999984741211,0.3089999961853027,0.04226389899849892,Maximilian Arnold,h,153,DirectFreekick,2018,LeftFoot,10566,Wolfsburg,Fortuna Duesseldorf,5,2,2019-03-16 14:30:00,,Standard
+286126,4,MissedShots,0.735999984741211,0.3089999961853027,0.011478699743747711,Maximilian Arnold,h,153,SetPiece,2018,LeftFoot,10566,Wolfsburg,Fortuna Duesseldorf,5,2,2019-03-16 14:30:00,,Rebound
+287467,57,MissedShots,0.7369999694824219,0.38599998474121094,0.017324600368738174,Maximilian Arnold,a,153,OpenPlay,2018,LeftFoot,10572,Borussia Dortmund,Wolfsburg,2,0,2019-03-30 14:30:00,William,Pass
+296424,62,BlockedShot,0.755,0.53,0.035501498728990555,Maximilian Arnold,h,153,OpenPlay,2018,LeftFoot,10605,Wolfsburg,Eintracht Frankfurt,1,1,2019-04-22 19:30:00,,TakeOn
+296425,63,ShotOnPost,0.7530000305175781,0.40099998474121096,0.01681400090456009,Maximilian Arnold,h,153,FromCorner,2018,RightFoot,10605,Wolfsburg,Eintracht Frankfurt,1,1,2019-04-22 19:30:00,,None
+296430,75,SavedShot,0.765,0.34,0.017641499638557434,Maximilian Arnold,h,153,SetPiece,2018,LeftFoot,10605,Wolfsburg,Eintracht Frankfurt,1,1,2019-04-22 19:30:00,Admir Mehmedi,Pass
+298128,24,BlockedShot,0.85,0.38299999237060545,0.06444390118122101,Maximilian Arnold,a,153,OpenPlay,2018,LeftFoot,10608,Hoffenheim,Wolfsburg,1,4,2019-04-28 14:30:00,Wout Weghorst,Pass
+298132,35,MissedShots,0.45099998474121095,0.6459999847412109,0.007214609999209642,Maximilian Arnold,a,153,OpenPlay,2018,LeftFoot,10608,Hoffenheim,Wolfsburg,1,4,2019-04-28 14:30:00,Josuha Guilavogui,Pass
+298134,37,SavedShot,0.8380000305175781,0.534000015258789,0.06835660338401794,Maximilian Arnold,a,153,OpenPlay,2018,RightFoot,10608,Hoffenheim,Wolfsburg,1,4,2019-04-28 14:30:00,William,Pass
+298137,42,MissedShots,0.7530000305175781,0.639000015258789,0.017883699387311935,Maximilian Arnold,a,153,OpenPlay,2018,LeftFoot,10608,Hoffenheim,Wolfsburg,1,4,2019-04-28 14:30:00,Pavao Pervan,Pass
+298151,84,Goal,0.9319999694824219,0.700999984741211,0.09447149932384491,Maximilian Arnold,a,153,OpenPlay,2018,LeftFoot,10608,Hoffenheim,Wolfsburg,1,4,2019-04-28 14:30:00,Wout Weghorst,Pass
+298155,91,SavedShot,0.9059999847412109,0.4520000076293945,0.12213599681854248,Maximilian Arnold,a,153,OpenPlay,2018,LeftFoot,10608,Hoffenheim,Wolfsburg,1,4,2019-04-28 14:30:00,,BallTouch
+299150,4,BlockedShot,0.88,0.5540000152587891,0.08539090305566788,Maximilian Arnold,h,153,OpenPlay,2018,LeftFoot,10624,Wolfsburg,Nuernberg,2,0,2019-05-04 14:30:00,Robin Knoche,Chipped
+299162,68,SavedShot,0.7280000305175781,0.645,0.020464500412344933,Maximilian Arnold,h,153,OpenPlay,2018,LeftFoot,10624,Wolfsburg,Nuernberg,2,0,2019-05-04 14:30:00,Yannick Gerhardt,Pass
+299167,82,BlockedShot,0.7290000152587891,0.3940000152587891,0.04912729933857918,Maximilian Arnold,h,153,DirectFreekick,2018,LeftFoot,10624,Wolfsburg,Nuernberg,2,0,2019-05-04 14:30:00,,Standard
+300804,37,SavedShot,0.775,0.7230000305175781,0.013562199659645557,Maximilian Arnold,a,153,OpenPlay,2018,LeftFoot,10629,VfB Stuttgart,Wolfsburg,3,0,2019-05-11 14:30:00,,None
+300809,43,MissedShots,0.34900001525878904,0.40299999237060546,0.006451149936765432,Maximilian Arnold,a,153,OpenPlay,2018,LeftFoot,10629,VfB Stuttgart,Wolfsburg,3,0,2019-05-11 14:30:00,Wout Weghorst,Tackle
+302275,29,BlockedShot,0.794000015258789,0.6609999847412109,0.08095519989728928,Maximilian Arnold,h,153,DirectFreekick,2018,LeftFoot,10641,Wolfsburg,Augsburg,8,1,2019-05-18 13:30:00,,Standard
+302279,45,MissedShots,0.34799999237060547,0.365,0.008592460304498672,Maximilian Arnold,h,153,OpenPlay,2018,LeftFoot,10641,Wolfsburg,Augsburg,8,1,2019-05-18 13:30:00,,BallRecovery
+310696,15,Goal,0.7440000152587891,0.40200000762939453,0.011090000160038471,Maximilian Arnold,h,153,OpenPlay,2019,LeftFoot,12408,Wolfsburg,FC Cologne,2,1,2019-08-17 14:30:00,,Aerial
+310709,55,BlockedShot,0.7440000152587891,0.48200000762939454,0.029292400926351547,Maximilian Arnold,h,153,OpenPlay,2019,LeftFoot,12408,Wolfsburg,FC Cologne,2,1,2019-08-17 14:30:00,,None
+313182,41,MissedShots,0.720999984741211,0.2989999961853027,0.015997199341654778,Maximilian Arnold,a,153,OpenPlay,2019,LeftFoot,12420,Hertha Berlin,Wolfsburg,0,3,2019-08-25 17:00:00,William,Pass
+313184,50,BlockedShot,0.7030000305175781,0.5570000076293945,0.017671000212430954,Maximilian Arnold,a,153,OpenPlay,2019,LeftFoot,12420,Hertha Berlin,Wolfsburg,0,3,2019-08-25 17:00:00,Wout Weghorst,Pass
+315665,17,SavedShot,0.735,0.4570000076293945,0.020128099247813225,Maximilian Arnold,h,153,OpenPlay,2019,LeftFoot,12422,Wolfsburg,Paderborn,1,1,2019-08-31 14:30:00,Joao Victor,Pass
+315679,77,BlockedShot,0.7969999694824219,0.34900001525878904,0.029795199632644653,Maximilian Arnold,h,153,OpenPlay,2019,LeftFoot,12422,Wolfsburg,Paderborn,1,1,2019-08-31 14:30:00,Josip Brekalo,Pass
+316922,2,MissedShots,0.855999984741211,0.48,0.3237990140914917,Maximilian Arnold,a,153,OpenPlay,2019,RightFoot,12430,Fortuna Duesseldorf,Wolfsburg,1,1,2019-09-13 18:30:00,,Rebound
+316935,46,SavedShot,0.750999984741211,0.6020000076293945,0.020200200378894806,Maximilian Arnold,a,153,OpenPlay,2019,RightFoot,12430,Fortuna Duesseldorf,Wolfsburg,1,1,2019-09-13 18:30:00,Josip Brekalo,TakeOn
+321480,60,MissedShots,0.710999984741211,0.48400001525878905,0.011713800020515919,Maximilian Arnold,h,153,OpenPlay,2019,LeftFoot,12447,Wolfsburg,Hoffenheim,1,1,2019-09-23 18:30:00,,TakeOn
+321484,82,BlockedShot,0.7019999694824218,0.5220000076293946,0.014110400341451168,Maximilian Arnold,h,153,OpenPlay,2019,LeftFoot,12447,Wolfsburg,Hoffenheim,1,1,2019-09-23 18:30:00,Yannick Gerhardt,Pass
+324904,85,SavedShot,0.715,0.8269999694824218,0.01117829978466034,Maximilian Arnold,h,153,OpenPlay,2019,LeftFoot,12463,Wolfsburg,Union Berlin,1,0,2019-10-06 14:30:00,Josip Brekalo,Pass
+325435,19,SavedShot,0.9080000305175782,0.509000015258789,0.11040499806404114,Maximilian Arnold,a,153,SetPiece,2019,LeftFoot,12470,RasenBallsport Leipzig,Wolfsburg,1,1,2019-10-19 14:30:00,Josip Brekalo,Pass
+329025,40,MissedShots,0.764000015258789,0.3509999847412109,0.018512500450015068,Maximilian Arnold,a,153,OpenPlay,2019,LeftFoot,12484,Borussia Dortmund,Wolfsburg,3,0,2019-11-02 14:30:00,Joao Victor,Pass
+329039,72,MissedShots,0.8080000305175781,0.475,0.05316169932484627,Maximilian Arnold,a,153,OpenPlay,2019,LeftFoot,12484,Borussia Dortmund,Wolfsburg,3,0,2019-11-02 14:30:00,Wout Weghorst,LayOff
+331449,35,MissedShots,0.870999984741211,0.27899999618530275,0.039616700261831284,Maximilian Arnold,h,153,OpenPlay,2019,LeftFoot,12501,Wolfsburg,Bayer Leverkusen,0,2,2019-11-10 14:30:00,William,Pass
+331451,50,SavedShot,0.7959999847412109,0.28299999237060547,0.024126600474119186,Maximilian Arnold,h,153,FromCorner,2019,LeftFoot,12501,Wolfsburg,Bayer Leverkusen,0,2,2019-11-10 14:30:00,William,Pass
+332026,18,BlockedShot,0.77,0.549000015258789,0.033352699130773544,Maximilian Arnold,a,153,OpenPlay,2019,LeftFoot,12508,Eintracht Frankfurt,Wolfsburg,0,2,2019-11-23 14:30:00,Jérôme Roussillon,LayOff
+334516,3,BlockedShot,0.7340000152587891,0.6020000076293945,0.01599320024251938,Maximilian Arnold,h,153,OpenPlay,2019,LeftFoot,12519,Wolfsburg,Werder Bremen,2,3,2019-12-01 17:00:00,Joao Victor,BallRecovery
+334538,74,BlockedShot,0.86,0.64,0.06458680331707001,Maximilian Arnold,h,153,OpenPlay,2019,RightFoot,12519,Wolfsburg,Werder Bremen,2,3,2019-12-01 17:00:00,Jérôme Roussillon,Pass
+337644,12,BlockedShot,0.8540000152587891,0.6430000305175781,0.0535258986055851,Maximilian Arnold,h,153,OpenPlay,2019,LeftFoot,12530,Wolfsburg,Borussia M.Gladbach,2,1,2019-12-15 14:30:00,,None
+337656,55,MissedShots,0.7219999694824218,0.5840000152587891,0.01327310036867857,Maximilian Arnold,h,153,OpenPlay,2019,LeftFoot,12530,Wolfsburg,Borussia M.Gladbach,2,1,2019-12-15 14:30:00,Wout Weghorst,HeadPass
+337663,90,Goal,0.84,0.5320000076293945,0.06576170027256012,Maximilian Arnold,h,153,OpenPlay,2019,LeftFoot,12530,Wolfsburg,Borussia M.Gladbach,2,1,2019-12-15 14:30:00,,None
+338142,2,BlockedShot,0.8590000152587891,0.615999984741211,0.06522010266780853,Maximilian Arnold,h,153,OpenPlay,2019,LeftFoot,12541,Wolfsburg,Schalke 04,1,1,2019-12-18 19:30:00,Josip Brekalo,Pass
+338143,2,MissedShots,0.84,0.6140000152587891,0.048128798604011536,Maximilian Arnold,h,153,OpenPlay,2019,RightFoot,12541,Wolfsburg,Schalke 04,1,1,2019-12-18 19:30:00,,Rebound
+338150,18,BlockedShot,0.8469999694824218,0.24600000381469728,0.026436299085617065,Maximilian Arnold,h,153,FromCorner,2019,LeftFoot,12541,Wolfsburg,Schalke 04,1,1,2019-12-18 19:30:00,Josip Brekalo,Pass
+338156,32,SavedShot,0.7980000305175782,0.615,0.030829399824142456,Maximilian Arnold,h,153,OpenPlay,2019,LeftFoot,12541,Wolfsburg,Schalke 04,1,1,2019-12-18 19:30:00,Wout Weghorst,Pass
+338161,42,BlockedShot,0.7419999694824219,0.45599998474121095,0.021497899666428566,Maximilian Arnold,h,153,OpenPlay,2019,LeftFoot,12541,Wolfsburg,Schalke 04,1,1,2019-12-18 19:30:00,Joao Victor,Pass
+338170,72,MissedShots,0.75,0.28200000762939453,0.04349689930677414,Maximilian Arnold,h,153,DirectFreekick,2019,LeftFoot,12541,Wolfsburg,Schalke 04,1,1,2019-12-18 19:30:00,,Standard
+338547,36,BlockedShot,0.68,0.48200000762939454,0.03377759829163551,Maximilian Arnold,a,153,DirectFreekick,2019,LeftFoot,12547,Bayern Munich,Wolfsburg,2,0,2019-12-21 14:30:00,,Standard
+338548,36,SavedShot,0.6980000305175781,0.4809999847412109,0.01116770040243864,Maximilian Arnold,a,153,SetPiece,2019,LeftFoot,12547,Bayern Munich,Wolfsburg,2,0,2019-12-21 14:30:00,,Rebound
+338551,41,MissedShots,0.81,0.519000015258789,0.05696770176291466,Maximilian Arnold,a,153,OpenPlay,2019,RightFoot,12547,Bayern Munich,Wolfsburg,2,0,2019-12-21 14:30:00,Felix Klaus,Pass
+338563,80,BlockedShot,0.8180000305175781,0.500999984741211,0.0555851012468338,Maximilian Arnold,a,153,OpenPlay,2019,LeftFoot,12547,Bayern Munich,Wolfsburg,2,0,2019-12-21 14:30:00,Paulo Otávio,Pass
+354912,78,BlockedShot,0.7519999694824219,0.4909999847412109,0.020870499312877655,Maximilian Arnold,a,153,OpenPlay,2019,LeftFoot,12563,FC Cologne,Wolfsburg,3,1,2020-01-18 14:30:00,Xaver Schlager,Pass
+354913,81,SavedShot,0.7180000305175781,0.5220000076293946,0.01940849982202053,Maximilian Arnold,a,153,SetPiece,2019,LeftFoot,12563,FC Cologne,Wolfsburg,3,1,2020-01-18 14:30:00,Renato Steffen,Pass
+355689,29,MissedShots,0.7290000152587891,0.6079999923706054,0.018115300685167313,Maximilian Arnold,h,153,OpenPlay,2019,LeftFoot,12569,Wolfsburg,Hertha Berlin,1,2,2020-01-25 14:30:00,Renato Steffen,Pass
+355690,34,BlockedShot,0.8159999847412109,0.5790000152587891,0.04805060103535652,Maximilian Arnold,h,153,OpenPlay,2019,LeftFoot,12569,Wolfsburg,Hertha Berlin,1,2,2020-01-25 14:30:00,Jérôme Roussillon,Pass
+355693,40,MissedShots,0.735999984741211,0.425,0.020735999569296837,Maximilian Arnold,h,153,OpenPlay,2019,LeftFoot,12569,Wolfsburg,Hertha Berlin,1,2,2020-01-25 14:30:00,Josuha Guilavogui,Pass
+355695,48,BlockedShot,0.7290000152587891,0.4370000076293945,0.052622001618146896,Maximilian Arnold,h,153,DirectFreekick,2019,LeftFoot,12569,Wolfsburg,Hertha Berlin,1,2,2020-01-25 14:30:00,,Standard
+355705,77,SavedShot,0.8119999694824219,0.47400001525878904,0.05294660106301308,Maximilian Arnold,h,153,OpenPlay,2019,LeftFoot,12569,Wolfsburg,Hertha Berlin,1,2,2020-01-25 14:30:00,Xaver Schlager,Pass
+357300,75,Goal,0.7580000305175781,0.3629999923706055,0.06121240183711052,Maximilian Arnold,a,153,DirectFreekick,2019,LeftFoot,12582,Paderborn,Wolfsburg,2,4,2020-02-02 17:00:00,,Standard
+361227,34,BlockedShot,0.7219999694824218,0.44299999237060544,0.016991199925541878,Maximilian Arnold,a,153,OpenPlay,2019,LeftFoot,12618,Union Berlin,Wolfsburg,2,2,2020-03-01 12:30:00,Kevin Mbabu,Pass
+361230,53,MissedShots,0.7759999847412109,0.43400001525878906,0.0284752007573843,Maximilian Arnold,a,153,OpenPlay,2019,RightFoot,12618,Union Berlin,Wolfsburg,2,2,2020-03-01 12:30:00,,None
+361684,45,MissedShots,0.7680000305175781,0.605,0.012321400456130505,Maximilian Arnold,h,153,OpenPlay,2019,LeftFoot,12622,Wolfsburg,RasenBallsport Leipzig,0,0,2020-03-07 14:30:00,,Aerial
+361693,75,MissedShots,0.76,0.4570000076293945,0.024523399770259857,Maximilian Arnold,h,153,OpenPlay,2019,LeftFoot,12622,Wolfsburg,RasenBallsport Leipzig,0,0,2020-03-07 14:30:00,Wout Weghorst,Pass
+362908,63,MissedShots,0.7319999694824219,0.33599998474121096,0.015531700104475021,Maximilian Arnold,a,153,OpenPlay,2019,LeftFoot,12634,Augsburg,Wolfsburg,1,2,2020-05-16 13:30:00,Renato Steffen,Pass
+362914,87,MissedShots,0.7190000152587891,0.6,0.01448069978505373,Maximilian Arnold,a,153,OpenPlay,2019,LeftFoot,12634,Augsburg,Wolfsburg,1,2,2020-05-16 13:30:00,Felix Klaus,Pass
+363203,56,BlockedShot,0.6990000152587891,0.500999984741211,0.04011109843850136,Maximilian Arnold,h,153,DirectFreekick,2019,LeftFoot,12640,Wolfsburg,Borussia Dortmund,0,2,2020-05-23 13:30:00,,Standard
+363205,62,BlockedShot,0.7090000152587891,0.575999984741211,0.015444500371813774,Maximilian Arnold,h,153,OpenPlay,2019,LeftFoot,12640,Wolfsburg,Borussia Dortmund,0,2,2020-05-23 13:30:00,Renato Steffen,Pass
+363388,12,SavedShot,0.764000015258789,0.5940000152587891,0.024537600576877594,Maximilian Arnold,a,153,OpenPlay,2019,RightFoot,12654,Bayer Leverkusen,Wolfsburg,1,4,2020-05-26 18:30:00,Josip Brekalo,Pass
+363396,56,MissedShots,0.700999984741211,0.28899999618530275,0.011272699572145939,Maximilian Arnold,a,153,OpenPlay,2019,LeftFoot,12654,Bayer Leverkusen,Wolfsburg,1,4,2020-05-26 18:30:00,,None
+363398,62,BlockedShot,0.8030000305175782,0.47400001525878904,0.049688901752233505,Maximilian Arnold,a,153,OpenPlay,2019,LeftFoot,12654,Bayer Leverkusen,Wolfsburg,1,4,2020-05-26 18:30:00,,Rebound
+363399,63,Goal,0.8090000152587891,0.47200000762939454,0.14880700409412384,Maximilian Arnold,a,153,DirectFreekick,2019,LeftFoot,12654,Bayer Leverkusen,Wolfsburg,1,4,2020-05-26 18:30:00,,Standard
+363588,23,BlockedShot,0.8519999694824218,0.34900001525878904,0.05062570050358772,Maximilian Arnold,h,153,OpenPlay,2019,RightFoot,12657,Wolfsburg,Eintracht Frankfurt,1,2,2020-05-30 13:30:00,,None
+363609,82,BlockedShot,0.7519999694824219,0.585,0.02453939989209175,Maximilian Arnold,h,153,OpenPlay,2019,LeftFoot,12657,Wolfsburg,Eintracht Frankfurt,1,2,2020-05-30 13:30:00,Josip Brekalo,Pass
+363983,45,MissedShots,0.6669999694824219,0.34700000762939454,0.027590999379754066,Maximilian Arnold,a,153,DirectFreekick,2019,LeftFoot,12668,Werder Bremen,Wolfsburg,0,1,2020-06-07 11:30:00,,Standard
+364192,61,MissedShots,0.875,0.35900001525878905,0.07101350277662277,Maximilian Arnold,h,153,OpenPlay,2019,RightFoot,12674,Wolfsburg,Freiburg,2,2,2020-06-13 13:30:00,Felix Klaus,Pass
+364193,69,MissedShots,0.755,0.575999984741211,0.024298299103975296,Maximilian Arnold,h,153,OpenPlay,2019,LeftFoot,12674,Wolfsburg,Freiburg,2,2,2020-06-13 13:30:00,Yannick Gerhardt,Pass
+364196,74,MissedShots,0.785,0.6759999847412109,0.01942550018429756,Maximilian Arnold,h,153,OpenPlay,2019,LeftFoot,12674,Wolfsburg,Freiburg,2,2,2020-06-13 13:30:00,,None
+364511,5,BlockedShot,0.7319999694824219,0.605999984741211,0.0175074003636837,Maximilian Arnold,a,153,OpenPlay,2019,LeftFoot,12685,Borussia M.Gladbach,Wolfsburg,3,0,2020-06-16 16:30:00,Felix Klaus,Pass
+364512,6,MissedShots,0.8930000305175781,0.664000015258789,0.009056519716978073,Maximilian Arnold,a,153,OpenPlay,2019,Head,12685,Borussia M.Gladbach,Wolfsburg,3,0,2020-06-16 16:30:00,Yannick Gerhardt,Aerial
+364519,36,SavedShot,0.7619999694824219,0.4570000076293945,0.01735289953649044,Maximilian Arnold,a,153,OpenPlay,2019,LeftFoot,12685,Borussia M.Gladbach,Wolfsburg,3,0,2020-06-16 16:30:00,,None
+366915,48,SavedShot,0.72,0.7369999694824219,0.03278199955821037,Maximilian Arnold,h,153,DirectFreekick,2019,LeftFoot,12703,Wolfsburg,Bayern Munich,0,4,2020-06-27 13:30:00,,Standard
+366917,52,BlockedShot,0.7659999847412109,0.47299999237060547,0.08349639922380447,Maximilian Arnold,h,153,DirectFreekick,2019,LeftFoot,12703,Wolfsburg,Bayern Munich,0,4,2020-06-27 13:30:00,,Standard
+379674,11,MissedShots,0.759000015258789,0.4420000076293945,0.021439099684357643,Maximilian Arnold,a,153,OpenPlay,2020,RightFoot,14190,Freiburg,Wolfsburg,1,1,2020-09-27 16:00:00,,Dispossessed
+381280,19,SavedShot,0.37099998474121093,0.7080000305175781,0.006402879953384399,Maximilian Arnold,h,153,OpenPlay,2020,LeftFoot,15165,Wolfsburg,Augsburg,0,0,2020-10-04 13:30:00,John Brooks,BallRecovery
+381288,44,MissedShots,0.7030000305175781,0.38599998474121094,0.03781770169734955,Maximilian Arnold,h,153,DirectFreekick,2020,LeftFoot,15165,Wolfsburg,Augsburg,0,0,2020-10-04 13:30:00,,Standard
+382119,10,MissedShots,0.725999984741211,0.735,0.011164999566972256,Maximilian Arnold,a,153,OpenPlay,2020,LeftFoot,15173,Borussia M.Gladbach,Wolfsburg,1,1,2020-10-17 18:30:00,Jérôme Roussillon,Pass
+382137,62,SavedShot,0.754000015258789,0.39,0.01993129961192608,Maximilian Arnold,a,153,OpenPlay,2020,LeftFoot,15173,Borussia M.Gladbach,Wolfsburg,1,1,2020-10-17 18:30:00,Josip Brekalo,Pass
+383932,19,Goal,0.894000015258789,0.5929999923706055,0.40070900321006775,Maximilian Arnold,h,153,OpenPlay,2020,LeftFoot,15182,Wolfsburg,Arminia Bielefeld,2,1,2020-10-25 14:30:00,Admir Mehmedi,Pass
+383944,76,MissedShots,0.7019999694824218,0.6170000076293946,0.01348930038511753,Maximilian Arnold,h,153,OpenPlay,2020,LeftFoot,15182,Wolfsburg,Arminia Bielefeld,2,1,2020-10-25 14:30:00,,None
+386645,29,MissedShots,0.7069999694824218,0.5209999847412109,0.016565699130296707,Maximilian Arnold,h,153,OpenPlay,2020,LeftFoot,15201,Wolfsburg,Hoffenheim,2,1,2020-11-08 14:30:00,Maximilian Philipp,Pass
+387302,19,MissedShots,0.7580000305175781,0.5609999847412109,0.024143699556589127,Maximilian Arnold,a,153,OpenPlay,2020,LeftFoot,15206,Schalke 04,Wolfsburg,0,2,2020-11-21 14:30:00,,Rebound
+387307,34,MissedShots,0.7430000305175781,0.725999984741211,0.014422199688851833,Maximilian Arnold,a,153,OpenPlay,2020,LeftFoot,15206,Schalke 04,Wolfsburg,0,2,2020-11-21 14:30:00,,BallRecovery
+388434,55,MissedShots,0.764000015258789,0.5309999847412109,0.026597000658512115,Maximilian Arnold,h,153,OpenPlay,2020,LeftFoot,15216,Wolfsburg,Werder Bremen,5,3,2020-11-27 19:30:00,Xaver Schlager,Pass
+390139,28,Goal,0.774000015258789,0.36,0.07148600369691849,Maximilian Arnold,a,153,DirectFreekick,2020,LeftFoot,15227,FC Cologne,Wolfsburg,2,2,2020-12-05 14:30:00,,Standard
+391241,15,MissedShots,0.9159999847412109,0.15199999809265136,0.05625550076365471,Maximilian Arnold,h,153,DirectFreekick,2020,LeftFoot,15234,Wolfsburg,Eintracht Frankfurt,2,1,2020-12-11 19:30:00,,Standard
+391252,44,SavedShot,0.745,0.34200000762939453,0.01599919982254505,Maximilian Arnold,h,153,OpenPlay,2020,LeftFoot,15234,Wolfsburg,Eintracht Frankfurt,2,1,2020-12-11 19:30:00,Kevin Mbabu,Pass
+391260,73,SavedShot,0.750999984741211,0.42200000762939455,0.06540410220623016,Maximilian Arnold,h,153,DirectFreekick,2020,LeftFoot,15234,Wolfsburg,Eintracht Frankfurt,2,1,2020-12-11 19:30:00,,Standard
+393154,73,MissedShots,0.40900001525878904,0.8959999847412109,0.0063640400767326355,Maximilian Arnold,a,153,SetPiece,2020,LeftFoot,15245,Bayern Munich,Wolfsburg,2,1,2020-12-16 19:30:00,,Foul
+396889,16,SavedShot,0.7419999694824219,0.23200000762939454,0.010577499866485596,Maximilian Arnold,a,153,OpenPlay,2020,LeftFoot,15258,Borussia Dortmund,Wolfsburg,2,0,2021-01-03 14:30:00,Renato Steffen,Pass
+396891,25,MissedShots,0.7609999847412109,0.48200000762939454,0.0246581993997097,Maximilian Arnold,a,153,OpenPlay,2020,LeftFoot,15258,Borussia Dortmund,Wolfsburg,2,0,2021-01-03 14:30:00,,None
+396903,59,MissedShots,0.720999984741211,0.42700000762939455,0.04778410121798515,Maximilian Arnold,a,153,DirectFreekick,2020,LeftFoot,15258,Borussia Dortmund,Wolfsburg,2,0,2021-01-03 14:30:00,,Standard
+396914,87,MissedShots,0.750999984741211,0.48700000762939455,0.020629700273275375,Maximilian Arnold,a,153,OpenPlay,2020,LeftFoot,15258,Borussia Dortmund,Wolfsburg,2,0,2021-01-03 14:30:00,,None
+397833,26,MissedShots,0.84,0.6409999847412109,0.025745000690221786,Maximilian Arnold,a,153,OpenPlay,2020,LeftFoot,15270,Union Berlin,Wolfsburg,2,2,2021-01-09 14:30:00,,Aerial
+399749,21,MissedShots,0.7319999694824219,0.4879999923706055,0.056484200060367584,Maximilian Arnold,a,153,DirectFreekick,2020,LeftFoot,15290,Mainz 05,Wolfsburg,0,2,2021-01-19 19:30:00,,Standard
+402276,15,BlockedShot,0.8230000305175781,0.32599998474121095,0.037949901074171066,Maximilian Arnold,h,153,OpenPlay,2020,RightFoot,15305,Wolfsburg,Freiburg,3,0,2021-01-31 17:00:00,Yannick Gerhardt,BallTouch
+402282,45,MissedShots,0.6969999694824218,0.43099998474121093,0.013585399836301804,Maximilian Arnold,h,153,OpenPlay,2020,LeftFoot,15305,Wolfsburg,Freiburg,3,0,2021-01-31 17:00:00,,None
+403172,68,MissedShots,0.899000015258789,0.4159999847412109,0.1457509994506836,Maximilian Arnold,a,153,OpenPlay,2020,RightFoot,15318,Augsburg,Wolfsburg,0,2,2021-02-06 14:30:00,,OffsidePass
+404904,23,BlockedShot,0.7769999694824219,0.34900001525878904,0.019936900585889816,Maximilian Arnold,h,153,OpenPlay,2020,LeftFoot,15324,Wolfsburg,Borussia M.Gladbach,0,0,2021-02-14 17:00:00,Bote Baku,Pass
+404919,83,SavedShot,0.7319999694824219,0.5879999923706055,0.013505199924111366,Maximilian Arnold,h,153,OpenPlay,2020,LeftFoot,15324,Wolfsburg,Borussia M.Gladbach,0,0,2021-02-14 17:00:00,,None
+405257,25,SavedShot,0.740999984741211,0.580999984741211,0.020212700590491295,Maximilian Arnold,a,153,OpenPlay,2020,LeftFoot,15337,Arminia Bielefeld,Wolfsburg,0,3,2021-02-19 19:30:00,Bote Baku,Pass
+405265,53,Goal,0.7609999847412109,0.40099998474121096,0.03698360174894333,Maximilian Arnold,a,153,OpenPlay,2020,LeftFoot,15337,Arminia Bielefeld,Wolfsburg,0,3,2021-02-19 19:30:00,Wout Weghorst,LayOff
+406659,40,MissedShots,0.7980000305175782,0.34299999237060547,0.04321590065956116,Maximilian Arnold,h,153,OpenPlay,2020,RightFoot,15342,Wolfsburg,Hertha Berlin,2,0,2021-02-27 14:30:00,,None
+408500,27,MissedShots,0.76,0.42700000762939455,0.023558299988508224,Maximilian Arnold,a,153,OpenPlay,2020,LeftFoot,15353,Hoffenheim,Wolfsburg,2,1,2021-03-06 14:30:00,Xaver Schlager,Pass
+408502,31,SavedShot,0.6919999694824219,0.6359999847412109,0.01532800029963255,Maximilian Arnold,a,153,OpenPlay,2020,LeftFoot,15353,Hoffenheim,Wolfsburg,2,1,2021-03-06 14:30:00,Renato Steffen,Pass
+408504,34,SavedShot,0.7619999694824219,0.28200000762939453,0.014735899865627289,Maximilian Arnold,a,153,OpenPlay,2020,LeftFoot,15353,Hoffenheim,Wolfsburg,2,1,2021-03-06 14:30:00,Wout Weghorst,Pass
+408507,45,SavedShot,0.7919999694824219,0.34,0.019828999415040016,Maximilian Arnold,a,153,FromCorner,2020,LeftFoot,15353,Hoffenheim,Wolfsburg,2,1,2021-03-06 14:30:00,,None
+409868,24,MissedShots,0.735,0.41700000762939454,0.016902800649404526,Maximilian Arnold,h,153,OpenPlay,2020,LeftFoot,15359,Wolfsburg,Schalke 04,5,0,2021-03-13 14:30:00,Admir Mehmedi,Pass
+409872,41,MissedShots,0.7759999847412109,0.395,0.040202800184488297,Maximilian Arnold,h,153,OpenPlay,2020,LeftFoot,15359,Wolfsburg,Schalke 04,5,0,2021-03-13 14:30:00,,None
+409881,70,MissedShots,0.755,0.4929999923706055,0.024654800072312355,Maximilian Arnold,h,153,OpenPlay,2020,LeftFoot,15359,Wolfsburg,Schalke 04,5,0,2021-03-13 14:30:00,Bote Baku,Pass
+411317,33,BlockedShot,0.735999984741211,0.45799999237060546,0.020802300423383713,Maximilian Arnold,a,153,SetPiece,2020,LeftFoot,15372,Werder Bremen,Wolfsburg,1,2,2021-03-20 14:30:00,Xaver Schlager,Pass
+411320,40,MissedShots,0.7430000305175781,0.23600000381469727,0.013426899909973145,Maximilian Arnold,a,153,OpenPlay,2020,LeftFoot,15372,Werder Bremen,Wolfsburg,1,2,2021-03-20 14:30:00,Kevin Mbabu,Pass
+413756,10,BlockedShot,0.7369999694824219,0.6940000152587891,0.015196999534964561,Maximilian Arnold,a,153,OpenPlay,2020,LeftFoot,15385,Eintracht Frankfurt,Wolfsburg,4,3,2021-04-10 13:30:00,Josip Brekalo,Pass
+413761,30,MissedShots,0.7859999847412109,0.37099998474121093,0.026229100301861763,Maximilian Arnold,a,153,OpenPlay,2020,RightFoot,15385,Eintracht Frankfurt,Wolfsburg,4,3,2021-04-10 13:30:00,,None
+413775,66,MissedShots,0.779000015258789,0.575,0.022444600239396095,Maximilian Arnold,a,153,OpenPlay,2020,LeftFoot,15385,Eintracht Frankfurt,Wolfsburg,4,3,2021-04-10 13:30:00,,None
+416519,20,MissedShots,0.7559999847412109,0.34599998474121096,0.05697710067033768,Maximilian Arnold,a,153,DirectFreekick,2020,LeftFoot,15409,VfB Stuttgart,Wolfsburg,1,3,2021-04-21 18:30:00,,Standard
+417172,32,BlockedShot,0.745,0.46,0.022115100175142288,Maximilian Arnold,h,153,OpenPlay,2020,LeftFoot,15413,Wolfsburg,Borussia Dortmund,0,2,2021-04-24 13:30:00,Maximilian Philipp,Pass
+417178,48,BlockedShot,0.74,0.3679999923706055,0.013027699664235115,Maximilian Arnold,h,153,OpenPlay,2020,LeftFoot,15413,Wolfsburg,Borussia Dortmund,0,2,2021-04-24 13:30:00,Yannick Gerhardt,BallRecovery
+417193,91,BlockedShot,0.7430000305175781,0.6179999923706054,0.01576790027320385,Maximilian Arnold,h,153,OpenPlay,2020,LeftFoot,15413,Wolfsburg,Borussia Dortmund,0,2,2021-04-24 13:30:00,Josip Brekalo,Pass
+419973,19,BlockedShot,0.67,0.415,0.03017120063304901,Maximilian Arnold,h,153,DirectFreekick,2020,LeftFoot,15422,Wolfsburg,Union Berlin,3,0,2021-05-08 13:30:00,,Standard
+419982,46,SavedShot,0.8880000305175781,0.14399999618530274,0.0498369000852108,Maximilian Arnold,h,153,DirectFreekick,2020,LeftFoot,15422,Wolfsburg,Union Berlin,3,0,2021-05-08 13:30:00,,Standard
+419985,59,MissedShots,0.7480000305175781,0.5270000076293946,0.06726089864969254,Maximilian Arnold,h,153,DirectFreekick,2020,LeftFoot,15422,Wolfsburg,Union Berlin,3,0,2021-05-08 13:30:00,,Standard
+422795,6,BlockedShot,0.7280000305175781,0.515,0.019468199461698532,Maximilian Arnold,a,153,OpenPlay,2020,LeftFoot,15428,RasenBallsport Leipzig,Wolfsburg,2,2,2021-05-16 18:30:00,Bote Baku,Pass
+422804,36,BlockedShot,0.8019999694824219,0.3270000076293945,0.08299289643764496,Maximilian Arnold,a,153,DirectFreekick,2020,LeftFoot,15428,RasenBallsport Leipzig,Wolfsburg,2,2,2021-05-16 18:30:00,,Standard
+422807,40,SavedShot,0.7269999694824218,0.705,0.015691200271248817,Maximilian Arnold,a,153,OpenPlay,2020,LeftFoot,15428,RasenBallsport Leipzig,Wolfsburg,2,2,2021-05-16 18:30:00,,BallRecovery
+422817,82,BlockedShot,0.7480000305175781,0.495,0.011799800209701061,Maximilian Arnold,a,153,OpenPlay,2020,LeftFoot,15428,RasenBallsport Leipzig,Wolfsburg,2,2,2021-05-16 18:30:00,,Aerial
+423564,7,BlockedShot,0.7140000152587891,0.585,0.015312500298023224,Maximilian Arnold,h,153,OpenPlay,2020,LeftFoot,15440,Wolfsburg,Mainz 05,2,3,2021-05-22 13:30:00,Bote Baku,Pass
+423585,72,SavedShot,0.7619999694824219,0.5459999847412109,0.026294900104403496,Maximilian Arnold,h,153,OpenPlay,2020,LeftFoot,15440,Wolfsburg,Mainz 05,2,3,2021-05-22 13:30:00,Joao Victor,Pass
+425671,40,MissedShots,0.764000015258789,0.49900001525878906,0.0424823984503746,Maximilian Arnold,h,153,OpenPlay,2021,RightFoot,17521,Wolfsburg,Bochum,1,0,2021-08-14 13:30:00,Maximilian Philipp,LayOff
+429289,27,BlockedShot,0.69,0.4,0.03454659879207611,Maximilian Arnold,h,153,DirectFreekick,2021,LeftFoot,17542,Wolfsburg,RasenBallsport Leipzig,1,0,2021-08-29 15:30:00,,Standard
+432163,68,SavedShot,0.7680000305175781,0.500999984741211,0.08652029931545258,Maximilian Arnold,h,153,DirectFreekick,2021,LeftFoot,17560,Wolfsburg,Eintracht Frankfurt,1,1,2021-09-19 17:30:00,,Standard
+433291,5,BlockedShot,0.745999984741211,0.4520000076293945,0.016304099932312965,Maximilian Arnold,a,153,OpenPlay,2021,LeftFoot,17566,Hoffenheim,Wolfsburg,3,1,2021-09-25 13:30:00,,Rebound
+433299,32,MissedShots,0.715999984741211,0.37900001525878907,0.015800200402736664,Maximilian Arnold,a,153,OpenPlay,2021,LeftFoot,17566,Hoffenheim,Wolfsburg,3,1,2021-09-25 13:30:00,Maximilian Philipp,Pass
+433300,34,MissedShots,0.6980000305175781,0.315,0.0140151996165514,Maximilian Arnold,a,153,OpenPlay,2021,LeftFoot,17566,Hoffenheim,Wolfsburg,3,1,2021-09-25 13:30:00,Bote Baku,Pass
+434781,41,BlockedShot,0.745999984741211,0.6559999847412109,0.01430089958012104,Maximilian Arnold,h,153,OpenPlay,2021,LeftFoot,17575,Wolfsburg,Borussia M.Gladbach,1,3,2021-10-02 13:30:00,Gian-Luca Waldschmidt,BallTouch
+434789,61,SavedShot,0.754000015258789,0.4779999923706055,0.021366700530052185,Maximilian Arnold,h,153,OpenPlay,2021,RightFoot,17575,Wolfsburg,Borussia M.Gladbach,1,3,2021-10-02 13:30:00,,None
+436100,59,BlockedShot,0.7019999694824218,0.445,0.015567700378596783,Maximilian Arnold,a,153,OpenPlay,2021,LeftFoot,17584,Union Berlin,Wolfsburg,2,0,2021-10-16 13:30:00,Bote Baku,Pass
+437685,59,BlockedShot,0.765,0.3029999923706055,0.05337750166654587,Maximilian Arnold,h,153,DirectFreekick,2021,LeftFoot,17594,Wolfsburg,Freiburg,0,2,2021-10-23 13:30:00,,Standard
+439568,50,Goal,0.875,0.5579999923706055,0.10995399951934814,Maximilian Arnold,a,153,OpenPlay,2021,LeftFoot,17603,Bayer Leverkusen,Wolfsburg,0,2,2021-10-30 13:30:00,,Rebound
+439575,81,SavedShot,0.7859999847412109,0.315,0.025781000033020973,Maximilian Arnold,a,153,OpenPlay,2021,RightFoot,17603,Bayer Leverkusen,Wolfsburg,0,2,2021-10-30 13:30:00,Kevin Mbabu,Pass
+440946,30,SavedShot,0.7480000305175781,0.49,0.06776139885187149,Maximilian Arnold,h,153,DirectFreekick,2021,LeftFoot,17612,Wolfsburg,Augsburg,1,0,2021-11-06 14:30:00,,Standard
+440950,39,MissedShots,0.6919999694824219,0.475,0.03739960119128227,Maximilian Arnold,h,153,DirectFreekick,2021,LeftFoot,17612,Wolfsburg,Augsburg,1,0,2021-11-06 14:30:00,,Standard
+442489,39,MissedShots,0.7230000305175781,0.7390000152587891,0.012953500263392925,Maximilian Arnold,a,153,OpenPlay,2021,LeftFoot,17615,Arminia Bielefeld,Wolfsburg,2,2,2021-11-20 14:30:00,Jérôme Roussillon,Pass
+442497,70,BlockedShot,0.745999984741211,0.37,0.014097699895501137,Maximilian Arnold,a,153,OpenPlay,2021,LeftFoot,17615,Arminia Bielefeld,Wolfsburg,2,2,2021-11-20 14:30:00,,None
+442498,77,SavedShot,0.8180000305175781,0.355,0.11214199662208557,Maximilian Arnold,a,153,DirectFreekick,2021,LeftFoot,17615,Arminia Bielefeld,Wolfsburg,2,2,2021-11-20 14:30:00,,Standard
+443972,87,SavedShot,0.725,0.5370000076293945,0.009149770252406597,Maximilian Arnold,h,153,OpenPlay,2021,LeftFoot,17630,Wolfsburg,Borussia Dortmund,1,3,2021-11-27 14:30:00,,Rebound
+446107,13,MissedShots,0.5609999847412109,0.6780000305175782,0.005340990144759417,Maximilian Arnold,a,153,OpenPlay,2021,LeftFoot,17635,Mainz 05,Wolfsburg,3,0,2021-12-04 14:30:00,,None
+447918,19,MissedShots,0.71,0.625999984741211,0.014958200044929981,Maximilian Arnold,h,153,OpenPlay,2021,LeftFoot,17648,Wolfsburg,VfB Stuttgart,0,2,2021-12-11 17:30:00,Renato Steffen,Pass
+447920,28,SavedShot,0.8209999847412109,0.5479999923706055,0.1696300059556961,Maximilian Arnold,h,153,DirectFreekick,2021,LeftFoot,17648,Wolfsburg,VfB Stuttgart,0,2,2021-12-11 17:30:00,,Standard
+448817,36,MissedShots,0.7859999847412109,0.5820000076293945,0.024748900905251503,Maximilian Arnold,h,153,OpenPlay,2021,LeftFoot,17658,Wolfsburg,FC Cologne,2,3,2021-12-14 19:30:00,,Rebound
+452660,60,SavedShot,0.7519999694824219,0.6179999923706054,0.00937591027468443,Maximilian Arnold,a,153,OpenPlay,2021,LeftFoot,17670,Bochum,Wolfsburg,1,0,2022-01-09 16:30:00,Maximilian Philipp,Chipped
+455233,90,MissedShots,0.7419999694824219,0.5729999923706055,0.015625400468707085,Maximilian Arnold,a,153,OpenPlay,2021,RightFoot,17695,RasenBallsport Leipzig,Wolfsburg,2,0,2022-01-23 14:30:00,Jérôme Roussillon,Pass
+456340,24,BlockedShot,0.774000015258789,0.4909999847412109,0.03510440140962601,Maximilian Arnold,h,153,OpenPlay,2021,LeftFoot,17702,Wolfsburg,Greuther Fuerth,4,1,2022-02-06 16:30:00,Bote Baku,Pass
+456352,63,BlockedShot,0.759000015258789,0.6990000152587891,0.05025729909539223,Maximilian Arnold,h,153,DirectFreekick,2021,LeftFoot,17702,Wolfsburg,Greuther Fuerth,4,1,2022-02-06 16:30:00,,Standard
+456353,69,Goal,0.7280000305175781,0.28600000381469726,0.036997001618146896,Maximilian Arnold,h,153,DirectFreekick,2021,LeftFoot,17702,Wolfsburg,Greuther Fuerth,4,1,2022-02-06 16:30:00,,Standard
+458131,65,MissedShots,0.7669999694824219,0.6179999923706054,0.0323840007185936,Maximilian Arnold,h,153,OpenPlay,2021,LeftFoot,17720,Wolfsburg,Hoffenheim,1,2,2022-02-19 14:30:00,,None
+462484,83,Goal,0.8680000305175781,0.5690000152587891,0.06940270215272903,Maximilian Arnold,a,153,OpenPlay,2021,LeftFoot,17744,Freiburg,Wolfsburg,3,2,2022-03-12 14:30:00,,Dispossessed
+464683,17,MissedShots,0.7390000152587891,0.265,0.01279310043901205,Maximilian Arnold,h,153,OpenPlay,2021,LeftFoot,17756,Wolfsburg,Bayer Leverkusen,0,2,2022-03-20 16:30:00,Kevin Mbabu,Pass
+464685,22,SavedShot,0.6719999694824219,0.24700000762939453,0.024714000523090363,Maximilian Arnold,h,153,DirectFreekick,2021,LeftFoot,17756,Wolfsburg,Bayer Leverkusen,0,2,2022-03-20 16:30:00,,Standard
+465855,64,BlockedShot,0.7380000305175781,0.664000015258789,0.010611199773848057,Maximilian Arnold,a,153,OpenPlay,2021,RightFoot,17760,Augsburg,Wolfsburg,3,0,2022-04-03 13:30:00,Renato Steffen,Pass
+466636,47,Goal,0.7780000305175782,0.3160000038146973,0.06312619894742966,Maximilian Arnold,h,153,DirectFreekick,2021,LeftFoot,17774,Wolfsburg,Arminia Bielefeld,4,0,2022-04-09 13:30:00,,Standard
+468024,1,MissedShots,0.7319999694824219,0.57,0.017374200746417046,Maximilian Arnold,a,153,OpenPlay,2021,LeftFoot,17785,Borussia Dortmund,Wolfsburg,6,1,2022-04-16 13:30:00,Xaver Schlager,Pass
+471499,22,SavedShot,0.7559999847412109,0.21200000762939453,0.03529519960284233,Maximilian Arnold,a,153,DirectFreekick,2021,LeftFoot,17799,VfB Stuttgart,Wolfsburg,1,1,2022-04-30 13:30:00,,Standard
+471507,35,MissedShots,0.41200000762939454,0.285,0.007180839776992798,Maximilian Arnold,a,153,OpenPlay,2021,LeftFoot,17799,VfB Stuttgart,Wolfsburg,1,1,2022-04-30 13:30:00,,BallRecovery
+473155,61,MissedShots,0.38299999237060545,0.33299999237060546,0.006865600124001503,Maximilian Arnold,a,153,OpenPlay,2021,LeftFoot,17806,FC Cologne,Wolfsburg,0,1,2022-05-07 13:30:00,Bote Baku,Pass
+473161,82,SavedShot,0.8090000152587891,0.061999998092651366,0.01603969931602478,Maximilian Arnold,a,153,FromCorner,2021,LeftFoot,17806,FC Cologne,Wolfsburg,0,1,2022-05-07 13:30:00,Bote Baku,Pass
+475582,4,MissedShots,0.4129999923706055,0.7880000305175782,0.00881551019847393,Maximilian Arnold,h,153,OpenPlay,2021,LeftFoot,17820,Wolfsburg,Bayern Munich,2,2,2022-05-14 13:30:00,,None
+479167,15,MissedShots,0.7530000305175781,0.3659999847412109,0.024594299495220184,Maximilian Arnold,h,153,OpenPlay,2022,LeftFoot,19345,Wolfsburg,Werder Bremen,2,2,2022-08-06 13:30:00,,None
+481040,45,BlockedShot,0.6809999847412109,0.43599998474121093,0.03329470008611679,Maximilian Arnold,a,153,DirectFreekick,2022,LeftFoot,19359,Bayern Munich,Wolfsburg,2,0,2022-08-14 15:30:00,,Standard
+481782,63,BlockedShot,0.8230000305175781,0.49700000762939456,0.04563070088624954,Maximilian Arnold,h,153,FromCorner,2022,LeftFoot,19361,Wolfsburg,Schalke 04,0,0,2022-08-20 13:30:00,,None
+481787,78,SavedShot,0.750999984741211,0.5729999923706055,0.02225480042397976,Maximilian Arnold,h,153,OpenPlay,2022,LeftFoot,19361,Wolfsburg,Schalke 04,0,0,2022-08-20 13:30:00,Max Kruse,Pass
+483561,30,BlockedShot,0.73,0.4779999923706055,0.019541500136256218,Maximilian Arnold,a,153,OpenPlay,2022,RightFoot,19370,RasenBallsport Leipzig,Wolfsburg,2,0,2022-08-27 13:30:00,Lukas Nmecha,LayOff
+489398,50,MissedShots,0.720999984741211,0.48700000762939455,0.012528800405561924,Maximilian Arnold,a,153,OpenPlay,2022,RightFoot,19402,Union Berlin,Wolfsburg,2,0,2022-09-18 13:30:00,,Rebound
+490001,37,Goal,0.7219999694824218,0.47900001525878905,0.0170827005058527,Maximilian Arnold,h,153,OpenPlay,2022,LeftFoot,19410,Wolfsburg,VfB Stuttgart,3,2,2022-10-01 13:30:00,Paulo Otávio,Pass
+491495,45,MissedShots,0.7559999847412109,0.48700000762939455,0.0363738015294075,Maximilian Arnold,a,153,OpenPlay,2022,LeftFoot,19420,Augsburg,Wolfsburg,1,1,2022-10-08 13:30:00,,BallRecovery
+491512,87,SavedShot,0.769000015258789,0.745999984741211,0.01450239960104227,Maximilian Arnold,a,153,OpenPlay,2022,LeftFoot,19420,Augsburg,Wolfsburg,1,1,2022-10-08 13:30:00,Paulo Otávio,TakeOn
+493004,38,SavedShot,0.745999984741211,0.4329999923706055,0.018104400485754013,Maximilian Arnold,h,153,OpenPlay,2022,LeftFoot,19428,Wolfsburg,Borussia M.Gladbach,2,2,2022-10-15 13:30:00,,None
+493016,75,MissedShots,0.7380000305175781,0.605999984741211,0.017212800681591034,Maximilian Arnold,h,153,OpenPlay,2022,RightFoot,19428,Wolfsburg,Borussia M.Gladbach,2,2,2022-10-15 13:30:00,,BallTouch
+493019,86,BlockedShot,0.6959999847412109,0.4879999923706055,0.038942400366067886,Maximilian Arnold,h,153,DirectFreekick,2022,LeftFoot,19428,Wolfsburg,Borussia M.Gladbach,2,2,2022-10-15 13:30:00,,Standard
+494978,53,Goal,0.885,0.5,0.7577769756317139,Maximilian Arnold,a,153,Penalty,2022,LeftFoot,19433,Bayer Leverkusen,Wolfsburg,2,2,2022-10-22 13:30:00,,Standard
+496341,10,MissedShots,0.5470000076293945,0.48700000762939455,0.007801940198987722,Maximilian Arnold,h,153,OpenPlay,2022,LeftFoot,19446,Wolfsburg,Bochum,4,0,2022-10-29 13:30:00,,BallRecovery
+496362,66,MissedShots,0.8619999694824219,0.18600000381469728,0.05751049891114235,Maximilian Arnold,h,153,DirectFreekick,2022,LeftFoot,19446,Wolfsburg,Bochum,4,0,2022-10-29 13:30:00,,Standard
+498022,69,Goal,0.715999984741211,0.24899999618530275,0.030833199620246887,Maximilian Arnold,a,153,DirectFreekick,2022,LeftFoot,19451,Mainz 05,Wolfsburg,0,3,2022-11-05 14:30:00,,Standard
+500068,77,MissedShots,0.855999984741211,0.725999984741211,0.057460200041532516,Maximilian Arnold,a,153,OpenPlay,2022,LeftFoot,19471,Hoffenheim,Wolfsburg,1,2,2022-11-12 14:30:00,Bote Baku,Pass
+504487,36,BlockedShot,0.73,0.2610000038146973,0.01323780044913292,Maximilian Arnold,h,153,SetPiece,2022,LeftFoot,19483,Wolfsburg,Freiburg,6,0,2023-01-21 14:30:00,Patrick Wimmer,Pass
+504496,75,SavedShot,0.8009999847412109,0.509000015258789,0.06787510216236115,Maximilian Arnold,h,153,OpenPlay,2022,LeftFoot,19483,Wolfsburg,Freiburg,6,0,2023-01-21 14:30:00,Patrick Wimmer,Pass
+505341,30,Goal,0.885,0.5,0.7577769756317139,Maximilian Arnold,a,153,Penalty,2022,LeftFoot,19492,Hertha Berlin,Wolfsburg,0,5,2023-01-24 19:30:00,,Standard
+505750,52,SavedShot,0.749000015258789,0.19600000381469726,0.03207780048251152,Maximilian Arnold,a,153,DirectFreekick,2022,LeftFoot,19503,Werder Bremen,Wolfsburg,2,1,2023-01-28 14:30:00,,Standard
+507795,65,MissedShots,0.7,0.5279999923706055,0.0102377999573946,Maximilian Arnold,h,153,OpenPlay,2022,LeftFoot,19509,Wolfsburg,Bayern Munich,2,4,2023-02-05 16:30:00,Felix Nmecha,BallRecovery
+508090,8,ShotOnPost,0.885,0.5,0.7577769756317139,Maximilian Arnold,a,153,Penalty,2022,LeftFoot,19520,Schalke 04,Wolfsburg,0,0,2023-02-10 19:30:00,,Standard
+509542,73,SavedShot,0.76,0.26899999618530274,0.04495669901371002,Maximilian Arnold,h,153,DirectFreekick,2022,LeftFoot,19527,Wolfsburg,RasenBallsport Leipzig,0,3,2023-02-18 14:30:00,,Standard
+510777,33,SavedShot,0.765,0.38,0.024983199313282967,Maximilian Arnold,a,153,OpenPlay,2022,LeftFoot,19534,FC Cologne,Wolfsburg,0,2,2023-02-25 14:30:00,Bote Baku,Pass
+510780,44,BlockedShot,0.7659999847412109,0.555,0.03576219826936722,Maximilian Arnold,a,153,OpenPlay,2022,LeftFoot,19534,FC Cologne,Wolfsburg,0,2,2023-02-25 14:30:00,Patrick Wimmer,Pass
+510786,67,Goal,0.885,0.5,0.7577769756317139,Maximilian Arnold,a,153,Penalty,2022,LeftFoot,19534,FC Cologne,Wolfsburg,0,2,2023-02-25 14:30:00,,Standard
+510787,72,BlockedShot,0.7390000152587891,0.63,0.01669370010495186,Maximilian Arnold,a,153,OpenPlay,2022,LeftFoot,19534,FC Cologne,Wolfsburg,0,2,2023-02-25 14:30:00,,None
+516210,1,OwnGoal,0.051999998092651364,0.435,0,Maximilian Arnold,h,153,FromCorner,2022,Head,19571,Wolfsburg,Augsburg,2,2,2023-04-01 13:30:00,,CornerAwarded
+516214,20,MissedShots,0.885,0.5,0.7577769756317139,Maximilian Arnold,h,153,Penalty,2022,LeftFoot,19571,Wolfsburg,Augsburg,2,2,2023-04-01 13:30:00,,Standard
+516218,38,SavedShot,0.68,0.5940000152587891,0.011688300408422947,Maximilian Arnold,h,153,OpenPlay,2022,LeftFoot,19571,Wolfsburg,Augsburg,2,2,2023-04-01 13:30:00,Paulo Otávio,Pass
+516225,57,BlockedShot,0.674000015258789,0.36700000762939455,0.007811480201780796,Maximilian Arnold,h,153,OpenPlay,2022,LeftFoot,19571,Wolfsburg,Augsburg,2,2,2023-04-01 13:30:00,Maxence Lacroix,Pass
+516227,67,MissedShots,0.7319999694824219,0.37400001525878906,0.016898099333047867,Maximilian Arnold,h,153,OpenPlay,2022,LeftFoot,19571,Wolfsburg,Augsburg,2,2,2023-04-01 13:30:00,Maxence Lacroix,Pass
+516231,76,SavedShot,0.805,0.39099998474121095,0.042243100702762604,Maximilian Arnold,h,153,OpenPlay,2022,LeftFoot,19571,Wolfsburg,Augsburg,2,2,2023-04-01 13:30:00,Jakub Kaminski,Pass
+525838,42,SavedShot,0.7580000305175781,0.4159999847412109,0.02865433879196644,Maximilian Arnold,h,153,OpenPlay,2022,LeftFoot,19627,Wolfsburg,Hoffenheim,2,1,2023-05-13 13:30:00,Mattias Svanberg,Pass
+529060,41,BlockedShot,0.9730000305175781,0.395,0.039300523698329926,Maximilian Arnold,h,153,FromCorner,2022,Head,19645,Wolfsburg,Hertha Berlin,1,2,2023-05-27 13:30:00,Patrick Wimmer,Cross
+536112,5,SavedShot,0.8119999694824219,0.305,0.029029786586761475,Maximilian Arnold,a,153,OpenPlay,2023,LeftFoot,23085,Hoffenheim,Wolfsburg,3,1,2023-09-02 13:30:00,,BallTouch
+538995,57,BlockedShot,0.73,0.585999984741211,0.01110935490578413,Maximilian Arnold,a,153,SetPiece,2023,RightFoot,23105,Borussia Dortmund,Wolfsburg,1,0,2023-09-23 13:30:00,,None
+540988,60,SavedShot,0.7390000152587891,0.5279999923706055,0.06065789610147476,Maximilian Arnold,h,153,DirectFreekick,2023,LeftFoot,23113,Wolfsburg,Eintracht Frankfurt,2,0,2023-09-30 13:30:00,,Standard
+542557,68,MissedShots,0.7319999694824219,0.375,0.048631273210048676,Maximilian Arnold,a,153,DirectFreekick,2023,LeftFoot,23123,VfB Stuttgart,Wolfsburg,3,1,2023-10-07 13:30:00,,Standard
+543904,0,MissedShots,0.639000015258789,0.605999984741211,0.00906445737928152,Maximilian Arnold,h,153,OpenPlay,2023,LeftFoot,23131,Wolfsburg,Bayer Leverkusen,1,2,2023-10-21 13:30:00,,BallRecovery
+545414,10,SavedShot,0.8069999694824219,0.6229999923706054,0.03709889203310013,Maximilian Arnold,a,153,OpenPlay,2023,LeftFoot,23144,Augsburg,Wolfsburg,3,2,2023-10-28 13:30:00,Patrick Wimmer,Pass
+547439,89,BlockedShot,0.745,0.3139999961853027,0.04643337428569794,Maximilian Arnold,h,153,DirectFreekick,2023,LeftFoot,23149,Wolfsburg,Werder Bremen,2,2,2023-11-05 14:30:00,,Standard
+547967,25,SavedShot,0.7669999694824219,0.24100000381469727,0.04247753694653511,Maximilian Arnold,a,153,DirectFreekick,2023,LeftFoot,23158,Borussia M.Gladbach,Wolfsburg,4,0,2023-11-10 19:30:00,,Standard
+555652,45,Goal,0.7769999694824219,0.674000015258789,0.017455996945500374,Maximilian Arnold,h,153,OpenPlay,2023,LeftFoot,23204,Wolfsburg,Bayern Munich,1,2,2023-12-20 19:30:00,Joakim Maehle,Pass
+555660,91,SavedShot,0.7219999694824218,0.4640000152587891,0.014154082164168358,Maximilian Arnold,h,153,OpenPlay,2023,LeftFoot,23204,Wolfsburg,Bayern Munich,1,2,2023-12-20 19:30:00,Václav Cerny,BallRecovery
+558971,77,MissedShots,0.7730000305175782,0.45099998474121095,0.04670429974794388,Maximilian Arnold,a,153,OpenPlay,2023,RightFoot,23225,FC Heidenheim,Wolfsburg,1,1,2024-01-20 14:30:00,,TakeOn
+561738,8,MissedShots,0.7780000305175782,0.6659999847412109,0.011674975045025349,Maximilian Arnold,h,153,FromCorner,2023,LeftFoot,23239,Wolfsburg,Hoffenheim,2,2,2024-02-04 14:30:00,Kevin Paredes,Chipped
+562542,41,BlockedShot,0.7569999694824219,0.6930000305175781,0.015244298614561558,Maximilian Arnold,a,153,OpenPlay,2023,LeftFoot,23248,Union Berlin,Wolfsburg,1,0,2024-02-10 14:30:00,Lovro Majer,Pass
+562546,64,BlockedShot,0.740999984741211,0.5359999847412109,0.01639857329428196,Maximilian Arnold,a,153,FromCorner,2023,LeftFoot,23248,Union Berlin,Wolfsburg,1,0,2024-02-10 14:30:00,,None
+562555,86,BlockedShot,0.8109999847412109,0.3189999961853027,0.08693339675664902,Maximilian Arnold,a,153,DirectFreekick,2023,LeftFoot,23248,Union Berlin,Wolfsburg,1,0,2024-02-10 14:30:00,,Standard
+563733,62,BlockedShot,0.845999984741211,0.4129999923706055,0.02986767143011093,Maximilian Arnold,h,153,FromCorner,2023,Head,23256,Wolfsburg,Borussia Dortmund,1,1,2024-02-17 14:30:00,,None
+565731,1,ShotOnPost,0.769000015258789,0.580999984741211,0.019887413829565048,Maximilian Arnold,a,153,FromCorner,2023,LeftFoot,23267,Eintracht Frankfurt,Wolfsburg,2,2,2024-02-25 14:30:00,,None
+566866,45,MissedShots,0.8059999847412109,0.30100000381469727,0.019039498642086983,Maximilian Arnold,h,153,FromCorner,2023,RightFoot,23274,Wolfsburg,VfB Stuttgart,2,3,2024-03-02 17:30:00,,None
+569318,12,MissedShots,0.775,0.33299999237060546,0.02452181465923786,Maximilian Arnold,h,153,OpenPlay,2023,LeftFoot,23293,Wolfsburg,Augsburg,1,3,2024-03-16 14:30:00,Joakim Maehle,Pass
+569338,73,BlockedShot,0.7869999694824219,0.37900001525878907,0.028084449470043182,Maximilian Arnold,h,153,OpenPlay,2023,LeftFoot,23293,Wolfsburg,Augsburg,1,3,2024-03-16 14:30:00,Jonas Wind,Pass
+570533,16,SavedShot,0.7680000305175781,0.23700000762939452,0.013404503464698792,Maximilian Arnold,a,153,OpenPlay,2023,LeftFoot,23304,Werder Bremen,Wolfsburg,0,2,2024-03-30 14:30:00,Bote Baku,Pass
+570539,45,BlockedShot,0.8130000305175781,0.51,0.050196558237075806,Maximilian Arnold,a,153,SetPiece,2023,LeftFoot,23304,Werder Bremen,Wolfsburg,0,2,2024-03-30 14:30:00,Yannick Gerhardt,Pass
+570546,66,MissedShots,0.76,0.4420000076293945,0.03144180402159691,Maximilian Arnold,a,153,OpenPlay,2023,LeftFoot,23304,Werder Bremen,Wolfsburg,0,2,2024-03-30 14:30:00,Kevin Behrens,Pass
+573580,54,MissedShots,0.7019999694824218,0.43200000762939456,0.014790658839046955,Maximilian Arnold,a,153,OpenPlay,2023,LeftFoot,23318,RasenBallsport Leipzig,Wolfsburg,3,0,2024-04-13 13:30:00,Bote Baku,Pass
+573581,55,SavedShot,0.7330000305175781,0.3729999923706055,0.013456454500555992,Maximilian Arnold,a,153,OpenPlay,2023,LeftFoot,23318,RasenBallsport Leipzig,Wolfsburg,3,0,2024-04-13 13:30:00,,None
+576633,10,BlockedShot,0.715999984741211,0.4159999847412109,0.014628864824771881,Maximilian Arnold,a,153,OpenPlay,2023,LeftFoot,23337,Freiburg,Wolfsburg,1,2,2024-04-27 13:30:00,Bote Baku,Pass
+576656,81,Goal,0.769000015258789,0.26899999618530274,0.04831380397081375,Maximilian Arnold,a,153,DirectFreekick,2023,LeftFoot,23337,Freiburg,Wolfsburg,1,2,2024-04-27 13:30:00,,Standard
+578314,48,SavedShot,0.7230000305175781,0.45,0.05007557198405266,Maximilian Arnold,h,153,DirectFreekick,2023,LeftFoot,23347,Wolfsburg,Darmstadt,3,0,2024-05-04 13:30:00,,Standard
+578317,61,SavedShot,0.7340000152587891,0.35200000762939454,0.01730629988014698,Maximilian Arnold,h,153,OpenPlay,2023,LeftFoot,23347,Wolfsburg,Darmstadt,3,0,2024-05-04 13:30:00,Lovro Majer,Pass
+581578,12,MissedShots,0.8119999694824219,0.7080000305175781,0.019359583035111427,Maximilian Arnold,h,153,OpenPlay,2023,LeftFoot,23366,Wolfsburg,Mainz 05,1,3,2024-05-18 13:30:00,,Rebound
+581580,22,SavedShot,0.6980000305175781,0.495,0.03972192853689194,Maximilian Arnold,h,153,DirectFreekick,2023,LeftFoot,23366,Wolfsburg,Mainz 05,1,3,2024-05-18 13:30:00,,Standard
+581599,94,MissedShots,0.715,0.41400001525878904,0.00878452230244875,Maximilian Arnold,h,153,OpenPlay,2023,LeftFoot,23366,Wolfsburg,Mainz 05,1,3,2024-05-18 13:30:00,,None
+586705,71,MissedShots,0.7319999694824219,0.385,0.017215950414538383,Maximilian Arnold,h,153,SetPiece,2024,LeftFoot,27749,Wolfsburg,Bayern Munich,2,3,2024-08-25 13:30:00,Tiago Tomás,Pass
+589076,26,Goal,0.7190000152587891,0.48900001525878906,0.049075935035943985,Maximilian Arnold,a,153,DirectFreekick,2024,LeftFoot,27754,Holstein Kiel,Wolfsburg,0,2,2024-08-31 13:30:00,,Standard
+590622,53,MissedShots,0.7140000152587891,0.6480000305175782,0.010994238778948784,Maximilian Arnold,h,153,OpenPlay,2024,LeftFoot,27764,Wolfsburg,Eintracht Frankfurt,1,2,2024-09-14 13:30:00,,None
+592985,40,SavedShot,0.764000015258789,0.5570000076293945,0.024830766022205353,Maximilian Arnold,a,153,OpenPlay,2024,RightFoot,27775,Bayer Leverkusen,Wolfsburg,4,3,2024-09-22 13:30:00,Tiago Tomás,Pass
+595353,23,BlockedShot,0.7769999694824219,0.36700000762939455,0.014533856883645058,Maximilian Arnold,a,153,FromCorner,2024,LeftFoot,27792,Bochum,Wolfsburg,1,3,2024-10-05 13:30:00,,Aerial
+599999,74,SavedShot,0.755,0.6890000152587891,0.05026375502347946,Maximilian Arnold,h,153,DirectFreekick,2024,LeftFoot,27820,Wolfsburg,Augsburg,1,1,2024-11-02 14:30:00,,Standard
+602838,93,SavedShot,0.784000015258789,0.6869999694824219,0.06588436663150787,Maximilian Arnold,h,153,DirectFreekick,2024,LeftFoot,27838,Wolfsburg,Union Berlin,1,0,2024-11-23 14:30:00,,Standard
+604019,53,BlockedShot,0.7880000305175782,0.29200000762939454,0.014424270018935204,Maximilian Arnold,a,153,SetPiece,2024,RightFoot,27841,RasenBallsport Leipzig,Wolfsburg,1,5,2024-11-30 14:30:00,,Rebound
+604018,53,BlockedShot,0.7730000305175782,0.30100000381469727,0.056842125952243805,Maximilian Arnold,a,153,DirectFreekick,2024,LeftFoot,27841,RasenBallsport Leipzig,Wolfsburg,1,5,2024-11-30 14:30:00,,Standard
+606391,48,BlockedShot,0.750999984741211,0.285,0.044322315603494644,Maximilian Arnold,h,153,DirectFreekick,2024,LeftFoot,27853,Wolfsburg,Mainz 05,4,3,2024-12-08 14:30:00,,Standard
+606398,58,MissedShots,0.44599998474121094,0.6819999694824219,0.009640336968004704,Maximilian Arnold,h,153,OpenPlay,2024,LeftFoot,27853,Wolfsburg,Mainz 05,4,3,2024-12-08 14:30:00,,BallRecovery
+606823,90,BlockedShot,0.749000015258789,0.41400001525878904,0.020997315645217896,Maximilian Arnold,a,153,OpenPlay,2024,LeftFoot,27862,Freiburg,Wolfsburg,3,2,2024-12-13 19:30:00,Bote Baku,Pass
+606826,92,SavedShot,0.7069999694824218,0.49700000762939456,0.015849724411964417,Maximilian Arnold,a,153,OpenPlay,2024,LeftFoot,27862,Freiburg,Wolfsburg,3,2,2024-12-13 19:30:00,Denis Vavro,Pass
+608849,83,SavedShot,0.7730000305175782,0.27100000381469724,0.01222999021410942,Maximilian Arnold,h,153,OpenPlay,2024,LeftFoot,27874,Wolfsburg,Borussia Dortmund,1,3,2024-12-22 16:30:00,Bote Baku,Pass
+610609,34,MissedShots,0.7659999847412109,0.5540000152587891,0.039179299026727676,Maximilian Arnold,a,153,OpenPlay,2024,LeftFoot,27879,Hoffenheim,Wolfsburg,0,1,2025-01-11 14:30:00,,None
+611413,48,MissedShots,0.7569999694824219,0.4129999923706055,0.0282719936221838,Maximilian Arnold,h,153,OpenPlay,2024,LeftFoot,27891,Wolfsburg,Borussia M.Gladbach,5,1,2025-01-14 19:30:00,Patrick Wimmer,Pass
+611420,74,Goal,0.91,0.6819999694824219,0.0669914036989212,Maximilian Arnold,h,153,OpenPlay,2024,LeftFoot,27891,Wolfsburg,Borussia M.Gladbach,5,1,2025-01-14 19:30:00,,None
+612212,93,MissedShots,0.8469999694824218,0.519000015258789,0.028399737551808357,Maximilian Arnold,a,153,OpenPlay,2024,LeftFoot,27897,Bayern Munich,Wolfsburg,3,2,2025-01-18 14:30:00,,Aerial
+616079,15,SavedShot,0.6969999694824218,0.39799999237060546,0.0365426167845726,Maximilian Arnold,h,153,DirectFreekick,2024,LeftFoot,27927,Wolfsburg,Bayer Leverkusen,0,0,2025-02-08 14:30:00,,Standard
+616083,32,SavedShot,0.9290000152587891,0.49700000762939456,0.3763863146305084,Maximilian Arnold,h,153,FromCorner,2024,Head,27927,Wolfsburg,Bayer Leverkusen,0,0,2025-02-08 14:30:00,Mattias Svanberg,Cross
+621161,86,BlockedShot,0.7730000305175782,0.5690000152587891,0.021135924383997917,Maximilian Arnold,h,153,OpenPlay,2024,LeftFoot,27964,Wolfsburg,St. Pauli,1,1,2025-03-08 14:30:00,,Rebound
+622594,58,BlockedShot,0.745,0.3509999847412109,0.05195640027523041,Maximilian Arnold,a,153,DirectFreekick,2024,LeftFoot,27971,Augsburg,Wolfsburg,1,0,2025-03-15 14:30:00,,Standard
+624119,33,MissedShots,0.7869999694824219,0.26799999237060546,0.05555101856589317,Maximilian Arnold,h,153,DirectFreekick,2024,LeftFoot,27981,Wolfsburg,FC Heidenheim,0,1,2025-03-29 14:30:00,,Standard
+628484,2,Goal,0.710999984741211,0.3679999923706055,0.013365977443754673,Maximilian Arnold,a,153,OpenPlay,2024,LeftFoot,28009,Mainz 05,Wolfsburg,2,2,2025-04-19 13:30:00,Kevin Paredes,Pass
+628491,14,MissedShots,0.61,0.20299999237060548,0.020068027079105377,Maximilian Arnold,a,153,DirectFreekick,2024,LeftFoot,28009,Mainz 05,Wolfsburg,2,2,2025-04-19 13:30:00,,Standard
+628496,29,SavedShot,0.7930000305175782,0.6,0.039060141891241074,Maximilian Arnold,a,153,OpenPlay,2024,LeftFoot,28009,Mainz 05,Wolfsburg,2,2,2025-04-19 13:30:00,Mohammed Amoura,Pass
+634329,41,SavedShot,0.695,0.35700000762939454,0.011837059631943703,Maximilian Arnold,a,153,OpenPlay,2024,LeftFoot,28046,Borussia M.Gladbach,Wolfsburg,0,1,2025-05-17 13:30:00,Lovro Majer,Pass
+638706,9,MissedShots,0.7530000305175781,0.23299999237060548,0.012341576628386974,Maximilian Arnold,a,153,OpenPlay,2025,LeftFoot,30225,FC Heidenheim,Wolfsburg,1,3,2025-08-23 13:30:00,Andreas Skov Olsen,Pass
+638710,23,MissedShots,0.7669999694824219,0.4209999847412109,0.032246723771095276,Maximilian Arnold,a,153,OpenPlay,2025,LeftFoot,30225,FC Heidenheim,Wolfsburg,1,3,2025-08-23 13:30:00,Lovro Majer,Pass
+638720,48,SavedShot,0.759000015258789,0.325,0.01656813733279705,Maximilian Arnold,a,153,OpenPlay,2025,LeftFoot,30225,FC Heidenheim,Wolfsburg,1,3,2025-08-23 13:30:00,Andreas Skov Olsen,Pass
+641646,98,Goal,0.7980000305175782,0.7230000305175781,0.06322522461414337,Maximilian Arnold,h,153,DirectFreekick,2025,LeftFoot,30246,Wolfsburg,FC Cologne,3,3,2025-09-13 13:30:00,,Standard
+651919,37,SavedShot,0.875999984741211,0.14800000190734863,0.02851220965385437,Maximilian Arnold,a,153,FromCorner,2025,LeftFoot,30313,Werder Bremen,Wolfsburg,2,1,2025-11-07 19:30:00,Christian Eriksen,Pass
+653480,72,SavedShot,0.7069999694824218,0.375,0.007829072885215282,Maximilian Arnold,h,153,OpenPlay,2025,RightFoot,30322,Wolfsburg,Bayer Leverkusen,1,3,2025-11-22 14:30:00,,None
+658148,55,MissedShots,0.779000015258789,0.34299999237060547,0.02328994683921337,Maximilian Arnold,a,153,OpenPlay,2025,RightFoot,30343,Borussia M.Gladbach,Wolfsburg,1,3,2025-12-13 14:30:00,,None
+662800,2,BlockedShot,0.76,0.5570000076293945,0.03718346357345581,Maximilian Arnold,a,153,OpenPlay,2025,LeftFoot,30360,Bayern Munich,Wolfsburg,8,1,2026-01-11 16:30:00,,TakeOn
+663409,72,SavedShot,0.6790000152587891,0.5820000076293945,0.03228991478681564,Maximilian Arnold,h,153,DirectFreekick,2025,LeftFoot,30385,Wolfsburg,FC Heidenheim,1,1,2026-01-17 14:30:00,,Standard
+665749,19,MissedShots,0.7030000305175781,0.6969999694824218,0.012215396389365196,Maximilian Arnold,a,153,OpenPlay,2025,LeftFoot,30398,FC Cologne,Wolfsburg,1,0,2026-01-30 19:30:00,Yannick Gerhardt,Pass
+667120,90,BlockedShot,0.7830000305175782,0.6819999694824219,0.02219492383301258,Maximilian Arnold,h,153,OpenPlay,2025,LeftFoot,30412,Wolfsburg,Borussia Dortmund,1,2,2026-02-07 14:30:00,Jesper Lindstrom,Pass
+675204,80,BlockedShot,0.8540000152587891,0.6140000152587891,0.06360698491334915,Maximilian Arnold,h,153,OpenPlay,2025,LeftFoot,30466,Wolfsburg,Werder Bremen,0,1,2026-03-21 14:30:00,Kento Shiogai,Pass
+677747,80,BlockedShot,0.7519999694824219,0.5020000076293946,0.01588888093829155,Maximilian Arnold,h,153,OpenPlay,2025,LeftFoot,30484,Wolfsburg,Eintracht Frankfurt,1,2,2026-04-11 13:30:00,,None

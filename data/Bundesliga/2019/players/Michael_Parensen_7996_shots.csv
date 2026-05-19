@@ -1,0 +1,4 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+325418,55,MissedShots,0.784000015258789,0.3240000152587891,0.0300804004073143,Michael Parensen,h,7996,OpenPlay,2019,RightFoot,12468,Union Berlin,Freiburg,2,0,2019-10-19 14:30:00,Christopher Trimmel,Pass
+336849,42,SavedShot,0.8930000305175781,0.6140000152587891,0.01693289913237095,Michael Parensen,a,7996,SetPiece,2019,Head,12537,Paderborn,Union Berlin,1,1,2019-12-14 14:30:00,,None
+339322,47,Goal,0.9740000152587891,0.5109999847412109,0.8628190159797668,Michael Parensen,a,7996,FromCorner,2019,LeftFoot,12550,Fortuna Duesseldorf,Union Berlin,2,1,2019-12-22 14:30:00,,Rebound

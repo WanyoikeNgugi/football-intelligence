@@ -1,0 +1,25 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+374330,14,MissedShots,0.9430000305175781,0.40299999237060546,0.018178099766373634,Sebastian Walukiewicz,h,8030,FromCorner,2019,Head,13449,Cagliari,Juventus,2,0,2020-07-29 19:45:00,Marko Rog,Aerial
+378915,66,MissedShots,0.965999984741211,0.43,0.09544889628887177,Sebastian Walukiewicz,h,8030,SetPiece,2020,LeftFoot,14124,Cagliari,Lazio,0,2,2020-09-26 16:00:00,Charalampos Lykogiannis,Cross
+382504,11,MissedShots,0.9330000305175781,0.515,0.11957799643278122,Sebastian Walukiewicz,a,8030,FromCorner,2020,LeftFoot,15462,Torino,Cagliari,2,3,2020-10-18 13:00:00,,None
+389571,45,SavedShot,0.904000015258789,0.38799999237060545,0.017636800184845924,Sebastian Walukiewicz,h,8030,SetPiece,2020,Head,15509,Cagliari,Spezia,2,2,2020-11-29 17:00:00,,Aerial
+427976,23,MissedShots,0.9630000305175781,0.544000015258789,0.5875319838523865,Sebastian Walukiewicz,h,8030,FromCorner,2021,LeftFoot,16764,Cagliari,Spezia,2,2,2021-08-23 16:30:00,,None
+497010,83,SavedShot,0.92,0.500999984741211,0.13604600727558136,Sebastian Walukiewicz,h,8030,FromCorner,2022,RightFoot,18693,Empoli,Atalanta,0,2,2022-10-30 11:30:00,,Rebound
+519030,86,ShotOnPost,0.9590000152587891,0.5940000152587891,0.07184380292892456,Sebastian Walukiewicz,a,8030,FromCorner,2022,RightFoot,18873,Cremonese,Empoli,1,0,2023-04-14 16:30:00,Razvan Marin,Cross
+540252,18,SavedShot,0.7680000305175781,0.29700000762939455,0.014277244918048382,Sebastian Walukiewicz,h,8030,OpenPlay,2023,RightFoot,22356,Empoli,Salernitana,1,0,2023-09-27 16:30:00,,None
+541582,10,BlockedShot,0.745999984741211,0.28899999618530275,0.019882535561919212,Sebastian Walukiewicz,a,8030,OpenPlay,2023,RightFoot,22366,Bologna,Empoli,3,0,2023-10-01 10:30:00,Youssef Maleh,TakeOn
+559891,0,SavedShot,0.870999984741211,0.5429999923706055,0.02965567260980606,Sebastian Walukiewicz,a,8030,SetPiece,2023,OtherBodyPart,22517,Juventus,Empoli,1,1,2024-01-27 17:00:00,Youssef Maleh,Aerial
+561055,73,MissedShots,0.9209999847412109,0.5209999847412109,0.12301700562238693,Sebastian Walukiewicz,h,8030,SetPiece,2023,Head,22530,Empoli,Genoa,0,0,2024-02-03 14:00:00,Liberato Cacace,Cross
+591994,25,MissedShots,0.925,0.29100000381469726,0.04761218652129173,Sebastian Walukiewicz,a,8030,OpenPlay,2024,RightFoot,27405,Verona,Torino,2,3,2024-09-20 18:45:00,,None
+592001,41,MissedShots,0.7569999694824219,0.46099998474121096,0.03284900262951851,Sebastian Walukiewicz,a,8030,OpenPlay,2024,RightFoot,27405,Verona,Torino,2,3,2024-09-20 18:45:00,Duván Zapata,Pass
+592005,59,BlockedShot,0.7880000305175782,0.40700000762939453,0.04681411385536194,Sebastian Walukiewicz,a,8030,OpenPlay,2024,RightFoot,27405,Verona,Torino,2,3,2024-09-20 18:45:00,,None
+603405,73,BlockedShot,0.8969999694824219,0.47400001525878904,0.12104163318872452,Sebastian Walukiewicz,h,8030,OpenPlay,2024,RightFoot,27488,Torino,Monza,1,1,2024-11-24 14:00:00,,Rebound
+620360,26,SavedShot,0.8690000152587891,0.4809999847412109,0.11348636448383331,Sebastian Walukiewicz,a,8030,OpenPlay,2024,RightFoot,27628,Monza,Torino,0,2,2025-03-02 11:30:00,Nikola Vlasic,Pass
+620364,47,MissedShots,0.755,0.43400001525878906,0.028001490980386734,Sebastian Walukiewicz,a,8030,OpenPlay,2024,RightFoot,27628,Monza,Torino,0,2,2025-03-02 11:30:00,Eljif Elmas,Pass
+649587,25,BlockedShot,0.745,0.28299999237060547,0.015338415279984474,Sebastian Walukiewicz,h,8030,FromCorner,2025,RightFoot,29922,Sassuolo,Roma,0,1,2025-10-26 13:00:00,Domenico Berardi,Pass
+658480,27,BlockedShot,0.740999984741211,0.40599998474121096,0.012042079120874405,Sebastian Walukiewicz,a,8030,SetPiece,2025,RightFoot,29989,AC Milan,Sassuolo,2,2,2025-12-14 11:30:00,,None
+659699,55,MissedShots,0.855999984741211,0.28600000381469726,0.03398372232913971,Sebastian Walukiewicz,h,8030,OpenPlay,2025,RightFoot,30002,Sassuolo,Torino,0,1,2025-12-21 14:00:00,,None
+661783,1,MissedShots,0.9,0.509000015258789,0.04808982461690903,Sebastian Walukiewicz,h,8030,FromCorner,2025,RightFoot,30032,Sassuolo,Juventus,0,3,2026-01-06 19:45:00,,Aerial
+663758,21,BlockedShot,0.7859999847412109,0.2610000038146973,0.016050023958086967,Sebastian Walukiewicz,a,8030,OpenPlay,2025,RightFoot,30047,Napoli,Sassuolo,1,0,2026-01-17 17:00:00,Andrea Pinamonti,Pass
+665106,42,MissedShots,0.7780000305175782,0.29100000381469726,0.022733040153980255,Sebastian Walukiewicz,h,8030,OpenPlay,2025,RightFoot,30062,Sassuolo,Cremonese,1,0,2026-01-25 11:30:00,Ismaël Koné,Pass
+676450,52,MissedShots,0.7819999694824219,0.44799999237060545,0.03178219124674797,Sebastian Walukiewicz,h,8030,OpenPlay,2025,RightFoot,30151,Sassuolo,Cagliari,2,1,2026-04-04 13:00:00,,None

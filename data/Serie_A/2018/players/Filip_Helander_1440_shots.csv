@@ -1,0 +1,22 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+95884,32,Goal,0.9769999694824218,0.47,0.7774080038070679,Filip Helander,h,1440,SetPiece,2015,Head,604,Verona,Lazio,1,2,2015-09-27 17:00:00,,Rebound
+96221,12,MissedShots,0.93,0.5120000076293946,0.11705400049686432,Filip Helander,a,1440,FromCorner,2015,Head,612,Chievo,Verona,1,1,2015-10-03 22:45:00,Federico Viviani,Cross
+97439,3,MissedShots,0.8769999694824219,0.5659999847412109,0.021360399201512337,Filip Helander,a,1440,FromCorner,2015,Head,634,Sampdoria,Verona,4,1,2015-10-25 15:30:00,Jacopo Sala,Cross
+94895,11,Goal,0.9440000152587891,0.54,0.12483999878168106,Filip Helander,h,1440,FromCorner,2015,Head,783,Verona,Inter,3,3,2016-02-07 15:30:00,Luca Marrone,Cross
+97109,15,MissedShots,0.905,0.5420000076293945,0.06647489964962006,Filip Helander,a,1440,FromCorner,2015,Head,816,Udinese,Verona,2,0,2016-02-28 18:00:00,Luca Marrone,Cross
+148088,9,Goal,0.9519999694824218,0.5479999923706055,0.5639140009880066,Filip Helander,a,1440,SetPiece,2016,LeftFoot,1006,Lazio,Bologna,1,1,2016-10-16 17:00:00,Ibrahima Mbaye,HeadPass
+149584,2,MissedShots,0.924000015258789,0.5209999847412109,0.10682199895381927,Filip Helander,h,1440,FromCorner,2016,Head,3290,Bologna,Fiorentina,0,1,2016-10-29 20:00:00,Ladislav Krejci,Cross
+148792,6,BlockedShot,0.8859999847412109,0.44299999237060544,0.04880309849977493,Filip Helander,a,1440,SetPiece,2016,Head,3613,Sassuolo,Bologna,0,1,2017-03-12 11:30:00,Simone Verdi,Cross
+175367,31,BlockedShot,0.89,0.44,0.09361670166254044,Filip Helander,a,1440,FromCorner,2017,LeftFoot,7604,Roma,Bologna,1,0,2017-10-28 19:45:00,,Rebound
+175767,24,SavedShot,0.9219999694824219,0.47299999237060547,0.04590880125761032,Filip Helander,a,1440,FromCorner,2017,Head,7621,Verona,Bologna,2,3,2017-11-20 19:45:00,Simone Verdi,Aerial
+209775,56,BlockedShot,0.84,0.6940000152587891,0.024144699797034264,Filip Helander,a,1440,FromCorner,2017,LeftFoot,7820,Sampdoria,Bologna,1,0,2018-04-18 18:45:00,,None
+218730,76,BlockedShot,0.8769999694824219,0.4929999923706055,0.014148400165140629,Filip Helander,h,1440,FromCorner,2018,Head,9585,Bologna,SPAL 2013,0,1,2018-08-19 21:30:00,Blerim Dzemaili,Aerial
+218736,94,ShotOnPost,0.885,0.44400001525878907,0.07905659824609756,Filip Helander,h,1440,OpenPlay,2018,RightFoot,9585,Bologna,SPAL 2013,0,1,2018-08-19 21:30:00,Riccardo Orsolini,Cross
+221842,8,SavedShot,0.97,0.5829999923706055,0.2598460018634796,Filip Helander,h,1440,FromCorner,2018,Head,9598,Bologna,Inter,0,3,2018-09-01 16:00:00,Danilo,HeadPass
+254824,28,BlockedShot,0.7769999694824219,0.519000015258789,0.012993499636650085,Filip Helander,a,1440,SetPiece,2018,LeftFoot,9673,Sassuolo,Bologna,2,2,2018-10-28 10:30:00,Giancarlo Gonzalez,Aerial
+254825,28,MissedShots,0.8159999847412109,0.48700000762939455,0.039699699729681015,Filip Helander,a,1440,SetPiece,2018,RightFoot,9673,Sassuolo,Bologna,2,2,2018-10-28 10:30:00,,Rebound
+253305,29,BlockedShot,0.925,0.5479999923706055,0.03998129814863205,Filip Helander,a,1440,FromCorner,2018,Head,9688,Chievo,Bologna,2,2,2018-11-11 14:00:00,Ladislav Krejci,Aerial
+254673,69,MissedShots,0.915,0.4759999847412109,0.060465000569820404,Filip Helander,a,1440,OpenPlay,2018,Head,9740,Parma Calcio 1913,Bologna,0,0,2018-12-22 14:00:00,Federico Mattiello,Aerial
+276855,44,MissedShots,0.875,0.46799999237060547,0.05197929963469505,Filip Helander,h,1440,FromCorner,2018,RightFoot,9783,Bologna,Frosinone,0,4,2019-01-27 14:00:00,Erick Pulgar,Cross
+277740,77,BlockedShot,0.899000015258789,0.47200000762939454,0.07748600095510483,Filip Helander,a,1440,OpenPlay,2018,RightFoot,9814,Roma,Bologna,2,1,2019-02-18 19:30:00,Roberto Soriano,Cross
+277851,16,MissedShots,0.8619999694824219,0.63,0.007671699859201908,Filip Helander,h,1440,SetPiece,2018,Head,9817,Bologna,Juventus,0,1,2019-02-24 14:00:00,Erick Pulgar,Aerial

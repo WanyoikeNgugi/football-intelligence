@@ -1,0 +1,100 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+336407,77,MissedShots,0.9530000305175781,0.49900001525878906,0.5814499855041504,Julian Ryerson,h,7997,OpenPlay,2019,RightFoot,12528,Union Berlin,FC Cologne,2,0,2019-12-08 14:30:00,Marius Bülter,Cross
+363554,27,BlockedShot,0.7390000152587891,0.645,0.01721080020070076,Julian Ryerson,h,7997,OpenPlay,2019,LeftFoot,12651,Union Berlin,Mainz 05,1,1,2020-05-27 18:30:00,Marcus Ingvartsen,Pass
+378763,81,MissedShots,0.6559999847412109,0.47900001525878905,0.007683400064706802,Julian Ryerson,a,7997,SetPiece,2020,RightFoot,14186,Borussia M.Gladbach,Union Berlin,1,1,2020-09-26 13:30:00,,None
+391757,93,MissedShots,0.750999984741211,0.53,0.02409910038113594,Julian Ryerson,h,7997,OpenPlay,2020,RightFoot,15236,Union Berlin,Bayern Munich,1,1,2020-12-12 17:30:00,Keita Endo,Pass
+401582,80,MissedShots,0.8930000305175781,0.36,0.0660059005022049,Julian Ryerson,h,7997,OpenPlay,2020,RightFoot,15307,Union Berlin,Borussia M.Gladbach,1,1,2021-01-30 14:30:00,,Rebound
+409135,0,BlockedShot,0.7819999694824219,0.5420000076293945,0.034683700650930405,Julian Ryerson,a,7997,OpenPlay,2020,RightFoot,15350,Arminia Bielefeld,Union Berlin,0,0,2021-03-07 17:00:00,Christopher Trimmel,Pass
+411367,79,BlockedShot,0.870999984741211,0.6769999694824219,0.06166410073637962,Julian Ryerson,a,7997,OpenPlay,2020,LeftFoot,15368,Eintracht Frankfurt,Union Berlin,5,2,2021-03-20 14:30:00,Cedric Teuchert,Pass
+413275,11,ShotOnPost,0.8730000305175781,0.7040000152587891,0.058707401156425476,Julian Ryerson,h,7997,OpenPlay,2020,RightFoot,15379,Union Berlin,Hertha Berlin,1,1,2021-04-04 16:00:00,,None
+429237,66,BlockedShot,0.7769999694824219,0.425,0.0314490981400013,Julian Ryerson,h,7997,OpenPlay,2021,LeftFoot,17541,Union Berlin,Borussia M.Gladbach,2,1,2021-08-29 13:30:00,Levin Öztunali,Pass
+429238,67,MissedShots,0.7469999694824219,0.715,0.019925599917769432,Julian Ryerson,h,7997,FromCorner,2021,RightFoot,17541,Union Berlin,Borussia M.Gladbach,2,1,2021-08-29 13:30:00,Christopher Trimmel,Cross
+432007,55,SavedShot,0.915,0.46,0.30248600244522095,Julian Ryerson,a,7997,OpenPlay,2021,Head,17559,Borussia Dortmund,Union Berlin,4,2,2021-09-19 15:30:00,Max Kruse,Cross
+432011,67,SavedShot,0.875,0.265,0.03342929854989052,Julian Ryerson,a,7997,OpenPlay,2021,RightFoot,17559,Borussia Dortmund,Union Berlin,4,2,2021-09-19 15:30:00,Cedric Teuchert,Pass
+433283,83,BlockedShot,0.91,0.29100000381469726,0.024244800209999084,Julian Ryerson,h,7997,OpenPlay,2021,RightFoot,17562,Union Berlin,Arminia Bielefeld,1,0,2021-09-25 13:30:00,Max Kruse,Cross
+435560,48,BlockedShot,0.875999984741211,0.509000015258789,0.0730689987540245,Julian Ryerson,a,7997,OpenPlay,2021,LeftFoot,17573,Mainz 05,Union Berlin,1,2,2021-10-03 13:30:00,,None
+435561,48,BlockedShot,0.8690000152587891,0.49900001525878906,0.08024179935455322,Julian Ryerson,a,7997,OpenPlay,2021,RightFoot,17573,Mainz 05,Union Berlin,1,2,2021-10-03 13:30:00,,Rebound
+436091,4,MissedShots,0.9180000305175782,0.4540000152587891,0.05501509830355644,Julian Ryerson,h,7997,OpenPlay,2021,Head,17584,Union Berlin,Wolfsburg,2,0,2021-10-16 13:30:00,Max Kruse,Aerial
+439552,64,Goal,0.925,0.49200000762939455,0.45466500520706177,Julian Ryerson,h,7997,OpenPlay,2021,LeftFoot,17602,Union Berlin,Bayern Munich,2,5,2021-10-30 13:30:00,Kevin Behrens,Pass
+441882,8,Goal,0.8130000305175781,0.3579999923706055,0.037607599049806595,Julian Ryerson,a,7997,OpenPlay,2021,RightFoot,17608,FC Cologne,Union Berlin,2,2,2021-11-07 16:30:00,Niko Gießelmann,Pass
+444747,92,SavedShot,0.745,0.504000015258789,0.016671599820256233,Julian Ryerson,a,7997,OpenPlay,2021,LeftFoot,17629,Eintracht Frankfurt,Union Berlin,2,1,2021-11-28 14:30:00,Sheraldo Becker,Chipped
+445861,83,MissedShots,0.7659999847412109,0.34,0.024515900760889053,Julian Ryerson,h,7997,FromCorner,2021,RightFoot,17639,Union Berlin,RasenBallsport Leipzig,2,1,2021-12-03 19:30:00,Niko Gießelmann,Cross
+448379,63,MissedShots,0.7319999694824219,0.445,0.025770900771021843,Julian Ryerson,a,7997,FromCorner,2021,RightFoot,17642,Greuther Fuerth,Union Berlin,1,0,2021-12-12 14:30:00,Genki Haraguchi,Pass
+458214,42,SavedShot,0.87,0.5059999847412109,0.027070200070738792,Julian Ryerson,a,7997,OpenPlay,2021,Head,17715,Arminia Bielefeld,Union Berlin,1,0,2022-02-19 14:30:00,Bastian Oczipka,Aerial
+460922,34,MissedShots,0.88,0.6819999694824219,0.03846770152449608,Julian Ryerson,a,7997,FromCorner,2021,LeftFoot,17738,Wolfsburg,Union Berlin,1,0,2022-03-05 14:30:00,,None
+464906,77,MissedShots,0.860999984741211,0.5870000076293945,0.025501299649477005,Julian Ryerson,h,7997,OpenPlay,2021,Head,17764,Union Berlin,FC Cologne,1,0,2022-04-01 18:30:00,,None
+473066,45,BlockedShot,0.6880000305175781,0.4279999923706055,0.016183100640773773,Julian Ryerson,a,7997,OpenPlay,2021,RightFoot,17809,Freiburg,Union Berlin,1,4,2022-05-07 13:30:00,Genki Haraguchi,Pass
+479121,18,MissedShots,0.705,0.659000015258789,0.011883700266480446,Julian Ryerson,h,7997,OpenPlay,2022,RightFoot,19343,Union Berlin,Hertha Berlin,3,1,2022-08-06 13:30:00,Jordan Siebatcheu,Pass
+479122,20,BlockedShot,0.7340000152587891,0.5970000076293945,0.011313900351524353,Julian Ryerson,h,7997,SetPiece,2022,RightFoot,19343,Union Berlin,Hertha Berlin,3,1,2022-08-06 13:30:00,,None
+479123,26,SavedShot,0.7909999847412109,0.7080000305175781,0.01957309991121292,Julian Ryerson,h,7997,OpenPlay,2022,RightFoot,19343,Union Berlin,Hertha Berlin,3,1,2022-08-06 13:30:00,Robin Knoche,Chipped
+479128,37,SavedShot,0.8680000305175781,0.6179999923706054,0.30543598532676697,Julian Ryerson,h,7997,OpenPlay,2022,LeftFoot,19343,Union Berlin,Hertha Berlin,3,1,2022-08-06 13:30:00,Jordan Siebatcheu,Pass
+480907,52,MissedShots,0.7190000152587891,0.38599998474121094,0.019117500633001328,Julian Ryerson,a,7997,OpenPlay,2022,LeftFoot,19358,Mainz 05,Union Berlin,0,0,2022-08-14 13:30:00,Genki Haraguchi,Pass
+480911,58,BlockedShot,0.8040000152587891,0.295,0.014872999861836433,Julian Ryerson,a,7997,OpenPlay,2022,LeftFoot,19358,Mainz 05,Union Berlin,0,0,2022-08-14 13:30:00,Sheraldo Becker,Cross
+482053,14,BlockedShot,0.8630000305175781,0.4909999847412109,0.07105520367622375,Julian Ryerson,h,7997,OpenPlay,2022,RightFoot,19366,Union Berlin,RasenBallsport Leipzig,2,1,2022-08-20 16:30:00,Janik Haberer,HeadPass
+482070,76,MissedShots,0.769000015258789,0.73,0.016695400699973106,Julian Ryerson,h,7997,OpenPlay,2022,RightFoot,19366,Union Berlin,RasenBallsport Leipzig,2,1,2022-08-20 16:30:00,Genki Haraguchi,Pass
+488029,82,BlockedShot,0.815,0.5209999847412109,0.04658680036664009,Julian Ryerson,a,7997,OpenPlay,2022,RightFoot,19394,FC Cologne,Union Berlin,0,1,2022-09-11 13:30:00,,TakeOn
+488030,94,SavedShot,0.7680000305175781,0.7069999694824218,0.02313919924199581,Julian Ryerson,a,7997,FromCorner,2022,RightFoot,19394,FC Cologne,Union Berlin,0,1,2022-09-11 13:30:00,Diogo Leite,Pass
+492481,50,MissedShots,0.735,0.6140000152587891,0.014650999568402767,Julian Ryerson,a,7997,FromCorner,2022,RightFoot,19421,VfB Stuttgart,Union Berlin,0,1,2022-10-09 17:30:00,,None
+493816,28,MissedShots,0.8580000305175781,0.7240000152587891,0.05025729909539223,Julian Ryerson,h,7997,OpenPlay,2022,RightFoot,19425,Union Berlin,Borussia Dortmund,2,0,2022-10-16 15:30:00,Diogo Leite,Pass
+497273,68,SavedShot,0.720999984741211,0.475,0.01084230002015829,Julian Ryerson,h,7997,SetPiece,2022,RightFoot,19443,Union Berlin,Borussia M.Gladbach,2,1,2022-10-30 14:30:00,,None
+498727,1,SavedShot,0.754000015258789,0.654000015258789,0.017590299248695374,Julian Ryerson,a,7997,OpenPlay,2022,RightFoot,19458,Bayer Leverkusen,Union Berlin,5,0,2022-11-06 14:30:00,Morten Thorsby,Pass
+498740,65,BlockedShot,0.9059999847412109,0.6609999847412109,0.08189229667186737,Julian Ryerson,a,7997,OpenPlay,2022,RightFoot,19458,Bayer Leverkusen,Union Berlin,5,0,2022-11-06 14:30:00,,TakeOn
+499488,84,MissedShots,0.8440000152587891,0.705999984741211,0.03804229944944382,Julian Ryerson,h,7997,OpenPlay,2022,RightFoot,19461,Union Berlin,Augsburg,2,2,2022-11-09 19:30:00,,BallRecovery
+504988,26,MissedShots,0.720999984741211,0.3,0.009425019845366478,Julian Ryerson,h,7997,OpenPlay,2022,RightFoot,19477,Borussia Dortmund,Augsburg,4,3,2023-01-22 14:30:00,,None
+505430,3,Goal,0.7269999694824218,0.325,0.010153899900615215,Julian Ryerson,a,7997,OpenPlay,2022,LeftFoot,19489,Mainz 05,Borussia Dortmund,1,2,2023-01-25 17:30:00,Niklas Süle,Chipped
+506305,72,MissedShots,0.7480000305175781,0.649000015258789,0.010981500148773193,Julian Ryerson,a,7997,OpenPlay,2022,RightFoot,19496,Bayer Leverkusen,Borussia Dortmund,0,2,2023-01-29 16:30:00,,Aerial
+508258,11,MissedShots,0.79,0.4879999923706055,0.0572546012699604,Julian Ryerson,a,7997,OpenPlay,2022,LeftFoot,19521,Werder Bremen,Borussia Dortmund,0,2,2023-02-11 14:30:00,Giovanni Reyna,Pass
+508276,82,SavedShot,0.86,0.305,0.05454619973897934,Julian Ryerson,a,7997,OpenPlay,2022,RightFoot,19521,Werder Bremen,Borussia Dortmund,0,2,2023-02-11 14:30:00,Emre Can,Pass
+513712,4,MissedShots,0.8919999694824219,0.385,0.08404839783906937,Julian Ryerson,a,7997,OpenPlay,2022,RightFoot,19556,Schalke 04,Borussia Dortmund,2,2,2023-03-11 17:30:00,Sébastien Haller,BallTouch
+515248,61,MissedShots,0.8909999847412109,0.6990000152587891,0.06544700264930725,Julian Ryerson,h,7997,OpenPlay,2022,RightFoot,19558,Borussia Dortmund,FC Cologne,6,1,2023-03-18 17:30:00,Raphael Guerreiro,Pass
+516610,33,MissedShots,0.8569999694824219,0.685,0.016453100368380547,Julian Ryerson,a,7997,OpenPlay,2022,RightFoot,19574,Bayern Munich,Borussia Dortmund,4,2,2023-04-01 16:30:00,Raphael Guerreiro,HeadPass
+525175,21,SavedShot,0.8090000152587891,0.645,0.05195759981870651,Julian Ryerson,h,7997,OpenPlay,2022,RightFoot,19612,Borussia Dortmund,Wolfsburg,6,0,2023-05-07 15:30:00,Karim Adeyemi,BallRecovery
+528164,52,BlockedShot,0.7680000305175781,0.7090000152587891,0.013485987670719624,Julian Ryerson,a,7997,FromCorner,2022,LeftFoot,19635,Augsburg,Borussia Dortmund,0,3,2023-05-21 15:30:00,Julian Brandt,TakeOn
+538992,54,BlockedShot,0.884000015258789,0.3039999961853027,0.05059276893734932,Julian Ryerson,h,7997,OpenPlay,2023,RightFoot,23105,Borussia Dortmund,Wolfsburg,1,0,2023-09-23 13:30:00,Felix Nmecha,Pass
+539005,92,MissedShots,0.7519999694824219,0.3039999961853027,0.012232830747961998,Julian Ryerson,h,7997,SetPiece,2023,RightFoot,23105,Borussia Dortmund,Wolfsburg,1,0,2023-09-23 13:30:00,,Rebound
+540715,29,MissedShots,0.9219999694824219,0.295,0.04964521527290344,Julian Ryerson,a,7997,OpenPlay,2023,RightFoot,23110,Hoffenheim,Borussia Dortmund,1,3,2023-09-29 18:30:00,Ramy Bensebaini,Chipped
+540728,94,Goal,0.885,0.6229999923706054,0.32819145917892456,Julian Ryerson,a,7997,OpenPlay,2023,RightFoot,23110,Hoffenheim,Borussia Dortmund,1,3,2023-09-29 18:30:00,,TakeOn
+542610,70,Goal,0.769000015258789,0.5420000076293945,0.04157080501317978,Julian Ryerson,h,7997,OpenPlay,2023,RightFoot,23120,Borussia Dortmund,Union Berlin,4,2,2023-10-07 13:30:00,,None
+543587,23,SavedShot,0.794000015258789,0.725999984741211,0.01690857857465744,Julian Ryerson,h,7997,OpenPlay,2023,RightFoot,23128,Borussia Dortmund,Werder Bremen,1,0,2023-10-20 18:30:00,,None
+543589,30,BlockedShot,0.7880000305175782,0.57,0.034387700259685516,Julian Ryerson,h,7997,OpenPlay,2023,RightFoot,23128,Borussia Dortmund,Werder Bremen,1,0,2023-10-20 18:30:00,,None
+547016,11,MissedShots,0.7809999847412109,0.6940000152587891,0.019243044778704643,Julian Ryerson,h,7997,OpenPlay,2023,RightFoot,23146,Borussia Dortmund,Bayern Munich,0,4,2023-11-04 17:30:00,Marco Reus,Pass
+549609,1,BlockedShot,0.765,0.3270000076293945,0.021098507568240166,Julian Ryerson,h,7997,OpenPlay,2023,RightFoot,23164,Borussia Dortmund,Borussia M.Gladbach,4,2,2023-11-25 14:30:00,Julian Brandt,Pass
+551932,4,Goal,0.9309999847412109,0.545,0.5677531361579895,Julian Ryerson,a,7997,OpenPlay,2023,LeftFoot,23175,Bayer Leverkusen,Borussia Dortmund,1,1,2023-12-03 16:30:00,Niclas Füllkrug,Pass
+562163,55,MissedShots,0.9309999847412109,0.46700000762939453,0.4988032579421997,Julian Ryerson,h,7997,OpenPlay,2023,RightFoot,23246,Borussia Dortmund,Freiburg,3,0,2024-02-09 19:30:00,Donyell Malen,Cross
+563722,21,SavedShot,0.8419999694824218,0.3220000076293945,0.05124286562204361,Julian Ryerson,a,7997,OpenPlay,2023,RightFoot,23256,Wolfsburg,Borussia Dortmund,1,1,2024-02-17 14:30:00,Marco Reus,Pass
+571004,82,Goal,0.8590000152587891,0.3659999847412109,0.08624202758073807,Julian Ryerson,a,7997,OpenPlay,2023,RightFoot,23299,Bayern Munich,Borussia Dortmund,0,2,2024-03-30 17:30:00,Sébastien Haller,Pass
+573530,76,MissedShots,0.7709999847412109,0.7230000305175781,0.025908268988132477,Julian Ryerson,a,7997,OpenPlay,2023,RightFoot,23321,Borussia M.Gladbach,Borussia Dortmund,1,2,2024-04-13 13:30:00,Felix Nmecha,Pass
+573532,86,BlockedShot,0.835,0.38299999237060545,0.0667911246418953,Julian Ryerson,a,7997,OpenPlay,2023,RightFoot,23321,Borussia M.Gladbach,Borussia Dortmund,1,2,2024-04-13 13:30:00,,None
+575664,15,MissedShots,0.7330000305175781,0.4179999923706055,0.019573749974370003,Julian Ryerson,h,7997,OpenPlay,2023,RightFoot,23326,Borussia Dortmund,Bayer Leverkusen,1,1,2024-04-21 15:30:00,Jamie Bynoe-Gittens,Pass
+576704,48,SavedShot,0.92,0.6320000076293946,0.0960720032453537,Julian Ryerson,a,7997,OpenPlay,2023,LeftFoot,23336,RasenBallsport Leipzig,Borussia Dortmund,4,1,2024-04-27 13:30:00,Jadon Sancho,Pass
+581478,68,SavedShot,0.825999984741211,0.6430000305175781,0.08110566437244415,Julian Ryerson,h,7997,OpenPlay,2023,RightFoot,23362,Borussia Dortmund,Darmstadt,4,0,2024-05-18 13:30:00,Jadon Sancho,TakeOn
+586336,61,BlockedShot,0.9080000305175782,0.3060000038146973,0.04544944316148758,Julian Ryerson,h,7997,OpenPlay,2024,RightFoot,27748,Borussia Dortmund,Eintracht Frankfurt,2,0,2024-08-24 16:30:00,,Rebound
+593646,7,MissedShots,0.865999984741211,0.7230000305175781,0.034211788326501846,Julian Ryerson,h,7997,OpenPlay,2024,RightFoot,27778,Borussia Dortmund,Bochum,4,2,2024-09-27 18:30:00,Pascal Groß,Pass
+595398,61,Goal,0.860999984741211,0.6430000305175781,0.063902348279953,Julian Ryerson,a,7997,OpenPlay,2024,RightFoot,27791,Union Berlin,Borussia Dortmund,2,1,2024-10-05 13:30:00,Julian Brandt,Pass
+595399,72,SavedShot,0.815,0.485,0.04764930531382561,Julian Ryerson,a,7997,OpenPlay,2024,RightFoot,27791,Union Berlin,Borussia Dortmund,2,1,2024-10-05 13:30:00,,None
+596632,21,SavedShot,0.86,0.295,0.03704550117254257,Julian Ryerson,h,7997,OpenPlay,2024,LeftFoot,27798,Borussia Dortmund,St. Pauli,2,1,2024-10-18 18:30:00,Julian Brandt,Pass
+596654,86,BlockedShot,0.87,0.3170000076293945,0.055829375982284546,Julian Ryerson,h,7997,OpenPlay,2024,RightFoot,27798,Borussia Dortmund,St. Pauli,2,1,2024-10-18 18:30:00,,Rebound
+602756,48,MissedShots,0.7619999694824219,0.33099998474121095,0.021600574254989624,Julian Ryerson,h,7997,OpenPlay,2024,RightFoot,27835,Borussia Dortmund,Freiburg,4,0,2024-11-23 14:30:00,,BallTouch
+614774,32,BlockedShot,0.7859999847412109,0.3890000152587891,0.031873367726802826,Julian Ryerson,a,7997,OpenPlay,2024,RightFoot,27920,FC Heidenheim,Borussia Dortmund,1,2,2025-02-01 14:30:00,Marcel Sabitzer,Pass
+614781,56,MissedShots,0.7959999847412109,0.3579999923706055,0.03135436400771141,Julian Ryerson,a,7997,OpenPlay,2024,RightFoot,27920,FC Heidenheim,Borussia Dortmund,1,2,2025-02-01 14:30:00,Pascal Groß,HeadPass
+614785,74,BlockedShot,0.7519999694824219,0.40400001525878904,0.028059326112270355,Julian Ryerson,a,7997,OpenPlay,2024,RightFoot,27920,FC Heidenheim,Borussia Dortmund,1,2,2025-02-01 14:30:00,Serhou Guirassy,Pass
+618627,24,MissedShots,0.805,0.2670000076293945,0.020643776282668114,Julian Ryerson,h,7997,OpenPlay,2024,RightFoot,27942,Borussia Dortmund,Union Berlin,6,0,2025-02-22 17:30:00,Karim Adeyemi,BallTouch
+624783,82,MissedShots,0.7619999694824219,0.36200000762939455,0.016755295917391777,Julian Ryerson,h,7997,SetPiece,2024,RightFoot,27979,Borussia Dortmund,Mainz 05,3,1,2025-03-30 16:30:00,,BallTouch
+629340,64,SavedShot,0.789000015258789,0.3320000076293945,0.02797335758805275,Julian Ryerson,h,7997,OpenPlay,2024,LeftFoot,28004,Borussia Dortmund,Borussia M.Gladbach,3,2,2025-04-20 15:30:00,Pascal Groß,TakeOn
+630255,47,BlockedShot,0.8959999847412109,0.30100000381469727,0.06872531026601791,Julian Ryerson,a,7997,OpenPlay,2024,RightFoot,28016,Hoffenheim,Borussia Dortmund,2,3,2025-04-26 13:30:00,Jamie Bynoe-Gittens,Dispossessed
+630259,66,BlockedShot,0.8519999694824218,0.27,0.031300414353609085,Julian Ryerson,a,7997,OpenPlay,2024,RightFoot,28016,Hoffenheim,Borussia Dortmund,2,3,2025-04-26 13:30:00,Felix Nmecha,Pass
+633553,42,Goal,0.85,0.37599998474121094,0.07386941462755203,Julian Ryerson,a,7997,OpenPlay,2024,RightFoot,28030,Bayer Leverkusen,Borussia Dortmund,2,4,2025-05-11 13:30:00,Pascal Groß,Pass
+634427,24,BlockedShot,0.855,0.4279999923706055,0.1010555550456047,Julian Ryerson,h,7997,OpenPlay,2024,RightFoot,28040,Borussia Dortmund,Holstein Kiel,3,0,2025-05-17 13:30:00,Serhou Guirassy,Pass
+634440,59,MissedShots,0.835999984741211,0.4590000152587891,0.07445578277111053,Julian Ryerson,h,7997,OpenPlay,2024,LeftFoot,28040,Borussia Dortmund,Holstein Kiel,3,0,2025-05-17 13:30:00,,None
+652210,21,BlockedShot,0.7769999694824219,0.34700000762939454,0.02182558923959732,Julian Ryerson,a,7997,SetPiece,2025,RightFoot,30309,Hamburger SV,Borussia Dortmund,1,1,2025-11-08 14:30:00,Carney Chukwuemeka,Pass
+652222,63,BlockedShot,0.8169999694824219,0.485,0.04174535721540451,Julian Ryerson,a,7997,FromCorner,2025,RightFoot,30309,Hamburger SV,Borussia Dortmund,1,1,2025-11-08 14:30:00,,None
+653518,34,BlockedShot,0.915,0.3820000076293945,0.19196853041648865,Julian Ryerson,h,7997,OpenPlay,2025,LeftFoot,30316,Borussia Dortmund,VfB Stuttgart,3,3,2025-11-22 14:30:00,Julian Brandt,TakeOn
+658677,13,MissedShots,0.78,0.5479999923706055,0.03673837333917618,Julian Ryerson,a,7997,OpenPlay,2025,RightFoot,30345,Freiburg,Borussia Dortmund,1,1,2025-12-14 14:30:00,,BallRecovery
+662299,58,BlockedShot,0.8530000305175781,0.4279999923706055,0.09129787981510162,Julian Ryerson,a,7997,OpenPlay,2025,RightFoot,30362,Eintracht Frankfurt,Borussia Dortmund,3,3,2026-01-09 19:30:00,Maximilian Beier,Pass
+664973,13,BlockedShot,0.7930000305175782,0.43200000762939456,0.046787381172180176,Julian Ryerson,a,7997,OpenPlay,2025,RightFoot,30394,Union Berlin,Borussia Dortmund,0,3,2026-01-24 17:30:00,Serhou Guirassy,Pass
+667098,29,MissedShots,0.8830000305175781,0.2929999923706055,0.03753434866666794,Julian Ryerson,a,7997,OpenPlay,2025,RightFoot,30412,Wolfsburg,Borussia Dortmund,1,2,2026-02-07 14:30:00,Daniel Svensson,HeadPass
+667106,42,BlockedShot,0.8240000152587891,0.43599998474121093,0.07134087383747101,Julian Ryerson,a,7997,OpenPlay,2025,RightFoot,30412,Wolfsburg,Borussia Dortmund,1,2,2026-02-07 14:30:00,,None
+675530,42,MissedShots,0.7290000152587891,0.6419999694824219,0.013716774061322212,Julian Ryerson,h,7997,FromCorner,2025,RightFoot,30460,Borussia Dortmund,Hamburger SV,3,2,2026-03-21 17:30:00,,None
+681571,15,MissedShots,0.8930000305175781,0.42,0.11541618406772614,Julian Ryerson,h,7997,OpenPlay,2025,LeftFoot,30495,Borussia Dortmund,Freiburg,4,0,2026-04-26 15:30:00,Samuele Inácio,Cross
+683373,58,SavedShot,0.925,0.655,0.3450523018836975,Julian Ryerson,h,7997,FromCorner,2025,RightFoot,30513,Borussia Dortmund,Eintracht Frankfurt,3,2,2026-05-08 18:30:00,,None
+683377,70,MissedShots,0.8809999847412109,0.4129999923706055,0.07298672944307327,Julian Ryerson,h,7997,OpenPlay,2025,RightFoot,30513,Borussia Dortmund,Eintracht Frankfurt,3,2,2026-05-08 18:30:00,Nico Schlotterbeck,Cross

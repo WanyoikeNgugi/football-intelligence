@@ -1,0 +1,4 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+405058,8,Goal,0.8430000305175781,0.4859999847412109,0.29963400959968567,Michel Vlap,a,9351,OpenPlay,2020,LeftFoot,15320,Bayern Munich,Arminia Bielefeld,3,3,2021-02-15 19:30:00,Manuel Prietl,Pass
+405254,13,SavedShot,0.5279999923706055,0.3120000076293945,0.010178999975323677,Michel Vlap,h,9351,OpenPlay,2020,RightFoot,15337,Arminia Bielefeld,Wolfsburg,0,3,2021-02-19 19:30:00,,BallRecovery
+405259,30,MissedShots,0.8469999694824218,0.49700000762939456,0.06581909954547882,Michel Vlap,h,9351,OpenPlay,2020,RightFoot,15337,Arminia Bielefeld,Wolfsburg,0,3,2021-02-19 19:30:00,Fabian Kunze,HeadPass

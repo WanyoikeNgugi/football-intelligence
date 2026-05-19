@@ -1,0 +1,11 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+642885,73,ShotOnPost,0.985,0.42700000762939455,0.2835470736026764,Matías Moreno,a,13083,FromCorner,2025,Head,29202,Girona,Levante,0,4,2025-09-20 12:00:00,Pablo Martínez,Cross
+648376,67,BlockedShot,0.7609999847412109,0.37900001525878907,0.021237948909401894,Matías Moreno,h,13083,OpenPlay,2025,RightFoot,29243,Levante,Rayo Vallecano,0,3,2025-10-19 16:30:00,,BallTouch
+651292,65,BlockedShot,0.91,0.415,0.017286838963627815,Matías Moreno,h,13083,FromCorner,2025,Head,29265,Levante,Celta Vigo,1,2,2025-11-02 13:00:00,Carlos Álvarez,Aerial
+659362,14,BlockedShot,0.7780000305175782,0.6880000305175781,0.03121885657310486,Matías Moreno,h,13083,OpenPlay,2025,RightFoot,29321,Levante,Real Sociedad,1,1,2025-12-20 15:15:00,Manuel Sánchez,Pass
+669253,16,MissedShots,0.96,0.5609999847412109,0.5448558926582336,Matías Moreno,h,13083,SetPiece,2025,LeftFoot,29390,Levante,Valencia,0,2,2026-02-15 17:30:00,,None
+670764,67,MissedShots,0.9219999694824219,0.48200000762939454,0.1137881651520729,Matías Moreno,h,13083,FromCorner,2025,Head,29412,Levante,Alaves,2,0,2026-02-27 20:00:00,Jon Ander Olasagasti,Cross
+672680,30,MissedShots,0.9009999847412109,0.620999984741211,0.07647261768579483,Matías Moreno,h,13083,OpenPlay,2025,LeftFoot,29425,Levante,Girona,1,1,2026-03-07 15:15:00,Iván Romero,Chipped
+678842,92,BlockedShot,0.735,0.34,0.013982757925987244,Matías Moreno,h,13083,FromCorner,2025,RightFoot,29461,Levante,Getafe,1,0,2026-04-13 19:00:00,,None
+683446,12,BlockedShot,0.9269999694824219,0.4929999923706055,0.13177990913391113,Matías Moreno,h,13083,SetPiece,2025,Head,29501,Levante,Osasuna,3,2,2026-05-08 19:00:00,Pablo Martínez,Cross
+683476,80,MissedShots,0.8080000305175781,0.33799999237060546,0.03226807340979576,Matías Moreno,h,13083,OpenPlay,2025,RightFoot,29501,Levante,Osasuna,3,2,2026-05-08 19:00:00,Jon Ander Olasagasti,Pass

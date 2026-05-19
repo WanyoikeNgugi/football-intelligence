@@ -1,0 +1,72 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+569725,75,MissedShots,0.86,0.5790000152587891,0.05053925886750221,Giuliano Simeone,a,9796,OpenPlay,2023,RightFoot,22974,Athletic Club,Alaves,2,0,2024-03-16 20:00:00,Carlos Benavídez,Chipped
+569732,88,BlockedShot,0.7419999694824219,0.5409999847412109,0.018268942832946777,Giuliano Simeone,a,9796,OpenPlay,2023,RightFoot,22974,Athletic Club,Alaves,2,0,2024-03-16 20:00:00,,BallRecovery
+574336,87,BlockedShot,0.860999984741211,0.644000015258789,0.08588365465402603,Giuliano Simeone,a,9796,OpenPlay,2023,RightFoot,22994,Granada,Alaves,2,0,2024-04-14 14:15:00,Alex Sola,Pass
+575700,16,MissedShots,0.8919999694824219,0.629000015258789,0.2700408101081848,Giuliano Simeone,h,9796,OpenPlay,2023,LeftFoot,22999,Alaves,Atletico Madrid,2,0,2024-04-21 16:30:00,Andoni Gorosabel,Cross
+575705,37,BlockedShot,0.720999984741211,0.49,0.022772789001464844,Giuliano Simeone,h,9796,OpenPlay,2023,RightFoot,22999,Alaves,Atletico Madrid,2,0,2024-04-21 16:30:00,Jon Guridi,Pass
+576913,47,Goal,0.915,0.54,0.48813125491142273,Giuliano Simeone,h,9796,OpenPlay,2023,RightFoot,23010,Alaves,Celta Vigo,3,0,2024-04-27 16:30:00,Kike García,Pass
+576915,61,MissedShots,0.87,0.55,0.10738863050937653,Giuliano Simeone,h,9796,OpenPlay,2023,RightFoot,23010,Alaves,Celta Vigo,3,0,2024-04-27 16:30:00,Carlos Vicente,Cross
+579161,51,BlockedShot,0.71,0.5990000152587891,0.014010931365191936,Giuliano Simeone,a,9796,OpenPlay,2023,RightFoot,23024,Valencia,Alaves,0,1,2024-05-05 16:30:00,Carlos Benavídez,BallRecovery
+579162,51,SavedShot,0.755,0.46599998474121096,0.019902704283595085,Giuliano Simeone,a,9796,OpenPlay,2023,RightFoot,23024,Valencia,Alaves,0,1,2024-05-05 16:30:00,,Rebound
+579168,84,MissedShots,0.915,0.5970000076293945,0.3167281746864319,Giuliano Simeone,a,9796,OpenPlay,2023,RightFoot,23024,Valencia,Alaves,0,1,2024-05-05 16:30:00,Carlos Vicente,Cross
+579173,92,MissedShots,0.8640000152587891,0.415,0.37409189343452454,Giuliano Simeone,a,9796,OpenPlay,2023,RightFoot,23024,Valencia,Alaves,0,1,2024-05-05 16:30:00,Luis Rioja,Pass
+581846,1,MissedShots,0.894000015258789,0.635,0.08991187065839767,Giuliano Simeone,h,9796,OpenPlay,2023,LeftFoot,23050,Alaves,Getafe,1,0,2024-05-18 19:00:00,Kike García,Pass
+583447,30,MissedShots,0.885,0.6769999694824219,0.05924167111515999,Giuliano Simeone,a,9796,OpenPlay,2023,RightFoot,23064,Las Palmas,Alaves,1,1,2024-05-26 14:15:00,Ander Guevara,Chipped
+583449,32,SavedShot,0.885,0.5,0.7432776093482971,Giuliano Simeone,a,9796,Penalty,2023,RightFoot,23064,Las Palmas,Alaves,1,1,2024-05-26 14:15:00,,Standard
+583455,49,BlockedShot,0.874000015258789,0.575999984741211,0.07706523686647415,Giuliano Simeone,a,9796,OpenPlay,2023,RightFoot,23064,Las Palmas,Alaves,1,1,2024-05-26 14:15:00,Joaquín Panichelli,HeadPass
+600533,36,Goal,0.950999984741211,0.35200000762939454,0.30678483843803406,Giuliano Simeone,h,9796,OpenPlay,2024,RightFoot,27093,Atletico Madrid,Las Palmas,2,0,2024-11-03 13:00:00,Nahuel Molina,Throughball
+603017,68,SavedShot,0.9580000305175781,0.6730000305175782,0.09189695864915848,Giuliano Simeone,h,9796,OpenPlay,2024,LeftFoot,27120,Atletico Madrid,Alaves,2,1,2024-11-23 15:15:00,Julián Álvarez,Chipped
+604489,46,SavedShot,0.7619999694824219,0.27600000381469725,0.024727066978812218,Giuliano Simeone,a,9796,OpenPlay,2024,RightFoot,27126,Real Valladolid,Atletico Madrid,0,5,2024-11-30 20:00:00,Pablo Barrios Rivas,Pass
+606646,52,SavedShot,0.9230000305175782,0.3559999847412109,0.09945604205131531,Giuliano Simeone,h,9796,OpenPlay,2024,RightFoot,27135,Atletico Madrid,Sevilla,4,3,2024-12-08 20:00:00,,TakeOn
+607384,42,MissedShots,0.9569999694824218,0.505,0.5945385098457336,Giuliano Simeone,h,9796,OpenPlay,2024,Head,27142,Atletico Madrid,Getafe,1,0,2024-12-15 13:00:00,Javi Galán,Cross
+611104,51,BlockedShot,0.8669999694824219,0.47299999237060547,0.0604923740029335,Giuliano Simeone,h,9796,OpenPlay,2024,LeftFoot,27163,Atletico Madrid,Osasuna,1,0,2025-01-12 15:15:00,Antoine Griezmann,Cross
+615105,38,SavedShot,0.93,0.5359999847412109,0.5768399834632874,Giuliano Simeone,h,9796,OpenPlay,2024,RightFoot,27192,Atletico Madrid,Mallorca,2,0,2025-02-01 17:30:00,Julián Álvarez,Pass
+615107,42,MissedShots,0.9130000305175782,0.25799999237060545,0.0421244241297245,Giuliano Simeone,h,9796,OpenPlay,2024,RightFoot,27192,Atletico Madrid,Mallorca,2,0,2025-02-01 17:30:00,Julián Álvarez,Pass
+616248,59,MissedShots,0.9169999694824219,0.33299999237060546,0.33646872639656067,Giuliano Simeone,a,9796,OpenPlay,2024,RightFoot,27205,Real Madrid,Atletico Madrid,1,1,2025-02-08 20:00:00,Julián Álvarez,Throughball
+617375,31,BlockedShot,0.8919999694824219,0.3679999923706055,0.048988137394189835,Giuliano Simeone,h,9796,SetPiece,2024,RightFoot,27212,Atletico Madrid,Celta Vigo,1,1,2025-02-15 17:30:00,Rodrigo de Paul,Pass
+617377,35,MissedShots,0.8640000152587891,0.27600000381469725,0.055190104991197586,Giuliano Simeone,h,9796,OpenPlay,2024,RightFoot,27212,Atletico Madrid,Celta Vigo,1,1,2025-02-15 17:30:00,Rodrigo de Paul,Pass
+617382,52,BlockedShot,0.8959999847412109,0.5379999923706055,0.08936706930398941,Giuliano Simeone,h,9796,OpenPlay,2024,RightFoot,27212,Atletico Madrid,Celta Vigo,1,1,2025-02-15 17:30:00,Giménez,HeadPass
+618597,21,MissedShots,0.7880000305175782,0.3220000076293945,0.03029283881187439,Giuliano Simeone,a,9796,OpenPlay,2024,LeftFoot,27225,Valencia,Atletico Madrid,0,3,2025-02-22 17:30:00,Rodrigo de Paul,Pass
+620290,42,MissedShots,0.8819999694824219,0.29600000381469727,0.04952859878540039,Giuliano Simeone,h,9796,OpenPlay,2024,RightFoot,27236,Atletico Madrid,Athletic Club,1,0,2025-03-01 20:00:00,Nahuel Molina,Pass
+623775,1,MissedShots,0.884000015258789,0.2620000076293945,0.030879879370331764,Giuliano Simeone,h,9796,OpenPlay,2024,RightFoot,27252,Atletico Madrid,Barcelona,2,4,2025-03-16 20:00:00,Antoine Griezmann,Pass
+626373,49,SavedShot,0.9080000305175782,0.29100000381469726,0.04205174371600151,Giuliano Simeone,a,9796,OpenPlay,2024,RightFoot,27277,Sevilla,Atletico Madrid,1,2,2025-04-06 14:15:00,Julián Álvarez,Pass
+628175,26,Goal,0.9130000305175782,0.36200000762939455,0.26963168382644653,Giuliano Simeone,h,9796,OpenPlay,2024,LeftFoot,27284,Atletico Madrid,Real Valladolid,4,2,2025-04-14 19:00:00,Pablo Barrios Rivas,TakeOn
+628177,30,MissedShots,0.9019999694824219,0.5470000076293945,0.09385334700345993,Giuliano Simeone,h,9796,SetPiece,2024,Head,27284,Atletico Madrid,Real Valladolid,4,2,2025-04-14 19:00:00,Antoine Griezmann,Cross
+628919,82,MissedShots,0.8569999694824219,0.29200000762939454,0.03925073519349098,Giuliano Simeone,a,9796,OpenPlay,2024,LeftFoot,27295,Las Palmas,Atletico Madrid,1,0,2025-04-19 19:00:00,Marcos Llorente,Pass
+633040,41,MissedShots,0.8340000152587891,0.31,0.050143640488386154,Giuliano Simeone,h,9796,OpenPlay,2024,RightFoot,27323,Atletico Madrid,Real Sociedad,4,0,2025-05-10 19:00:00,Samuel Lino,Pass
+634120,45,MissedShots,0.894000015258789,0.7290000152587891,0.03736458346247673,Giuliano Simeone,a,9796,OpenPlay,2024,RightFoot,27335,Osasuna,Atletico Madrid,2,0,2025-05-15 17:00:00,,None
+635365,5,MissedShots,0.875999984741211,0.565,0.031616054475307465,Giuliano Simeone,h,9796,FromCorner,2024,Head,27342,Atletico Madrid,Real Betis,4,1,2025-05-18 17:00:00,Koke,Chipped
+638336,22,BlockedShot,0.8180000305175781,0.4540000152587891,0.05932294949889183,Giuliano Simeone,a,9796,OpenPlay,2025,LeftFoot,29165,Espanyol,Atletico Madrid,2,1,2025-08-17 19:30:00,Álex Baena,Pass
+638346,63,MissedShots,0.955,0.34400001525878904,0.08954332023859024,Giuliano Simeone,a,9796,OpenPlay,2025,RightFoot,29165,Espanyol,Atletico Madrid,2,1,2025-08-17 19:30:00,Pablo Barrios Rivas,Pass
+639050,25,MissedShots,0.9219999694824219,0.33799999237060546,0.07298263907432556,Giuliano Simeone,h,9796,OpenPlay,2025,RightFoot,29170,Atletico Madrid,Elche,1,1,2025-08-23 17:30:00,Thiago Almada,Pass
+640346,6,Goal,0.905,0.41700000762939454,0.11392070353031158,Giuliano Simeone,a,9796,OpenPlay,2025,LeftFoot,29181,Alaves,Atletico Madrid,1,1,2025-08-30 15:00:00,,None
+642015,7,MissedShots,0.894000015258789,0.42700000762939455,0.023173484951257706,Giuliano Simeone,h,9796,OpenPlay,2025,Head,29193,Atletico Madrid,Villarreal,2,0,2025-09-13 19:00:00,Julián Álvarez,Aerial
+642017,13,MissedShots,0.8919999694824219,0.43,0.42204293608665466,Giuliano Simeone,h,9796,OpenPlay,2025,RightFoot,29193,Atletico Madrid,Villarreal,2,0,2025-09-13 19:00:00,Julián Álvarez,Pass
+643748,51,MissedShots,0.925,0.4829999923706055,0.3977730870246887,Giuliano Simeone,a,9796,OpenPlay,2025,RightFoot,29204,Mallorca,Atletico Madrid,1,1,2025-09-21 14:15:00,Nicolás González,Cross
+644266,55,BlockedShot,0.9130000305175782,0.29399999618530276,0.04791129380464554,Giuliano Simeone,h,9796,OpenPlay,2025,RightFoot,29216,Atletico Madrid,Rayo Vallecano,3,2,2025-09-24 19:30:00,Julián Álvarez,Pass
+644269,65,BlockedShot,0.92,0.4,0.07956159859895706,Giuliano Simeone,h,9796,OpenPlay,2025,RightFoot,29216,Atletico Madrid,Rayo Vallecano,3,2,2025-09-24 19:30:00,Marcos Llorente,Cross
+644270,66,SavedShot,0.91,0.5629999923706055,0.4591115415096283,Giuliano Simeone,h,9796,OpenPlay,2025,RightFoot,29216,Atletico Madrid,Rayo Vallecano,3,2,2025-09-24 19:30:00,Julián Álvarez,Chipped
+644275,79,SavedShot,0.9680000305175781,0.3970000076293945,0.07419275492429733,Giuliano Simeone,h,9796,OpenPlay,2025,Head,29216,Atletico Madrid,Rayo Vallecano,3,2,2025-09-24 19:30:00,Matteo Ruggeri,Cross
+644277,82,ShotOnPost,0.9369999694824219,0.47,0.5264861583709717,Giuliano Simeone,h,9796,OpenPlay,2025,RightFoot,29216,Atletico Madrid,Rayo Vallecano,3,2,2025-09-24 19:30:00,Giacomo Raspadori,FormationChange
+644282,95,MissedShots,0.8669999694824219,0.4570000076293945,0.4132407605648041,Giuliano Simeone,h,9796,OpenPlay,2025,RightFoot,29216,Atletico Madrid,Rayo Vallecano,3,2,2025-09-24 19:30:00,Nicolás González,Throughball
+647113,18,MissedShots,0.8519999694824218,0.30100000381469727,0.06256995350122452,Giuliano Simeone,a,9796,OpenPlay,2025,LeftFoot,29232,Celta Vigo,Atletico Madrid,1,1,2025-10-05 19:00:00,Antoine Griezmann,HeadPass
+650014,2,Goal,0.8159999847412109,0.4420000076293945,0.0585281141102314,Giuliano Simeone,a,9796,OpenPlay,2025,LeftFoot,29253,Real Betis,Atletico Madrid,0,2,2025-10-27 20:00:00,Koke,BallTouch
+652393,23,SavedShot,0.9080000305175782,0.4229999923706055,0.0904635414481163,Giuliano Simeone,h,9796,OpenPlay,2025,Head,29269,Atletico Madrid,Levante,3,1,2025-11-08 17:30:00,Julián Álvarez,Cross
+652405,66,MissedShots,0.8490000152587891,0.415,0.12270255386829376,Giuliano Simeone,h,9796,OpenPlay,2025,RightFoot,29269,Atletico Madrid,Levante,3,1,2025-11-08 17:30:00,Julián Álvarez,Pass
+655344,85,SavedShot,0.94,0.3340000152587891,0.27593928575515747,Giuliano Simeone,h,9796,OpenPlay,2025,RightFoot,29288,Atletico Madrid,Real Oviedo,2,0,2025-11-29 20:00:00,Pablo Barrios Rivas,Pass
+656176,52,MissedShots,0.8719999694824219,0.43200000762939456,0.10117553174495697,Giuliano Simeone,a,9796,OpenPlay,2025,RightFoot,29342,Barcelona,Atletico Madrid,3,1,2025-12-02 20:00:00,Julián Álvarez,Pass
+657226,70,SavedShot,0.6880000305175781,0.6940000152587891,0.00947127677500248,Giuliano Simeone,a,9796,OpenPlay,2025,RightFoot,29299,Athletic Club,Atletico Madrid,1,0,2025-12-06 20:00:00,Pablo Barrios Rivas,TakeOn
+658028,65,BlockedShot,0.950999984741211,0.4909999847412109,0.5865312218666077,Giuliano Simeone,h,9796,OpenPlay,2025,Head,29309,Atletico Madrid,Valencia,2,1,2025-12-13 13:00:00,Matteo Ruggeri,Cross
+659681,47,MissedShots,0.955999984741211,0.3270000076293945,0.22436434030532837,Giuliano Simeone,a,9796,OpenPlay,2025,RightFoot,29324,Girona,Atletico Madrid,0,3,2025-12-21 13:00:00,Marcos Llorente,Pass
+661731,66,MissedShots,0.8040000152587891,0.6669999694824219,0.027488917112350464,Giuliano Simeone,a,9796,OpenPlay,2025,RightFoot,29332,Real Sociedad,Atletico Madrid,1,1,2026-01-04 20:00:00,Conor Gallagher,Pass
+664133,8,MissedShots,0.8640000152587891,0.5259999847412109,0.07748570293188095,Giuliano Simeone,h,9796,OpenPlay,2025,RightFoot,29348,Atletico Madrid,Alaves,1,0,2026-01-18 15:15:00,David Hancko,HeadPass
+664137,14,SavedShot,0.8930000305175781,0.27,0.03918713703751564,Giuliano Simeone,h,9796,OpenPlay,2025,RightFoot,29348,Atletico Madrid,Alaves,1,0,2026-01-18 15:15:00,Julián Álvarez,Pass
+664141,31,MissedShots,0.8880000305175781,0.375,0.013429855927824974,Giuliano Simeone,h,9796,OpenPlay,2025,Head,29348,Atletico Madrid,Alaves,1,0,2026-01-18 15:15:00,Matteo Ruggeri,Aerial
+664148,47,BlockedShot,0.8930000305175781,0.44799999237060545,0.1145273819565773,Giuliano Simeone,h,9796,OpenPlay,2025,RightFoot,29348,Atletico Madrid,Alaves,1,0,2026-01-18 15:15:00,,Rebound
+664152,51,BlockedShot,0.905,0.46799999237060547,0.12722456455230713,Giuliano Simeone,h,9796,OpenPlay,2025,Head,29348,Atletico Madrid,Alaves,1,0,2026-01-18 15:15:00,Matteo Ruggeri,Cross
+665124,13,SavedShot,0.9130000305175782,0.49599998474121093,0.12000416219234467,Giuliano Simeone,h,9796,SetPiece,2025,LeftFoot,29360,Atletico Madrid,Mallorca,3,0,2026-01-25 13:00:00,,Rebound
+665128,45,MissedShots,0.8869999694824219,0.40900001525878904,0.020790986716747284,Giuliano Simeone,h,9796,OpenPlay,2025,Head,29360,Atletico Madrid,Mallorca,3,0,2026-01-25 13:00:00,Álex Baena,Aerial
+670054,48,Goal,0.9230000305175782,0.40200000762939453,0.41884684562683105,Giuliano Simeone,h,9796,OpenPlay,2025,RightFoot,29400,Atletico Madrid,Espanyol,4,2,2026-02-21 20:00:00,Álex Baena,Pass
+672791,16,SavedShot,0.909000015258789,0.53,0.07380544394254684,Giuliano Simeone,h,9796,OpenPlay,2025,Head,29419,Atletico Madrid,Real Sociedad,3,2,2026-03-07 17:30:00,Koke,Chipped
+676262,11,SavedShot,0.97,0.28,0.034096140414476395,Giuliano Simeone,a,9796,OpenPlay,2025,RightFoot,29446,Real Madrid,Atletico Madrid,3,2,2026-03-22 20:00:00,Marcos Llorente,Pass
+676855,38,Goal,0.8440000152587891,0.4379999923706055,0.3225172460079193,Giuliano Simeone,h,9796,OpenPlay,2025,RightFoot,29449,Atletico Madrid,Barcelona,1,2,2026-04-04 19:00:00,Clement Lenglet,Throughball

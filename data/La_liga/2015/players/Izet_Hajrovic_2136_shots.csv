@@ -1,0 +1,33 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+24695,40,MissedShots,0.875,0.55,0.06309320032596588,Izet Hajrovic,h,2136,FromCorner,2014,LeftFoot,5457,Werder Bremen,Hoffenheim,1,1,2014-08-30 14:30:00,Zlatko Junuzovic,Pass
+25129,64,SavedShot,0.9159999847412109,0.44299999237060544,0.46326199173927307,Izet Hajrovic,a,2136,OpenPlay,2014,RightFoot,5425,Augsburg,Werder Bremen,4,2,2014-09-20 14:30:00,,None
+25130,64,SavedShot,0.855,0.26799999237060546,0.022614000365138054,Izet Hajrovic,a,2136,OpenPlay,2014,LeftFoot,5425,Augsburg,Werder Bremen,4,2,2014-09-20 14:30:00,,Rebound
+25464,69,MissedShots,0.6709999847412109,0.6270000076293946,0.015282300300896168,Izet Hajrovic,h,2136,SetPiece,2014,LeftFoot,5431,Werder Bremen,Schalke 04,0,3,2014-09-23 19:00:00,Zlatko Junuzovic,Pass
+25534,50,SavedShot,0.7909999847412109,0.625999984741211,0.03008420020341873,Izet Hajrovic,a,2136,OpenPlay,2014,LeftFoot,5444,Wolfsburg,Werder Bremen,2,1,2014-09-27 17:30:00,Nils Petersen,Pass
+26408,60,ShotOnPost,0.765,0.30700000762939456,0.018289299681782722,Izet Hajrovic,h,2136,OpenPlay,2014,LeftFoot,5401,Werder Bremen,FC Cologne,0,1,2014-10-24 19:30:00,Fin Bartels,Pass
+27099,43,SavedShot,0.7719999694824219,0.7930000305175782,0.012550399638712406,Izet Hajrovic,a,2136,FromCorner,2014,LeftFoot,5372,Hamburger SV,Werder Bremen,2,0,2014-11-23 14:30:00,,None
+28228,87,BlockedShot,0.84,0.37599998474121094,0.04229319840669632,Izet Hajrovic,h,2136,OpenPlay,2014,LeftFoot,5323,Werder Bremen,Hannover 96,3,3,2014-12-13 14:30:00,Zlatko Junuzovic,Chipped
+28942,76,MissedShots,0.825999984741211,0.27299999237060546,0.02310040034353733,Izet Hajrovic,a,2136,OpenPlay,2014,RightFoot,5293,Schalke 04,Werder Bremen,1,1,2015-02-21 14:30:00,,None
+30282,74,Goal,0.8030000305175782,0.38799999237060545,0.03887949883937836,Izet Hajrovic,a,2136,FromCorner,2014,LeftFoot,5229,Paderborn,Werder Bremen,2,2,2015-04-26 14:30:00,Assani Lukimya,Pass
+31110,51,SavedShot,0.784000015258789,0.34700000762939454,0.036011599004268646,Izet Hajrovic,h,2136,FromCorner,2014,LeftFoot,5163,Werder Bremen,Eintracht Frankfurt,1,0,2015-05-02 14:30:00,Zlatko Junuzovic,Pass
+92406,56,ShotOnPost,0.784000015258789,0.769000015258789,0.04925980046391487,Izet Hajrovic,h,2136,DirectFreekick,2015,LeftFoot,1743,Eibar,Deportivo La Coruna,1,1,2016-04-24 00:05:00,,Standard
+92410,66,BlockedShot,0.9019999694824219,0.11399999618530274,0.04700329899787903,Izet Hajrovic,h,2136,DirectFreekick,2015,LeftFoot,1743,Eibar,Deportivo La Coruna,1,1,2016-04-24 00:05:00,,Standard
+128510,3,MissedShots,0.9069999694824219,0.29100000381469726,0.024091200903058052,Izet Hajrovic,h,2136,OpenPlay,2016,LeftFoot,1359,Werder Bremen,Mainz 05,1,2,2016-09-21 22:00:00,Clemens Fritz,Cross
+128514,11,Goal,0.740999984741211,0.3820000076293945,0.03842030093073845,Izet Hajrovic,h,2136,OpenPlay,2016,LeftFoot,1359,Werder Bremen,Mainz 05,1,2,2016-09-21 22:00:00,Theodor Gebre Selassie,Pass
+128520,51,SavedShot,0.7219999694824218,0.4490000152587891,0.020994700491428375,Izet Hajrovic,h,2136,OpenPlay,2016,LeftFoot,1359,Werder Bremen,Mainz 05,1,2,2016-09-21 22:00:00,,BallRecovery
+128526,62,SavedShot,0.8190000152587891,0.52,0.2896290123462677,Izet Hajrovic,h,2136,OpenPlay,2016,LeftFoot,1359,Werder Bremen,Mainz 05,1,2,2016-09-21 22:00:00,Serge Gnabry,Pass
+128528,65,SavedShot,0.7609999847412109,0.28899999618530275,0.0074292197823524475,Izet Hajrovic,h,2136,FromCorner,2016,LeftFoot,1359,Werder Bremen,Mainz 05,1,2,2016-09-21 22:00:00,Zlatko Junuzovic,Chipped
+128759,66,MissedShots,0.710999984741211,0.49900001525878906,0.013878200203180313,Izet Hajrovic,h,2136,OpenPlay,2016,LeftFoot,1369,Werder Bremen,Wolfsburg,2,1,2016-09-24 20:30:00,Zlatko Junuzovic,Pass
+128762,76,BlockedShot,0.8030000305175782,0.375,0.03278230130672455,Izet Hajrovic,h,2136,OpenPlay,2016,LeftFoot,1369,Werder Bremen,Wolfsburg,2,1,2016-09-24 20:30:00,Serge Gnabry,Tackle
+128992,25,BlockedShot,0.825999984741211,0.22700000762939454,0.01990469917654991,Izet Hajrovic,a,2136,OpenPlay,2016,LeftFoot,1376,Darmstadt,Werder Bremen,2,2,2016-10-01 17:30:00,Clemens Fritz,Pass
+129474,33,MissedShots,0.764000015258789,0.23899999618530274,0.013061599805951118,Izet Hajrovic,a,2136,OpenPlay,2016,LeftFoot,1397,RasenBallsport Leipzig,Werder Bremen,3,1,2016-10-23 17:30:00,Serge Gnabry,Pass
+130036,3,SavedShot,0.765,0.24299999237060546,0.01871030032634735,Izet Hajrovic,h,2136,OpenPlay,2016,LeftFoot,3303,Werder Bremen,Freiburg,1,3,2016-10-29 17:30:00,Theodor Gebre Selassie,Pass
+130049,51,MissedShots,0.7469999694824219,0.3609999847412109,0.01863279938697815,Izet Hajrovic,h,2136,SetPiece,2016,LeftFoot,3303,Werder Bremen,Freiburg,1,3,2016-10-29 17:30:00,Fin Bartels,Pass
+130598,74,SavedShot,0.7480000305175781,0.25,0.015760300680994987,Izet Hajrovic,h,2136,OpenPlay,2016,LeftFoot,3197,Werder Bremen,Ingolstadt,2,1,2016-12-03 18:30:00,Serge Gnabry,Pass
+167750,70,SavedShot,0.7119999694824218,0.5420000076293945,0.014553000219166279,Izet Hajrovic,h,2136,OpenPlay,2017,LeftFoot,8326,Werder Bremen,Borussia M.Gladbach,0,2,2017-10-15 17:00:00,Zlatko Junuzovic,Pass
+168054,52,MissedShots,0.7780000305175782,0.31,0.016894999891519547,Izet Hajrovic,a,2136,OpenPlay,2017,LeftFoot,8332,FC Cologne,Werder Bremen,0,0,2017-10-22 12:30:00,Zlatko Junuzovic,TakeOn
+168057,80,BlockedShot,0.7919999694824219,0.3579999923706055,0.0858205035328865,Izet Hajrovic,a,2136,DirectFreekick,2017,LeftFoot,8332,FC Cologne,Werder Bremen,0,0,2017-10-22 12:30:00,,Standard
+168064,89,SavedShot,0.815,0.2610000038146973,0.023605700582265854,Izet Hajrovic,a,2136,OpenPlay,2017,LeftFoot,8332,FC Cologne,Werder Bremen,0,0,2017-10-22 12:30:00,Thomas Delaney,Pass
+168654,54,MissedShots,0.795,0.24700000762939453,0.010862399823963642,Izet Hajrovic,h,2136,OpenPlay,2017,LeftFoot,8343,Werder Bremen,Augsburg,0,3,2017-10-29 14:30:00,Thomas Delaney,Chipped
+168655,55,BlockedShot,0.89,0.33,0.02672239951789379,Izet Hajrovic,h,2136,OpenPlay,2017,LeftFoot,8343,Werder Bremen,Augsburg,0,3,2017-10-29 14:30:00,Thomas Delaney,Cross
+184038,84,BlockedShot,0.725,0.750999984741211,0.015061699785292149,Izet Hajrovic,a,2136,OpenPlay,2017,LeftFoot,8399,Bayer Leverkusen,Werder Bremen,1,0,2017-12-13 19:30:00,Thomas Delaney,Pass

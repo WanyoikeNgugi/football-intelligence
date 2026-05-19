@@ -1,0 +1,14 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+8427,44,MissedShots,0.6619999694824219,0.655,0.010920600034296513,Alexis Peuget,h,3642,OpenPlay,2014,RightFoot,5900,Reims,Nice,0,1,2015-04-12 16:00:00,,TakeOn
+8428,46,BlockedShot,0.7019999694824218,0.495,0.04041380062699318,Alexis Peuget,h,3642,DirectFreekick,2014,RightFoot,5900,Reims,Nice,0,1,2015-04-12 16:00:00,,Standard
+8432,54,BlockedShot,0.71,0.5170000076293946,0.016033299267292023,Alexis Peuget,h,3642,OpenPlay,2014,RightFoot,5900,Reims,Nice,0,1,2015-04-12 16:00:00,Gaëtan Charbonnier,Pass
+6788,12,Goal,0.7909999847412109,0.46700000762939453,0.02922230027616024,Alexis Peuget,h,3642,OpenPlay,2014,LeftFoot,5924,Reims,Lyon,2,4,2015-04-26 20:00:00,,None
+6799,52,BlockedShot,0.7140000152587891,0.65,0.038080498576164246,Alexis Peuget,h,3642,DirectFreekick,2014,RightFoot,5924,Reims,Lyon,2,4,2015-04-26 20:00:00,,Standard
+6800,52,MissedShots,0.7619999694824219,0.845,0.007734700106084347,Alexis Peuget,h,3642,OpenPlay,2014,RightFoot,5924,Reims,Lyon,2,4,2015-04-26 20:00:00,Valentin Roberge,Pass
+6803,57,MissedShots,0.7609999847412109,0.41,0.025589799508452415,Alexis Peuget,h,3642,FromCorner,2014,RightFoot,5924,Reims,Lyon,2,4,2015-04-26 20:00:00,,Rebound
+61353,5,MissedShots,0.7859999847412109,0.7140000152587891,0.012625900097191334,Alexis Peuget,a,3642,SetPiece,2015,RightFoot,1877,Bordeaux,Reims,1,2,2015-08-09 19:00:00,,None
+61682,28,SavedShot,0.7980000305175782,0.2720000076293945,0.06042509898543358,Alexis Peuget,h,3642,DirectFreekick,2015,RightFoot,1886,Reims,Marseille,1,0,2015-08-16 16:00:00,,Standard
+62065,22,SavedShot,0.715,0.6809999847412109,0.010285199619829655,Alexis Peuget,h,3642,SetPiece,2015,LeftFoot,1904,Reims,Lorient,4,1,2015-08-29 22:00:00,Antoine Devaux,HeadPass
+63467,34,MissedShots,0.695,0.38,0.03433939814567566,Alexis Peuget,h,3642,DirectFreekick,2015,RightFoot,1961,Reims,Caen,0,1,2015-10-17 22:00:00,,Standard
+64156,92,MissedShots,0.9690000152587891,0.415,0.29487401247024536,Alexis Peuget,h,3642,OpenPlay,2015,Head,2014,Reims,Rennes,2,2,2015-11-28 23:00:00,Jordan Siebatcheu,Cross
+65126,41,MissedShots,0.8569999694824219,0.33299999237060546,0.043877799063920975,Alexis Peuget,h,3642,OpenPlay,2015,RightFoot,2040,Reims,Nice,1,1,2015-12-12 19:00:00,,None

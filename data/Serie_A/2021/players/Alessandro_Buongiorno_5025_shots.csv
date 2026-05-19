@@ -1,0 +1,60 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+395419,31,MissedShots,0.97,0.610999984741211,0.02808690071105957,Alessandro Buongiorno,a,5025,FromCorner,2020,Head,15560,Napoli,Torino,1,1,2020-12-23 19:45:00,Simone Verdi,Cross
+418196,68,MissedShots,0.945,0.5259999847412109,0.08564720302820206,Alessandro Buongiorno,h,5025,FromCorner,2020,Head,15750,Torino,Napoli,0,2,2021-04-26 16:30:00,Andrea Belotti,Aerial
+418207,94,MissedShots,0.93,0.58,0.06767009943723679,Alessandro Buongiorno,h,5025,FromCorner,2020,Head,15750,Torino,Napoli,0,2,2021-04-26 16:30:00,Daniele Baselli,Cross
+437356,78,SavedShot,0.9230000305175782,0.46700000762939453,0.1282380074262619,Alessandro Buongiorno,h,5025,SetPiece,2021,Head,16845,Torino,Genoa,3,2,2021-10-22 16:30:00,Sasa Lukic,Cross
+437357,78,MissedShots,0.94,0.47200000762939454,0.08461820334196091,Alessandro Buongiorno,h,5025,SetPiece,2021,Head,16845,Torino,Genoa,3,2,2021-10-22 16:30:00,,Rebound
+444851,27,BlockedShot,0.9359999847412109,0.585,0.08689620345830917,Alessandro Buongiorno,a,5025,FromCorner,2021,LeftFoot,16891,Roma,Torino,1,0,2021-11-28 17:00:00,Bremer,BallTouch
+456359,28,MissedShots,0.8690000152587891,0.5509999847412109,0.012663699686527252,Alessandro Buongiorno,a,5025,FromCorner,2021,Head,16994,Udinese,Torino,2,0,2022-02-06 17:00:00,Rolando Mandragora,Aerial
+463401,11,MissedShots,0.899000015258789,0.5840000152587891,0.05234580114483833,Alessandro Buongiorno,h,5025,FromCorner,2021,LeftFoot,17044,Torino,Inter,1,1,2022-03-13 19:45:00,Rolando Mandragora,Cross
+463409,46,MissedShots,0.924000015258789,0.5940000152587891,0.04715089872479439,Alessandro Buongiorno,h,5025,FromCorner,2021,Head,17044,Torino,Inter,1,1,2022-03-13 19:45:00,Rolando Mandragora,Cross
+485464,41,MissedShots,0.925,0.3579999923706055,0.01136150024831295,Alessandro Buongiorno,a,5025,FromCorner,2022,Head,18620,Atalanta,Torino,3,1,2022-09-01 18:45:00,Karol Linetty,Aerial
+488962,13,MissedShots,0.9169999694824219,0.45099998474121095,0.030090099200606346,Alessandro Buongiorno,h,5025,FromCorner,2022,Head,18650,Torino,Sassuolo,0,1,2022-09-17 18:45:00,Valentino Lazaro,Aerial
+489894,39,MissedShots,0.885,0.46599998474121096,0.016514500603079796,Alessandro Buongiorno,a,5025,FromCorner,2022,Head,18659,Napoli,Torino,3,1,2022-10-01 13:00:00,Karol Linetty,Aerial
+489905,65,BlockedShot,0.9180000305175782,0.5179999923706055,0.04264630004763603,Alessandro Buongiorno,a,5025,FromCorner,2022,Head,18659,Napoli,Torino,3,1,2022-10-01 13:00:00,Aleksey Miranchuk,Aerial
+497522,57,MissedShots,0.9330000305175781,0.45299999237060545,0.3631629943847656,Alessandro Buongiorno,h,5025,SetPiece,2022,Head,18701,Torino,AC Milan,2,1,2022-10-30 19:45:00,Valentino Lazaro,Aerial
+500635,20,BlockedShot,0.915,0.595999984741211,0.05555880069732666,Alessandro Buongiorno,a,5025,OpenPlay,2022,OtherBodyPart,18730,Roma,Torino,1,1,2022-11-13 14:00:00,Valentino Lazaro,Cross
+502826,30,MissedShots,0.9030000305175782,0.45,0.0551409013569355,Alessandro Buongiorno,a,5025,FromCorner,2022,Head,18749,Salernitana,Torino,1,1,2023-01-08 11:30:00,Valentino Lazaro,Cross
+503972,6,MissedShots,0.919000015258789,0.5270000076293946,0.04172170162200928,Alessandro Buongiorno,h,5025,FromCorner,2022,Head,18760,Torino,Spezia,0,1,2023-01-15 14:00:00,Nikola Vlasic,Aerial
+504840,83,BlockedShot,0.9269999694824219,0.6659999847412109,0.011628500185906887,Alessandro Buongiorno,a,5025,FromCorner,2022,Head,18763,Fiorentina,Torino,0,1,2023-01-21 19:45:00,Ricardo Rodríguez,Cross
+505673,25,MissedShots,0.9,0.40900001525878904,0.02040559984743595,Alessandro Buongiorno,a,5025,OpenPlay,2022,Head,18775,Empoli,Torino,2,2,2023-01-28 14:00:00,Ricardo Rodríguez,Aerial
+505691,87,MissedShots,0.96,0.4420000076293945,0.07564319670200348,Alessandro Buongiorno,a,5025,SetPiece,2022,Head,18775,Empoli,Torino,2,2,2023-01-28 14:00:00,Ricardo Rodríguez,Aerial
+507636,30,MissedShots,0.9519999694824218,0.505,0.08262109756469727,Alessandro Buongiorno,h,5025,FromCorner,2022,Head,18791,Torino,Udinese,1,0,2023-02-05 14:00:00,Aleksey Miranchuk,Aerial
+507649,79,MissedShots,0.945,0.5,0.13233600556850433,Alessandro Buongiorno,h,5025,SetPiece,2022,Head,18791,Torino,Udinese,1,0,2023-02-05 14:00:00,Samuele Ricci,Cross
+508120,15,BlockedShot,0.9319999694824219,0.624000015258789,0.04865749925374985,Alessandro Buongiorno,a,5025,FromCorner,2022,LeftFoot,18799,AC Milan,Torino,1,0,2023-02-10 19:45:00,Nikola Vlasic,Cross
+511680,1,MissedShots,0.8959999847412109,0.4779999923706055,0.05657010152935982,Alessandro Buongiorno,a,5025,FromCorner,2022,Head,18820,Juventus,Torino,4,2,2023-02-28 19:45:00,Aleksey Miranchuk,Cross
+515478,54,MissedShots,0.9469999694824218,0.46900001525878904,0.33614298701286316,Alessandro Buongiorno,h,5025,FromCorner,2022,Head,18850,Torino,Napoli,0,4,2023-03-19 14:00:00,Wilfried Stephane Singo,HeadPass
+520038,2,MissedShots,0.95,0.5640000152587891,0.11451700329780579,Alessandro Buongiorno,h,5025,FromCorner,2022,Head,18881,Torino,Salernitana,1,1,2023-04-16 13:00:00,Mergim Vojvoda,Cross
+521013,86,MissedShots,0.9259999847412109,0.5070000076293946,0.11241282522678375,Alessandro Buongiorno,a,5025,FromCorner,2022,Head,18883,Lazio,Torino,0,1,2023-04-22 16:00:00,Ivan Ilic,Cross
+523950,30,Goal,0.9819999694824219,0.5609999847412109,0.496128648519516,Alessandro Buongiorno,a,5025,FromCorner,2022,Head,18910,Sampdoria,Torino,0,2,2023-05-03 16:00:00,Ivan Ilic,Cross
+524972,45,MissedShots,0.909000015258789,0.46,0.06996140629053116,Alessandro Buongiorno,h,5025,FromCorner,2022,Head,18920,Torino,Monza,1,1,2023-05-07 13:00:00,Aleksey Miranchuk,Cross
+527920,54,MissedShots,0.9390000152587891,0.4279999923706055,0.09107749164104462,Alessandro Buongiorno,h,5025,FromCorner,2022,LeftFoot,18940,Torino,Fiorentina,1,1,2023-05-21 13:00:00,Samuele Ricci,Cross
+538637,14,Goal,0.9569999694824218,0.4329999923706055,0.519233763217926,Alessandro Buongiorno,a,5025,FromCorner,2023,LeftFoot,22343,Salernitana,Torino,0,3,2023-09-18 16:30:00,,Rebound
+545589,40,Goal,0.9740000152587891,0.534000015258789,0.7323513627052307,Alessandro Buongiorno,a,5025,OpenPlay,2023,LeftFoot,22398,Lecce,Torino,0,1,2023-10-28 16:00:00,Samuele Ricci,Rebound
+547861,24,SavedShot,0.9230000305175782,0.47299999237060547,0.3673628866672516,Alessandro Buongiorno,h,5025,SetPiece,2023,Head,22414,Torino,Sassuolo,2,1,2023-11-06 19:45:00,Ivan Ilic,Cross
+547874,62,SavedShot,0.9030000305175782,0.57,0.015529774129390717,Alessandro Buongiorno,h,5025,FromCorner,2023,Head,22414,Torino,Sassuolo,2,1,2023-11-06 19:45:00,Ivan Ilic,Aerial
+550690,31,MissedShots,0.905,0.44799999237060545,0.03280354663729668,Alessandro Buongiorno,a,5025,SetPiece,2023,Head,22425,Bologna,Torino,2,0,2023-11-27 19:45:00,Ivan Ilic,Aerial
+553282,20,MissedShots,0.9569999694824218,0.5429999923706055,0.10782439261674881,Alessandro Buongiorno,a,5025,FromCorner,2023,RightFoot,22448,Frosinone,Torino,0,0,2023-12-10 11:30:00,Samuele Ricci,Aerial
+553301,81,BlockedShot,0.865999984741211,0.46099998474121096,0.0711459368467331,Alessandro Buongiorno,a,5025,FromCorner,2023,LeftFoot,22448,Frosinone,Torino,0,0,2023-12-10 11:30:00,,None
+554491,2,MissedShots,0.8169999694824219,0.38299999237060545,0.03370234742760658,Alessandro Buongiorno,h,5025,FromCorner,2023,LeftFoot,22461,Torino,Empoli,1,0,2023-12-16 19:45:00,Ivan Ilic,Pass
+556175,56,MissedShots,0.9490000152587891,0.5359999847412109,0.12828783690929413,Alessandro Buongiorno,h,5025,FromCorner,2023,Head,22468,Torino,Udinese,1,1,2023-12-23 14:00:00,Valentino Lazaro,Cross
+557684,65,Goal,0.9369999694824219,0.48200000762939454,0.06638198345899582,Alessandro Buongiorno,h,5025,FromCorner,2023,Head,22494,Torino,Napoli,3,0,2024-01-07 14:00:00,Valentino Lazaro,Aerial
+557944,19,MissedShots,0.909000015258789,0.6229999923706054,0.009489042684435844,Alessandro Buongiorno,a,5025,SetPiece,2023,Head,22497,Genoa,Torino,0,0,2024-01-13 14:00:00,Samuele Ricci,Aerial
+567649,40,MissedShots,0.9059999847412109,0.5720000076293945,0.016702769324183464,Alessandro Buongiorno,a,5025,FromCorner,2023,Head,22584,Napoli,Torino,1,1,2024-03-08 19:45:00,Gvidas Gineitis,Aerial
+570487,51,SavedShot,0.9009999847412109,0.3940000152587891,0.033078841865062714,Alessandro Buongiorno,h,5025,SetPiece,2023,Head,22604,Torino,Monza,1,0,2024-03-30 14:00:00,Ricardo Rodríguez,Cross
+589604,49,BlockedShot,0.8330000305175781,0.54,0.04850226640701294,Alessandro Buongiorno,h,5025,FromCorner,2024,LeftFoot,27386,Napoli,Parma Calcio 1913,2,1,2024-08-31 18:45:00,,None
+589612,65,ShotOnPost,0.95,0.575999984741211,0.3861941695213318,Alessandro Buongiorno,h,5025,SetPiece,2024,LeftFoot,27386,Napoli,Parma Calcio 1913,2,1,2024-08-31 18:45:00,Khvicha Kvaratskhelia,Chipped
+591673,92,Goal,0.9630000305175781,0.46599998474121096,0.13229966163635254,Alessandro Buongiorno,a,5025,FromCorner,2024,Head,27395,Cagliari,Napoli,0,4,2024-09-15 16:00:00,David Neres,Cross
+595074,11,SavedShot,0.950999984741211,0.6730000305175782,0.021341683343052864,Alessandro Buongiorno,h,5025,SetPiece,2024,RightFoot,27430,Napoli,Como,3,1,2024-10-04 16:30:00,Matteo Politano,Cross
+597419,25,BlockedShot,0.924000015258789,0.575999984741211,0.021965982392430305,Alessandro Buongiorno,a,5025,FromCorner,2024,Head,27435,Empoli,Napoli,0,1,2024-10-20 10:30:00,Matteo Politano,Aerial
+600520,65,SavedShot,0.9059999847412109,0.56,0.07849037647247314,Alessandro Buongiorno,h,5025,SetPiece,2024,Head,27464,Napoli,Atalanta,0,3,2024-11-03 11:30:00,Giacomo Raspadori,Cross
+604696,12,BlockedShot,0.889000015258789,0.4209999847412109,0.04524584859609604,Alessandro Buongiorno,a,5025,SetPiece,2024,Head,27500,Torino,Napoli,0,1,2024-12-01 14:00:00,Mathías Olivera,Cross
+621748,15,SavedShot,0.89,0.715,0.059162113815546036,Alessandro Buongiorno,h,5025,OpenPlay,2024,RightFoot,27640,Napoli,Fiorentina,2,1,2025-03-09 14:00:00,Romelu Lukaku,LayOff
+640611,79,MissedShots,0.9640000152587891,0.5259999847412109,0.5128526091575623,Alessandro Buongiorno,h,5025,FromCorner,2025,Head,29859,Napoli,Cagliari,1,0,2025-08-30 18:45:00,Kevin De Bruyne,Cross
+644092,66,BlockedShot,0.955,0.4129999923706055,0.12511545419692993,Alessandro Buongiorno,h,5025,SetPiece,2025,RightFoot,29883,Napoli,Pisa,3,2,2025-09-22 18:45:00,Matteo Politano,Pass
+651005,88,SavedShot,0.9069999694824219,0.4929999923706055,0.0288240946829319,Alessandro Buongiorno,h,5025,FromCorner,2025,Head,29938,Napoli,Como,0,0,2025-11-01 17:00:00,Eljif Elmas,Aerial
+663002,25,SavedShot,0.9490000152587891,0.5070000076293946,0.46860307455062866,Alessandro Buongiorno,h,5025,FromCorner,2025,Head,30001,Napoli,Parma Calcio 1913,0,0,2026-01-14 17:30:00,Noa Lang,Cross
+672421,64,BlockedShot,0.9359999847412109,0.5790000152587891,0.3223055601119995,Alessandro Buongiorno,h,5025,SetPiece,2025,Head,30114,Napoli,Torino,2,1,2026-03-06 19:45:00,Matteo Politano,Aerial
+674908,1,SavedShot,0.960999984741211,0.5979999923706054,0.09749239683151245,Alessandro Buongiorno,a,5025,FromCorner,2025,LeftFoot,30136,Cagliari,Napoli,0,1,2026-03-20 17:30:00,Sam Beukema,HeadPass
+677386,36,MissedShots,0.960999984741211,0.5640000152587891,0.06441283226013184,Alessandro Buongiorno,h,5025,FromCorner,2025,Head,30149,Napoli,AC Milan,1,0,2026-04-06 18:45:00,Kevin De Bruyne,Aerial
+678323,50,MissedShots,0.9530000305175781,0.590999984741211,0.025176377967000008,Alessandro Buongiorno,a,5025,FromCorner,2025,Head,30161,Parma Calcio 1913,Napoli,1,1,2026-04-12 13:00:00,Kevin De Bruyne,Aerial

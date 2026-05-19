@@ -1,0 +1,363 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+300,69,SavedShot,0.745999984741211,0.695,0.01786090061068535,Raphael Guerreiro,h,3455,OpenPlay,2014,LeftFoot,6200,Lorient,Nice,0,0,2014-08-16 19:00:00,Rafidine Abdullah,Pass
+305,83,MissedShots,0.715,0.68,0.013338799588382244,Raphael Guerreiro,h,3455,OpenPlay,2014,LeftFoot,6200,Lorient,Nice,0,0,2014-08-16 19:00:00,Sadio Diallo,Pass
+826,52,MissedShots,0.8080000305175781,0.5690000152587891,0.0462849996984005,Raphael Guerreiro,h,3455,OpenPlay,2014,RightFoot,6221,Lorient,Guingamp,4,0,2014-08-30 19:00:00,,None
+840,23,SavedShot,0.9119999694824219,0.665,0.0718986988067627,Raphael Guerreiro,a,3455,OpenPlay,2014,LeftFoot,6149,Montpellier,Lorient,1,0,2014-09-13 19:00:00,Benjamin Jeannot,Pass
+2036,21,BlockedShot,0.7219999694824218,0.34700000762939454,0.04055849835276604,Raphael Guerreiro,h,3455,DirectFreekick,2014,LeftFoot,6157,Lorient,Reims,0,1,2014-09-20 19:00:00,,Standard
+1650,15,SavedShot,0.955999984741211,0.6930000305175781,0.05351709946990013,Raphael Guerreiro,a,3455,OpenPlay,2014,LeftFoot,6169,Lyon,Lorient,4,0,2014-09-24 18:00:00,Mehdi Mostefa,Pass
+1652,20,BlockedShot,0.85,0.674000015258789,0.04652880132198334,Raphael Guerreiro,a,3455,OpenPlay,2014,LeftFoot,6169,Lyon,Lorient,4,0,2014-09-24 18:00:00,Vincent Le Goff,Pass
+1654,22,MissedShots,0.7769999694824219,0.61,0.0258031003177166,Raphael Guerreiro,a,3455,OpenPlay,2014,RightFoot,6169,Lyon,Lorient,4,0,2014-09-24 18:00:00,Vincent Le Goff,Pass
+2139,55,MissedShots,0.8780000305175781,0.4209999847412109,0.03151329979300499,Raphael Guerreiro,h,3455,FromCorner,2014,Head,6180,Lorient,Evian Thonon Gaillard,0,2,2014-09-27 19:00:00,Walid Mesloub,Cross
+3370,9,BlockedShot,0.795,0.7069999694824218,0.023312000557780266,Raphael Guerreiro,h,3455,OpenPlay,2014,LeftFoot,6076,Lorient,Paris Saint Germain,1,2,2014-11-01 16:00:00,Yann Jouffre,Pass
+3380,41,Goal,0.95,0.674000015258789,0.07200910151004791,Raphael Guerreiro,h,3455,OpenPlay,2014,LeftFoot,6076,Lorient,Paris Saint Germain,1,2,2014-11-01 16:00:00,Jordan Ayew,Pass
+5068,60,SavedShot,0.8169999694824219,0.475,0.06058710068464279,Raphael Guerreiro,a,3455,OpenPlay,2014,LeftFoot,6085,Rennes,Lorient,1,0,2014-11-07 19:30:00,Walid Mesloub,Pass
+5751,8,BlockedShot,0.7530000305175781,0.41700000762939454,0.022520700469613075,Raphael Guerreiro,h,3455,OpenPlay,2014,LeftFoot,6098,Lorient,Lens,1,0,2014-11-22 19:00:00,Jordan Ayew,Pass
+5752,20,Goal,0.840999984741211,0.6680000305175782,0.06989140063524246,Raphael Guerreiro,h,3455,OpenPlay,2014,LeftFoot,6098,Lorient,Lens,1,0,2014-11-22 19:00:00,Jordan Ayew,LayOff
+5769,65,SavedShot,0.915,0.4640000152587891,0.12844699621200562,Raphael Guerreiro,h,3455,OpenPlay,2014,Head,6098,Lorient,Lens,1,0,2014-11-22 19:00:00,Vincent Le Goff,Cross
+5772,70,SavedShot,0.9780000305175781,0.6709999847412109,0.06871569901704788,Raphael Guerreiro,h,3455,OpenPlay,2014,LeftFoot,6098,Lorient,Lens,1,0,2014-11-22 19:00:00,Maxime Barthelme,Pass
+5773,70,BlockedShot,0.9619999694824218,0.5829999923706055,0.15359899401664734,Raphael Guerreiro,h,3455,OpenPlay,2014,LeftFoot,6098,Lorient,Lens,1,0,2014-11-22 19:00:00,,Rebound
+3921,43,SavedShot,0.7280000305175781,0.49400001525878906,0.015387900173664093,Raphael Guerreiro,a,3455,OpenPlay,2014,LeftFoot,6108,Toulouse,Lorient,2,3,2014-11-29 19:00:00,Wesley Lautoa,None
+3929,54,Goal,0.885,0.6179999923706054,0.06521269679069519,Raphael Guerreiro,a,3455,OpenPlay,2014,LeftFoot,6108,Toulouse,Lorient,2,3,2014-11-29 19:00:00,,Rebound
+5333,10,MissedShots,0.71,0.5370000076293945,0.011752099730074406,Raphael Guerreiro,a,3455,SetPiece,2014,LeftFoot,6050,Bordeaux,Lorient,3,2,2014-12-06 19:00:00,,Rebound
+5338,30,BlockedShot,0.705,0.4520000076293945,0.04086659848690033,Raphael Guerreiro,a,3455,DirectFreekick,2014,LeftFoot,6050,Bordeaux,Lorient,3,2,2014-12-06 19:00:00,,Standard
+5342,40,MissedShots,0.8209999847412109,0.6990000152587891,0.056414201855659485,Raphael Guerreiro,a,3455,OpenPlay,2014,LeftFoot,6050,Bordeaux,Lorient,3,2,2014-12-06 19:00:00,Benjamin Jeannot,HeadPass
+3723,1,MissedShots,0.845,0.6120000076293945,0.022902600467205048,Raphael Guerreiro,h,3455,OpenPlay,2014,RightFoot,6061,Lorient,Metz,3,1,2014-12-13 19:00:00,,Aerial
+3733,36,Goal,0.835,0.6179999923706054,0.0381757989525795,Raphael Guerreiro,h,3455,FromCorner,2014,LeftFoot,6061,Lorient,Metz,3,1,2014-12-13 19:00:00,,None
+3742,64,MissedShots,0.7069999694824218,0.4209999847412109,0.040388599038124084,Raphael Guerreiro,h,3455,DirectFreekick,2014,LeftFoot,6061,Lorient,Metz,3,1,2014-12-13 19:00:00,,Standard
+4991,24,SavedShot,0.855,0.5479999923706055,0.12347400188446045,Raphael Guerreiro,h,3455,OpenPlay,2014,RightFoot,6069,Lorient,Nantes,1,2,2014-12-20 19:00:00,Jordan Ayew,TakeOn
+5002,54,SavedShot,0.7169999694824218,0.44,0.045562900602817535,Raphael Guerreiro,h,3455,DirectFreekick,2014,RightFoot,6069,Lorient,Nantes,1,2,2014-12-20 19:00:00,,Standard
+5004,56,MissedShots,0.7240000152587891,0.4520000076293945,0.014088200405240059,Raphael Guerreiro,h,3455,OpenPlay,2014,LeftFoot,6069,Lorient,Nantes,1,2,2014-12-20 19:00:00,,BallRecovery
+4168,7,SavedShot,0.925,0.6869999694824219,0.06533709913492203,Raphael Guerreiro,h,3455,OpenPlay,2014,LeftFoot,6011,Lorient,Lille,1,0,2015-01-17 19:00:00,Benjamin Jeannot,Pass
+4175,43,BlockedShot,0.894000015258789,0.4229999923706055,0.08164740353822708,Raphael Guerreiro,h,3455,FromCorner,2014,RightFoot,6011,Lorient,Lille,1,0,2015-01-17 19:00:00,,None
+4181,58,Goal,0.9830000305175781,0.5359999847412109,0.9611610174179077,Raphael Guerreiro,h,3455,OpenPlay,2014,OtherBodyPart,6011,Lorient,Lille,1,0,2015-01-17 19:00:00,Mathias Autret,Rebound
+4188,78,SavedShot,0.81,0.645,0.04496049880981445,Raphael Guerreiro,h,3455,OpenPlay,2014,RightFoot,6011,Lorient,Lille,1,0,2015-01-17 19:00:00,Walid Mesloub,Chipped
+4191,85,SavedShot,0.7659999847412109,0.6140000152587891,0.0307730995118618,Raphael Guerreiro,h,3455,OpenPlay,2014,LeftFoot,6011,Lorient,Lille,1,0,2015-01-17 19:00:00,Benjamin Jeannot,Pass
+5230,2,BlockedShot,0.6890000152587891,0.5609999847412109,0.03497450053691864,Raphael Guerreiro,a,3455,DirectFreekick,2014,LeftFoot,6021,Guingamp,Lorient,3,2,2015-01-24 19:00:00,,Standard
+5242,43,MissedShots,0.845999984741211,0.6,0.06479410082101822,Raphael Guerreiro,a,3455,OpenPlay,2014,LeftFoot,6021,Guingamp,Lorient,3,2,2015-01-24 19:00:00,Walid Mesloub,Pass
+6100,6,SavedShot,0.845999984741211,0.59,0.30241599678993225,Raphael Guerreiro,h,3455,OpenPlay,2014,LeftFoot,6032,Lorient,Montpellier,0,0,2015-01-31 19:00:00,Walid Mesloub,Throughball
+6103,27,BlockedShot,0.8590000152587891,0.7440000152587891,0.028554199263453484,Raphael Guerreiro,h,3455,OpenPlay,2014,LeftFoot,6032,Lorient,Montpellier,0,0,2015-01-31 19:00:00,Lamine Koné,Pass
+3540,10,MissedShots,0.7659999847412109,0.655,0.020488599315285683,Raphael Guerreiro,a,3455,OpenPlay,2014,LeftFoot,5965,Reims,Lorient,1,3,2015-02-07 19:00:00,Walid Mesloub,Pass
+3556,62,Goal,0.765,0.49900001525878906,0.01946749910712242,Raphael Guerreiro,a,3455,OpenPlay,2014,LeftFoot,5965,Reims,Lorient,1,3,2015-02-07 19:00:00,Benjamin Jeannot,Chipped
+3558,67,BlockedShot,0.9369999694824219,0.720999984741211,0.2990429997444153,Raphael Guerreiro,a,3455,OpenPlay,2014,LeftFoot,5965,Reims,Lorient,1,3,2015-02-07 19:00:00,Romain Philippoteaux,Chipped
+4738,5,MissedShots,0.8469999694824218,0.6830000305175781,0.0626882016658783,Raphael Guerreiro,h,3455,OpenPlay,2014,LeftFoot,5993,Lorient,SC Bastia,2,0,2015-02-28 19:00:00,Romain Philippoteaux,Pass
+4757,61,BlockedShot,0.755,0.43099998474121093,0.029203299432992935,Raphael Guerreiro,h,3455,OpenPlay,2014,LeftFoot,5993,Lorient,SC Bastia,2,0,2015-02-28 19:00:00,Romain Philippoteaux,Pass
+3281,16,BlockedShot,0.6630000305175782,0.4829999923706055,0.029283100739121437,Raphael Guerreiro,a,3455,DirectFreekick,2014,LeftFoot,5929,Evian Thonon Gaillard,Lorient,1,0,2015-03-04 18:00:00,,Standard
+3287,48,BlockedShot,0.7290000152587891,0.6179999923706054,0.018415799364447594,Raphael Guerreiro,a,3455,OpenPlay,2014,LeftFoot,5929,Evian Thonon Gaillard,Lorient,1,0,2015-03-04 18:00:00,Wesley Lautoa,Pass
+7846,10,SavedShot,0.750999984741211,0.6409999847412109,0.01581059955060482,Raphael Guerreiro,h,3455,OpenPlay,2014,LeftFoot,5943,Lorient,Caen,2,1,2015-03-14 19:00:00,Romain Philippoteaux,TakeOn
+7849,19,BlockedShot,0.7730000305175782,0.6229999923706054,0.02005230076611042,Raphael Guerreiro,h,3455,SetPiece,2014,LeftFoot,5943,Lorient,Caen,2,1,2015-03-14 19:00:00,,BallTouch
+7855,42,Goal,0.9109999847412109,0.7419999694824219,0.036194801330566406,Raphael Guerreiro,h,3455,OpenPlay,2014,LeftFoot,5943,Lorient,Caen,2,1,2015-03-14 19:00:00,Jordan Ayew,Pass
+7858,46,SavedShot,0.9519999694824218,0.38799999237060545,0.06937739998102188,Raphael Guerreiro,h,3455,OpenPlay,2014,LeftFoot,5943,Lorient,Caen,2,1,2015-03-14 19:00:00,Walid Mesloub,Cross
+7860,50,MissedShots,0.865999984741211,0.4929999923706055,0.0777646005153656,Raphael Guerreiro,h,3455,OpenPlay,2014,LeftFoot,5943,Lorient,Caen,2,1,2015-03-14 19:00:00,Benjamin Jeannot,None
+8495,47,MissedShots,0.6680000305175782,0.575,0.009961999952793121,Raphael Guerreiro,h,3455,OpenPlay,2014,LeftFoot,5888,Lorient,Rennes,0,3,2015-04-04 19:00:00,Walid Mesloub,Pass
+6364,6,BlockedShot,0.6909999847412109,0.62,0.01199410017579794,Raphael Guerreiro,a,3455,OpenPlay,2014,LeftFoot,5861,Metz,Lorient,0,4,2015-05-09 19:00:00,Walid Mesloub,Pass
+6967,88,MissedShots,0.815,0.700999984741211,0.02847610041499138,Raphael Guerreiro,a,3455,OpenPlay,2014,LeftFoot,5873,Nantes,Lorient,1,1,2015-05-16 20:00:00,,BallRecovery
+7239,43,BlockedShot,0.8540000152587891,0.625999984741211,0.10062800347805023,Raphael Guerreiro,h,3455,OpenPlay,2014,LeftFoot,5881,Lorient,Monaco,0,1,2015-05-23 20:00:00,Didier Ndong,Dispossessed
+61428,11,SavedShot,0.93,0.48700000762939455,0.14897599816322327,Raphael Guerreiro,a,3455,OpenPlay,2015,RightFoot,1878,Lyon,Lorient,0,0,2015-08-09 23:00:00,,Rebound
+61439,36,BlockedShot,0.9690000152587891,0.700999984741211,0.4492630064487457,Raphael Guerreiro,a,3455,OpenPlay,2015,LeftFoot,1878,Lyon,Lorient,0,0,2015-08-09 23:00:00,Walid Mesloub,TakeOn
+61625,16,BlockedShot,0.764000015258789,0.3110000038146973,0.05331819877028465,Raphael Guerreiro,h,3455,DirectFreekick,2015,LeftFoot,1887,Lorient,SC Bastia,1,1,2015-08-16 19:00:00,,Standard
+61630,52,BlockedShot,0.7380000305175781,0.5320000076293945,0.016545400023460388,Raphael Guerreiro,h,3455,OpenPlay,2015,LeftFoot,1887,Lorient,SC Bastia,1,1,2015-08-16 19:00:00,Vincent Le Goff,TakeOn
+61851,25,SavedShot,0.8590000152587891,0.72,0.03430519998073578,Raphael Guerreiro,h,3455,OpenPlay,2015,LeftFoot,1897,Lorient,Saint-Etienne,0,1,2015-08-23 19:00:00,Francois Bellugou,Pass
+61856,44,MissedShots,0.845,0.5220000076293946,0.06264390051364899,Raphael Guerreiro,h,3455,SetPiece,2015,RightFoot,1897,Lorient,Saint-Etienne,0,1,2015-08-23 19:00:00,,None
+61863,71,MissedShots,0.7290000152587891,0.3129999923706055,0.03944769874215126,Raphael Guerreiro,h,3455,DirectFreekick,2015,LeftFoot,1897,Lorient,Saint-Etienne,0,1,2015-08-23 19:00:00,,Standard
+62069,26,SavedShot,0.9119999694824219,0.7380000305175781,0.03899620100855827,Raphael Guerreiro,a,3455,OpenPlay,2015,LeftFoot,1904,Reims,Lorient,4,1,2015-08-29 22:00:00,Walid Mesloub,Pass
+62331,63,BlockedShot,0.8690000152587891,0.6359999847412109,0.07144799828529358,Raphael Guerreiro,h,3455,OpenPlay,2015,RightFoot,1912,Lorient,Angers,3,1,2015-09-12 22:00:00,Yann Jouffre,TakeOn
+62334,75,MissedShots,0.7659999847412109,0.35700000762939454,0.02976039983332157,Raphael Guerreiro,h,3455,OpenPlay,2015,RightFoot,1912,Lorient,Angers,3,1,2015-09-12 22:00:00,Rafidine Abdullah,Pass
+63725,24,Goal,0.9619999694824218,0.5259999847412109,0.6599069833755493,Raphael Guerreiro,h,3455,OpenPlay,2015,LeftFoot,1970,Lorient,Rennes,1,1,2015-10-24 19:00:00,Majeed Waris,Pass
+64114,2,MissedShots,0.749000015258789,0.6840000152587891,0.02272850088775158,Raphael Guerreiro,h,3455,FromCorner,2015,LeftFoot,1992,Lorient,Troyes,4,1,2015-11-07 23:00:00,Maxime Barthelme,TakeOn
+64944,16,SavedShot,0.755,0.7630000305175781,0.018576599657535553,Raphael Guerreiro,h,3455,OpenPlay,2015,LeftFoot,2000,Lorient,Paris Saint Germain,1,2,2015-11-21 20:00:00,Francois Bellugou,Pass
+64953,49,MissedShots,0.8059999847412109,0.505,0.059564799070358276,Raphael Guerreiro,h,3455,OpenPlay,2015,LeftFoot,2000,Lorient,Paris Saint Germain,1,2,2015-11-21 20:00:00,Maxime Barthelme,Pass
+64954,53,MissedShots,0.8159999847412109,0.365,0.02990490011870861,Raphael Guerreiro,h,3455,OpenPlay,2015,LeftFoot,2000,Lorient,Paris Saint Germain,1,2,2015-11-21 20:00:00,,None
+64955,60,BlockedShot,0.799000015258789,0.6320000076293946,0.04065040126442909,Raphael Guerreiro,h,3455,OpenPlay,2015,LeftFoot,2000,Lorient,Paris Saint Germain,1,2,2015-11-21 20:00:00,Maxime Barthelme,LayOff
+64958,73,SavedShot,0.865999984741211,0.4520000076293945,0.022390300408005714,Raphael Guerreiro,h,3455,OpenPlay,2015,Head,2000,Lorient,Paris Saint Germain,1,2,2015-11-21 20:00:00,Vincent Le Goff,Chipped
+64959,76,MissedShots,0.7069999694824218,0.34599998474121096,0.035627901554107666,Raphael Guerreiro,h,3455,DirectFreekick,2015,LeftFoot,2000,Lorient,Paris Saint Germain,1,2,2015-11-21 20:00:00,,Standard
+64360,2,MissedShots,0.815,0.40599998474121096,0.07084369659423828,Raphael Guerreiro,a,3455,OpenPlay,2015,LeftFoot,2012,GFC Ajaccio,Lorient,1,1,2015-11-28 23:00:00,Benjamin Moukandjo,Pass
+64787,28,BlockedShot,0.7440000152587891,0.44299999237060544,0.01351960003376007,Raphael Guerreiro,h,3455,FromCorner,2015,LeftFoot,2020,Lorient,Nice,0,0,2015-12-01 22:00:00,,Aerial
+64790,34,MissedShots,0.7,0.8109999847412109,0.011515500023961067,Raphael Guerreiro,h,3455,OpenPlay,2015,LeftFoot,2020,Lorient,Nice,0,0,2015-12-01 22:00:00,Yann Jouffre,Pass
+65540,34,MissedShots,0.715,0.38,0.04083789885044098,Raphael Guerreiro,a,3455,DirectFreekick,2015,LeftFoot,2044,Lille,Lorient,3,0,2015-12-12 23:00:00,,Standard
+65541,39,SavedShot,0.745,0.41,0.020762600004673004,Raphael Guerreiro,a,3455,OpenPlay,2015,LeftFoot,2044,Lille,Lorient,3,0,2015-12-12 23:00:00,Didier Ndong,Pass
+65399,38,BlockedShot,0.7680000305175781,0.6509999847412109,0.02116589993238449,Raphael Guerreiro,h,3455,OpenPlay,2015,LeftFoot,2053,Lorient,Nantes,0,0,2015-12-19 23:00:00,Majeed Waris,LayOff
+66327,56,SavedShot,0.740999984741211,0.7630000305175781,0.013135300017893314,Raphael Guerreiro,a,3455,OpenPlay,2015,LeftFoot,2085,Nice,Lorient,2,1,2016-01-23 23:00:00,Romain Philippoteaux,Pass
+66330,67,MissedShots,0.710999984741211,0.7440000152587891,0.013349699787795544,Raphael Guerreiro,a,3455,OpenPlay,2015,LeftFoot,2085,Nice,Lorient,2,1,2016-01-23 23:00:00,Walid Mesloub,Pass
+69146,18,Goal,0.899000015258789,0.674000015258789,0.07696639746427536,Raphael Guerreiro,a,3455,OpenPlay,2015,LeftFoot,2107,Paris Saint Germain,Lorient,3,1,2016-02-04 00:00:00,Majeed Waris,LayOff
+69159,84,MissedShots,0.855,0.6969999694824218,0.02205839939415455,Raphael Guerreiro,a,3455,OpenPlay,2015,LeftFoot,2107,Paris Saint Germain,Lorient,3,1,2016-02-04 00:00:00,Jimmy Cabot,Rebound
+69284,88,BlockedShot,0.8690000152587891,0.5359999847412109,0.08656980097293854,Raphael Guerreiro,h,3455,OpenPlay,2015,RightFoot,2111,Lorient,Montpellier,1,1,2016-02-06 23:00:00,Walid Mesloub,Chipped
+69807,92,Goal,0.8090000152587891,0.3609999847412109,0.10313399881124496,Raphael Guerreiro,h,3455,DirectFreekick,2015,LeftFoot,2131,Lorient,Guingamp,4,3,2016-02-20 23:00:00,,Standard
+69990,25,MissedShots,0.9359999847412109,0.5709999847412109,0.3699769973754883,Raphael Guerreiro,a,3455,OpenPlay,2015,LeftFoot,2143,Troyes,Lorient,0,1,2016-02-27 23:00:00,Maxime Barthelme,Cross
+67330,91,SavedShot,0.7469999694824219,0.3820000076293945,0.019055599346756935,Raphael Guerreiro,h,3455,OpenPlay,2015,LeftFoot,2160,Lorient,Marseille,1,1,2016-03-12 20:00:00,Didier Ndong,Pass
+67331,91,MissedShots,0.7219999694824218,0.42700000762939455,0.015489700250327587,Raphael Guerreiro,h,3455,OpenPlay,2015,LeftFoot,2160,Lorient,Marseille,1,1,2016-03-12 20:00:00,Didier Ndong,Pass
+67454,9,BlockedShot,0.730999984741211,0.565,0.052456799894571304,Raphael Guerreiro,h,3455,DirectFreekick,2015,LeftFoot,2188,Lorient,Lyon,1,3,2016-04-03 23:00:00,,Standard
+68619,61,BlockedShot,0.9069999694824219,0.635,0.08676689863204956,Raphael Guerreiro,a,3455,OpenPlay,2015,LeftFoot,2193,Caen,Lorient,1,2,2016-04-09 22:00:00,Majeed Waris,HeadPass
+67848,93,MissedShots,0.7559999847412109,0.6329999923706054,0.016026200726628304,Raphael Guerreiro,h,3455,OpenPlay,2015,LeftFoot,2203,Lorient,Toulouse,1,1,2016-04-16 22:00:00,,None
+68396,83,BlockedShot,0.8519999694824218,0.625999984741211,0.052621401846408844,Raphael Guerreiro,h,3455,OpenPlay,2015,RightFoot,2224,Lorient,Lille,0,1,2016-04-30 21:00:00,Walid Mesloub,Chipped
+68398,93,SavedShot,0.7730000305175782,0.504000015258789,0.029371099546551704,Raphael Guerreiro,h,3455,OpenPlay,2015,RightFoot,2224,Lorient,Lille,0,1,2016-04-30 21:00:00,,None
+67755,70,BlockedShot,0.9440000152587891,0.6880000305175781,0.06167079880833626,Raphael Guerreiro,a,3455,OpenPlay,2015,LeftFoot,2230,Bordeaux,Lorient,3,0,2016-05-07 23:00:00,Benjamin Jeannot,Pass
+128193,19,SavedShot,0.7609999847412109,0.66,0.021884700283408165,Raphael Guerreiro,h,3455,OpenPlay,2016,LeftFoot,1350,Borussia Dortmund,Darmstadt,6,0,2016-09-17 17:30:00,Marcel Schmelzer,Pass
+128196,39,SavedShot,0.705999984741211,0.5129999923706055,0.042902398854494095,Raphael Guerreiro,h,3455,DirectFreekick,2016,RightFoot,1350,Borussia Dortmund,Darmstadt,6,0,2016-09-17 17:30:00,,Standard
+128199,47,SavedShot,0.765,0.495,0.03179069980978966,Raphael Guerreiro,h,3455,OpenPlay,2016,LeftFoot,1350,Borussia Dortmund,Darmstadt,6,0,2016-09-17 17:30:00,Adrián Ramos,Pass
+128462,3,Goal,0.875,0.674000015258789,0.10741399973630905,Raphael Guerreiro,a,3455,OpenPlay,2016,LeftFoot,1354,Wolfsburg,Borussia Dortmund,1,5,2016-09-20 22:00:00,Marc Bartra,Throughball
+128631,76,MissedShots,0.759000015258789,0.3189999961853027,0.053594499826431274,Raphael Guerreiro,h,3455,DirectFreekick,2016,LeftFoot,1363,Borussia Dortmund,Freiburg,3,1,2016-09-23 22:30:00,,Standard
+128633,90,Goal,0.92,0.6530000305175782,0.34497299790382385,Raphael Guerreiro,h,3455,OpenPlay,2016,LeftFoot,1363,Borussia Dortmund,Freiburg,3,1,2016-09-23 22:30:00,Gonzalo Castro,Pass
+128855,45,SavedShot,0.715,0.4779999923706055,0.017542900517582893,Raphael Guerreiro,a,3455,OpenPlay,2016,LeftFoot,1378,Bayer Leverkusen,Borussia Dortmund,2,0,2016-10-01 20:30:00,Lukasz Piszczek,Pass
+128865,85,SavedShot,0.7290000152587891,0.44099998474121094,0.052873000502586365,Raphael Guerreiro,a,3455,DirectFreekick,2016,LeftFoot,1378,Bayer Leverkusen,Borussia Dortmund,2,0,2016-10-01 20:30:00,,Standard
+129759,76,MissedShots,0.6940000152587891,0.544000015258789,0.016777800396084785,Raphael Guerreiro,h,3455,SetPiece,2016,LeftFoot,3305,Borussia Dortmund,Schalke 04,0,0,2016-10-29 20:30:00,Julian Weigl,Pass
+131196,22,SavedShot,0.745999984741211,0.3940000152587891,0.058557700365781784,Raphael Guerreiro,a,3455,DirectFreekick,2016,LeftFoot,3739,Mainz 05,Borussia Dortmund,1,1,2017-01-29 19:30:00,,Standard
+131766,34,MissedShots,0.715,0.549000015258789,0.012683000415563583,Raphael Guerreiro,a,3455,OpenPlay,2016,LeftFoot,3751,Darmstadt,Borussia Dortmund,2,1,2017-02-11 14:30:00,,None
+131770,43,Goal,0.86,0.6469999694824219,0.0511413998901844,Raphael Guerreiro,a,3455,OpenPlay,2016,LeftFoot,3751,Darmstadt,Borussia Dortmund,2,1,2017-02-11 14:30:00,Emre Mor,Chipped
+131773,51,BlockedShot,0.8930000305175781,0.6040000152587891,0.07864099740982056,Raphael Guerreiro,a,3455,OpenPlay,2016,LeftFoot,3751,Darmstadt,Borussia Dortmund,2,1,2017-02-11 14:30:00,,None
+132359,30,SavedShot,0.9430000305175781,0.5520000076293945,0.5756149888038635,Raphael Guerreiro,a,3455,OpenPlay,2016,LeftFoot,3770,Freiburg,Borussia Dortmund,0,3,2017-02-25 14:30:00,,Rebound
+132363,30,MissedShots,0.9469999694824218,0.45799999237060546,0.6157879829406738,Raphael Guerreiro,a,3455,OpenPlay,2016,RightFoot,3770,Freiburg,Borussia Dortmund,0,3,2017-02-25 14:30:00,Marco Reus,Pass
+132368,57,MissedShots,0.8109999847412109,0.710999984741211,0.04297269880771637,Raphael Guerreiro,a,3455,OpenPlay,2016,LeftFoot,3770,Freiburg,Borussia Dortmund,0,3,2017-02-25 14:30:00,Gonzalo Castro,Pass
+132477,91,Goal,0.899000015258789,0.649000015258789,0.3356960117816925,Raphael Guerreiro,h,3455,OpenPlay,2016,LeftFoot,3781,Borussia Dortmund,Bayer Leverkusen,6,2,2017-03-04 14:30:00,Christian Pulisic,Pass
+133801,13,BlockedShot,0.8580000305175781,0.674000015258789,0.05041150003671646,Raphael Guerreiro,a,3455,OpenPlay,2016,LeftFoot,3790,Hertha Berlin,Borussia Dortmund,2,1,2017-03-11 14:30:00,André Schürrle,Pass
+133822,73,BlockedShot,0.8930000305175781,0.42900001525878906,0.10131999850273132,Raphael Guerreiro,a,3455,OpenPlay,2016,LeftFoot,3790,Hertha Berlin,Borussia Dortmund,2,1,2017-03-11 14:30:00,Gonzalo Castro,Pass
+134296,44,MissedShots,0.865,0.7119999694824218,0.04811840131878853,Raphael Guerreiro,h,3455,OpenPlay,2016,LeftFoot,3794,Borussia Dortmund,Ingolstadt,1,0,2017-03-17 19:30:00,Sokratis,Pass
+133686,49,SavedShot,0.94,0.53,0.6066030263900757,Raphael Guerreiro,h,3455,OpenPlay,2016,LeftFoot,3812,Borussia Dortmund,Hamburger SV,3,0,2017-04-04 19:00:00,Shinji Kagawa,None
+133687,51,BlockedShot,0.8030000305175782,0.6990000152587891,0.0739704966545105,Raphael Guerreiro,h,3455,DirectFreekick,2016,LeftFoot,3812,Borussia Dortmund,Hamburger SV,3,0,2017-04-04 19:00:00,,Standard
+134434,18,MissedShots,0.7480000305175781,0.6,0.01496839988976717,Raphael Guerreiro,a,3455,OpenPlay,2016,LeftFoot,3827,Bayern Munich,Borussia Dortmund,4,1,2017-04-08 17:30:00,Gonzalo Castro,Pass
+134435,19,Goal,0.785,0.5459999847412109,0.02707120031118393,Raphael Guerreiro,a,3455,OpenPlay,2016,LeftFoot,3827,Bayern Munich,Borussia Dortmund,4,1,2017-04-08 17:30:00,,None
+133422,82,ShotOnPost,0.8880000305175781,0.635,0.11895599961280823,Raphael Guerreiro,a,3455,OpenPlay,2016,LeftFoot,3840,Borussia M.Gladbach,Borussia Dortmund,2,3,2017-04-22 17:30:00,Mikel Merino,Throughball
+133425,86,Goal,0.9030000305175782,0.5829999923706055,0.06005559861660004,Raphael Guerreiro,a,3455,SetPiece,2016,Head,3840,Borussia M.Gladbach,Borussia Dortmund,2,3,2017-04-22 17:30:00,Gonzalo Castro,Cross
+134176,91,MissedShots,0.9059999847412109,0.509000015258789,0.05771709978580475,Raphael Guerreiro,h,3455,OpenPlay,2016,Head,3848,Borussia Dortmund,FC Cologne,0,0,2017-04-29 14:30:00,Gonzalo Castro,Chipped
+134174,91,SavedShot,0.9230000305175782,0.580999984741211,0.256303995847702,Raphael Guerreiro,h,3455,OpenPlay,2016,Head,3848,Borussia Dortmund,FC Cologne,0,0,2017-04-29 14:30:00,Lukasz Piszczek,Chipped
+134858,81,ShotOnPost,0.9540000152587891,0.6,0.09730450063943863,Raphael Guerreiro,h,3455,OpenPlay,2016,LeftFoot,3860,Borussia Dortmund,Hoffenheim,2,1,2017-05-06 14:30:00,Lukasz Piszczek,Cross
+134861,85,MissedShots,0.9369999694824219,0.7090000152587891,0.065836600959301,Raphael Guerreiro,h,3455,OpenPlay,2016,LeftFoot,3860,Borussia Dortmund,Hoffenheim,2,1,2017-05-06 14:30:00,,None
+133229,7,MissedShots,0.904000015258789,0.5620000076293945,0.10505899786949158,Raphael Guerreiro,a,3455,OpenPlay,2016,LeftFoot,3870,Augsburg,Borussia Dortmund,1,1,2017-05-13 14:30:00,Lukasz Piszczek,BallRecovery
+133244,69,BlockedShot,0.8930000305175781,0.524000015258789,0.12642799317836761,Raphael Guerreiro,a,3455,OpenPlay,2016,LeftFoot,3870,Augsburg,Borussia Dortmund,1,1,2017-05-13 14:30:00,Marco Reus,Pass
+127683,18,SavedShot,0.735999984741211,0.6509999847412109,0.014528200030326843,Raphael Guerreiro,h,3455,OpenPlay,2016,LeftFoot,3875,Borussia Dortmund,Werder Bremen,4,3,2017-05-20 14:30:00,Nuri Sahin,HeadPass
+168231,24,Goal,0.91,0.649000015258789,0.061734799295663834,Raphael Guerreiro,h,3455,OpenPlay,2017,LeftFoot,8367,Borussia Dortmund,Schalke 04,4,4,2017-11-25 14:30:00,,Rebound
+169025,90,BlockedShot,0.9130000305175782,0.595999984741211,0.37493300437927246,Raphael Guerreiro,a,3455,OpenPlay,2017,LeftFoot,8382,Bayer Leverkusen,Borussia Dortmund,1,1,2017-12-02 14:30:00,Shinji Kagawa,None
+184085,44,SavedShot,0.7559999847412109,0.7,0.015015100128948689,Raphael Guerreiro,a,3455,OpenPlay,2017,LeftFoot,8401,Mainz 05,Borussia Dortmund,0,2,2017-12-12 19:30:00,Marcel Schmelzer,Pass
+184090,57,SavedShot,0.915,0.33,0.09085910022258759,Raphael Guerreiro,a,3455,OpenPlay,2017,LeftFoot,8401,Mainz 05,Borussia Dortmund,0,2,2017-12-12 19:30:00,Andriy Yarmolenko,Pass
+184096,83,MissedShots,0.8159999847412109,0.3729999923706055,0.055241700261831284,Raphael Guerreiro,a,3455,OpenPlay,2017,LeftFoot,8401,Mainz 05,Borussia Dortmund,0,2,2017-12-12 19:30:00,Pierre-Emerick Aubameyang,Pass
+214528,6,BlockedShot,0.8380000305175781,0.590999984741211,0.05716739967465401,Raphael Guerreiro,a,3455,OpenPlay,2017,RightFoot,8557,Hoffenheim,Borussia Dortmund,3,1,2018-05-12 14:30:00,,None
+214531,14,SavedShot,0.7580000305175781,0.6609999847412109,0.019969400018453598,Raphael Guerreiro,a,3455,OpenPlay,2017,LeftFoot,8557,Hoffenheim,Borussia Dortmund,3,1,2018-05-12 14:30:00,Jadon Sancho,Pass
+214532,17,SavedShot,0.8859999847412109,0.605,0.3015980124473572,Raphael Guerreiro,a,3455,OpenPlay,2017,LeftFoot,8557,Hoffenheim,Borussia Dortmund,3,1,2018-05-12 14:30:00,Nuri Sahin,Pass
+214546,64,MissedShots,0.884000015258789,0.66,0.05223650112748146,Raphael Guerreiro,a,3455,OpenPlay,2017,LeftFoot,8557,Hoffenheim,Borussia Dortmund,3,1,2018-05-12 14:30:00,,None
+255235,90,SavedShot,0.7469999694824219,0.7019999694824218,0.01774349994957447,Raphael Guerreiro,h,3455,OpenPlay,2018,LeftFoot,10393,Borussia Dortmund,Augsburg,4,3,2018-10-06 13:30:00,Abdou Diallo,Pass
+255237,92,MissedShots,0.9159999847412109,0.754000015258789,0.03223780170083046,Raphael Guerreiro,h,3455,OpenPlay,2018,LeftFoot,10393,Borussia Dortmund,Augsburg,4,3,2018-10-06 13:30:00,Mario Götze,Chipped
+255670,7,BlockedShot,0.88,0.7169999694824218,0.04203930124640465,Raphael Guerreiro,h,3455,OpenPlay,2018,LeftFoot,10410,Borussia Dortmund,Hertha Berlin,2,2,2018-10-27 13:30:00,Marco Reus,Pass
+255682,50,BlockedShot,0.8480000305175781,0.6790000152587891,0.03974299877882004,Raphael Guerreiro,h,3455,OpenPlay,2018,LeftFoot,10410,Borussia Dortmund,Hertha Berlin,2,2,2018-10-27 13:30:00,Marco Reus,Pass
+255688,75,BlockedShot,0.915,0.73,0.03223619982600212,Raphael Guerreiro,h,3455,FromCorner,2018,LeftFoot,10410,Borussia Dortmund,Hertha Berlin,2,2,2018-10-27 13:30:00,Christian Pulisic,Pass
+255690,77,SavedShot,0.86,0.55,0.3015829920768738,Raphael Guerreiro,h,3455,OpenPlay,2018,LeftFoot,10410,Borussia Dortmund,Hertha Berlin,2,2,2018-10-27 13:30:00,Mahmoud Dahoud,Chipped
+255947,45,BlockedShot,0.899000015258789,0.55,0.13637900352478027,Raphael Guerreiro,a,3455,OpenPlay,2018,RightFoot,10421,Wolfsburg,Borussia Dortmund,0,1,2018-11-03 14:30:00,Paco Alcácer,Pass
+257040,84,ShotOnPost,0.86,0.55,0.09621919691562653,Raphael Guerreiro,a,3455,OpenPlay,2018,RightFoot,10455,Schalke 04,Borussia Dortmund,1,2,2018-12-08 14:30:00,,None
+257680,47,BlockedShot,0.889000015258789,0.41700000762939454,0.10980299860239029,Raphael Guerreiro,h,3455,OpenPlay,2018,RightFoot,10483,Borussia Dortmund,Borussia M.Gladbach,2,1,2018-12-21 19:30:00,Mario Götze,Pass
+278440,67,SavedShot,0.8680000305175781,0.185,0.05865839868783951,Raphael Guerreiro,a,3455,DirectFreekick,2018,LeftFoot,10490,RasenBallsport Leipzig,Borussia Dortmund,0,1,2019-01-19 17:30:00,,Standard
+278550,39,SavedShot,0.8540000152587891,0.5940000152587891,0.10390999913215637,Raphael Guerreiro,h,3455,SetPiece,2018,LeftFoot,10500,Borussia Dortmund,Hannover 96,5,1,2019-01-26 14:30:00,Lukasz Piszczek,Throughball
+278554,56,SavedShot,0.7819999694824219,0.3220000076293945,0.0294514000415802,Raphael Guerreiro,h,3455,OpenPlay,2018,LeftFoot,10500,Borussia Dortmund,Hannover 96,5,1,2019-01-26 14:30:00,Lukasz Piszczek,Pass
+278557,66,Goal,0.9119999694824219,0.37099998474121093,0.44086599349975586,Raphael Guerreiro,h,3455,OpenPlay,2018,RightFoot,10500,Borussia Dortmund,Hannover 96,5,1,2019-01-26 14:30:00,Marco Reus,Throughball
+278562,86,MissedShots,0.904000015258789,0.34799999237060547,0.10055500268936157,Raphael Guerreiro,h,3455,OpenPlay,2018,LeftFoot,10500,Borussia Dortmund,Hannover 96,5,1,2019-01-26 14:30:00,Jadon Sancho,Chipped
+278992,49,MissedShots,0.8490000152587891,0.649000015258789,0.07608810067176819,Raphael Guerreiro,h,3455,OpenPlay,2018,LeftFoot,10518,Borussia Dortmund,Hoffenheim,3,3,2019-02-09 14:30:00,Mahmoud Dahoud,Pass
+278999,65,Goal,0.919000015258789,0.43599998474121093,0.5410739779472351,Raphael Guerreiro,h,3455,OpenPlay,2018,LeftFoot,10518,Borussia Dortmund,Hoffenheim,3,3,2019-02-09 14:30:00,Mario Götze,Pass
+279000,68,MissedShots,0.8669999694824219,0.265,0.02816230058670044,Raphael Guerreiro,h,3455,FromCorner,2018,LeftFoot,10518,Borussia Dortmund,Hoffenheim,3,3,2019-02-09 14:30:00,Jadon Sancho,HeadPass
+279007,79,SavedShot,0.8380000305175781,0.435,0.09770440310239792,Raphael Guerreiro,h,3455,OpenPlay,2018,LeftFoot,10518,Borussia Dortmund,Hoffenheim,3,3,2019-02-09 14:30:00,Mario Götze,Pass
+279357,93,BlockedShot,0.8580000305175781,0.68,0.051132701337337494,Raphael Guerreiro,a,3455,OpenPlay,2018,LeftFoot,10533,Nuernberg,Borussia Dortmund,0,0,2019-02-18 19:30:00,Axel Witsel,Pass
+279538,17,MissedShots,0.755,0.7659999847412109,0.012362799607217312,Raphael Guerreiro,h,3455,OpenPlay,2018,LeftFoot,10536,Borussia Dortmund,Bayer Leverkusen,3,2,2019-02-24 17:00:00,Paco Alcácer,Pass
+279596,70,MissedShots,0.889000015258789,0.7440000152587891,0.024281099438667297,Raphael Guerreiro,a,3455,OpenPlay,2018,LeftFoot,10550,Augsburg,Borussia Dortmund,2,1,2019-03-01 19:30:00,Mario Götze,None
+284425,35,BlockedShot,0.7340000152587891,0.5479999923706055,0.01997620053589344,Raphael Guerreiro,h,3455,OpenPlay,2018,LeftFoot,10555,Borussia Dortmund,VfB Stuttgart,3,1,2019-03-09 14:30:00,Jadon Sancho,Pass
+284427,41,SavedShot,0.7559999847412109,0.5570000076293945,0.023903699591755867,Raphael Guerreiro,h,3455,OpenPlay,2018,LeftFoot,10555,Borussia Dortmund,VfB Stuttgart,3,1,2019-03-09 14:30:00,Jadon Sancho,Pass
+284428,55,MissedShots,0.8469999694824218,0.605,0.07351510226726532,Raphael Guerreiro,h,3455,OpenPlay,2018,LeftFoot,10555,Borussia Dortmund,VfB Stuttgart,3,1,2019-03-09 14:30:00,Marco Reus,Pass
+287470,67,SavedShot,0.765,0.6669999694824219,0.059539198875427246,Raphael Guerreiro,h,3455,DirectFreekick,2018,LeftFoot,10572,Borussia Dortmund,Wolfsburg,2,0,2019-03-30 14:30:00,,Standard
+287472,71,SavedShot,0.7709999847412109,0.685,0.02042509987950325,Raphael Guerreiro,h,3455,OpenPlay,2018,LeftFoot,10572,Borussia Dortmund,Wolfsburg,2,0,2019-03-30 14:30:00,Thomas Delaney,Pass
+297362,48,BlockedShot,0.799000015258789,0.285,0.018073400482535362,Raphael Guerreiro,h,3455,OpenPlay,2018,LeftFoot,10607,Borussia Dortmund,Schalke 04,2,4,2019-04-27 14:30:00,Marius Wolf,TakeOn
+297364,53,MissedShots,0.7809999847412109,0.22899999618530273,0.0177535992115736,Raphael Guerreiro,h,3455,OpenPlay,2018,LeftFoot,10607,Borussia Dortmund,Schalke 04,2,4,2019-04-27 14:30:00,Mario Götze,Pass
+299424,29,BlockedShot,0.8680000305175781,0.5429999923706055,0.05559169873595238,Raphael Guerreiro,a,3455,OpenPlay,2018,RightFoot,10621,Werder Bremen,Borussia Dortmund,2,2,2019-05-04 17:30:00,Christian Pulisic,Aerial
+299435,49,SavedShot,0.765,0.664000015258789,0.03014340065419674,Raphael Guerreiro,a,3455,OpenPlay,2018,LeftFoot,10621,Werder Bremen,Borussia Dortmund,2,2,2019-05-04 17:30:00,Mario Götze,Pass
+300730,20,SavedShot,0.8519999694824218,0.549000015258789,0.06895379722118378,Raphael Guerreiro,h,3455,OpenPlay,2018,RightFoot,10626,Borussia Dortmund,Fortuna Duesseldorf,3,2,2019-05-11 14:30:00,,None
+300734,37,MissedShots,0.7430000305175781,0.5940000152587891,0.015265800058841705,Raphael Guerreiro,h,3455,OpenPlay,2018,RightFoot,10626,Borussia Dortmund,Fortuna Duesseldorf,3,2,2019-05-11 14:30:00,,None
+300737,51,SavedShot,0.7609999847412109,0.6809999847412109,0.05458899959921837,Raphael Guerreiro,h,3455,DirectFreekick,2018,LeftFoot,10626,Borussia Dortmund,Fortuna Duesseldorf,3,2,2019-05-11 14:30:00,,Standard
+302341,52,BlockedShot,0.8059999847412109,0.7230000305175781,0.017946600914001465,Raphael Guerreiro,a,3455,OpenPlay,2018,LeftFoot,10639,Borussia M.Gladbach,Borussia Dortmund,0,2,2019-05-18 13:30:00,Christian Pulisic,Chipped
+302349,82,MissedShots,0.82,0.7240000152587891,0.03282659873366356,Raphael Guerreiro,a,3455,OpenPlay,2018,LeftFoot,10639,Borussia M.Gladbach,Borussia Dortmund,0,2,2019-05-18 13:30:00,Marco Reus,Pass
+316047,76,BlockedShot,0.86,0.7380000305175781,0.03179210051894188,Raphael Guerreiro,a,3455,OpenPlay,2019,LeftFoot,12427,Union Berlin,Borussia Dortmund,3,1,2019-08-31 17:30:00,Mahmoud Dahoud,Pass
+317121,82,Goal,0.895,0.5109999847412109,0.5332329869270325,Raphael Guerreiro,h,3455,OpenPlay,2019,RightFoot,12435,Borussia Dortmund,Bayer Leverkusen,4,0,2019-09-14 13:30:00,,None
+321356,65,SavedShot,0.795,0.4490000152587891,0.11832500249147415,Raphael Guerreiro,a,3455,DirectFreekick,2019,LeftFoot,12446,Eintracht Frankfurt,Borussia Dortmund,2,2,2019-09-22 16:00:00,,Standard
+329030,47,MissedShots,0.89,0.64,0.08697190135717392,Raphael Guerreiro,h,3455,OpenPlay,2019,LeftFoot,12484,Borussia Dortmund,Wolfsburg,3,0,2019-11-02 14:30:00,Achraf Hakimi,Pass
+329035,57,Goal,0.91,0.6780000305175782,0.08113659918308258,Raphael Guerreiro,h,3455,OpenPlay,2019,LeftFoot,12484,Borussia Dortmund,Wolfsburg,3,0,2019-11-02 14:30:00,Thorgan Hazard,Pass
+331757,15,MissedShots,0.78,0.43,0.052120499312877655,Raphael Guerreiro,h,3455,OpenPlay,2019,LeftFoot,12502,Borussia Dortmund,Paderborn,3,3,2019-11-22 19:30:00,Jadon Sancho,Pass
+331758,24,MissedShots,0.860999984741211,0.43599998474121093,0.08189660310745239,Raphael Guerreiro,h,3455,OpenPlay,2019,RightFoot,12502,Borussia Dortmund,Paderborn,3,3,2019-11-22 19:30:00,Lukasz Piszczek,Pass
+333517,72,SavedShot,0.7080000305175781,0.7290000152587891,0.013612199574708939,Raphael Guerreiro,a,3455,OpenPlay,2019,LeftFoot,12513,Hertha Berlin,Borussia Dortmund,1,2,2019-11-30 14:30:00,Julian Brandt,Pass
+335571,18,MissedShots,0.8130000305175781,0.6840000152587891,0.017904000356793404,Raphael Guerreiro,h,3455,OpenPlay,2019,LeftFoot,12520,Borussia Dortmund,Fortuna Duesseldorf,5,0,2019-12-07 14:30:00,Thorgan Hazard,Cross
+335572,21,MissedShots,0.764000015258789,0.6919999694824219,0.013814100064337254,Raphael Guerreiro,h,3455,OpenPlay,2019,LeftFoot,12520,Borussia Dortmund,Fortuna Duesseldorf,5,0,2019-12-07 14:30:00,,None
+335579,50,MissedShots,0.725,0.47299999237060547,0.014778999611735344,Raphael Guerreiro,h,3455,FromCorner,2019,LeftFoot,12520,Borussia Dortmund,Fortuna Duesseldorf,5,0,2019-12-07 14:30:00,,None
+335590,85,SavedShot,0.8219999694824218,0.519000015258789,0.09458339959383011,Raphael Guerreiro,h,3455,OpenPlay,2019,LeftFoot,12520,Borussia Dortmund,Fortuna Duesseldorf,5,0,2019-12-07 14:30:00,Jadon Sancho,Pass
+354860,14,MissedShots,0.82,0.44799999237060545,0.06050179898738861,Raphael Guerreiro,a,3455,OpenPlay,2019,LeftFoot,12562,Augsburg,Borussia Dortmund,3,5,2020-01-18 14:30:00,Julian Brandt,BallTouch
+354879,61,BlockedShot,0.7830000305175782,0.7819999694824219,0.016676299273967743,Raphael Guerreiro,a,3455,FromCorner,2019,LeftFoot,12562,Augsburg,Borussia Dortmund,3,5,2020-01-18 14:30:00,Julian Brandt,Pass
+355512,0,Goal,0.8969999694824219,0.5479999923706055,0.4013020098209381,Raphael Guerreiro,h,3455,OpenPlay,2019,RightFoot,12566,Borussia Dortmund,FC Cologne,5,1,2020-01-24 19:30:00,Jadon Sancho,Pass
+355530,76,SavedShot,0.879000015258789,0.505,0.4845159947872162,Raphael Guerreiro,h,3455,OpenPlay,2019,LeftFoot,12566,Borussia Dortmund,FC Cologne,5,1,2020-01-24 19:30:00,Jadon Sancho,Pass
+356588,16,SavedShot,0.7580000305175781,0.28299999237060547,0.04663100093603134,Raphael Guerreiro,h,3455,DirectFreekick,2019,LeftFoot,12574,Borussia Dortmund,Union Berlin,5,0,2020-02-01 14:30:00,,Standard
+356591,20,BlockedShot,0.8069999694824219,0.580999984741211,0.06835760176181793,Raphael Guerreiro,h,3455,OpenPlay,2019,LeftFoot,12574,Borussia Dortmund,Union Berlin,5,0,2020-02-01 14:30:00,Erling Haaland,Pass
+356602,86,MissedShots,0.894000015258789,0.37400001525878906,0.4113669991493225,Raphael Guerreiro,h,3455,OpenPlay,2019,RightFoot,12574,Borussia Dortmund,Union Berlin,5,0,2020-02-01 14:30:00,Giovanni Reyna,BallTouch
+358142,47,MissedShots,0.8830000305175781,0.6990000152587891,0.043528199195861816,Raphael Guerreiro,a,3455,OpenPlay,2019,LeftFoot,12584,Bayer Leverkusen,Borussia Dortmund,4,3,2020-02-08 17:30:00,Jadon Sancho,Pass
+358146,64,Goal,0.9169999694824219,0.6370000076293946,0.3198449909687042,Raphael Guerreiro,a,3455,OpenPlay,2019,LeftFoot,12584,Bayer Leverkusen,Borussia Dortmund,4,3,2020-02-08 17:30:00,Achraf Hakimi,Pass
+358715,8,ShotOnPost,0.7619999694824219,0.305,0.05236639827489853,Raphael Guerreiro,h,3455,DirectFreekick,2019,LeftFoot,12592,Borussia Dortmund,Eintracht Frankfurt,4,0,2020-02-14 19:30:00,,Standard
+358728,73,Goal,0.8080000305175781,0.605999984741211,0.0568276010453701,Raphael Guerreiro,h,3455,OpenPlay,2019,LeftFoot,12592,Borussia Dortmund,Eintracht Frankfurt,4,0,2020-02-14 19:30:00,,BallTouch
+358730,81,SavedShot,0.795,0.22600000381469726,0.04852930083870888,Raphael Guerreiro,h,3455,DirectFreekick,2019,LeftFoot,12592,Borussia Dortmund,Eintracht Frankfurt,4,0,2020-02-14 19:30:00,,Standard
+359819,50,BlockedShot,0.7319999694824219,0.585,0.01878719963133335,Raphael Guerreiro,a,3455,OpenPlay,2019,LeftFoot,12606,Werder Bremen,Borussia Dortmund,0,2,2020-02-22 14:30:00,Jadon Sancho,Pass
+360734,41,MissedShots,0.7319999694824219,0.590999984741211,0.020758699625730515,Raphael Guerreiro,h,3455,OpenPlay,2019,LeftFoot,12610,Borussia Dortmund,Freiburg,1,0,2020-02-29 14:30:00,,None
+360750,88,MissedShots,0.7419999694824219,0.5070000076293946,0.028692299500107765,Raphael Guerreiro,h,3455,FromCorner,2019,LeftFoot,12610,Borussia Dortmund,Freiburg,1,0,2020-02-29 14:30:00,Giovanni Reyna,Pass
+362918,14,BlockedShot,0.9180000305175782,0.3039999961853027,0.05919570103287697,Raphael Guerreiro,h,3455,OpenPlay,2019,RightFoot,12628,Borussia Dortmund,Schalke 04,4,0,2020-05-16 13:30:00,Thorgan Hazard,Pass
+362924,34,MissedShots,0.8590000152587891,0.47299999237060547,0.10495100170373917,Raphael Guerreiro,h,3455,OpenPlay,2019,LeftFoot,12628,Borussia Dortmund,Schalke 04,4,0,2020-05-16 13:30:00,Achraf Hakimi,Pass
+362927,44,Goal,0.9159999847412109,0.6840000152587891,0.07176200300455093,Raphael Guerreiro,h,3455,OpenPlay,2019,LeftFoot,12628,Borussia Dortmund,Schalke 04,4,0,2020-05-16 13:30:00,Julian Brandt,Pass
+362932,62,Goal,0.8880000305175781,0.4640000152587891,0.5230039954185486,Raphael Guerreiro,h,3455,OpenPlay,2019,LeftFoot,12628,Borussia Dortmund,Schalke 04,4,0,2020-05-16 13:30:00,Erling Haaland,Throughball
+363199,31,Goal,0.909000015258789,0.5279999923706055,0.48401200771331787,Raphael Guerreiro,a,3455,OpenPlay,2019,LeftFoot,12640,Wolfsburg,Borussia Dortmund,0,2,2020-05-23 13:30:00,Thorgan Hazard,Pass
+363207,70,BlockedShot,0.9580000305175781,0.7380000305175781,0.05677279829978943,Raphael Guerreiro,a,3455,OpenPlay,2019,LeftFoot,12640,Wolfsburg,Borussia Dortmund,0,2,2020-05-23 13:30:00,,None
+363361,74,SavedShot,0.79,0.37599998474121094,0.08996939659118652,Raphael Guerreiro,h,3455,DirectFreekick,2019,LeftFoot,12652,Borussia Dortmund,Bayern Munich,0,1,2020-05-26 16:30:00,,Standard
+363737,25,BlockedShot,0.8619999694824219,0.6,0.33972200751304626,Raphael Guerreiro,a,3455,OpenPlay,2019,LeftFoot,12663,Paderborn,Borussia Dortmund,1,6,2020-05-31 16:00:00,Julian Brandt,Pass
+363961,37,MissedShots,0.8959999847412109,0.17899999618530274,0.06258740276098251,Raphael Guerreiro,h,3455,DirectFreekick,2019,LeftFoot,12664,Borussia Dortmund,Hertha Berlin,1,0,2020-06-06 16:30:00,,Standard
+364755,17,BlockedShot,0.84,0.525,0.09301889687776566,Raphael Guerreiro,h,3455,OpenPlay,2019,LeftFoot,12682,Borussia Dortmund,Mainz 05,0,2,2020-06-17 18:30:00,Achraf Hakimi,TakeOn
+364761,40,MissedShots,0.870999984741211,0.5609999847412109,0.03587609902024269,Raphael Guerreiro,h,3455,OpenPlay,2019,Head,12682,Borussia Dortmund,Mainz 05,0,2,2020-06-17 18:30:00,Lukasz Piszczek,Cross
+364762,44,MissedShots,0.8959999847412109,0.67,0.035350501537323,Raphael Guerreiro,h,3455,OpenPlay,2019,LeftFoot,12682,Borussia Dortmund,Mainz 05,0,2,2020-06-17 18:30:00,Achraf Hakimi,Cross
+365260,44,MissedShots,0.775,0.31,0.059972699731588364,Raphael Guerreiro,a,3455,DirectFreekick,2019,LeftFoot,12692,RasenBallsport Leipzig,Borussia Dortmund,0,2,2020-06-20 13:30:00,,Standard
+378799,49,MissedShots,0.8819999694824219,0.53,0.06520330160856247,Raphael Guerreiro,a,3455,OpenPlay,2020,Head,14184,Augsburg,Borussia Dortmund,2,0,2020-09-26 13:30:00,Emre Can,Cross
+378802,54,BlockedShot,0.8830000305175781,0.5579999923706055,0.10984300076961517,Raphael Guerreiro,a,3455,OpenPlay,2020,RightFoot,14184,Augsburg,Borussia Dortmund,2,0,2020-09-26 13:30:00,Erling Haaland,Pass
+381780,83,MissedShots,0.8690000152587891,0.6969999694824218,0.06307429820299149,Raphael Guerreiro,a,3455,OpenPlay,2020,LeftFoot,15167,Hoffenheim,Borussia Dortmund,0,1,2020-10-17 13:30:00,Erling Haaland,BallTouch
+383458,17,MissedShots,0.7619999694824219,0.5670000076293945,0.02982259914278984,Raphael Guerreiro,h,3455,OpenPlay,2020,LeftFoot,15181,Borussia Dortmund,Schalke 04,3,0,2020-10-24 16:30:00,Julian Brandt,HeadPass
+383467,54,SavedShot,0.87,0.34,0.04292520135641098,Raphael Guerreiro,h,3455,FromCorner,2020,LeftFoot,15181,Borussia Dortmund,Schalke 04,3,0,2020-10-24 16:30:00,Julian Brandt,Pass
+383473,72,MissedShots,0.8680000305175781,0.52,0.03707610070705414,Raphael Guerreiro,h,3455,OpenPlay,2020,Head,15181,Borussia Dortmund,Schalke 04,3,0,2020-10-24 16:30:00,Felix Passlack,Cross
+384572,77,SavedShot,0.9409999847412109,0.645,0.2974179983139038,Raphael Guerreiro,a,3455,OpenPlay,2020,LeftFoot,15188,Arminia Bielefeld,Borussia Dortmund,0,2,2020-10-31 14:30:00,Julian Brandt,Pass
+384576,89,SavedShot,0.8369999694824218,0.6569999694824219,0.06609659641981125,Raphael Guerreiro,a,3455,OpenPlay,2020,LeftFoot,15188,Arminia Bielefeld,Borussia Dortmund,0,2,2020-10-31 14:30:00,Julian Brandt,Pass
+387565,28,BlockedShot,0.72,0.6320000076293946,0.042671699076890945,Raphael Guerreiro,a,3455,DirectFreekick,2020,LeftFoot,15209,Hertha Berlin,Borussia Dortmund,2,5,2020-11-21 19:30:00,,Standard
+387568,38,SavedShot,0.87,0.515,0.07388550043106079,Raphael Guerreiro,a,3455,OpenPlay,2020,LeftFoot,15209,Hertha Berlin,Borussia Dortmund,2,5,2020-11-21 19:30:00,Marco Reus,Cross
+387569,40,BlockedShot,0.81,0.5409999847412109,0.04083919897675514,Raphael Guerreiro,a,3455,OpenPlay,2020,LeftFoot,15209,Hertha Berlin,Borussia Dortmund,2,5,2020-11-21 19:30:00,Mahmoud Dahoud,Pass
+387577,69,Goal,0.9430000305175781,0.5029999923706054,0.6162310242652893,Raphael Guerreiro,a,3455,OpenPlay,2020,LeftFoot,15209,Hertha Berlin,Borussia Dortmund,2,5,2020-11-21 19:30:00,,None
+391612,70,BlockedShot,0.7580000305175781,0.495,0.025030700489878654,Raphael Guerreiro,h,3455,OpenPlay,2020,LeftFoot,15230,Borussia Dortmund,VfB Stuttgart,1,5,2020-12-12 14:30:00,Jadon Sancho,Pass
+392645,11,Goal,0.8919999694824219,0.47,0.11115899682044983,Raphael Guerreiro,a,3455,SetPiece,2020,LeftFoot,15242,Werder Bremen,Borussia Dortmund,1,2,2020-12-15 19:30:00,,Rebound
+392652,50,SavedShot,0.7609999847412109,0.615,0.022440500557422638,Raphael Guerreiro,a,3455,OpenPlay,2020,LeftFoot,15242,Werder Bremen,Borussia Dortmund,1,2,2020-12-15 19:30:00,,Dispossessed
+392656,68,SavedShot,0.7469999694824219,0.6569999694824219,0.01657089963555336,Raphael Guerreiro,a,3455,OpenPlay,2020,LeftFoot,15242,Werder Bremen,Borussia Dortmund,1,2,2020-12-15 19:30:00,Jadon Sancho,BallRecovery
+397912,58,MissedShots,0.8419999694824218,0.635,0.06367140263319016,Raphael Guerreiro,a,3455,OpenPlay,2020,LeftFoot,15266,RasenBallsport Leipzig,Borussia Dortmund,1,3,2021-01-09 17:30:00,Emre Can,Pass
+397916,68,MissedShots,0.7780000305175782,0.695,0.022593799978494644,Raphael Guerreiro,a,3455,OpenPlay,2020,LeftFoot,15266,RasenBallsport Leipzig,Borussia Dortmund,1,3,2021-01-09 17:30:00,Marco Reus,Pass
+397931,91,MissedShots,0.8830000305175781,0.635,0.08056619763374329,Raphael Guerreiro,a,3455,OpenPlay,2020,LeftFoot,15266,RasenBallsport Leipzig,Borussia Dortmund,1,3,2021-01-09 17:30:00,Thomas Meunier,Cross
+398977,35,SavedShot,0.775,0.7240000152587891,0.019563499838113785,Raphael Guerreiro,h,3455,OpenPlay,2020,LeftFoot,15276,Borussia Dortmund,Mainz 05,1,1,2021-01-16 14:30:00,Julian Brandt,Pass
+400234,35,MissedShots,0.7619999694824219,0.620999984741211,0.022432999685406685,Raphael Guerreiro,a,3455,OpenPlay,2020,LeftFoot,15293,Borussia M.Gladbach,Borussia Dortmund,4,2,2021-01-22 19:30:00,Mats Hummels,BallTouch
+400237,46,BlockedShot,0.815,0.43599998474121093,0.15047100186347961,Raphael Guerreiro,a,3455,DirectFreekick,2020,LeftFoot,15293,Borussia M.Gladbach,Borussia Dortmund,4,2,2021-01-22 19:30:00,,Standard
+400242,74,SavedShot,0.8919999694824219,0.6680000305175782,0.053869299590587616,Raphael Guerreiro,a,3455,OpenPlay,2020,LeftFoot,15293,Borussia M.Gladbach,Borussia Dortmund,4,2,2021-01-22 19:30:00,Giovanni Reyna,BallTouch
+401617,17,MissedShots,0.7390000152587891,0.6940000152587891,0.016350699588656425,Raphael Guerreiro,h,3455,OpenPlay,2020,LeftFoot,15303,Borussia Dortmund,Augsburg,3,1,2021-01-30 14:30:00,Julian Brandt,Pass
+405665,59,Goal,0.899000015258789,0.5790000152587891,0.4808340072631836,Raphael Guerreiro,a,3455,OpenPlay,2020,LeftFoot,15334,Schalke 04,Borussia Dortmund,0,4,2021-02-20 17:30:00,Marco Reus,Pass
+406702,3,MissedShots,0.8859999847412109,0.6509999847412109,0.07601019740104675,Raphael Guerreiro,h,3455,OpenPlay,2020,LeftFoot,15339,Borussia Dortmund,Arminia Bielefeld,3,0,2021-02-27 14:30:00,Mahmoud Dahoud,Pass
+406728,92,SavedShot,0.9130000305175782,0.625999984741211,0.12376700341701508,Raphael Guerreiro,h,3455,OpenPlay,2020,LeftFoot,15339,Borussia Dortmund,Arminia Bielefeld,3,0,2021-02-27 14:30:00,Thorgan Hazard,Pass
+412528,7,MissedShots,0.764000015258789,0.37599998474121094,0.019602099433541298,Raphael Guerreiro,h,3455,OpenPlay,2020,LeftFoot,15374,Borussia Dortmund,Eintracht Frankfurt,1,2,2021-04-03 13:30:00,,None
+412536,24,MissedShots,0.7580000305175781,0.5,0.026131900027394295,Raphael Guerreiro,h,3455,OpenPlay,2020,LeftFoot,15374,Borussia Dortmund,Eintracht Frankfurt,1,2,2021-04-03 13:30:00,,Rebound
+412546,59,SavedShot,0.860999984741211,0.54,0.10322000086307526,Raphael Guerreiro,h,3455,OpenPlay,2020,LeftFoot,15374,Borussia Dortmund,Eintracht Frankfurt,1,2,2021-04-03 13:30:00,Nico Schulz,Pass
+412552,77,MissedShots,0.7419999694824219,0.3390000152587891,0.021319299936294556,Raphael Guerreiro,h,3455,OpenPlay,2020,LeftFoot,15374,Borussia Dortmund,Eintracht Frankfurt,1,2,2021-04-03 13:30:00,Emre Can,Pass
+414007,21,MissedShots,0.9180000305175782,0.15199999809265136,0.05650309845805168,Raphael Guerreiro,a,3455,DirectFreekick,2020,LeftFoot,15391,VfB Stuttgart,Borussia Dortmund,2,3,2021-04-10 16:30:00,,Standard
+416454,87,Goal,0.865999984741211,0.4640000152587891,0.46772798895835876,Raphael Guerreiro,h,3455,OpenPlay,2020,LeftFoot,15402,Borussia Dortmund,Union Berlin,2,0,2021-04-21 18:30:00,Julian Brandt,Pass
+420028,21,MissedShots,0.8109999847412109,0.5109999847412109,0.07141520082950592,Raphael Guerreiro,h,3455,OpenPlay,2020,LeftFoot,15420,Borussia Dortmund,RasenBallsport Leipzig,3,2,2021-05-08 13:30:00,Mahmoud Dahoud,Pass
+420035,38,MissedShots,0.84,0.639000015258789,0.05978870019316673,Raphael Guerreiro,h,3455,OpenPlay,2020,RightFoot,15420,Borussia Dortmund,RasenBallsport Leipzig,3,2,2021-05-08 13:30:00,Jadon Sancho,Pass
+420051,90,MissedShots,0.7680000305175781,0.8419999694824218,0.020125199109315872,Raphael Guerreiro,h,3455,OpenPlay,2020,LeftFoot,15420,Borussia Dortmund,RasenBallsport Leipzig,3,2,2021-05-08 13:30:00,Marco Reus,Pass
+424600,22,Goal,0.835999984741211,0.664000015258789,0.04062819853425026,Raphael Guerreiro,a,3455,OpenPlay,2020,LeftFoot,15434,Mainz 05,Borussia Dortmund,1,3,2021-05-16 16:00:00,Jadon Sancho,Pass
+426906,52,MissedShots,0.76,0.5629999923706055,0.018765099346637726,Raphael Guerreiro,a,3455,FromCorner,2021,LeftFoot,17529,Freiburg,Borussia Dortmund,2,1,2021-08-21 13:30:00,,None
+426908,56,MissedShots,0.7819999694824219,0.6719999694824219,0.021921399980783463,Raphael Guerreiro,a,3455,OpenPlay,2021,LeftFoot,17529,Freiburg,Borussia Dortmund,2,1,2021-08-21 13:30:00,Mahmoud Dahoud,Pass
+429788,46,MissedShots,0.9180000305175782,0.675,0.06337019801139832,Raphael Guerreiro,a,3455,OpenPlay,2021,LeftFoot,17547,Bayer Leverkusen,Borussia Dortmund,3,4,2021-09-11 13:30:00,Julian Brandt,Pass
+429796,70,Goal,0.7630000305175781,0.3189999961853027,0.05560370162129402,Raphael Guerreiro,a,3455,DirectFreekick,2021,LeftFoot,17547,Bayer Leverkusen,Borussia Dortmund,3,4,2021-09-11 13:30:00,,Standard
+431996,9,Goal,0.8819999694824219,0.7319999694824219,0.035623300820589066,Raphael Guerreiro,h,3455,OpenPlay,2021,LeftFoot,17559,Borussia Dortmund,Union Berlin,4,2,2021-09-19 15:30:00,,None
+432005,48,MissedShots,0.6959999847412109,0.5840000152587891,0.019248299300670624,Raphael Guerreiro,h,3455,OpenPlay,2021,LeftFoot,17559,Borussia Dortmund,Union Berlin,4,2,2021-09-19 15:30:00,Axel Witsel,Pass
+433639,47,MissedShots,0.7880000305175782,0.305,0.06600979715585709,Raphael Guerreiro,a,3455,DirectFreekick,2021,LeftFoot,17567,Borussia M.Gladbach,Borussia Dortmund,1,0,2021-09-25 16:30:00,,Standard
+434745,5,MissedShots,0.549000015258789,0.899000015258789,0.007270180154591799,Raphael Guerreiro,h,3455,OpenPlay,2021,LeftFoot,17576,Borussia Dortmund,Augsburg,2,1,2021-10-02 13:30:00,,BallRecovery
+434747,9,Goal,0.885,0.5,0.7577769756317139,Raphael Guerreiro,h,3455,Penalty,2021,LeftFoot,17576,Borussia Dortmund,Augsburg,2,1,2021-10-02 13:30:00,,Standard
+434757,56,MissedShots,0.855999984741211,0.755,0.026062799617648125,Raphael Guerreiro,h,3455,OpenPlay,2021,RightFoot,17576,Borussia Dortmund,Augsburg,2,1,2021-10-02 13:30:00,,Rebound
+442374,30,MissedShots,0.725,0.29700000762939455,0.013537200167775154,Raphael Guerreiro,h,3455,SetPiece,2021,LeftFoot,17623,Borussia Dortmund,VfB Stuttgart,2,1,2021-11-20 14:30:00,Marco Reus,Pass
+442377,44,BlockedShot,0.735999984741211,0.4909999847412109,0.01645350083708763,Raphael Guerreiro,h,3455,OpenPlay,2021,LeftFoot,17623,Borussia Dortmund,VfB Stuttgart,2,1,2021-11-20 14:30:00,,None
+442380,52,BlockedShot,0.8190000152587891,0.615,0.04451350122690201,Raphael Guerreiro,h,3455,OpenPlay,2021,LeftFoot,17623,Borussia Dortmund,VfB Stuttgart,2,1,2021-11-20 14:30:00,,None
+452255,67,MissedShots,0.8719999694824219,0.6140000152587891,0.08205769956111908,Raphael Guerreiro,a,3455,OpenPlay,2021,RightFoot,17675,Eintracht Frankfurt,Borussia Dortmund,2,3,2022-01-08 17:30:00,Thorgan Hazard,Pass
+452977,34,SavedShot,0.7340000152587891,0.3,0.040445100516080856,Raphael Guerreiro,h,3455,DirectFreekick,2021,LeftFoot,17686,Borussia Dortmund,Freiburg,5,1,2022-01-14 19:30:00,,Standard
+457586,13,MissedShots,0.7419999694824219,0.7659999847412109,0.01514890044927597,Raphael Guerreiro,a,3455,OpenPlay,2021,LeftFoot,17710,Union Berlin,Borussia Dortmund,0,3,2022-02-13 14:30:00,Axel Witsel,Pass
+457597,59,SavedShot,0.75,0.5609999847412109,0.06645839661359787,Raphael Guerreiro,a,3455,DirectFreekick,2021,LeftFoot,17710,Union Berlin,Borussia Dortmund,0,3,2022-02-13 14:30:00,,Standard
+457601,70,Goal,0.9780000305175781,0.5329999923706055,0.8950510025024414,Raphael Guerreiro,a,3455,OpenPlay,2021,LeftFoot,17710,Union Berlin,Borussia Dortmund,0,3,2022-02-13 14:30:00,,Rebound
+458876,21,MissedShots,0.695,0.98,0.006124480161815882,Raphael Guerreiro,h,3455,OpenPlay,2021,LeftFoot,17721,Borussia Dortmund,Borussia M.Gladbach,6,0,2022-02-20 16:30:00,,None
+458885,50,SavedShot,0.7830000305175782,0.27299999237060546,0.05500809848308563,Raphael Guerreiro,h,3455,DirectFreekick,2021,LeftFoot,17721,Borussia Dortmund,Borussia M.Gladbach,6,0,2022-02-20 16:30:00,,Standard
+460449,48,SavedShot,0.7769999694824219,0.34200000762939453,0.06912729889154434,Raphael Guerreiro,a,3455,DirectFreekick,2021,LeftFoot,17725,Augsburg,Borussia Dortmund,1,1,2022-02-27 16:30:00,,Standard
+464766,0,MissedShots,0.7080000305175781,0.6819999694824219,0.012824499979615211,Raphael Guerreiro,a,3455,OpenPlay,2021,LeftFoot,17752,FC Cologne,Borussia Dortmund,1,1,2022-03-20 18:30:00,Axel Witsel,Pass
+464767,5,SavedShot,0.725999984741211,0.43599998474121093,0.014596800319850445,Raphael Guerreiro,a,3455,FromCorner,2021,LeftFoot,17752,FC Cologne,Borussia Dortmund,1,1,2022-03-20 18:30:00,,None
+464777,46,BlockedShot,0.7430000305175781,0.710999984741211,0.013177599757909775,Raphael Guerreiro,a,3455,FromCorner,2021,LeftFoot,17752,FC Cologne,Borussia Dortmund,1,1,2022-03-20 18:30:00,,None
+465408,13,BlockedShot,0.8580000305175781,0.38299999237060545,0.077845998108387,Raphael Guerreiro,h,3455,OpenPlay,2021,RightFoot,17767,Borussia Dortmund,RasenBallsport Leipzig,1,4,2022-04-02 16:30:00,Thorgan Hazard,Pass
+465409,13,BlockedShot,0.855,0.43599998474121093,0.06924539804458618,Raphael Guerreiro,h,3455,OpenPlay,2021,LeftFoot,17767,Borussia Dortmund,RasenBallsport Leipzig,1,4,2022-04-02 16:30:00,,Rebound
+465411,19,SavedShot,0.755,0.7280000305175781,0.04368770122528076,Raphael Guerreiro,h,3455,DirectFreekick,2021,LeftFoot,17767,Borussia Dortmund,RasenBallsport Leipzig,1,4,2022-04-02 16:30:00,,Standard
+465415,38,MissedShots,0.7719999694824219,0.5629999923706055,0.033925801515579224,Raphael Guerreiro,h,3455,OpenPlay,2021,RightFoot,17767,Borussia Dortmund,RasenBallsport Leipzig,1,4,2022-04-02 16:30:00,,TakeOn
+466382,7,ShotOnPost,0.7769999694824219,0.6909999847412109,0.01618329994380474,Raphael Guerreiro,a,3455,FromCorner,2021,LeftFoot,17772,VfB Stuttgart,Borussia Dortmund,0,2,2022-04-08 18:30:00,,None
+466399,64,MissedShots,0.91,0.6509999847412109,0.10448499768972397,Raphael Guerreiro,a,3455,OpenPlay,2021,LeftFoot,17772,VfB Stuttgart,Borussia Dortmund,0,2,2022-04-08 18:30:00,Marco Reus,Pass
+471547,56,MissedShots,0.835999984741211,0.6569999694824219,0.03114759922027588,Raphael Guerreiro,h,3455,FromCorner,2021,LeftFoot,17803,Borussia Dortmund,Bochum,3,4,2022-04-30 13:30:00,,None
+474868,25,SavedShot,0.8819999694824219,0.7230000305175781,0.03863159939646721,Raphael Guerreiro,a,3455,OpenPlay,2021,LeftFoot,17804,Greuther Fuerth,Borussia Dortmund,1,3,2022-05-07 13:30:00,Erling Haaland,Pass
+475575,63,BlockedShot,0.7919999694824219,0.37400001525878906,0.09134460240602493,Raphael Guerreiro,h,3455,DirectFreekick,2021,LeftFoot,17821,Borussia Dortmund,Hertha Berlin,2,1,2022-05-14 13:30:00,,Standard
+479422,49,MissedShots,0.835,0.6170000076293946,0.046880900859832764,Raphael Guerreiro,h,3455,OpenPlay,2022,LeftFoot,19348,Borussia Dortmund,Bayer Leverkusen,1,0,2022-08-06 16:30:00,Jude Bellingham,Rebound
+480057,65,BlockedShot,0.6819999694824219,0.4759999847412109,0.03428829833865166,Raphael Guerreiro,a,3455,DirectFreekick,2022,LeftFoot,19351,Freiburg,Borussia Dortmund,1,3,2022-08-12 18:30:00,,Standard
+481713,76,Goal,0.71,0.5890000152587891,0.018221000209450722,Raphael Guerreiro,h,3455,FromCorner,2022,LeftFoot,19364,Borussia Dortmund,Werder Bremen,2,3,2022-08-20 13:30:00,Marco Reus,Pass
+483470,19,BlockedShot,0.8809999847412109,0.6759999847412109,0.05845160037279129,Raphael Guerreiro,a,3455,OpenPlay,2022,LeftFoot,19373,Hertha Berlin,Borussia Dortmund,0,1,2022-08-27 13:30:00,Salih Özcan,Pass
+483491,77,BlockedShot,0.8769999694824219,0.6370000076293946,0.09255039691925049,Raphael Guerreiro,a,3455,OpenPlay,2022,RightFoot,19373,Hertha Berlin,Borussia Dortmund,0,1,2022-08-27 13:30:00,Nico Schlotterbeck,Pass
+489917,11,MissedShots,0.7130000305175781,0.59,0.013387800194323063,Raphael Guerreiro,a,3455,FromCorner,2022,LeftFoot,19408,FC Cologne,Borussia Dortmund,3,2,2022-10-01 13:30:00,,None
+491746,29,SavedShot,0.8690000152587891,0.775,0.022364400327205658,Raphael Guerreiro,h,3455,OpenPlay,2022,LeftFoot,19414,Borussia Dortmund,Bayern Munich,2,2,2022-10-08 16:30:00,Youssoufa Moukoko,Pass
+491751,47,MissedShots,0.8209999847412109,0.505,0.021793799474835396,Raphael Guerreiro,h,3455,FromCorner,2022,RightFoot,19414,Borussia Dortmund,Bayern Munich,2,2,2022-10-08 16:30:00,,Aerial
+495008,70,SavedShot,0.7280000305175781,0.36,0.04517890140414238,Raphael Guerreiro,h,3455,DirectFreekick,2022,LeftFoot,19432,Borussia Dortmund,VfB Stuttgart,5,0,2022-10-22 13:30:00,,Standard
+499013,54,SavedShot,0.8819999694824219,0.17399999618530274,0.05805080011487007,Raphael Guerreiro,a,3455,DirectFreekick,2022,LeftFoot,19464,Wolfsburg,Borussia Dortmund,2,0,2022-11-08 17:30:00,,Standard
+499755,39,SavedShot,0.755,0.6959999847412109,0.04904780164361,Raphael Guerreiro,a,3455,DirectFreekick,2022,LeftFoot,19472,Borussia M.Gladbach,Borussia Dortmund,4,2,2022-11-11 19:30:00,,Standard
+505020,94,BlockedShot,0.9519999694824218,0.43099998474121093,0.8256279826164246,Raphael Guerreiro,h,3455,OpenPlay,2022,RightFoot,19477,Borussia Dortmund,Augsburg,4,3,2023-01-22 14:30:00,Mats Hummels,TakeOn
+506971,13,BlockedShot,0.8469999694824218,0.6359999847412109,0.04012859985232353,Raphael Guerreiro,h,3455,FromCorner,2022,LeftFoot,19504,Borussia Dortmund,Freiburg,5,1,2023-02-04 14:30:00,,None
+508257,8,SavedShot,0.9169999694824219,0.75,0.033263999968767166,Raphael Guerreiro,a,3455,OpenPlay,2022,LeftFoot,19521,Werder Bremen,Borussia Dortmund,0,2,2023-02-11 14:30:00,Julian Brandt,Pass
+508283,95,MissedShots,0.765,0.5420000076293945,0.020177699625492096,Raphael Guerreiro,a,3455,FromCorner,2022,LeftFoot,19521,Werder Bremen,Borussia Dortmund,0,2,2023-02-11 14:30:00,,None
+510733,37,BlockedShot,0.8430000305175781,0.6790000152587891,0.045466601848602295,Raphael Guerreiro,a,3455,OpenPlay,2022,RightFoot,19536,Hoffenheim,Borussia Dortmund,0,1,2023-02-25 14:30:00,Marco Reus,Pass
+510745,64,SavedShot,0.879000015258789,0.6840000152587891,0.0661344975233078,Raphael Guerreiro,a,3455,OpenPlay,2022,RightFoot,19536,Hoffenheim,Borussia Dortmund,0,1,2023-02-25 14:30:00,Marco Reus,Pass
+510755,87,SavedShot,0.9409999847412109,0.6559999847412109,0.09867929667234421,Raphael Guerreiro,a,3455,OpenPlay,2022,LeftFoot,19536,Hoffenheim,Borussia Dortmund,0,1,2023-02-25 14:30:00,Marco Reus,Pass
+513716,17,SavedShot,0.8780000305175781,0.3060000038146973,0.04261409863829613,Raphael Guerreiro,a,3455,OpenPlay,2022,LeftFoot,19556,Schalke 04,Borussia Dortmund,2,2,2023-03-11 17:30:00,Mats Hummels,Chipped
+513717,22,BlockedShot,0.705999984741211,0.49,0.04292669892311096,Raphael Guerreiro,a,3455,DirectFreekick,2022,LeftFoot,19556,Schalke 04,Borussia Dortmund,2,2,2023-03-11 17:30:00,,Standard
+513728,59,Goal,0.8830000305175781,0.6959999847412109,0.04458620026707649,Raphael Guerreiro,a,3455,OpenPlay,2022,LeftFoot,19556,Schalke 04,Borussia Dortmund,2,2,2023-03-11 17:30:00,Emre Can,Pass
+513734,77,SavedShot,0.7969999694824219,0.3039999961853027,0.02712309919297695,Raphael Guerreiro,a,3455,OpenPlay,2022,LeftFoot,19556,Schalke 04,Borussia Dortmund,2,2,2023-03-11 17:30:00,Donyell Malen,Pass
+513736,80,MissedShots,0.8819999694824219,0.3820000076293945,0.06801480054855347,Raphael Guerreiro,a,3455,OpenPlay,2022,LeftFoot,19556,Schalke 04,Borussia Dortmund,2,2,2023-03-11 17:30:00,,None
+515235,14,Goal,0.9619999694824218,0.40599998474121096,0.4208340048789978,Raphael Guerreiro,h,3455,OpenPlay,2022,LeftFoot,19558,Borussia Dortmund,FC Cologne,6,1,2023-03-18 17:30:00,Donyell Malen,Pass
+517957,32,MissedShots,0.9209999847412109,0.73,0.048962999135255814,Raphael Guerreiro,h,3455,OpenPlay,2022,LeftFoot,19576,Borussia Dortmund,Union Berlin,2,1,2023-04-08 13:30:00,Karim Adeyemi,Pass
+519324,50,BlockedShot,0.8669999694824219,0.575,0.12440399825572968,Raphael Guerreiro,a,3455,OpenPlay,2022,LeftFoot,19591,VfB Stuttgart,Borussia Dortmund,3,3,2023-04-15 13:30:00,Karim Adeyemi,Pass
+526235,93,SavedShot,0.7809999847412109,0.49,0.10237254947423935,Raphael Guerreiro,h,3455,DirectFreekick,2022,LeftFoot,19622,Borussia Dortmund,Borussia M.Gladbach,5,2,2023-05-13 16:30:00,,Standard
+528153,25,MissedShots,0.7880000305175782,0.555,0.05037856474518776,Raphael Guerreiro,a,3455,OpenPlay,2022,LeftFoot,19635,Augsburg,Borussia Dortmund,0,3,2023-05-21 15:30:00,Niklas Süle,TakeOn
+528159,40,MissedShots,0.909000015258789,0.52,0.11691988259553909,Raphael Guerreiro,a,3455,OpenPlay,2022,Head,19635,Augsburg,Borussia Dortmund,0,3,2023-05-21 15:30:00,Julian Brandt,Cross
+528163,51,MissedShots,0.8590000152587891,0.43099998474121093,0.09837346524000168,Raphael Guerreiro,a,3455,OpenPlay,2022,LeftFoot,19635,Augsburg,Borussia Dortmund,0,3,2023-05-21 15:30:00,Niklas Süle,Pass
+528880,31,BlockedShot,0.789000015258789,0.4,0.029863782227039337,Raphael Guerreiro,h,3455,OpenPlay,2022,LeftFoot,19639,Borussia Dortmund,Mainz 05,2,2,2023-05-27 13:30:00,Marius Wolf,Pass
+528884,42,MissedShots,0.8430000305175781,0.34,0.03393248841166496,Raphael Guerreiro,h,3455,OpenPlay,2022,LeftFoot,19639,Borussia Dortmund,Mainz 05,2,2,2023-05-27 13:30:00,Niklas Süle,None
+528898,68,Goal,0.8540000152587891,0.5679999923706055,0.08655809611082077,Raphael Guerreiro,h,3455,OpenPlay,2022,RightFoot,19639,Borussia Dortmund,Mainz 05,2,2,2023-05-27 13:30:00,Giovanni Reyna,Pass
+541462,59,MissedShots,0.7919999694824219,0.49700000762939456,0.03747694194316864,Raphael Guerreiro,a,3455,OpenPlay,2023,LeftFoot,23116,RasenBallsport Leipzig,Bayern Munich,2,2,2023-09-30 16:30:00,,BallRecovery
+548262,71,Goal,0.835,0.5320000076293945,0.058972202241420746,Raphael Guerreiro,h,3455,OpenPlay,2023,LeftFoot,23155,Bayern Munich,FC Heidenheim,4,2,2023-11-11 14:30:00,,Rebound
+548266,81,BlockedShot,0.88,0.625,0.1342775523662567,Raphael Guerreiro,h,3455,OpenPlay,2023,LeftFoot,23155,Bayern Munich,FC Heidenheim,4,2,2023-11-11 14:30:00,Harry Kane,Throughball
+555044,16,BlockedShot,0.7619999694824219,0.6719999694824219,0.02080894447863102,Raphael Guerreiro,h,3455,OpenPlay,2023,LeftFoot,23191,Bayern Munich,VfB Stuttgart,3,0,2023-12-17 18:30:00,Alphonso Davies,Pass
+555640,12,BlockedShot,0.7469999694824219,0.6129999923706054,0.019856499508023262,Raphael Guerreiro,a,3455,OpenPlay,2023,LeftFoot,23204,Wolfsburg,Bayern Munich,1,2,2023-12-20 19:30:00,Jamal Musiala,Pass
+555646,26,MissedShots,0.8640000152587891,0.5229999923706055,0.09993625432252884,Raphael Guerreiro,a,3455,OpenPlay,2023,LeftFoot,23204,Wolfsburg,Bayern Munich,1,2,2023-12-20 19:30:00,Thomas Müller,Pass
+555655,71,BlockedShot,0.815,0.43,0.05776448920369148,Raphael Guerreiro,a,3455,OpenPlay,2023,LeftFoot,23204,Wolfsburg,Bayern Munich,1,2,2023-12-20 19:30:00,Konrad Laimer,Pass
+557827,36,SavedShot,0.9780000305175781,0.6179999923706054,0.3233282268047333,Raphael Guerreiro,h,3455,OpenPlay,2023,LeftFoot,23209,Bayern Munich,Hoffenheim,3,0,2024-01-12 19:30:00,Harry Kane,Pass
+559541,33,MissedShots,0.7659999847412109,0.565,0.024236105382442474,Raphael Guerreiro,h,3455,OpenPlay,2023,LeftFoot,23173,Bayern Munich,Union Berlin,1,0,2024-01-24 18:30:00,Konrad Laimer,Pass
+559548,45,Goal,0.875999984741211,0.545,0.09273906797170639,Raphael Guerreiro,h,3455,OpenPlay,2023,LeftFoot,23173,Bayern Munich,Union Berlin,1,0,2024-01-24 18:30:00,,BallTouch
+559777,26,MissedShots,0.840999984741211,0.29600000381469727,0.03695608675479889,Raphael Guerreiro,a,3455,OpenPlay,2023,LeftFoot,23234,Augsburg,Bayern Munich,2,3,2024-01-27 14:30:00,Leroy Sané,Pass
+564581,16,MissedShots,0.86,0.6919999694824219,0.05795927718281746,Raphael Guerreiro,a,3455,OpenPlay,2023,LeftFoot,23260,Bochum,Bayern Munich,3,2,2024-02-18 16:30:00,Leon Goretzka,Pass
+564589,45,BlockedShot,0.7969999694824219,0.69,0.01593048684298992,Raphael Guerreiro,a,3455,SetPiece,2023,LeftFoot,23260,Bochum,Bayern Munich,3,2,2024-02-18 16:30:00,,None
+566182,42,MissedShots,0.8930000305175781,0.6890000152587891,0.05073653906583786,Raphael Guerreiro,a,3455,OpenPlay,2023,LeftFoot,23273,Freiburg,Bayern Munich,2,2,2024-03-01 19:30:00,,None
+569410,40,MissedShots,0.730999984741211,0.43900001525878907,0.015074608847498894,Raphael Guerreiro,a,3455,FromCorner,2023,LeftFoot,23298,Darmstadt,Bayern Munich,2,5,2024-03-16 14:30:00,,None
+573545,28,SavedShot,0.9080000305175782,0.47099998474121096,0.5027033686637878,Raphael Guerreiro,h,3455,OpenPlay,2023,LeftFoot,23317,Bayern Munich,FC Cologne,2,0,2024-04-13 13:30:00,,None
+573559,64,Goal,0.7930000305175782,0.265,0.020794522017240524,Raphael Guerreiro,h,3455,FromCorner,2023,LeftFoot,23317,Bayern Munich,FC Cologne,2,0,2024-04-13 13:30:00,Joshua Kimmich,Pass
+576672,44,SavedShot,0.960999984741211,0.475,0.5819938778877258,Raphael Guerreiro,h,3455,OpenPlay,2023,LeftFoot,23335,Bayern Munich,Eintracht Frankfurt,2,1,2024-04-27 13:30:00,Thomas Müller,Cross
+590040,75,MissedShots,0.8169999694824219,0.37,0.017773736268281937,Raphael Guerreiro,h,3455,FromCorner,2024,RightFoot,27759,Bayern Munich,Freiburg,2,0,2024-09-01 15:30:00,,Aerial
+592192,87,BlockedShot,0.7680000305175781,0.2539999961853027,0.018868817016482353,Raphael Guerreiro,a,3455,FromCorner,2024,LeftFoot,27773,Werder Bremen,Bayern Munich,0,5,2024-09-21 13:30:00,Leroy Sané,Pass
+594345,9,MissedShots,0.784000015258789,0.4379999923706055,0.03473861142992973,Raphael Guerreiro,h,3455,OpenPlay,2024,LeftFoot,27784,Bayern Munich,Bayer Leverkusen,1,1,2024-09-28 16:30:00,Harry Kane,Pass
+597286,7,SavedShot,0.8909999847412109,0.37099998474121093,0.09192140400409698,Raphael Guerreiro,h,3455,OpenPlay,2024,LeftFoot,27797,Bayern Munich,VfB Stuttgart,4,0,2024-10-19 16:30:00,Thomas Müller,Pass
+599929,7,BlockedShot,0.9269999694824219,0.44299999237060544,0.14211507141590118,Raphael Guerreiro,h,3455,OpenPlay,2024,LeftFoot,27815,Bayern Munich,Union Berlin,3,0,2024-11-02 14:30:00,Jamal Musiala,Pass
+599932,25,SavedShot,0.865,0.30700000762939456,0.05633409693837166,Raphael Guerreiro,h,3455,OpenPlay,2024,LeftFoot,27815,Bayern Munich,Union Berlin,3,0,2024-11-02 14:30:00,Harry Kane,Pass
+602521,56,MissedShots,0.7730000305175782,0.37099998474121093,0.021471776068210602,Raphael Guerreiro,h,3455,FromCorner,2024,LeftFoot,27834,Bayern Munich,Augsburg,3,0,2024-11-22 19:30:00,Kingsley Coman,Pass
+605741,16,MissedShots,0.8880000305175781,0.34799999237060547,0.07796717435121536,Raphael Guerreiro,h,3455,OpenPlay,2024,LeftFoot,27857,Bayern Munich,FC Heidenheim,4,2,2024-12-07 14:30:00,Michael Olise,Pass
+605744,34,SavedShot,0.8769999694824219,0.5629999923706055,0.05382077395915985,Raphael Guerreiro,h,3455,OpenPlay,2024,Head,27857,Bayern Munich,FC Heidenheim,4,2,2024-12-07 14:30:00,Thomas Müller,Cross
+606927,39,BlockedShot,0.850999984741211,0.43,0.025631437078118324,Raphael Guerreiro,a,3455,FromCorner,2024,LeftFoot,27864,Mainz 05,Bayern Munich,2,1,2024-12-14 14:30:00,,Aerial
+611680,11,Goal,0.894000015258789,0.285,0.18795016407966614,Raphael Guerreiro,h,3455,OpenPlay,2024,LeftFoot,27888,Bayern Munich,Hoffenheim,5,0,2025-01-15 19:30:00,Harry Kane,Pass
+614804,32,BlockedShot,0.725999984741211,0.36,0.022202592343091965,Raphael Guerreiro,h,3455,FromCorner,2024,LeftFoot,27918,Bayern Munich,Holstein Kiel,4,3,2025-02-01 14:30:00,Michael Olise,Pass
+621115,13,Goal,0.8819999694824219,0.5670000076293945,0.09277230501174927,Raphael Guerreiro,h,3455,OpenPlay,2024,LeftFoot,27959,Bayern Munich,Bochum,2,3,2025-03-08 14:30:00,Serge Gnabry,BallTouch
+621120,27,Goal,0.9519999694824218,0.524000015258789,0.5808554887771606,Raphael Guerreiro,h,3455,OpenPlay,2024,Head,27959,Bayern Munich,Bochum,2,3,2025-03-08 14:30:00,Thomas Müller,Rebound
+621126,57,MissedShots,0.874000015258789,0.39099998474121095,0.24809761345386505,Raphael Guerreiro,h,3455,OpenPlay,2024,LeftFoot,27959,Bayern Munich,Bochum,2,3,2025-03-08 14:30:00,Serge Gnabry,Foul
+624147,20,SavedShot,0.9580000305175781,0.6459999847412109,0.21730031073093414,Raphael Guerreiro,h,3455,FromCorner,2024,LeftFoot,27977,Bayern Munich,St. Pauli,3,2,2025-03-29 14:30:00,Michael Olise,Pass
+627349,64,Goal,0.8980000305175782,0.6270000076293946,0.372496634721756,Raphael Guerreiro,h,3455,OpenPlay,2024,RightFoot,27996,Bayern Munich,Borussia Dortmund,2,2,2025-04-12 16:30:00,Thomas Müller,Pass
+627355,76,SavedShot,0.8830000305175781,0.7019999694824218,0.03638352453708649,Raphael Guerreiro,h,3455,OpenPlay,2024,LeftFoot,27996,Bayern Munich,Borussia Dortmund,2,2,2025-04-12 16:30:00,,Rebound
+628463,13,SavedShot,0.8109999847412109,0.4809999847412109,0.07046494632959366,Raphael Guerreiro,a,3455,OpenPlay,2024,LeftFoot,28005,FC Heidenheim,Bayern Munich,0,4,2025-04-19 13:30:00,Michael Olise,BallTouch
+628471,35,SavedShot,0.8869999694824219,0.4779999923706055,0.38355639576911926,Raphael Guerreiro,a,3455,OpenPlay,2024,LeftFoot,28005,FC Heidenheim,Bayern Munich,0,4,2025-04-19 13:30:00,Harry Kane,Chipped
+632992,52,MissedShots,0.7959999847412109,0.4779999923706055,0.05342252179980278,Raphael Guerreiro,h,3455,OpenPlay,2024,LeftFoot,28032,Bayern Munich,Borussia M.Gladbach,2,0,2025-05-10 16:30:00,Michael Olise,Pass
+644392,82,BlockedShot,0.8530000305175781,0.514000015258789,0.12661905586719513,Raphael Guerreiro,h,3455,OpenPlay,2025,LeftFoot,30260,Bayern Munich,Werder Bremen,4,0,2025-09-26 18:30:00,Konrad Laimer,Pass
+648918,68,Goal,0.9069999694824219,0.47,0.4900231957435608,Raphael Guerreiro,a,3455,OpenPlay,2025,LeftFoot,30289,Borussia M.Gladbach,Bayern Munich,0,3,2025-10-25 13:30:00,Michael Olise,Throughball
+651097,57,MissedShots,0.8680000305175781,0.44400001525878907,0.1304461658000946,Raphael Guerreiro,h,3455,OpenPlay,2025,LeftFoot,30297,Bayern Munich,Bayer Leverkusen,3,0,2025-11-01 17:30:00,Lennart Karl,Pass
+655035,43,Goal,0.8969999694824219,0.48400001525878905,0.47391173243522644,Raphael Guerreiro,h,3455,OpenPlay,2025,LeftFoot,30324,Bayern Munich,St. Pauli,3,1,2025-11-29 14:30:00,Luis Díaz,Pass
+656858,49,BlockedShot,0.8719999694824219,0.45099998474121095,0.04832862317562103,Raphael Guerreiro,a,3455,FromCorner,2025,LeftFoot,30332,VfB Stuttgart,Bayern Munich,0,5,2025-12-06 14:30:00,Josip Stanisic,Cross
+662818,67,Goal,0.9269999694824219,0.47200000762939454,0.5684327483177185,Raphael Guerreiro,h,3455,SetPiece,2025,LeftFoot,30360,Bayern Munich,Wolfsburg,8,1,2026-01-11 16:30:00,Harry Kane,Pass
+678053,42,MissedShots,0.935,0.5070000076293946,0.06214934587478638,Raphael Guerreiro,a,3455,SetPiece,2025,Head,30482,St. Pauli,Bayern Munich,0,5,2026-04-11 16:30:00,Joshua Kimmich,End
+678064,87,Goal,0.9119999694824219,0.40099998474121096,0.44194579124450684,Raphael Guerreiro,a,3455,OpenPlay,2025,LeftFoot,30482,St. Pauli,Bayern Munich,0,5,2026-04-11 16:30:00,Nicolas Jackson,BallRecovery
+679810,30,Goal,0.975999984741211,0.48200000762939454,0.9011658430099487,Raphael Guerreiro,h,3455,OpenPlay,2025,RightFoot,30486,Bayern Munich,VfB Stuttgart,4,2,2026-04-19 15:30:00,Jamal Musiala,Pass
+679820,48,MissedShots,0.9180000305175782,0.49599998474121093,0.12365460395812988,Raphael Guerreiro,h,3455,OpenPlay,2025,Head,30486,Bayern Munich,VfB Stuttgart,4,2,2026-04-19 15:30:00,Joshua Kimmich,Cross
+680869,3,MissedShots,0.8880000305175781,0.445,0.08262671530246735,Raphael Guerreiro,a,3455,OpenPlay,2025,LeftFoot,30499,Mainz 05,Bayern Munich,3,4,2026-04-25 13:30:00,Konrad Laimer,Cross

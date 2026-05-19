@@ -1,0 +1,18 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+259654,95,BlockedShot,0.8590000152587891,0.725999984741211,0.03049509972333908,Valery Fernández,h,7246,OpenPlay,2018,RightFoot,10090,Girona,Atletico Madrid,1,1,2018-12-02 15:15:00,Borja,Pass
+280962,0,SavedShot,0.8819999694824219,0.3160000038146973,0.04325089976191521,Valery Fernández,a,7246,SetPiece,2018,RightFoot,10174,Eibar,Girona,3,0,2019-02-03 17:30:00,,None
+497287,18,MissedShots,0.879000015258789,0.46799999237060547,0.06901419907808304,Valery Fernández,a,7246,OpenPlay,2022,Head,19081,Real Madrid,Girona,1,1,2022-10-30 15:15:00,Arnau Martinez,Cross
+497698,12,MissedShots,0.7809999847412109,0.710999984741211,0.016154099255800247,Valery Fernández,h,7246,FromCorner,2022,RightFoot,19087,Girona,Athletic Club,2,1,2022-11-04 20:00:00,,None
+499085,3,BlockedShot,0.8690000152587891,0.425,0.05733960121870041,Valery Fernández,a,7246,FromCorner,2022,RightFoot,19093,Elche,Girona,1,2,2022-11-08 18:00:00,Aleix García,Pass
+499097,46,MissedShots,0.9230000305175782,0.5820000076293945,0.3020569980144501,Valery Fernández,a,7246,OpenPlay,2022,LeftFoot,19093,Elche,Girona,1,2,2022-11-08 18:00:00,Arnau Martinez,Cross
+521072,35,MissedShots,0.779000015258789,0.5729999923706055,0.02364288829267025,Valery Fernández,a,7246,FromCorner,2022,LeftFoot,19261,Real Valladolid,Girona,1,0,2023-04-22 16:30:00,,None
+521894,75,MissedShots,0.97,0.585999984741211,0.39998629689216614,Valery Fernández,h,7246,OpenPlay,2022,LeftFoot,19268,Girona,Real Madrid,4,2,2023-04-25 17:30:00,Iván Martín,Cross
+528458,32,MissedShots,0.7959999847412109,0.6819999694824219,0.025876138359308243,Valery Fernández,a,7246,OpenPlay,2022,RightFoot,19313,Celta Vigo,Girona,1,1,2023-05-23 17:30:00,Yan Couto,Pass
+542450,72,MissedShots,0.755,0.5940000152587891,0.029457220807671547,Valery Fernández,a,7246,OpenPlay,2023,RightFoot,22766,Cadiz,Girona,0,1,2023-10-07 12:00:00,Cristhian Stuani,Pass
+553844,79,Goal,0.845,0.504000015258789,0.3151297867298126,Valery Fernández,a,7246,OpenPlay,2023,RightFoot,22835,Barcelona,Girona,2,4,2023-12-10 20:00:00,Cristhian Stuani,TakeOn
+555200,76,MissedShots,0.86,0.6569999694824219,0.0924505963921547,Valery Fernández,h,7246,OpenPlay,2023,RightFoot,22854,Girona,Alaves,3,0,2023-12-18 20:00:00,Jhon Solis,Chipped
+557425,1,Goal,0.8169999694824219,0.5429999923706055,0.04912496358156204,Valery Fernández,h,7246,OpenPlay,2023,RightFoot,22869,Girona,Atletico Madrid,4,3,2024-01-03 20:30:00,Pablo Torre,Pass
+561482,94,MissedShots,0.9059999847412109,0.5209999847412109,0.46199363470077515,Valery Fernández,h,7246,OpenPlay,2023,LeftFoot,22907,Girona,Real Sociedad,0,0,2024-02-03 20:00:00,Yan Couto,Pass
+593391,92,Goal,0.895,0.6120000076293945,0.28656551241874695,Valery Fernández,a,7246,FromCorner,2024,LeftFoot,27033,Real Betis,Mallorca,1,2,2024-09-23 19:00:00,Samú Costa,HeadPass
+593734,82,Goal,0.9,0.6090000152587891,0.4048047363758087,Valery Fernández,a,7246,OpenPlay,2024,RightFoot,27057,Real Valladolid,Mallorca,1,2,2024-09-27 19:00:00,,BallRecovery
+593737,89,SavedShot,0.9340000152587891,0.5279999923706055,0.4728052616119385,Valery Fernández,a,7246,OpenPlay,2024,Head,27057,Real Valladolid,Mallorca,1,2,2024-09-27 19:00:00,Pablo Maffeo,Rebound

@@ -1,0 +1,12 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+6022,80,BlockedShot,0.895,0.600999984741211,0.08791650086641312,Joris Marveaux,h,3606,OpenPlay,2014,LeftFoot,6102,Montpellier,Toulouse,2,0,2014-11-23 16:00:00,Morgan Sanson,Cross
+5042,1,MissedShots,0.9390000152587891,0.4229999923706055,0.08590079843997955,Joris Marveaux,h,3606,FromCorner,2014,Head,6039,Montpellier,Saint-Etienne,0,2,2014-12-03 18:00:00,Morgan Sanson,Cross
+3436,62,MissedShots,0.960999984741211,0.5820000076293945,0.10628499835729599,Joris Marveaux,a,3606,FromCorner,2014,RightFoot,5987,Guingamp,Montpellier,0,2,2015-02-22 13:00:00,,None
+3440,91,SavedShot,0.840999984741211,0.515,0.0623151995241642,Joris Marveaux,a,3606,SetPiece,2014,LeftFoot,5987,Guingamp,Montpellier,0,2,2015-02-22 13:00:00,,Rebound
+6901,66,BlockedShot,0.9159999847412109,0.6659999847412109,0.011908800341188908,Joris Marveaux,a,3606,FromCorner,2014,Head,5922,Saint-Etienne,Montpellier,1,0,2015-04-26 13:00:00,Anthony Mounier,Cross
+6296,83,MissedShots,0.9419999694824219,0.624000015258789,0.027084600180387497,Joris Marveaux,a,3606,FromCorner,2014,Head,5862,Lens,Montpellier,0,1,2015-05-10 13:00:00,Kévin Berigaud,Cross
+62497,75,MissedShots,0.9490000152587891,0.5709999847412109,0.5128750205039978,Joris Marveaux,h,3606,FromCorner,2015,LeftFoot,1911,Montpellier,Saint-Etienne,1,2,2015-09-12 22:00:00,,None
+62507,91,Goal,0.87,0.505,0.09297189861536026,Joris Marveaux,h,3606,SetPiece,2015,RightFoot,1911,Montpellier,Saint-Etienne,1,2,2015-09-12 22:00:00,,Rebound
+62114,1,SavedShot,0.9009999847412109,0.44599998474121094,0.22439999878406525,Joris Marveaux,a,3606,FromCorner,2015,Head,1923,Caen,Montpellier,2,1,2015-09-19 22:00:00,Ryad Boudebouz,Cross
+65718,81,MissedShots,0.8519999694824218,0.519000015258789,0.10204099863767624,Joris Marveaux,h,3606,OpenPlay,2015,RightFoot,1945,Montpellier,Lorient,2,1,2015-09-27 19:00:00,Jérôme Roussillon,Pass
+107097,27,MissedShots,0.9169999694824219,0.5609999847412109,0.030079400166869164,Joris Marveaux,a,3606,FromCorner,2016,Head,3241,Lille,Montpellier,2,1,2016-12-10 23:00:00,Paul Lasne,Aerial

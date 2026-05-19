@@ -1,0 +1,11 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+649579,99,ShotOnPost,0.89,0.41700000762939454,0.10189463943243027,Soriba Diaoune,h,13471,OpenPlay,2025,LeftFoot,29617,Lille,Metz,6,1,2025-10-26 13:00:00,Marius Broholm,TakeOn
+658745,79,Goal,0.89,0.6459999847412109,0.06442122161388397,Soriba Diaoune,a,13471,OpenPlay,2025,RightFoot,29674,Auxerre,Lille,3,4,2025-12-14 16:15:00,,None
+663294,82,SavedShot,0.889000015258789,0.41700000762939454,0.09764742851257324,Soriba Diaoune,a,13471,OpenPlay,2025,LeftFoot,29696,Paris Saint Germain,Lille,3,0,2026-01-16 20:00:00,Tiago Santos,Pass
+665556,74,MissedShots,0.8930000305175781,0.710999984741211,0.046891432255506516,Soriba Diaoune,h,13471,OpenPlay,2025,RightFoot,29703,Lille,Strasbourg,1,4,2026-01-25 19:45:00,Ayyoub Bouaddi,Pass
+665558,81,MissedShots,0.9259999847412109,0.5109999847412109,0.3647640645503998,Soriba Diaoune,h,13471,OpenPlay,2025,Head,29703,Lille,Strasbourg,1,4,2026-01-25 19:45:00,Calvin Verdonk,Cross
+665560,93,SavedShot,0.8430000305175781,0.5159999847412109,0.06746936589479446,Soriba Diaoune,h,13471,OpenPlay,2025,RightFoot,29703,Lille,Strasbourg,1,4,2026-01-25 19:45:00,,BallRecovery
+666554,85,MissedShots,0.8480000305175781,0.48900001525878906,0.06093214452266693,Soriba Diaoune,a,13471,OpenPlay,2025,RightFoot,29712,Lyon,Lille,1,0,2026-02-01 14:00:00,,None
+666555,87,BlockedShot,0.8030000305175782,0.620999984741211,0.03846720978617668,Soriba Diaoune,a,13471,OpenPlay,2025,RightFoot,29712,Lyon,Lille,1,0,2026-02-01 14:00:00,Hákon Haraldsson,Pass
+668852,1,BlockedShot,0.93,0.6940000152587891,0.06111576408147812,Soriba Diaoune,h,13471,OpenPlay,2025,RightFoot,29728,Lille,Brest,1,1,2026-02-14 18:00:00,Romain Perraud,Pass
+668864,19,SavedShot,0.845999984741211,0.544000015258789,0.07598356902599335,Soriba Diaoune,h,13471,OpenPlay,2025,RightFoot,29728,Lille,Brest,1,1,2026-02-14 18:00:00,Hákon Haraldsson,BallTouch

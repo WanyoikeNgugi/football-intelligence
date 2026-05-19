@@ -1,0 +1,5 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+463250,78,BlockedShot,0.7530000305175781,0.6409999847412109,0.01951579935848713,George Bello,a,10369,OpenPlay,2021,LeftFoot,17749,Borussia Dortmund,Arminia Bielefeld,1,0,2022-03-13 16:30:00,Sebastian Vasiliadis,Pass
+469954,57,BlockedShot,0.86,0.6170000076293946,0.05635889992117882,George Bello,a,10369,OpenPlay,2021,RightFoot,17788,FC Cologne,Arminia Bielefeld,3,1,2022-04-23 13:30:00,,Dispossessed
+471486,75,MissedShots,0.7090000152587891,0.580999984741211,0.009582949802279472,George Bello,h,10369,SetPiece,2021,LeftFoot,17795,Arminia Bielefeld,Hertha Berlin,1,1,2022-04-30 13:30:00,,None
+472759,88,OwnGoal,0.06400000095367432,0.49200000762939455,0,George Bello,a,10369,OpenPlay,2021,LeftFoot,17805,Bochum,Arminia Bielefeld,2,1,2022-05-06 18:30:00,,Save

@@ -1,0 +1,11 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+335145,85,MissedShots,0.7580000305175781,0.26600000381469724,0.010175200179219246,Roli Pereira De Sa,a,4865,OpenPlay,2019,LeftFoot,12859,Paris Saint Germain,Nantes,2,0,2019-12-04 20:05:00,Ludovic Blas,Pass
+384860,90,BlockedShot,0.77,0.4520000076293945,0.012344400398433208,Roli Pereira De Sa,h,4865,SetPiece,2020,LeftFoot,15839,Nantes,Paris Saint Germain,0,3,2020-10-31 20:00:00,,Aerial
+413000,88,BlockedShot,0.76,0.3890000152587891,0.02134850062429905,Roli Pereira De Sa,h,4865,OpenPlay,2020,LeftFoot,16064,Nantes,Nice,1,2,2021-04-04 13:00:00,Ludovic Blas,Pass
+419080,91,BlockedShot,0.8819999694824219,0.375,0.09349489957094193,Roli Pereira De Sa,a,4865,OpenPlay,2020,RightFoot,16096,Brest,Nantes,1,4,2021-05-02 13:00:00,,BallRecovery
+419797,81,BlockedShot,0.73,0.43099998474121093,0.011296899989247322,Roli Pereira De Sa,h,4865,SetPiece,2020,LeftFoot,16110,Nantes,Bordeaux,3,0,2021-05-08 11:00:00,,None
+436880,94,SavedShot,0.8430000305175781,0.46900001525878904,0.11360599845647812,Roli Pereira De Sa,a,4865,OpenPlay,2021,LeftFoot,17912,Bordeaux,Nantes,1,1,2021-10-17 13:00:00,Marcus Coco,Pass
+437864,8,MissedShots,0.899000015258789,0.4779999923706055,0.10603500157594681,Roli Pereira De Sa,h,4865,OpenPlay,2021,LeftFoot,17927,Nantes,Clermont Foot,2,1,2021-10-23 15:00:00,Moses Simon,Cross
+440249,3,ShotOnPost,0.9419999694824219,0.6930000305175781,0.05239969864487648,Roli Pereira De Sa,a,4865,FromCorner,2021,LeftFoot,17938,Montpellier,Nantes,2,0,2021-10-31 14:00:00,,Rebound
+440251,4,ShotOnPost,0.8030000305175782,0.47200000762939454,0.08112350106239319,Roli Pereira De Sa,a,4865,OpenPlay,2021,LeftFoot,17938,Montpellier,Nantes,2,0,2021-10-31 14:00:00,Marcus Coco,Pass
+440253,17,MissedShots,0.889000015258789,0.710999984741211,0.11142999678850174,Roli Pereira De Sa,a,4865,OpenPlay,2021,LeftFoot,17938,Montpellier,Nantes,2,0,2021-10-31 14:00:00,Moses Simon,Throughball

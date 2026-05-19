@@ -1,0 +1,20 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+311061,45,Goal,0.8690000152587891,0.395,0.08336140215396881,Julien Faussurier,a,7729,OpenPlay,2019,RightFoot,12726,Saint-Etienne,Brest,1,1,2019-08-18 14:00:00,Mathias Autret,Pass
+317630,11,MissedShots,0.8369999694824218,0.37099998474121093,0.04666129872202873,Julien Faussurier,h,7729,OpenPlay,2019,LeftFoot,12752,Brest,Rennes,0,0,2019-09-14 18:00:00,Yoann Court,Pass
+321745,44,SavedShot,0.86,0.2879999923706055,0.046458899974823,Julien Faussurier,h,7729,OpenPlay,2019,LeftFoot,12770,Brest,Lyon,2,2,2019-09-25 17:00:00,Gaëtan Charbonnier,HeadPass
+324412,10,Goal,0.9109999847412109,0.335,0.0397224985063076,Julien Faussurier,h,7729,OpenPlay,2019,RightFoot,12796,Brest,Metz,2,0,2019-10-05 19:00:00,Yoann Court,Cross
+325903,16,MissedShots,0.8580000305175781,0.25799999237060545,0.0175246000289917,Julien Faussurier,a,7729,OpenPlay,2019,RightFoot,12800,Angers,Brest,0,1,2019-10-19 19:00:00,Mathias Autret,Cross
+327512,50,SavedShot,0.92,0.3340000152587891,0.0110493004322052,Julien Faussurier,h,7729,FromCorner,2019,Head,12812,Brest,Dijon,2,0,2019-10-26 19:00:00,Gaëtan Charbonnier,Chipped
+330785,91,MissedShots,0.9380000305175781,0.32,0.0529978983104229,Julien Faussurier,h,7729,SetPiece,2019,RightFoot,12835,Brest,Paris Saint Germain,1,2,2019-11-09 16:30:00,,None
+335282,65,MissedShots,0.8030000305175782,0.3270000076293945,0.02253730036318302,Julien Faussurier,a,7729,FromCorner,2019,RightFoot,12878,Lille,Brest,1,0,2019-12-06 18:00:00,,BallTouch
+339080,74,ShotOnPost,0.9580000305175781,0.335,0.20174400508403778,Julien Faussurier,a,7729,OpenPlay,2019,RightFoot,12889,Montpellier,Brest,4,0,2019-12-21 19:45:00,Ludovic Baal,Cross
+356855,57,SavedShot,0.9019999694824219,0.36400001525878906,0.26110199093818665,Julien Faussurier,a,7729,OpenPlay,2019,RightFoot,12921,Dijon,Brest,3,0,2020-02-01 19:00:00,Irvin Cardona,Chipped
+375725,4,BlockedShot,0.779000015258789,0.725999984741211,0.016470499336719513,Julien Faussurier,a,7729,OpenPlay,2020,RightFoot,13985,Nimes,Brest,4,0,2020-08-23 13:00:00,Jeremy Le Douaron,Pass
+383800,47,MissedShots,0.980999984741211,0.4209999847412109,0.060443099588155746,Julien Faussurier,h,7729,OpenPlay,2020,Head,15833,Brest,Strasbourg,0,3,2020-10-25 14:00:00,Gaëtan Charbonnier,HeadPass
+403584,74,MissedShots,0.7719999694824219,0.38599998474121094,0.022267499938607216,Julien Faussurier,h,7729,OpenPlay,2020,RightFoot,15991,Brest,Bordeaux,2,1,2021-02-07 12:00:00,,BallRecovery
+422975,70,SavedShot,0.8430000305175781,0.355,0.05473729968070984,Julien Faussurier,a,7729,OpenPlay,2020,RightFoot,16122,Montpellier,Brest,0,0,2021-05-16 19:00:00,,BallRecovery
+422977,75,SavedShot,0.9790000152587891,0.425,0.09905330091714859,Julien Faussurier,a,7729,OpenPlay,2020,LeftFoot,16122,Montpellier,Brest,0,0,2021-05-16 19:00:00,,None
+465772,36,BlockedShot,0.92,0.41200000762939454,0.06079090014100075,Julien Faussurier,a,7729,OpenPlay,2021,LeftFoot,18116,Montpellier,Brest,1,2,2022-04-03 13:00:00,Paul Lasne,Aerial
+467359,14,SavedShot,0.870999984741211,0.37099998474121093,0.06183670088648796,Julien Faussurier,h,7729,OpenPlay,2021,LeftFoot,18124,Brest,Nantes,1,1,2022-04-10 13:00:00,Haris Belkebla,HeadPass
+469461,70,MissedShots,0.8059999847412109,0.40299999237060546,0.04874720051884651,Julien Faussurier,h,7729,OpenPlay,2021,LeftFoot,18144,Brest,Lyon,2,1,2022-04-20 19:00:00,Paul Lasne,TakeOn
+470592,94,SavedShot,0.8719999694824219,0.37,0.09600090235471725,Julien Faussurier,a,7729,OpenPlay,2021,RightFoot,18155,Metz,Brest,0,1,2022-04-24 13:00:00,Martín Satriano,LayOff

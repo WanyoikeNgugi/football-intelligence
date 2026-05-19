@@ -1,0 +1,26 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+441007,23,MissedShots,0.904000015258789,0.6519999694824219,0.0578823983669281,Nikolas Nartey,h,6415,OpenPlay,2021,LeftFoot,17611,VfB Stuttgart,Arminia Bielefeld,0,1,2021-11-06 14:30:00,,None
+495013,84,MissedShots,0.7959999847412109,0.5790000152587891,0.04711800068616867,Nikolas Nartey,a,6415,OpenPlay,2022,LeftFoot,19432,Borussia Dortmund,VfB Stuttgart,5,0,2022-10-22 13:30:00,Chris Führich,Pass
+504511,48,MissedShots,0.6819999694824219,0.47299999237060547,0.014383099973201752,Nikolas Nartey,h,6415,OpenPlay,2022,LeftFoot,19485,VfB Stuttgart,Mainz 05,1,1,2023-01-21 14:30:00,Atakan Karazor,Pass
+505565,45,MissedShots,0.8580000305175781,0.37,0.3153179883956909,Nikolas Nartey,a,6415,OpenPlay,2022,LeftFoot,19497,RasenBallsport Leipzig,VfB Stuttgart,2,1,2023-01-27 19:30:00,Luca Pfeiffer,Throughball
+507672,67,BlockedShot,0.8090000152587891,0.5459999847412109,0.03561680018901825,Nikolas Nartey,h,6415,FromCorner,2022,RightFoot,19512,VfB Stuttgart,Werder Bremen,0,2,2023-02-05 14:30:00,,None
+649787,45,BlockedShot,0.8419999694824218,0.6320000076293946,0.05144410580396652,Nikolas Nartey,h,6415,OpenPlay,2025,LeftFoot,30294,VfB Stuttgart,Mainz 05,2,1,2025-10-26 15:30:00,,None
+653028,79,SavedShot,0.870999984741211,0.2879999923706055,0.037294652312994,Nikolas Nartey,h,6415,FromCorner,2025,LeftFoot,30311,VfB Stuttgart,Augsburg,3,2,2025-11-09 16:30:00,Angelo Stiller,Pass
+655728,11,MissedShots,0.8019999694824219,0.7419999694824219,0.02316988818347454,Nikolas Nartey,a,6415,OpenPlay,2025,LeftFoot,30328,Hamburger SV,VfB Stuttgart,2,1,2025-11-30 14:30:00,Chema Andres,Pass
+656846,16,MissedShots,0.8919999694824219,0.33,0.051417429000139236,Nikolas Nartey,h,6415,OpenPlay,2025,LeftFoot,30332,VfB Stuttgart,Bayern Munich,0,5,2025-12-06 14:30:00,,None
+658954,73,MissedShots,0.8109999847412109,0.4879999923706055,0.03832077607512474,Nikolas Nartey,a,6415,FromCorner,2025,RightFoot,30349,Werder Bremen,VfB Stuttgart,0,4,2025-12-14 18:30:00,,None
+659167,42,BlockedShot,0.9059999847412109,0.3629999923706055,0.012802062556147575,Nikolas Nartey,h,6415,OpenPlay,2025,Head,30357,VfB Stuttgart,Hoffenheim,0,0,2025-12-20 14:30:00,Jamie Leweling,Aerial
+659174,70,MissedShots,0.8540000152587891,0.34599998474121096,0.050858911126852036,Nikolas Nartey,h,6415,OpenPlay,2025,RightFoot,30357,VfB Stuttgart,Hoffenheim,0,0,2025-12-20 14:30:00,,None
+659176,89,SavedShot,0.909000015258789,0.39,0.02640906721353531,Nikolas Nartey,h,6415,OpenPlay,2025,Head,30357,VfB Stuttgart,Hoffenheim,0,0,2025-12-20 14:30:00,Maximilian Mittelstädt,Aerial
+662943,86,Goal,0.960999984741211,0.48400001525878905,0.7126155495643616,Nikolas Nartey,h,6415,OpenPlay,2025,LeftFoot,30375,VfB Stuttgart,Eintracht Frankfurt,3,2,2026-01-13 17:30:00,Joshua Vagnoman,Pass
+665308,48,SavedShot,0.7609999847412109,0.47099998474121096,0.034661322832107544,Nikolas Nartey,a,6415,OpenPlay,2025,LeftFoot,30388,Borussia M.Gladbach,VfB Stuttgart,0,3,2026-01-25 14:30:00,Badredine Bouanani,Pass
+665314,61,SavedShot,0.9669999694824218,0.590999984741211,0.4416853189468384,Nikolas Nartey,a,6415,OpenPlay,2025,LeftFoot,30388,Borussia M.Gladbach,VfB Stuttgart,0,3,2026-01-25 14:30:00,,None
+665315,65,SavedShot,0.9259999847412109,0.4829999923706055,0.4523632824420929,Nikolas Nartey,a,6415,OpenPlay,2025,Head,30388,Borussia M.Gladbach,VfB Stuttgart,0,3,2026-01-25 14:30:00,Joshua Vagnoman,HeadPass
+665316,65,BlockedShot,0.950999984741211,0.519000015258789,0.14262479543685913,Nikolas Nartey,a,6415,OpenPlay,2025,LeftFoot,30388,Borussia M.Gladbach,VfB Stuttgart,0,3,2026-01-25 14:30:00,Chris Führich,Cross
+666568,41,SavedShot,0.97,0.44,0.5949761271476746,Nikolas Nartey,h,6415,OpenPlay,2025,Head,30402,VfB Stuttgart,Freiburg,1,0,2026-02-01 14:30:00,Deniz Undav,Aerial
+666569,41,MissedShots,0.7819999694824219,0.445,0.038034867495298386,Nikolas Nartey,h,6415,FromCorner,2025,LeftFoot,30402,VfB Stuttgart,Freiburg,1,0,2026-02-01 14:30:00,Bilal El Khannouss,Pass
+671674,85,BlockedShot,0.84,0.445,0.09572218358516693,Nikolas Nartey,h,6415,OpenPlay,2025,LeftFoot,30438,VfB Stuttgart,Wolfsburg,4,0,2026-03-01 14:30:00,Bilal El Khannouss,Pass
+671678,94,Goal,0.9480000305175781,0.6090000152587891,0.12907062470912933,Nikolas Nartey,h,6415,OpenPlay,2025,LeftFoot,30438,VfB Stuttgart,Wolfsburg,4,0,2026-03-01 14:30:00,Tiago Tomás,Pass
+672603,67,MissedShots,0.9119999694824219,0.3920000076293945,0.0347527377307415,Nikolas Nartey,a,6415,OpenPlay,2025,Head,30444,Mainz 05,VfB Stuttgart,2,2,2026-03-07 14:30:00,Maximilian Mittelstädt,Chipped
+676178,6,SavedShot,0.9480000305175781,0.6379999923706055,0.35785090923309326,Nikolas Nartey,a,6415,OpenPlay,2025,LeftFoot,30458,Augsburg,VfB Stuttgart,2,5,2026-03-22 18:30:00,Chris Führich,Throughball
+676185,30,Goal,0.945,0.524000015258789,0.5797443985939026,Nikolas Nartey,a,6415,OpenPlay,2025,RightFoot,30458,Augsburg,VfB Stuttgart,2,5,2026-03-22 18:30:00,Maximilian Mittelstädt,Cross

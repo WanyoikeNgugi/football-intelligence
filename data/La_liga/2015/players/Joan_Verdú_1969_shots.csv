@@ -1,0 +1,14 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+96303,89,Goal,0.89,0.6469999694824219,0.3289549946784973,Joan Verdú,h,1969,OpenPlay,2015,RightFoot,620,Fiorentina,Atalanta,3,0,2015-10-04 22:45:00,Nikola Kalinic,Chipped
+98307,82,ShotOnPost,0.874000015258789,0.34400001525878904,0.08202649652957916,Joan Verdú,h,1969,OpenPlay,2015,LeftFoot,653,Fiorentina,Frosinone,4,1,2015-11-01 15:30:00,Giuseppe Rossi,Pass
+99971,89,MissedShots,0.8109999847412109,0.49400001525878906,0.06108580157160759,Joan Verdú,a,1969,OpenPlay,2015,LeftFoot,689,Sassuolo,Fiorentina,1,1,2015-11-30 22:00:00,Nikola Kalinic,LayOff
+94327,29,BlockedShot,0.7609999847412109,0.600999984741211,0.032943300902843475,Joan Verdú,h,1969,OpenPlay,2015,RightFoot,753,Fiorentina,Torino,2,0,2016-01-24 15:30:00,Nikola Kalinic,LayOff
+89872,80,Goal,0.9730000305175781,0.6179999923706054,0.32418200373649597,Joan Verdú,h,1969,OpenPlay,2015,LeftFoot,1639,Levante,Getafe,3,0,2016-02-19 23:30:00,Morales,TakeOn
+91178,19,MissedShots,0.894000015258789,0.34900001525878904,0.040037401020526886,Joan Verdú,a,1969,OpenPlay,2015,RightFoot,1676,Real Sociedad,Levante,1,1,2016-03-06 21:15:00,Toño,Cross
+90763,34,MissedShots,0.9219999694824219,0.29100000381469726,0.040230799466371536,Joan Verdú,h,1969,OpenPlay,2015,RightFoot,1684,Levante,Valencia,1,0,2016-03-13 15:00:00,Giuseppe Rossi,Pass
+90699,19,MissedShots,0.5540000152587891,0.45,0.00550359021872282,Joan Verdú,a,1969,OpenPlay,2015,RightFoot,1693,Deportivo La Coruna,Levante,2,1,2016-03-19 23:30:00,Deyverson,TakeOn
+90391,40,MissedShots,0.875,0.7230000305175781,0.03513890132308006,Joan Verdú,h,1969,OpenPlay,2015,RightFoot,1708,Levante,Sporting Gijon,0,0,2016-04-04 22:30:00,Giuseppe Rossi,Pass
+90403,79,BlockedShot,0.845,0.5270000076293946,0.05148620158433914,Joan Verdú,h,1969,OpenPlay,2015,RightFoot,1708,Levante,Sporting Gijon,0,0,2016-04-04 22:30:00,Mauricio Cuero,Cross
+91627,7,MissedShots,0.9319999694824219,0.6079999923706054,0.41229599714279175,Joan Verdú,a,1969,OpenPlay,2015,RightFoot,1713,Real Betis,Levante,1,0,2016-04-10 00:05:00,Casadesús,Pass
+91632,36,MissedShots,0.7319999694824219,0.46,0.05940850079059601,Joan Verdú,a,1969,DirectFreekick,2015,RightFoot,1713,Real Betis,Levante,1,0,2016-04-10 00:05:00,,Standard
+91901,61,SavedShot,0.884000015258789,0.6969999694824218,0.02537669986486435,Joan Verdú,a,1969,OpenPlay,2015,LeftFoot,1738,Granada,Levante,5,1,2016-04-21 23:00:00,Morales,Rebound

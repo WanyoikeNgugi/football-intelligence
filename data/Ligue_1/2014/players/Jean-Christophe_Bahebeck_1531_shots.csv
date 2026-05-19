@@ -1,0 +1,75 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+1089,78,SavedShot,0.8109999847412109,0.7659999847412109,0.027785800397396088,Jean-Christophe Bahebeck,h,1531,OpenPlay,2014,RightFoot,6224,Paris Saint Germain,Saint-Etienne,5,0,2014-08-31 20:00:00,Javier Pastore,Pass
+1490,36,MissedShots,0.8730000305175781,0.46,0.08105219900608063,Jean-Christophe Bahebeck,a,1531,OpenPlay,2014,RightFoot,6173,Caen,Paris Saint Germain,0,2,2014-09-24 20:00:00,Lucas Moura,Cross
+1497,51,MissedShots,0.874000015258789,0.6719999694824219,0.09083680063486099,Jean-Christophe Bahebeck,a,1531,OpenPlay,2014,RightFoot,6173,Caen,Paris Saint Germain,0,2,2014-09-24 20:00:00,Edinson Cavani,Pass
+2400,32,Goal,0.94,0.41,0.31843701004981995,Jean-Christophe Bahebeck,a,1531,SetPiece,2014,RightFoot,6176,Toulouse,Paris Saint Germain,1,1,2014-09-27 16:00:00,Marco Verratti,Chipped
+2407,74,BlockedShot,0.7930000305175782,0.5070000076293946,0.04165010154247284,Jean-Christophe Bahebeck,a,1531,OpenPlay,2014,RightFoot,6176,Toulouse,Paris Saint Germain,1,1,2014-09-27 16:00:00,Lucas Moura,Pass
+1472,56,SavedShot,0.9480000305175781,0.7180000305175781,0.050013698637485504,Jean-Christophe Bahebeck,h,1531,OpenPlay,2014,LeftFoot,6123,Paris Saint Germain,Monaco,1,1,2014-10-05 20:00:00,Edinson Cavani,TakeOn
+1569,24,MissedShots,0.7519999694824219,0.524000015258789,0.021609900519251823,Jean-Christophe Bahebeck,a,1531,OpenPlay,2014,RightFoot,6124,Lens,Paris Saint Germain,1,3,2014-10-17 19:30:00,Marco Verratti,TakeOn
+1573,36,MissedShots,0.7130000305175781,0.445,0.04396919906139374,Jean-Christophe Bahebeck,a,1531,DirectFreekick,2014,RightFoot,6124,Lens,Paris Saint Germain,1,3,2014-10-17 19:30:00,,Standard
+1583,70,MissedShots,0.9230000305175782,0.47099998474121096,0.12972800433635712,Jean-Christophe Bahebeck,a,1531,OpenPlay,2014,Head,6124,Lens,Paris Saint Germain,1,3,2014-10-17 19:30:00,Gregory Van der Wiel,Cross
+3390,67,Goal,0.9569999694824218,0.275,0.12918899953365326,Jean-Christophe Bahebeck,a,1531,OpenPlay,2014,RightFoot,6076,Lorient,Paris Saint Germain,1,2,2014-11-01 16:00:00,Marco Verratti,TakeOn
+4485,82,MissedShots,0.7759999847412109,0.32299999237060545,0.016520699486136436,Jean-Christophe Bahebeck,a,1531,FromCorner,2014,RightFoot,6044,Lille,Paris Saint Germain,1,1,2014-12-03 20:00:00,,None
+5306,66,MissedShots,0.725999984741211,0.4640000152587891,0.01640550047159195,Jean-Christophe Bahebeck,h,1531,OpenPlay,2014,RightFoot,6067,Paris Saint Germain,Montpellier,0,0,2014-12-20 16:00:00,,BallRecovery
+5308,75,SavedShot,0.8880000305175781,0.49900001525878906,0.034630000591278076,Jean-Christophe Bahebeck,h,1531,OpenPlay,2014,Head,6067,Paris Saint Germain,Montpellier,0,0,2014-12-20 16:00:00,Gregory Van der Wiel,Aerial
+5687,90,MissedShots,0.81,0.5129999923706055,0.03885279968380928,Jean-Christophe Bahebeck,a,1531,OpenPlay,2014,LeftFoot,6000,SC Bastia,Paris Saint Germain,4,2,2015-01-10 16:00:00,,None
+7758,57,BlockedShot,0.740999984741211,0.58,0.02622080035507679,Jean-Christophe Bahebeck,h,1531,OpenPlay,2014,RightFoot,5931,Paris Saint Germain,Lens,4,1,2015-03-07 16:00:00,Marco Verratti,Chipped
+6459,81,MissedShots,0.8819999694824219,0.685,0.07055909931659698,Jean-Christophe Bahebeck,a,1531,OpenPlay,2014,LeftFoot,5906,Nice,Paris Saint Germain,1,3,2015-04-18 16:00:00,Javier Pastore,Pass
+61727,11,MissedShots,0.8869999694824219,0.9490000152587891,0.030584700405597687,Jean-Christophe Bahebeck,h,1531,DirectFreekick,2015,RightFoot,1880,Saint-Etienne,Bordeaux,1,1,2015-08-15 19:00:00,,Standard
+61733,30,MissedShots,0.9540000152587891,0.615999984741211,0.04949149861931801,Jean-Christophe Bahebeck,h,1531,OpenPlay,2015,Head,1880,Saint-Etienne,Bordeaux,1,1,2015-08-15 19:00:00,Romain Hamouma,Cross
+61736,45,MissedShots,0.935,0.5620000076293945,0.12325000017881393,Jean-Christophe Bahebeck,h,1531,OpenPlay,2015,Head,1880,Saint-Etienne,Bordeaux,1,1,2015-08-15 19:00:00,Romain Hamouma,Cross
+62159,15,BlockedShot,0.875,0.6029999923706054,0.06942970305681229,Jean-Christophe Bahebeck,h,1531,OpenPlay,2015,RightFoot,1906,Saint-Etienne,SC Bastia,2,1,2015-08-30 16:00:00,,None
+62160,16,BlockedShot,0.9480000305175781,0.56,0.14325499534606934,Jean-Christophe Bahebeck,h,1531,OpenPlay,2015,RightFoot,1906,Saint-Etienne,SC Bastia,2,1,2015-08-30 16:00:00,Nolan Roux,Pass
+62167,28,BlockedShot,0.7040000152587891,0.5620000076293945,0.018018199130892754,Jean-Christophe Bahebeck,h,1531,OpenPlay,2015,RightFoot,1906,Saint-Etienne,SC Bastia,2,1,2015-08-30 16:00:00,Florentin Pogba,BallRecovery
+62458,75,BlockedShot,0.840999984741211,0.46700000762939453,0.07365590333938599,Jean-Christophe Bahebeck,h,1531,OpenPlay,2015,RightFoot,1927,Saint-Etienne,Nantes,2,0,2015-09-20 19:00:00,Benjamin Corgnet,HeadPass
+62805,72,MissedShots,0.9419999694824219,0.5029999923706054,0.1297830045223236,Jean-Christophe Bahebeck,h,1531,FromCorner,2015,Head,1947,Saint-Etienne,Nice,1,4,2015-09-27 23:00:00,Valentin Eysseric,Cross
+62810,79,BlockedShot,0.7730000305175782,0.5970000076293945,0.0270588006824255,Jean-Christophe Bahebeck,h,1531,OpenPlay,2015,LeftFoot,1947,Saint-Etienne,Nice,1,4,2015-09-27 23:00:00,Vincent Pajot,Pass
+62814,82,MissedShots,0.885,0.5,0.7600950002670288,Jean-Christophe Bahebeck,h,1531,Penalty,2015,RightFoot,1947,Saint-Etienne,Nice,1,4,2015-09-27 23:00:00,,Standard
+62815,92,SavedShot,0.8669999694824219,0.5679999923706055,0.0732181966304779,Jean-Christophe Bahebeck,h,1531,OpenPlay,2015,RightFoot,1947,Saint-Etienne,Nice,1,4,2015-09-27 23:00:00,,BallTouch
+64004,80,SavedShot,0.7180000305175781,0.46599998474121096,0.012037400156259537,Jean-Christophe Bahebeck,a,1531,OpenPlay,2015,RightFoot,1977,Paris Saint Germain,Saint-Etienne,4,1,2015-10-26 00:00:00,Robert Beric,Pass
+64851,84,MissedShots,0.965,0.7659999847412109,0.05848519876599312,Jean-Christophe Bahebeck,h,1531,OpenPlay,2015,LeftFoot,1979,Saint-Etienne,Reims,3,0,2015-10-31 20:00:00,Valentin Eysseric,Chipped
+64048,77,MissedShots,0.7769999694824219,0.64,0.07228109985589981,Jean-Christophe Bahebeck,h,1531,DirectFreekick,2015,RightFoot,2008,Saint-Etienne,Marseille,0,2,2015-11-23 00:00:00,,Standard
+64049,92,MissedShots,0.9159999847412109,0.6619999694824219,0.07056500017642975,Jean-Christophe Bahebeck,h,1531,OpenPlay,2015,RightFoot,2008,Saint-Etienne,Marseille,0,2,2015-11-23 00:00:00,Neal Maupay,Pass
+65989,8,SavedShot,0.945,0.8280000305175781,0.06513349711894989,Jean-Christophe Bahebeck,h,1531,DirectFreekick,2015,RightFoot,2078,Saint-Etienne,Lyon,1,0,2016-01-18 00:00:00,,Standard
+66394,12,MissedShots,0.9030000305175782,0.20399999618530273,0.028755400329828262,Jean-Christophe Bahebeck,a,1531,OpenPlay,2015,RightFoot,2087,Reims,Saint-Etienne,1,1,2016-01-24 20:00:00,Fabien Lemoine,Chipped
+66397,40,BlockedShot,0.9059999847412109,0.500999984741211,0.13770200312137604,Jean-Christophe Bahebeck,a,1531,OpenPlay,2015,RightFoot,2087,Reims,Saint-Etienne,1,1,2016-01-24 20:00:00,Alexander Søderlund,Pass
+66401,59,Goal,0.8190000152587891,0.5359999847412109,0.03928060084581375,Jean-Christophe Bahebeck,a,1531,OpenPlay,2015,LeftFoot,2087,Reims,Saint-Etienne,1,1,2016-01-24 20:00:00,Alexander Søderlund,HeadPass
+66443,18,MissedShots,0.8009999847412109,0.6730000305175782,0.028294699266552925,Jean-Christophe Bahebeck,h,1531,OpenPlay,2015,LeftFoot,2098,Saint-Etienne,Paris Saint Germain,0,2,2016-02-01 00:00:00,Alexander Søderlund,Pass
+66446,24,MissedShots,0.904000015258789,0.5209999847412109,0.10370299965143204,Jean-Christophe Bahebeck,h,1531,OpenPlay,2015,Head,2098,Saint-Etienne,Paris Saint Germain,0,2,2016-02-01 00:00:00,Franck Tabanou,Cross
+69193,25,BlockedShot,0.855,0.6220000076293946,0.05771239846944809,Jean-Christophe Bahebeck,a,1531,OpenPlay,2015,RightFoot,2108,Rennes,Saint-Etienne,0,1,2016-02-05 00:00:00,,None
+69196,46,MissedShots,0.785,0.6029999923706054,0.0309177003800869,Jean-Christophe Bahebeck,a,1531,OpenPlay,2015,RightFoot,2108,Rennes,Saint-Etienne,0,1,2016-02-05 00:00:00,Franck Tabanou,Pass
+69199,57,SavedShot,0.8109999847412109,0.28200000762939453,0.025284400209784508,Jean-Christophe Bahebeck,a,1531,OpenPlay,2015,RightFoot,2108,Rennes,Saint-Etienne,0,1,2016-02-05 00:00:00,Kévin Théophile-Catherine,Pass
+69835,41,MissedShots,0.7019999694824218,0.590999984741211,0.016150599345564842,Jean-Christophe Bahebeck,a,1531,OpenPlay,2015,LeftFoot,2135,Marseille,Saint-Etienne,1,1,2016-02-21 17:00:00,Ole Selnaes,Pass
+69836,43,MissedShots,0.905,0.8140000152587891,0.06557069718837738,Jean-Christophe Bahebeck,a,1531,DirectFreekick,2015,RightFoot,2135,Marseille,Saint-Etienne,1,1,2016-02-21 17:00:00,,Standard
+66950,73,BlockedShot,0.9569999694824218,0.544000015258789,0.5464540123939514,Jean-Christophe Bahebeck,h,1531,OpenPlay,2015,RightFoot,2170,Saint-Etienne,Montpellier,3,0,2016-03-19 20:00:00,,Dispossessed
+67512,27,SavedShot,0.8090000152587891,0.46299999237060546,0.07849690318107605,Jean-Christophe Bahebeck,a,1531,OpenPlay,2015,LeftFoot,2181,GFC Ajaccio,Saint-Etienne,0,2,2016-04-02 22:00:00,Nolan Roux,LayOff
+67518,53,MissedShots,0.750999984741211,0.4570000076293945,0.06730639934539795,Jean-Christophe Bahebeck,a,1531,DirectFreekick,2015,RightFoot,2181,GFC Ajaccio,Saint-Etienne,0,2,2016-04-02 22:00:00,,Standard
+145030,70,MissedShots,0.8669999694824219,0.2620000076293945,0.03433839976787567,Jean-Christophe Bahebeck,a,1531,OpenPlay,2016,RightFoot,945,Sassuolo,Pescara,2,1,2016-08-28 22:45:00,Francesco Zampano,Pass
+145542,62,Goal,0.9480000305175781,0.5820000076293945,0.35095301270484924,Jean-Christophe Bahebeck,h,1531,OpenPlay,2016,LeftFoot,958,Pescara,Inter,1,2,2016-09-11 22:45:00,Francesco Zampano,Cross
+145544,71,SavedShot,0.9119999694824219,0.26600000381469724,0.05001330003142357,Jean-Christophe Bahebeck,h,1531,OpenPlay,2016,RightFoot,958,Pescara,Inter,1,2,2016-09-11 22:45:00,Francesco Zampano,TakeOn
+148190,9,SavedShot,0.9259999847412109,0.5,0.11295399814844131,Jean-Christophe Bahebeck,h,1531,FromCorner,2016,Head,1001,Pescara,Sampdoria,1,1,2016-10-15 20:00:00,Alberto Aquilani,Cross
+145278,55,Goal,0.92,0.5670000076293945,0.37158501148223877,Jean-Christophe Bahebeck,h,1531,OpenPlay,2016,RightFoot,3545,Pescara,Sassuolo,1,3,2017-01-22 17:00:00,Cristiano Biraghi,Cross
+145794,2,MissedShots,0.7759999847412109,0.28700000762939454,0.014247899875044823,Jean-Christophe Bahebeck,a,1531,OpenPlay,2016,LeftFoot,3551,Inter,Pescara,3,0,2017-01-28 22:45:00,,None
+145810,48,MissedShots,0.7169999694824218,0.6530000305175782,0.008531619794666767,Jean-Christophe Bahebeck,a,1531,OpenPlay,2016,RightFoot,3551,Inter,Pescara,3,0,2017-01-28 22:45:00,Cristiano Biraghi,Pass
+145812,56,MissedShots,0.725,0.445,0.04782319813966751,Jean-Christophe Bahebeck,a,1531,DirectFreekick,2016,RightFoot,3551,Inter,Pescara,3,0,2017-01-28 22:45:00,,Standard
+145813,58,SavedShot,0.9590000152587891,0.6,0.2924109995365143,Jean-Christophe Bahebeck,a,1531,OpenPlay,2016,LeftFoot,3551,Inter,Pescara,3,0,2017-01-28 22:45:00,,TakeOn
+149523,85,BlockedShot,0.85,0.485,0.07595899701118469,Jean-Christophe Bahebeck,a,1531,OpenPlay,2016,RightFoot,3630,Atalanta,Pescara,3,0,2017-03-19 14:00:00,Alberto Cerri,Pass
+150009,19,MissedShots,0.7569999694824219,0.5309999847412109,0.04648900032043457,Jean-Christophe Bahebeck,h,1531,OpenPlay,2016,RightFoot,3639,Pescara,AC Milan,1,1,2017-04-02 14:00:00,,TakeOn
+150019,44,SavedShot,0.909000015258789,0.6969999694824218,0.059314701706171036,Jean-Christophe Bahebeck,h,1531,OpenPlay,2016,LeftFoot,3639,Pescara,AC Milan,1,1,2017-04-02 14:00:00,Gianluca Caprari,Pass
+150027,66,SavedShot,0.81,0.705,0.02604830078780651,Jean-Christophe Bahebeck,h,1531,OpenPlay,2016,RightFoot,3639,Pescara,AC Milan,1,1,2017-04-02 14:00:00,Ledian Memushaj,Pass
+151696,5,BlockedShot,0.794000015258789,0.64,0.03424210101366043,Jean-Christophe Bahebeck,h,1531,OpenPlay,2016,RightFoot,3670,Pescara,Roma,1,4,2017-04-24 19:45:00,Cristiano Biraghi,Chipped
+151707,28,SavedShot,0.985999984741211,0.6079999923706054,0.07244689762592316,Jean-Christophe Bahebeck,h,1531,OpenPlay,2016,LeftFoot,3670,Pescara,Roma,1,4,2017-04-24 19:45:00,,None
+151708,30,SavedShot,0.925,0.6969999694824218,0.10852199792861938,Jean-Christophe Bahebeck,h,1531,OpenPlay,2016,LeftFoot,3670,Pescara,Roma,1,4,2017-04-24 19:45:00,Cristiano Biraghi,Throughball
+151710,33,BlockedShot,0.8119999694824219,0.3340000152587891,0.04733949899673462,Jean-Christophe Bahebeck,h,1531,OpenPlay,2016,LeftFoot,3670,Pescara,Roma,1,4,2017-04-24 19:45:00,,TakeOn
+151723,58,BlockedShot,0.9259999847412109,0.44299999237060544,0.0924450010061264,Jean-Christophe Bahebeck,h,1531,FromCorner,2016,RightFoot,3670,Pescara,Roma,1,4,2017-04-24 19:45:00,Ahmed Benali,Cross
+151729,64,MissedShots,0.914000015258789,0.28,0.05029720067977905,Jean-Christophe Bahebeck,h,1531,OpenPlay,2016,RightFoot,3670,Pescara,Roma,1,4,2017-04-24 19:45:00,Ledian Memushaj,Pass
+152605,35,MissedShots,0.899000015258789,0.42700000762939455,0.09251020103693008,Jean-Christophe Bahebeck,h,1531,OpenPlay,2016,RightFoot,3685,Pescara,Crotone,0,1,2017-05-07 14:00:00,Gianluca Caprari,HeadPass
+152606,36,BlockedShot,0.9419999694824219,0.7090000152587891,0.39440199732780457,Jean-Christophe Bahebeck,h,1531,OpenPlay,2016,LeftFoot,3685,Pescara,Crotone,0,1,2017-05-07 14:00:00,Cristiano Biraghi,TakeOn
+153224,14,MissedShots,0.905,0.24,0.02979380078613758,Jean-Christophe Bahebeck,a,1531,OpenPlay,2016,RightFoot,3699,Bologna,Pescara,3,1,2017-05-14 14:00:00,,None
+153225,23,Goal,0.915,0.4370000076293945,0.12531700730323792,Jean-Christophe Bahebeck,a,1531,SetPiece,2016,RightFoot,3699,Bologna,Pescara,3,1,2017-05-14 14:00:00,Alexandru Mitrita,Pass
+153233,49,BlockedShot,0.8590000152587891,0.6509999847412109,0.04746310040354729,Jean-Christophe Bahebeck,a,1531,OpenPlay,2016,RightFoot,3699,Bologna,Pescara,3,1,2017-05-14 14:00:00,,BallTouch
+154275,9,BlockedShot,0.905,0.5279999923706055,0.08454299718141556,Jean-Christophe Bahebeck,a,1531,SetPiece,2016,RightFoot,3719,Fiorentina,Pescara,2,2,2017-05-28 19:45:00,Robert Muric,Cross
+154293,61,BlockedShot,0.9259999847412109,0.26600000381469724,0.06866390258073807,Jean-Christophe Bahebeck,a,1531,OpenPlay,2016,RightFoot,3719,Fiorentina,Pescara,2,2,2017-05-28 19:45:00,Robert Muric,Pass
+154294,64,Goal,0.895,0.4640000152587891,0.43413299322128296,Jean-Christophe Bahebeck,a,1531,OpenPlay,2016,RightFoot,3719,Fiorentina,Pescara,2,2,2017-05-28 19:45:00,Gianluca Caprari,Pass
+154296,70,BlockedShot,0.8530000305175781,0.5270000076293946,0.05910370126366615,Jean-Christophe Bahebeck,a,1531,OpenPlay,2016,LeftFoot,3719,Fiorentina,Pescara,2,2,2017-05-28 19:45:00,Robert Muric,TakeOn
+154298,72,MissedShots,0.875,0.4640000152587891,0.09450910240411758,Jean-Christophe Bahebeck,a,1531,OpenPlay,2016,LeftFoot,3719,Fiorentina,Pescara,2,2,2017-05-28 19:45:00,Francesco Zampano,Cross

@@ -1,0 +1,14 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+590667,0,MissedShots,0.6819999694824219,0.46599998474121096,0.011715334840118885,Koji Miyoshi,a,13065,OpenPlay,2024,LeftFoot,27762,Freiburg,Bochum,2,1,2024-09-14 13:30:00,Ibrahima Sissoko,BallRecovery
+590680,41,BlockedShot,0.8769999694824219,0.6419999694824219,0.04309149831533432,Koji Miyoshi,a,13065,OpenPlay,2024,LeftFoot,27762,Freiburg,Bochum,2,1,2024-09-14 13:30:00,Ibrahima Sissoko,HeadPass
+590684,47,SavedShot,0.475,0.5329999923706055,0.010367370210587978,Koji Miyoshi,a,13065,OpenPlay,2024,RightFoot,27762,Freiburg,Bochum,2,1,2024-09-14 13:30:00,,Clearance
+590693,63,BlockedShot,0.874000015258789,0.33099998474121095,0.05971882864832878,Koji Miyoshi,a,13065,OpenPlay,2024,LeftFoot,27762,Freiburg,Bochum,2,1,2024-09-14 13:30:00,Felix Passlack,Pass
+595380,89,BlockedShot,0.7480000305175781,0.534000015258789,0.021390162408351898,Koji Miyoshi,h,13065,OpenPlay,2024,LeftFoot,27792,Bochum,Wolfsburg,1,3,2024-10-05 13:30:00,Maximilian Wittek,Pass
+596960,42,SavedShot,0.8959999847412109,0.645,0.31617042422294617,Koji Miyoshi,a,13065,OpenPlay,2024,LeftFoot,27799,Hoffenheim,Bochum,3,1,2024-10-19 13:30:00,Philipp Hofmann,Throughball
+596961,44,BlockedShot,0.8590000152587891,0.624000015258789,0.06837011873722076,Koji Miyoshi,a,13065,OpenPlay,2024,LeftFoot,27799,Hoffenheim,Bochum,3,1,2024-10-19 13:30:00,Mats Pannewig,TakeOn
+601403,88,Goal,0.9840000152587891,0.385,0.30461516976356506,Koji Miyoshi,h,13065,OpenPlay,2024,RightFoot,27830,Bochum,Bayer Leverkusen,1,1,2024-11-09 14:30:00,,Rebound
+602790,91,SavedShot,0.769000015258789,0.3770000076293945,0.011509903706610203,Koji Miyoshi,a,13065,OpenPlay,2024,RightFoot,27833,VfB Stuttgart,Bochum,2,0,2024-11-23 14:30:00,,Aerial
+604251,78,MissedShots,0.87,0.5429999923706055,0.06839688122272491,Koji Miyoshi,a,13065,OpenPlay,2024,LeftFoot,27846,Augsburg,Bochum,1,0,2024-11-30 14:30:00,Philipp Hofmann,HeadPass
+614758,85,SavedShot,0.8959999847412109,0.5620000076293945,0.08068343251943588,Koji Miyoshi,h,13065,OpenPlay,2024,RightFoot,27914,Bochum,Freiburg,0,1,2025-02-01 14:30:00,Gerrit Holtmann,Cross
+614761,87,MissedShots,0.8469999694824218,0.6179999923706054,0.044588297605514526,Koji Miyoshi,h,13065,FromCorner,2024,LeftFoot,27914,Bochum,Freiburg,0,1,2025-02-01 14:30:00,,None
+619916,85,BlockedShot,0.884000015258789,0.3390000152587891,0.03632660582661629,Koji Miyoshi,h,13065,FromCorner,2024,RightFoot,27957,Bochum,Hoffenheim,0,1,2025-03-01 14:30:00,Maximilian Wittek,Cross

@@ -1,0 +1,29 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+41433,84,SavedShot,0.77,0.32,0.01890850067138672,Emmanuel Cascione,h,3854,OpenPlay,2014,RightFoot,5154,Cesena,Parma,1,0,2014-08-31 19:45:00,,Rebound
+41437,93,MissedShots,0.759000015258789,0.3120000076293945,0.04911800101399422,Emmanuel Cascione,h,3854,DirectFreekick,2014,RightFoot,5154,Cesena,Parma,1,0,2014-08-31 19:45:00,,Standard
+41833,53,BlockedShot,0.935,0.34799999237060547,0.009852049872279167,Emmanuel Cascione,a,3854,SetPiece,2014,Head,5112,Lazio,Cesena,3,0,2014-09-14 14:00:00,Franco Brienza,Aerial
+41965,17,MissedShots,0.7580000305175781,0.27100000381469724,0.011017999611794949,Emmanuel Cascione,h,3854,OpenPlay,2014,RightFoot,5119,Cesena,Empoli,2,2,2014-09-20 17:00:00,,None
+42990,91,Goal,0.885,0.5,0.7612990140914917,Emmanuel Cascione,a,3854,Penalty,2014,RightFoot,5074,Udinese,Cesena,1,1,2014-10-05 14:00:00,,Standard
+43260,33,MissedShots,0.9119999694824219,0.4209999847412109,0.07445219904184341,Emmanuel Cascione,h,3854,SetPiece,2014,RightFoot,5097,Cesena,Inter,0,1,2014-10-26 17:00:00,Francesco Renzetti,Cross
+43270,70,SavedShot,0.9569999694824218,0.32099998474121094,0.019628500565886497,Emmanuel Cascione,h,3854,OpenPlay,2014,RightFoot,5097,Cesena,Inter,0,1,2014-10-26 17:00:00,,Aerial
+43800,14,SavedShot,0.73,0.73,0.012941399589180946,Emmanuel Cascione,h,3854,OpenPlay,2014,RightFoot,5038,Cesena,Verona,1,1,2014-11-03 18:00:00,Carlos Carbonero,Pass
+43811,66,MissedShots,0.8209999847412109,0.5570000076293945,0.05553879961371422,Emmanuel Cascione,h,3854,OpenPlay,2014,RightFoot,5038,Cesena,Verona,1,1,2014-11-03 18:00:00,Gregoire Defrel,Chipped
+43815,91,SavedShot,0.9019999694824219,0.39599998474121095,0.023242000490427017,Emmanuel Cascione,h,3854,FromCorner,2014,Head,5038,Cesena,Verona,1,1,2014-11-03 18:00:00,Antonio Mazzotta,Cross
+44348,78,ShotOnPost,0.7330000305175781,0.600999984741211,0.0485495999455452,Emmanuel Cascione,h,3854,DirectFreekick,2014,RightFoot,5056,Cesena,Sampdoria,1,1,2014-11-23 14:00:00,,Standard
+44589,62,ShotOnPost,0.885,0.5,0.7612990140914917,Emmanuel Cascione,h,3854,Penalty,2014,RightFoot,5066,Cesena,Genoa,0,3,2014-11-30 14:00:00,,Standard
+44836,58,BlockedShot,0.835,0.720999984741211,0.02606789954006672,Emmanuel Cascione,a,3854,OpenPlay,2014,RightFoot,5006,Atalanta,Cesena,3,2,2014-12-07 14:00:00,Gregoire Defrel,Pass
+46234,13,SavedShot,0.7380000305175781,0.5229999923706055,0.056546900421381,Emmanuel Cascione,a,3854,DirectFreekick,2014,RightFoot,4971,Cagliari,Cesena,2,1,2015-01-11 14:00:00,,Standard
+46240,47,MissedShots,0.9519999694824218,0.4779999923706055,0.5562660098075867,Emmanuel Cascione,a,3854,FromCorner,2014,RightFoot,4971,Cagliari,Cesena,2,1,2015-01-11 14:00:00,Daniele Capelli,HeadPass
+46247,70,BlockedShot,0.7580000305175781,0.4929999923706055,0.015689900144934654,Emmanuel Cascione,a,3854,OpenPlay,2014,RightFoot,4971,Cagliari,Cesena,2,1,2015-01-11 14:00:00,,None
+46382,65,SavedShot,0.7419999694824219,0.534000015258789,0.05876919999718666,Emmanuel Cascione,a,3854,DirectFreekick,2014,RightFoot,4991,Parma,Cesena,1,2,2015-01-25 14:00:00,,Standard
+46390,75,OwnGoal,0.17600000381469727,0.48700000762939455,0,Emmanuel Cascione,a,3854,OpenPlay,2014,RightFoot,4991,Parma,Cesena,1,2,2015-01-25 14:00:00,,None
+49361,45,SavedShot,0.8,0.41200000762939454,0.032553598284721375,Emmanuel Cascione,a,3854,OpenPlay,2014,RightFoot,4835,Verona,Cesena,3,3,2015-04-04 14:00:00,Gregoire Defrel,Pass
+48494,10,BlockedShot,0.7280000305175781,0.5670000076293945,0.015363899990916252,Emmanuel Cascione,h,3854,OpenPlay,2014,RightFoot,4843,Cesena,Chievo,0,1,2015-04-12 11:30:00,Gregoire Defrel,LayOff
+48510,59,MissedShots,0.774000015258789,0.49599998474121093,0.029913999140262604,Emmanuel Cascione,h,3854,OpenPlay,2014,RightFoot,4843,Cesena,Chievo,0,1,2015-04-12 11:30:00,,None
+48516,74,MissedShots,0.7519999694824219,0.445,0.020847300067543983,Emmanuel Cascione,h,3854,OpenPlay,2014,RightFoot,4843,Cesena,Chievo,0,1,2015-04-12 11:30:00,Franco Brienza,Pass
+49497,24,BlockedShot,0.7819999694824219,0.5590000152587891,0.028620999306440353,Emmanuel Cascione,a,3854,OpenPlay,2014,RightFoot,4866,Genoa,Cesena,3,1,2015-04-26 14:00:00,Gregoire Defrel,Pass
+51273,55,MissedShots,0.925,0.44400001525878907,0.30889299511909485,Emmanuel Cascione,h,3854,OpenPlay,2014,Head,4794,Cesena,Sassuolo,2,3,2015-05-10 14:00:00,Franco Brienza,Cross
+51277,78,SavedShot,0.91,0.36900001525878906,0.06365209817886353,Emmanuel Cascione,h,3854,OpenPlay,2014,RightFoot,4794,Cesena,Sassuolo,2,3,2015-05-10 14:00:00,,None
+49523,8,MissedShots,0.7340000152587891,0.30100000381469727,0.010840299539268017,Emmanuel Cascione,a,3854,OpenPlay,2014,RightFoot,4808,Napoli,Cesena,3,2,2015-05-18 20:00:00,,None
+49540,76,MissedShots,0.8980000305175782,0.674000015258789,0.06004039943218231,Emmanuel Cascione,a,3854,SetPiece,2014,RightFoot,4808,Napoli,Cesena,3,2,2015-05-18 20:00:00,Carlos Carbonero,Chipped
+50792,16,BlockedShot,0.725999984741211,0.610999984741211,0.013477499596774578,Emmanuel Cascione,h,3854,OpenPlay,2014,LeftFoot,4813,Cesena,Cagliari,0,1,2015-05-24 14:00:00,Franco Brienza,Pass

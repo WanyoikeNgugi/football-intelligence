@@ -1,0 +1,18 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+255820,77,Goal,0.9469999694824218,0.534000015258789,0.48083099722862244,Adam Zrelák,h,7242,OpenPlay,2018,Head,10417,Nuernberg,Eintracht Frankfurt,1,1,2018-10-28 11:30:00,Virgil Misidjan,Chipped
+255905,18,SavedShot,0.875999984741211,0.5629999923706055,0.06627839803695679,Adam Zrelák,a,7242,OpenPlay,2018,LeftFoot,10419,Augsburg,Nuernberg,2,2,2018-11-03 14:30:00,Sebastian Kerk,Cross
+255922,65,MissedShots,0.9730000305175781,0.32099998474121094,0.019771799445152283,Adam Zrelák,a,7242,SetPiece,2018,Head,10419,Augsburg,Nuernberg,2,2,2018-11-03 14:30:00,Robert Bauer,Chipped
+255927,82,MissedShots,0.9259999847412109,0.495,0.5286200046539307,Adam Zrelák,a,7242,OpenPlay,2018,LeftFoot,10419,Augsburg,Nuernberg,2,2,2018-11-03 14:30:00,Alexander Fuchs,Pass
+256596,77,Goal,0.9630000305175781,0.4779999923706055,0.6508150100708008,Adam Zrelák,a,7242,OpenPlay,2018,RightFoot,10437,Schalke 04,Nuernberg,5,2,2018-11-24 17:30:00,,Rebound
+256967,87,SavedShot,0.960999984741211,0.345,0.2667370140552521,Adam Zrelák,h,7242,SetPiece,2018,RightFoot,10453,Nuernberg,Bayer Leverkusen,1,1,2018-12-03 19:30:00,Hanno Behrens,HeadPass
+257231,4,MissedShots,0.88,0.5129999923706055,0.07572349905967712,Adam Zrelák,h,7242,OpenPlay,2018,LeftFoot,10471,Nuernberg,Wolfsburg,0,2,2018-12-14 19:30:00,Virgil Misidjan,Cross
+257399,4,SavedShot,0.975999984741211,0.495,0.8788229823112488,Adam Zrelák,a,7242,OpenPlay,2018,Head,10479,Borussia M.Gladbach,Nuernberg,2,0,2018-12-18 17:30:00,,Rebound
+257778,10,BlockedShot,0.909000015258789,0.6880000305175781,0.05198179930448532,Adam Zrelák,h,7242,OpenPlay,2018,LeftFoot,10481,Nuernberg,Freiburg,0,1,2018-12-22 14:30:00,Matheus Pereira,Pass
+257782,23,MissedShots,0.925,0.4809999847412109,0.1297750025987625,Adam Zrelák,h,7242,OpenPlay,2018,RightFoot,10481,Nuernberg,Freiburg,0,1,2018-12-22 14:30:00,Federico Palacios,Pass
+257787,37,SavedShot,0.9159999847412109,0.61,0.33924999833106995,Adam Zrelák,h,7242,OpenPlay,2018,LeftFoot,10481,Nuernberg,Freiburg,0,1,2018-12-22 14:30:00,Matheus Pereira,Pass
+278638,70,MissedShots,0.9130000305175782,0.4779999923706055,0.038027599453926086,Adam Zrelák,a,7242,FromCorner,2018,Head,10505,Mainz 05,Nuernberg,2,1,2019-01-26 14:30:00,Enrico Valentini,Aerial
+278851,24,MissedShots,0.9009999847412109,0.5279999923706055,0.06658809632062912,Adam Zrelák,h,7242,FromCorner,2018,Head,10514,Nuernberg,Werder Bremen,1,1,2019-02-02 14:30:00,Enrico Valentini,Cross
+279037,19,MissedShots,0.9319999694824219,0.6040000152587891,0.08568090200424194,Adam Zrelák,a,7242,OpenPlay,2018,LeftFoot,10522,Hannover 96,Nuernberg,2,0,2019-02-09 14:30:00,Tim Leibold,Cross
+279042,30,MissedShots,0.899000015258789,0.5540000152587891,0.05030069872736931,Adam Zrelák,a,7242,OpenPlay,2018,Head,10522,Hannover 96,Nuernberg,2,0,2019-02-09 14:30:00,Tim Leibold,Pass
+279057,74,BlockedShot,0.855,0.6969999694824218,0.037723101675510406,Adam Zrelák,a,7242,OpenPlay,2018,RightFoot,10522,Hannover 96,Nuernberg,2,0,2019-02-09 14:30:00,Matheus Pereira,Pass
+279488,6,MissedShots,0.92,0.6,0.0416703000664711,Adam Zrelák,a,7242,FromCorner,2018,Head,10543,Fortuna Duesseldorf,Nuernberg,2,1,2019-02-23 17:30:00,Tim Leibold,Cross

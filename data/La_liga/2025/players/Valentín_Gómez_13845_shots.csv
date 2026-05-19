@@ -1,0 +1,12 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+642322,74,SavedShot,0.9130000305175782,0.5270000076293946,0.09425915032625198,Valentín Gómez,a,13845,FromCorner,2025,Head,29191,Levante,Real Betis,2,2,2025-09-14 14:15:00,Giovani Lo Celso,Cross
+642323,79,MissedShots,0.879000015258789,0.41400001525878904,0.044589705765247345,Valentín Gómez,a,13845,FromCorner,2025,LeftFoot,29191,Levante,Real Betis,2,2,2025-09-14 14:15:00,Giovani Lo Celso,Cross
+642822,86,MissedShots,0.925,0.5940000152587891,0.14145196974277496,Valentín Gómez,h,13845,OpenPlay,2025,RightFoot,29200,Real Betis,Real Sociedad,3,1,2025-09-19 19:00:00,Rodrigo Riquelme,Pass
+647015,37,MissedShots,0.9080000305175782,0.5129999923706055,0.09276296943426132,Valentín Gómez,a,13845,OpenPlay,2025,Head,29234,Espanyol,Real Betis,1,2,2025-10-05 16:30:00,Pablo Fornals,Cross
+647806,50,SavedShot,0.9109999847412109,0.505,0.056297417730093,Valentín Gómez,a,13845,SetPiece,2025,Head,29245,Villarreal,Real Betis,2,2,2025-10-18 16:30:00,Antony,Aerial
+654250,12,MissedShots,0.9130000305175782,0.455,0.05022542551159859,Valentín Gómez,h,13845,SetPiece,2025,Head,29279,Real Betis,Girona,1,1,2025-11-23 15:15:00,Giovani Lo Celso,Aerial
+654257,29,MissedShots,0.894000015258789,0.5329999923706055,0.01911799982190132,Valentín Gómez,h,13845,FromCorner,2025,Head,29279,Real Betis,Girona,1,1,2025-11-23 15:15:00,Pablo Fornals,Aerial
+654275,74,Goal,0.935,0.514000015258789,0.4071170687675476,Valentín Gómez,h,13845,FromCorner,2025,Head,29279,Real Betis,Girona,1,1,2025-11-23 15:15:00,Isco,Cross
+665600,51,MissedShots,0.7380000305175781,0.7140000152587891,0.008055666461586952,Valentín Gómez,a,13845,OpenPlay,2025,LeftFoot,29359,Alaves,Real Betis,2,1,2026-01-25 20:00:00,,None
+676763,91,SavedShot,0.8969999694824219,0.66,0.02432805299758911,Valentín Gómez,h,13845,OpenPlay,2025,Head,29450,Real Betis,Espanyol,0,0,2026-04-04 16:30:00,Sofyan Amrabat,Chipped
+684863,56,BlockedShot,0.9540000152587891,0.610999984741211,0.015389863401651382,Valentín Gómez,h,13845,FromCorner,2025,Head,29509,Real Betis,Elche,2,1,2026-05-12 18:00:00,Giovani Lo Celso,Aerial

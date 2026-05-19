@@ -1,0 +1,40 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+25457,50,Goal,0.91,0.500999984741211,0.03580690175294876,Roman Neustädter,a,346,FromCorner,2014,Head,5431,Werder Bremen,Schalke 04,0,3,2014-09-23 19:00:00,Christian Fuchs,Aerial
+26005,62,SavedShot,0.965999984741211,0.6609999847412109,0.01694599911570549,Roman Neustädter,h,346,SetPiece,2014,Head,5398,Schalke 04,Hertha Berlin,2,0,2014-10-18 17:30:00,Kaan Ayhan,Cross
+26513,74,MissedShots,0.914000015258789,0.4909999847412109,0.09569749981164932,Roman Neustädter,h,346,FromCorner,2014,Head,5410,Schalke 04,Augsburg,1,0,2014-10-31 19:30:00,Christian Clemens,Cross
+27409,40,MissedShots,0.91,0.47900001525878905,0.03351010009646416,Roman Neustädter,a,346,FromCorner,2014,Head,5315,VfB Stuttgart,Schalke 04,0,4,2014-12-06 14:30:00,Tranquillo Barnetta,Aerial
+27639,25,MissedShots,0.865,0.40400001525878904,0.04840020090341568,Roman Neustädter,h,346,FromCorner,2014,RightFoot,5325,Schalke 04,FC Cologne,1,2,2014-12-13 14:30:00,Jan Kirchhoff,HeadPass
+27901,62,BlockedShot,0.7759999847412109,0.47299999237060547,0.025525599718093872,Roman Neustädter,a,346,FromCorner,2014,RightFoot,5338,Paderborn,Schalke 04,1,2,2014-12-17 19:00:00,Felipe Santana,Pass
+27907,77,Goal,0.965999984741211,0.595999984741211,0.061896201223134995,Roman Neustädter,a,346,OpenPlay,2014,Head,5338,Paderborn,Schalke 04,1,2,2014-12-17 19:00:00,Christian Fuchs,Pass
+27973,83,ShotOnPost,0.875999984741211,0.45599998474121095,0.07759220153093338,Roman Neustädter,h,346,FromCorner,2014,RightFoot,5342,Schalke 04,Hamburger SV,0,0,2014-12-20 14:30:00,,None
+28930,37,MissedShots,0.8009999847412109,0.4,0.03442750126123428,Roman Neustädter,h,346,OpenPlay,2014,RightFoot,5293,Schalke 04,Werder Bremen,1,1,2015-02-21 14:30:00,Marco Höger,Pass
+28937,59,MissedShots,0.7269999694824218,0.49900001525878906,0.01809529960155487,Roman Neustädter,h,346,OpenPlay,2014,RightFoot,5293,Schalke 04,Werder Bremen,1,1,2015-02-21 14:30:00,Max Meyer,Pass
+28953,93,BlockedShot,0.8030000305175782,0.39799999237060546,0.041026800870895386,Roman Neustädter,h,346,FromCorner,2014,RightFoot,5293,Schalke 04,Werder Bremen,1,1,2015-02-21 14:30:00,,Rebound
+29748,32,MissedShots,0.84,0.5070000076293946,0.08119469881057739,Roman Neustädter,h,346,OpenPlay,2014,RightFoot,5238,Schalke 04,Hoffenheim,3,1,2015-03-07 14:30:00,,Rebound
+30359,6,BlockedShot,0.764000015258789,0.42700000762939455,0.012745900079607964,Roman Neustädter,h,346,OpenPlay,2014,RightFoot,5159,Schalke 04,VfB Stuttgart,3,2,2015-05-02 14:30:00,,Aerial
+29827,77,MissedShots,0.8880000305175781,0.55,0.04118509963154793,Roman Neustädter,a,346,FromCorner,2014,Head,5176,FC Cologne,Schalke 04,2,0,2015-05-10 16:30:00,Jefferson Farfán,Cross
+76331,80,SavedShot,0.850999984741211,0.5509999847412109,0.033041298389434814,Roman Neustädter,h,346,SetPiece,2015,Head,1032,Schalke 04,Darmstadt,1,1,2015-08-22 17:30:00,Johannes Geis,Chipped
+76798,73,MissedShots,0.9480000305175781,0.5820000076293945,0.3259420096874237,Roman Neustädter,h,346,SetPiece,2015,Head,1056,Schalke 04,Mainz 05,2,1,2015-09-13 19:30:00,Johannes Geis,Aerial
+77496,25,MissedShots,0.9230000305175782,0.36,0.01792290061712265,Roman Neustädter,a,346,FromCorner,2015,Head,1081,Hamburger SV,Schalke 04,0,1,2015-09-26 20:30:00,Johannes Geis,Cross
+80061,17,MissedShots,0.9230000305175782,0.39799999237060546,0.014714900404214859,Roman Neustädter,h,346,FromCorner,2015,Head,1182,Schalke 04,Werder Bremen,1,3,2016-01-24 20:30:00,Johannes Geis,Aerial
+80500,8,MissedShots,0.8519999694824218,0.47200000762939454,0.06329669803380966,Roman Neustädter,a,346,FromCorner,2015,RightFoot,1184,Darmstadt,Schalke 04,0,2,2016-01-30 18:30:00,,None
+80525,13,BlockedShot,0.8930000305175781,0.41900001525878905,0.03302140161395073,Roman Neustädter,h,346,FromCorner,2015,Head,1193,Schalke 04,Wolfsburg,3,0,2016-02-06 18:30:00,Johannes Geis,Cross
+80930,35,MissedShots,0.9209999847412109,0.46599998474121096,0.09200509637594223,Roman Neustädter,a,346,SetPiece,2015,Head,1201,Mainz 05,Schalke 04,2,1,2016-02-12 23:30:00,Johannes Geis,Chipped
+81382,7,MissedShots,0.8969999694824219,0.5279999923706055,0.02037760056555271,Roman Neustädter,a,346,FromCorner,2015,Head,1227,Eintracht Frankfurt,Schalke 04,0,0,2016-02-28 22:30:00,Dennis Aogo,Aerial
+81888,27,MissedShots,0.9390000152587891,0.6730000305175782,0.019968699663877487,Roman Neustädter,a,346,SetPiece,2015,LeftFoot,1241,FC Cologne,Schalke 04,1,3,2016-03-05 18:30:00,Johannes Geis,Cross
+82592,52,BlockedShot,0.8969999694824219,0.41900001525878905,0.08160240203142166,Roman Neustädter,a,346,FromCorner,2015,LeftFoot,1267,Ingolstadt,Schalke 04,3,0,2016-04-02 17:30:00,,None
+83528,77,SavedShot,0.884000015258789,0.35200000762939454,0.01168499980121851,Roman Neustädter,h,346,FromCorner,2015,Head,1309,Schalke 04,Augsburg,1,1,2016-05-07 17:30:00,Alessandro Schöpf,Cross
+318368,85,BlockedShot,0.745999984741211,0.43,0.017994699999690056,Roman Neustädter,h,346,OpenPlay,2019,RightFoot,11089,Dinamo Moscow,FC Ufa,0,0,2019-09-16 17:00:00,,None
+326491,47,MissedShots,0.8109999847412109,0.37400001525878906,0.030588099732995033,Roman Neustädter,h,346,OpenPlay,2019,RightFoot,11123,Dinamo Moscow,FC Krasnodar,1,1,2019-10-20 17:00:00,Gregory Morozov,Pass
+326500,72,SavedShot,0.8619999694824219,0.40099998474121096,0.051230400800704956,Roman Neustädter,h,346,OpenPlay,2019,LeftFoot,11123,Dinamo Moscow,FC Krasnodar,1,1,2019-10-20 17:00:00,Oscar Hiljemark,Cross
+326510,90,BlockedShot,0.845999984741211,0.3579999923706055,0.04539119824767113,Roman Neustädter,h,346,OpenPlay,2019,RightFoot,11123,Dinamo Moscow,FC Krasnodar,1,1,2019-10-20 17:00:00,Oscar Hiljemark,Pass
+362673,47,BlockedShot,0.8519999694824218,0.500999984741211,0.07972010225057602,Roman Neustädter,a,346,SetPiece,2019,RightFoot,11195,FK Akhmat,Dinamo Moscow,2,3,2020-03-13 16:30:00,Nikolay Komlichenko,Pass
+367181,66,BlockedShot,0.895,0.56,0.07793059945106506,Roman Neustädter,h,346,FromCorner,2019,RightFoot,11210,Dinamo Moscow,CSKA Moscow,0,0,2020-06-27 16:00:00,Vladimir Rykov,HeadPass
+368538,52,SavedShot,0.9359999847412109,0.34200000762939453,0.010654300451278687,Roman Neustädter,h,346,FromCorner,2019,Head,11225,Dinamo Moscow,Arsenal Tula,0,1,2020-07-04 13:30:00,Maximilian Philipp,Cross
+371813,39,MissedShots,0.955999984741211,0.485,0.48250898718833923,Roman Neustädter,a,346,FromCorner,2019,Head,11253,FC Ufa,Dinamo Moscow,0,1,2020-07-16 15:00:00,Kirill Panchenko,Cross
+382565,84,BlockedShot,0.919000015258789,0.3559999847412109,0.04031579941511154,Roman Neustädter,a,346,FromCorner,2020,RightFoot,14305,CSKA Moscow,Dinamo Moscow,3,1,2020-10-18 13:30:00,Sebastian Szymanski,Cross
+382566,85,BlockedShot,0.9359999847412109,0.57,0.0806301012635231,Roman Neustädter,a,346,FromCorner,2020,Head,14305,CSKA Moscow,Dinamo Moscow,3,1,2020-10-18 13:30:00,Sebastian Szymanski,Cross
+387443,3,SavedShot,0.9209999847412109,0.5720000076293945,0.05285070091485977,Roman Neustädter,a,346,OpenPlay,2020,Head,14341,Spartak Moscow,Dinamo Moscow,1,1,2020-11-21 16:00:00,Ivan Ordets,HeadPass
+407176,63,BlockedShot,0.8880000305175781,0.46,0.06766209751367569,Roman Neustädter,a,346,FromCorner,2020,RightFoot,14379,FK Akhmat,Dinamo Moscow,1,2,2021-02-28 13:30:00,Daniil Lesovoy,OffsideProvoked
+408901,70,BlockedShot,0.9440000152587891,0.34299999237060547,0.011910799890756607,Roman Neustädter,h,346,FromCorner,2020,Head,14391,Dinamo Moscow,FC Tambov,2,0,2021-03-07 13:30:00,Arsen Zakharyan,Aerial
+412713,51,Goal,0.99,0.5459999847412109,0.26035499572753906,Roman Neustädter,h,346,FromCorner,2020,RightFoot,14416,Dinamo Moscow,FC Ufa,4,0,2021-04-03 16:00:00,,Rebound

@@ -1,0 +1,11 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+591053,71,MissedShots,0.9080000305175782,0.725999984741211,0.04228908196091652,Max Geschwill,h,9242,FromCorner,2024,LeftFoot,27766,Holstein Kiel,Bayern Munich,1,6,2024-09-14 16:30:00,Carl Johansson,Pass
+595332,49,Goal,0.965999984741211,0.545,0.5819050073623657,Max Geschwill,a,9242,FromCorner,2024,OtherBodyPart,27794,Bayer Leverkusen,Holstein Kiel,2,2,2024-10-05 13:30:00,Lewis Holtby,Cross
+595341,73,MissedShots,0.9719999694824218,0.5479999923706055,0.09043610095977783,Max Geschwill,a,9242,FromCorner,2024,Head,27794,Bayer Leverkusen,Holstein Kiel,2,2,2024-10-05 13:30:00,Jann-Fiete Arp,Aerial
+601360,45,MissedShots,0.9180000305175782,0.5259999847412109,0.0978364571928978,Max Geschwill,a,9242,FromCorner,2024,Head,27826,Werder Bremen,Holstein Kiel,2,1,2024-11-09 14:30:00,Tymoteusz Puchacz,Cross
+601361,45,MissedShots,0.885,0.5770000076293945,0.028553860262036324,Max Geschwill,a,9242,FromCorner,2024,Head,27826,Werder Bremen,Holstein Kiel,2,1,2024-11-09 14:30:00,Phil Harres,Cross
+601372,86,BlockedShot,0.870999984741211,0.6830000305175781,0.04811765253543854,Max Geschwill,a,9242,SetPiece,2024,RightFoot,27826,Werder Bremen,Holstein Kiel,2,1,2024-11-09 14:30:00,Lewis Holtby,Chipped
+607045,80,MissedShots,0.6909999847412109,0.735,0.006254386156797409,Max Geschwill,a,9242,OpenPlay,2024,RightFoot,27865,Borussia M.Gladbach,Holstein Kiel,4,1,2024-12-14 14:30:00,,None
+618326,92,SavedShot,0.9069999694824219,0.705,0.046284269541502,Max Geschwill,h,9242,FromCorner,2024,LeftFoot,27948,Holstein Kiel,Bayer Leverkusen,0,2,2025-02-22 14:30:00,Lewis Holtby,Pass
+620492,16,BlockedShot,0.9459999847412109,0.4779999923706055,0.10657878965139389,Max Geschwill,a,9242,OpenPlay,2024,RightFoot,27955,Union Berlin,Holstein Kiel,0,1,2025-03-02 14:30:00,Lasse Rosenboom,HeadPass
+627019,91,OwnGoal,0.01899999976158142,0.504000015258789,0,Max Geschwill,h,9242,OpenPlay,2024,OtherBodyPart,28002,Holstein Kiel,St. Pauli,1,2,2025-04-12 13:30:00,,Clearance

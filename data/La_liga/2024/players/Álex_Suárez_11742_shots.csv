@@ -1,0 +1,17 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+534311,37,BlockedShot,0.95,0.5729999923706055,0.11142641305923462,Álex Suárez,h,11742,FromCorner,2023,Head,22705,Las Palmas,Real Sociedad,0,0,2023-08-25 17:30:00,Jonathan Viera,Cross
+558869,21,SavedShot,0.7609999847412109,0.515,0.02369524911046028,Álex Suárez,a,11742,OpenPlay,2023,RightFoot,22894,Rayo Vallecano,Las Palmas,0,2,2024-01-20 13:00:00,Kirian Rodríguez,Pass
+562787,88,Goal,0.925,0.46,0.33940157294273376,Álex Suárez,h,11742,FromCorner,2023,Head,22918,Las Palmas,Valencia,2,0,2024-02-10 20:00:00,Marc Cardona,Cross
+565856,57,SavedShot,0.955,0.47200000762939454,0.577409565448761,Álex Suárez,h,11742,FromCorner,2023,RightFoot,22942,Las Palmas,Osasuna,1,1,2024-02-25 17:30:00,,None
+571037,2,BlockedShot,0.8919999694824219,0.3970000076293945,0.02222856879234314,Álex Suárez,a,11742,FromCorner,2023,Head,22976,Barcelona,Las Palmas,1,0,2024-03-30 20:00:00,Javi Muñoz,CornerAwarded
+578195,32,OwnGoal,0.022999999523162843,0.5029999923706054,0,Álex Suárez,a,11742,OpenPlay,2023,LeftFoot,23023,Real Sociedad,Las Palmas,2,0,2024-05-04 12:00:00,,Clearance
+581312,26,SavedShot,0.94,0.5170000076293946,0.5127829313278198,Álex Suárez,h,11742,SetPiece,2023,RightFoot,23040,Las Palmas,Real Betis,2,2,2024-05-16 17:30:00,Alberto Moleiro,Chipped
+581313,26,Goal,0.955999984741211,0.4759999847412109,0.6559435725212097,Álex Suárez,h,11742,SetPiece,2023,RightFoot,23040,Las Palmas,Real Betis,2,2,2024-05-16 17:30:00,,Rebound
+584659,24,OwnGoal,0.030999999046325683,0.41900001525878905,0,Álex Suárez,h,11742,OpenPlay,2024,RightFoot,26985,Las Palmas,Sevilla,2,2,2024-08-16 19:30:00,,Challenge
+595043,5,SavedShot,0.9230000305175782,0.62,0.04617621377110481,Álex Suárez,a,11742,SetPiece,2024,Head,27058,Villarreal,Las Palmas,3,1,2024-09-30 19:00:00,Adnan Januzaj,Cross
+616194,67,BlockedShot,0.8569999694824219,0.5020000076293946,0.06733742356300354,Álex Suárez,h,11742,SetPiece,2024,RightFoot,27203,Las Palmas,Villarreal,1,2,2025-02-08 17:30:00,,None
+622343,16,SavedShot,0.889000015258789,0.3970000076293945,0.030762316659092903,Álex Suárez,h,11742,OpenPlay,2024,Head,27260,Las Palmas,Alaves,2,2,2025-03-14 20:00:00,Alberto Moleiro,Cross
+628910,21,SavedShot,0.9390000152587891,0.48700000762939455,0.08714016526937485,Álex Suárez,h,11742,FromCorner,2024,Head,27295,Las Palmas,Atletico Madrid,1,0,2025-04-19 19:00:00,Scott McKenna,HeadPass
+631632,74,OwnGoal,0.025999999046325682,0.44299999237060544,0,Álex Suárez,h,11742,OpenPlay,2024,RightFoot,27313,Las Palmas,Valencia,2,3,2025-05-03 16:30:00,,BallTouch
+631641,96,BlockedShot,0.9,0.5579999923706055,0.07684648036956787,Álex Suárez,h,11742,OpenPlay,2024,LeftFoot,27313,Las Palmas,Valencia,2,3,2025-05-03 16:30:00,,None
+633989,33,MissedShots,0.7140000152587891,0.505,0.0151860062032938,Álex Suárez,a,11742,OpenPlay,2024,RightFoot,27340,Sevilla,Las Palmas,1,0,2025-05-13 19:30:00,Stefan Bajcetic,BallTouch

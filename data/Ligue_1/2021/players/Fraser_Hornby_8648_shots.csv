@@ -1,0 +1,19 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+376179,86,MissedShots,0.8819999694824219,0.47,0.1596679985523224,Fraser Hornby,h,8648,OpenPlay,2020,Head,13993,Reims,Lille,0,1,2020-08-30 11:00:00,Ghislain Konan,Cross
+376832,83,SavedShot,0.91,0.46099998474121096,0.03966740146279335,Fraser Hornby,a,8648,OpenPlay,2020,Head,14197,Angers,Reims,1,0,2020-09-13 13:00:00,Thomas Foket,Aerial
+453558,93,MissedShots,0.9290000152587891,0.7319999694824219,0.03868890181183815,Fraser Hornby,h,8648,OpenPlay,2021,LeftFoot,18027,Reims,Metz,0,1,2022-01-16 14:00:00,Anastasios Donis,BallRecovery
+460178,45,SavedShot,0.8830000305175781,0.5779999923706055,0.08387839794158936,Fraser Hornby,a,8648,OpenPlay,2021,RightFoot,18074,Monaco,Reims,1,2,2022-02-27 12:00:00,Marshall Munetsi,Chipped
+460179,47,ShotOnPost,0.8480000305175781,0.5629999923706055,0.08770640194416046,Fraser Hornby,a,8648,OpenPlay,2021,RightFoot,18074,Monaco,Reims,1,2,2022-02-27 12:00:00,Ghislain Konan,Pass
+464644,46,SavedShot,0.95,0.475,0.1188649982213974,Fraser Hornby,h,8648,OpenPlay,2021,Head,18110,Reims,Lyon,0,0,2022-03-20 16:05:00,Thomas Foket,Aerial
+465810,13,MissedShots,0.8819999694824219,0.4640000152587891,0.024067800492048264,Fraser Hornby,a,8648,OpenPlay,2021,Head,18121,Troyes,Reims,1,0,2022-04-03 13:00:00,Maxime Busi,Aerial
+465812,27,MissedShots,0.9230000305175782,0.625999984741211,0.030393699184060097,Fraser Hornby,a,8648,OpenPlay,2021,Head,18121,Troyes,Reims,1,0,2022-04-03 13:00:00,Alexis Flips,Cross
+533820,6,BlockedShot,0.86,0.7630000305175781,0.022760329768061638,Fraser Hornby,a,8648,OpenPlay,2023,RightFoot,23073,Eintracht Frankfurt,Darmstadt,1,0,2023-08-20 15:30:00,,None
+533824,32,BlockedShot,0.874000015258789,0.3659999847412109,0.0762108564376831,Fraser Hornby,a,8648,OpenPlay,2023,RightFoot,23073,Eintracht Frankfurt,Darmstadt,1,0,2023-08-20 15:30:00,Emir Karic,Pass
+534507,75,MissedShots,0.9259999847412109,0.5020000076293946,0.3582170903682709,Fraser Hornby,h,8648,OpenPlay,2023,Head,23079,Darmstadt,Union Berlin,1,4,2023-08-26 13:30:00,Matthias Bader,Cross
+534509,81,MissedShots,0.9,0.47099998474121096,0.0748915895819664,Fraser Hornby,h,8648,FromCorner,2023,Head,23079,Darmstadt,Union Berlin,1,4,2023-08-26 13:30:00,Fabian Nürnberger,Cross
+534510,86,MissedShots,0.92,0.575999984741211,0.10223066061735153,Fraser Hornby,h,8648,OpenPlay,2023,Head,23079,Darmstadt,Union Berlin,1,4,2023-08-26 13:30:00,Tobias Kempe,Cross
+534512,90,SavedShot,0.91,0.4929999923706055,0.06266993284225464,Fraser Hornby,h,8648,OpenPlay,2023,Head,23079,Darmstadt,Union Berlin,1,4,2023-08-26 13:30:00,,None
+534514,92,MissedShots,0.9019999694824219,0.504000015258789,0.054422348737716675,Fraser Hornby,h,8648,OpenPlay,2023,Head,23079,Darmstadt,Union Berlin,1,4,2023-08-26 13:30:00,Fabian Nürnberger,Aerial
+534515,93,MissedShots,0.909000015258789,0.49700000762939456,0.12388300895690918,Fraser Hornby,h,8648,OpenPlay,2023,Head,23079,Darmstadt,Union Berlin,1,4,2023-08-26 13:30:00,Matthias Bader,Cross
+542529,80,BlockedShot,0.9669999694824218,0.715,0.13064727187156677,Fraser Hornby,a,8648,OpenPlay,2023,LeftFoot,23122,Augsburg,Darmstadt,1,2,2023-10-07 13:30:00,Matej Maglica,Chipped
+548286,87,SavedShot,0.8469999694824218,0.5329999923706055,0.07120077311992645,Fraser Hornby,h,8648,OpenPlay,2023,LeftFoot,23163,Darmstadt,Mainz 05,0,0,2023-11-11 14:30:00,Aaron Seydel,HeadPass

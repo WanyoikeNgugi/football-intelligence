@@ -1,0 +1,25 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+393254,45,MissedShots,0.860999984741211,0.6509999847412109,0.0575219988822937,Riccardo Marchizza,h,1601,OpenPlay,2020,LeftFoot,15543,Spezia,Bologna,2,2,2020-12-16 19:45:00,,Rebound
+399060,64,MissedShots,0.860999984741211,0.5790000152587891,0.09953539818525314,Riccardo Marchizza,a,1601,OpenPlay,2020,LeftFoot,15605,Torino,Spezia,0,0,2021-01-16 17:00:00,Tommaso Pobega,Pass
+407692,6,MissedShots,0.9290000152587891,0.649000015258789,0.09293899685144424,Riccardo Marchizza,a,1601,OpenPlay,2020,RightFoot,15670,Juventus,Spezia,3,0,2021-03-02 19:45:00,Diego Farias,Pass
+407697,29,BlockedShot,0.85,0.6990000152587891,0.038533300161361694,Riccardo Marchizza,a,1601,OpenPlay,2020,LeftFoot,15670,Juventus,Spezia,3,0,2021-03-02 19:45:00,Nahuel Estévez,Pass
+407716,79,BlockedShot,0.8430000305175781,0.5779999923706055,0.08051159977912903,Riccardo Marchizza,a,1601,OpenPlay,2020,LeftFoot,15670,Juventus,Spezia,3,0,2021-03-02 19:45:00,Daniele Verde,Pass
+409585,57,MissedShots,0.8719999694824219,0.620999984741211,0.06004060059785843,Riccardo Marchizza,a,1601,SetPiece,2020,LeftFoot,15693,Atalanta,Spezia,3,1,2021-03-12 19:45:00,,None
+418545,57,BlockedShot,0.7530000305175781,0.575,0.020323999226093292,Riccardo Marchizza,a,1601,OpenPlay,2020,LeftFoot,15765,Verona,Spezia,1,1,2021-05-01 13:00:00,,None
+427394,50,MissedShots,0.845,0.6780000305175782,0.0489668995141983,Riccardo Marchizza,h,1601,OpenPlay,2021,LeftFoot,16759,Empoli,Lazio,1,3,2021-08-21 18:45:00,Nedim Bajrami,Pass
+427406,92,MissedShots,0.8580000305175781,0.555,0.06301770359277725,Riccardo Marchizza,h,1601,FromCorner,2021,LeftFoot,16759,Empoli,Lazio,1,3,2021-08-21 18:45:00,,None
+429622,30,BlockedShot,0.7719999694824219,0.24600000381469728,0.04228759929537773,Riccardo Marchizza,h,1601,DirectFreekick,2021,LeftFoot,16779,Empoli,Venezia,1,2,2021-09-11 13:00:00,,Standard
+429633,70,MissedShots,0.9630000305175781,0.580999984741211,0.09500669687986374,Riccardo Marchizza,h,1601,FromCorner,2021,Head,16779,Empoli,Venezia,1,2,2021-09-11 13:00:00,Nedim Bajrami,Cross
+432729,67,MissedShots,0.7809999847412109,0.6370000076293946,0.01863880082964897,Riccardo Marchizza,a,1601,FromCorner,2021,LeftFoot,16798,Cagliari,Empoli,0,2,2021-09-22 18:45:00,,None
+443873,75,BlockedShot,0.7469999694824219,0.6,0.018027300015091896,Riccardo Marchizza,h,1601,OpenPlay,2021,LeftFoot,16887,Empoli,Fiorentina,2,1,2021-11-27 14:00:00,Andrea La Mantia,Pass
+449714,43,SavedShot,0.784000015258789,0.34299999237060547,0.02182609960436821,Riccardo Marchizza,a,1601,SetPiece,2021,LeftFoot,16934,Spezia,Empoli,1,1,2021-12-19 14:00:00,Liam Henderson,Pass
+449716,49,OwnGoal,0.04199999809265137,0.5359999847412109,0,Riccardo Marchizza,a,1601,OpenPlay,2021,RightFoot,16934,Spezia,Empoli,1,1,2021-12-19 14:00:00,,Challenge
+451764,83,BlockedShot,0.8080000305175781,0.710999984741211,0.02411779947578907,Riccardo Marchizza,a,1601,OpenPlay,2021,LeftFoot,16950,Lazio,Empoli,3,3,2022-01-06 13:30:00,Federico Di Francesco,Pass
+538133,47,MissedShots,0.7390000152587891,0.715999984741211,0.01402139663696289,Riccardo Marchizza,h,1601,OpenPlay,2023,LeftFoot,22339,Frosinone,Sassuolo,4,2,2023-09-17 13:00:00,Matìas Soulè Malvano,Pass
+540510,8,BlockedShot,0.7730000305175782,0.7330000305175781,0.014188367873430252,Riccardo Marchizza,h,1601,OpenPlay,2023,LeftFoot,22364,Frosinone,Fiorentina,1,1,2023-09-28 16:30:00,Anthony Oyono,Pass
+544543,84,MissedShots,0.8669999694824219,0.5159999847412109,0.04812897369265556,Riccardo Marchizza,a,1601,FromCorner,2023,RightFoot,22386,Bologna,Frosinone,2,1,2023-10-22 13:00:00,Jaime Báez,Cross
+544546,94,MissedShots,0.8909999847412109,0.4229999923706055,0.0721437856554985,Riccardo Marchizza,a,1601,OpenPlay,2023,LeftFoot,22386,Bologna,Frosinone,2,1,2023-10-22 13:00:00,,None
+547843,60,BlockedShot,0.745,0.524000015258789,0.03708287701010704,Riccardo Marchizza,h,1601,OpenPlay,2023,LeftFoot,22411,Frosinone,Empoli,2,1,2023-11-06 17:30:00,Enzo Barrenechea,HeadPass
+549285,63,SavedShot,0.715,0.6980000305175781,0.009816865436732769,Riccardo Marchizza,a,1601,OpenPlay,2023,LeftFoot,22424,Inter,Frosinone,2,0,2023-11-12 20:45:00,Marco Brescianini,Pass
+550237,10,SavedShot,0.7269999694824218,0.47400001525878904,0.01741441898047924,Riccardo Marchizza,h,1601,OpenPlay,2023,LeftFoot,22428,Frosinone,Genoa,2,1,2023-11-26 14:00:00,Enzo Barrenechea,Pass
+550252,67,SavedShot,0.8809999847412109,0.720999984741211,0.0397350937128067,Riccardo Marchizza,h,1601,OpenPlay,2023,LeftFoot,22428,Frosinone,Genoa,2,1,2023-11-26 14:00:00,Giuseppe Caso,Pass

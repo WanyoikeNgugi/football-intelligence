@@ -1,0 +1,13 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+49107,14,BlockedShot,0.6669999694824219,0.5940000152587891,0.00760000990703702,Andrea Lazzari,h,2027,OpenPlay,2014,LeftFoot,4860,Fiorentina,Verona,0,1,2015-04-20 19:45:00,Alberto Aquilani,LayOff
+49124,61,MissedShots,0.8469999694824218,0.545,0.06705459952354431,Andrea Lazzari,h,2027,OpenPlay,2014,RightFoot,4860,Fiorentina,Verona,0,1,2015-04-20 19:45:00,,None
+93286,11,MissedShots,0.7730000305175782,0.3770000076293945,0.026026999577879906,Andrea Lazzari,a,2027,OpenPlay,2015,LeftFoot,555,Sampdoria,Carpi,5,2,2015-08-23 22:45:00,Kevin Lasagna,Pass
+93295,37,Goal,0.8419999694824218,0.4929999923706055,0.04694579914212227,Andrea Lazzari,a,2027,OpenPlay,2015,LeftFoot,555,Sampdoria,Carpi,5,2,2015-08-23 22:45:00,Gabriel Silva,Chipped
+93297,38,MissedShots,0.9319999694824219,0.4759999847412109,0.39379599690437317,Andrea Lazzari,a,2027,OpenPlay,2015,Head,555,Sampdoria,Carpi,5,2,2015-08-23 22:45:00,Filippo Porcari,Cross
+93299,54,MissedShots,0.7859999847412109,0.7530000305175781,0.01685269922018051,Andrea Lazzari,a,2027,OpenPlay,2015,LeftFoot,555,Sampdoria,Carpi,5,2,2015-08-23 22:45:00,Riccardo Gagliolo,Pass
+93307,71,SavedShot,0.7980000305175782,0.3940000152587891,0.10085300356149673,Andrea Lazzari,a,2027,DirectFreekick,2015,LeftFoot,555,Sampdoria,Carpi,5,2,2015-08-23 22:45:00,,Standard
+93315,85,MissedShots,0.7780000305175782,0.5670000076293945,0.0213834997266531,Andrea Lazzari,a,2027,FromCorner,2015,LeftFoot,555,Sampdoria,Carpi,5,2,2015-08-23 22:45:00,,None
+93319,92,SavedShot,0.885,0.5,0.7612990140914917,Andrea Lazzari,a,2027,Penalty,2015,LeftFoot,555,Sampdoria,Carpi,5,2,2015-08-23 22:45:00,,Standard
+96005,85,BlockedShot,0.7290000152587891,0.61,0.013872199691832066,Andrea Lazzari,a,2027,OpenPlay,2015,LeftFoot,601,Roma,Carpi,5,1,2015-09-26 20:00:00,Raffaele Bianco,Pass
+96763,78,BlockedShot,0.795,0.695,0.06615780293941498,Andrea Lazzari,a,2027,DirectFreekick,2015,LeftFoot,628,Atalanta,Carpi,3,0,2015-10-18 17:00:00,,Standard
+96764,84,SavedShot,0.7580000305175781,0.6309999847412109,0.016745800152420998,Andrea Lazzari,a,2027,OpenPlay,2015,LeftFoot,628,Atalanta,Carpi,3,0,2015-10-18 17:00:00,Kevin Lasagna,Pass

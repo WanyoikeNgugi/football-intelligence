@@ -1,0 +1,15 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+310683,26,BlockedShot,0.775,0.5540000152587891,0.02847909927368164,Mohamed Dräger,a,6476,OpenPlay,2019,LeftFoot,12407,Bayer Leverkusen,Paderborn,3,2,2019-08-17 14:30:00,,None
+312337,25,MissedShots,0.7390000152587891,0.265,0.01700039952993393,Mohamed Dräger,h,6476,OpenPlay,2019,RightFoot,12413,Paderborn,Freiburg,1,3,2019-08-24 14:30:00,Cauly Oliveira Souza,Pass
+312340,32,MissedShots,0.745,0.47,0.013723799958825111,Mohamed Dräger,h,6476,FromCorner,2019,RightFoot,12413,Paderborn,Freiburg,1,3,2019-08-24 14:30:00,,Aerial
+318168,20,MissedShots,0.8930000305175781,0.23899999618530274,0.037424299865961075,Mohamed Dräger,h,6476,OpenPlay,2019,RightFoot,12438,Paderborn,Schalke 04,1,5,2019-09-15 16:00:00,Cauly Oliveira Souza,Pass
+320339,4,MissedShots,0.8190000152587891,0.24600000381469728,0.023232299834489822,Mohamed Dräger,a,6476,OpenPlay,2019,RightFoot,12440,Hertha Berlin,Paderborn,2,1,2019-09-21 13:30:00,Ben Zolinski,LayOff
+320346,37,BlockedShot,0.8059999847412109,0.35900001525878905,0.03621840104460716,Mohamed Dräger,a,6476,OpenPlay,2019,LeftFoot,12440,Hertha Berlin,Paderborn,2,1,2019-09-21 13:30:00,Uwe Hünemeier,Pass
+324066,86,SavedShot,0.894000015258789,0.40099998474121096,0.012853500433266163,Mohamed Dräger,h,6476,FromCorner,2019,Head,12458,Paderborn,Mainz 05,1,2,2019-10-05 14:30:00,Kai Pröger,Aerial
+327121,55,BlockedShot,0.7140000152587891,0.43,0.012505600228905678,Mohamed Dräger,h,6476,SetPiece,2019,RightFoot,12477,Paderborn,Fortuna Duesseldorf,2,0,2019-10-26 14:30:00,Abdelhamid Sabiri,BallTouch
+363149,39,MissedShots,0.7440000152587891,0.40299999237060546,0.012423899956047535,Mohamed Dräger,h,6476,SetPiece,2019,RightFoot,12637,Paderborn,Hoffenheim,1,1,2020-05-23 13:30:00,,None
+363157,63,MissedShots,0.735,0.345,0.01759210042655468,Mohamed Dräger,h,6476,OpenPlay,2019,RightFoot,12637,Paderborn,Hoffenheim,1,1,2020-05-23 13:30:00,Christopher Antwi-Adjei,Pass
+363751,69,BlockedShot,0.9069999694824219,0.3220000076293945,0.030105799436569214,Mohamed Dräger,h,6476,OpenPlay,2019,RightFoot,12663,Paderborn,Borussia Dortmund,1,6,2020-05-31 16:00:00,Sven Michel,Chipped
+364642,37,MissedShots,0.9230000305175782,0.34299999237060547,0.05578560009598732,Mohamed Dräger,a,6476,OpenPlay,2019,RightFoot,12690,Union Berlin,Paderborn,1,0,2020-06-16 18:30:00,Jamilu Collins,Chipped
+366937,29,MissedShots,0.860999984741211,0.36,0.047918401658535004,Mohamed Dräger,a,6476,OpenPlay,2019,RightFoot,12704,Eintracht Frankfurt,Paderborn,3,2,2020-06-27 13:30:00,Sven Michel,Chipped
+366947,54,Goal,0.955,0.4179999923706055,0.41716599464416504,Mohamed Dräger,a,6476,OpenPlay,2019,RightFoot,12704,Eintracht Frankfurt,Paderborn,3,2,2020-06-27 13:30:00,Marlon Ritter,Pass

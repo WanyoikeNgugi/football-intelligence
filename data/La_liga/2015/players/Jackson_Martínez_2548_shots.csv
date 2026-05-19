@@ -1,0 +1,27 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+84286,82,MissedShots,0.769000015258789,0.5640000152587891,0.04866420105099678,Jackson Martínez,a,2548,OpenPlay,2015,LeftFoot,1415,Sevilla,Atletico Madrid,0,3,2015-08-30 22:30:00,Saúl Ñíguez,Pass
+84288,84,Goal,0.754000015258789,0.5109999847412109,0.04257410019636154,Jackson Martínez,a,2548,OpenPlay,2015,LeftFoot,1415,Sevilla,Atletico Madrid,0,3,2015-08-30 22:30:00,Antoine Griezmann,LayOff
+84531,83,SavedShot,0.8730000305175781,0.46099998474121096,0.06349959969520569,Jackson Martínez,h,2548,OpenPlay,2015,LeftFoot,1422,Atletico Madrid,Barcelona,1,2,2015-09-12 22:30:00,Antoine Griezmann,Cross
+85439,19,MissedShots,0.8730000305175781,0.2720000076293945,0.029233599081635475,Jackson Martínez,a,2548,OpenPlay,2015,RightFoot,1432,Eibar,Atletico Madrid,0,2,2015-09-19 22:30:00,,Rebound
+85440,19,SavedShot,0.889000015258789,0.39,0.09750880300998688,Jackson Martínez,a,2548,OpenPlay,2015,LeftFoot,1432,Eibar,Atletico Madrid,0,2,2015-09-19 22:30:00,Juanfran,Pass
+85443,26,MissedShots,0.899000015258789,0.620999984741211,0.09733179956674576,Jackson Martínez,a,2548,OpenPlay,2015,LeftFoot,1432,Eibar,Atletico Madrid,0,2,2015-09-19 22:30:00,Antoine Griezmann,Pass
+84979,72,BlockedShot,0.7809999847412109,0.38299999237060545,0.03603589907288551,Jackson Martínez,h,2548,OpenPlay,2015,RightFoot,1440,Atletico Madrid,Getafe,2,0,2015-09-22 22:00:00,Ángel Correa,Pass
+84980,73,MissedShots,0.905,0.46,0.11990000307559967,Jackson Martínez,h,2548,OpenPlay,2015,Head,1440,Atletico Madrid,Getafe,2,0,2015-09-22 22:00:00,Gabi,Cross
+85730,14,SavedShot,0.7319999694824219,0.53,0.020544100552797318,Jackson Martínez,a,2548,OpenPlay,2015,LeftFoot,1453,Villarreal,Atletico Madrid,1,0,2015-09-26 22:30:00,Antoine Griezmann,TakeOn
+85734,37,BlockedShot,0.9069999694824219,0.5309999847412109,0.03914640098810196,Jackson Martínez,a,2548,OpenPlay,2015,Head,1453,Villarreal,Atletico Madrid,1,0,2015-09-26 22:30:00,Saúl Ñíguez,Aerial
+85249,90,SavedShot,0.8130000305175781,0.5359999847412109,0.051532499492168427,Jackson Martínez,h,2548,OpenPlay,2015,RightFoot,1468,Atletico Madrid,Real Madrid,1,1,2015-10-04 22:30:00,,None
+86156,47,MissedShots,0.789000015258789,0.47,0.042682599276304245,Jackson Martínez,a,2548,OpenPlay,2015,LeftFoot,1475,Real Sociedad,Atletico Madrid,0,2,2015-10-18 18:00:00,Giménez,Pass
+86630,31,Goal,0.875999984741211,0.4929999923706055,0.2881700098514557,Jackson Martínez,h,2548,OpenPlay,2015,RightFoot,1487,Atletico Madrid,Valencia,2,1,2015-10-25 23:30:00,Filipe Luis,Pass
+86631,34,SavedShot,0.85,0.4420000076293945,0.36960700154304504,Jackson Martínez,h,2548,OpenPlay,2015,RightFoot,1487,Atletico Madrid,Valencia,2,1,2015-10-25 23:30:00,Antoine Griezmann,Throughball
+86635,49,SavedShot,0.855,0.4540000152587891,0.07997260242700577,Jackson Martínez,h,2548,OpenPlay,2015,LeftFoot,1487,Atletico Madrid,Valencia,2,1,2015-10-25 23:30:00,,Rebound
+85967,12,BlockedShot,0.8959999847412109,0.6,0.09799390286207199,Jackson Martínez,a,2548,OpenPlay,2015,LeftFoot,1489,Deportivo La Coruna,Atletico Madrid,1,1,2015-10-30 23:30:00,Koke,Pass
+85968,23,MissedShots,0.8090000152587891,0.6790000152587891,0.02629769966006279,Jackson Martínez,a,2548,OpenPlay,2015,LeftFoot,1489,Deportivo La Coruna,Atletico Madrid,1,1,2015-10-30 23:30:00,,None
+85972,39,BlockedShot,0.8519999694824218,0.5220000076293946,0.09577690064907074,Jackson Martínez,a,2548,OpenPlay,2015,RightFoot,1489,Deportivo La Coruna,Atletico Madrid,1,1,2015-10-30 23:30:00,Antoine Griezmann,Pass
+86504,74,MissedShots,0.8690000152587891,0.3659999847412109,0.08988060057163239,Jackson Martínez,h,2548,OpenPlay,2015,RightFoot,1507,Atletico Madrid,Sporting Gijon,1,0,2015-11-08 21:15:00,Antoine Griezmann,Pass
+86506,86,BlockedShot,0.8540000152587891,0.534000015258789,0.045058101415634155,Jackson Martínez,h,2548,OpenPlay,2015,RightFoot,1507,Atletico Madrid,Sporting Gijon,1,0,2015-11-08 21:15:00,Filipe Luis,Cross
+87518,77,BlockedShot,0.745,0.26799999237060546,0.015971999615430832,Jackson Martínez,a,2548,OpenPlay,2015,LeftFoot,1560,Rayo Vallecano,Atletico Madrid,0,2,2015-12-30 21:15:00,Juanfran,Pass
+87522,90,BlockedShot,0.8819999694824219,0.649000015258789,0.08142600208520889,Jackson Martínez,a,2548,OpenPlay,2015,LeftFoot,1560,Rayo Vallecano,Atletico Madrid,0,2,2015-12-30 21:15:00,Antoine Griezmann,Pass
+86914,5,SavedShot,0.885,0.6,0.09876880049705505,Jackson Martínez,h,2548,OpenPlay,2015,RightFoot,1569,Atletico Madrid,Levante,1,0,2016-01-02 23:30:00,Ángel Correa,Pass
+86916,8,BlockedShot,0.845999984741211,0.754000015258789,0.02624090015888214,Jackson Martínez,h,2548,OpenPlay,2015,RightFoot,1569,Atletico Madrid,Levante,1,0,2016-01-02 23:30:00,Ángel Correa,Pass
+86923,35,BlockedShot,0.8480000305175781,0.5279999923706055,0.052061498165130615,Jackson Martínez,h,2548,OpenPlay,2015,LeftFoot,1569,Atletico Madrid,Levante,1,0,2016-01-02 23:30:00,Antoine Griezmann,HeadPass
+86924,52,MissedShots,0.875999984741211,0.5459999847412109,0.052136100828647614,Jackson Martínez,h,2548,OpenPlay,2015,Head,1569,Atletico Madrid,Levante,1,0,2016-01-02 23:30:00,Juanfran,Cross

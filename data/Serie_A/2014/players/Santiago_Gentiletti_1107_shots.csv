@@ -1,0 +1,15 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+50125,53,Goal,0.9630000305175781,0.48200000762939454,0.5264620184898376,Santiago Gentiletti,a,1107,FromCorner,2014,RightFoot,4800,Sampdoria,Lazio,0,1,2015-05-16 19:45:00,Cristian Ledesma,Cross
+94645,54,MissedShots,0.879000015258789,0.45299999237060545,0.012837800197303295,Santiago Gentiletti,h,1107,SetPiece,2015,Head,592,Lazio,Genoa,2,0,2015-09-23 22:45:00,Ricardo Kishna,Aerial
+95888,51,BlockedShot,0.9590000152587891,0.39,0.0380081981420517,Santiago Gentiletti,a,1107,FromCorner,2015,Head,604,Verona,Lazio,1,2,2015-09-27 17:00:00,Lucas Biglia,Cross
+96330,10,MissedShots,0.955,0.47200000762939454,0.48348501324653625,Santiago Gentiletti,h,1107,FromCorner,2015,Head,618,Lazio,Frosinone,2,0,2015-10-04 20:00:00,Ricardo Kishna,Cross
+96336,25,MissedShots,0.9069999694824219,0.5129999923706055,0.0762472003698349,Santiago Gentiletti,h,1107,FromCorner,2015,Head,618,Lazio,Frosinone,2,0,2015-10-04 20:00:00,Ricardo Kishna,Cross
+96354,66,BlockedShot,0.874000015258789,0.39799999237060546,0.01407879963517189,Santiago Gentiletti,h,1107,FromCorner,2015,Head,618,Lazio,Frosinone,2,0,2015-10-04 20:00:00,Lucas Biglia,Cross
+99433,41,BlockedShot,0.9130000305175782,0.634000015258789,0.042591698467731476,Santiago Gentiletti,h,1107,FromCorner,2015,LeftFoot,674,Lazio,Palermo,1,1,2015-11-22 18:00:00,Lucas Biglia,Cross
+99437,55,BlockedShot,0.8230000305175781,0.505,0.019182400777935982,Santiago Gentiletti,h,1107,FromCorner,2015,LeftFoot,674,Lazio,Palermo,1,1,2015-11-22 18:00:00,Keita,HeadPass
+100415,6,OwnGoal,0.035999999046325684,0.5229999923706055,0,Santiago Gentiletti,h,1107,OpenPlay,2015,RightFoot,691,Lazio,Juventus,0,2,2015-12-04 23:45:00,,Interception
+100852,17,MissedShots,0.9019999694824219,0.5029999923706054,0.06904719769954681,Santiago Gentiletti,h,1107,FromCorner,2015,Head,709,Lazio,Sampdoria,1,1,2015-12-14 23:45:00,Danilo Cataldi,Cross
+101116,52,BlockedShot,0.875999984741211,0.46900001525878904,0.08004239946603775,Santiago Gentiletti,a,1107,FromCorner,2015,LeftFoot,894,Sampdoria,Lazio,2,1,2016-04-24 17:00:00,Ogenyi Onazi,None
+146303,50,ShotOnPost,0.925,0.5529999923706055,0.09099230170249939,Santiago Gentiletti,h,1107,FromCorner,2016,Head,3562,Genoa,Sassuolo,0,1,2017-02-05 14:00:00,Danilo Cataldi,Cross
+146728,16,MissedShots,0.899000015258789,0.4209999847412109,0.014249499887228012,Santiago Gentiletti,a,1107,FromCorner,2016,Head,3572,Napoli,Genoa,2,0,2017-02-10 19:45:00,Miguel Veloso,Aerial
+151118,74,BlockedShot,0.9259999847412109,0.41200000762939454,0.06544499844312668,Santiago Gentiletti,h,1107,FromCorner,2016,RightFoot,3658,Genoa,Lazio,2,2,2017-04-15 14:00:00,Danilo Cataldi,Cross

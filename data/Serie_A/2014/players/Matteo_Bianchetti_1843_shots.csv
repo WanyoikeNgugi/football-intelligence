@@ -1,0 +1,22 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+100388,65,ShotOnPost,0.955999984741211,0.4229999923706055,0.10238700360059738,Matteo Bianchetti,h,1843,FromCorner,2015,RightFoot,698,Verona,Empoli,0,1,2015-12-06 18:00:00,Federico Viviani,Cross
+101439,86,SavedShot,0.9619999694824218,0.615,0.07528369873762131,Matteo Bianchetti,h,1843,SetPiece,2015,RightFoot,714,Verona,Sassuolo,1,1,2015-12-20 18:00:00,Luca Toni,None
+101886,77,MissedShots,0.7269999694824218,0.41900001525878905,0.009567400440573692,Matteo Bianchetti,a,1843,OpenPlay,2015,RightFoot,725,Juventus,Verona,3,0,2016-01-06 18:00:00,,None
+100055,63,Goal,0.9830000305175781,0.47400001525878904,0.7590619921684265,Matteo Bianchetti,h,1843,FromCorner,2015,RightFoot,878,Verona,Frosinone,1,2,2016-04-17 17:00:00,Giampaolo Pazzini,HeadPass
+100601,5,MissedShots,0.924000015258789,0.4470000076293945,0.08732280135154724,Matteo Bianchetti,a,1843,FromCorner,2015,Head,887,Empoli,Verona,1,0,2016-04-20 22:45:00,Federico Viviani,Cross
+100618,57,SavedShot,0.9,0.4329999923706055,0.06880830228328705,Matteo Bianchetti,a,1843,SetPiece,2015,Head,887,Empoli,Verona,1,0,2016-04-20 22:45:00,Federico Viviani,Cross
+101146,46,SavedShot,0.9069999694824219,0.46700000762939453,0.04626329988241196,Matteo Bianchetti,h,1843,FromCorner,2015,Head,899,Verona,AC Milan,2,1,2016-04-25 19:00:00,Artur Ionita,HeadPass
+481131,67,Goal,0.9930000305175781,0.524000015258789,0.9591460227966309,Matteo Bianchetti,a,1843,FromCorner,2022,LeftFoot,18587,Fiorentina,Cremonese,3,2,2022-08-14 16:30:00,,None
+483867,19,SavedShot,0.8230000305175781,0.3609999847412109,0.032880399376153946,Matteo Bianchetti,h,1843,SetPiece,2022,RightFoot,18605,Cremonese,Torino,1,2,2022-08-27 16:30:00,,None
+483886,71,MissedShots,0.87,0.549000015258789,0.023100700229406357,Matteo Bianchetti,h,1843,FromCorner,2022,Head,18605,Cremonese,Torino,1,2,2022-08-27 16:30:00,Cristian Buonaiuto,Cross
+489172,55,MissedShots,0.905,0.5520000076293945,0.041172198951244354,Matteo Bianchetti,h,1843,FromCorner,2022,Head,18643,Cremonese,Lazio,0,4,2022-09-18 13:00:00,,None
+489182,75,SavedShot,0.919000015258789,0.41,0.05030209943652153,Matteo Bianchetti,h,1843,OpenPlay,2022,Head,18643,Cremonese,Lazio,0,4,2022-09-18 13:00:00,Leonardo Sernicola,Cross
+503498,79,SavedShot,0.9259999847412109,0.5129999923706055,0.057130999863147736,Matteo Bianchetti,h,1843,FromCorner,2022,Head,18753,Cremonese,Monza,2,3,2023-01-14 14:00:00,,Aerial
+518178,33,MissedShots,0.8969999694824219,0.53,0.06761910021305084,Matteo Bianchetti,a,1843,FromCorner,2022,Head,18869,Sampdoria,Cremonese,2,3,2023-04-08 14:30:00,Giacomo Quagliata,Cross
+644542,66,MissedShots,0.914000015258789,0.4490000152587891,0.02565493993461132,Matteo Bianchetti,a,1843,FromCorner,2025,Head,29885,Como,Cremonese,1,1,2025-09-27 13:00:00,Franco Vázquez,Aerial
+648498,27,BlockedShot,0.9,0.525,0.061149559915065765,Matteo Bianchetti,h,1843,FromCorner,2025,Head,29908,Cremonese,Udinese,1,1,2025-10-20 18:45:00,Jari Vandeputte,Cross
+650338,3,MissedShots,0.8959999847412109,0.49900001525878906,0.09885486960411072,Matteo Bianchetti,a,1843,FromCorner,2025,RightFoot,29928,Genoa,Cremonese,0,2,2025-10-29 18:45:00,,None
+657291,71,BlockedShot,0.889000015258789,0.615,0.06732790917158127,Matteo Bianchetti,h,1843,SetPiece,2025,RightFoot,29975,Cremonese,Lecce,2,0,2025-12-07 11:30:00,,None
+660398,15,MissedShots,0.8730000305175781,0.4759999847412109,0.06729871034622192,Matteo Bianchetti,h,1843,SetPiece,2025,LeftFoot,30005,Cremonese,Napoli,0,2,2025-12-28 14:00:00,Giuseppe Pezzella,Cross
+665112,67,MissedShots,0.875999984741211,0.385,0.020346425473690033,Matteo Bianchetti,a,1843,SetPiece,2025,Head,30062,Sassuolo,Cremonese,1,0,2026-01-25 11:30:00,Giuseppe Pezzella,Cross
+684111,46,MissedShots,0.9490000152587891,0.45599998474121095,0.4105696976184845,Matteo Bianchetti,h,1843,FromCorner,2025,Head,30196,Cremonese,Pisa,3,0,2026-05-10 13:00:00,Jari Vandeputte,Cross

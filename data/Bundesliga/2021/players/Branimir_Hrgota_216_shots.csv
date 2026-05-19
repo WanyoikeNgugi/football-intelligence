@@ -1,0 +1,124 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+24395,47,MissedShots,0.97,0.5790000152587891,0.3578589856624603,Branimir Hrgota,h,216,OpenPlay,2014,LeftFoot,5455,Borussia M.Gladbach,VfB Stuttgart,1,1,2014-08-24 16:30:00,Håvard Nordtveit,Chipped
+24712,3,SavedShot,0.8719999694824219,0.46900001525878904,0.03662509843707085,Branimir Hrgota,a,216,OpenPlay,2014,Head,5464,Freiburg,Borussia M.Gladbach,0,0,2014-08-31 16:30:00,André Hahn,Cross
+24715,16,MissedShots,0.7609999847412109,0.2560000038146973,0.018794899806380272,Branimir Hrgota,a,216,OpenPlay,2014,LeftFoot,5464,Freiburg,Borussia M.Gladbach,0,0,2014-08-31 16:30:00,Julian Korb,Pass
+24721,31,BlockedShot,0.8490000152587891,0.30100000381469727,0.037588801234960556,Branimir Hrgota,a,216,OpenPlay,2014,LeftFoot,5464,Freiburg,Borussia M.Gladbach,0,0,2014-08-31 16:30:00,Christoph Kramer,Chipped
+24891,77,SavedShot,0.875,0.7240000152587891,0.3733479976654053,Branimir Hrgota,h,216,OpenPlay,2014,LeftFoot,5417,Borussia M.Gladbach,Schalke 04,4,1,2014-09-13 17:30:00,André Hahn,TakeOn
+25711,63,ShotOnPost,0.88,0.54,0.12415599822998047,Branimir Hrgota,a,216,OpenPlay,2014,LeftFoot,5443,Paderborn,Borussia M.Gladbach,1,2,2014-09-27 14:30:00,Patrick Herrmann,Chipped
+27727,76,BlockedShot,0.7080000305175781,0.35700000762939454,0.019310100004076958,Branimir Hrgota,h,216,OpenPlay,2014,LeftFoot,5336,Borussia M.Gladbach,Werder Bremen,4,1,2014-12-17 19:00:00,Ibrahima Traoré,Pass
+27729,87,Goal,0.9690000152587891,0.544000015258789,0.7192180156707764,Branimir Hrgota,h,216,OpenPlay,2014,LeftFoot,5336,Borussia M.Gladbach,Werder Bremen,4,1,2014-12-17 19:00:00,Thorgan Hazard,Pass
+29408,43,MissedShots,0.9390000152587891,0.48200000762939454,0.5231819748878479,Branimir Hrgota,a,216,SetPiece,2014,Head,5308,VfB Stuttgart,Borussia M.Gladbach,0,1,2015-01-31 14:30:00,Max Kruse,Cross
+29891,5,MissedShots,0.8630000305175781,0.55,0.3083299994468689,Branimir Hrgota,h,216,OpenPlay,2014,RightFoot,5265,Borussia M.Gladbach,Freiburg,1,0,2015-02-03 19:00:00,Max Kruse,TakeOn
+29900,24,BlockedShot,0.885,0.53,0.10725700110197067,Branimir Hrgota,h,216,OpenPlay,2014,LeftFoot,5265,Borussia M.Gladbach,Freiburg,1,0,2015-02-03 19:00:00,Martin Stranzl,Chipped
+29114,88,BlockedShot,0.8669999694824219,0.4370000076293945,0.07921980321407318,Branimir Hrgota,h,216,OpenPlay,2014,LeftFoot,5281,Borussia M.Gladbach,FC Cologne,1,0,2015-02-14 14:30:00,Christoph Kramer,Chipped
+29586,91,Goal,0.8930000305175781,0.5459999847412109,0.04865359887480736,Branimir Hrgota,a,216,FromCorner,2014,Head,5296,Hamburger SV,Borussia M.Gladbach,1,1,2015-02-22 14:30:00,Max Kruse,Cross
+29063,38,SavedShot,0.8,0.37,0.06203659996390343,Branimir Hrgota,h,216,OpenPlay,2014,LeftFoot,5231,Borussia M.Gladbach,Paderborn,2,0,2015-03-01 14:30:00,Raffael,Pass
+29075,62,SavedShot,0.8719999694824219,0.6229999923706054,0.08148810267448425,Branimir Hrgota,h,216,OpenPlay,2014,LeftFoot,5231,Borussia M.Gladbach,Paderborn,2,0,2015-03-01 14:30:00,Granit Xhaka,Chipped
+80813,88,MissedShots,0.915,0.5720000076293945,0.22325100004673004,Branimir Hrgota,a,216,OpenPlay,2015,Head,1208,Hamburger SV,Borussia M.Gladbach,3,2,2016-02-14 18:30:00,Ibrahima Traoré,Cross
+81728,86,BlockedShot,0.865,0.534000015258789,0.09166339784860611,Branimir Hrgota,a,216,OpenPlay,2015,RightFoot,1242,Wolfsburg,Borussia M.Gladbach,2,1,2016-03-05 18:30:00,Jonas Hofmann,Pass
+127507,7,SavedShot,0.9,0.654000015258789,0.2906480133533478,Branimir Hrgota,h,216,OpenPlay,2016,LeftFoot,1330,Eintracht Frankfurt,Schalke 04,1,0,2016-08-27 17:30:00,Makoto Hasebe,Chipped
+128031,40,SavedShot,0.915,0.45,0.48192599415779114,Branimir Hrgota,a,216,OpenPlay,2016,LeftFoot,1339,Darmstadt,Eintracht Frankfurt,1,0,2016-09-10 17:30:00,,None
+128395,90,MissedShots,0.7019999694824218,0.6309999847412109,0.018041199073195457,Branimir Hrgota,h,216,OpenPlay,2016,LeftFoot,1348,Eintracht Frankfurt,Bayer Leverkusen,2,1,2016-09-17 17:30:00,,TakeOn
+128813,83,MissedShots,0.915,0.504000015258789,0.09801950305700302,Branimir Hrgota,h,216,FromCorner,2016,Head,1368,Eintracht Frankfurt,Hertha Berlin,3,3,2016-09-24 17:30:00,Marco Fabián,Cross
+129374,36,MissedShots,0.92,0.5579999923706055,0.12262299656867981,Branimir Hrgota,a,216,SetPiece,2016,RightFoot,1390,Hamburger SV,Eintracht Frankfurt,0,3,2016-10-21 22:30:00,David Abraham,Rebound
+129375,43,MissedShots,0.955,0.5,0.07309590280056,Branimir Hrgota,a,216,OpenPlay,2016,Head,1390,Hamburger SV,Eintracht Frankfurt,0,3,2016-10-21 22:30:00,Timothy Chandler,End
+129382,65,SavedShot,0.8059999847412109,0.5479999923706055,0.07154729962348938,Branimir Hrgota,a,216,OpenPlay,2016,LeftFoot,1390,Hamburger SV,Eintracht Frankfurt,0,3,2016-10-21 22:30:00,Haris Seferovic,Pass
+129795,24,MissedShots,0.9130000305175782,0.6659999847412109,0.07478470355272293,Branimir Hrgota,a,216,OpenPlay,2016,RightFoot,3299,Borussia M.Gladbach,Eintracht Frankfurt,0,0,2016-10-28 22:30:00,Mijat Gacinovic,Pass
+130064,6,SavedShot,0.7709999847412109,0.48400001525878905,0.03001680038869381,Branimir Hrgota,a,216,OpenPlay,2016,LeftFoot,2823,Werder Bremen,Eintracht Frankfurt,1,2,2016-11-20 20:30:00,Bastian Oczipka,Pass
+130084,65,SavedShot,0.9630000305175781,0.4329999923706055,0.5762490034103394,Branimir Hrgota,a,216,OpenPlay,2016,RightFoot,2823,Werder Bremen,Eintracht Frankfurt,1,2,2016-11-20 20:30:00,,None
+130091,81,MissedShots,0.9490000152587891,0.7090000152587891,0.04864589869976044,Branimir Hrgota,a,216,OpenPlay,2016,LeftFoot,2823,Werder Bremen,Eintracht Frankfurt,1,2,2016-11-20 20:30:00,Omar Mascarell,Chipped
+130539,10,Goal,0.7959999847412109,0.4809999847412109,0.04602599889039993,Branimir Hrgota,a,216,OpenPlay,2016,LeftFoot,3200,Augsburg,Eintracht Frankfurt,1,1,2016-12-04 20:30:00,Alexander Meier,HeadPass
+131540,39,MissedShots,0.9430000305175781,0.5029999923706054,0.10965000092983246,Branimir Hrgota,a,216,OpenPlay,2016,LeftFoot,3216,Wolfsburg,Eintracht Frankfurt,1,0,2016-12-17 21:30:00,Makoto Hasebe,Cross
+130419,17,Goal,0.8569999694824219,0.35700000762939454,0.29933199286460876,Branimir Hrgota,h,216,OpenPlay,2016,LeftFoot,3219,Eintracht Frankfurt,Mainz 05,3,0,2016-12-20 23:00:00,David Abraham,Throughball
+130435,84,Goal,0.879000015258789,0.5420000076293945,0.4594759941101074,Branimir Hrgota,h,216,OpenPlay,2016,RightFoot,3219,Eintracht Frankfurt,Mainz 05,3,0,2016-12-20 23:00:00,Aymen Barkok,Pass
+130436,87,BlockedShot,0.9030000305175782,0.575,0.033127401024103165,Branimir Hrgota,h,216,OpenPlay,2016,Head,3219,Eintracht Frankfurt,Mainz 05,3,0,2016-12-20 23:00:00,Timothy Chandler,Aerial
+131121,14,BlockedShot,0.895,0.2929999923706055,0.03937229886651039,Branimir Hrgota,a,216,OpenPlay,2016,LeftFoot,3731,Schalke 04,Eintracht Frankfurt,0,1,2017-01-27 22:30:00,Aymen Barkok,Pass
+131122,20,MissedShots,0.889000015258789,0.6959999847412109,0.04646899923682213,Branimir Hrgota,a,216,SetPiece,2016,LeftFoot,3731,Schalke 04,Eintracht Frankfurt,0,1,2017-01-27 22:30:00,Makoto Hasebe,Chipped
+131131,42,BlockedShot,0.835,0.375,0.08533839881420135,Branimir Hrgota,a,216,OpenPlay,2016,LeftFoot,3731,Schalke 04,Eintracht Frankfurt,0,1,2017-01-27 22:30:00,Omar Mascarell,TakeOn
+132382,2,MissedShots,0.904000015258789,0.5309999847412109,0.05796569958329201,Branimir Hrgota,h,216,OpenPlay,2016,Head,3748,Eintracht Frankfurt,Darmstadt,2,0,2017-02-05 16:30:00,Mijat Gacinovic,HeadPass
+132391,51,MissedShots,0.735999984741211,0.4420000076293945,0.015798000618815422,Branimir Hrgota,h,216,OpenPlay,2016,LeftFoot,3748,Eintracht Frankfurt,Darmstadt,2,0,2017-02-05 16:30:00,,None
+132424,25,SavedShot,0.925,0.5779999923706055,0.3286750018596649,Branimir Hrgota,a,216,OpenPlay,2016,LeftFoot,3750,Bayer Leverkusen,Eintracht Frankfurt,3,0,2017-02-11 14:30:00,Timothy Chandler,Cross
+133382,10,Goal,0.879000015258789,0.5179999923706055,0.4165390133857727,Branimir Hrgota,h,216,OpenPlay,2016,LeftFoot,3783,Eintracht Frankfurt,Freiburg,1,2,2017-03-05 14:30:00,,None
+133396,61,MissedShots,0.924000015258789,0.5429999923706055,0.10123500227928162,Branimir Hrgota,h,216,FromCorner,2016,Head,3783,Eintracht Frankfurt,Freiburg,1,2,2017-03-05 14:30:00,Makoto Hasebe,Cross
+133406,95,MissedShots,0.7930000305175782,0.4209999847412109,0.1079690009355545,Branimir Hrgota,h,216,DirectFreekick,2016,LeftFoot,3783,Eintracht Frankfurt,Freiburg,1,2,2017-03-05 14:30:00,,Standard
+133484,39,MissedShots,0.965999984741211,0.43099998474121093,0.4637809991836548,Branimir Hrgota,a,216,OpenPlay,2016,RightFoot,3786,Bayern Munich,Eintracht Frankfurt,3,0,2017-03-11 14:30:00,Ante Rebic,Cross
+132786,28,MissedShots,0.9069999694824219,0.5379999923706055,0.34401801228523254,Branimir Hrgota,h,216,OpenPlay,2016,RightFoot,3800,Eintracht Frankfurt,Hamburger SV,0,0,2017-03-18 17:30:00,Ante Rebic,Cross
+132792,71,BlockedShot,0.9159999847412109,0.47299999237060547,0.08748730272054672,Branimir Hrgota,h,216,SetPiece,2016,LeftFoot,3800,Eintracht Frankfurt,Hamburger SV,0,0,2017-03-18 17:30:00,Ante Rebic,HeadPass
+133374,58,SavedShot,0.9169999694824219,0.38,0.2934989929199219,Branimir Hrgota,h,216,OpenPlay,2016,LeftFoot,3809,Eintracht Frankfurt,Borussia M.Gladbach,0,0,2017-04-01 17:30:00,Marco Fabián,Chipped
+134824,26,SavedShot,0.899000015258789,0.43900001525878907,0.15187600255012512,Branimir Hrgota,h,216,OpenPlay,2016,LeftFoot,3821,Eintracht Frankfurt,Werder Bremen,2,2,2017-04-07 19:30:00,,Rebound
+134007,28,MissedShots,0.9030000305175782,0.52,0.12035000324249268,Branimir Hrgota,h,216,SetPiece,2016,LeftFoot,3845,Eintracht Frankfurt,Augsburg,3,1,2017-04-22 14:30:00,Bastian Oczipka,Pass
+134011,46,MissedShots,0.899000015258789,0.5529999923706055,0.02772120013833046,Branimir Hrgota,h,216,SetPiece,2016,Head,3845,Eintracht Frankfurt,Augsburg,3,1,2017-04-22 14:30:00,Bastian Oczipka,Aerial
+134013,50,BlockedShot,0.8530000305175781,0.4370000076293945,0.06017040088772774,Branimir Hrgota,h,216,OpenPlay,2016,RightFoot,3845,Eintracht Frankfurt,Augsburg,3,1,2017-04-22 14:30:00,,None
+134015,58,BlockedShot,0.875999984741211,0.455,0.07414489984512329,Branimir Hrgota,h,216,OpenPlay,2016,LeftFoot,3845,Eintracht Frankfurt,Augsburg,3,1,2017-04-22 14:30:00,Ante Rebic,HeadPass
+132776,61,SavedShot,0.9680000305175781,0.425,0.35379499197006226,Branimir Hrgota,h,216,OpenPlay,2016,Head,3857,Eintracht Frankfurt,Wolfsburg,0,2,2017-05-06 14:30:00,Ante Rebic,Cross
+133059,41,Goal,0.9590000152587891,0.6409999847412109,0.2910569906234741,Branimir Hrgota,a,216,OpenPlay,2016,LeftFoot,3868,Mainz 05,Eintracht Frankfurt,4,2,2017-05-13 14:30:00,Aymen Barkok,Chipped
+133062,49,SavedShot,0.9319999694824219,0.4779999923706055,0.5615969896316528,Branimir Hrgota,a,216,OpenPlay,2016,Head,3868,Mainz 05,Eintracht Frankfurt,4,2,2017-05-13 14:30:00,Taleb Tawatha,Cross
+128050,4,MissedShots,0.9519999694824218,0.53,0.575564980506897,Branimir Hrgota,h,216,FromCorner,2016,LeftFoot,3882,Eintracht Frankfurt,RasenBallsport Leipzig,2,2,2017-05-20 14:30:00,Haris Seferovic,None
+187236,9,SavedShot,0.9209999847412109,0.43599998474121093,0.3308660089969635,Branimir Hrgota,h,216,OpenPlay,2017,LeftFoot,8416,Eintracht Frankfurt,Freiburg,1,1,2018-01-13 14:30:00,Sébastien Haller,Chipped
+187241,27,SavedShot,0.9330000305175781,0.3270000076293945,0.03830140084028244,Branimir Hrgota,h,216,FromCorner,2017,LeftFoot,8416,Eintracht Frankfurt,Freiburg,1,1,2018-01-13 14:30:00,Marius Wolf,Cross
+211542,52,BlockedShot,0.7830000305175782,0.669000015258789,0.02046019956469536,Branimir Hrgota,a,216,OpenPlay,2017,LeftFoot,8538,Bayern Munich,Eintracht Frankfurt,4,1,2018-04-28 13:30:00,,BallRecovery
+425709,5,MissedShots,0.8730000305175781,0.6029999923706054,0.06951040029525757,Branimir Hrgota,a,216,OpenPlay,2021,RightFoot,17519,VfB Stuttgart,Greuther Fuerth,5,1,2021-08-14 13:30:00,,None
+425710,9,BlockedShot,0.8090000152587891,0.5129999923706055,0.049579400569200516,Branimir Hrgota,a,216,OpenPlay,2021,LeftFoot,17519,VfB Stuttgart,Greuther Fuerth,5,1,2021-08-14 13:30:00,,None
+425737,72,SavedShot,0.8059999847412109,0.5159999847412109,0.04852759838104248,Branimir Hrgota,a,216,OpenPlay,2021,LeftFoot,17519,VfB Stuttgart,Greuther Fuerth,5,1,2021-08-14 13:30:00,Adrian Fein,Pass
+426965,39,BlockedShot,0.9490000152587891,0.2979999923706055,0.057949699461460114,Branimir Hrgota,h,216,OpenPlay,2021,LeftFoot,17526,Greuther Fuerth,Arminia Bielefeld,1,1,2021-08-21 13:30:00,,BallRecovery
+426973,49,Goal,0.885,0.5,0.7576959729194641,Branimir Hrgota,h,216,Penalty,2021,LeftFoot,17526,Greuther Fuerth,Arminia Bielefeld,1,1,2021-08-21 13:30:00,,Standard
+426974,51,SavedShot,0.7819999694824219,0.39799999237060546,0.029052799567580223,Branimir Hrgota,h,216,OpenPlay,2021,LeftFoot,17526,Greuther Fuerth,Arminia Bielefeld,1,1,2021-08-21 13:30:00,Marco Meyerhöfer,Pass
+426983,72,MissedShots,0.82,0.24,0.0228767991065979,Branimir Hrgota,h,216,OpenPlay,2021,LeftFoot,17526,Greuther Fuerth,Arminia Bielefeld,1,1,2021-08-21 13:30:00,Paul Seguin,Pass
+426986,82,BlockedShot,0.9059999847412109,0.47200000762939454,0.15896500647068024,Branimir Hrgota,h,216,OpenPlay,2021,LeftFoot,17526,Greuther Fuerth,Arminia Bielefeld,1,1,2021-08-21 13:30:00,Paul Seguin,TakeOn
+426988,88,SavedShot,0.7609999847412109,0.4929999923706055,0.026245400309562683,Branimir Hrgota,h,216,OpenPlay,2021,LeftFoot,17526,Greuther Fuerth,Arminia Bielefeld,1,1,2021-08-21 13:30:00,Julian Green,Pass
+429651,48,MissedShots,0.894000015258789,0.6719999694824219,0.0569721981883049,Branimir Hrgota,h,216,OpenPlay,2021,LeftFoot,17543,Greuther Fuerth,Wolfsburg,0,2,2021-09-11 13:30:00,Paul Seguin,Pass
+430959,56,Goal,0.885,0.5,0.7577769756317139,Branimir Hrgota,a,216,Penalty,2021,LeftFoot,17552,Hertha Berlin,Greuther Fuerth,2,1,2021-09-17 18:30:00,,Standard
+433083,14,BlockedShot,0.710999984741211,0.5570000076293945,0.013398200273513794,Branimir Hrgota,h,216,OpenPlay,2021,LeftFoot,17561,Greuther Fuerth,Bayern Munich,1,3,2021-09-24 18:30:00,Håvard Nielsen,BallTouch
+433091,49,SavedShot,0.7230000305175781,0.47200000762939454,0.050893500447273254,Branimir Hrgota,h,216,DirectFreekick,2021,LeftFoot,17561,Greuther Fuerth,Bayern Munich,1,3,2021-09-24 18:30:00,,Standard
+436070,7,BlockedShot,0.8480000305175781,0.7530000305175781,0.022660600021481514,Branimir Hrgota,h,216,OpenPlay,2021,RightFoot,17579,Greuther Fuerth,Bochum,0,1,2021-10-16 13:30:00,Paul Seguin,TakeOn
+436082,57,MissedShots,0.98,0.41,0.12478099763393402,Branimir Hrgota,h,216,OpenPlay,2021,RightFoot,17579,Greuther Fuerth,Bochum,0,1,2021-10-16 13:30:00,Jeremy Dudziak,Throughball
+437650,15,SavedShot,0.9480000305175781,0.59,0.33097198605537415,Branimir Hrgota,a,216,SetPiece,2021,LeftFoot,17595,RasenBallsport Leipzig,Greuther Fuerth,4,1,2021-10-23 13:30:00,Jetro Willems,Chipped
+437656,44,Goal,0.885,0.5,0.7577769756317139,Branimir Hrgota,a,216,Penalty,2021,LeftFoot,17595,RasenBallsport Leipzig,Greuther Fuerth,4,1,2021-10-23 13:30:00,,Standard
+439520,29,MissedShots,0.775,0.76,0.015742100775241852,Branimir Hrgota,a,216,OpenPlay,2021,LeftFoot,17600,Freiburg,Greuther Fuerth,3,1,2021-10-30 13:30:00,Cedric Itten,Pass
+442020,15,MissedShots,0.9690000152587891,0.42700000762939455,0.06244499981403351,Branimir Hrgota,h,216,FromCorner,2021,Head,17606,Greuther Fuerth,Eintracht Frankfurt,1,2,2021-11-07 18:30:00,,None
+442021,23,BlockedShot,0.895,0.6659999847412109,0.04137130081653595,Branimir Hrgota,h,216,FromCorner,2021,RightFoot,17606,Greuther Fuerth,Eintracht Frankfurt,1,2,2021-11-07 18:30:00,Max Christiansen,Tackle
+442027,43,MissedShots,0.9,0.615,0.08359889686107635,Branimir Hrgota,h,216,OpenPlay,2021,RightFoot,17606,Greuther Fuerth,Eintracht Frankfurt,1,2,2021-11-07 18:30:00,,Rebound
+442035,55,BlockedShot,0.835,0.625,0.11892600357532501,Branimir Hrgota,h,216,OpenPlay,2021,RightFoot,17606,Greuther Fuerth,Eintracht Frankfurt,1,2,2021-11-07 18:30:00,Julian Green,TakeOn
+442048,86,BlockedShot,0.8109999847412109,0.5459999847412109,0.04453380033373833,Branimir Hrgota,h,216,OpenPlay,2021,RightFoot,17606,Greuther Fuerth,Eintracht Frankfurt,1,2,2021-11-07 18:30:00,,Rebound
+444039,8,BlockedShot,0.789000015258789,0.6040000152587891,0.03099380061030388,Branimir Hrgota,h,216,OpenPlay,2021,LeftFoot,17624,Greuther Fuerth,Hoffenheim,3,6,2021-11-27 14:30:00,,None
+444052,53,BlockedShot,0.8869999694824219,0.7169999694824218,0.06275080144405365,Branimir Hrgota,h,216,OpenPlay,2021,LeftFoot,17624,Greuther Fuerth,Hoffenheim,3,6,2021-11-27 14:30:00,,TakeOn
+444053,53,SavedShot,0.91,0.7030000305175781,0.04418719932436943,Branimir Hrgota,h,216,OpenPlay,2021,LeftFoot,17624,Greuther Fuerth,Hoffenheim,3,6,2021-11-27 14:30:00,,Rebound
+444054,53,SavedShot,0.950999984741211,0.6880000305175781,0.05116559937596321,Branimir Hrgota,h,216,OpenPlay,2021,LeftFoot,17624,Greuther Fuerth,Hoffenheim,3,6,2021-11-27 14:30:00,,Rebound
+444064,66,Goal,0.8919999694824219,0.5679999923706055,0.31040599942207336,Branimir Hrgota,h,216,OpenPlay,2021,LeftFoot,17624,Greuther Fuerth,Hoffenheim,3,6,2021-11-27 14:30:00,Jamie Leweling,Pass
+446060,25,SavedShot,0.8919999694824219,0.525,0.048926498740911484,Branimir Hrgota,a,216,OpenPlay,2021,Head,17640,Bayer Leverkusen,Greuther Fuerth,7,1,2021-12-04 14:30:00,Jetro Willems,Aerial
+446063,44,SavedShot,0.779000015258789,0.29700000762939455,0.019100800156593323,Branimir Hrgota,a,216,OpenPlay,2021,LeftFoot,17640,Bayer Leverkusen,Greuther Fuerth,7,1,2021-12-04 14:30:00,Timothy Tillman,Pass
+448368,6,MissedShots,0.8630000305175781,0.629000015258789,0.0792573019862175,Branimir Hrgota,h,216,OpenPlay,2021,LeftFoot,17642,Greuther Fuerth,Union Berlin,1,0,2021-12-12 14:30:00,Timothy Tillman,Pass
+448371,18,SavedShot,0.7530000305175781,0.529000015258789,0.024140600115060806,Branimir Hrgota,h,216,OpenPlay,2021,LeftFoot,17642,Greuther Fuerth,Union Berlin,1,0,2021-12-12 14:30:00,Jetro Willems,Pass
+448990,67,BlockedShot,0.8830000305175781,0.7419999694824219,0.031173400580883026,Branimir Hrgota,a,216,OpenPlay,2021,LeftFoot,17659,Borussia Dortmund,Greuther Fuerth,3,0,2021-12-15 19:30:00,,BallRecovery
+452071,5,SavedShot,0.87,0.28299999237060547,0.035477299243211746,Branimir Hrgota,h,216,OpenPlay,2021,LeftFoot,17669,Greuther Fuerth,VfB Stuttgart,0,0,2022-01-08 14:30:00,Timothy Tillman,Pass
+452077,21,SavedShot,0.9490000152587891,0.4909999847412109,0.569678008556366,Branimir Hrgota,h,216,OpenPlay,2021,Head,17669,Greuther Fuerth,VfB Stuttgart,0,0,2022-01-08 14:30:00,Nick Viergever,HeadPass
+452084,53,BlockedShot,0.904000015258789,0.6430000305175781,0.30846500396728516,Branimir Hrgota,h,216,OpenPlay,2021,LeftFoot,17669,Greuther Fuerth,VfB Stuttgart,0,0,2022-01-08 14:30:00,,TakeOn
+453793,70,MissedShots,0.885,0.45799999237060546,0.08540669828653336,Branimir Hrgota,a,216,OpenPlay,2021,Head,17679,Arminia Bielefeld,Greuther Fuerth,2,2,2022-01-16 16:30:00,Håvard Nielsen,Cross
+454583,56,BlockedShot,0.720999984741211,0.455,0.04924840107560158,Branimir Hrgota,h,216,DirectFreekick,2021,LeftFoot,17687,Greuther Fuerth,Mainz 05,2,1,2022-01-22 14:30:00,,Standard
+454584,60,MissedShots,0.745,0.5409999847412109,0.027558600530028343,Branimir Hrgota,h,216,OpenPlay,2021,LeftFoot,17687,Greuther Fuerth,Mainz 05,2,1,2022-01-22 14:30:00,Jeremy Dudziak,Pass
+456344,33,SavedShot,0.745999984741211,0.40599998474121096,0.06006539985537529,Branimir Hrgota,a,216,DirectFreekick,2021,LeftFoot,17702,Wolfsburg,Greuther Fuerth,4,1,2022-02-06 16:30:00,,Standard
+456347,43,Goal,0.885,0.5,0.7577769756317139,Branimir Hrgota,a,216,Penalty,2021,LeftFoot,17702,Wolfsburg,Greuther Fuerth,4,1,2022-02-06 16:30:00,,Standard
+456901,0,Goal,0.885,0.635,0.3120189905166626,Branimir Hrgota,h,216,OpenPlay,2021,LeftFoot,17705,Greuther Fuerth,Hertha Berlin,2,1,2022-02-12 14:30:00,Paul Seguin,Throughball
+456921,44,SavedShot,0.7080000305175781,0.2610000038146973,0.03025210089981556,Branimir Hrgota,h,216,DirectFreekick,2021,LeftFoot,17705,Greuther Fuerth,Hertha Berlin,2,1,2022-02-12 14:30:00,,Standard
+456932,70,Goal,0.885,0.5,0.7577769756317139,Branimir Hrgota,h,216,Penalty,2021,LeftFoot,17705,Greuther Fuerth,Hertha Berlin,2,1,2022-02-12 14:30:00,,Standard
+456937,80,SavedShot,0.8930000305175781,0.605999984741211,0.46388500928878784,Branimir Hrgota,h,216,OpenPlay,2021,RightFoot,17705,Greuther Fuerth,Hertha Berlin,2,1,2022-02-12 14:30:00,Timothy Tillman,Throughball
+456940,84,BlockedShot,0.8419999694824218,0.4420000076293945,0.11289600282907486,Branimir Hrgota,h,216,OpenPlay,2021,RightFoot,17705,Greuther Fuerth,Hertha Berlin,2,1,2022-02-12 14:30:00,,TakeOn
+458782,41,Goal,0.8009999847412109,0.2979999923706055,0.07165540009737015,Branimir Hrgota,a,216,DirectFreekick,2021,LeftFoot,17722,Bayern Munich,Greuther Fuerth,4,1,2022-02-20 14:30:00,,Standard
+458792,67,MissedShots,0.9340000152587891,0.5579999923706055,0.0926951989531517,Branimir Hrgota,a,216,OpenPlay,2021,Head,17722,Bayern Munich,Greuther Fuerth,4,1,2022-02-20 14:30:00,Paul Seguin,Cross
+459750,3,BlockedShot,0.8909999847412109,0.36700000762939455,0.09094110131263733,Branimir Hrgota,h,216,OpenPlay,2021,LeftFoot,17723,Greuther Fuerth,FC Cologne,1,1,2022-02-26 14:30:00,Jamie Leweling,Pass
+459751,5,BlockedShot,0.8580000305175781,0.524000015258789,0.12436400353908539,Branimir Hrgota,h,216,OpenPlay,2021,LeftFoot,17723,Greuther Fuerth,FC Cologne,1,1,2022-02-26 14:30:00,Jeremy Dudziak,Throughball
+459752,7,MissedShots,0.8690000152587891,0.735999984741211,0.018072400242090225,Branimir Hrgota,h,216,OpenPlay,2021,LeftFoot,17723,Greuther Fuerth,FC Cologne,1,1,2022-02-26 14:30:00,Max Christiansen,Cross
+459772,68,BlockedShot,0.8209999847412109,0.49700000762939456,0.05042700096964836,Branimir Hrgota,h,216,OpenPlay,2021,RightFoot,17723,Greuther Fuerth,FC Cologne,1,1,2022-02-26 14:30:00,Marco Meyerhöfer,Chipped
+461030,78,MissedShots,0.8640000152587891,0.7419999694824219,0.028517499566078186,Branimir Hrgota,a,216,OpenPlay,2021,RightFoot,17732,Bochum,Greuther Fuerth,2,1,2022-03-05 14:30:00,,None
+463365,35,MissedShots,0.6880000305175781,0.45,0.007254939991980791,Branimir Hrgota,h,216,OpenPlay,2021,LeftFoot,17741,Greuther Fuerth,RasenBallsport Leipzig,1,6,2022-03-13 18:30:00,,None
+463373,63,MissedShots,0.9169999694824219,0.5379999923706055,0.11602599918842316,Branimir Hrgota,h,216,OpenPlay,2021,Head,17741,Greuther Fuerth,RasenBallsport Leipzig,1,6,2022-03-13 18:30:00,Gian-Luca Itter,Cross
+464001,17,BlockedShot,0.7469999694824219,0.6609999847412109,0.020951999351382256,Branimir Hrgota,h,216,OpenPlay,2021,LeftFoot,17750,Greuther Fuerth,Freiburg,0,0,2022-03-19 14:30:00,Jamie Leweling,Pass
+465057,16,SavedShot,0.8930000305175781,0.6079999923706054,0.35217300057411194,Branimir Hrgota,a,216,OpenPlay,2021,LeftFoot,17766,Eintracht Frankfurt,Greuther Fuerth,0,0,2022-04-02 13:30:00,Jetro Willems,Throughball
+466692,73,MissedShots,0.815,0.37900001525878907,0.04934149980545044,Branimir Hrgota,h,216,OpenPlay,2021,LeftFoot,17768,Greuther Fuerth,Borussia M.Gladbach,0,2,2022-04-09 13:30:00,Timothy Tillman,Pass
+468865,55,MissedShots,0.8369999694824218,0.17100000381469727,0.04709089919924736,Branimir Hrgota,a,216,DirectFreekick,2021,LeftFoot,17780,Hoffenheim,Greuther Fuerth,0,0,2022-04-17 15:30:00,,Standard
+471140,14,BlockedShot,0.8340000152587891,0.77,0.016906900331377983,Branimir Hrgota,a,216,OpenPlay,2021,LeftFoot,17801,Union Berlin,Greuther Fuerth,1,1,2022-04-29 18:30:00,,None
+471142,19,MissedShots,0.7280000305175781,0.47299999237060547,0.01965329982340336,Branimir Hrgota,a,216,OpenPlay,2021,LeftFoot,17801,Union Berlin,Greuther Fuerth,1,1,2022-04-29 18:30:00,Jamie Leweling,Pass
+471144,32,Goal,0.8690000152587891,0.37099998474121093,0.05676870048046112,Branimir Hrgota,a,216,SetPiece,2021,LeftFoot,17801,Union Berlin,Greuther Fuerth,1,1,2022-04-29 18:30:00,,None
+474867,9,BlockedShot,0.7169999694824218,0.40599998474121096,0.011408899910748005,Branimir Hrgota,h,216,OpenPlay,2021,LeftFoot,17804,Greuther Fuerth,Borussia Dortmund,1,3,2022-05-07 13:30:00,,None
+474871,41,BlockedShot,0.785,0.625,0.02732430025935173,Branimir Hrgota,h,216,OpenPlay,2021,LeftFoot,17804,Greuther Fuerth,Borussia Dortmund,1,3,2022-05-07 13:30:00,Timothy Tillman,Pass
+475812,50,BlockedShot,0.6919999694824219,0.509000015258789,0.015110200271010399,Branimir Hrgota,a,216,OpenPlay,2021,LeftFoot,17814,Augsburg,Greuther Fuerth,2,1,2022-05-14 13:30:00,Tobias Raschl,Pass

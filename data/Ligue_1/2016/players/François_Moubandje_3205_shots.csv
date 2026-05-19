@@ -1,0 +1,26 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+2864,77,MissedShots,0.7380000305175781,0.815,0.006005160044878721,François Moubandje,h,3205,OpenPlay,2014,LeftFoot,6134,Toulouse,Lens,0,2,2014-10-24 19:30:00,,None
+3939,88,MissedShots,0.889000015258789,0.5479999923706055,0.07166600227355957,François Moubandje,h,3205,OpenPlay,2014,LeftFoot,6108,Toulouse,Lorient,2,3,2014-11-29 19:00:00,Pavle Ninkov,Cross
+7618,19,OwnGoal,0.04099999904632568,0.5029999923706054,0,François Moubandje,h,3205,OpenPlay,2014,RightFoot,5930,Toulouse,Marseille,1,6,2015-03-06 19:30:00,,None
+7629,61,MissedShots,0.7619999694824219,0.5609999847412109,0.016713500022888184,François Moubandje,h,3205,SetPiece,2014,LeftFoot,5930,Toulouse,Marseille,1,6,2015-03-06 19:30:00,,None
+69928,87,BlockedShot,0.745,0.655,0.01448960043489933,François Moubandje,h,3205,FromCorner,2015,LeftFoot,2132,Toulouse,GFC Ajaccio,1,1,2016-02-20 23:00:00,,None
+67005,90,MissedShots,0.715,0.7419999694824219,0.01272329967468977,François Moubandje,a,3205,OpenPlay,2015,LeftFoot,2172,Lille,Toulouse,1,0,2016-03-19 23:00:00,Pantxi Sirieix,Pass
+68765,26,MissedShots,0.85,0.7959999847412109,0.01836870051920414,François Moubandje,h,3205,OpenPlay,2015,LeftFoot,2195,Toulouse,SC Bastia,4,0,2016-04-09 22:00:00,Étienne Didot,HeadPass
+68494,60,MissedShots,0.795,0.7230000305175781,0.023267099633812904,François Moubandje,a,3205,OpenPlay,2015,RightFoot,2248,Angers,Toulouse,2,3,2016-05-14 23:00:00,Marcel Tisserand,Pass
+105831,10,BlockedShot,0.8519999694824218,0.69,0.03287709876894951,François Moubandje,a,3205,FromCorner,2016,LeftFoot,2345,Angers,Toulouse,0,0,2016-10-22 22:00:00,Óscar Trejo,Pass
+105550,4,MissedShots,0.705,0.555,0.011606399901211262,François Moubandje,h,3205,OpenPlay,2016,LeftFoot,3319,Toulouse,Lyon,1,2,2016-10-29 19:00:00,,None
+105567,94,MissedShots,0.7859999847412109,0.6759999847412109,0.025067700073122978,François Moubandje,h,3205,OpenPlay,2016,LeftFoot,3319,Toulouse,Lyon,1,2,2016-10-29 19:00:00,Jimmy Durmaz,Pass
+106678,65,MissedShots,0.9230000305175782,0.7069999694824218,0.037133198231458664,François Moubandje,a,3205,FromCorner,2016,LeftFoot,2853,Rennes,Toulouse,1,0,2016-11-25 23:45:00,Jimmy Durmaz,Pass
+107231,72,MissedShots,0.865999984741211,0.40400001525878904,0.018951300531625748,François Moubandje,h,3205,OpenPlay,2016,Head,4108,Toulouse,Nantes,0,1,2017-01-14 23:00:00,Pavle Ninkov,Cross
+108055,16,BlockedShot,0.725999984741211,0.62,0.0117419995367527,François Moubandje,a,3205,OpenPlay,2016,LeftFoot,4145,Lorient,Toulouse,1,1,2017-02-08 18:00:00,Yann Bodiger,None
+109708,15,MissedShots,0.6680000305175782,0.5670000076293945,0.01142439991235733,François Moubandje,h,3205,FromCorner,2016,LeftFoot,4211,Toulouse,Rennes,0,0,2017-03-18 19:00:00,,None
+163205,31,SavedShot,0.7969999694824219,0.805,0.01713390089571476,François Moubandje,h,3205,OpenPlay,2017,RightFoot,8615,Toulouse,Bordeaux,0,1,2017-09-15 19:45:00,Giannelli Imbula,Pass
+194576,34,MissedShots,0.66,0.6329999923706054,0.010488400235772133,François Moubandje,a,3205,OpenPlay,2017,LeftFoot,8800,Nice,Toulouse,0,1,2018-02-03 19:00:00,Ibrahim Sangare,Pass
+210669,39,MissedShots,0.795,0.590999984741211,0.03537819907069206,François Moubandje,h,3205,OpenPlay,2017,RightFoot,8897,Toulouse,Angers,2,0,2018-04-21 18:00:00,,None
+218538,28,SavedShot,0.8319999694824218,0.3920000076293945,0.05523369833827019,François Moubandje,h,3205,OpenPlay,2018,LeftFoot,10661,Toulouse,Bordeaux,2,1,2018-08-19 18:00:00,Manu García,Pass
+218553,75,SavedShot,0.789000015258789,0.63,0.05867059901356697,François Moubandje,h,3205,OpenPlay,2018,LeftFoot,10661,Toulouse,Bordeaux,2,1,2018-08-19 18:00:00,,TakeOn
+223901,45,BlockedShot,0.8280000305175781,0.645,0.042797498404979706,François Moubandje,h,3205,OpenPlay,2018,LeftFoot,10692,Toulouse,Monaco,1,1,2018-09-15 18:00:00,Manu García,Pass
+226310,35,MissedShots,0.8019999694824219,0.775,0.018714599311351776,François Moubandje,h,3205,OpenPlay,2018,LeftFoot,10712,Toulouse,Saint-Etienne,2,3,2018-09-25 19:00:00,Christopher Jullien,Pass
+261460,12,SavedShot,0.9830000305175781,0.615999984741211,0.1278270035982132,François Moubandje,h,3205,OpenPlay,2018,LeftFoot,10770,Toulouse,Amiens,0,1,2018-11-10 19:00:00,,Rebound
+261690,12,MissedShots,0.735,0.6530000305175782,0.017396600916981697,François Moubandje,a,3205,OpenPlay,2018,LeftFoot,10779,Paris Saint Germain,Toulouse,1,0,2018-11-24 16:00:00,Manu García,Pass
+282243,91,BlockedShot,0.8590000152587891,0.40799999237060547,0.05811670050024986,François Moubandje,h,3205,OpenPlay,2018,RightFoot,10838,Toulouse,Strasbourg,1,2,2019-01-13 16:00:00,,None

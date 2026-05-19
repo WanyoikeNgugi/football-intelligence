@@ -1,0 +1,8 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+40765,35,MissedShots,0.7480000305175781,0.8059999847412109,0.00861241016536951,Emanuel Insúa,h,1976,OpenPlay,2014,LeftFoot,5685,Granada,Elche,1,0,2015-01-31 19:00:00,,None
+41069,58,BlockedShot,0.8280000305175781,0.355,0.02914920076727867,Emanuel Insúa,a,1976,SetPiece,2014,LeftFoot,5610,Villarreal,Granada,2,0,2015-02-07 17:00:00,,Rebound
+39574,13,MissedShots,0.745,0.6630000305175782,0.012710800394415855,Emanuel Insúa,h,1976,OpenPlay,2014,LeftFoot,5575,Granada,Malaga,1,0,2015-03-07 21:00:00,,None
+39197,34,MissedShots,0.755,0.625,0.014595099724829197,Emanuel Insúa,a,1976,SetPiece,2014,LeftFoot,5528,Almeria,Granada,3,0,2015-04-11 21:00:00,,Rebound
+39213,85,SavedShot,0.874000015258789,0.7040000152587891,0.04404670000076294,Emanuel Insúa,a,1976,OpenPlay,2014,LeftFoot,5528,Almeria,Granada,3,0,2015-04-11 21:00:00,Nyom,TakeOn
+36714,25,SavedShot,0.7930000305175782,0.73,0.02185470052063465,Emanuel Insúa,h,1976,OpenPlay,2014,LeftFoot,5564,Granada,Espanyol,1,2,2015-04-30 21:00:00,Robert Ibáñez,Pass
+36726,80,SavedShot,0.9169999694824219,0.7190000152587891,0.03917659819126129,Emanuel Insúa,h,1976,OpenPlay,2014,LeftFoot,5564,Granada,Espanyol,1,2,2015-04-30 21:00:00,Javi Márquez,Pass

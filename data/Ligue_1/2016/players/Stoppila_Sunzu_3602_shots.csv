@@ -1,0 +1,31 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+62896,28,MissedShots,0.7140000152587891,0.3089999961853027,0.009120269678533077,Stoppila Sunzu,h,3602,OpenPlay,2015,RightFoot,1949,Lille,Montpellier,2,0,2015-10-02 22:30:00,,Aerial
+62902,51,MissedShots,0.9069999694824219,0.3970000076293945,0.029726700857281685,Stoppila Sunzu,h,3602,FromCorner,2015,Head,1949,Lille,Montpellier,2,0,2015-10-02 22:30:00,Mounir Obbadi,Cross
+64653,93,BlockedShot,0.9469999694824218,0.655,0.013701899908483028,Stoppila Sunzu,a,3602,FromCorner,2015,Head,1985,Nice,Lille,0,0,2015-11-01 17:00:00,Marvin Martin,Cross
+64687,2,SavedShot,0.879000015258789,0.544000015258789,0.04625039920210838,Stoppila Sunzu,h,3602,SetPiece,2015,Head,2027,Lille,Saint-Etienne,1,0,2015-12-03 00:00:00,Florent Balmont,Chipped
+64709,75,MissedShots,0.970999984741211,0.644000015258789,0.013842600397765636,Stoppila Sunzu,h,3602,FromCorner,2015,Head,2027,Lille,Saint-Etienne,1,0,2015-12-03 00:00:00,Marvin Martin,Cross
+67483,41,MissedShots,0.9230000305175782,0.485,0.05198189988732338,Stoppila Sunzu,a,3602,FromCorner,2015,Head,2186,Nantes,Lille,0,3,2016-04-03 16:00:00,Morgan Amalfitano,Aerial
+67490,57,Goal,0.9519999694824218,0.4929999923706055,0.5301690101623535,Stoppila Sunzu,a,3602,FromCorner,2015,Head,2186,Nantes,Lille,0,3,2016-04-03 16:00:00,Eder,Aerial
+67492,60,MissedShots,0.9169999694824219,0.64,0.008816059678792953,Stoppila Sunzu,a,3602,SetPiece,2015,Head,2186,Nantes,Lille,0,3,2016-04-03 16:00:00,Mounir Obbadi,Aerial
+67953,6,MissedShots,0.7759999847412109,0.505,0.031828999519348145,Stoppila Sunzu,a,3602,OpenPlay,2015,RightFoot,2204,GFC Ajaccio,Lille,2,4,2016-04-16 22:00:00,Adama Soumaoro,Pass
+67965,52,BlockedShot,0.9530000305175781,0.46,0.07663720101118088,Stoppila Sunzu,a,3602,FromCorner,2015,Head,2204,GFC Ajaccio,Lille,2,4,2016-04-16 22:00:00,Eder,Rebound
+124462,18,BlockedShot,0.9369999694824219,0.4929999923706055,0.13712699711322784,Stoppila Sunzu,a,3602,FromCorner,2016,RightFoot,4297,FC Orenburg,Arsenal Tula,3,0,2017-03-04 11:00:00,Maksim Belyaev,Cross
+124463,18,MissedShots,0.93,0.48400001525878905,0.11133000254631042,Stoppila Sunzu,a,3602,FromCorner,2016,Head,4297,FC Orenburg,Arsenal Tula,3,0,2017-03-04 11:00:00,Alexandru Bourceanu,Cross
+123042,42,ShotOnPost,0.91,0.44,0.0701792985200882,Stoppila Sunzu,h,3602,FromCorner,2016,RightFoot,4304,Arsenal Tula,Ural,2,0,2017-03-10 16:00:00,Nikita Burmistrov,Cross
+126588,41,MissedShots,0.924000015258789,0.48400001525878905,0.08065319806337357,Stoppila Sunzu,h,3602,FromCorner,2016,RightFoot,4340,Arsenal Tula,Lokomotiv Moscow,0,3,2017-04-16 15:30:00,,Aerial
+126592,56,MissedShots,0.889000015258789,0.40400001525878904,0.017720699310302734,Stoppila Sunzu,h,3602,OpenPlay,2016,Head,4340,Arsenal Tula,Lokomotiv Moscow,0,3,2017-04-16 15:30:00,Mihail Aleksandrov,Aerial
+126380,42,MissedShots,0.9,0.47200000762939454,0.05463080108165741,Stoppila Sunzu,a,3602,FromCorner,2016,Head,4348,FC Krasnodar,Arsenal Tula,2,0,2017-04-23 15:00:00,Kirill Kombarov,Cross
+126387,76,BlockedShot,0.7390000152587891,0.610999984741211,0.01786090061068535,Stoppila Sunzu,a,3602,OpenPlay,2016,LeftFoot,4348,FC Krasnodar,Arsenal Tula,2,0,2017-04-23 15:00:00,Moussa Doumbia,Pass
+126150,28,MissedShots,0.8880000305175781,0.425,0.07722099870443344,Stoppila Sunzu,h,3602,SetPiece,2016,RightFoot,4355,Arsenal Tula,Krylya Sovetov Samara,2,0,2017-04-26 17:30:00,,None
+155280,5,Goal,0.9419999694824219,0.44599998474121094,0.05297420173883438,Stoppila Sunzu,h,3602,FromCorner,2017,Head,6516,Arsenal Tula,Ural,2,2,2017-08-14 17:30:00,Sergey Tkachev,Aerial
+155293,63,MissedShots,0.8969999694824219,0.485,0.018523799255490303,Stoppila Sunzu,h,3602,FromCorner,2017,Head,6516,Arsenal Tula,Ural,2,2,2017-08-14 17:30:00,Kirill Kombarov,Aerial
+156244,78,MissedShots,0.935,0.4640000152587891,0.06033150106668472,Stoppila Sunzu,h,3602,SetPiece,2017,Head,6526,Arsenal Tula,Amkar,0,1,2017-08-26 13:00:00,,Rebound
+156061,10,MissedShots,0.9059999847412109,0.5209999847412109,0.11744999885559082,Stoppila Sunzu,h,3602,OpenPlay,2017,RightFoot,6547,Arsenal Tula,Dinamo Moscow,1,0,2017-09-15 17:30:00,Mihail Aleksandrov,Cross
+199670,92,MissedShots,0.9359999847412109,0.5120000076293946,0.11919199675321579,Stoppila Sunzu,a,3602,FromCorner,2017,Head,6642,Amkar,Arsenal Tula,0,2,2018-03-09 14:30:00,Kantemir Berkhamov,Cross
+206714,77,MissedShots,0.915,0.5209999847412109,0.11309300363063812,Stoppila Sunzu,h,3602,SetPiece,2017,Head,6667,Arsenal Tula,FC Ufa,2,1,2018-04-07 16:00:00,Igor Gorbatenko,Cross
+211919,55,ShotOnPost,0.9469999694824218,0.524000015258789,0.4741800129413605,Stoppila Sunzu,h,3602,SetPiece,2017,Head,6685,Arsenal Tula,Anzhi Makhachkala,2,1,2018-04-28 16:30:00,Kantemir Berkhamov,Cross
+211921,61,Goal,0.9169999694824219,0.48700000762939455,0.25367701053619385,Stoppila Sunzu,h,3602,FromCorner,2017,Head,6685,Arsenal Tula,Anzhi Makhachkala,2,1,2018-04-28 16:30:00,Sergey Tkachev,HeadPass
+310891,7,BlockedShot,0.8919999694824219,0.6140000152587891,0.04483740031719208,Stoppila Sunzu,h,3602,FromCorner,2019,RightFoot,12724,Metz,Monaco,3,0,2019-08-17 19:00:00,Farid Boulaya,Cross
+320750,25,MissedShots,0.9619999694824218,0.575,0.44412800669670105,Stoppila Sunzu,h,3602,SetPiece,2019,RightFoot,12760,Metz,Amiens,1,2,2019-09-21 18:00:00,Renaud Cohade,Cross
+335008,66,MissedShots,0.9359999847412109,0.3609999847412109,0.01847030036151409,Stoppila Sunzu,h,3602,FromCorner,2019,Head,12868,Metz,Rennes,0,1,2019-12-04 18:00:00,Adama Traoré,Cross
+335987,46,MissedShots,0.914000015258789,0.500999984741211,0.052478499710559845,Stoppila Sunzu,a,3602,SetPiece,2019,Head,12870,Nice,Metz,4,1,2019-12-07 19:00:00,Adama Traoré,End

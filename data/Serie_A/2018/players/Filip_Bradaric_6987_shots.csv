@@ -1,0 +1,20 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+224434,0,MissedShots,0.7709999847412109,0.5770000076293945,0.023698899894952774,Filip Bradaric,h,6987,OpenPlay,2018,RightFoot,9607,Cagliari,AC Milan,1,1,2018-09-16 18:30:00,Diego Farias,Pass
+225024,12,MissedShots,0.76,0.595999984741211,0.02138880081474781,Filip Bradaric,a,6987,OpenPlay,2018,LeftFoot,9623,Parma Calcio 1913,Cagliari,2,0,2018-09-22 13:00:00,Nicolò Barella,Pass
+225045,75,BlockedShot,0.71,0.44799999237060545,0.008221619762480259,Filip Bradaric,a,6987,OpenPlay,2018,RightFoot,9623,Parma Calcio 1913,Cagliari,2,0,2018-09-22 13:00:00,,None
+252053,5,BlockedShot,0.6969999694824218,0.34799999237060547,0.011501099914312363,Filip Bradaric,h,6987,OpenPlay,2018,RightFoot,9648,Cagliari,Bologna,2,0,2018-10-06 13:00:00,,BlockedPass
+252484,10,MissedShots,0.715,0.5320000076293945,0.01558270025998354,Filip Bradaric,a,6987,OpenPlay,2018,RightFoot,9659,Fiorentina,Cagliari,1,1,2018-10-21 16:00:00,Fabio Pisacane,Pass
+252668,19,MissedShots,0.97,0.375,0.06669790297746658,Filip Bradaric,h,6987,FromCorner,2018,RightFoot,9668,Cagliari,Chievo,2,1,2018-10-28 13:00:00,,None
+252969,37,OwnGoal,0.05599999904632568,0.4520000076293945,0,Filip Bradaric,a,6987,OpenPlay,2018,RightFoot,9681,Juventus,Cagliari,3,1,2018-11-03 19:30:00,,None
+253224,55,MissedShots,0.8119999694824219,0.285,0.011418400332331657,Filip Bradaric,a,6987,OpenPlay,2018,RightFoot,9694,SPAL 2013,Cagliari,2,2,2018-11-10 17:00:00,,Aerial
+254464,12,MissedShots,0.7980000305175782,0.6859999847412109,0.01814419962465763,Filip Bradaric,h,6987,FromCorner,2018,RightFoot,9730,Cagliari,Napoli,0,1,2018-12-16 17:00:00,,None
+254474,60,MissedShots,0.8209999847412109,0.355,0.041901301592588425,Filip Bradaric,h,6987,OpenPlay,2018,RightFoot,9730,Cagliari,Napoli,0,1,2018-12-16 17:00:00,Paolo Faragò,Pass
+254477,64,BlockedShot,0.7659999847412109,0.6229999923706054,0.019728900864720345,Filip Bradaric,h,6987,OpenPlay,2018,RightFoot,9730,Cagliari,Napoli,0,1,2018-12-16 17:00:00,,None
+254478,64,BlockedShot,0.755,0.595999984741211,0.016352100297808647,Filip Bradaric,h,6987,OpenPlay,2018,RightFoot,9730,Cagliari,Napoli,0,1,2018-12-16 17:00:00,,Rebound
+254484,81,BlockedShot,0.8080000305175781,0.52,0.04748690128326416,Filip Bradaric,h,6987,OpenPlay,2018,RightFoot,9730,Cagliari,Napoli,0,1,2018-12-16 17:00:00,Marco Sau,Pass
+254603,88,MissedShots,0.6919999694824219,0.5690000152587891,0.008653179742395878,Filip Bradaric,a,6987,OpenPlay,2018,RightFoot,9737,Lazio,Cagliari,3,1,2018-12-22 11:30:00,João Pedro,Pass
+263522,45,MissedShots,0.845,0.305,0.02726770006120205,Filip Bradaric,a,6987,OpenPlay,2018,RightFoot,9766,Udinese,Cagliari,2,0,2018-12-29 14:00:00,Alberto Cerri,Pass
+367723,5,SavedShot,0.759000015258789,0.655,0.01844790019094944,Filip Bradaric,a,6987,OpenPlay,2019,RightFoot,12348,Mallorca,Celta Vigo,5,1,2020-06-30 23:00:00,Rafinha,Pass
+367725,18,SavedShot,0.8480000305175781,0.5309999847412109,0.3785949945449829,Filip Bradaric,a,6987,OpenPlay,2019,LeftFoot,12348,Mallorca,Celta Vigo,5,1,2020-06-30 23:00:00,Santi Mina,Pass
+367734,47,SavedShot,0.6840000152587891,0.39799999237060546,0.009067759849131107,Filip Bradaric,a,6987,OpenPlay,2019,RightFoot,12348,Mallorca,Celta Vigo,5,1,2020-06-30 23:00:00,Iago Aspas,Pass
+367740,68,SavedShot,0.8440000152587891,0.5220000076293946,0.05914770066738129,Filip Bradaric,a,6987,FromCorner,2019,RightFoot,12348,Mallorca,Celta Vigo,5,1,2020-06-30 23:00:00,,None

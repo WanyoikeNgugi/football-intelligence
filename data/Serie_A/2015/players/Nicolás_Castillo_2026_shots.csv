@@ -1,0 +1,12 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+28761,81,MissedShots,0.9069999694824219,0.4279999923706055,0.051889900118112564,Nicolás Castillo,a,2026,FromCorner,2014,Head,5262,Hannover 96,Mainz 05,1,1,2015-02-03 19:00:00,Johannes Geis,Cross
+95674,26,MissedShots,0.6990000152587891,0.5259999847412109,0.037655800580978394,Nicolás Castillo,a,2026,DirectFreekick,2015,RightFoot,599,Juventus,Frosinone,1,1,2015-09-23 22:45:00,,Standard
+95675,29,ShotOnPost,0.9219999694824219,0.4640000152587891,0.08892930299043655,Nicolás Castillo,a,2026,SetPiece,2015,RightFoot,599,Juventus,Frosinone,1,1,2015-09-23 22:45:00,Daniel Ciofani,None
+97467,27,MissedShots,0.705,0.5670000076293945,0.03868839889764786,Nicolás Castillo,a,2026,DirectFreekick,2015,RightFoot,635,Udinese,Frosinone,1,0,2015-10-25 18:00:00,,Standard
+97471,46,BlockedShot,0.8440000152587891,0.5579999923706055,0.059831198304891586,Nicolás Castillo,a,2026,OpenPlay,2015,LeftFoot,635,Udinese,Frosinone,1,0,2015-10-25 18:00:00,Mirko Gori,Chipped
+97478,63,MissedShots,0.764000015258789,0.4520000076293945,0.027831200510263443,Nicolás Castillo,a,2026,OpenPlay,2015,LeftFoot,635,Udinese,Frosinone,1,0,2015-10-25 18:00:00,Massimiliano Carlini,Pass
+97479,68,MissedShots,0.92,0.3820000076293945,0.06982029974460602,Nicolás Castillo,a,2026,OpenPlay,2015,RightFoot,635,Udinese,Frosinone,1,0,2015-10-25 18:00:00,,None
+99361,6,SavedShot,0.6880000305175781,0.59,0.014603300020098686,Nicolás Castillo,a,2026,OpenPlay,2015,RightFoot,680,Inter,Frosinone,4,0,2015-11-22 23:45:00,Paolo Sammarco,Pass
+99368,22,SavedShot,0.7219999694824218,0.524000015258789,0.015545999631285667,Nicolás Castillo,a,2026,OpenPlay,2015,RightFoot,680,Inter,Frosinone,4,0,2015-11-22 23:45:00,Luca Paganini,BallRecovery
+99381,58,BlockedShot,0.8919999694824219,0.52,0.0946355015039444,Nicolás Castillo,a,2026,FromCorner,2015,LeftFoot,680,Inter,Frosinone,4,0,2015-11-22 23:45:00,,None
+100952,88,MissedShots,0.71,0.44799999237060545,0.04115549847483635,Nicolás Castillo,a,2026,DirectFreekick,2015,RightFoot,702,Palermo,Frosinone,4,1,2015-12-12 21:00:00,,Standard

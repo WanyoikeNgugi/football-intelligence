@@ -1,0 +1,10 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+561454,43,MissedShots,0.924000015258789,0.47099998474121096,0.049718908965587616,Nathan Zeze,h,11271,FromCorner,2023,Head,23548,Nantes,Lens,0,1,2024-02-03 20:00:00,Florent Mollet,Aerial
+567161,35,MissedShots,0.6769999694824219,0.5209999847412109,0.009099281392991543,Nathan Zeze,h,11271,OpenPlay,2023,LeftFoot,23584,Nantes,Metz,0,2,2024-03-03 14:00:00,,Aerial
+568914,25,BlockedShot,0.935,0.5070000076293946,0.08919844031333923,Nathan Zeze,a,11271,SetPiece,2023,Head,23589,Marseille,Nantes,2,0,2024-03-10 19:45:00,Moses Simon,HeadPass
+596030,45,BlockedShot,0.914000015258789,0.615,0.015458298847079277,Nathan Zeze,a,11271,FromCorner,2024,Head,28102,Lyon,Nantes,2,0,2024-10-06 13:00:00,,Aerial
+599230,48,MissedShots,0.919000015258789,0.5359999847412109,0.09353791177272797,Nathan Zeze,a,11271,FromCorner,2024,Head,28125,Strasbourg,Nantes,3,1,2024-10-27 16:00:00,Sorba Thomas,Cross
+603625,77,SavedShot,0.9030000305175782,0.504000015258789,0.07281280308961868,Nathan Zeze,h,11271,FromCorner,2024,Head,28152,Nantes,Le Havre,0,2,2024-11-24 16:00:00,Moses Simon,Cross
+610428,57,MissedShots,0.9119999694824219,0.4540000152587891,0.025992779061198235,Nathan Zeze,h,11271,FromCorner,2024,Head,28193,Nantes,Monaco,2,2,2025-01-10 18:00:00,Sorba Thomas,Aerial
+630755,80,SavedShot,0.8930000305175781,0.5029999923706054,0.03263844922184944,Nathan Zeze,h,11271,SetPiece,2024,Head,28320,Nantes,Toulouse,0,0,2025-04-27 15:15:00,Meschack Elia,Aerial
+634673,88,MissedShots,0.914000015258789,0.505,0.09376073628664017,Nathan Zeze,h,11271,FromCorner,2024,Head,28347,Nantes,Montpellier,3,0,2025-05-17 19:00:00,Dehmaine Assoumani,Cross

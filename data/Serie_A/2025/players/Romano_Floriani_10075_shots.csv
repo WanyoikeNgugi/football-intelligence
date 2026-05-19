@@ -1,0 +1,6 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+644549,94,MissedShots,0.8330000305175781,0.4909999847412109,0.04570582136511803,Romano Floriani,a,10075,OpenPlay,2025,LeftFoot,29885,Como,Cremonese,1,1,2025-09-27 13:00:00,Giuseppe Pezzella,Cross
+649193,31,MissedShots,0.789000015258789,0.6559999847412109,0.02149137668311596,Romano Floriani,h,10075,OpenPlay,2025,RightFoot,29916,Cremonese,Atalanta,1,1,2025-10-25 18:45:00,Jamie Vardy,Pass
+662215,63,MissedShots,0.8230000305175781,0.55,0.04206746816635132,Romano Floriani,h,10075,SetPiece,2025,RightFoot,30025,Cremonese,Cagliari,2,2,2026-01-08 17:30:00,Martín Payero,Rebound
+666765,92,BlockedShot,0.855,0.4109999847412109,0.038047973066568375,Romano Floriani,h,10075,OpenPlay,2025,LeftFoot,30067,Cremonese,Inter,0,2,2026-02-01 17:00:00,Giuseppe Pezzella,Cross
+677656,22,SavedShot,0.88,0.5159999847412109,0.05293600261211395,Romano Floriani,a,10075,OpenPlay,2025,Head,30156,Cagliari,Cremonese,1,0,2026-04-11 13:00:00,Giuseppe Pezzella,Cross

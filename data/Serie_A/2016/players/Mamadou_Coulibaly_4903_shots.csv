@@ -1,0 +1,14 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+151727,63,MissedShots,0.9490000152587891,0.6430000305175781,0.12069199979305267,Mamadou Coulibaly,h,4903,OpenPlay,2016,RightFoot,3670,Pescara,Roma,1,4,2017-04-24 19:45:00,Alessandro Bruno,TakeOn
+379435,14,MissedShots,0.7619999694824219,0.5120000076293946,0.0273755993694067,Mamadou Coulibaly,a,4903,OpenPlay,2020,RightFoot,14129,Verona,Udinese,1,0,2020-09-27 13:00:00,Stefano Okaka,BallTouch
+379447,48,BlockedShot,0.8230000305175781,0.5359999847412109,0.04808719828724861,Mamadou Coulibaly,a,4903,OpenPlay,2020,RightFoot,14129,Verona,Udinese,1,0,2020-09-27 13:00:00,,Rebound
+427836,69,SavedShot,0.9640000152587891,0.42700000762939455,0.4677729904651642,Mamadou Coulibaly,a,4903,OpenPlay,2021,Head,16760,Bologna,Salernitana,3,2,2021-08-22 16:30:00,,None
+427837,69,Goal,0.9009999847412109,0.3370000076293945,0.06741739809513092,Mamadou Coulibaly,a,4903,OpenPlay,2021,LeftFoot,16760,Bologna,Salernitana,3,2,2021-08-22 16:30:00,,Dispossessed
+429435,28,MissedShots,0.754000015258789,0.5279999923706055,0.021282099187374115,Mamadou Coulibaly,h,4903,OpenPlay,2021,RightFoot,16775,Salernitana,Roma,0,4,2021-08-29 18:45:00,,None
+430373,78,SavedShot,0.7080000305175781,0.4490000152587891,0.017267899587750435,Mamadou Coulibaly,a,4903,OpenPlay,2021,RightFoot,16785,Torino,Salernitana,4,0,2021-09-12 13:00:00,,Rebound
+431585,20,ShotOnPost,0.72,0.5409999847412109,0.012589800171554089,Mamadou Coulibaly,h,4903,OpenPlay,2021,RightFoot,16792,Salernitana,Atalanta,0,1,2021-09-18 18:45:00,,None
+431594,69,MissedShots,0.9259999847412109,0.5329999923706055,0.04924599826335907,Mamadou Coulibaly,h,4903,FromCorner,2021,Head,16792,Salernitana,Atalanta,0,1,2021-09-18 18:45:00,Joel Obi,Aerial
+432550,75,Goal,0.9119999694824219,0.5470000076293945,0.45993098616600037,Mamadou Coulibaly,h,4903,OpenPlay,2021,LeftFoot,16802,Salernitana,Verona,2,2,2021-09-22 16:30:00,Riccardo Gagliolo,TakeOn
+436017,28,BlockedShot,0.8090000152587891,0.4809999847412109,0.0486610010266304,Mamadou Coulibaly,a,4903,OpenPlay,2021,LeftFoot,16833,Spezia,Salernitana,2,1,2021-10-16 13:00:00,,None
+478181,55,BlockedShot,0.7680000305175781,0.580999984741211,0.02615310065448284,Mamadou Coulibaly,h,4903,OpenPlay,2021,RightFoot,17131,Salernitana,Udinese,0,4,2022-05-22 19:00:00,Simone Verdi,Pass
+478199,92,BlockedShot,0.815,0.525,0.057258300483226776,Mamadou Coulibaly,h,4903,OpenPlay,2021,RightFoot,17131,Salernitana,Udinese,0,4,2022-05-22 19:00:00,Franck Ribéry,Pass

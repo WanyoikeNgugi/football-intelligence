@@ -1,0 +1,14 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+218277,83,MissedShots,0.9019999694824219,0.5540000152587891,0.08739549666643143,Yoel Armougom,h,6379,OpenPlay,2018,Head,10658,Caen,Nice,1,1,2018-08-18 21:00:00,Casimir Ninga,Cross
+261579,80,MissedShots,0.7019999694824218,0.4209999847412109,0.017860300838947296,Yoel Armougom,a,6379,FromCorner,2018,LeftFoot,10764,Bordeaux,Caen,0,0,2018-11-11 14:00:00,Frederic Guilbert,Pass
+261764,89,MissedShots,0.6969999694824218,0.37099998474121093,0.008588519878685474,Yoel Armougom,h,6379,SetPiece,2018,LeftFoot,10774,Caen,Monaco,0,1,2018-11-24 19:00:00,,None
+261962,26,BlockedShot,0.715,0.725999984741211,0.011765900067985058,Yoel Armougom,a,6379,OpenPlay,2018,LeftFoot,10791,Angers,Caen,1,1,2018-12-01 19:00:00,Claudio Beauvue,Pass
+262536,57,MissedShots,0.8730000305175781,0.7230000305175781,0.051566001027822495,Yoel Armougom,a,6379,OpenPlay,2018,LeftFoot,10811,Strasbourg,Caen,2,2,2018-12-09 14:00:00,,TakeOn
+262780,79,MissedShots,0.6840000152587891,0.509000015258789,0.011719799600541592,Yoel Armougom,a,6379,OpenPlay,2018,LeftFoot,10829,Reims,Caen,2,2,2018-12-22 19:00:00,,BallRecovery
+282099,96,SavedShot,0.6980000305175781,0.67,0.008820080198347569,Yoel Armougom,h,6379,OpenPlay,2018,LeftFoot,10840,Caen,Lille,1,3,2019-01-11 18:00:00,Faycal Fajr,Pass
+283788,55,MissedShots,0.6459999847412109,0.6509999847412109,0.008077540434896946,Yoel Armougom,a,6379,OpenPlay,2018,LeftFoot,10901,Toulouse,Caen,1,1,2019-02-24 14:00:00,Faycal Fajr,LayOff
+283791,63,MissedShots,0.765,0.6790000152587891,0.017495600506663322,Yoel Armougom,a,6379,OpenPlay,2018,LeftFoot,10901,Toulouse,Caen,1,1,2019-02-24 14:00:00,,Rebound
+283938,91,BlockedShot,0.755,0.48,0.02205139957368374,Yoel Armougom,h,6379,OpenPlay,2018,LeftFoot,10906,Caen,Paris Saint Germain,1,2,2019-03-02 16:00:00,,None
+302851,85,MissedShots,0.7130000305175781,0.5509999847412109,0.010170100256800652,Yoel Armougom,a,6379,OpenPlay,2018,LeftFoot,11006,Lyon,Caen,4,0,2019-05-18 19:00:00,Prince Oniangué,BlockedPass
+564369,49,MissedShots,0.8009999847412109,0.63,0.027745604515075684,Yoel Armougom,a,6379,FromCorner,2023,LeftFoot,23561,Rennes,Clermont Foot,3,1,2024-02-18 14:00:00,Maxime Gonalons,Pass
+571270,32,BlockedShot,0.735,0.674000015258789,0.017741534858942032,Yoel Armougom,h,6379,SetPiece,2023,LeftFoot,23611,Clermont Foot,Toulouse,0,3,2024-03-31 14:00:00,Muhammed-Cham Saracevic,Pass

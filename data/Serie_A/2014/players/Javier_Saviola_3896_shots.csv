@@ -1,0 +1,14 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+42259,25,SavedShot,0.9619999694824218,0.46599998474121096,0.6222749948501587,Javier Saviola,h,3896,OpenPlay,2014,RightFoot,5131,Verona,Genoa,2,2,2014-09-24 19:45:00,,None
+42271,46,SavedShot,0.7930000305175782,0.27399999618530274,0.017994500696659088,Javier Saviola,h,3896,OpenPlay,2014,RightFoot,5131,Verona,Genoa,2,2,2014-09-24 19:45:00,Gustavo Campanharo,Pass
+46291,18,BlockedShot,0.889000015258789,0.54,0.08234920352697372,Javier Saviola,h,3896,SetPiece,2014,LeftFoot,4973,Verona,Parma,3,1,2015-01-11 14:00:00,Luca Toni,HeadPass
+46293,32,SavedShot,0.879000015258789,0.3509999847412109,0.3436160087585449,Javier Saviola,h,3896,OpenPlay,2014,RightFoot,4973,Verona,Parma,3,1,2015-01-11 14:00:00,Jacopo Sala,Chipped
+46294,32,MissedShots,0.89,0.40900001525878904,0.1368730068206787,Javier Saviola,h,3896,OpenPlay,2014,RightFoot,4973,Verona,Parma,3,1,2015-01-11 14:00:00,,Rebound
+46340,24,SavedShot,0.9269999694824219,0.52,0.40484800934791565,Javier Saviola,h,3896,OpenPlay,2014,Head,4990,Verona,Atalanta,1,0,2015-01-25 14:00:00,Panagiotis Tachtsidis,Cross
+46349,50,MissedShots,0.79,0.5329999923706055,0.04036860167980194,Javier Saviola,h,3896,OpenPlay,2014,RightFoot,4990,Verona,Atalanta,1,0,2015-01-25 14:00:00,Rafael Marques,Pass
+46351,52,Goal,0.9569999694824218,0.4229999923706055,0.5148270130157471,Javier Saviola,h,3896,OpenPlay,2014,LeftFoot,4990,Verona,Atalanta,1,0,2015-01-25 14:00:00,Lazaros Christodoulopoulos,Pass
+46358,72,MissedShots,0.94,0.48200000762939454,0.6828879714012146,Javier Saviola,h,3896,OpenPlay,2014,LeftFoot,4990,Verona,Atalanta,1,0,2015-01-25 14:00:00,,Rebound
+46715,89,MissedShots,0.840999984741211,0.3120000076293945,0.03909970074892044,Javier Saviola,a,3896,FromCorner,2014,LeftFoot,4924,Palermo,Verona,2,1,2015-02-01 14:00:00,Lazaros Christodoulopoulos,Rebound
+47094,19,MissedShots,0.7719999694824219,0.5370000076293945,0.02923930063843727,Javier Saviola,h,3896,OpenPlay,2014,LeftFoot,4927,Verona,Torino,1,3,2015-02-07 17:00:00,,None
+47105,60,SavedShot,0.9069999694824219,0.6469999694824219,0.06235169991850853,Javier Saviola,h,3896,SetPiece,2014,RightFoot,4927,Verona,Torino,1,3,2015-02-07 17:00:00,,None
+48662,81,BlockedShot,0.8980000305175782,0.49400001525878906,0.08001910150051117,Javier Saviola,h,3896,OpenPlay,2014,RightFoot,4842,Verona,Inter,0,3,2015-04-11 19:45:00,,None

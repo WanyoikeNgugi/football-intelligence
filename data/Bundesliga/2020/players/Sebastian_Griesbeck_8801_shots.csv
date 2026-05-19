@@ -1,0 +1,14 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+385521,39,SavedShot,0.9359999847412109,0.4329999923706055,0.31870201230049133,Sebastian Griesbeck,a,8801,OpenPlay,2020,Head,15193,Hoffenheim,Union Berlin,1,3,2020-11-02 19:30:00,Christopher Lenz,Chipped
+389876,87,MissedShots,0.94,0.38799999237060545,0.06400009989738464,Sebastian Griesbeck,a,8801,OpenPlay,2020,LeftFoot,15225,Hertha Berlin,Union Berlin,3,1,2020-12-04 19:30:00,Max Kruse,Cross
+392626,35,BlockedShot,0.705,0.38799999237060545,0.012937200255692005,Sebastian Griesbeck,a,8801,OpenPlay,2020,RightFoot,15244,VfB Stuttgart,Union Berlin,2,2,2020-12-15 19:30:00,,TakeOn
+397840,54,MissedShots,0.9469999694824218,0.66,0.0167130995541811,Sebastian Griesbeck,h,8801,OpenPlay,2020,Head,15270,Union Berlin,Wolfsburg,2,2,2021-01-09 14:30:00,Christopher Lenz,Pass
+433095,67,OwnGoal,0.03799999952316284,0.5309999847412109,0,Sebastian Griesbeck,h,8801,SetPiece,2021,RightFoot,17561,Greuther Fuerth,Bayern Munich,1,3,2021-09-24 18:30:00,,Card
+433097,73,SavedShot,0.8580000305175781,0.5870000076293945,0.07916650176048279,Sebastian Griesbeck,h,8801,OpenPlay,2021,LeftFoot,17561,Greuther Fuerth,Bayern Munich,1,3,2021-09-24 18:30:00,Dickson Abiama,Pass
+437652,18,BlockedShot,0.69,0.37,0.009354690089821815,Sebastian Griesbeck,a,8801,OpenPlay,2021,RightFoot,17595,RasenBallsport Leipzig,Greuther Fuerth,4,1,2021-10-23 13:30:00,,None
+442433,20,MissedShots,0.935,0.4259999847412109,0.08718930184841156,Sebastian Griesbeck,a,8801,FromCorner,2021,Head,17620,Borussia M.Gladbach,Greuther Fuerth,4,0,2021-11-20 14:30:00,Julian Green,Cross
+442447,71,MissedShots,0.9619999694824218,0.5940000152587891,0.10092800110578537,Sebastian Griesbeck,a,8801,SetPiece,2021,Head,17620,Borussia M.Gladbach,Greuther Fuerth,4,0,2021-11-20 14:30:00,Jamie Leweling,Cross
+456351,61,BlockedShot,0.9340000152587891,0.54,0.05869179964065552,Sebastian Griesbeck,a,8801,FromCorner,2021,Head,17702,Wolfsburg,Greuther Fuerth,4,1,2022-02-06 16:30:00,Timothy Tillman,Aerial
+458786,60,OwnGoal,0.04400000095367432,0.49,0,Sebastian Griesbeck,a,8801,OpenPlay,2021,RightFoot,17722,Bayern Munich,Greuther Fuerth,4,1,2022-02-20 14:30:00,,Challenge
+459773,68,Goal,0.9530000305175781,0.4520000076293945,0.12928900122642517,Sebastian Griesbeck,h,8801,FromCorner,2021,Head,17723,Greuther Fuerth,FC Cologne,1,1,2022-02-26 14:30:00,Gian-Luca Itter,Cross
+466678,29,MissedShots,0.9259999847412109,0.46299999237060546,0.3397659957408905,Sebastian Griesbeck,h,8801,FromCorner,2021,Head,17768,Greuther Fuerth,Borussia M.Gladbach,0,2,2022-04-09 13:30:00,Gian-Luca Itter,Cross

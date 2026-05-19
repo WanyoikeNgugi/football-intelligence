@@ -1,0 +1,8 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+538820,87,SavedShot,0.76,0.265,0.018224790692329407,Aliou Balde,a,12052,OpenPlay,2023,LeftFoot,23417,Monaco,Nice,0,1,2023-09-22 19:00:00,Youssouf Ndayishimiye,Pass
+545131,80,SavedShot,0.925,0.3139999961853027,0.06426942348480225,Aliou Balde,a,12052,OpenPlay,2023,LeftFoot,23455,Clermont Foot,Nice,0,1,2023-10-27 19:00:00,,Rebound
+571315,94,BlockedShot,0.8619999694824219,0.345,0.03172389790415764,Aliou Balde,h,12052,OpenPlay,2023,RightFoot,23610,Nice,Nantes,1,2,2024-03-31 14:00:00,,TakeOn
+586030,80,BlockedShot,0.8119999694824219,0.4909999847412109,0.051838383078575134,Aliou Balde,a,12052,OpenPlay,2024,LeftFoot,27743,RasenBallsport Leipzig,Bochum,1,0,2024-08-24 13:30:00,Matús Bero,TakeOn
+589123,46,MissedShots,0.7869999694824219,0.7480000305175781,0.030993448570370674,Aliou Balde,h,12052,OpenPlay,2024,LeftFoot,27752,Bochum,Borussia M.Gladbach,0,2,2024-08-31 13:30:00,Ibrahima Sissoko,BallRecovery
+589125,50,BlockedShot,0.81,0.51,0.05196557939052582,Aliou Balde,h,12052,OpenPlay,2024,RightFoot,27752,Bochum,Borussia M.Gladbach,0,2,2024-08-31 13:30:00,Matús Bero,Pass
+589128,60,SavedShot,0.685,0.6930000305175781,0.018316445872187614,Aliou Balde,h,12052,FromCorner,2024,RightFoot,27752,Bochum,Borussia M.Gladbach,0,2,2024-08-31 13:30:00,Matús Bero,Pass

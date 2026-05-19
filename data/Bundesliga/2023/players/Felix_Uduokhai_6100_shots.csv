@@ -1,0 +1,44 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+168433,58,MissedShots,0.885,0.3189999961853027,0.040070898830890656,Felix Uduokhai,h,6100,FromCorner,2017,LeftFoot,8339,Wolfsburg,Hoffenheim,1,1,2017-10-22 17:00:00,,None
+168442,90,Goal,0.9209999847412109,0.5540000152587891,0.03486049920320511,Felix Uduokhai,h,6100,FromCorner,2017,Head,8339,Wolfsburg,Hoffenheim,1,1,2017-10-22 17:00:00,Daniel Didavi,Aerial
+208099,29,MissedShots,0.7080000305175781,0.7819999694824219,0.010731300339102745,Felix Uduokhai,h,6100,OpenPlay,2017,LeftFoot,8527,Wolfsburg,Augsburg,0,0,2018-04-13 18:30:00,Riechedly Bazoer,Pass
+208114,78,MissedShots,0.919000015258789,0.38599998474121094,0.045419301837682724,Felix Uduokhai,h,6100,SetPiece,2017,Head,8527,Wolfsburg,Augsburg,0,0,2018-04-13 18:30:00,Maximilian Arnold,Cross
+257114,43,MissedShots,0.899000015258789,0.40400001525878904,0.013339799828827381,Felix Uduokhai,h,6100,FromCorner,2018,Head,10462,Wolfsburg,Hoffenheim,2,2,2018-12-08 14:30:00,Admir Mehmedi,Aerial
+322491,62,MissedShots,0.6759999847412109,0.445,0.012647200375795364,Felix Uduokhai,h,6100,OpenPlay,2019,LeftFoot,12451,Augsburg,Bayer Leverkusen,0,3,2019-09-28 13:30:00,Alfred Finnbogason,Pass
+322494,72,MissedShots,0.9030000305175782,0.5120000076293946,0.07380689680576324,Felix Uduokhai,h,6100,FromCorner,2019,Head,12451,Augsburg,Bayer Leverkusen,0,3,2019-09-28 13:30:00,Philipp Max,Cross
+324622,50,MissedShots,0.8880000305175781,0.40299999237060546,0.04676369950175285,Felix Uduokhai,a,6100,FromCorner,2019,RightFoot,12465,Borussia M.Gladbach,Augsburg,5,1,2019-10-06 12:30:00,Philipp Max,Cross
+324632,88,BlockedShot,0.885,0.5209999847412109,0.015874899923801422,Felix Uduokhai,a,6100,FromCorner,2019,Head,12465,Borussia M.Gladbach,Augsburg,5,1,2019-10-06 12:30:00,Philipp Max,Aerial
+377391,45,SavedShot,0.9080000305175782,0.4540000152587891,0.06894659996032715,Felix Uduokhai,a,6100,SetPiece,2020,Head,14175,Union Berlin,Augsburg,1,3,2020-09-19 13:30:00,Daniel Caligiuri,Chipped
+378796,39,Goal,0.9690000152587891,0.509000015258789,0.6759380102157593,Felix Uduokhai,h,6100,SetPiece,2020,Head,14184,Augsburg,Borussia Dortmund,2,0,2020-09-26 13:30:00,Daniel Caligiuri,Cross
+384534,16,BlockedShot,0.97,0.5870000076293945,0.06873179972171783,Felix Uduokhai,h,6100,FromCorner,2020,OtherBodyPart,15187,Augsburg,Mainz 05,3,1,2020-10-31 14:30:00,Daniel Caligiuri,Foul
+396399,83,BlockedShot,0.94,0.47,0.07782089710235596,Felix Uduokhai,a,6100,FromCorner,2020,Head,15262,FC Cologne,Augsburg,0,1,2021-01-02 14:30:00,Florian Niederlechner,Aerial
+400009,45,BlockedShot,0.8859999847412109,0.6680000305175782,0.05608249828219414,Felix Uduokhai,h,6100,SetPiece,2020,RightFoot,15291,Augsburg,Bayern Munich,0,1,2021-01-20 19:30:00,Daniel Caligiuri,Chipped
+400018,91,MissedShots,0.9590000152587891,0.4570000076293945,0.12400300055742264,Felix Uduokhai,h,6100,OpenPlay,2020,Head,15291,Augsburg,Bayern Munich,0,1,2021-01-20 19:30:00,Fredrik Jensen,Cross
+401630,74,OwnGoal,0.03,0.41700000762939454,0,Felix Uduokhai,a,6100,OpenPlay,2020,RightFoot,15303,Borussia Dortmund,Augsburg,3,1,2021-01-30 14:30:00,,Challenge
+403163,53,MissedShots,0.8909999847412109,0.5659999847412109,0.03632970154285431,Felix Uduokhai,h,6100,FromCorner,2020,Head,15318,Augsburg,Wolfsburg,0,2,2021-02-06 14:30:00,László Bénes,Cross
+408462,56,SavedShot,0.865,0.5479999923706055,0.042281899601221085,Felix Uduokhai,a,6100,SetPiece,2020,Head,15347,Hertha Berlin,Augsburg,2,1,2021-03-06 14:30:00,Daniel Caligiuri,Chipped
+409604,35,MissedShots,0.7019999694824218,0.5259999847412109,0.013325500302016735,Felix Uduokhai,h,6100,OpenPlay,2020,LeftFoot,15362,Augsburg,Borussia M.Gladbach,3,1,2021-03-12 19:30:00,Marco Richter,Pass
+411972,58,MissedShots,0.8919999694824219,0.5059999847412109,0.06832750141620636,Felix Uduokhai,a,6100,FromCorner,2020,Head,15367,Freiburg,Augsburg,2,0,2021-03-21 17:00:00,László Bénes,Cross
+411986,91,MissedShots,0.7119999694824218,0.5540000152587891,0.010477700270712376,Felix Uduokhai,a,6100,OpenPlay,2020,LeftFoot,15367,Freiburg,Augsburg,2,0,2021-03-21 17:00:00,Ruben Vargas,Pass
+414510,60,BlockedShot,0.955999984741211,0.6020000076293945,0.07791510224342346,Felix Uduokhai,a,6100,SetPiece,2020,LeftFoot,15387,Schalke 04,Augsburg,1,0,2021-04-11 13:30:00,Marco Richter,HeadPass
+416239,35,MissedShots,0.945,0.455,0.06863579899072647,Felix Uduokhai,a,6100,FromCorner,2020,Head,15404,Eintracht Frankfurt,Augsburg,2,0,2021-04-20 18:30:00,László Bénes,Aerial
+425754,42,MissedShots,0.9380000305175781,0.47200000762939454,0.12479300051927567,Felix Uduokhai,h,6100,FromCorner,2021,Head,17518,Augsburg,Hoffenheim,0,4,2021-08-14 13:30:00,Fredrik Jensen,Cross
+428574,59,MissedShots,0.86,0.4279999923706055,0.03456659987568855,Felix Uduokhai,h,6100,SetPiece,2021,Head,17537,Augsburg,Bayer Leverkusen,1,4,2021-08-28 13:30:00,Niklas Dorsch,Chipped
+506817,52,MissedShots,0.9159999847412109,0.5579999923706055,0.07510659843683243,Felix Uduokhai,h,6100,FromCorner,2022,Head,19511,Augsburg,Bayer Leverkusen,1,0,2023-02-03 19:30:00,Arne Engels,Cross
+508251,76,SavedShot,0.9159999847412109,0.5,0.10018199682235718,Felix Uduokhai,a,6100,FromCorner,2022,Head,19517,Mainz 05,Augsburg,3,1,2023-02-11 14:30:00,Mërgim Berisha,Cross
+522637,47,BlockedShot,0.9280000305175782,0.48200000762939454,0.05341292545199394,Felix Uduokhai,a,6100,FromCorner,2022,Head,19607,Eintracht Frankfurt,Augsburg,1,1,2023-04-29 13:30:00,Arne Maier,OffsideProvoked
+525809,11,BlockedShot,0.9209999847412109,0.539000015258789,0.052387598901987076,Felix Uduokhai,a,6100,FromCorner,2022,Head,19628,Bochum,Augsburg,3,2,2023-05-13 13:30:00,,None
+533024,44,MissedShots,0.860999984741211,0.3270000076293945,0.04121088236570358,Felix Uduokhai,h,6100,OpenPlay,2023,LeftFoot,23069,Augsburg,Borussia M.Gladbach,4,4,2023-08-19 13:30:00,Ermedin Demirovic,Pass
+535458,31,OwnGoal,0.05,0.534000015258789,0,Felix Uduokhai,a,6100,OpenPlay,2023,RightFoot,23082,Bayern Munich,Augsburg,3,1,2023-08-27 15:30:00,,None
+544802,63,Goal,0.9590000152587891,0.51,0.62162846326828,Felix Uduokhai,a,6100,FromCorner,2023,OtherBodyPart,23136,FC Heidenheim,Augsburg,2,5,2023-10-22 15:30:00,Fredrik Jensen,Cross
+548292,6,MissedShots,0.9230000305175782,0.54,0.10142799466848373,Felix Uduokhai,h,6100,FromCorner,2023,Head,23161,Augsburg,Hoffenheim,1,1,2023-11-11 14:30:00,Fredrik Jensen,Cross
+555673,48,SavedShot,0.955999984741211,0.43900001525878907,0.11172821372747421,Felix Uduokhai,a,6100,OpenPlay,2023,RightFoot,23207,VfB Stuttgart,Augsburg,3,0,2023-12-20 19:30:00,Phillip Tietz,HeadPass
+559372,34,MissedShots,0.9430000305175781,0.6090000152587891,0.01667025312781334,Felix Uduokhai,a,6100,FromCorner,2023,Head,23222,Borussia M.Gladbach,Augsburg,1,2,2024-01-21 16:30:00,Fredrik Jensen,Aerial
+559786,54,MissedShots,0.9330000305175781,0.3920000076293945,0.014702878892421722,Felix Uduokhai,h,6100,FromCorner,2023,Head,23234,Augsburg,Bayern Munich,2,3,2024-01-27 14:30:00,Fredrik Jensen,Aerial
+562380,63,MissedShots,0.945,0.4859999847412109,0.10265003889799118,Felix Uduokhai,h,6100,SetPiece,2023,Head,23251,Augsburg,RasenBallsport Leipzig,2,2,2024-02-10 14:30:00,Fredrik Jensen,Aerial
+565870,48,MissedShots,0.9690000152587891,0.395,0.015479285269975662,Felix Uduokhai,h,6100,FromCorner,2023,Head,23264,Augsburg,Freiburg,2,1,2024-02-25 18:30:00,Fredrik Jensen,Aerial
+565878,71,Goal,0.9730000305175781,0.47,0.7871133685112,Felix Uduokhai,h,6100,OpenPlay,2023,RightFoot,23264,Augsburg,Freiburg,2,1,2024-02-25 18:30:00,,Rebound
+569327,41,MissedShots,0.9380000305175781,0.3039999961853027,0.04839058965444565,Felix Uduokhai,a,6100,OpenPlay,2023,RightFoot,23293,Wolfsburg,Augsburg,1,3,2024-03-16 14:30:00,,None
+571367,82,MissedShots,0.8880000305175781,0.5570000076293945,0.054841186851263046,Felix Uduokhai,h,6100,SetPiece,2023,Head,23306,Augsburg,FC Cologne,1,1,2024-03-31 14:30:00,Arne Maier,Cross
+571370,94,BlockedShot,0.8909999847412109,0.5159999847412109,0.09156928956508636,Felix Uduokhai,h,6100,OpenPlay,2023,RightFoot,23306,Augsburg,FC Cologne,1,1,2024-03-31 14:30:00,,None
+579507,41,BlockedShot,0.855999984741211,0.345,0.057014089077711105,Felix Uduokhai,h,6100,OpenPlay,2023,RightFoot,23360,Augsburg,VfB Stuttgart,0,1,2024-05-10 18:30:00,Jeffrey Gouweleeuw,BallTouch

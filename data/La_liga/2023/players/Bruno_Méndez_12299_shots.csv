@@ -1,0 +1,9 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+558340,54,SavedShot,0.9459999847412109,0.395,0.07292661815881729,Bruno Méndez,a,12299,SetPiece,2023,Head,22879,Real Betis,Granada,1,0,2024-01-13 20:00:00,Bryan Zaragoza,Cross
+559500,76,BlockedShot,0.950999984741211,0.595,0.12176858633756638,Bruno Méndez,h,12299,FromCorner,2023,RightFoot,22890,Granada,Atletico Madrid,0,1,2024-01-22 20:00:00,Lucas Boyé,Rebound
+560506,67,MissedShots,0.7380000305175781,0.3390000152587891,0.009369838051497936,Bruno Méndez,a,12299,OpenPlay,2023,RightFoot,22898,Getafe,Granada,2,0,2024-01-29 20:00:00,,None
+561285,39,MissedShots,0.9109999847412109,0.5659999847412109,0.06653539091348648,Bruno Méndez,h,12299,FromCorner,2023,Head,22909,Granada,Las Palmas,1,1,2024-02-03 15:15:00,Gonzalo Villar,Cross
+561286,42,Goal,0.8540000152587891,0.40299999237060546,0.03426535055041313,Bruno Méndez,h,12299,SetPiece,2023,LeftFoot,22909,Granada,Las Palmas,1,1,2024-02-03 15:15:00,Sergio Ruiz,Pass
+570307,85,MissedShots,0.7519999694824219,0.39099998474121095,0.018343593925237656,Bruno Méndez,a,12299,OpenPlay,2023,RightFoot,22977,Cadiz,Granada,1,0,2024-03-29 20:00:00,,BallTouch
+580070,19,SavedShot,0.88,0.4159999847412109,0.03788294270634651,Bruno Méndez,h,12299,FromCorner,2023,Head,23029,Granada,Real Madrid,0,4,2024-05-11 16:30:00,Ignasi Miquel,HeadPass
+582505,85,Goal,0.9059999847412109,0.28,0.036682963371276855,Bruno Méndez,h,12299,OpenPlay,2023,RightFoot,23052,Granada,Celta Vigo,1,2,2024-05-19 17:00:00,,None

@@ -1,0 +1,24 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+32678,15,MissedShots,0.85,0.649000015258789,0.04056549817323685,Alberto De la Bella,h,2239,SetPiece,2014,LeftFoot,5844,Real Sociedad,Real Madrid,4,2,2014-08-31 20:00:00,Imanol Agirretxe,HeadPass
+32680,21,MissedShots,0.7,0.5470000076293945,0.012996800243854523,Alberto De la Bella,h,2239,FromCorner,2014,LeftFoot,5844,Real Sociedad,Real Madrid,4,2,2014-08-31 20:00:00,,None
+32898,77,BlockedShot,0.7390000152587891,0.59,0.014984799548983574,Alberto De la Bella,a,2239,OpenPlay,2014,RightFoot,5790,Celta Vigo,Real Sociedad,2,2,2014-09-13 21:00:00,,None
+33261,25,SavedShot,0.9169999694824219,0.61,0.10017900168895721,Alberto De la Bella,h,2239,OpenPlay,2014,RightFoot,5801,Real Sociedad,Almeria,1,2,2014-09-21 11:00:00,,Rebound
+33263,29,OwnGoal,0.1,0.5870000076293945,0,Alberto De la Bella,h,2239,OpenPlay,2014,OtherBodyPart,5801,Real Sociedad,Almeria,1,2,2014-09-21 11:00:00,,Clearance
+33275,65,BlockedShot,0.755,0.6170000076293946,0.014670499600470066,Alberto De la Bella,h,2239,OpenPlay,2014,LeftFoot,5801,Real Sociedad,Almeria,1,2,2014-09-21 11:00:00,,None
+35748,47,SavedShot,0.8669999694824219,0.66,0.23191699385643005,Alberto De la Bella,h,2239,OpenPlay,2014,LeftFoot,5745,Real Sociedad,Elche,3,0,2014-11-28 19:45:00,Alfred Finnbogason,Pass
+37593,76,BlockedShot,0.749000015258789,0.6530000305175782,0.021429000422358513,Alberto De la Bella,h,2239,OpenPlay,2014,LeftFoot,5650,Real Sociedad,Barcelona,1,0,2015-01-04 20:00:00,,None
+41328,24,MissedShots,0.94,0.674000015258789,0.014241400174796581,Alberto De la Bella,h,2239,OpenPlay,2014,Head,5633,Real Sociedad,Sevilla,4,3,2015-02-22 11:00:00,Xabi Prieto,Cross
+41330,28,MissedShots,0.8930000305175781,0.6880000305175781,0.06881940364837646,Alberto De la Bella,h,2239,OpenPlay,2014,LeftFoot,5633,Real Sociedad,Sevilla,4,3,2015-02-22 11:00:00,,None
+41340,57,MissedShots,0.8219999694824218,0.68,0.04860379919409752,Alberto De la Bella,h,2239,OpenPlay,2014,RightFoot,5633,Real Sociedad,Sevilla,4,3,2015-02-22 11:00:00,,None
+39703,70,MissedShots,0.905,0.46700000762939453,0.09211859852075577,Alberto De la Bella,a,2239,OpenPlay,2014,Head,5566,Valencia,Real Sociedad,2,0,2015-03-01 11:00:00,Xabi Prieto,Cross
+36571,59,Goal,0.879000015258789,0.6819999694824219,0.09339349716901779,Alberto De la Bella,a,2239,OpenPlay,2014,RightFoot,5556,Athletic Club,Real Sociedad,1,1,2015-04-28 21:00:00,Rubén Pardo,Throughball
+84428,92,MissedShots,0.745,0.385,0.013286800123751163,Alberto De la Bella,h,2239,FromCorner,2015,LeftFoot,1410,Real Sociedad,Sporting Gijon,0,0,2015-08-29 20:30:00,,Aerial
+84644,67,BlockedShot,0.759000015258789,0.6580000305175782,0.01636430062353611,Alberto De la Bella,a,2239,OpenPlay,2015,LeftFoot,1423,Real Betis,Real Sociedad,1,0,2015-09-13 00:00:00,,None
+85761,63,MissedShots,0.7080000305175781,0.6020000076293945,0.011859400197863579,Alberto De la Bella,h,2239,FromCorner,2015,LeftFoot,1433,Real Sociedad,Espanyol,2,3,2015-09-20 00:00:00,,Aerial
+91090,41,MissedShots,0.889000015258789,0.6329999923706054,0.108024001121521,Alberto De la Bella,h,2239,OpenPlay,2015,RightFoot,1712,Real Sociedad,Barcelona,1,0,2016-04-09 22:30:00,David Zurutuza,TakeOn
+170061,79,MissedShots,0.784000015258789,0.6759999847412109,0.014388499781489372,Alberto De la Bella,a,2239,FromCorner,2017,LeftFoot,7919,Levante,Real Sociedad,3,0,2017-09-21 21:00:00,,Aerial
+179936,72,MissedShots,0.860999984741211,0.6419999694824219,0.02699350006878376,Alberto De la Bella,h,2239,OpenPlay,2017,LeftFoot,8023,Real Sociedad,Malaga,0,2,2017-12-10 11:00:00,Álvaro Odriozola,Cross
+179939,83,SavedShot,0.789000015258789,0.5879999923706055,0.03338479995727539,Alberto De la Bella,h,2239,OpenPlay,2017,LeftFoot,8023,Real Sociedad,Malaga,0,2,2017-12-10 11:00:00,Jon Bautista,Pass
+179942,93,MissedShots,0.9630000305175781,0.6140000152587891,0.0236285999417305,Alberto De la Bella,h,2239,OpenPlay,2017,Head,8023,Real Sociedad,Malaga,0,2,2017-12-10 11:00:00,Xabi Prieto,Chipped
+195402,91,MissedShots,0.7980000305175782,0.725999984741211,0.01998629979789257,Alberto De la Bella,a,2239,OpenPlay,2017,LeftFoot,8100,Real Madrid,Real Sociedad,5,2,2018-02-10 19:45:00,Igor Zubeldia,Pass
+198476,92,BlockedShot,0.7930000305175782,0.735999984741211,0.014543100260198116,Alberto De la Bella,a,2239,OpenPlay,2017,LeftFoot,8129,Real Betis,Real Sociedad,0,0,2018-03-01 18:30:00,,None

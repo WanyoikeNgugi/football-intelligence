@@ -1,0 +1,43 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+32488,69,BlockedShot,0.769000015258789,0.43900001525878907,0.024818599224090576,Markel Bergara,a,2231,OpenPlay,2014,RightFoot,5830,Eibar,Real Sociedad,1,0,2014-08-24 18:00:00,Imanol Agirretxe,Pass
+33270,52,ShotOnPost,0.9059999847412109,0.47200000762939454,0.09814959764480591,Markel Bergara,h,2231,SetPiece,2014,Head,5801,Real Sociedad,Almeria,1,2,2014-09-21 11:00:00,Sergio Canales,Cross
+33074,30,MissedShots,0.749000015258789,0.44,0.014358799904584885,Markel Bergara,h,2231,SetPiece,2014,LeftFoot,5824,Real Sociedad,Valencia,1,1,2014-09-28 18:00:00,,None
+33077,51,BlockedShot,0.765,0.5709999847412109,0.020343000069260597,Markel Bergara,h,2231,FromCorner,2014,RightFoot,5824,Real Sociedad,Valencia,1,1,2014-09-28 18:00:00,,None
+33080,59,BlockedShot,0.8780000305175781,0.5790000152587891,0.03838200122117996,Markel Bergara,h,2231,FromCorner,2014,Head,5824,Real Sociedad,Valencia,1,1,2014-09-28 18:00:00,Elustondo,HeadPass
+34099,49,MissedShots,0.9059999847412109,0.58,0.049681201577186584,Markel Bergara,a,2231,FromCorner,2014,Head,5762,Espanyol,Real Sociedad,2,0,2014-10-05 18:00:00,Carlos Vela,Cross
+34813,46,MissedShots,0.8930000305175781,0.515,0.06751830130815506,Markel Bergara,h,2231,SetPiece,2014,Head,5773,Real Sociedad,Getafe,1,2,2014-10-20 19:45:00,Gonzalo Castro,Chipped
+35753,67,BlockedShot,0.7430000305175781,0.425,0.01156890019774437,Markel Bergara,h,2231,OpenPlay,2014,RightFoot,5745,Real Sociedad,Elche,3,0,2014-11-28 19:45:00,,Aerial
+38167,89,MissedShots,0.8369999694824218,0.45799999237060546,0.053278598934412,Markel Bergara,a,2231,OpenPlay,2014,RightFoot,5683,Real Madrid,Real Sociedad,4,1,2015-01-31 15:00:00,,None
+36561,15,MissedShots,0.7859999847412109,0.6079999923706054,0.029392000287771225,Markel Bergara,a,2231,OpenPlay,2014,RightFoot,5556,Athletic Club,Real Sociedad,1,1,2015-04-28 21:00:00,,None
+36566,42,SavedShot,0.915,0.6370000076293946,0.016278300434350967,Markel Bergara,a,2231,OpenPlay,2014,Head,5556,Athletic Club,Real Sociedad,1,1,2015-04-28 21:00:00,Gonzalo Castro,Aerial
+37100,50,Goal,0.9330000305175781,0.54,0.12103500217199326,Markel Bergara,h,2231,FromCorner,2014,Head,5465,Real Sociedad,Levante,3,0,2015-05-01 19:45:00,Rubén Pardo,Cross
+37411,34,BlockedShot,0.8880000305175781,0.485,0.08705960214138031,Markel Bergara,a,2231,OpenPlay,2014,LeftFoot,5477,Barcelona,Real Sociedad,2,0,2015-05-09 17:00:00,,None
+85883,20,BlockedShot,0.75,0.5159999847412109,0.022148599848151207,Markel Bergara,h,2231,OpenPlay,2015,LeftFoot,1494,Real Sociedad,Celta Vigo,2,3,2015-11-01 01:05:00,Asier Illarramendi,Pass
+85909,83,MissedShots,0.9359999847412109,0.539000015258789,0.1250630021095276,Markel Bergara,h,2231,FromCorner,2015,Head,1494,Real Sociedad,Celta Vigo,2,3,2015-11-01 01:05:00,Asier Illarramendi,Cross
+87631,58,MissedShots,0.7390000152587891,0.5129999923706055,0.017801599577069283,Markel Bergara,a,2231,OpenPlay,2015,RightFoot,1571,Rayo Vallecano,Real Sociedad,2,2,2016-01-03 15:00:00,,BallTouch
+89489,79,SavedShot,0.8109999847412109,0.3529999923706055,0.03733859956264496,Markel Bergara,h,2231,OpenPlay,2015,RightFoot,1612,Real Sociedad,Real Betis,2,1,2016-01-31 01:05:00,Carlos Vela,TakeOn
+89677,83,BlockedShot,0.8730000305175781,0.6079999923706054,0.05591969937086105,Markel Bergara,h,2231,FromCorner,2015,RightFoot,1633,Real Sociedad,Granada,3,0,2016-02-14 15:00:00,Xabi Prieto,Pass
+91690,1,Goal,0.9,0.46799999237060547,0.09513039886951447,Markel Bergara,a,2231,SetPiece,2015,Head,1707,Sevilla,Real Sociedad,1,2,2016-04-03 22:30:00,Asier Illarramendi,Cross
+91697,30,MissedShots,0.7669999694824219,0.655,0.027493299916386604,Markel Bergara,a,2231,OpenPlay,2015,RightFoot,1707,Sevilla,Real Sociedad,1,2,2016-04-03 22:30:00,,None
+90567,33,SavedShot,0.86,0.4570000076293945,0.03476300090551376,Markel Bergara,a,2231,SetPiece,2015,Head,1722,Eibar,Real Sociedad,2,1,2016-04-16 22:30:00,Asier Illarramendi,Cross
+90569,48,SavedShot,0.899000015258789,0.500999984741211,0.09862630069255829,Markel Bergara,a,2231,OpenPlay,2015,Head,1722,Eibar,Real Sociedad,2,1,2016-04-16 22:30:00,Xabi Prieto,Cross
+90573,69,MissedShots,0.9369999694824219,0.524000015258789,0.12923799455165863,Markel Bergara,a,2231,SetPiece,2015,Head,1722,Eibar,Real Sociedad,2,1,2016-04-16 22:30:00,Asier Illarramendi,Cross
+92285,45,MissedShots,0.85,0.625999984741211,0.050993699580430984,Markel Bergara,a,2231,OpenPlay,2015,LeftFoot,1747,Villarreal,Real Sociedad,0,0,2016-04-24 22:30:00,David Zurutuza,Pass
+92289,70,MissedShots,0.879000015258789,0.4279999923706055,0.04910799860954285,Markel Bergara,a,2231,SetPiece,2015,Head,1747,Villarreal,Real Sociedad,0,0,2016-04-24 22:30:00,Asier Illarramendi,Cross
+169293,8,SavedShot,0.874000015258789,0.42700000762939455,0.04427729919552803,Markel Bergara,a,2231,SetPiece,2017,Head,7884,Athletic Club,Getafe,0,0,2017-08-20 17:15:00,Faycal Fajr,Cross
+170152,1,BlockedShot,0.8719999694824219,0.40599998474121096,0.09682949632406235,Markel Bergara,a,2231,OpenPlay,2017,RightFoot,7923,Celta Vigo,Getafe,1,1,2017-09-21 20:00:00,Francisco Portillo,Pass
+170159,36,MissedShots,0.8880000305175781,0.6040000152587891,0.024779900908470154,Markel Bergara,a,2231,FromCorner,2017,Head,7923,Celta Vigo,Getafe,1,1,2017-09-21 20:00:00,Vitorino Antunes,Cross
+170163,59,BlockedShot,0.909000015258789,0.585,0.07780739665031433,Markel Bergara,a,2231,OpenPlay,2017,LeftFoot,7923,Celta Vigo,Getafe,1,1,2017-09-21 20:00:00,Ángel,Cross
+170420,39,SavedShot,0.870999984741211,0.3,0.0387536995112896,Markel Bergara,h,2231,OpenPlay,2017,RightFoot,7933,Getafe,Villarreal,4,0,2017-09-24 15:15:00,Jorge Molina,Pass
+170429,66,Goal,0.985,0.4779999923706055,0.9612399935722351,Markel Bergara,h,2231,SetPiece,2017,LeftFoot,7933,Getafe,Villarreal,4,0,2017-09-24 15:15:00,,Rebound
+170900,6,MissedShots,0.8830000305175781,0.515,0.08086089789867401,Markel Bergara,a,2231,SetPiece,2017,RightFoot,7942,Deportivo La Coruna,Getafe,2,1,2017-09-30 12:00:00,Cala,BallTouch
+170922,75,MissedShots,0.9290000152587891,0.53,0.12049199640750885,Markel Bergara,a,2231,FromCorner,2017,Head,7942,Deportivo La Coruna,Getafe,2,1,2017-09-30 12:00:00,Vitorino Antunes,Cross
+170505,63,MissedShots,0.9680000305175781,0.6309999847412109,0.021931899711489677,Markel Bergara,h,2231,FromCorner,2017,Head,7953,Getafe,Real Madrid,1,2,2017-10-14 15:15:00,Faycal Fajr,Cross
+170510,87,SavedShot,0.91,0.605999984741211,0.09794030338525772,Markel Bergara,h,2231,OpenPlay,2017,LeftFoot,7953,Getafe,Real Madrid,1,2,2017-10-14 15:15:00,Jorge Molina,Throughball
+170512,93,MissedShots,0.8490000152587891,0.6140000152587891,0.053260598331689835,Markel Bergara,h,2231,OpenPlay,2017,RightFoot,7953,Getafe,Real Madrid,1,2,2017-10-14 15:15:00,,None
+171541,74,SavedShot,0.8959999847412109,0.5179999923706055,0.07900509983301163,Markel Bergara,h,2231,OpenPlay,2017,Head,7971,Getafe,Real Sociedad,2,1,2017-10-29 11:00:00,Francisco Portillo,Cross
+171975,17,Goal,0.92,0.555,0.11331500113010406,Markel Bergara,a,2231,SetPiece,2017,Head,7980,Real Betis,Getafe,2,2,2017-11-03 20:00:00,Vitorino Antunes,Cross
+172319,5,SavedShot,0.9740000152587891,0.504000015258789,0.6371520161628723,Markel Bergara,h,2231,FromCorner,2017,Head,7990,Getafe,Alaves,4,1,2017-11-18 12:00:00,Mauro Arambarri,Cross
+172320,5,Goal,0.9740000152587891,0.504000015258789,0.8932989835739136,Markel Bergara,h,2231,FromCorner,2017,OtherBodyPart,7990,Getafe,Alaves,4,1,2017-11-18 12:00:00,,None
+171718,65,Goal,0.7530000305175781,0.5059999847412109,0.02017729915678501,Markel Bergara,h,2231,OpenPlay,2017,RightFoot,8009,Getafe,Valencia,1,0,2017-12-03 15:15:00,,None
+316099,74,BlockedShot,0.9130000305175782,0.5690000152587891,0.1296360045671463,Markel Bergara,h,2231,OpenPlay,2019,RightFoot,12044,Getafe,Alaves,1,1,2019-08-31 18:00:00,Marc Cucurella,Pass

@@ -1,0 +1,10 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+355044,9,Goal,0.9690000152587891,0.4540000152587891,0.5897560119628906,Esteban Burgos,h,8135,FromCorner,2019,RightFoot,12216,Eibar,Atletico Madrid,2,0,2020-01-18 20:00:00,Sergi Enrich,None
+357855,14,MissedShots,0.8480000305175781,0.5629999923706055,0.036227598786354065,Esteban Burgos,a,8135,SetPiece,2019,Head,12249,Alaves,Eibar,2,1,2020-02-07 20:00:00,Pedro León,Chipped
+369361,52,BlockedShot,0.925,0.5570000076293945,0.041320398449897766,Esteban Burgos,a,8135,FromCorner,2019,Head,12360,Sevilla,Eibar,1,0,2020-07-06 20:00:00,Rafa Soares,Aerial
+380372,28,Goal,0.885,0.5,0.7432780265808105,Esteban Burgos,a,8135,Penalty,2020,RightFoot,14823,Real Valladolid,Eibar,1,2,2020-10-03 11:00:00,,Standard
+385812,37,Goal,0.9630000305175781,0.47,0.6474570035934448,Esteban Burgos,a,8135,FromCorner,2020,RightFoot,14858,SD Huesca,Eibar,1,1,2020-11-07 13:00:00,Paulo Oliveira,Pass
+389806,48,MissedShots,0.9480000305175781,0.46900001525878904,0.13416500389575958,Esteban Burgos,a,8135,FromCorner,2020,Head,14876,Real Betis,Eibar,0,2,2020-11-30 20:00:00,Bryan Gil Salvatierra,Cross
+389808,53,Goal,0.885,0.5,0.743149995803833,Esteban Burgos,a,8135,Penalty,2020,RightFoot,14876,Real Betis,Eibar,0,2,2020-11-30 20:00:00,,Standard
+389812,70,SavedShot,0.92,0.5409999847412109,0.38874998688697815,Esteban Burgos,a,8135,SetPiece,2020,RightFoot,14876,Real Betis,Eibar,0,2,2020-11-30 20:00:00,Bryan Gil Salvatierra,Cross
+410663,41,SavedShot,0.885,0.5,0.7432780265808105,Esteban Burgos,h,8135,Penalty,2020,RightFoot,15041,Eibar,Villarreal,1,3,2021-03-14 17:30:00,,Standard

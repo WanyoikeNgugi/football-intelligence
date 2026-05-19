@@ -1,0 +1,15 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+145408,30,Goal,0.91,0.46299999237060546,0.07333040237426758,Giuseppe Bellusci,h,1308,FromCorner,2016,Head,959,Empoli,Crotone,2,1,2016-09-12 22:45:00,Manuel Pasqual,Cross
+147038,47,MissedShots,0.9490000152587891,0.47,0.14261700212955475,Giuseppe Bellusci,a,1308,SetPiece,2016,Head,986,Lazio,Empoli,2,0,2016-09-25 17:00:00,Manuel Pasqual,Cross
+153838,25,SavedShot,0.784000015258789,0.40700000762939453,0.028452100232243538,Giuseppe Bellusci,h,1308,FromCorner,2016,LeftFoot,3520,Empoli,Palermo,1,0,2017-01-07 21:00:00,Levan Mchedlidze,Pass
+144633,49,BlockedShot,0.9069999694824219,0.3139999961853027,0.020754000172019005,Giuseppe Bellusci,a,1308,FromCorner,2016,RightFoot,3533,Sampdoria,Empoli,0,0,2017-01-15 18:00:00,,Aerial
+145308,9,MissedShots,0.9280000305175782,0.44,0.036271799355745316,Giuseppe Bellusci,h,1308,FromCorner,2016,Head,3547,Empoli,Udinese,1,0,2017-01-22 17:00:00,Manuel Pasqual,Aerial
+148321,87,MissedShots,0.9269999694824219,0.425,0.042939599603414536,Giuseppe Bellusci,h,1308,SetPiece,2016,Head,3604,Empoli,Genoa,0,2,2017-03-05 14:00:00,Manuel Pasqual,Aerial
+228991,8,BlockedShot,0.885,0.48,0.041346099227666855,Giuseppe Bellusci,a,1308,FromCorner,2016,Head,3656,Fiorentina,Empoli,1,2,2017-04-15 14:00:00,Omar El Kaddouri,Cross
+152548,30,SavedShot,0.9469999694824218,0.524000015258789,0.5534150004386902,Giuseppe Bellusci,h,1308,SetPiece,2016,RightFoot,3683,Empoli,Bologna,3,1,2017-05-07 14:00:00,Manuel Pasqual,Chipped
+152555,45,SavedShot,0.955999984741211,0.42700000762939455,0.12461300194263458,Giuseppe Bellusci,h,1308,FromCorner,2016,LeftFoot,3683,Empoli,Bologna,3,1,2017-05-07 14:00:00,Mame Thiam,HeadPass
+153058,11,MissedShots,0.899000015258789,0.315,0.04978150129318237,Giuseppe Bellusci,a,1308,SetPiece,2016,RightFoot,3693,Cagliari,Empoli,3,2,2017-05-14 14:00:00,Manuel Pasqual,Chipped
+153567,18,MissedShots,0.88,0.485,0.07836169749498367,Giuseppe Bellusci,h,1308,SetPiece,2016,LeftFoot,3702,Empoli,Atalanta,0,1,2017-05-21 14:00:00,,None
+154094,32,MissedShots,0.93,0.549000015258789,0.04639879986643791,Giuseppe Bellusci,a,1308,FromCorner,2016,Head,3713,Palermo,Empoli,2,1,2017-05-28 19:45:00,Manuel Pasqual,Aerial
+154100,55,MissedShots,0.875,0.3609999847412109,0.05620289966464043,Giuseppe Bellusci,a,1308,SetPiece,2016,RightFoot,3713,Palermo,Empoli,2,1,2017-05-28 19:45:00,,None
+154112,87,MissedShots,0.9230000305175782,0.46900001525878904,0.0947863981127739,Giuseppe Bellusci,a,1308,OpenPlay,2016,Head,3713,Palermo,Empoli,2,1,2017-05-28 19:45:00,Manuel Pasqual,Cross

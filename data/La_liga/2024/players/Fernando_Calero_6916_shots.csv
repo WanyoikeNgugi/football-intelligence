@@ -1,0 +1,32 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+258764,80,MissedShots,0.875999984741211,0.5590000152587891,0.012036900036036968,Fernando Calero,a,6916,SetPiece,2018,Head,10065,Real Madrid,Real Valladolid,2,0,2018-11-03 15:15:00,Míchel,Aerial
+259538,13,MissedShots,0.9080000305175782,0.5520000076293945,0.08227220177650452,Fernando Calero,h,6916,FromCorner,2018,Head,10096,Real Valladolid,Leganes,2,4,2018-12-01 15:15:00,Nacho,Cross
+260065,56,Goal,0.9390000152587891,0.524000015258789,0.07486460357904434,Fernando Calero,h,6916,FromCorner,2018,Head,10111,Real Valladolid,Atletico Madrid,2,3,2018-12-15 15:15:00,Míchel,Aerial
+280133,69,BlockedShot,0.875999984741211,0.5259999847412109,0.048922099173069,Fernando Calero,a,6916,SetPiece,2018,Head,10142,Valencia,Real Valladolid,1,1,2019-01-12 15:15:00,Enes Ünal,HeadPass
+280494,92,SavedShot,0.9569999694824218,0.59,0.09616419672966003,Fernando Calero,a,6916,OpenPlay,2018,Head,10156,Levante,Real Valladolid,2,0,2019-01-20 17:30:00,Keko,Cross
+281730,72,MissedShots,0.9059999847412109,0.4540000152587891,0.04687369987368584,Fernando Calero,h,6916,FromCorner,2018,Head,10206,Real Valladolid,Real Betis,0,2,2019-02-24 17:30:00,,None
+288337,8,MissedShots,0.9,0.5429999923706055,0.024931900203227997,Fernando Calero,h,6916,FromCorner,2018,Head,10242,Real Valladolid,Real Sociedad,1,1,2019-03-31 16:30:00,Nacho,Aerial
+297494,85,BlockedShot,0.925,0.5790000152587891,0.03856329992413521,Fernando Calero,a,6916,SetPiece,2018,Head,10297,Atletico Madrid,Real Valladolid,1,0,2019-04-27 15:15:00,Míchel,Aerial
+297496,88,MissedShots,0.8919999694824219,0.45099998474121095,0.11033699661493301,Fernando Calero,a,6916,FromCorner,2018,LeftFoot,10297,Atletico Madrid,Real Valladolid,1,0,2019-04-27 15:15:00,,Rebound
+297498,92,ShotOnPost,0.9630000305175781,0.28899999618530275,0.013623099774122238,Fernando Calero,a,6916,SetPiece,2018,Head,10297,Atletico Madrid,Real Valladolid,1,0,2019-04-27 15:15:00,Nacho,Cross
+467438,2,MissedShots,0.8669999694824219,0.4909999847412109,0.09023410081863403,Fernando Calero,h,6916,SetPiece,2021,RightFoot,17438,Espanyol,Celta Vigo,1,0,2022-04-10 14:15:00,Adrià Pedrosa,Rebound
+489557,46,MissedShots,0.91,0.46099998474121096,0.07626970112323761,Fernando Calero,a,6916,SetPiece,2022,RightFoot,19018,Real Sociedad,Espanyol,2,1,2022-09-18 16:30:00,Edu Expósito,Cross
+489562,73,MissedShots,0.9230000305175782,0.55,0.09204140305519104,Fernando Calero,a,6916,SetPiece,2022,Head,19018,Real Sociedad,Espanyol,2,1,2022-09-18 16:30:00,Sergi Darder,Chipped
+502807,62,SavedShot,0.9540000152587891,0.48400001525878905,0.09466029703617096,Fernando Calero,h,6916,SetPiece,2022,Head,19115,Espanyol,Girona,2,2,2023-01-07 20:00:00,Sergi Darder,Aerial
+503903,37,BlockedShot,0.8819999694824219,0.4229999923706055,0.027324799448251724,Fernando Calero,a,6916,FromCorner,2022,Head,19130,Getafe,Espanyol,1,2,2023-01-15 13:00:00,Sergi Darder,Cross
+509252,3,SavedShot,0.9790000152587891,0.4209999847412109,0.09173350036144257,Fernando Calero,h,6916,FromCorner,2022,Head,19164,Espanyol,Real Sociedad,2,3,2023-02-13 20:00:00,Sergi Darder,Cross
+523550,73,MissedShots,0.914000015258789,0.5059999847412109,0.04347321391105652,Fernando Calero,h,6916,SetPiece,2022,Head,19275,Espanyol,Getafe,1,0,2023-04-30 16:30:00,Leandro Cabrera,Rebound
+526931,91,ShotOnPost,0.914000015258789,0.4909999847412109,0.04856589436531067,Fernando Calero,h,6916,FromCorner,2022,Head,19299,Espanyol,Barcelona,2,4,2023-05-14 19:00:00,Adrià Pedrosa,Aerial
+613597,86,MissedShots,0.9359999847412109,0.49900001525878906,0.4188859760761261,Fernando Calero,a,6916,FromCorner,2024,Head,27191,Sevilla,Espanyol,1,1,2025-01-25 17:30:00,Edu Expósito,Cross
+618263,85,Goal,0.8869999694824219,0.509000015258789,0.14832286536693573,Fernando Calero,a,6916,SetPiece,2024,Head,27231,Alaves,Espanyol,0,1,2025-02-22 13:00:00,Tejero,Cross
+639641,70,MissedShots,0.884000015258789,0.4379999923706055,0.11296731978654861,Fernando Calero,a,6916,OpenPlay,2025,RightFoot,29174,Real Sociedad,Espanyol,2,2,2025-08-24 17:30:00,Ramón Terrats,Pass
+643169,44,MissedShots,0.965,0.4909999847412109,0.6027615070343018,Fernando Calero,a,6916,SetPiece,2025,LeftFoot,29206,Real Madrid,Espanyol,2,0,2025-09-20 14:15:00,Edu Expósito,Cross
+644445,66,MissedShots,0.9,0.5429999923706055,0.06420712172985077,Fernando Calero,a,6916,FromCorner,2025,Head,29227,Girona,Espanyol,0,0,2025-09-26 19:00:00,Pere Milla,Cross
+657646,6,MissedShots,0.9280000305175782,0.47099998474121096,0.3955206573009491,Fernando Calero,h,6916,SetPiece,2025,Head,29301,Espanyol,Rayo Vallecano,1,0,2025-12-07 17:30:00,Edu Expósito,Cross
+658443,15,MissedShots,0.925,0.529000015258789,0.4895384609699249,Fernando Calero,a,6916,FromCorner,2025,RightFoot,29315,Getafe,Espanyol,0,1,2025-12-13 20:00:00,Pere Milla,Pass
+659963,13,SavedShot,0.9209999847412109,0.3340000152587891,0.013894197531044483,Fernando Calero,a,6916,FromCorner,2025,Head,29318,Athletic Club,Espanyol,1,2,2025-12-22 20:00:00,Edu Expósito,Cross
+661195,7,BlockedShot,0.895,0.38299999237060545,0.07173887640237808,Fernando Calero,h,6916,SetPiece,2025,RightFoot,29333,Espanyol,Barcelona,0,2,2026-01-03 20:00:00,Pere Milla,BallTouch
+663311,74,MissedShots,0.9290000152587891,0.43,0.09437482059001923,Fernando Calero,h,6916,FromCorner,2025,Head,29355,Espanyol,Girona,0,2,2026-01-16 20:00:00,Jofre Carreras,Cross
+664874,49,MissedShots,0.794000015258789,0.6419999694824219,0.019719859585165977,Fernando Calero,a,6916,SetPiece,2025,RightFoot,29364,Valencia,Espanyol,3,2,2026-01-24 15:15:00,,Rebound
+678030,71,MissedShots,0.9519999694824218,0.34,0.06536668539047241,Fernando Calero,a,6916,SetPiece,2025,RightFoot,29459,Barcelona,Espanyol,4,1,2026-04-11 16:30:00,Leandro Cabrera,HeadPass
+678032,76,MissedShots,0.97,0.4329999923706055,0.07294061034917831,Fernando Calero,a,6916,FromCorner,2025,Head,29459,Barcelona,Espanyol,4,1,2026-04-11 16:30:00,Ramón Terrats,Aerial

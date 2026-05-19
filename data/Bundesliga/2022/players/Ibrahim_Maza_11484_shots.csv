@@ -1,0 +1,48 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+529067,54,Goal,0.9369999694824219,0.48900001525878906,0.5629153847694397,Ibrahim Maza,a,11484,OpenPlay,2022,RightFoot,19645,Wolfsburg,Hertha Berlin,1,2,2023-05-27 13:30:00,Lucas Tousart,Pass
+643833,36,SavedShot,0.865,0.5220000076293946,0.0306305643171072,Ibrahim Maza,h,11484,OpenPlay,2025,Head,30258,Bayer Leverkusen,Borussia M.Gladbach,1,1,2025-09-21 15:30:00,Ben Seghir,Chipped
+643838,55,SavedShot,0.8519999694824218,0.500999984741211,0.08611131459474564,Ibrahim Maza,h,11484,SetPiece,2025,RightFoot,30258,Bayer Leverkusen,Borussia M.Gladbach,1,1,2025-09-21 15:30:00,Loic Bade,Pass
+643841,61,SavedShot,0.8059999847412109,0.30700000762939456,0.024320358410477638,Ibrahim Maza,h,11484,OpenPlay,2025,LeftFoot,30258,Bayer Leverkusen,Borussia M.Gladbach,1,1,2025-09-21 15:30:00,Lucas Vázquez,Pass
+643850,82,SavedShot,0.975999984741211,0.655,0.15316182374954224,Ibrahim Maza,h,11484,OpenPlay,2025,RightFoot,30258,Bayer Leverkusen,Borussia M.Gladbach,1,1,2025-09-21 15:30:00,Álex Grimaldo,TakeOn
+646109,50,BlockedShot,0.7130000305175781,0.575999984741211,0.022445034235715866,Ibrahim Maza,h,11484,OpenPlay,2025,RightFoot,30269,Bayer Leverkusen,Union Berlin,2,0,2025-10-04 13:30:00,Christian Kofane,Pass
+646111,56,ShotOnPost,0.86,0.48,0.313186913728714,Ibrahim Maza,h,11484,OpenPlay,2025,RightFoot,30269,Bayer Leverkusen,Union Berlin,2,0,2025-10-04 13:30:00,Malik Tillman,Pass
+646114,59,MissedShots,0.7419999694824219,0.590999984741211,0.024611948058009148,Ibrahim Maza,h,11484,OpenPlay,2025,LeftFoot,30269,Bayer Leverkusen,Union Berlin,2,0,2025-10-04 13:30:00,Jarell Quansah,Pass
+647540,86,BlockedShot,0.9080000305175782,0.5709999847412109,0.1367746889591217,Ibrahim Maza,a,11484,OpenPlay,2025,RightFoot,30282,Mainz 05,Bayer Leverkusen,3,4,2025-10-18 13:30:00,Ben Seghir,Pass
+649631,87,MissedShots,0.904000015258789,0.345,0.1038648784160614,Ibrahim Maza,h,11484,OpenPlay,2025,RightFoot,30288,Bayer Leverkusen,Freiburg,2,0,2025-10-26 13:30:00,Jeanuël Belocian,Chipped
+649632,90,MissedShots,0.78,0.44,0.04983227699995041,Ibrahim Maza,h,11484,OpenPlay,2025,LeftFoot,30288,Bayer Leverkusen,Freiburg,2,0,2025-10-26 13:30:00,Álex Grimaldo,Pass
+652240,33,MissedShots,0.9319999694824219,0.30200000762939455,0.07225748151540756,Ibrahim Maza,h,11484,OpenPlay,2025,RightFoot,30305,Bayer Leverkusen,FC Heidenheim,6,0,2025-11-08 14:30:00,Robert Andrich,Pass
+652242,45,Goal,0.9019999694824219,0.4779999923706055,0.4018312692642212,Ibrahim Maza,h,11484,OpenPlay,2025,RightFoot,30305,Bayer Leverkusen,FC Heidenheim,6,0,2025-11-08 14:30:00,Aleix García,Cross
+652245,52,Goal,0.8930000305175781,0.5990000152587891,0.489800363779068,Ibrahim Maza,h,11484,OpenPlay,2025,RightFoot,30305,Bayer Leverkusen,FC Heidenheim,6,0,2025-11-08 14:30:00,Edmond Tapsoba,TakeOn
+652246,54,BlockedShot,0.8680000305175781,0.605,0.10206876695156097,Ibrahim Maza,h,11484,OpenPlay,2025,LeftFoot,30305,Bayer Leverkusen,FC Heidenheim,6,0,2025-11-08 14:30:00,Martin Terrier,TakeOn
+655242,55,BlockedShot,0.785,0.365,0.02427419275045395,Ibrahim Maza,h,11484,OpenPlay,2025,RightFoot,30323,Bayer Leverkusen,Borussia Dortmund,1,2,2025-11-29 17:30:00,Aleix García,BallRecovery
+655245,62,BlockedShot,0.9569999694824218,0.705999984741211,0.0455012246966362,Ibrahim Maza,h,11484,OpenPlay,2025,LeftFoot,30323,Bayer Leverkusen,Borussia Dortmund,1,2,2025-11-29 17:30:00,Ernest Poku,Pass
+655251,72,MissedShots,0.7480000305175781,0.38,0.017149196937680244,Ibrahim Maza,h,11484,OpenPlay,2025,RightFoot,30323,Bayer Leverkusen,Borussia Dortmund,1,2,2025-11-29 17:30:00,Edmond Tapsoba,Pass
+658362,49,SavedShot,0.96,0.6419999694824219,0.07766236364841461,Ibrahim Maza,h,11484,OpenPlay,2025,LeftFoot,30341,Bayer Leverkusen,FC Cologne,2,0,2025-12-13 17:30:00,,Dispossessed
+658366,64,BlockedShot,0.7909999847412109,0.6409999847412109,0.029464781284332275,Ibrahim Maza,h,11484,OpenPlay,2025,RightFoot,30341,Bayer Leverkusen,FC Cologne,2,0,2025-12-13 17:30:00,Malik Tillman,Pass
+664723,45,ShotOnPost,0.695,0.4979999923706055,0.017498264089226723,Ibrahim Maza,h,11484,OpenPlay,2025,RightFoot,30386,Bayer Leverkusen,Werder Bremen,1,0,2026-01-24 14:30:00,Aleix García,Pass
+664734,70,MissedShots,0.7930000305175782,0.6170000076293946,0.04296918585896492,Ibrahim Maza,h,11484,OpenPlay,2025,RightFoot,30386,Bayer Leverkusen,Werder Bremen,1,0,2026-01-24 14:30:00,Jarell Quansah,Chipped
+669628,68,MissedShots,0.755,0.5559999847412109,0.018086470663547516,Ibrahim Maza,a,11484,FromCorner,2025,RightFoot,30429,Union Berlin,Bayer Leverkusen,1,0,2026-02-21 14:30:00,,None
+669630,72,BlockedShot,0.7969999694824219,0.634000015258789,0.013016052544116974,Ibrahim Maza,a,11484,OpenPlay,2025,RightFoot,30429,Union Berlin,Bayer Leverkusen,1,0,2026-02-21 14:30:00,,Aerial
+669633,77,MissedShots,0.7680000305175781,0.6659999847412109,0.01631871797144413,Ibrahim Maza,a,11484,FromCorner,2025,RightFoot,30429,Union Berlin,Bayer Leverkusen,1,0,2026-02-21 14:30:00,,None
+671027,78,BlockedShot,0.7909999847412109,0.549000015258789,0.039095643907785416,Ibrahim Maza,h,11484,FromCorner,2025,RightFoot,30432,Bayer Leverkusen,Mainz 05,1,1,2026-02-28 14:30:00,Martin Terrier,Pass
+671034,95,BlockedShot,0.9109999847412109,0.35700000762939454,0.12609538435935974,Ibrahim Maza,h,11484,OpenPlay,2025,RightFoot,30432,Bayer Leverkusen,Mainz 05,1,1,2026-02-28 14:30:00,Jarell Quansah,Pass
+672286,29,MissedShots,0.9009999847412109,0.6830000305175781,0.07751800119876862,Ibrahim Maza,a,11484,OpenPlay,2025,LeftFoot,30371,Hamburger SV,Bayer Leverkusen,0,1,2026-03-04 19:30:00,Exequiel Palacios,Pass
+672546,49,BlockedShot,0.7559999847412109,0.4929999923706055,0.02365187741816044,Ibrahim Maza,a,11484,OpenPlay,2025,RightFoot,30442,Freiburg,Bayer Leverkusen,3,3,2026-03-07 14:30:00,Aleix García,Pass
+673800,50,MissedShots,0.544000015258789,0.28700000762939454,0.01117614284157753,Ibrahim Maza,h,11484,OpenPlay,2025,RightFoot,30449,Bayer Leverkusen,Bayern Munich,1,1,2026-03-14 14:30:00,,BallRecovery
+673813,82,MissedShots,0.76,0.6029999923706054,0.021253930404782295,Ibrahim Maza,h,11484,OpenPlay,2025,RightFoot,30449,Bayer Leverkusen,Bayern Munich,1,1,2026-03-14 14:30:00,Ernest Poku,Pass
+673814,85,SavedShot,0.889000015258789,0.5620000076293945,0.11442326009273529,Ibrahim Maza,h,11484,OpenPlay,2025,RightFoot,30449,Bayer Leverkusen,Bayern Munich,1,1,2026-03-14 14:30:00,Ernest Poku,Pass
+673821,95,SavedShot,0.879000015258789,0.41400001525878904,0.3234342336654663,Ibrahim Maza,h,11484,OpenPlay,2025,LeftFoot,30449,Bayer Leverkusen,Bayern Munich,1,1,2026-03-14 14:30:00,Edmond Tapsoba,Pass
+673823,99,MissedShots,0.895,0.395,0.06382738798856735,Ibrahim Maza,h,11484,FromCorner,2025,RightFoot,30449,Bayer Leverkusen,Bayern Munich,1,1,2026-03-14 14:30:00,Exequiel Palacios,Pass
+675227,96,MissedShots,0.870999984741211,0.36,0.060562897473573685,Ibrahim Maza,a,11484,SetPiece,2025,RightFoot,30462,FC Heidenheim,Bayer Leverkusen,3,3,2026-03-21 14:30:00,Tim Oermann,BallTouch
+676516,41,MissedShots,0.95,0.4979999923706055,0.6201927661895752,Ibrahim Maza,h,11484,OpenPlay,2025,Head,30467,Bayer Leverkusen,Wolfsburg,6,3,2026-04-04 13:30:00,Álex Grimaldo,Aerial
+676518,48,SavedShot,0.845,0.35900001525878905,0.044289328157901764,Ibrahim Maza,h,11484,OpenPlay,2025,RightFoot,30467,Bayer Leverkusen,Wolfsburg,6,3,2026-04-04 13:30:00,Montrell Culbreath,Pass
+676530,72,Goal,0.9259999847412109,0.695,0.045763369649648666,Ibrahim Maza,h,11484,FromCorner,2025,RightFoot,30467,Bayer Leverkusen,Wolfsburg,6,3,2026-04-04 13:30:00,Exequiel Palacios,Pass
+677762,30,MissedShots,0.740999984741211,0.6379999923706055,0.016341600567102432,Ibrahim Maza,a,11484,OpenPlay,2025,RightFoot,30477,Borussia Dortmund,Bayer Leverkusen,0,1,2026-04-11 13:30:00,Álex Grimaldo,Pass
+679096,1,SavedShot,0.8680000305175781,0.40700000762939453,0.06928583979606628,Ibrahim Maza,h,11484,OpenPlay,2025,RightFoot,30485,Bayer Leverkusen,Augsburg,1,2,2026-04-18 13:30:00,,None
+679118,50,BlockedShot,0.815,0.525,0.09068450331687927,Ibrahim Maza,h,11484,OpenPlay,2025,RightFoot,30485,Bayer Leverkusen,Augsburg,1,2,2026-04-18 13:30:00,Nathan Tella,Pass
+679123,58,SavedShot,0.9209999847412109,0.5459999847412109,0.36002135276794434,Ibrahim Maza,h,11484,OpenPlay,2025,RightFoot,30485,Bayer Leverkusen,Augsburg,1,2,2026-04-18 13:30:00,Álex Grimaldo,Cross
+679129,69,MissedShots,0.8119999694824219,0.49599998474121093,0.061830081045627594,Ibrahim Maza,h,11484,OpenPlay,2025,RightFoot,30485,Bayer Leverkusen,Augsburg,1,2,2026-04-18 13:30:00,Aleix García,TakeOn
+679138,95,BlockedShot,0.840999984741211,0.37099998474121093,0.03392336890101433,Ibrahim Maza,h,11484,OpenPlay,2025,RightFoot,30485,Bayer Leverkusen,Augsburg,1,2,2026-04-18 13:30:00,Álex Grimaldo,TakeOn
+682491,2,BlockedShot,0.874000015258789,0.34200000762939453,0.049983616918325424,Ibrahim Maza,h,11484,OpenPlay,2025,RightFoot,30503,Bayer Leverkusen,RasenBallsport Leipzig,4,1,2026-05-02 16:30:00,,Rebound
+682493,6,BlockedShot,0.9030000305175782,0.33799999237060546,0.05646481737494469,Ibrahim Maza,h,11484,SetPiece,2025,RightFoot,30503,Bayer Leverkusen,RasenBallsport Leipzig,4,1,2026-05-02 16:30:00,,None
+683638,16,SavedShot,0.8159999847412109,0.545,0.07780952006578445,Ibrahim Maza,a,11484,OpenPlay,2025,RightFoot,30519,VfB Stuttgart,Bayer Leverkusen,3,1,2026-05-09 13:30:00,Christian Kofane,LayOff

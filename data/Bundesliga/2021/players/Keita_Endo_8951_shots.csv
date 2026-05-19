@@ -1,0 +1,11 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+385878,2,Goal,0.884000015258789,0.534000015258789,0.3915809988975525,Keita Endo,h,8951,OpenPlay,2020,RightFoot,15197,Union Berlin,Arminia Bielefeld,5,0,2020-11-07 14:30:00,Sheraldo Becker,Pass
+385882,9,BlockedShot,0.8959999847412109,0.765,0.03232140094041824,Keita Endo,h,8951,FromCorner,2020,LeftFoot,15197,Union Berlin,Arminia Bielefeld,5,0,2020-11-07 14:30:00,Robin Knoche,Rebound
+391752,75,SavedShot,0.8469999694824218,0.620999984741211,0.08915259689092636,Keita Endo,h,8951,OpenPlay,2020,RightFoot,15236,Union Berlin,Bayern Munich,1,1,2020-12-12 17:30:00,Taiwo Awoniyi,Pass
+409142,73,MissedShots,0.9080000305175782,0.6090000152587891,0.31244298815727234,Keita Endo,a,8951,OpenPlay,2020,RightFoot,15350,Arminia Bielefeld,Union Berlin,0,0,2021-03-07 17:00:00,Marvin Friedrich,Pass
+409143,80,SavedShot,0.9059999847412109,0.5029999923706054,0.47543400526046753,Keita Endo,a,8951,OpenPlay,2020,RightFoot,15350,Arminia Bielefeld,Union Berlin,0,0,2021-03-07 17:00:00,Petar Musa,Pass
+411361,68,MissedShots,0.9030000305175782,0.5279999923706055,0.1056940034031868,Keita Endo,a,8951,OpenPlay,2020,Head,15368,Eintracht Frankfurt,Union Berlin,5,2,2021-03-20 14:30:00,Christopher Trimmel,Cross
+416432,0,MissedShots,0.895,0.6659999847412109,0.07118900120258331,Keita Endo,a,8951,OpenPlay,2020,LeftFoot,15402,Borussia Dortmund,Union Berlin,2,0,2021-04-21 18:30:00,Max Kruse,Pass
+416434,12,BlockedShot,0.7869999694824219,0.639000015258789,0.029358400031924248,Keita Endo,a,8951,OpenPlay,2020,RightFoot,15402,Borussia Dortmund,Union Berlin,2,0,2021-04-21 18:30:00,Christopher Lenz,BallRecovery
+448383,84,MissedShots,0.8219999694824218,0.6559999847412109,0.02696789987385273,Keita Endo,a,8951,FromCorner,2021,LeftFoot,17642,Greuther Fuerth,Union Berlin,1,0,2021-12-12 14:30:00,,None
+455771,78,SavedShot,0.89,0.705,0.053809501230716705,Keita Endo,a,8951,OpenPlay,2021,RightFoot,17699,Augsburg,Union Berlin,2,0,2022-02-05 14:30:00,Bastian Oczipka,Pass

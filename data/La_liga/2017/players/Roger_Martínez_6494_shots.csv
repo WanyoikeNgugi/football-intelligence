@@ -1,0 +1,12 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+195434,27,BlockedShot,0.7819999694824219,0.49900001525878906,0.040384501218795776,Roger Martínez,h,6494,OpenPlay,2017,RightFoot,8102,Villarreal,Alaves,1,2,2018-02-10 12:00:00,Samu Castillejo,BallTouch
+195438,34,BlockedShot,0.8030000305175782,0.5109999847412109,0.05163630098104477,Roger Martínez,h,6494,OpenPlay,2017,LeftFoot,8102,Villarreal,Alaves,1,2,2018-02-10 12:00:00,Carlos Bacca,Pass
+198329,2,MissedShots,0.889000015258789,0.445,0.02835950069129467,Roger Martínez,a,6494,OpenPlay,2017,Head,8131,Eibar,Villarreal,1,0,2018-02-28 20:30:00,Mario,Aerial
+198348,74,BlockedShot,0.9059999847412109,0.7140000152587891,0.03654620051383972,Roger Martínez,a,6494,OpenPlay,2017,RightFoot,8131,Eibar,Villarreal,1,0,2018-02-28 20:30:00,Carlos Bacca,Pass
+198349,74,SavedShot,0.899000015258789,0.555,0.07436410337686539,Roger Martínez,a,6494,OpenPlay,2017,RightFoot,8131,Eibar,Villarreal,1,0,2018-02-28 20:30:00,Manu Trigueros,Cross
+198628,78,BlockedShot,0.749000015258789,0.6020000076293945,0.02421710081398487,Roger Martínez,h,6494,OpenPlay,2017,RightFoot,8144,Villarreal,Girona,0,2,2018-03-03 12:00:00,Jaume Costa,HeadPass
+198633,87,MissedShots,0.985999984741211,0.6930000305175781,0.048188600689172745,Roger Martínez,h,6494,SetPiece,2017,LeftFoot,8144,Villarreal,Girona,0,2,2018-03-03 12:00:00,,BallTouch
+204753,88,SavedShot,0.7680000305175781,0.639000015258789,0.023367399349808693,Roger Martínez,a,6494,OpenPlay,2017,RightFoot,8175,Malaga,Villarreal,1,0,2018-04-01 17:30:00,Jaume Costa,Pass
+216359,70,Goal,0.8819999694824219,0.685,0.049250099807977676,Roger Martínez,h,6494,OpenPlay,2017,RightFoot,8256,Villarreal,Real Madrid,2,2,2018-05-19 00:00:00,Rodri,Pass
+216361,74,BlockedShot,0.919000015258789,0.34599998474121096,0.10732799768447876,Roger Martínez,h,6494,OpenPlay,2017,RightFoot,8256,Villarreal,Real Madrid,2,2,2018-05-19 00:00:00,Mario,Pass
+216362,77,BlockedShot,0.8719999694824219,0.69,0.04190549999475479,Roger Martínez,h,6494,OpenPlay,2017,RightFoot,8256,Villarreal,Real Madrid,2,2,2018-05-19 00:00:00,Adrián Marín,Pass

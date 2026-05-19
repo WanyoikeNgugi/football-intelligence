@@ -1,0 +1,47 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+143753,86,MissedShots,0.9719999694824218,0.580999984741211,0.04793630167841911,Lucas Hernández,h,2276,FromCorner,2016,Head,4101,Atletico Madrid,Athletic Club,3,1,2017-05-21 15:45:00,Koke,Aerial
+170032,67,MissedShots,0.9130000305175782,0.54,0.08755160123109818,Lucas Hernández,h,2276,FromCorner,2017,Head,7918,Atletico Madrid,Malaga,1,0,2017-09-16 19:45:00,Koke,Cross
+170036,85,MissedShots,0.6969999694824218,0.5790000152587891,0.01671759970486164,Lucas Hernández,h,2276,OpenPlay,2017,LeftFoot,7918,Atletico Madrid,Malaga,1,0,2017-09-16 19:45:00,Yannick Carrasco,Pass
+172191,86,MissedShots,0.7419999694824219,0.7169999694824218,0.009281150065362453,Lucas Hernández,a,2276,OpenPlay,2017,LeftFoot,7984,Deportivo La Coruna,Atletico Madrid,0,1,2017-11-04 15:15:00,,Aerial
+195577,35,MissedShots,0.9230000305175782,0.5840000152587891,0.02166990004479885,Lucas Hernández,a,2276,FromCorner,2017,Head,8108,Malaga,Atletico Madrid,0,1,2018-02-10 15:15:00,Antoine Griezmann,Aerial
+204708,17,BlockedShot,0.9519999694824218,0.48200000762939454,0.10471999645233154,Lucas Hernández,h,2276,FromCorner,2017,Head,8174,Atletico Madrid,Deportivo La Coruna,1,0,2018-04-01 19:45:00,Diego Godín,HeadPass
+213787,15,SavedShot,0.8630000305175781,0.5629999923706055,0.009844750165939331,Lucas Hernández,h,2276,SetPiece,2017,Head,8231,Atletico Madrid,Espanyol,0,2,2018-05-06 15:15:00,Thomas Partey,Aerial
+213790,28,BlockedShot,0.93,0.67,0.07872030138969421,Lucas Hernández,h,2276,OpenPlay,2017,LeftFoot,8231,Atletico Madrid,Espanyol,0,2,2018-05-06 15:15:00,Giménez,TakeOn
+220449,5,BlockedShot,0.735999984741211,0.4779999923706055,0.019283300265669823,Lucas Hernández,h,2276,OpenPlay,2018,LeftFoot,9970,Atletico Madrid,Rayo Vallecano,1,0,2018-08-25 21:15:00,Saúl Ñíguez,BallTouch
+220457,52,MissedShots,0.9080000305175782,0.7240000152587891,0.03582189977169037,Lucas Hernández,h,2276,OpenPlay,2018,LeftFoot,9970,Atletico Madrid,Rayo Vallecano,1,0,2018-08-25 21:15:00,Thomas Lemar,Pass
+258069,44,MissedShots,0.8959999847412109,0.5179999923706055,0.06999039649963379,Lucas Hernández,h,2276,SetPiece,2018,Head,10034,Atletico Madrid,Real Betis,1,0,2018-10-07 14:15:00,Thomas Lemar,Chipped
+258289,92,MissedShots,0.9330000305175781,0.6090000152587891,0.01624869927763939,Lucas Hernández,a,2276,FromCorner,2018,Head,10042,Villarreal,Atletico Madrid,1,1,2018-10-20 16:30:00,Antoine Griezmann,Aerial
+280370,30,Goal,0.9540000152587891,0.555,0.5721629858016968,Lucas Hernández,a,2276,OpenPlay,2018,RightFoot,10147,SD Huesca,Atletico Madrid,0,3,2019-01-19 17:30:00,,None
+317513,75,BlockedShot,0.720999984741211,0.710999984741211,0.009249139577150345,Lucas Hernández,a,2276,FromCorner,2019,LeftFoot,12436,RasenBallsport Leipzig,Bayern Munich,1,1,2019-09-14 16:30:00,Thiago Alcántara,HeadPass
+364304,21,SavedShot,0.899000015258789,0.524000015258789,0.4549559950828552,Lucas Hernández,h,2276,OpenPlay,2019,RightFoot,12673,Bayern Munich,Borussia M.Gladbach,2,1,2020-06-13 16:30:00,,None
+365216,3,MissedShots,0.9009999847412109,0.685,0.026062199845910072,Lucas Hernández,h,2276,OpenPlay,2019,LeftFoot,12691,Bayern Munich,Freiburg,3,1,2020-06-20 13:30:00,Robert Lewandowski,Cross
+382064,86,MissedShots,0.8530000305175781,0.645,0.020771199837327003,Lucas Hernández,a,2276,FromCorner,2020,LeftFoot,15172,Arminia Bielefeld,Bayern Munich,1,4,2020-10-17 16:30:00,,Aerial
+383290,52,SavedShot,0.9519999694824218,0.6580000305175782,0.09504739940166473,Lucas Hernández,h,2276,OpenPlay,2020,LeftFoot,15180,Bayern Munich,Eintracht Frankfurt,5,0,2020-10-24 13:30:00,Kingsley Coman,Pass
+383294,63,MissedShots,0.919000015258789,0.485,0.5934609770774841,Lucas Hernández,h,2276,OpenPlay,2020,RightFoot,15180,Bayern Munich,Eintracht Frankfurt,5,0,2020-10-24 13:30:00,Kingsley Coman,Pass
+405075,67,BlockedShot,0.8440000152587891,0.740999984741211,0.03958459943532944,Lucas Hernández,h,2276,OpenPlay,2020,LeftFoot,15320,Bayern Munich,Arminia Bielefeld,3,3,2021-02-15 19:30:00,David Alaba,LayOff
+423624,80,BlockedShot,0.825999984741211,0.40700000762939453,0.039016999304294586,Lucas Hernández,h,2276,FromCorner,2020,LeftFoot,15437,Bayern Munich,Augsburg,5,2,2021-05-22 13:30:00,,None
+459972,74,BlockedShot,0.92,0.5259999847412109,0.09815210103988647,Lucas Hernández,a,2276,FromCorner,2021,LeftFoot,17731,Eintracht Frankfurt,Bayern Munich,0,1,2022-02-26 17:30:00,Joshua Kimmich,Cross
+462453,67,MissedShots,0.84,0.69,0.03200950101017952,Lucas Hernández,a,2276,OpenPlay,2021,LeftFoot,17743,Hoffenheim,Bayern Munich,1,1,2022-03-12 14:30:00,Kingsley Coman,Pass
+470157,61,SavedShot,0.9290000152587891,0.5070000076293946,0.054721400141716,Lucas Hernández,h,2276,FromCorner,2021,Head,17794,Bayern Munich,Borussia Dortmund,3,1,2022-04-23 16:30:00,Joshua Kimmich,SubstitutionOn
+471432,31,BlockedShot,0.9459999847412109,0.5429999923706055,0.07114329934120178,Lucas Hernández,a,2276,FromCorner,2021,Head,17797,Mainz 05,Bayern Munich,3,1,2022-04-30 13:30:00,Joshua Kimmich,Aerial
+532360,35,MissedShots,0.789000015258789,0.700999984741211,0.019018549472093582,Lucas Hernández,h,2276,OpenPlay,2023,LeftFoot,23379,Paris Saint Germain,Lorient,0,0,2023-08-12 18:00:00,,None
+533598,29,MissedShots,0.8030000305175782,0.6220000076293946,0.02516997791826725,Lucas Hernández,a,2276,FromCorner,2023,RightFoot,23380,Toulouse,Paris Saint Germain,1,1,2023-08-19 19:00:00,,None
+549390,85,MissedShots,0.9,0.44,0.024958211928606033,Lucas Hernández,h,2276,SetPiece,2023,Head,23479,Paris Saint Germain,Monaco,5,2,2023-11-24 20:00:00,Vitinha,Aerial
+553218,82,SavedShot,0.9680000305175781,0.5679999923706055,0.4428424537181854,Lucas Hernández,h,2276,SetPiece,2023,Head,23497,Paris Saint Germain,Nantes,2,1,2023-12-09 20:00:00,Lee Kang-In,Cross
+560935,36,MissedShots,0.8569999694824219,0.40900001525878904,0.06046059727668762,Lucas Hernández,a,2276,SetPiece,2023,LeftFoot,23542,Strasbourg,Paris Saint Germain,1,2,2024-02-02 20:00:00,,None
+564188,59,Goal,0.7430000305175781,0.759000015258789,0.014776352792978287,Lucas Hernández,a,2276,OpenPlay,2023,LeftFoot,23566,Nantes,Paris Saint Germain,0,2,2024-02-17 20:00:00,Marquinhos,Pass
+617493,18,BlockedShot,0.7669999694824219,0.710999984741211,0.0126095712184906,Lucas Hernández,a,2276,OpenPlay,2024,LeftFoot,28237,Toulouse,Paris Saint Germain,0,1,2025-02-15 20:05:00,,None
+625779,34,BlockedShot,0.8369999694824218,0.5359999847412109,0.05254088714718819,Lucas Hernández,h,2276,FromCorner,2024,LeftFoot,28297,Paris Saint Germain,Angers,1,0,2025-04-05 15:00:00,,None
+628702,40,MissedShots,0.7680000305175781,0.54,0.020540732890367508,Lucas Hernández,h,2276,FromCorner,2024,LeftFoot,28313,Paris Saint Germain,Le Havre,2,1,2025-04-19 15:00:00,,None
+631513,19,OwnGoal,0.02700000047683716,0.52,0,Lucas Hernández,a,2276,FromCorner,2024,LeftFoot,28328,Strasbourg,Paris Saint Germain,2,1,2025-05-03 15:00:00,,Error
+638316,44,SavedShot,0.8930000305175781,0.5879999923706055,0.034925177693367004,Lucas Hernández,a,2276,OpenPlay,2025,Head,29546,Nantes,Paris Saint Germain,0,1,2025-08-17 18:45:00,Lee Kang-In,Cross
+647060,29,BlockedShot,0.8440000152587891,0.6809999847412109,0.04483645781874657,Lucas Hernández,a,2276,OpenPlay,2025,RightFoot,29595,Lille,Paris Saint Germain,1,1,2025-10-05 18:45:00,Quentin Ndjantou,BallTouch
+647070,51,MissedShots,0.725999984741211,0.725,0.00980469398200512,Lucas Hernández,a,2276,OpenPlay,2025,LeftFoot,29595,Lille,Paris Saint Germain,1,1,2025-10-05 18:45:00,,None
+655154,71,MissedShots,0.840999984741211,0.6,0.040841244161129,Lucas Hernández,a,2276,OpenPlay,2025,LeftFoot,29661,Monaco,Paris Saint Germain,1,0,2025-11-29 16:00:00,Quentin Ndjantou,HeadPass
+670074,47,SavedShot,0.9469999694824218,0.5890000152587891,0.0741613432765007,Lucas Hernández,h,2276,FromCorner,2025,Head,29742,Paris Saint Germain,Metz,3,0,2026-02-21 20:05:00,Lee Kang-In,Cross
+670083,79,MissedShots,0.9359999847412109,0.5820000076293945,0.02705574408173561,Lucas Hernández,h,2276,FromCorner,2025,Head,29742,Paris Saint Germain,Metz,3,0,2026-02-21 20:05:00,Khvicha Kvaratskhelia,Aerial
+671401,53,BlockedShot,0.79,0.72,0.025657782331109047,Lucas Hernández,a,2276,OpenPlay,2025,LeftFoot,29745,Le Havre,Paris Saint Germain,0,1,2026-02-28 20:05:00,Warren Zaïre-Emery,Pass
+682698,33,ShotOnPost,0.9169999694824219,0.5220000076293946,0.04273207485675812,Lucas Hernández,h,2276,FromCorner,2025,Head,29824,Paris Saint Germain,Lorient,2,2,2026-05-03 13:00:00,Senny Mayulu,Aerial
+682713,84,BlockedShot,0.914000015258789,0.6090000152587891,0.024335632100701332,Lucas Hernández,h,2276,OpenPlay,2025,Head,29824,Paris Saint Germain,Lorient,2,2,2026-05-03 13:00:00,Lee Kang-In,Aerial
+682714,84,ShotOnPost,0.945,0.575999984741211,0.3051568269729614,Lucas Hernández,h,2276,FromCorner,2025,Head,29824,Paris Saint Germain,Lorient,2,2,2026-05-03 13:00:00,Lee Kang-In,Cross
+684515,6,SavedShot,0.7719999694824219,0.7559999847412109,0.011608998291194439,Lucas Hernández,h,2276,OpenPlay,2025,LeftFoot,29832,Paris Saint Germain,Brest,1,0,2026-05-10 19:00:00,Beraldo,HeadPass

@@ -1,0 +1,15 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+146919,87,Goal,0.8190000152587891,0.7069999694824218,0.26209700107574463,Federico Melchiorri,h,1407,OpenPlay,2016,LeftFoot,989,Cagliari,Sampdoria,2,1,2016-09-26 23:00:00,,None
+148045,53,SavedShot,0.8969999694824219,0.45799999237060546,0.10130299627780914,Federico Melchiorri,a,1407,OpenPlay,2016,RightFoot,1005,Inter,Cagliari,1,2,2016-10-16 17:00:00,Fabio Pisacane,Cross
+148050,56,MissedShots,0.825,0.3920000076293945,0.04338829964399338,Federico Melchiorri,a,1407,OpenPlay,2016,LeftFoot,1005,Inter,Cagliari,1,2,2016-10-16 17:00:00,,None
+148054,70,Goal,0.9330000305175781,0.500999984741211,0.534296989440918,Federico Melchiorri,a,1407,OpenPlay,2016,LeftFoot,1005,Inter,Cagliari,1,2,2016-10-16 17:00:00,,None
+148057,80,MissedShots,0.9259999847412109,0.55,0.32220301032066345,Federico Melchiorri,a,1407,OpenPlay,2016,Head,1005,Inter,Cagliari,1,2,2016-10-16 17:00:00,Mauricio Isla,Cross
+148583,86,MissedShots,0.9640000152587891,0.5940000152587891,0.0754816010594368,Federico Melchiorri,h,1407,OpenPlay,2016,Head,1014,Cagliari,Fiorentina,3,5,2016-10-23 17:00:00,Simone Padoin,Cross
+149156,20,MissedShots,0.9119999694824219,0.3920000076293945,0.1054219976067543,Federico Melchiorri,a,1407,OpenPlay,2016,RightFoot,3283,Lazio,Cagliari,4,1,2016-10-26 22:45:00,Marco Borriello,Throughball
+149160,33,SavedShot,0.7959999847412109,0.664000015258789,0.026057999581098557,Federico Melchiorri,a,1407,OpenPlay,2016,RightFoot,3283,Lazio,Cagliari,4,1,2016-10-26 22:45:00,Nicola Murru,Pass
+150373,13,SavedShot,0.785,0.3729999923706055,0.01928820088505745,Federico Melchiorri,a,1407,OpenPlay,2016,LeftFoot,2746,Torino,Cagliari,5,1,2016-11-05 21:00:00,,None
+150378,30,SavedShot,0.855,0.5279999923706055,0.01927410066127777,Federico Melchiorri,a,1407,OpenPlay,2016,Head,2746,Torino,Cagliari,5,1,2016-11-05 21:00:00,Fabio Pisacane,Cross
+150383,40,Goal,0.91,0.425,0.06880979984998703,Federico Melchiorri,a,1407,OpenPlay,2016,Head,2746,Torino,Cagliari,5,1,2016-11-05 21:00:00,Fabio Pisacane,Cross
+152352,84,BlockedShot,0.9059999847412109,0.68,0.07275719940662384,Federico Melchiorri,h,1407,OpenPlay,2016,LeftFoot,3078,Cagliari,Napoli,0,5,2016-12-11 15:30:00,Diego Farias,Pass
+152825,75,MissedShots,0.905,0.57,0.05702190101146698,Federico Melchiorri,a,1407,OpenPlay,2016,Head,3087,Empoli,Cagliari,2,0,2016-12-17 18:00:00,Diego Farias,Cross
+152828,80,MissedShots,0.96,0.6659999847412109,0.04002700001001358,Federico Melchiorri,a,1407,OpenPlay,2016,LeftFoot,3087,Empoli,Cagliari,2,0,2016-12-17 18:00:00,,Rebound

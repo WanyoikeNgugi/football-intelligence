@@ -1,0 +1,15 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+228291,54,MissedShots,0.8880000305175781,0.4329999923706055,0.014392100274562836,Nathaël Julan,a,7171,SetPiece,2018,Head,10713,Angers,Guingamp,0,1,2018-09-29 18:00:00,Nicolas Benezet,Aerial
+228292,56,MissedShots,0.9030000305175782,0.29399999618530276,0.025464599952101707,Nathaël Julan,a,7171,OpenPlay,2018,LeftFoot,10713,Angers,Guingamp,0,1,2018-09-29 18:00:00,,Aerial
+228295,73,SavedShot,0.89,0.3320000076293945,0.030311400070786476,Nathaël Julan,a,7171,SetPiece,2018,Head,10713,Angers,Guingamp,0,1,2018-09-29 18:00:00,Nicolas Benezet,HeadPass
+228301,90,SavedShot,0.9230000305175782,0.46099998474121096,0.5266749858856201,Nathaël Julan,a,7171,OpenPlay,2018,RightFoot,10713,Angers,Guingamp,0,1,2018-09-29 18:00:00,Nicolas Benezet,Pass
+228302,92,MissedShots,0.8690000152587891,0.3270000076293945,0.026273099705576897,Nathaël Julan,a,7171,OpenPlay,2018,RightFoot,10713,Angers,Guingamp,0,1,2018-09-29 18:00:00,Lucas Deaux,Cross
+260570,54,BlockedShot,0.82,0.34900001525878904,0.039371099323034286,Nathaël Julan,h,7171,OpenPlay,2018,LeftFoot,10726,Guingamp,Montpellier,1,1,2018-10-06 18:00:00,Lucas Deaux,Pass
+260572,59,MissedShots,0.9059999847412109,0.3609999847412109,0.07423929870128632,Nathaël Julan,h,7171,OpenPlay,2018,LeftFoot,10726,Guingamp,Montpellier,1,1,2018-10-06 18:00:00,Nicolas Benezet,Pass
+260774,55,SavedShot,0.9019999694824219,0.53,0.1351650059223175,Nathaël Julan,a,7171,OpenPlay,2018,RightFoot,10733,Caen,Guingamp,0,0,2018-10-20 18:00:00,Nicolas Benezet,Pass
+260776,70,BlockedShot,0.8190000152587891,0.585,0.05004329979419708,Nathaël Julan,a,7171,OpenPlay,2018,LeftFoot,10733,Caen,Guingamp,0,0,2018-10-20 18:00:00,Pedro Rebocho,Pass
+261033,53,BlockedShot,0.7969999694824219,0.325,0.038018599152565,Nathaël Julan,h,7171,OpenPlay,2018,RightFoot,10746,Guingamp,Strasbourg,1,1,2018-10-27 18:00:00,,BallRecovery
+261709,14,SavedShot,0.9219999694824219,0.5879999923706055,0.060287900269031525,Nathaël Julan,a,7171,FromCorner,2018,Head,10778,Reims,Guingamp,2,1,2018-11-24 19:00:00,Pedro Rebocho,Cross
+261716,57,SavedShot,0.9030000305175782,0.47400001525878904,0.34988299012184143,Nathaël Julan,a,7171,OpenPlay,2018,RightFoot,10778,Reims,Guingamp,2,1,2018-11-24 19:00:00,Nicolas Benezet,Cross
+261997,88,MissedShots,0.715,0.6370000076293946,0.013037200085818768,Nathaël Julan,h,7171,OpenPlay,2018,RightFoot,10783,Guingamp,Nice,0,0,2018-12-01 19:00:00,,Interception
+262525,84,SavedShot,0.9619999694824218,0.4809999847412109,0.1376579999923706,Nathaël Julan,h,7171,FromCorner,2018,Head,10804,Guingamp,Amiens,1,2,2018-12-08 19:00:00,Pedro Rebocho,Cross

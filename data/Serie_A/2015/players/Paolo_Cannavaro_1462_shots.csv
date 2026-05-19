@@ -1,0 +1,26 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+42833,10,MissedShots,0.965999984741211,0.66,0.013636600226163864,Paolo Cannavaro,a,1462,SetPiece,2014,Head,5075,Lazio,Sassuolo,3,2,2014-10-05 14:00:00,,None
+42852,82,BlockedShot,0.6709999847412109,0.625,0.011925400234758854,Paolo Cannavaro,a,1462,OpenPlay,2014,RightFoot,5075,Lazio,Sassuolo,3,2,2014-10-05 14:00:00,Simone Missiroli,Pass
+44292,7,MissedShots,0.755,0.43400001525878906,0.022905200719833374,Paolo Cannavaro,h,1462,OpenPlay,2014,RightFoot,5040,Sassuolo,Atalanta,0,0,2014-11-08 17:00:00,Francesco Magnanelli,Pass
+44506,50,MissedShots,0.8769999694824219,0.5420000076293945,0.025841500610113144,Paolo Cannavaro,a,1462,FromCorner,2014,Head,5052,Torino,Sassuolo,0,1,2014-11-23 11:30:00,Nicola Sansone,Cross
+45580,40,MissedShots,0.865,0.5690000152587891,0.04428590089082718,Paolo Cannavaro,h,1462,FromCorner,2014,RightFoot,4967,Sassuolo,Udinese,1,1,2015-01-10 17:00:00,Antonio Floro Flores,Cross
+47080,74,MissedShots,0.94,0.6229999923706054,0.412757009267807,Paolo Cannavaro,a,1462,OpenPlay,2014,OtherBodyPart,4932,Sampdoria,Sassuolo,1,1,2015-02-08 14:00:00,,Rebound
+48927,29,MissedShots,0.8090000152587891,0.48,0.03379010036587715,Paolo Cannavaro,a,1462,FromCorner,2014,RightFoot,4848,Atalanta,Sassuolo,2,1,2015-04-12 14:00:00,Nicola Sansone,Pass
+49409,92,MissedShots,0.675,0.544000015258789,0.012472400441765785,Paolo Cannavaro,h,1462,SetPiece,2014,RightFoot,4853,Sassuolo,Torino,1,1,2015-04-19 11:30:00,Nicola Sansone,Pass
+51259,11,MissedShots,0.8859999847412109,0.5609999847412109,0.028786299750208855,Paolo Cannavaro,a,1462,FromCorner,2014,Head,4794,Cesena,Sassuolo,2,3,2015-05-10 14:00:00,Domenico Berardi,Cross
+50163,13,SavedShot,0.6919999694824219,0.3629999923706055,0.012912300415337086,Paolo Cannavaro,h,1462,OpenPlay,2014,RightFoot,4825,Sassuolo,Genoa,3,1,2015-05-31 19:45:00,Francesco Magnanelli,Pass
+50182,66,SavedShot,0.9469999694824218,0.66,0.06861300021409988,Paolo Cannavaro,h,1462,SetPiece,2014,RightFoot,4825,Sassuolo,Genoa,3,1,2015-05-31 19:45:00,Domenico Berardi,Rebound
+93884,91,BlockedShot,0.7419999694824219,0.29700000762939455,0.014632700011134148,Paolo Cannavaro,h,1462,OpenPlay,2015,RightFoot,576,Sassuolo,Atalanta,2,2,2015-09-13 17:00:00,,Pass
+101996,34,MissedShots,0.46799999237060547,0.5940000152587891,0.006982029881328344,Paolo Cannavaro,h,1462,OpenPlay,2015,RightFoot,724,Sassuolo,Frosinone,2,2,2016-01-06 18:00:00,,BallRecovery
+95497,85,MissedShots,0.6990000152587891,0.47200000762939454,0.014577999711036682,Paolo Cannavaro,h,1462,OpenPlay,2015,RightFoot,771,Sassuolo,Roma,0,2,2016-02-02 23:45:00,Federico Peluso,Pass
+100712,86,MissedShots,0.8230000305175781,0.49599998474121093,0.04383059963583946,Paolo Cannavaro,h,1462,FromCorner,2015,RightFoot,882,Sassuolo,Sampdoria,0,0,2016-04-20 20:30:00,,None
+148554,85,SavedShot,0.9219999694824219,0.5120000076293946,0.06295129656791687,Paolo Cannavaro,a,1462,FromCorner,2016,Head,1018,Bologna,Sassuolo,1,1,2016-10-23 20:00:00,Matteo Politano,Pass
+149269,11,BlockedShot,0.7659999847412109,0.35900001525878905,0.02080729976296425,Paolo Cannavaro,h,1462,OpenPlay,2016,RightFoot,3288,Sassuolo,Roma,1,3,2016-10-26 22:45:00,,BallRecovery
+149270,11,Goal,0.9230000305175782,0.46599998474121096,0.378044992685318,Paolo Cannavaro,h,1462,OpenPlay,2016,Head,3288,Sassuolo,Roma,1,3,2016-10-26 22:45:00,Matteo Politano,Cross
+151663,79,SavedShot,0.88,0.355,0.02512120082974434,Paolo Cannavaro,h,1462,SetPiece,2016,RightFoot,3668,Sassuolo,Napoli,2,2,2017-04-23 11:30:00,Federico Ricci,Cross
+152624,11,BlockedShot,0.9540000152587891,0.3940000152587891,0.05876459926366806,Paolo Cannavaro,h,1462,FromCorner,2016,LeftFoot,3686,Sassuolo,Fiorentina,2,2,2017-05-07 14:00:00,Domenico Berardi,Cross
+172788,51,MissedShots,0.9619999694824218,0.64,0.015055299736559391,Paolo Cannavaro,h,1462,FromCorner,2017,Head,7506,Sassuolo,Genoa,0,0,2017-08-20 19:45:00,Stefano Sensi,Cross
+173076,29,MissedShots,0.674000015258789,0.5320000076293945,0.011240200139582157,Paolo Cannavaro,a,1462,OpenPlay,2017,RightFoot,7511,Torino,Sassuolo,3,0,2017-08-27 17:00:00,,Dispossessed
+173093,61,MissedShots,0.9569999694824218,0.61,0.24651700258255005,Paolo Cannavaro,a,1462,FromCorner,2017,LeftFoot,7511,Torino,Sassuolo,3,0,2017-08-27 17:00:00,Alfred Duncan,Cross
+173715,56,MissedShots,0.855,0.7380000305175781,0.03757090121507645,Paolo Cannavaro,a,1462,FromCorner,2017,RightFoot,7542,Cagliari,Sassuolo,0,1,2017-09-20 19:45:00,Alfred Duncan,Pass
+185908,1,BlockedShot,0.9419999694824219,0.42400001525878905,0.08751620352268219,Paolo Cannavaro,a,1462,FromCorner,2017,Head,7686,Roma,Sassuolo,1,1,2017-12-30 14:00:00,Matteo Politano,Cross

@@ -1,0 +1,8 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+591502,37,MissedShots,0.7280000305175781,0.62,0.01036418043076992,Nhoa Sangui,a,12317,SetPiece,2024,LeftFoot,28081,Nantes,Reims,1,2,2024-09-15 15:00:00,,None
+592778,94,ShotOnPost,0.84,0.6270000076293946,0.080063097178936,Nhoa Sangui,h,12317,OpenPlay,2024,LeftFoot,28086,Reims,Paris Saint Germain,1,1,2024-09-21 19:00:00,Amine Salama,Pass
+596230,21,BlockedShot,0.784000015258789,0.6379999923706055,0.01959981955587864,Nhoa Sangui,h,12317,FromCorner,2024,LeftFoot,28105,Reims,Montpellier,4,2,2024-10-06 15:00:00,,None
+645812,86,MissedShots,0.9,0.375,0.10640431195497513,Nhoa Sangui,h,12317,OpenPlay,2025,LeftFoot,29599,Paris FC,Lorient,2,0,2025-10-03 18:45:00,Jonathan Ikone,Pass
+673377,49,BlockedShot,0.754000015258789,0.7280000305175781,0.013491686433553696,Nhoa Sangui,a,12317,OpenPlay,2025,LeftFoot,29758,Lyon,Paris FC,1,1,2026-03-08 19:45:00,Moses Simon,Pass
+676027,41,MissedShots,0.7930000305175782,0.6090000152587891,0.03774586319923401,Nhoa Sangui,h,12317,OpenPlay,2025,RightFoot,29778,Paris FC,Le Havre,3,2,2026-03-22 16:15:00,Moses Simon,Pass
+677068,44,SavedShot,0.96,0.6379999923706055,0.3760335147380829,Nhoa Sangui,a,12317,OpenPlay,2025,LeftFoot,29785,Lorient,Paris FC,1,1,2026-04-05 15:15:00,,Rebound

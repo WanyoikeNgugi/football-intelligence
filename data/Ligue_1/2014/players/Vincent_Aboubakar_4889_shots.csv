@@ -1,0 +1,7 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+126,8,Goal,0.885,0.5,0.7600290179252625,Vincent Aboubakar,a,4889,Penalty,2014,RightFoot,6194,Monaco,Lorient,1,2,2014-08-10 20:00:00,,Standard
+132,41,BlockedShot,0.865,0.595999984741211,0.0590474009513855,Vincent Aboubakar,a,4889,FromCorner,2014,RightFoot,6194,Monaco,Lorient,1,2,2014-08-10 20:00:00,,None
+144,79,SavedShot,0.9830000305175781,0.6270000076293946,0.11760500073432922,Vincent Aboubakar,a,4889,OpenPlay,2014,LeftFoot,6194,Monaco,Lorient,1,2,2014-08-10 20:00:00,Lamine Koné,BallRecovery
+283,1,MissedShots,0.9630000305175781,0.35700000762939454,0.33393898606300354,Vincent Aboubakar,h,4889,FromCorner,2014,RightFoot,6200,Lorient,Nice,0,0,2014-08-16 19:00:00,,None
+285,26,MissedShots,0.7619999694824219,0.5259999847412109,0.024087699130177498,Vincent Aboubakar,h,4889,OpenPlay,2014,LeftFoot,6200,Lorient,Nice,0,0,2014-08-16 19:00:00,,None
+302,75,MissedShots,0.84,0.575,0.0350923016667366,Vincent Aboubakar,h,4889,FromCorner,2014,RightFoot,6200,Lorient,Nice,0,0,2014-08-16 19:00:00,Rafidine Abdullah,Chipped

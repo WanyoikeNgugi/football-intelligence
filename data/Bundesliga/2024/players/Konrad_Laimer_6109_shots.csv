@@ -1,0 +1,120 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+165894,16,MissedShots,0.7530000305175781,0.51,0.018281299620866776,Konrad Laimer,a,6109,FromCorner,2017,RightFoot,8265,Schalke 04,RasenBallsport Leipzig,2,0,2017-08-19 17:30:00,,None
+166529,8,MissedShots,0.769000015258789,0.515,0.03196119889616966,Konrad Laimer,h,6109,OpenPlay,2017,RightFoot,8291,RasenBallsport Leipzig,Borussia M.Gladbach,2,2,2017-09-16 17:30:00,Jean-Kevin Augustin,BallTouch
+189854,73,MissedShots,0.8040000152587891,0.225,0.015178199857473373,Konrad Laimer,h,6109,OpenPlay,2017,LeftFoot,8435,RasenBallsport Leipzig,Hamburger SV,1,1,2018-01-27 14:30:00,Marcel Sabitzer,Pass
+189861,91,BlockedShot,0.8440000152587891,0.5420000076293945,0.08099880069494247,Konrad Laimer,h,6109,OpenPlay,2017,LeftFoot,8435,RasenBallsport Leipzig,Hamburger SV,1,1,2018-01-27 14:30:00,Naby Keita,Pass
+214556,26,BlockedShot,0.870999984741211,0.27299999237060546,0.05318880081176758,Konrad Laimer,a,6109,OpenPlay,2017,RightFoot,8558,Hertha Berlin,RasenBallsport Leipzig,2,6,2018-05-12 14:30:00,Naby Keita,Pass
+223411,84,SavedShot,0.7769999694824219,0.6229999923706054,0.03449609875679016,Konrad Laimer,h,6109,OpenPlay,2018,RightFoot,10356,RasenBallsport Leipzig,Hannover 96,3,2,2018-09-15 13:30:00,Marcel Sabitzer,Pass
+227843,41,MissedShots,0.850999984741211,0.3189999961853027,0.044905900955200195,Konrad Laimer,a,6109,OpenPlay,2018,RightFoot,10385,Hoffenheim,RasenBallsport Leipzig,1,2,2018-09-29 13:30:00,Yussuf Poulsen,Pass
+256089,87,MissedShots,0.9,0.46799999237060547,0.13981099426746368,Konrad Laimer,a,6109,OpenPlay,2018,RightFoot,10418,Hertha Berlin,RasenBallsport Leipzig,0,3,2018-11-03 17:30:00,Yussuf Poulsen,Throughball
+257365,81,MissedShots,0.9780000305175781,0.46599998474121096,0.8668010234832764,Konrad Laimer,h,6109,OpenPlay,2018,RightFoot,10465,RasenBallsport Leipzig,Mainz 05,4,1,2018-12-16 14:30:00,,None
+257655,4,SavedShot,0.7380000305175781,0.5179999923706055,0.02030709944665432,Konrad Laimer,a,6109,OpenPlay,2018,RightFoot,10472,Bayern Munich,RasenBallsport Leipzig,1,0,2018-12-19 19:30:00,Bruma,Pass
+278435,33,BlockedShot,0.8730000305175781,0.4909999847412109,0.07214529812335968,Konrad Laimer,h,6109,OpenPlay,2018,RightFoot,10490,RasenBallsport Leipzig,Borussia Dortmund,0,1,2019-01-19 17:30:00,Marcel Sabitzer,None
+278748,67,Goal,0.9069999694824219,0.5570000076293945,0.5363609790802002,Konrad Laimer,a,6109,OpenPlay,2018,LeftFoot,10507,Fortuna Duesseldorf,RasenBallsport Leipzig,0,4,2019-01-27 17:00:00,,None
+279563,44,SavedShot,0.914000015258789,0.6270000076293946,0.3439069986343384,Konrad Laimer,h,6109,OpenPlay,2018,LeftFoot,10537,RasenBallsport Leipzig,Hoffenheim,1,1,2019-02-25 19:30:00,Yussuf Poulsen,Pass
+279570,75,BlockedShot,0.8030000305175782,0.505,0.03821529820561409,Konrad Laimer,h,6109,SetPiece,2018,RightFoot,10537,RasenBallsport Leipzig,Hoffenheim,1,1,2019-02-25 19:30:00,,None
+279610,32,BlockedShot,0.9290000152587891,0.5129999923706055,0.11299200356006622,Konrad Laimer,a,6109,OpenPlay,2018,RightFoot,10552,Nuernberg,RasenBallsport Leipzig,0,1,2019-03-02 14:30:00,Lukas Klostermann,Cross
+279615,55,SavedShot,0.9209999847412109,0.625999984741211,0.3410469889640808,Konrad Laimer,a,6109,OpenPlay,2018,RightFoot,10552,Nuernberg,RasenBallsport Leipzig,0,1,2019-03-02 14:30:00,Yussuf Poulsen,Pass
+284396,15,MissedShots,0.9159999847412109,0.4759999847412109,0.12807400524616241,Konrad Laimer,h,6109,OpenPlay,2018,Head,10556,RasenBallsport Leipzig,Augsburg,0,0,2019-03-09 14:30:00,Marcel Sabitzer,Cross
+297326,12,MissedShots,0.6940000152587891,0.5520000076293945,0.011789199896156788,Konrad Laimer,h,6109,FromCorner,2018,RightFoot,10609,RasenBallsport Leipzig,Freiburg,2,1,2019-04-27 14:30:00,,Aerial
+300792,75,BlockedShot,0.8369999694824218,0.605,0.053954001516103745,Konrad Laimer,h,6109,OpenPlay,2018,RightFoot,10628,RasenBallsport Leipzig,Bayern Munich,0,0,2019-05-11 14:30:00,Marcel Sabitzer,Pass
+317515,83,SavedShot,0.705,0.5429999923706055,0.011220400221645832,Konrad Laimer,h,6109,OpenPlay,2019,LeftFoot,12436,RasenBallsport Leipzig,Bayern Munich,1,1,2019-09-14 16:30:00,Marcel Sabitzer,HeadPass
+320648,59,SavedShot,0.785,0.664000015258789,0.026140600442886353,Konrad Laimer,a,6109,OpenPlay,2019,RightFoot,12444,Werder Bremen,RasenBallsport Leipzig,0,3,2019-09-21 16:30:00,Timo Werner,Pass
+332459,36,Goal,0.8159999847412109,0.53,0.10222499817609787,Konrad Laimer,h,6109,OpenPlay,2019,LeftFoot,12504,RasenBallsport Leipzig,FC Cologne,4,1,2019-11-23 17:30:00,,TakeOn
+333568,87,BlockedShot,0.8119999694824219,0.3940000152587891,0.035563498735427856,Konrad Laimer,a,6109,OpenPlay,2019,RightFoot,12517,Paderborn,RasenBallsport Leipzig,2,3,2019-11-30 14:30:00,,TakeOn
+338574,36,MissedShots,0.860999984741211,0.5220000076293946,0.3545509874820709,Konrad Laimer,h,6109,OpenPlay,2019,LeftFoot,12548,RasenBallsport Leipzig,Augsburg,3,1,2019-12-21 14:30:00,,TakeOn
+338586,67,Goal,0.8569999694824219,0.5840000152587891,0.06017540022730827,Konrad Laimer,h,6109,OpenPlay,2019,RightFoot,12548,RasenBallsport Leipzig,Augsburg,3,1,2019-12-21 14:30:00,,BallRecovery
+354998,48,BlockedShot,0.735999984741211,0.41200000762939454,0.018884699791669846,Konrad Laimer,h,6109,OpenPlay,2019,RightFoot,12556,RasenBallsport Leipzig,Union Berlin,3,1,2020-01-18 17:30:00,Timo Werner,Pass
+362937,1,MissedShots,0.8119999694824219,0.4420000076293945,0.05730549991130829,Konrad Laimer,h,6109,OpenPlay,2019,RightFoot,12629,RasenBallsport Leipzig,Freiburg,1,1,2020-05-16 13:30:00,Christopher Nkunku,Pass
+362941,22,SavedShot,0.8280000305175781,0.5629999923706055,0.06824199855327606,Konrad Laimer,h,6109,OpenPlay,2019,RightFoot,12629,RasenBallsport Leipzig,Freiburg,1,1,2020-05-16 13:30:00,Nordi Mukiele,Pass
+363455,6,SavedShot,0.8209999847412109,0.44,0.06654780358076096,Konrad Laimer,h,6109,OpenPlay,2019,RightFoot,12653,RasenBallsport Leipzig,Hertha Berlin,2,2,2020-05-27 16:30:00,Marcel Sabitzer,Pass
+422798,13,MissedShots,0.9459999847412109,0.4229999923706055,0.057051900774240494,Konrad Laimer,h,6109,OpenPlay,2020,Head,15428,RasenBallsport Leipzig,Wolfsburg,2,2,2021-05-16 18:30:00,Emil Forsberg,Chipped
+423530,80,SavedShot,0.9469999694824218,0.34,0.0633373036980629,Konrad Laimer,a,6109,OpenPlay,2020,RightFoot,15442,Union Berlin,RasenBallsport Leipzig,2,1,2021-05-22 13:30:00,,Rebound
+423532,87,SavedShot,0.7959999847412109,0.6179999923706054,0.030368100851774216,Konrad Laimer,a,6109,OpenPlay,2020,RightFoot,15442,Union Berlin,RasenBallsport Leipzig,2,1,2021-05-22 13:30:00,Alexander Sørloth,Pass
+426712,68,MissedShots,0.93,0.40099998474121096,0.13795199990272522,Konrad Laimer,h,6109,OpenPlay,2021,RightFoot,17525,RasenBallsport Leipzig,VfB Stuttgart,4,0,2021-08-20 18:30:00,Lukas Klostermann,Pass
+430119,35,SavedShot,0.895,0.4620000076293945,0.033017199486494064,Konrad Laimer,h,6109,SetPiece,2021,Head,17548,RasenBallsport Leipzig,Bayern Munich,1,4,2021-09-11 16:30:00,,None
+430128,57,Goal,0.7219999694824218,0.4859999847412109,0.01328209973871708,Konrad Laimer,h,6109,OpenPlay,2021,RightFoot,17548,RasenBallsport Leipzig,Bayern Munich,1,4,2021-09-11 16:30:00,Kevin Kampl,Pass
+444800,46,SavedShot,0.825,0.5070000076293946,0.07829649746417999,Konrad Laimer,h,6109,OpenPlay,2021,LeftFoot,17631,RasenBallsport Leipzig,Bayer Leverkusen,1,3,2021-11-28 16:30:00,,TakeOn
+447596,6,MissedShots,0.94,0.48900001525878906,0.6120780110359192,Konrad Laimer,h,6109,OpenPlay,2021,RightFoot,17649,RasenBallsport Leipzig,Borussia M.Gladbach,4,1,2021-12-11 14:30:00,,Rebound
+455215,19,MissedShots,0.7530000305175781,0.639000015258789,0.018392600119113922,Konrad Laimer,h,6109,OpenPlay,2021,RightFoot,17695,RasenBallsport Leipzig,Wolfsburg,2,0,2022-01-23 14:30:00,Hugo Novoa Ramos,Pass
+455922,26,MissedShots,0.9530000305175781,0.41900001525878905,0.44671401381492615,Konrad Laimer,a,6109,OpenPlay,2021,RightFoot,17704,Bayern Munich,RasenBallsport Leipzig,3,2,2022-02-05 17:30:00,Christopher Nkunku,Pass
+456747,68,MissedShots,0.745,0.3629999923706055,0.018539100885391235,Konrad Laimer,h,6109,OpenPlay,2021,RightFoot,17713,RasenBallsport Leipzig,FC Cologne,3,1,2022-02-11 19:30:00,Benjamin Henrichs,Pass
+463364,33,Goal,0.9130000305175782,0.33599998474121096,0.4393340051174164,Konrad Laimer,a,6109,OpenPlay,2021,RightFoot,17741,Greuther Fuerth,RasenBallsport Leipzig,1,6,2022-03-13 18:30:00,Christopher Nkunku,HeadPass
+464590,40,ShotOnPost,0.7909999847412109,0.40900001525878904,0.03598390147089958,Konrad Laimer,h,6109,OpenPlay,2021,RightFoot,17757,RasenBallsport Leipzig,Eintracht Frankfurt,0,0,2022-03-20 14:30:00,Christopher Nkunku,Pass
+464594,48,MissedShots,0.7,0.4640000152587891,0.020869899541139603,Konrad Laimer,h,6109,FromCorner,2021,RightFoot,17757,RasenBallsport Leipzig,Eintracht Frankfurt,0,0,2022-03-20 14:30:00,Kevin Kampl,Pass
+464597,61,SavedShot,0.9009999847412109,0.3970000076293945,0.38290899991989136,Konrad Laimer,h,6109,OpenPlay,2021,RightFoot,17757,RasenBallsport Leipzig,Eintracht Frankfurt,0,0,2022-03-20 14:30:00,Christopher Nkunku,Pass
+465412,20,Goal,0.9159999847412109,0.3609999847412109,0.28571099042892456,Konrad Laimer,a,6109,OpenPlay,2021,RightFoot,17767,Borussia Dortmund,RasenBallsport Leipzig,1,4,2022-04-02 16:30:00,Christopher Nkunku,Pass
+465414,29,Goal,0.81,0.47400001525878904,0.06619779765605927,Konrad Laimer,a,6109,OpenPlay,2021,LeftFoot,17767,Borussia Dortmund,RasenBallsport Leipzig,1,4,2022-04-02 16:30:00,,None
+469857,93,MissedShots,0.8369999694824218,0.5220000076293946,0.0567282997071743,Konrad Laimer,h,6109,OpenPlay,2021,RightFoot,17793,RasenBallsport Leipzig,Union Berlin,1,2,2022-04-23 13:30:00,,None
+483565,48,SavedShot,0.754000015258789,0.5070000076293946,0.014313500374555588,Konrad Laimer,h,6109,FromCorner,2022,RightFoot,19370,RasenBallsport Leipzig,Wolfsburg,2,0,2022-08-27 13:30:00,,Aerial
+483575,67,MissedShots,0.7430000305175781,0.5020000076293946,0.016815900802612305,Konrad Laimer,h,6109,FromCorner,2022,RightFoot,19370,RasenBallsport Leipzig,Wolfsburg,2,0,2022-08-27 13:30:00,,None
+504385,91,BlockedShot,0.72,0.5409999847412109,0.010672800242900848,Konrad Laimer,h,6109,SetPiece,2022,RightFoot,19478,RasenBallsport Leipzig,Bayern Munich,1,1,2023-01-20 19:30:00,,None
+504386,91,MissedShots,0.875,0.6430000305175781,0.07557369768619537,Konrad Laimer,h,6109,OpenPlay,2022,LeftFoot,19478,RasenBallsport Leipzig,Bayern Munich,1,1,2023-01-20 19:30:00,Josko Gvardiol,Pass
+505307,18,SavedShot,0.9590000152587891,0.6509999847412109,0.41920599341392517,Konrad Laimer,a,6109,OpenPlay,2022,LeftFoot,19493,Schalke 04,RasenBallsport Leipzig,1,6,2023-01-24 17:30:00,Dani Olmo,Throughball
+505326,65,BlockedShot,0.8780000305175781,0.51,0.42815101146698,Konrad Laimer,a,6109,OpenPlay,2022,RightFoot,19493,Schalke 04,RasenBallsport Leipzig,1,6,2023-01-24 17:30:00,,Rebound
+508621,13,MissedShots,0.6709999847412109,0.415,0.009130329824984074,Konrad Laimer,h,6109,OpenPlay,2022,RightFoot,19514,RasenBallsport Leipzig,Union Berlin,1,2,2023-02-11 17:30:00,,None
+508624,30,BlockedShot,0.9,0.4759999847412109,0.1203330010175705,Konrad Laimer,h,6109,FromCorner,2022,LeftFoot,19514,RasenBallsport Leipzig,Union Berlin,1,2,2023-02-11 17:30:00,,Rebound
+509548,84,Goal,0.935,0.65,0.30191099643707275,Konrad Laimer,a,6109,OpenPlay,2022,LeftFoot,19527,Wolfsburg,RasenBallsport Leipzig,0,3,2023-02-18 14:30:00,Christopher Nkunku,Pass
+510762,23,SavedShot,0.8730000305175781,0.3609999847412109,0.11382199823856354,Konrad Laimer,h,6109,OpenPlay,2022,RightFoot,19532,RasenBallsport Leipzig,Eintracht Frankfurt,2,1,2023-02-25 14:30:00,Dominik Szoboszlai,Pass
+510772,66,MissedShots,0.865999984741211,0.5170000076293946,0.11352799832820892,Konrad Laimer,h,6109,OpenPlay,2022,RightFoot,19532,RasenBallsport Leipzig,Eintracht Frankfurt,2,1,2023-02-25 14:30:00,Benjamin Henrichs,Pass
+510773,84,MissedShots,0.9119999694824219,0.34700000762939454,0.28565800189971924,Konrad Laimer,h,6109,OpenPlay,2022,RightFoot,19532,RasenBallsport Leipzig,Eintracht Frankfurt,2,1,2023-02-25 14:30:00,Christopher Nkunku,Pass
+519281,82,SavedShot,0.7959999847412109,0.4909999847412109,0.04618469998240471,Konrad Laimer,h,6109,OpenPlay,2022,RightFoot,19586,RasenBallsport Leipzig,Augsburg,3,2,2023-04-15 13:30:00,,Rebound
+522591,9,SavedShot,0.7959999847412109,0.2539999961853027,0.017586609348654747,Konrad Laimer,h,6109,OpenPlay,2022,RightFoot,19604,RasenBallsport Leipzig,Hoffenheim,1,0,2023-04-29 13:30:00,Timo Werner,Pass
+526704,20,SavedShot,0.8569999694824219,0.5259999847412109,0.08466186374425888,Konrad Laimer,h,6109,OpenPlay,2022,RightFoot,19623,RasenBallsport Leipzig,Werder Bremen,2,1,2023-05-14 15:30:00,,BallRecovery
+526708,51,SavedShot,0.735,0.45299999237060545,0.019042089581489563,Konrad Laimer,h,6109,OpenPlay,2022,RightFoot,19623,RasenBallsport Leipzig,Werder Bremen,2,1,2023-05-14 15:30:00,Benjamin Henrichs,Pass
+527677,64,Goal,0.8630000305175781,0.4759999847412109,0.09947719424962997,Konrad Laimer,a,6109,OpenPlay,2022,RightFoot,19630,Bayern Munich,RasenBallsport Leipzig,1,3,2023-05-20 16:30:00,,None
+527682,82,MissedShots,0.7280000305175781,0.509000015258789,0.024056071415543556,Konrad Laimer,a,6109,OpenPlay,2022,RightFoot,19630,Bayern Munich,RasenBallsport Leipzig,1,3,2023-05-20 16:30:00,Dominik Szoboszlai,BallRecovery
+528911,2,MissedShots,0.9009999847412109,0.6719999694824219,0.4801778793334961,Konrad Laimer,h,6109,OpenPlay,2022,LeftFoot,19640,RasenBallsport Leipzig,Schalke 04,4,2,2023-05-27 13:30:00,Christopher Nkunku,Throughball
+528912,9,Goal,0.9259999847412109,0.534000015258789,0.549445390701294,Konrad Laimer,h,6109,OpenPlay,2022,LeftFoot,19640,RasenBallsport Leipzig,Schalke 04,4,2,2023-05-27 13:30:00,,None
+537231,2,SavedShot,0.885,0.36900001525878906,0.0893462523818016,Konrad Laimer,h,6109,OpenPlay,2023,LeftFoot,23092,Bayern Munich,Bayer Leverkusen,2,2,2023-09-15 18:30:00,Leroy Sané,Pass
+537246,45,BlockedShot,0.7869999694824219,0.5670000076293945,0.025043603032827377,Konrad Laimer,h,6109,FromCorner,2023,LeftFoot,23092,Bayern Munich,Bayer Leverkusen,2,2,2023-09-15 18:30:00,,None
+539010,8,MissedShots,0.924000015258789,0.37099998474121093,0.01513983216136694,Konrad Laimer,h,6109,FromCorner,2023,Head,23104,Bayern Munich,Bochum,7,0,2023-09-23 13:30:00,Joshua Kimmich,Chipped
+548248,17,MissedShots,0.8119999694824219,0.5659999847412109,0.0354158841073513,Konrad Laimer,h,6109,FromCorner,2023,LeftFoot,23155,Bayern Munich,FC Heidenheim,4,2,2023-11-11 14:30:00,,None
+552856,80,MissedShots,0.8369999694824218,0.3679999923706055,0.03673059120774269,Konrad Laimer,a,6109,FromCorner,2023,RightFoot,23184,Eintracht Frankfurt,Bayern Munich,5,1,2023-12-09 14:30:00,,None
+555038,7,SavedShot,0.985,0.39099998474121095,0.10811195522546768,Konrad Laimer,h,6109,OpenPlay,2023,RightFoot,23191,Bayern Munich,VfB Stuttgart,3,0,2023-12-17 18:30:00,Jamal Musiala,Pass
+555054,61,BlockedShot,0.8769999694824219,0.3529999923706055,0.10225802659988403,Konrad Laimer,h,6109,OpenPlay,2023,RightFoot,23191,Bayern Munich,VfB Stuttgart,3,0,2023-12-17 18:30:00,Alphonso Davies,Pass
+555649,31,MissedShots,0.9019999694824219,0.28600000381469726,0.039917174726724625,Konrad Laimer,a,6109,OpenPlay,2023,RightFoot,23204,Wolfsburg,Bayern Munich,1,2,2023-12-20 19:30:00,,Rebound
+557840,59,SavedShot,0.9519999694824218,0.37599998474121094,0.34049439430236816,Konrad Laimer,h,6109,OpenPlay,2023,RightFoot,23209,Bayern Munich,Hoffenheim,3,0,2024-01-12 19:30:00,Thomas Müller,Pass
+559294,61,SavedShot,0.9719999694824218,0.42700000762939455,0.11489835381507874,Konrad Laimer,h,6109,FromCorner,2023,RightFoot,23218,Bayern Munich,Werder Bremen,0,1,2024-01-21 14:30:00,Leroy Sané,Cross
+559535,11,MissedShots,0.894000015258789,0.3579999923706055,0.07469223439693451,Konrad Laimer,h,6109,OpenPlay,2023,RightFoot,23173,Bayern Munich,Union Berlin,1,0,2024-01-24 18:30:00,Leroy Sané,BallTouch
+559542,41,BlockedShot,0.7269999694824218,0.32599998474121095,0.015746450051665306,Konrad Laimer,h,6109,OpenPlay,2023,RightFoot,23173,Bayern Munich,Union Berlin,1,0,2024-01-24 18:30:00,Joshua Kimmich,Pass
+565400,67,MissedShots,0.860999984741211,0.43099998474121093,0.09861849993467331,Konrad Laimer,h,6109,OpenPlay,2023,RightFoot,23271,Bayern Munich,RasenBallsport Leipzig,2,1,2024-02-24 17:30:00,Harry Kane,BallTouch
+569425,86,MissedShots,0.8190000152587891,0.47200000762939454,0.09156031906604767,Konrad Laimer,a,6109,OpenPlay,2023,RightFoot,23298,Darmstadt,Bayern Munich,2,5,2024-03-16 14:30:00,Jamal Musiala,Pass
+570981,18,MissedShots,0.7380000305175781,0.41900001525878905,0.019428638741374016,Konrad Laimer,h,6109,OpenPlay,2023,RightFoot,23299,Bayern Munich,Borussia Dortmund,0,2,2024-03-30 17:30:00,Jamal Musiala,Pass
+575171,80,MissedShots,0.8019999694824219,0.6930000305175781,0.028573492541909218,Konrad Laimer,a,6109,OpenPlay,2023,RightFoot,23327,Union Berlin,Bayern Munich,1,5,2024-04-20 16:30:00,Bryan Zaragoza,Pass
+581731,17,SavedShot,0.88,0.3340000152587891,0.09762641042470932,Konrad Laimer,a,6109,OpenPlay,2023,RightFoot,23367,Hoffenheim,Bayern Munich,4,2,2024-05-18 13:30:00,Thomas Müller,Pass
+592171,7,ShotOnPost,0.8109999847412109,0.3220000076293945,0.02950768545269966,Konrad Laimer,a,6109,OpenPlay,2024,RightFoot,27773,Werder Bremen,Bayern Munich,0,5,2024-09-21 13:30:00,Kingsley Coman,Pass
+594363,93,MissedShots,0.8,0.295,0.024506226181983948,Konrad Laimer,h,6109,OpenPlay,2024,RightFoot,27784,Bayern Munich,Bayer Leverkusen,1,1,2024-09-28 16:30:00,Joshua Kimmich,Pass
+597303,75,SavedShot,0.9290000152587891,0.37599998474121094,0.1229039654135704,Konrad Laimer,h,6109,OpenPlay,2024,RightFoot,27797,Bayern Munich,VfB Stuttgart,4,0,2024-10-19 16:30:00,Leroy Sané,Pass
+599176,17,MissedShots,0.7659999847412109,0.3189999961853027,0.025134965777397156,Konrad Laimer,a,6109,OpenPlay,2024,RightFoot,27812,Bochum,Bayern Munich,0,5,2024-10-27 14:30:00,Kingsley Coman,Pass
+608068,24,Goal,0.9059999847412109,0.4329999923706055,0.41682663559913635,Konrad Laimer,h,6109,OpenPlay,2024,LeftFoot,27870,Bayern Munich,RasenBallsport Leipzig,5,1,2024-12-20 19:30:00,Michael Olise,Pass
+614805,43,BlockedShot,0.8190000152587891,0.37,0.03072218969464302,Konrad Laimer,h,6109,FromCorner,2024,RightFoot,27918,Bayern Munich,Holstein Kiel,4,3,2025-02-01 14:30:00,Jamal Musiala,Pass
+615890,91,SavedShot,0.9259999847412109,0.4279999923706055,0.5540609359741211,Konrad Laimer,h,6109,OpenPlay,2024,RightFoot,27922,Bayern Munich,Werder Bremen,3,0,2025-02-07 19:30:00,,None
+621128,67,SavedShot,0.835,0.34,0.04628841578960419,Konrad Laimer,h,6109,OpenPlay,2024,LeftFoot,27959,Bayern Munich,Bochum,2,3,2025-03-08 14:30:00,Michael Olise,Pass
+621136,93,MissedShots,0.8030000305175782,0.42200000762939455,0.01922990009188652,Konrad Laimer,h,6109,FromCorner,2024,RightFoot,27959,Bayern Munich,Bochum,2,3,2025-03-08 14:30:00,Joshua Kimmich,HeadPass
+624139,5,BlockedShot,0.904000015258789,0.29200000762939454,0.05013676732778549,Konrad Laimer,h,6109,OpenPlay,2024,RightFoot,27977,Bayern Munich,St. Pauli,3,2,2025-03-29 14:30:00,Jamal Musiala,Pass
+627328,8,MissedShots,0.9580000305175781,0.265,0.028250668197870255,Konrad Laimer,h,6109,SetPiece,2024,RightFoot,27996,Bayern Munich,Borussia Dortmund,2,2,2025-04-12 16:30:00,Michael Olise,Pass
+627354,76,BlockedShot,0.860999984741211,0.3390000152587891,0.05342097207903862,Konrad Laimer,h,6109,OpenPlay,2024,RightFoot,27996,Bayern Munich,Borussia Dortmund,2,2,2025-04-12 16:30:00,Michael Olise,Pass
+628464,18,Goal,0.8530000305175781,0.38,0.334793359041214,Konrad Laimer,a,6109,OpenPlay,2024,RightFoot,28005,FC Heidenheim,Bayern Munich,0,4,2025-04-19 13:30:00,Serge Gnabry,Throughball
+628474,42,BlockedShot,0.8780000305175781,0.4379999923706055,0.18524286150932312,Konrad Laimer,a,6109,OpenPlay,2024,LeftFoot,28005,FC Heidenheim,Bayern Munich,0,4,2025-04-19 13:30:00,Michael Olise,TakeOn
+630178,92,SavedShot,0.9730000305175781,0.6220000076293946,0.06123296916484833,Konrad Laimer,h,6109,SetPiece,2024,LeftFoot,28014,Bayern Munich,Mainz 05,3,0,2025-04-26 13:30:00,Thomas Müller,Pass
+631387,34,MissedShots,0.65,0.5629999923706055,0.011581975035369396,Konrad Laimer,a,6109,OpenPlay,2024,RightFoot,28021,RasenBallsport Leipzig,Bayern Munich,3,3,2025-05-03 13:30:00,Serge Gnabry,Pass
+631398,68,MissedShots,0.9740000152587891,0.5509999847412109,0.6010969877243042,Konrad Laimer,a,6109,OpenPlay,2024,Head,28021,RasenBallsport Leipzig,Bayern Munich,3,3,2025-05-03 13:30:00,Joshua Kimmich,Cross
+634403,19,MissedShots,0.7659999847412109,0.37799999237060544,0.0313279964029789,Konrad Laimer,a,6109,FromCorner,2024,RightFoot,28041,Hoffenheim,Bayern Munich,0,4,2025-05-17 13:30:00,Joshua Kimmich,Pass
+638514,10,SavedShot,0.899000015258789,0.29399999618530276,0.28661295771598816,Konrad Laimer,h,6109,OpenPlay,2025,RightFoot,30224,Bayern Munich,RasenBallsport Leipzig,6,0,2025-08-22 18:30:00,Harry Kane,Chipped
+640450,5,BlockedShot,0.8480000305175781,0.4779999923706055,0.0708450973033905,Konrad Laimer,a,6109,OpenPlay,2025,LeftFoot,30238,Augsburg,Bayern Munich,2,3,2025-08-30 16:30:00,,None
+640460,50,SavedShot,0.9069999694824219,0.38799999237060545,0.4404054880142212,Konrad Laimer,a,6109,OpenPlay,2025,RightFoot,30238,Augsburg,Bayern Munich,2,3,2025-08-30 16:30:00,Harry Kane,Pass
+641946,46,BlockedShot,0.86,0.27700000762939453,0.05126333609223366,Konrad Laimer,h,6109,OpenPlay,2025,RightFoot,30248,Bayern Munich,Hamburger SV,5,0,2025-09-13 16:30:00,Joshua Kimmich,Pass
+643009,94,SavedShot,0.9080000305175782,0.3,0.07795281708240509,Konrad Laimer,a,6109,OpenPlay,2025,RightFoot,30255,Hoffenheim,Bayern Munich,1,4,2025-09-20 13:30:00,Luis Díaz,Pass
+644394,86,Goal,0.955,0.615,0.3946045935153961,Konrad Laimer,h,6109,OpenPlay,2025,LeftFoot,30260,Bayern Munich,Werder Bremen,4,0,2025-09-26 18:30:00,Tom Bischof,Pass
+648922,90,MissedShots,0.7480000305175781,0.67,0.014441721141338348,Konrad Laimer,a,6109,FromCorner,2025,RightFoot,30289,Borussia M.Gladbach,Bayern Munich,0,3,2025-10-25 13:30:00,,None
+651089,20,SavedShot,0.725,0.549000015258789,0.025015195831656456,Konrad Laimer,h,6109,FromCorner,2025,RightFoot,30297,Bayern Munich,Bayer Leverkusen,3,0,2025-11-01 17:30:00,Raphael Guerreiro,Pass
+653569,92,MissedShots,0.825,0.4470000076293945,0.06347303092479706,Konrad Laimer,h,6109,OpenPlay,2025,LeftFoot,30315,Bayern Munich,Freiburg,6,2,2025-11-22 14:30:00,,None
+656845,10,Goal,0.94,0.4759999847412109,0.6025577783584595,Konrad Laimer,a,6109,OpenPlay,2025,RightFoot,30332,VfB Stuttgart,Bayern Munich,0,5,2025-12-06 14:30:00,Michael Olise,Pass
+656874,92,SavedShot,0.899000015258789,0.37,0.12407227605581284,Konrad Laimer,a,6109,OpenPlay,2025,RightFoot,30332,VfB Stuttgart,Bayern Munich,0,5,2025-12-06 14:30:00,Michael Olise,Pass
+662822,78,MissedShots,0.7830000305175782,0.6919999694824219,0.02476010099053383,Konrad Laimer,h,6109,FromCorner,2025,RightFoot,30360,Bayern Munich,Wolfsburg,8,1,2026-01-11 16:30:00,Tom Bischof,Pass
+672359,35,MissedShots,0.8719999694824219,0.33099998474121095,0.06627942621707916,Konrad Laimer,h,6109,OpenPlay,2025,RightFoot,30440,Bayern Munich,Borussia M.Gladbach,4,1,2026-03-06 19:30:00,Lennart Karl,Pass
+672362,45,Goal,0.8980000305175782,0.3870000076293945,0.4632773697376251,Konrad Laimer,h,6109,OpenPlay,2025,RightFoot,30440,Bayern Munich,Borussia M.Gladbach,4,1,2026-03-06 19:30:00,Luis Díaz,Pass
+672363,51,ShotOnPost,0.8069999694824219,0.37799999237060544,0.057645127177238464,Konrad Laimer,h,6109,OpenPlay,2025,RightFoot,30440,Bayern Munich,Borussia M.Gladbach,4,1,2026-03-06 19:30:00,Joshua Kimmich,Pass
+678054,42,MissedShots,0.8780000305175781,0.36700000762939455,0.025701235979795456,Konrad Laimer,a,6109,SetPiece,2025,RightFoot,30482,St. Pauli,Bayern Munich,0,5,2026-04-11 16:30:00,,Aerial
+680884,52,MissedShots,0.9290000152587891,0.30700000762939456,0.03804149106144905,Konrad Laimer,a,6109,OpenPlay,2025,RightFoot,30499,Mainz 05,Bayern Munich,3,4,2026-04-25 13:30:00,Alphonso Davies,Chipped

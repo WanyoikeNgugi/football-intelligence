@@ -1,0 +1,14 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+454254,83,MissedShots,0.779000015258789,0.735,0.2625400125980377,Jesús Corona,a,10323,OpenPlay,2021,RightFoot,17344,Valencia,Sevilla,1,1,2022-01-19 20:30:00,Diego Carlos,Throughball
+454741,15,SavedShot,0.889000015258789,0.6859999847412109,0.06471510231494904,Jesús Corona,h,10323,OpenPlay,2021,RightFoot,17353,Sevilla,Celta Vigo,2,2,2022-01-22 17:30:00,,TakeOn
+454744,35,MissedShots,0.8980000305175782,0.33299999237060546,0.06060519814491272,Jesús Corona,h,10323,OpenPlay,2021,RightFoot,17353,Sevilla,Celta Vigo,2,2,2022-01-22 17:30:00,,Rebound
+456032,69,MissedShots,0.9119999694824219,0.685,0.0699692964553833,Jesús Corona,a,10323,OpenPlay,2021,RightFoot,17362,Osasuna,Sevilla,0,0,2022-02-05 20:00:00,Alejandro Gomez,TakeOn
+460384,9,BlockedShot,0.9330000305175781,0.68,0.050484199076890945,Jesús Corona,h,10323,SetPiece,2021,LeftFoot,17393,Sevilla,Real Betis,2,1,2022-02-27 15:15:00,Diego Carlos,Rebound
+460398,74,MissedShots,0.8680000305175781,0.31,0.07495090365409851,Jesús Corona,h,10323,OpenPlay,2021,LeftFoot,17393,Sevilla,Real Betis,2,1,2022-02-27 15:15:00,Marcos Acuña,Chipped
+466469,60,MissedShots,0.914000015258789,0.43900001525878907,0.047351498156785965,Jesús Corona,h,10323,OpenPlay,2021,Head,17442,Sevilla,Granada,4,2,2022-04-08 19:00:00,Ludwig Augustinsson,Aerial
+469613,13,Goal,0.9630000305175781,0.5429999923706055,0.5580099821090698,Jesús Corona,a,10323,OpenPlay,2021,Head,17462,Levante,Sevilla,2,3,2022-04-21 17:00:00,Lucas Ocampos,Chipped
+469616,26,Goal,0.9490000152587891,0.47400001525878904,0.5747849941253662,Jesús Corona,a,10323,OpenPlay,2021,LeftFoot,17462,Levante,Sevilla,2,3,2022-04-21 17:00:00,Lucas Ocampos,Cross
+471197,63,MissedShots,0.850999984741211,0.4329999923706055,0.021932100877165794,Jesús Corona,h,10323,OpenPlay,2021,Head,17472,Sevilla,Cadiz,1,1,2022-04-29 19:00:00,Jules Koundé,Cross
+475176,33,BlockedShot,0.875999984741211,0.4909999847412109,0.10501600056886673,Jesús Corona,h,10323,OpenPlay,2021,RightFoot,17492,Sevilla,Mallorca,0,0,2022-05-11 18:30:00,Jules Koundé,Rebound
+478289,57,MissedShots,0.905,0.5670000076293945,0.08363600075244904,Jesús Corona,h,10323,OpenPlay,2021,RightFoot,17512,Sevilla,Athletic Club,1,0,2022-05-22 20:00:00,Erik Lamela,Cross
+526857,92,Goal,0.8969999694824219,0.5690000152587891,0.41919848322868347,Jesús Corona,a,10323,OpenPlay,2022,RightFoot,19294,Real Valladolid,Sevilla,0,3,2023-05-14 16:30:00,Fernando,TakeOn

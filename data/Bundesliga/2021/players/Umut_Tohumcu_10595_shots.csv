@@ -1,0 +1,25 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+505724,60,BlockedShot,0.7780000305175782,0.37099998474121093,0.020950300619006157,Umut Tohumcu,h,10595,OpenPlay,2022,RightFoot,19500,Hoffenheim,Borussia M.Gladbach,1,4,2023-01-28 14:30:00,Andrej Kramaric,Pass
+508306,92,MissedShots,0.720999984741211,0.5309999847412109,0.014417099766433239,Umut Tohumcu,h,10595,FromCorner,2022,RightFoot,19518,Hoffenheim,Bayer Leverkusen,1,3,2023-02-11 14:30:00,,None
+509336,60,BlockedShot,0.8030000305175782,0.47,0.04563499987125397,Umut Tohumcu,a,10595,OpenPlay,2022,RightFoot,19529,Augsburg,Hoffenheim,1,0,2023-02-17 19:30:00,,None
+509337,60,BlockedShot,0.7819999694824219,0.544000015258789,0.029178300872445107,Umut Tohumcu,a,10595,OpenPlay,2022,LeftFoot,19529,Augsburg,Hoffenheim,1,0,2023-02-17 19:30:00,Ihlas Bebou,Pass
+551123,34,BlockedShot,0.7969999694824219,0.6170000076293946,0.029291702434420586,Umut Tohumcu,a,10595,OpenPlay,2023,RightFoot,23177,Borussia M.Gladbach,Hoffenheim,2,1,2023-12-02 14:30:00,Maximilian Beier,Pass
+552497,5,SavedShot,0.774000015258789,0.6840000152587891,0.019621023908257484,Umut Tohumcu,h,10595,OpenPlay,2023,LeftFoot,23187,Hoffenheim,Bochum,3,1,2023-12-08 19:30:00,Andrej Kramaric,BlockedPass
+552504,30,MissedShots,0.8590000152587891,0.5059999847412109,0.058421336114406586,Umut Tohumcu,h,10595,FromCorner,2023,RightFoot,23187,Hoffenheim,Bochum,3,1,2023-12-08 19:30:00,Pavel Kaderábek,HeadPass
+552519,56,MissedShots,0.875,0.72,0.05312451347708702,Umut Tohumcu,h,10595,OpenPlay,2023,RightFoot,23187,Hoffenheim,Bochum,3,1,2023-12-08 19:30:00,Marius Bülter,Pass
+558906,73,BlockedShot,0.794000015258789,0.5679999923706055,0.03549123927950859,Umut Tohumcu,a,10595,OpenPlay,2023,RightFoot,23220,Freiburg,Hoffenheim,3,2,2024-01-20 14:30:00,,None
+559824,65,BlockedShot,0.8,0.575,0.03219699114561081,Umut Tohumcu,h,10595,FromCorner,2023,LeftFoot,23232,Hoffenheim,FC Heidenheim,1,1,2024-01-27 14:30:00,Andrej Kramaric,Cross
+561750,38,SavedShot,0.7369999694824219,0.6790000152587891,0.02039104700088501,Umut Tohumcu,a,10595,OpenPlay,2023,RightFoot,23239,Wolfsburg,Hoffenheim,2,2,2024-02-04 14:30:00,Andrej Kramaric,Pass
+565805,26,SavedShot,0.855,0.5670000076293945,0.062266718596220016,Umut Tohumcu,a,10595,OpenPlay,2023,LeftFoot,23270,Borussia Dortmund,Hoffenheim,2,3,2024-02-25 16:30:00,,Rebound
+567358,40,MissedShots,0.7719999694824219,0.545,0.049166593700647354,Umut Tohumcu,h,10595,OpenPlay,2023,RightFoot,23277,Hoffenheim,Werder Bremen,2,1,2024-03-03 16:30:00,Wout Weghorst,LayOff
+567359,41,BlockedShot,0.7680000305175781,0.40599998474121096,0.027914365753531456,Umut Tohumcu,h,10595,OpenPlay,2023,RightFoot,23277,Hoffenheim,Werder Bremen,2,1,2024-03-03 16:30:00,Wout Weghorst,Pass
+569621,78,BlockedShot,0.7430000305175781,0.5070000076293946,0.013627021573483944,Umut Tohumcu,h,10595,OpenPlay,2023,RightFoot,23296,Hoffenheim,VfB Stuttgart,0,3,2024-03-16 17:30:00,Andrej Kramaric,None
+572969,76,BlockedShot,0.83,0.40099998474121096,0.07199887186288834,Umut Tohumcu,h,10595,OpenPlay,2023,RightFoot,23314,Hoffenheim,Augsburg,3,1,2024-04-07 13:30:00,Maximilian Beier,Pass
+572975,82,BlockedShot,0.765,0.4779999923706055,0.03351209685206413,Umut Tohumcu,h,10595,FromCorner,2023,RightFoot,23314,Hoffenheim,Augsburg,3,1,2024-04-07 13:30:00,Florian Grillitsch,Pass
+576458,35,BlockedShot,0.8009999847412109,0.509000015258789,0.046545788645744324,Umut Tohumcu,a,10595,OpenPlay,2023,RightFoot,23341,Bochum,Hoffenheim,3,2,2024-04-26 18:30:00,Robert Skov,Pass
+581750,80,MissedShots,0.725999984741211,0.47900001525878905,0.01752016320824623,Umut Tohumcu,h,10595,OpenPlay,2023,RightFoot,23367,Hoffenheim,Bayern Munich,4,2,2024-05-18 13:30:00,Florian Grillitsch,Pass
+596969,72,SavedShot,0.754000015258789,0.6120000076293945,0.02615494467318058,Umut Tohumcu,h,10595,OpenPlay,2024,RightFoot,27799,Hoffenheim,Bochum,3,1,2024-10-19 13:30:00,Marius Bülter,Pass
+602095,32,BlockedShot,0.769000015258789,0.35200000762939454,0.02159140259027481,Umut Tohumcu,a,10595,OpenPlay,2024,RightFoot,27827,Augsburg,Hoffenheim,0,0,2024-11-10 14:30:00,Andrej Kramaric,BallTouch
+602097,37,MissedShots,0.7530000305175781,0.3579999923706055,0.022199932485818863,Umut Tohumcu,a,10595,OpenPlay,2024,RightFoot,27827,Augsburg,Hoffenheim,0,0,2024-11-10 14:30:00,Florian Grillitsch,Pass
+638702,83,MissedShots,0.860999984741211,0.54,0.06802213937044144,Umut Tohumcu,a,10595,FromCorner,2025,LeftFoot,30226,Bayer Leverkusen,Hoffenheim,1,2,2025-08-23 13:30:00,,None
+640177,21,MissedShots,0.7709999847412109,0.629000015258789,0.021310659125447273,Umut Tohumcu,h,10595,OpenPlay,2025,RightFoot,30234,Hoffenheim,Eintracht Frankfurt,1,3,2025-08-30 13:30:00,Fisnik Asllani,Pass

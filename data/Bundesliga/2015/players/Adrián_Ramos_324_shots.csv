@@ -1,0 +1,97 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+24677,77,Goal,0.9369999694824219,0.5459999847412109,0.5252079963684082,Adrián Ramos,a,324,FromCorner,2014,LeftFoot,5456,Augsburg,Borussia Dortmund,2,3,2014-08-29 19:30:00,,Rebound
+24682,88,MissedShots,0.8219999694824218,0.625,0.14417800307273865,Adrián Ramos,a,324,OpenPlay,2014,LeftFoot,5456,Augsburg,Borussia Dortmund,2,3,2014-08-29 19:30:00,Pierre-Emerick Aubameyang,Throughball
+24817,33,Goal,0.9480000305175781,0.5570000076293945,0.14171700179576874,Adrián Ramos,h,324,OpenPlay,2014,LeftFoot,5414,Borussia Dortmund,Freiburg,3,1,2014-09-13 14:30:00,Kevin Großkreutz,Pass
+24820,37,MissedShots,0.9019999694824219,0.629000015258789,0.017813799902796745,Adrián Ramos,h,324,OpenPlay,2014,Head,5414,Borussia Dortmund,Freiburg,3,1,2014-09-13 14:30:00,Henrikh Mkhitaryan,Aerial
+24824,48,MissedShots,0.8680000305175781,0.47,0.13233999907970428,Adrián Ramos,h,324,OpenPlay,2014,RightFoot,5414,Borussia Dortmund,Freiburg,3,1,2014-09-13 14:30:00,Erik Durm,Pass
+25081,13,MissedShots,0.91,0.6,0.41629400849342346,Adrián Ramos,a,324,OpenPlay,2014,Head,5426,Mainz 05,Borussia Dortmund,2,0,2014-09-20 17:30:00,Pierre-Emerick Aubameyang,Chipped
+25083,21,MissedShots,0.8159999847412109,0.485,0.021208500489592552,Adrián Ramos,a,324,OpenPlay,2014,RightFoot,5426,Mainz 05,Borussia Dortmund,2,0,2014-09-20 17:30:00,,Aerial
+25090,39,ShotOnPost,0.9290000152587891,0.42200000762939455,0.12986299395561218,Adrián Ramos,a,324,OpenPlay,2014,RightFoot,5426,Mainz 05,Borussia Dortmund,2,0,2014-09-20 17:30:00,Lukasz Piszczek,Pass
+25092,52,BlockedShot,0.889000015258789,0.48400001525878905,0.41510099172592163,Adrián Ramos,a,324,OpenPlay,2014,LeftFoot,5426,Mainz 05,Borussia Dortmund,2,0,2014-09-20 17:30:00,Kevin Großkreutz,Pass
+25498,15,MissedShots,0.8819999694824219,0.39799999237060546,0.0344805009663105,Adrián Ramos,a,324,FromCorner,2014,Head,5441,Schalke 04,Borussia Dortmund,2,1,2014-09-27 14:30:00,,None
+25766,71,SavedShot,0.9119999694824219,0.555,0.2934960126876831,Adrián Ramos,h,324,OpenPlay,2014,Head,5386,Borussia Dortmund,Hamburger SV,0,1,2014-10-04 14:30:00,Marcel Schmelzer,Cross
+25779,92,SavedShot,0.7219999694824218,0.49900001525878906,0.018511999398469925,Adrián Ramos,h,324,OpenPlay,2014,RightFoot,5386,Borussia Dortmund,Hamburger SV,0,1,2014-10-04 14:30:00,Marcel Schmelzer,Pass
+26204,57,MissedShots,0.879000015258789,0.5829999923706055,0.07937300205230713,Adrián Ramos,h,324,OpenPlay,2014,RightFoot,5406,Borussia Dortmund,Hannover 96,0,1,2014-10-25 14:30:00,Mats Hummels,Chipped
+26210,75,MissedShots,0.9230000305175782,0.534000015258789,0.29249298572540283,Adrián Ramos,h,324,OpenPlay,2014,Head,5406,Borussia Dortmund,Hannover 96,0,1,2014-10-25 14:30:00,Erik Durm,Cross
+27191,50,SavedShot,0.8859999847412109,0.580999984741211,0.08513449877500534,Adrián Ramos,a,324,OpenPlay,2014,LeftFoot,5382,Eintracht Frankfurt,Borussia Dortmund,2,0,2014-11-30 16:30:00,Pierre-Emerick Aubameyang,Pass
+27196,73,MissedShots,0.915,0.575,0.09586489945650101,Adrián Ramos,a,324,OpenPlay,2014,RightFoot,5382,Eintracht Frankfurt,Borussia Dortmund,2,0,2014-11-30 16:30:00,Pierre-Emerick Aubameyang,Pass
+27262,61,BlockedShot,0.879000015258789,0.3390000152587891,0.0742177963256836,Adrián Ramos,h,324,OpenPlay,2014,RightFoot,5312,Borussia Dortmund,Hoffenheim,1,0,2014-12-05 19:30:00,,None
+28165,86,BlockedShot,0.879000015258789,0.40400001525878904,0.018642500042915344,Adrián Ramos,a,324,FromCorner,2014,Head,5322,Hertha Berlin,Borussia Dortmund,1,0,2014-12-13 14:30:00,Ilkay Gündogan,Cross
+32254,69,SavedShot,0.9169999694824219,0.4129999923706055,0.0228303000330925,Adrián Ramos,h,324,SetPiece,2014,Head,5201,Borussia Dortmund,Bayern Munich,0,1,2015-04-04 17:30:00,Marco Reus,Aerial
+76562,80,SavedShot,0.904000015258789,0.46099998474121096,0.06966009736061096,Adrián Ramos,h,324,FromCorner,2015,RightFoot,1046,Borussia Dortmund,Hertha Berlin,3,1,2015-08-30 17:30:00,Jonas Hofmann,Cross
+76564,83,BlockedShot,0.8230000305175781,0.3129999923706055,0.03544659912586212,Adrián Ramos,h,324,OpenPlay,2015,LeftFoot,1046,Borussia Dortmund,Hertha Berlin,3,1,2015-08-30 17:30:00,Jonas Hofmann,Pass
+76565,92,Goal,0.9019999694824219,0.5270000076293946,0.8522589802742004,Adrián Ramos,h,324,OpenPlay,2015,RightFoot,1046,Borussia Dortmund,Hertha Berlin,3,1,2015-08-30 17:30:00,Henrikh Mkhitaryan,TakeOn
+76997,83,BlockedShot,0.765,0.5459999847412109,0.03315569832921028,Adrián Ramos,h,324,OpenPlay,2015,RightFoot,1065,Borussia Dortmund,Bayer Leverkusen,3,0,2015-09-20 19:30:00,Marcel Schmelzer,Pass
+77399,84,MissedShots,0.9130000305175782,0.48400001525878905,0.5031579732894897,Adrián Ramos,a,324,OpenPlay,2015,RightFoot,1070,Hoffenheim,Borussia Dortmund,1,1,2015-09-23 22:00:00,Henrikh Mkhitaryan,Pass
+77400,90,MissedShots,0.750999984741211,0.4759999847412109,0.03444189950823784,Adrián Ramos,a,324,OpenPlay,2015,RightFoot,1070,Hoffenheim,Borussia Dortmund,1,1,2015-09-23 22:00:00,Pierre-Emerick Aubameyang,LayOff
+78196,84,MissedShots,0.855,0.7140000152587891,0.05490659922361374,Adrián Ramos,h,324,OpenPlay,2015,LeftFoot,1109,Borussia Dortmund,Augsburg,5,1,2015-10-25 18:30:00,Shinji Kagawa,Pass
+79648,85,Goal,0.9269999694824219,0.49400001525878906,0.5352870225906372,Adrián Ramos,h,324,OpenPlay,2015,RightFoot,1164,Borussia Dortmund,Eintracht Frankfurt,4,1,2015-12-13 20:30:00,Lukasz Piszczek,Cross
+79649,88,MissedShots,0.899000015258789,0.534000015258789,0.06282380223274231,Adrián Ramos,h,324,FromCorner,2015,Head,1164,Borussia Dortmund,Eintracht Frankfurt,4,1,2015-12-13 20:30:00,Gonzalo Castro,Cross
+80329,34,MissedShots,0.9590000152587891,0.4620000076293945,0.5368019938468933,Adrián Ramos,h,324,OpenPlay,2015,Head,1185,Borussia Dortmund,Ingolstadt,2,0,2016-01-30 18:30:00,,Rebound
+80694,80,MissedShots,0.9059999847412109,0.5570000076293945,0.08834750205278397,Adrián Ramos,a,324,OpenPlay,2015,Head,1196,Hertha Berlin,Borussia Dortmund,0,0,2016-02-06 18:30:00,Marcel Schmelzer,Cross
+81239,84,Goal,0.919000015258789,0.49900001525878906,0.3527829945087433,Adrián Ramos,h,324,OpenPlay,2015,Head,1225,Borussia Dortmund,Hoffenheim,3,1,2016-02-28 20:30:00,Lukasz Piszczek,Chipped
+81660,25,BlockedShot,0.9180000305175782,0.56,0.09537529945373535,Adrián Ramos,a,324,FromCorner,2015,LeftFoot,1230,Darmstadt,Borussia Dortmund,0,2,2016-03-02 23:00:00,Mats Hummels,Pass
+81663,37,Goal,0.9630000305175781,0.534000015258789,0.6738629937171936,Adrián Ramos,a,324,OpenPlay,2015,LeftFoot,1230,Darmstadt,Borussia Dortmund,0,2,2016-03-02 23:00:00,,Rebound
+81666,43,MissedShots,0.865999984741211,0.56,0.023977700620889664,Adrián Ramos,a,324,OpenPlay,2015,Head,1230,Darmstadt,Borussia Dortmund,0,2,2016-03-02 23:00:00,Matthias Ginter,Aerial
+81675,79,SavedShot,0.9590000152587891,0.5659999847412109,0.60629802942276,Adrián Ramos,a,324,OpenPlay,2015,RightFoot,1230,Darmstadt,Borussia Dortmund,0,2,2016-03-02 23:00:00,Erik Durm,Pass
+81702,87,MissedShots,0.9059999847412109,0.6140000152587891,0.028471199795603752,Adrián Ramos,h,324,OpenPlay,2015,Head,1243,Borussia Dortmund,Bayern Munich,0,0,2016-03-05 21:30:00,Pierre-Emerick Aubameyang,Cross
+82310,30,MissedShots,0.8669999694824219,0.5779999923706055,0.025654299184679985,Adrián Ramos,a,324,OpenPlay,2015,Head,1263,Augsburg,Borussia Dortmund,1,3,2016-03-20 20:30:00,Lukasz Piszczek,Cross
+82318,59,MissedShots,0.9030000305175782,0.40599998474121096,0.1402920037508011,Adrián Ramos,a,324,OpenPlay,2015,RightFoot,1263,Augsburg,Borussia Dortmund,1,3,2016-03-20 20:30:00,Henrikh Mkhitaryan,Pass
+82322,73,BlockedShot,0.8519999694824218,0.6659999847412109,0.06709770113229752,Adrián Ramos,a,324,OpenPlay,2015,LeftFoot,1263,Augsburg,Borussia Dortmund,1,3,2016-03-20 20:30:00,Julian Weigl,BallRecovery
+82323,74,SavedShot,0.9219999694824219,0.5670000076293945,0.046098899096250534,Adrián Ramos,a,324,FromCorner,2015,Head,1263,Augsburg,Borussia Dortmund,1,3,2016-03-20 20:30:00,,None
+82324,74,Goal,0.9469999694824218,0.5709999847412109,0.4877850115299225,Adrián Ramos,a,324,FromCorner,2015,LeftFoot,1263,Augsburg,Borussia Dortmund,1,3,2016-03-20 20:30:00,,Rebound
+82447,81,Goal,0.9,0.49400001525878906,0.26526498794555664,Adrián Ramos,h,324,FromCorner,2015,Head,1270,Borussia Dortmund,Werder Bremen,3,2,2016-04-02 20:30:00,Henrikh Mkhitaryan,Cross
+82872,43,Goal,0.8859999847412109,0.6930000305175781,0.06689330190420151,Adrián Ramos,h,324,OpenPlay,2015,RightFoot,1289,Borussia Dortmund,Hamburger SV,3,0,2016-04-17 17:30:00,Nuri Sahin,TakeOn
+82874,60,MissedShots,0.9719999694824218,0.6229999923706054,0.11569499969482422,Adrián Ramos,h,324,OpenPlay,2015,LeftFoot,1289,Borussia Dortmund,Hamburger SV,3,0,2016-04-17 17:30:00,Ilkay Gündogan,Pass
+82876,79,BlockedShot,0.905,0.52,0.08338149636983871,Adrián Ramos,h,324,FromCorner,2015,Head,1289,Borussia Dortmund,Hamburger SV,3,0,2016-04-17 17:30:00,Christian Pulisic,Cross
+82878,83,MissedShots,0.9359999847412109,0.48200000762939454,0.6247360110282898,Adrián Ramos,h,324,OpenPlay,2015,Head,1289,Borussia Dortmund,Hamburger SV,3,0,2016-04-17 17:30:00,Pierre-Emerick Aubameyang,Chipped
+82880,85,Goal,0.93,0.48700000762939455,0.6082789897918701,Adrián Ramos,h,324,OpenPlay,2015,LeftFoot,1289,Borussia Dortmund,Hamburger SV,3,0,2016-04-17 17:30:00,,Rebound
+83185,10,SavedShot,0.8480000305175781,0.525,0.058133598417043686,Adrián Ramos,a,324,FromCorner,2015,RightFoot,1292,VfB Stuttgart,Borussia Dortmund,0,3,2016-04-23 17:30:00,Matthias Ginter,Pass
+83195,36,SavedShot,0.8859999847412109,0.3659999847412109,0.09577120095491409,Adrián Ramos,a,324,OpenPlay,2015,RightFoot,1292,VfB Stuttgart,Borussia Dortmund,0,3,2016-04-23 17:30:00,Henrikh Mkhitaryan,Pass
+83198,55,SavedShot,0.9580000305175781,0.44299999237060544,0.5207729935646057,Adrián Ramos,a,324,OpenPlay,2015,Head,1292,VfB Stuttgart,Borussia Dortmund,0,3,2016-04-23 17:30:00,Shinji Kagawa,Chipped
+83202,73,MissedShots,0.8769999694824219,0.4540000152587891,0.4493350088596344,Adrián Ramos,a,324,OpenPlay,2015,RightFoot,1292,VfB Stuttgart,Borussia Dortmund,0,3,2016-04-23 17:30:00,Marco Reus,Pass
+83307,8,Goal,0.884000015258789,0.3970000076293945,0.3632960021495819,Adrián Ramos,h,324,OpenPlay,2015,RightFoot,1306,Borussia Dortmund,Wolfsburg,5,1,2016-04-30 17:30:00,Shinji Kagawa,Pass
+83314,52,BlockedShot,0.92,0.555,0.04666829854249954,Adrián Ramos,h,324,OpenPlay,2015,Head,1306,Borussia Dortmund,Wolfsburg,5,1,2016-04-30 17:30:00,Lukasz Piszczek,Tackle
+83822,41,BlockedShot,0.7369999694824219,0.6790000152587891,0.019965199753642082,Adrián Ramos,h,324,OpenPlay,2015,RightFoot,1321,Borussia Dortmund,FC Cologne,2,2,2016-05-14 17:30:00,Marcel Schmelzer,Pass
+83832,89,BlockedShot,0.885,0.595999984741211,0.012511399574577808,Adrián Ramos,h,324,OpenPlay,2015,Head,1321,Borussia Dortmund,FC Cologne,2,2,2016-05-14 17:30:00,Matthias Ginter,Aerial
+83833,89,MissedShots,0.93,0.5670000076293945,0.06042740121483803,Adrián Ramos,h,324,OpenPlay,2015,Head,1321,Borussia Dortmund,FC Cologne,2,2,2016-05-14 17:30:00,Marco Reus,HeadPass
+128113,93,BlockedShot,0.8680000305175781,0.625,0.05749240145087242,Adrián Ramos,a,324,OpenPlay,2016,RightFoot,1342,RasenBallsport Leipzig,Borussia Dortmund,1,0,2016-09-10 20:30:00,André Schürrle,Chipped
+128191,9,SavedShot,0.935,0.43900001525878907,0.06218079850077629,Adrián Ramos,h,324,SetPiece,2016,Head,1350,Borussia Dortmund,Darmstadt,6,0,2016-09-17 17:30:00,Raphael Guerreiro,Aerial
+128192,13,MissedShots,0.8080000305175781,0.41,0.047377098351716995,Adrián Ramos,h,324,OpenPlay,2016,RightFoot,1350,Borussia Dortmund,Darmstadt,6,0,2016-09-17 17:30:00,Gonzalo Castro,Pass
+128194,27,SavedShot,0.95,0.5590000152587891,0.10359899699687958,Adrián Ramos,h,324,OpenPlay,2016,Head,1350,Borussia Dortmund,Darmstadt,6,0,2016-09-17 17:30:00,Ousmane Dembélé,Aerial
+128200,47,Goal,0.985999984741211,0.42900001525878906,0.5359219908714294,Adrián Ramos,h,324,OpenPlay,2016,RightFoot,1350,Borussia Dortmund,Darmstadt,6,0,2016-09-17 17:30:00,,Rebound
+128211,81,BlockedShot,0.8630000305175781,0.5320000076293945,0.12648600339889526,Adrián Ramos,h,324,OpenPlay,2016,RightFoot,1350,Borussia Dortmund,Darmstadt,6,0,2016-09-17 17:30:00,Christian Pulisic,Pass
+129392,16,SavedShot,0.8819999694824219,0.645,0.008655009791254997,Adrián Ramos,a,324,OpenPlay,2016,Head,1391,Ingolstadt,Borussia Dortmund,3,3,2016-10-22 17:30:00,Joo-Ho Park,Aerial
+129413,68,Goal,0.8719999694824219,0.48,0.08103939890861511,Adrián Ramos,a,324,OpenPlay,2016,RightFoot,1391,Ingolstadt,Borussia Dortmund,3,3,2016-10-22 17:30:00,Christian Pulisic,Dispossessed
+129783,62,MissedShots,0.9169999694824219,0.5279999923706055,0.04170060157775879,Adrián Ramos,h,324,FromCorner,2016,Head,2821,Borussia Dortmund,Bayern Munich,1,0,2016-11-19 21:30:00,André Schürrle,Aerial
+130261,25,MissedShots,0.8930000305175781,0.49700000762939456,0.039893701672554016,Adrián Ramos,a,324,OpenPlay,2016,Head,2829,Eintracht Frankfurt,Borussia Dortmund,2,1,2016-11-26 18:30:00,André Schürrle,Aerial
+130270,57,MissedShots,0.87,0.5329999923706055,0.037523798644542694,Adrián Ramos,a,324,OpenPlay,2016,Head,2829,Eintracht Frankfurt,Borussia Dortmund,2,1,2016-11-26 18:30:00,Marcel Schmelzer,Cross
+131188,83,SavedShot,0.895,0.36400001525878906,0.01005799975246191,Adrián Ramos,a,324,OpenPlay,2016,Head,3203,FC Cologne,Borussia Dortmund,1,1,2016-12-10 18:30:00,Ousmane Dembélé,Aerial
+140431,49,BlockedShot,0.875,0.5990000152587891,0.11145699769258499,Adrián Ramos,h,324,OpenPlay,2016,LeftFoot,3929,Granada,Las Palmas,1,0,2017-02-06 22:45:00,Andreas Pereira,TakeOn
+140436,69,SavedShot,0.975,0.649000015258789,0.08205480128526688,Adrián Ramos,h,324,OpenPlay,2016,LeftFoot,3929,Granada,Las Palmas,1,0,2017-02-06 22:45:00,Guillermo Ochoa,Pass
+139207,27,Goal,0.9180000305175782,0.44299999237060544,0.12660899758338928,Adrián Ramos,h,324,OpenPlay,2016,Head,3948,Granada,Real Betis,4,1,2017-02-17 19:45:00,Héctor,Cross
+139212,50,BlockedShot,0.754000015258789,0.415,0.041630301624536514,Adrián Ramos,h,324,OpenPlay,2016,RightFoot,3948,Granada,Real Betis,4,1,2017-02-17 19:45:00,Uche,Pass
+139214,63,Goal,0.9319999694824219,0.5220000076293946,0.6302059888839722,Adrián Ramos,h,324,OpenPlay,2016,RightFoot,3948,Granada,Real Betis,4,1,2017-02-17 19:45:00,,Rebound
+139213,63,SavedShot,0.915,0.53,0.17634700238704681,Adrián Ramos,h,324,OpenPlay,2016,LeftFoot,3948,Granada,Real Betis,4,1,2017-02-17 19:45:00,Andreas Pereira,TakeOn
+140166,41,MissedShots,0.955,0.6790000152587891,0.05886330083012581,Adrián Ramos,a,324,OpenPlay,2016,LeftFoot,3958,Athletic Club,Granada,3,1,2017-02-26 17:30:00,Andreas Pereira,Pass
+140168,48,BlockedShot,0.9009999847412109,0.395,0.0477399006485939,Adrián Ramos,a,324,SetPiece,2016,Head,3958,Athletic Club,Granada,3,1,2017-02-26 17:30:00,Andreas Pereira,Cross
+141196,25,BlockedShot,0.885,0.36700000762939455,0.05781469866633415,Adrián Ramos,h,324,FromCorner,2016,RightFoot,3971,Granada,Alaves,2,1,2017-03-01 20:30:00,,None
+141197,25,SavedShot,0.9159999847412109,0.34900001525878904,0.07286229729652405,Adrián Ramos,h,324,FromCorner,2016,RightFoot,3971,Granada,Alaves,2,1,2017-03-01 20:30:00,,Rebound
+141210,62,ShotOnPost,0.9009999847412109,0.3370000076293945,0.07932940125465393,Adrián Ramos,h,324,OpenPlay,2016,RightFoot,3971,Granada,Alaves,2,1,2017-03-01 20:30:00,,None
+139899,15,SavedShot,0.9380000305175781,0.57,0.13521799445152283,Adrián Ramos,h,324,OpenPlay,2016,Head,3986,Granada,Atletico Madrid,0,1,2017-03-11 19:45:00,Uche,Cross
+139906,52,SavedShot,0.9059999847412109,0.48,0.1299159973859787,Adrián Ramos,h,324,OpenPlay,2016,RightFoot,3986,Granada,Atletico Madrid,0,1,2017-03-11 19:45:00,Uche,Pass
+143498,64,BlockedShot,0.7709999847412109,0.6329999923706054,0.024608800187706947,Adrián Ramos,a,324,OpenPlay,2016,RightFoot,4067,Real Sociedad,Granada,2,1,2017-04-29 12:00:00,Andreas Pereira,Pass
+143499,64,Goal,0.9359999847412109,0.5370000076293945,0.43508100509643555,Adrián Ramos,a,324,OpenPlay,2016,Head,4067,Real Sociedad,Granada,2,1,2017-04-29 12:00:00,Dimitri Foulquier,Cross
+143951,48,BlockedShot,0.850999984741211,0.6270000076293946,0.05135029926896095,Adrián Ramos,h,324,OpenPlay,2016,LeftFoot,4077,Granada,Real Madrid,0,4,2017-05-06 19:45:00,Martin Hongla,Pass
+143954,61,SavedShot,0.7480000305175781,0.6120000076293945,0.011979600414633751,Adrián Ramos,h,324,OpenPlay,2016,RightFoot,4077,Granada,Real Madrid,0,4,2017-05-06 19:45:00,,None
+143963,82,SavedShot,0.95,0.34200000762939453,0.05454529821872711,Adrián Ramos,h,324,FromCorner,2016,RightFoot,4077,Granada,Real Madrid,0,4,2017-05-06 19:45:00,Uche,Pass
+143965,85,BlockedShot,0.7559999847412109,0.5420000076293945,0.02295220084488392,Adrián Ramos,h,324,OpenPlay,2016,LeftFoot,4077,Granada,Real Madrid,0,4,2017-05-06 19:45:00,Isaac Cuenca,Pass
+142963,40,Goal,0.9069999694824219,0.4540000152587891,0.07008170336484909,Adrián Ramos,a,324,SetPiece,2016,Head,4087,Osasuna,Granada,2,1,2017-05-13 17:30:00,Andreas Pereira,Chipped
+142971,72,MissedShots,0.9159999847412109,0.3770000076293945,0.07684680074453354,Adrián Ramos,a,324,OpenPlay,2016,RightFoot,4087,Osasuna,Granada,2,1,2017-05-13 17:30:00,Martin Hongla,Chipped
+142974,76,SavedShot,0.7809999847412109,0.44099998474121094,0.02700749970972538,Adrián Ramos,a,324,OpenPlay,2016,LeftFoot,4087,Osasuna,Granada,2,1,2017-05-13 17:30:00,Victorien Angban,Pass
+312211,85,MissedShots,0.8690000152587891,0.565,0.01672320067882538,Adrián Ramos,h,324,SetPiece,2019,Head,12035,Granada,Sevilla,0,1,2019-08-23 19:00:00,,None
+328772,69,BlockedShot,0.8880000305175781,0.5479999923706055,0.0181185994297266,Adrián Ramos,a,324,SetPiece,2019,Head,12128,Getafe,Granada,3,1,2019-10-31 20:15:00,Darwin Machís,Aerial
+328775,73,SavedShot,0.9690000152587891,0.39799999237060546,0.0718483030796051,Adrián Ramos,a,324,OpenPlay,2019,Head,12128,Getafe,Granada,3,1,2019-10-31 20:15:00,Darwin Machís,Cross
+336779,76,MissedShots,0.9180000305175782,0.4179999923706055,0.09189579635858536,Adrián Ramos,h,324,OpenPlay,2019,RightFoot,12189,Granada,Levante,1,2,2019-12-14 12:00:00,Álvaro Vadillo,Cross
+336782,82,MissedShots,0.76,0.30100000381469727,0.012280800379812717,Adrián Ramos,h,324,OpenPlay,2019,RightFoot,12189,Granada,Levante,1,2,2019-12-14 12:00:00,,None
+338379,79,BlockedShot,0.955,0.4279999923706055,0.08008439838886261,Adrián Ramos,a,324,OpenPlay,2019,RightFoot,12195,Eibar,Granada,3,0,2019-12-20 20:00:00,Roberto Soldado,Cross

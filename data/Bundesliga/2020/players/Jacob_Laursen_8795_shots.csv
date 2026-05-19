@@ -1,0 +1,12 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+385891,47,MissedShots,0.7240000152587891,0.500999984741211,0.01085089985281229,Jacob Laursen,a,8795,OpenPlay,2020,RightFoot,15197,Union Berlin,Arminia Bielefeld,5,0,2020-11-07 14:30:00,,None
+409427,2,MissedShots,0.905,0.75,0.03371080011129379,Jacob Laursen,h,8795,OpenPlay,2020,LeftFoot,15319,Arminia Bielefeld,Werder Bremen,0,2,2021-03-10 19:30:00,,None
+425770,6,BlockedShot,0.7219999694824218,0.6719999694824219,0.0128280995413661,Jacob Laursen,h,8795,FromCorner,2021,LeftFoot,17517,Arminia Bielefeld,Freiburg,0,0,2021-08-14 13:30:00,,None
+428590,46,MissedShots,0.7809999847412109,0.7480000305175781,0.010739300400018692,Jacob Laursen,h,8795,SetPiece,2021,LeftFoot,17536,Arminia Bielefeld,Eintracht Frankfurt,1,1,2021-08-28 13:30:00,,None
+437012,76,Goal,0.7969999694824219,0.5609999847412109,0.037800099700689316,Jacob Laursen,a,8795,OpenPlay,2021,LeftFoot,17580,Augsburg,Arminia Bielefeld,1,1,2021-10-17 15:30:00,,None
+437720,68,SavedShot,0.8230000305175781,0.6,0.020416200160980225,Jacob Laursen,h,8795,FromCorner,2021,Head,17590,Arminia Bielefeld,Borussia Dortmund,1,3,2021-10-23 13:30:00,Fabian Klos,HeadPass
+439502,41,Goal,0.8440000152587891,0.534000015258789,0.05866970121860504,Jacob Laursen,h,8795,OpenPlay,2021,RightFoot,17597,Arminia Bielefeld,Mainz 05,1,2,2021-10-30 13:30:00,Manuel Prietl,HeadPass
+439503,46,SavedShot,0.705,0.6409999847412109,0.012416699901223183,Jacob Laursen,h,8795,FromCorner,2021,RightFoot,17597,Arminia Bielefeld,Mainz 05,1,2,2021-10-30 13:30:00,,None
+441012,45,MissedShots,0.664000015258789,0.6869999694824219,0.00971279013901949,Jacob Laursen,a,8795,OpenPlay,2021,LeftFoot,17611,VfB Stuttgart,Arminia Bielefeld,0,1,2021-11-06 14:30:00,,None
+442485,22,BlockedShot,0.8209999847412109,0.24399999618530274,0.02361449971795082,Jacob Laursen,h,8795,FromCorner,2021,LeftFoot,17615,Arminia Bielefeld,Wolfsburg,2,2,2021-11-20 14:30:00,Alessandro Schöpf,Pass
+468730,9,OwnGoal,0.05,0.52,0,Jacob Laursen,h,8795,OpenPlay,2021,OtherBodyPart,17777,Arminia Bielefeld,Bayern Munich,0,3,2022-04-17 13:30:00,,CornerAwarded

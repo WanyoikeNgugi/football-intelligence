@@ -1,0 +1,12 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+483357,71,BlockedShot,0.8690000152587891,0.4620000076293945,0.011550799943506718,Oumar Gonzalez,h,10705,SetPiece,2022,Head,19678,Ajaccio,Lille,1,3,2022-08-26 19:00:00,Thomas Mangani,Aerial
+485080,34,MissedShots,0.919000015258789,0.590999984741211,0.022526200860738754,Oumar Gonzalez,a,10705,SetPiece,2022,Head,19691,Montpellier,Ajaccio,2,0,2022-08-31 17:00:00,Romain Hamouma,Aerial
+485081,39,MissedShots,0.9209999847412109,0.49599998474121093,0.05059320107102394,Oumar Gonzalez,a,10705,FromCorner,2022,Head,19691,Montpellier,Ajaccio,2,0,2022-08-31 17:00:00,Qazim Laçi,Aerial
+489191,37,SavedShot,0.885,0.4329999923706055,0.048437900841236115,Oumar Gonzalez,a,10705,SetPiece,2022,Head,19726,Brest,Ajaccio,0,1,2022-09-18 13:00:00,Mickaël Alphonse,Chipped
+491675,22,MissedShots,0.85,0.505,0.02632180042564869,Oumar Gonzalez,a,10705,SetPiece,2022,Head,19744,Marseille,Ajaccio,1,2,2022-10-08 15:00:00,Riad Nouri,Cross
+506268,18,MissedShots,0.91,0.34799999237060547,0.014324599876999855,Oumar Gonzalez,h,10705,FromCorner,2022,Head,19838,Ajaccio,Lyon,0,2,2023-01-29 16:05:00,Mohamed Youcef Belaïli,Cross
+506626,8,MissedShots,0.9059999847412109,0.5520000076293945,0.06823450326919556,Oumar Gonzalez,a,10705,FromCorner,2022,LeftFoot,19849,Angers,Ajaccio,1,2,2023-02-01 18:00:00,Thomas Mangani,Cross
+515367,11,MissedShots,0.9540000152587891,0.4209999847412109,0.04590329900383949,Oumar Gonzalez,h,10705,FromCorner,2022,Head,19918,Ajaccio,Monaco,0,2,2023-03-19 12:00:00,Mohamed Youcef Belaïli,Aerial
+518520,8,MissedShots,0.8830000305175781,0.5409999847412109,0.03631189838051796,Oumar Gonzalez,h,10705,FromCorner,2022,Head,19938,Ajaccio,Auxerre,0,3,2023-04-09 13:00:00,Michael Barreto,Cross
+518536,84,SavedShot,0.860999984741211,0.504000015258789,0.032458700239658356,Oumar Gonzalez,h,10705,SetPiece,2022,Head,19938,Ajaccio,Auxerre,0,3,2023-04-09 13:00:00,Thomas Mangani,Cross
+521305,29,SavedShot,0.9019999694824219,0.51,0.04277994856238365,Oumar Gonzalez,h,10705,SetPiece,2022,Head,19958,Ajaccio,Brest,0,0,2023-04-23 13:00:00,Thomas Mangani,Aerial

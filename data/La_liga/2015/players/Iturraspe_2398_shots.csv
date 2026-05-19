@@ -1,0 +1,26 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+32807,50,Goal,0.9169999694824219,0.46,0.3813529908657074,Iturraspe,h,2398,SetPiece,2014,Head,5839,Athletic Club,Levante,3,0,2014-08-30 18:00:00,Ibai Gómez,Cross
+33011,27,SavedShot,0.8730000305175781,0.674000015258789,0.05891529843211174,Iturraspe,a,2398,OpenPlay,2014,RightFoot,5787,Barcelona,Athletic Club,2,0,2014-09-13 15:00:00,Muniain,Pass
+33642,89,SavedShot,0.91,0.35200000762939454,0.013272100128233433,Iturraspe,h,2398,FromCorner,2014,Head,5798,Athletic Club,Granada,0,1,2014-09-20 17:00:00,Borja Viguera,Aerial
+35552,84,MissedShots,0.755,0.7169999694824218,0.011760599911212921,Iturraspe,h,2398,OpenPlay,2014,RightFoot,5820,Athletic Club,Eibar,0,0,2014-09-27 21:00:00,,None
+33827,32,MissedShots,0.4640000152587891,0.47400001525878904,0.017100799828767776,Iturraspe,h,2398,DirectFreekick,2014,RightFoot,5720,Athletic Club,Sevilla,1,0,2014-11-02 11:00:00,,Standard
+35218,41,MissedShots,0.875999984741211,0.5309999847412109,0.013935700058937073,Iturraspe,h,2398,SetPiece,2014,Head,5735,Athletic Club,Espanyol,3,1,2014-11-21 19:45:00,Markel Susaeta,Aerial
+35225,77,Goal,0.7019999694824218,0.3579999923706055,0.02446250058710575,Iturraspe,h,2398,OpenPlay,2014,RightFoot,5735,Athletic Club,Espanyol,3,1,2014-11-21 19:45:00,Mikel Rico,Pass
+34115,33,MissedShots,0.805,0.40599998474121096,0.04112749919295311,Iturraspe,h,2398,OpenPlay,2014,RightFoot,5688,Athletic Club,Cordoba,0,1,2014-12-06 17:00:00,Iñaki Williams,Pass
+37865,35,MissedShots,0.915,0.5459999847412109,0.034445300698280334,Iturraspe,h,2398,FromCorner,2014,Head,5658,Athletic Club,Elche,1,2,2015-01-11 16:00:00,Markel Susaeta,Aerial
+39775,86,SavedShot,0.7319999694824219,0.639000015258789,0.017563799396157265,Iturraspe,h,2398,FromCorner,2014,RightFoot,5595,Athletic Club,Almeria,2,1,2015-03-21 21:00:00,,Interception
+37046,35,MissedShots,0.740999984741211,0.46,0.01995839923620224,Iturraspe,a,2398,OpenPlay,2014,RightFoot,5467,Atletico Madrid,Athletic Club,0,0,2015-05-02 17:00:00,Iñaki Williams,BallRecovery
+88688,88,SavedShot,0.685,0.41,0.035688698291778564,Iturraspe,a,2398,DirectFreekick,2015,RightFoot,1596,Barcelona,Athletic Club,6,0,2016-01-17 23:30:00,,Standard
+91036,38,MissedShots,0.795,0.34200000762939453,0.035680800676345825,Iturraspe,a,2398,OpenPlay,2015,RightFoot,1695,Espanyol,Athletic Club,2,1,2016-03-20 15:00:00,Eraso,Pass
+92505,62,BlockedShot,0.9590000152587891,0.355,0.0398143008351326,Iturraspe,h,2398,FromCorner,2015,RightFoot,1754,Athletic Club,Celta Vigo,2,1,2016-05-01 14:00:00,Beñat,Cross
+92134,92,MissedShots,0.78,0.669000015258789,0.022075999528169632,Iturraspe,a,2398,OpenPlay,2015,RightFoot,1759,Las Palmas,Athletic Club,0,0,2016-05-08 19:00:00,Muniain,Pass
+137004,36,SavedShot,0.769000015258789,0.3340000152587891,0.01961679942905903,Iturraspe,h,2398,OpenPlay,2016,RightFoot,1855,Athletic Club,Real Sociedad,3,2,2016-10-16 18:15:00,Muniain,Pass
+140842,89,MissedShots,0.9680000305175781,0.6780000305175782,0.03513909876346588,Iturraspe,a,2398,FromCorner,2016,RightFoot,3894,Leganes,Athletic Club,0,0,2017-01-14 16:00:00,Beñat,Cross
+140118,22,MissedShots,0.8240000152587891,0.705,0.08990959823131561,Iturraspe,a,2398,DirectFreekick,2016,RightFoot,3926,Barcelona,Athletic Club,3,0,2017-02-04 15:15:00,,Standard
+141452,12,MissedShots,0.9530000305175781,0.355,0.019255999475717545,Iturraspe,h,2398,FromCorner,2016,Head,3999,Athletic Club,Real Madrid,1,2,2017-03-18 15:15:00,Beñat,Cross
+171209,37,MissedShots,0.8819999694824219,0.8040000152587891,0.015176399610936642,Iturraspe,a,2398,OpenPlay,2017,RightFoot,7948,Valencia,Athletic Club,3,2,2017-10-01 17:30:00,,None
+171838,53,MissedShots,0.7669999694824219,0.5870000076293945,0.023205099627375603,Iturraspe,h,2398,OpenPlay,2017,RightFoot,7977,Athletic Club,Barcelona,0,2,2017-10-28 19:45:00,Aduriz,Pass
+171515,68,ShotOnPost,0.735999984741211,0.5320000076293945,0.03762060031294823,Iturraspe,a,2398,OpenPlay,2017,RightFoot,8005,Deportivo La Coruna,Athletic Club,2,2,2017-11-26 11:00:00,,TakeOn
+188032,68,MissedShots,0.7,0.43400001525878906,0.015860000625252724,Iturraspe,a,2398,OpenPlay,2017,RightFoot,8062,Espanyol,Athletic Club,1,1,2018-01-14 17:30:00,Saborit,Pass
+200914,64,SavedShot,0.845,0.54,0.08890529721975327,Iturraspe,h,2398,OpenPlay,2017,LeftFoot,8157,Athletic Club,Leganes,2,0,2018-03-11 19:45:00,San José,Cross
+211314,20,BlockedShot,0.754000015258789,0.4540000152587891,0.025300899520516396,Iturraspe,h,2398,OpenPlay,2017,RightFoot,8214,Athletic Club,Levante,1,3,2018-04-23 19:00:00,,Rebound

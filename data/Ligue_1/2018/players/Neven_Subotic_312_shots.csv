@@ -1,0 +1,56 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+25304,45,MissedShots,0.9269999694824219,0.495,0.08973760157823563,Neven Subotic,h,312,SetPiece,2014,RightFoot,5433,Borussia Dortmund,VfB Stuttgart,2,2,2014-09-24 19:00:00,Marcel Schmelzer,Cross
+25515,77,BlockedShot,0.8730000305175781,0.40799999237060547,0.013334999792277813,Neven Subotic,a,312,SetPiece,2014,Head,5441,Schalke 04,Borussia Dortmund,2,1,2014-09-27 14:30:00,Milos Jojic,OffsidePass
+26193,16,MissedShots,0.9290000152587891,0.43099998474121093,0.08461129665374756,Neven Subotic,h,312,FromCorner,2014,Head,5406,Borussia Dortmund,Hannover 96,0,1,2014-10-25 14:30:00,Marco Reus,Cross
+28151,40,BlockedShot,0.8690000152587891,0.49900001525878906,0.025716200470924377,Neven Subotic,a,312,FromCorner,2014,Head,5322,Hertha Berlin,Borussia Dortmund,1,0,2014-12-13 14:30:00,Marcel Schmelzer,Cross
+28160,75,MissedShots,0.8969999694824219,0.37900001525878907,0.018171999603509903,Neven Subotic,a,312,FromCorner,2014,Head,5322,Hertha Berlin,Borussia Dortmund,1,0,2014-12-13 14:30:00,Marcel Schmelzer,Cross
+27699,54,MissedShots,0.9359999847412109,0.37099998474121093,0.013563600368797779,Neven Subotic,h,312,FromCorner,2014,Head,5335,Borussia Dortmund,Wolfsburg,2,2,2014-12-17 19:00:00,Marcel Schmelzer,Aerial
+27702,56,SavedShot,0.8819999694824219,0.47200000762939454,0.015083099715411663,Neven Subotic,h,312,FromCorner,2014,Head,5335,Borussia Dortmund,Wolfsburg,2,2,2014-12-17 19:00:00,Marcel Schmelzer,Aerial
+27708,80,MissedShots,0.71,0.40900001525878904,0.017467699944972992,Neven Subotic,h,312,OpenPlay,2014,RightFoot,5335,Borussia Dortmund,Wolfsburg,2,2,2014-12-17 19:00:00,,Interception
+29843,35,MissedShots,0.695,0.44,0.01242430042475462,Neven Subotic,a,312,OpenPlay,2014,LeftFoot,5273,Freiburg,Borussia Dortmund,0,3,2015-02-07 14:30:00,,TakeOn
+28903,48,Goal,0.925,0.45099998474121095,0.04318489879369736,Neven Subotic,h,312,FromCorner,2014,Head,5280,Borussia Dortmund,Mainz 05,4,2,2015-02-13 19:30:00,Marcel Schmelzer,Aerial
+29444,12,SavedShot,0.899000015258789,0.48400001525878905,0.022353200241923332,Neven Subotic,a,312,FromCorner,2014,Head,5289,VfB Stuttgart,Borussia Dortmund,2,3,2015-02-20 19:30:00,Marco Reus,Aerial
+29456,47,MissedShots,0.9269999694824219,0.46700000762939453,0.053459301590919495,Neven Subotic,a,312,FromCorner,2014,Head,5289,VfB Stuttgart,Borussia Dortmund,2,3,2015-02-20 19:30:00,Marco Reus,Aerial
+30354,80,MissedShots,0.8580000305175781,0.4370000076293945,0.035457100719213486,Neven Subotic,a,312,SetPiece,2014,Head,5234,Hamburger SV,Borussia Dortmund,0,0,2015-03-07 14:30:00,Marcel Schmelzer,Chipped
+30646,3,MissedShots,0.924000015258789,0.524000015258789,0.10969500243663788,Neven Subotic,h,312,FromCorner,2014,Head,5248,Borussia Dortmund,FC Cologne,0,0,2015-03-14 17:30:00,Marcel Schmelzer,Cross
+32247,47,MissedShots,0.7480000305175781,0.34599998474121096,0.011331399902701378,Neven Subotic,h,312,SetPiece,2014,RightFoot,5201,Borussia Dortmund,Bayern Munich,0,1,2015-04-04 17:30:00,,None
+32261,92,MissedShots,0.965999984741211,0.6819999694824219,0.008170340210199356,Neven Subotic,h,312,OpenPlay,2014,Head,5201,Borussia Dortmund,Bayern Munich,0,1,2015-04-04 17:30:00,Sokratis,Aerial
+30947,38,MissedShots,0.6769999694824219,0.3609999847412109,0.008152290247380733,Neven Subotic,a,312,OpenPlay,2014,RightFoot,5207,Borussia M.Gladbach,Borussia Dortmund,3,1,2015-04-11 14:30:00,Henrikh Mkhitaryan,Pass
+31399,8,Goal,0.9569999694824218,0.53,0.4895299971103668,Neven Subotic,h,312,FromCorner,2014,Head,5170,Borussia Dortmund,Hertha Berlin,2,0,2015-05-09 14:30:00,Henrikh Mkhitaryan,Cross
+31139,37,BlockedShot,0.705,0.39,0.01779700070619583,Neven Subotic,h,312,OpenPlay,2014,RightFoot,5193,Borussia Dortmund,Werder Bremen,3,2,2015-05-23 14:30:00,Sebastian Kehl,Pass
+76506,20,BlockedShot,0.745,0.3340000152587891,0.018338700756430626,Neven Subotic,a,312,OpenPlay,2015,RightFoot,1037,Ingolstadt,Borussia Dortmund,0,4,2015-08-23 17:30:00,Ilkay Gündogan,Pass
+80755,38,MissedShots,0.899000015258789,0.57,0.03778579831123352,Neven Subotic,h,312,FromCorner,2015,RightFoot,1203,Borussia Dortmund,Hannover 96,1,0,2016-02-13 18:30:00,Lukasz Piszczek,Aerial
+133751,68,MissedShots,0.875,0.5629999923706055,0.013101999647915363,Neven Subotic,h,312,FromCorner,2016,Head,3842,FC Cologne,Hoffenheim,1,1,2017-04-21 19:30:00,Milos Jojic,Aerial
+134984,12,BlockedShot,0.9359999847412109,0.4929999923706055,0.13620500266551971,Neven Subotic,h,312,FromCorner,2016,RightFoot,3863,FC Cologne,Werder Bremen,4,3,2017-05-05 19:30:00,Milos Jojic,Rebound
+196498,29,SavedShot,0.8980000305175782,0.4879999923706055,0.021358400583267212,Neven Subotic,a,312,FromCorner,2017,Head,8820,Angers,Saint-Etienne,0,1,2018-02-17 19:00:00,Rémy Cabella,Aerial
+196508,59,MissedShots,0.9,0.500999984741211,0.03912759944796562,Neven Subotic,a,312,FromCorner,2017,OtherBodyPart,8820,Angers,Saint-Etienne,0,1,2018-02-17 19:00:00,Rémy Cabella,Aerial
+197994,26,MissedShots,0.9259999847412109,0.445,0.09166129678487778,Neven Subotic,a,312,FromCorner,2017,Head,8830,Lyon,Saint-Etienne,1,1,2018-02-25 16:00:00,Jonathan Bamba,Cross
+200373,34,Goal,0.91,0.485,0.28182899951934814,Neven Subotic,a,312,FromCorner,2017,Head,8852,Rennes,Saint-Etienne,1,1,2018-03-10 19:00:00,Romain Hamouma,Cross
+202138,28,Goal,0.9469999694824218,0.5420000076293945,0.5353540182113647,Neven Subotic,h,312,FromCorner,2017,RightFoot,8863,Saint-Etienne,Guingamp,2,0,2018-03-18 16:00:00,Robert Beric,Pass
+213652,87,BlockedShot,0.9119999694824219,0.52,0.1267230063676834,Neven Subotic,h,312,SetPiece,2017,RightFoot,8923,Saint-Etienne,Bordeaux,1,3,2018-05-06 14:00:00,,Rebound
+217507,22,BlockedShot,0.9030000305175782,0.505,0.0709770992398262,Neven Subotic,h,312,SetPiece,2018,Head,10649,Saint-Etienne,Guingamp,2,1,2018-08-11 21:00:00,Wahbi Khazri,Chipped
+223187,35,MissedShots,0.9019999694824219,0.495,0.07073330134153366,Neven Subotic,a,312,FromCorner,2018,Head,10691,Paris Saint Germain,Saint-Etienne,4,0,2018-09-14 18:45:00,Wahbi Khazri,Cross
+225495,64,MissedShots,0.8919999694824219,0.5609999847412109,0.040254201740026474,Neven Subotic,h,312,FromCorner,2018,Head,10700,Saint-Etienne,Caen,2,1,2018-09-22 18:00:00,Rémy Cabella,Cross
+261502,47,SavedShot,0.9,0.585,0.24618099629878998,Neven Subotic,h,312,SetPiece,2018,Head,10769,Saint-Etienne,Reims,2,0,2018-11-10 19:00:00,Wahbi Khazri,Chipped
+261661,23,BlockedShot,0.8919999694824219,0.565,0.023779600858688354,Neven Subotic,a,312,FromCorner,2018,Head,10776,Lyon,Saint-Etienne,1,0,2018-11-23 19:45:00,Wahbi Khazri,CornerAwarded
+261664,31,MissedShots,0.8830000305175781,0.515,0.05562939867377281,Neven Subotic,a,312,FromCorner,2018,RightFoot,10776,Lyon,Saint-Etienne,1,0,2018-11-23 19:45:00,Ole Selnaes,Cross
+261907,7,MissedShots,0.6940000152587891,0.3509999847412109,0.0121288001537323,Neven Subotic,h,312,OpenPlay,2018,RightFoot,10789,Saint-Etienne,Nantes,3,0,2018-11-30 19:45:00,Yann M&#039;Vila,Pass
+261914,32,MissedShots,0.9319999694824219,0.45799999237060546,0.5265910029411316,Neven Subotic,h,312,FromCorner,2018,RightFoot,10789,Saint-Etienne,Nantes,3,0,2018-11-30 19:45:00,,None
+282421,21,MissedShots,0.895,0.495,0.09321209788322449,Neven Subotic,h,312,SetPiece,2018,RightFoot,10810,Saint-Etienne,Marseille,2,1,2019-01-16 20:00:00,Rémy Cabella,Chipped
+282668,91,BlockedShot,0.955999984741211,0.52,0.09448850154876709,Neven Subotic,h,312,FromCorner,2018,Head,10852,Saint-Etienne,Lyon,1,2,2019-01-20 20:00:00,Wahbi Khazri,Aerial
+283293,43,MissedShots,0.9769999694824218,0.52,0.8882480263710022,Neven Subotic,a,312,FromCorner,2018,RightFoot,10881,Rennes,Saint-Etienne,3,0,2019-02-10 16:00:00,,Rebound
+283681,63,Goal,0.865,0.5259999847412109,0.046921901404857635,Neven Subotic,a,312,FromCorner,2018,RightFoot,10894,Dijon,Saint-Etienne,0,1,2019-02-22 18:00:00,Wahbi Khazri,Cross
+284071,22,BlockedShot,0.9,0.3840000152587891,0.06934110075235367,Neven Subotic,a,312,FromCorner,2018,RightFoot,10910,Marseille,Saint-Etienne,2,0,2019-03-03 20:00:00,,None
+316027,9,MissedShots,0.914000015258789,0.4279999923706055,0.024157600477337837,Neven Subotic,h,312,FromCorner,2019,Head,12427,Union Berlin,Borussia Dortmund,3,1,2019-08-31 17:30:00,Christopher Lenz,Aerial
+316043,52,BlockedShot,0.9519999694824218,0.46900001525878904,0.12104800343513489,Neven Subotic,h,312,FromCorner,2019,RightFoot,12427,Union Berlin,Borussia Dortmund,3,1,2019-08-31 17:30:00,,None
+316045,62,MissedShots,0.88,0.4,0.028703900054097176,Neven Subotic,h,312,FromCorner,2019,LeftFoot,12427,Union Berlin,Borussia Dortmund,3,1,2019-08-31 17:30:00,,Aerial
+317146,80,MissedShots,0.9059999847412109,0.5120000076293946,0.04850560054183006,Neven Subotic,h,312,SetPiece,2019,Head,12434,Union Berlin,Werder Bremen,1,2,2019-09-14 13:30:00,Christopher Trimmel,Aerial
+324888,30,BlockedShot,0.95,0.3920000076293945,0.08598630130290985,Neven Subotic,a,312,FromCorner,2019,RightFoot,12463,Wolfsburg,Union Berlin,1,0,2019-10-06 14:30:00,,None
+338051,60,BlockedShot,0.7919999694824219,0.555,0.029044700786471367,Neven Subotic,h,312,SetPiece,2019,LeftFoot,12546,Union Berlin,Hoffenheim,0,2,2019-12-17 19:30:00,,None
+355007,74,MissedShots,0.855999984741211,0.46599998474121096,0.009372909553349018,Neven Subotic,a,312,SetPiece,2019,Head,12556,RasenBallsport Leipzig,Union Berlin,3,1,2020-01-18 17:30:00,Robert Andrich,Aerial
+355790,46,Goal,0.955999984741211,0.41200000762939454,0.46768999099731445,Neven Subotic,h,312,FromCorner,2019,RightFoot,12573,Union Berlin,Augsburg,2,0,2020-01-25 14:30:00,,None
+358955,21,MissedShots,0.870999984741211,0.4570000076293945,0.06168200075626373,Neven Subotic,h,312,FromCorner,2019,RightFoot,12600,Union Berlin,Bayer Leverkusen,2,3,2020-02-15 14:30:00,Christopher Trimmel,Pass
+358959,34,MissedShots,0.745999984741211,0.580999984741211,0.018360599875450134,Neven Subotic,h,312,OpenPlay,2019,RightFoot,12600,Union Berlin,Bayer Leverkusen,2,3,2020-02-15 14:30:00,Sebastian Andersson,Pass
+358969,77,SavedShot,0.97,0.43099998474121093,0.08885010331869125,Neven Subotic,h,312,SetPiece,2019,Head,12600,Union Berlin,Bayer Leverkusen,2,3,2020-02-15 14:30:00,,Aerial
+360480,3,SavedShot,0.889000015258789,0.6229999923706054,0.00877384003251791,Neven Subotic,a,312,SetPiece,2019,Head,12605,Eintracht Frankfurt,Union Berlin,1,2,2020-02-24 19:30:00,Robert Andrich,Aerial
+360481,6,MissedShots,0.9230000305175782,0.48200000762939454,0.052637699991464615,Neven Subotic,a,312,FromCorner,2019,Head,12605,Eintracht Frankfurt,Union Berlin,1,2,2020-02-24 19:30:00,Robert Andrich,Aerial

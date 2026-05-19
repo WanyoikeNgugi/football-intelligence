@@ -1,0 +1,21 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+785,79,Goal,0.92,0.49900001525878906,0.3227269947528839,Gaëtan Courtet,a,4846,OpenPlay,2014,Head,6220,Lens,Reims,4,2,2014-08-30 19:00:00,Aissa Mandi,Cross
+786,81,BlockedShot,0.8590000152587891,0.5309999847412109,0.06855030357837677,Gaëtan Courtet,a,4846,SetPiece,2014,LeftFoot,6220,Lens,Reims,4,2,2014-08-30 19:00:00,,None
+956,85,Goal,0.8480000305175781,0.4809999847412109,0.09812740236520767,Gaëtan Courtet,h,4846,OpenPlay,2014,RightFoot,6148,Reims,Toulouse,2,0,2014-09-13 19:00:00,Odaïr Fortes,Pass
+2034,15,SavedShot,0.88,0.45299999237060545,0.04399089887738228,Gaëtan Courtet,a,4846,OpenPlay,2014,Head,6157,Lorient,Reims,0,1,2014-09-20 19:00:00,Benjamin Moukandjo,Cross
+2041,47,BlockedShot,0.8040000152587891,0.4829999923706055,0.052163101732730865,Gaëtan Courtet,a,4846,OpenPlay,2014,RightFoot,6157,Lorient,Reims,0,1,2014-09-20 19:00:00,Benjamin Moukandjo,Pass
+1798,70,SavedShot,0.85,0.47400001525878904,0.04301059991121292,Gaëtan Courtet,h,4846,OpenPlay,2014,RightFoot,6165,Reims,Marseille,0,5,2014-09-23 18:00:00,Odaïr Fortes,Cross
+1804,75,MissedShots,0.855,0.5670000076293945,0.032513998448848724,Gaëtan Courtet,h,4846,SetPiece,2014,Head,6165,Reims,Marseille,0,5,2014-09-23 18:00:00,Benjamin Moukandjo,Chipped
+2231,53,BlockedShot,0.7559999847412109,0.40400001525878904,0.02056559920310974,Gaëtan Courtet,a,4846,OpenPlay,2014,RightFoot,6178,Metz,Reims,3,0,2014-09-27 19:00:00,Mads Albæk,HeadPass
+1327,67,MissedShots,0.8480000305175781,0.345,0.0328328013420105,Gaëtan Courtet,h,4846,FromCorner,2014,RightFoot,6114,Reims,Bordeaux,1,0,2014-10-03 19:30:00,,BallTouch
+1918,84,MissedShots,0.8859999847412109,0.355,0.017621399834752083,Gaëtan Courtet,a,4846,SetPiece,2014,Head,6129,Nantes,Reims,1,1,2014-10-18 19:00:00,Diego,Cross
+4960,77,SavedShot,0.914000015258789,0.5209999847412109,0.34351998567581177,Gaëtan Courtet,h,4846,OpenPlay,2014,Head,6092,Reims,Lille,2,0,2014-11-09 16:00:00,Diego,Cross
+3626,59,MissedShots,0.9630000305175781,0.649000015258789,0.07319209724664688,Gaëtan Courtet,h,4846,OpenPlay,2014,LeftFoot,6005,Reims,Saint-Etienne,1,2,2015-01-10 19:00:00,Diego,Pass
+3632,68,BlockedShot,0.8630000305175781,0.54,0.05459659919142723,Gaëtan Courtet,h,4846,OpenPlay,2014,RightFoot,6005,Reims,Saint-Etienne,1,2,2015-01-10 19:00:00,David Ngog,HeadPass
+3633,75,MissedShots,0.875999984741211,0.5329999923706055,0.06480380147695541,Gaëtan Courtet,h,4846,OpenPlay,2014,RightFoot,6005,Reims,Saint-Etienne,1,2,2015-01-10 19:00:00,Diego,Cross
+3639,93,MissedShots,0.7769999694824219,0.6179999923706054,0.017601000145077705,Gaëtan Courtet,h,4846,SetPiece,2014,LeftFoot,6005,Reims,Saint-Etienne,1,2,2015-01-10 19:00:00,,None
+3908,90,BlockedShot,0.8830000305175781,0.6519999694824219,0.01075579971075058,Gaëtan Courtet,a,4846,FromCorner,2014,Head,6013,Caen,Reims,4,1,2015-01-17 19:00:00,Alexis Peuget,Cross
+3909,90,MissedShots,0.904000015258789,0.675,0.010889899916946888,Gaëtan Courtet,a,4846,FromCorner,2014,Head,6013,Caen,Reims,4,1,2015-01-17 19:00:00,Alexis Peuget,Aerial
+5711,75,BlockedShot,0.855,0.48,0.0719102993607521,Gaëtan Courtet,h,4846,OpenPlay,2014,RightFoot,6027,Reims,Lens,0,0,2015-01-25 16:00:00,,None
+5718,89,SavedShot,0.9419999694824219,0.38,0.07162419706583023,Gaëtan Courtet,h,4846,OpenPlay,2014,LeftFoot,6027,Reims,Lens,0,0,2015-01-25 16:00:00,Antoine Devaux,Cross
+5719,91,MissedShots,0.879000015258789,0.61,0.3338559865951538,Gaëtan Courtet,h,4846,OpenPlay,2014,RightFoot,6027,Reims,Lens,0,0,2015-01-25 16:00:00,Mickaël Tacalfred,Throughball

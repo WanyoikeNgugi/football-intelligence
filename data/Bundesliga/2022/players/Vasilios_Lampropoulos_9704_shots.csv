@@ -1,0 +1,12 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+425670,38,MissedShots,0.914000015258789,0.525,0.12381500005722046,Vasilios Lampropoulos,a,9704,SetPiece,2021,Head,17521,Wolfsburg,Bochum,1,0,2021-08-14 13:30:00,Elvis Rexhbecaj,Cross
+426952,48,SavedShot,0.855,0.6270000076293946,0.051542799919843674,Vasilios Lampropoulos,h,9704,SetPiece,2021,RightFoot,17527,Bochum,Mainz 05,2,0,2021-08-21 13:30:00,,None
+431190,42,OwnGoal,0.08300000190734863,0.4859999847412109,0,Vasilios Lampropoulos,a,9704,OpenPlay,2021,RightFoot,17556,Bayern Munich,Bochum,7,0,2021-09-18 13:30:00,,TakeOn
+440453,70,ShotOnPost,0.9730000305175781,0.41700000762939454,0.09230700135231018,Vasilios Lampropoulos,a,9704,FromCorner,2021,Head,17601,Borussia M.Gladbach,Bochum,2,1,2021-10-31 16:30:00,Danny Blum,Cross
+443936,66,MissedShots,0.8209999847412109,0.4879999923706055,0.008131030015647411,Vasilios Lampropoulos,h,9704,SetPiece,2021,Head,17625,Bochum,Freiburg,2,1,2021-11-27 14:30:00,Eduard Löwen,Aerial
+485743,52,BlockedShot,0.805,0.5209999847412109,0.044283200055360794,Vasilios Lampropoulos,h,9704,FromCorner,2022,LeftFoot,19383,Bochum,Werder Bremen,0,2,2022-09-03 13:30:00,Kevin Stöger,Pass
+487608,11,MissedShots,0.8640000152587891,0.5120000076293946,0.04709159955382347,Vasilios Lampropoulos,a,9704,FromCorner,2022,LeftFoot,19393,Schalke 04,Bochum,3,1,2022-09-10 16:30:00,Kevin Stöger,Cross
+497942,40,BlockedShot,0.9030000305175782,0.47200000762939454,0.02401679940521717,Vasilios Lampropoulos,a,9704,FromCorner,2022,Head,19457,Borussia Dortmund,Bochum,3,0,2022-11-05 14:30:00,Kevin Stöger,Aerial
+499144,2,MissedShots,0.95,0.39,0.10187599807977676,Vasilios Lampropoulos,h,9704,SetPiece,2022,RightFoot,19465,Bochum,Borussia M.Gladbach,2,1,2022-11-08 19:30:00,Ivan Ordets,Pass
+505456,11,BlockedShot,0.9290000152587891,0.3679999923706055,0.013418599963188171,Vasilios Lampropoulos,a,9704,FromCorner,2022,Head,19487,Bayer Leverkusen,Bochum,2,0,2023-01-25 19:30:00,Kevin Stöger,Aerial
+505459,25,BlockedShot,0.9569999694824218,0.3990000152587891,0.018888600170612335,Vasilios Lampropoulos,a,9704,FromCorner,2022,Head,19487,Bayer Leverkusen,Bochum,2,0,2023-01-25 19:30:00,Kevin Stöger,Aerial

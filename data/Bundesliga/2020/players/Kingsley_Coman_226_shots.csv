@@ -1,0 +1,398 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+41442,3,BlockedShot,0.8859999847412109,0.7319999694824219,0.04236510023474693,Kingsley Coman,a,226,OpenPlay,2014,RightFoot,5149,Chievo,Juventus,0,1,2014-08-30 17:00:00,Paul Pogba,Chipped
+41453,34,SavedShot,0.81,0.674000015258789,0.03993679955601692,Kingsley Coman,a,226,OpenPlay,2014,LeftFoot,5149,Chievo,Juventus,0,1,2014-08-30 17:00:00,Carlos Tévez,Pass
+41456,45,MissedShots,0.7619999694824219,0.575,0.03219309821724892,Kingsley Coman,a,226,OpenPlay,2014,RightFoot,5149,Chievo,Juventus,0,1,2014-08-30 17:00:00,Arturo Vidal,Pass
+41458,61,MissedShots,0.8859999847412109,0.4470000076293945,0.07228860259056091,Kingsley Coman,a,226,OpenPlay,2014,Head,5149,Chievo,Juventus,0,1,2014-08-30 17:00:00,Arturo Vidal,Cross
+43217,71,MissedShots,0.8859999847412109,0.5579999923706055,0.13205599784851074,Kingsley Coman,a,226,OpenPlay,2014,LeftFoot,5080,Sassuolo,Juventus,1,1,2014-10-18 19:45:00,,TakeOn
+43220,83,MissedShots,0.9730000305175781,0.3840000152587891,0.10896699875593185,Kingsley Coman,a,226,OpenPlay,2014,RightFoot,5080,Sassuolo,Juventus,1,1,2014-10-18 19:45:00,Sebastian Giovinco,Pass
+48709,43,SavedShot,0.935,0.6840000152587891,0.06890810281038284,Kingsley Coman,a,226,OpenPlay,2014,LeftFoot,4841,Parma,Juventus,1,0,2015-04-11 17:00:00,Arturo Vidal,Pass
+48713,58,MissedShots,0.764000015258789,0.39799999237060546,0.025950400158762932,Kingsley Coman,a,226,OpenPlay,2014,LeftFoot,4841,Parma,Juventus,1,0,2015-04-11 17:00:00,Stephan Lichtsteiner,Pass
+48718,70,BlockedShot,0.7659999847412109,0.705,0.0177691001445055,Kingsley Coman,a,226,OpenPlay,2014,RightFoot,4841,Parma,Juventus,1,0,2015-04-11 17:00:00,Claudio Marchisio,Pass
+50435,10,MissedShots,0.7759999847412109,0.7580000305175781,0.019281499087810516,Kingsley Coman,h,226,OpenPlay,2014,RightFoot,4789,Juventus,Cagliari,1,1,2015-05-09 17:00:00,Simone Padoin,Pass
+50441,36,MissedShots,0.750999984741211,0.509000015258789,0.024697400629520416,Kingsley Coman,h,226,OpenPlay,2014,RightFoot,4789,Juventus,Cagliari,1,1,2015-05-09 17:00:00,Claudio Marchisio,BallRecovery
+50443,40,MissedShots,0.9319999694824219,0.5879999923706055,0.042916398495435715,Kingsley Coman,h,226,OpenPlay,2014,Head,4789,Juventus,Cagliari,1,1,2015-05-09 17:00:00,Rômulo,Aerial
+51286,20,BlockedShot,0.7380000305175781,0.425,0.024275900796055794,Kingsley Coman,h,226,OpenPlay,2014,RightFoot,4809,Juventus,Napoli,3,1,2015-05-23 17:00:00,Roberto Pereyra,Pass
+93199,4,SavedShot,0.825,0.674000015258789,0.038080401718616486,Kingsley Coman,h,226,OpenPlay,2015,RightFoot,553,Juventus,Udinese,0,1,2015-08-23 20:00:00,,BallRecovery
+93204,23,MissedShots,0.9,0.5659999847412109,0.0987560972571373,Kingsley Coman,h,226,OpenPlay,2015,RightFoot,553,Juventus,Udinese,0,1,2015-08-23 20:00:00,Patrice Evra,Cross
+93208,32,BlockedShot,0.8219999694824218,0.639000015258789,0.04310470074415207,Kingsley Coman,h,226,OpenPlay,2015,RightFoot,553,Juventus,Udinese,0,1,2015-08-23 20:00:00,Giorgio Chiellini,BallRecovery
+77195,35,BlockedShot,0.7809999847412109,0.75,0.024010799825191498,Kingsley Coman,a,226,OpenPlay,2015,RightFoot,1058,Darmstadt,Bayern Munich,0,3,2015-09-19 17:30:00,Arturo Vidal,Chipped
+77198,39,MissedShots,0.915,0.55,0.11651799827814102,Kingsley Coman,a,226,OpenPlay,2015,Head,1058,Darmstadt,Bayern Munich,0,3,2015-09-19 17:30:00,Mario Götze,Cross
+77202,61,Goal,0.85,0.565,0.09315989911556244,Kingsley Coman,a,226,OpenPlay,2015,RightFoot,1058,Darmstadt,Bayern Munich,0,3,2015-09-19 17:30:00,Sebastian Rode,Pass
+77673,34,MissedShots,0.9,0.5820000076293945,0.024285899475216866,Kingsley Coman,a,226,OpenPlay,2015,Head,1076,Mainz 05,Bayern Munich,0,3,2015-09-26 17:30:00,Philipp Lahm,Aerial
+77677,44,MissedShots,0.8130000305175781,0.7340000152587891,0.021173499524593353,Kingsley Coman,a,226,OpenPlay,2015,RightFoot,1076,Mainz 05,Bayern Munich,0,3,2015-09-26 17:30:00,Thomas Müller,Pass
+77681,61,SavedShot,0.9330000305175781,0.3840000152587891,0.09688950330018997,Kingsley Coman,a,226,OpenPlay,2015,RightFoot,1076,Mainz 05,Bayern Munich,0,3,2015-09-26 17:30:00,Douglas Costa,Chipped
+77684,67,Goal,0.9459999847412109,0.48,0.6211659908294678,Kingsley Coman,a,226,OpenPlay,2015,RightFoot,1076,Mainz 05,Bayern Munich,0,3,2015-09-26 17:30:00,Douglas Costa,Pass
+78153,21,MissedShots,0.8830000305175781,0.5640000152587891,0.04791250079870224,Kingsley Coman,h,226,SetPiece,2015,Head,1107,Bayern Munich,FC Cologne,4,0,2015-10-24 17:30:00,Douglas Costa,Cross
+78163,51,MissedShots,0.765,0.7140000152587891,0.024695400148630142,Kingsley Coman,h,226,OpenPlay,2015,RightFoot,1107,Bayern Munich,FC Cologne,4,0,2015-10-24 17:30:00,Douglas Costa,Pass
+78633,24,MissedShots,0.784000015258789,0.635,0.039705198258161545,Kingsley Coman,h,226,OpenPlay,2015,RightFoot,1125,Bayern Munich,VfB Stuttgart,4,0,2015-11-07 18:30:00,Jérôme Boateng,Pass
+78646,39,SavedShot,0.8330000305175781,0.6659999847412109,0.18959200382232666,Kingsley Coman,h,226,OpenPlay,2015,RightFoot,1125,Bayern Munich,VfB Stuttgart,4,0,2015-11-07 18:30:00,Douglas Costa,Pass
+78652,59,SavedShot,0.895,0.6680000305175782,0.09212049841880798,Kingsley Coman,h,226,OpenPlay,2015,LeftFoot,1125,Bayern Munich,VfB Stuttgart,4,0,2015-11-07 18:30:00,Arjen Robben,Pass
+79115,40,Goal,0.919000015258789,0.45799999237060546,0.36261001229286194,Kingsley Coman,h,226,OpenPlay,2015,RightFoot,1142,Bayern Munich,Hertha Berlin,2,0,2015-11-28 18:30:00,Javi Martínez,Chipped
+79373,19,BlockedShot,0.8859999847412109,0.655,0.054748401045799255,Kingsley Coman,a,226,SetPiece,2015,RightFoot,1148,Borussia M.Gladbach,Bayern Munich,3,1,2015-12-05 18:30:00,,None
+79377,24,ShotOnPost,0.885,0.44299999237060544,0.3569220006465912,Kingsley Coman,a,226,OpenPlay,2015,RightFoot,1148,Borussia M.Gladbach,Bayern Munich,3,1,2015-12-05 18:30:00,,Rebound
+79378,24,MissedShots,0.9430000305175781,0.40599998474121096,0.09359359741210938,Kingsley Coman,a,226,OpenPlay,2015,RightFoot,1148,Borussia M.Gladbach,Bayern Munich,3,1,2015-12-05 18:30:00,,None
+79379,26,BlockedShot,0.865999984741211,0.6270000076293946,0.06223059818148613,Kingsley Coman,a,226,OpenPlay,2015,RightFoot,1148,Borussia M.Gladbach,Bayern Munich,3,1,2015-12-05 18:30:00,,None
+79389,61,BlockedShot,0.7959999847412109,0.34700000762939454,0.044999100267887115,Kingsley Coman,a,226,OpenPlay,2015,LeftFoot,1148,Borussia M.Gladbach,Bayern Munich,3,1,2015-12-05 18:30:00,Javi Martínez,Pass
+79396,79,MissedShots,0.8569999694824219,0.28899999618530275,0.03814439848065376,Kingsley Coman,a,226,OpenPlay,2015,LeftFoot,1148,Borussia M.Gladbach,Bayern Munich,3,1,2015-12-05 18:30:00,Thomas Müller,Pass
+79621,80,BlockedShot,0.7719999694824219,0.51,0.039149701595306396,Kingsley Coman,h,226,OpenPlay,2015,LeftFoot,1161,Bayern Munich,Ingolstadt,2,0,2015-12-12 18:30:00,Philipp Lahm,Pass
+80000,17,SavedShot,0.8930000305175781,0.7769999694824219,0.02727930061519146,Kingsley Coman,a,226,OpenPlay,2015,LeftFoot,1170,Hannover 96,Bayern Munich,0,1,2015-12-19 18:30:00,Thiago Alcántara,Pass
+80022,83,MissedShots,0.8540000152587891,0.655,0.06089790165424347,Kingsley Coman,a,226,OpenPlay,2015,RightFoot,1170,Hannover 96,Bayern Munich,0,1,2015-12-19 18:30:00,Thiago Alcántara,Pass
+80123,46,SavedShot,0.845,0.3120000076293945,0.06369680166244507,Kingsley Coman,a,226,OpenPlay,2015,LeftFoot,1174,Hamburger SV,Bayern Munich,1,2,2016-01-22 23:30:00,Xabi Alonso,Pass
+80867,92,MissedShots,0.8130000305175781,0.62,0.05822569876909256,Kingsley Coman,a,226,OpenPlay,2015,RightFoot,1209,Augsburg,Bayern Munich,1,3,2016-02-14 20:30:00,Robert Lewandowski,Pass
+80996,51,BlockedShot,0.97,0.6409999847412109,0.05507120117545128,Kingsley Coman,h,226,FromCorner,2015,LeftFoot,1211,Bayern Munich,Darmstadt,3,1,2016-02-20 18:30:00,Thomas Müller,Pass
+81264,65,Goal,0.8909999847412109,0.3920000076293945,0.0815507024526596,Kingsley Coman,a,226,OpenPlay,2015,RightFoot,1221,Wolfsburg,Bayern Munich,0,2,2016-02-27 18:30:00,,Rebound
+81456,28,MissedShots,0.7859999847412109,0.7769999694824219,0.017261600121855736,Kingsley Coman,h,226,OpenPlay,2015,RightFoot,1233,Bayern Munich,Mainz 05,1,2,2016-03-02 23:00:00,Arturo Vidal,Pass
+81935,1,SavedShot,0.9159999847412109,0.27399999618530274,0.04100269824266434,Kingsley Coman,h,226,OpenPlay,2015,RightFoot,1252,Bayern Munich,Werder Bremen,5,0,2016-03-12 21:30:00,Philipp Lahm,Pass
+81938,15,BlockedShot,0.875,0.33,0.06509669870138168,Kingsley Coman,h,226,OpenPlay,2015,RightFoot,1252,Bayern Munich,Werder Bremen,5,0,2016-03-12 21:30:00,Thomas Müller,Pass
+81950,60,SavedShot,0.91,0.44299999237060544,0.5238739848136902,Kingsley Coman,h,226,OpenPlay,2015,RightFoot,1252,Bayern Munich,Werder Bremen,5,0,2016-03-12 21:30:00,Philipp Lahm,Pass
+82377,92,MissedShots,0.8919999694824219,0.6359999847412109,0.1007779985666275,Kingsley Coman,a,226,OpenPlay,2015,LeftFoot,1259,FC Cologne,Bayern Munich,0,1,2016-03-19 18:30:00,Robert Lewandowski,Pass
+82849,46,SavedShot,0.7559999847412109,0.46900001525878904,0.0310628991574049,Kingsley Coman,h,226,OpenPlay,2015,LeftFoot,1288,Bayern Munich,Schalke 04,3,0,2016-04-16 20:30:00,Rafinha,TakeOn
+82857,71,BlockedShot,0.754000015258789,0.47200000762939454,0.025246400386095047,Kingsley Coman,h,226,OpenPlay,2015,RightFoot,1288,Bayern Munich,Schalke 04,3,0,2016-04-16 20:30:00,Mario Götze,Pass
+83758,7,MissedShots,0.8909999847412109,0.46700000762939453,0.06244470179080963,Kingsley Coman,h,226,OpenPlay,2015,Head,1319,Bayern Munich,Hannover 96,3,1,2016-05-14 17:30:00,Philipp Lahm,Cross
+83770,36,ShotOnPost,0.9290000152587891,0.43099998474121093,0.3051930069923401,Kingsley Coman,h,226,SetPiece,2015,Head,1319,Bayern Munich,Hannover 96,3,1,2016-05-14 17:30:00,Jérôme Boateng,Cross
+83777,57,SavedShot,0.8669999694824219,0.27100000381469724,0.052080199122428894,Kingsley Coman,h,226,OpenPlay,2015,RightFoot,1319,Bayern Munich,Hannover 96,3,1,2016-05-14 17:30:00,Franck Ribéry,Pass
+128167,5,SavedShot,0.8540000152587891,0.28,0.03531920164823532,Kingsley Coman,h,226,OpenPlay,2016,RightFoot,1349,Bayern Munich,Ingolstadt,3,1,2016-09-17 17:30:00,Rafinha,Pass
+128701,42,SavedShot,0.9269999694824219,0.5920000076293945,0.04068370163440704,Kingsley Coman,a,226,OpenPlay,2016,Head,1366,Hamburger SV,Bayern Munich,0,1,2016-09-24 17:30:00,Philipp Lahm,Aerial
+128836,59,MissedShots,0.740999984741211,0.775,0.01956620067358017,Kingsley Coman,h,226,OpenPlay,2016,RightFoot,1373,Bayern Munich,FC Cologne,1,1,2016-10-01 17:30:00,Joshua Kimmich,Pass
+129267,39,MissedShots,0.7280000305175781,0.6480000305175782,0.022593999281525612,Kingsley Coman,a,226,OpenPlay,2016,RightFoot,1386,Eintracht Frankfurt,Bayern Munich,2,2,2016-10-15 17:30:00,Jérôme Boateng,Pass
+129272,53,ShotOnPost,0.8969999694824219,0.6309999847412109,0.32521799206733704,Kingsley Coman,a,226,OpenPlay,2016,RightFoot,1386,Eintracht Frankfurt,Bayern Munich,2,2,2016-10-15 17:30:00,Joshua Kimmich,Pass
+129274,61,SavedShot,0.9480000305175781,0.590999984741211,0.31804999709129333,Kingsley Coman,a,226,OpenPlay,2016,RightFoot,1386,Eintracht Frankfurt,Bayern Munich,2,2,2016-10-15 17:30:00,Mats Hummels,Chipped
+131905,64,Goal,0.9219999694824219,0.675,0.37467899918556213,Kingsley Coman,h,226,OpenPlay,2016,RightFoot,3772,Bayern Munich,Hamburger SV,8,0,2017-02-25 14:30:00,,None
+131906,68,Goal,0.855999984741211,0.504000015258789,0.129054993391037,Kingsley Coman,h,226,OpenPlay,2016,RightFoot,3772,Bayern Munich,Hamburger SV,8,0,2017-02-25 14:30:00,,TakeOn
+132586,6,BlockedShot,0.8019999694824219,0.41,0.032130200415849686,Kingsley Coman,a,226,FromCorner,2016,RightFoot,3778,FC Cologne,Bayern Munich,0,3,2017-03-04 14:30:00,Thiago Alcántara,Cross
+132594,21,BlockedShot,0.7809999847412109,0.44299999237060544,0.02747729979455471,Kingsley Coman,a,226,FromCorner,2016,RightFoot,3778,FC Cologne,Bayern Munich,0,3,2017-03-04 14:30:00,Robert Lewandowski,Pass
+132599,27,SavedShot,0.9619999694824218,0.30100000381469727,0.05894630029797554,Kingsley Coman,a,226,OpenPlay,2016,RightFoot,3778,FC Cologne,Bayern Munich,0,3,2017-03-04 14:30:00,Philipp Lahm,Chipped
+134350,37,MissedShots,0.7419999694824219,0.45599998474121095,0.020728500559926033,Kingsley Coman,a,226,OpenPlay,2016,RightFoot,3815,Hoffenheim,Bayern Munich,1,0,2017-04-04 19:00:00,Mats Hummels,Pass
+134365,78,MissedShots,0.8159999847412109,0.3029999923706055,0.02991439960896969,Kingsley Coman,a,226,OpenPlay,2016,LeftFoot,3815,Hoffenheim,Bayern Munich,1,0,2017-04-04 19:00:00,Rafinha,Pass
+135016,36,SavedShot,0.9490000152587891,0.5029999923706054,0.5771350264549255,Kingsley Coman,a,226,OpenPlay,2016,LeftFoot,3831,Bayer Leverkusen,Bayern Munich,0,0,2017-04-15 17:30:00,Thomas Müller,Cross
+135027,61,MissedShots,0.7969999694824219,0.3270000076293945,0.019701000303030014,Kingsley Coman,a,226,FromCorner,2016,RightFoot,3831,Bayer Leverkusen,Bayern Munich,0,0,2017-04-15 17:30:00,,None
+133317,61,SavedShot,0.7519999694824219,0.5970000076293945,0.0208359993994236,Kingsley Coman,h,226,OpenPlay,2016,RightFoot,3839,Bayern Munich,Mainz 05,2,2,2017-04-22 14:30:00,Thomas Müller,HeadPass
+133318,65,BlockedShot,0.779000015258789,0.7169999694824218,0.01946369931101799,Kingsley Coman,h,226,OpenPlay,2016,RightFoot,3839,Bayern Munich,Mainz 05,2,2,2017-04-22 14:30:00,Robert Lewandowski,Pass
+133327,90,BlockedShot,0.8009999847412109,0.6309999847412109,0.031144699081778526,Kingsley Coman,h,226,OpenPlay,2016,RightFoot,3839,Bayern Munich,Mainz 05,2,2,2017-04-22 14:30:00,Arjen Robben,Chipped
+134418,54,MissedShots,0.9019999694824219,0.6759999847412109,0.0563570000231266,Kingsley Coman,a,226,SetPiece,2016,LeftFoot,3854,Wolfsburg,Bayern Munich,0,6,2017-04-29 17:30:00,Joshua Kimmich,Chipped
+128115,2,SavedShot,0.9519999694824218,0.5370000076293945,0.14935199916362762,Kingsley Coman,h,226,OpenPlay,2016,Head,3883,Bayern Munich,Freiburg,4,1,2017-05-20 14:30:00,Thomas Müller,Cross
+128123,15,BlockedShot,0.74,0.6370000076293946,0.026300199329853058,Kingsley Coman,h,226,FromCorner,2016,RightFoot,3883,Bayern Munich,Freiburg,4,1,2017-05-20 14:30:00,Philipp Lahm,Pass
+128145,56,BlockedShot,0.749000015258789,0.43099998474121093,0.027962399646639824,Kingsley Coman,h,226,OpenPlay,2016,RightFoot,3883,Bayern Munich,Freiburg,4,1,2017-05-20 14:30:00,Thomas Müller,Pass
+165786,84,BlockedShot,0.805,0.674000015258789,0.04971100017428398,Kingsley Coman,h,226,OpenPlay,2017,RightFoot,8259,Bayern Munich,Bayer Leverkusen,3,1,2017-08-18 19:30:00,Rafinha,Pass
+166239,45,MissedShots,0.9390000152587891,0.725999984741211,0.0387457013130188,Kingsley Coman,a,226,OpenPlay,2017,LeftFoot,8283,Hoffenheim,Bayern Munich,2,0,2017-09-09 17:30:00,Thiago Alcántara,Pass
+166241,49,MissedShots,0.8690000152587891,0.6229999923706054,0.05776580050587654,Kingsley Coman,a,226,OpenPlay,2017,RightFoot,8283,Hoffenheim,Bayern Munich,2,0,2017-09-09 17:30:00,Rafinha,Pass
+166246,61,MissedShots,0.7980000305175782,0.6990000152587891,0.023258600383996964,Kingsley Coman,a,226,OpenPlay,2017,RightFoot,8283,Hoffenheim,Bayern Munich,2,0,2017-09-09 17:30:00,Javi Martínez,Pass
+166472,20,ShotOnPost,0.9290000152587891,0.5540000152587891,0.5332540273666382,Kingsley Coman,h,226,OpenPlay,2017,LeftFoot,8289,Bayern Munich,Mainz 05,4,0,2017-09-16 14:30:00,Arjen Robben,Pass
+166480,33,SavedShot,0.735,0.615999984741211,0.031524401158094406,Kingsley Coman,h,226,OpenPlay,2017,RightFoot,8289,Bayern Munich,Mainz 05,4,0,2017-09-16 14:30:00,Mats Hummels,Pass
+166498,88,SavedShot,0.89,0.4129999923706055,0.1324709951877594,Kingsley Coman,h,226,OpenPlay,2017,LeftFoot,8289,Bayern Munich,Mainz 05,4,0,2017-09-16 14:30:00,Rafinha,Pass
+167032,59,SavedShot,0.8880000305175781,0.715,0.06263399869203568,Kingsley Coman,a,226,OpenPlay,2017,LeftFoot,8296,Schalke 04,Bayern Munich,0,3,2017-09-19 19:30:00,Thomas Müller,Pass
+167518,4,BlockedShot,0.7609999847412109,0.485,0.02580440044403076,Kingsley Coman,h,226,OpenPlay,2017,RightFoot,8322,Bayern Munich,Freiburg,5,0,2017-10-14 14:30:00,Joshua Kimmich,Pass
+167523,9,BlockedShot,0.8059999847412109,0.6730000305175782,0.03612159937620163,Kingsley Coman,h,226,OpenPlay,2017,RightFoot,8322,Bayern Munich,Freiburg,5,0,2017-10-14 14:30:00,Thiago Alcántara,Pass
+167527,20,SavedShot,0.874000015258789,0.7240000152587891,0.04732169955968857,Kingsley Coman,h,226,OpenPlay,2017,LeftFoot,8322,Bayern Munich,Freiburg,5,0,2017-10-14 14:30:00,Thiago Alcántara,Pass
+167535,41,Goal,0.8919999694824219,0.4759999847412109,0.03904769942164421,Kingsley Coman,h,226,OpenPlay,2017,Head,8322,Bayern Munich,Freiburg,5,0,2017-10-14 14:30:00,,Rebound
+168357,8,MissedShots,0.879000015258789,0.6940000152587891,0.04378670081496239,Kingsley Coman,a,226,OpenPlay,2017,RightFoot,8338,Hamburger SV,Bayern Munich,0,1,2017-10-21 17:30:00,Robert Lewandowski,Chipped
+168360,24,BlockedShot,0.879000015258789,0.6170000076293946,0.015606899745762348,Kingsley Coman,a,226,OpenPlay,2017,Head,8338,Hamburger SV,Bayern Munich,0,1,2017-10-21 17:30:00,Rafinha,Aerial
+168368,66,SavedShot,0.8069999694824219,0.6140000152587891,0.05114389955997467,Kingsley Coman,a,226,OpenPlay,2017,RightFoot,8338,Hamburger SV,Bayern Munich,0,1,2017-10-21 17:30:00,Thiago Alcántara,Pass
+168465,65,SavedShot,0.8240000152587891,0.28200000762939453,0.02151850052177906,Kingsley Coman,a,226,OpenPlay,2017,RightFoot,8371,Borussia M.Gladbach,Bayern Munich,2,1,2017-11-25 17:30:00,Sebastian Rudy,Pass
+168471,85,BlockedShot,0.7919999694824219,0.5220000076293946,0.037150800228118896,Kingsley Coman,a,226,OpenPlay,2017,RightFoot,8371,Borussia M.Gladbach,Bayern Munich,2,1,2017-11-25 17:30:00,,None
+168742,49,BlockedShot,0.779000015258789,0.69,0.02239060029387474,Kingsley Coman,h,226,FromCorner,2017,LeftFoot,8376,Bayern Munich,Hannover 96,3,1,2017-12-02 14:30:00,,Rebound
+168744,52,SavedShot,0.8690000152587891,0.6880000305175781,0.08862709999084473,Kingsley Coman,h,226,OpenPlay,2017,LeftFoot,8376,Bayern Munich,Hannover 96,3,1,2017-12-02 14:30:00,Thomas Müller,TakeOn
+168752,66,Goal,0.9540000152587891,0.62,0.08140970021486282,Kingsley Coman,h,226,OpenPlay,2017,LeftFoot,8376,Bayern Munich,Hannover 96,3,1,2017-12-02 14:30:00,,None
+179718,27,MissedShots,0.8819999694824219,0.255,0.05249889940023422,Kingsley Coman,a,226,OpenPlay,2017,RightFoot,8391,Eintracht Frankfurt,Bayern Munich,0,1,2017-12-09 14:30:00,Joshua Kimmich,TakeOn
+183907,65,ShotOnPost,0.9469999694824218,0.5479999923706055,0.48378100991249084,Kingsley Coman,h,226,OpenPlay,2017,Head,8394,Bayern Munich,FC Cologne,1,0,2017-12-13 19:30:00,Jérôme Boateng,Cross
+183866,43,BlockedShot,0.769000015258789,0.46599998474121096,0.028227800503373146,Kingsley Coman,a,226,OpenPlay,2017,RightFoot,8410,VfB Stuttgart,Bayern Munich,0,1,2017-12-16 14:30:00,Mats Hummels,Pass
+183870,58,SavedShot,0.8859999847412109,0.735,0.03526800125837326,Kingsley Coman,a,226,OpenPlay,2017,RightFoot,8410,VfB Stuttgart,Bayern Munich,0,1,2017-12-16 14:30:00,Corentin Tolisso,Pass
+189801,12,SavedShot,0.795,0.5929999923706055,0.03857769817113876,Kingsley Coman,h,226,OpenPlay,2017,RightFoot,8431,Bayern Munich,Hoffenheim,5,2,2018-01-27 14:30:00,Arturo Vidal,Pass
+189815,59,SavedShot,0.9380000305175781,0.6869999694824219,0.06701579689979553,Kingsley Coman,h,226,OpenPlay,2017,LeftFoot,8431,Bayern Munich,Hoffenheim,5,2,2018-01-27 14:30:00,Robert Lewandowski,Pass
+189817,62,Goal,0.919000015258789,0.6329999923706054,0.11677999794483185,Kingsley Coman,h,226,OpenPlay,2017,RightFoot,8431,Bayern Munich,Hoffenheim,5,2,2018-01-27 14:30:00,Robert Lewandowski,Throughball
+189820,67,SavedShot,0.9280000305175782,0.7480000305175781,0.05511439964175224,Kingsley Coman,h,226,OpenPlay,2017,LeftFoot,8431,Bayern Munich,Hoffenheim,5,2,2018-01-27 14:30:00,Arturo Vidal,Pass
+194888,90,SavedShot,0.9730000305175781,0.6659999847412109,0.1106949970126152,Kingsley Coman,a,226,OpenPlay,2017,LeftFoot,8445,Mainz 05,Bayern Munich,0,2,2018-02-03 14:30:00,James Rodríguez,Pass
+194941,92,SavedShot,0.8680000305175781,0.7419999694824219,0.04266130179166794,Kingsley Coman,h,226,OpenPlay,2017,RightFoot,8451,Bayern Munich,Schalke 04,2,1,2018-02-10 17:30:00,Thomas Müller,Pass
+219806,36,SavedShot,0.885,0.36700000762939455,0.3237740099430084,Kingsley Coman,h,226,OpenPlay,2018,RightFoot,10337,Bayern Munich,Hoffenheim,3,1,2018-08-24 21:30:00,Thomas Müller,TakeOn
+256701,54,SavedShot,0.9569999694824218,0.6859999847412109,0.29545798897743225,Kingsley Coman,a,226,OpenPlay,2018,LeftFoot,10450,Werder Bremen,Bayern Munich,1,2,2018-12-01 14:30:00,David Alaba,Chipped
+257022,76,MissedShots,0.909000015258789,0.5609999847412109,0.13829000294208527,Kingsley Coman,h,226,OpenPlay,2018,RightFoot,10454,Bayern Munich,Nuernberg,3,0,2018-12-08 14:30:00,Robert Lewandowski,Pass
+256829,26,BlockedShot,0.9019999694824219,0.5770000076293945,0.10524500161409378,Kingsley Coman,a,226,OpenPlay,2018,RightFoot,10469,Hannover 96,Bayern Munich,0,4,2018-12-15 14:30:00,,None
+278247,32,BlockedShot,0.8380000305175781,0.6530000305175782,0.04724520072340965,Kingsley Coman,a,226,OpenPlay,2018,RightFoot,10497,Hoffenheim,Bayern Munich,1,3,2019-01-18 19:30:00,Javi Martínez,TakeOn
+278255,48,SavedShot,0.7909999847412109,0.725999984741211,0.03643440082669258,Kingsley Coman,a,226,OpenPlay,2018,RightFoot,10497,Hoffenheim,Bayern Munich,1,3,2019-01-18 19:30:00,David Alaba,Pass
+278715,36,SavedShot,0.9480000305175781,0.69,0.05975399911403656,Kingsley Coman,h,226,OpenPlay,2018,RightFoot,10499,Bayern Munich,VfB Stuttgart,4,1,2019-01-27 14:30:00,David Alaba,TakeOn
+278716,43,MissedShots,0.865,0.6329999923706054,0.0692296028137207,Kingsley Coman,h,226,OpenPlay,2018,RightFoot,10499,Bayern Munich,VfB Stuttgart,4,1,2019-01-27 14:30:00,Thomas Müller,Pass
+278780,12,SavedShot,0.86,0.31,0.0448170006275177,Kingsley Coman,a,226,OpenPlay,2018,RightFoot,10508,Bayer Leverkusen,Bayern Munich,3,1,2019-02-02 14:30:00,Thomas Müller,Pass
+278785,31,SavedShot,0.8240000152587891,0.7030000305175781,0.02887279912829399,Kingsley Coman,a,226,OpenPlay,2018,RightFoot,10508,Bayer Leverkusen,Bayern Munich,3,1,2019-02-02 14:30:00,James Rodríguez,Pass
+278787,39,SavedShot,0.825,0.68,0.051996901631355286,Kingsley Coman,a,226,OpenPlay,2018,RightFoot,10508,Bayer Leverkusen,Bayern Munich,3,1,2019-02-02 14:30:00,Mats Hummels,Pass
+278790,43,SavedShot,0.8590000152587891,0.61,0.08838319778442383,Kingsley Coman,a,226,OpenPlay,2018,RightFoot,10508,Bayer Leverkusen,Bayern Munich,3,1,2019-02-02 14:30:00,Thomas Müller,Pass
+278791,47,MissedShots,0.865999984741211,0.6370000076293946,0.07648549973964691,Kingsley Coman,a,226,OpenPlay,2018,RightFoot,10508,Bayer Leverkusen,Bayern Munich,3,1,2019-02-02 14:30:00,,None
+278798,67,BlockedShot,0.8519999694824218,0.5659999847412109,0.0748836025595665,Kingsley Coman,a,226,SetPiece,2018,RightFoot,10508,Bayer Leverkusen,Bayern Munich,3,1,2019-02-02 14:30:00,Niklas Süle,Pass
+279100,36,BlockedShot,0.8119999694824219,0.4909999847412109,0.08212389796972275,Kingsley Coman,h,226,OpenPlay,2018,RightFoot,10517,Bayern Munich,Schalke 04,3,1,2019-02-09 17:30:00,Thiago Alcántara,TakeOn
+279174,16,Goal,0.9269999694824219,0.5670000076293945,0.3765299916267395,Kingsley Coman,a,226,OpenPlay,2018,LeftFoot,10531,Augsburg,Bayern Munich,2,3,2019-02-15 19:30:00,Joshua Kimmich,Cross
+279181,47,Goal,0.875,0.6680000305175782,0.05754220113158226,Kingsley Coman,a,226,OpenPlay,2018,LeftFoot,10531,Augsburg,Bayern Munich,2,3,2019-02-15 19:30:00,Leon Goretzka,Pass
+279190,70,SavedShot,0.9719999694824218,0.4,0.17105400562286377,Kingsley Coman,a,226,FromCorner,2018,Head,10531,Augsburg,Bayern Munich,2,3,2019-02-15 19:30:00,Thomas Müller,HeadPass
+286968,11,ShotOnPost,0.9690000152587891,0.6719999694824219,0.03193949908018112,Kingsley Coman,h,226,OpenPlay,2018,LeftFoot,10565,Bayern Munich,Mainz 05,6,0,2019-03-17 17:00:00,,Aerial
+286978,38,Goal,0.825999984741211,0.664000015258789,0.09792149811983109,Kingsley Coman,h,226,OpenPlay,2018,RightFoot,10565,Bayern Munich,Mainz 05,6,0,2019-03-17 17:00:00,Thiago Alcántara,Pass
+292136,12,MissedShots,0.774000015258789,0.73,0.019342800602316856,Kingsley Coman,h,226,OpenPlay,2018,RightFoot,10580,Bayern Munich,Borussia Dortmund,5,0,2019-04-06 17:30:00,Thomas Müller,Pass
+294211,14,Goal,0.8219999694824218,0.8680000305175781,0.0169794000685215,Kingsley Coman,a,226,OpenPlay,2018,RightFoot,10596,Fortuna Duesseldorf,Bayern Munich,1,4,2019-04-14 14:30:00,Serge Gnabry,Pass
+294217,38,SavedShot,0.8440000152587891,0.649000015258789,0.11150500178337097,Kingsley Coman,a,226,OpenPlay,2018,RightFoot,10596,Fortuna Duesseldorf,Bayern Munich,1,4,2019-04-14 14:30:00,Thomas Müller,Chipped
+294218,40,Goal,0.9130000305175782,0.48200000762939454,0.5066400170326233,Kingsley Coman,a,226,OpenPlay,2018,LeftFoot,10596,Fortuna Duesseldorf,Bayern Munich,1,4,2019-04-14 14:30:00,Joshua Kimmich,Pass
+294228,65,SavedShot,0.8230000305175781,0.5720000076293945,0.02119310013949871,Kingsley Coman,a,226,FromCorner,2018,Head,10596,Fortuna Duesseldorf,Bayern Munich,1,4,2019-04-14 14:30:00,Mats Hummels,HeadPass
+298315,94,SavedShot,0.8619999694824219,0.5179999923706055,0.448511004447937,Kingsley Coman,a,226,OpenPlay,2018,RightFoot,10615,Nuernberg,Bayern Munich,1,1,2019-04-28 17:00:00,Serge Gnabry,BallRecovery
+299238,10,SavedShot,0.9590000152587891,0.539000015258789,0.5434659719467163,Kingsley Coman,h,226,OpenPlay,2018,Head,10616,Bayern Munich,Hannover 96,3,1,2019-05-04 14:30:00,Joshua Kimmich,Aerial
+299247,43,MissedShots,0.805,0.710999984741211,0.022260800004005432,Kingsley Coman,h,226,OpenPlay,2018,RightFoot,10616,Bayern Munich,Hannover 96,3,1,2019-05-04 14:30:00,,None
+300784,48,MissedShots,0.7709999847412109,0.34599998474121096,0.01579350046813488,Kingsley Coman,a,226,OpenPlay,2018,RightFoot,10628,RasenBallsport Leipzig,Bayern Munich,0,0,2019-05-11 14:30:00,,Rebound
+302421,3,Goal,0.8909999847412109,0.5520000076293945,0.3775869905948639,Kingsley Coman,h,226,OpenPlay,2018,RightFoot,10635,Bayern Munich,Eintracht Frankfurt,5,1,2019-05-18 13:30:00,Thomas Müller,Pass
+302427,23,MissedShots,0.9059999847412109,0.54,0.11538500338792801,Kingsley Coman,h,226,OpenPlay,2018,Head,10635,Bayern Munich,Eintracht Frankfurt,5,1,2019-05-18 13:30:00,Thomas Müller,Cross
+310372,51,SavedShot,0.92,0.6170000076293946,0.2969540059566498,Kingsley Coman,h,226,OpenPlay,2019,RightFoot,12403,Bayern Munich,Hertha Berlin,2,2,2019-08-16 19:30:00,Serge Gnabry,Pass
+315604,63,Goal,0.9319999694824219,0.555,0.30200499296188354,Kingsley Coman,h,226,FromCorner,2019,RightFoot,12425,Bayern Munich,Mainz 05,6,1,2019-08-31 14:30:00,Joshua Kimmich,Cross
+317503,51,MissedShots,0.9159999847412109,0.3370000076293945,0.07957129925489426,Kingsley Coman,a,226,OpenPlay,2019,RightFoot,12436,RasenBallsport Leipzig,Bayern Munich,1,1,2019-09-14 16:30:00,Joshua Kimmich,Pass
+317514,76,SavedShot,0.7569999694824219,0.31,0.016241399571299553,Kingsley Coman,a,226,OpenPlay,2019,LeftFoot,12436,RasenBallsport Leipzig,Bayern Munich,1,1,2019-09-14 16:30:00,Corentin Tolisso,Chipped
+322651,12,MissedShots,0.89,0.629000015258789,0.2823460102081299,Kingsley Coman,a,226,OpenPlay,2019,RightFoot,12449,Paderborn,Bayern Munich,2,3,2019-09-28 13:30:00,Philippe Coutinho,Pass
+322654,30,MissedShots,0.914000015258789,0.7390000152587891,0.0548303984105587,Kingsley Coman,a,226,OpenPlay,2019,LeftFoot,12449,Paderborn,Bayern Munich,2,3,2019-09-28 13:30:00,,None
+324000,27,MissedShots,0.919000015258789,0.455,0.054259199649095535,Kingsley Coman,h,226,OpenPlay,2019,Head,12461,Bayern Munich,Hoffenheim,1,2,2019-10-05 14:30:00,Robert Lewandowski,Aerial
+325390,53,SavedShot,0.94,0.705,0.059733498841524124,Kingsley Coman,a,226,OpenPlay,2019,LeftFoot,12466,Augsburg,Bayern Munich,2,2,2019-10-19 14:30:00,Philippe Coutinho,Pass
+325392,57,BlockedShot,0.8919999694824219,0.669000015258789,0.08194869756698608,Kingsley Coman,a,226,OpenPlay,2019,RightFoot,12466,Augsburg,Bayern Munich,2,2,2019-10-19 14:30:00,Philippe Coutinho,Pass
+325398,78,SavedShot,0.9569999694824218,0.504000015258789,0.6294029951095581,Kingsley Coman,a,226,OpenPlay,2019,RightFoot,12466,Augsburg,Bayern Munich,2,2,2019-10-19 14:30:00,Robert Lewandowski,HeadPass
+325399,85,MissedShots,0.88,0.64,0.12935499846935272,Kingsley Coman,a,226,OpenPlay,2019,RightFoot,12466,Augsburg,Bayern Munich,2,2,2019-10-19 14:30:00,David Alaba,TakeOn
+327143,48,MissedShots,0.7809999847412109,0.6759999847412109,0.044092100113630295,Kingsley Coman,h,226,OpenPlay,2019,RightFoot,12476,Bayern Munich,Union Berlin,2,1,2019-10-26 14:30:00,Philippe Coutinho,Pass
+329094,74,MissedShots,0.8880000305175781,0.47400001525878904,0.06484829634428024,Kingsley Coman,a,226,OpenPlay,2019,LeftFoot,12487,Eintracht Frankfurt,Bayern Munich,5,1,2019-11-02 14:30:00,Leon Goretzka,Cross
+330888,25,MissedShots,0.7919999694824219,0.7719999694824219,0.020615100860595703,Kingsley Coman,h,226,OpenPlay,2019,RightFoot,12493,Bayern Munich,Borussia Dortmund,4,0,2019-11-09 17:30:00,Alphonso Davies,BallTouch
+330889,26,MissedShots,0.9319999694824219,0.5459999847412109,0.5551319718360901,Kingsley Coman,h,226,OpenPlay,2019,RightFoot,12493,Bayern Munich,Borussia Dortmund,4,0,2019-11-09 17:30:00,Robert Lewandowski,Pass
+330894,44,MissedShots,0.7369999694824219,0.575,0.025144800543785095,Kingsley Coman,h,226,OpenPlay,2019,RightFoot,12493,Bayern Munich,Borussia Dortmund,4,0,2019-11-09 17:30:00,,BallRecovery
+330899,72,MissedShots,0.8130000305175781,0.705999984741211,0.04133610054850578,Kingsley Coman,h,226,OpenPlay,2019,RightFoot,12493,Bayern Munich,Borussia Dortmund,4,0,2019-11-09 17:30:00,David Alaba,Pass
+335652,22,SavedShot,0.875,0.3340000152587891,0.00847794022411108,Kingsley Coman,a,226,OpenPlay,2019,Head,12523,Borussia M.Gladbach,Bayern Munich,2,1,2019-12-07 14:30:00,Alphonso Davies,Cross
+335657,39,SavedShot,0.8519999694824218,0.32799999237060545,0.05383500084280968,Kingsley Coman,a,226,OpenPlay,2019,LeftFoot,12523,Borussia M.Gladbach,Bayern Munich,2,1,2019-12-07 14:30:00,Thomas Müller,HeadPass
+335660,43,BlockedShot,0.8690000152587891,0.3729999923706055,0.07884419709444046,Kingsley Coman,a,226,OpenPlay,2019,LeftFoot,12523,Borussia M.Gladbach,Bayern Munich,2,1,2019-12-07 14:30:00,Thomas Müller,Pass
+359398,4,Goal,0.884000015258789,0.53,0.4173620045185089,Kingsley Coman,a,226,OpenPlay,2019,RightFoot,12598,FC Cologne,Bayern Munich,1,4,2020-02-16 14:30:00,Thomas Müller,Pass
+359404,24,MissedShots,0.8090000152587891,0.34200000762939453,0.023360799998044968,Kingsley Coman,a,226,FromCorner,2019,RightFoot,12598,FC Cologne,Bayern Munich,1,4,2020-02-16 14:30:00,,None
+359660,66,SavedShot,0.97,0.39099998474121095,0.07139880210161209,Kingsley Coman,h,226,OpenPlay,2019,RightFoot,12601,Bayern Munich,Paderborn,3,2,2020-02-21 19:30:00,Corentin Tolisso,Cross
+363250,34,BlockedShot,0.8209999847412109,0.4520000076293945,0.06631240248680115,Kingsley Coman,h,226,OpenPlay,2019,RightFoot,12638,Bayern Munich,Eintracht Frankfurt,5,2,2020-05-23 16:30:00,Jérôme Boateng,Pass
+363262,64,SavedShot,0.9469999694824218,0.34,0.13403800129890442,Kingsley Coman,h,226,OpenPlay,2019,RightFoot,12638,Bayern Munich,Eintracht Frankfurt,5,2,2020-05-23 16:30:00,Serge Gnabry,Throughball
+363350,23,SavedShot,0.8690000152587891,0.27600000381469725,0.0336374007165432,Kingsley Coman,a,226,OpenPlay,2019,RightFoot,12652,Borussia Dortmund,Bayern Munich,0,1,2020-05-26 16:30:00,Serge Gnabry,Pass
+363870,15,MissedShots,0.8019999694824219,0.77,0.01685369946062565,Kingsley Coman,a,226,OpenPlay,2019,RightFoot,12666,Bayer Leverkusen,Bayern Munich,2,4,2020-06-06 13:30:00,Alphonso Davies,Pass
+363871,19,BlockedShot,0.8340000152587891,0.6969999694824218,0.0347215011715889,Kingsley Coman,a,226,OpenPlay,2019,LeftFoot,12666,Bayer Leverkusen,Bayern Munich,2,4,2020-06-06 13:30:00,Thomas Müller,Pass
+363874,26,Goal,0.8419999694824218,0.649000015258789,0.5192440152168274,Kingsley Coman,a,226,OpenPlay,2019,RightFoot,12666,Bayer Leverkusen,Bayern Munich,2,4,2020-06-06 13:30:00,Leon Goretzka,Throughball
+364587,11,MissedShots,0.865999984741211,0.3220000076293945,0.05328480154275894,Kingsley Coman,a,226,OpenPlay,2019,RightFoot,12687,Werder Bremen,Bayern Munich,0,1,2020-06-16 18:30:00,Joshua Kimmich,Pass
+364589,22,MissedShots,0.875999984741211,0.485,0.1657859981060028,Kingsley Coman,a,226,OpenPlay,2019,Head,12687,Werder Bremen,Bayern Munich,0,1,2020-06-16 18:30:00,Thomas Müller,Cross
+364598,80,SavedShot,0.9290000152587891,0.6580000305175782,0.07852210104465485,Kingsley Coman,a,226,OpenPlay,2019,LeftFoot,12687,Werder Bremen,Bayern Munich,0,1,2020-06-16 18:30:00,Joshua Kimmich,TakeOn
+365241,66,BlockedShot,0.8780000305175781,0.69,0.07116430252790451,Kingsley Coman,h,226,OpenPlay,2019,RightFoot,12691,Bayern Munich,Freiburg,3,1,2020-06-20 13:30:00,Robert Lewandowski,Pass
+365248,84,SavedShot,0.78,0.7080000305175781,0.02278679981827736,Kingsley Coman,h,226,OpenPlay,2019,RightFoot,12691,Bayern Munich,Freiburg,3,1,2020-06-20 13:30:00,,BallRecovery
+366898,3,Goal,0.874000015258789,0.34400001525878904,0.3169110119342804,Kingsley Coman,a,226,OpenPlay,2019,RightFoot,12703,Wolfsburg,Bayern Munich,0,4,2020-06-27 13:30:00,Thomas Müller,Throughball
+366902,18,MissedShots,0.54,0.9169999694824219,0.007441570051014423,Kingsley Coman,a,226,OpenPlay,2019,LeftFoot,12703,Wolfsburg,Bayern Munich,0,4,2020-06-27 13:30:00,,BallRecovery
+366907,29,MissedShots,0.9569999694824218,0.3920000076293945,0.3732919991016388,Kingsley Coman,a,226,OpenPlay,2019,RightFoot,12703,Wolfsburg,Bayern Munich,0,4,2020-06-27 13:30:00,Serge Gnabry,Pass
+379520,81,MissedShots,0.740999984741211,0.7330000305175781,0.017355799674987793,Kingsley Coman,a,226,FromCorner,2020,RightFoot,14189,Hoffenheim,Bayern Munich,4,1,2020-09-27 13:30:00,David Alaba,Pass
+382058,62,MissedShots,0.9030000305175782,0.5640000152587891,0.11990100145339966,Kingsley Coman,a,226,OpenPlay,2020,RightFoot,15172,Arminia Bielefeld,Bayern Munich,1,4,2020-10-17 16:30:00,Serge Gnabry,Cross
+383277,6,BlockedShot,0.8480000305175781,0.315,0.04081549867987633,Kingsley Coman,h,226,OpenPlay,2020,LeftFoot,15180,Bayern Munich,Eintracht Frankfurt,5,0,2020-10-24 13:30:00,Joshua Kimmich,Pass
+383291,53,MissedShots,0.8209999847412109,0.295,0.08616209775209427,Kingsley Coman,h,226,OpenPlay,2020,LeftFoot,15180,Bayern Munich,Eintracht Frankfurt,5,0,2020-10-24 13:30:00,Thomas Müller,Pass
+386121,29,SavedShot,0.935,0.42200000762939455,0.07458510249853134,Kingsley Coman,a,226,SetPiece,2020,OtherBodyPart,15200,Borussia Dortmund,Bayern Munich,2,3,2020-11-07 17:30:00,Lucas Hernández,Cross
+386126,37,SavedShot,0.855,0.49900001525878906,0.018743600696325302,Kingsley Coman,a,226,OpenPlay,2020,Head,15200,Borussia Dortmund,Bayern Munich,2,3,2020-11-07 17:30:00,Thomas Müller,Cross
+386131,50,ShotOnPost,0.7880000305175782,0.42400001525878905,0.04206259921193123,Kingsley Coman,a,226,OpenPlay,2020,RightFoot,15200,Borussia Dortmund,Bayern Munich,2,3,2020-11-07 17:30:00,Thomas Müller,Pass
+387333,12,MissedShots,0.720999984741211,0.3089999961853027,0.016659900546073914,Kingsley Coman,h,226,OpenPlay,2020,RightFoot,15203,Bayern Munich,Werder Bremen,1,1,2020-11-21 14:30:00,David Alaba,Pass
+387337,38,MissedShots,0.7830000305175782,0.5929999923706055,0.03234050050377846,Kingsley Coman,h,226,OpenPlay,2020,RightFoot,15203,Bayern Munich,Werder Bremen,1,1,2020-11-21 14:30:00,Robert Lewandowski,Pass
+387344,52,SavedShot,0.92,0.6840000152587891,0.06331810355186462,Kingsley Coman,h,226,OpenPlay,2020,LeftFoot,15203,Bayern Munich,Werder Bremen,1,1,2020-11-21 14:30:00,David Alaba,Pass
+387346,61,Goal,0.9690000152587891,0.5779999923706055,0.28884100914001465,Kingsley Coman,h,226,OpenPlay,2020,Head,15203,Bayern Munich,Werder Bremen,1,1,2020-11-21 14:30:00,Leon Goretzka,Cross
+388723,37,Goal,0.8490000152587891,0.6379999923706055,0.052653200924396515,Kingsley Coman,a,226,OpenPlay,2020,RightFoot,15220,VfB Stuttgart,Bayern Munich,1,3,2020-11-28 14:30:00,Thomas Müller,Pass
+388725,42,BlockedShot,0.855999984741211,0.38,0.0754782035946846,Kingsley Coman,a,226,OpenPlay,2020,LeftFoot,15220,VfB Stuttgart,Bayern Munich,1,3,2020-11-28 14:30:00,Corentin Tolisso,Pass
+388728,54,MissedShots,0.7630000305175781,0.6469999694824219,0.04239410161972046,Kingsley Coman,a,226,OpenPlay,2020,RightFoot,15220,VfB Stuttgart,Bayern Munich,1,3,2020-11-28 14:30:00,Thomas Müller,TakeOn
+390310,10,MissedShots,0.9390000152587891,0.6909999847412109,0.033326901495456696,Kingsley Coman,h,226,FromCorner,2020,LeftFoot,15221,Bayern Munich,RasenBallsport Leipzig,3,3,2020-12-05 17:30:00,Benjamin Pavard,Cross
+390321,64,BlockedShot,0.8419999694824218,0.6569999694824219,0.05057010054588318,Kingsley Coman,h,226,OpenPlay,2020,LeftFoot,15221,Bayern Munich,RasenBallsport Leipzig,3,3,2020-12-05 17:30:00,Thomas Müller,Pass
+391745,50,MissedShots,0.7780000305175782,0.7069999694824218,0.021013200283050537,Kingsley Coman,a,226,OpenPlay,2020,RightFoot,15236,Union Berlin,Bayern Munich,1,1,2020-12-12 17:30:00,David Alaba,Pass
+391746,54,SavedShot,0.9259999847412109,0.3920000076293945,0.08745729923248291,Kingsley Coman,a,226,OpenPlay,2020,RightFoot,15236,Union Berlin,Bayern Munich,1,1,2020-12-12 17:30:00,Robert Lewandowski,Pass
+393150,66,BlockedShot,0.88,0.645,0.1181889995932579,Kingsley Coman,h,226,OpenPlay,2020,RightFoot,15245,Bayern Munich,Wolfsburg,2,1,2020-12-16 19:30:00,Serge Gnabry,TakeOn
+397694,90,BlockedShot,0.825999984741211,0.649000015258789,0.04268819838762283,Kingsley Coman,a,226,FromCorner,2020,LeftFoot,15267,Borussia M.Gladbach,Bayern Munich,3,2,2021-01-08 19:30:00,,Rebound
+399406,9,BlockedShot,0.8680000305175781,0.519000015258789,0.10252299904823303,Kingsley Coman,h,226,OpenPlay,2020,RightFoot,15275,Bayern Munich,Freiburg,2,1,2021-01-17 14:30:00,,None
+399413,35,BlockedShot,0.789000015258789,0.624000015258789,0.02544110082089901,Kingsley Coman,h,226,FromCorner,2020,RightFoot,15275,Bayern Munich,Freiburg,2,1,2021-01-17 14:30:00,Alphonso Davies,Pass
+400007,43,MissedShots,0.9569999694824218,0.5840000152587891,0.06562300026416779,Kingsley Coman,a,226,OpenPlay,2020,Head,15291,Augsburg,Bayern Munich,0,1,2021-01-20 19:30:00,,None
+400926,86,SavedShot,0.750999984741211,0.5479999923706055,0.03074759989976883,Kingsley Coman,a,226,OpenPlay,2020,RightFoot,15298,Schalke 04,Bayern Munich,0,4,2021-01-24 14:30:00,Thomas Müller,Pass
+401639,29,SavedShot,0.955,0.34,0.07823359966278076,Kingsley Coman,h,226,OpenPlay,2020,LeftFoot,15302,Bayern Munich,Hoffenheim,4,1,2021-01-30 14:30:00,Serge Gnabry,TakeOn
+401649,51,SavedShot,0.950999984741211,0.6890000152587891,0.07613109797239304,Kingsley Coman,h,226,OpenPlay,2020,LeftFoot,15302,Bayern Munich,Hoffenheim,4,1,2021-01-30 14:30:00,Joshua Kimmich,Pass
+401652,58,MissedShots,0.76,0.6719999694824219,0.018839100375771523,Kingsley Coman,h,226,OpenPlay,2020,RightFoot,15302,Bayern Munich,Hoffenheim,4,1,2021-01-30 14:30:00,Marc Roca,Pass
+402910,20,Goal,0.8090000152587891,0.675,0.02747589908540249,Kingsley Coman,a,226,OpenPlay,2020,RightFoot,15315,Hertha Berlin,Bayern Munich,0,1,2021-02-05 19:30:00,Thomas Müller,Pass
+402911,23,SavedShot,0.850999984741211,0.6179999923706054,0.07334420084953308,Kingsley Coman,a,226,OpenPlay,2020,LeftFoot,15315,Hertha Berlin,Bayern Munich,0,1,2021-02-05 19:30:00,Joshua Kimmich,Chipped
+402913,28,BlockedShot,0.77,0.6270000076293946,0.03264100104570389,Kingsley Coman,a,226,OpenPlay,2020,RightFoot,15315,Hertha Berlin,Bayern Munich,0,1,2021-02-05 19:30:00,,None
+402919,48,MissedShots,0.8530000305175781,0.48200000762939454,0.09707389771938324,Kingsley Coman,a,226,OpenPlay,2020,RightFoot,15315,Hertha Berlin,Bayern Munich,0,1,2021-02-05 19:30:00,Leroy Sané,Pass
+405059,22,SavedShot,0.7030000305175781,0.415,0.015921499580144882,Kingsley Coman,h,226,OpenPlay,2020,RightFoot,15320,Bayern Munich,Arminia Bielefeld,3,3,2021-02-15 19:30:00,Corentin Tolisso,Pass
+405070,59,SavedShot,0.855999984741211,0.7530000305175781,0.027317900210618973,Kingsley Coman,h,226,OpenPlay,2020,RightFoot,15320,Bayern Munich,Arminia Bielefeld,3,3,2021-02-15 19:30:00,Alphonso Davies,Pass
+405080,91,SavedShot,0.8830000305175781,0.750999984741211,0.031191300600767136,Kingsley Coman,h,226,OpenPlay,2020,RightFoot,15320,Bayern Munich,Arminia Bielefeld,3,3,2021-02-15 19:30:00,Leroy Sané,Pass
+405494,39,SavedShot,0.88,0.649000015258789,0.042127400636672974,Kingsley Coman,a,226,OpenPlay,2020,RightFoot,15332,Eintracht Frankfurt,Bayern Munich,2,1,2021-02-20 14:30:00,,Rebound
+405502,47,MissedShots,0.955999984741211,0.6029999923706054,0.07899419963359833,Kingsley Coman,a,226,OpenPlay,2020,Head,15332,Eintracht Frankfurt,Bayern Munich,2,1,2021-02-20 14:30:00,Leroy Sané,Cross
+405508,69,MissedShots,0.9130000305175782,0.605,0.2589719891548157,Kingsley Coman,a,226,OpenPlay,2020,LeftFoot,15332,Eintracht Frankfurt,Bayern Munich,2,1,2021-02-20 14:30:00,Leroy Sané,Cross
+408697,28,SavedShot,0.9269999694824219,0.7469999694824219,0.035783298313617706,Kingsley Coman,h,226,OpenPlay,2020,LeftFoot,15351,Bayern Munich,Borussia Dortmund,4,2,2021-03-06 17:30:00,Thomas Müller,Pass
+408698,30,MissedShots,0.8880000305175781,0.45099998474121095,0.05612120032310486,Kingsley Coman,h,226,OpenPlay,2020,Head,15351,Bayern Munich,Borussia Dortmund,4,2,2021-03-06 17:30:00,Niklas Süle,Cross
+409937,21,BlockedShot,0.879000015258789,0.35700000762939454,0.07131890207529068,Kingsley Coman,a,226,OpenPlay,2020,LeftFoot,15363,Werder Bremen,Bayern Munich,1,3,2021-03-13 14:30:00,Serge Gnabry,TakeOn
+411397,83,BlockedShot,0.8930000305175781,0.6370000076293946,0.11229699850082397,Kingsley Coman,h,226,OpenPlay,2020,RightFoot,15365,Bayern Munich,VfB Stuttgart,4,0,2021-03-20 14:30:00,David Alaba,Pass
+412724,22,BlockedShot,0.8580000305175781,0.5670000076293945,0.0973970964550972,Kingsley Coman,a,226,OpenPlay,2020,RightFoot,15375,RasenBallsport Leipzig,Bayern Munich,0,1,2021-04-03 16:30:00,Eric Maxim Choupo-Moting,Pass
+415251,90,SavedShot,0.9069999694824219,0.4640000152587891,0.07452739775180817,Kingsley Coman,a,226,OpenPlay,2020,Head,15396,Wolfsburg,Bayern Munich,2,3,2021-04-17 13:30:00,David Alaba,Chipped
+416203,11,MissedShots,0.789000015258789,0.41900001525878905,0.04690460115671158,Kingsley Coman,h,226,OpenPlay,2020,LeftFoot,15401,Bayern Munich,Bayer Leverkusen,2,0,2021-04-20 18:30:00,Joshua Kimmich,Pass
+416214,50,MissedShots,0.8590000152587891,0.6830000305175781,0.06916269659996033,Kingsley Coman,h,226,OpenPlay,2020,RightFoot,15401,Bayern Munich,Bayer Leverkusen,2,0,2021-04-20 18:30:00,Eric Maxim Choupo-Moting,Pass
+416217,53,BlockedShot,0.77,0.7140000152587891,0.0160118006169796,Kingsley Coman,h,226,OpenPlay,2020,RightFoot,15401,Bayern Munich,Bayer Leverkusen,2,0,2021-04-20 18:30:00,,TakeOn
+417235,23,BlockedShot,0.7519999694824219,0.7419999694824219,0.01684819906949997,Kingsley Coman,a,226,OpenPlay,2020,RightFoot,15417,Mainz 05,Bayern Munich,2,1,2021-04-24 13:30:00,Alphonso Davies,Pass
+420261,13,ShotOnPost,0.960999984741211,0.659000015258789,0.09268710017204285,Kingsley Coman,h,226,OpenPlay,2020,LeftFoot,15419,Bayern Munich,Borussia M.Gladbach,6,0,2021-05-08 16:30:00,Alphonso Davies,Pass
+420271,43,Goal,0.8690000152587891,0.3729999923706055,0.2728410065174103,Kingsley Coman,h,226,OpenPlay,2020,RightFoot,15419,Bayern Munich,Borussia M.Gladbach,6,0,2021-05-08 16:30:00,Robert Lewandowski,Pass
+423603,22,BlockedShot,0.8219999694824218,0.5220000076293946,0.083822101354599,Kingsley Coman,h,226,OpenPlay,2020,RightFoot,15437,Bayern Munich,Augsburg,5,2,2021-05-22 13:30:00,Serge Gnabry,Pass
+423605,22,ShotOnPost,0.9719999694824218,0.455,0.657384991645813,Kingsley Coman,h,226,OpenPlay,2020,RightFoot,15437,Bayern Munich,Augsburg,5,2,2021-05-22 13:30:00,,None
+423615,42,Goal,0.7480000305175781,0.6669999694824219,0.020156899467110634,Kingsley Coman,h,226,OpenPlay,2020,RightFoot,15437,Bayern Munich,Augsburg,5,2,2021-05-22 13:30:00,David Alaba,Pass
+425559,86,MissedShots,0.855999984741211,0.33599998474121096,0.05339359864592552,Kingsley Coman,a,226,OpenPlay,2021,RightFoot,17516,Borussia M.Gladbach,Bayern Munich,1,1,2021-08-13 18:30:00,Jamal Musiala,Pass
+428896,67,BlockedShot,0.7619999694824219,0.39799999237060546,0.023644400760531425,Kingsley Coman,h,226,OpenPlay,2021,RightFoot,17540,Bayern Munich,Hertha Berlin,5,0,2021-08-28 16:30:00,Robert Lewandowski,Pass
+428900,75,MissedShots,0.8480000305175781,0.4520000076293945,0.09289079904556274,Kingsley Coman,h,226,OpenPlay,2021,LeftFoot,17540,Bayern Munich,Hertha Berlin,5,0,2021-08-28 16:30:00,Thomas Müller,Cross
+428903,82,BlockedShot,0.8590000152587891,0.500999984741211,0.4473299980163574,Kingsley Coman,h,226,OpenPlay,2021,LeftFoot,17540,Bayern Munich,Hertha Berlin,5,0,2021-08-28 16:30:00,Robert Lewandowski,Pass
+436933,84,SavedShot,0.9390000152587891,0.6780000305175782,0.08706969767808914,Kingsley Coman,a,226,OpenPlay,2021,LeftFoot,17585,Bayer Leverkusen,Bayern Munich,1,5,2021-10-17 13:30:00,,BallRecovery
+436934,87,BlockedShot,0.7830000305175782,0.5459999847412109,0.0612918995320797,Kingsley Coman,a,226,OpenPlay,2021,RightFoot,17585,Bayer Leverkusen,Bayern Munich,1,5,2021-10-17 13:30:00,Leroy Sané,TakeOn
+437640,74,MissedShots,0.884000015258789,0.4159999847412109,0.09974890202283859,Kingsley Coman,h,226,OpenPlay,2021,LeftFoot,17596,Bayern Munich,Hoffenheim,4,0,2021-10-23 13:30:00,Joshua Kimmich,None
+437643,86,Goal,0.92,0.34700000762939454,0.35646799206733704,Kingsley Coman,h,226,OpenPlay,2021,RightFoot,17596,Bayern Munich,Hoffenheim,4,0,2021-10-23 13:30:00,Dayotchanculle Upamecano,Throughball
+439550,60,Goal,0.9,0.3120000076293945,0.07576069980859756,Kingsley Coman,a,226,OpenPlay,2021,RightFoot,17602,Union Berlin,Bayern Munich,2,5,2021-10-30 13:30:00,Thomas Müller,Pass
+440962,2,BlockedShot,0.914000015258789,0.265,0.03056279942393303,Kingsley Coman,h,226,OpenPlay,2021,RightFoot,17614,Bayern Munich,Freiburg,2,1,2021-11-06 14:30:00,Leroy Sané,Chipped
+440974,33,MissedShots,0.875,0.5479999923706055,0.07622519880533218,Kingsley Coman,h,226,FromCorner,2021,LeftFoot,17614,Bayern Munich,Freiburg,2,1,2021-11-06 14:30:00,,None
+440976,33,BlockedShot,0.8919999694824219,0.5329999923706055,0.1101979985833168,Kingsley Coman,h,226,FromCorner,2021,RightFoot,17614,Bayern Munich,Freiburg,2,1,2021-11-06 14:30:00,,Rebound
+440986,59,MissedShots,0.8730000305175781,0.28399999618530275,0.059700001031160355,Kingsley Coman,h,226,OpenPlay,2021,RightFoot,17614,Bayern Munich,Freiburg,2,1,2021-11-06 14:30:00,Leon Goretzka,HeadPass
+444278,20,BlockedShot,0.8830000305175781,0.45799999237060546,0.39761000871658325,Kingsley Coman,h,226,OpenPlay,2021,LeftFoot,17632,Bayern Munich,Arminia Bielefeld,1,0,2021-11-27 17:30:00,Thomas Müller,CornerAwarded
+444284,39,SavedShot,0.825,0.295,0.02625020034611225,Kingsley Coman,h,226,OpenPlay,2021,LeftFoot,17632,Bayern Munich,Arminia Bielefeld,1,0,2021-11-27 17:30:00,Benjamin Pavard,Pass
+444299,76,SavedShot,0.9309999847412109,0.315,0.0689622014760971,Kingsley Coman,h,226,OpenPlay,2021,RightFoot,17632,Bayern Munich,Arminia Bielefeld,1,0,2021-11-27 17:30:00,Benjamin Pavard,Pass
+446358,22,BlockedShot,0.860999984741211,0.3609999847412109,0.06436319649219513,Kingsley Coman,a,226,OpenPlay,2021,RightFoot,17641,Borussia Dortmund,Bayern Munich,2,3,2021-12-04 17:30:00,,BallRecovery
+446359,25,SavedShot,0.8669999694824219,0.3340000152587891,0.05261649936437607,Kingsley Coman,a,226,OpenPlay,2021,RightFoot,17641,Borussia Dortmund,Bayern Munich,2,3,2021-12-04 17:30:00,Leroy Sané,Pass
+446365,43,Goal,0.875999984741211,0.45799999237060546,0.09397319704294205,Kingsley Coman,a,226,OpenPlay,2021,RightFoot,17641,Borussia Dortmund,Bayern Munich,2,3,2021-12-04 17:30:00,,BallTouch
+446368,56,SavedShot,0.8619999694824219,0.34299999237060547,0.053304798901081085,Kingsley Coman,a,226,OpenPlay,2021,LeftFoot,17641,Borussia Dortmund,Bayern Munich,2,3,2021-12-04 17:30:00,Thomas Müller,Pass
+447578,43,BlockedShot,0.935,0.35700000762939454,0.3514930009841919,Kingsley Coman,h,226,OpenPlay,2021,RightFoot,17650,Bayern Munich,Mainz 05,2,1,2021-12-11 14:30:00,,None
+447584,48,SavedShot,0.9159999847412109,0.4640000152587891,0.3092769980430603,Kingsley Coman,h,226,OpenPlay,2021,Head,17650,Bayern Munich,Mainz 05,2,1,2021-12-11 14:30:00,Robert Lewandowski,Cross
+447585,52,Goal,0.9169999694824219,0.32599998474121095,0.22960999608039856,Kingsley Coman,h,226,OpenPlay,2021,RightFoot,17650,Bayern Munich,Mainz 05,2,1,2021-12-11 14:30:00,Corentin Tolisso,Chipped
+447587,57,BlockedShot,0.8590000152587891,0.27700000762939453,0.031768299639225006,Kingsley Coman,h,226,OpenPlay,2021,LeftFoot,17650,Bayern Munich,Mainz 05,2,1,2021-12-11 14:30:00,Corentin Tolisso,Chipped
+447588,60,MissedShots,0.89,0.6659999847412109,0.05559239909052849,Kingsley Coman,h,226,OpenPlay,2021,RightFoot,17650,Bayern Munich,Mainz 05,2,1,2021-12-11 14:30:00,Lucas Hernández,Pass
+455315,9,SavedShot,0.805,0.664000015258789,0.03031340055167675,Kingsley Coman,a,226,OpenPlay,2021,RightFoot,17689,Hertha Berlin,Bayern Munich,1,4,2022-01-23 16:30:00,Joshua Kimmich,Pass
+455317,15,SavedShot,0.91,0.5640000152587891,0.24735000729560852,Kingsley Coman,a,226,OpenPlay,2021,Head,17689,Hertha Berlin,Bayern Munich,1,4,2022-01-23 16:30:00,Joshua Kimmich,Chipped
+455921,19,MissedShots,0.92,0.615999984741211,0.15306200087070465,Kingsley Coman,h,226,OpenPlay,2021,LeftFoot,17704,Bayern Munich,RasenBallsport Leipzig,3,2,2022-02-05 17:30:00,Leroy Sané,TakeOn
+455930,46,BlockedShot,0.8490000152587891,0.7019999694824218,0.023685500025749207,Kingsley Coman,h,226,SetPiece,2021,RightFoot,17704,Bayern Munich,RasenBallsport Leipzig,3,2,2022-02-05 17:30:00,,Rebound
+455940,68,MissedShots,0.735,0.7519999694824219,0.018013499677181244,Kingsley Coman,h,226,OpenPlay,2021,RightFoot,17704,Bayern Munich,RasenBallsport Leipzig,3,2,2022-02-05 17:30:00,Joshua Kimmich,Pass
+457006,25,MissedShots,0.76,0.6680000305175782,0.020942699164152145,Kingsley Coman,a,226,OpenPlay,2021,RightFoot,17706,Bochum,Bayern Munich,4,2,2022-02-12 14:30:00,Thomas Müller,Pass
+459954,23,SavedShot,0.759000015258789,0.7269999694824218,0.0123752998188138,Kingsley Coman,a,226,OpenPlay,2021,RightFoot,17731,Eintracht Frankfurt,Bayern Munich,0,1,2022-02-26 17:30:00,Niklas Süle,Chipped
+459959,38,SavedShot,0.9569999694824218,0.605,0.35968801379203796,Kingsley Coman,a,226,OpenPlay,2021,LeftFoot,17731,Eintracht Frankfurt,Bayern Munich,0,1,2022-02-26 17:30:00,,Rebound
+462447,45,BlockedShot,0.8469999694824218,0.66,0.05012489855289459,Kingsley Coman,a,226,OpenPlay,2021,RightFoot,17743,Hoffenheim,Bayern Munich,1,1,2022-03-12 14:30:00,Jamal Musiala,Pass
+462451,64,SavedShot,0.7809999847412109,0.7090000152587891,0.022611800581216812,Kingsley Coman,a,226,OpenPlay,2021,RightFoot,17743,Hoffenheim,Bayern Munich,1,1,2022-03-12 14:30:00,Lucas Hernández,Pass
+464126,15,Goal,0.7859999847412109,0.7319999694824219,0.01969509944319725,Kingsley Coman,h,226,OpenPlay,2021,RightFoot,17758,Bayern Munich,Union Berlin,4,0,2022-03-19 17:30:00,Lucas Hernández,Pass
+464133,27,BlockedShot,0.955999984741211,0.7090000152587891,0.07002200186252594,Kingsley Coman,h,226,OpenPlay,2021,LeftFoot,17758,Bayern Munich,Union Berlin,4,0,2022-03-19 17:30:00,Leroy Sané,BallRecovery
+464136,41,MissedShots,0.89,0.6040000152587891,0.09571950137615204,Kingsley Coman,h,226,OpenPlay,2021,RightFoot,17758,Bayern Munich,Union Berlin,4,0,2022-03-19 17:30:00,,None
+465031,44,SavedShot,0.8159999847412109,0.555,0.05049319937825203,Kingsley Coman,a,226,OpenPlay,2021,RightFoot,17762,Freiburg,Bayern Munich,1,4,2022-04-02 13:30:00,,None
+465034,60,SavedShot,0.950999984741211,0.6509999847412109,0.33971598744392395,Kingsley Coman,a,226,OpenPlay,2021,LeftFoot,17762,Freiburg,Bayern Munich,1,4,2022-04-02 13:30:00,Thomas Müller,Throughball
+465040,77,MissedShots,0.7580000305175781,0.55,0.026727700605988503,Kingsley Coman,a,226,FromCorner,2021,RightFoot,17762,Freiburg,Bayern Munich,1,4,2022-04-02 13:30:00,Jamal Musiala,Pass
+465044,81,Goal,0.815,0.695,0.03987560048699379,Kingsley Coman,a,226,OpenPlay,2021,RightFoot,17762,Freiburg,Bayern Munich,1,4,2022-04-02 13:30:00,Dayotchanculle Upamecano,Chipped
+466621,73,MissedShots,0.8130000305175781,0.644000015258789,0.036253198981285095,Kingsley Coman,h,226,OpenPlay,2021,RightFoot,17776,Bayern Munich,Augsburg,1,0,2022-04-09 13:30:00,Marcel Sabitzer,Pass
+466625,84,SavedShot,0.8919999694824219,0.710999984741211,0.05110489949584007,Kingsley Coman,h,226,OpenPlay,2021,LeftFoot,17776,Bayern Munich,Augsburg,1,0,2022-04-09 13:30:00,Marcel Sabitzer,Pass
+470152,52,MissedShots,0.8669999694824219,0.4,0.018155299127101898,Kingsley Coman,h,226,OpenPlay,2021,Head,17794,Bayern Munich,Borussia Dortmund,3,1,2022-04-23 16:30:00,Serge Gnabry,Cross
+474305,4,BlockedShot,0.8269999694824218,0.654000015258789,0.03949600085616112,Kingsley Coman,h,226,OpenPlay,2021,RightFoot,17812,Bayern Munich,VfB Stuttgart,2,2,2022-05-08 15:30:00,Leon Goretzka,Pass
+482508,17,MissedShots,0.8630000305175781,0.30700000762939456,0.018350999802350998,Kingsley Coman,a,226,FromCorner,2022,RightFoot,19368,Bochum,Bayern Munich,0,7,2022-08-21 15:30:00,,Aerial
+482515,32,Goal,0.9059999847412109,0.43400001525878906,0.4679349958896637,Kingsley Coman,a,226,OpenPlay,2022,RightFoot,19368,Bochum,Bayern Munich,0,7,2022-08-21 15:30:00,,Rebound
+482518,39,ShotOnPost,0.9380000305175781,0.40599998474121096,0.32258498668670654,Kingsley Coman,a,226,OpenPlay,2022,Head,19368,Bochum,Bayern Munich,0,7,2022-08-21 15:30:00,Joshua Kimmich,Chipped
+482522,55,MissedShots,0.7730000305175782,0.3370000076293945,0.02566640079021454,Kingsley Coman,a,226,OpenPlay,2022,RightFoot,19368,Bochum,Bayern Munich,0,7,2022-08-21 15:30:00,Marcel Sabitzer,TakeOn
+483896,21,MissedShots,0.88,0.23100000381469726,0.03546920046210289,Kingsley Coman,h,226,OpenPlay,2022,RightFoot,19375,Bayern Munich,Borussia M.Gladbach,1,1,2022-08-27 16:30:00,,TakeOn
+483929,96,MissedShots,0.8059999847412109,0.35700000762939454,0.031205499544739723,Kingsley Coman,h,226,OpenPlay,2022,LeftFoot,19375,Bayern Munich,Borussia M.Gladbach,1,1,2022-08-27 16:30:00,Joshua Kimmich,Chipped
+485823,21,BlockedShot,0.8780000305175781,0.4379999923706055,0.08068530261516571,Kingsley Coman,a,226,OpenPlay,2022,RightFoot,19380,Union Berlin,Bayern Munich,1,1,2022-09-03 13:30:00,,None
+491754,58,BlockedShot,0.855999984741211,0.575,0.11612699925899506,Kingsley Coman,a,226,OpenPlay,2022,RightFoot,19414,Borussia Dortmund,Bayern Munich,2,2,2022-10-08 16:30:00,,None
+491760,84,BlockedShot,0.8069999694824219,0.6919999694824219,0.029500799253582954,Kingsley Coman,a,226,OpenPlay,2022,RightFoot,19414,Borussia Dortmund,Bayern Munich,2,2,2022-10-08 16:30:00,Joshua Kimmich,Chipped
+494879,20,SavedShot,0.8530000305175781,0.7190000152587891,0.034225501120090485,Kingsley Coman,a,226,OpenPlay,2022,RightFoot,19436,Hoffenheim,Bayern Munich,0,2,2022-10-22 13:30:00,,Rebound
+497936,83,BlockedShot,0.8590000152587891,0.6969999694824218,0.07436279952526093,Kingsley Coman,a,226,OpenPlay,2022,RightFoot,19455,Hertha Berlin,Bayern Munich,2,3,2022-11-05 14:30:00,Marcel Sabitzer,Pass
+499183,67,SavedShot,0.975,0.5779999923706055,0.6443020105361938,Kingsley Coman,h,226,OpenPlay,2022,RightFoot,19459,Bayern Munich,Werder Bremen,6,1,2022-11-08 19:30:00,Leroy Sané,TakeOn
+500291,9,MissedShots,0.7609999847412109,0.715999984741211,0.011579600162804127,Kingsley Coman,a,226,OpenPlay,2022,RightFoot,19475,Schalke 04,Bayern Munich,0,2,2022-11-12 17:30:00,,Rebound
+500307,57,MissedShots,0.735999984741211,0.6890000152587891,0.022048499435186386,Kingsley Coman,a,226,OpenPlay,2022,RightFoot,19475,Schalke 04,Bayern Munich,0,2,2022-11-12 17:30:00,Joshua Kimmich,Chipped
+505398,53,SavedShot,0.8919999694824219,0.3189999961853027,0.05072399973869324,Kingsley Coman,h,226,OpenPlay,2022,LeftFoot,19486,Bayern Munich,FC Cologne,1,1,2023-01-24 19:30:00,Jamal Musiala,Pass
+505402,70,MissedShots,0.845,0.71,0.031040599569678307,Kingsley Coman,h,226,OpenPlay,2022,RightFoot,19486,Bayern Munich,FC Cologne,1,1,2023-01-24 19:30:00,Thomas Müller,Pass
+505407,91,BlockedShot,0.8819999694824219,0.7019999694824218,0.03650109842419624,Kingsley Coman,h,226,OpenPlay,2022,RightFoot,19486,Bayern Munich,FC Cologne,1,1,2023-01-24 19:30:00,Eric Maxim Choupo-Moting,Pass
+505932,22,MissedShots,0.754000015258789,0.27899999618530275,0.013525700196623802,Kingsley Coman,h,226,FromCorner,2022,RightFoot,19495,Bayern Munich,Eintracht Frankfurt,1,1,2023-01-28 17:30:00,,None
+507772,5,MissedShots,0.7759999847412109,0.6270000076293946,0.019132100045681,Kingsley Coman,a,226,FromCorner,2022,RightFoot,19509,Wolfsburg,Bayern Munich,2,4,2023-02-05 16:30:00,,None
+507773,8,Goal,0.7909999847412109,0.8280000305175781,0.016997599974274635,Kingsley Coman,a,226,OpenPlay,2022,RightFoot,19509,Wolfsburg,Bayern Munich,2,4,2023-02-05 16:30:00,Alphonso Davies,Pass
+507775,13,Goal,0.885,0.5690000152587891,0.0880018025636673,Kingsley Coman,a,226,OpenPlay,2022,RightFoot,19509,Wolfsburg,Bayern Munich,2,4,2023-02-05 16:30:00,João Cancelo,Cross
+507779,23,BlockedShot,0.830999984741211,0.6179999923706054,0.07361999899148941,Kingsley Coman,a,226,OpenPlay,2022,RightFoot,19509,Wolfsburg,Bayern Munich,2,4,2023-02-05 16:30:00,Thomas Müller,Pass
+507786,42,MissedShots,0.7930000305175782,0.629000015258789,0.03425160050392151,Kingsley Coman,a,226,OpenPlay,2022,RightFoot,19509,Wolfsburg,Bayern Munich,2,4,2023-02-05 16:30:00,Jamal Musiala,Pass
+508326,63,Goal,0.935,0.32799999237060545,0.27344900369644165,Kingsley Coman,h,226,OpenPlay,2022,RightFoot,19513,Bayern Munich,Bochum,3,0,2023-02-11 14:30:00,Jamal Musiala,Pass
+508330,77,MissedShots,0.8230000305175781,0.33599998474121096,0.1214980036020279,Kingsley Coman,h,226,OpenPlay,2022,RightFoot,19513,Bayern Munich,Bochum,3,0,2023-02-11 14:30:00,Mathys Tel,Chipped
+508334,84,MissedShots,0.8030000305175782,0.32799999237060545,0.06505519896745682,Kingsley Coman,h,226,OpenPlay,2022,LeftFoot,19513,Bayern Munich,Bochum,3,0,2023-02-11 14:30:00,Daley Blind,Chipped
+511453,39,Goal,0.9369999694824219,0.33099998474121095,0.6103450059890747,Kingsley Coman,h,226,OpenPlay,2022,RightFoot,19531,Bayern Munich,Union Berlin,3,0,2023-02-26 16:30:00,Thomas Müller,TakeOn
+512351,3,MissedShots,0.865,0.3609999847412109,0.03771049901843071,Kingsley Coman,a,226,OpenPlay,2022,LeftFoot,19548,VfB Stuttgart,Bayern Munich,1,2,2023-03-04 17:30:00,Alphonso Davies,Cross
+512365,52,SavedShot,0.870999984741211,0.6029999923706054,0.095940500497818,Kingsley Coman,a,226,OpenPlay,2022,LeftFoot,19548,VfB Stuttgart,Bayern Munich,1,2,2023-03-04 17:30:00,,BallTouch
+515757,65,BlockedShot,0.8230000305175781,0.3820000076293945,0.04681260138750076,Kingsley Coman,a,226,OpenPlay,2022,LeftFoot,19559,Bayer Leverkusen,Bayern Munich,2,1,2023-03-19 16:30:00,Jamal Musiala,Pass
+515761,84,MissedShots,0.8719999694824219,0.315,0.07180970162153244,Kingsley Coman,a,226,OpenPlay,2022,RightFoot,19559,Bayer Leverkusen,Bayern Munich,2,1,2023-03-19 16:30:00,,Rebound
+516606,19,MissedShots,0.7609999847412109,0.6270000076293946,0.03165049850940704,Kingsley Coman,h,226,OpenPlay,2022,RightFoot,19574,Bayern Munich,Borussia Dortmund,4,2,2023-04-01 16:30:00,Leon Goretzka,Pass
+516613,40,SavedShot,0.8019999694824219,0.47,0.0812406986951828,Kingsley Coman,h,226,OpenPlay,2022,RightFoot,19574,Bayern Munich,Borussia Dortmund,4,2,2023-04-01 16:30:00,Eric Maxim Choupo-Moting,TakeOn
+516615,49,Goal,0.9209999847412109,0.549000015258789,0.5231059789657593,Kingsley Coman,h,226,OpenPlay,2022,LeftFoot,19574,Bayern Munich,Borussia Dortmund,4,2,2023-04-01 16:30:00,Leroy Sané,Pass
+519359,16,MissedShots,0.7930000305175782,0.38599998474121094,0.02356320060789585,Kingsley Coman,h,226,FromCorner,2022,RightFoot,19585,Bayern Munich,Hoffenheim,1,1,2023-04-15 13:30:00,,None
+519363,45,SavedShot,0.855999984741211,0.7240000152587891,0.05955350026488304,Kingsley Coman,h,226,OpenPlay,2022,RightFoot,19585,Bayern Munich,Hoffenheim,1,1,2023-04-15 13:30:00,Thomas Müller,Pass
+523313,34,SavedShot,0.885,0.30700000762939456,0.046243295073509216,Kingsley Coman,h,226,OpenPlay,2022,LeftFoot,19603,Bayern Munich,Hertha Berlin,2,0,2023-04-30 13:30:00,Joshua Kimmich,Chipped
+523327,77,SavedShot,0.845,0.27700000762939453,0.03393670544028282,Kingsley Coman,h,226,OpenPlay,2022,LeftFoot,19603,Bayern Munich,Hertha Berlin,2,0,2023-04-30 13:30:00,Josip Stanisic,Pass
+523328,78,Goal,0.9330000305175781,0.4370000076293945,0.4849475920200348,Kingsley Coman,h,226,OpenPlay,2022,RightFoot,19603,Bayern Munich,Hertha Berlin,2,0,2023-04-30 13:30:00,Joshua Kimmich,Throughball
+524793,23,MissedShots,0.9580000305175781,0.28899999618530275,0.04827924445271492,Kingsley Coman,a,226,OpenPlay,2022,RightFoot,19620,Werder Bremen,Bayern Munich,1,2,2023-05-06 16:30:00,Noussair Mazraoui,Pass
+524798,31,BlockedShot,0.7819999694824219,0.5179999923706055,0.01656264252960682,Kingsley Coman,a,226,FromCorner,2022,LeftFoot,19620,Werder Bremen,Bayern Munich,1,2,2023-05-06 16:30:00,,Aerial
+525904,9,BlockedShot,0.93,0.5709999847412109,0.49804553389549255,Kingsley Coman,h,226,OpenPlay,2022,RightFoot,19621,Bayern Munich,Schalke 04,6,0,2023-05-13 13:30:00,Thomas Müller,Pass
+525919,47,MissedShots,0.7280000305175781,0.69,0.017192739993333817,Kingsley Coman,h,226,OpenPlay,2022,RightFoot,19621,Bayern Munich,Schalke 04,6,0,2023-05-13 13:30:00,Joshua Kimmich,Pass
+525921,53,MissedShots,0.7569999694824219,0.745,0.023024968802928925,Kingsley Coman,h,226,OpenPlay,2022,RightFoot,19621,Bayern Munich,Schalke 04,6,0,2023-05-13 13:30:00,Serge Gnabry,Pass
+525923,62,SavedShot,0.9630000305175781,0.6890000152587891,0.07028399407863617,Kingsley Coman,h,226,OpenPlay,2022,LeftFoot,19621,Bayern Munich,Schalke 04,6,0,2023-05-13 13:30:00,Jamal Musiala,Pass
+527661,5,BlockedShot,0.815,0.28,0.025490708649158478,Kingsley Coman,h,226,OpenPlay,2022,LeftFoot,19630,Bayern Munich,RasenBallsport Leipzig,1,3,2023-05-20 16:30:00,Serge Gnabry,Pass
+527662,6,MissedShots,0.7919999694824219,0.485,0.017649168148636818,Kingsley Coman,h,226,FromCorner,2022,RightFoot,19630,Bayern Munich,RasenBallsport Leipzig,1,3,2023-05-20 16:30:00,,Aerial
+527671,38,MissedShots,0.93,0.45,0.377951055765152,Kingsley Coman,h,226,OpenPlay,2022,Head,19630,Bayern Munich,RasenBallsport Leipzig,1,3,2023-05-20 16:30:00,João Cancelo,Cross
+529031,7,Goal,0.84,0.7040000152587891,0.031590308994054794,Kingsley Coman,a,226,OpenPlay,2022,RightFoot,19642,FC Cologne,Bayern Munich,1,2,2023-05-27 13:30:00,Leroy Sané,Pass
+532866,57,BlockedShot,0.8530000305175781,0.5220000076293946,0.1129232794046402,Kingsley Coman,a,226,OpenPlay,2023,RightFoot,23065,Werder Bremen,Bayern Munich,0,4,2023-08-18 18:30:00,Alphonso Davies,Pass
+532872,69,MissedShots,0.8690000152587891,0.6320000076293946,0.09242936223745346,Kingsley Coman,a,226,OpenPlay,2023,RightFoot,23065,Werder Bremen,Bayern Munich,0,4,2023-08-18 18:30:00,Jamal Musiala,Pass
+536506,62,BlockedShot,0.8369999694824218,0.6580000305175782,0.03128186613321304,Kingsley Coman,a,226,FromCorner,2023,LeftFoot,23089,Borussia M.Gladbach,Bayern Munich,1,2,2023-09-02 16:30:00,,None
+539014,24,MissedShots,0.855999984741211,0.39,0.0978553518652916,Kingsley Coman,h,226,OpenPlay,2023,LeftFoot,23104,Bayern Munich,Bochum,7,0,2023-09-23 13:30:00,Leroy Sané,Pass
+539015,27,BlockedShot,0.8430000305175781,0.6419999694824219,0.10695428401231766,Kingsley Coman,h,226,OpenPlay,2023,LeftFoot,23104,Bayern Munich,Bochum,7,0,2023-09-23 13:30:00,Eric Maxim Choupo-Moting,Pass
+539026,57,ShotOnPost,0.7959999847412109,0.6459999847412109,0.09084173291921616,Kingsley Coman,h,226,OpenPlay,2023,RightFoot,23104,Bayern Munich,Bochum,7,0,2023-09-23 13:30:00,Alphonso Davies,Pass
+541456,22,MissedShots,0.749000015258789,0.6719999694824219,0.012958772480487823,Kingsley Coman,a,226,OpenPlay,2023,RightFoot,23116,RasenBallsport Leipzig,Bayern Munich,2,2,2023-09-30 16:30:00,Alphonso Davies,TakeOn
+543310,11,Goal,0.84,0.05900000095367432,0.01424880139529705,Kingsley Coman,h,226,OpenPlay,2023,RightFoot,23126,Bayern Munich,Freiburg,3,0,2023-10-08 15:30:00,Thomas Müller,Pass
+543319,58,BlockedShot,0.8969999694824219,0.28,0.08088197559118271,Kingsley Coman,h,226,OpenPlay,2023,RightFoot,23126,Bayern Munich,Freiburg,3,0,2023-10-08 15:30:00,Joshua Kimmich,Chipped
+543322,67,MissedShots,0.855,0.28,0.06891342252492905,Kingsley Coman,h,226,OpenPlay,2023,LeftFoot,23126,Bayern Munich,Freiburg,3,0,2023-10-08 15:30:00,Joshua Kimmich,Chipped
+543323,68,BlockedShot,0.9480000305175781,0.5120000076293946,0.15329042077064514,Kingsley Coman,h,226,OpenPlay,2023,LeftFoot,23126,Bayern Munich,Freiburg,3,0,2023-10-08 15:30:00,Leroy Sané,Pass
+543324,70,SavedShot,0.8830000305175781,0.41900001525878905,0.13206559419631958,Kingsley Coman,h,226,OpenPlay,2023,RightFoot,23126,Bayern Munich,Freiburg,3,0,2023-10-08 15:30:00,Leroy Sané,Pass
+543327,84,Goal,0.8719999694824219,0.31799999237060544,0.09478715807199478,Kingsley Coman,h,226,OpenPlay,2023,LeftFoot,23126,Bayern Munich,Freiburg,3,0,2023-10-08 15:30:00,Konrad Laimer,Chipped
+544263,10,Goal,0.8809999847412109,0.28600000381469726,0.061335425823926926,Kingsley Coman,a,226,OpenPlay,2023,RightFoot,23134,Mainz 05,Bayern Munich,1,3,2023-10-21 16:30:00,Leroy Sané,Pass
+544267,20,MissedShots,0.9030000305175782,0.28,0.13501857221126556,Kingsley Coman,a,226,OpenPlay,2023,RightFoot,23134,Mainz 05,Bayern Munich,1,3,2023-10-21 16:30:00,Leroy Sané,Throughball
+545447,29,MissedShots,0.9259999847412109,0.6509999847412109,0.3252042531967163,Kingsley Coman,h,226,OpenPlay,2023,LeftFoot,23137,Bayern Munich,Darmstadt,8,0,2023-10-28 13:30:00,Jamal Musiala,Throughball
+545457,53,BlockedShot,0.8480000305175781,0.34900001525878904,0.06441167742013931,Kingsley Coman,h,226,OpenPlay,2023,RightFoot,23137,Bayern Munich,Darmstadt,8,0,2023-10-28 13:30:00,Leroy Sané,Pass
+547014,5,MissedShots,0.8159999847412109,0.455,0.07174864411354065,Kingsley Coman,a,226,OpenPlay,2023,LeftFoot,23146,Borussia Dortmund,Bayern Munich,0,4,2023-11-04 17:30:00,Jamal Musiala,Pass
+547036,77,BlockedShot,0.8669999694824219,0.335,0.07413075864315033,Kingsley Coman,a,226,OpenPlay,2023,RightFoot,23146,Borussia Dortmund,Bayern Munich,0,4,2023-11-04 17:30:00,Leroy Sané,Pass
+549329,28,MissedShots,0.86,0.29,0.05307329446077347,Kingsley Coman,a,226,OpenPlay,2023,RightFoot,23169,FC Cologne,Bayern Munich,0,1,2023-11-24 19:30:00,Harry Kane,Chipped
+549332,41,SavedShot,0.9069999694824219,0.585,0.10288751870393753,Kingsley Coman,a,226,FromCorner,2023,RightFoot,23169,FC Cologne,Bayern Munich,0,1,2023-11-24 19:30:00,Dayotchanculle Upamecano,Rebound
+549343,77,ShotOnPost,0.9630000305175781,0.524000015258789,0.5203801393508911,Kingsley Coman,a,226,FromCorner,2023,Head,23169,FC Cologne,Bayern Munich,0,1,2023-11-24 19:30:00,Leon Goretzka,Pass
+549345,80,MissedShots,0.8390000152587891,0.745999984741211,0.02853362075984478,Kingsley Coman,a,226,OpenPlay,2023,RightFoot,23169,FC Cologne,Bayern Munich,0,1,2023-11-24 19:30:00,Noussair Mazraoui,Pass
+552835,18,MissedShots,0.8040000152587891,0.315,0.04389243200421333,Kingsley Coman,a,226,OpenPlay,2023,RightFoot,23184,Eintracht Frankfurt,Bayern Munich,5,1,2023-12-09 14:30:00,Joshua Kimmich,Pass
+552849,47,SavedShot,0.8,0.6459999847412109,0.025795092806220055,Kingsley Coman,a,226,OpenPlay,2023,RightFoot,23184,Eintracht Frankfurt,Bayern Munich,5,1,2023-12-09 14:30:00,Joshua Kimmich,Pass
+552852,56,MissedShots,0.9480000305175781,0.6769999694824219,0.03924855962395668,Kingsley Coman,a,226,OpenPlay,2023,LeftFoot,23184,Eintracht Frankfurt,Bayern Munich,5,1,2023-12-09 14:30:00,Leroy Sané,Chipped
+559288,47,MissedShots,0.7859999847412109,0.24600000381469728,0.012322469614446163,Kingsley Coman,h,226,OpenPlay,2023,RightFoot,23218,Bayern Munich,Werder Bremen,0,1,2024-01-21 14:30:00,,None
+559293,61,BlockedShot,0.795,0.3139999961853027,0.0226651132106781,Kingsley Coman,h,226,OpenPlay,2023,LeftFoot,23218,Bayern Munich,Werder Bremen,0,1,2024-01-21 14:30:00,Dayotchanculle Upamecano,Pass
+559301,81,BlockedShot,0.914000015258789,0.5729999923706055,0.08578716963529587,Kingsley Coman,h,226,OpenPlay,2023,RightFoot,23218,Bayern Munich,Werder Bremen,0,1,2024-01-21 14:30:00,Thomas Müller,HeadPass
+559534,10,SavedShot,0.7869999694824219,0.7030000305175781,0.024393795058131218,Kingsley Coman,h,226,OpenPlay,2023,RightFoot,23173,Bayern Munich,Union Berlin,1,0,2024-01-24 18:30:00,Leon Goretzka,Pass
+559537,22,MissedShots,0.9159999847412109,0.5709999847412109,0.1305573582649231,Kingsley Coman,h,226,OpenPlay,2023,RightFoot,23173,Bayern Munich,Union Berlin,1,0,2024-01-24 18:30:00,Raphael Guerreiro,Pass
+559550,64,BlockedShot,0.7609999847412109,0.735999984741211,0.023732636123895645,Kingsley Coman,h,226,OpenPlay,2023,RightFoot,23173,Bayern Munich,Union Berlin,1,0,2024-01-24 18:30:00,Raphael Guerreiro,Pass
+559770,2,BlockedShot,0.855999984741211,0.6869999694824219,0.040347982197999954,Kingsley Coman,a,226,OpenPlay,2023,RightFoot,23234,Augsburg,Bayern Munich,2,3,2024-01-27 14:30:00,Leroy Sané,Pass
+571002,74,SavedShot,0.845,0.3160000038146973,0.03366675227880478,Kingsley Coman,h,226,SetPiece,2023,RightFoot,23299,Bayern Munich,Borussia Dortmund,0,2,2024-03-30 17:30:00,Joshua Kimmich,Pass
+590038,71,BlockedShot,0.8719999694824219,0.7240000152587891,0.04084133729338646,Kingsley Coman,h,226,OpenPlay,2024,RightFoot,27759,Bayern Munich,Freiburg,2,0,2024-09-01 15:30:00,Jamal Musiala,Pass
+590039,71,MissedShots,0.8730000305175781,0.6419999694824219,0.07207182794809341,Kingsley Coman,h,226,OpenPlay,2024,RightFoot,27759,Bayern Munich,Freiburg,2,0,2024-09-01 15:30:00,,Rebound
+591038,36,SavedShot,0.94,0.7069999694824218,0.10359248518943787,Kingsley Coman,a,226,OpenPlay,2024,LeftFoot,27766,Holstein Kiel,Bayern Munich,1,6,2024-09-14 16:30:00,,TakeOn
+591045,49,BlockedShot,0.8569999694824219,0.6519999694824219,0.075014628469944,Kingsley Coman,a,226,OpenPlay,2024,RightFoot,27766,Holstein Kiel,Bayern Munich,1,6,2024-09-14 16:30:00,Michael Olise,Pass
+591048,58,SavedShot,0.9640000152587891,0.4379999923706055,0.11564847826957703,Kingsley Coman,a,226,FromCorner,2024,RightFoot,27766,Holstein Kiel,Bayern Munich,1,6,2024-09-14 16:30:00,,None
+596343,75,SavedShot,0.754000015258789,0.6120000076293945,0.027980120852589607,Kingsley Coman,a,226,OpenPlay,2024,RightFoot,27787,Eintracht Frankfurt,Bayern Munich,3,3,2024-10-06 15:30:00,Alphonso Davies,Pass
+596348,96,SavedShot,0.8580000305175781,0.28,0.024633824825286865,Kingsley Coman,a,226,FromCorner,2024,RightFoot,27787,Eintracht Frankfurt,Bayern Munich,3,3,2024-10-06 15:30:00,,None
+597302,71,MissedShots,0.735999984741211,0.6930000305175781,0.013591884635388851,Kingsley Coman,h,226,OpenPlay,2024,RightFoot,27797,Bayern Munich,VfB Stuttgart,4,0,2024-10-19 16:30:00,Alphonso Davies,TakeOn
+597307,85,MissedShots,0.830999984741211,0.56,0.10152936726808548,Kingsley Coman,h,226,OpenPlay,2024,RightFoot,27797,Bayern Munich,VfB Stuttgart,4,0,2024-10-19 16:30:00,Alphonso Davies,Pass
+597308,88,Goal,0.904000015258789,0.6129999923706054,0.09699629992246628,Kingsley Coman,h,226,OpenPlay,2024,RightFoot,27797,Bayern Munich,VfB Stuttgart,4,0,2024-10-19 16:30:00,,None
+599184,30,MissedShots,0.9359999847412109,0.65,0.28329893946647644,Kingsley Coman,a,226,OpenPlay,2024,RightFoot,27812,Bochum,Bayern Munich,0,5,2024-10-27 14:30:00,Jamal Musiala,Pass
+599191,70,Goal,0.8190000152587891,0.7430000305175781,0.03859718143939972,Kingsley Coman,a,226,OpenPlay,2024,RightFoot,27812,Bochum,Bayern Munich,0,5,2024-10-27 14:30:00,Alphonso Davies,Pass
+599939,42,Goal,0.9590000152587891,0.6519999694824219,0.34338507056236267,Kingsley Coman,h,226,OpenPlay,2024,RightFoot,27815,Bayern Munich,Union Berlin,3,0,2024-11-02 14:30:00,Harry Kane,Throughball
+599949,86,SavedShot,0.9019999694824219,0.6320000076293946,0.08883504569530487,Kingsley Coman,h,226,OpenPlay,2024,RightFoot,27815,Bayern Munich,Union Berlin,3,0,2024-11-02 14:30:00,,None
+599950,87,MissedShots,0.8859999847412109,0.565,0.027076605707406998,Kingsley Coman,h,226,OpenPlay,2024,Head,27815,Bayern Munich,Union Berlin,3,0,2024-11-02 14:30:00,Thomas Müller,Aerial
+602501,12,BlockedShot,0.8859999847412109,0.6930000305175781,0.04602893069386482,Kingsley Coman,h,226,OpenPlay,2024,RightFoot,27834,Bayern Munich,Augsburg,3,0,2024-11-22 19:30:00,Jamal Musiala,Pass
+602504,23,SavedShot,0.764000015258789,0.5790000152587891,0.026848508045077324,Kingsley Coman,h,226,OpenPlay,2024,RightFoot,27834,Bayern Munich,Augsburg,3,0,2024-11-22 19:30:00,Joshua Kimmich,Pass
+602524,64,MissedShots,0.9390000152587891,0.725,0.05446397513151169,Kingsley Coman,h,226,OpenPlay,2024,LeftFoot,27834,Bayern Munich,Augsburg,3,0,2024-11-22 19:30:00,Kim Min-Jae,Chipped
+604371,67,SavedShot,0.8569999694824219,0.6609999847412109,0.0438990443944931,Kingsley Coman,a,226,OpenPlay,2024,RightFoot,27842,Borussia Dortmund,Bayern Munich,1,1,2024-11-30 17:30:00,Jamal Musiala,Pass
+610856,69,BlockedShot,0.795,0.3770000076293945,0.029224829748272896,Kingsley Coman,a,226,OpenPlay,2024,LeftFoot,27884,Borussia M.Gladbach,Bayern Munich,0,1,2025-01-11 17:30:00,Michael Olise,TakeOn
+610864,87,SavedShot,0.9540000152587891,0.38299999237060545,0.29976558685302734,Kingsley Coman,a,226,OpenPlay,2024,Head,27884,Borussia M.Gladbach,Bayern Munich,0,1,2025-01-11 17:30:00,,Rebound
+610867,94,BlockedShot,0.8140000152587891,0.5159999847412109,0.11949097365140915,Kingsley Coman,a,226,OpenPlay,2024,RightFoot,27884,Borussia M.Gladbach,Bayern Munich,0,1,2025-01-11 17:30:00,Harry Kane,BallRecovery
+611687,35,MissedShots,0.7980000305175782,0.805,0.026417508721351624,Kingsley Coman,h,226,OpenPlay,2024,RightFoot,27888,Bayern Munich,Hoffenheim,5,0,2025-01-15 19:30:00,Alphonso Davies,Pass
+611688,41,BlockedShot,0.9019999694824219,0.6370000076293946,0.10676449537277222,Kingsley Coman,h,226,OpenPlay,2024,RightFoot,27888,Bayern Munich,Hoffenheim,5,0,2025-01-15 19:30:00,Joshua Kimmich,TakeOn
+612183,4,MissedShots,0.9790000152587891,0.40299999237060546,0.04457264393568039,Kingsley Coman,h,226,FromCorner,2024,Head,27897,Bayern Munich,Wolfsburg,3,2,2025-01-18 14:30:00,Joshua Kimmich,Cross
+612184,6,SavedShot,0.870999984741211,0.6719999694824219,0.3212856650352478,Kingsley Coman,h,226,OpenPlay,2024,LeftFoot,27897,Bayern Munich,Wolfsburg,3,2,2025-01-18 14:30:00,Harry Kane,Throughball
+612199,56,MissedShots,0.9230000305175782,0.5840000152587891,0.10573787242174149,Kingsley Coman,h,226,OpenPlay,2024,LeftFoot,27897,Bayern Munich,Wolfsburg,3,2,2025-01-18 14:30:00,Leroy Sané,Cross
+612202,69,MissedShots,0.8619999694824219,0.5029999923706054,0.2637988328933716,Kingsley Coman,h,226,OpenPlay,2024,RightFoot,27897,Bayern Munich,Wolfsburg,3,2,2025-01-18 14:30:00,Manuel Neuer,Pass
+612203,71,BlockedShot,0.9209999847412109,0.4520000076293945,0.05029691383242607,Kingsley Coman,h,226,OpenPlay,2024,Head,27897,Bayern Munich,Wolfsburg,3,2,2025-01-18 14:30:00,Michael Olise,Aerial
+613250,81,SavedShot,0.8069999694824219,0.7269999694824218,0.02929353527724743,Kingsley Coman,a,226,OpenPlay,2024,RightFoot,27912,Freiburg,Bayern Munich,1,2,2025-01-25 14:30:00,Aleksandar Pavlovic,Pass
+614792,1,BlockedShot,0.7769999694824219,0.5729999923706055,0.0370558425784111,Kingsley Coman,h,226,OpenPlay,2024,RightFoot,27918,Bayern Munich,Holstein Kiel,4,3,2025-02-01 14:30:00,Jamal Musiala,TakeOn
+614795,14,MissedShots,0.9890000152587891,0.6090000152587891,0.04032554477453232,Kingsley Coman,h,226,OpenPlay,2024,RightFoot,27918,Bayern Munich,Holstein Kiel,4,3,2025-02-01 14:30:00,Michael Olise,Cross
+614802,31,MissedShots,0.7330000305175781,0.6509999847412109,0.024041783064603806,Kingsley Coman,h,226,OpenPlay,2024,RightFoot,27918,Bayern Munich,Holstein Kiel,4,3,2025-02-01 14:30:00,Joshua Kimmich,Pass
+614812,53,BlockedShot,0.87,0.685,0.07223589718341827,Kingsley Coman,h,226,OpenPlay,2024,RightFoot,27918,Bayern Munich,Holstein Kiel,4,3,2025-02-01 14:30:00,Serge Gnabry,Pass
+615872,10,MissedShots,0.7930000305175782,0.6759999847412109,0.02548092231154442,Kingsley Coman,h,226,OpenPlay,2024,RightFoot,27922,Bayern Munich,Werder Bremen,3,0,2025-02-07 19:30:00,Joshua Kimmich,Pass
+615877,27,MissedShots,0.889000015258789,0.715,0.04375998303294182,Kingsley Coman,h,226,OpenPlay,2024,RightFoot,27922,Bayern Munich,Werder Bremen,3,0,2025-02-07 19:30:00,,None
+619716,74,SavedShot,0.98,0.654000015258789,0.073046013712883,Kingsley Coman,a,226,OpenPlay,2024,RightFoot,27949,VfB Stuttgart,Bayern Munich,1,3,2025-02-28 19:30:00,Michael Olise,TakeOn
+619723,89,Goal,0.7909999847412109,0.15,0.2138759046792984,Kingsley Coman,a,226,OpenPlay,2024,RightFoot,27949,VfB Stuttgart,Bayern Munich,1,3,2025-02-28 19:30:00,,BallRecovery
+628472,35,Goal,0.975,0.34,0.11638767272233963,Kingsley Coman,a,226,OpenPlay,2024,RightFoot,28005,FC Heidenheim,Bayern Munich,0,4,2025-04-19 13:30:00,,TakeOn
+631399,70,BlockedShot,0.8080000305175781,0.625999984741211,0.03679554536938667,Kingsley Coman,a,226,OpenPlay,2024,RightFoot,28021,RasenBallsport Leipzig,Bayern Munich,3,3,2025-05-03 13:30:00,Konrad Laimer,Pass
+631401,79,SavedShot,0.860999984741211,0.6480000305175782,0.08687864243984222,Kingsley Coman,a,226,OpenPlay,2024,LeftFoot,28021,RasenBallsport Leipzig,Bayern Munich,3,3,2025-05-03 13:30:00,Serge Gnabry,Pass
+632979,26,MissedShots,0.8040000152587891,0.6170000076293946,0.0375664159655571,Kingsley Coman,h,226,OpenPlay,2024,RightFoot,28032,Bayern Munich,Borussia M.Gladbach,2,0,2025-05-10 16:30:00,Michael Olise,Pass
+632988,42,MissedShots,0.9319999694824219,0.5359999847412109,0.12247054278850555,Kingsley Coman,h,226,OpenPlay,2024,Head,28032,Bayern Munich,Borussia M.Gladbach,2,0,2025-05-10 16:30:00,Leon Goretzka,Chipped
+632996,56,BlockedShot,0.8430000305175781,0.5529999923706055,0.09128832072019577,Kingsley Coman,h,226,OpenPlay,2024,RightFoot,28032,Bayern Munich,Borussia M.Gladbach,2,0,2025-05-10 16:30:00,Konrad Laimer,Pass

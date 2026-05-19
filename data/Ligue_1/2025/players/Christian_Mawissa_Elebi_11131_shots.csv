@@ -1,0 +1,8 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+561654,10,Goal,0.9630000305175781,0.48200000762939454,0.49056386947631836,Christian Mawissa Elebi,a,11131,FromCorner,2023,Head,23547,Reims,Toulouse,2,3,2024-02-04 14:00:00,,None
+562977,38,BlockedShot,0.805,0.4779999923706055,0.03417649120092392,Christian Mawissa Elebi,h,11131,FromCorner,2023,RightFoot,23552,Toulouse,Nantes,1,2,2024-02-11 14:00:00,,None
+564410,59,ShotOnPost,0.7330000305175781,0.649000015258789,0.0170200914144516,Christian Mawissa Elebi,a,11131,OpenPlay,2023,RightFoot,23562,Monaco,Toulouse,1,2,2024-02-18 14:00:00,Vincent Sierro,Pass
+565719,48,Goal,0.9330000305175781,0.5359999847412109,0.11352743953466415,Christian Mawissa Elebi,h,11131,FromCorner,2023,LeftFoot,23576,Toulouse,Lille,3,1,2024-02-25 14:00:00,Frank Magri,None
+580676,83,MissedShots,0.9480000305175781,0.55,0.08253229409456253,Christian Mawissa Elebi,a,11131,SetPiece,2023,Head,23659,Paris Saint Germain,Toulouse,1,3,2024-05-12 19:00:00,Vincent Sierro,Aerial
+615193,19,SavedShot,0.9059999847412109,0.6719999694824219,0.2273707389831543,Christian Mawissa Elebi,h,11131,OpenPlay,2024,LeftFoot,28227,Monaco,Auxerre,4,2,2025-02-01 18:00:00,Mika Biereth,Pass
+675833,97,SavedShot,0.9530000305175781,0.6519999694824219,0.29555004835128784,Christian Mawissa Elebi,a,11131,OpenPlay,2025,LeftFoot,29774,Lyon,Monaco,1,2,2026-03-22 14:00:00,Anssumane Fati,Pass

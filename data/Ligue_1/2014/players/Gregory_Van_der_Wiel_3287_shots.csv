@@ -1,0 +1,19 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+1080,47,MissedShots,0.795,0.32799999237060545,0.025427699089050293,Gregory Van der Wiel,h,3287,OpenPlay,2014,LeftFoot,6224,Paris Saint Germain,Saint-Etienne,5,0,2014-08-31 20:00:00,,None
+4683,62,OwnGoal,0.07599999904632568,0.45599998474121095,0,Gregory Van der Wiel,h,3287,SetPiece,2014,Head,6016,Paris Saint Germain,Evian Thonon Gaillard,4,2,2015-01-18 13:00:00,,Card
+5088,80,BlockedShot,0.725999984741211,0.4179999923706055,0.014311599545180798,Gregory Van der Wiel,a,3287,FromCorner,2014,RightFoot,5928,Monaco,Paris Saint Germain,0,0,2015-03-01 20:00:00,,None
+7748,19,MissedShots,0.884000015258789,0.3290000152587891,0.06326969712972641,Gregory Van der Wiel,h,3287,OpenPlay,2014,RightFoot,5931,Paris Saint Germain,Lens,4,1,2015-03-07 16:00:00,Ezequiel Lavezzi,Pass
+7771,88,ShotOnPost,0.8640000152587891,0.415,0.1185080036520958,Gregory Van der Wiel,h,3287,OpenPlay,2014,RightFoot,5931,Paris Saint Germain,Lens,4,1,2015-03-07 16:00:00,Ezequiel Lavezzi,Pass
+8414,82,BlockedShot,0.8690000152587891,0.40799999237060547,0.08929920196533203,Gregory Van der Wiel,h,3287,OpenPlay,2014,LeftFoot,5950,Paris Saint Germain,Lorient,3,1,2015-03-20 19:30:00,,None
+8348,76,Goal,0.884000015258789,0.29,0.049117401242256165,Gregory Van der Wiel,h,3287,OpenPlay,2014,RightFoot,5925,Paris Saint Germain,Metz,3,1,2015-04-28 20:00:00,Javier Pastore,Pass
+7380,36,MissedShots,0.840999984741211,0.19899999618530273,0.025228099897503853,Gregory Van der Wiel,h,3287,OpenPlay,2014,RightFoot,5878,Paris Saint Germain,Reims,3,2,2015-05-23 20:00:00,Thiago Motta,Chipped
+7381,37,BlockedShot,0.860999984741211,0.3529999923706055,0.07530000060796738,Gregory Van der Wiel,h,3287,OpenPlay,2014,LeftFoot,5878,Paris Saint Germain,Reims,3,2,2015-05-23 20:00:00,Javier Pastore,Pass
+64546,8,MissedShots,0.7340000152587891,0.29700000762939455,0.018835900351405144,Gregory Van der Wiel,h,3287,OpenPlay,2015,RightFoot,1990,Paris Saint Germain,Toulouse,5,0,2015-11-07 20:00:00,Thiago Motta,Pass
+66371,23,SavedShot,0.909000015258789,0.355,0.12087400257587433,Gregory Van der Wiel,h,3287,OpenPlay,2015,RightFoot,2080,Paris Saint Germain,Angers,5,1,2016-01-23 20:00:00,Ángel Di María,Throughball
+66380,53,Goal,0.9490000152587891,0.45,0.5729960203170776,Gregory Van der Wiel,h,3287,OpenPlay,2015,RightFoot,2080,Paris Saint Germain,Angers,5,1,2016-01-23 20:00:00,Blaise Matuidi,Cross
+69856,11,Goal,0.895,0.3320000076293945,0.3189859986305237,Gregory Van der Wiel,h,3287,OpenPlay,2015,RightFoot,2130,Paris Saint Germain,Reims,4,1,2016-02-20 20:00:00,Zlatan Ibrahimovic,Throughball
+69872,73,SavedShot,0.7819999694824219,0.33299999237060546,0.040327899158000946,Gregory Van der Wiel,h,3287,OpenPlay,2015,RightFoot,2130,Paris Saint Germain,Reims,4,1,2016-02-20 20:00:00,Zlatan Ibrahimovic,Chipped
+69873,74,MissedShots,0.779000015258789,0.3629999923706055,0.014487899839878082,Gregory Van der Wiel,h,3287,FromCorner,2015,RightFoot,2130,Paris Saint Germain,Reims,4,1,2016-02-20 20:00:00,,Aerial
+67629,7,BlockedShot,0.784000015258789,0.4470000076293945,0.04336779937148094,Gregory Van der Wiel,a,3287,OpenPlay,2015,LeftFoot,2190,Guingamp,Paris Saint Germain,0,2,2016-04-09 19:00:00,Lucas Moura,TakeOn
+68116,78,SavedShot,0.905,0.32,0.08337490260601044,Gregory Van der Wiel,h,3287,OpenPlay,2015,RightFoot,2200,Paris Saint Germain,Caen,6,0,2016-04-16 19:00:00,Zlatan Ibrahimovic,Pass
+184976,14,BlockedShot,0.759000015258789,0.33299999237060546,0.015042999759316444,Gregory Van der Wiel,h,3287,FromCorner,2017,RightFoot,7669,Cagliari,Fiorentina,0,1,2017-12-22 19:45:00,,None

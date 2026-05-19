@@ -1,0 +1,11 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+44885,13,SavedShot,0.884000015258789,0.5690000152587891,0.01576779969036579,Daniele Bonera,a,2297,FromCorner,2014,Head,5005,Genoa,AC Milan,1,0,2014-12-07 14:00:00,,Aerial
+44894,36,BlockedShot,0.7609999847412109,0.5129999923706055,0.01891399919986725,Daniele Bonera,a,2297,FromCorner,2014,LeftFoot,5005,Genoa,AC Milan,1,0,2014-12-07 14:00:00,,None
+47569,15,BlockedShot,0.865,0.5120000076293946,0.07968670129776001,Daniele Bonera,a,2297,SetPiece,2014,RightFoot,4956,Chievo,AC Milan,0,0,2015-02-28 19:45:00,Andrea Poli,BallTouch
+47570,15,SavedShot,0.8830000305175781,0.5279999923706055,0.10353100299835205,Daniele Bonera,a,2297,SetPiece,2014,RightFoot,4956,Chievo,AC Milan,0,0,2015-02-28 19:45:00,,Rebound
+89879,31,MissedShots,0.87,0.45599998474121095,0.06477829813957214,Daniele Bonera,a,2297,FromCorner,2015,LeftFoot,1648,Atletico Madrid,Villarreal,0,0,2016-02-21 23:30:00,Bruno,Pass
+90950,88,BlockedShot,0.8680000305175781,0.615999984741211,0.014653599821031094,Daniele Bonera,h,2297,FromCorner,2015,Head,1670,Villarreal,Las Palmas,0,1,2016-03-05 21:15:00,Denis Suárez,Cross
+90422,59,SavedShot,0.94,0.47,0.08005999773740768,Daniele Bonera,a,2297,FromCorner,2015,Head,1685,Sevilla,Villarreal,4,2,2016-03-13 19:00:00,,None
+195206,12,MissedShots,0.5679999923706055,0.4759999847412109,0.008520799688994884,Daniele Bonera,a,2297,OpenPlay,2017,RightFoot,8091,Real Betis,Villarreal,2,1,2018-02-03 15:15:00,Rodri,Pass
+202202,90,MissedShots,0.905,0.625999984741211,0.06689819693565369,Daniele Bonera,h,2297,SetPiece,2017,LeftFoot,8165,Villarreal,Atletico Madrid,2,1,2018-03-18 17:30:00,,None
+280936,74,OwnGoal,0.04699999809265137,0.505,0,Daniele Bonera,h,2297,SetPiece,2018,LeftFoot,10169,Villarreal,Espanyol,2,2,2019-02-03 11:00:00,,Save

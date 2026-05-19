@@ -1,0 +1,33 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+128206,73,MissedShots,0.8919999694824219,0.43099998474121093,0.07026070356369019,Antonio-Mirko Colak,a,5282,OpenPlay,2016,LeftFoot,1350,Borussia Dortmund,Darmstadt,6,0,2016-09-17 17:30:00,,None
+128539,18,MissedShots,0.8219999694824218,0.6179999923706054,0.040593601763248444,Antonio-Mirko Colak,h,5282,OpenPlay,2016,RightFoot,1356,Darmstadt,Hoffenheim,1,1,2016-09-20 22:00:00,Leon Guwara,Pass
+128544,31,MissedShots,0.8390000152587891,0.7130000305175781,0.05180149897933006,Antonio-Mirko Colak,h,5282,OpenPlay,2016,LeftFoot,1356,Darmstadt,Hoffenheim,1,1,2016-09-20 22:00:00,László Kleinheisler,Pass
+128553,63,BlockedShot,0.9259999847412109,0.40400001525878904,0.0984496995806694,Antonio-Mirko Colak,h,5282,OpenPlay,2016,RightFoot,1356,Darmstadt,Hoffenheim,1,1,2016-09-20 22:00:00,Marcel Heller,Rebound
+128555,69,MissedShots,0.8630000305175781,0.6680000305175782,0.03426880016922951,Antonio-Mirko Colak,h,5282,FromCorner,2016,RightFoot,1356,Darmstadt,Hoffenheim,1,1,2016-09-20 22:00:00,Jérôme Gondorf,Cross
+128722,10,BlockedShot,0.8690000152587891,0.27899999618530275,0.060083601623773575,Antonio-Mirko Colak,a,5282,OpenPlay,2016,RightFoot,1367,Augsburg,Darmstadt,1,0,2016-09-24 17:30:00,Roman Bezjak,Pass
+128990,18,Goal,0.885,0.5,0.7577769756317139,Antonio-Mirko Colak,h,5282,Penalty,2016,RightFoot,1376,Darmstadt,Werder Bremen,2,2,2016-10-01 17:30:00,,Standard
+129006,72,Goal,0.935,0.3320000076293945,0.05523420125246048,Antonio-Mirko Colak,h,5282,OpenPlay,2016,RightFoot,1376,Darmstadt,Werder Bremen,2,2,2016-10-01 17:30:00,Jérôme Gondorf,Chipped
+129123,38,MissedShots,0.9280000305175782,0.46,0.06473039835691452,Antonio-Mirko Colak,a,5282,SetPiece,2016,Head,1388,Mainz 05,Darmstadt,2,1,2016-10-16 17:30:00,Jérôme Gondorf,Aerial
+129125,44,SavedShot,0.885,0.5,0.7577769756317139,Antonio-Mirko Colak,a,5282,Penalty,2016,RightFoot,1388,Mainz 05,Darmstadt,2,1,2016-10-16 17:30:00,,Standard
+129129,62,SavedShot,0.9359999847412109,0.5459999847412109,0.11942499876022339,Antonio-Mirko Colak,a,5282,FromCorner,2016,RightFoot,1388,Mainz 05,Darmstadt,2,1,2016-10-16 17:30:00,Alexander Milosevic,HeadPass
+129438,75,SavedShot,0.7559999847412109,0.5979999923706054,0.027857400476932526,Antonio-Mirko Colak,h,5282,OpenPlay,2016,RightFoot,1392,Darmstadt,Wolfsburg,3,1,2016-10-22 17:30:00,Immanuel Höhn,Chipped
+130105,70,MissedShots,0.8619999694824219,0.5029999923706054,0.038252100348472595,Antonio-Mirko Colak,h,5282,OpenPlay,2016,RightFoot,3304,Darmstadt,RasenBallsport Leipzig,0,2,2016-10-29 17:30:00,,Aerial
+129559,46,Goal,0.9790000152587891,0.46,0.668520987033844,Antonio-Mirko Colak,a,5282,OpenPlay,2016,RightFoot,2810,Bayer Leverkusen,Darmstadt,3,2,2016-11-05 18:30:00,Marcel Heller,Cross
+130695,48,SavedShot,0.9390000152587891,0.5570000076293945,0.5497320294380188,Antonio-Mirko Colak,h,5282,OpenPlay,2016,RightFoot,2820,Darmstadt,Ingolstadt,0,1,2016-11-19 18:30:00,Marcel Heller,Pass
+130634,18,SavedShot,0.8219999694824218,0.33799999237060546,0.03340639919042587,Antonio-Mirko Colak,h,5282,OpenPlay,2016,RightFoot,3199,Darmstadt,Hamburger SV,0,2,2016-12-04 18:30:00,Sandro Sirigu,Pass
+130636,21,MissedShots,0.865,0.4620000076293945,0.08422920107841492,Antonio-Mirko Colak,h,5282,OpenPlay,2016,LeftFoot,3199,Darmstadt,Hamburger SV,0,2,2016-12-04 18:30:00,Mario Vrancic,Chipped
+130643,47,MissedShots,0.935,0.425,0.11177299916744232,Antonio-Mirko Colak,h,5282,SetPiece,2016,Head,3199,Darmstadt,Hamburger SV,0,2,2016-12-04 18:30:00,Mario Vrancic,Cross
+130644,57,SavedShot,0.909000015258789,0.49700000762939456,0.04443569853901863,Antonio-Mirko Colak,h,5282,OpenPlay,2016,Head,3199,Darmstadt,Hamburger SV,0,2,2016-12-04 18:30:00,Mario Vrancic,Aerial
+131652,83,MissedShots,0.8690000152587891,0.539000015258789,0.035461798310279846,Antonio-Mirko Colak,h,5282,OpenPlay,2016,Head,3217,Darmstadt,Bayern Munich,0,1,2016-12-18 18:30:00,Marcel Heller,Cross
+130824,2,BlockedShot,0.8640000152587891,0.38299999237060545,0.07162299752235413,Antonio-Mirko Colak,h,5282,OpenPlay,2016,RightFoot,3727,Darmstadt,Borussia M.Gladbach,0,0,2017-01-21 17:30:00,Jan Rosenthal,HeadPass
+131389,81,MissedShots,0.9359999847412109,0.39599998474121095,0.04218230023980141,Antonio-Mirko Colak,h,5282,OpenPlay,2016,Head,3736,Darmstadt,FC Cologne,1,6,2017-01-28 17:30:00,Artem Fedetskyy,Aerial
+131776,66,Goal,0.9159999847412109,0.35900001525878905,0.3054890036582947,Antonio-Mirko Colak,h,5282,OpenPlay,2016,RightFoot,3751,Darmstadt,Borussia Dortmund,2,1,2017-02-11 14:30:00,Sidney Sam,Pass
+131778,69,SavedShot,0.845,0.3129999923706055,0.05855439975857735,Antonio-Mirko Colak,h,5282,OpenPlay,2016,RightFoot,3751,Darmstadt,Borussia Dortmund,2,1,2017-02-11 14:30:00,Peter Niemeyer,Chipped
+131801,62,MissedShots,0.7969999694824219,0.7169999694824218,0.02368379943072796,Antonio-Mirko Colak,a,5282,OpenPlay,2016,RightFoot,3760,Hoffenheim,Darmstadt,2,0,2017-02-18 14:30:00,Jérôme Gondorf,Pass
+133183,7,ShotOnPost,0.9569999694824218,0.53,0.5788210034370422,Antonio-Mirko Colak,a,5282,OpenPlay,2016,Head,3779,Werder Bremen,Darmstadt,2,0,2017-03-04 14:30:00,Marcel Heller,Chipped
+133189,22,BlockedShot,0.815,0.27399999618530274,0.0757203996181488,Antonio-Mirko Colak,a,5282,OpenPlay,2016,RightFoot,3779,Werder Bremen,Darmstadt,2,0,2017-03-04 14:30:00,Mario Vrancic,Chipped
+133203,89,MissedShots,0.9869999694824219,0.3840000152587891,0.054594699293375015,Antonio-Mirko Colak,a,5282,OpenPlay,2016,RightFoot,3779,Werder Bremen,Darmstadt,2,0,2017-03-04 14:30:00,Leon Guwara,Chipped
+134750,3,SavedShot,0.7040000152587891,0.5309999847412109,0.018947400152683258,Antonio-Mirko Colak,a,5282,OpenPlay,2016,RightFoot,3829,Ingolstadt,Darmstadt,3,2,2017-04-09 16:30:00,Mario Vrancic,Pass
+134766,46,SavedShot,0.8230000305175781,0.15899999618530272,0.019964199513196945,Antonio-Mirko Colak,a,5282,OpenPlay,2016,RightFoot,3829,Ingolstadt,Darmstadt,3,2,2017-04-09 16:30:00,Felix Platte,HeadPass
+134771,62,BlockedShot,0.7069999694824218,0.62,0.017867499962449074,Antonio-Mirko Colak,a,5282,OpenPlay,2016,RightFoot,3829,Ingolstadt,Darmstadt,3,2,2017-04-09 16:30:00,Hamit Altintop,HeadPass
+127751,61,MissedShots,0.9330000305175781,0.509000015258789,0.08627069741487503,Antonio-Mirko Colak,a,5282,OpenPlay,2016,Head,3876,Borussia M.Gladbach,Darmstadt,2,2,2017-05-20 14:30:00,Marcel Heller,Chipped

@@ -1,0 +1,13 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+528,3,MissedShots,0.8419999694824218,0.705999984741211,0.03268669918179512,Mouhamadou Dabo,h,3437,OpenPlay,2014,RightFoot,6212,Lyon,Lens,0,1,2014-08-24 13:00:00,Alexandre Lacazette,Pass
+5544,55,SavedShot,0.720999984741211,0.59,0.015080099925398827,Mouhamadou Dabo,a,3437,OpenPlay,2014,RightFoot,6052,Evian Thonon Gaillard,Lyon,2,3,2014-12-07 13:00:00,Maxime Gonalons,HeadPass
+4665,66,MissedShots,0.725,0.525,0.01285060029476881,Mouhamadou Dabo,a,3437,SetPiece,2014,RightFoot,6075,Bordeaux,Lyon,0,5,2014-12-21 20:00:00,,Rebound
+2485,32,BlockedShot,0.7230000305175781,0.5659999847412109,0.014913000166416168,Mouhamadou Dabo,a,3437,OpenPlay,2014,RightFoot,5962,Monaco,Lyon,0,0,2015-02-01 20:00:00,Jordan Ferri,Pass
+8448,19,SavedShot,0.8130000305175781,0.7930000305175782,0.01930220052599907,Mouhamadou Dabo,h,3437,OpenPlay,2014,RightFoot,5951,Lyon,Nice,1,2,2015-03-21 15:00:00,Corentin Tolisso,Pass
+8286,29,MissedShots,0.7969999694824219,0.2589999961853027,0.015135900117456913,Mouhamadou Dabo,h,3437,OpenPlay,2014,RightFoot,5904,Lyon,SC Bastia,2,0,2015-04-15 17:30:00,,None
+63591,37,MissedShots,0.7190000152587891,0.674000015258789,0.01337399985641241,Mouhamadou Dabo,a,3437,OpenPlay,2015,RightFoot,1976,Bordeaux,Troyes,1,0,2015-10-25 20:00:00,Jonathan Pereira,Pass
+64081,71,MissedShots,0.6940000152587891,0.754000015258789,0.011684100143611431,Mouhamadou Dabo,h,3437,OpenPlay,2015,RightFoot,2004,Troyes,Lille,1,1,2015-11-21 23:00:00,Jessy Pi,Pass
+65058,2,BlockedShot,0.7280000305175781,0.655,0.016317199915647507,Mouhamadou Dabo,h,3437,OpenPlay,2015,RightFoot,2022,Troyes,Toulouse,0,3,2015-12-02 22:00:00,Stéphane Darbion,Pass
+65081,74,BlockedShot,0.7119999694824218,0.5709999847412109,0.013442600145936012,Mouhamadou Dabo,h,3437,FromCorner,2015,RightFoot,2022,Troyes,Toulouse,0,3,2015-12-02 22:00:00,,None
+65084,89,BlockedShot,0.7730000305175782,0.5459999847412109,0.028161300346255302,Mouhamadou Dabo,h,3437,FromCorner,2015,LeftFoot,2022,Troyes,Toulouse,0,3,2015-12-02 22:00:00,Jimmy Cabot,Cross
+68849,72,SavedShot,0.8069999694824219,0.6990000152587891,0.03278759866952896,Mouhamadou Dabo,h,3437,OpenPlay,2015,RightFoot,2205,Troyes,Reims,2,1,2016-04-16 22:00:00,Jessy Pi,Pass

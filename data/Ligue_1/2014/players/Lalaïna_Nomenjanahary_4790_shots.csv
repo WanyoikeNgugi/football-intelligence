@@ -1,0 +1,24 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+275,82,BlockedShot,0.8169999694824219,0.30200000762939455,0.025636499747633934,Lalaïna Nomenjanahary,h,4790,OpenPlay,2014,LeftFoot,6199,Lens,Guingamp,0,1,2014-08-16 19:00:00,,None
+531,10,Goal,0.9440000152587891,0.45,0.5913040041923523,Lalaïna Nomenjanahary,a,4790,OpenPlay,2014,LeftFoot,6212,Lyon,Lens,0,1,2014-08-24 13:00:00,Yoann Touzghar,Pass
+767,19,SavedShot,0.8590000152587891,0.720999984741211,0.030929500237107277,Lalaïna Nomenjanahary,h,4790,OpenPlay,2014,LeftFoot,6220,Lens,Reims,4,2,2014-08-30 19:00:00,Pierrick Valdivia,Pass
+1992,15,SavedShot,0.7340000152587891,0.4540000152587891,0.020141800865530968,Lalaïna Nomenjanahary,h,4790,OpenPlay,2014,LeftFoot,6182,Lens,Caen,0,0,2014-09-28 16:00:00,Pierrick Valdivia,Pass
+1999,43,BlockedShot,0.9540000152587891,0.645,0.12165799736976624,Lalaïna Nomenjanahary,h,4790,OpenPlay,2014,LeftFoot,6182,Lens,Caen,0,0,2014-09-28 16:00:00,Deme N&#039;Diaye,Throughball
+2008,57,SavedShot,0.865,0.6359999847412109,0.05781190097332001,Lalaïna Nomenjanahary,h,4790,OpenPlay,2014,LeftFoot,6182,Lens,Caen,0,0,2014-09-28 16:00:00,,None
+1566,20,MissedShots,0.8119999694824219,0.43099998474121093,0.024956300854682922,Lalaïna Nomenjanahary,h,4790,OpenPlay,2014,RightFoot,6124,Lens,Paris Saint Germain,1,3,2014-10-17 19:30:00,,Aerial
+1567,23,MissedShots,0.7680000305175781,0.31,0.027288999408483505,Lalaïna Nomenjanahary,h,4790,OpenPlay,2014,RightFoot,6124,Lens,Paris Saint Germain,1,3,2014-10-17 19:30:00,Jerome Le Moigne,Pass
+5637,16,MissedShots,0.86,0.7280000305175781,0.03137759864330292,Lalaïna Nomenjanahary,h,4790,OpenPlay,2014,LeftFoot,6053,Lens,Lille,1,1,2014-12-07 16:00:00,Ludovic Baal,Pass
+4014,9,ShotOnPost,0.7719999694824219,0.575,0.02900639921426773,Lalaïna Nomenjanahary,a,4790,OpenPlay,2014,LeftFoot,6058,Montpellier,Lens,3,3,2014-12-13 19:00:00,Adamo Coulibaly,Pass
+4036,92,MissedShots,0.7030000305175781,0.41,0.01480219978839159,Lalaïna Nomenjanahary,a,4790,OpenPlay,2014,LeftFoot,6058,Montpellier,Lens,3,3,2014-12-13 19:00:00,,TakeOn
+4045,23,MissedShots,0.764000015258789,0.5829999923706055,0.022332599386572838,Lalaïna Nomenjanahary,h,4790,SetPiece,2014,LeftFoot,6010,Lens,Lyon,0,2,2015-01-17 16:00:00,Adamo Coulibaly,Pass
+5715,79,BlockedShot,0.795,0.2989999961853027,0.017326699569821358,Lalaïna Nomenjanahary,a,4790,FromCorner,2014,LeftFoot,6027,Reims,Lens,0,0,2015-01-25 16:00:00,,None
+6078,17,MissedShots,0.7730000305175782,0.6990000152587891,0.011872000060975552,Lalaïna Nomenjanahary,h,4790,OpenPlay,2014,RightFoot,6031,Lens,SC Bastia,1,1,2015-01-31 19:00:00,Wylan Cyprien,Chipped
+6079,19,BlockedShot,0.8030000305175782,0.47200000762939454,0.04188289865851402,Lalaïna Nomenjanahary,h,4790,OpenPlay,2014,LeftFoot,6031,Lens,SC Bastia,1,1,2015-01-31 19:00:00,Adamo Coulibaly,Pass
+6092,77,BlockedShot,0.889000015258789,0.45,0.07118169963359833,Lalaïna Nomenjanahary,h,4790,OpenPlay,2014,RightFoot,6031,Lens,SC Bastia,1,1,2015-01-31 19:00:00,Benjamin Bourigeaud,Cross
+7724,26,SavedShot,0.7619999694824219,0.16100000381469726,0.008211989887058735,Lalaïna Nomenjanahary,h,4790,OpenPlay,2014,LeftFoot,5946,Lens,Toulouse,1,0,2015-03-14 19:00:00,Wylan Cyprien,Chipped
+7732,68,MissedShots,0.7480000305175781,0.29600000381469727,0.019781000912189484,Lalaïna Nomenjanahary,h,4790,OpenPlay,2014,LeftFoot,5946,Lens,Toulouse,1,0,2015-03-14 19:00:00,Rudy Riou,Pass
+7736,77,MissedShots,0.855999984741211,0.34700000762939454,0.06230419874191284,Lalaïna Nomenjanahary,h,4790,OpenPlay,2014,LeftFoot,5946,Lens,Toulouse,1,0,2015-03-14 19:00:00,Jean-Philippe Gbamin,Pass
+8281,90,MissedShots,0.7969999694824219,0.37099998474121093,0.03433389961719513,Lalaïna Nomenjanahary,a,4790,OpenPlay,2014,LeftFoot,5892,Bordeaux,Lens,2,1,2015-04-05 13:00:00,Aristote Madiani,TakeOn
+6251,5,MissedShots,0.9130000305175782,0.41900001525878905,0.07503719627857208,Lalaïna Nomenjanahary,a,4790,OpenPlay,2014,Head,5908,Metz,Lens,3,1,2015-04-18 19:00:00,Pablo Chavarria,Cross
+6273,90,BlockedShot,0.91,0.775,0.027725599706172943,Lalaïna Nomenjanahary,a,4790,OpenPlay,2014,LeftFoot,5908,Metz,Lens,3,1,2015-04-18 19:00:00,Jerome Le Moigne,Pass
+7199,90,SavedShot,0.7040000152587891,0.54,0.01955609954893589,Lalaïna Nomenjanahary,h,4790,OpenPlay,2014,LeftFoot,5877,Lens,Nantes,1,0,2015-05-23 20:00:00,Wylan Cyprien,BallRecovery

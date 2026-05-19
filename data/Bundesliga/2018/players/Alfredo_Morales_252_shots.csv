@@ -1,0 +1,95 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+76620,46,BlockedShot,0.7619999694824219,0.39599998474121095,0.02065489999949932,Alfredo Morales,a,252,OpenPlay,2015,RightFoot,1041,Augsburg,Ingolstadt,0,1,2015-08-29 17:30:00,Moritz Hartmann,Pass
+76622,49,SavedShot,0.9619999694824218,0.34,0.061977699398994446,Alfredo Morales,a,252,OpenPlay,2015,RightFoot,1041,Augsburg,Ingolstadt,0,1,2015-08-29 17:30:00,Pascal Groß,Chipped
+77130,71,MissedShots,0.7809999847412109,0.41200000762939454,0.022431299090385437,Alfredo Morales,a,252,OpenPlay,2015,RightFoot,1061,Werder Bremen,Ingolstadt,0,1,2015-09-19 17:30:00,,Rebound
+77132,73,MissedShots,0.8959999847412109,0.585,0.04530109837651253,Alfredo Morales,a,252,OpenPlay,2015,Head,1061,Werder Bremen,Ingolstadt,0,1,2015-09-19 17:30:00,Pascal Groß,Cross
+77645,26,SavedShot,0.879000015258789,0.46,0.043573398143053055,Alfredo Morales,a,252,OpenPlay,2015,Head,1075,FC Cologne,Ingolstadt,1,1,2015-09-25 22:30:00,Stefan Lex,Cross
+77655,57,SavedShot,0.8880000305175781,0.4570000076293945,0.043418999761343,Alfredo Morales,a,252,OpenPlay,2015,Head,1075,FC Cologne,Ingolstadt,1,1,2015-09-25 22:30:00,Pascal Groß,Chipped
+77667,90,MissedShots,0.8090000152587891,0.7030000305175781,0.0263311006128788,Alfredo Morales,a,252,OpenPlay,2015,RightFoot,1075,FC Cologne,Ingolstadt,1,1,2015-09-25 22:30:00,Moritz Hartmann,Pass
+77895,87,MissedShots,0.875999984741211,0.5690000152587891,0.039445098489522934,Alfredo Morales,h,252,OpenPlay,2015,Head,1089,Ingolstadt,Eintracht Frankfurt,2,0,2015-10-03 17:30:00,Markus Suttner,Cross
+78016,74,MissedShots,0.7809999847412109,0.44799999237060545,0.055512700229883194,Alfredo Morales,a,252,OpenPlay,2015,RightFoot,1101,VfB Stuttgart,Ingolstadt,1,0,2015-10-18 19:30:00,Moritz Hartmann,LayOff
+78346,17,MissedShots,0.86,0.54,0.009840870276093483,Alfredo Morales,h,252,SetPiece,2015,Head,1108,Ingolstadt,Hertha Berlin,0,1,2015-10-24 20:30:00,Pascal Groß,Aerial
+78350,43,MissedShots,0.705,0.6509999847412109,0.010104900225996971,Alfredo Morales,h,252,OpenPlay,2015,RightFoot,1108,Ingolstadt,Hertha Berlin,0,1,2015-10-24 20:30:00,,None
+78719,24,MissedShots,0.7219999694824218,0.6,0.012044000439345837,Alfredo Morales,a,252,OpenPlay,2015,RightFoot,1124,Borussia M.Gladbach,Ingolstadt,0,0,2015-11-07 18:30:00,,None
+78721,29,MissedShots,0.7559999847412109,0.44299999237060544,0.026073699817061424,Alfredo Morales,a,252,OpenPlay,2015,RightFoot,1124,Borussia M.Gladbach,Ingolstadt,0,0,2015-11-07 18:30:00,Lukas Hinterseer,Pass
+78726,46,MissedShots,0.904000015258789,0.3509999847412109,0.014708800241351128,Alfredo Morales,a,252,OpenPlay,2015,Head,1124,Borussia M.Gladbach,Ingolstadt,0,0,2015-11-07 18:30:00,Tobias Levels,Cross
+78734,63,SavedShot,0.8590000152587891,0.5820000076293945,0.09501519799232483,Alfredo Morales,a,252,OpenPlay,2015,RightFoot,1124,Borussia M.Gladbach,Ingolstadt,0,0,2015-11-07 18:30:00,Mathew Leckie,Pass
+78735,63,BlockedShot,0.875,0.625,0.07739020138978958,Alfredo Morales,a,252,OpenPlay,2015,LeftFoot,1124,Borussia M.Gladbach,Ingolstadt,0,0,2015-11-07 18:30:00,Mathew Leckie,Pass
+79093,87,MissedShots,0.899000015258789,0.645,0.10078199952840805,Alfredo Morales,h,252,OpenPlay,2015,RightFoot,1137,Ingolstadt,Darmstadt,3,1,2015-11-22 20:40:00,Robert Bauer,Pass
+79243,64,MissedShots,0.8680000305175781,0.3370000076293945,0.06594739854335785,Alfredo Morales,a,252,OpenPlay,2015,RightFoot,1140,Hannover 96,Ingolstadt,4,0,2015-11-28 18:30:00,Pascal Groß,Pass
+79249,89,SavedShot,0.8469999694824218,0.67,0.04707669839262962,Alfredo Morales,a,252,OpenPlay,2015,RightFoot,1140,Hannover 96,Ingolstadt,4,0,2015-11-28 18:30:00,Marvin Matip,TakeOn
+79591,48,MissedShots,0.735999984741211,0.63,0.01585499942302704,Alfredo Morales,h,252,OpenPlay,2015,RightFoot,1152,Ingolstadt,Hoffenheim,1,1,2015-12-05 18:30:00,,Tackle
+80038,24,MissedShots,0.9769999694824218,0.6780000305175782,0.05008310079574585,Alfredo Morales,h,252,SetPiece,2015,RightFoot,1166,Ingolstadt,Bayer Leverkusen,0,1,2015-12-19 18:30:00,Pascal Groß,Chipped
+80039,25,BlockedShot,0.905,0.34299999237060547,0.05023830011487007,Alfredo Morales,h,252,FromCorner,2015,RightFoot,1166,Ingolstadt,Bayer Leverkusen,0,1,2015-12-19 18:30:00,Pascal Groß,Pass
+80277,9,SavedShot,0.799000015258789,0.6780000305175782,0.035805799067020416,Alfredo Morales,h,252,OpenPlay,2015,RightFoot,1179,Ingolstadt,Mainz 05,1,0,2016-01-23 18:30:00,Moritz Hartmann,LayOff
+80330,41,SavedShot,0.865999984741211,0.68,0.04657059907913208,Alfredo Morales,a,252,OpenPlay,2015,RightFoot,1185,Borussia Dortmund,Ingolstadt,2,0,2016-01-30 18:30:00,Moritz Hartmann,Pass
+80334,47,MissedShots,0.8109999847412109,0.775,0.015878500416874886,Alfredo Morales,a,252,OpenPlay,2015,RightFoot,1185,Borussia Dortmund,Ingolstadt,2,0,2016-01-30 18:30:00,Darío Lezcano,Pass
+80784,81,MissedShots,0.895,0.38,0.032617099583148956,Alfredo Morales,a,252,SetPiece,2015,Head,1204,Wolfsburg,Ingolstadt,2,0,2016-02-13 18:30:00,Pascal Groß,Cross
+83268,9,Goal,0.9469999694824218,0.45599998474121095,0.4860459864139557,Alfredo Morales,h,252,OpenPlay,2015,Head,1296,Ingolstadt,Hannover 96,2,2,2016-04-23 17:30:00,Danny da Costa,Cross
+83269,17,BlockedShot,0.805,0.500999984741211,0.06332550197839737,Alfredo Morales,h,252,OpenPlay,2015,RightFoot,1296,Ingolstadt,Hannover 96,2,2,2016-04-23 17:30:00,,None
+83453,53,BlockedShot,0.855,0.5879999923706055,0.070558100938797,Alfredo Morales,a,252,OpenPlay,2015,RightFoot,1302,Hoffenheim,Ingolstadt,2,1,2016-04-30 17:30:00,Pascal Groß,BallTouch
+83462,72,SavedShot,0.84,0.6140000152587891,0.05396199971437454,Alfredo Morales,a,252,OpenPlay,2015,RightFoot,1302,Hoffenheim,Ingolstadt,2,1,2016-04-30 17:30:00,,None
+127495,38,MissedShots,0.9419999694824219,0.4520000076293945,0.12520700693130493,Alfredo Morales,a,252,FromCorner,2016,Head,1329,Hamburger SV,Ingolstadt,1,1,2016-08-27 17:30:00,Pascal Groß,Cross
+127927,1,SavedShot,0.9119999694824219,0.36700000762939455,0.036809198558330536,Alfredo Morales,h,252,SetPiece,2016,Head,1338,Ingolstadt,Hertha Berlin,0,2,2016-09-10 17:30:00,Pascal Groß,Chipped
+128175,37,MissedShots,0.8069999694824219,0.7380000305175781,0.022924600169062614,Alfredo Morales,a,252,OpenPlay,2016,RightFoot,1349,Bayern Munich,Ingolstadt,3,1,2016-09-17 17:30:00,Darío Lezcano,Pass
+128176,41,MissedShots,0.9269999694824219,0.385,0.035968098789453506,Alfredo Morales,a,252,FromCorner,2016,OtherBodyPart,1349,Bayern Munich,Ingolstadt,3,1,2016-09-17 17:30:00,Pascal Groß,Aerial
+128635,0,SavedShot,0.9030000305175782,0.5109999847412109,0.3279600143432617,Alfredo Morales,a,252,OpenPlay,2016,RightFoot,1364,Borussia M.Gladbach,Ingolstadt,2,0,2016-09-24 17:30:00,Pascal Groß,Chipped
+128643,45,MissedShots,0.909000015258789,0.35200000762939454,0.012641999870538712,Alfredo Morales,a,252,FromCorner,2016,Head,1364,Borussia M.Gladbach,Ingolstadt,2,0,2016-09-24 17:30:00,Pascal Groß,Aerial
+131401,25,Goal,0.9219999694824219,0.4779999923706055,0.2172269970178604,Alfredo Morales,a,252,FromCorner,2016,Head,3218,Bayer Leverkusen,Ingolstadt,1,2,2016-12-18 20:30:00,Markus Suttner,Aerial
+131410,71,BlockedShot,0.7340000152587891,0.48200000762939454,0.018664000555872917,Alfredo Morales,a,252,OpenPlay,2016,RightFoot,3218,Bayer Leverkusen,Ingolstadt,1,2,2016-12-18 20:30:00,Pascal Groß,Pass
+130323,1,MissedShots,0.8690000152587891,0.4809999847412109,0.0796210989356041,Alfredo Morales,h,252,OpenPlay,2016,LeftFoot,3223,Ingolstadt,Freiburg,1,2,2016-12-21 23:00:00,Pascal Groß,Cross
+130520,41,BlockedShot,0.78,0.3609999847412109,0.022500600665807724,Alfredo Morales,a,252,OpenPlay,2016,RightFoot,3723,Schalke 04,Ingolstadt,1,0,2017-01-21 17:30:00,,None
+130522,47,MissedShots,0.8119999694824219,0.3029999923706055,0.02556769922375679,Alfredo Morales,a,252,OpenPlay,2016,RightFoot,3723,Schalke 04,Ingolstadt,1,0,2017-01-21 17:30:00,Almog Cohen,Pass
+131284,38,SavedShot,0.88,0.6630000305175782,0.054276399314403534,Alfredo Morales,h,252,SetPiece,2016,RightFoot,3734,Ingolstadt,Hamburger SV,3,1,2017-01-28 17:30:00,Marvin Matip,HeadPass
+131292,56,SavedShot,0.7269999694824218,0.66,0.015160400420427322,Alfredo Morales,h,252,OpenPlay,2016,RightFoot,3734,Ingolstadt,Hamburger SV,3,1,2017-01-28 17:30:00,,BallRecovery
+131836,24,BlockedShot,0.725,0.27399999618530274,0.011575600132346153,Alfredo Morales,a,252,OpenPlay,2016,RightFoot,3759,Eintracht Frankfurt,Ingolstadt,0,2,2017-02-18 14:30:00,Pascal Groß,Pass
+131856,89,SavedShot,0.715,0.5459999847412109,0.015598299913108349,Alfredo Morales,a,252,OpenPlay,2016,RightFoot,3759,Eintracht Frankfurt,Ingolstadt,0,2,2017-02-18 14:30:00,,None
+133970,7,MissedShots,0.9569999694824218,0.46099998474121096,0.08352229744195938,Alfredo Morales,h,252,FromCorner,2016,Head,3791,Ingolstadt,FC Cologne,2,2,2017-03-11 17:30:00,Markus Suttner,Aerial
+133975,28,MissedShots,0.909000015258789,0.5259999847412109,0.1280049979686737,Alfredo Morales,h,252,FromCorner,2016,LeftFoot,3791,Ingolstadt,FC Cologne,2,2,2017-03-11 17:30:00,Markus Suttner,Rebound
+133988,61,BlockedShot,0.774000015258789,0.42200000762939455,0.028902800753712654,Alfredo Morales,h,252,OpenPlay,2016,RightFoot,3791,Ingolstadt,FC Cologne,2,2,2017-03-11 17:30:00,Markus Suttner,Pass
+133990,65,MissedShots,0.8680000305175781,0.5279999923706055,0.03075389936566353,Alfredo Morales,h,252,FromCorner,2016,Head,3791,Ingolstadt,FC Cologne,2,2,2017-03-11 17:30:00,Sonny Kittel,Cross
+134285,24,MissedShots,0.6809999847412109,0.42700000762939455,0.013132099993526936,Alfredo Morales,a,252,OpenPlay,2016,LeftFoot,3794,Borussia Dortmund,Ingolstadt,1,0,2017-03-17 19:30:00,Almog Cohen,Pass
+134286,26,MissedShots,0.9330000305175781,0.46599998474121096,0.11479499936103821,Alfredo Morales,a,252,OpenPlay,2016,Head,3794,Borussia Dortmund,Ingolstadt,1,0,2017-03-17 19:30:00,Florent Hadergjonaj,Cross
+134290,30,MissedShots,0.9569999694824218,0.25799999237060545,0.031093399971723557,Alfredo Morales,a,252,SetPiece,2016,RightFoot,3794,Borussia Dortmund,Ingolstadt,1,0,2017-03-17 19:30:00,,None
+134302,83,BlockedShot,0.7709999847412109,0.6040000152587891,0.028281500563025475,Alfredo Morales,a,252,OpenPlay,2016,RightFoot,3794,Borussia Dortmund,Ingolstadt,1,0,2017-03-17 19:30:00,Pascal Groß,Pass
+132804,53,MissedShots,0.9019999694824219,0.6020000076293945,0.012936700135469437,Alfredo Morales,a,252,FromCorner,2016,Head,3836,Wolfsburg,Ingolstadt,3,0,2017-04-15 14:30:00,Pascal Groß,Aerial
+133554,82,MissedShots,0.8640000152587891,0.37,0.07613550126552582,Alfredo Morales,a,252,OpenPlay,2016,RightFoot,3873,Freiburg,Ingolstadt,1,1,2017-05-13 14:30:00,Mathew Leckie,Pass
+222265,18,BlockedShot,0.7369999694824219,0.4809999847412109,0.015698499977588654,Alfredo Morales,a,252,OpenPlay,2018,RightFoot,10353,RasenBallsport Leipzig,Fortuna Duesseldorf,1,1,2018-09-02 13:30:00,Rouwen Hennings,None
+223489,44,Goal,0.895,0.45099998474121095,0.07677099853754044,Alfredo Morales,h,252,OpenPlay,2018,Head,10359,Fortuna Duesseldorf,Hoffenheim,2,1,2018-09-15 13:30:00,Jean Zimmer,Cross
+224661,13,MissedShots,0.725,0.32099998474121094,0.018614599481225014,Alfredo Morales,a,252,OpenPlay,2018,RightFoot,10364,VfB Stuttgart,Fortuna Duesseldorf,0,0,2018-09-21 18:30:00,Benito Raman,Pass
+224675,61,BlockedShot,0.8719999694824219,0.41,0.058061398565769196,Alfredo Morales,a,252,OpenPlay,2018,RightFoot,10364,VfB Stuttgart,Fortuna Duesseldorf,0,0,2018-09-21 18:30:00,Jean Zimmer,Cross
+224685,81,SavedShot,0.8919999694824219,0.35700000762939454,0.08459190279245377,Alfredo Morales,a,252,OpenPlay,2018,RightFoot,10364,VfB Stuttgart,Fortuna Duesseldorf,0,0,2018-09-21 18:30:00,Matthias Zimmermann,Pass
+224688,86,MissedShots,0.8590000152587891,0.4279999923706055,0.02065720036625862,Alfredo Morales,a,252,FromCorner,2018,Head,10364,VfB Stuttgart,Fortuna Duesseldorf,0,0,2018-09-21 18:30:00,Jean Zimmer,Cross
+226424,23,MissedShots,0.9219999694824219,0.4759999847412109,0.05000310018658638,Alfredo Morales,h,252,FromCorner,2018,Head,10377,Fortuna Duesseldorf,Bayer Leverkusen,1,2,2018-09-26 16:30:00,Kevin Stöger,Aerial
+226431,68,MissedShots,0.7780000305175782,0.36900001525878906,0.026231100782752037,Alfredo Morales,h,252,OpenPlay,2018,RightFoot,10377,Fortuna Duesseldorf,Bayer Leverkusen,1,2,2018-09-26 16:30:00,Jean Zimmer,Pass
+226433,75,SavedShot,0.8830000305175781,0.4490000152587891,0.01421239972114563,Alfredo Morales,h,252,FromCorner,2018,Head,10377,Fortuna Duesseldorf,Bayer Leverkusen,1,2,2018-09-26 16:30:00,Niko Gießelmann,Aerial
+227933,41,SavedShot,0.7580000305175781,0.46099998474121096,0.02550490014255047,Alfredo Morales,a,252,OpenPlay,2018,RightFoot,10387,Nuernberg,Fortuna Duesseldorf,3,0,2018-09-29 13:30:00,Marvin Ducksch,Pass
+227935,60,MissedShots,0.8919999694824219,0.48200000762939454,0.028567200526595116,Alfredo Morales,a,252,SetPiece,2018,Head,10387,Nuernberg,Fortuna Duesseldorf,3,0,2018-09-29 13:30:00,Jean Zimmer,Aerial
+255317,58,SavedShot,0.8119999694824219,0.5259999847412109,0.06377050280570984,Alfredo Morales,h,252,OpenPlay,2018,RightFoot,10399,Fortuna Duesseldorf,Schalke 04,0,2,2018-10-06 13:30:00,Jean Zimmer,Pass
+255319,69,SavedShot,0.8540000152587891,0.5209999847412109,0.03868509829044342,Alfredo Morales,h,252,OpenPlay,2018,RightFoot,10399,Fortuna Duesseldorf,Schalke 04,0,2,2018-10-06 13:30:00,Marvin Ducksch,HeadPass
+255416,12,BlockedShot,0.9230000305175782,0.355,0.050951600074768066,Alfredo Morales,a,252,OpenPlay,2018,RightFoot,10403,Eintracht Frankfurt,Fortuna Duesseldorf,7,1,2018-10-19 18:30:00,Matthias Zimmermann,Cross
+256098,28,SavedShot,0.7719999694824219,0.36700000762939455,0.020554300397634506,Alfredo Morales,a,252,OpenPlay,2018,RightFoot,10426,Borussia M.Gladbach,Fortuna Duesseldorf,3,0,2018-11-04 14:30:00,,None
+278358,65,MissedShots,0.9230000305175782,0.5840000152587891,0.06032110005617142,Alfredo Morales,a,252,FromCorner,2018,Head,10493,Augsburg,Fortuna Duesseldorf,1,2,2019-01-19 14:30:00,Takashi Usami,Cross
+280816,1,SavedShot,0.7280000305175781,0.8,0.010217900387942791,Alfredo Morales,a,252,OpenPlay,2018,RightFoot,10515,Hoffenheim,Fortuna Duesseldorf,1,1,2019-02-02 14:30:00,Niko Gießelmann,Pass
+294229,67,MissedShots,0.9119999694824219,0.5990000152587891,0.03647800162434578,Alfredo Morales,h,252,FromCorner,2018,OtherBodyPart,10596,Fortuna Duesseldorf,Bayern Munich,1,4,2019-04-14 14:30:00,Kevin Stöger,Aerial
+295109,49,SavedShot,0.865,0.47200000762939454,0.039452601224184036,Alfredo Morales,a,252,SetPiece,2018,Head,10606,Mainz 05,Fortuna Duesseldorf,3,1,2019-04-20 14:30:00,Markus Suttner,Cross
+310583,47,MissedShots,0.86,0.4329999923706055,0.02221979945898056,Alfredo Morales,a,252,OpenPlay,2019,Head,12404,Werder Bremen,Fortuna Duesseldorf,1,3,2019-08-17 14:30:00,Matthias Zimmermann,Cross
+310597,73,MissedShots,0.8880000305175781,0.7630000305175781,0.02153960056602955,Alfredo Morales,a,252,FromCorner,2019,RightFoot,12404,Werder Bremen,Fortuna Duesseldorf,1,3,2019-08-17 14:30:00,Lewis Baker,None
+310602,80,MissedShots,0.8640000152587891,0.42400001525878905,0.12258700281381607,Alfredo Morales,a,252,OpenPlay,2019,RightFoot,12404,Werder Bremen,Fortuna Duesseldorf,1,3,2019-08-17 14:30:00,Thomas Pledl,Pass
+312401,75,MissedShots,0.73,0.5540000152587891,0.014499600045382977,Alfredo Morales,h,252,OpenPlay,2019,RightFoot,12415,Fortuna Duesseldorf,Bayer Leverkusen,1,3,2019-08-24 14:30:00,Niko Gießelmann,Pass
+312404,81,Goal,0.9259999847412109,0.40299999237060546,0.2370380014181137,Alfredo Morales,h,252,OpenPlay,2019,RightFoot,12415,Fortuna Duesseldorf,Bayer Leverkusen,1,3,2019-08-24 14:30:00,,TakeOn
+312405,84,MissedShots,0.8069999694824219,0.6029999923706054,0.04404649883508682,Alfredo Morales,h,252,OpenPlay,2019,LeftFoot,12415,Fortuna Duesseldorf,Bayer Leverkusen,1,3,2019-08-24 14:30:00,Adam Bodzek,Pass
+332094,40,BlockedShot,0.6980000305175781,0.46099998474121096,0.009754270315170288,Alfredo Morales,h,252,OpenPlay,2019,RightFoot,12505,Fortuna Duesseldorf,Bayern Munich,0,4,2019-11-23 14:30:00,Dawid Kownacki,TakeOn
+332097,47,BlockedShot,0.9009999847412109,0.46099998474121096,0.02097490057349205,Alfredo Morales,h,252,FromCorner,2019,Head,12505,Fortuna Duesseldorf,Bayern Munich,0,4,2019-11-23 14:30:00,Erik Thommy,Aerial
+333583,65,BlockedShot,0.8619999694824219,0.4809999847412109,0.016015900298953056,Alfredo Morales,a,252,OpenPlay,2019,Head,12518,Hoffenheim,Fortuna Duesseldorf,1,1,2019-11-30 14:30:00,Matthias Zimmermann,Aerial
+333594,91,MissedShots,0.9640000152587891,0.3659999847412109,0.019304800778627396,Alfredo Morales,a,252,FromCorner,2019,Head,12518,Hoffenheim,Fortuna Duesseldorf,1,1,2019-11-30 14:30:00,Erik Thommy,Cross
+339310,30,MissedShots,0.7969999694824219,0.580999984741211,0.03724370151758194,Alfredo Morales,h,252,OpenPlay,2019,LeftFoot,12550,Fortuna Duesseldorf,Union Berlin,2,1,2019-12-22 14:30:00,Nana Ampomah,Pass
+339312,33,MissedShots,0.7559999847412109,0.5029999923706054,0.028102099895477295,Alfredo Morales,h,252,OpenPlay,2019,LeftFoot,12550,Fortuna Duesseldorf,Union Berlin,2,1,2019-12-22 14:30:00,,TakeOn
+339337,86,SavedShot,0.8980000305175782,0.549000015258789,0.08711399883031845,Alfredo Morales,h,252,OpenPlay,2019,Head,12550,Fortuna Duesseldorf,Union Berlin,2,1,2019-12-22 14:30:00,Matthias Zimmermann,Cross
+354789,10,MissedShots,0.87,0.4209999847412109,0.024811599403619766,Alfredo Morales,h,252,OpenPlay,2019,Head,12558,Fortuna Duesseldorf,Werder Bremen,0,1,2020-01-18 14:30:00,Oliver Fink,Cross
+354793,15,MissedShots,0.725999984741211,0.3820000076293945,0.014679900370538235,Alfredo Morales,h,252,OpenPlay,2019,RightFoot,12558,Fortuna Duesseldorf,Werder Bremen,0,1,2020-01-18 14:30:00,Dawid Kownacki,Pass
+354797,30,SavedShot,0.805,0.6719999694824219,0.02895360067486763,Alfredo Morales,h,252,OpenPlay,2019,LeftFoot,12558,Fortuna Duesseldorf,Werder Bremen,0,1,2020-01-18 14:30:00,Dawid Kownacki,Pass
+354799,31,BlockedShot,0.8640000152587891,0.46599998474121096,0.013813399709761143,Alfredo Morales,h,252,FromCorner,2019,Head,12558,Fortuna Duesseldorf,Werder Bremen,0,1,2020-01-18 14:30:00,Rouwen Hennings,Aerial
+356646,38,MissedShots,0.779000015258789,0.3629999923706055,0.022023500874638557,Alfredo Morales,h,252,OpenPlay,2019,RightFoot,12577,Fortuna Duesseldorf,Eintracht Frankfurt,1,1,2020-02-01 14:30:00,,None
+363335,72,BlockedShot,0.785,0.5929999923706055,0.022451400756835938,Alfredo Morales,a,252,OpenPlay,2019,LeftFoot,12645,FC Cologne,Fortuna Duesseldorf,2,2,2020-05-24 16:00:00,,Rebound
+363678,3,SavedShot,0.8090000152587891,0.385,0.03687259927392006,Alfredo Morales,a,252,OpenPlay,2019,RightFoot,12655,Bayern Munich,Fortuna Duesseldorf,5,0,2020-05-30 16:30:00,Kenan Karaman,Pass

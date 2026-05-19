@@ -1,0 +1,7 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+173255,70,BlockedShot,0.76,0.534000015258789,0.02429169975221157,Luca Mora,a,6181,OpenPlay,2017,RightFoot,7524,Inter,SPAL 2013,2,0,2017-09-10 11:30:00,,None
+174121,14,BlockedShot,0.879000015258789,0.67,0.05330619961023331,Luca Mora,h,6181,OpenPlay,2017,RightFoot,7558,SPAL 2013,Napoli,2,3,2017-09-23 17:00:00,,None
+174122,15,MissedShots,0.8880000305175781,0.7559999847412109,0.028717100620269775,Luca Mora,h,6181,FromCorner,2017,LeftFoot,7558,SPAL 2013,Napoli,2,3,2017-09-23 17:00:00,Pasquale Schiattarella,Cross
+174886,7,BlockedShot,0.7859999847412109,0.645,0.020337700843811035,Luca Mora,h,6181,OpenPlay,2017,LeftFoot,7586,SPAL 2013,Sassuolo,0,1,2017-10-22 14:00:00,Sauli Vaisanen,Pass
+174893,28,BlockedShot,0.764000015258789,0.6880000305175781,0.01823600009083748,Luca Mora,h,6181,OpenPlay,2017,RightFoot,7586,SPAL 2013,Sassuolo,0,1,2017-10-22 14:00:00,Filippo Costa,Pass
+379220,85,SavedShot,0.9080000305175782,0.6179999923706054,0.09990520030260086,Luca Mora,h,6181,OpenPlay,2020,LeftFoot,14127,Spezia,Sassuolo,1,4,2020-09-27 10:30:00,Diego Farias,Pass

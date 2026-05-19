@@ -1,0 +1,26 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+388296,77,Goal,0.9130000305175782,0.5540000152587891,0.21889500319957733,Hugo Guillamón,a,8334,SetPiece,2020,Head,14865,Alaves,Valencia,2,2,2020-11-22 20:00:00,Carlos Soler,Cross
+398501,35,MissedShots,0.9309999847412109,0.4590000152587891,0.05810080096125603,Hugo Guillamón,a,8334,FromCorner,2020,Head,14956,Real Valladolid,Valencia,0,1,2021-01-10 20:00:00,Lee Kang-In,Aerial
+398508,63,MissedShots,0.8880000305175781,0.485,0.017897099256515503,Hugo Guillamón,a,8334,FromCorner,2020,Head,14956,Real Valladolid,Valencia,0,1,2021-01-10 20:00:00,Carlos Soler,Aerial
+401806,24,MissedShots,0.915,0.4490000152587891,0.0666406974196434,Hugo Guillamón,h,8334,SetPiece,2020,RightFoot,14985,Valencia,Elche,1,0,2021-01-30 17:30:00,,Aerial
+403814,42,OwnGoal,0.05699999809265137,0.5179999923706055,0,Hugo Guillamón,a,8334,OpenPlay,2020,RightFoot,14989,Athletic Club,Valencia,1,1,2021-02-07 15:15:00,,None
+405679,78,MissedShots,0.755,0.519000015258789,0.021181799471378326,Hugo Guillamón,h,8334,OpenPlay,2020,RightFoot,15015,Valencia,Celta Vigo,2,0,2021-02-20 17:30:00,,None
+416015,68,MissedShots,0.955,0.35700000762939454,0.04075609892606735,Hugo Guillamón,a,8334,FromCorner,2020,LeftFoot,15102,Real Betis,Valencia,2,2,2021-04-18 16:30:00,Daniel Wass,Cross
+417381,15,MissedShots,0.879000015258789,0.4520000076293945,0.07738219946622849,Hugo Guillamón,h,8334,FromCorner,2020,RightFoot,15094,Valencia,Alaves,1,1,2021-04-24 16:30:00,,None
+433517,16,BlockedShot,0.765,0.6459999847412109,0.023029599338769913,Hugo Guillamón,h,8334,OpenPlay,2021,LeftFoot,17199,Valencia,Athletic Club,1,1,2021-09-25 14:15:00,Daniel Wass,Pass
+433528,61,MissedShots,0.884000015258789,0.6329999923706054,0.04044229909777641,Hugo Guillamón,h,8334,OpenPlay,2021,RightFoot,17199,Valencia,Athletic Club,1,1,2021-09-25 14:15:00,Maxi Gómez,Cross
+439878,42,Goal,0.9419999694824219,0.325,0.29262399673461914,Hugo Guillamón,h,8334,OpenPlay,2021,RightFoot,17247,Valencia,Villarreal,2,0,2021-10-30 16:30:00,Dimitri Foulquier,Pass
+441776,46,MissedShots,0.7469999694824219,0.4159999847412109,0.017120100557804108,Hugo Guillamón,h,8334,OpenPlay,2021,RightFoot,17264,Valencia,Atletico Madrid,3,3,2021-11-07 15:15:00,,None
+452269,11,SavedShot,0.9159999847412109,0.42900001525878906,0.023059099912643433,Hugo Guillamón,a,8334,FromCorner,2021,Head,17331,Real Madrid,Valencia,4,1,2022-01-08 20:00:00,Gonçalo Guedes,Aerial
+454855,30,BlockedShot,0.775,0.6630000305175782,0.030275600031018257,Hugo Guillamón,a,8334,OpenPlay,2021,LeftFoot,17347,Atletico Madrid,Valencia,3,2,2022-01-22 20:00:00,Carlos Soler,Pass
+462750,49,MissedShots,0.9030000305175782,0.534000015258789,0.09769570082426071,Hugo Guillamón,a,8334,SetPiece,2021,Head,17410,Getafe,Valencia,0,0,2022-03-12 20:00:00,Carlos Soler,Cross
+486874,33,BlockedShot,0.86,0.6519999694824219,0.08537120372056961,Hugo Guillamón,h,8334,OpenPlay,2022,LeftFoot,18998,Valencia,Getafe,5,1,2022-09-04 19:00:00,Toni Lato,Pass
+490601,80,SavedShot,0.8009999847412109,0.47200000762939454,0.04892979934811592,Hugo Guillamón,a,8334,OpenPlay,2022,RightFoot,19024,Espanyol,Valencia,2,2,2022-10-02 12:00:00,Justin Kluivert,Pass
+498746,9,OwnGoal,0.10800000190734864,0.415,0,Hugo Guillamón,a,8334,OpenPlay,2022,RightFoot,19085,Real Sociedad,Valencia,1,1,2022-11-06 15:15:00,,BallTouch
+499663,80,Goal,0.885,0.5,0.7432780265808105,Hugo Guillamón,h,8334,Penalty,2022,RightFoot,19098,Valencia,Real Betis,3,0,2022-11-10 19:00:00,,Standard
+515310,54,BlockedShot,0.8590000152587891,0.590999984741211,0.07830440253019333,Hugo Guillamón,a,8334,OpenPlay,2022,LeftFoot,19212,Atletico Madrid,Valencia,3,0,2023-03-18 20:00:00,Justin Kluivert,Pass
+554547,69,Goal,0.8230000305175781,0.5079999923706054,0.05350673198699951,Hugo Guillamón,h,8334,OpenPlay,2023,RightFoot,22850,Valencia,Barcelona,1,1,2023-12-16 20:00:00,Diego López,BallTouch
+557320,14,SavedShot,0.9230000305175782,0.4909999847412109,0.059385042637586594,Hugo Guillamón,h,8334,FromCorner,2023,Head,22866,Valencia,Villarreal,3,1,2024-01-02 20:30:00,Sergi Canos,Aerial
+559097,42,MissedShots,0.7769999694824219,0.534000015258789,0.03042248822748661,Hugo Guillamón,h,8334,OpenPlay,2023,RightFoot,22889,Valencia,Athletic Club,1,0,2024-01-20 17:30:00,Hugo Duro,Pass
+594323,3,BlockedShot,0.755,0.4640000152587891,0.025056617334485054,Hugo Guillamón,a,8334,OpenPlay,2024,LeftFoot,27055,Real Sociedad,Valencia,3,0,2024-09-28 16:30:00,Luis Rioja,BallTouch
+608061,93,SavedShot,0.815,0.39299999237060546,0.031753938645124435,Hugo Guillamón,a,8334,OpenPlay,2024,RightFoot,27102,Espanyol,Valencia,1,1,2024-12-18 20:30:00,,TakeOn

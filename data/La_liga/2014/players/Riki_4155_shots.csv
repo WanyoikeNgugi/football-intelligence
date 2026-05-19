@@ -1,0 +1,8 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+35732,90,BlockedShot,0.740999984741211,0.39,0.014079499989748001,Riki,h,4155,OpenPlay,2014,LeftFoot,5713,Granada,Getafe,1,1,2014-12-21 16:00:00,,None
+37734,85,MissedShots,0.764000015258789,0.6609999847412109,0.013028900139033794,Riki,a,4155,OpenPlay,2014,LeftFoot,5651,Cordoba,Granada,2,0,2015-01-05 19:45:00,,None
+37735,86,BlockedShot,0.75,0.545,0.02065430022776127,Riki,a,4155,OpenPlay,2014,LeftFoot,5651,Cordoba,Granada,2,0,2015-01-05 19:45:00,Daniel Larsson,Pass
+39586,76,MissedShots,0.924000015258789,0.40400001525878904,0.053767699748277664,Riki,h,4155,FromCorner,2014,Head,5575,Granada,Malaga,1,0,2015-03-07 21:00:00,Javi Márquez,Cross
+39206,68,MissedShots,0.889000015258789,0.5120000076293946,0.06120559945702553,Riki,a,4155,FromCorner,2014,Head,5528,Almeria,Granada,3,0,2015-04-11 21:00:00,Nyom,Cross
+39208,75,BlockedShot,0.8919999694824219,0.6090000152587891,0.08909720182418823,Riki,a,4155,OpenPlay,2014,LeftFoot,5528,Almeria,Granada,3,0,2015-04-11 21:00:00,Emanuel Insúa,Pass
+39218,91,BlockedShot,0.895,0.365,0.0742672011256218,Riki,a,4155,FromCorner,2014,LeftFoot,5528,Almeria,Granada,3,0,2015-04-11 21:00:00,,Rebound

@@ -1,0 +1,8 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+41436,90,SavedShot,0.9459999847412109,0.6869999694824219,0.04896270111203194,Alessandro Lucarelli,a,3838,OpenPlay,2014,LeftFoot,5154,Cesena,Parma,1,0,2014-08-31 19:45:00,,None
+41901,72,Goal,0.91,0.44099998474121094,0.060177598148584366,Alessandro Lucarelli,h,3838,FromCorner,2014,Head,5117,Parma,AC Milan,4,5,2014-09-14 19:45:00,Raffaele Palladino,Cross
+42409,20,BlockedShot,0.7280000305175781,0.5109999847412109,0.014146399684250355,Alessandro Lucarelli,h,3838,OpenPlay,2014,LeftFoot,5136,Parma,Roma,1,2,2014-09-24 19:45:00,,TakeOn
+46285,1,MissedShots,0.7380000305175781,0.7019999694824218,0.015307599678635597,Alessandro Lucarelli,a,3838,OpenPlay,2014,LeftFoot,4973,Verona,Parma,3,1,2015-01-11 14:00:00,Francesco Lodi,Pass
+50476,44,MissedShots,0.925,0.6680000305175782,0.01137709990143776,Alessandro Lucarelli,a,3838,FromCorner,2014,Head,4807,Fiorentina,Parma,3,0,2015-05-18 18:00:00,Cristóbal Jorquera,Cross
+51043,32,BlockedShot,0.885,0.4620000076293945,0.035292498767375946,Alessandro Lucarelli,h,3838,FromCorner,2014,Head,4812,Parma,Verona,2,2,2015-05-24 14:00:00,Cristóbal Jorquera,Cross
+51060,92,SavedShot,0.88,0.34,0.1154090017080307,Alessandro Lucarelli,h,3838,OpenPlay,2014,LeftFoot,4812,Parma,Verona,2,2,2015-05-24 14:00:00,Mirko Esposito,TakeOn

@@ -1,0 +1,36 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+33570,55,MissedShots,0.91,0.6179999923706054,0.01303279958665371,Mateo Musacchio,h,2495,FromCorner,2014,Head,5802,Villarreal,Rayo Vallecano,4,2,2014-09-21 16:00:00,Javier Espinosa,Aerial
+33573,62,Goal,0.885,0.5359999847412109,0.045456599444150925,Mateo Musacchio,h,2495,FromCorner,2014,Head,5802,Villarreal,Rayo Vallecano,4,2,2014-09-21 16:00:00,Manu Trigueros,Cross
+41063,29,Goal,0.9640000152587891,0.5629999923706055,0.47407299280166626,Mateo Musacchio,h,2495,SetPiece,2014,OtherBodyPart,5610,Villarreal,Granada,2,0,2015-02-07 17:00:00,Gerard Moreno,Cross
+40010,9,SavedShot,0.9159999847412109,0.41,0.1080470010638237,Mateo Musacchio,h,2495,OpenPlay,2014,RightFoot,5578,Villarreal,Celta Vigo,4,1,2015-03-08 18:00:00,Joel Campbell,Pass
+40019,45,Goal,0.93,0.48700000762939455,0.12407899647951126,Mateo Musacchio,h,2495,FromCorner,2014,Head,5578,Villarreal,Celta Vigo,4,1,2015-03-08 18:00:00,Moi Gómez,Cross
+89019,87,Goal,0.975,0.475,0.5759199857711792,Mateo Musacchio,a,2495,FromCorner,2015,Head,1600,Espanyol,Villarreal,2,2,2016-01-23 21:15:00,Denis Suárez,Cross
+89587,21,MissedShots,0.904000015258789,0.385,0.025720300152897835,Mateo Musacchio,h,2495,FromCorner,2015,Head,1630,Villarreal,Malaga,1,0,2016-02-13 21:15:00,Jonathan dos Santos,Cross
+135181,24,BlockedShot,0.8969999694824219,0.534000015258789,0.08959279954433441,Mateo Musacchio,a,2495,FromCorner,2016,RightFoot,1782,Granada,Villarreal,1,1,2016-08-20 22:15:00,,None
+135490,41,BlockedShot,0.9319999694824219,0.47,0.06360200047492981,Mateo Musacchio,h,2495,FromCorner,2016,Head,1798,Villarreal,Sevilla,0,0,2016-08-29 00:15:00,Samu Castillejo,Aerial
+137644,14,MissedShots,0.9669999694824218,0.5629999923706055,0.08360090106725693,Mateo Musacchio,h,2495,FromCorner,2016,Head,2784,Villarreal,Real Betis,2,0,2016-11-06 21:30:00,,None
+138376,38,MissedShots,0.9430000305175781,0.46299999237060546,0.4715220034122467,Mateo Musacchio,h,2495,FromCorner,2016,RightFoot,2801,Villarreal,Alaves,0,2,2016-11-27 15:00:00,Mario,HeadPass
+139510,75,MissedShots,0.950999984741211,0.5179999923706055,0.12732400000095367,Mateo Musacchio,a,2495,FromCorner,2016,RightFoot,3951,Real Sociedad,Villarreal,0,1,2017-02-19 11:00:00,Rodri,HeadPass
+140526,44,MissedShots,0.904000015258789,0.49599998474121093,0.07893720269203186,Mateo Musacchio,a,2495,SetPiece,2016,Head,3992,Celta Vigo,Villarreal,0,1,2017-03-12 17:30:00,Jonathan dos Santos,Chipped
+141696,41,MissedShots,0.909000015258789,0.555,0.02712230011820793,Mateo Musacchio,a,2495,FromCorner,2016,Head,4041,Alaves,Villarreal,2,1,2017-04-17 19:45:00,Mario,Aerial
+143147,13,MissedShots,0.8719999694824219,0.565,0.07296419888734818,Mateo Musacchio,a,2495,SetPiece,2016,RightFoot,4060,Atletico Madrid,Villarreal,0,1,2017-04-25 20:30:00,Samu Castillejo,Chipped
+175039,10,MissedShots,0.895,0.445,0.09354119747877121,Mateo Musacchio,a,2495,OpenPlay,2017,RightFoot,7592,Chievo,AC Milan,1,4,2017-10-25 19:45:00,Hakan Calhanoglu,Chipped
+207811,13,MissedShots,0.899000015258789,0.5820000076293945,0.013729900121688843,Mateo Musacchio,h,2495,FromCorner,2017,Head,7808,AC Milan,Sassuolo,1,1,2018-04-08 18:45:00,Hakan Calhanoglu,Aerial
+207820,43,MissedShots,0.9,0.555,0.04163900017738342,Mateo Musacchio,h,2495,FromCorner,2017,Head,7808,AC Milan,Sassuolo,1,1,2018-04-08 18:45:00,Hakan Calhanoglu,Chipped
+220474,17,MissedShots,0.960999984741211,0.5359999847412109,0.14564700424671173,Mateo Musacchio,a,2495,SetPiece,2018,RightFoot,9588,Napoli,AC Milan,3,2,2018-08-25 21:30:00,Giacomo Bonaventura,Pass
+227544,87,BlockedShot,0.8930000305175781,0.475,0.07987499982118607,Mateo Musacchio,a,2495,FromCorner,2018,RightFoot,9629,Empoli,AC Milan,1,1,2018-09-27 19:00:00,,BallTouch
+252262,80,BlockedShot,0.96,0.4640000152587891,0.0851496011018753,Mateo Musacchio,h,2495,FromCorner,2018,Head,9652,AC Milan,Chievo,3,1,2018-10-07 13:00:00,Suso,Aerial
+252514,40,BlockedShot,0.915,0.5259999847412109,0.11553099751472473,Mateo Musacchio,a,2495,OpenPlay,2018,Head,9666,Inter,AC Milan,1,0,2018-10-21 18:30:00,Hakan Calhanoglu,Aerial
+252852,64,MissedShots,0.925,0.5070000076293946,0.11129499971866608,Mateo Musacchio,h,2495,FromCorner,2018,Head,9581,AC Milan,Genoa,2,1,2018-10-31 18:30:00,Hakan Calhanoglu,Cross
+252864,85,SavedShot,0.865,0.4879999923706055,0.07250089943408966,Mateo Musacchio,h,2495,SetPiece,2018,RightFoot,9581,AC Milan,Genoa,2,1,2018-10-31 18:30:00,,None
+254933,86,MissedShots,0.8959999847412109,0.4929999923706055,0.0194620992988348,Mateo Musacchio,a,2495,FromCorner,2018,Head,9751,Frosinone,AC Milan,0,0,2018-12-26 11:30:00,Hakan Calhanoglu,Aerial
+276737,77,SavedShot,0.9490000152587891,0.5279999923706055,0.5873370170593262,Mateo Musacchio,h,2495,FromCorner,2018,LeftFoot,9777,AC Milan,Napoli,0,0,2019-01-26 19:30:00,Krzysztof Piatek,Rebound
+287047,70,Goal,0.97,0.435,0.5573830008506775,Mateo Musacchio,h,2495,FromCorner,2018,RightFoot,9856,AC Milan,Inter,2,3,2019-03-17 19:30:00,,Rebound
+287796,45,BlockedShot,0.875,0.5720000076293945,0.07077399641275406,Mateo Musacchio,a,2495,FromCorner,2018,RightFoot,9864,Sampdoria,AC Milan,1,0,2019-03-30 19:30:00,,None
+300336,12,MissedShots,0.9690000152587891,0.5829999923706055,0.2561120092868805,Mateo Musacchio,h,2495,FromCorner,2018,Head,9924,AC Milan,Bologna,2,1,2019-05-06 19:30:00,Suso,Cross
+304105,50,MissedShots,0.9290000152587891,0.5540000152587891,0.04148159921169281,Mateo Musacchio,a,2495,FromCorner,2018,Head,9955,SPAL 2013,AC Milan,2,3,2019-05-26 18:30:00,Hakan Calhanoglu,Aerial
+323566,23,MissedShots,0.895,0.46299999237060546,0.039686501026153564,Mateo Musacchio,h,2495,OpenPlay,2019,OtherBodyPart,13143,AC Milan,Fiorentina,1,3,2019-09-29 18:45:00,Theo Hernández,Aerial
+334250,77,MissedShots,0.8980000305175782,0.33599998474121096,0.0547683984041214,Mateo Musacchio,a,2495,SetPiece,2019,RightFoot,13228,Parma Calcio 1913,AC Milan,0,1,2019-12-01 14:00:00,,None
+339134,17,MissedShots,0.884000015258789,0.5570000076293945,0.01542779989540577,Mateo Musacchio,a,2495,SetPiece,2019,Head,13249,Atalanta,AC Milan,5,0,2019-12-22 11:30:00,Suso,Aerial
+354059,65,BlockedShot,0.9519999694824218,0.4779999923706055,0.11141300201416016,Mateo Musacchio,h,2495,SetPiece,2019,Head,13265,AC Milan,Sampdoria,0,0,2020-01-06 14:00:00,Suso,Aerial
+357186,44,BlockedShot,0.9009999847412109,0.395,0.07318670302629471,Mateo Musacchio,h,2495,OpenPlay,2019,RightFoot,13305,AC Milan,Verona,1,1,2020-02-02 14:00:00,Samu Castillejo,Chipped

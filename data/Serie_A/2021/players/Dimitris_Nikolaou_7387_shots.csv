@@ -1,0 +1,15 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+427998,80,BlockedShot,0.72,0.6730000305175782,0.013141999952495098,Dimitris Nikolaou,a,7387,OpenPlay,2021,LeftFoot,16764,Cagliari,Spezia,2,2,2021-08-23 16:30:00,Giulio Maggiore,Pass
+437401,48,BlockedShot,0.7619999694824219,0.395,0.01397939957678318,Dimitris Nikolaou,a,7387,FromCorner,2021,LeftFoot,16843,Sampdoria,Spezia,2,1,2021-10-22 18:45:00,,Aerial
+449725,70,OwnGoal,0.04199999809265137,0.5829999923706055,0,Dimitris Nikolaou,h,7387,OpenPlay,2021,LeftFoot,16934,Spezia,Empoli,1,1,2021-12-19 14:00:00,,BallTouch
+464999,5,MissedShots,0.9290000152587891,0.5929999923706055,0.09609519690275192,Dimitris Nikolaou,h,7387,FromCorner,2021,LeftFoot,17064,Spezia,Venezia,1,0,2022-04-02 13:00:00,Martin Erlic,HeadPass
+492201,52,MissedShots,0.9740000152587891,0.669000015258789,0.009050250053405762,Dimitris Nikolaou,a,7387,FromCorner,2022,Head,18666,Monza,Spezia,2,0,2022-10-09 13:00:00,Simone Bastoni,Cross
+493593,10,BlockedShot,0.7069999694824218,0.5259999847412109,0.012442300096154213,Dimitris Nikolaou,h,7387,OpenPlay,2022,LeftFoot,18680,Spezia,Cremonese,2,2,2022-10-16 13:00:00,,BallRecovery
+493622,83,BlockedShot,0.899000015258789,0.6270000076293946,0.0820441022515297,Dimitris Nikolaou,h,7387,OpenPlay,2022,LeftFoot,18680,Spezia,Cremonese,2,2,2022-10-16 13:00:00,Emmanuel Gyasi,Pass
+494811,2,MissedShots,0.7040000152587891,0.6120000076293945,0.013622100464999676,Dimitris Nikolaou,a,7387,OpenPlay,2022,LeftFoot,18689,Salernitana,Spezia,1,0,2022-10-22 13:00:00,Mehdi Bourabia,Pass
+497239,38,MissedShots,0.6769999694824219,0.519000015258789,0.012065599672496319,Dimitris Nikolaou,h,7387,OpenPlay,2022,LeftFoot,18700,Spezia,Fiorentina,1,2,2022-10-30 14:00:00,Ethan Ampadu,Pass
+508205,35,MissedShots,0.8109999847412109,0.5270000076293946,0.03987859934568405,Dimitris Nikolaou,a,7387,FromCorner,2022,LeftFoot,18794,Empoli,Spezia,2,2,2023-02-11 14:00:00,Salvatore Esposito,Pass
+510401,81,SavedShot,0.91,0.495,0.0827179029583931,Dimitris Nikolaou,h,7387,FromCorner,2022,Head,18810,Spezia,Juventus,0,2,2023-02-19 17:00:00,Daniel Maldini,Cross
+524847,24,MissedShots,0.7609999847412109,0.7519999694824219,0.01084454357624054,Dimitris Nikolaou,a,7387,OpenPlay,2022,LeftFoot,18913,Cremonese,Spezia,2,0,2023-05-06 18:45:00,,None
+528843,56,SavedShot,0.8440000152587891,0.5970000076293945,0.07002546638250351,Dimitris Nikolaou,h,7387,OpenPlay,2022,LeftFoot,18951,Spezia,Torino,0,4,2023-05-27 13:00:00,Emmanuel Gyasi,Pass
+531268,5,Goal,0.9580000305175781,0.5690000152587891,0.4013791084289551,Dimitris Nikolaou,a,7387,SetPiece,2022,Head,18958,Roma,Spezia,2,1,2023-06-04 19:00:00,Mehdi Bourabia,Rebound

@@ -1,0 +1,9 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+38783,1,OwnGoal,0.030999999046325683,0.43900001525878907,0,Mikel González,a,2227,FromCorner,2014,Head,5515,Atletico Madrid,Real Sociedad,2,0,2015-04-07 19:00:00,,CornerAwarded
+39303,20,BlockedShot,0.8190000152587891,0.580999984741211,0.038885701447725296,Mikel González,a,2227,FromCorner,2014,LeftFoot,5544,Elche,Real Sociedad,1,0,2015-04-20 19:45:00,,None
+86592,40,MissedShots,0.8080000305175781,0.6990000152587891,0.027895400300621986,Mikel González,a,2227,FromCorner,2015,RightFoot,1484,Levante,Real Sociedad,0,4,2015-10-25 15:00:00,Asier Illarramendi,Cross
+85894,58,MissedShots,0.965,0.610999984741211,0.07122749835252762,Mikel González,h,2227,FromCorner,2015,LeftFoot,1494,Real Sociedad,Celta Vigo,2,3,2015-11-01 01:05:00,Markel Bergara,Pass
+92913,27,BlockedShot,0.8390000152587891,0.509000015258789,0.07281109690666199,Mikel González,h,2227,SetPiece,2015,RightFoot,1750,Real Sociedad,Real Madrid,0,1,2016-04-30 18:00:00,Aritz Elustondo,Pass
+92930,89,MissedShots,0.9,0.44,0.05638379976153374,Mikel González,h,2227,FromCorner,2015,Head,1750,Real Sociedad,Real Madrid,0,1,2016-04-30 18:00:00,Asier Illarramendi,Cross
+92309,16,MissedShots,0.6819999694824219,0.38299999237060545,0.011607199907302856,Mikel González,a,2227,FromCorner,2015,RightFoot,1769,Valencia,Real Sociedad,0,1,2016-05-13 22:30:00,,None
+140908,91,BlockedShot,0.789000015258789,0.5279999923706055,0.029961999505758286,Mikel González,a,2227,FromCorner,2016,LeftFoot,4004,Alaves,Real Sociedad,1,0,2017-03-18 17:30:00,,BallTouch

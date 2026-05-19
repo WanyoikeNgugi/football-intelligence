@@ -1,0 +1,46 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+420,93,SavedShot,0.8769999694824219,0.6980000305175781,0.1314609944820404,Ricky van Wolfswinkel,h,1012,OpenPlay,2014,RightFoot,6203,Saint-Etienne,Reims,3,1,2014-08-17 16:00:00,Renaud Cohade,Chipped
+1878,4,BlockedShot,0.9540000152587891,0.3820000076293945,0.06564900279045105,Ricky van Wolfswinkel,h,1012,FromCorner,2014,RightFoot,6174,Saint-Etienne,Bordeaux,1,1,2014-09-25 20:00:00,Francois Clerc,Interception
+1882,15,MissedShots,0.950999984741211,0.44,0.4738520085811615,Ricky van Wolfswinkel,h,1012,OpenPlay,2014,LeftFoot,6174,Saint-Etienne,Bordeaux,1,1,2014-09-25 20:00:00,Allan Saint-Maximin,Cross
+1888,30,Goal,0.9169999694824219,0.6170000076293946,0.0713014006614685,Ricky van Wolfswinkel,h,1012,OpenPlay,2014,LeftFoot,6174,Saint-Etienne,Bordeaux,1,1,2014-09-25 20:00:00,Franck Tabanou,Cross
+1895,58,MissedShots,0.9480000305175781,0.46700000762939453,0.4323529899120331,Ricky van Wolfswinkel,h,1012,FromCorner,2014,Head,6174,Saint-Etienne,Bordeaux,1,1,2014-09-25 20:00:00,Renaud Cohade,Cross
+2191,76,BlockedShot,0.7440000152587891,0.40400001525878904,0.018252799287438393,Ricky van Wolfswinkel,a,1012,OpenPlay,2014,RightFoot,6184,Marseille,Saint-Etienne,2,1,2014-09-28 20:00:00,Max Gradel,Pass
+1418,19,SavedShot,0.8719999694824219,0.4470000076293945,0.10279600322246552,Ricky van Wolfswinkel,h,1012,OpenPlay,2014,RightFoot,6120,Saint-Etienne,Toulouse,0,1,2014-10-05 13:00:00,Kévin Monnet-Paquet,Pass
+1672,3,SavedShot,0.9159999847412109,0.3370000076293945,0.03626039996743202,Ricky van Wolfswinkel,a,1012,FromCorner,2014,LeftFoot,6125,Lorient,Saint-Etienne,0,1,2014-10-18 16:00:00,Franck Tabanou,Cross
+1677,40,SavedShot,0.9,0.3629999923706055,0.3338249921798706,Ricky van Wolfswinkel,a,1012,OpenPlay,2014,LeftFoot,6125,Lorient,Saint-Etienne,0,1,2014-10-18 16:00:00,Kévin Monnet-Paquet,Throughball
+5160,17,SavedShot,0.909000015258789,0.555,0.045981500297784805,Ricky van Wolfswinkel,h,1012,OpenPlay,2014,Head,6093,Saint-Etienne,Monaco,1,1,2014-11-09 16:00:00,Moustapha Bayal Sall,Chipped
+5159,17,BlockedShot,0.8730000305175781,0.47400001525878904,0.08197180181741714,Ricky van Wolfswinkel,h,1012,OpenPlay,2014,RightFoot,6093,Saint-Etienne,Monaco,1,1,2014-11-09 16:00:00,Franck Tabanou,Rebound
+5168,57,Goal,0.925,0.529000015258789,0.503525972366333,Ricky van Wolfswinkel,h,1012,OpenPlay,2014,RightFoot,6093,Saint-Etienne,Monaco,1,1,2014-11-09 16:00:00,Romain Hamouma,Pass
+6056,16,SavedShot,0.8869999694824219,0.46,0.0561503991484642,Ricky van Wolfswinkel,a,1012,OpenPlay,2014,Head,6101,Nantes,Saint-Etienne,0,0,2014-11-23 13:00:00,Franck Tabanou,Cross
+6063,50,MissedShots,0.9719999694824218,0.2610000038146973,0.04626550152897835,Ricky van Wolfswinkel,a,1012,OpenPlay,2014,RightFoot,6101,Nantes,Saint-Etienne,0,0,2014-11-23 13:00:00,Benjamin Corgnet,HeadPass
+4061,11,ShotOnPost,0.919000015258789,0.48700000762939455,0.11474200338125229,Ricky van Wolfswinkel,h,1012,OpenPlay,2014,LeftFoot,6113,Saint-Etienne,Lyon,3,0,2014-11-30 20:00:00,Max Gradel,Cross
+4067,39,Goal,0.9619999694824218,0.46599998474121096,0.6746129989624023,Ricky van Wolfswinkel,h,1012,OpenPlay,2014,RightFoot,6113,Saint-Etienne,Lyon,3,0,2014-11-30 20:00:00,Max Gradel,Pass
+5051,48,SavedShot,0.9109999847412109,0.46,0.04937740042805672,Ricky van Wolfswinkel,a,1012,FromCorner,2014,Head,6039,Montpellier,Saint-Etienne,0,2,2014-12-03 18:00:00,Kévin Monnet-Paquet,HeadPass
+3059,44,ShotOnPost,0.8219999694824218,0.544000015258789,0.052779700607061386,Ricky van Wolfswinkel,h,1012,OpenPlay,2014,LeftFoot,6049,Saint-Etienne,SC Bastia,1,0,2014-12-06 19:00:00,Benjamin Corgnet,HeadPass
+3064,57,Goal,0.9269999694824219,0.42700000762939455,0.3367069959640503,Ricky van Wolfswinkel,h,1012,OpenPlay,2014,RightFoot,6049,Saint-Etienne,SC Bastia,1,0,2014-12-06 19:00:00,Fabien Lemoine,Chipped
+5497,19,Goal,0.8880000305175781,0.509000015258789,0.4460020065307617,Ricky van Wolfswinkel,h,1012,OpenPlay,2014,RightFoot,6074,Saint-Etienne,Evian Thonon Gaillard,3,0,2014-12-21 16:00:00,Romain Hamouma,Pass
+3620,45,BlockedShot,0.7930000305175782,0.30100000381469727,0.010816900059580803,Ricky van Wolfswinkel,a,1012,SetPiece,2014,RightFoot,6005,Reims,Saint-Etienne,1,2,2015-01-10 19:00:00,,Aerial
+3621,47,SavedShot,0.8109999847412109,0.5070000076293946,0.06619500368833542,Ricky van Wolfswinkel,a,1012,OpenPlay,2014,RightFoot,6005,Reims,Saint-Etienne,1,2,2015-01-10 19:00:00,,None
+6027,8,MissedShots,0.7859999847412109,0.48200000762939454,0.11406700313091278,Ricky van Wolfswinkel,a,1012,OpenPlay,2014,RightFoot,5960,Caen,Saint-Etienne,1,0,2015-02-01 13:00:00,Fabien Lemoine,Throughball
+6033,23,MissedShots,0.9080000305175782,0.5870000076293945,0.08479300141334534,Ricky van Wolfswinkel,a,1012,OpenPlay,2014,LeftFoot,5960,Caen,Saint-Etienne,1,0,2015-02-01 13:00:00,Jonathan Brison,Cross
+3807,1,MissedShots,0.9630000305175781,0.6680000305175782,0.05302279815077782,Ricky van Wolfswinkel,h,1012,OpenPlay,2014,LeftFoot,5963,Saint-Etienne,Lens,3,3,2015-02-06 19:30:00,Franck Tabanou,Chipped
+3819,34,SavedShot,0.8069999694824219,0.3089999961853027,0.02822370082139969,Ricky van Wolfswinkel,h,1012,OpenPlay,2014,RightFoot,5963,Saint-Etienne,Lens,3,3,2015-02-06 19:30:00,,TakeOn
+3821,36,MissedShots,0.970999984741211,0.44799999237060545,0.4784579873085022,Ricky van Wolfswinkel,h,1012,FromCorner,2014,LeftFoot,5963,Saint-Etienne,Lens,3,3,2015-02-06 19:30:00,Yohan Mollo,Cross
+4252,5,MissedShots,0.9369999694824219,0.45299999237060545,0.13241000473499298,Ricky van Wolfswinkel,h,1012,SetPiece,2014,Head,5990,Saint-Etienne,Marseille,2,2,2015-02-22 20:00:00,Max Gradel,Cross
+6659,34,MissedShots,0.9,0.5740000152587891,0.03915559872984886,Ricky van Wolfswinkel,a,1012,OpenPlay,2014,Head,5867,Evian Thonon Gaillard,Saint-Etienne,1,2,2015-05-16 20:00:00,Kévin Théophile-Catherine,Aerial
+6660,39,MissedShots,0.9030000305175782,0.44,0.3318209946155548,Ricky van Wolfswinkel,a,1012,OpenPlay,2014,RightFoot,5867,Evian Thonon Gaillard,Saint-Etienne,1,2,2015-05-16 20:00:00,Max Gradel,Cross
+6665,49,SavedShot,0.8369999694824218,0.35200000762939454,0.041331201791763306,Ricky van Wolfswinkel,a,1012,OpenPlay,2014,RightFoot,5867,Evian Thonon Gaillard,Saint-Etienne,1,2,2015-05-16 20:00:00,Benjamin Corgnet,Pass
+85266,76,MissedShots,0.91,0.5590000152587891,0.08835849910974503,Ricky van Wolfswinkel,h,1012,OpenPlay,2015,LeftFoot,1448,Real Betis,Deportivo La Coruna,1,2,2015-09-25 00:05:00,Vincenzo Rennella,Cross
+86372,72,SavedShot,0.94,0.4470000076293945,0.37733298540115356,Ricky van Wolfswinkel,h,1012,FromCorner,2015,Head,1473,Real Betis,Espanyol,1,3,2015-10-18 00:05:00,Rubén Castro,Cross
+86375,72,MissedShots,0.955999984741211,0.3340000152587891,0.026734299957752228,Ricky van Wolfswinkel,h,1012,FromCorner,2015,Head,1473,Real Betis,Espanyol,1,3,2015-10-18 00:05:00,,Rebound
+86075,40,SavedShot,0.9019999694824219,0.495,0.07881990075111389,Ricky van Wolfswinkel,h,1012,FromCorner,2015,Head,1498,Real Betis,Athletic Club,1,3,2015-11-01 23:30:00,Francisco Portillo,Cross
+86088,70,MissedShots,0.8969999694824219,0.30100000381469727,0.04186379909515381,Ricky van Wolfswinkel,h,1012,OpenPlay,2015,RightFoot,1498,Real Betis,Athletic Club,1,3,2015-11-01 23:30:00,Cristiano Piccini,Pass
+86961,76,MissedShots,0.8859999847412109,0.31799999237060544,0.04314219951629639,Ricky van Wolfswinkel,a,1012,OpenPlay,2015,RightFoot,1564,Barcelona,Real Betis,4,0,2015-12-30 23:30:00,Dani Ceballos,Pass
+89483,52,MissedShots,0.9830000305175781,0.5709999847412109,0.08551689982414246,Ricky van Wolfswinkel,a,1012,OpenPlay,2015,LeftFoot,1612,Real Sociedad,Real Betis,2,1,2016-01-31 01:05:00,,None
+89486,65,MissedShots,0.9490000152587891,0.425,0.0830387994647026,Ricky van Wolfswinkel,a,1012,OpenPlay,2015,RightFoot,1612,Real Sociedad,Real Betis,2,1,2016-01-31 01:05:00,Rubén Castro,None
+89323,42,SavedShot,0.879000015258789,0.355,0.07320539653301239,Ricky van Wolfswinkel,h,1012,OpenPlay,2015,RightFoot,1624,Real Betis,Valencia,1,0,2016-02-07 19:00:00,Charly Musonda,Pass
+90000,22,MissedShots,0.8919999694824219,0.4370000076293945,0.06302150338888168,Ricky van Wolfswinkel,h,1012,OpenPlay,2015,Head,1642,Real Betis,Sporting Gijon,1,1,2016-02-20 23:30:00,Juan Vargas,Cross
+90004,37,BlockedShot,0.9309999847412109,0.5970000076293945,0.035693101584911346,Ricky van Wolfswinkel,h,1012,OpenPlay,2015,Head,1642,Real Betis,Sporting Gijon,1,1,2016-02-20 23:30:00,Foued Kadir,BallTouch
+91638,66,MissedShots,0.865,0.5320000076293945,0.017844000831246376,Ricky van Wolfswinkel,h,1012,OpenPlay,2015,Head,1713,Real Betis,Levante,1,0,2016-04-10 00:05:00,Francisco Molinero,Aerial
+91662,76,MissedShots,0.9490000152587891,0.5129999923706055,0.44462400674819946,Ricky van Wolfswinkel,h,1012,FromCorner,2015,RightFoot,1730,Real Betis,Las Palmas,1,0,2016-04-19 23:00:00,Dani Ceballos,Chipped
+91664,82,Goal,0.8430000305175781,0.555,0.3499070107936859,Ricky van Wolfswinkel,h,1012,OpenPlay,2015,RightFoot,1730,Real Betis,Las Palmas,1,0,2016-04-19 23:00:00,Dani Ceballos,Throughball

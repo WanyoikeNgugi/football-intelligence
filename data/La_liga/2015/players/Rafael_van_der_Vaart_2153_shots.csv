@@ -1,0 +1,40 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+24507,9,SavedShot,0.774000015258789,0.534000015258789,0.033927399665117264,Rafael van der Vaart,a,2153,OpenPlay,2014,LeftFoot,5452,FC Cologne,Hamburger SV,0,0,2014-08-23 14:30:00,,BallRecovery
+24510,14,MissedShots,0.7019999694824218,0.415,0.016416100785136223,Rafael van der Vaart,a,2153,OpenPlay,2014,LeftFoot,5452,FC Cologne,Hamburger SV,0,0,2014-08-23 14:30:00,Milan Badelj,Pass
+24520,34,MissedShots,0.7809999847412109,0.4620000076293945,0.034742701798677444,Rafael van der Vaart,a,2153,OpenPlay,2014,LeftFoot,5452,FC Cologne,Hamburger SV,0,0,2014-08-23 14:30:00,Tolgay Arslan,Pass
+24533,85,BlockedShot,0.904000015258789,0.649000015258789,0.02344129979610443,Rafael van der Vaart,a,2153,OpenPlay,2014,Head,5452,FC Cologne,Hamburger SV,0,0,2014-08-23 14:30:00,Marcell Jansen,CornerAwarded
+24770,25,MissedShots,0.7319999694824219,0.31,0.04097370058298111,Rafael van der Vaart,h,2153,DirectFreekick,2014,LeftFoot,5459,Hamburger SV,Paderborn,0,3,2014-08-30 14:30:00,,Standard
+26118,5,BlockedShot,0.7719999694824219,0.49400001525878906,0.0314640998840332,Rafael van der Vaart,h,2153,OpenPlay,2014,LeftFoot,5399,Hamburger SV,Hoffenheim,1,1,2014-10-19 14:30:00,Pierre-Michel Lasogga,Pass
+26124,21,SavedShot,0.9269999694824219,0.6659999847412109,0.3118639886379242,Rafael van der Vaart,h,2153,OpenPlay,2014,LeftFoot,5399,Hamburger SV,Hoffenheim,1,1,2014-10-19 14:30:00,Nicolai Müller,Pass
+26132,54,MissedShots,0.789000015258789,0.29700000762939455,0.06429219990968704,Rafael van der Vaart,h,2153,DirectFreekick,2014,LeftFoot,5399,Hamburger SV,Hoffenheim,1,1,2014-10-19 14:30:00,,Standard
+26369,0,SavedShot,0.61,0.12199999809265137,0.007756880018860102,Rafael van der Vaart,a,2153,OpenPlay,2014,LeftFoot,5405,Hertha Berlin,Hamburger SV,3,0,2014-10-25 14:30:00,Tolgay Arslan,Pass
+26378,40,MissedShots,0.759000015258789,0.5570000076293945,0.02169260010123253,Rafael van der Vaart,a,2153,OpenPlay,2014,LeftFoot,5405,Hertha Berlin,Hamburger SV,3,0,2014-10-25 14:30:00,,None
+26633,25,Goal,0.885,0.5,0.7577769756317139,Rafael van der Vaart,h,2153,Penalty,2014,LeftFoot,5351,Hamburger SV,Bayer Leverkusen,1,0,2014-11-01 14:30:00,,Standard
+26749,14,BlockedShot,0.78,0.3240000152587891,0.06639959663152695,Rafael van der Vaart,a,2153,DirectFreekick,2014,LeftFoot,5363,Wolfsburg,Hamburger SV,2,0,2014-11-09 14:30:00,,Standard
+26758,58,BlockedShot,0.8130000305175781,0.6,0.04640129953622818,Rafael van der Vaart,a,2153,OpenPlay,2014,LeftFoot,5363,Wolfsburg,Hamburger SV,2,0,2014-11-09 14:30:00,Matthias Ostrzolek,Pass
+26762,61,BlockedShot,0.815,0.46900001525878904,0.058956701308488846,Rafael van der Vaart,a,2153,OpenPlay,2014,LeftFoot,5363,Wolfsburg,Hamburger SV,2,0,2014-11-09 14:30:00,Nicolai Müller,TakeOn
+26763,62,BlockedShot,0.825999984741211,0.21899999618530275,0.057291898876428604,Rafael van der Vaart,a,2153,DirectFreekick,2014,LeftFoot,5363,Wolfsburg,Hamburger SV,2,0,2014-11-09 14:30:00,,Standard
+27615,9,MissedShots,0.8680000305175781,0.655,0.06846059858798981,Rafael van der Vaart,a,2153,OpenPlay,2014,LeftFoot,5375,Augsburg,Hamburger SV,3,1,2014-11-29 14:30:00,Ronny Marcos,Pass
+27621,45,Goal,0.8919999694824219,0.4129999923706055,0.11105699837207794,Rafael van der Vaart,a,2153,OpenPlay,2014,RightFoot,5375,Augsburg,Hamburger SV,3,1,2014-11-29 14:30:00,Artjoms Rudnevs,Pass
+27467,23,BlockedShot,0.904000015258789,0.6959999847412109,0.05852780118584633,Rafael van der Vaart,h,2153,OpenPlay,2014,LeftFoot,5319,Hamburger SV,Mainz 05,2,1,2014-12-07 14:30:00,Artjoms Rudnevs,Pass
+27480,53,Goal,0.885,0.5,0.7577769756317139,Rafael van der Vaart,h,2153,Penalty,2014,LeftFoot,5319,Hamburger SV,Mainz 05,2,1,2014-12-07 14:30:00,,Standard
+27491,79,SavedShot,0.8480000305175781,0.47,0.1311430037021637,Rafael van der Vaart,h,2153,OpenPlay,2014,LeftFoot,5319,Hamburger SV,Mainz 05,2,1,2014-12-07 14:30:00,Pierre-Michel Lasogga,Pass
+27819,54,ShotOnPost,0.8109999847412109,0.5509999847412109,0.14717499911785126,Rafael van der Vaart,h,2153,DirectFreekick,2014,LeftFoot,5331,Hamburger SV,VfB Stuttgart,0,1,2014-12-16 19:00:00,,Standard
+27820,68,SavedShot,0.8769999694824219,0.5459999847412109,0.09602300077676773,Rafael van der Vaart,h,2153,OpenPlay,2014,RightFoot,5331,Hamburger SV,VfB Stuttgart,0,1,2014-12-16 19:00:00,Lewis Holtby,Pass
+29511,8,BlockedShot,0.8880000305175781,0.6120000076293945,0.09848640114068985,Rafael van der Vaart,h,2153,OpenPlay,2014,LeftFoot,5309,Hamburger SV,FC Cologne,0,2,2015-01-31 14:30:00,Ivica Olic,Pass
+29529,75,MissedShots,0.8619999694824219,0.6519999694824219,0.05994519963860512,Rafael van der Vaart,h,2153,OpenPlay,2014,LeftFoot,5309,Hamburger SV,FC Cologne,0,2,2015-01-31 14:30:00,Marcell Jansen,Pass
+29140,1,Goal,0.885,0.5,0.7577769756317139,Rafael van der Vaart,a,2153,Penalty,2014,LeftFoot,5268,Paderborn,Hamburger SV,0,3,2015-02-04 19:00:00,,Standard
+28804,32,SavedShot,0.8209999847412109,0.710999984741211,0.020206399261951447,Rafael van der Vaart,a,2153,OpenPlay,2014,LeftFoot,5285,Bayern Munich,Hamburger SV,8,0,2015-02-14 14:30:00,Artjoms Rudnevs,Chipped
+32087,14,MissedShots,0.87,0.4540000152587891,0.07672590017318726,Rafael van der Vaart,h,2153,OpenPlay,2014,RightFoot,5251,Hamburger SV,Hertha Berlin,0,1,2015-03-20 19:30:00,Ivica Olic,HeadPass
+32091,24,MissedShots,0.715,0.46599998474121096,0.04662390053272247,Rafael van der Vaart,h,2153,DirectFreekick,2014,LeftFoot,5251,Hamburger SV,Hertha Berlin,0,1,2015-03-20 19:30:00,,Standard
+30026,52,SavedShot,0.7859999847412109,0.41200000762939454,0.0492687001824379,Rafael van der Vaart,h,2153,OpenPlay,2014,LeftFoot,5225,Hamburger SV,Augsburg,3,2,2015-04-25 14:30:00,,BallRecovery
+30029,60,BlockedShot,0.8490000152587891,0.515,0.10946100205183029,Rafael van der Vaart,h,2153,OpenPlay,2014,RightFoot,5225,Hamburger SV,Augsburg,3,2,2015-04-25 14:30:00,Ivo Ilicevic,Pass
+30666,34,BlockedShot,0.8230000305175781,0.6880000305175781,0.03213699907064438,Rafael van der Vaart,a,2153,OpenPlay,2014,LeftFoot,5166,Mainz 05,Hamburger SV,1,2,2015-05-03 14:30:00,Ivo Ilicevic,Pass
+30682,90,MissedShots,0.8130000305175781,0.48700000762939455,0.15945999324321747,Rafael van der Vaart,a,2153,DirectFreekick,2014,LeftFoot,5166,Mainz 05,Hamburger SV,1,2,2015-05-03 14:30:00,,Standard
+31949,85,SavedShot,0.794000015258789,0.24100000381469727,0.051718901842832565,Rafael van der Vaart,h,2153,DirectFreekick,2014,LeftFoot,5168,Hamburger SV,Freiburg,1,1,2015-05-08 19:30:00,,Standard
+86523,12,BlockedShot,0.845,0.31,0.03929910063743591,Rafael van der Vaart,a,2153,OpenPlay,2015,RightFoot,1504,Malaga,Real Betis,0,1,2015-11-08 01:05:00,Rubén Castro,Pass
+86532,42,MissedShots,0.965999984741211,0.645,0.06628429889678955,Rafael van der Vaart,a,2153,OpenPlay,2015,LeftFoot,1504,Malaga,Real Betis,0,1,2015-11-08 01:05:00,,None
+88225,81,MissedShots,0.8590000152587891,0.3609999847412109,0.08136119693517685,Rafael van der Vaart,a,2153,OpenPlay,2015,RightFoot,1519,Levante,Real Betis,0,1,2015-11-27 23:30:00,Joaquín,Pass
+88226,83,MissedShots,0.8830000305175781,0.6370000076293946,0.09555579721927643,Rafael van der Vaart,a,2153,OpenPlay,2015,LeftFoot,1519,Levante,Real Betis,0,1,2015-11-27 23:30:00,Rubén Castro,Pass
+87173,85,SavedShot,0.7269999694824218,0.49599998474121093,0.05719799920916557,Rafael van der Vaart,h,2153,DirectFreekick,2015,LeftFoot,1533,Real Betis,Celta Vigo,1,1,2015-12-06 01:05:00,,Standard
+86964,84,MissedShots,0.7069999694824218,0.445,0.013080799952149391,Rafael van der Vaart,a,2153,OpenPlay,2015,RightFoot,1564,Barcelona,Real Betis,4,0,2015-12-30 23:30:00,Dani Ceballos,Pass

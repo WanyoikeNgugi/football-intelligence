@@ -1,0 +1,105 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+539036,5,BlockedShot,0.7709999847412109,0.37,0.02425202913582325,Rocco Reitz,h,8826,OpenPlay,2023,RightFoot,23103,Borussia M.Gladbach,RasenBallsport Leipzig,0,1,2023-09-23 13:30:00,Jordan Siebatcheu,Pass
+539038,10,MissedShots,0.919000015258789,0.42200000762939455,0.06169053167104721,Rocco Reitz,h,8826,FromCorner,2023,Head,23103,Borussia M.Gladbach,RasenBallsport Leipzig,0,1,2023-09-23 13:30:00,Franck Honorat,Cross
+539047,62,SavedShot,0.9180000305175782,0.5840000152587891,0.07762276381254196,Rocco Reitz,h,8826,OpenPlay,2023,Head,23103,Borussia M.Gladbach,RasenBallsport Leipzig,0,1,2023-09-23 13:30:00,Franck Honorat,Cross
+539051,77,BlockedShot,0.725,0.5220000076293946,0.019285233691334724,Rocco Reitz,h,8826,OpenPlay,2023,RightFoot,23103,Borussia M.Gladbach,RasenBallsport Leipzig,0,1,2023-09-23 13:30:00,Kouadio Kone,Pass
+541069,19,BlockedShot,0.885,0.36700000762939455,0.07610774040222168,Rocco Reitz,a,8826,OpenPlay,2023,LeftFoot,23111,Bochum,Borussia M.Gladbach,1,3,2023-09-30 13:30:00,Jordan Siebatcheu,Pass
+541071,24,BlockedShot,0.735,0.3579999923706055,0.012001963332295418,Rocco Reitz,a,8826,OpenPlay,2023,LeftFoot,23111,Bochum,Borussia M.Gladbach,1,3,2023-09-30 13:30:00,,None
+545316,32,BlockedShot,0.9180000305175782,0.6320000076293946,0.15301744639873505,Rocco Reitz,h,8826,OpenPlay,2023,LeftFoot,23141,Borussia M.Gladbach,FC Heidenheim,2,1,2023-10-28 13:30:00,Franck Honorat,TakeOn
+545317,34,SavedShot,0.9569999694824218,0.615999984741211,0.014517616480588913,Rocco Reitz,h,8826,FromCorner,2023,Head,23141,Borussia M.Gladbach,FC Heidenheim,2,1,2023-10-28 13:30:00,Franck Honorat,Aerial
+547972,41,Goal,0.8780000305175781,0.555,0.4082699716091156,Rocco Reitz,h,8826,OpenPlay,2023,RightFoot,23158,Borussia M.Gladbach,Wolfsburg,4,0,2023-11-10 19:30:00,,BallRecovery
+547975,47,MissedShots,0.909000015258789,0.36700000762939455,0.017655877396464348,Rocco Reitz,h,8826,FromCorner,2023,Head,23158,Borussia M.Gladbach,Wolfsburg,4,0,2023-11-10 19:30:00,Franck Honorat,Cross
+549614,12,Goal,0.8919999694824219,0.4129999923706055,0.3410026729106903,Rocco Reitz,a,8826,OpenPlay,2023,RightFoot,23164,Borussia Dortmund,Borussia M.Gladbach,4,2,2023-11-25 14:30:00,Alassane Pléa,Pass
+551125,36,MissedShots,0.9540000152587891,0.35400001525878905,0.060936473309993744,Rocco Reitz,h,8826,FromCorner,2023,RightFoot,23177,Borussia M.Gladbach,Hoffenheim,2,1,2023-12-02 14:30:00,,None
+552799,55,BlockedShot,0.7730000305175782,0.41,0.020997602492570877,Rocco Reitz,a,8826,OpenPlay,2023,LeftFoot,23183,Union Berlin,Borussia M.Gladbach,3,1,2023-12-09 14:30:00,,TakeOn
+553977,44,Goal,0.840999984741211,0.43900001525878907,0.07116597145795822,Rocco Reitz,h,8826,OpenPlay,2023,LeftFoot,23196,Borussia M.Gladbach,Werder Bremen,2,2,2023-12-15 19:30:00,Robin Hack,Pass
+553981,48,Goal,0.8819999694824219,0.4859999847412109,0.5433005094528198,Rocco Reitz,h,8826,OpenPlay,2023,RightFoot,23196,Borussia M.Gladbach,Werder Bremen,2,2,2023-12-15 19:30:00,Robin Hack,TakeOn
+553984,60,MissedShots,0.9880000305175781,0.3559999847412109,0.0856015682220459,Rocco Reitz,h,8826,OpenPlay,2023,RightFoot,23196,Borussia M.Gladbach,Werder Bremen,2,2,2023-12-15 19:30:00,Franck Honorat,Pass
+561138,62,MissedShots,0.759000015258789,0.32099998474121094,0.01564599573612213,Rocco Reitz,a,8826,OpenPlay,2023,LeftFoot,23236,Bayern Munich,Borussia M.Gladbach,3,1,2024-02-03 14:30:00,Kouadio Kone,TakeOn
+562437,80,BlockedShot,0.75,0.34799999237060547,0.013869151473045349,Rocco Reitz,h,8826,OpenPlay,2023,RightFoot,23245,Borussia M.Gladbach,Darmstadt,0,0,2024-02-10 14:30:00,,None
+562438,84,SavedShot,0.7759999847412109,0.504000015258789,0.034883879125118256,Rocco Reitz,h,8826,OpenPlay,2023,RightFoot,23245,Borussia M.Gladbach,Darmstadt,0,0,2024-02-10 14:30:00,Kouadio Kone,BallRecovery
+564085,19,MissedShots,0.9290000152587891,0.36200000762939455,0.020676352083683014,Rocco Reitz,a,8826,FromCorner,2023,Head,23254,RasenBallsport Leipzig,Borussia M.Gladbach,2,0,2024-02-17 17:30:00,Robin Hack,Cross
+564089,30,BlockedShot,0.8119999694824219,0.32799999237060545,0.028097502887248993,Rocco Reitz,a,8826,OpenPlay,2023,LeftFoot,23254,RasenBallsport Leipzig,Borussia M.Gladbach,2,0,2024-02-17 17:30:00,,Dispossessed
+565144,71,Goal,0.9569999694824218,0.5220000076293946,0.6184806823730469,Rocco Reitz,h,8826,OpenPlay,2023,Head,23266,Borussia M.Gladbach,Bochum,5,2,2024-02-24 14:30:00,Nathan N&#039;Goumou Minpol,Cross
+565152,94,SavedShot,0.76,0.57,0.025596164166927338,Rocco Reitz,h,8826,OpenPlay,2023,RightFoot,23266,Borussia M.Gladbach,Bochum,5,2,2024-02-24 14:30:00,Franck Honorat,Pass
+569372,25,SavedShot,0.7440000152587891,0.3940000152587891,0.02434462681412697,Rocco Reitz,a,8826,OpenPlay,2023,RightFoot,23297,FC Heidenheim,Borussia M.Gladbach,1,1,2024-03-16 14:30:00,,None
+569385,61,MissedShots,0.799000015258789,0.3370000076293945,0.036631617695093155,Rocco Reitz,a,8826,OpenPlay,2023,LeftFoot,23297,FC Heidenheim,Borussia M.Gladbach,1,1,2024-03-16 14:30:00,Franck Honorat,Pass
+570556,11,BlockedShot,0.93,0.575,0.11875070631504059,Rocco Reitz,h,8826,OpenPlay,2023,LeftFoot,23303,Borussia M.Gladbach,Freiburg,0,3,2024-03-30 14:30:00,Luca Netz,Pass
+573061,87,Goal,0.865999984741211,0.4370000076293945,0.09118669480085373,Rocco Reitz,a,8826,OpenPlay,2023,RightFoot,23312,Wolfsburg,Borussia M.Gladbach,1,3,2024-04-07 15:30:00,,None
+578264,1,BlockedShot,0.8159999847412109,0.5379999923706055,0.05770741403102875,Rocco Reitz,a,8826,OpenPlay,2023,LeftFoot,23350,Werder Bremen,Borussia M.Gladbach,2,2,2024-05-04 13:30:00,Julian Weigl,Pass
+578265,3,BlockedShot,0.8190000152587891,0.545,0.06016175076365471,Rocco Reitz,a,8826,OpenPlay,2023,LeftFoot,23350,Werder Bremen,Borussia M.Gladbach,2,2,2024-05-04 13:30:00,Robin Hack,Pass
+578270,11,MissedShots,0.7609999847412109,0.3270000076293945,0.015397526323795319,Rocco Reitz,a,8826,FromCorner,2023,RightFoot,23350,Werder Bremen,Borussia M.Gladbach,2,2,2024-05-04 13:30:00,,None
+578283,49,MissedShots,0.94,0.315,0.06979269534349442,Rocco Reitz,a,8826,OpenPlay,2023,RightFoot,23350,Werder Bremen,Borussia M.Gladbach,2,2,2024-05-04 13:30:00,Franck Honorat,TakeOn
+578289,69,SavedShot,0.9419999694824219,0.4329999923706055,0.12787261605262756,Rocco Reitz,a,8826,OpenPlay,2023,LeftFoot,23350,Werder Bremen,Borussia M.Gladbach,2,2,2024-05-04 13:30:00,Franck Honorat,Pass
+578288,69,SavedShot,0.950999984741211,0.46900001525878904,0.4641130566596985,Rocco Reitz,a,8826,OpenPlay,2023,Head,23350,Werder Bremen,Borussia M.Gladbach,2,2,2024-05-04 13:30:00,Tomás Cvancara,Aerial
+581673,50,SavedShot,0.7430000305175781,0.32799999237060545,0.01233617402613163,Rocco Reitz,a,8826,OpenPlay,2023,RightFoot,23369,VfB Stuttgart,Borussia M.Gladbach,4,0,2024-05-18 13:30:00,,BallRecovery
+585724,14,SavedShot,0.9680000305175781,0.3920000076293945,0.12996548414230347,Rocco Reitz,h,8826,OpenPlay,2024,RightFoot,27742,Borussia M.Gladbach,Bayer Leverkusen,2,3,2024-08-23 18:30:00,,TakeOn
+585730,29,BlockedShot,0.7680000305175781,0.5570000076293945,0.02412903681397438,Rocco Reitz,h,8826,SetPiece,2024,RightFoot,27742,Borussia M.Gladbach,Bayer Leverkusen,2,3,2024-08-23 18:30:00,Julian Weigl,Pass
+585736,41,SavedShot,0.884000015258789,0.5690000152587891,0.07471027225255966,Rocco Reitz,h,8826,SetPiece,2024,LeftFoot,27742,Borussia M.Gladbach,Bayer Leverkusen,2,3,2024-08-23 18:30:00,Nico Elvedi,HeadPass
+592659,11,SavedShot,0.7630000305175781,0.42700000762939455,0.01656610518693924,Rocco Reitz,a,8826,SetPiece,2024,RightFoot,27774,Eintracht Frankfurt,Borussia M.Gladbach,2,0,2024-09-21 16:30:00,,None
+592691,66,ShotOnPost,0.8590000152587891,0.34299999237060547,0.05882958322763443,Rocco Reitz,a,8826,OpenPlay,2024,RightFoot,27774,Eintracht Frankfurt,Borussia M.Gladbach,2,0,2024-09-21 16:30:00,Kevin Stöger,Pass
+593983,92,BlockedShot,0.799000015258789,0.37099998474121093,0.02383769303560257,Rocco Reitz,h,8826,FromCorner,2024,LeftFoot,27782,Borussia M.Gladbach,Union Berlin,1,0,2024-09-28 13:30:00,,None
+600744,19,MissedShots,0.915,0.44,0.07187583297491074,Rocco Reitz,h,8826,FromCorner,2024,Head,27821,Borussia M.Gladbach,Werder Bremen,4,1,2024-11-03 16:30:00,Franck Honorat,Cross
+601693,8,SavedShot,0.9330000305175781,0.44299999237060544,0.04716992750763893,Rocco Reitz,a,8826,FromCorner,2024,Head,27824,RasenBallsport Leipzig,Borussia M.Gladbach,0,0,2024-11-09 17:30:00,Franck Honorat,Aerial
+606035,14,BlockedShot,0.915,0.39099998474121095,0.05067432299256325,Rocco Reitz,h,8826,FromCorner,2024,RightFoot,27854,Borussia M.Gladbach,Borussia Dortmund,1,1,2024-12-07 17:30:00,Franck Honorat,Cross
+606041,44,MissedShots,0.7469999694824219,0.4109999847412109,0.020075948908925056,Rocco Reitz,h,8826,OpenPlay,2024,RightFoot,27854,Borussia M.Gladbach,Borussia Dortmund,1,1,2024-12-07 17:30:00,Kevin Stöger,Pass
+607043,77,MissedShots,0.924000015258789,0.600999984741211,0.10530264675617218,Rocco Reitz,h,8826,SetPiece,2024,LeftFoot,27865,Borussia M.Gladbach,Holstein Kiel,4,1,2024-12-14 14:30:00,,Rebound
+611401,10,BlockedShot,0.705999984741211,0.56,0.007869227789342403,Rocco Reitz,a,8826,OpenPlay,2024,LeftFoot,27891,Wolfsburg,Borussia M.Gladbach,5,1,2025-01-14 19:30:00,Luca Netz,Chipped
+611403,14,MissedShots,0.8,0.445,0.044826459139585495,Rocco Reitz,a,8826,OpenPlay,2024,RightFoot,27891,Wolfsburg,Borussia M.Gladbach,5,1,2025-01-14 19:30:00,Tomás Cvancara,Pass
+612438,11,MissedShots,0.9330000305175781,0.3890000152587891,0.039096102118492126,Rocco Reitz,a,8826,FromCorner,2024,Head,27895,Bayer Leverkusen,Borussia M.Gladbach,3,1,2025-01-18 17:30:00,Philipp Sander,Cross
+613550,33,Goal,0.8540000152587891,0.654000015258789,0.043533097952604294,Rocco Reitz,h,8826,FromCorner,2024,RightFoot,27908,Borussia M.Gladbach,Bochum,3,0,2025-01-25 17:30:00,Kevin Stöger,Pass
+613559,69,MissedShots,0.785,0.53,0.023017818108201027,Rocco Reitz,h,8826,OpenPlay,2024,RightFoot,27908,Borussia M.Gladbach,Bochum,3,0,2025-01-25 17:30:00,,Rebound
+624196,71,BlockedShot,0.815,0.5259999847412109,0.04558739438652992,Rocco Reitz,h,8826,OpenPlay,2024,LeftFoot,27980,Borussia M.Gladbach,RasenBallsport Leipzig,1,0,2025-03-29 14:30:00,Robin Hack,Chipped
+630206,16,BlockedShot,0.9619999694824218,0.5690000152587891,0.582449734210968,Rocco Reitz,a,8826,SetPiece,2024,RightFoot,28020,Holstein Kiel,Borussia M.Gladbach,4,3,2025-04-26 13:30:00,,Rebound
+630210,21,BlockedShot,0.8440000152587891,0.38299999237060545,0.06196742132306099,Rocco Reitz,a,8826,OpenPlay,2024,RightFoot,28020,Holstein Kiel,Borussia M.Gladbach,4,3,2025-04-26 13:30:00,Tomás Cvancara,Pass
+630217,42,BlockedShot,0.769000015258789,0.3189999961853027,0.00972277857363224,Rocco Reitz,a,8826,OpenPlay,2024,RightFoot,28020,Holstein Kiel,Borussia M.Gladbach,4,3,2025-04-26 13:30:00,,Rebound
+631348,31,Goal,0.9230000305175782,0.3890000152587891,0.35444480180740356,Rocco Reitz,h,8826,OpenPlay,2024,RightFoot,28027,Borussia M.Gladbach,Hoffenheim,4,4,2025-05-03 13:30:00,,Rebound
+633000,59,SavedShot,0.9540000152587891,0.5840000152587891,0.085313580930233,Rocco Reitz,a,8826,FromCorner,2024,RightFoot,28032,Bayern Munich,Borussia M.Gladbach,2,0,2025-05-10 16:30:00,Franck Honorat,Cross
+634318,14,MissedShots,0.86,0.295,0.038886889815330505,Rocco Reitz,h,8826,OpenPlay,2024,LeftFoot,28046,Borussia M.Gladbach,Wolfsburg,0,1,2025-05-17 13:30:00,Julian Weigl,Pass
+639521,59,SavedShot,0.7630000305175781,0.47299999237060547,0.024924667552113533,Rocco Reitz,h,8826,OpenPlay,2025,RightFoot,30232,Borussia M.Gladbach,Hamburger SV,0,0,2025-08-24 15:30:00,,None
+639523,62,MissedShots,0.9169999694824219,0.4279999923706055,0.021884245797991753,Rocco Reitz,h,8826,FromCorner,2025,Head,30232,Borussia M.Gladbach,Hamburger SV,0,0,2025-08-24 15:30:00,Franck Honorat,Aerial
+639524,64,SavedShot,0.8030000305175782,0.645,0.033729515969753265,Rocco Reitz,h,8826,OpenPlay,2025,RightFoot,30232,Borussia M.Gladbach,Hamburger SV,0,0,2025-08-24 15:30:00,Robin Hack,Pass
+639529,69,BlockedShot,0.9230000305175782,0.32799999237060545,0.06028549745678902,Rocco Reitz,h,8826,OpenPlay,2025,RightFoot,30232,Borussia M.Gladbach,Hamburger SV,0,0,2025-08-24 15:30:00,,None
+642457,32,BlockedShot,0.785,0.4,0.09200233221054077,Rocco Reitz,h,8826,DirectFreekick,2025,RightFoot,30250,Borussia M.Gladbach,Werder Bremen,0,4,2025-09-14 15:30:00,,Standard
+642458,32,MissedShots,0.7219999694824218,0.43900001525878907,0.010689926333725452,Rocco Reitz,h,8826,SetPiece,2025,RightFoot,30250,Borussia M.Gladbach,Werder Bremen,0,4,2025-09-14 15:30:00,,None
+642466,46,MissedShots,0.7919999694824219,0.6959999847412109,0.011450977064669132,Rocco Reitz,h,8826,OpenPlay,2025,RightFoot,30250,Borussia M.Gladbach,Werder Bremen,0,4,2025-09-14 15:30:00,Robin Hack,Aerial
+642472,68,BlockedShot,0.9390000152587891,0.5209999847412109,0.3600432276725769,Rocco Reitz,h,8826,FromCorner,2025,Head,30250,Borussia M.Gladbach,Werder Bremen,0,4,2025-09-14 15:30:00,Haris Tabakovic,None
+642475,75,MissedShots,0.7630000305175781,0.3579999923706055,0.013837255537509918,Rocco Reitz,h,8826,OpenPlay,2025,RightFoot,30250,Borussia M.Gladbach,Werder Bremen,0,4,2025-09-14 15:30:00,,None
+642478,82,BlockedShot,0.8190000152587891,0.6079999923706054,0.055454082787036896,Rocco Reitz,h,8826,OpenPlay,2025,LeftFoot,30250,Borussia M.Gladbach,Werder Bremen,0,4,2025-09-14 15:30:00,Kevin Stöger,Pass
+647038,27,BlockedShot,0.8719999694824219,0.43,0.10260538011789322,Rocco Reitz,h,8826,OpenPlay,2025,LeftFoot,30270,Borussia M.Gladbach,Freiburg,0,0,2025-10-05 17:30:00,Florian Neuhaus,Pass
+647043,42,SavedShot,0.825,0.8240000152587891,0.01166728138923645,Rocco Reitz,h,8826,OpenPlay,2025,RightFoot,30270,Borussia M.Gladbach,Freiburg,0,0,2025-10-05 17:30:00,,None
+647140,16,BlockedShot,0.7880000305175782,0.3940000152587891,0.031166860833764076,Rocco Reitz,a,8826,OpenPlay,2025,RightFoot,30285,Union Berlin,Borussia M.Gladbach,3,1,2025-10-17 18:30:00,Jens Castrop,Pass
+650651,46,SavedShot,0.8640000152587891,0.37,0.08943692594766617,Rocco Reitz,a,8826,OpenPlay,2025,RightFoot,30302,St. Pauli,Borussia M.Gladbach,0,4,2025-11-01 14:30:00,Franck Honorat,Pass
+650661,69,SavedShot,0.735999984741211,0.48,0.05118696391582489,Rocco Reitz,a,8826,OpenPlay,2025,LeftFoot,30302,St. Pauli,Borussia M.Gladbach,0,4,2025-11-01 14:30:00,Florian Neuhaus,Chipped
+652449,46,MissedShots,0.9309999847412109,0.51,0.06601035594940186,Rocco Reitz,h,8826,FromCorner,2025,Head,30306,Borussia M.Gladbach,FC Cologne,3,1,2025-11-08 17:30:00,Yannick Engelhardt,Aerial
+652463,85,MissedShots,0.9230000305175782,0.36200000762939455,0.11455902457237244,Rocco Reitz,h,8826,OpenPlay,2025,RightFoot,30306,Borussia M.Gladbach,FC Cologne,3,1,2025-11-08 17:30:00,Haris Tabakovic,Pass
+653490,16,BlockedShot,0.8190000152587891,0.44,0.04551628232002258,Rocco Reitz,a,8826,OpenPlay,2025,LeftFoot,30318,FC Heidenheim,Borussia M.Gladbach,0,3,2025-11-22 14:30:00,,Rebound
+653498,51,BlockedShot,0.7980000305175782,0.639000015258789,0.03709860146045685,Rocco Reitz,a,8826,OpenPlay,2025,LeftFoot,30318,FC Heidenheim,Borussia M.Gladbach,0,3,2025-11-22 14:30:00,Franck Honorat,Pass
+654689,45,MissedShots,0.7769999694824219,0.28200000762939453,0.0186541136354208,Rocco Reitz,h,8826,SetPiece,2025,RightFoot,30325,Borussia M.Gladbach,RasenBallsport Leipzig,0,0,2025-11-28 19:30:00,Jens Castrop,Pass
+656543,60,SavedShot,0.8480000305175781,0.3139999961853027,0.05809615179896355,Rocco Reitz,a,8826,OpenPlay,2025,RightFoot,30339,Mainz 05,Borussia M.Gladbach,0,1,2025-12-05 19:30:00,Yannick Engelhardt,Chipped
+656552,89,SavedShot,0.8209999847412109,0.3579999923706055,0.04490607976913452,Rocco Reitz,a,8826,OpenPlay,2025,RightFoot,30339,Mainz 05,Borussia M.Gladbach,0,1,2025-12-05 19:30:00,Jens Castrop,Pass
+658147,54,SavedShot,0.7580000305175781,0.7180000305175781,0.01167235616594553,Rocco Reitz,h,8826,OpenPlay,2025,RightFoot,30343,Borussia M.Gladbach,Wolfsburg,1,3,2025-12-13 14:30:00,Giovanni Reyna,Pass
+658158,92,SavedShot,0.9369999694824219,0.69,0.03282106667757034,Rocco Reitz,h,8826,SetPiece,2025,LeftFoot,30343,Borussia M.Gladbach,Wolfsburg,1,3,2025-12-13 14:30:00,Kevin Stöger,Pass
+658159,93,MissedShots,0.8490000152587891,0.6619999694824219,0.04904791712760925,Rocco Reitz,h,8826,OpenPlay,2025,RightFoot,30343,Borussia M.Gladbach,Wolfsburg,1,3,2025-12-13 14:30:00,Lukas Ullrich,BallTouch
+659087,11,MissedShots,0.8019999694824219,0.30100000381469727,0.021867388859391212,Rocco Reitz,a,8826,OpenPlay,2025,RightFoot,30351,Borussia Dortmund,Borussia M.Gladbach,2,0,2025-12-19 19:30:00,,None
+662713,72,MissedShots,0.8180000305175781,0.24600000381469728,0.03715183585882187,Rocco Reitz,h,8826,OpenPlay,2025,RightFoot,30361,Borussia M.Gladbach,Augsburg,4,0,2026-01-11 14:30:00,Joe Scally,Pass
+665301,12,MissedShots,0.7330000305175781,0.44400001525878907,0.011827210895717144,Rocco Reitz,h,8826,SetPiece,2025,RightFoot,30388,Borussia M.Gladbach,VfB Stuttgart,0,3,2026-01-25 14:30:00,,None
+665904,13,MissedShots,0.855999984741211,0.605999984741211,0.052118830382823944,Rocco Reitz,a,8826,FromCorner,2025,RightFoot,30403,Werder Bremen,Borussia M.Gladbach,1,1,2026-01-31 14:30:00,,None
+665914,78,MissedShots,0.86,0.29100000381469726,0.060948196798563004,Rocco Reitz,a,8826,OpenPlay,2025,LeftFoot,30403,Werder Bremen,Borussia M.Gladbach,1,1,2026-01-31 14:30:00,Haris Tabakovic,LayOff
+667427,59,MissedShots,0.8919999694824219,0.495,0.03777283430099487,Rocco Reitz,h,8826,FromCorner,2025,Head,30405,Borussia M.Gladbach,Bayer Leverkusen,1,1,2026-02-07 17:30:00,Franck Honorat,Rebound
+668639,41,BlockedShot,0.9019999694824219,0.32799999237060545,0.0717708170413971,Rocco Reitz,a,8826,OpenPlay,2025,RightFoot,30416,Eintracht Frankfurt,Borussia M.Gladbach,3,0,2026-02-14 14:30:00,Franck Honorat,Pass
+671055,85,MissedShots,0.7759999847412109,0.6409999847412109,0.02381771057844162,Rocco Reitz,h,8826,OpenPlay,2025,LeftFoot,30433,Borussia M.Gladbach,Union Berlin,1,0,2026-02-28 14:30:00,Shuto Machino,Pass
+672350,1,SavedShot,0.7909999847412109,0.5459999847412109,0.02814239263534546,Rocco Reitz,a,8826,FromCorner,2025,LeftFoot,30440,Bayern Munich,Borussia M.Gladbach,4,1,2026-03-06 19:30:00,Haris Tabakovic,BallTouch
+675248,91,MissedShots,0.715,0.66,0.012375492602586746,Rocco Reitz,a,8826,OpenPlay,2025,RightFoot,30461,FC Cologne,Borussia M.Gladbach,3,3,2026-03-21 14:30:00,Hugo Bolin,Pass
+676547,36,BlockedShot,0.79,0.5479999923706055,0.03430856019258499,Rocco Reitz,h,8826,OpenPlay,2025,RightFoot,30468,Borussia M.Gladbach,FC Heidenheim,2,2,2026-04-04 13:30:00,Jens Castrop,Pass
+676558,65,MissedShots,0.745999984741211,0.2720000076293945,0.02131849154829979,Rocco Reitz,h,8826,FromCorner,2025,RightFoot,30468,Borussia M.Gladbach,FC Heidenheim,2,2,2026-04-04 13:30:00,Florian Neuhaus,Pass
+677804,22,BlockedShot,0.774000015258789,0.34599998474121096,0.02214580774307251,Rocco Reitz,a,8826,OpenPlay,2025,LeftFoot,30481,RasenBallsport Leipzig,Borussia M.Gladbach,1,0,2026-04-11 13:30:00,Joe Scally,Pass
+677806,23,BlockedShot,0.850999984741211,0.27600000381469725,0.020443357527256012,Rocco Reitz,a,8826,FromCorner,2025,RightFoot,30481,RasenBallsport Leipzig,Borussia M.Gladbach,1,0,2026-04-11 13:30:00,Jens Castrop,Dispossessed
+677809,34,BlockedShot,0.879000015258789,0.5470000076293945,0.08538571745157242,Rocco Reitz,a,8826,OpenPlay,2025,RightFoot,30481,RasenBallsport Leipzig,Borussia M.Gladbach,1,0,2026-04-11 13:30:00,Kevin Diks,HeadPass
+677827,83,BlockedShot,0.9180000305175782,0.45599998474121095,0.12479990720748901,Rocco Reitz,a,8826,SetPiece,2025,RightFoot,30481,RasenBallsport Leipzig,Borussia M.Gladbach,1,0,2026-04-11 13:30:00,,Rebound
+677833,95,MissedShots,0.769000015258789,0.37,0.014120304025709629,Rocco Reitz,a,8826,FromCorner,2025,RightFoot,30481,RasenBallsport Leipzig,Borussia M.Gladbach,1,0,2026-04-11 13:30:00,,Aerial
+679912,62,SavedShot,0.8730000305175781,0.41200000762939454,0.09569365531206131,Rocco Reitz,h,8826,OpenPlay,2025,RightFoot,30487,Borussia M.Gladbach,Mainz 05,1,1,2026-04-19 17:30:00,,None
+680860,55,MissedShots,0.7959999847412109,0.22600000381469726,0.019333893433213234,Rocco Reitz,a,8826,OpenPlay,2025,RightFoot,30502,Wolfsburg,Borussia M.Gladbach,0,0,2026-04-25 13:30:00,Franck Honorat,Pass
+683027,77,BlockedShot,0.914000015258789,0.5740000152587891,0.09700512886047363,Rocco Reitz,h,8826,OpenPlay,2025,RightFoot,30505,Borussia M.Gladbach,Borussia Dortmund,1,0,2026-05-03 15:30:00,Hugo Bolin,Cross
+683030,84,MissedShots,0.8619999694824219,0.4640000152587891,0.2873794436454773,Rocco Reitz,h,8826,OpenPlay,2025,LeftFoot,30505,Borussia M.Gladbach,Borussia Dortmund,1,0,2026-05-03 15:30:00,Franck Honorat,Cross
+683562,25,SavedShot,0.75,0.534000015258789,0.022923745214939117,Rocco Reitz,a,8826,OpenPlay,2025,RightFoot,30512,Augsburg,Borussia M.Gladbach,3,1,2026-05-09 13:30:00,Kevin Stöger,Pass

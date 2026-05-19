@@ -1,0 +1,16 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+58,34,MissedShots,0.860999984741211,0.8290000152587891,0.023184800520539284,Emmanuel Imorou,a,3622,OpenPlay,2014,LeftFoot,6187,Evian Thonon Gaillard,Caen,0,3,2014-08-09 20:00:00,Mathieu Duhamel,Pass
+5960,4,OwnGoal,0.020999999046325685,0.4979999923706055,0,Emmanuel Imorou,a,3622,OpenPlay,2014,LeftFoot,6100,Monaco,Caen,2,2,2014-11-22 19:00:00,,None
+4344,89,BlockedShot,0.695,0.585,0.012423800304532051,Emmanuel Imorou,a,3622,FromCorner,2014,LeftFoot,6043,Guingamp,Caen,5,1,2014-12-03 18:00:00,,None
+6041,59,MissedShots,0.924000015258789,0.56,0.5230640172958374,Emmanuel Imorou,h,3622,OpenPlay,2014,LeftFoot,5960,Caen,Saint-Etienne,1,0,2015-02-01 13:00:00,Julien Féret,Cross
+4851,15,BlockedShot,0.8519999694824218,0.5279999923706055,0.3829370141029358,Emmanuel Imorou,a,3622,OpenPlay,2014,LeftFoot,5991,Marseille,Caen,2,3,2015-02-27 19:30:00,,Rebound
+6354,56,SavedShot,0.850999984741211,0.7419999694824219,0.030667999759316444,Emmanuel Imorou,a,3622,OpenPlay,2014,LeftFoot,5913,Montpellier,Caen,1,0,2015-04-19 16:00:00,Nicolas Seube,Pass
+6170,26,BlockedShot,0.8,0.7290000152587891,0.01672069914638996,Emmanuel Imorou,h,3622,OpenPlay,2014,LeftFoot,5856,Caen,Lyon,3,0,2015-05-09 16:00:00,,None
+7127,25,MissedShots,0.9119999694824219,0.46799999237060547,0.42590299248695374,Emmanuel Imorou,h,3622,OpenPlay,2014,LeftFoot,5876,Caen,Evian Thonon Gaillard,3,2,2015-05-23 20:00:00,,Rebound
+63326,54,Goal,0.9459999847412109,0.5529999923706055,0.44959500432014465,Emmanuel Imorou,h,3622,OpenPlay,2015,LeftFoot,1943,Caen,GFC Ajaccio,2,0,2015-09-26 22:00:00,Dennis Appiah,Cross
+104226,85,BlockedShot,0.805,0.75,0.011878499761223793,Emmanuel Imorou,h,3622,OpenPlay,2016,LeftFoot,2289,Caen,Paris Saint Germain,0,6,2016-09-16 22:45:00,,None
+104113,39,BlockedShot,0.779000015258789,0.635,0.018937699496746063,Emmanuel Imorou,a,3622,FromCorner,2016,LeftFoot,2311,Bordeaux,Caen,0,0,2016-09-24 22:00:00,,None
+110944,22,MissedShots,0.875999984741211,0.7519999694824219,0.027263399213552475,Emmanuel Imorou,h,3622,OpenPlay,2016,LeftFoot,4261,Caen,Marseille,1,5,2017-04-30 14:00:00,,None
+225508,93,SavedShot,0.6609999847412109,0.045999999046325686,0.008370970375835896,Emmanuel Imorou,a,3622,OpenPlay,2018,LeftFoot,10700,Saint-Etienne,Caen,2,1,2018-09-22 18:00:00,Frederic Guilbert,Pass
+300968,3,MissedShots,0.905,0.66,0.07829129695892334,Emmanuel Imorou,h,3622,OpenPlay,2018,LeftFoot,10995,Caen,Reims,3,2,2019-05-11 19:00:00,Frederic Guilbert,Pass
+302837,23,MissedShots,0.715999984741211,0.710999984741211,0.011487799696624279,Emmanuel Imorou,a,3622,OpenPlay,2018,LeftFoot,11006,Lyon,Caen,4,0,2019-05-18 19:00:00,,BallRecovery

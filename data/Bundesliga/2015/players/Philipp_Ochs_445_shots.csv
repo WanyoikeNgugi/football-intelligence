@@ -1,0 +1,11 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+81169,26,BlockedShot,0.855999984741211,0.7090000152587891,0.030414799228310585,Philipp Ochs,h,445,SetPiece,2015,LeftFoot,1213,Hoffenheim,Mainz 05,3,2,2016-02-20 18:30:00,Nadiem Amiri,Pass
+82275,89,MissedShots,0.850999984741211,0.6930000305175781,0.05383329838514328,Philipp Ochs,a,445,OpenPlay,2015,LeftFoot,1257,Hamburger SV,Hoffenheim,1,3,2016-03-19 18:30:00,Mark Uth,Pass
+82541,78,MissedShots,0.8130000305175781,0.46099998474121096,0.038260601460933685,Philipp Ochs,h,445,FromCorner,2015,LeftFoot,1272,Hoffenheim,FC Cologne,1,1,2016-04-03 19:30:00,,None
+82985,38,SavedShot,0.749000015258789,0.4,0.014301899820566177,Philipp Ochs,h,445,SetPiece,2015,LeftFoot,1283,Hoffenheim,Hertha Berlin,2,1,2016-04-16 17:30:00,,Rebound
+83440,4,BlockedShot,0.865,0.68,0.04814400151371956,Philipp Ochs,h,445,OpenPlay,2015,LeftFoot,1302,Hoffenheim,Ingolstadt,2,1,2016-04-30 17:30:00,Jeremy Toljan,Pass
+83441,8,BlockedShot,0.8780000305175781,0.7069999694824218,0.039445001631975174,Philipp Ochs,h,445,OpenPlay,2015,LeftFoot,1302,Hoffenheim,Ingolstadt,2,1,2016-04-30 17:30:00,Andrej Kramaric,Pass
+167052,48,MissedShots,0.799000015258789,0.38599998474121094,0.028966400772333145,Philipp Ochs,a,445,OpenPlay,2017,LeftFoot,8316,Freiburg,Hoffenheim,3,2,2017-10-01 12:30:00,Sandro Wagner,Pass
+167055,53,SavedShot,0.7680000305175781,0.41900001525878905,0.01478120032697916,Philipp Ochs,a,445,FromCorner,2017,LeftFoot,8316,Freiburg,Hoffenheim,3,2,2017-10-01 12:30:00,,Aerial
+167068,90,SavedShot,0.965999984741211,0.415,0.07586450129747391,Philipp Ochs,a,445,OpenPlay,2017,Head,8316,Freiburg,Hoffenheim,3,2,2017-10-01 12:30:00,Kevin Vogt,Chipped
+167070,92,MissedShots,0.9569999694824218,0.41900001525878905,0.08643980324268341,Philipp Ochs,a,445,OpenPlay,2017,RightFoot,8316,Freiburg,Hoffenheim,3,2,2017-10-01 12:30:00,,None

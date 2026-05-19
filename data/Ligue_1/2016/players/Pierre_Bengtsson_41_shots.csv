@@ -1,0 +1,25 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+28465,14,MissedShots,0.750999984741211,0.5790000152587891,0.024911999702453613,Pierre Bengtsson,h,41,FromCorner,2014,LeftFoot,5306,Mainz 05,Paderborn,5,0,2015-01-31 14:30:00,Johannes Geis,Cross
+28477,42,MissedShots,0.799000015258789,0.7569999694824219,0.0239413995295763,Pierre Bengtsson,h,41,OpenPlay,2014,LeftFoot,5306,Mainz 05,Paderborn,5,0,2015-01-31 14:30:00,Johannes Geis,Pass
+29462,2,SavedShot,0.899000015258789,0.18299999237060546,0.06467100232839584,Pierre Bengtsson,h,41,DirectFreekick,2014,LeftFoot,5275,Mainz 05,Hertha Berlin,0,2,2015-02-07 14:30:00,,Standard
+29477,68,BlockedShot,0.769000015258789,0.6580000305175782,0.016635099425911903,Pierre Bengtsson,h,41,OpenPlay,2014,LeftFoot,5275,Mainz 05,Hertha Berlin,0,2,2015-02-07 14:30:00,,Dispossessed
+29479,72,SavedShot,0.7780000305175782,0.615999984741211,0.018057700246572495,Pierre Bengtsson,h,41,SetPiece,2014,LeftFoot,5275,Mainz 05,Hertha Berlin,0,2,2015-02-07 14:30:00,,None
+30420,82,SavedShot,0.8909999847412109,0.285,0.03755560144782066,Pierre Bengtsson,h,41,SetPiece,2014,LeftFoot,5181,Mainz 05,FC Cologne,2,0,2015-05-16 14:30:00,Johannes Geis,TakeOn
+76263,15,BlockedShot,0.7880000305175782,0.41700000762939454,0.10023000091314316,Pierre Bengtsson,h,41,DirectFreekick,2015,LeftFoot,1025,Mainz 05,Ingolstadt,0,1,2015-08-15 17:30:00,,Standard
+76801,79,MissedShots,0.759000015258789,0.5729999923706055,0.018350500613451004,Pierre Bengtsson,a,41,FromCorner,2015,LeftFoot,1056,Schalke 04,Mainz 05,2,1,2015-09-13 19:30:00,,None
+78121,10,MissedShots,0.7930000305175782,0.3370000076293945,0.07946380227804184,Pierre Bengtsson,h,41,DirectFreekick,2015,LeftFoot,1093,Mainz 05,Borussia Dortmund,0,2,2015-10-16 22:30:00,,Standard
+78146,89,SavedShot,0.754000015258789,0.77,0.010951999574899673,Pierre Bengtsson,h,41,OpenPlay,2015,LeftFoot,1093,Mainz 05,Borussia Dortmund,0,2,2015-10-16 22:30:00,Julian Baumgartlinger,Pass
+79450,36,SavedShot,0.899000015258789,0.750999984741211,0.040784500539302826,Pierre Bengtsson,a,41,OpenPlay,2015,LeftFoot,1149,Hamburger SV,Mainz 05,1,3,2015-12-05 18:30:00,Jairo Samperio,Pass
+103643,81,Goal,0.779000015258789,0.37599998474121094,0.07803770154714584,Pierre Bengtsson,h,41,DirectFreekick,2016,LeftFoot,2281,SC Bastia,Toulouse,2,1,2016-09-10 22:00:00,,Standard
+104191,82,SavedShot,0.705999984741211,0.7030000305175781,0.01682260073721409,Pierre Bengtsson,h,41,OpenPlay,2016,LeftFoot,2314,SC Bastia,Guingamp,1,0,2016-09-24 22:00:00,Sébastien Squillaci,Pass
+104707,47,MissedShots,0.88,0.81,0.019415700808167458,Pierre Bengtsson,a,41,OpenPlay,2016,LeftFoot,2323,Nantes,SC Bastia,1,0,2016-10-01 22:00:00,Lenny Nangis,Pass
+105526,67,SavedShot,0.759000015258789,0.32599998474121095,0.053715698421001434,Pierre Bengtsson,h,41,DirectFreekick,2016,LeftFoot,3320,SC Bastia,Dijon,0,0,2016-10-29 22:00:00,,Standard
+105530,89,SavedShot,0.8180000305175781,0.5570000076293945,0.05606450140476227,Pierre Bengtsson,h,41,OpenPlay,2016,LeftFoot,3320,SC Bastia,Dijon,0,0,2016-10-29 22:00:00,Thievy,Pass
+105315,85,OwnGoal,0.13199999809265137,0.7190000152587891,0,Pierre Bengtsson,a,41,OpenPlay,2016,LeftFoot,2836,Lyon,SC Bastia,2,1,2016-11-05 23:00:00,,BallTouch
+107748,86,MissedShots,0.7030000305175781,0.42900001525878906,0.03925679996609688,Pierre Bengtsson,h,41,DirectFreekick,2016,LeftFoot,2869,SC Bastia,Bordeaux,1,1,2016-11-30 22:00:00,,Standard
+106398,26,MissedShots,0.7269999694824218,0.6819999694824219,0.039331499487161636,Pierre Bengtsson,a,41,DirectFreekick,2016,LeftFoot,3234,Monaco,SC Bastia,5,0,2016-12-03 23:00:00,,Standard
+106411,89,MissedShots,0.7809999847412109,0.639000015258789,0.01904349960386753,Pierre Bengtsson,a,41,FromCorner,2016,LeftFoot,3234,Monaco,SC Bastia,5,0,2016-12-03 23:00:00,,None
+111251,15,MissedShots,0.865,0.740999984741211,0.016912899911403656,Pierre Bengtsson,h,41,OpenPlay,2016,LeftFoot,4171,SC Bastia,Monaco,1,1,2017-02-17 19:45:00,Prince Oniangué,Cross
+109373,36,SavedShot,0.87,0.195,0.06137530133128166,Pierre Bengtsson,h,41,DirectFreekick,2016,LeftFoot,4189,SC Bastia,Saint-Etienne,0,0,2017-03-04 19:00:00,,Standard
+109163,32,BlockedShot,0.895,0.6079999923706054,0.0965903028845787,Pierre Bengtsson,h,41,OpenPlay,2016,LeftFoot,4219,SC Bastia,Lille,0,1,2017-04-01 18:00:00,Lassana Coulibaly,Pass
+112022,57,SavedShot,0.735999984741211,0.585,0.02176639996469021,Pierre Bengtsson,h,41,OpenPlay,2016,RightFoot,4279,SC Bastia,Lorient,2,0,2017-05-14 20:00:00,Mehdi Mostefa,Pass

@@ -1,0 +1,185 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+29970,28,MissedShots,0.7809999847412109,0.35700000762939454,0.022820599377155304,Mitchell Weiser,a,28,OpenPlay,2014,LeftFoot,5274,VfB Stuttgart,Bayern Munich,0,2,2015-02-07 14:30:00,,None
+28666,77,Goal,0.9030000305175782,0.2929999923706055,0.3058130145072937,Mitchell Weiser,a,28,OpenPlay,2014,RightFoot,5294,Paderborn,Bayern Munich,0,6,2015-02-21 14:30:00,Sebastian Rode,Chipped
+32019,6,MissedShots,0.879000015258789,0.3820000076293945,0.0698717013001442,Mitchell Weiser,a,28,OpenPlay,2014,RightFoot,5215,Hoffenheim,Bayern Munich,0,2,2015-04-18 14:30:00,,None
+32034,64,BlockedShot,0.9059999847412109,0.38599998474121094,0.11754699796438217,Mitchell Weiser,a,28,OpenPlay,2014,LeftFoot,5215,Hoffenheim,Bayern Munich,0,2,2015-04-18 14:30:00,Thomas Müller,Pass
+31326,42,BlockedShot,0.865,0.33599998474121096,0.061008699238300323,Mitchell Weiser,h,28,OpenPlay,2014,LeftFoot,5169,Bayern Munich,Augsburg,0,1,2015-05-09 14:30:00,Mario Götze,Pass
+31331,59,SavedShot,0.8530000305175781,0.26799999237060546,0.04440610110759735,Mitchell Weiser,h,28,OpenPlay,2014,RightFoot,5169,Bayern Munich,Augsburg,0,1,2015-05-09 14:30:00,Robert Lewandowski,LayOff
+30806,83,MissedShots,0.769000015258789,0.3340000152587891,0.02401450090110302,Mitchell Weiser,a,28,OpenPlay,2014,RightFoot,5185,Freiburg,Bayern Munich,2,1,2015-05-16 14:30:00,Thiago Alcántara,Pass
+77355,30,BlockedShot,0.8219999694824218,0.3220000076293945,0.03196049854159355,Mitchell Weiser,h,28,OpenPlay,2015,LeftFoot,1067,Hertha Berlin,FC Cologne,2,0,2015-09-22 22:00:00,Genki Haraguchi,Pass
+77633,85,BlockedShot,0.845,0.255,0.02698430046439171,Mitchell Weiser,a,28,OpenPlay,2015,LeftFoot,1082,Eintracht Frankfurt,Hertha Berlin,1,1,2015-09-27 17:30:00,Genki Haraguchi,Pass
+77944,66,ShotOnPost,0.8719999694824219,0.295,0.039136700332164764,Mitchell Weiser,a,28,OpenPlay,2015,RightFoot,1096,Schalke 04,Hertha Berlin,2,1,2015-10-17 17:30:00,,BallTouch
+78345,10,Goal,0.85,0.39,0.05939609929919243,Mitchell Weiser,a,28,OpenPlay,2015,LeftFoot,1108,Ingolstadt,Hertha Berlin,0,1,2015-10-24 20:30:00,,None
+78619,78,MissedShots,0.9369999694824219,0.495,0.5281810164451599,Mitchell Weiser,h,28,OpenPlay,2015,Head,1113,Hertha Berlin,Borussia M.Gladbach,1,4,2015-10-31 18:30:00,,Rebound
+79566,2,BlockedShot,0.8859999847412109,0.36900001525878906,0.06749869883060455,Mitchell Weiser,h,28,OpenPlay,2015,LeftFoot,1151,Hertha Berlin,Bayer Leverkusen,2,1,2015-12-05 18:30:00,,None
+80230,3,MissedShots,0.865,0.66,0.07401999831199646,Mitchell Weiser,h,28,FromCorner,2015,RightFoot,1177,Hertha Berlin,Augsburg,0,0,2016-01-23 18:30:00,,TakeOn
+80688,65,BlockedShot,0.8130000305175781,0.534000015258789,0.03857560083270073,Mitchell Weiser,h,28,FromCorner,2015,LeftFoot,1196,Hertha Berlin,Borussia Dortmund,0,0,2016-02-06 18:30:00,,None
+81596,42,MissedShots,0.8959999847412109,0.5570000076293945,0.048464998602867126,Mitchell Weiser,h,28,OpenPlay,2015,Head,1231,Hertha Berlin,Eintracht Frankfurt,2,0,2016-03-02 23:00:00,Genki Haraguchi,Aerial
+81601,61,MissedShots,0.9390000152587891,0.48400001525878905,0.086496502161026,Mitchell Weiser,h,28,FromCorner,2015,Head,1231,Hertha Berlin,Eintracht Frankfurt,2,0,2016-03-02 23:00:00,Vedad Ibisevic,HeadPass
+81602,62,Goal,0.835999984741211,0.43099998474121093,0.07591100037097931,Mitchell Weiser,h,28,OpenPlay,2015,LeftFoot,1231,Hertha Berlin,Eintracht Frankfurt,2,0,2016-03-02 23:00:00,Salomon Kalou,Pass
+82497,87,MissedShots,0.799000015258789,0.31799999237060544,0.01419840008020401,Mitchell Weiser,a,28,OpenPlay,2015,RightFoot,1271,Borussia M.Gladbach,Hertha Berlin,5,0,2016-04-03 17:30:00,Marvin Plattenhardt,Chipped
+83254,19,BlockedShot,0.8730000305175781,0.3940000152587891,0.08573590219020844,Mitchell Weiser,h,28,OpenPlay,2015,LeftFoot,1295,Hertha Berlin,Bayern Munich,0,2,2016-04-23 17:30:00,Valentin Stocker,Pass
+83684,33,BlockedShot,0.8930000305175781,0.6,0.13243399560451508,Mitchell Weiser,h,28,OpenPlay,2015,RightFoot,1316,Hertha Berlin,Darmstadt,1,2,2016-05-07 17:30:00,Genki Haraguchi,Pass
+83700,90,SavedShot,0.870999984741211,0.5509999847412109,0.05951999872922897,Mitchell Weiser,h,28,OpenPlay,2015,RightFoot,1316,Hertha Berlin,Darmstadt,1,2,2016-05-07 17:30:00,Julian Schieber,HeadPass
+127652,29,MissedShots,0.8030000305175782,0.3509999847412109,0.030889000743627548,Mitchell Weiser,h,28,OpenPlay,2016,RightFoot,1334,Hertha Berlin,Freiburg,2,1,2016-08-28 17:30:00,Fabian Lustenberger,Pass
+128240,4,MissedShots,0.91,0.53,0.11559700220823288,Mitchell Weiser,h,28,SetPiece,2016,Head,1353,Hertha Berlin,Schalke 04,2,0,2016-09-18 19:30:00,Marvin Plattenhardt,Cross
+128253,63,Goal,0.9009999847412109,0.33099998474121095,0.07064279913902283,Mitchell Weiser,h,28,OpenPlay,2016,RightFoot,1353,Hertha Berlin,Schalke 04,2,0,2016-09-18 19:30:00,Peter Pekarík,Pass
+128899,14,ShotOnPost,0.879000015258789,0.34799999237060547,0.0727045014500618,Mitchell Weiser,h,28,OpenPlay,2016,RightFoot,1374,Hertha Berlin,Hamburger SV,2,0,2016-10-01 17:30:00,Alexander Esswein,Pass
+129611,44,MissedShots,0.774000015258789,0.36400001525878906,0.02328220009803772,Mitchell Weiser,h,28,OpenPlay,2016,LeftFoot,2806,Hertha Berlin,Borussia M.Gladbach,3,0,2016-11-04 23:30:00,Vedad Ibisevic,Pass
+133449,76,MissedShots,0.9719999694824218,0.42200000762939455,0.12467899918556213,Mitchell Weiser,a,28,OpenPlay,2016,LeftFoot,3872,Darmstadt,Hertha Berlin,0,2,2017-05-13 14:30:00,,None
+127795,8,MissedShots,0.8580000305175781,0.4420000076293945,0.3722879886627197,Mitchell Weiser,h,28,OpenPlay,2016,RightFoot,3877,Hertha Berlin,Bayer Leverkusen,2,6,2017-05-20 14:30:00,,None
+127800,23,MissedShots,0.9119999694824219,0.49900001525878906,0.05578469857573509,Mitchell Weiser,h,28,SetPiece,2016,Head,3877,Hertha Berlin,Bayer Leverkusen,2,6,2017-05-20 14:30:00,Marvin Plattenhardt,Aerial
+127804,34,SavedShot,0.7480000305175781,0.5709999847412109,0.019092999398708344,Mitchell Weiser,h,28,OpenPlay,2016,RightFoot,3877,Hertha Berlin,Bayer Leverkusen,2,6,2017-05-20 14:30:00,Salomon Kalou,Pass
+127815,70,Goal,0.99,0.45099998474121095,0.6617609858512878,Mitchell Weiser,h,28,OpenPlay,2016,RightFoot,3877,Hertha Berlin,Bayer Leverkusen,2,6,2017-05-20 14:30:00,Sami Allagui,None
+167183,14,MissedShots,0.88,0.46,0.026536399498581886,Mitchell Weiser,a,28,OpenPlay,2017,Head,8292,Hoffenheim,Hertha Berlin,1,1,2017-09-17 12:30:00,Alexander Esswein,Aerial
+167192,73,BlockedShot,0.899000015258789,0.645,0.058099500834941864,Mitchell Weiser,a,28,OpenPlay,2017,RightFoot,8292,Hoffenheim,Hertha Berlin,1,1,2017-09-17 12:30:00,Fabian Lustenberger,Chipped
+167871,70,Goal,0.9369999694824219,0.33799999237060546,0.06380879878997803,Mitchell Weiser,h,28,SetPiece,2017,RightFoot,8360,Hertha Berlin,Borussia M.Gladbach,2,4,2017-11-18 17:30:00,Salomon Kalou,Pass
+168914,90,BlockedShot,0.784000015258789,0.6140000152587891,0.027260400354862213,Mitchell Weiser,h,28,OpenPlay,2017,LeftFoot,8378,Hertha Berlin,Eintracht Frankfurt,1,2,2017-12-03 14:30:00,,None
+183939,4,MissedShots,0.9390000152587891,0.6079999923706054,0.087049201130867,Mitchell Weiser,h,28,OpenPlay,2017,RightFoot,8396,Hertha Berlin,Hannover 96,3,1,2017-12-13 19:30:00,Valentino Lazaro,Cross
+183940,5,SavedShot,0.830999984741211,0.3629999923706055,0.05244920030236244,Mitchell Weiser,h,28,OpenPlay,2017,LeftFoot,8396,Hertha Berlin,Hannover 96,3,1,2017-12-13 19:30:00,Davie Selke,Pass
+187346,88,MissedShots,0.8209999847412109,0.23100000381469726,0.016676299273967743,Mitchell Weiser,a,28,OpenPlay,2017,RightFoot,8420,VfB Stuttgart,Hertha Berlin,1,0,2018-01-13 14:30:00,,None
+188403,19,MissedShots,0.7909999847412109,0.38299999237060545,0.02022710070014,Mitchell Weiser,h,28,OpenPlay,2017,LeftFoot,8423,Hertha Berlin,Borussia Dortmund,1,1,2018-01-19 19:30:00,Valentino Lazaro,HeadPass
+196177,78,SavedShot,0.8109999847412109,0.495,0.04116009920835495,Mitchell Weiser,h,28,OpenPlay,2017,RightFoot,8458,Hertha Berlin,Mainz 05,0,2,2018-02-16 19:30:00,,None
+199940,17,SavedShot,0.7930000305175782,0.46900001525878904,0.04661469906568527,Mitchell Weiser,h,28,OpenPlay,2017,RightFoot,8490,Hertha Berlin,Freiburg,0,0,2018-03-10 14:30:00,Salomon Kalou,Pass
+199941,18,MissedShots,0.7919999694824219,0.67,0.024022599682211876,Mitchell Weiser,h,28,OpenPlay,2017,RightFoot,8490,Hertha Berlin,Freiburg,0,0,2018-03-10 14:30:00,Salomon Kalou,Pass
+199946,26,MissedShots,0.8669999694824219,0.5570000076293945,0.02038690075278282,Mitchell Weiser,h,28,FromCorner,2017,Head,8490,Hertha Berlin,Freiburg,0,0,2018-03-10 14:30:00,Valentino Lazaro,Cross
+204530,69,BlockedShot,0.8230000305175781,0.3189999961853027,0.03413090109825134,Mitchell Weiser,h,28,OpenPlay,2017,LeftFoot,8505,Hertha Berlin,Wolfsburg,0,0,2018-03-31 14:30:00,Mathew Leckie,Pass
+208361,25,SavedShot,0.8009999847412109,0.36900001525878906,0.02417209930717945,Mitchell Weiser,h,28,FromCorner,2017,RightFoot,8522,Hertha Berlin,FC Cologne,2,1,2018-04-14 13:30:00,,None
+221626,17,SavedShot,0.860999984741211,0.28,0.034859299659729004,Mitchell Weiser,h,28,OpenPlay,2018,LeftFoot,10351,Bayer Leverkusen,Wolfsburg,1,3,2018-09-01 13:30:00,Kevin Volland,Pass
+228230,8,Goal,0.8019999694824219,0.3189999961853027,0.017509400844573975,Mitchell Weiser,h,28,OpenPlay,2018,RightFoot,10388,Bayer Leverkusen,Borussia Dortmund,2,4,2018-09-29 16:30:00,Lucas Alario,Cross
+256033,21,BlockedShot,0.799000015258789,0.5320000076293945,0.07580330222845078,Mitchell Weiser,h,28,OpenPlay,2018,LeftFoot,10424,Bayer Leverkusen,Hoffenheim,1,4,2018-11-03 14:30:00,Kai Havertz,Pass
+257552,91,SavedShot,0.9219999694824219,0.43099998474121093,0.12143400311470032,Mitchell Weiser,a,28,OpenPlay,2018,Head,10473,Schalke 04,Bayer Leverkusen,1,2,2018-12-19 17:30:00,Leon Bailey,Cross
+257908,79,MissedShots,0.865,0.38,0.03977020084857941,Mitchell Weiser,h,28,FromCorner,2018,LeftFoot,10484,Bayer Leverkusen,Hertha Berlin,3,1,2018-12-22 14:30:00,Leon Bailey,Cross
+257913,92,MissedShots,0.8580000305175781,0.375,0.10135000199079514,Mitchell Weiser,h,28,OpenPlay,2018,RightFoot,10484,Bayer Leverkusen,Hertha Berlin,3,1,2018-12-22 14:30:00,Karim Bellarabi,Pass
+278982,87,MissedShots,0.8059999847412109,0.33799999237060546,0.015707900747656822,Mitchell Weiser,a,28,FromCorner,2018,RightFoot,10524,Mainz 05,Bayer Leverkusen,1,5,2019-02-08 19:30:00,,Aerial
+279330,65,SavedShot,0.8580000305175781,0.16299999237060547,0.018615499138832092,Mitchell Weiser,h,28,OpenPlay,2018,RightFoot,10527,Bayer Leverkusen,Fortuna Duesseldorf,2,0,2019-02-17 17:00:00,,None
+279556,76,MissedShots,0.830999984741211,0.23899999618530274,0.01891840063035488,Mitchell Weiser,a,28,OpenPlay,2018,RightFoot,10536,Borussia Dortmund,Bayer Leverkusen,3,2,2019-02-24 17:00:00,,None
+279664,6,MissedShots,0.89,0.36,0.09305170178413391,Mitchell Weiser,h,28,OpenPlay,2018,RightFoot,10545,Bayer Leverkusen,Freiburg,2,0,2019-03-02 14:30:00,Kevin Volland,Pass
+285299,72,OwnGoal,0.022999999523162843,0.485,0,Mitchell Weiser,a,28,SetPiece,2018,RightFoot,10561,Hannover 96,Bayer Leverkusen,2,3,2019-03-10 17:00:00,,Save
+287173,57,SavedShot,0.7959999847412109,0.6780000305175782,0.03524180129170418,Mitchell Weiser,a,28,FromCorner,2018,RightFoot,10571,Hoffenheim,Bayer Leverkusen,4,1,2019-03-29 19:30:00,Leon Bailey,Pass
+295151,51,SavedShot,0.745,0.675,0.01677129976451397,Mitchell Weiser,h,28,FromCorner,2018,RightFoot,10599,Bayer Leverkusen,Nuernberg,2,0,2019-04-20 14:30:00,,BallRecovery
+320258,71,MissedShots,0.8580000305175781,0.33,0.07145319879055023,Mitchell Weiser,h,28,OpenPlay,2019,RightFoot,12443,Bayer Leverkusen,Union Berlin,2,0,2019-09-21 13:30:00,Nadiem Amiri,Pass
+327421,83,MissedShots,0.775,0.6079999923706054,0.02523539960384369,Mitchell Weiser,h,28,OpenPlay,2019,RightFoot,12475,Bayer Leverkusen,Werder Bremen,2,2,2019-10-26 17:30:00,Lucas Alario,Pass
+329122,64,MissedShots,0.7619999694824219,0.28899999618530275,0.01790729910135269,Mitchell Weiser,h,28,OpenPlay,2019,RightFoot,12486,Bayer Leverkusen,Borussia M.Gladbach,1,2,2019-11-02 14:30:00,Kai Havertz,Pass
+360255,52,MissedShots,0.875999984741211,0.509000015258789,0.3729020059108734,Mitchell Weiser,h,28,OpenPlay,2019,RightFoot,12602,Bayer Leverkusen,Augsburg,2,0,2020-02-23 14:30:00,Kai Havertz,Pass
+363103,60,Goal,0.9519999694824218,0.5059999847412109,0.6303949952125549,Mitchell Weiser,a,28,OpenPlay,2019,Head,12631,Werder Bremen,Bayer Leverkusen,1,4,2020-05-18 18:30:00,Moussa Diaby,Aerial
+366861,46,ShotOnPost,0.9690000152587891,0.455,0.5576879978179932,Mitchell Weiser,h,28,SetPiece,2019,Head,12701,Bayer Leverkusen,Mainz 05,1,0,2020-06-27 13:30:00,Nadiem Amiri,Cross
+366863,51,BlockedShot,0.975,0.4279999923706055,0.06384660303592682,Mitchell Weiser,h,28,FromCorner,2019,Head,12701,Bayer Leverkusen,Mainz 05,1,0,2020-06-27 13:30:00,Sven Bender,Aerial
+387330,87,SavedShot,0.86,0.36,0.021942999213933945,Mitchell Weiser,a,28,FromCorner,2020,RightFoot,15207,Arminia Bielefeld,Bayer Leverkusen,1,2,2020-11-21 14:30:00,,Aerial
+393163,7,Goal,0.8480000305175781,0.4209999847412109,0.05831560119986534,Mitchell Weiser,a,28,SetPiece,2020,LeftFoot,15241,FC Cologne,Bayer Leverkusen,0,4,2020-12-16 19:30:00,,None
+479164,2,MissedShots,0.8530000305175781,0.44799999237060545,0.07066330313682556,Mitchell Weiser,a,28,OpenPlay,2022,RightFoot,19345,Wolfsburg,Werder Bremen,2,2,2022-08-06 13:30:00,,None
+484510,37,SavedShot,0.8240000152587891,0.3129999923706055,0.03224660083651543,Mitchell Weiser,h,28,OpenPlay,2022,RightFoot,19377,Werder Bremen,Eintracht Frankfurt,3,4,2022-08-28 15:30:00,Niclas Füllkrug,Pass
+484518,74,MissedShots,0.779000015258789,0.34700000762939454,0.022450299933552742,Mitchell Weiser,h,28,OpenPlay,2022,LeftFoot,19377,Werder Bremen,Eintracht Frankfurt,3,4,2022-08-28 15:30:00,Niclas Füllkrug,TakeOn
+485728,19,BlockedShot,0.8440000152587891,0.5770000076293945,0.061303701251745224,Mitchell Weiser,a,28,OpenPlay,2022,LeftFoot,19383,Bochum,Werder Bremen,0,2,2022-09-03 13:30:00,,None
+487224,19,MissedShots,0.7809999847412109,0.40200000762939453,0.021670600399374962,Mitchell Weiser,h,28,FromCorner,2022,RightFoot,19387,Werder Bremen,Augsburg,0,1,2022-09-09 18:30:00,,None
+487233,58,SavedShot,0.7609999847412109,0.37900001525878907,0.023113099858164787,Mitchell Weiser,h,28,OpenPlay,2022,LeftFoot,19387,Werder Bremen,Augsburg,0,1,2022-09-09 18:30:00,Christian Groß,Pass
+490327,34,MissedShots,0.7380000305175781,0.5120000076293946,0.02534390054643154,Mitchell Weiser,h,28,FromCorner,2022,RightFoot,19413,Werder Bremen,Borussia M.Gladbach,5,1,2022-10-01 16:30:00,Marvin Ducksch,Pass
+490335,58,ShotOnPost,0.9459999847412109,0.46099998474121096,0.5401660203933716,Mitchell Weiser,h,28,OpenPlay,2022,Head,19413,Werder Bremen,Borussia M.Gladbach,5,1,2022-10-01 16:30:00,Niclas Füllkrug,Cross
+490338,72,Goal,0.8980000305175782,0.524000015258789,0.5270429849624634,Mitchell Weiser,h,28,OpenPlay,2022,LeftFoot,19413,Werder Bremen,Borussia M.Gladbach,5,1,2022-10-01 16:30:00,Niclas Füllkrug,Pass
+491292,68,MissedShots,0.8480000305175781,0.5070000076293946,0.0936330035328865,Mitchell Weiser,a,28,OpenPlay,2022,RightFoot,19417,Hoffenheim,Werder Bremen,1,2,2022-10-07 18:30:00,Niclas Füllkrug,Pass
+491294,79,MissedShots,0.8630000305175781,0.27700000762939453,0.04016619920730591,Mitchell Weiser,a,28,FromCorner,2022,RightFoot,19417,Hoffenheim,Werder Bremen,1,2,2022-10-07 18:30:00,Leonardo Bittencourt,Pass
+496161,40,BlockedShot,0.9540000152587891,0.41200000762939454,0.07987180352210999,Mitchell Weiser,h,28,FromCorner,2022,RightFoot,19449,Werder Bremen,Hertha Berlin,1,0,2022-10-28 18:30:00,Marvin Ducksch,Cross
+496167,60,BlockedShot,0.865999984741211,0.43900001525878907,0.08571670204401016,Mitchell Weiser,h,28,OpenPlay,2022,LeftFoot,19449,Werder Bremen,Hertha Berlin,1,0,2022-10-28 18:30:00,,BallTouch
+496173,81,SavedShot,0.9159999847412109,0.47200000762939454,0.4950540065765381,Mitchell Weiser,h,28,OpenPlay,2022,RightFoot,19449,Werder Bremen,Hertha Berlin,1,0,2022-10-28 18:30:00,,None
+504803,36,BlockedShot,0.9109999847412109,0.35400001525878905,0.06840310245752335,Mitchell Weiser,a,28,OpenPlay,2022,RightFoot,19480,FC Cologne,Werder Bremen,7,1,2023-01-21 17:30:00,Niclas Füllkrug,BallTouch
+504805,40,SavedShot,0.82,0.3220000076293945,0.022767499089241028,Mitchell Weiser,a,28,OpenPlay,2022,LeftFoot,19480,FC Cologne,Werder Bremen,7,1,2023-01-21 17:30:00,Niclas Füllkrug,Dispossessed
+505741,32,MissedShots,0.8630000305175781,0.4209999847412109,0.06905189901590347,Mitchell Weiser,h,28,OpenPlay,2022,LeftFoot,19503,Werder Bremen,Wolfsburg,2,1,2023-01-28 14:30:00,Jens Stage,Cross
+508260,22,SavedShot,0.8390000152587891,0.5609999847412109,0.05141130089759827,Mitchell Weiser,h,28,FromCorner,2022,LeftFoot,19521,Werder Bremen,Borussia Dortmund,0,2,2023-02-11 14:30:00,,None
+508265,40,SavedShot,0.9030000305175782,0.5770000076293945,0.027567999437451363,Mitchell Weiser,h,28,SetPiece,2022,Head,19521,Werder Bremen,Borussia Dortmund,0,2,2023-02-11 14:30:00,,None
+514253,54,BlockedShot,0.7480000305175781,0.44299999237060544,0.023201899603009224,Mitchell Weiser,h,28,OpenPlay,2022,LeftFoot,19557,Werder Bremen,Bayer Leverkusen,2,3,2023-03-12 16:30:00,Niklas Schmidt,Pass
+514586,39,MissedShots,0.9369999694824219,0.4379999923706055,0.13098500669002533,Mitchell Weiser,a,28,OpenPlay,2022,Head,19563,Borussia M.Gladbach,Werder Bremen,2,2,2023-03-17 19:30:00,Niklas Schmidt,Cross
+517134,73,MissedShots,0.7780000305175782,0.45099998474121095,0.023411400616168976,Mitchell Weiser,h,28,OpenPlay,2022,LeftFoot,19573,Werder Bremen,Hoffenheim,1,2,2023-04-02 15:30:00,,None
+517877,20,MissedShots,0.860999984741211,0.425,0.06210140138864517,Mitchell Weiser,a,28,FromCorner,2022,RightFoot,19579,Mainz 05,Werder Bremen,2,2,2023-04-08 13:30:00,,None
+520101,68,MissedShots,0.86,0.534000015258789,0.04300260171294212,Mitchell Weiser,h,28,SetPiece,2022,LeftFoot,19593,Werder Bremen,Freiburg,1,2,2023-04-16 13:30:00,Anthony Jung,Cross
+520728,19,MissedShots,0.7819999694824219,0.5329999923706055,0.02481745555996895,Mitchell Weiser,a,28,FromCorner,2022,RightFoot,19602,Hertha Berlin,Werder Bremen,2,4,2023-04-22 13:30:00,,None
+520743,62,Goal,0.8730000305175781,0.47900001525878905,0.44709938764572144,Mitchell Weiser,a,28,OpenPlay,2022,LeftFoot,19602,Hertha Berlin,Werder Bremen,2,4,2023-04-22 13:30:00,,BallRecovery
+522908,47,MissedShots,0.7019999694824218,0.3920000076293945,0.009606038220226765,Mitchell Weiser,a,28,FromCorner,2022,RightFoot,19611,Schalke 04,Werder Bremen,2,1,2023-04-29 16:30:00,Maximilian Philipp,HeadPass
+524803,57,MissedShots,0.894000015258789,0.5459999847412109,0.12568937242031097,Mitchell Weiser,h,28,OpenPlay,2022,RightFoot,19620,Werder Bremen,Bayern Munich,1,2,2023-05-06 16:30:00,Marvin Ducksch,Pass
+524806,68,MissedShots,0.835,0.49700000762939456,0.07174918800592422,Mitchell Weiser,h,28,OpenPlay,2022,RightFoot,19620,Werder Bremen,Bayern Munich,1,2,2023-05-06 16:30:00,Romano Schmid,Pass
+532862,45,MissedShots,0.84,0.48,0.02548092044889927,Mitchell Weiser,h,28,OpenPlay,2023,LeftFoot,23065,Werder Bremen,Bayern Munich,0,4,2023-08-18 18:30:00,,Aerial
+534609,16,MissedShots,0.8090000152587891,0.48400001525878905,0.03710872307419777,Mitchell Weiser,a,28,FromCorner,2023,RightFoot,23075,Freiburg,Werder Bremen,1,0,2023-08-26 13:30:00,,None
+534610,17,MissedShots,0.8730000305175781,0.5629999923706055,0.06934943795204163,Mitchell Weiser,a,28,OpenPlay,2023,LeftFoot,23075,Freiburg,Werder Bremen,1,0,2023-08-26 13:30:00,Anthony Jung,Cross
+534627,58,BlockedShot,0.8580000305175781,0.3129999923706055,0.04044325649738312,Mitchell Weiser,a,28,OpenPlay,2023,RightFoot,23075,Freiburg,Werder Bremen,1,0,2023-08-26 13:30:00,Romano Schmid,Pass
+538285,27,MissedShots,0.88,0.5159999847412109,0.10572177916765213,Mitchell Weiser,a,28,OpenPlay,2023,RightFoot,23099,FC Heidenheim,Werder Bremen,4,2,2023-09-17 13:30:00,Jens Stage,Pass
+538298,63,Goal,0.9230000305175782,0.5059999847412109,0.38453322649002075,Mitchell Weiser,a,28,OpenPlay,2023,Head,23099,FC Heidenheim,Werder Bremen,4,2,2023-09-17 13:30:00,Olivier Deman,Cross
+539334,46,MissedShots,0.899000015258789,0.5670000076293945,0.06881637871265411,Mitchell Weiser,h,28,OpenPlay,2023,Head,23107,Werder Bremen,FC Cologne,2,1,2023-09-23 16:30:00,Santos Borré,Cross
+542871,45,BlockedShot,0.889000015258789,0.38599998474121094,0.08615807443857193,Mitchell Weiser,h,28,OpenPlay,2023,RightFoot,23124,Werder Bremen,Hoffenheim,2,3,2023-10-07 16:30:00,Justin Njinmah,Pass
+547427,45,BlockedShot,0.87,0.4620000076293945,0.0184177253395319,Mitchell Weiser,a,28,OpenPlay,2023,Head,23149,Wolfsburg,Werder Bremen,2,2,2023-11-05 14:30:00,Leonardo Bittencourt,Aerial
+547437,71,BlockedShot,0.8730000305175781,0.4859999847412109,0.032812148332595825,Mitchell Weiser,a,28,FromCorner,2023,Head,23149,Wolfsburg,Werder Bremen,2,2,2023-11-05 14:30:00,Olivier Deman,Cross
+549162,90,MissedShots,0.78,0.49700000762939456,0.02460448071360588,Mitchell Weiser,h,28,FromCorner,2023,LeftFoot,23159,Werder Bremen,Eintracht Frankfurt,2,2,2023-11-12 16:30:00,,None
+551274,48,BlockedShot,0.8780000305175781,0.6719999694824219,0.046031754463911057,Mitchell Weiser,a,28,OpenPlay,2023,LeftFoot,23180,VfB Stuttgart,Werder Bremen,2,0,2023-12-02 17:30:00,Leonardo Bittencourt,Pass
+551289,93,MissedShots,0.91,0.34400001525878904,0.011271156370639801,Mitchell Weiser,a,28,FromCorner,2023,Head,23180,VfB Stuttgart,Werder Bremen,2,0,2023-12-02 17:30:00,Romano Schmid,Aerial
+552771,37,SavedShot,0.785,0.46900001525878904,0.035222314298152924,Mitchell Weiser,h,28,FromCorner,2023,RightFoot,23188,Werder Bremen,Augsburg,2,0,2023-12-09 14:30:00,Marvin Ducksch,Pass
+552773,50,BlockedShot,0.749000015258789,0.38299999237060545,0.02092207409441471,Mitchell Weiser,h,28,OpenPlay,2023,LeftFoot,23188,Werder Bremen,Augsburg,2,0,2023-12-09 14:30:00,Romano Schmid,Pass
+553970,24,SavedShot,0.874000015258789,0.509000015258789,0.03345117345452309,Mitchell Weiser,a,28,OpenPlay,2023,Head,23196,Borussia M.Gladbach,Werder Bremen,2,2,2023-12-15 19:30:00,Olivier Deman,Aerial
+555226,70,MissedShots,0.9119999694824219,0.4370000076293945,0.07442337274551392,Mitchell Weiser,h,28,OpenPlay,2023,Head,23206,Werder Bremen,RasenBallsport Leipzig,1,1,2023-12-19 17:30:00,Christian Groß,Cross
+558554,16,MissedShots,0.9069999694824219,0.48400001525878905,0.11264777928590775,Mitchell Weiser,a,28,OpenPlay,2023,Head,23215,Bochum,Werder Bremen,1,1,2024-01-14 14:30:00,Felix Agu,Cross
+558559,34,BlockedShot,0.92,0.35900001525878905,0.08467604964971542,Mitchell Weiser,a,28,OpenPlay,2023,LeftFoot,23215,Bochum,Werder Bremen,1,1,2024-01-14 14:30:00,Jens Stage,TakeOn
+558573,75,SavedShot,0.8,0.38,0.06647166609764099,Mitchell Weiser,a,28,OpenPlay,2023,RightFoot,23215,Bochum,Werder Bremen,1,1,2024-01-14 14:30:00,,TakeOn
+559282,23,SavedShot,0.8330000305175781,0.34200000762939453,0.0382806621491909,Mitchell Weiser,a,28,OpenPlay,2023,LeftFoot,23218,Bayern Munich,Werder Bremen,0,1,2024-01-21 14:30:00,Nick Woltemade,Pass
+559286,44,MissedShots,0.93,0.6090000152587891,0.056900668889284134,Mitchell Weiser,a,28,SetPiece,2023,Head,23218,Bayern Munich,Werder Bremen,0,1,2024-01-21 14:30:00,Romano Schmid,Cross
+559292,58,Goal,0.9330000305175781,0.32599998474121095,0.0778510570526123,Mitchell Weiser,a,28,OpenPlay,2023,LeftFoot,23218,Bayern Munich,Werder Bremen,0,1,2024-01-21 14:30:00,,TakeOn
+567367,62,BlockedShot,0.7909999847412109,0.43900001525878907,0.038743261247873306,Mitchell Weiser,a,28,OpenPlay,2023,RightFoot,23277,Hoffenheim,Werder Bremen,2,1,2024-03-03 16:30:00,Romano Schmid,Pass
+567369,80,BlockedShot,0.865,0.5790000152587891,0.05345175787806511,Mitchell Weiser,a,28,FromCorner,2023,LeftFoot,23277,Hoffenheim,Werder Bremen,2,1,2024-03-03 16:30:00,Julián Malatini,BallTouch
+567373,83,MissedShots,0.9159999847412109,0.35400001525878905,0.04709441587328911,Mitchell Weiser,a,28,OpenPlay,2023,RightFoot,23277,Hoffenheim,Werder Bremen,2,1,2024-03-03 16:30:00,Julián Malatini,Cross
+568220,14,SavedShot,0.905,0.3940000152587891,0.04901575297117233,Mitchell Weiser,h,28,FromCorner,2023,RightFoot,23286,Werder Bremen,Borussia Dortmund,1,2,2024-03-09 17:30:00,Marvin Ducksch,Cross
+568227,41,MissedShots,0.9259999847412109,0.4109999847412109,0.06329748034477234,Mitchell Weiser,h,28,FromCorner,2023,LeftFoot,23286,Werder Bremen,Borussia Dortmund,1,2,2024-03-09 17:30:00,Marvin Ducksch,Cross
+568233,57,SavedShot,0.8630000305175781,0.2539999961853027,0.02665705233812332,Mitchell Weiser,h,28,OpenPlay,2023,LeftFoot,23286,Werder Bremen,Borussia Dortmund,1,2,2024-03-09 17:30:00,Romano Schmid,Pass
+568238,78,BlockedShot,0.86,0.3970000076293945,0.06542697548866272,Mitchell Weiser,h,28,SetPiece,2023,LeftFoot,23286,Werder Bremen,Borussia Dortmund,1,2,2024-03-09 17:30:00,,BallTouch
+568239,79,BlockedShot,0.915,0.4229999923706055,0.06357039511203766,Mitchell Weiser,h,28,FromCorner,2023,RightFoot,23286,Werder Bremen,Borussia Dortmund,1,2,2024-03-09 17:30:00,Marvin Ducksch,Cross
+569292,23,BlockedShot,0.8430000305175781,0.5420000076293945,0.08041688054800034,Mitchell Weiser,a,28,OpenPlay,2023,LeftFoot,23291,Union Berlin,Werder Bremen,2,1,2024-03-16 14:30:00,Nick Woltemade,Pass
+569300,62,Goal,0.9669999694824218,0.45799999237060546,0.40998032689094543,Mitchell Weiser,a,28,FromCorner,2023,Head,23291,Union Berlin,Werder Bremen,2,1,2024-03-16 14:30:00,Marvin Ducksch,Aerial
+572067,70,SavedShot,0.845,0.3579999923706055,0.08635614067316055,Mitchell Weiser,a,28,OpenPlay,2023,LeftFoot,23311,Eintracht Frankfurt,Werder Bremen,1,1,2024-04-05 18:30:00,Leonardo Bittencourt,TakeOn
+572078,92,BlockedShot,0.8530000305175781,0.45099998474121095,0.06782610714435577,Mitchell Weiser,a,28,OpenPlay,2023,LeftFoot,23311,Eintracht Frankfurt,Werder Bremen,1,1,2024-04-05 18:30:00,Senne Lynen,TakeOn
+574381,45,SavedShot,0.9730000305175781,0.4779999923706055,0.6240178346633911,Mitchell Weiser,a,28,OpenPlay,2023,Head,23319,Bayer Leverkusen,Werder Bremen,5,0,2024-04-14 15:30:00,Romano Schmid,Cross
+576746,89,BlockedShot,0.8680000305175781,0.43900001525878907,0.142399400472641,Mitchell Weiser,a,28,OpenPlay,2023,LeftFoot,23342,Augsburg,Werder Bremen,0,3,2024-04-27 13:30:00,Dawid Kownacki,BallTouch
+578275,32,BlockedShot,0.875999984741211,0.415,0.08986267447471619,Mitchell Weiser,h,28,OpenPlay,2023,RightFoot,23350,Werder Bremen,Borussia M.Gladbach,2,2,2024-05-04 13:30:00,Romano Schmid,Pass
+579787,95,SavedShot,0.9430000305175781,0.5579999923706055,0.10245313495397568,Mitchell Weiser,a,28,OpenPlay,2023,RightFoot,23354,RasenBallsport Leipzig,Werder Bremen,1,1,2024-05-11 13:30:00,,None
+581606,17,MissedShots,0.8730000305175781,0.5470000076293945,0.05604206770658493,Mitchell Weiser,h,28,OpenPlay,2023,RightFoot,23368,Werder Bremen,Bochum,4,1,2024-05-18 13:30:00,Milos Veljkovic,Aerial
+581614,37,MissedShots,0.9130000305175782,0.4229999923706055,0.018686989322304726,Mitchell Weiser,h,28,FromCorner,2023,Head,23368,Werder Bremen,Bochum,4,1,2024-05-18 13:30:00,Marvin Ducksch,Aerial
+581627,58,MissedShots,0.765,0.4159999847412109,0.019042203202843666,Mitchell Weiser,h,28,FromCorner,2023,LeftFoot,23368,Werder Bremen,Bochum,4,1,2024-05-18 13:30:00,,None
+581649,92,SavedShot,0.8719999694824219,0.45,0.12304755300283432,Mitchell Weiser,h,28,OpenPlay,2023,RightFoot,23368,Werder Bremen,Bochum,4,1,2024-05-18 13:30:00,Isak Hansen-Aaröen,Pass
+581650,92,MissedShots,0.9119999694824219,0.35400001525878905,0.046219151467084885,Mitchell Weiser,h,28,FromCorner,2023,RightFoot,23368,Werder Bremen,Bochum,4,1,2024-05-18 13:30:00,Jens Stage,Chipped
+585935,33,SavedShot,0.8580000305175781,0.43099998474121093,0.10085877031087875,Mitchell Weiser,a,28,OpenPlay,2024,LeftFoot,27746,Augsburg,Werder Bremen,2,2,2024-08-24 13:30:00,Keke Maximilian Topp,TakeOn
+585941,47,MissedShots,0.8969999694824219,0.5429999923706055,0.03442675620317459,Mitchell Weiser,a,28,OpenPlay,2024,Head,27746,Augsburg,Werder Bremen,2,2,2024-08-24 13:30:00,Felix Agu,Aerial
+585940,47,BlockedShot,0.8680000305175781,0.33299999237060546,0.04685484990477562,Mitchell Weiser,a,28,OpenPlay,2024,LeftFoot,27746,Augsburg,Werder Bremen,2,2,2024-08-24 13:30:00,,None
+591593,4,SavedShot,0.9519999694824218,0.3089999961853027,0.053669992834329605,Mitchell Weiser,a,28,OpenPlay,2024,RightFoot,27768,Mainz 05,Werder Bremen,1,2,2024-09-15 15:30:00,Romano Schmid,None
+591604,34,MissedShots,0.874000015258789,0.5429999923706055,0.02082027494907379,Mitchell Weiser,a,28,OpenPlay,2024,Head,27768,Mainz 05,Werder Bremen,1,2,2024-09-15 15:30:00,Felix Agu,Aerial
+591608,52,MissedShots,0.9159999847412109,0.48200000762939454,0.06593436002731323,Mitchell Weiser,a,28,OpenPlay,2024,Head,27768,Mainz 05,Werder Bremen,1,2,2024-09-15 15:30:00,Felix Agu,Aerial
+594831,19,SavedShot,0.8530000305175781,0.539000015258789,0.045195072889328,Mitchell Weiser,a,28,OpenPlay,2024,LeftFoot,27786,Hoffenheim,Werder Bremen,3,4,2024-09-29 15:30:00,Romano Schmid,Cross
+594834,25,SavedShot,0.8380000305175781,0.514000015258789,0.07321704924106598,Mitchell Weiser,a,28,OpenPlay,2024,RightFoot,27786,Hoffenheim,Werder Bremen,3,4,2024-09-29 15:30:00,Romano Schmid,Pass
+594849,52,BlockedShot,0.8680000305175781,0.4979999923706055,0.023054324090480804,Mitchell Weiser,a,28,OpenPlay,2024,Head,27786,Hoffenheim,Werder Bremen,3,4,2024-09-29 15:30:00,Jens Stage,Aerial
+594856,95,SavedShot,0.904000015258789,0.6430000305175781,0.12841399013996124,Mitchell Weiser,a,28,OpenPlay,2024,LeftFoot,27786,Hoffenheim,Werder Bremen,3,4,2024-09-29 15:30:00,Marco Grüll,Pass
+595408,18,BlockedShot,0.8059999847412109,0.629000015258789,0.04176424443721771,Mitchell Weiser,h,28,OpenPlay,2024,LeftFoot,27789,Werder Bremen,Freiburg,0,1,2024-10-05 13:30:00,Marvin Ducksch,CornerAwarded
+595425,89,MissedShots,0.9,0.27899999618530275,0.03413902223110199,Mitchell Weiser,h,28,OpenPlay,2024,LeftFoot,27789,Werder Bremen,Freiburg,0,1,2024-10-05 13:30:00,Marco Grüll,Pass
+595427,91,SavedShot,0.870999984741211,0.47,0.06996497511863708,Mitchell Weiser,h,28,OpenPlay,2024,LeftFoot,27789,Werder Bremen,Freiburg,0,1,2024-10-05 13:30:00,,None
+597727,49,Goal,0.960999984741211,0.54,0.5316625237464905,Mitchell Weiser,a,28,OpenPlay,2024,LeftFoot,27801,Wolfsburg,Werder Bremen,2,4,2024-10-20 15:30:00,Marvin Ducksch,Cross
+598654,22,MissedShots,0.889000015258789,0.5790000152587891,0.11001932621002197,Mitchell Weiser,h,28,OpenPlay,2024,RightFoot,27808,Werder Bremen,Bayer Leverkusen,2,2,2024-10-26 16:30:00,Marvin Ducksch,Pass
+598657,37,MissedShots,0.884000015258789,0.365,0.04796399176120758,Mitchell Weiser,h,28,OpenPlay,2024,RightFoot,27808,Werder Bremen,Bayer Leverkusen,2,2,2024-10-26 16:30:00,Marvin Ducksch,Cross
+603071,75,SavedShot,0.924000015258789,0.485,0.373121976852417,Mitchell Weiser,a,28,OpenPlay,2024,Head,27836,Eintracht Frankfurt,Werder Bremen,1,0,2024-11-23 17:30:00,Marvin Ducksch,Cross
+604081,55,MissedShots,0.9230000305175782,0.505,0.3740086257457733,Mitchell Weiser,h,28,OpenPlay,2024,Head,27844,Werder Bremen,VfB Stuttgart,2,2,2024-11-30 14:30:00,Romano Schmid,Cross
+604088,76,MissedShots,0.889000015258789,0.47299999237060547,0.027395116165280342,Mitchell Weiser,h,28,FromCorner,2024,Head,27844,Werder Bremen,VfB Stuttgart,2,2,2024-11-30 14:30:00,Marvin Ducksch,Goal
+608302,44,Goal,0.9430000305175781,0.495,0.5788142085075378,Mitchell Weiser,h,28,OpenPlay,2024,RightFoot,27873,Werder Bremen,Union Berlin,4,1,2024-12-21 14:30:00,Derrick Köhn,Cross
+608304,46,MissedShots,0.899000015258789,0.40900001525878904,0.05095243826508522,Mitchell Weiser,h,28,FromCorner,2024,RightFoot,27873,Werder Bremen,Union Berlin,4,1,2024-12-21 14:30:00,Marvin Ducksch,Cross
+611074,25,Goal,0.8909999847412109,0.4879999923706055,0.41944628953933716,Mitchell Weiser,a,28,OpenPlay,2024,LeftFoot,27877,RasenBallsport Leipzig,Werder Bremen,4,2,2025-01-12 14:30:00,Marco Grüll,Pass
+611712,18,BlockedShot,0.7609999847412109,0.37599998474121094,0.02858799137175083,Mitchell Weiser,h,28,OpenPlay,2024,RightFoot,27890,Werder Bremen,FC Heidenheim,3,3,2025-01-15 19:30:00,Marvin Ducksch,Pass
+611713,23,SavedShot,0.8919999694824219,0.24200000762939453,0.02407042123377323,Mitchell Weiser,h,28,SetPiece,2024,RightFoot,27890,Werder Bremen,FC Heidenheim,3,3,2025-01-15 19:30:00,Marvin Ducksch,Pass
+611714,28,BlockedShot,0.9519999694824218,0.485,0.13575686514377594,Mitchell Weiser,h,28,OpenPlay,2024,RightFoot,27890,Werder Bremen,FC Heidenheim,3,3,2025-01-15 19:30:00,Marvin Ducksch,HeadPass
+611719,41,MissedShots,0.9169999694824219,0.46799999237060547,0.43368393182754517,Mitchell Weiser,h,28,OpenPlay,2024,Head,27890,Werder Bremen,FC Heidenheim,3,3,2025-01-15 19:30:00,Romano Schmid,Aerial
+612867,48,MissedShots,0.82,0.5279999923706055,0.06300009787082672,Mitchell Weiser,h,28,OpenPlay,2024,LeftFoot,27900,Werder Bremen,Augsburg,0,2,2025-01-19 16:30:00,Derrick Köhn,Pass
+612879,80,MissedShots,0.889000015258789,0.4640000152587891,0.06782535463571548,Mitchell Weiser,h,28,SetPiece,2024,Head,27900,Werder Bremen,Augsburg,0,2,2025-01-19 16:30:00,Romano Schmid,Cross
+617704,76,MissedShots,0.8780000305175781,0.48,0.06661380082368851,Mitchell Weiser,h,28,OpenPlay,2024,LeftFoot,27935,Werder Bremen,Hoffenheim,1,3,2025-02-16 14:30:00,Leonardo Bittencourt,Chipped
+617708,86,BlockedShot,0.88,0.4859999847412109,0.038962021470069885,Mitchell Weiser,h,28,FromCorner,2024,Head,27935,Werder Bremen,Hoffenheim,1,3,2025-02-16 14:30:00,Romano Schmid,Cross
+618109,39,BlockedShot,0.874000015258789,0.4470000076293945,0.013714362867176533,Mitchell Weiser,a,28,FromCorner,2024,Head,27944,Freiburg,Werder Bremen,5,0,2025-02-21 19:30:00,Romano Schmid,Aerial
+619952,32,SavedShot,0.88,0.29399999618530276,0.04001185670495033,Mitchell Weiser,h,28,OpenPlay,2024,RightFoot,27953,Werder Bremen,Wolfsburg,1,2,2025-03-01 14:30:00,,None
+619963,89,Goal,0.8490000152587891,0.5509999847412109,0.08895378559827805,Mitchell Weiser,h,28,OpenPlay,2024,LeftFoot,27953,Werder Bremen,Wolfsburg,1,2,2025-03-01 14:30:00,Jens Stage,LayOff
+624072,21,BlockedShot,0.745,0.32099998474121094,0.01555569190531969,Mitchell Weiser,a,28,OpenPlay,2024,LeftFoot,27984,Holstein Kiel,Werder Bremen,0,3,2025-03-29 14:30:00,Oliver Burke,Pass
+625919,78,MissedShots,0.9009999847412109,0.40299999237060546,0.08927115797996521,Mitchell Weiser,h,28,OpenPlay,2024,LeftFoot,27987,Werder Bremen,Eintracht Frankfurt,2,0,2025-04-05 16:30:00,Felix Agu,Cross
+628529,31,MissedShots,0.9030000305175782,0.38,0.020245620980858803,Mitchell Weiser,h,28,FromCorner,2024,Head,28006,Werder Bremen,Bochum,1,0,2025-04-19 13:30:00,Marvin Ducksch,Cross
+628537,79,Goal,0.9580000305175781,0.5179999923706055,0.7062938809394836,Mitchell Weiser,h,28,OpenPlay,2024,RightFoot,28006,Werder Bremen,Bochum,1,0,2025-04-19 13:30:00,Justin Njinmah,Pass
+630842,3,MissedShots,0.845999984741211,0.36900001525878906,0.062741719186306,Mitchell Weiser,h,28,OpenPlay,2024,RightFoot,28017,Werder Bremen,St. Pauli,0,0,2025-04-27 15:30:00,Jens Stage,Pass
+631313,19,SavedShot,0.8430000305175781,0.48200000762939454,0.10412764549255371,Mitchell Weiser,a,28,OpenPlay,2024,LeftFoot,28028,Union Berlin,Werder Bremen,2,2,2025-05-03 13:30:00,Felix Agu,Pass
+631314,20,BlockedShot,0.895,0.4420000076293945,0.1402657926082611,Mitchell Weiser,a,28,OpenPlay,2024,RightFoot,28028,Union Berlin,Werder Bremen,2,2,2025-05-03 13:30:00,Marvin Ducksch,Pass
+631328,50,MissedShots,0.8080000305175781,0.5129999923706055,0.05770613253116608,Mitchell Weiser,a,28,OpenPlay,2024,LeftFoot,28028,Union Berlin,Werder Bremen,2,2,2025-05-03 13:30:00,Romano Schmid,Pass
+631332,70,MissedShots,0.8390000152587891,0.37099998474121093,0.0674901232123375,Mitchell Weiser,a,28,OpenPlay,2024,RightFoot,28028,Union Berlin,Werder Bremen,2,2,2025-05-03 13:30:00,,None
+632696,65,MissedShots,0.7559999847412109,0.3920000076293945,0.02440754696726799,Mitchell Weiser,h,28,OpenPlay,2024,RightFoot,28034,Werder Bremen,RasenBallsport Leipzig,0,0,2025-05-10 13:30:00,Amos Pieper,Pass

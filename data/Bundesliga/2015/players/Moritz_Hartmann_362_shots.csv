@@ -1,0 +1,73 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+76258,4,MissedShots,0.7630000305175781,0.46099998474121096,0.017678499221801758,Moritz Hartmann,a,362,SetPiece,2015,LeftFoot,1025,Mainz 05,Ingolstadt,0,1,2015-08-15 17:30:00,,None
+76270,41,SavedShot,0.909000015258789,0.48900001525878906,0.09563300013542175,Moritz Hartmann,a,362,OpenPlay,2015,LeftFoot,1025,Mainz 05,Ingolstadt,0,1,2015-08-15 17:30:00,Pascal Groß,Cross
+76512,48,SavedShot,0.8880000305175781,0.24399999618530274,0.0270393006503582,Moritz Hartmann,h,362,OpenPlay,2015,RightFoot,1037,Ingolstadt,Borussia Dortmund,0,4,2015-08-23 17:30:00,Alfredo Morales,Pass
+76612,20,MissedShots,0.7680000305175781,0.5820000076293945,0.030007800087332726,Moritz Hartmann,a,362,OpenPlay,2015,RightFoot,1041,Augsburg,Ingolstadt,0,1,2015-08-29 17:30:00,Lukas Hinterseer,HeadPass
+76618,42,BlockedShot,0.7619999694824219,0.509000015258789,0.013014200143516064,Moritz Hartmann,a,362,OpenPlay,2015,RightFoot,1041,Augsburg,Ingolstadt,0,1,2015-08-29 17:30:00,,Aerial
+76619,43,SavedShot,0.8919999694824219,0.39099998474121095,0.35322999954223633,Moritz Hartmann,a,362,OpenPlay,2015,RightFoot,1041,Augsburg,Ingolstadt,0,1,2015-08-29 17:30:00,Pascal Groß,Throughball
+76957,30,BlockedShot,0.7609999847412109,0.4520000076293945,0.022452199831604958,Moritz Hartmann,h,362,OpenPlay,2015,RightFoot,1052,Ingolstadt,Wolfsburg,0,0,2015-09-12 17:30:00,,None
+77139,92,Goal,0.885,0.5,0.7577769756317139,Moritz Hartmann,a,362,Penalty,2015,RightFoot,1061,Werder Bremen,Ingolstadt,0,1,2015-09-19 17:30:00,,Standard
+78015,65,SavedShot,0.8219999694824218,0.46599998474121096,0.0541624017059803,Moritz Hartmann,a,362,OpenPlay,2015,RightFoot,1101,VfB Stuttgart,Ingolstadt,1,0,2015-10-18 19:30:00,Markus Suttner,Pass
+78714,2,MissedShots,0.8730000305175781,0.6990000152587891,0.019709700718522072,Moritz Hartmann,a,362,FromCorner,2015,RightFoot,1124,Borussia M.Gladbach,Ingolstadt,0,0,2015-11-07 18:30:00,Marvin Matip,HeadPass
+78715,9,SavedShot,0.9159999847412109,0.5870000076293945,0.12641200423240662,Moritz Hartmann,a,362,OpenPlay,2015,LeftFoot,1124,Borussia M.Gladbach,Ingolstadt,0,0,2015-11-07 18:30:00,Lukas Hinterseer,Pass
+79080,32,SavedShot,0.955999984741211,0.40599998474121096,0.4552389979362488,Moritz Hartmann,h,362,SetPiece,2015,RightFoot,1137,Ingolstadt,Darmstadt,3,1,2015-11-22 20:40:00,,Rebound
+79082,37,MissedShots,0.9319999694824219,0.515,0.12952999770641327,Moritz Hartmann,h,362,SetPiece,2015,Head,1137,Ingolstadt,Darmstadt,3,1,2015-11-22 20:40:00,Pascal Groß,Cross
+79089,59,Goal,0.885,0.5,0.7577769756317139,Moritz Hartmann,h,362,Penalty,2015,RightFoot,1137,Ingolstadt,Darmstadt,3,1,2015-11-22 20:40:00,,Standard
+79094,87,Goal,0.9519999694824218,0.505,0.6174259781837463,Moritz Hartmann,h,362,OpenPlay,2015,Head,1137,Ingolstadt,Darmstadt,3,1,2015-11-22 20:40:00,Alfredo Morales,Rebound
+79233,5,SavedShot,0.7090000152587891,0.5790000152587891,0.013445899821817875,Moritz Hartmann,a,362,OpenPlay,2015,RightFoot,1140,Hannover 96,Ingolstadt,4,0,2015-11-28 18:30:00,Mathew Leckie,BallRecovery
+79235,10,SavedShot,0.8080000305175781,0.5220000076293946,0.053113698959350586,Moritz Hartmann,a,362,OpenPlay,2015,RightFoot,1140,Hannover 96,Ingolstadt,4,0,2015-11-28 18:30:00,Tomas Pekhart,HeadPass
+80050,74,MissedShots,0.9119999694824219,0.5570000076293945,0.07002680003643036,Moritz Hartmann,h,362,FromCorner,2015,Head,1166,Ingolstadt,Bayer Leverkusen,0,1,2015-12-19 18:30:00,Pascal Groß,Cross
+80280,18,SavedShot,0.965999984741211,0.5259999847412109,0.6910709738731384,Moritz Hartmann,h,362,FromCorner,2015,RightFoot,1179,Ingolstadt,Mainz 05,1,0,2016-01-23 18:30:00,Mathew Leckie,Rebound
+80284,40,Goal,0.885,0.5,0.7577769756317139,Moritz Hartmann,h,362,Penalty,2015,RightFoot,1179,Ingolstadt,Mainz 05,1,0,2016-01-23 18:30:00,,Standard
+80335,48,SavedShot,0.7709999847412109,0.56,0.02563980035483837,Moritz Hartmann,a,362,OpenPlay,2015,RightFoot,1185,Borussia Dortmund,Ingolstadt,2,0,2016-01-30 18:30:00,Alfredo Morales,Pass
+80719,6,MissedShots,0.8230000305175781,0.5929999923706055,0.04869769886136055,Moritz Hartmann,h,362,OpenPlay,2015,RightFoot,1197,Ingolstadt,Augsburg,2,1,2016-02-06 18:30:00,Robert Bauer,Chipped
+80734,50,MissedShots,0.7430000305175781,0.525,0.022891199216246605,Moritz Hartmann,h,362,OpenPlay,2015,LeftFoot,1197,Ingolstadt,Augsburg,2,1,2016-02-06 18:30:00,,TakeOn
+80746,73,BlockedShot,0.8519999694824218,0.4929999923706055,0.0558696985244751,Moritz Hartmann,h,362,OpenPlay,2015,RightFoot,1197,Ingolstadt,Augsburg,2,1,2016-02-06 18:30:00,Mathew Leckie,HeadPass
+80747,84,Goal,0.885,0.5,0.7577769756317139,Moritz Hartmann,h,362,Penalty,2015,RightFoot,1197,Ingolstadt,Augsburg,2,1,2016-02-06 18:30:00,,Standard
+81196,42,BlockedShot,0.7959999847412109,0.30100000381469727,0.02866869978606701,Moritz Hartmann,h,362,OpenPlay,2015,RightFoot,1214,Ingolstadt,Werder Bremen,2,0,2016-02-20 18:30:00,Pascal Groß,Pass
+81198,45,MissedShots,0.749000015258789,0.3609999847412109,0.02297000028192997,Moritz Hartmann,h,362,OpenPlay,2015,RightFoot,1214,Ingolstadt,Werder Bremen,2,0,2016-02-20 18:30:00,Danny da Costa,Pass
+81843,7,Goal,0.885,0.5,0.7577769756317139,Moritz Hartmann,a,362,Penalty,2015,RightFoot,1240,Eintracht Frankfurt,Ingolstadt,1,1,2016-03-05 18:30:00,,Standard
+81846,12,MissedShots,0.875999984741211,0.475,0.303739994764328,Moritz Hartmann,a,362,OpenPlay,2015,RightFoot,1240,Eintracht Frankfurt,Ingolstadt,1,1,2016-03-05 18:30:00,Markus Suttner,Chipped
+81862,63,SavedShot,0.919000015258789,0.40900001525878904,0.053163401782512665,Moritz Hartmann,a,362,SetPiece,2015,Head,1240,Eintracht Frankfurt,Ingolstadt,1,1,2016-03-05 18:30:00,Marvin Matip,Chipped
+82114,3,Goal,0.860999984741211,0.26399999618530273,0.029496200382709503,Moritz Hartmann,h,362,OpenPlay,2015,RightFoot,1248,Ingolstadt,VfB Stuttgart,3,3,2016-03-12 18:30:00,,None
+82120,18,MissedShots,0.8859999847412109,0.3,0.038860201835632324,Moritz Hartmann,h,362,SetPiece,2015,RightFoot,1248,Ingolstadt,VfB Stuttgart,3,3,2016-03-12 18:30:00,,None
+82125,29,MissedShots,0.875999984741211,0.5120000076293946,0.03784560039639473,Moritz Hartmann,h,362,OpenPlay,2015,Head,1248,Ingolstadt,VfB Stuttgart,3,3,2016-03-12 18:30:00,Max Christiansen,Chipped
+82126,31,SavedShot,0.88,0.2879999923706055,0.04082680121064186,Moritz Hartmann,h,362,OpenPlay,2015,RightFoot,1248,Ingolstadt,VfB Stuttgart,3,3,2016-03-12 18:30:00,,None
+82141,69,SavedShot,0.7809999847412109,0.48200000762939454,0.05781010165810585,Moritz Hartmann,h,362,OpenPlay,2015,LeftFoot,1248,Ingolstadt,VfB Stuttgart,3,3,2016-03-12 18:30:00,Darío Lezcano,LayOff
+82148,82,BlockedShot,0.8219999694824218,0.27600000381469725,0.07276669889688492,Moritz Hartmann,h,362,OpenPlay,2015,LeftFoot,1248,Ingolstadt,VfB Stuttgart,3,3,2016-03-12 18:30:00,Danny da Costa,TakeOn
+82589,28,Goal,0.885,0.5,0.7577769756317139,Moritz Hartmann,h,362,Penalty,2015,RightFoot,1267,Ingolstadt,Schalke 04,3,0,2016-04-02 17:30:00,,Standard
+82837,81,MissedShots,0.870999984741211,0.5670000076293945,0.06241000071167946,Moritz Hartmann,h,362,OpenPlay,2015,RightFoot,1274,Ingolstadt,Borussia M.Gladbach,1,0,2016-04-09 17:30:00,Pascal Groß,Cross
+82839,86,Goal,0.9669999694824218,0.54,0.6745169758796692,Moritz Hartmann,h,362,OpenPlay,2015,LeftFoot,1274,Ingolstadt,Borussia M.Gladbach,1,0,2016-04-09 17:30:00,Almog Cohen,Rebound
+83272,24,Goal,0.9169999694824219,0.5420000076293945,0.2952130138874054,Moritz Hartmann,h,362,SetPiece,2015,Head,1296,Ingolstadt,Hannover 96,2,2,2016-04-23 17:30:00,Pascal Groß,Chipped
+83447,36,BlockedShot,0.8880000305175781,0.41700000762939454,0.12339500337839127,Moritz Hartmann,a,362,OpenPlay,2015,RightFoot,1302,Hoffenheim,Ingolstadt,2,1,2016-04-30 17:30:00,Stefan Lex,Pass
+83454,53,SavedShot,0.9369999694824219,0.645,0.3308759927749634,Moritz Hartmann,a,362,OpenPlay,2015,RightFoot,1302,Hoffenheim,Ingolstadt,2,1,2016-04-30 17:30:00,Stefan Lex,Pass
+83710,28,MissedShots,0.9069999694824219,0.59,0.3695389926433563,Moritz Hartmann,h,362,OpenPlay,2015,RightFoot,1317,Ingolstadt,Bayern Munich,1,2,2016-05-07 17:30:00,Darío Lezcano,Pass
+83718,41,Goal,0.885,0.5,0.7577769756317139,Moritz Hartmann,h,362,Penalty,2015,RightFoot,1317,Ingolstadt,Bayern Munich,1,2,2016-05-07 17:30:00,,Standard
+83719,42,SavedShot,0.8080000305175781,0.504000015258789,0.09388680011034012,Moritz Hartmann,h,362,OpenPlay,2015,RightFoot,1317,Ingolstadt,Bayern Munich,1,2,2016-05-07 17:30:00,Darío Lezcano,Chipped
+83728,70,MissedShots,0.7880000305175782,0.38799999237060545,0.029017899185419083,Moritz Hartmann,h,362,OpenPlay,2015,RightFoot,1317,Ingolstadt,Bayern Munich,1,2,2016-05-07 17:30:00,Darío Lezcano,Pass
+83862,7,MissedShots,0.785,0.25799999237060545,0.009507419541478157,Moritz Hartmann,a,362,SetPiece,2015,RightFoot,1323,Bayer Leverkusen,Ingolstadt,3,2,2016-05-14 17:30:00,,Aerial
+83866,22,MissedShots,0.9590000152587891,0.524000015258789,0.5885850191116333,Moritz Hartmann,a,362,SetPiece,2015,RightFoot,1323,Bayer Leverkusen,Ingolstadt,3,2,2016-05-14 17:30:00,Pascal Groß,Cross
+83871,40,SavedShot,0.905,0.20299999237060548,0.019708100706338882,Moritz Hartmann,a,362,OpenPlay,2015,RightFoot,1323,Bayer Leverkusen,Ingolstadt,3,2,2016-05-14 17:30:00,Danny da Costa,Chipped
+83876,68,Goal,0.885,0.5,0.7576959729194641,Moritz Hartmann,a,362,Penalty,2015,RightFoot,1323,Bayer Leverkusen,Ingolstadt,3,2,2016-05-14 17:30:00,,Standard
+83877,69,ShotOnPost,0.750999984741211,0.6179999923706054,0.01766050048172474,Moritz Hartmann,a,362,OpenPlay,2015,RightFoot,1323,Bayer Leverkusen,Ingolstadt,3,2,2016-05-14 17:30:00,Max Christiansen,HeadPass
+83878,70,SavedShot,0.905,0.33299999237060546,0.05558279901742935,Moritz Hartmann,a,362,OpenPlay,2015,RightFoot,1323,Bayer Leverkusen,Ingolstadt,3,2,2016-05-14 17:30:00,Lukas Hinterseer,HeadPass
+83880,72,MissedShots,0.86,0.4620000076293945,0.040025100111961365,Moritz Hartmann,a,362,SetPiece,2015,Head,1323,Bayer Leverkusen,Ingolstadt,3,2,2016-05-14 17:30:00,Pascal Groß,Chipped
+128489,0,BlockedShot,0.9230000305175782,0.5320000076293945,0.14330099523067474,Moritz Hartmann,h,362,OpenPlay,2016,RightFoot,1355,Ingolstadt,Eintracht Frankfurt,0,2,2016-09-20 22:00:00,Mathew Leckie,Pass
+128505,70,BlockedShot,0.8190000152587891,0.365,0.044264599680900574,Moritz Hartmann,h,362,OpenPlay,2016,RightFoot,1355,Ingolstadt,Eintracht Frankfurt,0,2,2016-09-20 22:00:00,Pascal Groß,Pass
+128968,60,BlockedShot,0.925,0.5479999923706055,0.12358400225639343,Moritz Hartmann,h,362,SetPiece,2016,Head,1375,Ingolstadt,Hoffenheim,1,2,2016-10-01 17:30:00,Pascal Groß,Cross
+129174,57,MissedShots,0.9630000305175781,0.6659999847412109,0.06005709990859032,Moritz Hartmann,a,362,FromCorner,2016,RightFoot,1383,FC Cologne,Ingolstadt,2,1,2016-10-15 17:30:00,Mathew Leckie,Rebound
+129405,43,MissedShots,0.9590000152587891,0.575,0.05518120154738426,Moritz Hartmann,h,362,FromCorner,2016,Head,1391,Ingolstadt,Borussia Dortmund,3,3,2016-10-22 17:30:00,,Aerial
+129411,60,ShotOnPost,0.8230000305175781,0.4490000152587891,0.4098289906978607,Moritz Hartmann,h,362,OpenPlay,2016,RightFoot,1391,Ingolstadt,Borussia Dortmund,3,3,2016-10-22 17:30:00,Pascal Groß,Chipped
+129842,62,BlockedShot,0.9269999694824219,0.3340000152587891,0.055997300893068314,Moritz Hartmann,a,362,OpenPlay,2016,RightFoot,3300,Mainz 05,Ingolstadt,2,0,2016-10-29 17:30:00,,None
+130683,2,SavedShot,0.9290000152587891,0.375,0.02568650059401989,Moritz Hartmann,a,362,FromCorner,2016,Head,2820,Darmstadt,Ingolstadt,0,1,2016-11-19 18:30:00,Pascal Groß,Cross
+130684,6,SavedShot,0.89,0.4229999923706055,0.395907998085022,Moritz Hartmann,a,362,OpenPlay,2016,RightFoot,2820,Darmstadt,Ingolstadt,0,1,2016-11-19 18:30:00,,None
+130686,9,SavedShot,0.9419999694824219,0.30700000762939456,0.05401520058512688,Moritz Hartmann,a,362,OpenPlay,2016,RightFoot,2820,Darmstadt,Ingolstadt,0,1,2016-11-19 18:30:00,,None
+130694,47,SavedShot,0.925,0.61,0.050655800849199295,Moritz Hartmann,a,362,SetPiece,2016,Head,2820,Darmstadt,Ingolstadt,0,1,2016-11-19 18:30:00,Pascal Groß,Chipped
+130703,67,Goal,0.8159999847412109,0.34,0.022603100165724754,Moritz Hartmann,a,362,OpenPlay,2016,RightFoot,2820,Darmstadt,Ingolstadt,0,1,2016-11-19 18:30:00,Lukas Hinterseer,HeadPass
+130199,9,ShotOnPost,0.9540000152587891,0.46799999237060547,0.5405430197715759,Moritz Hartmann,h,362,OpenPlay,2016,Head,2828,Ingolstadt,Wolfsburg,1,1,2016-11-26 18:30:00,Markus Suttner,Chipped
+130200,16,SavedShot,0.885,0.5,0.7577769756317139,Moritz Hartmann,h,362,Penalty,2016,RightFoot,2828,Ingolstadt,Wolfsburg,1,1,2016-11-26 18:30:00,,Standard
+130579,6,BlockedShot,0.7569999694824219,0.519000015258789,0.026951199397444725,Moritz Hartmann,a,362,OpenPlay,2016,RightFoot,3197,Werder Bremen,Ingolstadt,2,1,2016-12-03 18:30:00,Pascal Groß,Pass
+130580,6,MissedShots,0.9309999847412109,0.3659999847412109,0.06067679822444916,Moritz Hartmann,a,362,OpenPlay,2016,RightFoot,3197,Werder Bremen,Ingolstadt,2,1,2016-12-03 18:30:00,Florent Hadergjonaj,Cross
+130583,20,MissedShots,0.970999984741211,0.4129999923706055,0.03999819979071617,Moritz Hartmann,a,362,FromCorner,2016,Head,3197,Werder Bremen,Ingolstadt,2,1,2016-12-03 18:30:00,,Rebound
+130605,90,MissedShots,0.8980000305175782,0.46900001525878904,0.03143690153956413,Moritz Hartmann,a,362,OpenPlay,2016,Head,3197,Werder Bremen,Ingolstadt,2,1,2016-12-03 18:30:00,Mathew Leckie,Aerial
+130606,91,SavedShot,0.915,0.5420000076293945,0.2876589894294739,Moritz Hartmann,a,362,OpenPlay,2016,Head,3197,Werder Bremen,Ingolstadt,2,1,2016-12-03 18:30:00,Sonny Kittel,Cross

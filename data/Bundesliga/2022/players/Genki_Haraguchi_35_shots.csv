@@ -1,0 +1,157 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+24466,39,MissedShots,0.8690000152587891,0.610999984741211,0.01839420013129711,Genki Haraguchi,h,35,OpenPlay,2014,Head,5450,Hertha Berlin,Werder Bremen,2,2,2014-08-23 14:30:00,Roy Beerens,Cross
+24467,46,BlockedShot,0.8980000305175782,0.7319999694824219,0.052554901689291,Genki Haraguchi,h,35,OpenPlay,2014,LeftFoot,5450,Hertha Berlin,Werder Bremen,2,2,2014-08-23 14:30:00,Nico Schulz,Pass
+25145,38,BlockedShot,0.784000015258789,0.5320000076293945,0.03488970175385475,Genki Haraguchi,a,35,OpenPlay,2014,RightFoot,5420,Freiburg,Hertha Berlin,2,2,2014-09-19 19:30:00,Nico Schulz,Pass
+25572,20,MissedShots,0.8019999694824219,0.740999984741211,0.022339800372719765,Genki Haraguchi,a,35,OpenPlay,2014,RightFoot,5445,Augsburg,Hertha Berlin,1,0,2014-09-28 14:30:00,Salomon Kalou,Pass
+25577,44,MissedShots,0.8580000305175781,0.77,0.02281090058386326,Genki Haraguchi,a,35,OpenPlay,2014,RightFoot,5445,Augsburg,Hertha Berlin,1,0,2014-09-28 14:30:00,,None
+26834,16,MissedShots,0.965,0.345,0.06307370215654373,Genki Haraguchi,h,35,OpenPlay,2014,RightFoot,5356,Hertha Berlin,Hannover 96,0,2,2014-11-07 19:30:00,Salomon Kalou,HeadPass
+26840,44,SavedShot,0.8959999847412109,0.585,0.04311950132250786,Genki Haraguchi,h,35,OpenPlay,2014,Head,5356,Hertha Berlin,Hannover 96,0,2,2014-11-07 19:30:00,Roy Beerens,Cross
+27130,76,MissedShots,0.8819999694824219,0.5870000076293945,0.08976510167121887,Genki Haraguchi,h,35,OpenPlay,2014,RightFoot,5378,Hertha Berlin,Bayern Munich,0,1,2014-11-29 14:30:00,Salomon Kalou,Pass
+31299,73,SavedShot,0.7580000305175781,0.700999984741211,0.012839499861001968,Genki Haraguchi,h,35,OpenPlay,2014,RightFoot,5245,Hertha Berlin,Schalke 04,2,2,2015-03-14 14:30:00,Per Skjelbred,Chipped
+31300,78,BlockedShot,0.785,0.5129999923706055,0.03637479990720749,Genki Haraguchi,h,35,OpenPlay,2014,RightFoot,5245,Hertha Berlin,Schalke 04,2,2,2015-03-14 14:30:00,,None
+31302,80,Goal,0.9590000152587891,0.4570000076293945,0.6115760207176208,Genki Haraguchi,h,35,OpenPlay,2014,RightFoot,5245,Hertha Berlin,Schalke 04,2,2,2015-03-14 14:30:00,,None
+32101,73,SavedShot,0.889000015258789,0.7,0.057173099368810654,Genki Haraguchi,a,35,OpenPlay,2014,LeftFoot,5251,Hamburger SV,Hertha Berlin,0,1,2015-03-20 19:30:00,Peter Pekarík,TakeOn
+30327,42,MissedShots,0.8690000152587891,0.539000015258789,0.0772366002202034,Genki Haraguchi,h,35,OpenPlay,2014,RightFoot,5203,Hertha Berlin,Paderborn,2,0,2015-04-05 16:30:00,,None
+30331,64,SavedShot,0.9180000305175782,0.4640000152587891,0.10782600194215775,Genki Haraguchi,h,35,OpenPlay,2014,LeftFoot,5203,Hertha Berlin,Paderborn,2,0,2015-04-05 16:30:00,Valentin Stocker,Cross
+30338,86,MissedShots,0.835999984741211,0.41900001525878905,0.30268698930740356,Genki Haraguchi,h,35,OpenPlay,2014,RightFoot,5203,Hertha Berlin,Paderborn,2,0,2015-04-05 16:30:00,Salomon Kalou,Pass
+31158,23,SavedShot,0.795,0.639000015258789,0.02872220054268837,Genki Haraguchi,a,35,OpenPlay,2014,RightFoot,5204,Hannover 96,Hertha Berlin,1,1,2015-04-10 19:30:00,,None
+31170,77,BlockedShot,0.895,0.7119999694824218,0.03721480071544647,Genki Haraguchi,a,35,OpenPlay,2014,LeftFoot,5204,Hannover 96,Hertha Berlin,1,1,2015-04-10 19:30:00,Salomon Kalou,Pass
+32076,58,MissedShots,0.985999984741211,0.5790000152587891,0.4060859978199005,Genki Haraguchi,h,35,OpenPlay,2014,LeftFoot,5216,Hertha Berlin,FC Cologne,0,0,2015-04-18 14:30:00,Nico Schulz,Rebound
+32077,66,BlockedShot,0.87,0.7480000305175781,0.028914999216794968,Genki Haraguchi,h,35,OpenPlay,2014,RightFoot,5216,Hertha Berlin,FC Cologne,0,0,2015-04-18 14:30:00,Valentin Stocker,Pass
+32272,48,BlockedShot,0.769000015258789,0.6719999694824219,0.02336530014872551,Genki Haraguchi,a,35,OpenPlay,2014,RightFoot,5228,Bayern Munich,Hertha Berlin,1,0,2015-04-25 17:30:00,Per Skjelbred,Pass
+31408,73,BlockedShot,0.8680000305175781,0.705,0.020624300464987755,Genki Haraguchi,a,35,FromCorner,2014,RightFoot,5170,Borussia Dortmund,Hertha Berlin,2,0,2015-05-09 14:30:00,,TakeOn
+30604,13,BlockedShot,0.7330000305175781,0.44299999237060544,0.03345809876918793,Genki Haraguchi,h,35,OpenPlay,2014,LeftFoot,5183,Hertha Berlin,Eintracht Frankfurt,0,0,2015-05-16 14:30:00,,Interception
+30612,79,MissedShots,0.8919999694824219,0.625,0.3668609857559204,Genki Haraguchi,h,35,OpenPlay,2014,LeftFoot,5183,Hertha Berlin,Eintracht Frankfurt,0,0,2015-05-16 14:30:00,Salomon Kalou,Throughball
+31342,31,MissedShots,0.950999984741211,0.395,0.027973800897598267,Genki Haraguchi,a,35,OpenPlay,2014,Head,5190,Hoffenheim,Hertha Berlin,2,1,2015-05-23 14:30:00,Peter Pekarík,Aerial
+76215,76,SavedShot,0.8090000152587891,0.4759999847412109,0.06451380252838135,Genki Haraguchi,a,35,OpenPlay,2015,LeftFoot,1023,Augsburg,Hertha Berlin,0,1,2015-08-15 17:30:00,,None
+76472,84,MissedShots,0.845999984741211,0.46,0.03018690086901188,Genki Haraguchi,h,35,FromCorner,2015,Head,1030,Hertha Berlin,Werder Bremen,1,1,2015-08-21 22:30:00,Marvin Plattenhardt,Rebound
+76907,13,Goal,0.9009999847412109,0.40400001525878904,0.37264499068260193,Genki Haraguchi,h,35,OpenPlay,2015,LeftFoot,1051,Hertha Berlin,VfB Stuttgart,2,1,2015-09-12 17:30:00,Mitchell Weiser,Pass
+77004,5,MissedShots,0.8540000152587891,0.33599998474121096,0.04153459891676903,Genki Haraguchi,a,35,OpenPlay,2015,RightFoot,1059,Wolfsburg,Hertha Berlin,2,0,2015-09-19 17:30:00,Valentin Stocker,HeadPass
+77008,16,SavedShot,0.8009999847412109,0.6020000076293945,0.027900800108909607,Genki Haraguchi,a,35,OpenPlay,2015,RightFoot,1059,Wolfsburg,Hertha Berlin,2,0,2015-09-19 17:30:00,Vedad Ibisevic,HeadPass
+77011,38,SavedShot,0.81,0.24399999618530274,0.014251500368118286,Genki Haraguchi,a,35,OpenPlay,2015,LeftFoot,1059,Wolfsburg,Hertha Berlin,2,0,2015-09-19 17:30:00,Vedad Ibisevic,Chipped
+77349,12,BlockedShot,0.855999984741211,0.43400001525878906,0.06952910125255585,Genki Haraguchi,h,35,OpenPlay,2015,LeftFoot,1067,Hertha Berlin,FC Cologne,2,0,2015-09-22 22:00:00,,None
+77367,57,SavedShot,0.8830000305175781,0.265,0.041763998568058014,Genki Haraguchi,h,35,OpenPlay,2015,LeftFoot,1067,Hertha Berlin,FC Cologne,2,0,2015-09-22 22:00:00,Salomon Kalou,Pass
+77617,14,SavedShot,0.9080000305175782,0.3060000038146973,0.06434209644794464,Genki Haraguchi,a,35,OpenPlay,2015,RightFoot,1082,Eintracht Frankfurt,Hertha Berlin,1,1,2015-09-27 17:30:00,Mitchell Weiser,Pass
+77834,70,MissedShots,0.8809999847412109,0.30100000381469727,0.05321570113301277,Genki Haraguchi,h,35,OpenPlay,2015,LeftFoot,1087,Hertha Berlin,Hamburger SV,3,0,2015-10-03 17:30:00,Vladimir Darida,TakeOn
+77841,89,BlockedShot,0.830999984741211,0.6780000305175782,0.050797801464796066,Genki Haraguchi,h,35,OpenPlay,2015,RightFoot,1087,Hertha Berlin,Hamburger SV,3,0,2015-10-03 17:30:00,Vladimir Darida,Pass
+77927,22,BlockedShot,0.850999984741211,0.685,0.04308230057358742,Genki Haraguchi,a,35,FromCorner,2015,RightFoot,1096,Schalke 04,Hertha Berlin,2,1,2015-10-17 17:30:00,Fabian Lustenberger,Pass
+77929,33,SavedShot,0.9159999847412109,0.3220000076293945,0.047617699950933456,Genki Haraguchi,a,35,FromCorner,2015,LeftFoot,1096,Schalke 04,Hertha Berlin,2,1,2015-10-17 17:30:00,Salomon Kalou,Pass
+78610,49,BlockedShot,0.789000015258789,0.47299999237060547,0.02742989920079708,Genki Haraguchi,h,35,FromCorner,2015,RightFoot,1113,Hertha Berlin,Borussia M.Gladbach,1,4,2015-10-31 18:30:00,,None
+78773,9,BlockedShot,0.8580000305175781,0.5629999923706055,0.09539899975061417,Genki Haraguchi,a,35,OpenPlay,2015,RightFoot,1120,Hannover 96,Hertha Berlin,1,3,2015-11-06 23:30:00,Vladimir Darida,Pass
+78775,19,MissedShots,0.9630000305175781,0.48200000762939454,0.15112900733947754,Genki Haraguchi,a,35,FromCorner,2015,RightFoot,1120,Hannover 96,Hertha Berlin,1,3,2015-11-06 23:30:00,Fabian Lustenberger,Pass
+78787,64,MissedShots,0.7969999694824219,0.645,0.0461496002972126,Genki Haraguchi,a,35,OpenPlay,2015,RightFoot,1120,Hannover 96,Hertha Berlin,1,3,2015-11-06 23:30:00,Salomon Kalou,Pass
+78791,92,MissedShots,0.8619999694824219,0.6519999694824219,0.13836899399757385,Genki Haraguchi,a,35,OpenPlay,2015,RightFoot,1120,Hannover 96,Hertha Berlin,1,3,2015-11-06 23:30:00,Alexander Baumjohann,Throughball
+79103,22,MissedShots,0.9069999694824219,0.43900001525878907,0.0858571007847786,Genki Haraguchi,a,35,OpenPlay,2015,RightFoot,1142,Bayern Munich,Hertha Berlin,2,0,2015-11-28 18:30:00,Marvin Plattenhardt,Cross
+79122,78,SavedShot,0.8519999694824218,0.37099998474121093,0.040810100734233856,Genki Haraguchi,a,35,OpenPlay,2015,LeftFoot,1142,Bayern Munich,Hertha Berlin,2,0,2015-11-28 18:30:00,Valentin Stocker,Chipped
+79572,24,BlockedShot,0.9030000305175782,0.759000015258789,0.04290299862623215,Genki Haraguchi,h,35,OpenPlay,2015,LeftFoot,1151,Hertha Berlin,Bayer Leverkusen,2,1,2015-12-05 18:30:00,Salomon Kalou,Pass
+80252,84,MissedShots,0.7880000305175782,0.7180000305175781,0.020482800900936127,Genki Haraguchi,h,35,OpenPlay,2015,RightFoot,1177,Hertha Berlin,Augsburg,0,0,2016-01-23 18:30:00,Vladimir Darida,Pass
+80458,30,ShotOnPost,0.9330000305175781,0.705,0.06704249978065491,Genki Haraguchi,a,35,OpenPlay,2015,LeftFoot,1188,Werder Bremen,Hertha Berlin,3,3,2016-01-30 18:30:00,,None
+80689,65,MissedShots,0.7480000305175781,0.5729999923706055,0.02318679913878441,Genki Haraguchi,h,35,FromCorner,2015,RightFoot,1196,Hertha Berlin,Borussia Dortmund,0,0,2016-02-06 18:30:00,,Rebound
+81400,8,BlockedShot,0.855,0.5790000152587891,0.07962329685688019,Genki Haraguchi,a,35,OpenPlay,2015,RightFoot,1219,FC Cologne,Hertha Berlin,0,1,2016-02-26 23:30:00,Mitchell Weiser,Pass
+81403,23,SavedShot,0.6940000152587891,0.56,0.01251209992915392,Genki Haraguchi,a,35,OpenPlay,2015,RightFoot,1219,FC Cologne,Hertha Berlin,0,1,2016-02-26 23:30:00,,Tackle
+81409,48,SavedShot,0.9490000152587891,0.435,0.13198299705982208,Genki Haraguchi,a,35,OpenPlay,2015,RightFoot,1219,FC Cologne,Hertha Berlin,0,1,2016-02-26 23:30:00,Vedad Ibisevic,BallTouch
+82068,50,BlockedShot,0.8040000152587891,0.51,0.06403739750385284,Genki Haraguchi,h,35,OpenPlay,2015,LeftFoot,1246,Hertha Berlin,Schalke 04,2,0,2016-03-11 23:30:00,Mitchell Weiser,Pass
+82078,71,SavedShot,0.8269999694824218,0.29399999618530276,0.08485469967126846,Genki Haraguchi,h,35,OpenPlay,2015,LeftFoot,1246,Hertha Berlin,Schalke 04,2,0,2016-03-11 23:30:00,Per Skjelbred,Pass
+82387,53,Goal,0.9369999694824219,0.5690000152587891,0.1330229938030243,Genki Haraguchi,h,35,OpenPlay,2015,RightFoot,1260,Hertha Berlin,Ingolstadt,2,1,2016-03-19 18:30:00,Marvin Plattenhardt,Pass
+82814,69,SavedShot,0.8590000152587891,0.615999984741211,0.04111490026116371,Genki Haraguchi,h,35,OpenPlay,2015,RightFoot,1273,Hertha Berlin,Hannover 96,2,2,2016-04-08 22:30:00,Peter Pekarík,Cross
+82992,66,MissedShots,0.7769999694824219,0.6079999923706054,0.027449900284409523,Genki Haraguchi,a,35,OpenPlay,2015,LeftFoot,1283,Hoffenheim,Hertha Berlin,2,1,2016-04-16 17:30:00,Salomon Kalou,Pass
+127649,5,MissedShots,0.87,0.5790000152587891,0.07952280342578888,Genki Haraguchi,h,35,OpenPlay,2016,LeftFoot,1334,Hertha Berlin,Freiburg,2,1,2016-08-28 17:30:00,Vladimir Darida,Chipped
+127660,55,SavedShot,0.7680000305175781,0.7419999694824219,0.01955999992787838,Genki Haraguchi,h,35,SetPiece,2016,RightFoot,1334,Hertha Berlin,Freiburg,2,1,2016-08-28 17:30:00,Marvin Plattenhardt,Pass
+127668,94,BlockedShot,0.7280000305175781,0.47299999237060547,0.028557900339365005,Genki Haraguchi,h,35,OpenPlay,2016,RightFoot,1334,Hertha Berlin,Freiburg,2,1,2016-08-28 17:30:00,,None
+128250,60,MissedShots,0.855,0.725999984741211,0.036552298814058304,Genki Haraguchi,h,35,OpenPlay,2016,RightFoot,1353,Hertha Berlin,Schalke 04,2,0,2016-09-18 19:30:00,Fabian Lustenberger,Chipped
+128812,79,MissedShots,0.775,0.7240000152587891,0.025335799902677536,Genki Haraguchi,a,35,OpenPlay,2016,RightFoot,1368,Eintracht Frankfurt,Hertha Berlin,3,3,2016-09-24 17:30:00,Per Skjelbred,BallRecovery
+128901,15,ShotOnPost,0.765,0.6519999694824219,0.022173499688506126,Genki Haraguchi,h,35,FromCorner,2016,RightFoot,1374,Hertha Berlin,Hamburger SV,2,0,2016-10-01 17:30:00,Mitchell Weiser,Pass
+129073,54,MissedShots,0.7719999694824219,0.6780000305175782,0.02687009982764721,Genki Haraguchi,a,35,OpenPlay,2016,RightFoot,1381,Borussia Dortmund,Hertha Berlin,1,1,2016-10-14 22:30:00,Valentin Stocker,Pass
+129075,62,MissedShots,0.825999984741211,0.5829999923706055,0.04589710012078285,Genki Haraguchi,a,35,SetPiece,2016,RightFoot,1381,Borussia Dortmund,Hertha Berlin,1,1,2016-10-14 22:30:00,,None
+129352,15,MissedShots,0.735999984741211,0.57,0.023704800754785538,Genki Haraguchi,h,35,OpenPlay,2016,RightFoot,1394,Hertha Berlin,FC Cologne,2,1,2016-10-22 17:30:00,Per Skjelbred,HeadPass
+129355,48,MissedShots,0.9390000152587891,0.645,0.10973100364208221,Genki Haraguchi,h,35,OpenPlay,2016,LeftFoot,1394,Hertha Berlin,FC Cologne,2,1,2016-10-22 17:30:00,Per Skjelbred,TakeOn
+129358,58,MissedShots,0.92,0.295,0.06455829739570618,Genki Haraguchi,h,35,OpenPlay,2016,RightFoot,1394,Hertha Berlin,FC Cologne,2,1,2016-10-22 17:30:00,Vedad Ibisevic,Pass
+129616,67,MissedShots,0.7880000305175782,0.7419999694824219,0.017106499522924423,Genki Haraguchi,h,35,OpenPlay,2016,RightFoot,2806,Hertha Berlin,Borussia M.Gladbach,3,0,2016-11-04 23:30:00,Salomon Kalou,Pass
+130495,45,BlockedShot,0.9219999694824219,0.4420000076293945,0.11156699806451797,Genki Haraguchi,a,35,OpenPlay,2016,RightFoot,3193,Wolfsburg,Hertha Berlin,2,3,2016-12-03 18:30:00,Peter Pekarík,Pass
+130482,90,MissedShots,0.7290000152587891,0.18600000381469728,0.02438960038125515,Genki Haraguchi,a,35,OpenPlay,2016,RightFoot,3729,Bayer Leverkusen,Hertha Berlin,3,1,2017-01-22 17:30:00,Vedad Ibisevic,Pass
+131429,70,BlockedShot,0.9,0.5570000076293945,0.09081319719552994,Genki Haraguchi,a,35,FromCorner,2016,RightFoot,3738,Freiburg,Hertha Berlin,2,1,2017-01-29 17:30:00,,None
+132026,1,Goal,0.9030000305175782,0.4279999923706055,0.4059450030326843,Genki Haraguchi,h,35,OpenPlay,2016,RightFoot,3745,Hertha Berlin,Ingolstadt,1,0,2017-02-04 14:30:00,Salomon Kalou,Pass
+132042,79,MissedShots,0.875999984741211,0.3220000076293945,0.010001800023019314,Genki Haraguchi,h,35,SetPiece,2016,Head,3745,Hertha Berlin,Ingolstadt,1,0,2017-02-04 14:30:00,,Aerial
+132043,83,MissedShots,0.875999984741211,0.345,0.08494959771633148,Genki Haraguchi,h,35,OpenPlay,2016,LeftFoot,3745,Hertha Berlin,Ingolstadt,1,0,2017-02-04 14:30:00,Peter Pekarík,Pass
+132075,55,MissedShots,0.825,0.35900001525878905,0.07591590285301208,Genki Haraguchi,h,35,OpenPlay,2016,RightFoot,3762,Hertha Berlin,Bayern Munich,1,1,2017-02-18 14:30:00,Salomon Kalou,Pass
+132653,81,MissedShots,0.845,0.4929999923706055,0.0629395991563797,Genki Haraguchi,a,35,SetPiece,2016,RightFoot,3784,Hamburger SV,Hertha Berlin,1,0,2017-03-05 16:30:00,,None
+133798,4,MissedShots,0.78,0.39799999237060546,0.020648399367928505,Genki Haraguchi,h,35,OpenPlay,2016,LeftFoot,3790,Hertha Berlin,Borussia Dortmund,2,1,2017-03-11 14:30:00,Vladimir Darida,TakeOn
+133814,53,BlockedShot,0.9530000305175781,0.555,0.15113599598407745,Genki Haraguchi,h,35,OpenPlay,2016,RightFoot,3790,Hertha Berlin,Borussia Dortmund,2,1,2017-03-11 14:30:00,Salomon Kalou,Pass
+134607,21,MissedShots,0.9490000152587891,0.3890000152587891,0.02697860077023506,Genki Haraguchi,a,35,OpenPlay,2016,Head,3796,FC Cologne,Hertha Berlin,4,2,2017-03-18 14:30:00,Peter Pekarík,Aerial
+133781,53,BlockedShot,0.8059999847412109,0.47299999237060547,0.04625190049409866,Genki Haraguchi,a,35,OpenPlay,2016,RightFoot,3820,Borussia M.Gladbach,Hertha Berlin,1,0,2017-04-05 19:00:00,Valentin Stocker,Pass
+133430,9,MissedShots,0.8780000305175781,0.549000015258789,0.07070180028676987,Genki Haraguchi,a,35,OpenPlay,2016,RightFoot,3872,Darmstadt,Hertha Berlin,0,2,2017-05-13 14:30:00,Peter Pekarík,Cross
+133445,69,MissedShots,0.87,0.35400001525878905,0.08111940324306488,Genki Haraguchi,a,35,OpenPlay,2016,LeftFoot,3872,Darmstadt,Hertha Berlin,0,2,2017-05-13 14:30:00,Mitchell Weiser,Pass
+133450,77,MissedShots,0.9130000305175782,0.6880000305175781,0.038008298724889755,Genki Haraguchi,a,35,FromCorner,2016,LeftFoot,3872,Darmstadt,Hertha Berlin,0,2,2017-05-13 14:30:00,Niklas Stark,BallTouch
+223412,89,BlockedShot,0.855999984741211,0.41200000762939454,0.025401899591088295,Genki Haraguchi,a,35,FromCorner,2018,RightFoot,10356,RasenBallsport Leipzig,Hannover 96,3,2,2018-09-15 13:30:00,,Aerial
+255710,34,MissedShots,0.7580000305175781,0.44299999237060544,0.02459390088915825,Genki Haraguchi,h,35,OpenPlay,2018,RightFoot,10413,Hannover 96,Augsburg,1,2,2018-10-27 13:30:00,Walace,Pass
+255718,76,MissedShots,0.7919999694824219,0.23899999618530274,0.009350409731268883,Genki Haraguchi,h,35,SetPiece,2018,RightFoot,10413,Hannover 96,Augsburg,1,2,2018-10-27 13:30:00,,Aerial
+255996,8,BlockedShot,0.9159999847412109,0.49900001525878906,0.06081020087003708,Genki Haraguchi,a,35,OpenPlay,2018,Head,10423,Schalke 04,Hannover 96,3,1,2018-11-03 14:30:00,Ihlas Bebou,Aerial
+256007,48,BlockedShot,0.769000015258789,0.46799999237060547,0.02905840054154396,Genki Haraguchi,a,35,OpenPlay,2018,RightFoot,10423,Schalke 04,Hannover 96,3,1,2018-11-03 14:30:00,Bobby Wood,Pass
+256019,75,SavedShot,0.7580000305175781,0.4540000152587891,0.018766699358820915,Genki Haraguchi,a,35,FromCorner,2018,RightFoot,10423,Schalke 04,Hannover 96,3,1,2018-11-03 14:30:00,,None
+257170,26,MissedShots,0.7880000305175782,0.31799999237060544,0.028701800853013992,Genki Haraguchi,a,35,OpenPlay,2018,LeftFoot,10461,Mainz 05,Hannover 96,1,1,2018-12-09 14:30:00,Niclas Füllkrug,Pass
+256850,73,MissedShots,0.7719999694824219,0.37400001525878906,0.022473899647593498,Genki Haraguchi,h,35,OpenPlay,2018,LeftFoot,10469,Hannover 96,Bayern Munich,0,4,2018-12-15 14:30:00,Florent Muslija,Pass
+257604,56,MissedShots,0.7930000305175782,0.33599998474121096,0.030720600858330727,Genki Haraguchi,a,35,OpenPlay,2018,LeftFoot,10475,Freiburg,Hannover 96,1,1,2018-12-19 19:30:00,Waldemar Anton,Chipped
+257607,61,MissedShots,0.86,0.3609999847412109,0.06210840120911598,Genki Haraguchi,a,35,OpenPlay,2018,RightFoot,10475,Freiburg,Hannover 96,1,1,2018-12-19 19:30:00,Florent Muslija,Pass
+257695,30,BlockedShot,0.86,0.295,0.04388109967112541,Genki Haraguchi,h,35,OpenPlay,2018,LeftFoot,10489,Hannover 96,Fortuna Duesseldorf,0,1,2018-12-22 14:30:00,Hendrik Weydandt,BallTouch
+279034,8,MissedShots,0.8530000305175781,0.44099998474121094,0.05132940039038658,Genki Haraguchi,h,35,OpenPlay,2018,RightFoot,10522,Hannover 96,Nuernberg,2,0,2019-02-09 14:30:00,Hendrik Weydandt,Cross
+279041,29,SavedShot,0.8630000305175781,0.4470000076293945,0.06859339773654938,Genki Haraguchi,h,35,OpenPlay,2018,RightFoot,10522,Hannover 96,Nuernberg,2,0,2019-02-09 14:30:00,Hendrik Weydandt,HeadPass
+279046,38,MissedShots,0.799000015258789,0.575,0.042771100997924805,Genki Haraguchi,h,35,OpenPlay,2018,RightFoot,10522,Hannover 96,Nuernberg,2,0,2019-02-09 14:30:00,Walace,Pass
+279051,55,SavedShot,0.92,0.6719999694824219,0.08418499678373337,Genki Haraguchi,h,35,OpenPlay,2018,LeftFoot,10522,Hannover 96,Nuernberg,2,0,2019-02-09 14:30:00,Walace,BallRecovery
+279056,69,BlockedShot,0.7769999694824219,0.3340000152587891,0.029836799949407578,Genki Haraguchi,h,35,OpenPlay,2018,LeftFoot,10522,Hannover 96,Nuernberg,2,0,2019-02-09 14:30:00,Julian Korb,Pass
+279525,52,SavedShot,0.8019999694824219,0.769000015258789,0.05215059965848923,Genki Haraguchi,h,35,DirectFreekick,2018,RightFoot,10540,Hannover 96,Eintracht Frankfurt,0,3,2019-02-24 14:30:00,,Standard
+279749,50,MissedShots,0.7519999694824219,0.5640000152587891,0.014173699542880058,Genki Haraguchi,a,35,OpenPlay,2018,LeftFoot,10546,VfB Stuttgart,Hannover 96,5,1,2019-03-03 14:30:00,,None
+285288,32,BlockedShot,0.875,0.34799999237060547,0.18161499500274658,Genki Haraguchi,h,35,OpenPlay,2018,RightFoot,10561,Hannover 96,Bayer Leverkusen,2,3,2019-03-10 17:00:00,Michael Esser,Pass
+286101,32,MissedShots,0.8169999694824219,0.4570000076293945,0.04023220017552376,Genki Haraguchi,a,35,FromCorner,2018,LeftFoot,10567,Augsburg,Hannover 96,3,1,2019-03-16 14:30:00,,None
+286110,51,ShotOnPost,0.755,0.5309999847412109,0.0728117972612381,Genki Haraguchi,a,35,DirectFreekick,2018,RightFoot,10567,Augsburg,Hannover 96,3,1,2019-03-16 14:30:00,,Standard
+286124,93,MissedShots,0.8519999694824218,0.645,0.06416840106248856,Genki Haraguchi,a,35,OpenPlay,2018,LeftFoot,10567,Augsburg,Hannover 96,3,1,2019-03-16 14:30:00,Miiko Albornoz,Pass
+288175,19,BlockedShot,0.774000015258789,0.605,0.07974360138177872,Genki Haraguchi,h,35,DirectFreekick,2018,RightFoot,10577,Hannover 96,Schalke 04,0,1,2019-03-31 13:30:00,,Standard
+288176,27,MissedShots,0.7959999847412109,0.6079999923706054,0.03540189936757088,Genki Haraguchi,h,35,OpenPlay,2018,LeftFoot,10577,Hannover 96,Schalke 04,0,1,2019-03-31 13:30:00,Nicolai Müller,Pass
+288191,79,BlockedShot,0.8430000305175781,0.49700000762939456,0.08136969804763794,Genki Haraguchi,h,35,OpenPlay,2018,LeftFoot,10577,Hannover 96,Schalke 04,0,1,2019-03-31 13:30:00,Nicolai Müller,TakeOn
+291858,50,SavedShot,0.955,0.705,0.2089810073375702,Genki Haraguchi,a,35,OpenPlay,2018,RightFoot,10588,Wolfsburg,Hannover 96,3,1,2019-04-06 14:30:00,Marvin Bakalorz,TakeOn
+291860,57,SavedShot,0.9159999847412109,0.39799999237060546,0.5237820148468018,Genki Haraguchi,a,35,OpenPlay,2018,RightFoot,10588,Wolfsburg,Hannover 96,3,1,2019-04-06 14:30:00,Hendrik Weydandt,Pass
+293468,16,BlockedShot,0.7980000305175782,0.649000015258789,0.02992990054190159,Genki Haraguchi,h,35,OpenPlay,2018,RightFoot,10595,Hannover 96,Borussia M.Gladbach,0,1,2019-04-13 14:30:00,Matthias Ostrzolek,Pass
+296059,16,BlockedShot,0.825,0.5479999923706055,0.083501897752285,Genki Haraguchi,a,35,OpenPlay,2018,LeftFoot,10603,Hertha Berlin,Hannover 96,0,0,2019-04-21 17:00:00,Hendrik Weydandt,Pass
+296063,33,MissedShots,0.7190000152587891,0.5820000076293945,0.01606909930706024,Genki Haraguchi,a,35,OpenPlay,2018,RightFoot,10603,Hertha Berlin,Hannover 96,0,0,2019-04-21 17:00:00,Florent Muslija,Pass
+296074,66,MissedShots,0.8809999847412109,0.54,0.11647599935531616,Genki Haraguchi,a,35,SetPiece,2018,LeftFoot,10603,Hertha Berlin,Hannover 96,0,0,2019-04-21 17:00:00,,TakeOn
+299235,4,MissedShots,0.9059999847412109,0.49400001525878906,0.11364699900150299,Genki Haraguchi,a,35,OpenPlay,2018,Head,10616,Bayern Munich,Hannover 96,3,1,2019-05-04 14:30:00,Linton Maina,Cross
+425698,65,MissedShots,0.7469999694824219,0.6609999847412109,0.015867000445723534,Genki Haraguchi,h,35,OpenPlay,2021,RightFoot,17520,Union Berlin,Bayer Leverkusen,1,1,2021-08-14 13:30:00,Andreas Voglsammer,Pass
+425701,76,BlockedShot,0.7169999694824218,0.705999984741211,0.01059029996395111,Genki Haraguchi,h,35,OpenPlay,2021,RightFoot,17520,Union Berlin,Bayer Leverkusen,1,1,2021-08-14 13:30:00,Cedric Teuchert,Pass
+433284,84,MissedShots,0.8,0.5359999847412109,0.0491735003888607,Genki Haraguchi,h,35,OpenPlay,2021,RightFoot,17562,Union Berlin,Arminia Bielefeld,1,0,2021-09-25 13:30:00,Sheraldo Becker,Pass
+435553,31,MissedShots,0.759000015258789,0.5670000076293945,0.022041600197553635,Genki Haraguchi,a,35,OpenPlay,2021,LeftFoot,17573,Mainz 05,Union Berlin,1,2,2021-10-03 13:30:00,Julian Ryerson,Pass
+438485,24,MissedShots,0.8119999694824219,0.5,0.05880580097436905,Genki Haraguchi,a,35,OpenPlay,2021,RightFoot,17593,VfB Stuttgart,Union Berlin,1,1,2021-10-24 15:30:00,Christopher Trimmel,Pass
+439545,36,MissedShots,0.8080000305175781,0.6719999694824219,0.0289303008466959,Genki Haraguchi,h,35,FromCorner,2021,RightFoot,17602,Union Berlin,Bayern Munich,2,5,2021-10-30 13:30:00,Christopher Trimmel,Cross
+441884,13,MissedShots,0.784000015258789,0.649000015258789,0.019229499623179436,Genki Haraguchi,a,35,FromCorner,2021,LeftFoot,17608,FC Cologne,Union Berlin,2,2,2021-11-07 16:30:00,,None
+442824,61,BlockedShot,0.89,0.4209999847412109,0.13574199378490448,Genki Haraguchi,h,35,OpenPlay,2021,LeftFoot,17621,Union Berlin,Hertha Berlin,2,0,2021-11-20 17:30:00,Max Kruse,Pass
+445859,80,MissedShots,0.8869999694824219,0.41400001525878904,0.33037400245666504,Genki Haraguchi,h,35,OpenPlay,2021,LeftFoot,17639,Union Berlin,RasenBallsport Leipzig,2,1,2021-12-03 19:30:00,Julian Ryerson,Pass
+445863,86,BlockedShot,0.7980000305175782,0.67,0.03495519980788231,Genki Haraguchi,h,35,OpenPlay,2021,RightFoot,17639,Union Berlin,RasenBallsport Leipzig,2,1,2021-12-03 19:30:00,Niko Gießelmann,Pass
+448373,26,MissedShots,0.7780000305175782,0.4590000152587891,0.011443699710071087,Genki Haraguchi,a,35,FromCorner,2021,LeftFoot,17642,Greuther Fuerth,Union Berlin,1,0,2021-12-12 14:30:00,Niko Gießelmann,Chipped
+448374,52,MissedShots,0.740999984741211,0.3729999923706055,0.017033400014042854,Genki Haraguchi,a,35,OpenPlay,2021,RightFoot,17642,Greuther Fuerth,Union Berlin,1,0,2021-12-12 14:30:00,,BallTouch
+449031,2,SavedShot,0.919000015258789,0.5509999847412109,0.46403101086616516,Genki Haraguchi,h,35,OpenPlay,2021,LeftFoot,17656,Union Berlin,Freiburg,0,0,2021-12-15 19:30:00,Rani Khedira,BallTouch
+449035,19,MissedShots,0.99,0.5940000152587891,0.060499098151922226,Genki Haraguchi,h,35,OpenPlay,2021,LeftFoot,17656,Union Berlin,Freiburg,0,0,2021-12-15 19:30:00,Rani Khedira,Cross
+452155,9,BlockedShot,0.85,0.5479999923706055,0.08932209759950638,Genki Haraguchi,a,35,OpenPlay,2021,LeftFoot,17674,Bayer Leverkusen,Union Berlin,2,2,2022-01-08 14:30:00,Max Kruse,Pass
+453212,89,SavedShot,0.8959999847412109,0.6519999694824219,0.08763369917869568,Genki Haraguchi,h,35,OpenPlay,2021,RightFoot,17684,Union Berlin,Hoffenheim,2,1,2022-01-15 14:30:00,Sheraldo Becker,Pass
+455759,29,BlockedShot,0.8040000152587891,0.549000015258789,0.04048300161957741,Genki Haraguchi,a,35,OpenPlay,2021,RightFoot,17699,Augsburg,Union Berlin,2,0,2022-02-05 14:30:00,Taiwo Awoniyi,Pass
+455763,50,MissedShots,0.84,0.46099998474121096,0.07224349677562714,Genki Haraguchi,a,35,OpenPlay,2021,RightFoot,17699,Augsburg,Union Berlin,2,0,2022-02-05 14:30:00,Christopher Trimmel,Pass
+455765,54,BlockedShot,0.855999984741211,0.6320000076293946,0.04517479985952377,Genki Haraguchi,a,35,FromCorner,2021,RightFoot,17699,Augsburg,Union Berlin,2,0,2022-02-05 14:30:00,,None
+459667,6,Goal,0.850999984741211,0.45099998474121095,0.06963860243558884,Genki Haraguchi,h,35,OpenPlay,2021,RightFoot,17729,Union Berlin,Mainz 05,3,1,2022-02-26 14:30:00,,Rebound
+460914,4,MissedShots,0.7319999694824219,0.5890000152587891,0.024491600692272186,Genki Haraguchi,a,35,FromCorner,2021,RightFoot,17738,Wolfsburg,Union Berlin,1,0,2022-03-05 14:30:00,Sheraldo Becker,Pass
+464129,20,MissedShots,0.7659999847412109,0.31,0.015584000386297703,Genki Haraguchi,a,35,OpenPlay,2021,RightFoot,17758,Bayern Munich,Union Berlin,4,0,2022-03-19 17:30:00,,None
+464141,52,SavedShot,0.7930000305175782,0.5479999923706055,0.05017809942364693,Genki Haraguchi,a,35,OpenPlay,2021,LeftFoot,17758,Bayern Munich,Union Berlin,4,0,2022-03-19 17:30:00,,TakeOn
+466918,15,BlockedShot,0.705999984741211,0.42700000762939455,0.013107099570333958,Genki Haraguchi,a,35,FromCorner,2021,LeftFoot,17771,Hertha Berlin,Union Berlin,1,4,2022-04-09 16:30:00,,None
+466923,30,Goal,0.9540000152587891,0.47700000762939454,0.5759270191192627,Genki Haraguchi,a,35,OpenPlay,2021,Head,17771,Hertha Berlin,Union Berlin,1,4,2022-04-09 16:30:00,Sheraldo Becker,Cross
+468883,11,ShotOnPost,0.8980000305175782,0.565,0.0718419998884201,Genki Haraguchi,h,35,OpenPlay,2021,Head,17783,Union Berlin,Eintracht Frankfurt,2,0,2022-04-17 15:30:00,Timo Baumgartl,Cross
+468887,24,MissedShots,0.8109999847412109,0.3609999847412109,0.031027600169181824,Genki Haraguchi,h,35,FromCorner,2021,RightFoot,17783,Union Berlin,Eintracht Frankfurt,2,0,2022-04-17 15:30:00,Niko Gießelmann,Cross
+468890,35,MissedShots,0.7919999694824219,0.23,0.02865000069141388,Genki Haraguchi,h,35,OpenPlay,2021,LeftFoot,17783,Union Berlin,Eintracht Frankfurt,2,0,2022-04-17 15:30:00,Julian Ryerson,Pass
+475642,21,SavedShot,0.8619999694824219,0.3340000152587891,0.06910049915313721,Genki Haraguchi,h,35,OpenPlay,2021,RightFoot,17818,Union Berlin,Bochum,3,2,2022-05-14 13:30:00,Paul Jäckel,TakeOn
+479124,28,BlockedShot,0.8980000305175782,0.695,0.04844779893755913,Genki Haraguchi,h,35,OpenPlay,2022,RightFoot,19343,Union Berlin,Hertha Berlin,3,1,2022-08-06 13:30:00,Rani Khedira,Pass
+485839,93,BlockedShot,0.755,0.27700000762939453,0.01138749998062849,Genki Haraguchi,h,35,OpenPlay,2022,LeftFoot,19380,Union Berlin,Bayern Munich,1,1,2022-09-03 13:30:00,,None
+485840,94,MissedShots,0.77,0.5790000152587891,0.02513059973716736,Genki Haraguchi,h,35,OpenPlay,2022,LeftFoot,19380,Union Berlin,Bayern Munich,1,1,2022-09-03 13:30:00,,None
+499486,75,BlockedShot,0.8440000152587891,0.44299999237060544,0.07366179674863815,Genki Haraguchi,h,35,OpenPlay,2022,RightFoot,19461,Union Berlin,Augsburg,2,2,2022-11-09 19:30:00,Kevin Behrens,Pass
+499489,85,SavedShot,0.735999984741211,0.445,0.015638800337910652,Genki Haraguchi,h,35,FromCorner,2022,RightFoot,19461,Union Berlin,Augsburg,2,2,2022-11-09 19:30:00,,None
+504567,51,MissedShots,0.875,0.355,0.013131200335919857,Genki Haraguchi,h,35,OpenPlay,2022,Head,19479,Union Berlin,Hoffenheim,3,1,2023-01-21 14:30:00,Christopher Trimmel,Cross
+507676,82,BlockedShot,0.74,0.66,0.04800799861550331,Genki Haraguchi,h,35,DirectFreekick,2022,RightFoot,19512,VfB Stuttgart,Werder Bremen,0,2,2023-02-05 14:30:00,,Standard
+508337,3,BlockedShot,0.720999984741211,0.41200000762939454,0.013946499675512314,Genki Haraguchi,a,35,FromCorner,2022,RightFoot,19515,Freiburg,VfB Stuttgart,2,1,2023-02-11 14:30:00,,None
+509514,52,SavedShot,0.894000015258789,0.545,0.09913770109415054,Genki Haraguchi,h,35,OpenPlay,2022,LeftFoot,19530,VfB Stuttgart,FC Cologne,3,0,2023-02-18 14:30:00,Borna Sosa,Cross
+514838,11,MissedShots,0.7869999694824219,0.30700000762939456,0.018978599458932877,Genki Haraguchi,h,35,OpenPlay,2022,RightFoot,19566,VfB Stuttgart,Wolfsburg,0,1,2023-03-18 14:30:00,Gil Dias,Pass
+514850,63,MissedShots,0.7430000305175781,0.3629999923706055,0.009518120437860489,Genki Haraguchi,h,35,SetPiece,2022,RightFoot,19566,VfB Stuttgart,Wolfsburg,0,1,2023-03-18 14:30:00,,Aerial
+516259,67,OwnGoal,0.04099999904632568,0.52,0,Genki Haraguchi,a,35,OpenPlay,2022,RightFoot,19567,Union Berlin,VfB Stuttgart,3,0,2023-04-01 13:30:00,,None

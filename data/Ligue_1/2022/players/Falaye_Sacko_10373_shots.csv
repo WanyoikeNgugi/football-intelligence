@@ -1,0 +1,11 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+460109,11,BlockedShot,0.8519999694824218,0.3820000076293945,0.0520952008664608,Falaye Sacko,a,10373,OpenPlay,2021,RightFoot,18075,Paris Saint Germain,Saint-Etienne,3,1,2022-02-26 20:00:00,,Rebound
+480703,38,OwnGoal,0.024000000953674317,0.4879999923706055,0,Falaye Sacko,a,10373,OpenPlay,2022,LeftFoot,19660,Paris Saint Germain,Montpellier,5,2,2022-08-13 19:00:00,,None
+482350,68,MissedShots,0.960999984741211,0.4279999923706055,0.07954069972038269,Falaye Sacko,h,10373,FromCorner,2022,OtherBodyPart,19672,Montpellier,Auxerre,1,2,2022-08-21 13:00:00,Téji Savanier,Cross
+485076,11,MissedShots,0.9169999694824219,0.48400001525878905,0.12306500226259232,Falaye Sacko,h,10373,SetPiece,2022,Head,19691,Montpellier,Ajaccio,2,0,2022-08-31 17:00:00,Arnaud Nordin,Cross
+485086,56,BlockedShot,0.7680000305175781,0.41,0.03745400160551071,Falaye Sacko,h,10373,OpenPlay,2022,RightFoot,19691,Montpellier,Ajaccio,2,0,2022-08-31 17:00:00,Faitout Maouassa,BallRecovery
+521601,25,MissedShots,0.6709999847412109,0.46599998474121096,0.011620410718023777,Falaye Sacko,h,10373,FromCorner,2022,RightFoot,19963,Montpellier,Rennes,1,0,2023-04-23 15:00:00,,None
+527557,87,Goal,0.9080000305175782,0.3990000152587891,0.3730887770652771,Falaye Sacko,a,10373,OpenPlay,2022,RightFoot,20001,Nantes,Montpellier,0,3,2023-05-20 15:00:00,Joris Chotard,Pass
+529488,36,SavedShot,0.9009999847412109,0.285,0.021285012364387512,Falaye Sacko,h,10373,OpenPlay,2022,RightFoot,20011,Montpellier,Nice,2,3,2023-05-27 19:00:00,,Aerial
+545987,34,BlockedShot,0.745,0.36900001525878906,0.023633526638150215,Falaye Sacko,h,10373,OpenPlay,2023,RightFoot,23459,Montpellier,Toulouse,3,0,2023-10-29 14:00:00,,BallRecovery
+565937,81,OwnGoal,0.029000000953674318,0.5070000076293946,0,Falaye Sacko,a,10373,OpenPlay,2023,RightFoot,23575,Marseille,Montpellier,4,1,2024-02-25 19:45:00,,Clearance

@@ -1,0 +1,20 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+127531,3,ShotOnPost,0.855,0.3579999923706055,0.04927439987659454,Dominik Kaiser,a,5252,OpenPlay,2016,RightFoot,1335,Hoffenheim,RasenBallsport Leipzig,2,2,2016-08-28 19:30:00,,Rebound
+127534,12,SavedShot,0.9130000305175782,0.5609999847412109,0.4410099983215332,Dominik Kaiser,a,5252,OpenPlay,2016,LeftFoot,1335,Hoffenheim,RasenBallsport Leipzig,2,2,2016-08-28 19:30:00,Marcel Halstenberg,Pass
+127541,30,BlockedShot,0.805,0.7609999847412109,0.022141899913549423,Dominik Kaiser,a,5252,FromCorner,2016,RightFoot,1335,Hoffenheim,RasenBallsport Leipzig,2,2,2016-08-28 19:30:00,Diego Demme,Pass
+127542,33,MissedShots,0.875,0.3390000152587891,0.06308750063180923,Dominik Kaiser,a,5252,OpenPlay,2016,RightFoot,1335,Hoffenheim,RasenBallsport Leipzig,2,2,2016-08-28 19:30:00,Benno Schmitz,Tackle
+127545,42,SavedShot,0.7959999847412109,0.6370000076293946,0.031298499554395676,Dominik Kaiser,a,5252,OpenPlay,2016,RightFoot,1335,Hoffenheim,RasenBallsport Leipzig,2,2,2016-08-28 19:30:00,Marcel Halstenberg,Pass
+127550,57,Goal,0.909000015258789,0.41,0.08364120125770569,Dominik Kaiser,a,5252,OpenPlay,2016,RightFoot,1335,Hoffenheim,RasenBallsport Leipzig,2,2,2016-08-28 19:30:00,Diego Demme,Chipped
+128097,11,MissedShots,0.8190000152587891,0.850999984741211,0.03861600160598755,Dominik Kaiser,h,5252,DirectFreekick,2016,RightFoot,1342,RasenBallsport Leipzig,Borussia Dortmund,1,0,2016-09-10 20:30:00,,Standard
+128592,27,BlockedShot,0.8109999847412109,0.52,0.0648534968495369,Dominik Kaiser,h,5252,OpenPlay,2016,LeftFoot,1358,RasenBallsport Leipzig,Borussia M.Gladbach,1,1,2016-09-21 22:00:00,Stefan Ilsanker,Pass
+129145,27,SavedShot,0.8590000152587891,0.3039999961853027,0.028694400563836098,Dominik Kaiser,a,5252,SetPiece,2016,RightFoot,1389,Wolfsburg,RasenBallsport Leipzig,0,1,2016-10-16 19:30:00,Timo Werner,Pass
+129150,46,BlockedShot,0.88,0.3060000038146973,0.07463820278644562,Dominik Kaiser,a,5252,OpenPlay,2016,RightFoot,1389,Wolfsburg,RasenBallsport Leipzig,0,1,2016-10-16 19:30:00,Timo Werner,Pass
+129469,3,MissedShots,0.7559999847412109,0.40400001525878904,0.02150679938495159,Dominik Kaiser,h,5252,OpenPlay,2016,RightFoot,1397,RasenBallsport Leipzig,Werder Bremen,3,1,2016-10-23 17:30:00,Timo Werner,Pass
+129477,45,MissedShots,0.7280000305175781,0.445,0.01993430033326149,Dominik Kaiser,h,5252,OpenPlay,2016,RightFoot,1397,RasenBallsport Leipzig,Werder Bremen,3,1,2016-10-23 17:30:00,,None
+129478,46,MissedShots,0.8019999694824219,0.5729999923706055,0.0556160993874073,Dominik Kaiser,h,5252,OpenPlay,2016,LeftFoot,1397,RasenBallsport Leipzig,Werder Bremen,3,1,2016-10-23 17:30:00,Marcel Halstenberg,Pass
+131698,90,MissedShots,0.7680000305175781,0.5459999847412109,0.05324390158057213,Dominik Kaiser,h,5252,OpenPlay,2016,LeftFoot,3213,RasenBallsport Leipzig,Hertha Berlin,2,0,2016-12-17 18:30:00,,TakeOn
+133885,91,BlockedShot,0.845999984741211,0.505,0.11979799717664719,Dominik Kaiser,a,5252,OpenPlay,2016,RightFoot,3818,Mainz 05,RasenBallsport Leipzig,2,3,2017-04-05 19:00:00,,TakeOn
+166040,86,SavedShot,0.875999984741211,0.25799999237060545,0.04721380025148392,Dominik Kaiser,h,5252,OpenPlay,2017,RightFoot,8275,RasenBallsport Leipzig,Freiburg,4,1,2017-08-27 14:30:00,Lukas Klostermann,Pass
+179849,44,MissedShots,0.7809999847412109,0.37099998474121093,0.07997419685125351,Dominik Kaiser,h,5252,DirectFreekick,2017,RightFoot,8386,RasenBallsport Leipzig,Mainz 05,2,2,2017-12-09 14:30:00,,Standard
+209262,31,BlockedShot,0.7830000305175782,0.3,0.061813101172447205,Dominik Kaiser,a,5252,DirectFreekick,2017,RightFoot,8523,Werder Bremen,RasenBallsport Leipzig,1,1,2018-04-15 16:00:00,,Standard
+213161,38,BlockedShot,0.8109999847412109,0.735999984741211,0.06559039652347565,Dominik Kaiser,h,5252,DirectFreekick,2017,RightFoot,8551,RasenBallsport Leipzig,Wolfsburg,4,1,2018-05-05 14:30:00,,Standard

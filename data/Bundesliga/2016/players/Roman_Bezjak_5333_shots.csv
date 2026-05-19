@@ -1,0 +1,10 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+128027,29,MissedShots,0.8959999847412109,0.6229999923706054,0.04157720133662224,Roman Bezjak,h,5333,SetPiece,2016,RightFoot,1339,Darmstadt,Eintracht Frankfurt,1,0,2016-09-10 17:30:00,Jérôme Gondorf,Cross
+128040,60,MissedShots,0.7609999847412109,0.3579999923706055,0.02043519914150238,Roman Bezjak,h,5333,OpenPlay,2016,RightFoot,1339,Darmstadt,Eintracht Frankfurt,1,0,2016-09-10 17:30:00,Marcel Heller,Pass
+128201,51,SavedShot,0.7859999847412109,0.40799999237060547,0.0692133978009224,Roman Bezjak,a,5333,OpenPlay,2016,RightFoot,1350,Borussia Dortmund,Darmstadt,6,0,2016-09-17 17:30:00,Marcel Heller,BallRecovery
+128549,50,MissedShots,0.909000015258789,0.575,0.043122299015522,Roman Bezjak,h,5333,SetPiece,2016,OtherBodyPart,1356,Darmstadt,Hoffenheim,1,1,2016-09-20 22:00:00,Jérôme Gondorf,Cross
+129007,75,MissedShots,0.94,0.46599998474121096,0.1524530053138733,Roman Bezjak,h,5333,OpenPlay,2016,RightFoot,1376,Darmstadt,Werder Bremen,2,2,2016-10-01 17:30:00,Marcel Heller,Pass
+129126,45,MissedShots,0.925,0.605999984741211,0.037439100444316864,Roman Bezjak,a,5333,OpenPlay,2016,Head,1388,Mainz 05,Darmstadt,2,1,2016-10-16 17:30:00,Jérôme Gondorf,Chipped
+129430,53,SavedShot,0.874000015258789,0.580999984741211,0.2850619852542877,Roman Bezjak,h,5333,SetPiece,2016,LeftFoot,1392,Darmstadt,Wolfsburg,3,1,2016-10-22 17:30:00,László Kleinheisler,Chipped
+130102,57,MissedShots,0.875999984741211,0.6370000076293946,0.05538560077548027,Roman Bezjak,h,5333,OpenPlay,2016,LeftFoot,3304,Darmstadt,RasenBallsport Leipzig,0,2,2016-10-29 17:30:00,,None
+131368,90,BlockedShot,0.8769999694824219,0.5270000076293946,0.07422170042991638,Roman Bezjak,a,5333,OpenPlay,2016,LeftFoot,3202,Freiburg,Darmstadt,1,0,2016-12-10 18:30:00,Dominik Stroh-Engel,HeadPass

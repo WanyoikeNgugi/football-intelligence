@@ -1,0 +1,103 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+76271,49,MissedShots,0.8640000152587891,0.445,0.011954699642956257,Benjamin Hübner,a,251,FromCorner,2015,Head,1025,Mainz 05,Ingolstadt,0,1,2015-08-15 17:30:00,Konstantin Engel,Aerial
+76274,62,SavedShot,0.9459999847412109,0.43099998474121093,0.10524699836969376,Benjamin Hübner,a,251,SetPiece,2015,LeftFoot,1025,Mainz 05,Ingolstadt,0,1,2015-08-15 17:30:00,Pascal Groß,Pass
+76614,30,MissedShots,0.845,0.509000015258789,0.06728769838809967,Benjamin Hübner,a,251,SetPiece,2015,LeftFoot,1041,Augsburg,Ingolstadt,0,1,2015-08-29 17:30:00,,Rebound
+76616,33,MissedShots,0.9269999694824219,0.46599998474121096,0.052987199276685715,Benjamin Hübner,a,251,FromCorner,2015,Head,1041,Augsburg,Ingolstadt,0,1,2015-08-29 17:30:00,Pascal Groß,Aerial
+77647,34,MissedShots,0.9069999694824219,0.4520000076293945,0.023098399862647057,Benjamin Hübner,a,251,FromCorner,2015,Head,1075,FC Cologne,Ingolstadt,1,1,2015-09-25 22:30:00,Pascal Groß,Aerial
+77878,49,ShotOnPost,0.9290000152587891,0.4759999847412109,0.3807530105113983,Benjamin Hübner,h,251,SetPiece,2015,Head,1089,Ingolstadt,Eintracht Frankfurt,2,0,2015-10-03 17:30:00,Pascal Groß,Chipped
+78364,89,BlockedShot,0.924000015258789,0.545,0.0997805967926979,Benjamin Hübner,h,251,FromCorner,2015,Head,1108,Ingolstadt,Hertha Berlin,0,1,2015-10-24 20:30:00,Markus Suttner,Cross
+78415,85,MissedShots,0.9019999694824219,0.47200000762939454,0.023671699687838554,Benjamin Hübner,a,251,FromCorner,2015,Head,1116,Schalke 04,Ingolstadt,1,1,2015-10-31 18:30:00,Pascal Groß,Aerial
+79086,45,SavedShot,0.9069999694824219,0.4570000076293945,0.07172030210494995,Benjamin Hübner,h,251,FromCorner,2015,LeftFoot,1137,Ingolstadt,Darmstadt,3,1,2015-11-22 20:40:00,Pascal Groß,Cross
+80275,4,MissedShots,0.885,0.4370000076293945,0.049817800521850586,Benjamin Hübner,h,251,SetPiece,2015,Head,1179,Ingolstadt,Mainz 05,1,0,2016-01-23 18:30:00,Pascal Groß,Chipped
+80780,53,MissedShots,0.9159999847412109,0.47,0.09291739761829376,Benjamin Hübner,a,251,FromCorner,2015,Head,1204,Wolfsburg,Ingolstadt,2,0,2016-02-13 18:30:00,Pascal Groß,Cross
+81190,11,Goal,0.9690000152587891,0.47,0.7541630268096924,Benjamin Hübner,h,251,SetPiece,2015,LeftFoot,1214,Ingolstadt,Werder Bremen,2,0,2016-02-20 18:30:00,,Rebound
+81276,24,MissedShots,0.89,0.48,0.01714790053665638,Benjamin Hübner,a,251,FromCorner,2015,Head,1222,Hamburger SV,Ingolstadt,1,1,2016-02-27 18:30:00,Pascal Groß,Aerial
+81648,45,MissedShots,0.88,0.6370000076293946,0.011520800180733204,Benjamin Hübner,h,251,FromCorner,2015,Head,1229,Ingolstadt,FC Cologne,1,1,2016-03-01 23:00:00,Pascal Groß,Aerial
+82826,34,MissedShots,0.9269999694824219,0.4279999923706055,0.07910779863595963,Benjamin Hübner,h,251,FromCorner,2015,Head,1274,Ingolstadt,Borussia M.Gladbach,1,0,2016-04-09 17:30:00,Pascal Groß,Cross
+82830,50,MissedShots,0.92,0.4779999923706055,0.11947400122880936,Benjamin Hübner,h,251,FromCorner,2015,OtherBodyPart,1274,Ingolstadt,Borussia M.Gladbach,1,0,2016-04-09 17:30:00,Lukas Hinterseer,HeadPass
+83045,76,MissedShots,0.8930000305175781,0.5729999923706055,0.05782080069184303,Benjamin Hübner,a,251,SetPiece,2015,Head,1284,Darmstadt,Ingolstadt,2,0,2016-04-16 17:30:00,Pascal Groß,Cross
+83267,6,MissedShots,0.899000015258789,0.4520000076293945,0.018890900537371635,Benjamin Hübner,h,251,FromCorner,2015,Head,1296,Ingolstadt,Hannover 96,2,2,2016-04-23 17:30:00,Pascal Groß,Aerial
+83730,77,BlockedShot,0.8690000152587891,0.5729999923706055,0.018943600356578827,Benjamin Hübner,h,251,FromCorner,2015,Head,1317,Ingolstadt,Bayern Munich,1,2,2016-05-07 17:30:00,Pascal Groß,Cross
+83867,24,MissedShots,0.8730000305175781,0.4470000076293945,0.030543699860572815,Benjamin Hübner,a,251,SetPiece,2015,Head,1323,Bayer Leverkusen,Ingolstadt,3,2,2016-05-14 17:30:00,Pascal Groß,Cross
+130935,50,MissedShots,0.9630000305175781,0.57,0.1203019991517067,Benjamin Hübner,a,251,FromCorner,2016,Head,2826,Borussia M.Gladbach,Hoffenheim,1,1,2016-11-26 18:30:00,Sebastian Rudy,Cross
+130717,7,ShotOnPost,0.9130000305175782,0.515,0.09209450334310532,Benjamin Hübner,h,251,FromCorner,2016,Head,3196,Hoffenheim,FC Cologne,4,0,2016-12-03 18:30:00,Sebastian Rudy,Cross
+131659,19,BlockedShot,0.9059999847412109,0.585,0.01483870018273592,Benjamin Hübner,h,251,FromCorner,2016,Head,3210,Hoffenheim,Borussia Dortmund,2,2,2016-12-16 19:30:00,Sebastian Rudy,Aerial
+131469,23,SavedShot,0.895,0.47,0.0567719005048275,Benjamin Hübner,a,251,FromCorner,2016,Head,3732,RasenBallsport Leipzig,Hoffenheim,2,1,2017-01-28 17:30:00,Kerem Demirbay,Cross
+132577,59,SavedShot,0.9169999694824219,0.53,0.0956655964255333,Benjamin Hübner,a,251,FromCorner,2016,Head,3756,Wolfsburg,Hoffenheim,2,1,2017-02-12 14:30:00,Sebastian Rudy,Cross
+131995,49,MissedShots,0.91,0.5590000152587891,0.03624730184674263,Benjamin Hübner,a,251,SetPiece,2016,Head,3775,Schalke 04,Hoffenheim,1,1,2017-02-26 16:30:00,Kerem Demirbay,Aerial
+133279,39,MissedShots,0.9319999694824219,0.4640000152587891,0.06781979650259018,Benjamin Hübner,h,251,SetPiece,2016,Head,3780,Hoffenheim,Ingolstadt,5,2,2017-03-04 14:30:00,Kerem Demirbay,Aerial
+133296,86,SavedShot,0.9219999694824219,0.6020000076293945,0.02765120007097721,Benjamin Hübner,h,251,OpenPlay,2016,Head,3780,Hoffenheim,Ingolstadt,5,2,2017-03-04 14:30:00,Jeremy Toljan,Aerial
+133297,87,Goal,0.9390000152587891,0.5279999923706055,0.06831140071153641,Benjamin Hübner,h,251,FromCorner,2016,Head,3780,Hoffenheim,Ingolstadt,5,2,2017-03-04 14:30:00,Kerem Demirbay,Aerial
+134141,63,MissedShots,0.909000015258789,0.5459999847412109,0.0715290978550911,Benjamin Hübner,a,251,FromCorner,2016,Head,3788,Freiburg,Hoffenheim,1,1,2017-03-11 14:30:00,Sebastian Rudy,Cross
+132732,30,MissedShots,0.9469999694824218,0.5920000076293945,0.07017719745635986,Benjamin Hübner,h,251,FromCorner,2016,Head,3799,Hoffenheim,Bayer Leverkusen,1,0,2017-03-18 14:30:00,Sebastian Rudy,Cross
+133076,7,BlockedShot,0.9540000152587891,0.5320000076293945,0.13511799275875092,Benjamin Hübner,a,251,FromCorner,2016,Head,3803,Hertha Berlin,Hoffenheim,1,3,2017-03-31 19:30:00,Sebastian Rudy,Cross
+133093,53,BlockedShot,0.9009999847412109,0.5370000076293945,0.0974097028374672,Benjamin Hübner,a,251,FromCorner,2016,RightFoot,3803,Hertha Berlin,Hoffenheim,1,3,2017-03-31 19:30:00,Niklas Süle,HeadPass
+134715,68,MissedShots,0.885,0.6140000152587891,0.03730129823088646,Benjamin Hübner,a,251,SetPiece,2016,Head,3826,Hamburger SV,Hoffenheim,2,1,2017-04-08 14:30:00,Andrej Kramaric,Chipped
+133115,22,BlockedShot,0.89,0.5379999923706055,0.015921700745821,Benjamin Hübner,h,251,FromCorner,2016,Head,3838,Hoffenheim,Borussia M.Gladbach,5,3,2017-04-15 14:30:00,Sebastian Rudy,Aerial
+134702,89,Goal,0.9290000152587891,0.4779999923706055,0.1152930036187172,Benjamin Hübner,h,251,FromCorner,2016,Head,3852,Hoffenheim,Eintracht Frankfurt,1,0,2017-04-30 16:30:00,Sebastian Rudy,Cross
+134848,40,MissedShots,0.9169999694824219,0.48200000762939454,0.10093999654054642,Benjamin Hübner,a,251,FromCorner,2016,Head,3860,Borussia Dortmund,Hoffenheim,2,1,2017-05-06 14:30:00,Sebastian Rudy,Cross
+167184,29,MissedShots,0.91,0.5259999847412109,0.08406790345907211,Benjamin Hübner,h,251,FromCorner,2017,Head,8292,Hoffenheim,Hertha Berlin,1,1,2017-09-17 12:30:00,Kerem Demirbay,Cross
+167228,73,MissedShots,0.94,0.4779999923706055,0.1272750049829483,Benjamin Hübner,a,251,FromCorner,2017,Head,8303,Mainz 05,Hoffenheim,2,3,2017-09-20 19:30:00,Kerem Demirbay,Cross
+167637,47,MissedShots,0.9219999694824219,0.44,0.29259800910949707,Benjamin Hübner,h,251,FromCorner,2017,RightFoot,8324,Hoffenheim,Augsburg,2,2,2017-10-14 14:30:00,Andrej Kramaric,Cross
+167639,51,Goal,0.919000015258789,0.5320000076293945,0.04724710062146187,Benjamin Hübner,h,251,FromCorner,2017,Head,8324,Hoffenheim,Augsburg,2,2,2017-10-14 14:30:00,,Aerial
+168431,56,SavedShot,0.8959999847412109,0.515,0.07583259791135788,Benjamin Hübner,a,251,SetPiece,2017,RightFoot,8339,Wolfsburg,Hoffenheim,1,1,2017-10-22 17:00:00,Andrej Kramaric,Cross
+168436,71,BlockedShot,0.8619999694824219,0.5320000076293945,0.06738589704036713,Benjamin Hübner,a,251,OpenPlay,2017,RightFoot,8339,Wolfsburg,Hoffenheim,1,1,2017-10-22 17:00:00,Andrej Kramaric,Cross
+179786,74,SavedShot,0.92,0.549000015258789,0.0901528000831604,Benjamin Hübner,a,251,OpenPlay,2017,Head,8388,Hannover 96,Hoffenheim,2,0,2017-12-10 14:30:00,Pavel Kaderábek,Cross
+187214,35,MissedShots,0.9209999847412109,0.57,0.07202240079641342,Benjamin Hübner,a,251,FromCorner,2017,Head,8415,Werder Bremen,Hoffenheim,1,1,2018-01-13 14:30:00,Dennis Geiger,Cross
+187215,38,Goal,0.9230000305175782,0.46799999237060547,0.3218800127506256,Benjamin Hübner,a,251,FromCorner,2017,Head,8415,Werder Bremen,Hoffenheim,1,1,2018-01-13 14:30:00,Serge Gnabry,Cross
+188652,30,MissedShots,0.9169999694824219,0.664000015258789,0.01544519979506731,Benjamin Hübner,h,251,FromCorner,2017,Head,8422,Hoffenheim,Bayer Leverkusen,1,4,2018-01-20 14:30:00,Florian Grillitsch,Cross
+194710,27,MissedShots,0.9019999694824219,0.5109999847412109,0.07112950086593628,Benjamin Hübner,a,251,FromCorner,2017,Head,8439,Hertha Berlin,Hoffenheim,1,1,2018-02-03 14:30:00,Nadiem Amiri,Cross
+195006,49,MissedShots,0.8969999694824219,0.49700000762939456,0.06414130330085754,Benjamin Hübner,h,251,FromCorner,2017,Head,8454,Hoffenheim,Mainz 05,4,2,2018-02-10 14:30:00,Dennis Geiger,Cross
+195009,52,MissedShots,0.6880000305175781,0.5459999847412109,0.012308700010180473,Benjamin Hübner,h,251,OpenPlay,2017,LeftFoot,8454,Hoffenheim,Mainz 05,4,2,2018-02-10 14:30:00,Serge Gnabry,Pass
+198804,65,BlockedShot,0.9059999847412109,0.515,0.0362824983894825,Benjamin Hübner,a,251,FromCorner,2017,Head,8481,Augsburg,Hoffenheim,0,2,2018-03-03 14:30:00,Andrej Kramaric,Foul
+198811,86,MissedShots,0.8930000305175781,0.5479999923706055,0.05714759975671768,Benjamin Hübner,a,251,FromCorner,2017,LeftFoot,8481,Augsburg,Hoffenheim,0,2,2018-03-03 14:30:00,Mark Uth,Cross
+201298,12,Goal,0.935,0.47400001525878904,0.38861098885536194,Benjamin Hübner,a,251,FromCorner,2017,Head,8496,Borussia M.Gladbach,Hoffenheim,3,3,2018-03-17 14:30:00,Andrej Kramaric,Cross
+201329,92,MissedShots,0.92,0.5279999923706055,0.10122700035572052,Benjamin Hübner,a,251,FromCorner,2017,Head,8496,Borussia M.Gladbach,Hoffenheim,3,3,2018-03-17 14:30:00,Andrej Kramaric,Cross
+204504,24,BlockedShot,0.9080000305175782,0.46700000762939453,0.07683420181274414,Benjamin Hübner,h,251,FromCorner,2017,Head,8506,Hoffenheim,FC Cologne,6,0,2018-03-31 14:30:00,Andrej Kramaric,Cross
+207357,39,MissedShots,0.9219999694824219,0.49900001525878906,0.05303110182285309,Benjamin Hübner,a,251,FromCorner,2017,Head,8516,Eintracht Frankfurt,Hoffenheim,1,1,2018-04-08 16:00:00,Andrej Kramaric,Aerial
+208323,7,MissedShots,0.8419999694824218,0.6930000305175781,0.02613450028002262,Benjamin Hübner,h,251,FromCorner,2017,LeftFoot,8521,Hoffenheim,Hamburger SV,2,0,2018-04-14 13:30:00,,None
+208333,28,MissedShots,0.919000015258789,0.53,0.044218000024557114,Benjamin Hübner,h,251,FromCorner,2017,Head,8521,Hoffenheim,Hamburger SV,2,0,2018-04-14 13:30:00,Andrej Kramaric,Aerial
+208337,38,SavedShot,0.905,0.5370000076293945,0.2402849942445755,Benjamin Hübner,h,251,SetPiece,2017,Head,8521,Hoffenheim,Hamburger SV,2,0,2018-04-14 13:30:00,Andrej Kramaric,Cross
+257648,84,SavedShot,0.9130000305175782,0.46799999237060547,0.0351594015955925,Benjamin Hübner,a,251,FromCorner,2018,Head,10474,Werder Bremen,Hoffenheim,1,1,2018-12-19 19:30:00,Kerem Demirbay,Aerial
+257863,34,ShotOnPost,0.9309999847412109,0.5879999923706055,0.06460829824209213,Benjamin Hübner,h,251,FromCorner,2018,Head,10482,Hoffenheim,Mainz 05,1,1,2018-12-23 17:00:00,Kerem Demirbay,Cross
+257879,82,BlockedShot,0.8930000305175781,0.5279999923706055,0.05399530008435249,Benjamin Hübner,h,251,FromCorner,2018,Head,10482,Hoffenheim,Mainz 05,1,1,2018-12-23 17:00:00,Kerem Demirbay,Cross
+278603,65,SavedShot,0.9059999847412109,0.515,0.25527501106262207,Benjamin Hübner,a,251,SetPiece,2018,Head,10504,Freiburg,Hoffenheim,2,4,2019-01-26 14:30:00,Kerem Demirbay,Cross
+279003,73,MissedShots,0.9530000305175781,0.5220000076293946,0.47574499249458313,Benjamin Hübner,a,251,FromCorner,2018,Head,10518,Borussia Dortmund,Hoffenheim,3,3,2019-02-09 14:30:00,Dennis Geiger,Cross
+287168,45,MissedShots,0.8719999694824219,0.48700000762939455,0.04756949841976166,Benjamin Hübner,h,251,SetPiece,2018,Head,10571,Hoffenheim,Bayer Leverkusen,4,1,2019-03-29 19:30:00,Kerem Demirbay,Cross
+294033,72,MissedShots,0.9019999694824219,0.41,0.01397790014743805,Benjamin Hübner,h,251,FromCorner,2018,Head,10589,Hoffenheim,Hertha Berlin,2,0,2019-04-14 12:30:00,Kerem Demirbay,Aerial
+294032,72,SavedShot,0.915,0.4779999923706055,0.09472910314798355,Benjamin Hübner,h,251,FromCorner,2018,Head,10589,Hoffenheim,Hertha Berlin,2,0,2019-04-14 12:30:00,Andrej Kramaric,Cross
+321481,72,MissedShots,0.894000015258789,0.575999984741211,0.014163900166749954,Benjamin Hübner,a,251,FromCorner,2019,Head,12447,Wolfsburg,Hoffenheim,1,1,2019-09-23 18:30:00,Dennis Geiger,Aerial
+326460,6,MissedShots,0.86,0.4379999923706055,0.028509199619293213,Benjamin Hübner,h,251,SetPiece,2019,Head,12473,Hoffenheim,Schalke 04,2,0,2019-10-20 17:00:00,Dennis Geiger,Cross
+326477,90,MissedShots,0.92,0.5129999923706055,0.049554500728845596,Benjamin Hübner,h,251,FromCorner,2019,Head,12473,Hoffenheim,Schalke 04,2,0,2019-10-20 17:00:00,Sebastian Rudy,Aerial
+327029,57,SavedShot,0.76,0.5929999923706055,0.0278462003916502,Benjamin Hübner,a,251,OpenPlay,2019,RightFoot,12482,Hertha Berlin,Hoffenheim,2,3,2019-10-26 14:30:00,Andrej Kramaric,Pass
+327035,78,Goal,0.935,0.5259999847412109,0.12244399636983871,Benjamin Hübner,a,251,FromCorner,2019,Head,12482,Hertha Berlin,Hoffenheim,2,3,2019-10-26 14:30:00,Sebastian Rudy,Cross
+328797,73,MissedShots,0.9119999694824219,0.500999984741211,0.03845610097050667,Benjamin Hübner,h,251,FromCorner,2019,Head,12489,Hoffenheim,Paderborn,3,0,2019-11-01 19:30:00,Robert Skov,Aerial
+330241,20,BlockedShot,0.745999984741211,0.3729999923706055,0.01716490089893341,Benjamin Hübner,a,251,OpenPlay,2019,LeftFoot,12498,FC Cologne,Hoffenheim,1,2,2019-11-08 19:30:00,Jürgen Locadia,Pass
+330262,91,MissedShots,0.695,0.6630000305175782,0.012922200374305248,Benjamin Hübner,a,251,OpenPlay,2019,LeftFoot,12498,FC Cologne,Hoffenheim,1,2,2019-11-08 19:30:00,Florian Grillitsch,Pass
+338045,37,MissedShots,0.879000015258789,0.445,0.012512500397861004,Benjamin Hübner,a,251,SetPiece,2019,Head,12546,Union Berlin,Hoffenheim,0,2,2019-12-17 19:30:00,Robert Skov,Aerial
+362561,8,MissedShots,0.9319999694824219,0.44299999237060544,0.1004130020737648,Benjamin Hübner,h,251,FromCorner,2019,Head,12557,Hoffenheim,Eintracht Frankfurt,1,2,2020-01-18 14:30:00,Dennis Geiger,Cross
+362569,36,SavedShot,0.9019999694824219,0.435,0.05195489898324013,Benjamin Hübner,h,251,FromCorner,2019,Head,12557,Hoffenheim,Eintracht Frankfurt,1,2,2020-01-18 14:30:00,Dennis Geiger,Cross
+362570,36,MissedShots,0.9159999847412109,0.49900001525878906,0.05063299834728241,Benjamin Hübner,h,251,FromCorner,2019,Head,12557,Hoffenheim,Eintracht Frankfurt,1,2,2020-01-18 14:30:00,Dennis Geiger,Aerial
+356287,41,MissedShots,0.9119999694824219,0.5159999847412109,0.09018079936504364,Benjamin Hübner,a,251,FromCorner,2019,Head,12571,Werder Bremen,Hoffenheim,0,3,2020-01-26 14:30:00,Sebastian Rudy,Cross
+358008,69,MissedShots,0.750999984741211,0.555,0.020315399393439293,Benjamin Hübner,a,251,OpenPlay,2019,LeftFoot,12590,Freiburg,Hoffenheim,1,0,2020-02-08 14:30:00,,None
+358876,82,MissedShots,0.905,0.4209999847412109,0.05961909890174866,Benjamin Hübner,h,251,SetPiece,2019,Head,12594,Hoffenheim,Wolfsburg,2,3,2020-02-15 14:30:00,Robert Skov,Cross
+359779,16,BlockedShot,0.9059999847412109,0.46900001525878904,0.0742264986038208,Benjamin Hübner,a,251,FromCorner,2019,Head,12603,Borussia M.Gladbach,Hoffenheim,1,1,2020-02-22 14:30:00,Robert Skov,Cross
+359796,56,MissedShots,0.9069999694824219,0.500999984741211,0.08218909800052643,Benjamin Hübner,a,251,FromCorner,2019,Head,12603,Borussia M.Gladbach,Hoffenheim,1,1,2020-02-22 14:30:00,Robert Skov,Cross
+359801,63,MissedShots,0.9330000305175781,0.5270000076293946,0.3886840045452118,Benjamin Hübner,a,251,FromCorner,2019,Head,12603,Borussia M.Gladbach,Hoffenheim,1,1,2020-02-22 14:30:00,Robert Skov,Cross
+361763,68,MissedShots,0.9119999694824219,0.4640000152587891,0.037206098437309265,Benjamin Hübner,a,251,FromCorner,2019,Head,12626,Schalke 04,Hoffenheim,1,1,2020-03-07 14:30:00,,Aerial
+362984,62,MissedShots,0.904000015258789,0.47900001525878905,0.026158800348639488,Benjamin Hübner,h,251,FromCorner,2019,Head,12632,Hoffenheim,Hertha Berlin,0,3,2020-05-16 13:30:00,Robert Skov,Aerial
+364838,30,MissedShots,0.9359999847412109,0.4540000152587891,0.45447200536727905,Benjamin Hübner,a,251,SetPiece,2019,LeftFoot,12689,Augsburg,Hoffenheim,1,3,2020-06-17 18:30:00,Robert Skov,Cross
+364844,57,ShotOnPost,0.9169999694824219,0.4759999847412109,0.3022550046443939,Benjamin Hübner,a,251,FromCorner,2019,Head,12689,Augsburg,Hoffenheim,1,3,2020-06-17 18:30:00,Robert Skov,Cross
+364851,91,MissedShots,0.915,0.4929999923706055,0.12807300686836243,Benjamin Hübner,a,251,SetPiece,2019,Head,12689,Augsburg,Hoffenheim,1,3,2020-06-17 18:30:00,Andrej Kramaric,Cross
+365284,30,MissedShots,0.955,0.455,0.07764919847249985,Benjamin Hübner,h,251,SetPiece,2019,Head,12693,Hoffenheim,Union Berlin,4,0,2020-06-20 13:30:00,Robert Skov,Aerial
+365288,42,BlockedShot,0.904000015258789,0.6140000152587891,0.024031000211834908,Benjamin Hübner,h,251,FromCorner,2019,Head,12693,Hoffenheim,Union Berlin,4,0,2020-06-20 13:30:00,Dennis Geiger,Cross
+365290,46,SavedShot,0.7330000305175781,0.6790000152587891,0.018557799980044365,Benjamin Hübner,h,251,OpenPlay,2019,LeftFoot,12693,Hoffenheim,Union Berlin,4,0,2020-06-20 13:30:00,Pavel Kaderábek,Pass
+366845,59,BlockedShot,0.8880000305175781,0.5029999923706054,0.05008139833807945,Benjamin Hübner,a,251,FromCorner,2019,Head,12700,Borussia Dortmund,Hoffenheim,0,4,2020-06-27 13:30:00,Robert Skov,Cross
+454550,17,MissedShots,0.7969999694824219,0.7019999694824218,0.017568999901413918,Benjamin Hübner,h,251,OpenPlay,2021,LeftFoot,17690,Hoffenheim,Borussia Dortmund,2,3,2022-01-22 14:30:00,David Raum,HeadPass
+457678,3,MissedShots,0.9269999694824219,0.4370000076293945,0.08733949810266495,Benjamin Hübner,h,251,FromCorner,2021,Head,17707,Hoffenheim,Arminia Bielefeld,2,0,2022-02-13 16:30:00,Dennis Geiger,Cross
+457684,21,Goal,0.92,0.455,0.09599950164556503,Benjamin Hübner,h,251,FromCorner,2021,Head,17707,Hoffenheim,Arminia Bielefeld,2,0,2022-02-13 16:30:00,David Raum,Cross
+457688,36,MissedShots,0.925,0.46700000762939453,0.053860101848840714,Benjamin Hübner,h,251,FromCorner,2021,Head,17707,Hoffenheim,Arminia Bielefeld,2,0,2022-02-13 16:30:00,David Raum,Aerial
+458129,62,MissedShots,0.789000015258789,0.6509999847412109,0.011738300323486328,Benjamin Hübner,a,251,OpenPlay,2021,LeftFoot,17720,Wolfsburg,Hoffenheim,1,2,2022-02-19 14:30:00,,Aerial
+458132,68,SavedShot,0.9259999847412109,0.5359999847412109,0.06206579878926277,Benjamin Hübner,a,251,SetPiece,2021,Head,17720,Wolfsburg,Hoffenheim,1,2,2022-02-19 14:30:00,David Raum,Aerial
+459338,19,SavedShot,0.9540000152587891,0.51,0.5800999999046326,Benjamin Hübner,h,251,SetPiece,2021,Head,17726,Hoffenheim,VfB Stuttgart,2,1,2022-02-25 19:30:00,Andrej Kramaric,Cross
+459343,38,MissedShots,0.9740000152587891,0.5690000152587891,0.1194090023636818,Benjamin Hübner,h,251,FromCorner,2021,Head,17726,Hoffenheim,VfB Stuttgart,2,1,2022-02-25 19:30:00,David Raum,Cross

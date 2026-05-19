@@ -1,0 +1,67 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+362007,91,BlockedShot,0.779000015258789,0.46599998474121096,0.033655401319265366,Oliver Abildgaard,h,8359,OpenPlay,2019,RightFoot,11187,Rubin Kazan,Krylya Sovetov Samara,0,1,2020-03-08 11:00:00,Igor Konovalov,Pass
+365166,84,MissedShots,0.8909999847412109,0.655,0.0930171012878418,Oliver Abildgaard,a,8359,OpenPlay,2019,LeftFoot,11206,Ural,Rubin Kazan,1,2,2020-06-20 11:00:00,Khvicha Kvaratskhelia,Pass
+367841,40,BlockedShot,0.7480000305175781,0.5159999847412109,0.018410999327898026,Oliver Abildgaard,a,8359,OpenPlay,2019,LeftFoot,11221,FC Ufa,Rubin Kazan,0,0,2020-07-01 12:00:00,Zuriko Davitashvili,Pass
+367861,83,BlockedShot,0.7269999694824218,0.6580000305175782,0.012134499847888947,Oliver Abildgaard,a,8359,OpenPlay,2019,LeftFoot,11221,FC Ufa,Rubin Kazan,0,0,2020-07-01 12:00:00,Ilya Samoshnikov,Pass
+369024,80,SavedShot,0.94,0.6090000152587891,0.013483299873769283,Oliver Abildgaard,h,8359,FromCorner,2019,Head,11227,Rubin Kazan,FC Orenburg,1,0,2020-07-05 15:30:00,Darko Jevtic,Aerial
+370189,18,MissedShots,0.9819999694824219,0.5570000076293945,0.4312480092048645,Oliver Abildgaard,h,8359,FromCorner,2019,Head,11235,Rubin Kazan,FC Krasnodar,1,0,2020-07-09 17:30:00,,None
+373174,92,MissedShots,0.9430000305175781,0.5420000076293945,0.11423400044441223,Oliver Abildgaard,h,8359,FromCorner,2019,Head,11259,Rubin Kazan,Spartak Moscow,1,2,2020-07-22 16:00:00,Igor Konovalov,Cross
+374836,18,MissedShots,0.870999984741211,0.4279999923706055,0.07738249748945236,Oliver Abildgaard,h,8359,SetPiece,2020,LeftFoot,14004,Rubin Kazan,Lokomotiv Moscow,0,2,2020-08-11 17:00:00,Filip Uremovic,BallTouch
+374962,3,BlockedShot,0.7340000152587891,0.5690000152587891,0.01680850051343441,Oliver Abildgaard,h,8359,OpenPlay,2020,LeftFoot,14008,Rubin Kazan,Ural,1,1,2020-08-15 12:30:00,Darko Jevtic,Pass
+375099,61,BlockedShot,0.774000015258789,0.49900001525878906,0.0247482992708683,Oliver Abildgaard,a,8359,OpenPlay,2020,LeftFoot,14013,PFC Sochi,Rubin Kazan,3,2,2020-08-18 15:00:00,Filip Uremovic,Pass
+375643,67,SavedShot,0.7230000305175781,0.34,0.011558200232684612,Oliver Abildgaard,a,8359,OpenPlay,2020,RightFoot,14025,CSKA Moscow,Rubin Kazan,1,2,2020-08-22 17:00:00,Aleksandr Zuev,Pass
+375937,9,MissedShots,0.6890000152587891,0.38,0.009903050027787685,Oliver Abildgaard,h,8359,OpenPlay,2020,LeftFoot,14031,Rubin Kazan,FC Ufa,3,0,2020-08-26 15:30:00,,None
+376293,50,BlockedShot,0.9030000305175782,0.3629999923706055,0.26440000534057617,Oliver Abildgaard,h,8359,OpenPlay,2020,LeftFoot,14037,Rubin Kazan,FC Tambov,2,2,2020-08-30 15:00:00,Darko Jevtic,Cross
+376294,54,BlockedShot,0.7830000305175782,0.32099998474121094,0.016584200784564018,Oliver Abildgaard,h,8359,OpenPlay,2020,LeftFoot,14037,Rubin Kazan,FC Tambov,2,2,2020-08-30 15:00:00,Hwang In-Beom,Pass
+376298,80,SavedShot,0.7709999847412109,0.785,0.01272950042039156,Oliver Abildgaard,h,8359,OpenPlay,2020,RightFoot,14037,Rubin Kazan,FC Tambov,2,2,2020-08-30 15:00:00,Mikhail Merkulov,Pass
+378103,88,MissedShots,0.8859999847412109,0.5059999847412109,0.40633299946784973,Oliver Abildgaard,h,8359,FromCorner,2020,RightFoot,14238,Rubin Kazan,Spartak Moscow,0,2,2020-09-20 13:30:00,,None
+379734,2,MissedShots,0.749000015258789,0.7040000152587891,0.012366999872028828,Oliver Abildgaard,a,8359,OpenPlay,2020,LeftFoot,14247,FC Rotor Volgograd,Rubin Kazan,1,3,2020-09-27 16:00:00,Aleksandr Zuev,Pass
+379748,30,MissedShots,0.904000015258789,0.34,0.00841222982853651,Oliver Abildgaard,a,8359,SetPiece,2020,Head,14247,FC Rotor Volgograd,Rubin Kazan,1,3,2020-09-27 16:00:00,Hwang In-Beom,Aerial
+379759,73,SavedShot,0.925,0.585,0.09339199960231781,Oliver Abildgaard,a,8359,SetPiece,2020,RightFoot,14247,FC Rotor Volgograd,Rubin Kazan,1,3,2020-09-27 16:00:00,Khvicha Kvaratskhelia,HeadPass
+379765,91,MissedShots,0.6759999847412109,0.4470000076293945,0.013600899837911129,Oliver Abildgaard,a,8359,OpenPlay,2020,LeftFoot,14247,FC Rotor Volgograd,Rubin Kazan,1,3,2020-09-27 16:00:00,Igor Konovalov,Pass
+381246,45,BlockedShot,0.855,0.3390000152587891,0.04842029884457588,Oliver Abildgaard,h,8359,OpenPlay,2020,RightFoot,14302,Rubin Kazan,FK Akhmat,1,1,2020-10-04 13:30:00,Khvicha Kvaratskhelia,Pass
+381253,93,MissedShots,0.895,0.595999984741211,0.01810530014336109,Oliver Abildgaard,h,8359,OpenPlay,2020,Head,14302,Rubin Kazan,FK Akhmat,1,1,2020-10-04 13:30:00,Silvije Begic,Aerial
+381794,61,MissedShots,0.8859999847412109,0.6409999847412109,0.009934050031006336,Oliver Abildgaard,a,8359,SetPiece,2020,Head,14306,FC Krasnodar,Rubin Kazan,3,1,2020-10-17 13:30:00,Oleg Shatov,Aerial
+384379,8,BlockedShot,0.9290000152587891,0.31,0.007951050065457821,Oliver Abildgaard,h,8359,FromCorner,2020,Head,14321,Rubin Kazan,Arsenal Tula,3,1,2020-10-31 11:00:00,Hwang In-Beom,Cross
+384389,30,MissedShots,0.9159999847412109,0.6170000076293946,0.01873609982430935,Oliver Abildgaard,h,8359,OpenPlay,2020,Head,14321,Rubin Kazan,Arsenal Tula,3,1,2020-10-31 11:00:00,Ilya Samoshnikov,Pass
+386295,58,SavedShot,0.9409999847412109,0.43599998474121093,0.0924362987279892,Oliver Abildgaard,a,8359,FromCorner,2020,Head,14329,Khimki,Rubin Kazan,2,0,2020-11-08 11:00:00,Khvicha Kvaratskhelia,Cross
+388043,66,SavedShot,0.904000015258789,0.4979999923706055,0.046239301562309265,Oliver Abildgaard,h,8359,SetPiece,2020,Head,14342,Rubin Kazan,FC Rostov,0,2,2020-11-22 16:00:00,,Aerial
+389247,57,MissedShots,0.8809999847412109,0.539000015258789,0.04848970100283623,Oliver Abildgaard,h,8359,SetPiece,2020,Head,14349,Rubin Kazan,CSKA Moscow,1,0,2020-11-29 13:30:00,Oleg Shatov,Cross
+389944,88,MissedShots,0.774000015258789,0.705999984741211,0.01290110033005476,Oliver Abildgaard,a,8359,OpenPlay,2020,LeftFoot,14356,Lokomotiv Moscow,Rubin Kazan,3,1,2020-12-05 11:00:00,Darko Jevtic,Pass
+410197,13,MissedShots,0.7609999847412109,0.555,0.01753770001232624,Oliver Abildgaard,a,8359,FromCorner,2020,LeftFoot,14398,FC Ufa,Rubin Kazan,0,3,2021-03-14 11:00:00,,None
+410210,53,SavedShot,0.7240000152587891,0.34200000762939453,0.013971599750220776,Oliver Abildgaard,a,8359,OpenPlay,2020,LeftFoot,14398,FC Ufa,Rubin Kazan,0,3,2021-03-14 11:00:00,Georgi Zotov,Pass
+411043,63,SavedShot,0.914000015258789,0.5720000076293945,0.028935600072145462,Oliver Abildgaard,h,8359,OpenPlay,2020,Head,14407,Rubin Kazan,Khimki,1,3,2021-03-19 16:00:00,Ilya Samoshnikov,Aerial
+411044,68,MissedShots,0.745,0.6959999847412109,0.01526820007711649,Oliver Abildgaard,h,8359,OpenPlay,2020,LeftFoot,14407,Rubin Kazan,Khimki,1,3,2021-03-19 16:00:00,Denis Makarov,Pass
+411050,81,MissedShots,0.9780000305175781,0.395,0.01488220039755106,Oliver Abildgaard,h,8359,SetPiece,2020,Head,14407,Rubin Kazan,Khimki,1,3,2021-03-19 16:00:00,Georgi Zotov,Aerial
+411051,84,MissedShots,0.835999984741211,0.6179999923706054,0.03919349983334541,Oliver Abildgaard,h,8359,OpenPlay,2020,LeftFoot,14407,Rubin Kazan,Khimki,1,3,2021-03-19 16:00:00,Khvicha Kvaratskhelia,Pass
+412479,2,SavedShot,0.9130000305175782,0.6079999923706054,0.032795500010252,Oliver Abildgaard,h,8359,OpenPlay,2020,Head,14411,Rubin Kazan,PFC Sochi,1,0,2021-04-03 13:30:00,Ilya Samoshnikov,Pass
+418477,84,MissedShots,0.914000015258789,0.549000015258789,0.0240681990981102,Oliver Abildgaard,h,8359,FromCorner,2020,Head,14445,Rubin Kazan,Dinamo Moscow,2,0,2021-05-01 11:00:00,Hwang In-Beom,Aerial
+419927,33,BlockedShot,0.7,0.5129999923706055,0.008384780026972294,Oliver Abildgaard,a,8359,OpenPlay,2020,LeftFoot,14451,Arsenal Tula,Rubin Kazan,2,4,2021-05-08 13:30:00,,None
+419932,55,SavedShot,0.7340000152587891,0.53,0.016867300495505333,Oliver Abildgaard,a,8359,OpenPlay,2020,LeftFoot,14451,Arsenal Tula,Rubin Kazan,2,4,2021-05-08 13:30:00,Denis Makarov,Pass
+419940,81,BlockedShot,0.8830000305175781,0.4759999847412109,0.08685489743947983,Oliver Abildgaard,a,8359,FromCorner,2020,LeftFoot,14451,Arsenal Tula,Rubin Kazan,2,4,2021-05-08 13:30:00,,None
+419944,95,MissedShots,0.7069999694824218,0.5,0.014974200166761875,Oliver Abildgaard,a,8359,OpenPlay,2020,LeftFoot,14451,Arsenal Tula,Rubin Kazan,2,4,2021-05-08 13:30:00,Darko Jevtic,Pass
+422208,42,MissedShots,0.8980000305175782,0.3820000076293945,0.011502300389111042,Oliver Abildgaard,h,8359,FromCorner,2020,Head,14462,Rubin Kazan,FC Rotor Volgograd,1,1,2021-05-16 11:00:00,Oleg Shatov,Aerial
+424700,21,SavedShot,0.9209999847412109,0.43900001525878907,0.03122749924659729,Oliver Abildgaard,h,8359,FromCorner,2021,Head,16139,Rubin Kazan,Spartak Moscow,1,0,2021-07-24 19:00:00,,Aerial
+425428,10,MissedShots,0.92,0.5529999923706055,0.08052369952201843,Oliver Abildgaard,h,8359,OpenPlay,2021,RightFoot,16157,Rubin Kazan,FK Akhmat,2,1,2021-08-08 17:00:00,Ilya Samoshnikov,Aerial
+425432,25,MissedShots,0.924000015258789,0.4379999923706055,0.02750129997730255,Oliver Abildgaard,h,8359,FromCorner,2021,Head,16157,Rubin Kazan,FK Akhmat,2,1,2021-08-08 17:00:00,Sead Haksabanovic,Aerial
+425442,85,Goal,0.8969999694824219,0.6370000076293946,0.012903300113976002,Oliver Abildgaard,h,8359,FromCorner,2021,Head,16157,Rubin Kazan,FK Akhmat,2,1,2021-08-08 17:00:00,Sead Haksabanovic,End
+427863,3,SavedShot,0.735999984741211,0.43900001525878907,0.015817299485206604,Oliver Abildgaard,a,8359,OpenPlay,2021,LeftFoot,16173,Khimki,Rubin Kazan,1,1,2021-08-22 17:00:00,,None
+430819,27,MissedShots,0.7669999694824219,0.5270000076293946,0.02831670083105564,Oliver Abildgaard,h,8359,OpenPlay,2021,LeftFoot,16190,Rubin Kazan,Ural,4,0,2021-09-13 15:30:00,Khvicha Kvaratskhelia,Pass
+430823,42,MissedShots,0.7919999694824219,0.48,0.049956999719142914,Oliver Abildgaard,h,8359,OpenPlay,2021,LeftFoot,16190,Rubin Kazan,Ural,4,0,2021-09-13 15:30:00,,BallTouch
+432283,66,MissedShots,0.8669999694824219,0.6120000076293945,0.015334799885749817,Oliver Abildgaard,h,8359,SetPiece,2021,Head,16196,Rubin Kazan,Zenit St. Petersburg,1,3,2021-09-20 15:30:00,Sead Haksabanovic,Cross
+432286,80,BlockedShot,0.7240000152587891,0.46,0.011164800263941288,Oliver Abildgaard,h,8359,OpenPlay,2021,LeftFoot,16196,Rubin Kazan,Zenit St. Petersburg,1,3,2021-09-20 15:30:00,Hwang In-Beom,Pass
+432291,90,BlockedShot,0.850999984741211,0.5659999847412109,0.011580799706280231,Oliver Abildgaard,h,8359,FromCorner,2021,Head,16196,Rubin Kazan,Zenit St. Petersburg,1,3,2021-09-20 15:30:00,Sead Haksabanovic,Aerial
+436165,45,MissedShots,0.89,0.6229999923706054,0.00869997963309288,Oliver Abildgaard,h,8359,SetPiece,2021,Head,16220,Rubin Kazan,Lokomotiv Moscow,2,2,2021-10-16 13:30:00,Sead Haksabanovic,Aerial
+438116,63,MissedShots,0.8969999694824219,0.605,0.022336099296808243,Oliver Abildgaard,a,8359,OpenPlay,2021,Head,16231,FC Ufa,Rubin Kazan,1,1,2021-10-24 11:00:00,Georgi Zotov,Cross
+443437,30,Goal,0.8109999847412109,0.6459999847412109,0.025400299578905106,Oliver Abildgaard,a,8359,OpenPlay,2021,LeftFoot,16255,PFC Sochi,Rubin Kazan,1,2,2021-11-21 16:00:00,Soltmurad Bakaev,Pass
+446655,22,MissedShots,0.7680000305175781,0.6940000152587891,0.01758190058171749,Oliver Abildgaard,a,8359,OpenPlay,2021,LeftFoot,16270,Nizhny Novgorod,Rubin Kazan,2,1,2021-12-05 13:30:00,German Onugkha,Pass
+446656,22,MissedShots,0.9390000152587891,0.4929999923706055,0.06582619994878769,Oliver Abildgaard,a,8359,FromCorner,2021,Head,16270,Nizhny Novgorod,Rubin Kazan,2,1,2021-12-05 13:30:00,Sead Haksabanovic,Aerial
+446660,35,MissedShots,0.7559999847412109,0.485,0.020403699949383736,Oliver Abildgaard,a,8359,OpenPlay,2021,LeftFoot,16270,Nizhny Novgorod,Rubin Kazan,2,1,2021-12-05 13:30:00,Georgi Zotov,Pass
+446671,59,MissedShots,0.865,0.505,0.018001599237322807,Oliver Abildgaard,a,8359,FromCorner,2021,Head,16270,Nizhny Novgorod,Rubin Kazan,2,1,2021-12-05 13:30:00,Sead Haksabanovic,Cross
+474802,16,MissedShots,0.705,0.44799999237060545,0.013067900203168392,Oliver Abildgaard,a,8359,OpenPlay,2021,LeftFoot,16355,Lokomotiv Moscow,Rubin Kazan,1,0,2022-05-08 16:00:00,Alexander Lomovitskiy,BallRecovery
+476234,43,MissedShots,0.740999984741211,0.6020000076293945,0.015376400202512741,Oliver Abildgaard,a,8359,OpenPlay,2021,LeftFoot,16367,Ural,Rubin Kazan,3,0,2022-05-15 11:00:00,Vitali Lisakovich,BallRecovery
+476236,46,BlockedShot,0.925,0.45799999237060546,0.13830499351024628,Oliver Abildgaard,a,8359,SetPiece,2021,LeftFoot,16367,Ural,Rubin Kazan,3,0,2022-05-15 11:00:00,,Rebound
+477242,93,BlockedShot,0.6819999694824219,0.5329999923706055,0.012535599991679192,Oliver Abildgaard,h,8359,OpenPlay,2021,LeftFoot,16372,Rubin Kazan,FC Ufa,1,2,2022-05-21 14:00:00,,Rebound
+523202,66,SavedShot,0.9419999694824219,0.38,0.028835870325565338,Oliver Abildgaard,a,8359,FromCorner,2022,Head,18893,Cremonese,Verona,1,1,2023-04-30 13:00:00,Simone Verdi,Cross
+525301,58,SavedShot,0.9390000152587891,0.35400001525878905,0.014433675445616245,Oliver Abildgaard,a,8359,FromCorner,2022,Head,18915,Lecce,Verona,0,1,2023-05-07 18:45:00,Darko Lazovic,Cross
+526323,31,MissedShots,0.7709999847412109,0.7119999694824218,0.01814866065979004,Oliver Abildgaard,h,8359,OpenPlay,2022,LeftFoot,18924,Verona,Torino,0,1,2023-05-14 10:30:00,Cyril Ngonge,Pass

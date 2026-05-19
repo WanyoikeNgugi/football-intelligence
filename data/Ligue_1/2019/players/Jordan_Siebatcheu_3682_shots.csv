@@ -1,0 +1,164 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+2617,87,MissedShots,0.9490000152587891,0.44299999237060544,0.13228599727153778,Jordan Siebatcheu,a,3682,OpenPlay,2014,Head,6033,Toulouse,Reims,1,0,2015-01-31 19:00:00,Christopher Glombard,Cross
+61373,78,SavedShot,0.8519999694824218,0.36900001525878906,0.06392980366945267,Jordan Siebatcheu,a,3682,OpenPlay,2015,RightFoot,1877,Bordeaux,Reims,1,2,2015-08-09 19:00:00,Hamari Traore,Pass
+61381,86,Goal,0.9169999694824219,0.345,0.06812269985675812,Jordan Siebatcheu,a,3682,OpenPlay,2015,RightFoot,1877,Bordeaux,Reims,1,2,2015-08-09 19:00:00,Grejohn Kyei,HeadPass
+61713,91,BlockedShot,0.9019999694824219,0.30100000381469727,0.06368029862642288,Jordan Siebatcheu,h,3682,OpenPlay,2015,RightFoot,1886,Reims,Marseille,1,0,2015-08-16 16:00:00,Hamari Traore,Pass
+62103,76,MissedShots,0.9259999847412109,0.3970000076293945,0.11731699854135513,Jordan Siebatcheu,h,3682,OpenPlay,2015,RightFoot,1904,Reims,Lorient,4,1,2015-08-29 22:00:00,Antoine Devaux,Cross
+63107,55,Goal,0.9309999847412109,0.39299999237060546,0.42522698640823364,Jordan Siebatcheu,a,3682,SetPiece,2015,RightFoot,1913,Toulouse,Reims,2,2,2015-09-12 22:00:00,,None
+62363,82,Goal,0.845999984741211,0.4909999847412109,0.33521801233291626,Jordan Siebatcheu,h,3682,OpenPlay,2015,RightFoot,1920,Reims,Paris Saint Germain,1,1,2015-09-19 19:30:00,Nicolas de Preville,Pass
+62488,47,MissedShots,0.9130000305175782,0.4759999847412109,0.11484900116920471,Jordan Siebatcheu,a,3682,OpenPlay,2015,Head,1929,Angers,Reims,0,0,2015-09-22 21:00:00,Odaïr Fortes,Cross
+62504,93,SavedShot,0.8969999694824219,0.6880000305175781,0.03483549878001213,Jordan Siebatcheu,a,3682,SetPiece,2015,LeftFoot,1929,Angers,Reims,0,0,2015-09-22 21:00:00,Alexis Peuget,Pass
+65756,81,MissedShots,0.924000015258789,0.5359999847412109,0.12832100689411163,Jordan Siebatcheu,h,3682,OpenPlay,2015,LeftFoot,1938,Reims,Lille,1,0,2015-09-25 22:30:00,Nicolas de Preville,Cross
+63491,85,MissedShots,0.875,0.3920000076293945,0.06346970051527023,Jordan Siebatcheu,h,3682,OpenPlay,2015,RightFoot,1961,Reims,Caen,0,1,2015-10-17 22:00:00,Mickaël Tacalfred,Pass
+64091,71,BlockedShot,0.8669999694824219,0.395,0.05171459913253784,Jordan Siebatcheu,h,3682,OpenPlay,2015,LeftFoot,1974,Reims,Monaco,0,1,2015-10-25 17:00:00,Frédéric Bulot,Cross
+64093,71,BlockedShot,0.9180000305175782,0.44400001525878907,0.08512339740991592,Jordan Siebatcheu,h,3682,OpenPlay,2015,LeftFoot,1974,Reims,Monaco,0,1,2015-10-25 17:00:00,,None
+64102,93,SavedShot,0.775,0.34200000762939453,0.011165900155901909,Jordan Siebatcheu,h,3682,OpenPlay,2015,RightFoot,1974,Reims,Monaco,0,1,2015-10-25 17:00:00,,Aerial
+64104,93,MissedShots,0.8769999694824219,0.4229999923706055,0.3488579988479614,Jordan Siebatcheu,h,3682,OpenPlay,2015,RightFoot,1974,Reims,Monaco,0,1,2015-10-25 17:00:00,,Rebound
+64813,6,MissedShots,0.9290000152587891,0.5740000152587891,0.07635969668626785,Jordan Siebatcheu,a,3682,FromCorner,2015,Head,1979,Saint-Etienne,Reims,3,0,2015-10-31 20:00:00,Frédéric Bulot,Cross
+64661,70,ShotOnPost,0.874000015258789,0.5990000152587891,0.025690600275993347,Jordan Siebatcheu,h,3682,SetPiece,2015,Head,1995,Reims,GFC Ajaccio,1,2,2015-11-07 23:00:00,Nicolas de Preville,Cross
+63784,34,MissedShots,0.6930000305175781,0.3659999847412109,0.013887600041925907,Jordan Siebatcheu,a,3682,OpenPlay,2015,RightFoot,2002,Montpellier,Reims,3,1,2015-11-21 23:00:00,Diego,Pass
+63786,35,MissedShots,0.845999984741211,0.485,0.3119339942932129,Jordan Siebatcheu,a,3682,OpenPlay,2015,LeftFoot,2002,Montpellier,Reims,3,1,2015-11-21 23:00:00,,Rebound
+65139,81,BlockedShot,0.7959999847412109,0.69,0.02451620064675808,Jordan Siebatcheu,h,3682,OpenPlay,2015,RightFoot,2040,Reims,Nice,1,1,2015-12-12 19:00:00,,Interception
+65140,81,BlockedShot,0.9519999694824218,0.67,0.010980100370943546,Jordan Siebatcheu,h,3682,OpenPlay,2015,Head,2040,Reims,Nice,1,1,2015-12-12 19:00:00,,Rebound
+65141,87,MissedShots,0.885,0.4540000152587891,0.01555749960243702,Jordan Siebatcheu,h,3682,SetPiece,2015,Head,2040,Reims,Nice,1,1,2015-12-12 19:00:00,Diego,Aerial
+65293,28,MissedShots,0.9159999847412109,0.46799999237060547,0.09085550159215927,Jordan Siebatcheu,a,3682,FromCorner,2015,Head,2051,SC Bastia,Reims,2,0,2015-12-19 23:00:00,Diego,Cross
+65963,66,MissedShots,0.9519999694824218,0.33099998474121095,0.012352700345218182,Jordan Siebatcheu,h,3682,OpenPlay,2015,Head,2062,Reims,Toulouse,1,3,2016-01-09 23:00:00,Nicolas de Preville,Cross
+66110,46,BlockedShot,0.7959999847412109,0.26799999237060546,0.026355799287557602,Jordan Siebatcheu,a,3682,OpenPlay,2015,RightFoot,2072,GFC Ajaccio,Reims,2,2,2016-01-16 23:00:00,Hamari Traore,Pass
+66711,77,SavedShot,0.895,0.2989999961853027,0.09268400073051453,Jordan Siebatcheu,a,3682,OpenPlay,2015,RightFoot,2152,Lille,Reims,2,0,2016-03-05 23:00:00,Gaëtan Charbonnier,Chipped
+67306,93,MissedShots,0.9430000305175781,0.5279999923706055,0.12659800052642822,Jordan Siebatcheu,h,3682,OpenPlay,2015,Head,2174,Reims,Guingamp,0,1,2016-03-19 23:00:00,Nicolas de Preville,Cross
+68858,88,MissedShots,0.8869999694824219,0.38299999237060545,0.08492060005664825,Jordan Siebatcheu,a,3682,OpenPlay,2015,RightFoot,2205,Troyes,Reims,2,1,2016-04-16 22:00:00,Thievy,Pass
+68860,91,MissedShots,0.8590000152587891,0.605,0.018037099391222,Jordan Siebatcheu,a,3682,SetPiece,2015,Head,2205,Troyes,Reims,2,1,2016-04-16 22:00:00,Nicolas de Preville,Cross
+222362,8,MissedShots,0.88,0.5779999923706055,0.017742300406098366,Jordan Siebatcheu,h,3682,OpenPlay,2018,Head,10681,Rennes,Bordeaux,2,0,2018-09-02 15:00:00,Ramy Bensebaini,Aerial
+222364,12,SavedShot,0.899000015258789,0.44599998474121094,0.44674399495124817,Jordan Siebatcheu,h,3682,OpenPlay,2018,LeftFoot,10681,Rennes,Bordeaux,2,0,2018-09-02 15:00:00,,None
+222365,13,MissedShots,0.904000015258789,0.49700000762939456,0.2900780141353607,Jordan Siebatcheu,h,3682,OpenPlay,2018,Head,10681,Rennes,Bordeaux,2,0,2018-09-02 15:00:00,Clément Grenier,Cross
+222368,21,MissedShots,0.925,0.4779999923706055,0.11181899905204773,Jordan Siebatcheu,h,3682,FromCorner,2018,RightFoot,10681,Rennes,Bordeaux,2,0,2018-09-02 15:00:00,,None
+222370,26,SavedShot,0.955,0.3029999923706055,0.07025030255317688,Jordan Siebatcheu,h,3682,OpenPlay,2018,RightFoot,10681,Rennes,Bordeaux,2,0,2018-09-02 15:00:00,Romain Del Castillo,Pass
+225699,85,SavedShot,0.955999984741211,0.38799999237060545,0.03678030148148537,Jordan Siebatcheu,h,3682,FromCorner,2018,Head,10699,Rennes,Paris Saint Germain,1,3,2018-09-23 13:00:00,Clément Grenier,Cross
+226457,7,SavedShot,0.9359999847412109,0.47200000762939454,0.4574570059776306,Jordan Siebatcheu,a,3682,OpenPlay,2018,Head,10703,Amiens,Rennes,2,1,2018-09-26 17:00:00,Hamari Traore,Cross
+226465,39,MissedShots,0.919000015258789,0.41900001525878905,0.12889599800109863,Jordan Siebatcheu,a,3682,OpenPlay,2018,RightFoot,10703,Amiens,Rennes,2,1,2018-09-26 17:00:00,Hatem Ben Arfa,Pass
+261279,79,BlockedShot,0.92,0.53,0.12626799941062927,Jordan Siebatcheu,a,3682,OpenPlay,2018,RightFoot,10753,Caen,Rennes,1,2,2018-11-03 19:00:00,,None
+261287,94,SavedShot,0.815,0.649000015258789,0.04794450104236603,Jordan Siebatcheu,a,3682,OpenPlay,2018,RightFoot,10753,Caen,Rennes,1,2,2018-11-03 19:00:00,Romain Del Castillo,Pass
+261627,87,SavedShot,0.9059999847412109,0.5459999847412109,0.04585469886660576,Jordan Siebatcheu,h,3682,OpenPlay,2018,Head,10768,Rennes,Nantes,1,1,2018-11-11 16:00:00,Mehdi Zeffane,Aerial
+261628,89,MissedShots,0.8419999694824218,0.41900001525878905,0.07413309812545776,Jordan Siebatcheu,h,3682,OpenPlay,2018,RightFoot,10768,Rennes,Nantes,1,1,2018-11-11 16:00:00,Hatem Ben Arfa,Pass
+262401,42,Goal,0.9269999694824219,0.46799999237060547,0.6524500250816345,Jordan Siebatcheu,a,3682,OpenPlay,2018,RightFoot,10794,Lyon,Rennes,0,2,2018-12-05 18:00:00,Ismaila Sarr,Pass
+262744,46,Goal,0.9259999847412109,0.4779999923706055,0.5858349800109863,Jordan Siebatcheu,h,3682,OpenPlay,2018,RightFoot,10830,Rennes,Nimes,4,0,2018-12-22 19:00:00,Ismaila Sarr,Pass
+262752,66,Goal,0.9590000152587891,0.48200000762939454,0.6487110257148743,Jordan Siebatcheu,h,3682,FromCorner,2018,RightFoot,10830,Rennes,Nimes,4,0,2018-12-22 19:00:00,,Rebound
+282353,9,MissedShots,0.9,0.500999984741211,0.42021501064300537,Jordan Siebatcheu,a,3682,OpenPlay,2018,RightFoot,10816,Guingamp,Rennes,2,1,2019-01-16 18:00:00,Romain Del Castillo,Throughball
+282357,26,BlockedShot,0.92,0.3920000076293945,0.07679659873247147,Jordan Siebatcheu,a,3682,OpenPlay,2018,RightFoot,10816,Guingamp,Rennes,2,1,2019-01-16 18:00:00,Ismaila Sarr,Cross
+282362,66,MissedShots,0.9069999694824219,0.435,0.04645039886236191,Jordan Siebatcheu,a,3682,OpenPlay,2018,Head,10816,Guingamp,Rennes,2,1,2019-01-16 18:00:00,Ismaila Sarr,Aerial
+283282,4,MissedShots,0.9519999694824218,0.6530000305175782,0.02411700040102005,Jordan Siebatcheu,h,3682,OpenPlay,2018,OtherBodyPart,10881,Rennes,Saint-Etienne,3,0,2019-02-10 16:00:00,Mehdi Zeffane,Cross
+283284,19,SavedShot,0.88,0.35700000762939454,0.07457630336284637,Jordan Siebatcheu,h,3682,OpenPlay,2018,RightFoot,10881,Rennes,Saint-Etienne,3,0,2019-02-10 16:00:00,Hatem Ben Arfa,Pass
+310101,95,SavedShot,0.8930000305175781,0.655,0.0902244970202446,Jordan Siebatcheu,a,3682,OpenPlay,2019,LeftFoot,12712,Montpellier,Rennes,0,1,2019-08-10 19:00:00,Clément Grenier,Pass
+317629,10,MissedShots,0.894000015258789,0.575999984741211,0.02227099984884262,Jordan Siebatcheu,a,3682,OpenPlay,2019,Head,12752,Brest,Rennes,0,0,2019-09-14 18:00:00,Faitout Maouassa,Aerial
+317632,28,BlockedShot,0.8980000305175782,0.37599998474121094,0.062411099672317505,Jordan Siebatcheu,a,3682,OpenPlay,2019,RightFoot,12752,Brest,Rennes,0,0,2019-09-14 18:00:00,Hamari Traore,Cross
+326439,82,BlockedShot,0.905,0.5570000076293945,0.0800492987036705,Jordan Siebatcheu,a,3682,OpenPlay,2019,Head,12808,Monaco,Rennes,3,2,2019-10-20 16:00:00,Faitout Maouassa,Cross
+327847,90,MissedShots,0.9590000152587891,0.539000015258789,0.08845560252666473,Jordan Siebatcheu,h,3682,OpenPlay,2019,Head,12810,Rennes,Toulouse,3,2,2019-10-27 14:00:00,Raphinha,Dispossessed
+332604,87,MissedShots,0.92,0.5209999847412109,0.0595829002559185,Jordan Siebatcheu,a,3682,OpenPlay,2019,Head,12848,Dijon,Rennes,2,1,2019-11-23 19:00:00,Joris Gnagnon,Chipped
+334425,64,MissedShots,0.895,0.40700000762939453,0.035277798771858215,Jordan Siebatcheu,h,3682,OpenPlay,2019,Head,12854,Rennes,Saint-Etienne,2,1,2019-12-01 16:00:00,Romain Del Castillo,Cross
+334428,81,MissedShots,0.919000015258789,0.55,0.039440300315618515,Jordan Siebatcheu,h,3682,FromCorner,2019,Head,12854,Rennes,Saint-Etienne,2,1,2019-12-01 16:00:00,Raphinha,Foul
+334429,84,MissedShots,0.8630000305175781,0.43900001525878907,0.014468099921941757,Jordan Siebatcheu,h,3682,FromCorner,2019,Head,12854,Rennes,Saint-Etienne,2,1,2019-12-01 16:00:00,,Aerial
+335001,48,BlockedShot,0.85,0.49599998474121093,0.08220479637384415,Jordan Siebatcheu,a,3682,OpenPlay,2019,RightFoot,12868,Metz,Rennes,0,1,2019-12-04 18:00:00,Raphinha,Pass
+479120,13,BlockedShot,0.9330000305175781,0.7190000152587891,0.037473298609256744,Jordan Siebatcheu,h,3682,OpenPlay,2022,LeftFoot,19343,Union Berlin,Hertha Berlin,3,1,2022-08-06 13:30:00,Julian Ryerson,Pass
+479126,30,Goal,0.950999984741211,0.590999984741211,0.05007230117917061,Jordan Siebatcheu,h,3682,OpenPlay,2022,Head,19343,Union Berlin,Hertha Berlin,3,1,2022-08-06 13:30:00,Sheraldo Becker,Aerial
+479130,45,SavedShot,0.8809999847412109,0.6029999923706054,0.017934899777173996,Jordan Siebatcheu,h,3682,OpenPlay,2022,Head,19343,Union Berlin,Hertha Berlin,3,1,2022-08-06 13:30:00,Sheraldo Becker,Aerial
+479138,72,MissedShots,0.9109999847412109,0.5640000152587891,0.028917400166392326,Jordan Siebatcheu,h,3682,OpenPlay,2022,Head,19343,Union Berlin,Hertha Berlin,3,1,2022-08-06 13:30:00,Niko Gießelmann,Aerial
+480905,28,BlockedShot,0.9269999694824219,0.43,0.08058969676494598,Jordan Siebatcheu,a,3682,FromCorner,2022,Head,19358,Mainz 05,Union Berlin,0,0,2022-08-14 13:30:00,Niko Gießelmann,Cross
+482058,31,Goal,0.8159999847412109,0.46099998474121096,0.08716429769992828,Jordan Siebatcheu,h,3682,OpenPlay,2022,RightFoot,19366,Union Berlin,RasenBallsport Leipzig,2,1,2022-08-20 16:30:00,Sheraldo Becker,Pass
+482065,58,MissedShots,0.9080000305175782,0.5620000076293945,0.14029400050640106,Jordan Siebatcheu,h,3682,OpenPlay,2022,LeftFoot,19366,Union Berlin,RasenBallsport Leipzig,2,1,2022-08-20 16:30:00,Sheraldo Becker,Pass
+483452,48,MissedShots,0.8819999694824219,0.395,0.08805940300226212,Jordan Siebatcheu,a,3682,OpenPlay,2022,RightFoot,19374,Schalke 04,Union Berlin,1,6,2022-08-27 13:30:00,Sheraldo Becker,Cross
+488012,9,SavedShot,0.885,0.5,0.7577769756317139,Jordan Siebatcheu,a,3682,Penalty,2022,RightFoot,19394,FC Cologne,Union Berlin,0,1,2022-09-11 13:30:00,,Standard
+488017,24,MissedShots,0.914000015258789,0.4779999923706055,0.34984201192855835,Jordan Siebatcheu,a,3682,OpenPlay,2022,Head,19394,FC Cologne,Union Berlin,0,1,2022-09-11 13:30:00,Christopher Trimmel,Cross
+489391,27,MissedShots,0.9440000152587891,0.649000015258789,0.014546199701726437,Jordan Siebatcheu,h,3682,OpenPlay,2022,Head,19402,Union Berlin,Wolfsburg,2,0,2022-09-18 13:30:00,Niko Gießelmann,Aerial
+489395,46,MissedShots,0.874000015258789,0.5270000076293946,0.11599999666213989,Jordan Siebatcheu,h,3682,OpenPlay,2022,RightFoot,19402,Union Berlin,Wolfsburg,2,0,2022-09-18 13:30:00,Andras Schafer,Pass
+489396,48,MissedShots,0.904000015258789,0.4159999847412109,0.12068500369787216,Jordan Siebatcheu,h,3682,OpenPlay,2022,RightFoot,19402,Union Berlin,Wolfsburg,2,0,2022-09-18 13:30:00,Sheraldo Becker,Pass
+489399,53,Goal,0.93,0.5770000076293945,0.1085520014166832,Jordan Siebatcheu,h,3682,OpenPlay,2022,Head,19402,Union Berlin,Wolfsburg,2,0,2022-09-18 13:30:00,Sheraldo Becker,Cross
+489403,74,BlockedShot,0.75,0.40400001525878904,0.02660840004682541,Jordan Siebatcheu,h,3682,OpenPlay,2022,RightFoot,19402,Union Berlin,Wolfsburg,2,0,2022-09-18 13:30:00,,None
+489957,10,MissedShots,0.9209999847412109,0.62,0.035850800573825836,Jordan Siebatcheu,a,3682,OpenPlay,2022,Head,19409,Eintracht Frankfurt,Union Berlin,2,0,2022-10-01 13:30:00,Timo Baumgartl,Cross
+489959,12,MissedShots,0.9290000152587891,0.3529999923706055,0.020478900521993637,Jordan Siebatcheu,a,3682,OpenPlay,2022,Head,19409,Eintracht Frankfurt,Union Berlin,2,0,2022-10-01 13:30:00,Sheraldo Becker,Cross
+489981,81,MissedShots,0.9219999694824219,0.3629999923706055,0.01797560043632984,Jordan Siebatcheu,a,3682,OpenPlay,2022,Head,19409,Eintracht Frankfurt,Union Berlin,2,0,2022-10-01 13:30:00,Tim Skarke,Cross
+493803,0,BlockedShot,0.92,0.46700000762939453,0.11454500257968903,Jordan Siebatcheu,h,3682,OpenPlay,2022,RightFoot,19425,Union Berlin,Borussia Dortmund,2,0,2022-10-16 15:30:00,Sheraldo Becker,Cross
+493813,17,MissedShots,0.9640000152587891,0.66,0.04710330069065094,Jordan Siebatcheu,h,3682,OpenPlay,2022,RightFoot,19425,Union Berlin,Borussia Dortmund,2,0,2022-10-16 15:30:00,Sheraldo Becker,Cross
+495682,36,SavedShot,0.8859999847412109,0.4179999923706055,0.06245040148496628,Jordan Siebatcheu,a,3682,FromCorner,2022,RightFoot,19438,Bochum,Union Berlin,2,1,2022-10-23 13:30:00,Christopher Trimmel,Pass
+504557,18,MissedShots,0.8769999694824219,0.6890000152587891,0.025081200525164604,Jordan Siebatcheu,h,3682,OpenPlay,2022,RightFoot,19479,Union Berlin,Hoffenheim,3,1,2023-01-21 14:30:00,Niko Gießelmann,Cross
+504560,24,ShotOnPost,0.885,0.5,0.7577769756317139,Jordan Siebatcheu,h,3682,Penalty,2022,RightFoot,19479,Union Berlin,Hoffenheim,3,1,2023-01-21 14:30:00,,Standard
+505707,75,MissedShots,0.904000015258789,0.40200000762939453,0.11811500042676926,Jordan Siebatcheu,a,3682,OpenPlay,2022,RightFoot,19501,Hertha Berlin,Union Berlin,0,2,2023-01-28 14:30:00,Paul Seguin,Cross
+507013,83,Goal,0.8969999694824219,0.565,0.05998510122299194,Jordan Siebatcheu,h,3682,OpenPlay,2022,RightFoot,19505,Union Berlin,Mainz 05,2,1,2023-02-04 14:30:00,Morten Thorsby,Aerial
+510270,81,MissedShots,0.9480000305175781,0.4570000076293945,0.48111599683761597,Jordan Siebatcheu,h,3682,OpenPlay,2022,RightFoot,19524,Union Berlin,Schalke 04,0,0,2023-02-19 14:30:00,Sheraldo Becker,Cross
+512079,88,MissedShots,0.9259999847412109,0.45,0.060180701315402985,Jordan Siebatcheu,h,3682,OpenPlay,2022,Head,19542,Union Berlin,FC Cologne,0,0,2023-03-04 14:30:00,Christopher Trimmel,Aerial
+515662,52,MissedShots,0.9590000152587891,0.4370000076293945,0.06606709957122803,Jordan Siebatcheu,h,3682,FromCorner,2022,OtherBodyPart,19560,Union Berlin,Eintracht Frankfurt,2,0,2023-03-19 14:30:00,Niko Gießelmann,Aerial
+522611,10,BlockedShot,0.93,0.4470000076293945,0.13897061347961426,Jordan Siebatcheu,h,3682,OpenPlay,2022,RightFoot,19605,Union Berlin,Bayer Leverkusen,0,0,2023-04-29 13:30:00,Sheraldo Becker,Cross
+522612,11,MissedShots,0.9580000305175781,0.5879999923706055,0.08541605621576309,Jordan Siebatcheu,h,3682,FromCorner,2022,Head,19605,Union Berlin,Bayer Leverkusen,0,0,2023-04-29 13:30:00,Janik Haberer,Cross
+524576,87,MissedShots,0.8580000305175781,0.5159999847412109,0.030102979391813278,Jordan Siebatcheu,a,3682,OpenPlay,2022,Head,19618,Augsburg,Union Berlin,1,0,2023-05-06 13:30:00,Christopher Trimmel,Cross
+524577,88,MissedShots,0.8830000305175781,0.4779999923706055,0.0293367188423872,Jordan Siebatcheu,a,3682,OpenPlay,2022,Head,19618,Augsburg,Union Berlin,1,0,2023-05-06 13:30:00,Christopher Trimmel,Aerial
+525951,74,MissedShots,0.895,0.5990000152587891,0.12085423618555069,Jordan Siebatcheu,h,3682,OpenPlay,2022,LeftFoot,19624,Union Berlin,Freiburg,4,2,2023-05-13 13:30:00,Sheraldo Becker,Pass
+527413,93,MissedShots,0.9019999694824219,0.45299999237060545,0.0780288353562355,Jordan Siebatcheu,a,3682,OpenPlay,2022,Head,19634,Hoffenheim,Union Berlin,4,2,2023-05-20 13:30:00,Jamie Leweling,Cross
+538399,42,BlockedShot,0.9109999847412109,0.5770000076293945,0.0751548632979393,Jordan Siebatcheu,a,3682,OpenPlay,2023,RightFoot,23100,Darmstadt,Borussia M.Gladbach,3,3,2023-09-17 15:30:00,,None
+538400,42,MissedShots,0.895,0.3729999923706055,0.02015521563589573,Jordan Siebatcheu,a,3682,OpenPlay,2023,Head,23100,Darmstadt,Borussia M.Gladbach,3,3,2023-09-17 15:30:00,Joe Scally,Aerial
+538405,53,MissedShots,0.875999984741211,0.43,0.03506912663578987,Jordan Siebatcheu,a,3682,OpenPlay,2023,Head,23100,Darmstadt,Borussia M.Gladbach,3,3,2023-09-17 15:30:00,Florian Neuhaus,Cross
+538407,55,Goal,0.9159999847412109,0.5259999847412109,0.42677628993988037,Jordan Siebatcheu,a,3682,OpenPlay,2023,RightFoot,23100,Darmstadt,Borussia M.Gladbach,3,3,2023-09-17 15:30:00,Rocco Reitz,Pass
+538411,62,MissedShots,0.924000015258789,0.5570000076293945,0.2701444923877716,Jordan Siebatcheu,a,3682,OpenPlay,2023,RightFoot,23100,Darmstadt,Borussia M.Gladbach,3,3,2023-09-17 15:30:00,Luca Netz,Cross
+541081,45,SavedShot,0.875,0.5059999847412109,0.11950760334730148,Jordan Siebatcheu,a,3682,OpenPlay,2023,RightFoot,23111,Bochum,Borussia M.Gladbach,1,3,2023-09-30 13:30:00,Franck Honorat,Cross
+541083,49,SavedShot,0.89,0.40099998474121096,0.3207610845565796,Jordan Siebatcheu,a,3682,OpenPlay,2023,RightFoot,23111,Bochum,Borussia M.Gladbach,1,3,2023-09-30 13:30:00,Alassane Pléa,Pass
+542252,33,BlockedShot,0.9119999694824219,0.44299999237060544,0.13276086747646332,Jordan Siebatcheu,h,3682,OpenPlay,2023,RightFoot,23119,Borussia M.Gladbach,Mainz 05,2,2,2023-10-06 18:30:00,Franck Honorat,Pass
+545315,29,BlockedShot,0.9440000152587891,0.5479999923706055,0.09255676716566086,Jordan Siebatcheu,h,3682,SetPiece,2023,Head,23141,Borussia M.Gladbach,FC Heidenheim,2,1,2023-10-28 13:30:00,Nathan N&#039;Goumou Minpol,HeadPass
+545323,64,MissedShots,0.7140000152587891,0.6609999847412109,0.014293057844042778,Jordan Siebatcheu,h,3682,OpenPlay,2023,RightFoot,23141,Borussia M.Gladbach,FC Heidenheim,2,1,2023-10-28 13:30:00,,None
+546774,22,MissedShots,0.904000015258789,0.445,0.07345982640981674,Jordan Siebatcheu,a,3682,OpenPlay,2023,Head,23148,Freiburg,Borussia M.Gladbach,3,3,2023-11-04 14:30:00,Rocco Reitz,Cross
+546775,24,Goal,0.9640000152587891,0.5120000076293946,0.142567440867424,Jordan Siebatcheu,a,3682,SetPiece,2023,Head,23148,Freiburg,Borussia M.Gladbach,3,3,2023-11-04 14:30:00,Luca Netz,HeadPass
+549617,25,MissedShots,0.7969999694824219,0.6419999694824219,0.0384599007666111,Jordan Siebatcheu,a,3682,OpenPlay,2023,RightFoot,23164,Borussia Dortmund,Borussia M.Gladbach,4,2,2023-11-25 14:30:00,Luca Netz,Pass
+558645,90,Goal,0.9080000305175782,0.47700000762939454,0.5915955901145935,Jordan Siebatcheu,h,3682,OpenPlay,2023,RightFoot,23213,Borussia M.Gladbach,VfB Stuttgart,3,1,2024-01-14 16:30:00,,Rebound
+559368,25,BlockedShot,0.975999984741211,0.5029999923706054,0.14936311542987823,Jordan Siebatcheu,h,3682,FromCorner,2023,Head,23222,Borussia M.Gladbach,Augsburg,1,2,2024-01-21 16:30:00,Alassane Pléa,Chipped
+559369,25,Goal,0.975999984741211,0.5179999923706055,0.778824508190155,Jordan Siebatcheu,h,3682,FromCorner,2023,RightFoot,23222,Borussia M.Gladbach,Augsburg,1,2,2024-01-21 16:30:00,,Aerial
+559374,45,SavedShot,0.9019999694824219,0.4129999923706055,0.05746675282716751,Jordan Siebatcheu,h,3682,SetPiece,2023,RightFoot,23222,Borussia M.Gladbach,Augsburg,1,2,2024-01-21 16:30:00,Franck Honorat,Cross
+559384,65,MissedShots,0.7440000152587891,0.37599998474121094,0.01934882439672947,Jordan Siebatcheu,h,3682,OpenPlay,2023,RightFoot,23222,Borussia M.Gladbach,Augsburg,1,2,2024-01-21 16:30:00,Robin Hack,Pass
+561133,46,MissedShots,0.9169999694824219,0.47700000762939454,0.09673728048801422,Jordan Siebatcheu,a,3682,OpenPlay,2023,LeftFoot,23236,Bayern Munich,Borussia M.Gladbach,3,1,2024-02-03 14:30:00,,None
+562413,8,BlockedShot,0.89,0.5059999847412109,0.1186973974108696,Jordan Siebatcheu,h,3682,OpenPlay,2023,LeftFoot,23245,Borussia M.Gladbach,Darmstadt,0,0,2024-02-10 14:30:00,,Rebound
+562423,51,MissedShots,0.9080000305175782,0.49400001525878906,0.45504030585289,Jordan Siebatcheu,h,3682,OpenPlay,2023,RightFoot,23245,Borussia M.Gladbach,Darmstadt,0,0,2024-02-10 14:30:00,,Rebound
+564080,16,MissedShots,0.9030000305175782,0.395,0.04104849323630333,Jordan Siebatcheu,a,3682,OpenPlay,2023,Head,23254,RasenBallsport Leipzig,Borussia M.Gladbach,2,0,2024-02-17 17:30:00,Joe Scally,Cross
+564091,49,MissedShots,0.885,0.4620000076293945,0.0642826035618782,Jordan Siebatcheu,a,3682,SetPiece,2023,Head,23254,RasenBallsport Leipzig,Borussia M.Gladbach,2,0,2024-02-17 17:30:00,Luca Netz,Cross
+564092,51,MissedShots,0.92,0.48900001525878906,0.08704254031181335,Jordan Siebatcheu,a,3682,OpenPlay,2023,Head,23254,RasenBallsport Leipzig,Borussia M.Gladbach,2,0,2024-02-17 17:30:00,Luca Netz,Cross
+564103,81,MissedShots,0.9219999694824219,0.45299999237060545,0.3116515874862671,Jordan Siebatcheu,a,3682,FromCorner,2023,Head,23254,RasenBallsport Leipzig,Borussia M.Gladbach,2,0,2024-02-17 17:30:00,Franck Honorat,Cross
+565116,5,ShotOnPost,0.9309999847412109,0.5209999847412109,0.07734604179859161,Jordan Siebatcheu,h,3682,OpenPlay,2023,Head,23266,Borussia M.Gladbach,Bochum,5,2,2024-02-24 14:30:00,Robin Hack,Aerial
+565135,55,MissedShots,0.914000015258789,0.57,0.513540506362915,Jordan Siebatcheu,h,3682,OpenPlay,2023,LeftFoot,23266,Borussia M.Gladbach,Bochum,5,2,2024-02-24 14:30:00,Florian Neuhaus,Pass
+565146,76,MissedShots,0.8830000305175781,0.5520000076293945,0.13194985687732697,Jordan Siebatcheu,h,3682,OpenPlay,2023,RightFoot,23266,Borussia M.Gladbach,Bochum,5,2,2024-02-24 14:30:00,Nathan N&#039;Goumou Minpol,Pass
+565147,77,Goal,0.9580000305175781,0.514000015258789,0.6036508679389954,Jordan Siebatcheu,h,3682,OpenPlay,2023,Head,23266,Borussia M.Gladbach,Bochum,5,2,2024-02-24 14:30:00,Franck Honorat,Cross
+566490,60,SavedShot,0.919000015258789,0.4,0.3021468222141266,Jordan Siebatcheu,a,3682,OpenPlay,2023,RightFoot,23275,Mainz 05,Borussia M.Gladbach,1,1,2024-03-02 14:30:00,Nathan N&#039;Goumou Minpol,Chipped
+566492,63,MissedShots,0.9,0.4540000152587891,0.01940087601542473,Jordan Siebatcheu,a,3682,FromCorner,2023,Head,23275,Mainz 05,Borussia M.Gladbach,1,1,2024-03-02 14:30:00,Franck Honorat,Aerial
+567920,29,MissedShots,0.9690000152587891,0.5720000076293945,0.46000030636787415,Jordan Siebatcheu,h,3682,OpenPlay,2023,RightFoot,23285,Borussia M.Gladbach,FC Cologne,3,3,2024-03-09 14:30:00,Nathan N&#039;Goumou Minpol,Cross
+570562,29,BlockedShot,0.950999984741211,0.5670000076293945,0.07026918232440948,Jordan Siebatcheu,h,3682,SetPiece,2023,Head,23303,Borussia M.Gladbach,Freiburg,0,3,2024-03-30 14:30:00,Franck Honorat,Aerial
+570575,59,BlockedShot,0.9430000305175781,0.40700000762939453,0.07824136316776276,Jordan Siebatcheu,h,3682,OpenPlay,2023,RightFoot,23303,Borussia M.Gladbach,Freiburg,0,3,2024-03-30 14:30:00,Rocco Reitz,Cross
+581670,45,BlockedShot,0.9409999847412109,0.6609999847412109,0.08261704444885254,Jordan Siebatcheu,a,3682,OpenPlay,2023,LeftFoot,23369,VfB Stuttgart,Borussia M.Gladbach,4,0,2024-05-18 13:30:00,Luca Netz,Pass
+581676,65,MissedShots,0.8980000305175782,0.5209999847412109,0.0790722593665123,Jordan Siebatcheu,a,3682,OpenPlay,2023,RightFoot,23369,VfB Stuttgart,Borussia M.Gladbach,4,0,2024-05-18 13:30:00,Nathan N&#039;Goumou Minpol,Cross
+585910,44,MissedShots,0.9630000305175781,0.605,0.016492387279868126,Jordan Siebatcheu,a,3682,FromCorner,2024,Head,27747,Mainz 05,Union Berlin,1,1,2024-08-24 13:30:00,Christopher Trimmel,Aerial
+585918,83,SavedShot,0.9219999694824219,0.6930000305175781,0.28172141313552856,Jordan Siebatcheu,a,3682,OpenPlay,2024,RightFoot,27747,Mainz 05,Union Berlin,1,1,2024-08-24 13:30:00,Rani Khedira,Chipped
+588866,5,MissedShots,0.73,0.485,0.03165541961789131,Jordan Siebatcheu,h,3682,OpenPlay,2024,RightFoot,27751,Union Berlin,St. Pauli,1,0,2024-08-30 18:30:00,Yorbe Vertessen,BallRecovery
+588869,15,SavedShot,0.9119999694824219,0.500999984741211,0.299972265958786,Jordan Siebatcheu,h,3682,FromCorner,2024,OtherBodyPart,27751,Union Berlin,St. Pauli,1,0,2024-08-30 18:30:00,Benedict Hollerbach,Chipped
+588874,35,SavedShot,0.8680000305175781,0.585,0.3782057464122772,Jordan Siebatcheu,h,3682,OpenPlay,2024,LeftFoot,27751,Union Berlin,St. Pauli,1,0,2024-08-30 18:30:00,,Dispossessed
+588877,60,MissedShots,0.8980000305175782,0.5270000076293946,0.07590316236019135,Jordan Siebatcheu,h,3682,SetPiece,2024,RightFoot,27751,Union Berlin,St. Pauli,1,0,2024-08-30 18:30:00,Yorbe Vertessen,Cross
+599935,32,SavedShot,0.889000015258789,0.6,0.06707736104726791,Jordan Siebatcheu,a,3682,OpenPlay,2024,RightFoot,27815,Bayern Munich,Union Berlin,3,0,2024-11-02 14:30:00,,None
+599937,33,BlockedShot,0.9169999694824219,0.53,0.10536844283342361,Jordan Siebatcheu,a,3682,FromCorner,2024,LeftFoot,27815,Bayern Munich,Union Berlin,3,0,2024-11-02 14:30:00,,None
+602819,5,MissedShots,0.94,0.5209999847412109,0.09353791922330856,Jordan Siebatcheu,a,3682,SetPiece,2024,OtherBodyPart,27838,Wolfsburg,Union Berlin,1,0,2024-11-23 14:30:00,Robert Skov,Aerial
+602833,73,SavedShot,0.9059999847412109,0.47400001525878904,0.08624792098999023,Jordan Siebatcheu,a,3682,OpenPlay,2024,RightFoot,27838,Wolfsburg,Union Berlin,1,0,2024-11-23 14:30:00,Christopher Trimmel,Cross
+602837,88,BlockedShot,0.7769999694824219,0.38599998474121094,0.024125685915350914,Jordan Siebatcheu,a,3682,OpenPlay,2024,RightFoot,27838,Wolfsburg,Union Berlin,1,0,2024-11-23 14:30:00,Woo-Yeong Jeong,BallTouch
+605500,70,BlockedShot,0.9169999694824219,0.5359999847412109,0.5125381350517273,Jordan Siebatcheu,a,3682,SetPiece,2024,RightFoot,27851,VfB Stuttgart,Union Berlin,3,2,2024-12-06 19:30:00,Danilho Doekhi,None
+605503,83,MissedShots,0.87,0.534000015258789,0.07775651663541794,Jordan Siebatcheu,a,3682,OpenPlay,2024,RightFoot,27851,VfB Stuttgart,Union Berlin,3,2,2024-12-06 19:30:00,Aljoscha Kemlein,Chipped
+607083,85,MissedShots,0.955999984741211,0.49400001525878906,0.4215794801712036,Jordan Siebatcheu,h,3682,FromCorner,2024,Head,27866,Union Berlin,Bochum,1,1,2024-12-14 14:30:00,Robert Skov,Aerial
+610631,7,SavedShot,0.899000015258789,0.47400001525878904,0.09059306234121323,Jordan Siebatcheu,a,3682,OpenPlay,2024,LeftFoot,27880,FC Heidenheim,Union Berlin,2,0,2025-01-11 14:30:00,,None
+611734,5,MissedShots,0.9209999847412109,0.36400001525878906,0.06759391725063324,Jordan Siebatcheu,h,3682,FromCorner,2024,RightFoot,27892,Union Berlin,Augsburg,0,2,2025-01-15 19:30:00,Lucas Tousart,HeadPass
+611739,14,MissedShots,0.9009999847412109,0.5420000076293945,0.07656503468751907,Jordan Siebatcheu,h,3682,OpenPlay,2024,Head,27892,Union Berlin,Augsburg,0,2,2025-01-15 19:30:00,Woo-Yeong Jeong,Cross
+611744,32,MissedShots,0.9109999847412109,0.515,0.035378292202949524,Jordan Siebatcheu,h,3682,FromCorner,2024,Head,27892,Union Berlin,Augsburg,0,2,2025-01-15 19:30:00,Christopher Trimmel,Aerial
+611747,45,ShotOnPost,0.855,0.54,0.0581810399889946,Jordan Siebatcheu,h,3682,OpenPlay,2024,RightFoot,27892,Union Berlin,Augsburg,0,2,2025-01-15 19:30:00,,None
+612744,7,SavedShot,0.9409999847412109,0.5209999847412109,0.6127938628196716,Jordan Siebatcheu,h,3682,SetPiece,2024,RightFoot,27901,Union Berlin,Mainz 05,2,1,2025-01-19 14:30:00,,Rebound
+612755,34,MissedShots,0.8680000305175781,0.610999984741211,0.09113053232431412,Jordan Siebatcheu,h,3682,OpenPlay,2024,LeftFoot,27901,Union Berlin,Mainz 05,2,1,2025-01-19 14:30:00,Josip Juranovic,HeadPass
+614022,48,BlockedShot,0.8590000152587891,0.43599998474121093,0.32476431131362915,Jordan Siebatcheu,a,3682,OpenPlay,2024,RightFoot,27907,St. Pauli,Union Berlin,3,0,2025-01-26 16:30:00,Josip Juranovic,Pass
+615151,94,BlockedShot,0.9619999694824218,0.53,0.635158360004425,Jordan Siebatcheu,h,3682,OpenPlay,2024,RightFoot,27913,Union Berlin,RasenBallsport Leipzig,0,0,2025-02-01 17:30:00,,None
+626410,89,MissedShots,0.9119999694824219,0.500999984741211,0.1161382868885994,Jordan Siebatcheu,h,3682,SetPiece,2024,Head,28298,Reims,Strasbourg,0,1,2025-04-06 15:15:00,Sergio Akieme,Cross
+626805,21,MissedShots,0.9480000305175781,0.44,0.3775053918361664,Jordan Siebatcheu,a,3682,FromCorner,2024,Head,28307,Lens,Reims,0,2,2025-04-11 18:45:00,Junya Ito,Cross
+629276,38,Goal,0.9259999847412109,0.5220000076293946,0.07489572465419769,Jordan Siebatcheu,h,3682,OpenPlay,2024,Head,28315,Reims,Toulouse,1,0,2025-04-20 15:15:00,Sergio Akieme,Aerial
+629278,43,BlockedShot,0.9530000305175781,0.4329999923706055,0.15110749006271362,Jordan Siebatcheu,h,3682,OpenPlay,2024,RightFoot,28315,Reims,Toulouse,1,0,2025-04-20 15:15:00,Keito Nakamura,Pass
+631137,32,BlockedShot,0.9180000305175782,0.31,0.04977668076753616,Jordan Siebatcheu,a,3682,OpenPlay,2024,RightFoot,28332,Nice,Reims,1,0,2025-05-02 18:45:00,Amadou Koné,Chipped
+633073,12,MissedShots,0.915,0.5879999923706055,0.04128232225775719,Jordan Siebatcheu,h,3682,OpenPlay,2024,Head,28336,Reims,Saint-Etienne,0,2,2025-05-10 19:00:00,Amadou Koné,Pass
+633075,30,MissedShots,0.889000015258789,0.5359999847412109,0.06562929600477219,Jordan Siebatcheu,h,3682,OpenPlay,2024,Head,28336,Reims,Saint-Etienne,0,2,2025-05-10 19:00:00,Cédric Kipré,Cross
+633076,34,MissedShots,0.9519999694824218,0.6020000076293945,0.026405181735754013,Jordan Siebatcheu,h,3682,OpenPlay,2024,Head,28336,Reims,Saint-Etienne,0,2,2025-05-10 19:00:00,Keito Nakamura,Rebound
+633087,45,SavedShot,0.9690000152587891,0.6680000305175782,0.06690463423728943,Jordan Siebatcheu,h,3682,OpenPlay,2024,LeftFoot,28336,Reims,Saint-Etienne,0,2,2025-05-10 19:00:00,Mory Gbane,Pass
+633089,46,BlockedShot,0.9269999694824219,0.529000015258789,0.05373191460967064,Jordan Siebatcheu,h,3682,FromCorner,2024,Head,28336,Reims,Saint-Etienne,0,2,2025-05-10 19:00:00,Junya Ito,Aerial
+634565,7,MissedShots,0.8130000305175781,0.610999984741211,0.04148296266794205,Jordan Siebatcheu,a,3682,OpenPlay,2024,LeftFoot,28353,Lille,Reims,2,1,2025-05-17 19:00:00,,None

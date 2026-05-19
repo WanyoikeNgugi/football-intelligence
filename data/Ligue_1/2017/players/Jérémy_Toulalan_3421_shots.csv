@@ -1,0 +1,25 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+1255,32,MissedShots,0.93,0.33099998474121095,0.07621899992227554,Jérémy Toulalan,h,3421,OpenPlay,2014,LeftFoot,6163,Monaco,Guingamp,1,0,2014-09-21 16:00:00,Nabil Dirar,Pass
+1698,40,BlockedShot,0.754000015258789,0.6519999694824219,0.01737939938902855,Jérémy Toulalan,a,3421,OpenPlay,2014,RightFoot,6170,Montpellier,Monaco,0,1,2014-09-24 18:00:00,Layvin Kurzawa,Pass
+1709,81,BlockedShot,0.79,0.36400001525878906,0.028301600366830826,Jérémy Toulalan,a,3421,FromCorner,2014,RightFoot,6170,Montpellier,Monaco,0,1,2014-09-24 18:00:00,João Moutinho,Cross
+3795,34,BlockedShot,0.77,0.3340000152587891,0.01633559912443161,Jérémy Toulalan,h,3421,FromCorner,2014,RightFoot,6144,Monaco,Reims,1,1,2014-10-31 19:30:00,Elderson Echiéjilé,LayOff
+5157,16,BlockedShot,0.7169999694824218,0.5129999923706055,0.014005700126290321,Jérémy Toulalan,a,3421,OpenPlay,2014,RightFoot,6093,Saint-Etienne,Monaco,1,1,2014-11-09 16:00:00,João Moutinho,Pass
+5975,38,MissedShots,0.7430000305175781,0.634000015258789,0.014807900413870811,Jérémy Toulalan,h,3421,FromCorner,2014,LeftFoot,6100,Monaco,Caen,2,2,2014-11-22 19:00:00,,None
+5994,76,MissedShots,0.9069999694824219,0.715,0.03771200031042099,Jérémy Toulalan,h,3421,OpenPlay,2014,LeftFoot,6100,Monaco,Caen,2,2,2014-11-22 19:00:00,,Rebound
+3015,47,BlockedShot,0.6969999694824218,0.730999984741211,0.008279560133814812,Jérémy Toulalan,a,3421,OpenPlay,2014,RightFoot,5970,Guingamp,Monaco,1,0,2015-02-08 13:00:00,,None
+3026,84,BlockedShot,0.7319999694824219,0.509000015258789,0.016054799780249596,Jérémy Toulalan,a,3421,OpenPlay,2014,LeftFoot,5970,Guingamp,Monaco,1,0,2015-02-08 13:00:00,Fabinho,Cross
+2629,75,MissedShots,0.7090000152587891,0.605999984741211,0.012958199717104435,Jérémy Toulalan,h,3421,FromCorner,2014,RightFoot,5895,Monaco,Montpellier,0,0,2015-04-07 18:00:00,,None
+61525,29,MissedShots,0.6890000152587891,0.67,0.012020699679851532,Jérémy Toulalan,a,3421,OpenPlay,2015,RightFoot,1874,Nice,Monaco,1,2,2015-08-08 23:00:00,Ricardo Carvalho,Pass
+61654,72,MissedShots,0.769000015258789,0.295,0.022747399285435677,Jérémy Toulalan,h,3421,FromCorner,2015,RightFoot,1879,Monaco,Lille,0,0,2015-08-14 22:30:00,Bernardo Silva,Cross
+64055,4,SavedShot,0.7930000305175782,0.6079999923706054,0.014414000324904919,Jérémy Toulalan,a,3421,OpenPlay,2015,LeftFoot,1974,Reims,Monaco,0,1,2015-10-25 17:00:00,,Aerial
+64971,50,MissedShots,0.6840000152587891,0.500999984741211,0.012592200189828873,Jérémy Toulalan,h,3421,OpenPlay,2015,RightFoot,2045,Monaco,Saint-Etienne,1,0,2015-12-13 17:00:00,Hélder Costa,Pass
+67149,33,MissedShots,0.8,0.30100000381469727,0.026320600882172585,Jérémy Toulalan,h,3421,FromCorner,2015,RightFoot,2159,Monaco,Reims,2,2,2016-03-11 23:30:00,João Moutinho,Cross
+67663,92,SavedShot,0.625,0.2720000076293945,0.005874199792742729,Jérémy Toulalan,a,3421,OpenPlay,2015,RightFoot,2196,Lille,Monaco,4,1,2016-04-10 16:00:00,Jemerson,BallRecovery
+68805,13,MissedShots,0.9209999847412109,0.3390000152587891,0.06437650322914124,Jérémy Toulalan,h,3421,OpenPlay,2015,LeftFoot,2208,Monaco,Marseille,2,1,2016-04-17 23:00:00,,None
+105766,46,BlockedShot,0.735,0.42900001525878906,0.008199770003557205,Jérémy Toulalan,h,3421,FromCorner,2016,RightFoot,3260,Bordeaux,Nice,0,0,2016-12-21 23:50:00,Valentin Vada,Chipped
+105768,51,BlockedShot,0.7240000152587891,0.6719999694824219,0.012482499703764915,Jérémy Toulalan,h,3421,OpenPlay,2016,RightFoot,3260,Bordeaux,Nice,0,0,2016-12-21 23:50:00,Théo Pellenard,Pass
+109367,89,MissedShots,0.7430000305175781,0.34900001525878904,0.013816200196743011,Jérémy Toulalan,h,3421,OpenPlay,2016,RightFoot,4157,Bordeaux,Paris Saint Germain,0,3,2017-02-10 19:45:00,Valentin Vada,Pass
+111660,0,MissedShots,0.789000015258789,0.720999984741211,0.015980800613760948,Jérémy Toulalan,a,3421,OpenPlay,2016,RightFoot,4177,Lille,Bordeaux,2,3,2017-02-25 19:00:00,,None
+111535,6,BlockedShot,0.8159999847412109,0.585,0.049112699925899506,Jérémy Toulalan,a,3421,OpenPlay,2016,LeftFoot,4242,Nantes,Bordeaux,0,1,2017-04-16 14:00:00,Valentin Vada,HeadPass
+164409,11,OwnGoal,0.025999999046325682,0.4179999923706055,0,Jérémy Toulalan,a,3421,SetPiece,2017,Head,8678,Rennes,Bordeaux,1,0,2017-11-03 20:45:00,,Foul
+179484,81,BlockedShot,0.9230000305175782,0.49700000762939456,0.05270250141620636,Jérémy Toulalan,h,3421,FromCorner,2017,Head,8727,Bordeaux,Strasbourg,0,3,2017-12-08 19:45:00,Nicolas de Preville,Aerial

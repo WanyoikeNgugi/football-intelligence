@@ -1,0 +1,78 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+311133,60,MissedShots,0.8830000305175781,0.4640000152587891,0.016675999388098717,Mohamed Simakan,a,7551,FromCorner,2019,Head,12727,Reims,Strasbourg,0,0,2019-08-18 16:00:00,Jonas Martin,Aerial
+321887,9,SavedShot,0.875,0.47400001525878904,0.035886600613594055,Mohamed Simakan,a,7551,FromCorner,2019,Head,12777,Lille,Strasbourg,2,0,2019-09-25 17:00:00,Lionel Carole,HeadPass
+326668,85,MissedShots,0.8909999847412109,0.5609999847412109,0.03884189948439598,Mohamed Simakan,a,7551,FromCorner,2019,Head,12806,Marseille,Strasbourg,2,0,2019-10-20 20:00:00,Ibrahima Sissoko,None
+327527,1,SavedShot,0.9390000152587891,0.4570000076293945,0.12632699310779572,Mohamed Simakan,h,7551,SetPiece,2019,Head,12809,Strasbourg,Nice,1,0,2019-10-26 19:00:00,Dmitri Lienard,Cross
+329508,61,MissedShots,0.875999984741211,0.529000015258789,0.03045790083706379,Mohamed Simakan,a,7551,FromCorner,2019,Head,12826,Angers,Strasbourg,1,0,2019-11-02 19:00:00,Dmitri Lienard,Cross
+329511,82,BlockedShot,0.8819999694824219,0.5059999847412109,0.024534400552511215,Mohamed Simakan,a,7551,FromCorner,2019,Head,12826,Angers,Strasbourg,1,0,2019-11-02 19:00:00,Adrien Thomasson,SubstitutionOn
+334805,58,SavedShot,0.6990000152587891,0.3029999923706055,0.008165620267391205,Mohamed Simakan,a,7551,OpenPlay,2019,RightFoot,12866,Brest,Strasbourg,5,0,2019-12-03 18:00:00,,BallTouch
+356942,59,MissedShots,0.750999984741211,0.3270000076293945,0.01448769960552454,Mohamed Simakan,h,7551,FromCorner,2019,RightFoot,12925,Strasbourg,Lille,1,2,2020-02-01 19:00:00,,None
+357591,21,MissedShots,0.9159999847412109,0.3890000152587891,0.08270160108804703,Mohamed Simakan,a,7551,OpenPlay,2019,RightFoot,12930,Toulouse,Strasbourg,0,1,2020-02-05 18:00:00,,None
+378029,21,SavedShot,0.6819999694824219,0.40900001525878904,0.012492699548602104,Mohamed Simakan,h,7551,OpenPlay,2020,RightFoot,14208,Strasbourg,Dijon,1,0,2020-09-20 13:00:00,Anthony Caci,Pass
+378030,25,ShotOnPost,0.9259999847412109,0.5590000152587891,0.05431810021400452,Mohamed Simakan,h,7551,SetPiece,2020,Head,14208,Strasbourg,Dijon,1,0,2020-09-20 13:00:00,Kenny Lala,Aerial
+381051,12,MissedShots,0.860999984741211,0.57,0.012259299866855145,Mohamed Simakan,h,7551,FromCorner,2020,Head,15813,Strasbourg,Lille,0,3,2020-10-04 13:00:00,Kenny Lala,Aerial
+381056,27,MissedShots,0.9280000305175782,0.4540000152587891,0.10433799773454666,Mohamed Simakan,h,7551,FromCorner,2020,Head,15813,Strasbourg,Lille,0,3,2020-10-04 13:00:00,Dmitri Lienard,Cross
+381064,57,MissedShots,0.924000015258789,0.43099998474121093,0.02766459994018078,Mohamed Simakan,h,7551,FromCorner,2020,Head,15813,Strasbourg,Lille,0,3,2020-10-04 13:00:00,Dmitri Lienard,Aerial
+382363,5,MissedShots,0.7480000305175781,0.35700000762939454,0.014260499738156796,Mohamed Simakan,h,7551,OpenPlay,2020,RightFoot,15825,Strasbourg,Lyon,2,3,2020-10-18 11:00:00,,None
+382378,48,SavedShot,0.7219999694824218,0.19100000381469726,0.008136180229485035,Mohamed Simakan,h,7551,OpenPlay,2020,RightFoot,15825,Strasbourg,Lyon,2,3,2020-10-18 11:00:00,Adrien Thomasson,Pass
+382386,67,MissedShots,0.9519999694824218,0.5029999923706054,0.42023399472236633,Mohamed Simakan,h,7551,FromCorner,2020,Head,15825,Strasbourg,Lyon,2,3,2020-10-18 11:00:00,,None
+385729,57,MissedShots,0.8540000152587891,0.345,0.04772980138659477,Mohamed Simakan,h,7551,OpenPlay,2020,RightFoot,15847,Strasbourg,Marseille,0,1,2020-11-06 20:00:00,Jean-Ricner Bellegarde,Pass
+387922,54,BlockedShot,0.9169999694824219,0.39799999237060546,0.4432939887046814,Mohamed Simakan,a,7551,SetPiece,2020,RightFoot,15862,Montpellier,Strasbourg,4,3,2020-11-22 14:00:00,Kenny Lala,Pass
+392119,38,MissedShots,0.6370000076293946,0.37,0.009511079639196396,Mohamed Simakan,h,7551,OpenPlay,2020,RightFoot,15894,Strasbourg,Metz,2,2,2020-12-13 14:00:00,Anthony Caci,Pass
+392125,58,SavedShot,0.925,0.4809999847412109,0.05380849912762642,Mohamed Simakan,h,7551,FromCorner,2020,Head,15894,Strasbourg,Metz,2,2,2020-12-13 14:00:00,Dmitri Lienard,Aerial
+392127,65,Goal,0.9580000305175781,0.41700000762939454,0.09257529675960541,Mohamed Simakan,h,7551,FromCorner,2020,Head,15894,Strasbourg,Metz,2,2,2020-12-13 14:00:00,Dmitri Lienard,Cross
+394527,19,SavedShot,0.909000015258789,0.500999984741211,0.09043560177087784,Mohamed Simakan,h,7551,FromCorner,2020,Head,15913,Strasbourg,Bordeaux,0,2,2020-12-20 14:00:00,Ibrahima Sissoko,Cross
+395529,65,MissedShots,0.935,0.485,0.08872479945421219,Mohamed Simakan,a,7551,FromCorner,2020,RightFoot,15924,Paris Saint Germain,Strasbourg,4,0,2020-12-23 20:00:00,,Aerial
+426357,43,MissedShots,0.94,0.3920000076293945,0.046615101397037506,Mohamed Simakan,a,7551,FromCorner,2021,Head,17523,Mainz 05,RasenBallsport Leipzig,1,0,2021-08-15 13:30:00,Christopher Nkunku,Cross
+426360,57,SavedShot,0.88,0.46799999237060547,0.05388350039720535,Mohamed Simakan,a,7551,FromCorner,2021,RightFoot,17523,Mainz 05,RasenBallsport Leipzig,1,0,2021-08-15 13:30:00,Nordi Mukiele,Cross
+426361,58,MissedShots,0.904000015258789,0.56,0.056866198778152466,Mohamed Simakan,a,7551,FromCorner,2021,Head,17523,Mainz 05,RasenBallsport Leipzig,1,0,2021-08-15 13:30:00,Angelino,Cross
+431513,47,MissedShots,0.9269999694824219,0.605,0.03908989951014519,Mohamed Simakan,a,7551,FromCorner,2021,Head,17557,FC Cologne,RasenBallsport Leipzig,1,1,2021-09-18 16:30:00,,None
+436044,9,BlockedShot,0.855999984741211,0.500999984741211,0.06710489839315414,Mohamed Simakan,a,7551,FromCorner,2021,LeftFoot,17582,Freiburg,RasenBallsport Leipzig,1,1,2021-10-16 13:30:00,,None
+436063,66,MissedShots,0.8690000152587891,0.5559999847412109,0.012939900159835815,Mohamed Simakan,a,7551,FromCorner,2021,Head,17582,Freiburg,RasenBallsport Leipzig,1,1,2021-10-16 13:30:00,Dominik Szoboszlai,Aerial
+455225,62,BlockedShot,0.8040000152587891,0.40400001525878904,0.028717199340462685,Mohamed Simakan,h,7551,FromCorner,2021,RightFoot,17695,RasenBallsport Leipzig,Wolfsburg,2,0,2022-01-23 14:30:00,,None
+459012,28,MissedShots,0.9369999694824219,0.544000015258789,0.06015919893980026,Mohamed Simakan,a,7551,FromCorner,2021,Head,17716,Hertha Berlin,RasenBallsport Leipzig,1,6,2022-02-20 18:30:00,Christopher Nkunku,Aerial
+463360,23,MissedShots,0.9259999847412109,0.5540000152587891,0.05736590176820755,Mohamed Simakan,a,7551,SetPiece,2021,Head,17741,Greuther Fuerth,RasenBallsport Leipzig,1,6,2022-03-13 18:30:00,Christopher Nkunku,Aerial
+463371,58,Goal,0.93,0.5470000076293945,0.35321199893951416,Mohamed Simakan,a,7551,SetPiece,2021,Head,17741,Greuther Fuerth,RasenBallsport Leipzig,1,6,2022-03-13 18:30:00,Emil Forsberg,Cross
+464587,25,SavedShot,0.7580000305175781,0.4279999923706055,0.023946600034832954,Mohamed Simakan,h,7551,OpenPlay,2021,RightFoot,17757,RasenBallsport Leipzig,Eintracht Frankfurt,0,0,2022-03-20 14:30:00,Konrad Laimer,BallTouch
+480252,79,MissedShots,0.8859999847412109,0.5879999923706055,0.032182298600673676,Mohamed Simakan,h,7551,SetPiece,2022,Head,19353,RasenBallsport Leipzig,FC Cologne,2,2,2022-08-13 13:30:00,Christopher Nkunku,Cross
+482066,67,BlockedShot,0.91,0.57,0.04111409932374954,Mohamed Simakan,a,7551,FromCorner,2022,OtherBodyPart,19366,Union Berlin,RasenBallsport Leipzig,2,1,2022-08-20 16:30:00,David Raum,Cross
+483564,34,MissedShots,0.93,0.4929999923706055,0.12694400548934937,Mohamed Simakan,h,7551,FromCorner,2022,Head,19370,RasenBallsport Leipzig,Wolfsburg,2,0,2022-08-27 13:30:00,Dani Olmo,Cross
+483566,48,SavedShot,0.9590000152587891,0.52,0.44831299781799316,Mohamed Simakan,h,7551,FromCorner,2022,RightFoot,19370,RasenBallsport Leipzig,Wolfsburg,2,0,2022-08-27 13:30:00,,Foul
+496328,26,MissedShots,0.784000015258789,0.5020000076293946,0.025942200794816017,Mohamed Simakan,h,7551,FromCorner,2022,RightFoot,19442,RasenBallsport Leipzig,Bayer Leverkusen,2,0,2022-10-29 13:30:00,,None
+499496,36,BlockedShot,0.7340000152587891,0.4809999847412109,0.020239299163222313,Mohamed Simakan,h,7551,OpenPlay,2022,RightFoot,19460,RasenBallsport Leipzig,Freiburg,3,1,2022-11-09 19:30:00,Xaver Schlager,Pass
+499504,53,Goal,0.9680000305175781,0.5179999923706055,0.7438210248947144,Mohamed Simakan,h,7551,FromCorner,2022,RightFoot,19460,RasenBallsport Leipzig,Freiburg,3,1,2022-11-09 19:30:00,,Rebound
+518305,38,SavedShot,0.9740000152587891,0.4979999923706055,0.6034370064735413,Mohamed Simakan,a,7551,FromCorner,2022,Head,19584,Hertha Berlin,RasenBallsport Leipzig,0,1,2023-04-08 16:30:00,Dominik Szoboszlai,Cross
+521649,79,MissedShots,0.9209999847412109,0.4540000152587891,0.09631417691707611,Mohamed Simakan,a,7551,OpenPlay,2022,Head,19595,Bayer Leverkusen,RasenBallsport Leipzig,2,0,2023-04-23 15:30:00,Dominik Szoboszlai,Cross
+522602,58,MissedShots,0.915,0.29600000381469727,0.057946737855672836,Mohamed Simakan,h,7551,OpenPlay,2022,LeftFoot,19604,RasenBallsport Leipzig,Hoffenheim,1,0,2023-04-29 13:30:00,Timo Werner,TakeOn
+522603,62,MissedShots,0.8719999694824219,0.46299999237060546,0.014329970814287663,Mohamed Simakan,h,7551,FromCorner,2022,Head,19604,RasenBallsport Leipzig,Hoffenheim,1,0,2023-04-29 13:30:00,Timo Werner,Aerial
+526724,94,MissedShots,0.8819999694824219,0.49200000762939455,0.12250158935785294,Mohamed Simakan,h,7551,OpenPlay,2022,LeftFoot,19623,RasenBallsport Leipzig,Werder Bremen,2,1,2023-05-14 15:30:00,Christopher Nkunku,Pass
+536969,45,SavedShot,0.9490000152587891,0.61,0.01632259599864483,Mohamed Simakan,a,7551,FromCorner,2023,Head,23091,Union Berlin,RasenBallsport Leipzig,0,3,2023-09-03 15:30:00,David Raum,Aerial
+542573,30,MissedShots,0.8630000305175781,0.27600000381469725,0.03485729172825813,Mohamed Simakan,h,7551,OpenPlay,2023,LeftFoot,23121,RasenBallsport Leipzig,Bochum,0,0,2023-10-07 13:30:00,Xavi Simons,Pass
+545605,10,MissedShots,0.935,0.555,0.11005205661058426,Mohamed Simakan,h,7551,FromCorner,2023,Head,23138,RasenBallsport Leipzig,FC Cologne,6,0,2023-10-28 16:30:00,David Raum,Cross
+549574,3,MissedShots,0.925,0.5509999847412109,0.04199425131082535,Mohamed Simakan,a,7551,FromCorner,2023,Head,23168,Wolfsburg,RasenBallsport Leipzig,2,1,2023-11-25 14:30:00,David Raum,Aerial
+549597,54,MissedShots,0.8730000305175781,0.45599998474121095,0.02754715457558632,Mohamed Simakan,a,7551,FromCorner,2023,Head,23168,Wolfsburg,RasenBallsport Leipzig,2,1,2023-11-25 14:30:00,David Raum,Cross
+551158,42,SavedShot,0.9109999847412109,0.5879999923706055,0.21832843124866486,Mohamed Simakan,h,7551,SetPiece,2023,Head,23174,RasenBallsport Leipzig,FC Heidenheim,2,1,2023-12-02 14:30:00,Lukas Klostermann,Chipped
+553133,18,SavedShot,0.7930000305175782,0.34700000762939454,0.029241036623716354,Mohamed Simakan,a,7551,OpenPlay,2023,RightFoot,23182,Borussia Dortmund,RasenBallsport Leipzig,2,3,2023-12-09 17:30:00,Amadou Haidara,Pass
+553137,22,BlockedShot,0.9030000305175782,0.45,0.06676681339740753,Mohamed Simakan,a,7551,FromCorner,2023,Head,23182,Borussia Dortmund,RasenBallsport Leipzig,2,3,2023-12-09 17:30:00,David Raum,Cross
+553157,64,BlockedShot,0.9490000152587891,0.5659999847412109,0.1488523930311203,Mohamed Simakan,a,7551,OpenPlay,2023,RightFoot,23182,Borussia Dortmund,RasenBallsport Leipzig,2,3,2023-12-09 17:30:00,David Raum,Pass
+554392,33,BlockedShot,0.9619999694824218,0.495,0.6250540018081665,Mohamed Simakan,h,7551,SetPiece,2023,RightFoot,23192,RasenBallsport Leipzig,Hoffenheim,3,1,2023-12-16 17:30:00,Yussuf Poulsen,HeadPass
+554406,73,Goal,0.965,0.4520000076293945,0.6083507537841797,Mohamed Simakan,h,7551,FromCorner,2023,RightFoot,23192,RasenBallsport Leipzig,Hoffenheim,3,1,2023-12-16 17:30:00,,Rebound
+558080,9,MissedShots,0.9180000305175782,0.46599998474121096,0.051499467343091965,Mohamed Simakan,h,7551,FromCorner,2023,Head,23210,RasenBallsport Leipzig,Eintracht Frankfurt,0,1,2024-01-13 14:30:00,,None
+558098,61,MissedShots,0.9440000152587891,0.4809999847412109,0.08507301658391953,Mohamed Simakan,h,7551,FromCorner,2023,OtherBodyPart,23210,RasenBallsport Leipzig,Eintracht Frankfurt,0,1,2024-01-13 14:30:00,Xavi Simons,Aerial
+558102,70,BlockedShot,0.9540000152587891,0.534000015258789,0.07542144507169724,Mohamed Simakan,h,7551,FromCorner,2023,Head,23210,RasenBallsport Leipzig,Eintracht Frankfurt,0,1,2024-01-13 14:30:00,David Raum,Aerial
+558105,73,MissedShots,0.955,0.5520000076293945,0.06932828575372696,Mohamed Simakan,h,7551,FromCorner,2023,Head,23210,RasenBallsport Leipzig,Eintracht Frankfurt,0,1,2024-01-13 14:30:00,David Raum,Aerial
+558107,82,MissedShots,0.9290000152587891,0.5259999847412109,0.0581582710146904,Mohamed Simakan,h,7551,FromCorner,2023,Head,23210,RasenBallsport Leipzig,Eintracht Frankfurt,0,1,2024-01-13 14:30:00,David Raum,Aerial
+559109,20,SavedShot,0.77,0.28600000381469726,0.02455860562622547,Mohamed Simakan,h,7551,OpenPlay,2023,RightFoot,23219,RasenBallsport Leipzig,Bayer Leverkusen,2,3,2024-01-20 17:30:00,Xavi Simons,Pass
+559110,21,SavedShot,0.950999984741211,0.3170000076293945,0.060144420713186264,Mohamed Simakan,h,7551,OpenPlay,2023,RightFoot,23219,RasenBallsport Leipzig,Bayer Leverkusen,2,3,2024-01-20 17:30:00,Xavi Simons,Chipped
+562382,77,SavedShot,0.89,0.4779999923706055,0.0770212933421135,Mohamed Simakan,a,7551,SetPiece,2023,Head,23251,Augsburg,RasenBallsport Leipzig,2,2,2024-02-10 14:30:00,David Raum,Cross
+564101,77,SavedShot,0.9230000305175782,0.5159999847412109,0.05297171697020531,Mohamed Simakan,h,7551,FromCorner,2023,Head,23254,RasenBallsport Leipzig,Borussia M.Gladbach,2,0,2024-02-17 17:30:00,Xavi Simons,Aerial
+565393,52,MissedShots,0.909000015258789,0.44799999237060545,0.06926072388887405,Mohamed Simakan,a,7551,FromCorner,2023,LeftFoot,23271,Bayern Munich,RasenBallsport Leipzig,2,1,2024-02-24 17:30:00,Xavi Simons,Cross
+566470,91,MissedShots,0.8419999694824218,0.4909999847412109,0.06144314631819725,Mohamed Simakan,a,7551,SetPiece,2023,RightFoot,23278,Bochum,RasenBallsport Leipzig,1,4,2024-03-02 14:30:00,,None
+567949,26,MissedShots,0.7430000305175781,0.29700000762939455,0.02023273892700672,Mohamed Simakan,h,7551,OpenPlay,2023,RightFoot,23282,RasenBallsport Leipzig,Darmstadt,2,0,2024-03-09 14:30:00,Kevin Kampl,Pass
+567954,38,MissedShots,0.9580000305175781,0.41700000762939454,0.08874759078025818,Mohamed Simakan,h,7551,FromCorner,2023,Head,23282,RasenBallsport Leipzig,Darmstadt,2,0,2024-03-09 14:30:00,Xavi Simons,Cross
+567967,54,SavedShot,0.9269999694824219,0.325,0.24171696603298187,Mohamed Simakan,h,7551,OpenPlay,2023,RightFoot,23282,RasenBallsport Leipzig,Darmstadt,2,0,2024-03-09 14:30:00,Xavi Simons,Pass
+573579,48,MissedShots,0.9180000305175782,0.48900001525878906,0.10248353332281113,Mohamed Simakan,h,7551,FromCorner,2023,Head,23318,RasenBallsport Leipzig,Wolfsburg,3,0,2024-04-13 13:30:00,Xavi Simons,Cross
+573587,77,SavedShot,0.9019999694824219,0.33099998474121095,0.08858361840248108,Mohamed Simakan,h,7551,OpenPlay,2023,RightFoot,23318,RasenBallsport Leipzig,Wolfsburg,3,0,2024-04-13 13:30:00,Dani Olmo,Pass
+576703,45,Goal,0.9009999847412109,0.46799999237060547,0.43570971488952637,Mohamed Simakan,h,7551,OpenPlay,2023,RightFoot,23336,RasenBallsport Leipzig,Borussia Dortmund,4,1,2024-04-27 13:30:00,Loïs Openda,Pass
+579779,72,MissedShots,0.905,0.46799999237060547,0.10851678997278214,Mohamed Simakan,h,7551,OpenPlay,2023,Head,23354,RasenBallsport Leipzig,Werder Bremen,1,1,2024-05-11 13:30:00,Benjamin Henrichs,Cross
+579781,78,BlockedShot,0.9059999847412109,0.43,0.09394088387489319,Mohamed Simakan,h,7551,OpenPlay,2023,RightFoot,23354,RasenBallsport Leipzig,Werder Bremen,1,1,2024-05-11 13:30:00,Kevin Kampl,Cross

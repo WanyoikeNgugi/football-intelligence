@@ -1,0 +1,61 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+130094,89,Goal,0.7980000305175782,0.355,0.030849099159240723,Aymen Barkok,a,5235,OpenPlay,2016,LeftFoot,2823,Werder Bremen,Eintracht Frankfurt,1,2,2016-11-20 20:30:00,Bastian Oczipka,Pass
+130434,74,Goal,0.9640000152587891,0.6,0.8399189710617065,Aymen Barkok,h,5235,OpenPlay,2016,LeftFoot,3219,Eintracht Frankfurt,Mainz 05,3,0,2016-12-20 23:00:00,Branimir Hrgota,TakeOn
+132437,68,MissedShots,0.735,0.6140000152587891,0.01622699946165085,Aymen Barkok,a,5235,OpenPlay,2016,RightFoot,3750,Bayer Leverkusen,Eintracht Frankfurt,3,0,2017-02-11 14:30:00,Omar Mascarell,TakeOn
+132445,86,MissedShots,0.7269999694824218,0.49,0.014419900253415108,Aymen Barkok,a,5235,OpenPlay,2016,RightFoot,3750,Bayer Leverkusen,Eintracht Frankfurt,3,0,2017-02-11 14:30:00,Haris Seferovic,LayOff
+131832,4,BlockedShot,0.8109999847412109,0.5629999923706055,0.07119160145521164,Aymen Barkok,h,5235,OpenPlay,2016,RightFoot,3759,Eintracht Frankfurt,Ingolstadt,0,2,2017-02-18 14:30:00,Ante Rebic,TakeOn
+131847,55,BlockedShot,0.8719999694824219,0.54,0.09139029681682587,Aymen Barkok,h,5235,SetPiece,2016,LeftFoot,3759,Eintracht Frankfurt,Ingolstadt,0,2,2017-02-18 14:30:00,,Rebound
+133397,66,MissedShots,0.7759999847412109,0.4520000076293945,0.029279999434947968,Aymen Barkok,h,5235,OpenPlay,2016,RightFoot,3783,Eintracht Frankfurt,Freiburg,1,2,2017-03-05 14:30:00,,None
+133050,10,MissedShots,0.8180000305175781,0.5720000076293945,0.04318439960479736,Aymen Barkok,a,5235,OpenPlay,2016,RightFoot,3868,Mainz 05,Eintracht Frankfurt,4,2,2017-05-13 14:30:00,,Rebound
+167895,76,BlockedShot,0.7719999694824219,0.3320000076293945,0.020508600398898125,Aymen Barkok,a,5235,OpenPlay,2017,RightFoot,8329,Hannover 96,Eintracht Frankfurt,1,2,2017-10-14 14:30:00,,Tackle
+179724,53,BlockedShot,0.8059999847412109,0.34900001525878904,0.02309579961001873,Aymen Barkok,h,5235,SetPiece,2017,RightFoot,8391,Eintracht Frankfurt,Bayern Munich,0,1,2017-12-09 14:30:00,,None
+184071,74,BlockedShot,0.8219999694824218,0.6359999847412109,0.05342720076441765,Aymen Barkok,a,5235,OpenPlay,2017,RightFoot,8400,Hamburger SV,Eintracht Frankfurt,1,2,2017-12-12 19:30:00,Ante Rebic,Pass
+278751,86,BlockedShot,0.8919999694824219,0.26600000381469724,0.036724500358104706,Aymen Barkok,h,5235,OpenPlay,2018,LeftFoot,10507,Fortuna Duesseldorf,RasenBallsport Leipzig,0,4,2019-01-27 17:00:00,Rouwen Hennings,Pass
+279689,3,MissedShots,0.695,0.4570000076293945,0.010555800050497055,Aymen Barkok,a,5235,OpenPlay,2018,RightFoot,10544,Schalke 04,Fortuna Duesseldorf,0,4,2019-03-02 14:30:00,Dodi Lukebakio,LayOff
+279693,32,MissedShots,0.914000015258789,0.56,0.4376029968261719,Aymen Barkok,a,5235,OpenPlay,2018,RightFoot,10544,Schalke 04,Fortuna Duesseldorf,0,4,2019-03-02 14:30:00,Niko Gießelmann,Pass
+279704,73,BlockedShot,0.735,0.46799999237060547,0.02768230065703392,Aymen Barkok,a,5235,OpenPlay,2018,RightFoot,10544,Schalke 04,Fortuna Duesseldorf,0,4,2019-03-02 14:30:00,Niko Gießelmann,Pass
+294230,69,MissedShots,0.7769999694824219,0.4209999847412109,0.021444199606776237,Aymen Barkok,h,5235,OpenPlay,2018,RightFoot,10596,Fortuna Duesseldorf,Bayern Munich,1,4,2019-04-14 14:30:00,,None
+377367,48,SavedShot,0.7519999694824219,0.4540000152587891,0.019217699766159058,Aymen Barkok,h,5235,OpenPlay,2020,RightFoot,14174,Eintracht Frankfurt,Arminia Bielefeld,1,1,2020-09-19 13:30:00,Filip Kostic,None
+378571,88,MissedShots,0.8119999694824219,0.485,0.348129004240036,Aymen Barkok,a,5235,OpenPlay,2020,RightFoot,14182,Hertha Berlin,Eintracht Frankfurt,1,3,2020-09-25 18:30:00,,None
+382599,92,MissedShots,0.86,0.7230000305175781,0.031838301569223404,Aymen Barkok,a,5235,OpenPlay,2020,RightFoot,15174,FC Cologne,Eintracht Frankfurt,1,1,2020-10-18 13:30:00,Sebastian Rode,Pass
+387500,42,Goal,0.93,0.42900001525878906,0.09041620045900345,Aymen Barkok,h,5235,SetPiece,2020,RightFoot,15208,Eintracht Frankfurt,RasenBallsport Leipzig,1,1,2020-11-21 17:30:00,Evan Ndicka,Chipped
+387505,70,MissedShots,0.759000015258789,0.36900001525878906,0.03909070044755936,Aymen Barkok,h,5235,OpenPlay,2020,RightFoot,15208,Eintracht Frankfurt,RasenBallsport Leipzig,1,1,2020-11-21 17:30:00,André Silva,Pass
+390080,33,MissedShots,0.86,0.575999984741211,0.36744600534439087,Aymen Barkok,h,5235,OpenPlay,2020,RightFoot,15224,Eintracht Frankfurt,Borussia Dortmund,1,1,2020-12-05 14:30:00,,None
+390090,68,BlockedShot,0.6859999847412109,0.33099998474121095,0.012659899890422821,Aymen Barkok,h,5235,OpenPlay,2020,RightFoot,15224,Eintracht Frankfurt,Borussia Dortmund,1,1,2020-12-05 14:30:00,Djibril Sow,Pass
+392554,15,MissedShots,0.71,0.6079999923706054,0.012635200284421444,Aymen Barkok,h,5235,OpenPlay,2020,RightFoot,15247,Eintracht Frankfurt,Borussia M.Gladbach,3,3,2020-12-15 17:30:00,,Dispossessed
+392558,31,Goal,0.91,0.46,0.46784698963165283,Aymen Barkok,h,5235,OpenPlay,2020,RightFoot,15247,Eintracht Frankfurt,Borussia M.Gladbach,3,3,2020-12-15 17:30:00,André Silva,TakeOn
+392565,78,BlockedShot,0.8209999847412109,0.51,0.17838799953460693,Aymen Barkok,h,5235,DirectFreekick,2020,RightFoot,15247,Eintracht Frankfurt,Borussia M.Gladbach,3,3,2020-12-15 17:30:00,,Standard
+399511,2,SavedShot,0.84,0.49400001525878906,0.06682589650154114,Aymen Barkok,h,5235,OpenPlay,2020,RightFoot,15279,Eintracht Frankfurt,Schalke 04,3,1,2021-01-17 17:00:00,,None
+399512,6,MissedShots,0.8680000305175781,0.46900001525878904,0.10993199795484543,Aymen Barkok,h,5235,OpenPlay,2020,LeftFoot,15279,Eintracht Frankfurt,Schalke 04,3,1,2021-01-17 17:00:00,Erik Durm,Pass
+401598,32,MissedShots,0.81,0.34900001525878904,0.02431810088455677,Aymen Barkok,h,5235,OpenPlay,2020,LeftFoot,15306,Eintracht Frankfurt,Hertha Berlin,3,1,2021-01-30 14:30:00,Evan Ndicka,Chipped
+411342,12,MissedShots,0.774000015258789,0.5840000152587891,0.02317960001528263,Aymen Barkok,h,5235,FromCorner,2020,LeftFoot,15368,Eintracht Frankfurt,Union Berlin,5,2,2021-03-20 14:30:00,,BallTouch
+415363,89,ShotOnPost,0.7819999694824219,0.28600000381469726,0.017332199960947037,Aymen Barkok,a,5235,OpenPlay,2020,RightFoot,15394,Borussia M.Gladbach,Eintracht Frankfurt,4,0,2021-04-17 13:30:00,Luka Jovic,Pass
+417416,61,BlockedShot,0.784000015258789,0.505,0.03756200149655342,Aymen Barkok,a,5235,OpenPlay,2020,RightFoot,15412,Bayer Leverkusen,Eintracht Frankfurt,3,1,2021-04-24 16:30:00,Filip Kostic,Pass
+423553,53,MissedShots,0.7569999694824219,0.524000015258789,0.026266299188137054,Aymen Barkok,h,5235,OpenPlay,2020,RightFoot,15441,Eintracht Frankfurt,Freiburg,3,1,2021-05-22 13:30:00,Ajdin Hrustic,Pass
+423554,58,SavedShot,0.785,0.6409999847412109,0.024680299684405327,Aymen Barkok,h,5235,OpenPlay,2020,RightFoot,15441,Eintracht Frankfurt,Freiburg,3,1,2021-05-22 13:30:00,,None
+423557,75,SavedShot,0.884000015258789,0.5429999923706055,0.12564800679683685,Aymen Barkok,h,5235,OpenPlay,2020,RightFoot,15441,Eintracht Frankfurt,Freiburg,3,1,2021-05-22 13:30:00,André Silva,Pass
+474168,8,MissedShots,0.705,0.47400001525878904,0.011533300392329693,Aymen Barkok,h,5235,SetPiece,2021,RightFoot,17810,Eintracht Frankfurt,Borussia M.Gladbach,1,1,2022-05-08 13:30:00,,Rebound
+474176,45,SavedShot,0.769000015258789,0.3139999961853027,0.01573380082845688,Aymen Barkok,h,5235,OpenPlay,2021,RightFoot,17810,Eintracht Frankfurt,Borussia M.Gladbach,1,1,2022-05-08 13:30:00,Gonçalo Paciência,HeadPass
+496440,64,MissedShots,0.8490000152587891,0.34200000762939453,0.04775169864296913,Aymen Barkok,a,5235,OpenPlay,2022,RightFoot,19441,Bayern Munich,Mainz 05,6,2,2022-10-29 13:30:00,Karim Onisiwo,Pass
+504503,24,SavedShot,0.775,0.38,0.04837710037827492,Aymen Barkok,a,5235,FromCorner,2022,LeftFoot,19485,VfB Stuttgart,Mainz 05,1,1,2023-01-21 14:30:00,,TakeOn
+504514,55,ShotOnPost,0.8009999847412109,0.3579999923706055,0.03263380005955696,Aymen Barkok,a,5235,OpenPlay,2022,RightFoot,19485,VfB Stuttgart,Mainz 05,1,1,2023-01-21 14:30:00,Karim Onisiwo,Pass
+504522,71,MissedShots,0.865,0.445,0.06461700052022934,Aymen Barkok,a,5235,OpenPlay,2022,RightFoot,19485,VfB Stuttgart,Mainz 05,1,1,2023-01-21 14:30:00,Alexander Hack,Cross
+505445,79,MissedShots,0.865999984741211,0.38,0.062413498759269714,Aymen Barkok,h,5235,OpenPlay,2022,RightFoot,19489,Mainz 05,Borussia Dortmund,1,2,2023-01-25 17:30:00,Anton Stach,Chipped
+507012,81,MissedShots,0.6580000305175782,0.4979999923706055,0.011593200266361237,Aymen Barkok,a,5235,OpenPlay,2022,RightFoot,19505,Union Berlin,Mainz 05,2,1,2023-02-04 14:30:00,Marcus Ingvartsen,Pass
+507019,90,MissedShots,0.8630000305175781,0.41200000762939454,0.026685800403356552,Aymen Barkok,a,5235,FromCorner,2022,RightFoot,19505,Union Berlin,Mainz 05,2,1,2023-02-04 14:30:00,,Aerial
+507021,95,MissedShots,0.7959999847412109,0.28600000381469726,0.018595099449157715,Aymen Barkok,a,5235,OpenPlay,2022,RightFoot,19505,Union Berlin,Mainz 05,2,1,2023-02-04 14:30:00,,None
+510612,87,MissedShots,0.7619999694824219,0.629000015258789,0.01702209934592247,Aymen Barkok,h,5235,FromCorner,2022,RightFoot,19535,Mainz 05,Borussia M.Gladbach,4,0,2023-02-24 19:30:00,,None
+523471,84,BlockedShot,0.8190000152587891,0.504000015258789,0.05394413694739342,Aymen Barkok,a,5235,OpenPlay,2022,RightFoot,19608,Wolfsburg,Mainz 05,3,0,2023-04-30 15:30:00,,BallRecovery
+525898,75,SavedShot,0.7019999694824218,0.43099998474121093,0.007754472084343433,Aymen Barkok,a,5235,OpenPlay,2022,RightFoot,19626,Eintracht Frankfurt,Mainz 05,3,0,2023-05-13 13:30:00,,Rebound
+537487,88,MissedShots,0.9019999694824219,0.6659999847412109,0.06433422118425369,Aymen Barkok,h,5235,OpenPlay,2023,LeftFoot,23096,Mainz 05,VfB Stuttgart,1,3,2023-09-16 13:30:00,Anthony Caci,Pass
+537489,93,SavedShot,0.9619999694824218,0.33799999237060546,0.060378365218639374,Aymen Barkok,h,5235,OpenPlay,2023,RightFoot,23096,Mainz 05,VfB Stuttgart,1,3,2023-09-16 13:30:00,Ludovic Ajorque,HeadPass
+540973,87,BlockedShot,0.830999984741211,0.47,0.0674653947353363,Aymen Barkok,h,5235,OpenPlay,2023,RightFoot,23114,Mainz 05,Bayer Leverkusen,0,3,2023-09-30 13:30:00,Ludovic Ajorque,Pass
+542263,71,SavedShot,0.8430000305175781,0.565,0.29424360394477844,Aymen Barkok,a,5235,OpenPlay,2023,LeftFoot,23119,Borussia M.Gladbach,Mainz 05,2,2,2023-10-06 18:30:00,Anwar El Ghazi,Pass
+542264,74,Goal,0.9580000305175781,0.6229999923706054,0.3327067196369171,Aymen Barkok,a,5235,OpenPlay,2023,LeftFoot,23119,Borussia M.Gladbach,Mainz 05,2,2,2023-10-06 18:30:00,Anwar El Ghazi,Pass
+544286,88,MissedShots,0.965,0.34700000762939454,0.013673766516149044,Aymen Barkok,h,5235,FromCorner,2023,Head,23134,Mainz 05,Bayern Munich,1,3,2023-10-21 16:30:00,Marco Richter,Cross
+545111,75,SavedShot,0.8159999847412109,0.49900001525878906,0.05389070883393288,Aymen Barkok,a,5235,OpenPlay,2023,RightFoot,23143,Bochum,Mainz 05,2,2,2023-10-27 18:30:00,Karim Onisiwo,Pass
+545114,88,SavedShot,0.8040000152587891,0.5179999923706055,0.043399322777986526,Aymen Barkok,a,5235,OpenPlay,2023,LeftFoot,23143,Bochum,Mainz 05,2,2,2023-10-27 18:30:00,Edimilson Fernandes,Pass
+545115,93,BlockedShot,0.78,0.3340000152587891,0.022618234157562256,Aymen Barkok,a,5235,OpenPlay,2023,LeftFoot,23143,Bochum,Mainz 05,2,2,2023-10-27 18:30:00,Leandro Barreiro Martins,Pass
+546764,84,MissedShots,0.7669999694824219,0.3920000076293945,0.043644197285175323,Aymen Barkok,h,5235,OpenPlay,2023,RightFoot,23150,Mainz 05,RasenBallsport Leipzig,2,0,2023-11-04 14:30:00,Jae-Sung Lee,LayOff
+550521,40,SavedShot,0.894000015258789,0.5229999923706055,0.4508059322834015,Aymen Barkok,a,5235,OpenPlay,2023,LeftFoot,23170,Hoffenheim,Mainz 05,1,1,2023-11-26 16:30:00,,None
+550535,67,SavedShot,0.885,0.5,0.75777667760849,Aymen Barkok,a,5235,Penalty,2023,RightFoot,23170,Hoffenheim,Mainz 05,1,1,2023-11-26 16:30:00,,Standard

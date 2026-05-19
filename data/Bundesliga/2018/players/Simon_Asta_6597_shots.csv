@@ -1,0 +1,7 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+302271,1,MissedShots,0.7769999694824219,0.2979999923706055,0.015492199920117855,Simon Asta,a,6597,OpenPlay,2018,RightFoot,10641,Wolfsburg,Augsburg,8,1,2019-05-18 13:30:00,,None
+302281,47,MissedShots,0.7859999847412109,0.3770000076293945,0.029689600691199303,Simon Asta,a,6597,OpenPlay,2018,RightFoot,10641,Wolfsburg,Augsburg,8,1,2019-05-18 13:30:00,Marco Richter,Pass
+439516,19,OwnGoal,0.06800000190734863,0.4620000076293945,0,Simon Asta,a,6597,OpenPlay,2021,Head,17600,Freiburg,Greuther Fuerth,3,1,2021-10-30 13:30:00,,None
+464016,86,MissedShots,0.8969999694824219,0.265,0.03719079867005348,Simon Asta,h,6597,OpenPlay,2021,RightFoot,17750,Greuther Fuerth,Freiburg,0,0,2022-03-19 14:30:00,,None
+469985,81,MissedShots,0.9169999694824219,0.3659999847412109,0.08842439949512482,Simon Asta,h,6597,OpenPlay,2021,RightFoot,17786,Greuther Fuerth,Bayer Leverkusen,1,4,2022-04-23 13:30:00,Timothy Tillman,Pass
+471151,77,BlockedShot,0.874000015258789,0.38799999237060545,0.06919000297784805,Simon Asta,a,6597,OpenPlay,2021,RightFoot,17801,Union Berlin,Greuther Fuerth,1,1,2022-04-29 18:30:00,Timothy Tillman,None

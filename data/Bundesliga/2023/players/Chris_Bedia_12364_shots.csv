@@ -1,0 +1,4 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+567639,90,BlockedShot,0.7959999847412109,0.5970000076293945,0.03735550865530968,Chris Bedia,a,12364,OpenPlay,2023,LeftFoot,23289,VfB Stuttgart,Union Berlin,2,0,2024-03-08 19:30:00,,BallRecovery
+573296,90,BlockedShot,0.8859999847412109,0.6,0.07351270318031311,Chris Bedia,a,12364,OpenPlay,2023,LeftFoot,23323,Augsburg,Union Berlin,2,0,2024-04-12 18:30:00,Brenden Aaronson,Foul
+578957,61,Goal,0.874000015258789,0.5370000076293945,0.3317512571811676,Chris Bedia,h,12364,OpenPlay,2023,LeftFoot,23345,Union Berlin,Bochum,3,4,2024-05-05 13:30:00,Andras Schafer,Pass

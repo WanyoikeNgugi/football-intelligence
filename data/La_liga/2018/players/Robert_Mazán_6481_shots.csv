@@ -1,0 +1,4 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+195232,9,MissedShots,0.7369999694824219,0.549000015258789,0.016157500445842743,Robert Mazán,a,6481,OpenPlay,2017,LeftFoot,8092,Alaves,Celta Vigo,2,1,2018-02-03 17:30:00,,None
+215948,77,SavedShot,0.9530000305175781,0.5879999923706055,0.12844200432300568,Robert Mazán,h,6481,OpenPlay,2017,RightFoot,8257,Celta Vigo,Levante,4,2,2018-05-19 00:00:00,Stanislav Lobotka,Chipped
+260366,76,BlockedShot,0.7809999847412109,0.705,0.017627600580453873,Robert Mazán,a,6481,OpenPlay,2018,LeftFoot,10117,Barcelona,Celta Vigo,2,0,2018-12-22 17:30:00,Stanislav Lobotka,Pass

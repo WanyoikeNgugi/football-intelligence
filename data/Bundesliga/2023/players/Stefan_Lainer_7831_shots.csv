@@ -1,0 +1,65 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+312417,30,Goal,0.9319999694824219,0.485,0.5915039777755737,Stefan Lainer,a,7831,SetPiece,2019,LeftFoot,12416,Mainz 05,Borussia M.Gladbach,1,3,2019-08-24 14:30:00,,Rebound
+315404,13,MissedShots,0.7140000152587891,0.48,0.02322860062122345,Stefan Lainer,h,7831,FromCorner,2019,RightFoot,12421,Borussia M.Gladbach,RasenBallsport Leipzig,1,3,2019-08-30 19:30:00,Florian Neuhaus,Pass
+321140,64,MissedShots,0.9590000152587891,0.39599998474121095,0.052813101559877396,Stefan Lainer,h,7831,FromCorner,2019,Head,12445,Borussia M.Gladbach,Fortuna Duesseldorf,2,1,2019-09-22 13:30:00,László Bénes,Cross
+324615,30,MissedShots,0.8859999847412109,0.34,0.03629140183329582,Stefan Lainer,h,7831,OpenPlay,2019,RightFoot,12465,Borussia M.Gladbach,Augsburg,5,1,2019-10-06 12:30:00,,Aerial
+325835,25,SavedShot,0.9619999694824218,0.41200000762939454,0.43071800470352173,Stefan Lainer,a,7831,SetPiece,2019,RightFoot,12469,Borussia Dortmund,Borussia M.Gladbach,1,0,2019-10-19 17:30:00,Tony Jantschke,HeadPass
+325851,63,MissedShots,0.9019999694824219,0.48200000762939454,0.12150300294160843,Stefan Lainer,a,7831,SetPiece,2019,RightFoot,12469,Borussia Dortmund,Borussia M.Gladbach,1,0,2019-10-19 17:30:00,Tony Jantschke,Pass
+331192,84,SavedShot,0.785,0.3240000152587891,0.0217313002794981,Stefan Lainer,h,7831,OpenPlay,2019,LeftFoot,12500,Borussia M.Gladbach,Werder Bremen,3,1,2019-11-10 12:30:00,,None
+332010,34,MissedShots,0.8819999694824219,0.4329999923706055,0.0123881995677948,Stefan Lainer,a,7831,SetPiece,2019,Head,12509,Union Berlin,Borussia M.Gladbach,2,0,2019-11-23 14:30:00,Patrick Herrmann,Aerial
+332021,81,BlockedShot,0.7959999847412109,0.38,0.035128798335790634,Stefan Lainer,a,7831,OpenPlay,2019,LeftFoot,12509,Union Berlin,Borussia M.Gladbach,2,0,2019-11-23 14:30:00,Lars Stindl,Pass
+359077,7,MissedShots,0.9130000305175782,0.42400001525878905,0.018288299441337585,Stefan Lainer,a,7831,FromCorner,2019,Head,12595,Fortuna Duesseldorf,Borussia M.Gladbach,1,4,2020-02-15 17:30:00,Jonas Hofmann,Aerial
+359788,46,SavedShot,0.9219999694824219,0.44099998474121094,0.08308330178260803,Stefan Lainer,h,7831,FromCorner,2019,Head,12603,Borussia M.Gladbach,Hoffenheim,1,1,2020-02-22 14:30:00,Jonas Hofmann,Cross
+360799,32,BlockedShot,0.769000015258789,0.3729999923706055,0.024269800633192062,Stefan Lainer,a,7831,OpenPlay,2019,LeftFoot,12616,Augsburg,Borussia M.Gladbach,2,3,2020-02-29 14:30:00,Denis Zakaria,TakeOn
+361823,6,SavedShot,0.93,0.4209999847412109,0.46763700246810913,Stefan Lainer,h,7831,OpenPlay,2019,RightFoot,12621,Borussia M.Gladbach,Borussia Dortmund,1,2,2020-03-07 17:30:00,,None
+364311,47,MissedShots,0.740999984741211,0.3840000152587891,0.01597210019826889,Stefan Lainer,a,7831,OpenPlay,2019,RightFoot,12673,Bayern Munich,Borussia M.Gladbach,2,1,2020-06-13 16:30:00,Florian Neuhaus,Pass
+364320,91,BlockedShot,0.7090000152587891,0.32,0.013323700055480003,Stefan Lainer,a,7831,OpenPlay,2019,LeftFoot,12673,Bayern Munich,Borussia M.Gladbach,2,1,2020-06-13 16:30:00,,TakeOn
+377675,41,SavedShot,0.7669999694824219,0.4370000076293945,0.016183599829673767,Stefan Lainer,a,7831,OpenPlay,2020,LeftFoot,14179,Borussia Dortmund,Borussia M.Gladbach,3,0,2020-09-19 16:30:00,Jonas Hofmann,TakeOn
+380557,15,Goal,0.9340000152587891,0.3340000152587891,0.012922300025820732,Stefan Lainer,a,7831,FromCorner,2020,Head,15159,FC Cologne,Borussia M.Gladbach,1,3,2020-10-03 13:30:00,Jonas Hofmann,Cross
+383164,13,SavedShot,0.9059999847412109,0.48200000762939454,0.10414499789476395,Stefan Lainer,a,7831,SetPiece,2020,Head,15178,Mainz 05,Borussia M.Gladbach,2,3,2020-10-24 13:30:00,Oscar Wendt,Cross
+383174,38,MissedShots,0.9430000305175781,0.4490000152587891,0.11879300326108932,Stefan Lainer,a,7831,FromCorner,2020,Head,15178,Mainz 05,Borussia M.Gladbach,2,3,2020-10-24 13:30:00,Patrick Herrmann,Cross
+383187,69,BlockedShot,0.8530000305175781,0.3089999961853027,0.04203930124640465,Stefan Lainer,a,7831,OpenPlay,2020,LeftFoot,15178,Mainz 05,Borussia M.Gladbach,2,3,2020-10-24 13:30:00,Patrick Herrmann,Pass
+383194,86,SavedShot,0.774000015258789,0.34,0.021414799615740776,Stefan Lainer,a,7831,OpenPlay,2020,RightFoot,15178,Mainz 05,Borussia M.Gladbach,2,3,2020-10-24 13:30:00,,Rebound
+386804,58,MissedShots,0.6819999694824219,0.3609999847412109,0.010755299590528011,Stefan Lainer,a,7831,OpenPlay,2020,RightFoot,15202,Bayer Leverkusen,Borussia M.Gladbach,4,3,2020-11-08 17:00:00,Marcus Thuram,BallTouch
+390110,38,MissedShots,0.735,0.3039999961853027,0.016050800681114197,Stefan Lainer,a,7831,OpenPlay,2020,LeftFoot,15223,Freiburg,Borussia M.Gladbach,2,2,2020-12-05 14:30:00,Denis Zakaria,Pass
+391560,83,MissedShots,0.8169999694824219,0.3820000076293945,0.03415380045771599,Stefan Lainer,h,7831,SetPiece,2020,RightFoot,15232,Borussia M.Gladbach,Hertha Berlin,1,1,2020-12-12 14:30:00,,None
+396351,4,MissedShots,0.9380000305175781,0.3940000152587891,0.04742639884352684,Stefan Lainer,a,7831,FromCorner,2020,Head,15264,Arminia Bielefeld,Borussia M.Gladbach,0,1,2021-01-02 14:30:00,Jonas Hofmann,Cross
+396361,24,MissedShots,0.9030000305175782,0.565,0.0784154012799263,Stefan Lainer,a,7831,SetPiece,2020,Head,15264,Arminia Bielefeld,Borussia M.Gladbach,0,1,2021-01-02 14:30:00,Jonas Hofmann,Cross
+401563,1,SavedShot,0.9409999847412109,0.3270000076293945,0.06983300298452377,Stefan Lainer,a,7831,OpenPlay,2020,RightFoot,15307,Union Berlin,Borussia M.Gladbach,1,1,2021-01-30 14:30:00,Christoph Kramer,Pass
+404900,14,SavedShot,0.8030000305175782,0.5059999847412109,0.019056100398302078,Stefan Lainer,a,7831,FromCorner,2020,RightFoot,15324,Wolfsburg,Borussia M.Gladbach,0,0,2021-02-14 17:00:00,,Aerial
+404903,21,BlockedShot,0.860999984741211,0.3609999847412109,0.05731320008635521,Stefan Lainer,a,7831,OpenPlay,2020,RightFoot,15324,Wolfsburg,Borussia M.Gladbach,0,0,2021-02-14 17:00:00,,None
+405549,32,MissedShots,0.935,0.4520000076293945,0.1149900034070015,Stefan Lainer,h,7831,FromCorner,2020,Head,15329,Borussia M.Gladbach,Mainz 05,1,2,2021-02-20 14:30:00,Jonas Hofmann,Cross
+409603,31,MissedShots,0.9030000305175782,0.6270000076293946,0.018341999500989914,Stefan Lainer,a,7831,FromCorner,2020,Head,15362,Augsburg,Borussia M.Gladbach,3,1,2021-03-12 19:30:00,Valentino Lazaro,Chipped
+411513,62,Goal,0.9690000152587891,0.425,0.3545919954776764,Stefan Lainer,a,7831,FromCorner,2020,Head,15370,Schalke 04,Borussia M.Gladbach,0,3,2021-03-20 17:30:00,Jonas Hofmann,Cross
+412790,51,ShotOnPost,0.99,0.3970000076293945,0.2429710030555725,Stefan Lainer,h,7831,OpenPlay,2020,RightFoot,15376,Borussia M.Gladbach,Freiburg,2,1,2021-04-03 18:30:00,Alassane Pléa,Pass
+415344,47,MissedShots,0.755,0.4779999923706055,0.035471200942993164,Stefan Lainer,h,7831,OpenPlay,2020,RightFoot,15394,Borussia M.Gladbach,Eintracht Frankfurt,4,0,2021-04-17 13:30:00,Valentino Lazaro,BallTouch
+420258,3,MissedShots,0.8059999847412109,0.3729999923706055,0.032139599323272705,Stefan Lainer,a,7831,OpenPlay,2020,RightFoot,15419,Bayern Munich,Borussia M.Gladbach,6,0,2021-05-08 16:30:00,Valentino Lazaro,Pass
+421822,92,MissedShots,0.769000015258789,0.28600000381469726,0.019731799140572548,Stefan Lainer,h,7831,OpenPlay,2020,LeftFoot,15429,Borussia M.Gladbach,VfB Stuttgart,1,2,2021-05-15 13:30:00,Lars Stindl,Pass
+423451,11,MissedShots,0.92,0.6379999923706055,0.013186199590563774,Stefan Lainer,a,7831,FromCorner,2020,Head,15444,Werder Bremen,Borussia M.Gladbach,2,4,2021-05-22 13:30:00,Lars Stindl,Aerial
+423459,38,SavedShot,0.9390000152587891,0.41700000762939454,0.078500896692276,Stefan Lainer,a,7831,FromCorner,2020,Head,15444,Werder Bremen,Borussia M.Gladbach,2,4,2021-05-22 13:30:00,Lars Stindl,Cross
+423465,52,MissedShots,0.9330000305175781,0.6029999923706054,0.04764389991760254,Stefan Lainer,a,7831,FromCorner,2020,Head,15444,Werder Bremen,Borussia M.Gladbach,2,4,2021-05-22 13:30:00,Valentino Lazaro,Cross
+423469,68,SavedShot,0.8690000152587891,0.5479999923706055,0.33921000361442566,Stefan Lainer,a,7831,OpenPlay,2020,LeftFoot,15444,Werder Bremen,Borussia M.Gladbach,2,4,2021-05-22 13:30:00,Florian Neuhaus,Pass
+425547,53,MissedShots,0.925,0.44299999237060544,0.08290909975767136,Stefan Lainer,h,7831,SetPiece,2021,Head,17516,Borussia M.Gladbach,Bayern Munich,1,1,2021-08-13 18:30:00,Patrick Herrmann,Chipped
+447026,20,BlockedShot,0.885,0.41200000762939454,0.07249779999256134,Stefan Lainer,h,7831,FromCorner,2021,LeftFoot,17638,Borussia M.Gladbach,Freiburg,0,6,2021-12-05 16:30:00,,None
+451900,30,Goal,0.93,0.4490000152587891,0.10545100271701813,Stefan Lainer,a,7831,FromCorner,2021,Head,17677,Bayern Munich,Borussia M.Gladbach,1,2,2022-01-07 19:30:00,Luca Netz,Cross
+451902,43,MissedShots,0.9869999694824219,0.28899999618530275,0.0529571995139122,Stefan Lainer,a,7831,OpenPlay,2021,RightFoot,17677,Bayern Munich,Borussia M.Gladbach,1,2,2022-01-07 19:30:00,Breel Embolo,Pass
+455802,79,MissedShots,0.9619999694824218,0.6469999694824219,0.039970699697732925,Stefan Lainer,a,7831,FromCorner,2021,RightFoot,17697,Arminia Bielefeld,Borussia M.Gladbach,1,1,2022-02-05 14:30:00,Jonas Hofmann,Cross
+455805,90,MissedShots,0.7559999847412109,0.33,0.011585099622607231,Stefan Lainer,a,7831,SetPiece,2021,RightFoot,17697,Arminia Bielefeld,Borussia M.Gladbach,1,1,2022-02-05 14:30:00,,None
+456983,26,BlockedShot,0.8119999694824219,0.3629999923706055,0.03554980084300041,Stefan Lainer,h,7831,OpenPlay,2021,LeftFoot,17709,Borussia M.Gladbach,Augsburg,3,2,2022-02-12 14:30:00,Jonas Hofmann,Pass
+459691,18,MissedShots,0.914000015258789,0.28100000381469725,0.04155689850449562,Stefan Lainer,h,7831,OpenPlay,2021,RightFoot,17728,Borussia M.Gladbach,Wolfsburg,2,2,2022-02-26 14:30:00,,Rebound
+472514,10,SavedShot,0.799000015258789,0.32799999237060545,0.021398000419139862,Stefan Lainer,h,7831,OpenPlay,2021,RightFoot,17800,Borussia M.Gladbach,RasenBallsport Leipzig,3,1,2022-05-02 18:30:00,,Rebound
+472518,30,BlockedShot,0.9,0.6179999923706054,0.058132100850343704,Stefan Lainer,h,7831,FromCorner,2021,LeftFoot,17800,Borussia M.Gladbach,RasenBallsport Leipzig,3,1,2022-05-02 18:30:00,Jonas Hofmann,Pass
+505495,18,MissedShots,0.8019999694824219,0.35900001525878905,0.03332500159740448,Stefan Lainer,a,7831,OpenPlay,2022,RightFoot,19491,Augsburg,Borussia M.Gladbach,1,0,2023-01-25 19:30:00,Alassane Pléa,Pass
+505497,32,MissedShots,0.9069999694824219,0.61,0.013799600303173065,Stefan Lainer,a,7831,SetPiece,2022,Head,19491,Augsburg,Borussia M.Gladbach,1,0,2023-01-25 19:30:00,Alassane Pléa,Aerial
+518671,87,SavedShot,0.899000015258789,0.5,0.03960829973220825,Stefan Lainer,h,7831,FromCorner,2022,Head,19581,Borussia M.Gladbach,Wolfsburg,2,0,2023-04-09 13:30:00,Florian Neuhaus,CornerAwarded
+524499,93,SavedShot,0.919000015258789,0.2510000038146973,0.0964750349521637,Stefan Lainer,h,7831,OpenPlay,2022,RightFoot,19617,Borussia M.Gladbach,Bochum,2,0,2023-05-06 13:30:00,Hannes Wolf,Pass
+528255,38,SavedShot,0.95,0.5120000076293946,0.6226198077201843,Stefan Lainer,a,7831,OpenPlay,2022,RightFoot,19631,Bayer Leverkusen,Borussia M.Gladbach,2,2,2023-05-21 17:30:00,,Rebound
+529085,30,SavedShot,0.8980000305175782,0.39099998474121095,0.10616853833198547,Stefan Lainer,h,7831,OpenPlay,2022,LeftFoot,19643,Borussia M.Gladbach,Augsburg,2,0,2023-05-27 13:30:00,,Dispossessed
+564105,86,MissedShots,0.9069999694824219,0.3390000152587891,0.051177553832530975,Stefan Lainer,a,7831,OpenPlay,2023,RightFoot,23254,RasenBallsport Leipzig,Borussia M.Gladbach,2,0,2024-02-17 17:30:00,,None
+565128,36,MissedShots,0.8809999847412109,0.44799999237060545,0.07952681183815002,Stefan Lainer,h,7831,FromCorner,2023,LeftFoot,23266,Borussia M.Gladbach,Bochum,5,2,2024-02-24 14:30:00,Marvin Friedrich,None
+574921,63,ShotOnPost,0.9780000305175781,0.37099998474121093,0.2406078577041626,Stefan Lainer,a,7831,OpenPlay,2023,LeftFoot,23332,Hoffenheim,Borussia M.Gladbach,4,3,2024-04-20 13:30:00,Alassane Pléa,Foul
+598069,54,OwnGoal,0.030999999046325683,0.47400001525878904,0,Stefan Lainer,a,7831,OpenPlay,2024,RightFoot,27810,Mainz 05,Borussia M.Gladbach,1,1,2024-10-25 18:30:00,,BlockedPass
+604222,67,MissedShots,0.955,0.34599998474121096,0.018837859854102135,Stefan Lainer,a,7831,OpenPlay,2024,Head,27845,Freiburg,Borussia M.Gladbach,3,1,2024-11-30 14:30:00,Julian Weigl,Chipped
+620926,72,Goal,0.919000015258789,0.5179999923706055,0.44482603669166565,Stefan Lainer,h,7831,OpenPlay,2024,RightFoot,27965,Borussia M.Gladbach,Mainz 05,1,3,2025-03-07 19:30:00,,None
+632991,48,MissedShots,0.7869999694824219,0.41,0.023669691756367683,Stefan Lainer,a,7831,FromCorner,2024,RightFoot,28032,Bayern Munich,Borussia M.Gladbach,2,0,2025-05-10 16:30:00,,None
+633008,78,BlockedShot,0.8530000305175781,0.5070000076293946,0.06618168205022812,Stefan Lainer,a,7831,OpenPlay,2024,LeftFoot,28032,Bayern Munich,Borussia M.Gladbach,2,0,2025-05-10 16:30:00,Tim Kleindienst,BallTouch

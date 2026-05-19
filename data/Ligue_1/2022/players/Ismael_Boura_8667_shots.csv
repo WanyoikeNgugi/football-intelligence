@@ -1,0 +1,6 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+386518,50,MissedShots,0.8480000305175781,0.884000015258789,0.016563700512051582,Ismael Boura,h,8667,OpenPlay,2020,RightFoot,15853,Lens,Reims,4,4,2020-11-08 14:00:00,Gaël Kakuta,TakeOn
+391851,90,BlockedShot,0.89,0.5620000076293945,0.08572380244731903,Ismael Boura,h,8667,OpenPlay,2020,LeftFoot,15887,Lens,Montpellier,2,3,2020-12-12 20:00:00,Florian Sotoca,Chipped
+425273,64,MissedShots,0.7190000152587891,0.544000015258789,0.0141099002212286,Ismael Boura,a,8667,FromCorner,2021,LeftFoot,17825,Rennes,Lens,1,1,2021-08-08 11:00:00,,None
+486471,79,SavedShot,0.9230000305175782,0.7609999847412109,0.044339898973703384,Ismael Boura,a,8667,OpenPlay,2022,LeftFoot,19706,Reims,Lens,1,1,2022-09-04 13:00:00,,TakeOn
+492559,92,MissedShots,0.67,0.43599998474121093,0.014342200011014938,Ismael Boura,a,8667,SetPiece,2022,LeftFoot,19740,Lille,Lens,1,0,2022-10-09 18:45:00,Przemyslaw Frankowski,Pass

@@ -1,0 +1,12 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+102926,11,SavedShot,0.8880000305175781,0.53,0.044906798750162125,Modou Diagne,h,5629,FromCorner,2016,Head,2256,Nancy,Lyon,0,3,2016-08-14 17:00:00,Serge N&#039;Guessan,Cross
+104775,40,BlockedShot,0.7219999694824218,0.5359999847412109,0.014040200039744377,Modou Diagne,h,5629,OpenPlay,2016,RightFoot,2331,Nancy,Paris Saint Germain,1,2,2016-10-15 19:00:00,,Interception
+108203,69,SavedShot,0.9269999694824219,0.445,0.043858300894498825,Modou Diagne,a,5629,FromCorner,2016,Head,3252,Toulouse,Nancy,1,1,2016-12-17 23:00:00,Loic Puyo,Aerial
+106075,83,MissedShots,0.9030000305175782,0.48200000762939454,0.10322900116443634,Modou Diagne,h,5629,SetPiece,2016,Head,4129,Nancy,Bordeaux,0,2,2017-01-28 22:00:00,Vincent Marchetti,Cross
+108422,83,MissedShots,0.9309999847412109,0.4779999923706055,0.060102399438619614,Modou Diagne,a,5629,FromCorner,2016,Head,4149,Lyon,Nancy,4,0,2017-02-08 21:00:00,Antony Robic,Aerial
+109250,24,MissedShots,0.9230000305175782,0.615999984741211,0.029545199126005173,Modou Diagne,h,5629,FromCorner,2016,Head,4208,Nancy,Lorient,2,3,2017-03-18 19:00:00,Faitout Maouassa,Cross
+109264,90,BlockedShot,0.8280000305175781,0.46799999237060547,0.0224395003169775,Modou Diagne,h,5629,FromCorner,2016,RightFoot,4208,Nancy,Lorient,2,3,2017-03-18 19:00:00,,Aerial
+112052,55,ShotOnPost,0.925,0.4909999847412109,0.5446230173110962,Modou Diagne,a,5629,SetPiece,2016,RightFoot,4280,Dijon,Nancy,2,0,2017-05-14 20:00:00,,None
+112053,59,MissedShots,0.730999984741211,0.54,0.05385240167379379,Modou Diagne,a,5629,DirectFreekick,2016,RightFoot,4280,Dijon,Nancy,2,0,2017-05-14 20:00:00,,Standard
+112061,93,MissedShots,0.9230000305175782,0.4929999923706055,0.11055000126361847,Modou Diagne,a,5629,FromCorner,2016,Head,4280,Dijon,Nancy,2,0,2017-05-14 20:00:00,Loic Puyo,Cross
+110061,58,Goal,0.9519999694824218,0.45799999237060546,0.4487929940223694,Modou Diagne,h,5629,FromCorner,2016,Head,4285,Nancy,Saint-Etienne,3,1,2017-05-20 20:00:00,Faitout Maouassa,Cross

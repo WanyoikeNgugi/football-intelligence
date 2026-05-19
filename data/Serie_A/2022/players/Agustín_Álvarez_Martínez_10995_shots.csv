@@ -1,0 +1,15 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+486342,92,BlockedShot,0.8780000305175781,0.5659999847412109,0.020696399733424187,Agustín Álvarez Martínez,a,10995,SetPiece,2022,Head,18625,Cremonese,Sassuolo,0,0,2022-09-04 10:30:00,,None
+488979,87,MissedShots,0.805,0.48400001525878905,0.05558139830827713,Agustín Álvarez Martínez,a,10995,OpenPlay,2022,RightFoot,18650,Torino,Sassuolo,0,1,2022-09-17 18:45:00,Kristian Thorstvedt,Pass
+488981,92,Goal,0.8869999694824219,0.555,0.05021059885621071,Agustín Álvarez Martínez,a,10995,OpenPlay,2022,Head,18650,Torino,Sassuolo,0,1,2022-09-17 18:45:00,Rogerio,Cross
+490752,64,MissedShots,0.795,0.4279999923706055,0.058159999549388885,Agustín Álvarez Martínez,h,10995,OpenPlay,2022,RightFoot,18661,Sassuolo,Salernitana,5,0,2022-10-02 13:00:00,Armand Lauriente,Pass
+490759,91,SavedShot,0.8859999847412109,0.38299999237060545,0.21795199811458588,Agustín Álvarez Martínez,h,10995,OpenPlay,2022,RightFoot,18661,Sassuolo,Salernitana,5,0,2022-10-02 13:00:00,Maxime Lopez,Pass
+493311,91,SavedShot,0.8159999847412109,0.4490000152587891,0.058132000267505646,Agustín Álvarez Martínez,a,10995,OpenPlay,2022,RightFoot,18672,Atalanta,Sassuolo,2,1,2022-10-15 18:45:00,Hamed Junior Traore,Pass
+496321,73,MissedShots,0.925,0.525,0.13649100065231323,Agustín Álvarez Martínez,a,10995,OpenPlay,2022,Head,18699,Napoli,Sassuolo,4,0,2022-10-29 13:00:00,Armand Lauriente,Cross
+497912,81,BlockedShot,0.87,0.5459999847412109,0.07342380285263062,Agustín Álvarez Martínez,a,10995,OpenPlay,2022,RightFoot,18704,Empoli,Sassuolo,1,0,2022-11-05 14:00:00,Andrea Pinamonti,Rebound
+497913,81,BlockedShot,0.855,0.5270000076293946,0.06591469794511795,Agustín Álvarez Martínez,a,10995,OpenPlay,2022,RightFoot,18704,Empoli,Sassuolo,1,0,2022-11-05 14:00:00,,Rebound
+497917,94,MissedShots,0.9209999847412109,0.46099998474121096,0.26913800835609436,Agustín Álvarez Martínez,a,10995,FromCorner,2022,Head,18704,Empoli,Sassuolo,1,0,2022-11-05 14:00:00,Andrea Pinamonti,Cross
+500344,74,BlockedShot,0.905,0.5540000152587891,0.09785159677267075,Agustín Álvarez Martínez,a,10995,FromCorner,2022,LeftFoot,18723,Bologna,Sassuolo,3,0,2022-11-12 19:45:00,,None
+518259,91,BlockedShot,0.8190000152587891,0.595999984741211,0.05139939859509468,Agustín Álvarez Martínez,a,10995,OpenPlay,2022,RightFoot,18864,Verona,Sassuolo,2,1,2023-04-08 16:30:00,Rogerio,Pass
+518261,92,SavedShot,0.799000015258789,0.4779999923706055,0.04758340120315552,Agustín Álvarez Martínez,a,10995,OpenPlay,2022,RightFoot,18864,Verona,Sassuolo,2,1,2023-04-08 16:30:00,,BallRecovery
+518262,93,MissedShots,0.9219999694824219,0.5429999923706055,0.05873490124940872,Agustín Álvarez Martínez,a,10995,FromCorner,2022,Head,18864,Verona,Sassuolo,2,1,2023-04-08 16:30:00,Martin Erlic,Chipped

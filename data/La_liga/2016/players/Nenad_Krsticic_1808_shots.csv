@@ -1,0 +1,14 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+41535,80,BlockedShot,0.735,0.4470000076293945,0.01653140038251877,Nenad Krsticic,a,1808,OpenPlay,2014,LeftFoot,5153,Palermo,Sampdoria,1,1,2014-08-31 19:45:00,,None
+42426,19,BlockedShot,0.955,0.39,0.08710969984531403,Nenad Krsticic,h,1808,OpenPlay,2014,RightFoot,5137,Sampdoria,Chievo,2,1,2014-09-24 19:45:00,,None
+42429,34,MissedShots,0.925,0.5579999923706055,0.12104599922895432,Nenad Krsticic,h,1808,OpenPlay,2014,Head,5137,Sampdoria,Chievo,2,1,2014-09-24 19:45:00,Fabrizio Cacciatore,Cross
+42440,71,MissedShots,0.8490000152587891,0.4279999923706055,0.08680509775876999,Nenad Krsticic,h,1808,OpenPlay,2014,RightFoot,5137,Sampdoria,Chievo,2,1,2014-09-24 19:45:00,Roberto Soriano,Pass
+46110,89,MissedShots,0.784000015258789,0.36700000762939455,0.026494299992918968,Nenad Krsticic,a,1808,OpenPlay,2014,LeftFoot,4984,Parma,Sampdoria,0,2,2015-01-18 14:00:00,Stefano Okaka,Pass
+99130,17,MissedShots,0.805,0.3729999923706055,0.024339500814676285,Nenad Krsticic,a,1808,FromCorner,2015,LeftFoot,856,Fiorentina,Sampdoria,1,1,2016-04-03 17:00:00,,None
+100710,82,MissedShots,0.7819999694824219,0.355,0.0208870992064476,Nenad Krsticic,a,1808,OpenPlay,2015,RightFoot,882,Sassuolo,Sampdoria,0,0,2016-04-20 20:30:00,Fabio Quagliarella,Pass
+101098,5,SavedShot,0.8109999847412109,0.625,0.047683000564575195,Nenad Krsticic,h,1808,OpenPlay,2015,LeftFoot,894,Sampdoria,Lazio,2,1,2016-04-24 17:00:00,,TakeOn
+101755,84,OwnGoal,0.03,0.4759999847412109,0,Nenad Krsticic,a,1808,OpenPlay,2015,RightFoot,904,Palermo,Sampdoria,2,0,2016-05-01 17:00:00,,None
+102856,35,BlockedShot,0.8019999694824219,0.504000015258789,0.0377190001308918,Nenad Krsticic,a,1808,SetPiece,2015,LeftFoot,921,Juventus,Sampdoria,5,0,2016-05-14 19:00:00,,None
+141213,73,MissedShots,0.815,0.639000015258789,0.02881759963929653,Nenad Krsticic,a,1808,FromCorner,2016,LeftFoot,3971,Granada,Alaves,2,1,2017-03-01 20:30:00,,None
+143880,47,Goal,0.775,0.43099998474121093,0.030643999576568604,Nenad Krsticic,a,1808,OpenPlay,2016,LeftFoot,4074,Real Betis,Alaves,1,4,2017-04-30 15:15:00,,TakeOn
+143799,63,Goal,0.9369999694824219,0.5359999847412109,0.423880010843277,Nenad Krsticic,a,1808,FromCorner,2016,Head,4100,Leganes,Alaves,1,1,2017-05-20 18:00:00,Zouhair Feddal,Cross

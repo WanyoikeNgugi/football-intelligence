@@ -1,0 +1,102 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+80154,49,MissedShots,0.915,0.605,0.08027269691228867,Marco Fabián,h,2661,FromCorner,2015,RightFoot,1181,Eintracht Frankfurt,Wolfsburg,3,2,2016-01-24 18:30:00,,None
+80164,77,MissedShots,0.7440000152587891,0.44799999237060545,0.014689099974930286,Marco Fabián,h,2661,OpenPlay,2015,RightFoot,1181,Eintracht Frankfurt,Wolfsburg,3,2,2016-01-24 18:30:00,,Aerial
+80437,59,BlockedShot,0.8209999847412109,0.555,0.060795001685619354,Marco Fabián,a,2661,OpenPlay,2015,RightFoot,1187,Augsburg,Eintracht Frankfurt,0,0,2016-01-30 18:30:00,,Dispossessed
+80625,29,BlockedShot,0.7169999694824218,0.435,0.012796900235116482,Marco Fabián,h,2661,OpenPlay,2015,RightFoot,1194,Eintracht Frankfurt,VfB Stuttgart,2,4,2016-02-06 18:30:00,Alexander Meier,HeadPass
+80639,52,BlockedShot,0.8519999694824218,0.59,0.05141559988260269,Marco Fabián,h,2661,OpenPlay,2015,RightFoot,1194,Eintracht Frankfurt,VfB Stuttgart,2,4,2016-02-06 18:30:00,Alexander Meier,Goal
+80650,92,MissedShots,0.6869999694824219,0.4490000152587891,0.008831500075757504,Marco Fabián,h,2661,OpenPlay,2015,RightFoot,1194,Eintracht Frankfurt,VfB Stuttgart,2,4,2016-02-06 18:30:00,Marc Stendera,Pass
+80897,9,BlockedShot,0.7430000305175781,0.5940000152587891,0.06848320364952087,Marco Fabián,a,2661,OpenPlay,2015,RightFoot,1207,FC Cologne,Eintracht Frankfurt,3,1,2016-02-13 21:30:00,Alexander Meier,Chipped
+80907,37,BlockedShot,0.794000015258789,0.36,0.020740199834108353,Marco Fabián,a,2661,OpenPlay,2015,RightFoot,1207,FC Cologne,Eintracht Frankfurt,3,1,2016-02-13 21:30:00,Szabolcs Huszti,Cross
+80913,67,BlockedShot,0.81,0.6930000305175781,0.02634040080010891,Marco Fabián,a,2661,OpenPlay,2015,RightFoot,1207,FC Cologne,Eintracht Frankfurt,3,1,2016-02-13 21:30:00,Marc Stendera,Pass
+81587,5,MissedShots,0.730999984741211,0.5429999923706055,0.013324899598956108,Marco Fabián,a,2661,SetPiece,2015,RightFoot,1231,Hertha Berlin,Eintracht Frankfurt,2,0,2016-03-02 23:00:00,,Rebound
+81592,33,SavedShot,0.7330000305175781,0.4540000152587891,0.017964700236916542,Marco Fabián,a,2661,SetPiece,2015,RightFoot,1231,Hertha Berlin,Eintracht Frankfurt,2,0,2016-03-02 23:00:00,Szabolcs Huszti,Pass
+81598,48,SavedShot,0.855999984741211,0.675,0.047997601330280304,Marco Fabián,a,2661,OpenPlay,2015,RightFoot,1231,Hertha Berlin,Eintracht Frankfurt,2,0,2016-03-02 23:00:00,Szabolcs Huszti,Pass
+81607,91,SavedShot,0.7609999847412109,0.7290000152587891,0.01190979965031147,Marco Fabián,a,2661,OpenPlay,2015,RightFoot,1231,Hertha Berlin,Eintracht Frankfurt,2,0,2016-03-02 23:00:00,Gian-Luca Waldschmidt,Pass
+81841,1,MissedShots,0.8119999694824219,0.705999984741211,0.0266610998660326,Marco Fabián,h,2661,OpenPlay,2015,LeftFoot,1240,Eintracht Frankfurt,Ingolstadt,1,1,2016-03-05 18:30:00,Marc Stendera,Chipped
+81851,33,MissedShots,0.7530000305175781,0.7440000152587891,0.017180200666189194,Marco Fabián,h,2661,OpenPlay,2015,RightFoot,1240,Eintracht Frankfurt,Ingolstadt,1,1,2016-03-05 18:30:00,Bastian Oczipka,Pass
+81857,50,SavedShot,0.885,0.46,0.12919799983501434,Marco Fabián,h,2661,OpenPlay,2015,RightFoot,1240,Eintracht Frankfurt,Ingolstadt,1,1,2016-03-05 18:30:00,Haris Seferovic,TakeOn
+81866,71,BlockedShot,0.8019999694824219,0.24399999618530274,0.019641200080513954,Marco Fabián,h,2661,OpenPlay,2015,RightFoot,1240,Eintracht Frankfurt,Ingolstadt,1,1,2016-03-05 18:30:00,Yanni Regäsel,Pass
+81869,79,MissedShots,0.7759999847412109,0.7440000152587891,0.015562199987471104,Marco Fabián,h,2661,OpenPlay,2015,RightFoot,1240,Eintracht Frankfurt,Ingolstadt,1,1,2016-03-05 18:30:00,Gian-Luca Waldschmidt,Pass
+83491,39,MissedShots,0.9319999694824219,0.7480000305175781,0.034664999693632126,Marco Fabián,a,2661,OpenPlay,2015,LeftFoot,1304,Darmstadt,Eintracht Frankfurt,1,2,2016-04-30 17:30:00,,None
+128375,0,SavedShot,0.8530000305175781,0.2670000076293945,0.031684499233961105,Marco Fabián,h,2661,OpenPlay,2016,RightFoot,1348,Eintracht Frankfurt,Bayer Leverkusen,2,1,2016-09-17 17:30:00,Mijat Gacinovic,Pass
+128377,33,MissedShots,0.7369999694824219,0.7,0.011471699923276901,Marco Fabián,h,2661,OpenPlay,2016,RightFoot,1348,Eintracht Frankfurt,Bayer Leverkusen,2,1,2016-09-17 17:30:00,Haris Seferovic,TakeOn
+128384,59,BlockedShot,0.909000015258789,0.415,0.1135220006108284,Marco Fabián,h,2661,OpenPlay,2016,RightFoot,1348,Eintracht Frankfurt,Bayer Leverkusen,2,1,2016-09-17 17:30:00,Makoto Hasebe,Chipped
+128391,76,BlockedShot,0.8469999694824218,0.3890000152587891,0.05799910053610802,Marco Fabián,h,2661,OpenPlay,2016,LeftFoot,1348,Eintracht Frankfurt,Bayer Leverkusen,2,1,2016-09-17 17:30:00,,None
+128392,78,Goal,0.92,0.500999984741211,0.5432789921760559,Marco Fabián,h,2661,OpenPlay,2016,RightFoot,1348,Eintracht Frankfurt,Bayer Leverkusen,2,1,2016-09-17 17:30:00,Ante Rebic,Pass
+128397,94,MissedShots,0.885,0.32799999237060545,0.1537030041217804,Marco Fabián,h,2661,OpenPlay,2016,RightFoot,1348,Eintracht Frankfurt,Bayer Leverkusen,2,1,2016-09-17 17:30:00,,TakeOn
+128396,94,SavedShot,0.7709999847412109,0.3659999847412109,0.03210299834609032,Marco Fabián,h,2661,OpenPlay,2016,RightFoot,1348,Eintracht Frankfurt,Bayer Leverkusen,2,1,2016-09-17 17:30:00,,None
+128494,29,SavedShot,0.735999984741211,0.5129999923706055,0.022061899304389954,Marco Fabián,a,2661,OpenPlay,2016,RightFoot,1355,Ingolstadt,Eintracht Frankfurt,0,2,2016-09-20 22:00:00,Bastian Oczipka,Pass
+128500,48,SavedShot,0.7530000305175781,0.7559999847412109,0.03883109986782074,Marco Fabián,a,2661,DirectFreekick,2016,RightFoot,1355,Ingolstadt,Eintracht Frankfurt,0,2,2016-09-20 22:00:00,,Standard
+128804,38,Goal,0.9059999847412109,0.6029999923706054,0.49528300762176514,Marco Fabián,h,2661,OpenPlay,2016,LeftFoot,1368,Eintracht Frankfurt,Hertha Berlin,3,3,2016-09-24 17:30:00,Danny Blum,Pass
+128807,51,BlockedShot,0.755,0.5479999923706055,0.011362000368535519,Marco Fabián,h,2661,OpenPlay,2016,RightFoot,1368,Eintracht Frankfurt,Hertha Berlin,3,3,2016-09-24 17:30:00,Szabolcs Huszti,Chipped
+128810,62,MissedShots,0.8980000305175782,0.33599998474121096,0.05581879988312721,Marco Fabián,h,2661,OpenPlay,2016,RightFoot,1368,Eintracht Frankfurt,Hertha Berlin,3,3,2016-09-24 17:30:00,Danny Blum,Chipped
+129014,5,SavedShot,0.855,0.664000015258789,0.04165539890527725,Marco Fabián,a,2661,OpenPlay,2016,LeftFoot,1377,Freiburg,Eintracht Frankfurt,1,0,2016-10-01 17:30:00,Szabolcs Huszti,Pass
+129016,9,BlockedShot,0.8909999847412109,0.6419999694824219,0.10254800319671631,Marco Fabián,a,2661,OpenPlay,2016,RightFoot,1377,Freiburg,Eintracht Frankfurt,1,0,2016-10-01 17:30:00,Alexander Meier,Throughball
+129024,35,SavedShot,0.95,0.66,0.07401520013809204,Marco Fabián,a,2661,OpenPlay,2016,RightFoot,1377,Freiburg,Eintracht Frankfurt,1,0,2016-10-01 17:30:00,Alexander Meier,Pass
+129035,90,BlockedShot,0.730999984741211,0.779000015258789,0.012392999604344368,Marco Fabián,a,2661,OpenPlay,2016,RightFoot,1377,Freiburg,Eintracht Frankfurt,1,0,2016-10-01 17:30:00,Taleb Tawatha,Pass
+129261,14,BlockedShot,0.9169999694824219,0.47400001525878904,0.037808798253536224,Marco Fabián,h,2661,OpenPlay,2016,Head,1386,Eintracht Frankfurt,Bayern Munich,2,2,2016-10-15 17:30:00,,Rebound
+129266,36,MissedShots,0.715,0.3729999923706055,0.01529220025986433,Marco Fabián,h,2661,OpenPlay,2016,RightFoot,1386,Eintracht Frankfurt,Bayern Munich,2,2,2016-10-15 17:30:00,Ante Rebic,Pass
+129277,74,MissedShots,0.7530000305175781,0.6659999847412109,0.05329019948840141,Marco Fabián,h,2661,DirectFreekick,2016,RightFoot,1386,Eintracht Frankfurt,Bayern Munich,2,2,2016-10-15 17:30:00,,Standard
+129279,77,Goal,0.98,0.5479999923706055,0.8791589736938477,Marco Fabián,h,2661,OpenPlay,2016,OtherBodyPart,1386,Eintracht Frankfurt,Bayern Munich,2,2,2016-10-15 17:30:00,Timothy Chandler,Rebound
+129370,10,BlockedShot,0.7769999694824219,0.6079999923706054,0.08180920034646988,Marco Fabián,a,2661,DirectFreekick,2016,RightFoot,1390,Hamburger SV,Eintracht Frankfurt,0,3,2016-10-21 22:30:00,,Standard
+129371,31,MissedShots,0.7380000305175781,0.3060000038146973,0.017097700387239456,Marco Fabián,a,2661,OpenPlay,2016,RightFoot,1390,Hamburger SV,Eintracht Frankfurt,0,3,2016-10-21 22:30:00,Shani Tarashaj,Pass
+129381,63,MissedShots,0.8540000152587891,0.40299999237060546,0.10795299708843231,Marco Fabián,a,2661,OpenPlay,2016,RightFoot,1390,Hamburger SV,Eintracht Frankfurt,0,3,2016-10-21 22:30:00,Branimir Hrgota,Pass
+129794,9,MissedShots,0.8859999847412109,0.53,0.12532399594783783,Marco Fabián,a,2661,OpenPlay,2016,LeftFoot,3299,Borussia M.Gladbach,Eintracht Frankfurt,0,0,2016-10-28 22:30:00,Branimir Hrgota,Pass
+129796,36,MissedShots,0.9009999847412109,0.59,0.0518651008605957,Marco Fabián,a,2661,FromCorner,2016,LeftFoot,3299,Borussia M.Gladbach,Eintracht Frankfurt,0,0,2016-10-28 22:30:00,Szabolcs Huszti,Cross
+129803,72,BlockedShot,0.8580000305175781,0.48900001525878906,0.10253100097179413,Marco Fabián,a,2661,OpenPlay,2016,LeftFoot,3299,Borussia M.Gladbach,Eintracht Frankfurt,0,0,2016-10-28 22:30:00,Branimir Hrgota,Pass
+129679,22,BlockedShot,0.700999984741211,0.48,0.02011209912598133,Marco Fabián,h,2661,OpenPlay,2016,RightFoot,2812,Eintracht Frankfurt,FC Cologne,1,0,2016-11-05 21:30:00,Bastian Oczipka,Pass
+129680,23,BlockedShot,0.9330000305175781,0.6659999847412109,0.039269398897886276,Marco Fabián,h,2661,FromCorner,2016,LeftFoot,2812,Eintracht Frankfurt,FC Cologne,1,0,2016-11-05 21:30:00,Szabolcs Huszti,Cross
+129682,33,BlockedShot,0.785,0.33,0.034503500908613205,Marco Fabián,h,2661,OpenPlay,2016,RightFoot,2812,Eintracht Frankfurt,FC Cologne,1,0,2016-11-05 21:30:00,,Interception
+130066,16,SavedShot,0.6940000152587891,0.3370000076293945,0.015035600401461124,Marco Fabián,a,2661,OpenPlay,2016,RightFoot,2823,Werder Bremen,Eintracht Frankfurt,1,2,2016-11-20 20:30:00,David Abraham,Pass
+130068,28,BlockedShot,0.895,0.5790000152587891,0.11614300310611725,Marco Fabián,a,2661,OpenPlay,2016,LeftFoot,2823,Werder Bremen,Eintracht Frankfurt,1,2,2016-11-20 20:30:00,Mijat Gacinovic,Pass
+130086,73,MissedShots,0.7969999694824219,0.75,0.05516539886593819,Marco Fabián,a,2661,DirectFreekick,2016,RightFoot,2823,Werder Bremen,Eintracht Frankfurt,1,2,2016-11-20 20:30:00,,Standard
+130090,80,MissedShots,0.81,0.715,0.01733260042965412,Marco Fabián,a,2661,OpenPlay,2016,RightFoot,2823,Werder Bremen,Eintracht Frankfurt,1,2,2016-11-20 20:30:00,David Abraham,TakeOn
+131307,39,MissedShots,0.8019999694824219,0.3370000076293945,0.0293457992374897,Marco Fabián,h,2661,OpenPlay,2016,LeftFoot,3201,Eintracht Frankfurt,Hoffenheim,0,0,2016-12-09 23:30:00,Omar Mascarell,Pass
+131314,78,MissedShots,0.9009999847412109,0.39799999237060546,0.048917800188064575,Marco Fabián,h,2661,OpenPlay,2016,LeftFoot,3201,Eintracht Frankfurt,Hoffenheim,0,0,2016-12-09 23:30:00,,Aerial
+131533,17,MissedShots,0.7809999847412109,0.4,0.028599699959158897,Marco Fabián,a,2661,OpenPlay,2016,RightFoot,3216,Wolfsburg,Eintracht Frankfurt,1,0,2016-12-17 21:30:00,Branimir Hrgota,Pass
+131539,38,BlockedShot,0.685,0.47299999237060547,0.014949699863791466,Marco Fabián,a,2661,SetPiece,2016,RightFoot,3216,Wolfsburg,Eintracht Frankfurt,1,0,2016-12-17 21:30:00,Szabolcs Huszti,Pass
+131550,88,MissedShots,0.894000015258789,0.5779999923706055,0.4058629870414734,Marco Fabián,a,2661,OpenPlay,2016,RightFoot,3216,Wolfsburg,Eintracht Frankfurt,1,0,2016-12-17 21:30:00,Bastian Oczipka,Pass
+130426,42,MissedShots,0.7040000152587891,0.25799999237060545,0.013621400110423565,Marco Fabián,h,2661,OpenPlay,2016,RightFoot,3219,Eintracht Frankfurt,Mainz 05,3,0,2016-12-20 23:00:00,Timothy Chandler,Pass
+133502,90,MissedShots,0.720999984741211,0.7659999847412109,0.009608989581465721,Marco Fabián,a,2661,OpenPlay,2016,RightFoot,3786,Bayern Munich,Eintracht Frankfurt,3,0,2017-03-11 14:30:00,Aymen Barkok,Pass
+133361,0,SavedShot,0.895,0.28600000381469726,0.07466819882392883,Marco Fabián,h,2661,OpenPlay,2016,RightFoot,3809,Eintracht Frankfurt,Borussia M.Gladbach,0,0,2017-04-01 17:30:00,Branimir Hrgota,LayOff
+133366,25,BlockedShot,0.875999984741211,0.4540000152587891,0.38624200224876404,Marco Fabián,h,2661,OpenPlay,2016,LeftFoot,3809,Eintracht Frankfurt,Borussia M.Gladbach,0,0,2017-04-01 17:30:00,Timothy Chandler,Pass
+133368,34,BlockedShot,0.8930000305175781,0.590999984741211,0.11208999902009964,Marco Fabián,h,2661,OpenPlay,2016,RightFoot,3809,Eintracht Frankfurt,Borussia M.Gladbach,0,0,2017-04-01 17:30:00,Ante Rebic,Pass
+133369,39,MissedShots,0.7659999847412109,0.47400001525878904,0.01228410005569458,Marco Fabián,h,2661,SetPiece,2016,RightFoot,3809,Eintracht Frankfurt,Borussia M.Gladbach,0,0,2017-04-01 17:30:00,,Aerial
+133377,77,SavedShot,0.885,0.5,0.7577769756317139,Marco Fabián,h,2661,Penalty,2016,RightFoot,3809,Eintracht Frankfurt,Borussia M.Gladbach,0,0,2017-04-01 17:30:00,,Standard
+134827,44,SavedShot,0.8569999694824219,0.5279999923706055,0.05085640028119087,Marco Fabián,h,2661,OpenPlay,2016,LeftFoot,3821,Eintracht Frankfurt,Werder Bremen,2,2,2017-04-07 19:30:00,Ante Rebic,Chipped
+134833,72,Goal,0.885,0.5,0.7577769756317139,Marco Fabián,h,2661,Penalty,2016,RightFoot,3821,Eintracht Frankfurt,Werder Bremen,2,2,2017-04-07 19:30:00,,Standard
+134836,82,SavedShot,0.764000015258789,0.26600000381469724,0.015446499921381474,Marco Fabián,h,2661,OpenPlay,2016,RightFoot,3821,Eintracht Frankfurt,Werder Bremen,2,2,2017-04-07 19:30:00,Danny Blum,Pass
+134958,8,MissedShots,0.9069999694824219,0.5609999847412109,0.5905240178108215,Marco Fabián,a,2661,OpenPlay,2016,RightFoot,3830,Borussia Dortmund,Eintracht Frankfurt,3,1,2017-04-15 14:30:00,Branimir Hrgota,Pass
+134964,28,Goal,0.774000015258789,0.6619999694824219,0.02144400030374527,Marco Fabián,a,2661,OpenPlay,2016,RightFoot,3830,Borussia Dortmund,Eintracht Frankfurt,3,1,2017-04-15 14:30:00,Bastian Oczipka,Pass
+134972,68,MissedShots,0.7709999847412109,0.45799999237060546,0.031009599566459656,Marco Fabián,a,2661,OpenPlay,2016,RightFoot,3830,Borussia Dortmund,Eintracht Frankfurt,3,1,2017-04-15 14:30:00,Omar Mascarell,Pass
+134001,7,BlockedShot,0.899000015258789,0.5870000076293945,0.11047700047492981,Marco Fabián,h,2661,OpenPlay,2016,LeftFoot,3845,Eintracht Frankfurt,Augsburg,3,1,2017-04-22 14:30:00,Ante Rebic,Pass
+134003,10,SavedShot,0.895,0.639000015258789,0.07339459657669067,Marco Fabián,h,2661,OpenPlay,2016,LeftFoot,3845,Eintracht Frankfurt,Augsburg,3,1,2017-04-22 14:30:00,Mijat Gacinovic,Pass
+134008,36,SavedShot,0.749000015258789,0.5109999847412109,0.0208452008664608,Marco Fabián,h,2661,OpenPlay,2016,RightFoot,3845,Eintracht Frankfurt,Augsburg,3,1,2017-04-22 14:30:00,Timothy Chandler,TakeOn
+134021,70,BlockedShot,0.879000015258789,0.5629999923706055,0.09680339694023132,Marco Fabián,h,2661,OpenPlay,2016,LeftFoot,3845,Eintracht Frankfurt,Augsburg,3,1,2017-04-22 14:30:00,Bastian Oczipka,Pass
+134024,77,Goal,0.96,0.5259999847412109,0.4528129994869232,Marco Fabián,h,2661,OpenPlay,2016,Head,3845,Eintracht Frankfurt,Augsburg,3,1,2017-04-22 14:30:00,Timothy Chandler,HeadPass
+134027,86,BlockedShot,0.8490000152587891,0.46799999237060547,0.0959462970495224,Marco Fabián,h,2661,OpenPlay,2016,LeftFoot,3845,Eintracht Frankfurt,Augsburg,3,1,2017-04-22 14:30:00,Haris Seferovic,Pass
+134028,86,Goal,0.88,0.485,0.1051810011267662,Marco Fabián,h,2661,OpenPlay,2016,LeftFoot,3845,Eintracht Frankfurt,Augsburg,3,1,2017-04-22 14:30:00,,Rebound
+134691,1,SavedShot,0.825999984741211,0.53,0.057948999106884,Marco Fabián,a,2661,OpenPlay,2016,RightFoot,3852,Hoffenheim,Eintracht Frankfurt,1,0,2017-04-30 16:30:00,,None
+134699,53,MissedShots,0.904000015258789,0.34799999237060547,0.025284800678491592,Marco Fabián,a,2661,FromCorner,2016,RightFoot,3852,Hoffenheim,Eintracht Frankfurt,1,0,2017-04-30 16:30:00,,Aerial
+132775,60,MissedShots,0.7180000305175781,0.3529999923706055,0.01565459929406643,Marco Fabián,h,2661,OpenPlay,2016,RightFoot,3857,Eintracht Frankfurt,Wolfsburg,0,2,2017-05-06 14:30:00,Timothy Chandler,Pass
+132778,69,MissedShots,0.8919999694824219,0.4,0.3076069951057434,Marco Fabián,h,2661,OpenPlay,2016,RightFoot,3857,Eintracht Frankfurt,Wolfsburg,0,2,2017-05-06 14:30:00,Danny Blum,Pass
+133069,61,MissedShots,0.4909999847412109,0.48700000762939455,0.00651836022734642,Marco Fabián,a,2661,OpenPlay,2016,RightFoot,3868,Mainz 05,Eintracht Frankfurt,4,2,2017-05-13 14:30:00,,None
+128057,30,MissedShots,0.759000015258789,0.54,0.02254199981689453,Marco Fabián,h,2661,OpenPlay,2016,RightFoot,3882,Eintracht Frankfurt,RasenBallsport Leipzig,2,2,2017-05-20 14:30:00,,None
+194827,73,MissedShots,0.7219999694824218,0.6509999847412109,0.014818199910223484,Marco Fabián,a,2661,OpenPlay,2017,RightFoot,8443,Augsburg,Eintracht Frankfurt,3,0,2018-02-04 14:30:00,Timothy Chandler,Pass
+194829,77,SavedShot,0.7319999694824219,0.4,0.015904100611805916,Marco Fabián,a,2661,OpenPlay,2017,RightFoot,8443,Augsburg,Eintracht Frankfurt,3,0,2018-02-04 14:30:00,Sébastien Haller,Pass
+197260,79,MissedShots,0.7040000152587891,0.39099998474121095,0.009166290052235126,Marco Fabián,a,2661,OpenPlay,2017,RightFoot,8471,VfB Stuttgart,Eintracht Frankfurt,1,0,2018-02-24 14:30:00,,Aerial
+197263,91,MissedShots,0.8040000152587891,0.5479999923706055,0.03907579928636551,Marco Fabián,a,2661,OpenPlay,2017,RightFoot,8471,VfB Stuttgart,Eintracht Frankfurt,1,0,2018-02-24 14:30:00,Timothy Chandler,Pass
+204546,41,SavedShot,0.9119999694824219,0.6079999923706054,0.04473470151424408,Marco Fabián,a,2661,OpenPlay,2017,Head,8504,Werder Bremen,Eintracht Frankfurt,2,1,2018-04-01 14:30:00,Timothy Chandler,Cross
+204549,48,BlockedShot,0.8969999694824219,0.3129999923706055,0.06008720025420189,Marco Fabián,a,2661,OpenPlay,2017,LeftFoot,8504,Werder Bremen,Eintracht Frankfurt,2,1,2018-04-01 14:30:00,Danny da Costa,Pass
+207353,25,MissedShots,0.9030000305175782,0.40799999237060547,0.08069299906492233,Marco Fabián,h,2661,FromCorner,2017,RightFoot,8516,Eintracht Frankfurt,Hoffenheim,1,1,2018-04-08 16:00:00,,None
+207355,34,MissedShots,0.735999984741211,0.24600000381469728,0.01576000079512596,Marco Fabián,h,2661,OpenPlay,2017,RightFoot,8516,Eintracht Frankfurt,Hoffenheim,1,1,2018-04-08 16:00:00,Danny da Costa,Pass
+207363,54,MissedShots,0.8019999694824219,0.794000015258789,0.022275200113654137,Marco Fabián,h,2661,OpenPlay,2017,RightFoot,8516,Eintracht Frankfurt,Hoffenheim,1,1,2018-04-08 16:00:00,Marius Wolf,Pass
+208387,22,Goal,0.924000015258789,0.5870000076293945,0.5849090218544006,Marco Fabián,a,2661,OpenPlay,2017,RightFoot,8525,Bayer Leverkusen,Eintracht Frankfurt,4,1,2018-04-14 13:30:00,Marius Wolf,Pass
+208392,64,BlockedShot,0.7869999694824219,0.6020000076293945,0.0301533006131649,Marco Fabián,a,2661,OpenPlay,2017,LeftFoot,8525,Bayer Leverkusen,Eintracht Frankfurt,4,1,2018-04-14 13:30:00,,None
+208397,78,BlockedShot,0.750999984741211,0.35200000762939454,0.013027500361204147,Marco Fabián,a,2661,OpenPlay,2017,LeftFoot,8525,Bayer Leverkusen,Eintracht Frankfurt,4,1,2018-04-14 13:30:00,Danny da Costa,Pass
+210350,68,SavedShot,0.805,0.40900001525878904,0.035374999046325684,Marco Fabián,h,2661,OpenPlay,2017,RightFoot,8533,Eintracht Frankfurt,Hertha Berlin,0,3,2018-04-21 13:30:00,Danny da Costa,Pass
+210352,70,MissedShots,0.7030000305175781,0.515,0.016098899766802788,Marco Fabián,h,2661,OpenPlay,2017,RightFoot,8533,Eintracht Frankfurt,Hertha Berlin,0,3,2018-04-21 13:30:00,Omar Mascarell,Pass
+211538,18,MissedShots,0.78,0.4420000076293945,0.025995900854468346,Marco Fabián,a,2661,OpenPlay,2017,RightFoot,8538,Bayern Munich,Eintracht Frankfurt,4,1,2018-04-28 13:30:00,,Rebound
+211547,69,BlockedShot,0.8380000305175781,0.5270000076293946,0.07237660139799118,Marco Fabián,a,2661,OpenPlay,2017,RightFoot,8538,Bayern Munich,Eintracht Frankfurt,4,1,2018-04-28 13:30:00,Jetro Willems,Pass
+211551,79,MissedShots,0.76,0.5279999923706055,0.02604449912905693,Marco Fabián,a,2661,OpenPlay,2017,LeftFoot,8538,Bayern Munich,Eintracht Frankfurt,4,1,2018-04-28 13:30:00,Danny da Costa,Pass
+223164,38,BlockedShot,0.8619999694824219,0.34299999237060547,0.05758799985051155,Marco Fabián,a,2661,OpenPlay,2018,RightFoot,10355,Borussia Dortmund,Eintracht Frankfurt,3,1,2018-09-14 18:30:00,Danny da Costa,TakeOn

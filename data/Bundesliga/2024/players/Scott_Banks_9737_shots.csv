@@ -1,0 +1,5 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+593264,91,MissedShots,0.9290000152587891,0.3029999923706055,0.05182890221476555,Scott Banks,h,9737,OpenPlay,2024,RightFoot,27777,St. Pauli,RasenBallsport Leipzig,0,0,2024-09-22 17:30:00,Jackson Irvine,Pass
+596650,77,BlockedShot,0.850999984741211,0.265,0.02678065374493599,Scott Banks,a,9737,OpenPlay,2024,LeftFoot,27798,Borussia Dortmund,St. Pauli,2,1,2024-10-18 18:30:00,,BallRecovery
+598323,93,MissedShots,0.97,0.3729999923706055,0.027440475299954414,Scott Banks,h,9737,SetPiece,2024,Head,27813,St. Pauli,Wolfsburg,0,0,2024-10-26 13:30:00,Oladapo Afolayan,Cross
+610736,82,ShotOnPost,0.9630000305175781,0.41,0.3430633544921875,Scott Banks,h,9737,OpenPlay,2024,RightFoot,27885,St. Pauli,Eintracht Frankfurt,0,1,2025-01-11 14:30:00,Noah Weißhaupt,Cross

@@ -1,0 +1,78 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+61481,24,MissedShots,0.7619999694824219,0.19700000762939454,0.012666800059378147,Billy Ketkeophomphone,a,3494,OpenPlay,2015,LeftFoot,1872,Montpellier,Angers,0,2,2015-08-08 23:00:00,Abdoul Camara,Pass
+61569,13,MissedShots,0.8730000305175781,0.7340000152587891,0.03206849843263626,Billy Ketkeophomphone,h,3494,OpenPlay,2015,LeftFoot,1883,Angers,Nantes,0,0,2015-08-15 22:00:00,,None
+61572,36,MissedShots,0.9069999694824219,0.3129999923706055,0.03081969916820526,Billy Ketkeophomphone,h,3494,OpenPlay,2015,RightFoot,1883,Angers,Nantes,0,0,2015-08-15 22:00:00,Yoann Andreu,Cross
+61830,87,SavedShot,0.7619999694824219,0.37,0.01381599996238947,Billy Ketkeophomphone,a,3494,SetPiece,2015,RightFoot,1895,GFC Ajaccio,Angers,0,2,2015-08-22 22:00:00,,None
+62329,51,BlockedShot,0.7769999694824219,0.33299999237060546,0.01940090022981167,Billy Ketkeophomphone,a,3494,OpenPlay,2015,RightFoot,1912,Lorient,Angers,3,1,2015-09-12 22:00:00,Abdoul Camara,Pass
+62013,69,MissedShots,0.8530000305175781,0.505,0.10200899839401245,Billy Ketkeophomphone,h,3494,OpenPlay,2015,LeftFoot,1921,Angers,Troyes,1,0,2015-09-19 22:00:00,Abdoul Camara,Pass
+62018,84,MissedShots,0.785,0.710999984741211,0.02119939960539341,Billy Ketkeophomphone,h,3494,OpenPlay,2015,RightFoot,1921,Angers,Troyes,1,0,2015-09-19 22:00:00,Ferebory Dore,Pass
+62829,27,MissedShots,0.6880000305175781,0.54,0.01779799908399582,Billy Ketkeophomphone,h,3494,OpenPlay,2015,RightFoot,1952,Angers,SC Bastia,1,0,2015-10-03 22:00:00,Thomas Mangani,Pass
+62835,40,SavedShot,0.85,0.505,0.09984000027179718,Billy Ketkeophomphone,h,3494,OpenPlay,2015,RightFoot,1952,Angers,SC Bastia,1,0,2015-10-03 22:00:00,Cheikh Ndoye,Pass
+62836,40,Goal,0.9019999694824219,0.5129999923706055,0.43279799818992615,Billy Ketkeophomphone,h,3494,OpenPlay,2015,RightFoot,1952,Angers,SC Bastia,1,0,2015-10-03 22:00:00,,Rebound
+62839,49,BlockedShot,0.7880000305175782,0.5529999923706055,0.0448932982981205,Billy Ketkeophomphone,h,3494,OpenPlay,2015,RightFoot,1952,Angers,SC Bastia,1,0,2015-10-03 22:00:00,Romain Saiss,Pass
+62851,60,MissedShots,0.774000015258789,0.6790000152587891,0.029079200699925423,Billy Ketkeophomphone,h,3494,OpenPlay,2015,RightFoot,1952,Angers,SC Bastia,1,0,2015-10-03 22:00:00,Yoann Andreu,Pass
+64448,4,MissedShots,0.7290000152587891,0.37,0.019673099741339684,Billy Ketkeophomphone,a,3494,OpenPlay,2015,LeftFoot,1986,Monaco,Angers,1,0,2015-11-01 20:00:00,Vincent Manceau,Pass
+64450,7,SavedShot,0.9430000305175781,0.2720000076293945,0.055273499339818954,Billy Ketkeophomphone,a,3494,OpenPlay,2015,RightFoot,1986,Monaco,Angers,1,0,2015-11-01 20:00:00,Vincent Manceau,TakeOn
+64463,55,MissedShots,0.749000015258789,0.46,0.017219899222254753,Billy Ketkeophomphone,a,3494,FromCorner,2015,LeftFoot,1986,Monaco,Angers,1,0,2015-11-01 20:00:00,,None
+64473,68,BlockedShot,0.725,0.5129999923706055,0.01806900091469288,Billy Ketkeophomphone,a,3494,OpenPlay,2015,RightFoot,1986,Monaco,Angers,1,0,2015-11-01 20:00:00,Romain Saiss,Pass
+63807,39,BlockedShot,0.9130000305175782,0.6530000305175782,0.06343390047550201,Billy Ketkeophomphone,h,3494,SetPiece,2015,LeftFoot,1989,Angers,Rennes,0,2,2015-11-06 23:30:00,Abdoul Camara,Rebound
+64816,12,SavedShot,0.7390000152587891,0.515,0.022735299542546272,Billy Ketkeophomphone,a,3494,OpenPlay,2015,RightFoot,2006,Caen,Angers,0,0,2015-11-22 17:00:00,Cheikh Ndoye,Pass
+64861,81,MissedShots,0.8209999847412109,0.509000015258789,0.06310740113258362,Billy Ketkeophomphone,a,3494,OpenPlay,2015,LeftFoot,2006,Caen,Angers,0,0,2015-11-22 17:00:00,,Dispossessed
+65581,84,SavedShot,0.8859999847412109,0.6780000305175782,0.07643929868936539,Billy Ketkeophomphone,a,3494,OpenPlay,2015,LeftFoot,2030,Lyon,Angers,0,2,2015-12-05 20:00:00,Romain Saiss,Pass
+65525,18,SavedShot,0.9290000152587891,0.41,0.08934299647808075,Billy Ketkeophomphone,h,3494,OpenPlay,2015,LeftFoot,2047,Angers,Bordeaux,1,1,2015-12-13 20:00:00,Gilles Sunu,Cross
+65451,47,MissedShots,0.7480000305175781,0.35900001525878905,0.01864209957420826,Billy Ketkeophomphone,a,3494,OpenPlay,2015,RightFoot,2056,Saint-Etienne,Angers,1,0,2015-12-20 17:00:00,Gilles Sunu,Pass
+65454,57,SavedShot,0.8490000152587891,0.3170000076293945,0.03260580077767372,Billy Ketkeophomphone,a,3494,SetPiece,2015,RightFoot,2056,Saint-Etienne,Angers,1,0,2015-12-20 17:00:00,,None
+65777,54,SavedShot,0.855,0.26399999618530273,0.03293199837207794,Billy Ketkeophomphone,h,3494,OpenPlay,2015,RightFoot,2064,Angers,Caen,2,0,2016-01-09 23:00:00,Gilles Sunu,Pass
+65780,73,Goal,0.9009999847412109,0.6559999847412109,0.2908340096473694,Billy Ketkeophomphone,h,3494,OpenPlay,2015,RightFoot,2064,Angers,Caen,2,0,2016-01-09 23:00:00,Mohamed Yattara,Pass
+65782,79,MissedShots,0.875999984741211,0.6270000076293946,0.40740299224853516,Billy Ketkeophomphone,h,3494,OpenPlay,2015,LeftFoot,2064,Angers,Caen,2,0,2016-01-09 23:00:00,Mohamed Yattara,Throughball
+65785,89,BlockedShot,0.8009999847412109,0.34,0.03428279981017113,Billy Ketkeophomphone,h,3494,OpenPlay,2015,RightFoot,2064,Angers,Caen,2,0,2016-01-09 23:00:00,Cheikh Ndoye,Pass
+66133,26,MissedShots,0.91,0.25,0.050675999373197556,Billy Ketkeophomphone,a,3494,OpenPlay,2015,RightFoot,2069,Nice,Angers,2,1,2016-01-15 23:30:00,Romain Saiss,BallRecovery
+66141,63,SavedShot,0.889000015258789,0.4229999923706055,0.09051860123872757,Billy Ketkeophomphone,a,3494,OpenPlay,2015,RightFoot,2069,Nice,Angers,2,1,2016-01-15 23:30:00,Gilles Sunu,Cross
+66370,15,MissedShots,0.6840000152587891,0.41200000762939454,0.0327720008790493,Billy Ketkeophomphone,a,3494,DirectFreekick,2015,RightFoot,2080,Paris Saint Germain,Angers,5,1,2016-01-23 20:00:00,,Standard
+66387,75,SavedShot,0.8819999694824219,0.664000015258789,0.06715430319309235,Billy Ketkeophomphone,a,3494,SetPiece,2015,LeftFoot,2080,Paris Saint Germain,Angers,5,1,2016-01-23 20:00:00,Pierrick Capelle,TakeOn
+66414,14,SavedShot,0.7390000152587891,0.695,0.018887000158429146,Billy Ketkeophomphone,h,3494,OpenPlay,2015,RightFoot,2090,Angers,Monaco,3,0,2016-01-30 20:00:00,Pierrick Capelle,Pass
+66423,37,MissedShots,0.9,0.635,0.062435001134872437,Billy Ketkeophomphone,h,3494,OpenPlay,2015,LeftFoot,2090,Angers,Monaco,3,0,2016-01-30 20:00:00,Gael Angoula,Cross
+66425,42,MissedShots,0.89,0.735999984741211,0.03746400028467178,Billy Ketkeophomphone,h,3494,FromCorner,2015,LeftFoot,2090,Angers,Monaco,3,0,2016-01-30 20:00:00,,Rebound
+69662,63,ShotOnPost,0.855999984741211,0.4779999923706055,0.29399099946022034,Billy Ketkeophomphone,h,3494,OpenPlay,2015,RightFoot,2133,Angers,Montpellier,2,3,2016-02-20 23:00:00,Pierrick Capelle,Pass
+69666,78,SavedShot,0.7919999694824219,0.710999984741211,0.015030699782073498,Billy Ketkeophomphone,h,3494,OpenPlay,2015,RightFoot,2133,Angers,Montpellier,2,3,2016-02-20 23:00:00,Goran Karanoviç,Pass
+69966,15,MissedShots,0.7780000305175782,0.40400001525878904,0.02431510016322136,Billy Ketkeophomphone,a,3494,OpenPlay,2015,RightFoot,2142,Guingamp,Angers,2,2,2016-02-27 23:00:00,Pierrick Capelle,Pass
+69971,45,MissedShots,0.7630000305175781,0.4809999847412109,0.027675900608301163,Billy Ketkeophomphone,a,3494,OpenPlay,2015,RightFoot,2142,Guingamp,Angers,2,2,2016-02-27 23:00:00,Thomas Mangani,Pass
+69978,56,MissedShots,0.8519999694824218,0.4620000076293945,0.06358049809932709,Billy Ketkeophomphone,a,3494,OpenPlay,2015,RightFoot,2142,Guingamp,Angers,2,2,2016-02-27 23:00:00,Vincent Manceau,Cross
+69983,78,Goal,0.885,0.5,0.7598959803581238,Billy Ketkeophomphone,a,3494,Penalty,2015,RightFoot,2142,Guingamp,Angers,2,2,2016-02-27 23:00:00,,Standard
+66662,69,SavedShot,0.7180000305175781,0.5179999923706055,0.04741239920258522,Billy Ketkeophomphone,h,3494,DirectFreekick,2015,RightFoot,2150,Angers,Saint-Etienne,0,0,2016-03-05 23:00:00,,Standard
+67368,59,MissedShots,0.7809999847412109,0.18799999237060547,0.010664000175893307,Billy Ketkeophomphone,a,3494,OpenPlay,2015,LeftFoot,2167,Nantes,Angers,2,0,2016-03-13 20:00:00,,None
+67369,66,MissedShots,0.7719999694824219,0.9290000152587891,0.010847999714314938,Billy Ketkeophomphone,a,3494,OpenPlay,2015,RightFoot,2167,Nantes,Angers,2,0,2016-03-13 20:00:00,Vincent Manceau,Pass
+66918,13,Goal,0.8780000305175781,0.629000015258789,0.10866600275039673,Billy Ketkeophomphone,h,3494,OpenPlay,2015,LeftFoot,2171,Angers,Lorient,5,1,2016-03-19 23:00:00,,TakeOn
+66929,41,MissedShots,0.6919999694824219,0.4370000076293945,0.013664999976754189,Billy Ketkeophomphone,h,3494,OpenPlay,2015,LeftFoot,2171,Angers,Lorient,5,1,2016-03-19 23:00:00,Cheikh Ndoye,BallRecovery
+67427,8,BlockedShot,0.7519999694824219,0.4620000076293945,0.02404000051319599,Billy Ketkeophomphone,a,3494,OpenPlay,2015,RightFoot,2183,Troyes,Angers,0,1,2016-04-02 22:00:00,Mohamed Yattara,Pass
+67430,13,BlockedShot,0.895,0.39599998474121095,0.06967099756002426,Billy Ketkeophomphone,a,3494,OpenPlay,2015,RightFoot,2183,Troyes,Angers,0,1,2016-04-02 22:00:00,Aissa Laidouni,Cross
+67436,40,BlockedShot,0.7919999694824219,0.7090000152587891,0.06286430358886719,Billy Ketkeophomphone,a,3494,DirectFreekick,2015,RightFoot,2183,Troyes,Angers,0,1,2016-04-02 22:00:00,,Standard
+67447,86,MissedShots,0.89,0.2670000076293945,0.01857360079884529,Billy Ketkeophomphone,a,3494,OpenPlay,2015,RightFoot,2183,Troyes,Angers,0,1,2016-04-02 22:00:00,Arnold Bouka Moutou,Cross
+67596,55,SavedShot,0.7290000152587891,0.7230000305175781,0.017822399735450745,Billy Ketkeophomphone,h,3494,SetPiece,2015,RightFoot,2191,Angers,GFC Ajaccio,0,0,2016-04-09 22:00:00,Thomas Mangani,Pass
+67762,13,SavedShot,0.785,0.5729999923706055,0.030002199113368988,Billy Ketkeophomphone,a,3494,OpenPlay,2015,RightFoot,2202,Bordeaux,Angers,1,3,2016-04-16 22:00:00,Gilles Sunu,Pass
+67668,17,BlockedShot,0.8059999847412109,0.3220000076293945,0.01916790008544922,Billy Ketkeophomphone,a,3494,SetPiece,2015,RightFoot,2217,Lille,Angers,0,0,2016-04-27 20:30:00,,None
+67676,55,SavedShot,0.7609999847412109,0.445,0.023745199665427208,Billy Ketkeophomphone,a,3494,OpenPlay,2015,RightFoot,2217,Lille,Angers,0,0,2016-04-27 20:30:00,Cheikh Ndoye,Pass
+68067,74,MissedShots,0.7530000305175781,0.62,0.019936000928282738,Billy Ketkeophomphone,h,3494,OpenPlay,2015,RightFoot,2227,Angers,Marseille,0,1,2016-05-01 19:00:00,Said Benrahma,Pass
+68315,7,MissedShots,0.7140000152587891,0.4370000076293945,0.010373899713158607,Billy Ketkeophomphone,a,3494,FromCorner,2015,RightFoot,2236,SC Bastia,Angers,1,0,2016-05-07 23:00:00,Pierrick Capelle,TakeOn
+68484,11,Goal,0.905,0.5670000076293945,0.09115560352802277,Billy Ketkeophomphone,h,3494,OpenPlay,2015,LeftFoot,2248,Angers,Toulouse,2,3,2016-05-14 23:00:00,,None
+102990,69,MissedShots,0.889000015258789,0.4929999923706055,0.06558140367269516,Billy Ketkeophomphone,a,3494,OpenPlay,2016,Head,2252,Montpellier,Angers,1,0,2016-08-13 22:00:00,Nicolas Pepe,Cross
+103307,5,SavedShot,0.8119999694824219,0.639000015258789,0.03429260104894638,Billy Ketkeophomphone,h,3494,OpenPlay,2016,RightFoot,2262,Angers,Nice,0,1,2016-08-20 22:00:00,,None
+103319,26,SavedShot,0.71,0.624000015258789,0.014403400011360645,Billy Ketkeophomphone,h,3494,OpenPlay,2016,RightFoot,2262,Angers,Nice,0,1,2016-08-20 22:00:00,Karl Toko Ekambi,Pass
+103329,45,SavedShot,0.7669999694824219,0.500999984741211,0.030828099697828293,Billy Ketkeophomphone,h,3494,OpenPlay,2016,LeftFoot,2262,Angers,Nice,0,1,2016-08-20 22:00:00,Cheikh Ndoye,Pass
+103337,80,SavedShot,0.7380000305175781,0.475,0.017278999090194702,Billy Ketkeophomphone,h,3494,OpenPlay,2016,RightFoot,2262,Angers,Nice,0,1,2016-08-20 22:00:00,,None
+103339,86,MissedShots,0.8469999694824218,0.6020000076293945,0.05451370030641556,Billy Ketkeophomphone,h,3494,OpenPlay,2016,LeftFoot,2262,Angers,Nice,0,1,2016-08-20 22:00:00,Cheikh Ndoye,HeadPass
+103839,2,MissedShots,0.7290000152587891,0.6329999923706054,0.013476800173521042,Billy Ketkeophomphone,a,3494,OpenPlay,2016,RightFoot,2272,Metz,Angers,2,0,2016-08-27 22:00:00,Cheikh Ndoye,HeadPass
+103849,37,MissedShots,0.7659999847412109,0.67,0.019265899434685707,Billy Ketkeophomphone,a,3494,OpenPlay,2016,RightFoot,2272,Metz,Angers,2,0,2016-08-27 22:00:00,Karl Toko Ekambi,LayOff
+103863,83,MissedShots,0.7559999847412109,0.6930000305175781,0.01609800010919571,Billy Ketkeophomphone,a,3494,OpenPlay,2016,RightFoot,2272,Metz,Angers,2,0,2016-08-27 22:00:00,Vincent Manceau,Pass
+103651,31,BlockedShot,0.8969999694824219,0.544000015258789,0.12862500548362732,Billy Ketkeophomphone,h,3494,OpenPlay,2016,RightFoot,2282,Angers,Dijon,3,1,2016-09-10 22:00:00,Thomas Mangani,Pass
+104484,11,Goal,0.865999984741211,0.45799999237060546,0.0675806999206543,Billy Ketkeophomphone,h,3494,OpenPlay,2016,RightFoot,2302,Angers,Caen,2,1,2016-09-21 21:00:00,Cheikh Ndoye,HeadPass
+104488,23,BlockedShot,0.7440000152587891,0.5570000076293945,0.061124399304389954,Billy Ketkeophomphone,h,3494,DirectFreekick,2016,RightFoot,2302,Angers,Caen,2,1,2016-09-21 21:00:00,,Standard
+165420,13,SavedShot,0.8590000152587891,0.7530000305175781,0.026577100157737732,Billy Ketkeophomphone,a,3494,OpenPlay,2017,LeftFoot,8699,Troyes,Angers,3,0,2017-11-25 19:00:00,Vincent Manceau,Pass
+179444,25,BlockedShot,0.7030000305175781,0.5059999847412109,0.04080529883503914,Billy Ketkeophomphone,h,3494,DirectFreekick,2017,RightFoot,8726,Angers,Montpellier,1,1,2017-12-09 19:00:00,,Standard
+190054,5,SavedShot,0.76,0.5940000152587891,0.029225900769233704,Billy Ketkeophomphone,h,3494,OpenPlay,2017,RightFoot,8785,Angers,Amiens,1,0,2018-01-27 19:00:00,Karl Toko Ekambi,LayOff
+190061,34,SavedShot,0.7559999847412109,0.645,0.022677699103951454,Billy Ketkeophomphone,h,3494,OpenPlay,2017,RightFoot,8785,Angers,Amiens,1,0,2018-01-27 19:00:00,Pierrick Capelle,Pass
+190063,46,BlockedShot,0.7709999847412109,0.6730000305175782,0.060379400849342346,Billy Ketkeophomphone,h,3494,DirectFreekick,2017,RightFoot,8785,Angers,Amiens,1,0,2018-01-27 19:00:00,,Standard
+194564,85,MissedShots,0.6909999847412109,0.5220000076293946,0.012583700008690357,Billy Ketkeophomphone,a,3494,OpenPlay,2017,LeftFoot,8799,Montpellier,Angers,2,1,2018-02-03 19:00:00,Karl Toko Ekambi,LayOff
+194646,83,MissedShots,0.805,0.4909999847412109,0.034480299800634384,Billy Ketkeophomphone,h,3494,FromCorner,2017,LeftFoot,8812,Angers,Monaco,0,4,2018-02-10 19:00:00,,None
+201057,6,SavedShot,0.759000015258789,0.29100000381469726,0.015975000336766243,Billy Ketkeophomphone,a,3494,OpenPlay,2017,RightFoot,8871,Paris Saint Germain,Angers,2,1,2018-03-14 16:00:00,Vincent Manceau,Pass
+207125,79,MissedShots,0.775,0.710999984741211,0.022154899314045906,Billy Ketkeophomphone,h,3494,OpenPlay,2017,RightFoot,8883,Angers,Strasbourg,1,1,2018-04-07 18:00:00,Thomas Mangani,Pass

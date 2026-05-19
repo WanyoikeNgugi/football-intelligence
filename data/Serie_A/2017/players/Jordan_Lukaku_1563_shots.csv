@@ -1,0 +1,11 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+150529,70,BlockedShot,0.9119999694824219,0.5479999923706055,0.372965008020401,Jordan Lukaku,h,1563,OpenPlay,2016,RightFoot,3646,Lazio,Napoli,0,3,2017-04-09 19:45:00,Keita,Pass
+152741,61,SavedShot,0.7430000305175781,0.6719999694824219,0.016765600070357323,Jordan Lukaku,h,1563,FromCorner,2016,RightFoot,3690,Lazio,Sampdoria,7,3,2017-05-07 14:00:00,Lucas Biglia,Pass
+173433,66,SavedShot,0.9259999847412109,0.4620000076293945,0.3659929931163788,Jordan Lukaku,a,1563,OpenPlay,2017,RightFoot,7532,Genoa,Lazio,2,3,2017-09-17 19:45:00,Adam Marusic,Cross
+173985,52,BlockedShot,0.8719999694824219,0.75,0.04239650070667267,Jordan Lukaku,a,1563,OpenPlay,2017,LeftFoot,7552,Verona,Lazio,0,3,2017-09-24 14:00:00,Senad Lulic,Pass
+185114,55,Goal,0.9319999694824219,0.46599998474121096,0.6505820155143738,Jordan Lukaku,h,1563,OpenPlay,2017,RightFoot,7673,Lazio,Crotone,4,0,2017-12-23 11:30:00,Ciro Immobile,Pass
+186724,73,SavedShot,0.8780000305175781,0.7030000305175781,0.334538996219635,Jordan Lukaku,a,1563,OpenPlay,2017,LeftFoot,7695,SPAL 2013,Lazio,2,5,2018-01-06 14:00:00,Lucas Leiva,Throughball
+196052,3,BlockedShot,0.88,0.7030000305175781,0.04762760177254677,Jordan Lukaku,h,1563,OpenPlay,2017,LeftFoot,7722,Lazio,Genoa,1,2,2018-02-05 19:45:00,Lucas Leiva,Pass
+202266,49,MissedShots,0.7680000305175781,0.625999984741211,0.01730179972946644,Jordan Lukaku,h,1563,FromCorner,2017,LeftFoot,7780,Lazio,Bologna,1,1,2018-03-18 19:45:00,,None
+332936,84,BlockedShot,0.8580000305175781,0.6669999694824219,0.018683400005102158,Jordan Lukaku,a,1563,OpenPlay,2019,RightFoot,13216,Sassuolo,Lazio,1,2,2019-11-24 14:00:00,,Aerial
+366477,87,MissedShots,0.845,0.66,0.0487355999648571,Jordan Lukaku,a,1563,OpenPlay,2019,RightFoot,13349,Atalanta,Lazio,3,2,2020-06-24 19:45:00,André Anderson,Pass

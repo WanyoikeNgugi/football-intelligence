@@ -1,0 +1,73 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+388720,34,MissedShots,0.874000015258789,0.5570000076293945,0.11885400116443634,Philipp Förster,h,9076,OpenPlay,2020,LeftFoot,15220,VfB Stuttgart,Bayern Munich,1,3,2020-11-28 14:30:00,Borna Sosa,Pass
+388721,35,SavedShot,0.93,0.3609999847412109,0.37068599462509155,Philipp Förster,h,9076,OpenPlay,2020,LeftFoot,15220,VfB Stuttgart,Bayern Munich,1,3,2020-11-28 14:30:00,Silas Wamangituka,BallRecovery
+390832,76,SavedShot,0.815,0.5329999923706055,0.07902830094099045,Philipp Förster,a,9076,OpenPlay,2020,LeftFoot,15228,Werder Bremen,VfB Stuttgart,1,2,2020-12-06 14:30:00,Wataru Endo,TakeOn
+391608,59,Goal,0.8869999694824219,0.4979999923706055,0.42823898792266846,Philipp Förster,a,9076,OpenPlay,2020,LeftFoot,15230,Borussia Dortmund,VfB Stuttgart,1,5,2020-12-12 14:30:00,Borna Sosa,Pass
+391610,62,BlockedShot,0.8090000152587891,0.5,0.08675950020551682,Philipp Förster,a,9076,OpenPlay,2020,LeftFoot,15230,Borussia Dortmund,VfB Stuttgart,1,5,2020-12-12 14:30:00,Mateo Klimowicz,TakeOn
+392618,19,BlockedShot,0.8390000152587891,0.3679999923706055,0.04424000158905983,Philipp Förster,h,9076,OpenPlay,2020,LeftFoot,15244,VfB Stuttgart,Union Berlin,2,2,2020-12-15 19:30:00,Silas Wamangituka,Pass
+392633,53,MissedShots,0.7809999847412109,0.5690000152587891,0.03309660032391548,Philipp Förster,h,9076,OpenPlay,2020,LeftFoot,15244,VfB Stuttgart,Union Berlin,2,2,2020-12-15 19:30:00,Gonzalo Castro,Pass
+398391,80,MissedShots,0.935,0.5179999923706055,0.6119670271873474,Philipp Förster,a,9076,OpenPlay,2020,LeftFoot,15273,Augsburg,VfB Stuttgart,1,4,2021-01-10 14:30:00,Silas Wamangituka,Pass
+399983,38,SavedShot,0.8480000305175781,0.46299999237060546,0.07868299633264542,Philipp Förster,a,9076,OpenPlay,2020,LeftFoot,15292,Arminia Bielefeld,VfB Stuttgart,3,0,2021-01-20 19:30:00,Borna Sosa,Pass
+405475,73,BlockedShot,0.93,0.6519999694824219,0.15405899286270142,Philipp Förster,a,9076,OpenPlay,2020,LeftFoot,15335,FC Cologne,VfB Stuttgart,0,1,2021-02-20 14:30:00,Erik Thommy,TakeOn
+413113,24,SavedShot,0.795,0.629000015258789,0.0350601002573967,Philipp Förster,h,9076,OpenPlay,2020,LeftFoot,15381,VfB Stuttgart,Werder Bremen,1,0,2021-04-04 13:30:00,Mateo Klimowicz,BallTouch
+413120,60,BlockedShot,0.8859999847412109,0.335,0.05672280117869377,Philipp Förster,h,9076,OpenPlay,2020,LeftFoot,15381,VfB Stuttgart,Werder Bremen,1,0,2021-04-04 13:30:00,,None
+415261,48,Goal,0.9230000305175782,0.5379999923706055,0.47140398621559143,Philipp Förster,a,9076,OpenPlay,2020,LeftFoot,15398,Union Berlin,VfB Stuttgart,2,1,2021-04-17 13:30:00,Sasa Kalajdzic,Pass
+416520,25,SavedShot,0.885,0.5,0.7577769756317139,Philipp Förster,h,9076,Penalty,2020,LeftFoot,15409,VfB Stuttgart,Wolfsburg,1,3,2021-04-21 18:30:00,,Standard
+416521,25,MissedShots,0.894000015258789,0.5029999923706054,0.4499500095844269,Philipp Förster,h,9076,SetPiece,2020,LeftFoot,15409,VfB Stuttgart,Wolfsburg,1,3,2021-04-21 18:30:00,,Rebound
+419670,10,Goal,0.9130000305175782,0.505,0.1385750025510788,Philipp Förster,h,9076,OpenPlay,2020,RightFoot,15427,VfB Stuttgart,Augsburg,2,1,2021-05-07 18:30:00,Sasa Kalajdzic,Pass
+419698,82,BlockedShot,0.81,0.29100000381469726,0.05034890025854111,Philipp Förster,h,9076,OpenPlay,2020,LeftFoot,15427,VfB Stuttgart,Augsburg,2,1,2021-05-07 18:30:00,,TakeOn
+419700,90,SavedShot,0.955999984741211,0.67,0.08316720277070999,Philipp Förster,h,9076,OpenPlay,2020,LeftFoot,15427,VfB Stuttgart,Augsburg,2,1,2021-05-07 18:30:00,Erik Thommy,Pass
+421813,66,SavedShot,0.855,0.5429999923706055,0.07631939649581909,Philipp Förster,a,9076,OpenPlay,2020,LeftFoot,15429,Borussia M.Gladbach,VfB Stuttgart,1,2,2021-05-15 13:30:00,Sasa Kalajdzic,Pass
+421817,75,SavedShot,0.8380000305175781,0.6359999847412109,0.05561019852757454,Philipp Förster,a,9076,OpenPlay,2020,LeftFoot,15429,Borussia M.Gladbach,VfB Stuttgart,1,2,2021-05-15 13:30:00,Sasa Kalajdzic,TakeOn
+425718,34,BlockedShot,0.8069999694824219,0.3170000076293945,0.03586740046739578,Philipp Förster,h,9076,OpenPlay,2021,LeftFoot,17519,VfB Stuttgart,Greuther Fuerth,5,1,2021-08-14 13:30:00,Marc-Oliver Kempf,Pass
+425724,51,BlockedShot,0.8190000152587891,0.5429999923706055,0.08588320016860962,Philipp Förster,h,9076,OpenPlay,2021,LeftFoot,17519,VfB Stuttgart,Greuther Fuerth,5,1,2021-08-14 13:30:00,Borna Sosa,Pass
+425727,58,SavedShot,0.884000015258789,0.575,0.3635219931602478,Philipp Förster,h,9076,OpenPlay,2021,LeftFoot,17519,VfB Stuttgart,Greuther Fuerth,5,1,2021-08-14 13:30:00,Mateo Klimowicz,Pass
+425736,72,BlockedShot,0.75,0.34299999237060547,0.01834530010819435,Philipp Förster,h,9076,OpenPlay,2021,LeftFoot,17519,VfB Stuttgart,Greuther Fuerth,5,1,2021-08-14 13:30:00,Erik Thommy,Pass
+425742,81,BlockedShot,0.8730000305175781,0.3189999961853027,0.06930220127105713,Philipp Förster,h,9076,OpenPlay,2021,RightFoot,17519,VfB Stuttgart,Greuther Fuerth,5,1,2021-08-14 13:30:00,Erik Thommy,BallTouch
+425744,85,MissedShots,0.86,0.4329999923706055,0.12185899913311005,Philipp Förster,h,9076,OpenPlay,2021,RightFoot,17519,VfB Stuttgart,Greuther Fuerth,5,1,2021-08-14 13:30:00,Erik Thommy,Pass
+425745,87,MissedShots,0.7830000305175782,0.6619999694824219,0.042982298880815506,Philipp Förster,h,9076,OpenPlay,2021,LeftFoot,17519,VfB Stuttgart,Greuther Fuerth,5,1,2021-08-14 13:30:00,Roberto Massimo,LayOff
+428508,42,BlockedShot,0.8130000305175781,0.4929999923706055,0.020495200529694557,Philipp Förster,h,9076,FromCorner,2021,LeftFoot,17539,VfB Stuttgart,Freiburg,2,3,2021-08-28 13:30:00,,Aerial
+442368,14,MissedShots,0.8969999694824219,0.5129999923706055,0.4428589940071106,Philipp Förster,a,9076,OpenPlay,2021,RightFoot,17623,Borussia Dortmund,VfB Stuttgart,2,1,2021-11-20 14:30:00,Borna Sosa,Pass
+442371,20,SavedShot,0.8690000152587891,0.6930000305175781,0.050909098237752914,Philipp Förster,a,9076,OpenPlay,2021,LeftFoot,17623,Borussia Dortmund,VfB Stuttgart,2,1,2021-11-20 14:30:00,Hiroki Ito,BallRecovery
+443652,48,MissedShots,0.879000015258789,0.35200000762939454,0.06827709823846817,Philipp Förster,h,9076,OpenPlay,2021,LeftFoot,17628,VfB Stuttgart,Mainz 05,2,1,2021-11-26 19:30:00,Omar Marmoush,Pass
+446886,18,Goal,0.805,0.48400001525878905,0.06563209742307663,Philipp Förster,h,9076,OpenPlay,2021,LeftFoot,17637,VfB Stuttgart,Hertha Berlin,2,2,2021-12-05 14:30:00,Hamadi Al Ghaddioui,Pass
+447914,1,MissedShots,0.8059999847412109,0.47400001525878904,0.020129799842834473,Philipp Förster,a,9076,OpenPlay,2021,RightFoot,17648,Wolfsburg,VfB Stuttgart,0,2,2021-12-11 17:30:00,Roberto Massimo,Aerial
+447922,39,BlockedShot,0.9009999847412109,0.305,0.0421391986310482,Philipp Förster,a,9076,FromCorner,2021,RightFoot,17648,Wolfsburg,VfB Stuttgart,0,2,2021-12-11 17:30:00,Omar Marmoush,Pass
+447923,47,BlockedShot,0.77,0.3370000076293945,0.026733199134469032,Philipp Förster,a,9076,OpenPlay,2021,LeftFoot,17648,Wolfsburg,VfB Stuttgart,0,2,2021-12-11 17:30:00,Orel Mangala,Pass
+447927,62,Goal,0.9080000305175782,0.5129999923706055,0.5188630223274231,Philipp Förster,a,9076,OpenPlay,2021,RightFoot,17648,Wolfsburg,VfB Stuttgart,0,2,2021-12-11 17:30:00,,None
+448781,46,BlockedShot,0.87,0.5829999923706055,0.11073900014162064,Philipp Förster,h,9076,OpenPlay,2021,LeftFoot,17654,VfB Stuttgart,Bayern Munich,0,5,2021-12-14 17:30:00,Orel Mangala,TakeOn
+448785,47,SavedShot,0.855,0.4329999923706055,0.0796722024679184,Philipp Förster,h,9076,OpenPlay,2021,RightFoot,17654,VfB Stuttgart,Bayern Munich,0,5,2021-12-14 17:30:00,Wataru Endo,Pass
+448787,55,BlockedShot,0.789000015258789,0.2989999961853027,0.06486369669437408,Philipp Förster,h,9076,DirectFreekick,2021,LeftFoot,17654,VfB Stuttgart,Bayern Munich,0,5,2021-12-14 17:30:00,,Standard
+448792,62,MissedShots,0.9330000305175781,0.40599998474121096,0.25418901443481445,Philipp Förster,h,9076,OpenPlay,2021,RightFoot,17654,VfB Stuttgart,Bayern Munich,0,5,2021-12-14 17:30:00,Marc-Oliver Kempf,Chipped
+449836,17,MissedShots,0.8519999694824218,0.5370000076293945,0.05969569832086563,Philipp Förster,a,9076,OpenPlay,2021,LeftFoot,17662,FC Cologne,VfB Stuttgart,1,0,2021-12-19 16:30:00,Tanguy Coulibaly,Cross
+449841,44,BlockedShot,0.8830000305175781,0.3129999923706055,0.04476580023765564,Philipp Förster,a,9076,OpenPlay,2021,LeftFoot,17662,FC Cologne,VfB Stuttgart,1,0,2021-12-19 16:30:00,Hiroki Ito,Chipped
+452081,48,BlockedShot,0.8569999694824219,0.5270000076293946,0.09828650206327438,Philipp Förster,a,9076,OpenPlay,2021,LeftFoot,17669,Greuther Fuerth,VfB Stuttgart,0,0,2022-01-08 14:30:00,Orel Mangala,Pass
+455702,31,SavedShot,0.875999984741211,0.6029999923706054,0.08164320141077042,Philipp Förster,h,9076,OpenPlay,2021,LeftFoot,17701,VfB Stuttgart,Eintracht Frankfurt,2,3,2022-02-05 14:30:00,Chris Führich,Pass
+455704,34,BlockedShot,0.8090000152587891,0.47200000762939454,0.04566590115427971,Philipp Förster,h,9076,OpenPlay,2021,LeftFoot,17701,VfB Stuttgart,Eintracht Frankfurt,2,3,2022-02-05 14:30:00,Wataru Endo,Pass
+459348,52,BlockedShot,0.8590000152587891,0.74,0.030406199395656586,Philipp Förster,a,9076,OpenPlay,2021,LeftFoot,17726,Hoffenheim,VfB Stuttgart,2,1,2022-02-25 19:30:00,Sasa Kalajdzic,Pass
+459350,59,BlockedShot,0.8440000152587891,0.625,0.08079549670219421,Philipp Förster,a,9076,OpenPlay,2021,LeftFoot,17726,Hoffenheim,VfB Stuttgart,2,1,2022-02-25 19:30:00,Hiroki Ito,Pass
+474335,74,MissedShots,0.789000015258789,0.5790000152587891,0.05720650032162666,Philipp Förster,a,9076,OpenPlay,2021,LeftFoot,17812,Bayern Munich,VfB Stuttgart,2,2,2022-05-08 15:30:00,Sasa Kalajdzic,Pass
+474338,80,SavedShot,0.88,0.3679999923706055,0.3015100061893463,Philipp Förster,a,9076,OpenPlay,2021,RightFoot,17812,Bayern Munich,VfB Stuttgart,2,2,2022-05-08 15:30:00,Tanguy Coulibaly,Pass
+479211,91,SavedShot,0.730999984741211,0.24,0.03301079943776131,Philipp Förster,h,9076,DirectFreekick,2022,LeftFoot,19346,Bochum,Mainz 05,1,2,2022-08-06 13:30:00,,Standard
+482516,34,SavedShot,0.7330000305175781,0.4879999923706055,0.013979800045490265,Philipp Förster,h,9076,OpenPlay,2022,LeftFoot,19368,Bochum,Bayern Munich,0,7,2022-08-21 15:30:00,Kevin Stöger,Pass
+485735,33,BlockedShot,0.83,0.5129999923706055,0.06123499944806099,Philipp Förster,h,9076,SetPiece,2022,LeftFoot,19383,Bochum,Werder Bremen,0,2,2022-09-03 13:30:00,Kevin Stöger,Pass
+485740,43,SavedShot,0.8980000305175782,0.7119999694824218,0.05084329843521118,Philipp Förster,h,9076,OpenPlay,2022,LeftFoot,19383,Bochum,Werder Bremen,0,2,2022-09-03 13:30:00,Gerrit Holtmann,Pass
+491440,59,MissedShots,0.730999984741211,0.24100000381469727,0.03310779854655266,Philipp Förster,h,9076,DirectFreekick,2022,LeftFoot,19419,Bochum,Eintracht Frankfurt,3,0,2022-10-08 13:30:00,,Standard
+491450,90,Goal,0.8440000152587891,0.49,0.11108099669218063,Philipp Förster,h,9076,OpenPlay,2022,RightFoot,19419,Bochum,Eintracht Frankfurt,3,0,2022-10-08 13:30:00,Christopher Antwi-Adjei,Pass
+492972,23,BlockedShot,0.8469999694824218,0.2879999923706055,0.024056699126958847,Philipp Förster,a,9076,FromCorner,2022,LeftFoot,19429,VfB Stuttgart,Bochum,4,1,2022-10-15 13:30:00,Cristian Gamboa,None
+492993,85,BlockedShot,0.8680000305175781,0.38,0.06335639953613281,Philipp Förster,a,9076,OpenPlay,2022,LeftFoot,19429,VfB Stuttgart,Bochum,4,1,2022-10-15 13:30:00,Erhan Masovic,BallTouch
+496353,40,MissedShots,0.904000015258789,0.5840000152587891,0.06059049814939499,Philipp Förster,a,9076,OpenPlay,2022,LeftFoot,19446,Wolfsburg,Bochum,4,0,2022-10-29 13:30:00,Christopher Antwi-Adjei,Cross
+499159,60,BlockedShot,0.8080000305175781,0.5120000076293946,0.07795310020446777,Philipp Förster,h,9076,OpenPlay,2022,LeftFoot,19465,Bochum,Borussia M.Gladbach,2,1,2022-11-08 19:30:00,Simon Zoller,Pass
+504530,4,MissedShots,0.86,0.41200000762939454,0.06879200041294098,Philipp Förster,h,9076,OpenPlay,2022,LeftFoot,19484,Bochum,Hertha Berlin,3,1,2023-01-21 14:30:00,,None
+506953,29,Goal,0.8730000305175781,0.5970000076293945,0.09987819939851761,Philipp Förster,h,9076,OpenPlay,2022,LeftFoot,19510,Bochum,Hoffenheim,5,2,2023-02-04 14:30:00,Christopher Antwi-Adjei,Pass
+525817,52,BlockedShot,0.85,0.455,0.09205783903598785,Philipp Förster,h,9076,OpenPlay,2022,LeftFoot,19628,Bochum,Augsburg,3,2,2023-05-13 13:30:00,Erhan Masovic,Pass
+525822,70,BlockedShot,0.8130000305175781,0.625,0.014715941622853279,Philipp Förster,h,9076,FromCorner,2022,LeftFoot,19628,Bochum,Augsburg,3,2,2023-05-13 13:30:00,Kevin Stöger,Chipped
+527365,30,MissedShots,0.7290000152587891,0.509000015258789,0.014982856810092926,Philipp Förster,a,9076,OpenPlay,2022,LeftFoot,19636,Hertha Berlin,Bochum,1,1,2023-05-20 13:30:00,,None
+527366,33,MissedShots,0.845,0.49900001525878906,0.09444022923707962,Philipp Förster,a,9076,OpenPlay,2022,LeftFoot,19636,Hertha Berlin,Bochum,1,1,2023-05-20 13:30:00,Kevin Stöger,Pass
+529012,18,Goal,0.935,0.5329999923706055,0.45103028416633606,Philipp Förster,h,9076,OpenPlay,2022,LeftFoot,19646,Bochum,Bayer Leverkusen,3,0,2023-05-27 13:30:00,Takuma Asano,Cross
+541086,50,BlockedShot,0.8430000305175781,0.519000015258789,0.08729777485132217,Philipp Förster,h,9076,OpenPlay,2023,RightFoot,23111,Bochum,Borussia M.Gladbach,1,3,2023-09-30 13:30:00,Christopher Antwi-Adjei,Pass
+558576,81,SavedShot,0.8980000305175782,0.42700000762939455,0.11031462252140045,Philipp Förster,h,9076,OpenPlay,2023,RightFoot,23215,Bochum,Werder Bremen,1,1,2024-01-14 14:30:00,,None
+559027,22,MissedShots,0.7330000305175781,0.5359999847412109,0.010870316997170448,Philipp Förster,h,9076,OpenPlay,2023,LeftFoot,23224,Bochum,VfB Stuttgart,1,0,2024-01-20 14:30:00,,Aerial
+559031,52,BlockedShot,0.8719999694824219,0.519000015258789,0.060331132262945175,Philipp Förster,h,9076,OpenPlay,2023,LeftFoot,23224,Bochum,VfB Stuttgart,1,0,2024-01-20 14:30:00,,Aerial
+564606,96,BlockedShot,0.8080000305175781,0.46900001525878904,0.06209928169846535,Philipp Förster,h,9076,OpenPlay,2023,LeftFoot,23260,Bochum,Bayern Munich,3,2,2024-02-18 16:30:00,Kevin Stöger,Pass
+568656,46,BlockedShot,0.7930000305175782,0.47900001525878905,0.042613059282302856,Philipp Förster,h,9076,OpenPlay,2023,LeftFoot,23287,Bochum,Freiburg,1,2,2024-03-10 14:30:00,Moritz Broschinski,Pass

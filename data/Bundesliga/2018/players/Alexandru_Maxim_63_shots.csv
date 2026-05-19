@@ -1,0 +1,104 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+24391,16,MissedShots,0.7809999847412109,0.6719999694824219,0.06810879707336426,Alexandru Maxim,a,63,DirectFreekick,2014,RightFoot,5455,Borussia M.Gladbach,VfB Stuttgart,1,1,2014-08-24 16:30:00,,Standard
+24396,50,Goal,0.9390000152587891,0.33099998474121095,0.06457850337028503,Alexandru Maxim,a,63,OpenPlay,2014,RightFoot,5455,Borussia M.Gladbach,VfB Stuttgart,1,1,2014-08-24 16:30:00,Christian Gentner,Chipped
+24742,15,SavedShot,0.750999984741211,0.7830000305175782,0.013220099732279778,Alexandru Maxim,h,63,OpenPlay,2014,RightFoot,5458,VfB Stuttgart,FC Cologne,0,2,2014-08-30 14:30:00,Gotoku Sakai,Pass
+24743,16,BlockedShot,0.8619999694824219,0.7130000305175781,0.017280099913477898,Alexandru Maxim,h,63,OpenPlay,2014,RightFoot,5458,VfB Stuttgart,FC Cologne,0,2,2014-08-30 14:30:00,Daniel Didavi,Aerial
+25181,80,SavedShot,0.9409999847412109,0.32099998474121094,0.230880007147789,Alexandru Maxim,h,63,OpenPlay,2014,RightFoot,5421,VfB Stuttgart,Hoffenheim,0,2,2014-09-20 14:30:00,Daniel Didavi,Chipped
+25185,90,MissedShots,0.9490000152587891,0.595999984741211,0.2361699938774109,Alexandru Maxim,h,63,FromCorner,2014,LeftFoot,5421,VfB Stuttgart,Hoffenheim,0,2,2014-09-20 14:30:00,Daniel Schwaab,Chipped
+26111,83,SavedShot,0.7269999694824218,0.870999984741211,0.024584399536252022,Alexandru Maxim,h,63,DirectFreekick,2014,RightFoot,5396,VfB Stuttgart,Bayer Leverkusen,3,3,2014-10-18 14:30:00,,Standard
+26415,2,BlockedShot,0.86,0.580999984741211,0.0698373019695282,Alexandru Maxim,a,63,OpenPlay,2014,LeftFoot,5402,Eintracht Frankfurt,VfB Stuttgart,4,5,2014-10-25 14:30:00,,None
+26429,35,MissedShots,0.9,0.4370000076293945,0.3994370102882385,Alexandru Maxim,a,63,OpenPlay,2014,RightFoot,5402,Eintracht Frankfurt,VfB Stuttgart,4,5,2014-10-25 14:30:00,Sercan Sararer,Pass
+26436,49,MissedShots,0.740999984741211,0.5940000152587891,0.05694279819726944,Alexandru Maxim,a,63,DirectFreekick,2014,RightFoot,5402,Eintracht Frankfurt,VfB Stuttgart,4,5,2014-10-25 14:30:00,,Standard
+26610,34,MissedShots,0.7390000152587891,0.69,0.009551170282065868,Alexandru Maxim,h,63,OpenPlay,2014,RightFoot,5350,VfB Stuttgart,Wolfsburg,0,4,2014-11-01 14:30:00,,Aerial
+26613,36,MissedShots,0.735999984741211,0.3609999847412109,0.010040299966931343,Alexandru Maxim,h,63,OpenPlay,2014,LeftFoot,5350,VfB Stuttgart,Wolfsburg,0,4,2014-11-01 14:30:00,,Aerial
+26614,37,SavedShot,0.8730000305175781,0.524000015258789,0.37265101075172424,Alexandru Maxim,h,63,OpenPlay,2014,RightFoot,5350,VfB Stuttgart,Wolfsburg,0,4,2014-11-01 14:30:00,Martin Harnik,Pass
+26628,83,MissedShots,0.8909999847412109,0.44599998474121094,0.035019401460886,Alexandru Maxim,h,63,OpenPlay,2014,Head,5350,VfB Stuttgart,Wolfsburg,0,4,2014-11-01 14:30:00,Christian Gentner,Chipped
+26856,34,MissedShots,0.7269999694824218,0.485,0.014668400399386883,Alexandru Maxim,a,63,OpenPlay,2014,RightFoot,5362,Werder Bremen,VfB Stuttgart,2,0,2014-11-08 17:30:00,Christian Gentner,TakeOn
+27809,33,SavedShot,0.730999984741211,0.5329999923706055,0.016702499240636826,Alexandru Maxim,a,63,OpenPlay,2014,RightFoot,5331,Hamburger SV,VfB Stuttgart,0,1,2014-12-16 19:00:00,Christian Gentner,Pass
+27808,33,BlockedShot,0.7630000305175781,0.53,0.02688859961926937,Alexandru Maxim,a,63,OpenPlay,2014,RightFoot,5331,Hamburger SV,VfB Stuttgart,0,1,2014-12-16 19:00:00,Daniel Schwaab,Pass
+27813,37,BlockedShot,0.769000015258789,0.585,0.019616199657320976,Alexandru Maxim,a,63,OpenPlay,2014,RightFoot,5331,Hamburger SV,VfB Stuttgart,0,1,2014-12-16 19:00:00,,Rebound
+29414,88,MissedShots,0.745,0.5570000076293945,0.06315039843320847,Alexandru Maxim,h,63,DirectFreekick,2014,RightFoot,5308,VfB Stuttgart,Borussia M.Gladbach,0,1,2015-01-31 14:30:00,,Standard
+30750,53,BlockedShot,0.7480000305175781,0.509000015258789,0.06777670234441757,Alexandru Maxim,a,63,DirectFreekick,2014,RightFoot,5242,Bayer Leverkusen,VfB Stuttgart,4,0,2015-03-13 19:30:00,,Standard
+30751,54,BlockedShot,0.7480000305175781,0.555,0.015009700320661068,Alexandru Maxim,a,63,SetPiece,2014,LeftFoot,5242,Bayer Leverkusen,VfB Stuttgart,4,0,2015-03-13 19:30:00,,Rebound
+30753,55,SavedShot,0.8580000305175781,0.89,0.037582799792289734,Alexandru Maxim,a,63,DirectFreekick,2014,RightFoot,5242,Bayer Leverkusen,VfB Stuttgart,4,0,2015-03-13 19:30:00,,Standard
+32061,79,Goal,0.9440000152587891,0.485,0.6278120279312134,Alexandru Maxim,h,63,OpenPlay,2014,RightFoot,5256,VfB Stuttgart,Eintracht Frankfurt,3,1,2015-03-21 14:30:00,Filip Kostic,Pass
+31275,64,BlockedShot,0.755,0.764000015258789,0.03825020045042038,Alexandru Maxim,h,63,DirectFreekick,2014,RightFoot,5212,VfB Stuttgart,Werder Bremen,3,2,2015-04-12 16:30:00,,Standard
+31281,80,BlockedShot,0.889000015258789,0.2879999923706055,0.05204769968986511,Alexandru Maxim,h,63,OpenPlay,2014,RightFoot,5212,VfB Stuttgart,Werder Bremen,3,2,2015-04-12 16:30:00,Daniel Ginczek,Pass
+30368,25,MissedShots,0.7869999694824219,0.27,0.03868740051984787,Alexandru Maxim,a,63,OpenPlay,2014,RightFoot,5159,Schalke 04,VfB Stuttgart,3,2,2015-05-02 14:30:00,Daniel Ginczek,BallRecovery
+30370,30,BlockedShot,0.7580000305175781,0.524000015258789,0.024107199162244797,Alexandru Maxim,a,63,OpenPlay,2014,RightFoot,5159,Schalke 04,VfB Stuttgart,3,2,2015-05-02 14:30:00,Christian Gentner,Pass
+76922,69,MissedShots,0.7869999694824219,0.6419999694824219,0.031198600307106972,Alexandru Maxim,a,63,OpenPlay,2015,RightFoot,1051,Hertha Berlin,VfB Stuttgart,2,1,2015-09-12 17:30:00,Robbie Kruse,LayOff
+77053,32,MissedShots,0.7440000152587891,0.705,0.043266501277685165,Alexandru Maxim,h,63,DirectFreekick,2015,RightFoot,1063,VfB Stuttgart,Schalke 04,0,1,2015-09-20 17:30:00,,Standard
+77061,42,MissedShots,0.9680000305175781,0.590999984741211,0.09881000220775604,Alexandru Maxim,h,63,OpenPlay,2015,RightFoot,1063,VfB Stuttgart,Schalke 04,0,1,2015-09-20 17:30:00,Filip Kostic,Cross
+77342,77,SavedShot,0.8519999694824218,0.43400001525878906,0.09964410215616226,Alexandru Maxim,a,63,OpenPlay,2015,RightFoot,1074,Hannover 96,VfB Stuttgart,1,3,2015-09-23 22:00:00,Daniel Ginczek,Pass
+77343,79,SavedShot,0.875999984741211,0.815,0.06055980175733566,Alexandru Maxim,a,63,DirectFreekick,2015,RightFoot,1074,Hannover 96,VfB Stuttgart,1,3,2015-09-23 22:00:00,,Standard
+77346,89,Goal,0.7480000305175781,0.2979999923706055,0.019499899819493294,Alexandru Maxim,a,63,OpenPlay,2015,RightFoot,1074,Hannover 96,VfB Stuttgart,1,3,2015-09-23 22:00:00,Daniel Ginczek,BallRecovery
+77535,68,MissedShots,0.955999984741211,0.46099998474121096,0.5841519832611084,Alexandru Maxim,h,63,OpenPlay,2015,RightFoot,1077,VfB Stuttgart,Borussia M.Gladbach,1,3,2015-09-26 17:30:00,Florian Klein,Pass
+77536,73,BlockedShot,0.715,0.5990000152587891,0.04330449923872948,Alexandru Maxim,h,63,DirectFreekick,2015,RightFoot,1077,VfB Stuttgart,Borussia M.Gladbach,1,3,2015-09-26 17:30:00,,Standard
+77542,80,SavedShot,0.9069999694824219,0.33099998474121095,0.06722469627857208,Alexandru Maxim,h,63,OpenPlay,2015,RightFoot,1077,VfB Stuttgart,Borussia M.Gladbach,1,3,2015-09-26 17:30:00,Daniel Ginczek,Pass
+78011,50,MissedShots,0.8440000152587891,0.73,0.028655799105763435,Alexandru Maxim,h,63,OpenPlay,2015,RightFoot,1101,VfB Stuttgart,Ingolstadt,1,0,2015-10-18 19:30:00,Timo Werner,Pass
+78490,67,BlockedShot,0.7440000152587891,0.7380000305175781,0.038726698607206345,Alexandru Maxim,h,63,DirectFreekick,2015,RightFoot,1118,VfB Stuttgart,Darmstadt,2,0,2015-11-01 18:30:00,,Standard
+79793,25,SavedShot,0.8109999847412109,0.534000015258789,0.05603620037436485,Alexandru Maxim,a,63,OpenPlay,2015,RightFoot,1156,Mainz 05,VfB Stuttgart,0,0,2015-12-11 23:30:00,Lukas Rupp,Pass
+80819,17,SavedShot,0.9919999694824219,0.990999984741211,0.013113399967551231,Alexandru Maxim,h,63,FromCorner,2015,RightFoot,1205,VfB Stuttgart,Hertha Berlin,2,0,2016-02-13 18:30:00,,CornerAwarded
+80825,50,SavedShot,0.845999984741211,0.2620000076293945,0.028213299810886383,Alexandru Maxim,h,63,OpenPlay,2015,RightFoot,1205,VfB Stuttgart,Hertha Berlin,2,0,2016-02-13 18:30:00,Christian Gentner,Pass
+81040,71,MissedShots,0.86,0.32799999237060545,0.027058999985456467,Alexandru Maxim,a,63,OpenPlay,2015,RightFoot,1218,Schalke 04,VfB Stuttgart,1,1,2016-02-21 20:30:00,Lukas Rupp,Chipped
+81045,81,SavedShot,0.7069999694824218,0.8480000305175781,0.024085700511932373,Alexandru Maxim,a,63,DirectFreekick,2015,LeftFoot,1218,Schalke 04,VfB Stuttgart,1,1,2016-02-21 20:30:00,,Standard
+81295,20,MissedShots,0.7180000305175781,0.595999984741211,0.021976999938488007,Alexandru Maxim,h,63,OpenPlay,2015,RightFoot,1223,VfB Stuttgart,Hannover 96,1,2,2016-02-27 18:30:00,Christian Gentner,Pass
+81299,35,BlockedShot,0.875,0.555,0.03297730162739754,Alexandru Maxim,h,63,OpenPlay,2015,Head,1223,VfB Stuttgart,Hannover 96,1,2,2016-02-27 18:30:00,Filip Kostic,Cross
+81302,36,BlockedShot,0.7819999694824219,0.5259999847412109,0.036326199769973755,Alexandru Maxim,h,63,FromCorner,2015,RightFoot,1223,VfB Stuttgart,Hannover 96,1,2,2016-02-27 18:30:00,Christian Gentner,Pass
+81308,65,BlockedShot,0.8190000152587891,0.5940000152587891,0.1433670073747635,Alexandru Maxim,h,63,DirectFreekick,2015,RightFoot,1223,VfB Stuttgart,Hannover 96,1,2,2016-02-27 18:30:00,,Standard
+81310,65,SavedShot,0.965999984741211,0.5540000152587891,0.6329839825630188,Alexandru Maxim,h,63,SetPiece,2015,RightFoot,1223,VfB Stuttgart,Hannover 96,1,2,2016-02-27 18:30:00,Lukas Rupp,Rebound
+82299,68,MissedShots,0.935,0.6020000076293945,0.09930209815502167,Alexandru Maxim,h,63,OpenPlay,2015,LeftFoot,1262,VfB Stuttgart,Bayer Leverkusen,0,2,2016-03-20 18:30:00,,Rebound
+82300,70,SavedShot,0.7830000305175782,0.5429999923706055,0.03625459969043732,Alexandru Maxim,h,63,OpenPlay,2015,RightFoot,1262,VfB Stuttgart,Bayer Leverkusen,0,2,2016-03-20 18:30:00,Boris Tashchy,Pass
+82302,71,SavedShot,0.855,0.45099998474121095,0.058845698833465576,Alexandru Maxim,h,63,OpenPlay,2015,RightFoot,1262,VfB Stuttgart,Bayer Leverkusen,0,2,2016-03-20 18:30:00,Lukas Rupp,Rebound
+82924,82,SavedShot,0.8109999847412109,0.8030000305175782,0.046711601316928864,Alexandru Maxim,a,63,DirectFreekick,2015,RightFoot,1286,Augsburg,VfB Stuttgart,1,0,2016-04-16 17:30:00,,Standard
+82925,84,MissedShots,0.7909999847412109,0.45799999237060546,0.027676399797201157,Alexandru Maxim,a,63,FromCorner,2015,RightFoot,1286,Augsburg,VfB Stuttgart,1,0,2016-04-16 17:30:00,,None
+83404,85,MissedShots,0.6530000305175782,0.37599998474121094,0.0072067901492118835,Alexandru Maxim,a,63,OpenPlay,2015,RightFoot,1308,Werder Bremen,VfB Stuttgart,6,2,2016-05-02 22:15:00,Martin Harnik,Pass
+83582,3,MissedShots,0.8519999694824218,0.27399999618530274,0.032235100865364075,Alexandru Maxim,h,63,OpenPlay,2015,RightFoot,1312,VfB Stuttgart,Mainz 05,1,3,2016-05-07 17:30:00,Daniel Didavi,Pass
+83592,42,BlockedShot,0.8809999847412109,0.6990000152587891,0.1342729926109314,Alexandru Maxim,h,63,OpenPlay,2015,RightFoot,1312,VfB Stuttgart,Mainz 05,1,3,2016-05-07 17:30:00,Filip Kostic,TakeOn
+83937,85,SavedShot,0.7730000305175782,0.5579999923706055,0.08772660046815872,Alexandru Maxim,a,63,DirectFreekick,2015,RightFoot,1325,Wolfsburg,VfB Stuttgart,3,1,2016-05-14 17:30:00,,Standard
+165944,22,BlockedShot,0.865,0.7480000305175781,0.02991659939289093,Alexandru Maxim,h,63,OpenPlay,2017,RightFoot,8263,Mainz 05,Hannover 96,0,1,2017-08-19 14:30:00,Daniel Brosinski,Pass
+166207,45,MissedShots,0.8519999694824218,0.7440000152587891,0.02856989949941635,Alexandru Maxim,a,63,OpenPlay,2017,LeftFoot,8273,VfB Stuttgart,Mainz 05,1,0,2017-08-26 14:30:00,Robin Quaison,Pass
+166208,49,MissedShots,0.6680000305175782,0.3770000076293945,0.011519400402903557,Alexandru Maxim,a,63,OpenPlay,2017,RightFoot,8273,VfB Stuttgart,Mainz 05,1,0,2017-08-26 14:30:00,Daniel Brosinski,Pass
+167482,66,BlockedShot,0.7140000152587891,0.5220000076293946,0.015889400616288185,Alexandru Maxim,a,63,OpenPlay,2017,RightFoot,8318,Wolfsburg,Mainz 05,1,1,2017-09-30 14:30:00,Danny Latza,Pass
+167487,89,BlockedShot,0.8119999694824219,0.30700000762939456,0.08249639719724655,Alexandru Maxim,a,63,DirectFreekick,2017,RightFoot,8318,Wolfsburg,Mainz 05,1,1,2017-09-30 14:30:00,,Standard
+167831,1,Goal,0.89,0.39799999237060546,0.10411199927330017,Alexandru Maxim,h,63,OpenPlay,2017,RightFoot,8328,Mainz 05,Hamburger SV,3,2,2017-10-14 14:30:00,Giulio Donati,Pass
+167835,15,BlockedShot,0.855999984741211,0.34,0.07022389769554138,Alexandru Maxim,h,63,OpenPlay,2017,LeftFoot,8328,Mainz 05,Hamburger SV,3,2,2017-10-14 14:30:00,Robin Quaison,TakeOn
+167838,36,BlockedShot,0.835999984741211,0.580999984741211,0.06816039979457855,Alexandru Maxim,h,63,OpenPlay,2017,LeftFoot,8328,Mainz 05,Hamburger SV,3,2,2017-10-14 14:30:00,Pablo De Blasis,Pass
+167840,47,MissedShots,0.775,0.29100000381469726,0.018914399668574333,Alexandru Maxim,h,63,OpenPlay,2017,RightFoot,8328,Mainz 05,Hamburger SV,3,2,2017-10-14 14:30:00,Giulio Donati,TakeOn
+167508,70,MissedShots,0.7969999694824219,0.32799999237060545,0.027275800704956055,Alexandru Maxim,a,63,OpenPlay,2017,RightFoot,8352,Borussia M.Gladbach,Mainz 05,1,1,2017-11-04 14:30:00,Levin Öztunali,Pass
+168070,8,SavedShot,0.72,0.7419999694824219,0.010675800032913685,Alexandru Maxim,h,63,OpenPlay,2017,RightFoot,8364,Mainz 05,FC Cologne,1,0,2017-11-18 14:30:00,Yoshinori Muto,Pass
+168071,12,MissedShots,0.899000015258789,0.48700000762939455,0.2668980062007904,Alexandru Maxim,h,63,OpenPlay,2017,Head,8364,Mainz 05,FC Cologne,1,0,2017-11-18 14:30:00,Daniel Brosinski,Cross
+168081,52,MissedShots,0.715999984741211,0.595999984741211,0.018471600487828255,Alexandru Maxim,h,63,OpenPlay,2017,RightFoot,8364,Mainz 05,FC Cologne,1,0,2017-11-18 14:30:00,Daniel Brosinski,Pass
+168390,26,MissedShots,0.8719999694824219,0.28899999618530275,0.035817500203847885,Alexandru Maxim,a,63,OpenPlay,2017,RightFoot,8370,Freiburg,Mainz 05,2,1,2017-11-25 14:30:00,Daniel Brosinski,Pass
+168394,37,MissedShots,0.8580000305175781,0.4,0.07447750121355057,Alexandru Maxim,a,63,OpenPlay,2017,LeftFoot,8370,Freiburg,Mainz 05,2,1,2017-11-25 14:30:00,Alexander Hack,Pass
+169033,28,SavedShot,0.8030000305175782,0.5940000152587891,0.03675460070371628,Alexandru Maxim,h,63,OpenPlay,2017,RightFoot,8383,Mainz 05,Augsburg,1,3,2017-12-02 14:30:00,,None
+169037,40,BlockedShot,0.73,0.45099998474121095,0.01832449994981289,Alexandru Maxim,h,63,OpenPlay,2017,RightFoot,8383,Mainz 05,Augsburg,1,3,2017-12-02 14:30:00,Levin Öztunali,Pass
+169038,40,BlockedShot,0.73,0.45099998474121095,0.017557499930262566,Alexandru Maxim,h,63,OpenPlay,2017,LeftFoot,8383,Mainz 05,Augsburg,1,3,2017-12-02 14:30:00,,Rebound
+169043,63,MissedShots,0.7190000152587891,0.4909999847412109,0.011895299889147282,Alexandru Maxim,h,63,OpenPlay,2017,RightFoot,8383,Mainz 05,Augsburg,1,3,2017-12-02 14:30:00,Danny Latza,TakeOn
+169046,77,MissedShots,0.73,0.6079999923706054,0.018247799947857857,Alexandru Maxim,h,63,OpenPlay,2017,RightFoot,8383,Mainz 05,Augsburg,1,3,2017-12-02 14:30:00,Danny Latza,Pass
+184092,68,MissedShots,0.6630000305175782,0.3659999847412109,0.011517399922013283,Alexandru Maxim,h,63,OpenPlay,2017,RightFoot,8401,Mainz 05,Borussia Dortmund,0,2,2017-12-12 19:30:00,Alexander Hack,Pass
+183749,84,MissedShots,0.8219999694824218,0.29700000762939455,0.02747879922389984,Alexandru Maxim,a,63,OpenPlay,2017,RightFoot,8409,Werder Bremen,Mainz 05,2,2,2017-12-16 14:30:00,Fabian Frei,Pass
+187282,14,SavedShot,0.745999984741211,0.29399999618530276,0.014897099696099758,Alexandru Maxim,a,63,OpenPlay,2017,RightFoot,8419,Hannover 96,Mainz 05,3,2,2018-01-13 14:30:00,Jean-Philippe Gbamin,TakeOn
+194864,19,MissedShots,0.915,0.7090000152587891,0.04604009911417961,Alexandru Maxim,h,63,OpenPlay,2017,RightFoot,8445,Mainz 05,Bayern Munich,0,2,2018-02-03 14:30:00,Jean-Philippe Gbamin,Pass
+199730,69,BlockedShot,0.865,0.475,0.09309159964323044,Alexandru Maxim,h,63,OpenPlay,2017,RightFoot,8487,Mainz 05,Schalke 04,0,1,2018-03-09 19:30:00,Karim Onisiwo,Pass
+201342,38,MissedShots,0.7569999694824219,0.4179999923706055,0.02219259925186634,Alexandru Maxim,a,63,OpenPlay,2017,LeftFoot,8495,Eintracht Frankfurt,Mainz 05,3,0,2018-03-17 14:30:00,Daniel Brosinski,Pass
+212413,84,Goal,0.8619999694824219,0.48200000762939454,0.3909370005130768,Alexandru Maxim,h,63,OpenPlay,2017,LeftFoot,8545,Mainz 05,RasenBallsport Leipzig,3,0,2018-04-29 13:30:00,Yoshinori Muto,Pass
+223448,90,MissedShots,0.8480000305175781,0.3820000076293945,0.06981729716062546,Alexandru Maxim,h,63,OpenPlay,2018,RightFoot,10357,Mainz 05,Augsburg,2,1,2018-09-15 13:30:00,Daniel Brosinski,Pass
+223449,92,Goal,0.8109999847412109,0.40900001525878904,0.017705900594592094,Alexandru Maxim,h,63,OpenPlay,2018,RightFoot,10357,Mainz 05,Augsburg,2,1,2018-09-15 13:30:00,,Aerial
+226760,18,MissedShots,0.769000015258789,0.4370000076293945,0.01865440048277378,Alexandru Maxim,h,63,SetPiece,2018,RightFoot,10381,Mainz 05,Wolfsburg,0,0,2018-09-26 18:30:00,,None
+226768,57,MissedShots,0.7709999847412109,0.6930000305175781,0.05717489868402481,Alexandru Maxim,h,63,DirectFreekick,2018,RightFoot,10381,Mainz 05,Wolfsburg,0,0,2018-09-26 18:30:00,,Standard
+227828,84,SavedShot,0.9209999847412109,0.3089999961853027,0.05001790076494217,Alexandru Maxim,a,63,OpenPlay,2018,RightFoot,10384,Schalke 04,Mainz 05,1,0,2018-09-29 13:30:00,Jean-Paul Boëtius,Pass
+255752,93,BlockedShot,0.8719999694824219,0.48,0.07337850332260132,Alexandru Maxim,h,63,OpenPlay,2018,RightFoot,10415,Mainz 05,Bayern Munich,1,2,2018-10-27 13:30:00,Robin Quaison,BallTouch
+257186,69,BlockedShot,0.7519999694824219,0.34900001525878904,0.019259799271821976,Alexandru Maxim,h,63,OpenPlay,2018,RightFoot,10461,Mainz 05,Hannover 96,1,1,2018-12-09 14:30:00,Danny Latza,Pass
+278633,56,BlockedShot,0.8390000152587891,0.25,0.02554829977452755,Alexandru Maxim,h,63,OpenPlay,2018,RightFoot,10505,Mainz 05,Nuernberg,2,1,2019-01-26 14:30:00,Jean-Paul Boëtius,Pass
+278916,88,MissedShots,0.9,0.3220000076293945,0.06562180072069168,Alexandru Maxim,a,63,OpenPlay,2018,RightFoot,10512,Augsburg,Mainz 05,3,0,2019-02-03 14:30:00,Robin Quaison,Pass
+295117,65,MissedShots,0.9430000305175781,0.8530000305175781,0.057367898523807526,Alexandru Maxim,h,63,DirectFreekick,2018,RightFoot,10606,Mainz 05,Fortuna Duesseldorf,3,1,2019-04-20 14:30:00,,Standard
+297257,52,BlockedShot,0.89,0.7469999694824219,0.03203359991312027,Alexandru Maxim,a,63,OpenPlay,2018,RightFoot,10613,Hannover 96,Mainz 05,1,0,2019-04-27 14:30:00,Aarón Martín,Pass
+297261,64,BlockedShot,0.8809999847412109,0.740999984741211,0.028088899329304695,Alexandru Maxim,a,63,OpenPlay,2018,RightFoot,10613,Hannover 96,Mainz 05,1,0,2019-04-27 14:30:00,Aarón Martín,TakeOn
+297265,80,BlockedShot,0.885,0.46799999237060547,0.31970998644828796,Alexandru Maxim,a,63,OpenPlay,2018,RightFoot,10613,Hannover 96,Mainz 05,1,0,2019-04-27 14:30:00,Anthony Ujah,Chipped
+302252,56,BlockedShot,0.8959999847412109,0.580999984741211,0.08202110230922699,Alexandru Maxim,h,63,OpenPlay,2018,LeftFoot,10642,Mainz 05,Hoffenheim,4,2,2019-05-18 13:30:00,Karim Onisiwo,Foul
+302254,58,MissedShots,0.754000015258789,0.37900001525878907,0.019952399656176567,Alexandru Maxim,h,63,OpenPlay,2018,RightFoot,10642,Mainz 05,Hoffenheim,4,2,2019-05-18 13:30:00,Jean-Philippe Gbamin,Pass
+302261,79,SavedShot,0.9009999847412109,0.6090000152587891,0.0352804996073246,Alexandru Maxim,h,63,OpenPlay,2018,Head,10642,Mainz 05,Hoffenheim,4,2,2019-05-18 13:30:00,Aarón Martín,Cross
+322472,67,BlockedShot,0.8209999847412109,0.33599998474121096,0.03327609971165657,Alexandru Maxim,h,63,OpenPlay,2019,RightFoot,12450,Mainz 05,Wolfsburg,0,1,2019-09-28 13:30:00,,None
+330557,63,MissedShots,0.9159999847412109,0.33,0.06183589994907379,Alexandru Maxim,h,63,OpenPlay,2019,RightFoot,12495,Mainz 05,Union Berlin,2,3,2019-11-09 14:30:00,Karim Onisiwo,BallTouch
+336910,82,MissedShots,0.7219999694824218,0.6580000305175782,0.009888529777526855,Alexandru Maxim,h,63,OpenPlay,2019,RightFoot,12534,Mainz 05,Borussia Dortmund,0,4,2019-12-14 14:30:00,,BallRecovery

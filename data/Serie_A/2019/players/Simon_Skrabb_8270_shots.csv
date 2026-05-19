@@ -1,0 +1,4 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+359705,70,MissedShots,0.7619999694824219,0.3840000152587891,0.022540900856256485,Simon Skrabb,h,8270,OpenPlay,2019,LeftFoot,13331,Brescia,Napoli,1,2,2020-02-21 19:45:00,Dimitri Bisoli,Pass
+365964,49,SavedShot,0.8919999694824219,0.28600000381469726,0.03799330070614815,Simon Skrabb,a,8270,OpenPlay,2019,RightFoot,13351,Fiorentina,Brescia,1,1,2020-06-22 17:30:00,Alfredo Donnarumma,TakeOn
+368041,34,BlockedShot,0.8109999847412109,0.524000015258789,0.029431400820612907,Simon Skrabb,a,8270,OpenPlay,2019,LeftFoot,13378,Inter,Brescia,6,0,2020-07-01 17:30:00,,Rebound

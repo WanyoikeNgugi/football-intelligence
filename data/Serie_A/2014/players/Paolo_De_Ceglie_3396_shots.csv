@@ -1,0 +1,12 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+42415,45,MissedShots,0.8819999694824219,0.7140000152587891,0.04417259991168976,Paolo De Ceglie,h,3396,OpenPlay,2014,LeftFoot,5136,Parma,Roma,1,2,2014-09-24 19:45:00,José Mauri,Pass
+42418,55,Goal,0.9419999694824219,0.4759999847412109,0.1276320070028305,Paolo De Ceglie,h,3396,FromCorner,2014,Head,5136,Parma,Roma,1,2,2014-09-24 19:45:00,Francesco Lodi,Cross
+42936,56,MissedShots,0.8569999694824219,0.71,0.03319380059838295,Paolo De Ceglie,h,3396,OpenPlay,2014,LeftFoot,5072,Parma,Genoa,1,2,2014-10-05 14:00:00,José Mauri,Pass
+43457,47,MissedShots,0.9490000152587891,0.47400001525878904,0.15250399708747864,Paolo De Ceglie,h,3396,OpenPlay,2014,Head,5090,Parma,Sassuolo,1,3,2014-10-25 17:00:00,Afriyie Acquah,Cross
+43943,4,Goal,0.9459999847412109,0.5479999923706055,0.47145798802375793,Paolo De Ceglie,h,3396,OpenPlay,2014,RightFoot,5032,Parma,Inter,2,0,2014-11-01 19:45:00,Andrea Rispoli,Cross
+43961,75,Goal,0.9769999694824218,0.5329999923706055,0.8104169964790344,Paolo De Ceglie,h,3396,OpenPlay,2014,LeftFoot,5032,Parma,Inter,2,0,2014-11-01 19:45:00,,Rebound
+43964,88,SavedShot,0.9440000152587891,0.715,0.07107540220022202,Paolo De Ceglie,h,3396,OpenPlay,2014,LeftFoot,5032,Parma,Inter,2,0,2014-11-01 19:45:00,Antonio Cassano,Pass
+45290,4,MissedShots,0.91,0.705999984741211,0.026138899847865105,Paolo De Ceglie,h,3396,OpenPlay,2014,LeftFoot,5014,Parma,Cagliari,0,0,2014-12-14 14:00:00,Andrea Rispoli,Cross
+64507,14,MissedShots,0.8519999694824218,0.674000015258789,0.04444669932126999,Paolo De Ceglie,h,3396,OpenPlay,2015,LeftFoot,1944,Marseille,Angers,1,2,2015-09-27 16:00:00,,None
+64534,82,MissedShots,0.9169999694824219,0.5979999923706054,0.051061298698186874,Paolo De Ceglie,h,3396,OpenPlay,2015,Head,1944,Marseille,Angers,1,2,2015-09-27 16:00:00,Brice Dja Djédjé,Cross
+66586,95,SavedShot,0.925,0.47400001525878904,0.12672999501228333,Paolo De Ceglie,h,3396,SetPiece,2015,Head,2089,Marseille,Lille,1,1,2016-01-29 23:30:00,Bouna Sarr,Cross

@@ -1,0 +1,207 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+311191,7,BlockedShot,0.9230000305175782,0.5940000152587891,0.12537500262260437,Robert Andrich,h,7877,OpenPlay,2019,LeftFoot,12411,Union Berlin,RasenBallsport Leipzig,0,4,2019-08-18 17:00:00,Marius Bülter,Pass
+311198,29,MissedShots,0.7780000305175782,0.49900001525878906,0.023985600098967552,Robert Andrich,h,7877,FromCorner,2019,RightFoot,12411,Union Berlin,RasenBallsport Leipzig,0,4,2019-08-18 17:00:00,,None
+311208,60,BlockedShot,0.715,0.44099998474121094,0.009244030341506004,Robert Andrich,h,7877,OpenPlay,2019,RightFoot,12411,Union Berlin,RasenBallsport Leipzig,0,4,2019-08-18 17:00:00,,None
+311209,62,MissedShots,0.8090000152587891,0.6880000305175781,0.020661799237132072,Robert Andrich,h,7877,OpenPlay,2019,LeftFoot,12411,Union Berlin,RasenBallsport Leipzig,0,4,2019-08-18 17:00:00,,None
+311211,62,SavedShot,0.735999984741211,0.7180000305175781,0.038884300738573074,Robert Andrich,h,7877,DirectFreekick,2019,RightFoot,12411,Union Berlin,RasenBallsport Leipzig,0,4,2019-08-18 17:00:00,,Standard
+312451,43,BlockedShot,0.789000015258789,0.6,0.03213119879364967,Robert Andrich,a,7877,OpenPlay,2019,RightFoot,12417,Augsburg,Union Berlin,1,1,2019-08-24 14:30:00,Grischa Prömel,Pass
+312452,43,BlockedShot,0.8280000305175781,0.44099998474121094,0.05633629858493805,Robert Andrich,a,7877,OpenPlay,2019,RightFoot,12417,Augsburg,Union Berlin,1,1,2019-08-24 14:30:00,,None
+312457,67,BlockedShot,0.735,0.705,0.010967600159347057,Robert Andrich,a,7877,OpenPlay,2019,RightFoot,12417,Augsburg,Union Berlin,1,1,2019-08-24 14:30:00,,None
+316044,53,MissedShots,0.7440000152587891,0.53,0.023330099880695343,Robert Andrich,h,7877,FromCorner,2019,RightFoot,12427,Union Berlin,Borussia Dortmund,3,1,2019-08-31 17:30:00,,Rebound
+322251,28,MissedShots,0.775,0.3890000152587891,0.027136700227856636,Robert Andrich,h,7877,OpenPlay,2019,LeftFoot,12448,Union Berlin,Eintracht Frankfurt,1,2,2019-09-27 18:30:00,Christian Gentner,Pass
+324891,35,MissedShots,0.7030000305175781,0.7440000152587891,0.011041499674320221,Robert Andrich,a,7877,OpenPlay,2019,RightFoot,12463,Wolfsburg,Union Berlin,1,0,2019-10-06 14:30:00,Marius Bülter,Pass
+324892,37,MissedShots,0.7269999694824218,0.735,0.034566398710012436,Robert Andrich,a,7877,DirectFreekick,2019,RightFoot,12463,Wolfsburg,Union Berlin,1,0,2019-10-06 14:30:00,,Standard
+324895,45,MissedShots,0.8019999694824219,0.28,0.01799830049276352,Robert Andrich,a,7877,OpenPlay,2019,RightFoot,12463,Wolfsburg,Union Berlin,1,0,2019-10-06 14:30:00,,None
+324903,81,MissedShots,0.7730000305175782,0.6020000076293945,0.011649100109934807,Robert Andrich,a,7877,OpenPlay,2019,RightFoot,12463,Wolfsburg,Union Berlin,1,0,2019-10-06 14:30:00,,Aerial
+324907,95,MissedShots,0.7569999694824219,0.5270000076293946,0.014463599771261215,Robert Andrich,a,7877,OpenPlay,2019,RightFoot,12463,Wolfsburg,Union Berlin,1,0,2019-10-06 14:30:00,Sebastian Andersson,HeadPass
+325422,67,BlockedShot,0.745,0.639000015258789,0.023519599810242653,Robert Andrich,h,7877,OpenPlay,2019,RightFoot,12468,Union Berlin,Freiburg,2,0,2019-10-19 14:30:00,Christopher Lenz,Pass
+329458,18,SavedShot,0.7169999694824218,0.5329999923706055,0.01590299978852272,Robert Andrich,h,7877,OpenPlay,2019,RightFoot,12492,Union Berlin,Hertha Berlin,1,0,2019-11-02 17:30:00,Christopher Lenz,Pass
+329465,59,BlockedShot,0.7530000305175781,0.27399999618530274,0.015666000545024872,Robert Andrich,h,7877,OpenPlay,2019,LeftFoot,12492,Union Berlin,Hertha Berlin,1,0,2019-11-02 17:30:00,Christopher Trimmel,Pass
+329467,59,MissedShots,0.705,0.5059999847412109,0.013996800407767296,Robert Andrich,h,7877,OpenPlay,2019,RightFoot,12492,Union Berlin,Hertha Berlin,1,0,2019-11-02 17:30:00,,BallTouch
+329473,78,MissedShots,0.725999984741211,0.6819999694824219,0.014504199847579002,Robert Andrich,h,7877,OpenPlay,2019,RightFoot,12492,Union Berlin,Hertha Berlin,1,0,2019-11-02 17:30:00,Neven Subotic,Pass
+333280,39,BlockedShot,0.8480000305175781,0.40200000762939453,0.05693430081009865,Robert Andrich,a,7877,OpenPlay,2019,RightFoot,12515,Schalke 04,Union Berlin,2,1,2019-11-29 19:30:00,,Rebound
+333298,78,SavedShot,0.730999984741211,0.6969999694824218,0.01288320031017065,Robert Andrich,a,7877,OpenPlay,2019,RightFoot,12515,Schalke 04,Union Berlin,2,1,2019-11-29 19:30:00,Sheraldo Becker,Pass
+336841,16,MissedShots,0.8090000152587891,0.6719999694824219,0.012851200066506863,Robert Andrich,a,7877,SetPiece,2019,RightFoot,12537,Paderborn,Union Berlin,1,1,2019-12-14 14:30:00,,Aerial
+336848,37,MissedShots,0.7980000305175782,0.48400001525878905,0.043206799775362015,Robert Andrich,a,7877,OpenPlay,2019,RightFoot,12537,Paderborn,Union Berlin,1,1,2019-12-14 14:30:00,,None
+338043,24,MissedShots,0.7440000152587891,0.6819999694824219,0.01219869963824749,Robert Andrich,h,7877,OpenPlay,2019,RightFoot,12546,Union Berlin,Hoffenheim,0,2,2019-12-17 19:30:00,,Rebound
+339316,43,BlockedShot,0.789000015258789,0.6419999694824219,0.015106899663805962,Robert Andrich,a,7877,FromCorner,2019,RightFoot,12550,Fortuna Duesseldorf,Union Berlin,2,1,2019-12-22 14:30:00,,Aerial
+339324,60,SavedShot,0.745,0.3039999961853027,0.015629500150680542,Robert Andrich,a,7877,OpenPlay,2019,RightFoot,12550,Fortuna Duesseldorf,Union Berlin,2,1,2019-12-22 14:30:00,Christian Gentner,Pass
+354986,2,MissedShots,0.7580000305175781,0.54,0.019336700439453125,Robert Andrich,a,7877,OpenPlay,2019,RightFoot,12556,RasenBallsport Leipzig,Union Berlin,3,1,2020-01-18 17:30:00,,TakeOn
+354988,14,BlockedShot,0.8619999694824219,0.6930000305175781,0.023067500442266464,Robert Andrich,a,7877,OpenPlay,2019,LeftFoot,12556,RasenBallsport Leipzig,Union Berlin,3,1,2020-01-18 17:30:00,,Aerial
+355005,69,SavedShot,0.909000015258789,0.28600000381469726,0.04130350053310394,Robert Andrich,a,7877,OpenPlay,2019,RightFoot,12556,RasenBallsport Leipzig,Union Berlin,3,1,2020-01-18 17:30:00,Christian Gentner,Pass
+355782,19,BlockedShot,0.9109999847412109,0.43,0.12068899720907211,Robert Andrich,h,7877,OpenPlay,2019,LeftFoot,12573,Union Berlin,Augsburg,2,0,2020-01-25 14:30:00,,Rebound
+355793,49,BlockedShot,0.764000015258789,0.6880000305175781,0.020971300080418587,Robert Andrich,h,7877,OpenPlay,2019,RightFoot,12573,Union Berlin,Augsburg,2,0,2020-01-25 14:30:00,Christopher Lenz,Pass
+355798,72,MissedShots,0.8480000305175781,0.5459999847412109,0.09915690124034882,Robert Andrich,h,7877,OpenPlay,2019,LeftFoot,12573,Union Berlin,Augsburg,2,0,2020-01-25 14:30:00,Sebastian Andersson,BallTouch
+356592,26,MissedShots,0.7440000152587891,0.629000015258789,0.010154900141060352,Robert Andrich,a,7877,OpenPlay,2019,RightFoot,12574,Borussia Dortmund,Union Berlin,5,0,2020-02-01 14:30:00,,Aerial
+358954,20,BlockedShot,0.7280000305175781,0.720999984741211,0.016609499230980873,Robert Andrich,h,7877,SetPiece,2019,RightFoot,12600,Union Berlin,Bayer Leverkusen,2,3,2020-02-15 14:30:00,Christopher Trimmel,Pass
+358963,42,MissedShots,0.7240000152587891,0.54,0.013125499710440636,Robert Andrich,h,7877,OpenPlay,2019,RightFoot,12600,Union Berlin,Bayer Leverkusen,2,3,2020-02-15 14:30:00,,None
+358968,74,MissedShots,0.8919999694824219,0.3820000076293945,0.10152500122785568,Robert Andrich,h,7877,OpenPlay,2019,RightFoot,12600,Union Berlin,Bayer Leverkusen,2,3,2020-02-15 14:30:00,Yunus Malli,Pass
+361235,61,BlockedShot,0.8040000152587891,0.72,0.03223880007863045,Robert Andrich,h,7877,OpenPlay,2019,LeftFoot,12618,Union Berlin,Wolfsburg,2,2,2020-03-01 12:30:00,,Tackle
+361726,2,SavedShot,0.775,0.6840000152587891,0.011143299750983715,Robert Andrich,a,7877,OpenPlay,2019,RightFoot,12625,Freiburg,Union Berlin,3,1,2020-03-07 14:30:00,,Aerial
+361745,83,MissedShots,0.759000015258789,0.5729999923706055,0.01171169988811016,Robert Andrich,a,7877,OpenPlay,2019,LeftFoot,12625,Freiburg,Union Berlin,3,1,2020-03-07 14:30:00,,Aerial
+363077,47,BlockedShot,0.8569999694824219,0.6170000076293946,0.06057620048522949,Robert Andrich,h,7877,FromCorner,2019,RightFoot,12636,Union Berlin,Bayern Munich,0,2,2020-05-17 16:00:00,,TakeOn
+363123,43,MissedShots,0.78,0.7019999694824218,0.059706300497055054,Robert Andrich,a,7877,DirectFreekick,2019,RightFoot,12641,Hertha Berlin,Union Berlin,4,0,2020-05-22 18:30:00,,Standard
+363132,67,MissedShots,0.7269999694824218,0.524000015258789,0.01981160044670105,Robert Andrich,a,7877,SetPiece,2019,LeftFoot,12641,Hertha Berlin,Union Berlin,4,0,2020-05-22 18:30:00,Christopher Trimmel,Pass
+364005,10,Goal,0.870999984741211,0.5629999923706055,0.381972998380661,Robert Andrich,h,7877,OpenPlay,2019,LeftFoot,12672,Union Berlin,Schalke 04,1,1,2020-06-07 13:30:00,Anthony Ujah,Pass
+364635,9,MissedShots,0.7559999847412109,0.6040000152587891,0.018615800887346268,Robert Andrich,h,7877,OpenPlay,2019,LeftFoot,12690,Union Berlin,Paderborn,1,0,2020-06-16 18:30:00,,None
+364640,33,BlockedShot,0.71,0.615,0.0142066003754735,Robert Andrich,h,7877,OpenPlay,2019,RightFoot,12690,Union Berlin,Paderborn,1,0,2020-06-16 18:30:00,,None
+364651,57,MissedShots,0.9109999847412109,0.43400001525878906,0.13894900679588318,Robert Andrich,h,7877,OpenPlay,2019,RightFoot,12690,Union Berlin,Paderborn,1,0,2020-06-16 18:30:00,Christian Gentner,Pass
+364654,72,ShotOnPost,0.88,0.629000015258789,0.34312498569488525,Robert Andrich,h,7877,OpenPlay,2019,LeftFoot,12690,Union Berlin,Paderborn,1,0,2020-06-16 18:30:00,Sebastian Andersson,Pass
+365294,63,MissedShots,0.6919999694824219,0.555,0.036782100796699524,Robert Andrich,a,7877,DirectFreekick,2019,RightFoot,12693,Hoffenheim,Union Berlin,4,0,2020-06-20 13:30:00,,Standard
+377393,53,BlockedShot,0.74,0.524000015258789,0.013056499883532524,Robert Andrich,h,7877,SetPiece,2020,RightFoot,14175,Union Berlin,Augsburg,1,3,2020-09-19 13:30:00,,None
+378759,67,BlockedShot,0.755,0.36200000762939455,0.019839899614453316,Robert Andrich,a,7877,OpenPlay,2020,LeftFoot,14186,Borussia M.Gladbach,Union Berlin,1,1,2020-09-26 13:30:00,Marvin Friedrich,Pass
+382710,16,MissedShots,0.754000015258789,0.54,0.014210700057446957,Robert Andrich,a,7877,FromCorner,2020,RightFoot,15175,Schalke 04,Union Berlin,1,1,2020-10-18 16:00:00,,Aerial
+382712,21,SavedShot,0.81,0.5120000076293946,0.03775769844651222,Robert Andrich,a,7877,FromCorner,2020,RightFoot,15175,Schalke 04,Union Berlin,1,1,2020-10-18 16:00:00,,None
+383205,30,MissedShots,0.8240000152587891,0.6819999694824219,0.03165600076317787,Robert Andrich,h,7877,OpenPlay,2020,LeftFoot,15177,Union Berlin,Freiburg,1,1,2020-10-24 13:30:00,Marcus Ingvartsen,None
+383207,35,Goal,0.8,0.5790000152587891,0.041517000645399094,Robert Andrich,h,7877,OpenPlay,2020,RightFoot,15177,Union Berlin,Freiburg,1,1,2020-10-24 13:30:00,Max Kruse,Pass
+383217,62,MissedShots,0.735,0.41900001525878905,0.014398500323295593,Robert Andrich,h,7877,OpenPlay,2020,RightFoot,15177,Union Berlin,Freiburg,1,1,2020-10-24 13:30:00,,None
+385883,12,Goal,0.8090000152587891,0.5329999923706055,0.06865180283784866,Robert Andrich,h,7877,OpenPlay,2020,LeftFoot,15197,Union Berlin,Arminia Bielefeld,5,0,2020-11-07 14:30:00,Max Kruse,Pass
+388633,1,Goal,0.9669999694824218,0.580999984741211,0.518875002861023,Robert Andrich,h,7877,OpenPlay,2020,RightFoot,15217,Union Berlin,Eintracht Frankfurt,3,3,2020-11-28 14:30:00,,None
+388649,43,MissedShots,0.8009999847412109,0.6140000152587891,0.03200729936361313,Robert Andrich,h,7877,OpenPlay,2020,RightFoot,15217,Union Berlin,Eintracht Frankfurt,3,3,2020-11-28 14:30:00,Taiwo Awoniyi,Pass
+388654,66,BlockedShot,0.7269999694824218,0.6079999923706054,0.014051999896764755,Robert Andrich,h,7877,OpenPlay,2020,RightFoot,15217,Union Berlin,Eintracht Frankfurt,3,3,2020-11-28 14:30:00,Max Kruse,HeadPass
+396337,38,BlockedShot,0.750999984741211,0.585999984741211,0.020277900621294975,Robert Andrich,a,7877,OpenPlay,2020,LeftFoot,15263,Werder Bremen,Union Berlin,0,2,2021-01-02 14:30:00,,None
+396340,54,MissedShots,0.735999984741211,0.5570000076293945,0.01216910034418106,Robert Andrich,a,7877,SetPiece,2020,RightFoot,15263,Werder Bremen,Union Berlin,0,2,2021-01-02 14:30:00,,None
+397839,51,Goal,0.8159999847412109,0.5129999923706055,0.16625599563121796,Robert Andrich,h,7877,DirectFreekick,2020,RightFoot,15270,Union Berlin,Wolfsburg,2,2,2021-01-09 14:30:00,,Standard
+397847,85,BlockedShot,0.8009999847412109,0.5770000076293945,0.040842700749635696,Robert Andrich,h,7877,OpenPlay,2020,RightFoot,15270,Union Berlin,Wolfsburg,2,2,2021-01-09 14:30:00,Cedric Teuchert,Pass
+397848,85,MissedShots,0.835,0.48900001525878906,0.06318420171737671,Robert Andrich,h,7877,OpenPlay,2020,LeftFoot,15270,Union Berlin,Wolfsburg,2,2,2021-01-09 14:30:00,,None
+398763,4,SavedShot,0.7440000152587891,0.45599998474121095,0.020889900624752045,Robert Andrich,h,7877,OpenPlay,2020,LeftFoot,15280,Union Berlin,Bayer Leverkusen,1,0,2021-01-15 19:30:00,Christopher Lenz,TakeOn
+400381,15,MissedShots,0.7680000305175781,0.545,0.030200399458408356,Robert Andrich,a,7877,OpenPlay,2020,RightFoot,15300,Augsburg,Union Berlin,2,1,2021-01-23 14:30:00,,BallRecovery
+400387,34,SavedShot,0.874000015258789,0.4159999847412109,0.10387299954891205,Robert Andrich,a,7877,OpenPlay,2020,LeftFoot,15300,Augsburg,Union Berlin,2,1,2021-01-23 14:30:00,Christopher Trimmel,Pass
+400392,49,BlockedShot,0.7519999694824219,0.534000015258789,0.0701116994023323,Robert Andrich,a,7877,DirectFreekick,2020,RightFoot,15300,Augsburg,Union Berlin,2,1,2021-01-23 14:30:00,,Standard
+401578,60,MissedShots,0.975999984741211,0.26399999618530273,0.029249299317598343,Robert Andrich,h,7877,FromCorner,2020,RightFoot,15307,Union Berlin,Borussia M.Gladbach,1,1,2021-01-30 14:30:00,,None
+401581,80,BlockedShot,0.8209999847412109,0.4879999923706055,0.06283819675445557,Robert Andrich,h,7877,OpenPlay,2020,RightFoot,15307,Union Berlin,Borussia M.Gladbach,1,1,2021-01-30 14:30:00,Joel Pohjanpalo,Pass
+403143,51,MissedShots,0.8580000305175781,0.34599998474121096,0.058675799518823624,Robert Andrich,a,7877,OpenPlay,2020,LeftFoot,15317,Mainz 05,Union Berlin,1,0,2021-02-06 14:30:00,Christopher Trimmel,Pass
+403144,58,MissedShots,0.7519999694824219,0.37900001525878907,0.016945399343967438,Robert Andrich,a,7877,OpenPlay,2020,RightFoot,15317,Mainz 05,Union Berlin,1,0,2021-02-06 14:30:00,,None
+403153,92,BlockedShot,0.710999984741211,0.48700000762939455,0.01700109988451004,Robert Andrich,a,7877,OpenPlay,2020,RightFoot,15317,Mainz 05,Union Berlin,1,0,2021-02-06 14:30:00,Petar Musa,Pass
+404391,11,MissedShots,0.76,0.5740000152587891,0.021315699443221092,Robert Andrich,h,7877,OpenPlay,2020,LeftFoot,15326,Union Berlin,Schalke 04,0,0,2021-02-13 17:30:00,,None
+404397,46,MissedShots,0.8130000305175781,0.36400001525878906,0.015725700184702873,Robert Andrich,h,7877,OpenPlay,2020,RightFoot,15326,Union Berlin,Schalke 04,0,0,2021-02-13 17:30:00,,Aerial
+404407,72,MissedShots,0.7569999694824219,0.5279999923706055,0.0215425007045269,Robert Andrich,h,7877,OpenPlay,2020,RightFoot,15326,Union Berlin,Schalke 04,0,0,2021-02-13 17:30:00,Taiwo Awoniyi,Pass
+405521,28,MissedShots,0.8030000305175782,0.3820000076293945,0.040969498455524445,Robert Andrich,a,7877,OpenPlay,2020,LeftFoot,15331,Freiburg,Union Berlin,0,1,2021-02-20 14:30:00,,Dispossessed
+405522,29,MissedShots,0.795,0.415,0.03635689988732338,Robert Andrich,a,7877,OpenPlay,2020,RightFoot,15331,Freiburg,Union Berlin,0,1,2021-02-20 14:30:00,Marius Bülter,Pass
+411350,34,OwnGoal,0.2560000038146973,0.14,0,Robert Andrich,a,7877,OpenPlay,2020,LeftFoot,15368,Eintracht Frankfurt,Union Berlin,5,2,2021-03-20 14:30:00,,BallRecovery
+411362,72,BlockedShot,0.8119999694824219,0.6079999923706054,0.12422399967908859,Robert Andrich,a,7877,DirectFreekick,2020,RightFoot,15368,Eintracht Frankfurt,Union Berlin,5,2,2021-03-20 14:30:00,,Standard
+411368,87,ShotOnPost,0.8369999694824218,0.34599998474121096,0.05246780067682266,Robert Andrich,a,7877,OpenPlay,2020,RightFoot,15368,Eintracht Frankfurt,Union Berlin,5,2,2021-03-20 14:30:00,Christopher Trimmel,Pass
+411372,93,SavedShot,0.894000015258789,0.33099998474121095,0.23844000697135925,Robert Andrich,a,7877,OpenPlay,2020,RightFoot,15368,Eintracht Frankfurt,Union Berlin,5,2,2021-03-20 14:30:00,Max Kruse,Pass
+413274,8,Goal,0.79,0.5509999847412109,0.042613498866558075,Robert Andrich,h,7877,OpenPlay,2020,LeftFoot,15379,Union Berlin,Hertha Berlin,1,1,2021-04-04 16:00:00,Petar Musa,BallTouch
+413287,67,BlockedShot,0.705999984741211,0.5209999847412109,0.011316300369799137,Robert Andrich,h,7877,OpenPlay,2020,RightFoot,15379,Union Berlin,Hertha Berlin,1,1,2021-04-04 16:00:00,,None
+417110,7,BlockedShot,0.7380000305175781,0.5990000152587891,0.019237199798226357,Robert Andrich,h,7877,OpenPlay,2020,LeftFoot,15415,Union Berlin,Werder Bremen,3,1,2021-04-24 13:30:00,Julian Ryerson,Pass
+417112,15,BlockedShot,0.865,0.30700000762939456,0.02045140042901039,Robert Andrich,h,7877,FromCorner,2020,RightFoot,15415,Union Berlin,Werder Bremen,3,1,2021-04-24 13:30:00,Christian Gentner,HeadPass
+417120,60,MissedShots,0.735,0.4209999847412109,0.011725399643182755,Robert Andrich,h,7877,SetPiece,2020,RightFoot,15415,Union Berlin,Werder Bremen,3,1,2021-04-24 13:30:00,,None
+417134,91,MissedShots,0.7,0.45099998474121095,0.012902799993753433,Robert Andrich,h,7877,FromCorner,2020,LeftFoot,15415,Union Berlin,Werder Bremen,3,1,2021-04-24 13:30:00,,None
+421831,35,MissedShots,0.855999984741211,0.575,0.08719450235366821,Robert Andrich,a,7877,OpenPlay,2020,LeftFoot,15430,Bayer Leverkusen,Union Berlin,1,1,2021-05-15 13:30:00,Petar Musa,LayOff
+421834,48,BlockedShot,0.73,0.6020000076293945,0.05001169815659523,Robert Andrich,a,7877,DirectFreekick,2020,RightFoot,15430,Bayer Leverkusen,Union Berlin,1,1,2021-05-15 13:30:00,,Standard
+429785,30,MissedShots,0.7019999694824218,0.3729999923706055,0.01861489936709404,Robert Andrich,h,7877,OpenPlay,2021,LeftFoot,17547,Bayer Leverkusen,Borussia Dortmund,3,4,2021-09-11 13:30:00,,TakeOn
+431892,1,Goal,0.9159999847412109,0.4640000152587891,0.12424200028181076,Robert Andrich,a,7877,OpenPlay,2021,Head,17558,VfB Stuttgart,Bayer Leverkusen,1,3,2021-09-19 13:30:00,Mitchel Bakker,Cross
+438381,16,BlockedShot,0.8880000305175781,0.55,0.10917899757623672,Robert Andrich,a,7877,OpenPlay,2021,RightFoot,17589,FC Cologne,Bayer Leverkusen,2,2,2021-10-24 13:30:00,,None
+439573,71,BlockedShot,0.8690000152587891,0.5209999847412109,0.07622279971837997,Robert Andrich,h,7877,FromCorner,2021,RightFoot,17603,Bayer Leverkusen,Wolfsburg,0,2,2021-10-30 13:30:00,Jonathan Tah,HeadPass
+441746,8,MissedShots,0.6819999694824219,0.6480000305175782,0.0110622001811862,Robert Andrich,a,7877,OpenPlay,2021,RightFoot,17609,Hertha Berlin,Bayer Leverkusen,1,1,2021-11-07 14:30:00,Paulinho,Pass
+441748,10,SavedShot,0.895,0.44299999237060544,0.08862800151109695,Robert Andrich,a,7877,OpenPlay,2021,RightFoot,17609,Hertha Berlin,Bayer Leverkusen,1,1,2021-11-07 14:30:00,,None
+441758,65,MissedShots,0.9209999847412109,0.36900001525878906,0.020771099254488945,Robert Andrich,a,7877,FromCorner,2021,Head,17609,Hertha Berlin,Bayer Leverkusen,1,1,2021-11-07 14:30:00,Kerem Demirbay,Cross
+441767,89,Goal,0.960999984741211,0.44799999237060545,0.5162720084190369,Robert Andrich,a,7877,SetPiece,2021,RightFoot,17609,Hertha Berlin,Bayer Leverkusen,1,1,2021-11-07 14:30:00,Odilon Kossounou,BallTouch
+442407,22,BlockedShot,0.769000015258789,0.644000015258789,0.025070499628782272,Robert Andrich,h,7877,OpenPlay,2021,RightFoot,17622,Bayer Leverkusen,Bochum,1,0,2021-11-20 14:30:00,Florian Wirtz,Pass
+444806,57,MissedShots,0.8640000152587891,0.5209999847412109,0.09771779924631119,Robert Andrich,a,7877,OpenPlay,2021,LeftFoot,17631,RasenBallsport Leipzig,Bayer Leverkusen,1,3,2021-11-28 16:30:00,,None
+444808,60,MissedShots,0.8480000305175781,0.620999984741211,0.09130950272083282,Robert Andrich,a,7877,OpenPlay,2021,LeftFoot,17631,RasenBallsport Leipzig,Bayer Leverkusen,1,3,2021-11-28 16:30:00,Florian Wirtz,Pass
+448468,4,MissedShots,0.874000015258789,0.40599998474121096,0.09111730009317398,Robert Andrich,a,7877,OpenPlay,2021,RightFoot,17647,Eintracht Frankfurt,Bayer Leverkusen,5,2,2021-12-12 16:30:00,Florian Wirtz,Pass
+453367,5,MissedShots,0.7930000305175782,0.595999984741211,0.03595390170812607,Robert Andrich,a,7877,OpenPlay,2021,RightFoot,17683,Borussia M.Gladbach,Bayer Leverkusen,1,2,2022-01-15 17:30:00,Florian Wirtz,Pass
+453370,10,MissedShots,0.8969999694824219,0.4540000152587891,0.01818080060184002,Robert Andrich,a,7877,FromCorner,2021,Head,17683,Borussia M.Gladbach,Bayer Leverkusen,1,2,2022-01-15 17:30:00,Florian Wirtz,Aerial
+453376,19,MissedShots,0.795,0.46700000762939453,0.0428818017244339,Robert Andrich,a,7877,OpenPlay,2021,LeftFoot,17683,Borussia M.Gladbach,Bayer Leverkusen,1,2,2022-01-15 17:30:00,Patrik Schick,Pass
+453388,50,Goal,0.9569999694824218,0.485,0.4812510013580322,Robert Andrich,a,7877,FromCorner,2021,RightFoot,17683,Borussia M.Gladbach,Bayer Leverkusen,1,2,2022-01-15 17:30:00,Florian Wirtz,Cross
+456271,27,Goal,0.8119999694824219,0.6759999847412109,0.0900224968791008,Robert Andrich,a,7877,DirectFreekick,2021,RightFoot,17703,Borussia Dortmund,Bayer Leverkusen,2,5,2022-02-06 14:30:00,,Standard
+456275,52,BlockedShot,0.9590000152587891,0.49700000762939456,0.12440399825572968,Robert Andrich,a,7877,FromCorner,2021,RightFoot,17703,Borussia Dortmund,Bayer Leverkusen,2,5,2022-02-06 14:30:00,,BallTouch
+457180,26,BlockedShot,0.784000015258789,0.39099998474121095,0.02638150006532669,Robert Andrich,h,7877,OpenPlay,2021,RightFoot,17711,Bayer Leverkusen,VfB Stuttgart,4,2,2022-02-12 17:30:00,Moussa Diaby,Pass
+457957,15,SavedShot,0.860999984741211,0.620999984741211,0.07556819915771484,Robert Andrich,a,7877,OpenPlay,2021,RightFoot,17718,Mainz 05,Bayer Leverkusen,3,2,2022-02-18 19:30:00,Moussa Diaby,Pass
+465085,35,BlockedShot,0.7480000305175781,0.635,0.020684299990534782,Robert Andrich,h,7877,OpenPlay,2021,RightFoot,17765,Bayer Leverkusen,Hertha Berlin,2,1,2022-04-02 13:30:00,Karim Bellarabi,Pass
+465093,59,BlockedShot,0.674000015258789,0.5129999923706055,0.013527300208806992,Robert Andrich,h,7877,OpenPlay,2021,RightFoot,17765,Bayer Leverkusen,Hertha Berlin,2,1,2022-04-02 13:30:00,Karim Bellarabi,Pass
+465099,84,MissedShots,0.9209999847412109,0.455,0.1223749965429306,Robert Andrich,h,7877,SetPiece,2021,Head,17765,Bayer Leverkusen,Hertha Berlin,2,1,2022-04-02 13:30:00,Moussa Diaby,Cross
+467400,86,BlockedShot,0.795,0.6790000152587891,0.0262410007417202,Robert Andrich,a,7877,OpenPlay,2021,LeftFoot,17769,Bochum,Bayer Leverkusen,0,0,2022-04-10 13:30:00,Exequiel Palacios,Pass
+468939,12,MissedShots,0.7630000305175781,0.644000015258789,0.018535999581217766,Robert Andrich,h,7877,OpenPlay,2021,RightFoot,17784,Bayer Leverkusen,RasenBallsport Leipzig,0,1,2022-04-17 17:30:00,Patrik Schick,Pass
+468951,79,MissedShots,0.73,0.30200000762939455,0.015334700234234333,Robert Andrich,h,7877,OpenPlay,2021,RightFoot,17784,Bayer Leverkusen,RasenBallsport Leipzig,0,1,2022-04-17 17:30:00,Patrik Schick,Pass
+472496,39,MissedShots,0.8209999847412109,0.635,0.07561299949884415,Robert Andrich,h,7877,OpenPlay,2021,LeftFoot,17802,Bayer Leverkusen,Eintracht Frankfurt,2,0,2022-05-02 18:30:00,Sardar Azmoun,Pass
+473103,56,SavedShot,0.88,0.39,0.06519649922847748,Robert Andrich,a,7877,SetPiece,2021,RightFoot,17808,Hoffenheim,Bayer Leverkusen,2,4,2022-05-07 13:30:00,,None
+475634,86,MissedShots,0.7869999694824219,0.4929999923706055,0.053430598229169846,Robert Andrich,h,7877,OpenPlay,2021,RightFoot,17819,Bayer Leverkusen,Freiburg,2,1,2022-05-14 13:30:00,,None
+481686,43,BlockedShot,0.8009999847412109,0.5790000152587891,0.11974699795246124,Robert Andrich,h,7877,DirectFreekick,2022,RightFoot,19365,Bayer Leverkusen,Hoffenheim,0,3,2022-08-20 13:30:00,,Standard
+485847,42,BlockedShot,0.874000015258789,0.615,0.05213649943470955,Robert Andrich,h,7877,FromCorner,2022,LeftFoot,19379,Bayer Leverkusen,Freiburg,2,3,2022-09-03 13:30:00,Kerem Demirbay,Pass
+488698,7,MissedShots,0.7519999694824219,0.6220000076293946,0.017630599439144135,Robert Andrich,h,7877,OpenPlay,2022,RightFoot,19398,Bayer Leverkusen,Werder Bremen,1,1,2022-09-17 13:30:00,Patrik Schick,Pass
+488707,34,ShotOnPost,0.905,0.4420000076293945,0.05859399959445,Robert Andrich,h,7877,FromCorner,2022,Head,19398,Bayer Leverkusen,Werder Bremen,1,1,2022-09-17 13:30:00,Kerem Demirbay,Cross
+489718,22,MissedShots,0.764000015258789,0.48700000762939455,0.019288700073957443,Robert Andrich,a,7877,OpenPlay,2022,RightFoot,19405,Bayern Munich,Bayer Leverkusen,4,0,2022-09-30 18:30:00,Patrik Schick,None
+489724,37,MissedShots,0.745,0.6859999847412109,0.010143199935555458,Robert Andrich,a,7877,OpenPlay,2022,RightFoot,19405,Bayern Munich,Bayer Leverkusen,4,0,2022-09-30 18:30:00,Moussa Diaby,Pass
+489728,43,SavedShot,0.9580000305175781,0.47299999237060547,0.4370090067386627,Robert Andrich,a,7877,FromCorner,2022,LeftFoot,19405,Bayern Munich,Bayer Leverkusen,4,0,2022-09-30 18:30:00,Jonathan Tah,BallTouch
+494970,27,OwnGoal,0.08100000381469727,0.5329999923706055,0,Robert Andrich,h,7877,OpenPlay,2022,RightFoot,19433,Bayer Leverkusen,Wolfsburg,2,2,2022-10-22 13:30:00,,Foul
+496337,65,BlockedShot,0.7880000305175782,0.3370000076293945,0.02337929978966713,Robert Andrich,a,7877,OpenPlay,2022,RightFoot,19442,RasenBallsport Leipzig,Bayer Leverkusen,2,0,2022-10-29 13:30:00,Patrik Schick,Pass
+498733,45,Goal,0.9290000152587891,0.45299999237060545,0.1007630005478859,Robert Andrich,h,7877,FromCorner,2022,LeftFoot,19458,Bayer Leverkusen,Union Berlin,5,0,2022-11-06 14:30:00,Kerem Demirbay,Cross
+505460,32,MissedShots,0.789000015258789,0.34900001525878904,0.030235400423407555,Robert Andrich,h,7877,OpenPlay,2022,RightFoot,19487,Bayer Leverkusen,Bochum,2,0,2023-01-25 19:30:00,Florian Wirtz,Pass
+505468,79,MissedShots,0.9119999694824219,0.3729999923706055,0.012225800193846226,Robert Andrich,h,7877,FromCorner,2022,Head,19487,Bayer Leverkusen,Bochum,2,0,2023-01-25 19:30:00,Amine Adli,Aerial
+506805,25,SavedShot,0.75,0.519000015258789,0.022916799411177635,Robert Andrich,a,7877,OpenPlay,2022,RightFoot,19511,Augsburg,Bayer Leverkusen,1,0,2023-02-03 19:30:00,,BallTouch
+506812,45,MissedShots,0.8059999847412109,0.5279999923706055,0.04737050086259842,Robert Andrich,a,7877,OpenPlay,2022,RightFoot,19511,Augsburg,Bayer Leverkusen,1,0,2023-02-03 19:30:00,Adam Hlozek,Pass
+506820,62,BlockedShot,0.749000015258789,0.6569999694824219,0.017850400879979134,Robert Andrich,a,7877,OpenPlay,2022,RightFoot,19511,Augsburg,Bayer Leverkusen,1,0,2023-02-03 19:30:00,Mitchel Bakker,Pass
+508284,4,MissedShots,0.7780000305175782,0.534000015258789,0.03292020037770271,Robert Andrich,a,7877,OpenPlay,2022,RightFoot,19518,Hoffenheim,Bayer Leverkusen,1,3,2023-02-11 14:30:00,,None
+508285,5,Goal,0.779000015258789,0.5720000076293945,0.027739200741052628,Robert Andrich,a,7877,OpenPlay,2022,RightFoot,19518,Hoffenheim,Bayer Leverkusen,1,3,2023-02-11 14:30:00,Florian Wirtz,Pass
+511368,7,MissedShots,0.894000015258789,0.37799999237060544,0.01728219911456108,Robert Andrich,a,7877,FromCorner,2022,Head,19533,Freiburg,Bayer Leverkusen,1,1,2023-02-26 14:30:00,Kerem Demirbay,Cross
+511385,65,MissedShots,0.914000015258789,0.5270000076293946,0.09042059630155563,Robert Andrich,a,7877,FromCorner,2022,Head,19533,Freiburg,Bayer Leverkusen,1,1,2023-02-26 14:30:00,Kerem Demirbay,Cross
+512753,40,SavedShot,0.7680000305175781,0.6919999694824219,0.035044699907302856,Robert Andrich,h,7877,OpenPlay,2022,RightFoot,19541,Bayer Leverkusen,Hertha Berlin,4,1,2023-03-05 14:30:00,Piero Hincapié,HeadPass
+512761,69,BlockedShot,0.835999984741211,0.6659999847412109,0.05055930092930794,Robert Andrich,h,7877,OpenPlay,2022,RightFoot,19541,Bayer Leverkusen,Hertha Berlin,4,1,2023-03-05 14:30:00,Florian Wirtz,Pass
+514250,41,MissedShots,0.7880000305175782,0.45599998474121095,0.0365419015288353,Robert Andrich,a,7877,OpenPlay,2022,RightFoot,19557,Werder Bremen,Bayer Leverkusen,2,3,2023-03-12 16:30:00,Moussa Diaby,Pass
+514257,60,SavedShot,0.7440000152587891,0.5159999847412109,0.026839299127459526,Robert Andrich,a,7877,OpenPlay,2022,RightFoot,19557,Werder Bremen,Bayer Leverkusen,2,3,2023-03-12 16:30:00,Moussa Diaby,Pass
+516186,14,SavedShot,0.745999984741211,0.47400001525878904,0.021484099328517914,Robert Andrich,a,7877,OpenPlay,2022,RightFoot,19572,Schalke 04,Bayer Leverkusen,0,3,2023-04-01 13:30:00,Florian Wirtz,Pass
+516189,18,SavedShot,0.7190000152587891,0.36400001525878906,0.012629600241780281,Robert Andrich,a,7877,OpenPlay,2022,LeftFoot,19572,Schalke 04,Bayer Leverkusen,0,3,2023-04-01 13:30:00,Jeremie Frimpong,Pass
+516209,93,BlockedShot,0.7730000305175782,0.4859999847412109,0.034397900104522705,Robert Andrich,a,7877,OpenPlay,2022,RightFoot,19572,Schalke 04,Bayer Leverkusen,0,3,2023-04-01 13:30:00,Mitchel Bakker,Pass
+517938,33,MissedShots,0.860999984741211,0.539000015258789,0.04108640179038048,Robert Andrich,h,7877,SetPiece,2022,Head,19577,Bayer Leverkusen,Eintracht Frankfurt,3,1,2023-04-08 13:30:00,Florian Wirtz,Chipped
+522614,30,MissedShots,0.755,0.495,0.012405096553266048,Robert Andrich,a,7877,OpenPlay,2022,RightFoot,19605,Union Berlin,Bayer Leverkusen,0,0,2023-04-29 13:30:00,,Aerial
+522623,73,BlockedShot,0.8090000152587891,0.5129999923706055,0.04983912408351898,Robert Andrich,a,7877,OpenPlay,2022,RightFoot,19605,Union Berlin,Bayer Leverkusen,0,0,2023-04-29 13:30:00,,None
+524393,59,BlockedShot,0.715,0.5940000152587891,0.01600491628050804,Robert Andrich,h,7877,OpenPlay,2022,RightFoot,19613,Bayer Leverkusen,FC Cologne,1,2,2023-05-05 18:30:00,Florian Wirtz,Pass
+524394,59,SavedShot,0.9259999847412109,0.4159999847412109,0.02076844871044159,Robert Andrich,h,7877,FromCorner,2022,Head,19613,Bayer Leverkusen,FC Cologne,1,2,2023-05-05 18:30:00,Florian Wirtz,Aerial
+557993,36,SavedShot,0.9740000152587891,0.5879999923706055,0.2153884470462799,Robert Andrich,a,7877,FromCorner,2023,Head,23216,Augsburg,Bayer Leverkusen,0,1,2024-01-13 14:30:00,Álex Grimaldo,Cross
+559947,94,MissedShots,0.7769999694824219,0.39099998474121095,0.02470816858112812,Robert Andrich,h,7877,OpenPlay,2023,RightFoot,23229,Bayer Leverkusen,Borussia M.Gladbach,0,0,2024-01-27 17:30:00,,None
+561070,24,BlockedShot,0.7869999694824219,0.31,0.021239399909973145,Robert Andrich,a,7877,OpenPlay,2023,RightFoot,23244,Darmstadt,Bayer Leverkusen,0,2,2024-02-03 14:30:00,Nathan Tella,Pass
+561077,41,SavedShot,0.7909999847412109,0.539000015258789,0.055017948150634766,Robert Andrich,a,7877,OpenPlay,2023,RightFoot,23244,Darmstadt,Bayer Leverkusen,0,2,2024-02-03 14:30:00,,None
+562733,23,BlockedShot,0.9440000152587891,0.575999984741211,0.0952974408864975,Robert Andrich,h,7877,FromCorner,2023,Head,23250,Bayer Leverkusen,Bayern Munich,3,0,2024-02-10 17:30:00,Álex Grimaldo,Cross
+563695,8,BlockedShot,0.7869999694824219,0.415,0.03226066753268242,Robert Andrich,a,7877,OpenPlay,2023,LeftFoot,23261,FC Heidenheim,Bayer Leverkusen,1,2,2024-02-17 14:30:00,Jeremie Frimpong,Pass
+563698,21,MissedShots,0.9019999694824219,0.43099998474121093,0.06955205649137497,Robert Andrich,a,7877,SetPiece,2023,Head,23261,FC Heidenheim,Bayer Leverkusen,1,2,2024-02-17 14:30:00,Álex Grimaldo,Cross
+564935,67,Goal,0.7140000152587891,0.6819999694824219,0.013269606046378613,Robert Andrich,h,7877,OpenPlay,2023,RightFoot,23268,Bayer Leverkusen,Mainz 05,2,1,2024-02-23 19:30:00,Florian Wirtz,Pass
+570624,46,MissedShots,0.965999984741211,0.6079999923706054,0.15739764273166656,Robert Andrich,h,7877,FromCorner,2023,Head,23301,Bayer Leverkusen,Hoffenheim,2,1,2024-03-30 14:30:00,Álex Grimaldo,Chipped
+570640,75,MissedShots,0.884000015258789,0.455,0.07610315829515457,Robert Andrich,h,7877,FromCorner,2023,RightFoot,23301,Bayer Leverkusen,Hoffenheim,2,1,2024-03-30 14:30:00,Amine Adli,Pass
+570648,87,Goal,0.91,0.5270000076293946,0.38370761275291443,Robert Andrich,h,7877,FromCorner,2023,RightFoot,23301,Bayer Leverkusen,Hoffenheim,2,1,2024-03-30 14:30:00,Jonathan Tah,HeadPass
+572329,42,SavedShot,0.7530000305175781,0.57,0.01965647004544735,Robert Andrich,a,7877,OpenPlay,2023,RightFoot,23309,Union Berlin,Bayer Leverkusen,0,1,2024-04-06 13:30:00,Florian Wirtz,Pass
+572331,48,BlockedShot,0.8490000152587891,0.45099998474121095,0.06657782196998596,Robert Andrich,a,7877,SetPiece,2023,LeftFoot,23309,Union Berlin,Bayer Leverkusen,0,1,2024-04-06 13:30:00,,Rebound
+576881,5,MissedShots,0.7230000305175781,0.44,0.016079116612672806,Robert Andrich,h,7877,OpenPlay,2023,LeftFoot,23338,Bayer Leverkusen,VfB Stuttgart,2,2,2024-04-27 16:30:00,Jonas Hofmann,Pass
+576889,44,SavedShot,0.7290000152587891,0.3060000038146973,0.013273731805384159,Robert Andrich,h,7877,OpenPlay,2023,RightFoot,23338,Bayer Leverkusen,VfB Stuttgart,2,2,2024-04-27 16:30:00,Exequiel Palacios,Pass
+576890,46,MissedShots,0.774000015258789,0.7,0.057115714997053146,Robert Andrich,h,7877,DirectFreekick,2023,RightFoot,23338,Bayer Leverkusen,VfB Stuttgart,2,2,2024-04-27 16:30:00,,Standard
+576905,95,Goal,0.93,0.504000015258789,0.08731893450021744,Robert Andrich,h,7877,SetPiece,2023,LeftFoot,23338,Bayer Leverkusen,VfB Stuttgart,2,2,2024-04-27 16:30:00,Piero Hincapié,None
+580553,15,BlockedShot,0.72,0.5659999847412109,0.047711607068777084,Robert Andrich,a,7877,DirectFreekick,2023,RightFoot,23359,Bochum,Bayer Leverkusen,0,5,2024-05-12 17:30:00,,Standard
+580567,63,MissedShots,0.7390000152587891,0.45799999237060546,0.012747067958116531,Robert Andrich,a,7877,SetPiece,2023,RightFoot,23359,Bochum,Bayer Leverkusen,0,5,2024-05-12 17:30:00,,None
+581517,26,Goal,0.9480000305175781,0.4929999923706055,0.6000187993049622,Robert Andrich,h,7877,FromCorner,2023,RightFoot,23364,Bayer Leverkusen,Augsburg,2,1,2024-05-18 13:30:00,,Rebound
+581520,42,MissedShots,0.7519999694824219,0.47299999237060547,0.02527027390897274,Robert Andrich,h,7877,OpenPlay,2023,LeftFoot,23364,Bayer Leverkusen,Augsburg,2,1,2024-05-18 13:30:00,Jonas Hofmann,Pass
+581533,71,SavedShot,0.81,0.5479999923706055,0.06941716372966766,Robert Andrich,h,7877,OpenPlay,2023,LeftFoot,23364,Bayer Leverkusen,Augsburg,2,1,2024-05-18 13:30:00,Florian Wirtz,Pass
+581541,88,BlockedShot,0.785,0.4379999923706055,0.04795723780989647,Robert Andrich,h,7877,OpenPlay,2023,RightFoot,23364,Bayer Leverkusen,Augsburg,2,1,2024-05-18 13:30:00,Jonas Hofmann,Pass
+585751,80,BlockedShot,0.785,0.5629999923706055,0.022187208756804466,Robert Andrich,a,7877,SetPiece,2024,LeftFoot,27742,Borussia M.Gladbach,Bayer Leverkusen,2,3,2024-08-23 18:30:00,,Rebound
+590720,43,BlockedShot,0.784000015258789,0.3820000076293945,0.03309309482574463,Robert Andrich,a,7877,FromCorner,2024,RightFoot,27761,Hoffenheim,Bayer Leverkusen,1,4,2024-09-14 13:30:00,Granit Xhaka,Pass
+590725,57,SavedShot,0.7419999694824219,0.5979999923706054,0.023041151463985443,Robert Andrich,a,7877,OpenPlay,2024,RightFoot,27761,Hoffenheim,Bayer Leverkusen,1,4,2024-09-14 13:30:00,Florian Wirtz,Pass
+594348,30,Goal,0.7919999694824219,0.415,0.03526948764920235,Robert Andrich,a,7877,FromCorner,2024,RightFoot,27784,Bayern Munich,Bayer Leverkusen,1,1,2024-09-28 16:30:00,Granit Xhaka,Pass
+595326,20,MissedShots,0.9209999847412109,0.5070000076293946,0.10894513875246048,Robert Andrich,h,7877,FromCorner,2024,Head,27794,Bayer Leverkusen,Holstein Kiel,2,2,2024-10-05 13:30:00,Álex Grimaldo,Cross
+596988,24,Goal,0.9319999694824219,0.625,0.38423919677734375,Robert Andrich,h,7877,OpenPlay,2024,RightFoot,27796,Bayer Leverkusen,Eintracht Frankfurt,2,1,2024-10-19 13:30:00,Martin Terrier,Pass
+596991,34,MissedShots,0.43200000762939456,0.29700000762939455,0.009566724300384521,Robert Andrich,h,7877,OpenPlay,2024,RightFoot,27796,Bayer Leverkusen,Eintracht Frankfurt,2,1,2024-10-19 13:30:00,Amine Adli,BallRecovery
+596999,62,ShotOnPost,0.855999984741211,0.639000015258789,0.05739378184080124,Robert Andrich,h,7877,OpenPlay,2024,LeftFoot,27796,Bayer Leverkusen,Eintracht Frankfurt,2,1,2024-10-19 13:30:00,Victor Boniface,Pass
+597004,67,BlockedShot,0.7619999694824219,0.6419999694824219,0.018807649612426758,Robert Andrich,h,7877,OpenPlay,2024,RightFoot,27796,Bayer Leverkusen,Eintracht Frankfurt,2,1,2024-10-19 13:30:00,Florian Wirtz,Pass
+597008,77,SavedShot,0.8219999694824218,0.5209999847412109,0.0734318196773529,Robert Andrich,h,7877,OpenPlay,2024,RightFoot,27796,Bayer Leverkusen,Eintracht Frankfurt,2,1,2024-10-19 13:30:00,,None
+598651,8,MissedShots,0.754000015258789,0.5640000152587891,0.019639374688267708,Robert Andrich,a,7877,OpenPlay,2024,RightFoot,27808,Werder Bremen,Bayer Leverkusen,2,2,2024-10-26 16:30:00,Granit Xhaka,Pass
+598672,81,MissedShots,0.879000015258789,0.37099998474121093,0.03991565853357315,Robert Andrich,a,7877,FromCorner,2024,RightFoot,27808,Werder Bremen,Bayer Leverkusen,2,2,2024-10-26 16:30:00,Álex Grimaldo,Cross
+599811,40,BlockedShot,0.8880000305175781,0.7380000305175781,0.05760101228952408,Robert Andrich,h,7877,OpenPlay,2024,LeftFoot,27814,Bayer Leverkusen,VfB Stuttgart,0,0,2024-11-01 19:30:00,,TakeOn
+599819,64,MissedShots,0.9580000305175781,0.54,0.5662624835968018,Robert Andrich,h,7877,SetPiece,2024,Head,27814,Bayer Leverkusen,VfB Stuttgart,0,0,2024-11-01 19:30:00,Álex Grimaldo,Cross
+606952,47,BlockedShot,0.8059999847412109,0.6140000152587891,0.0390351228415966,Robert Andrich,a,7877,OpenPlay,2024,RightFoot,27863,Augsburg,Bayer Leverkusen,0,2,2024-12-14 14:30:00,,None
+612439,20,MissedShots,0.855,0.6580000305175782,0.050286877900362015,Robert Andrich,h,7877,OpenPlay,2024,LeftFoot,27895,Bayer Leverkusen,Borussia M.Gladbach,3,1,2025-01-18 17:30:00,,None
+613275,2,BlockedShot,0.7880000305175782,0.5970000076293945,0.0283692367374897,Robert Andrich,a,7877,OpenPlay,2024,LeftFoot,27904,RasenBallsport Leipzig,Bayer Leverkusen,2,2,2025-01-25 14:30:00,Patrik Schick,Pass
+616101,72,MissedShots,0.845,0.305,0.04042868688702583,Robert Andrich,a,7877,OpenPlay,2024,LeftFoot,27927,Wolfsburg,Bayer Leverkusen,0,0,2025-02-08 14:30:00,Florian Wirtz,Pass
+618313,35,BlockedShot,0.8009999847412109,0.34700000762939454,0.03727801889181137,Robert Andrich,a,7877,OpenPlay,2024,RightFoot,27948,Holstein Kiel,Bayer Leverkusen,0,2,2025-02-22 14:30:00,Jeremie Frimpong,Pass
+623672,55,BlockedShot,0.835999984741211,0.5359999847412109,0.06346851587295532,Robert Andrich,a,7877,SetPiece,2024,LeftFoot,27967,VfB Stuttgart,Bayer Leverkusen,3,4,2025-03-16 18:30:00,,BallTouch
+633543,10,SavedShot,0.7959999847412109,0.6129999923706054,0.032411128282547,Robert Andrich,h,7877,OpenPlay,2024,RightFoot,28030,Bayer Leverkusen,Borussia Dortmund,2,4,2025-05-11 13:30:00,Amine Adli,Pass
+647524,31,BlockedShot,0.9280000305175782,0.4,0.016795575618743896,Robert Andrich,a,7877,FromCorner,2025,Head,30282,Mainz 05,Bayer Leverkusen,3,4,2025-10-18 13:30:00,Álex Grimaldo,Aerial
+652250,72,SavedShot,0.75,0.3679999923706055,0.020761268213391304,Robert Andrich,h,7877,OpenPlay,2025,LeftFoot,30305,Bayer Leverkusen,FC Heidenheim,6,0,2025-11-08 14:30:00,Martin Terrier,Pass
+656790,15,BlockedShot,0.754000015258789,0.345,0.016035737469792366,Robert Andrich,a,7877,OpenPlay,2025,RightFoot,30334,Augsburg,Bayer Leverkusen,2,0,2025-12-06 14:30:00,,None
+658357,33,MissedShots,0.9540000152587891,0.445,0.402569979429245,Robert Andrich,h,7877,FromCorner,2025,Head,30341,Bayer Leverkusen,FC Cologne,2,0,2025-12-13 17:30:00,Aleix García,Cross
+658370,71,Goal,0.9259999847412109,0.4929999923706055,0.05769234895706177,Robert Andrich,h,7877,FromCorner,2025,Head,30341,Bayer Leverkusen,FC Cologne,2,0,2025-12-13 17:30:00,Aleix García,Aerial
+676506,7,MissedShots,0.8580000305175781,0.34799999237060547,0.05941230058670044,Robert Andrich,h,7877,OpenPlay,2025,LeftFoot,30467,Bayer Leverkusen,Wolfsburg,6,3,2026-04-04 13:30:00,,BallTouch
+676536,90,MissedShots,0.7780000305175782,0.3129999923706055,0.02272341214120388,Robert Andrich,h,7877,OpenPlay,2025,RightFoot,30467,Bayer Leverkusen,Wolfsburg,6,3,2026-04-04 13:30:00,,BallRecovery
+677766,41,Goal,0.7469999694824219,0.38099998474121094,0.01866467483341694,Robert Andrich,a,7877,OpenPlay,2025,RightFoot,30477,Borussia Dortmund,Bayer Leverkusen,0,1,2026-04-11 13:30:00,,Interception
+677768,46,MissedShots,0.9419999694824219,0.5990000152587891,0.05812762677669525,Robert Andrich,a,7877,FromCorner,2025,Head,30477,Borussia Dortmund,Bayer Leverkusen,0,1,2026-04-11 13:30:00,Álex Grimaldo,Cross
+677772,63,BlockedShot,0.88,0.659000015258789,0.05165233463048935,Robert Andrich,a,7877,SetPiece,2025,LeftFoot,30477,Borussia Dortmund,Bayer Leverkusen,0,1,2026-04-11 13:30:00,,None
+680946,67,MissedShots,0.4229999923706055,0.40299999237060546,0.01011891383677721,Robert Andrich,a,7877,OpenPlay,2025,RightFoot,30496,FC Cologne,Bayer Leverkusen,1,2,2026-04-25 13:30:00,Nathan Tella,BallRecovery

@@ -1,0 +1,21 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+638997,17,SavedShot,0.8590000152587891,0.675,0.2825362980365753,Andréas Hountondji,h,13885,OpenPlay,2025,LeftFoot,30230,St. Pauli,Borussia Dortmund,3,3,2025-08-23 16:30:00,Danel Sinani,Chipped
+639004,49,Goal,0.9209999847412109,0.5059999847412109,0.05217396095395088,Andréas Hountondji,h,13885,OpenPlay,2025,Head,30230,St. Pauli,Borussia Dortmund,3,3,2025-08-23 16:30:00,Danel Sinani,Aerial
+639957,56,MissedShots,0.905,0.33099998474121095,0.09861429035663605,Andréas Hountondji,a,13885,OpenPlay,2025,LeftFoot,30233,Hamburger SV,St. Pauli,0,2,2025-08-29 18:30:00,Arkadiusz Pyrka,TakeOn
+639958,59,Goal,0.9680000305175781,0.6959999847412109,0.3010755181312561,Andréas Hountondji,a,13885,OpenPlay,2025,LeftFoot,30233,Hamburger SV,St. Pauli,0,2,2025-08-29 18:30:00,Joel Chima Fujita,Throughball
+642254,5,SavedShot,0.7580000305175781,0.4470000076293945,0.021765870973467827,Andréas Hountondji,h,13885,OpenPlay,2025,LeftFoot,30249,St. Pauli,Augsburg,2,1,2025-09-14 13:30:00,,None
+642258,41,MissedShots,0.8980000305175782,0.43200000762939456,0.056336551904678345,Andréas Hountondji,h,13885,FromCorner,2025,RightFoot,30249,St. Pauli,Augsburg,2,1,2025-09-14 13:30:00,Pereira Lage,Cross
+642259,44,SavedShot,0.885,0.5,0.75777667760849,Andréas Hountondji,h,13885,Penalty,2025,RightFoot,30249,St. Pauli,Augsburg,2,1,2025-09-14 13:30:00,,Standard
+642260,44,Goal,0.9490000152587891,0.5,0.6436731815338135,Andréas Hountondji,h,13885,SetPiece,2025,RightFoot,30249,St. Pauli,Augsburg,2,1,2025-09-14 13:30:00,,Rebound
+644612,10,BlockedShot,0.905,0.38,0.09645801037549973,Andréas Hountondji,h,13885,OpenPlay,2025,RightFoot,30263,St. Pauli,Bayer Leverkusen,1,2,2025-09-27 13:30:00,Danel Sinani,Pass
+648338,66,BlockedShot,0.7140000152587891,0.27899999618530275,0.006714159157127142,Andréas Hountondji,h,13885,OpenPlay,2025,RightFoot,30284,St. Pauli,Hoffenheim,0,3,2025-10-19 15:30:00,,None
+650656,53,BlockedShot,0.8930000305175781,0.315,0.06476232409477234,Andréas Hountondji,h,13885,OpenPlay,2025,RightFoot,30302,St. Pauli,Borussia M.Gladbach,0,4,2025-11-01 14:30:00,James Sands,Pass
+652858,92,MissedShots,0.945,0.38,0.09304068982601166,Andréas Hountondji,a,13885,OpenPlay,2025,LeftFoot,30308,Freiburg,St. Pauli,2,1,2025-11-09 14:30:00,Pereira Lage,Pass
+655025,5,Goal,0.924000015258789,0.6680000305175782,0.32165294885635376,Andréas Hountondji,a,13885,OpenPlay,2025,RightFoot,30324,Bayern Munich,St. Pauli,3,1,2025-11-29 14:30:00,Pereira Lage,Throughball
+677015,88,BlockedShot,0.8209999847412109,0.3820000076293945,0.03380211070179939,Andréas Hountondji,a,13885,OpenPlay,2025,RightFoot,30474,Union Berlin,St. Pauli,1,1,2026-04-05 13:30:00,Arkadiusz Pyrka,Pass
+678055,46,SavedShot,0.8730000305175781,0.36,0.08919476717710495,Andréas Hountondji,h,13885,OpenPlay,2025,LeftFoot,30482,St. Pauli,Bayern Munich,0,5,2026-04-11 16:30:00,Joel Chima Fujita,Pass
+678878,9,SavedShot,0.96,0.46799999237060547,0.4798697531223297,Andréas Hountondji,h,13885,FromCorner,2025,Head,30491,St. Pauli,FC Cologne,1,1,2026-04-17 18:30:00,Tomoya Ando,Rebound
+678880,32,SavedShot,0.92,0.5509999847412109,0.3541632890701294,Andréas Hountondji,h,13885,OpenPlay,2025,LeftFoot,30491,St. Pauli,FC Cologne,1,1,2026-04-17 18:30:00,Lars Ritzka,Cross
+678887,55,SavedShot,0.9819999694824219,0.654000015258789,0.06062505766749382,Andréas Hountondji,h,13885,OpenPlay,2025,RightFoot,30491,St. Pauli,FC Cologne,1,1,2026-04-17 18:30:00,Mathias Rasmussen,Pass
+680907,23,SavedShot,0.9119999694824219,0.6220000076293946,0.2699390649795532,Andréas Hountondji,a,13885,OpenPlay,2025,RightFoot,30498,FC Heidenheim,St. Pauli,2,0,2026-04-25 13:30:00,Danel Sinani,Chipped
+680915,52,SavedShot,0.8669999694824219,0.6509999847412109,0.1991679072380066,Andréas Hountondji,a,13885,OpenPlay,2025,LeftFoot,30498,FC Heidenheim,St. Pauli,2,0,2026-04-25 13:30:00,Danel Sinani,Pass

@@ -1,0 +1,72 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+256578,25,Goal,0.9059999847412109,0.3940000152587891,0.37366700172424316,Steven Skrzybski,h,7054,OpenPlay,2018,RightFoot,10437,Schalke 04,Nuernberg,5,2,2018-11-24 17:30:00,,None
+256586,46,MissedShots,0.9209999847412109,0.3940000152587891,0.12764500081539154,Steven Skrzybski,h,7054,OpenPlay,2018,RightFoot,10437,Schalke 04,Nuernberg,5,2,2018-11-24 17:30:00,Daniel Caligiuri,Pass
+256597,83,Goal,0.9369999694824219,0.45599998474121095,0.5766869783401489,Steven Skrzybski,h,7054,OpenPlay,2018,RightFoot,10437,Schalke 04,Nuernberg,5,2,2018-11-24 17:30:00,Daniel Caligiuri,Pass
+256866,14,MissedShots,0.91,0.524000015258789,0.09590090066194534,Steven Skrzybski,a,7054,OpenPlay,2018,LeftFoot,10468,Augsburg,Schalke 04,1,1,2018-12-15 14:30:00,Bastian Oczipka,Cross
+257543,67,MissedShots,0.9230000305175782,0.3629999923706055,0.35651400685310364,Steven Skrzybski,h,7054,OpenPlay,2018,RightFoot,10473,Schalke 04,Bayer Leverkusen,1,2,2018-12-19 17:30:00,Alessandro Schöpf,Throughball
+257548,81,BlockedShot,0.8569999694824219,0.28600000381469726,0.03145720064640045,Steven Skrzybski,h,7054,OpenPlay,2018,LeftFoot,10473,Schalke 04,Bayer Leverkusen,1,2,2018-12-19 17:30:00,Amine Harit,Pass
+257719,6,MissedShots,0.8119999694824219,0.6719999694824219,0.03912689909338951,Steven Skrzybski,a,7054,OpenPlay,2018,LeftFoot,10486,VfB Stuttgart,Schalke 04,1,3,2018-12-22 14:30:00,Suat Serdar,HeadPass
+257720,9,Goal,0.9019999694824219,0.5520000076293945,0.4361110031604767,Steven Skrzybski,a,7054,OpenPlay,2018,RightFoot,10486,VfB Stuttgart,Schalke 04,1,3,2018-12-22 14:30:00,Bastian Oczipka,Pass
+257732,43,SavedShot,0.965999984741211,0.41,0.4178749918937683,Steven Skrzybski,a,7054,FromCorner,2018,RightFoot,10486,VfB Stuttgart,Schalke 04,1,3,2018-12-22 14:30:00,,Rebound
+257743,83,MissedShots,0.74,0.475,0.035861898213624954,Steven Skrzybski,a,7054,OpenPlay,2018,RightFoot,10486,VfB Stuttgart,Schalke 04,1,3,2018-12-22 14:30:00,Nabil Bentaleb,Pass
+278483,12,MissedShots,0.825,0.34200000762939453,0.049780599772930145,Steven Skrzybski,h,7054,OpenPlay,2018,RightFoot,10496,Schalke 04,Wolfsburg,2,1,2019-01-20 17:00:00,Mark Uth,Pass
+278511,0,SavedShot,0.8630000305175781,0.6840000152587891,0.040652401745319366,Steven Skrzybski,a,7054,OpenPlay,2018,LeftFoot,10502,Hertha Berlin,Schalke 04,2,2,2019-01-25 19:30:00,Mark Uth,Pass
+278531,72,SavedShot,0.8830000305175781,0.5929999923706055,0.10546600073575974,Steven Skrzybski,a,7054,OpenPlay,2018,LeftFoot,10502,Hertha Berlin,Schalke 04,2,2,2019-01-25 19:30:00,Suat Serdar,Pass
+279698,49,MissedShots,0.85,0.4929999923706055,0.04587420076131821,Steven Skrzybski,h,7054,SetPiece,2018,RightFoot,10544,Schalke 04,Fortuna Duesseldorf,0,4,2019-03-02 14:30:00,Salif Sané,Cross
+284209,19,MissedShots,0.9619999694824218,0.605999984741211,0.016176799312233925,Steven Skrzybski,a,7054,SetPiece,2018,Head,10557,Werder Bremen,Schalke 04,4,2,2019-03-08 19:30:00,,Rebound
+284212,29,MissedShots,0.8619999694824219,0.735999984741211,0.1498190015554428,Steven Skrzybski,a,7054,OpenPlay,2018,LeftFoot,10557,Werder Bremen,Schalke 04,4,2,2019-03-08 19:30:00,Benjamin Stambouli,Throughball
+284227,61,SavedShot,0.89,0.24700000762939453,0.02599960006773472,Steven Skrzybski,a,7054,FromCorner,2018,RightFoot,10557,Werder Bremen,Schalke 04,4,2,2019-03-08 19:30:00,Matija Nastasic,Pass
+354795,20,BlockedShot,0.8590000152587891,0.36700000762939455,0.05820320174098015,Steven Skrzybski,h,7054,OpenPlay,2019,LeftFoot,12558,Fortuna Duesseldorf,Werder Bremen,0,1,2020-01-18 14:30:00,,None
+354796,26,BlockedShot,0.850999984741211,0.4809999847412109,0.09603250026702881,Steven Skrzybski,h,7054,OpenPlay,2019,LeftFoot,12558,Fortuna Duesseldorf,Werder Bremen,0,1,2020-01-18 14:30:00,Rouwen Hennings,Pass
+354814,82,BlockedShot,0.9640000152587891,0.6179999923706054,0.06960800290107727,Steven Skrzybski,h,7054,OpenPlay,2019,LeftFoot,12558,Fortuna Duesseldorf,Werder Bremen,0,1,2020-01-18 14:30:00,,None
+363013,80,ShotOnPost,0.915,0.64,0.31978198885917664,Steven Skrzybski,h,7054,OpenPlay,2019,LeftFoot,12633,Fortuna Duesseldorf,Paderborn,0,0,2020-05-16 13:30:00,Erik Thommy,Pass
+363320,20,BlockedShot,0.7819999694824219,0.28200000762939453,0.02586350031197071,Steven Skrzybski,a,7054,FromCorner,2019,LeftFoot,12645,FC Cologne,Fortuna Duesseldorf,2,2,2020-05-24 16:00:00,Kevin Stöger,Pass
+363522,93,BlockedShot,0.9269999694824219,0.3079999923706055,0.2129479944705963,Steven Skrzybski,h,7054,OpenPlay,2019,RightFoot,12649,Fortuna Duesseldorf,Schalke 04,2,1,2020-05-27 18:30:00,Florian Kastenmeier,Pass
+364211,81,ShotOnPost,0.7390000152587891,0.5629999923706055,0.04207880049943924,Steven Skrzybski,h,7054,OpenPlay,2019,RightFoot,12676,Fortuna Duesseldorf,Borussia Dortmund,0,1,2020-06-13 13:30:00,Rouwen Hennings,Pass
+364212,89,ShotOnPost,0.799000015258789,0.39099998474121095,0.11216799914836884,Steven Skrzybski,h,7054,OpenPlay,2019,RightFoot,12676,Fortuna Duesseldorf,Borussia Dortmund,0,1,2020-06-13 13:30:00,Rouwen Hennings,Throughball
+364779,20,MissedShots,0.764000015258789,0.375,0.013924400322139263,Steven Skrzybski,a,7054,FromCorner,2019,RightFoot,12683,RasenBallsport Leipzig,Fortuna Duesseldorf,2,2,2020-06-17 18:30:00,,Aerial
+364791,66,MissedShots,0.6669999694824219,0.44,0.007981359958648682,Steven Skrzybski,a,7054,OpenPlay,2019,RightFoot,12683,RasenBallsport Leipzig,Fortuna Duesseldorf,2,2,2020-06-17 18:30:00,,BallRecovery
+364800,86,Goal,0.9319999694824219,0.4759999847412109,0.12608599662780762,Steven Skrzybski,a,7054,OpenPlay,2019,RightFoot,12683,RasenBallsport Leipzig,Fortuna Duesseldorf,2,2,2020-06-17 18:30:00,Marcel Sobottka,Rebound
+364801,91,BlockedShot,0.86,0.3290000152587891,0.043606601655483246,Steven Skrzybski,a,7054,OpenPlay,2019,RightFoot,12683,RasenBallsport Leipzig,Fortuna Duesseldorf,2,2,2020-06-17 18:30:00,,None
+367003,34,BlockedShot,0.9230000305175782,0.38599998474121094,0.09330730140209198,Steven Skrzybski,a,7054,OpenPlay,2019,RightFoot,12708,Union Berlin,Fortuna Duesseldorf,3,0,2020-06-27 13:30:00,Rouwen Hennings,Pass
+367006,38,MissedShots,0.71,0.5929999923706055,0.015382000245153904,Steven Skrzybski,a,7054,OpenPlay,2019,RightFoot,12708,Union Berlin,Fortuna Duesseldorf,3,0,2020-06-27 13:30:00,Erik Thommy,Pass
+382721,67,SavedShot,0.919000015258789,0.24100000381469727,0.029567399993538857,Steven Skrzybski,h,7054,OpenPlay,2020,RightFoot,15175,Schalke 04,Union Berlin,1,1,2020-10-18 16:00:00,Salif Sané,Chipped
+385928,88,BlockedShot,0.7809999847412109,0.285,0.019545700401067734,Steven Skrzybski,a,7054,OpenPlay,2020,RightFoot,15198,Mainz 05,Schalke 04,2,2,2020-11-07 14:30:00,Benito Raman,Pass
+387321,86,BlockedShot,0.7859999847412109,0.265,0.011630900204181671,Steven Skrzybski,h,7054,SetPiece,2020,RightFoot,15206,Schalke 04,Wolfsburg,0,2,2020-11-21 14:30:00,,None
+388893,12,MissedShots,0.875,0.5359999847412109,0.0192888006567955,Steven Skrzybski,a,7054,OpenPlay,2020,Head,15214,Borussia M.Gladbach,Schalke 04,4,1,2020-11-28 17:30:00,Mark Uth,Aerial
+388900,24,BlockedShot,0.865999984741211,0.4590000152587891,0.0845165029168129,Steven Skrzybski,a,7054,OpenPlay,2020,LeftFoot,15214,Borussia M.Gladbach,Schalke 04,4,1,2020-11-28 17:30:00,,Rebound
+388913,58,MissedShots,0.7880000305175782,0.3089999961853027,0.022679299116134644,Steven Skrzybski,a,7054,OpenPlay,2020,LeftFoot,15214,Borussia M.Gladbach,Schalke 04,4,1,2020-11-28 17:30:00,Matthew Hoppe,LayOff
+390973,24,MissedShots,0.7469999694824219,0.3870000076293945,0.016715599223971367,Steven Skrzybski,h,7054,OpenPlay,2020,LeftFoot,15226,Schalke 04,Bayer Leverkusen,0,3,2020-12-06 17:00:00,,None
+390990,71,SavedShot,0.885,0.5,0.7577769756317139,Steven Skrzybski,h,7054,Penalty,2020,RightFoot,15226,Schalke 04,Bayer Leverkusen,0,3,2020-12-06 17:00:00,,Standard
+592256,78,BlockedShot,0.860999984741211,0.5790000152587891,0.07702182233333588,Steven Skrzybski,a,7054,OpenPlay,2024,RightFoot,27771,Bochum,Holstein Kiel,2,2,2024-09-21 13:30:00,Finn Porath,Pass
+597608,90,SavedShot,0.9319999694824219,0.539000015258789,0.31719380617141724,Steven Skrzybski,h,7054,OpenPlay,2024,RightFoot,27804,Holstein Kiel,Union Berlin,0,2,2024-10-20 13:30:00,Marvin Schulz,Cross
+599903,18,SavedShot,0.7880000305175782,0.28600000381469726,0.016143452376127243,Steven Skrzybski,h,7054,FromCorner,2024,RightFoot,27822,Holstein Kiel,FC Heidenheim,1,0,2024-11-02 14:30:00,,None
+599916,55,SavedShot,0.7019999694824218,0.6,0.019072754308581352,Steven Skrzybski,h,7054,OpenPlay,2024,RightFoot,27822,Holstein Kiel,FC Heidenheim,1,0,2024-11-02 14:30:00,Tymoteusz Puchacz,Pass
+601363,50,SavedShot,0.8830000305175781,0.73,0.03620148450136185,Steven Skrzybski,a,7054,SetPiece,2024,RightFoot,27826,Werder Bremen,Holstein Kiel,2,1,2024-11-09 14:30:00,Max Geschwill,TakeOn
+603425,21,BlockedShot,0.9019999694824219,0.34400001525878904,0.10035817325115204,Steven Skrzybski,h,7054,OpenPlay,2024,RightFoot,27840,Holstein Kiel,Mainz 05,0,3,2024-11-24 14:30:00,Marko Ivezic,Throughball
+603434,48,BlockedShot,0.7130000305175781,0.63,0.009339495562016964,Steven Skrzybski,h,7054,OpenPlay,2024,RightFoot,27840,Holstein Kiel,Mainz 05,0,3,2024-11-24 14:30:00,Phil Harres,Pass
+605812,57,SavedShot,0.9009999847412109,0.54,0.43370941281318665,Steven Skrzybski,h,7054,OpenPlay,2024,RightFoot,27856,Holstein Kiel,RasenBallsport Leipzig,0,2,2024-12-07 14:30:00,Finn Porath,Pass
+605813,65,ShotOnPost,0.8959999847412109,0.5929999923706055,0.06798864156007767,Steven Skrzybski,h,7054,OpenPlay,2024,RightFoot,27856,Holstein Kiel,RasenBallsport Leipzig,0,2,2024-12-07 14:30:00,Lasse Rosenboom,BallTouch
+605816,70,BlockedShot,0.865,0.5790000152587891,0.061223845928907394,Steven Skrzybski,h,7054,OpenPlay,2024,RightFoot,27856,Holstein Kiel,RasenBallsport Leipzig,0,2,2024-12-07 14:30:00,,Rebound
+605825,91,BlockedShot,0.799000015258789,0.5940000152587891,0.020510610193014145,Steven Skrzybski,h,7054,OpenPlay,2024,LeftFoot,27856,Holstein Kiel,RasenBallsport Leipzig,0,2,2024-12-07 14:30:00,,Rebound
+607038,71,BlockedShot,0.8190000152587891,0.4379999923706055,0.04262233152985573,Steven Skrzybski,a,7054,OpenPlay,2024,RightFoot,27865,Borussia M.Gladbach,Holstein Kiel,4,1,2024-12-14 14:30:00,,None
+613096,79,Goal,0.9590000152587891,0.3579999923706055,0.08166909217834473,Steven Skrzybski,a,7054,OpenPlay,2024,RightFoot,27910,Wolfsburg,Holstein Kiel,2,2,2025-01-24 19:30:00,Benedikt Pichler,Pass
+614827,90,Goal,0.9,0.43900001525878907,0.12065877765417099,Steven Skrzybski,a,7054,OpenPlay,2024,RightFoot,27918,Bayern Munich,Holstein Kiel,4,3,2025-02-01 14:30:00,Timo Becker,Pass
+614829,92,Goal,0.9209999847412109,0.48,0.3874880075454712,Steven Skrzybski,a,7054,OpenPlay,2024,LeftFoot,27918,Bayern Munich,Holstein Kiel,4,3,2025-02-01 14:30:00,,Rebound
+621080,29,Goal,0.8980000305175782,0.5609999847412109,0.4304654598236084,Steven Skrzybski,h,7054,OpenPlay,2024,RightFoot,27966,Holstein Kiel,VfB Stuttgart,2,2,2025-03-08 14:30:00,,None
+621084,45,Goal,0.81,0.29600000381469727,0.022325685247778893,Steven Skrzybski,h,7054,OpenPlay,2024,RightFoot,27966,Holstein Kiel,VfB Stuttgart,2,2,2025-03-08 14:30:00,,None
+623543,19,MissedShots,0.8719999694824219,0.3579999923706055,0.05929435417056084,Steven Skrzybski,a,7054,OpenPlay,2024,LeftFoot,27969,FC Heidenheim,Holstein Kiel,3,1,2025-03-16 16:30:00,,None
+624070,9,BlockedShot,0.8859999847412109,0.685,0.05810363218188286,Steven Skrzybski,h,7054,OpenPlay,2024,LeftFoot,27984,Holstein Kiel,Werder Bremen,0,3,2025-03-29 14:30:00,,BallRecovery
+624077,39,MissedShots,0.785,0.6990000152587891,0.021506771445274353,Steven Skrzybski,h,7054,OpenPlay,2024,RightFoot,27984,Holstein Kiel,Werder Bremen,0,3,2025-03-29 14:30:00,Shuto Machino,Pass
+624081,63,BlockedShot,0.8440000152587891,0.4490000152587891,0.07162857055664062,Steven Skrzybski,h,7054,OpenPlay,2024,LeftFoot,27984,Holstein Kiel,Werder Bremen,0,3,2025-03-29 14:30:00,Benedikt Pichler,Pass
+624082,64,MissedShots,0.759000015258789,0.685,0.01485049445182085,Steven Skrzybski,h,7054,FromCorner,2024,LeftFoot,27984,Holstein Kiel,Werder Bremen,0,3,2025-03-29 14:30:00,,None
+624089,82,MissedShots,0.855999984741211,0.6370000076293946,0.044190116226673126,Steven Skrzybski,h,7054,SetPiece,2024,LeftFoot,27984,Holstein Kiel,Werder Bremen,0,3,2025-03-29 14:30:00,,Rebound
+625554,63,ShotOnPost,0.9109999847412109,0.5329999923706055,0.44905343651771545,Steven Skrzybski,a,7054,OpenPlay,2024,Head,27990,Mainz 05,Holstein Kiel,1,1,2025-04-05 13:30:00,,None
+628442,6,SavedShot,0.6379999923706055,0.48900001525878906,0.009367859922349453,Steven Skrzybski,a,7054,OpenPlay,2024,RightFoot,28003,RasenBallsport Leipzig,Holstein Kiel,1,1,2025-04-19 13:30:00,,BallRecovery
+628445,29,MissedShots,0.8580000305175781,0.36,0.05793854966759682,Steven Skrzybski,a,7054,OpenPlay,2024,RightFoot,28003,RasenBallsport Leipzig,Holstein Kiel,1,1,2025-04-19 13:30:00,Shuto Machino,Chipped
+628446,30,BlockedShot,0.8440000152587891,0.6270000076293946,0.05876409262418747,Steven Skrzybski,a,7054,OpenPlay,2024,RightFoot,28003,RasenBallsport Leipzig,Holstein Kiel,1,1,2025-04-19 13:30:00,John Tolkin,Pass
+630208,18,SavedShot,0.7719999694824219,0.6459999847412109,0.017629090696573257,Steven Skrzybski,h,7054,FromCorner,2024,RightFoot,28020,Holstein Kiel,Borussia M.Gladbach,4,3,2025-04-26 13:30:00,,None
+630222,56,BlockedShot,0.8169999694824219,0.4779999923706055,0.07998912781476974,Steven Skrzybski,h,7054,OpenPlay,2024,LeftFoot,28020,Holstein Kiel,Borussia M.Gladbach,4,3,2025-04-26 13:30:00,Armin Gigovic,Pass
+632600,8,MissedShots,0.6990000152587891,0.555,0.00833598617464304,Steven Skrzybski,h,7054,SetPiece,2024,RightFoot,28038,Holstein Kiel,Freiburg,1,2,2025-05-10 13:30:00,,Aerial
+632615,77,BlockedShot,0.8169999694824219,0.5209999847412109,0.04686766117811203,Steven Skrzybski,h,7054,SetPiece,2024,RightFoot,28038,Holstein Kiel,Freiburg,1,2,2025-05-10 13:30:00,,None
+632616,79,BlockedShot,0.8169999694824219,0.7480000305175781,0.022216064855456352,Steven Skrzybski,h,7054,FromCorner,2024,RightFoot,28038,Holstein Kiel,Freiburg,1,2,2025-05-10 13:30:00,Finn Porath,Pass

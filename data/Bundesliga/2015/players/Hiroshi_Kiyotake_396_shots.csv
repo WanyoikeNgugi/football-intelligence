@@ -1,0 +1,64 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+24639,50,BlockedShot,0.86,0.35700000762939454,0.05587900057435036,Hiroshi Kiyotake,a,396,OpenPlay,2014,LeftFoot,5463,Mainz 05,Hannover 96,0,0,2014-08-31 14:30:00,,None
+24640,56,SavedShot,0.7040000152587891,0.5670000076293945,0.013269900344312191,Hiroshi Kiyotake,a,396,OpenPlay,2014,RightFoot,5463,Mainz 05,Hannover 96,0,0,2014-08-31 14:30:00,Leon Andreasen,HeadPass
+25229,4,MissedShots,0.7919999694824219,0.7319999694824219,0.02212579920887947,Hiroshi Kiyotake,a,396,OpenPlay,2014,RightFoot,5424,Paderborn,Hannover 96,2,0,2014-09-20 14:30:00,Artur Sobiech,Pass
+25253,78,BlockedShot,0.720999984741211,0.3320000076293945,0.015407700091600418,Hiroshi Kiyotake,a,396,OpenPlay,2014,RightFoot,5424,Paderborn,Hannover 96,2,0,2014-09-20 14:30:00,Jimmy Briand,Pass
+25613,20,MissedShots,0.8690000152587891,0.6659999847412109,0.06574709713459015,Hiroshi Kiyotake,a,396,OpenPlay,2014,LeftFoot,5440,VfB Stuttgart,Hannover 96,1,0,2014-09-27 14:30:00,Ceyhun Gülselam,TakeOn
+26037,5,BlockedShot,0.8159999847412109,0.6969999694824218,0.012380500324070454,Hiroshi Kiyotake,h,396,SetPiece,2014,LeftFoot,5394,Hannover 96,Borussia M.Gladbach,0,3,2014-10-18 14:30:00,,Aerial
+26042,19,MissedShots,0.85,0.700999984741211,0.03706429898738861,Hiroshi Kiyotake,h,396,OpenPlay,2014,LeftFoot,5394,Hannover 96,Borussia M.Gladbach,0,3,2014-10-18 14:30:00,Leonardo Bittencourt,Pass
+26205,60,Goal,0.7519999694824219,0.6530000305175782,0.05496640130877495,Hiroshi Kiyotake,a,396,DirectFreekick,2014,RightFoot,5406,Borussia Dortmund,Hannover 96,0,1,2014-10-25 14:30:00,,Standard
+26207,64,SavedShot,0.875999984741211,0.42700000762939455,0.3093799948692322,Hiroshi Kiyotake,a,396,OpenPlay,2014,RightFoot,5406,Borussia Dortmund,Hannover 96,0,1,2014-10-25 14:30:00,Joselu,Chipped
+26584,15,BlockedShot,0.7709999847412109,0.22299999237060547,0.01010380033403635,Hiroshi Kiyotake,h,396,OpenPlay,2014,RightFoot,5349,Hannover 96,Eintracht Frankfurt,1,0,2014-11-01 14:30:00,,None
+26588,48,SavedShot,0.875,0.34,0.3165990114212036,Hiroshi Kiyotake,h,396,OpenPlay,2014,RightFoot,5349,Hannover 96,Eintracht Frankfurt,1,0,2014-11-01 14:30:00,Manuel Schmiedebach,Throughball
+26830,3,SavedShot,0.6969999694824218,0.49700000762939456,0.016154499724507332,Hiroshi Kiyotake,a,396,OpenPlay,2014,RightFoot,5356,Hertha Berlin,Hannover 96,0,2,2014-11-07 19:30:00,Jimmy Briand,Pass
+26837,35,BlockedShot,0.7980000305175782,0.2539999961853027,0.056648898869752884,Hiroshi Kiyotake,a,396,DirectFreekick,2014,RightFoot,5356,Hertha Berlin,Hannover 96,0,2,2014-11-07 19:30:00,,Standard
+26848,75,Goal,0.875,0.44099998474121094,0.1258610039949417,Hiroshi Kiyotake,a,396,OpenPlay,2014,LeftFoot,5356,Hertha Berlin,Hannover 96,0,2,2014-11-07 19:30:00,Leonardo Bittencourt,TakeOn
+27039,32,SavedShot,0.8690000152587891,0.4570000076293945,0.3825019896030426,Hiroshi Kiyotake,h,396,OpenPlay,2014,RightFoot,5369,Hannover 96,Bayer Leverkusen,1,3,2014-11-22 14:30:00,,None
+27674,61,MissedShots,0.7290000152587891,0.3320000076293945,0.009651370346546173,Hiroshi Kiyotake,a,396,SetPiece,2014,RightFoot,5380,Hoffenheim,Hannover 96,4,3,2014-11-29 17:30:00,,None
+27680,74,MissedShots,0.775,0.565,0.08880250155925751,Hiroshi Kiyotake,a,396,DirectFreekick,2014,RightFoot,5380,Hoffenheim,Hannover 96,4,3,2014-11-29 17:30:00,,Standard
+27318,2,SavedShot,0.8819999694824219,0.664000015258789,0.07294870167970657,Hiroshi Kiyotake,h,396,OpenPlay,2014,LeftFoot,5314,Hannover 96,Wolfsburg,1,3,2014-12-06 14:30:00,Lars Stindl,Pass
+27326,27,SavedShot,0.789000015258789,0.6819999694824219,0.07047060132026672,Hiroshi Kiyotake,h,396,DirectFreekick,2014,RightFoot,5314,Hannover 96,Wolfsburg,1,3,2014-12-06 14:30:00,,Standard
+28222,63,Goal,0.675,0.8969999694824219,0.020870499312877655,Hiroshi Kiyotake,a,396,DirectFreekick,2014,RightFoot,5323,Werder Bremen,Hannover 96,3,3,2014-12-13 14:30:00,,Standard
+28225,73,MissedShots,0.7780000305175782,0.645,0.032663699239492416,Hiroshi Kiyotake,a,396,OpenPlay,2014,RightFoot,5323,Werder Bremen,Hannover 96,3,3,2014-12-13 14:30:00,Lars Stindl,Chipped
+27761,24,BlockedShot,0.86,0.39,0.08948349952697754,Hiroshi Kiyotake,h,396,OpenPlay,2014,RightFoot,5330,Hannover 96,Augsburg,2,0,2014-12-16 19:00:00,Hiroki Sakai,Pass
+28310,32,MissedShots,0.7290000152587891,0.40099998474121096,0.020251600071787834,Hiroshi Kiyotake,a,396,OpenPlay,2014,LeftFoot,5347,Freiburg,Hannover 96,2,2,2014-12-21 16:30:00,Manuel Schmiedebach,Pass
+28412,81,MissedShots,0.7609999847412109,0.5459999847412109,0.024814000353217125,Hiroshi Kiyotake,a,396,OpenPlay,2014,LeftFoot,5310,Schalke 04,Hannover 96,1,0,2015-01-31 14:30:00,Lars Stindl,Pass
+28737,1,MissedShots,0.7290000152587891,0.2989999961853027,0.017800500616431236,Hiroshi Kiyotake,h,396,OpenPlay,2014,RightFoot,5262,Hannover 96,Mainz 05,1,1,2015-02-03 19:00:00,Jimmy Briand,Pass
+28574,0,SavedShot,0.6769999694824219,0.524000015258789,0.016797000542283058,Hiroshi Kiyotake,a,396,OpenPlay,2014,RightFoot,5277,Hamburger SV,Hannover 96,2,1,2015-02-07 17:30:00,Lars Stindl,Pass
+29998,24,Goal,0.899000015258789,0.3729999923706055,0.09616419672966003,Hiroshi Kiyotake,h,396,OpenPlay,2014,RightFoot,5236,Hannover 96,Bayern Munich,1,3,2015-03-07 14:30:00,Jimmy Briand,Pass
+30521,4,BlockedShot,0.7419999694824219,0.5729999923706055,0.01920120045542717,Hiroshi Kiyotake,a,396,OpenPlay,2014,RightFoot,5196,Eintracht Frankfurt,Hannover 96,2,2,2015-04-04 14:30:00,Lars Stindl,Pass
+31738,56,SavedShot,0.749000015258789,0.6229999923706054,0.011045699939131737,Hiroshi Kiyotake,a,396,OpenPlay,2014,RightFoot,5218,Bayer Leverkusen,Hannover 96,4,0,2015-04-18 14:30:00,Ceyhun Gülselam,Chipped
+31745,82,MissedShots,0.8930000305175781,0.38,0.24615399539470673,Hiroshi Kiyotake,a,396,OpenPlay,2014,RightFoot,5218,Bayer Leverkusen,Hannover 96,4,0,2015-04-18 14:30:00,,None
+30597,83,SavedShot,0.9490000152587891,0.6530000305175782,0.2622930109500885,Hiroshi Kiyotake,a,396,OpenPlay,2014,LeftFoot,5160,Wolfsburg,Hannover 96,2,2,2015-05-02 14:30:00,Jimmy Briand,Pass
+30517,67,SavedShot,0.789000015258789,0.4520000076293945,0.05515139922499657,Hiroshi Kiyotake,a,396,OpenPlay,2014,LeftFoot,5180,Augsburg,Hannover 96,1,2,2015-05-16 14:30:00,Lars Stindl,BallRecovery
+31414,2,Goal,0.8819999694824219,0.46,0.04892659932374954,Hiroshi Kiyotake,h,396,OpenPlay,2014,Head,5189,Hannover 96,Freiburg,2,1,2015-05-23 14:30:00,Miiko Albornoz,Cross
+76898,57,BlockedShot,0.7119999694824218,0.445,0.04449110105633736,Hiroshi Kiyotake,h,396,DirectFreekick,2015,RightFoot,1050,Hannover 96,Borussia Dortmund,2,4,2015-09-12 17:30:00,,Standard
+77095,42,MissedShots,0.7909999847412109,0.5570000076293945,0.01877710036933422,Hiroshi Kiyotake,a,396,OpenPlay,2015,RightFoot,1064,Augsburg,Hannover 96,2,0,2015-09-20 19:30:00,Edgar Prib,HeadPass
+77102,65,BlockedShot,0.750999984741211,0.345,0.012087799608707428,Hiroshi Kiyotake,a,396,OpenPlay,2015,LeftFoot,1064,Augsburg,Hannover 96,2,0,2015-09-20 19:30:00,Hiroki Sakai,Pass
+77335,49,MissedShots,0.89,0.34799999237060547,0.02318510040640831,Hiroshi Kiyotake,h,396,OpenPlay,2015,RightFoot,1074,Hannover 96,VfB Stuttgart,1,3,2015-09-23 22:00:00,,Aerial
+77466,20,SavedShot,0.750999984741211,0.7440000152587891,0.044994499534368515,Hiroshi Kiyotake,a,396,OpenPlay,2015,RightFoot,1080,Wolfsburg,Hannover 96,1,1,2015-09-26 17:30:00,Salif Sané,Chipped
+77471,28,BlockedShot,0.795,0.6419999694824219,0.08863110095262527,Hiroshi Kiyotake,a,396,DirectFreekick,2015,RightFoot,1080,Wolfsburg,Hannover 96,1,1,2015-09-26 17:30:00,,Standard
+77478,52,BlockedShot,0.8669999694824219,0.6309999847412109,0.061583101749420166,Hiroshi Kiyotake,a,396,OpenPlay,2015,LeftFoot,1080,Wolfsburg,Hannover 96,1,1,2015-09-26 17:30:00,Kenan Karaman,Pass
+77480,56,Goal,0.92,0.45799999237060546,0.3378869891166687,Hiroshi Kiyotake,a,396,OpenPlay,2015,RightFoot,1080,Wolfsburg,Hannover 96,1,1,2015-09-26 17:30:00,Manuel Schmiedebach,Chipped
+78269,31,MissedShots,0.7469999694824219,0.5840000152587891,0.06190190091729164,Hiroshi Kiyotake,h,396,DirectFreekick,2015,RightFoot,1105,Hannover 96,Eintracht Frankfurt,1,2,2015-10-24 17:30:00,,Standard
+78270,46,SavedShot,0.74,0.5059999847412109,0.040009599179029465,Hiroshi Kiyotake,h,396,OpenPlay,2015,RightFoot,1105,Hannover 96,Eintracht Frankfurt,1,2,2015-10-24 17:30:00,Manuel Schmiedebach,Pass
+78457,58,Goal,0.885,0.5,0.7577769756317139,Hiroshi Kiyotake,a,396,Penalty,2015,RightFoot,1119,Hamburger SV,Hannover 96,1,2,2015-11-01 20:30:00,,Standard
+78780,43,MissedShots,0.8490000152587891,0.34299999237060547,0.051516201347112656,Hiroshi Kiyotake,h,396,OpenPlay,2015,LeftFoot,1120,Hannover 96,Hertha Berlin,1,3,2015-11-06 23:30:00,Artur Sobiech,Pass
+78781,53,MissedShots,0.8469999694824218,0.455,0.059349000453948975,Hiroshi Kiyotake,h,396,OpenPlay,2015,RightFoot,1120,Hannover 96,Hertha Berlin,1,3,2015-11-06 23:30:00,,None
+78788,69,Goal,0.885,0.5,0.7577769756317139,Hiroshi Kiyotake,h,396,Penalty,2015,RightFoot,1120,Hannover 96,Hertha Berlin,1,3,2015-11-06 23:30:00,,Standard
+81303,41,MissedShots,0.8019999694824219,0.53,0.017872700467705727,Hiroshi Kiyotake,a,396,OpenPlay,2015,LeftFoot,1223,VfB Stuttgart,Hannover 96,1,2,2016-02-27 18:30:00,,Aerial
+81565,31,BlockedShot,0.8190000152587891,0.45599998474121095,0.0597275011241436,Hiroshi Kiyotake,h,396,OpenPlay,2015,RightFoot,1228,Hannover 96,Wolfsburg,0,4,2016-03-01 23:00:00,Hiroki Sakai,Pass
+81831,58,SavedShot,0.715,0.3089999961853027,0.006696309894323349,Hiroshi Kiyotake,a,396,OpenPlay,2015,RightFoot,1239,Werder Bremen,Hannover 96,4,1,2016-03-05 18:30:00,Iver Fossum,Chipped
+82051,81,BlockedShot,0.7959999847412109,0.39,0.04092159867286682,Hiroshi Kiyotake,h,396,OpenPlay,2015,RightFoot,1251,Hannover 96,FC Cologne,0,2,2016-03-12 18:30:00,Ádám Szalai,Pass
+82054,87,MissedShots,0.7969999694824219,0.49700000762939456,0.023904800415039062,Hiroshi Kiyotake,h,396,OpenPlay,2015,LeftFoot,1251,Hannover 96,FC Cologne,0,2,2016-03-12 18:30:00,Hugo Almeida,TakeOn
+82356,54,MissedShots,0.7480000305175781,0.5459999847412109,0.0190591998398304,Hiroshi Kiyotake,a,396,OpenPlay,2015,LeftFoot,1261,Eintracht Frankfurt,Hannover 96,1,0,2016-03-19 21:30:00,,None
+82511,53,BlockedShot,0.8009999847412109,0.40799999237060547,0.02991729974746704,Hiroshi Kiyotake,h,396,SetPiece,2015,RightFoot,1269,Hannover 96,Hamburger SV,0,3,2016-04-02 17:30:00,,None
+82956,19,MissedShots,0.9169999694824219,0.6619999694824219,0.06933829933404922,Hiroshi Kiyotake,h,396,OpenPlay,2015,LeftFoot,1282,Hannover 96,Borussia M.Gladbach,2,0,2016-04-15 22:30:00,Artur Sobiech,Chipped
+83266,3,MissedShots,0.7980000305175782,0.875,0.03171649947762489,Hiroshi Kiyotake,a,396,DirectFreekick,2015,RightFoot,1296,Ingolstadt,Hannover 96,2,2,2016-04-23 17:30:00,,Standard
+83287,81,Goal,0.9130000305175782,0.5320000076293945,0.08525340259075165,Hiroshi Kiyotake,a,396,OpenPlay,2015,LeftFoot,1296,Ingolstadt,Hannover 96,2,2,2016-04-23 17:30:00,,None
+83421,26,MissedShots,0.7090000152587891,0.5370000076293945,0.031235799193382263,Hiroshi Kiyotake,h,396,OpenPlay,2015,LeftFoot,1301,Hannover 96,Schalke 04,1,3,2016-04-30 17:30:00,Artur Sobiech,BallRecovery
+83660,27,Goal,0.89,0.6140000152587891,0.12878599762916565,Hiroshi Kiyotake,h,396,OpenPlay,2015,LeftFoot,1315,Hannover 96,Hoffenheim,1,0,2016-05-07 17:30:00,Noah Joel Sarenren Bazee,Pass
+83664,35,BlockedShot,0.8930000305175781,0.8380000305175781,0.05612239986658096,Hiroshi Kiyotake,h,396,DirectFreekick,2015,RightFoot,1315,Hannover 96,Hoffenheim,1,0,2016-05-07 17:30:00,,Standard
+83665,36,MissedShots,0.7219999694824218,0.4809999847412109,0.020014800131320953,Hiroshi Kiyotake,h,396,OpenPlay,2015,LeftFoot,1315,Hannover 96,Hoffenheim,1,0,2016-05-07 17:30:00,Artur Sobiech,TakeOn
+135235,47,BlockedShot,0.895,0.73,0.035033099353313446,Hiroshi Kiyotake,h,396,FromCorner,2016,RightFoot,1783,Sevilla,Espanyol,6,4,2016-08-21 00:15:00,Pablo Sarabia,HeadPass
+135240,73,Goal,0.9230000305175782,0.43400001525878906,0.5818660259246826,Hiroshi Kiyotake,h,396,OpenPlay,2016,RightFoot,1783,Sevilla,Espanyol,6,4,2016-08-21 00:15:00,Franco Vázquez,Throughball

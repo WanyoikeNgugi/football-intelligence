@@ -1,0 +1,10 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+173756,16,BlockedShot,0.6990000152587891,0.34900001525878904,0.012025400064885616,Marco Fossati,h,6134,FromCorner,2017,RightFoot,7544,Verona,Sampdoria,0,0,2017-09-20 19:45:00,,None
+173980,42,SavedShot,0.9159999847412109,0.8159999847412109,0.06396599858999252,Marco Fossati,h,6134,DirectFreekick,2017,RightFoot,7552,Verona,Lazio,0,3,2017-09-24 14:00:00,,Standard
+174554,61,BlockedShot,0.740999984741211,0.4209999847412109,0.01543479971587658,Marco Fossati,h,6134,FromCorner,2017,RightFoot,7573,Verona,Benevento,1,0,2017-10-16 19:45:00,,None
+175790,94,MissedShots,0.774000015258789,0.375,0.02457910031080246,Marco Fossati,h,6134,OpenPlay,2017,LeftFoot,7621,Verona,Bologna,2,3,2017-11-20 19:45:00,,Rebound
+205172,90,MissedShots,0.7969999694824219,0.37599998474121094,0.022561799734830856,Marco Fossati,a,6134,FromCorner,2017,RightFoot,7763,Benevento,Verona,3,0,2018-04-04 16:00:00,,None
+207880,2,MissedShots,0.7819999694824219,0.4,0.012837899848818779,Marco Fossati,h,6134,OpenPlay,2017,LeftFoot,7801,Verona,Cagliari,1,0,2018-04-08 13:00:00,Franco Zuculini,Chipped
+207883,31,BlockedShot,0.735,0.41700000762939454,0.011579900048673153,Marco Fossati,h,6134,SetPiece,2017,LeftFoot,7801,Verona,Cagliari,1,0,2018-04-08 13:00:00,,None
+215534,38,BlockedShot,0.7759999847412109,0.32099998474121094,0.018758300691843033,Marco Fossati,h,6134,OpenPlay,2017,RightFoot,7868,Verona,Udinese,0,1,2018-05-13 14:00:00,Rômulo,Pass
+215970,56,BlockedShot,0.7,0.3770000076293945,0.010871199890971184,Marco Fossati,a,6134,SetPiece,2017,RightFoot,7874,Juventus,Verona,2,1,2018-05-19 00:00:00,,Dispossessed

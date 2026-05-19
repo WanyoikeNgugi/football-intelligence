@@ -1,0 +1,51 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+24456,15,Goal,0.9080000305175782,0.4179999923706055,0.03720010071992874,Julian Schieber,h,2633,OpenPlay,2014,Head,5450,Hertha Berlin,Werder Bremen,2,2,2014-08-23 14:30:00,Roy Beerens,Chipped
+24461,21,SavedShot,0.8480000305175781,0.42400001525878905,0.34750598669052124,Julian Schieber,h,2633,OpenPlay,2014,LeftFoot,5450,Hertha Berlin,Werder Bremen,2,2,2014-08-23 14:30:00,Ronny,Throughball
+24468,46,Goal,0.9669999694824218,0.485,0.7869849801063538,Julian Schieber,h,2633,OpenPlay,2014,LeftFoot,5450,Hertha Berlin,Werder Bremen,2,2,2014-08-23 14:30:00,,Rebound
+24473,56,MissedShots,0.9409999847412109,0.6480000305175782,0.016115499660372734,Julian Schieber,h,2633,FromCorner,2014,Head,5450,Hertha Berlin,Werder Bremen,2,2,2014-08-23 14:30:00,Ronny,Cross
+24478,75,BlockedShot,0.7930000305175782,0.3529999923706055,0.027686700224876404,Julian Schieber,h,2633,OpenPlay,2014,LeftFoot,5450,Hertha Berlin,Werder Bremen,2,2,2014-08-23 14:30:00,Peter Pekarík,Pass
+24481,78,SavedShot,0.8469999694824218,0.47299999237060547,0.012172199785709381,Julian Schieber,h,2633,OpenPlay,2014,Head,5450,Hertha Berlin,Werder Bremen,2,2,2014-08-23 14:30:00,,Rebound
+24586,40,BlockedShot,0.8930000305175781,0.4779999923706055,0.05551740154623985,Julian Schieber,a,2633,FromCorner,2014,Head,5460,Bayer Leverkusen,Hertha Berlin,4,2,2014-08-30 14:30:00,Roy Beerens,Cross
+24589,44,MissedShots,0.865,0.4759999847412109,0.0723847970366478,Julian Schieber,a,2633,FromCorner,2014,LeftFoot,5460,Bayer Leverkusen,Hertha Berlin,4,2,2014-08-30 14:30:00,,None
+24594,59,Goal,0.9719999694824218,0.45599998474121095,0.5846449732780457,Julian Schieber,a,2633,OpenPlay,2014,Head,5460,Bayer Leverkusen,Hertha Berlin,4,2,2014-08-30 14:30:00,,None
+24960,9,BlockedShot,0.9640000152587891,0.6969999694824218,0.05406840145587921,Julian Schieber,h,2633,OpenPlay,2014,LeftFoot,5415,Hertha Berlin,Mainz 05,1,3,2014-09-13 14:30:00,Jens Hegeler,HeadPass
+24973,49,MissedShots,0.899000015258789,0.6329999923706054,0.356905996799469,Julian Schieber,h,2633,OpenPlay,2014,LeftFoot,5415,Hertha Berlin,Mainz 05,1,3,2014-09-13 14:30:00,,None
+24981,92,BlockedShot,0.9590000152587891,0.6840000152587891,0.042344000190496445,Julian Schieber,h,2633,OpenPlay,2014,LeftFoot,5415,Hertha Berlin,Mainz 05,1,3,2014-09-13 14:30:00,,None
+25582,82,MissedShots,0.905,0.6780000305175782,0.02041039988398552,Julian Schieber,a,2633,OpenPlay,2014,LeftFoot,5445,Augsburg,Hertha Berlin,1,0,2014-09-28 14:30:00,,Aerial
+27126,47,MissedShots,0.885,0.31,0.06059790030121803,Julian Schieber,h,2633,OpenPlay,2014,RightFoot,5378,Hertha Berlin,Bayern Munich,0,1,2014-11-29 14:30:00,Jens Hegeler,TakeOn
+27276,17,MissedShots,0.8059999847412109,0.635,0.0340052992105484,Julian Schieber,a,2633,OpenPlay,2014,LeftFoot,5313,Borussia M.Gladbach,Hertha Berlin,3,2,2014-12-06 14:30:00,Per Skjelbred,Chipped
+27281,44,Goal,0.9369999694824219,0.49900001525878906,0.3684549927711487,Julian Schieber,a,2633,OpenPlay,2014,Head,5313,Borussia M.Gladbach,Hertha Berlin,3,2,2014-12-06 14:30:00,Änis Ben-Hatira,Chipped
+28149,39,Goal,0.8909999847412109,0.445,0.27206799387931824,Julian Schieber,h,2633,OpenPlay,2014,RightFoot,5322,Hertha Berlin,Borussia Dortmund,1,0,2014-12-13 14:30:00,Per Skjelbred,TakeOn
+27784,36,Goal,0.93,0.5670000076293945,0.5211430191993713,Julian Schieber,a,2633,OpenPlay,2014,LeftFoot,5334,Eintracht Frankfurt,Hertha Berlin,4,4,2014-12-17 19:00:00,Änis Ben-Hatira,Pass
+27793,59,SavedShot,0.9069999694824219,0.610999984741211,0.1396230012178421,Julian Schieber,a,2633,OpenPlay,2014,LeftFoot,5334,Eintracht Frankfurt,Hertha Berlin,4,4,2014-12-17 19:00:00,Änis Ben-Hatira,Pass
+28243,50,MissedShots,0.8719999694824219,0.5429999923706055,0.03313349932432175,Julian Schieber,h,2633,OpenPlay,2014,Head,5346,Hertha Berlin,Hoffenheim,0,5,2014-12-21 14:30:00,Peter Pekarík,Cross
+28525,10,MissedShots,0.7859999847412109,0.74,0.021158000454306602,Julian Schieber,a,2633,OpenPlay,2014,LeftFoot,5260,Werder Bremen,Hertha Berlin,2,0,2015-02-01 14:30:00,Valentin Stocker,Pass
+29465,17,MissedShots,0.9319999694824219,0.6659999847412109,0.07504849880933762,Julian Schieber,a,2633,OpenPlay,2014,LeftFoot,5275,Mainz 05,Hertha Berlin,0,2,2015-02-07 14:30:00,Valentin Stocker,Pass
+28602,4,SavedShot,0.9119999694824219,0.6990000152587891,0.047194499522447586,Julian Schieber,h,2633,SetPiece,2014,LeftFoot,5287,Hertha Berlin,Freiburg,0,2,2015-02-15 14:30:00,Ronny,Chipped
+28612,56,MissedShots,0.9019999694824219,0.5459999847412109,0.08299270272254944,Julian Schieber,h,2633,OpenPlay,2014,Head,5287,Hertha Berlin,Freiburg,0,2,2015-02-15 14:30:00,Roy Beerens,Cross
+28616,83,SavedShot,0.7390000152587891,0.5070000076293946,0.01836949959397316,Julian Schieber,h,2633,OpenPlay,2014,LeftFoot,5287,Hertha Berlin,Freiburg,0,2,2015-02-15 14:30:00,Sandro Wagner,LayOff
+28617,84,BlockedShot,0.794000015258789,0.48700000762939455,0.013657700270414352,Julian Schieber,h,2633,SetPiece,2014,LeftFoot,5287,Hertha Berlin,Freiburg,0,2,2015-02-15 14:30:00,Sandro Wagner,Aerial
+29021,29,Goal,0.9319999694824219,0.49700000762939456,0.4566049873828888,Julian Schieber,a,2633,OpenPlay,2014,Head,5297,Wolfsburg,Hertha Berlin,2,1,2015-02-22 16:30:00,Valentin Stocker,Cross
+83697,84,MissedShots,0.9119999694824219,0.35200000762939454,0.014872999861836433,Julian Schieber,h,2633,FromCorner,2015,Head,1316,Hertha Berlin,Darmstadt,1,2,2016-05-07 17:30:00,Mitchell Weiser,Cross
+83910,90,MissedShots,0.7719999694824219,0.6480000305175782,0.011895700357854366,Julian Schieber,a,2633,OpenPlay,2015,LeftFoot,1324,Mainz 05,Hertha Berlin,0,0,2016-05-14 17:30:00,,Aerial
+127669,94,BlockedShot,0.889000015258789,0.654000015258789,0.06946960091590881,Julian Schieber,h,2633,OpenPlay,2016,LeftFoot,1334,Hertha Berlin,Freiburg,2,1,2016-08-28 17:30:00,,Dispossessed
+127670,94,Goal,0.899000015258789,0.6580000305175782,0.058444101363420486,Julian Schieber,h,2633,OpenPlay,2016,LeftFoot,1334,Hertha Berlin,Freiburg,2,1,2016-08-28 17:30:00,,Rebound
+127944,85,Goal,0.9069999694824219,0.5109999847412109,0.3411389887332916,Julian Schieber,a,2633,OpenPlay,2016,Head,1338,Ingolstadt,Hertha Berlin,0,2,2016-09-10 17:30:00,Genki Haraguchi,Cross
+128814,86,SavedShot,0.865999984741211,0.44799999237060545,0.2446569949388504,Julian Schieber,a,2633,OpenPlay,2016,Head,1368,Eintracht Frankfurt,Hertha Berlin,3,3,2016-09-24 17:30:00,Genki Haraguchi,HeadPass
+128924,92,MissedShots,0.8919999694824219,0.38599998474121094,0.10665799677371979,Julian Schieber,h,2633,OpenPlay,2016,LeftFoot,1374,Hertha Berlin,Hamburger SV,2,0,2016-10-01 17:30:00,Genki Haraguchi,Pass
+129365,71,SavedShot,0.7909999847412109,0.33799999237060546,0.02428239956498146,Julian Schieber,h,2633,OpenPlay,2016,LeftFoot,1394,Hertha Berlin,FC Cologne,2,1,2016-10-22 17:30:00,Mitchell Weiser,Pass
+129369,89,MissedShots,0.8619999694824219,0.48700000762939455,0.11584500223398209,Julian Schieber,h,2633,OpenPlay,2016,LeftFoot,1394,Hertha Berlin,FC Cologne,2,1,2016-10-22 17:30:00,Mitchell Weiser,Pass
+130030,68,SavedShot,0.860999984741211,0.725999984741211,0.032396100461483,Julian Schieber,a,2633,OpenPlay,2016,LeftFoot,2819,Augsburg,Hertha Berlin,0,0,2016-11-19 18:30:00,Niklas Stark,Pass
+130031,76,MissedShots,0.9,0.5570000076293945,0.03774559870362282,Julian Schieber,a,2633,OpenPlay,2016,Head,2819,Augsburg,Hertha Berlin,0,0,2016-11-19 18:30:00,Vedad Ibisevic,Aerial
+130484,3,SavedShot,0.89,0.34900001525878904,0.11319600045681,Julian Schieber,a,2633,OpenPlay,2016,RightFoot,3193,Wolfsburg,Hertha Berlin,2,3,2016-12-03 18:30:00,Valentin Stocker,Chipped
+130494,43,SavedShot,0.7830000305175782,0.325,0.023138200864195824,Julian Schieber,a,2633,OpenPlay,2016,LeftFoot,3193,Wolfsburg,Hertha Berlin,2,3,2016-12-03 18:30:00,Fabian Lustenberger,Pass
+130496,46,MissedShots,0.745999984741211,0.40700000762939453,0.01738939993083477,Julian Schieber,a,2633,OpenPlay,2016,LeftFoot,3193,Wolfsburg,Hertha Berlin,2,3,2016-12-03 18:30:00,,BlockedPass
+131433,85,MissedShots,0.970999984741211,0.899000015258789,0.01709109917283058,Julian Schieber,a,2633,OpenPlay,2016,LeftFoot,3738,Freiburg,Hertha Berlin,2,1,2017-01-29 17:30:00,Marvin Plattenhardt,Pass
+131436,87,Goal,0.92,0.5529999923706055,0.09540779888629913,Julian Schieber,a,2633,OpenPlay,2016,LeftFoot,3738,Freiburg,Hertha Berlin,2,1,2017-01-29 17:30:00,,BallTouch
+132037,68,MissedShots,0.7609999847412109,0.6419999694824219,0.02910280041396618,Julian Schieber,h,2633,OpenPlay,2016,LeftFoot,3745,Hertha Berlin,Ingolstadt,1,0,2017-02-04 14:30:00,Vedad Ibisevic,Pass
+208381,86,MissedShots,0.92,0.6170000076293946,0.2924500107765198,Julian Schieber,h,2633,OpenPlay,2017,LeftFoot,8522,Hertha Berlin,FC Cologne,2,1,2018-04-14 13:30:00,Mathew Leckie,Cross
+256511,64,MissedShots,0.915,0.5309999847412109,0.03781669959425926,Julian Schieber,h,2633,FromCorner,2018,Head,10441,Augsburg,Eintracht Frankfurt,1,3,2018-11-24 14:30:00,Philipp Max,Aerial
+256718,22,BlockedShot,0.795,0.4640000152587891,0.12125000357627869,Julian Schieber,a,2633,DirectFreekick,2018,LeftFoot,10448,VfB Stuttgart,Augsburg,1,0,2018-12-01 14:30:00,,Standard
+302289,60,SavedShot,0.865999984741211,0.64,0.06516610085964203,Julian Schieber,a,2633,OpenPlay,2018,LeftFoot,10641,Wolfsburg,Augsburg,8,1,2019-05-18 13:30:00,Jonathan Schmid,Pass
+302294,81,Goal,0.8809999847412109,0.6359999847412109,0.24034300446510315,Julian Schieber,a,2633,OpenPlay,2018,LeftFoot,10641,Wolfsburg,Augsburg,8,1,2019-05-18 13:30:00,Marco Richter,Pass
+322493,70,SavedShot,0.8469999694824218,0.475,0.06051870062947273,Julian Schieber,h,2633,OpenPlay,2019,LeftFoot,12451,Augsburg,Bayer Leverkusen,0,3,2019-09-28 13:30:00,,None

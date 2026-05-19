@@ -1,0 +1,18 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+162251,87,Goal,0.720999984741211,0.4909999847412109,0.01506900042295456,Jeremy Grimm,h,5985,OpenPlay,2017,RightFoot,8582,Strasbourg,Lille,3,0,2017-08-13 14:00:00,,Rebound
+163101,90,BlockedShot,0.7609999847412109,0.28299999237060547,0.009753970429301262,Jeremy Grimm,a,5985,OpenPlay,2017,RightFoot,8622,Monaco,Strasbourg,3,0,2017-09-16 16:00:00,,None
+164497,69,SavedShot,0.8019999694824219,0.55,0.018476899713277817,Jeremy Grimm,a,5985,OpenPlay,2017,RightFoot,8679,Troyes,Strasbourg,3,0,2017-11-04 19:00:00,Ernest Seka,Chipped
+164498,71,MissedShots,0.8690000152587891,0.415,0.08505979925394058,Jeremy Grimm,a,5985,OpenPlay,2017,RightFoot,8679,Troyes,Strasbourg,3,0,2017-11-04 19:00:00,Anthony Goncalves,Pass
+164499,78,MissedShots,0.875999984741211,0.47200000762939454,0.05256219953298569,Jeremy Grimm,a,5985,SetPiece,2017,Head,8679,Troyes,Strasbourg,3,0,2017-11-04 19:00:00,Jonas Martin,Cross
+179471,33,BlockedShot,0.7290000152587891,0.6079999923706054,0.019387099891901016,Jeremy Grimm,a,5985,OpenPlay,2017,RightFoot,8727,Bordeaux,Strasbourg,0,3,2017-12-08 19:45:00,,None
+187161,51,MissedShots,0.7,0.5720000076293945,0.021904300898313522,Jeremy Grimm,h,5985,SetPiece,2017,RightFoot,8763,Strasbourg,Guingamp,0,2,2018-01-12 19:45:00,,TakeOn
+199702,73,MissedShots,0.7430000305175781,0.46700000762939453,0.013574900105595589,Jeremy Grimm,h,5985,FromCorner,2017,RightFoot,8853,Strasbourg,Monaco,1,3,2018-03-09 19:45:00,,Aerial
+207120,47,SavedShot,0.8009999847412109,0.505,0.03445170074701309,Jeremy Grimm,a,5985,OpenPlay,2017,RightFoot,8883,Angers,Strasbourg,1,1,2018-04-07 18:00:00,Stéphane Bahoken,HeadPass
+208803,26,SavedShot,0.91,0.6270000076293946,0.06797319650650024,Jeremy Grimm,h,5985,FromCorner,2017,LeftFoot,8892,Strasbourg,Saint-Etienne,0,1,2018-04-14 18:00:00,,None
+208804,27,MissedShots,0.840999984741211,0.40400001525878904,0.04586949944496155,Jeremy Grimm,h,5985,FromCorner,2017,RightFoot,8892,Strasbourg,Saint-Etienne,0,1,2018-04-14 18:00:00,,None
+208807,38,BlockedShot,0.7919999694824219,0.33,0.022481899708509445,Jeremy Grimm,h,5985,OpenPlay,2017,RightFoot,8892,Strasbourg,Saint-Etienne,0,1,2018-04-14 18:00:00,,None
+208809,48,MissedShots,0.735,0.615999984741211,0.01725810021162033,Jeremy Grimm,h,5985,OpenPlay,2017,RightFoot,8892,Strasbourg,Saint-Etienne,0,1,2018-04-14 18:00:00,Dmitri Lienard,Pass
+208814,74,BlockedShot,0.789000015258789,0.355,0.029450200498104095,Jeremy Grimm,h,5985,OpenPlay,2017,RightFoot,8892,Strasbourg,Saint-Etienne,0,1,2018-04-14 18:00:00,Anthony Goncalves,BallTouch
+215067,52,MissedShots,0.894000015258789,0.4129999923706055,0.0160387996584177,Jeremy Grimm,h,5985,SetPiece,2017,Head,8930,Strasbourg,Lyon,3,2,2018-05-12 20:00:00,Dmitri Lienard,Aerial
+223879,48,MissedShots,0.7240000152587891,0.28299999237060547,0.008647230453789234,Jeremy Grimm,a,5985,SetPiece,2018,RightFoot,10688,Montpellier,Strasbourg,1,1,2018-09-15 18:00:00,,None
+226590,56,SavedShot,0.7659999847412109,0.32599998474121095,0.015669800341129303,Jeremy Grimm,a,5985,FromCorner,2018,LeftFoot,10707,Marseille,Strasbourg,3,2,2018-09-26 17:00:00,,None

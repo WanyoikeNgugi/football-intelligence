@@ -1,0 +1,20 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+24531,70,BlockedShot,0.84,0.6909999847412109,0.027162300422787666,Marcell Jansen,a,4282,SetPiece,2014,LeftFoot,5452,FC Cologne,Hamburger SV,0,0,2014-08-23 14:30:00,,None
+25758,21,SavedShot,0.970999984741211,0.6630000305175782,0.0674939975142479,Marcell Jansen,a,4282,OpenPlay,2014,LeftFoot,5386,Borussia Dortmund,Hamburger SV,0,1,2014-10-04 14:30:00,Matthias Ostrzolek,Tackle
+25770,75,BlockedShot,0.9080000305175782,0.4570000076293945,0.08834230154752731,Marcell Jansen,a,4282,FromCorner,2014,LeftFoot,5386,Borussia Dortmund,Hamburger SV,0,1,2014-10-04 14:30:00,Johan Djourou,BallTouch
+26375,26,MissedShots,0.685,0.6519999694824219,0.014913500286638737,Marcell Jansen,a,4282,OpenPlay,2014,LeftFoot,5405,Hertha Berlin,Hamburger SV,3,0,2014-10-25 14:30:00,Matthias Ostrzolek,Pass
+26381,58,SavedShot,0.9059999847412109,0.68,0.2202479988336563,Marcell Jansen,a,4282,OpenPlay,2014,LeftFoot,5405,Hertha Berlin,Hamburger SV,3,0,2014-10-25 14:30:00,Rafael van der Vaart,Pass
+29146,35,BlockedShot,0.83,0.73,0.03390349820256233,Marcell Jansen,a,4282,OpenPlay,2014,LeftFoot,5268,Paderborn,Hamburger SV,0,3,2015-02-04 19:00:00,Zoltán Stieber,Pass
+29152,52,SavedShot,0.7119999694824218,0.3579999923706055,0.014687599614262581,Marcell Jansen,a,4282,OpenPlay,2014,LeftFoot,5268,Paderborn,Hamburger SV,0,3,2015-02-04 19:00:00,Nicolai Müller,HeadPass
+29158,71,Goal,0.885,0.4,0.06996040046215057,Marcell Jansen,a,4282,FromCorner,2014,LeftFoot,5268,Paderborn,Hamburger SV,0,3,2015-02-04 19:00:00,Nicolai Müller,HeadPass
+28587,49,Goal,0.7340000152587891,0.5320000076293945,0.02609100006520748,Marcell Jansen,h,4282,OpenPlay,2014,LeftFoot,5277,Hamburger SV,Hannover 96,2,1,2015-02-07 17:30:00,Nicolai Müller,Pass
+28803,31,MissedShots,0.8390000152587891,0.7419999694824219,0.02176789939403534,Marcell Jansen,a,4282,OpenPlay,2014,RightFoot,5285,Bayern Munich,Hamburger SV,8,0,2015-02-14 14:30:00,Ronny Marcos,Pass
+28820,73,MissedShots,0.875,0.750999984741211,0.02833629958331585,Marcell Jansen,a,4282,OpenPlay,2014,LeftFoot,5285,Bayern Munich,Hamburger SV,8,0,2015-02-14 14:30:00,,Tackle
+30034,72,ShotOnPost,0.909000015258789,0.69,0.06933149695396423,Marcell Jansen,h,4282,OpenPlay,2014,LeftFoot,5225,Hamburger SV,Augsburg,3,2,2015-04-25 14:30:00,Ivica Olic,Pass
+30036,76,BlockedShot,0.8690000152587891,0.68,0.06131820008158684,Marcell Jansen,h,4282,OpenPlay,2014,RightFoot,5225,Hamburger SV,Augsburg,3,2,2015-04-25 14:30:00,Ivica Olic,Pass
+30038,90,MissedShots,0.8780000305175781,0.555,0.012544600293040276,Marcell Jansen,h,4282,SetPiece,2014,Head,5225,Hamburger SV,Augsburg,3,2,2015-04-25 14:30:00,Zoltán Stieber,Aerial
+30670,45,SavedShot,0.8059999847412109,0.6669999694824219,0.037769000977277756,Marcell Jansen,a,4282,OpenPlay,2014,LeftFoot,5166,Mainz 05,Hamburger SV,1,2,2015-05-03 14:30:00,Pierre-Michel Lasogga,Pass
+30672,47,MissedShots,0.86,0.8319999694824218,0.021223299205303192,Marcell Jansen,a,4282,OpenPlay,2014,LeftFoot,5166,Mainz 05,Hamburger SV,1,2,2015-05-03 14:30:00,,None
+31944,69,SavedShot,0.8540000152587891,0.7030000305175781,0.03578929975628853,Marcell Jansen,h,4282,OpenPlay,2014,RightFoot,5168,Hamburger SV,Freiburg,1,1,2015-05-08 19:30:00,Gojko Kacar,Pass
+31950,85,MissedShots,0.7380000305175781,0.720999984741211,0.011036399751901627,Marcell Jansen,h,4282,SetPiece,2014,LeftFoot,5168,Hamburger SV,Freiburg,1,1,2015-05-08 19:30:00,,Rebound
+30915,20,MissedShots,0.7380000305175781,0.75,0.029743799939751625,Marcell Jansen,a,4282,OpenPlay,2014,LeftFoot,5184,VfB Stuttgart,Hamburger SV,2,1,2015-05-16 14:30:00,Gojko Kacar,Pass

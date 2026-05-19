@@ -1,0 +1,71 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+41762,6,MissedShots,0.6930000305175781,0.37900001525878907,0.011347999796271324,Francesco Magnanelli,a,1466,OpenPlay,2014,RightFoot,5116,Inter,Sassuolo,7,0,2014-09-14 14:00:00,,BallRecovery
+41785,70,BlockedShot,0.755,0.5020000076293946,0.011362199671566486,Francesco Magnanelli,a,1466,OpenPlay,2014,RightFoot,5116,Inter,Sassuolo,7,0,2014-09-14 14:00:00,,Aerial
+42109,15,SavedShot,0.7630000305175781,0.5059999847412109,0.024973800405859947,Francesco Magnanelli,h,1466,OpenPlay,2014,RightFoot,5124,Sassuolo,Sampdoria,0,0,2014-09-21 14:00:00,,None
+42248,60,MissedShots,0.7140000152587891,0.5220000076293946,0.01395179983228445,Francesco Magnanelli,a,1466,OpenPlay,2014,RightFoot,5130,Fiorentina,Sassuolo,0,0,2014-09-24 19:45:00,Marcello Gazzola,Pass
+43745,28,BlockedShot,0.705,0.545,0.013088500127196312,Francesco Magnanelli,h,1466,FromCorner,2014,RightFoot,5099,Sassuolo,Empoli,3,1,2014-10-28 19:45:00,,None
+43747,33,BlockedShot,0.745,0.5359999847412109,0.02046399936079979,Francesco Magnanelli,h,1466,OpenPlay,2014,RightFoot,5099,Sassuolo,Empoli,3,1,2014-10-28 19:45:00,Sergio Floccari,Pass
+44296,18,BlockedShot,0.730999984741211,0.6659999847412109,0.016252899542450905,Francesco Magnanelli,h,1466,OpenPlay,2014,RightFoot,5040,Sassuolo,Atalanta,0,0,2014-11-08 17:00:00,Simone Missiroli,Pass
+44805,41,ShotOnPost,0.749000015258789,0.5670000076293945,0.021145299077033997,Francesco Magnanelli,h,1466,OpenPlay,2014,RightFoot,5060,Sassuolo,Verona,2,1,2014-11-29 17:00:00,Simone Missiroli,Pass
+44808,52,SavedShot,0.7290000152587891,0.5370000076293945,0.015695100650191307,Francesco Magnanelli,h,1466,OpenPlay,2014,RightFoot,5060,Sassuolo,Verona,2,1,2014-11-29 17:00:00,Nicola Sansone,Pass
+45270,31,BlockedShot,0.779000015258789,0.34,0.02088800072669983,Francesco Magnanelli,a,1466,OpenPlay,2014,RightFoot,5010,Palermo,Sassuolo,2,1,2014-12-13 17:00:00,,None
+46730,44,MissedShots,0.755,0.5259999847412109,0.024232899770140648,Francesco Magnanelli,h,1466,FromCorner,2014,RightFoot,4919,Sassuolo,Inter,3,1,2015-02-01 11:30:00,Nicola Sansone,Pass
+47972,76,SavedShot,0.769000015258789,0.41700000762939454,0.017523299902677536,Francesco Magnanelli,a,1466,OpenPlay,2014,LeftFoot,4953,Napoli,Sassuolo,2,0,2015-02-23 18:00:00,,None
+48692,90,BlockedShot,0.7480000305175781,0.44099998474121094,0.016486600041389465,Francesco Magnanelli,h,1466,FromCorner,2014,RightFoot,4902,Sassuolo,Parma,4,1,2015-03-15 14:00:00,,None
+49587,69,Goal,0.789000015258789,0.29700000762939455,0.021020200103521347,Francesco Magnanelli,a,1466,OpenPlay,2014,RightFoot,4816,Udinese,Sassuolo,0,1,2015-05-24 14:00:00,Domenico Berardi,Pass
+93872,21,Goal,0.7169999694824218,0.6079999923706054,0.01520519983023405,Francesco Magnanelli,h,1466,SetPiece,2015,RightFoot,576,Sassuolo,Atalanta,2,2,2015-09-13 17:00:00,Antonio Floro Flores,Pass
+96030,75,BlockedShot,0.715,0.5709999847412109,0.013518399558961391,Francesco Magnanelli,h,1466,FromCorner,2015,RightFoot,605,Sassuolo,Chievo,1,1,2015-09-27 17:00:00,,None
+96959,45,MissedShots,0.7730000305175782,0.35900001525878905,0.024586500599980354,Francesco Magnanelli,h,1466,OpenPlay,2015,RightFoot,627,Sassuolo,Lazio,2,1,2015-10-18 17:00:00,Domenico Berardi,Pass
+96961,52,BlockedShot,0.7619999694824219,0.5129999923706055,0.037498101592063904,Francesco Magnanelli,h,1466,OpenPlay,2015,RightFoot,627,Sassuolo,Lazio,2,1,2015-10-18 17:00:00,,None
+98924,60,SavedShot,0.7440000152587891,0.5609999847412109,0.021021399646997452,Francesco Magnanelli,h,1466,FromCorner,2015,RightFoot,664,Sassuolo,Carpi,1,0,2015-11-08 18:00:00,Nicola Sansone,Pass
+99957,54,BlockedShot,0.7040000152587891,0.47400001525878904,0.012398100458085537,Francesco Magnanelli,h,1466,OpenPlay,2015,RightFoot,689,Sassuolo,Fiorentina,1,1,2015-11-30 22:00:00,Gregoire Defrel,Pass
+99973,91,MissedShots,0.710999984741211,0.62,0.010586200281977654,Francesco Magnanelli,h,1466,OpenPlay,2015,RightFoot,689,Sassuolo,Fiorentina,1,1,2015-11-30 22:00:00,,Rebound
+101985,8,BlockedShot,0.715,0.4909999847412109,0.012254799716174603,Francesco Magnanelli,h,1466,OpenPlay,2015,RightFoot,724,Sassuolo,Frosinone,2,2,2016-01-06 18:00:00,,None
+102000,52,BlockedShot,0.7119999694824218,0.32099998474121094,0.010793900117278099,Francesco Magnanelli,h,1466,OpenPlay,2015,RightFoot,724,Sassuolo,Frosinone,2,2,2016-01-06 18:00:00,,None
+102004,61,BlockedShot,0.740999984741211,0.49599998474121093,0.018724899739027023,Francesco Magnanelli,h,1466,OpenPlay,2015,RightFoot,724,Sassuolo,Frosinone,2,2,2016-01-06 18:00:00,,None
+100970,76,MissedShots,0.7140000152587891,0.455,0.014452200382947922,Francesco Magnanelli,h,1466,OpenPlay,2015,RightFoot,750,Sassuolo,Torino,1,1,2016-01-20 23:45:00,Alfred Duncan,Tackle
+94831,26,MissedShots,0.725,0.6969999694824218,0.013129300437867641,Francesco Magnanelli,a,1466,OpenPlay,2015,RightFoot,762,Atalanta,Sassuolo,1,1,2016-01-30 21:00:00,Alessandro Longhi,Pass
+94842,72,BlockedShot,0.6969999694824218,0.45799999237060546,0.012684100307524204,Francesco Magnanelli,a,1466,FromCorner,2015,RightFoot,762,Atalanta,Sassuolo,1,1,2016-01-30 21:00:00,,None
+95854,22,MissedShots,0.735,0.39,0.013962199911475182,Francesco Magnanelli,a,1466,OpenPlay,2015,RightFoot,794,Chievo,Sassuolo,1,1,2016-02-13 21:00:00,Diego Falcinelli,Pass
+96530,13,MissedShots,0.7390000152587891,0.7609999847412109,0.011647899635136127,Francesco Magnanelli,h,1466,OpenPlay,2015,LeftFoot,805,Sassuolo,Empoli,3,2,2016-02-21 18:00:00,,Dispossessed
+99582,53,SavedShot,0.8630000305175781,0.5820000076293945,0.06036530062556267,Francesco Magnanelli,h,1466,OpenPlay,2015,LeftFoot,862,Sassuolo,Genoa,0,1,2016-04-09 20:00:00,,None
+100702,60,SavedShot,0.745,0.5259999847412109,0.01960429921746254,Francesco Magnanelli,h,1466,OpenPlay,2015,RightFoot,882,Sassuolo,Sampdoria,0,0,2016-04-20 20:30:00,Nicola Sansone,Pass
+101216,28,MissedShots,0.695,0.5570000076293945,0.010506900027394295,Francesco Magnanelli,a,1466,OpenPlay,2015,RightFoot,893,Torino,Sassuolo,1,3,2016-04-24 17:00:00,,None
+145022,42,BlockedShot,0.7419999694824219,0.4909999847412109,0.02467530034482479,Francesco Magnanelli,h,1466,OpenPlay,2016,RightFoot,945,Sassuolo,Pescara,2,1,2016-08-28 22:45:00,Alfred Duncan,Pass
+147104,86,MissedShots,0.5540000152587891,0.66,0.006870429962873459,Francesco Magnanelli,h,1466,OpenPlay,2016,RightFoot,983,Sassuolo,Udinese,1,0,2016-09-25 17:00:00,Pietro Iemmello,Pass
+151973,62,MissedShots,0.7180000305175781,0.6329999923706054,0.015399799682199955,Francesco Magnanelli,h,1466,OpenPlay,2016,RightFoot,3072,Sassuolo,Empoli,3,0,2016-12-04 18:00:00,Gregoire Defrel,Pass
+153617,6,Goal,0.775,0.5220000076293946,0.03047800064086914,Francesco Magnanelli,h,1466,FromCorner,2016,RightFoot,3704,Sassuolo,Cagliari,6,2,2017-05-21 14:00:00,Domenico Berardi,Pass
+173078,30,MissedShots,0.775,0.29200000762939454,0.018907299265265465,Francesco Magnanelli,a,1466,FromCorner,2017,RightFoot,7511,Torino,Sassuolo,3,0,2017-08-27 17:00:00,Domenico Berardi,Pass
+173091,56,BlockedShot,0.750999984741211,0.525,0.02317669987678528,Francesco Magnanelli,a,1466,OpenPlay,2017,RightFoot,7511,Torino,Sassuolo,3,0,2017-08-27 17:00:00,Domenico Berardi,Pass
+173104,10,MissedShots,0.6990000152587891,0.64,0.011672900058329105,Francesco Magnanelli,a,1466,OpenPlay,2017,RightFoot,7519,Atalanta,Sassuolo,2,1,2017-09-10 14:00:00,,Dispossessed
+173120,67,BlockedShot,0.759000015258789,0.46700000762939453,0.022618500515818596,Francesco Magnanelli,a,1466,OpenPlay,2017,RightFoot,7519,Atalanta,Sassuolo,2,1,2017-09-10 14:00:00,,None
+173555,59,MissedShots,0.8519999694824218,0.365,0.048081498593091965,Francesco Magnanelli,h,1466,SetPiece,2017,RightFoot,7536,Sassuolo,Juventus,1,3,2017-09-17 11:30:00,,None
+173707,41,BlockedShot,0.725,0.31,0.01203139964491129,Francesco Magnanelli,a,1466,OpenPlay,2017,RightFoot,7542,Cagliari,Sassuolo,0,1,2017-09-20 19:45:00,Pol Lirola,Pass
+173725,86,MissedShots,0.7219999694824218,0.39599998474121095,0.010147100314497948,Francesco Magnanelli,a,1466,SetPiece,2017,RightFoot,7542,Cagliari,Sassuolo,0,1,2017-09-20 19:45:00,,None
+174698,46,BlockedShot,0.7969999694824219,0.40900001525878904,0.02462870068848133,Francesco Magnanelli,h,1466,OpenPlay,2017,LeftFoot,7578,Sassuolo,Chievo,0,0,2017-10-15 14:00:00,Marcello Gazzola,Cross
+176193,36,BlockedShot,0.7680000305175781,0.355,0.013508499599993229,Francesco Magnanelli,h,1466,OpenPlay,2017,RightFoot,7637,Sassuolo,Verona,0,2,2017-11-25 17:00:00,,None
+176330,45,BlockedShot,0.8109999847412109,0.5279999923706055,0.05106920003890991,Francesco Magnanelli,a,1466,OpenPlay,2017,RightFoot,7642,Fiorentina,Sassuolo,3,0,2017-12-03 14:00:00,Domenico Berardi,Pass
+186763,17,MissedShots,0.749000015258789,0.3240000152587891,0.012866100296378136,Francesco Magnanelli,a,1466,OpenPlay,2017,RightFoot,7697,Genoa,Sassuolo,1,0,2018-01-06 14:00:00,,None
+200676,46,SavedShot,0.8819999694824219,0.6859999847412109,0.04683690145611763,Francesco Magnanelli,h,1466,FromCorner,2017,RightFoot,7776,Sassuolo,SPAL 2013,1,1,2018-03-11 14:00:00,,Rebound
+252538,11,MissedShots,0.7819999694824219,0.345,0.01785999909043312,Francesco Magnanelli,a,1466,FromCorner,2018,RightFoot,9664,Sampdoria,Sassuolo,0,0,2018-10-22 18:30:00,,None
+252555,91,MissedShots,0.7809999847412109,0.5609999847412109,0.03143579885363579,Francesco Magnanelli,a,1466,OpenPlay,2018,RightFoot,9664,Sampdoria,Sassuolo,0,0,2018-10-22 18:30:00,,None
+254826,44,MissedShots,0.764000015258789,0.505,0.025708600878715515,Francesco Magnanelli,h,1466,OpenPlay,2018,RightFoot,9673,Sassuolo,Bologna,2,2,2018-10-28 10:30:00,,None
+253559,46,MissedShots,0.7419999694824219,0.5920000076293945,0.018344199284911156,Francesco Magnanelli,a,1466,OpenPlay,2018,RightFoot,9705,Parma Calcio 1913,Sassuolo,2,1,2018-11-25 11:30:00,Rogerio,Pass
+285273,77,MissedShots,0.825,0.40099998474121096,0.06400270015001297,Francesco Magnanelli,h,1466,OpenPlay,2018,RightFoot,9846,Sassuolo,Napoli,1,1,2019-03-10 17:00:00,Alfred Duncan,Pass
+298509,17,MissedShots,0.6990000152587891,0.6270000076293946,0.010892000049352646,Francesco Magnanelli,a,1466,OpenPlay,2018,RightFoot,9915,Fiorentina,Sassuolo,0,1,2019-04-29 20:00:00,Mehdi Bourabia,Pass
+299912,11,MissedShots,0.7130000305175781,0.4540000152587891,0.012528100050985813,Francesco Magnanelli,h,1466,FromCorner,2018,RightFoot,9920,Sassuolo,Frosinone,2,2,2019-05-05 14:00:00,Merih Demiral,Aerial
+301032,43,MissedShots,0.7440000152587891,0.46599998474121096,0.022721100598573685,Francesco Magnanelli,a,1466,OpenPlay,2018,LeftFoot,9927,Torino,Sassuolo,3,2,2019-05-12 11:30:00,Alfred Duncan,Pass
+302634,46,BlockedShot,0.705,0.705,0.010599399916827679,Francesco Magnanelli,h,1466,OpenPlay,2018,RightFoot,9944,Sassuolo,Roma,0,0,2019-05-18 18:30:00,Manuel Locatelli,Pass
+320931,74,MissedShots,0.8019999694824219,0.37,0.035103898495435715,Francesco Magnanelli,h,1466,OpenPlay,2019,RightFoot,13127,Sassuolo,SPAL 2013,3,0,2019-09-22 10:30:00,Pedro Obiang,Pass
+326826,70,MissedShots,0.7619999694824219,0.555,0.029796000570058823,Francesco Magnanelli,a,1466,OpenPlay,2019,RightFoot,13173,Verona,Sassuolo,0,1,2019-10-25 19:45:00,Domenico Berardi,Pass
+330283,67,BlockedShot,0.7080000305175781,0.445,0.012386499904096127,Francesco Magnanelli,h,1466,FromCorner,2019,RightFoot,13207,Sassuolo,Bologna,3,1,2019-11-08 19:45:00,,Aerial
+339450,95,MissedShots,0.8159999847412109,0.53,0.04759090021252632,Francesco Magnanelli,h,1466,OpenPlay,2019,RightFoot,13256,Sassuolo,Napoli,1,2,2019-12-22 19:45:00,Pedro Obiang,BallTouch
+354363,22,BlockedShot,0.7809999847412109,0.40700000762939453,0.027419300749897957,Francesco Magnanelli,a,1466,OpenPlay,2019,RightFoot,13278,Udinese,Sassuolo,3,0,2020-01-12 11:30:00,Hamed Junior Traore,Pass
+354367,39,MissedShots,0.8440000152587891,0.43599998474121093,0.06564830243587494,Francesco Magnanelli,a,1466,OpenPlay,2019,RightFoot,13278,Udinese,Sassuolo,3,0,2020-01-12 11:30:00,Francesco Caputo,Pass
+354380,84,MissedShots,0.7380000305175781,0.539000015258789,0.010380400344729424,Francesco Magnanelli,a,1466,OpenPlay,2019,RightFoot,13278,Udinese,Sassuolo,3,0,2020-01-12 11:30:00,,Rebound
+371719,22,BlockedShot,0.6890000152587891,0.4620000076293945,0.009568990208208561,Francesco Magnanelli,h,1466,OpenPlay,2019,RightFoot,13413,Sassuolo,Juventus,3,3,2020-07-15 19:45:00,,Dispossessed
+371739,60,BlockedShot,0.7019999694824218,0.48700000762939455,0.015920599922537804,Francesco Magnanelli,h,1466,OpenPlay,2019,RightFoot,13413,Sassuolo,Juventus,3,3,2020-07-15 19:45:00,Filip Djuricic,Pass
+405720,44,BlockedShot,0.7230000305175781,0.605999984741211,0.015700099989771843,Francesco Magnanelli,h,1466,OpenPlay,2020,RightFoot,15646,Sassuolo,Bologna,1,1,2021-02-20 19:45:00,Domenico Berardi,Pass
+405721,44,MissedShots,0.7709999847412109,0.37900001525878907,0.02023470029234886,Francesco Magnanelli,h,1466,OpenPlay,2020,RightFoot,15646,Sassuolo,Bologna,1,1,2021-02-20 19:45:00,Manuel Locatelli,Pass
+471374,74,MissedShots,0.7680000305175781,0.44,0.02348240092396736,Francesco Magnanelli,a,1466,SetPiece,2021,RightFoot,17101,Napoli,Sassuolo,6,1,2022-04-30 13:00:00,Domenico Berardi,Pass
+478082,89,MissedShots,0.7090000152587891,0.7269999694824218,0.008912259712815285,Francesco Magnanelli,h,1466,OpenPlay,2021,RightFoot,17132,Sassuolo,AC Milan,0,3,2022-05-22 16:00:00,Gregoire Defrel,Pass

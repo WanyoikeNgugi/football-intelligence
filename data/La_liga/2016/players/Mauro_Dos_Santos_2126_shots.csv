@@ -1,0 +1,29 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+32557,9,SavedShot,0.865999984741211,0.55,0.06950359791517258,Mauro Dos Santos,h,2126,FromCorner,2014,RightFoot,5829,Almeria,Espanyol,1,1,2014-08-23 22:00:00,,None
+33269,50,Goal,0.8830000305175781,0.500999984741211,0.04776090011000633,Mauro Dos Santos,a,2126,FromCorner,2014,Head,5801,Real Sociedad,Almeria,1,2,2014-09-21 11:00:00,Verza,Cross
+33993,85,MissedShots,0.899000015258789,0.5070000076293946,0.0725414976477623,Mauro Dos Santos,h,2126,FromCorner,2014,Head,5810,Almeria,Atletico Madrid,0,1,2014-09-24 19:00:00,Mané,Cross
+36740,35,SavedShot,0.8119999694824219,0.555,0.008135540410876274,Mauro Dos Santos,h,2126,SetPiece,2014,Head,5657,Almeria,Sevilla,0,2,2015-01-11 11:00:00,Verza,Aerial
+36752,66,MissedShots,0.89,0.3820000076293945,0.012417100369930267,Mauro Dos Santos,h,2126,FromCorner,2014,Head,5657,Almeria,Sevilla,0,2,2015-01-11 11:00:00,Corona,Aerial
+37766,8,BlockedShot,0.935,0.5709999847412109,0.31100499629974365,Mauro Dos Santos,h,2126,FromCorner,2014,Head,5603,Almeria,Getafe,1,0,2015-02-01 16:00:00,Corona,Cross
+40086,47,MissedShots,0.9490000152587891,0.3120000076293945,0.052544400095939636,Mauro Dos Santos,h,2126,OpenPlay,2014,RightFoot,5641,Almeria,Deportivo La Coruna,0,0,2015-02-28 19:00:00,,Rebound
+38587,62,MissedShots,0.8680000305175781,0.585,0.03221239894628525,Mauro Dos Santos,h,2126,SetPiece,2014,Head,5508,Almeria,Levante,1,4,2015-04-04 19:00:00,Corona,Cross
+39192,16,SavedShot,0.89,0.575,0.014393500052392483,Mauro Dos Santos,h,2126,FromCorner,2014,Head,5528,Almeria,Granada,3,0,2015-04-11 21:00:00,Corona,Aerial
+39460,49,BlockedShot,0.8880000305175781,0.54,0.048896998167037964,Mauro Dos Santos,a,2126,FromCorner,2014,Head,5540,Rayo Vallecano,Almeria,2,0,2015-04-19 11:00:00,Corona,Cross
+36877,48,OwnGoal,0.03799999952316284,0.524000015258789,0,Mauro Dos Santos,a,2126,OpenPlay,2014,LeftFoot,5559,Real Madrid,Almeria,3,0,2015-04-29 19:00:00,,None
+37833,7,MissedShots,0.9,0.625,0.012386100366711617,Mauro Dos Santos,a,2126,FromCorner,2014,Head,5494,Sevilla,Almeria,2,1,2015-05-17 18:00:00,Míchel Macedo,Aerial
+84321,16,SavedShot,0.875,0.5029999923706054,0.01473539974540472,Mauro Dos Santos,h,2126,FromCorner,2015,Head,1414,Eibar,Athletic Club,2,0,2015-08-30 20:30:00,Saúl Berjón,Aerial
+85570,59,MissedShots,0.8859999847412109,0.3120000076293945,0.04605399817228317,Mauro Dos Santos,h,2126,FromCorner,2015,RightFoot,1454,Eibar,Celta Vigo,1,1,2015-09-27 00:05:00,David Juncà,Pass
+85775,23,MissedShots,0.89,0.42700000762939455,0.054937999695539474,Mauro Dos Santos,h,2126,SetPiece,2015,Head,1495,Eibar,Rayo Vallecano,1,0,2015-11-01 15:00:00,David Juncà,Cross
+85780,60,MissedShots,0.915,0.654000015258789,0.05268469825387001,Mauro Dos Santos,h,2126,OpenPlay,2015,LeftFoot,1495,Eibar,Rayo Vallecano,1,0,2015-11-01 15:00:00,Keko,Cross
+86168,8,BlockedShot,0.8930000305175781,0.485,0.08909469842910767,Mauro Dos Santos,h,2126,FromCorner,2015,LeftFoot,1502,Eibar,Getafe,3,1,2015-11-07 23:30:00,,None
+86690,13,MissedShots,0.88,0.46799999237060547,0.051530301570892334,Mauro Dos Santos,a,2126,FromCorner,2015,RightFoot,1515,Villarreal,Eibar,1,1,2015-11-22 19:00:00,Saúl Berjón,Cross
+87221,16,SavedShot,0.9,0.615999984741211,0.012694500386714935,Mauro Dos Santos,a,2126,FromCorner,2015,Head,1552,Deportivo La Coruna,Eibar,2,0,2015-12-20 01:05:00,Saúl Berjón,Aerial
+88964,79,OwnGoal,0.09,0.44099998474121094,0,Mauro Dos Santos,a,2126,OpenPlay,2015,RightFoot,1603,Athletic Club,Eibar,5,2,2016-01-24 15:00:00,,TakeOn
+89232,21,MissedShots,0.9319999694824219,0.629000015258789,0.012711700052022934,Mauro Dos Santos,a,2126,FromCorner,2015,Head,1619,Atletico Madrid,Eibar,3,1,2016-02-06 19:00:00,Jota,Aerial
+91386,89,BlockedShot,0.7190000152587891,0.534000015258789,0.012496000155806541,Mauro Dos Santos,a,2126,OpenPlay,2015,RightFoot,1689,Getafe,Eibar,1,1,2016-03-18 23:30:00,,None
+91428,88,SavedShot,0.9159999847412109,0.6329999923706054,0.023130999878048897,Mauro Dos Santos,h,2126,FromCorner,2015,Head,1706,Eibar,Villarreal,1,2,2016-04-03 20:15:00,Jota,Cross
+92413,76,SavedShot,0.935,0.6040000152587891,0.016772599890828133,Mauro Dos Santos,h,2126,FromCorner,2015,Head,1743,Eibar,Deportivo La Coruna,1,1,2016-04-24 00:05:00,Jota,Aerial
+92997,43,SavedShot,0.895,0.49700000762939456,0.08411809802055359,Mauro Dos Santos,h,2126,SetPiece,2015,LeftFoot,1766,Eibar,Real Betis,1,1,2016-05-08 19:00:00,,BallTouch
+136700,81,MissedShots,0.9390000152587891,0.5270000076293946,0.07260750234127045,Mauro Dos Santos,a,2126,FromCorner,2016,Head,1845,Real Madrid,Eibar,1,1,2016-10-02 18:15:00,Pedro León,Aerial
+139518,11,MissedShots,0.8430000305175781,0.5829999923706055,0.007793810218572617,Mauro Dos Santos,h,2126,SetPiece,2016,Head,3982,Eibar,Real Madrid,1,4,2017-03-04 15:15:00,Pedro León,Aerial
+186990,51,SavedShot,0.9230000305175782,0.38799999237060545,0.016954699531197548,Mauro Dos Santos,h,2126,FromCorner,2017,Head,8054,Leganes,Real Sociedad,1,0,2018-01-07 11:00:00,Ezequiel Muñoz,Aerial

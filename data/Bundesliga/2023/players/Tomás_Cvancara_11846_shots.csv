@@ -1,0 +1,61 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+533017,26,Goal,0.9059999847412109,0.34599998474121096,0.2827039062976837,Tomás Cvancara,a,11846,OpenPlay,2023,RightFoot,23069,Augsburg,Borussia M.Gladbach,4,4,2023-08-19 13:30:00,Julian Weigl,Pass
+533033,67,MissedShots,0.884000015258789,0.5229999923706055,0.0307899322360754,Tomás Cvancara,a,11846,OpenPlay,2023,Head,23069,Augsburg,Borussia M.Gladbach,4,4,2023-08-19 13:30:00,Joe Scally,Aerial
+533038,86,MissedShots,0.895,0.5459999847412109,0.06099491938948631,Tomás Cvancara,a,11846,OpenPlay,2023,Head,23069,Augsburg,Borussia M.Gladbach,4,4,2023-08-19 13:30:00,Joe Scally,Cross
+533039,96,Goal,0.885,0.5,0.75777667760849,Tomás Cvancara,a,11846,Penalty,2023,RightFoot,23069,Augsburg,Borussia M.Gladbach,4,4,2023-08-19 13:30:00,,Standard
+534926,40,MissedShots,0.875999984741211,0.590999984741211,0.5510935187339783,Tomás Cvancara,h,11846,OpenPlay,2023,LeftFoot,23080,Borussia M.Gladbach,Bayer Leverkusen,0,3,2023-08-26 16:30:00,Franck Honorat,Throughball
+534933,50,MissedShots,0.7819999694824219,0.41200000762939454,0.030729740858078003,Tomás Cvancara,h,11846,OpenPlay,2023,LeftFoot,23080,Borussia M.Gladbach,Bayer Leverkusen,0,3,2023-08-26 16:30:00,Franck Honorat,Pass
+534939,57,BlockedShot,0.8380000305175781,0.47900001525878905,0.08374486863613129,Tomás Cvancara,h,11846,OpenPlay,2023,RightFoot,23080,Borussia M.Gladbach,Bayer Leverkusen,0,3,2023-08-26 16:30:00,Franck Honorat,Pass
+538403,49,SavedShot,0.885,0.5,0.75777667760849,Tomás Cvancara,a,11846,Penalty,2023,RightFoot,23100,Darmstadt,Borussia M.Gladbach,3,3,2023-09-17 15:30:00,,Standard
+538417,71,SavedShot,0.885,0.6630000305175782,0.01007947325706482,Tomás Cvancara,a,11846,OpenPlay,2023,Head,23100,Darmstadt,Borussia M.Gladbach,3,3,2023-09-17 15:30:00,Maximilian Wöber,Cross
+538419,74,MissedShots,0.945,0.5509999847412109,0.12104552239179611,Tomás Cvancara,a,11846,FromCorner,2023,Head,23100,Darmstadt,Borussia M.Gladbach,3,3,2023-09-17 15:30:00,Franck Honorat,Cross
+538420,76,Goal,0.7659999847412109,0.39299999237060546,0.021632900461554527,Tomás Cvancara,a,11846,OpenPlay,2023,RightFoot,23100,Darmstadt,Borussia M.Gladbach,3,3,2023-09-17 15:30:00,,None
+541098,72,BlockedShot,0.8419999694824218,0.4329999923706055,0.13118396699428558,Tomás Cvancara,a,11846,OpenPlay,2023,RightFoot,23111,Bochum,Borussia M.Gladbach,1,3,2023-09-30 13:30:00,,BlockedPass
+541106,90,SavedShot,0.945,0.509000015258789,0.14375494420528412,Tomás Cvancara,a,11846,OpenPlay,2023,Head,23111,Bochum,Borussia M.Gladbach,1,3,2023-09-30 13:30:00,Franck Honorat,Cross
+542265,76,SavedShot,0.950999984741211,0.519000015258789,0.44541627168655396,Tomás Cvancara,h,11846,OpenPlay,2023,Head,23119,Borussia M.Gladbach,Mainz 05,2,2,2023-10-06 18:30:00,Franck Honorat,Aerial
+542268,78,SavedShot,0.95,0.48,0.6003872156143188,Tomás Cvancara,h,11846,FromCorner,2023,RightFoot,23119,Borussia M.Gladbach,Mainz 05,2,2,2023-10-06 18:30:00,,Rebound
+542275,95,MissedShots,0.879000015258789,0.6379999923706055,0.05743402987718582,Tomás Cvancara,h,11846,SetPiece,2023,RightFoot,23119,Borussia M.Gladbach,Mainz 05,2,2,2023-10-06 18:30:00,,Rebound
+542274,95,BlockedShot,0.8140000152587891,0.634000015258789,0.11327598989009857,Tomás Cvancara,h,11846,DirectFreekick,2023,RightFoot,23119,Borussia M.Gladbach,Mainz 05,2,2,2023-10-06 18:30:00,,Standard
+547965,15,Goal,0.9130000305175782,0.49,0.5007561445236206,Tomás Cvancara,h,11846,OpenPlay,2023,RightFoot,23158,Borussia M.Gladbach,Wolfsburg,4,0,2023-11-10 19:30:00,Franck Honorat,Pass
+547971,37,SavedShot,0.8769999694824219,0.5820000076293945,0.3560600280761719,Tomás Cvancara,h,11846,OpenPlay,2023,RightFoot,23158,Borussia M.Gladbach,Wolfsburg,4,0,2023-11-10 19:30:00,Luca Netz,Throughball
+547976,49,BlockedShot,0.884000015258789,0.31799999237060544,0.10457496345043182,Tomás Cvancara,h,11846,OpenPlay,2023,RightFoot,23158,Borussia M.Gladbach,Wolfsburg,4,0,2023-11-10 19:30:00,Alassane Pléa,Pass
+547984,62,BlockedShot,0.8909999847412109,0.5670000076293945,0.14477884769439697,Tomás Cvancara,h,11846,OpenPlay,2023,LeftFoot,23158,Borussia M.Gladbach,Wolfsburg,4,0,2023-11-10 19:30:00,Alassane Pléa,Chipped
+570577,70,MissedShots,0.9259999847412109,0.49700000762939456,0.14226453006267548,Tomás Cvancara,h,11846,OpenPlay,2023,Head,23303,Borussia M.Gladbach,Freiburg,0,3,2024-03-30 14:30:00,Franck Honorat,Cross
+570579,76,MissedShots,0.9290000152587891,0.575,0.03302387148141861,Tomás Cvancara,h,11846,FromCorner,2023,Head,23303,Borussia M.Gladbach,Freiburg,0,3,2024-03-30 14:30:00,Luca Netz,Aerial
+570581,83,BlockedShot,0.9259999847412109,0.49400001525878906,0.08432323485612869,Tomás Cvancara,h,11846,OpenPlay,2023,Head,23303,Borussia M.Gladbach,Freiburg,0,3,2024-03-30 14:30:00,Franck Honorat,Aerial
+573527,66,MissedShots,0.9219999694824219,0.455,0.08784236758947372,Tomás Cvancara,h,11846,OpenPlay,2023,Head,23321,Borussia M.Gladbach,Borussia Dortmund,1,2,2024-04-13 13:30:00,Maximilian Wöber,Cross
+573535,90,SavedShot,0.9530000305175781,0.71,0.24355469644069672,Tomás Cvancara,h,11846,OpenPlay,2023,LeftFoot,23321,Borussia M.Gladbach,Borussia Dortmund,1,2,2024-04-13 13:30:00,Robin Hack,Chipped
+573538,91,MissedShots,0.9230000305175782,0.5690000152587891,0.19545570015907288,Tomás Cvancara,h,11846,OpenPlay,2023,Head,23321,Borussia M.Gladbach,Borussia Dortmund,1,2,2024-04-13 13:30:00,Franck Honorat,Cross
+577318,16,SavedShot,0.8590000152587891,0.7019999694824218,0.06294743716716766,Tomás Cvancara,h,11846,OpenPlay,2023,RightFoot,23340,Borussia M.Gladbach,Union Berlin,0,0,2024-04-28 13:30:00,,TakeOn
+577319,19,BlockedShot,0.9009999847412109,0.26600000381469724,0.029829246923327446,Tomás Cvancara,h,11846,OpenPlay,2023,RightFoot,23340,Borussia M.Gladbach,Union Berlin,0,0,2024-04-28 13:30:00,Rocco Reitz,TakeOn
+577331,58,SavedShot,0.914000015258789,0.41900001525878905,0.08069422096014023,Tomás Cvancara,h,11846,OpenPlay,2023,Head,23340,Borussia M.Gladbach,Union Berlin,0,0,2024-04-28 13:30:00,Joe Scally,Cross
+578294,88,BlockedShot,0.884000015258789,0.49900001525878906,0.07798692584037781,Tomás Cvancara,a,11846,OpenPlay,2023,RightFoot,23350,Werder Bremen,Borussia M.Gladbach,2,2,2024-05-04 13:30:00,Ko Itakura,Cross
+579755,57,MissedShots,0.8119999694824219,0.645,0.04030441492795944,Tomás Cvancara,h,11846,OpenPlay,2023,RightFoot,23357,Borussia M.Gladbach,Eintracht Frankfurt,1,1,2024-05-11 13:30:00,,BallRecovery
+579756,60,BlockedShot,0.9569999694824218,0.6909999847412109,0.048478931188583374,Tomás Cvancara,h,11846,OpenPlay,2023,LeftFoot,23357,Borussia M.Gladbach,Eintracht Frankfurt,1,1,2024-05-11 13:30:00,Luca Netz,Chipped
+581677,67,MissedShots,0.779000015258789,0.4109999847412109,0.02672526426613331,Tomás Cvancara,a,11846,OpenPlay,2023,RightFoot,23369,VfB Stuttgart,Borussia M.Gladbach,4,0,2024-05-18 13:30:00,Rocco Reitz,Chipped
+581681,80,BlockedShot,0.8830000305175781,0.4109999847412109,0.0911717340350151,Tomás Cvancara,a,11846,OpenPlay,2023,RightFoot,23369,VfB Stuttgart,Borussia M.Gladbach,4,0,2024-05-18 13:30:00,Stefan Lainer,Pass
+581682,80,MissedShots,0.924000015258789,0.514000015258789,0.13823600113391876,Tomás Cvancara,a,11846,OpenPlay,2023,Head,23369,VfB Stuttgart,Borussia M.Gladbach,4,0,2024-05-18 13:30:00,Fabio Chiarodia,Cross
+589139,89,MissedShots,0.9819999694824219,0.595,0.13754518330097198,Tomás Cvancara,a,11846,OpenPlay,2024,LeftFoot,27752,Bochum,Borussia M.Gladbach,0,2,2024-08-31 13:30:00,,TakeOn
+593984,95,Goal,0.9209999847412109,0.49400001525878906,0.35839876532554626,Tomás Cvancara,h,11846,OpenPlay,2024,Head,27782,Borussia M.Gladbach,Union Berlin,1,0,2024-09-28 13:30:00,Robin Hack,Cross
+595099,46,SavedShot,0.8640000152587891,0.5720000076293945,0.08125684410333633,Tomás Cvancara,a,11846,OpenPlay,2024,RightFoot,27790,Augsburg,Borussia M.Gladbach,2,1,2024-10-04 18:30:00,Luca Netz,Pass
+596865,88,BlockedShot,0.85,0.3340000152587891,0.0628669261932373,Tomás Cvancara,h,11846,OpenPlay,2024,LeftFoot,27803,Borussia M.Gladbach,FC Heidenheim,3,2,2024-10-19 13:30:00,,None
+596867,91,ShotOnPost,0.8619999694824219,0.35700000762939454,0.2976244390010834,Tomás Cvancara,h,11846,OpenPlay,2024,RightFoot,27803,Borussia M.Gladbach,FC Heidenheim,3,2,2024-10-19 13:30:00,Tim Kleindienst,Pass
+596868,92,SavedShot,0.870999984741211,0.43900001525878907,0.07623272389173508,Tomás Cvancara,h,11846,OpenPlay,2024,LeftFoot,27803,Borussia M.Gladbach,FC Heidenheim,3,2,2024-10-19 13:30:00,Kevin Stöger,Cross
+596870,93,MissedShots,0.855999984741211,0.5690000152587891,0.49532055854797363,Tomás Cvancara,h,11846,OpenPlay,2024,LeftFoot,27803,Borussia M.Gladbach,FC Heidenheim,3,2,2024-10-19 13:30:00,,None
+596871,95,SavedShot,0.884000015258789,0.5459999847412109,0.40360552072525024,Tomás Cvancara,h,11846,OpenPlay,2024,RightFoot,27803,Borussia M.Gladbach,FC Heidenheim,3,2,2024-10-19 13:30:00,Kevin Stöger,Pass
+600769,94,MissedShots,0.9159999847412109,0.49,0.3142816424369812,Tomás Cvancara,h,11846,FromCorner,2024,Head,27821,Borussia M.Gladbach,Werder Bremen,4,1,2024-11-03 16:30:00,Kevin Stöger,Cross
+604228,81,BlockedShot,0.8209999847412109,0.5209999847412109,0.04603734612464905,Tomás Cvancara,a,11846,OpenPlay,2024,LeftFoot,27845,Freiburg,Borussia M.Gladbach,3,1,2024-11-30 14:30:00,,None
+611402,11,SavedShot,0.8680000305175781,0.33099998474121095,0.3175797462463379,Tomás Cvancara,a,11846,OpenPlay,2024,RightFoot,27891,Wolfsburg,Borussia M.Gladbach,5,1,2025-01-14 19:30:00,,None
+616225,85,BlockedShot,0.8969999694824219,0.28899999618530275,0.045338619500398636,Tomás Cvancara,h,11846,OpenPlay,2024,RightFoot,27929,Borussia M.Gladbach,Eintracht Frankfurt,1,1,2025-02-08 17:30:00,,None
+619992,82,MissedShots,0.9069999694824219,0.3820000076293945,0.10738661140203476,Tomás Cvancara,a,11846,OpenPlay,2024,RightFoot,27952,FC Heidenheim,Borussia M.Gladbach,0,3,2025-03-01 14:30:00,Luca Netz,Cross
+619994,85,SavedShot,0.8969999694824219,0.46700000762939453,0.4846872091293335,Tomás Cvancara,a,11846,OpenPlay,2024,RightFoot,27952,FC Heidenheim,Borussia M.Gladbach,0,3,2025-03-01 14:30:00,Tim Kleindienst,Pass
+624169,12,MissedShots,0.905,0.5259999847412109,0.09887504577636719,Tomás Cvancara,h,11846,OpenPlay,2024,Head,27980,Borussia M.Gladbach,RasenBallsport Leipzig,1,0,2025-03-29 14:30:00,Franck Honorat,Cross
+624170,13,BlockedShot,0.8469999694824218,0.5879999923706055,0.07660268992185593,Tomás Cvancara,h,11846,OpenPlay,2024,LeftFoot,27980,Borussia M.Gladbach,RasenBallsport Leipzig,1,0,2025-03-29 14:30:00,Robin Hack,Pass
+624177,41,BlockedShot,0.8719999694824219,0.4909999847412109,0.08446016907691956,Tomás Cvancara,h,11846,OpenPlay,2024,RightFoot,27980,Borussia M.Gladbach,RasenBallsport Leipzig,1,0,2025-03-29 14:30:00,,None
+624179,46,MissedShots,0.915,0.5559999847412109,0.11095598340034485,Tomás Cvancara,h,11846,SetPiece,2024,Head,27980,Borussia M.Gladbach,RasenBallsport Leipzig,1,0,2025-03-29 14:30:00,Rocco Reitz,Cross
+627081,86,SavedShot,0.7559999847412109,0.41400001525878904,0.01665991172194481,Tomás Cvancara,h,11846,OpenPlay,2024,RightFoot,28000,Borussia M.Gladbach,Freiburg,1,2,2025-04-12 13:30:00,,Rebound
+627083,90,MissedShots,0.8090000152587891,0.45299999237060545,0.03314049541950226,Tomás Cvancara,h,11846,OpenPlay,2024,RightFoot,28000,Borussia M.Gladbach,Freiburg,1,2,2025-04-12 13:30:00,Marvin Friedrich,HeadPass
+630223,59,Goal,0.9159999847412109,0.5640000152587891,0.21819105744361877,Tomás Cvancara,a,11846,FromCorner,2024,Head,28020,Holstein Kiel,Borussia M.Gladbach,4,3,2025-04-26 13:30:00,Robin Hack,Cross
+630231,80,MissedShots,0.9330000305175781,0.5459999847412109,0.06763243675231934,Tomás Cvancara,a,11846,SetPiece,2024,Head,28020,Holstein Kiel,Borussia M.Gladbach,4,3,2025-04-26 13:30:00,Franck Honorat,Aerial
+633007,78,SavedShot,0.8530000305175781,0.41900001525878905,0.3470492959022522,Tomás Cvancara,a,11846,OpenPlay,2024,RightFoot,28032,Bayern Munich,Borussia M.Gladbach,2,0,2025-05-10 16:30:00,Rocco Reitz,Pass
+634344,90,MissedShots,0.905,0.4620000076293945,0.08056260645389557,Tomás Cvancara,h,11846,OpenPlay,2024,Head,28046,Borussia M.Gladbach,Wolfsburg,0,1,2025-05-17 13:30:00,Ko Itakura,Cross

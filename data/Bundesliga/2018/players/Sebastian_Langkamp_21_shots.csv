@@ -1,0 +1,36 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+24459,20,BlockedShot,0.8930000305175781,0.519000015258789,0.018663600087165833,Sebastian Langkamp,h,21,FromCorner,2014,Head,5450,Hertha Berlin,Werder Bremen,2,2,2014-08-23 14:30:00,Ronny,Aerial
+31298,66,BlockedShot,0.9259999847412109,0.4879999923706055,0.06128780171275139,Sebastian Langkamp,h,21,FromCorner,2014,Head,5245,Hertha Berlin,Schalke 04,2,2,2015-03-14 14:30:00,,None
+32103,83,Goal,0.8880000305175781,0.5029999923706054,0.057534199208021164,Sebastian Langkamp,a,21,SetPiece,2014,Head,5251,Hamburger SV,Hertha Berlin,0,1,2015-03-20 19:30:00,Marvin Plattenhardt,Chipped
+32067,16,SavedShot,0.9369999694824219,0.4520000076293945,0.20754000544548035,Sebastian Langkamp,h,21,FromCorner,2014,Head,5216,Hertha Berlin,FC Cologne,0,0,2015-04-18 14:30:00,Per Skjelbred,Aerial
+32074,57,MissedShots,0.870999984741211,0.455,0.01218860037624836,Sebastian Langkamp,h,21,SetPiece,2014,Head,5216,Hertha Berlin,FC Cologne,0,0,2015-04-18 14:30:00,Marvin Plattenhardt,Aerial
+80027,41,SavedShot,0.899000015258789,0.534000015258789,0.41107499599456787,Sebastian Langkamp,h,21,FromCorner,2015,RightFoot,1172,Hertha Berlin,Mainz 05,2,0,2015-12-20 18:30:00,,Rebound
+82803,21,BlockedShot,0.8830000305175781,0.524000015258789,0.01548099983483553,Sebastian Langkamp,h,21,FromCorner,2015,Head,1273,Hertha Berlin,Hannover 96,2,2,2016-04-08 22:30:00,Tolga Cigerci,Aerial
+128895,6,SavedShot,0.9259999847412109,0.445,0.04052690044045448,Sebastian Langkamp,h,21,FromCorner,2016,Head,1374,Hertha Berlin,Hamburger SV,2,0,2016-10-01 17:30:00,Marvin Plattenhardt,Aerial
+129364,70,MissedShots,0.919000015258789,0.500999984741211,0.09495510160923004,Sebastian Langkamp,h,21,FromCorner,2016,Head,1394,Hertha Berlin,FC Cologne,2,1,2016-10-22 17:30:00,Marvin Plattenhardt,Cross
+131098,7,MissedShots,0.9319999694824219,0.6040000152587891,0.018990900367498398,Sebastian Langkamp,h,21,FromCorner,2016,Head,3207,Hertha Berlin,Werder Bremen,0,1,2016-12-10 21:30:00,,Aerial
+132496,79,SavedShot,0.895,0.6170000076293946,0.07145240157842636,Sebastian Langkamp,a,21,SetPiece,2016,LeftFoot,3755,Schalke 04,Hertha Berlin,2,0,2017-02-11 17:30:00,Vladimir Darida,Chipped
+133819,67,SavedShot,0.8959999847412109,0.4370000076293945,0.05367530137300491,Sebastian Langkamp,h,21,SetPiece,2016,Head,3790,Hertha Berlin,Borussia Dortmund,2,1,2017-03-11 14:30:00,Marvin Plattenhardt,Chipped
+134602,81,MissedShots,0.899000015258789,0.524000015258789,0.02131829969584942,Sebastian Langkamp,h,21,FromCorner,2016,Head,3828,Hertha Berlin,Augsburg,2,0,2017-04-09 14:30:00,Vladimir Darida,Aerial
+133628,45,BlockedShot,0.904000015258789,0.4,0.09832459688186646,Sebastian Langkamp,h,21,SetPiece,2016,RightFoot,3843,Hertha Berlin,Wolfsburg,1,0,2017-04-22 14:30:00,Vladimir Darida,Pass
+165994,64,SavedShot,0.9180000305175782,0.5879999923706055,0.05230730026960373,Sebastian Langkamp,a,21,FromCorner,2017,Head,8274,Borussia Dortmund,Hertha Berlin,2,0,2017-08-26 17:30:00,Marvin Plattenhardt,Cross
+166265,47,BlockedShot,0.7580000305175781,0.3940000152587891,0.02004539966583252,Sebastian Langkamp,h,21,FromCorner,2017,RightFoot,8284,Hertha Berlin,Werder Bremen,1,1,2017-09-10 14:30:00,,BallTouch
+166264,47,BlockedShot,0.8809999847412109,0.43099998474121093,0.014025700278580189,Sebastian Langkamp,h,21,FromCorner,2017,Head,8284,Hertha Berlin,Werder Bremen,1,1,2017-09-10 14:30:00,Marvin Plattenhardt,Aerial
+167863,38,BlockedShot,0.9,0.4779999923706055,0.06588640064001083,Sebastian Langkamp,h,21,FromCorner,2017,Head,8360,Hertha Berlin,Borussia M.Gladbach,2,4,2017-11-18 17:30:00,Mitchell Weiser,Cross
+179732,3,MissedShots,0.9059999847412109,0.524000015258789,0.07534919679164886,Sebastian Langkamp,a,21,FromCorner,2017,Head,8392,Augsburg,Hertha Berlin,1,1,2017-12-10 17:00:00,Mitchell Weiser,Cross
+179737,21,MissedShots,0.8919999694824219,0.5540000152587891,0.3044309914112091,Sebastian Langkamp,a,21,SetPiece,2017,LeftFoot,8392,Augsburg,Hertha Berlin,1,1,2017-12-10 17:00:00,Mitchell Weiser,Chipped
+207440,90,MissedShots,0.9590000152587891,0.46,0.5794349908828735,Sebastian Langkamp,a,21,OpenPlay,2017,RightFoot,8519,Hannover 96,Werder Bremen,2,1,2018-04-06 18:30:00,Johannes Eggestein,None
+256976,25,MissedShots,0.905,0.519000015258789,0.07605350017547607,Sebastian Langkamp,h,21,FromCorner,2018,Head,10459,Werder Bremen,Fortuna Duesseldorf,3,1,2018-12-07 19:30:00,Milot Rashica,Cross
+256987,64,SavedShot,0.9740000152587891,0.3220000076293945,0.01449969969689846,Sebastian Langkamp,h,21,SetPiece,2018,Head,10459,Werder Bremen,Fortuna Duesseldorf,3,1,2018-12-07 19:30:00,Max Kruse,Cross
+257325,46,MissedShots,0.919000015258789,0.425,0.031643401831388474,Sebastian Langkamp,a,21,FromCorner,2018,Head,10464,Borussia Dortmund,Werder Bremen,2,1,2018-12-15 17:30:00,Max Kruse,Foul
+257337,94,BlockedShot,0.8880000305175781,0.45599998474121095,0.04340070113539696,Sebastian Langkamp,a,21,FromCorner,2018,Head,10464,Borussia Dortmund,Werder Bremen,2,1,2018-12-15 17:30:00,Max Kruse,Cross
+257635,47,MissedShots,0.909000015258789,0.28700000762939454,0.03403230011463165,Sebastian Langkamp,h,21,FromCorner,2018,RightFoot,10474,Werder Bremen,Hoffenheim,1,1,2018-12-19 19:30:00,,None
+257758,37,BlockedShot,0.9540000152587891,0.46799999237060547,0.09244199842214584,Sebastian Langkamp,a,21,FromCorner,2018,Head,10485,RasenBallsport Leipzig,Werder Bremen,3,2,2018-12-22 14:30:00,Milos Veljkovic,None
+279381,78,MissedShots,0.97,0.54,0.6691489815711975,Sebastian Langkamp,h,21,FromCorner,2018,RightFoot,10539,Werder Bremen,VfB Stuttgart,1,1,2019-02-22 19:30:00,,Rebound
+292796,44,MissedShots,0.8959999847412109,0.5870000076293945,0.07826489955186844,Sebastian Langkamp,a,21,SetPiece,2018,RightFoot,10584,Borussia M.Gladbach,Werder Bremen,1,1,2019-04-07 17:00:00,Nuri Sahin,Chipped
+297218,29,SavedShot,0.9030000305175782,0.5279999923706055,0.02435700036585331,Sebastian Langkamp,a,21,FromCorner,2018,Head,10614,Fortuna Duesseldorf,Werder Bremen,4,1,2019-04-27 14:30:00,Nuri Sahin,Aerial
+299448,91,MissedShots,0.899000015258789,0.5940000152587891,0.01418980024755001,Sebastian Langkamp,h,21,FromCorner,2018,Head,10621,Werder Bremen,Borussia Dortmund,2,2,2019-05-04 17:30:00,Davy Klaassen,Aerial
+331181,47,BlockedShot,0.78,0.38,0.01498039998114109,Sebastian Langkamp,a,21,FromCorner,2019,RightFoot,12500,Borussia M.Gladbach,Werder Bremen,3,1,2019-11-10 12:30:00,,Aerial
+331191,82,SavedShot,0.8809999847412109,0.40900001525878904,0.02000119909644127,Sebastian Langkamp,a,21,FromCorner,2019,Head,12500,Borussia M.Gladbach,Werder Bremen,3,1,2019-11-10 12:30:00,Leonardo Bittencourt,Cross
+331194,88,MissedShots,0.8730000305175781,0.4929999923706055,0.09246719628572464,Sebastian Langkamp,a,21,FromCorner,2019,LeftFoot,12500,Borussia M.Gladbach,Werder Bremen,3,1,2019-11-10 12:30:00,,Rebound
+332062,56,MissedShots,0.9530000305175781,0.40900001525878904,0.08694329857826233,Sebastian Langkamp,h,21,SetPiece,2019,RightFoot,12507,Werder Bremen,Schalke 04,1,2,2019-11-23 14:30:00,Milot Rashica,Chipped

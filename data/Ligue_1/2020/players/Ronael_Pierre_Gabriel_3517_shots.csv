@@ -1,0 +1,37 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+103441,45,MissedShots,0.7230000305175781,0.685,0.015510099940001965,Ronael Pierre Gabriel,h,3517,OpenPlay,2016,RightFoot,2277,Saint-Etienne,Toulouse,0,0,2016-08-28 19:00:00,Henri Saivet,Pass
+104059,5,BlockedShot,0.7530000305175781,0.7080000305175781,0.017928199842572212,Ronael Pierre Gabriel,h,3517,OpenPlay,2016,RightFoot,2316,Saint-Etienne,Lille,3,1,2016-09-25 17:00:00,Jordan Veretout,Pass
+109609,30,BlockedShot,0.85,0.30100000381469727,0.025283999741077423,Ronael Pierre Gabriel,a,3517,OpenPlay,2016,LeftFoot,4212,Dijon,Saint-Etienne,0,1,2017-03-19 16:00:00,Loic Perrin,TakeOn
+109613,42,SavedShot,0.764000015258789,0.3920000076293945,0.045479100197553635,Ronael Pierre Gabriel,a,3517,OpenPlay,2016,RightFoot,4212,Dijon,Saint-Etienne,0,1,2017-03-19 16:00:00,Romain Hamouma,TakeOn
+161846,15,MissedShots,0.7430000305175781,0.7469999694824219,0.014674699865281582,Ronael Pierre Gabriel,h,3517,OpenPlay,2017,RightFoot,8569,Saint-Etienne,Nice,1,0,2017-08-05 19:00:00,Assane Diousse,Pass
+161855,79,SavedShot,0.82,0.705,0.03402610123157501,Ronael Pierre Gabriel,h,3517,OpenPlay,2017,RightFoot,8569,Saint-Etienne,Nice,1,0,2017-08-05 19:00:00,Jonathan Bamba,Pass
+163555,3,MissedShots,0.740999984741211,0.47,0.017729200422763824,Ronael Pierre Gabriel,a,3517,OpenPlay,2017,RightFoot,8639,Troyes,Saint-Etienne,2,1,2017-10-01 14:00:00,,None
+164452,43,MissedShots,0.7709999847412109,0.27700000762939453,0.009478799998760223,Ronael Pierre Gabriel,h,3517,OpenPlay,2017,RightFoot,8684,Saint-Etienne,Lyon,0,5,2017-11-05 20:00:00,,None
+164765,46,SavedShot,0.86,0.6880000305175781,0.06316059827804565,Ronael Pierre Gabriel,a,3517,OpenPlay,2017,RightFoot,8690,Lille,Saint-Etienne,3,1,2017-11-17 18:00:00,Kévin Monnet-Paquet,TakeOn
+179521,45,BlockedShot,0.710999984741211,0.5459999847412109,0.016387900337576866,Ronael Pierre Gabriel,a,3517,OpenPlay,2017,RightFoot,8729,Marseille,Saint-Etienne,3,0,2017-12-10 20:00:00,Kévin Monnet-Paquet,Pass
+322468,35,MissedShots,0.8780000305175781,0.28899999618530275,0.03871310129761696,Ronael Pierre Gabriel,h,3517,OpenPlay,2019,RightFoot,12450,Mainz 05,Wolfsburg,0,1,2019-09-28 13:30:00,Robin Quaison,None
+360327,2,BlockedShot,0.7269999694824218,0.495,0.015022500418126583,Ronael Pierre Gabriel,a,3517,FromCorner,2019,RightFoot,12604,Wolfsburg,Mainz 05,4,0,2020-02-23 17:00:00,,None
+386370,14,Goal,0.945,0.4329999923706055,0.07384269684553146,Ronael Pierre Gabriel,h,3517,OpenPlay,2020,Head,15852,Brest,Lille,3,2,2020-11-08 12:00:00,Romain Perraud,Aerial
+386397,78,MissedShots,0.8069999694824219,0.27399999618530274,0.024639099836349487,Ronael Pierre Gabriel,h,3517,OpenPlay,2020,RightFoot,15852,Brest,Lille,3,2,2020-11-08 12:00:00,Gaëtan Charbonnier,Pass
+390752,69,SavedShot,0.865,0.3220000076293945,0.04760169982910156,Ronael Pierre Gabriel,a,3517,OpenPlay,2020,RightFoot,15877,Bordeaux,Brest,1,0,2020-12-06 14:00:00,,None
+398112,6,BlockedShot,0.7730000305175782,0.3579999923706055,0.019901299849152565,Ronael Pierre Gabriel,a,3517,OpenPlay,2020,RightFoot,15943,Paris Saint Germain,Brest,3,0,2021-01-09 20:00:00,,None
+398121,43,BlockedShot,0.89,0.415,0.09676969796419144,Ronael Pierre Gabriel,a,3517,OpenPlay,2020,RightFoot,15943,Paris Saint Germain,Brest,3,0,2021-01-09 20:00:00,Romain Faivre,Pass
+399230,31,BlockedShot,0.9280000305175782,0.485,0.14464999735355377,Ronael Pierre Gabriel,h,3517,OpenPlay,2020,LeftFoot,15947,Brest,Rennes,1,2,2021-01-17 12:00:00,Romain Faivre,Pass
+400858,4,MissedShots,0.7809999847412109,0.295,0.018946899101138115,Ronael Pierre Gabriel,a,3517,OpenPlay,2020,RightFoot,15963,Reims,Brest,1,0,2021-01-24 14:00:00,Steve Mounie,BallTouch
+414468,52,MissedShots,0.8059999847412109,0.32799999237060545,0.013441200368106365,Ronael Pierre Gabriel,h,3517,OpenPlay,2020,RightFoot,16066,Brest,Nimes,1,1,2021-04-11 13:00:00,,Aerial
+426764,76,SavedShot,0.9069999694824219,0.44299999237060544,0.3504990041255951,Ronael Pierre Gabriel,h,3517,OpenPlay,2021,RightFoot,17842,Brest,Paris Saint Germain,2,4,2021-08-20 19:00:00,Franck Honorat,Pass
+429186,74,BlockedShot,0.9119999694824219,0.27100000381469724,0.04497599974274635,Ronael Pierre Gabriel,a,3517,OpenPlay,2021,RightFoot,17856,Strasbourg,Brest,3,1,2021-08-29 13:00:00,Franck Honorat,Pass
+432628,84,BlockedShot,0.6769999694824219,0.2560000038146973,0.010525600053369999,Ronael Pierre Gabriel,a,3517,FromCorner,2021,RightFoot,17888,Nantes,Brest,3,1,2021-09-22 17:00:00,Jeremy Le Douaron,None
+447820,65,SavedShot,0.855,0.27700000762939453,0.03398359939455986,Ronael Pierre Gabriel,h,3517,OpenPlay,2021,RightFoot,17996,Brest,Montpellier,0,4,2021-12-11 16:00:00,Romain Faivre,Pass
+458727,60,BlockedShot,0.9009999847412109,0.29200000762939454,0.04191569983959198,Ronael Pierre Gabriel,a,3517,OpenPlay,2021,RightFoot,18064,Reims,Brest,1,1,2022-02-20 14:00:00,Franck Honorat,Pass
+496888,37,SavedShot,0.955,0.395,0.07488880306482315,Ronael Pierre Gabriel,h,3517,OpenPlay,2022,RightFoot,19775,Strasbourg,Marseille,2,2,2022-10-29 19:00:00,,None
+500751,49,SavedShot,0.899000015258789,0.2879999923706055,0.04140780121088028,Ronael Pierre Gabriel,h,3517,OpenPlay,2022,RightFoot,19795,Strasbourg,Lorient,1,1,2022-11-13 16:05:00,Jean-Ricner Bellegarde,BallRecovery
+506908,12,MissedShots,0.860999984741211,0.32099998474121094,0.05153689906001091,Ronael Pierre Gabriel,h,3517,OpenPlay,2022,RightFoot,19158,Espanyol,Osasuna,1,1,2023-02-04 13:00:00,Martin Braithwaite,Pass
+531002,48,Goal,0.8969999694824219,0.34099998474121096,0.03464161232113838,Ronael Pierre Gabriel,h,3517,OpenPlay,2022,RightFoot,19337,Espanyol,Almeria,3,3,2023-06-04 18:00:00,Brian Oliván,Cross
+533675,95,BlockedShot,0.89,0.345,0.07055991142988205,Ronael Pierre Gabriel,a,3517,OpenPlay,2023,RightFoot,23383,Lille,Nantes,2,0,2023-08-20 11:00:00,Samuel Moutoussamy,Pass
+535862,7,MissedShots,0.795,0.22399999618530272,0.008249982260167599,Ronael Pierre Gabriel,h,3517,OpenPlay,2023,RightFoot,23403,Nantes,Marseille,1,1,2023-09-01 19:00:00,Quentin Merlin,Chipped
+535876,51,BlockedShot,0.875999984741211,0.34700000762939454,0.06767597049474716,Ronael Pierre Gabriel,h,3517,OpenPlay,2023,RightFoot,23403,Nantes,Marseille,1,1,2023-09-01 19:00:00,Abdoul Kader Bamba,Pass
+538239,9,MissedShots,0.805,0.3060000038146973,0.021795064210891724,Ronael Pierre Gabriel,a,3517,OpenPlay,2023,RightFoot,23413,Clermont Foot,Nantes,0,1,2023-09-17 13:00:00,Douglas Augusto,Pass
+547345,79,BlockedShot,0.8809999847412109,0.3120000076293945,0.05132121965289116,Ronael Pierre Gabriel,h,3517,OpenPlay,2023,RightFoot,23469,Nantes,Reims,0,1,2023-11-05 14:00:00,Samuel Moutoussamy,Pass
+550357,22,BlockedShot,0.84,0.31,0.038860831409692764,Ronael Pierre Gabriel,h,3517,OpenPlay,2023,RightFoot,23486,Nantes,Le Havre,0,0,2023-11-26 14:00:00,Pedro Chirivella,Pass
+550361,35,BlockedShot,0.710999984741211,0.4779999923706055,0.012358924373984337,Ronael Pierre Gabriel,h,3517,FromCorner,2023,LeftFoot,23486,Nantes,Le Havre,0,0,2023-11-26 14:00:00,,Aerial

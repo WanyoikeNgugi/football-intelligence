@@ -1,0 +1,50 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+76295,61,OwnGoal,0.02700000047683716,0.48,0,Aytac Sulu,h,4,SetPiece,2015,LeftFoot,1026,Darmstadt,Hannover 96,2,2,2015-08-15 17:30:00,,None
+76326,62,MissedShots,0.9459999847412109,0.46599998474121096,0.1016639992594719,Aytac Sulu,a,4,SetPiece,2015,Head,1032,Schalke 04,Darmstadt,1,1,2015-08-22 17:30:00,Konstantin Rausch,Aerial
+76330,75,MissedShots,0.9330000305175781,0.4520000076293945,0.054055601358413696,Aytac Sulu,a,4,FromCorner,2015,Head,1032,Schalke 04,Darmstadt,1,1,2015-08-22 17:30:00,Konstantin Rausch,Aerial
+76809,7,Goal,0.9519999694824218,0.4329999923706055,0.06985989958047867,Aytac Sulu,a,4,SetPiece,2015,Head,1053,Bayer Leverkusen,Darmstadt,0,1,2015-09-12 17:30:00,Konstantin Rausch,Aerial
+77459,89,Goal,0.8780000305175781,0.4929999923706055,0.07577010244131088,Aytac Sulu,a,4,SetPiece,2015,RightFoot,1083,Borussia Dortmund,Darmstadt,2,2,2015-09-27 19:30:00,Florian Jungwirth,None
+78477,33,MissedShots,0.914000015258789,0.5840000152587891,0.025614900514483452,Aytac Sulu,a,4,SetPiece,2015,Head,1118,VfB Stuttgart,Darmstadt,2,0,2015-11-01 18:30:00,Konstantin Rausch,Aerial
+78498,83,MissedShots,0.9059999847412109,0.5729999923706055,0.05606880038976669,Aytac Sulu,a,4,SetPiece,2015,Head,1118,VfB Stuttgart,Darmstadt,2,0,2015-11-01 18:30:00,Tobias Kempe,Chipped
+78845,43,BlockedShot,0.8859999847412109,0.5459999847412109,0.07516449689865112,Aytac Sulu,h,4,OpenPlay,2015,RightFoot,1126,Darmstadt,Hamburger SV,1,1,2015-11-07 21:30:00,Sandro Wagner,None
+79074,8,Goal,0.955,0.47900001525878905,0.13540500402450562,Aytac Sulu,a,4,FromCorner,2015,Head,1137,Ingolstadt,Darmstadt,3,1,2015-11-22 20:40:00,Konstantin Rausch,Cross
+79498,29,Goal,0.909000015258789,0.4909999847412109,0.2730279862880707,Aytac Sulu,a,4,SetPiece,2015,Head,1155,Eintracht Frankfurt,Darmstadt,0,1,2015-12-06 20:30:00,Tobias Kempe,Cross
+79500,35,ShotOnPost,0.904000015258789,0.5479999923706055,0.03448110073804855,Aytac Sulu,a,4,SetPiece,2015,Head,1155,Eintracht Frankfurt,Darmstadt,0,1,2015-12-06 20:30:00,Tobias Kempe,Aerial
+79510,62,SavedShot,0.889000015258789,0.49900001525878906,0.08632130175828934,Aytac Sulu,a,4,SetPiece,2015,RightFoot,1155,Eintracht Frankfurt,Darmstadt,0,1,2015-12-06 20:30:00,,Dispossessed
+80210,29,SavedShot,0.899000015258789,0.629000015258789,0.17573699355125427,Aytac Sulu,a,4,FromCorner,2015,RightFoot,1176,Hannover 96,Darmstadt,1,2,2016-01-23 18:30:00,Luca Caldirola,BallTouch
+80701,32,Goal,0.9519999694824218,0.5159999847412109,0.4153890013694763,Aytac Sulu,a,4,FromCorner,2015,Head,1200,Hoffenheim,Darmstadt,0,2,2016-02-07 20:30:00,Slobodan Rajkovic,HeadPass
+80708,70,MissedShots,0.9259999847412109,0.4490000152587891,0.043393198400735855,Aytac Sulu,a,4,FromCorner,2015,Head,1200,Hoffenheim,Darmstadt,0,2,2016-02-07 20:30:00,Tobias Kempe,Aerial
+80964,61,OwnGoal,0.08399999618530274,0.49700000762939456,0,Aytac Sulu,h,4,SetPiece,2015,Head,1202,Darmstadt,Bayer Leverkusen,1,2,2016-02-13 18:30:00,,None
+80971,82,MissedShots,0.8680000305175781,0.41200000762939454,0.0653316006064415,Aytac Sulu,h,4,SetPiece,2015,RightFoot,1202,Darmstadt,Bayer Leverkusen,1,2,2016-02-13 18:30:00,,None
+81376,81,Goal,0.935,0.45,0.10189999639987946,Aytac Sulu,a,4,SetPiece,2015,Head,1220,Werder Bremen,Darmstadt,2,2,2016-02-27 18:30:00,Tobias Kempe,Chipped
+82174,84,MissedShots,0.9390000152587891,0.515,0.0726780965924263,Aytac Sulu,h,4,FromCorner,2015,Head,1249,Darmstadt,Augsburg,2,2,2016-03-12 18:30:00,Tobias Kempe,Aerial
+82232,75,MissedShots,0.8769999694824219,0.5370000076293945,0.060348499566316605,Aytac Sulu,a,4,SetPiece,2015,OtherBodyPart,1256,Wolfsburg,Darmstadt,1,1,2016-03-19 18:30:00,Konstantin Rausch,Chipped
+82692,37,Goal,0.8690000152587891,0.42200000762939455,0.0379210002720356,Aytac Sulu,a,4,SetPiece,2015,Head,1275,Hamburger SV,Darmstadt,1,2,2016-04-09 17:30:00,Konstantin Rausch,Chipped
+83239,60,ShotOnPost,0.9590000152587891,0.45099998474121095,0.44447198510169983,Aytac Sulu,a,4,FromCorner,2015,Head,1294,FC Cologne,Darmstadt,4,1,2016-04-23 17:30:00,Konstantin Rausch,Cross
+83505,84,MissedShots,0.96,0.40599998474121096,0.022822799161076546,Aytac Sulu,h,4,FromCorner,2015,Head,1304,Darmstadt,Eintracht Frankfurt,1,2,2016-04-30 17:30:00,Konstantin Rausch,Aerial
+130711,89,MissedShots,0.919000015258789,0.5259999847412109,0.05878239870071411,Aytac Sulu,h,4,FromCorner,2016,OtherBodyPart,2820,Darmstadt,Ingolstadt,0,1,2016-11-19 18:30:00,Mario Vrancic,Cross
+130713,89,BlockedShot,0.9169999694824219,0.645,0.07089459896087646,Aytac Sulu,h,4,FromCorner,2016,RightFoot,2820,Darmstadt,Ingolstadt,0,1,2016-11-19 18:30:00,,Rebound
+130999,21,SavedShot,0.7580000305175781,0.5779999923706055,0.01806280016899109,Aytac Sulu,a,4,FromCorner,2016,LeftFoot,2831,Schalke 04,Darmstadt,3,1,2016-11-27 18:30:00,,None
+131011,45,BlockedShot,0.9359999847412109,0.445,0.11102800071239471,Aytac Sulu,a,4,FromCorner,2016,Head,2831,Schalke 04,Darmstadt,3,1,2016-11-27 18:30:00,Änis Ben-Hatira,Cross
+130650,79,MissedShots,0.749000015258789,0.4470000076293945,0.017508700489997864,Aytac Sulu,h,4,SetPiece,2016,RightFoot,3199,Darmstadt,Hamburger SV,0,2,2016-12-04 18:30:00,,BallTouch
+131355,61,SavedShot,0.875,0.5129999923706055,0.015540000051259995,Aytac Sulu,a,4,FromCorner,2016,Head,3202,Freiburg,Darmstadt,1,0,2016-12-10 18:30:00,Mario Vrancic,Aerial
+130184,36,MissedShots,0.9019999694824219,0.40400001525878904,0.050670698285102844,Aytac Sulu,a,4,FromCorner,2016,RightFoot,3225,Hertha Berlin,Darmstadt,2,0,2016-12-21 23:00:00,Jérôme Gondorf,Cross
+130187,42,MissedShots,0.9469999694824218,0.48,0.5279189944267273,Aytac Sulu,a,4,SetPiece,2016,Head,3225,Hertha Berlin,Darmstadt,2,0,2016-12-21 23:00:00,Mario Vrancic,Cross
+130842,75,SavedShot,0.9369999694824219,0.495,0.4215089976787567,Aytac Sulu,h,4,FromCorner,2016,Head,3727,Darmstadt,Borussia M.Gladbach,0,0,2017-01-21 17:30:00,Mario Vrancic,Cross
+131375,31,OwnGoal,0.04400000095367432,0.565,0,Aytac Sulu,h,4,SetPiece,2016,LeftFoot,3736,Darmstadt,FC Cologne,1,6,2017-01-28 17:30:00,,None
+131390,83,MissedShots,0.9130000305175782,0.48200000762939454,0.037148501724004745,Aytac Sulu,h,4,FromCorner,2016,Head,3736,Darmstadt,FC Cologne,1,6,2017-01-28 17:30:00,Jérôme Gondorf,Aerial
+133181,2,SavedShot,0.95,0.48700000762939455,0.4807240068912506,Aytac Sulu,a,4,FromCorner,2016,Head,3779,Werder Bremen,Darmstadt,2,0,2017-03-04 14:30:00,Mario Vrancic,Cross
+133190,23,MissedShots,0.92,0.4759999847412109,0.10230900347232819,Aytac Sulu,a,4,FromCorner,2016,Head,3779,Werder Bremen,Darmstadt,2,0,2017-03-04 14:30:00,Mario Vrancic,Cross
+134048,4,Goal,0.94,0.46799999237060547,0.06968700140714645,Aytac Sulu,h,4,FromCorner,2016,Head,3787,Darmstadt,Mainz 05,2,1,2017-03-11 14:30:00,Mario Vrancic,Aerial
+134055,19,MissedShots,0.925,0.580999984741211,0.03369729965925217,Aytac Sulu,h,4,FromCorner,2016,Head,3787,Darmstadt,Mainz 05,2,1,2017-03-11 14:30:00,,BallTouch
+134056,30,BlockedShot,0.9290000152587891,0.5179999923706055,0.05790790170431137,Aytac Sulu,h,4,SetPiece,2016,Head,3787,Darmstadt,Mainz 05,2,1,2017-03-11 14:30:00,Mario Vrancic,CornerAwarded
+133567,22,MissedShots,0.875999984741211,0.4,0.016976600512862206,Aytac Sulu,a,4,FromCorner,2016,Head,3808,RasenBallsport Leipzig,Darmstadt,4,0,2017-04-01 14:30:00,Mario Vrancic,Cross
+134278,85,MissedShots,0.8640000152587891,0.5129999923706055,0.04315590113401413,Aytac Sulu,h,4,SetPiece,2016,Head,3816,Darmstadt,Bayer Leverkusen,0,2,2017-04-05 19:00:00,Hamit Altintop,Chipped
+133043,81,MissedShots,0.9219999694824219,0.42200000762939455,0.03694479912519455,Aytac Sulu,h,4,SetPiece,2016,Head,3833,Darmstadt,Schalke 04,2,1,2017-04-16 16:30:00,Mario Vrancic,Aerial
+133046,92,BlockedShot,0.909000015258789,0.4179999923706055,0.05216589942574501,Aytac Sulu,h,4,SetPiece,2016,Head,3833,Darmstadt,Schalke 04,2,1,2017-04-16 16:30:00,Marcel Heller,Chipped
+133833,23,SavedShot,0.8590000152587891,0.5729999923706055,0.03329639881849289,Aytac Sulu,a,4,SetPiece,2016,Head,3841,Hamburger SV,Darmstadt,1,2,2017-04-22 14:30:00,Hamit Altintop,Chipped
+133840,50,Goal,0.9630000305175781,0.5270000076293946,0.6597949862480164,Aytac Sulu,a,4,FromCorner,2016,RightFoot,3841,Hamburger SV,Darmstadt,1,2,2017-04-22 14:30:00,,Rebound
+134630,57,MissedShots,0.895,0.4520000076293945,0.05171860009431839,Aytac Sulu,h,4,FromCorner,2016,Head,3849,Darmstadt,Freiburg,3,0,2017-04-29 14:30:00,Mario Vrancic,Cross
+134632,62,MissedShots,0.9519999694824218,0.3340000152587891,0.026229100301861763,Aytac Sulu,h,4,SetPiece,2016,Head,3849,Darmstadt,Freiburg,3,0,2017-04-29 14:30:00,Mario Vrancic,Chipped
+134637,67,BlockedShot,0.9269999694824219,0.46599998474121096,0.05302710086107254,Aytac Sulu,h,4,FromCorner,2016,Head,3849,Darmstadt,Freiburg,3,0,2017-04-29 14:30:00,Mario Vrancic,Aerial
+134788,24,MissedShots,0.9259999847412109,0.5790000152587891,0.022824199870228767,Aytac Sulu,a,4,FromCorner,2016,Head,3859,Bayern Munich,Darmstadt,1,0,2017-05-06 14:30:00,Mario Vrancic,Aerial

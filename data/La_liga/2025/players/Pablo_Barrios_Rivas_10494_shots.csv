@@ -1,0 +1,81 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+496643,94,SavedShot,0.8090000152587891,0.5579999923706055,0.051640599966049194,Pablo Barrios Rivas,a,10494,OpenPlay,2022,RightFoot,19076,Cadiz,Atletico Madrid,3,2,2022-10-29 14:15:00,Nahuel Molina,Pass
+503022,5,SavedShot,0.815,0.46599998474121096,0.060477301478385925,Pablo Barrios Rivas,h,10494,OpenPlay,2022,RightFoot,19113,Atletico Madrid,Barcelona,0,1,2023-01-08 20:00:00,Koke,Pass
+504125,49,MissedShots,0.8730000305175781,0.3039999961853027,0.04587969928979874,Pablo Barrios Rivas,a,10494,OpenPlay,2022,RightFoot,19125,Almeria,Atletico Madrid,1,1,2023-01-15 15:15:00,,None
+504138,93,MissedShots,0.779000015258789,0.26600000381469724,0.013315999880433083,Pablo Barrios Rivas,a,10494,OpenPlay,2022,RightFoot,19125,Almeria,Atletico Madrid,1,1,2023-01-15 15:15:00,,None
+506237,31,MissedShots,0.7869999694824219,0.750999984741211,0.01610580086708069,Pablo Barrios Rivas,a,10494,OpenPlay,2022,RightFoot,19146,Osasuna,Atletico Madrid,0,1,2023-01-29 15:15:00,Thomas Lemar,Pass
+510427,62,MissedShots,0.784000015258789,0.25799999237060545,0.01646370068192482,Pablo Barrios Rivas,h,10494,OpenPlay,2022,RightFoot,19179,Atletico Madrid,Athletic Club,1,0,2023-02-19 17:30:00,Koke,Pass
+512471,68,MissedShots,0.865,0.385,0.10914400219917297,Pablo Barrios Rivas,h,10494,OpenPlay,2022,RightFoot,19192,Atletico Madrid,Sevilla,6,1,2023-03-04 20:00:00,Marcos Llorente,Pass
+512477,79,BlockedShot,0.8569999694824219,0.495,0.12806999683380127,Pablo Barrios Rivas,h,10494,OpenPlay,2022,RightFoot,19192,Atletico Madrid,Sevilla,6,1,2023-03-04 20:00:00,Saúl Ñíguez,Pass
+517308,72,BlockedShot,0.7559999847412109,0.42900001525878906,0.025532299652695656,Pablo Barrios Rivas,h,10494,OpenPlay,2022,RightFoot,19223,Atletico Madrid,Real Betis,1,0,2023-04-02 19:00:00,Rodrigo de Paul,Pass
+520294,85,MissedShots,0.769000015258789,0.39599998474121095,0.03618739917874336,Pablo Barrios Rivas,h,10494,OpenPlay,2022,RightFoot,19251,Atletico Madrid,Almeria,2,1,2023-04-16 16:30:00,,None
+528083,86,SavedShot,0.8919999694824219,0.5270000076293946,0.07197454571723938,Pablo Barrios Rivas,h,10494,OpenPlay,2022,Head,19311,Atletico Madrid,Osasuna,3,0,2023-05-21 14:15:00,Sergio Reguilón,Cross
+528084,87,BlockedShot,0.8119999694824219,0.32,0.03220489248633385,Pablo Barrios Rivas,h,10494,FromCorner,2022,RightFoot,19311,Atletico Madrid,Osasuna,3,0,2023-05-21 14:15:00,Antoine Griezmann,Pass
+544373,42,SavedShot,0.7280000305175781,0.36400001525878906,0.02367992512881756,Pablo Barrios Rivas,a,10494,OpenPlay,2023,RightFoot,22778,Celta Vigo,Atletico Madrid,0,3,2023-10-21 19:00:00,Axel Witsel,Pass
+546546,14,SavedShot,0.8930000305175781,0.6329999923706054,0.11428385227918625,Pablo Barrios Rivas,a,10494,OpenPlay,2023,LeftFoot,22799,Las Palmas,Atletico Madrid,2,1,2023-11-03 19:00:00,,TakeOn
+546564,89,SavedShot,0.7230000305175781,0.6730000305175782,0.00906286109238863,Pablo Barrios Rivas,a,10494,OpenPlay,2023,RightFoot,22799,Las Palmas,Atletico Madrid,2,1,2023-11-03 19:00:00,,Aerial
+550078,51,MissedShots,0.88,0.3,0.03486103191971779,Pablo Barrios Rivas,h,10494,FromCorner,2023,RightFoot,22815,Atletico Madrid,Mallorca,1,0,2023-11-25 20:00:00,,None
+560455,32,SavedShot,0.9219999694824219,0.674000015258789,0.2866896390914917,Pablo Barrios Rivas,h,10494,OpenPlay,2023,RightFoot,22895,Atletico Madrid,Valencia,2,0,2024-01-28 20:00:00,Samuel Lino,Pass
+560748,40,BlockedShot,0.7430000305175781,0.585999984741211,0.01640770584344864,Pablo Barrios Rivas,h,10494,FromCorner,2023,LeftFoot,22877,Atletico Madrid,Rayo Vallecano,2,1,2024-01-31 20:00:00,,None
+563223,23,BlockedShot,0.9130000305175782,0.6459999847412109,0.07566537708044052,Pablo Barrios Rivas,a,10494,OpenPlay,2023,LeftFoot,22920,Sevilla,Atletico Madrid,1,0,2024-02-11 17:30:00,Samuel Lino,Pass
+565482,22,SavedShot,0.7469999694824219,0.644000015258789,0.02551930584013462,Pablo Barrios Rivas,a,10494,OpenPlay,2023,RightFoot,22935,Almeria,Atletico Madrid,2,2,2024-02-24 20:00:00,Reinildo,TakeOn
+570177,6,MissedShots,0.8159999847412109,0.500999984741211,0.0643233209848404,Pablo Barrios Rivas,h,10494,OpenPlay,2023,RightFoot,22965,Atletico Madrid,Barcelona,0,3,2024-03-17 20:00:00,Rodrigo de Paul,Pass
+570179,22,BlockedShot,0.8469999694824218,0.68,0.04243015870451927,Pablo Barrios Rivas,h,10494,OpenPlay,2023,RightFoot,22965,Atletico Madrid,Barcelona,0,3,2024-03-17 20:00:00,,None
+570190,70,MissedShots,0.7959999847412109,0.43200000762939456,0.049083318561315536,Pablo Barrios Rivas,h,10494,OpenPlay,2023,RightFoot,22965,Atletico Madrid,Barcelona,0,3,2024-03-17 20:00:00,Ángel Correa,LayOff
+571742,79,MissedShots,0.9230000305175782,0.5229999923706055,0.1369340419769287,Pablo Barrios Rivas,a,10494,OpenPlay,2023,Head,22982,Villarreal,Atletico Madrid,1,2,2024-04-01 19:00:00,Ángel Correa,Cross
+571743,82,BlockedShot,0.7659999847412109,0.65,0.019353624433279037,Pablo Barrios Rivas,a,10494,OpenPlay,2023,RightFoot,22982,Villarreal,Atletico Madrid,1,2,2024-04-01 19:00:00,Álvaro Morata,Pass
+578742,24,SavedShot,0.749000015258789,0.5370000076293945,0.028269097208976746,Pablo Barrios Rivas,a,10494,OpenPlay,2023,RightFoot,23018,Mallorca,Atletico Madrid,0,1,2024-05-04 19:00:00,Samuel Lino,Pass
+580417,76,SavedShot,0.95,0.2879999923706055,0.04816880822181702,Pablo Barrios Rivas,h,10494,OpenPlay,2023,RightFoot,23026,Atletico Madrid,Celta Vigo,1,0,2024-05-12 14:15:00,Rodrigo de Paul,Chipped
+580418,76,BlockedShot,0.7880000305175782,0.4859999847412109,0.02882407046854496,Pablo Barrios Rivas,h,10494,FromCorner,2023,RightFoot,23026,Atletico Madrid,Celta Vigo,1,0,2024-05-12 14:15:00,,None
+585680,60,MissedShots,0.8040000152587891,0.56,0.033763740211725235,Pablo Barrios Rivas,a,10494,FromCorner,2024,RightFoot,26991,Villarreal,Atletico Madrid,2,2,2024-08-19 19:30:00,,None
+585685,84,MissedShots,0.765,0.6769999694824219,0.018345065414905548,Pablo Barrios Rivas,a,10494,OpenPlay,2024,RightFoot,26991,Villarreal,Atletico Madrid,2,2,2024-08-19 19:30:00,Rodrigo de Paul,Pass
+587113,23,MissedShots,0.745999984741211,0.5279999923706055,0.022402795031666756,Pablo Barrios Rivas,h,10494,OpenPlay,2024,RightFoot,27001,Atletico Madrid,Girona,3,0,2024-08-25 19:30:00,,BallRecovery
+587353,66,MissedShots,0.7580000305175781,0.3940000152587891,0.02263667806982994,Pablo Barrios Rivas,h,10494,OpenPlay,2024,RightFoot,27009,Atletico Madrid,Espanyol,0,0,2024-08-28 19:30:00,Alexander Sørloth,Pass
+587361,91,MissedShots,0.755,0.595999984741211,0.01778237521648407,Pablo Barrios Rivas,h,10494,FromCorner,2024,RightFoot,27009,Atletico Madrid,Espanyol,0,0,2024-08-28 19:30:00,,None
+587364,94,SavedShot,0.774000015258789,0.6370000076293946,0.02342398464679718,Pablo Barrios Rivas,h,10494,OpenPlay,2024,RightFoot,27009,Atletico Madrid,Espanyol,0,0,2024-08-28 19:30:00,Rodrigo Riquelme,Pass
+597613,12,MissedShots,0.775,0.4279999923706055,0.02978583797812462,Pablo Barrios Rivas,h,10494,OpenPlay,2024,RightFoot,27073,Atletico Madrid,Leganes,3,1,2024-10-20 14:15:00,Clement Lenglet,Pass
+597634,90,MissedShots,0.72,0.46099998474121096,0.01829465664923191,Pablo Barrios Rivas,h,10494,OpenPlay,2024,RightFoot,27073,Atletico Madrid,Leganes,3,1,2024-10-20 14:15:00,,None
+600528,7,SavedShot,0.8440000152587891,0.4490000152587891,0.08334024250507355,Pablo Barrios Rivas,h,10494,OpenPlay,2024,LeftFoot,27093,Atletico Madrid,Las Palmas,2,0,2024-11-03 13:00:00,Julián Álvarez,Pass
+600530,31,MissedShots,0.845,0.41400001525878904,0.05182604491710663,Pablo Barrios Rivas,h,10494,FromCorner,2024,LeftFoot,27093,Atletico Madrid,Las Palmas,2,0,2024-11-03 13:00:00,,None
+600535,43,MissedShots,0.8159999847412109,0.3559999847412109,0.02842618152499199,Pablo Barrios Rivas,h,10494,FromCorner,2024,RightFoot,27093,Atletico Madrid,Las Palmas,2,0,2024-11-03 13:00:00,,None
+607376,3,MissedShots,0.725999984741211,0.39,0.01592329517006874,Pablo Barrios Rivas,h,10494,OpenPlay,2024,RightFoot,27142,Atletico Madrid,Getafe,1,0,2024-12-15 13:00:00,,Dispossessed
+607387,48,MissedShots,0.8719999694824219,0.700999984741211,0.06593603640794754,Pablo Barrios Rivas,h,10494,OpenPlay,2024,LeftFoot,27142,Atletico Madrid,Getafe,1,0,2024-12-15 13:00:00,Julián Álvarez,Pass
+608574,76,SavedShot,0.8819999694824219,0.6229999923706054,0.2753969430923462,Pablo Barrios Rivas,a,10494,OpenPlay,2024,LeftFoot,27160,Barcelona,Atletico Madrid,1,2,2024-12-21 20:00:00,Julián Álvarez,Pass
+612327,20,MissedShots,0.7659999847412109,0.33599998474121096,0.021214349195361137,Pablo Barrios Rivas,a,10494,OpenPlay,2024,RightFoot,27176,Leganes,Atletico Madrid,1,0,2025-01-18 15:15:00,Rodrigo de Paul,Pass
+612330,26,SavedShot,0.9230000305175782,0.5970000076293945,0.08436121046543121,Pablo Barrios Rivas,a,10494,FromCorner,2024,LeftFoot,27176,Leganes,Atletico Madrid,1,0,2025-01-18 15:15:00,,None
+613440,10,BlockedShot,0.7909999847412109,0.555,0.029810238629579544,Pablo Barrios Rivas,h,10494,OpenPlay,2024,RightFoot,27183,Atletico Madrid,Villarreal,1,1,2025-01-25 15:15:00,,Rebound
+613462,83,SavedShot,0.7140000152587891,0.5059999847412109,0.023143239319324493,Pablo Barrios Rivas,h,10494,FromCorner,2024,RightFoot,27183,Atletico Madrid,Villarreal,1,1,2025-01-25 15:15:00,Rodrigo de Paul,Pass
+615100,22,MissedShots,0.7569999694824219,0.625999984741211,0.02821890451014042,Pablo Barrios Rivas,h,10494,FromCorner,2024,RightFoot,27192,Atletico Madrid,Mallorca,2,0,2025-02-01 17:30:00,Koke,Pass
+615106,38,MissedShots,0.79,0.35,0.03293026611208916,Pablo Barrios Rivas,h,10494,OpenPlay,2024,RightFoot,27192,Atletico Madrid,Mallorca,2,0,2025-02-01 17:30:00,Marcos Llorente,Pass
+615111,53,BlockedShot,0.8209999847412109,0.37099998474121093,0.019056491553783417,Pablo Barrios Rivas,h,10494,FromCorner,2024,RightFoot,27192,Atletico Madrid,Mallorca,2,0,2025-02-01 17:30:00,,Aerial
+615117,78,MissedShots,0.7719999694824219,0.34799999237060547,0.01059756986796856,Pablo Barrios Rivas,h,10494,FromCorner,2024,RightFoot,27192,Atletico Madrid,Mallorca,2,0,2025-02-01 17:30:00,Antoine Griezmann,Chipped
+616262,90,MissedShots,0.7769999694824219,0.3659999847412109,0.023403584957122803,Pablo Barrios Rivas,a,10494,OpenPlay,2024,RightFoot,27205,Real Madrid,Atletico Madrid,1,1,2025-02-08 20:00:00,Marcos Llorente,Pass
+624216,46,MissedShots,0.7069999694824218,0.6029999923706054,0.01719559170305729,Pablo Barrios Rivas,a,10494,OpenPlay,2024,RightFoot,27262,Espanyol,Atletico Madrid,1,1,2025-03-29 15:15:00,César Azpilicueta,Tackle
+626384,92,Goal,0.8,0.4490000152587891,0.03740037977695465,Pablo Barrios Rivas,a,10494,OpenPlay,2024,LeftFoot,27277,Sevilla,Atletico Madrid,1,2,2025-04-06 14:15:00,Marcos Llorente,Pass
+628169,5,SavedShot,0.8919999694824219,0.5640000152587891,0.08352571725845337,Pablo Barrios Rivas,h,10494,OpenPlay,2024,LeftFoot,27284,Atletico Madrid,Real Valladolid,4,2,2025-04-14 19:00:00,,None
+628170,5,MissedShots,0.91,0.5509999847412109,0.127621129155159,Pablo Barrios Rivas,h,10494,OpenPlay,2024,LeftFoot,27284,Atletico Madrid,Real Valladolid,4,2,2025-04-14 19:00:00,,Rebound
+628186,67,BlockedShot,0.745999984741211,0.375,0.014444186352193356,Pablo Barrios Rivas,h,10494,OpenPlay,2024,RightFoot,27284,Atletico Madrid,Real Valladolid,4,2,2025-04-14 19:00:00,Marcos Llorente,None
+634113,18,SavedShot,0.89,0.35400001525878905,0.11053019016981125,Pablo Barrios Rivas,a,10494,OpenPlay,2024,RightFoot,27335,Osasuna,Atletico Madrid,2,0,2025-05-15 17:00:00,Julián Álvarez,Throughball
+639051,48,BlockedShot,0.7440000152587891,0.395,0.021837785840034485,Pablo Barrios Rivas,h,10494,OpenPlay,2025,RightFoot,29170,Atletico Madrid,Elche,1,1,2025-08-23 17:30:00,Giuliano Simeone,Pass
+639056,61,BlockedShot,0.784000015258789,0.43,0.03126203268766403,Pablo Barrios Rivas,h,10494,OpenPlay,2025,RightFoot,29170,Atletico Madrid,Elche,1,1,2025-08-23 17:30:00,Giuliano Simeone,Pass
+640355,47,MissedShots,0.74,0.5770000076293945,0.020261287689208984,Pablo Barrios Rivas,a,10494,SetPiece,2025,RightFoot,29181,Alaves,Atletico Madrid,1,1,2025-08-30 15:00:00,Johnny Cardoso,Pass
+640357,69,BlockedShot,0.8669999694824219,0.6869999694824219,0.048353880643844604,Pablo Barrios Rivas,a,10494,FromCorner,2025,LeftFoot,29181,Alaves,Atletico Madrid,1,1,2025-08-30 15:00:00,,TakeOn
+642016,8,Goal,0.874000015258789,0.46599998474121096,0.3844218850135803,Pablo Barrios Rivas,h,10494,OpenPlay,2025,LeftFoot,29193,Atletico Madrid,Villarreal,2,0,2025-09-13 19:00:00,Julián Álvarez,BallRecovery
+642026,65,BlockedShot,0.8130000305175781,0.3160000038146973,0.013579637743532658,Pablo Barrios Rivas,h,10494,FromCorner,2025,RightFoot,29193,Atletico Madrid,Villarreal,2,0,2025-09-13 19:00:00,Antoine Griezmann,Chipped
+643743,6,SavedShot,0.7019999694824218,0.495,0.01811131089925766,Pablo Barrios Rivas,a,10494,OpenPlay,2025,RightFoot,29204,Mallorca,Atletico Madrid,1,1,2025-09-21 14:15:00,Clement Lenglet,Pass
+644795,29,BlockedShot,0.749000015258789,0.4909999847412109,0.023332953453063965,Pablo Barrios Rivas,h,10494,OpenPlay,2025,RightFoot,29219,Atletico Madrid,Real Madrid,5,2,2025-09-27 14:15:00,,Dispossessed
+647962,3,MissedShots,0.8130000305175781,0.44799999237060545,0.03893430903553963,Pablo Barrios Rivas,h,10494,FromCorner,2025,RightFoot,29239,Atletico Madrid,Osasuna,1,0,2025-10-18 19:00:00,,None
+647976,50,SavedShot,0.8059999847412109,0.3579999923706055,0.032436005771160126,Pablo Barrios Rivas,h,10494,OpenPlay,2025,RightFoot,29239,Atletico Madrid,Osasuna,1,0,2025-10-18 19:00:00,Giuliano Simeone,Pass
+650017,16,MissedShots,0.7909999847412109,0.43200000762939456,0.02777012065052986,Pablo Barrios Rivas,a,10494,FromCorner,2025,RightFoot,29253,Real Betis,Atletico Madrid,0,2,2025-10-27 20:00:00,,None
+652389,5,SavedShot,0.8519999694824218,0.46900001525878904,0.32310059666633606,Pablo Barrios Rivas,h,10494,OpenPlay,2025,RightFoot,29269,Atletico Madrid,Levante,3,1,2025-11-08 17:30:00,David Hancko,Throughball
+652391,12,BlockedShot,0.754000015258789,0.4779999923706055,0.03147894889116287,Pablo Barrios Rivas,h,10494,OpenPlay,2025,RightFoot,29269,Atletico Madrid,Levante,3,1,2025-11-08 17:30:00,Julián Álvarez,Pass
+652397,41,MissedShots,0.7319999694824219,0.649000015258789,0.023401660844683647,Pablo Barrios Rivas,h,10494,FromCorner,2025,RightFoot,29269,Atletico Madrid,Levante,3,1,2025-11-08 17:30:00,Koke,Pass
+654471,67,SavedShot,0.915,0.6329999923706054,0.05374487116932869,Pablo Barrios Rivas,a,10494,OpenPlay,2025,LeftFoot,29285,Getafe,Atletico Madrid,0,1,2025-11-23 17:30:00,Álex Baena,Cross
+659670,1,BlockedShot,0.785,0.46099998474121096,0.04115292802453041,Pablo Barrios Rivas,a,10494,OpenPlay,2025,RightFoot,29324,Girona,Atletico Madrid,0,3,2025-12-21 13:00:00,,BallRecovery
+659691,90,BlockedShot,0.855,0.6170000076293946,0.09391503036022186,Pablo Barrios Rivas,a,10494,OpenPlay,2025,LeftFoot,29324,Girona,Atletico Madrid,0,3,2025-12-21 13:00:00,Thiago Almada,Pass
+664136,12,MissedShots,0.78,0.4809999847412109,0.03419746086001396,Pablo Barrios Rivas,h,10494,OpenPlay,2025,LeftFoot,29348,Atletico Madrid,Alaves,1,0,2026-01-18 15:15:00,Marcos Llorente,Pass
+664147,46,BlockedShot,0.8719999694824219,0.3870000076293945,0.07089294493198395,Pablo Barrios Rivas,h,10494,OpenPlay,2025,RightFoot,29348,Atletico Madrid,Alaves,1,0,2026-01-18 15:15:00,,Rebound
+665129,49,SavedShot,0.789000015258789,0.3370000076293945,0.036241382360458374,Pablo Barrios Rivas,h,10494,OpenPlay,2025,RightFoot,29360,Atletico Madrid,Mallorca,3,0,2026-01-25 13:00:00,,None
+665131,60,MissedShots,0.7719999694824219,0.40599998474121096,0.03442191705107689,Pablo Barrios Rivas,h,10494,OpenPlay,2025,RightFoot,29360,Atletico Madrid,Mallorca,3,0,2026-01-25 13:00:00,Marcos Llorente,Pass
+680274,88,BlockedShot,0.779000015258789,0.47900001525878905,0.025442248210310936,Pablo Barrios Rivas,a,10494,FromCorner,2025,RightFoot,29484,Elche,Atletico Madrid,3,2,2026-04-22 17:00:00,,None
+680275,88,MissedShots,0.784000015258789,0.45599998474121095,0.0406961552798748,Pablo Barrios Rivas,a,10494,FromCorner,2025,RightFoot,29484,Elche,Atletico Madrid,3,2,2026-04-22 17:00:00,,Rebound

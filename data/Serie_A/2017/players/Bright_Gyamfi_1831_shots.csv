@@ -1,0 +1,5 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+174561,94,MissedShots,0.74,0.39799999237060546,0.01496949978172779,Bright Gyamfi,a,1831,FromCorner,2017,RightFoot,7573,Verona,Benevento,1,0,2017-10-16 19:45:00,,None
+174760,92,SavedShot,0.8469999694824218,0.4929999923706055,0.016064999625086784,Bright Gyamfi,h,1831,SetPiece,2017,Head,7580,Benevento,Fiorentina,0,3,2017-10-22 14:00:00,,None
+176261,88,SavedShot,0.8780000305175781,0.415,0.035476699471473694,Bright Gyamfi,h,1831,OpenPlay,2017,Head,7639,Benevento,AC Milan,2,2,2017-12-03 11:30:00,Massimo Coda,HeadPass
+176263,91,BlockedShot,0.9019999694824219,0.39799999237060546,0.07033160328865051,Bright Gyamfi,h,1831,OpenPlay,2017,RightFoot,7639,Benevento,AC Milan,2,2,2017-12-03 11:30:00,,None

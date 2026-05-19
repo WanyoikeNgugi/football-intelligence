@@ -1,0 +1,23 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+30088,17,MissedShots,0.8590000152587891,0.5059999847412109,0.00988277979195118,Hong Jeong-ho,h,406,SetPiece,2014,Head,5202,Augsburg,Schalke 04,0,0,2015-04-05 14:30:00,Pierre-Emile Højbjerg,Aerial
+30037,83,MissedShots,0.955999984741211,0.5629999923706055,0.36887699365615845,Hong Jeong-ho,a,406,FromCorner,2014,Head,5225,Hamburger SV,Augsburg,3,2,2015-04-25 14:30:00,Paul Verhaegh,Cross
+30774,71,MissedShots,0.8959999847412109,0.485,0.3480660021305084,Hong Jeong-ho,h,406,SetPiece,2014,Head,5161,Augsburg,FC Cologne,0,0,2015-05-02 14:30:00,Tobias Werner,Aerial
+30777,81,SavedShot,0.9169999694824219,0.41,0.016163000836968422,Hong Jeong-ho,h,406,FromCorner,2014,Head,5161,Augsburg,FC Cologne,0,0,2015-05-02 14:30:00,Tobias Werner,Aerial
+31311,2,MissedShots,0.9180000305175782,0.47299999237060547,0.04353800043463707,Hong Jeong-ho,a,406,FromCorner,2014,Head,5169,Bayern Munich,Augsburg,0,1,2015-05-09 14:30:00,Raúl Bobadilla,Aerial
+31238,27,BlockedShot,0.9440000152587891,0.43900001525878907,0.05169679969549179,Hong Jeong-ho,a,406,FromCorner,2014,Head,5191,Borussia M.Gladbach,Augsburg,1,3,2015-05-23 14:30:00,Tobias Werner,BallTouch
+31239,28,BlockedShot,0.9530000305175781,0.41,0.027705099433660507,Hong Jeong-ho,a,406,FromCorner,2014,Head,5191,Borussia M.Gladbach,Augsburg,1,3,2015-05-23 14:30:00,Tobias Werner,Aerial
+76203,40,ShotOnPost,0.9519999694824218,0.425,0.04758080095052719,Hong Jeong-ho,h,406,FromCorner,2015,Head,1023,Augsburg,Hertha Berlin,0,1,2015-08-15 17:30:00,Tobias Werner,Aerial
+76393,20,BlockedShot,0.639000015258789,0.46900001525878904,0.025727299973368645,Hong Jeong-ho,a,406,DirectFreekick,2015,RightFoot,1033,Eintracht Frankfurt,Augsburg,1,1,2015-08-22 17:30:00,,Standard
+76609,3,MissedShots,0.759000015258789,0.425,0.07199200242757797,Hong Jeong-ho,h,406,DirectFreekick,2015,RightFoot,1041,Augsburg,Ingolstadt,0,1,2015-08-29 17:30:00,,Standard
+77302,39,MissedShots,0.9,0.39099998474121095,0.013356099836528301,Hong Jeong-ho,a,406,SetPiece,2015,Head,1073,Borussia M.Gladbach,Augsburg,4,2,2015-09-23 22:00:00,Konstantinos Stafylidis,Aerial
+77553,17,BlockedShot,0.7480000305175781,0.25799999237060545,0.016910100355744362,Hong Jeong-ho,h,406,SetPiece,2015,RightFoot,1078,Augsburg,Hoffenheim,1,3,2015-09-26 17:30:00,Daniel Baier,Pass
+78506,16,SavedShot,0.8730000305175781,0.6020000076293945,0.012757400050759315,Hong Jeong-ho,h,406,FromCorner,2015,Head,1114,Augsburg,Mainz 05,3,3,2015-10-31 18:30:00,Dong-Won Ji,Aerial
+78516,36,MissedShots,0.725999984741211,0.5209999847412109,0.05273739993572235,Hong Jeong-ho,h,406,DirectFreekick,2015,RightFoot,1114,Augsburg,Mainz 05,3,3,2015-10-31 18:30:00,,Standard
+79705,33,Goal,0.93,0.41900001525878905,0.4577749967575073,Hong Jeong-ho,h,406,FromCorner,2015,LeftFoot,1163,Augsburg,Schalke 04,2,1,2015-12-13 18:30:00,Dominik Kohr,None
+79902,59,SavedShot,0.9259999847412109,0.41200000762939454,0.059752799570560455,Hong Jeong-ho,a,406,FromCorner,2015,Head,1167,Hamburger SV,Augsburg,0,1,2015-12-19 18:30:00,Daniel Baier,Cross
+80243,39,MissedShots,0.9119999694824219,0.4159999847412109,0.017029300332069397,Hong Jeong-ho,a,406,FromCorner,2015,Head,1177,Hertha Berlin,Augsburg,0,0,2016-01-23 18:30:00,Daniel Baier,Aerial
+80718,1,BlockedShot,0.9230000305175782,0.625999984741211,0.04679949954152107,Hong Jeong-ho,a,406,FromCorner,2015,RightFoot,1197,Ingolstadt,Augsburg,2,1,2016-02-06 18:30:00,Konstantinos Stafylidis,Cross
+80842,24,MissedShots,0.9290000152587891,0.4779999923706055,0.05902919918298721,Hong Jeong-ho,h,406,FromCorner,2015,Head,1209,Augsburg,Bayern Munich,1,3,2016-02-14 20:30:00,Piotr Trochowski,Aerial
+82178,94,MissedShots,0.9230000305175782,0.5670000076293945,0.0708341971039772,Hong Jeong-ho,a,406,SetPiece,2015,Head,1249,Darmstadt,Augsburg,2,2,2016-03-12 18:30:00,Daniel Baier,Chipped
+82321,72,SavedShot,0.914000015258789,0.43900001525878907,0.0695727989077568,Hong Jeong-ho,h,406,FromCorner,2015,Head,1263,Augsburg,Borussia Dortmund,1,3,2016-03-20 20:30:00,Markus Feulner,Cross
+82743,85,Goal,0.955999984741211,0.4370000076293945,0.4616360068321228,Hong Jeong-ho,a,406,SetPiece,2015,RightFoot,1277,Werder Bremen,Augsburg,1,2,2016-04-09 17:30:00,Daniel Baier,Chipped

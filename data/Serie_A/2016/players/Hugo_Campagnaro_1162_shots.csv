@@ -1,0 +1,8 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+47407,84,BlockedShot,0.8769999694824219,0.6120000076293945,0.059689298272132874,Hugo Campagnaro,h,1162,FromCorner,2014,RightFoot,4886,Inter,Fiorentina,0,1,2015-03-01 17:00:00,,None
+148191,11,OwnGoal,0.075,0.47,0,Hugo Campagnaro,h,1162,SetPiece,2016,Head,1001,Pescara,Sampdoria,1,1,2016-10-15 20:00:00,,Foul
+148195,22,Goal,0.9490000152587891,0.55,0.3923330008983612,Hugo Campagnaro,h,1162,FromCorner,2016,Head,1001,Pescara,Sampdoria,1,1,2016-10-15 20:00:00,Alberto Aquilani,Cross
+148764,76,MissedShots,0.8430000305175781,0.56,0.058581601828336716,Hugo Campagnaro,a,1162,SetPiece,2016,LeftFoot,1012,Udinese,Pescara,3,1,2016-10-23 14:30:00,Michele Fornasier,None
+150302,92,MissedShots,0.9540000152587891,0.5770000076293945,0.3577429950237274,Hugo Campagnaro,h,1162,SetPiece,2016,Head,2748,Pescara,Empoli,0,4,2016-11-06 15:30:00,Valerio Verre,Rebound
+152368,81,Goal,0.945,0.43099998474121093,0.12975700199604034,Hugo Campagnaro,a,1162,SetPiece,2016,Head,3076,Crotone,Pescara,2,1,2016-12-10 21:00:00,Alessandro Crescenzi,Cross
+150570,41,MissedShots,0.895,0.5629999923706055,0.015061100013554096,Hugo Campagnaro,a,1162,FromCorner,2016,Head,3648,Empoli,Pescara,1,1,2017-04-08 14:00:00,Ahmed Benali,Aerial

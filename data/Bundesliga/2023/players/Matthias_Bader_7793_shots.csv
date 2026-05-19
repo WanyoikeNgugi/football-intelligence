@@ -1,0 +1,18 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+538761,42,MissedShots,0.755,0.3029999923706055,0.014215451665222645,Matthias Bader,a,7793,FromCorner,2023,RightFoot,23101,VfB Stuttgart,Darmstadt,3,1,2023-09-22 18:30:00,,None
+541825,3,Goal,0.9109999847412109,0.4209999847412109,0.09098599851131439,Matthias Bader,h,7793,OpenPlay,2023,RightFoot,23117,Darmstadt,Werder Bremen,4,2,2023-10-01 13:30:00,Marvin Mehlem,Cross
+541845,82,MissedShots,0.754000015258789,0.29700000762939455,0.017390338703989983,Matthias Bader,h,7793,OpenPlay,2023,LeftFoot,23117,Darmstadt,Werder Bremen,4,2,2023-10-01 13:30:00,Fraser Hornby,BallRecovery
+542511,30,BlockedShot,0.879000015258789,0.3390000152587891,0.07344982028007507,Matthias Bader,a,7793,OpenPlay,2023,RightFoot,23122,Augsburg,Darmstadt,1,2,2023-10-07 13:30:00,Luca Pfeiffer,Pass
+542512,30,BlockedShot,0.75,0.49900001525878906,0.017817793413996696,Matthias Bader,a,7793,FromCorner,2023,RightFoot,23122,Augsburg,Darmstadt,1,2,2023-10-07 13:30:00,,None
+542517,39,MissedShots,0.855999984741211,0.28399999618530275,0.034048572182655334,Matthias Bader,a,7793,OpenPlay,2023,RightFoot,23122,Augsburg,Darmstadt,1,2,2023-10-07 13:30:00,,None
+546490,68,BlockedShot,0.74,0.580999984741211,0.022378934547305107,Matthias Bader,h,7793,FromCorner,2023,RightFoot,23154,Darmstadt,Bochum,1,2,2023-11-03 19:30:00,Fabian Nürnberger,Pass
+555294,31,BlockedShot,0.91,0.40900001525878904,0.10788366198539734,Matthias Bader,a,7793,OpenPlay,2023,RightFoot,23205,Hoffenheim,Darmstadt,3,3,2023-12-19 19:30:00,Tobias Kempe,Pass
+558244,22,BlockedShot,0.7290000152587891,0.49,0.011692929081618786,Matthias Bader,h,7793,SetPiece,2023,RightFoot,23217,Darmstadt,Borussia Dortmund,0,3,2024-01-13 17:30:00,,None
+558246,25,BlockedShot,0.750999984741211,0.39,0.02047646977007389,Matthias Bader,h,7793,OpenPlay,2023,RightFoot,23217,Darmstadt,Borussia Dortmund,0,3,2024-01-13 17:30:00,Emir Karic,Pass
+558982,41,BlockedShot,0.8590000152587891,0.45799999237060546,0.06432544440031052,Matthias Bader,h,7793,OpenPlay,2023,RightFoot,23226,Darmstadt,Eintracht Frankfurt,2,2,2024-01-20 14:30:00,,None
+560267,25,MissedShots,0.774000015258789,0.534000015258789,0.03096824511885643,Matthias Bader,a,7793,OpenPlay,2023,LeftFoot,23228,Union Berlin,Darmstadt,1,0,2024-01-28 14:30:00,Tim Skarke,Pass
+560280,48,BlockedShot,0.8490000152587891,0.3890000152587891,0.073076993227005,Matthias Bader,a,7793,OpenPlay,2023,RightFoot,23228,Union Berlin,Darmstadt,1,0,2024-01-28 14:30:00,Julian Justvan,Pass
+562430,69,MissedShots,0.7880000305175782,0.3509999847412109,0.023678628727793694,Matthias Bader,a,7793,OpenPlay,2023,RightFoot,23245,Borussia M.Gladbach,Darmstadt,0,0,2024-02-10 14:30:00,,None
+571531,82,MissedShots,0.8080000305175781,0.28600000381469726,0.01817285269498825,Matthias Bader,a,7793,FromCorner,2023,RightFoot,23305,Bochum,Darmstadt,2,2,2024-03-31 18:30:00,Christoph Klarer,None
+572292,18,BlockedShot,0.7380000305175781,0.544000015258789,0.01597229763865471,Matthias Bader,a,7793,FromCorner,2023,LeftFoot,23313,Mainz 05,Darmstadt,4,0,2024-04-06 13:30:00,,None
+574937,35,BlockedShot,0.879000015258789,0.40400001525878904,0.10216202586889267,Matthias Bader,a,7793,OpenPlay,2023,LeftFoot,23331,FC Cologne,Darmstadt,0,2,2024-04-20 13:30:00,Aaron Seydel,TakeOn

@@ -1,0 +1,7 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+45888,70,BlockedShot,0.7480000305175781,0.524000015258789,0.016859499737620354,Ioannis Fetfatzidis,h,3876,FromCorner,2014,LeftFoot,4963,Genoa,Atalanta,2,2,2015-01-06 14:00:00,,None
+45893,94,SavedShot,0.7530000305175781,0.3659999847412109,0.01773959957063198,Ioannis Fetfatzidis,h,3876,OpenPlay,2014,LeftFoot,4963,Genoa,Atalanta,2,2,2015-01-06 14:00:00,Juraj Kucka,LayOff
+45855,52,Goal,0.955999984741211,0.58,0.6883249878883362,Ioannis Fetfatzidis,h,3876,OpenPlay,2014,LeftFoot,4981,Genoa,Sassuolo,3,3,2015-01-18 14:00:00,Maxime Lestienne,TakeOn
+45869,91,Goal,0.885,0.5,0.7612990140914917,Ioannis Fetfatzidis,h,3876,Penalty,2014,LeftFoot,4981,Genoa,Sassuolo,3,3,2015-01-18 14:00:00,,Standard
+46443,35,BlockedShot,0.8630000305175781,0.45799999237060546,0.1085980013012886,Ioannis Fetfatzidis,a,3876,SetPiece,2014,LeftFoot,4996,Napoli,Genoa,2,1,2015-01-26 20:00:00,Andrea Bertolacci,LayOff
+46444,36,BlockedShot,0.7709999847412109,0.40400001525878904,0.018460599705576897,Ioannis Fetfatzidis,a,3876,OpenPlay,2014,LeftFoot,4996,Napoli,Genoa,2,1,2015-01-26 20:00:00,Edenilson,BallRecovery

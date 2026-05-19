@@ -1,0 +1,86 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+25042,78,BlockedShot,0.6969999694824218,0.3729999923706055,0.014386599883437157,Stefan Aigner,a,288,OpenPlay,2014,RightFoot,5423,Schalke 04,Eintracht Frankfurt,2,2,2014-09-20 14:30:00,Haris Seferovic,Pass
+25646,49,MissedShots,0.8859999847412109,0.639000015258789,0.050254400819540024,Stefan Aigner,a,288,FromCorner,2014,RightFoot,5446,Hamburger SV,Eintracht Frankfurt,1,2,2014-09-28 16:30:00,Anderson,Pass
+25652,73,SavedShot,0.8590000152587891,0.3340000152587891,0.006790060084313154,Stefan Aigner,a,288,SetPiece,2014,Head,5446,Hamburger SV,Eintracht Frankfurt,1,2,2014-09-28 16:30:00,Bastian Oczipka,Aerial
+26188,88,BlockedShot,0.8590000152587891,0.36700000762939455,0.06457339972257614,Stefan Aigner,a,288,OpenPlay,2014,RightFoot,5400,Paderborn,Eintracht Frankfurt,3,1,2014-10-19 16:30:00,Lucas Piazon,Pass
+26441,56,SavedShot,0.9259999847412109,0.500999984741211,0.46398699283599854,Stefan Aigner,h,288,OpenPlay,2014,RightFoot,5402,Eintracht Frankfurt,VfB Stuttgart,4,5,2014-10-25 14:30:00,Haris Seferovic,Pass
+26443,60,Goal,0.8980000305175782,0.295,0.2305690050125122,Stefan Aigner,h,288,OpenPlay,2014,RightFoot,5402,Eintracht Frankfurt,VfB Stuttgart,4,5,2014-10-25 14:30:00,Marco Russ,Chipped
+26447,77,SavedShot,0.8980000305175782,0.2879999923706055,0.057612501084804535,Stefan Aigner,h,288,OpenPlay,2014,RightFoot,5402,Eintracht Frankfurt,VfB Stuttgart,4,5,2014-10-25 14:30:00,Alexander Meier,Pass
+26454,90,SavedShot,0.8780000305175781,0.41700000762939454,0.07857920229434967,Stefan Aigner,h,288,OpenPlay,2014,RightFoot,5402,Eintracht Frankfurt,VfB Stuttgart,4,5,2014-10-25 14:30:00,Alexander Meier,Pass
+26591,62,SavedShot,0.775,0.225,0.012484599836170673,Stefan Aigner,a,288,OpenPlay,2014,RightFoot,5349,Hannover 96,Eintracht Frankfurt,1,0,2014-11-01 14:30:00,Marc Stendera,Chipped
+26876,43,BlockedShot,0.830999984741211,0.34,0.033819299191236496,Stefan Aigner,h,288,OpenPlay,2014,RightFoot,5360,Eintracht Frankfurt,Bayern Munich,0,4,2014-11-08 14:30:00,Alexander Meier,Chipped
+26987,34,BlockedShot,0.855999984741211,0.3129999923706055,0.03898720070719719,Stefan Aigner,a,288,OpenPlay,2014,RightFoot,5367,Borussia M.Gladbach,Eintracht Frankfurt,1,3,2014-11-22 14:30:00,,None
+26998,56,SavedShot,0.909000015258789,0.355,0.11888399720191956,Stefan Aigner,a,288,OpenPlay,2014,RightFoot,5367,Borussia M.Gladbach,Eintracht Frankfurt,1,3,2014-11-22 14:30:00,Haris Seferovic,Pass
+27178,8,MissedShots,0.879000015258789,0.4329999923706055,0.0430867001414299,Stefan Aigner,h,288,SetPiece,2014,Head,5382,Eintracht Frankfurt,Borussia Dortmund,2,0,2014-11-30 16:30:00,Bastian Oczipka,Chipped
+27186,45,MissedShots,0.9019999694824219,0.4329999923706055,0.09824150055646896,Stefan Aigner,h,288,OpenPlay,2014,Head,5382,Eintracht Frankfurt,Borussia Dortmund,2,0,2014-11-30 16:30:00,Timothy Chandler,Cross
+27367,64,ShotOnPost,0.9830000305175781,0.5379999923706055,0.7763270139694214,Stefan Aigner,h,288,FromCorner,2014,LeftFoot,5320,Eintracht Frankfurt,Werder Bremen,5,2,2014-12-07 16:30:00,Anderson,None
+27369,67,SavedShot,0.9430000305175781,0.3240000152587891,0.25962600111961365,Stefan Aigner,h,288,OpenPlay,2014,RightFoot,5320,Eintracht Frankfurt,Werder Bremen,5,2,2014-12-07 16:30:00,Timothy Chandler,Pass
+27371,70,SavedShot,0.855999984741211,0.34700000762939454,0.08370129764080048,Stefan Aigner,h,288,OpenPlay,2014,RightFoot,5320,Eintracht Frankfurt,Werder Bremen,5,2,2014-12-07 16:30:00,Timothy Chandler,Chipped
+27372,70,SavedShot,0.89,0.544000015258789,0.1115799993276596,Stefan Aigner,h,288,OpenPlay,2014,RightFoot,5320,Eintracht Frankfurt,Werder Bremen,5,2,2014-12-07 16:30:00,Alexander Meier,HeadPass
+27373,75,Goal,0.9030000305175782,0.41700000762939454,0.3063569962978363,Stefan Aigner,h,288,OpenPlay,2014,RightFoot,5320,Eintracht Frankfurt,Werder Bremen,5,2,2014-12-07 16:30:00,Bastian Oczipka,Cross
+28106,57,Goal,0.9159999847412109,0.47200000762939454,0.36515000462532043,Stefan Aigner,a,288,OpenPlay,2014,LeftFoot,5321,Hoffenheim,Eintracht Frankfurt,3,2,2014-12-12 19:30:00,Bastian Oczipka,Chipped
+28109,60,BlockedShot,0.9119999694824219,0.5129999923706055,0.05469460040330887,Stefan Aigner,a,288,OpenPlay,2014,Head,5321,Hoffenheim,Eintracht Frankfurt,3,2,2014-12-12 19:30:00,Haris Seferovic,Aerial
+27786,42,Goal,0.9719999694824218,0.435,0.5245519876480103,Stefan Aigner,h,288,OpenPlay,2014,RightFoot,5334,Eintracht Frankfurt,Hertha Berlin,4,4,2014-12-17 19:00:00,,None
+28962,57,Goal,0.879000015258789,0.34,0.09053370356559753,Stefan Aigner,h,288,OpenPlay,2014,RightFoot,5263,Eintracht Frankfurt,Wolfsburg,1,1,2015-02-03 19:00:00,Takashi Inui,Pass
+28966,65,SavedShot,0.715,0.46700000762939453,0.03760179877281189,Stefan Aigner,h,288,OpenPlay,2014,RightFoot,5263,Eintracht Frankfurt,Wolfsburg,1,1,2015-02-03 19:00:00,Alexander Meier,Pass
+28968,68,BlockedShot,0.8030000305175782,0.49900001525878906,0.06257220357656479,Stefan Aigner,h,288,OpenPlay,2014,RightFoot,5263,Eintracht Frankfurt,Wolfsburg,1,1,2015-02-03 19:00:00,David Kinsombi,Chipped
+29602,46,Goal,0.9919999694824219,0.5029999923706054,0.9744049906730652,Stefan Aigner,a,288,SetPiece,2014,RightFoot,5279,Augsburg,Eintracht Frankfurt,2,2,2015-02-08 16:30:00,,Rebound
+29606,66,MissedShots,0.87,0.345,0.03488849848508835,Stefan Aigner,a,288,OpenPlay,2014,LeftFoot,5279,Augsburg,Eintracht Frankfurt,2,2,2015-02-08 16:30:00,Bastian Oczipka,Cross
+28828,2,BlockedShot,0.7559999847412109,0.425,0.0213507991284132,Stefan Aigner,h,288,OpenPlay,2014,LeftFoot,5286,Eintracht Frankfurt,Schalke 04,1,0,2015-02-14 17:30:00,Sonny Kittel,Pass
+29121,16,MissedShots,0.865999984741211,0.3940000152587891,0.014393599703907967,Stefan Aigner,a,288,OpenPlay,2014,Head,5292,Mainz 05,Eintracht Frankfurt,3,1,2015-02-21 14:30:00,Bastian Oczipka,Aerial
+29126,34,Goal,0.9740000152587891,0.33,0.2595379948616028,Stefan Aigner,a,288,OpenPlay,2014,RightFoot,5292,Mainz 05,Eintracht Frankfurt,3,1,2015-02-21 14:30:00,Haris Seferovic,Pass
+29632,65,MissedShots,0.87,0.27,0.04188450053334236,Stefan Aigner,h,288,OpenPlay,2014,RightFoot,5304,Eintracht Frankfurt,Hamburger SV,2,1,2015-02-28 17:30:00,Marc Stendera,Pass
+30467,70,SavedShot,0.9359999847412109,0.35200000762939454,0.015819000080227852,Stefan Aigner,a,288,OpenPlay,2014,Head,5240,FC Cologne,Eintracht Frankfurt,4,2,2015-03-08 14:30:00,Bastian Oczipka,Cross
+30473,83,SavedShot,0.9580000305175781,0.23299999237060548,0.025226600468158722,Stefan Aigner,a,288,OpenPlay,2014,RightFoot,5240,FC Cologne,Eintracht Frankfurt,4,2,2015-03-08 14:30:00,Haris Seferovic,Pass
+31486,32,MissedShots,0.9590000152587891,0.515,0.15341900289058685,Stefan Aigner,h,288,OpenPlay,2014,Head,5247,Eintracht Frankfurt,Paderborn,4,0,2015-03-14 14:30:00,Timothy Chandler,Cross
+31491,54,Goal,0.865999984741211,0.3770000076293945,0.4347440004348755,Stefan Aigner,h,288,OpenPlay,2014,RightFoot,5247,Eintracht Frankfurt,Paderborn,4,0,2015-03-14 14:30:00,Takashi Inui,Throughball
+32048,15,BlockedShot,0.8969999694824219,0.31,0.051389001309871674,Stefan Aigner,a,288,OpenPlay,2014,LeftFoot,5256,VfB Stuttgart,Eintracht Frankfurt,3,1,2015-03-21 14:30:00,Bastian Oczipka,Chipped
+32052,30,BlockedShot,0.895,0.41700000762939454,0.11372700333595276,Stefan Aigner,a,288,OpenPlay,2014,LeftFoot,5256,VfB Stuttgart,Eintracht Frankfurt,3,1,2015-03-21 14:30:00,Takashi Inui,Pass
+30531,36,SavedShot,0.8590000152587891,0.2879999923706055,0.04057670012116432,Stefan Aigner,h,288,OpenPlay,2014,LeftFoot,5196,Eintracht Frankfurt,Hannover 96,2,2,2015-04-04 14:30:00,Sonny Kittel,Pass
+30538,53,Goal,0.905,0.33799999237060546,0.3232539892196655,Stefan Aigner,h,288,OpenPlay,2014,RightFoot,5196,Eintracht Frankfurt,Hannover 96,2,2,2015-04-04 14:30:00,Haris Seferovic,Pass
+32165,40,MissedShots,0.8009999847412109,0.28299999237060547,0.04521830007433891,Stefan Aigner,h,288,OpenPlay,2014,LeftFoot,5213,Eintracht Frankfurt,Borussia M.Gladbach,0,0,2015-04-17 19:30:00,Aleksandar Ignjovski,TakeOn
+32172,69,MissedShots,0.8769999694824219,0.4159999847412109,0.39474499225616455,Stefan Aigner,h,288,OpenPlay,2014,LeftFoot,5213,Eintracht Frankfurt,Borussia M.Gladbach,0,0,2015-04-17 19:30:00,Nélson Haedo Valdez,TakeOn
+32175,75,SavedShot,0.9390000152587891,0.3039999961853027,0.052266500890254974,Stefan Aigner,h,288,OpenPlay,2014,RightFoot,5213,Eintracht Frankfurt,Borussia M.Gladbach,0,0,2015-04-17 19:30:00,,None
+31705,45,MissedShots,0.8980000305175782,0.42700000762939455,0.06265269964933395,Stefan Aigner,h,288,SetPiece,2014,Head,5173,Eintracht Frankfurt,Hoffenheim,3,1,2015-05-09 14:30:00,Bastian Oczipka,Cross
+76409,77,MissedShots,0.874000015258789,0.295,0.09532470256090164,Stefan Aigner,h,288,OpenPlay,2015,RightFoot,1033,Eintracht Frankfurt,Augsburg,1,1,2015-08-22 17:30:00,Gian-Luca Waldschmidt,Throughball
+76604,64,MissedShots,0.9,0.3160000038146973,0.03307110071182251,Stefan Aigner,a,288,OpenPlay,2015,RightFoot,1040,VfB Stuttgart,Eintracht Frankfurt,1,4,2015-08-29 17:30:00,Bastian Oczipka,Cross
+77250,66,MissedShots,0.8909999847412109,0.3629999923706055,0.08062750101089478,Stefan Aigner,a,288,OpenPlay,2015,RightFoot,1071,Schalke 04,Eintracht Frankfurt,2,0,2015-09-23 22:00:00,Luc Castaignos,Pass
+77255,80,SavedShot,0.94,0.67,0.02374570071697235,Stefan Aigner,a,288,SetPiece,2015,Head,1071,Schalke 04,Eintracht Frankfurt,2,0,2015-09-23 22:00:00,Marc Stendera,Chipped
+77260,83,MissedShots,0.8190000152587891,0.33599998474121096,0.012083100154995918,Stefan Aigner,a,288,OpenPlay,2015,LeftFoot,1071,Schalke 04,Eintracht Frankfurt,2,0,2015-09-23 22:00:00,Gian-Luca Waldschmidt,Chipped
+77263,93,SavedShot,0.9030000305175782,0.4370000076293945,0.04236539825797081,Stefan Aigner,a,288,OpenPlay,2015,Head,1071,Schalke 04,Eintracht Frankfurt,2,0,2015-09-23 22:00:00,Makoto Hasebe,Chipped
+77613,7,MissedShots,0.9259999847412109,0.375,0.1066880002617836,Stefan Aigner,h,288,OpenPlay,2015,RightFoot,1082,Eintracht Frankfurt,Hertha Berlin,1,1,2015-09-27 17:30:00,Makoto Hasebe,Pass
+77619,23,BlockedShot,0.705,0.34599998474121096,0.015261899679899216,Stefan Aigner,h,288,OpenPlay,2015,RightFoot,1082,Eintracht Frankfurt,Hertha Berlin,1,1,2015-09-27 17:30:00,Makoto Hasebe,BallRecovery
+77882,56,BlockedShot,0.905,0.315,0.06464260071516037,Stefan Aigner,a,288,OpenPlay,2015,RightFoot,1089,Ingolstadt,Eintracht Frankfurt,2,0,2015-10-03 17:30:00,Makoto Hasebe,Pass
+77883,57,BlockedShot,0.8159999847412109,0.27700000762939453,0.025992300361394882,Stefan Aigner,a,288,OpenPlay,2015,RightFoot,1089,Ingolstadt,Eintracht Frankfurt,2,0,2015-10-03 17:30:00,Luc Castaignos,Pass
+77884,62,BlockedShot,0.8569999694824219,0.2589999961853027,0.034865498542785645,Stefan Aigner,a,288,OpenPlay,2015,RightFoot,1089,Ingolstadt,Eintracht Frankfurt,2,0,2015-10-03 17:30:00,Alexander Meier,Chipped
+77888,72,MissedShots,0.9319999694824219,0.43400001525878906,0.043609000742435455,Stefan Aigner,a,288,FromCorner,2015,Head,1089,Ingolstadt,Eintracht Frankfurt,2,0,2015-10-03 17:30:00,Aleksandar Ignjovski,Aerial
+77893,85,SavedShot,0.955999984741211,0.3,0.04822240024805069,Stefan Aigner,a,288,OpenPlay,2015,RightFoot,1089,Ingolstadt,Eintracht Frankfurt,2,0,2015-10-03 17:30:00,Johannes Flum,Pass
+78273,57,SavedShot,0.8580000305175781,0.3120000076293945,0.10001999884843826,Stefan Aigner,a,288,OpenPlay,2015,RightFoot,1105,Hannover 96,Eintracht Frankfurt,1,2,2015-10-24 17:30:00,Alexander Meier,Chipped
+78567,53,MissedShots,0.9390000152587891,0.34200000762939453,0.06586519628763199,Stefan Aigner,h,288,OpenPlay,2015,RightFoot,1111,Eintracht Frankfurt,Bayern Munich,0,0,2015-10-30 23:30:00,,Rebound
+78807,46,BlockedShot,0.8880000305175781,0.295,0.051921501755714417,Stefan Aigner,a,288,OpenPlay,2015,RightFoot,1121,Hoffenheim,Eintracht Frankfurt,0,0,2015-11-07 18:30:00,Bastian Oczipka,Pass
+78811,63,SavedShot,0.95,0.39,0.03281480073928833,Stefan Aigner,a,288,OpenPlay,2015,Head,1121,Hoffenheim,Eintracht Frankfurt,0,0,2015-11-07 18:30:00,Haris Seferovic,Aerial
+78814,76,SavedShot,0.925,0.534000015258789,0.09704630076885223,Stefan Aigner,a,288,OpenPlay,2015,LeftFoot,1121,Hoffenheim,Eintracht Frankfurt,0,0,2015-11-07 18:30:00,,None
+79028,58,MissedShots,0.8690000152587891,0.3729999923706055,0.0791454017162323,Stefan Aigner,h,288,OpenPlay,2015,RightFoot,1131,Eintracht Frankfurt,Bayer Leverkusen,1,3,2015-11-21 18:30:00,Makoto Hasebe,TakeOn
+79039,89,MissedShots,0.8690000152587891,0.4520000076293945,0.10476099699735641,Stefan Aigner,h,288,OpenPlay,2015,LeftFoot,1131,Eintracht Frankfurt,Bayer Leverkusen,1,3,2015-11-21 18:30:00,Gian-Luca Waldschmidt,Pass
+79312,94,MissedShots,0.8640000152587891,0.34200000762939453,0.017849300056695938,Stefan Aigner,a,288,OpenPlay,2015,Head,1143,Mainz 05,Eintracht Frankfurt,2,1,2015-11-28 18:45:00,Bastian Oczipka,Chipped
+79496,25,MissedShots,0.9159999847412109,0.5609999847412109,0.04889779910445213,Stefan Aigner,h,288,OpenPlay,2015,Head,1155,Eintracht Frankfurt,Darmstadt,0,1,2015-12-06 20:30:00,Makoto Hasebe,Aerial
+79505,51,SavedShot,0.865999984741211,0.4,0.35319799184799194,Stefan Aigner,h,288,OpenPlay,2015,RightFoot,1155,Eintracht Frankfurt,Darmstadt,0,1,2015-12-06 20:30:00,Marc Stendera,Throughball
+79512,67,BlockedShot,0.955999984741211,0.3509999847412109,0.07735130190849304,Stefan Aigner,h,288,OpenPlay,2015,RightFoot,1155,Eintracht Frankfurt,Darmstadt,0,1,2015-12-06 20:30:00,Makoto Hasebe,Pass
+79946,7,SavedShot,0.8580000305175781,0.27600000381469725,0.03105510026216507,Stefan Aigner,h,288,OpenPlay,2015,RightFoot,1168,Eintracht Frankfurt,Werder Bremen,2,1,2015-12-19 18:30:00,Haris Seferovic,Pass
+79947,17,MissedShots,0.8780000305175781,0.295,0.047844599932432175,Stefan Aigner,h,288,OpenPlay,2015,RightFoot,1168,Eintracht Frankfurt,Werder Bremen,2,1,2015-12-19 18:30:00,Alexander Meier,Chipped
+79953,47,Goal,0.899000015258789,0.4329999923706055,0.12531200051307678,Stefan Aigner,h,288,OpenPlay,2015,RightFoot,1168,Eintracht Frankfurt,Werder Bremen,2,1,2015-12-19 18:30:00,Haris Seferovic,Pass
+80152,45,SavedShot,0.9230000305175782,0.46900001525878904,0.048622798174619675,Stefan Aigner,h,288,OpenPlay,2015,Head,1181,Eintracht Frankfurt,Wolfsburg,3,2,2016-01-24 18:30:00,Szabolcs Huszti,Aerial
+80433,52,MissedShots,0.9009999847412109,0.39799999237060546,0.023207800462841988,Stefan Aigner,a,288,OpenPlay,2015,Head,1187,Augsburg,Eintracht Frankfurt,0,0,2016-01-30 18:30:00,Szabolcs Huszti,Aerial
+80442,67,SavedShot,0.85,0.4929999923706055,0.3309060037136078,Stefan Aigner,a,288,OpenPlay,2015,RightFoot,1187,Augsburg,Eintracht Frankfurt,0,0,2016-01-30 18:30:00,Marco Fabián,TakeOn
+80637,51,SavedShot,0.8980000305175782,0.3970000076293945,0.038782998919487,Stefan Aigner,h,288,OpenPlay,2015,Head,1194,Eintracht Frankfurt,VfB Stuttgart,2,4,2016-02-06 18:30:00,Yanni Regäsel,Cross
+80640,52,BlockedShot,0.779000015258789,0.32799999237060545,0.02191139943897724,Stefan Aigner,h,288,OpenPlay,2015,RightFoot,1194,Eintracht Frankfurt,VfB Stuttgart,2,4,2016-02-06 18:30:00,Szabolcs Huszti,Pass
+80916,73,SavedShot,0.8909999847412109,0.25299999237060544,0.02306150086224079,Stefan Aigner,a,288,OpenPlay,2015,RightFoot,1207,FC Cologne,Eintracht Frankfurt,3,1,2016-02-13 21:30:00,Szabolcs Huszti,Chipped
+80918,89,MissedShots,0.8269999694824218,0.545,0.06191769987344742,Stefan Aigner,a,288,OpenPlay,2015,LeftFoot,1207,FC Cologne,Eintracht Frankfurt,3,1,2016-02-13 21:30:00,Marc Stendera,Pass
+80920,92,MissedShots,0.870999984741211,0.38299999237060545,0.03271370008587837,Stefan Aigner,a,288,OpenPlay,2015,RightFoot,1207,FC Cologne,Eintracht Frankfurt,3,1,2016-02-13 21:30:00,,Aerial
+81109,71,SavedShot,0.9619999694824218,0.33599998474121096,0.07535269856452942,Stefan Aigner,h,288,OpenPlay,2015,RightFoot,1210,Eintracht Frankfurt,Hamburger SV,0,0,2016-02-19 23:30:00,Haris Seferovic,Pass
+81111,75,MissedShots,0.8680000305175781,0.3220000076293945,0.10173100233078003,Stefan Aigner,h,288,OpenPlay,2015,RightFoot,1210,Eintracht Frankfurt,Hamburger SV,0,0,2016-02-19 23:30:00,Haris Seferovic,Chipped
+82355,49,MissedShots,0.9419999694824219,0.5479999923706055,0.06748659908771515,Stefan Aigner,h,288,FromCorner,2015,Head,1261,Eintracht Frankfurt,Hannover 96,1,0,2016-03-19 21:30:00,,Aerial
+82757,47,MissedShots,0.9719999694824218,0.3509999847412109,0.03693849965929985,Stefan Aigner,h,288,OpenPlay,2015,RightFoot,1278,Eintracht Frankfurt,Hoffenheim,0,2,2016-04-09 17:30:00,Änis Ben-Hatira,Cross
+82893,59,SavedShot,0.92,0.654000015258789,0.3350749909877777,Stefan Aigner,a,288,OpenPlay,2015,LeftFoot,1285,Bayer Leverkusen,Eintracht Frankfurt,3,0,2016-04-16 17:30:00,Luc Castaignos,Tackle
+83502,82,Goal,0.92,0.555,0.35306599736213684,Stefan Aigner,a,288,SetPiece,2015,RightFoot,1304,Darmstadt,Eintracht Frankfurt,1,2,2016-04-30 17:30:00,Szabolcs Huszti,Chipped
+83610,13,Goal,0.9219999694824219,0.48200000762939454,0.11107800155878067,Stefan Aigner,h,288,FromCorner,2015,Head,1313,Eintracht Frankfurt,Borussia Dortmund,1,0,2016-05-07 17:30:00,Makoto Hasebe,Cross

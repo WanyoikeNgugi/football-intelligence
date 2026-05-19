@@ -1,0 +1,46 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+591459,76,BlockedShot,0.7369999694824219,0.5,0.016073020175099373,Manolis Saliakas,a,12981,FromCorner,2024,RightFoot,27767,Augsburg,St. Pauli,3,1,2024-09-15 13:30:00,,None
+593238,2,BlockedShot,0.8809999847412109,0.36,0.08570004254579544,Manolis Saliakas,h,12981,OpenPlay,2024,LeftFoot,27777,St. Pauli,RasenBallsport Leipzig,0,0,2024-09-22 17:30:00,Johannes Eggestein,TakeOn
+595806,31,SavedShot,0.904000015258789,0.30100000381469727,0.02966868132352829,Manolis Saliakas,h,12981,OpenPlay,2024,RightFoot,27793,St. Pauli,Mainz 05,0,3,2024-10-05 16:30:00,,Rebound
+598303,35,BlockedShot,0.8640000152587891,0.27899999618530275,0.03027206100523472,Manolis Saliakas,h,12981,FromCorner,2024,RightFoot,27813,St. Pauli,Wolfsburg,0,0,2024-10-26 13:30:00,Eric Smith,Cross
+598305,35,BlockedShot,0.860999984741211,0.2989999961853027,0.041899122297763824,Manolis Saliakas,h,12981,FromCorner,2024,RightFoot,27813,St. Pauli,Wolfsburg,0,0,2024-10-26 13:30:00,,Rebound
+600008,35,BlockedShot,0.7919999694824219,0.30100000381469727,0.021607523784041405,Manolis Saliakas,a,12981,OpenPlay,2024,RightFoot,27818,Hoffenheim,St. Pauli,0,2,2024-11-02 14:30:00,Johannes Eggestein,Chipped
+603565,36,MissedShots,0.7130000305175781,0.539000015258789,0.016008960083127022,Manolis Saliakas,a,12981,OpenPlay,2024,LeftFoot,27839,Borussia M.Gladbach,St. Pauli,2,0,2024-11-24 16:30:00,Jackson Irvine,Pass
+603570,60,BlockedShot,0.8480000305175781,0.31,0.0450587160885334,Manolis Saliakas,a,12981,OpenPlay,2024,RightFoot,27839,Borussia M.Gladbach,St. Pauli,2,0,2024-11-24 16:30:00,Philipp Treu,Pass
+603583,87,MissedShots,0.754000015258789,0.4929999923706055,0.018457738682627678,Manolis Saliakas,a,12981,FromCorner,2024,RightFoot,27839,Borussia M.Gladbach,St. Pauli,2,0,2024-11-24 16:30:00,,None
+604033,9,BlockedShot,0.8869999694824219,0.4640000152587891,0.0885297954082489,Manolis Saliakas,h,12981,OpenPlay,2024,RightFoot,27849,St. Pauli,Holstein Kiel,3,1,2024-11-30 14:30:00,Johannes Eggestein,Cross
+604034,24,Goal,0.8130000305175781,0.47200000762939454,0.058135874569416046,Manolis Saliakas,h,12981,OpenPlay,2024,RightFoot,27849,St. Pauli,Holstein Kiel,3,1,2024-11-30 14:30:00,Johannes Eggestein,Pass
+604037,28,BlockedShot,0.735,0.295,0.010332337580621243,Manolis Saliakas,h,12981,OpenPlay,2024,RightFoot,27849,St. Pauli,Holstein Kiel,3,1,2024-11-30 14:30:00,Philipp Treu,Chipped
+605792,76,SavedShot,0.764000015258789,0.265,0.012951145879924297,Manolis Saliakas,a,12981,OpenPlay,2024,RightFoot,27850,Bayer Leverkusen,St. Pauli,2,1,2024-12-07 14:30:00,Jackson Irvine,Pass
+607242,37,BlockedShot,0.7809999847412109,0.34099998474121096,0.01820910908281803,Manolis Saliakas,h,12981,FromCorner,2024,RightFoot,27867,St. Pauli,Werder Bremen,0,2,2024-12-14 17:30:00,,None
+610729,50,SavedShot,0.74,0.4809999847412109,0.017733724787831306,Manolis Saliakas,h,12981,OpenPlay,2024,RightFoot,27885,St. Pauli,Eintracht Frankfurt,0,1,2025-01-11 14:30:00,,BallRecovery
+610737,83,MissedShots,0.8619999694824219,0.33099998474121095,0.032843030989170074,Manolis Saliakas,h,12981,OpenPlay,2024,RightFoot,27885,St. Pauli,Eintracht Frankfurt,0,1,2025-01-11 14:30:00,Noah Weißhaupt,Cross
+611618,63,BlockedShot,0.7930000305175782,0.33799999237060546,0.02592121995985508,Manolis Saliakas,a,12981,OpenPlay,2024,LeftFoot,27893,Bochum,St. Pauli,1,0,2025-01-15 17:30:00,Morgan Guilavogui,Pass
+612167,9,MissedShots,0.9519999694824218,0.40700000762939453,0.0879698321223259,Manolis Saliakas,a,12981,OpenPlay,2024,RightFoot,27899,FC Heidenheim,St. Pauli,0,2,2025-01-18 14:30:00,Noah Weißhaupt,Cross
+612180,96,BlockedShot,0.7469999694824219,0.29700000762939455,0.017102643847465515,Manolis Saliakas,a,12981,OpenPlay,2024,RightFoot,27899,FC Heidenheim,St. Pauli,0,2,2025-01-18 14:30:00,,BallTouch
+614011,22,MissedShots,0.85,0.47200000762939454,0.07169209420681,Manolis Saliakas,h,12981,OpenPlay,2024,RightFoot,27907,St. Pauli,Union Berlin,3,0,2025-01-26 16:30:00,,None
+619937,86,BlockedShot,0.6680000305175782,0.2560000038146973,0.007102825213223696,Manolis Saliakas,h,12981,OpenPlay,2024,RightFoot,27956,St. Pauli,Borussia Dortmund,0,2,2025-03-01 14:30:00,Jackson Irvine,Pass
+619939,92,BlockedShot,0.87,0.519000015258789,0.07992153614759445,Manolis Saliakas,h,12981,OpenPlay,2024,LeftFoot,27956,St. Pauli,Borussia Dortmund,0,2,2025-03-01 14:30:00,,Dispossessed
+626336,14,BlockedShot,0.76,0.19299999237060547,0.014815831556916237,Manolis Saliakas,h,12981,OpenPlay,2024,RightFoot,27993,St. Pauli,Borussia M.Gladbach,1,1,2025-04-06 13:30:00,Hauke Wahl,Pass
+626341,40,BlockedShot,0.8009999847412109,0.23600000381469727,0.02079019509255886,Manolis Saliakas,h,12981,OpenPlay,2024,RightFoot,27993,St. Pauli,Borussia M.Gladbach,1,1,2025-04-06 13:30:00,Jackson Irvine,Pass
+626344,46,SavedShot,0.7869999694824219,0.2510000038146973,0.018237516283988953,Manolis Saliakas,h,12981,OpenPlay,2024,RightFoot,27993,St. Pauli,Borussia M.Gladbach,1,1,2025-04-06 13:30:00,Elias Saad,Pass
+626349,52,MissedShots,0.745,0.29399999618530276,0.014557776972651482,Manolis Saliakas,h,12981,OpenPlay,2024,RightFoot,27993,St. Pauli,Borussia M.Gladbach,1,1,2025-04-06 13:30:00,,Rebound
+626350,56,BlockedShot,0.79,0.46,0.027378330007195473,Manolis Saliakas,h,12981,FromCorner,2024,RightFoot,27993,St. Pauli,Borussia M.Gladbach,1,1,2025-04-06 13:30:00,,None
+629410,5,MissedShots,0.955999984741211,0.45099998474121095,0.4775002896785736,Manolis Saliakas,h,12981,OpenPlay,2024,Head,28011,St. Pauli,Bayer Leverkusen,1,1,2025-04-20 17:30:00,Carlo Boukhalfa,Aerial
+633629,3,Goal,0.884000015258789,0.295,0.037124283611774445,Manolis Saliakas,a,12981,OpenPlay,2024,RightFoot,28033,Eintracht Frankfurt,St. Pauli,2,2,2025-05-11 15:30:00,Morgan Guilavogui,Pass
+639966,87,BlockedShot,0.7819999694824219,0.3189999961853027,0.034564707428216934,Manolis Saliakas,a,12981,OpenPlay,2025,LeftFoot,30233,Hamburger SV,St. Pauli,0,2,2025-08-29 18:30:00,Martijn Kaars,Pass
+642263,46,MissedShots,0.845,0.3529999923706055,0.041724395006895065,Manolis Saliakas,h,12981,OpenPlay,2025,RightFoot,30249,St. Pauli,Augsburg,2,1,2025-09-14 13:30:00,,Rebound
+642730,53,BlockedShot,0.9430000305175781,0.3029999923706055,0.031505465507507324,Manolis Saliakas,a,12981,OpenPlay,2025,RightFoot,30251,VfB Stuttgart,St. Pauli,2,0,2025-09-19 18:30:00,,Rebound
+644619,53,SavedShot,0.8490000152587891,0.3039999961853027,0.03107600100338459,Manolis Saliakas,h,12981,FromCorner,2025,RightFoot,30263,St. Pauli,Bayer Leverkusen,1,2,2025-09-27 13:30:00,Danel Sinani,Cross
+650650,45,SavedShot,0.735999984741211,0.35200000762939454,0.012492053210735321,Manolis Saliakas,h,12981,FromCorner,2025,RightFoot,30302,St. Pauli,Borussia M.Gladbach,0,4,2025-11-01 14:30:00,,Aerial
+650654,51,BlockedShot,0.7669999694824219,0.30700000762939456,0.015385499224066734,Manolis Saliakas,h,12981,OpenPlay,2025,RightFoot,30302,St. Pauli,Borussia M.Gladbach,0,4,2025-11-01 14:30:00,Hauke Wahl,Pass
+650664,70,BlockedShot,0.805,0.3659999847412109,0.03895837068557739,Manolis Saliakas,h,12981,FromCorner,2025,RightFoot,30302,St. Pauli,Borussia M.Gladbach,0,4,2025-11-01 14:30:00,Louis Oppie,Pass
+666002,3,MissedShots,0.7869999694824219,0.24200000762939453,0.0211907047778368,Manolis Saliakas,a,12981,OpenPlay,2025,RightFoot,30395,Augsburg,St. Pauli,2,1,2026-01-31 14:30:00,Tomoya Ando,Pass
+666004,4,BlockedShot,0.8059999847412109,0.34799999237060547,0.02387939766049385,Manolis Saliakas,a,12981,OpenPlay,2025,RightFoot,30395,Augsburg,St. Pauli,2,1,2026-01-31 14:30:00,,Rebound
+667130,34,Goal,0.8430000305175781,0.4329999923706055,0.08253348618745804,Manolis Saliakas,h,12981,OpenPlay,2025,RightFoot,30410,St. Pauli,VfB Stuttgart,2,1,2026-02-07 14:30:00,Arkadiusz Pyrka,Pass
+668605,4,BlockedShot,0.8030000305175782,0.3840000152587891,0.027309412136673927,Manolis Saliakas,a,12981,FromCorner,2025,RightFoot,30414,Bayer Leverkusen,St. Pauli,4,0,2026-02-14 14:30:00,Tomoya Ando,BallTouch
+668615,38,BlockedShot,0.8980000305175782,0.21299999237060546,0.012132068164646626,Manolis Saliakas,a,12981,OpenPlay,2025,RightFoot,30414,Bayer Leverkusen,St. Pauli,4,0,2026-02-14 14:30:00,,Aerial
+670992,9,BlockedShot,0.8580000305175781,0.37599998474121094,0.06964641064405441,Manolis Saliakas,a,12981,OpenPlay,2025,LeftFoot,30437,Hoffenheim,St. Pauli,0,1,2026-02-28 14:30:00,Joel Chima Fujita,Pass
+670993,10,BlockedShot,0.8,0.33799999237060546,0.02109825238585472,Manolis Saliakas,a,12981,FromCorner,2025,RightFoot,30437,Hoffenheim,St. Pauli,0,1,2026-02-28 14:30:00,,None
+678895,94,BlockedShot,0.8190000152587891,0.43599998474121093,0.06083394214510918,Manolis Saliakas,h,12981,OpenPlay,2025,LeftFoot,30491,St. Pauli,FC Cologne,1,1,2026-04-17 18:30:00,Jackson Irvine,Pass
+680916,53,BlockedShot,0.764000015258789,0.37,0.022274235263466835,Manolis Saliakas,a,12981,OpenPlay,2025,RightFoot,30498,FC Heidenheim,St. Pauli,2,0,2026-04-25 13:30:00,Danel Sinani,Pass

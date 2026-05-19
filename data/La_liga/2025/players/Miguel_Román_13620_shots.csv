@@ -1,0 +1,10 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+640825,18,BlockedShot,0.725999984741211,0.4420000076293945,0.018172962591052055,Miguel Román,h,13620,OpenPlay,2025,RightFoot,29185,Celta Vigo,Villarreal,1,1,2025-08-31 15:00:00,Hugo Sotelo,Pass
+645347,3,MissedShots,0.92,0.415,0.418303906917572,Miguel Román,a,13620,OpenPlay,2025,RightFoot,29226,Elche,Celta Vigo,2,1,2025-09-28 14:15:00,Óscar Mingueza,Throughball
+651295,80,MissedShots,0.9030000305175782,0.665,0.06731627136468887,Miguel Román,a,13620,OpenPlay,2025,RightFoot,29265,Levante,Celta Vigo,1,2,2025-11-02 13:00:00,Bryan Zaragoza,Pass
+651299,90,Goal,0.8630000305175781,0.49700000762939456,0.32803478837013245,Miguel Román,a,13620,OpenPlay,2025,RightFoot,29265,Levante,Celta Vigo,1,2,2025-11-02 13:00:00,Óscar Mingueza,HeadPass
+653201,95,BlockedShot,0.8219999694824218,0.5170000076293946,0.05864286422729492,Miguel Román,h,13620,OpenPlay,2025,RightFoot,29274,Celta Vigo,Barcelona,2,4,2025-11-09 20:00:00,Ilaix Moriba,BallTouch
+653390,91,MissedShots,0.915,0.534000015258789,0.09808306396007538,Miguel Román,a,13620,FromCorner,2025,RightFoot,29278,Alaves,Celta Vigo,0,1,2025-11-22 13:00:00,Borja Iglesias,None
+655778,17,BlockedShot,0.8419999694824218,0.6129999923706054,0.06567160785198212,Miguel Román,h,13620,OpenPlay,2025,RightFoot,29289,Celta Vigo,Espanyol,0,1,2025-11-30 17:30:00,Bryan Zaragoza,Pass
+655792,82,SavedShot,0.8590000152587891,0.524000015258789,0.03658322989940643,Miguel Román,h,13620,FromCorner,2025,Head,29289,Celta Vigo,Espanyol,0,1,2025-11-30 17:30:00,,None
+667009,54,MissedShots,0.6869999694824219,0.534000015258789,0.013271888718008995,Miguel Román,h,13620,OpenPlay,2025,RightFoot,29382,Celta Vigo,Osasuna,1,2,2026-02-06 20:00:00,Javier Rodríguez,Pass

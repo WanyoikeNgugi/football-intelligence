@@ -1,0 +1,62 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+624435,94,SavedShot,0.85,0.6530000305175782,0.050738029181957245,Yan Diomande,a,13561,OpenPlay,2024,RightFoot,27268,Real Madrid,Leganes,3,2,2025-03-29 20:00:00,Óscar Rodríguez,Pass
+627497,39,BlockedShot,0.8669999694824219,0.6880000305175781,0.04562743008136749,Yan Diomande,h,13561,OpenPlay,2024,RightFoot,27288,Leganes,Barcelona,0,1,2025-04-12 19:00:00,Seydouba Cissé,TakeOn
+628858,53,MissedShots,0.8580000305175781,0.509000015258789,0.09742262959480286,Yan Diomande,a,13561,OpenPlay,2024,RightFoot,27300,Mallorca,Leganes,0,0,2025-04-19 16:30:00,Renato Tapia,Pass
+632016,84,BlockedShot,0.7980000305175782,0.46599998474121096,0.04327915981411934,Yan Diomande,a,13561,OpenPlay,2024,LeftFoot,27320,Sevilla,Leganes,2,2,2025-05-04 14:15:00,,None
+632020,94,MissedShots,0.7519999694824219,0.7119999694824218,0.10171622782945633,Yan Diomande,a,13561,OpenPlay,2024,RightFoot,27320,Sevilla,Leganes,2,2,2025-05-04 14:15:00,Marko Dmitrovic,TakeOn
+633397,40,Goal,0.9330000305175781,0.590999984741211,0.454759806394577,Yan Diomande,h,13561,OpenPlay,2024,RightFoot,27322,Leganes,Espanyol,3,2,2025-05-11 12:00:00,Raba,TakeOn
+634057,71,BlockedShot,0.9519999694824218,0.6359999847412109,0.02398175746202469,Yan Diomande,a,13561,OpenPlay,2024,Head,27341,Villarreal,Leganes,3,0,2025-05-14 17:00:00,Adrià Alti,Aerial
+634063,87,MissedShots,0.794000015258789,0.6519999694824219,0.02861645817756653,Yan Diomande,a,13561,OpenPlay,2024,LeftFoot,27341,Villarreal,Leganes,3,0,2025-05-14 17:00:00,Óscar Rodríguez,Pass
+636007,6,MissedShots,0.865999984741211,0.6379999923706055,0.06684385985136032,Yan Diomande,h,13561,OpenPlay,2024,RightFoot,27357,Leganes,Real Valladolid,3,0,2025-05-24 16:30:00,Raba,Pass
+636011,19,BlockedShot,0.825,0.5559999847412109,0.05806926637887955,Yan Diomande,h,13561,OpenPlay,2024,RightFoot,27357,Leganes,Real Valladolid,3,0,2025-05-24 16:30:00,Seydouba Cissé,Pass
+636017,35,Goal,0.88,0.54,0.2978414297103882,Yan Diomande,h,13561,OpenPlay,2024,LeftFoot,27357,Leganes,Real Valladolid,3,0,2025-05-24 16:30:00,Seydouba Cissé,TakeOn
+640168,89,MissedShots,0.88,0.465,0.4786159098148346,Yan Diomande,h,13561,OpenPlay,2025,RightFoot,30235,RasenBallsport Leipzig,FC Heidenheim,2,0,2025-08-30 13:30:00,Bote Baku,Pass
+641495,73,BlockedShot,0.8640000152587891,0.3870000076293945,0.08307261019945145,Yan Diomande,a,13561,OpenPlay,2025,RightFoot,30245,Mainz 05,RasenBallsport Leipzig,0,1,2025-09-13 13:30:00,,None
+643330,25,BlockedShot,0.81,0.495,0.04533318430185318,Yan Diomande,h,13561,FromCorner,2025,RightFoot,30256,RasenBallsport Leipzig,FC Cologne,3,1,2025-09-20 16:30:00,Johan Bakayoko,Pass
+643343,58,SavedShot,0.875,0.6029999923706054,0.3806345462799072,Yan Diomande,h,13561,OpenPlay,2025,LeftFoot,30256,RasenBallsport Leipzig,FC Cologne,3,1,2025-09-20 16:30:00,Rômulo,HeadPass
+644572,10,BlockedShot,0.8009999847412109,0.6809999847412109,0.014914763160049915,Yan Diomande,a,13561,FromCorner,2025,RightFoot,30264,Wolfsburg,RasenBallsport Leipzig,0,1,2025-09-27 13:30:00,David Raum,TakeOn
+644598,70,SavedShot,0.845,0.644000015258789,0.03774437680840492,Yan Diomande,a,13561,FromCorner,2025,RightFoot,30264,Wolfsburg,RasenBallsport Leipzig,0,1,2025-09-27 13:30:00,David Raum,Pass
+648870,9,Goal,0.9409999847412109,0.33099998474121095,0.3026735186576843,Yan Diomande,a,13561,OpenPlay,2025,RightFoot,30287,Augsburg,RasenBallsport Leipzig,0,6,2025-10-25 13:30:00,Rômulo,TakeOn
+650693,52,Goal,0.8580000305175781,0.44400001525878907,0.08947198837995529,Yan Diomande,h,13561,OpenPlay,2025,LeftFoot,30301,RasenBallsport Leipzig,VfB Stuttgart,3,1,2025-11-01 14:30:00,Christoph Baumgartner,Chipped
+650703,93,SavedShot,0.9680000305175781,0.6480000305175782,0.11733322590589523,Yan Diomande,h,13561,OpenPlay,2025,RightFoot,30301,RasenBallsport Leipzig,VfB Stuttgart,3,1,2025-11-01 14:30:00,,TakeOn
+652180,8,Goal,0.8980000305175782,0.405,0.32896676659584045,Yan Diomande,a,13561,OpenPlay,2025,LeftFoot,30310,Hoffenheim,RasenBallsport Leipzig,3,1,2025-11-08 14:30:00,Assan Ouédraogo,TakeOn
+652194,47,MissedShots,0.779000015258789,0.4829999923706055,0.016274582594633102,Yan Diomande,a,13561,FromCorner,2025,RightFoot,30310,Hoffenheim,RasenBallsport Leipzig,3,1,2025-11-08 14:30:00,,Aerial
+652200,63,SavedShot,0.9769999694824218,0.265,0.04134978726506233,Yan Diomande,a,13561,OpenPlay,2025,RightFoot,30310,Hoffenheim,RasenBallsport Leipzig,3,1,2025-11-08 14:30:00,Willi Orban,TakeOn
+654209,1,BlockedShot,0.925,0.29100000381469726,0.028830859810113907,Yan Diomande,h,13561,OpenPlay,2025,RightFoot,30320,RasenBallsport Leipzig,Werder Bremen,2,0,2025-11-23 14:30:00,Christoph Baumgartner,Cross
+654214,15,MissedShots,0.8209999847412109,0.49599998474121093,0.044382594525814056,Yan Diomande,h,13561,FromCorner,2025,LeftFoot,30320,RasenBallsport Leipzig,Werder Bremen,2,0,2025-11-23 14:30:00,,None
+654227,47,SavedShot,0.9569999694824218,0.31799999237060544,0.046657878905534744,Yan Diomande,h,13561,OpenPlay,2025,RightFoot,30320,RasenBallsport Leipzig,Werder Bremen,2,0,2025-11-23 14:30:00,Christoph Baumgartner,Chipped
+654240,86,SavedShot,0.9590000152587891,0.649000015258789,0.2723119258880615,Yan Diomande,h,13561,OpenPlay,2025,LeftFoot,30320,RasenBallsport Leipzig,Werder Bremen,2,0,2025-11-23 14:30:00,Christoph Baumgartner,Pass
+654687,41,MissedShots,0.7430000305175781,0.3890000152587891,0.018257945775985718,Yan Diomande,a,13561,OpenPlay,2025,RightFoot,30325,Borussia M.Gladbach,RasenBallsport Leipzig,0,0,2025-11-28 19:30:00,Antonio Nusa,Pass
+654690,46,BlockedShot,0.9109999847412109,0.47700000762939454,0.11616436392068863,Yan Diomande,a,13561,OpenPlay,2025,LeftFoot,30325,Borussia M.Gladbach,RasenBallsport Leipzig,0,0,2025-11-28 19:30:00,Antonio Nusa,Cross
+657165,46,Goal,0.87,0.595,0.08706722408533096,Yan Diomande,h,13561,OpenPlay,2025,RightFoot,30340,RasenBallsport Leipzig,Eintracht Frankfurt,6,0,2025-12-06 17:30:00,,None
+657169,54,Goal,0.8180000305175781,0.46599998474121096,0.08416341990232468,Yan Diomande,h,13561,OpenPlay,2025,LeftFoot,30340,RasenBallsport Leipzig,Eintracht Frankfurt,6,0,2025-12-06 17:30:00,Christoph Baumgartner,Pass
+657173,64,Goal,0.9259999847412109,0.625,0.5373426675796509,Yan Diomande,h,13561,OpenPlay,2025,LeftFoot,30340,RasenBallsport Leipzig,Eintracht Frankfurt,6,0,2025-12-06 17:30:00,Nicolas Seiwald,TakeOn
+657890,9,MissedShots,0.84,0.664000015258789,0.031044915318489075,Yan Diomande,a,13561,FromCorner,2025,RightFoot,30348,Union Berlin,RasenBallsport Leipzig,3,1,2025-12-12 19:30:00,,None
+657892,16,SavedShot,0.8590000152587891,0.6459999847412109,0.06528516113758087,Yan Diomande,a,13561,OpenPlay,2025,LeftFoot,30348,Union Berlin,RasenBallsport Leipzig,3,1,2025-12-12 19:30:00,,TakeOn
+663877,34,BlockedShot,0.845999984741211,0.39099998474121095,0.06870568543672562,Yan Diomande,h,13561,OpenPlay,2025,RightFoot,30382,RasenBallsport Leipzig,Bayern Munich,1,5,2026-01-17 17:30:00,Rômulo,Pass
+663893,71,SavedShot,0.9209999847412109,0.35200000762939454,0.2253970056772232,Yan Diomande,h,13561,OpenPlay,2025,RightFoot,30382,RasenBallsport Leipzig,Bayern Munich,1,5,2026-01-17 17:30:00,Bote Baku,Chipped
+665690,14,BlockedShot,0.9030000305175782,0.395,0.09142395108938217,Yan Diomande,a,13561,OpenPlay,2025,RightFoot,30365,St. Pauli,RasenBallsport Leipzig,1,1,2026-01-27 19:30:00,Rômulo,Dispossessed
+665701,65,Goal,0.815,0.48200000762939454,0.040467943996191025,Yan Diomande,a,13561,FromCorner,2025,RightFoot,30365,St. Pauli,RasenBallsport Leipzig,1,1,2026-01-27 19:30:00,,None
+667700,6,BlockedShot,0.8780000305175781,0.5459999847412109,0.09636029601097107,Yan Diomande,a,13561,OpenPlay,2025,LeftFoot,30406,FC Cologne,RasenBallsport Leipzig,1,2,2026-02-08 14:30:00,,Rebound
+667701,6,MissedShots,0.9440000152587891,0.48900001525878906,0.512169361114502,Yan Diomande,a,13561,OpenPlay,2025,RightFoot,30406,FC Cologne,RasenBallsport Leipzig,1,2,2026-02-08 14:30:00,Antonio Nusa,BallTouch
+667713,44,BlockedShot,0.8959999847412109,0.634000015258789,0.19286534190177917,Yan Diomande,a,13561,OpenPlay,2025,RightFoot,30406,FC Cologne,RasenBallsport Leipzig,1,2,2026-02-08 14:30:00,Xaver Schlager,TakeOn
+667720,74,SavedShot,0.8240000152587891,0.5729999923706055,0.10346878319978714,Yan Diomande,a,13561,OpenPlay,2025,RightFoot,30406,FC Cologne,RasenBallsport Leipzig,1,2,2026-02-08 14:30:00,Antonio Nusa,Pass
+669203,9,SavedShot,0.91,0.2520000076293945,0.034574005752801895,Yan Diomande,h,13561,OpenPlay,2025,RightFoot,30419,RasenBallsport Leipzig,Wolfsburg,2,2,2026-02-15 16:30:00,Antonio Nusa,TakeOn
+669212,48,SavedShot,0.970999984741211,0.33,0.028031455352902412,Yan Diomande,h,13561,OpenPlay,2025,LeftFoot,30419,RasenBallsport Leipzig,Wolfsburg,2,2,2026-02-15 16:30:00,Antonio Nusa,Cross
+669218,69,Goal,0.9159999847412109,0.35,0.3144330680370331,Yan Diomande,h,13561,OpenPlay,2025,RightFoot,30419,RasenBallsport Leipzig,Wolfsburg,2,2,2026-02-15 16:30:00,Brajan Gruda,Pass
+669948,38,BlockedShot,0.855999984741211,0.6320000076293946,0.07970310747623444,Yan Diomande,h,13561,OpenPlay,2025,RightFoot,30427,RasenBallsport Leipzig,Borussia Dortmund,2,2,2026-02-21 17:30:00,Christoph Baumgartner,Pass
+669960,82,MissedShots,0.8719999694824219,0.3039999961853027,0.2754139006137848,Yan Diomande,h,13561,OpenPlay,2025,RightFoot,30427,RasenBallsport Leipzig,Borussia Dortmund,2,2,2026-02-21 17:30:00,Antonio Nusa,Pass
+671903,26,MissedShots,0.9519999694824218,0.34099998474121096,0.04144945368170738,Yan Diomande,a,13561,OpenPlay,2025,RightFoot,30436,Hamburger SV,RasenBallsport Leipzig,1,2,2026-03-01 18:30:00,David Raum,Cross
+671910,49,Goal,0.9119999694824219,0.5790000152587891,0.4054942727088928,Yan Diomande,a,13561,OpenPlay,2025,LeftFoot,30436,Hamburger SV,RasenBallsport Leipzig,1,2,2026-03-01 18:30:00,Rômulo,TakeOn
+672620,28,SavedShot,0.924000015258789,0.28,0.04444531351327896,Yan Diomande,h,13561,OpenPlay,2025,RightFoot,30445,RasenBallsport Leipzig,Augsburg,2,1,2026-03-07 14:30:00,Christoph Baumgartner,Chipped
+672636,67,BlockedShot,0.91,0.72,0.04517846927046776,Yan Diomande,h,13561,OpenPlay,2025,RightFoot,30445,RasenBallsport Leipzig,Augsburg,2,1,2026-03-07 14:30:00,David Raum,Pass
+672638,75,Goal,0.8980000305175782,0.585,0.5054552555084229,Yan Diomande,h,13561,OpenPlay,2025,LeftFoot,30445,RasenBallsport Leipzig,Augsburg,2,1,2026-03-07 14:30:00,Conrad Harder,BallRecovery
+672639,78,MissedShots,0.745,0.49200000762939455,0.04153921827673912,Yan Diomande,h,13561,OpenPlay,2025,RightFoot,30445,RasenBallsport Leipzig,Augsburg,2,1,2026-03-07 14:30:00,Conrad Harder,TakeOn
+676458,5,MissedShots,0.7090000152587891,0.47400001525878904,0.01631314866244793,Yan Diomande,a,13561,OpenPlay,2025,RightFoot,30475,Werder Bremen,RasenBallsport Leipzig,1,2,2026-04-04 13:30:00,Antonio Nusa,Pass
+676472,80,MissedShots,0.8630000305175781,0.385,0.4648091793060303,Yan Diomande,a,13561,OpenPlay,2025,RightFoot,30475,Werder Bremen,RasenBallsport Leipzig,1,2,2026-04-04 13:30:00,Christoph Baumgartner,Throughball
+677825,80,Goal,0.879000015258789,0.600999984741211,0.09761492162942886,Yan Diomande,h,13561,OpenPlay,2025,LeftFoot,30481,RasenBallsport Leipzig,Borussia M.Gladbach,1,0,2026-04-11 13:30:00,Christoph Baumgartner,Pass
+679363,7,MissedShots,0.8369999694824218,0.4470000076293945,0.0773964449763298,Yan Diomande,a,13561,OpenPlay,2025,LeftFoot,30488,Eintracht Frankfurt,RasenBallsport Leipzig,1,3,2026-04-18 16:30:00,Christoph Baumgartner,Pass
+679364,9,BlockedShot,0.855999984741211,0.3509999847412109,0.05974423885345459,Yan Diomande,a,13561,OpenPlay,2025,RightFoot,30488,Eintracht Frankfurt,RasenBallsport Leipzig,1,3,2026-04-18 16:30:00,Rômulo,BallRecovery
+679367,12,MissedShots,0.9330000305175781,0.295,0.07344450056552887,Yan Diomande,a,13561,OpenPlay,2025,RightFoot,30488,Eintracht Frankfurt,RasenBallsport Leipzig,1,3,2026-04-18 16:30:00,Rômulo,Pass
+679369,26,Goal,0.8480000305175781,0.5470000076293945,0.1278531551361084,Yan Diomande,a,13561,OpenPlay,2025,RightFoot,30488,Eintracht Frankfurt,RasenBallsport Leipzig,1,3,2026-04-18 16:30:00,Lukas Klostermann,TakeOn
+682512,45,MissedShots,0.7659999847412109,0.5459999847412109,0.027615869417786598,Yan Diomande,a,13561,OpenPlay,2025,RightFoot,30503,Bayer Leverkusen,RasenBallsport Leipzig,4,1,2026-05-02 16:30:00,Xaver Schlager,BallTouch

@@ -1,0 +1,30 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+382643,76,BlockedShot,0.805,0.6480000305175782,0.02730480022728443,Lucas Gourna Douath,h,8372,OpenPlay,2020,RightFoot,15824,Saint-Etienne,Nice,1,3,2020-10-18 15:00:00,Adil Aouchiche,Pass
+383854,92,MissedShots,0.7390000152587891,0.5540000152587891,0.01638380065560341,Lucas Gourna Douath,a,8372,OpenPlay,2020,RightFoot,15828,Metz,Saint-Etienne,2,0,2020-10-25 14:00:00,Mahdi Camara,Pass
+399282,48,MissedShots,0.9540000152587891,0.5179999923706055,0.13439400494098663,Lucas Gourna Douath,a,8372,FromCorner,2020,Head,15955,Strasbourg,Saint-Etienne,1,0,2021-01-17 14:00:00,Ryad Boudebouz,Cross
+399294,68,MissedShots,0.935,0.5179999923706055,0.12455599755048752,Lucas Gourna Douath,a,8372,FromCorner,2020,Head,15955,Strasbourg,Saint-Etienne,1,0,2021-01-17 14:00:00,Arnaud Nordin,Cross
+424567,33,SavedShot,0.7609999847412109,0.7119999694824218,0.015605299733579159,Lucas Gourna Douath,h,8372,OpenPlay,2020,RightFoot,16134,Saint-Etienne,Dijon,0,1,2021-05-23 19:00:00,,BallRecovery
+435883,76,ShotOnPost,0.89,0.524000015258789,0.08244290202856064,Lucas Gourna Douath,h,8372,SetPiece,2021,RightFoot,17911,Saint-Etienne,Lyon,1,1,2021-10-03 18:45:00,Mahdi Camara,Cross
+437491,93,BlockedShot,0.9690000152587891,0.4370000076293945,0.11867199838161469,Lucas Gourna Douath,h,8372,FromCorner,2021,RightFoot,17931,Saint-Etienne,Angers,2,2,2021-10-22 19:00:00,,None
+441640,31,MissedShots,0.97,0.605,0.20164500176906586,Lucas Gourna Douath,h,8372,SetPiece,2021,RightFoot,17951,Saint-Etienne,Clermont Foot,3,2,2021-11-07 14:00:00,Ryad Boudebouz,Foul
+453311,71,MissedShots,0.905,0.43599998474121093,0.4650459885597229,Lucas Gourna Douath,h,8372,OpenPlay,2021,RightFoot,18029,Saint-Etienne,Lens,1,2,2022-01-15 16:00:00,Ryad Boudebouz,Cross
+453312,74,BlockedShot,0.8919999694824219,0.48700000762939455,0.06259070336818695,Lucas Gourna Douath,h,8372,FromCorner,2021,RightFoot,18029,Saint-Etienne,Lens,1,2,2022-01-15 16:00:00,Adil Aouchiche,Cross
+455511,30,MissedShots,0.7659999847412109,0.4159999847412109,0.022517599165439606,Lucas Gourna Douath,a,8372,OpenPlay,2021,RightFoot,18015,Angers,Saint-Etienne,0,1,2022-01-26 18:00:00,,None
+455844,23,BlockedShot,0.725,0.5259999847412109,0.016158800572156906,Lucas Gourna Douath,h,8372,OpenPlay,2021,RightFoot,18051,Saint-Etienne,Montpellier,3,1,2022-02-05 16:00:00,,TakeOn
+455852,47,MissedShots,0.7480000305175781,0.710999984741211,0.015872400254011154,Lucas Gourna Douath,h,8372,OpenPlay,2021,RightFoot,18051,Saint-Etienne,Montpellier,3,1,2022-02-05 16:00:00,Timothée Kolodziejczak,Pass
+466306,85,Goal,0.7830000305175782,0.4879999923706055,0.02506989985704422,Lucas Gourna Douath,h,8372,FromCorner,2021,RightFoot,18119,Saint-Etienne,Marseille,2,4,2022-04-03 19:00:00,,None
+468284,68,BlockedShot,0.89,0.32599998474121095,0.0750994011759758,Lucas Gourna Douath,h,8372,OpenPlay,2021,RightFoot,18140,Saint-Etienne,Brest,2,1,2022-04-16 15:00:00,Arnaud Nordin,BallTouch
+469286,20,MissedShots,0.8540000152587891,0.46700000762939453,0.01584170013666153,Lucas Gourna Douath,a,8372,FromCorner,2021,Head,18143,Bordeaux,Saint-Etienne,2,2,2022-04-20 17:00:00,Ryad Boudebouz,Cross
+475993,43,SavedShot,0.86,0.74,0.030511800199747086,Lucas Gourna Douath,h,8372,OpenPlay,2021,RightFoot,18184,Saint-Etienne,Reims,1,2,2022-05-14 19:00:00,Denis Bouanga,Pass
+616598,29,BlockedShot,0.8640000152587891,0.34400001525878904,0.052435193210840225,Lucas Gourna Douath,a,8372,SetPiece,2024,RightFoot,27600,Venezia,Roma,0,1,2025-02-09 17:00:00,Paulo Dybala,Pass
+630673,79,MissedShots,0.745,0.49900001525878906,0.023750867694616318,Lucas Gourna Douath,a,8372,OpenPlay,2024,RightFoot,27697,Inter,Roma,0,1,2025-04-27 13:00:00,Tommaso Baldanzi,Pass
+632147,71,BlockedShot,0.8380000305175781,0.5359999847412109,0.14999833703041077,Lucas Gourna Douath,h,8372,OpenPlay,2024,LeftFoot,27710,Roma,Fiorentina,1,0,2025-05-04 16:00:00,,TakeOn
+665814,37,MissedShots,0.7269999694824218,0.4229999923706055,0.015063319355249405,Lucas Gourna Douath,a,8372,OpenPlay,2025,RightFoot,29710,Lens,Le Havre,1,0,2026-01-30 19:45:00,Rassoul Ndiaye,Pass
+665822,74,MissedShots,0.7559999847412109,0.5520000076293945,0.026871049776673317,Lucas Gourna Douath,a,8372,OpenPlay,2025,RightFoot,29710,Lens,Le Havre,1,0,2026-01-30 19:45:00,Timothee Pembele,Pass
+671395,43,BlockedShot,0.74,0.7680000305175781,0.010830993764102459,Lucas Gourna Douath,h,8372,OpenPlay,2025,RightFoot,29745,Le Havre,Paris Saint Germain,0,1,2026-02-28 20:05:00,,BallRecovery
+671403,55,BlockedShot,0.765,0.6090000152587891,0.02243819274008274,Lucas Gourna Douath,h,8372,OpenPlay,2025,RightFoot,29745,Le Havre,Paris Saint Germain,0,1,2026-02-28 20:05:00,Sofiane Boufal,Pass
+674680,9,SavedShot,0.895,0.28700000762939454,0.04138009622693062,Lucas Gourna Douath,h,8372,OpenPlay,2025,RightFoot,29764,Le Havre,Lyon,0,0,2026-03-15 16:15:00,Mbwana Samatta,Pass
+676037,61,MissedShots,0.72,0.505,0.017475655302405357,Lucas Gourna Douath,a,8372,OpenPlay,2025,RightFoot,29778,Paris FC,Le Havre,3,2,2026-03-22 16:15:00,Yassine Kechta,Pass
+677051,55,SavedShot,0.9,0.40599998474121096,0.013324344530701637,Lucas Gourna Douath,h,8372,FromCorner,2025,Head,29783,Le Havre,Auxerre,1,1,2026-04-05 15:15:00,Yanis Zouaoui,Aerial
+678484,64,MissedShots,0.774000015258789,0.6759999847412109,0.020472027361392975,Lucas Gourna Douath,a,8372,OpenPlay,2025,RightFoot,29795,Nice,Le Havre,1,1,2026-04-12 15:15:00,Yanis Zouaoui,Pass
+684466,45,BlockedShot,0.8209999847412109,0.335,0.036238543689250946,Lucas Gourna Douath,h,8372,OpenPlay,2025,LeftFoot,29828,Le Havre,Marseille,0,1,2026-05-10 19:00:00,Sofiane Boufal,Pass

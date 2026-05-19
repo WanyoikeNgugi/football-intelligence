@@ -1,0 +1,13 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+550992,64,MissedShots,0.889000015258789,0.28899999618530275,0.054093752056360245,Alessandro Vogliacco,h,12124,OpenPlay,2023,RightFoot,22439,Genoa,Empoli,1,1,2023-12-02 14:00:00,Stefano Sabelli,Pass
+563210,87,BlockedShot,0.755,0.3870000076293945,0.02148100547492504,Alessandro Vogliacco,h,12124,OpenPlay,2023,RightFoot,22542,Genoa,Atalanta,1,4,2024-02-11 17:00:00,,Rebound
+568307,41,MissedShots,0.9309999847412109,0.37,0.05588400736451149,Alessandro Vogliacco,h,12124,OpenPlay,2023,RightFoot,22582,Genoa,Monza,2,3,2024-03-09 19:45:00,Milan Badelj,Chipped
+570476,87,MissedShots,0.924000015258789,0.55,0.049331001937389374,Alessandro Vogliacco,h,12124,SetPiece,2023,Head,22602,Genoa,Frosinone,1,1,2024-03-30 14:00:00,Johan Vásquez,BallTouch
+577936,92,MissedShots,0.9540000152587891,0.6430000305175781,0.04028579592704773,Alessandro Vogliacco,h,12124,FromCorner,2023,RightFoot,22637,Genoa,Cagliari,3,0,2024-04-29 18:45:00,Emil Bohinen,Cross
+584924,19,Goal,0.9640000152587891,0.49900001525878906,0.7673426270484924,Alessandro Vogliacco,h,12124,SetPiece,2024,RightFoot,27362,Genoa,Inter,2,2,2024-08-17 16:30:00,,Rebound
+591205,50,BlockedShot,0.9369999694824219,0.515,0.09421397000551224,Alessandro Vogliacco,h,12124,SetPiece,2024,Head,27394,Genoa,Roma,1,1,2024-09-15 10:30:00,,Aerial
+599201,12,MissedShots,0.9480000305175781,0.55,0.12272580713033676,Alessandro Vogliacco,a,12124,FromCorner,2024,Head,27447,Lazio,Genoa,3,0,2024-10-27 14:00:00,Fabio Miretti,Cross
+599671,93,MissedShots,0.749000015258789,0.34,0.015117401257157326,Alessandro Vogliacco,h,12124,OpenPlay,2024,RightFoot,27456,Genoa,Fiorentina,0,1,2024-10-31 17:30:00,,None
+601088,91,Goal,0.9369999694824219,0.5420000076293945,0.46974650025367737,Alessandro Vogliacco,h,12124,FromCorner,2024,RightFoot,27472,Genoa,Como,1,1,2024-11-07 20:00:00,Andrea Pinamonti,HeadPass
+616552,56,OwnGoal,0.03200000047683716,0.47900001525878905,0,Alessandro Vogliacco,a,12124,OpenPlay,2024,OtherBodyPart,27593,Cagliari,Parma Calcio 1913,2,1,2025-02-09 17:00:00,,BlockedPass
+621235,44,SavedShot,0.9419999694824219,0.5529999923706055,0.11326669901609421,Alessandro Vogliacco,h,12124,FromCorner,2024,Head,27641,Parma Calcio 1913,Torino,2,2,2025-03-08 14:00:00,Emanuele Valeri,Cross

@@ -1,0 +1,164 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+428599,81,BlockedShot,0.870999984741211,0.62,0.058417998254299164,Patrick Wimmer,h,9730,OpenPlay,2021,LeftFoot,17536,Arminia Bielefeld,Eintracht Frankfurt,1,1,2021-08-28 13:30:00,Bryan Lasme,BallTouch
+428601,85,Goal,0.764000015258789,0.42700000762939455,0.02652990072965622,Patrick Wimmer,h,9730,OpenPlay,2021,RightFoot,17536,Arminia Bielefeld,Eintracht Frankfurt,1,1,2021-08-28 13:30:00,Fabian Klos,Pass
+428604,94,SavedShot,0.9769999694824218,0.40599998474121096,0.13024599850177765,Patrick Wimmer,h,9730,OpenPlay,2021,RightFoot,17536,Arminia Bielefeld,Eintracht Frankfurt,1,1,2021-08-28 13:30:00,Fabian Klos,TakeOn
+428605,95,BlockedShot,0.7980000305175782,0.5209999847412109,0.031384099274873734,Patrick Wimmer,h,9730,FromCorner,2021,LeftFoot,17536,Arminia Bielefeld,Eintracht Frankfurt,1,1,2021-08-28 13:30:00,,None
+430691,2,MissedShots,0.9309999847412109,0.40099998474121096,0.09548179805278778,Patrick Wimmer,a,9730,OpenPlay,2021,RightFoot,17551,Borussia M.Gladbach,Arminia Bielefeld,3,1,2021-09-12 17:30:00,Robin Hack,Chipped
+430700,32,BlockedShot,0.700999984741211,0.509000015258789,0.015132900327444077,Patrick Wimmer,a,9730,OpenPlay,2021,LeftFoot,17551,Borussia M.Gladbach,Arminia Bielefeld,3,1,2021-09-12 17:30:00,Alessandro Schöpf,Pass
+430710,60,SavedShot,0.9359999847412109,0.5070000076293946,0.1284870058298111,Patrick Wimmer,a,9730,FromCorner,2021,Head,17551,Borussia M.Gladbach,Arminia Bielefeld,3,1,2021-09-12 17:30:00,Alessandro Schöpf,Cross
+430713,61,SavedShot,0.96,0.62,0.04764150083065033,Patrick Wimmer,a,9730,FromCorner,2021,RightFoot,17551,Borussia M.Gladbach,Arminia Bielefeld,3,1,2021-09-12 17:30:00,Alessandro Schöpf,Cross
+435801,8,BlockedShot,0.8580000305175781,0.5640000152587891,0.09248360246419907,Patrick Wimmer,h,9730,OpenPlay,2021,RightFoot,17571,Arminia Bielefeld,Bayer Leverkusen,0,4,2021-10-03 17:30:00,Alessandro Schöpf,Pass
+435804,17,BlockedShot,0.7069999694824218,0.2520000076293945,0.013239700347185135,Patrick Wimmer,h,9730,OpenPlay,2021,RightFoot,17571,Arminia Bielefeld,Bayer Leverkusen,0,4,2021-10-03 17:30:00,Masaya Okugawa,Pass
+435809,29,MissedShots,0.7169999694824218,0.3220000076293945,0.009616140276193619,Patrick Wimmer,h,9730,OpenPlay,2021,RightFoot,17571,Arminia Bielefeld,Bayer Leverkusen,0,4,2021-10-03 17:30:00,Masaya Okugawa,Pass
+437718,67,SavedShot,0.9219999694824219,0.3220000076293945,0.04761059954762459,Patrick Wimmer,h,9730,OpenPlay,2021,RightFoot,17590,Arminia Bielefeld,Borussia Dortmund,1,3,2021-10-23 13:30:00,,None
+437724,78,MissedShots,0.8040000152587891,0.325,0.0207045990973711,Patrick Wimmer,h,9730,FromCorner,2021,RightFoot,17590,Arminia Bielefeld,Borussia Dortmund,1,3,2021-10-23 13:30:00,,None
+439511,82,BlockedShot,0.9,0.435,0.07766400277614594,Patrick Wimmer,h,9730,OpenPlay,2021,LeftFoot,17597,Arminia Bielefeld,Mainz 05,1,2,2021-10-30 13:30:00,,None
+439513,94,BlockedShot,0.7069999694824218,0.43200000762939456,0.015893999487161636,Patrick Wimmer,h,9730,OpenPlay,2021,RightFoot,17597,Arminia Bielefeld,Mainz 05,1,2,2021-10-30 13:30:00,Alessandro Schöpf,Pass
+444285,41,BlockedShot,0.779000015258789,0.625999984741211,0.02603990025818348,Patrick Wimmer,a,9730,OpenPlay,2021,RightFoot,17632,Bayern Munich,Arminia Bielefeld,1,0,2021-11-27 17:30:00,Manuel Prietl,Pass
+446030,6,SavedShot,0.7780000305175782,0.5420000076293945,0.033558499068021774,Patrick Wimmer,h,9730,OpenPlay,2021,RightFoot,17633,Arminia Bielefeld,FC Cologne,1,1,2021-12-04 14:30:00,Masaya Okugawa,Pass
+446032,8,MissedShots,0.795,0.6120000076293945,0.02427070029079914,Patrick Wimmer,h,9730,FromCorner,2021,RightFoot,17633,Arminia Bielefeld,FC Cologne,1,1,2021-12-04 14:30:00,Masaya Okugawa,None
+446040,41,BlockedShot,0.94,0.345,0.06584460288286209,Patrick Wimmer,h,9730,OpenPlay,2021,RightFoot,17633,Arminia Bielefeld,FC Cologne,1,1,2021-12-04 14:30:00,Alessandro Schöpf,Pass
+446046,66,SavedShot,0.749000015258789,0.6020000076293945,0.016260599717497826,Patrick Wimmer,h,9730,FromCorner,2021,RightFoot,17633,Arminia Bielefeld,FC Cologne,1,1,2021-12-04 14:30:00,,None
+447543,31,BlockedShot,0.705999984741211,0.42200000762939455,0.011337700299918652,Patrick Wimmer,a,9730,SetPiece,2021,RightFoot,17645,Hertha Berlin,Arminia Bielefeld,2,0,2021-12-11 14:30:00,,Rebound
+447554,67,BlockedShot,0.8819999694824219,0.5820000076293945,0.09470029920339584,Patrick Wimmer,a,9730,OpenPlay,2021,RightFoot,17645,Hertha Berlin,Arminia Bielefeld,2,0,2021-12-11 14:30:00,Florian Krüger,Pass
+448869,22,BlockedShot,0.855999984741211,0.415,0.07482690364122391,Patrick Wimmer,h,9730,OpenPlay,2021,LeftFoot,17651,Arminia Bielefeld,Bochum,2,0,2021-12-14 19:30:00,,BallRecovery
+448871,24,BlockedShot,0.7469999694824219,0.3160000038146973,0.02034600079059601,Patrick Wimmer,h,9730,OpenPlay,2021,LeftFoot,17651,Arminia Bielefeld,Bochum,2,0,2021-12-14 19:30:00,Cédric Brunner,Pass
+448875,45,SavedShot,0.7919999694824219,0.3659999847412109,0.03003619983792305,Patrick Wimmer,h,9730,OpenPlay,2021,LeftFoot,17651,Arminia Bielefeld,Bochum,2,0,2021-12-14 19:30:00,Alessandro Schöpf,Pass
+448878,54,BlockedShot,0.840999984741211,0.8019999694824219,0.020563900470733643,Patrick Wimmer,h,9730,FromCorner,2021,RightFoot,17651,Arminia Bielefeld,Bochum,2,0,2021-12-14 19:30:00,Alessandro Schöpf,TakeOn
+448881,68,Goal,0.8590000152587891,0.6580000305175782,0.020453300327062607,Patrick Wimmer,h,9730,FromCorner,2021,RightFoot,17651,Arminia Bielefeld,Bochum,2,0,2021-12-14 19:30:00,,Aerial
+449395,56,SavedShot,0.9640000152587891,0.524000015258789,0.8538820147514343,Patrick Wimmer,a,9730,OpenPlay,2021,LeftFoot,17667,RasenBallsport Leipzig,Arminia Bielefeld,0,2,2021-12-18 14:30:00,Florian Krüger,Pass
+452129,20,BlockedShot,0.85,0.6519999694824219,0.034512799233198166,Patrick Wimmer,a,9730,OpenPlay,2021,LeftFoot,17673,Freiburg,Arminia Bielefeld,2,2,2022-01-08 14:30:00,Florian Krüger,HeadPass
+452131,24,BlockedShot,0.865999984741211,0.5370000076293945,0.0733100026845932,Patrick Wimmer,a,9730,OpenPlay,2021,RightFoot,17673,Freiburg,Arminia Bielefeld,2,2,2022-01-08 14:30:00,Joakim Nilsson,Chipped
+452139,45,BlockedShot,0.865,0.35700000762939454,0.04888330027461052,Patrick Wimmer,a,9730,OpenPlay,2021,LeftFoot,17673,Freiburg,Arminia Bielefeld,2,2,2022-01-08 14:30:00,Cédric Brunner,Pass
+452153,94,SavedShot,0.919000015258789,0.5929999923706055,0.3909269869327545,Patrick Wimmer,a,9730,OpenPlay,2021,LeftFoot,17673,Freiburg,Arminia Bielefeld,2,2,2022-01-08 14:30:00,Robin Hack,Pass
+453781,22,MissedShots,0.885,0.5329999923706055,0.051274899393320084,Patrick Wimmer,h,9730,OpenPlay,2021,Head,17679,Arminia Bielefeld,Greuther Fuerth,2,2,2022-01-16 16:30:00,Masaya Okugawa,Chipped
+453788,44,BlockedShot,0.8669999694824219,0.43599998474121093,0.076453797519207,Patrick Wimmer,h,9730,OpenPlay,2021,LeftFoot,17679,Arminia Bielefeld,Greuther Fuerth,2,2,2022-01-16 16:30:00,,None
+453790,55,SavedShot,0.7169999694824218,0.46299999237060546,0.015193399973213673,Patrick Wimmer,h,9730,OpenPlay,2021,RightFoot,17679,Arminia Bielefeld,Greuther Fuerth,2,2,2022-01-16 16:30:00,Bryan Lasme,Pass
+454304,4,Goal,0.894000015258789,0.624000015258789,0.32844799757003784,Patrick Wimmer,a,9730,OpenPlay,2021,LeftFoot,17694,Eintracht Frankfurt,Arminia Bielefeld,0,2,2022-01-21 19:30:00,,None
+454323,71,MissedShots,0.8769999694824219,0.539000015258789,0.16461299359798431,Patrick Wimmer,a,9730,OpenPlay,2021,RightFoot,17694,Eintracht Frankfurt,Arminia Bielefeld,0,2,2022-01-21 19:30:00,,TakeOn
+455789,44,BlockedShot,0.88,0.68,0.04688020050525665,Patrick Wimmer,h,9730,FromCorner,2021,RightFoot,17697,Arminia Bielefeld,Borussia M.Gladbach,1,1,2022-02-05 14:30:00,Masaya Okugawa,Pass
+455804,83,BlockedShot,0.8,0.3039999961853027,0.04407360032200813,Patrick Wimmer,h,9730,OpenPlay,2021,RightFoot,17697,Arminia Bielefeld,Borussia M.Gladbach,1,1,2022-02-05 14:30:00,Fabian Klos,Pass
+458206,10,BlockedShot,0.7369999694824219,0.385,0.01905819959938526,Patrick Wimmer,h,9730,OpenPlay,2021,LeftFoot,17715,Arminia Bielefeld,Union Berlin,1,0,2022-02-19 14:30:00,Sebastian Vasiliadis,Pass
+458209,21,BlockedShot,0.8619999694824219,0.3160000038146973,0.04472380131483078,Patrick Wimmer,h,9730,OpenPlay,2021,RightFoot,17715,Arminia Bielefeld,Union Berlin,1,0,2022-02-19 14:30:00,Alessandro Schöpf,Pass
+458211,27,BlockedShot,0.710999984741211,0.475,0.04495299980044365,Patrick Wimmer,h,9730,DirectFreekick,2021,RightFoot,17715,Arminia Bielefeld,Union Berlin,1,0,2022-02-19 14:30:00,,Standard
+459639,9,BlockedShot,0.7609999847412109,0.45799999237060546,0.027207300066947937,Patrick Wimmer,a,9730,OpenPlay,2021,RightFoot,17730,Bayer Leverkusen,Arminia Bielefeld,3,0,2022-02-26 14:30:00,Janni Serra,Pass
+459647,35,MissedShots,0.740999984741211,0.5570000076293945,0.018885700032114983,Patrick Wimmer,a,9730,OpenPlay,2021,LeftFoot,17730,Bayer Leverkusen,Arminia Bielefeld,3,0,2022-02-26 14:30:00,Janni Serra,Pass
+460741,47,MissedShots,0.7930000305175782,0.6309999847412109,0.02955690026283264,Patrick Wimmer,h,9730,OpenPlay,2021,LeftFoot,17734,Arminia Bielefeld,Augsburg,0,1,2022-03-04 19:30:00,Masaya Okugawa,Pass
+460742,47,BlockedShot,0.7480000305175781,0.4,0.015971599146723747,Patrick Wimmer,h,9730,OpenPlay,2021,LeftFoot,17734,Arminia Bielefeld,Augsburg,0,1,2022-03-04 19:30:00,,None
+463239,47,BlockedShot,0.8009999847412109,0.6969999694824218,0.07338900119066238,Patrick Wimmer,a,9730,DirectFreekick,2021,RightFoot,17749,Borussia Dortmund,Arminia Bielefeld,1,0,2022-03-13 16:30:00,,Standard
+463961,42,MissedShots,0.8419999694824218,0.515,0.07718980312347412,Patrick Wimmer,a,9730,OpenPlay,2021,RightFoot,17754,Mainz 05,Arminia Bielefeld,4,0,2022-03-19 14:30:00,Bryan Lasme,Pass
+463962,44,MissedShots,0.764000015258789,0.46599998474121096,0.024661600589752197,Patrick Wimmer,a,9730,OpenPlay,2021,LeftFoot,17754,Mainz 05,Arminia Bielefeld,4,0,2022-03-19 14:30:00,,None
+468728,6,MissedShots,0.860999984741211,0.30100000381469727,0.0459619015455246,Patrick Wimmer,h,9730,OpenPlay,2021,LeftFoot,17777,Arminia Bielefeld,Bayern Munich,0,3,2022-04-17 13:30:00,,BallRecovery
+468740,49,BlockedShot,0.8680000305175781,0.27700000762939453,0.05141640082001686,Patrick Wimmer,h,9730,OpenPlay,2021,RightFoot,17777,Arminia Bielefeld,Bayern Munich,0,3,2022-04-17 13:30:00,Amos Pieper,TakeOn
+469949,46,BlockedShot,0.784000015258789,0.664000015258789,0.07238929718732834,Patrick Wimmer,a,9730,DirectFreekick,2021,RightFoot,17788,FC Cologne,Arminia Bielefeld,3,1,2022-04-23 13:30:00,,Standard
+469959,68,SavedShot,0.965,0.6730000305175782,0.04436729848384857,Patrick Wimmer,a,9730,OpenPlay,2021,RightFoot,17788,FC Cologne,Arminia Bielefeld,3,1,2022-04-23 13:30:00,Sebastian Vasiliadis,TakeOn
+469967,84,BlockedShot,0.9269999694824219,0.6730000305175782,0.05565610155463219,Patrick Wimmer,a,9730,OpenPlay,2021,LeftFoot,17788,FC Cologne,Arminia Bielefeld,3,1,2022-04-23 13:30:00,,BallTouch
+472747,42,SavedShot,0.7530000305175781,0.5309999847412109,0.02001909911632538,Patrick Wimmer,a,9730,OpenPlay,2021,RightFoot,17805,Bochum,Arminia Bielefeld,2,1,2022-05-06 18:30:00,,None
+475752,3,BlockedShot,0.82,0.5070000076293946,0.06415999680757523,Patrick Wimmer,h,9730,OpenPlay,2021,RightFoot,17813,Arminia Bielefeld,RasenBallsport Leipzig,1,1,2022-05-14 13:30:00,Masaya Okugawa,Pass
+479171,30,MissedShots,0.740999984741211,0.3890000152587891,0.01593160070478916,Patrick Wimmer,h,9730,OpenPlay,2022,LeftFoot,19345,Wolfsburg,Werder Bremen,2,2,2022-08-06 13:30:00,Bote Baku,TakeOn
+489987,8,MissedShots,0.8980000305175782,0.4540000152587891,0.03615250065922737,Patrick Wimmer,h,9730,OpenPlay,2022,Head,19410,Wolfsburg,VfB Stuttgart,3,2,2022-10-01 13:30:00,Yannick Gerhardt,Aerial
+491510,72,SavedShot,0.889000015258789,0.38599998474121094,0.055622201412916183,Patrick Wimmer,a,9730,OpenPlay,2022,LeftFoot,19420,Augsburg,Wolfsburg,1,1,2022-10-08 13:30:00,Yannick Gerhardt,Cross
+493012,55,MissedShots,0.88,0.33099998474121095,0.04903030022978783,Patrick Wimmer,h,9730,OpenPlay,2022,RightFoot,19428,Wolfsburg,Borussia M.Gladbach,2,2,2022-10-15 13:30:00,,None
+498004,19,MissedShots,0.924000015258789,0.610999984741211,0.04499780014157295,Patrick Wimmer,a,9730,OpenPlay,2022,Head,19451,Mainz 05,Wolfsburg,0,3,2022-11-05 14:30:00,Jakub Kaminski,Cross
+498010,32,Goal,0.9290000152587891,0.5970000076293945,0.07684359699487686,Patrick Wimmer,a,9730,FromCorner,2022,RightFoot,19451,Mainz 05,Wolfsburg,0,3,2022-11-05 14:30:00,Felix Nmecha,HeadPass
+504479,0,Goal,0.8540000152587891,0.4370000076293945,0.08973740041255951,Patrick Wimmer,h,9730,OpenPlay,2022,LeftFoot,19483,Wolfsburg,Freiburg,6,0,2023-01-21 14:30:00,Yannick Gerhardt,Pass
+504486,33,SavedShot,0.81,0.32,0.04478750005364418,Patrick Wimmer,h,9730,OpenPlay,2022,LeftFoot,19483,Wolfsburg,Freiburg,6,0,2023-01-21 14:30:00,Jakub Kaminski,Pass
+505336,0,BlockedShot,0.955999984741211,0.49900001525878906,0.09636300057172775,Patrick Wimmer,a,9730,FromCorner,2022,Head,19492,Hertha Berlin,Wolfsburg,0,5,2023-01-24 19:30:00,Mattias Svanberg,Rebound
+505736,0,SavedShot,0.9319999694824219,0.3609999847412109,0.3341050148010254,Patrick Wimmer,a,9730,OpenPlay,2022,RightFoot,19503,Werder Bremen,Wolfsburg,2,1,2023-01-28 14:30:00,Mattias Svanberg,Pass
+507780,27,MissedShots,0.9569999694824218,0.3629999923706055,0.07159460335969925,Patrick Wimmer,h,9730,OpenPlay,2022,RightFoot,19509,Wolfsburg,Bayern Munich,2,4,2023-02-05 16:30:00,Bote Baku,Foul
+507782,27,MissedShots,0.95,0.42400001525878905,0.39957499504089355,Patrick Wimmer,h,9730,OpenPlay,2022,RightFoot,19509,Wolfsburg,Bayern Munich,2,4,2023-02-05 16:30:00,Paulo Otávio,Rebound
+507784,34,BlockedShot,0.96,0.29100000381469726,0.027853399515151978,Patrick Wimmer,h,9730,OpenPlay,2022,RightFoot,19509,Wolfsburg,Bayern Munich,2,4,2023-02-05 16:30:00,,Rebound
+510776,20,MissedShots,0.8640000152587891,0.700999984741211,0.05684259906411171,Patrick Wimmer,a,9730,OpenPlay,2022,LeftFoot,19534,FC Cologne,Wolfsburg,0,2,2023-02-25 14:30:00,,None
+512853,35,BlockedShot,0.9259999847412109,0.625,0.09426320344209671,Patrick Wimmer,h,9730,OpenPlay,2022,RightFoot,19545,Wolfsburg,Eintracht Frankfurt,2,2,2023-03-05 16:30:00,Paulo Otávio,Pass
+514371,83,Goal,0.8480000305175781,0.5509999847412109,0.07344769686460495,Patrick Wimmer,h,9730,OpenPlay,2022,RightFoot,19554,Wolfsburg,Union Berlin,1,1,2023-03-12 18:30:00,Kevin Paredes,Pass
+514845,43,BlockedShot,0.87,0.40900001525878904,0.07270640134811401,Patrick Wimmer,a,9730,OpenPlay,2022,RightFoot,19566,VfB Stuttgart,Wolfsburg,0,1,2023-03-18 14:30:00,,None
+516212,14,MissedShots,0.8730000305175781,0.6079999923706054,0.026534300297498703,Patrick Wimmer,h,9730,OpenPlay,2022,Head,19571,Wolfsburg,Augsburg,2,2,2023-04-01 13:30:00,Jakub Kaminski,Chipped
+516213,19,SavedShot,0.9330000305175781,0.5609999847412109,0.49205198884010315,Patrick Wimmer,h,9730,OpenPlay,2022,RightFoot,19571,Wolfsburg,Augsburg,2,2,2023-04-01 13:30:00,,None
+516221,43,MissedShots,0.9130000305175782,0.580999984741211,0.314862996339798,Patrick Wimmer,h,9730,OpenPlay,2022,Head,19571,Wolfsburg,Augsburg,2,2,2023-04-01 13:30:00,Jakub Kaminski,BallTouch
+520315,71,SavedShot,0.8519999694824218,0.5829999923706055,0.078227698802948,Patrick Wimmer,h,9730,OpenPlay,2022,RightFoot,19590,Wolfsburg,Bayer Leverkusen,0,0,2023-04-16 17:30:00,Kevin Paredes,Pass
+520317,82,SavedShot,0.8690000152587891,0.3559999847412109,0.06252779811620712,Patrick Wimmer,h,9730,OpenPlay,2022,RightFoot,19590,Wolfsburg,Bayer Leverkusen,0,0,2023-04-16 17:30:00,Felix Nmecha,Pass
+520762,32,Goal,0.8830000305175781,0.34200000762939453,0.09078600257635117,Patrick Wimmer,a,9730,OpenPlay,2022,LeftFoot,19600,Bochum,Wolfsburg,1,5,2023-04-22 13:30:00,Mattias Svanberg,Pass
+523462,34,MissedShots,0.914000015258789,0.34,0.09063931554555893,Patrick Wimmer,h,9730,OpenPlay,2022,RightFoot,19608,Wolfsburg,Mainz 05,3,0,2023-04-30 15:30:00,Felix Nmecha,Pass
+523470,71,SavedShot,0.8819999694824219,0.585999984741211,0.4746495187282562,Patrick Wimmer,h,9730,OpenPlay,2022,LeftFoot,19608,Wolfsburg,Mainz 05,3,0,2023-04-30 15:30:00,Jakub Kaminski,Throughball
+525173,18,SavedShot,0.8630000305175781,0.555,0.4182667136192322,Patrick Wimmer,a,9730,OpenPlay,2022,RightFoot,19612,Borussia Dortmund,Wolfsburg,6,0,2023-05-07 15:30:00,Maximilian Arnold,Chipped
+525199,87,SavedShot,0.879000015258789,0.46799999237060547,0.10323775559663773,Patrick Wimmer,a,9730,OpenPlay,2022,LeftFoot,19612,Borussia Dortmund,Wolfsburg,6,0,2023-05-07 15:30:00,Yannick Gerhardt,Pass
+525200,87,BlockedShot,0.8830000305175781,0.4470000076293945,0.06427103281021118,Patrick Wimmer,a,9730,OpenPlay,2022,RightFoot,19612,Borussia Dortmund,Wolfsburg,6,0,2023-05-07 15:30:00,Kilian Fischer,Cross
+527050,35,MissedShots,0.7519999694824219,0.509000015258789,0.029726838693022728,Patrick Wimmer,a,9730,OpenPlay,2022,LeftFoot,19632,Freiburg,Wolfsburg,2,0,2023-05-19 18:30:00,Jonas Wind,HeadPass
+529059,30,SavedShot,0.8630000305175781,0.6220000076293946,0.08548435568809509,Patrick Wimmer,h,9730,OpenPlay,2022,LeftFoot,19645,Wolfsburg,Hertha Berlin,1,2,2023-05-27 13:30:00,Jonas Wind,BallTouch
+529068,64,MissedShots,0.8240000152587891,0.34,0.038568418473005295,Patrick Wimmer,h,9730,OpenPlay,2022,LeftFoot,19645,Wolfsburg,Hertha Berlin,1,2,2023-05-27 13:30:00,Yannick Gerhardt,Pass
+534553,9,MissedShots,0.8780000305175781,0.620999984741211,0.280978262424469,Patrick Wimmer,a,9730,OpenPlay,2023,LeftFoot,23076,FC Cologne,Wolfsburg,1,2,2023-08-26 13:30:00,Václav Cerny,Pass
+545419,28,BlockedShot,0.865,0.72,0.028481073677539825,Patrick Wimmer,a,9730,OpenPlay,2023,RightFoot,23144,Augsburg,Wolfsburg,3,2,2023-10-28 13:30:00,Maximilian Arnold,Chipped
+569315,8,Goal,0.9169999694824219,0.46599998474121096,0.11311488598585129,Patrick Wimmer,h,9730,FromCorner,2023,LeftFoot,23293,Wolfsburg,Augsburg,1,3,2024-03-16 14:30:00,Maxence Lacroix,Pass
+569324,23,MissedShots,0.884000015258789,0.4779999923706055,0.31996485590934753,Patrick Wimmer,h,9730,OpenPlay,2023,RightFoot,23293,Wolfsburg,Augsburg,1,3,2024-03-16 14:30:00,Bote Baku,Cross
+573054,47,SavedShot,0.7769999694824219,0.6029999923706054,0.03995194286108017,Patrick Wimmer,h,9730,OpenPlay,2023,RightFoot,23312,Wolfsburg,Borussia M.Gladbach,1,3,2024-04-07 15:30:00,Mattias Svanberg,HeadPass
+578299,1,BlockedShot,0.855,0.605999984741211,0.08027460426092148,Patrick Wimmer,h,9730,OpenPlay,2023,RightFoot,23347,Wolfsburg,Darmstadt,3,0,2024-05-04 13:30:00,Jonas Wind,Pass
+578302,7,Goal,0.8419999694824218,0.49900001525878906,0.0674746111035347,Patrick Wimmer,h,9730,OpenPlay,2023,RightFoot,23347,Wolfsburg,Darmstadt,3,0,2024-05-04 13:30:00,,None
+578310,41,MissedShots,0.985999984741211,0.49599998474121093,0.8135843873023987,Patrick Wimmer,h,9730,FromCorner,2023,Head,23347,Wolfsburg,Darmstadt,3,0,2024-05-04 13:30:00,,None
+580454,21,SavedShot,0.6990000152587891,0.575999984741211,0.008075980469584465,Patrick Wimmer,a,9730,OpenPlay,2023,RightFoot,23353,Bayern Munich,Wolfsburg,2,0,2024-05-12 15:30:00,Jonas Wind,TakeOn
+581593,68,MissedShots,0.8969999694824219,0.654000015258789,0.05882955715060234,Patrick Wimmer,h,9730,OpenPlay,2023,LeftFoot,23366,Wolfsburg,Mainz 05,1,3,2024-05-18 13:30:00,Kilian Fischer,Chipped
+589075,23,SavedShot,0.894000015258789,0.5640000152587891,0.37147897481918335,Patrick Wimmer,a,9730,OpenPlay,2024,LeftFoot,27754,Holstein Kiel,Wolfsburg,0,2,2024-08-31 13:30:00,Mattias Svanberg,Rebound
+589086,64,BlockedShot,0.794000015258789,0.519000015258789,0.06343922019004822,Patrick Wimmer,a,9730,OpenPlay,2024,RightFoot,27754,Holstein Kiel,Wolfsburg,0,2,2024-08-31 13:30:00,Tiago Tomás,Pass
+589092,87,MissedShots,0.7719999694824219,0.425,0.03528256714344025,Patrick Wimmer,a,9730,OpenPlay,2024,RightFoot,27754,Holstein Kiel,Wolfsburg,0,2,2024-08-31 13:30:00,Jonas Wind,BallRecovery
+590613,7,MissedShots,0.9569999694824218,0.5279999923706055,0.4688551723957062,Patrick Wimmer,h,9730,FromCorner,2024,Head,27764,Wolfsburg,Eintracht Frankfurt,1,2,2024-09-14 13:30:00,Salih Özcan,Rebound
+590621,41,BlockedShot,0.8680000305175781,0.685,0.039808448404073715,Patrick Wimmer,h,9730,OpenPlay,2024,LeftFoot,27764,Wolfsburg,Eintracht Frankfurt,1,2,2024-09-14 13:30:00,Cédric Zesiger,Chipped
+595375,79,ShotOnPost,0.855,0.6480000305175782,0.07396009564399719,Patrick Wimmer,a,9730,OpenPlay,2024,LeftFoot,27792,Bochum,Wolfsburg,1,3,2024-10-05 13:30:00,Mohammed Amoura,BallTouch
+602420,4,BlockedShot,0.8640000152587891,0.475,0.1066291332244873,Patrick Wimmer,a,9730,OpenPlay,2024,LeftFoot,27825,FC Heidenheim,Wolfsburg,1,3,2024-11-10 18:30:00,,BallTouch
+602427,28,SavedShot,0.955,0.6120000076293945,0.4016336500644684,Patrick Wimmer,a,9730,OpenPlay,2024,LeftFoot,27825,FC Heidenheim,Wolfsburg,1,3,2024-11-10 18:30:00,Mohammed Amoura,Throughball
+604014,27,MissedShots,0.7219999694824218,0.5940000152587891,0.029910992830991745,Patrick Wimmer,a,9730,OpenPlay,2024,RightFoot,27841,RasenBallsport Leipzig,Wolfsburg,1,5,2024-11-30 14:30:00,Denis Vavro,Pass
+610627,87,BlockedShot,0.8869999694824219,0.455,0.07289739698171616,Patrick Wimmer,a,9730,FromCorner,2024,LeftFoot,27879,Hoffenheim,Wolfsburg,0,1,2025-01-11 14:30:00,Konstantinos Koulierakis,BallTouch
+611412,46,MissedShots,0.7719999694824219,0.38599998474121094,0.03203357756137848,Patrick Wimmer,h,9730,OpenPlay,2024,RightFoot,27891,Wolfsburg,Borussia M.Gladbach,5,1,2025-01-14 19:30:00,Jonas Wind,Pass
+611415,50,BlockedShot,0.879000015258789,0.4109999847412109,0.11636682599782944,Patrick Wimmer,h,9730,OpenPlay,2024,RightFoot,27891,Wolfsburg,Borussia M.Gladbach,5,1,2025-01-14 19:30:00,Bence Dárdai,Pass
+611419,65,BlockedShot,0.7519999694824219,0.644000015258789,0.05645839869976044,Patrick Wimmer,h,9730,DirectFreekick,2024,RightFoot,27891,Wolfsburg,Borussia M.Gladbach,5,1,2025-01-14 19:30:00,,Standard
+613084,49,Goal,0.8930000305175781,0.48,0.4466243386268616,Patrick Wimmer,h,9730,OpenPlay,2024,RightFoot,27910,Wolfsburg,Holstein Kiel,2,2,2025-01-24 19:30:00,Jonas Wind,Throughball
+613087,54,ShotOnPost,0.89,0.28600000381469726,0.05998830124735832,Patrick Wimmer,h,9730,OpenPlay,2024,RightFoot,27910,Wolfsburg,Holstein Kiel,2,2,2025-01-24 19:30:00,,None
+613090,62,ShotOnPost,0.9019999694824219,0.4109999847412109,0.12800264358520508,Patrick Wimmer,h,9730,OpenPlay,2024,RightFoot,27910,Wolfsburg,Holstein Kiel,2,2,2025-01-24 19:30:00,Andreas Skov Olsen,TakeOn
+616082,31,BlockedShot,0.7340000152587891,0.5209999847412109,0.018133074045181274,Patrick Wimmer,h,9730,OpenPlay,2024,LeftFoot,27927,Wolfsburg,Bayer Leverkusen,0,0,2025-02-08 14:30:00,,BallRecovery
+616098,63,SavedShot,0.79,0.6309999847412109,0.021516965702176094,Patrick Wimmer,h,9730,OpenPlay,2024,RightFoot,27927,Wolfsburg,Bayer Leverkusen,0,0,2025-02-08 14:30:00,,Rebound
+617119,21,BlockedShot,0.8930000305175781,0.5379999923706055,0.16508029401302338,Patrick Wimmer,a,9730,SetPiece,2024,RightFoot,27932,VfB Stuttgart,Wolfsburg,1,2,2025-02-15 14:30:00,Mattias Svanberg,TakeOn
+617134,84,BlockedShot,0.805,0.669000015258789,0.06277153640985489,Patrick Wimmer,a,9730,OpenPlay,2024,LeftFoot,27932,VfB Stuttgart,Wolfsburg,1,2,2025-02-15 14:30:00,Mattias Svanberg,BallRecovery
+618379,26,BlockedShot,0.87,0.7330000305175781,0.03773844987154007,Patrick Wimmer,h,9730,OpenPlay,2024,LeftFoot,27945,Wolfsburg,Bochum,1,1,2025-02-22 14:30:00,,BallRecovery
+619942,5,Goal,0.950999984741211,0.4979999923706055,0.566448450088501,Patrick Wimmer,a,9730,FromCorner,2024,OtherBodyPart,27953,Werder Bremen,Wolfsburg,1,2,2025-03-01 14:30:00,Andreas Skov Olsen,Cross
+619957,47,Goal,0.7530000305175781,0.5929999923706055,0.022293003275990486,Patrick Wimmer,a,9730,OpenPlay,2024,RightFoot,27953,Werder Bremen,Wolfsburg,1,2,2025-03-01 14:30:00,Mohammed Amoura,TakeOn
+619958,55,MissedShots,0.8219999694824218,0.5729999923706055,0.07272942364215851,Patrick Wimmer,a,9730,OpenPlay,2024,RightFoot,27953,Werder Bremen,Wolfsburg,1,2,2025-03-01 14:30:00,Konstantinos Koulierakis,Pass
+622600,80,ShotOnPost,0.9009999847412109,0.544000015258789,0.060229282826185226,Patrick Wimmer,a,9730,FromCorner,2024,Head,27971,Augsburg,Wolfsburg,1,0,2025-03-15 14:30:00,Maximilian Arnold,Cross
+622605,91,BlockedShot,0.7519999694824219,0.5709999847412109,0.02354409173130989,Patrick Wimmer,a,9730,OpenPlay,2024,RightFoot,27971,Augsburg,Wolfsburg,1,0,2025-03-15 14:30:00,Denis Vavro,Pass
+624120,51,MissedShots,0.889000015258789,0.4590000152587891,0.10919215530157089,Patrick Wimmer,h,9730,OpenPlay,2024,RightFoot,27981,Wolfsburg,FC Heidenheim,0,1,2025-03-29 14:30:00,Andreas Skov Olsen,Pass
+624127,67,MissedShots,0.845999984741211,0.34599998474121096,0.044404804706573486,Patrick Wimmer,h,9730,OpenPlay,2024,RightFoot,27981,Wolfsburg,FC Heidenheim,0,1,2025-03-29 14:30:00,Jonas Wind,Pass
+626496,25,SavedShot,0.92,0.28600000381469726,0.049906108528375626,Patrick Wimmer,a,9730,OpenPlay,2024,RightFoot,27991,Union Berlin,Wolfsburg,1,0,2025-04-06 15:30:00,Jonas Wind,BallRecovery
+626500,35,BlockedShot,0.909000015258789,0.3079999923706055,0.04572659358382225,Patrick Wimmer,a,9730,OpenPlay,2024,RightFoot,27991,Union Berlin,Wolfsburg,1,0,2025-04-06 15:30:00,,Rebound
+626502,39,MissedShots,0.7959999847412109,0.2989999961853027,0.02355339378118515,Patrick Wimmer,a,9730,OpenPlay,2024,RightFoot,27991,Union Berlin,Wolfsburg,1,0,2025-04-06 15:30:00,Jakub Kaminski,Pass
+626503,41,BlockedShot,0.950999984741211,0.435,0.05976036936044693,Patrick Wimmer,a,9730,OpenPlay,2024,Head,27991,Union Berlin,Wolfsburg,1,0,2025-04-06 15:30:00,Jakub Kaminski,CornerAwarded
+626749,36,SavedShot,0.8880000305175781,0.465,0.07014471292495728,Patrick Wimmer,h,9730,SetPiece,2024,Head,27999,Wolfsburg,RasenBallsport Leipzig,2,3,2025-04-11 18:30:00,Maximilian Arnold,Cross
+628502,48,BlockedShot,0.9359999847412109,0.68,0.053725238889455795,Patrick Wimmer,a,9730,OpenPlay,2024,LeftFoot,28009,Mainz 05,Wolfsburg,2,2,2025-04-19 13:30:00,,BallTouch
+630179,0,SavedShot,0.7709999847412109,0.624000015258789,0.014040212146937847,Patrick Wimmer,h,9730,OpenPlay,2024,LeftFoot,28018,Wolfsburg,Freiburg,0,1,2025-04-26 13:30:00,Jonas Wind,Chipped
+630180,9,MissedShots,0.759000015258789,0.6680000305175782,0.017800986766815186,Patrick Wimmer,h,9730,OpenPlay,2024,RightFoot,28018,Wolfsburg,Freiburg,0,1,2025-04-26 13:30:00,Joakim Maehle,Pass
+630196,62,MissedShots,0.8219999694824218,0.285,0.024277735501527786,Patrick Wimmer,h,9730,OpenPlay,2024,RightFoot,28018,Wolfsburg,Freiburg,0,1,2025-04-26 13:30:00,,None
+631575,9,MissedShots,0.9630000305175781,0.655,0.0777130052447319,Patrick Wimmer,a,9730,OpenPlay,2024,LeftFoot,28022,Borussia Dortmund,Wolfsburg,4,0,2025-05-03 16:30:00,,TakeOn
+632446,15,SavedShot,0.8119999694824219,0.34,0.04224041849374771,Patrick Wimmer,h,9730,OpenPlay,2024,RightFoot,28035,Wolfsburg,Hoffenheim,2,2,2025-05-09 18:30:00,Jonas Wind,Pass
+632454,48,BlockedShot,0.8619999694824219,0.4809999847412109,0.07180547714233398,Patrick Wimmer,h,9730,OpenPlay,2024,RightFoot,28035,Wolfsburg,Hoffenheim,2,2,2025-05-09 18:30:00,Joakim Maehle,Chipped
+634324,27,MissedShots,0.9219999694824219,0.30700000762939456,0.04766442999243736,Patrick Wimmer,a,9730,FromCorner,2024,RightFoot,28046,Borussia M.Gladbach,Wolfsburg,0,1,2025-05-17 13:30:00,Mohammed Amoura,Pass
+634327,34,BlockedShot,0.7569999694824219,0.37200000762939456,0.020570579916238785,Patrick Wimmer,a,9730,OpenPlay,2024,RightFoot,28046,Borussia M.Gladbach,Wolfsburg,0,1,2025-05-17 13:30:00,,Dispossessed
+638717,37,SavedShot,0.8180000305175781,0.4590000152587891,0.33576062321662903,Patrick Wimmer,a,9730,OpenPlay,2025,RightFoot,30225,FC Heidenheim,Wolfsburg,1,3,2025-08-23 13:30:00,,BallRecovery
+638718,38,MissedShots,0.8669999694824219,0.48,0.06113231182098389,Patrick Wimmer,a,9730,FromCorner,2025,RightFoot,30225,FC Heidenheim,Wolfsburg,1,3,2025-08-23 13:30:00,Maximilian Arnold,Pass
+640809,65,MissedShots,0.8769999694824219,0.66,0.09852845966815948,Patrick Wimmer,h,9730,OpenPlay,2025,LeftFoot,30239,Wolfsburg,Mainz 05,1,1,2025-08-31 13:30:00,Lovro Majer,Pass
+643952,8,BlockedShot,0.775,0.605,0.026635667309165,Patrick Wimmer,a,9730,OpenPlay,2025,RightFoot,30259,Borussia Dortmund,Wolfsburg,1,0,2025-09-21 17:30:00,Joakim Maehle,Pass
+644577,29,MissedShots,0.774000015258789,0.600999984741211,0.028416432440280914,Patrick Wimmer,h,9730,OpenPlay,2025,RightFoot,30264,Wolfsburg,RasenBallsport Leipzig,0,1,2025-09-27 13:30:00,Vinicius Souza,Pass
+655674,34,BlockedShot,0.7719999694824219,0.47700000762939454,0.0313098281621933,Patrick Wimmer,a,9730,OpenPlay,2025,RightFoot,30326,Eintracht Frankfurt,Wolfsburg,1,1,2025-11-30 16:30:00,Lovro Majer,Pass
+655679,51,BlockedShot,0.8280000305175781,0.44799999237060545,0.1071963906288147,Patrick Wimmer,a,9730,OpenPlay,2025,RightFoot,30326,Eintracht Frankfurt,Wolfsburg,1,1,2025-11-30 16:30:00,Christian Eriksen,Chipped
+656818,9,Goal,0.8619999694824219,0.585,0.08464183658361435,Patrick Wimmer,h,9730,OpenPlay,2025,RightFoot,30333,Wolfsburg,Union Berlin,3,1,2025-12-06 14:30:00,Mohammed Amoura,Pass
+658135,3,Goal,0.9269999694824219,0.39299999237060546,0.38656485080718994,Patrick Wimmer,a,9730,OpenPlay,2025,RightFoot,30343,Borussia M.Gladbach,Wolfsburg,1,3,2025-12-13 14:30:00,Lovro Majer,Throughball
+658141,27,SavedShot,0.9730000305175781,0.43,0.5400582551956177,Patrick Wimmer,a,9730,FromCorner,2025,LeftFoot,30343,Borussia M.Gladbach,Wolfsburg,1,3,2025-12-13 14:30:00,Konstantinos Koulierakis,Rebound
+658143,33,Goal,0.9330000305175781,0.43099998474121093,0.5272127389907837,Patrick Wimmer,a,9730,OpenPlay,2025,RightFoot,30343,Borussia M.Gladbach,Wolfsburg,1,3,2025-12-13 14:30:00,Christian Eriksen,Pass
+659178,5,SavedShot,0.8019999694824219,0.41700000762939454,0.03777335211634636,Patrick Wimmer,h,9730,OpenPlay,2025,RightFoot,30358,Wolfsburg,Freiburg,3,4,2025-12-20 14:30:00,,Dispossessed
+659192,60,BlockedShot,0.8640000152587891,0.700999984741211,0.06562108546495438,Patrick Wimmer,h,9730,OpenPlay,2025,RightFoot,30358,Wolfsburg,Freiburg,3,4,2025-12-20 14:30:00,Christian Eriksen,Pass
+665746,2,MissedShots,0.9290000152587891,0.7419999694824219,0.042402636259794235,Patrick Wimmer,a,9730,OpenPlay,2025,LeftFoot,30398,FC Cologne,Wolfsburg,1,0,2026-01-30 19:30:00,Dzenan Pejcinovic,Chipped
+665758,36,MissedShots,0.9569999694824218,0.6419999694824219,0.09700065851211548,Patrick Wimmer,a,9730,OpenPlay,2025,LeftFoot,30398,FC Cologne,Wolfsburg,1,0,2026-01-30 19:30:00,Christian Eriksen,Throughball
+676525,64,MissedShots,0.8969999694824219,0.295,0.04155566915869713,Patrick Wimmer,a,9730,OpenPlay,2025,RightFoot,30467,Bayer Leverkusen,Wolfsburg,6,3,2026-04-04 13:30:00,Konstantinos Koulierakis,Chipped
+677723,2,BlockedShot,0.9640000152587891,0.65,0.07410182803869247,Patrick Wimmer,h,9730,OpenPlay,2025,RightFoot,30484,Wolfsburg,Eintracht Frankfurt,1,2,2026-04-11 13:30:00,,BallRecovery
+677736,55,MissedShots,0.975999984741211,0.44,0.07634906470775604,Patrick Wimmer,h,9730,FromCorner,2025,Head,30484,Wolfsburg,Eintracht Frankfurt,1,2,2026-04-11 13:30:00,Christian Eriksen,Aerial
+677738,60,MissedShots,0.9230000305175782,0.7030000305175781,0.039569608867168427,Patrick Wimmer,h,9730,OpenPlay,2025,LeftFoot,30484,Wolfsburg,Eintracht Frankfurt,1,2,2026-04-11 13:30:00,,None
+677739,62,SavedShot,0.945,0.46,0.14988557994365692,Patrick Wimmer,h,9730,OpenPlay,2025,Head,30484,Wolfsburg,Eintracht Frankfurt,1,2,2026-04-11 13:30:00,Mohammed Amoura,Cross
+679067,10,Goal,0.7669999694824219,0.4640000152587891,0.02851118892431259,Patrick Wimmer,a,9730,OpenPlay,2025,RightFoot,30492,Union Berlin,Wolfsburg,1,2,2026-04-18 13:30:00,Joakim Maehle,Pass
+683128,22,MissedShots,0.825999984741211,0.624000015258789,0.06553170830011368,Patrick Wimmer,a,9730,OpenPlay,2025,LeftFoot,30507,Freiburg,Wolfsburg,1,1,2026-05-03 17:30:00,Vinicius Souza,Pass
+683845,27,MissedShots,0.924000015258789,0.33599998474121096,0.01366063579916954,Patrick Wimmer,h,9730,OpenPlay,2025,Head,30520,Wolfsburg,Bayern Munich,0,1,2026-05-09 16:30:00,Sael Kumbedi,Cross
+683846,27,MissedShots,0.97,0.5029999923706054,0.6779780387878418,Patrick Wimmer,h,9730,OpenPlay,2025,RightFoot,30520,Wolfsburg,Bayern Munich,0,1,2026-05-09 16:30:00,,None

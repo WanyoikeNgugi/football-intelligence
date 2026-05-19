@@ -1,0 +1,9 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+24717,24,MissedShots,0.8580000305175781,0.45799999237060546,0.0716136023402214,Dani Schahin,h,4289,SetPiece,2014,RightFoot,5464,Freiburg,Borussia M.Gladbach,0,0,2014-08-31 16:30:00,Julian Schuster,Chipped
+24723,33,MissedShots,0.9130000305175782,0.5459999847412109,0.0523964986205101,Dani Schahin,h,4289,OpenPlay,2014,Head,5464,Freiburg,Borussia M.Gladbach,0,0,2014-08-31 16:30:00,Vladimir Darida,Aerial
+26918,84,MissedShots,0.7480000305175781,0.705999984741211,0.022467900067567825,Dani Schahin,h,4289,OpenPlay,2014,RightFoot,5361,Freiburg,Schalke 04,2,0,2014-11-08 14:30:00,Mike Frantz,HeadPass
+26921,93,MissedShots,0.8959999847412109,0.6719999694824219,0.08959410339593887,Dani Schahin,h,4289,OpenPlay,2014,LeftFoot,5361,Freiburg,Schalke 04,2,0,2014-11-08 14:30:00,Karim Guédé,Pass
+27025,68,MissedShots,0.8959999847412109,0.4809999847412109,0.11881899833679199,Dani Schahin,a,4289,OpenPlay,2014,Head,5368,Mainz 05,Freiburg,2,2,2014-11-22 14:30:00,Oliver Sorg,Cross
+28299,85,MissedShots,0.915,0.6880000305175781,0.05540670081973076,Dani Schahin,h,4289,OpenPlay,2014,LeftFoot,5326,Freiburg,Hamburger SV,0,0,2014-12-13 14:30:00,Philipp Zulechner,Pass
+29850,62,BlockedShot,0.7709999847412109,0.57,0.03015420027077198,Dani Schahin,h,4289,OpenPlay,2014,RightFoot,5273,Freiburg,Borussia Dortmund,0,3,2015-02-07 14:30:00,Maximilian Philipp,Pass
+30881,87,SavedShot,0.7959999847412109,0.639000015258789,0.037045300006866455,Dani Schahin,a,4289,OpenPlay,2014,LeftFoot,5249,Wolfsburg,Freiburg,3,0,2015-03-15 14:30:00,Jonathan Schmid,TakeOn

@@ -1,0 +1,30 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+538974,82,MissedShots,0.905,0.6129999923706054,0.02474464848637581,Mikkel Kaufmann,h,12053,OpenPlay,2023,Head,23106,Union Berlin,Hoffenheim,0,2,2023-09-23 13:30:00,Aissa Laidouni,Chipped
+549666,92,BlockedShot,0.874000015258789,0.5870000076293945,0.13220247626304626,Mikkel Kaufmann,h,12053,OpenPlay,2023,RightFoot,23165,Union Berlin,Augsburg,1,1,2023-11-25 14:30:00,Benedict Hollerbach,Pass
+552807,74,Goal,0.8130000305175781,0.49400001525878906,0.04844159632921219,Mikkel Kaufmann,h,12053,OpenPlay,2023,RightFoot,23183,Union Berlin,Borussia M.Gladbach,3,1,2023-12-09 14:30:00,,TakeOn
+552809,79,MissedShots,0.97,0.6819999694824219,0.06452199071645737,Mikkel Kaufmann,h,12053,OpenPlay,2023,RightFoot,23183,Union Berlin,Borussia M.Gladbach,3,1,2023-12-09 14:30:00,,None
+560298,95,SavedShot,0.815,0.4759999847412109,0.07533290982246399,Mikkel Kaufmann,h,12053,OpenPlay,2023,RightFoot,23228,Union Berlin,Darmstadt,1,0,2024-01-28 14:30:00,Brenden Aaronson,Pass
+565114,92,MissedShots,0.8480000305175781,0.5779999923706055,0.06584955751895905,Mikkel Kaufmann,h,12053,OpenPlay,2023,RightFoot,23269,Union Berlin,FC Heidenheim,2,2,2024-02-24 14:30:00,Andras Schafer,HeadPass
+569291,2,BlockedShot,0.745999984741211,0.5529999923706055,0.020870240405201912,Mikkel Kaufmann,h,12053,OpenPlay,2023,RightFoot,23291,Union Berlin,Werder Bremen,2,1,2024-03-16 14:30:00,Rani Khedira,BallRecovery
+569301,65,SavedShot,0.885,0.5940000152587891,0.09892440587282181,Mikkel Kaufmann,h,12053,OpenPlay,2023,RightFoot,23291,Union Berlin,Werder Bremen,2,1,2024-03-16 14:30:00,,None
+570585,4,MissedShots,0.8580000305175781,0.36700000762939455,0.06505271792411804,Mikkel Kaufmann,a,12053,OpenPlay,2023,LeftFoot,23302,Eintracht Frankfurt,Union Berlin,0,0,2024-03-30 14:30:00,Brenden Aaronson,BallTouch
+570594,47,MissedShots,0.8959999847412109,0.3559999847412109,0.3061188757419586,Mikkel Kaufmann,a,12053,OpenPlay,2023,RightFoot,23302,Eintracht Frankfurt,Union Berlin,0,0,2024-03-30 14:30:00,,TakeOn
+573275,4,MissedShots,0.865999984741211,0.47,0.03777977451682091,Mikkel Kaufmann,a,12053,OpenPlay,2023,Head,23323,Augsburg,Union Berlin,2,0,2024-04-12 18:30:00,Christopher Trimmel,Cross
+573276,9,MissedShots,0.9380000305175781,0.605,0.08352764695882797,Mikkel Kaufmann,a,12053,OpenPlay,2023,RightFoot,23323,Augsburg,Union Berlin,2,0,2024-04-12 18:30:00,Benedict Hollerbach,Cross
+573278,16,SavedShot,0.9059999847412109,0.539000015258789,0.05185830220580101,Mikkel Kaufmann,a,12053,OpenPlay,2023,Head,23323,Augsburg,Union Berlin,2,0,2024-04-12 18:30:00,Alex Kral,Aerial
+575173,85,SavedShot,0.909000015258789,0.6730000305175782,0.059022724628448486,Mikkel Kaufmann,h,12053,OpenPlay,2023,RightFoot,23327,Union Berlin,Bayern Munich,1,5,2024-04-20 16:30:00,Brenden Aaronson,Pass
+577339,91,SavedShot,0.8430000305175781,0.45099998474121095,0.087486632168293,Mikkel Kaufmann,a,12053,OpenPlay,2023,RightFoot,23340,Borussia M.Gladbach,Union Berlin,0,0,2024-04-28 13:30:00,Andras Schafer,Pass
+596862,87,SavedShot,0.8719999694824219,0.49599998474121093,0.04282812029123306,Mikkel Kaufmann,a,12053,OpenPlay,2024,Head,27803,Borussia M.Gladbach,FC Heidenheim,3,2,2024-10-19 13:30:00,Jonas Föhrenbach,Cross
+604926,11,SavedShot,0.9059999847412109,0.40900001525878904,0.37499380111694336,Mikkel Kaufmann,h,12053,OpenPlay,2024,RightFoot,27843,FC Heidenheim,Eintracht Frankfurt,0,4,2024-12-01 16:30:00,Jan Schöppner,Pass
+608762,82,SavedShot,0.8209999847412109,0.515,0.06314965337514877,Mikkel Kaufmann,a,12053,OpenPlay,2024,RightFoot,27875,Bochum,FC Heidenheim,2,0,2024-12-22 14:30:00,Marvin Pieringer,Pass
+641538,83,MissedShots,0.955999984741211,0.49700000762939456,0.13604898750782013,Mikkel Kaufmann,h,12053,FromCorner,2025,Head,30244,FC Heidenheim,Borussia Dortmund,0,2,2025-09-13 13:30:00,Jonas Föhrenbach,Cross
+642924,32,BlockedShot,0.884000015258789,0.3270000076293945,0.09810230135917664,Mikkel Kaufmann,a,12053,OpenPlay,2025,RightFoot,30254,Hamburger SV,FC Heidenheim,2,1,2025-09-20 13:30:00,Sirlord Conteh,Pass
+642925,33,MissedShots,0.9209999847412109,0.4809999847412109,0.10633132606744766,Mikkel Kaufmann,a,12053,FromCorner,2025,Head,30254,Hamburger SV,FC Heidenheim,2,1,2025-09-20 13:30:00,Jonas Föhrenbach,Cross
+642932,47,SavedShot,0.9119999694824219,0.725999984741211,0.03959103673696518,Mikkel Kaufmann,a,12053,OpenPlay,2025,RightFoot,30254,Hamburger SV,FC Heidenheim,2,1,2025-09-20 13:30:00,,BallRecovery
+644652,46,Goal,0.914000015258789,0.3679999923706055,0.0629906952381134,Mikkel Kaufmann,h,12053,OpenPlay,2025,RightFoot,30261,FC Heidenheim,Augsburg,2,1,2025-09-27 13:30:00,Sirlord Conteh,Cross
+646769,19,SavedShot,0.8880000305175781,0.6880000305175781,0.050835441797971725,Mikkel Kaufmann,a,12053,OpenPlay,2025,LeftFoot,30275,VfB Stuttgart,FC Heidenheim,1,0,2025-10-05 13:30:00,,None
+646774,44,MissedShots,0.915,0.504000015258789,0.1316670924425125,Mikkel Kaufmann,a,12053,OpenPlay,2025,RightFoot,30275,VfB Stuttgart,FC Heidenheim,1,0,2025-10-05 13:30:00,Omar Traoré,Pass
+647423,15,BlockedShot,0.9119999694824219,0.48900001525878906,0.08877824991941452,Mikkel Kaufmann,h,12053,SetPiece,2025,RightFoot,30281,FC Heidenheim,Werder Bremen,2,2,2025-10-18 13:30:00,Adrian Beck,HeadPass
+662949,10,MissedShots,0.8119999694824219,0.30700000762939456,0.031234851107001305,Mikkel Kaufmann,a,12053,OpenPlay,2025,RightFoot,30373,Mainz 05,FC Heidenheim,2,1,2026-01-13 19:30:00,Omar Traoré,Chipped
+663418,87,BlockedShot,0.855,0.3509999847412109,0.05794448032975197,Mikkel Kaufmann,a,12053,OpenPlay,2025,RightFoot,30385,Wolfsburg,FC Heidenheim,1,1,2026-01-17 14:30:00,Patrick Mainka,Pass
+666740,95,MissedShots,0.9490000152587891,0.49700000762939456,0.5720474720001221,Mikkel Kaufmann,a,12053,SetPiece,2025,LeftFoot,30396,Borussia Dortmund,FC Heidenheim,3,2,2026-02-01 16:30:00,Arijon Ibrahimovic,Cross

@@ -1,0 +1,14 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+42999,40,MissedShots,0.8959999847412109,0.5420000076293945,0.07903099805116653,Giulio Migliaccio,h,1503,OpenPlay,2014,Head,5084,Atalanta,Parma,1,0,2014-10-19 14:00:00,Maximiliano Moralez,Cross
+44297,20,BlockedShot,0.8580000305175781,0.4520000076293945,0.10121399909257889,Giulio Migliaccio,a,1503,OpenPlay,2014,LeftFoot,5040,Sassuolo,Atalanta,0,0,2014-11-08 17:00:00,Maximiliano Moralez,Pass
+44840,79,SavedShot,0.8880000305175781,0.46599998474121096,0.04180939868092537,Giulio Migliaccio,h,1503,FromCorner,2014,Head,5006,Atalanta,Cesena,3,2,2014-12-07 14:00:00,Luca Cigarini,Cross
+47594,24,Goal,0.9390000152587891,0.40099998474121096,0.050870899111032486,Giulio Migliaccio,a,1503,FromCorner,2014,Head,4947,Juventus,Atalanta,2,1,2015-02-20 19:45:00,Urby Emanuelson,Cross
+47612,87,MissedShots,0.9130000305175782,0.5429999923706055,0.03681949898600578,Giulio Migliaccio,a,1503,OpenPlay,2014,Head,4947,Juventus,Atalanta,2,1,2015-02-20 19:45:00,Lionel Scaloni,Aerial
+48835,15,BlockedShot,0.7719999694824219,0.38,0.01968660019338131,Giulio Migliaccio,a,1503,OpenPlay,2014,RightFoot,4917,Napoli,Atalanta,1,1,2015-03-22 19:45:00,Maximiliano Moralez,Pass
+48333,40,SavedShot,0.899000015258789,0.47200000762939454,0.09049689769744873,Giulio Migliaccio,h,1503,SetPiece,2014,Head,4833,Atalanta,Torino,1,2,2015-04-04 14:00:00,Maximiliano Moralez,Cross
+49726,13,SavedShot,0.9280000305175782,0.509000015258789,0.11498100310564041,Giulio Migliaccio,h,1503,FromCorner,2014,Head,4784,Atalanta,Lazio,1,1,2015-05-03 14:00:00,Alejandro Gomez,Cross
+49897,88,MissedShots,0.955,0.3120000076293945,0.008603510446846485,Giulio Migliaccio,h,1503,FromCorner,2014,Head,4803,Atalanta,Genoa,1,4,2015-05-17 14:00:00,Alejandro Gomez,Cross
+49898,90,BlockedShot,0.8430000305175781,0.4829999923706055,0.05238280072808266,Giulio Migliaccio,h,1503,OpenPlay,2014,RightFoot,4803,Atalanta,Genoa,1,4,2015-05-17 14:00:00,,None
+93900,49,BlockedShot,0.9209999847412109,0.37099998474121093,0.04634379968047142,Giulio Migliaccio,a,1503,FromCorner,2015,RightFoot,751,Frosinone,Atalanta,0,0,2016-01-23 21:00:00,Alejandro Gomez,Cross
+95296,23,MissedShots,0.835999984741211,0.44099998474121094,0.06006529927253723,Giulio Migliaccio,a,1503,OpenPlay,2015,RightFoot,780,Verona,Atalanta,2,1,2016-02-03 23:45:00,,None
+97013,82,SavedShot,0.8969999694824219,0.4640000152587891,0.05337740108370781,Giulio Migliaccio,a,1503,FromCorner,2015,Head,817,Carpi,Atalanta,1,1,2016-02-28 18:00:00,Alessandro Diamanti,Cross

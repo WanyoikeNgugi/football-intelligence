@@ -1,0 +1,12 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+638610,63,MissedShots,0.9569999694824218,0.42700000762939455,0.5626542568206787,Victor Parada,a,12207,SetPiece,2025,RightFoot,29168,Real Betis,Alaves,1,0,2025-08-22 19:30:00,,Rebound
+641927,91,MissedShots,0.8230000305175781,0.7269999694824218,0.04208564758300781,Victor Parada,a,12207,OpenPlay,2025,LeftFoot,29196,Athletic Club,Alaves,0,1,2025-09-13 16:30:00,Denis Suárez,TakeOn
+651488,43,BlockedShot,0.705999984741211,0.67,0.013539799489080906,Victor Parada,h,12207,OpenPlay,2025,LeftFoot,29258,Alaves,Espanyol,2,1,2025-11-02 15:15:00,,BallRecovery
+652056,17,SavedShot,0.894000015258789,0.5840000152587891,0.01324903592467308,Victor Parada,a,12207,SetPiece,2025,Head,29273,Girona,Alaves,1,0,2025-11-08 13:00:00,Youssef Lekhedim,Aerial
+655109,0,BlockedShot,0.945,0.53,0.555954098701477,Victor Parada,a,12207,FromCorner,2025,RightFoot,29294,Barcelona,Alaves,3,1,2025-11-29 15:15:00,,None
+670748,28,MissedShots,0.924000015258789,0.5640000152587891,0.05869997665286064,Victor Parada,a,12207,OpenPlay,2025,Head,29412,Levante,Alaves,2,0,2026-02-27 20:00:00,Jonny,Aerial
+677261,34,MissedShots,0.9019999694824219,0.5559999847412109,0.061270345002412796,Victor Parada,h,12207,FromCorner,2025,Head,29448,Alaves,Osasuna,2,2,2026-04-05 19:00:00,Ángel Pérez,Cross
+677267,55,MissedShots,0.9230000305175782,0.5459999847412109,0.08915888518095016,Victor Parada,h,12207,FromCorner,2025,LeftFoot,29448,Alaves,Osasuna,2,2,2026-04-05 19:00:00,Carles Aleñá,Cross
+677645,75,MissedShots,0.76,0.6090000152587891,0.02111142687499523,Victor Parada,a,12207,OpenPlay,2025,LeftFoot,29464,Real Sociedad,Alaves,3,3,2026-04-11 12:00:00,Abderrahmane Rebbach,Pass
+680172,81,ShotOnPost,0.9359999847412109,0.5359999847412109,0.35043540596961975,Victor Parada,a,12207,FromCorner,2025,Head,29483,Real Madrid,Alaves,2,1,2026-04-21 19:30:00,Antonio Martínez,Rebound
+683502,26,MissedShots,0.745,0.6359999847412109,0.017172181978821754,Victor Parada,a,12207,OpenPlay,2025,LeftFoot,29503,Elche,Alaves,1,1,2026-05-09 12:00:00,Antonio Blanco,Pass

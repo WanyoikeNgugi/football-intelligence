@@ -1,0 +1,14 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+425774,25,MissedShots,0.78,0.2570000076293945,0.012919499538838863,Bryan Lasme,h,9727,OpenPlay,2021,RightFoot,17517,Arminia Bielefeld,Freiburg,0,0,2021-08-14 13:30:00,Fabian Klos,HeadPass
+425790,75,MissedShots,0.9169999694824219,0.6229999923706054,0.011114300228655338,Bryan Lasme,h,9727,SetPiece,2021,Head,17517,Arminia Bielefeld,Freiburg,0,0,2021-08-14 13:30:00,Alessandro Schöpf,Aerial
+426976,56,SavedShot,0.850999984741211,0.6170000076293946,0.06522650271654129,Bryan Lasme,a,9727,OpenPlay,2021,RightFoot,17526,Greuther Fuerth,Arminia Bielefeld,1,1,2021-08-21 13:30:00,Alessandro Schöpf,BallRecovery
+439485,2,SavedShot,0.8669999694824219,0.4859999847412109,0.1386210024356842,Bryan Lasme,h,9727,OpenPlay,2021,RightFoot,17597,Arminia Bielefeld,Mainz 05,1,2,2021-10-30 13:30:00,,TakeOn
+446044,58,Goal,0.8490000152587891,0.5059999847412109,0.08233030140399933,Bryan Lasme,h,9727,OpenPlay,2021,RightFoot,17633,Arminia Bielefeld,FC Cologne,1,1,2021-12-04 14:30:00,Masaya Okugawa,Pass
+448883,70,MissedShots,0.9380000305175781,0.23100000381469726,0.07235939800739288,Bryan Lasme,h,9727,OpenPlay,2021,RightFoot,17651,Arminia Bielefeld,Bochum,2,0,2021-12-14 19:30:00,Fabian Klos,Chipped
+452150,86,Goal,0.9769999694824218,0.3370000076293945,0.03145800158381462,Bryan Lasme,a,9727,OpenPlay,2021,RightFoot,17673,Freiburg,Arminia Bielefeld,2,2,2022-01-08 14:30:00,Robin Hack,Cross
+452151,88,MissedShots,0.9059999847412109,0.5179999923706055,0.11245600134134293,Bryan Lasme,a,9727,OpenPlay,2021,Head,17673,Freiburg,Arminia Bielefeld,2,2,2022-01-08 14:30:00,Robin Hack,Cross
+457707,83,SavedShot,0.9180000305175782,0.3060000038146973,0.039759598672389984,Bryan Lasme,a,9727,OpenPlay,2021,RightFoot,17707,Hoffenheim,Arminia Bielefeld,2,0,2022-02-13 16:30:00,Robin Hack,Chipped
+459653,49,SavedShot,0.9669999694824218,0.29100000381469726,0.04383080080151558,Bryan Lasme,a,9727,OpenPlay,2021,RightFoot,17730,Bayer Leverkusen,Arminia Bielefeld,3,0,2022-02-26 14:30:00,,None
+463229,14,SavedShot,0.92,0.43099998474121093,0.07989410310983658,Bryan Lasme,a,9727,FromCorner,2021,Head,17749,Borussia Dortmund,Arminia Bielefeld,1,0,2022-03-13 16:30:00,Alessandro Schöpf,Cross
+463240,49,BlockedShot,0.9030000305175782,0.39799999237060546,0.0975067988038063,Bryan Lasme,a,9727,OpenPlay,2021,RightFoot,17749,Borussia Dortmund,Arminia Bielefeld,1,0,2022-03-13 16:30:00,Masaya Okugawa,Pass
+463253,82,SavedShot,0.8819999694824219,0.49,0.02595200017094612,Bryan Lasme,a,9727,OpenPlay,2021,Head,17749,Borussia Dortmund,Arminia Bielefeld,1,0,2022-03-13 16:30:00,Cédric Brunner,Aerial

@@ -1,0 +1,86 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+24366,6,BlockedShot,0.8030000305175782,0.27600000381469725,0.023187199607491493,Lukasz Piszczek,h,310,OpenPlay,2014,RightFoot,5453,Borussia Dortmund,Bayer Leverkusen,0,2,2014-08-23 17:30:00,Pierre-Emerick Aubameyang,Pass
+24670,59,BlockedShot,0.850999984741211,0.255,0.05124929919838905,Lukasz Piszczek,a,310,OpenPlay,2014,LeftFoot,5456,Augsburg,Borussia Dortmund,2,3,2014-08-29 19:30:00,,TakeOn
+25078,3,BlockedShot,0.9319999694824219,0.33599998474121096,0.05511799827218056,Lukasz Piszczek,a,310,OpenPlay,2014,RightFoot,5426,Mainz 05,Borussia Dortmund,2,0,2014-09-20 17:30:00,Sven Bender,Chipped
+25308,65,MissedShots,0.915,0.3820000076293945,0.01389390043914318,Lukasz Piszczek,h,310,FromCorner,2014,Head,5433,Borussia Dortmund,VfB Stuttgart,2,2,2014-09-24 19:00:00,Milos Jojic,Aerial
+25322,87,SavedShot,0.8769999694824219,0.34,0.06471730023622513,Lukasz Piszczek,h,310,OpenPlay,2014,RightFoot,5433,Borussia Dortmund,VfB Stuttgart,2,2,2014-09-24 19:00:00,Joseph-Claude Gyau,Pass
+25324,91,BlockedShot,0.9069999694824219,0.3820000076293945,0.303274005651474,Lukasz Piszczek,h,310,OpenPlay,2014,RightFoot,5433,Borussia Dortmund,VfB Stuttgart,2,2,2014-09-24 19:00:00,Marcel Schmelzer,Chipped
+25504,39,SavedShot,0.7390000152587891,0.3189999961853027,0.008528639562427998,Lukasz Piszczek,a,310,OpenPlay,2014,RightFoot,5441,Schalke 04,Borussia Dortmund,2,1,2014-09-27 14:30:00,Pierre-Emerick Aubameyang,Chipped
+26163,82,MissedShots,0.7759999847412109,0.35900001525878905,0.021655799821019173,Lukasz Piszczek,a,310,OpenPlay,2014,RightFoot,5397,FC Cologne,Borussia Dortmund,2,1,2014-10-18 14:30:00,,None
+26701,28,MissedShots,0.9069999694824219,0.33299999237060546,0.3269450068473816,Lukasz Piszczek,h,310,OpenPlay,2014,RightFoot,5364,Borussia Dortmund,Borussia M.Gladbach,1,0,2014-11-09 16:30:00,Henrikh Mkhitaryan,Throughball
+27265,74,SavedShot,0.8080000305175781,0.3729999923706055,0.04107619822025299,Lukasz Piszczek,h,310,OpenPlay,2014,LeftFoot,5312,Borussia Dortmund,Hoffenheim,1,0,2014-12-05 19:30:00,Adrián Ramos,Pass
+28266,64,BlockedShot,0.7169999694824218,0.215,0.008005269803106785,Lukasz Piszczek,a,310,OpenPlay,2014,RightFoot,5341,Werder Bremen,Borussia Dortmund,2,1,2014-12-20 14:30:00,Shinji Kagawa,Pass
+28894,12,MissedShots,0.8980000305175782,0.40900001525878904,0.017149800434708595,Lukasz Piszczek,h,310,OpenPlay,2014,Head,5280,Borussia Dortmund,Mainz 05,4,2,2015-02-13 19:30:00,Ilkay Gündogan,Aerial
+78983,90,ShotOnPost,0.81,0.34,0.02435709908604622,Lukasz Piszczek,a,310,OpenPlay,2015,LeftFoot,1129,Hamburger SV,Borussia Dortmund,3,1,2015-11-20 23:45:00,,None
+79403,2,BlockedShot,0.8209999847412109,0.624000015258789,0.02945609949529171,Lukasz Piszczek,a,310,SetPiece,2015,RightFoot,1153,Wolfsburg,Borussia Dortmund,1,2,2015-12-05 21:30:00,,Rebound
+79404,3,SavedShot,0.870999984741211,0.445,0.011180800385773182,Lukasz Piszczek,a,310,SetPiece,2015,Head,1153,Wolfsburg,Borussia Dortmund,1,2,2015-12-05 21:30:00,Ilkay Gündogan,Aerial
+80680,28,BlockedShot,0.7340000152587891,0.28100000381469725,0.012507299892604351,Lukasz Piszczek,a,310,OpenPlay,2015,LeftFoot,1196,Hertha Berlin,Borussia Dortmund,0,0,2016-02-06 18:30:00,,Dispossessed
+80682,32,MissedShots,0.9480000305175781,0.6370000076293946,0.021132199093699455,Lukasz Piszczek,a,310,FromCorner,2015,Head,1196,Hertha Berlin,Borussia Dortmund,0,0,2016-02-06 18:30:00,Henrikh Mkhitaryan,Cross
+80766,75,MissedShots,0.9219999694824219,0.42700000762939455,0.023996299132704735,Lukasz Piszczek,h,310,FromCorner,2015,Head,1203,Borussia Dortmund,Hannover 96,1,0,2016-02-13 18:30:00,Marco Reus,Aerial
+81226,61,BlockedShot,0.855,0.4779999923706055,0.017631499096751213,Lukasz Piszczek,h,310,FromCorner,2015,Head,1225,Borussia Dortmund,Hoffenheim,3,1,2016-02-28 20:30:00,Henrikh Mkhitaryan,Cross
+81227,61,MissedShots,0.884000015258789,0.5359999847412109,0.07770650088787079,Lukasz Piszczek,h,310,FromCorner,2015,RightFoot,1225,Borussia Dortmund,Hoffenheim,3,1,2016-02-28 20:30:00,Nuri Sahin,Pass
+81228,65,SavedShot,0.8040000152587891,0.3120000076293945,0.023776300251483917,Lukasz Piszczek,h,310,OpenPlay,2015,LeftFoot,1225,Borussia Dortmund,Hoffenheim,3,1,2016-02-28 20:30:00,Sven Bender,Pass
+81231,69,SavedShot,0.8490000152587891,0.475,0.016076400876045227,Lukasz Piszczek,h,310,OpenPlay,2015,Head,1225,Borussia Dortmund,Hoffenheim,3,1,2016-02-28 20:30:00,Henrikh Mkhitaryan,Aerial
+81967,55,MissedShots,0.9680000305175781,0.6940000152587891,0.03976390138268471,Lukasz Piszczek,h,310,FromCorner,2015,RightFoot,1254,Borussia Dortmund,Mainz 05,2,0,2016-03-13 20:30:00,,None
+82317,56,MissedShots,0.765,0.27600000381469725,0.01820180006325245,Lukasz Piszczek,a,310,OpenPlay,2015,LeftFoot,1263,Augsburg,Borussia Dortmund,1,3,2016-03-20 20:30:00,Gonzalo Castro,Pass
+83182,8,BlockedShot,0.7269999694824218,0.5029999923706054,0.017362700775265694,Lukasz Piszczek,a,310,OpenPlay,2015,LeftFoot,1292,VfB Stuttgart,Borussia Dortmund,0,3,2016-04-23 17:30:00,Adrián Ramos,Pass
+128485,72,Goal,0.9130000305175782,0.5329999923706055,0.08646930009126663,Lukasz Piszczek,a,310,FromCorner,2016,Head,1354,Wolfsburg,Borussia Dortmund,1,5,2016-09-20 22:00:00,Raphael Guerreiro,Cross
+128612,22,BlockedShot,0.8230000305175781,0.6140000152587891,0.045912500470876694,Lukasz Piszczek,h,310,OpenPlay,2016,RightFoot,1363,Borussia Dortmund,Freiburg,3,1,2016-09-23 22:30:00,Emre Mor,Pass
+128614,27,BlockedShot,0.8730000305175781,0.33599998474121096,0.021299099549651146,Lukasz Piszczek,h,310,FromCorner,2016,RightFoot,1363,Borussia Dortmund,Freiburg,3,1,2016-09-23 22:30:00,Sokratis,Aerial
+128623,52,Goal,0.925,0.41900001525878905,0.4819670021533966,Lukasz Piszczek,h,310,OpenPlay,2016,RightFoot,1363,Borussia Dortmund,Freiburg,3,1,2016-09-23 22:30:00,,None
+128627,63,MissedShots,0.9059999847412109,0.45599998474121095,0.022393599152565002,Lukasz Piszczek,h,310,FromCorner,2016,Head,1363,Borussia Dortmund,Freiburg,3,1,2016-09-23 22:30:00,Gonzalo Castro,Aerial
+128851,24,BlockedShot,0.88,0.41200000762939454,0.010347600094974041,Lukasz Piszczek,a,310,SetPiece,2016,Head,1378,Bayer Leverkusen,Borussia Dortmund,2,0,2016-10-01 20:30:00,Gonzalo Castro,Aerial
+129396,28,MissedShots,0.89,0.575,0.013794399797916412,Lukasz Piszczek,a,310,FromCorner,2016,Head,1391,Ingolstadt,Borussia Dortmund,3,3,2016-10-22 17:30:00,Gonzalo Castro,Aerial
+129403,40,BlockedShot,0.755,0.5629999923706055,0.012845099903643131,Lukasz Piszczek,a,310,OpenPlay,2016,RightFoot,1391,Ingolstadt,Borussia Dortmund,3,3,2016-10-22 17:30:00,,Rebound
+129420,90,SavedShot,0.9030000305175782,0.4759999847412109,0.19968900084495544,Lukasz Piszczek,a,310,OpenPlay,2016,Head,1391,Ingolstadt,Borussia Dortmund,3,3,2016-10-22 17:30:00,Felix Passlack,Cross
+129763,18,MissedShots,0.750999984741211,0.3340000152587891,0.02132990024983883,Lukasz Piszczek,h,310,OpenPlay,2016,RightFoot,2821,Borussia Dortmund,Bayern Munich,1,0,2016-11-19 21:30:00,,None
+130354,14,Goal,0.9580000305175781,0.4759999847412109,0.48546698689460754,Lukasz Piszczek,h,310,FromCorner,2016,Head,3194,Borussia Dortmund,Borussia M.Gladbach,4,1,2016-12-03 18:30:00,Marc Bartra,Rebound
+130740,11,MissedShots,0.8780000305175781,0.534000015258789,0.032129399478435516,Lukasz Piszczek,a,310,FromCorner,2016,Head,3726,Werder Bremen,Borussia Dortmund,1,2,2017-01-21 14:30:00,Marco Reus,Cross
+130761,70,Goal,0.93,0.46299999237060546,0.5267030000686646,Lukasz Piszczek,a,310,FromCorner,2016,RightFoot,3726,Werder Bremen,Borussia Dortmund,1,2,2017-01-21 14:30:00,,None
+131199,43,MissedShots,0.9159999847412109,0.48,0.09791459888219833,Lukasz Piszczek,a,310,FromCorner,2016,Head,3739,Mainz 05,Borussia Dortmund,1,1,2017-01-29 19:30:00,Marco Reus,Cross
+131204,60,MissedShots,0.9059999847412109,0.48700000762939455,0.029885899275541306,Lukasz Piszczek,a,310,FromCorner,2016,Head,3739,Mainz 05,Borussia Dortmund,1,1,2017-01-29 19:30:00,Raphael Guerreiro,Aerial
+131922,47,Goal,0.9259999847412109,0.515,0.4233889877796173,Lukasz Piszczek,h,310,SetPiece,2016,Head,3763,Borussia Dortmund,Wolfsburg,3,0,2017-02-18 14:30:00,Matthias Ginter,None
+131927,70,BlockedShot,0.855,0.38299999237060545,0.04911620169878006,Lukasz Piszczek,h,310,FromCorner,2016,LeftFoot,3763,Borussia Dortmund,Wolfsburg,3,0,2017-02-18 14:30:00,Christian Pulisic,Pass
+131931,73,MissedShots,0.905,0.44299999237060544,0.02961060032248497,Lukasz Piszczek,h,310,FromCorner,2016,Head,3763,Borussia Dortmund,Wolfsburg,3,0,2017-02-18 14:30:00,Gonzalo Castro,BallTouch
+133235,31,MissedShots,0.9230000305175782,0.3940000152587891,0.04219340160489082,Lukasz Piszczek,a,310,OpenPlay,2016,Head,3870,Augsburg,Borussia Dortmund,1,1,2017-05-13 14:30:00,Erik Durm,Chipped
+165996,67,MissedShots,0.6830000305175781,0.3370000076293945,0.007897250354290009,Lukasz Piszczek,h,310,SetPiece,2017,RightFoot,8274,Borussia Dortmund,Hertha Berlin,2,0,2017-08-26 17:30:00,,None
+166285,48,BlockedShot,0.7030000305175781,0.28600000381469726,0.012607700191438198,Lukasz Piszczek,a,310,OpenPlay,2017,RightFoot,8280,Freiburg,Borussia Dortmund,0,0,2017-09-09 14:30:00,Nuri Sahin,Pass
+166294,61,MissedShots,0.8230000305175781,0.5329999923706055,0.04452129825949669,Lukasz Piszczek,a,310,FromCorner,2017,LeftFoot,8280,Freiburg,Borussia Dortmund,0,0,2017-09-09 14:30:00,,None
+166304,80,MissedShots,0.9069999694824219,0.3659999847412109,0.027803199365735054,Lukasz Piszczek,a,310,OpenPlay,2017,Head,8280,Freiburg,Borussia Dortmund,0,0,2017-09-09 14:30:00,Nuri Sahin,Chipped
+166506,30,MissedShots,0.9219999694824219,0.534000015258789,0.04300529882311821,Lukasz Piszczek,h,310,FromCorner,2017,OtherBodyPart,8294,Borussia Dortmund,FC Cologne,5,0,2017-09-17 17:00:00,Gonzalo Castro,Aerial
+166524,84,MissedShots,0.87,0.46599998474121096,0.02523129992187023,Lukasz Piszczek,h,310,FromCorner,2017,Head,8294,Borussia Dortmund,FC Cologne,5,0,2017-09-17 17:00:00,Gonzalo Castro,Cross
+167138,20,SavedShot,0.8669999694824219,0.5579999923706055,0.06913919746875763,Lukasz Piszczek,a,310,SetPiece,2017,LeftFoot,8302,Hamburger SV,Borussia Dortmund,0,3,2017-09-20 19:30:00,,None
+187990,8,SavedShot,0.7919999694824219,0.47,0.02882790006697178,Lukasz Piszczek,h,310,FromCorner,2017,LeftFoot,8412,Borussia Dortmund,Wolfsburg,0,0,2018-01-14 17:00:00,,Dispossessed
+188001,43,MissedShots,0.865,0.265,0.027889100834727287,Lukasz Piszczek,h,310,OpenPlay,2017,LeftFoot,8412,Borussia Dortmund,Wolfsburg,0,0,2018-01-14 17:00:00,Shinji Kagawa,Pass
+189825,8,BlockedShot,0.9540000152587891,0.35900001525878905,0.08066359907388687,Lukasz Piszczek,h,310,OpenPlay,2017,RightFoot,8430,Borussia Dortmund,Freiburg,2,2,2018-01-27 14:30:00,Christian Pulisic,BlockedPass
+189837,73,SavedShot,0.9159999847412109,0.515,0.10266800224781036,Lukasz Piszczek,h,310,OpenPlay,2017,Head,8430,Borussia Dortmund,Freiburg,2,2,2018-01-27 14:30:00,Mario Götze,Cross
+196845,62,BlockedShot,0.865,0.28100000381469725,0.04032009840011597,Lukasz Piszczek,a,310,OpenPlay,2017,LeftFoot,8460,Borussia M.Gladbach,Borussia Dortmund,0,1,2018-02-18 17:00:00,Mario Götze,Pass
+201902,19,MissedShots,0.830999984741211,0.41,0.05448310077190399,Lukasz Piszczek,h,310,OpenPlay,2017,RightFoot,8493,Borussia Dortmund,Hannover 96,1,0,2018-03-18 12:30:00,,None
+201904,26,BlockedShot,0.860999984741211,0.28899999618530275,0.05363389849662781,Lukasz Piszczek,h,310,OpenPlay,2017,RightFoot,8493,Borussia Dortmund,Hannover 96,1,0,2018-03-18 12:30:00,,None
+204496,78,SavedShot,0.81,0.46900001525878904,0.05077109858393669,Lukasz Piszczek,a,310,OpenPlay,2017,LeftFoot,8502,Bayern Munich,Borussia Dortmund,6,0,2018-03-31 14:30:00,André Schürrle,Pass
+209137,1,SavedShot,0.855999984741211,0.5570000076293945,0.012441799975931644,Lukasz Piszczek,a,310,FromCorner,2017,Head,8524,Schalke 04,Borussia Dortmund,2,0,2018-04-15 13:30:00,Marco Reus,Aerial
+210584,60,MissedShots,0.9290000152587891,0.4370000076293945,0.03834360092878342,Lukasz Piszczek,h,310,FromCorner,2017,Head,8529,Borussia Dortmund,Bayer Leverkusen,4,0,2018-04-21 16:30:00,Jadon Sancho,Aerial
+212522,10,BlockedShot,0.9159999847412109,0.3609999847412109,0.09507109969854355,Lukasz Piszczek,a,310,OpenPlay,2017,RightFoot,8542,Werder Bremen,Borussia Dortmund,1,1,2018-04-29 16:00:00,Marco Reus,Pass
+213137,11,SavedShot,0.909000015258789,0.3770000076293945,0.03190720081329346,Lukasz Piszczek,h,310,FromCorner,2017,Head,8550,Borussia Dortmund,Mainz 05,1,2,2018-05-05 14:30:00,,Rebound
+213143,31,SavedShot,0.7769999694824219,0.345,0.024847999215126038,Lukasz Piszczek,h,310,OpenPlay,2017,RightFoot,8550,Borussia Dortmund,Mainz 05,1,2,2018-05-05 14:30:00,Jadon Sancho,Pass
+221340,83,SavedShot,0.8490000152587891,0.47900001525878905,0.008971470408141613,Lukasz Piszczek,a,310,SetPiece,2018,Head,10346,Hannover 96,Borussia Dortmund,0,0,2018-08-31 21:30:00,Jadon Sancho,Aerial
+224890,56,BlockedShot,0.86,0.48900001525878906,0.058783698827028275,Lukasz Piszczek,a,310,FromCorner,2018,RightFoot,10365,Hoffenheim,Borussia Dortmund,1,1,2018-09-22 13:30:00,Christian Pulisic,BallTouch
+255683,50,SavedShot,0.909000015258789,0.47200000762939454,0.08109769970178604,Lukasz Piszczek,h,310,FromCorner,2018,Head,10410,Borussia Dortmund,Hertha Berlin,2,2,2018-10-27 13:30:00,Jadon Sancho,Cross
+256549,75,BlockedShot,0.82,0.34200000762939453,0.03993679955601692,Lukasz Piszczek,a,310,OpenPlay,2018,LeftFoot,10443,Mainz 05,Borussia Dortmund,1,2,2018-11-24 14:30:00,Jadon Sancho,Pass
+256550,75,Goal,0.8380000305175781,0.34900001525878904,0.03959440067410469,Lukasz Piszczek,a,310,OpenPlay,2018,RightFoot,10443,Mainz 05,Borussia Dortmund,1,2,2018-11-24 14:30:00,,Rebound
+256682,78,ShotOnPost,0.8819999694824219,0.24399999618530274,0.04625289887189865,Lukasz Piszczek,h,310,OpenPlay,2018,RightFoot,10446,Borussia Dortmund,Freiburg,2,0,2018-12-01 14:30:00,,BallTouch
+257499,88,BlockedShot,0.7930000305175782,0.38,0.029501400887966156,Lukasz Piszczek,a,310,OpenPlay,2018,LeftFoot,10478,Fortuna Duesseldorf,Borussia Dortmund,2,1,2018-12-18 19:30:00,Mario Götze,HeadPass
+278540,13,BlockedShot,0.8859999847412109,0.45799999237060546,0.017148200422525406,Lukasz Piszczek,h,310,SetPiece,2018,Head,10500,Borussia Dortmund,Hannover 96,5,1,2019-01-26 14:30:00,Marco Reus,Aerial
+278552,50,BlockedShot,0.7909999847412109,0.33799999237060546,0.031339600682258606,Lukasz Piszczek,h,310,OpenPlay,2018,LeftFoot,10500,Borussia Dortmund,Hannover 96,5,1,2019-01-26 14:30:00,Mario Götze,Pass
+278553,53,BlockedShot,0.7919999694824219,0.3340000152587891,0.029648499563336372,Lukasz Piszczek,h,310,OpenPlay,2018,LeftFoot,10500,Borussia Dortmund,Hannover 96,5,1,2019-01-26 14:30:00,Raphael Guerreiro,Pass
+292140,23,SavedShot,0.7559999847412109,0.575,0.019373299553990364,Lukasz Piszczek,a,310,OpenPlay,2018,LeftFoot,10580,Bayern Munich,Borussia Dortmund,5,0,2019-04-06 17:30:00,,BallRecovery
+302335,22,MissedShots,0.924000015258789,0.49599998474121093,0.11427699774503708,Lukasz Piszczek,a,310,FromCorner,2018,Head,10639,Borussia M.Gladbach,Borussia Dortmund,0,2,2019-05-18 13:30:00,Christian Pulisic,Cross
+316051,93,MissedShots,0.8030000305175782,0.2979999923706055,0.0183556005358696,Lukasz Piszczek,a,310,OpenPlay,2019,LeftFoot,12427,Union Berlin,Borussia Dortmund,3,1,2019-08-31 17:30:00,Marco Reus,Pass
+322896,1,MissedShots,0.914000015258789,0.37599998474121094,0.03524250164628029,Lukasz Piszczek,h,310,FromCorner,2019,Head,12454,Borussia Dortmund,Werder Bremen,2,2,2019-09-28 16:30:00,,None
+322909,48,BlockedShot,0.865999984741211,0.3160000038146973,0.06285219639539719,Lukasz Piszczek,h,310,OpenPlay,2019,RightFoot,12454,Borussia Dortmund,Werder Bremen,2,2,2019-09-28 16:30:00,,None
+327085,21,SavedShot,0.7340000152587891,0.32799999237060545,0.016114700585603714,Lukasz Piszczek,a,310,OpenPlay,2019,RightFoot,12478,Schalke 04,Borussia Dortmund,0,0,2019-10-26 14:30:00,Thomas Delaney,Pass
+356597,57,BlockedShot,0.909000015258789,0.5259999847412109,0.08125609904527664,Lukasz Piszczek,h,310,FromCorner,2019,Head,12574,Borussia Dortmund,Union Berlin,5,0,2020-02-01 14:30:00,Julian Brandt,Cross
+358720,32,Goal,0.8209999847412109,0.47400001525878904,0.060185398906469345,Lukasz Piszczek,h,310,OpenPlay,2019,LeftFoot,12592,Borussia Dortmund,Eintracht Frankfurt,4,0,2020-02-14 19:30:00,Achraf Hakimi,Pass
+359823,60,BlockedShot,0.7369999694824219,0.46900001525878904,0.02391820028424263,Lukasz Piszczek,a,310,OpenPlay,2019,RightFoot,12606,Werder Bremen,Borussia Dortmund,0,2,2020-02-22 14:30:00,Thorgan Hazard,Pass
+363971,83,SavedShot,0.909000015258789,0.415,0.04436210170388222,Lukasz Piszczek,h,310,FromCorner,2019,Head,12664,Borussia Dortmund,Hertha Berlin,1,0,2020-06-06 16:30:00,Jadon Sancho,Cross
+423642,55,MissedShots,0.8290000152587891,0.40299999237060546,0.03390989825129509,Lukasz Piszczek,h,310,OpenPlay,2020,Head,15438,Borussia Dortmund,Bayer Leverkusen,3,1,2021-05-22 13:30:00,Julian Brandt,Chipped

@@ -1,0 +1,5 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+533884,57,BlockedShot,0.7780000305175782,0.41900001525878905,0.020815521478652954,Filippo Missori,h,10076,FromCorner,2023,RightFoot,22310,Sassuolo,Atalanta,0,2,2023-08-20 16:30:00,,None
+533888,69,SavedShot,0.8830000305175781,0.5990000152587891,0.09728638827800751,Filippo Missori,h,10076,OpenPlay,2023,RightFoot,22310,Sassuolo,Atalanta,0,2,2023-08-20 16:30:00,Kristian Thorstvedt,Pass
+583529,3,MissedShots,0.945,0.3659999847412109,0.060374755412340164,Filippo Missori,a,10076,OpenPlay,2023,RightFoot,22681,Lazio,Sassuolo,1,1,2024-05-26 18:45:00,Josh Doig,Cross
+583540,77,MissedShots,0.8180000305175781,0.46900001525878904,0.05844740942120552,Filippo Missori,a,10076,OpenPlay,2023,LeftFoot,22681,Lazio,Sassuolo,1,1,2024-05-26 18:45:00,Samuele Mulattieri,BallTouch

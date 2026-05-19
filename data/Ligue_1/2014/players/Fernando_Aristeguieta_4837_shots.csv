@@ -1,0 +1,11 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+175,20,SavedShot,0.8059999847412109,0.664000015258789,0.02871200069785118,Fernando Aristeguieta,h,4837,OpenPlay,2014,RightFoot,6191,Nantes,Lens,1,0,2014-08-09 20:00:00,,None
+176,22,BlockedShot,0.8980000305175782,0.41700000762939454,0.08284849673509598,Fernando Aristeguieta,h,4837,OpenPlay,2014,RightFoot,6191,Nantes,Lens,1,0,2014-08-09 20:00:00,Issa Cissokho,Cross
+179,30,MissedShots,0.8519999694824218,0.5179999923706055,0.015878699719905853,Fernando Aristeguieta,h,4837,OpenPlay,2014,Head,6191,Nantes,Lens,1,0,2014-08-09 20:00:00,Olivier Veigneau,Cross
+180,44,BlockedShot,0.7180000305175781,0.4759999847412109,0.01871979981660843,Fernando Aristeguieta,h,4837,OpenPlay,2014,RightFoot,6191,Nantes,Lens,1,0,2014-08-09 20:00:00,Lucas Deaux,Pass
+181,46,MissedShots,0.795,0.2589999961853027,0.019044499844312668,Fernando Aristeguieta,h,4837,OpenPlay,2014,LeftFoot,6191,Nantes,Lens,1,0,2014-08-09 20:00:00,Issa Cissokho,Pass
+591,85,BlockedShot,0.865999984741211,0.33599998474121096,0.047519199550151825,Fernando Aristeguieta,h,4837,OpenPlay,2014,RightFoot,6214,Nantes,Monaco,0,1,2014-08-24 20:00:00,Itay Shechter,Pass
+594,89,MissedShots,0.9219999694824219,0.4879999923706055,0.11765799671411514,Fernando Aristeguieta,h,4837,OpenPlay,2014,Head,6214,Nantes,Monaco,0,1,2014-08-24 20:00:00,Itay Shechter,Cross
+105097,88,SavedShot,0.86,0.539000015258789,0.0179750993847847,Fernando Aristeguieta,h,4837,OpenPlay,2016,Head,2341,Nantes,Rennes,1,2,2016-10-22 22:00:00,Alexander Kacaniklic,Pass
+105716,84,BlockedShot,0.9059999847412109,0.40299999237060546,0.10213100165128708,Fernando Aristeguieta,a,4837,OpenPlay,2016,RightFoot,2845,Paris Saint Germain,Nantes,2,0,2016-11-19 20:00:00,Adrien Thomasson,Pass
+105717,85,MissedShots,0.9269999694824219,0.46599998474121096,0.10995099693536758,Fernando Aristeguieta,a,4837,FromCorner,2016,Head,2845,Paris Saint Germain,Nantes,2,0,2016-11-19 20:00:00,Lucas Lima,Cross

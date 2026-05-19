@@ -1,0 +1,18 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+30,7,Goal,0.7319999694824219,0.47700000762939454,0.014849499799311161,Christopher Maboulou,h,3659,OpenPlay,2014,RightFoot,6186,SC Bastia,Marseille,3,3,2014-08-09 20:00:00,,None
+47,72,Goal,0.9540000152587891,0.59,0.11543100327253342,Christopher Maboulou,h,3659,OpenPlay,2014,RightFoot,6186,SC Bastia,Marseille,3,3,2014-08-09 20:00:00,,TakeOn
+360,16,BlockedShot,0.8040000152587891,0.4279999923706055,0.04916929826140404,Christopher Maboulou,a,3659,OpenPlay,2014,RightFoot,6196,Paris Saint Germain,SC Bastia,2,0,2014-08-16 16:00:00,Brandão,Pass
+667,9,MissedShots,0.695,0.475,0.01023740042001009,Christopher Maboulou,a,3659,OpenPlay,2014,RightFoot,6222,Bordeaux,SC Bastia,1,1,2014-08-31 13:00:00,,None
+1209,36,MissedShots,0.7659999847412109,0.735999984741211,0.013378500007092953,Christopher Maboulou,a,3659,OpenPlay,2014,RightFoot,6158,Metz,SC Bastia,3,1,2014-09-20 19:00:00,Floyd Ayité,BallTouch
+2052,21,SavedShot,0.7390000152587891,0.4259999847412109,0.01098570041358471,Christopher Maboulou,a,3659,OpenPlay,2014,RightFoot,6179,Lille,SC Bastia,1,0,2014-09-27 19:00:00,,Aerial
+2059,36,BlockedShot,0.92,0.345,0.07796750217676163,Christopher Maboulou,a,3659,OpenPlay,2014,RightFoot,6179,Lille,SC Bastia,1,0,2014-09-27 19:00:00,Juan Pablo Pino,Pass
+2068,73,MissedShots,0.93,0.5070000076293946,0.1029369980096817,Christopher Maboulou,a,3659,OpenPlay,2014,Head,6179,Lille,SC Bastia,1,0,2014-09-27 19:00:00,Floyd Ayité,Cross
+2078,20,Goal,0.9369999694824219,0.48900001525878906,0.45708099007606506,Christopher Maboulou,h,3659,OpenPlay,2014,Head,6137,SC Bastia,Monaco,1,3,2014-10-25 19:00:00,Francois Kamano,Cross
+4204,58,MissedShots,0.9330000305175781,0.5559999847412109,0.3848850131034851,Christopher Maboulou,h,3659,OpenPlay,2014,LeftFoot,6042,SC Bastia,Evian Thonon Gaillard,1,2,2014-12-03 18:00:00,Guillaume Gillet,Cross
+4212,84,BlockedShot,0.985,0.5479999923706055,0.5849159955978394,Christopher Maboulou,h,3659,FromCorner,2014,Head,6042,SC Bastia,Evian Thonon Gaillard,1,2,2014-12-03 18:00:00,Alexander Djiku,HeadPass
+8178,37,MissedShots,0.9130000305175782,0.495,0.1221269965171814,Christopher Maboulou,h,3659,OpenPlay,2014,Head,5953,SC Bastia,Guingamp,0,0,2015-03-21 19:00:00,Francois Kamano,Cross
+8183,63,BlockedShot,0.9319999694824219,0.6329999923706054,0.06939680129289627,Christopher Maboulou,h,3659,FromCorner,2014,LeftFoot,5953,SC Bastia,Guingamp,0,0,2015-03-21 19:00:00,,None
+8185,64,MissedShots,0.9530000305175781,0.585,0.09467820078134537,Christopher Maboulou,h,3659,OpenPlay,2014,LeftFoot,5953,SC Bastia,Guingamp,0,0,2015-03-21 19:00:00,Francois Kamano,Cross
+61334,95,MissedShots,0.9430000305175781,0.66,0.016933299601078033,Christopher Maboulou,h,3659,OpenPlay,2015,Head,1870,SC Bastia,Rennes,2,1,2015-08-08 23:00:00,Gaël Danic,Cross
+61797,88,BlockedShot,0.8630000305175781,0.685,0.13725599646568298,Christopher Maboulou,h,3659,OpenPlay,2015,LeftFoot,1894,SC Bastia,Guingamp,3,0,2015-08-22 22:00:00,Floyd Ayité,Throughball
+66845,83,BlockedShot,0.7619999694824219,0.33799999237060546,0.022170299664139748,Christopher Maboulou,h,3659,OpenPlay,2015,RightFoot,2164,SC Bastia,Lille,1,2,2016-03-12 23:00:00,,TakeOn

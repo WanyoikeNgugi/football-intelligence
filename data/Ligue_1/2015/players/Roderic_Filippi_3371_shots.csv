@@ -1,0 +1,17 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+61679,58,BlockedShot,0.8969999694824219,0.40299999237060546,0.026437299326062202,Roderic Filippi,a,3371,FromCorner,2015,Head,1888,Paris Saint Germain,GFC Ajaccio,2,0,2015-08-16 23:00:00,Damjan Djokovic,Cross
+62727,26,SavedShot,0.875999984741211,0.5220000076293946,0.04734319821000099,Roderic Filippi,a,3371,SetPiece,2015,Head,1901,Lille,GFC Ajaccio,1,0,2015-08-29 22:00:00,Damjan Djokovic,Chipped
+63640,10,OwnGoal,0.022999999523162843,0.445,0,Roderic Filippi,h,3371,OpenPlay,2015,RightFoot,1971,GFC Ajaccio,Nice,3,1,2015-10-24 22:00:00,,None
+63646,31,Goal,0.9540000152587891,0.4209999847412109,0.09775780141353607,Roderic Filippi,h,3371,FromCorner,2015,Head,1971,GFC Ajaccio,Nice,3,1,2015-10-24 22:00:00,Damjan Djokovic,Cross
+64369,17,MissedShots,0.889000015258789,0.48200000762939454,0.04950759932398796,Roderic Filippi,h,3371,FromCorner,2015,Head,2012,GFC Ajaccio,Lorient,1,1,2015-11-28 23:00:00,Damjan Djokovic,Cross
+66697,90,OwnGoal,0.12100000381469726,0.4759999847412109,0,Roderic Filippi,a,3371,OpenPlay,2015,LeftFoot,2079,Rennes,GFC Ajaccio,1,0,2016-01-22 23:30:00,,None
+66547,50,MissedShots,0.885,0.55,0.08346399664878845,Roderic Filippi,h,3371,FromCorner,2015,RightFoot,2093,GFC Ajaccio,Montpellier,0,4,2016-01-30 23:00:00,Jacques Zoua,HeadPass
+69289,32,MissedShots,0.6709999847412109,0.635,0.013317699544131756,Roderic Filippi,h,3371,SetPiece,2015,RightFoot,2112,GFC Ajaccio,Guingamp,0,0,2016-02-06 23:00:00,Pablo Martinez,Pass
+69300,86,MissedShots,0.9490000152587891,0.38599998474121094,0.03785119950771332,Roderic Filippi,h,3371,FromCorner,2015,Head,2112,GFC Ajaccio,Guingamp,0,0,2016-02-06 23:00:00,Damjan Djokovic,Cross
+61391,56,Goal,0.95,0.4470000076293945,0.12391400337219238,Roderic Filippi,h,3371,FromCorner,2015,Head,2125,GFC Ajaccio,Troyes,2,3,2016-02-13 23:00:00,Damjan Djokovic,Cross
+61395,81,SavedShot,0.7280000305175781,0.3029999923706055,0.012683999724686146,Roderic Filippi,h,3371,FromCorner,2015,RightFoot,2125,GFC Ajaccio,Troyes,2,3,2016-02-13 23:00:00,,None
+70037,12,MissedShots,0.95,0.53,0.5500270128250122,Roderic Filippi,h,3371,SetPiece,2015,Head,2158,GFC Ajaccio,Marseille,1,1,2016-03-09 21:30:00,Mohamed Larbi,Cross
+70057,91,MissedShots,0.9259999847412109,0.41,0.05298740044236183,Roderic Filippi,h,3371,FromCorner,2015,Head,2158,GFC Ajaccio,Marseille,1,1,2016-03-09 21:30:00,Mohamed Larbi,Cross
+67864,10,BlockedShot,0.8690000152587891,0.48200000762939454,0.07578890025615692,Roderic Filippi,h,3371,FromCorner,2015,LeftFoot,2232,GFC Ajaccio,Paris Saint Germain,0,4,2016-05-07 23:00:00,Kader Mangane,None
+67866,22,MissedShots,0.92,0.37,0.03166380152106285,Roderic Filippi,h,3371,FromCorner,2015,OtherBodyPart,2232,GFC Ajaccio,Paris Saint Germain,0,4,2016-05-07 23:00:00,Alexandre Coeff,Cross
+68873,55,MissedShots,0.925,0.59,0.05103230103850365,Roderic Filippi,a,3371,SetPiece,2015,Head,2243,Lorient,GFC Ajaccio,1,0,2016-05-14 23:00:00,Khalid Boutaib,HeadPass

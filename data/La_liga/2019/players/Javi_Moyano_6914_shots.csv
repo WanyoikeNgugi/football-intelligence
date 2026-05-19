@@ -1,0 +1,13 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+221278,32,SavedShot,0.875,0.4759999847412109,0.049475401639938354,Javi Moyano,a,6914,FromCorner,2018,RightFoot,9977,Getafe,Real Valladolid,0,0,2018-08-31 21:00:00,Óscar Plano,Cross
+228678,23,MissedShots,0.815,0.33599998474121096,0.02626509964466095,Javi Moyano,a,6914,OpenPlay,2018,RightFoot,10026,Villarreal,Real Valladolid,0,1,2018-09-30 14:15:00,,Rebound
+258054,58,SavedShot,0.8590000152587891,0.525,0.04431290179491043,Javi Moyano,h,6914,FromCorner,2018,RightFoot,10036,Real Valladolid,SD Huesca,1,0,2018-10-07 10:00:00,Míchel,Cross
+258762,66,MissedShots,0.8480000305175781,0.485,0.04236830025911331,Javi Moyano,a,6914,FromCorner,2018,RightFoot,10065,Real Madrid,Real Valladolid,2,0,2018-11-03 15:15:00,Míchel,Cross
+296487,55,BlockedShot,0.909000015258789,0.2520000076293945,0.015836600214242935,Javi Moyano,h,6914,OpenPlay,2018,RightFoot,10288,Real Valladolid,Girona,1,0,2019-04-23 19:30:00,,Aerial
+296497,80,MissedShots,0.8680000305175781,0.40900001525878904,0.08725299686193466,Javi Moyano,h,6914,OpenPlay,2018,RightFoot,10288,Real Valladolid,Girona,1,0,2019-04-23 19:30:00,,None
+333166,7,MissedShots,0.9259999847412109,0.5659999847412109,0.08908490091562271,Javi Moyano,h,6914,FromCorner,2019,Head,12162,Real Valladolid,Sevilla,0,1,2019-11-24 20:00:00,Míchel,Cross
+339097,60,MissedShots,0.8980000305175782,0.38299999237060545,0.033811699599027634,Javi Moyano,h,6914,SetPiece,2019,RightFoot,12202,Real Valladolid,Valencia,1,1,2019-12-21 20:00:00,Pablo Hervías,Cross
+360266,20,MissedShots,0.745,0.48,0.024941399693489075,Javi Moyano,h,6914,OpenPlay,2019,LeftFoot,12272,Real Valladolid,Espanyol,2,1,2020-02-23 15:00:00,Enes Ünal,LayOff
+360268,25,MissedShots,0.815,0.32799999237060545,0.02286360040307045,Javi Moyano,h,6914,SetPiece,2019,RightFoot,12272,Real Valladolid,Espanyol,2,1,2020-02-23 15:00:00,,None
+371845,79,MissedShots,0.9319999694824219,0.38299999237060545,0.03629840165376663,Javi Moyano,a,6914,FromCorner,2019,Head,12387,Eibar,Real Valladolid,3,1,2020-07-16 16:30:00,Sandro Ramírez,Cross
+372554,24,BlockedShot,0.9069999694824219,0.49700000762939456,0.07935889810323715,Javi Moyano,h,6914,SetPiece,2019,RightFoot,12400,Real Valladolid,Real Betis,2,0,2020-07-19 16:30:00,,None

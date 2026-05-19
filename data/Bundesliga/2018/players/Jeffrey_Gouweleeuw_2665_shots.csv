@@ -1,0 +1,113 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+82920,70,SavedShot,0.9319999694824219,0.5220000076293946,0.5871719717979431,Jeffrey Gouweleeuw,h,2665,OpenPlay,2015,LeftFoot,1286,Augsburg,VfB Stuttgart,1,0,2016-04-16 17:30:00,Ja-Cheol Koo,Pass
+82921,70,SavedShot,0.9630000305175781,0.6,0.1350809931755066,Jeffrey Gouweleeuw,h,2665,OpenPlay,2015,RightFoot,1286,Augsburg,VfB Stuttgart,1,0,2016-04-16 17:30:00,,Rebound
+127466,48,MissedShots,0.8830000305175781,0.555,0.05189580097794533,Jeffrey Gouweleeuw,h,2665,FromCorner,2016,LeftFoot,1328,Augsburg,Wolfsburg,0,2,2016-08-27 17:30:00,Raúl Bobadilla,Cross
+127982,51,Goal,0.9359999847412109,0.485,0.38598400354385376,Jeffrey Gouweleeuw,a,2665,FromCorner,2016,LeftFoot,1343,Werder Bremen,Augsburg,1,2,2016-09-11 17:30:00,Daniel Baier,Cross
+128743,84,SavedShot,0.7780000305175782,0.34299999237060547,0.02009890042245388,Jeffrey Gouweleeuw,h,2665,OpenPlay,2016,RightFoot,1367,Augsburg,Darmstadt,1,0,2016-09-24 17:30:00,Daniel Baier,Chipped
+131254,79,MissedShots,0.87,0.47,0.07634899765253067,Jeffrey Gouweleeuw,a,2665,SetPiece,2016,RightFoot,3733,Wolfsburg,Augsburg,1,2,2017-01-28 17:30:00,Philipp Max,Chipped
+134671,25,ShotOnPost,0.8490000152587891,0.2620000076293945,0.029316099360585213,Jeffrey Gouweleeuw,h,2665,OpenPlay,2016,RightFoot,3797,Augsburg,Freiburg,1,1,2017-03-18 14:30:00,Kevin Danso,Pass
+134002,8,Goal,0.9269999694824219,0.415,0.3138889968395233,Jeffrey Gouweleeuw,a,2665,OpenPlay,2016,RightFoot,3845,Eintracht Frankfurt,Augsburg,3,1,2017-04-22 14:30:00,Halil Altintop,Chipped
+134004,12,BlockedShot,0.855,0.24700000762939453,0.02165140025317669,Jeffrey Gouweleeuw,a,2665,SetPiece,2016,LeftFoot,3845,Eintracht Frankfurt,Augsburg,3,1,2017-04-22 14:30:00,Jonathan Schmid,TakeOn
+165918,13,MissedShots,0.9390000152587891,0.605,0.01749439910054207,Jeffrey Gouweleeuw,a,2665,FromCorner,2017,Head,8262,Hamburger SV,Augsburg,1,0,2017-08-19 14:30:00,Philipp Max,Aerial
+166169,81,MissedShots,0.924000015258789,0.5670000076293945,0.029577000066637993,Jeffrey Gouweleeuw,h,2665,FromCorner,2017,Head,8272,Augsburg,Borussia M.Gladbach,2,2,2017-08-26 14:30:00,Philipp Max,Aerial
+168312,28,BlockedShot,0.92,0.3120000076293945,0.02180970087647438,Jeffrey Gouweleeuw,h,2665,FromCorner,2017,LeftFoot,8337,Augsburg,Hannover 96,1,2,2017-10-21 14:30:00,,Aerial
+167774,47,MissedShots,0.9380000305175781,0.5670000076293945,0.09782910346984863,Jeffrey Gouweleeuw,a,2665,FromCorner,2017,Head,8358,Bayern Munich,Augsburg,3,0,2017-11-18 14:30:00,Philipp Max,Cross
+168575,54,MissedShots,0.7369999694824219,0.425,0.019399499520659447,Jeffrey Gouweleeuw,h,2665,OpenPlay,2017,RightFoot,8373,Augsburg,Wolfsburg,2,1,2017-11-25 14:30:00,Ja-Cheol Koo,Pass
+179738,24,MissedShots,0.91,0.47200000762939454,0.08248219639062881,Jeffrey Gouweleeuw,h,2665,FromCorner,2017,Head,8392,Augsburg,Hertha Berlin,1,1,2017-12-10 17:00:00,Philipp Max,Cross
+179741,39,MissedShots,0.8159999847412109,0.47,0.08385489881038666,Jeffrey Gouweleeuw,h,2665,OpenPlay,2017,RightFoot,8392,Augsburg,Hertha Berlin,1,1,2017-12-10 17:00:00,Marcel Heller,Pass
+188559,27,SavedShot,0.9169999694824219,0.48400001525878905,0.31716498732566833,Jeffrey Gouweleeuw,a,2665,FromCorner,2017,Head,8425,Borussia M.Gladbach,Augsburg,2,0,2018-01-20 14:30:00,Philipp Max,Cross
+188564,36,MissedShots,0.919000015258789,0.500999984741211,0.3281039893627167,Jeffrey Gouweleeuw,a,2665,FromCorner,2017,Head,8425,Borussia M.Gladbach,Augsburg,2,0,2018-01-20 14:30:00,Philipp Max,Cross
+188573,61,BlockedShot,0.885,0.3189999961853027,0.05828290060162544,Jeffrey Gouweleeuw,a,2665,OpenPlay,2017,RightFoot,8425,Borussia M.Gladbach,Augsburg,2,0,2018-01-20 14:30:00,Caiuby,Pass
+188577,69,SavedShot,0.754000015258789,0.30100000381469727,0.01754540018737316,Jeffrey Gouweleeuw,a,2665,OpenPlay,2017,RightFoot,8425,Borussia M.Gladbach,Augsburg,2,0,2018-01-20 14:30:00,Jonathan Schmid,Pass
+189869,44,MissedShots,0.9259999847412109,0.5159999847412109,0.11603599786758423,Jeffrey Gouweleeuw,a,2665,FromCorner,2017,Head,8434,FC Cologne,Augsburg,1,1,2018-01-27 14:30:00,Philipp Max,Cross
+204399,90,MissedShots,0.8540000152587891,0.42700000762939455,0.09204839915037155,Jeffrey Gouweleeuw,a,2665,OpenPlay,2017,LeftFoot,8507,Bayer Leverkusen,Augsburg,0,0,2018-03-31 14:30:00,Sergio Córdova,TakeOn
+208094,2,MissedShots,0.885,0.38799999237060545,0.05568759888410568,Jeffrey Gouweleeuw,a,2665,FromCorner,2017,RightFoot,8527,Wolfsburg,Augsburg,0,0,2018-04-13 18:30:00,Jonathan Schmid,Pass
+224940,17,MissedShots,0.7430000305175781,0.3370000076293945,0.014249900355935097,Jeffrey Gouweleeuw,h,2665,FromCorner,2018,RightFoot,10367,Augsburg,Werder Bremen,2,3,2018-09-22 13:30:00,,None
+224963,60,MissedShots,0.5320000076293945,0.46700000762939453,0.007466570008546114,Jeffrey Gouweleeuw,h,2665,OpenPlay,2018,RightFoot,10367,Augsburg,Werder Bremen,2,3,2018-09-22 13:30:00,,BallRecovery
+224967,87,MissedShots,0.9769999694824218,0.61,0.08554849773645401,Jeffrey Gouweleeuw,h,2665,FromCorner,2018,LeftFoot,10367,Augsburg,Werder Bremen,2,3,2018-09-22 13:30:00,,Rebound
+255221,48,SavedShot,0.9590000152587891,0.4929999923706055,0.6346880197525024,Jeffrey Gouweleeuw,a,2665,OpenPlay,2018,LeftFoot,10393,Borussia Dortmund,Augsburg,4,3,2018-10-06 13:30:00,Alfred Finnbogason,HeadPass
+255909,25,SavedShot,0.8680000305175781,0.49900001525878906,0.0321894995868206,Jeffrey Gouweleeuw,h,2665,FromCorner,2018,RightFoot,10419,Augsburg,Nuernberg,2,2,2018-11-03 14:30:00,,Aerial
+256206,56,MissedShots,0.895,0.4620000076293945,0.0549997016787529,Jeffrey Gouweleeuw,a,2665,FromCorner,2018,Head,10427,Hoffenheim,Augsburg,2,1,2018-11-10 14:30:00,Philipp Max,Cross
+287440,17,MissedShots,0.765,0.415,0.03188290074467659,Jeffrey Gouweleeuw,a,2665,FromCorner,2018,RightFoot,10575,Nuernberg,Augsburg,3,0,2019-03-30 14:30:00,Daniel Baier,Pass
+393131,84,Goal,0.875,0.5270000076293946,0.11472400277853012,Jeffrey Gouweleeuw,a,2665,OpenPlay,2020,LeftFoot,15243,Arminia Bielefeld,Augsburg,0,1,2020-12-16 19:30:00,Daniel Caligiuri,Pass
+407355,43,BlockedShot,0.8640000152587891,0.7140000152587891,0.046498700976371765,Jeffrey Gouweleeuw,a,2665,SetPiece,2020,RightFoot,15344,Mainz 05,Augsburg,0,1,2021-02-28 14:30:00,Mads Pedersen,HeadPass
+407362,77,SavedShot,0.4470000076293945,0.500999984741211,0.010645500384271145,Jeffrey Gouweleeuw,a,2665,OpenPlay,2020,RightFoot,15344,Mainz 05,Augsburg,0,1,2021-02-28 14:30:00,,TakeOn
+414500,23,MissedShots,0.855,0.46599998474121096,0.05679110065102577,Jeffrey Gouweleeuw,a,2665,FromCorner,2020,RightFoot,15387,Schalke 04,Augsburg,1,0,2021-04-11 13:30:00,Daniel Caligiuri,Pass
+415281,43,SavedShot,0.88,0.4329999923706055,0.0466202013194561,Jeffrey Gouweleeuw,h,2665,SetPiece,2020,Head,15400,Augsburg,Arminia Bielefeld,0,0,2021-04-17 13:30:00,Daniel Caligiuri,Cross
+416942,49,MissedShots,0.8930000305175781,0.44799999237060545,0.07027310132980347,Jeffrey Gouweleeuw,h,2665,SetPiece,2020,Head,15418,Augsburg,FC Cologne,2,3,2021-04-23 18:30:00,Daniel Caligiuri,Cross
+423596,8,OwnGoal,0.030999999046325683,0.4779999923706055,0,Jeffrey Gouweleeuw,a,2665,OpenPlay,2020,LeftFoot,15437,Bayern Munich,Augsburg,5,2,2021-05-22 13:30:00,,None
+423597,10,MissedShots,0.875999984741211,0.6359999847412109,0.018495799973607063,Jeffrey Gouweleeuw,a,2665,SetPiece,2020,Head,15437,Bayern Munich,Augsburg,5,2,2021-05-22 13:30:00,László Bénes,Cross
+440328,51,Goal,0.9669999694824218,0.5059999847412109,0.5457959771156311,Jeffrey Gouweleeuw,h,2665,FromCorner,2021,Head,17598,Augsburg,VfB Stuttgart,4,1,2021-10-31 14:30:00,Ruben Vargas,None
+440957,76,MissedShots,0.5629999923706055,0.17100000381469727,0.008615920320153236,Jeffrey Gouweleeuw,a,2665,OpenPlay,2021,RightFoot,17612,Wolfsburg,Augsburg,1,0,2021-11-06 14:30:00,Arne Maier,Pass
+442166,16,MissedShots,0.655,0.39,0.009857919998466969,Jeffrey Gouweleeuw,h,2665,OpenPlay,2021,RightFoot,17616,Augsburg,Bayern Munich,2,1,2021-11-19 19:30:00,,BallRecovery
+442168,22,SavedShot,0.8830000305175781,0.6220000076293946,0.06017030030488968,Jeffrey Gouweleeuw,h,2665,FromCorner,2021,RightFoot,17616,Augsburg,Bayern Munich,2,1,2021-11-19 19:30:00,,None
+455752,11,BlockedShot,0.9069999694824219,0.4929999923706055,0.08234349638223648,Jeffrey Gouweleeuw,h,2665,FromCorner,2021,Head,17699,Augsburg,Union Berlin,2,0,2022-02-05 14:30:00,Arne Maier,Cross
+458171,1,BlockedShot,0.8730000305175781,0.5459999847412109,0.027220899239182472,Jeffrey Gouweleeuw,h,2665,FromCorner,2021,Head,17717,Augsburg,Freiburg,1,2,2022-02-19 14:30:00,Niklas Dorsch,Cross
+458201,89,BlockedShot,0.8830000305175781,0.42200000762939455,0.025682199746370316,Jeffrey Gouweleeuw,h,2665,FromCorner,2021,Head,17717,Augsburg,Freiburg,1,2,2022-02-19 14:30:00,Niklas Dorsch,Cross
+465852,60,BlockedShot,0.9890000152587891,0.54,0.8691930174827576,Jeffrey Gouweleeuw,h,2665,SetPiece,2021,LeftFoot,17760,Augsburg,Wolfsburg,3,0,2022-04-03 13:30:00,Reece Oxford,HeadPass
+466329,10,Goal,0.885,0.5,0.7577769756317139,Jeffrey Gouweleeuw,h,2665,Penalty,2021,RightFoot,17742,Augsburg,Mainz 05,2,1,2022-04-06 16:30:00,,Standard
+466332,20,SavedShot,0.5840000152587891,0.21399999618530274,0.019331200048327446,Jeffrey Gouweleeuw,h,2665,DirectFreekick,2021,RightFoot,17742,Augsburg,Mainz 05,2,1,2022-04-06 16:30:00,,Standard
+470661,18,MissedShots,0.9580000305175781,0.500999984741211,0.13716599345207214,Jeffrey Gouweleeuw,a,2665,FromCorner,2021,Head,17787,Bochum,Augsburg,0,2,2022-04-24 13:30:00,Daniel Caligiuri,Cross
+470670,48,SavedShot,0.9290000152587891,0.3110000038146973,0.03854050114750862,Jeffrey Gouweleeuw,a,2665,FromCorner,2021,RightFoot,17787,Bochum,Augsburg,0,2,2022-04-24 13:30:00,Ruben Vargas,BallTouch
+481762,78,MissedShots,0.7609999847412109,0.6759999847412109,0.014799400232732296,Jeffrey Gouweleeuw,h,2665,SetPiece,2022,LeftFoot,19362,Augsburg,Mainz 05,1,2,2022-08-20 13:30:00,Ricardo Pepi,BallTouch
+486588,45,MissedShots,0.7280000305175781,0.40799999237060547,0.016647299751639366,Jeffrey Gouweleeuw,h,2665,OpenPlay,2022,LeftFoot,19385,Augsburg,Hertha Berlin,0,2,2022-09-04 13:30:00,Daniel Caligiuri,Pass
+488621,25,MissedShots,0.874000015258789,0.5309999847412109,0.09497939795255661,Jeffrey Gouweleeuw,h,2665,SetPiece,2022,RightFoot,19399,Augsburg,Bayern Munich,1,0,2022-09-17 13:30:00,,Rebound
+491499,54,BlockedShot,0.91,0.5070000076293946,0.09504219889640808,Jeffrey Gouweleeuw,h,2665,FromCorner,2022,RightFoot,19420,Augsburg,Wolfsburg,1,1,2022-10-08 13:30:00,Florian Niederlechner,BallTouch
+491505,62,SavedShot,0.9219999694824219,0.41200000762939454,0.09139029681682587,Jeffrey Gouweleeuw,h,2665,FromCorner,2022,RightFoot,19420,Augsburg,Wolfsburg,1,1,2022-10-08 13:30:00,Elvis Rexhbecaj,None
+491506,62,SavedShot,0.955999984741211,0.43099998474121093,0.5182629823684692,Jeffrey Gouweleeuw,h,2665,FromCorner,2022,RightFoot,19420,Augsburg,Wolfsburg,1,1,2022-10-08 13:30:00,,Rebound
+496373,11,MissedShots,0.725,0.855,0.007360449992120266,Jeffrey Gouweleeuw,a,2665,OpenPlay,2022,RightFoot,19447,VfB Stuttgart,Augsburg,2,1,2022-10-29 13:30:00,Mads Pedersen,TakeOn
+505501,42,MissedShots,0.914000015258789,0.5059999847412109,0.12771199643611908,Jeffrey Gouweleeuw,h,2665,SetPiece,2022,Head,19491,Augsburg,Borussia M.Gladbach,1,0,2023-01-25 19:30:00,Arne Engels,Cross
+505508,62,MissedShots,0.9219999694824219,0.41900001525878905,0.06229700148105621,Jeffrey Gouweleeuw,h,2665,FromCorner,2022,Head,19491,Augsburg,Borussia M.Gladbach,1,0,2023-01-25 19:30:00,Arne Engels,Cross
+505797,43,SavedShot,0.8469999694824218,0.355,0.050378598272800446,Jeffrey Gouweleeuw,a,2665,OpenPlay,2022,RightFoot,19498,Freiburg,Augsburg,3,1,2023-01-28 14:30:00,Arne Maier,Pass
+509339,67,MissedShots,0.9390000152587891,0.4520000076293945,0.1196959987282753,Jeffrey Gouweleeuw,h,2665,FromCorner,2022,Head,19529,Augsburg,Hoffenheim,1,0,2023-02-17 19:30:00,Arne Maier,Cross
+509344,87,BlockedShot,0.9690000152587891,0.595999984741211,0.03881220147013664,Jeffrey Gouweleeuw,h,2665,FromCorner,2022,OtherBodyPart,19529,Augsburg,Hoffenheim,1,0,2023-02-17 19:30:00,Arne Engels,Cross
+512034,48,SavedShot,0.7290000152587891,0.7130000305175781,0.010999700054526329,Jeffrey Gouweleeuw,h,2665,OpenPlay,2022,RightFoot,19547,Augsburg,Werder Bremen,2,1,2023-03-04 14:30:00,Mads Pedersen,TakeOn
+513458,68,MissedShots,0.925,0.5029999923706054,0.0608551986515522,Jeffrey Gouweleeuw,a,2665,FromCorner,2022,Head,19549,Bayern Munich,Augsburg,5,3,2023-03-11 14:30:00,,None
+519277,76,MissedShots,0.93,0.669000015258789,0.03746839985251427,Jeffrey Gouweleeuw,a,2665,FromCorner,2022,LeftFoot,19586,RasenBallsport Leipzig,Augsburg,3,2,2023-04-15 13:30:00,Ruben Vargas,Cross
+525818,58,OwnGoal,0.04199999809265137,0.595,0,Jeffrey Gouweleeuw,a,2665,OpenPlay,2022,RightFoot,19628,Bochum,Augsburg,3,2,2023-05-13 13:30:00,,None
+541905,7,BlockedShot,0.7580000305175781,0.34299999237060547,0.01669440232217312,Jeffrey Gouweleeuw,a,2665,OpenPlay,2023,LeftFoot,23118,Freiburg,Augsburg,2,0,2023-10-01 15:30:00,,None
+541907,9,SavedShot,0.950999984741211,0.45099998474121095,0.07044878602027893,Jeffrey Gouweleeuw,a,2665,FromCorner,2023,Head,23118,Freiburg,Augsburg,2,0,2023-10-01 15:30:00,Ruben Vargas,Aerial
+541909,20,MissedShots,0.860999984741211,0.41200000762939454,0.009355239570140839,Jeffrey Gouweleeuw,a,2665,SetPiece,2023,Head,23118,Freiburg,Augsburg,2,0,2023-10-01 15:30:00,Ruben Vargas,Aerial
+542538,97,BlockedShot,0.7930000305175782,0.525,0.037728600203990936,Jeffrey Gouweleeuw,h,2665,OpenPlay,2023,RightFoot,23122,Augsburg,Darmstadt,1,2,2023-10-07 13:30:00,,None
+546721,51,BlockedShot,0.8730000305175781,0.615,0.057996753603219986,Jeffrey Gouweleeuw,a,2665,FromCorner,2023,RightFoot,23151,FC Cologne,Augsburg,1,1,2023-11-04 14:30:00,,None
+546731,71,MissedShots,0.909000015258789,0.49599998474121093,0.034827981144189835,Jeffrey Gouweleeuw,a,2665,FromCorner,2023,Head,23151,FC Cologne,Augsburg,1,1,2023-11-04 14:30:00,Fredrik Jensen,Aerial
+552014,20,BlockedShot,0.7340000152587891,0.3840000152587891,0.01332754548639059,Jeffrey Gouweleeuw,h,2665,OpenPlay,2023,LeftFoot,23179,Augsburg,Eintracht Frankfurt,2,1,2023-12-03 18:30:00,,None
+559382,62,BlockedShot,0.93,0.3290000152587891,0.03805958479642868,Jeffrey Gouweleeuw,a,2665,OpenPlay,2023,RightFoot,23222,Borussia M.Gladbach,Augsburg,1,2,2024-01-21 16:30:00,Iago,Cross
+559385,67,MissedShots,0.8719999694824219,0.43400001525878906,0.03508064150810242,Jeffrey Gouweleeuw,a,2665,SetPiece,2023,Head,23222,Borussia M.Gladbach,Augsburg,1,2,2024-01-21 16:30:00,Arne Engels,Cross
+561114,85,MissedShots,0.9109999847412109,0.475,0.08270154893398285,Jeffrey Gouweleeuw,a,2665,OpenPlay,2023,Head,23242,Bochum,Augsburg,1,1,2024-02-03 14:30:00,Sven Michel,Cross
+566398,33,BlockedShot,0.9059999847412109,0.42700000762939455,0.11421093344688416,Jeffrey Gouweleeuw,a,2665,OpenPlay,2023,LeftFoot,23280,Darmstadt,Augsburg,0,6,2024-03-02 14:30:00,,None
+567903,21,Goal,0.925,0.5720000076293945,0.07355811446905136,Jeffrey Gouweleeuw,h,2665,FromCorner,2023,LeftFoot,23288,Augsburg,FC Heidenheim,1,0,2024-03-09 14:30:00,Arne Maier,Cross
+569332,59,BlockedShot,0.7519999694824219,0.38299999237060545,0.014342506416141987,Jeffrey Gouweleeuw,a,2665,OpenPlay,2023,RightFoot,23293,Wolfsburg,Augsburg,1,3,2024-03-16 14:30:00,Kristijan Jakic,HeadPass
+571352,48,BlockedShot,0.8909999847412109,0.34900001525878904,0.08095152676105499,Jeffrey Gouweleeuw,h,2665,OpenPlay,2023,LeftFoot,23306,Augsburg,FC Cologne,1,1,2024-03-31 14:30:00,Fredrik Jensen,Pass
+571355,62,MissedShots,0.9590000152587891,0.395,0.07052761316299438,Jeffrey Gouweleeuw,h,2665,SetPiece,2023,Head,23306,Augsburg,FC Cologne,1,1,2024-03-31 14:30:00,Ruben Vargas,Cross
+571365,77,BlockedShot,0.9230000305175782,0.6880000305175781,0.047097910195589066,Jeffrey Gouweleeuw,h,2665,FromCorner,2023,LeftFoot,23306,Augsburg,FC Cologne,1,1,2024-03-31 14:30:00,Kristijan Jakic,Pass
+572977,86,BlockedShot,0.874000015258789,0.40599998474121096,0.06549418717622757,Jeffrey Gouweleeuw,a,2665,OpenPlay,2023,RightFoot,23314,Hoffenheim,Augsburg,3,1,2024-04-07 13:30:00,Dion Beljo,BallTouch
+573284,63,SavedShot,0.8780000305175781,0.38,0.062226567417383194,Jeffrey Gouweleeuw,h,2665,SetPiece,2023,LeftFoot,23323,Augsburg,Union Berlin,2,0,2024-04-12 18:30:00,,None
+576740,70,BlockedShot,0.7559999847412109,0.28399999618530275,0.009216830134391785,Jeffrey Gouweleeuw,h,2665,OpenPlay,2023,LeftFoot,23342,Augsburg,Werder Bremen,0,3,2024-04-27 13:30:00,,Aerial
+576749,93,MissedShots,0.755,0.3110000038146973,0.015941672027111053,Jeffrey Gouweleeuw,h,2665,OpenPlay,2023,RightFoot,23342,Augsburg,Werder Bremen,0,3,2024-04-27 13:30:00,Niklas Dorsch,Pass
+578334,23,BlockedShot,0.8880000305175781,0.43599998474121093,0.03510894253849983,Jeffrey Gouweleeuw,a,2665,FromCorner,2023,Head,23344,Borussia Dortmund,Augsburg,5,1,2024-05-04 13:30:00,Arne Maier,Cross
+578353,60,BlockedShot,0.8830000305175781,0.36700000762939455,0.047507546842098236,Jeffrey Gouweleeuw,a,2665,FromCorner,2023,RightFoot,23344,Borussia Dortmund,Augsburg,5,1,2024-05-04 13:30:00,Ruben Vargas,BallTouch
+579523,93,BlockedShot,0.805,0.27899999618530275,0.014476043172180653,Jeffrey Gouweleeuw,h,2665,SetPiece,2023,RightFoot,23360,Augsburg,VfB Stuttgart,0,1,2024-05-10 18:30:00,,None
+589851,90,BlockedShot,0.7369999694824219,0.4420000076293945,0.01704101264476776,Jeffrey Gouweleeuw,a,2665,OpenPlay,2024,LeftFoot,27758,FC Heidenheim,Augsburg,4,0,2024-09-01 13:30:00,Marius Wolf,Pass
+593947,26,SavedShot,0.885,0.5,0.75777667760849,Jeffrey Gouweleeuw,a,2665,Penalty,2024,RightFoot,27783,RasenBallsport Leipzig,Augsburg,4,0,2024-09-28 13:30:00,,Standard
+596938,30,MissedShots,0.7180000305175781,0.47200000762939454,0.014188523404300213,Jeffrey Gouweleeuw,a,2665,FromCorner,2024,RightFoot,27800,Freiburg,Augsburg,3,1,2024-10-19 13:30:00,,None
+598342,71,MissedShots,0.8780000305175781,0.669000015258789,0.049487341195344925,Jeffrey Gouweleeuw,h,2665,SetPiece,2024,RightFoot,27809,Augsburg,Borussia Dortmund,2,1,2024-10-26 13:30:00,Keven Schlotterbeck,Pass
+602094,31,MissedShots,0.9740000152587891,0.40700000762939453,0.384585976600647,Jeffrey Gouweleeuw,h,2665,FromCorner,2024,RightFoot,27827,Augsburg,Hoffenheim,0,0,2024-11-10 14:30:00,,Rebound
+604249,73,MissedShots,0.8430000305175781,0.5070000076293946,0.028149234130978584,Jeffrey Gouweleeuw,h,2665,SetPiece,2024,LeftFoot,27846,Augsburg,Bochum,1,0,2024-11-30 14:30:00,,Aerial
+605721,50,MissedShots,0.8519999694824218,0.64,0.04666075110435486,Jeffrey Gouweleeuw,a,2665,SetPiece,2024,LeftFoot,27858,Eintracht Frankfurt,Augsburg,2,2,2024-12-07 14:30:00,,None
+606959,69,MissedShots,0.95,0.395,0.08818811923265457,Jeffrey Gouweleeuw,h,2665,FromCorner,2024,LeftFoot,27863,Augsburg,Bayer Leverkusen,0,2,2024-12-14 14:30:00,,None
+616873,39,MissedShots,0.7609999847412109,0.590999984741211,0.01815793849527836,Jeffrey Gouweleeuw,h,2665,FromCorner,2024,LeftFoot,27936,Augsburg,RasenBallsport Leipzig,0,0,2025-02-14 19:30:00,,None
+618346,73,SavedShot,0.7319999694824219,0.4159999847412109,0.01672094501554966,Jeffrey Gouweleeuw,a,2665,OpenPlay,2024,LeftFoot,27947,Borussia M.Gladbach,Augsburg,0,3,2025-02-22 14:30:00,,None
+620619,2,MissedShots,0.8019999694824219,0.5,0.018928764387965202,Jeffrey Gouweleeuw,h,2665,FromCorner,2024,RightFoot,27954,Augsburg,Freiburg,0,0,2025-03-02 16:30:00,,Aerial
+621097,22,Goal,0.9319999694824219,0.29399999618530276,0.017719890922307968,Jeffrey Gouweleeuw,a,2665,SetPiece,2024,Head,27960,Borussia Dortmund,Augsburg,0,1,2025-03-08 14:30:00,Marius Wolf,Chipped
+627045,77,SavedShot,0.755,0.3559999847412109,0.021108519285917282,Jeffrey Gouweleeuw,a,2665,OpenPlay,2024,RightFoot,28001,Bochum,Augsburg,1,2,2025-04-12 13:30:00,Keven Schlotterbeck,Pass
+630156,91,MissedShots,0.77,0.24899999618530275,0.010952767916023731,Jeffrey Gouweleeuw,a,2665,OpenPlay,2024,RightFoot,28012,Bayer Leverkusen,Augsburg,2,0,2025-04-26 13:30:00,Fredrik Jensen,Pass
+631977,79,BlockedShot,0.7930000305175782,0.3270000076293945,0.014420975930988789,Jeffrey Gouweleeuw,h,2665,OpenPlay,2024,RightFoot,28025,Augsburg,Holstein Kiel,1,3,2025-05-04 13:30:00,,Rebound
+634350,33,MissedShots,0.9680000305175781,0.4,0.07210898399353027,Jeffrey Gouweleeuw,h,2665,SetPiece,2024,LeftFoot,28044,Augsburg,Union Berlin,1,2,2025-05-17 13:30:00,Mert Kömür,Cross
+634361,71,MissedShots,0.870999984741211,0.5420000076293945,0.07720176875591278,Jeffrey Gouweleeuw,h,2665,OpenPlay,2024,RightFoot,28044,Augsburg,Union Berlin,1,2,2025-05-17 13:30:00,Phillip Tietz,HeadPass
+634363,77,SavedShot,0.97,0.5840000152587891,0.0972781777381897,Jeffrey Gouweleeuw,h,2665,OpenPlay,2024,LeftFoot,28044,Augsburg,Union Berlin,1,2,2025-05-17 13:30:00,,None
+638752,83,SavedShot,0.75,0.34200000762939453,0.00956186093389988,Jeffrey Gouweleeuw,a,2665,SetPiece,2025,RightFoot,30229,Freiburg,Augsburg,1,3,2025-08-23 13:30:00,,Aerial
+653032,89,BlockedShot,0.9309999847412109,0.5620000076293945,0.0970173180103302,Jeffrey Gouweleeuw,a,2665,FromCorner,2025,RightFoot,30311,VfB Stuttgart,Augsburg,3,2,2025-11-09 16:30:00,Robin Fellhauer,BallTouch
+677461,43,BlockedShot,0.9769999694824218,0.595,0.016502689570188522,Jeffrey Gouweleeuw,h,2665,FromCorner,2025,Head,30476,Augsburg,Hoffenheim,2,2,2026-04-10 18:30:00,Fabian Rieder,Aerial
+680962,25,MissedShots,0.9109999847412109,0.625999984741211,0.06021538004279137,Jeffrey Gouweleeuw,h,2665,OpenPlay,2025,RightFoot,30494,Augsburg,Eintracht Frankfurt,1,1,2026-04-25 13:30:00,Robin Fellhauer,Cross
+682130,37,SavedShot,0.884000015258789,0.26399999618530273,0.05363664776086807,Jeffrey Gouweleeuw,a,2665,OpenPlay,2025,RightFoot,30511,Werder Bremen,Augsburg,1,3,2026-05-02 13:30:00,Alexis Claude Maurice,BallTouch

@@ -1,0 +1,56 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+79088,57,Goal,0.795,0.5459999847412109,0.05416199937462807,Robert Bauer,h,237,SetPiece,2015,RightFoot,1137,Ingolstadt,Darmstadt,3,1,2015-11-22 20:40:00,,TakeOn
+79592,52,MissedShots,0.750999984741211,0.5629999923706055,0.017120400443673134,Robert Bauer,h,237,OpenPlay,2015,RightFoot,1152,Ingolstadt,Hoffenheim,1,1,2015-12-05 18:30:00,Stefan Lex,HeadPass
+81645,18,MissedShots,0.735,0.6359999847412109,0.012576499953866005,Robert Bauer,h,237,OpenPlay,2015,RightFoot,1229,Ingolstadt,FC Cologne,1,1,2016-03-01 23:00:00,Mathew Leckie,Rebound
+82393,83,BlockedShot,0.685,0.5979999923706054,0.011907200329005718,Robert Bauer,a,237,FromCorner,2015,RightFoot,1260,Hertha Berlin,Ingolstadt,2,1,2016-03-19 18:30:00,,None
+82582,3,MissedShots,0.7759999847412109,0.575,0.015457499772310257,Robert Bauer,h,237,FromCorner,2015,RightFoot,1267,Ingolstadt,Schalke 04,3,0,2016-04-02 17:30:00,,Aerial
+128760,68,OwnGoal,0.050999999046325684,0.54,0,Robert Bauer,h,237,OpenPlay,2016,RightFoot,1369,Werder Bremen,Wolfsburg,2,1,2016-09-24 20:30:00,,None
+130164,42,MissedShots,0.8690000152587891,0.5629999923706055,0.2993699908256531,Robert Bauer,a,237,OpenPlay,2016,LeftFoot,2827,Hamburger SV,Werder Bremen,2,2,2016-11-26 18:30:00,Serge Gnabry,HeadPass
+130581,16,MissedShots,0.76,0.27899999618530275,0.019153600558638573,Robert Bauer,h,237,SetPiece,2016,RightFoot,3197,Werder Bremen,Ingolstadt,2,1,2016-12-03 18:30:00,Serge Gnabry,Pass
+130751,47,MissedShots,0.860999984741211,0.19700000762939454,0.010766400024294853,Robert Bauer,h,237,OpenPlay,2016,RightFoot,3726,Werder Bremen,Borussia Dortmund,1,2,2017-01-21 14:30:00,,Aerial
+132005,0,MissedShots,0.6830000305175781,0.6569999694824219,0.015452999621629715,Robert Bauer,a,237,FromCorner,2016,RightFoot,3761,Mainz 05,Werder Bremen,0,2,2017-02-18 14:30:00,Max Kruse,Pass
+133597,16,MissedShots,0.909000015258789,0.6809999847412109,0.0323852002620697,Robert Bauer,a,237,OpenPlay,2016,RightFoot,3785,Bayer Leverkusen,Werder Bremen,1,1,2017-03-10 19:30:00,Milos Veljkovic,Cross
+133613,78,MissedShots,0.8590000152587891,0.720999984741211,0.025151999667286873,Robert Bauer,a,237,SetPiece,2016,RightFoot,3785,Bayer Leverkusen,Werder Bremen,1,1,2017-03-10 19:30:00,,None
+132655,21,BlockedShot,0.774000015258789,0.5070000076293946,0.020343400537967682,Robert Bauer,h,237,OpenPlay,2016,RightFoot,3798,Werder Bremen,RasenBallsport Leipzig,3,0,2017-03-18 14:30:00,Theodor Gebre Selassie,Cross
+132662,57,BlockedShot,0.665,0.75,0.010784500278532505,Robert Bauer,h,237,SetPiece,2016,RightFoot,3798,Werder Bremen,RasenBallsport Leipzig,3,0,2017-03-18 14:30:00,Zlatko Junuzovic,Pass
+133460,37,MissedShots,0.7980000305175782,0.7669999694824219,0.02231219969689846,Robert Bauer,a,237,OpenPlay,2016,RightFoot,3807,Freiburg,Werder Bremen,2,5,2017-04-01 14:30:00,Maximilian Eggestein,Pass
+134565,19,SavedShot,0.7340000152587891,0.46099998474121096,0.041819099336862564,Robert Bauer,h,237,OpenPlay,2016,RightFoot,3850,Werder Bremen,Hertha Berlin,2,0,2017-04-29 14:30:00,Maximilian Eggestein,TakeOn
+134576,74,MissedShots,0.835,0.655,0.06455180048942566,Robert Bauer,h,237,OpenPlay,2016,RightFoot,3850,Werder Bremen,Hertha Berlin,2,0,2017-04-29 14:30:00,Fin Bartels,Pass
+133359,89,Goal,0.9230000305175782,0.3940000152587891,0.22948800027370453,Robert Bauer,h,237,FromCorner,2016,RightFoot,3871,Werder Bremen,Hoffenheim,3,5,2017-05-13 14:30:00,Philipp Bargfrede,Chipped
+166595,79,MissedShots,0.725999984741211,0.5420000076293945,0.014783400110900402,Robert Bauer,h,237,FromCorner,2017,RightFoot,8287,Werder Bremen,Schalke 04,1,2,2017-09-16 14:30:00,,None
+168645,26,MissedShots,0.6890000152587891,0.3189999961853027,0.01500330027192831,Robert Bauer,h,237,FromCorner,2017,RightFoot,8343,Werder Bremen,Augsburg,0,3,2017-10-29 14:30:00,Maximilian Eggestein,Pass
+256583,45,BlockedShot,0.7759999847412109,0.37,0.028346199542284012,Robert Bauer,a,237,OpenPlay,2018,LeftFoot,10437,Schalke 04,Nuernberg,5,2,2018-11-24 17:30:00,Hanno Behrens,LayOff
+257010,29,MissedShots,0.845999984741211,0.4329999923706055,0.059093598276376724,Robert Bauer,a,237,SetPiece,2018,LeftFoot,10454,Bayern Munich,Nuernberg,3,0,2018-12-08 14:30:00,,None
+257248,89,BlockedShot,0.7719999694824219,0.4,0.014787700027227402,Robert Bauer,h,237,FromCorner,2018,RightFoot,10471,Nuernberg,Wolfsburg,0,2,2018-12-14 19:30:00,,Aerial
+257793,70,MissedShots,0.72,0.4209999847412109,0.012433799915015697,Robert Bauer,h,237,FromCorner,2018,RightFoot,10481,Nuernberg,Freiburg,0,1,2018-12-22 14:30:00,,Aerial
+293183,66,BlockedShot,0.705,0.38,0.015751799568533897,Robert Bauer,h,237,OpenPlay,2018,RightFoot,10597,Nuernberg,Schalke 04,1,1,2019-04-12 19:30:00,Patrick Erras,Pass
+298297,35,BlockedShot,0.7619999694824219,0.385,0.01751290075480938,Robert Bauer,h,237,FromCorner,2018,RightFoot,10615,Nuernberg,Bayern Munich,1,1,2019-04-28 17:00:00,,None
+299157,55,MissedShots,0.749000015258789,0.28,0.017097100615501404,Robert Bauer,a,237,OpenPlay,2018,RightFoot,10624,Wolfsburg,Nuernberg,2,0,2019-05-04 14:30:00,Patrick Erras,Pass
+302416,79,SavedShot,0.6819999694824219,0.40799999237060547,0.009254230186343193,Robert Bauer,a,237,OpenPlay,2018,RightFoot,10636,Freiburg,Nuernberg,5,1,2019-05-18 13:30:00,Hanno Behrens,Pass
+316894,77,BlockedShot,0.7959999847412109,0.5129999923706055,0.03475319966673851,Robert Bauer,a,237,OpenPlay,2019,LeftFoot,11090,Zenit St. Petersburg,Arsenal Tula,3,1,2019-09-13 17:00:00,Evgeni Lutsenko,Pass
+316897,89,BlockedShot,0.8859999847412109,0.55,0.11566600203514099,Robert Bauer,a,237,OpenPlay,2019,LeftFoot,11090,Zenit St. Petersburg,Arsenal Tula,3,1,2019-09-13 17:00:00,Maksim Volodko,Pass
+316898,89,BlockedShot,0.74,0.3920000076293945,0.013020100072026253,Robert Bauer,a,237,OpenPlay,2019,RightFoot,11090,Zenit St. Petersburg,Arsenal Tula,3,1,2019-09-13 17:00:00,Evans Kangwa,Pass
+321160,24,Goal,0.735,0.6419999694824219,0.012514599598944187,Robert Bauer,h,237,OpenPlay,2019,RightFoot,11098,Arsenal Tula,Ural,1,1,2019-09-22 13:30:00,Sergey Tkachev,Pass
+323465,55,SavedShot,0.7969999694824219,0.21899999618530275,0.01706100068986416,Robert Bauer,a,237,OpenPlay,2019,RightFoot,11109,FC Krasnodar,Arsenal Tula,2,0,2019-09-29 16:00:00,Alexander Lomovitskiy,Pass
+326335,47,BlockedShot,0.825999984741211,0.6469999694824219,0.0343145988881588,Robert Bauer,h,237,SetPiece,2019,RightFoot,11120,Arsenal Tula,PFC Sochi,1,1,2019-10-20 14:30:00,Igor Gorbatenko,Pass
+326350,79,MissedShots,0.74,0.649000015258789,0.01647450029850006,Robert Bauer,h,237,FromCorner,2019,RightFoot,11120,Arsenal Tula,PFC Sochi,1,1,2019-10-20 14:30:00,Daniil Lesovoy,Pass
+361585,19,BlockedShot,0.8919999694824219,0.38599998474121094,0.01436659973114729,Robert Bauer,a,237,FromCorner,2019,Head,11188,FC Orenburg,Arsenal Tula,2,0,2020-03-07 11:00:00,Sergey Tkachev,Cross
+361591,38,MissedShots,0.7469999694824219,0.4420000076293945,0.01378989964723587,Robert Bauer,a,237,FromCorner,2019,RightFoot,11188,FC Orenburg,Arsenal Tula,2,0,2020-03-07 11:00:00,Goran Causic,BallTouch
+375308,43,MissedShots,0.7780000305175782,0.47900001525878905,0.015522300265729427,Robert Bauer,a,237,FromCorner,2020,RightFoot,14015,FC Krasnodar,Arsenal Tula,2,0,2020-08-18 17:00:00,,Aerial
+375853,38,BlockedShot,0.6859999847412109,0.649000015258789,0.011458000168204308,Robert Bauer,h,237,OpenPlay,2020,RightFoot,14030,Arsenal Tula,Khimki,1,1,2020-08-25 17:30:00,Valeri Gromyko,Pass
+375873,93,SavedShot,0.7080000305175781,0.590999984741211,0.012960400432348251,Robert Bauer,h,237,OpenPlay,2020,RightFoot,14030,Arsenal Tula,Khimki,1,1,2020-08-25 17:30:00,Kings Kangwa,Pass
+377095,73,BlockedShot,0.8190000152587891,0.5209999847412109,0.020224999636411667,Robert Bauer,a,237,OpenPlay,2020,RightFoot,14231,Zenit St. Petersburg,Arsenal Tula,3,1,2020-09-14 15:30:00,Sergey Tkachev,Chipped
+379230,25,MissedShots,0.884000015258789,0.5159999847412109,0.048162899911403656,Robert Bauer,h,237,FromCorner,2020,Head,14244,Arsenal Tula,FC Rostov,2,3,2020-09-27 11:00:00,Sergey Tkachev,Cross
+379239,67,MissedShots,0.7569999694824219,0.705,0.012347400188446045,Robert Bauer,h,237,OpenPlay,2020,RightFoot,14244,Arsenal Tula,FC Rostov,2,3,2020-09-27 11:00:00,Georgi Kostadinov,Pass
+379244,86,BlockedShot,0.725,0.595999984741211,0.012731200084090233,Robert Bauer,h,237,OpenPlay,2020,RightFoot,14244,Arsenal Tula,FC Rostov,2,3,2020-09-27 11:00:00,Taras Burlak,Pass
+382292,1,BlockedShot,0.7030000305175781,0.46599998474121096,0.012811300344765186,Robert Bauer,h,237,FromCorner,2020,RightFoot,14310,Arsenal Tula,Ural,1,0,2020-10-18 11:00:00,,None
+385836,48,MissedShots,0.6940000152587891,0.61,0.013308100402355194,Robert Bauer,h,237,OpenPlay,2020,RightFoot,14331,Arsenal Tula,FC Rotor Volgograd,1,1,2020-11-07 13:30:00,Luka Djordjevic,Pass
+385841,57,ShotOnPost,0.78,0.585999984741211,0.03767110034823418,Robert Bauer,h,237,OpenPlay,2020,RightFoot,14331,Arsenal Tula,FC Rotor Volgograd,1,1,2020-11-07 13:30:00,Alexander Lomovitskiy,Pass
+385857,85,BlockedShot,0.765,0.655,0.0149167999625206,Robert Bauer,h,237,OpenPlay,2020,RightFoot,14331,Arsenal Tula,FC Rotor Volgograd,1,1,2020-11-07 13:30:00,Kings Kangwa,Rebound
+409271,16,BlockedShot,0.8959999847412109,0.2560000038146973,0.021042199805378914,Robert Bauer,h,237,OpenPlay,2020,RightFoot,14389,Arsenal Tula,Lokomotiv Moscow,0,3,2021-03-08 11:00:00,Alexander Lomovitskiy,Cross
+414186,22,SavedShot,0.6809999847412109,0.6140000152587891,0.01163719967007637,Robert Bauer,h,237,OpenPlay,2020,RightFoot,14419,Arsenal Tula,FC Krasnodar,1,0,2021-04-11 11:00:00,Goran Causic,Pass
+415578,10,Goal,0.885,0.5,0.7542750239372253,Robert Bauer,h,237,Penalty,2020,RightFoot,14427,Arsenal Tula,FC Tambov,4,0,2021-04-18 11:00:00,,Standard
+415588,40,SavedShot,0.835999984741211,0.6630000305175782,0.06326189637184143,Robert Bauer,h,237,OpenPlay,2020,RightFoot,14427,Arsenal Tula,FC Tambov,4,0,2021-04-18 11:00:00,Vladislav Panteleev,Pass
+415593,63,BlockedShot,0.7630000305175781,0.73,0.01844410039484501,Robert Bauer,h,237,OpenPlay,2020,RightFoot,14427,Arsenal Tula,FC Tambov,4,0,2021-04-18 11:00:00,Goran Causic,Pass
+417888,44,MissedShots,0.8959999847412109,0.6029999923706054,0.02182829938828945,Robert Bauer,a,237,OpenPlay,2020,Head,14438,FC Rostov,Arsenal Tula,1,0,2021-04-25 13:30:00,Daniil Khlusevich,Aerial
+417898,88,SavedShot,0.885,0.5,0.7542750239372253,Robert Bauer,a,237,Penalty,2020,RightFoot,14438,FC Rostov,Arsenal Tula,1,0,2021-04-25 13:30:00,,Standard

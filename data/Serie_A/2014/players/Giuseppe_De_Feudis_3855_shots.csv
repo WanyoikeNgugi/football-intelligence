@@ -1,0 +1,15 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+41420,11,MissedShots,0.9230000305175782,0.32099998474121094,0.02953230030834675,Giuseppe De Feudis,h,3855,OpenPlay,2014,RightFoot,5154,Cesena,Parma,1,0,2014-08-31 19:45:00,Manuel Coppola,Cross
+42487,64,MissedShots,0.7269999694824218,0.35900001525878905,0.013938399963080883,Giuseppe De Feudis,h,3855,OpenPlay,2014,RightFoot,5143,Cesena,AC Milan,1,1,2014-09-28 14:00:00,Emmanuel Cascione,Pass
+42985,74,SavedShot,0.875999984741211,0.47,0.059928398579359055,Giuseppe De Feudis,a,3855,OpenPlay,2014,RightFoot,5074,Udinese,Cesena,1,1,2014-10-05 14:00:00,Alejandro Rodriguez,HeadPass
+43798,2,MissedShots,0.860999984741211,0.5929999923706055,0.06661169975996017,Giuseppe De Feudis,h,3855,OpenPlay,2014,LeftFoot,5038,Cesena,Verona,1,1,2014-11-03 18:00:00,,None
+45690,65,MissedShots,0.8530000305175781,0.3770000076293945,0.058938801288604736,Giuseppe De Feudis,h,3855,SetPiece,2014,RightFoot,4983,Cesena,Torino,2,3,2015-01-18 14:00:00,Franco Brienza,Pass
+46927,68,MissedShots,0.715,0.43099998474121093,0.010126699693500996,Giuseppe De Feudis,a,3855,OpenPlay,2014,LeftFoot,4930,Empoli,Cesena,2,0,2015-02-08 14:00:00,Franco Brienza,Pass
+47639,7,BlockedShot,0.7919999694824219,0.39599998474121095,0.03172279894351959,Giuseppe De Feudis,a,3855,OpenPlay,2014,RightFoot,4948,AC Milan,Cesena,2,0,2015-02-22 14:00:00,Luigi Giorgi,Pass
+47647,47,SavedShot,0.8859999847412109,0.6469999694824219,0.05281339958310127,Giuseppe De Feudis,a,3855,OpenPlay,2014,RightFoot,4948,AC Milan,Cesena,2,0,2015-02-22 14:00:00,Franco Brienza,Chipped
+47652,52,BlockedShot,0.7859999847412109,0.555,0.0583248995244503,Giuseppe De Feudis,a,3855,OpenPlay,2014,RightFoot,4948,AC Milan,Cesena,2,0,2015-02-22 14:00:00,Franco Brienza,LayOff
+47653,59,MissedShots,0.8219999694824218,0.639000015258789,0.04114370048046112,Giuseppe De Feudis,a,3855,OpenPlay,2014,RightFoot,4948,AC Milan,Cesena,2,0,2015-02-22 14:00:00,Luigi Giorgi,Pass
+47777,35,BlockedShot,0.840999984741211,0.3820000076293945,0.03979690000414848,Giuseppe De Feudis,h,3855,FromCorner,2014,RightFoot,4884,Cesena,Udinese,1,0,2015-03-01 14:00:00,,None
+49349,7,SavedShot,0.8040000152587891,0.7180000305175781,0.018725300207734108,Giuseppe De Feudis,a,3855,OpenPlay,2014,RightFoot,4835,Verona,Cesena,3,3,2015-04-04 14:00:00,Milan Djuric,Pass
+49350,9,SavedShot,0.7559999847412109,0.49900001525878906,0.023181399330496788,Giuseppe De Feudis,a,3855,OpenPlay,2014,RightFoot,4835,Verona,Cesena,3,3,2015-04-04 14:00:00,,None
+49835,62,MissedShots,0.759000015258789,0.4879999923706055,0.021755900233983994,Giuseppe De Feudis,a,3855,OpenPlay,2014,RightFoot,4827,Torino,Cesena,5,0,2015-05-31 19:45:00,Gregoire Defrel,Pass

@@ -1,0 +1,63 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+366972,75,MissedShots,0.909000015258789,0.5720000076293945,0.06051979959011078,Tim Lemperle,a,8407,FromCorner,2019,RightFoot,12705,Werder Bremen,FC Cologne,6,1,2020-06-27 13:30:00,Christian Clemens,Cross
+428637,90,Goal,0.955,0.5020000076293946,0.6204360127449036,Tim Lemperle,h,8407,OpenPlay,2021,RightFoot,17535,FC Cologne,Bochum,2,1,2021-08-28 13:30:00,Tomás Ostrák,Cross
+456755,90,Goal,0.9340000152587891,0.4370000076293945,0.14869600534439087,Tim Lemperle,a,8407,FromCorner,2021,Head,17713,RasenBallsport Leipzig,FC Cologne,3,1,2022-02-11 19:30:00,Mark Uth,Aerial
+461793,90,MissedShots,0.9,0.45799999237060546,0.23347799479961395,Tim Lemperle,h,8407,OpenPlay,2021,Head,17733,FC Cologne,Hoffenheim,0,1,2022-03-06 16:30:00,Jan Thielmann,Cross
+466667,93,BlockedShot,0.9019999694824219,0.6630000305175782,0.08490719646215439,Tim Lemperle,h,8407,OpenPlay,2021,LeftFoot,17770,FC Cologne,Mainz 05,3,2,2022-04-09 13:30:00,,BallRecovery
+468404,93,SavedShot,0.879000015258789,0.42900001525878906,0.5030289888381958,Tim Lemperle,a,8407,OpenPlay,2021,RightFoot,17782,Borussia M.Gladbach,FC Cologne,1,3,2022-04-16 16:30:00,Jonas Hector,Chipped
+468405,93,MissedShots,0.899000015258789,0.4640000152587891,0.428523987531662,Tim Lemperle,a,8407,OpenPlay,2021,LeftFoot,17782,Borussia M.Gladbach,FC Cologne,1,3,2022-04-16 16:30:00,,Rebound
+475721,86,MissedShots,0.8830000305175781,0.6090000152587891,0.017419900745153427,Tim Lemperle,a,8407,FromCorner,2021,Head,17816,VfB Stuttgart,FC Cologne,2,1,2022-05-14 13:30:00,Ondrej Duda,Cross
+479895,91,BlockedShot,0.875999984741211,0.6980000305175781,0.07885059714317322,Tim Lemperle,h,8407,OpenPlay,2022,RightFoot,19350,FC Cologne,Schalke 04,3,1,2022-08-07 15:30:00,Sargis Adamyan,Chipped
+513142,92,MissedShots,0.9080000305175782,0.5659999847412109,0.07112540304660797,Tim Lemperle,h,8407,FromCorner,2022,Head,19552,FC Cologne,Bochum,0,2,2023-03-10 19:30:00,Benno Schmitz,Cross
+638687,1,ShotOnPost,0.8480000305175781,0.5529999923706055,0.09233037382364273,Tim Lemperle,a,8407,OpenPlay,2025,LeftFoot,30226,Bayer Leverkusen,Hoffenheim,1,2,2025-08-23 13:30:00,Fisnik Asllani,Pass
+638697,51,Goal,0.78,0.445,0.0364379845559597,Tim Lemperle,a,8407,OpenPlay,2025,RightFoot,30226,Bayer Leverkusen,Hoffenheim,1,2,2025-08-23 13:30:00,Fisnik Asllani,BallTouch
+640175,13,SavedShot,0.8519999694824218,0.710999984741211,0.03205105662345886,Tim Lemperle,h,8407,OpenPlay,2025,RightFoot,30234,Hoffenheim,Eintracht Frankfurt,1,3,2025-08-30 13:30:00,Bazoumana Touré,Pass
+640185,53,SavedShot,0.9359999847412109,0.705,0.05132899433374405,Tim Lemperle,h,8407,OpenPlay,2025,LeftFoot,30234,Hoffenheim,Eintracht Frankfurt,1,3,2025-08-30 13:30:00,Fisnik Asllani,Pass
+641454,69,SavedShot,0.840999984741211,0.5740000152587891,0.10409322381019592,Tim Lemperle,a,8407,OpenPlay,2025,RightFoot,30247,Union Berlin,Hoffenheim,2,4,2025-09-13 13:30:00,Wouter Burger,Pass
+641458,82,Goal,0.885,0.5,0.75777667760849,Tim Lemperle,a,8407,Penalty,2025,RightFoot,30247,Union Berlin,Hoffenheim,2,4,2025-09-13 13:30:00,,Standard
+645320,86,SavedShot,0.874000015258789,0.5770000076293945,0.5479939579963684,Tim Lemperle,a,8407,OpenPlay,2025,RightFoot,30266,Freiburg,Hoffenheim,1,1,2025-09-28 13:30:00,Ihlas Bebou,Throughball
+645774,13,BlockedShot,0.8669999694824219,0.6419999694824219,0.09409729391336441,Tim Lemperle,h,8407,OpenPlay,2025,RightFoot,30274,Hoffenheim,FC Cologne,0,1,2025-10-03 18:30:00,Bernardo,BallRecovery
+648318,8,MissedShots,0.9080000305175782,0.30700000762939456,0.06082245334982872,Tim Lemperle,a,8407,OpenPlay,2025,RightFoot,30284,St. Pauli,Hoffenheim,0,3,2025-10-19 15:30:00,Fisnik Asllani,Pass
+648322,18,ShotOnPost,0.8980000305175782,0.4370000076293945,0.0867331475019455,Tim Lemperle,a,8407,OpenPlay,2025,RightFoot,30284,St. Pauli,Hoffenheim,0,3,2025-10-19 15:30:00,Vladimir Coufal,Cross
+648330,47,MissedShots,0.9519999694824218,0.505,0.1347363144159317,Tim Lemperle,a,8407,FromCorner,2025,Head,30284,St. Pauli,Hoffenheim,0,3,2025-10-19 15:30:00,Andrej Kramaric,Cross
+648790,12,SavedShot,0.8580000305175781,0.28,0.03603014722466469,Tim Lemperle,h,8407,OpenPlay,2025,RightFoot,30293,Hoffenheim,FC Heidenheim,3,1,2025-10-25 13:30:00,Vladimir Coufal,Pass
+648795,43,MissedShots,0.9719999694824218,0.4879999923706055,0.1627357304096222,Tim Lemperle,h,8407,FromCorner,2025,Head,30293,Hoffenheim,FC Heidenheim,3,1,2025-10-25 13:30:00,Albian Hajdari,Rebound
+648796,46,Goal,0.9590000152587891,0.47099998474121096,0.8096052408218384,Tim Lemperle,h,8407,OpenPlay,2025,RightFoot,30293,Hoffenheim,FC Heidenheim,3,1,2025-10-25 13:30:00,Bazoumana Touré,Throughball
+652192,37,Goal,0.9109999847412109,0.590999984741211,0.06866934150457382,Tim Lemperle,h,8407,OpenPlay,2025,Head,30310,Hoffenheim,RasenBallsport Leipzig,3,1,2025-11-08 14:30:00,Vladimir Coufal,Cross
+653271,63,MissedShots,0.9519999694824218,0.3579999923706055,0.0824127122759819,Tim Lemperle,a,8407,OpenPlay,2025,RightFoot,30319,Mainz 05,Hoffenheim,1,1,2025-11-21 19:30:00,Bazoumana Touré,Chipped
+653275,66,SavedShot,0.9009999847412109,0.505,0.3976256251335144,Tim Lemperle,a,8407,OpenPlay,2025,RightFoot,30319,Mainz 05,Hoffenheim,1,1,2025-11-21 19:30:00,Fisnik Asllani,HeadPass
+653277,67,BlockedShot,0.8919999694824219,0.335,0.08124943822622299,Tim Lemperle,a,8407,OpenPlay,2025,RightFoot,30319,Mainz 05,Hoffenheim,1,1,2025-11-21 19:30:00,Grischa Prömel,Pass
+653284,79,BlockedShot,0.865,0.41700000762939454,0.09439671039581299,Tim Lemperle,a,8407,OpenPlay,2025,RightFoot,30319,Mainz 05,Hoffenheim,1,1,2025-11-21 19:30:00,Fisnik Asllani,Pass
+653287,85,BlockedShot,0.8640000152587891,0.3659999847412109,0.09382124990224838,Tim Lemperle,a,8407,OpenPlay,2025,RightFoot,30319,Mainz 05,Hoffenheim,1,1,2025-11-21 19:30:00,Fisnik Asllani,Pass
+654996,63,MissedShots,0.7630000305175781,0.3340000152587891,0.027674388140439987,Tim Lemperle,h,8407,OpenPlay,2025,RightFoot,30329,Hoffenheim,Augsburg,3,0,2025-11-29 14:30:00,Andrej Kramaric,Pass
+657600,29,MissedShots,0.8159999847412109,0.44299999237060544,0.05329792946577072,Tim Lemperle,a,8407,OpenPlay,2025,RightFoot,30335,Borussia Dortmund,Hoffenheim,2,0,2025-12-07 16:30:00,Leon Avdullahu,Pass
+657603,41,MissedShots,0.7780000305175782,0.8080000305175781,0.018361490219831467,Tim Lemperle,a,8407,OpenPlay,2025,RightFoot,30335,Borussia Dortmund,Hoffenheim,2,0,2025-12-07 16:30:00,Bazoumana Touré,Pass
+658101,59,MissedShots,0.8880000305175781,0.4879999923706055,0.05811203271150589,Tim Lemperle,h,8407,OpenPlay,2025,Head,30346,Hoffenheim,Hamburger SV,4,1,2025-12-13 14:30:00,Andrej Kramaric,Chipped
+658102,64,Goal,0.9630000305175781,0.600999984741211,0.4538933038711548,Tim Lemperle,h,8407,OpenPlay,2025,RightFoot,30346,Hoffenheim,Hamburger SV,4,1,2025-12-13 14:30:00,Bazoumana Touré,HeadPass
+659163,8,BlockedShot,0.960999984741211,0.36,0.08853612840175629,Tim Lemperle,a,8407,OpenPlay,2025,RightFoot,30357,VfB Stuttgart,Hoffenheim,0,0,2025-12-20 14:30:00,Fisnik Asllani,Pass
+663072,23,Goal,0.860999984741211,0.42700000762939455,0.3577611446380615,Tim Lemperle,h,8407,OpenPlay,2025,RightFoot,30372,Hoffenheim,Borussia M.Gladbach,5,1,2026-01-14 19:30:00,Fisnik Asllani,Pass
+663085,65,MissedShots,0.87,0.46900001525878904,0.012972713448107243,Tim Lemperle,h,8407,OpenPlay,2025,Head,30372,Hoffenheim,Borussia M.Gladbach,5,1,2026-01-14 19:30:00,Vladimir Coufal,Aerial
+663427,37,BlockedShot,0.789000015258789,0.3659999847412109,0.03801053389906883,Tim Lemperle,h,8407,OpenPlay,2025,RightFoot,30381,Hoffenheim,Bayer Leverkusen,1,0,2026-01-17 14:30:00,Leon Avdullahu,Pass
+663436,51,BlockedShot,0.8690000152587891,0.7,0.0396384596824646,Tim Lemperle,h,8407,OpenPlay,2025,RightFoot,30381,Hoffenheim,Bayer Leverkusen,1,0,2026-01-17 14:30:00,Alexander Prass,Pass
+663439,60,MissedShots,0.9080000305175782,0.235,0.2870270907878876,Tim Lemperle,h,8407,OpenPlay,2025,RightFoot,30381,Hoffenheim,Bayer Leverkusen,1,0,2026-01-17 14:30:00,Wouter Burger,Chipped
+663440,61,BlockedShot,0.765,0.500999984741211,0.031449317932128906,Tim Lemperle,h,8407,OpenPlay,2025,RightFoot,30381,Hoffenheim,Bayer Leverkusen,1,0,2026-01-17 14:30:00,Fisnik Asllani,Pass
+663444,77,SavedShot,0.91,0.6509999847412109,0.2978091537952423,Tim Lemperle,h,8407,OpenPlay,2025,RightFoot,30381,Hoffenheim,Bayer Leverkusen,1,0,2026-01-17 14:30:00,Andrej Kramaric,Pass
+665716,42,MissedShots,0.9630000305175781,0.5509999847412109,0.07777663320302963,Tim Lemperle,a,8407,FromCorner,2025,Head,30367,Werder Bremen,Hoffenheim,0,2,2026-01-27 19:30:00,Wouter Burger,Aerial
+665723,61,BlockedShot,0.7969999694824219,0.675,0.07837352156639099,Tim Lemperle,a,8407,DirectFreekick,2025,RightFoot,30367,Werder Bremen,Hoffenheim,0,2,2026-01-27 19:30:00,,Standard
+671012,80,SavedShot,0.8109999847412109,0.7080000305175781,0.025446685031056404,Tim Lemperle,h,8407,OpenPlay,2025,RightFoot,30437,Hoffenheim,St. Pauli,0,1,2026-02-28 14:30:00,Leon Avdullahu,Pass
+672580,77,Goal,0.9730000305175781,0.45099998474121095,0.9127861261367798,Tim Lemperle,a,8407,OpenPlay,2025,RightFoot,30443,FC Heidenheim,Hoffenheim,2,4,2026-03-07 14:30:00,Bazoumana Touré,Pass
+674934,8,MissedShots,0.9080000305175782,0.5640000152587891,0.12711101770401,Tim Lemperle,a,8407,OpenPlay,2025,LeftFoot,30464,RasenBallsport Leipzig,Hoffenheim,5,0,2026-03-20 19:30:00,Bazoumana Touré,Pass
+674942,47,MissedShots,0.9319999694824219,0.5979999923706054,0.017056379467248917,Tim Lemperle,a,8407,FromCorner,2025,Head,30464,RasenBallsport Leipzig,Hoffenheim,5,0,2026-03-20 19:30:00,Alexander Prass,Aerial
+676481,10,SavedShot,0.9540000152587891,0.39799999237060546,0.14517252147197723,Tim Lemperle,h,8407,OpenPlay,2025,Head,30472,Hoffenheim,Mainz 05,1,2,2026-04-04 13:30:00,Vladimir Coufal,Pass
+676493,54,MissedShots,0.91,0.26799999237060546,0.04015905782580376,Tim Lemperle,h,8407,OpenPlay,2025,RightFoot,30472,Hoffenheim,Mainz 05,1,2,2026-04-04 13:30:00,Alexander Prass,Pass
+677464,45,MissedShots,0.9440000152587891,0.4809999847412109,0.5592684745788574,Tim Lemperle,a,8407,OpenPlay,2025,Head,30476,Augsburg,Hoffenheim,2,2,2026-04-10 18:30:00,Grischa Prömel,Aerial
+677466,53,SavedShot,0.865,0.46799999237060547,0.07728361338376999,Tim Lemperle,a,8407,OpenPlay,2025,RightFoot,30476,Augsburg,Hoffenheim,2,2,2026-04-10 18:30:00,Fisnik Asllani,None
+679144,5,ShotOnPost,0.889000015258789,0.34,0.0387108214199543,Tim Lemperle,h,8407,OpenPlay,2025,RightFoot,30490,Hoffenheim,Borussia Dortmund,2,1,2026-04-18 13:30:00,Wouter Burger,Cross
+679149,30,BlockedShot,0.8619999694824219,0.5359999847412109,0.08688241243362427,Tim Lemperle,h,8407,OpenPlay,2025,RightFoot,30490,Hoffenheim,Borussia Dortmund,2,1,2026-04-18 13:30:00,Wouter Burger,BallTouch
+681206,20,MissedShots,0.8519999694824218,0.425,0.08285274356603622,Tim Lemperle,a,8407,OpenPlay,2025,RightFoot,30497,Hamburger SV,Hoffenheim,1,2,2026-04-25 16:30:00,Albian Hajdari,Chipped
+681213,44,Goal,0.9680000305175781,0.425,0.4753097891807556,Tim Lemperle,a,8407,OpenPlay,2025,RightFoot,30497,Hamburger SV,Hoffenheim,1,2,2026-04-25 16:30:00,Albian Hajdari,HeadPass
+682234,41,BlockedShot,0.8809999847412109,0.3290000152587891,0.07209435850381851,Tim Lemperle,h,8407,OpenPlay,2025,LeftFoot,30508,Hoffenheim,VfB Stuttgart,3,3,2026-05-02 13:30:00,Vladimir Coufal,TakeOn
+682240,53,ShotOnPost,0.885,0.4229999923706055,0.321625292301178,Tim Lemperle,h,8407,OpenPlay,2025,LeftFoot,30508,Hoffenheim,VfB Stuttgart,3,3,2026-05-02 13:30:00,Bazoumana Touré,Cross
+682248,74,SavedShot,0.8619999694824219,0.64,0.10006685554981232,Tim Lemperle,h,8407,OpenPlay,2025,RightFoot,30508,Hoffenheim,VfB Stuttgart,3,3,2026-05-02 13:30:00,Wouter Burger,Pass
+683601,45,MissedShots,0.924000015258789,0.524000015258789,0.39014801383018494,Tim Lemperle,h,8407,OpenPlay,2025,Head,30516,Hoffenheim,Werder Bremen,1,0,2026-05-09 13:30:00,Vladimir Coufal,Cross
+683599,46,SavedShot,0.8580000305175781,0.4909999847412109,0.1380133479833603,Tim Lemperle,h,8407,OpenPlay,2025,LeftFoot,30516,Hoffenheim,Werder Bremen,1,0,2026-05-09 13:30:00,Vladimir Coufal,Throughball

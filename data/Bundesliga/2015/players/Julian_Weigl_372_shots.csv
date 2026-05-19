@@ -1,0 +1,80 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+76106,83,MissedShots,0.7819999694824219,0.48200000762939454,0.03283369913697243,Julian Weigl,h,372,OpenPlay,2015,RightFoot,1027,Borussia Dortmund,Borussia M.Gladbach,4,0,2015-08-15 20:30:00,,None
+76549,22,MissedShots,0.7769999694824219,0.705,0.01701889932155609,Julian Weigl,h,372,OpenPlay,2015,RightFoot,1046,Borussia Dortmund,Hertha Berlin,3,1,2015-08-30 17:30:00,Shinji Kagawa,Pass
+77449,29,SavedShot,0.7030000305175781,0.5129999923706055,0.01632470078766346,Julian Weigl,h,372,OpenPlay,2015,RightFoot,1083,Borussia Dortmund,Darmstadt,2,2,2015-09-27 19:30:00,Shinji Kagawa,Pass
+79978,35,MissedShots,0.749000015258789,0.5429999923706055,0.026424100622534752,Julian Weigl,a,372,OpenPlay,2015,RightFoot,1169,FC Cologne,Borussia Dortmund,2,1,2015-12-19 18:30:00,Jonas Hofmann,Pass
+80692,76,BlockedShot,0.720999984741211,0.38,0.016799500212073326,Julian Weigl,a,372,OpenPlay,2015,RightFoot,1196,Hertha Berlin,Borussia Dortmund,0,0,2016-02-06 18:30:00,Ilkay Gündogan,Pass
+80767,75,BlockedShot,0.8959999847412109,0.6430000305175781,0.06663399934768677,Julian Weigl,h,372,FromCorner,2015,RightFoot,1203,Borussia Dortmund,Hannover 96,1,0,2016-02-13 18:30:00,Lukasz Piszczek,Rebound
+82325,77,MissedShots,0.740999984741211,0.565,0.02433059923350811,Julian Weigl,a,372,OpenPlay,2015,LeftFoot,1263,Augsburg,Borussia Dortmund,1,3,2016-03-20 20:30:00,,BallRecovery
+82426,26,MissedShots,0.754000015258789,0.46700000762939453,0.011371299624443054,Julian Weigl,h,372,FromCorner,2015,RightFoot,1270,Borussia Dortmund,Werder Bremen,3,2,2016-04-02 20:30:00,Sven Bender,HeadPass
+82434,44,MissedShots,0.705,0.48400001525878905,0.014371399767696857,Julian Weigl,h,372,OpenPlay,2015,RightFoot,1270,Borussia Dortmund,Werder Bremen,3,2,2016-04-02 20:30:00,Sven Bender,TakeOn
+129064,19,BlockedShot,0.7480000305175781,0.500999984741211,0.02221659943461418,Julian Weigl,h,372,OpenPlay,2016,LeftFoot,1381,Borussia Dortmund,Hertha Berlin,1,1,2016-10-14 22:30:00,Sebastian Rode,Pass
+129070,49,MissedShots,0.8119999694824219,0.5129999923706055,0.043937798589468,Julian Weigl,h,372,SetPiece,2016,LeftFoot,1381,Borussia Dortmund,Hertha Berlin,1,1,2016-10-14 22:30:00,,None
+129398,31,MissedShots,0.7169999694824218,0.629000015258789,0.007941540330648422,Julian Weigl,a,372,OpenPlay,2016,LeftFoot,1391,Ingolstadt,Borussia Dortmund,3,3,2016-10-22 17:30:00,,Rebound
+131777,69,SavedShot,0.8680000305175781,0.5279999923706055,0.013717900030314922,Julian Weigl,a,372,FromCorner,2016,Head,3751,Darmstadt,Borussia Dortmund,2,1,2017-02-11 14:30:00,Ousmane Dembélé,Aerial
+132357,28,MissedShots,0.6919999694824219,0.5059999847412109,0.015985000878572464,Julian Weigl,a,372,OpenPlay,2016,RightFoot,3770,Freiburg,Borussia Dortmund,0,3,2017-02-25 14:30:00,Raphael Guerreiro,Pass
+134153,15,MissedShots,0.9309999847412109,0.5459999847412109,0.1148110032081604,Julian Weigl,h,372,FromCorner,2016,Head,3848,Borussia Dortmund,FC Cologne,0,0,2017-04-29 14:30:00,Shinji Kagawa,Cross
+134854,62,SavedShot,0.749000015258789,0.6309999847412109,0.023058800026774406,Julian Weigl,h,372,OpenPlay,2016,RightFoot,3860,Borussia Dortmund,Hoffenheim,2,1,2017-05-06 14:30:00,Marco Reus,Pass
+167384,78,Goal,0.74,0.45799999237060546,0.019081400707364082,Julian Weigl,h,372,OpenPlay,2017,RightFoot,8310,Borussia Dortmund,Borussia M.Gladbach,6,1,2017-09-23 17:30:00,,None
+167590,59,BlockedShot,0.82,0.28299999237060547,0.02539229951798916,Julian Weigl,h,372,OpenPlay,2017,RightFoot,8323,Borussia Dortmund,RasenBallsport Leipzig,2,3,2017-10-14 17:30:00,Gonzalo Castro,Pass
+168867,72,MissedShots,0.6969999694824218,0.40599998474121096,0.007625780068337917,Julian Weigl,h,372,OpenPlay,2017,RightFoot,8357,Borussia Dortmund,Bayern Munich,1,3,2017-11-04 17:30:00,,None
+169016,55,BlockedShot,0.8090000152587891,0.47200000762939454,0.050126899033784866,Julian Weigl,a,372,OpenPlay,2017,RightFoot,8382,Bayer Leverkusen,Borussia Dortmund,1,1,2017-12-02 14:30:00,Shinji Kagawa,Pass
+188402,15,MissedShots,0.6859999847412109,0.57,0.012789799831807613,Julian Weigl,a,372,OpenPlay,2017,RightFoot,8423,Hertha Berlin,Borussia Dortmund,1,1,2018-01-19 19:30:00,Mario Götze,Pass
+226690,68,MissedShots,0.7659999847412109,0.515,0.049878500401973724,Julian Weigl,h,372,OpenPlay,2018,RightFoot,10378,Borussia Dortmund,Nuernberg,7,0,2018-09-26 18:30:00,Jacob Bruun Larsen,LayOff
+226696,87,Goal,0.8119999694824219,0.6309999847412109,0.04811770096421242,Julian Weigl,h,372,OpenPlay,2018,RightFoot,10378,Borussia Dortmund,Nuernberg,7,0,2018-09-26 18:30:00,Jadon Sancho,Pass
+279543,28,BlockedShot,0.88,0.4779999923706055,0.08474139869213104,Julian Weigl,h,372,OpenPlay,2018,RightFoot,10536,Borussia Dortmund,Bayer Leverkusen,3,2,2019-02-24 17:00:00,Jadon Sancho,HeadPass
+310648,9,SavedShot,0.7809999847412109,0.445,0.032575901597738266,Julian Weigl,h,372,OpenPlay,2019,RightFoot,12406,Borussia Dortmund,Augsburg,5,1,2019-08-17 14:30:00,,None
+316034,43,ShotOnPost,0.7809999847412109,0.41900001525878905,0.031149299815297127,Julian Weigl,a,372,OpenPlay,2019,RightFoot,12427,Union Berlin,Borussia Dortmund,3,1,2019-08-31 17:30:00,Jadon Sancho,Pass
+322907,45,BlockedShot,0.8180000305175781,0.4229999923706055,0.03441460058093071,Julian Weigl,h,372,FromCorner,2019,LeftFoot,12454,Borussia Dortmund,Werder Bremen,2,2,2019-09-28 16:30:00,Mahmoud Dahoud,BallTouch
+329020,14,MissedShots,0.7630000305175781,0.4809999847412109,0.026174699887633324,Julian Weigl,h,372,OpenPlay,2019,RightFoot,12484,Borussia Dortmund,Wolfsburg,3,0,2019-11-02 14:30:00,Mahmoud Dahoud,Pass
+329026,42,SavedShot,0.9390000152587891,0.7119999694824218,0.015975000336766243,Julian Weigl,h,372,OpenPlay,2019,Head,12484,Borussia Dortmund,Wolfsburg,3,0,2019-11-02 14:30:00,,None
+329034,55,BlockedShot,0.845,0.28899999618530275,0.041827499866485596,Julian Weigl,h,372,OpenPlay,2019,RightFoot,12484,Borussia Dortmund,Wolfsburg,3,0,2019-11-02 14:30:00,Mario Götze,Pass
+329042,82,MissedShots,0.745999984741211,0.39799999237060546,0.011531099677085876,Julian Weigl,h,372,OpenPlay,2019,RightFoot,12484,Borussia Dortmund,Wolfsburg,3,0,2019-11-02 14:30:00,,Aerial
+337997,22,Goal,0.774000015258789,0.7480000305175781,0.014525899663567543,Julian Weigl,h,372,OpenPlay,2019,RightFoot,12538,Borussia Dortmund,RasenBallsport Leipzig,3,3,2019-12-17 19:30:00,Raphael Guerreiro,Pass
+338317,38,BlockedShot,0.7240000152587891,0.42700000762939455,0.02504269964993,Julian Weigl,a,372,FromCorner,2019,RightFoot,12549,Hoffenheim,Borussia Dortmund,2,1,2019-12-20 19:30:00,Thorgan Hazard,Pass
+488122,57,MissedShots,0.9030000305175782,0.615,0.013667000457644463,Julian Weigl,a,372,FromCorner,2022,Head,19395,Freiburg,Borussia M.Gladbach,0,0,2022-09-11 15:30:00,Jonas Hofmann,Aerial
+495191,21,BlockedShot,0.95,0.41700000762939454,0.04109819978475571,Julian Weigl,h,372,FromCorner,2022,Head,19437,Borussia M.Gladbach,Eintracht Frankfurt,1,3,2022-10-22 16:30:00,Lars Stindl,CornerAwarded
+505042,5,MissedShots,0.7830000305175782,0.31,0.017976099625229836,Julian Weigl,h,372,OpenPlay,2022,RightFoot,19481,Borussia M.Gladbach,Bayer Leverkusen,2,3,2023-01-22 16:30:00,,None
+505046,10,MissedShots,0.91,0.555,0.02819019928574562,Julian Weigl,h,372,FromCorner,2022,Head,19481,Borussia M.Gladbach,Bayer Leverkusen,2,3,2023-01-22 16:30:00,,Aerial
+505717,16,MissedShots,0.8230000305175781,0.4329999923706055,0.013859800063073635,Julian Weigl,a,372,SetPiece,2022,Head,19500,Hoffenheim,Borussia M.Gladbach,1,4,2023-01-28 14:30:00,Jonas Hofmann,Cross
+507354,41,MissedShots,0.8780000305175781,0.35900001525878905,0.02267950028181076,Julian Weigl,h,372,SetPiece,2022,RightFoot,19507,Borussia M.Gladbach,Schalke 04,0,0,2023-02-04 17:30:00,Jonas Hofmann,Cross
+522724,77,Goal,0.885,0.5,0.757696270942688,Julian Weigl,a,372,Penalty,2022,RightFoot,19610,VfB Stuttgart,Borussia M.Gladbach,2,1,2023-04-29 13:30:00,,Standard
+524473,40,BlockedShot,0.8690000152587891,0.695,0.03506099805235863,Julian Weigl,h,372,FromCorner,2022,RightFoot,19617,Borussia M.Gladbach,Bochum,2,0,2023-05-06 13:30:00,Jonas Hofmann,Pass
+536494,31,SavedShot,0.81,0.3920000076293945,0.03430243581533432,Julian Weigl,h,372,SetPiece,2023,RightFoot,23089,Borussia M.Gladbach,Bayern Munich,1,2,2023-09-02 16:30:00,Alassane Pléa,Pass
+538404,51,BlockedShot,0.785,0.47900001525878905,0.02856331132352352,Julian Weigl,a,372,OpenPlay,2023,RightFoot,23100,Darmstadt,Borussia M.Gladbach,3,3,2023-09-17 15:30:00,,None
+539040,20,MissedShots,0.8230000305175781,0.7519999694824219,0.020665878430008888,Julian Weigl,h,372,OpenPlay,2023,RightFoot,23103,Borussia M.Gladbach,RasenBallsport Leipzig,0,1,2023-09-23 13:30:00,Franck Honorat,Pass
+539041,22,BlockedShot,0.8159999847412109,0.545,0.15953518450260162,Julian Weigl,h,372,DirectFreekick,2023,RightFoot,23103,Borussia M.Gladbach,RasenBallsport Leipzig,0,1,2023-09-23 13:30:00,,Standard
+542247,20,BlockedShot,0.845999984741211,0.3390000152587891,0.052545804530382156,Julian Weigl,h,372,OpenPlay,2023,RightFoot,23119,Borussia M.Gladbach,Mainz 05,2,2,2023-10-06 18:30:00,Rocco Reitz,Pass
+546779,38,Goal,0.885,0.5,0.75777667760849,Julian Weigl,a,372,Penalty,2023,RightFoot,23148,Freiburg,Borussia M.Gladbach,3,3,2023-11-04 14:30:00,,Standard
+549616,24,MissedShots,0.785,0.40200000762939453,0.015795454382896423,Julian Weigl,a,372,FromCorner,2023,RightFoot,23164,Borussia Dortmund,Borussia M.Gladbach,4,2,2023-11-25 14:30:00,,Aerial
+555719,36,MissedShots,0.7240000152587891,0.525,0.021875504404306412,Julian Weigl,a,372,OpenPlay,2023,RightFoot,23203,Eintracht Frankfurt,Borussia M.Gladbach,2,1,2023-12-20 19:30:00,Kouadio Kone,Pass
+564086,19,MissedShots,0.8209999847412109,0.5379999923706055,0.04295993596315384,Julian Weigl,a,372,FromCorner,2023,RightFoot,23254,RasenBallsport Leipzig,Borussia M.Gladbach,2,0,2024-02-17 17:30:00,,None
+565125,29,MissedShots,0.7430000305175781,0.6079999923706054,0.020252402871847153,Julian Weigl,h,372,OpenPlay,2023,RightFoot,23266,Borussia M.Gladbach,Bochum,5,2,2024-02-24 14:30:00,Robin Hack,Pass
+565127,34,Goal,0.885,0.5,0.75777667760849,Julian Weigl,h,372,Penalty,2023,RightFoot,23266,Borussia M.Gladbach,Bochum,5,2,2024-02-24 14:30:00,,Standard
+565139,64,BlockedShot,0.8090000152587891,0.5179999923706055,0.017918793484568596,Julian Weigl,h,372,SetPiece,2023,RightFoot,23266,Borussia M.Gladbach,Bochum,5,2,2024-02-24 14:30:00,,Aerial
+573519,29,BlockedShot,0.8109999847412109,0.32099998474121094,0.02189083769917488,Julian Weigl,h,372,OpenPlay,2023,RightFoot,23321,Borussia M.Gladbach,Borussia Dortmund,1,2,2024-04-13 13:30:00,Stefan Lainer,Pass
+573522,38,MissedShots,0.669000015258789,0.5970000076293945,0.012581128627061844,Julian Weigl,h,372,OpenPlay,2023,RightFoot,23321,Borussia M.Gladbach,Borussia Dortmund,1,2,2024-04-13 13:30:00,Ko Itakura,Pass
+573529,69,BlockedShot,0.7859999847412109,0.3129999923706055,0.021736131981015205,Julian Weigl,h,372,SetPiece,2023,RightFoot,23321,Borussia M.Gladbach,Borussia Dortmund,1,2,2024-04-13 13:30:00,Franck Honorat,Pass
+574896,24,SavedShot,0.885,0.3770000076293945,0.043120723217725754,Julian Weigl,a,372,FromCorner,2023,RightFoot,23332,Hoffenheim,Borussia M.Gladbach,4,3,2024-04-20 13:30:00,Robin Hack,Cross
+578279,42,MissedShots,0.7619999694824219,0.5770000076293945,0.045986421406269073,Julian Weigl,a,372,OpenPlay,2023,RightFoot,23350,Werder Bremen,Borussia M.Gladbach,2,2,2024-05-04 13:30:00,Robin Hack,LayOff
+581667,39,SavedShot,0.8869999694824219,0.5790000152587891,0.29195281863212585,Julian Weigl,a,372,OpenPlay,2023,RightFoot,23369,VfB Stuttgart,Borussia M.Gladbach,4,0,2024-05-18 13:30:00,Kouadio Kone,TakeOn
+581672,48,SavedShot,0.7480000305175781,0.5890000152587891,0.014641489833593369,Julian Weigl,a,372,OpenPlay,2023,RightFoot,23369,VfB Stuttgart,Borussia M.Gladbach,4,0,2024-05-18 13:30:00,Jordan Siebatcheu,Pass
+585721,3,MissedShots,0.7569999694824219,0.4209999847412109,0.020014220848679543,Julian Weigl,h,372,OpenPlay,2024,RightFoot,27742,Borussia M.Gladbach,Bayer Leverkusen,2,3,2024-08-23 18:30:00,,None
+589131,70,SavedShot,0.7380000305175781,0.6719999694824219,0.018164869397878647,Julian Weigl,a,372,OpenPlay,2024,RightFoot,27752,Bochum,Borussia M.Gladbach,0,2,2024-08-31 13:30:00,Luca Netz,Pass
+592679,52,BlockedShot,0.7469999694824219,0.645,0.018239594995975494,Julian Weigl,a,372,OpenPlay,2024,RightFoot,27774,Eintracht Frankfurt,Borussia M.Gladbach,2,0,2024-09-21 16:30:00,Kevin Stöger,Pass
+592680,52,MissedShots,0.9209999847412109,0.57,0.025342129170894623,Julian Weigl,a,372,FromCorner,2024,Head,27774,Eintracht Frankfurt,Borussia M.Gladbach,2,0,2024-09-21 16:30:00,Kevin Stöger,Aerial
+595091,11,MissedShots,0.6869999694824219,0.7280000305175781,0.013319997116923332,Julian Weigl,a,372,FromCorner,2024,RightFoot,27790,Augsburg,Borussia M.Gladbach,2,1,2024-10-04 18:30:00,Luca Netz,Pass
+595108,67,MissedShots,0.865999984741211,0.335,0.039510589092969894,Julian Weigl,a,372,FromCorner,2024,RightFoot,27790,Augsburg,Borussia M.Gladbach,2,1,2024-10-04 18:30:00,,None
+596861,84,MissedShots,0.8119999694824219,0.46,0.07987362891435623,Julian Weigl,h,372,OpenPlay,2024,LeftFoot,27803,Borussia M.Gladbach,FC Heidenheim,3,2,2024-10-19 13:30:00,Tim Kleindienst,LayOff
+598081,92,MissedShots,0.8530000305175781,0.5429999923706055,0.04313149303197861,Julian Weigl,a,372,FromCorner,2024,RightFoot,27810,Mainz 05,Borussia M.Gladbach,1,1,2024-10-25 18:30:00,Kevin Stöger,Cross
+598082,94,SavedShot,0.7709999847412109,0.5379999923706055,0.012670475989580154,Julian Weigl,a,372,SetPiece,2024,RightFoot,27810,Mainz 05,Borussia M.Gladbach,1,1,2024-10-25 18:30:00,,Aerial
+600768,93,SavedShot,0.9019999694824219,0.44799999237060545,0.11982855945825577,Julian Weigl,h,372,OpenPlay,2024,RightFoot,27821,Borussia M.Gladbach,Werder Bremen,4,1,2024-11-03 16:30:00,Tomás Cvancara,HeadPass
+601690,6,BlockedShot,0.725999984741211,0.515,0.017261777073144913,Julian Weigl,a,372,OpenPlay,2024,RightFoot,27824,RasenBallsport Leipzig,Borussia M.Gladbach,0,0,2024-11-09 17:30:00,Franck Honorat,Pass
+604225,75,SavedShot,0.7930000305175782,0.5540000152587891,0.02314469777047634,Julian Weigl,a,372,OpenPlay,2024,RightFoot,27845,Freiburg,Borussia M.Gladbach,3,1,2024-11-30 14:30:00,,Rebound
+606047,62,SavedShot,0.759000015258789,0.4809999847412109,0.02340889535844326,Julian Weigl,h,372,OpenPlay,2024,LeftFoot,27854,Borussia M.Gladbach,Borussia Dortmund,1,1,2024-12-07 17:30:00,Franck Honorat,Pass
+606053,81,MissedShots,0.7719999694824219,0.335,0.020205261185765266,Julian Weigl,h,372,FromCorner,2024,RightFoot,27854,Borussia M.Gladbach,Borussia Dortmund,1,1,2024-12-07 17:30:00,Rocco Reitz,Pass
+612453,91,SavedShot,0.815,0.455,0.04190433397889137,Julian Weigl,a,372,OpenPlay,2024,RightFoot,27895,Bayer Leverkusen,Borussia M.Gladbach,3,1,2025-01-18 17:30:00,,None
+613558,69,BlockedShot,0.8180000305175781,0.49,0.0766330435872078,Julian Weigl,h,372,OpenPlay,2024,RightFoot,27908,Borussia M.Gladbach,Bochum,3,0,2025-01-25 17:30:00,Kevin Stöger,Chipped
+622570,50,MissedShots,0.7569999694824219,0.4570000076293945,0.0321667306125164,Julian Weigl,a,372,OpenPlay,2024,RightFoot,27970,Werder Bremen,Borussia M.Gladbach,2,4,2025-03-15 14:30:00,Alassane Pléa,Pass
+629326,6,MissedShots,0.715999984741211,0.6559999847412109,0.010525787249207497,Julian Weigl,a,372,OpenPlay,2024,RightFoot,28004,Borussia Dortmund,Borussia M.Gladbach,3,2,2025-04-20 15:30:00,,None
+634319,17,MissedShots,0.7809999847412109,0.4929999923706055,0.03571527078747749,Julian Weigl,h,372,OpenPlay,2024,RightFoot,28046,Borussia M.Gladbach,Wolfsburg,0,1,2025-05-17 13:30:00,,None

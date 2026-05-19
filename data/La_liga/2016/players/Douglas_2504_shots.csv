@@ -1,0 +1,16 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+136021,41,BlockedShot,0.8830000305175781,0.37099998474121093,0.10392100363969803,Douglas,a,2504,OpenPlay,2016,RightFoot,1811,Atletico Madrid,Sporting Gijon,5,0,2016-09-17 18:15:00,,TakeOn
+138240,25,BlockedShot,0.740999984741211,0.29399999618530276,0.016579600051045418,Douglas,a,2504,OpenPlay,2016,LeftFoot,2798,Real Madrid,Sporting Gijon,2,1,2016-11-26 19:15:00,Lillo,Pass
+138122,23,MissedShots,0.764000015258789,0.7240000152587891,0.05106550082564354,Douglas,h,2504,DirectFreekick,2016,RightFoot,3169,Sporting Gijon,Osasuna,3,1,2016-12-04 21:30:00,,Standard
+138129,55,Goal,0.889000015258789,0.375,0.3495959937572479,Douglas,h,2504,OpenPlay,2016,RightFoot,3169,Sporting Gijon,Osasuna,3,1,2016-12-04 21:30:00,Moi Gómez,Pass
+138436,2,SavedShot,0.720999984741211,0.515,0.015746600925922394,Douglas,a,2504,OpenPlay,2016,LeftFoot,3180,Espanyol,Sporting Gijon,2,1,2016-12-11 21:30:00,,BallRecovery
+138451,56,BlockedShot,0.87,0.28,0.02977290004491806,Douglas,a,2504,OpenPlay,2016,LeftFoot,3180,Espanyol,Sporting Gijon,2,1,2016-12-11 21:30:00,Moi Gómez,Pass
+140576,27,BlockedShot,0.88,0.2620000076293945,0.0144597003236413,Douglas,h,2504,OpenPlay,2016,RightFoot,3900,Sporting Gijon,Eibar,2,3,2017-01-15 21:30:00,Carlos Carmona,HeadPass
+140713,18,MissedShots,0.8119999694824219,0.3770000076293945,0.0399227999150753,Douglas,h,2504,OpenPlay,2016,LeftFoot,3961,Sporting Gijon,Celta Vigo,1,1,2017-02-26 17:30:00,Carlos Carmona,TakeOn
+140721,36,BlockedShot,0.7669999694824219,0.7290000152587891,0.051300298422575,Douglas,h,2504,DirectFreekick,2016,RightFoot,3961,Sporting Gijon,Celta Vigo,1,1,2017-02-26 17:30:00,,Standard
+142308,67,BlockedShot,0.740999984741211,0.40200000762939453,0.012353000231087208,Douglas,a,2504,SetPiece,2016,RightFoot,4049,Osasuna,Sporting Gijon,2,2,2017-04-22 17:30:00,,None
+142316,91,BlockedShot,0.8069999694824219,0.7169999694824218,0.07419820129871368,Douglas,a,2504,DirectFreekick,2016,RightFoot,4049,Osasuna,Sporting Gijon,2,2,2017-04-22 17:30:00,,Standard
+143669,72,Goal,0.8590000152587891,0.3370000076293945,0.05268879979848862,Douglas,a,2504,OpenPlay,2016,RightFoot,4070,Villarreal,Sporting Gijon,3,1,2017-04-28 19:45:00,Víctor Rodríguez,Pass
+143675,91,SavedShot,0.7869999694824219,0.2879999923706055,0.01865060068666935,Douglas,a,2504,OpenPlay,2016,LeftFoot,4070,Villarreal,Sporting Gijon,3,1,2017-04-28 19:45:00,Moi Gómez,TakeOn
+144027,9,BlockedShot,0.7969999694824219,0.44299999237060544,0.04093709960579872,Douglas,h,2504,OpenPlay,2016,RightFoot,4080,Sporting Gijon,Las Palmas,1,0,2017-05-06 12:00:00,,None
+143677,6,Goal,0.8130000305175781,0.485,0.0781463012099266,Douglas,h,2504,OpenPlay,2016,LeftFoot,4102,Sporting Gijon,Real Betis,2,2,2017-05-20 16:00:00,Carlos Carmona,TakeOn

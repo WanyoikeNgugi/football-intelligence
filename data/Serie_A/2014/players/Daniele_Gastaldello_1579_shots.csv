@@ -1,0 +1,19 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+41523,10,MissedShots,0.8590000152587891,0.5640000152587891,0.008777610026299953,Daniele Gastaldello,a,1579,SetPiece,2014,Head,5153,Palermo,Sampdoria,1,1,2014-08-31 19:45:00,Roberto Soriano,Aerial
+41536,82,MissedShots,0.884000015258789,0.4470000076293945,0.03044169954955578,Daniele Gastaldello,a,1579,FromCorner,2014,Head,5153,Palermo,Sampdoria,1,1,2014-08-31 19:45:00,Nenad Krsticic,Cross
+41537,90,Goal,0.9330000305175781,0.4370000076293945,0.4273799955844879,Daniele Gastaldello,a,1579,FromCorner,2014,LeftFoot,5153,Palermo,Sampdoria,1,1,2014-08-31 19:45:00,Lorenzo De Silvestri,HeadPass
+42434,44,Goal,0.915,0.4779999923706055,0.347012996673584,Daniele Gastaldello,h,1579,FromCorner,2014,LeftFoot,5137,Sampdoria,Chievo,2,1,2014-09-24 19:45:00,Alessio Romagnoli,Chipped
+45191,36,SavedShot,0.9369999694824219,0.5829999923706055,0.03787120059132576,Daniele Gastaldello,a,1579,FromCorner,2014,Head,5012,Juventus,Sampdoria,1,1,2014-12-14 11:30:00,,Rebound
+96791,88,MissedShots,0.7719999694824219,0.325,0.010706700384616852,Daniele Gastaldello,h,1579,OpenPlay,2015,RightFoot,623,Bologna,Palermo,0,1,2015-10-18 14:30:00,,Aerial
+97252,46,Goal,0.9390000152587891,0.49900001525878906,0.5668460130691528,Daniele Gastaldello,a,1579,FromCorner,2015,RightFoot,632,Carpi,Bologna,1,2,2015-10-24 20:00:00,,Rebound
+99232,28,BlockedShot,0.874000015258789,0.41200000762939454,0.06814060360193253,Daniele Gastaldello,h,1579,SetPiece,2015,RightFoot,671,Bologna,Roma,2,2,2015-11-21 21:00:00,,None
+99988,88,MissedShots,0.8980000305175782,0.4370000076293945,0.020809000357985497,Daniele Gastaldello,a,1579,SetPiece,2015,Head,681,Torino,Bologna,2,0,2015-11-28 21:00:00,Franco Brienza,Aerial
+102382,69,SavedShot,0.9409999847412109,0.5170000076293946,0.0706716999411583,Daniele Gastaldello,h,1579,FromCorner,2015,Head,735,Bologna,Chievo,0,1,2016-01-10 18:00:00,Filippo Falco,Aerial
+97509,82,ShotOnPost,0.9309999847412109,0.3559999847412109,0.06622129678726196,Daniele Gastaldello,h,1579,SetPiece,2015,LeftFoot,828,Bologna,Carpi,0,0,2016-03-06 18:00:00,,None
+98469,8,MissedShots,0.8640000152587891,0.445,0.01658869907259941,Daniele Gastaldello,a,1579,FromCorner,2015,Head,843,Atalanta,Bologna,2,0,2016-03-20 15:30:00,Franco Brienza,Cross
+102230,64,MissedShots,0.924000015258789,0.5120000076293946,0.3390290141105652,Daniele Gastaldello,h,1579,FromCorner,2015,Head,912,Bologna,AC Milan,0,1,2016-05-07 22:45:00,Emanuele Giaccherini,Cross
+151331,26,MissedShots,0.915,0.5870000076293945,0.04619130119681358,Daniele Gastaldello,h,1579,FromCorner,2016,Head,2772,Bologna,Atalanta,0,2,2016-11-27 18:00:00,Federico Viviani,Cross
+152302,21,MissedShots,0.745999984741211,0.500999984741211,0.021358199417591095,Daniele Gastaldello,h,1579,OpenPlay,2016,LeftFoot,3082,Bologna,Empoli,0,0,2016-12-11 18:00:00,,Interception
+152980,83,MissedShots,0.93,0.5279999923706055,0.41379600763320923,Daniele Gastaldello,a,1579,SetPiece,2016,Head,3093,Pescara,Bologna,0,3,2016-12-18 18:00:00,Federico Viviani,Cross
+150601,63,SavedShot,0.895,0.40900001525878904,0.02525779977440834,Daniele Gastaldello,h,1579,FromCorner,2016,Head,3649,Bologna,Roma,0,3,2017-04-09 14:00:00,Ladislav Krejci,Cross
+373416,62,BlockedShot,0.8809999847412109,0.6309999847412109,0.053210701793432236,Daniele Gastaldello,a,1579,OpenPlay,2019,LeftFoot,13432,Lecce,Brescia,3,1,2020-07-22 19:45:00,,None

@@ -1,0 +1,74 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+24412,89,Goal,0.865,0.4159999847412109,0.34871798753738403,Christoph Kramer,h,187,OpenPlay,2014,RightFoot,5455,Borussia M.Gladbach,VfB Stuttgart,1,1,2014-08-24 16:30:00,Álvaro Domínguez,Pass
+24877,29,BlockedShot,0.8780000305175781,0.66,0.07347050309181213,Christoph Kramer,h,187,OpenPlay,2014,RightFoot,5417,Borussia M.Gladbach,Schalke 04,4,1,2014-09-13 17:30:00,Oscar Wendt,Pass
+25708,54,MissedShots,0.4570000076293945,0.41700000762939454,0.008796310052275658,Christoph Kramer,a,187,OpenPlay,2014,RightFoot,5443,Paderborn,Borussia M.Gladbach,1,2,2014-09-27 14:30:00,,None
+26708,57,OwnGoal,0.44400001525878907,0.4520000076293945,0,Christoph Kramer,a,187,OpenPlay,2014,RightFoot,5364,Borussia Dortmund,Borussia M.Gladbach,1,0,2014-11-09 16:30:00,,None
+27584,90,BlockedShot,0.9,0.2610000038146973,0.025629200041294098,Christoph Kramer,a,187,FromCorner,2014,RightFoot,5381,Wolfsburg,Borussia M.Gladbach,1,0,2014-11-30 14:30:00,Ibrahima Traoré,Chipped
+27724,63,Goal,0.9159999847412109,0.48,0.347665011882782,Christoph Kramer,h,187,OpenPlay,2014,Head,5336,Borussia M.Gladbach,Werder Bremen,4,1,2014-12-17 19:00:00,Max Kruse,Chipped
+29577,69,MissedShots,0.695,0.2879999923706055,0.01107999961823225,Christoph Kramer,a,187,OpenPlay,2014,RightFoot,5296,Hamburger SV,Borussia M.Gladbach,1,1,2015-02-22 14:30:00,Julian Korb,Pass
+30972,26,BlockedShot,0.955999984741211,0.27899999618530275,0.05255600064992905,Christoph Kramer,h,187,OpenPlay,2014,RightFoot,5250,Borussia M.Gladbach,Hannover 96,2,0,2015-03-15 16:30:00,Patrick Herrmann,Pass
+29550,54,SavedShot,0.875,0.43900001525878907,0.019414400681853294,Christoph Kramer,h,187,OpenPlay,2014,Head,5230,Borussia M.Gladbach,Wolfsburg,1,0,2015-04-26 16:30:00,Julian Korb,Rebound
+31008,36,SavedShot,0.935,0.48,0.10982199758291245,Christoph Kramer,a,187,OpenPlay,2014,LeftFoot,5167,Hertha Berlin,Borussia M.Gladbach,1,2,2015-05-03 16:30:00,,None
+31501,25,MissedShots,0.894000015258789,0.3189999961853027,0.03478899970650673,Christoph Kramer,h,187,FromCorner,2014,RightFoot,5171,Borussia M.Gladbach,Bayer Leverkusen,3,0,2015-05-09 14:30:00,Max Kruse,Cross
+31518,80,SavedShot,0.8009999847412109,0.6659999847412109,0.02423880062997341,Christoph Kramer,h,187,SetPiece,2014,RightFoot,5171,Borussia M.Gladbach,Bayer Leverkusen,3,0,2015-05-09 14:30:00,Raffael,Pass
+76451,76,BlockedShot,0.875,0.5970000076293945,0.09986189752817154,Christoph Kramer,a,187,OpenPlay,2015,RightFoot,1035,Hannover 96,Bayer Leverkusen,0,1,2015-08-22 17:30:00,Hakan Calhanoglu,BlockedPass
+77286,88,SavedShot,0.8080000305175781,0.585,0.05009499937295914,Christoph Kramer,h,187,OpenPlay,2015,RightFoot,1072,Bayer Leverkusen,Mainz 05,1,0,2015-09-23 22:00:00,Admir Mehmedi,Pass
+77753,43,SavedShot,0.7769999694824219,0.5459999847412109,0.03164840117096901,Christoph Kramer,h,187,OpenPlay,2015,RightFoot,1091,Bayer Leverkusen,Augsburg,1,1,2015-10-04 19:30:00,Kevin Kampl,Pass
+77986,27,BlockedShot,0.8009999847412109,0.6519999694824219,0.013390200212597847,Christoph Kramer,a,187,FromCorner,2015,RightFoot,1098,Hamburger SV,Bayer Leverkusen,0,0,2015-10-17 17:30:00,Jonathan Tah,HeadPass
+78433,56,BlockedShot,0.86,0.555,0.0986625999212265,Christoph Kramer,a,187,OpenPlay,2015,LeftFoot,1117,Wolfsburg,Bayer Leverkusen,2,1,2015-10-31 21:30:00,Chicharito,Pass
+79031,63,SavedShot,0.8719999694824219,0.27399999618530274,0.04485870152711868,Christoph Kramer,a,187,OpenPlay,2015,RightFoot,1131,Eintracht Frankfurt,Bayer Leverkusen,1,3,2015-11-21 18:30:00,Hakan Calhanoglu,Chipped
+79157,33,BlockedShot,0.9380000305175781,0.37,0.07737740129232407,Christoph Kramer,h,187,OpenPlay,2015,RightFoot,1145,Bayer Leverkusen,Schalke 04,1,1,2015-11-29 20:30:00,,None
+80551,61,BlockedShot,0.8809999847412109,0.34900001525878904,0.08755479753017426,Christoph Kramer,h,187,OpenPlay,2015,LeftFoot,1198,Bayer Leverkusen,Bayern Munich,0,0,2016-02-06 21:30:00,Karim Bellarabi,TakeOn
+83338,41,BlockedShot,0.9230000305175782,0.35700000762939454,0.01108389999717474,Christoph Kramer,h,187,FromCorner,2015,Head,1307,Bayer Leverkusen,Hertha Berlin,2,1,2016-04-30 20:30:00,Charles Aránguiz,Aerial
+129792,7,BlockedShot,0.9569999694824218,0.3840000152587891,0.0336075983941555,Christoph Kramer,h,187,FromCorner,2016,Head,3299,Borussia M.Gladbach,Eintracht Frankfurt,0,0,2016-10-28 22:30:00,Oscar Wendt,Cross
+130837,64,MissedShots,0.784000015258789,0.34599998474121096,0.02251189947128296,Christoph Kramer,a,187,OpenPlay,2016,RightFoot,3727,Darmstadt,Borussia M.Gladbach,0,0,2017-01-21 17:30:00,,None
+167123,81,BlockedShot,0.7040000152587891,0.5479999923706055,0.011233899742364883,Christoph Kramer,h,187,OpenPlay,2017,RightFoot,8315,Borussia M.Gladbach,Hannover 96,2,1,2017-09-30 14:30:00,,None
+167131,91,BlockedShot,0.8969999694824219,0.69,0.050839100033044815,Christoph Kramer,h,187,OpenPlay,2017,LeftFoot,8315,Borussia M.Gladbach,Hannover 96,2,1,2017-09-30 14:30:00,Vincenzo Grifo,Pass
+167738,41,MissedShots,0.88,0.5609999847412109,0.1318269968032837,Christoph Kramer,a,187,OpenPlay,2017,RightFoot,8326,Werder Bremen,Borussia M.Gladbach,0,2,2017-10-15 17:00:00,Fabian Johnson,Pass
+179695,23,Goal,0.9890000152587891,0.5609999847412109,0.5822190046310425,Christoph Kramer,h,187,FromCorner,2017,RightFoot,8390,Borussia M.Gladbach,Schalke 04,1,1,2017-12-09 17:30:00,Matthias Ginter,None
+187858,17,MissedShots,0.98,0.39599998474121095,0.08862960338592529,Christoph Kramer,a,187,FromCorner,2017,RightFoot,8414,FC Cologne,Borussia M.Gladbach,2,1,2018-01-14 14:30:00,Nico Elvedi,Rebound
+194765,42,BlockedShot,0.8130000305175781,0.40200000762939453,0.03846900165081024,Christoph Kramer,h,187,SetPiece,2017,LeftFoot,8441,Borussia M.Gladbach,RasenBallsport Leipzig,0,1,2018-02-03 17:30:00,Tony Jantschke,Pass
+195145,91,BlockedShot,0.815,0.34700000762939454,0.03804070129990578,Christoph Kramer,a,187,OpenPlay,2017,RightFoot,8450,VfB Stuttgart,Borussia M.Gladbach,1,0,2018-02-11 14:30:00,Raúl Bobadilla,Pass
+197229,64,SavedShot,0.950999984741211,0.41900001525878905,0.4256350100040436,Christoph Kramer,a,187,OpenPlay,2017,LeftFoot,8472,Hannover 96,Borussia M.Gladbach,0,1,2018-02-24 14:30:00,,TakeOn
+197232,71,Goal,0.7809999847412109,0.534000015258789,0.0348660983145237,Christoph Kramer,a,187,OpenPlay,2017,LeftFoot,8472,Hannover 96,Borussia M.Gladbach,0,1,2018-02-24 14:30:00,Lars Stindl,Pass
+197238,80,BlockedShot,0.8680000305175781,0.49700000762939456,0.07548409700393677,Christoph Kramer,a,187,FromCorner,2017,RightFoot,8472,Hannover 96,Borussia M.Gladbach,0,1,2018-02-24 14:30:00,,None
+210156,43,Goal,0.7930000305175782,0.39599998474121095,0.1000019982457161,Christoph Kramer,h,187,DirectFreekick,2017,RightFoot,8532,Borussia M.Gladbach,Wolfsburg,3,0,2018-04-20 18:30:00,,Standard
+211608,34,BlockedShot,0.8519999694824218,0.4909999847412109,0.09658169746398926,Christoph Kramer,a,187,OpenPlay,2017,RightFoot,8543,Schalke 04,Borussia M.Gladbach,1,1,2018-04-28 13:30:00,Lars Stindl,HeadPass
+257679,45,Goal,0.9640000152587891,0.545,0.4770210087299347,Christoph Kramer,a,187,OpenPlay,2018,LeftFoot,10483,Borussia Dortmund,Borussia M.Gladbach,2,1,2018-12-21 19:30:00,,BallTouch
+278894,84,Goal,0.8209999847412109,0.505,0.06475470215082169,Christoph Kramer,a,187,OpenPlay,2018,LeftFoot,10516,Schalke 04,Borussia M.Gladbach,0,2,2019-02-02 17:30:00,Thorgan Hazard,Pass
+279309,56,BlockedShot,0.9819999694824219,0.33299999237060546,0.03325219824910164,Christoph Kramer,a,187,FromCorner,2018,RightFoot,10529,Eintracht Frankfurt,Borussia M.Gladbach,1,1,2019-02-17 14:30:00,Thorgan Hazard,Cross
+279396,70,BlockedShot,0.8580000305175781,0.34599998474121096,0.04242509976029396,Christoph Kramer,h,187,OpenPlay,2018,RightFoot,10538,Borussia M.Gladbach,Wolfsburg,0,3,2019-02-23 14:30:00,,None
+293479,43,BlockedShot,0.9030000305175782,0.3579999923706055,0.0487372986972332,Christoph Kramer,a,187,FromCorner,2018,RightFoot,10595,Hannover 96,Borussia M.Gladbach,0,1,2019-04-13 14:30:00,Raffael,Pass
+293488,60,SavedShot,0.845,0.40299999237060546,0.04650010168552399,Christoph Kramer,a,187,FromCorner,2018,RightFoot,10595,Hannover 96,Borussia M.Gladbach,0,1,2019-04-13 14:30:00,Raffael,Pass
+293491,79,MissedShots,0.7819999694824219,0.53,0.041771598160266876,Christoph Kramer,a,187,OpenPlay,2018,RightFoot,10595,Hannover 96,Borussia M.Gladbach,0,1,2019-04-13 14:30:00,Patrick Herrmann,Pass
+300623,28,MissedShots,0.7919999694824219,0.53,0.029284000396728516,Christoph Kramer,a,187,OpenPlay,2018,RightFoot,10633,Nuernberg,Borussia M.Gladbach,0,4,2019-05-11 14:30:00,,Rebound
+317161,30,BlockedShot,0.850999984741211,0.46599998474121096,0.11513599753379822,Christoph Kramer,a,187,OpenPlay,2019,LeftFoot,12433,FC Cologne,Borussia M.Gladbach,0,1,2019-09-14 13:30:00,Marcus Thuram,LayOff
+325853,75,MissedShots,0.8830000305175781,0.3390000152587891,0.023509200662374496,Christoph Kramer,a,187,SetPiece,2019,RightFoot,12469,Borussia Dortmund,Borussia M.Gladbach,1,0,2019-10-19 17:30:00,Florian Neuhaus,Cross
+325854,80,MissedShots,0.7959999847412109,0.3,0.014071200042963028,Christoph Kramer,a,187,FromCorner,2019,RightFoot,12469,Borussia Dortmund,Borussia M.Gladbach,1,0,2019-10-19 17:30:00,,Aerial
+331165,9,BlockedShot,0.750999984741211,0.6780000305175782,0.013033700175583363,Christoph Kramer,h,187,OpenPlay,2019,RightFoot,12500,Borussia M.Gladbach,Werder Bremen,3,1,2019-11-10 12:30:00,,None
+338799,60,MissedShots,0.91,0.52,0.05805119872093201,Christoph Kramer,a,187,OpenPlay,2019,Head,12551,Hertha Berlin,Borussia M.Gladbach,0,0,2019-12-21 17:30:00,Alassane Pléa,Aerial
+355655,15,MissedShots,0.7319999694824219,0.4640000152587891,0.01553760003298521,Christoph Kramer,h,187,OpenPlay,2019,RightFoot,12568,Borussia M.Gladbach,Mainz 05,3,1,2020-01-25 14:30:00,Patrick Herrmann,BallTouch
+362643,48,BlockedShot,0.76,0.33299999237060546,0.015505700372159481,Christoph Kramer,h,187,FromCorner,2019,RightFoot,12585,Borussia M.Gladbach,FC Cologne,2,1,2020-03-11 17:30:00,,None
+362646,51,BlockedShot,0.749000015258789,0.415,0.01664840057492256,Christoph Kramer,h,187,FromCorner,2019,LeftFoot,12585,Borussia M.Gladbach,FC Cologne,2,1,2020-03-11 17:30:00,,None
+365429,35,MissedShots,0.7140000152587891,0.620999984741211,0.013107599690556526,Christoph Kramer,a,187,FromCorner,2019,RightFoot,12699,Paderborn,Borussia M.Gladbach,1,3,2020-06-20 13:30:00,,None
+365433,46,MissedShots,0.7930000305175782,0.629000015258789,0.036663200706243515,Christoph Kramer,a,187,OpenPlay,2019,LeftFoot,12699,Paderborn,Borussia M.Gladbach,1,3,2020-06-20 13:30:00,Jonas Hofmann,Pass
+383180,50,MissedShots,0.8280000305175781,0.625,0.04211660102009773,Christoph Kramer,a,187,OpenPlay,2020,RightFoot,15178,Mainz 05,Borussia M.Gladbach,2,3,2020-10-24 13:30:00,,Rebound
+392551,1,BlockedShot,0.7040000152587891,0.4329999923706055,0.009391359984874725,Christoph Kramer,a,187,SetPiece,2020,RightFoot,15247,Eintracht Frankfurt,Borussia M.Gladbach,3,3,2020-12-15 17:30:00,,None
+392562,62,MissedShots,0.8319999694824218,0.40700000762939453,0.04446160048246384,Christoph Kramer,a,187,OpenPlay,2020,LeftFoot,15247,Eintracht Frankfurt,Borussia M.Gladbach,3,3,2020-12-15 17:30:00,,None
+396357,14,MissedShots,0.7340000152587891,0.7580000305175781,0.011315099895000458,Christoph Kramer,a,187,OpenPlay,2020,RightFoot,15264,Arminia Bielefeld,Borussia M.Gladbach,0,1,2021-01-02 14:30:00,Patrick Herrmann,Pass
+404909,46,SavedShot,0.8080000305175781,0.5270000076293946,0.05521539971232414,Christoph Kramer,a,187,OpenPlay,2020,RightFoot,15324,Wolfsburg,Borussia M.Gladbach,0,0,2021-02-14 17:00:00,Alassane Pléa,BallTouch
+404917,70,MissedShots,0.5670000076293945,0.6619999694824219,0.007869680412113667,Christoph Kramer,a,187,OpenPlay,2020,RightFoot,15324,Wolfsburg,Borussia M.Gladbach,0,0,2021-02-14 17:00:00,,BallRecovery
+411496,6,BlockedShot,0.9069999694824219,0.26600000381469724,0.04178470000624657,Christoph Kramer,a,187,OpenPlay,2020,LeftFoot,15370,Schalke 04,Borussia M.Gladbach,0,3,2021-03-20 17:30:00,Jonas Hofmann,Pass
+411512,60,MissedShots,0.7090000152587891,0.46,0.015914399176836014,Christoph Kramer,a,187,OpenPlay,2020,RightFoot,15370,Schalke 04,Borussia M.Gladbach,0,3,2021-03-20 17:30:00,,None
+412784,43,MissedShots,0.799000015258789,0.32299999237060545,0.023423699662089348,Christoph Kramer,h,187,OpenPlay,2020,RightFoot,15376,Borussia M.Gladbach,Freiburg,2,1,2021-04-03 18:30:00,Hannes Wolf,Pass
+413804,9,BlockedShot,0.750999984741211,0.6179999923706054,0.017595499753952026,Christoph Kramer,a,187,OpenPlay,2020,RightFoot,15386,Hertha Berlin,Borussia M.Gladbach,2,2,2021-04-10 13:30:00,Alassane Pléa,Pass
+434792,68,BlockedShot,0.8480000305175781,0.5770000076293945,0.058824799954891205,Christoph Kramer,a,187,SetPiece,2021,LeftFoot,17575,Wolfsburg,Borussia M.Gladbach,1,3,2021-10-02 13:30:00,,Rebound
+448965,77,BlockedShot,0.855999984741211,0.5270000076293946,0.08232469856739044,Christoph Kramer,h,187,OpenPlay,2021,RightFoot,17655,Borussia M.Gladbach,Eintracht Frankfurt,2,3,2021-12-15 17:30:00,Alassane Pléa,Pass
+448966,78,SavedShot,0.9269999694824219,0.5420000076293945,0.3550809919834137,Christoph Kramer,h,187,OpenPlay,2021,Head,17655,Borussia M.Gladbach,Eintracht Frankfurt,2,3,2021-12-15 17:30:00,Matthias Ginter,Aerial
+486712,19,BlockedShot,0.6680000305175782,0.629000015258789,0.010565100237727165,Christoph Kramer,h,187,OpenPlay,2022,RightFoot,19386,Borussia M.Gladbach,Mainz 05,0,1,2022-09-04 15:30:00,,BallRecovery
+490321,17,BlockedShot,0.860999984741211,0.4159999847412109,0.06012770161032677,Christoph Kramer,a,187,FromCorner,2022,LeftFoot,19413,Werder Bremen,Borussia M.Gladbach,5,1,2022-10-01 16:30:00,Nico Elvedi,None
+490322,17,MissedShots,0.9080000305175782,0.43099998474121093,0.24055899679660797,Christoph Kramer,a,187,FromCorner,2022,RightFoot,19413,Werder Bremen,Borussia M.Gladbach,5,1,2022-10-01 16:30:00,Lars Stindl,Chipped
+497646,9,BlockedShot,0.8019999694824219,0.5940000152587891,0.045256998389959335,Christoph Kramer,h,187,OpenPlay,2022,RightFoot,19453,Borussia M.Gladbach,VfB Stuttgart,3,1,2022-11-04 18:30:00,,Rebound
+507358,43,BlockedShot,0.8859999847412109,0.3509999847412109,0.06183629855513573,Christoph Kramer,h,187,FromCorner,2022,LeftFoot,19507,Borussia M.Gladbach,Schalke 04,0,0,2023-02-04 17:30:00,,Rebound
+518672,90,SavedShot,0.6890000152587891,0.4909999847412109,0.013765900395810604,Christoph Kramer,h,187,OpenPlay,2022,RightFoot,19581,Borussia M.Gladbach,Wolfsburg,2,0,2023-04-09 13:30:00,,BallRecovery
+549640,94,MissedShots,0.86,0.5429999923706055,0.06965158134698868,Christoph Kramer,a,187,OpenPlay,2023,RightFoot,23164,Borussia Dortmund,Borussia M.Gladbach,4,2,2023-11-25 14:30:00,,Rebound

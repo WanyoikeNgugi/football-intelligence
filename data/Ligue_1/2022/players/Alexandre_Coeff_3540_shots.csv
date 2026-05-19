@@ -1,0 +1,11 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+62203,89,BlockedShot,0.7140000152587891,0.5279999923706055,0.013821199536323547,Alexandre Coeff,a,3540,FromCorner,2015,LeftFoot,1924,Guingamp,GFC Ajaccio,2,1,2015-09-19 22:00:00,,None
+63331,67,SavedShot,0.759000015258789,0.29100000381469726,0.020730599761009216,Alexandre Coeff,a,3540,FromCorner,2015,RightFoot,1943,Caen,GFC Ajaccio,2,0,2015-09-26 22:00:00,Mohamed Larbi,Pass
+63644,26,MissedShots,0.7169999694824218,0.3529999923706055,0.012975900433957577,Alexandre Coeff,h,3540,OpenPlay,2015,RightFoot,1971,GFC Ajaccio,Nice,3,1,2015-10-24 22:00:00,Amos Youga,Dispossessed
+64724,44,BlockedShot,0.779000015258789,0.27399999618530274,0.01480070035904646,Alexandre Coeff,a,3540,FromCorner,2015,RightFoot,2005,SC Bastia,GFC Ajaccio,1,2,2015-11-22 17:00:00,,None
+64926,45,SavedShot,0.6719999694824219,0.33299999237060546,0.00964147038757801,Alexandre Coeff,a,3540,OpenPlay,2015,RightFoot,2024,Montpellier,GFC Ajaccio,0,2,2015-12-02 22:00:00,Amos Youga,Pass
+65793,24,MissedShots,0.735,0.28899999618530275,0.016628600656986237,Alexandre Coeff,a,3540,OpenPlay,2015,RightFoot,2065,Monaco,GFC Ajaccio,2,2,2016-01-09 23:00:00,David Ducourtioux,BallTouch
+69916,46,MissedShots,0.899000015258789,0.45599998474121095,0.08559960126876831,Alexandre Coeff,a,3540,SetPiece,2015,Head,2132,Toulouse,GFC Ajaccio,1,1,2016-02-20 23:00:00,Damjan Djokovic,Cross
+68547,88,MissedShots,0.825,0.55,0.056407198309898376,Alexandre Coeff,a,3540,SetPiece,2015,LeftFoot,2226,Lyon,GFC Ajaccio,2,1,2016-04-30 23:00:00,,Dispossessed
+67872,62,BlockedShot,0.835999984741211,0.525,0.05270259827375412,Alexandre Coeff,h,3540,FromCorner,2015,LeftFoot,2232,GFC Ajaccio,Paris Saint Germain,0,4,2016-05-07 23:00:00,,None
+492070,91,MissedShots,0.94,0.45799999237060546,0.12301500141620636,Alexandre Coeff,a,3540,FromCorner,2022,Head,19739,Clermont Foot,Auxerre,2,1,2022-10-09 13:00:00,Rayan Raveloson,Cross

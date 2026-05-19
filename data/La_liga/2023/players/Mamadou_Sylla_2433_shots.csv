@@ -1,0 +1,51 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+86845,82,MissedShots,0.9630000305175781,0.5729999923706055,0.12570400536060333,Mamadou Sylla,a,2433,OpenPlay,2015,RightFoot,1479,Rayo Vallecano,Espanyol,3,0,2015-10-23 22:30:00,Burgui,Pass
+88312,84,BlockedShot,0.764000015258789,0.524000015258789,0.03657060116529465,Mamadou Sylla,a,2433,OpenPlay,2015,RightFoot,1521,Atletico Madrid,Espanyol,1,0,2015-11-28 21:15:00,Marco Asensio,HeadPass
+89420,36,BlockedShot,0.8930000305175781,0.37400001525878906,0.043146900832653046,Mamadou Sylla,a,2433,OpenPlay,2015,RightFoot,1616,Real Madrid,Espanyol,6,0,2016-01-31 23:30:00,Hernán Pérez,Cross
+89436,74,BlockedShot,0.874000015258789,0.38,0.08270219713449478,Mamadou Sylla,a,2433,OpenPlay,2015,RightFoot,1616,Real Madrid,Espanyol,6,0,2016-01-31 23:30:00,Hernán Pérez,Pass
+89683,4,MissedShots,0.980999984741211,0.4209999847412109,0.3690029978752136,Mamadou Sylla,a,2433,OpenPlay,2015,Head,1631,Valencia,Espanyol,2,1,2016-02-13 23:30:00,,Rebound
+91244,80,SavedShot,0.9209999847412109,0.485,0.11398500204086304,Mamadou Sylla,a,2433,OpenPlay,2015,Head,1688,Granada,Espanyol,1,1,2016-03-14 23:30:00,Hernán Pérez,Cross
+91052,94,ShotOnPost,0.9030000305175782,0.6780000305175782,0.13532699644565582,Mamadou Sylla,h,2433,OpenPlay,2015,LeftFoot,1695,Espanyol,Athletic Club,2,1,2016-03-20 15:00:00,Abraham,TakeOn
+91775,89,MissedShots,0.925,0.3120000076293945,0.02532700076699257,Mamadou Sylla,h,2433,OpenPlay,2015,Head,1711,Espanyol,Atletico Madrid,1,3,2016-04-09 20:15:00,Gerard Moreno,HeadPass
+360515,7,MissedShots,0.7269999694824218,0.4929999923706055,0.01652519963681698,Mamadou Sylla,a,2433,OpenPlay,2019,RightFoot,11182,Krylya Sovetov Samara,FC Orenburg,1,1,2020-02-28 15:30:00,Islambek Kuat,BallRecovery
+360525,52,BlockedShot,0.855,0.45,0.059754498302936554,Mamadou Sylla,a,2433,FromCorner,2019,LeftFoot,11182,Krylya Sovetov Samara,FC Orenburg,1,1,2020-02-28 15:30:00,Andrey Malykh,None
+362624,74,SavedShot,0.8080000305175781,0.5670000076293945,0.054900798946619034,Mamadou Sylla,a,2433,OpenPlay,2019,RightFoot,11160,PFC Sochi,FC Orenburg,5,1,2020-03-11 16:30:00,Joel Fameyeh,Pass
+362627,81,SavedShot,0.905,0.66,0.08107840269804001,Mamadou Sylla,a,2433,OpenPlay,2019,RightFoot,11160,PFC Sochi,FC Orenburg,5,1,2020-03-11 16:30:00,Andrea Chukanov,Pass
+362628,83,BlockedShot,0.9169999694824219,0.5790000152587891,0.07731889933347702,Mamadou Sylla,a,2433,OpenPlay,2019,RightFoot,11160,PFC Sochi,FC Orenburg,5,1,2020-03-11 16:30:00,,None
+365774,46,SavedShot,0.914000015258789,0.42400001525878905,0.04827350005507469,Mamadou Sylla,a,2433,FromCorner,2019,Head,11201,Lokomotiv Moscow,FC Orenburg,1,0,2020-06-21 14:30:00,Ricardo Alves,Cross
+365785,85,MissedShots,0.93,0.26799999237060546,0.06656140089035034,Mamadou Sylla,a,2433,OpenPlay,2019,RightFoot,11201,Lokomotiv Moscow,FC Orenburg,1,0,2020-06-21 14:30:00,Joel Fameyeh,Pass
+434579,32,BlockedShot,0.889000015258789,0.4209999847412109,0.04671910032629967,Mamadou Sylla,a,2433,OpenPlay,2021,Head,17211,Athletic Club,Alaves,1,0,2021-10-01 19:00:00,Martín Aguirregabiria,Cross
+445889,88,MissedShots,0.9540000152587891,0.46900001525878904,0.1366180032491684,Mamadou Sylla,a,2433,OpenPlay,2021,RightFoot,17290,Granada,Alaves,2,1,2021-12-03 20:00:00,Joselu,Pass
+455888,1,MissedShots,0.92,0.46099998474121096,0.12976500391960144,Mamadou Sylla,a,2433,OpenPlay,2021,Head,17359,Celta Vigo,Rayo Vallecano,2,0,2022-02-05 17:30:00,Álvaro García,Cross
+455895,35,MissedShots,0.8959999847412109,0.5329999923706055,0.07419990003108978,Mamadou Sylla,a,2433,OpenPlay,2021,Head,17359,Celta Vigo,Rayo Vallecano,2,0,2022-02-05 17:30:00,Iván Balliu,Cross
+458039,95,MissedShots,0.7919999694824219,0.2979999923706055,0.07040499895811081,Mamadou Sylla,a,2433,DirectFreekick,2021,RightFoot,17385,Elche,Rayo Vallecano,2,1,2022-02-18 20:00:00,,Standard
+461507,81,MissedShots,0.914000015258789,0.5220000076293946,0.12107700109481812,Mamadou Sylla,a,2433,SetPiece,2021,Head,17400,Cadiz,Rayo Vallecano,2,0,2022-03-06 13:00:00,Bebé,Cross
+464238,89,MissedShots,0.909000015258789,0.5179999923706055,0.0894642025232315,Mamadou Sylla,h,2433,FromCorner,2021,Head,17424,Rayo Vallecano,Atletico Madrid,0,1,2022-03-19 20:00:00,Isi Palazón,Cross
+464239,91,MissedShots,0.8859999847412109,0.39799999237060546,0.011003299616277218,Mamadou Sylla,h,2433,OpenPlay,2021,Head,17424,Rayo Vallecano,Atletico Madrid,0,1,2022-03-19 20:00:00,Fran García,Aerial
+475363,75,BlockedShot,0.9230000305175782,0.45,0.12991200387477875,Mamadou Sylla,h,2433,OpenPlay,2021,RightFoot,17494,Rayo Vallecano,Villarreal,1,5,2022-05-12 18:00:00,Santiago Comesaña,Pass
+475364,80,MissedShots,0.91,0.445,0.10363700240850449,Mamadou Sylla,h,2433,OpenPlay,2021,Head,17494,Rayo Vallecano,Villarreal,1,5,2022-05-12 18:00:00,Álvaro García,Cross
+476682,94,MissedShots,0.9130000305175782,0.485,0.0936656966805458,Mamadou Sylla,a,2433,OpenPlay,2021,LeftFoot,17500,Mallorca,Rayo Vallecano,2,1,2022-05-15 17:30:00,Fran García,Cross
+477086,88,MissedShots,0.9740000152587891,0.6090000152587891,0.014112499542534351,Mamadou Sylla,h,2433,FromCorner,2021,Head,17514,Rayo Vallecano,Levante,2,4,2022-05-20 19:00:00,Iván Balliu,Aerial
+477087,89,SavedShot,0.9309999847412109,0.34400001525878904,0.22376400232315063,Mamadou Sylla,h,2433,OpenPlay,2021,RightFoot,17514,Rayo Vallecano,Levante,2,4,2022-05-20 19:00:00,Falcao,Pass
+585608,13,BlockedShot,0.9169999694824219,0.325,0.10809782892465591,Mamadou Sylla,h,2433,OpenPlay,2024,RightFoot,26990,Real Valladolid,Espanyol,1,0,2024-08-19 17:00:00,Luis Pérez,Throughball
+585620,58,MissedShots,0.874000015258789,0.4420000076293945,0.053936369717121124,Mamadou Sylla,h,2433,OpenPlay,2024,Head,26990,Real Valladolid,Espanyol,1,0,2024-08-19 17:00:00,Luis Pérez,Cross
+585623,62,MissedShots,0.9109999847412109,0.4979999923706055,0.30327001214027405,Mamadou Sylla,h,2433,SetPiece,2024,Head,26990,Real Valladolid,Espanyol,1,0,2024-08-19 17:00:00,Kike Pérez,Cross
+586768,79,MissedShots,0.884000015258789,0.63,0.09177833795547485,Mamadou Sylla,a,2433,OpenPlay,2024,RightFoot,26998,Real Madrid,Real Valladolid,3,0,2024-08-25 15:00:00,Lucas Rosa,Throughball
+592145,88,MissedShots,0.9480000305175781,0.4779999923706055,0.10288479179143906,Mamadou Sylla,h,2433,FromCorner,2024,Head,27039,Real Valladolid,Real Sociedad,0,0,2024-09-21 12:00:00,,Aerial
+596680,16,Goal,0.885,0.5,0.7432776093482971,Mamadou Sylla,a,2433,Penalty,2024,RightFoot,27078,Alaves,Real Valladolid,2,3,2024-10-18 19:00:00,,Standard
+598216,1,MissedShots,0.8680000305175781,0.45799999237060546,0.05455015227198601,Mamadou Sylla,h,2433,OpenPlay,2024,RightFoot,27089,Real Valladolid,Villarreal,1,2,2024-10-26 12:00:00,Luis Pérez,Cross
+598228,59,Goal,0.885,0.5,0.7432776093482971,Mamadou Sylla,h,2433,Penalty,2024,RightFoot,27089,Real Valladolid,Villarreal,1,2,2024-10-26 12:00:00,,Standard
+602540,31,SavedShot,0.905,0.575,0.3960770070552826,Mamadou Sylla,a,2433,OpenPlay,2024,LeftFoot,27113,Getafe,Real Valladolid,2,0,2024-11-22 20:00:00,Raul Moro,Pass
+604480,3,BlockedShot,0.9440000152587891,0.41200000762939454,0.051326870918273926,Mamadou Sylla,h,2433,OpenPlay,2024,Head,27126,Real Valladolid,Atletico Madrid,0,5,2024-11-30 20:00:00,,Aerial
+604491,57,MissedShots,0.9169999694824219,0.509000015258789,0.1278565376996994,Mamadou Sylla,h,2433,OpenPlay,2024,Head,27126,Real Valladolid,Atletico Madrid,0,5,2024-11-30 20:00:00,Iván Sánchez,Cross
+605613,45,BlockedShot,0.860999984741211,0.6519999694824219,0.022116979584097862,Mamadou Sylla,a,2433,OpenPlay,2024,RightFoot,27138,Las Palmas,Real Valladolid,2,1,2024-12-07 13:00:00,,Aerial
+605612,47,MissedShots,0.74,0.6,0.01768151856958866,Mamadou Sylla,a,2433,OpenPlay,2024,RightFoot,27138,Las Palmas,Real Valladolid,2,1,2024-12-07 13:00:00,Marcos de Sousa,BallTouch
+613647,23,SavedShot,0.7780000305175782,0.6940000152587891,0.023943990468978882,Mamadou Sylla,h,2433,OpenPlay,2024,RightFoot,27190,Real Valladolid,Real Madrid,0,3,2025-01-25 20:00:00,Mario Martín,Pass
+613665,80,MissedShots,0.92,0.7219999694824218,0.06849052011966705,Mamadou Sylla,h,2433,OpenPlay,2024,RightFoot,27190,Real Valladolid,Real Madrid,0,3,2025-01-25 20:00:00,Kike Pérez,Chipped
+617725,76,MissedShots,0.8619999694824219,0.485,0.02387901209294796,Mamadou Sylla,h,2433,OpenPlay,2024,Head,27215,Real Valladolid,Sevilla,0,4,2025-02-16 15:15:00,Luis Pérez,Aerial
+618848,46,Goal,0.8569999694824219,0.6079999923706054,0.4337349236011505,Mamadou Sylla,a,2433,OpenPlay,2024,RightFoot,27222,Athletic Club,Real Valladolid,7,1,2025-02-23 13:00:00,Raul Moro,Throughball
+621547,77,MissedShots,0.9469999694824218,0.33599998474121096,0.04928921163082123,Mamadou Sylla,a,2433,OpenPlay,2024,RightFoot,27248,Valencia,Real Valladolid,2,1,2025-03-08 17:30:00,Javi Sánchez,Chipped
+621551,90,MissedShots,0.9180000305175782,0.585,0.03346484899520874,Mamadou Sylla,a,2433,OpenPlay,2024,Head,27248,Valencia,Real Valladolid,2,1,2025-03-08 17:30:00,Darwin Machís,Aerial
+628173,20,Goal,0.885,0.5,0.7432776093482971,Mamadou Sylla,a,2433,Penalty,2024,RightFoot,27284,Atletico Madrid,Real Valladolid,4,2,2025-04-14 19:00:00,,Standard
+629030,66,Goal,0.885,0.5,0.7432776093482971,Mamadou Sylla,h,2433,Penalty,2024,RightFoot,27297,Real Valladolid,Osasuna,2,3,2025-04-20 12:00:00,,Standard
+629936,91,BlockedShot,0.8069999694824219,0.6959999847412109,0.03755888342857361,Mamadou Sylla,a,2433,FromCorner,2024,RightFoot,27306,Real Betis,Real Valladolid,5,1,2025-04-24 19:30:00,Adam Aznou,Pass

@@ -1,0 +1,75 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+585977,6,MissedShots,0.740999984741211,0.6990000152587891,0.01274054404348135,Shuto Machino,a,12934,OpenPlay,2024,RightFoot,27744,Hoffenheim,Holstein Kiel,3,2,2024-08-24 13:30:00,Lewis Holtby,BallRecovery
+586002,57,MissedShots,0.8019999694824219,0.3509999847412109,0.026533305644989014,Shuto Machino,a,12934,OpenPlay,2024,RightFoot,27744,Hoffenheim,Holstein Kiel,3,2,2024-08-24 13:30:00,Andu Kelati,Pass
+586003,60,SavedShot,0.914000015258789,0.51,0.2875610291957855,Shuto Machino,a,12934,OpenPlay,2024,LeftFoot,27744,Hoffenheim,Holstein Kiel,3,2,2024-08-24 13:30:00,Finn Porath,Cross
+586011,88,Goal,0.924000015258789,0.32,0.2653377652168274,Shuto Machino,a,12934,OpenPlay,2024,RightFoot,27744,Hoffenheim,Holstein Kiel,3,2,2024-08-24 13:30:00,Nicolai Remberg,Chipped
+589071,11,MissedShots,0.85,0.4490000152587891,0.08686723560094833,Shuto Machino,h,12934,OpenPlay,2024,RightFoot,27754,Holstein Kiel,Wolfsburg,0,2,2024-08-31 13:30:00,Benedikt Pichler,Pass
+589087,72,SavedShot,0.9109999847412109,0.5640000152587891,0.33965691924095154,Shuto Machino,h,12934,OpenPlay,2024,LeftFoot,27754,Holstein Kiel,Wolfsburg,0,2,2024-08-31 13:30:00,Benedikt Pichler,Throughball
+592257,88,Goal,0.9619999694824218,0.47200000762939454,0.5913964509963989,Shuto Machino,a,12934,SetPiece,2024,LeftFoot,27771,Bochum,Holstein Kiel,2,2,2024-09-21 13:30:00,Steven Skrzybski,Cross
+594681,18,SavedShot,0.7659999847412109,0.730999984741211,0.017789196223020554,Shuto Machino,h,12934,OpenPlay,2024,RightFoot,27785,Holstein Kiel,Eintracht Frankfurt,2,4,2024-09-29 13:30:00,Armin Gigovic,Pass
+594685,29,Goal,0.885,0.5,0.75777667760849,Shuto Machino,h,12934,Penalty,2024,RightFoot,27785,Holstein Kiel,Eintracht Frankfurt,2,4,2024-09-29 13:30:00,,Standard
+594692,49,Goal,0.8530000305175781,0.3579999923706055,0.04113471135497093,Shuto Machino,h,12934,FromCorner,2024,LeftFoot,27785,Holstein Kiel,Eintracht Frankfurt,2,4,2024-09-29 13:30:00,,None
+595330,47,SavedShot,0.855,0.7330000305175781,0.054093923419713974,Shuto Machino,a,12934,OpenPlay,2024,RightFoot,27794,Bayer Leverkusen,Holstein Kiel,2,2,2024-10-05 13:30:00,Lewis Holtby,Pass
+597607,89,MissedShots,0.7709999847412109,0.3890000152587891,0.02418784238398075,Shuto Machino,h,12934,OpenPlay,2024,RightFoot,27804,Holstein Kiel,Union Berlin,0,2,2024-10-20 13:30:00,,BallTouch
+597609,91,MissedShots,0.9340000152587891,0.5,0.1262957900762558,Shuto Machino,h,12934,FromCorner,2024,Head,27804,Holstein Kiel,Union Berlin,0,2,2024-10-20 13:30:00,Tymoteusz Puchacz,Cross
+598398,91,MissedShots,0.875999984741211,0.4879999923706055,0.052585065364837646,Shuto Machino,a,12934,OpenPlay,2024,Head,27805,VfB Stuttgart,Holstein Kiel,2,1,2024-10-26 13:30:00,Tymoteusz Puchacz,Cross
+607041,74,BlockedShot,0.7030000305175781,0.40400001525878904,0.00970532838255167,Shuto Machino,a,12934,OpenPlay,2024,RightFoot,27865,Borussia M.Gladbach,Holstein Kiel,4,1,2024-12-14 14:30:00,Benedikt Pichler,BallTouch
+607047,83,BlockedShot,0.8530000305175781,0.6809999847412109,0.04055234044790268,Shuto Machino,a,12934,OpenPlay,2024,RightFoot,27865,Borussia M.Gladbach,Holstein Kiel,4,1,2024-12-14 14:30:00,Alexander Bernhardsson,Pass
+608208,38,Goal,0.7430000305175781,0.6320000076293946,0.05334024503827095,Shuto Machino,h,12934,DirectFreekick,2024,RightFoot,27876,Holstein Kiel,Augsburg,5,1,2024-12-21 14:30:00,,Standard
+608217,79,SavedShot,0.965999984741211,0.675,0.3000682592391968,Shuto Machino,h,12934,OpenPlay,2024,LeftFoot,27876,Holstein Kiel,Augsburg,5,1,2024-12-21 14:30:00,Max Geschwill,Chipped
+608223,90,Goal,0.980999984741211,0.500999984741211,0.968813419342041,Shuto Machino,h,12934,OpenPlay,2024,RightFoot,27876,Holstein Kiel,Augsburg,5,1,2024-12-21 14:30:00,Magnus Knudsen,Pass
+611337,26,Goal,0.8280000305175781,0.47,0.30743518471717834,Shuto Machino,h,12934,OpenPlay,2024,RightFoot,27894,Holstein Kiel,Borussia Dortmund,4,2,2025-01-14 17:30:00,Alexander Bernhardsson,Pass
+612128,48,MissedShots,0.8090000152587891,0.6229999923706054,0.04270472005009651,Shuto Machino,h,12934,OpenPlay,2024,RightFoot,27903,Holstein Kiel,Hoffenheim,1,3,2025-01-18 14:30:00,Phil Harres,Pass
+613078,33,BlockedShot,0.9330000305175781,0.675,0.01524953544139862,Shuto Machino,a,12934,OpenPlay,2024,Head,27910,Wolfsburg,Holstein Kiel,2,2,2025-01-24 19:30:00,Finn Porath,Cross
+617862,78,BlockedShot,0.8919999694824219,0.63,0.015476762317121029,Shuto Machino,a,12934,FromCorner,2024,Head,27933,Eintracht Frankfurt,Holstein Kiel,3,1,2025-02-16 16:30:00,Jann-Fiete Arp,Cross
+620501,52,SavedShot,0.7659999847412109,0.37,0.022707851603627205,Shuto Machino,a,12934,OpenPlay,2024,LeftFoot,27955,Union Berlin,Holstein Kiel,0,1,2025-03-02 14:30:00,Max Geschwill,TakeOn
+620506,72,ShotOnPost,0.754000015258789,0.5270000076293946,0.033794764429330826,Shuto Machino,a,12934,OpenPlay,2024,RightFoot,27955,Union Berlin,Holstein Kiel,0,1,2025-03-02 14:30:00,Steven Skrzybski,Pass
+620508,86,MissedShots,0.924000015258789,0.7780000305175782,0.07962720096111298,Shuto Machino,a,12934,OpenPlay,2024,LeftFoot,27955,Union Berlin,Holstein Kiel,0,1,2025-03-02 14:30:00,Steven Skrzybski,BallRecovery
+621081,38,MissedShots,0.87,0.4879999923706055,0.271399587392807,Shuto Machino,h,12934,OpenPlay,2024,Head,27966,Holstein Kiel,VfB Stuttgart,2,2,2025-03-08 14:30:00,Lasse Rosenboom,Chipped
+621083,45,BlockedShot,0.81,0.7269999694824218,0.024576425552368164,Shuto Machino,h,12934,OpenPlay,2024,RightFoot,27966,Holstein Kiel,VfB Stuttgart,2,2,2025-03-08 14:30:00,David Zec,Pass
+621085,53,SavedShot,0.7719999694824219,0.5179999923706055,0.09062724560499191,Shuto Machino,h,12934,DirectFreekick,2024,RightFoot,27966,Holstein Kiel,VfB Stuttgart,2,2,2025-03-08 14:30:00,,Standard
+621088,58,MissedShots,0.8930000305175781,0.5070000076293946,0.3122131824493408,Shuto Machino,h,12934,OpenPlay,2024,RightFoot,27966,Holstein Kiel,VfB Stuttgart,2,2,2025-03-08 14:30:00,Timo Becker,Cross
+623540,9,BlockedShot,0.9080000305175782,0.47200000762939454,0.13800831139087677,Shuto Machino,a,12934,OpenPlay,2024,RightFoot,27969,FC Heidenheim,Holstein Kiel,3,1,2025-03-16 16:30:00,Magnus Knudsen,Pass
+624078,41,MissedShots,0.8490000152587891,0.5670000076293945,0.06150718033313751,Shuto Machino,h,12934,OpenPlay,2024,LeftFoot,27984,Holstein Kiel,Werder Bremen,0,3,2025-03-29 14:30:00,Lewis Holtby,BallTouch
+624083,67,BlockedShot,0.9,0.47099998474121096,0.07875865697860718,Shuto Machino,h,12934,OpenPlay,2024,RightFoot,27984,Holstein Kiel,Werder Bremen,0,3,2025-03-29 14:30:00,Alexander Bernhardsson,Cross
+624090,87,MissedShots,0.9390000152587891,0.634000015258789,0.058358848094940186,Shuto Machino,h,12934,OpenPlay,2024,RightFoot,27984,Holstein Kiel,Werder Bremen,0,3,2025-03-29 14:30:00,Steven Skrzybski,HeadPass
+625541,10,BlockedShot,0.8969999694824219,0.590999984741211,0.10881827771663666,Shuto Machino,a,12934,OpenPlay,2024,RightFoot,27990,Mainz 05,Holstein Kiel,1,1,2025-04-05 13:30:00,John Tolkin,Pass
+625545,22,SavedShot,0.925,0.580999984741211,0.03944040834903717,Shuto Machino,a,12934,SetPiece,2024,Head,27990,Mainz 05,Holstein Kiel,1,1,2025-04-05 13:30:00,,None
+625547,28,MissedShots,0.830999984741211,0.6,0.09182783216238022,Shuto Machino,a,12934,OpenPlay,2024,LeftFoot,27990,Mainz 05,Holstein Kiel,1,1,2025-04-05 13:30:00,Steven Skrzybski,Pass
+625549,39,SavedShot,0.955,0.710999984741211,0.07613871246576309,Shuto Machino,a,12934,OpenPlay,2024,LeftFoot,27990,Mainz 05,Holstein Kiel,1,1,2025-04-05 13:30:00,Nicolai Remberg,Pass
+628444,19,BlockedShot,0.9009999847412109,0.65,0.08164823800325394,Shuto Machino,a,12934,OpenPlay,2024,LeftFoot,28003,RasenBallsport Leipzig,Holstein Kiel,1,1,2025-04-19 13:30:00,Alexander Bernhardsson,Pass
+628449,43,Goal,0.8980000305175782,0.504000015258789,0.44043514132499695,Shuto Machino,a,12934,OpenPlay,2024,RightFoot,28003,RasenBallsport Leipzig,Holstein Kiel,1,1,2025-04-19 13:30:00,Steven Skrzybski,Pass
+630204,14,Goal,0.9540000152587891,0.5929999923706055,0.2562068700790405,Shuto Machino,h,12934,FromCorner,2024,Head,28020,Holstein Kiel,Borussia M.Gladbach,4,3,2025-04-26 13:30:00,John Tolkin,Cross
+630214,31,SavedShot,0.8169999694824219,0.725999984741211,0.05434132739901543,Shuto Machino,h,12934,OpenPlay,2024,RightFoot,28020,Holstein Kiel,Borussia M.Gladbach,4,3,2025-04-26 13:30:00,John Tolkin,TakeOn
+630218,46,SavedShot,0.9069999694824219,0.40299999237060546,0.03364548832178116,Shuto Machino,h,12934,FromCorner,2024,Head,28020,Holstein Kiel,Borussia M.Gladbach,4,3,2025-04-26 13:30:00,Alexander Bernhardsson,Cross
+630233,86,MissedShots,0.845999984741211,0.5420000076293945,0.09053851664066315,Shuto Machino,h,12934,OpenPlay,2024,RightFoot,28020,Holstein Kiel,Borussia M.Gladbach,4,3,2025-04-26 13:30:00,Steven Skrzybski,Pass
+630237,90,Goal,0.8769999694824219,0.40700000762939453,0.07637913525104523,Shuto Machino,h,12934,FromCorner,2024,LeftFoot,28020,Holstein Kiel,Borussia M.Gladbach,4,3,2025-04-26 13:30:00,,Rebound
+631958,24,Goal,0.885,0.5,0.75777667760849,Shuto Machino,a,12934,Penalty,2024,RightFoot,28025,Augsburg,Holstein Kiel,1,3,2025-05-04 13:30:00,,Standard
+632617,80,MissedShots,0.9069999694824219,0.5070000076293946,0.036607660353183746,Shuto Machino,h,12934,FromCorner,2024,Head,28038,Holstein Kiel,Freiburg,1,2,2025-05-10 13:30:00,Finn Porath,Aerial
+632622,98,MissedShots,0.6990000152587891,0.5,0.04011140018701553,Shuto Machino,h,12934,DirectFreekick,2024,RightFoot,28038,Holstein Kiel,Freiburg,1,2,2025-05-10 13:30:00,,Standard
+634430,38,SavedShot,0.91,0.4570000076293945,0.4602373242378235,Shuto Machino,a,12934,OpenPlay,2024,LeftFoot,28040,Borussia Dortmund,Holstein Kiel,3,0,2025-05-17 13:30:00,Alexander Bernhardsson,Pass
+640135,51,MissedShots,0.9680000305175781,0.41700000762939454,0.058919522911310196,Shuto Machino,a,12934,OpenPlay,2025,Head,30237,VfB Stuttgart,Borussia M.Gladbach,1,0,2025-08-30 13:30:00,Franck Honorat,Aerial
+642452,12,MissedShots,0.9469999694824218,0.7090000152587891,0.044491562992334366,Shuto Machino,h,12934,OpenPlay,2025,LeftFoot,30250,Borussia M.Gladbach,Werder Bremen,0,4,2025-09-14 15:30:00,Lukas Ullrich,Pass
+642480,90,MissedShots,0.8859999847412109,0.35400001525878905,0.01135190762579441,Shuto Machino,h,12934,OpenPlay,2025,Head,30250,Borussia M.Gladbach,Werder Bremen,0,4,2025-09-14 15:30:00,Kevin Diks,Cross
+643831,15,SavedShot,0.8930000305175781,0.28200000762939453,0.04283180460333824,Shuto Machino,a,12934,OpenPlay,2025,RightFoot,30258,Bayer Leverkusen,Borussia M.Gladbach,1,1,2025-09-21 15:30:00,,None
+643834,37,BlockedShot,0.87,0.3659999847412109,0.009029384702444077,Shuto Machino,a,12934,SetPiece,2025,Head,30258,Bayer Leverkusen,Borussia M.Gladbach,1,1,2025-09-21 15:30:00,Rocco Reitz,CornerAwarded
+643837,49,MissedShots,0.555,0.6029999923706054,0.007826638408005238,Shuto Machino,a,12934,OpenPlay,2025,RightFoot,30258,Bayer Leverkusen,Borussia M.Gladbach,1,1,2025-09-21 15:30:00,Kevin Stöger,Interception
+643840,59,SavedShot,0.8619999694824219,0.4829999923706055,0.03099755384027958,Shuto Machino,a,12934,OpenPlay,2025,Head,30258,Bayer Leverkusen,Borussia M.Gladbach,1,1,2025-09-21 15:30:00,Kevin Stöger,Cross
+650666,74,Goal,0.87,0.435,0.33944734930992126,Shuto Machino,a,12934,OpenPlay,2025,RightFoot,30302,St. Pauli,Borussia M.Gladbach,0,4,2025-11-01 14:30:00,Haris Tabakovic,Pass
+650668,79,SavedShot,0.975999984741211,0.6930000305175781,0.4012899100780487,Shuto Machino,a,12934,OpenPlay,2025,RightFoot,30302,St. Pauli,Borussia M.Gladbach,0,4,2025-11-01 14:30:00,Giovanni Reyna,Chipped
+652462,83,MissedShots,0.99,0.3509999847412109,0.05110439285635948,Shuto Machino,h,12934,OpenPlay,2025,RightFoot,30306,Borussia M.Gladbach,FC Cologne,3,1,2025-11-08 17:30:00,Lukas Ullrich,Cross
+653507,75,Goal,0.91,0.5609999847412109,0.5548135042190552,Shuto Machino,a,12934,OpenPlay,2025,RightFoot,30318,FC Heidenheim,Borussia M.Gladbach,0,3,2025-11-22 14:30:00,Franck Honorat,Throughball
+656549,77,SavedShot,0.84,0.4370000076293945,0.09238976985216141,Shuto Machino,a,12934,OpenPlay,2025,RightFoot,30339,Mainz 05,Borussia M.Gladbach,0,1,2025-12-05 19:30:00,Haris Tabakovic,Pass
+663086,68,Goal,0.875,0.47200000762939454,0.3267068564891815,Shuto Machino,a,12934,OpenPlay,2025,RightFoot,30372,Hoffenheim,Borussia M.Gladbach,5,1,2026-01-14 19:30:00,Rocco Reitz,Throughball
+665321,74,MissedShots,0.9330000305175781,0.6719999694824219,0.23100106418132782,Shuto Machino,h,12934,OpenPlay,2025,LeftFoot,30388,Borussia M.Gladbach,VfB Stuttgart,0,3,2026-01-25 14:30:00,Alejo Sarco,Pass
+665327,92,MissedShots,0.76,0.47200000762939454,0.02526254951953888,Shuto Machino,h,12934,OpenPlay,2025,LeftFoot,30388,Borussia M.Gladbach,VfB Stuttgart,0,3,2026-01-25 14:30:00,Kevin Stöger,Pass
+665924,90,SavedShot,0.9080000305175782,0.41200000762939454,0.37674152851104736,Shuto Machino,a,12934,OpenPlay,2025,RightFoot,30403,Werder Bremen,Borussia M.Gladbach,1,1,2026-01-31 14:30:00,Luca Netz,Pass
+671056,85,SavedShot,0.9590000152587891,0.455,0.6398119926452637,Shuto Machino,h,12934,OpenPlay,2025,LeftFoot,30433,Borussia M.Gladbach,Union Berlin,1,0,2026-02-28 14:30:00,,Rebound
+672365,62,BlockedShot,0.7959999847412109,0.43200000762939456,0.0395035594701767,Shuto Machino,a,12934,OpenPlay,2025,LeftFoot,30440,Bayern Munich,Borussia M.Gladbach,4,1,2026-03-06 19:30:00,Hugo Bolin,Pass
+672367,70,SavedShot,0.9219999694824219,0.5320000076293945,0.1362713724374771,Shuto Machino,a,12934,OpenPlay,2025,Head,30440,Bayern Munich,Borussia M.Gladbach,4,1,2026-03-06 19:30:00,Joe Scally,Cross
+672369,74,BlockedShot,0.73,0.624000015258789,0.022006260231137276,Shuto Machino,a,12934,OpenPlay,2025,RightFoot,30440,Bayern Munich,Borussia M.Gladbach,4,1,2026-03-06 19:30:00,Hugo Bolin,TakeOn
+672373,81,SavedShot,0.8780000305175781,0.49200000762939455,0.08898870646953583,Shuto Machino,a,12934,OpenPlay,2025,LeftFoot,30440,Bayern Munich,Borussia M.Gladbach,4,1,2026-03-06 19:30:00,,Rebound
+673551,91,MissedShots,0.8969999694824219,0.6559999847412109,0.096821628510952,Shuto Machino,h,12934,OpenPlay,2025,LeftFoot,30450,Borussia M.Gladbach,St. Pauli,2,0,2026-03-13 19:30:00,Yannick Engelhardt,Pass
+676557,65,BlockedShot,0.8280000305175781,0.39099998474121095,0.04966338351368904,Shuto Machino,h,12934,OpenPlay,2025,RightFoot,30468,Borussia M.Gladbach,FC Heidenheim,2,2,2026-04-04 13:30:00,Philipp Sander,Pass
+683580,76,BlockedShot,0.8619999694824219,0.45799999237060546,0.0894211083650589,Shuto Machino,a,12934,OpenPlay,2025,LeftFoot,30512,Augsburg,Borussia M.Gladbach,3,1,2026-05-09 13:30:00,Giovanni Reyna,Pass
+683582,81,MissedShots,0.8830000305175781,0.315,0.05029123276472092,Shuto Machino,a,12934,OpenPlay,2025,RightFoot,30512,Augsburg,Borussia M.Gladbach,3,1,2026-05-09 13:30:00,Joe Scally,Pass

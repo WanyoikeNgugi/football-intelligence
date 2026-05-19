@@ -1,0 +1,24 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+32544,47,MissedShots,0.9569999694824218,0.6020000076293945,0.019490500912070274,Aleksandar Pantic,a,2137,FromCorner,2014,Head,5834,Real Madrid,Cordoba,2,0,2014-08-25 19:00:00,Fausto Rossi,Aerial
+32548,69,MissedShots,0.9169999694824219,0.59,0.08711490035057068,Aleksandar Pantic,a,2137,FromCorner,2014,RightFoot,5834,Real Madrid,Cordoba,2,0,2014-08-25 19:00:00,Xisco,HeadPass
+33186,10,BlockedShot,0.81,0.5420000076293945,0.04456619918346405,Aleksandar Pantic,h,2137,FromCorner,2014,RightFoot,5803,Cordoba,Sevilla,1,3,2014-09-21 18:00:00,Fidel,Pass
+33205,93,SavedShot,0.935,0.54,0.13283699750900269,Aleksandar Pantic,h,2137,SetPiece,2014,Head,5803,Cordoba,Sevilla,1,3,2014-09-21 18:00:00,Abel Gómez,Cross
+34828,11,SavedShot,0.9,0.47700000762939454,0.07148689776659012,Aleksandar Pantic,h,2137,FromCorner,2014,Head,5700,Cordoba,Levante,0,0,2014-12-13 19:00:00,Abel Gómez,Cross
+38707,74,BlockedShot,0.7909999847412109,0.46799999237060547,0.029602300375699997,Aleksandar Pantic,h,2137,FromCorner,2014,RightFoot,5672,Cordoba,Real Madrid,1,2,2015-01-24 15:00:00,,None
+41233,72,MissedShots,0.8690000152587891,0.6,0.06972850114107132,Aleksandar Pantic,h,2137,SetPiece,2014,RightFoot,5613,Cordoba,Almeria,1,2,2015-02-08 11:00:00,,Rebound
+41262,32,MissedShots,0.885,0.539000015258789,0.01613279990851879,Aleksandar Pantic,h,2137,FromCorner,2014,Head,5630,Cordoba,Valencia,1,2,2015-02-21 17:00:00,Héldon,Aerial
+40670,12,MissedShots,0.8640000152587891,0.620999984741211,0.055652301758527756,Aleksandar Pantic,a,2137,SetPiece,2014,LeftFoot,5638,Espanyol,Cordoba,1,0,2015-02-27 19:45:00,José Ángel Crespo,HeadPass
+40692,72,MissedShots,0.96,0.3820000076293945,0.01373790018260479,Aleksandar Pantic,a,2137,FromCorner,2014,Head,5638,Espanyol,Cordoba,1,0,2015-02-27 19:45:00,Bruno Zuculini,Aerial
+38806,18,MissedShots,0.8859999847412109,0.4520000076293945,0.053162600845098495,Aleksandar Pantic,a,2137,FromCorner,2014,RightFoot,5519,Deportivo La Coruna,Cordoba,1,1,2015-04-08 19:00:00,Fede Cartabia,Cross
+38828,91,MissedShots,0.91,0.595999984741211,0.015413999557495117,Aleksandar Pantic,a,2137,FromCorner,2014,Head,5519,Deportivo La Coruna,Cordoba,1,1,2015-04-08 19:00:00,Borja,Aerial
+36128,73,MissedShots,0.9230000305175782,0.524000015258789,0.10040099918842316,Aleksandar Pantic,h,2137,FromCorner,2014,LeftFoot,5545,Cordoba,Athletic Club,0,1,2015-04-24 19:45:00,Bebé,Cross
+86177,47,BlockedShot,0.9219999694824219,0.52,0.05134940147399902,Aleksandar Pantic,h,2137,FromCorner,2015,Head,1502,Eibar,Getafe,3,1,2015-11-07 23:30:00,Mauro Dos Santos,Rebound
+86716,91,MissedShots,0.69,0.3189999961853027,0.010635199956595898,Aleksandar Pantic,a,2137,OpenPlay,2015,LeftFoot,1515,Villarreal,Eibar,1,1,2015-11-22 19:00:00,,Dispossessed
+87716,58,MissedShots,0.915,0.5370000076293945,0.09279710054397583,Aleksandar Pantic,h,2137,FromCorner,2015,Head,1526,Eibar,Real Madrid,0,2,2015-11-29 19:00:00,Saúl Berjón,Cross
+88533,43,MissedShots,0.935,0.524000015258789,0.0694475993514061,Aleksandar Pantic,a,2137,FromCorner,2015,Head,1534,Real Sociedad,Eibar,2,1,2015-12-06 15:00:00,Saúl Berjón,Aerial
+87220,15,BlockedShot,0.9490000152587891,0.40799999237060547,0.027011500671505928,Aleksandar Pantic,a,2137,FromCorner,2015,Head,1552,Deportivo La Coruna,Eibar,2,0,2015-12-20 01:05:00,Saúl Berjón,Aerial
+87225,29,MissedShots,0.889000015258789,0.6519999694824219,0.01828330010175705,Aleksandar Pantic,a,2137,FromCorner,2015,Head,1552,Deportivo La Coruna,Eibar,2,0,2015-12-20 01:05:00,Takashi Inui,Cross
+87426,52,MissedShots,0.9230000305175782,0.40799999237060547,0.05774779990315437,Aleksandar Pantic,h,2137,FromCorner,2015,Head,1585,Eibar,Espanyol,2,1,2016-01-10 21:15:00,Takashi Inui,Cross
+90733,83,MissedShots,0.87,0.555,0.031557001173496246,Aleksandar Pantic,h,2137,SetPiece,2015,Head,1674,Eibar,Barcelona,0,4,2016-03-06 19:00:00,Iván Ramis,Cross
+90959,40,SavedShot,0.9019999694824219,0.5329999923706055,0.2516019940376282,Aleksandar Pantic,a,2137,FromCorner,2015,Head,1710,Real Madrid,Eibar,4,0,2016-04-09 18:00:00,Jota,Cross
+136632,83,BlockedShot,0.9290000152587891,0.49900001525878906,0.056233000010252,Aleksandar Pantic,a,2137,FromCorner,2016,Head,1841,Sevilla,Alaves,2,1,2016-10-01 18:15:00,Theo Hernández,Goal

@@ -1,0 +1,7 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+371995,86,MissedShots,0.850999984741211,0.5,0.054335299879312515,Sofian Chakla,a,8306,FromCorner,2019,RightFoot,12390,Real Madrid,Villarreal,2,1,2020-07-16 19:00:00,,BallTouch
+377564,80,MissedShots,0.8930000305175781,0.5570000076293945,0.022246500477194786,Sofian Chakla,h,8306,SetPiece,2020,Head,14146,Villarreal,Eibar,2,1,2020-09-19 14:00:00,Samuel Chukwueze,Aerial
+405381,70,SavedShot,0.9009999847412109,0.5720000076293945,0.019765399396419525,Sofian Chakla,a,8306,SetPiece,2020,Head,15011,Real Betis,Getafe,1,0,2021-02-19 20:00:00,Marc Cucurella,Aerial
+412750,68,MissedShots,0.899000015258789,0.43900001525878907,0.07357840240001678,Sofian Chakla,a,8306,SetPiece,2020,Head,15063,Osasuna,Getafe,0,0,2021-04-03 16:30:00,Mauro Arambarri,Cross
+416919,27,OwnGoal,0.21,0.46599998474121096,0,Sofian Chakla,a,8306,OpenPlay,2020,RightFoot,15080,Barcelona,Getafe,5,2,2021-04-22 20:00:00,,None
+416922,49,MissedShots,0.9230000305175782,0.5309999847412109,0.06790439784526825,Sofian Chakla,a,8306,OpenPlay,2020,Head,15080,Barcelona,Getafe,5,2,2021-04-22 20:00:00,Damián Suárez,Aerial

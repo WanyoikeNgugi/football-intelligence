@@ -1,0 +1,16 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+43176,20,BlockedShot,0.875,0.605999984741211,0.013575799763202667,Dario Dainelli,a,1331,FromCorner,2014,Head,5079,Roma,Chievo,3,0,2014-10-18 17:00:00,Ivan Radovanovic,Cross
+43288,30,SavedShot,0.9259999847412109,0.3770000076293945,0.035097699612379074,Dario Dainelli,h,1331,OpenPlay,2014,Head,5094,Chievo,Genoa,1,2,2014-10-26 14:00:00,Valter Birsa,Cross
+43704,63,MissedShots,0.94,0.6040000152587891,0.04613500088453293,Dario Dainelli,a,1331,FromCorner,2014,Head,5102,Palermo,Chievo,1,0,2014-10-29 19:45:00,Valter Birsa,Cross
+43835,75,MissedShots,0.8919999694824219,0.37400001525878906,0.06525920331478119,Dario Dainelli,h,1331,SetPiece,2014,RightFoot,5036,Chievo,Sassuolo,0,0,2014-11-02 14:00:00,,None
+45761,8,SavedShot,0.8519999694824218,0.38599998474121094,0.053393200039863586,Dario Dainelli,h,1331,SetPiece,2014,LeftFoot,4964,Chievo,Torino,0,0,2015-01-06 14:00:00,,None
+48152,11,MissedShots,0.94,0.5729999923706055,0.09256459772586823,Dario Dainelli,h,1331,FromCorner,2014,RightFoot,4892,Chievo,Roma,0,0,2015-03-08 14:00:00,Ivan Radovanovic,Cross
+48503,40,BlockedShot,0.9130000305175782,0.3840000152587891,0.08035720139741898,Dario Dainelli,a,1331,FromCorner,2014,LeftFoot,4843,Cesena,Chievo,0,1,2015-04-12 11:30:00,Ezequiel Schelotto,Rebound
+50673,50,BlockedShot,0.8930000305175781,0.44299999237060544,0.039650801569223404,Dario Dainelli,h,1331,FromCorner,2014,Head,4791,Chievo,Verona,2,2,2015-05-10 11:30:00,Cristiano Biraghi,Cross
+101801,57,Goal,0.9540000152587891,0.539000015258789,0.4659680128097534,Dario Dainelli,h,1331,FromCorner,2015,LeftFoot,722,Chievo,Roma,3,3,2016-01-06 18:00:00,Valter Birsa,Cross
+94088,94,BlockedShot,0.94,0.5170000076293946,0.07025559991598129,Dario Dainelli,a,1331,FromCorner,2015,Head,758,Lazio,Chievo,4,1,2016-01-24 18:00:00,Paul-José M&#039;Poku,Aerial
+144914,92,BlockedShot,0.7559999847412109,0.5790000152587891,0.01907080039381981,Dario Dainelli,a,1331,FromCorner,2016,RightFoot,950,Fiorentina,Chievo,1,0,2016-08-28 22:45:00,Massimo Gobbi,BallTouch
+147992,93,OwnGoal,0.17200000762939452,0.485,0,Dario Dainelli,h,1331,OpenPlay,2016,OtherBodyPart,1008,Chievo,AC Milan,1,3,2016-10-16 22:45:00,,Challenge
+174764,17,MissedShots,0.9580000305175781,0.4420000076293945,0.12935300171375275,Dario Dainelli,h,1331,SetPiece,2017,Head,7581,Chievo,Verona,3,2,2017-10-22 19:30:00,Valter Birsa,Cross
+197878,74,BlockedShot,0.935,0.48,0.06700979918241501,Dario Dainelli,a,1331,FromCorner,2017,Head,7758,Fiorentina,Chievo,1,0,2018-02-25 14:00:00,,None
+215454,15,SavedShot,0.919000015258789,0.43200000762939456,0.4262099862098694,Dario Dainelli,a,1331,SetPiece,2017,RightFoot,7860,Bologna,Chievo,1,2,2018-05-13 14:00:00,Valter Birsa,HeadPass

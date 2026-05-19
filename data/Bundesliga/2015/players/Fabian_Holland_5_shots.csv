@@ -1,0 +1,18 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+76288,38,BlockedShot,0.6809999847412109,0.5479999923706055,0.008406910113990307,Fabian Holland,h,5,SetPiece,2015,LeftFoot,1026,Darmstadt,Hannover 96,2,2,2015-08-15 17:30:00,,None
+79807,12,MissedShots,0.7019999694824218,0.59,0.009127289988100529,Fabian Holland,h,5,SetPiece,2015,LeftFoot,1157,Darmstadt,Hertha Berlin,0,4,2015-12-12 18:30:00,,None
+82177,92,ShotOnPost,0.9740000152587891,0.6930000305175781,0.018516799435019493,Fabian Holland,h,5,OpenPlay,2015,LeftFoot,1249,Darmstadt,Augsburg,2,2,2016-03-12 18:30:00,Marcel Heller,Cross
+134559,90,BlockedShot,0.784000015258789,0.735999984741211,0.014517500065267086,Fabian Holland,a,5,OpenPlay,2016,LeftFoot,3795,Wolfsburg,Darmstadt,1,0,2017-03-18 14:30:00,,None
+133579,45,MissedShots,0.8780000305175781,0.5629999923706055,0.26092401146888733,Fabian Holland,a,5,OpenPlay,2016,RightFoot,3808,RasenBallsport Leipzig,Darmstadt,4,0,2017-04-01 14:30:00,Hamit Altintop,Chipped
+133852,92,OwnGoal,0.11,0.45099998474121095,0,Fabian Holland,a,5,OpenPlay,2016,LeftFoot,3841,Hamburger SV,Darmstadt,1,2,2017-04-22 14:30:00,,Aerial
+538391,14,SavedShot,0.755,0.335,0.019141044467687607,Fabian Holland,h,5,OpenPlay,2023,LeftFoot,23100,Darmstadt,Borussia M.Gladbach,3,3,2023-09-17 15:30:00,Marvin Mehlem,Pass
+538409,59,MissedShots,0.5520000076293945,0.629000015258789,0.019380483776330948,Fabian Holland,h,5,DirectFreekick,2023,LeftFoot,23100,Darmstadt,Borussia M.Gladbach,3,3,2023-09-17 15:30:00,,Standard
+538421,76,MissedShots,0.8719999694824219,0.5220000076293946,0.03765328973531723,Fabian Holland,h,5,OpenPlay,2023,Head,23100,Darmstadt,Borussia M.Gladbach,3,3,2023-09-17 15:30:00,Fabian Nürnberger,Chipped
+549676,37,MissedShots,0.710999984741211,0.5220000076293946,0.013691038824617863,Fabian Holland,a,5,FromCorner,2023,LeftFoot,23166,Freiburg,Darmstadt,1,1,2023-11-25 14:30:00,,None
+550821,41,MissedShots,0.7719999694824219,0.7290000152587891,0.016026247292757034,Fabian Holland,h,5,OpenPlay,2023,LeftFoot,23181,Darmstadt,FC Cologne,0,1,2023-12-01 18:30:00,,Dispossessed
+558990,77,BlockedShot,0.784000015258789,0.67,0.011246742680668831,Fabian Holland,h,5,OpenPlay,2023,LeftFoot,23226,Darmstadt,Eintracht Frankfurt,2,2,2024-01-20 14:30:00,Tim Skarke,Aerial
+558992,85,MissedShots,0.9109999847412109,0.55,0.22867095470428467,Fabian Holland,h,5,FromCorner,2023,RightFoot,23226,Darmstadt,Eintracht Frankfurt,2,2,2024-01-20 14:30:00,,Aerial
+560285,63,SavedShot,0.8109999847412109,0.7730000305175782,0.015030224807560444,Fabian Holland,a,5,OpenPlay,2023,LeftFoot,23228,Union Berlin,Darmstadt,1,0,2024-01-28 14:30:00,,None
+565076,22,BlockedShot,0.764000015258789,0.515,0.02835850790143013,Fabian Holland,a,5,OpenPlay,2023,RightFoot,23265,Werder Bremen,Darmstadt,1,1,2024-02-24 14:30:00,Marvin Mehlem,Pass
+565077,23,MissedShots,0.860999984741211,0.5829999923706055,0.07498912513256073,Fabian Holland,a,5,OpenPlay,2023,RightFoot,23265,Werder Bremen,Darmstadt,1,1,2024-02-24 14:30:00,Tim Skarke,Pass
+574279,42,SavedShot,0.9069999694824219,0.6079999923706054,0.30428069829940796,Fabian Holland,h,5,OpenPlay,2023,LeftFoot,23325,Darmstadt,Freiburg,0,1,2024-04-14 13:30:00,,BallRecovery

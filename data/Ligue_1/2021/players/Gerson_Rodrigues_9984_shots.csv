@@ -1,0 +1,24 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+430422,49,Goal,0.919000015258789,0.45299999237060545,0.33737701177597046,Gerson Rodrigues,a,9984,OpenPlay,2021,RightFoot,17870,Metz,Troyes,0,2,2021-09-12 13:00:00,Xavier Chavalerin,Chipped
+430423,63,BlockedShot,0.774000015258789,0.74,0.022922800853848457,Gerson Rodrigues,a,9984,OpenPlay,2021,RightFoot,17870,Metz,Troyes,0,2,2021-09-12 13:00:00,Rominigue Kouame,Pass
+431855,60,MissedShots,0.6580000305175782,0.3320000076293945,0.01240609958767891,Gerson Rodrigues,h,9984,OpenPlay,2021,RightFoot,17872,Troyes,Montpellier,1,1,2021-09-19 13:00:00,Youssouf Kone,Pass
+431857,74,BlockedShot,0.72,0.62,0.01912030018866062,Gerson Rodrigues,h,9984,OpenPlay,2021,RightFoot,17872,Troyes,Montpellier,1,1,2021-09-19 13:00:00,Youssouf Kone,Pass
+434052,31,MissedShots,0.7340000152587891,0.485,0.023663800209760666,Gerson Rodrigues,h,9984,OpenPlay,2021,RightFoot,17901,Troyes,Angers,1,1,2021-09-26 13:00:00,,None
+435396,13,BlockedShot,0.855,0.37200000762939456,0.06447990238666534,Gerson Rodrigues,a,9984,OpenPlay,2021,RightFoot,17908,Nantes,Troyes,2,0,2021-10-03 13:00:00,,CornerAwarded
+435403,41,MissedShots,0.7830000305175782,0.6719999694824219,0.019498100504279137,Gerson Rodrigues,a,9984,OpenPlay,2021,RightFoot,17908,Nantes,Troyes,2,0,2021-10-03 13:00:00,,None
+435406,54,SavedShot,0.9080000305175782,0.42900001525878906,0.0887088030576706,Gerson Rodrigues,a,9984,OpenPlay,2021,RightFoot,17908,Nantes,Troyes,2,0,2021-10-03 13:00:00,,None
+440725,8,MissedShots,0.745,0.539000015258789,0.023776700720191002,Gerson Rodrigues,a,9984,OpenPlay,2021,RightFoot,17943,Lens,Troyes,4,0,2021-11-05 20:00:00,Rominigue Kouame,Pass
+440736,38,BlockedShot,0.795,0.33599998474121096,0.06019720062613487,Gerson Rodrigues,a,9984,OpenPlay,2021,RightFoot,17943,Lens,Troyes,4,0,2021-11-05 20:00:00,Renaud Ripart,Pass
+443243,78,MissedShots,0.7709999847412109,0.600999984741211,0.025616999715566635,Gerson Rodrigues,h,9984,OpenPlay,2021,RightFoot,17959,Troyes,Saint-Etienne,0,1,2021-11-21 14:00:00,Rominigue Kouame,Pass
+443249,88,MissedShots,0.9169999694824219,0.544000015258789,0.48574298620224,Gerson Rodrigues,h,9984,OpenPlay,2021,RightFoot,17959,Troyes,Saint-Etienne,0,1,2021-11-21 14:00:00,,None
+444922,28,MissedShots,0.7119999694824218,0.4620000076293945,0.015515400096774101,Gerson Rodrigues,a,9984,OpenPlay,2021,RightFoot,17968,Marseille,Troyes,1,0,2021-11-28 19:45:00,Yoann Touzghar,Pass
+453755,17,MissedShots,0.875,0.4779999923706055,0.05104630067944527,Gerson Rodrigues,h,9984,OpenPlay,2021,Head,18031,Troyes,Lyon,0,1,2022-01-16 16:05:00,Dylan Chambost,Cross
+454126,42,MissedShots,0.9540000152587891,0.605,0.09104610234498978,Gerson Rodrigues,a,9984,OpenPlay,2021,RightFoot,18013,Montpellier,Troyes,0,1,2022-01-19 20:00:00,Xavier Chavalerin,Chipped
+454127,45,SavedShot,0.7190000152587891,0.500999984741211,0.016253100708127022,Gerson Rodrigues,a,9984,OpenPlay,2021,RightFoot,18013,Montpellier,Troyes,0,1,2022-01-19 20:00:00,Tristan Dingome,Pass
+454130,53,SavedShot,0.8540000152587891,0.7019999694824218,0.03705419972538948,Gerson Rodrigues,a,9984,OpenPlay,2021,RightFoot,18013,Montpellier,Troyes,0,1,2022-01-19 20:00:00,Oualid El Hajjam,Chipped
+454131,53,BlockedShot,0.81,0.505,0.0832090973854065,Gerson Rodrigues,a,9984,OpenPlay,2021,LeftFoot,18013,Montpellier,Troyes,0,1,2022-01-19 20:00:00,Xavier Chavalerin,Pass
+455192,10,SavedShot,0.9169999694824219,0.5129999923706055,0.5051980018615723,Gerson Rodrigues,a,9984,OpenPlay,2021,RightFoot,18032,Angers,Troyes,2,1,2022-01-23 14:00:00,Abdu Conté,Pass
+455198,31,BlockedShot,0.8430000305175781,0.48,0.02920299954712391,Gerson Rodrigues,a,9984,OpenPlay,2021,OtherBodyPart,18032,Angers,Troyes,2,1,2022-01-23 14:00:00,Florian Tardieu,Aerial
+455199,33,MissedShots,0.93,0.5220000076293946,0.4748550057411194,Gerson Rodrigues,a,9984,SetPiece,2021,RightFoot,18032,Angers,Troyes,2,1,2022-01-23 14:00:00,Florian Tardieu,Cross
+455203,45,SavedShot,0.9059999847412109,0.5459999847412109,0.07393120229244232,Gerson Rodrigues,a,9984,OpenPlay,2021,Head,18032,Angers,Troyes,2,1,2022-01-23 14:00:00,Florian Tardieu,Cross
+455207,62,SavedShot,0.8519999694824218,0.500999984741211,0.06697580218315125,Gerson Rodrigues,a,9984,OpenPlay,2021,RightFoot,18032,Angers,Troyes,2,1,2022-01-23 14:00:00,Abdu Conté,Chipped

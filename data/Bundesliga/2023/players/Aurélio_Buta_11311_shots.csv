@@ -1,0 +1,32 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+504610,90,Goal,0.8969999694824219,0.40799999237060547,0.44328901171684265,Aurélio Buta,h,11311,OpenPlay,2022,RightFoot,19482,Eintracht Frankfurt,Schalke 04,3,0,2023-01-21 14:30:00,Santos Borré,Pass
+507062,93,Goal,0.749000015258789,0.38099998474121094,0.015841400250792503,Aurélio Buta,h,11311,FromCorner,2022,LeftFoot,19508,Eintracht Frankfurt,Hertha Berlin,3,0,2023-02-04 14:30:00,,None
+517933,20,BlockedShot,0.8690000152587891,0.44299999237060544,0.09068690240383148,Aurélio Buta,a,11311,OpenPlay,2022,LeftFoot,19577,Bayer Leverkusen,Eintracht Frankfurt,3,1,2023-04-08 13:30:00,Randal Kolo Muani,Pass
+521047,33,SavedShot,0.925,0.40900001525878904,0.04836694151163101,Aurélio Buta,a,11311,OpenPlay,2022,Head,19594,Borussia Dortmund,Eintracht Frankfurt,4,0,2023-04-22 16:30:00,Ansgar Knauff,Aerial
+524582,20,MissedShots,0.845999984741211,0.3729999923706055,0.03694864362478256,Aurélio Buta,a,11311,FromCorner,2022,LeftFoot,19616,Hoffenheim,Eintracht Frankfurt,3,1,2023-05-06 13:30:00,Randal Kolo Muani,Pass
+524588,37,BlockedShot,0.8769999694824219,0.3509999847412109,0.013386725448071957,Aurélio Buta,a,11311,FromCorner,2022,Head,19616,Hoffenheim,Eintracht Frankfurt,3,1,2023-05-06 13:30:00,,Aerial
+525888,39,Goal,0.9480000305175781,0.235,0.044737815856933594,Aurélio Buta,h,11311,OpenPlay,2022,RightFoot,19626,Eintracht Frankfurt,Mainz 05,3,0,2023-05-13 13:30:00,Tuta,Chipped
+525895,62,MissedShots,0.8669999694824219,0.335,0.07738751173019409,Aurélio Buta,h,11311,OpenPlay,2022,RightFoot,19626,Eintracht Frankfurt,Mainz 05,3,0,2023-05-13 13:30:00,Randal Kolo Muani,Chipped
+527345,15,BlockedShot,0.8159999847412109,0.23700000762939452,0.020660366863012314,Aurélio Buta,a,11311,OpenPlay,2022,RightFoot,19637,Schalke 04,Eintracht Frankfurt,2,2,2023-05-20 13:30:00,Mario Götze,Pass
+536888,24,BlockedShot,0.884000015258789,0.255,0.028211943805217743,Aurélio Buta,h,11311,OpenPlay,2023,RightFoot,23090,Eintracht Frankfurt,FC Cologne,1,1,2023-09-03 13:30:00,Eric Junior Dina Ebimbe,Chipped
+536900,53,BlockedShot,0.7730000305175782,0.38299999237060545,0.028845712542533875,Aurélio Buta,h,11311,FromCorner,2023,RightFoot,23090,Eintracht Frankfurt,FC Cologne,1,1,2023-09-03 13:30:00,Mario Götze,Pass
+543488,58,BlockedShot,0.914000015258789,0.32799999237060545,0.047935109585523605,Aurélio Buta,h,11311,OpenPlay,2023,RightFoot,23127,Eintracht Frankfurt,FC Heidenheim,2,0,2023-10-08 17:30:00,Philipp Max,Cross
+546141,23,SavedShot,0.88,0.32,0.06527311354875565,Aurélio Buta,h,11311,OpenPlay,2023,RightFoot,23140,Eintracht Frankfurt,Borussia Dortmund,3,3,2023-10-29 14:30:00,Hugo Larsson,Pass
+546142,23,SavedShot,0.904000015258789,0.3820000076293945,0.10259559005498886,Aurélio Buta,h,11311,OpenPlay,2023,LeftFoot,23140,Eintracht Frankfurt,Borussia Dortmund,3,3,2023-10-29 14:30:00,,Rebound
+554999,93,BlockedShot,0.735,0.5429999923706055,0.01565268263220787,Aurélio Buta,a,11311,FromCorner,2023,RightFoot,23194,Bayer Leverkusen,Eintracht Frankfurt,3,0,2023-12-17 16:30:00,,None
+555728,91,Goal,0.899000015258789,0.385,0.02884591743350029,Aurélio Buta,h,11311,OpenPlay,2023,Head,23203,Eintracht Frankfurt,Borussia M.Gladbach,2,1,2023-12-20 19:30:00,Niels Nkounkou,Cross
+558110,87,MissedShots,0.8719999694824219,0.28299999237060547,0.05306234955787659,Aurélio Buta,a,11311,OpenPlay,2023,RightFoot,23210,RasenBallsport Leipzig,Eintracht Frankfurt,0,1,2024-01-13 14:30:00,,None
+574694,14,MissedShots,0.725999984741211,0.44,0.012730899266898632,Aurélio Buta,h,11311,FromCorner,2023,RightFoot,23329,Eintracht Frankfurt,Augsburg,3,1,2024-04-19 18:30:00,,Aerial
+574697,23,SavedShot,0.7440000152587891,0.28200000762939453,0.015669096261262894,Aurélio Buta,h,11311,OpenPlay,2023,RightFoot,23329,Eintracht Frankfurt,Augsburg,3,1,2024-04-19 18:30:00,Omar Marmoush,Pass
+574700,51,BlockedShot,0.815,0.46599998474121096,0.04774939641356468,Aurélio Buta,h,11311,SetPiece,2023,RightFoot,23329,Eintracht Frankfurt,Augsburg,3,1,2024-04-19 18:30:00,Farès Chaïbi,Pass
+576677,49,BlockedShot,0.7569999694824219,0.35,0.012389139272272587,Aurélio Buta,a,11311,SetPiece,2023,RightFoot,23335,Bayern Munich,Eintracht Frankfurt,2,1,2024-04-27 13:30:00,,None
+581558,49,MissedShots,0.774000015258789,0.3890000152587891,0.019568875432014465,Aurélio Buta,h,11311,FromCorner,2023,RightFoot,23365,Eintracht Frankfurt,RasenBallsport Leipzig,2,2,2024-05-18 13:30:00,,None
+592772,57,BlockedShot,0.8669999694824219,0.325,0.06881309300661087,Aurélio Buta,h,11311,OpenPlay,2024,RightFoot,28086,Reims,Paris Saint Germain,1,1,2024-09-21 19:00:00,Junya Ito,Pass
+594769,52,MissedShots,0.8859999847412109,0.2620000076293945,0.033707622438669205,Aurélio Buta,a,11311,OpenPlay,2024,RightFoot,28101,Angers,Reims,1,3,2024-09-29 15:00:00,Junya Ito,Cross
+596231,22,MissedShots,0.8190000152587891,0.44,0.03915562480688095,Aurélio Buta,h,11311,FromCorner,2024,LeftFoot,28105,Reims,Montpellier,4,2,2024-10-06 15:00:00,,None
+602184,7,SavedShot,0.764000015258789,0.590999984741211,0.020043887197971344,Aurélio Buta,a,11311,FromCorner,2024,LeftFoot,28143,Le Havre,Reims,0,3,2024-11-10 16:00:00,Sergio Akieme,Rebound
+610037,32,MissedShots,0.749000015258789,0.44,0.019441111013293266,Aurélio Buta,a,11311,FromCorner,2024,RightFoot,28186,Saint-Etienne,Reims,3,1,2025-01-04 16:00:00,,Dispossessed
+610889,75,MissedShots,0.8219999694824218,0.3990000152587891,0.04368662089109421,Aurélio Buta,h,11311,OpenPlay,2024,RightFoot,28195,Reims,Nice,2,4,2025-01-11 18:00:00,,None
+616345,44,MissedShots,0.7709999847412109,0.4109999847412109,0.01787598617374897,Aurélio Buta,a,11311,SetPiece,2024,RightFoot,28234,Lyon,Reims,4,0,2025-02-09 14:00:00,,None
+626808,28,MissedShots,0.945,0.3129999923706055,0.04824984073638916,Aurélio Buta,a,11311,OpenPlay,2024,RightFoot,28307,Lens,Reims,0,2,2025-04-11 18:45:00,,Rebound
+646331,6,MissedShots,0.7819999694824219,0.629000015258789,0.029344476759433746,Aurélio Buta,h,11311,FromCorner,2025,RightFoot,30272,Eintracht Frankfurt,Bayern Munich,0,3,2025-10-04 16:30:00,Jean Négoce,Pass

@@ -1,0 +1,342 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+76273,57,SavedShot,0.9,0.44099998474121094,0.1250160038471222,Florian Niederlechner,h,306,OpenPlay,2015,RightFoot,1025,Mainz 05,Ingolstadt,0,1,2015-08-15 17:30:00,Yunus Malli,Pass
+76716,89,ShotOnPost,0.87,0.545,0.3240619897842407,Florian Niederlechner,h,306,OpenPlay,2015,RightFoot,1043,Mainz 05,Hannover 96,3,0,2015-08-29 17:30:00,Yunus Malli,Pass
+76717,89,MissedShots,0.955999984741211,0.37099998474121093,0.35206401348114014,Florian Niederlechner,h,306,OpenPlay,2015,RightFoot,1043,Mainz 05,Hannover 96,3,0,2015-08-29 17:30:00,,Rebound
+76804,88,SavedShot,0.9130000305175782,0.4279999923706055,0.11626599729061127,Florian Niederlechner,a,306,OpenPlay,2015,RightFoot,1056,Schalke 04,Mainz 05,2,1,2015-09-13 19:30:00,Daniel Brosinski,Pass
+79309,82,MissedShots,0.9290000152587891,0.5279999923706055,0.08773250132799149,Florian Niederlechner,h,306,OpenPlay,2015,Head,1143,Mainz 05,Eintracht Frankfurt,2,1,2015-11-28 18:45:00,Daniel Brosinski,Aerial
+127651,21,MissedShots,0.835,0.6669999694824219,0.03850569948554039,Florian Niederlechner,a,306,OpenPlay,2016,LeftFoot,1334,Hertha Berlin,Freiburg,2,1,2016-08-28 17:30:00,Maximilian Philipp,Pass
+128075,15,ShotOnPost,0.8180000305175781,0.3820000076293945,0.047002099454402924,Florian Niederlechner,h,306,OpenPlay,2016,RightFoot,1340,Freiburg,Borussia M.Gladbach,3,1,2016-09-10 17:30:00,Pascal Stenzel,TakeOn
+128081,37,BlockedShot,0.93,0.4470000076293945,0.05292319878935814,Florian Niederlechner,h,306,FromCorner,2016,Head,1340,Freiburg,Borussia M.Gladbach,3,1,2016-09-10 17:30:00,Vincenzo Grifo,TakeOn
+128082,46,MissedShots,0.9119999694824219,0.4129999923706055,0.07487910240888596,Florian Niederlechner,h,306,FromCorner,2016,RightFoot,1340,Freiburg,Borussia M.Gladbach,3,1,2016-09-10 17:30:00,Vincenzo Grifo,Pass
+128083,50,BlockedShot,0.7819999694824219,0.5940000152587891,0.06072400137782097,Florian Niederlechner,h,306,OpenPlay,2016,RightFoot,1340,Freiburg,Borussia M.Gladbach,3,1,2016-09-10 17:30:00,Christian Günter,TakeOn
+128089,61,BlockedShot,0.96,0.5829999923706055,0.12500500679016113,Florian Niederlechner,h,306,SetPiece,2016,LeftFoot,1340,Freiburg,Borussia M.Gladbach,3,1,2016-09-10 17:30:00,,Rebound
+128260,4,SavedShot,0.885,0.575999984741211,0.3411119878292084,Florian Niederlechner,a,306,OpenPlay,2016,LeftFoot,1345,FC Cologne,Freiburg,3,0,2016-09-16 22:30:00,Onur Bulut,Rebound
+128264,16,SavedShot,0.895,0.524000015258789,0.08827350288629532,Florian Niederlechner,a,306,SetPiece,2016,Head,1345,FC Cologne,Freiburg,3,0,2016-09-16 22:30:00,Vincenzo Grifo,Cross
+128275,45,MissedShots,0.8590000152587891,0.539000015258789,0.09995490312576294,Florian Niederlechner,a,306,OpenPlay,2016,RightFoot,1345,FC Cologne,Freiburg,3,0,2016-09-16 22:30:00,Vincenzo Grifo,Pass
+128280,74,MissedShots,0.8819999694824219,0.645,0.03859030082821846,Florian Niederlechner,a,306,OpenPlay,2016,LeftFoot,1345,FC Cologne,Freiburg,3,0,2016-09-16 22:30:00,Christian Günter,Cross
+128281,75,SavedShot,0.794000015258789,0.4779999923706055,0.04037480056285858,Florian Niederlechner,a,306,OpenPlay,2016,LeftFoot,1345,FC Cologne,Freiburg,3,0,2016-09-16 22:30:00,Janik Haberer,Dispossessed
+128282,78,SavedShot,0.8590000152587891,0.6229999923706054,0.2697739899158478,Florian Niederlechner,a,306,OpenPlay,2016,LeftFoot,1345,FC Cologne,Freiburg,3,0,2016-09-16 22:30:00,Nils Petersen,TakeOn
+128283,78,SavedShot,0.865999984741211,0.6329999923706054,0.010330400429666042,Florian Niederlechner,a,306,OpenPlay,2016,Head,1345,FC Cologne,Freiburg,3,0,2016-09-16 22:30:00,,Rebound
+128567,20,BlockedShot,0.93,0.5629999923706055,0.04159940034151077,Florian Niederlechner,h,306,FromCorner,2016,Head,1357,Freiburg,Hamburger SV,1,0,2016-09-20 22:00:00,Vincenzo Grifo,Tackle
+128580,50,MissedShots,0.9319999694824219,0.42900001525878906,0.08696819841861725,Florian Niederlechner,h,306,FromCorner,2016,Head,1357,Freiburg,Hamburger SV,1,0,2016-09-20 22:00:00,Vincenzo Grifo,Cross
+129246,61,BlockedShot,0.769000015258789,0.44099998474121094,0.028257599100470543,Florian Niederlechner,a,306,OpenPlay,2016,LeftFoot,1385,Hoffenheim,Freiburg,2,1,2016-10-15 17:30:00,Nils Petersen,Chipped
+129247,73,MissedShots,0.8630000305175781,0.580999984741211,0.06173869967460632,Florian Niederlechner,a,306,OpenPlay,2016,RightFoot,1385,Hoffenheim,Freiburg,2,1,2016-10-15 17:30:00,,None
+129249,75,SavedShot,0.8969999694824219,0.3160000038146973,0.041763000190258026,Florian Niederlechner,a,306,FromCorner,2016,RightFoot,1385,Hoffenheim,Freiburg,2,1,2016-10-15 17:30:00,,None
+129250,76,Goal,0.909000015258789,0.5070000076293946,0.4484170079231262,Florian Niederlechner,a,306,OpenPlay,2016,RightFoot,1385,Hoffenheim,Freiburg,2,1,2016-10-15 17:30:00,Caglar Söyüncü,Throughball
+129253,82,MissedShots,0.5209999847412109,0.5129999923706055,0.008062469772994518,Florian Niederlechner,a,306,OpenPlay,2016,RightFoot,1385,Hoffenheim,Freiburg,2,1,2016-10-15 17:30:00,Nicolas Höfler,Pass
+129444,16,SavedShot,0.879000015258789,0.7730000305175782,0.022882400080561638,Florian Niederlechner,h,306,OpenPlay,2016,LeftFoot,1393,Freiburg,Augsburg,2,1,2016-10-22 17:30:00,,None
+129698,22,MissedShots,0.654000015258789,0.57,0.00794972013682127,Florian Niederlechner,h,306,OpenPlay,2016,RightFoot,2811,Freiburg,Wolfsburg,0,3,2016-11-05 18:30:00,,None
+129909,21,BlockedShot,0.85,0.45799999237060546,0.05990780144929886,Florian Niederlechner,a,306,OpenPlay,2016,RightFoot,2817,Mainz 05,Freiburg,4,2,2016-11-19 18:30:00,Nils Petersen,HeadPass
+129915,35,SavedShot,0.865,0.655,0.059210699051618576,Florian Niederlechner,a,306,OpenPlay,2016,LeftFoot,2817,Mainz 05,Freiburg,4,2,2016-11-19 18:30:00,Mike Frantz,Pass
+129921,47,SavedShot,0.9740000152587891,0.6409999847412109,0.014437999576330185,Florian Niederlechner,a,306,FromCorner,2016,Head,2817,Mainz 05,Freiburg,4,2,2016-11-19 18:30:00,Vincenzo Grifo,Cross
+129933,74,BlockedShot,0.8880000305175781,0.6680000305175782,0.05365680158138275,Florian Niederlechner,a,306,OpenPlay,2016,LeftFoot,2817,Mainz 05,Freiburg,4,2,2016-11-19 18:30:00,Vincenzo Grifo,Pass
+130303,14,Goal,0.9369999694824219,0.5379999923706055,0.26859501004219055,Florian Niederlechner,h,306,OpenPlay,2016,Head,2824,Freiburg,RasenBallsport Leipzig,1,4,2016-11-25 23:30:00,Pascal Stenzel,Chipped
+130393,12,BlockedShot,0.9130000305175782,0.40599998474121096,0.11332400143146515,Florian Niederlechner,a,306,OpenPlay,2016,RightFoot,3195,Bayer Leverkusen,Freiburg,1,1,2016-12-03 18:30:00,Julian Schuster,Pass
+130394,19,BlockedShot,0.7680000305175781,0.47,0.024619899690151215,Florian Niederlechner,a,306,SetPiece,2016,RightFoot,3195,Bayer Leverkusen,Freiburg,1,1,2016-12-03 18:30:00,Vincenzo Grifo,Pass
+130395,23,BlockedShot,0.8030000305175782,0.5029999923706054,0.07373929768800735,Florian Niederlechner,a,306,OpenPlay,2016,RightFoot,3195,Bayer Leverkusen,Freiburg,1,1,2016-12-03 18:30:00,Vincenzo Grifo,Pass
+131357,70,SavedShot,0.9119999694824219,0.5220000076293946,0.4899350106716156,Florian Niederlechner,h,306,FromCorner,2016,RightFoot,3202,Freiburg,Darmstadt,1,0,2016-12-10 18:30:00,,None
+131362,80,MissedShots,0.855999984741211,0.4640000152587891,0.09867910295724869,Florian Niederlechner,h,306,OpenPlay,2016,RightFoot,3202,Freiburg,Darmstadt,1,0,2016-12-10 18:30:00,Mike Frantz,Pass
+131363,81,BlockedShot,0.8480000305175781,0.6120000076293945,0.04543200135231018,Florian Niederlechner,h,306,OpenPlay,2016,LeftFoot,3202,Freiburg,Darmstadt,1,0,2016-12-10 18:30:00,Alexander Schwolow,TakeOn
+131441,17,MissedShots,0.8819999694824219,0.355,0.29048100113868713,Florian Niederlechner,a,306,OpenPlay,2016,RightFoot,3214,Schalke 04,Freiburg,1,1,2016-12-17 18:30:00,Janik Haberer,Pass
+131449,47,SavedShot,0.875,0.645,0.10888300091028214,Florian Niederlechner,a,306,OpenPlay,2016,LeftFoot,3214,Schalke 04,Freiburg,1,1,2016-12-17 18:30:00,Pascal Stenzel,Chipped
+131450,53,MissedShots,0.8109999847412109,0.639000015258789,0.09176140278577805,Florian Niederlechner,a,306,OpenPlay,2016,RightFoot,3214,Schalke 04,Freiburg,1,1,2016-12-17 18:30:00,Janik Haberer,Chipped
+131454,63,Goal,0.9419999694824219,0.6,0.6815459728240967,Florian Niederlechner,a,306,OpenPlay,2016,LeftFoot,3214,Schalke 04,Freiburg,1,1,2016-12-17 18:30:00,Janik Haberer,TakeOn
+130326,18,SavedShot,0.7980000305175782,0.664000015258789,0.028321299701929092,Florian Niederlechner,a,306,OpenPlay,2016,RightFoot,3223,Ingolstadt,Freiburg,1,2,2016-12-21 23:00:00,Janik Haberer,Pass
+130328,19,BlockedShot,0.835999984741211,0.30100000381469727,0.028853200376033783,Florian Niederlechner,a,306,FromCorner,2016,RightFoot,3223,Ingolstadt,Freiburg,1,2,2016-12-21 23:00:00,Mike Frantz,HeadPass
+130329,24,SavedShot,0.9330000305175781,0.705,0.04358790069818497,Florian Niederlechner,a,306,SetPiece,2016,LeftFoot,3223,Ingolstadt,Freiburg,1,2,2016-12-21 23:00:00,,None
+130331,33,Goal,0.885,0.5,0.7577769756317139,Florian Niederlechner,a,306,Penalty,2016,RightFoot,3223,Ingolstadt,Freiburg,1,2,2016-12-21 23:00:00,,Standard
+130333,40,Goal,0.9169999694824219,0.4370000076293945,0.3966050148010254,Florian Niederlechner,a,306,OpenPlay,2016,RightFoot,3223,Ingolstadt,Freiburg,1,2,2016-12-21 23:00:00,Janik Haberer,HeadPass
+130899,1,BlockedShot,0.775,0.48200000762939454,0.03172609955072403,Florian Niederlechner,h,306,OpenPlay,2016,LeftFoot,3722,Freiburg,Bayern Munich,1,2,2017-01-20 19:30:00,Maximilian Philipp,Pass
+130902,5,BlockedShot,0.7040000152587891,0.5259999847412109,0.016016200184822083,Florian Niederlechner,h,306,OpenPlay,2016,RightFoot,3722,Freiburg,Bayern Munich,1,2,2017-01-20 19:30:00,Janik Haberer,Pass
+130905,19,SavedShot,0.7480000305175781,0.5379999923706055,0.04786819964647293,Florian Niederlechner,h,306,OpenPlay,2016,RightFoot,3722,Freiburg,Bayern Munich,1,2,2017-01-20 19:30:00,Vincenzo Grifo,Pass
+131427,67,SavedShot,0.9130000305175782,0.69,0.07631640136241913,Florian Niederlechner,h,306,OpenPlay,2016,LeftFoot,3738,Freiburg,Hertha Berlin,2,1,2017-01-29 17:30:00,Janik Haberer,HeadPass
+131590,44,BlockedShot,0.904000015258789,0.3370000076293945,0.04363999888300896,Florian Niederlechner,a,306,FromCorner,2016,LeftFoot,3744,Borussia M.Gladbach,Freiburg,3,0,2017-02-04 14:30:00,,BallTouch
+132370,64,SavedShot,0.9530000305175781,0.615,0.05891460180282593,Florian Niederlechner,h,306,OpenPlay,2016,LeftFoot,3770,Freiburg,Borussia Dortmund,0,3,2017-02-25 14:30:00,Vincenzo Grifo,Cross
+132374,71,MissedShots,0.8780000305175781,0.475,0.058891501277685165,Florian Niederlechner,h,306,OpenPlay,2016,RightFoot,3770,Freiburg,Borussia Dortmund,0,3,2017-02-25 14:30:00,Mike Frantz,Cross
+133386,24,Goal,0.9630000305175781,0.5940000152587891,0.9010499715805054,Florian Niederlechner,a,306,OpenPlay,2016,LeftFoot,3783,Eintracht Frankfurt,Freiburg,1,2,2017-03-05 14:30:00,Nicolas Höfler,TakeOn
+133394,58,Goal,0.9159999847412109,0.5729999923706055,0.4337170124053955,Florian Niederlechner,a,306,OpenPlay,2016,RightFoot,3783,Eintracht Frankfurt,Freiburg,1,2,2017-03-05 14:30:00,Vincenzo Grifo,Throughball
+133401,83,BlockedShot,0.899000015258789,0.6530000305175782,0.09317050129175186,Florian Niederlechner,a,306,OpenPlay,2016,LeftFoot,3783,Eintracht Frankfurt,Freiburg,1,2,2017-03-05 14:30:00,Mike Frantz,Pass
+134675,29,Goal,0.885,0.5,0.7577769756317139,Florian Niederlechner,a,306,Penalty,2016,RightFoot,3797,Augsburg,Freiburg,1,1,2017-03-18 14:30:00,,Standard
+134678,36,SavedShot,0.9869999694824219,0.625,0.05832060053944588,Florian Niederlechner,a,306,SetPiece,2016,LeftFoot,3797,Augsburg,Freiburg,1,1,2017-03-18 14:30:00,Julian Schuster,Chipped
+134690,79,BlockedShot,0.8859999847412109,0.6359999847412109,0.0840424969792366,Florian Niederlechner,a,306,OpenPlay,2016,LeftFoot,3797,Augsburg,Freiburg,1,1,2017-03-18 14:30:00,Christian Günter,Pass
+133941,20,MissedShots,0.955999984741211,0.6819999694824219,0.11146800220012665,Florian Niederlechner,a,306,OpenPlay,2016,LeftFoot,3819,Wolfsburg,Freiburg,0,1,2017-04-05 19:00:00,Vincenzo Grifo,Throughball
+133947,40,MissedShots,0.8730000305175781,0.25299999237060544,0.029295900836586952,Florian Niederlechner,a,306,OpenPlay,2016,LeftFoot,3819,Wolfsburg,Freiburg,0,1,2017-04-05 19:00:00,Lukas Kübler,Pass
+133951,45,MissedShots,0.9159999847412109,0.6519999694824219,0.06717629730701447,Florian Niederlechner,a,306,OpenPlay,2016,LeftFoot,3819,Wolfsburg,Freiburg,0,1,2017-04-05 19:00:00,,Rebound
+133962,77,Goal,0.8219999694824218,0.6040000152587891,0.04788050055503845,Florian Niederlechner,a,306,OpenPlay,2016,RightFoot,3819,Wolfsburg,Freiburg,0,1,2017-04-05 19:00:00,Nils Petersen,Pass
+133963,80,SavedShot,0.8230000305175781,0.41,0.074959896504879,Florian Niederlechner,a,306,OpenPlay,2016,LeftFoot,3819,Wolfsburg,Freiburg,0,1,2017-04-05 19:00:00,Lukas Kübler,HeadPass
+133212,28,MissedShots,0.8719999694824219,0.33,0.05137040093541145,Florian Niederlechner,a,306,OpenPlay,2016,RightFoot,3837,RasenBallsport Leipzig,Freiburg,4,0,2017-04-15 14:30:00,,None
+133224,78,MissedShots,0.91,0.6459999847412109,0.07103099673986435,Florian Niederlechner,a,306,OpenPlay,2016,LeftFoot,3837,RasenBallsport Leipzig,Freiburg,4,0,2017-04-15 14:30:00,Janik Haberer,OffsidePass
+133226,84,BlockedShot,0.8680000305175781,0.695,0.016324099153280258,Florian Niederlechner,a,306,SetPiece,2016,LeftFoot,3837,RasenBallsport Leipzig,Freiburg,4,0,2017-04-15 14:30:00,,Aerial
+134084,66,BlockedShot,0.975999984741211,0.38,0.31868600845336914,Florian Niederlechner,h,306,OpenPlay,2016,RightFoot,3847,Freiburg,Bayer Leverkusen,2,1,2017-04-23 14:30:00,Janik Haberer,Pass
+134087,71,SavedShot,0.9780000305175781,0.7569999694824219,0.01876020058989525,Florian Niederlechner,h,306,OpenPlay,2016,RightFoot,3847,Freiburg,Bayer Leverkusen,2,1,2017-04-23 14:30:00,Alexander Schwolow,Pass
+134090,74,MissedShots,0.925,0.6,0.04556119814515114,Florian Niederlechner,h,306,FromCorner,2016,Head,3847,Freiburg,Bayer Leverkusen,2,1,2017-04-23 14:30:00,Mike Frantz,Cross
+134627,45,BlockedShot,0.8959999847412109,0.6790000152587891,0.03628569841384888,Florian Niederlechner,a,306,OpenPlay,2016,LeftFoot,3849,Darmstadt,Freiburg,3,0,2017-04-29 14:30:00,Mike Frantz,HeadPass
+134641,78,MissedShots,0.9009999847412109,0.32799999237060545,0.0640454962849617,Florian Niederlechner,a,306,OpenPlay,2016,RightFoot,3849,Darmstadt,Freiburg,3,0,2017-04-29 14:30:00,Mike Frantz,Pass
+132815,19,MissedShots,0.8590000152587891,0.75,0.024800000712275505,Florian Niederlechner,h,306,OpenPlay,2016,LeftFoot,3858,Freiburg,Schalke 04,2,0,2017-05-07 16:30:00,,None
+132817,21,Goal,0.9219999694824219,0.6719999694824219,0.047686800360679626,Florian Niederlechner,h,306,FromCorner,2016,LeftFoot,3858,Freiburg,Schalke 04,2,0,2017-05-07 16:30:00,Janik Haberer,Pass
+132819,30,Goal,0.885,0.5,0.7577769756317139,Florian Niederlechner,h,306,Penalty,2016,RightFoot,3858,Freiburg,Schalke 04,2,0,2017-05-07 16:30:00,,Standard
+133537,45,SavedShot,0.899000015258789,0.4329999923706055,0.37802499532699585,Florian Niederlechner,h,306,OpenPlay,2016,RightFoot,3873,Freiburg,Ingolstadt,1,1,2017-05-13 14:30:00,Maximilian Philipp,TakeOn
+133540,47,BlockedShot,0.8640000152587891,0.6419999694824219,0.04683680087327957,Florian Niederlechner,h,306,SetPiece,2016,RightFoot,3873,Freiburg,Ingolstadt,1,1,2017-05-13 14:30:00,,Rebound
+128117,4,BlockedShot,0.8580000305175781,0.6480000305175782,0.05704319849610329,Florian Niederlechner,a,306,OpenPlay,2016,RightFoot,3883,Bayern Munich,Freiburg,4,1,2017-05-20 14:30:00,Janik Haberer,Pass
+128139,41,MissedShots,0.710999984741211,0.7119999694824218,0.011065900325775146,Florian Niederlechner,a,306,OpenPlay,2016,RightFoot,3883,Bayern Munich,Freiburg,4,1,2017-05-20 14:30:00,Maximilian Philipp,BlockedPass
+128147,60,SavedShot,0.8540000152587891,0.3160000038146973,0.030853400006890297,Florian Niederlechner,a,306,FromCorner,2016,LeftFoot,3883,Bayern Munich,Freiburg,4,1,2017-05-20 14:30:00,,None
+128150,65,BlockedShot,0.8580000305175781,0.4540000152587891,0.06638380140066147,Florian Niederlechner,a,306,OpenPlay,2016,RightFoot,3883,Bayern Munich,Freiburg,4,1,2017-05-20 14:30:00,,BallTouch
+128158,78,SavedShot,0.8080000305175781,0.7169999694824218,0.01938669942319393,Florian Niederlechner,a,306,OpenPlay,2016,RightFoot,3883,Bayern Munich,Freiburg,4,1,2017-05-20 14:30:00,Maximilian Philipp,Chipped
+165852,77,MissedShots,0.889000015258789,0.42700000762939455,0.06649930030107498,Florian Niederlechner,h,306,FromCorner,2017,RightFoot,8266,Freiburg,Eintracht Frankfurt,0,0,2017-08-20 14:30:00,Julian Schuster,Pass
+166006,1,MissedShots,0.9540000152587891,0.2620000076293945,0.03953440114855766,Florian Niederlechner,a,306,OpenPlay,2017,RightFoot,8275,RasenBallsport Leipzig,Freiburg,4,1,2017-08-27 14:30:00,Pascal Stenzel,Pass
+166008,5,MissedShots,0.875,0.26,0.03241249918937683,Florian Niederlechner,a,306,OpenPlay,2017,RightFoot,8275,RasenBallsport Leipzig,Freiburg,4,1,2017-08-27 14:30:00,Mike Frantz,BallRecovery
+166014,22,Goal,0.8590000152587891,0.605999984741211,0.08277170360088348,Florian Niederlechner,a,306,OpenPlay,2017,RightFoot,8275,RasenBallsport Leipzig,Freiburg,4,1,2017-08-27 14:30:00,Marco Terrazzino,Pass
+166016,32,MissedShots,0.9769999694824218,0.4209999847412109,0.14759700000286102,Florian Niederlechner,a,306,OpenPlay,2017,RightFoot,8275,RasenBallsport Leipzig,Freiburg,4,1,2017-08-27 14:30:00,Janik Haberer,Pass
+166898,18,MissedShots,0.769000015258789,0.4209999847412109,0.02726460061967373,Florian Niederlechner,h,306,OpenPlay,2017,RightFoot,8301,Freiburg,Hannover 96,1,1,2017-09-20 19:30:00,Marco Terrazzino,Pass
+166905,31,SavedShot,0.9730000305175781,0.5329999923706055,0.6450250148773193,Florian Niederlechner,h,306,OpenPlay,2017,Head,8301,Freiburg,Hannover 96,1,1,2017-09-20 19:30:00,Marco Terrazzino,Cross
+166913,53,MissedShots,0.885,0.5,0.7577769756317139,Florian Niederlechner,h,306,Penalty,2017,RightFoot,8301,Freiburg,Hannover 96,1,1,2017-09-20 19:30:00,,Standard
+166917,63,BlockedShot,0.7680000305175781,0.365,0.023505799472332,Florian Niederlechner,h,306,OpenPlay,2017,RightFoot,8301,Freiburg,Hannover 96,1,1,2017-09-20 19:30:00,Marco Terrazzino,Pass
+166926,89,MissedShots,0.8190000152587891,0.5609999847412109,0.05951489880681038,Florian Niederlechner,h,306,OpenPlay,2017,LeftFoot,8301,Freiburg,Hannover 96,1,1,2017-09-20 19:30:00,Florian Kath,HeadPass
+166692,13,SavedShot,0.889000015258789,0.24799999237060547,0.02323720045387745,Florian Niederlechner,a,306,FromCorner,2017,LeftFoot,8307,Werder Bremen,Freiburg,0,0,2017-09-23 14:30:00,,None
+166696,26,SavedShot,0.8730000305175781,0.43900001525878907,0.08939959853887558,Florian Niederlechner,a,306,OpenPlay,2017,LeftFoot,8307,Werder Bremen,Freiburg,0,0,2017-09-23 14:30:00,Pascal Stenzel,Foul
+166701,39,SavedShot,0.870999984741211,0.40299999237060546,0.34255099296569824,Florian Niederlechner,a,306,OpenPlay,2017,RightFoot,8307,Werder Bremen,Freiburg,0,0,2017-09-23 14:30:00,Janik Haberer,Throughball
+166702,42,SavedShot,0.8769999694824219,0.5579999923706055,0.017138000577688217,Florian Niederlechner,a,306,OpenPlay,2017,Head,8307,Werder Bremen,Freiburg,0,0,2017-09-23 14:30:00,Pascal Stenzel,Aerial
+167041,2,MissedShots,0.98,0.38,0.05947139859199524,Florian Niederlechner,h,306,FromCorner,2017,RightFoot,8316,Freiburg,Hoffenheim,3,2,2017-10-01 12:30:00,Nicolas Höfler,HeadPass
+167044,14,Goal,0.91,0.41700000762939454,0.1438640058040619,Florian Niederlechner,h,306,OpenPlay,2017,LeftFoot,8316,Freiburg,Hoffenheim,3,2,2017-10-01 12:30:00,Janik Haberer,TakeOn
+167049,30,BlockedShot,0.905,0.6630000305175782,0.08926749974489212,Florian Niederlechner,h,306,OpenPlay,2017,LeftFoot,8316,Freiburg,Hoffenheim,3,2,2017-10-01 12:30:00,Janik Haberer,Pass
+167057,55,BlockedShot,0.8390000152587891,0.6619999694824219,0.018326999619603157,Florian Niederlechner,h,306,FromCorner,2017,RightFoot,8316,Freiburg,Hoffenheim,3,2,2017-10-01 12:30:00,,Aerial
+167058,55,BlockedShot,0.8519999694824218,0.7030000305175781,0.03921600058674812,Florian Niederlechner,h,306,FromCorner,2017,RightFoot,8316,Freiburg,Hoffenheim,3,2,2017-10-01 12:30:00,,Rebound
+167536,43,MissedShots,0.9159999847412109,0.6990000152587891,0.04474639892578125,Florian Niederlechner,a,306,SetPiece,2017,RightFoot,8322,Bayern Munich,Freiburg,5,0,2017-10-14 14:30:00,,None
+168092,2,MissedShots,0.9330000305175781,0.5779999923706055,0.11053100228309631,Florian Niederlechner,h,306,OpenPlay,2017,Head,8333,Freiburg,Hertha Berlin,1,1,2017-10-22 14:30:00,Christian Günter,Cross
+168099,28,BlockedShot,0.879000015258789,0.7319999694824219,0.025606900453567505,Florian Niederlechner,h,306,FromCorner,2017,LeftFoot,8333,Freiburg,Hertha Berlin,1,1,2017-10-22 14:30:00,,None
+168101,32,BlockedShot,0.81,0.515,0.06164129823446274,Florian Niederlechner,h,306,OpenPlay,2017,LeftFoot,8333,Freiburg,Hertha Berlin,1,1,2017-10-22 14:30:00,Mike Frantz,HeadPass
+168112,72,MissedShots,0.855999984741211,0.3609999847412109,0.08049169927835464,Florian Niederlechner,h,306,OpenPlay,2017,LeftFoot,8333,Freiburg,Hertha Berlin,1,1,2017-10-22 14:30:00,Philipp Lienhart,Pass
+219999,2,SavedShot,0.8830000305175781,0.38799999237060545,0.07610320299863815,Florian Niederlechner,h,306,OpenPlay,2018,RightFoot,10342,Freiburg,Eintracht Frankfurt,0,2,2018-08-25 16:30:00,Pascal Stenzel,Chipped
+220000,4,MissedShots,0.879000015258789,0.7090000152587891,0.03671000152826309,Florian Niederlechner,h,306,OpenPlay,2018,LeftFoot,10342,Freiburg,Eintracht Frankfurt,0,2,2018-08-25 16:30:00,Mike Frantz,Pass
+220007,19,BlockedShot,0.8109999847412109,0.4490000152587891,0.05551550164818764,Florian Niederlechner,h,306,OpenPlay,2018,LeftFoot,10342,Freiburg,Eintracht Frankfurt,0,2,2018-08-25 16:30:00,Mike Frantz,Pass
+220015,46,MissedShots,0.9059999847412109,0.495,0.45133501291275024,Florian Niederlechner,h,306,OpenPlay,2018,RightFoot,10342,Freiburg,Eintracht Frankfurt,0,2,2018-08-25 16:30:00,Christian Günter,Pass
+220016,48,SavedShot,0.9390000152587891,0.72,0.04406009986996651,Florian Niederlechner,h,306,OpenPlay,2018,LeftFoot,10342,Freiburg,Eintracht Frankfurt,0,2,2018-08-25 16:30:00,Gian-Luca Waldschmidt,Pass
+221594,13,BlockedShot,0.785,0.5729999923706055,0.043046899139881134,Florian Niederlechner,a,306,OpenPlay,2018,RightFoot,10350,Hoffenheim,Freiburg,3,1,2018-09-01 13:30:00,Nils Petersen,LayOff
+221595,13,SavedShot,0.8280000305175781,0.5479999923706055,0.05316749960184097,Florian Niederlechner,a,306,OpenPlay,2018,LeftFoot,10350,Hoffenheim,Freiburg,3,1,2018-09-01 13:30:00,,Rebound
+221603,46,SavedShot,0.8519999694824218,0.5629999923706055,0.5269420146942139,Florian Niederlechner,a,306,OpenPlay,2018,RightFoot,10350,Hoffenheim,Freiburg,3,1,2018-09-01 13:30:00,Jérôme Gondorf,Throughball
+221612,69,MissedShots,0.8109999847412109,0.5309999847412109,0.05394190177321434,Florian Niederlechner,a,306,OpenPlay,2018,RightFoot,10350,Hoffenheim,Freiburg,3,1,2018-09-01 13:30:00,Nils Petersen,Pass
+224993,77,SavedShot,0.8819999694824219,0.6809999847412109,0.07988090068101883,Florian Niederlechner,a,306,OpenPlay,2018,LeftFoot,10368,Wolfsburg,Freiburg,1,3,2018-09-22 13:30:00,Nils Petersen,Pass
+224994,79,SavedShot,0.8640000152587891,0.6079999923706054,0.27664101123809814,Florian Niederlechner,a,306,OpenPlay,2018,RightFoot,10368,Wolfsburg,Freiburg,1,3,2018-09-22 13:30:00,Gian-Luca Waldschmidt,Pass
+264246,8,MissedShots,0.7769999694824219,0.720999984741211,0.018357999622821808,Florian Niederlechner,h,306,OpenPlay,2018,RightFoot,10375,Freiburg,Schalke 04,1,0,2018-09-25 18:30:00,Nils Petersen,Pass
+264260,51,Goal,0.955,0.575,0.4896770119667053,Florian Niederlechner,h,306,OpenPlay,2018,LeftFoot,10375,Freiburg,Schalke 04,1,0,2018-09-25 18:30:00,,Rebound
+228803,47,SavedShot,0.925,0.485,0.44902700185775757,Florian Niederlechner,a,306,OpenPlay,2018,RightFoot,10390,Augsburg,Freiburg,4,1,2018-09-30 16:00:00,,Rebound
+228807,50,SavedShot,0.7609999847412109,0.6359999847412109,0.021855000406503677,Florian Niederlechner,a,306,OpenPlay,2018,RightFoot,10390,Augsburg,Freiburg,4,1,2018-09-30 16:00:00,Christian Günter,Pass
+228816,68,BlockedShot,0.7919999694824219,0.37,0.026322100311517715,Florian Niederlechner,a,306,OpenPlay,2018,RightFoot,10390,Augsburg,Freiburg,4,1,2018-09-30 16:00:00,Roland Sallai,Pass
+257609,81,BlockedShot,0.7480000305175781,0.48200000762939454,0.02528410032391548,Florian Niederlechner,h,306,OpenPlay,2018,LeftFoot,10475,Freiburg,Hannover 96,1,1,2018-12-19 19:30:00,Gian-Luca Waldschmidt,Pass
+257610,83,MissedShots,0.749000015258789,0.580999984741211,0.02683130092918873,Florian Niederlechner,h,306,OpenPlay,2018,RightFoot,10475,Freiburg,Hannover 96,1,1,2018-12-19 19:30:00,Gian-Luca Waldschmidt,HeadPass
+278314,27,BlockedShot,0.8930000305175781,0.6719999694824219,0.06429629772901535,Florian Niederlechner,a,306,OpenPlay,2018,LeftFoot,10492,Eintracht Frankfurt,Freiburg,3,1,2019-01-19 14:30:00,,BlockedPass
+278316,28,SavedShot,0.8690000152587891,0.72,0.032593000680208206,Florian Niederlechner,a,306,OpenPlay,2018,RightFoot,10492,Eintracht Frankfurt,Freiburg,3,1,2019-01-19 14:30:00,Vincenzo Grifo,Pass
+278608,76,Goal,0.925,0.41700000762939454,0.06321019679307938,Florian Niederlechner,h,306,FromCorner,2018,Head,10504,Freiburg,Hoffenheim,2,4,2019-01-26 14:30:00,Christian Günter,Cross
+278613,79,SavedShot,0.8959999847412109,0.23,0.03756919875741005,Florian Niederlechner,h,306,FromCorner,2018,RightFoot,10504,Freiburg,Hoffenheim,2,4,2019-01-26 14:30:00,Christian Günter,Pass
+278949,93,Goal,0.9790000152587891,0.5029999923706054,0.9448000192642212,Florian Niederlechner,a,306,OpenPlay,2018,RightFoot,10509,VfB Stuttgart,Freiburg,2,2,2019-02-03 17:00:00,Jérôme Gondorf,Pass
+279455,84,Goal,0.895,0.61,0.32901400327682495,Florian Niederlechner,h,306,OpenPlay,2018,RightFoot,10541,Freiburg,Augsburg,5,1,2019-02-23 14:30:00,Janik Haberer,Pass
+279457,89,SavedShot,0.8180000305175781,0.615999984741211,0.03005949966609478,Florian Niederlechner,h,306,SetPiece,2018,RightFoot,10541,Freiburg,Augsburg,5,1,2019-02-23 14:30:00,Pascal Stenzel,Pass
+279681,69,SavedShot,0.8919999694824219,0.7280000305175781,0.019422000274062157,Florian Niederlechner,a,306,OpenPlay,2018,RightFoot,10545,Bayer Leverkusen,Freiburg,2,0,2019-03-02 14:30:00,Vincenzo Grifo,Cross
+291698,88,SavedShot,0.8009999847412109,0.3160000038146973,0.026891300454735756,Florian Niederlechner,a,306,OpenPlay,2018,RightFoot,10587,Mainz 05,Freiburg,5,0,2019-04-05 19:30:00,Janik Haberer,Pass
+293511,70,SavedShot,0.9059999847412109,0.425,0.06306420266628265,Florian Niederlechner,a,306,SetPiece,2018,RightFoot,10594,Werder Bremen,Freiburg,2,1,2019-04-13 14:30:00,Vincenzo Grifo,Cross
+295921,27,MissedShots,0.9230000305175782,0.5359999847412109,0.13059300184249878,Florian Niederlechner,h,306,SetPiece,2018,Head,10601,Freiburg,Borussia Dortmund,0,4,2019-04-21 14:30:00,Vincenzo Grifo,Cross
+297352,93,MissedShots,0.9019999694824219,0.7140000152587891,0.03224499896168709,Florian Niederlechner,a,306,OpenPlay,2018,LeftFoot,10609,RasenBallsport Leipzig,Freiburg,2,1,2019-04-27 14:30:00,Christian Günter,Pass
+300649,10,BlockedShot,0.85,0.7240000152587891,0.029183000326156616,Florian Niederlechner,a,306,OpenPlay,2018,RightFoot,10632,Hannover 96,Freiburg,3,0,2019-05-11 14:30:00,Vincenzo Grifo,Pass
+310646,0,Goal,0.9390000152587891,0.5529999923706055,0.5621690154075623,Florian Niederlechner,a,306,OpenPlay,2019,LeftFoot,12406,Borussia Dortmund,Augsburg,5,1,2019-08-17 14:30:00,Mads Pedersen,Pass
+310665,67,MissedShots,0.8930000305175781,0.28299999237060547,0.04336579889059067,Florian Niederlechner,a,306,OpenPlay,2019,RightFoot,12406,Borussia Dortmund,Augsburg,5,1,2019-08-17 14:30:00,Daniel Baier,TakeOn
+312444,25,MissedShots,0.9690000152587891,0.33599998474121096,0.0675399973988533,Florian Niederlechner,h,306,OpenPlay,2019,RightFoot,12417,Augsburg,Union Berlin,1,1,2019-08-24 14:30:00,André Hahn,BallTouch
+312454,54,SavedShot,0.8780000305175781,0.5729999923706055,0.03481850028038025,Florian Niederlechner,h,306,OpenPlay,2019,Head,12417,Augsburg,Union Berlin,1,1,2019-08-24 14:30:00,Philipp Max,Cross
+312458,72,MissedShots,0.8440000152587891,0.5070000076293946,0.3427720069885254,Florian Niederlechner,h,306,OpenPlay,2019,RightFoot,12417,Augsburg,Union Berlin,1,1,2019-08-24 14:30:00,Marco Richter,TakeOn
+316373,81,ShotOnPost,0.8590000152587891,0.415,0.06090709939599037,Florian Niederlechner,a,306,OpenPlay,2019,LeftFoot,12428,Werder Bremen,Augsburg,3,2,2019-09-01 14:30:00,Alfred Finnbogason,HeadPass
+316375,85,MissedShots,0.9130000305175782,0.44099998474121094,0.0773221030831337,Florian Niederlechner,a,306,OpenPlay,2019,Head,12428,Werder Bremen,Augsburg,3,2,2019-09-01 14:30:00,Mads Pedersen,Cross
+317181,0,SavedShot,0.9030000305175782,0.36900001525878906,0.31733500957489014,Florian Niederlechner,h,306,OpenPlay,2019,RightFoot,12432,Augsburg,Eintracht Frankfurt,2,1,2019-09-14 13:30:00,Ruben Vargas,Pass
+317196,38,SavedShot,0.9119999694824219,0.445,0.3360759913921356,Florian Niederlechner,h,306,SetPiece,2019,RightFoot,12432,Augsburg,Eintracht Frankfurt,2,1,2019-09-14 13:30:00,Philipp Max,Cross
+317198,42,Goal,0.765,0.6930000305175781,0.025785600766539574,Florian Niederlechner,h,306,OpenPlay,2019,RightFoot,12432,Augsburg,Eintracht Frankfurt,2,1,2019-09-14 13:30:00,Philipp Max,BallRecovery
+320310,7,MissedShots,0.92,0.67,0.06654980033636093,Florian Niederlechner,a,306,OpenPlay,2019,RightFoot,12441,Freiburg,Augsburg,1,1,2019-09-21 13:30:00,André Hahn,Pass
+320314,18,MissedShots,0.9009999847412109,0.27399999618530274,0.03373029828071594,Florian Niederlechner,a,306,OpenPlay,2019,RightFoot,12441,Freiburg,Augsburg,1,1,2019-09-21 13:30:00,André Hahn,Pass
+320317,38,Goal,0.9130000305175782,0.549000015258789,0.47666698694229126,Florian Niederlechner,a,306,OpenPlay,2019,RightFoot,12441,Freiburg,Augsburg,1,1,2019-09-21 13:30:00,Jan Morávek,Throughball
+322482,4,MissedShots,0.730999984741211,0.7,0.013277599588036537,Florian Niederlechner,h,306,OpenPlay,2019,LeftFoot,12451,Augsburg,Bayer Leverkusen,0,3,2019-09-28 13:30:00,Iago,BallRecovery
+322487,33,OwnGoal,0.07900000095367432,0.4420000076293945,0,Florian Niederlechner,h,306,FromCorner,2019,Head,12451,Augsburg,Bayer Leverkusen,0,3,2019-09-28 13:30:00,,Punch
+324609,5,BlockedShot,0.86,0.40400001525878904,0.06738240271806717,Florian Niederlechner,a,306,OpenPlay,2019,RightFoot,12465,Borussia M.Gladbach,Augsburg,5,1,2019-10-06 12:30:00,Jan Morávek,Pass
+324625,74,SavedShot,0.860999984741211,0.62,0.43323400616645813,Florian Niederlechner,a,306,OpenPlay,2019,LeftFoot,12465,Borussia M.Gladbach,Augsburg,5,1,2019-10-06 12:30:00,Ruben Vargas,BallRecovery
+324627,79,Goal,0.89,0.605,0.29134899377822876,Florian Niederlechner,a,306,OpenPlay,2019,LeftFoot,12465,Borussia M.Gladbach,Augsburg,5,1,2019-10-06 12:30:00,,Rebound
+327881,10,MissedShots,0.8109999847412109,0.695,0.027419300749897957,Florian Niederlechner,a,306,OpenPlay,2019,RightFoot,12480,Wolfsburg,Augsburg,0,0,2019-10-27 14:30:00,Philipp Max,Pass
+327882,15,SavedShot,0.8590000152587891,0.5379999923706055,0.3348189890384674,Florian Niederlechner,a,306,OpenPlay,2019,RightFoot,12480,Wolfsburg,Augsburg,0,0,2019-10-27 14:30:00,Alfred Finnbogason,Pass
+327883,18,MissedShots,0.88,0.54,0.04508329927921295,Florian Niederlechner,a,306,OpenPlay,2019,Head,12480,Wolfsburg,Augsburg,0,0,2019-10-27 14:30:00,Stephan Lichtsteiner,Cross
+327888,50,SavedShot,0.8619999694824219,0.6309999847412109,0.07616569846868515,Florian Niederlechner,a,306,OpenPlay,2019,RightFoot,12480,Wolfsburg,Augsburg,0,0,2019-10-27 14:30:00,Philipp Max,Pass
+327897,90,MissedShots,0.7559999847412109,0.5029999923706054,0.02431589923799038,Florian Niederlechner,a,306,OpenPlay,2019,RightFoot,12480,Wolfsburg,Augsburg,0,0,2019-10-27 14:30:00,Iago,Pass
+329954,10,BlockedShot,0.8880000305175781,0.534000015258789,0.09203960001468658,Florian Niederlechner,h,306,OpenPlay,2019,LeftFoot,12491,Augsburg,Schalke 04,2,3,2019-11-03 17:00:00,Philipp Max,Cross
+329955,26,SavedShot,0.914000015258789,0.35400001525878905,0.29243800044059753,Florian Niederlechner,h,306,OpenPlay,2019,RightFoot,12491,Augsburg,Schalke 04,2,3,2019-11-03 17:00:00,Marco Richter,Chipped
+329956,35,MissedShots,0.8640000152587891,0.51,0.06709989905357361,Florian Niederlechner,h,306,OpenPlay,2019,RightFoot,12491,Augsburg,Schalke 04,2,3,2019-11-03 17:00:00,Stephan Lichtsteiner,Cross
+330491,29,SavedShot,0.8719999694824219,0.5120000076293946,0.301162987947464,Florian Niederlechner,a,306,OpenPlay,2019,RightFoot,12499,Paderborn,Augsburg,0,1,2019-11-09 14:30:00,Philipp Max,Chipped
+330492,29,MissedShots,0.865,0.5870000076293945,0.3299579918384552,Florian Niederlechner,a,306,OpenPlay,2019,RightFoot,12499,Paderborn,Augsburg,0,1,2019-11-09 14:30:00,Alfred Finnbogason,Pass
+330507,77,SavedShot,0.77,0.610999984741211,0.035920400172472,Florian Niederlechner,a,306,OpenPlay,2019,RightFoot,12499,Paderborn,Augsburg,0,1,2019-11-09 14:30:00,,None
+332941,9,MissedShots,0.9459999847412109,0.629000015258789,0.013599799945950508,Florian Niederlechner,h,306,FromCorner,2019,Head,12510,Augsburg,Hertha Berlin,4,0,2019-11-24 14:30:00,Philipp Max,Aerial
+332958,78,Goal,0.9740000152587891,0.675,0.03401919826865196,Florian Niederlechner,h,306,SetPiece,2019,LeftFoot,12510,Augsburg,Hertha Berlin,4,0,2019-11-24 14:30:00,Philipp Max,Pass
+333531,42,Goal,0.95,0.46900001525878904,0.6325709819793701,Florian Niederlechner,a,306,OpenPlay,2019,RightFoot,12516,FC Cologne,Augsburg,1,1,2019-11-30 14:30:00,Philipp Max,Rebound
+333538,72,SavedShot,0.7830000305175782,0.7419999694824219,0.02434450015425682,Florian Niederlechner,a,306,OpenPlay,2019,RightFoot,12516,FC Cologne,Augsburg,1,1,2019-11-30 14:30:00,Daniel Baier,Pass
+333545,90,BlockedShot,0.915,0.37099998474121093,0.020816700533032417,Florian Niederlechner,a,306,FromCorner,2019,Head,12516,FC Cologne,Augsburg,1,1,2019-11-30 14:30:00,Philipp Max,Cross
+335539,1,BlockedShot,0.9530000305175781,0.5579999923706055,0.10200700163841248,Florian Niederlechner,h,306,OpenPlay,2019,RightFoot,12527,Augsburg,Mainz 05,2,1,2019-12-07 14:30:00,,None
+335549,17,SavedShot,0.8640000152587891,0.6459999847412109,0.08340150117874146,Florian Niederlechner,h,306,OpenPlay,2019,LeftFoot,12527,Augsburg,Mainz 05,2,1,2019-12-07 14:30:00,Fredrik Jensen,Pass
+335551,26,BlockedShot,0.9080000305175782,0.675,0.0653034970164299,Florian Niederlechner,h,306,OpenPlay,2019,LeftFoot,12527,Augsburg,Mainz 05,2,1,2019-12-07 14:30:00,Daniel Baier,TakeOn
+335560,64,Goal,0.885,0.5,0.7577769756317139,Florian Niederlechner,h,306,Penalty,2019,RightFoot,12527,Augsburg,Mainz 05,2,1,2019-12-07 14:30:00,,Standard
+336696,2,MissedShots,0.9369999694824219,0.28899999618530275,0.04770670086145401,Florian Niederlechner,a,306,OpenPlay,2019,RightFoot,12531,Hoffenheim,Augsburg,2,4,2019-12-13 19:30:00,Stephan Lichtsteiner,Pass
+338020,20,SavedShot,0.889000015258789,0.30100000381469727,0.30255600810050964,Florian Niederlechner,h,306,OpenPlay,2019,RightFoot,12545,Augsburg,Fortuna Duesseldorf,3,0,2019-12-17 19:30:00,Daniel Baier,Throughball
+338023,31,SavedShot,0.7930000305175782,0.3940000152587891,0.1229650005698204,Florian Niederlechner,h,306,OpenPlay,2019,RightFoot,12545,Augsburg,Fortuna Duesseldorf,3,0,2019-12-17 19:30:00,Stephan Lichtsteiner,TakeOn
+338027,49,SavedShot,0.925,0.639000015258789,0.01846650056540966,Florian Niederlechner,h,306,FromCorner,2019,Head,12545,Augsburg,Fortuna Duesseldorf,3,0,2019-12-17 19:30:00,Philipp Max,Cross
+338035,76,SavedShot,0.8909999847412109,0.34799999237060547,0.32953500747680664,Florian Niederlechner,h,306,OpenPlay,2019,RightFoot,12545,Augsburg,Fortuna Duesseldorf,3,0,2019-12-17 19:30:00,Ruben Vargas,Chipped
+338567,7,Goal,0.9459999847412109,0.4570000076293945,0.48561999201774597,Florian Niederlechner,a,306,OpenPlay,2019,RightFoot,12548,RasenBallsport Leipzig,Augsburg,3,1,2019-12-21 14:30:00,Marco Richter,Cross
+338578,42,BlockedShot,0.9130000305175782,0.5970000076293945,0.014454400166869164,Florian Niederlechner,a,306,FromCorner,2019,Head,12548,RasenBallsport Leipzig,Augsburg,3,1,2019-12-21 14:30:00,Marco Richter,Aerial
+354865,33,Goal,0.965999984741211,0.5070000076293946,0.7778639793395996,Florian Niederlechner,h,306,OpenPlay,2019,RightFoot,12562,Augsburg,Borussia Dortmund,3,5,2020-01-18 14:30:00,Ruben Vargas,Pass
+354868,44,BlockedShot,0.894000015258789,0.7480000305175781,0.027137599885463715,Florian Niederlechner,h,306,SetPiece,2019,RightFoot,12562,Augsburg,Borussia Dortmund,3,5,2020-01-18 14:30:00,Philipp Max,Pass
+354875,54,Goal,0.9569999694824218,0.49700000762939456,0.7184939980506897,Florian Niederlechner,h,306,OpenPlay,2019,RightFoot,12562,Augsburg,Borussia Dortmund,3,5,2020-01-18 14:30:00,Philipp Max,Pass
+355796,66,MissedShots,0.8719999694824219,0.624000015258789,0.030445100739598274,Florian Niederlechner,a,306,SetPiece,2019,LeftFoot,12573,Union Berlin,Augsburg,2,0,2020-01-25 14:30:00,Philipp Max,Cross
+355806,88,SavedShot,0.9619999694824218,0.4640000152587891,0.6289659738540649,Florian Niederlechner,a,306,FromCorner,2019,RightFoot,12573,Union Berlin,Augsburg,2,0,2020-01-25 14:30:00,Alfred Finnbogason,Rebound
+356679,27,SavedShot,0.785,0.6719999694824219,0.07076869904994965,Florian Niederlechner,h,306,DirectFreekick,2019,RightFoot,12580,Augsburg,Werder Bremen,2,1,2020-02-01 14:30:00,,Standard
+356689,64,BlockedShot,0.8480000305175781,0.6880000305175781,0.0422821007668972,Florian Niederlechner,h,306,OpenPlay,2019,RightFoot,12580,Augsburg,Werder Bremen,2,1,2020-02-01 14:30:00,Philipp Max,Pass
+356690,64,BlockedShot,0.79,0.639000015258789,0.029685499146580696,Florian Niederlechner,h,306,OpenPlay,2019,RightFoot,12580,Augsburg,Werder Bremen,2,1,2020-02-01 14:30:00,,Rebound
+356691,66,Goal,0.919000015258789,0.720999984741211,0.08615309745073318,Florian Niederlechner,h,306,OpenPlay,2019,RightFoot,12580,Augsburg,Werder Bremen,2,1,2020-02-01 14:30:00,Jeffrey Gouweleeuw,Chipped
+356692,70,BlockedShot,0.879000015258789,0.41200000762939454,0.04529549926519394,Florian Niederlechner,h,306,FromCorner,2019,RightFoot,12580,Augsburg,Werder Bremen,2,1,2020-02-01 14:30:00,Philipp Max,Cross
+357786,39,SavedShot,0.9719999694824218,0.32099998474121094,0.04476809874176979,Florian Niederlechner,a,306,OpenPlay,2019,RightFoot,12587,Eintracht Frankfurt,Augsburg,5,0,2020-02-07 19:30:00,Alfred Finnbogason,TakeOn
+357798,85,BlockedShot,0.9219999694824219,0.36900001525878906,0.0437937006354332,Florian Niederlechner,a,306,FromCorner,2019,RightFoot,12587,Eintracht Frankfurt,Augsburg,5,0,2020-02-07 19:30:00,Eduard Löwen,Cross
+358894,44,SavedShot,0.9330000305175781,0.7230000305175781,0.05696159973740578,Florian Niederlechner,h,306,OpenPlay,2019,LeftFoot,12597,Augsburg,Freiburg,1,1,2020-02-15 14:30:00,Philipp Max,Pass
+358904,67,SavedShot,0.9030000305175782,0.415,0.05363659933209419,Florian Niederlechner,h,306,SetPiece,2019,Head,12597,Augsburg,Freiburg,1,1,2020-02-15 14:30:00,Ruben Vargas,Chipped
+360248,17,MissedShots,0.9080000305175782,0.44799999237060545,0.06716349720954895,Florian Niederlechner,a,306,FromCorner,2019,Head,12602,Bayer Leverkusen,Augsburg,2,0,2020-02-23 14:30:00,Philipp Max,Cross
+360263,88,SavedShot,0.9209999847412109,0.6359999847412109,0.037261199206113815,Florian Niederlechner,a,306,OpenPlay,2019,LeftFoot,12602,Bayer Leverkusen,Augsburg,2,0,2020-02-23 14:30:00,Philipp Max,Cross
+360806,50,SavedShot,0.89,0.5590000152587891,0.07895340025424957,Florian Niederlechner,h,306,OpenPlay,2019,RightFoot,12616,Augsburg,Borussia M.Gladbach,2,3,2020-02-29 14:30:00,Philipp Max,Cross
+360814,76,MissedShots,0.855999984741211,0.645,0.054138798266649246,Florian Niederlechner,h,306,SetPiece,2019,LeftFoot,12616,Augsburg,Borussia M.Gladbach,2,3,2020-02-29 14:30:00,Eduard Löwen,Chipped
+362201,79,SavedShot,0.9169999694824219,0.55,0.4867880046367645,Florian Niederlechner,a,306,OpenPlay,2019,RightFoot,12619,Bayern Munich,Augsburg,2,0,2020-03-08 14:30:00,Alfred Finnbogason,Pass
+362202,79,BlockedShot,0.9219999694824219,0.4540000152587891,0.12280400097370148,Florian Niederlechner,a,306,OpenPlay,2019,LeftFoot,12619,Bayern Munich,Augsburg,2,0,2020-03-08 14:30:00,,Rebound
+362205,87,MissedShots,0.8880000305175781,0.524000015258789,0.02692369930446148,Florian Niederlechner,a,306,OpenPlay,2019,Head,12619,Bayern Munich,Augsburg,2,0,2020-03-08 14:30:00,Raphael Framberger,Aerial
+362895,15,MissedShots,0.8859999847412109,0.46900001525878904,0.045475199818611145,Florian Niederlechner,h,306,FromCorner,2019,Head,12634,Augsburg,Wolfsburg,1,2,2020-05-16 13:30:00,Philipp Max,Cross
+363279,42,BlockedShot,0.8480000305175781,0.28899999618530275,0.06044349819421768,Florian Niederlechner,a,306,OpenPlay,2019,LeftFoot,12644,Schalke 04,Augsburg,0,3,2020-05-24 11:30:00,Ruben Vargas,Pass
+363281,49,SavedShot,0.9009999847412109,0.735999984741211,0.1085280030965805,Florian Niederlechner,a,306,OpenPlay,2019,RightFoot,12644,Schalke 04,Augsburg,0,3,2020-05-24 11:30:00,Felix Uduokhai,Chipped
+363623,58,MissedShots,0.9590000152587891,0.44299999237060544,0.4814029932022095,Florian Niederlechner,a,306,OpenPlay,2019,Head,12658,Hertha Berlin,Augsburg,2,0,2020-05-30 13:30:00,Rani Khedira,Cross
+364025,10,SavedShot,0.915,0.345,0.047650400549173355,Florian Niederlechner,h,306,FromCorner,2019,LeftFoot,12671,Augsburg,FC Cologne,1,1,2020-06-07 16:00:00,Noah Joel Sarenren Bazee,BallTouch
+364029,26,SavedShot,0.885,0.5,0.7577769756317139,Florian Niederlechner,h,306,Penalty,2019,RightFoot,12671,Augsburg,FC Cologne,1,1,2020-06-07 16:00:00,,Standard
+364032,34,SavedShot,0.8830000305175781,0.39799999237060546,0.35491400957107544,Florian Niederlechner,h,306,OpenPlay,2019,RightFoot,12671,Augsburg,FC Cologne,1,1,2020-06-07 16:00:00,,None
+364382,0,Goal,0.885,0.46599998474121096,0.09037809818983078,Florian Niederlechner,a,306,OpenPlay,2019,RightFoot,12678,Mainz 05,Augsburg,0,1,2020-06-14 13:30:00,Carlos Gruezo,HeadPass
+364396,58,BlockedShot,0.8869999694824219,0.6859999847412109,0.065317302942276,Florian Niederlechner,a,306,OpenPlay,2019,LeftFoot,12678,Mainz 05,Augsburg,0,1,2020-06-14 13:30:00,Ruben Vargas,Pass
+365299,0,BlockedShot,0.9319999694824219,0.519000015258789,0.12641599774360657,Florian Niederlechner,a,306,OpenPlay,2019,LeftFoot,12694,Fortuna Duesseldorf,Augsburg,1,1,2020-06-20 13:30:00,Noah Joel Sarenren Bazee,End
+365301,9,Goal,0.9469999694824218,0.65,0.11082399636507034,Florian Niederlechner,a,306,OpenPlay,2019,RightFoot,12694,Fortuna Duesseldorf,Augsburg,1,1,2020-06-20 13:30:00,Philipp Max,TakeOn
+365308,51,MissedShots,0.8669999694824219,0.5570000076293945,0.24543799459934235,Florian Niederlechner,a,306,OpenPlay,2019,RightFoot,12694,Fortuna Duesseldorf,Augsburg,1,1,2020-06-20 13:30:00,Philipp Max,Cross
+365315,70,MissedShots,0.95,0.515,0.12850099802017212,Florian Niederlechner,a,306,OpenPlay,2019,Head,12694,Fortuna Duesseldorf,Augsburg,1,1,2020-06-20 13:30:00,André Hahn,Aerial
+377389,38,BlockedShot,0.855,0.23299999237060548,0.02075139991939068,Florian Niederlechner,a,306,OpenPlay,2020,RightFoot,14175,Union Berlin,Augsburg,1,3,2020-09-19 13:30:00,,None
+378800,50,MissedShots,0.86,0.6809999847412109,0.07169780135154724,Florian Niederlechner,h,306,OpenPlay,2020,LeftFoot,14184,Augsburg,Borussia Dortmund,2,0,2020-09-26 13:30:00,Raphael Framberger,HeadPass
+381281,20,MissedShots,0.9280000305175782,0.40900001525878904,0.708745002746582,Florian Niederlechner,a,306,OpenPlay,2020,RightFoot,15165,Wolfsburg,Augsburg,0,0,2020-10-04 13:30:00,Raphael Framberger,TakeOn
+381285,29,BlockedShot,0.8830000305175781,0.69,0.045097898691892624,Florian Niederlechner,a,306,OpenPlay,2020,RightFoot,15165,Wolfsburg,Augsburg,0,0,2020-10-04 13:30:00,André Hahn,Pass
+381854,81,SavedShot,0.904000015258789,0.6079999923706054,0.34408900141716003,Florian Niederlechner,h,306,OpenPlay,2020,RightFoot,15170,Augsburg,RasenBallsport Leipzig,0,2,2020-10-17 13:30:00,Ruben Vargas,Pass
+381855,89,BlockedShot,0.8919999694824219,0.6969999694824218,0.049662500619888306,Florian Niederlechner,h,306,SetPiece,2020,LeftFoot,15170,Augsburg,RasenBallsport Leipzig,0,2,2020-10-17 13:30:00,Mads Pedersen,Chipped
+384221,26,SavedShot,0.919000015258789,0.2670000076293945,0.03802179917693138,Florian Niederlechner,a,306,OpenPlay,2020,RightFoot,15184,Bayer Leverkusen,Augsburg,3,1,2020-10-26 19:30:00,,None
+385942,60,SavedShot,0.8780000305175781,0.4640000152587891,0.10024700313806534,Florian Niederlechner,h,306,OpenPlay,2020,RightFoot,15199,Augsburg,Hertha Berlin,0,3,2020-11-07 14:30:00,Alfred Finnbogason,Pass
+385944,67,MissedShots,0.850999984741211,0.6809999847412109,0.047967299818992615,Florian Niederlechner,h,306,OpenPlay,2020,RightFoot,15199,Augsburg,Hertha Berlin,0,3,2020-11-07 14:30:00,Daniel Caligiuri,Pass
+391131,36,MissedShots,0.91,0.590999984741211,0.053614500910043716,Florian Niederlechner,a,306,FromCorner,2020,RightFoot,15222,Hoffenheim,Augsburg,3,1,2020-12-07 19:30:00,Daniel Caligiuri,Cross
+391134,43,SavedShot,0.93,0.6840000152587891,0.055822599679231644,Florian Niederlechner,a,306,OpenPlay,2020,LeftFoot,15222,Hoffenheim,Augsburg,3,1,2020-12-07 19:30:00,Michael Gregoritsch,Pass
+391141,78,BlockedShot,0.899000015258789,0.7,0.029444700106978416,Florian Niederlechner,a,306,SetPiece,2020,LeftFoot,15222,Hoffenheim,Augsburg,3,1,2020-12-07 19:30:00,Daniel Caligiuri,Pass
+391143,87,BlockedShot,0.9119999694824219,0.4329999923706055,0.0754237025976181,Florian Niederlechner,a,306,OpenPlay,2020,LeftFoot,15222,Hoffenheim,Augsburg,3,1,2020-12-07 19:30:00,Marco Richter,Cross
+392210,25,BlockedShot,0.9630000305175781,0.7140000152587891,0.04630019888281822,Florian Niederlechner,h,306,OpenPlay,2020,LeftFoot,15238,Augsburg,Schalke 04,2,2,2020-12-13 14:30:00,,None
+392217,51,MissedShots,0.8730000305175781,0.7530000305175781,0.036281101405620575,Florian Niederlechner,h,306,OpenPlay,2020,RightFoot,15238,Augsburg,Schalke 04,2,2,2020-12-13 14:30:00,Ruben Vargas,Pass
+393925,9,SavedShot,0.874000015258789,0.3770000076293945,0.11629500240087509,Florian Niederlechner,h,306,OpenPlay,2020,RightFoot,15256,Augsburg,Eintracht Frankfurt,0,2,2020-12-19 14:30:00,Alfred Finnbogason,Throughball
+393935,27,MissedShots,0.8209999847412109,0.47299999237060547,0.05581729859113693,Florian Niederlechner,h,306,OpenPlay,2020,RightFoot,15256,Augsburg,Eintracht Frankfurt,0,2,2020-12-19 14:30:00,,None
+396392,71,BlockedShot,0.88,0.4279999923706055,0.10777100175619125,Florian Niederlechner,a,306,OpenPlay,2020,LeftFoot,15262,FC Cologne,Augsburg,0,1,2021-01-02 14:30:00,Daniel Caligiuri,Pass
+396393,71,MissedShots,0.8590000152587891,0.575999984741211,0.058882299810647964,Florian Niederlechner,a,306,OpenPlay,2020,LeftFoot,15262,FC Cologne,Augsburg,0,1,2021-01-02 14:30:00,Iago,HeadPass
+396400,83,SavedShot,0.875,0.3579999923706055,0.1306149959564209,Florian Niederlechner,a,306,OpenPlay,2020,RightFoot,15262,FC Cologne,Augsburg,0,1,2021-01-02 14:30:00,Jeffrey Gouweleeuw,Throughball
+398361,6,MissedShots,0.855,0.629000015258789,0.06146569922566414,Florian Niederlechner,h,306,OpenPlay,2020,LeftFoot,15273,Augsburg,VfB Stuttgart,1,4,2021-01-10 14:30:00,Iago,Pass
+398966,91,MissedShots,0.9,0.5929999923706055,0.03238169848918915,Florian Niederlechner,a,306,FromCorner,2020,Head,15282,Werder Bremen,Augsburg,2,0,2021-01-16 14:30:00,Mads Pedersen,Cross
+400017,87,MissedShots,0.9330000305175781,0.6930000305175781,0.049722399562597275,Florian Niederlechner,h,306,OpenPlay,2020,LeftFoot,15291,Augsburg,Bayern Munich,0,1,2021-01-20 19:30:00,Fredrik Jensen,Chipped
+400382,16,Goal,0.8909999847412109,0.34900001525878904,0.06645239889621735,Florian Niederlechner,h,306,OpenPlay,2020,RightFoot,15300,Augsburg,Union Berlin,2,1,2021-01-23 14:30:00,André Hahn,HeadPass
+400383,18,SavedShot,0.6990000152587891,0.509000015258789,0.017272500321269035,Florian Niederlechner,h,306,OpenPlay,2020,RightFoot,15300,Augsburg,Union Berlin,2,1,2021-01-23 14:30:00,Tobias Strobl,BallRecovery
+400391,46,Goal,0.975999984741211,0.555,0.6660919785499573,Florian Niederlechner,h,306,OpenPlay,2020,RightFoot,15300,Augsburg,Union Berlin,2,1,2021-01-23 14:30:00,,Rebound
+403164,56,BlockedShot,0.9309999847412109,0.634000015258789,0.07200449705123901,Florian Niederlechner,h,306,SetPiece,2020,LeftFoot,15318,Augsburg,Wolfsburg,0,2,2021-02-06 14:30:00,André Hahn,HeadPass
+405862,4,Goal,0.924000015258789,0.4879999923706055,0.518438994884491,Florian Niederlechner,h,306,OpenPlay,2020,RightFoot,15336,Augsburg,Bayer Leverkusen,1,1,2021-02-21 12:30:00,,Dispossessed
+405865,26,MissedShots,0.8069999694824219,0.4179999923706055,0.05863339826464653,Florian Niederlechner,h,306,OpenPlay,2020,RightFoot,15336,Augsburg,Bayer Leverkusen,1,1,2021-02-21 12:30:00,,None
+405868,43,SavedShot,0.9180000305175782,0.7,0.057062599807977676,Florian Niederlechner,h,306,OpenPlay,2020,LeftFoot,15336,Augsburg,Bayer Leverkusen,1,1,2021-02-21 12:30:00,Ruben Vargas,Pass
+407348,1,BlockedShot,0.8569999694824219,0.42700000762939455,0.05285320058465004,Florian Niederlechner,a,306,FromCorner,2020,RightFoot,15344,Mainz 05,Augsburg,0,1,2021-02-28 14:30:00,Daniel Caligiuri,Pass
+407356,49,SavedShot,0.980999984741211,0.6659999847412109,0.03391829878091812,Florian Niederlechner,a,306,OpenPlay,2020,RightFoot,15344,Mainz 05,Augsburg,0,1,2021-02-28 14:30:00,Raphael Framberger,Cross
+407357,50,BlockedShot,0.9009999847412109,0.44299999237060544,0.10399399697780609,Florian Niederlechner,a,306,OpenPlay,2020,LeftFoot,15344,Mainz 05,Augsburg,0,1,2021-02-28 14:30:00,Daniel Caligiuri,Cross
+408457,37,ShotOnPost,0.8730000305175781,0.47299999237060547,0.06227580085396767,Florian Niederlechner,a,306,OpenPlay,2020,Head,15347,Hertha Berlin,Augsburg,2,1,2021-03-06 14:30:00,Jeffrey Gouweleeuw,Cross
+408465,64,MissedShots,0.8430000305175781,0.625,0.06054830178618431,Florian Niederlechner,a,306,OpenPlay,2020,LeftFoot,15347,Hertha Berlin,Augsburg,2,1,2021-03-06 14:30:00,André Hahn,HeadPass
+408470,77,SavedShot,0.8619999694824219,0.69,0.04695039987564087,Florian Niederlechner,a,306,OpenPlay,2020,RightFoot,15347,Hertha Berlin,Augsburg,2,1,2021-03-06 14:30:00,Daniel Caligiuri,Pass
+411984,87,SavedShot,0.8190000152587891,0.35400001525878905,0.04106979817152023,Florian Niederlechner,a,306,OpenPlay,2020,RightFoot,15367,Freiburg,Augsburg,2,0,2021-03-21 17:00:00,Ruben Vargas,Pass
+416238,34,SavedShot,0.759000015258789,0.715999984741211,0.014868100173771381,Florian Niederlechner,a,306,OpenPlay,2020,RightFoot,15404,Eintracht Frankfurt,Augsburg,2,0,2021-04-20 18:30:00,Mads Pedersen,BallRecovery
+416244,47,BlockedShot,0.9119999694824219,0.4540000152587891,0.08941029757261276,Florian Niederlechner,a,306,OpenPlay,2020,RightFoot,15404,Eintracht Frankfurt,Augsburg,2,0,2021-04-20 18:30:00,Robert Gumny,Cross
+419668,7,BlockedShot,0.875999984741211,0.4640000152587891,0.04693390056490898,Florian Niederlechner,a,306,OpenPlay,2020,Head,15427,VfB Stuttgart,Augsburg,2,1,2021-05-07 18:30:00,Robert Gumny,Cross
+419671,18,MissedShots,0.9259999847412109,0.5629999923706055,0.0993409976363182,Florian Niederlechner,a,306,OpenPlay,2020,Head,15427,VfB Stuttgart,Augsburg,2,1,2021-05-07 18:30:00,Iago,Cross
+419683,53,SavedShot,0.7269999694824218,0.47,0.014654099941253662,Florian Niederlechner,a,306,OpenPlay,2020,RightFoot,15427,VfB Stuttgart,Augsburg,2,1,2021-05-07 18:30:00,,None
+419687,58,Goal,0.975999984741211,0.5129999923706055,0.7865070104598999,Florian Niederlechner,a,306,OpenPlay,2020,Head,15427,VfB Stuttgart,Augsburg,2,1,2021-05-07 18:30:00,,Rebound
+421933,43,BlockedShot,0.7959999847412109,0.36900001525878906,0.030613800510764122,Florian Niederlechner,h,306,OpenPlay,2020,RightFoot,15435,Augsburg,Werder Bremen,2,0,2021-05-15 13:30:00,Marco Richter,Pass
+421942,68,MissedShots,0.905,0.549000015258789,0.3066990077495575,Florian Niederlechner,h,306,OpenPlay,2020,Head,15435,Augsburg,Werder Bremen,2,0,2021-05-15 13:30:00,André Hahn,Cross
+423598,10,MissedShots,0.9340000152587891,0.33099998474121095,0.05636740103363991,Florian Niederlechner,a,306,SetPiece,2020,RightFoot,15437,Bayern Munich,Augsburg,5,2,2021-05-22 13:30:00,Jeffrey Gouweleeuw,Rebound
+423621,70,Goal,0.8980000305175782,0.5359999847412109,0.5300790071487427,Florian Niederlechner,a,306,OpenPlay,2020,RightFoot,15437,Bayern Munich,Augsburg,5,2,2021-05-22 13:30:00,André Hahn,TakeOn
+425758,54,BlockedShot,0.8040000152587891,0.53,0.06290379911661148,Florian Niederlechner,h,306,OpenPlay,2021,LeftFoot,17518,Augsburg,Hoffenheim,0,4,2021-08-14 13:30:00,,TakeOn
+428556,13,OwnGoal,0.07,0.5129999923706055,0,Florian Niederlechner,h,306,FromCorner,2021,Head,17537,Augsburg,Bayer Leverkusen,1,4,2021-08-28 13:30:00,,None
+428562,29,Goal,0.9840000152587891,0.47,0.797635018825531,Florian Niederlechner,h,306,OpenPlay,2021,RightFoot,17537,Augsburg,Bayer Leverkusen,1,4,2021-08-28 13:30:00,,None
+428563,30,MissedShots,0.8969999694824219,0.7390000152587891,0.034298498183488846,Florian Niederlechner,h,306,OpenPlay,2021,RightFoot,17537,Augsburg,Bayer Leverkusen,1,4,2021-08-28 13:30:00,,None
+428575,60,MissedShots,0.8809999847412109,0.43900001525878907,0.07325439900159836,Florian Niederlechner,h,306,OpenPlay,2021,RightFoot,17537,Augsburg,Bayer Leverkusen,1,4,2021-08-28 13:30:00,André Hahn,Cross
+429710,4,SavedShot,0.81,0.5059999847412109,0.04471080005168915,Florian Niederlechner,a,306,OpenPlay,2021,LeftFoot,17546,Union Berlin,Augsburg,0,0,2021-09-11 13:30:00,Iago,TakeOn
+429715,15,MissedShots,0.875999984741211,0.49700000762939456,0.1012599989771843,Florian Niederlechner,a,306,OpenPlay,2021,RightFoot,17546,Union Berlin,Augsburg,0,0,2021-09-11 13:30:00,André Hahn,Rebound
+429723,46,MissedShots,0.895,0.5459999847412109,0.07071740180253983,Florian Niederlechner,a,306,OpenPlay,2021,Head,17546,Union Berlin,Augsburg,0,0,2021-09-11 13:30:00,Ruben Vargas,Cross
+429726,54,BlockedShot,0.8780000305175781,0.63,0.07752619683742523,Florian Niederlechner,a,306,OpenPlay,2021,RightFoot,17546,Union Berlin,Augsburg,0,0,2021-09-11 13:30:00,Iago,Pass
+431295,79,Goal,0.9030000305175782,0.41900001525878905,0.3918910026550293,Florian Niederlechner,h,306,OpenPlay,2021,LeftFoot,17553,Augsburg,Borussia M.Gladbach,1,0,2021-09-18 13:30:00,Ruben Vargas,Pass
+434231,44,SavedShot,0.965,0.265,0.04428119957447052,Florian Niederlechner,a,306,OpenPlay,2021,RightFoot,17569,Freiburg,Augsburg,3,0,2021-09-26 15:30:00,Raphael Framberger,Pass
+440335,71,Goal,0.9590000152587891,0.5790000152587891,0.5572530031204224,Florian Niederlechner,h,306,SetPiece,2021,LeftFoot,17598,Augsburg,VfB Stuttgart,4,1,2021-10-31 14:30:00,Alfred Finnbogason,Pass
+440955,64,MissedShots,0.955999984741211,0.4540000152587891,0.1298000067472458,Florian Niederlechner,a,306,FromCorner,2021,Head,17612,Wolfsburg,Augsburg,1,0,2021-11-06 14:30:00,Mads Pedersen,Cross
+452115,70,SavedShot,0.9330000305175781,0.555,0.11936900019645691,Florian Niederlechner,a,306,OpenPlay,2021,LeftFoot,17672,Hoffenheim,Augsburg,3,1,2022-01-08 14:30:00,Noah Joel Sarenren Bazee,Pass
+453752,91,SavedShot,0.89,0.435,0.4052540063858032,Florian Niederlechner,h,306,OpenPlay,2021,RightFoot,17680,Augsburg,Eintracht Frankfurt,1,1,2022-01-16 14:30:00,Alfred Finnbogason,Pass
+454492,59,BlockedShot,0.894000015258789,0.6609999847412109,0.05993970111012459,Florian Niederlechner,a,306,OpenPlay,2021,LeftFoot,17693,Bayer Leverkusen,Augsburg,5,1,2022-01-22 14:30:00,Niklas Dorsch,BallRecovery
+455750,8,MissedShots,0.7969999694824219,0.4379999923706055,0.03981669992208481,Florian Niederlechner,h,306,OpenPlay,2021,RightFoot,17699,Augsburg,Union Berlin,2,0,2022-02-05 14:30:00,,None
+455751,10,BlockedShot,0.865,0.36700000762939455,0.11872400343418121,Florian Niederlechner,h,306,OpenPlay,2021,RightFoot,17699,Augsburg,Union Berlin,2,0,2022-02-05 14:30:00,Michael Gregoritsch,Throughball
+455756,24,BlockedShot,0.8669999694824219,0.4329999923706055,0.31510499119758606,Florian Niederlechner,h,306,OpenPlay,2021,RightFoot,17699,Augsburg,Union Berlin,2,0,2022-02-05 14:30:00,Michael Gregoritsch,HeadPass
+455757,24,SavedShot,0.95,0.32099998474121094,0.06892380118370056,Florian Niederlechner,h,306,OpenPlay,2021,RightFoot,17699,Augsburg,Union Berlin,2,0,2022-02-05 14:30:00,,Rebound
+456986,38,SavedShot,0.855,0.28299999237060547,0.03101780079305172,Florian Niederlechner,a,306,OpenPlay,2021,RightFoot,17709,Borussia M.Gladbach,Augsburg,3,2,2022-02-12 14:30:00,Raphael Framberger,Pass
+458180,14,MissedShots,0.9290000152587891,0.675,0.05925080180168152,Florian Niederlechner,h,306,OpenPlay,2021,RightFoot,17717,Augsburg,Freiburg,1,2,2022-02-19 14:30:00,Iago,Pass
+458188,37,MissedShots,0.8969999694824219,0.5870000076293945,0.04871949926018715,Florian Niederlechner,h,306,OpenPlay,2021,Head,17717,Augsburg,Freiburg,1,2,2022-02-19 14:30:00,Ruben Vargas,Cross
+465854,61,Goal,0.9730000305175781,0.5570000076293945,0.6017799973487854,Florian Niederlechner,h,306,FromCorner,2021,RightFoot,17760,Augsburg,Wolfsburg,3,0,2022-04-03 13:30:00,Reece Oxford,Rebound
+466326,0,MissedShots,0.899000015258789,0.5359999847412109,0.23895199596881866,Florian Niederlechner,h,306,OpenPlay,2021,Head,17742,Augsburg,Mainz 05,2,1,2022-04-06 16:30:00,André Hahn,Cross
+470681,85,MissedShots,0.9269999694824219,0.35,0.10454999655485153,Florian Niederlechner,a,306,OpenPlay,2021,RightFoot,17787,Bochum,Augsburg,0,2,2022-04-24 13:30:00,Arne Maier,Pass
+471470,72,Goal,0.919000015258789,0.4620000076293945,0.26655399799346924,Florian Niederlechner,h,306,OpenPlay,2021,RightFoot,17796,Augsburg,FC Cologne,1,4,2022-04-30 13:30:00,Arne Maier,Cross
+471474,82,SavedShot,0.9630000305175781,0.504000015258789,0.5257999897003174,Florian Niederlechner,h,306,FromCorner,2021,Head,17796,Augsburg,FC Cologne,1,4,2022-04-30 13:30:00,Jeffrey Gouweleeuw,Chipped
+475806,4,MissedShots,0.9769999694824218,0.674000015258789,0.052379999309778214,Florian Niederlechner,h,306,OpenPlay,2021,LeftFoot,17814,Augsburg,Greuther Fuerth,2,1,2022-05-14 13:30:00,Iago,Chipped
+479235,64,BlockedShot,0.975999984741211,0.6719999694824219,0.04145300015807152,Florian Niederlechner,h,306,OpenPlay,2022,LeftFoot,19347,Augsburg,Freiburg,0,4,2022-08-06 13:30:00,Iago,Chipped
+483521,56,SavedShot,0.9219999694824219,0.41900001525878905,0.09089010208845139,Florian Niederlechner,a,306,FromCorner,2022,RightFoot,19372,Hoffenheim,Augsburg,1,0,2022-08-27 13:30:00,Raphael Framberger,HeadPass
+483528,86,MissedShots,0.9119999694824219,0.38299999237060545,0.04317830130457878,Florian Niederlechner,a,306,SetPiece,2022,Head,19372,Hoffenheim,Augsburg,1,0,2022-08-27 13:30:00,Daniel Caligiuri,Cross
+487232,47,SavedShot,0.7519999694824219,0.22399999618530272,0.012048999778926373,Florian Niederlechner,a,306,OpenPlay,2022,RightFoot,19387,Werder Bremen,Augsburg,0,1,2022-09-09 18:30:00,Jeffrey Gouweleeuw,BallRecovery
+487230,48,SavedShot,0.700999984741211,0.41200000762939454,0.009861930273473263,Florian Niederlechner,a,306,OpenPlay,2022,RightFoot,19387,Werder Bremen,Augsburg,0,1,2022-09-09 18:30:00,,None
+487234,59,SavedShot,0.865,0.565,0.03741230070590973,Florian Niederlechner,a,306,OpenPlay,2022,LeftFoot,19387,Werder Bremen,Augsburg,0,1,2022-09-09 18:30:00,,Aerial
+488613,1,BlockedShot,0.9119999694824219,0.3729999923706055,0.08201389759778976,Florian Niederlechner,h,306,OpenPlay,2022,RightFoot,19399,Augsburg,Bayern Munich,1,0,2022-09-17 13:30:00,,Rebound
+488614,11,SavedShot,0.9059999847412109,0.385,0.2879830002784729,Florian Niederlechner,h,306,OpenPlay,2022,RightFoot,19399,Augsburg,Bayern Munich,1,0,2022-09-17 13:30:00,Robert Gumny,Chipped
+488619,23,SavedShot,0.7980000305175782,0.43900001525878907,0.04028879851102829,Florian Niederlechner,h,306,OpenPlay,2022,LeftFoot,19399,Augsburg,Bayern Munich,1,0,2022-09-17 13:30:00,,None
+488618,23,SavedShot,0.9330000305175781,0.495,0.3541710078716278,Florian Niederlechner,h,306,FromCorner,2022,Head,19399,Augsburg,Bayern Munich,1,0,2022-09-17 13:30:00,Maximilian Bauer,Rebound
+490904,54,SavedShot,0.7090000152587891,0.6469999694824219,0.013264300301671028,Florian Niederlechner,a,306,OpenPlay,2022,RightFoot,19412,Schalke 04,Augsburg,2,3,2022-10-02 15:30:00,,None
+491491,17,BlockedShot,0.7980000305175782,0.7380000305175781,0.01816999912261963,Florian Niederlechner,h,306,OpenPlay,2022,RightFoot,19420,Augsburg,Wolfsburg,1,1,2022-10-08 13:30:00,Ermedin Demirovic,LayOff
+491509,66,MissedShots,0.8159999847412109,0.6370000076293946,0.04403449967503548,Florian Niederlechner,h,306,OpenPlay,2022,LeftFoot,19420,Augsburg,Wolfsburg,1,1,2022-10-08 13:30:00,Carlos Gruezo,Chipped
+493706,13,Goal,0.9390000152587891,0.7080000305175781,0.043960899114608765,Florian Niederlechner,a,306,OpenPlay,2022,LeftFoot,19426,FC Cologne,Augsburg,3,2,2022-10-16 13:30:00,Frederik Winther,Chipped
+494849,44,BlockedShot,0.749000015258789,0.7030000305175781,0.01596049964427948,Florian Niederlechner,h,306,OpenPlay,2022,RightFoot,19439,Augsburg,RasenBallsport Leipzig,3,3,2022-10-22 13:30:00,,None
+494857,74,MissedShots,0.8859999847412109,0.750999984741211,0.07195889949798584,Florian Niederlechner,h,306,OpenPlay,2022,RightFoot,19439,Augsburg,RasenBallsport Leipzig,3,3,2022-10-22 13:30:00,Elvis Rexhbecaj,Chipped
+496372,3,Goal,0.9590000152587891,0.39099998474121095,0.2941659986972809,Florian Niederlechner,a,306,OpenPlay,2022,LeftFoot,19447,VfB Stuttgart,Augsburg,2,1,2022-10-29 13:30:00,Fredrik Jensen,Chipped
+496375,16,MissedShots,0.9069999694824219,0.6769999694824219,0.05737850069999695,Florian Niederlechner,a,306,OpenPlay,2022,LeftFoot,19447,VfB Stuttgart,Augsburg,2,1,2022-10-29 13:30:00,,None
+496381,32,MissedShots,0.9459999847412109,0.46599998474121096,0.0934968963265419,Florian Niederlechner,a,306,OpenPlay,2022,OtherBodyPart,19447,VfB Stuttgart,Augsburg,2,1,2022-10-29 13:30:00,Fredrik Jensen,Aerial
+497960,43,MissedShots,0.8719999694824219,0.47900001525878905,0.025322699919342995,Florian Niederlechner,h,306,OpenPlay,2022,Head,19454,Augsburg,Eintracht Frankfurt,1,2,2022-11-05 14:30:00,Fredrik Jensen,Aerial
+499469,7,Goal,0.8730000305175781,0.544000015258789,0.0817892998456955,Florian Niederlechner,a,306,OpenPlay,2022,RightFoot,19461,Union Berlin,Augsburg,2,2,2022-11-09 19:30:00,Ruben Vargas,Pass
+499480,38,Goal,0.8819999694824219,0.5420000076293945,0.0856098011136055,Florian Niederlechner,a,306,OpenPlay,2022,RightFoot,19461,Union Berlin,Augsburg,2,2,2022-11-09 19:30:00,,Rebound
+500017,2,SavedShot,0.8809999847412109,0.43099998474121093,0.036201901733875275,Florian Niederlechner,h,306,OpenPlay,2022,Head,19473,Augsburg,Bochum,0,1,2022-11-12 14:30:00,Ermedin Demirovic,Chipped
+500022,14,SavedShot,0.9590000152587891,0.5070000076293946,0.6739799976348877,Florian Niederlechner,h,306,OpenPlay,2022,LeftFoot,19473,Augsburg,Bochum,0,1,2022-11-12 14:30:00,Ermedin Demirovic,Rebound
+500034,68,SavedShot,0.884000015258789,0.46,0.3084610104560852,Florian Niederlechner,h,306,OpenPlay,2022,RightFoot,19473,Augsburg,Bochum,0,1,2022-11-12 14:30:00,Robert Gumny,Cross
+500040,83,BlockedShot,0.85,0.34700000762939454,0.03705909848213196,Florian Niederlechner,h,306,FromCorner,2022,RightFoot,19473,Augsburg,Bochum,0,1,2022-11-12 14:30:00,,None
+500042,88,MissedShots,0.9530000305175781,0.6659999847412109,0.04180369898676872,Florian Niederlechner,h,306,OpenPlay,2022,RightFoot,19473,Augsburg,Bochum,0,1,2022-11-12 14:30:00,,TakeOn
+500044,93,BlockedShot,0.8930000305175781,0.39,0.06883160024881363,Florian Niederlechner,h,306,FromCorner,2022,RightFoot,19473,Augsburg,Bochum,0,1,2022-11-12 14:30:00,,None
+505706,73,SavedShot,0.899000015258789,0.629000015258789,0.07322929799556732,Florian Niederlechner,h,306,FromCorner,2022,RightFoot,19501,Hertha Berlin,Union Berlin,0,2,2023-01-28 14:30:00,,Rebound
+507048,48,MissedShots,0.9780000305175781,0.7269999694824218,0.034370601177215576,Florian Niederlechner,a,306,OpenPlay,2022,LeftFoot,19508,Eintracht Frankfurt,Hertha Berlin,3,0,2023-02-04 14:30:00,Tolga Cigerci,Chipped
+507052,65,BlockedShot,0.8930000305175781,0.40299999237060546,0.06580139696598053,Florian Niederlechner,a,306,OpenPlay,2022,RightFoot,19508,Eintracht Frankfurt,Hertha Berlin,3,0,2023-02-04 14:30:00,,None
+507054,65,MissedShots,0.894000015258789,0.5609999847412109,0.047517698258161545,Florian Niederlechner,a,306,OpenPlay,2022,Head,19508,Eintracht Frankfurt,Hertha Berlin,3,0,2023-02-04 14:30:00,Maximilian Mittelstädt,Aerial
+508957,24,MissedShots,0.8540000152587891,0.5659999847412109,0.06031410023570061,Florian Niederlechner,h,306,OpenPlay,2022,RightFoot,19519,Hertha Berlin,Borussia M.Gladbach,4,1,2023-02-12 14:30:00,,None
+508967,45,MissedShots,0.9359999847412109,0.48200000762939454,0.48707398772239685,Florian Niederlechner,h,306,OpenPlay,2022,Head,19519,Hertha Berlin,Borussia M.Gladbach,4,1,2023-02-12 14:30:00,,None
+510326,20,SavedShot,0.78,0.4329999923706055,0.0272745992988348,Florian Niederlechner,a,306,OpenPlay,2022,RightFoot,19522,Borussia Dortmund,Hertha Berlin,4,1,2023-02-19 16:30:00,,TakeOn
+510328,21,MissedShots,0.715,0.34700000762939454,0.01749970018863678,Florian Niederlechner,a,306,OpenPlay,2022,RightFoot,19522,Borussia Dortmund,Hertha Berlin,4,1,2023-02-19 16:30:00,Márton Dárdai,Pass
+510341,50,SavedShot,0.8530000305175781,0.6329999923706054,0.04903259873390198,Florian Niederlechner,a,306,OpenPlay,2022,LeftFoot,19522,Borussia Dortmund,Hertha Berlin,4,1,2023-02-19 16:30:00,Márton Dárdai,Pass
+510704,2,MissedShots,0.879000015258789,0.5990000152587891,0.09256549924612045,Florian Niederlechner,h,306,OpenPlay,2022,RightFoot,19537,Hertha Berlin,Augsburg,2,0,2023-02-25 14:30:00,Jessic Ngankam,Pass
+510714,65,BlockedShot,0.8330000305175781,0.5659999847412109,0.08091620355844498,Florian Niederlechner,h,306,OpenPlay,2022,RightFoot,19537,Hertha Berlin,Augsburg,2,0,2023-02-25 14:30:00,Suat Serdar,BallTouch
+513400,40,SavedShot,0.8830000305175781,0.5159999847412109,0.09473290294408798,Florian Niederlechner,h,306,OpenPlay,2022,Head,19555,Hertha Berlin,Mainz 05,1,1,2023-03-11 14:30:00,Filip Uremovic,Cross
+514915,10,MissedShots,0.9159999847412109,0.5309999847412109,0.09198740124702454,Florian Niederlechner,a,306,FromCorner,2022,Head,19562,Hoffenheim,Hertha Berlin,3,1,2023-03-18 14:30:00,Tolga Cigerci,Cross
+514920,27,BlockedShot,0.8009999847412109,0.6309999847412109,0.03135500103235245,Florian Niederlechner,a,306,OpenPlay,2022,LeftFoot,19562,Hoffenheim,Hertha Berlin,3,1,2023-03-18 14:30:00,,None
+520749,72,MissedShots,0.8880000305175781,0.6140000152587891,0.019584471359848976,Florian Niederlechner,h,306,OpenPlay,2022,Head,19602,Hertha Berlin,Werder Bremen,2,4,2023-04-22 13:30:00,Peter Pekarík,Aerial
+523306,5,BlockedShot,0.8619999694824219,0.6840000152587891,0.04576053470373154,Florian Niederlechner,a,306,OpenPlay,2022,RightFoot,19603,Bayern Munich,Hertha Berlin,2,0,2023-04-30 13:30:00,,TakeOn
+524544,46,Goal,0.94,0.48700000762939455,0.5370554327964783,Florian Niederlechner,h,306,SetPiece,2022,RightFoot,19619,Hertha Berlin,VfB Stuttgart,2,1,2023-05-06 13:30:00,Dodi Lukebakio,Cross
+525554,35,BlockedShot,0.8819999694824219,0.29100000381469726,0.044041797518730164,Florian Niederlechner,a,306,OpenPlay,2022,RightFoot,19625,FC Cologne,Hertha Berlin,5,2,2023-05-12 18:30:00,Márton Dárdai,Pass
+529051,3,SavedShot,0.9069999694824219,0.44299999237060544,0.0906120240688324,Florian Niederlechner,a,306,OpenPlay,2022,RightFoot,19645,Wolfsburg,Hertha Berlin,1,2,2023-05-27 13:30:00,Lucas Tousart,Cross
+529064,50,SavedShot,0.915,0.5259999847412109,0.4711994230747223,Florian Niederlechner,a,306,OpenPlay,2022,RightFoot,19645,Wolfsburg,Hertha Berlin,1,2,2023-05-27 13:30:00,Marc-Oliver Kempf,Throughball

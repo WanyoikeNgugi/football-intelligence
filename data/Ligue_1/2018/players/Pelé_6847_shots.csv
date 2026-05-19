@@ -1,0 +1,4 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+227646,59,MissedShots,0.7759999847412109,0.435,0.021669600158929825,Pelé,a,6847,FromCorner,2018,RightFoot,10722,Saint-Etienne,Monaco,2,0,2018-09-28 18:45:00,,None
+261656,74,MissedShots,0.7480000305175781,0.5590000152587891,0.02603749930858612,Pelé,h,6847,FromCorner,2018,RightFoot,10772,Monaco,Paris Saint Germain,0,4,2018-11-11 20:00:00,Sofiane Diop,Pass
+262226,74,SavedShot,0.9019999694824219,0.695,0.07600429654121399,Pelé,a,6847,OpenPlay,2018,RightFoot,10795,Amiens,Monaco,0,2,2018-12-04 18:00:00,Benjamin Henrichs,Pass

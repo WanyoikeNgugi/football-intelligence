@@ -1,0 +1,33 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+77421,10,MissedShots,0.8619999694824219,0.48700000762939455,0.010147100314497948,Jan Rosenthal,h,10,SetPiece,2015,Head,1069,Darmstadt,Werder Bremen,2,1,2015-09-22 22:00:00,Konstantin Rausch,Aerial
+77432,41,ShotOnPost,0.8690000152587891,0.2560000038146973,0.029329799115657806,Jan Rosenthal,h,10,OpenPlay,2015,RightFoot,1069,Darmstadt,Werder Bremen,2,1,2015-09-22 22:00:00,Peter Niemeyer,TakeOn
+78028,28,MissedShots,0.9459999847412109,0.6270000076293946,0.02696000039577484,Jan Rosenthal,a,10,FromCorner,2015,Head,1094,Augsburg,Darmstadt,0,2,2015-10-17 17:30:00,Konstantin Rausch,Cross
+78392,92,MissedShots,0.850999984741211,0.5729999923706055,0.06560540199279785,Jan Rosenthal,h,10,OpenPlay,2015,RightFoot,1104,Darmstadt,Wolfsburg,0,1,2015-10-24 17:30:00,Marco Sailer,Pass
+78393,92,MissedShots,0.8490000152587891,0.515,0.06418140232563019,Jan Rosenthal,h,10,OpenPlay,2015,RightFoot,1104,Darmstadt,Wolfsburg,0,1,2015-10-24 17:30:00,,Rebound
+78486,52,MissedShots,0.895,0.3160000038146973,0.019672399386763573,Jan Rosenthal,a,10,SetPiece,2015,RightFoot,1118,VfB Stuttgart,Darmstadt,2,0,2015-11-01 18:30:00,,Aerial
+78850,58,MissedShots,0.740999984741211,0.4929999923706055,0.023559600114822388,Jan Rosenthal,h,10,OpenPlay,2015,LeftFoot,1126,Darmstadt,Hamburger SV,1,1,2015-11-07 21:30:00,Konstantin Rausch,Pass
+79314,7,MissedShots,0.8219999694824218,0.5179999923706055,0.06033850088715553,Jan Rosenthal,h,10,OpenPlay,2015,LeftFoot,1138,Darmstadt,FC Cologne,0,0,2015-11-27 23:30:00,Sandro Wagner,HeadPass
+79319,34,MissedShots,0.9430000305175781,0.4470000076293945,0.07161209732294083,Jan Rosenthal,h,10,SetPiece,2015,Head,1138,Darmstadt,FC Cologne,0,0,2015-11-27 23:30:00,Tobias Kempe,Aerial
+79495,22,SavedShot,0.9069999694824219,0.3370000076293945,0.011726499535143375,Jan Rosenthal,a,10,FromCorner,2015,Head,1155,Eintracht Frankfurt,Darmstadt,0,1,2015-12-06 20:30:00,Fabian Holland,Chipped
+79804,2,MissedShots,0.7219999694824218,0.31,0.014183900319039822,Jan Rosenthal,h,10,OpenPlay,2015,LeftFoot,1157,Darmstadt,Hertha Berlin,0,4,2015-12-12 18:30:00,Marcel Heller,Pass
+79883,80,MissedShots,0.9419999694824219,0.5690000152587891,0.3560130000114441,Jan Rosenthal,a,10,OpenPlay,2015,Head,1173,Borussia M.Gladbach,Darmstadt,3,2,2015-12-20 20:30:00,Fabian Holland,Cross
+80220,46,ShotOnPost,0.955,0.5520000076293945,0.1560399979352951,Jan Rosenthal,a,10,OpenPlay,2015,Head,1176,Hannover 96,Darmstadt,1,2,2016-01-23 18:30:00,Konstantin Rausch,Cross
+80223,52,SavedShot,0.889000015258789,0.575999984741211,0.39691200852394104,Jan Rosenthal,a,10,OpenPlay,2015,RightFoot,1176,Hannover 96,Darmstadt,1,2,2016-01-23 18:30:00,Sandro Wagner,Pass
+80949,18,MissedShots,0.9080000305175782,0.4540000152587891,0.047859299927949905,Jan Rosenthal,h,10,OpenPlay,2015,Head,1202,Darmstadt,Bayer Leverkusen,1,2,2016-02-13 18:30:00,Tobias Kempe,Aerial
+80953,27,SavedShot,0.9069999694824219,0.5729999923706055,0.11541000008583069,Jan Rosenthal,h,10,OpenPlay,2015,LeftFoot,1202,Darmstadt,Bayer Leverkusen,1,2,2016-02-13 18:30:00,Tobias Kempe,Rebound
+131633,5,MissedShots,0.97,0.620999984741211,0.012904300354421139,Jan Rosenthal,h,10,FromCorner,2016,Head,3217,Darmstadt,Bayern Munich,0,1,2016-12-18 18:30:00,Mario Vrancic,Aerial
+131635,23,MissedShots,0.7809999847412109,0.664000015258789,0.011137500405311584,Jan Rosenthal,h,10,SetPiece,2016,LeftFoot,3217,Darmstadt,Bayern Munich,0,1,2016-12-18 18:30:00,,Aerial
+130185,38,MissedShots,0.9169999694824219,0.495,0.3793700039386749,Jan Rosenthal,a,10,OpenPlay,2016,LeftFoot,3225,Hertha Berlin,Darmstadt,2,0,2016-12-21 23:00:00,Sandro Sirigu,Cross
+130189,54,BlockedShot,0.8369999694824218,0.625999984741211,0.05461740121245384,Jan Rosenthal,a,10,OpenPlay,2016,LeftFoot,3225,Hertha Berlin,Darmstadt,2,0,2016-12-21 23:00:00,Marcel Heller,Pass
+132385,14,MissedShots,0.745999984741211,0.32799999237060545,0.015359600074589252,Jan Rosenthal,a,10,OpenPlay,2016,RightFoot,3748,Eintracht Frankfurt,Darmstadt,2,0,2017-02-05 16:30:00,,BallRecovery
+131759,6,ShotOnPost,0.92,0.34,0.47140198945999146,Jan Rosenthal,h,10,OpenPlay,2016,RightFoot,3751,Darmstadt,Borussia Dortmund,2,1,2017-02-11 14:30:00,Sidney Sam,Throughball
+131765,33,MissedShots,0.9369999694824219,0.5270000076293946,0.09588299691677094,Jan Rosenthal,h,10,OpenPlay,2016,Head,3751,Darmstadt,Borussia Dortmund,2,1,2017-02-11 14:30:00,Marcel Heller,Aerial
+131772,50,SavedShot,0.879000015258789,0.6430000305175781,0.07081259787082672,Jan Rosenthal,h,10,OpenPlay,2016,RightFoot,3751,Darmstadt,Borussia Dortmund,2,1,2017-02-11 14:30:00,Jérôme Gondorf,Pass
+131774,57,MissedShots,0.9290000152587891,0.6409999847412109,0.008760269731283188,Jan Rosenthal,h,10,SetPiece,2016,Head,3751,Darmstadt,Borussia Dortmund,2,1,2017-02-11 14:30:00,Jérôme Gondorf,Aerial
+131775,59,MissedShots,0.8330000305175781,0.4,0.05702950060367584,Jan Rosenthal,h,10,OpenPlay,2016,RightFoot,3751,Darmstadt,Borussia Dortmund,2,1,2017-02-11 14:30:00,Marcel Heller,Pass
+134270,67,MissedShots,0.875,0.28899999618530275,0.1568710058927536,Jan Rosenthal,h,10,OpenPlay,2016,RightFoot,3816,Darmstadt,Bayer Leverkusen,0,2,2017-04-05 19:00:00,Jérôme Gondorf,TakeOn
+134777,76,MissedShots,0.71,0.6140000152587891,0.01118490006774664,Jan Rosenthal,a,10,OpenPlay,2016,RightFoot,3829,Ingolstadt,Darmstadt,3,2,2017-04-09 16:30:00,,None
+134811,80,BlockedShot,0.7519999694824219,0.5129999923706055,0.020842500030994415,Jan Rosenthal,a,10,OpenPlay,2016,RightFoot,3859,Bayern Munich,Darmstadt,1,0,2017-05-06 14:30:00,Hamit Altintop,BallRecovery
+133437,55,MissedShots,0.905,0.4640000152587891,0.055641498416662216,Jan Rosenthal,h,10,OpenPlay,2016,Head,3872,Darmstadt,Hertha Berlin,0,2,2017-05-13 14:30:00,Sandro Sirigu,Aerial
+133453,90,SavedShot,0.784000015258789,0.5659999847412109,0.013743700459599495,Jan Rosenthal,h,10,OpenPlay,2016,LeftFoot,3872,Darmstadt,Hertha Berlin,0,2,2017-05-13 14:30:00,,Aerial
+127747,48,MissedShots,0.7859999847412109,0.6509999847412109,0.026892999187111855,Jan Rosenthal,a,10,OpenPlay,2016,LeftFoot,3876,Borussia M.Gladbach,Darmstadt,2,2,2017-05-20 14:30:00,Antonio-Mirko Colak,Pass

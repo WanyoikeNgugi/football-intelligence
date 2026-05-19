@@ -1,0 +1,15 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+220515,80,SavedShot,0.8769999694824219,0.549000015258789,0.03211690112948418,Kiko Olivas,h,6915,FromCorner,2018,Head,9971,Real Valladolid,Barcelona,0,1,2018-08-25 23:15:00,Óscar Plano,Cross
+259037,90,MissedShots,0.9330000305175781,0.4640000152587891,0.06266939640045166,Kiko Olivas,h,6915,FromCorner,2018,Head,10068,Real Valladolid,Eibar,0,0,2018-11-10 12:00:00,Daniele Verde,Aerial
+260062,48,MissedShots,0.9180000305175782,0.40099998474121096,0.015601599588990211,Kiko Olivas,h,6915,FromCorner,2018,Head,10111,Real Valladolid,Atletico Madrid,2,3,2018-12-15 15:15:00,Míchel,Aerial
+279861,20,MissedShots,0.899000015258789,0.5459999847412109,0.02936910092830658,Kiko Olivas,h,6915,OpenPlay,2018,Head,10136,Real Valladolid,Rayo Vallecano,0,1,2019-01-05 12:00:00,Nacho,Aerial
+281815,42,MissedShots,0.919000015258789,0.5109999847412109,0.12598499655723572,Kiko Olivas,a,6915,SetPiece,2018,Head,10214,Espanyol,Real Valladolid,3,1,2019-03-02 12:00:00,Rubén Alcaraz,Cross
+311265,27,SavedShot,0.8719999694824219,0.524000015258789,0.014034399762749672,Kiko Olivas,a,6915,SetPiece,2019,Head,12031,Real Betis,Real Valladolid,1,2,2019-08-18 20:00:00,Rubén Alcaraz,Rebound
+321523,69,MissedShots,0.9169999694824219,0.5590000152587891,0.047741398215293884,Kiko Olivas,h,6915,SetPiece,2019,Head,12075,Real Valladolid,Granada,1,1,2019-09-24 17:00:00,Rubén Alcaraz,Aerial
+323146,22,SavedShot,0.950999984741211,0.5609999847412109,0.12566199898719788,Kiko Olivas,a,6915,FromCorner,2019,Head,12087,Espanyol,Real Valladolid,0,2,2019-09-29 10:00:00,Sandro Ramírez,Cross
+328323,14,Goal,0.980999984741211,0.5220000076293946,0.8556100130081177,Kiko Olivas,a,6915,SetPiece,2019,RightFoot,12125,Barcelona,Real Valladolid,5,1,2019-10-29 20:15:00,,None
+362068,42,MissedShots,0.895,0.44299999237060544,0.06131789833307266,Kiko Olivas,h,6915,FromCorner,2019,Head,12289,Real Valladolid,Athletic Club,1,4,2020-03-08 13:00:00,Nacho,Cross
+366183,81,MissedShots,0.955,0.500999984741211,0.1200060024857521,Kiko Olivas,h,6915,FromCorner,2019,LeftFoot,12332,Real Valladolid,Getafe,1,1,2020-06-23 17:30:00,Mohammed Salisu,None
+366764,24,Goal,0.9330000305175781,0.3220000076293945,0.024979999288916588,Kiko Olivas,a,6915,SetPiece,2019,Head,12341,Sevilla,Real Valladolid,1,1,2020-06-26 20:00:00,Míchel,Chipped
+368323,97,MissedShots,0.925,0.4540000152587891,0.1041560024023056,Kiko Olivas,h,6915,FromCorner,2019,Head,12352,Real Valladolid,Levante,0,0,2020-07-01 20:00:00,Rubén Alcaraz,Cross
+369455,85,BlockedShot,0.9109999847412109,0.5170000076293946,0.062291499227285385,Kiko Olivas,a,6915,OpenPlay,2019,Head,12368,Valencia,Real Valladolid,2,1,2020-07-07 17:30:00,Rubén Alcaraz,Aerial

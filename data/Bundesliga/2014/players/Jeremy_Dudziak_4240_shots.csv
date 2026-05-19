@@ -1,0 +1,17 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+433089,45,BlockedShot,0.7480000305175781,0.46,0.020600300282239914,Jeremy Dudziak,h,4240,OpenPlay,2021,LeftFoot,17561,Greuther Fuerth,Bayern Munich,1,3,2021-09-24 18:30:00,Branimir Hrgota,Pass
+434535,31,ShotOnPost,0.8980000305175782,0.39299999237060546,0.37982800602912903,Jeremy Dudziak,a,4240,OpenPlay,2021,LeftFoot,17570,FC Cologne,Greuther Fuerth,3,1,2021-10-01 18:30:00,,None
+434536,31,ShotOnPost,0.9790000152587891,0.39,0.31973499059677124,Jeremy Dudziak,a,4240,OpenPlay,2021,LeftFoot,17570,FC Cologne,Greuther Fuerth,3,1,2021-10-01 18:30:00,,Rebound
+437646,1,MissedShots,0.855999984741211,0.6,0.013944700360298157,Jeremy Dudziak,a,4240,OpenPlay,2021,Head,17595,RasenBallsport Leipzig,Greuther Fuerth,4,1,2021-10-23 13:30:00,Branimir Hrgota,Cross
+437648,5,MissedShots,0.9569999694824218,0.43400001525878906,0.3953920006752014,Jeremy Dudziak,a,4240,OpenPlay,2021,Head,17595,RasenBallsport Leipzig,Greuther Fuerth,4,1,2021-10-23 13:30:00,Jetro Willems,Cross
+437655,41,SavedShot,0.874000015258789,0.46700000762939453,0.38587599992752075,Jeremy Dudziak,a,4240,OpenPlay,2021,RightFoot,17595,RasenBallsport Leipzig,Greuther Fuerth,4,1,2021-10-23 13:30:00,,None
+446062,32,Goal,0.919000015258789,0.6730000305175782,0.048521898686885834,Jeremy Dudziak,a,4240,OpenPlay,2021,LeftFoot,17640,Bayer Leverkusen,Greuther Fuerth,7,1,2021-12-04 14:30:00,,None
+452072,11,BlockedShot,0.8530000305175781,0.7069999694824218,0.0356002002954483,Jeremy Dudziak,h,4240,OpenPlay,2021,LeftFoot,17669,Greuther Fuerth,VfB Stuttgart,0,0,2022-01-08 14:30:00,Timothy Tillman,Pass
+452083,52,BlockedShot,0.8380000305175781,0.34599998474121096,0.07128240168094635,Jeremy Dudziak,h,4240,OpenPlay,2021,LeftFoot,17669,Greuther Fuerth,VfB Stuttgart,0,0,2022-01-08 14:30:00,,TakeOn
+453779,3,MissedShots,0.8219999694824218,0.7630000305175781,0.02346630021929741,Jeremy Dudziak,a,4240,OpenPlay,2021,LeftFoot,17679,Arminia Bielefeld,Greuther Fuerth,2,2,2022-01-16 16:30:00,Gian-Luca Itter,Pass
+454569,11,Goal,0.8619999694824219,0.4759999847412109,0.3812200129032135,Jeremy Dudziak,h,4240,OpenPlay,2021,LeftFoot,17687,Greuther Fuerth,Mainz 05,2,1,2022-01-22 14:30:00,Paul Seguin,Throughball
+456342,30,BlockedShot,0.9740000152587891,0.33099998474121095,0.051598601043224335,Jeremy Dudziak,a,4240,OpenPlay,2021,LeftFoot,17702,Wolfsburg,Greuther Fuerth,4,1,2022-02-06 16:30:00,,None
+456910,17,BlockedShot,0.980999984741211,0.3559999847412109,0.08222710341215134,Jeremy Dudziak,h,4240,OpenPlay,2021,RightFoot,17705,Greuther Fuerth,Hertha Berlin,2,1,2022-02-12 14:30:00,Jamie Leweling,HeadPass
+456911,22,MissedShots,0.9630000305175781,0.27600000381469725,0.027363000437617302,Jeremy Dudziak,h,4240,SetPiece,2021,RightFoot,17705,Greuther Fuerth,Hertha Berlin,2,1,2022-02-12 14:30:00,Timothy Tillman,Pass
+456919,40,BlockedShot,0.7469999694824219,0.34900001525878904,0.024450600147247314,Jeremy Dudziak,h,4240,OpenPlay,2021,LeftFoot,17705,Greuther Fuerth,Hertha Berlin,2,1,2022-02-12 14:30:00,Paul Seguin,Pass
+461012,13,SavedShot,0.93,0.47299999237060547,0.1068279966711998,Jeremy Dudziak,a,4240,OpenPlay,2021,RightFoot,17732,Bochum,Greuther Fuerth,2,1,2022-03-05 14:30:00,,None

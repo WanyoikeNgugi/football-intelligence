@@ -1,0 +1,7 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+589452,11,MissedShots,0.73,0.56,0.012850821018218994,Balthazar Pierret,h,8241,OpenPlay,2024,LeftFoot,27384,Lecce,Cagliari,1,0,2024-08-31 16:30:00,,Rebound
+599477,63,MissedShots,0.8719999694824219,0.57,0.029769105836749077,Balthazar Pierret,h,8241,FromCorner,2024,LeftFoot,27458,Lecce,Verona,1,0,2024-10-29 17:30:00,,Aerial
+612681,47,MissedShots,0.8059999847412109,0.64,0.03700346499681473,Balthazar Pierret,a,8241,OpenPlay,2024,RightFoot,27563,Cagliari,Lecce,4,1,2025-01-19 14:00:00,Nikola Krstovic,Pass
+619773,92,BlockedShot,0.7090000152587891,0.509000015258789,0.013363171368837357,Balthazar Pierret,a,8241,OpenPlay,2024,LeftFoot,27624,Fiorentina,Lecce,1,0,2025-02-28 19:45:00,,None
+627446,61,BlockedShot,0.9259999847412109,0.5690000152587891,0.03635035827755928,Balthazar Pierret,a,8241,FromCorner,2024,Head,27673,Juventus,Lecce,2,1,2025-04-12 18:45:00,Konan N’Dri,Challenge
+633413,3,MissedShots,0.6909999847412109,0.4370000076293945,0.01067801471799612,Balthazar Pierret,a,8241,OpenPlay,2024,LeftFoot,27715,Verona,Lecce,1,1,2025-05-11 13:00:00,,None

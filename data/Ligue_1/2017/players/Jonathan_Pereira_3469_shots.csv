@@ -1,0 +1,18 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+62224,54,BlockedShot,0.889000015258789,0.44099998474121094,0.09427650272846222,Jonathan Pereira,h,3469,OpenPlay,2015,RightFoot,1902,Troyes,Montpellier,0,0,2015-08-29 22:00:00,Chris Mavinga,Chipped
+63627,92,MissedShots,0.875,0.3160000038146973,0.04918140172958374,Jonathan Pereira,a,3469,OpenPlay,2015,RightFoot,1976,Bordeaux,Troyes,1,0,2015-10-25 20:00:00,Lossemy Karaboue,Pass
+65383,57,SavedShot,0.775,0.37900001525878907,0.026876399293541908,Jonathan Pereira,h,3469,FromCorner,2015,RightFoot,2052,Guingamp,Rennes,0,2,2015-12-19 23:00:00,Yannis Salibur,Cross
+66032,93,SavedShot,0.8780000305175781,0.3160000038146973,0.042446598410606384,Jonathan Pereira,h,3469,SetPiece,2015,RightFoot,2073,Guingamp,Nantes,2,2,2016-01-16 23:00:00,,None
+66795,54,MissedShots,0.899000015258789,0.45,0.3222059905529022,Jonathan Pereira,a,3469,OpenPlay,2015,LeftFoot,2156,Lyon,Guingamp,5,1,2016-03-07 00:00:00,,Rebound
+68144,89,SavedShot,0.82,0.549000015258789,0.04682869836688042,Jonathan Pereira,a,3469,SetPiece,2015,LeftFoot,2221,Monaco,Guingamp,3,2,2016-04-30 21:00:00,,None
+68762,91,MissedShots,0.865,0.56,0.039912398904561996,Jonathan Pereira,h,3469,SetPiece,2015,Head,2241,Guingamp,Nice,2,3,2016-05-14 23:00:00,Thibault Giresse,Chipped
+106985,67,MissedShots,0.8,0.2670000076293945,0.015024400316178799,Jonathan Pereira,a,3469,OpenPlay,2016,RightFoot,2856,Caen,Guingamp,1,1,2016-11-26 23:00:00,,Rebound
+106590,46,MissedShots,0.7269999694824218,0.4909999847412109,0.021344399079680443,Jonathan Pereira,h,3469,OpenPlay,2016,RightFoot,3233,Guingamp,Nantes,2,0,2016-12-03 23:00:00,,None
+108365,90,MissedShots,0.8969999694824219,0.32599998474121095,0.05683549866080284,Jonathan Pereira,h,3469,OpenPlay,2016,RightFoot,4118,Guingamp,Rennes,1,1,2017-01-21 22:00:00,,None
+106253,55,BlockedShot,0.91,0.305,0.04079879820346832,Jonathan Pereira,a,3469,OpenPlay,2016,RightFoot,4131,Nice,Guingamp,3,1,2017-01-29 17:00:00,,None
+164480,77,ShotOnPost,0.9569999694824218,0.345,0.08344680070877075,Jonathan Pereira,h,3469,OpenPlay,2017,RightFoot,8668,Guingamp,Amiens,1,1,2017-10-28 19:00:00,Étienne Didot,Pass
+164968,52,MissedShots,0.7759999847412109,0.31799999237060544,0.016304999589920044,Jonathan Pereira,a,3469,FromCorner,2017,RightFoot,8682,Monaco,Guingamp,6,0,2017-11-04 19:00:00,,None
+165504,38,MissedShots,0.7680000305175781,0.2610000038146973,0.012077400460839272,Jonathan Pereira,h,3469,OpenPlay,2017,RightFoot,8708,Guingamp,Montpellier,0,0,2017-11-29 18:00:00,,None
+183608,33,SavedShot,0.9259999847412109,0.3139999961853027,0.02355100028216839,Jonathan Pereira,h,3469,OpenPlay,2017,RightFoot,8750,Guingamp,Saint-Etienne,2,1,2017-12-20 19:50:00,Yannis Salibur,Cross
+210614,1,SavedShot,0.8469999694824218,0.29700000762939455,0.02604220062494278,Jonathan Pereira,h,3469,OpenPlay,2017,RightFoot,8901,Guingamp,Monaco,3,1,2018-04-21 18:00:00,,Rebound
+210634,67,SavedShot,0.735999984741211,0.315,0.013288900256156921,Jonathan Pereira,h,3469,FromCorner,2017,LeftFoot,8901,Guingamp,Monaco,3,1,2018-04-21 18:00:00,,None

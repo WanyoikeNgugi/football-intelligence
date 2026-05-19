@@ -1,0 +1,6 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+41825,13,MissedShots,0.7140000152587891,0.3820000076293945,0.010485200211405754,Massimo Volta,a,3863,OpenPlay,2014,RightFoot,5112,Lazio,Cesena,3,0,2014-09-14 14:00:00,,None
+44075,19,MissedShots,0.9290000152587891,0.5529999923706055,0.09672240167856216,Massimo Volta,a,3863,FromCorner,2014,Head,5043,Chievo,Cesena,2,1,2014-11-09 14:00:00,Hördur Bjorgvin Magnusson,Cross
+44587,42,OwnGoal,0.09800000190734863,0.44299999237060544,0,Massimo Volta,h,3863,FromCorner,2014,OtherBodyPart,5066,Cesena,Genoa,0,3,2014-11-30 14:00:00,,None
+49521,87,MissedShots,0.9290000152587891,0.544000015258789,0.10223499685525894,Massimo Volta,a,3863,FromCorner,2014,Head,4866,Genoa,Cesena,3,1,2015-04-26 14:00:00,Carlos Carbonero,Cross
+50804,70,BlockedShot,0.840999984741211,0.33799999237060546,0.0483907014131546,Massimo Volta,h,3863,OpenPlay,2014,RightFoot,4813,Cesena,Cagliari,0,1,2015-05-24 14:00:00,Franco Brienza,Pass

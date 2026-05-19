@@ -1,0 +1,9 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+220587,38,MissedShots,0.8580000305175781,0.305,0.058121901005506516,Cheick Traoré,a,6889,OpenPlay,2018,RightFoot,10670,Lille,Guingamp,3,0,2018-08-26 16:00:00,,TakeOn
+221966,24,MissedShots,0.759000015258789,0.32099998474121094,0.010433100163936615,Cheick Traoré,h,6889,FromCorner,2018,RightFoot,10677,Guingamp,Toulouse,1,2,2018-09-01 18:00:00,Felix Eboa Eboa,HeadPass
+221982,75,MissedShots,0.7609999847412109,0.345,0.015849700197577477,Cheick Traoré,h,6889,FromCorner,2018,RightFoot,10677,Guingamp,Toulouse,1,2,2018-09-01 18:00:00,,None
+226443,20,SavedShot,0.88,0.2620000076293945,0.023181699216365814,Cheick Traoré,a,6889,OpenPlay,2018,RightFoot,10710,Nimes,Guingamp,0,0,2018-09-26 17:00:00,Nicolas Benezet,Chipped
+261998,90,SavedShot,0.9369999694824219,0.52,0.4560210108757019,Cheick Traoré,h,6889,SetPiece,2018,Head,10783,Guingamp,Nice,0,0,2018-12-01 19:00:00,Pedro Rebocho,Cross
+283620,54,BlockedShot,0.715,0.22299999237060547,0.01161549985408783,Cheick Traoré,a,6889,OpenPlay,2018,RightFoot,10870,Bordeaux,Guingamp,0,0,2019-02-20 18:00:00,Lucas Deaux,Pass
+283769,47,BlockedShot,0.764000015258789,0.28899999618530275,0.013326900079846382,Cheick Traoré,h,6889,OpenPlay,2018,RightFoot,10895,Guingamp,Angers,1,0,2019-02-23 19:00:00,,None
+286443,30,BlockedShot,0.865,0.24600000381469728,0.02548860013484955,Cheick Traoré,h,6889,OpenPlay,2018,RightFoot,10931,Guingamp,Dijon,1,0,2019-03-16 19:00:00,,None

@@ -1,0 +1,42 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+103270,55,SavedShot,0.9390000152587891,0.43099998474121093,0.4011380076408386,Simon Falette,a,5673,SetPiece,2016,Head,2268,Paris Saint Germain,Metz,3,0,2016-08-21 22:45:00,Georges Mandjeck,HeadPass
+103850,41,Goal,0.855999984741211,0.5479999923706055,0.028032800182700157,Simon Falette,h,5673,SetPiece,2016,Head,2272,Metz,Angers,2,0,2016-08-27 22:00:00,Florent Mollet,Cross
+104754,40,MissedShots,0.9069999694824219,0.36,0.016001999378204346,Simon Falette,h,5673,FromCorner,2016,Head,2325,Metz,Monaco,0,7,2016-10-01 22:00:00,Renaud Cohade,Cross
+104755,42,MissedShots,0.8919999694824219,0.44299999237060544,0.015112100169062614,Simon Falette,h,5673,FromCorner,2016,Head,2325,Metz,Monaco,0,7,2016-10-01 22:00:00,Renaud Cohade,Aerial
+104756,45,MissedShots,0.885,0.5829999923706055,0.010974399745464325,Simon Falette,h,5673,SetPiece,2016,Head,2325,Metz,Monaco,0,7,2016-10-01 22:00:00,Renaud Cohade,Aerial
+104758,49,SavedShot,0.6930000305175781,0.875,0.00622193980962038,Simon Falette,h,5673,OpenPlay,2016,LeftFoot,2325,Metz,Monaco,0,7,2016-10-01 22:00:00,Cheick Doukoure,Pass
+105102,47,MissedShots,0.9030000305175782,0.5279999923706055,0.0685637965798378,Simon Falette,a,5673,FromCorner,2016,Head,3326,Rennes,Metz,1,0,2016-10-30 20:00:00,Renaud Cohade,Cross
+105590,89,MissedShots,0.92,0.485,0.08647730201482773,Simon Falette,h,5673,SetPiece,2016,LeftFoot,2841,Metz,Saint-Etienne,0,0,2016-11-06 20:00:00,,None
+107074,10,Goal,0.9059999847412109,0.46,0.07300680130720139,Simon Falette,h,5673,FromCorner,2016,LeftFoot,2857,Metz,Lorient,3,3,2016-11-26 23:00:00,Yann Jouffre,Cross
+107085,66,MissedShots,0.91,0.39,0.014092599973082542,Simon Falette,h,5673,FromCorner,2016,Head,2857,Metz,Lorient,3,3,2016-11-26 23:00:00,Yann Jouffre,Aerial
+107176,26,SavedShot,0.865,0.515,0.010848999954760075,Simon Falette,a,5673,SetPiece,2016,Head,2870,Nancy,Metz,4,0,2016-11-30 22:00:00,Yann Jouffre,Aerial
+108471,76,SavedShot,0.9390000152587891,0.4470000076293945,0.11592800170183182,Simon Falette,a,5673,FromCorner,2016,Head,3251,Caen,Metz,3,0,2016-12-18 17:30:00,Florent Mollet,Cross
+108606,75,MissedShots,0.8980000305175782,0.385,0.22957399487495422,Simon Falette,h,5673,SetPiece,2016,Head,4154,Metz,Dijon,2,1,2017-02-08 21:00:00,Yann Jouffre,Chipped
+111448,9,MissedShots,0.965,0.6079999923706054,0.2532289922237396,Simon Falette,h,5673,SetPiece,2016,LeftFoot,4174,Metz,Nantes,1,1,2017-02-18 19:00:00,Renaud Cohade,Cross
+111457,52,BlockedShot,0.710999984741211,0.5970000076293945,0.013496099971234798,Simon Falette,h,5673,OpenPlay,2016,LeftFoot,4174,Metz,Nantes,1,1,2017-02-18 19:00:00,,Interception
+110122,66,Goal,0.9569999694824218,0.5670000076293945,0.09707179665565491,Simon Falette,a,5673,SetPiece,2016,LeftFoot,4196,Saint-Etienne,Metz,2,2,2017-03-12 14:00:00,Iván Balliu,Cross
+111079,6,BlockedShot,0.865999984741211,0.6469999694824219,0.03728159889578819,Simon Falette,h,5673,FromCorner,2016,LeftFoot,4263,Metz,Nancy,2,1,2017-04-29 19:00:00,Opa Nguette,Pass
+111088,52,MissedShots,0.8730000305175781,0.6580000305175782,0.04350860044360161,Simon Falette,h,5673,FromCorner,2016,LeftFoot,4263,Metz,Nancy,2,1,2017-04-29 19:00:00,,None
+111091,62,SavedShot,0.905,0.39799999237060546,0.02798919938504696,Simon Falette,h,5673,FromCorner,2016,Head,4263,Metz,Nancy,2,1,2017-04-29 19:00:00,Renaud Cohade,Cross
+111347,45,MissedShots,0.9540000152587891,0.5940000152587891,0.20372599363327026,Simon Falette,a,5673,FromCorner,2016,Head,4268,Lille,Metz,0,2,2017-05-06 19:00:00,Ismaila Sarr,Cross
+109984,39,BlockedShot,0.8080000305175781,0.6619999694824219,0.0319519005715847,Simon Falette,h,5673,OpenPlay,2016,RightFoot,4284,Metz,Toulouse,1,1,2017-05-14 20:00:00,Fallou Diagne,Pass
+109990,55,MissedShots,0.905,0.580999984741211,0.07785379886627197,Simon Falette,h,5673,SetPiece,2016,LeftFoot,4284,Metz,Toulouse,1,1,2017-05-14 20:00:00,,None
+110624,53,BlockedShot,0.665,0.7180000305175781,0.010627299547195435,Simon Falette,a,5673,OpenPlay,2016,LeftFoot,4294,Guingamp,Metz,1,0,2017-05-20 20:00:00,Georges Mandjeck,Pass
+165835,8,BlockedShot,0.7759999847412109,0.764000015258789,0.013846700079739094,Simon Falette,a,5673,OpenPlay,2017,LeftFoot,8266,Freiburg,Eintracht Frankfurt,0,0,2017-08-20 14:30:00,Jetro Willems,Pass
+165839,15,MissedShots,0.9540000152587891,0.5459999847412109,0.5012069940567017,Simon Falette,a,5673,SetPiece,2017,Head,8266,Freiburg,Eintracht Frankfurt,0,0,2017-08-20 14:30:00,Mijat Gacinovic,Cross
+165851,75,MissedShots,0.9619999694824218,0.5929999923706055,0.0745415985584259,Simon Falette,a,5673,FromCorner,2017,Head,8266,Freiburg,Eintracht Frankfurt,0,0,2017-08-20 14:30:00,Jetro Willems,Cross
+166110,47,MissedShots,0.9080000305175782,0.42400001525878905,0.05133809894323349,Simon Falette,h,5673,FromCorner,2017,Head,8270,Eintracht Frankfurt,Wolfsburg,0,1,2017-08-26 14:30:00,Jetro Willems,Cross
+166114,90,SavedShot,0.8580000305175781,0.485,0.0263155996799469,Simon Falette,h,5673,OpenPlay,2017,Head,8270,Eintracht Frankfurt,Wolfsburg,0,1,2017-08-26 14:30:00,Kevin-Prince Boateng,Cross
+166315,18,MissedShots,0.889000015258789,0.5629999923706055,0.01481700036674738,Simon Falette,a,5673,SetPiece,2017,Head,8281,Borussia M.Gladbach,Eintracht Frankfurt,0,1,2017-09-09 14:30:00,Jonathan de Guzmán,Aerial
+166610,26,MissedShots,0.8919999694824219,0.5609999847412109,0.015608900226652622,Simon Falette,h,5673,FromCorner,2017,Head,8288,Eintracht Frankfurt,Augsburg,1,2,2017-09-16 14:30:00,Jetro Willems,Aerial
+166633,92,BlockedShot,0.675,0.675,0.012224700301885605,Simon Falette,h,5673,OpenPlay,2017,LeftFoot,8288,Eintracht Frankfurt,Augsburg,1,2,2017-09-16 14:30:00,David Abraham,Pass
+166567,85,ShotOnPost,0.8669999694824219,0.54,0.040368299931287766,Simon Falette,a,5673,SetPiece,2017,Head,8308,RasenBallsport Leipzig,Eintracht Frankfurt,2,1,2017-09-23 14:30:00,Jetro Willems,Cross
+167572,86,BlockedShot,0.9,0.4759999847412109,0.022554000839591026,Simon Falette,h,5673,FromCorner,2017,Head,8353,Eintracht Frankfurt,Werder Bremen,2,1,2017-11-03 19:30:00,Mijat Gacinovic,Aerial
+167573,87,MissedShots,0.845,0.500999984741211,0.05976850166916847,Simon Falette,h,5673,FromCorner,2017,LeftFoot,8353,Eintracht Frankfurt,Werder Bremen,2,1,2017-11-03 19:30:00,,None
+168514,43,MissedShots,0.9480000305175781,0.3579999923706055,0.012796199880540371,Simon Falette,h,5673,FromCorner,2017,Head,8372,Eintracht Frankfurt,Bayer Leverkusen,0,1,2017-11-25 14:30:00,Jetro Willems,Aerial
+168520,61,MissedShots,0.89,0.4929999923706055,0.05442890152335167,Simon Falette,h,5673,FromCorner,2017,Head,8372,Eintracht Frankfurt,Bayer Leverkusen,0,1,2017-11-25 14:30:00,Jetro Willems,Cross
+195062,64,Goal,0.9669999694824218,0.5129999923706055,0.6768199801445007,Simon Falette,h,5673,SetPiece,2017,LeftFoot,8456,Eintracht Frankfurt,FC Cologne,4,2,2018-02-10 14:30:00,,None
+197007,84,MissedShots,0.9069999694824219,0.49900001525878906,0.0822329968214035,Simon Falette,h,5673,FromCorner,2017,Head,8462,Eintracht Frankfurt,RasenBallsport Leipzig,2,1,2018-02-19 19:30:00,Mijat Gacinovic,Cross
+257570,42,MissedShots,0.885,0.645,0.03627999871969223,Simon Falette,a,5673,OpenPlay,2018,RightFoot,10476,Mainz 05,Eintracht Frankfurt,2,2,2018-12-19 19:30:00,Danny da Costa,Cross
+257807,24,SavedShot,0.720999984741211,0.6,0.01380349975079298,Simon Falette,h,5673,FromCorner,2018,LeftFoot,10487,Eintracht Frankfurt,Bayern Munich,0,3,2018-12-22 17:30:00,,None
+296408,19,MissedShots,0.7169999694824218,0.5640000152587891,0.008955970406532288,Simon Falette,a,5673,SetPiece,2018,LeftFoot,10605,Wolfsburg,Eintracht Frankfurt,1,1,2019-04-22 19:30:00,,Aerial

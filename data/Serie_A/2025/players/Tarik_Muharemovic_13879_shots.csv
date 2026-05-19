@@ -1,0 +1,23 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+638990,64,SavedShot,0.7319999694824219,0.6459999847412109,0.007192031946033239,Tarik Muharemovic,h,13879,OpenPlay,2025,LeftFoot,29845,Sassuolo,Napoli,0,2,2025-08-23 16:30:00,Luca Lipani,Chipped
+642494,69,BlockedShot,0.9080000305175782,0.4540000152587891,0.022031527012586594,Tarik Muharemovic,h,13879,FromCorner,2025,Head,29870,Sassuolo,Lazio,1,0,2025-09-14 16:00:00,Cristian Volpato,Aerial
+643993,80,OwnGoal,0.14100000381469727,0.5420000076293945,0,Tarik Muharemovic,a,13879,FromCorner,2025,RightFoot,29880,Inter,Sassuolo,2,1,2025-09-21 18:45:00,,None
+653223,56,BlockedShot,0.6909999847412109,0.6070000076293945,0.01207245048135519,Tarik Muharemovic,h,13879,OpenPlay,2025,LeftFoot,29940,Sassuolo,Genoa,1,2,2025-11-03 17:30:00,Sebastian Walukiewicz,Pass
+654599,34,MissedShots,0.914000015258789,0.43099998474121093,0.01937655732035637,Tarik Muharemovic,h,13879,FromCorner,2025,Head,29961,Sassuolo,Pisa,2,2,2025-11-24 19:45:00,Alieu Fadera,Aerial
+654729,74,MissedShots,0.9080000305175782,0.46599998474121096,0.2672797739505768,Tarik Muharemovic,a,13879,FromCorner,2025,Head,29966,Como,Sassuolo,2,0,2025-11-28 19:45:00,Cristian Volpato,Cross
+654735,94,BlockedShot,0.8669999694824219,0.3920000076293945,0.04126175120472908,Tarik Muharemovic,a,13879,FromCorner,2025,LeftFoot,29966,Como,Sassuolo,2,0,2025-11-28 19:45:00,Nemanja Matic,Cross
+656723,27,BlockedShot,0.6719999694824219,0.6969999694824218,0.011748596094548702,Tarik Muharemovic,h,13879,OpenPlay,2025,LeftFoot,29980,Sassuolo,Fiorentina,3,1,2025-12-06 14:00:00,,TakeOn
+656728,44,SavedShot,0.775,0.3559999847412109,0.021688051521778107,Tarik Muharemovic,h,13879,FromCorner,2025,LeftFoot,29980,Sassuolo,Fiorentina,3,1,2025-12-06 14:00:00,Nemanja Matic,Pass
+656730,45,Goal,0.9619999694824218,0.49700000762939456,0.7909590005874634,Tarik Muharemovic,h,13879,FromCorner,2025,OtherBodyPart,29980,Sassuolo,Fiorentina,3,1,2025-12-06 14:00:00,Armand Lauriente,Aerial
+660460,62,Goal,0.960999984741211,0.5109999847412109,0.5140783190727234,Tarik Muharemovic,a,13879,FromCorner,2025,Head,30004,Bologna,Sassuolo,1,1,2025-12-28 17:00:00,Armand Lauriente,Cross
+661790,15,OwnGoal,0.11699999809265137,0.644000015258789,0,Tarik Muharemovic,h,13879,OpenPlay,2025,Head,30032,Sassuolo,Juventus,0,3,2026-01-06 19:45:00,,None
+663769,49,BlockedShot,0.860999984741211,0.649000015258789,0.04056115821003914,Tarik Muharemovic,a,13879,FromCorner,2025,RightFoot,30047,Napoli,Sassuolo,1,0,2026-01-17 17:00:00,,None
+665885,55,MissedShots,0.8669999694824219,0.5470000076293945,0.04285324737429619,Tarik Muharemovic,a,13879,FromCorner,2025,RightFoot,30071,Pisa,Sassuolo,1,3,2026-01-31 14:00:00,Andrea Pinamonti,HeadPass
+667963,86,BlockedShot,0.7,0.5640000152587891,0.037068214267492294,Tarik Muharemovic,h,13879,DirectFreekick,2025,LeftFoot,30075,Sassuolo,Inter,0,5,2026-02-08 17:00:00,,Standard
+671598,46,MissedShots,0.9359999847412109,0.4590000152587891,0.384243369102478,Tarik Muharemovic,h,13879,SetPiece,2025,Head,30112,Sassuolo,Atalanta,2,1,2026-03-01 14:00:00,Domenico Berardi,Cross
+674393,59,BlockedShot,0.94,0.295,0.008010088466107845,Tarik Muharemovic,h,13879,FromCorner,2025,Head,30130,Sassuolo,Bologna,0,1,2026-03-15 14:00:00,Armand Lauriente,Cross
+674394,59,MissedShots,0.965,0.36200000762939455,0.06668145209550858,Tarik Muharemovic,h,13879,FromCorner,2025,LeftFoot,30130,Sassuolo,Bologna,0,1,2026-03-15 14:00:00,,Rebound
+675570,13,BlockedShot,0.93,0.5579999923706055,0.044311340898275375,Tarik Muharemovic,a,13879,FromCorner,2025,Head,30140,Juventus,Sassuolo,1,1,2026-03-21 19:45:00,Andrea Pinamonti,Aerial
+678203,56,SavedShot,0.889000015258789,0.5459999847412109,0.03860874101519585,Tarik Muharemovic,a,13879,FromCorner,2025,Head,30159,Genoa,Sassuolo,2,1,2026-04-12 10:30:00,Armand Lauriente,Cross
+678857,59,MissedShots,0.960999984741211,0.445,0.07103114575147629,Tarik Muharemovic,h,13879,FromCorner,2025,Head,30170,Sassuolo,Como,2,1,2026-04-17 16:30:00,Armand Lauriente,Aerial
+683387,13,BlockedShot,0.9540000152587891,0.445,0.3930918872356415,Tarik Muharemovic,a,13879,FromCorner,2025,Head,30203,Torino,Sassuolo,2,1,2026-05-08 18:45:00,Armand Lauriente,Cross

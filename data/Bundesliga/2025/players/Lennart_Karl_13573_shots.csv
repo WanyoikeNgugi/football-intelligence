@@ -1,0 +1,41 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+638537,79,SavedShot,0.76,0.40299999237060546,0.034763552248477936,Lennart Karl,h,13573,OpenPlay,2025,LeftFoot,30224,Bayern Munich,RasenBallsport Leipzig,6,0,2025-08-22 18:30:00,Sacha Boey,Pass
+638540,86,BlockedShot,0.81,0.2510000038146973,0.044700074940919876,Lennart Karl,h,13573,OpenPlay,2025,LeftFoot,30224,Bayern Munich,RasenBallsport Leipzig,6,0,2025-08-22 18:30:00,Luis Díaz,Chipped
+638541,91,SavedShot,0.945,0.32099998474121094,0.3787173926830292,Lennart Karl,h,13573,OpenPlay,2025,RightFoot,30224,Bayern Munich,RasenBallsport Leipzig,6,0,2025-08-22 18:30:00,,BallRecovery
+641950,65,SavedShot,0.749000015258789,0.33,0.028384042903780937,Lennart Karl,h,13573,OpenPlay,2025,LeftFoot,30248,Bayern Munich,Hamburger SV,5,0,2025-09-13 16:30:00,Joshua Kimmich,Pass
+641956,84,MissedShots,0.8540000152587891,0.43200000762939456,0.11756458878517151,Lennart Karl,h,13573,OpenPlay,2025,LeftFoot,30248,Bayern Munich,Hamburger SV,5,0,2025-09-13 16:30:00,Konrad Laimer,Pass
+642993,31,SavedShot,0.8430000305175781,0.195,0.01456537190824747,Lennart Karl,a,13573,OpenPlay,2025,LeftFoot,30255,Hoffenheim,Bayern Munich,1,4,2025-09-20 13:30:00,Luis Díaz,Chipped
+642997,45,MissedShots,0.8769999694824219,0.6709999847412109,0.06939181685447693,Lennart Karl,a,13573,OpenPlay,2025,LeftFoot,30255,Hoffenheim,Bayern Munich,1,4,2025-09-20 13:30:00,,None
+648920,80,Goal,0.779000015258789,0.40299999237060546,0.04140365123748779,Lennart Karl,a,13573,OpenPlay,2025,LeftFoot,30289,Borussia M.Gladbach,Bayern Munich,0,3,2025-10-25 13:30:00,Raphael Guerreiro,Pass
+648921,84,SavedShot,0.9230000305175782,0.5109999847412109,0.38353413343429565,Lennart Karl,a,13573,OpenPlay,2025,Head,30289,Borussia M.Gladbach,Bayern Munich,0,3,2025-10-25 13:30:00,Leon Goretzka,Chipped
+648924,95,MissedShots,0.8880000305175781,0.5679999923706055,0.13764284551143646,Lennart Karl,a,13573,OpenPlay,2025,LeftFoot,30289,Borussia M.Gladbach,Bayern Munich,0,3,2025-10-25 13:30:00,Leon Goretzka,Throughball
+651084,7,SavedShot,0.7290000152587891,0.29100000381469726,0.012614546343684196,Lennart Karl,h,13573,OpenPlay,2025,LeftFoot,30297,Bayern Munich,Bayer Leverkusen,3,0,2025-11-01 17:30:00,Joshua Kimmich,Pass
+651085,14,MissedShots,0.8080000305175781,0.45799999237060546,0.04895799607038498,Lennart Karl,h,13573,OpenPlay,2025,LeftFoot,30297,Bayern Munich,Bayer Leverkusen,3,0,2025-11-01 17:30:00,Raphael Guerreiro,Pass
+651094,40,MissedShots,0.8219999694824218,0.4379999923706055,0.07661697268486023,Lennart Karl,h,13573,OpenPlay,2025,LeftFoot,30297,Bayern Munich,Bayer Leverkusen,3,0,2025-11-01 17:30:00,Serge Gnabry,Pass
+653544,20,MissedShots,0.8440000152587891,0.555,0.2779809534549713,Lennart Karl,h,13573,OpenPlay,2025,Head,30315,Bayern Munich,Freiburg,6,2,2025-11-22 14:30:00,Aleksandar Pavlovic,Chipped
+653545,21,Goal,0.9069999694824219,0.4329999923706055,0.494925320148468,Lennart Karl,h,13573,OpenPlay,2025,RightFoot,30315,Bayern Munich,Freiburg,6,2,2025-11-22 14:30:00,Michael Olise,Pass
+653552,47,MissedShots,0.8780000305175781,0.615,0.09483847767114639,Lennart Karl,h,13573,OpenPlay,2025,LeftFoot,30315,Bayern Munich,Freiburg,6,2,2025-11-22 14:30:00,Luis Díaz,Pass
+655028,22,ShotOnPost,0.860999984741211,0.31799999237060544,0.044895656406879425,Lennart Karl,h,13573,OpenPlay,2025,LeftFoot,30324,Bayern Munich,St. Pauli,3,1,2025-11-29 14:30:00,Aleksandar Pavlovic,Pass
+655043,56,MissedShots,0.9059999847412109,0.5559999847412109,0.41029414534568787,Lennart Karl,h,13573,OpenPlay,2025,LeftFoot,30324,Bayern Munich,St. Pauli,3,1,2025-11-29 14:30:00,Luis Díaz,CornerAwarded
+656865,72,BlockedShot,0.855999984741211,0.54,0.1335649937391281,Lennart Karl,a,13573,OpenPlay,2025,LeftFoot,30332,VfB Stuttgart,Bayern Munich,0,5,2025-12-06 14:30:00,Luis Díaz,Pass
+658819,5,SavedShot,0.785,0.6719999694824219,0.024174701422452927,Lennart Karl,h,13573,OpenPlay,2025,LeftFoot,30342,Bayern Munich,Mainz 05,2,2,2025-12-14 16:30:00,Harry Kane,BallTouch
+658827,28,Goal,0.9690000152587891,0.5020000076293946,0.8101491928100586,Lennart Karl,h,13573,OpenPlay,2025,LeftFoot,30342,Bayern Munich,Mainz 05,2,2,2025-12-14 16:30:00,Serge Gnabry,Pass
+659801,46,MissedShots,0.8169999694824219,0.465,0.06013741344213486,Lennart Karl,a,13573,OpenPlay,2025,LeftFoot,30354,FC Heidenheim,Bayern Munich,0,4,2025-12-21 16:30:00,,None
+659807,55,BlockedShot,0.8690000152587891,0.595,0.12344972789287567,Lennart Karl,a,13573,OpenPlay,2025,LeftFoot,30354,FC Heidenheim,Bayern Munich,0,4,2025-12-21 16:30:00,Michael Olise,Pass
+662809,38,SavedShot,0.86,0.38,0.10419487953186035,Lennart Karl,h,13573,OpenPlay,2025,LeftFoot,30360,Bayern Munich,Wolfsburg,8,1,2026-01-11 16:30:00,Michael Olise,Pass
+663116,83,Goal,0.9030000305175782,0.33099998474121095,0.1111844927072525,Lennart Karl,a,13573,OpenPlay,2025,LeftFoot,30370,FC Cologne,Bayern Munich,1,3,2026-01-14 19:30:00,Luis Díaz,Pass
+663871,9,BlockedShot,0.8080000305175781,0.495,0.05238933116197586,Lennart Karl,a,13573,OpenPlay,2025,LeftFoot,30382,RasenBallsport Leipzig,Bayern Munich,1,5,2026-01-17 17:30:00,Serge Gnabry,Pass
+664742,24,MissedShots,0.96,0.4209999847412109,0.624221920967102,Lennart Karl,h,13573,OpenPlay,2025,RightFoot,30387,Bayern Munich,Augsburg,1,2,2026-01-24 14:30:00,Luis Díaz,Pass
+666225,14,SavedShot,0.9109999847412109,0.6129999923706054,0.3054504096508026,Lennart Karl,a,13573,OpenPlay,2025,LeftFoot,30399,Hamburger SV,Bayern Munich,2,2,2026-01-31 17:30:00,Joshua Kimmich,Chipped
+667896,78,MissedShots,0.7880000305175782,0.35700000762939454,0.02821432240307331,Lennart Karl,h,13573,OpenPlay,2025,LeftFoot,30404,Bayern Munich,Hoffenheim,5,1,2026-02-08 16:30:00,Jamal Musiala,Pass
+667904,91,SavedShot,0.8080000305175781,0.3089999961853027,0.04227546602487564,Lennart Karl,h,13573,OpenPlay,2025,LeftFoot,30404,Bayern Munich,Hoffenheim,5,1,2026-02-08 16:30:00,Aleksandar Pavlovic,Pass
+668745,77,MissedShots,0.7880000305175782,0.5579999923706055,0.04574112221598625,Lennart Karl,a,13573,OpenPlay,2025,LeftFoot,30421,Werder Bremen,Bayern Munich,0,3,2026-02-14 14:30:00,Konrad Laimer,Pass
+672351,12,SavedShot,0.774000015258789,0.3890000152587891,0.022122608497738838,Lennart Karl,h,13573,OpenPlay,2025,LeftFoot,30440,Bayern Munich,Borussia M.Gladbach,4,1,2026-03-06 19:30:00,Konrad Laimer,Pass
+672355,24,SavedShot,0.7719999694824219,0.42700000762939455,0.02910752035677433,Lennart Karl,h,13573,OpenPlay,2025,LeftFoot,30440,Bayern Munich,Borussia M.Gladbach,4,1,2026-03-06 19:30:00,Leon Goretzka,Pass
+673795,21,BlockedShot,0.845,0.4520000076293945,0.06980791687965393,Lennart Karl,a,13573,OpenPlay,2025,LeftFoot,30449,Bayer Leverkusen,Bayern Munich,1,1,2026-03-14 14:30:00,Michael Olise,Pass
+675251,15,SavedShot,0.86,0.3060000038146973,0.03592919930815697,Lennart Karl,h,13573,OpenPlay,2025,LeftFoot,30459,Bayern Munich,Union Berlin,4,0,2026-03-21 14:30:00,Joshua Kimmich,Pass
+675255,28,ShotOnPost,0.9169999694824219,0.45099998474121095,0.4800305664539337,Lennart Karl,h,13573,OpenPlay,2025,LeftFoot,30459,Bayern Munich,Union Berlin,4,0,2026-03-21 14:30:00,Josip Stanisic,Pass
+675271,56,SavedShot,0.9209999847412109,0.47700000762939454,0.3332034647464752,Lennart Karl,h,13573,FromCorner,2025,LeftFoot,30459,Bayern Munich,Union Berlin,4,0,2026-03-21 14:30:00,Serge Gnabry,Chipped
+676578,42,SavedShot,0.86,0.28600000381469726,0.058169230818748474,Lennart Karl,a,13573,OpenPlay,2025,LeftFoot,30470,Freiburg,Bayern Munich,2,3,2026-04-04 13:30:00,Tom Bischof,Pass
+676601,98,Goal,0.960999984741211,0.4779999923706055,0.6730352640151978,Lennart Karl,a,13573,OpenPlay,2025,RightFoot,30470,Freiburg,Bayern Munich,2,3,2026-04-04 13:30:00,Alphonso Davies,Pass
+683861,79,SavedShot,0.805,0.255,0.027185266837477684,Lennart Karl,a,13573,OpenPlay,2025,LeftFoot,30520,Wolfsburg,Bayern Munich,0,1,2026-05-09 16:30:00,Konrad Laimer,Pass

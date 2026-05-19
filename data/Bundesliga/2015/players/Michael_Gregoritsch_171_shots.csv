@@ -1,0 +1,545 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+76078,69,MissedShots,0.7069999694824218,0.3120000076293945,0.008081690408289433,Michael Gregoritsch,a,171,OpenPlay,2015,LeftFoot,1021,Bayern Munich,Hamburger SV,5,0,2015-08-14 22:30:00,Ivica Olic,Pass
+76381,54,MissedShots,0.9790000152587891,0.36700000762939455,0.016604699194431305,Michael Gregoritsch,h,171,OpenPlay,2015,Head,1036,Hamburger SV,VfB Stuttgart,3,2,2015-08-22 20:30:00,Matthias Ostrzolek,Cross
+76383,70,MissedShots,0.825,0.39,0.056578800082206726,Michael Gregoritsch,h,171,OpenPlay,2015,LeftFoot,1036,Hamburger SV,VfB Stuttgart,3,2,2015-08-22 20:30:00,Pierre-Michel Lasogga,LayOff
+76666,5,SavedShot,0.845,0.445,0.015816299244761467,Michael Gregoritsch,a,171,OpenPlay,2015,Head,1042,FC Cologne,Hamburger SV,2,1,2015-08-29 17:30:00,Dennis Diekmeier,Cross
+76673,47,MissedShots,0.7190000152587891,0.5770000076293945,0.01431179977953434,Michael Gregoritsch,a,171,OpenPlay,2015,LeftFoot,1042,FC Cologne,Hamburger SV,2,1,2015-08-29 17:30:00,Lewis Holtby,Pass
+76679,69,SavedShot,0.7480000305175781,0.35400001525878905,0.053959500044584274,Michael Gregoritsch,a,171,DirectFreekick,2015,LeftFoot,1042,FC Cologne,Hamburger SV,2,1,2015-08-29 17:30:00,,Standard
+76683,77,SavedShot,0.775,0.44799999237060545,0.02864909917116165,Michael Gregoritsch,a,171,OpenPlay,2015,LeftFoot,1042,FC Cologne,Hamburger SV,2,1,2015-08-29 17:30:00,,None
+76687,88,BlockedShot,0.7480000305175781,0.43099998474121093,0.016841499134898186,Michael Gregoritsch,a,171,FromCorner,2015,LeftFoot,1042,FC Cologne,Hamburger SV,2,1,2015-08-29 17:30:00,,None
+77042,83,MissedShots,0.764000015258789,0.2879999923706055,0.049977000802755356,Michael Gregoritsch,h,171,DirectFreekick,2015,LeftFoot,1060,Hamburger SV,Eintracht Frankfurt,0,0,2015-09-19 17:30:00,,Standard
+77420,86,Goal,0.7069999694824218,0.5,0.04339519888162613,Michael Gregoritsch,a,171,DirectFreekick,2015,LeftFoot,1068,Ingolstadt,Hamburger SV,0,1,2015-09-22 22:00:00,,Standard
+77502,49,MissedShots,0.7190000152587891,0.705,0.011909600347280502,Michael Gregoritsch,h,171,OpenPlay,2015,RightFoot,1081,Hamburger SV,Schalke 04,0,1,2015-09-26 20:30:00,Matthias Ostrzolek,BallRecovery
+78280,2,MissedShots,0.8209999847412109,0.634000015258789,0.04749409854412079,Michael Gregoritsch,a,171,OpenPlay,2015,LeftFoot,1102,Hoffenheim,Hamburger SV,0,1,2015-10-23 22:30:00,Nicolai Müller,BallRecovery
+78284,17,MissedShots,0.924000015258789,0.485,0.0685122013092041,Michael Gregoritsch,a,171,OpenPlay,2015,Head,1102,Hoffenheim,Hamburger SV,0,1,2015-10-23 22:30:00,Dennis Diekmeier,Aerial
+78285,22,BlockedShot,0.7669999694824219,0.2610000038146973,0.04604269936680794,Michael Gregoritsch,a,171,DirectFreekick,2015,LeftFoot,1102,Hoffenheim,Hamburger SV,0,1,2015-10-23 22:30:00,,Standard
+78293,47,MissedShots,0.950999984741211,0.5309999847412109,0.5462560057640076,Michael Gregoritsch,a,171,SetPiece,2015,Head,1102,Hoffenheim,Hamburger SV,0,1,2015-10-23 22:30:00,Lewis Holtby,Cross
+78302,73,MissedShots,0.7230000305175781,0.5029999923706054,0.020758600905537605,Michael Gregoritsch,a,171,OpenPlay,2015,LeftFoot,1102,Hoffenheim,Hamburger SV,0,1,2015-10-23 22:30:00,Marcelo Díaz,Pass
+78308,91,BlockedShot,0.8480000305175781,0.47299999237060547,0.09645730257034302,Michael Gregoritsch,a,171,OpenPlay,2015,RightFoot,1102,Hoffenheim,Hamburger SV,0,1,2015-10-23 22:30:00,Pierre-Michel Lasogga,Pass
+78446,5,Goal,0.970999984741211,0.515,0.8205670118331909,Michael Gregoritsch,h,171,OpenPlay,2015,LeftFoot,1119,Hamburger SV,Hannover 96,1,2,2015-11-01 20:30:00,Nicolai Müller,Pass
+78454,36,MissedShots,0.764000015258789,0.4929999923706055,0.04441690072417259,Michael Gregoritsch,h,171,OpenPlay,2015,LeftFoot,1119,Hamburger SV,Hannover 96,1,2,2015-11-01 20:30:00,Sven Schipplock,Dispossessed
+79207,6,BlockedShot,0.9059999847412109,0.6969999694824218,0.027552399784326553,Michael Gregoritsch,a,171,OpenPlay,2015,LeftFoot,1139,Werder Bremen,Hamburger SV,1,3,2015-11-28 18:30:00,,Aerial
+79210,14,SavedShot,0.8190000152587891,0.485,0.30717700719833374,Michael Gregoritsch,a,171,OpenPlay,2015,LeftFoot,1139,Werder Bremen,Hamburger SV,1,3,2015-11-28 18:30:00,Pierre-Michel Lasogga,Pass
+79212,25,Goal,0.6869999694824219,0.4640000152587891,0.03561380133032799,Michael Gregoritsch,a,171,DirectFreekick,2015,LeftFoot,1139,Werder Bremen,Hamburger SV,1,3,2015-11-28 18:30:00,,Standard
+79439,7,MissedShots,0.6990000152587891,0.6020000076293945,0.009205210022628307,Michael Gregoritsch,h,171,OpenPlay,2015,LeftFoot,1149,Hamburger SV,Mainz 05,1,3,2015-12-05 18:30:00,,Aerial
+79440,8,BlockedShot,0.8380000305175781,0.544000015258789,0.08231019973754883,Michael Gregoritsch,h,171,OpenPlay,2015,LeftFoot,1149,Hamburger SV,Mainz 05,1,3,2015-12-05 18:30:00,Sven Schipplock,Pass
+79444,20,MissedShots,0.845,0.3940000152587891,0.05156119912862778,Michael Gregoritsch,h,171,OpenPlay,2015,LeftFoot,1149,Hamburger SV,Mainz 05,1,3,2015-12-05 18:30:00,Matthias Ostrzolek,Chipped
+79449,34,MissedShots,0.8619999694824219,0.4490000152587891,0.3637619912624359,Michael Gregoritsch,h,171,OpenPlay,2015,LeftFoot,1149,Hamburger SV,Mainz 05,1,3,2015-12-05 18:30:00,Nicolai Müller,Pass
+79451,40,MissedShots,0.7619999694824219,0.6730000305175782,0.05667009949684143,Michael Gregoritsch,h,171,DirectFreekick,2015,LeftFoot,1149,Hamburger SV,Mainz 05,1,3,2015-12-05 18:30:00,,Standard
+79452,45,BlockedShot,0.8190000152587891,0.5570000076293945,0.04721460118889809,Michael Gregoritsch,h,171,OpenPlay,2015,LeftFoot,1149,Hamburger SV,Mainz 05,1,3,2015-12-05 18:30:00,,None
+79453,46,MissedShots,0.865,0.5320000076293945,0.013955900445580482,Michael Gregoritsch,h,171,OpenPlay,2015,Head,1149,Hamburger SV,Mainz 05,1,3,2015-12-05 18:30:00,Matthias Ostrzolek,Aerial
+79459,66,SavedShot,0.8519999694824218,0.5420000076293945,0.08517809957265854,Michael Gregoritsch,h,171,OpenPlay,2015,LeftFoot,1149,Hamburger SV,Mainz 05,1,3,2015-12-05 18:30:00,Matthias Ostrzolek,Pass
+79912,86,MissedShots,0.7880000305175782,0.555,0.033973198384046555,Michael Gregoritsch,h,171,OpenPlay,2015,LeftFoot,1167,Hamburger SV,Augsburg,0,1,2015-12-19 18:30:00,,None
+80140,82,BlockedShot,0.8109999847412109,0.539000015258789,0.035711098462343216,Michael Gregoritsch,h,171,SetPiece,2015,RightFoot,1174,Hamburger SV,Bayern Munich,1,2,2016-01-22 23:30:00,,Rebound
+80139,82,BlockedShot,0.8109999847412109,0.539000015258789,0.15060199797153473,Michael Gregoritsch,h,171,DirectFreekick,2015,LeftFoot,1174,Hamburger SV,Bayern Munich,1,2,2016-01-22 23:30:00,,Standard
+80141,91,MissedShots,0.75,0.5209999847412109,0.06908229738473892,Michael Gregoritsch,h,171,DirectFreekick,2015,LeftFoot,1174,Hamburger SV,Bayern Munich,1,2,2016-01-22 23:30:00,,Standard
+82238,0,MissedShots,0.875,0.3270000076293945,0.03062470071017742,Michael Gregoritsch,h,171,OpenPlay,2015,RightFoot,1257,Hamburger SV,Hoffenheim,1,3,2016-03-19 18:30:00,Gotoku Sakai,Cross
+82246,15,MissedShots,0.779000015258789,0.54,0.03314119949936867,Michael Gregoritsch,h,171,OpenPlay,2015,LeftFoot,1257,Hamburger SV,Hoffenheim,1,3,2016-03-19 18:30:00,Matthias Ostrzolek,Pass
+82257,50,SavedShot,0.9490000152587891,0.3940000152587891,0.10242000222206116,Michael Gregoritsch,h,171,OpenPlay,2015,RightFoot,1257,Hamburger SV,Hoffenheim,1,3,2016-03-19 18:30:00,Gotoku Sakai,Throughball
+82260,59,SavedShot,0.9069999694824219,0.585,0.4015969932079315,Michael Gregoritsch,h,171,OpenPlay,2015,RightFoot,1257,Hamburger SV,Hoffenheim,1,3,2016-03-19 18:30:00,Lewis Holtby,Pass
+82261,59,SavedShot,0.9690000152587891,0.5940000152587891,0.10367599874734879,Michael Gregoritsch,h,171,OpenPlay,2015,LeftFoot,1257,Hamburger SV,Hoffenheim,1,3,2016-03-19 18:30:00,,Rebound
+82685,4,MissedShots,0.9269999694824219,0.48900001525878906,0.05888510122895241,Michael Gregoritsch,h,171,FromCorner,2015,Head,1275,Hamburger SV,Darmstadt,1,2,2016-04-09 17:30:00,Lewis Holtby,Aerial
+82690,25,MissedShots,0.89,0.2989999961853027,0.07572560012340546,Michael Gregoritsch,h,171,OpenPlay,2015,RightFoot,1275,Hamburger SV,Darmstadt,1,2,2016-04-09 17:30:00,Sven Schipplock,Pass
+82691,27,MissedShots,0.93,0.3529999923706055,0.009348860010504723,Michael Gregoritsch,h,171,SetPiece,2015,Head,1275,Hamburger SV,Darmstadt,1,2,2016-04-09 17:30:00,Lewis Holtby,Aerial
+82697,65,MissedShots,0.7080000305175781,0.664000015258789,0.010325999930500984,Michael Gregoritsch,h,171,OpenPlay,2015,LeftFoot,1275,Hamburger SV,Darmstadt,1,2,2016-04-09 17:30:00,Lewis Holtby,Pass
+83151,17,SavedShot,0.7180000305175781,0.34,0.03934570029377937,Michael Gregoritsch,h,171,DirectFreekick,2015,LeftFoot,1291,Hamburger SV,Werder Bremen,2,1,2016-04-22 22:30:00,,Standard
+83155,29,SavedShot,0.905,0.5479999923706055,0.10129000246524811,Michael Gregoritsch,h,171,OpenPlay,2015,Head,1291,Hamburger SV,Werder Bremen,2,1,2016-04-22 22:30:00,Lewis Holtby,Cross
+83157,34,SavedShot,0.7319999694824219,0.605999984741211,0.009335409849882126,Michael Gregoritsch,h,171,SetPiece,2015,RightFoot,1291,Hamburger SV,Werder Bremen,2,1,2016-04-22 22:30:00,,Aerial
+83177,76,SavedShot,0.7809999847412109,0.34700000762939454,0.07331900298595428,Michael Gregoritsch,h,171,DirectFreekick,2015,LeftFoot,1291,Hamburger SV,Werder Bremen,2,1,2016-04-22 22:30:00,,Standard
+83565,12,MissedShots,0.92,0.485,0.10499200224876404,Michael Gregoritsch,h,171,FromCorner,2015,Head,1311,Hamburger SV,Wolfsburg,0,1,2016-05-07 17:30:00,Aaron Hunt,Cross
+83733,7,MissedShots,0.7219999694824218,0.4179999923706055,0.014846700243651867,Michael Gregoritsch,a,171,OpenPlay,2015,LeftFoot,1318,Augsburg,Hamburger SV,1,3,2016-05-14 17:30:00,Pierre-Michel Lasogga,BallTouch
+83741,35,Goal,0.754000015258789,0.4,0.06465359777212143,Michael Gregoritsch,a,171,DirectFreekick,2015,LeftFoot,1318,Augsburg,Hamburger SV,1,3,2016-05-14 17:30:00,,Standard
+83753,73,Goal,0.975999984741211,0.53,0.8209969997406006,Michael Gregoritsch,a,171,FromCorner,2015,RightFoot,1318,Augsburg,Hamburger SV,1,3,2016-05-14 17:30:00,,Rebound
+127485,7,MissedShots,0.8959999847412109,0.4779999923706055,0.06260810047388077,Michael Gregoritsch,h,171,SetPiece,2016,Head,1329,Hamburger SV,Ingolstadt,1,1,2016-08-27 17:30:00,Aaron Hunt,Chipped
+127712,4,MissedShots,0.9119999694824219,0.515,0.09132970124483109,Michael Gregoritsch,a,171,FromCorner,2016,Head,1341,Bayer Leverkusen,Hamburger SV,3,1,2016-09-10 17:30:00,Aaron Hunt,Cross
+127714,12,MissedShots,0.8119999694824219,0.38,0.03902440145611763,Michael Gregoritsch,a,171,OpenPlay,2016,LeftFoot,1341,Bayer Leverkusen,Hamburger SV,3,1,2016-09-10 17:30:00,Gotoku Sakai,Pass
+128584,74,MissedShots,0.875,0.45099998474121095,0.037696100771427155,Michael Gregoritsch,a,171,OpenPlay,2016,Head,1357,Freiburg,Hamburger SV,1,0,2016-09-20 22:00:00,Gideon Jung,Chipped
+128717,89,BlockedShot,0.7440000152587891,0.635,0.01862250082194805,Michael Gregoritsch,h,171,OpenPlay,2016,LeftFoot,1366,Hamburger SV,Bayern Munich,0,1,2016-09-24 17:30:00,Johan Djourou,Pass
+128919,82,MissedShots,0.74,0.5279999923706055,0.017617199569940567,Michael Gregoritsch,a,171,OpenPlay,2016,LeftFoot,1374,Hertha Berlin,Hamburger SV,2,0,2016-10-01 17:30:00,Nicolai Müller,Pass
+129965,86,BlockedShot,0.7580000305175781,0.26799999237060546,0.044080398976802826,Michael Gregoritsch,a,171,DirectFreekick,2016,LeftFoot,3307,FC Cologne,Hamburger SV,3,0,2016-10-30 20:30:00,,Standard
+129966,90,SavedShot,0.7380000305175781,0.5629999923706055,0.016824999824166298,Michael Gregoritsch,a,171,OpenPlay,2016,LeftFoot,3307,FC Cologne,Hamburger SV,3,0,2016-10-30 20:30:00,Gian-Luca Waldschmidt,Pass
+129627,15,MissedShots,0.7519999694824219,0.6079999923706054,0.013196400366723537,Michael Gregoritsch,h,171,SetPiece,2016,LeftFoot,2807,Hamburger SV,Borussia Dortmund,2,5,2016-11-05 18:30:00,,None
+129647,87,MissedShots,0.705,0.5370000076293945,0.04206699877977371,Michael Gregoritsch,h,171,DirectFreekick,2016,LeftFoot,2807,Hamburger SV,Borussia Dortmund,2,5,2016-11-05 18:30:00,,Standard
+130776,26,SavedShot,0.7169999694824218,0.46099998474121096,0.020578699186444283,Michael Gregoritsch,a,171,OpenPlay,2016,LeftFoot,2822,Hoffenheim,Hamburger SV,2,2,2016-11-20 18:30:00,Matthias Ostrzolek,Pass
+130777,27,BlockedShot,0.8569999694824219,0.5729999923706055,0.05329449847340584,Michael Gregoritsch,a,171,OpenPlay,2016,LeftFoot,2822,Hoffenheim,Hamburger SV,2,2,2016-11-20 18:30:00,Filip Kostic,Cross
+130781,32,MissedShots,0.9119999694824219,0.44799999237060545,0.031710200011730194,Michael Gregoritsch,a,171,FromCorner,2016,Head,2822,Hoffenheim,Hamburger SV,2,2,2016-11-20 18:30:00,Gotoku Sakai,Aerial
+130787,46,BlockedShot,0.7069999694824218,0.47200000762939454,0.04311469942331314,Michael Gregoritsch,a,171,DirectFreekick,2016,LeftFoot,2822,Hoffenheim,Hamburger SV,2,2,2016-11-20 18:30:00,,Standard
+130149,2,Goal,0.9330000305175781,0.52,0.45473599433898926,Michael Gregoritsch,h,171,OpenPlay,2016,Head,2827,Hamburger SV,Werder Bremen,2,2,2016-11-26 18:30:00,Lewis Holtby,Cross
+130152,8,MissedShots,0.874000015258789,0.34599998474121096,0.07749350368976593,Michael Gregoritsch,h,171,OpenPlay,2016,RightFoot,2827,Hamburger SV,Werder Bremen,2,2,2016-11-26 18:30:00,Lewis Holtby,Chipped
+130153,11,BlockedShot,0.6659999847412109,0.49900001525878906,0.030398499220609665,Michael Gregoritsch,h,171,DirectFreekick,2016,LeftFoot,2827,Hamburger SV,Werder Bremen,2,2,2016-11-26 18:30:00,,Standard
+130156,19,MissedShots,0.899000015258789,0.5420000076293945,0.10059799998998642,Michael Gregoritsch,h,171,OpenPlay,2016,Head,2827,Hamburger SV,Werder Bremen,2,2,2016-11-26 18:30:00,Matthias Ostrzolek,Cross
+130160,27,Goal,0.960999984741211,0.4779999923706055,0.704662024974823,Michael Gregoritsch,h,171,OpenPlay,2016,RightFoot,2827,Hamburger SV,Werder Bremen,2,2,2016-11-26 18:30:00,Nicolai Müller,Pass
+130171,73,SavedShot,0.92,0.47200000762939454,0.34213998913764954,Michael Gregoritsch,h,171,OpenPlay,2016,Head,2827,Hamburger SV,Werder Bremen,2,2,2016-11-26 18:30:00,Filip Kostic,Cross
+130172,73,BlockedShot,0.7609999847412109,0.38599998474121094,0.024422399699687958,Michael Gregoritsch,h,171,OpenPlay,2016,LeftFoot,2827,Hamburger SV,Werder Bremen,2,2,2016-11-26 18:30:00,Nicolai Müller,Pass
+130629,3,SavedShot,0.9119999694824219,0.4470000076293945,0.06900770217180252,Michael Gregoritsch,a,171,SetPiece,2016,Head,3199,Darmstadt,Hamburger SV,0,2,2016-12-04 18:30:00,Matthias Ostrzolek,Chipped
+130635,18,MissedShots,0.885,0.6619999694824219,0.3095279932022095,Michael Gregoritsch,a,171,OpenPlay,2016,LeftFoot,3199,Darmstadt,Hamburger SV,0,2,2016-12-04 18:30:00,Filip Kostic,Throughball
+130638,29,Goal,0.9569999694824218,0.5429999923706055,0.4699220061302185,Michael Gregoritsch,a,171,FromCorner,2016,Head,3199,Darmstadt,Hamburger SV,0,2,2016-12-04 18:30:00,Filip Kostic,Cross
+130640,38,BlockedShot,0.6990000152587891,0.53,0.018002599477767944,Michael Gregoritsch,a,171,OpenPlay,2016,LeftFoot,3199,Darmstadt,Hamburger SV,0,2,2016-12-04 18:30:00,Matthias Ostrzolek,Chipped
+131216,6,MissedShots,0.7780000305175782,0.5940000152587891,0.029550699517130852,Michael Gregoritsch,h,171,OpenPlay,2016,LeftFoot,3204,Hamburger SV,Augsburg,1,0,2016-12-10 18:30:00,,None
+131217,20,SavedShot,0.93,0.52,0.07461520284414291,Michael Gregoritsch,h,171,OpenPlay,2016,Head,3204,Hamburger SV,Augsburg,1,0,2016-12-10 18:30:00,Gotoku Sakai,Aerial
+131218,24,BlockedShot,0.8980000305175782,0.16399999618530273,0.05762920156121254,Michael Gregoritsch,h,171,DirectFreekick,2016,LeftFoot,3204,Hamburger SV,Augsburg,1,0,2016-12-10 18:30:00,,Standard
+131220,34,SavedShot,0.8880000305175781,0.27899999618530275,0.03660929948091507,Michael Gregoritsch,h,171,OpenPlay,2016,RightFoot,3204,Hamburger SV,Augsburg,1,0,2016-12-10 18:30:00,Nicolai Müller,Pass
+131226,57,SavedShot,0.7440000152587891,0.30100000381469727,0.044129300862550735,Michael Gregoritsch,h,171,DirectFreekick,2016,LeftFoot,3204,Hamburger SV,Augsburg,1,0,2016-12-10 18:30:00,,Standard
+131489,29,MissedShots,0.8190000152587891,0.705999984741211,0.09541860222816467,Michael Gregoritsch,a,171,OpenPlay,2016,LeftFoot,3215,Mainz 05,Hamburger SV,3,1,2016-12-17 18:30:00,Dennis Diekmeier,Chipped
+131490,33,SavedShot,0.7,0.5570000076293945,0.03951000049710274,Michael Gregoritsch,a,171,DirectFreekick,2016,RightFoot,3215,Mainz 05,Hamburger SV,3,1,2016-12-17 18:30:00,,Standard
+131495,46,MissedShots,0.7240000152587891,0.6759999847412109,0.012766700237989426,Michael Gregoritsch,a,171,OpenPlay,2016,LeftFoot,3215,Mainz 05,Hamburger SV,3,1,2016-12-17 18:30:00,Gotoku Sakai,BallRecovery
+130626,85,BlockedShot,0.774000015258789,0.38,0.07628549635410309,Michael Gregoritsch,a,171,DirectFreekick,2016,LeftFoot,3724,Wolfsburg,Hamburger SV,1,0,2017-01-21 17:30:00,,Standard
+130627,85,BlockedShot,0.815,0.355,0.0240665003657341,Michael Gregoritsch,a,171,SetPiece,2016,RightFoot,3724,Wolfsburg,Hamburger SV,1,0,2017-01-21 17:30:00,,Rebound
+131274,1,MissedShots,0.7069999694824218,0.5590000152587891,0.01465350016951561,Michael Gregoritsch,a,171,OpenPlay,2016,LeftFoot,3734,Ingolstadt,Hamburger SV,3,1,2017-01-28 17:30:00,Bobby Wood,Pass
+131279,18,BlockedShot,0.7609999847412109,0.5779999923706055,0.07324759662151337,Michael Gregoritsch,a,171,DirectFreekick,2016,LeftFoot,3734,Ingolstadt,Hamburger SV,3,1,2017-01-28 17:30:00,,Standard
+131287,42,MissedShots,0.9219999694824219,0.5320000076293945,0.10433299839496613,Michael Gregoritsch,a,171,FromCorner,2016,Head,3734,Ingolstadt,Hamburger SV,3,1,2017-01-28 17:30:00,Filip Kostic,Cross
+132220,56,Goal,0.9530000305175781,0.5379999923706055,0.6202849745750427,Michael Gregoritsch,h,171,OpenPlay,2016,LeftFoot,3764,Hamburger SV,Freiburg,2,2,2017-02-18 17:30:00,Gotoku Sakai,Pass
+131900,49,SavedShot,0.7719999694824219,0.5220000076293946,0.09040889889001846,Michael Gregoritsch,a,171,DirectFreekick,2016,LeftFoot,3772,Bayern Munich,Hamburger SV,8,0,2017-02-25 14:30:00,,Standard
+133909,91,SavedShot,0.9119999694824219,0.3240000152587891,0.07583370059728622,Michael Gregoritsch,h,171,OpenPlay,2016,LeftFoot,3793,Hamburger SV,Borussia M.Gladbach,2,1,2017-03-12 16:30:00,,None
+132795,83,MissedShots,0.7240000152587891,0.6669999694824219,0.04074060171842575,Michael Gregoritsch,a,171,DirectFreekick,2016,LeftFoot,3800,Eintracht Frankfurt,Hamburger SV,0,0,2017-03-18 17:30:00,,Standard
+133177,71,MissedShots,0.9369999694824219,0.345,0.016582200303673744,Michael Gregoritsch,h,171,OpenPlay,2016,Head,3804,Hamburger SV,FC Cologne,2,1,2017-04-01 14:30:00,Douglas Santos,Cross
+133678,27,MissedShots,0.645,0.36900001525878906,0.010628899559378624,Michael Gregoritsch,a,171,OpenPlay,2016,LeftFoot,3812,Borussia Dortmund,Hamburger SV,3,0,2017-04-04 19:00:00,Bobby Wood,Pass
+133684,44,MissedShots,0.7219999694824218,0.59,0.01623239926993847,Michael Gregoritsch,a,171,OpenPlay,2016,LeftFoot,3812,Borussia Dortmund,Hamburger SV,3,0,2017-04-04 19:00:00,Filip Kostic,Pass
+134726,94,MissedShots,0.9369999694824219,0.16700000762939454,0.01941090077161789,Michael Gregoritsch,h,171,FromCorner,2016,LeftFoot,3826,Hamburger SV,Hoffenheim,2,1,2017-04-08 14:30:00,,Tackle
+132948,5,Goal,0.909000015258789,0.48200000762939454,0.10549700260162354,Michael Gregoritsch,a,171,OpenPlay,2016,Head,3832,Werder Bremen,Hamburger SV,2,1,2017-04-16 14:30:00,Aaron Hunt,Cross
+133845,70,SavedShot,0.9219999694824219,0.6519999694824219,0.043268799781799316,Michael Gregoritsch,h,171,OpenPlay,2016,LeftFoot,3841,Hamburger SV,Darmstadt,1,2,2017-04-22 14:30:00,Gotoku Sakai,Chipped
+133849,84,SavedShot,0.715999984741211,0.47200000762939454,0.04726690053939819,Michael Gregoritsch,h,171,DirectFreekick,2016,LeftFoot,3841,Hamburger SV,Darmstadt,1,2,2017-04-22 14:30:00,,Standard
+134488,31,MissedShots,0.8519999694824218,0.4759999847412109,0.02332399971783161,Michael Gregoritsch,a,171,OpenPlay,2016,Head,3853,Augsburg,Hamburger SV,4,0,2017-04-30 14:30:00,Gotoku Sakai,Cross
+134492,40,MissedShots,0.749000015258789,0.54,0.019585799425840378,Michael Gregoritsch,a,171,OpenPlay,2016,LeftFoot,3853,Augsburg,Hamburger SV,4,0,2017-04-30 14:30:00,Bobby Wood,BallTouch
+127921,72,SavedShot,0.7480000305175781,0.720999984741211,0.0423504002392292,Michael Gregoritsch,h,171,DirectFreekick,2016,LeftFoot,3879,Hamburger SV,Wolfsburg,2,1,2017-05-20 14:30:00,,Standard
+165922,28,MissedShots,0.8119999694824219,0.7130000305175781,0.024546200409531593,Michael Gregoritsch,a,171,OpenPlay,2017,LeftFoot,8262,Hamburger SV,Augsburg,1,0,2017-08-19 14:30:00,Alfred Finnbogason,Pass
+165923,31,MissedShots,0.745999984741211,0.34599998474121096,0.05171160027384758,Michael Gregoritsch,a,171,DirectFreekick,2017,LeftFoot,8262,Hamburger SV,Augsburg,1,0,2017-08-19 14:30:00,,Standard
+165930,66,BlockedShot,0.77,0.485,0.04454969987273216,Michael Gregoritsch,a,171,OpenPlay,2017,LeftFoot,8262,Hamburger SV,Augsburg,1,0,2017-08-19 14:30:00,Caiuby,LayOff
+166142,6,MissedShots,0.965999984741211,0.43099998474121093,0.0638727992773056,Michael Gregoritsch,h,171,FromCorner,2017,Head,8272,Augsburg,Borussia M.Gladbach,2,2,2017-08-26 14:30:00,Jonathan Schmid,Aerial
+166155,46,MissedShots,0.88,0.515,0.02243169955909252,Michael Gregoritsch,h,171,OpenPlay,2017,Head,8272,Augsburg,Borussia M.Gladbach,2,2,2017-08-26 14:30:00,Philipp Max,Aerial
+166359,12,SavedShot,0.7680000305175781,0.7419999694824219,0.014190499670803547,Michael Gregoritsch,h,171,OpenPlay,2017,LeftFoot,8282,Augsburg,FC Cologne,3,0,2017-09-09 14:30:00,Caiuby,Pass
+167071,1,MissedShots,0.9030000305175782,0.36700000762939455,0.06553319841623306,Michael Gregoritsch,h,171,SetPiece,2017,LeftFoot,8297,Augsburg,RasenBallsport Leipzig,1,0,2017-09-19 19:30:00,,None
+167072,3,Goal,0.9,0.5259999847412109,0.5814340114593506,Michael Gregoritsch,h,171,OpenPlay,2017,LeftFoot,8297,Augsburg,RasenBallsport Leipzig,1,0,2017-09-19 19:30:00,Alfred Finnbogason,Pass
+167073,12,MissedShots,0.87,0.7419999694824219,0.07065150141716003,Michael Gregoritsch,h,171,OpenPlay,2017,LeftFoot,8297,Augsburg,RasenBallsport Leipzig,1,0,2017-09-19 19:30:00,Alfred Finnbogason,LayOff
+166891,88,BlockedShot,0.740999984741211,0.5929999923706055,0.020294899120926857,Michael Gregoritsch,a,171,OpenPlay,2017,LeftFoot,8305,VfB Stuttgart,Augsburg,0,0,2017-09-23 14:30:00,Sergio Córdova,Pass
+167297,57,BlockedShot,0.7580000305175781,0.5920000076293945,0.023768100887537003,Michael Gregoritsch,h,171,OpenPlay,2017,LeftFoot,8321,Augsburg,Borussia Dortmund,1,2,2017-09-30 14:30:00,Daniel Baier,Pass
+167300,65,SavedShot,0.9080000305175782,0.5359999847412109,0.08034700155258179,Michael Gregoritsch,h,171,OpenPlay,2017,Head,8321,Augsburg,Borussia Dortmund,1,2,2017-09-30 14:30:00,Philipp Max,Cross
+167650,74,Goal,0.865,0.7019999694824218,0.08703300356864929,Michael Gregoritsch,a,171,OpenPlay,2017,LeftFoot,8324,Hoffenheim,Augsburg,2,2,2017-10-14 14:30:00,Philipp Max,Chipped
+167655,86,SavedShot,0.8919999694824219,0.5070000076293946,0.03518820181488991,Michael Gregoritsch,a,171,OpenPlay,2017,Head,8324,Hoffenheim,Augsburg,2,2,2017-10-14 14:30:00,Daniel Baier,Aerial
+168305,1,MissedShots,0.915,0.5309999847412109,0.037531498819589615,Michael Gregoritsch,h,171,FromCorner,2017,Head,8337,Augsburg,Hannover 96,1,2,2017-10-21 14:30:00,Philipp Max,Aerial
+168309,9,SavedShot,0.6969999694824218,0.5529999923706055,0.0188446007668972,Michael Gregoritsch,h,171,OpenPlay,2017,LeftFoot,8337,Augsburg,Hannover 96,1,2,2017-10-21 14:30:00,Caiuby,Pass
+168313,32,Goal,0.7980000305175782,0.705999984741211,0.02365580014884472,Michael Gregoritsch,h,171,OpenPlay,2017,LeftFoot,8337,Augsburg,Hannover 96,1,2,2017-10-21 14:30:00,Daniel Baier,Chipped
+168330,93,MissedShots,0.9180000305175782,0.49,0.09366360306739807,Michael Gregoritsch,h,171,OpenPlay,2017,Head,8337,Augsburg,Hannover 96,1,2,2017-10-21 14:30:00,Kevin Danso,Cross
+168646,27,BlockedShot,0.8469999694824218,0.5220000076293946,0.07874129712581635,Michael Gregoritsch,a,171,OpenPlay,2017,LeftFoot,8343,Werder Bremen,Augsburg,0,3,2017-10-29 14:30:00,Caiuby,BallTouch
+168651,39,Goal,0.94,0.45799999237060546,0.4445210099220276,Michael Gregoritsch,a,171,OpenPlay,2017,Head,8343,Werder Bremen,Augsburg,0,3,2017-10-29 14:30:00,Philipp Max,Aerial
+168662,60,Goal,0.879000015258789,0.38,0.2989400029182434,Michael Gregoritsch,a,171,OpenPlay,2017,RightFoot,8343,Werder Bremen,Augsburg,0,3,2017-10-29 14:30:00,Caiuby,Pass
+167603,22,MissedShots,0.815,0.735999984741211,0.02489200048148632,Michael Gregoritsch,h,171,OpenPlay,2017,LeftFoot,8354,Augsburg,Bayer Leverkusen,1,1,2017-11-04 14:30:00,Rani Khedira,Pass
+167604,24,BlockedShot,0.715,0.590999984741211,0.043853700160980225,Michael Gregoritsch,h,171,DirectFreekick,2017,LeftFoot,8354,Augsburg,Bayer Leverkusen,1,1,2017-11-04 14:30:00,,Standard
+167606,33,SavedShot,0.8590000152587891,0.534000015258789,0.02296609990298748,Michael Gregoritsch,h,171,OpenPlay,2017,Head,8354,Augsburg,Bayer Leverkusen,1,1,2017-11-04 14:30:00,Philipp Max,Cross
+167607,39,MissedShots,0.915,0.44599998474121094,0.08196359872817993,Michael Gregoritsch,h,171,SetPiece,2017,RightFoot,8354,Augsburg,Bayer Leverkusen,1,1,2017-11-04 14:30:00,,None
+167611,45,SavedShot,0.875,0.519000015258789,0.08073920011520386,Michael Gregoritsch,h,171,OpenPlay,2017,LeftFoot,8354,Augsburg,Bayer Leverkusen,1,1,2017-11-04 14:30:00,Philipp Max,Cross
+167610,46,BlockedShot,0.9330000305175781,0.4540000152587891,0.07755780220031738,Michael Gregoritsch,h,171,OpenPlay,2017,Head,8354,Augsburg,Bayer Leverkusen,1,1,2017-11-04 14:30:00,Daniel Opare,Aerial
+167613,48,SavedShot,0.9409999847412109,0.4370000076293945,0.05163459852337837,Michael Gregoritsch,h,171,FromCorner,2017,Head,8354,Augsburg,Bayer Leverkusen,1,1,2017-11-04 14:30:00,Philipp Max,Aerial
+167615,50,BlockedShot,0.905,0.5940000152587891,0.04602640122175217,Michael Gregoritsch,h,171,OpenPlay,2017,Head,8354,Augsburg,Bayer Leverkusen,1,1,2017-11-04 14:30:00,Ja-Cheol Koo,Cross
+167766,20,MissedShots,0.6509999847412109,0.6719999694824219,0.00861101970076561,Michael Gregoritsch,a,171,OpenPlay,2017,LeftFoot,8358,Bayern Munich,Augsburg,3,0,2017-11-18 14:30:00,Alfred Finnbogason,HeadPass
+167770,32,SavedShot,0.7040000152587891,0.2979999923706055,0.032054100185632706,Michael Gregoritsch,a,171,DirectFreekick,2017,LeftFoot,8358,Bayern Munich,Augsburg,3,0,2017-11-18 14:30:00,,Standard
+167778,59,SavedShot,0.6659999847412109,0.5640000152587891,0.0298008993268013,Michael Gregoritsch,a,171,DirectFreekick,2017,LeftFoot,8358,Bayern Munich,Augsburg,3,0,2017-11-18 14:30:00,,Standard
+168565,33,MissedShots,0.899000015258789,0.34200000762939453,0.06068139895796776,Michael Gregoritsch,h,171,OpenPlay,2017,LeftFoot,8373,Augsburg,Wolfsburg,2,1,2017-11-25 14:30:00,Jeffrey Gouweleeuw,Chipped
+168570,47,MissedShots,0.8909999847412109,0.4490000152587891,0.0761168971657753,Michael Gregoritsch,h,171,OpenPlay,2017,LeftFoot,8373,Augsburg,Wolfsburg,2,1,2017-11-25 14:30:00,,None
+168571,50,Goal,0.93,0.6140000152587891,0.1011279970407486,Michael Gregoritsch,h,171,OpenPlay,2017,LeftFoot,8373,Augsburg,Wolfsburg,2,1,2017-11-25 14:30:00,Alfred Finnbogason,Pass
+169032,21,Goal,0.9259999847412109,0.5109999847412109,0.4268760085105896,Michael Gregoritsch,a,171,OpenPlay,2017,LeftFoot,8383,Mainz 05,Augsburg,1,3,2017-12-02 14:30:00,Philipp Max,Cross
+169042,59,BlockedShot,0.779000015258789,0.7480000305175781,0.0486408993601799,Michael Gregoritsch,a,171,DirectFreekick,2017,LeftFoot,8383,Mainz 05,Augsburg,1,3,2017-12-02 14:30:00,,Standard
+179742,43,MissedShots,0.7930000305175782,0.580999984741211,0.056955501437187195,Michael Gregoritsch,h,171,OpenPlay,2017,RightFoot,8392,Augsburg,Hertha Berlin,1,1,2017-12-10 17:00:00,Alfred Finnbogason,Pass
+179743,51,BlockedShot,0.8430000305175781,0.56,0.08113519847393036,Michael Gregoritsch,h,171,OpenPlay,2017,LeftFoot,8392,Augsburg,Hertha Berlin,1,1,2017-12-10 17:00:00,Philipp Max,Pass
+179750,81,MissedShots,0.935,0.595999984741211,0.31664299964904785,Michael Gregoritsch,h,171,OpenPlay,2017,LeftFoot,8392,Augsburg,Hertha Berlin,1,1,2017-12-10 17:00:00,Raphael Framberger,Cross
+184000,6,SavedShot,0.735999984741211,0.285,0.03925099968910217,Michael Gregoritsch,a,171,DirectFreekick,2017,LeftFoot,8398,Schalke 04,Augsburg,3,2,2017-12-13 19:30:00,,Standard
+184015,75,SavedShot,0.7609999847412109,0.47900001525878905,0.025231000036001205,Michael Gregoritsch,a,171,OpenPlay,2017,LeftFoot,8398,Schalke 04,Augsburg,3,2,2017-12-13 19:30:00,Daniel Baier,Chipped
+184017,78,Goal,0.885,0.5,0.7577769756317139,Michael Gregoritsch,a,171,Penalty,2017,LeftFoot,8398,Schalke 04,Augsburg,3,2,2017-12-13 19:30:00,,Standard
+183795,6,MissedShots,0.955,0.3370000076293945,0.012947100214660168,Michael Gregoritsch,h,171,FromCorner,2017,Head,8406,Augsburg,Freiburg,3,3,2017-12-16 14:30:00,Philipp Max,Cross
+183796,8,MissedShots,0.9290000152587891,0.47,0.5877730250358582,Michael Gregoritsch,h,171,OpenPlay,2017,RightFoot,8406,Augsburg,Freiburg,3,3,2017-12-16 14:30:00,Alfred Finnbogason,Pass
+183800,36,MissedShots,0.835999984741211,0.5309999847412109,0.09981939941644669,Michael Gregoritsch,h,171,OpenPlay,2017,LeftFoot,8406,Augsburg,Freiburg,3,3,2017-12-16 14:30:00,Alfred Finnbogason,LayOff
+183808,67,BlockedShot,0.875,0.675,0.02258479967713356,Michael Gregoritsch,h,171,OpenPlay,2017,LeftFoot,8406,Augsburg,Freiburg,3,3,2017-12-16 14:30:00,Philipp Max,Cross
+183811,73,MissedShots,0.894000015258789,0.5840000152587891,0.030333200469613075,Michael Gregoritsch,h,171,OpenPlay,2017,Head,8406,Augsburg,Freiburg,3,3,2017-12-16 14:30:00,Daniel Baier,Aerial
+183814,84,ShotOnPost,0.9119999694824219,0.580999984741211,0.01756180077791214,Michael Gregoritsch,h,171,FromCorner,2017,Head,8406,Augsburg,Freiburg,3,3,2017-12-16 14:30:00,Jonathan Schmid,Aerial
+187255,14,BlockedShot,0.865,0.36400001525878906,0.11797700077295303,Michael Gregoritsch,h,171,OpenPlay,2017,LeftFoot,8418,Augsburg,Hamburger SV,1,0,2018-01-13 14:30:00,Daniel Baier,Throughball
+187256,18,MissedShots,0.9169999694824219,0.45099998474121095,0.03262690082192421,Michael Gregoritsch,h,171,FromCorner,2017,Head,8418,Augsburg,Hamburger SV,1,0,2018-01-13 14:30:00,Philipp Max,Aerial
+187259,31,SavedShot,0.754000015258789,0.3609999847412109,0.019574200734496117,Michael Gregoritsch,h,171,OpenPlay,2017,LeftFoot,8418,Augsburg,Hamburger SV,1,0,2018-01-13 14:30:00,Ja-Cheol Koo,Pass
+187270,74,ShotOnPost,0.9009999847412109,0.515,0.10998000204563141,Michael Gregoritsch,h,171,OpenPlay,2017,RightFoot,8418,Augsburg,Hamburger SV,1,0,2018-01-13 14:30:00,Philipp Max,Cross
+188555,12,MissedShots,0.7980000305175782,0.8159999847412109,0.012035599909722805,Michael Gregoritsch,a,171,OpenPlay,2017,LeftFoot,8425,Borussia M.Gladbach,Augsburg,2,0,2018-01-20 14:30:00,,BallTouch
+188556,15,SavedShot,0.6759999847412109,0.39799999237060546,0.030969100072979927,Michael Gregoritsch,a,171,DirectFreekick,2017,LeftFoot,8425,Borussia M.Gladbach,Augsburg,2,0,2018-01-20 14:30:00,,Standard
+189874,65,BlockedShot,0.855999984741211,0.55,0.0826449990272522,Michael Gregoritsch,a,171,OpenPlay,2017,LeftFoot,8434,FC Cologne,Augsburg,1,1,2018-01-27 14:30:00,Alfred Finnbogason,Pass
+189875,66,SavedShot,0.9690000152587891,0.5220000076293946,0.12183000147342682,Michael Gregoritsch,a,171,OpenPlay,2017,RightFoot,8434,FC Cologne,Augsburg,1,1,2018-01-27 14:30:00,,BallTouch
+194808,2,MissedShots,0.8519999694824218,0.3509999847412109,0.05227639898657799,Michael Gregoritsch,h,171,OpenPlay,2017,RightFoot,8443,Augsburg,Eintracht Frankfurt,3,0,2018-02-04 14:30:00,Raphael Framberger,Pass
+194817,27,BlockedShot,0.81,0.315,0.0844016969203949,Michael Gregoritsch,h,171,DirectFreekick,2017,LeftFoot,8443,Augsburg,Eintracht Frankfurt,3,0,2018-02-04 14:30:00,,Standard
+194818,28,SavedShot,0.799000015258789,0.34200000762939453,0.06227640062570572,Michael Gregoritsch,h,171,OpenPlay,2017,RightFoot,8443,Augsburg,Eintracht Frankfurt,3,0,2018-02-04 14:30:00,Caiuby,LayOff
+194822,44,SavedShot,0.965999984741211,0.5879999923706055,0.42775601148605347,Michael Gregoritsch,h,171,OpenPlay,2017,LeftFoot,8443,Augsburg,Eintracht Frankfurt,3,0,2018-02-04 14:30:00,,Rebound
+194821,44,BlockedShot,0.9309999847412109,0.5790000152587891,0.1416510045528412,Michael Gregoritsch,h,171,OpenPlay,2017,LeftFoot,8443,Augsburg,Eintracht Frankfurt,3,0,2018-02-04 14:30:00,Marcel Heller,Pass
+194828,75,Goal,0.9540000152587891,0.45799999237060546,0.5726889967918396,Michael Gregoritsch,h,171,SetPiece,2017,RightFoot,8443,Augsburg,Eintracht Frankfurt,3,0,2018-02-04 14:30:00,Caiuby,HeadPass
+194961,6,BlockedShot,0.92,0.4,0.08223520219326019,Michael Gregoritsch,a,171,OpenPlay,2017,RightFoot,8453,RasenBallsport Leipzig,Augsburg,2,0,2018-02-09 19:30:00,Raphael Framberger,Cross
+194970,33,SavedShot,0.8809999847412109,0.5990000152587891,0.33706000447273254,Michael Gregoritsch,a,171,OpenPlay,2017,RightFoot,8453,RasenBallsport Leipzig,Augsburg,2,0,2018-02-09 19:30:00,Ja-Cheol Koo,Pass
+194982,70,BlockedShot,0.8880000305175781,0.4520000076293945,0.04074449837207794,Michael Gregoritsch,a,171,OpenPlay,2017,Head,8453,RasenBallsport Leipzig,Augsburg,2,0,2018-02-09 19:30:00,,None
+196770,56,SavedShot,0.865999984741211,0.5329999923706055,0.09110070019960403,Michael Gregoritsch,h,171,OpenPlay,2017,LeftFoot,8463,Augsburg,VfB Stuttgart,0,1,2018-02-18 14:30:00,Philipp Max,Pass
+196780,94,BlockedShot,0.865999984741211,0.524000015258789,0.03541160002350807,Michael Gregoritsch,h,171,OpenPlay,2017,Head,8463,Augsburg,VfB Stuttgart,0,1,2018-02-18 14:30:00,Philipp Max,Cross
+198127,6,SavedShot,0.8569999694824219,0.31799999237060544,0.0485697016119957,Michael Gregoritsch,a,171,OpenPlay,2017,LeftFoot,8467,Borussia Dortmund,Augsburg,1,1,2018-02-26 19:30:00,Raphael Framberger,Pass
+198128,13,MissedShots,0.9440000152587891,0.29200000762939454,0.00977800041437149,Michael Gregoritsch,a,171,FromCorner,2017,Head,8467,Borussia Dortmund,Augsburg,1,1,2018-02-26 19:30:00,Philipp Max,Cross
+198130,18,MissedShots,0.7119999694824218,0.475,0.045415401458740234,Michael Gregoritsch,a,171,DirectFreekick,2017,LeftFoot,8467,Borussia Dortmund,Augsburg,1,1,2018-02-26 19:30:00,,Standard
+198807,77,MissedShots,0.9119999694824219,0.46299999237060546,0.10077600181102753,Michael Gregoritsch,h,171,OpenPlay,2017,Head,8481,Augsburg,Hoffenheim,0,2,2018-03-03 14:30:00,Sergio Córdova,Cross
+198809,81,MissedShots,0.909000015258789,0.495,0.11352799832820892,Michael Gregoritsch,h,171,OpenPlay,2017,Head,8481,Augsburg,Hoffenheim,0,2,2018-03-03 14:30:00,Jonathan Schmid,Cross
+199864,4,MissedShots,0.759000015258789,0.5820000076293945,0.03394769877195358,Michael Gregoritsch,a,171,OpenPlay,2017,LeftFoot,8488,Hannover 96,Augsburg,1,3,2018-03-10 14:30:00,,TakeOn
+199873,25,Goal,0.935,0.42900001525878906,0.3075770139694214,Michael Gregoritsch,a,171,OpenPlay,2017,Head,8488,Hannover 96,Augsburg,1,3,2018-03-10 14:30:00,Caiuby,Cross
+199891,82,Goal,0.9080000305175782,0.3890000152587891,0.3518890142440796,Michael Gregoritsch,a,171,OpenPlay,2017,RightFoot,8488,Hannover 96,Augsburg,1,3,2018-03-10 14:30:00,Philipp Max,Pass
+201368,26,BlockedShot,0.8119999694824219,0.5,0.042437199503183365,Michael Gregoritsch,h,171,SetPiece,2017,LeftFoot,8501,Augsburg,Werder Bremen,1,3,2018-03-17 14:30:00,Caiuby,HeadPass
+201375,44,MissedShots,0.720999984741211,0.610999984741211,0.044943999499082565,Michael Gregoritsch,h,171,DirectFreekick,2017,LeftFoot,8501,Augsburg,Werder Bremen,1,3,2018-03-17 14:30:00,,Standard
+201384,68,SavedShot,0.8119999694824219,0.51,0.15748600661754608,Michael Gregoritsch,h,171,DirectFreekick,2017,RightFoot,8501,Augsburg,Werder Bremen,1,3,2018-03-17 14:30:00,,Standard
+204386,45,MissedShots,0.8369999694824218,0.285,0.030827900394797325,Michael Gregoritsch,a,171,OpenPlay,2017,RightFoot,8507,Bayer Leverkusen,Augsburg,0,0,2018-03-31 14:30:00,Sergio Córdova,Pass
+207373,15,BlockedShot,0.7580000305175781,0.695,0.015852099284529686,Michael Gregoritsch,h,171,OpenPlay,2017,RightFoot,8517,Augsburg,Bayern Munich,1,4,2018-04-07 13:30:00,,Tackle
+207387,68,MissedShots,0.9330000305175781,0.43099998474121093,0.07937780022621155,Michael Gregoritsch,h,171,OpenPlay,2017,LeftFoot,8517,Augsburg,Bayern Munich,1,4,2018-04-07 13:30:00,Jonathan Schmid,Cross
+208106,56,SavedShot,0.82,0.10899999618530273,0.010742800310254097,Michael Gregoritsch,a,171,OpenPlay,2017,LeftFoot,8527,Wolfsburg,Augsburg,0,0,2018-04-13 18:30:00,Jonathan Schmid,Pass
+211034,2,MissedShots,0.8040000152587891,0.40099998474121096,0.029754100367426872,Michael Gregoritsch,h,171,OpenPlay,2017,RightFoot,8534,Augsburg,Mainz 05,2,0,2018-04-22 13:30:00,Marco Richter,HeadPass
+211040,28,Goal,0.9019999694824219,0.575999984741211,0.3081760108470917,Michael Gregoritsch,h,171,OpenPlay,2017,RightFoot,8534,Augsburg,Mainz 05,2,0,2018-04-22 13:30:00,Alfred Finnbogason,Chipped
+211043,33,SavedShot,0.8680000305175781,0.585,0.11014500260353088,Michael Gregoritsch,h,171,OpenPlay,2017,LeftFoot,8534,Augsburg,Mainz 05,2,0,2018-04-22 13:30:00,Ja-Cheol Koo,Pass
+211559,14,BlockedShot,0.700999984741211,0.5309999847412109,0.018713099882006645,Michael Gregoritsch,a,171,OpenPlay,2017,LeftFoot,8540,Hertha Berlin,Augsburg,2,2,2018-04-28 13:30:00,Jan Morávek,Pass
+211563,24,MissedShots,0.879000015258789,0.36700000762939455,0.044000398367643356,Michael Gregoritsch,a,171,OpenPlay,2017,LeftFoot,8540,Hertha Berlin,Augsburg,2,2,2018-04-28 13:30:00,Philipp Max,Cross
+211564,31,Goal,0.7380000305175781,0.534000015258789,0.020160600543022156,Michael Gregoritsch,a,171,OpenPlay,2017,LeftFoot,8540,Hertha Berlin,Augsburg,2,2,2018-04-28 13:30:00,Caiuby,Pass
+211568,42,MissedShots,0.7280000305175781,0.7319999694824219,0.01898520067334175,Michael Gregoritsch,a,171,OpenPlay,2017,LeftFoot,8540,Hertha Berlin,Augsburg,2,2,2018-04-28 13:30:00,Philipp Max,Pass
+213070,64,BlockedShot,0.8059999847412109,0.4570000076293945,0.06219730153679848,Michael Gregoritsch,h,171,OpenPlay,2017,RightFoot,8547,Augsburg,Schalke 04,1,2,2018-05-05 14:30:00,,TakeOn
+220054,15,SavedShot,0.884000015258789,0.534000015258789,0.12011100351810455,Michael Gregoritsch,a,171,OpenPlay,2018,RightFoot,10339,Fortuna Duesseldorf,Augsburg,1,2,2018-08-25 16:30:00,Caiuby,Pass
+220063,44,MissedShots,0.8930000305175781,0.545,0.09807530045509338,Michael Gregoritsch,a,171,OpenPlay,2018,LeftFoot,10339,Fortuna Duesseldorf,Augsburg,1,2,2018-08-25 16:30:00,Philipp Max,Rebound
+221566,11,Goal,0.9119999694824219,0.534000015258789,0.3389419913291931,Michael Gregoritsch,h,171,OpenPlay,2018,LeftFoot,10349,Augsburg,Borussia M.Gladbach,1,1,2018-09-01 13:30:00,Philipp Max,Cross
+221569,20,MissedShots,0.8719999694824219,0.7469999694824219,0.03701239824295044,Michael Gregoritsch,h,171,OpenPlay,2018,LeftFoot,10349,Augsburg,Borussia M.Gladbach,1,1,2018-09-01 13:30:00,Philipp Max,Pass
+221571,44,MissedShots,0.9219999694824219,0.47200000762939454,0.10602500289678574,Michael Gregoritsch,h,171,FromCorner,2018,Head,10349,Augsburg,Borussia M.Gladbach,1,1,2018-09-01 13:30:00,Jonathan Schmid,Cross
+221573,47,SavedShot,0.9719999694824218,0.475,0.6193940043449402,Michael Gregoritsch,h,171,OpenPlay,2018,LeftFoot,10349,Augsburg,Borussia M.Gladbach,1,1,2018-09-01 13:30:00,,Foul
+221574,49,BlockedShot,0.86,0.4329999923706055,0.07203660160303116,Michael Gregoritsch,h,171,OpenPlay,2018,RightFoot,10349,Augsburg,Borussia M.Gladbach,1,1,2018-09-01 13:30:00,Rani Khedira,Cross
+221576,58,MissedShots,0.9169999694824219,0.545,0.08614099770784378,Michael Gregoritsch,h,171,FromCorner,2018,Head,10349,Augsburg,Borussia M.Gladbach,1,1,2018-09-01 13:30:00,Jonathan Schmid,Cross
+221578,65,SavedShot,0.899000015258789,0.544000015258789,0.10570400208234787,Michael Gregoritsch,h,171,OpenPlay,2018,Head,10349,Augsburg,Borussia M.Gladbach,1,1,2018-09-01 13:30:00,Philipp Max,Cross
+223436,60,MissedShots,0.9219999694824219,0.5120000076293946,0.0522909015417099,Michael Gregoritsch,a,171,FromCorner,2018,Head,10357,Mainz 05,Augsburg,2,1,2018-09-15 13:30:00,Philipp Max,Aerial
+224936,8,MissedShots,0.9130000305175782,0.5129999923706055,0.13865000009536743,Michael Gregoritsch,h,171,OpenPlay,2018,RightFoot,10367,Augsburg,Werder Bremen,2,3,2018-09-22 13:30:00,Philipp Max,Pass
+224941,18,MissedShots,0.870999984741211,0.6569999694824219,0.058785900473594666,Michael Gregoritsch,h,171,OpenPlay,2018,LeftFoot,10367,Augsburg,Werder Bremen,2,3,2018-09-22 13:30:00,Daniel Baier,Chipped
+224943,21,SavedShot,0.7630000305175781,0.580999984741211,0.0745059996843338,Michael Gregoritsch,h,171,DirectFreekick,2018,LeftFoot,10367,Augsburg,Werder Bremen,2,3,2018-09-22 13:30:00,,Standard
+224966,87,ShotOnPost,0.950999984741211,0.4759999847412109,0.13373400270938873,Michael Gregoritsch,h,171,FromCorner,2018,Head,10367,Augsburg,Werder Bremen,2,3,2018-09-22 13:30:00,Philipp Max,Cross
+226237,54,MissedShots,0.8780000305175781,0.48700000762939455,0.0505950003862381,Michael Gregoritsch,a,171,OpenPlay,2018,Head,10376,Bayern Munich,Augsburg,1,1,2018-09-25 18:30:00,Martin Hinteregger,Cross
+228798,45,SavedShot,0.845,0.6969999694824218,0.05069420114159584,Michael Gregoritsch,h,171,OpenPlay,2018,LeftFoot,10390,Augsburg,Freiburg,4,1,2018-09-30 16:00:00,Philipp Max,Pass
+228799,46,MissedShots,0.9280000305175782,0.46099998474121096,0.4401249885559082,Michael Gregoritsch,h,171,OpenPlay,2018,Head,10390,Augsburg,Freiburg,4,1,2018-09-30 16:00:00,Jonathan Schmid,Cross
+228800,46,BlockedShot,0.7519999694824219,0.6819999694824219,0.01763789914548397,Michael Gregoritsch,h,171,OpenPlay,2018,LeftFoot,10390,Augsburg,Freiburg,4,1,2018-09-30 16:00:00,,BallRecovery
+228811,61,MissedShots,0.794000015258789,0.43,0.04695430025458336,Michael Gregoritsch,h,171,OpenPlay,2018,LeftFoot,10390,Augsburg,Freiburg,4,1,2018-09-30 16:00:00,Alfred Finnbogason,Pass
+255220,48,SavedShot,0.9259999847412109,0.345,0.30669599771499634,Michael Gregoritsch,a,171,OpenPlay,2018,RightFoot,10393,Borussia Dortmund,Augsburg,4,3,2018-10-06 13:30:00,,Rebound
+255232,86,Goal,0.91,0.5029999923706054,0.2899479866027832,Michael Gregoritsch,a,171,FromCorner,2018,Head,10393,Borussia Dortmund,Augsburg,4,3,2018-10-06 13:30:00,Philipp Max,Cross
+255483,46,MissedShots,0.92,0.7630000305175781,0.03034060075879097,Michael Gregoritsch,h,171,OpenPlay,2018,LeftFoot,10406,Augsburg,RasenBallsport Leipzig,0,0,2018-10-20 13:30:00,André Hahn,Pass
+255484,48,MissedShots,0.7440000152587891,0.3390000152587891,0.04970350116491318,Michael Gregoritsch,h,171,DirectFreekick,2018,LeftFoot,10406,Augsburg,RasenBallsport Leipzig,0,0,2018-10-20 13:30:00,,Standard
+255495,80,MissedShots,0.9740000152587891,0.39799999237060546,0.05747830122709274,Michael Gregoritsch,h,171,OpenPlay,2018,Head,10406,Augsburg,RasenBallsport Leipzig,0,0,2018-10-20 13:30:00,Caiuby,Cross
+256490,5,ShotOnPost,0.91,0.43400001525878906,0.037891000509262085,Michael Gregoritsch,h,171,OpenPlay,2018,Head,10441,Augsburg,Eintracht Frankfurt,1,3,2018-11-24 14:30:00,,Aerial
+256494,28,BlockedShot,0.8719999694824219,0.54,0.07116139680147171,Michael Gregoritsch,h,171,OpenPlay,2018,LeftFoot,10441,Augsburg,Eintracht Frankfurt,1,3,2018-11-24 14:30:00,Caiuby,Cross
+256499,42,SavedShot,0.879000015258789,0.5359999847412109,0.07572410255670547,Michael Gregoritsch,h,171,OpenPlay,2018,RightFoot,10441,Augsburg,Eintracht Frankfurt,1,3,2018-11-24 14:30:00,Fredrik Jensen,HeadPass
+256512,65,SavedShot,0.9219999694824219,0.725999984741211,0.03658920153975487,Michael Gregoritsch,h,171,OpenPlay,2018,LeftFoot,10441,Augsburg,Eintracht Frankfurt,1,3,2018-11-24 14:30:00,Philipp Max,Pass
+256716,15,MissedShots,0.895,0.5279999923706055,0.01936659961938858,Michael Gregoritsch,a,171,FromCorner,2018,Head,10448,VfB Stuttgart,Augsburg,1,0,2018-12-01 14:30:00,Philipp Max,Aerial
+256717,19,SavedShot,0.9269999694824219,0.44299999237060544,0.33868300914764404,Michael Gregoritsch,a,171,OpenPlay,2018,LeftFoot,10448,VfB Stuttgart,Augsburg,1,0,2018-12-01 14:30:00,Julian Schieber,TakeOn
+256726,54,BlockedShot,0.7759999847412109,0.47200000762939454,0.034199900925159454,Michael Gregoritsch,a,171,OpenPlay,2018,LeftFoot,10448,VfB Stuttgart,Augsburg,1,0,2018-12-01 14:30:00,Ja-Cheol Koo,Pass
+256729,59,MissedShots,0.700999984741211,0.395,0.014161200262606144,Michael Gregoritsch,a,171,OpenPlay,2018,LeftFoot,10448,VfB Stuttgart,Augsburg,1,0,2018-12-01 14:30:00,Sergio Córdova,Pass
+256734,68,BlockedShot,0.7719999694824219,0.3890000152587891,0.07664450258016586,Michael Gregoritsch,a,171,DirectFreekick,2018,LeftFoot,10448,VfB Stuttgart,Augsburg,1,0,2018-12-01 14:30:00,,Standard
+257047,9,MissedShots,0.7430000305175781,0.629000015258789,0.01883539929986,Michael Gregoritsch,a,171,OpenPlay,2018,LeftFoot,10456,Bayer Leverkusen,Augsburg,1,0,2018-12-08 14:30:00,Alfred Finnbogason,HeadPass
+256859,7,SavedShot,0.91,0.44299999237060544,0.2223930060863495,Michael Gregoritsch,h,171,OpenPlay,2018,Head,10468,Augsburg,Schalke 04,1,1,2018-12-15 14:30:00,Philipp Max,Cross
+256860,8,BlockedShot,0.7340000152587891,0.40299999237060546,0.052607301622629166,Michael Gregoritsch,h,171,DirectFreekick,2018,LeftFoot,10468,Augsburg,Schalke 04,1,1,2018-12-15 14:30:00,,Standard
+256864,10,MissedShots,0.8959999847412109,0.5359999847412109,0.06918349862098694,Michael Gregoritsch,h,171,FromCorner,2018,Head,10468,Augsburg,Schalke 04,1,1,2018-12-15 14:30:00,Daniel Baier,Cross
+256865,12,Goal,0.9059999847412109,0.46900001525878904,0.38930800557136536,Michael Gregoritsch,h,171,OpenPlay,2018,Head,10468,Augsburg,Schalke 04,1,1,2018-12-15 14:30:00,,None
+256871,45,SavedShot,0.8859999847412109,0.5329999923706055,0.09259060025215149,Michael Gregoritsch,h,171,OpenPlay,2018,Head,10468,Augsburg,Schalke 04,1,1,2018-12-15 14:30:00,Caiuby,Cross
+256878,68,SavedShot,0.904000015258789,0.57,0.042243700474500656,Michael Gregoritsch,h,171,OpenPlay,2018,Head,10468,Augsburg,Schalke 04,1,1,2018-12-15 14:30:00,Philipp Max,Aerial
+257456,4,MissedShots,0.775,0.615999984741211,0.02724749967455864,Michael Gregoritsch,a,171,OpenPlay,2018,LeftFoot,10480,Hertha Berlin,Augsburg,2,2,2018-12-18 19:30:00,,BallRecovery
+257468,36,MissedShots,0.9119999694824219,0.48700000762939455,0.03793710097670555,Michael Gregoritsch,a,171,FromCorner,2018,Head,10480,Hertha Berlin,Augsburg,2,2,2018-12-18 19:30:00,Jonathan Schmid,Aerial
+257471,51,BlockedShot,0.865,0.7559999847412109,0.024932099506258965,Michael Gregoritsch,a,171,OpenPlay,2018,LeftFoot,10480,Hertha Berlin,Augsburg,2,2,2018-12-18 19:30:00,Dong-Won Ji,Pass
+257477,75,MissedShots,0.9169999694824219,0.5579999923706055,0.05342249944806099,Michael Gregoritsch,a,171,OpenPlay,2018,Head,10480,Hertha Berlin,Augsburg,2,2,2018-12-18 19:30:00,,Aerial
+257825,28,MissedShots,0.7280000305175781,0.7319999694824219,0.017096299678087234,Michael Gregoritsch,h,171,OpenPlay,2018,LeftFoot,10488,Augsburg,Wolfsburg,2,3,2018-12-23 14:30:00,Ja-Cheol Koo,Pass
+278343,3,MissedShots,0.87,0.46299999237060546,0.03172310069203377,Michael Gregoritsch,h,171,OpenPlay,2018,Head,10493,Augsburg,Fortuna Duesseldorf,1,2,2019-01-19 14:30:00,André Hahn,Cross
+278349,28,SavedShot,0.750999984741211,0.6780000305175782,0.018462400883436203,Michael Gregoritsch,h,171,OpenPlay,2018,LeftFoot,10493,Augsburg,Fortuna Duesseldorf,1,2,2019-01-19 14:30:00,Jan Morávek,Pass
+278355,59,BlockedShot,0.9309999847412109,0.49400001525878906,0.39079800248146057,Michael Gregoritsch,h,171,FromCorner,2018,Head,10493,Augsburg,Fortuna Duesseldorf,1,2,2019-01-19 14:30:00,Jonathan Schmid,Cross
+278897,10,MissedShots,0.894000015258789,0.605,0.11477600038051605,Michael Gregoritsch,h,171,OpenPlay,2018,LeftFoot,10512,Augsburg,Mainz 05,3,0,2019-02-03 14:30:00,Konstantinos Stafylidis,Pass
+278899,31,SavedShot,0.9530000305175781,0.6020000076293945,0.43152299523353577,Michael Gregoritsch,h,171,OpenPlay,2018,LeftFoot,10512,Augsburg,Mainz 05,3,0,2019-02-03 14:30:00,Alfred Finnbogason,Throughball
+278910,55,BlockedShot,0.88,0.41200000762939454,0.12877200543880463,Michael Gregoritsch,h,171,OpenPlay,2018,LeftFoot,10512,Augsburg,Mainz 05,3,0,2019-02-03 14:30:00,Konstantinos Stafylidis,Pass
+278915,80,SavedShot,0.82,0.24600000381469728,0.027378400787711143,Michael Gregoritsch,h,171,OpenPlay,2018,LeftFoot,10512,Augsburg,Mainz 05,3,0,2019-02-03 14:30:00,André Hahn,Pass
+279118,22,BlockedShot,0.889000015258789,0.4420000076293945,0.03738519921898842,Michael Gregoritsch,a,171,FromCorner,2018,Head,10521,Werder Bremen,Augsburg,4,0,2019-02-10 14:30:00,Jonathan Schmid,Cross
+279119,22,BlockedShot,0.9309999847412109,0.34,0.06550949811935425,Michael Gregoritsch,a,171,FromCorner,2018,RightFoot,10521,Werder Bremen,Augsburg,4,0,2019-02-10 14:30:00,,Rebound
+279125,31,BlockedShot,0.9059999847412109,0.5070000076293946,0.04696260020136833,Michael Gregoritsch,a,171,OpenPlay,2018,Head,10521,Werder Bremen,Augsburg,4,0,2019-02-10 14:30:00,,Rebound
+279192,78,MissedShots,0.87,0.14,0.045860398560762405,Michael Gregoritsch,h,171,DirectFreekick,2018,LeftFoot,10531,Augsburg,Bayern Munich,2,3,2019-02-15 19:30:00,,Standard
+279430,16,MissedShots,0.755,0.685,0.018624700605869293,Michael Gregoritsch,a,171,OpenPlay,2018,LeftFoot,10541,Freiburg,Augsburg,5,1,2019-02-23 14:30:00,Philipp Max,Pass
+279448,62,MissedShots,0.9,0.47400001525878904,0.09650339931249619,Michael Gregoritsch,a,171,OpenPlay,2018,Head,10541,Freiburg,Augsburg,5,1,2019-02-23 14:30:00,Dong-Won Ji,Cross
+279450,65,ShotOnPost,0.9080000305175782,0.32799999237060545,0.24638299643993378,Michael Gregoritsch,a,171,OpenPlay,2018,RightFoot,10541,Freiburg,Augsburg,5,1,2019-02-23 14:30:00,Philipp Max,Pass
+279453,75,SavedShot,0.9519999694824218,0.5179999923706055,0.6551679968833923,Michael Gregoritsch,a,171,OpenPlay,2018,LeftFoot,10541,Freiburg,Augsburg,5,1,2019-02-23 14:30:00,Fredrik Jensen,Pass
+279580,8,MissedShots,0.755,0.45599998474121095,0.022895900532603264,Michael Gregoritsch,h,171,OpenPlay,2018,LeftFoot,10550,Augsburg,Borussia Dortmund,2,1,2019-03-01 19:30:00,Dong-Won Ji,BallRecovery
+279589,34,BlockedShot,0.774000015258789,0.6930000305175781,0.02671010047197342,Michael Gregoritsch,h,171,OpenPlay,2018,LeftFoot,10550,Augsburg,Borussia Dortmund,2,1,2019-03-01 19:30:00,Georg Teigl,Pass
+284405,58,SavedShot,0.860999984741211,0.5929999923706055,0.0700346976518631,Michael Gregoritsch,a,171,OpenPlay,2018,RightFoot,10556,RasenBallsport Leipzig,Augsburg,0,0,2019-03-09 14:30:00,Marco Richter,HeadPass
+287434,1,MissedShots,0.72,0.46700000762939453,0.04915589839220047,Michael Gregoritsch,a,171,DirectFreekick,2018,LeftFoot,10575,Nuernberg,Augsburg,3,0,2019-03-30 14:30:00,,Standard
+287441,23,BlockedShot,0.9,0.534000015258789,0.09327910095453262,Michael Gregoritsch,a,171,OpenPlay,2018,LeftFoot,10575,Nuernberg,Augsburg,3,0,2019-03-30 14:30:00,,None
+287447,47,BlockedShot,0.895,0.45099998474121095,0.09183929860591888,Michael Gregoritsch,a,171,OpenPlay,2018,RightFoot,10575,Nuernberg,Augsburg,3,0,2019-03-30 14:30:00,,None
+287451,60,MissedShots,0.93,0.4640000152587891,0.11537899821996689,Michael Gregoritsch,a,171,FromCorner,2018,Head,10575,Nuernberg,Augsburg,3,0,2019-03-30 14:30:00,Philipp Max,Cross
+287456,85,MissedShots,0.93,0.46299999237060546,0.12066999822854996,Michael Gregoritsch,a,171,OpenPlay,2018,Head,10575,Nuernberg,Augsburg,3,0,2019-03-30 14:30:00,Philipp Max,Cross
+287457,86,BlockedShot,0.815,0.545,0.05568470060825348,Michael Gregoritsch,a,171,OpenPlay,2018,LeftFoot,10575,Nuernberg,Augsburg,3,0,2019-03-30 14:30:00,Philipp Max,Pass
+292626,52,MissedShots,0.94,0.555,0.3443000018596649,Michael Gregoritsch,h,171,OpenPlay,2018,Head,10586,Augsburg,Hoffenheim,0,4,2019-04-07 14:30:00,Jeffrey Gouweleeuw,Aerial
+292631,63,BlockedShot,0.735999984741211,0.5109999847412109,0.01722870022058487,Michael Gregoritsch,h,171,OpenPlay,2018,RightFoot,10586,Augsburg,Hoffenheim,0,4,2019-04-07 14:30:00,Philipp Max,Pass
+294347,46,SavedShot,0.7869999694824219,0.3820000076293945,0.03021720051765442,Michael Gregoritsch,a,171,OpenPlay,2018,LeftFoot,10593,Eintracht Frankfurt,Augsburg,1,3,2019-04-14 17:00:00,André Hahn,Pass
+294365,83,Goal,0.8219999694824218,0.40599998474121096,0.06952899694442749,Michael Gregoritsch,a,171,OpenPlay,2018,LeftFoot,10593,Eintracht Frankfurt,Augsburg,1,3,2019-04-14 17:00:00,Daniel Baier,Pass
+294369,92,MissedShots,0.855999984741211,0.5429999923706055,0.14082999527454376,Michael Gregoritsch,a,171,OpenPlay,2018,LeftFoot,10593,Eintracht Frankfurt,Augsburg,1,3,2019-04-14 17:00:00,Jonathan Schmid,TakeOn
+295203,27,MissedShots,0.875,0.49700000762939456,0.03262289986014366,Michael Gregoritsch,h,171,FromCorner,2018,Head,10602,Augsburg,VfB Stuttgart,6,0,2019-04-20 14:30:00,Jonathan Schmid,Cross
+295206,34,MissedShots,0.9330000305175781,0.46299999237060546,0.05860549956560135,Michael Gregoritsch,h,171,FromCorner,2018,Head,10602,Augsburg,VfB Stuttgart,6,0,2019-04-20 14:30:00,Philipp Max,Aerial
+297111,10,BlockedShot,0.755,0.34,0.017110100015997887,Michael Gregoritsch,h,171,OpenPlay,2018,LeftFoot,10612,Augsburg,Bayer Leverkusen,1,4,2019-04-26 19:30:00,André Hahn,Pass
+297117,45,MissedShots,0.745999984741211,0.235,0.011562000028789043,Michael Gregoritsch,h,171,OpenPlay,2018,LeftFoot,10612,Augsburg,Bayer Leverkusen,1,4,2019-04-26 19:30:00,André Hahn,Pass
+299723,12,MissedShots,0.9459999847412109,0.5840000152587891,0.038121599704027176,Michael Gregoritsch,a,171,FromCorner,2018,Head,10617,Schalke 04,Augsburg,0,0,2019-05-05 12:30:00,Jonathan Schmid,Aerial
+299732,55,MissedShots,0.875999984741211,0.5659999847412109,0.3917370140552521,Michael Gregoritsch,a,171,SetPiece,2018,LeftFoot,10617,Schalke 04,Augsburg,0,0,2019-05-05 12:30:00,Philipp Max,Pass
+299733,57,BlockedShot,0.86,0.5920000076293945,0.08930879831314087,Michael Gregoritsch,a,171,OpenPlay,2018,RightFoot,10617,Schalke 04,Augsburg,0,0,2019-05-05 12:30:00,André Hahn,Pass
+300682,49,Goal,0.885,0.5,0.7577769756317139,Michael Gregoritsch,h,171,Penalty,2018,LeftFoot,10631,Augsburg,Hertha Berlin,3,4,2019-05-11 14:30:00,,Standard
+300690,69,Goal,0.8859999847412109,0.645,0.5173460245132446,Michael Gregoritsch,h,171,OpenPlay,2018,LeftFoot,10631,Augsburg,Hertha Berlin,3,4,2019-05-11 14:30:00,Marco Richter,Throughball
+302272,10,MissedShots,0.7469999694824219,0.57,0.022640300914645195,Michael Gregoritsch,a,171,OpenPlay,2018,LeftFoot,10641,Wolfsburg,Augsburg,8,1,2019-05-18 13:30:00,Daniel Baier,Pass
+302290,66,MissedShots,0.8480000305175781,0.6270000076293946,0.0274898000061512,Michael Gregoritsch,a,171,OpenPlay,2018,LeftFoot,10641,Wolfsburg,Augsburg,8,1,2019-05-18 13:30:00,André Hahn,Chipped
+312443,24,MissedShots,0.895,0.565,0.015974000096321106,Michael Gregoritsch,h,171,FromCorner,2019,Head,12417,Augsburg,Union Berlin,1,1,2019-08-24 14:30:00,Philipp Max,Aerial
+312463,85,MissedShots,0.73,0.355,0.04548339918255806,Michael Gregoritsch,h,171,DirectFreekick,2019,LeftFoot,12417,Augsburg,Union Berlin,1,1,2019-08-24 14:30:00,,Standard
+316354,10,MissedShots,0.9059999847412109,0.46,0.024192800745368004,Michael Gregoritsch,a,171,FromCorner,2019,Head,12428,Werder Bremen,Augsburg,3,2,2019-09-01 14:30:00,Philipp Max,Aerial
+329973,93,MissedShots,0.8980000305175782,0.4179999923706055,0.053045500069856644,Michael Gregoritsch,h,171,OpenPlay,2019,Head,12491,Augsburg,Schalke 04,2,3,2019-11-03 17:00:00,Ruben Vargas,Cross
+354684,5,SavedShot,0.9290000152587891,0.534000015258789,0.38603198528289795,Michael Gregoritsch,h,171,OpenPlay,2019,LeftFoot,12561,Schalke 04,Borussia M.Gladbach,2,0,2020-01-17 19:30:00,Benito Raman,Cross
+354690,25,BlockedShot,0.779000015258789,0.4470000076293945,0.04505069926381111,Michael Gregoritsch,h,171,OpenPlay,2019,LeftFoot,12561,Schalke 04,Borussia M.Gladbach,2,0,2020-01-17 19:30:00,,TakeOn
+354693,32,MissedShots,0.915,0.445,0.045687898993492126,Michael Gregoritsch,h,171,SetPiece,2019,Head,12561,Schalke 04,Borussia M.Gladbach,2,0,2020-01-17 19:30:00,Bastian Oczipka,Aerial
+354698,46,MissedShots,0.909000015258789,0.4620000076293945,0.10183200240135193,Michael Gregoritsch,h,171,OpenPlay,2019,Head,12561,Schalke 04,Borussia M.Gladbach,2,0,2020-01-17 19:30:00,Daniel Caligiuri,Cross
+354704,57,Goal,0.9130000305175782,0.40599998474121096,0.4970119893550873,Michael Gregoritsch,h,171,OpenPlay,2019,LeftFoot,12561,Schalke 04,Borussia M.Gladbach,2,0,2020-01-17 19:30:00,Benito Raman,Pass
+355911,41,MissedShots,0.89,0.46599998474121096,0.04097669944167137,Michael Gregoritsch,a,171,FromCorner,2019,Head,12565,Bayern Munich,Schalke 04,5,0,2020-01-25 17:30:00,,None
+356512,19,SavedShot,0.8130000305175781,0.31,0.029143700376152992,Michael Gregoritsch,a,171,OpenPlay,2019,LeftFoot,12578,Hertha Berlin,Schalke 04,0,0,2020-01-31 19:30:00,Amine Harit,Pass
+356517,45,SavedShot,0.889000015258789,0.625,0.3339250087738037,Michael Gregoritsch,a,171,OpenPlay,2019,LeftFoot,12578,Hertha Berlin,Schalke 04,0,0,2020-01-31 19:30:00,Suat Serdar,Throughball
+356522,58,MissedShots,0.889000015258789,0.44099998474121094,0.038582198321819305,Michael Gregoritsch,a,171,FromCorner,2019,Head,12578,Hertha Berlin,Schalke 04,0,0,2020-01-31 19:30:00,Daniel Caligiuri,Cross
+356530,85,MissedShots,0.895,0.565,0.06227890029549599,Michael Gregoritsch,a,171,OpenPlay,2019,Head,12578,Hertha Berlin,Schalke 04,0,0,2020-01-31 19:30:00,Bastian Oczipka,Cross
+358024,48,MissedShots,0.919000015258789,0.34200000762939453,0.28341400623321533,Michael Gregoritsch,h,171,OpenPlay,2019,RightFoot,12591,Schalke 04,Paderborn,1,1,2020-02-08 14:30:00,Weston McKennie,Pass
+359476,34,MissedShots,0.9119999694824219,0.4779999923706055,0.0873958021402359,Michael Gregoritsch,a,171,FromCorner,2019,Head,12596,Mainz 05,Schalke 04,0,0,2020-02-16 17:00:00,Bastian Oczipka,Cross
+359478,39,SavedShot,0.91,0.580999984741211,0.4060490131378174,Michael Gregoritsch,a,171,OpenPlay,2019,LeftFoot,12596,Mainz 05,Schalke 04,0,0,2020-02-16 17:00:00,Alessandro Schöpf,Pass
+359482,53,SavedShot,0.72,0.4929999923706055,0.04963289946317673,Michael Gregoritsch,a,171,DirectFreekick,2019,LeftFoot,12596,Mainz 05,Schalke 04,0,0,2020-02-16 17:00:00,,Standard
+360964,23,MissedShots,0.919000015258789,0.4779999923706055,0.05146849900484085,Michael Gregoritsch,a,171,OpenPlay,2019,Head,12617,FC Cologne,Schalke 04,3,0,2020-02-29 17:30:00,Benito Raman,Aerial
+360969,44,SavedShot,0.9169999694824219,0.54,0.37853899598121643,Michael Gregoritsch,a,171,OpenPlay,2019,LeftFoot,12617,FC Cologne,Schalke 04,3,0,2020-02-29 17:30:00,,Rebound
+363278,37,BlockedShot,0.919000015258789,0.47900001525878905,0.047582101076841354,Michael Gregoritsch,h,171,OpenPlay,2019,Head,12644,Schalke 04,Augsburg,0,3,2020-05-24 11:30:00,Bastian Oczipka,Aerial
+363292,86,BlockedShot,0.8930000305175781,0.545,0.022128399461507797,Michael Gregoritsch,h,171,SetPiece,2019,Head,12644,Schalke 04,Augsburg,0,3,2020-05-24 11:30:00,Jonjoe Kenny,Aerial
+363667,49,MissedShots,0.9480000305175781,0.38299999237060545,0.013754099607467651,Michael Gregoritsch,h,171,SetPiece,2019,Head,12661,Schalke 04,Werder Bremen,0,1,2020-05-30 13:30:00,Juan Miranda,Aerial
+363669,56,MissedShots,0.894000015258789,0.5059999847412109,0.38108301162719727,Michael Gregoritsch,h,171,FromCorner,2019,RightFoot,12661,Schalke 04,Werder Bremen,0,1,2020-05-30 13:30:00,Salif Sané,HeadPass
+364016,73,BlockedShot,0.754000015258789,0.35700000762939454,0.05776270106434822,Michael Gregoritsch,a,171,DirectFreekick,2019,LeftFoot,12672,Union Berlin,Schalke 04,1,1,2020-06-07 13:30:00,,Standard
+364430,96,SavedShot,0.9109999847412109,0.4540000152587891,0.11008500307798386,Michael Gregoritsch,h,171,OpenPlay,2019,Head,12679,Schalke 04,Bayer Leverkusen,1,1,2020-06-14 16:00:00,Timo Becker,Cross
+364695,74,BlockedShot,0.899000015258789,0.46900001525878904,0.423675000667572,Michael Gregoritsch,a,171,OpenPlay,2019,RightFoot,12686,Eintracht Frankfurt,Schalke 04,2,1,2020-06-17 16:30:00,,Rebound
+365388,21,MissedShots,0.845,0.49700000762939456,0.019962400197982788,Michael Gregoritsch,h,171,OpenPlay,2019,Head,12697,Schalke 04,Wolfsburg,1,4,2020-06-20 13:30:00,Juan Miranda,Cross
+377399,81,Goal,0.905,0.48700000762939455,0.2866179943084717,Michael Gregoritsch,a,171,OpenPlay,2020,Head,14175,Union Berlin,Augsburg,1,3,2020-09-19 13:30:00,Iago,Cross
+377402,86,MissedShots,0.8119999694824219,0.500999984741211,0.04110509902238846,Michael Gregoritsch,a,171,OpenPlay,2020,LeftFoot,14175,Union Berlin,Augsburg,1,3,2020-09-19 13:30:00,Raphael Framberger,Cross
+381278,10,MissedShots,0.9319999694824219,0.5979999923706054,0.5620729923248291,Michael Gregoritsch,a,171,OpenPlay,2020,LeftFoot,15165,Wolfsburg,Augsburg,0,0,2020-10-04 13:30:00,,TakeOn
+384220,25,SavedShot,0.725999984741211,0.7030000305175781,0.01536870002746582,Michael Gregoritsch,a,171,OpenPlay,2020,LeftFoot,15184,Bayer Leverkusen,Augsburg,3,1,2020-10-26 19:30:00,Jeffrey Gouweleeuw,Pass
+384541,47,SavedShot,0.73,0.3890000152587891,0.023026499897241592,Michael Gregoritsch,h,171,OpenPlay,2020,LeftFoot,15187,Augsburg,Mainz 05,3,1,2020-10-31 14:30:00,Tobias Strobl,BallRecovery
+384547,70,MissedShots,0.879000015258789,0.46700000762939453,0.11100900173187256,Michael Gregoritsch,h,171,OpenPlay,2020,LeftFoot,15187,Augsburg,Mainz 05,3,1,2020-10-31 14:30:00,Daniel Caligiuri,Pass
+385931,16,MissedShots,0.7869999694824219,0.7390000152587891,0.017300300300121307,Michael Gregoritsch,h,171,OpenPlay,2020,RightFoot,15199,Augsburg,Hertha Berlin,0,3,2020-11-07 14:30:00,Carlos Gruezo,Chipped
+388626,74,BlockedShot,0.9,0.46799999237060547,0.06761310249567032,Michael Gregoritsch,h,171,FromCorner,2020,RightFoot,15219,Augsburg,Freiburg,1,1,2020-11-28 14:30:00,Daniel Caligiuri,Cross
+393950,81,MissedShots,0.8909999847412109,0.53,0.09726840257644653,Michael Gregoritsch,h,171,OpenPlay,2020,LeftFoot,15256,Augsburg,Eintracht Frankfurt,0,2,2020-12-19 14:30:00,Daniel Caligiuri,Pass
+393951,82,MissedShots,0.9,0.575,0.05845319852232933,Michael Gregoritsch,h,171,OpenPlay,2020,Head,15256,Augsburg,Eintracht Frankfurt,0,2,2020-12-19 14:30:00,Ruben Vargas,Cross
+393954,91,BlockedShot,0.7480000305175781,0.6029999923706054,0.02463809959590435,Michael Gregoritsch,h,171,OpenPlay,2020,LeftFoot,15256,Augsburg,Eintracht Frankfurt,0,2,2020-12-19 14:30:00,,TakeOn
+393955,94,MissedShots,0.8030000305175782,0.6359999847412109,0.035454101860523224,Michael Gregoritsch,h,171,OpenPlay,2020,LeftFoot,15256,Augsburg,Eintracht Frankfurt,0,2,2020-12-19 14:30:00,Tobias Strobl,Pass
+426887,80,MissedShots,0.935,0.590999984741211,0.04567210003733635,Michael Gregoritsch,a,171,OpenPlay,2021,Head,17530,Eintracht Frankfurt,Augsburg,0,0,2021-08-21 13:30:00,,None
+444003,96,Goal,0.924000015258789,0.524000015258789,0.06689070165157318,Michael Gregoritsch,a,171,OpenPlay,2021,Head,17627,Hertha Berlin,Augsburg,1,1,2021-11-27 14:30:00,Fredrik Jensen,Chipped
+446143,50,SavedShot,0.8859999847412109,0.47400001525878904,0.07154130190610886,Michael Gregoritsch,h,171,OpenPlay,2021,Head,17634,Augsburg,Bochum,2,3,2021-12-04 14:30:00,Fredrik Jensen,Cross
+446145,56,Goal,0.9169999694824219,0.5690000152587891,0.06770160049200058,Michael Gregoritsch,h,171,FromCorner,2021,Head,17634,Augsburg,Bochum,2,3,2021-12-04 14:30:00,Daniel Caligiuri,Cross
+446154,77,BlockedShot,0.8569999694824219,0.4159999847412109,0.2678700089454651,Michael Gregoritsch,h,171,OpenPlay,2021,LeftFoot,17634,Augsburg,Bochum,2,3,2021-12-04 14:30:00,Jan Morávek,Pass
+447290,30,MissedShots,0.899000015258789,0.46599998474121096,0.044996101409196854,Michael Gregoritsch,a,171,OpenPlay,2021,Head,17644,FC Cologne,Augsburg,0,2,2021-12-10 19:30:00,Iago,Aerial
+449472,71,SavedShot,0.89,0.3770000076293945,0.01890919916331768,Michael Gregoritsch,a,171,OpenPlay,2021,Head,17660,Greuther Fuerth,Augsburg,0,0,2021-12-18 14:30:00,Arne Maier,Cross
+452098,4,Goal,0.9369999694824219,0.48700000762939455,0.41210201382637024,Michael Gregoritsch,a,171,FromCorner,2021,Head,17672,Hoffenheim,Augsburg,3,1,2022-01-08 14:30:00,Arne Maier,Cross
+452104,23,MissedShots,0.5409999847412109,0.6270000076293946,0.007536130025982857,Michael Gregoritsch,a,171,OpenPlay,2021,LeftFoot,17672,Hoffenheim,Augsburg,3,1,2022-01-08 14:30:00,,None
+452105,28,MissedShots,0.855999984741211,0.4809999847412109,0.015920300036668777,Michael Gregoritsch,a,171,OpenPlay,2021,Head,17672,Hoffenheim,Augsburg,3,1,2022-01-08 14:30:00,Iago,Aerial
+453737,37,Goal,0.9719999694824218,0.649000015258789,0.051720600575208664,Michael Gregoritsch,h,171,OpenPlay,2021,LeftFoot,17680,Augsburg,Eintracht Frankfurt,1,1,2022-01-16 14:30:00,Iago,Chipped
+454480,25,BlockedShot,0.895,0.6409999847412109,0.09136959910392761,Michael Gregoritsch,a,171,OpenPlay,2021,LeftFoot,17693,Bayer Leverkusen,Augsburg,5,1,2022-01-22 14:30:00,Ricardo Pepi,Throughball
+454494,61,SavedShot,0.6759999847412109,0.47200000762939454,0.03262219950556755,Michael Gregoritsch,a,171,DirectFreekick,2021,LeftFoot,17693,Bayer Leverkusen,Augsburg,5,1,2022-01-22 14:30:00,,Standard
+455753,15,Goal,0.899000015258789,0.47400001525878904,0.45339998602867126,Michael Gregoritsch,h,171,OpenPlay,2021,LeftFoot,17699,Augsburg,Union Berlin,2,0,2022-02-05 14:30:00,,None
+455761,39,ShotOnPost,0.735,0.4370000076293945,0.024954399093985558,Michael Gregoritsch,h,171,OpenPlay,2021,RightFoot,17699,Augsburg,Union Berlin,2,0,2022-02-05 14:30:00,Arne Maier,BallTouch
+455766,56,SavedShot,0.9269999694824219,0.7330000305175781,0.022708799690008163,Michael Gregoritsch,h,171,OpenPlay,2021,LeftFoot,17699,Augsburg,Union Berlin,2,0,2022-02-05 14:30:00,,Aerial
+456972,1,MissedShots,0.9080000305175782,0.47299999237060547,0.10608100146055222,Michael Gregoritsch,a,171,OpenPlay,2021,RightFoot,17709,Borussia M.Gladbach,Augsburg,3,2,2022-02-12 14:30:00,Florian Niederlechner,HeadPass
+456980,21,SavedShot,0.960999984741211,0.56,0.10289499908685684,Michael Gregoritsch,a,171,OpenPlay,2021,LeftFoot,17709,Borussia M.Gladbach,Augsburg,3,2,2022-02-12 14:30:00,,None
+456990,52,MissedShots,0.915,0.5479999923706055,0.11056099832057953,Michael Gregoritsch,a,171,OpenPlay,2021,Head,17709,Borussia M.Gladbach,Augsburg,3,2,2022-02-12 14:30:00,Ruben Vargas,Cross
+458178,9,MissedShots,0.9009999847412109,0.49400001525878906,0.07979509979486465,Michael Gregoritsch,h,171,OpenPlay,2021,Head,17717,Augsburg,Freiburg,1,2,2022-02-19 14:30:00,Iago,Cross
+458181,15,Goal,0.7959999847412109,0.500999984741211,0.043399300426244736,Michael Gregoritsch,h,171,OpenPlay,2021,LeftFoot,17717,Augsburg,Freiburg,1,2,2022-02-19 14:30:00,Florian Niederlechner,Pass
+458189,41,SavedShot,0.6759999847412109,0.41200000762939454,0.012508999556303024,Michael Gregoritsch,h,171,OpenPlay,2021,LeftFoot,17717,Augsburg,Freiburg,1,2,2022-02-19 14:30:00,Niklas Dorsch,Pass
+458197,77,MissedShots,0.885,0.5209999847412109,0.04145989939570427,Michael Gregoritsch,h,171,OpenPlay,2021,Head,17717,Augsburg,Freiburg,1,2,2022-02-19 14:30:00,Ruben Vargas,Chipped
+460442,9,MissedShots,0.9259999847412109,0.43900001525878907,0.036242298781871796,Michael Gregoritsch,h,171,FromCorner,2021,Head,17725,Augsburg,Borussia Dortmund,1,1,2022-02-27 16:30:00,Arne Maier,Aerial
+460445,22,SavedShot,0.945,0.57,0.04619799926877022,Michael Gregoritsch,h,171,FromCorner,2021,Head,17725,Augsburg,Borussia Dortmund,1,1,2022-02-27 16:30:00,Ruben Vargas,BallTouch
+460737,34,MissedShots,0.9080000305175782,0.539000015258789,0.10195600241422653,Michael Gregoritsch,a,171,OpenPlay,2021,Head,17734,Arminia Bielefeld,Augsburg,0,1,2022-03-04 19:30:00,Iago,Cross
+460739,45,MissedShots,0.965999984741211,0.585,0.054750099778175354,Michael Gregoritsch,a,171,OpenPlay,2021,Head,17734,Arminia Bielefeld,Augsburg,0,1,2022-03-04 19:30:00,,None
+463923,18,MissedShots,0.8219999694824218,0.4809999847412109,0.007722659967839718,Michael Gregoritsch,a,171,SetPiece,2021,Head,17755,VfB Stuttgart,Augsburg,3,2,2022-03-19 14:30:00,Arne Maier,Aerial
+463927,27,MissedShots,0.749000015258789,0.29200000762939454,0.015787700191140175,Michael Gregoritsch,a,171,OpenPlay,2021,RightFoot,17755,VfB Stuttgart,Augsburg,3,2,2022-03-19 14:30:00,,None
+463938,45,Goal,0.865,0.49700000762939456,0.3843879997730255,Michael Gregoritsch,a,171,OpenPlay,2021,RightFoot,17755,VfB Stuttgart,Augsburg,3,2,2022-03-19 14:30:00,Arne Maier,Pass
+468090,2,MissedShots,0.8180000305175781,0.639000015258789,0.044195398688316345,Michael Gregoritsch,h,171,OpenPlay,2021,LeftFoot,17778,Augsburg,Hertha Berlin,0,1,2022-04-16 13:30:00,Mads Pedersen,Tackle
+468094,15,MissedShots,0.9069999694824219,0.4640000152587891,0.044475000351667404,Michael Gregoritsch,h,171,SetPiece,2021,Head,17778,Augsburg,Hertha Berlin,0,1,2022-04-16 13:30:00,Arne Maier,Aerial
+468098,34,MissedShots,0.685,0.445,0.03462599962949753,Michael Gregoritsch,h,171,DirectFreekick,2021,LeftFoot,17778,Augsburg,Hertha Berlin,0,1,2022-04-16 13:30:00,,Standard
+468106,55,ShotOnPost,0.965,0.41900001525878905,0.2723189890384674,Michael Gregoritsch,h,171,FromCorner,2021,Head,17778,Augsburg,Hertha Berlin,0,1,2022-04-16 13:30:00,,Rebound
+468108,65,MissedShots,0.755,0.3160000038146973,0.05113830044865608,Michael Gregoritsch,h,171,DirectFreekick,2021,LeftFoot,17778,Augsburg,Hertha Berlin,0,1,2022-04-16 13:30:00,,Standard
+470669,42,Goal,0.885,0.5,0.7577769756317139,Michael Gregoritsch,a,171,Penalty,2021,LeftFoot,17787,Bochum,Augsburg,0,2,2022-04-24 13:30:00,,Standard
+471449,1,MissedShots,0.8719999694824219,0.49400001525878906,0.029725899919867516,Michael Gregoritsch,h,171,FromCorner,2021,Head,17796,Augsburg,FC Cologne,1,4,2022-04-30 13:30:00,Daniel Caligiuri,Cross
+471450,5,SavedShot,0.9059999847412109,0.524000015258789,0.05396080017089844,Michael Gregoritsch,h,171,OpenPlay,2021,Head,17796,Augsburg,FC Cologne,1,4,2022-04-30 13:30:00,Ruben Vargas,Aerial
+471458,29,MissedShots,0.870999984741211,0.69,0.0531981997191906,Michael Gregoritsch,h,171,OpenPlay,2021,LeftFoot,17796,Augsburg,FC Cologne,1,4,2022-04-30 13:30:00,,TakeOn
+471461,31,BlockedShot,0.9,0.5220000076293946,0.05297299847006798,Michael Gregoritsch,h,171,OpenPlay,2021,Head,17796,Augsburg,FC Cologne,1,4,2022-04-30 13:30:00,Iago,Aerial
+471471,75,SavedShot,0.735,0.4370000076293945,0.05612559989094734,Michael Gregoritsch,h,171,DirectFreekick,2021,LeftFoot,17796,Augsburg,FC Cologne,1,4,2022-04-30 13:30:00,,Standard
+475818,83,Goal,0.8730000305175781,0.3729999923706055,0.07917290180921555,Michael Gregoritsch,h,171,OpenPlay,2021,LeftFoot,17814,Augsburg,Greuther Fuerth,2,1,2022-05-14 13:30:00,Arne Maier,Pass
+479214,4,BlockedShot,0.789000015258789,0.705,0.01227600034326315,Michael Gregoritsch,a,171,OpenPlay,2022,LeftFoot,19347,Augsburg,Freiburg,0,4,2022-08-06 13:30:00,Roland Sallai,HeadPass
+479227,45,Goal,0.9209999847412109,0.4490000152587891,0.3279719948768616,Michael Gregoritsch,a,171,OpenPlay,2022,Head,19347,Augsburg,Freiburg,0,4,2022-08-06 13:30:00,Kiliann Sildillia,Cross
+480046,34,Goal,0.9440000152587891,0.5509999847412109,0.09562390297651291,Michael Gregoritsch,h,171,OpenPlay,2022,Head,19351,Freiburg,Borussia Dortmund,1,3,2022-08-12 18:30:00,Matthias Ginter,HeadPass
+480051,45,SavedShot,0.905,0.47900001525878905,0.11472400277853012,Michael Gregoritsch,h,171,OpenPlay,2022,Head,19351,Freiburg,Borussia Dortmund,1,3,2022-08-12 18:30:00,Roland Sallai,Cross
+480055,62,SavedShot,0.955,0.68,0.06924209743738174,Michael Gregoritsch,h,171,OpenPlay,2022,LeftFoot,19351,Freiburg,Borussia Dortmund,1,3,2022-08-12 18:30:00,Vincenzo Grifo,Chipped
+480058,73,MissedShots,0.9119999694824219,0.519000015258789,0.13230200111865997,Michael Gregoritsch,h,171,OpenPlay,2022,Head,19351,Freiburg,Borussia Dortmund,1,3,2022-08-12 18:30:00,Ritsu Doan,Cross
+481725,29,MissedShots,0.904000015258789,0.44599998474121094,0.10519099980592728,Michael Gregoritsch,a,171,OpenPlay,2022,Head,19363,VfB Stuttgart,Freiburg,0,1,2022-08-20 13:30:00,Ritsu Doan,Cross
+483274,21,SavedShot,0.8580000305175781,0.6079999923706054,0.08648280054330826,Michael Gregoritsch,h,171,OpenPlay,2022,LeftFoot,19369,Freiburg,Bochum,1,0,2022-08-26 18:30:00,Vincenzo Grifo,Pass
+483278,28,SavedShot,0.7280000305175781,0.6179999923706054,0.01951720006763935,Michael Gregoritsch,h,171,OpenPlay,2022,LeftFoot,19369,Freiburg,Bochum,1,0,2022-08-26 18:30:00,Ritsu Doan,Pass
+483296,61,SavedShot,0.9390000152587891,0.505,0.13540199398994446,Michael Gregoritsch,h,171,OpenPlay,2022,LeftFoot,19369,Freiburg,Bochum,1,0,2022-08-26 18:30:00,,None
+483301,71,SavedShot,0.9269999694824219,0.43099998474121093,0.3703309893608093,Michael Gregoritsch,h,171,OpenPlay,2022,Head,19369,Freiburg,Bochum,1,0,2022-08-26 18:30:00,,Rebound
+483302,71,ShotOnPost,0.9719999694824218,0.4640000152587891,0.7453659772872925,Michael Gregoritsch,h,171,OpenPlay,2022,LeftFoot,19369,Freiburg,Bochum,1,0,2022-08-26 18:30:00,,Rebound
+485851,49,Goal,0.9819999694824219,0.5420000076293945,0.8037700057029724,Michael Gregoritsch,a,171,OpenPlay,2022,LeftFoot,19379,Bayer Leverkusen,Freiburg,2,3,2022-09-03 13:30:00,Woo-Yeong Jeong,Pass
+488111,19,MissedShots,0.785,0.40700000762939453,0.0320202000439167,Michael Gregoritsch,h,171,OpenPlay,2022,LeftFoot,19395,Freiburg,Borussia M.Gladbach,0,0,2022-09-11 15:30:00,Vincenzo Grifo,Pass
+488113,23,SavedShot,0.855,0.26399999618530273,0.03067909926176071,Michael Gregoritsch,h,171,OpenPlay,2022,RightFoot,19395,Freiburg,Borussia M.Gladbach,0,0,2022-09-11 15:30:00,Ritsu Doan,Pass
+488119,45,SavedShot,0.799000015258789,0.41900001525878905,0.014760700054466724,Michael Gregoritsch,h,171,OpenPlay,2022,Head,19395,Freiburg,Borussia M.Gladbach,0,0,2022-09-11 15:30:00,Christian Günter,Chipped
+488128,78,SavedShot,0.9169999694824219,0.46900001525878904,0.07780060172080994,Michael Gregoritsch,h,171,OpenPlay,2022,Head,19395,Freiburg,Borussia M.Gladbach,0,0,2022-09-11 15:30:00,Vincenzo Grifo,Chipped
+489600,24,MissedShots,0.8859999847412109,0.4159999847412109,0.11568500101566315,Michael Gregoritsch,a,171,OpenPlay,2022,RightFoot,19404,Hoffenheim,Freiburg,0,0,2022-09-18 17:30:00,Ritsu Doan,TakeOn
+489610,62,SavedShot,0.9069999694824219,0.545,0.02393369935452938,Michael Gregoritsch,a,171,FromCorner,2022,Head,19404,Hoffenheim,Freiburg,0,0,2022-09-18 17:30:00,Christian Günter,Aerial
+489613,68,BlockedShot,0.8919999694824219,0.5459999847412109,0.08958929777145386,Michael Gregoritsch,a,171,OpenPlay,2022,LeftFoot,19404,Hoffenheim,Freiburg,0,0,2022-09-18 17:30:00,,None
+490019,2,Goal,0.8540000152587891,0.3370000076293945,0.05695519968867302,Michael Gregoritsch,h,171,OpenPlay,2022,LeftFoot,19407,Freiburg,Mainz 05,2,1,2022-10-01 13:30:00,Maximilian Eggestein,Pass
+490021,14,MissedShots,0.8080000305175781,0.47900001525878905,0.04504320025444031,Michael Gregoritsch,h,171,SetPiece,2022,LeftFoot,19407,Freiburg,Mainz 05,2,1,2022-10-01 13:30:00,Christian Günter,Pass
+490023,21,MissedShots,0.8880000305175781,0.47200000762939454,0.1120079979300499,Michael Gregoritsch,h,171,OpenPlay,2022,LeftFoot,19407,Freiburg,Mainz 05,2,1,2022-10-01 13:30:00,Kiliann Sildillia,HeadPass
+490025,28,SavedShot,0.8730000305175781,0.6409999847412109,0.07690069824457169,Michael Gregoritsch,h,171,OpenPlay,2022,LeftFoot,19407,Freiburg,Mainz 05,2,1,2022-10-01 13:30:00,Philipp Lienhart,Chipped
+490027,36,ShotOnPost,0.9490000152587891,0.5429999923706055,0.5453910231590271,Michael Gregoritsch,h,171,OpenPlay,2022,RightFoot,19407,Freiburg,Mainz 05,2,1,2022-10-01 13:30:00,Vincenzo Grifo,Cross
+490030,39,SavedShot,0.9,0.6580000305175782,0.05172630026936531,Michael Gregoritsch,h,171,OpenPlay,2022,RightFoot,19407,Freiburg,Mainz 05,2,1,2022-10-01 13:30:00,Ritsu Doan,Rebound
+490038,66,SavedShot,0.894000015258789,0.5540000152587891,0.056447599083185196,Michael Gregoritsch,h,171,SetPiece,2022,Head,19407,Freiburg,Mainz 05,2,1,2022-10-01 13:30:00,Vincenzo Grifo,Chipped
+490039,67,MissedShots,0.905,0.5690000152587891,0.052386898547410965,Michael Gregoritsch,h,171,FromCorner,2022,Head,19407,Freiburg,Mainz 05,2,1,2022-10-01 13:30:00,Christian Günter,Cross
+492589,16,MissedShots,0.9,0.43900001525878907,0.08161400258541107,Michael Gregoritsch,a,171,OpenPlay,2022,Head,19422,Hertha Berlin,Freiburg,2,2,2022-10-09 15:30:00,Christian Günter,Cross
+492601,59,MissedShots,0.9319999694824219,0.500999984741211,0.4344770014286041,Michael Gregoritsch,a,171,SetPiece,2022,Head,19422,Hertha Berlin,Freiburg,2,2,2022-10-09 15:30:00,Vincenzo Grifo,Aerial
+494915,65,SavedShot,0.8540000152587891,0.5,0.3906550109386444,Michael Gregoritsch,h,171,OpenPlay,2022,LeftFoot,19434,Freiburg,Werder Bremen,2,0,2022-10-22 13:30:00,,BallRecovery
+494919,70,BlockedShot,0.7440000152587891,0.555,0.04955760017037392,Michael Gregoritsch,h,171,OpenPlay,2022,LeftFoot,19434,Freiburg,Werder Bremen,2,0,2022-10-22 13:30:00,Kiliann Sildillia,Pass
+494929,91,BlockedShot,0.845,0.500999984741211,0.08419819921255112,Michael Gregoritsch,h,171,OpenPlay,2022,RightFoot,19434,Freiburg,Werder Bremen,2,0,2022-10-22 13:30:00,,None
+497403,31,SavedShot,0.889000015258789,0.5690000152587891,0.02018910087645054,Michael Gregoritsch,a,171,OpenPlay,2022,Head,19448,Schalke 04,Freiburg,0,2,2022-10-30 16:30:00,Maximilian Eggestein,Aerial
+498821,14,SavedShot,0.899000015258789,0.37099998474121093,0.31352999806404114,Michael Gregoritsch,h,171,OpenPlay,2022,RightFoot,19450,Freiburg,FC Cologne,2,0,2022-11-06 16:30:00,,Rebound
+498827,46,MissedShots,0.8109999847412109,0.6840000152587891,0.019179100170731544,Michael Gregoritsch,h,171,OpenPlay,2022,LeftFoot,19450,Freiburg,FC Cologne,2,0,2022-11-06 16:30:00,Lukas Kübler,Cross
+498831,63,Goal,0.9259999847412109,0.5059999847412109,0.4163089990615845,Michael Gregoritsch,h,171,OpenPlay,2022,Head,19450,Freiburg,FC Cologne,2,0,2022-11-06 16:30:00,Christian Günter,Cross
+500808,45,Goal,0.9030000305175782,0.6270000076293946,0.30147600173950195,Michael Gregoritsch,h,171,OpenPlay,2022,LeftFoot,19469,Freiburg,Union Berlin,4,1,2022-11-13 16:30:00,Ritsu Doan,Pass
+504483,22,BlockedShot,0.884000015258789,0.6509999847412109,0.02349890023469925,Michael Gregoritsch,a,171,SetPiece,2022,RightFoot,19483,Wolfsburg,Freiburg,6,0,2023-01-21 14:30:00,,Aerial
+505473,5,MissedShots,0.9319999694824219,0.5940000152587891,0.1268939971923828,Michael Gregoritsch,h,171,OpenPlay,2022,LeftFoot,19488,Freiburg,Eintracht Frankfurt,1,1,2023-01-25 19:30:00,Lucas Höler,Pass
+505487,61,MissedShots,0.9159999847412109,0.534000015258789,0.37643200159072876,Michael Gregoritsch,h,171,OpenPlay,2022,LeftFoot,19488,Freiburg,Eintracht Frankfurt,1,1,2023-01-25 19:30:00,Lucas Höler,Cross
+505488,68,SavedShot,0.89,0.6840000152587891,0.057387299835681915,Michael Gregoritsch,h,171,OpenPlay,2022,LeftFoot,19488,Freiburg,Eintracht Frankfurt,1,1,2023-01-25 19:30:00,Maximilian Eggestein,Pass
+505790,12,Goal,0.9359999847412109,0.6859999847412109,0.05615939944982529,Michael Gregoritsch,h,171,OpenPlay,2022,LeftFoot,19498,Freiburg,Augsburg,3,1,2023-01-28 14:30:00,Yannik Keitel,Pass
+505795,38,SavedShot,0.8819999694824219,0.534000015258789,0.10022500157356262,Michael Gregoritsch,h,171,OpenPlay,2022,LeftFoot,19498,Freiburg,Augsburg,3,1,2023-01-28 14:30:00,Christian Günter,Cross
+505806,70,SavedShot,0.889000015258789,0.514000015258789,0.043477099388837814,Michael Gregoritsch,h,171,OpenPlay,2022,Head,19498,Freiburg,Augsburg,3,1,2023-01-28 14:30:00,Ritsu Doan,Aerial
+506995,74,BlockedShot,0.850999984741211,0.5409999847412109,0.0845474973320961,Michael Gregoritsch,a,171,OpenPlay,2022,LeftFoot,19504,Borussia Dortmund,Freiburg,5,1,2023-02-04 14:30:00,Maximilian Eggestein,Pass
+508344,36,MissedShots,0.7980000305175782,0.5740000152587891,0.038450900465250015,Michael Gregoritsch,h,171,OpenPlay,2022,RightFoot,19515,Freiburg,VfB Stuttgart,2,1,2023-02-11 14:30:00,Matthias Ginter,Chipped
+508347,53,SavedShot,0.8680000305175781,0.534000015258789,0.033484701067209244,Michael Gregoritsch,h,171,OpenPlay,2022,Head,19515,Freiburg,VfB Stuttgart,2,1,2023-02-11 14:30:00,Christian Günter,Cross
+508350,56,BlockedShot,0.8819999694824219,0.5279999923706055,0.10682699829339981,Michael Gregoritsch,h,171,OpenPlay,2022,LeftFoot,19515,Freiburg,VfB Stuttgart,2,1,2023-02-11 14:30:00,Christian Günter,Pass
+509475,38,Goal,0.9640000152587891,0.45799999237060546,0.4720839858055115,Michael Gregoritsch,a,171,FromCorner,2022,LeftFoot,19528,Bochum,Freiburg,0,2,2023-02-18 14:30:00,Vincenzo Grifo,Cross
+509476,39,MissedShots,0.6890000152587891,0.825999984741211,0.010897600091993809,Michael Gregoritsch,a,171,OpenPlay,2022,LeftFoot,19528,Bochum,Freiburg,0,2,2023-02-18 14:30:00,,Goal
+509490,70,SavedShot,0.895,0.504000015258789,0.14364400506019592,Michael Gregoritsch,a,171,OpenPlay,2022,LeftFoot,19528,Bochum,Freiburg,0,2,2023-02-18 14:30:00,Christian Günter,Pass
+509492,77,BlockedShot,0.9169999694824219,0.56,0.14636099338531494,Michael Gregoritsch,a,171,OpenPlay,2022,RightFoot,19528,Bochum,Freiburg,0,2,2023-02-18 14:30:00,Christian Günter,Pass
+509495,83,MissedShots,0.6480000305175782,0.9619999694824218,0.008955090306699276,Michael Gregoritsch,a,171,OpenPlay,2022,LeftFoot,19528,Bochum,Freiburg,0,2,2023-02-18 14:30:00,,None
+514132,54,MissedShots,0.9059999847412109,0.7559999847412109,0.03253360092639923,Michael Gregoritsch,h,171,OpenPlay,2022,LeftFoot,19551,Freiburg,Hoffenheim,2,1,2023-03-12 14:30:00,Vincenzo Grifo,Chipped
+514134,58,SavedShot,0.904000015258789,0.6170000076293946,0.027640100568532944,Michael Gregoritsch,h,171,OpenPlay,2022,Head,19551,Freiburg,Hoffenheim,2,1,2023-03-12 14:30:00,Christian Günter,Cross
+515852,73,BlockedShot,0.6890000152587891,0.39,0.018434399738907814,Michael Gregoritsch,a,171,OpenPlay,2022,LeftFoot,19561,Mainz 05,Freiburg,1,1,2023-03-19 18:30:00,Vincenzo Grifo,Pass
+517901,15,SavedShot,0.720999984741211,0.6029999923706054,0.045608699321746826,Michael Gregoritsch,h,171,DirectFreekick,2022,LeftFoot,19578,Freiburg,Bayern Munich,0,1,2023-04-08 13:30:00,,Standard
+521513,5,SavedShot,0.9119999694824219,0.505,0.05546927452087402,Michael Gregoritsch,h,171,OpenPlay,2022,Head,19596,Freiburg,Schalke 04,4,0,2023-04-23 13:30:00,Christian Günter,Aerial
+521515,6,Goal,0.8569999694824219,0.6029999923706054,0.2864146828651428,Michael Gregoritsch,h,171,OpenPlay,2022,LeftFoot,19596,Freiburg,Schalke 04,4,0,2023-04-23 13:30:00,Ritsu Doan,Pass
+521524,34,Goal,0.8430000305175781,0.5509999847412109,0.014270554296672344,Michael Gregoritsch,h,171,FromCorner,2022,Head,19596,Freiburg,Schalke 04,4,0,2023-04-23 13:30:00,Lukas Kübler,Pass
+521535,63,SavedShot,0.935,0.6120000076293945,0.10416410118341446,Michael Gregoritsch,h,171,OpenPlay,2022,LeftFoot,19596,Freiburg,Schalke 04,4,0,2023-04-23 13:30:00,,None
+522660,47,SavedShot,0.86,0.5609999847412109,0.34143003821372986,Michael Gregoritsch,a,171,OpenPlay,2022,LeftFoot,19606,FC Cologne,Freiburg,0,1,2023-04-29 13:30:00,,TakeOn
+522665,58,MissedShots,0.9619999694824218,0.625999984741211,0.10343962907791138,Michael Gregoritsch,a,171,OpenPlay,2022,LeftFoot,19606,FC Cologne,Freiburg,0,1,2023-04-29 13:30:00,,Rebound
+529152,88,SavedShot,0.8980000305175782,0.39099998474121095,0.22502830624580383,Michael Gregoritsch,a,171,OpenPlay,2022,RightFoot,19644,Eintracht Frankfurt,Freiburg,2,1,2023-05-27 13:30:00,Mark Flekken,Pass
+529153,88,MissedShots,0.9159999847412109,0.40900001525878904,0.11090918630361557,Michael Gregoritsch,a,171,OpenPlay,2022,LeftFoot,19644,Eintracht Frankfurt,Freiburg,2,1,2023-05-27 13:30:00,,Rebound
+533044,5,SavedShot,0.7809999847412109,0.35700000762939454,0.026369960978627205,Michael Gregoritsch,a,171,OpenPlay,2023,LeftFoot,23068,Hoffenheim,Freiburg,1,2,2023-08-19 13:30:00,Roland Sallai,BallTouch
+533045,6,SavedShot,0.904000015258789,0.5579999923706055,0.03697635605931282,Michael Gregoritsch,a,171,OpenPlay,2023,Head,23068,Hoffenheim,Freiburg,1,2,2023-08-19 13:30:00,Roland Sallai,Aerial
+533051,33,MissedShots,0.9440000152587891,0.6609999847412109,0.012209780514240265,Michael Gregoritsch,a,171,OpenPlay,2023,Head,23068,Hoffenheim,Freiburg,1,2,2023-08-19 13:30:00,Roland Sallai,Aerial
+533056,45,MissedShots,0.9009999847412109,0.47299999237060547,0.09589077532291412,Michael Gregoritsch,a,171,OpenPlay,2023,Head,23068,Hoffenheim,Freiburg,1,2,2023-08-19 13:30:00,Lucas Höler,Cross
+533061,47,BlockedShot,0.889000015258789,0.48200000762939454,0.5069791674613953,Michael Gregoritsch,a,171,OpenPlay,2023,RightFoot,23068,Hoffenheim,Freiburg,1,2,2023-08-19 13:30:00,Roland Sallai,TakeOn
+533057,47,BlockedShot,0.8980000305175782,0.575999984741211,0.3158491253852844,Michael Gregoritsch,a,171,OpenPlay,2023,LeftFoot,23068,Hoffenheim,Freiburg,1,2,2023-08-19 13:30:00,Merlin Röhl,Cross
+533073,60,MissedShots,0.889000015258789,0.35700000762939454,0.09379271417856216,Michael Gregoritsch,a,171,OpenPlay,2023,LeftFoot,23068,Hoffenheim,Freiburg,1,2,2023-08-19 13:30:00,Lucas Höler,Pass
+533074,61,SavedShot,0.87,0.545,0.11672986298799515,Michael Gregoritsch,a,171,OpenPlay,2023,LeftFoot,23068,Hoffenheim,Freiburg,1,2,2023-08-19 13:30:00,Vincenzo Grifo,Pass
+534637,75,MissedShots,0.9319999694824219,0.4420000076293945,0.09537409991025925,Michael Gregoritsch,h,171,FromCorner,2023,LeftFoot,23075,Freiburg,Werder Bremen,1,0,2023-08-26 13:30:00,Vincenzo Grifo,Cross
+536028,2,SavedShot,0.92,0.41200000762939454,0.0801866427063942,Michael Gregoritsch,a,171,OpenPlay,2023,Head,23088,VfB Stuttgart,Freiburg,5,0,2023-09-02 13:30:00,Kiliann Sildillia,Cross
+536035,17,SavedShot,0.8869999694824219,0.36200000762939455,0.06591057777404785,Michael Gregoritsch,a,171,OpenPlay,2023,LeftFoot,23088,VfB Stuttgart,Freiburg,5,0,2023-09-02 13:30:00,,BallTouch
+537546,15,MissedShots,0.9030000305175782,0.5279999923706055,0.03639882057905197,Michael Gregoritsch,h,171,OpenPlay,2023,Head,23094,Freiburg,Borussia Dortmund,2,4,2023-09-16 13:30:00,Roland Sallai,Aerial
+546300,79,MissedShots,0.850999984741211,0.56,0.06329510360956192,Michael Gregoritsch,a,171,OpenPlay,2023,RightFoot,23139,Bayer Leverkusen,Freiburg,2,1,2023-10-29 16:30:00,Ritsu Doan,BallTouch
+546301,82,MissedShots,0.9259999847412109,0.5359999847412109,0.10886748135089874,Michael Gregoritsch,a,171,FromCorner,2023,Head,23139,Bayer Leverkusen,Freiburg,2,1,2023-10-29 16:30:00,Ritsu Doan,Cross
+546303,94,MissedShots,0.9119999694824219,0.48700000762939455,0.04015277698636055,Michael Gregoritsch,a,171,OpenPlay,2023,Head,23139,Bayer Leverkusen,Freiburg,2,1,2023-10-29 16:30:00,Noah Weißhaupt,Aerial
+546788,76,SavedShot,0.8680000305175781,0.605999984741211,0.008539457805454731,Michael Gregoritsch,h,171,OpenPlay,2023,Head,23148,Freiburg,Borussia M.Gladbach,3,3,2023-11-04 14:30:00,Maximilian Eggestein,Aerial
+546790,85,MissedShots,0.9519999694824218,0.41400001525878904,0.24416755139827728,Michael Gregoritsch,h,171,FromCorner,2023,Head,23148,Freiburg,Borussia M.Gladbach,3,3,2023-11-04 14:30:00,Vincenzo Grifo,Cross
+546791,85,BlockedShot,0.95,0.3990000152587891,0.18465380370616913,Michael Gregoritsch,h,171,FromCorner,2023,Head,23148,Freiburg,Borussia M.Gladbach,3,3,2023-11-04 14:30:00,,Rebound
+549226,84,MissedShots,0.8830000305175781,0.549000015258789,0.04810904711484909,Michael Gregoritsch,a,171,OpenPlay,2023,Head,23156,RasenBallsport Leipzig,Freiburg,3,1,2023-11-12 19:30:00,Noah Weißhaupt,Cross
+549668,4,BlockedShot,0.77,0.545,0.018337178975343704,Michael Gregoritsch,h,171,OpenPlay,2023,LeftFoot,23166,Freiburg,Darmstadt,1,1,2023-11-25 14:30:00,Lucas Höler,HeadPass
+549671,25,MissedShots,0.8880000305175781,0.664000015258789,0.049263302236795425,Michael Gregoritsch,h,171,FromCorner,2023,LeftFoot,23166,Freiburg,Darmstadt,1,1,2023-11-25 14:30:00,Philipp Lienhart,Pass
+549677,45,MissedShots,0.8919999694824219,0.4420000076293945,0.029648618772625923,Michael Gregoritsch,h,171,OpenPlay,2023,Head,23166,Freiburg,Darmstadt,1,1,2023-11-25 14:30:00,Ritsu Doan,Aerial
+549680,52,MissedShots,0.9180000305175782,0.46599998474121096,0.10690167546272278,Michael Gregoritsch,h,171,SetPiece,2023,Head,23166,Freiburg,Darmstadt,1,1,2023-11-25 14:30:00,Vincenzo Grifo,Cross
+551816,26,ShotOnPost,0.8880000305175781,0.4470000076293945,0.10616282373666763,Michael Gregoritsch,a,171,OpenPlay,2023,LeftFoot,23176,Mainz 05,Freiburg,0,1,2023-12-03 14:30:00,,Rebound
+551817,30,MissedShots,0.835999984741211,0.7519999694824219,0.020413482561707497,Michael Gregoritsch,a,171,OpenPlay,2023,LeftFoot,23176,Mainz 05,Freiburg,0,1,2023-12-03 14:30:00,,None
+551820,45,ShotOnPost,0.909000015258789,0.5,0.4168627858161926,Michael Gregoritsch,a,171,OpenPlay,2023,Head,23176,Mainz 05,Freiburg,0,1,2023-12-03 14:30:00,Noah Weißhaupt,Aerial
+551831,68,Goal,0.8719999694824219,0.615,0.060120102018117905,Michael Gregoritsch,a,171,OpenPlay,2023,LeftFoot,23176,Mainz 05,Freiburg,0,1,2023-12-03 14:30:00,Merlin Röhl,HeadPass
+551832,77,MissedShots,0.7230000305175781,0.42400001525878905,0.02274317666888237,Michael Gregoritsch,a,171,OpenPlay,2023,LeftFoot,23176,Mainz 05,Freiburg,0,1,2023-12-03 14:30:00,Lucas Höler,Pass
+552822,44,BlockedShot,0.9619999694824218,0.4279999923706055,0.11012949049472809,Michael Gregoritsch,a,171,FromCorner,2023,LeftFoot,23185,Wolfsburg,Freiburg,0,1,2023-12-09 14:30:00,,None
+552825,73,Goal,0.9069999694824219,0.5940000152587891,0.07729023694992065,Michael Gregoritsch,a,171,SetPiece,2023,RightFoot,23185,Wolfsburg,Freiburg,0,1,2023-12-09 14:30:00,Kiliann Sildillia,HeadPass
+554884,71,Goal,0.9619999694824218,0.4979999923706055,0.7304387092590332,Michael Gregoritsch,h,171,OpenPlay,2023,RightFoot,23193,Freiburg,FC Cologne,2,0,2023-12-17 14:30:00,,Rebound
+554887,84,SavedShot,0.855999984741211,0.6079999923706054,0.09584023803472519,Michael Gregoritsch,h,171,OpenPlay,2023,LeftFoot,23193,Freiburg,FC Cologne,2,0,2023-12-17 14:30:00,Merlin Röhl,Pass
+554894,89,MissedShots,0.8819999694824219,0.425,0.07460955530405045,Michael Gregoritsch,h,171,FromCorner,2023,LeftFoot,23193,Freiburg,FC Cologne,2,0,2023-12-17 14:30:00,,None
+558066,46,MissedShots,0.8030000305175782,0.4979999923706055,0.03590723127126694,Michael Gregoritsch,h,171,OpenPlay,2023,LeftFoot,23211,Freiburg,Union Berlin,0,0,2024-01-13 14:30:00,Roland Sallai,HeadPass
+558067,52,MissedShots,0.9080000305175782,0.5520000076293945,0.10265249013900757,Michael Gregoritsch,h,171,OpenPlay,2023,LeftFoot,23211,Freiburg,Union Berlin,0,0,2024-01-13 14:30:00,Vincenzo Grifo,HeadPass
+558069,59,MissedShots,0.9309999847412109,0.5659999847412109,0.11256617307662964,Michael Gregoritsch,h,171,OpenPlay,2023,LeftFoot,23211,Freiburg,Union Berlin,0,0,2024-01-13 14:30:00,Vincenzo Grifo,BallTouch
+558887,16,MissedShots,0.8980000305175782,0.4620000076293945,0.08551380783319473,Michael Gregoritsch,h,171,SetPiece,2023,Head,23220,Freiburg,Hoffenheim,3,2,2024-01-20 14:30:00,Vincenzo Grifo,Cross
+558891,25,SavedShot,0.6890000152587891,0.3920000076293945,0.0339202918112278,Michael Gregoritsch,h,171,DirectFreekick,2023,LeftFoot,23220,Freiburg,Hoffenheim,3,2,2024-01-20 14:30:00,,Standard
+558898,45,MissedShots,0.7719999694824219,0.3870000076293945,0.03530208021402359,Michael Gregoritsch,h,171,OpenPlay,2023,RightFoot,23220,Freiburg,Hoffenheim,3,2,2024-01-20 14:30:00,,None
+558909,77,MissedShots,0.9209999847412109,0.4620000076293945,0.059847645461559296,Michael Gregoritsch,h,171,OpenPlay,2023,Head,23220,Freiburg,Hoffenheim,3,2,2024-01-20 14:30:00,Jordy Makengo,Aerial
+558912,83,BlockedShot,0.7430000305175781,0.38,0.01937982439994812,Michael Gregoritsch,h,171,OpenPlay,2023,LeftFoot,23220,Freiburg,Hoffenheim,3,2,2024-01-20 14:30:00,Lucas Höler,Pass
+561195,91,BlockedShot,0.9430000305175781,0.545,0.5907792448997498,Michael Gregoritsch,h,171,OpenPlay,2023,Head,23238,Freiburg,VfB Stuttgart,1,3,2024-02-03 14:30:00,Roland Sallai,Aerial
+562161,20,SavedShot,0.8930000305175781,0.44299999237060544,0.055665940046310425,Michael Gregoritsch,a,171,OpenPlay,2023,Head,23246,Borussia Dortmund,Freiburg,3,0,2024-02-09 19:30:00,Lukas Kübler,Cross
+564470,79,SavedShot,0.9359999847412109,0.46799999237060547,0.3976472020149231,Michael Gregoritsch,h,171,OpenPlay,2023,Head,23255,Freiburg,Eintracht Frankfurt,3,3,2024-02-18 14:30:00,Roland Sallai,Cross
+564472,88,Goal,0.9359999847412109,0.47200000762939454,0.36091795563697815,Michael Gregoritsch,h,171,FromCorner,2023,Head,23255,Freiburg,Eintracht Frankfurt,3,3,2024-02-18 14:30:00,Noah Weißhaupt,Aerial
+564476,97,BlockedShot,0.9080000305175782,0.519000015258789,0.36342519521713257,Michael Gregoritsch,h,171,OpenPlay,2023,LeftFoot,23255,Freiburg,Eintracht Frankfurt,3,3,2024-02-18 14:30:00,Maximilian Philipp,TakeOn
+566198,80,SavedShot,0.7440000152587891,0.710999984741211,0.016951609402894974,Michael Gregoritsch,h,171,OpenPlay,2023,LeftFoot,23273,Freiburg,Bayern Munich,2,2,2024-03-01 19:30:00,Merlin Röhl,Pass
+568657,52,Goal,0.9490000152587891,0.5279999923706055,0.5315356254577637,Michael Gregoritsch,a,171,OpenPlay,2023,Head,23287,Bochum,Freiburg,1,2,2024-03-10 14:30:00,Ritsu Doan,Chipped
+570554,6,Goal,0.975999984741211,0.5729999923706055,0.5428342819213867,Michael Gregoritsch,a,171,OpenPlay,2023,LeftFoot,23303,Borussia M.Gladbach,Freiburg,0,3,2024-03-30 14:30:00,,Rebound
+570557,15,MissedShots,0.7780000305175782,0.5029999923706054,0.04409472644329071,Michael Gregoritsch,a,171,OpenPlay,2023,LeftFoot,23303,Borussia M.Gladbach,Freiburg,0,3,2024-03-30 14:30:00,Merlin Röhl,Pass
+570564,32,BlockedShot,0.735999984741211,0.68,0.04367568716406822,Michael Gregoritsch,a,171,DirectFreekick,2023,LeftFoot,23303,Borussia M.Gladbach,Freiburg,0,3,2024-03-30 14:30:00,,Standard
+570570,46,SavedShot,0.9440000152587891,0.745,0.1282941848039627,Michael Gregoritsch,a,171,OpenPlay,2023,LeftFoot,23303,Borussia M.Gladbach,Freiburg,0,3,2024-03-30 14:30:00,Lucas Höler,Throughball
+570573,52,SavedShot,0.905,0.7440000152587891,0.055564653128385544,Michael Gregoritsch,a,171,OpenPlay,2023,LeftFoot,23303,Borussia M.Gladbach,Freiburg,0,3,2024-03-30 14:30:00,Lucas Höler,Pass
+572354,35,BlockedShot,0.7519999694824219,0.46099998474121096,0.008962578140199184,Michael Gregoritsch,h,171,OpenPlay,2023,LeftFoot,23310,Freiburg,RasenBallsport Leipzig,1,4,2024-04-06 13:30:00,Lucas Höler,Chipped
+572358,40,MissedShots,0.93,0.5679999923706055,0.05162699148058891,Michael Gregoritsch,h,171,OpenPlay,2023,Head,23310,Freiburg,RasenBallsport Leipzig,1,4,2024-04-06 13:30:00,,Rebound
+572360,43,BlockedShot,0.950999984741211,0.46900001525878904,0.3199694752693176,Michael Gregoritsch,h,171,FromCorner,2023,Head,23310,Freiburg,RasenBallsport Leipzig,1,4,2024-04-06 13:30:00,Christian Günter,Aerial
+574275,32,MissedShots,0.9740000152587891,0.5790000152587891,0.35563719272613525,Michael Gregoritsch,a,171,OpenPlay,2023,LeftFoot,23325,Darmstadt,Freiburg,0,1,2024-04-14 13:30:00,Ritsu Doan,Cross
+574277,37,SavedShot,0.9,0.46299999237060546,0.4365392327308655,Michael Gregoritsch,a,171,OpenPlay,2023,LeftFoot,23325,Darmstadt,Freiburg,0,1,2024-04-14 13:30:00,Ritsu Doan,Pass
+574292,83,BlockedShot,0.7809999847412109,0.325,0.02866346947848797,Michael Gregoritsch,a,171,OpenPlay,2023,LeftFoot,23325,Darmstadt,Freiburg,0,1,2024-04-14 13:30:00,Florent Muslija,Pass
+575770,5,Goal,0.9309999847412109,0.5220000076293946,0.4146779477596283,Michael Gregoritsch,h,171,OpenPlay,2023,Head,23328,Freiburg,Mainz 05,1,1,2024-04-21 17:30:00,Ritsu Doan,Cross
+575778,29,SavedShot,0.8390000152587891,0.48400001525878905,0.33938196301460266,Michael Gregoritsch,h,171,OpenPlay,2023,LeftFoot,23328,Freiburg,Mainz 05,1,1,2024-04-21 17:30:00,Christian Günter,Pass
+575785,57,MissedShots,0.8919999694824219,0.6719999694824219,0.21518105268478394,Michael Gregoritsch,h,171,OpenPlay,2023,LeftFoot,23328,Freiburg,Mainz 05,1,1,2024-04-21 17:30:00,Merlin Röhl,Pass
+575787,65,MissedShots,0.9259999847412109,0.34400001525878904,0.2000454068183899,Michael Gregoritsch,h,171,OpenPlay,2023,Head,23328,Freiburg,Mainz 05,1,1,2024-04-21 17:30:00,Merlin Röhl,Chipped
+575790,81,SavedShot,0.8019999694824219,0.47900001525878905,0.04547911137342453,Michael Gregoritsch,h,171,OpenPlay,2023,LeftFoot,23328,Freiburg,Mainz 05,1,1,2024-04-21 17:30:00,Maximilian Eggestein,Pass
+576631,4,ShotOnPost,0.8919999694824219,0.4520000076293945,0.10161281377077103,Michael Gregoritsch,h,171,OpenPlay,2023,RightFoot,23337,Freiburg,Wolfsburg,1,2,2024-04-27 13:30:00,Ritsu Doan,BallTouch
+576636,16,MissedShots,0.9309999847412109,0.5120000076293946,0.10418912023305893,Michael Gregoritsch,h,171,OpenPlay,2023,LeftFoot,23337,Freiburg,Wolfsburg,1,2,2024-04-27 13:30:00,,None
+576649,46,SavedShot,0.9069999694824219,0.5370000076293945,0.12120253592729568,Michael Gregoritsch,h,171,OpenPlay,2023,LeftFoot,23337,Freiburg,Wolfsburg,1,2,2024-04-27 13:30:00,Christian Günter,Cross
+579791,15,MissedShots,0.8209999847412109,0.590999984741211,0.05759534612298012,Michael Gregoritsch,h,171,OpenPlay,2023,LeftFoot,23355,Freiburg,FC Heidenheim,1,1,2024-05-11 13:30:00,Vincenzo Grifo,Pass
+579806,54,SavedShot,0.9619999694824218,0.4759999847412109,0.7006630897521973,Michael Gregoritsch,h,171,SetPiece,2023,LeftFoot,23355,Freiburg,FC Heidenheim,1,1,2024-05-11 13:30:00,,Rebound
+579810,75,MissedShots,0.7730000305175782,0.5220000076293946,0.026939107105135918,Michael Gregoritsch,h,171,OpenPlay,2023,LeftFoot,23355,Freiburg,FC Heidenheim,1,1,2024-05-11 13:30:00,Maximilian Eggestein,Pass
+581503,72,BlockedShot,0.8519999694824218,0.35900001525878905,0.04034486040472984,Michael Gregoritsch,a,171,OpenPlay,2023,RightFoot,23363,Union Berlin,Freiburg,2,1,2024-05-18 13:30:00,Lukas Kübler,Cross
+581508,89,MissedShots,0.874000015258789,0.5690000152587891,0.015120583586394787,Michael Gregoritsch,a,171,FromCorner,2023,Head,23363,Union Berlin,Freiburg,2,1,2024-05-18 13:30:00,,Aerial
+604204,14,MissedShots,0.9030000305175782,0.6619999694824219,0.014554942958056927,Michael Gregoritsch,h,171,OpenPlay,2024,Head,27845,Freiburg,Borussia M.Gladbach,3,1,2024-11-30 14:30:00,Ritsu Doan,Cross
+604205,19,SavedShot,0.9019999694824219,0.5929999923706055,0.01747417449951172,Michael Gregoritsch,h,171,SetPiece,2024,Head,27845,Freiburg,Borussia M.Gladbach,3,1,2024-11-30 14:30:00,Matthias Ginter,Aerial
+604207,25,BlockedShot,0.755,0.34400001525878904,0.05607230216264725,Michael Gregoritsch,h,171,DirectFreekick,2024,LeftFoot,27845,Freiburg,Borussia M.Gladbach,3,1,2024-11-30 14:30:00,,Standard
+604209,40,SavedShot,0.8630000305175781,0.5209999847412109,0.3945586383342743,Michael Gregoritsch,h,171,OpenPlay,2024,RightFoot,27845,Freiburg,Borussia M.Gladbach,3,1,2024-11-30 14:30:00,Philipp Lienhart,Chipped
+604219,57,MissedShots,0.909000015258789,0.48200000762939454,0.32710129022598267,Michael Gregoritsch,h,171,OpenPlay,2024,Head,27845,Freiburg,Borussia M.Gladbach,3,1,2024-11-30 14:30:00,Lucas Höler,Cross
+606529,2,SavedShot,0.845999984741211,0.5129999923706055,0.09161783754825592,Michael Gregoritsch,a,171,OpenPlay,2024,RightFoot,27852,Hoffenheim,Freiburg,1,1,2024-12-08 16:30:00,Maximilian Eggestein,Pass
+606532,17,MissedShots,0.8909999847412109,0.47900001525878905,0.07816952466964722,Michael Gregoritsch,a,171,OpenPlay,2024,Head,27852,Hoffenheim,Freiburg,1,1,2024-12-08 16:30:00,Lucas Höler,Cross
+606808,50,BlockedShot,0.9009999847412109,0.5229999923706055,0.06932719796895981,Michael Gregoritsch,h,171,FromCorner,2024,Head,27862,Freiburg,Wolfsburg,3,2,2024-12-13 19:30:00,Vincenzo Grifo,Cross
+606811,60,Goal,0.9009999847412109,0.47200000762939454,0.09287217259407043,Michael Gregoritsch,h,171,OpenPlay,2024,Head,27862,Freiburg,Wolfsburg,3,2,2024-12-13 19:30:00,Ritsu Doan,Cross
+608501,73,BlockedShot,0.9230000305175782,0.30700000762939456,0.033079128712415695,Michael Gregoritsch,a,171,OpenPlay,2024,RightFoot,27868,Bayer Leverkusen,Freiburg,5,1,2024-12-21 17:30:00,,Rebound
+611453,84,MissedShots,0.755,0.5559999847412109,0.07087752968072891,Michael Gregoritsch,a,171,DirectFreekick,2024,LeftFoot,27889,Eintracht Frankfurt,Freiburg,4,1,2025-01-14 19:30:00,,Standard
+622531,52,SavedShot,0.9119999694824219,0.535,0.10105478018522263,Michael Gregoritsch,a,171,OpenPlay,2024,Head,27972,Mainz 05,Freiburg,2,2,2025-03-15 14:30:00,Ritsu Doan,Cross
+622535,57,Goal,0.9230000305175782,0.49400001525878906,0.3065214455127716,Michael Gregoritsch,a,171,OpenPlay,2024,Head,27972,Mainz 05,Freiburg,2,2,2025-03-15 14:30:00,Christian Günter,Aerial
+622547,88,MissedShots,0.825,0.5729999923706055,0.1075117439031601,Michael Gregoritsch,a,171,OpenPlay,2024,LeftFoot,27972,Mainz 05,Freiburg,2,2,2025-03-15 14:30:00,Ritsu Doan,BallTouch
+622548,91,MissedShots,0.9109999847412109,0.529000015258789,0.09670579433441162,Michael Gregoritsch,a,171,OpenPlay,2024,RightFoot,27972,Mainz 05,Freiburg,2,2,2025-03-15 14:30:00,,None
+630200,85,BlockedShot,0.9109999847412109,0.624000015258789,0.12457453459501266,Michael Gregoritsch,a,171,SetPiece,2024,LeftFoot,28018,Wolfsburg,Freiburg,0,1,2025-04-26 13:30:00,,TakeOn
+663206,21,MissedShots,0.5740000152587891,0.29100000381469726,0.01803695783019066,Michael Gregoritsch,h,171,OpenPlay,2025,LeftFoot,30368,Augsburg,Union Berlin,1,1,2026-01-15 19:30:00,Robin Fellhauer,TakeOn
+663209,43,MissedShots,0.9030000305175782,0.48900001525878906,0.047956839203834534,Michael Gregoritsch,h,171,OpenPlay,2025,Head,30368,Augsburg,Union Berlin,1,1,2026-01-15 19:30:00,Dimitris Giannoulis,Aerial
+664204,48,BlockedShot,0.870999984741211,0.5690000152587891,0.09412223845720291,Michael Gregoritsch,h,171,OpenPlay,2025,LeftFoot,30377,Augsburg,Freiburg,2,2,2026-01-18 16:30:00,Alexis Claude Maurice,HeadPass
+664200,53,BlockedShot,0.895,0.42400001525878905,0.08720788359642029,Michael Gregoritsch,h,171,OpenPlay,2025,RightFoot,30377,Augsburg,Freiburg,2,2,2026-01-18 16:30:00,Robin Fellhauer,Cross
+666010,14,BlockedShot,0.875,0.33299999237060546,0.05292626470327377,Michael Gregoritsch,h,171,OpenPlay,2025,LeftFoot,30395,Augsburg,St. Pauli,2,1,2026-01-31 14:30:00,,None
+666011,18,SavedShot,0.8159999847412109,0.549000015258789,0.15822133421897888,Michael Gregoritsch,h,171,DirectFreekick,2025,LeftFoot,30395,Augsburg,St. Pauli,2,1,2026-01-31 14:30:00,,Standard
+666019,40,BlockedShot,0.8719999694824219,0.495,0.09393519163131714,Michael Gregoritsch,h,171,OpenPlay,2025,LeftFoot,30395,Augsburg,St. Pauli,2,1,2026-01-31 14:30:00,Elvis Rexhbecaj,Pass
+666020,40,Goal,0.965,0.5259999847412109,0.5212864279747009,Michael Gregoritsch,h,171,FromCorner,2025,Head,30395,Augsburg,St. Pauli,2,1,2026-01-31 14:30:00,Alexis Claude Maurice,Cross
+666023,58,Goal,0.8590000152587891,0.615,0.3353247046470642,Michael Gregoritsch,h,171,OpenPlay,2025,LeftFoot,30395,Augsburg,St. Pauli,2,1,2026-01-31 14:30:00,Alexis Claude Maurice,Throughball
+669113,37,MissedShots,0.5129999923706055,0.465,0.010223770514130592,Michael Gregoritsch,h,171,OpenPlay,2025,LeftFoot,30413,Augsburg,FC Heidenheim,1,0,2026-02-15 14:30:00,,BallRecovery
+669612,86,Goal,0.885,0.5,0.75777667760849,Michael Gregoritsch,a,171,Penalty,2025,LeftFoot,30430,Wolfsburg,Augsburg,2,3,2026-02-21 14:30:00,,Standard
+676195,62,SavedShot,0.8959999847412109,0.4229999923706055,0.246541365981102,Michael Gregoritsch,h,171,SetPiece,2025,Head,30458,Augsburg,VfB Stuttgart,2,5,2026-03-22 18:30:00,Fabian Rieder,Chipped
+676604,3,MissedShots,0.85,0.620999984741211,0.0645366683602333,Michael Gregoritsch,a,171,OpenPlay,2025,RightFoot,30471,Hamburger SV,Augsburg,1,1,2026-04-04 13:30:00,Fabian Rieder,BallTouch
+676606,9,MissedShots,0.9269999694824219,0.44400001525878907,0.050184980034828186,Michael Gregoritsch,a,171,OpenPlay,2025,Head,30471,Hamburger SV,Augsburg,1,1,2026-04-04 13:30:00,Alexis Claude Maurice,Clearance
+676618,46,SavedShot,0.904000015258789,0.6480000305175782,0.09681898355484009,Michael Gregoritsch,a,171,OpenPlay,2025,LeftFoot,30471,Hamburger SV,Augsburg,1,1,2026-04-04 13:30:00,Fabian Rieder,Pass
+676629,72,MissedShots,0.9290000152587891,0.47299999237060547,0.3998482823371887,Michael Gregoritsch,a,171,OpenPlay,2025,Head,30471,Hamburger SV,Augsburg,1,1,2026-04-04 13:30:00,Marius Wolf,Cross
+676630,73,ShotOnPost,0.9540000152587891,0.5679999923706055,0.41853779554367065,Michael Gregoritsch,a,171,OpenPlay,2025,LeftFoot,30471,Hamburger SV,Augsburg,1,1,2026-04-04 13:30:00,Marius Wolf,Cross
+677452,13,Goal,0.7919999694824219,0.37900001525878907,0.04639139398932457,Michael Gregoritsch,h,171,OpenPlay,2025,LeftFoot,30476,Augsburg,Hoffenheim,2,2,2026-04-10 18:30:00,Jeffrey Gouweleeuw,Chipped
+677463,46,ShotOnPost,0.8969999694824219,0.47700000762939454,0.32542699575424194,Michael Gregoritsch,h,171,OpenPlay,2025,RightFoot,30476,Augsburg,Hoffenheim,2,2,2026-04-10 18:30:00,Marius Wolf,Chipped
+680963,25,BlockedShot,0.95,0.47900001525878905,0.1277456283569336,Michael Gregoritsch,h,171,OpenPlay,2025,LeftFoot,30494,Augsburg,Eintracht Frankfurt,1,1,2026-04-25 13:30:00,Jeffrey Gouweleeuw,Foul
+680968,43,ShotOnPost,0.870999984741211,0.4879999923706055,0.13887958228588104,Michael Gregoritsch,h,171,OpenPlay,2025,RightFoot,30494,Augsburg,Eintracht Frankfurt,1,1,2026-04-25 13:30:00,Anton Kade,Pass
+680973,53,ShotOnPost,0.965,0.5620000076293945,0.26156359910964966,Michael Gregoritsch,h,171,FromCorner,2025,Head,30494,Augsburg,Eintracht Frankfurt,1,1,2026-04-25 13:30:00,Alexis Claude Maurice,Aerial
+682125,8,MissedShots,0.7090000152587891,0.5459999847412109,0.01688360422849655,Michael Gregoritsch,a,171,OpenPlay,2025,LeftFoot,30511,Werder Bremen,Augsburg,1,3,2026-05-02 13:30:00,Dimitris Giannoulis,Pass
+682129,34,MissedShots,0.9169999694824219,0.5029999923706054,0.33375057578086853,Michael Gregoritsch,a,171,SetPiece,2025,Head,30511,Werder Bremen,Augsburg,1,3,2026-05-02 13:30:00,Alexis Claude Maurice,Cross
+682132,40,MissedShots,0.9369999694824219,0.47,0.09258677065372467,Michael Gregoritsch,a,171,OpenPlay,2025,Head,30511,Werder Bremen,Augsburg,1,3,2026-05-02 13:30:00,Dimitris Giannoulis,Aerial
+683561,23,Goal,0.95,0.5020000076293946,0.6486960053443909,Michael Gregoritsch,h,171,OpenPlay,2025,LeftFoot,30512,Augsburg,Borussia M.Gladbach,3,1,2026-05-09 13:30:00,,Rebound
+683564,34,SavedShot,0.895,0.669000015258789,0.08225791156291962,Michael Gregoritsch,h,171,OpenPlay,2025,LeftFoot,30512,Augsburg,Borussia M.Gladbach,3,1,2026-05-09 13:30:00,Anton Kade,Pass
+683565,37,MissedShots,0.8959999847412109,0.700999984741211,0.05672966316342354,Michael Gregoritsch,h,171,OpenPlay,2025,LeftFoot,30512,Augsburg,Borussia M.Gladbach,3,1,2026-05-09 13:30:00,Marius Wolf,Chipped
+683579,71,Goal,0.9740000152587891,0.43400001525878906,0.6310537457466125,Michael Gregoritsch,h,171,OpenPlay,2025,RightFoot,30512,Augsburg,Borussia M.Gladbach,3,1,2026-05-09 13:30:00,,Rebound

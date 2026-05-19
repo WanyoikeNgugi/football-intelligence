@@ -1,0 +1,22 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+24945,34,BlockedShot,0.8769999694824219,0.6419999694824219,0.08104050159454346,Julian Green,a,4323,OpenPlay,2014,RightFoot,5419,Hannover 96,Hamburger SV,2,0,2014-09-14 16:30:00,Nicolai Müller,Pass
+27632,85,SavedShot,0.8930000305175781,0.285,0.042031701654195786,Julian Green,a,4323,OpenPlay,2014,RightFoot,5375,Augsburg,Hamburger SV,3,1,2014-11-29 14:30:00,Mohamed Gouaida,Pass
+425721,46,SavedShot,0.7469999694824219,0.5220000076293946,0.020294899120926857,Julian Green,a,4323,OpenPlay,2021,RightFoot,17519,VfB Stuttgart,Greuther Fuerth,5,1,2021-08-14 13:30:00,Paul Seguin,Pass
+426970,45,MissedShots,0.7219999694824218,0.5879999923706055,0.009885730221867561,Julian Green,h,4323,OpenPlay,2021,LeftFoot,17526,Greuther Fuerth,Arminia Bielefeld,1,1,2021-08-21 13:30:00,Dickson Abiama,Aerial
+426980,63,BlockedShot,0.7330000305175781,0.6,0.02004910074174404,Julian Green,h,4323,OpenPlay,2021,RightFoot,17526,Greuther Fuerth,Arminia Bielefeld,1,1,2021-08-21 13:30:00,Justin Hoogma,Pass
+426984,79,BlockedShot,0.7609999847412109,0.664000015258789,0.02101380005478859,Julian Green,h,4323,OpenPlay,2021,RightFoot,17526,Greuther Fuerth,Arminia Bielefeld,1,1,2021-08-21 13:30:00,Marco Meyerhöfer,Pass
+426989,90,MissedShots,0.9440000152587891,0.575,0.0580780990421772,Julian Green,h,4323,OpenPlay,2021,Head,17526,Greuther Fuerth,Arminia Bielefeld,1,1,2021-08-21 13:30:00,,Aerial
+433085,25,SavedShot,0.8469999694824218,0.7559999847412109,0.019967200234532356,Julian Green,h,4323,SetPiece,2021,RightFoot,17561,Greuther Fuerth,Bayern Munich,1,3,2021-09-24 18:30:00,Branimir Hrgota,Foul
+433098,78,MissedShots,0.675,0.754000015258789,0.006411780137568712,Julian Green,h,4323,OpenPlay,2021,RightFoot,17561,Greuther Fuerth,Bayern Munich,1,3,2021-09-24 18:30:00,,BallRecovery
+439526,48,SavedShot,0.795,0.6120000076293945,0.017499899491667747,Julian Green,a,4323,OpenPlay,2021,RightFoot,17600,Freiburg,Greuther Fuerth,3,1,2021-10-30 13:30:00,,Rebound
+439527,59,SavedShot,0.755,0.41,0.02333039976656437,Julian Green,a,4323,OpenPlay,2021,RightFoot,17600,Freiburg,Greuther Fuerth,3,1,2021-10-30 13:30:00,Paul Seguin,Pass
+442022,23,MissedShots,0.8880000305175781,0.37599998474121094,0.042453400790691376,Julian Green,h,4323,FromCorner,2021,RightFoot,17606,Greuther Fuerth,Eintracht Frankfurt,1,2,2021-11-07 18:30:00,Branimir Hrgota,Cross
+442036,56,MissedShots,0.779000015258789,0.725,0.013122700154781342,Julian Green,h,4323,OpenPlay,2021,RightFoot,17606,Greuther Fuerth,Eintracht Frankfurt,1,2,2021-11-07 18:30:00,,Rebound
+458794,71,BlockedShot,0.7469999694824219,0.6370000076293946,0.015402199700474739,Julian Green,a,4323,OpenPlay,2021,RightFoot,17722,Bayern Munich,Greuther Fuerth,4,1,2022-02-20 14:30:00,,BallRecovery
+466674,18,MissedShots,0.7180000305175781,0.4420000076293945,0.012929099611938,Julian Green,h,4323,OpenPlay,2021,RightFoot,17768,Greuther Fuerth,Borussia M.Gladbach,0,2,2022-04-09 13:30:00,,None
+466683,42,MissedShots,0.720999984741211,0.47299999237060547,0.01823670044541359,Julian Green,h,4323,OpenPlay,2021,RightFoot,17768,Greuther Fuerth,Borussia M.Gladbach,0,2,2022-04-09 13:30:00,Max Christiansen,Pass
+466684,52,MissedShots,0.7230000305175781,0.545,0.050299499183893204,Julian Green,h,4323,DirectFreekick,2021,RightFoot,17768,Greuther Fuerth,Borussia M.Gladbach,0,2,2022-04-09 13:30:00,,Standard
+468863,45,MissedShots,0.889000015258789,0.549000015258789,0.08914770185947418,Julian Green,a,4323,OpenPlay,2021,RightFoot,17780,Hoffenheim,Greuther Fuerth,0,0,2022-04-17 15:30:00,,None
+468867,56,MissedShots,0.7140000152587891,0.534000015258789,0.012021900154650211,Julian Green,a,4323,OpenPlay,2021,RightFoot,17780,Hoffenheim,Greuther Fuerth,0,0,2022-04-17 15:30:00,,TakeOn
+468869,61,SavedShot,0.8480000305175781,0.7669999694824219,0.020031200721859932,Julian Green,a,4323,OpenPlay,2021,RightFoot,17780,Hoffenheim,Greuther Fuerth,0,0,2022-04-17 15:30:00,,None
+468871,65,MissedShots,0.78,0.79,0.019358500838279724,Julian Green,a,4323,OpenPlay,2021,RightFoot,17780,Hoffenheim,Greuther Fuerth,0,0,2022-04-17 15:30:00,Jetro Willems,Pass

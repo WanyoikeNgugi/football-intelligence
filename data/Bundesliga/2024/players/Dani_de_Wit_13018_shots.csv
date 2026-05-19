@@ -1,0 +1,21 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+592249,64,BlockedShot,0.8209999847412109,0.6170000076293946,0.05819901078939438,Dani de Wit,h,13018,OpenPlay,2024,LeftFoot,27771,Bochum,Holstein Kiel,2,2,2024-09-21 13:30:00,Matús Bero,Pass
+592252,68,MissedShots,0.92,0.5609999847412109,0.07891184091567993,Dani de Wit,h,13018,FromCorner,2024,Head,27771,Bochum,Holstein Kiel,2,2,2024-09-21 13:30:00,Maximilian Wittek,Cross
+593653,20,Goal,0.8530000305175781,0.4570000076293945,0.3751601278781891,Dani de Wit,a,13018,OpenPlay,2024,RightFoot,27778,Borussia Dortmund,Bochum,4,2,2024-09-27 18:30:00,,BallTouch
+593654,25,MissedShots,0.9180000305175782,0.5940000152587891,0.05610723793506622,Dani de Wit,a,13018,OpenPlay,2024,OtherBodyPart,27778,Borussia Dortmund,Bochum,4,2,2024-09-27 18:30:00,Felix Passlack,Aerial
+595354,27,MissedShots,0.924000015258789,0.4929999923706055,0.30098578333854675,Dani de Wit,h,13018,OpenPlay,2024,Head,27792,Bochum,Wolfsburg,1,3,2024-10-05 13:30:00,Anthony Losilla,Cross
+595365,55,BlockedShot,0.9019999694824219,0.38299999237060545,0.020901735872030258,Dani de Wit,h,13018,FromCorner,2024,Head,27792,Bochum,Wolfsburg,1,3,2024-10-05 13:30:00,Maximilian Wittek,Cross
+599958,34,Goal,0.935,0.54,0.4766842722892761,Dani de Wit,a,13018,FromCorner,2024,RightFoot,27817,Eintracht Frankfurt,Bochum,7,2,2024-11-02 14:30:00,Erhan Masovic,HeadPass
+599978,89,SavedShot,0.9080000305175782,0.5359999847412109,0.09733354300260544,Dani de Wit,a,13018,OpenPlay,2024,Head,27817,Eintracht Frankfurt,Bochum,7,2,2024-11-02 14:30:00,Cristian Gamboa,Cross
+601402,88,BlockedShot,0.9490000152587891,0.39099998474121095,0.07560621201992035,Dani de Wit,h,13018,OpenPlay,2024,RightFoot,27830,Bochum,Bayer Leverkusen,1,1,2024-11-09 14:30:00,,None
+602786,86,MissedShots,0.950999984741211,0.3039999961853027,0.01673664152622223,Dani de Wit,a,13018,OpenPlay,2024,RightFoot,27833,VfB Stuttgart,Bochum,2,0,2024-11-23 14:30:00,Maximilian Wittek,Cross
+610694,54,BlockedShot,0.9219999694824219,0.549000015258789,0.08466383814811707,Dani de Wit,a,13018,OpenPlay,2024,RightFoot,27883,Mainz 05,Bochum,2,0,2025-01-11 14:30:00,Ibrahima Sissoko,None
+610699,70,MissedShots,0.95,0.62,0.04939694330096245,Dani de Wit,a,13018,FromCorner,2024,RightFoot,27883,Mainz 05,Bochum,2,0,2025-01-11 14:30:00,Matús Bero,Cross
+610701,76,BlockedShot,0.8730000305175781,0.4879999923706055,0.038014765828847885,Dani de Wit,a,13018,OpenPlay,2024,Head,27883,Mainz 05,Bochum,2,0,2025-01-11 14:30:00,,None
+612162,80,MissedShots,0.8969999694824219,0.46700000762939453,0.03842122480273247,Dani de Wit,h,13018,OpenPlay,2024,Head,27902,Bochum,RasenBallsport Leipzig,3,3,2025-01-18 14:30:00,Gerrit Holtmann,Aerial
+613551,35,SavedShot,0.870999984741211,0.669000015258789,0.0480116531252861,Dani de Wit,a,13018,OpenPlay,2024,RightFoot,27908,Borussia M.Gladbach,Bochum,3,0,2025-01-25 17:30:00,Felix Passlack,BallTouch
+619914,83,MissedShots,0.92,0.47,0.34057074785232544,Dani de Wit,h,13018,FromCorner,2024,Head,27957,Bochum,Hoffenheim,0,1,2025-03-01 14:30:00,Matús Bero,Cross
+623490,91,SavedShot,0.9290000152587891,0.515,0.35205721855163574,Dani de Wit,h,13018,OpenPlay,2024,Head,27974,Bochum,Eintracht Frankfurt,1,3,2025-03-16 15:30:00,Moritz Broschinski,HeadPass
+623871,89,MissedShots,0.805,0.5870000076293945,0.0486922450363636,Dani de Wit,a,13018,OpenPlay,2024,LeftFoot,27976,Bayer Leverkusen,Bochum,3,1,2025-03-28 19:30:00,Matús Bero,Pass
+630641,83,SavedShot,0.8930000305175781,0.3029999923706055,0.009405981749296188,Dani de Wit,h,13018,OpenPlay,2024,Head,28019,Bochum,Union Berlin,1,1,2025-04-27 13:30:00,Matús Bero,Aerial
+630642,96,SavedShot,0.94,0.5729999923706055,0.37681156396865845,Dani de Wit,h,13018,OpenPlay,2024,RightFoot,28019,Bochum,Union Berlin,1,1,2025-04-27 13:30:00,Myron Boadu,Cross

@@ -1,0 +1,16 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+487909,82,MissedShots,0.8719999694824219,0.4640000152587891,0.12429500371217728,Veljko Birmancevic,h,11091,OpenPlay,2022,LeftFoot,19717,Toulouse,Reims,1,0,2022-09-11 13:00:00,Kévin Biakolo,Pass
+487912,94,MissedShots,0.8780000305175781,0.5879999923706055,0.10890199989080429,Veljko Birmancevic,h,11091,OpenPlay,2022,RightFoot,19717,Toulouse,Reims,1,0,2022-09-11 13:00:00,Stijn Spierings,Pass
+493402,89,MissedShots,0.7080000305175781,0.4809999847412109,0.02430419996380806,Veljko Birmancevic,h,11091,OpenPlay,2022,RightFoot,19756,Toulouse,Angers,3,2,2022-10-16 11:00:00,Branco van den Boomen,Pass
+501417,63,SavedShot,0.7419999694824219,0.8340000152587891,0.0066363997757434845,Veljko Birmancevic,a,11091,OpenPlay,2022,RightFoot,19803,Marseille,Toulouse,6,1,2022-12-29 20:00:00,Anthony Rouault,Chipped
+506521,92,BlockedShot,0.7980000305175782,0.62,0.05022599920630455,Veljko Birmancevic,h,11091,OpenPlay,2022,RightFoot,19857,Toulouse,Troyes,4,1,2023-02-01 18:00:00,Stijn Spierings,Pass
+507273,92,MissedShots,0.8569999694824219,0.6609999847412109,0.048870399594306946,Veljko Birmancevic,a,11091,OpenPlay,2022,RightFoot,19863,Paris Saint Germain,Toulouse,2,1,2023-02-04 16:00:00,Gabriel Suazo,Pass
+519101,83,BlockedShot,0.8859999847412109,0.34,0.06599380075931549,Veljko Birmancevic,h,11091,OpenPlay,2022,RightFoot,19957,Toulouse,Lyon,1,2,2023-04-14 19:00:00,,BallRecovery
+525002,74,MissedShots,0.855999984741211,0.43599998474121093,0.09264183044433594,Veljko Birmancevic,a,11091,OpenPlay,2022,RightFoot,19978,Ajaccio,Toulouse,0,0,2023-05-07 13:00:00,Rafael Ratão,Pass
+525004,77,BlockedShot,0.86,0.6819999694824219,0.04646700993180275,Veljko Birmancevic,a,11091,OpenPlay,2022,RightFoot,19978,Ajaccio,Toulouse,0,0,2023-05-07 13:00:00,Vincent Sierro,Pass
+530576,22,BlockedShot,0.9290000152587891,0.675,0.06761655956506729,Veljko Birmancevic,a,11091,OpenPlay,2022,LeftFoot,20020,Monaco,Toulouse,1,2,2023-06-03 17:00:00,Farès Chaïbi,Pass
+530579,28,SavedShot,0.9630000305175781,0.500999984741211,0.703486442565918,Veljko Birmancevic,a,11091,FromCorner,2022,RightFoot,20020,Monaco,Toulouse,1,2,2023-06-03 17:00:00,,Rebound
+530590,54,BlockedShot,0.7819999694824219,0.7169999694824218,0.017282871529459953,Veljko Birmancevic,a,11091,OpenPlay,2022,RightFoot,20020,Monaco,Toulouse,1,2,2023-06-03 17:00:00,Farès Chaïbi,Pass
+530593,57,SavedShot,0.8219999694824218,0.4779999923706055,0.08662014454603195,Veljko Birmancevic,a,11091,OpenPlay,2022,LeftFoot,20020,Monaco,Toulouse,1,2,2023-06-03 17:00:00,,TakeOn
+670119,85,BlockedShot,0.8119999694824219,0.5629999923706055,0.05372293293476105,Veljko Birmancevic,h,11091,OpenPlay,2025,LeftFoot,29404,Getafe,Sevilla,0,1,2026-02-22 13:00:00,Luis Milla,Pass
+676922,94,SavedShot,0.30200000762939455,0.18,0.00977795198559761,Veljko Birmancevic,h,11091,OpenPlay,2025,RightFoot,29455,Getafe,Athletic Club,2,0,2026-04-05 12:00:00,,BallRecovery

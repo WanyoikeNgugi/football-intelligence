@@ -1,0 +1,80 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+360257,64,BlockedShot,0.9359999847412109,0.5890000152587891,0.14390400052070618,Exequiel Palacios,h,8325,OpenPlay,2019,LeftFoot,12602,Bayer Leverkusen,Augsburg,2,0,2020-02-23 14:30:00,Moussa Diaby,Pass
+361345,6,BlockedShot,0.7819999694824219,0.45,0.03376609832048416,Exequiel Palacios,a,8325,OpenPlay,2019,RightFoot,12611,RasenBallsport Leipzig,Bayer Leverkusen,1,1,2020-03-01 14:30:00,Kai Havertz,Pass
+361348,20,MissedShots,0.7659999847412109,0.5070000076293946,0.020813800394535065,Exequiel Palacios,a,8325,FromCorner,2019,RightFoot,12611,RasenBallsport Leipzig,Bayer Leverkusen,1,1,2020-03-01 14:30:00,,None
+361355,45,MissedShots,0.774000015258789,0.6869999694824219,0.018258700147271156,Exequiel Palacios,a,8325,OpenPlay,2019,RightFoot,12611,RasenBallsport Leipzig,Bayer Leverkusen,1,1,2020-03-01 14:30:00,Leon Bailey,Pass
+361360,61,MissedShots,0.765,0.44599998474121094,0.019913500174880028,Exequiel Palacios,a,8325,FromCorner,2019,LeftFoot,12611,RasenBallsport Leipzig,Bayer Leverkusen,1,1,2020-03-01 14:30:00,,None
+384224,41,MissedShots,0.9219999694824219,0.29200000762939454,0.06496980041265488,Exequiel Palacios,h,8325,OpenPlay,2020,RightFoot,15184,Bayer Leverkusen,Augsburg,3,1,2020-10-26 19:30:00,Nadiem Amiri,Pass
+417407,44,MissedShots,0.7619999694824219,0.45,0.023074999451637268,Exequiel Palacios,h,8325,OpenPlay,2020,LeftFoot,15412,Bayer Leverkusen,Eintracht Frankfurt,3,1,2021-04-24 16:30:00,,None
+441747,9,MissedShots,0.7040000152587891,0.44099998474121094,0.01288050040602684,Exequiel Palacios,a,8325,OpenPlay,2021,RightFoot,17609,Hertha Berlin,Bayer Leverkusen,1,1,2021-11-07 14:30:00,Moussa Diaby,Pass
+457196,79,MissedShots,0.799000015258789,0.549000015258789,0.05323690176010132,Exequiel Palacios,h,8325,OpenPlay,2021,LeftFoot,17711,Bayer Leverkusen,VfB Stuttgart,4,2,2022-02-12 17:30:00,Paulinho,Pass
+459642,24,MissedShots,0.7709999847412109,0.40599998474121096,0.023308200761675835,Exequiel Palacios,h,8325,OpenPlay,2021,LeftFoot,17730,Bayer Leverkusen,Arminia Bielefeld,3,0,2022-02-26 14:30:00,Jeremie Frimpong,Pass
+459652,45,MissedShots,0.75,0.5659999847412109,0.028322499245405197,Exequiel Palacios,h,8325,OpenPlay,2021,RightFoot,17730,Bayer Leverkusen,Arminia Bielefeld,3,0,2022-02-26 14:30:00,Florian Wirtz,Pass
+459654,50,SavedShot,0.7730000305175782,0.5540000152587891,0.035949598997831345,Exequiel Palacios,h,8325,OpenPlay,2021,RightFoot,17730,Bayer Leverkusen,Arminia Bielefeld,3,0,2022-02-26 14:30:00,Jeremie Frimpong,Pass
+467397,77,MissedShots,0.7430000305175781,0.5,0.017134899273514748,Exequiel Palacios,a,8325,OpenPlay,2021,RightFoot,17769,Bochum,Bayer Leverkusen,0,0,2022-04-10 13:30:00,,None
+468943,37,SavedShot,0.6919999694824219,0.580999984741211,0.01347929984331131,Exequiel Palacios,h,8325,OpenPlay,2021,RightFoot,17784,Bayer Leverkusen,RasenBallsport Leipzig,0,1,2022-04-17 17:30:00,Mitchel Bakker,Pass
+469987,83,Goal,0.750999984741211,0.405,0.03408779948949814,Exequiel Palacios,a,8325,OpenPlay,2021,RightFoot,17786,Greuther Fuerth,Bayer Leverkusen,1,4,2022-04-23 13:30:00,Charles Aránguiz,Pass
+475620,28,MissedShots,0.7669999694824219,0.5279999923706055,0.028364000841975212,Exequiel Palacios,h,8325,OpenPlay,2021,RightFoot,17819,Bayer Leverkusen,Freiburg,2,1,2022-05-14 13:30:00,Lucas Alario,Pass
+475640,96,Goal,0.534000015258789,0.59,0.015705199912190437,Exequiel Palacios,h,8325,OpenPlay,2021,RightFoot,17819,Bayer Leverkusen,Freiburg,2,1,2022-05-14 13:30:00,Mitchel Bakker,Pass
+479428,68,BlockedShot,0.745,0.5129999923706055,0.022958800196647644,Exequiel Palacios,a,8325,OpenPlay,2022,LeftFoot,19348,Borussia Dortmund,Bayer Leverkusen,1,0,2022-08-06 16:30:00,Moussa Diaby,Pass
+480277,17,BlockedShot,0.774000015258789,0.3509999847412109,0.02302449941635132,Exequiel Palacios,h,8325,OpenPlay,2022,RightFoot,19352,Bayer Leverkusen,Augsburg,1,2,2022-08-13 13:30:00,Adam Hlozek,Pass
+481690,47,SavedShot,0.8080000305175781,0.549000015258789,0.04793829843401909,Exequiel Palacios,h,8325,OpenPlay,2022,RightFoot,19365,Bayer Leverkusen,Hoffenheim,0,3,2022-08-20 13:30:00,Moussa Diaby,Pass
+481691,48,BlockedShot,0.7719999694824219,0.655,0.0172285009175539,Exequiel Palacios,h,8325,FromCorner,2022,RightFoot,19365,Bayer Leverkusen,Hoffenheim,0,3,2022-08-20 13:30:00,,None
+483538,28,Goal,0.7859999847412109,0.40799999237060547,0.025129899382591248,Exequiel Palacios,a,8325,FromCorner,2022,RightFoot,19371,Mainz 05,Bayer Leverkusen,0,3,2022-08-27 13:30:00,,Card
+499270,24,MissedShots,0.879000015258789,0.3370000076293945,0.05583370104432106,Exequiel Palacios,a,8325,OpenPlay,2022,RightFoot,19462,FC Cologne,Bayer Leverkusen,1,2,2022-11-09 17:30:00,,None
+500088,76,BlockedShot,0.8030000305175782,0.5479999923706055,0.06209859997034073,Exequiel Palacios,h,8325,OpenPlay,2022,RightFoot,19468,Bayer Leverkusen,VfB Stuttgart,2,0,2022-11-12 14:30:00,Adam Hlozek,Pass
+506286,1,SavedShot,0.720999984741211,0.46,0.01722780056297779,Exequiel Palacios,h,8325,OpenPlay,2022,RightFoot,19496,Bayer Leverkusen,Borussia Dortmund,0,2,2023-01-29 16:30:00,Amine Adli,Pass
+511381,53,MissedShots,0.8240000152587891,0.30100000381469727,0.03195669874548912,Exequiel Palacios,a,8325,OpenPlay,2022,RightFoot,19533,Freiburg,Bayer Leverkusen,1,1,2023-02-26 14:30:00,Jeremie Frimpong,Pass
+511390,76,SavedShot,0.7369999694824219,0.514000015258789,0.01956080086529255,Exequiel Palacios,a,8325,SetPiece,2022,RightFoot,19533,Freiburg,Bayer Leverkusen,1,1,2023-02-26 14:30:00,Jeremie Frimpong,Pass
+512746,10,MissedShots,0.7519999694824219,0.28700000762939454,0.01342879980802536,Exequiel Palacios,h,8325,OpenPlay,2022,LeftFoot,19541,Bayer Leverkusen,Hertha Berlin,4,1,2023-03-05 14:30:00,Moussa Diaby,Pass
+515747,16,MissedShots,0.7809999847412109,0.3729999923706055,0.01490710023790598,Exequiel Palacios,h,8325,FromCorner,2022,RightFoot,19559,Bayer Leverkusen,Bayern Munich,2,1,2023-03-19 16:30:00,,Aerial
+515754,54,Goal,0.885,0.5,0.7577769756317139,Exequiel Palacios,h,8325,Penalty,2022,RightFoot,19559,Bayer Leverkusen,Bayern Munich,2,1,2023-03-19 16:30:00,,Standard
+515759,72,Goal,0.885,0.5,0.7577769756317139,Exequiel Palacios,h,8325,Penalty,2022,RightFoot,19559,Bayer Leverkusen,Bayern Munich,2,1,2023-03-19 16:30:00,,Standard
+516193,26,MissedShots,0.7319999694824219,0.4759999847412109,0.016896799206733704,Exequiel Palacios,a,8325,OpenPlay,2022,LeftFoot,19572,Schalke 04,Bayer Leverkusen,0,3,2023-04-01 13:30:00,Robert Andrich,Pass
+517936,28,BlockedShot,0.8380000305175781,0.3609999847412109,0.0607076995074749,Exequiel Palacios,h,8325,OpenPlay,2022,LeftFoot,19577,Bayer Leverkusen,Eintracht Frankfurt,3,1,2023-04-08 13:30:00,Jeremie Frimpong,Pass
+526598,69,Goal,0.885,0.5,0.75777667760849,Exequiel Palacios,a,8325,Penalty,2022,RightFoot,19629,VfB Stuttgart,Bayer Leverkusen,1,1,2023-05-14 13:30:00,,Standard
+528251,27,MissedShots,0.9209999847412109,0.6409999847412109,0.0432857982814312,Exequiel Palacios,h,8325,FromCorner,2022,LeftFoot,19631,Bayer Leverkusen,Borussia M.Gladbach,2,2,2023-05-21 17:30:00,Kerem Demirbay,Cross
+528252,32,MissedShots,0.7480000305175781,0.4159999847412109,0.02521510422229767,Exequiel Palacios,h,8325,OpenPlay,2022,RightFoot,19631,Bayer Leverkusen,Borussia M.Gladbach,2,2,2023-05-21 17:30:00,,BallTouch
+529010,2,MissedShots,0.8419999694824218,0.29399999618530276,0.027656886726617813,Exequiel Palacios,a,8325,FromCorner,2022,RightFoot,19646,Bochum,Bayer Leverkusen,3,0,2023-05-27 13:30:00,Amine Adli,Pass
+534918,28,MissedShots,0.775,0.30100000381469727,0.015665536746382713,Exequiel Palacios,a,8325,FromCorner,2023,RightFoot,23080,Borussia M.Gladbach,Bayer Leverkusen,0,3,2023-08-26 16:30:00,,None
+534938,56,BlockedShot,0.725,0.585,0.02376612089574337,Exequiel Palacios,a,8325,FromCorner,2023,RightFoot,23080,Borussia M.Gladbach,Bayer Leverkusen,0,3,2023-08-26 16:30:00,Álex Grimaldo,Pass
+536206,48,Goal,0.8440000152587891,0.49400001525878906,0.0831381231546402,Exequiel Palacios,h,8325,OpenPlay,2023,RightFoot,23084,Bayer Leverkusen,Darmstadt,5,1,2023-09-02 13:30:00,Jeremie Frimpong,Pass
+537258,93,Goal,0.885,0.5,0.75777667760849,Exequiel Palacios,a,8325,Penalty,2023,RightFoot,23092,Bayern Munich,Bayer Leverkusen,2,2,2023-09-15 18:30:00,,Standard
+546280,18,MissedShots,0.7909999847412109,0.629000015258789,0.025698447600007057,Exequiel Palacios,h,8325,OpenPlay,2023,RightFoot,23139,Bayer Leverkusen,Freiburg,2,1,2023-10-29 16:30:00,Victor Boniface,Pass
+546299,79,MissedShots,0.905,0.67,0.07778408378362656,Exequiel Palacios,h,8325,OpenPlay,2023,LeftFoot,23139,Bayer Leverkusen,Freiburg,2,1,2023-10-29 16:30:00,,None
+551933,6,SavedShot,0.8080000305175781,0.5320000076293945,0.04457082599401474,Exequiel Palacios,h,8325,OpenPlay,2023,LeftFoot,23175,Bayer Leverkusen,Borussia Dortmund,1,1,2023-12-03 16:30:00,,BallTouch
+551941,42,MissedShots,0.7369999694824219,0.5640000152587891,0.019109439104795456,Exequiel Palacios,h,8325,OpenPlay,2023,RightFoot,23175,Bayer Leverkusen,Borussia Dortmund,1,1,2023-12-03 16:30:00,Granit Xhaka,Pass
+551951,61,BlockedShot,0.9230000305175782,0.45799999237060546,0.08749125897884369,Exequiel Palacios,h,8325,OpenPlay,2023,RightFoot,23175,Bayer Leverkusen,Borussia Dortmund,1,1,2023-12-03 16:30:00,Álex Grimaldo,BallTouch
+557995,42,MissedShots,0.7240000152587891,0.40400001525878904,0.02460489422082901,Exequiel Palacios,a,8325,FromCorner,2023,RightFoot,23216,Augsburg,Bayer Leverkusen,0,1,2024-01-13 14:30:00,Granit Xhaka,Pass
+557997,47,MissedShots,0.754000015258789,0.4809999847412109,0.022670315578579903,Exequiel Palacios,a,8325,OpenPlay,2023,RightFoot,23216,Augsburg,Bayer Leverkusen,0,1,2024-01-13 14:30:00,Jeremie Frimpong,Pass
+557998,49,MissedShots,0.7530000305175781,0.6830000305175781,0.026459822431206703,Exequiel Palacios,a,8325,FromCorner,2023,RightFoot,23216,Augsburg,Bayer Leverkusen,0,1,2024-01-13 14:30:00,Granit Xhaka,Pass
+558012,93,Goal,0.9130000305175782,0.5470000076293945,0.4660341441631317,Exequiel Palacios,a,8325,OpenPlay,2023,LeftFoot,23216,Augsburg,Bayer Leverkusen,0,1,2024-01-13 14:30:00,Álex Grimaldo,Pass
+559111,26,MissedShots,0.7880000305175782,0.519000015258789,0.03973161801695824,Exequiel Palacios,a,8325,OpenPlay,2023,RightFoot,23219,RasenBallsport Leipzig,Bayer Leverkusen,2,3,2024-01-20 17:30:00,Jonas Hofmann,Pass
+568871,40,MissedShots,0.735,0.3270000076293945,0.024282611906528473,Exequiel Palacios,h,8325,FromCorner,2023,RightFoot,23283,Bayer Leverkusen,Wolfsburg,2,0,2024-03-10 18:30:00,Granit Xhaka,Pass
+568883,84,MissedShots,0.8109999847412109,0.4420000076293945,0.06690194457769394,Exequiel Palacios,h,8325,OpenPlay,2023,RightFoot,23283,Bayer Leverkusen,Wolfsburg,2,0,2024-03-10 18:30:00,Jonas Hofmann,Pass
+569974,44,SavedShot,0.884000015258789,0.7019999694824218,0.32968828082084656,Exequiel Palacios,a,8325,OpenPlay,2023,RightFoot,23292,Freiburg,Bayer Leverkusen,2,3,2024-03-17 14:30:00,,BallRecovery
+569988,87,MissedShots,0.8430000305175781,0.49900001525878906,0.058459676802158356,Exequiel Palacios,a,8325,FromCorner,2023,LeftFoot,23292,Freiburg,Bayer Leverkusen,2,3,2024-03-17 14:30:00,,None
+574391,80,MissedShots,0.8219999694824218,0.47299999237060547,0.11061465740203857,Exequiel Palacios,h,8325,OpenPlay,2023,RightFoot,23319,Bayer Leverkusen,Werder Bremen,5,0,2024-04-14 15:30:00,Florian Wirtz,LayOff
+579065,20,BlockedShot,0.8719999694824219,0.4929999923706055,0.404786616563797,Exequiel Palacios,a,8325,OpenPlay,2023,RightFoot,23346,Eintracht Frankfurt,Bayer Leverkusen,1,5,2024-05-05 15:30:00,Jonas Hofmann,Pass
+579076,57,Goal,0.885,0.5,0.75777667760849,Exequiel Palacios,a,8325,Penalty,2023,RightFoot,23346,Eintracht Frankfurt,Bayer Leverkusen,1,5,2024-05-05 15:30:00,,Standard
+592998,92,MissedShots,0.8690000152587891,0.34700000762939454,0.04597461596131325,Exequiel Palacios,h,8325,FromCorner,2024,RightFoot,27775,Bayer Leverkusen,Wolfsburg,4,3,2024-09-22 13:30:00,Florian Wirtz,Pass
+602801,29,Goal,0.9280000305175782,0.3729999923706055,0.0934918075799942,Exequiel Palacios,h,8325,OpenPlay,2024,RightFoot,27832,Bayer Leverkusen,FC Heidenheim,5,2,2024-11-23 14:30:00,Granit Xhaka,Pass
+611462,37,SavedShot,0.87,0.56,0.02724606916308403,Exequiel Palacios,h,8325,OpenPlay,2024,Head,27886,Bayer Leverkusen,Mainz 05,1,0,2025-01-14 19:30:00,Álex Grimaldo,Cross
+613286,46,BlockedShot,0.9480000305175781,0.53,0.7001875638961792,Exequiel Palacios,a,8325,OpenPlay,2024,LeftFoot,27904,RasenBallsport Leipzig,Bayer Leverkusen,2,2,2025-01-25 14:30:00,,Rebound
+613288,62,SavedShot,0.8590000152587891,0.435,0.1283814162015915,Exequiel Palacios,a,8325,OpenPlay,2024,LeftFoot,27904,RasenBallsport Leipzig,Bayer Leverkusen,2,2,2025-01-25 14:30:00,Granit Xhaka,Pass
+613295,88,SavedShot,0.725,0.5820000076293945,0.013416535221040249,Exequiel Palacios,a,8325,SetPiece,2024,RightFoot,27904,RasenBallsport Leipzig,Bayer Leverkusen,2,2,2025-01-25 14:30:00,,Tackle
+621182,71,SavedShot,0.7780000305175782,0.44599998474121094,0.01300573255866766,Exequiel Palacios,h,8325,OpenPlay,2024,RightFoot,27958,Bayer Leverkusen,Werder Bremen,0,2,2025-03-08 14:30:00,,Aerial
+621185,73,SavedShot,0.82,0.6959999847412109,0.025097088888287544,Exequiel Palacios,h,8325,OpenPlay,2024,RightFoot,27958,Bayer Leverkusen,Werder Bremen,0,2,2025-03-08 14:30:00,Nordi Mukiele,Pass
+623687,95,SavedShot,0.879000015258789,0.40599998474121096,0.10673844814300537,Exequiel Palacios,a,8325,OpenPlay,2024,RightFoot,27967,VfB Stuttgart,Bayer Leverkusen,3,4,2025-03-16 18:30:00,Amine Adli,Pass
+623862,54,BlockedShot,0.8109999847412109,0.385,0.059561144560575485,Exequiel Palacios,h,8325,OpenPlay,2024,LeftFoot,27976,Bayer Leverkusen,Bochum,3,1,2025-03-28 19:30:00,,TakeOn
+627122,57,SavedShot,0.89,0.30700000762939456,0.047025978565216064,Exequiel Palacios,h,8325,OpenPlay,2024,RightFoot,27994,Bayer Leverkusen,Union Berlin,0,0,2025-04-12 13:30:00,Florian Wirtz,Pass
+629416,49,MissedShots,0.7769999694824219,0.45099998474121095,0.03913486748933792,Exequiel Palacios,a,8325,OpenPlay,2024,RightFoot,28011,St. Pauli,Bayer Leverkusen,1,1,2025-04-20 17:30:00,Jeremie Frimpong,Pass
+632122,67,BlockedShot,0.7419999694824219,0.5690000152587891,0.017427243292331696,Exequiel Palacios,a,8325,OpenPlay,2024,RightFoot,28024,Freiburg,Bayer Leverkusen,2,2,2025-05-04 15:30:00,Álex Grimaldo,Pass
+665995,75,BlockedShot,0.775,0.504000015258789,0.06009824201464653,Exequiel Palacios,a,8325,OpenPlay,2025,RightFoot,30397,Eintracht Frankfurt,Bayer Leverkusen,1,3,2026-01-31 14:30:00,Edmond Tapsoba,Pass
+666001,94,MissedShots,0.815,0.504000015258789,0.0378824844956398,Exequiel Palacios,a,8325,OpenPlay,2025,LeftFoot,30397,Eintracht Frankfurt,Bayer Leverkusen,1,3,2026-01-31 14:30:00,,Rebound
+667432,85,SavedShot,0.7609999847412109,0.36700000762939455,0.03880633786320686,Exequiel Palacios,a,8325,OpenPlay,2025,RightFoot,30405,Borussia M.Gladbach,Bayer Leverkusen,1,1,2026-02-07 17:30:00,Malik Tillman,Pass
+672290,53,MissedShots,0.8130000305175781,0.34799999237060547,0.022733669728040695,Exequiel Palacios,a,8325,FromCorner,2025,RightFoot,30371,Hamburger SV,Bayer Leverkusen,0,1,2026-03-04 19:30:00,Robert Andrich,HeadPass
+673820,91,BlockedShot,0.840999984741211,0.3729999923706055,0.04188082739710808,Exequiel Palacios,h,8325,FromCorner,2025,RightFoot,30449,Bayer Leverkusen,Bayern Munich,1,1,2026-03-14 14:30:00,Jonas Hofmann,Pass
+675211,25,MissedShots,0.76,0.47700000762939454,0.02150104194879532,Exequiel Palacios,a,8325,SetPiece,2025,RightFoot,30462,FC Heidenheim,Bayer Leverkusen,3,3,2026-03-21 14:30:00,Robert Andrich,Pass
+676537,90,SavedShot,0.799000015258789,0.5829999923706055,0.05130086839199066,Exequiel Palacios,h,8325,OpenPlay,2025,RightFoot,30467,Bayer Leverkusen,Wolfsburg,6,3,2026-04-04 13:30:00,,BallRecovery
+679097,2,BlockedShot,0.740999984741211,0.61,0.015256124548614025,Exequiel Palacios,h,8325,FromCorner,2025,RightFoot,30485,Bayer Leverkusen,Augsburg,1,2,2026-04-18 13:30:00,,None

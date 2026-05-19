@@ -1,0 +1,14 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+163115,83,SavedShot,0.885,0.6419999694824219,0.08104539662599564,Yassine El Ghanassy,h,6113,OpenPlay,2017,LeftFoot,8623,Nantes,Caen,1,0,2017-09-16 19:00:00,Prejuce Nakoulma,Pass
+163389,23,BlockedShot,0.914000015258789,0.6509999847412109,0.11355099827051163,Yassine El Ghanassy,h,6113,OpenPlay,2017,LeftFoot,8642,Nantes,Metz,1,0,2017-09-30 19:00:00,,TakeOn
+164429,56,MissedShots,0.875999984741211,0.32099998474121094,0.06498409807682037,Yassine El Ghanassy,a,6113,OpenPlay,2017,RightFoot,8667,Dijon,Nantes,1,0,2017-10-28 19:00:00,Emiliano Sala,TakeOn
+165581,32,SavedShot,0.8119999694824219,0.5220000076293946,0.059075500816106796,Yassine El Ghanassy,h,6113,OpenPlay,2017,LeftFoot,8711,Nantes,Monaco,1,0,2017-11-29 18:00:00,Adrien Thomasson,Pass
+165134,59,MissedShots,0.845999984741211,0.7469999694824219,0.023077599704265594,Yassine El Ghanassy,a,6113,FromCorner,2017,RightFoot,8715,Saint-Etienne,Nantes,1,1,2017-12-03 14:00:00,Lucas Lima,Pass
+179604,75,BlockedShot,0.835,0.29700000762939455,0.027899600565433502,Yassine El Ghanassy,h,6113,FromCorner,2017,LeftFoot,8732,Nantes,Nice,1,2,2017-12-10 16:00:00,Léo Dubois,Pass
+179606,78,MissedShots,0.7909999847412109,0.595999984741211,0.03082429990172386,Yassine El Ghanassy,h,6113,OpenPlay,2017,RightFoot,8732,Nantes,Nice,1,2,2017-12-10 16:00:00,,BallRecovery
+188874,80,SavedShot,0.7630000305175781,0.27600000381469725,0.018200000748038292,Yassine El Ghanassy,h,6113,OpenPlay,2017,LeftFoot,8780,Nantes,Bordeaux,0,1,2018-01-20 16:00:00,Léo Dubois,Pass
+197624,76,MissedShots,0.8119999694824219,0.519000015258789,0.05903879925608635,Yassine El Ghanassy,h,6113,OpenPlay,2017,LeftFoot,8829,Nantes,Amiens,0,1,2018-02-24 19:00:00,Emiliano Sala,LayOff
+197627,87,MissedShots,0.7859999847412109,0.35900001525878905,0.019763300195336342,Yassine El Ghanassy,h,6113,FromCorner,2017,LeftFoot,8829,Nantes,Amiens,0,1,2018-02-24 19:00:00,,None
+201936,32,MissedShots,0.8909999847412109,0.38599998474121094,0.07829169929027557,Yassine El Ghanassy,a,6113,OpenPlay,2017,RightFoot,8856,Metz,Nantes,1,1,2018-03-18 14:00:00,Nicolas Pallois,Chipped
+204295,22,BlockedShot,0.9590000152587891,0.3820000076293945,0.0791093036532402,Yassine El Ghanassy,h,6113,SetPiece,2017,RightFoot,8870,Nantes,Saint-Etienne,0,3,2018-04-01 16:00:00,Diego Carlos,BallTouch
+204299,34,BlockedShot,0.735,0.55,0.0162454005330801,Yassine El Ghanassy,h,6113,OpenPlay,2017,LeftFoot,8870,Nantes,Saint-Etienne,0,3,2018-04-01 16:00:00,Samuel Moutoussamy,BlockedPass

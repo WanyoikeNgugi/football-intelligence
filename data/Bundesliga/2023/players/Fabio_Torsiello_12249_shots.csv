@@ -1,0 +1,5 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+552759,91,MissedShots,0.8090000152587891,0.34900001525878904,0.031212784349918365,Fabio Torsiello,a,12249,OpenPlay,2023,RightFoot,23190,FC Heidenheim,Darmstadt,3,2,2023-12-09 14:30:00,,None
+554156,87,BlockedShot,0.8719999694824219,0.42400001525878905,0.0450771264731884,Fabio Torsiello,h,12249,FromCorner,2023,RightFoot,23199,Darmstadt,Wolfsburg,0,1,2023-12-16 14:30:00,Matej Maglica,HeadPass
+563820,79,BlockedShot,0.8209999847412109,0.38599998474121094,0.05204662308096886,Fabio Torsiello,h,12249,OpenPlay,2023,LeftFoot,23262,Darmstadt,VfB Stuttgart,1,2,2024-02-17 14:30:00,Christoph Zimmermann,TakeOn
+566415,82,BlockedShot,0.909000015258789,0.4379999923706055,0.37135088443756104,Fabio Torsiello,h,12249,OpenPlay,2023,RightFoot,23280,Darmstadt,Augsburg,0,6,2024-03-02 14:30:00,Oscar Vilhelmsson,Pass

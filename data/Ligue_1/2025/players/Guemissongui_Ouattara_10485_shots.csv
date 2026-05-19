@@ -1,0 +1,33 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+604354,84,Goal,0.884000015258789,0.5770000076293945,0.10002632439136505,Guemissongui Ouattara,a,10485,OpenPlay,2024,RightFoot,28159,Brest,Strasbourg,3,1,2024-11-30 18:00:00,Sebastian Nanasi,Pass
+607583,88,BlockedShot,0.865,0.33799999237060546,0.08336931467056274,Guemissongui Ouattara,a,10485,OpenPlay,2024,RightFoot,28175,Le Havre,Strasbourg,0,3,2024-12-15 16:00:00,Habib Diarra,Pass
+615591,51,BlockedShot,0.769000015258789,0.29200000762939454,0.018359201028943062,Guemissongui Ouattara,a,10485,OpenPlay,2024,RightFoot,28226,Rennes,Strasbourg,1,0,2025-02-02 16:15:00,Andrey Santos,Pass
+617744,89,BlockedShot,0.8469999694824218,0.38299999237060545,0.34050890803337097,Guemissongui Ouattara,a,10485,OpenPlay,2024,RightFoot,28240,Lens,Strasbourg,0,2,2025-02-16 16:15:00,,Rebound
+628892,92,SavedShot,0.7380000305175781,0.5359999847412109,0.02072712779045105,Guemissongui Ouattara,a,10485,OpenPlay,2024,RightFoot,28316,Monaco,Strasbourg,0,0,2025-04-19 17:00:00,Felix Lemarechal,Pass
+639418,6,BlockedShot,0.8669999694824219,0.710999984741211,0.03619812801480293,Guemissongui Ouattara,h,10485,OpenPlay,2025,RightFoot,29552,Strasbourg,Nantes,1,0,2025-08-24 15:15:00,Sebastian Nanasi,Pass
+639435,72,SavedShot,0.7330000305175781,0.4929999923706055,0.019190607592463493,Guemissongui Ouattara,h,10485,OpenPlay,2025,LeftFoot,29552,Strasbourg,Nantes,1,0,2025-08-24 15:15:00,Ismaël Doukouré,Pass
+639440,86,MissedShots,0.8059999847412109,0.34200000762939453,0.015682892873883247,Guemissongui Ouattara,h,10485,FromCorner,2025,RightFoot,29552,Strasbourg,Nantes,1,0,2025-08-24 15:15:00,,Aerial
+644407,48,Goal,0.8669999694824219,0.53,0.3573741316795349,Guemissongui Ouattara,h,10485,OpenPlay,2025,RightFoot,29590,Strasbourg,Marseille,1,2,2025-09-26 18:45:00,Emanuel Emegha,Pass
+646899,26,SavedShot,0.9219999694824219,0.3060000038146973,0.05457112193107605,Guemissongui Ouattara,h,10485,OpenPlay,2025,RightFoot,29600,Strasbourg,Angers,5,0,2025-10-05 15:15:00,,None
+646911,60,Goal,0.9669999694824218,0.47400001525878904,0.6047850251197815,Guemissongui Ouattara,h,10485,FromCorner,2025,RightFoot,29600,Strasbourg,Angers,5,0,2025-10-05 15:15:00,Guela Doué,Aerial
+649952,58,BlockedShot,0.855999984741211,0.519000015258789,0.125188410282135,Guemissongui Ouattara,a,10485,OpenPlay,2025,RightFoot,29616,Lyon,Strasbourg,2,1,2025-10-26 18:45:00,Samir El Mourabet,Throughball
+649954,75,MissedShots,0.74,0.32299999237060545,0.02020915411412716,Guemissongui Ouattara,a,10485,OpenPlay,2025,RightFoot,29616,Lyon,Strasbourg,2,1,2025-10-26 18:45:00,Valentín Barco,Pass
+651406,7,MissedShots,0.8419999694824218,0.47400001525878904,0.08955889195203781,Guemissongui Ouattara,a,10485,OpenPlay,2025,RightFoot,29635,Rennes,Strasbourg,4,1,2025-11-02 14:00:00,Diego Moreira,Pass
+651421,45,MissedShots,0.9009999847412109,0.4209999847412109,0.046051811426877975,Guemissongui Ouattara,a,10485,OpenPlay,2025,Head,29635,Rennes,Strasbourg,4,1,2025-11-02 14:00:00,Valentín Barco,Cross
+651423,49,MissedShots,0.965,0.3189999961853027,0.08452153950929642,Guemissongui Ouattara,a,10485,OpenPlay,2025,RightFoot,29635,Rennes,Strasbourg,4,1,2025-11-02 14:00:00,Samuel Amo-Ameyaw,Throughball
+651424,53,MissedShots,0.8680000305175781,0.28600000381469726,0.041313011199235916,Guemissongui Ouattara,a,10485,OpenPlay,2025,RightFoot,29635,Rennes,Strasbourg,4,1,2025-11-02 14:00:00,Sebastian Nanasi,Pass
+665557,77,MissedShots,0.779000015258789,0.40099998474121096,0.04557490348815918,Guemissongui Ouattara,a,10485,OpenPlay,2025,RightFoot,29703,Lille,Strasbourg,1,4,2026-01-25 19:45:00,Martial Godo,Pass
+666784,16,BlockedShot,0.904000015258789,0.5120000076293946,0.09947628527879715,Guemissongui Ouattara,h,10485,OpenPlay,2025,RightFoot,29716,Strasbourg,Paris Saint Germain,1,2,2026-02-01 19:45:00,Julio Enciso,Cross
+666791,51,BlockedShot,0.9130000305175782,0.6029999923706054,0.11477813869714737,Guemissongui Ouattara,h,10485,OpenPlay,2025,RightFoot,29716,Strasbourg,Paris Saint Germain,1,2,2026-02-01 19:45:00,Joaquín Panichelli,Pass
+670733,71,SavedShot,0.7140000152587891,0.395,0.010930364951491356,Guemissongui Ouattara,h,10485,OpenPlay,2025,RightFoot,29753,Strasbourg,Lens,1,1,2026-02-27 19:45:00,,None
+670734,81,SavedShot,0.8590000152587891,0.34400001525878904,0.05468123033642769,Guemissongui Ouattara,h,10485,OpenPlay,2025,RightFoot,29753,Strasbourg,Lens,1,1,2026-02-27 19:45:00,Valentín Barco,Pass
+672852,39,BlockedShot,0.8090000152587891,0.6840000152587891,0.027600573375821114,Guemissongui Ouattara,a,10485,OpenPlay,2025,LeftFoot,29754,Auxerre,Strasbourg,0,0,2026-03-07 18:00:00,David Datro Fofana,BallRecovery
+674468,11,SavedShot,0.904000015258789,0.5429999923706055,0.4611065685749054,Guemissongui Ouattara,h,10485,OpenPlay,2025,LeftFoot,29771,Strasbourg,Paris FC,0,0,2026-03-15 14:00:00,,None
+674471,14,BlockedShot,0.6780000305175782,0.3970000076293945,0.012665890157222748,Guemissongui Ouattara,h,10485,OpenPlay,2025,RightFoot,29771,Strasbourg,Paris FC,0,0,2026-03-15 14:00:00,Samir El Mourabet,Pass
+674473,24,MissedShots,0.8869999694824219,0.18799999237060547,0.017082715407013893,Guemissongui Ouattara,h,10485,OpenPlay,2025,RightFoot,29771,Strasbourg,Paris FC,0,0,2026-03-15 14:00:00,,None
+676220,65,SavedShot,0.9080000305175782,0.30700000762939456,0.056902460753917694,Guemissongui Ouattara,a,10485,OpenPlay,2025,RightFoot,29776,Nantes,Strasbourg,2,3,2026-03-22 19:45:00,Gessime Yassine,Pass
+676221,72,SavedShot,0.74,0.39299999237060546,0.015415330417454243,Guemissongui Ouattara,a,10485,OpenPlay,2025,RightFoot,29776,Nantes,Strasbourg,2,3,2026-03-22 19:45:00,,None
+681417,67,MissedShots,0.7290000152587891,0.544000015258789,0.01858379691839218,Guemissongui Ouattara,a,10485,OpenPlay,2025,RightFoot,29811,Lorient,Strasbourg,2,3,2026-04-26 13:00:00,Maxi Oyedele,Pass
+681419,83,SavedShot,0.88,0.40900001525878904,0.287182480096817,Guemissongui Ouattara,a,10485,OpenPlay,2025,RightFoot,29811,Lorient,Strasbourg,2,3,2026-04-26 13:00:00,Gessime Yassine,Chipped
+684953,16,BlockedShot,0.9019999694824219,0.6580000305175782,0.0864596888422966,Guemissongui Ouattara,a,10485,OpenPlay,2025,LeftFoot,29791,Brest,Strasbourg,1,2,2026-05-13 17:00:00,Martial Godo,Pass
+684966,59,SavedShot,0.7080000305175781,0.6079999923706054,0.014264651574194431,Guemissongui Ouattara,a,10485,OpenPlay,2025,RightFoot,29791,Brest,Strasbourg,1,2,2026-05-13 17:00:00,,None

@@ -1,0 +1,24 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+44011,72,BlockedShot,0.775,0.25299999237060544,0.016258999705314636,Nikola Maksimovic,h,1377,OpenPlay,2014,RightFoot,5034,Torino,Atalanta,0,0,2014-11-02 14:00:00,Alessandro Gazzi,Pass
+45650,85,MissedShots,0.785,0.3659999847412109,0.027291199192404747,Nikola Maksimovic,h,1377,OpenPlay,2014,RightFoot,4968,Torino,AC Milan,1,1,2015-01-10 19:45:00,Omar El Kaddouri,Pass
+51345,22,SavedShot,0.9269999694824219,0.45299999237060545,0.09835019707679749,Nikola Maksimovic,a,1377,FromCorner,2014,Head,4798,Genoa,Torino,5,1,2015-05-11 19:45:00,Omar El Kaddouri,Cross
+93105,8,BlockedShot,0.9159999847412109,0.4929999923706055,0.0946521982550621,Nikola Maksimovic,a,1377,FromCorner,2015,Head,560,Frosinone,Torino,1,2,2015-08-23 22:45:00,Daniele Baselli,Cross
+93574,47,MissedShots,0.9259999847412109,0.4229999923706055,0.065733402967453,Nikola Maksimovic,h,1377,FromCorner,2015,Head,564,Torino,Fiorentina,3,1,2015-08-30 22:45:00,Daniele Baselli,Cross
+148594,32,Goal,0.975999984741211,0.544000015258789,0.5346429944038391,Nikola Maksimovic,a,1377,FromCorner,2016,RightFoot,1015,Crotone,Napoli,1,2,2016-10-23 17:00:00,Ivan Strinic,Cross
+206748,23,MissedShots,0.8980000305175782,0.545,0.044166199862957,Nikola Maksimovic,a,1377,FromCorner,2017,RightFoot,6661,Anzhi Makhachkala,Spartak Moscow,1,4,2018-04-08 16:00:00,Quincy Promes,Aerial
+223737,69,MissedShots,0.92,0.5229999923706055,0.04432599991559982,Nikola Maksimovic,h,1377,FromCorner,2018,Head,9613,Napoli,Fiorentina,1,0,2018-09-15 16:00:00,José Callejón,Aerial
+288068,51,SavedShot,0.8859999847412109,0.5579999923706055,0.030873099341988564,Nikola Maksimovic,a,1377,FromCorner,2018,Head,9866,Roma,Napoli,1,4,2019-03-31 13:00:00,Dries Mertens,Cross
+328400,15,Goal,0.9459999847412109,0.5259999847412109,0.4633469879627228,Nikola Maksimovic,h,1377,FromCorner,2019,Head,13184,Napoli,Atalanta,2,2,2019-10-30 18:00:00,José Callejón,Cross
+334572,61,MissedShots,0.9430000305175781,0.6079999923706054,0.028364600613713264,Nikola Maksimovic,h,1377,SetPiece,2019,Head,13227,Napoli,Bologna,1,2,2019-12-01 17:00:00,,None
+369759,6,BlockedShot,0.8730000305175781,0.515,0.0830404981970787,Nikola Maksimovic,a,1377,FromCorner,2019,LeftFoot,13392,Genoa,Napoli,1,2,2020-07-08 17:30:00,Fabián,Rebound
+374093,41,MissedShots,0.9280000305175782,0.24299999237060546,0.025927599519491196,Nikola Maksimovic,a,1377,SetPiece,2019,RightFoot,13450,Inter,Napoli,2,0,2020-07-28 19:45:00,,None
+394811,76,SavedShot,0.894000015258789,0.4490000152587891,0.04323180019855499,Nikola Maksimovic,a,1377,FromCorner,2020,Head,15551,Lazio,Napoli,2,0,2020-12-20 19:45:00,Faouzi Ghoulam,Cross
+398310,53,MissedShots,0.9690000152587891,0.6,0.073505699634552,Nikola Maksimovic,a,1377,SetPiece,2020,RightFoot,15594,Udinese,Napoli,1,2,2021-01-10 14:00:00,Lorenzo Insigne,Cross
+403446,70,BlockedShot,0.9169999694824219,0.51,0.04823220148682594,Nikola Maksimovic,a,1377,FromCorner,2020,Head,15630,Genoa,Napoli,2,1,2021-02-06 19:45:00,Lorenzo Insigne,Aerial
+407767,33,OwnGoal,0.06,0.54,0,Nikola Maksimovic,a,1377,SetPiece,2020,Head,15667,Sassuolo,Napoli,3,3,2021-03-03 17:30:00,,Foul
+407774,56,ShotOnPost,0.9390000152587891,0.47299999237060547,0.3926289975643158,Nikola Maksimovic,a,1377,FromCorner,2020,Head,15667,Sassuolo,Napoli,3,3,2021-03-03 17:30:00,Dries Mertens,Chipped
+407777,62,MissedShots,0.93,0.4259999847412109,0.027025699615478516,Nikola Maksimovic,a,1377,FromCorner,2020,Head,15667,Sassuolo,Napoli,3,3,2021-03-03 17:30:00,Matteo Politano,Aerial
+434743,93,MissedShots,0.8930000305175781,0.5970000076293945,0.012488000094890594,Nikola Maksimovic,a,1377,FromCorner,2021,Head,16822,Salernitana,Genoa,1,0,2021-10-02 13:00:00,Nicolo Rovella,Aerial
+458675,26,MissedShots,0.9319999694824219,0.549000015258789,0.06180249899625778,Nikola Maksimovic,a,1377,SetPiece,2021,Head,17015,Venezia,Genoa,1,1,2022-02-20 14:00:00,Nicolo Rovella,Aerial
+461448,19,MissedShots,0.9719999694824218,0.6079999923706054,0.01379489991813898,Nikola Maksimovic,h,1377,FromCorner,2021,Head,17029,Genoa,Empoli,0,0,2022-03-06 11:30:00,Albert Gudmundsson,Aerial
+604731,63,MissedShots,0.9280000305175782,0.6990000152587891,0.045709796249866486,Nikola Maksimovic,h,1377,SetPiece,2024,RightFoot,28160,Montpellier,Lille,2,2,2024-12-01 14:00:00,Modibo Sagnan,None

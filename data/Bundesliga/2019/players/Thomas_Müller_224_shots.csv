@@ -1,0 +1,620 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+24339,11,SavedShot,0.9030000305175782,0.23899999618530274,0.03411800041794777,Thomas Müller,h,224,OpenPlay,2014,RightFoot,5447,Bayern Munich,Wolfsburg,2,1,2014-08-22 19:30:00,Philipp Lahm,Chipped
+24343,28,SavedShot,0.870999984741211,0.3240000152587891,0.05034539848566055,Thomas Müller,h,224,OpenPlay,2014,LeftFoot,5447,Bayern Munich,Wolfsburg,2,1,2014-08-22 19:30:00,,None
+24346,36,Goal,0.95,0.435,0.5562360286712646,Thomas Müller,h,224,OpenPlay,2014,RightFoot,5447,Bayern Munich,Wolfsburg,2,1,2014-08-22 19:30:00,Arjen Robben,Pass
+24362,90,MissedShots,0.8980000305175782,0.639000015258789,0.0944645032286644,Thomas Müller,h,224,OpenPlay,2014,RightFoot,5447,Bayern Munich,Wolfsburg,2,1,2014-08-22 19:30:00,Arjen Robben,BallTouch
+24560,3,SavedShot,0.8690000152587891,0.51,0.3755890130996704,Thomas Müller,a,224,OpenPlay,2014,RightFoot,5462,Schalke 04,Bayern Munich,1,1,2014-08-30 17:30:00,Robert Lewandowski,Pass
+24792,7,SavedShot,0.8580000305175781,0.605999984741211,0.021476399153470993,Thomas Müller,h,224,OpenPlay,2014,Head,5413,Bayern Munich,VfB Stuttgart,2,0,2014-09-13 14:30:00,Jérôme Boateng,Chipped
+24794,14,SavedShot,0.915,0.3770000076293945,0.016982000321149826,Thomas Müller,h,224,OpenPlay,2014,Head,5413,Bayern Munich,VfB Stuttgart,2,0,2014-09-13 14:30:00,Jérôme Boateng,Aerial
+24799,52,MissedShots,0.8690000152587891,0.53,0.11821900308132172,Thomas Müller,h,224,OpenPlay,2014,LeftFoot,5413,Bayern Munich,VfB Stuttgart,2,0,2014-09-13 14:30:00,David Alaba,Pass
+24806,73,BlockedShot,0.7090000152587891,0.37400001525878906,0.021418800577521324,Thomas Müller,h,224,OpenPlay,2014,RightFoot,5413,Bayern Munich,VfB Stuttgart,2,0,2014-09-13 14:30:00,Xabi Alonso,Pass
+25197,56,BlockedShot,0.955999984741211,0.33599998474121096,0.05497509986162186,Thomas Müller,a,224,OpenPlay,2014,RightFoot,5422,Hamburger SV,Bayern Munich,0,0,2014-09-20 14:30:00,Philipp Lahm,Chipped
+25201,73,BlockedShot,0.84,0.4620000076293945,0.0649397000670433,Thomas Müller,a,224,OpenPlay,2014,RightFoot,5422,Hamburger SV,Bayern Munich,0,0,2014-09-20 14:30:00,,None
+25205,87,BlockedShot,0.8919999694824219,0.46599998474121096,0.08927380293607712,Thomas Müller,a,224,OpenPlay,2014,RightFoot,5422,Hamburger SV,Bayern Munich,0,0,2014-09-20 14:30:00,,None
+25273,38,MissedShots,0.8580000305175781,0.415,0.08806110173463821,Thomas Müller,h,224,OpenPlay,2014,RightFoot,5430,Bayern Munich,Paderborn,4,0,2014-09-23 19:00:00,Sebastian Rode,Chipped
+25284,77,SavedShot,0.9219999694824219,0.48200000762939454,0.5893250107765198,Thomas Müller,h,224,OpenPlay,2014,RightFoot,5430,Bayern Munich,Paderborn,4,0,2014-09-23 19:00:00,Mario Götze,Pass
+25287,84,Goal,0.9769999694824218,0.445,0.6562690138816833,Thomas Müller,h,224,OpenPlay,2014,RightFoot,5430,Bayern Munich,Paderborn,4,0,2014-09-23 19:00:00,Arjen Robben,Pass
+25288,87,SavedShot,0.9230000305175782,0.3509999847412109,0.13679100573062897,Thomas Müller,h,224,OpenPlay,2014,RightFoot,5430,Bayern Munich,Paderborn,4,0,2014-09-23 19:00:00,Arjen Robben,Throughball
+25659,6,MissedShots,0.875,0.6029999923706054,0.16018299758434296,Thomas Müller,a,224,OpenPlay,2014,LeftFoot,5442,FC Cologne,Bayern Munich,0,2,2014-09-27 14:30:00,Xabi Alonso,TakeOn
+25660,9,MissedShots,0.9069999694824219,0.52,0.047199901193380356,Thomas Müller,a,224,FromCorner,2014,Head,5442,FC Cologne,Bayern Munich,0,2,2014-09-27 14:30:00,,None
+25661,10,SavedShot,0.9019999694824219,0.41700000762939454,0.08167870342731476,Thomas Müller,a,224,OpenPlay,2014,RightFoot,5442,FC Cologne,Bayern Munich,0,2,2014-09-27 14:30:00,Arjen Robben,Cross
+25665,22,SavedShot,0.9069999694824219,0.534000015258789,0.4684399962425232,Thomas Müller,a,224,OpenPlay,2014,RightFoot,5442,FC Cologne,Bayern Munich,0,2,2014-09-27 14:30:00,Mario Götze,Pass
+25677,52,BlockedShot,0.8130000305175781,0.5379999923706055,0.05665120109915733,Thomas Müller,a,224,OpenPlay,2014,RightFoot,5442,FC Cologne,Bayern Munich,0,2,2014-09-27 14:30:00,Robert Lewandowski,Pass
+25977,42,Goal,0.885,0.5,0.7577769756317139,Thomas Müller,h,224,Penalty,2014,RightFoot,5392,Bayern Munich,Werder Bremen,6,0,2014-10-18 14:30:00,,Standard
+25982,65,MissedShots,0.9119999694824219,0.565,0.09434790164232254,Thomas Müller,h,224,OpenPlay,2014,Head,5392,Bayern Munich,Werder Bremen,6,0,2014-10-18 14:30:00,Jérôme Boateng,Cross
+26284,6,MissedShots,0.850999984741211,0.23600000381469727,0.022684000432491302,Thomas Müller,a,224,OpenPlay,2014,RightFoot,5409,Borussia M.Gladbach,Bayern Munich,0,0,2014-10-26 16:30:00,David Alaba,Chipped
+26459,12,MissedShots,0.885,0.5690000152587891,0.08045429736375809,Thomas Müller,h,224,OpenPlay,2014,RightFoot,5352,Bayern Munich,Borussia Dortmund,2,1,2014-11-01 17:30:00,Jérôme Boateng,Chipped
+26460,15,SavedShot,0.9030000305175782,0.5690000152587891,0.09541720151901245,Thomas Müller,h,224,OpenPlay,2014,RightFoot,5352,Bayern Munich,Borussia Dortmund,2,1,2014-11-01 17:30:00,Arjen Robben,Chipped
+26466,34,SavedShot,0.9280000305175782,0.40900001525878904,0.03201889991760254,Thomas Müller,h,224,OpenPlay,2014,Head,5352,Bayern Munich,Borussia Dortmund,2,1,2014-11-01 17:30:00,Philipp Lahm,Aerial
+26468,37,SavedShot,0.884000015258789,0.56,0.3664740025997162,Thomas Müller,h,224,OpenPlay,2014,LeftFoot,5352,Bayern Munich,Borussia Dortmund,2,1,2014-11-01 17:30:00,Arjen Robben,Throughball
+26476,53,BlockedShot,0.899000015258789,0.735999984741211,0.03372680023312569,Thomas Müller,h,224,OpenPlay,2014,RightFoot,5352,Bayern Munich,Borussia Dortmund,2,1,2014-11-01 17:30:00,Jérôme Boateng,Chipped
+26486,73,SavedShot,0.8369999694824218,0.19700000762939454,0.014904499985277653,Thomas Müller,h,224,OpenPlay,2014,RightFoot,5352,Bayern Munich,Borussia Dortmund,2,1,2014-11-01 17:30:00,Juan Bernat,Chipped
+26870,21,BlockedShot,0.9540000152587891,0.5070000076293946,0.7900130152702332,Thomas Müller,a,224,OpenPlay,2014,LeftFoot,5360,Eintracht Frankfurt,Bayern Munich,0,4,2014-11-08 14:30:00,Robert Lewandowski,Pass
+26871,21,Goal,0.985,0.5029999923706054,0.9691380262374878,Thomas Müller,a,224,OpenPlay,2014,RightFoot,5360,Eintracht Frankfurt,Bayern Munich,0,4,2014-11-08 14:30:00,,Rebound
+26879,63,Goal,0.8959999847412109,0.61,0.35569700598716736,Thomas Müller,a,224,OpenPlay,2014,RightFoot,5360,Eintracht Frankfurt,Bayern Munich,0,4,2014-11-08 14:30:00,Franck Ribéry,Pass
+26880,66,Goal,0.9019999694824219,0.38,0.11433900147676468,Thomas Müller,a,224,OpenPlay,2014,RightFoot,5360,Eintracht Frankfurt,Bayern Munich,0,4,2014-11-08 14:30:00,Mario Götze,Chipped
+26923,15,SavedShot,0.9119999694824219,0.5309999847412109,0.11471399664878845,Thomas Müller,h,224,OpenPlay,2014,RightFoot,5365,Bayern Munich,Hoffenheim,4,0,2014-11-22 14:30:00,Franck Ribéry,Chipped
+27118,18,SavedShot,0.9119999694824219,0.5659999847412109,0.09222520142793655,Thomas Müller,a,224,OpenPlay,2014,RightFoot,5378,Hertha Berlin,Bayern Munich,0,1,2014-11-29 14:30:00,Juan Bernat,Cross
+27120,20,BlockedShot,0.8969999694824219,0.33799999237060546,0.0702861025929451,Thomas Müller,a,224,OpenPlay,2014,RightFoot,5378,Hertha Berlin,Bayern Munich,0,1,2014-11-29 14:30:00,Mario Götze,Pass
+27123,29,MissedShots,0.8959999847412109,0.28299999237060547,0.05925799906253815,Thomas Müller,a,224,OpenPlay,2014,RightFoot,5378,Hertha Berlin,Bayern Munich,0,1,2014-11-29 14:30:00,Arjen Robben,Chipped
+27127,51,MissedShots,0.889000015258789,0.4229999923706055,0.02906380034983158,Thomas Müller,a,224,FromCorner,2014,Head,5378,Hertha Berlin,Bayern Munich,0,1,2014-11-29 14:30:00,Arjen Robben,Cross
+27242,55,ShotOnPost,0.98,0.3039999961853027,0.1263969987630844,Thomas Müller,h,224,OpenPlay,2014,RightFoot,5318,Bayern Munich,Bayer Leverkusen,1,0,2014-12-06 17:30:00,Arjen Robben,Throughball
+28063,84,BlockedShot,0.875999984741211,0.645,0.08560220152139664,Thomas Müller,a,224,OpenPlay,2014,LeftFoot,5324,Augsburg,Bayern Munich,0,4,2014-12-13 14:30:00,Robert Lewandowski,Pass
+28331,19,MissedShots,0.9280000305175782,0.43900001525878907,0.059144798666238785,Thomas Müller,h,224,OpenPlay,2014,Head,5333,Bayern Munich,Freiburg,2,0,2014-12-16 19:00:00,Franck Ribéry,Aerial
+28332,21,MissedShots,0.914000015258789,0.509000015258789,0.10664000362157822,Thomas Müller,h,224,OpenPlay,2014,LeftFoot,5333,Bayern Munich,Freiburg,2,0,2014-12-16 19:00:00,Juan Bernat,Cross
+28343,43,SavedShot,0.914000015258789,0.5670000076293945,0.11106300354003906,Thomas Müller,h,224,OpenPlay,2014,RightFoot,5333,Bayern Munich,Freiburg,2,0,2014-12-16 19:00:00,Arjen Robben,Cross
+28344,44,BlockedShot,0.924000015258789,0.33599998474121096,0.07117839902639389,Thomas Müller,h,224,OpenPlay,2014,RightFoot,5333,Bayern Munich,Freiburg,2,0,2014-12-16 19:00:00,Dante,Chipped
+28347,47,Goal,0.9890000152587891,0.4809999847412109,0.9656180143356323,Thomas Müller,h,224,OpenPlay,2014,Head,5333,Bayern Munich,Freiburg,2,0,2014-12-16 19:00:00,,Rebound
+28348,56,MissedShots,0.9080000305175782,0.605,0.01293100044131279,Thomas Müller,h,224,OpenPlay,2014,Head,5333,Bayern Munich,Freiburg,2,0,2014-12-16 19:00:00,Franck Ribéry,Aerial
+28130,11,BlockedShot,0.889000015258789,0.629000015258789,0.06942710280418396,Thomas Müller,a,224,OpenPlay,2014,LeftFoot,5339,Mainz 05,Bayern Munich,1,2,2014-12-19 19:30:00,Arjen Robben,None
+28453,63,BlockedShot,0.774000015258789,0.655,0.02161560021340847,Thomas Müller,a,224,OpenPlay,2014,LeftFoot,5305,Wolfsburg,Bayern Munich,4,1,2015-01-30 19:30:00,Bastian Schweinsteiger,Pass
+29651,36,BlockedShot,0.8519999694824218,0.59,0.07351409643888474,Thomas Müller,h,224,OpenPlay,2014,RightFoot,5264,Bayern Munich,Schalke 04,1,1,2015-02-03 19:00:00,David Alaba,Pass
+28796,3,SavedShot,0.885,0.32,0.06066320091485977,Thomas Müller,h,224,OpenPlay,2014,RightFoot,5285,Bayern Munich,Hamburger SV,8,0,2015-02-14 14:30:00,Arjen Robben,Pass
+28799,20,Goal,0.885,0.5,0.7577769756317139,Thomas Müller,h,224,Penalty,2014,RightFoot,5285,Bayern Munich,Hamburger SV,8,0,2015-02-14 14:30:00,,Standard
+28800,22,SavedShot,0.8030000305175782,0.4909999847412109,0.05871110036969185,Thomas Müller,h,224,OpenPlay,2014,LeftFoot,5285,Bayern Munich,Hamburger SV,8,0,2015-02-14 14:30:00,Bastian Schweinsteiger,Pass
+28806,44,SavedShot,0.9519999694824218,0.3820000076293945,0.1314619928598404,Thomas Müller,h,224,OpenPlay,2014,RightFoot,5285,Bayern Munich,Hamburger SV,8,0,2015-02-14 14:30:00,Arjen Robben,Pass
+28814,54,Goal,0.7380000305175781,0.46099998474121096,0.025789899751544,Thomas Müller,h,224,OpenPlay,2014,RightFoot,5285,Bayern Munich,Hamburger SV,8,0,2015-02-14 14:30:00,Bastian Schweinsteiger,Pass
+28650,36,MissedShots,0.750999984741211,0.3820000076293945,0.025496600195765495,Thomas Müller,a,224,OpenPlay,2014,RightFoot,5294,Paderborn,Bayern Munich,0,6,2015-02-21 14:30:00,Robert Lewandowski,Pass
+28672,88,MissedShots,0.8119999694824219,0.49700000762939456,0.0801834985613823,Thomas Müller,a,224,OpenPlay,2014,RightFoot,5294,Paderborn,Bayern Munich,0,6,2015-02-21 14:30:00,Robert Lewandowski,Pass
+28776,54,MissedShots,0.9359999847412109,0.500999984741211,0.5082949995994568,Thomas Müller,h,224,OpenPlay,2014,Head,5298,Bayern Munich,FC Cologne,4,1,2015-02-27 19:30:00,Rafinha,Cross
+30001,32,MissedShots,0.7809999847412109,0.69,0.018504399806261063,Thomas Müller,a,224,OpenPlay,2014,RightFoot,5236,Hannover 96,Bayern Munich,1,3,2015-03-07 14:30:00,Juan Bernat,Pass
+30005,60,Goal,0.885,0.5,0.7577769756317139,Thomas Müller,a,224,Penalty,2014,RightFoot,5236,Hannover 96,Bayern Munich,1,3,2015-03-07 14:30:00,,Standard
+30006,71,Goal,0.9,0.47299999237060547,0.10165400058031082,Thomas Müller,a,224,OpenPlay,2014,Head,5236,Hannover 96,Bayern Munich,1,3,2015-03-07 14:30:00,Franck Ribéry,Cross
+31385,23,SavedShot,0.8690000152587891,0.3820000076293945,0.0751212015748024,Thomas Müller,a,224,OpenPlay,2014,RightFoot,5246,Werder Bremen,Bayern Munich,0,4,2015-03-14 14:30:00,Robert Lewandowski,Pass
+31386,23,Goal,0.8230000305175781,0.3770000076293945,0.07775049656629562,Thomas Müller,a,224,OpenPlay,2014,LeftFoot,5246,Werder Bremen,Bayern Munich,0,4,2015-03-14 14:30:00,,None
+31392,77,MissedShots,0.8780000305175781,0.32599998474121095,0.07960370182991028,Thomas Müller,a,224,OpenPlay,2014,RightFoot,5246,Werder Bremen,Bayern Munich,0,4,2015-03-14 14:30:00,David Alaba,Pass
+31590,48,MissedShots,0.7119999694824218,0.6530000305175782,0.010681100189685822,Thomas Müller,h,224,OpenPlay,2014,RightFoot,5259,Bayern Munich,Borussia M.Gladbach,0,2,2015-03-22 16:30:00,Bastian Schweinsteiger,TakeOn
+31591,62,SavedShot,0.8719999694824219,0.4490000152587891,0.03558240085840225,Thomas Müller,h,224,OpenPlay,2014,Head,5259,Bayern Munich,Borussia M.Gladbach,0,2,2015-03-22 16:30:00,Rafinha,Cross
+31599,85,SavedShot,0.9690000152587891,0.48,0.15481500327587128,Thomas Müller,h,224,OpenPlay,2014,Head,5259,Bayern Munich,Borussia M.Gladbach,0,2,2015-03-22 16:30:00,Juan Bernat,Chipped
+32240,6,MissedShots,0.8469999694824218,0.30100000381469727,0.04051730036735535,Thomas Müller,a,224,OpenPlay,2014,RightFoot,5201,Borussia Dortmund,Bayern Munich,0,1,2015-04-04 17:30:00,Rafinha,Chipped
+32242,35,SavedShot,0.9019999694824219,0.5840000152587891,0.38906100392341614,Thomas Müller,a,224,OpenPlay,2014,LeftFoot,5201,Borussia Dortmund,Bayern Munich,0,1,2015-04-04 17:30:00,Robert Lewandowski,Pass
+32245,44,BlockedShot,0.7340000152587891,0.4570000076293945,0.02749370038509369,Thomas Müller,a,224,OpenPlay,2014,RightFoot,5201,Borussia Dortmund,Bayern Munich,0,1,2015-04-04 17:30:00,Jérôme Boateng,Pass
+30721,21,SavedShot,0.785,0.43400001525878906,0.043300800025463104,Thomas Müller,h,224,OpenPlay,2014,RightFoot,5205,Bayern Munich,Eintracht Frankfurt,3,0,2015-04-11 14:30:00,Thiago Alcántara,Pass
+30724,33,MissedShots,0.895,0.49599998474121093,0.06093350052833557,Thomas Müller,h,224,FromCorner,2014,Head,5205,Bayern Munich,Eintracht Frankfurt,3,0,2015-04-11 14:30:00,Xabi Alonso,Cross
+30736,76,SavedShot,0.8190000152587891,0.56,0.05852070078253746,Thomas Müller,h,224,OpenPlay,2014,LeftFoot,5205,Bayern Munich,Eintracht Frankfurt,3,0,2015-04-11 14:30:00,,None
+30738,81,Goal,0.9730000305175781,0.5670000076293945,0.14295899868011475,Thomas Müller,h,224,OpenPlay,2014,RightFoot,5205,Bayern Munich,Eintracht Frankfurt,3,0,2015-04-11 14:30:00,Mitchell Weiser,Chipped
+32024,37,SavedShot,0.8090000152587891,0.33,0.02992909960448742,Thomas Müller,a,224,OpenPlay,2014,RightFoot,5215,Hoffenheim,Bayern Munich,0,2,2015-04-18 14:30:00,Rafinha,Pass
+32032,59,SavedShot,0.9230000305175782,0.48900001525878906,0.5183380246162415,Thomas Müller,a,224,OpenPlay,2014,RightFoot,5215,Hoffenheim,Bayern Munich,0,2,2015-04-18 14:30:00,,Rebound
+32039,75,BlockedShot,0.8090000152587891,0.3240000152587891,0.01592000015079975,Thomas Müller,a,224,OpenPlay,2014,RightFoot,5215,Hoffenheim,Bayern Munich,0,2,2015-04-18 14:30:00,Thiago Alcántara,Chipped
+32264,13,MissedShots,0.8919999694824219,0.4620000076293945,0.0323587991297245,Thomas Müller,h,224,OpenPlay,2014,Head,5228,Bayern Munich,Hertha Berlin,1,0,2015-04-25 17:30:00,Sebastian Rode,Aerial
+32266,17,SavedShot,0.825,0.3609999847412109,0.05977819859981537,Thomas Müller,h,224,OpenPlay,2014,LeftFoot,5228,Bayern Munich,Hertha Berlin,1,0,2015-04-25 17:30:00,Sebastian Rode,TakeOn
+31315,10,MissedShots,0.7619999694824219,0.45,0.014730200171470642,Thomas Müller,h,224,OpenPlay,2014,LeftFoot,5169,Bayern Munich,Augsburg,0,1,2015-05-09 14:30:00,Thiago Alcántara,HeadPass
+31325,40,MissedShots,0.8919999694824219,0.37599998474121094,0.07203269749879837,Thomas Müller,h,224,OpenPlay,2014,RightFoot,5169,Bayern Munich,Augsburg,0,1,2015-05-09 14:30:00,Jérôme Boateng,Chipped
+30799,67,MissedShots,0.8690000152587891,0.5670000076293945,0.012794299982488155,Thomas Müller,a,224,FromCorner,2014,Head,5185,Freiburg,Bayern Munich,2,1,2015-05-16 14:30:00,Mario Götze,Aerial
+30808,85,BlockedShot,0.7680000305175781,0.48900001525878906,0.021257899701595306,Thomas Müller,a,224,FromCorner,2014,RightFoot,5185,Freiburg,Bayern Munich,2,1,2015-05-16 14:30:00,,None
+76063,28,MissedShots,0.8690000152587891,0.47299999237060547,0.07751789689064026,Thomas Müller,h,224,OpenPlay,2015,LeftFoot,1021,Bayern Munich,Hamburger SV,5,0,2015-08-14 22:30:00,David Alaba,Cross
+76077,68,Goal,0.9590000152587891,0.4470000076293945,0.5615739822387695,Thomas Müller,h,224,OpenPlay,2015,Head,1021,Bayern Munich,Hamburger SV,5,0,2015-08-14 22:30:00,Douglas Costa,Cross
+76080,72,Goal,0.93,0.629000015258789,0.5565440058708191,Thomas Müller,h,224,OpenPlay,2015,LeftFoot,1021,Bayern Munich,Hamburger SV,5,0,2015-08-14 22:30:00,Robert Lewandowski,TakeOn
+76478,32,SavedShot,0.8730000305175781,0.47,0.04545849934220314,Thomas Müller,a,224,OpenPlay,2015,RightFoot,1031,Hoffenheim,Bayern Munich,1,2,2015-08-22 17:30:00,Philipp Lahm,Aerial
+76479,33,ShotOnPost,0.9519999694824218,0.22700000762939454,0.045910801738500595,Thomas Müller,a,224,OpenPlay,2015,RightFoot,1031,Hoffenheim,Bayern Munich,1,2,2015-08-22 17:30:00,,TakeOn
+76482,40,Goal,0.9440000152587891,0.45,0.5598430037498474,Thomas Müller,a,224,OpenPlay,2015,RightFoot,1031,Hoffenheim,Bayern Munich,1,2,2015-08-22 17:30:00,,Rebound
+76489,67,SavedShot,0.8019999694824219,0.3029999923706055,0.026057900860905647,Thomas Müller,a,224,OpenPlay,2015,RightFoot,1031,Hoffenheim,Bayern Munich,1,2,2015-08-22 17:30:00,Arturo Vidal,Pass
+76491,69,MissedShots,0.8680000305175781,0.5259999847412109,0.11111699789762497,Thomas Müller,a,224,OpenPlay,2015,RightFoot,1031,Hoffenheim,Bayern Munich,1,2,2015-08-22 17:30:00,Douglas Costa,Pass
+76494,76,MissedShots,0.9230000305175782,0.5,0.06841930001974106,Thomas Müller,a,224,SetPiece,2015,Head,1031,Hoffenheim,Bayern Munich,1,2,2015-08-22 17:30:00,Xabi Alonso,Aerial
+76500,87,ShotOnPost,0.9669999694824218,0.47200000762939454,0.14286500215530396,Thomas Müller,a,224,FromCorner,2015,Head,1031,Hoffenheim,Bayern Munich,1,2,2015-08-22 17:30:00,Arturo Vidal,Chipped
+76525,25,Goal,0.9269999694824219,0.515,0.40707001090049744,Thomas Müller,h,224,OpenPlay,2015,RightFoot,1045,Bayern Munich,Bayer Leverkusen,3,0,2015-08-29 20:30:00,Douglas Costa,Chipped
+76529,38,SavedShot,0.925,0.49900001525878906,0.07909529656171799,Thomas Müller,h,224,OpenPlay,2015,Head,1045,Bayern Munich,Bayer Leverkusen,3,0,2015-08-29 20:30:00,Douglas Costa,Aerial
+76536,53,MissedShots,0.875,0.575999984741211,0.10298900306224823,Thomas Müller,h,224,OpenPlay,2015,LeftFoot,1045,Bayern Munich,Bayer Leverkusen,3,0,2015-08-29 20:30:00,,Rebound
+76538,59,Goal,0.885,0.5,0.7577769756317139,Thomas Müller,h,224,Penalty,2015,RightFoot,1045,Bayern Munich,Bayer Leverkusen,3,0,2015-08-29 20:30:00,,Standard
+76745,35,BlockedShot,0.895,0.40599998474121096,0.0805319994688034,Thomas Müller,h,224,OpenPlay,2015,RightFoot,1049,Bayern Munich,Augsburg,2,1,2015-09-12 17:30:00,,None
+76744,35,MissedShots,0.9269999694824219,0.42700000762939455,0.10011400282382965,Thomas Müller,h,224,OpenPlay,2015,RightFoot,1049,Bayern Munich,Augsburg,2,1,2015-09-12 17:30:00,Douglas Costa,Cross
+76750,51,MissedShots,0.8719999694824219,0.555,0.023274600505828857,Thomas Müller,h,224,FromCorner,2015,Head,1049,Bayern Munich,Augsburg,2,1,2015-09-12 17:30:00,Xabi Alonso,Cross
+76752,53,MissedShots,0.88,0.5220000076293946,0.053495101630687714,Thomas Müller,h,224,OpenPlay,2015,Head,1049,Bayern Munich,Augsburg,2,1,2015-09-12 17:30:00,Philipp Lahm,Cross
+76755,62,BlockedShot,0.8119999694824219,0.5540000152587891,0.04995470121502876,Thomas Müller,h,224,OpenPlay,2015,RightFoot,1049,Bayern Munich,Augsburg,2,1,2015-09-12 17:30:00,Xabi Alonso,Pass
+76762,70,MissedShots,0.9080000305175782,0.5329999923706055,0.11291900277137756,Thomas Müller,h,224,OpenPlay,2015,RightFoot,1049,Bayern Munich,Augsburg,2,1,2015-09-12 17:30:00,Douglas Costa,Pass
+76764,76,SavedShot,0.9269999694824219,0.6309999847412109,0.3582350015640259,Thomas Müller,h,224,OpenPlay,2015,RightFoot,1049,Bayern Munich,Augsburg,2,1,2015-09-12 17:30:00,Robert Lewandowski,Pass
+76767,89,Goal,0.885,0.5,0.7577769756317139,Thomas Müller,h,224,Penalty,2015,RightFoot,1049,Bayern Munich,Augsburg,2,1,2015-09-12 17:30:00,,Standard
+77210,15,MissedShots,0.789000015258789,0.5540000152587891,0.035028599202632904,Thomas Müller,h,224,OpenPlay,2015,RightFoot,1066,Bayern Munich,Wolfsburg,5,1,2015-09-22 22:00:00,Mario Götze,Pass
+77227,67,SavedShot,0.8490000152587891,0.475,0.07025949656963348,Thomas Müller,h,224,SetPiece,2015,RightFoot,1066,Bayern Munich,Wolfsburg,5,1,2015-09-22 22:00:00,,Rebound
+77231,87,MissedShots,0.8159999847412109,0.4779999923706055,0.08788909763097763,Thomas Müller,h,224,OpenPlay,2015,RightFoot,1066,Bayern Munich,Wolfsburg,5,1,2015-09-22 22:00:00,Robert Lewandowski,Pass
+77668,3,MissedShots,0.865999984741211,0.5479999923706055,0.04598649963736534,Thomas Müller,a,224,FromCorner,2015,LeftFoot,1076,Mainz 05,Bayern Munich,0,3,2015-09-26 17:30:00,Douglas Costa,Cross
+77669,20,MissedShots,0.885,0.5,0.7577769756317139,Thomas Müller,a,224,Penalty,2015,RightFoot,1076,Mainz 05,Bayern Munich,0,3,2015-09-26 17:30:00,,Standard
+77676,39,SavedShot,0.71,0.4129999923706055,0.019273800775408745,Thomas Müller,a,224,OpenPlay,2015,RightFoot,1076,Mainz 05,Bayern Munich,0,3,2015-09-26 17:30:00,Philipp Lahm,Pass
+77696,25,Goal,0.855999984741211,0.48700000762939455,0.2900179922580719,Thomas Müller,h,224,OpenPlay,2015,LeftFoot,1092,Bayern Munich,Borussia Dortmund,5,1,2015-10-04 19:30:00,Jérôme Boateng,Chipped
+77697,34,Goal,0.885,0.5,0.7577769756317139,Thomas Müller,h,224,Penalty,2015,RightFoot,1092,Bayern Munich,Borussia Dortmund,5,1,2015-10-04 19:30:00,,Standard
+78056,22,Goal,0.9790000152587891,0.5459999847412109,0.6202690005302429,Thomas Müller,a,224,OpenPlay,2015,LeftFoot,1095,Werder Bremen,Bayern Munich,0,1,2015-10-17 17:30:00,Thiago Alcántara,Chipped
+78061,49,MissedShots,0.9490000152587891,0.5359999847412109,0.5569030046463013,Thomas Müller,a,224,OpenPlay,2015,RightFoot,1095,Werder Bremen,Bayern Munich,0,1,2015-10-17 17:30:00,Juan Bernat,Cross
+78063,56,MissedShots,0.8719999694824219,0.435,0.04126850143074989,Thomas Müller,a,224,OpenPlay,2015,Head,1095,Werder Bremen,Bayern Munich,0,1,2015-10-17 17:30:00,Rafinha,Cross
+78149,10,SavedShot,0.88,0.5779999923706055,0.2676439881324768,Thomas Müller,h,224,OpenPlay,2015,LeftFoot,1107,Bayern Munich,FC Cologne,4,0,2015-10-24 17:30:00,Robert Lewandowski,LayOff
+78175,76,Goal,0.885,0.5,0.7577769756317139,Thomas Müller,h,224,Penalty,2015,RightFoot,1107,Bayern Munich,FC Cologne,4,0,2015-10-24 17:30:00,,Standard
+78630,15,SavedShot,0.9530000305175781,0.34900001525878904,0.09735620021820068,Thomas Müller,h,224,OpenPlay,2015,RightFoot,1125,Bayern Munich,VfB Stuttgart,4,0,2015-11-07 18:30:00,Arjen Robben,Pass
+78638,29,MissedShots,0.9130000305175782,0.5590000152587891,0.02519880048930645,Thomas Müller,h,224,FromCorner,2015,Head,1125,Bayern Munich,VfB Stuttgart,4,0,2015-11-07 18:30:00,Douglas Costa,Aerial
+78648,39,Goal,0.975999984741211,0.5129999923706055,0.8359450101852417,Thomas Müller,h,224,OpenPlay,2015,Head,1125,Bayern Munich,VfB Stuttgart,4,0,2015-11-07 18:30:00,,Rebound
+78870,37,BlockedShot,0.8430000305175781,0.51,0.09285710006952286,Thomas Müller,a,224,OpenPlay,2015,RightFoot,1135,Schalke 04,Bayern Munich,1,3,2015-11-21 21:30:00,Arjen Robben,Pass
+78871,42,SavedShot,0.8809999847412109,0.6480000305175782,0.05102819949388504,Thomas Müller,a,224,FromCorner,2015,RightFoot,1135,Schalke 04,Bayern Munich,1,3,2015-11-21 21:30:00,Arturo Vidal,Pass
+78875,56,SavedShot,0.7380000305175781,0.6430000305175781,0.02103010006248951,Thomas Müller,a,224,OpenPlay,2015,RightFoot,1135,Schalke 04,Bayern Munich,1,3,2015-11-21 21:30:00,Arturo Vidal,Pass
+78888,91,Goal,0.9159999847412109,0.664000015258789,0.07965140044689178,Thomas Müller,a,224,OpenPlay,2015,LeftFoot,1135,Schalke 04,Bayern Munich,1,3,2015-11-21 21:30:00,Joshua Kimmich,Chipped
+79106,33,Goal,0.975999984741211,0.5420000076293945,0.5641130208969116,Thomas Müller,h,224,FromCorner,2015,Head,1142,Bayern Munich,Hertha Berlin,2,0,2015-11-28 18:30:00,Medhi Benatia,Rebound
+79118,54,MissedShots,0.8680000305175781,0.5729999923706055,0.6511330008506775,Thomas Müller,h,224,OpenPlay,2015,LeftFoot,1142,Bayern Munich,Hertha Berlin,2,0,2015-11-28 18:30:00,,TakeOn
+79372,18,SavedShot,0.87,0.36900001525878906,0.08288589864969254,Thomas Müller,a,224,OpenPlay,2015,RightFoot,1148,Borussia M.Gladbach,Bayern Munich,3,1,2015-12-05 18:30:00,Arturo Vidal,Pass
+79600,12,MissedShots,0.884000015258789,0.060999999046325686,0.009053129702806473,Thomas Müller,h,224,OpenPlay,2015,RightFoot,1161,Bayern Munich,Ingolstadt,2,0,2015-12-12 18:30:00,Joshua Kimmich,Chipped
+79614,62,SavedShot,0.9490000152587891,0.31799999237060544,0.06919209659099579,Thomas Müller,h,224,OpenPlay,2015,RightFoot,1161,Bayern Munich,Ingolstadt,2,0,2015-12-12 18:30:00,Robert Lewandowski,TakeOn
+79615,63,SavedShot,0.774000015258789,0.34799999237060547,0.025469200685620308,Thomas Müller,h,224,OpenPlay,2015,RightFoot,1161,Bayern Munich,Ingolstadt,2,0,2015-12-12 18:30:00,Jérôme Boateng,Pass
+79617,71,MissedShots,0.8980000305175782,0.29200000762939454,0.03503450006246567,Thomas Müller,h,224,FromCorner,2015,RightFoot,1161,Bayern Munich,Ingolstadt,2,0,2015-12-12 18:30:00,Thiago Alcántara,Pass
+80002,24,BlockedShot,0.84,0.509000015258789,0.030053099617362022,Thomas Müller,a,224,SetPiece,2015,RightFoot,1170,Hannover 96,Bayern Munich,0,1,2015-12-19 18:30:00,Arturo Vidal,Cross
+80005,29,SavedShot,0.9259999847412109,0.40799999237060547,0.3806830048561096,Thomas Müller,a,224,OpenPlay,2015,RightFoot,1170,Hannover 96,Bayern Munich,0,1,2015-12-19 18:30:00,,Rebound
+80008,33,MissedShots,0.8769999694824219,0.49599998474121093,0.12001200020313263,Thomas Müller,a,224,OpenPlay,2015,LeftFoot,1170,Hannover 96,Bayern Munich,0,1,2015-12-19 18:30:00,Thiago Alcántara,Pass
+80011,39,Goal,0.885,0.5,0.7577769756317139,Thomas Müller,a,224,Penalty,2015,RightFoot,1170,Hannover 96,Bayern Munich,0,1,2015-12-19 18:30:00,,Standard
+80021,79,SavedShot,0.7859999847412109,0.595999984741211,0.040490999817848206,Thomas Müller,a,224,OpenPlay,2015,RightFoot,1170,Hannover 96,Bayern Munich,0,1,2015-12-19 18:30:00,Xabi Alonso,Pass
+80122,42,MissedShots,0.9169999694824219,0.539000015258789,0.05522890016436577,Thomas Müller,a,224,SetPiece,2015,Head,1174,Hamburger SV,Bayern Munich,1,2,2016-01-22 23:30:00,Thiago Alcántara,Aerial
+80132,60,MissedShots,0.8119999694824219,0.48900001525878906,0.03688019886612892,Thomas Müller,a,224,OpenPlay,2015,RightFoot,1174,Hamburger SV,Bayern Munich,1,2,2016-01-22 23:30:00,Javi Martínez,HeadPass
+80294,12,BlockedShot,0.8880000305175781,0.3,0.047297101467847824,Thomas Müller,h,224,OpenPlay,2015,RightFoot,1191,Bayern Munich,Hoffenheim,2,0,2016-01-31 20:30:00,,None
+80295,16,SavedShot,0.8490000152587891,0.509000015258789,0.07116050273180008,Thomas Müller,h,224,OpenPlay,2015,LeftFoot,1191,Bayern Munich,Hoffenheim,2,0,2016-01-31 20:30:00,,None
+80296,18,BlockedShot,0.9,0.34299999237060547,0.062100600451231,Thomas Müller,h,224,OpenPlay,2015,LeftFoot,1191,Bayern Munich,Hoffenheim,2,0,2016-01-31 20:30:00,Joshua Kimmich,BallRecovery
+80301,39,SavedShot,0.7090000152587891,0.4129999923706055,0.019196899607777596,Thomas Müller,h,224,OpenPlay,2015,RightFoot,1191,Bayern Munich,Hoffenheim,2,0,2016-01-31 20:30:00,Xabi Alonso,HeadPass
+80306,51,SavedShot,0.9080000305175782,0.15600000381469725,0.02656880021095276,Thomas Müller,h,224,OpenPlay,2015,RightFoot,1191,Bayern Munich,Hoffenheim,2,0,2016-01-31 20:30:00,Philipp Lahm,Pass
+80310,54,MissedShots,0.915,0.605999984741211,0.014743399806320667,Thomas Müller,h,224,FromCorner,2015,Head,1191,Bayern Munich,Hoffenheim,2,0,2016-01-31 20:30:00,Douglas Costa,Aerial
+80553,63,MissedShots,0.894000015258789,0.42400001525878905,0.3851580023765564,Thomas Müller,a,224,OpenPlay,2015,LeftFoot,1198,Bayer Leverkusen,Bayern Munich,0,0,2016-02-06 21:30:00,Kingsley Coman,Pass
+80554,64,MissedShots,0.875999984741211,0.5379999923706055,0.36233600974082947,Thomas Müller,a,224,OpenPlay,2015,LeftFoot,1198,Bayer Leverkusen,Bayern Munich,0,0,2016-02-06 21:30:00,Douglas Costa,Pass
+80556,72,BlockedShot,0.8619999694824219,0.5670000076293945,0.09604699909687042,Thomas Müller,a,224,OpenPlay,2015,RightFoot,1198,Bayer Leverkusen,Bayern Munich,0,0,2016-02-06 21:30:00,David Alaba,Pass
+80846,37,BlockedShot,0.8390000152587891,0.5320000076293945,0.07834039628505707,Thomas Müller,a,224,OpenPlay,2015,LeftFoot,1209,Augsburg,Bayern Munich,1,3,2016-02-14 20:30:00,,Rebound
+80860,74,BlockedShot,0.879000015258789,0.305,0.07735569775104523,Thomas Müller,a,224,OpenPlay,2015,RightFoot,1209,Augsburg,Bayern Munich,1,3,2016-02-14 20:30:00,,TakeOn
+80863,77,Goal,0.9169999694824219,0.4640000152587891,0.5536569952964783,Thomas Müller,a,224,OpenPlay,2015,RightFoot,1209,Augsburg,Bayern Munich,1,3,2016-02-14 20:30:00,Douglas Costa,Pass
+80989,39,SavedShot,0.7809999847412109,0.504000015258789,0.03664660081267357,Thomas Müller,h,224,OpenPlay,2015,LeftFoot,1211,Bayern Munich,Darmstadt,3,1,2016-02-20 18:30:00,Arjen Robben,Pass
+80994,48,Goal,0.91,0.435,0.09310790151357651,Thomas Müller,h,224,OpenPlay,2015,RightFoot,1211,Bayern Munich,Darmstadt,3,1,2016-02-20 18:30:00,Rafinha,Chipped
+80997,51,BlockedShot,0.7880000305175782,0.36900001525878906,0.015300200320780277,Thomas Müller,h,224,FromCorner,2015,RightFoot,1211,Bayern Munich,Darmstadt,3,1,2016-02-20 18:30:00,,Aerial
+80999,53,MissedShots,0.95,0.565,0.05675119906663895,Thomas Müller,h,224,FromCorner,2015,Head,1211,Bayern Munich,Darmstadt,3,1,2016-02-20 18:30:00,Franck Ribéry,Aerial
+81011,70,Goal,0.9159999847412109,0.4640000152587891,0.10489299893379211,Thomas Müller,h,224,OpenPlay,2015,RightFoot,1211,Bayern Munich,Darmstadt,3,1,2016-02-20 18:30:00,Arturo Vidal,Chipped
+81252,25,SavedShot,0.7780000305175782,0.36400001525878906,0.022159399464726448,Thomas Müller,a,224,OpenPlay,2015,RightFoot,1221,Wolfsburg,Bayern Munich,0,2,2016-02-27 18:30:00,,None
+81260,56,BlockedShot,0.865999984741211,0.5420000076293945,0.10629899799823761,Thomas Müller,a,224,OpenPlay,2015,RightFoot,1221,Wolfsburg,Bayern Munich,0,2,2016-02-27 18:30:00,Kingsley Coman,Pass
+81470,90,BlockedShot,0.9,0.46,0.11564499884843826,Thomas Müller,h,224,OpenPlay,2015,RightFoot,1233,Bayern Munich,Mainz 05,1,2,2016-03-02 23:00:00,Arjen Robben,Pass
+81677,4,MissedShots,0.8469999694824218,0.4540000152587891,0.06681379675865173,Thomas Müller,a,224,OpenPlay,2015,RightFoot,1243,Borussia Dortmund,Bayern Munich,0,0,2016-03-05 21:30:00,,None
+81684,32,BlockedShot,0.9119999694824219,0.6079999923706054,0.013290000148117542,Thomas Müller,a,224,FromCorner,2015,Head,1243,Borussia Dortmund,Bayern Munich,0,0,2016-03-05 21:30:00,Xabi Alonso,Aerial
+81701,85,MissedShots,0.8080000305175781,0.48200000762939454,0.049232400953769684,Thomas Müller,a,224,OpenPlay,2015,LeftFoot,1243,Borussia Dortmund,Bayern Munich,0,0,2016-03-05 21:30:00,,None
+81703,88,MissedShots,0.8190000152587891,0.605999984741211,0.05396899953484535,Thomas Müller,a,224,OpenPlay,2015,RightFoot,1243,Borussia Dortmund,Bayern Munich,0,0,2016-03-05 21:30:00,Arjen Robben,Pass
+81941,30,Goal,0.95,0.4470000076293945,0.14177200198173523,Thomas Müller,h,224,OpenPlay,2015,RightFoot,1252,Bayern Munich,Werder Bremen,5,0,2016-03-12 21:30:00,Kingsley Coman,Chipped
+81943,38,SavedShot,0.9919999694824219,0.6329999923706054,0.0984233021736145,Thomas Müller,h,224,OpenPlay,2015,RightFoot,1252,Bayern Munich,Werder Bremen,5,0,2016-03-12 21:30:00,Philipp Lahm,Chipped
+81952,65,Goal,0.950999984741211,0.575,0.48142799735069275,Thomas Müller,h,224,FromCorner,2015,LeftFoot,1252,Bayern Munich,Werder Bremen,5,0,2016-03-12 21:30:00,,Rebound
+82404,38,SavedShot,0.87,0.5940000152587891,0.009427069686353207,Thomas Müller,h,224,SetPiece,2015,Head,1265,Bayern Munich,Eintracht Frankfurt,1,0,2016-04-02 17:30:00,Philipp Lahm,Aerial
+82406,49,BlockedShot,0.8930000305175781,0.48,0.07947880029678345,Thomas Müller,h,224,SetPiece,2015,RightFoot,1265,Bayern Munich,Eintracht Frankfurt,1,0,2016-04-02 17:30:00,,None
+82419,89,SavedShot,0.8930000305175781,0.5879999923706055,0.11768899857997894,Thomas Müller,h,224,OpenPlay,2015,RightFoot,1265,Bayern Munich,Eintracht Frankfurt,1,0,2016-04-02 17:30:00,Franck Ribéry,Pass
+82722,85,BlockedShot,0.8219999694824218,0.7519999694824219,0.028791699558496475,Thomas Müller,a,224,OpenPlay,2015,RightFoot,1276,VfB Stuttgart,Bayern Munich,1,3,2016-04-09 17:30:00,Xabi Alonso,Pass
+83288,4,BlockedShot,0.915,0.26600000381469724,0.029517799615859985,Thomas Müller,h,224,OpenPlay,2015,LeftFoot,1305,Bayern Munich,Borussia M.Gladbach,1,1,2016-04-30 17:30:00,Jérôme Boateng,TakeOn
+83289,5,Goal,0.8830000305175781,0.5729999923706055,0.028773099184036255,Thomas Müller,h,224,FromCorner,2015,Head,1305,Bayern Munich,Borussia M.Gladbach,1,1,2016-04-30 17:30:00,Joshua Kimmich,Cross
+83292,32,SavedShot,0.749000015258789,0.515,0.030698100104928017,Thomas Müller,h,224,OpenPlay,2015,RightFoot,1305,Bayern Munich,Borussia M.Gladbach,1,1,2016-04-30 17:30:00,Mario Götze,Pass
+83294,44,BlockedShot,0.789000015258789,0.49900001525878906,0.043353501707315445,Thomas Müller,h,224,OpenPlay,2015,LeftFoot,1305,Bayern Munich,Borussia M.Gladbach,1,1,2016-04-30 17:30:00,Mario Götze,Pass
+83706,17,MissedShots,0.8059999847412109,0.4809999847412109,0.06311900168657303,Thomas Müller,a,224,OpenPlay,2015,RightFoot,1317,Ingolstadt,Bayern Munich,1,2,2016-05-07 17:30:00,David Alaba,Pass
+83707,19,SavedShot,0.7619999694824219,0.6020000076293945,0.03011159971356392,Thomas Müller,a,224,OpenPlay,2015,LeftFoot,1317,Ingolstadt,Bayern Munich,1,2,2016-05-07 17:30:00,Robert Lewandowski,Pass
+83726,60,SavedShot,0.9230000305175782,0.3840000152587891,0.38024601340293884,Thomas Müller,a,224,OpenPlay,2015,RightFoot,1317,Ingolstadt,Bayern Munich,1,2,2016-05-07 17:30:00,Thiago Alcántara,Pass
+127429,6,BlockedShot,0.8730000305175781,0.47200000762939454,0.11476899683475494,Thomas Müller,h,224,OpenPlay,2016,RightFoot,1327,Bayern Munich,Werder Bremen,6,0,2016-08-26 22:30:00,Philipp Lahm,Pass
+127432,10,SavedShot,0.91,0.42700000762939455,0.1349170058965683,Thomas Müller,h,224,OpenPlay,2016,RightFoot,1327,Bayern Munich,Werder Bremen,6,0,2016-08-26 22:30:00,Philipp Lahm,Pass
+127437,30,SavedShot,0.89,0.36700000762939455,0.11036299914121628,Thomas Müller,h,224,OpenPlay,2016,RightFoot,1327,Bayern Munich,Werder Bremen,6,0,2016-08-26 22:30:00,Thiago Alcántara,Chipped
+127438,31,ShotOnPost,0.685,0.54,0.01870569959282875,Thomas Müller,h,224,OpenPlay,2016,RightFoot,1327,Bayern Munich,Werder Bremen,6,0,2016-08-26 22:30:00,David Alaba,Pass
+127451,70,BlockedShot,0.89,0.3659999847412109,0.10459300130605698,Thomas Müller,h,224,OpenPlay,2016,LeftFoot,1327,Bayern Munich,Werder Bremen,6,0,2016-08-26 22:30:00,Thiago Alcántara,Chipped
+127459,89,MissedShots,0.8930000305175781,0.595999984741211,0.015483000315725803,Thomas Müller,h,224,FromCorner,2016,Head,1327,Bayern Munich,Werder Bremen,6,0,2016-08-26 22:30:00,Arturo Vidal,Aerial
+127775,45,MissedShots,0.9290000152587891,0.39,0.05299989879131317,Thomas Müller,a,224,OpenPlay,2016,Head,1336,Schalke 04,Bayern Munich,0,2,2016-09-09 22:30:00,Robert Lewandowski,Cross
+127788,86,MissedShots,0.9059999847412109,0.4909999847412109,0.1273140013217926,Thomas Müller,a,224,OpenPlay,2016,Head,1336,Schalke 04,Bayern Munich,0,2,2016-09-09 22:30:00,David Alaba,Cross
+128400,2,MissedShots,0.91,0.524000015258789,0.488209992647171,Thomas Müller,h,224,OpenPlay,2016,LeftFoot,1360,Bayern Munich,Hertha Berlin,3,0,2016-09-21 22:00:00,Robert Lewandowski,Pass
+128409,40,MissedShots,0.9269999694824219,0.4620000076293945,0.1289069950580597,Thomas Müller,h,224,OpenPlay,2016,RightFoot,1360,Bayern Munich,Hertha Berlin,3,0,2016-09-21 22:00:00,Franck Ribéry,Chipped
+128703,56,MissedShots,0.92,0.5879999923706055,0.051610998809337616,Thomas Müller,a,224,FromCorner,2016,Head,1366,Hamburger SV,Bayern Munich,0,1,2016-09-24 17:30:00,Thiago Alcántara,Cross
+128712,78,SavedShot,0.889000015258789,0.31799999237060544,0.05412150174379349,Thomas Müller,a,224,OpenPlay,2016,RightFoot,1366,Hamburger SV,Bayern Munich,0,1,2016-09-24 17:30:00,Robert Lewandowski,Chipped
+128832,49,MissedShots,0.8730000305175781,0.6370000076293946,0.08545369654893875,Thomas Müller,h,224,OpenPlay,2016,LeftFoot,1373,Bayern Munich,FC Cologne,1,1,2016-10-01 17:30:00,Juan Bernat,Pass
+128838,75,MissedShots,0.9259999847412109,0.519000015258789,0.11431299895048141,Thomas Müller,h,224,FromCorner,2016,Head,1373,Bayern Munich,FC Cologne,1,1,2016-10-01 17:30:00,Xabi Alonso,Cross
+128839,76,SavedShot,0.9169999694824219,0.5179999923706055,0.29468199610710144,Thomas Müller,h,224,FromCorner,2016,RightFoot,1373,Bayern Munich,FC Cologne,1,1,2016-10-01 17:30:00,Xabi Alonso,Cross
+128842,84,BlockedShot,0.9169999694824219,0.27700000762939453,0.03835099935531616,Thomas Müller,h,224,OpenPlay,2016,RightFoot,1373,Bayern Munich,FC Cologne,1,1,2016-10-01 17:30:00,Juan Bernat,Pass
+129281,80,MissedShots,0.735,0.4129999923706055,0.018507100641727448,Thomas Müller,a,224,OpenPlay,2016,RightFoot,1386,Eintracht Frankfurt,Bayern Munich,2,2,2016-10-15 17:30:00,Joshua Kimmich,Pass
+129284,89,MissedShots,0.889000015258789,0.46700000762939453,0.09265460073947906,Thomas Müller,a,224,OpenPlay,2016,LeftFoot,1386,Eintracht Frankfurt,Bayern Munich,2,2,2016-10-15 17:30:00,David Alaba,Cross
+129544,79,SavedShot,0.8969999694824219,0.46900001525878904,0.045629698783159256,Thomas Müller,h,224,OpenPlay,2016,Head,2809,Bayern Munich,Hoffenheim,1,1,2016-11-05 18:30:00,,None
+129550,91,ShotOnPost,0.9259999847412109,0.4909999847412109,0.47609999775886536,Thomas Müller,h,224,OpenPlay,2016,LeftFoot,2809,Bayern Munich,Hoffenheim,1,1,2016-11-05 18:30:00,Kingsley Coman,HeadPass
+129789,84,MissedShots,0.8830000305175781,0.5770000076293945,0.015146099962294102,Thomas Müller,a,224,OpenPlay,2016,Head,2821,Borussia Dortmund,Bayern Munich,1,0,2016-11-19 21:30:00,Mats Hummels,Aerial
+130848,8,MissedShots,0.9119999694824219,0.5829999923706055,0.08663900196552277,Thomas Müller,h,224,OpenPlay,2016,RightFoot,2830,Bayern Munich,Bayer Leverkusen,2,1,2016-11-26 21:30:00,Thiago Alcántara,HeadPass
+130441,12,SavedShot,0.875999984741211,0.46599998474121096,0.29739999771118164,Thomas Müller,a,224,OpenPlay,2016,RightFoot,3192,Mainz 05,Bayern Munich,1,3,2016-12-02 23:30:00,Mats Hummels,Chipped
+130443,19,SavedShot,0.9430000305175781,0.25799999237060545,0.033876001834869385,Thomas Müller,a,224,OpenPlay,2016,RightFoot,3192,Mainz 05,Bayern Munich,1,3,2016-12-02 23:30:00,Franck Ribéry,Chipped
+130452,45,SavedShot,0.7169999694824218,0.4779999923706055,0.020697999745607376,Thomas Müller,a,224,OpenPlay,2016,RightFoot,3192,Mainz 05,Bayern Munich,1,3,2016-12-02 23:30:00,Franck Ribéry,BallTouch
+130878,32,MissedShots,0.9130000305175782,0.5640000152587891,0.03970969840884209,Thomas Müller,h,224,OpenPlay,2016,Head,3206,Bayern Munich,Wolfsburg,5,0,2016-12-10 18:30:00,Robert Lewandowski,Aerial
+130885,57,MissedShots,0.759000015258789,0.57,0.023858999833464622,Thomas Müller,h,224,OpenPlay,2016,RightFoot,3206,Bayern Munich,Wolfsburg,5,0,2016-12-10 18:30:00,Thiago Alcántara,Pass
+130891,75,Goal,0.905,0.46599998474121096,0.5060930252075195,Thomas Müller,h,224,OpenPlay,2016,RightFoot,3206,Bayern Munich,Wolfsburg,5,0,2016-12-10 18:30:00,,Rebound
+131642,53,SavedShot,0.9740000152587891,0.345,0.061108700931072235,Thomas Müller,a,224,OpenPlay,2016,RightFoot,3217,Darmstadt,Bayern Munich,0,1,2016-12-18 18:30:00,Robert Lewandowski,Chipped
+131645,59,MissedShots,0.895,0.515,0.08528749644756317,Thomas Müller,a,224,OpenPlay,2016,Head,3217,Darmstadt,Bayern Munich,0,1,2016-12-18 18:30:00,David Alaba,Cross
+131649,72,MissedShots,0.9259999847412109,0.46799999237060547,0.14209799468517303,Thomas Müller,a,224,OpenPlay,2016,Head,3217,Darmstadt,Bayern Munich,0,1,2016-12-18 18:30:00,David Alaba,Cross
+131326,31,BlockedShot,0.855,0.29100000381469726,0.040326498448848724,Thomas Müller,a,224,OpenPlay,2016,LeftFoot,3735,Werder Bremen,Bayern Munich,1,2,2017-01-28 17:30:00,Arjen Robben,Pass
+132624,46,SavedShot,0.909000015258789,0.38599998474121094,0.32946398854255676,Thomas Müller,a,224,OpenPlay,2016,RightFoot,3753,Ingolstadt,Bayern Munich,0,2,2017-02-11 14:30:00,Robert Lewandowski,TakeOn
+132630,76,MissedShots,0.8959999847412109,0.415,0.04950319975614548,Thomas Müller,a,224,SetPiece,2016,Head,3753,Ingolstadt,Bayern Munich,0,2,2017-02-11 14:30:00,Arjen Robben,Cross
+132081,81,BlockedShot,0.7859999847412109,0.3529999923706055,0.026408100500702858,Thomas Müller,a,224,OpenPlay,2016,LeftFoot,3762,Hertha Berlin,Bayern Munich,1,1,2017-02-18 14:30:00,Arjen Robben,Pass
+132593,21,BlockedShot,0.9540000152587891,0.580999984741211,0.09527009725570679,Thomas Müller,a,224,FromCorner,2016,Head,3778,FC Cologne,Bayern Munich,0,3,2017-03-04 14:30:00,Thiago Alcántara,Cross
+132608,61,BlockedShot,0.9640000152587891,0.3240000152587891,0.06714159995317459,Thomas Müller,a,224,OpenPlay,2016,RightFoot,3778,FC Cologne,Bayern Munich,0,3,2017-03-04 14:30:00,,None
+133487,48,BlockedShot,0.860999984741211,0.3579999923706055,0.3048419952392578,Thomas Müller,h,224,OpenPlay,2016,RightFoot,3786,Bayern Munich,Eintracht Frankfurt,3,0,2017-03-11 14:30:00,Javi Martínez,Chipped
+133492,62,SavedShot,0.925,0.125,0.0295368991792202,Thomas Müller,h,224,OpenPlay,2016,RightFoot,3786,Bayern Munich,Eintracht Frankfurt,3,0,2017-03-11 14:30:00,Arjen Robben,Pass
+134379,30,BlockedShot,0.875999984741211,0.664000015258789,0.05540990084409714,Thomas Müller,a,224,OpenPlay,2016,LeftFoot,3802,Borussia M.Gladbach,Bayern Munich,0,1,2017-03-19 16:30:00,Franck Ribéry,Pass
+134391,62,Goal,0.9319999694824219,0.524000015258789,0.40171900391578674,Thomas Müller,a,224,OpenPlay,2016,LeftFoot,3802,Borussia M.Gladbach,Bayern Munich,0,1,2017-03-19 16:30:00,Thiago Alcántara,Chipped
+132839,1,MissedShots,0.7369999694824219,0.6020000076293945,0.018749000504612923,Thomas Müller,h,224,OpenPlay,2016,RightFoot,3805,Bayern Munich,Augsburg,6,0,2017-04-01 14:30:00,Robert Lewandowski,Pass
+132845,27,ShotOnPost,0.75,0.39799999237060546,0.02703390084207058,Thomas Müller,h,224,OpenPlay,2016,RightFoot,3805,Bayern Munich,Augsburg,6,0,2017-04-01 14:30:00,Thiago Alcántara,Pass
+132846,33,ShotOnPost,0.7730000305175782,0.6869999694824219,0.021232599392533302,Thomas Müller,h,224,OpenPlay,2016,RightFoot,3805,Bayern Munich,Augsburg,6,0,2017-04-01 14:30:00,Franck Ribéry,Pass
+132847,35,Goal,0.9569999694824218,0.505,0.6103670001029968,Thomas Müller,h,224,OpenPlay,2016,RightFoot,3805,Bayern Munich,Augsburg,6,0,2017-04-01 14:30:00,Robert Lewandowski,Chipped
+132856,68,MissedShots,0.7880000305175782,0.3609999847412109,0.0316229984164238,Thomas Müller,h,224,OpenPlay,2016,LeftFoot,3805,Bayern Munich,Augsburg,6,0,2017-04-01 14:30:00,Arjen Robben,Pass
+132857,70,BlockedShot,0.9059999847412109,0.5570000076293945,0.13216200470924377,Thomas Müller,h,224,OpenPlay,2016,RightFoot,3805,Bayern Munich,Augsburg,6,0,2017-04-01 14:30:00,Juan Bernat,Chipped
+132860,78,SavedShot,0.9169999694824219,0.4759999847412109,0.213687002658844,Thomas Müller,h,224,FromCorner,2016,Head,3805,Bayern Munich,Augsburg,6,0,2017-04-01 14:30:00,Jérôme Boateng,Chipped
+132862,79,Goal,0.9290000152587891,0.4470000076293945,0.13205799460411072,Thomas Müller,h,224,OpenPlay,2016,RightFoot,3805,Bayern Munich,Augsburg,6,0,2017-04-01 14:30:00,Jérôme Boateng,Chipped
+135023,53,MissedShots,0.9540000152587891,0.43900001525878907,0.14286300539970398,Thomas Müller,a,224,OpenPlay,2016,LeftFoot,3831,Bayer Leverkusen,Bayern Munich,0,0,2017-04-15 17:30:00,Douglas Costa,Pass
+135028,64,BlockedShot,0.894000015258789,0.57,0.12042099982500076,Thomas Müller,a,224,OpenPlay,2016,RightFoot,3831,Bayer Leverkusen,Bayern Munich,0,0,2017-04-15 17:30:00,Kingsley Coman,Pass
+133307,28,SavedShot,0.925,0.40400001525878904,0.04938320070505142,Thomas Müller,h,224,FromCorner,2016,Head,3839,Bayern Munich,Mainz 05,2,2,2017-04-22 14:30:00,Franck Ribéry,Cross
+133308,32,MissedShots,0.8130000305175781,0.2720000076293945,0.044130001217126846,Thomas Müller,h,224,OpenPlay,2016,RightFoot,3839,Bayern Munich,Mainz 05,2,2,2017-04-22 14:30:00,Arjen Robben,Pass
+133326,85,MissedShots,0.875999984741211,0.425,0.018385300412774086,Thomas Müller,h,224,OpenPlay,2016,Head,3839,Bayern Munich,Mainz 05,2,2,2017-04-22 14:30:00,Robert Lewandowski,Aerial
+134406,21,SavedShot,0.9540000152587891,0.649000015258789,0.08700419962406158,Thomas Müller,a,224,OpenPlay,2016,LeftFoot,3854,Wolfsburg,Bayern Munich,0,6,2017-04-29 17:30:00,,Rebound
+134423,79,Goal,0.8919999694824219,0.5220000076293946,0.43782898783683777,Thomas Müller,a,224,SetPiece,2016,LeftFoot,3854,Wolfsburg,Bayern Munich,0,6,2017-04-29 17:30:00,,Rebound
+134426,88,SavedShot,0.9269999694824219,0.52,0.42983999848365784,Thomas Müller,a,224,OpenPlay,2016,Head,3854,Wolfsburg,Bayern Munich,0,6,2017-04-29 17:30:00,Rafinha,Cross
+134787,19,SavedShot,0.9219999694824219,0.44299999237060544,0.11882200092077255,Thomas Müller,h,224,OpenPlay,2016,RightFoot,3859,Bayern Munich,Darmstadt,1,0,2017-05-06 14:30:00,Franck Ribéry,Cross
+134789,25,SavedShot,0.8919999694824219,0.445,0.09590929746627808,Thomas Müller,h,224,OpenPlay,2016,Head,3859,Bayern Munich,Darmstadt,1,0,2017-05-06 14:30:00,Rafinha,Cross
+134791,28,MissedShots,0.794000015258789,0.35200000762939454,0.03653179854154587,Thomas Müller,h,224,OpenPlay,2016,LeftFoot,3859,Bayern Munich,Darmstadt,1,0,2017-05-06 14:30:00,Rafinha,Pass
+133670,93,SavedShot,0.8780000305175781,0.455,0.04078260064125061,Thomas Müller,a,224,OpenPlay,2016,Head,3874,RasenBallsport Leipzig,Bayern Munich,4,5,2017-05-13 14:30:00,Jérôme Boateng,Chipped
+128119,11,SavedShot,0.915,0.39799999237060546,0.10210300236940384,Thomas Müller,h,224,OpenPlay,2016,RightFoot,3883,Bayern Munich,Freiburg,4,1,2017-05-20 14:30:00,David Alaba,Chipped
+128125,18,MissedShots,0.895,0.5109999847412109,0.061606600880622864,Thomas Müller,h,224,FromCorner,2016,Head,3883,Bayern Munich,Freiburg,4,1,2017-05-20 14:30:00,Xabi Alonso,Cross
+128127,25,BlockedShot,0.8580000305175781,0.44299999237060544,0.11037400364875793,Thomas Müller,h,224,OpenPlay,2016,RightFoot,3883,Bayern Munich,Freiburg,4,1,2017-05-20 14:30:00,Arturo Vidal,Pass
+128154,71,BlockedShot,0.8209999847412109,0.4620000076293945,0.08225859701633453,Thomas Müller,h,224,OpenPlay,2016,LeftFoot,3883,Bayern Munich,Freiburg,4,1,2017-05-20 14:30:00,Arturo Vidal,Pass
+165769,26,SavedShot,0.935,0.5790000152587891,0.47324299812316895,Thomas Müller,h,224,OpenPlay,2017,LeftFoot,8259,Bayern Munich,Bayer Leverkusen,3,1,2017-08-18 19:30:00,Franck Ribéry,Pass
+166093,73,SavedShot,0.889000015258789,0.395,0.09274119883775711,Thomas Müller,a,224,OpenPlay,2017,RightFoot,8269,Werder Bremen,Bayern Munich,0,2,2017-08-26 14:30:00,Corentin Tolisso,Chipped
+166236,38,BlockedShot,0.9319999694824219,0.544000015258789,0.10574600100517273,Thomas Müller,a,224,OpenPlay,2017,LeftFoot,8283,Hoffenheim,Bayern Munich,2,0,2017-09-09 17:30:00,Robert Lewandowski,HeadPass
+166244,58,MissedShots,0.8959999847412109,0.28100000381469725,0.03468399867415428,Thomas Müller,a,224,OpenPlay,2017,RightFoot,8283,Hoffenheim,Bayern Munich,2,0,2017-09-09 17:30:00,Arjen Robben,Pass
+166250,72,MissedShots,0.95,0.6619999694824219,0.013651000335812569,Thomas Müller,a,224,FromCorner,2017,Head,8283,Hoffenheim,Bayern Munich,2,0,2017-09-09 17:30:00,Joshua Kimmich,Cross
+166464,10,Goal,0.8690000152587891,0.46099998474121096,0.1070299968123436,Thomas Müller,h,224,OpenPlay,2017,LeftFoot,8289,Bayern Munich,Mainz 05,4,0,2017-09-16 14:30:00,Joshua Kimmich,Pass
+166489,64,MissedShots,0.9269999694824219,0.595999984741211,0.10924000293016434,Thomas Müller,h,224,FromCorner,2017,RightFoot,8289,Bayern Munich,Mainz 05,4,0,2017-09-16 14:30:00,,Rebound
+167018,9,SavedShot,0.9309999847412109,0.6719999694824219,0.06405829638242722,Thomas Müller,a,224,OpenPlay,2017,LeftFoot,8296,Schalke 04,Bayern Munich,0,3,2017-09-19 19:30:00,James Rodríguez,Chipped
+167027,50,ShotOnPost,0.91,0.46700000762939453,0.29986101388931274,Thomas Müller,a,224,OpenPlay,2017,Head,8296,Schalke 04,Bayern Munich,0,3,2017-09-19 19:30:00,James Rodríguez,Cross
+167035,68,MissedShots,0.9319999694824219,0.25,0.08151420205831528,Thomas Müller,a,224,OpenPlay,2017,RightFoot,8296,Schalke 04,Bayern Munich,0,3,2017-09-19 19:30:00,Thiago Alcántara,Chipped
+167322,59,MissedShots,0.8730000305175781,0.49900001525878906,0.05413639917969704,Thomas Müller,h,224,OpenPlay,2017,Head,8304,Bayern Munich,Wolfsburg,2,2,2017-09-22 19:30:00,Joshua Kimmich,Cross
+167328,79,MissedShots,0.715,0.7380000305175781,0.012226300314068794,Thomas Müller,h,224,OpenPlay,2017,RightFoot,8304,Bayern Munich,Wolfsburg,2,2,2017-09-22 19:30:00,Franck Ribéry,HeadPass
+167517,1,BlockedShot,0.895,0.6430000305175781,0.03982330113649368,Thomas Müller,h,224,OpenPlay,2017,RightFoot,8322,Bayern Munich,Freiburg,5,0,2017-10-14 14:30:00,David Alaba,Cross
+168725,6,BlockedShot,0.805,0.22700000762939454,0.013024399988353252,Thomas Müller,h,224,OpenPlay,2017,RightFoot,8376,Bayern Munich,Hannover 96,3,1,2017-12-02 14:30:00,James Rodríguez,HeadPass
+168727,12,SavedShot,0.9409999847412109,0.26399999618530273,0.03572240099310875,Thomas Müller,h,224,OpenPlay,2017,RightFoot,8376,Bayern Munich,Hannover 96,3,1,2017-12-02 14:30:00,James Rodríguez,Pass
+168732,31,MissedShots,0.8780000305175781,0.42400001525878905,0.3744699954986572,Thomas Müller,h,224,OpenPlay,2017,RightFoot,8376,Bayern Munich,Hannover 96,3,1,2017-12-02 14:30:00,Javi Martínez,Throughball
+168736,45,SavedShot,0.919000015258789,0.53,0.34481799602508545,Thomas Müller,h,224,SetPiece,2017,Head,8376,Bayern Munich,Hannover 96,3,1,2017-12-02 14:30:00,James Rodríguez,Cross
+183887,12,SavedShot,0.965,0.59,0.3125529885292053,Thomas Müller,h,224,OpenPlay,2017,LeftFoot,8394,Bayern Munich,FC Cologne,1,0,2017-12-13 19:30:00,Franck Ribéry,Chipped
+183897,37,MissedShots,0.9359999847412109,0.38799999237060545,0.08930300176143646,Thomas Müller,h,224,OpenPlay,2017,Head,8394,Bayern Munich,FC Cologne,1,0,2017-12-13 19:30:00,Niklas Süle,Throughball
+183904,60,MissedShots,0.9290000152587891,0.6,0.04440769925713539,Thomas Müller,h,224,OpenPlay,2017,Head,8394,Bayern Munich,FC Cologne,1,0,2017-12-13 19:30:00,Jérôme Boateng,Aerial
+183876,78,Goal,0.8830000305175781,0.6370000076293946,0.08486510068178177,Thomas Müller,a,224,OpenPlay,2017,LeftFoot,8410,VfB Stuttgart,Bayern Munich,0,1,2017-12-16 14:30:00,Kingsley Coman,Pass
+187140,56,MissedShots,0.7859999847412109,0.5129999923706055,0.07285419851541519,Thomas Müller,a,224,OpenPlay,2017,LeftFoot,8417,Bayer Leverkusen,Bayern Munich,1,3,2018-01-12 19:30:00,Arjen Robben,TakeOn
+189301,12,BlockedShot,0.8190000152587891,0.5070000076293946,0.06993799656629562,Thomas Müller,h,224,OpenPlay,2017,LeftFoot,8421,Bayern Munich,Werder Bremen,4,2,2018-01-21 14:30:00,Juan Bernat,Pass
+189308,40,Goal,0.9230000305175782,0.5370000076293945,0.36212098598480225,Thomas Müller,h,224,OpenPlay,2017,RightFoot,8421,Bayern Munich,Werder Bremen,4,2,2018-01-21 14:30:00,Jérôme Boateng,Chipped
+189322,83,Goal,0.905,0.5279999923706055,0.4883880019187927,Thomas Müller,h,224,OpenPlay,2017,RightFoot,8421,Bayern Munich,Werder Bremen,4,2,2018-01-21 14:30:00,James Rodríguez,Throughball
+194881,69,MissedShots,0.899000015258789,0.38,0.43504399061203003,Thomas Müller,a,224,OpenPlay,2017,RightFoot,8445,Mainz 05,Bayern Munich,0,2,2018-02-03 14:30:00,Corentin Tolisso,Throughball
+194922,5,SavedShot,0.7269999694824218,0.485,0.013837100006639957,Thomas Müller,h,224,OpenPlay,2017,RightFoot,8451,Bayern Munich,Schalke 04,2,1,2018-02-10 17:30:00,,None
+194931,35,Goal,0.98,0.33,0.058097999542951584,Thomas Müller,h,224,OpenPlay,2017,RightFoot,8451,Bayern Munich,Schalke 04,2,1,2018-02-10 17:30:00,Arjen Robben,Pass
+196291,67,BlockedShot,0.8190000152587891,0.5529999923706055,0.06457830220460892,Thomas Müller,a,224,OpenPlay,2017,LeftFoot,8465,Wolfsburg,Bayern Munich,1,2,2018-02-17 14:30:00,Corentin Tolisso,Pass
+196294,72,MissedShots,0.6909999847412109,0.45099998474121095,0.016758199781179428,Thomas Müller,a,224,OpenPlay,2017,RightFoot,8465,Wolfsburg,Bayern Munich,1,2,2018-02-17 14:30:00,Juan Bernat,Pass
+199518,39,MissedShots,0.9540000152587891,0.6569999694824219,0.013916900381445885,Thomas Müller,a,224,FromCorner,2017,Head,8477,Freiburg,Bayern Munich,0,4,2018-03-04 17:00:00,David Alaba,Cross
+199520,45,MissedShots,0.785,0.34599998474121096,0.023078899830579758,Thomas Müller,a,224,OpenPlay,2017,RightFoot,8477,Freiburg,Bayern Munich,0,4,2018-03-04 17:00:00,,None
+199527,68,Goal,0.9530000305175781,0.41200000762939454,0.07839179784059525,Thomas Müller,a,224,FromCorner,2017,RightFoot,8477,Freiburg,Bayern Munich,0,4,2018-03-04 17:00:00,Joshua Kimmich,Cross
+199904,47,MissedShots,0.924000015258789,0.5640000152587891,0.14106500148773193,Thomas Müller,h,224,OpenPlay,2017,LeftFoot,8484,Bayern Munich,Hamburger SV,6,0,2018-03-10 14:30:00,Franck Ribéry,Pass
+204472,2,MissedShots,0.89,0.6780000305175782,0.07529730349779129,Thomas Müller,h,224,OpenPlay,2017,LeftFoot,8502,Bayern Munich,Borussia Dortmund,6,0,2018-03-31 14:30:00,David Alaba,TakeOn
+204484,22,Goal,0.9230000305175782,0.42700000762939455,0.5627689957618713,Thomas Müller,h,224,OpenPlay,2017,RightFoot,8502,Bayern Munich,Borussia Dortmund,6,0,2018-03-31 14:30:00,James Rodríguez,Chipped
+204494,73,BlockedShot,0.745,0.525,0.02106340043246746,Thomas Müller,h,224,OpenPlay,2017,RightFoot,8502,Bayern Munich,Borussia Dortmund,6,0,2018-03-31 14:30:00,,None
+208666,15,MissedShots,0.9180000305175782,0.4,0.2985439896583557,Thomas Müller,h,224,OpenPlay,2017,RightFoot,8520,Bayern Munich,Borussia M.Gladbach,5,1,2018-04-14 16:30:00,Thiago Alcántara,Chipped
+208667,20,SavedShot,0.9290000152587891,0.325,0.010363699868321419,Thomas Müller,h,224,OpenPlay,2017,Head,8520,Bayern Munich,Borussia M.Gladbach,5,1,2018-04-14 16:30:00,Sebastian Rudy,Cross
+208668,24,MissedShots,0.915,0.3509999847412109,0.01694129966199398,Thomas Müller,h,224,OpenPlay,2017,Head,8520,Bayern Munich,Borussia M.Gladbach,5,1,2018-04-14 16:30:00,David Alaba,Cross
+210391,48,MissedShots,0.889000015258789,0.265,0.03905000165104866,Thomas Müller,a,224,OpenPlay,2017,RightFoot,8536,Hannover 96,Bayern Munich,0,3,2018-04-21 13:30:00,Rafinha,TakeOn
+210393,56,Goal,0.875,0.5379999923706055,0.11248300224542618,Thomas Müller,a,224,OpenPlay,2017,LeftFoot,8536,Hannover 96,Bayern Munich,0,3,2018-04-21 13:30:00,Juan Bernat,Pass
+213189,40,SavedShot,0.7730000305175782,0.34200000762939453,0.022755499929189682,Thomas Müller,a,224,OpenPlay,2017,RightFoot,8552,FC Cologne,Bayern Munich,1,3,2018-05-05 14:30:00,Mats Hummels,Pass
+219801,22,Goal,0.9669999694824218,0.5320000076293945,0.4878630042076111,Thomas Müller,h,224,FromCorner,2018,Head,10337,Bayern Munich,Hoffenheim,3,1,2018-08-24 21:30:00,Joshua Kimmich,Aerial
+221919,42,MissedShots,0.97,0.6370000076293946,0.08906330168247223,Thomas Müller,a,224,OpenPlay,2018,LeftFoot,10352,VfB Stuttgart,Bayern Munich,0,3,2018-09-01 16:30:00,,Rebound
+221929,75,Goal,0.8959999847412109,0.5479999923706055,0.13495300710201263,Thomas Müller,a,224,OpenPlay,2018,LeftFoot,10352,VfB Stuttgart,Bayern Munich,0,3,2018-09-01 16:30:00,Robert Lewandowski,Pass
+223374,29,SavedShot,0.7080000305175781,0.4209999847412109,0.019557099789381027,Thomas Müller,h,224,OpenPlay,2018,RightFoot,10360,Bayern Munich,Bayer Leverkusen,3,1,2018-09-15 13:30:00,Corentin Tolisso,Pass
+223377,49,BlockedShot,0.9719999694824218,0.6040000152587891,0.042427901178598404,Thomas Müller,h,224,FromCorner,2018,Head,10360,Bayern Munich,Bayer Leverkusen,3,1,2018-09-15 13:30:00,Joshua Kimmich,Cross
+225392,5,MissedShots,0.8230000305175781,0.5070000076293946,0.06714800000190735,Thomas Müller,a,224,OpenPlay,2018,RightFoot,10370,Schalke 04,Bayern Munich,0,2,2018-09-22 16:30:00,David Alaba,Pass
+225408,66,MissedShots,0.8930000305175781,0.30700000762939456,0.05017369985580444,Thomas Müller,a,224,OpenPlay,2018,RightFoot,10370,Schalke 04,Bayern Munich,0,2,2018-09-22 16:30:00,Franck Ribéry,Cross
+226220,6,MissedShots,0.9309999847412109,0.27700000762939453,0.04351760074496269,Thomas Müller,h,224,OpenPlay,2018,RightFoot,10376,Bayern Munich,Augsburg,1,1,2018-09-25 18:30:00,Serge Gnabry,None
+226235,49,BlockedShot,0.8040000152587891,0.69,0.033681098371744156,Thomas Müller,h,224,OpenPlay,2018,RightFoot,10376,Bayern Munich,Augsburg,1,1,2018-09-25 18:30:00,Mats Hummels,Pass
+227611,55,MissedShots,0.9469999694824218,0.54,0.07170069962739944,Thomas Müller,a,224,FromCorner,2018,Head,10382,Hertha Berlin,Bayern Munich,2,0,2018-09-28 18:30:00,James Rodríguez,Aerial
+255327,11,MissedShots,0.735999984741211,0.40599998474121096,0.01517959963530302,Thomas Müller,h,224,OpenPlay,2018,RightFoot,10391,Bayern Munich,Borussia M.Gladbach,0,3,2018-10-06 16:30:00,,BallRecovery
+255334,40,MissedShots,0.909000015258789,0.435,0.050318699330091476,Thomas Müller,h,224,OpenPlay,2018,Head,10391,Bayern Munich,Borussia M.Gladbach,0,3,2018-10-06 16:30:00,,None
+255733,34,SavedShot,0.9069999694824219,0.15300000190734864,0.016558000817894936,Thomas Müller,a,224,OpenPlay,2018,RightFoot,10415,Mainz 05,Bayern Munich,1,2,2018-10-27 13:30:00,Jérôme Boateng,Chipped
+255741,51,BlockedShot,0.9369999694824219,0.43599998474121093,0.046636298298835754,Thomas Müller,a,224,FromCorner,2018,Head,10415,Mainz 05,Bayern Munich,1,2,2018-10-27 13:30:00,Joshua Kimmich,Aerial
+256356,74,MissedShots,0.8440000152587891,0.33099998474121095,0.046390701085329056,Thomas Müller,a,224,OpenPlay,2018,LeftFoot,10428,Borussia Dortmund,Bayern Munich,3,2,2018-11-10 17:30:00,Joshua Kimmich,Pass
+256433,19,Goal,0.9130000305175782,0.4759999847412109,0.4939649999141693,Thomas Müller,h,224,OpenPlay,2018,RightFoot,10436,Bayern Munich,Fortuna Duesseldorf,3,3,2018-11-24 14:30:00,Jérôme Boateng,Throughball
+256443,57,Goal,0.8130000305175781,0.41,0.06510370224714279,Thomas Müller,h,224,OpenPlay,2018,LeftFoot,10436,Bayern Munich,Fortuna Duesseldorf,3,3,2018-11-24 14:30:00,Robert Lewandowski,Pass
+256692,25,MissedShots,0.9469999694824218,0.5179999923706055,0.5770220160484314,Thomas Müller,a,224,OpenPlay,2018,Head,10450,Werder Bremen,Bayern Munich,1,2,2018-12-01 14:30:00,David Alaba,Cross
+256697,46,BlockedShot,0.865,0.61,0.08450029790401459,Thomas Müller,a,224,OpenPlay,2018,RightFoot,10450,Werder Bremen,Bayern Munich,1,2,2018-12-01 14:30:00,Kingsley Coman,Pass
+256702,55,BlockedShot,0.98,0.5870000076293945,0.0228061992675066,Thomas Müller,a,224,FromCorner,2018,Head,10450,Werder Bremen,Bayern Munich,1,2,2018-12-01 14:30:00,Joshua Kimmich,Aerial
+257011,30,SavedShot,0.8080000305175781,0.24200000762939453,0.03490209951996803,Thomas Müller,h,224,OpenPlay,2018,RightFoot,10454,Bayern Munich,Nuernberg,3,0,2018-12-08 14:30:00,Niklas Süle,Pass
+257020,61,BlockedShot,0.879000015258789,0.6329999923706054,0.11770299822092056,Thomas Müller,h,224,OpenPlay,2018,LeftFoot,10454,Bayern Munich,Nuernberg,3,0,2018-12-08 14:30:00,Robert Lewandowski,LayOff
+256825,19,MissedShots,0.89,0.4520000076293945,0.10546600073575974,Thomas Müller,a,224,OpenPlay,2018,RightFoot,10469,Hannover 96,Bayern Munich,0,4,2018-12-15 14:30:00,Leon Goretzka,Dispossessed
+256833,33,SavedShot,0.985,0.40599998474121096,0.10426999628543854,Thomas Müller,a,224,OpenPlay,2018,RightFoot,10469,Hannover 96,Bayern Munich,0,4,2018-12-15 14:30:00,,None
+256836,38,MissedShots,0.9280000305175782,0.46599998474121096,0.12719400227069855,Thomas Müller,a,224,OpenPlay,2018,Head,10469,Hannover 96,Bayern Munich,0,4,2018-12-15 14:30:00,Joshua Kimmich,Cross
+256843,56,SavedShot,0.9569999694824218,0.6029999923706054,0.05387210100889206,Thomas Müller,a,224,FromCorner,2018,Head,10469,Hannover 96,Bayern Munich,0,4,2018-12-15 14:30:00,Thiago Alcántara,Cross
+256845,58,MissedShots,0.8969999694824219,0.5590000152587891,0.14121000468730927,Thomas Müller,a,224,OpenPlay,2018,RightFoot,10469,Hannover 96,Bayern Munich,0,4,2018-12-15 14:30:00,Kingsley Coman,Pass
+256846,61,SavedShot,0.8159999847412109,0.61,0.0631169006228447,Thomas Müller,a,224,OpenPlay,2018,LeftFoot,10469,Hannover 96,Bayern Munich,0,4,2018-12-15 14:30:00,Kingsley Coman,Pass
+257666,72,MissedShots,0.935,0.575,0.10806000232696533,Thomas Müller,h,224,OpenPlay,2018,RightFoot,10472,Bayern Munich,RasenBallsport Leipzig,1,0,2018-12-19 19:30:00,David Alaba,Cross
+257804,12,SavedShot,0.965999984741211,0.49900001525878906,0.5768920183181763,Thomas Müller,a,224,FromCorner,2018,Head,10487,Eintracht Frankfurt,Bayern Munich,0,3,2018-12-22 17:30:00,,Rebound
+257810,43,ShotOnPost,0.955,0.4540000152587891,0.5252619981765747,Thomas Müller,a,224,OpenPlay,2018,Head,10487,Eintracht Frankfurt,Bayern Munich,0,3,2018-12-22 17:30:00,Robert Lewandowski,Chipped
+257813,61,MissedShots,0.875,0.48200000762939454,0.08374900370836258,Thomas Müller,a,224,OpenPlay,2018,LeftFoot,10487,Eintracht Frankfurt,Bayern Munich,0,3,2018-12-22 17:30:00,David Alaba,Cross
+278241,18,MissedShots,0.9230000305175782,0.5359999847412109,0.1141510009765625,Thomas Müller,a,224,OpenPlay,2018,LeftFoot,10497,Hoffenheim,Bayern Munich,1,3,2019-01-18 19:30:00,Robert Lewandowski,BallTouch
+278795,59,BlockedShot,0.8690000152587891,0.5659999847412109,0.17462100088596344,Thomas Müller,a,224,OpenPlay,2018,RightFoot,10508,Bayer Leverkusen,Bayern Munich,3,1,2019-02-02 14:30:00,Kingsley Coman,TakeOn
+279187,60,SavedShot,0.8569999694824219,0.38599998474121094,0.12401799857616425,Thomas Müller,a,224,OpenPlay,2018,RightFoot,10531,Augsburg,Bayern Munich,2,3,2019-02-15 19:30:00,Robert Lewandowski,BallRecovery
+279422,85,MissedShots,0.9269999694824219,0.43099998474121093,0.49289199709892273,Thomas Müller,h,224,SetPiece,2018,RightFoot,10535,Bayern Munich,Hertha Berlin,1,0,2019-02-23 14:30:00,,Rebound
+279713,10,SavedShot,0.9330000305175781,0.54,0.4609520137310028,Thomas Müller,a,224,OpenPlay,2018,RightFoot,10548,Borussia M.Gladbach,Bayern Munich,1,5,2019-03-02 17:30:00,Serge Gnabry,Cross
+279714,10,Goal,0.985999984741211,0.524000015258789,0.9646369814872742,Thomas Müller,a,224,OpenPlay,2018,RightFoot,10548,Borussia M.Gladbach,Bayern Munich,1,5,2019-03-02 17:30:00,,Rebound
+284442,9,MissedShots,0.7130000305175781,0.37599998474121094,0.017666900530457497,Thomas Müller,h,224,OpenPlay,2018,RightFoot,10553,Bayern Munich,Wolfsburg,6,0,2019-03-09 14:30:00,Thiago Alcántara,Pass
+284457,66,SavedShot,0.925,0.3940000152587891,0.43667298555374146,Thomas Müller,h,224,OpenPlay,2018,RightFoot,10553,Bayern Munich,Wolfsburg,6,0,2019-03-09 14:30:00,James Rodríguez,TakeOn
+284461,75,Goal,0.885,0.43900001525878907,0.13227100670337677,Thomas Müller,h,224,OpenPlay,2018,LeftFoot,10553,Bayern Munich,Wolfsburg,6,0,2019-03-09 14:30:00,Franck Ribéry,Pass
+286966,5,SavedShot,0.9209999847412109,0.46900001525878904,0.10527300089597702,Thomas Müller,h,224,FromCorner,2018,Head,10565,Bayern Munich,Mainz 05,6,0,2019-03-17 17:00:00,James Rodríguez,Cross
+286969,12,BlockedShot,0.7969999694824219,0.40099998474121096,0.047339800745248795,Thomas Müller,h,224,OpenPlay,2018,RightFoot,10565,Bayern Munich,Mainz 05,6,0,2019-03-17 17:00:00,David Alaba,Pass
+287379,19,MissedShots,0.9340000152587891,0.485,0.4837630093097687,Thomas Müller,a,224,OpenPlay,2018,RightFoot,10578,Freiburg,Bayern Munich,1,1,2019-03-30 14:30:00,James Rodríguez,Cross
+287384,28,SavedShot,0.9159999847412109,0.539000015258789,0.08112490177154541,Thomas Müller,a,224,OpenPlay,2018,Head,10578,Freiburg,Bayern Munich,1,1,2019-03-30 14:30:00,Mats Hummels,Chipped
+292139,18,SavedShot,0.9580000305175781,0.549000015258789,0.29339998960494995,Thomas Müller,h,224,FromCorner,2018,Head,10580,Bayern Munich,Borussia Dortmund,5,0,2019-04-06 17:30:00,Thiago Alcántara,Aerial
+292146,39,SavedShot,0.8959999847412109,0.37900001525878907,0.07105690240859985,Thomas Müller,h,224,SetPiece,2018,RightFoot,10580,Bayern Munich,Borussia Dortmund,5,0,2019-04-06 17:30:00,Thiago Alcántara,Chipped
+294219,42,BlockedShot,0.8369999694824218,0.34299999237060547,0.05365850031375885,Thomas Müller,a,224,OpenPlay,2018,LeftFoot,10596,Fortuna Duesseldorf,Bayern Munich,1,4,2019-04-14 14:30:00,Mats Hummels,TakeOn
+295166,21,SavedShot,0.795,0.2989999961853027,0.024740800261497498,Thomas Müller,h,224,OpenPlay,2018,RightFoot,10598,Bayern Munich,Werder Bremen,1,0,2019-04-20 14:30:00,Javi Martínez,Pass
+295184,69,MissedShots,0.9669999694824218,0.43400001525878906,0.40731900930404663,Thomas Müller,h,224,FromCorner,2018,Head,10598,Bayern Munich,Werder Bremen,1,0,2019-04-20 14:30:00,Jérôme Boateng,Cross
+298290,18,MissedShots,0.9159999847412109,0.5379999923706055,0.12053000181913376,Thomas Müller,a,224,OpenPlay,2018,Head,10615,Nuernberg,Bayern Munich,1,1,2019-04-28 17:00:00,Thiago Alcántara,Cross
+298292,22,MissedShots,0.9540000152587891,0.45799999237060546,0.1401430070400238,Thomas Müller,a,224,SetPiece,2018,RightFoot,10615,Nuernberg,Bayern Munich,1,1,2019-04-28 17:00:00,,Rebound
+298293,24,MissedShots,0.8569999694824219,0.27399999618530274,0.03130520135164261,Thomas Müller,a,224,OpenPlay,2018,RightFoot,10615,Nuernberg,Bayern Munich,1,1,2019-04-28 17:00:00,,None
+299241,25,SavedShot,0.9619999694824218,0.42400001525878905,0.5410540103912354,Thomas Müller,h,224,OpenPlay,2018,RightFoot,10616,Bayern Munich,Hannover 96,3,1,2019-05-04 14:30:00,Joshua Kimmich,Pass
+299243,35,SavedShot,0.84,0.29700000762939455,0.06319080293178558,Thomas Müller,h,224,OpenPlay,2018,RightFoot,10616,Bayern Munich,Hannover 96,3,1,2019-05-04 14:30:00,Serge Gnabry,TakeOn
+299251,53,MissedShots,0.9219999694824219,0.575999984741211,0.1381780058145523,Thomas Müller,h,224,OpenPlay,2018,LeftFoot,10616,Bayern Munich,Hannover 96,3,1,2019-05-04 14:30:00,Kingsley Coman,Pass
+299258,77,MissedShots,0.9269999694824219,0.595999984741211,0.0806334987282753,Thomas Müller,h,224,OpenPlay,2018,Head,10616,Bayern Munich,Hannover 96,3,1,2019-05-04 14:30:00,Thiago Alcántara,Cross
+299262,89,SavedShot,0.884000015258789,0.5720000076293945,0.10380099713802338,Thomas Müller,h,224,OpenPlay,2018,RightFoot,10616,Bayern Munich,Hannover 96,3,1,2019-05-04 14:30:00,Arjen Robben,HeadPass
+300788,63,MissedShots,0.9309999847412109,0.504000015258789,0.08262000232934952,Thomas Müller,a,224,OpenPlay,2018,Head,10628,RasenBallsport Leipzig,Bayern Munich,0,0,2019-05-11 14:30:00,David Alaba,Aerial
+300794,76,BlockedShot,0.7380000305175781,0.48400001525878905,0.022891299799084663,Thomas Müller,a,224,OpenPlay,2018,RightFoot,10628,RasenBallsport Leipzig,Bayern Munich,0,0,2019-05-11 14:30:00,Mats Hummels,Pass
+302428,31,SavedShot,0.9030000305175782,0.415,0.42125898599624634,Thomas Müller,h,224,OpenPlay,2018,RightFoot,10635,Bayern Munich,Eintracht Frankfurt,5,1,2019-05-18 13:30:00,Robert Lewandowski,Throughball
+302435,52,SavedShot,0.8059999847412109,0.5729999923706055,0.05096770077943802,Thomas Müller,h,224,OpenPlay,2018,RightFoot,10635,Bayern Munich,Eintracht Frankfurt,5,1,2019-05-18 13:30:00,David Alaba,Pass
+302440,62,MissedShots,0.870999984741211,0.285,0.05413699895143509,Thomas Müller,h,224,OpenPlay,2018,RightFoot,10635,Bayern Munich,Eintracht Frankfurt,5,1,2019-05-18 13:30:00,,BallTouch
+302447,82,SavedShot,0.9059999847412109,0.40299999237060546,0.0945105031132698,Thomas Müller,h,224,FromCorner,2018,LeftFoot,10635,Bayern Munich,Eintracht Frankfurt,5,1,2019-05-18 13:30:00,,Rebound
+310361,6,MissedShots,0.815,0.43099998474121093,0.05844540148973465,Thomas Müller,h,224,OpenPlay,2019,RightFoot,12403,Bayern Munich,Hertha Berlin,2,2,2019-08-16 19:30:00,Serge Gnabry,Pass
+310364,16,SavedShot,0.9369999694824219,0.3940000152587891,0.019293200224637985,Thomas Müller,h,224,SetPiece,2019,Head,12403,Bayern Munich,Hertha Berlin,2,2,2019-08-16 19:30:00,David Alaba,Aerial
+310368,27,BlockedShot,0.8690000152587891,0.3320000076293945,0.07420770078897476,Thomas Müller,h,224,OpenPlay,2019,RightFoot,12403,Bayern Munich,Hertha Berlin,2,2,2019-08-16 19:30:00,Kingsley Coman,Pass
+312682,30,MissedShots,0.9819999694824219,0.6090000152587891,0.04319069907069206,Thomas Müller,a,224,FromCorner,2019,RightFoot,12418,Schalke 04,Bayern Munich,0,3,2019-08-24 17:30:00,Joshua Kimmich,Cross
+317493,11,MissedShots,0.9269999694824219,0.62,0.10222499817609787,Thomas Müller,a,224,OpenPlay,2019,RightFoot,12436,RasenBallsport Leipzig,Bayern Munich,1,1,2019-09-14 16:30:00,,None
+320303,78,MissedShots,0.875,0.6930000305175781,0.05205729976296425,Thomas Müller,h,224,OpenPlay,2019,LeftFoot,12442,Bayern Munich,FC Cologne,4,0,2019-09-21 13:30:00,,None
+320304,79,MissedShots,0.9540000152587891,0.649000015258789,0.10759899765253067,Thomas Müller,h,224,OpenPlay,2019,LeftFoot,12442,Bayern Munich,FC Cologne,4,0,2019-09-21 13:30:00,Philippe Coutinho,Chipped
+320305,83,MissedShots,0.7609999847412109,0.44299999237060544,0.026714300736784935,Thomas Müller,h,224,OpenPlay,2019,LeftFoot,12442,Bayern Munich,FC Cologne,4,0,2019-09-21 13:30:00,Philippe Coutinho,Pass
+324019,84,BlockedShot,0.855,0.4590000152587891,0.06345850229263306,Thomas Müller,h,224,OpenPlay,2019,LeftFoot,12461,Bayern Munich,Hoffenheim,1,2,2019-10-05 14:30:00,,Dispossessed
+325402,89,MissedShots,0.889000015258789,0.4279999923706055,0.3741399943828583,Thomas Müller,a,224,OpenPlay,2019,RightFoot,12466,Augsburg,Bayern Munich,2,2,2019-10-19 14:30:00,Kingsley Coman,Pass
+327136,20,SavedShot,0.784000015258789,0.49700000762939456,0.05037270113825798,Thomas Müller,h,224,OpenPlay,2019,RightFoot,12476,Bayern Munich,Union Berlin,2,1,2019-10-26 14:30:00,Joshua Kimmich,Pass
+327147,59,BlockedShot,0.8959999847412109,0.40799999237060547,0.1324779987335205,Thomas Müller,h,224,OpenPlay,2019,LeftFoot,12476,Bayern Munich,Union Berlin,2,1,2019-10-26 14:30:00,Ivan Perisic,Pass
+327154,78,SavedShot,0.9640000152587891,0.5270000076293946,0.15030400454998016,Thomas Müller,h,224,FromCorner,2019,RightFoot,12476,Bayern Munich,Union Berlin,2,1,2019-10-26 14:30:00,Serge Gnabry,Pass
+330900,72,MissedShots,0.8119999694824219,0.48700000762939455,0.07922620326280594,Thomas Müller,h,224,OpenPlay,2019,RightFoot,12493,Bayern Munich,Borussia Dortmund,4,0,2019-11-09 17:30:00,Kingsley Coman,Pass
+332080,8,BlockedShot,0.8380000305175781,0.5059999847412109,0.07444410026073456,Thomas Müller,a,224,OpenPlay,2019,RightFoot,12505,Fortuna Duesseldorf,Bayern Munich,0,4,2019-11-23 14:30:00,Robert Lewandowski,Pass
+333860,33,Goal,0.8109999847412109,0.5320000076293945,0.04532559961080551,Thomas Müller,h,224,OpenPlay,2019,LeftFoot,12512,Bayern Munich,Bayer Leverkusen,1,2,2019-11-30 17:30:00,Leon Goretzka,BallRecovery
+333867,59,SavedShot,0.9669999694824218,0.34900001525878904,0.05951099842786789,Thomas Müller,h,224,OpenPlay,2019,RightFoot,12512,Bayern Munich,Bayer Leverkusen,1,2,2019-11-30 17:30:00,,Rebound
+335649,7,MissedShots,0.9590000152587891,0.56,0.6093729734420776,Thomas Müller,a,224,OpenPlay,2019,LeftFoot,12523,Borussia M.Gladbach,Bayern Munich,2,1,2019-12-07 14:30:00,Corentin Tolisso,Pass
+335653,25,SavedShot,0.85,0.48900001525878906,0.07227189838886261,Thomas Müller,a,224,OpenPlay,2019,RightFoot,12523,Borussia M.Gladbach,Bayern Munich,2,1,2019-12-07 14:30:00,,None
+336975,74,Goal,0.9230000305175782,0.53,0.5796650052070618,Thomas Müller,h,224,OpenPlay,2019,RightFoot,12529,Bayern Munich,Werder Bremen,6,1,2019-12-14 14:30:00,Philippe Coutinho,Pass
+338217,6,ShotOnPost,0.98,0.44099998474121094,0.6102089881896973,Thomas Müller,a,224,FromCorner,2019,RightFoot,12544,Freiburg,Bayern Munich,1,3,2019-12-18 19:30:00,,Rebound
+338235,51,MissedShots,0.8240000152587891,0.549000015258789,0.0778753012418747,Thomas Müller,a,224,OpenPlay,2019,LeftFoot,12544,Freiburg,Bayern Munich,1,3,2019-12-18 19:30:00,,Tackle
+338240,62,MissedShots,0.945,0.6029999923706054,0.25514599680900574,Thomas Müller,a,224,OpenPlay,2019,Head,12544,Freiburg,Bayern Munich,1,3,2019-12-18 19:30:00,Ivan Perisic,Cross
+338543,25,MissedShots,0.755,0.34,0.019860100001096725,Thomas Müller,h,224,OpenPlay,2019,RightFoot,12547,Bayern Munich,Wolfsburg,2,0,2019-12-21 14:30:00,Philippe Coutinho,Pass
+338557,62,MissedShots,0.9,0.34,0.06642460078001022,Thomas Müller,h,224,OpenPlay,2019,RightFoot,12547,Bayern Munich,Wolfsburg,2,0,2019-12-21 14:30:00,Ivan Perisic,Pass
+355257,59,Goal,0.92,0.539000015258789,0.42505601048469543,Thomas Müller,a,224,OpenPlay,2019,LeftFoot,12559,Hertha Berlin,Bayern Munich,0,4,2020-01-19 14:30:00,Ivan Perisic,HeadPass
+355914,45,SavedShot,0.879000015258789,0.6170000076293946,0.06011280044913292,Thomas Müller,h,224,FromCorner,2019,RightFoot,12565,Bayern Munich,Schalke 04,5,0,2020-01-25 17:30:00,,None
+355915,46,Goal,0.9780000305175781,0.485,0.8265600204467773,Thomas Müller,h,224,OpenPlay,2019,RightFoot,12565,Bayern Munich,Schalke 04,5,0,2020-01-25 17:30:00,Leon Goretzka,HeadPass
+356657,13,Goal,0.9119999694824219,0.4909999847412109,0.39176300168037415,Thomas Müller,a,224,OpenPlay,2019,RightFoot,12579,Mainz 05,Bayern Munich,1,3,2020-02-01 14:30:00,Leon Goretzka,Cross
+359406,33,MissedShots,0.865,0.534000015258789,0.1088000014424324,Thomas Müller,a,224,OpenPlay,2019,RightFoot,12598,FC Cologne,Bayern Munich,1,4,2020-02-16 14:30:00,Alphonso Davies,Cross
+359407,33,MissedShots,0.840999984741211,0.48400001525878905,0.08080639690160751,Thomas Müller,a,224,OpenPlay,2019,RightFoot,12598,FC Cologne,Bayern Munich,1,4,2020-02-16 14:30:00,,None
+359410,37,MissedShots,0.915,0.5320000076293945,0.053762201219797134,Thomas Müller,a,224,OpenPlay,2019,Head,12598,FC Cologne,Bayern Munich,1,4,2020-02-16 14:30:00,Thiago Alcántara,Aerial
+359415,47,MissedShots,0.9,0.4420000076293945,0.14056800305843353,Thomas Müller,a,224,OpenPlay,2019,RightFoot,12598,FC Cologne,Bayern Munich,1,4,2020-02-16 14:30:00,Kingsley Coman,Pass
+360753,4,MissedShots,0.9359999847412109,0.47299999237060547,0.06501500308513641,Thomas Müller,a,224,FromCorner,2019,Head,12613,Hoffenheim,Bayern Munich,0,6,2020-02-29 14:30:00,David Alaba,Aerial
+360762,21,SavedShot,0.91,0.23100000381469726,0.04112280160188675,Thomas Müller,a,224,OpenPlay,2019,RightFoot,12613,Hoffenheim,Bayern Munich,0,6,2020-02-29 14:30:00,Benjamin Pavard,Pass
+362186,45,MissedShots,0.879000015258789,0.46599998474121096,0.30590900778770447,Thomas Müller,h,224,OpenPlay,2019,RightFoot,12619,Bayern Munich,Augsburg,2,0,2020-03-08 14:30:00,Serge Gnabry,Cross
+362189,52,Goal,0.9119999694824219,0.5220000076293946,0.3371190130710602,Thomas Müller,h,224,OpenPlay,2019,LeftFoot,12619,Bayern Munich,Augsburg,2,0,2020-03-08 14:30:00,Jérôme Boateng,Chipped
+362206,88,MissedShots,0.9030000305175782,0.4520000076293945,0.10785000026226044,Thomas Müller,h,224,OpenPlay,2019,RightFoot,12619,Bayern Munich,Augsburg,2,0,2020-03-08 14:30:00,Alphonso Davies,Cross
+363075,45,BlockedShot,0.8830000305175781,0.37400001525878906,0.05941459909081459,Thomas Müller,a,224,OpenPlay,2019,RightFoot,12636,Union Berlin,Bayern Munich,0,2,2020-05-17 16:00:00,Alphonso Davies,Cross
+363254,40,Goal,0.9419999694824219,0.54,0.5198550224304199,Thomas Müller,h,224,OpenPlay,2019,LeftFoot,12638,Bayern Munich,Eintracht Frankfurt,5,2,2020-05-23 16:30:00,Alphonso Davies,Cross
+363680,13,BlockedShot,0.774000015258789,0.5570000076293945,0.02809949964284897,Thomas Müller,h,224,OpenPlay,2019,RightFoot,12655,Bayern Munich,Fortuna Duesseldorf,5,0,2020-05-30 16:30:00,,None
+363684,27,SavedShot,0.889000015258789,0.42700000762939455,0.09082719683647156,Thomas Müller,h,224,OpenPlay,2019,RightFoot,12655,Bayern Munich,Fortuna Duesseldorf,5,0,2020-05-30 16:30:00,Robert Lewandowski,Cross
+363699,62,MissedShots,0.92,0.3729999923706055,0.3198849856853485,Thomas Müller,h,224,OpenPlay,2019,RightFoot,12655,Bayern Munich,Fortuna Duesseldorf,5,0,2020-05-30 16:30:00,David Alaba,Pass
+363881,49,MissedShots,0.815,0.49,0.08671440184116364,Thomas Müller,a,224,OpenPlay,2019,RightFoot,12666,Bayer Leverkusen,Bayern Munich,2,4,2020-06-06 13:30:00,Kingsley Coman,Pass
+363883,61,SavedShot,0.924000015258789,0.5929999923706055,0.05452749878168106,Thomas Müller,a,224,FromCorner,2019,Head,12666,Bayer Leverkusen,Bayern Munich,2,4,2020-06-06 13:30:00,Joshua Kimmich,Cross
+365217,4,MissedShots,0.8430000305175781,0.5629999923706055,0.0816430002450943,Thomas Müller,h,224,OpenPlay,2019,LeftFoot,12691,Bayern Munich,Freiburg,3,1,2020-06-20 13:30:00,Leon Goretzka,Pass
+365224,19,SavedShot,0.745,0.37099998474121093,0.024065300822257996,Thomas Müller,h,224,OpenPlay,2019,LeftFoot,12691,Bayern Munich,Freiburg,3,1,2020-06-20 13:30:00,Robert Lewandowski,Pass
+365231,40,MissedShots,0.965,0.6120000076293945,0.014417200349271297,Thomas Müller,h,224,FromCorner,2019,Head,12691,Bayern Munich,Freiburg,3,1,2020-06-20 13:30:00,Michaël Cuisance,Aerial
+365233,43,SavedShot,0.805,0.7130000305175781,0.03070179931819439,Thomas Müller,h,224,OpenPlay,2019,RightFoot,12691,Bayern Munich,Freiburg,3,1,2020-06-20 13:30:00,,BallRecovery
+365244,72,MissedShots,0.7780000305175782,0.5029999923706054,0.04216739907860756,Thomas Müller,h,224,OpenPlay,2019,RightFoot,12691,Bayern Munich,Freiburg,3,1,2020-06-20 13:30:00,Robert Lewandowski,BallRecovery
+366909,32,MissedShots,0.9130000305175782,0.6090000152587891,0.2748199999332428,Thomas Müller,a,224,OpenPlay,2019,Head,12703,Wolfsburg,Bayern Munich,0,4,2020-06-27 13:30:00,Leon Goretzka,Chipped
+366920,56,MissedShots,0.96,0.435,0.10959500074386597,Thomas Müller,a,224,FromCorner,2019,LeftFoot,12703,Wolfsburg,Bayern Munich,0,4,2020-06-27 13:30:00,Serge Gnabry,HeadPass
+366924,78,Goal,0.9130000305175782,0.3629999923706055,0.09041090309619904,Thomas Müller,a,224,OpenPlay,2019,RightFoot,12703,Wolfsburg,Bayern Munich,0,4,2020-06-27 13:30:00,,None
+378412,68,Goal,0.875,0.5359999847412109,0.10886900126934052,Thomas Müller,h,224,OpenPlay,2020,LeftFoot,14173,Bayern Munich,Schalke 04,8,0,2020-09-18 18:30:00,Robert Lewandowski,Chipped
+379506,33,BlockedShot,0.76,0.5020000076293946,0.024315500631928444,Thomas Müller,a,224,OpenPlay,2020,RightFoot,14189,Hoffenheim,Bayern Munich,4,1,2020-09-27 13:30:00,Serge Gnabry,Pass
+379527,93,MissedShots,0.9009999847412109,0.4809999847412109,0.27443599700927734,Thomas Müller,a,224,OpenPlay,2020,RightFoot,14189,Hoffenheim,Bayern Munich,4,1,2020-09-27 13:30:00,Joshua Kimmich,Chipped
+381418,48,MissedShots,0.835999984741211,0.28399999618530275,0.040550701320171356,Thomas Müller,h,224,OpenPlay,2020,LeftFoot,15166,Bayern Munich,Hertha Berlin,4,3,2020-10-04 16:00:00,Chris Richards,Pass
+382038,3,BlockedShot,0.9469999694824218,0.36700000762939455,0.02222209982573986,Thomas Müller,a,224,FromCorner,2020,Head,15172,Arminia Bielefeld,Bayern Munich,1,4,2020-10-17 16:30:00,Corentin Tolisso,Cross
+382039,7,Goal,0.9619999694824218,0.4759999847412109,0.6323390007019043,Thomas Müller,a,224,OpenPlay,2020,RightFoot,15172,Arminia Bielefeld,Bayern Munich,1,4,2020-10-17 16:30:00,,None
+382042,14,SavedShot,0.9419999694824219,0.345,0.3554700016975403,Thomas Müller,a,224,OpenPlay,2020,RightFoot,15172,Arminia Bielefeld,Bayern Munich,1,4,2020-10-17 16:30:00,Robert Lewandowski,None
+382055,50,Goal,0.9359999847412109,0.4929999923706055,0.5738239884376526,Thomas Müller,a,224,OpenPlay,2020,RightFoot,15172,Arminia Bielefeld,Bayern Munich,1,4,2020-10-17 16:30:00,Robert Lewandowski,Cross
+383276,4,MissedShots,0.955999984741211,0.5359999847412109,0.12341299653053284,Thomas Müller,h,224,OpenPlay,2020,RightFoot,15180,Bayern Munich,Eintracht Frankfurt,5,0,2020-10-24 13:30:00,Douglas Costa,Cross
+383288,43,BlockedShot,0.9359999847412109,0.3089999961853027,0.06456279754638672,Thomas Müller,h,224,OpenPlay,2020,LeftFoot,15180,Bayern Munich,Eintracht Frankfurt,5,0,2020-10-24 13:30:00,,None
+384516,12,Goal,0.885,0.5,0.7577769756317139,Thomas Müller,a,224,Penalty,2020,RightFoot,15186,FC Cologne,Bayern Munich,1,2,2020-10-31 14:30:00,,Standard
+387332,5,MissedShots,0.950999984741211,0.47900001525878905,0.13436399400234222,Thomas Müller,h,224,FromCorner,2020,Head,15203,Bayern Munich,Werder Bremen,1,1,2020-11-21 14:30:00,Douglas Costa,Cross
+390317,33,Goal,0.899000015258789,0.5690000152587891,0.4276210069656372,Thomas Müller,h,224,OpenPlay,2020,LeftFoot,15221,Bayern Munich,RasenBallsport Leipzig,3,3,2020-12-05 17:30:00,Kingsley Coman,Throughball
+390323,74,Goal,0.9169999694824219,0.5379999923706055,0.33627599477767944,Thomas Müller,h,224,OpenPlay,2020,Head,15221,Bayern Munich,RasenBallsport Leipzig,3,3,2020-12-05 17:30:00,Kingsley Coman,Cross
+391749,65,SavedShot,0.8180000305175781,0.500999984741211,0.06107880175113678,Thomas Müller,a,224,OpenPlay,2020,LeftFoot,15236,Union Berlin,Bayern Munich,1,1,2020-12-12 17:30:00,Kingsley Coman,Pass
+393135,9,MissedShots,0.955,0.43099998474121093,0.11817199736833572,Thomas Müller,h,224,OpenPlay,2020,Head,15245,Bayern Munich,Wolfsburg,2,1,2020-12-16 19:30:00,Kingsley Coman,Cross
+393139,22,MissedShots,0.9019999694824219,0.4370000076293945,0.017105599865317345,Thomas Müller,h,224,FromCorner,2020,Head,15245,Bayern Munich,Wolfsburg,2,1,2020-12-16 19:30:00,Serge Gnabry,Aerial
+393159,86,MissedShots,0.7319999694824219,0.485,0.025073900818824768,Thomas Müller,h,224,OpenPlay,2020,RightFoot,15245,Bayern Munich,Wolfsburg,2,1,2020-12-16 19:30:00,Jamal Musiala,BallTouch
+394096,45,BlockedShot,0.9369999694824219,0.5840000152587891,0.10494499653577805,Thomas Müller,a,224,OpenPlay,2020,LeftFoot,15250,Bayer Leverkusen,Bayern Munich,1,2,2020-12-19 17:30:00,Serge Gnabry,Cross
+394098,64,BlockedShot,0.7519999694824219,0.5209999847412109,0.02153629995882511,Thomas Müller,a,224,OpenPlay,2020,RightFoot,15250,Bayer Leverkusen,Bayern Munich,1,2,2020-12-19 17:30:00,Alphonso Davies,Pass
+394100,72,MissedShots,0.8619999694824219,0.4779999923706055,0.06989260017871857,Thomas Müller,a,224,SetPiece,2020,RightFoot,15250,Bayer Leverkusen,Bayern Munich,1,2,2020-12-19 17:30:00,,None
+396982,69,BlockedShot,0.919000015258789,0.5870000076293945,0.02848000079393387,Thomas Müller,h,224,FromCorner,2020,Head,15257,Bayern Munich,Mainz 05,5,2,2021-01-03 17:00:00,Joshua Kimmich,Goal
+397690,72,BlockedShot,0.9590000152587891,0.5940000152587891,0.03420110046863556,Thomas Müller,a,224,OpenPlay,2020,Head,15267,Borussia M.Gladbach,Bayern Munich,3,2,2021-01-08 19:30:00,Leroy Sané,Aerial
+397692,90,BlockedShot,0.8109999847412109,0.4779999923706055,0.046026598662137985,Thomas Müller,a,224,OpenPlay,2020,LeftFoot,15267,Borussia M.Gladbach,Bayern Munich,3,2,2021-01-08 19:30:00,,None
+399429,73,Goal,0.9069999694824219,0.5770000076293945,0.413224995136261,Thomas Müller,h,224,OpenPlay,2020,RightFoot,15275,Bayern Munich,Freiburg,2,1,2021-01-17 14:30:00,Leroy Sané,Pass
+399999,22,MissedShots,0.8130000305175781,0.4570000076293945,0.06722009927034378,Thomas Müller,a,224,OpenPlay,2020,RightFoot,15291,Augsburg,Bayern Munich,0,1,2021-01-20 19:30:00,,None
+400901,32,Goal,0.9480000305175781,0.524000015258789,0.5290449857711792,Thomas Müller,a,224,OpenPlay,2020,Head,15298,Schalke 04,Bayern Munich,0,4,2021-01-24 14:30:00,Joshua Kimmich,Cross
+400927,87,Goal,0.9169999694824219,0.4859999847412109,0.12772800028324127,Thomas Müller,a,224,SetPiece,2020,Head,15298,Schalke 04,Bayern Munich,0,4,2021-01-24 14:30:00,Joshua Kimmich,Cross
+401636,14,ShotOnPost,0.889000015258789,0.355,0.06346320360898972,Thomas Müller,h,224,OpenPlay,2020,LeftFoot,15302,Bayern Munich,Hoffenheim,4,1,2021-01-30 14:30:00,,None
+401644,42,Goal,0.8159999847412109,0.49400001525878906,0.06755910068750381,Thomas Müller,h,224,OpenPlay,2020,LeftFoot,15302,Bayern Munich,Hoffenheim,4,1,2021-01-30 14:30:00,Robert Lewandowski,Pass
+402925,77,BlockedShot,0.899000015258789,0.47400001525878904,0.09980490058660507,Thomas Müller,a,224,FromCorner,2020,RightFoot,15315,Hertha Berlin,Bayern Munich,0,1,2021-02-05 19:30:00,Benjamin Pavard,HeadPass
+408694,20,MissedShots,0.93,0.6719999694824219,0.04205949977040291,Thomas Müller,h,224,OpenPlay,2020,LeftFoot,15351,Bayern Munich,Borussia Dortmund,4,2,2021-03-06 17:30:00,,Rebound
+408712,84,BlockedShot,0.950999984741211,0.5670000076293945,0.07884319871664047,Thomas Müller,h,224,OpenPlay,2020,Head,15351,Bayern Munich,Borussia Dortmund,4,2,2021-03-06 17:30:00,Niklas Süle,Aerial
+409935,12,BlockedShot,0.8159999847412109,0.715,0.026312200352549553,Thomas Müller,a,224,OpenPlay,2020,RightFoot,15363,Werder Bremen,Bayern Munich,1,3,2021-03-13 14:30:00,Serge Gnabry,BallTouch
+409939,23,MissedShots,0.8830000305175781,0.46599998474121096,0.12819799780845642,Thomas Müller,a,224,OpenPlay,2020,LeftFoot,15363,Werder Bremen,Bayern Munich,1,3,2021-03-13 14:30:00,Leon Goretzka,Pass
+409941,26,BlockedShot,0.8719999694824219,0.5940000152587891,0.1032399982213974,Thomas Müller,a,224,OpenPlay,2020,LeftFoot,15363,Werder Bremen,Bayern Munich,1,3,2021-03-13 14:30:00,Serge Gnabry,Pass
+409953,67,MissedShots,0.894000015258789,0.500999984741211,0.0761730968952179,Thomas Müller,a,224,OpenPlay,2020,Head,15363,Werder Bremen,Bayern Munich,1,3,2021-03-13 14:30:00,Kingsley Coman,Cross
+412741,76,SavedShot,0.9230000305175782,0.28100000381469725,0.06215300038456917,Thomas Müller,a,224,OpenPlay,2020,RightFoot,15375,RasenBallsport Leipzig,Bayern Munich,0,1,2021-04-03 16:30:00,Leroy Sané,Pass
+413836,17,MissedShots,0.889000015258789,0.46599998474121096,0.01658410020172596,Thomas Müller,h,224,FromCorner,2020,Head,15383,Bayern Munich,Union Berlin,1,1,2021-04-10 13:30:00,Joshua Kimmich,Aerial
+413841,40,BlockedShot,0.8519999694824218,0.4520000076293945,0.11990900337696075,Thomas Müller,h,224,OpenPlay,2020,RightFoot,15383,Bayern Munich,Union Berlin,1,1,2021-04-10 13:30:00,Jamal Musiala,TakeOn
+415243,50,SavedShot,0.9269999694824219,0.36700000762939455,0.100273996591568,Thomas Müller,a,224,OpenPlay,2020,RightFoot,15396,Wolfsburg,Bayern Munich,2,3,2021-04-17 13:30:00,Jamal Musiala,Pass
+416201,6,SavedShot,0.935,0.46599998474121096,0.4356890022754669,Thomas Müller,h,224,OpenPlay,2020,RightFoot,15401,Bayern Munich,Bayer Leverkusen,2,0,2021-04-20 18:30:00,David Alaba,Cross
+416205,18,BlockedShot,0.765,0.43099998474121093,0.030104700475931168,Thomas Müller,h,224,OpenPlay,2020,LeftFoot,15401,Bayern Munich,Bayer Leverkusen,2,0,2021-04-20 18:30:00,Kingsley Coman,Pass
+416215,51,SavedShot,0.88,0.455,0.13700799643993378,Thomas Müller,h,224,OpenPlay,2020,RightFoot,15401,Bayern Munich,Bayer Leverkusen,2,0,2021-04-20 18:30:00,Kingsley Coman,Pass
+417237,27,MissedShots,0.899000015258789,0.385,0.07298170030117035,Thomas Müller,a,224,OpenPlay,2020,RightFoot,15417,Mainz 05,Bayern Munich,2,1,2021-04-24 13:30:00,Jérôme Boateng,Chipped
+420265,22,Goal,0.875999984741211,0.524000015258789,0.12489499896764755,Thomas Müller,h,224,OpenPlay,2020,LeftFoot,15419,Bayern Munich,Borussia M.Gladbach,6,0,2021-05-08 16:30:00,Jamal Musiala,Pass
+420267,33,BlockedShot,0.8640000152587891,0.44299999237060544,0.0932914987206459,Thomas Müller,h,224,OpenPlay,2020,LeftFoot,15419,Bayern Munich,Borussia M.Gladbach,6,0,2021-05-08 16:30:00,,None
+420273,45,SavedShot,0.8980000305175782,0.4759999847412109,0.35900700092315674,Thomas Müller,h,224,OpenPlay,2020,Head,15419,Bayern Munich,Borussia M.Gladbach,6,0,2021-05-08 16:30:00,Robert Lewandowski,Chipped
+420278,57,BlockedShot,0.81,0.6359999847412109,0.056896600872278214,Thomas Müller,h,224,OpenPlay,2020,RightFoot,15419,Bayern Munich,Borussia M.Gladbach,6,0,2021-05-08 16:30:00,David Alaba,Pass
+421849,15,BlockedShot,0.9,0.5270000076293946,0.02181290090084076,Thomas Müller,a,224,FromCorner,2020,Head,15431,Freiburg,Bayern Munich,2,2,2021-05-15 13:30:00,Joshua Kimmich,Aerial
+427785,7,MissedShots,0.879000015258789,0.43099998474121093,0.13844700157642365,Thomas Müller,h,224,OpenPlay,2021,LeftFoot,17533,Bayern Munich,FC Cologne,3,2,2021-08-22 15:30:00,Robert Lewandowski,Pass
+427810,85,SavedShot,0.875999984741211,0.6120000076293945,0.3295139968395233,Thomas Müller,h,224,OpenPlay,2021,LeftFoot,17533,Bayern Munich,FC Cologne,3,2,2021-08-22 15:30:00,Jamal Musiala,Pass
+428884,5,Goal,0.9009999847412109,0.40900001525878904,0.3850859999656677,Thomas Müller,h,224,OpenPlay,2021,RightFoot,17540,Bayern Munich,Hertha Berlin,5,0,2021-08-28 16:30:00,Alphonso Davies,Pass
+431188,35,BlockedShot,0.845999984741211,0.45099998474121095,0.11349699646234512,Thomas Müller,h,224,OpenPlay,2021,RightFoot,17556,Bayern Munich,Bochum,7,0,2021-09-18 13:30:00,Leon Goretzka,Pass
+431189,40,MissedShots,0.9790000152587891,0.5570000076293945,0.4926159977912903,Thomas Müller,h,224,FromCorner,2021,Head,17556,Bayern Munich,Bochum,7,0,2021-09-18 13:30:00,Joshua Kimmich,Cross
+431191,46,MissedShots,0.91,0.6270000076293946,0.10258200019598007,Thomas Müller,h,224,OpenPlay,2021,RightFoot,17556,Bayern Munich,Bochum,7,0,2021-09-18 13:30:00,Leroy Sané,Cross
+431200,78,SavedShot,0.8719999694824219,0.5320000076293945,0.42479199171066284,Thomas Müller,h,224,OpenPlay,2021,LeftFoot,17556,Bayern Munich,Bochum,7,0,2021-09-18 13:30:00,Leon Goretzka,Pass
+433081,9,Goal,0.850999984741211,0.5420000076293945,0.10636799782514572,Thomas Müller,a,224,OpenPlay,2021,LeftFoot,17561,Greuther Fuerth,Bayern Munich,1,3,2021-09-24 18:30:00,,None
+433084,19,MissedShots,0.7959999847412109,0.4909999847412109,0.05397050082683563,Thomas Müller,a,224,OpenPlay,2021,LeftFoot,17561,Greuther Fuerth,Bayern Munich,1,3,2021-09-24 18:30:00,Leon Goretzka,Pass
+435627,13,SavedShot,0.86,0.3890000152587891,0.044913601130247116,Thomas Müller,h,224,FromCorner,2021,LeftFoot,17578,Bayern Munich,Eintracht Frankfurt,1,2,2021-10-03 15:30:00,Lucas Hernández,BallTouch
+436915,33,Goal,0.9519999694824218,0.5359999847412109,0.14072200655937195,Thomas Müller,a,224,SetPiece,2021,LeftFoot,17585,Bayer Leverkusen,Bayern Munich,1,5,2021-10-17 13:30:00,Niklas Süle,Rebound
+437626,23,BlockedShot,0.759000015258789,0.41,0.032342299818992615,Thomas Müller,h,224,OpenPlay,2021,LeftFoot,17596,Bayern Munich,Hoffenheim,4,0,2021-10-23 13:30:00,,None
+439553,78,Goal,0.8530000305175781,0.5640000152587891,0.1194859966635704,Thomas Müller,a,224,OpenPlay,2021,RightFoot,17602,Union Berlin,Bayern Munich,2,5,2021-10-30 13:30:00,Dayotchanculle Upamecano,Pass
+440983,55,BlockedShot,0.874000015258789,0.44599998474121094,0.1310800015926361,Thomas Müller,h,224,OpenPlay,2021,LeftFoot,17614,Bayern Munich,Freiburg,2,1,2021-11-06 14:30:00,Alphonso Davies,Rebound
+442186,83,MissedShots,0.894000015258789,0.49,0.10302499681711197,Thomas Müller,a,224,OpenPlay,2021,RightFoot,17616,Augsburg,Bayern Munich,2,1,2021-11-19 19:30:00,,Rebound
+444273,4,BlockedShot,0.850999984741211,0.500999984741211,0.0880206972360611,Thomas Müller,h,224,OpenPlay,2021,LeftFoot,17632,Bayern Munich,Arminia Bielefeld,1,0,2021-11-27 17:30:00,Leroy Sané,Pass
+444275,6,SavedShot,0.8530000305175781,0.4470000076293945,0.06957170367240906,Thomas Müller,h,224,OpenPlay,2021,RightFoot,17632,Bayern Munich,Arminia Bielefeld,1,0,2021-11-27 17:30:00,,None
+444280,20,SavedShot,0.9030000305175782,0.5479999923706055,0.09120830148458481,Thomas Müller,h,224,FromCorner,2021,RightFoot,17632,Bayern Munich,Arminia Bielefeld,1,0,2021-11-27 17:30:00,Leon Goretzka,HeadPass
+446355,17,BlockedShot,0.840999984741211,0.48700000762939455,0.06531009823083878,Thomas Müller,a,224,OpenPlay,2021,RightFoot,17641,Borussia Dortmund,Bayern Munich,2,3,2021-12-04 17:30:00,,None
+446357,20,BlockedShot,0.8440000152587891,0.47900001525878905,0.08505599945783615,Thomas Müller,a,224,OpenPlay,2021,RightFoot,17641,Borussia Dortmund,Bayern Munich,2,3,2021-12-04 17:30:00,Robert Lewandowski,Pass
+446371,61,BlockedShot,0.8190000152587891,0.6359999847412109,0.03862150013446808,Thomas Müller,a,224,OpenPlay,2021,RightFoot,17641,Borussia Dortmund,Bayern Munich,2,3,2021-12-04 17:30:00,Alphonso Davies,Pass
+447574,31,SavedShot,0.905,0.4779999923706055,0.06633179634809494,Thomas Müller,h,224,OpenPlay,2021,RightFoot,17650,Bayern Munich,Mainz 05,2,1,2021-12-11 14:30:00,,Aerial
+449225,6,Goal,0.9230000305175782,0.52,0.558817982673645,Thomas Müller,h,224,SetPiece,2021,RightFoot,17668,Bayern Munich,Wolfsburg,4,0,2021-12-17 19:30:00,,Rebound
+451905,46,BlockedShot,0.8919999694824219,0.48700000762939455,0.41401100158691406,Thomas Müller,h,224,OpenPlay,2021,LeftFoot,17677,Bayern Munich,Borussia M.Gladbach,1,2,2022-01-07 19:30:00,,Rebound
+451911,57,SavedShot,0.9180000305175782,0.5029999923706054,0.0930015966296196,Thomas Müller,h,224,OpenPlay,2021,RightFoot,17677,Bayern Munich,Borussia M.Gladbach,1,2,2022-01-07 19:30:00,Robert Lewandowski,Cross
+451913,59,MissedShots,0.9519999694824218,0.49900001525878906,0.08942460268735886,Thomas Müller,h,224,OpenPlay,2021,Head,17677,Bayern Munich,Borussia M.Gladbach,1,2,2022-01-07 19:30:00,Robert Lewandowski,Aerial
+453108,27,SavedShot,0.9519999694824218,0.51,0.6144629716873169,Thomas Müller,a,224,OpenPlay,2021,LeftFoot,17678,FC Cologne,Bayern Munich,0,4,2022-01-15 14:30:00,Joshua Kimmich,HeadPass
+453115,40,MissedShots,0.9540000152587891,0.6580000305175782,0.055153101682662964,Thomas Müller,a,224,FromCorner,2021,RightFoot,17678,FC Cologne,Bayern Munich,0,4,2022-01-15 14:30:00,,None
+453116,43,MissedShots,0.915,0.555,0.07570510357618332,Thomas Müller,a,224,FromCorner,2021,Head,17678,FC Cologne,Bayern Munich,0,4,2022-01-15 14:30:00,Marc Roca,Cross
+453126,65,MissedShots,0.9419999694824219,0.5529999923706055,0.11952900141477585,Thomas Müller,a,224,FromCorner,2021,Head,17678,FC Cologne,Bayern Munich,0,4,2022-01-15 14:30:00,Marc Roca,Cross
+455313,4,MissedShots,0.8109999847412109,0.515,0.05749740079045296,Thomas Müller,a,224,OpenPlay,2021,LeftFoot,17689,Hertha Berlin,Bayern Munich,1,4,2022-01-23 16:30:00,,Dispossessed
+455329,40,SavedShot,0.8490000152587891,0.40900001525878904,0.06580830365419388,Thomas Müller,a,224,OpenPlay,2021,LeftFoot,17689,Hertha Berlin,Bayern Munich,1,4,2022-01-23 16:30:00,Robert Lewandowski,Chipped
+455330,44,Goal,0.9130000305175782,0.4779999923706055,0.3979629874229431,Thomas Müller,a,224,SetPiece,2021,LeftFoot,17689,Hertha Berlin,Bayern Munich,1,4,2022-01-23 16:30:00,Joshua Kimmich,Cross
+455339,65,SavedShot,0.9269999694824219,0.43099998474121093,0.4902699887752533,Thomas Müller,a,224,OpenPlay,2021,RightFoot,17689,Hertha Berlin,Bayern Munich,1,4,2022-01-23 16:30:00,Serge Gnabry,Pass
+455340,67,SavedShot,0.914000015258789,0.47400001525878904,0.10822699964046478,Thomas Müller,a,224,OpenPlay,2021,Head,17689,Hertha Berlin,Bayern Munich,1,4,2022-01-23 16:30:00,Kingsley Coman,Cross
+455917,11,Goal,0.9390000152587891,0.47200000762939454,0.5933480262756348,Thomas Müller,h,224,OpenPlay,2021,RightFoot,17704,Bayern Munich,RasenBallsport Leipzig,3,2,2022-02-05 17:30:00,,Rebound
+455924,31,SavedShot,0.7980000305175782,0.3920000076293945,0.0345848985016346,Thomas Müller,h,224,OpenPlay,2021,RightFoot,17704,Bayern Munich,RasenBallsport Leipzig,3,2,2022-02-05 17:30:00,,None
+457017,49,SavedShot,0.84,0.48700000762939455,0.08113239705562592,Thomas Müller,a,224,OpenPlay,2021,RightFoot,17706,Bochum,Bayern Munich,4,2,2022-02-12 14:30:00,Serge Gnabry,Pass
+457020,54,BlockedShot,0.8530000305175781,0.5220000076293946,0.053109899163246155,Thomas Müller,a,224,OpenPlay,2021,RightFoot,17706,Bochum,Bayern Munich,4,2,2022-02-12 14:30:00,Kingsley Coman,Chipped
+458783,48,SavedShot,0.86,0.41900001525878905,0.060609400272369385,Thomas Müller,h,224,OpenPlay,2021,LeftFoot,17722,Bayern Munich,Greuther Fuerth,4,1,2022-02-20 14:30:00,,None
+458800,85,SavedShot,0.9440000152587891,0.5309999847412109,0.33180099725723267,Thomas Müller,h,224,FromCorner,2021,Head,17722,Bayern Munich,Greuther Fuerth,4,1,2022-02-20 14:30:00,Leroy Sané,Aerial
+460963,16,SavedShot,0.874000015258789,0.5720000076293945,0.06069289892911911,Thomas Müller,h,224,OpenPlay,2021,LeftFoot,17740,Bayern Munich,Bayer Leverkusen,1,1,2022-03-05 14:30:00,Benjamin Pavard,Cross
+460966,25,MissedShots,0.749000015258789,0.40700000762939453,0.021151699125766754,Thomas Müller,h,224,SetPiece,2021,RightFoot,17740,Bayern Munich,Bayer Leverkusen,1,1,2022-03-05 14:30:00,Joshua Kimmich,Pass
+460968,35,OwnGoal,0.08,0.51,0,Thomas Müller,h,224,SetPiece,2021,RightFoot,17740,Bayern Munich,Bayer Leverkusen,1,1,2022-03-05 14:30:00,,Foul
+462437,14,SavedShot,0.9269999694824219,0.4859999847412109,0.434814989566803,Thomas Müller,a,224,OpenPlay,2021,RightFoot,17743,Hoffenheim,Bayern Munich,1,1,2022-03-12 14:30:00,Kingsley Coman,Cross
+462455,71,BlockedShot,0.914000015258789,0.3920000076293945,0.34965699911117554,Thomas Müller,a,224,OpenPlay,2021,RightFoot,17743,Hoffenheim,Bayern Munich,1,1,2022-03-12 14:30:00,Leroy Sané,Pass
+464124,10,MissedShots,0.7380000305175781,0.5920000076293945,0.013729100115597248,Thomas Müller,h,224,OpenPlay,2021,RightFoot,17758,Bayern Munich,Union Berlin,4,0,2022-03-19 17:30:00,,Rebound
+465036,66,MissedShots,0.9359999847412109,0.5629999923706055,0.10218700021505356,Thomas Müller,a,224,FromCorner,2021,Head,17762,Freiburg,Bayern Munich,1,4,2022-04-02 13:30:00,Joshua Kimmich,Cross
+465047,95,BlockedShot,0.789000015258789,0.6580000305175782,0.04440879821777344,Thomas Müller,a,224,OpenPlay,2021,RightFoot,17762,Freiburg,Bayern Munich,1,4,2022-04-02 13:30:00,Joshua Kimmich,Pass
+468744,49,MissedShots,0.9130000305175782,0.4779999923706055,0.12170799821615219,Thomas Müller,a,224,SetPiece,2021,Head,17777,Arminia Bielefeld,Bayern Munich,0,3,2022-04-17 13:30:00,Joshua Kimmich,Cross
+470158,68,BlockedShot,0.8569999694824219,0.3579999923706055,0.07216860353946686,Thomas Müller,h,224,OpenPlay,2021,LeftFoot,17794,Bayern Munich,Borussia Dortmund,3,1,2022-04-23 16:30:00,,None
+474309,11,ShotOnPost,0.9530000305175781,0.51,0.5903729796409607,Thomas Müller,h,224,OpenPlay,2021,RightFoot,17812,Bayern Munich,VfB Stuttgart,2,2,2022-05-08 15:30:00,,None
+474316,27,SavedShot,0.9069999694824219,0.48700000762939455,0.039842501282691956,Thomas Müller,h,224,OpenPlay,2021,Head,17812,Bayern Munich,VfB Stuttgart,2,2,2022-05-08 15:30:00,Benjamin Pavard,Aerial
+474323,43,Goal,0.8780000305175781,0.41900001525878905,0.3336760103702545,Thomas Müller,h,224,OpenPlay,2021,LeftFoot,17812,Bayern Munich,VfB Stuttgart,2,2,2022-05-08 15:30:00,Dayotchanculle Upamecano,Pass
+474327,50,ShotOnPost,0.9569999694824218,0.5129999923706055,0.5424339771270752,Thomas Müller,h,224,SetPiece,2021,RightFoot,17812,Bayern Munich,VfB Stuttgart,2,2,2022-05-08 15:30:00,Nianzou Kouassi,BallTouch
+474328,50,MissedShots,0.9680000305175781,0.51,0.8084629774093628,Thomas Müller,h,224,SetPiece,2021,RightFoot,17812,Bayern Munich,VfB Stuttgart,2,2,2022-05-08 15:30:00,,Rebound
+478993,8,BlockedShot,0.89,0.42700000762939455,0.12770600616931915,Thomas Müller,a,224,OpenPlay,2022,LeftFoot,19342,Eintracht Frankfurt,Bayern Munich,1,6,2022-08-05 18:30:00,Dayotchanculle Upamecano,Pass
+478994,9,BlockedShot,0.925,0.47900001525878905,0.10382699966430664,Thomas Müller,a,224,FromCorner,2022,RightFoot,19342,Eintracht Frankfurt,Bayern Munich,1,6,2022-08-05 18:30:00,Lucas Hernández,BallTouch
+479000,22,ShotOnPost,0.9380000305175781,0.4420000076293945,0.6150209903717041,Thomas Müller,a,224,OpenPlay,2022,LeftFoot,19342,Eintracht Frankfurt,Bayern Munich,1,6,2022-08-05 18:30:00,Serge Gnabry,Pass
+481039,42,Goal,0.8959999847412109,0.46599998474121096,0.13693299889564514,Thomas Müller,h,224,OpenPlay,2022,RightFoot,19359,Bayern Munich,Wolfsburg,2,0,2022-08-14 15:30:00,Joshua Kimmich,Rebound
+481043,55,MissedShots,0.7809999847412109,0.425,0.037318699061870575,Thomas Müller,h,224,OpenPlay,2022,LeftFoot,19359,Bayern Munich,Wolfsburg,2,0,2022-08-14 15:30:00,Jamal Musiala,Pass
+481051,70,BlockedShot,0.8730000305175781,0.35200000762939454,0.05105900019407272,Thomas Müller,h,224,OpenPlay,2022,LeftFoot,19359,Bayern Munich,Wolfsburg,2,0,2022-08-14 15:30:00,,Rebound
+482506,15,BlockedShot,0.775,0.41400001525878904,0.051452700048685074,Thomas Müller,a,224,OpenPlay,2022,RightFoot,19368,Bochum,Bayern Munich,0,7,2022-08-21 15:30:00,Leroy Sané,TakeOn
+482514,32,SavedShot,0.9530000305175781,0.48200000762939454,0.6271049976348877,Thomas Müller,a,224,OpenPlay,2022,RightFoot,19368,Bochum,Bayern Munich,0,7,2022-08-21 15:30:00,,None
+483904,47,SavedShot,0.9619999694824218,0.4759999847412109,0.09612669795751572,Thomas Müller,h,224,OpenPlay,2022,Head,19375,Bayern Munich,Borussia M.Gladbach,1,1,2022-08-27 16:30:00,Kingsley Coman,Aerial
+483915,70,SavedShot,0.9109999847412109,0.514000015258789,0.09769559651613235,Thomas Müller,h,224,OpenPlay,2022,Head,19375,Bayern Munich,Borussia M.Gladbach,1,1,2022-08-27 16:30:00,Benjamin Pavard,Cross
+488625,38,MissedShots,0.9390000152587891,0.33599998474121096,0.05949379876255989,Thomas Müller,a,224,OpenPlay,2022,RightFoot,19399,Augsburg,Bayern Munich,1,0,2022-09-17 13:30:00,Alphonso Davies,Cross
+488634,60,SavedShot,0.9319999694824219,0.34700000762939454,0.28164300322532654,Thomas Müller,a,224,OpenPlay,2022,RightFoot,19399,Augsburg,Bayern Munich,1,0,2022-09-17 13:30:00,Leroy Sané,Pass
+489723,34,SavedShot,0.899000015258789,0.49599998474121093,0.04214540123939514,Thomas Müller,h,224,OpenPlay,2022,Head,19405,Bayern Munich,Bayer Leverkusen,4,0,2022-09-30 18:30:00,Benjamin Pavard,Aerial
+489740,83,Goal,0.8780000305175781,0.605,0.38309600949287415,Thomas Müller,h,224,OpenPlay,2022,LeftFoot,19405,Bayern Munich,Bayer Leverkusen,4,0,2022-09-30 18:30:00,,BallRecovery
+504387,92,MissedShots,0.8480000305175781,0.4370000076293945,0.0649539977312088,Thomas Müller,a,224,OpenPlay,2022,LeftFoot,19478,RasenBallsport Leipzig,Bayern Munich,1,1,2023-01-20 19:30:00,,None
+505403,78,SavedShot,0.91,0.545,0.03950360044836998,Thomas Müller,h,224,OpenPlay,2022,Head,19486,Bayern Munich,FC Cologne,1,1,2023-01-24 19:30:00,Kingsley Coman,Aerial
+505936,29,SavedShot,0.8959999847412109,0.44299999237060544,0.38734400272369385,Thomas Müller,h,224,FromCorner,2022,RightFoot,19495,Bayern Munich,Eintracht Frankfurt,1,1,2023-01-28 17:30:00,,Rebound
+505933,29,BlockedShot,0.9109999847412109,0.4159999847412109,0.11950600147247314,Thomas Müller,h,224,OpenPlay,2022,LeftFoot,19495,Bayern Munich,Eintracht Frankfurt,1,1,2023-01-28 17:30:00,Eric Maxim Choupo-Moting,Pass
+505949,87,SavedShot,0.919000015258789,0.5259999847412109,0.0654606968164444,Thomas Müller,h,224,OpenPlay,2022,Head,19495,Bayern Munich,Eintracht Frankfurt,1,1,2023-01-28 17:30:00,Serge Gnabry,Aerial
+507777,18,Goal,0.8819999694824219,0.5570000076293945,0.014174699783325195,Thomas Müller,a,224,SetPiece,2022,Head,19509,Wolfsburg,Bayern Munich,2,4,2023-02-05 16:30:00,Joshua Kimmich,Aerial
+508311,27,SavedShot,0.7440000152587891,0.5259999847412109,0.028071999549865723,Thomas Müller,h,224,OpenPlay,2022,LeftFoot,19513,Bayern Munich,Bochum,3,0,2023-02-11 14:30:00,Eric Maxim Choupo-Moting,HeadPass
+508314,40,Goal,0.785,0.595,0.2927759885787964,Thomas Müller,h,224,OpenPlay,2022,LeftFoot,19513,Bayern Munich,Bochum,3,0,2023-02-11 14:30:00,,BallRecovery
+511446,4,MissedShots,0.909000015258789,0.509000015258789,0.5112180113792419,Thomas Müller,h,224,OpenPlay,2022,RightFoot,19531,Bayern Munich,Union Berlin,3,0,2023-02-26 16:30:00,Eric Maxim Choupo-Moting,Pass
+511450,28,SavedShot,0.9119999694824219,0.40200000762939453,0.12329299747943878,Thomas Müller,h,224,OpenPlay,2022,RightFoot,19531,Bayern Munich,Union Berlin,3,0,2023-02-26 16:30:00,Kingsley Coman,Throughball
+511461,61,SavedShot,0.975,0.3970000076293945,0.13975100219249725,Thomas Müller,h,224,OpenPlay,2022,RightFoot,19531,Bayern Munich,Union Berlin,3,0,2023-02-26 16:30:00,Kingsley Coman,Throughball
+511464,70,SavedShot,0.905,0.485,0.5186409950256348,Thomas Müller,h,224,OpenPlay,2022,RightFoot,19531,Bayern Munich,Union Berlin,3,0,2023-02-26 16:30:00,Sadio Mané,Pass
+512370,71,MissedShots,0.9130000305175782,0.515,0.12217999994754791,Thomas Müller,a,224,OpenPlay,2022,Head,19548,VfB Stuttgart,Bayern Munich,1,2,2023-03-04 17:30:00,Serge Gnabry,Cross
+516605,17,Goal,0.9640000152587891,0.5690000152587891,0.48737698793411255,Thomas Müller,h,224,FromCorner,2022,OtherBodyPart,19574,Bayern Munich,Borussia Dortmund,4,2,2023-04-01 16:30:00,Matthijs de Ligt,Rebound
+516608,22,Goal,0.9569999694824218,0.5729999923706055,0.5839380025863647,Thomas Müller,h,224,OpenPlay,2022,LeftFoot,19574,Bayern Munich,Borussia Dortmund,4,2,2023-04-01 16:30:00,,Rebound
+516616,60,MissedShots,0.8619999694824219,0.605,0.10713899880647659,Thomas Müller,h,224,OpenPlay,2022,RightFoot,19574,Bayern Munich,Borussia Dortmund,4,2,2023-04-01 16:30:00,Alphonso Davies,Pass
+517907,37,MissedShots,0.924000015258789,0.48700000762939455,0.13466499745845795,Thomas Müller,a,224,OpenPlay,2022,Head,19578,Freiburg,Bayern Munich,0,1,2023-04-08 13:30:00,Alphonso Davies,Cross
+519361,30,MissedShots,0.93,0.5729999923706055,0.08093489706516266,Thomas Müller,h,224,FromCorner,2022,Head,19585,Bayern Munich,Hoffenheim,1,1,2023-04-15 13:30:00,Joshua Kimmich,Cross
+519376,85,BlockedShot,0.845999984741211,0.6,0.05904050171375275,Thomas Müller,h,224,OpenPlay,2022,RightFoot,19585,Bayern Munich,Hoffenheim,1,1,2023-04-15 13:30:00,,None
+520703,13,BlockedShot,0.899000015258789,0.455,0.4257373809814453,Thomas Müller,a,224,OpenPlay,2022,RightFoot,19597,Mainz 05,Bayern Munich,3,1,2023-04-22 13:30:00,Sadio Mané,Pass
+520715,55,MissedShots,0.8040000152587891,0.524000015258789,0.06331433355808258,Thomas Müller,a,224,OpenPlay,2022,LeftFoot,19597,Mainz 05,Bayern Munich,3,1,2023-04-22 13:30:00,,None
+520716,59,MissedShots,0.8369999694824218,0.485,0.08585675805807114,Thomas Müller,a,224,OpenPlay,2022,RightFoot,19597,Mainz 05,Bayern Munich,3,1,2023-04-22 13:30:00,Noussair Mazraoui,Pass
+525905,9,BlockedShot,0.9319999694824219,0.5459999847412109,0.14333194494247437,Thomas Müller,h,224,OpenPlay,2022,RightFoot,19621,Bayern Munich,Schalke 04,6,0,2023-05-13 13:30:00,,Rebound
+525906,9,MissedShots,0.93,0.5120000076293946,0.1463596224784851,Thomas Müller,h,224,OpenPlay,2022,LeftFoot,19621,Bayern Munich,Schalke 04,6,0,2023-05-13 13:30:00,,Rebound
+525908,13,SavedShot,0.9230000305175782,0.34799999237060547,0.29654553532600403,Thomas Müller,h,224,OpenPlay,2022,RightFoot,19621,Bayern Munich,Schalke 04,6,0,2023-05-13 13:30:00,,Rebound
+525911,20,Goal,0.8569999694824219,0.41700000762939454,0.07521983236074448,Thomas Müller,h,224,OpenPlay,2022,LeftFoot,19621,Bayern Munich,Schalke 04,6,0,2023-05-13 13:30:00,Leroy Sané,Pass
+525924,62,MissedShots,0.975999984741211,0.41900001525878905,0.5366227626800537,Thomas Müller,h,224,OpenPlay,2022,RightFoot,19621,Bayern Munich,Schalke 04,6,0,2023-05-13 13:30:00,,Rebound
+525929,74,BlockedShot,0.7569999694824219,0.5840000152587891,0.03569262847304344,Thomas Müller,h,224,OpenPlay,2022,RightFoot,19621,Bayern Munich,Schalke 04,6,0,2023-05-13 13:30:00,João Cancelo,Pass
+525934,89,SavedShot,0.8530000305175781,0.6569999694824219,0.10613112151622772,Thomas Müller,h,224,OpenPlay,2022,RightFoot,19621,Bayern Munich,Schalke 04,6,0,2023-05-13 13:30:00,Leroy Sané,Pass
+527664,17,SavedShot,0.915,0.544000015258789,0.5048553943634033,Thomas Müller,h,224,OpenPlay,2022,LeftFoot,19630,Bayern Munich,RasenBallsport Leipzig,1,3,2023-05-20 16:30:00,Jamal Musiala,Pass
+527689,91,BlockedShot,0.909000015258789,0.3189999961853027,0.0448671393096447,Thomas Müller,h,224,OpenPlay,2022,LeftFoot,19630,Bayern Munich,RasenBallsport Leipzig,1,3,2023-05-20 16:30:00,,None
+529033,18,ShotOnPost,0.9359999847412109,0.5520000076293945,0.08337810635566711,Thomas Müller,a,224,OpenPlay,2022,Head,19642,FC Cologne,Bayern Munich,1,2,2023-05-27 13:30:00,Benjamin Pavard,Aerial
+536489,10,SavedShot,0.8969999694824219,0.509000015258789,0.06439346820116043,Thomas Müller,a,224,SetPiece,2023,Head,23089,Borussia M.Gladbach,Bayern Munich,1,2,2023-09-02 16:30:00,Joshua Kimmich,Chipped
+536502,55,MissedShots,0.865999984741211,0.5720000076293945,0.07138603925704956,Thomas Müller,a,224,OpenPlay,2023,RightFoot,23089,Borussia M.Gladbach,Bayern Munich,1,2,2023-09-02 16:30:00,Konrad Laimer,Chipped
+537239,34,SavedShot,0.9059999847412109,0.4490000152587891,0.035625848919153214,Thomas Müller,h,224,SetPiece,2023,Head,23092,Bayern Munich,Bayer Leverkusen,2,2,2023-09-15 18:30:00,Joshua Kimmich,Aerial
+543317,54,BlockedShot,0.7480000305175781,0.45799999237060546,0.03472796082496643,Thomas Müller,h,224,OpenPlay,2023,RightFoot,23126,Bayern Munich,Freiburg,3,0,2023-10-08 15:30:00,Joshua Kimmich,Pass
+543318,56,MissedShots,0.8919999694824219,0.529000015258789,0.119161456823349,Thomas Müller,h,224,OpenPlay,2023,RightFoot,23126,Bayern Munich,Freiburg,3,0,2023-10-08 15:30:00,Harry Kane,HeadPass
+545464,70,Goal,0.925,0.5179999923706055,0.5266692638397217,Thomas Müller,h,224,OpenPlay,2023,RightFoot,23137,Bayern Munich,Darmstadt,8,0,2023-10-28 13:30:00,Noussair Mazraoui,Cross
+545467,83,SavedShot,0.8669999694824219,0.5209999847412109,0.12249204516410828,Thomas Müller,h,224,OpenPlay,2023,RightFoot,23137,Bayern Munich,Darmstadt,8,0,2023-10-28 13:30:00,Frans Krätzig,Pass
+555641,13,BlockedShot,0.9009999847412109,0.46700000762939453,0.03972998633980751,Thomas Müller,a,224,OpenPlay,2023,Head,23204,Wolfsburg,Bayern Munich,1,2,2023-12-20 19:30:00,Leroy Sané,End
+555643,25,BlockedShot,0.8540000152587891,0.4590000152587891,0.12231965363025665,Thomas Müller,a,224,OpenPlay,2023,RightFoot,23204,Wolfsburg,Bayern Munich,1,2,2023-12-20 19:30:00,Harry Kane,Throughball
+555645,26,MissedShots,0.9619999694824218,0.46900001525878904,0.7301754951477051,Thomas Müller,a,224,OpenPlay,2023,LeftFoot,23204,Wolfsburg,Bayern Munich,1,2,2023-12-20 19:30:00,Leroy Sané,Pass
+555648,31,ShotOnPost,0.9269999694824219,0.590999984741211,0.0793364942073822,Thomas Müller,a,224,OpenPlay,2023,Head,23204,Wolfsburg,Bayern Munich,1,2,2023-12-20 19:30:00,Alphonso Davies,Cross
+557839,57,MissedShots,0.905,0.4809999847412109,0.44864797592163086,Thomas Müller,h,224,OpenPlay,2023,LeftFoot,23209,Bayern Munich,Hoffenheim,3,0,2024-01-12 19:30:00,,Rebound
+557842,60,SavedShot,0.884000015258789,0.6519999694824219,0.009581335820257664,Thomas Müller,h,224,FromCorner,2023,Head,23209,Bayern Munich,Hoffenheim,3,0,2024-01-12 19:30:00,Joshua Kimmich,Aerial
+559555,84,SavedShot,0.9259999847412109,0.509000015258789,0.13468250632286072,Thomas Müller,h,224,OpenPlay,2023,LeftFoot,23173,Bayern Munich,Union Berlin,1,0,2024-01-24 18:30:00,,BallTouch
+565388,39,BlockedShot,0.955,0.6769999694824219,0.047095321118831635,Thomas Müller,h,224,FromCorner,2023,RightFoot,23271,Bayern Munich,RasenBallsport Leipzig,2,1,2024-02-24 17:30:00,,None
+566187,50,BlockedShot,0.8780000305175781,0.4259999847412109,0.020978407934308052,Thomas Müller,a,224,OpenPlay,2023,Head,23273,Freiburg,Bayern Munich,2,2,2024-03-01 19:30:00,Eric Dier,CornerAwarded
+567982,7,BlockedShot,0.914000015258789,0.41200000762939454,0.08331453800201416,Thomas Müller,h,224,OpenPlay,2023,RightFoot,23281,Bayern Munich,Mainz 05,8,1,2024-03-09 14:30:00,Joshua Kimmich,Cross
+567996,46,Goal,0.9780000305175781,0.48200000762939454,0.955859363079071,Thomas Müller,h,224,OpenPlay,2023,RightFoot,23281,Bayern Munich,Mainz 05,8,1,2024-03-09 14:30:00,Jamal Musiala,Pass
+567994,48,BlockedShot,0.950999984741211,0.5559999847412109,0.09854649007320404,Thomas Müller,h,224,SetPiece,2023,Head,23281,Bayern Munich,Mainz 05,8,1,2024-03-09 14:30:00,Konrad Laimer,HeadPass
+570988,34,MissedShots,0.919000015258789,0.36400001525878906,0.01150880753993988,Thomas Müller,h,224,FromCorner,2023,Head,23299,Bayern Munich,Borussia Dortmund,0,2,2024-03-30 17:30:00,Joshua Kimmich,Aerial
+570997,60,BlockedShot,0.92,0.34200000762939453,0.04147513210773468,Thomas Müller,h,224,OpenPlay,2023,RightFoot,23299,Bayern Munich,Borussia Dortmund,0,2,2024-03-30 17:30:00,Alphonso Davies,Cross
+572267,26,BlockedShot,0.9059999847412109,0.6170000076293946,0.07796959578990936,Thomas Müller,a,224,OpenPlay,2023,LeftFoot,23315,FC Heidenheim,Bayern Munich,3,2,2024-04-06 13:30:00,,None
+573544,23,BlockedShot,0.8180000305175781,0.5409999847412109,0.05302310734987259,Thomas Müller,h,224,OpenPlay,2023,RightFoot,23317,Bayern Munich,FC Cologne,2,0,2024-04-13 13:30:00,,None
+573566,92,Goal,0.8530000305175781,0.49400001525878906,0.3428005278110504,Thomas Müller,h,224,OpenPlay,2023,RightFoot,23317,Bayern Munich,FC Cologne,2,0,2024-04-13 13:30:00,,TakeOn
+575143,5,MissedShots,0.950999984741211,0.4379999923706055,0.4907016158103943,Thomas Müller,a,224,OpenPlay,2023,Head,23327,Union Berlin,Bayern Munich,1,5,2024-04-20 16:30:00,,None
+575148,25,BlockedShot,0.914000015258789,0.42700000762939455,0.09761250764131546,Thomas Müller,a,224,OpenPlay,2023,Head,23327,Union Berlin,Bayern Munich,1,5,2024-04-20 16:30:00,Joshua Kimmich,Cross
+575160,52,Goal,0.955999984741211,0.41,0.12783370912075043,Thomas Müller,a,224,OpenPlay,2023,RightFoot,23327,Union Berlin,Bayern Munich,1,5,2024-04-20 16:30:00,Eric Maxim Choupo-Moting,Cross
+575162,65,Goal,0.870999984741211,0.5520000076293945,0.04683871939778328,Thomas Müller,a,224,OpenPlay,2023,Head,23327,Union Berlin,Bayern Munich,1,5,2024-04-20 16:30:00,Leon Goretzka,Cross
+576660,5,MissedShots,0.899000015258789,0.3559999847412109,0.08664415776729584,Thomas Müller,h,224,OpenPlay,2023,RightFoot,23335,Bayern Munich,Eintracht Frankfurt,2,1,2024-04-27 13:30:00,Eric Maxim Choupo-Moting,Pass
+576665,25,SavedShot,0.955,0.34400001525878904,0.11321789771318436,Thomas Müller,h,224,OpenPlay,2023,RightFoot,23335,Bayern Munich,Eintracht Frankfurt,2,1,2024-04-27 13:30:00,Konrad Laimer,Throughball
+576683,64,BlockedShot,0.8909999847412109,0.445,0.1276869922876358,Thomas Müller,h,224,OpenPlay,2023,RightFoot,23335,Bayern Munich,Eintracht Frankfurt,2,1,2024-04-27 13:30:00,Joshua Kimmich,Pass
+576687,92,MissedShots,0.895,0.46900001525878904,0.13436457514762878,Thomas Müller,h,224,OpenPlay,2023,LeftFoot,23335,Bayern Munich,Eintracht Frankfurt,2,1,2024-04-27 13:30:00,,Rebound
+581737,41,BlockedShot,0.8719999694824219,0.5409999847412109,0.12419521063566208,Thomas Müller,a,224,OpenPlay,2023,RightFoot,23367,Hoffenheim,Bayern Munich,4,2,2024-05-18 13:30:00,Lovro Zvonarek,Pass
+581743,60,MissedShots,0.85,0.3990000152587891,0.08774227648973465,Thomas Müller,a,224,OpenPlay,2023,LeftFoot,23367,Hoffenheim,Bayern Munich,4,2,2024-05-18 13:30:00,Leon Goretzka,Pass
+581749,78,MissedShots,0.8490000152587891,0.56,0.08539562672376633,Thomas Müller,a,224,OpenPlay,2023,RightFoot,23367,Hoffenheim,Bayern Munich,4,2,2024-05-18 13:30:00,Alphonso Davies,Pass
+586712,91,BlockedShot,0.9230000305175782,0.34,0.09510932117700577,Thomas Müller,a,224,OpenPlay,2024,RightFoot,27749,Wolfsburg,Bayern Munich,2,3,2024-08-25 13:30:00,Dayotchanculle Upamecano,Pass
+590041,77,Goal,0.9109999847412109,0.45299999237060545,0.28428003191947937,Thomas Müller,h,224,OpenPlay,2024,LeftFoot,27759,Bayern Munich,Freiburg,2,0,2024-09-01 15:30:00,Serge Gnabry,TakeOn
+596323,9,SavedShot,0.89,0.625999984741211,0.12107943743467331,Thomas Müller,a,224,OpenPlay,2024,RightFoot,27787,Eintracht Frankfurt,Bayern Munich,3,3,2024-10-06 15:30:00,Serge Gnabry,Throughball
+596328,25,MissedShots,0.9269999694824219,0.3509999847412109,0.06918081641197205,Thomas Müller,a,224,OpenPlay,2024,RightFoot,27787,Eintracht Frankfurt,Bayern Munich,3,3,2024-10-06 15:30:00,Joshua Kimmich,Chipped
+596329,29,SavedShot,0.855999984741211,0.580999984741211,0.31847962737083435,Thomas Müller,a,224,OpenPlay,2024,RightFoot,27787,Eintracht Frankfurt,Bayern Munich,3,3,2024-10-06 15:30:00,Raphael Guerreiro,Pass
+596347,96,BlockedShot,0.980999984741211,0.615,0.07630814611911774,Thomas Müller,a,224,FromCorner,2024,LeftFoot,27787,Eintracht Frankfurt,Bayern Munich,3,3,2024-10-06 15:30:00,João Palhinha,Rebound
+597309,90,MissedShots,0.7669999694824219,0.5359999847412109,0.0341387614607811,Thomas Müller,h,224,OpenPlay,2024,RightFoot,27797,Bayern Munich,VfB Stuttgart,4,0,2024-10-19 16:30:00,Kingsley Coman,Pass
+604362,36,MissedShots,0.924000015258789,0.5740000152587891,0.2780740559101105,Thomas Müller,a,224,OpenPlay,2024,Head,27842,Borussia Dortmund,Bayern Munich,1,1,2024-11-30 17:30:00,,None
+604366,48,SavedShot,0.8969999694824219,0.4620000076293945,0.4523898959159851,Thomas Müller,a,224,OpenPlay,2024,RightFoot,27842,Borussia Dortmund,Bayern Munich,1,1,2024-11-30 17:30:00,Jamal Musiala,Pass
+605738,11,SavedShot,0.8440000152587891,0.504000015258789,0.08476298302412033,Thomas Müller,h,224,OpenPlay,2024,LeftFoot,27857,Bayern Munich,FC Heidenheim,4,2,2024-12-07 14:30:00,Leroy Sané,Pass
+605745,38,MissedShots,0.8490000152587891,0.42200000762939455,0.08070705831050873,Thomas Müller,h,224,OpenPlay,2024,RightFoot,27857,Bayern Munich,FC Heidenheim,4,2,2024-12-07 14:30:00,Raphael Guerreiro,HeadPass
+605748,40,MissedShots,0.9209999847412109,0.534000015258789,0.04512682557106018,Thomas Müller,h,224,FromCorner,2024,Head,27857,Bayern Munich,FC Heidenheim,4,2,2024-12-07 14:30:00,Joshua Kimmich,Aerial
+610843,14,SavedShot,0.895,0.43,0.12043377757072449,Thomas Müller,a,224,OpenPlay,2024,LeftFoot,27884,Borussia M.Gladbach,Bayern Munich,0,1,2025-01-11 17:30:00,Konrad Laimer,Pass
+610845,22,SavedShot,0.945,0.49700000762939456,0.5815752744674683,Thomas Müller,a,224,OpenPlay,2024,LeftFoot,27884,Borussia M.Gladbach,Bayern Munich,0,1,2025-01-11 17:30:00,Joshua Kimmich,Cross
+611685,27,MissedShots,0.835999984741211,0.48700000762939455,0.10683783143758774,Thomas Müller,h,224,OpenPlay,2024,RightFoot,27888,Bayern Munich,Hoffenheim,5,0,2025-01-15 19:30:00,Leroy Sané,Pass
+614820,68,BlockedShot,0.725999984741211,0.47200000762939454,0.02034570463001728,Thomas Müller,h,224,OpenPlay,2024,RightFoot,27918,Bayern Munich,Holstein Kiel,4,3,2025-02-01 14:30:00,,BallRecovery
+619137,8,BlockedShot,0.89,0.46,0.40226370096206665,Thomas Müller,h,224,OpenPlay,2024,RightFoot,27940,Bayern Munich,Eintracht Frankfurt,4,0,2025-02-23 16:30:00,Hiroki Ito,Pass
+619144,28,SavedShot,0.7119999694824218,0.524000015258789,0.02064221352338791,Thomas Müller,h,224,OpenPlay,2024,RightFoot,27940,Bayern Munich,Eintracht Frankfurt,4,0,2025-02-23 16:30:00,Aleksandar Pavlovic,Pass
+619149,50,SavedShot,0.8330000305175781,0.37,0.06809233874082565,Thomas Müller,h,224,OpenPlay,2024,RightFoot,27940,Bayern Munich,Eintracht Frankfurt,4,0,2025-02-23 16:30:00,Michael Olise,BallRecovery
+621119,27,MissedShots,0.9030000305175782,0.4129999923706055,0.07944606989622116,Thomas Müller,h,224,OpenPlay,2024,Head,27959,Bayern Munich,Bochum,2,3,2025-03-08 14:30:00,Hiroki Ito,Cross
+627329,10,MissedShots,0.850999984741211,0.5640000152587891,0.08444510400295258,Thomas Müller,h,224,OpenPlay,2024,LeftFoot,27996,Bayern Munich,Borussia Dortmund,2,2,2025-04-12 16:30:00,Josip Stanisic,Pass
+627330,12,MissedShots,0.735,0.37900001525878907,0.016469039022922516,Thomas Müller,h,224,OpenPlay,2024,RightFoot,27996,Bayern Munich,Borussia Dortmund,2,2,2025-04-12 16:30:00,Kim Min-Jae,BallRecovery
+627343,45,BlockedShot,0.8540000152587891,0.5429999923706055,0.09215019643306732,Thomas Müller,h,224,OpenPlay,2024,RightFoot,27996,Bayern Munich,Borussia Dortmund,2,2,2025-04-12 16:30:00,Leroy Sané,Pass
+627359,79,SavedShot,0.7859999847412109,0.47900001525878905,0.03692711517214775,Thomas Müller,h,224,OpenPlay,2024,RightFoot,27996,Bayern Munich,Borussia Dortmund,2,2,2025-04-12 16:30:00,,None
+631384,29,MissedShots,0.9059999847412109,0.575,0.028101729229092598,Thomas Müller,a,224,OpenPlay,2024,Head,28021,RasenBallsport Leipzig,Bayern Munich,3,3,2025-05-03 13:30:00,Joshua Kimmich,Aerial
+631385,31,BlockedShot,0.885,0.41400001525878904,0.0919480100274086,Thomas Müller,a,224,OpenPlay,2024,LeftFoot,28021,RasenBallsport Leipzig,Bayern Munich,3,3,2025-05-03 13:30:00,Leroy Sané,Pass
+632997,56,SavedShot,0.9259999847412109,0.5359999847412109,0.495283842086792,Thomas Müller,h,224,OpenPlay,2024,LeftFoot,28032,Bayern Munich,Borussia M.Gladbach,2,0,2025-05-10 16:30:00,,Rebound
+633003,67,BlockedShot,0.9,0.6220000076293946,0.14795483648777008,Thomas Müller,h,224,OpenPlay,2024,LeftFoot,28032,Bayern Munich,Borussia M.Gladbach,2,0,2025-05-10 16:30:00,,Rebound
+633006,77,MissedShots,0.720999984741211,0.485,0.010933954268693924,Thomas Müller,h,224,OpenPlay,2024,RightFoot,28032,Bayern Munich,Borussia M.Gladbach,2,0,2025-05-10 16:30:00,Michael Olise,TakeOn
+634407,44,MissedShots,0.8180000305175781,0.54,0.07849132269620895,Thomas Müller,a,224,OpenPlay,2024,RightFoot,28041,Hoffenheim,Bayern Munich,0,4,2025-05-17 13:30:00,Joshua Kimmich,Pass

@@ -1,0 +1,129 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+79384,37,SavedShot,0.76,0.3770000076293945,0.017983699217438698,Nico Elvedi,h,212,OpenPlay,2015,RightFoot,1148,Borussia M.Gladbach,Bayern Munich,3,1,2015-12-05 18:30:00,,None
+79860,8,BlockedShot,0.9569999694824218,0.4229999923706055,0.12794099748134613,Nico Elvedi,h,212,SetPiece,2015,RightFoot,1173,Borussia M.Gladbach,Darmstadt,3,2,2015-12-20 20:30:00,,Rebound
+81071,20,BlockedShot,0.86,0.38,0.11979000270366669,Nico Elvedi,h,212,OpenPlay,2015,LeftFoot,1215,Borussia M.Gladbach,FC Cologne,1,0,2016-02-20 18:30:00,,TakeOn
+128888,72,BlockedShot,0.9359999847412109,0.6179999923706054,0.03166479989886284,Nico Elvedi,a,212,FromCorner,2016,Head,1380,Schalke 04,Borussia M.Gladbach,4,0,2016-10-02 19:30:00,Thorgan Hazard,Cross
+129111,95,MissedShots,0.9459999847412109,0.6040000152587891,0.23762300610542297,Nico Elvedi,h,212,FromCorner,2016,RightFoot,1382,Borussia M.Gladbach,Hamburger SV,0,0,2016-10-15 17:30:00,Jannik Vestergaard,BallTouch
+130925,28,MissedShots,0.8209999847412109,0.3940000152587891,0.07955159991979599,Nico Elvedi,h,212,OpenPlay,2016,LeftFoot,2826,Borussia M.Gladbach,Hoffenheim,1,1,2016-11-26 18:30:00,Raffael,TakeOn
+133763,2,MissedShots,0.87,0.4570000076293945,0.011786400340497494,Nico Elvedi,h,212,SetPiece,2016,Head,3820,Borussia M.Gladbach,Hertha Berlin,1,0,2017-04-05 19:00:00,László Bénes,Aerial
+134653,34,MissedShots,0.93,0.3940000152587891,0.01568719930946827,Nico Elvedi,a,212,FromCorner,2016,Head,3825,FC Cologne,Borussia M.Gladbach,2,3,2017-04-08 14:30:00,Thorgan Hazard,Aerial
+134661,56,SavedShot,0.8640000152587891,0.4640000152587891,0.010752400383353233,Nico Elvedi,a,212,SetPiece,2016,Head,3825,FC Cologne,Borussia M.Gladbach,2,3,2017-04-08 14:30:00,Ibrahima Traoré,Aerial
+165870,42,MissedShots,0.905,0.610999984741211,0.024548500776290894,Nico Elvedi,h,212,FromCorner,2017,Head,8267,Borussia M.Gladbach,FC Cologne,1,0,2017-08-20 17:00:00,Ibrahima Traoré,Cross
+165872,48,Goal,0.9359999847412109,0.425,0.4723469913005829,Nico Elvedi,h,212,OpenPlay,2017,RightFoot,8267,Borussia M.Gladbach,FC Cologne,1,0,2017-08-20 17:00:00,,None
+166309,1,MissedShots,0.9230000305175782,0.610999984741211,0.03409869968891144,Nico Elvedi,h,212,FromCorner,2017,Head,8281,Borussia M.Gladbach,Eintracht Frankfurt,0,1,2017-09-09 14:30:00,Oscar Wendt,Cross
+167734,32,SavedShot,0.9280000305175782,0.5270000076293946,0.12834399938583374,Nico Elvedi,a,212,SetPiece,2017,Head,8326,Werder Bremen,Borussia M.Gladbach,0,2,2017-10-15 17:00:00,Thorgan Hazard,Cross
+168548,59,SavedShot,0.8959999847412109,0.6179999923706054,0.02353380061686039,Nico Elvedi,a,212,OpenPlay,2017,Head,8341,Hoffenheim,Borussia M.Gladbach,1,3,2017-10-28 14:30:00,Vincenzo Grifo,Cross
+187857,17,MissedShots,0.9369999694824219,0.5929999923706055,0.021046100184321404,Nico Elvedi,a,212,FromCorner,2017,Head,8414,FC Cologne,Borussia M.Gladbach,2,1,2018-01-14 14:30:00,Oscar Wendt,Aerial
+196849,68,SavedShot,0.9480000305175781,0.455,0.4814760088920593,Nico Elvedi,h,212,SetPiece,2017,Head,8460,Borussia M.Gladbach,Borussia Dortmund,0,1,2018-02-18 17:00:00,Thorgan Hazard,Cross
+198583,46,MissedShots,0.9169999694824219,0.509000015258789,0.08898060023784637,Nico Elvedi,h,212,SetPiece,2017,Head,8478,Borussia M.Gladbach,Werder Bremen,2,2,2018-03-02 19:30:00,Michaël Cuisance,Chipped
+201311,56,BlockedShot,0.89,0.5309999847412109,0.06867559999227524,Nico Elvedi,h,212,OpenPlay,2017,Head,8496,Borussia M.Gladbach,Hoffenheim,3,3,2018-03-17 14:30:00,Patrick Herrmann,Cross
+201319,79,SavedShot,0.8969999694824219,0.49900001525878906,0.06568250060081482,Nico Elvedi,h,212,SetPiece,2017,Head,8496,Borussia M.Gladbach,Hoffenheim,3,3,2018-03-17 14:30:00,Michaël Cuisance,Chipped
+210164,70,MissedShots,0.9459999847412109,0.4779999923706055,0.13194799423217773,Nico Elvedi,h,212,FromCorner,2017,Head,8532,Borussia M.Gladbach,Wolfsburg,3,0,2018-04-20 18:30:00,Lars Stindl,Cross
+210165,77,BlockedShot,0.9430000305175781,0.4209999847412109,0.036674801260232925,Nico Elvedi,h,212,FromCorner,2017,Head,8532,Borussia M.Gladbach,Wolfsburg,3,0,2018-04-20 18:30:00,Lars Stindl,Aerial
+211604,20,SavedShot,0.855,0.4129999923706055,0.3209260106086731,Nico Elvedi,a,212,OpenPlay,2017,LeftFoot,8543,Schalke 04,Borussia M.Gladbach,1,1,2018-04-28 13:30:00,Raffael,Pass
+211609,34,MissedShots,0.865999984741211,0.3039999961853027,0.05968770012259483,Nico Elvedi,a,212,OpenPlay,2017,RightFoot,8543,Schalke 04,Borussia M.Gladbach,1,1,2018-04-28 13:30:00,,None
+211620,73,ShotOnPost,0.9209999847412109,0.18200000762939453,0.024127300828695297,Nico Elvedi,a,212,OpenPlay,2017,RightFoot,8543,Schalke 04,Borussia M.Gladbach,1,1,2018-04-28 13:30:00,Jonas Hofmann,Pass
+213235,56,Goal,0.9319999694824219,0.524000015258789,0.12088900059461594,Nico Elvedi,h,212,FromCorner,2017,Head,8554,Borussia M.Gladbach,Freiburg,3,1,2018-05-05 14:30:00,Jonas Hofmann,Cross
+226733,26,MissedShots,0.915,0.5029999923706054,0.04330280050635338,Nico Elvedi,h,212,FromCorner,2018,Head,10380,Borussia M.Gladbach,Eintracht Frankfurt,3,1,2018-09-26 18:30:00,Thorgan Hazard,Aerial
+226752,84,Goal,0.9419999694824219,0.45,0.36055800318717957,Nico Elvedi,h,212,FromCorner,2018,Head,10380,Borussia M.Gladbach,Eintracht Frankfurt,3,1,2018-09-26 18:30:00,Thorgan Hazard,Cross
+255634,55,MissedShots,0.9030000305175782,0.3970000076293945,0.027340399101376534,Nico Elvedi,h,212,FromCorner,2018,Head,10404,Borussia M.Gladbach,Mainz 05,4,0,2018-10-21 16:00:00,Thorgan Hazard,Cross
+255646,5,ShotOnPost,0.9219999694824219,0.534000015258789,0.09822390228509903,Nico Elvedi,a,212,FromCorner,2018,LeftFoot,10414,Freiburg,Borussia M.Gladbach,3,1,2018-10-26 18:30:00,Thorgan Hazard,Cross
+257259,31,MissedShots,0.9130000305175782,0.4370000076293945,0.0668753981590271,Nico Elvedi,a,212,FromCorner,2018,Head,10463,Hoffenheim,Borussia M.Gladbach,0,0,2018-12-15 14:30:00,Thorgan Hazard,Cross
+278410,43,SavedShot,0.9219999694824219,0.48200000762939454,0.3758080005645752,Nico Elvedi,a,212,SetPiece,2018,Head,10498,Bayer Leverkusen,Borussia M.Gladbach,0,1,2019-01-19 14:30:00,Thorgan Hazard,Cross
+279392,49,MissedShots,0.9,0.36900001525878906,0.008914110250771046,Nico Elvedi,h,212,SetPiece,2018,Head,10538,Borussia M.Gladbach,Wolfsburg,0,3,2019-02-23 14:30:00,Jonas Hofmann,Aerial
+284713,62,Goal,0.9319999694824219,0.4420000076293945,0.4714440107345581,Nico Elvedi,a,212,FromCorner,2018,LeftFoot,10559,Mainz 05,Borussia M.Gladbach,0,1,2019-03-09 17:30:00,Tobias Strobl,Pass
+285884,18,MissedShots,0.909000015258789,0.5329999923706055,0.07860759645700455,Nico Elvedi,h,212,FromCorner,2018,Head,10569,Borussia M.Gladbach,Freiburg,1,1,2019-03-15 19:30:00,Thorgan Hazard,Cross
+285890,60,MissedShots,0.9309999847412109,0.45799999237060546,0.055250801146030426,Nico Elvedi,h,212,FromCorner,2018,Head,10569,Borussia M.Gladbach,Freiburg,1,1,2019-03-15 19:30:00,Thorgan Hazard,Aerial
+293482,48,MissedShots,0.9130000305175782,0.46099998474121096,0.032117798924446106,Nico Elvedi,a,212,FromCorner,2018,Head,10595,Hannover 96,Borussia M.Gladbach,0,1,2019-04-13 14:30:00,Patrick Herrmann,Aerial
+300621,25,MissedShots,0.9290000152587891,0.4329999923706055,0.09367690235376358,Nico Elvedi,a,212,SetPiece,2018,RightFoot,10633,Nuernberg,Borussia M.Gladbach,0,4,2019-05-11 14:30:00,Matthias Ginter,HeadPass
+302337,39,MissedShots,0.8809999847412109,0.49400001525878906,0.2750220000743866,Nico Elvedi,h,212,SetPiece,2018,Head,10639,Borussia M.Gladbach,Borussia Dortmund,0,2,2019-05-18 13:30:00,Ibrahima Traoré,Chipped
+302347,77,MissedShots,0.9309999847412109,0.515,0.08021190017461777,Nico Elvedi,h,212,SetPiece,2018,Head,10639,Borussia M.Gladbach,Borussia Dortmund,0,2,2019-05-18 13:30:00,Tobias Strobl,HeadPass
+310810,43,MissedShots,0.899000015258789,0.5309999847412109,0.022013800218701363,Nico Elvedi,h,212,FromCorner,2019,Head,12409,Borussia M.Gladbach,Schalke 04,0,0,2019-08-17 17:30:00,Alassane Pléa,Aerial
+315424,86,MissedShots,0.9009999847412109,0.575999984741211,0.04327550157904625,Nico Elvedi,h,212,FromCorner,2019,Head,12421,Borussia M.Gladbach,RasenBallsport Leipzig,1,3,2019-08-30 19:30:00,Raffael,Cross
+325829,4,MissedShots,0.924000015258789,0.575,0.024852899834513664,Nico Elvedi,a,212,FromCorner,2019,Head,12469,Borussia Dortmund,Borussia M.Gladbach,1,0,2019-10-19 17:30:00,László Bénes,Aerial
+328086,74,Goal,0.9180000305175782,0.34200000762939453,0.031285498291254044,Nico Elvedi,h,212,SetPiece,2019,Head,12479,Borussia M.Gladbach,Eintracht Frankfurt,4,2,2019-10-27 17:00:00,László Bénes,Chipped
+335668,68,MissedShots,0.9580000305175781,0.6079999923706054,0.07950709760189056,Nico Elvedi,h,212,SetPiece,2019,RightFoot,12523,Borussia M.Gladbach,Bayern Munich,2,1,2019-12-07 14:30:00,Patrick Herrmann,Chipped
+359785,40,MissedShots,0.9319999694824219,0.615,0.09458869695663452,Nico Elvedi,h,212,FromCorner,2019,LeftFoot,12603,Borussia M.Gladbach,Hoffenheim,1,1,2020-02-22 14:30:00,,Rebound
+362647,51,MissedShots,0.919000015258789,0.4909999847412109,0.2930169999599457,Nico Elvedi,h,212,FromCorner,2019,Head,12585,Borussia M.Gladbach,FC Cologne,2,1,2020-03-11 17:30:00,Oscar Wendt,Cross
+363827,53,MissedShots,0.9540000152587891,0.5179999923706055,0.05969870090484619,Nico Elvedi,a,212,FromCorner,2019,Head,12670,Freiburg,Borussia M.Gladbach,1,0,2020-06-05 18:30:00,Lars Stindl,Foul
+366869,4,MissedShots,0.9130000305175782,0.43400001525878906,0.021718500182032585,Nico Elvedi,h,212,FromCorner,2019,Head,12702,Borussia M.Gladbach,Hertha Berlin,2,1,2020-06-27 13:30:00,Jonas Hofmann,Aerial
+382133,41,MissedShots,0.9259999847412109,0.47299999237060547,0.40372198820114136,Nico Elvedi,h,212,SetPiece,2020,Head,15173,Borussia M.Gladbach,Wolfsburg,1,1,2020-10-17 18:30:00,Jonas Hofmann,Cross
+386796,33,BlockedShot,0.8819999694824219,0.615,0.01606770046055317,Nico Elvedi,a,212,FromCorner,2020,Head,15202,Bayer Leverkusen,Borussia M.Gladbach,4,3,2020-11-08 17:00:00,Jonas Hofmann,Cross
+399663,5,SavedShot,0.9069999694824219,0.46099998474121096,0.10612399876117706,Nico Elvedi,h,212,SetPiece,2020,Head,15285,Borussia M.Gladbach,Werder Bremen,1,0,2021-01-19 17:30:00,Oscar Wendt,Cross
+399674,40,MissedShots,0.914000015258789,0.475,0.0916644036769867,Nico Elvedi,h,212,FromCorner,2020,Head,15285,Borussia M.Gladbach,Werder Bremen,1,0,2021-01-19 17:30:00,Jonas Hofmann,Cross
+399680,65,Goal,0.8769999694824219,0.534000015258789,0.04989130049943924,Nico Elvedi,h,212,SetPiece,2020,Head,15285,Borussia M.Gladbach,Werder Bremen,1,0,2021-01-19 17:30:00,László Bénes,Cross
+399681,69,MissedShots,0.9209999847412109,0.5609999847412109,0.08078630268573761,Nico Elvedi,h,212,FromCorner,2020,Head,15285,Borussia M.Gladbach,Werder Bremen,1,0,2021-01-19 17:30:00,László Bénes,Cross
+400225,10,Goal,0.9319999694824219,0.5109999847412109,0.4326919913291931,Nico Elvedi,h,212,SetPiece,2020,Head,15293,Borussia M.Gladbach,Borussia Dortmund,4,2,2021-01-22 19:30:00,Jonas Hofmann,Cross
+400232,31,Goal,0.9840000152587891,0.5179999923706055,0.9621570110321045,Nico Elvedi,h,212,SetPiece,2020,LeftFoot,15293,Borussia M.Gladbach,Borussia Dortmund,4,2,2021-01-22 19:30:00,,Rebound
+411516,71,SavedShot,0.865,0.475,0.03838219866156578,Nico Elvedi,a,212,FromCorner,2020,Head,15370,Schalke 04,Borussia M.Gladbach,0,3,2021-03-20 17:30:00,Alassane Pléa,Cross
+415353,66,ShotOnPost,0.9209999847412109,0.5420000076293945,0.09636250138282776,Nico Elvedi,h,212,FromCorner,2020,Head,15394,Borussia M.Gladbach,Eintracht Frankfurt,4,0,2021-04-17 13:30:00,Jonas Hofmann,Cross
+416475,67,BlockedShot,0.895,0.515,0.024576399475336075,Nico Elvedi,a,212,FromCorner,2020,Head,15403,Hoffenheim,Borussia M.Gladbach,3,2,2021-04-21 18:30:00,Valentino Lazaro,Aerial
+421811,50,SavedShot,0.8930000305175781,0.5479999923706055,0.0737231969833374,Nico Elvedi,h,212,SetPiece,2020,Head,15429,Borussia M.Gladbach,VfB Stuttgart,1,2,2021-05-15 13:30:00,Jonas Hofmann,Cross
+425535,22,MissedShots,0.9009999847412109,0.514000015258789,0.08137399703264236,Nico Elvedi,h,212,SetPiece,2021,LeftFoot,17516,Borussia M.Gladbach,Bayern Munich,1,1,2021-08-13 18:30:00,,None
+429239,68,MissedShots,0.9159999847412109,0.5520000076293945,0.0778392031788826,Nico Elvedi,a,212,FromCorner,2021,Head,17541,Union Berlin,Borussia M.Gladbach,2,1,2021-08-29 13:30:00,Jonas Hofmann,Cross
+433634,18,MissedShots,0.935,0.46599998474121096,0.12863600254058838,Nico Elvedi,h,212,SetPiece,2021,Head,17567,Borussia M.Gladbach,Borussia Dortmund,1,0,2021-09-25 16:30:00,Jonas Hofmann,Cross
+433635,29,MissedShots,0.8440000152587891,0.509000015258789,0.07666009664535522,Nico Elvedi,h,212,SetPiece,2021,LeftFoot,17567,Borussia M.Gladbach,Borussia Dortmund,1,0,2021-09-25 16:30:00,Breel Embolo,Pass
+436464,11,MissedShots,0.9359999847412109,0.4329999923706055,0.04276749864220619,Nico Elvedi,h,212,FromCorner,2021,Head,17583,Borussia M.Gladbach,VfB Stuttgart,1,1,2021-10-16 16:30:00,Jonas Hofmann,Aerial
+437927,4,MissedShots,0.9,0.4129999923706055,0.04881630092859268,Nico Elvedi,a,212,FromCorner,2021,Head,17591,Hertha Berlin,Borussia M.Gladbach,1,0,2021-10-23 16:30:00,Joe Scally,Cross
+437930,37,MissedShots,0.94,0.5359999847412109,0.12705999612808228,Nico Elvedi,a,212,FromCorner,2021,Head,17591,Hertha Berlin,Borussia M.Gladbach,1,0,2021-10-23 16:30:00,Jonas Hofmann,Cross
+447604,31,MissedShots,0.9169999694824219,0.5840000152587891,0.032253801822662354,Nico Elvedi,a,212,SetPiece,2021,Head,17649,RasenBallsport Leipzig,Borussia M.Gladbach,4,1,2021-12-11 14:30:00,Jonas Hofmann,Aerial
+453373,16,BlockedShot,0.9530000305175781,0.4809999847412109,0.13479900360107422,Nico Elvedi,h,212,FromCorner,2021,Head,17683,Borussia M.Gladbach,Bayer Leverkusen,1,2,2022-01-15 17:30:00,László Bénes,Cross
+453406,80,Goal,0.9259999847412109,0.5579999923706055,0.49140000343322754,Nico Elvedi,h,212,FromCorner,2021,RightFoot,17683,Borussia M.Gladbach,Bayer Leverkusen,1,2,2022-01-15 17:30:00,,None
+459689,9,MissedShots,0.9,0.5659999847412109,0.019874999299645424,Nico Elvedi,h,212,FromCorner,2021,Head,17728,Borussia M.Gladbach,Wolfsburg,2,2,2022-02-26 14:30:00,,Aerial
+459699,47,MissedShots,0.8630000305175781,0.4809999847412109,0.03509160131216049,Nico Elvedi,h,212,SetPiece,2021,Head,17728,Borussia M.Gladbach,Wolfsburg,2,2,2022-02-26 14:30:00,Matthias Ginter,Cross
+466679,35,MissedShots,0.909000015258789,0.44,0.034464601427316666,Nico Elvedi,a,212,SetPiece,2021,Head,17768,Greuther Fuerth,Borussia M.Gladbach,0,2,2022-04-09 13:30:00,Alassane Pléa,Aerial
+479155,55,MissedShots,0.895,0.5370000076293945,0.06041720137000084,Nico Elvedi,h,212,SetPiece,2022,Head,19344,Borussia M.Gladbach,Hoffenheim,3,1,2022-08-06 13:30:00,Jonas Hofmann,Chipped
+479160,77,Goal,0.9619999694824218,0.3840000152587891,0.21607500314712524,Nico Elvedi,h,212,FromCorner,2022,RightFoot,19344,Borussia M.Gladbach,Hoffenheim,3,1,2022-08-06 13:30:00,Alassane Pléa,Chipped
+481539,45,MissedShots,0.904000015258789,0.5120000076293946,0.10145699977874756,Nico Elvedi,h,212,SetPiece,2022,Head,19360,Borussia M.Gladbach,Hertha Berlin,1,0,2022-08-19 18:30:00,Jonas Hofmann,Cross
+488875,8,SavedShot,0.9080000305175782,0.5309999847412109,0.077634297311306,Nico Elvedi,h,212,FromCorner,2022,Head,19401,Borussia M.Gladbach,RasenBallsport Leipzig,3,0,2022-09-17 16:30:00,Jonas Hofmann,Cross
+492223,73,MissedShots,0.9130000305175782,0.4979999923706055,0.0399337001144886,Nico Elvedi,h,212,FromCorner,2022,Head,19418,Borussia M.Gladbach,FC Cologne,5,2,2022-10-09 13:30:00,Jonas Hofmann,Aerial
+497266,32,Goal,0.9290000152587891,0.509000015258789,0.37986499071121216,Nico Elvedi,a,212,FromCorner,2022,Head,19443,Union Berlin,Borussia M.Gladbach,2,1,2022-10-30 14:30:00,Lars Stindl,Cross
+505051,27,SavedShot,0.889000015258789,0.5640000152587891,0.051837798207998276,Nico Elvedi,h,212,SetPiece,2022,Head,19481,Borussia M.Gladbach,Bayer Leverkusen,2,3,2023-01-22 16:30:00,Jonas Hofmann,Chipped
+505059,54,SavedShot,0.9369999694824219,0.45799999237060546,0.3662329912185669,Nico Elvedi,h,212,FromCorner,2022,Head,19481,Borussia M.Gladbach,Bayer Leverkusen,2,3,2023-01-22 16:30:00,Jonas Hofmann,Cross
+505509,65,BlockedShot,0.87,0.6329999923706054,0.06530260294675827,Nico Elvedi,a,212,OpenPlay,2022,RightFoot,19491,Augsburg,Borussia M.Gladbach,1,0,2023-01-25 19:30:00,Alassane Pléa,Pass
+507362,59,MissedShots,0.805,0.69,0.026089999824762344,Nico Elvedi,h,212,OpenPlay,2022,LeftFoot,19507,Borussia M.Gladbach,Schalke 04,0,0,2023-02-04 17:30:00,Kouadio Kone,Pass
+508955,16,Goal,0.9080000305175782,0.46900001525878904,0.077634297311306,Nico Elvedi,a,212,FromCorner,2022,Head,19519,Hertha Berlin,Borussia M.Gladbach,4,1,2023-02-12 14:30:00,Luca Netz,Cross
+510595,19,MissedShots,0.9359999847412109,0.555,0.09198769927024841,Nico Elvedi,a,212,SetPiece,2022,RightFoot,19535,Mainz 05,Borussia M.Gladbach,4,0,2023-02-24 19:30:00,Jonas Hofmann,Chipped
+512006,41,SavedShot,0.8669999694824219,0.5459999847412109,0.04428720101714134,Nico Elvedi,h,212,SetPiece,2022,Head,19544,Borussia M.Gladbach,Freiburg,0,0,2023-03-04 14:30:00,Jonas Hofmann,Chipped
+514581,6,MissedShots,0.9669999694824218,0.585,0.36990100145339966,Nico Elvedi,h,212,SetPiece,2022,LeftFoot,19563,Borussia M.Gladbach,Werder Bremen,2,2,2023-03-17 19:30:00,Jonas Hofmann,Cross
+516988,18,SavedShot,0.894000015258789,0.5459999847412109,0.05067890137434006,Nico Elvedi,a,212,FromCorner,2022,Head,19569,FC Cologne,Borussia M.Gladbach,0,0,2023-04-02 13:30:00,Jonas Hofmann,Cross
+519701,50,SavedShot,0.9580000305175781,0.465,0.1252560019493103,Nico Elvedi,a,212,SetPiece,2022,Head,19589,Eintracht Frankfurt,Borussia M.Gladbach,1,1,2023-04-15 16:30:00,Marcus Thuram,Aerial
+524486,62,MissedShots,0.9180000305175782,0.4209999847412109,0.020025115460157394,Nico Elvedi,h,212,FromCorner,2022,Head,19617,Borussia M.Gladbach,Bochum,2,0,2023-05-06 13:30:00,Jonas Hofmann,Aerial
+529090,44,MissedShots,0.9080000305175782,0.46099998474121096,0.044016558676958084,Nico Elvedi,h,212,SetPiece,2022,Head,19643,Borussia M.Gladbach,Augsburg,2,0,2023-05-27 13:30:00,Jonas Hofmann,Aerial
+539042,24,MissedShots,0.9519999694824218,0.4370000076293945,0.0787886381149292,Nico Elvedi,h,212,SetPiece,2023,Head,23103,Borussia M.Gladbach,RasenBallsport Leipzig,0,1,2023-09-23 13:30:00,Franck Honorat,Aerial
+539048,62,MissedShots,0.9340000152587891,0.5670000076293945,0.09480032324790955,Nico Elvedi,h,212,FromCorner,2023,Head,23103,Borussia M.Gladbach,RasenBallsport Leipzig,0,1,2023-09-23 13:30:00,Franck Honorat,Cross
+539054,88,BlockedShot,0.925,0.40900001525878904,0.018537089228630066,Nico Elvedi,h,212,FromCorner,2023,Head,23103,Borussia M.Gladbach,RasenBallsport Leipzig,0,1,2023-09-23 13:30:00,Alassane Pléa,Aerial
+542267,78,MissedShots,0.895,0.45799999237060546,0.017904778942465782,Nico Elvedi,h,212,FromCorner,2023,Head,23119,Borussia M.Gladbach,Mainz 05,2,2,2023-10-06 18:30:00,Franck Honorat,Aerial
+544682,62,Goal,0.9519999694824218,0.5379999923706055,0.2973284125328064,Nico Elvedi,a,212,FromCorner,2023,Head,23135,FC Cologne,Borussia M.Gladbach,3,1,2023-10-22 13:30:00,Franck Honorat,Aerial
+544685,79,MissedShots,0.7219999694824218,0.48900001525878906,0.0119387898594141,Nico Elvedi,a,212,OpenPlay,2023,LeftFoot,23135,FC Cologne,Borussia M.Gladbach,3,1,2023-10-22 13:30:00,Julian Weigl,HeadPass
+545328,78,SavedShot,0.9109999847412109,0.44,0.06542395055294037,Nico Elvedi,h,212,SetPiece,2023,Head,23141,Borussia M.Gladbach,FC Heidenheim,2,1,2023-10-28 13:30:00,Robin Hack,Chipped
+547990,90,SavedShot,0.8969999694824219,0.5579999923706055,0.04773542657494545,Nico Elvedi,h,212,FromCorner,2023,Head,23158,Borussia M.Gladbach,Wolfsburg,4,0,2023-11-10 19:30:00,Franck Honorat,Cross
+559391,81,BlockedShot,0.9180000305175782,0.5570000076293945,0.10118628293275833,Nico Elvedi,h,212,OpenPlay,2023,RightFoot,23222,Borussia M.Gladbach,Augsburg,1,2,2024-01-21 16:30:00,Franck Honorat,Chipped
+559392,81,MissedShots,0.9009999847412109,0.5109999847412109,0.07039224356412888,Nico Elvedi,h,212,FromCorner,2023,Head,23222,Borussia M.Gladbach,Augsburg,1,2,2024-01-21 16:30:00,Franck Honorat,Cross
+561128,34,Goal,0.8669999694824219,0.48,0.37537336349487305,Nico Elvedi,a,212,OpenPlay,2023,RightFoot,23236,Bayern Munich,Borussia M.Gladbach,3,1,2024-02-03 14:30:00,Jordan Siebatcheu,Pass
+566503,93,MissedShots,0.8330000305175781,0.43900001525878907,0.0596204437315464,Nico Elvedi,a,212,OpenPlay,2023,LeftFoot,23275,Mainz 05,Borussia M.Gladbach,1,1,2024-03-02 14:30:00,Rocco Reitz,Pass
+567928,50,MissedShots,0.9259999847412109,0.5359999847412109,0.10913384705781937,Nico Elvedi,h,212,FromCorner,2023,Head,23285,Borussia M.Gladbach,FC Cologne,3,3,2024-03-09 14:30:00,Franck Honorat,Cross
+570559,21,BlockedShot,0.9669999694824218,0.5309999847412109,0.5171862840652466,Nico Elvedi,h,212,FromCorner,2023,Head,23303,Borussia M.Gladbach,Freiburg,0,3,2024-03-30 14:30:00,Franck Honorat,Cross
+570563,30,MissedShots,0.9359999847412109,0.43,0.09362724423408508,Nico Elvedi,h,212,FromCorner,2023,Head,23303,Borussia M.Gladbach,Freiburg,0,3,2024-03-30 14:30:00,Franck Honorat,Cross
+574917,61,SavedShot,0.9009999847412109,0.5129999923706055,0.02413644827902317,Nico Elvedi,a,212,FromCorner,2023,Head,23332,Hoffenheim,Borussia M.Gladbach,4,3,2024-04-20 13:30:00,Robin Hack,Aerial
+585740,58,SavedShot,0.94,0.49900001525878906,0.5169886350631714,Nico Elvedi,h,212,SetPiece,2024,Head,27742,Borussia M.Gladbach,Bayer Leverkusen,2,3,2024-08-23 18:30:00,Ko Itakura,HeadPass
+585741,58,Goal,0.9619999694824218,0.5159999847412109,0.7182286381721497,Nico Elvedi,h,212,SetPiece,2024,LeftFoot,27742,Borussia M.Gladbach,Bayer Leverkusen,2,3,2024-08-23 18:30:00,,Rebound
+592673,39,SavedShot,0.8959999847412109,0.48700000762939455,0.062396422028541565,Nico Elvedi,a,212,SetPiece,2024,Head,27774,Eintracht Frankfurt,Borussia M.Gladbach,2,0,2024-09-21 16:30:00,Kevin Stöger,Chipped
+592690,65,BlockedShot,0.92,0.46,0.05775777995586395,Nico Elvedi,a,212,SetPiece,2024,Head,27774,Eintracht Frankfurt,Borussia M.Gladbach,2,0,2024-09-21 16:30:00,Kevin Stöger,Aerial
+592700,90,MissedShots,0.9519999694824218,0.4570000076293945,0.09801942855119705,Nico Elvedi,a,212,SetPiece,2024,Head,27774,Eintracht Frankfurt,Borussia M.Gladbach,2,0,2024-09-21 16:30:00,Kevin Stöger,Aerial
+607050,87,ShotOnPost,0.9009999847412109,0.56,0.07828868925571442,Nico Elvedi,h,212,SetPiece,2024,LeftFoot,27865,Borussia M.Gladbach,Holstein Kiel,4,1,2024-12-14 14:30:00,Luca Netz,Cross
+610860,81,MissedShots,0.9209999847412109,0.485,0.05056394636631012,Nico Elvedi,h,212,FromCorner,2024,Head,27884,Borussia M.Gladbach,Bayern Munich,0,1,2025-01-11 17:30:00,Kevin Stöger,Aerial
+614840,48,OwnGoal,0.034000000953674316,0.49,0,Nico Elvedi,a,212,OpenPlay,2024,LeftFoot,27917,VfB Stuttgart,Borussia M.Gladbach,1,2,2025-02-01 14:30:00,,None
+617099,37,MissedShots,0.925,0.5479999923706055,0.04852164536714554,Nico Elvedi,a,212,FromCorner,2024,Head,27937,Union Berlin,Borussia M.Gladbach,1,2,2025-02-15 14:30:00,Robin Hack,Aerial
+618334,35,BlockedShot,0.9490000152587891,0.54,0.07178662717342377,Nico Elvedi,h,212,FromCorner,2024,Head,27947,Borussia M.Gladbach,Augsburg,0,3,2025-02-22 14:30:00,,Rebound
+624185,53,MissedShots,0.9059999847412109,0.41900001525878905,0.05704199895262718,Nico Elvedi,h,212,FromCorner,2024,Head,27980,Borussia M.Gladbach,RasenBallsport Leipzig,1,0,2025-03-29 14:30:00,Franck Honorat,Cross
+624197,72,ShotOnPost,0.9209999847412109,0.5540000152587891,0.0347956120967865,Nico Elvedi,h,212,FromCorner,2024,Head,27980,Borussia M.Gladbach,RasenBallsport Leipzig,1,0,2025-03-29 14:30:00,Robin Hack,Aerial
+632978,22,MissedShots,0.9480000305175781,0.405,0.043156616389751434,Nico Elvedi,a,212,FromCorner,2024,Head,28032,Bayern Munich,Borussia M.Gladbach,2,0,2025-05-10 16:30:00,Stefan Lainer,None
+642456,29,BlockedShot,0.8780000305175781,0.5620000076293945,0.026531418785452843,Nico Elvedi,h,212,FromCorner,2025,Head,30250,Borussia M.Gladbach,Werder Bremen,0,4,2025-09-14 15:30:00,Franck Honorat,Cross
+653509,78,MissedShots,0.9669999694824218,0.39099998474121095,0.09986545145511627,Nico Elvedi,a,212,SetPiece,2025,RightFoot,30318,FC Heidenheim,Borussia M.Gladbach,0,3,2025-11-22 14:30:00,,Rebound
+653508,78,BlockedShot,0.925,0.3840000152587891,0.012718455865979195,Nico Elvedi,a,212,SetPiece,2025,Head,30318,FC Heidenheim,Borussia M.Gladbach,0,3,2025-11-22 14:30:00,Giovanni Reyna,Aerial
+653510,84,MissedShots,0.8540000152587891,0.3370000076293945,0.07166910171508789,Nico Elvedi,a,212,OpenPlay,2025,RightFoot,30318,FC Heidenheim,Borussia M.Gladbach,0,3,2025-11-22 14:30:00,Giovanni Reyna,Pass
+668629,12,MissedShots,0.7190000152587891,0.2560000038146973,0.01271458063274622,Nico Elvedi,a,212,OpenPlay,2025,RightFoot,30416,Eintracht Frankfurt,Borussia M.Gladbach,3,0,2026-02-14 14:30:00,Yannick Engelhardt,Pass
+670251,47,MissedShots,0.9890000152587891,0.3920000076293945,0.024861203506588936,Nico Elvedi,a,212,SetPiece,2025,RightFoot,30424,Freiburg,Borussia M.Gladbach,2,1,2026-02-22 14:30:00,Franck Honorat,Cross
+671037,7,MissedShots,0.919000015258789,0.3940000152587891,0.03560074046254158,Nico Elvedi,h,212,FromCorner,2025,Head,30433,Borussia M.Gladbach,Union Berlin,1,0,2026-02-28 14:30:00,Franck Honorat,Cross
+671040,14,BlockedShot,0.8180000305175781,0.37900001525878907,0.039985451847314835,Nico Elvedi,h,212,OpenPlay,2025,RightFoot,30433,Borussia M.Gladbach,Union Berlin,1,0,2026-02-28 14:30:00,Joe Scally,Pass

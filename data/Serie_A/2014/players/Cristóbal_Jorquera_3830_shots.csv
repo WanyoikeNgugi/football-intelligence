@@ -1,0 +1,21 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+41893,50,MissedShots,0.875999984741211,0.6880000305175781,0.03275100141763687,Cristóbal Jorquera,h,3830,FromCorner,2014,RightFoot,5117,Parma,AC Milan,4,5,2014-09-14 19:45:00,Abdelkader Ghezzal,LayOff
+41896,57,BlockedShot,0.7809999847412109,0.6270000076293946,0.023953299969434738,Cristóbal Jorquera,h,3830,OpenPlay,2014,RightFoot,5117,Parma,AC Milan,4,5,2014-09-14 19:45:00,Francesco Lodi,Pass
+41898,66,BlockedShot,0.7859999847412109,0.5940000152587891,0.03548920154571533,Cristóbal Jorquera,h,3830,FromCorner,2014,RightFoot,5117,Parma,AC Milan,4,5,2014-09-14 19:45:00,Francesco Lodi,Pass
+41900,71,BlockedShot,0.75,0.5690000152587891,0.016538899391889572,Cristóbal Jorquera,h,3830,OpenPlay,2014,RightFoot,5117,Parma,AC Milan,4,5,2014-09-14 19:45:00,Antonio Cassano,Pass
+42684,16,BlockedShot,0.750999984741211,0.48700000762939455,0.02102839946746826,Cristóbal Jorquera,a,3830,SetPiece,2014,RightFoot,5147,Udinese,Parma,4,2,2014-09-29 18:00:00,Antonio Cassano,Pass
+48211,9,MissedShots,0.7340000152587891,0.769000015258789,0.00700283981859684,Cristóbal Jorquera,a,3830,OpenPlay,2014,RightFoot,4830,Inter,Parma,1,1,2015-04-04 14:00:00,Massimo Gobbi,TakeOn
+48215,36,BlockedShot,0.789000015258789,0.415,0.0375869981944561,Cristóbal Jorquera,a,3830,OpenPlay,2014,RightFoot,4830,Inter,Parma,1,1,2015-04-04 14:00:00,Silvestre Varela,Pass
+48693,10,BlockedShot,0.7769999694824219,0.4929999923706055,0.03073050081729889,Cristóbal Jorquera,h,3830,OpenPlay,2014,LeftFoot,4841,Parma,Juventus,1,0,2015-04-11 17:00:00,José Mauri,Pass
+48712,56,MissedShots,0.7280000305175781,0.3089999961853027,0.01508140005171299,Cristóbal Jorquera,h,3830,OpenPlay,2014,LeftFoot,4841,Parma,Juventus,1,0,2015-04-11 17:00:00,Pedro Mendes,Pass
+48715,58,MissedShots,0.7930000305175782,0.455,0.028339700773358345,Cristóbal Jorquera,h,3830,OpenPlay,2014,RightFoot,4841,Parma,Juventus,1,0,2015-04-11 17:00:00,,Rebound
+47676,63,MissedShots,0.764000015258789,0.36700000762939455,0.018790099769830704,Cristóbal Jorquera,a,3830,OpenPlay,2014,LeftFoot,4850,Genoa,Parma,2,0,2015-04-15 17:30:00,,None
+51331,70,SavedShot,0.860999984741211,0.7090000152587891,0.020871099084615707,Cristóbal Jorquera,h,3830,OpenPlay,2014,LeftFoot,4864,Parma,Palermo,1,0,2015-04-26 14:00:00,,Aerial
+50085,17,SavedShot,0.745,0.41200000762939454,0.01706779934465885,Cristóbal Jorquera,a,3830,OpenPlay,2014,RightFoot,4787,Cagliari,Parma,4,0,2015-05-04 19:45:00,José Mauri,LayOff
+50895,32,Goal,0.759000015258789,0.7230000305175781,0.016586199402809143,Cristóbal Jorquera,h,3830,SetPiece,2014,RightFoot,4795,Parma,Napoli,2,2,2015-05-10 17:00:00,Massimo Gobbi,Pass
+50901,51,SavedShot,0.9,0.830999984741211,0.0560653991997242,Cristóbal Jorquera,h,3830,DirectFreekick,2014,RightFoot,4795,Parma,Napoli,2,2,2015-05-10 17:00:00,,Standard
+50474,33,BlockedShot,0.855,0.5940000152587891,0.06383050233125687,Cristóbal Jorquera,a,3830,OpenPlay,2014,LeftFoot,4807,Fiorentina,Parma,3,0,2015-05-18 18:00:00,,BallRecovery
+50477,46,MissedShots,0.7080000305175781,0.5259999847412109,0.008279929868876934,Cristóbal Jorquera,a,3830,OpenPlay,2014,RightFoot,4807,Fiorentina,Parma,3,0,2015-05-18 18:00:00,,None
+50491,82,MissedShots,0.7280000305175781,0.4640000152587891,0.013800900429487228,Cristóbal Jorquera,a,3830,OpenPlay,2014,RightFoot,4807,Fiorentina,Parma,3,0,2015-05-18 18:00:00,Silvestre Varela,Pass
+51035,5,BlockedShot,0.865,0.375,0.08285059779882431,Cristóbal Jorquera,h,3830,OpenPlay,2014,RightFoot,4812,Parma,Verona,2,2,2015-05-24 14:00:00,Raffaele Palladino,Pass
+51044,32,BlockedShot,0.895,0.33799999237060546,0.07708170264959335,Cristóbal Jorquera,h,3830,OpenPlay,2014,LeftFoot,4812,Parma,Verona,2,2,2015-05-24 14:00:00,,None

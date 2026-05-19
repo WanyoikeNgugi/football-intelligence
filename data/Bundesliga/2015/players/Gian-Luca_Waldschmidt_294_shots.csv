@@ -1,0 +1,251 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+29441,90,BlockedShot,0.8630000305175781,0.6619999694824219,0.03936979919672012,Gian-Luca Waldschmidt,a,294,OpenPlay,2014,LeftFoot,5227,Borussia Dortmund,Eintracht Frankfurt,2,0,2015-04-25 14:30:00,,None
+76154,84,SavedShot,0.9130000305175782,0.4129999923706055,0.06993039697408676,Gian-Luca Waldschmidt,a,294,OpenPlay,2015,Head,1028,Wolfsburg,Eintracht Frankfurt,2,1,2015-08-16 17:30:00,Aleksandar Ignjovski,Cross
+77261,87,BlockedShot,0.8540000152587891,0.6609999847412109,0.0412973016500473,Gian-Luca Waldschmidt,a,294,SetPiece,2015,LeftFoot,1071,Schalke 04,Eintracht Frankfurt,2,0,2015-09-23 22:00:00,,None
+81605,84,BlockedShot,0.85,0.7240000152587891,0.022695299237966537,Gian-Luca Waldschmidt,a,294,OpenPlay,2015,LeftFoot,1231,Hertha Berlin,Eintracht Frankfurt,2,0,2016-03-02 23:00:00,,None
+81855,46,MissedShots,0.975,0.525,0.6344410181045532,Gian-Luca Waldschmidt,h,294,OpenPlay,2015,Head,1240,Eintracht Frankfurt,Ingolstadt,1,1,2016-03-05 18:30:00,Marco Fabián,HeadPass
+81867,72,MissedShots,0.904000015258789,0.44799999237060545,0.13174200057983398,Gian-Luca Waldschmidt,h,294,OpenPlay,2015,LeftFoot,1240,Eintracht Frankfurt,Ingolstadt,1,1,2016-03-05 18:30:00,Yanni Regäsel,Pass
+128577,45,MissedShots,0.8690000152587891,0.52,0.08236189931631088,Gian-Luca Waldschmidt,a,294,OpenPlay,2016,LeftFoot,1357,Freiburg,Hamburger SV,1,0,2016-09-20 22:00:00,,None
+129379,59,MissedShots,0.885,0.385,0.03043919987976551,Gian-Luca Waldschmidt,h,294,OpenPlay,2016,RightFoot,1390,Hamburger SV,Eintracht Frankfurt,0,3,2016-10-21 22:30:00,,Aerial
+129640,57,MissedShots,0.9619999694824218,0.5879999923706055,0.08069449663162231,Gian-Luca Waldschmidt,h,294,FromCorner,2016,LeftFoot,2807,Hamburger SV,Borussia Dortmund,2,5,2016-11-05 18:30:00,Michael Gregoritsch,Cross
+129641,63,SavedShot,0.9290000152587891,0.6819999694824219,0.058333300054073334,Gian-Luca Waldschmidt,h,294,OpenPlay,2016,LeftFoot,2807,Hamburger SV,Borussia Dortmund,2,5,2016-11-05 18:30:00,Douglas Santos,Pass
+130170,71,MissedShots,0.8630000305175781,0.615999984741211,0.0638796016573906,Gian-Luca Waldschmidt,h,294,OpenPlay,2016,LeftFoot,2827,Hamburger SV,Werder Bremen,2,2,2016-11-26 18:30:00,,None
+130286,43,SavedShot,0.8580000305175781,0.295,0.07630590349435806,Gian-Luca Waldschmidt,h,294,OpenPlay,2016,LeftFoot,3221,Hamburger SV,Schalke 04,2,1,2016-12-20 23:00:00,Michael Gregoritsch,BallRecovery
+132986,74,SavedShot,0.9490000152587891,0.6819999694824219,0.058706700801849365,Gian-Luca Waldschmidt,a,294,OpenPlay,2016,LeftFoot,3867,Schalke 04,Hamburger SV,1,1,2017-05-13 14:30:00,Lewis Holtby,Pass
+132993,91,BlockedShot,0.9259999847412109,0.5879999923706055,0.0798071026802063,Gian-Luca Waldschmidt,a,294,OpenPlay,2016,LeftFoot,3867,Schalke 04,Hamburger SV,1,1,2017-05-13 14:30:00,,None
+127924,87,Goal,0.935,0.45799999237060546,0.13838300108909607,Gian-Luca Waldschmidt,h,294,OpenPlay,2016,Head,3879,Hamburger SV,Wolfsburg,2,1,2017-05-20 14:30:00,Filip Kostic,Cross
+165935,84,SavedShot,0.769000015258789,0.40200000762939453,0.033755701035261154,Gian-Luca Waldschmidt,h,294,OpenPlay,2017,LeftFoot,8262,Hamburger SV,Augsburg,1,0,2017-08-19 14:30:00,Bobby Wood,Pass
+165936,88,MissedShots,0.8590000152587891,0.41,0.12998199462890625,Gian-Luca Waldschmidt,h,294,OpenPlay,2017,RightFoot,8262,Hamburger SV,Augsburg,1,0,2017-08-19 14:30:00,André Hahn,Chipped
+166049,33,BlockedShot,0.7930000305175782,0.425,0.027748199179768562,Gian-Luca Waldschmidt,a,294,SetPiece,2017,LeftFoot,8268,FC Cologne,Hamburger SV,1,3,2017-08-25 19:30:00,,None
+166394,48,MissedShots,0.7909999847412109,0.36,0.08558270335197449,Gian-Luca Waldschmidt,h,294,DirectFreekick,2017,LeftFoot,8277,Hamburger SV,RasenBallsport Leipzig,0,2,2017-09-08 19:30:00,,Standard
+166396,59,MissedShots,0.7859999847412109,0.43900001525878907,0.05103420093655586,Gian-Luca Waldschmidt,h,294,OpenPlay,2017,LeftFoot,8277,Hamburger SV,RasenBallsport Leipzig,0,2,2017-09-08 19:30:00,Bobby Wood,LayOff
+166767,65,BlockedShot,0.9219999694824219,0.54,0.08381780236959457,Gian-Luca Waldschmidt,a,294,OpenPlay,2017,LeftFoot,8312,Bayer Leverkusen,Hamburger SV,3,0,2017-09-24 17:00:00,,None
+166769,68,MissedShots,0.755,0.54,0.022497599944472313,Gian-Luca Waldschmidt,a,294,OpenPlay,2017,RightFoot,8312,Bayer Leverkusen,Hamburger SV,3,0,2017-09-24 17:00:00,Gotoku Sakai,Pass
+167681,84,SavedShot,0.7580000305175781,0.655,0.03222360089421272,Gian-Luca Waldschmidt,h,294,OpenPlay,2017,LeftFoot,8355,Hamburger SV,VfB Stuttgart,3,1,2017-11-04 14:30:00,Gotoku Sakai,Pass
+167977,40,SavedShot,0.9690000152587891,0.3029999923706055,0.04801119863986969,Gian-Luca Waldschmidt,a,294,OpenPlay,2017,LeftFoot,8362,Schalke 04,Hamburger SV,2,0,2017-11-19 14:30:00,Gideon Jung,Chipped
+179763,72,MissedShots,0.789000015258789,0.26799999237060546,0.020911600440740585,Gian-Luca Waldschmidt,h,294,FromCorner,2017,LeftFoot,8387,Hamburger SV,Wolfsburg,0,0,2017-12-09 14:30:00,Aaron Hunt,Pass
+184045,7,BlockedShot,0.8969999694824219,0.32099998474121094,0.059999000281095505,Gian-Luca Waldschmidt,h,294,OpenPlay,2017,LeftFoot,8400,Hamburger SV,Eintracht Frankfurt,1,2,2017-12-12 19:30:00,Aaron Hunt,Pass
+184049,16,BlockedShot,0.874000015258789,0.6170000076293946,0.09219499677419662,Gian-Luca Waldschmidt,h,294,OpenPlay,2017,LeftFoot,8400,Hamburger SV,Eintracht Frankfurt,1,2,2017-12-12 19:30:00,Aaron Hunt,Pass
+184059,45,SavedShot,0.904000015258789,0.6630000305175782,0.0623444989323616,Gian-Luca Waldschmidt,h,294,OpenPlay,2017,LeftFoot,8400,Hamburger SV,Eintracht Frankfurt,1,2,2017-12-12 19:30:00,Douglas Santos,Pass
+184068,59,MissedShots,0.755,0.28,0.01711929962038994,Gian-Luca Waldschmidt,h,294,OpenPlay,2017,LeftFoot,8400,Hamburger SV,Eintracht Frankfurt,1,2,2017-12-12 19:30:00,Gideon Jung,Pass
+183771,90,MissedShots,0.8080000305175781,0.355,0.026253700256347656,Gian-Luca Waldschmidt,a,294,OpenPlay,2017,LeftFoot,8408,Borussia M.Gladbach,Hamburger SV,3,1,2017-12-15 19:30:00,,None
+187271,76,SavedShot,0.8980000305175782,0.620999984741211,0.07115930318832397,Gian-Luca Waldschmidt,a,294,SetPiece,2017,LeftFoot,8418,Augsburg,Hamburger SV,1,0,2018-01-13 14:30:00,Kyriakos Papadopoulos,HeadPass
+198779,56,BlockedShot,0.7719999694824219,0.49700000762939456,0.022287800908088684,Gian-Luca Waldschmidt,h,294,FromCorner,2017,RightFoot,8482,Hamburger SV,Mainz 05,0,0,2018-03-03 14:30:00,,None
+198783,78,MissedShots,0.7709999847412109,0.38799999237060545,0.02247760072350502,Gian-Luca Waldschmidt,h,294,OpenPlay,2017,LeftFoot,8482,Hamburger SV,Mainz 05,0,0,2018-03-03 14:30:00,,None
+204453,17,SavedShot,0.9130000305175782,0.7130000305175781,0.046956900507211685,Gian-Luca Waldschmidt,a,294,OpenPlay,2017,LeftFoot,8510,VfB Stuttgart,Hamburger SV,1,1,2018-03-31 14:30:00,Douglas Santos,None
+204456,28,BlockedShot,0.9159999847412109,0.639000015258789,0.10480300337076187,Gian-Luca Waldschmidt,a,294,OpenPlay,2017,LeftFoot,8510,VfB Stuttgart,Hamburger SV,1,1,2018-03-31 14:30:00,Douglas Santos,Pass
+204467,66,SavedShot,0.8059999847412109,0.4779999923706055,0.05534129962325096,Gian-Luca Waldschmidt,a,294,OpenPlay,2017,LeftFoot,8510,VfB Stuttgart,Hamburger SV,1,1,2018-03-31 14:30:00,Filip Kostic,Pass
+207398,19,BlockedShot,0.9769999694824218,0.5790000152587891,0.06200530007481575,Gian-Luca Waldschmidt,h,294,OpenPlay,2017,Head,8518,Hamburger SV,Schalke 04,3,2,2018-04-07 16:30:00,,None
+207402,36,SavedShot,0.9390000152587891,0.3160000038146973,0.057201601564884186,Gian-Luca Waldschmidt,h,294,OpenPlay,2017,RightFoot,8518,Hamburger SV,Schalke 04,3,2,2018-04-07 16:30:00,Aaron Hunt,Chipped
+207408,59,MissedShots,0.9259999847412109,0.5509999847412109,0.49439099431037903,Gian-Luca Waldschmidt,h,294,OpenPlay,2017,LeftFoot,8518,Hamburger SV,Schalke 04,3,2,2018-04-07 16:30:00,,Rebound
+207411,63,MissedShots,0.7680000305175781,0.49900001525878906,0.025215700268745422,Gian-Luca Waldschmidt,h,294,OpenPlay,2017,LeftFoot,8518,Hamburger SV,Schalke 04,3,2,2018-04-07 16:30:00,Douglas Santos,Foul
+208324,10,SavedShot,0.9009999847412109,0.740999984741211,0.03645889833569527,Gian-Luca Waldschmidt,a,294,OpenPlay,2017,LeftFoot,8521,Hoffenheim,Hamburger SV,2,0,2018-04-14 13:30:00,Tatsuya Ito,Pass
+208340,45,BlockedShot,0.835999984741211,0.62,0.048833299428224564,Gian-Luca Waldschmidt,a,294,OpenPlay,2017,RightFoot,8521,Hoffenheim,Hamburger SV,2,0,2018-04-14 13:30:00,Lewis Holtby,BlockedPass
+210358,19,MissedShots,0.9359999847412109,0.44599998474121094,0.11202699691057205,Gian-Luca Waldschmidt,h,294,FromCorner,2017,Head,8535,Hamburger SV,Freiburg,1,0,2018-04-21 13:30:00,Aaron Hunt,Cross
+211647,92,Goal,0.9480000305175781,0.45799999237060546,0.611395001411438,Gian-Luca Waldschmidt,a,294,SetPiece,2017,RightFoot,8546,Wolfsburg,Hamburger SV,1,3,2018-04-28 13:30:00,,Rebound
+213256,48,BlockedShot,0.895,0.57,0.0840236023068428,Gian-Luca Waldschmidt,a,294,FromCorner,2017,LeftFoot,8555,Eintracht Frankfurt,Hamburger SV,3,0,2018-05-05 14:30:00,,None
+213271,82,MissedShots,0.785,0.595999984741211,0.022758999839425087,Gian-Luca Waldschmidt,a,294,FromCorner,2017,LeftFoot,8555,Eintracht Frankfurt,Hamburger SV,3,0,2018-05-05 14:30:00,,None
+220005,13,MissedShots,0.72,0.4879999923706055,0.04958900064229965,Gian-Luca Waldschmidt,h,294,DirectFreekick,2018,LeftFoot,10342,Freiburg,Eintracht Frankfurt,0,2,2018-08-25 16:30:00,,Standard
+220006,14,BlockedShot,0.7430000305175781,0.5279999923706055,0.015029899775981903,Gian-Luca Waldschmidt,h,294,OpenPlay,2018,LeftFoot,10342,Freiburg,Eintracht Frankfurt,0,2,2018-08-25 16:30:00,Pascal Stenzel,Chipped
+220017,54,MissedShots,0.8719999694824219,0.6519999694824219,0.06142739951610565,Gian-Luca Waldschmidt,h,294,OpenPlay,2018,LeftFoot,10342,Freiburg,Eintracht Frankfurt,0,2,2018-08-25 16:30:00,Christian Günter,Pass
+220019,59,MissedShots,0.769000015258789,0.34700000762939454,0.0649871975183487,Gian-Luca Waldschmidt,h,294,DirectFreekick,2018,RightFoot,10342,Freiburg,Eintracht Frankfurt,0,2,2018-08-25 16:30:00,,Standard
+224343,70,ShotOnPost,0.85,0.49,0.07531300187110901,Gian-Luca Waldschmidt,h,294,OpenPlay,2018,LeftFoot,10363,Freiburg,VfB Stuttgart,3,3,2018-09-16 16:00:00,Manuel Gulde,Pass
+224346,80,Goal,0.865,0.29100000381469726,0.03921300172805786,Gian-Luca Waldschmidt,h,294,OpenPlay,2018,RightFoot,10363,Freiburg,VfB Stuttgart,3,3,2018-09-16 16:00:00,Dominique Heintz,Pass
+228802,47,SavedShot,0.7759999847412109,0.44299999237060544,0.031837500631809235,Gian-Luca Waldschmidt,a,294,OpenPlay,2018,LeftFoot,10390,Augsburg,Freiburg,4,1,2018-09-30 16:00:00,,BallRecovery
+255364,89,ShotOnPost,0.8590000152587891,0.6370000076293946,0.07257349789142609,Gian-Luca Waldschmidt,h,294,OpenPlay,2018,LeftFoot,10397,Freiburg,Bayer Leverkusen,0,0,2018-10-07 11:30:00,Janik Haberer,Pass
+255595,8,BlockedShot,0.840999984741211,0.5479999923706055,0.11138699948787689,Gian-Luca Waldschmidt,a,294,OpenPlay,2018,RightFoot,10405,Hertha Berlin,Freiburg,1,1,2018-10-21 13:30:00,Roland Sallai,TakeOn
+255597,14,MissedShots,0.865999984741211,0.725999984741211,0.035102199763059616,Gian-Luca Waldschmidt,a,294,FromCorner,2018,RightFoot,10405,Hertha Berlin,Freiburg,1,1,2018-10-21 13:30:00,Marco Terrazzino,Pass
+255612,82,SavedShot,0.8880000305175781,0.6040000152587891,0.07086379826068878,Gian-Luca Waldschmidt,a,294,OpenPlay,2018,LeftFoot,10405,Hertha Berlin,Freiburg,1,1,2018-10-21 13:30:00,Christian Günter,Cross
+255651,21,MissedShots,0.7909999847412109,0.605999984741211,0.02770319953560829,Gian-Luca Waldschmidt,h,294,OpenPlay,2018,RightFoot,10414,Freiburg,Borussia M.Gladbach,3,1,2018-10-26 18:30:00,Mike Frantz,HeadPass
+255661,56,Goal,0.8390000152587891,0.3770000076293945,0.08680380135774612,Gian-Luca Waldschmidt,h,294,OpenPlay,2018,LeftFoot,10414,Freiburg,Borussia M.Gladbach,3,1,2018-10-26 18:30:00,Janik Haberer,Pass
+256278,71,SavedShot,0.8719999694824219,0.580999984741211,0.08556000143289566,Gian-Luca Waldschmidt,h,294,OpenPlay,2018,LeftFoot,10433,Freiburg,Mainz 05,1,3,2018-11-10 14:30:00,Tim Kleindienst,Pass
+256282,79,MissedShots,0.9319999694824219,0.5729999923706055,0.3927899897098541,Gian-Luca Waldschmidt,h,294,OpenPlay,2018,LeftFoot,10433,Freiburg,Mainz 05,1,3,2018-11-10 14:30:00,Nicolas Höfler,TakeOn
+256603,10,MissedShots,0.735,0.42700000762939455,0.022205499932169914,Gian-Luca Waldschmidt,h,294,OpenPlay,2018,LeftFoot,10442,Freiburg,Werder Bremen,1,1,2018-11-25 14:30:00,Manuel Gulde,Pass
+256609,26,SavedShot,0.7819999694824219,0.35900001525878905,0.027113400399684906,Gian-Luca Waldschmidt,h,294,OpenPlay,2018,RightFoot,10442,Freiburg,Werder Bremen,1,1,2018-11-25 14:30:00,Marco Terrazzino,Pass
+256615,39,BlockedShot,0.7959999847412109,0.6530000305175782,0.02781040035188198,Gian-Luca Waldschmidt,h,294,OpenPlay,2018,RightFoot,10442,Freiburg,Werder Bremen,1,1,2018-11-25 14:30:00,Marco Terrazzino,Pass
+256616,41,Goal,0.885,0.5,0.7577769756317139,Gian-Luca Waldschmidt,h,294,Penalty,2018,LeftFoot,10442,Freiburg,Werder Bremen,1,1,2018-11-25 14:30:00,,Standard
+256622,49,SavedShot,0.8530000305175781,0.5609999847412109,0.06074180081486702,Gian-Luca Waldschmidt,h,294,OpenPlay,2018,LeftFoot,10442,Freiburg,Werder Bremen,1,1,2018-11-25 14:30:00,Christian Günter,Cross
+256621,49,SavedShot,0.9130000305175782,0.4570000076293945,0.3289389908313751,Gian-Luca Waldschmidt,h,294,OpenPlay,2018,LeftFoot,10442,Freiburg,Werder Bremen,1,1,2018-11-25 14:30:00,Pascal Stenzel,Chipped
+256635,82,BlockedShot,0.8530000305175781,0.5129999923706055,0.17398600280284882,Gian-Luca Waldschmidt,h,294,OpenPlay,2018,RightFoot,10442,Freiburg,Werder Bremen,1,1,2018-11-25 14:30:00,,TakeOn
+256672,14,SavedShot,0.71,0.6120000076293945,0.01785930059850216,Gian-Luca Waldschmidt,a,294,OpenPlay,2018,RightFoot,10446,Borussia Dortmund,Freiburg,2,0,2018-12-01 14:30:00,Jérôme Gondorf,Pass
+256676,29,MissedShots,0.6969999694824218,0.36900001525878906,0.034960199147462845,Gian-Luca Waldschmidt,a,294,DirectFreekick,2018,LeftFoot,10446,Borussia Dortmund,Freiburg,2,0,2018-12-01 14:30:00,,Standard
+257084,30,SavedShot,0.735999984741211,0.534000015258789,0.023927999660372734,Gian-Luca Waldschmidt,h,294,OpenPlay,2018,LeftFoot,10460,Freiburg,RasenBallsport Leipzig,3,0,2018-12-08 14:30:00,,None
+257085,33,BlockedShot,0.725,0.485,0.01281069964170456,Gian-Luca Waldschmidt,h,294,FromCorner,2018,RightFoot,10460,Freiburg,RasenBallsport Leipzig,3,0,2018-12-08 14:30:00,,Aerial
+257087,45,Goal,0.885,0.5,0.7577769756317139,Gian-Luca Waldschmidt,h,294,Penalty,2018,LeftFoot,10460,Freiburg,RasenBallsport Leipzig,3,0,2018-12-08 14:30:00,,Standard
+257096,64,SavedShot,0.88,0.445,0.032043199986219406,Gian-Luca Waldschmidt,h,294,OpenPlay,2018,Head,10460,Freiburg,RasenBallsport Leipzig,3,0,2018-12-08 14:30:00,Nils Petersen,HeadPass
+257289,26,MissedShots,0.7219999694824218,0.534000015258789,0.017250100150704384,Gian-Luca Waldschmidt,a,294,OpenPlay,2018,LeftFoot,10470,Fortuna Duesseldorf,Freiburg,2,0,2018-12-15 14:30:00,Christian Günter,Pass
+257307,85,MissedShots,0.9259999847412109,0.5279999923706055,0.5113909840583801,Gian-Luca Waldschmidt,a,294,OpenPlay,2018,LeftFoot,10470,Fortuna Duesseldorf,Freiburg,2,0,2018-12-15 14:30:00,Nils Petersen,Pass
+257582,2,Goal,0.885,0.5,0.7577769756317139,Gian-Luca Waldschmidt,h,294,Penalty,2018,LeftFoot,10475,Freiburg,Hannover 96,1,1,2018-12-19 19:30:00,,Standard
+257598,47,MissedShots,0.754000015258789,0.32799999237060545,0.011337099596858025,Gian-Luca Waldschmidt,h,294,SetPiece,2018,LeftFoot,10475,Freiburg,Hannover 96,1,1,2018-12-19 19:30:00,,None
+257601,51,SavedShot,0.8130000305175781,0.53,0.05730079859495163,Gian-Luca Waldschmidt,h,294,OpenPlay,2018,RightFoot,10475,Freiburg,Hannover 96,1,1,2018-12-19 19:30:00,Christian Günter,Pass
+257794,75,SavedShot,0.7419999694824219,0.36700000762939455,0.02044910006225109,Gian-Luca Waldschmidt,a,294,OpenPlay,2018,LeftFoot,10481,Nuernberg,Freiburg,0,1,2018-12-22 14:30:00,Jérôme Gondorf,Pass
+278313,11,MissedShots,0.7380000305175781,0.705,0.010231699794530869,Gian-Luca Waldschmidt,a,294,OpenPlay,2018,LeftFoot,10492,Eintracht Frankfurt,Freiburg,3,1,2019-01-19 14:30:00,,None
+278315,28,MissedShots,0.9259999847412109,0.28600000381469726,0.04911410063505173,Gian-Luca Waldschmidt,a,294,OpenPlay,2018,LeftFoot,10492,Eintracht Frankfurt,Freiburg,3,1,2019-01-19 14:30:00,Vincenzo Grifo,TakeOn
+278321,46,MissedShots,0.7680000305175781,0.38,0.022077400237321854,Gian-Luca Waldschmidt,a,294,OpenPlay,2018,LeftFoot,10492,Eintracht Frankfurt,Freiburg,3,1,2019-01-19 14:30:00,Vincenzo Grifo,Pass
+278610,78,SavedShot,0.769000015258789,0.34700000762939454,0.018230900168418884,Gian-Luca Waldschmidt,h,294,OpenPlay,2018,LeftFoot,10504,Freiburg,Hoffenheim,2,4,2019-01-26 14:30:00,,None
+279082,86,SavedShot,0.9390000152587891,0.47299999237060547,0.0738712027668953,Gian-Luca Waldschmidt,h,294,OpenPlay,2018,Head,10523,Freiburg,Wolfsburg,3,3,2019-02-09 14:30:00,,Aerial
+279084,86,Goal,0.9030000305175782,0.46799999237060547,0.10528100281953812,Gian-Luca Waldschmidt,h,294,OpenPlay,2018,LeftFoot,10523,Freiburg,Wolfsburg,3,3,2019-02-09 14:30:00,Nils Petersen,Pass
+281332,60,MissedShots,0.93,0.6969999694824218,0.05324679985642433,Gian-Luca Waldschmidt,a,294,OpenPlay,2018,LeftFoot,10534,Schalke 04,Freiburg,0,0,2019-02-16 14:30:00,Vincenzo Grifo,Pass
+281334,61,BlockedShot,0.8469999694824218,0.4520000076293945,0.06541150063276291,Gian-Luca Waldschmidt,a,294,OpenPlay,2018,LeftFoot,10534,Schalke 04,Freiburg,0,0,2019-02-16 14:30:00,,Rebound
+279425,1,SavedShot,0.8190000152587891,0.7440000152587891,0.02206370048224926,Gian-Luca Waldschmidt,h,294,FromCorner,2018,RightFoot,10541,Freiburg,Augsburg,5,1,2019-02-23 14:30:00,Vincenzo Grifo,Pass
+279426,3,BlockedShot,0.860999984741211,0.620999984741211,0.08103889971971512,Gian-Luca Waldschmidt,h,294,OpenPlay,2018,LeftFoot,10541,Freiburg,Augsburg,5,1,2019-02-23 14:30:00,Vincenzo Grifo,Pass
+279438,38,SavedShot,0.8330000305175781,0.43099998474121093,0.09242700040340424,Gian-Luca Waldschmidt,h,294,OpenPlay,2018,LeftFoot,10541,Freiburg,Augsburg,5,1,2019-02-23 14:30:00,Janik Haberer,Pass
+279440,41,SavedShot,0.815,0.639000015258789,0.04672510176897049,Gian-Luca Waldschmidt,h,294,OpenPlay,2018,RightFoot,10541,Freiburg,Augsburg,5,1,2019-02-23 14:30:00,Vincenzo Grifo,Pass
+279449,63,Goal,0.81,0.38799999237060545,0.060929201543331146,Gian-Luca Waldschmidt,h,294,OpenPlay,2018,LeftFoot,10541,Freiburg,Augsburg,5,1,2019-02-23 14:30:00,Janik Haberer,Pass
+284394,87,SavedShot,0.914000015258789,0.6840000152587891,0.09503839910030365,Gian-Luca Waldschmidt,h,294,OpenPlay,2018,LeftFoot,10560,Freiburg,Hertha Berlin,2,1,2019-03-09 14:30:00,,TakeOn
+285880,2,BlockedShot,0.855999984741211,0.27700000762939453,0.03150159865617752,Gian-Luca Waldschmidt,a,294,OpenPlay,2018,LeftFoot,10569,Borussia M.Gladbach,Freiburg,1,1,2019-03-15 19:30:00,Janik Haberer,Pass
+285893,63,BlockedShot,0.9,0.34,0.07829549908638,Gian-Luca Waldschmidt,a,294,OpenPlay,2018,RightFoot,10569,Borussia M.Gladbach,Freiburg,1,1,2019-03-15 19:30:00,Janik Haberer,Pass
+291689,56,MissedShots,0.9619999694824218,0.5379999923706055,0.621288001537323,Gian-Luca Waldschmidt,a,294,OpenPlay,2018,Head,10587,Mainz 05,Freiburg,5,0,2019-04-05 19:30:00,,None
+291690,59,MissedShots,0.8190000152587891,0.3240000152587891,0.036506298929452896,Gian-Luca Waldschmidt,a,294,OpenPlay,2018,LeftFoot,10587,Mainz 05,Freiburg,5,0,2019-04-05 19:30:00,Amir Abrashi,Pass
+291691,62,SavedShot,0.8669999694824219,0.4929999923706055,0.3176639974117279,Gian-Luca Waldschmidt,a,294,OpenPlay,2018,LeftFoot,10587,Mainz 05,Freiburg,5,0,2019-04-05 19:30:00,Janik Haberer,Pass
+293515,86,BlockedShot,0.7619999694824219,0.3240000152587891,0.012647699564695358,Gian-Luca Waldschmidt,a,294,OpenPlay,2018,LeftFoot,10594,Werder Bremen,Freiburg,2,1,2019-04-13 14:30:00,,None
+293520,92,Goal,0.9519999694824218,0.639000015258789,0.2851000130176544,Gian-Luca Waldschmidt,a,294,OpenPlay,2018,LeftFoot,10594,Werder Bremen,Freiburg,2,1,2019-04-13 14:30:00,,Rebound
+295912,2,BlockedShot,0.8130000305175781,0.29399999618530276,0.02528589963912964,Gian-Luca Waldschmidt,h,294,OpenPlay,2018,LeftFoot,10601,Freiburg,Borussia Dortmund,0,4,2019-04-21 14:30:00,Pascal Stenzel,Pass
+295920,25,SavedShot,0.7880000305175782,0.28,0.019946299493312836,Gian-Luca Waldschmidt,h,294,OpenPlay,2018,LeftFoot,10601,Freiburg,Borussia Dortmund,0,4,2019-04-21 14:30:00,Pascal Stenzel,Pass
+295926,70,MissedShots,0.885,0.5790000152587891,0.09820079803466797,Gian-Luca Waldschmidt,h,294,OpenPlay,2018,LeftFoot,10601,Freiburg,Borussia Dortmund,0,4,2019-04-21 14:30:00,Christian Günter,Pass
+295929,82,SavedShot,0.8980000305175782,0.4779999923706055,0.06648790091276169,Gian-Luca Waldschmidt,h,294,FromCorner,2018,LeftFoot,10601,Freiburg,Borussia Dortmund,0,4,2019-04-21 14:30:00,Vincenzo Grifo,Cross
+300665,76,MissedShots,0.8130000305175781,0.5779999923706055,0.05440010130405426,Gian-Luca Waldschmidt,a,294,OpenPlay,2018,LeftFoot,10632,Hannover 96,Freiburg,3,0,2019-05-11 14:30:00,Vincenzo Grifo,Pass
+302394,23,SavedShot,0.7719999694824219,0.6659999847412109,0.029183700680732727,Gian-Luca Waldschmidt,h,294,OpenPlay,2018,LeftFoot,10636,Freiburg,Nuernberg,5,1,2019-05-18 13:30:00,Nicolas Höfler,Pass
+302396,23,BlockedShot,0.784000015258789,0.655,0.014497200027108192,Gian-Luca Waldschmidt,h,294,FromCorner,2018,LeftFoot,10636,Freiburg,Nuernberg,5,1,2019-05-18 13:30:00,,Aerial
+302398,33,Goal,0.805,0.5029999923706054,0.04195120185613632,Gian-Luca Waldschmidt,h,294,OpenPlay,2018,RightFoot,10636,Freiburg,Nuernberg,5,1,2019-05-18 13:30:00,Nils Petersen,Chipped
+302410,64,MissedShots,0.789000015258789,0.3390000152587891,0.026309000328183174,Gian-Luca Waldschmidt,h,294,FromCorner,2018,LeftFoot,10636,Freiburg,Nuernberg,5,1,2019-05-18 13:30:00,Marco Terrazzino,TakeOn
+310613,9,SavedShot,0.7880000305175782,0.5629999923706055,0.03461790084838867,Gian-Luca Waldschmidt,h,294,OpenPlay,2019,RightFoot,12405,Freiburg,Mainz 05,3,0,2019-08-17 14:30:00,,None
+310617,16,BlockedShot,0.7419999694824219,0.605999984741211,0.021612700074911118,Gian-Luca Waldschmidt,h,294,OpenPlay,2019,LeftFoot,12405,Freiburg,Mainz 05,3,0,2019-08-17 14:30:00,Nicolas Höfler,Pass
+310619,21,MissedShots,0.825,0.68,0.0391714982688427,Gian-Luca Waldschmidt,h,294,OpenPlay,2019,LeftFoot,12405,Freiburg,Mainz 05,3,0,2019-08-17 14:30:00,Jérôme Gondorf,TakeOn
+310644,86,Goal,0.885,0.5,0.7577769756317139,Gian-Luca Waldschmidt,h,294,Penalty,2019,LeftFoot,12405,Freiburg,Mainz 05,3,0,2019-08-17 14:30:00,,Standard
+312335,20,Goal,0.885,0.5,0.7577769756317139,Gian-Luca Waldschmidt,a,294,Penalty,2019,LeftFoot,12413,Paderborn,Freiburg,1,3,2019-08-24 14:30:00,,Standard
+315686,6,BlockedShot,0.8430000305175781,0.500999984741211,0.05216449871659279,Gian-Luca Waldschmidt,h,294,OpenPlay,2019,LeftFoot,12423,Freiburg,FC Cologne,1,2,2019-08-31 14:30:00,Christian Günter,Cross
+315687,6,MissedShots,0.82,0.47900001525878905,0.043345000594854355,Gian-Luca Waldschmidt,h,294,FromCorner,2019,RightFoot,12423,Freiburg,FC Cologne,1,2,2019-08-31 14:30:00,,None
+315700,54,BlockedShot,0.7919999694824219,0.31,0.06994490325450897,Gian-Luca Waldschmidt,h,294,DirectFreekick,2019,LeftFoot,12423,Freiburg,FC Cologne,1,2,2019-08-31 14:30:00,,Standard
+315706,77,MissedShots,0.7559999847412109,0.5070000076293946,0.02663310058414936,Gian-Luca Waldschmidt,h,294,OpenPlay,2019,RightFoot,12423,Freiburg,FC Cologne,1,2,2019-08-31 14:30:00,Nicolas Höfler,Pass
+320332,87,BlockedShot,0.8730000305175781,0.7130000305175781,0.028566300868988037,Gian-Luca Waldschmidt,h,294,FromCorner,2019,LeftFoot,12441,Freiburg,Augsburg,1,1,2019-09-21 13:30:00,,None
+323340,77,BlockedShot,0.8690000152587891,0.29399999618530276,0.04267299920320511,Gian-Luca Waldschmidt,a,294,OpenPlay,2019,LeftFoot,12455,Fortuna Duesseldorf,Freiburg,1,2,2019-09-29 13:30:00,Nils Petersen,Pass
+323341,80,Goal,0.7959999847412109,0.56,0.04383059963583946,Gian-Luca Waldschmidt,a,294,OpenPlay,2019,LeftFoot,12455,Fortuna Duesseldorf,Freiburg,1,2,2019-09-29 13:30:00,Janik Haberer,TakeOn
+324025,16,MissedShots,0.93,0.67,0.2848530113697052,Gian-Luca Waldschmidt,h,294,OpenPlay,2019,LeftFoot,12460,Freiburg,Borussia Dortmund,2,2,2019-10-05 14:30:00,Christian Günter,Chipped
+324029,39,MissedShots,0.8219999694824218,0.6730000305175782,0.03054630011320114,Gian-Luca Waldschmidt,h,294,OpenPlay,2019,LeftFoot,12460,Freiburg,Borussia Dortmund,2,2,2019-10-05 14:30:00,Christian Günter,Pass
+324032,49,MissedShots,0.8219999694824218,0.345,0.03119789995253086,Gian-Luca Waldschmidt,h,294,OpenPlay,2019,LeftFoot,12460,Freiburg,Borussia Dortmund,2,2,2019-10-05 14:30:00,Lucas Höler,Pass
+324033,54,Goal,0.8,0.5220000076293946,0.047575898468494415,Gian-Luca Waldschmidt,h,294,OpenPlay,2019,LeftFoot,12460,Freiburg,Borussia Dortmund,2,2,2019-10-05 14:30:00,Jonathan Schmid,Pass
+325410,28,MissedShots,0.8519999694824218,0.5670000076293945,0.016605300828814507,Gian-Luca Waldschmidt,a,294,OpenPlay,2019,Head,12468,Union Berlin,Freiburg,2,0,2019-10-19 14:30:00,Amir Abrashi,Cross
+325411,35,BlockedShot,0.855999984741211,0.6940000152587891,0.04023459926247597,Gian-Luca Waldschmidt,a,294,OpenPlay,2019,LeftFoot,12468,Union Berlin,Freiburg,2,0,2019-10-19 14:30:00,Christian Günter,Pass
+327044,6,MissedShots,0.765,0.549000015258789,0.020224599167704582,Gian-Luca Waldschmidt,h,294,OpenPlay,2019,RightFoot,12481,Freiburg,RasenBallsport Leipzig,2,1,2019-10-26 14:30:00,Lucas Höler,HeadPass
+331633,93,MissedShots,0.865999984741211,0.5309999847412109,0.0378745011985302,Gian-Luca Waldschmidt,h,294,SetPiece,2019,Head,12496,Freiburg,Eintracht Frankfurt,1,0,2019-11-10 17:00:00,Christian Günter,Cross
+355771,81,MissedShots,0.9119999694824219,0.5029999923706054,0.09904959797859192,Gian-Luca Waldschmidt,h,294,OpenPlay,2019,Head,12572,Freiburg,Paderborn,0,2,2020-01-25 14:30:00,Lucas Höler,Cross
+355773,85,MissedShots,0.8919999694824219,0.48200000762939454,0.06861250102519989,Gian-Luca Waldschmidt,h,294,OpenPlay,2019,LeftFoot,12572,Freiburg,Paderborn,0,2,2020-01-25 14:30:00,Christian Günter,Cross
+357984,8,SavedShot,0.879000015258789,0.48200000762939454,0.2912369966506958,Gian-Luca Waldschmidt,h,294,OpenPlay,2019,Head,12590,Freiburg,Hoffenheim,1,0,2020-02-08 14:30:00,Nils Petersen,HeadPass
+357992,39,Goal,0.885,0.5,0.7576959729194641,Gian-Luca Waldschmidt,h,294,Penalty,2019,LeftFoot,12590,Freiburg,Hoffenheim,1,0,2020-02-08 14:30:00,,Standard
+358003,63,SavedShot,0.8590000152587891,0.505,0.11278100311756134,Gian-Luca Waldschmidt,h,294,OpenPlay,2019,RightFoot,12590,Freiburg,Hoffenheim,1,0,2020-02-08 14:30:00,Jonathan Schmid,Pass
+358884,9,MissedShots,0.8180000305175781,0.3220000076293945,0.020818699151277542,Gian-Luca Waldschmidt,a,294,FromCorner,2019,RightFoot,12597,Augsburg,Freiburg,1,1,2020-02-15 14:30:00,Christian Günter,TakeOn
+358895,46,BlockedShot,0.7780000305175782,0.35700000762939454,0.022338800132274628,Gian-Luca Waldschmidt,a,294,OpenPlay,2019,RightFoot,12597,Augsburg,Freiburg,1,1,2020-02-15 14:30:00,Janik Haberer,Pass
+359876,81,MissedShots,0.9219999694824219,0.610999984741211,0.0796096995472908,Gian-Luca Waldschmidt,h,294,FromCorner,2019,LeftFoot,12608,Freiburg,Fortuna Duesseldorf,0,2,2020-02-22 14:30:00,,None
+359877,84,MissedShots,0.89,0.5129999923706055,0.06824109703302383,Gian-Luca Waldschmidt,h,294,OpenPlay,2019,LeftFoot,12608,Freiburg,Fortuna Duesseldorf,0,2,2020-02-22 14:30:00,Roland Sallai,Cross
+359882,94,MissedShots,0.855,0.4370000076293945,0.0844544991850853,Gian-Luca Waldschmidt,h,294,OpenPlay,2019,RightFoot,12608,Freiburg,Fortuna Duesseldorf,0,2,2020-02-22 14:30:00,Robin Koch,LayOff
+363411,1,SavedShot,0.860999984741211,0.645,0.07009139657020569,Gian-Luca Waldschmidt,a,294,OpenPlay,2019,RightFoot,12646,Eintracht Frankfurt,Freiburg,3,3,2020-05-26 18:30:00,Vincenzo Grifo,Pass
+363809,7,MissedShots,0.894000015258789,0.47299999237060547,0.09070160239934921,Gian-Luca Waldschmidt,h,294,OpenPlay,2019,LeftFoot,12670,Freiburg,Borussia M.Gladbach,1,0,2020-06-05 18:30:00,Christian Günter,Cross
+363830,63,BlockedShot,0.865999984741211,0.34200000762939453,0.0938011035323143,Gian-Luca Waldschmidt,h,294,OpenPlay,2019,RightFoot,12670,Freiburg,Borussia M.Gladbach,1,0,2020-06-05 18:30:00,Lucas Höler,TakeOn
+363832,73,MissedShots,0.8130000305175781,0.47900001525878905,0.07967440038919449,Gian-Luca Waldschmidt,h,294,OpenPlay,2019,RightFoot,12670,Freiburg,Borussia M.Gladbach,1,0,2020-06-05 18:30:00,Nils Petersen,TakeOn
+364612,30,BlockedShot,0.879000015258789,0.4929999923706055,0.12096600234508514,Gian-Luca Waldschmidt,h,294,OpenPlay,2019,LeftFoot,12688,Freiburg,Hertha Berlin,2,1,2020-06-16 18:30:00,Lucas Höler,Pass
+364614,47,SavedShot,0.94,0.43400001525878906,0.14092400670051575,Gian-Luca Waldschmidt,h,294,OpenPlay,2019,LeftFoot,12688,Freiburg,Hertha Berlin,2,1,2020-06-16 18:30:00,Roland Sallai,Pass
+364624,74,BlockedShot,0.815,0.5459999847412109,0.06831269711256027,Gian-Luca Waldschmidt,h,294,OpenPlay,2019,RightFoot,12688,Freiburg,Hertha Berlin,2,1,2020-06-16 18:30:00,Jonathan Schmid,Pass
+365242,69,MissedShots,0.8519999694824218,0.6630000305175782,0.05028440058231354,Gian-Luca Waldschmidt,a,294,OpenPlay,2019,LeftFoot,12691,Bayern Munich,Freiburg,3,1,2020-06-20 13:30:00,Nils Petersen,Pass
+365245,73,MissedShots,0.895,0.6359999847412109,0.07914619892835617,Gian-Luca Waldschmidt,a,294,OpenPlay,2019,LeftFoot,12691,Bayern Munich,Freiburg,3,1,2020-06-20 13:30:00,Christian Günter,Pass
+367052,2,BlockedShot,0.8219999694824218,0.395,0.07502090185880661,Gian-Luca Waldschmidt,h,294,OpenPlay,2019,LeftFoot,12706,Freiburg,Schalke 04,4,0,2020-06-27 13:30:00,,TakeOn
+367058,19,Goal,0.875,0.5529999923706055,0.1095379963517189,Gian-Luca Waldschmidt,h,294,OpenPlay,2019,RightFoot,12706,Freiburg,Schalke 04,4,0,2020-06-27 13:30:00,Christian Günter,Pass
+367070,52,BlockedShot,0.8519999694824218,0.43900001525878907,0.1154709979891777,Gian-Luca Waldschmidt,h,294,OpenPlay,2019,LeftFoot,12706,Freiburg,Schalke 04,4,0,2020-06-27 13:30:00,Vincenzo Grifo,Pass
+367072,56,Goal,0.9459999847412109,0.6309999847412109,0.09707129746675491,Gian-Luca Waldschmidt,h,294,OpenPlay,2019,LeftFoot,12706,Freiburg,Schalke 04,4,0,2020-06-27 13:30:00,,None
+429649,19,MissedShots,0.9059999847412109,0.6830000305175781,0.07378509640693665,Gian-Luca Waldschmidt,a,294,OpenPlay,2021,LeftFoot,17543,Greuther Fuerth,Wolfsburg,0,2,2021-09-11 13:30:00,Lukas Nmecha,Pass
+429655,64,MissedShots,0.8769999694824219,0.46599998474121096,0.11956799775362015,Gian-Luca Waldschmidt,a,294,OpenPlay,2021,LeftFoot,17543,Greuther Fuerth,Wolfsburg,0,2,2021-09-11 13:30:00,Bote Baku,Pass
+432164,69,SavedShot,0.884000015258789,0.3509999847412109,0.044578298926353455,Gian-Luca Waldschmidt,h,294,FromCorner,2021,LeftFoot,17560,Wolfsburg,Eintracht Frankfurt,1,1,2021-09-19 17:30:00,Kevin Mbabu,Pass
+434777,23,Goal,0.92,0.49,0.41693800687789917,Gian-Luca Waldschmidt,h,294,OpenPlay,2021,LeftFoot,17575,Wolfsburg,Borussia M.Gladbach,1,3,2021-10-02 13:30:00,,Rebound
+434799,91,SavedShot,0.7430000305175781,0.5329999923706055,0.010768399573862553,Gian-Luca Waldschmidt,h,294,OpenPlay,2021,RightFoot,17575,Wolfsburg,Borussia M.Gladbach,1,3,2021-10-02 13:30:00,,Aerial
+443963,66,BlockedShot,0.879000015258789,0.5279999923706055,0.08546680212020874,Gian-Luca Waldschmidt,h,294,OpenPlay,2021,LeftFoot,17630,Wolfsburg,Borussia Dortmund,1,3,2021-11-27 14:30:00,,Rebound
+443965,77,BlockedShot,0.8530000305175781,0.5120000076293946,0.06352979689836502,Gian-Luca Waldschmidt,h,294,OpenPlay,2021,LeftFoot,17630,Wolfsburg,Borussia Dortmund,1,3,2021-11-27 14:30:00,,None
+447915,5,MissedShots,0.7780000305175782,0.5609999847412109,0.031532298773527145,Gian-Luca Waldschmidt,h,294,OpenPlay,2021,LeftFoot,17648,Wolfsburg,VfB Stuttgart,0,2,2021-12-11 17:30:00,Wout Weghorst,Pass
+447917,13,MissedShots,0.8040000152587891,0.27100000381469724,0.020728999748826027,Gian-Luca Waldschmidt,h,294,OpenPlay,2021,LeftFoot,17648,Wolfsburg,VfB Stuttgart,0,2,2021-12-11 17:30:00,Kevin Mbabu,Pass
+447924,54,BlockedShot,0.7269999694824218,0.519000015258789,0.018521299585700035,Gian-Luca Waldschmidt,h,294,OpenPlay,2021,RightFoot,17648,Wolfsburg,VfB Stuttgart,0,2,2021-12-11 17:30:00,Renato Steffen,Pass
+447925,55,MissedShots,0.85,0.26899999618530274,0.02408519946038723,Gian-Luca Waldschmidt,h,294,FromCorner,2021,RightFoot,17648,Wolfsburg,VfB Stuttgart,0,2,2021-12-11 17:30:00,Josuha Guilavogui,BallTouch
+449230,22,BlockedShot,0.879000015258789,0.37,0.057729899883270264,Gian-Luca Waldschmidt,a,294,OpenPlay,2021,RightFoot,17668,Bayern Munich,Wolfsburg,4,0,2021-12-17 19:30:00,,None
+453091,15,MissedShots,0.8969999694824219,0.5129999923706055,0.33709099888801575,Gian-Luca Waldschmidt,h,294,OpenPlay,2021,LeftFoot,17685,Wolfsburg,Hertha Berlin,0,0,2022-01-15 14:30:00,Jérôme Roussillon,Cross
+453098,57,BlockedShot,0.8980000305175782,0.43,0.08432170003652573,Gian-Luca Waldschmidt,h,294,OpenPlay,2021,LeftFoot,17685,Wolfsburg,Hertha Berlin,0,0,2022-01-15 14:30:00,Maxence Lacroix,Chipped
+453100,58,MissedShots,0.749000015258789,0.6840000152587891,0.012515099719166756,Gian-Luca Waldschmidt,h,294,OpenPlay,2021,LeftFoot,17685,Wolfsburg,Hertha Berlin,0,0,2022-01-15 14:30:00,,Rebound
+464702,74,MissedShots,0.855999984741211,0.40700000762939453,0.09548679739236832,Gian-Luca Waldschmidt,h,294,SetPiece,2021,RightFoot,17756,Wolfsburg,Bayer Leverkusen,0,2,2022-03-20 16:30:00,Max Kruse,LayOff
+464704,84,MissedShots,0.9030000305175782,0.5470000076293945,0.10294900089502335,Gian-Luca Waldschmidt,h,294,OpenPlay,2021,LeftFoot,17756,Wolfsburg,Bayer Leverkusen,0,2,2022-03-20 16:30:00,Bote Baku,Chipped
+481054,87,SavedShot,0.7809999847412109,0.3820000076293945,0.029157700017094612,Gian-Luca Waldschmidt,a,294,OpenPlay,2022,LeftFoot,19359,Bayern Munich,Wolfsburg,2,0,2022-08-14 15:30:00,Josip Brekalo,Pass
+485771,47,MissedShots,0.96,0.365,0.042761098593473434,Gian-Luca Waldschmidt,h,294,FromCorner,2022,LeftFoot,19382,Wolfsburg,FC Cologne,2,4,2022-09-03 13:30:00,Maximilian Arnold,Cross
+504498,87,BlockedShot,0.8090000152587891,0.54,0.07528209686279297,Gian-Luca Waldschmidt,h,294,OpenPlay,2022,LeftFoot,19483,Wolfsburg,Freiburg,6,0,2023-01-21 14:30:00,Mattias Svanberg,Pass
+504499,93,Goal,0.885,0.5,0.7577769756317139,Gian-Luca Waldschmidt,h,294,Penalty,2022,LeftFoot,19483,Wolfsburg,Freiburg,6,0,2023-01-21 14:30:00,,Standard
+505356,84,BlockedShot,0.9730000305175781,0.5329999923706055,0.14914299547672272,Gian-Luca Waldschmidt,a,294,SetPiece,2022,Head,19492,Hertha Berlin,Wolfsburg,0,5,2023-01-24 19:30:00,Josuha Guilavogui,HeadPass
+516233,79,BlockedShot,0.894000015258789,0.5629999923706055,0.07292880117893219,Gian-Luca Waldschmidt,h,294,OpenPlay,2022,LeftFoot,19571,Wolfsburg,Augsburg,2,2,2023-04-01 13:30:00,Paulo Otávio,None
+516235,82,Goal,0.9390000152587891,0.49200000762939455,0.5363900065422058,Gian-Luca Waldschmidt,h,294,SetPiece,2022,LeftFoot,19571,Wolfsburg,Augsburg,2,2,2023-04-01 13:30:00,Maximilian Arnold,Cross
+520781,76,Goal,0.970999984741211,0.5029999923706054,0.29426494240760803,Gian-Luca Waldschmidt,a,294,SetPiece,2022,Head,19600,Bochum,Wolfsburg,1,5,2023-04-22 13:30:00,,Rebound
+525845,74,Goal,0.894000015258789,0.42900001525878906,0.31359103322029114,Gian-Luca Waldschmidt,h,294,OpenPlay,2022,LeftFoot,19627,Wolfsburg,Hoffenheim,2,1,2023-05-13 13:30:00,Felix Nmecha,Chipped
+525847,81,MissedShots,0.7859999847412109,0.6730000305175782,0.05646514892578125,Gian-Luca Waldschmidt,h,294,OpenPlay,2022,LeftFoot,19627,Wolfsburg,Hoffenheim,2,1,2023-05-13 13:30:00,Maximilian Arnold,Chipped
+527063,93,SavedShot,0.8730000305175781,0.445,0.057119954377412796,Gian-Luca Waldschmidt,a,294,OpenPlay,2022,LeftFoot,19632,Freiburg,Wolfsburg,2,0,2023-05-19 18:30:00,Omar Marmoush,HeadPass
+534557,18,MissedShots,0.7519999694824219,0.315,0.02121499925851822,Gian-Luca Waldschmidt,h,294,FromCorner,2023,LeftFoot,23076,FC Cologne,Wolfsburg,1,2,2023-08-26 13:30:00,Davie Selke,Pass
+534559,32,BlockedShot,0.795,0.2989999961853027,0.010643214918673038,Gian-Luca Waldschmidt,h,294,FromCorner,2023,RightFoot,23076,FC Cologne,Wolfsburg,1,2,2023-08-26 13:30:00,Sargis Adamyan,HeadPass
+534561,54,Goal,0.7969999694824219,0.5529999923706055,0.046662379056215286,Gian-Luca Waldschmidt,h,294,OpenPlay,2023,LeftFoot,23076,FC Cologne,Wolfsburg,1,2,2023-08-26 13:30:00,Sargis Adamyan,BallTouch
+534564,62,MissedShots,0.754000015258789,0.519000015258789,0.012102875858545303,Gian-Luca Waldschmidt,h,294,OpenPlay,2023,LeftFoot,23076,FC Cologne,Wolfsburg,1,2,2023-08-26 13:30:00,,Aerial
+534572,91,MissedShots,0.745,0.42400001525878905,0.021527927368879318,Gian-Luca Waldschmidt,h,294,OpenPlay,2023,LeftFoot,23076,FC Cologne,Wolfsburg,1,2,2023-08-26 13:30:00,Denis Huseinbasic,Pass
+537452,71,MissedShots,0.7280000305175781,0.3120000076293945,0.007938100025057793,Gian-Luca Waldschmidt,h,294,OpenPlay,2023,LeftFoot,23097,FC Cologne,Hoffenheim,1,3,2023-09-16 13:30:00,,None
+537453,77,SavedShot,0.725,0.315,0.00923083908855915,Gian-Luca Waldschmidt,h,294,OpenPlay,2023,LeftFoot,23097,FC Cologne,Hoffenheim,1,3,2023-09-16 13:30:00,Faride Alidou,Pass
+537460,94,SavedShot,0.7619999694824219,0.6359999847412109,0.019930919632315636,Gian-Luca Waldschmidt,h,294,OpenPlay,2023,LeftFoot,23097,FC Cologne,Hoffenheim,1,3,2023-09-16 13:30:00,Davie Selke,Pass
+540944,72,MissedShots,0.8869999694824219,0.5520000076293945,0.2405053973197937,Gian-Luca Waldschmidt,h,294,FromCorner,2023,Head,23115,FC Cologne,VfB Stuttgart,0,2,2023-09-30 13:30:00,Leart Paqarada,Cross
+540945,72,MissedShots,0.8280000305175781,0.4,0.04660538583993912,Gian-Luca Waldschmidt,h,294,OpenPlay,2023,LeftFoot,23115,FC Cologne,VfB Stuttgart,0,2,2023-09-30 13:30:00,,BallRecovery
+544665,6,BlockedShot,0.799000015258789,0.585,0.01738586463034153,Gian-Luca Waldschmidt,h,294,FromCorner,2023,RightFoot,23135,FC Cologne,Borussia M.Gladbach,3,1,2023-10-22 13:30:00,,Aerial
+544672,17,MissedShots,0.765,0.6329999923706054,0.017254836857318878,Gian-Luca Waldschmidt,h,294,FromCorner,2023,RightFoot,23135,FC Cologne,Borussia M.Gladbach,3,1,2023-10-22 13:30:00,,None
+544678,33,MissedShots,0.7809999847412109,0.33599998474121096,0.030776185914874077,Gian-Luca Waldschmidt,h,294,OpenPlay,2023,RightFoot,23135,FC Cologne,Borussia M.Gladbach,3,1,2023-10-22 13:30:00,Dejan Ljubicic,Pass
+544679,40,SavedShot,0.779000015258789,0.5609999847412109,0.03573398292064667,Gian-Luca Waldschmidt,h,294,OpenPlay,2023,RightFoot,23135,FC Cologne,Borussia M.Gladbach,3,1,2023-10-22 13:30:00,Dejan Ljubicic,Pass
+544687,83,BlockedShot,0.8690000152587891,0.695,0.05459405854344368,Gian-Luca Waldschmidt,h,294,OpenPlay,2023,LeftFoot,23135,FC Cologne,Borussia M.Gladbach,3,1,2023-10-22 13:30:00,Florian Kainz,Pass
+544689,84,SavedShot,0.8490000152587891,0.505,0.0682249665260315,Gian-Luca Waldschmidt,h,294,OpenPlay,2023,LeftFoot,23135,FC Cologne,Borussia M.Gladbach,3,1,2023-10-22 13:30:00,Florian Kainz,Cross
+544690,88,BlockedShot,0.725999984741211,0.605999984741211,0.025182869285345078,Gian-Luca Waldschmidt,h,294,OpenPlay,2023,LeftFoot,23135,FC Cologne,Borussia M.Gladbach,3,1,2023-10-22 13:30:00,Marvin Schwäbe,Chipped
+544691,89,Goal,0.8209999847412109,0.6320000076293946,0.052425529807806015,Gian-Luca Waldschmidt,h,294,OpenPlay,2023,LeftFoot,23135,FC Cologne,Borussia M.Gladbach,3,1,2023-10-22 13:30:00,Denis Huseinbasic,Pass
+545611,32,ShotOnPost,0.8959999847412109,0.524000015258789,0.08705347776412964,Gian-Luca Waldschmidt,a,294,OpenPlay,2023,LeftFoot,23138,RasenBallsport Leipzig,FC Cologne,6,0,2023-10-28 16:30:00,Linton Maina,Cross
+545612,33,BlockedShot,0.9480000305175781,0.5840000152587891,0.4604591131210327,Gian-Luca Waldschmidt,a,294,OpenPlay,2023,RightFoot,23138,RasenBallsport Leipzig,FC Cologne,6,0,2023-10-28 16:30:00,,Rebound
+546703,6,MissedShots,0.860999984741211,0.575,0.09977532923221588,Gian-Luca Waldschmidt,h,294,OpenPlay,2023,LeftFoot,23151,FC Cologne,Augsburg,1,1,2023-11-04 14:30:00,Steffen Tigges,Pass
+546720,49,MissedShots,0.835,0.69,0.03169725835323334,Gian-Luca Waldschmidt,h,294,OpenPlay,2023,RightFoot,23151,FC Cologne,Augsburg,1,1,2023-11-04 14:30:00,Dominique Heintz,Pass
+546723,52,SavedShot,0.8730000305175781,0.40900001525878904,0.09745433926582336,Gian-Luca Waldschmidt,h,294,OpenPlay,2023,LeftFoot,23151,FC Cologne,Augsburg,1,1,2023-11-04 14:30:00,Mark Uth,Pass
+546734,74,MissedShots,0.9059999847412109,0.735,0.03707309439778328,Gian-Luca Waldschmidt,h,294,OpenPlay,2023,LeftFoot,23151,FC Cologne,Augsburg,1,1,2023-11-04 14:30:00,Florian Kainz,Pass
+548597,13,SavedShot,0.8369999694824218,0.4520000076293945,0.0816124677658081,Gian-Luca Waldschmidt,a,294,OpenPlay,2023,LeftFoot,23160,Bochum,FC Cologne,1,1,2023-11-11 17:30:00,Linton Maina,Pass
+550828,58,SavedShot,0.8569999694824219,0.1,0.03570213541388512,Gian-Luca Waldschmidt,a,294,DirectFreekick,2023,LeftFoot,23181,Darmstadt,FC Cologne,0,1,2023-12-01 18:30:00,,Standard
+550833,88,SavedShot,0.8519999694824218,0.36,0.06701327115297318,Gian-Luca Waldschmidt,a,294,OpenPlay,2023,LeftFoot,23181,Darmstadt,FC Cologne,0,1,2023-12-01 18:30:00,Jan Thielmann,Pass
+553652,12,SavedShot,0.805,0.6680000305175782,0.029756100848317146,Gian-Luca Waldschmidt,h,294,OpenPlay,2023,LeftFoot,23186,FC Cologne,Mainz 05,0,0,2023-12-10 16:30:00,Eric Martel,Pass
+554873,25,BlockedShot,0.6940000152587891,0.43900001525878907,0.03726457804441452,Gian-Luca Waldschmidt,a,294,DirectFreekick,2023,LeftFoot,23193,Freiburg,FC Cologne,2,0,2023-12-17 14:30:00,,Standard
+554878,49,BlockedShot,0.8869999694824219,0.5570000076293945,0.08443664759397507,Gian-Luca Waldschmidt,a,294,OpenPlay,2023,LeftFoot,23193,Freiburg,FC Cologne,2,0,2023-12-17 14:30:00,,None
+554879,49,BlockedShot,0.850999984741211,0.580999984741211,0.06469082087278366,Gian-Luca Waldschmidt,a,294,OpenPlay,2023,RightFoot,23193,Freiburg,FC Cologne,2,0,2023-12-17 14:30:00,,None
+554881,58,BlockedShot,0.8059999847412109,0.3579999923706055,0.035876885056495667,Gian-Luca Waldschmidt,a,294,OpenPlay,2023,LeftFoot,23193,Freiburg,FC Cologne,2,0,2023-12-17 14:30:00,Davie Selke,Pass
+555398,84,MissedShots,0.7469999694824219,0.40900001525878904,0.019537555053830147,Gian-Luca Waldschmidt,a,294,OpenPlay,2023,RightFoot,23201,Union Berlin,FC Cologne,2,0,2023-12-20 17:30:00,Denis Huseinbasic,Pass
+571369,92,BlockedShot,0.8119999694824219,0.515,0.050561271607875824,Gian-Luca Waldschmidt,a,294,OpenPlay,2023,RightFoot,23306,Augsburg,FC Cologne,1,1,2024-03-31 14:30:00,Dejan Ljubicic,TakeOn
+572257,84,SavedShot,0.87,0.615,0.056584350764751434,Gian-Luca Waldschmidt,h,294,FromCorner,2023,LeftFoot,23316,FC Cologne,Bochum,2,1,2024-04-06 13:30:00,,None
+572260,89,BlockedShot,0.7819999694824219,0.6790000152587891,0.023783693090081215,Gian-Luca Waldschmidt,h,294,OpenPlay,2023,LeftFoot,23316,FC Cologne,Bochum,2,1,2024-04-06 13:30:00,Max Finkgrafe,Pass
+572262,91,Goal,0.9109999847412109,0.5790000152587891,0.050035130232572556,Gian-Luca Waldschmidt,h,294,OpenPlay,2023,Head,23316,FC Cologne,Bochum,2,1,2024-04-06 13:30:00,Benno Schmitz,Chipped
+573563,88,BlockedShot,0.840999984741211,0.4540000152587891,0.057404909282922745,Gian-Luca Waldschmidt,a,294,OpenPlay,2023,LeftFoot,23317,Bayern Munich,FC Cologne,2,0,2024-04-13 13:30:00,,BallRecovery
+574939,37,SavedShot,0.8030000305175782,0.5129999923706055,0.05337657779455185,Gian-Luca Waldschmidt,h,294,OpenPlay,2023,RightFoot,23331,FC Cologne,Darmstadt,0,2,2024-04-20 13:30:00,Sargis Adamyan,Pass
+577475,47,MissedShots,0.885,0.5,0.75777667760849,Gian-Luca Waldschmidt,a,294,Penalty,2023,LeftFoot,23339,Mainz 05,FC Cologne,1,1,2024-04-28 15:30:00,,Standard
+578652,16,BlockedShot,0.7340000152587891,0.46599998474121096,0.022858085110783577,Gian-Luca Waldschmidt,h,294,OpenPlay,2023,LeftFoot,23348,FC Cologne,Freiburg,0,0,2024-05-04 16:30:00,Denis Huseinbasic,Pass
+578665,67,SavedShot,0.7709999847412109,0.519000015258789,0.030339563265442848,Gian-Luca Waldschmidt,h,294,OpenPlay,2023,RightFoot,23348,FC Cologne,Freiburg,0,0,2024-05-04 16:30:00,Denis Huseinbasic,Pass
+579710,5,MissedShots,0.749000015258789,0.335,0.011109785176813602,Gian-Luca Waldschmidt,h,294,SetPiece,2023,LeftFoot,23358,FC Cologne,Union Berlin,3,2,2024-05-11 13:30:00,,None
+641624,4,Goal,0.960999984741211,0.52,0.6770005822181702,Gian-Luca Waldschmidt,a,294,OpenPlay,2025,RightFoot,30246,Wolfsburg,FC Cologne,3,3,2025-09-13 13:30:00,,Rebound
+643326,19,BlockedShot,0.830999984741211,0.6179999923706054,0.047240085899829865,Gian-Luca Waldschmidt,a,294,OpenPlay,2025,LeftFoot,30256,RasenBallsport Leipzig,FC Cologne,3,1,2025-09-20 16:30:00,Tom Krauß,Pass
+645455,95,MissedShots,0.8369999694824218,0.6890000152587891,0.030408963561058044,Gian-Luca Waldschmidt,h,294,FromCorner,2025,LeftFoot,30267,FC Cologne,VfB Stuttgart,1,2,2025-09-28 15:30:00,Florian Kainz,Cross
+647404,21,SavedShot,0.8159999847412109,0.495,0.16679401695728302,Gian-Luca Waldschmidt,h,294,DirectFreekick,2025,LeftFoot,30279,FC Cologne,Augsburg,1,1,2025-10-18 13:30:00,,Standard
+652458,67,BlockedShot,0.8109999847412109,0.4129999923706055,0.03289676830172539,Gian-Luca Waldschmidt,a,294,OpenPlay,2025,RightFoot,30306,Borussia M.Gladbach,FC Cologne,3,1,2025-11-08 17:30:00,Ísak Bergmann Jóhannesson,SubstitutionOn
+652464,91,Goal,0.885,0.5,0.75777667760849,Gian-Luca Waldschmidt,a,294,Penalty,2025,LeftFoot,30306,Borussia M.Gladbach,FC Cologne,3,1,2025-11-08 17:30:00,,Standard
+652465,97,BlockedShot,0.8090000152587891,0.5320000076293945,0.049939438700675964,Gian-Luca Waldschmidt,a,294,OpenPlay,2025,LeftFoot,30306,Borussia M.Gladbach,FC Cologne,3,1,2025-11-08 17:30:00,Eric Martel,Pass
+652469,100,BlockedShot,0.8830000305175781,0.4929999923706055,0.10576315224170685,Gian-Luca Waldschmidt,a,294,SetPiece,2025,LeftFoot,30306,Borussia M.Gladbach,FC Cologne,3,1,2025-11-08 17:30:00,,Rebound
+653913,93,Goal,0.9419999694824219,0.495,0.4948357045650482,Gian-Luca Waldschmidt,h,294,OpenPlay,2025,Head,30317,FC Cologne,Eintracht Frankfurt,3,4,2025-11-22 17:30:00,Said El Mala,Cross
+654909,86,ShotOnPost,0.904000015258789,0.4570000076293945,0.33001697063446045,Gian-Luca Waldschmidt,a,294,OpenPlay,2025,LeftFoot,30331,Werder Bremen,FC Cologne,1,1,2025-11-29 14:30:00,Said El Mala,Cross
+656770,20,BlockedShot,0.9590000152587891,0.5570000076293945,0.6011462211608887,Gian-Luca Waldschmidt,h,294,OpenPlay,2025,LeftFoot,30336,FC Cologne,St. Pauli,1,1,2025-12-06 14:30:00,,Rebound
+656778,77,SavedShot,0.8190000152587891,0.5309999847412109,0.0783853530883789,Gian-Luca Waldschmidt,h,294,OpenPlay,2025,LeftFoot,30336,FC Cologne,St. Pauli,1,1,2025-12-06 14:30:00,Ragnar Ache,HeadPass
+658355,27,SavedShot,0.8819999694824219,0.3240000152587891,0.31330111622810364,Gian-Luca Waldschmidt,a,294,OpenPlay,2025,LeftFoot,30341,Bayer Leverkusen,FC Cologne,2,0,2025-12-13 17:30:00,,None
+670667,58,MissedShots,0.8490000152587891,0.514000015258789,0.01851772889494896,Gian-Luca Waldschmidt,a,294,OpenPlay,2025,Head,30431,Augsburg,FC Cologne,2,0,2026-02-27 19:30:00,Marius Bülter,Cross
+675246,77,MissedShots,0.895,0.6959999847412109,0.050616927444934845,Gian-Luca Waldschmidt,h,294,OpenPlay,2025,RightFoot,30461,FC Cologne,Borussia M.Gladbach,3,3,2026-03-21 14:30:00,Jakub Kaminski,Pass
+677131,82,MissedShots,0.8880000305175781,0.549000015258789,0.05342156067490578,Gian-Luca Waldschmidt,a,294,OpenPlay,2025,Head,30469,Eintracht Frankfurt,FC Cologne,2,2,2026-04-05 15:30:00,Kristoffer Lund,Cross
+678426,76,ShotOnPost,0.765,0.3629999923706055,0.02369908057153225,Gian-Luca Waldschmidt,h,294,OpenPlay,2025,LeftFoot,30478,FC Cologne,Werder Bremen,3,1,2026-04-12 13:30:00,Ísak Bergmann Jóhannesson,Pass
+678431,88,SavedShot,0.8819999694824219,0.37200000762939456,0.5446716547012329,Gian-Luca Waldschmidt,h,294,OpenPlay,2025,RightFoot,30478,FC Cologne,Werder Bremen,3,1,2026-04-12 13:30:00,Linton Maina,Throughball
+678893,85,Goal,0.885,0.5,0.75777667760849,Gian-Luca Waldschmidt,a,294,Penalty,2025,LeftFoot,30491,St. Pauli,FC Cologne,1,1,2026-04-17 18:30:00,,Standard
+680949,75,SavedShot,0.909000015258789,0.43200000762939456,0.07725625485181808,Gian-Luca Waldschmidt,h,294,OpenPlay,2025,Head,30496,FC Cologne,Bayer Leverkusen,1,2,2026-04-25 13:30:00,Jan Thielmann,Cross
+680950,76,Goal,0.9209999847412109,0.5970000076293945,0.5262895822525024,Gian-Luca Waldschmidt,h,294,OpenPlay,2025,LeftFoot,30496,FC Cologne,Bayer Leverkusen,1,2,2026-04-25 13:30:00,Said El Mala,Tackle
+680953,86,MissedShots,0.7380000305175781,0.40700000762939453,0.017996810376644135,Gian-Luca Waldschmidt,h,294,OpenPlay,2025,LeftFoot,30496,FC Cologne,Bayer Leverkusen,1,2,2026-04-25 13:30:00,,Rebound
+684249,67,SavedShot,0.71,0.44799999237060545,0.014292249456048012,Gian-Luca Waldschmidt,h,294,OpenPlay,2025,LeftFoot,30514,FC Cologne,FC Heidenheim,1,3,2026-05-10 15:30:00,Marius Bülter,LayOff
+684250,67,BlockedShot,0.855999984741211,0.5070000076293946,0.06478773057460785,Gian-Luca Waldschmidt,h,294,OpenPlay,2025,LeftFoot,30514,FC Cologne,FC Heidenheim,1,3,2026-05-10 15:30:00,,None
+684252,73,SavedShot,0.865,0.315,0.06347759813070297,Gian-Luca Waldschmidt,h,294,OpenPlay,2025,LeftFoot,30514,FC Cologne,FC Heidenheim,1,3,2026-05-10 15:30:00,Florian Kainz,TakeOn
+684257,93,MissedShots,0.775,0.48900001525878906,0.05047640576958656,Gian-Luca Waldschmidt,h,294,OpenPlay,2025,RightFoot,30514,FC Cologne,FC Heidenheim,1,3,2026-05-10 15:30:00,,TakeOn

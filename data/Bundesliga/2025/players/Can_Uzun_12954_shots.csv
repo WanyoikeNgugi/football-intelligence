@@ -1,0 +1,68 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+599973,65,Goal,0.8859999847412109,0.6070000076293945,0.3012942373752594,Can Uzun,h,12954,OpenPlay,2024,RightFoot,27817,Eintracht Frankfurt,Bochum,7,2,2024-11-02 14:30:00,Omar Marmoush,Pass
+599980,93,MissedShots,0.9590000152587891,0.56,0.48182034492492676,Can Uzun,h,12954,SetPiece,2024,Head,27817,Eintracht Frankfurt,Bochum,7,2,2024-11-02 14:30:00,Aurèle Amenda,Aerial
+605734,73,Goal,0.8569999694824219,0.6840000152587891,0.035241227596998215,Can Uzun,h,12954,SetPiece,2024,RightFoot,27858,Eintracht Frankfurt,Augsburg,2,2,2024-12-07 14:30:00,,None
+605736,83,MissedShots,0.884000015258789,0.43599998474121093,0.05059633404016495,Can Uzun,h,12954,OpenPlay,2024,Head,27858,Eintracht Frankfurt,Augsburg,2,2,2024-12-07 14:30:00,Hugo Ekitike,Cross
+607802,15,MissedShots,0.870999984741211,0.6580000305175782,0.05447320640087128,Can Uzun,a,12954,SetPiece,2024,RightFoot,27859,RasenBallsport Leipzig,Eintracht Frankfurt,2,1,2024-12-15 18:30:00,Mahmoud Dahoud,Chipped
+608263,48,SavedShot,0.91,0.615,0.26324331760406494,Can Uzun,h,12954,OpenPlay,2024,RightFoot,27871,Eintracht Frankfurt,Mainz 05,1,3,2024-12-21 14:30:00,,None
+608271,68,SavedShot,0.88,0.6409999847412109,0.07679226994514465,Can Uzun,h,12954,OpenPlay,2024,RightFoot,27871,Eintracht Frankfurt,Mainz 05,1,3,2024-12-21 14:30:00,Jean Négoce,Pass
+608287,90,MissedShots,0.8319999694824218,0.47900001525878905,0.0503387413918972,Can Uzun,h,12954,OpenPlay,2024,RightFoot,27871,Eintracht Frankfurt,Mainz 05,1,3,2024-12-21 14:30:00,Robin Koch,None
+608289,92,BlockedShot,0.8519999694824218,0.6140000152587891,0.06399542838335037,Can Uzun,h,12954,OpenPlay,2024,RightFoot,27871,Eintracht Frankfurt,Mainz 05,1,3,2024-12-21 14:30:00,Jean Négoce,Pass
+615501,73,BlockedShot,0.855999984741211,0.6880000305175781,0.04149458557367325,Can Uzun,h,12954,OpenPlay,2024,RightFoot,27919,Eintracht Frankfurt,Wolfsburg,1,1,2025-02-02 14:30:00,Niels Nkounkou,Pass
+615508,80,Goal,0.9269999694824219,0.4879999923706055,0.34960344433784485,Can Uzun,h,12954,OpenPlay,2024,Head,27919,Eintracht Frankfurt,Wolfsburg,1,1,2025-02-02 14:30:00,Jean Négoce,Cross
+615510,86,MissedShots,0.9209999847412109,0.3290000152587891,0.050505656749010086,Can Uzun,h,12954,FromCorner,2024,RightFoot,27919,Eintracht Frankfurt,Wolfsburg,1,1,2025-02-02 14:30:00,,None
+615512,88,MissedShots,0.77,0.36900001525878906,0.020605362951755524,Can Uzun,h,12954,OpenPlay,2024,LeftFoot,27919,Eintracht Frankfurt,Wolfsburg,1,1,2025-02-02 14:30:00,Hugo Ekitike,Pass
+615514,92,MissedShots,0.904000015258789,0.7140000152587891,0.024609588086605072,Can Uzun,h,12954,FromCorner,2024,RightFoot,27919,Eintracht Frankfurt,Wolfsburg,1,1,2025-02-02 14:30:00,Jean Négoce,TakeOn
+616220,66,SavedShot,0.874000015258789,0.4540000152587891,0.1061740443110466,Can Uzun,a,12954,OpenPlay,2024,LeftFoot,27929,Borussia M.Gladbach,Eintracht Frankfurt,1,1,2025-02-08 17:30:00,Ansgar Knauff,Pass
+616221,69,MissedShots,0.8519999694824218,0.5229999923706055,0.09167817234992981,Can Uzun,a,12954,OpenPlay,2024,RightFoot,27929,Borussia M.Gladbach,Eintracht Frankfurt,1,1,2025-02-08 17:30:00,Hugo Ekitike,Pass
+616224,78,SavedShot,0.825,0.315,0.04275200888514519,Can Uzun,a,12954,OpenPlay,2024,LeftFoot,27929,Borussia M.Gladbach,Eintracht Frankfurt,1,1,2025-02-08 17:30:00,Hugo Larsson,TakeOn
+616229,91,SavedShot,0.8640000152587891,0.7280000305175781,0.03251497447490692,Can Uzun,a,12954,OpenPlay,2024,RightFoot,27929,Borussia M.Gladbach,Eintracht Frankfurt,1,1,2025-02-08 17:30:00,Niels Nkounkou,TakeOn
+617845,19,BlockedShot,0.835999984741211,0.495,0.12421581894159317,Can Uzun,h,12954,OpenPlay,2024,RightFoot,27933,Eintracht Frankfurt,Holstein Kiel,3,1,2025-02-16 16:30:00,Mario Götze,TakeOn
+617849,30,MissedShots,0.76,0.624000015258789,0.02586553804576397,Can Uzun,h,12954,OpenPlay,2024,RightFoot,27933,Eintracht Frankfurt,Holstein Kiel,3,1,2025-02-16 16:30:00,Mario Götze,Pass
+617855,59,Goal,0.855,0.5729999923706055,0.40585747361183167,Can Uzun,h,12954,OpenPlay,2024,RightFoot,27933,Eintracht Frankfurt,Holstein Kiel,3,1,2025-02-16 16:30:00,,BallRecovery
+619142,21,MissedShots,0.779000015258789,0.655,0.04282861202955246,Can Uzun,a,12954,OpenPlay,2024,LeftFoot,27940,Bayern Munich,Eintracht Frankfurt,4,0,2025-02-23 16:30:00,Hugo Ekitike,Pass
+619145,39,SavedShot,0.840999984741211,0.6179999923706054,0.0640081986784935,Can Uzun,a,12954,OpenPlay,2024,LeftFoot,27940,Bayern Munich,Eintracht Frankfurt,4,0,2025-02-23 16:30:00,Ansgar Knauff,Pass
+619147,49,SavedShot,0.8769999694824219,0.7,0.041776664555072784,Can Uzun,a,12954,OpenPlay,2024,LeftFoot,27940,Bayern Munich,Eintracht Frankfurt,4,0,2025-02-23 16:30:00,,Tackle
+621854,25,BlockedShot,0.8040000152587891,0.6569999694824219,0.022354260087013245,Can Uzun,h,12954,FromCorner,2024,RightFoot,27961,Eintracht Frankfurt,Union Berlin,1,2,2025-03-09 14:30:00,,None
+627899,43,MissedShots,0.9180000305175782,0.27,0.08408812433481216,Can Uzun,h,12954,OpenPlay,2024,RightFoot,27997,Eintracht Frankfurt,FC Heidenheim,3,0,2025-04-13 15:30:00,Rasmus Kristensen,Chipped
+633640,65,MissedShots,0.9519999694824218,0.545,0.5043799877166748,Can Uzun,h,12954,OpenPlay,2024,Head,28033,Eintracht Frankfurt,St. Pauli,2,2,2025-05-11 15:30:00,Ansgar Knauff,Cross
+638764,21,Goal,0.764000015258789,0.43099998474121093,0.027007564902305603,Can Uzun,h,12954,OpenPlay,2025,RightFoot,30228,Eintracht Frankfurt,Werder Bremen,4,1,2025-08-23 13:30:00,Hugo Larsson,Pass
+640172,1,BlockedShot,0.87,0.7069999694824218,0.016646603122353554,Can Uzun,a,12954,SetPiece,2025,RightFoot,30234,Hoffenheim,Eintracht Frankfurt,1,3,2025-08-30 13:30:00,Farès Chaïbi,Cross
+640183,46,SavedShot,0.7819999694824219,0.6869999694824219,0.035585109144449234,Can Uzun,a,12954,OpenPlay,2025,RightFoot,30234,Hoffenheim,Eintracht Frankfurt,1,3,2025-08-30 13:30:00,Farès Chaïbi,Pass
+640184,50,Goal,0.9380000305175781,0.42700000762939455,0.5616632103919983,Can Uzun,a,12954,OpenPlay,2025,RightFoot,30234,Hoffenheim,Eintracht Frankfurt,1,3,2025-08-30 13:30:00,Ritsu Doan,Throughball
+641297,35,MissedShots,0.7769999694824219,0.3370000076293945,0.022155601531267166,Can Uzun,a,12954,OpenPlay,2025,LeftFoot,30242,Bayer Leverkusen,Eintracht Frankfurt,3,1,2025-09-12 18:30:00,Jonathan Burkardt,Pass
+641304,51,Goal,0.845,0.5379999923706055,0.02585482783615589,Can Uzun,a,12954,FromCorner,2025,LeftFoot,30242,Bayer Leverkusen,Eintracht Frankfurt,3,1,2025-09-12 18:30:00,,Aerial
+641308,63,MissedShots,0.6880000305175781,0.6880000305175781,0.006659312639385462,Can Uzun,a,12954,OpenPlay,2025,RightFoot,30242,Bayer Leverkusen,Eintracht Frankfurt,3,1,2025-09-12 18:30:00,Robin Koch,TakeOn
+643699,17,BlockedShot,0.8209999847412109,0.6769999694824219,0.04007662832736969,Can Uzun,h,12954,FromCorner,2025,RightFoot,30257,Eintracht Frankfurt,Union Berlin,3,4,2025-09-21 13:30:00,Nathaniel Brown,Pass
+643701,19,SavedShot,0.855999984741211,0.36400001525878906,0.06111602112650871,Can Uzun,h,12954,OpenPlay,2025,RightFoot,30257,Eintracht Frankfurt,Union Berlin,3,4,2025-09-21 13:30:00,Farès Chaïbi,Pass
+643709,51,MissedShots,0.8859999847412109,0.4540000152587891,0.06160743907094002,Can Uzun,h,12954,SetPiece,2025,Head,30257,Eintracht Frankfurt,Union Berlin,3,4,2025-09-21 13:30:00,Ritsu Doan,Cross
+643717,79,Goal,0.8580000305175781,0.5679999923706055,0.05923328548669815,Can Uzun,h,12954,OpenPlay,2025,RightFoot,30257,Eintracht Frankfurt,Union Berlin,3,4,2025-09-21 13:30:00,,None
+643724,97,BlockedShot,0.725,0.5940000152587891,0.017339888960123062,Can Uzun,h,12954,OpenPlay,2025,RightFoot,30257,Eintracht Frankfurt,Union Berlin,3,4,2025-09-21 13:30:00,Arthur Theate,Pass
+644982,28,MissedShots,0.740999984741211,0.35200000762939454,0.025507532060146332,Can Uzun,a,12954,OpenPlay,2025,RightFoot,30265,Borussia M.Gladbach,Eintracht Frankfurt,4,6,2025-09-27 16:30:00,Farès Chaïbi,Pass
+644983,33,MissedShots,0.7480000305175781,0.5079999923706054,0.023101942613720894,Can Uzun,a,12954,OpenPlay,2025,RightFoot,30265,Borussia M.Gladbach,Eintracht Frankfurt,4,6,2025-09-27 16:30:00,Ansgar Knauff,Pass
+644988,45,Goal,0.9130000305175782,0.6519999694824219,0.4228039085865021,Can Uzun,a,12954,OpenPlay,2025,RightFoot,30265,Borussia M.Gladbach,Eintracht Frankfurt,4,6,2025-09-27 16:30:00,Farès Chaïbi,Pass
+644989,48,BlockedShot,0.7769999694824219,0.6619999694824219,0.021511277183890343,Can Uzun,a,12954,OpenPlay,2025,RightFoot,30265,Borussia M.Gladbach,Eintracht Frankfurt,4,6,2025-09-27 16:30:00,Ansgar Knauff,Pass
+644991,50,MissedShots,0.785,0.644000015258789,0.07394278049468994,Can Uzun,a,12954,OpenPlay,2025,RightFoot,30265,Borussia M.Gladbach,Eintracht Frankfurt,4,6,2025-09-27 16:30:00,Ansgar Knauff,Pass
+646330,2,MissedShots,0.779000015258789,0.36200000762939455,0.02610088139772415,Can Uzun,h,12954,OpenPlay,2025,RightFoot,30272,Eintracht Frankfurt,Bayern Munich,0,3,2025-10-04 16:30:00,Jonathan Burkardt,Pass
+648848,7,BlockedShot,0.9019999694824219,0.3559999847412109,0.08223051577806473,Can Uzun,h,12954,OpenPlay,2025,RightFoot,30291,Eintracht Frankfurt,St. Pauli,2,0,2025-10-25 13:30:00,Jonathan Burkardt,Pass
+648850,31,BlockedShot,0.855999984741211,0.505,0.09964320063591003,Can Uzun,h,12954,OpenPlay,2025,RightFoot,30291,Eintracht Frankfurt,St. Pauli,2,0,2025-10-25 13:30:00,Ansgar Knauff,Pass
+648854,46,MissedShots,0.8519999694824218,0.7669999694824219,0.026169905439019203,Can Uzun,h,12954,OpenPlay,2025,RightFoot,30291,Eintracht Frankfurt,St. Pauli,2,0,2025-10-25 13:30:00,Nathaniel Brown,Pass
+648857,49,SavedShot,0.8219999694824218,0.72,0.021664664149284363,Can Uzun,h,12954,OpenPlay,2025,RightFoot,30291,Eintracht Frankfurt,St. Pauli,2,0,2025-10-25 13:30:00,Ansgar Knauff,Cross
+658126,71,BlockedShot,0.9,0.3559999847412109,0.11651334911584854,Can Uzun,h,12954,OpenPlay,2025,RightFoot,30344,Eintracht Frankfurt,Augsburg,1,0,2025-12-13 14:30:00,Ansgar Knauff,Pass
+662281,0,BlockedShot,0.8,0.47400001525878904,0.04791659489274025,Can Uzun,h,12954,OpenPlay,2025,RightFoot,30362,Eintracht Frankfurt,Borussia Dortmund,3,3,2026-01-09 19:30:00,Nathaniel Brown,Pass
+662285,16,SavedShot,0.8369999694824218,0.33599998474121096,0.045868080109357834,Can Uzun,h,12954,OpenPlay,2025,LeftFoot,30362,Eintracht Frankfurt,Borussia Dortmund,3,3,2026-01-09 19:30:00,Rasmus Kristensen,Pass
+662287,21,Goal,0.885,0.5,0.75777667760849,Can Uzun,h,12954,Penalty,2025,RightFoot,30362,Eintracht Frankfurt,Borussia Dortmund,3,3,2026-01-09 19:30:00,,Standard
+664774,23,BlockedShot,0.8269999694824218,0.47,0.00876646675169468,Can Uzun,h,12954,SetPiece,2025,Head,30389,Eintracht Frankfurt,Hoffenheim,1,3,2026-01-24 14:30:00,Ritsu Doan,Aerial
+680965,37,MissedShots,0.7180000305175781,0.4329999923706055,0.011734156869351864,Can Uzun,a,12954,OpenPlay,2025,RightFoot,30494,Augsburg,Eintracht Frankfurt,1,1,2026-04-25 13:30:00,,None
+680967,40,MissedShots,0.8490000152587891,0.3,0.03175216168165207,Can Uzun,a,12954,OpenPlay,2025,LeftFoot,30494,Augsburg,Eintracht Frankfurt,1,1,2026-04-25 13:30:00,Hugo Larsson,TakeOn
+680970,46,BlockedShot,0.795,0.585,0.03958514332771301,Can Uzun,a,12954,OpenPlay,2025,RightFoot,30494,Augsburg,Eintracht Frankfurt,1,1,2026-04-25 13:30:00,Nathaniel Brown,Pass
+680971,47,MissedShots,0.860999984741211,0.5259999847412109,0.08853890001773834,Can Uzun,a,12954,OpenPlay,2025,LeftFoot,30494,Augsburg,Eintracht Frankfurt,1,1,2026-04-25 13:30:00,Nathaniel Brown,Pass
+680972,51,SavedShot,0.794000015258789,0.515,0.040139731019735336,Can Uzun,a,12954,OpenPlay,2025,RightFoot,30494,Augsburg,Eintracht Frankfurt,1,1,2026-04-25 13:30:00,Arnaud Kalimuendo Muinga,Pass
+680985,76,SavedShot,0.805,0.3370000076293945,0.028563981875777245,Can Uzun,a,12954,OpenPlay,2025,RightFoot,30494,Augsburg,Eintracht Frankfurt,1,1,2026-04-25 13:30:00,,None
+682207,14,SavedShot,0.7969999694824219,0.3559999847412109,0.033109210431575775,Can Uzun,h,12954,OpenPlay,2025,RightFoot,30506,Eintracht Frankfurt,Hamburger SV,1,2,2026-05-02 13:30:00,,BallTouch
+682212,37,SavedShot,0.86,0.3770000076293945,0.07310960441827774,Can Uzun,h,12954,OpenPlay,2025,RightFoot,30506,Eintracht Frankfurt,Hamburger SV,1,2,2026-05-02 13:30:00,Hugo Larsson,Pass
+682213,38,SavedShot,0.9019999694824219,0.3659999847412109,0.2999875545501709,Can Uzun,h,12954,FromCorner,2025,LeftFoot,30506,Eintracht Frankfurt,Hamburger SV,1,2,2026-05-02 13:30:00,Ansgar Knauff,Pass
+682215,47,Goal,0.8640000152587891,0.4570000076293945,0.3154062032699585,Can Uzun,h,12954,OpenPlay,2025,RightFoot,30506,Eintracht Frankfurt,Hamburger SV,1,2,2026-05-02 13:30:00,Jonathan Burkardt,TakeOn
+683360,1,Goal,0.8730000305175781,0.675,0.06170482188463211,Can Uzun,a,12954,OpenPlay,2025,RightFoot,30513,Borussia Dortmund,Eintracht Frankfurt,3,2,2026-05-08 18:30:00,Mahmoud Dahoud,Pass
+683368,34,BlockedShot,0.7630000305175781,0.534000015258789,0.053271882236003876,Can Uzun,a,12954,OpenPlay,2025,RightFoot,30513,Borussia Dortmund,Eintracht Frankfurt,3,2,2026-05-08 18:30:00,Farès Chaïbi,Pass
+683374,61,SavedShot,0.8090000152587891,0.49599998474121093,0.05596485361456871,Can Uzun,a,12954,OpenPlay,2025,RightFoot,30513,Borussia Dortmund,Eintracht Frankfurt,3,2,2026-05-08 18:30:00,Jean Négoce,TakeOn

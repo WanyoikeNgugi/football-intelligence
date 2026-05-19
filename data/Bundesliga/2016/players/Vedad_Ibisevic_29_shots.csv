@@ -1,0 +1,265 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+24403,61,BlockedShot,0.8059999847412109,0.6140000152587891,0.05279960110783577,Vedad Ibisevic,a,29,OpenPlay,2014,RightFoot,5455,Borussia M.Gladbach,VfB Stuttgart,1,1,2014-08-24 16:30:00,Alexandru Maxim,Pass
+24797,29,BlockedShot,0.9019999694824219,0.51,0.036057498306035995,Vedad Ibisevic,a,29,OpenPlay,2014,Head,5413,Bayern Munich,VfB Stuttgart,2,0,2014-09-13 14:30:00,Martin Harnik,Aerial
+25320,83,MissedShots,0.8130000305175781,0.47,0.06586050242185593,Vedad Ibisevic,a,29,OpenPlay,2014,RightFoot,5433,Borussia Dortmund,VfB Stuttgart,2,2,2014-09-24 19:00:00,Christian Gentner,Pass
+25894,10,MissedShots,0.89,0.515,0.08854640275239944,Vedad Ibisevic,a,29,OpenPlay,2014,OtherBodyPart,5383,Hertha Berlin,VfB Stuttgart,3,2,2014-10-03 19:30:00,Gotoku Sakai,Cross
+25909,76,MissedShots,0.9019999694824219,0.5529999923706055,0.28467699885368347,Vedad Ibisevic,a,29,OpenPlay,2014,Head,5383,Hertha Berlin,VfB Stuttgart,3,2,2014-10-03 19:30:00,Christian Gentner,Cross
+25912,92,MissedShots,0.8619999694824219,0.46599998474121096,0.07021459937095642,Vedad Ibisevic,a,29,OpenPlay,2014,RightFoot,5383,Hertha Berlin,VfB Stuttgart,3,2,2014-10-03 19:30:00,Christian Gentner,HeadPass
+29415,90,MissedShots,0.9,0.6079999923706054,0.06330469995737076,Vedad Ibisevic,h,29,FromCorner,2014,RightFoot,5308,VfB Stuttgart,Borussia M.Gladbach,0,1,2015-01-31 14:30:00,Adam Hlousek,Chipped
+29225,85,SavedShot,0.8590000152587891,0.28899999618530275,0.0397472009062767,Vedad Ibisevic,a,29,OpenPlay,2014,RightFoot,5283,Hoffenheim,VfB Stuttgart,2,1,2015-02-14 14:30:00,Alexandru Maxim,Pass
+76916,46,SavedShot,0.885,0.3089999961853027,0.060353200882673264,Vedad Ibisevic,h,29,OpenPlay,2015,RightFoot,1051,Hertha Berlin,VfB Stuttgart,2,1,2015-09-12 17:30:00,Valentin Stocker,Pass
+77009,17,SavedShot,0.89,0.5070000076293946,0.09131020307540894,Vedad Ibisevic,a,29,FromCorner,2015,RightFoot,1059,Wolfsburg,Hertha Berlin,2,0,2015-09-19 17:30:00,,None
+77015,50,MissedShots,0.9,0.3340000152587891,0.011233700439333916,Vedad Ibisevic,a,29,OpenPlay,2015,Head,1059,Wolfsburg,Hertha Berlin,2,0,2015-09-19 17:30:00,Mitchell Weiser,Aerial
+77024,82,MissedShots,0.875999984741211,0.5640000152587891,0.019113199785351753,Vedad Ibisevic,a,29,OpenPlay,2015,Head,1059,Wolfsburg,Hertha Berlin,2,0,2015-09-19 17:30:00,Johannes van den Bergh,Aerial
+77357,39,SavedShot,0.9630000305175781,0.47200000762939454,0.13781699538230896,Vedad Ibisevic,h,29,FromCorner,2015,Head,1067,Hertha Berlin,FC Cologne,2,0,2015-09-22 22:00:00,Marvin Plattenhardt,Cross
+77360,42,Goal,0.9419999694824219,0.629000015258789,0.03646260127425194,Vedad Ibisevic,h,29,OpenPlay,2015,Head,1067,Hertha Berlin,FC Cologne,2,0,2015-09-22 22:00:00,Marvin Plattenhardt,Cross
+77362,48,SavedShot,0.8859999847412109,0.6120000076293945,0.09632740169763565,Vedad Ibisevic,h,29,OpenPlay,2015,RightFoot,1067,Hertha Berlin,FC Cologne,2,0,2015-09-22 22:00:00,Per Skjelbred,Chipped
+77376,93,Goal,0.8230000305175781,0.40400001525878904,0.28550100326538086,Vedad Ibisevic,h,29,OpenPlay,2015,RightFoot,1067,Hertha Berlin,FC Cologne,2,0,2015-09-22 22:00:00,Alexander Baumjohann,Pass
+77615,13,SavedShot,0.955,0.515,0.6262490153312683,Vedad Ibisevic,a,29,OpenPlay,2015,LeftFoot,1082,Eintracht Frankfurt,Hertha Berlin,1,1,2015-09-27 17:30:00,,None
+77616,14,ShotOnPost,0.9619999694824218,0.5690000152587891,0.38469499349594116,Vedad Ibisevic,a,29,FromCorner,2015,Head,1082,Eintracht Frankfurt,Hertha Berlin,1,1,2015-09-27 17:30:00,Vladimir Darida,Cross
+77622,32,MissedShots,0.9169999694824219,0.5029999923706054,0.5174520015716553,Vedad Ibisevic,a,29,OpenPlay,2015,RightFoot,1082,Eintracht Frankfurt,Hertha Berlin,1,1,2015-09-27 17:30:00,Marvin Plattenhardt,Cross
+77636,87,MissedShots,0.9330000305175781,0.39599998474121095,0.016695700585842133,Vedad Ibisevic,a,29,FromCorner,2015,Head,1082,Eintracht Frankfurt,Hertha Berlin,1,1,2015-09-27 17:30:00,Marvin Plattenhardt,Aerial
+77836,74,MissedShots,0.9269999694824219,0.5629999923706055,0.30869799852371216,Vedad Ibisevic,h,29,OpenPlay,2015,Head,1087,Hertha Berlin,Hamburger SV,3,0,2015-10-03 17:30:00,Marvin Plattenhardt,Cross
+77837,75,Goal,0.9130000305175782,0.500999984741211,0.6199060082435608,Vedad Ibisevic,h,29,OpenPlay,2015,LeftFoot,1087,Hertha Berlin,Hamburger SV,3,0,2015-10-03 17:30:00,Tolga Cigerci,Pass
+77839,77,Goal,0.8690000152587891,0.415,0.5181959867477417,Vedad Ibisevic,h,29,OpenPlay,2015,RightFoot,1087,Hertha Berlin,Hamburger SV,3,0,2015-10-03 17:30:00,Alexander Baumjohann,Throughball
+79568,8,SavedShot,0.9469999694824218,0.4279999923706055,0.1068900004029274,Vedad Ibisevic,h,29,FromCorner,2015,LeftFoot,1151,Hertha Berlin,Bayer Leverkusen,2,1,2015-12-05 18:30:00,,None
+79569,8,MissedShots,0.8919999694824219,0.4879999923706055,0.1134369969367981,Vedad Ibisevic,h,29,FromCorner,2015,RightFoot,1151,Hertha Berlin,Bayer Leverkusen,2,1,2015-12-05 18:30:00,,Rebound
+79570,14,BlockedShot,0.9180000305175782,0.610999984741211,0.09149269759654999,Vedad Ibisevic,h,29,OpenPlay,2015,LeftFoot,1151,Hertha Berlin,Bayer Leverkusen,2,1,2015-12-05 18:30:00,Marvin Plattenhardt,Cross
+79805,7,MissedShots,0.879000015258789,0.33299999237060546,0.0468503013253212,Vedad Ibisevic,a,29,OpenPlay,2015,RightFoot,1157,Darmstadt,Hertha Berlin,0,4,2015-12-12 18:30:00,Yanni Regäsel,HeadPass
+79806,11,Goal,0.9490000152587891,0.4909999847412109,0.6251599788665771,Vedad Ibisevic,a,29,OpenPlay,2015,LeftFoot,1157,Darmstadt,Hertha Berlin,0,4,2015-12-12 18:30:00,Mitchell Weiser,Pass
+79815,49,Goal,0.9530000305175781,0.534000015258789,0.5221359729766846,Vedad Ibisevic,a,29,FromCorner,2015,RightFoot,1157,Darmstadt,Hertha Berlin,0,4,2015-12-12 18:30:00,John Brooks,HeadPass
+80024,23,MissedShots,0.9019999694824219,0.595999984741211,0.08008729666471481,Vedad Ibisevic,h,29,OpenPlay,2015,RightFoot,1172,Hertha Berlin,Mainz 05,2,0,2015-12-20 18:30:00,Marvin Plattenhardt,Cross
+80033,88,SavedShot,0.9469999694824218,0.500999984741211,0.8124070167541504,Vedad Ibisevic,h,29,OpenPlay,2015,RightFoot,1172,Hertha Berlin,Mainz 05,2,0,2015-12-20 18:30:00,Genki Haraguchi,Pass
+80233,13,MissedShots,0.9619999694824218,0.42900001525878906,0.13717100024223328,Vedad Ibisevic,h,29,OpenPlay,2015,Head,1177,Hertha Berlin,Augsburg,0,0,2016-01-23 18:30:00,Genki Haraguchi,Cross
+80234,17,MissedShots,0.87,0.4909999847412109,0.0631989985704422,Vedad Ibisevic,h,29,FromCorner,2015,RightFoot,1177,Hertha Berlin,Augsburg,0,0,2016-01-23 18:30:00,Fabian Lustenberger,Chipped
+80241,37,SavedShot,0.879000015258789,0.5970000076293945,0.08423739671707153,Vedad Ibisevic,h,29,OpenPlay,2015,RightFoot,1177,Hertha Berlin,Augsburg,0,0,2016-01-23 18:30:00,,BallRecovery
+80250,70,MissedShots,0.8830000305175781,0.3320000076293945,0.028115300461649895,Vedad Ibisevic,h,29,OpenPlay,2015,RightFoot,1177,Hertha Berlin,Augsburg,0,0,2016-01-23 18:30:00,Alexander Baumjohann,Cross
+80447,4,BlockedShot,0.9419999694824219,0.3340000152587891,0.07430409640073776,Vedad Ibisevic,a,29,OpenPlay,2015,RightFoot,1188,Werder Bremen,Hertha Berlin,3,3,2016-01-30 18:30:00,Fabian Lustenberger,Pass
+80455,27,BlockedShot,0.9469999694824218,0.5920000076293945,0.02512199990451336,Vedad Ibisevic,a,29,FromCorner,2015,Head,1188,Werder Bremen,Hertha Berlin,3,3,2016-01-30 18:30:00,Vladimir Darida,Aerial
+80687,62,BlockedShot,0.845,0.28100000381469725,0.03425300121307373,Vedad Ibisevic,h,29,OpenPlay,2015,RightFoot,1196,Hertha Berlin,Borussia Dortmund,0,0,2016-02-06 18:30:00,,Tackle
+80690,69,MissedShots,0.8490000152587891,0.47,0.11639600247144699,Vedad Ibisevic,h,29,OpenPlay,2015,RightFoot,1196,Hertha Berlin,Borussia Dortmund,0,0,2016-02-06 18:30:00,Vladimir Darida,Pass
+80822,36,SavedShot,0.865999984741211,0.43,0.3710170090198517,Vedad Ibisevic,a,29,OpenPlay,2015,RightFoot,1205,VfB Stuttgart,Hertha Berlin,2,0,2016-02-13 18:30:00,Tolga Cigerci,Pass
+80824,48,SavedShot,0.8540000152587891,0.62,0.14888900518417358,Vedad Ibisevic,a,29,OpenPlay,2015,RightFoot,1205,VfB Stuttgart,Hertha Berlin,2,0,2016-02-13 18:30:00,Per Skjelbred,TakeOn
+80830,68,BlockedShot,0.855,0.4490000152587891,0.07715059816837311,Vedad Ibisevic,a,29,OpenPlay,2015,LeftFoot,1205,VfB Stuttgart,Hertha Berlin,2,0,2016-02-13 18:30:00,Genki Haraguchi,Pass
+80831,69,SavedShot,0.7609999847412109,0.49599998474121093,0.028852999210357666,Vedad Ibisevic,a,29,OpenPlay,2015,RightFoot,1205,VfB Stuttgart,Hertha Berlin,2,0,2016-02-13 18:30:00,Per Skjelbred,Pass
+81141,7,SavedShot,0.8219999694824218,0.5420000076293945,0.06738059967756271,Vedad Ibisevic,h,29,OpenPlay,2015,RightFoot,1212,Hertha Berlin,Wolfsburg,1,1,2016-02-20 18:30:00,Salomon Kalou,Pass
+81145,29,MissedShots,0.8930000305175781,0.46599998474121096,0.05199019983410835,Vedad Ibisevic,h,29,FromCorner,2015,Head,1212,Hertha Berlin,Wolfsburg,1,1,2016-02-20 18:30:00,Vladimir Darida,Cross
+81151,59,BlockedShot,0.9059999847412109,0.42900001525878906,0.09354019910097122,Vedad Ibisevic,h,29,OpenPlay,2015,RightFoot,1212,Hertha Berlin,Wolfsburg,1,1,2016-02-20 18:30:00,Genki Haraguchi,Pass
+81406,42,Goal,0.8919999694824219,0.605999984741211,0.3406839966773987,Vedad Ibisevic,a,29,OpenPlay,2015,RightFoot,1219,FC Cologne,Hertha Berlin,0,1,2016-02-26 23:30:00,Salomon Kalou,Pass
+81410,50,MissedShots,0.8819999694824219,0.48200000762939454,0.03848769888281822,Vedad Ibisevic,a,29,OpenPlay,2015,Head,1219,FC Cologne,Hertha Berlin,0,1,2016-02-26 23:30:00,Peter Pekarík,Aerial
+81414,71,MissedShots,0.9369999694824219,0.46099998474121096,0.06259380280971527,Vedad Ibisevic,a,29,FromCorner,2015,Head,1219,FC Cologne,Hertha Berlin,0,1,2016-02-26 23:30:00,Marvin Plattenhardt,Aerial
+81588,14,SavedShot,0.8730000305175781,0.35700000762939454,0.09130840003490448,Vedad Ibisevic,h,29,OpenPlay,2015,RightFoot,1231,Hertha Berlin,Eintracht Frankfurt,2,0,2016-03-02 23:00:00,Salomon Kalou,Pass
+81595,39,SavedShot,0.8540000152587891,0.6569999694824219,0.05017310008406639,Vedad Ibisevic,h,29,OpenPlay,2015,RightFoot,1231,Hertha Berlin,Eintracht Frankfurt,2,0,2016-03-02 23:00:00,,None
+81597,47,MissedShots,0.9369999694824219,0.5670000076293945,0.13276299834251404,Vedad Ibisevic,h,29,OpenPlay,2015,RightFoot,1231,Hertha Berlin,Eintracht Frankfurt,2,0,2016-03-02 23:00:00,Marvin Plattenhardt,Pass
+81599,58,BlockedShot,0.9309999847412109,0.3659999847412109,0.04517120122909546,Vedad Ibisevic,h,29,FromCorner,2015,RightFoot,1231,Hertha Berlin,Eintracht Frankfurt,2,0,2016-03-02 23:00:00,Vladimir Darida,Cross
+81731,9,SavedShot,0.9169999694824219,0.5270000076293946,0.1290230005979538,Vedad Ibisevic,a,29,OpenPlay,2015,Head,1245,Hamburger SV,Hertha Berlin,2,0,2016-03-06 20:30:00,Marvin Plattenhardt,Cross
+82066,41,Goal,0.88,0.435,0.38792499899864197,Vedad Ibisevic,h,29,OpenPlay,2015,RightFoot,1246,Hertha Berlin,Schalke 04,2,0,2016-03-11 23:30:00,Genki Haraguchi,Pass
+82080,75,MissedShots,0.8859999847412109,0.524000015258789,0.108644999563694,Vedad Ibisevic,h,29,OpenPlay,2015,LeftFoot,1246,Hertha Berlin,Schalke 04,2,0,2016-03-11 23:30:00,,None
+82382,37,MissedShots,0.9019999694824219,0.495,0.11064500361680984,Vedad Ibisevic,h,29,OpenPlay,2015,RightFoot,1260,Hertha Berlin,Ingolstadt,2,1,2016-03-19 18:30:00,Salomon Kalou,Cross
+82479,25,SavedShot,0.9319999694824219,0.5179999923706055,0.1130329966545105,Vedad Ibisevic,a,29,FromCorner,2015,RightFoot,1271,Borussia M.Gladbach,Hertha Berlin,5,0,2016-04-03 17:30:00,Vladimir Darida,None
+82795,3,Goal,0.950999984741211,0.5120000076293946,0.5740410089492798,Vedad Ibisevic,h,29,OpenPlay,2015,RightFoot,1273,Hertha Berlin,Hannover 96,2,2,2016-04-08 22:30:00,Marvin Plattenhardt,Cross
+82799,13,BlockedShot,0.899000015258789,0.42200000762939455,0.054643601179122925,Vedad Ibisevic,h,29,SetPiece,2015,Head,1273,Hertha Berlin,Hannover 96,2,2,2016-04-08 22:30:00,Tolga Cigerci,Cross
+82816,82,SavedShot,0.955,0.3340000152587891,0.05674130097031593,Vedad Ibisevic,h,29,SetPiece,2015,RightFoot,1273,Hertha Berlin,Hannover 96,2,2,2016-04-08 22:30:00,,None
+82817,83,SavedShot,0.9309999847412109,0.42200000762939455,0.046129800379276276,Vedad Ibisevic,h,29,FromCorner,2015,OtherBodyPart,1273,Hertha Berlin,Hannover 96,2,2,2016-04-08 22:30:00,Marvin Plattenhardt,Cross
+82818,89,SavedShot,0.9,0.44,0.05052759870886803,Vedad Ibisevic,h,29,FromCorner,2015,Head,1273,Hertha Berlin,Hannover 96,2,2,2016-04-08 22:30:00,Marvin Plattenhardt,Cross
+82975,2,SavedShot,0.875999984741211,0.5690000152587891,0.11676599830389023,Vedad Ibisevic,a,29,OpenPlay,2015,RightFoot,1283,Hoffenheim,Hertha Berlin,2,1,2016-04-16 17:30:00,,TakeOn
+82980,21,MissedShots,0.899000015258789,0.3820000076293945,0.0753524973988533,Vedad Ibisevic,a,29,OpenPlay,2015,RightFoot,1283,Hoffenheim,Hertha Berlin,2,1,2016-04-16 17:30:00,Fabian Lustenberger,HeadPass
+83333,20,Goal,0.9119999694824219,0.53,0.06340210139751434,Vedad Ibisevic,a,29,OpenPlay,2015,Head,1307,Bayer Leverkusen,Hertha Berlin,2,1,2016-04-30 20:30:00,Peter Pekarík,Aerial
+83347,62,SavedShot,0.7780000305175782,0.5320000076293945,0.039799898862838745,Vedad Ibisevic,a,29,OpenPlay,2015,RightFoot,1307,Bayer Leverkusen,Hertha Berlin,2,1,2016-04-30 20:30:00,Tolga Cigerci,TakeOn
+83688,45,BlockedShot,0.7609999847412109,0.5529999923706055,0.02420089952647686,Vedad Ibisevic,h,29,OpenPlay,2015,RightFoot,1316,Hertha Berlin,Darmstadt,1,2,2016-05-07 17:30:00,Genki Haraguchi,Pass
+83689,61,BlockedShot,0.8209999847412109,0.4520000076293945,0.06622529774904251,Vedad Ibisevic,h,29,OpenPlay,2015,RightFoot,1316,Hertha Berlin,Darmstadt,1,2,2016-05-07 17:30:00,Salomon Kalou,Pass
+83692,69,MissedShots,0.875999984741211,0.5729999923706055,0.0806925967335701,Vedad Ibisevic,h,29,OpenPlay,2015,RightFoot,1316,Hertha Berlin,Darmstadt,1,2,2016-05-07 17:30:00,Alexander Baumjohann,HeadPass
+127653,35,SavedShot,0.870999984741211,0.5520000076293945,0.06392859667539597,Vedad Ibisevic,h,29,OpenPlay,2016,RightFoot,1334,Hertha Berlin,Freiburg,2,1,2016-08-28 17:30:00,Peter Pekarík,Cross
+127654,36,BlockedShot,0.93,0.44299999237060544,0.08369850367307663,Vedad Ibisevic,h,29,FromCorner,2016,OtherBodyPart,1334,Hertha Berlin,Freiburg,2,1,2016-08-28 17:30:00,Marvin Plattenhardt,BallTouch
+127655,37,SavedShot,0.8719999694824219,0.524000015258789,0.018046099692583084,Vedad Ibisevic,h,29,OpenPlay,2016,Head,1334,Hertha Berlin,Freiburg,2,1,2016-08-28 17:30:00,Mitchell Weiser,Aerial
+127663,69,MissedShots,0.889000015258789,0.47,0.15093499422073364,Vedad Ibisevic,h,29,OpenPlay,2016,RightFoot,1334,Hertha Berlin,Freiburg,2,1,2016-08-28 17:30:00,Mitchell Weiser,Pass
+127929,7,Goal,0.8159999847412109,0.534000015258789,0.3250890076160431,Vedad Ibisevic,a,29,OpenPlay,2016,LeftFoot,1338,Ingolstadt,Hertha Berlin,0,2,2016-09-10 17:30:00,Genki Haraguchi,Throughball
+127933,41,SavedShot,0.7980000305175782,0.35900001525878905,0.036173198372125626,Vedad Ibisevic,a,29,OpenPlay,2016,RightFoot,1338,Ingolstadt,Hertha Berlin,0,2,2016-09-10 17:30:00,Vladimir Darida,Pass
+127936,52,SavedShot,0.9259999847412109,0.4779999923706055,0.061934199184179306,Vedad Ibisevic,a,29,FromCorner,2016,Head,1338,Ingolstadt,Hertha Berlin,0,2,2016-09-10 17:30:00,Genki Haraguchi,HeadPass
+128254,65,MissedShots,0.9009999847412109,0.445,0.15212799608707428,Vedad Ibisevic,h,29,OpenPlay,2016,RightFoot,1353,Hertha Berlin,Schalke 04,2,0,2016-09-18 19:30:00,Mitchell Weiser,Pass
+128800,18,Goal,0.885,0.5,0.7577769756317139,Vedad Ibisevic,a,29,Penalty,2016,RightFoot,1368,Eintracht Frankfurt,Hertha Berlin,3,3,2016-09-24 17:30:00,,Standard
+128809,57,Goal,0.9030000305175782,0.4929999923706055,0.09880849719047546,Vedad Ibisevic,a,29,OpenPlay,2016,RightFoot,1368,Eintracht Frankfurt,Hertha Berlin,3,3,2016-09-24 17:30:00,Alexander Esswein,Cross
+128904,28,Goal,0.9269999694824219,0.5770000076293945,0.123198002576828,Vedad Ibisevic,h,29,FromCorner,2016,RightFoot,1374,Hertha Berlin,Hamburger SV,2,0,2016-10-01 17:30:00,,Rebound
+128913,69,Goal,0.885,0.5,0.7576959729194641,Vedad Ibisevic,h,29,Penalty,2016,RightFoot,1374,Hertha Berlin,Hamburger SV,2,0,2016-10-01 17:30:00,,Standard
+128915,73,MissedShots,0.9159999847412109,0.5159999847412109,0.5351539850234985,Vedad Ibisevic,h,29,OpenPlay,2016,RightFoot,1374,Hertha Berlin,Hamburger SV,2,0,2016-10-01 17:30:00,Marvin Plattenhardt,Pass
+128917,75,SavedShot,0.784000015258789,0.5609999847412109,0.05628279969096184,Vedad Ibisevic,h,29,OpenPlay,2016,RightFoot,1374,Hertha Berlin,Hamburger SV,2,0,2016-10-01 17:30:00,Allan,Pass
+129348,8,SavedShot,0.8919999694824219,0.5259999847412109,0.12897099554538727,Vedad Ibisevic,h,29,OpenPlay,2016,RightFoot,1394,Hertha Berlin,FC Cologne,2,1,2016-10-22 17:30:00,Genki Haraguchi,Pass
+129350,12,Goal,0.8580000305175781,0.4759999847412109,0.10192900151014328,Vedad Ibisevic,h,29,OpenPlay,2016,RightFoot,1394,Hertha Berlin,FC Cologne,2,1,2016-10-22 17:30:00,Mitchell Weiser,Pass
+129500,8,MissedShots,0.845,0.73,0.029184799641370773,Vedad Ibisevic,a,29,OpenPlay,2016,RightFoot,3306,Hoffenheim,Hertha Berlin,1,0,2016-10-30 18:30:00,,None
+129515,50,SavedShot,0.86,0.500999984741211,0.07790710031986237,Vedad Ibisevic,a,29,OpenPlay,2016,RightFoot,3306,Hoffenheim,Hertha Berlin,1,0,2016-10-30 18:30:00,Mitchell Weiser,Pass
+129610,36,MissedShots,0.9019999694824219,0.44299999237060544,0.018344100564718246,Vedad Ibisevic,h,29,FromCorner,2016,Head,2806,Hertha Berlin,Borussia M.Gladbach,3,0,2016-11-04 23:30:00,Mitchell Weiser,Aerial
+129613,58,SavedShot,0.9169999694824219,0.4779999923706055,0.04355449974536896,Vedad Ibisevic,h,29,FromCorner,2016,Head,2806,Hertha Berlin,Borussia M.Gladbach,3,0,2016-11-04 23:30:00,Mitchell Weiser,Aerial
+129623,89,BlockedShot,0.805,0.509000015258789,0.07112280279397964,Vedad Ibisevic,h,29,OpenPlay,2016,RightFoot,2806,Hertha Berlin,Borussia M.Gladbach,3,0,2016-11-04 23:30:00,Mitchell Weiser,Pass
+130024,49,BlockedShot,0.9119999694824219,0.42200000762939455,0.06504549831151962,Vedad Ibisevic,a,29,OpenPlay,2016,Head,2819,Augsburg,Hertha Berlin,0,0,2016-11-19 18:30:00,Alexander Esswein,Cross
+131075,19,MissedShots,0.9069999694824219,0.4909999847412109,0.07466989755630493,Vedad Ibisevic,h,29,SetPiece,2016,Head,2832,Hertha Berlin,Mainz 05,2,1,2016-11-27 20:30:00,Marvin Plattenhardt,Chipped
+131076,22,SavedShot,0.8730000305175781,0.33,0.05756549909710884,Vedad Ibisevic,h,29,OpenPlay,2016,RightFoot,2832,Hertha Berlin,Mainz 05,2,1,2016-11-27 20:30:00,Valentin Stocker,Pass
+131079,35,Goal,0.84,0.5129999923706055,0.07530710101127625,Vedad Ibisevic,h,29,OpenPlay,2016,RightFoot,2832,Hertha Berlin,Mainz 05,2,1,2016-11-27 20:30:00,Salomon Kalou,Pass
+131082,44,MissedShots,0.91,0.45099998474121095,0.04863309860229492,Vedad Ibisevic,h,29,OpenPlay,2016,Head,2832,Hertha Berlin,Mainz 05,2,1,2016-11-27 20:30:00,Fabian Lustenberger,Aerial
+131083,46,BlockedShot,0.8119999694824219,0.5420000076293945,0.05493830144405365,Vedad Ibisevic,h,29,OpenPlay,2016,RightFoot,2832,Hertha Berlin,Mainz 05,2,1,2016-11-27 20:30:00,Fabian Lustenberger,Pass
+131086,64,MissedShots,0.9319999694824219,0.41700000762939454,0.07243739813566208,Vedad Ibisevic,h,29,FromCorner,2016,RightFoot,2832,Hertha Berlin,Mainz 05,2,1,2016-11-27 20:30:00,Vladimir Darida,Cross
+131088,66,SavedShot,0.9619999694824218,0.5320000076293945,0.5950170159339905,Vedad Ibisevic,h,29,OpenPlay,2016,RightFoot,2832,Hertha Berlin,Mainz 05,2,1,2016-11-27 20:30:00,Salomon Kalou,HeadPass
+131089,66,Goal,0.9540000152587891,0.534000015258789,0.6324660181999207,Vedad Ibisevic,h,29,OpenPlay,2016,RightFoot,2832,Hertha Berlin,Mainz 05,2,1,2016-11-27 20:30:00,,Rebound
+131090,69,MissedShots,0.8930000305175781,0.48700000762939455,0.0595025010406971,Vedad Ibisevic,h,29,OpenPlay,2016,Head,2832,Hertha Berlin,Mainz 05,2,1,2016-11-27 20:30:00,Marvin Plattenhardt,Chipped
+131097,1,MissedShots,0.8719999694824219,0.485,0.08709809929132462,Vedad Ibisevic,h,29,OpenPlay,2016,LeftFoot,3207,Hertha Berlin,Werder Bremen,0,1,2016-12-10 21:30:00,Alexander Esswein,Chipped
+131107,42,MissedShots,0.93,0.38799999237060545,0.027507299557328224,Vedad Ibisevic,h,29,OpenPlay,2016,Head,3207,Hertha Berlin,Werder Bremen,0,1,2016-12-10 21:30:00,,Aerial
+131108,44,ShotOnPost,0.785,0.53,0.13534900546073914,Vedad Ibisevic,h,29,OpenPlay,2016,RightFoot,3207,Hertha Berlin,Werder Bremen,0,1,2016-12-10 21:30:00,Valentin Stocker,Throughball
+131114,67,SavedShot,0.85,0.6759999847412109,0.043781500309705734,Vedad Ibisevic,h,29,OpenPlay,2016,RightFoot,3207,Hertha Berlin,Werder Bremen,0,1,2016-12-10 21:30:00,Salomon Kalou,Pass
+131120,85,MissedShots,0.9669999694824218,0.415,0.05669489875435829,Vedad Ibisevic,h,29,OpenPlay,2016,Head,3207,Hertha Berlin,Werder Bremen,0,1,2016-12-10 21:30:00,Valentin Stocker,Chipped
+130178,8,MissedShots,0.9359999847412109,0.43,0.0939238965511322,Vedad Ibisevic,h,29,FromCorner,2016,Head,3225,Hertha Berlin,Darmstadt,2,0,2016-12-21 23:00:00,Vladimir Darida,Cross
+130194,81,MissedShots,0.9019999694824219,0.5920000076293945,0.1347540020942688,Vedad Ibisevic,h,29,OpenPlay,2016,LeftFoot,3225,Hertha Berlin,Darmstadt,2,0,2016-12-21 23:00:00,Salomon Kalou,Pass
+130462,14,MissedShots,0.8180000305175781,0.48,0.061166901141405106,Vedad Ibisevic,a,29,OpenPlay,2016,RightFoot,3729,Bayer Leverkusen,Hertha Berlin,3,1,2017-01-22 17:30:00,Alexander Esswein,Pass
+130477,72,SavedShot,0.9319999694824219,0.5320000076293945,0.5158939957618713,Vedad Ibisevic,a,29,OpenPlay,2016,RightFoot,3729,Bayer Leverkusen,Hertha Berlin,3,1,2017-01-22 17:30:00,Valentin Stocker,Pass
+131420,46,BlockedShot,0.8819999694824219,0.46,0.07771919667720795,Vedad Ibisevic,a,29,OpenPlay,2016,RightFoot,3738,Freiburg,Hertha Berlin,2,1,2017-01-29 17:30:00,Salomon Kalou,HeadPass
+131435,87,BlockedShot,0.915,0.6040000152587891,0.05900660157203674,Vedad Ibisevic,a,29,OpenPlay,2016,LeftFoot,3738,Freiburg,Hertha Berlin,2,1,2017-01-29 17:30:00,Alexander Esswein,Cross
+132482,22,BlockedShot,0.9209999847412109,0.645,0.1138399988412857,Vedad Ibisevic,a,29,OpenPlay,2016,LeftFoot,3755,Schalke 04,Hertha Berlin,2,0,2017-02-11 17:30:00,Salomon Kalou,Pass
+132492,69,SavedShot,0.894000015258789,0.6869999694824219,0.217180997133255,Vedad Ibisevic,a,29,OpenPlay,2016,RightFoot,3755,Schalke 04,Hertha Berlin,2,0,2017-02-11 17:30:00,Salomon Kalou,Pass
+132062,2,BlockedShot,0.865,0.455,0.013075199909508228,Vedad Ibisevic,h,29,OpenPlay,2016,Head,3762,Hertha Berlin,Bayern Munich,1,1,2017-02-18 14:30:00,Peter Pekarík,Aerial
+132064,4,MissedShots,0.9359999847412109,0.6090000152587891,0.041977498680353165,Vedad Ibisevic,h,29,FromCorner,2016,Head,3762,Hertha Berlin,Bayern Munich,1,1,2017-02-18 14:30:00,Marvin Plattenhardt,Cross
+132066,20,Goal,0.96,0.5709999847412109,0.47314000129699707,Vedad Ibisevic,h,29,SetPiece,2016,RightFoot,3762,Hertha Berlin,Bayern Munich,1,1,2017-02-18 14:30:00,Marvin Plattenhardt,Cross
+132073,49,MissedShots,0.9169999694824219,0.605,0.09416919946670532,Vedad Ibisevic,h,29,OpenPlay,2016,RightFoot,3762,Hertha Berlin,Bayern Munich,1,1,2017-02-18 14:30:00,Marvin Plattenhardt,Cross
+132054,51,Goal,0.925,0.6409999847412109,0.34929800033569336,Vedad Ibisevic,h,29,OpenPlay,2016,LeftFoot,3773,Hertha Berlin,Eintracht Frankfurt,2,0,2017-02-25 17:30:00,Salomon Kalou,BallTouch
+132058,82,MissedShots,0.9409999847412109,0.5609999847412109,0.1120619997382164,Vedad Ibisevic,h,29,FromCorner,2016,Head,3773,Hertha Berlin,Eintracht Frankfurt,2,0,2017-02-25 17:30:00,Marvin Plattenhardt,Cross
+132651,75,BlockedShot,0.9340000152587891,0.41200000762939454,0.06689749658107758,Vedad Ibisevic,a,29,FromCorner,2016,Head,3784,Hamburger SV,Hertha Berlin,1,0,2017-03-05 16:30:00,Marvin Plattenhardt,Cross
+134608,31,SavedShot,0.925,0.47,0.05382160097360611,Vedad Ibisevic,a,29,OpenPlay,2016,Head,3796,FC Cologne,Hertha Berlin,4,2,2017-03-18 14:30:00,Marvin Plattenhardt,Aerial
+134611,49,Goal,0.885,0.5,0.7577769756317139,Vedad Ibisevic,a,29,Penalty,2016,RightFoot,3796,FC Cologne,Hertha Berlin,4,2,2017-03-18 14:30:00,,Standard
+134616,81,SavedShot,0.9640000152587891,0.49900001525878906,0.6971830129623413,Vedad Ibisevic,a,29,OpenPlay,2016,RightFoot,3796,FC Cologne,Hertha Berlin,4,2,2017-03-18 14:30:00,Maximilian Mittelstädt,Pass
+134587,19,SavedShot,0.91,0.6,0.40123701095581055,Vedad Ibisevic,h,29,OpenPlay,2016,LeftFoot,3828,Hertha Berlin,Augsburg,2,0,2017-04-09 14:30:00,Salomon Kalou,Pass
+134588,19,SavedShot,0.9590000152587891,0.6020000076293945,0.1311729997396469,Vedad Ibisevic,h,29,OpenPlay,2016,RightFoot,3828,Hertha Berlin,Augsburg,2,0,2017-04-09 14:30:00,,Rebound
+134597,65,MissedShots,0.8519999694824218,0.5670000076293945,0.13366299867630005,Vedad Ibisevic,h,29,OpenPlay,2016,RightFoot,3828,Hertha Berlin,Augsburg,2,0,2017-04-09 14:30:00,Salomon Kalou,TakeOn
+132764,76,BlockedShot,0.8690000152587891,0.4759999847412109,0.06989730149507523,Vedad Ibisevic,a,29,OpenPlay,2016,RightFoot,3835,Mainz 05,Hertha Berlin,1,0,2017-04-15 14:30:00,,None
+133630,48,BlockedShot,0.9,0.3940000152587891,0.024696100503206253,Vedad Ibisevic,h,29,FromCorner,2016,Head,3843,Hertha Berlin,Wolfsburg,1,0,2017-04-22 14:30:00,Vladimir Darida,Cross
+133631,49,BlockedShot,0.9180000305175782,0.5970000076293945,0.11866699904203415,Vedad Ibisevic,h,29,OpenPlay,2016,RightFoot,3843,Hertha Berlin,Wolfsburg,1,0,2017-04-22 14:30:00,Marvin Plattenhardt,Pass
+133632,51,MissedShots,0.8819999694824219,0.5279999923706055,0.057635098695755005,Vedad Ibisevic,h,29,OpenPlay,2016,Head,3843,Hertha Berlin,Wolfsburg,1,0,2017-04-22 14:30:00,Alexander Esswein,Cross
+133634,58,Goal,0.9669999694824218,0.54,0.8800110220909119,Vedad Ibisevic,h,29,OpenPlay,2016,Head,3843,Hertha Berlin,Wolfsburg,1,0,2017-04-22 14:30:00,,Rebound
+133633,58,SavedShot,0.9390000152587891,0.5309999847412109,0.5757319927215576,Vedad Ibisevic,h,29,OpenPlay,2016,Head,3843,Hertha Berlin,Wolfsburg,1,0,2017-04-22 14:30:00,Alexander Esswein,Cross
+134577,78,BlockedShot,0.815,0.5179999923706055,0.06640709936618805,Vedad Ibisevic,a,29,OpenPlay,2016,RightFoot,3850,Werder Bremen,Hertha Berlin,2,0,2017-04-29 14:30:00,Maximilian Mittelstädt,Pass
+134579,82,SavedShot,0.9119999694824219,0.4370000076293945,0.08117210119962692,Vedad Ibisevic,a,29,OpenPlay,2016,Head,3850,Werder Bremen,Hertha Berlin,2,0,2017-04-29 14:30:00,Genki Haraguchi,Cross
+134581,89,MissedShots,0.9290000152587891,0.544000015258789,0.06489919871091843,Vedad Ibisevic,a,29,SetPiece,2016,Head,3850,Werder Bremen,Hertha Berlin,2,0,2017-04-29 14:30:00,Ondrej Duda,Aerial
+133443,64,MissedShots,0.9369999694824219,0.4570000076293945,0.136135995388031,Vedad Ibisevic,a,29,OpenPlay,2016,Head,3872,Darmstadt,Hertha Berlin,0,2,2017-05-13 14:30:00,Peter Pekarík,Cross
+133452,88,MissedShots,0.95,0.5359999847412109,0.1427920013666153,Vedad Ibisevic,a,29,SetPiece,2016,Head,3872,Darmstadt,Hertha Berlin,0,2,2017-05-13 14:30:00,Marvin Plattenhardt,Cross
+127808,53,SavedShot,0.9309999847412109,0.5870000076293945,0.3711940050125122,Vedad Ibisevic,h,29,OpenPlay,2016,LeftFoot,3877,Hertha Berlin,Bayer Leverkusen,2,6,2017-05-20 14:30:00,Vladimir Darida,Pass
+127813,66,MissedShots,0.7769999694824219,0.5670000076293945,0.022322600707411766,Vedad Ibisevic,h,29,OpenPlay,2016,RightFoot,3877,Hertha Berlin,Bayer Leverkusen,2,6,2017-05-20 14:30:00,,None
+127816,75,BlockedShot,0.9669999694824218,0.5129999923706055,0.5994639992713928,Vedad Ibisevic,h,29,FromCorner,2016,RightFoot,3877,Hertha Berlin,Bayer Leverkusen,2,6,2017-05-20 14:30:00,Sebastian Langkamp,HeadPass
+127818,82,MissedShots,0.8119999694824219,0.3060000038146973,0.030242299661040306,Vedad Ibisevic,h,29,OpenPlay,2016,RightFoot,3877,Hertha Berlin,Bayer Leverkusen,2,6,2017-05-20 14:30:00,Vladimir Darida,TakeOn
+165822,23,BlockedShot,0.8019999694824219,0.48700000762939455,0.05284319818019867,Vedad Ibisevic,h,29,OpenPlay,2017,RightFoot,8261,Hertha Berlin,VfB Stuttgart,2,0,2017-08-19 14:30:00,Vladimir Darida,Pass
+165830,60,BlockedShot,0.8590000152587891,0.519000015258789,0.0485352985560894,Vedad Ibisevic,h,29,OpenPlay,2017,Head,8261,Hertha Berlin,VfB Stuttgart,2,0,2017-08-19 14:30:00,Marvin Plattenhardt,Cross
+166266,55,SavedShot,0.825,0.3270000076293945,0.043084800243377686,Vedad Ibisevic,h,29,OpenPlay,2017,RightFoot,8284,Hertha Berlin,Werder Bremen,1,1,2017-09-10 14:30:00,Alexander Esswein,Pass
+166272,88,SavedShot,0.8569999694824219,0.46099998474121096,0.0260234996676445,Vedad Ibisevic,h,29,OpenPlay,2017,Head,8284,Hertha Berlin,Werder Bremen,1,1,2017-09-10 14:30:00,Marvin Plattenhardt,Cross
+166860,40,SavedShot,0.8959999847412109,0.52,0.07745680212974548,Vedad Ibisevic,h,29,OpenPlay,2017,Head,8300,Hertha Berlin,Bayer Leverkusen,2,1,2017-09-20 19:30:00,Marvin Plattenhardt,Cross
+166801,66,MissedShots,0.9080000305175782,0.5179999923706055,0.444366991519928,Vedad Ibisevic,a,29,OpenPlay,2017,LeftFoot,8306,Mainz 05,Hertha Berlin,1,0,2017-09-23 14:30:00,Mitchell Weiser,Throughball
+166805,85,BlockedShot,0.894000015258789,0.5629999923706055,0.022097300738096237,Vedad Ibisevic,a,29,OpenPlay,2017,Head,8306,Mainz 05,Hertha Berlin,1,0,2017-09-23 14:30:00,Mitchell Weiser,Aerial
+168093,3,SavedShot,0.9219999694824219,0.34900001525878904,0.08102060109376907,Vedad Ibisevic,a,29,OpenPlay,2017,RightFoot,8333,Freiburg,Hertha Berlin,1,1,2017-10-22 14:30:00,Mathew Leckie,Pass
+167696,0,Goal,0.89,0.38799999237060545,0.34988701343536377,Vedad Ibisevic,a,29,OpenPlay,2017,RightFoot,8356,Wolfsburg,Hertha Berlin,3,3,2017-11-05 17:00:00,Valentino Lazaro,Pass
+167719,73,SavedShot,0.9619999694824218,0.3340000152587891,0.06016470119357109,Vedad Ibisevic,a,29,OpenPlay,2017,RightFoot,8356,Wolfsburg,Hertha Berlin,3,3,2017-11-05 17:00:00,Arne Maier,Pass
+167860,27,SavedShot,0.9619999694824218,0.45,0.6184239983558655,Vedad Ibisevic,h,29,OpenPlay,2017,RightFoot,8360,Hertha Berlin,Borussia M.Gladbach,2,4,2017-11-18 17:30:00,Davie Selke,Pass
+167861,27,Goal,0.9530000305175781,0.509000015258789,0.6538270115852356,Vedad Ibisevic,h,29,OpenPlay,2017,RightFoot,8360,Hertha Berlin,Borussia M.Gladbach,2,4,2017-11-18 17:30:00,Mitchell Weiser,Pass
+167864,38,SavedShot,0.9269999694824219,0.5070000076293946,0.058896198868751526,Vedad Ibisevic,h,29,FromCorner,2017,Head,8360,Hertha Berlin,Borussia M.Gladbach,2,4,2017-11-18 17:30:00,Marvin Plattenhardt,Aerial
+167865,39,ShotOnPost,0.9490000152587891,0.555,0.06601399928331375,Vedad Ibisevic,h,29,FromCorner,2017,Head,8360,Hertha Berlin,Borussia M.Gladbach,2,4,2017-11-18 17:30:00,Marvin Plattenhardt,Aerial
+167866,40,MissedShots,0.925,0.49700000762939456,0.11563999950885773,Vedad Ibisevic,h,29,FromCorner,2017,Head,8360,Hertha Berlin,Borussia M.Gladbach,2,4,2017-11-18 17:30:00,Marvin Plattenhardt,Cross
+167870,55,BlockedShot,0.8230000305175781,0.30700000762939456,0.03152419999241829,Vedad Ibisevic,h,29,OpenPlay,2017,RightFoot,8360,Hertha Berlin,Borussia M.Gladbach,2,4,2017-11-18 17:30:00,Per Skjelbred,Pass
+168335,16,Goal,0.99,0.4909999847412109,0.9683060050010681,Vedad Ibisevic,a,29,FromCorner,2017,RightFoot,8369,FC Cologne,Hertha Berlin,0,2,2017-11-26 17:00:00,,Rebound
+168338,25,SavedShot,0.8859999847412109,0.4640000152587891,0.09919869899749756,Vedad Ibisevic,a,29,OpenPlay,2017,RightFoot,8369,FC Cologne,Hertha Berlin,0,2,2017-11-26 17:00:00,Per Skjelbred,Cross
+168339,30,SavedShot,0.9030000305175782,0.5070000076293946,0.05832019820809364,Vedad Ibisevic,a,29,OpenPlay,2017,Head,8369,FC Cologne,Hertha Berlin,0,2,2017-11-26 17:00:00,Marvin Plattenhardt,Aerial
+168341,38,MissedShots,0.889000015258789,0.5990000152587891,0.07791189849376678,Vedad Ibisevic,a,29,OpenPlay,2017,RightFoot,8369,FC Cologne,Hertha Berlin,0,2,2017-11-26 17:00:00,Mitchell Weiser,Cross
+168350,63,Goal,0.885,0.5,0.7577769756317139,Vedad Ibisevic,a,29,Penalty,2017,RightFoot,8369,FC Cologne,Hertha Berlin,0,2,2017-11-26 17:00:00,,Standard
+168893,0,SavedShot,0.8809999847412109,0.40099998474121096,0.36268898844718933,Vedad Ibisevic,h,29,OpenPlay,2017,RightFoot,8378,Hertha Berlin,Eintracht Frankfurt,1,2,2017-12-03 14:30:00,,Dispossessed
+168899,18,MissedShots,0.9159999847412109,0.515,0.13508300483226776,Vedad Ibisevic,h,29,OpenPlay,2017,Head,8378,Hertha Berlin,Eintracht Frankfurt,1,2,2017-12-03 14:30:00,Maximilian Mittelstädt,Cross
+192369,66,MissedShots,0.9780000305175781,0.43400001525878906,0.5898650288581848,Vedad Ibisevic,a,29,OpenPlay,2017,LeftFoot,8433,Werder Bremen,Hertha Berlin,0,0,2018-01-27 17:30:00,,None
+196160,9,BlockedShot,0.8819999694824219,0.45299999237060545,0.05223289877176285,Vedad Ibisevic,h,29,FromCorner,2017,RightFoot,8458,Hertha Berlin,Mainz 05,0,2,2018-02-16 19:30:00,Valentino Lazaro,Cross
+199939,13,MissedShots,0.7759999847412109,0.515,0.03284899890422821,Vedad Ibisevic,h,29,OpenPlay,2017,RightFoot,8490,Hertha Berlin,Freiburg,0,0,2018-03-10 14:30:00,Salomon Kalou,Pass
+199943,22,MissedShots,0.9359999847412109,0.5179999923706055,0.4724540114402771,Vedad Ibisevic,h,29,OpenPlay,2017,LeftFoot,8490,Hertha Berlin,Freiburg,0,0,2018-03-10 14:30:00,Valentino Lazaro,Cross
+199945,25,SavedShot,0.9430000305175781,0.4329999923706055,0.14124299585819244,Vedad Ibisevic,h,29,OpenPlay,2017,RightFoot,8490,Hertha Berlin,Freiburg,0,0,2018-03-10 14:30:00,Mitchell Weiser,Pass
+199949,45,MissedShots,0.9369999694824219,0.45799999237060546,0.10343100130558014,Vedad Ibisevic,h,29,OpenPlay,2017,RightFoot,8490,Hertha Berlin,Freiburg,0,0,2018-03-10 14:30:00,Mitchell Weiser,Cross
+201395,22,BlockedShot,0.914000015258789,0.5159999847412109,0.1406629979610443,Vedad Ibisevic,a,29,OpenPlay,2017,RightFoot,8500,Hamburger SV,Hertha Berlin,1,2,2018-03-17 14:30:00,Vladimir Darida,Pass
+201401,38,SavedShot,0.9030000305175782,0.549000015258789,0.48982900381088257,Vedad Ibisevic,a,29,OpenPlay,2017,RightFoot,8500,Hamburger SV,Hertha Berlin,1,2,2018-03-17 14:30:00,Valentino Lazaro,Cross
+201407,49,MissedShots,0.8730000305175781,0.54,0.015695199370384216,Vedad Ibisevic,a,29,OpenPlay,2017,Head,8500,Hamburger SV,Hertha Berlin,1,2,2018-03-17 14:30:00,Niklas Stark,Aerial
+201413,69,SavedShot,0.885,0.40900001525878904,0.15891599655151367,Vedad Ibisevic,a,29,OpenPlay,2017,LeftFoot,8500,Hamburger SV,Hertha Berlin,1,2,2018-03-17 14:30:00,Niklas Stark,TakeOn
+204524,30,BlockedShot,0.8919999694824219,0.7,0.04256340116262436,Vedad Ibisevic,h,29,OpenPlay,2017,LeftFoot,8505,Hertha Berlin,Wolfsburg,0,0,2018-03-31 14:30:00,Maximilian Mittelstädt,Pass
+208359,16,BlockedShot,0.8919999694824219,0.40400001525878904,0.0808539018034935,Vedad Ibisevic,h,29,OpenPlay,2017,RightFoot,8522,Hertha Berlin,FC Cologne,2,1,2018-04-14 13:30:00,,None
+211572,83,Goal,0.885,0.5,0.7577769756317139,Vedad Ibisevic,h,29,Penalty,2017,RightFoot,8540,Hertha Berlin,Augsburg,2,2,2018-04-28 13:30:00,,Standard
+214550,3,Goal,0.9530000305175781,0.46900001525878904,0.5271070003509521,Vedad Ibisevic,h,29,FromCorner,2017,OtherBodyPart,8558,Hertha Berlin,RasenBallsport Leipzig,2,6,2018-05-12 14:30:00,Marvin Plattenhardt,Cross
+214557,33,ShotOnPost,0.9290000152587891,0.47200000762939454,0.05744770169258118,Vedad Ibisevic,h,29,FromCorner,2017,Head,8558,Hertha Berlin,RasenBallsport Leipzig,2,6,2018-05-12 14:30:00,Marvin Plattenhardt,Aerial
+219953,26,Goal,0.9540000152587891,0.49700000762939456,0.6479259729385376,Vedad Ibisevic,h,29,OpenPlay,2018,RightFoot,10340,Hertha Berlin,Nuernberg,1,0,2018-08-25 16:30:00,Valentino Lazaro,Pass
+223460,38,BlockedShot,0.8540000152587891,0.48200000762939454,0.05521760135889053,Vedad Ibisevic,a,29,OpenPlay,2018,RightFoot,10358,Wolfsburg,Hertha Berlin,2,2,2018-09-15 13:30:00,Marko Grujic,Cross
+224907,26,MissedShots,0.7119999694824218,0.7440000152587891,0.012303699739277363,Vedad Ibisevic,h,29,OpenPlay,2018,RightFoot,10366,Hertha Berlin,Borussia M.Gladbach,4,2,2018-09-22 13:30:00,,TakeOn
+224909,30,Goal,0.9530000305175781,0.5129999923706055,0.47251299023628235,Vedad Ibisevic,h,29,OpenPlay,2018,Head,10366,Hertha Berlin,Borussia M.Gladbach,4,2,2018-09-22 13:30:00,Marvin Plattenhardt,Cross
+224916,44,SavedShot,0.9359999847412109,0.475,0.06406430155038834,Vedad Ibisevic,h,29,FromCorner,2018,Head,10366,Hertha Berlin,Borussia M.Gladbach,4,2,2018-09-22 13:30:00,Javairo Dilrosun,Aerial
+224917,51,MissedShots,0.7780000305175782,0.4490000152587891,0.038631800562143326,Vedad Ibisevic,h,29,OpenPlay,2018,RightFoot,10366,Hertha Berlin,Borussia M.Gladbach,4,2,2018-09-22 13:30:00,Ondrej Duda,Pass
+224921,62,Goal,0.965,0.57,0.6460549831390381,Vedad Ibisevic,h,29,OpenPlay,2018,RightFoot,10366,Hertha Berlin,Borussia M.Gladbach,4,2,2018-09-22 13:30:00,Salomon Kalou,Pass
+226150,26,BlockedShot,0.85,0.4620000076293945,0.10531199723482132,Vedad Ibisevic,a,29,OpenPlay,2018,LeftFoot,10373,Werder Bremen,Hertha Berlin,3,1,2018-09-25 16:30:00,Arne Maier,TakeOn
+226152,40,MissedShots,0.9409999847412109,0.625999984741211,0.3049260079860687,Vedad Ibisevic,a,29,OpenPlay,2018,RightFoot,10373,Werder Bremen,Hertha Berlin,3,1,2018-09-25 16:30:00,Pal Dardai,HeadPass
+226155,48,MissedShots,0.905,0.34799999237060547,0.06505739688873291,Vedad Ibisevic,a,29,OpenPlay,2018,RightFoot,10373,Werder Bremen,Hertha Berlin,3,1,2018-09-25 16:30:00,,Dispossessed
+227597,21,SavedShot,0.884000015258789,0.5429999923706055,0.23371699452400208,Vedad Ibisevic,h,29,OpenPlay,2018,Head,10382,Hertha Berlin,Bayern Munich,2,0,2018-09-28 18:30:00,Ondrej Duda,Chipped
+227598,22,Goal,0.885,0.5,0.7577769756317139,Vedad Ibisevic,h,29,Penalty,2018,RightFoot,10382,Hertha Berlin,Bayern Munich,2,0,2018-09-28 18:30:00,,Standard
+255270,22,MissedShots,0.9340000152587891,0.654000015258789,0.014408799819648266,Vedad Ibisevic,a,29,OpenPlay,2018,Head,10398,Mainz 05,Hertha Berlin,0,0,2018-10-06 13:30:00,Marvin Plattenhardt,Aerial
+255272,25,ShotOnPost,0.93,0.5259999847412109,0.398140013217926,Vedad Ibisevic,a,29,OpenPlay,2018,Head,10398,Mainz 05,Hertha Berlin,0,0,2018-10-06 13:30:00,Valentino Lazaro,Chipped
+255283,51,MissedShots,0.9259999847412109,0.47200000762939454,0.13065999746322632,Vedad Ibisevic,a,29,SetPiece,2018,Head,10398,Mainz 05,Hertha Berlin,0,0,2018-10-06 13:30:00,Marvin Plattenhardt,Cross
+255287,57,MissedShots,0.91,0.4370000076293945,0.09685260057449341,Vedad Ibisevic,a,29,OpenPlay,2018,RightFoot,10398,Mainz 05,Hertha Berlin,0,0,2018-10-06 13:30:00,Valentino Lazaro,Cross
+255598,19,MissedShots,0.8830000305175781,0.43900001525878907,0.014663600362837315,Vedad Ibisevic,h,29,FromCorner,2018,Head,10405,Hertha Berlin,Freiburg,1,1,2018-10-21 13:30:00,Valentino Lazaro,Aerial
+255608,60,MissedShots,0.9080000305175782,0.575999984741211,0.19649699330329895,Vedad Ibisevic,h,29,OpenPlay,2018,Head,10405,Hertha Berlin,Freiburg,1,1,2018-10-21 13:30:00,Javairo Dilrosun,Cross
+255609,67,BlockedShot,0.9419999694824219,0.4329999923706055,0.1087070032954216,Vedad Ibisevic,h,29,OpenPlay,2018,LeftFoot,10405,Hertha Berlin,Freiburg,1,1,2018-10-21 13:30:00,Valentino Lazaro,Cross
+255679,45,MissedShots,0.9590000152587891,0.5320000076293945,0.12479099631309509,Vedad Ibisevic,a,29,OpenPlay,2018,RightFoot,10410,Borussia Dortmund,Hertha Berlin,2,2,2018-10-27 13:30:00,Maximilian Mittelstädt,Cross
+256067,20,MissedShots,0.909000015258789,0.46900001525878904,0.031069200485944748,Vedad Ibisevic,h,29,FromCorner,2018,Head,10418,Hertha Berlin,RasenBallsport Leipzig,0,3,2018-11-03 17:30:00,Valentino Lazaro,Aerial
+256073,43,SavedShot,0.975999984741211,0.4179999923706055,0.48400700092315674,Vedad Ibisevic,h,29,OpenPlay,2018,RightFoot,10418,Hertha Berlin,RasenBallsport Leipzig,0,3,2018-11-03 17:30:00,Salomon Kalou,Throughball
+256458,12,Goal,0.9669999694824218,0.54,0.647849977016449,Vedad Ibisevic,h,29,OpenPlay,2018,RightFoot,10440,Hertha Berlin,Hoffenheim,3,3,2018-11-24 14:30:00,,Rebound
+256465,31,MissedShots,0.9080000305175782,0.4129999923706055,0.057236198335886,Vedad Ibisevic,h,29,OpenPlay,2018,Head,10440,Hertha Berlin,Hoffenheim,3,3,2018-11-24 14:30:00,Ondrej Duda,Cross
+256472,50,MissedShots,0.9209999847412109,0.5029999923706054,0.0519707016646862,Vedad Ibisevic,h,29,FromCorner,2018,Head,10440,Hertha Berlin,Hoffenheim,3,3,2018-11-24 14:30:00,Marvin Plattenhardt,Aerial
+256475,57,BlockedShot,0.88,0.36700000762939455,0.091976597905159,Vedad Ibisevic,h,29,OpenPlay,2018,RightFoot,10440,Hertha Berlin,Hoffenheim,3,3,2018-11-24 14:30:00,Mathew Leckie,Throughball
+256477,61,SavedShot,0.9569999694824218,0.435,0.06353560090065002,Vedad Ibisevic,h,29,FromCorner,2018,Head,10440,Hertha Berlin,Hoffenheim,3,3,2018-11-24 14:30:00,Valentino Lazaro,Aerial
+256486,84,MissedShots,0.8619999694824219,0.5359999847412109,0.36289098858833313,Vedad Ibisevic,h,29,OpenPlay,2018,RightFoot,10440,Hertha Berlin,Hoffenheim,3,3,2018-11-24 14:30:00,Mathew Leckie,Throughball
+256742,1,MissedShots,0.9259999847412109,0.5359999847412109,0.05122790113091469,Vedad Ibisevic,a,29,FromCorner,2018,Head,10451,Hannover 96,Hertha Berlin,0,2,2018-12-01 14:30:00,Marvin Plattenhardt,Aerial
+256747,39,MissedShots,0.9730000305175781,0.4929999923706055,0.644366979598999,Vedad Ibisevic,a,29,OpenPlay,2018,Head,10451,Hannover 96,Hertha Berlin,0,2,2018-12-01 14:30:00,Davie Selke,Chipped
+256758,72,Goal,0.9069999694824219,0.5259999847412109,0.33074501156806946,Vedad Ibisevic,a,29,OpenPlay,2018,Head,10451,Hannover 96,Hertha Berlin,0,2,2018-12-01 14:30:00,Jordan Torunarigha,Cross
+256893,28,MissedShots,0.909000015258789,0.5179999923706055,0.4884350001811981,Vedad Ibisevic,a,29,OpenPlay,2018,RightFoot,10466,VfB Stuttgart,Hertha Berlin,2,1,2018-12-15 14:30:00,,None
+256901,57,SavedShot,0.8959999847412109,0.5279999923706055,0.11808899790048599,Vedad Ibisevic,a,29,OpenPlay,2018,Head,10466,VfB Stuttgart,Hertha Berlin,2,1,2018-12-15 14:30:00,Marvin Plattenhardt,Cross
+257478,83,SavedShot,0.9590000152587891,0.4209999847412109,0.06058549880981445,Vedad Ibisevic,h,29,OpenPlay,2018,Head,10480,Hertha Berlin,Augsburg,2,2,2018-12-18 19:30:00,Valentino Lazaro,Aerial
+278451,14,Goal,0.8390000152587891,0.52,0.3133240044116974,Vedad Ibisevic,a,29,OpenPlay,2018,RightFoot,10495,Nuernberg,Hertha Berlin,1,3,2019-01-20 14:30:00,Davie Selke,Pass
+278464,58,MissedShots,0.960999984741211,0.6459999847412109,0.08187620341777802,Vedad Ibisevic,a,29,OpenPlay,2018,LeftFoot,10495,Nuernberg,Hertha Berlin,1,3,2019-01-20 14:30:00,Valentino Lazaro,Chipped
+278474,78,SavedShot,0.855999984741211,0.5059999847412109,0.36471399664878845,Vedad Ibisevic,a,29,OpenPlay,2018,RightFoot,10495,Nuernberg,Hertha Berlin,1,3,2019-01-20 14:30:00,Ondrej Duda,Pass
+278521,48,Goal,0.9309999847412109,0.524000015258789,0.40084201097488403,Vedad Ibisevic,h,29,OpenPlay,2018,Head,10502,Hertha Berlin,Schalke 04,2,2,2019-01-25 19:30:00,Davie Selke,Cross
+278525,53,BlockedShot,0.884000015258789,0.3340000152587891,0.06331110000610352,Vedad Ibisevic,h,29,OpenPlay,2018,RightFoot,10502,Hertha Berlin,Schalke 04,2,2,2019-01-25 19:30:00,Fabian Lustenberger,HeadPass
+278831,16,BlockedShot,0.919000015258789,0.30100000381469727,0.050012100487947464,Vedad Ibisevic,h,29,OpenPlay,2018,RightFoot,10511,Hertha Berlin,Wolfsburg,0,1,2019-02-02 14:30:00,Valentino Lazaro,Pass
+281851,77,MissedShots,0.955999984741211,0.505,0.6117330193519592,Vedad Ibisevic,h,29,OpenPlay,2018,Head,10549,Hertha Berlin,Mainz 05,2,1,2019-03-02 14:30:00,Arne Maier,Cross
+284390,75,Goal,0.909000015258789,0.4909999847412109,0.4449859857559204,Vedad Ibisevic,a,29,OpenPlay,2018,RightFoot,10560,Freiburg,Hertha Berlin,2,1,2019-03-09 14:30:00,Jordan Torunarigha,Pass
+284391,79,OwnGoal,0.035,0.4279999923706055,0,Vedad Ibisevic,a,29,FromCorner,2018,Head,10560,Freiburg,Hertha Berlin,2,1,2019-03-09 14:30:00,,None
+284393,86,MissedShots,0.919000015258789,0.45,0.0896947979927063,Vedad Ibisevic,a,29,OpenPlay,2018,Head,10560,Freiburg,Hertha Berlin,2,1,2019-03-09 14:30:00,Arne Maier,Cross
+297271,13,MissedShots,0.9130000305175782,0.4779999923706055,0.05619340017437935,Vedad Ibisevic,a,29,OpenPlay,2018,Head,10611,Eintracht Frankfurt,Hertha Berlin,0,0,2019-04-27 14:30:00,Marvin Plattenhardt,Aerial
+297272,15,BlockedShot,0.8959999847412109,0.36900001525878906,0.09593290090560913,Vedad Ibisevic,a,29,OpenPlay,2018,LeftFoot,10611,Eintracht Frankfurt,Hertha Berlin,0,0,2019-04-27 14:30:00,Maximilian Mittelstädt,TakeOn
+297275,27,MissedShots,0.95,0.5659999847412109,0.39470699429512024,Vedad Ibisevic,a,29,OpenPlay,2018,Head,10611,Eintracht Frankfurt,Hertha Berlin,0,0,2019-04-27 14:30:00,Lukas Klünter,Cross
+297284,56,BlockedShot,0.8580000305175781,0.49700000762939456,0.0684598982334137,Vedad Ibisevic,a,29,FromCorner,2018,RightFoot,10611,Eintracht Frankfurt,Hertha Berlin,0,0,2019-04-27 14:30:00,,None
+299179,39,Goal,0.9619999694824218,0.415,0.4522179961204529,Vedad Ibisevic,h,29,OpenPlay,2018,RightFoot,10620,Hertha Berlin,VfB Stuttgart,3,1,2019-05-04 14:30:00,,Rebound
+299181,45,SavedShot,0.8819999694824219,0.45799999237060546,0.10732699930667877,Vedad Ibisevic,h,29,OpenPlay,2018,RightFoot,10620,Hertha Berlin,VfB Stuttgart,3,1,2019-05-04 14:30:00,,None
+300688,62,MissedShots,0.905,0.585,0.08221860229969025,Vedad Ibisevic,a,29,OpenPlay,2018,RightFoot,10631,Augsburg,Hertha Berlin,3,4,2019-05-11 14:30:00,Ondrej Duda,Pass
+300692,78,SavedShot,0.985999984741211,0.28600000381469726,0.051252398639917374,Vedad Ibisevic,a,29,OpenPlay,2018,RightFoot,10631,Augsburg,Hertha Berlin,3,4,2019-05-11 14:30:00,Fabian Lustenberger,BallRecovery
+302351,2,SavedShot,0.894000015258789,0.5309999847412109,0.057358499616384506,Vedad Ibisevic,h,29,FromCorner,2018,Head,10638,Hertha Berlin,Bayer Leverkusen,1,5,2019-05-18 13:30:00,Marvin Plattenhardt,Cross
+302366,67,MissedShots,0.779000015258789,0.4809999847412109,0.0381866991519928,Vedad Ibisevic,h,29,OpenPlay,2018,RightFoot,10638,Hertha Berlin,Bayer Leverkusen,1,5,2019-05-18 13:30:00,Maximilian Mittelstädt,Pass
+310362,8,SavedShot,0.805,0.615,0.034404199570417404,Vedad Ibisevic,a,29,OpenPlay,2019,RightFoot,12403,Bayern Munich,Hertha Berlin,2,2,2019-08-16 19:30:00,Marko Grujic,Pass
+310363,12,MissedShots,0.915,0.6079999923706054,0.1126829981803894,Vedad Ibisevic,a,29,OpenPlay,2019,RightFoot,12403,Bayern Munich,Hertha Berlin,2,2,2019-08-16 19:30:00,Ondrej Duda,Pass
+313189,71,BlockedShot,0.9019999694824219,0.5179999923706055,0.0836595967411995,Vedad Ibisevic,h,29,OpenPlay,2019,RightFoot,12420,Hertha Berlin,Wolfsburg,0,3,2019-08-25 17:00:00,Lukas Klünter,Cross
+315622,42,MissedShots,0.9030000305175782,0.475,0.04029279947280884,Vedad Ibisevic,a,29,OpenPlay,2019,Head,12424,Schalke 04,Hertha Berlin,3,0,2019-08-31 14:30:00,Lukas Klünter,Aerial
+323497,58,Goal,0.9269999694824219,0.47400001525878904,0.5553839802742004,Vedad Ibisevic,a,29,OpenPlay,2019,RightFoot,12456,FC Cologne,Hertha Berlin,0,4,2019-09-29 16:00:00,Lukas Klünter,Pass
+323498,62,Goal,0.955,0.41900001525878905,0.4536449909210205,Vedad Ibisevic,a,29,OpenPlay,2019,LeftFoot,12456,FC Cologne,Hertha Berlin,0,4,2019-09-29 16:00:00,Vladimir Darida,Cross
+323735,4,BlockedShot,0.8859999847412109,0.45,0.10441499948501587,Vedad Ibisevic,h,29,SetPiece,2019,RightFoot,12459,Hertha Berlin,Fortuna Duesseldorf,3,1,2019-10-04 19:30:00,Vladimir Darida,Pass
+323746,36,Goal,0.909000015258789,0.4779999923706055,0.3716740012168884,Vedad Ibisevic,h,29,OpenPlay,2019,RightFoot,12459,Hertha Berlin,Fortuna Duesseldorf,3,1,2019-10-04 19:30:00,Marius Wolf,Cross
+327012,6,ShotOnPost,0.9390000152587891,0.4620000076293945,0.4643239974975586,Vedad Ibisevic,h,29,OpenPlay,2019,LeftFoot,12482,Hertha Berlin,Hoffenheim,2,3,2019-10-26 14:30:00,Marius Wolf,Cross
+329469,69,MissedShots,0.895,0.4329999923706055,0.12112800031900406,Vedad Ibisevic,a,29,OpenPlay,2019,RightFoot,12492,Union Berlin,Hertha Berlin,1,0,2019-11-02 17:30:00,Dodi Lukebakio,Pass
+336914,15,SavedShot,0.725999984741211,0.4159999847412109,0.02133600041270256,Vedad Ibisevic,h,29,OpenPlay,2019,RightFoot,12533,Hertha Berlin,Freiburg,1,0,2019-12-14 14:30:00,Vladimir Darida,Pass
+336932,66,MissedShots,0.8130000305175781,0.5459999847412109,0.06530220061540604,Vedad Ibisevic,h,29,OpenPlay,2019,RightFoot,12533,Hertha Berlin,Freiburg,1,0,2019-12-14 14:30:00,Marko Grujic,Pass
+357983,96,MissedShots,0.8580000305175781,0.52,0.0446011982858181,Vedad Ibisevic,h,29,OpenPlay,2019,RightFoot,12589,Hertha Berlin,Mainz 05,1,3,2020-02-08 14:30:00,,Aerial
+361725,89,MissedShots,0.9290000152587891,0.4759999847412109,0.1423259973526001,Vedad Ibisevic,h,29,OpenPlay,2019,Head,12623,Hertha Berlin,Werder Bremen,2,2,2020-03-07 14:30:00,Vladimir Darida,Cross
+362967,21,MissedShots,0.9119999694824219,0.54,0.11080499738454819,Vedad Ibisevic,a,29,OpenPlay,2019,RightFoot,12632,Hoffenheim,Hertha Berlin,0,3,2020-05-16 13:30:00,,BallTouch
+362978,54,SavedShot,0.8580000305175781,0.6179999923706054,0.06972009688615799,Vedad Ibisevic,a,29,OpenPlay,2019,LeftFoot,12632,Hoffenheim,Hertha Berlin,0,3,2020-05-16 13:30:00,Jordan Torunarigha,TakeOn
+362982,59,Goal,0.9169999694824219,0.5729999923706055,0.3263329863548279,Vedad Ibisevic,a,29,OpenPlay,2019,Head,12632,Hoffenheim,Hertha Berlin,0,3,2020-05-16 13:30:00,Maximilian Mittelstädt,Cross
+363125,50,Goal,0.9290000152587891,0.55,0.4399639964103699,Vedad Ibisevic,h,29,OpenPlay,2019,Head,12641,Hertha Berlin,Union Berlin,4,0,2020-05-22 18:30:00,Marvin Plattenhardt,Aerial
+363461,33,MissedShots,0.9259999847412109,0.5409999847412109,0.05417390167713165,Vedad Ibisevic,a,29,FromCorner,2019,Head,12653,RasenBallsport Leipzig,Hertha Berlin,2,2,2020-05-27 16:30:00,Maximilian Mittelstädt,Aerial
+363463,40,MissedShots,0.875999984741211,0.43400001525878906,0.10433200001716614,Vedad Ibisevic,a,29,OpenPlay,2019,RightFoot,12653,RasenBallsport Leipzig,Hertha Berlin,2,2,2020-05-27 16:30:00,Dodi Lukebakio,Pass
+363612,12,MissedShots,0.7190000152587891,0.45099998474121095,0.20730799436569214,Vedad Ibisevic,h,29,OpenPlay,2019,RightFoot,12658,Hertha Berlin,Augsburg,2,0,2020-05-30 13:30:00,,None
+363615,26,BlockedShot,0.889000015258789,0.425,0.3895550072193146,Vedad Ibisevic,h,29,OpenPlay,2019,RightFoot,12658,Hertha Berlin,Augsburg,2,0,2020-05-30 13:30:00,Dodi Lukebakio,Pass
+363618,35,SavedShot,0.9069999694824219,0.6140000152587891,0.08208440244197845,Vedad Ibisevic,h,29,OpenPlay,2019,RightFoot,12658,Hertha Berlin,Augsburg,2,0,2020-05-30 13:30:00,Maximilian Mittelstädt,Cross
+363619,37,SavedShot,0.9209999847412109,0.5429999923706055,0.35190701484680176,Vedad Ibisevic,h,29,OpenPlay,2019,Head,12658,Hertha Berlin,Augsburg,2,0,2020-05-30 13:30:00,Peter Pekarík,Cross
+364216,23,SavedShot,0.9490000152587891,0.2620000076293945,0.034648600965738297,Vedad Ibisevic,h,29,OpenPlay,2019,RightFoot,12677,Hertha Berlin,Eintracht Frankfurt,1,4,2020-06-13 13:30:00,Arne Maier,Pass
+364607,13,BlockedShot,0.9269999694824219,0.42200000762939455,0.14819900691509247,Vedad Ibisevic,a,29,OpenPlay,2019,RightFoot,12688,Freiburg,Hertha Berlin,2,1,2020-06-16 18:30:00,Dodi Lukebakio,Pass
+364620,65,Goal,0.885,0.5,0.7576959729194641,Vedad Ibisevic,a,29,Penalty,2019,RightFoot,12688,Freiburg,Hertha Berlin,2,1,2020-06-16 18:30:00,,Standard
+366895,90,Goal,0.9690000152587891,0.5409999847412109,0.650439977645874,Vedad Ibisevic,a,29,OpenPlay,2019,RightFoot,12702,Borussia M.Gladbach,Hertha Berlin,2,1,2020-06-27 13:30:00,Jessic Ngankam,Pass
+378996,52,MissedShots,0.9230000305175782,0.5179999923706055,0.34284400939941406,Vedad Ibisevic,h,29,OpenPlay,2020,Head,14188,Schalke 04,Werder Bremen,1,3,2020-09-26 16:30:00,Gonçalo Paciência,Cross
+379000,54,BlockedShot,0.9569999694824218,0.51,0.646248996257782,Vedad Ibisevic,h,29,OpenPlay,2020,RightFoot,14188,Schalke 04,Werder Bremen,1,3,2020-09-26 16:30:00,Salif Sané,Rebound

@@ -1,0 +1,7 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+640982,4,BlockedShot,0.7819999694824219,0.590999984741211,0.03666503354907036,João Mário,a,13946,OpenPlay,2025,RightFoot,29860,Genoa,Juventus,0,1,2025-08-31 16:30:00,,TakeOn
+643212,12,MissedShots,0.9009999847412109,0.43599998474121093,0.038549769669771194,João Mário,a,13946,OpenPlay,2025,Head,29876,Verona,Juventus,1,1,2025-09-20 16:00:00,Andrea Cambiaso,Chipped
+661806,87,BlockedShot,0.9119999694824219,0.3160000038146973,0.0618438757956028,João Mário,a,13946,OpenPlay,2025,RightFoot,30032,Sassuolo,Juventus,0,3,2026-01-06 19:45:00,Kephren Thuram,Cross
+669238,43,BlockedShot,0.8619999694824219,0.37,0.05891107767820358,João Mário,a,13946,OpenPlay,2025,RightFoot,30092,Torino,Bologna,1,2,2026-02-15 17:00:00,,None
+676943,2,Goal,0.9080000305175782,0.3089999961853027,0.0313069112598896,João Mário,a,13946,OpenPlay,2025,RightFoot,30144,Cremonese,Bologna,1,2,2026-04-05 13:00:00,Juan Miranda,Cross
+676953,42,SavedShot,0.81,0.345,0.03689957410097122,João Mário,a,13946,OpenPlay,2025,RightFoot,30144,Cremonese,Bologna,1,2,2026-04-05 13:00:00,Santiago Castro,Pass

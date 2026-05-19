@@ -1,0 +1,62 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+427182,10,SavedShot,0.7730000305175782,0.6959999847412109,0.01731489971280098,Joe Scally,a,9674,OpenPlay,2021,RightFoot,17531,Bayer Leverkusen,Borussia M.Gladbach,4,0,2021-08-21 16:30:00,Lars Stindl,Pass
+427188,32,MissedShots,0.7030000305175781,0.669000015258789,0.009035180322825909,Joe Scally,a,9674,OpenPlay,2021,RightFoot,17531,Bayer Leverkusen,Borussia M.Gladbach,4,0,2021-08-21 16:30:00,Alassane Pléa,Pass
+429233,62,MissedShots,0.7659999847412109,0.3820000076293945,0.016469599679112434,Joe Scally,a,9674,OpenPlay,2021,LeftFoot,17541,Union Berlin,Borussia M.Gladbach,2,1,2021-08-29 13:30:00,Patrick Herrmann,Pass
+429243,78,MissedShots,0.899000015258789,0.38,0.08979550004005432,Joe Scally,a,9674,OpenPlay,2021,RightFoot,17541,Union Berlin,Borussia M.Gladbach,2,1,2021-08-29 13:30:00,Patrick Herrmann,Pass
+430699,31,MissedShots,0.8119999694824219,0.34200000762939453,0.033288899809122086,Joe Scally,h,9674,OpenPlay,2021,RightFoot,17551,Borussia M.Gladbach,Arminia Bielefeld,3,1,2021-09-12 17:30:00,Alassane Pléa,Pass
+431294,72,BlockedShot,0.735,0.6029999923706054,0.013446100056171417,Joe Scally,a,9674,OpenPlay,2021,LeftFoot,17553,Augsburg,Borussia M.Gladbach,1,0,2021-09-18 13:30:00,,None
+433650,78,BlockedShot,0.8519999694824218,0.44299999237060544,0.10648900270462036,Joe Scally,h,9674,OpenPlay,2021,RightFoot,17567,Borussia M.Gladbach,Borussia Dortmund,1,0,2021-09-25 16:30:00,Jonas Hofmann,Pass
+434800,94,Goal,0.8540000152587891,0.524000015258789,0.4003770053386688,Joe Scally,a,9674,OpenPlay,2021,RightFoot,17575,Wolfsburg,Borussia M.Gladbach,1,3,2021-10-02 13:30:00,Yann Sommer,Aerial
+436486,67,SavedShot,0.815,0.66,0.034791499376297,Joe Scally,h,9674,OpenPlay,2021,RightFoot,17583,Borussia M.Gladbach,VfB Stuttgart,1,1,2021-10-16 16:30:00,Alassane Pléa,Pass
+440439,5,BlockedShot,0.8880000305175781,0.3320000076293945,0.06928890198469162,Joe Scally,h,9674,OpenPlay,2021,RightFoot,17601,Borussia M.Gladbach,Bochum,2,1,2021-10-31 16:30:00,Jonas Hofmann,Pass
+442434,21,SavedShot,0.8909999847412109,0.6659999847412109,0.08209370076656342,Joe Scally,h,9674,OpenPlay,2021,LeftFoot,17620,Borussia M.Gladbach,Greuther Fuerth,4,0,2021-11-20 14:30:00,Jonas Hofmann,Pass
+444007,12,MissedShots,0.730999984741211,0.705,0.017831599339842796,Joe Scally,a,9674,OpenPlay,2021,RightFoot,17626,FC Cologne,Borussia M.Gladbach,4,1,2021-11-27 14:30:00,Lars Stindl,Pass
+453405,79,SavedShot,0.8619999694824219,0.6509999847412109,0.22734999656677246,Joe Scally,h,9674,OpenPlay,2021,RightFoot,17683,Borussia M.Gladbach,Bayer Leverkusen,1,2,2022-01-15 17:30:00,,None
+462709,58,SavedShot,0.9,0.5379999923706055,0.13714399933815002,Joe Scally,h,9674,OpenPlay,2021,LeftFoot,17745,Borussia M.Gladbach,Hertha Berlin,2,0,2022-03-12 17:30:00,Marcus Thuram,Pass
+462711,61,MissedShots,0.9530000305175781,0.425,0.062418099492788315,Joe Scally,h,9674,OpenPlay,2021,Head,17745,Borussia M.Gladbach,Hertha Berlin,2,0,2022-03-12 17:30:00,Alassane Pléa,Aerial
+466676,27,MissedShots,0.8640000152587891,0.41200000762939454,0.08556230366230011,Joe Scally,a,9674,OpenPlay,2021,RightFoot,17768,Greuther Fuerth,Borussia M.Gladbach,0,2,2022-04-09 13:30:00,,None
+468389,42,MissedShots,0.8780000305175781,0.705999984741211,0.01652519963681698,Joe Scally,h,9674,OpenPlay,2021,RightFoot,17782,Borussia M.Gladbach,FC Cologne,1,3,2022-04-16 16:30:00,Jonas Hofmann,Cross
+468402,89,BlockedShot,0.8380000305175781,0.37,0.05864420160651207,Joe Scally,h,9674,OpenPlay,2021,RightFoot,17782,Borussia M.Gladbach,FC Cologne,1,3,2022-04-16 16:30:00,Louis Beyer,Pass
+479148,34,MissedShots,0.825,0.3940000152587891,0.016732700169086456,Joe Scally,h,9674,OpenPlay,2022,RightFoot,19344,Borussia M.Gladbach,Hoffenheim,3,1,2022-08-06 13:30:00,,Aerial
+479153,48,ShotOnPost,0.8690000152587891,0.34799999237060547,0.0831151008605957,Joe Scally,h,9674,OpenPlay,2022,RightFoot,19344,Borussia M.Gladbach,Hoffenheim,3,1,2022-08-06 13:30:00,Jonas Hofmann,Pass
+480587,77,SavedShot,0.9030000305175782,0.49700000762939456,0.07464329898357391,Joe Scally,a,9674,FromCorner,2022,Head,19357,Schalke 04,Borussia M.Gladbach,2,2,2022-08-13 16:30:00,Jonas Hofmann,Cross
+486721,48,BlockedShot,0.8830000305175781,0.44099998474121094,0.0722075030207634,Joe Scally,h,9674,FromCorner,2022,RightFoot,19386,Borussia M.Gladbach,Mainz 05,0,1,2022-09-04 15:30:00,Marvin Friedrich,HeadPass
+490323,19,SavedShot,0.9330000305175781,0.33,0.21578000485897064,Joe Scally,a,9674,OpenPlay,2022,RightFoot,19413,Werder Bremen,Borussia M.Gladbach,5,1,2022-10-01 16:30:00,Jonas Hofmann,Pass
+505067,85,MissedShots,0.915,0.48200000762939454,0.12601600587368011,Joe Scally,h,9674,SetPiece,2022,Head,19481,Borussia M.Gladbach,Bayer Leverkusen,2,3,2023-01-22 16:30:00,Patrick Herrmann,Cross
+508974,84,MissedShots,0.7090000152587891,0.43,0.01691949926316738,Joe Scally,a,9674,OpenPlay,2022,RightFoot,19519,Hertha Berlin,Borussia M.Gladbach,4,1,2023-02-12 14:30:00,Jonas Hofmann,Pass
+519698,42,MissedShots,0.7880000305175782,0.32099998474121094,0.029579199850559235,Joe Scally,a,9674,OpenPlay,2022,RightFoot,19589,Eintracht Frankfurt,Borussia M.Gladbach,1,1,2023-04-15 16:30:00,Kouadio Kone,Pass
+534947,85,MissedShots,0.6940000152587891,0.6790000152587891,0.007450880948454142,Joe Scally,h,9674,OpenPlay,2023,RightFoot,23080,Borussia M.Gladbach,Bayer Leverkusen,0,3,2023-08-26 16:30:00,Alassane Pléa,LayOff
+541099,73,MissedShots,0.705,0.48200000762939454,0.02371213026344776,Joe Scally,a,9674,FromCorner,2023,RightFoot,23111,Bochum,Borussia M.Gladbach,1,3,2023-09-30 13:30:00,Luca Netz,Pass
+542272,87,Goal,0.7719999694824219,0.3320000076293945,0.01811854913830757,Joe Scally,h,9674,OpenPlay,2023,RightFoot,23119,Borussia M.Gladbach,Mainz 05,2,2,2023-10-06 18:30:00,Nathan N&#039;Goumou Minpol,HeadPass
+551124,35,BlockedShot,0.6780000305175782,0.29100000381469726,0.011167633347213268,Joe Scally,h,9674,OpenPlay,2023,RightFoot,23177,Borussia M.Gladbach,Hoffenheim,2,1,2023-12-02 14:30:00,Florian Neuhaus,Pass
+555711,1,MissedShots,0.725999984741211,0.35700000762939454,0.015519766137003899,Joe Scally,a,9674,OpenPlay,2023,RightFoot,23203,Eintracht Frankfurt,Borussia M.Gladbach,2,1,2023-12-20 19:30:00,Alassane Pléa,Pass
+562439,86,MissedShots,0.93,0.355,0.016932649537920952,Joe Scally,h,9674,FromCorner,2023,Head,23245,Borussia M.Gladbach,Darmstadt,0,0,2024-02-10 14:30:00,Patrick Herrmann,Cross
+564082,16,MissedShots,0.8490000152587891,0.28200000762939453,0.0360289141535759,Joe Scally,a,9674,OpenPlay,2023,LeftFoot,23254,RasenBallsport Leipzig,Borussia M.Gladbach,2,0,2024-02-17 17:30:00,Rocco Reitz,Pass
+565120,19,MissedShots,0.9030000305175782,0.555,0.08898171037435532,Joe Scally,h,9674,OpenPlay,2023,Head,23266,Borussia M.Gladbach,Bochum,5,2,2024-02-24 14:30:00,Stefan Lainer,Cross
+570555,9,BlockedShot,0.8519999694824218,0.500999984741211,0.08024095743894577,Joe Scally,h,9674,OpenPlay,2023,LeftFoot,23303,Borussia M.Gladbach,Freiburg,0,3,2024-03-30 14:30:00,Rocco Reitz,Pass
+570576,60,MissedShots,0.925,0.44,0.2970196008682251,Joe Scally,h,9674,FromCorner,2023,Head,23303,Borussia M.Gladbach,Freiburg,0,3,2024-03-30 14:30:00,Franck Honorat,Cross
+577325,36,MissedShots,0.855,0.5229999923706055,0.07448332756757736,Joe Scally,h,9674,OpenPlay,2023,RightFoot,23340,Borussia M.Gladbach,Union Berlin,0,0,2024-04-28 13:30:00,Alassane Pléa,None
+590598,53,BlockedShot,0.7369999694824219,0.26299999237060545,0.014925196766853333,Joe Scally,h,9674,OpenPlay,2024,RightFoot,27765,Borussia M.Gladbach,VfB Stuttgart,1,3,2024-09-14 13:30:00,Kevin Stöger,Pass
+592695,69,MissedShots,0.789000015258789,0.33599998474121096,0.02629498392343521,Joe Scally,a,9674,OpenPlay,2024,RightFoot,27774,Eintracht Frankfurt,Borussia M.Gladbach,2,0,2024-09-21 16:30:00,Kevin Stöger,Pass
+617112,68,BlockedShot,0.8280000305175781,0.35200000762939454,0.05702297016978264,Joe Scally,a,9674,OpenPlay,2024,LeftFoot,27937,Union Berlin,Borussia M.Gladbach,1,2,2025-02-15 14:30:00,Robin Hack,Pass
+618333,35,SavedShot,0.965,0.43599998474121093,0.06474217772483826,Joe Scally,h,9674,FromCorner,2024,Head,27947,Borussia M.Gladbach,Augsburg,0,3,2025-02-22 14:30:00,,Rebound
+622554,25,MissedShots,0.7780000305175782,0.34200000762939453,0.017853423953056335,Joe Scally,a,9674,FromCorner,2024,RightFoot,27970,Werder Bremen,Borussia M.Gladbach,2,4,2025-03-15 14:30:00,,None
+630239,98,BlockedShot,0.9019999694824219,0.4520000076293945,0.0845274031162262,Joe Scally,a,9674,SetPiece,2024,Head,28020,Holstein Kiel,Borussia M.Gladbach,4,3,2025-04-26 13:30:00,Kevin Stöger,Cross
+640126,35,SavedShot,0.975999984741211,0.35400001525878905,0.2762179374694824,Joe Scally,a,9674,OpenPlay,2025,RightFoot,30237,VfB Stuttgart,Borussia M.Gladbach,1,0,2025-08-30 13:30:00,Rocco Reitz,Pass
+643835,39,SavedShot,0.894000015258789,0.645,0.25898513197898865,Joe Scally,a,9674,OpenPlay,2025,LeftFoot,30258,Bayer Leverkusen,Borussia M.Gladbach,1,1,2025-09-21 15:30:00,Jens Castrop,Pass
+643847,76,SavedShot,0.9290000152587891,0.3129999923706055,0.2753813862800598,Joe Scally,a,9674,OpenPlay,2025,RightFoot,30258,Bayer Leverkusen,Borussia M.Gladbach,1,1,2025-09-21 15:30:00,Shuto Machino,TakeOn
+643848,77,BlockedShot,0.895,0.4209999847412109,0.024001765996217728,Joe Scally,a,9674,OpenPlay,2025,Head,30258,Bayer Leverkusen,Borussia M.Gladbach,1,1,2025-09-21 15:30:00,Lukas Ullrich,Aerial
+644984,34,SavedShot,0.7959999847412109,0.325,0.023162471130490303,Joe Scally,h,9674,OpenPlay,2025,LeftFoot,30265,Borussia M.Gladbach,Eintracht Frankfurt,4,6,2025-09-27 16:30:00,Kevin Stöger,Pass
+647042,37,MissedShots,0.774000015258789,0.5420000076293945,0.014150314033031464,Joe Scally,h,9674,OpenPlay,2025,RightFoot,30270,Borussia M.Gladbach,Freiburg,0,0,2025-10-05 17:30:00,,Aerial
+647157,89,MissedShots,0.885,0.3729999923706055,0.00834121648222208,Joe Scally,a,9674,SetPiece,2025,Head,30285,Union Berlin,Borussia M.Gladbach,3,1,2025-10-17 18:30:00,Kevin Stöger,Aerial
+650648,26,ShotOnPost,0.8230000305175781,0.5120000076293946,0.29609376192092896,Joe Scally,a,9674,OpenPlay,2025,RightFoot,30302,St. Pauli,Borussia M.Gladbach,0,4,2025-11-01 14:30:00,Moritz Nicolas,Chipped
+659100,93,MissedShots,0.915,0.34200000762939453,0.010834685526788235,Joe Scally,a,9674,OpenPlay,2025,Head,30351,Borussia Dortmund,Borussia M.Gladbach,2,0,2025-12-19 19:30:00,Shuto Machino,Aerial
+662691,7,Goal,0.9540000152587891,0.53,0.6374306678771973,Joe Scally,h,9674,OpenPlay,2025,LeftFoot,30361,Borussia M.Gladbach,Augsburg,4,0,2026-01-11 14:30:00,,Rebound
+662690,7,BlockedShot,0.9290000152587891,0.500999984741211,0.5740585327148438,Joe Scally,h,9674,OpenPlay,2025,RightFoot,30361,Borussia M.Gladbach,Augsburg,4,0,2026-01-11 14:30:00,Luca Netz,Pass
+662715,81,SavedShot,0.8240000152587891,0.5279999923706055,0.08983445167541504,Joe Scally,h,9674,OpenPlay,2025,LeftFoot,30361,Borussia M.Gladbach,Augsburg,4,0,2026-01-11 14:30:00,Shuto Machino,Pass
+665317,66,OwnGoal,0.048000001907348634,0.4929999923706055,0,Joe Scally,h,9674,FromCorner,2025,OtherBodyPart,30388,Borussia M.Gladbach,VfB Stuttgart,0,3,2026-01-25 14:30:00,,CornerAwarded
+670260,81,BlockedShot,0.745999984741211,0.644000015258789,0.010107464157044888,Joe Scally,a,9674,OpenPlay,2025,RightFoot,30424,Freiburg,Borussia M.Gladbach,2,1,2026-02-22 14:30:00,,None
+679896,6,Goal,0.8369999694824218,0.3890000152587891,0.06486456096172333,Joe Scally,h,9674,OpenPlay,2025,LeftFoot,30487,Borussia M.Gladbach,Mainz 05,1,1,2026-04-19 17:30:00,Hugo Bolin,Pass
+680850,18,SavedShot,0.85,0.3390000152587891,0.05514496564865112,Joe Scally,a,9674,OpenPlay,2025,LeftFoot,30502,Wolfsburg,Borussia M.Gladbach,0,0,2026-04-25 13:30:00,Franck Honorat,Pass
+680853,34,MissedShots,0.9209999847412109,0.32299999237060545,0.058246053755283356,Joe Scally,a,9674,OpenPlay,2025,RightFoot,30502,Wolfsburg,Borussia M.Gladbach,0,0,2026-04-25 13:30:00,,None
+683017,18,SavedShot,0.8469999694824218,0.720999984741211,0.023255856707692146,Joe Scally,h,9674,OpenPlay,2025,RightFoot,30505,Borussia M.Gladbach,Borussia Dortmund,1,0,2026-05-03 15:30:00,,Rebound

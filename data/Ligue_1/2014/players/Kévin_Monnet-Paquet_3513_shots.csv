@@ -1,0 +1,168 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+397,13,MissedShots,0.8619999694824219,0.305,0.023520300164818764,Kévin Monnet-Paquet,h,3513,OpenPlay,2014,RightFoot,6203,Saint-Etienne,Reims,3,1,2014-08-17 16:00:00,Franck Tabanou,Cross
+399,25,SavedShot,0.94,0.7090000152587891,0.05531809851527214,Kévin Monnet-Paquet,h,3513,OpenPlay,2014,LeftFoot,6203,Saint-Etienne,Reims,3,1,2014-08-17 16:00:00,,TakeOn
+416,69,Goal,0.96,0.585,0.2818959951400757,Kévin Monnet-Paquet,h,3513,OpenPlay,2014,Head,6203,Saint-Etienne,Reims,3,1,2014-08-17 16:00:00,Mevlüt Erdinc,Cross
+650,20,BlockedShot,0.904000015258789,0.7119999694824218,0.04582269862294197,Kévin Monnet-Paquet,h,3513,OpenPlay,2014,LeftFoot,6213,Saint-Etienne,Rennes,0,0,2014-08-24 16:00:00,Mevlüt Erdinc,Pass
+659,47,BlockedShot,0.8690000152587891,0.345,0.043039798736572266,Kévin Monnet-Paquet,h,3513,FromCorner,2014,LeftFoot,6213,Saint-Etienne,Rennes,0,0,2014-08-24 16:00:00,,None
+1025,29,MissedShots,0.86,0.4209999847412109,0.009594419971108437,Kévin Monnet-Paquet,h,3513,OpenPlay,2014,Head,6147,Saint-Etienne,Caen,1,0,2014-09-13 19:00:00,Fabien Lemoine,Aerial
+1879,4,MissedShots,0.9230000305175782,0.4279999923706055,0.1357010006904602,Kévin Monnet-Paquet,h,3513,OpenPlay,2014,RightFoot,6174,Saint-Etienne,Bordeaux,1,1,2014-09-25 20:00:00,Allan Saint-Maximin,Pass
+1883,16,MissedShots,0.9159999847412109,0.40599998474121096,0.31730398535728455,Kévin Monnet-Paquet,h,3513,OpenPlay,2014,RightFoot,6174,Saint-Etienne,Bordeaux,1,1,2014-09-25 20:00:00,Max Gradel,Cross
+1893,52,MissedShots,0.9009999847412109,0.5879999923706055,0.11797100305557251,Kévin Monnet-Paquet,h,3513,OpenPlay,2014,RightFoot,6174,Saint-Etienne,Bordeaux,1,1,2014-09-25 20:00:00,Max Gradel,Pass
+1426,32,BlockedShot,0.725,0.4929999923706055,0.01473390031605959,Kévin Monnet-Paquet,h,3513,FromCorner,2014,RightFoot,6120,Saint-Etienne,Toulouse,0,1,2014-10-05 13:00:00,,None
+1674,5,MissedShots,0.8319999694824218,0.615,0.047446899116039276,Kévin Monnet-Paquet,a,3513,OpenPlay,2014,RightFoot,6125,Lorient,Saint-Etienne,0,1,2014-10-18 16:00:00,Fabien Lemoine,Chipped
+1685,70,MissedShots,0.8640000152587891,0.5479999923706055,0.058975301682949066,Kévin Monnet-Paquet,a,3513,OpenPlay,2014,RightFoot,6125,Lorient,Saint-Etienne,0,1,2014-10-18 16:00:00,Kévin Théophile-Catherine,Cross
+5166,48,BlockedShot,0.8580000305175781,0.305,0.03705029934644699,Kévin Monnet-Paquet,h,3513,OpenPlay,2014,RightFoot,6093,Saint-Etienne,Monaco,1,1,2014-11-09 16:00:00,Fabien Lemoine,Pass
+6051,2,SavedShot,0.905,0.6880000305175781,0.05343189835548401,Kévin Monnet-Paquet,a,3513,OpenPlay,2014,RightFoot,6101,Nantes,Saint-Etienne,0,0,2014-11-23 13:00:00,,None
+6058,24,ShotOnPost,0.8880000305175781,0.555,0.3795279860496521,Kévin Monnet-Paquet,a,3513,OpenPlay,2014,LeftFoot,6101,Nantes,Saint-Etienne,0,0,2014-11-23 13:00:00,Romain Hamouma,Pass
+3054,25,MissedShots,0.8630000305175781,0.6980000305175781,0.0471842996776104,Kévin Monnet-Paquet,h,3513,OpenPlay,2014,LeftFoot,6049,Saint-Etienne,SC Bastia,1,0,2014-12-06 19:00:00,Benjamin Corgnet,Pass
+4293,83,SavedShot,0.889000015258789,0.455,0.08693449944257736,Kévin Monnet-Paquet,a,3513,OpenPlay,2014,RightFoot,6062,Nice,Saint-Etienne,0,0,2014-12-14 13:00:00,Kévin Théophile-Catherine,Cross
+8603,25,SavedShot,0.9,0.5109999847412109,0.08237239718437195,Kévin Monnet-Paquet,a,3513,SetPiece,2014,RightFoot,5885,Monaco,Saint-Etienne,1,1,2015-04-03 19:30:00,Loic Perrin,None
+8550,57,MissedShots,0.825,0.285,0.037060901522636414,Kévin Monnet-Paquet,h,3513,OpenPlay,2014,LeftFoot,5897,Saint-Etienne,Nantes,1,0,2015-04-12 13:00:00,Fabien Lemoine,Pass
+8551,58,BlockedShot,0.805,0.4829999923706055,0.0818881019949913,Kévin Monnet-Paquet,h,3513,OpenPlay,2014,LeftFoot,5897,Saint-Etienne,Nantes,1,0,2015-04-12 13:00:00,Francois Clerc,TakeOn
+6532,87,Goal,0.899000015258789,0.500999984741211,0.4898970127105713,Kévin Monnet-Paquet,h,3513,OpenPlay,2014,RightFoot,5863,Saint-Etienne,Nice,5,0,2015-05-10 16:00:00,Franck Tabanou,Pass
+6672,67,MissedShots,0.740999984741211,0.41200000762939454,0.01912109926342964,Kévin Monnet-Paquet,a,3513,OpenPlay,2014,LeftFoot,5867,Evian Thonon Gaillard,Saint-Etienne,1,2,2015-05-16 20:00:00,Benjamin Corgnet,LayOff
+61546,11,BlockedShot,0.764000015258789,0.32,0.020771799609065056,Kévin Monnet-Paquet,a,3513,OpenPlay,2015,LeftFoot,1876,Toulouse,Saint-Etienne,2,1,2015-08-09 19:00:00,Florentin Pogba,Pass
+61555,53,BlockedShot,0.7959999847412109,0.30700000762939456,0.017871100455522537,Kévin Monnet-Paquet,a,3513,OpenPlay,2015,LeftFoot,1876,Toulouse,Saint-Etienne,2,1,2015-08-09 19:00:00,Florentin Pogba,Chipped
+61852,27,SavedShot,0.9219999694824219,0.66,0.06325779855251312,Kévin Monnet-Paquet,a,3513,OpenPlay,2015,RightFoot,1897,Lorient,Saint-Etienne,0,1,2015-08-23 19:00:00,,None
+62181,59,SavedShot,0.9430000305175781,0.5659999847412109,0.0940387025475502,Kévin Monnet-Paquet,h,3513,OpenPlay,2015,Head,1906,Saint-Etienne,SC Bastia,2,1,2015-08-30 16:00:00,Loic Perrin,Chipped
+62186,87,SavedShot,0.7730000305175782,0.35400001525878905,0.02920610085129738,Kévin Monnet-Paquet,h,3513,OpenPlay,2015,LeftFoot,1906,Saint-Etienne,SC Bastia,2,1,2015-08-30 16:00:00,Ismael Diomande,Pass
+62474,20,MissedShots,0.9359999847412109,0.505,0.14733999967575073,Kévin Monnet-Paquet,a,3513,OpenPlay,2015,Head,1911,Montpellier,Saint-Etienne,1,2,2015-09-12 22:00:00,Pierre-Yves Polomat,Cross
+63190,93,BlockedShot,0.7809999847412109,0.36200000762939455,0.0335812009871006,Kévin Monnet-Paquet,a,3513,OpenPlay,2015,RightFoot,1931,Troyes,Saint-Etienne,0,1,2015-09-23 21:00:00,Valentin Eysseric,Pass
+62822,12,SavedShot,0.7480000305175781,0.3320000076293945,0.01526550017297268,Kévin Monnet-Paquet,a,3513,OpenPlay,2015,LeftFoot,1955,Caen,Saint-Etienne,1,0,2015-10-04 19:00:00,Fabien Lemoine,Chipped
+62837,43,SavedShot,0.9519999694824218,0.28899999618530275,0.10796400159597397,Kévin Monnet-Paquet,a,3513,OpenPlay,2015,RightFoot,1955,Caen,Saint-Etienne,1,0,2015-10-04 19:00:00,Valentin Eysseric,Throughball
+62854,80,MissedShots,0.7680000305175781,0.7069999694824218,0.01911509968340397,Kévin Monnet-Paquet,a,3513,OpenPlay,2015,RightFoot,1955,Caen,Saint-Etienne,1,0,2015-10-04 19:00:00,Loic Perrin,Pass
+63507,47,BlockedShot,0.89,0.7319999694824219,0.04449250176548958,Kévin Monnet-Paquet,h,3513,OpenPlay,2015,RightFoot,1962,Saint-Etienne,GFC Ajaccio,2,0,2015-10-17 22:00:00,Benoit Assou-Ekotto,Pass
+63508,47,SavedShot,0.8640000152587891,0.6329999923706054,0.06832370162010193,Kévin Monnet-Paquet,h,3513,OpenPlay,2015,RightFoot,1962,Saint-Etienne,GFC Ajaccio,2,0,2015-10-17 22:00:00,,Rebound
+63509,50,SavedShot,0.86,0.6959999847412109,0.031976599246263504,Kévin Monnet-Paquet,h,3513,OpenPlay,2015,LeftFoot,1962,Saint-Etienne,GFC Ajaccio,2,0,2015-10-17 22:00:00,Robert Beric,TakeOn
+63516,69,Goal,0.8119999694824219,0.34200000762939453,0.04600530117750168,Kévin Monnet-Paquet,h,3513,OpenPlay,2015,RightFoot,1962,Saint-Etienne,GFC Ajaccio,2,0,2015-10-17 22:00:00,Valentin Eysseric,Pass
+63994,54,BlockedShot,0.7659999847412109,0.6140000152587891,0.01968649961054325,Kévin Monnet-Paquet,a,3513,OpenPlay,2015,RightFoot,1977,Paris Saint Germain,Saint-Etienne,4,1,2015-10-26 00:00:00,Jean-Christophe Bahebeck,Pass
+64824,40,SavedShot,0.8119999694824219,0.525,0.05807169899344444,Kévin Monnet-Paquet,h,3513,OpenPlay,2015,RightFoot,1979,Saint-Etienne,Reims,3,0,2015-10-31 20:00:00,Florentin Pogba,TakeOn
+64827,43,SavedShot,0.740999984741211,0.7519999694824219,0.016610700637102127,Kévin Monnet-Paquet,h,3513,OpenPlay,2015,RightFoot,1979,Saint-Etienne,Reims,3,0,2015-10-31 20:00:00,Valentin Eysseric,Pass
+64842,71,SavedShot,0.9059999847412109,0.620999984741211,0.10272099822759628,Kévin Monnet-Paquet,h,3513,OpenPlay,2015,RightFoot,1979,Saint-Etienne,Reims,3,0,2015-10-31 20:00:00,Robert Beric,Cross
+64009,6,SavedShot,0.8690000152587891,0.7480000305175781,0.02966970019042492,Kévin Monnet-Paquet,h,3513,OpenPlay,2015,RightFoot,2008,Saint-Etienne,Marseille,0,2,2015-11-23 00:00:00,Valentin Eysseric,Pass
+64017,29,ShotOnPost,0.785,0.66,0.020454099401831627,Kévin Monnet-Paquet,h,3513,OpenPlay,2015,RightFoot,2008,Saint-Etienne,Marseille,0,2,2015-11-23 00:00:00,Vincent Pajot,Chipped
+64040,60,SavedShot,0.92,0.6580000305175782,0.13008199632167816,Kévin Monnet-Paquet,h,3513,OpenPlay,2015,LeftFoot,2008,Saint-Etienne,Marseille,0,2,2015-11-23 00:00:00,Vincent Pajot,TakeOn
+64220,54,SavedShot,0.9519999694824218,0.6969999694824218,0.06828980147838593,Kévin Monnet-Paquet,h,3513,OpenPlay,2015,RightFoot,2016,Saint-Etienne,Guingamp,3,0,2015-11-29 17:00:00,Benoit Assou-Ekotto,Pass
+65654,4,SavedShot,0.92,0.48200000762939454,0.05752729997038841,Kévin Monnet-Paquet,h,3513,FromCorner,2015,Head,2038,Saint-Etienne,Rennes,1,1,2015-12-07 00:00:00,Moustapha Bayal Sall,HeadPass
+65655,14,MissedShots,0.9540000152587891,0.41,0.027689600363373756,Kévin Monnet-Paquet,h,3513,FromCorner,2015,Head,2038,Saint-Etienne,Rennes,1,1,2015-12-07 00:00:00,Romain Hamouma,Aerial
+65660,38,BlockedShot,0.8009999847412109,0.68,0.027409600093960762,Kévin Monnet-Paquet,h,3513,OpenPlay,2015,RightFoot,2038,Saint-Etienne,Rennes,1,1,2015-12-07 00:00:00,Pierre-Yves Polomat,Pass
+64965,11,MissedShots,0.8930000305175781,0.43200000762939456,0.29477399587631226,Kévin Monnet-Paquet,a,3513,OpenPlay,2015,LeftFoot,2045,Monaco,Saint-Etienne,1,0,2015-12-13 17:00:00,Romain Hamouma,Cross
+64973,54,MissedShots,0.8959999847412109,0.49700000762939456,0.06386660039424896,Kévin Monnet-Paquet,a,3513,SetPiece,2015,Head,2045,Monaco,Saint-Etienne,1,0,2015-12-13 17:00:00,Romain Hamouma,Chipped
+66001,52,BlockedShot,0.87,0.24600000381469728,0.026201700791716576,Kévin Monnet-Paquet,h,3513,OpenPlay,2015,RightFoot,2078,Saint-Etienne,Lyon,1,0,2016-01-18 00:00:00,,None
+66014,87,MissedShots,0.89,0.5529999923706055,0.0590628981590271,Kévin Monnet-Paquet,h,3513,SetPiece,2015,RightFoot,2078,Saint-Etienne,Lyon,1,0,2016-01-18 00:00:00,Valentin Eysseric,Cross
+66447,31,BlockedShot,0.87,0.3990000152587891,0.08938340097665787,Kévin Monnet-Paquet,h,3513,OpenPlay,2015,LeftFoot,2098,Saint-Etienne,Paris Saint Germain,0,2,2016-02-01 00:00:00,Moustapha Bayal Sall,Pass
+66455,59,SavedShot,0.82,0.519000015258789,0.11452899873256683,Kévin Monnet-Paquet,h,3513,OpenPlay,2015,RightFoot,2098,Saint-Etienne,Paris Saint Germain,0,2,2016-02-01 00:00:00,Renaud Cohade,Throughball
+66457,67,MissedShots,0.855,0.615,0.06815040111541748,Kévin Monnet-Paquet,h,3513,OpenPlay,2015,LeftFoot,2098,Saint-Etienne,Paris Saint Germain,0,2,2016-02-01 00:00:00,Jean-Christophe Bahebeck,Pass
+69192,20,SavedShot,0.8669999694824219,0.3189999961853027,0.04523390159010887,Kévin Monnet-Paquet,a,3513,OpenPlay,2015,LeftFoot,2108,Rennes,Saint-Etienne,0,1,2016-02-05 00:00:00,Renaud Cohade,Chipped
+69437,18,BlockedShot,0.8109999847412109,0.555,0.038658998906612396,Kévin Monnet-Paquet,h,3513,OpenPlay,2015,RightFoot,2127,Saint-Etienne,Monaco,1,1,2016-02-14 20:00:00,,Rebound
+69442,36,BlockedShot,0.9019999694824219,0.43900001525878907,0.1259160041809082,Kévin Monnet-Paquet,h,3513,OpenPlay,2015,RightFoot,2127,Saint-Etienne,Monaco,1,1,2016-02-14 20:00:00,Oussama Tannane,Throughball
+69841,65,MissedShots,0.8180000305175781,0.49599998474121093,0.060120001435279846,Kévin Monnet-Paquet,a,3513,OpenPlay,2015,RightFoot,2135,Marseille,Saint-Etienne,1,1,2016-02-21 17:00:00,Alexander Søderlund,Pass
+69847,74,BlockedShot,0.8919999694824219,0.29100000381469726,0.04415690153837204,Kévin Monnet-Paquet,a,3513,OpenPlay,2015,RightFoot,2135,Marseille,Saint-Etienne,1,1,2016-02-21 17:00:00,Kévin Théophile-Catherine,Pass
+69850,84,Goal,0.9290000152587891,0.5359999847412109,0.5410270094871521,Kévin Monnet-Paquet,a,3513,OpenPlay,2015,LeftFoot,2135,Marseille,Saint-Etienne,1,1,2016-02-21 17:00:00,Romain Hamouma,Pass
+69956,78,BlockedShot,0.7859999847412109,0.41900001525878905,0.026645099744200706,Kévin Monnet-Paquet,h,3513,OpenPlay,2015,RightFoot,2145,Saint-Etienne,Caen,1,2,2016-02-28 20:00:00,Alexander Søderlund,Pass
+66659,45,SavedShot,0.8880000305175781,0.585,0.37501901388168335,Kévin Monnet-Paquet,a,3513,OpenPlay,2015,RightFoot,2150,Angers,Saint-Etienne,0,0,2016-03-05 23:00:00,,None
+66944,25,BlockedShot,0.9290000152587891,0.67,0.03169170022010803,Kévin Monnet-Paquet,h,3513,OpenPlay,2015,LeftFoot,2170,Saint-Etienne,Montpellier,3,0,2016-03-19 20:00:00,Kévin Théophile-Catherine,Cross
+67604,14,BlockedShot,0.7609999847412109,0.7580000305175781,0.01086719986051321,Kévin Monnet-Paquet,h,3513,OpenPlay,2015,RightFoot,2192,Saint-Etienne,Troyes,1,0,2016-04-09 22:00:00,Renaud Cohade,Chipped
+67607,25,MissedShots,0.97,0.4,0.21975499391555786,Kévin Monnet-Paquet,h,3513,FromCorner,2015,Head,2192,Saint-Etienne,Troyes,1,0,2016-04-09 22:00:00,Oussama Tannane,Cross
+68187,15,MissedShots,0.9159999847412109,0.3029999923706055,0.05891900137066841,Kévin Monnet-Paquet,a,3513,OpenPlay,2015,RightFoot,2201,SC Bastia,Saint-Etienne,0,1,2016-04-16 22:00:00,Renaud Cohade,Pass
+68334,30,MissedShots,0.9130000305175782,0.5170000076293946,0.08985169976949692,Kévin Monnet-Paquet,h,3513,FromCorner,2015,Head,2213,Saint-Etienne,Lorient,2,0,2016-04-24 19:00:00,Renaud Cohade,Cross
+68682,59,MissedShots,0.8169999694824219,0.6719999694824219,0.04030890017747879,Kévin Monnet-Paquet,h,3513,OpenPlay,2015,RightFoot,2240,Saint-Etienne,Lille,0,1,2016-05-14 23:00:00,Romain Hamouma,LayOff
+103149,15,MissedShots,0.9159999847412109,0.45799999237060546,0.11118199676275253,Kévin Monnet-Paquet,h,3513,OpenPlay,2016,RightFoot,2267,Saint-Etienne,Montpellier,3,1,2016-08-21 19:00:00,Kevin Malcuit,Cross
+103150,16,MissedShots,0.8490000152587891,0.6819999694824219,0.03949199989438057,Kévin Monnet-Paquet,h,3513,OpenPlay,2016,RightFoot,2267,Saint-Etienne,Montpellier,3,1,2016-08-21 19:00:00,Jérémy Clément,Pass
+103159,46,Goal,0.9119999694824219,0.43400001525878906,0.38915300369262695,Kévin Monnet-Paquet,h,3513,OpenPlay,2016,LeftFoot,2267,Saint-Etienne,Montpellier,3,1,2016-08-21 19:00:00,Nolan Roux,HeadPass
+103161,53,MissedShots,0.9180000305175782,0.33,0.04169309884309769,Kévin Monnet-Paquet,h,3513,OpenPlay,2016,RightFoot,2267,Saint-Etienne,Montpellier,3,1,2016-08-21 19:00:00,Florentin Pogba,Cross
+103162,58,ShotOnPost,0.865,0.6780000305175782,0.059939801692962646,Kévin Monnet-Paquet,h,3513,OpenPlay,2016,RightFoot,2267,Saint-Etienne,Montpellier,3,1,2016-08-21 19:00:00,Dylan Saint-Louis,Chipped
+103169,72,MissedShots,0.9080000305175782,0.6809999847412109,0.062374599277973175,Kévin Monnet-Paquet,h,3513,OpenPlay,2016,LeftFoot,2267,Saint-Etienne,Montpellier,3,1,2016-08-21 19:00:00,Fabien Lemoine,Chipped
+103779,19,BlockedShot,0.8419999694824218,0.5940000152587891,0.07490170001983643,Kévin Monnet-Paquet,h,3513,OpenPlay,2016,RightFoot,2297,Saint-Etienne,SC Bastia,1,0,2016-09-18 19:00:00,Jordan Veretout,Pass
+103786,36,MissedShots,0.875999984741211,0.43400001525878906,0.03162020072340965,Kévin Monnet-Paquet,h,3513,OpenPlay,2016,Head,2297,Saint-Etienne,SC Bastia,1,0,2016-09-18 19:00:00,Loic Perrin,Chipped
+104468,48,ShotOnPost,0.9290000152587891,0.765,0.013057700358331203,Kévin Monnet-Paquet,a,3513,OpenPlay,2016,RightFoot,2328,Lyon,Saint-Etienne,2,0,2016-10-02 22:45:00,,Aerial
+104792,31,BlockedShot,0.75,0.6959999847412109,0.011206699535250664,Kévin Monnet-Paquet,h,3513,OpenPlay,2016,RightFoot,2337,Saint-Etienne,Dijon,1,1,2016-10-16 19:00:00,Cheikh M&#039;Bengue,BallRecovery
+104798,44,MissedShots,0.9019999694824219,0.595999984741211,0.02617429941892624,Kévin Monnet-Paquet,h,3513,FromCorner,2016,Head,2337,Saint-Etienne,Dijon,1,1,2016-10-16 19:00:00,Jordan Veretout,TakeOn
+104800,45,BlockedShot,0.965,0.6959999847412109,0.049884699285030365,Kévin Monnet-Paquet,h,3513,FromCorner,2016,RightFoot,2337,Saint-Etienne,Dijon,1,1,2016-10-16 19:00:00,,Rebound
+105120,48,BlockedShot,0.8919999694824219,0.3940000152587891,0.06701579689979553,Kévin Monnet-Paquet,a,3513,OpenPlay,2016,RightFoot,2346,Caen,Saint-Etienne,0,2,2016-10-23 17:00:00,Kevin Malcuit,Cross
+106296,79,BlockedShot,0.89,0.39,0.08567900210618973,Kévin Monnet-Paquet,a,3513,OpenPlay,2016,RightFoot,3236,Rennes,Saint-Etienne,2,0,2016-12-04 18:00:00,Kévin Théophile-Catherine,Pass
+105649,0,SavedShot,0.86,0.4929999923706055,0.34762200713157654,Kévin Monnet-Paquet,h,3513,OpenPlay,2016,RightFoot,3259,Saint-Etienne,Nancy,0,0,2016-12-21 23:50:00,Romain Hamouma,Throughball
+105652,28,BlockedShot,0.865999984741211,0.67,0.05530710145831108,Kévin Monnet-Paquet,h,3513,OpenPlay,2016,LeftFoot,3259,Saint-Etienne,Nancy,0,0,2016-12-21 23:50:00,Romain Hamouma,Pass
+106846,75,BlockedShot,0.884000015258789,0.41,0.09848050028085709,Kévin Monnet-Paquet,a,3513,OpenPlay,2016,RightFoot,4105,Lille,Saint-Etienne,1,1,2017-01-13 23:45:00,Romain Hamouma,Pass
+107585,73,MissedShots,0.94,0.40799999237060547,0.06480780243873596,Kévin Monnet-Paquet,h,3513,FromCorner,2016,Head,4123,Saint-Etienne,Angers,2,1,2017-01-22 19:00:00,Romain Hamouma,Cross
+106751,28,MissedShots,0.9319999694824219,0.24399999618530274,0.04521080106496811,Kévin Monnet-Paquet,a,3513,OpenPlay,2016,RightFoot,4127,Toulouse,Saint-Etienne,0,3,2017-01-29 16:00:00,Jordan Veretout,Pass
+106762,54,Goal,0.925,0.45,0.2978450059890747,Kévin Monnet-Paquet,a,3513,OpenPlay,2016,Head,4127,Toulouse,Saint-Etienne,0,3,2017-01-29 16:00:00,Florentin Pogba,Cross
+106771,72,MissedShots,0.8930000305175781,0.3940000152587891,0.03212229907512665,Kévin Monnet-Paquet,a,3513,SetPiece,2016,Head,4127,Toulouse,Saint-Etienne,0,3,2017-01-29 16:00:00,Romain Hamouma,Cross
+107050,8,Goal,0.91,0.6780000305175782,0.2640259861946106,Kévin Monnet-Paquet,h,3513,OpenPlay,2016,LeftFoot,4135,Saint-Etienne,Lyon,2,0,2017-02-05 20:00:00,Henri Saivet,Pass
+107054,14,MissedShots,0.9219999694824219,0.6469999694824219,0.30112001299858093,Kévin Monnet-Paquet,h,3513,OpenPlay,2016,RightFoot,4135,Saint-Etienne,Lyon,2,0,2017-02-05 20:00:00,Romain Hamouma,Chipped
+108234,5,SavedShot,0.7809999847412109,0.6580000305175782,0.024310799315571785,Kévin Monnet-Paquet,a,3513,OpenPlay,2016,RightFoot,4147,Nice,Saint-Etienne,1,0,2017-02-08 21:00:00,Ole Selnaes,Pass
+108645,75,MissedShots,0.7809999847412109,0.580999984741211,0.05852850154042244,Kévin Monnet-Paquet,h,3513,OpenPlay,2016,RightFoot,4156,Saint-Etienne,Lorient,4,0,2017-02-12 16:00:00,Nolan Roux,LayOff
+110964,11,Goal,0.88,0.40400001525878904,0.0710207000374794,Kévin Monnet-Paquet,a,3513,SetPiece,2016,RightFoot,4167,Montpellier,Saint-Etienne,2,1,2017-02-19 16:00:00,Kévin Théophile-Catherine,Chipped
+110981,69,SavedShot,0.8769999694824219,0.34200000762939453,0.06687229871749878,Kévin Monnet-Paquet,a,3513,OpenPlay,2016,LeftFoot,4167,Montpellier,Saint-Etienne,2,1,2017-02-19 16:00:00,Nolan Roux,Pass
+111604,72,MissedShots,0.9169999694824219,0.49900001525878906,0.0882318988442421,Kévin Monnet-Paquet,h,3513,OpenPlay,2016,Head,4176,Saint-Etienne,Caen,0,1,2017-02-26 14:00:00,Henri Saivet,TakeOn
+111610,86,BlockedShot,0.775,0.610999984741211,0.023782700300216675,Kévin Monnet-Paquet,h,3513,OpenPlay,2016,RightFoot,4176,Saint-Etienne,Caen,0,1,2017-02-26 14:00:00,Fabien Lemoine,Pass
+109372,30,SavedShot,0.8219999694824218,0.7240000152587891,0.02666190080344677,Kévin Monnet-Paquet,a,3513,OpenPlay,2016,RightFoot,4189,SC Bastia,Saint-Etienne,0,0,2017-03-04 19:00:00,Henri Saivet,Pass
+109382,82,MissedShots,0.8530000305175781,0.7190000152587891,0.03269610181450844,Kévin Monnet-Paquet,a,3513,OpenPlay,2016,RightFoot,4189,SC Bastia,Saint-Etienne,0,0,2017-03-04 19:00:00,Jordan Veretout,Pass
+110115,41,MissedShots,0.925,0.5790000152587891,0.4269680082798004,Kévin Monnet-Paquet,h,3513,OpenPlay,2016,LeftFoot,4196,Saint-Etienne,Metz,2,2,2017-03-12 14:00:00,,Rebound
+110118,56,SavedShot,0.8440000152587891,0.715,0.05454599857330322,Kévin Monnet-Paquet,h,3513,OpenPlay,2016,RightFoot,4196,Saint-Etienne,Metz,2,2,2017-03-12 14:00:00,Romain Hamouma,LayOff
+110123,69,BlockedShot,0.9259999847412109,0.4640000152587891,0.12158399820327759,Kévin Monnet-Paquet,h,3513,SetPiece,2016,LeftFoot,4196,Saint-Etienne,Metz,2,2,2017-03-12 14:00:00,Kévin Théophile-Catherine,Pass
+109607,27,SavedShot,0.8230000305175781,0.6669999694824219,0.03638400137424469,Kévin Monnet-Paquet,a,3513,OpenPlay,2016,RightFoot,4212,Dijon,Saint-Etienne,0,1,2017-03-19 16:00:00,Henri Saivet,Pass
+109622,75,BlockedShot,0.91,0.4929999923706055,0.13477900624275208,Kévin Monnet-Paquet,a,3513,OpenPlay,2016,RightFoot,4212,Dijon,Saint-Etienne,0,1,2017-03-19 16:00:00,,Rebound
+109796,6,MissedShots,0.735999984741211,0.6370000076293946,0.015851499512791634,Kévin Monnet-Paquet,h,3513,OpenPlay,2016,RightFoot,4226,Saint-Etienne,Nantes,1,1,2017-04-09 16:00:00,,BallRecovery
+109798,9,BlockedShot,0.815,0.7090000152587891,0.026460900902748108,Kévin Monnet-Paquet,h,3513,OpenPlay,2016,RightFoot,4226,Saint-Etienne,Nantes,1,1,2017-04-09 16:00:00,Romain Hamouma,Pass
+111205,6,BlockedShot,0.9330000305175781,0.500999984741211,0.5814290046691895,Kévin Monnet-Paquet,a,3513,OpenPlay,2016,RightFoot,4237,Marseille,Saint-Etienne,4,0,2017-04-16 20:00:00,,None
+111207,9,BlockedShot,0.8530000305175781,0.5209999847412109,0.09452629834413528,Kévin Monnet-Paquet,a,3513,OpenPlay,2016,RightFoot,4237,Marseille,Saint-Etienne,4,0,2017-04-16 20:00:00,Robert Beric,Cross
+111229,18,MissedShots,0.9059999847412109,0.40299999237060546,0.031900301575660706,Kévin Monnet-Paquet,h,3513,FromCorner,2016,Head,4266,Saint-Etienne,Bordeaux,2,2,2017-05-05 19:45:00,Jordan Veretout,Cross
+111239,50,SavedShot,0.8109999847412109,0.515,0.04645939916372299,Kévin Monnet-Paquet,h,3513,OpenPlay,2016,RightFoot,4266,Saint-Etienne,Bordeaux,2,2,2017-05-05 19:45:00,Kevin Malcuit,Pass
+111244,73,MissedShots,0.8930000305175781,0.4279999923706055,0.015266899950802326,Kévin Monnet-Paquet,h,3513,SetPiece,2016,Head,4266,Saint-Etienne,Bordeaux,2,2,2017-05-05 19:45:00,Jordan Veretout,Aerial
+111868,65,SavedShot,0.75,0.525,0.021159199997782707,Kévin Monnet-Paquet,h,3513,OpenPlay,2016,RightFoot,4275,Saint-Etienne,Paris Saint Germain,0,5,2017-05-14 20:00:00,Benjamin Corgnet,Pass
+110056,36,SavedShot,0.7680000305175781,0.3729999923706055,0.020651299506425858,Kévin Monnet-Paquet,a,3513,OpenPlay,2016,RightFoot,4285,Nancy,Saint-Etienne,3,1,2017-05-20 20:00:00,,None
+110062,59,MissedShots,0.9490000152587891,0.5940000152587891,0.3312300145626068,Kévin Monnet-Paquet,a,3513,OpenPlay,2016,RightFoot,4285,Nancy,Saint-Etienne,3,1,2017-05-20 20:00:00,,None
+163759,72,SavedShot,0.9459999847412109,0.53,0.481469988822937,Kévin Monnet-Paquet,h,3513,OpenPlay,2017,Head,8633,Saint-Etienne,Rennes,2,2,2017-09-24 14:00:00,Rémy Cabella,Chipped
+163764,89,ShotOnPost,0.8819999694824219,0.4909999847412109,0.019439900293946266,Kévin Monnet-Paquet,h,3513,SetPiece,2017,Head,8633,Saint-Etienne,Rennes,2,2,2017-09-24 14:00:00,Rémy Cabella,Aerial
+163560,22,MissedShots,0.9219999694824219,0.47,0.3187650144100189,Kévin Monnet-Paquet,a,3513,FromCorner,2017,Head,8639,Troyes,Saint-Etienne,2,1,2017-10-01 14:00:00,Hernani,Cross
+163988,73,MissedShots,0.9390000152587891,0.6880000305175781,0.03817149996757507,Kévin Monnet-Paquet,h,3513,FromCorner,2017,RightFoot,8645,Saint-Etienne,Metz,3,1,2017-10-14 19:00:00,,BallTouch
+164752,84,SavedShot,0.9069999694824219,0.32599998474121095,0.3164759874343872,Kévin Monnet-Paquet,a,3513,OpenPlay,2017,RightFoot,8674,Toulouse,Saint-Etienne,0,0,2017-10-29 16:00:00,Jonathan Bamba,Throughball
+165407,55,Goal,0.889000015258789,0.46599998474121096,0.694953978061676,Kévin Monnet-Paquet,h,3513,OpenPlay,2017,LeftFoot,8698,Saint-Etienne,Strasbourg,2,2,2017-11-24 19:45:00,,TakeOn
+165120,9,BlockedShot,0.875,0.66,0.06654539704322815,Kévin Monnet-Paquet,h,3513,OpenPlay,2017,RightFoot,8715,Saint-Etienne,Nantes,1,1,2017-12-03 14:00:00,Jonathan Bamba,Pass
+165140,66,SavedShot,0.8630000305175781,0.4470000076293945,0.3070540130138397,Kévin Monnet-Paquet,h,3513,OpenPlay,2017,RightFoot,8715,Saint-Etienne,Nantes,1,1,2017-12-03 14:00:00,Cheikh M&#039;Bengue,Throughball
+183445,23,MissedShots,0.905,0.46599998474121096,0.11706899851560593,Kévin Monnet-Paquet,h,3513,OpenPlay,2017,RightFoot,8742,Saint-Etienne,Monaco,0,4,2017-12-15 19:45:00,Vágner,Pass
+183448,46,MissedShots,0.904000015258789,0.5720000076293945,0.04301150143146515,Kévin Monnet-Paquet,h,3513,OpenPlay,2017,Head,8742,Saint-Etienne,Monaco,0,4,2017-12-15 19:45:00,Digbo Maiga,Aerial
+183461,84,BlockedShot,0.774000015258789,0.740999984741211,0.01110449992120266,Kévin Monnet-Paquet,h,3513,OpenPlay,2017,RightFoot,8742,Saint-Etienne,Monaco,0,4,2017-12-15 19:45:00,Gabriel Silva,Pass
+187852,78,SavedShot,0.8819999694824219,0.44099998474121094,0.3893119990825653,Kévin Monnet-Paquet,h,3513,OpenPlay,2017,RightFoot,8762,Saint-Etienne,Toulouse,2,0,2018-01-14 14:00:00,Assane Diousse,Throughball
+187855,91,BlockedShot,0.8090000152587891,0.5790000152587891,0.06510709971189499,Kévin Monnet-Paquet,h,3513,OpenPlay,2017,LeftFoot,8762,Saint-Etienne,Toulouse,2,0,2018-01-14 14:00:00,Rémy Cabella,Pass
+190094,5,MissedShots,0.8909999847412109,0.42200000762939455,0.049178700894117355,Kévin Monnet-Paquet,h,3513,SetPiece,2017,Head,8791,Saint-Etienne,Caen,2,1,2018-01-27 19:00:00,Rémy Cabella,Cross
+194363,8,Goal,0.91,0.4209999847412109,0.3529210090637207,Kévin Monnet-Paquet,h,3513,OpenPlay,2017,RightFoot,8806,Saint-Etienne,Marseille,2,2,2018-02-09 19:45:00,Jonathan Bamba,BallTouch
+197997,53,MissedShots,0.7880000305175782,0.38299999237060545,0.029043300077319145,Kévin Monnet-Paquet,a,3513,OpenPlay,2017,RightFoot,8830,Lyon,Saint-Etienne,1,1,2018-02-25 16:00:00,Rémy Cabella,Pass
+200364,3,MissedShots,0.9730000305175781,0.6079999923706054,0.0494530014693737,Kévin Monnet-Paquet,a,3513,FromCorner,2017,RightFoot,8852,Rennes,Saint-Etienne,1,1,2018-03-10 19:00:00,Romain Hamouma,Cross
+200382,54,ShotOnPost,0.8009999847412109,0.7290000152587891,0.027818599715828896,Kévin Monnet-Paquet,a,3513,OpenPlay,2017,LeftFoot,8852,Rennes,Saint-Etienne,1,1,2018-03-10 19:00:00,Jonathan Bamba,Pass
+204286,4,BlockedShot,0.865,0.5420000076293945,0.09623450040817261,Kévin Monnet-Paquet,a,3513,SetPiece,2017,RightFoot,8870,Nantes,Saint-Etienne,0,3,2018-04-01 16:00:00,Mathieu Debuchy,Pass
+204304,50,SavedShot,0.9030000305175782,0.6430000305175781,0.10214799642562866,Kévin Monnet-Paquet,a,3513,OpenPlay,2017,RightFoot,8870,Nantes,Saint-Etienne,0,3,2018-04-01 16:00:00,Gabriel Silva,Pass
+204305,51,MissedShots,0.7980000305175782,0.3820000076293945,0.05010189861059189,Kévin Monnet-Paquet,a,3513,OpenPlay,2017,RightFoot,8870,Nantes,Saint-Etienne,0,3,2018-04-01 16:00:00,,BallRecovery
+207253,22,SavedShot,0.87,0.5129999923706055,0.061202000826597214,Kévin Monnet-Paquet,h,3513,OpenPlay,2017,Head,8882,Saint-Etienne,Paris Saint Germain,1,1,2018-04-06 18:45:00,Gabriel Silva,Cross
+211089,54,MissedShots,0.9169999694824219,0.4570000076293945,0.27562400698661804,Kévin Monnet-Paquet,h,3513,SetPiece,2017,Head,8896,Saint-Etienne,Troyes,2,1,2018-04-22 00:00:00,Romain Hamouma,Cross
+213634,4,MissedShots,0.7580000305175781,0.740999984741211,0.01893090084195137,Kévin Monnet-Paquet,h,3513,OpenPlay,2017,RightFoot,8923,Saint-Etienne,Bordeaux,1,3,2018-05-06 14:00:00,Rémy Cabella,Pass
+213642,50,BlockedShot,0.960999984741211,0.34,0.038283299654722214,Kévin Monnet-Paquet,h,3513,FromCorner,2017,RightFoot,8923,Saint-Etienne,Bordeaux,1,3,2018-05-06 14:00:00,Romain Hamouma,Cross
+216254,16,MissedShots,0.8859999847412109,0.42400001525878905,0.04427279904484749,Kévin Monnet-Paquet,h,3513,OpenPlay,2017,Head,8941,Saint-Etienne,Lille,5,0,2018-05-19 19:00:00,Mathieu Debuchy,Cross
+216262,49,MissedShots,0.9540000152587891,0.415,0.0858817994594574,Kévin Monnet-Paquet,h,3513,FromCorner,2017,Head,8941,Saint-Etienne,Lille,5,0,2018-05-19 19:00:00,Romain Hamouma,Cross
+218497,53,MissedShots,0.9390000152587891,0.7669999694824219,0.05047979950904846,Kévin Monnet-Paquet,a,3513,OpenPlay,2018,RightFoot,10660,Strasbourg,Saint-Etienne,1,1,2018-08-19 16:00:00,,TakeOn
+220372,33,SavedShot,0.8819999694824219,0.4640000152587891,0.03323490172624588,Kévin Monnet-Paquet,a,3513,OpenPlay,2018,Head,10667,Montpellier,Saint-Etienne,0,0,2018-08-25 21:00:00,Lois Diony,Aerial
+260950,10,SavedShot,0.92,0.25,0.12076699733734131,Kévin Monnet-Paquet,a,3513,OpenPlay,2018,RightFoot,10749,Nimes,Saint-Etienne,1,1,2018-10-26 18:45:00,Mathieu Debuchy,Throughball
+260956,26,BlockedShot,0.8580000305175781,0.69,0.05689150094985962,Kévin Monnet-Paquet,a,3513,OpenPlay,2018,RightFoot,10749,Nimes,Saint-Etienne,1,1,2018-10-26 18:45:00,Wahbi Khazri,Pass
+261515,92,MissedShots,0.9290000152587891,0.6580000305175782,0.29079198837280273,Kévin Monnet-Paquet,h,3513,OpenPlay,2018,LeftFoot,10769,Saint-Etienne,Reims,2,0,2018-11-10 19:00:00,,Rebound
+262714,41,Goal,0.9519999694824218,0.43900001525878907,0.5675719976425171,Kévin Monnet-Paquet,h,3513,OpenPlay,2018,RightFoot,10831,Saint-Etienne,Dijon,3,0,2018-12-22 19:00:00,,None
+282425,35,BlockedShot,0.7780000305175782,0.27899999618530275,0.02021550014615059,Kévin Monnet-Paquet,h,3513,OpenPlay,2018,LeftFoot,10810,Saint-Etienne,Marseille,2,1,2019-01-16 20:00:00,Ole Selnaes,Pass
+282644,41,SavedShot,0.82,0.4420000076293945,0.06884569674730301,Kévin Monnet-Paquet,h,3513,OpenPlay,2018,LeftFoot,10852,Saint-Etienne,Lyon,1,2,2019-01-20 20:00:00,,None
+282952,55,BlockedShot,0.7609999847412109,0.4329999923706055,0.02344460040330887,Kévin Monnet-Paquet,a,3513,OpenPlay,2018,RightFoot,10861,Nantes,Saint-Etienne,1,1,2019-01-30 00:00:00,Lois Diony,Pass
+282955,65,ShotOnPost,0.730999984741211,0.4640000152587891,0.015175900422036648,Kévin Monnet-Paquet,a,3513,FromCorner,2018,RightFoot,10861,Nantes,Saint-Etienne,1,1,2019-01-30 00:00:00,,None
+282958,77,SavedShot,0.9159999847412109,0.59,0.08567599952220917,Kévin Monnet-Paquet,a,3513,SetPiece,2018,LeftFoot,10861,Nantes,Saint-Etienne,1,1,2019-01-30 00:00:00,Loic Perrin,BallTouch
+283283,12,MissedShots,0.8619999694824219,0.285,0.0405782014131546,Kévin Monnet-Paquet,a,3513,OpenPlay,2018,RightFoot,10881,Rennes,Saint-Etienne,3,0,2019-02-10 16:00:00,Neven Subotic,Chipped
+283297,50,BlockedShot,0.784000015258789,0.5929999923706055,0.025786900892853737,Kévin Monnet-Paquet,a,3513,OpenPlay,2018,RightFoot,10881,Rennes,Saint-Etienne,3,0,2019-02-10 16:00:00,Lois Diony,Pass
+283348,8,BlockedShot,0.8180000305175781,0.4759999847412109,0.053712598979473114,Kévin Monnet-Paquet,h,3513,OpenPlay,2018,LeftFoot,10869,Saint-Etienne,Strasbourg,2,1,2019-02-13 18:00:00,Neven Subotic,TakeOn
+283353,25,SavedShot,0.8880000305175781,0.42700000762939455,0.04835930094122887,Kévin Monnet-Paquet,h,3513,SetPiece,2018,Head,10869,Saint-Etienne,Strasbourg,2,1,2019-02-13 18:00:00,Wahbi Khazri,Cross
+283361,52,MissedShots,0.7980000305175782,0.3609999847412109,0.0759676992893219,Kévin Monnet-Paquet,h,3513,OpenPlay,2018,LeftFoot,10869,Saint-Etienne,Strasbourg,2,1,2019-02-13 18:00:00,Loic Perrin,Chipped
+283584,10,SavedShot,0.8930000305175781,0.30700000762939456,0.05637529864907265,Kévin Monnet-Paquet,h,3513,OpenPlay,2018,RightFoot,10892,Saint-Etienne,Paris Saint Germain,0,1,2019-02-17 20:00:00,,Tackle
+283591,34,SavedShot,0.8519999694824218,0.34700000762939454,0.05138099938631058,Kévin Monnet-Paquet,h,3513,OpenPlay,2018,LeftFoot,10892,Saint-Etienne,Paris Saint Germain,0,1,2019-02-17 20:00:00,Youssef Ait Bennasser,Pass
+283597,62,BlockedShot,0.9719999694824218,0.415,0.03413509950041771,Kévin Monnet-Paquet,h,3513,FromCorner,2018,Head,10892,Saint-Etienne,Paris Saint Germain,0,1,2019-02-17 20:00:00,Romain Hamouma,Aerial
+283602,83,MissedShots,0.7219999694824218,0.4520000076293945,0.01787479966878891,Kévin Monnet-Paquet,h,3513,OpenPlay,2018,LeftFoot,10892,Saint-Etienne,Paris Saint Germain,0,1,2019-02-17 20:00:00,Loic Perrin,Pass
+382634,43,MissedShots,0.93,0.30100000381469727,0.0634583979845047,Kévin Monnet-Paquet,h,3513,OpenPlay,2020,RightFoot,15824,Saint-Etienne,Nice,1,3,2020-10-18 15:00:00,Panagiotis Retsos,Pass
+395440,26,MissedShots,0.914000015258789,0.2929999923706055,0.01913679949939251,Kévin Monnet-Paquet,a,3513,OpenPlay,2020,RightFoot,15922,Monaco,Saint-Etienne,2,2,2020-12-23 20:00:00,Miguel Trauco,Cross
+397553,48,MissedShots,0.805,0.6480000305175782,0.023056600242853165,Kévin Monnet-Paquet,h,3513,FromCorner,2020,LeftFoot,15933,Saint-Etienne,Paris Saint Germain,1,1,2021-01-06 20:00:00,,None
+403648,5,BlockedShot,0.9380000305175781,0.2979999923706055,0.05155770108103752,Kévin Monnet-Paquet,h,3513,OpenPlay,2020,RightFoot,15990,Saint-Etienne,Metz,1,0,2021-02-07 14:00:00,,None
+407818,30,MissedShots,0.9180000305175782,0.575999984741211,0.05105910077691078,Kévin Monnet-Paquet,h,3513,OpenPlay,2020,Head,16034,Saint-Etienne,Lens,2,3,2021-03-03 18:00:00,Adil Aouchiche,Aerial
+415556,20,MissedShots,0.9380000305175781,0.620999984741211,0.029080400243401527,Kévin Monnet-Paquet,a,3513,FromCorner,2020,Head,16077,Paris Saint Germain,Saint-Etienne,3,2,2021-04-18 11:00:00,Romain Hamouma,Cross

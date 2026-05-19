@@ -1,0 +1,13 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+5052,49,SavedShot,0.855999984741211,0.37099998474121093,0.06660909950733185,Djamel Bakar,h,3352,OpenPlay,2014,RightFoot,6039,Montpellier,Saint-Etienne,0,2,2014-12-03 18:00:00,Morgan Sanson,Pass
+5058,89,SavedShot,0.7659999847412109,0.6070000076293945,0.023265700787305832,Djamel Bakar,h,3352,OpenPlay,2014,RightFoot,6039,Montpellier,Saint-Etienne,0,2,2014-12-03 18:00:00,Lucas Barrios,LayOff
+4031,63,SavedShot,0.725,0.6020000076293945,0.020541900768876076,Djamel Bakar,h,3352,OpenPlay,2014,RightFoot,6058,Montpellier,Lens,3,3,2014-12-13 19:00:00,,Interception
+3438,91,ShotOnPost,0.885,0.5,0.7600950002670288,Djamel Bakar,a,3352,Penalty,2014,RightFoot,5987,Guingamp,Montpellier,0,2,2015-02-22 13:00:00,,Standard
+8630,17,SavedShot,0.8530000305175781,0.44400001525878907,0.06381040066480637,Djamel Bakar,h,3352,SetPiece,2014,LeftFoot,5889,Montpellier,SC Bastia,3,1,2015-04-04 19:00:00,,None
+7084,62,Goal,0.8380000305175781,0.415,0.2654309868812561,Djamel Bakar,a,3352,OpenPlay,2014,RightFoot,5875,Bordeaux,Montpellier,2,1,2015-05-23 20:00:00,Kévin Berigaud,Pass
+61732,93,BlockedShot,0.7719999694824219,0.47,0.012811600230634212,Djamel Bakar,a,3352,FromCorner,2015,RightFoot,1882,Rennes,Montpellier,1,0,2015-08-15 22:00:00,Steve Mounie,HeadPass
+61918,32,MissedShots,0.8030000305175782,0.38,0.05596809834241867,Djamel Bakar,h,3352,OpenPlay,2015,LeftFoot,1889,Montpellier,Paris Saint Germain,0,1,2015-08-21 22:30:00,Ryad Boudebouz,Pass
+61927,65,SavedShot,0.769000015258789,0.5790000152587891,0.02794400043785572,Djamel Bakar,h,3352,OpenPlay,2015,RightFoot,1889,Montpellier,Paris Saint Germain,0,1,2015-08-21 22:30:00,Jonas Martin,Pass
+62226,62,SavedShot,0.7930000305175782,0.6669999694824219,0.027706800028681755,Djamel Bakar,a,3352,OpenPlay,2015,RightFoot,1902,Troyes,Montpellier,0,0,2015-08-29 22:00:00,Jonas Martin,Pass
+62231,74,SavedShot,0.885,0.6220000076293946,0.014666000381112099,Djamel Bakar,a,3352,OpenPlay,2015,Head,1902,Troyes,Montpellier,0,0,2015-08-29 22:00:00,Jérôme Roussillon,Cross
+68569,80,MissedShots,0.885,0.5640000152587891,0.10598400235176086,Djamel Bakar,a,3352,OpenPlay,2015,LeftFoot,2239,Monaco,Montpellier,2,0,2016-05-14 23:00:00,Jonas Martin,Pass

@@ -1,0 +1,60 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+165959,6,MissedShots,0.9259999847412109,0.4640000152587891,0.06501220166683197,Dan-Axel Zagadou,a,6103,SetPiece,2017,Head,8264,Wolfsburg,Borussia Dortmund,0,3,2017-08-19 14:30:00,Nuri Sahin,Aerial
+166291,55,MissedShots,0.9690000152587891,0.6730000305175782,0.023984599858522415,Dan-Axel Zagadou,a,6103,OpenPlay,2017,LeftFoot,8280,Freiburg,Borussia Dortmund,0,0,2017-09-09 14:30:00,Gonzalo Castro,Cross
+166307,94,MissedShots,0.735,0.41,0.012922000139951706,Dan-Axel Zagadou,a,6103,FromCorner,2017,LeftFoot,8280,Freiburg,Borussia Dortmund,0,0,2017-09-09 14:30:00,,Aerial
+167134,5,MissedShots,0.9069999694824219,0.39099998474121095,0.014063600450754166,Dan-Axel Zagadou,a,6103,FromCorner,2017,Head,8302,Hamburger SV,Borussia Dortmund,0,3,2017-09-20 19:30:00,Andriy Yarmolenko,Aerial
+167147,58,MissedShots,0.9069999694824219,0.49599998474121093,0.059487901628017426,Dan-Axel Zagadou,a,6103,SetPiece,2017,Head,8302,Hamburger SV,Borussia Dortmund,0,3,2017-09-20 19:30:00,Lukasz Piszczek,HeadPass
+167588,54,MissedShots,0.92,0.49900001525878906,0.10763400048017502,Dan-Axel Zagadou,h,6103,FromCorner,2017,Head,8323,Borussia Dortmund,RasenBallsport Leipzig,2,3,2017-10-14 17:30:00,Gonzalo Castro,Cross
+168280,89,BlockedShot,0.784000015258789,0.6840000152587891,0.018848899751901627,Dan-Axel Zagadou,a,6103,OpenPlay,2017,LeftFoot,8336,Eintracht Frankfurt,Borussia Dortmund,2,2,2017-10-21 14:30:00,,None
+168805,26,Goal,0.8880000305175781,0.505,0.10936799645423889,Dan-Axel Zagadou,a,6103,FromCorner,2017,LeftFoot,8347,Hannover 96,Borussia Dortmund,4,2,2017-10-28 14:30:00,,Rebound
+168196,66,BlockedShot,0.905,0.43599998474121093,0.08104470372200012,Dan-Axel Zagadou,a,6103,SetPiece,2017,Head,8366,VfB Stuttgart,Borussia Dortmund,2,1,2017-11-17 19:30:00,Mario Götze,Cross
+226688,55,MissedShots,0.9019999694824219,0.46599998474121096,0.03833569958806038,Dan-Axel Zagadou,h,6103,SetPiece,2018,Head,10378,Borussia Dortmund,Nuernberg,7,0,2018-09-26 18:30:00,Marco Reus,Aerial
+255215,24,BlockedShot,0.919000015258789,0.42700000762939455,0.02203409932553768,Dan-Axel Zagadou,h,6103,FromCorner,2018,Head,10393,Borussia Dortmund,Augsburg,4,3,2018-10-06 13:30:00,Jacob Bruun Larsen,Aerial
+255935,3,MissedShots,0.9330000305175781,0.47200000762939454,0.06178610026836395,Dan-Axel Zagadou,a,6103,FromCorner,2018,Head,10421,Wolfsburg,Borussia Dortmund,0,1,2018-11-03 14:30:00,Raphael Guerreiro,Aerial
+256529,3,SavedShot,0.9259999847412109,0.505,0.11703900247812271,Dan-Axel Zagadou,a,6103,FromCorner,2018,Head,10443,Mainz 05,Borussia Dortmund,1,2,2018-11-24 14:30:00,Jadon Sancho,Cross
+279358,93,MissedShots,0.909000015258789,0.4570000076293945,0.07375779747962952,Dan-Axel Zagadou,a,6103,FromCorner,2018,Head,10533,Nuernberg,Borussia Dortmund,0,0,2019-02-18 19:30:00,Raphael Guerreiro,Cross
+279544,29,Goal,0.9630000305175781,0.4909999847412109,0.5080090165138245,Dan-Axel Zagadou,h,6103,FromCorner,2018,LeftFoot,10536,Borussia Dortmund,Bayer Leverkusen,3,2,2019-02-24 17:00:00,Jadon Sancho,Cross
+279597,73,MissedShots,0.914000015258789,0.5070000076293946,0.0415491983294487,Dan-Axel Zagadou,a,6103,FromCorner,2018,Head,10550,Augsburg,Borussia Dortmund,2,1,2019-03-01 19:30:00,Jadon Sancho,Aerial
+286393,46,Goal,0.91,0.4909999847412109,0.0359765999019146,Dan-Axel Zagadou,a,6103,FromCorner,2018,Head,10568,Hertha Berlin,Borussia Dortmund,2,3,2019-03-16 17:30:00,Jadon Sancho,Aerial
+287460,7,MissedShots,0.860999984741211,0.5309999847412109,0.042372800409793854,Dan-Axel Zagadou,h,6103,SetPiece,2018,Head,10572,Borussia Dortmund,Wolfsburg,2,0,2019-03-30 14:30:00,Raphael Guerreiro,Chipped
+287464,40,MissedShots,0.9340000152587891,0.485,0.4166559875011444,Dan-Axel Zagadou,h,6103,SetPiece,2018,OtherBodyPart,10572,Borussia Dortmund,Wolfsburg,2,0,2019-03-30 14:30:00,Raphael Guerreiro,Cross
+335578,46,SavedShot,0.7130000305175781,0.49900001525878906,0.02035369910299778,Dan-Axel Zagadou,h,6103,OpenPlay,2019,LeftFoot,12520,Borussia Dortmund,Fortuna Duesseldorf,5,0,2019-12-07 14:30:00,Axel Witsel,Pass
+338016,90,MissedShots,0.9340000152587891,0.45099998474121095,0.04661739990115166,Dan-Axel Zagadou,h,6103,FromCorner,2019,OtherBodyPart,12538,Borussia Dortmund,RasenBallsport Leipzig,3,3,2019-12-17 19:30:00,Thorgan Hazard,Aerial
+358726,58,SavedShot,0.7230000305175781,0.5329999923706055,0.022222500294446945,Dan-Axel Zagadou,h,6103,OpenPlay,2019,LeftFoot,12592,Borussia Dortmund,Eintracht Frankfurt,4,0,2020-02-14 19:30:00,Emre Can,Pass
+359821,51,Goal,0.9230000305175782,0.49900001525878906,0.10885600000619888,Dan-Axel Zagadou,a,6103,FromCorner,2019,LeftFoot,12606,Werder Bremen,Borussia Dortmund,0,2,2020-02-22 14:30:00,Jadon Sancho,Cross
+390092,75,SavedShot,0.8909999847412109,0.5,0.047503601759672165,Dan-Axel Zagadou,a,6103,FromCorner,2020,Head,15224,Eintracht Frankfurt,Borussia Dortmund,1,1,2020-12-05 14:30:00,Jude Bellingham,Chipped
+441261,86,BlockedShot,0.9069999694824219,0.43599998474121093,0.018779300153255463,Dan-Axel Zagadou,a,6103,FromCorner,2021,Head,17613,RasenBallsport Leipzig,Borussia Dortmund,2,1,2021-11-06 17:30:00,Thorgan Hazard,Aerial
+441263,91,BlockedShot,0.879000015258789,0.5979999923706054,0.05245649814605713,Dan-Axel Zagadou,a,6103,OpenPlay,2021,RightFoot,17613,RasenBallsport Leipzig,Borussia Dortmund,2,1,2021-11-06 17:30:00,Thorgan Hazard,Cross
+447661,51,MissedShots,0.9490000152587891,0.42200000762939455,0.09741870313882828,Dan-Axel Zagadou,a,6103,FromCorner,2021,Head,17643,Bochum,Borussia Dortmund,1,1,2021-12-11 14:30:00,Mahmoud Dahoud,Cross
+492476,13,SavedShot,0.955,0.43900001525878907,0.08495549857616425,Dan-Axel Zagadou,h,6103,SetPiece,2022,OtherBodyPart,19421,VfB Stuttgart,Union Berlin,0,1,2022-10-09 17:30:00,Hiroki Ito,Aerial
+492990,70,MissedShots,0.9059999847412109,0.5779999923706055,0.07768639922142029,Dan-Axel Zagadou,h,6103,SetPiece,2022,LeftFoot,19429,VfB Stuttgart,Bochum,4,1,2022-10-15 13:30:00,,None
+492995,88,SavedShot,0.9,0.515,0.0995405986905098,Dan-Axel Zagadou,h,6103,SetPiece,2022,Head,19429,VfB Stuttgart,Bochum,4,1,2022-10-15 13:30:00,Pascal Stenzel,Cross
+496393,68,MissedShots,0.9440000152587891,0.5379999923706055,0.07145799696445465,Dan-Axel Zagadou,h,6103,FromCorner,2022,Head,19447,VfB Stuttgart,Augsburg,2,1,2022-10-29 13:30:00,Borna Sosa,Aerial
+496400,78,BlockedShot,0.7619999694824219,0.6229999923706054,0.015155499801039696,Dan-Axel Zagadou,h,6103,SetPiece,2022,LeftFoot,19447,VfB Stuttgart,Augsburg,2,1,2022-10-29 13:30:00,Lilian Egloff,Rebound
+496401,79,MissedShots,0.8930000305175781,0.5509999847412109,0.0706745982170105,Dan-Axel Zagadou,h,6103,SetPiece,2022,LeftFoot,19447,VfB Stuttgart,Augsburg,2,1,2022-10-29 13:30:00,Borna Sosa,Cross
+508355,74,SavedShot,0.91,0.5570000076293945,0.036520399153232574,Dan-Axel Zagadou,a,6103,SetPiece,2022,Head,19515,Freiburg,VfB Stuttgart,2,1,2023-02-11 14:30:00,Borna Sosa,Aerial
+510972,48,BlockedShot,0.9169999694824219,0.519000015258789,0.11906500160694122,Dan-Axel Zagadou,a,6103,SetPiece,2022,Head,19538,Schalke 04,VfB Stuttgart,2,1,2023-02-25 17:30:00,Borna Sosa,Cross
+510987,95,BlockedShot,0.88,0.519000015258789,0.08307690173387527,Dan-Axel Zagadou,a,6103,SetPiece,2022,LeftFoot,19538,Schalke 04,VfB Stuttgart,2,1,2023-02-25 17:30:00,Konstantinos Mavropanos,BallTouch
+512364,43,MissedShots,0.884000015258789,0.4570000076293945,0.014704800210893154,Dan-Axel Zagadou,h,6103,FromCorner,2022,Head,19548,VfB Stuttgart,Bayern Munich,1,2,2023-03-04 17:30:00,Hiroki Ito,Aerial
+516242,28,MissedShots,0.965,0.49700000762939456,0.6214050054550171,Dan-Axel Zagadou,a,6103,SetPiece,2022,Head,19567,Union Berlin,VfB Stuttgart,3,0,2023-04-01 13:30:00,Enzo Millot,Cross
+516255,58,MissedShots,0.924000015258789,0.5529999923706055,0.09258049726486206,Dan-Axel Zagadou,a,6103,FromCorner,2022,Head,19567,Union Berlin,VfB Stuttgart,3,0,2023-04-01 13:30:00,Hiroki Ito,Cross
+522703,16,MissedShots,0.8919999694824219,0.43,0.015889538452029228,Dan-Axel Zagadou,h,6103,SetPiece,2022,Head,19610,VfB Stuttgart,Borussia M.Gladbach,2,1,2023-04-29 13:30:00,Borna Sosa,Aerial
+522721,70,MissedShots,0.9359999847412109,0.49599998474121093,0.12730592489242554,Dan-Axel Zagadou,h,6103,FromCorner,2022,Head,19610,VfB Stuttgart,Borussia M.Gladbach,2,1,2023-04-29 13:30:00,Borna Sosa,Cross
+532992,37,Goal,0.9580000305175781,0.5020000076293946,0.44344088435173035,Dan-Axel Zagadou,h,6103,FromCorner,2023,Head,23070,VfB Stuttgart,Bochum,5,0,2023-08-19 13:30:00,Chris Führich,Aerial
+534350,94,BlockedShot,0.909000015258789,0.3840000152587891,0.07279951125383377,Dan-Axel Zagadou,a,6103,FromCorner,2023,RightFoot,23074,RasenBallsport Leipzig,VfB Stuttgart,5,1,2023-08-25 18:30:00,,None
+536042,50,MissedShots,0.9209999847412109,0.3290000152587891,0.04704047739505768,Dan-Axel Zagadou,h,6103,FromCorner,2023,RightFoot,23088,VfB Stuttgart,Freiburg,5,0,2023-09-02 13:30:00,Serhou Guirassy,TakeOn
+538753,2,MissedShots,0.9130000305175782,0.4779999923706055,0.09053093940019608,Dan-Axel Zagadou,h,6103,FromCorner,2023,Head,23101,VfB Stuttgart,Darmstadt,3,1,2023-09-22 18:30:00,Angelo Stiller,Cross
+538754,16,OwnGoal,0.04300000190734863,0.5890000152587891,0,Dan-Axel Zagadou,h,6103,OpenPlay,2023,LeftFoot,23101,VfB Stuttgart,Darmstadt,3,1,2023-09-22 18:30:00,,None
+538757,27,SavedShot,0.94,0.639000015258789,0.026647675782442093,Dan-Axel Zagadou,h,6103,OpenPlay,2023,Head,23101,VfB Stuttgart,Darmstadt,3,1,2023-09-22 18:30:00,Enzo Millot,Cross
+545359,84,BlockedShot,0.9490000152587891,0.49700000762939456,0.08617391437292099,Dan-Axel Zagadou,h,6103,FromCorner,2023,Head,23145,VfB Stuttgart,Hoffenheim,2,3,2023-10-28 13:30:00,Angelo Stiller,Aerial
+547576,86,MissedShots,0.9130000305175782,0.49700000762939456,0.1229248046875,Dan-Axel Zagadou,a,6103,OpenPlay,2023,RightFoot,23153,FC Heidenheim,VfB Stuttgart,2,0,2023-11-05 16:30:00,,Rebound
+553551,6,MissedShots,0.9030000305175782,0.4370000076293945,0.052760206162929535,Dan-Axel Zagadou,h,6103,FromCorner,2023,Head,23189,VfB Stuttgart,Bayer Leverkusen,1,1,2023-12-10 14:30:00,Angelo Stiller,Cross
+555059,86,MissedShots,0.9540000152587891,0.49400001525878906,0.08702867478132248,Dan-Axel Zagadou,a,6103,FromCorner,2023,Head,23191,Bayern Munich,VfB Stuttgart,3,0,2023-12-17 18:30:00,Angelo Stiller,Aerial
+558646,93,MissedShots,0.725999984741211,0.5270000076293946,0.01571119949221611,Dan-Axel Zagadou,a,6103,OpenPlay,2023,LeftFoot,23213,Borussia M.Gladbach,VfB Stuttgart,3,1,2024-01-14 16:30:00,Anthony Rouault,Pass
+559749,21,BlockedShot,0.9209999847412109,0.4640000152587891,0.09893345832824707,Dan-Axel Zagadou,h,6103,FromCorner,2023,Head,23235,VfB Stuttgart,RasenBallsport Leipzig,5,2,2024-01-27 14:30:00,Angelo Stiller,Cross
+649783,36,MissedShots,0.9359999847412109,0.5029999923706054,0.07011959701776505,Dan-Axel Zagadou,h,6103,FromCorner,2025,Head,30294,VfB Stuttgart,Mainz 05,2,1,2025-10-26 15:30:00,Nikolas Nartey,Aerial
+649785,44,SavedShot,0.725999984741211,0.5020000076293946,0.01926160231232643,Dan-Axel Zagadou,h,6103,OpenPlay,2025,LeftFoot,30294,VfB Stuttgart,Mainz 05,2,1,2025-10-26 15:30:00,Finn Jeltsch,Pass
+649795,70,MissedShots,0.9130000305175782,0.5329999923706055,0.09169503301382065,Dan-Axel Zagadou,h,6103,FromCorner,2025,Head,30294,VfB Stuttgart,Mainz 05,2,1,2025-10-26 15:30:00,Angelo Stiller,Cross
+653016,46,MissedShots,0.6969999694824218,0.4470000076293945,0.013953091576695442,Dan-Axel Zagadou,h,6103,OpenPlay,2025,LeftFoot,30311,VfB Stuttgart,Augsburg,3,2,2025-11-09 16:30:00,Finn Jeltsch,Pass
+653021,60,MissedShots,0.86,0.580999984741211,0.06779348105192184,Dan-Axel Zagadou,h,6103,OpenPlay,2025,RightFoot,30311,VfB Stuttgart,Augsburg,3,2,2025-11-09 16:30:00,,None
+681452,23,BlockedShot,0.769000015258789,0.5070000076293946,0.032840535044670105,Dan-Axel Zagadou,h,6103,FromCorner,2025,RightFoot,30501,VfB Stuttgart,Werder Bremen,1,1,2026-04-26 13:30:00,Lorenz Assignon,Pass

@@ -1,0 +1,20 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+79010,79,MissedShots,0.8680000305175781,0.5479999923706055,0.12217000126838684,Jan Morávek,a,367,OpenPlay,2015,LeftFoot,1130,VfB Stuttgart,Augsburg,0,4,2015-11-21 18:30:00,Philipp Max,Pass
+79911,75,Goal,0.9280000305175782,0.47299999237060547,0.6050379872322083,Jan Morávek,a,367,OpenPlay,2015,Head,1167,Hamburger SV,Augsburg,0,1,2015-12-19 18:30:00,,None
+80443,76,MissedShots,0.735999984741211,0.5829999923706055,0.010618999600410461,Jan Morávek,h,367,OpenPlay,2015,RightFoot,1187,Augsburg,Eintracht Frankfurt,0,0,2016-01-30 18:30:00,,Aerial
+81329,16,BlockedShot,0.7969999694824219,0.34799999237060547,0.03170879930257797,Jan Morávek,h,367,OpenPlay,2015,RightFoot,1224,Augsburg,Borussia M.Gladbach,2,2,2016-02-28 18:30:00,Raúl Bobadilla,BallTouch
+81331,27,MissedShots,0.8590000152587891,0.5179999923706055,0.07438989728689194,Jan Morávek,h,367,OpenPlay,2015,RightFoot,1224,Augsburg,Borussia M.Gladbach,2,2,2016-02-28 18:30:00,,None
+81335,34,BlockedShot,0.89,0.59,0.07458409667015076,Jan Morávek,h,367,FromCorner,2015,RightFoot,1224,Augsburg,Borussia M.Gladbach,2,2,2016-02-28 18:30:00,,None
+128429,74,SavedShot,0.875,0.5070000076293946,0.08224660158157349,Jan Morávek,a,367,OpenPlay,2016,RightFoot,1361,Bayer Leverkusen,Augsburg,0,0,2016-09-21 22:00:00,Philipp Max,Cross
+131731,18,BlockedShot,0.909000015258789,0.41900001525878905,0.09173990041017532,Jan Morávek,a,367,OpenPlay,2016,RightFoot,3222,Borussia Dortmund,Augsburg,1,1,2016-12-20 23:00:00,Jonathan Schmid,HeadPass
+132267,63,BlockedShot,0.8080000305175781,0.37900001525878907,0.03470589965581894,Jan Morávek,a,367,OpenPlay,2016,RightFoot,3768,Darmstadt,Augsburg,1,2,2017-02-25 14:30:00,Ja-Cheol Koo,Pass
+167085,57,SavedShot,0.915,0.7,0.06636449694633484,Jan Morávek,h,367,OpenPlay,2017,LeftFoot,8297,Augsburg,RasenBallsport Leipzig,1,0,2017-09-19 19:30:00,,None
+194811,8,MissedShots,0.8919999694824219,0.555,0.030890099704265594,Jan Morávek,h,367,OpenPlay,2017,Head,8443,Augsburg,Eintracht Frankfurt,3,0,2018-02-04 14:30:00,Caiuby,Aerial
+278347,17,SavedShot,0.9030000305175782,0.4779999923706055,0.07170440256595612,Jan Morávek,h,367,FromCorner,2018,Head,10493,Augsburg,Fortuna Duesseldorf,1,2,2019-01-19 14:30:00,Jonathan Schmid,Cross
+295228,84,SavedShot,0.9340000152587891,0.40700000762939453,0.257845014333725,Jan Morávek,h,367,FromCorner,2018,RightFoot,10602,Augsburg,VfB Stuttgart,6,0,2019-04-20 14:30:00,Kevin Danso,BallTouch
+302293,77,MissedShots,0.9259999847412109,0.625999984741211,0.07244569808244705,Jan Morávek,a,367,FromCorner,2018,RightFoot,10641,Wolfsburg,Augsburg,8,1,2019-05-18 13:30:00,,None
+320318,42,MissedShots,0.7330000305175781,0.5309999847412109,0.017922600731253624,Jan Morávek,a,367,OpenPlay,2019,RightFoot,12441,Freiburg,Augsburg,1,1,2019-09-21 13:30:00,,BallTouch
+324608,2,BlockedShot,0.779000015258789,0.3659999847412109,0.025100799277424812,Jan Morávek,a,367,OpenPlay,2019,RightFoot,12465,Borussia M.Gladbach,Augsburg,5,1,2019-10-06 12:30:00,Florian Niederlechner,Pass
+416235,24,BlockedShot,0.855,0.47,0.07203440368175507,Jan Morávek,a,367,OpenPlay,2020,RightFoot,15404,Eintracht Frankfurt,Augsburg,2,0,2021-04-20 18:30:00,,None
+446146,57,MissedShots,0.955,0.49900001525878906,0.6422380208969116,Jan Morávek,h,367,OpenPlay,2021,RightFoot,17634,Augsburg,Bochum,2,3,2021-12-04 14:30:00,Ruben Vargas,Pass
+449065,27,BlockedShot,0.8009999847412109,0.4329999923706055,0.044662799686193466,Jan Morávek,h,367,OpenPlay,2021,RightFoot,17652,Augsburg,RasenBallsport Leipzig,1,1,2021-12-15 19:30:00,Ruben Vargas,Pass

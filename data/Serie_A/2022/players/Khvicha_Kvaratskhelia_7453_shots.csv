@@ -1,0 +1,512 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+285710,87,ShotOnPost,0.92,0.44299999237060544,0.07011809945106506,Khvicha Kvaratskhelia,a,7453,FromCorner,2018,Head,9096,Anzhi Makhachkala,Lokomotiv Moscow,0,2,2019-03-10 18:00:00,Aleksey Miranchuk,Cross
+288473,57,BlockedShot,0.7480000305175781,0.5109999847412109,0.010496100410819054,Khvicha Kvaratskhelia,a,7453,SetPiece,2018,LeftFoot,9111,Dinamo Moscow,Lokomotiv Moscow,0,1,2019-03-30 11:00:00,,Aerial
+292715,16,BlockedShot,0.8809999847412109,0.6480000305175782,0.08040229976177216,Khvicha Kvaratskhelia,h,7453,OpenPlay,2018,RightFoot,9119,Lokomotiv Moscow,Zenit St. Petersburg,1,1,2019-04-07 17:00:00,Aleksey Miranchuk,Pass
+292718,28,MissedShots,0.7380000305175781,0.5940000152587891,0.014513099566102028,Khvicha Kvaratskhelia,h,7453,OpenPlay,2018,RightFoot,9119,Lokomotiv Moscow,Zenit St. Petersburg,1,1,2019-04-07 17:00:00,Eder,Pass
+301997,83,BlockedShot,0.8959999847412109,0.4159999847412109,0.4213629961013794,Khvicha Kvaratskhelia,h,7453,OpenPlay,2018,LeftFoot,9165,Lokomotiv Moscow,Rubin Kazan,4,0,2019-05-10 17:00:00,Maciej Rybus,Pass
+301999,86,Goal,0.845999984741211,0.495,0.32312101125717163,Khvicha Kvaratskhelia,h,7453,OpenPlay,2018,RightFoot,9165,Lokomotiv Moscow,Rubin Kazan,4,0,2019-05-10 17:00:00,Anton Miranchuk,Pass
+304307,74,SavedShot,0.815,0.509000015258789,0.06218139827251434,Khvicha Kvaratskhelia,a,7453,OpenPlay,2018,LeftFoot,9174,Ural,Lokomotiv Moscow,2,2,2019-05-19 08:30:00,Aleksey Miranchuk,Pass
+304587,73,BlockedShot,0.78,0.669000015258789,0.02284820005297661,Khvicha Kvaratskhelia,h,7453,OpenPlay,2018,RightFoot,9183,Lokomotiv Moscow,FC Ufa,1,0,2019-05-26 11:00:00,Manuel Fernandes,Pass
+307292,75,Goal,0.8919999694824219,0.5879999923706055,0.15826000273227692,Khvicha Kvaratskhelia,a,7453,OpenPlay,2019,Head,11030,Lokomotiv Moscow,Rubin Kazan,1,1,2019-07-15 17:00:00,Oleg Danchenko,Cross
+307506,77,SavedShot,0.884000015258789,0.28899999618530275,0.053142398595809937,Khvicha Kvaratskhelia,a,7453,OpenPlay,2019,LeftFoot,11037,Dinamo Moscow,Rubin Kazan,0,1,2019-07-21 16:00:00,Oleg Danchenko,TakeOn
+307760,26,BlockedShot,0.8130000305175781,0.28899999618530275,0.02393369935452938,Khvicha Kvaratskhelia,h,7453,OpenPlay,2019,RightFoot,11046,Rubin Kazan,FK Akhmat,1,0,2019-07-29 17:00:00,Zuriko Davitashvili,Pass
+307769,56,BlockedShot,0.8059999847412109,0.75,0.051708098500967026,Khvicha Kvaratskhelia,h,7453,DirectFreekick,2019,RightFoot,11046,Rubin Kazan,FK Akhmat,1,0,2019-07-29 17:00:00,,Standard
+307773,75,MissedShots,0.8119999694824219,0.345,0.04569999873638153,Khvicha Kvaratskhelia,h,7453,OpenPlay,2019,LeftFoot,11046,Rubin Kazan,FK Akhmat,1,0,2019-07-29 17:00:00,,None
+307775,78,SavedShot,0.93,0.34900001525878904,0.10916999727487564,Khvicha Kvaratskhelia,h,7453,OpenPlay,2019,LeftFoot,11046,Rubin Kazan,FK Akhmat,1,0,2019-07-29 17:00:00,Zuriko Davitashvili,TakeOn
+307777,85,SavedShot,0.94,0.3940000152587891,0.14570799469947815,Khvicha Kvaratskhelia,h,7453,OpenPlay,2019,RightFoot,11046,Rubin Kazan,FK Akhmat,1,0,2019-07-29 17:00:00,Vidar Orn Kjartansson,Throughball
+308215,68,MissedShots,0.765,0.6769999694824219,0.015422699972987175,Khvicha Kvaratskhelia,a,7453,FromCorner,2019,RightFoot,11056,FC Krasnodar,Rubin Kazan,1,0,2019-08-10 17:00:00,Filip Uremovic,Pass
+308219,74,MissedShots,0.91,0.649000015258789,0.04345859959721565,Khvicha Kvaratskhelia,a,7453,OpenPlay,2019,RightFoot,11056,FC Krasnodar,Rubin Kazan,1,0,2019-08-10 17:00:00,Oleg Danchenko,Cross
+309496,3,BlockedShot,0.7240000152587891,0.6890000152587891,0.012278500013053417,Khvicha Kvaratskhelia,h,7453,OpenPlay,2019,RightFoot,11067,Rubin Kazan,Arsenal Tula,1,0,2019-08-18 12:00:00,Danil Stepanov,Pass
+309501,27,MissedShots,0.8519999694824218,0.5159999847412109,0.05932009965181351,Khvicha Kvaratskhelia,h,7453,OpenPlay,2019,RightFoot,11067,Rubin Kazan,Arsenal Tula,1,0,2019-08-18 12:00:00,Vidar Orn Kjartansson,HeadPass
+315536,34,SavedShot,0.805,0.69,0.022950099781155586,Khvicha Kvaratskhelia,h,7453,OpenPlay,2019,RightFoot,11081,Rubin Kazan,PFC Sochi,0,3,2019-08-31 12:00:00,Igor Konovalov,Pass
+315545,61,MissedShots,0.9019999694824219,0.38799999237060545,0.0588361993432045,Khvicha Kvaratskhelia,h,7453,FromCorner,2019,RightFoot,11081,Rubin Kazan,PFC Sochi,0,3,2019-08-31 12:00:00,Zuriko Davitashvili,Pass
+315554,88,BlockedShot,0.735,0.6930000305175781,0.008590210229158401,Khvicha Kvaratskhelia,h,7453,OpenPlay,2019,RightFoot,11081,Rubin Kazan,PFC Sochi,0,3,2019-08-31 12:00:00,Zuriko Davitashvili,Pass
+317814,93,MissedShots,0.875999984741211,0.4420000076293945,0.0208257008343935,Khvicha Kvaratskhelia,a,7453,OpenPlay,2019,Head,11094,FC Orenburg,Rubin Kazan,2,1,2019-09-15 11:00:00,Aleksandr Zuev,Aerial
+323208,88,MissedShots,0.765,0.4879999923706055,0.029119599610567093,Khvicha Kvaratskhelia,h,7453,OpenPlay,2019,RightFoot,11106,Rubin Kazan,FC Ufa,0,0,2019-09-29 11:00:00,Igor Konovalov,Pass
+323967,85,MissedShots,0.9340000152587891,0.5509999847412109,0.4454210102558136,Khvicha Kvaratskhelia,h,7453,OpenPlay,2019,LeftFoot,11112,Rubin Kazan,FC Tambov,2,1,2019-10-05 14:30:00,Igor Konovalov,TakeOn
+326747,71,SavedShot,0.8580000305175781,0.34799999237060547,0.06392470002174377,Khvicha Kvaratskhelia,h,7453,OpenPlay,2019,LeftFoot,11132,Rubin Kazan,Ural,0,0,2019-10-25 17:30:00,Vyacheslav Podberezkin,Pass
+331886,75,SavedShot,0.6859999847412109,0.625999984741211,0.014748300425708294,Khvicha Kvaratskhelia,h,7453,OpenPlay,2019,RightFoot,11155,Rubin Kazan,Zenit St. Petersburg,1,2,2019-11-23 11:00:00,Egor Sorokin,Pass
+333752,85,MissedShots,0.74,0.590999984741211,0.018737899139523506,Khvicha Kvaratskhelia,a,7453,OpenPlay,2019,LeftFoot,11164,FK Akhmat,Rubin Kazan,1,1,2019-11-30 16:00:00,Zuriko Davitashvili,Pass
+333753,86,MissedShots,0.9580000305175781,0.35900001525878905,0.08424299955368042,Khvicha Kvaratskhelia,a,7453,OpenPlay,2019,RightFoot,11164,FK Akhmat,Rubin Kazan,1,1,2019-11-30 16:00:00,Vyacheslav Podberezkin,TakeOn
+333757,92,Goal,0.8640000152587891,0.725999984741211,0.030620699748396873,Khvicha Kvaratskhelia,a,7453,OpenPlay,2019,RightFoot,11164,FK Akhmat,Rubin Kazan,1,1,2019-11-30 16:00:00,Vidar Orn Kjartansson,Pass
+336185,61,MissedShots,0.75,0.455,0.02775619924068451,Khvicha Kvaratskhelia,a,7453,FromCorner,2019,LeftFoot,11168,PFC Sochi,Rubin Kazan,1,1,2019-12-08 13:30:00,Vyacheslav Podberezkin,Pass
+361177,25,MissedShots,0.8780000305175781,0.580999984741211,0.120107002556324,Khvicha Kvaratskhelia,a,7453,OpenPlay,2019,RightFoot,11177,FC Tambov,Rubin Kazan,0,0,2020-03-01 11:00:00,,TakeOn
+361186,58,BlockedShot,0.8130000305175781,0.5609999847412109,0.14026899635791779,Khvicha Kvaratskhelia,a,7453,DirectFreekick,2019,RightFoot,11177,FC Tambov,Rubin Kazan,0,0,2020-03-01 11:00:00,,Standard
+361187,58,BlockedShot,0.82,0.54,0.039722200483083725,Khvicha Kvaratskhelia,a,7453,SetPiece,2019,RightFoot,11177,FC Tambov,Rubin Kazan,0,0,2020-03-01 11:00:00,,Rebound
+361193,77,MissedShots,0.7380000305175781,0.3340000152587891,0.014453199692070484,Khvicha Kvaratskhelia,a,7453,OpenPlay,2019,RightFoot,11177,FC Tambov,Rubin Kazan,0,0,2020-03-01 11:00:00,,BallRecovery
+361990,35,MissedShots,0.855,0.6279999923706054,0.05505580082535744,Khvicha Kvaratskhelia,h,7453,OpenPlay,2019,LeftFoot,11187,Rubin Kazan,Krylya Sovetov Samara,0,1,2020-03-08 11:00:00,,None
+365149,38,Goal,0.9440000152587891,0.49599998474121093,0.14265699684619904,Khvicha Kvaratskhelia,a,7453,FromCorner,2019,RightFoot,11206,Ural,Rubin Kazan,1,2,2020-06-20 11:00:00,Pavel Mogilevets,Cross
+365156,59,MissedShots,0.745,0.49700000762939456,0.021499300375580788,Khvicha Kvaratskhelia,a,7453,OpenPlay,2019,RightFoot,11206,Ural,Rubin Kazan,1,2,2020-06-20 11:00:00,Vyacheslav Podberezkin,Pass
+365165,83,SavedShot,0.87,0.7909999847412109,0.02133830077946186,Khvicha Kvaratskhelia,a,7453,OpenPlay,2019,RightFoot,11206,Ural,Rubin Kazan,1,2,2020-06-20 11:00:00,Aleksandr Zuev,Pass
+367092,14,BlockedShot,0.785,0.5359999847412109,0.05633910000324249,Khvicha Kvaratskhelia,h,7453,OpenPlay,2019,RightFoot,11212,Rubin Kazan,Lokomotiv Moscow,0,2,2020-06-27 14:30:00,Darko Jevtic,Pass
+367100,38,MissedShots,0.779000015258789,0.64,0.02509870007634163,Khvicha Kvaratskhelia,h,7453,OpenPlay,2019,RightFoot,11212,Rubin Kazan,Lokomotiv Moscow,0,2,2020-06-27 14:30:00,Oliver Abildgaard,Pass
+367837,31,SavedShot,0.8109999847412109,0.6790000152587891,0.025512099266052246,Khvicha Kvaratskhelia,a,7453,OpenPlay,2019,RightFoot,11221,FC Ufa,Rubin Kazan,0,0,2020-07-01 12:00:00,Aleksandr Zuev,Pass
+367848,52,MissedShots,0.7959999847412109,0.5779999923706055,0.039432600140571594,Khvicha Kvaratskhelia,a,7453,OpenPlay,2019,LeftFoot,11221,FC Ufa,Rubin Kazan,0,0,2020-07-01 12:00:00,,Interception
+367854,64,SavedShot,0.92,0.6940000152587891,0.06737309694290161,Khvicha Kvaratskhelia,a,7453,OpenPlay,2019,LeftFoot,11221,FC Ufa,Rubin Kazan,0,0,2020-07-01 12:00:00,Aleksandr Zuev,Pass
+369003,33,MissedShots,0.875999984741211,0.47900001525878905,0.11593800038099289,Khvicha Kvaratskhelia,h,7453,OpenPlay,2019,RightFoot,11227,Rubin Kazan,FC Orenburg,1,0,2020-07-05 15:30:00,Darko Jevtic,Pass
+369005,39,SavedShot,0.9540000152587891,0.6409999847412109,0.10628200322389603,Khvicha Kvaratskhelia,h,7453,OpenPlay,2019,RightFoot,11227,Rubin Kazan,FC Orenburg,1,0,2020-07-05 15:30:00,Igor Konovalov,TakeOn
+369013,54,MissedShots,0.7319999694824219,0.5459999847412109,0.018091000616550446,Khvicha Kvaratskhelia,h,7453,OpenPlay,2019,RightFoot,11227,Rubin Kazan,FC Orenburg,1,0,2020-07-05 15:30:00,Oliver Abildgaard,Pass
+369016,61,MissedShots,0.874000015258789,0.515,0.0220830999314785,Khvicha Kvaratskhelia,h,7453,FromCorner,2019,Head,11227,Rubin Kazan,FC Orenburg,1,0,2020-07-05 15:30:00,Ivan Ignatyev,Cross
+369017,63,SavedShot,0.7909999847412109,0.6930000305175781,0.017215700820088387,Khvicha Kvaratskhelia,h,7453,OpenPlay,2019,RightFoot,11227,Rubin Kazan,FC Orenburg,1,0,2020-07-05 15:30:00,Aleksandr Zuev,TakeOn
+370195,32,BlockedShot,0.8469999694824218,0.6270000076293946,0.05004439875483513,Khvicha Kvaratskhelia,h,7453,OpenPlay,2019,RightFoot,11235,Rubin Kazan,FC Krasnodar,1,0,2020-07-09 17:30:00,Denis Makarov,Chipped
+370196,32,BlockedShot,0.8719999694824219,0.625,0.054571401327848434,Khvicha Kvaratskhelia,h,7453,OpenPlay,2019,LeftFoot,11235,Rubin Kazan,FC Krasnodar,1,0,2020-07-09 17:30:00,,Rebound
+370847,38,MissedShots,0.874000015258789,0.659000015258789,0.07105179876089096,Khvicha Kvaratskhelia,a,7453,OpenPlay,2019,RightFoot,11240,CSKA Moscow,Rubin Kazan,1,1,2020-07-12 15:30:00,Darko Jevtic,Pass
+370856,56,SavedShot,0.759000015258789,0.5790000152587891,0.021788299083709717,Khvicha Kvaratskhelia,a,7453,OpenPlay,2019,RightFoot,11240,CSKA Moscow,Rubin Kazan,1,1,2020-07-12 15:30:00,,None
+371790,45,SavedShot,0.74,0.7380000305175781,0.010802400298416615,Khvicha Kvaratskhelia,h,7453,OpenPlay,2019,RightFoot,11251,Rubin Kazan,FC Rostov,0,0,2020-07-16 15:00:00,Denis Makarov,Pass
+371791,47,MissedShots,0.86,0.7619999694824219,0.026065299287438393,Khvicha Kvaratskhelia,h,7453,OpenPlay,2019,RightFoot,11251,Rubin Kazan,FC Rostov,0,0,2020-07-16 15:00:00,Ilya Samoshnikov,Pass
+371795,59,SavedShot,0.825999984741211,0.629000015258789,0.04365070164203644,Khvicha Kvaratskhelia,h,7453,OpenPlay,2019,RightFoot,11251,Rubin Kazan,FC Rostov,0,0,2020-07-16 15:00:00,Pablo Santos,Chipped
+371803,88,SavedShot,0.9019999694824219,0.6029999923706054,0.10156799852848053,Khvicha Kvaratskhelia,h,7453,OpenPlay,2019,RightFoot,11251,Rubin Kazan,FC Rostov,0,0,2020-07-16 15:00:00,Ilya Samoshnikov,TakeOn
+373160,6,SavedShot,0.8540000152587891,0.6029999923706054,0.04725490137934685,Khvicha Kvaratskhelia,h,7453,OpenPlay,2019,RightFoot,11259,Rubin Kazan,Spartak Moscow,1,2,2020-07-22 16:00:00,Soltmurad Bakaev,Cross
+373162,28,MissedShots,0.5170000076293946,0.794000015258789,0.00687891012057662,Khvicha Kvaratskhelia,h,7453,OpenPlay,2019,RightFoot,11259,Rubin Kazan,Spartak Moscow,1,2,2020-07-22 16:00:00,Igor Konovalov,BallRecovery
+373170,68,MissedShots,0.855,0.6179999923706054,0.08069869875907898,Khvicha Kvaratskhelia,h,7453,OpenPlay,2019,LeftFoot,11259,Rubin Kazan,Spartak Moscow,1,2,2020-07-22 16:00:00,,TakeOn
+374837,20,BlockedShot,0.8590000152587891,0.6730000305175782,0.04509520158171654,Khvicha Kvaratskhelia,h,7453,OpenPlay,2020,RightFoot,14004,Rubin Kazan,Lokomotiv Moscow,0,2,2020-08-11 17:00:00,Mikhail Merkulov,TakeOn
+374963,5,MissedShots,0.8909999847412109,0.6359999847412109,0.05079580098390579,Khvicha Kvaratskhelia,h,7453,OpenPlay,2020,RightFoot,14008,Rubin Kazan,Ural,1,1,2020-08-15 12:30:00,Soltmurad Bakaev,Cross
+374981,68,SavedShot,0.8540000152587891,0.7569999694824219,0.02916320040822029,Khvicha Kvaratskhelia,h,7453,OpenPlay,2020,RightFoot,14008,Rubin Kazan,Ural,1,1,2020-08-15 12:30:00,Ilya Samoshnikov,TakeOn
+375092,35,MissedShots,0.7559999847412109,0.524000015258789,0.024707600474357605,Khvicha Kvaratskhelia,a,7453,OpenPlay,2020,RightFoot,14013,PFC Sochi,Rubin Kazan,3,2,2020-08-18 15:00:00,Soltmurad Bakaev,BallRecovery
+375098,58,SavedShot,0.8159999847412109,0.385,0.03966670110821724,Khvicha Kvaratskhelia,a,7453,OpenPlay,2020,LeftFoot,14013,PFC Sochi,Rubin Kazan,3,2,2020-08-18 15:00:00,,Rebound
+375111,94,MissedShots,0.7969999694824219,0.37900001525878907,0.026232000440359116,Khvicha Kvaratskhelia,a,7453,OpenPlay,2020,RightFoot,14013,PFC Sochi,Rubin Kazan,3,2,2020-08-18 15:00:00,Darko Jevtic,Chipped
+375629,33,SavedShot,0.77,0.6170000076293946,0.02239540033042431,Khvicha Kvaratskhelia,a,7453,OpenPlay,2020,RightFoot,14025,CSKA Moscow,Rubin Kazan,1,2,2020-08-22 17:00:00,Filip Uremovic,TakeOn
+375645,77,SavedShot,0.9419999694824219,0.6270000076293946,0.1941249966621399,Khvicha Kvaratskhelia,a,7453,OpenPlay,2020,Head,14025,CSKA Moscow,Rubin Kazan,1,2,2020-08-22 17:00:00,Denis Makarov,Cross
+375944,39,SavedShot,0.870999984741211,0.655,0.06526420265436172,Khvicha Kvaratskhelia,h,7453,OpenPlay,2020,LeftFoot,14031,Rubin Kazan,FC Ufa,3,0,2020-08-26 15:30:00,Filip Uremovic,Pass
+375946,42,SavedShot,0.9059999847412109,0.6819999694824219,0.05812570080161095,Khvicha Kvaratskhelia,h,7453,OpenPlay,2020,RightFoot,14031,Rubin Kazan,FC Ufa,3,0,2020-08-26 15:30:00,,Dispossessed
+375947,43,MissedShots,0.815,0.624000015258789,0.04057230055332184,Khvicha Kvaratskhelia,h,7453,OpenPlay,2020,RightFoot,14031,Rubin Kazan,FC Ufa,3,0,2020-08-26 15:30:00,,None
+375950,50,SavedShot,0.8830000305175781,0.6519999694824219,0.2824479937553406,Khvicha Kvaratskhelia,h,7453,OpenPlay,2020,LeftFoot,14031,Rubin Kazan,FC Ufa,3,0,2020-08-26 15:30:00,Hwang In-Beom,Pass
+375958,68,SavedShot,0.85,0.7419999694824219,0.04222710058093071,Khvicha Kvaratskhelia,h,7453,OpenPlay,2020,RightFoot,14031,Rubin Kazan,FC Ufa,3,0,2020-08-26 15:30:00,Hwang In-Beom,Pass
+375965,80,BlockedShot,0.835999984741211,0.615999984741211,0.0664898008108139,Khvicha Kvaratskhelia,h,7453,OpenPlay,2020,RightFoot,14031,Rubin Kazan,FC Ufa,3,0,2020-08-26 15:30:00,Hwang In-Beom,Pass
+375966,82,SavedShot,0.875,0.6430000305175781,0.0930795967578888,Khvicha Kvaratskhelia,h,7453,OpenPlay,2020,RightFoot,14031,Rubin Kazan,FC Ufa,3,0,2020-08-26 15:30:00,Hwang In-Beom,Pass
+376289,28,SavedShot,0.8769999694824219,0.6509999847412109,0.06632319837808609,Khvicha Kvaratskhelia,h,7453,OpenPlay,2020,RightFoot,14037,Rubin Kazan,FC Tambov,2,2,2020-08-30 15:00:00,Hwang In-Beom,Pass
+376292,45,SavedShot,0.8019999694824219,0.5429999923706055,0.051981400698423386,Khvicha Kvaratskhelia,h,7453,OpenPlay,2020,RightFoot,14037,Rubin Kazan,FC Tambov,2,2,2020-08-30 15:00:00,Darko Jevtic,Pass
+378074,0,BlockedShot,0.9269999694824219,0.664000015258789,0.07329069823026657,Khvicha Kvaratskhelia,h,7453,OpenPlay,2020,LeftFoot,14238,Rubin Kazan,Spartak Moscow,0,2,2020-09-20 13:30:00,Darko Jevtic,Pass
+378080,30,BlockedShot,0.9019999694824219,0.6029999923706054,0.06677909940481186,Khvicha Kvaratskhelia,h,7453,OpenPlay,2020,RightFoot,14238,Rubin Kazan,Spartak Moscow,0,2,2020-09-20 13:30:00,,None
+378083,35,MissedShots,0.9159999847412109,0.654000015258789,0.026766199618577957,Khvicha Kvaratskhelia,h,7453,SetPiece,2020,RightFoot,14238,Rubin Kazan,Spartak Moscow,0,2,2020-09-20 13:30:00,,Aerial
+379739,16,BlockedShot,0.84,0.7759999847412109,0.021520700305700302,Khvicha Kvaratskhelia,a,7453,OpenPlay,2020,RightFoot,14247,FC Rotor Volgograd,Rubin Kazan,1,3,2020-09-27 16:00:00,Hwang In-Beom,Pass
+379743,23,MissedShots,0.725999984741211,0.6630000305175782,0.03720029816031456,Khvicha Kvaratskhelia,a,7453,DirectFreekick,2020,RightFoot,14247,FC Rotor Volgograd,Rubin Kazan,1,3,2020-09-27 16:00:00,,Standard
+379755,58,Goal,0.825,0.6459999847412109,0.05299289897084236,Khvicha Kvaratskhelia,a,7453,OpenPlay,2020,RightFoot,14247,FC Rotor Volgograd,Rubin Kazan,1,3,2020-09-27 16:00:00,,None
+379767,93,BlockedShot,0.8669999694824219,0.595999984741211,0.08505590260028839,Khvicha Kvaratskhelia,a,7453,OpenPlay,2020,RightFoot,14247,FC Rotor Volgograd,Rubin Kazan,1,3,2020-09-27 16:00:00,,BlockedPass
+381241,32,BlockedShot,0.9690000152587891,0.6730000305175782,0.06865890324115753,Khvicha Kvaratskhelia,h,7453,OpenPlay,2020,LeftFoot,14302,Rubin Kazan,FK Akhmat,1,1,2020-10-04 13:30:00,Darko Jevtic,TakeOn
+381248,52,Goal,0.975,0.654000015258789,0.3941890001296997,Khvicha Kvaratskhelia,h,7453,OpenPlay,2020,RightFoot,14302,Rubin Kazan,FK Akhmat,1,1,2020-10-04 13:30:00,,TakeOn
+383222,3,BlockedShot,0.8830000305175781,0.6309999847412109,0.09049669653177261,Khvicha Kvaratskhelia,a,7453,OpenPlay,2020,RightFoot,14320,Zenit St. Petersburg,Rubin Kazan,1,2,2020-10-24 13:30:00,Hwang In-Beom,Pass
+383226,26,ShotOnPost,0.8980000305175782,0.6170000076293946,0.3156690001487732,Khvicha Kvaratskhelia,a,7453,OpenPlay,2020,RightFoot,14320,Zenit St. Petersburg,Rubin Kazan,1,2,2020-10-24 13:30:00,Djorde Despotovic,Pass
+386304,80,MissedShots,0.8,0.7609999847412109,0.015264400281012058,Khvicha Kvaratskhelia,a,7453,OpenPlay,2020,RightFoot,14329,Khimki,Rubin Kazan,2,0,2020-11-08 11:00:00,Georgi Zotov,Pass
+389939,76,SavedShot,0.850999984741211,0.8,0.009168479591608047,Khvicha Kvaratskhelia,a,7453,OpenPlay,2020,RightFoot,14356,Lokomotiv Moscow,Rubin Kazan,3,1,2020-12-05 11:00:00,Nikita Medvedev,TakeOn
+391853,0,MissedShots,0.865999984741211,0.38,0.0997454971075058,Khvicha Kvaratskhelia,a,7453,OpenPlay,2020,RightFoot,14365,FC Tambov,Rubin Kazan,0,1,2020-12-13 11:00:00,Djorde Despotovic,TakeOn
+391862,21,BlockedShot,0.9169999694824219,0.66,0.09890230000019073,Khvicha Kvaratskhelia,a,7453,OpenPlay,2020,RightFoot,14365,FC Tambov,Rubin Kazan,0,1,2020-12-13 11:00:00,Darko Jevtic,Pass
+391866,36,BlockedShot,0.919000015258789,0.6419999694824219,0.06001000106334686,Khvicha Kvaratskhelia,a,7453,OpenPlay,2020,LeftFoot,14365,FC Tambov,Rubin Kazan,0,1,2020-12-13 11:00:00,Georgi Zotov,Cross
+391867,43,MissedShots,0.8819999694824219,0.6179999923706054,0.13381700217723846,Khvicha Kvaratskhelia,a,7453,OpenPlay,2020,RightFoot,14365,FC Tambov,Rubin Kazan,0,1,2020-12-13 11:00:00,Denis Makarov,Pass
+391870,53,BlockedShot,0.8630000305175781,0.659000015258789,0.062364399433135986,Khvicha Kvaratskhelia,a,7453,OpenPlay,2020,RightFoot,14365,FC Tambov,Rubin Kazan,0,1,2020-12-13 11:00:00,Denis Makarov,Pass
+407006,3,BlockedShot,0.7680000305175781,0.605,0.02298099920153618,Khvicha Kvaratskhelia,a,7453,OpenPlay,2020,RightFoot,14378,Spartak Moscow,Rubin Kazan,0,2,2021-02-28 11:00:00,,None
+407028,88,SavedShot,0.8190000152587891,0.48900001525878906,0.05432429909706116,Khvicha Kvaratskhelia,a,7453,OpenPlay,2020,RightFoot,14378,Spartak Moscow,Rubin Kazan,0,2,2021-02-28 11:00:00,,Rebound
+409291,2,MissedShots,0.779000015258789,0.740999984741211,0.013369300402700901,Khvicha Kvaratskhelia,h,7453,OpenPlay,2020,RightFoot,14390,Rubin Kazan,Zenit St. Petersburg,2,1,2021-03-08 13:30:00,Ilya Samoshnikov,TakeOn
+409298,18,SavedShot,0.8519999694824218,0.6329999923706054,0.05115029960870743,Khvicha Kvaratskhelia,h,7453,OpenPlay,2020,LeftFoot,14390,Rubin Kazan,Zenit St. Petersburg,2,1,2021-03-08 13:30:00,Denis Makarov,None
+409314,84,MissedShots,0.865999984741211,0.33099998474121095,0.017416000366210938,Khvicha Kvaratskhelia,h,7453,SetPiece,2020,RightFoot,14390,Rubin Kazan,Zenit St. Petersburg,2,1,2021-03-08 13:30:00,,Aerial
+410201,27,MissedShots,0.87,0.649000015258789,0.07191859930753708,Khvicha Kvaratskhelia,a,7453,OpenPlay,2020,RightFoot,14398,FC Ufa,Rubin Kazan,0,3,2021-03-14 11:00:00,Oleg Shatov,Pass
+410205,38,SavedShot,0.764000015258789,0.6730000305175782,0.017565099522471428,Khvicha Kvaratskhelia,a,7453,OpenPlay,2020,RightFoot,14398,FC Ufa,Rubin Kazan,0,3,2021-03-14 11:00:00,Denis Makarov,Pass
+410207,41,Goal,0.8680000305175781,0.5279999923706055,0.1094919964671135,Khvicha Kvaratskhelia,a,7453,OpenPlay,2020,RightFoot,14398,FC Ufa,Rubin Kazan,0,3,2021-03-14 11:00:00,Mikhail Kostyukov,Pass
+410217,76,MissedShots,0.794000015258789,0.395,0.021863199770450592,Khvicha Kvaratskhelia,a,7453,FromCorner,2020,RightFoot,14398,FC Ufa,Rubin Kazan,0,3,2021-03-14 11:00:00,,None
+411035,26,MissedShots,0.9669999694824218,0.55,0.5893779993057251,Khvicha Kvaratskhelia,h,7453,OpenPlay,2020,RightFoot,14407,Rubin Kazan,Khimki,1,3,2021-03-19 16:00:00,Denis Makarov,Cross
+411045,68,SavedShot,0.9209999847412109,0.5220000076293946,0.4810349941253662,Khvicha Kvaratskhelia,h,7453,OpenPlay,2020,RightFoot,14407,Rubin Kazan,Khimki,1,3,2021-03-19 16:00:00,,Rebound
+411046,73,SavedShot,0.745,0.42400001525878905,0.01948699913918972,Khvicha Kvaratskhelia,h,7453,OpenPlay,2020,LeftFoot,14407,Rubin Kazan,Khimki,1,3,2021-03-19 16:00:00,Oleg Shatov,Pass
+412494,70,Goal,0.754000015258789,0.6719999694824219,0.015437300316989422,Khvicha Kvaratskhelia,h,7453,FromCorner,2020,RightFoot,14411,Rubin Kazan,PFC Sochi,1,0,2021-04-03 13:30:00,Oleg Shatov,Pass
+412495,91,SavedShot,0.8119999694824219,0.46099998474121096,0.06284590065479279,Khvicha Kvaratskhelia,h,7453,OpenPlay,2020,RightFoot,14411,Rubin Kazan,PFC Sochi,1,0,2021-04-03 13:30:00,Aleksandr Zuev,Interception
+413964,69,SavedShot,0.8059999847412109,0.6029999923706054,0.03554210066795349,Khvicha Kvaratskhelia,a,7453,OpenPlay,2020,RightFoot,14424,FC Rostov,Rubin Kazan,0,1,2021-04-10 16:00:00,Denis Makarov,Chipped
+415508,0,SavedShot,0.8619999694824219,0.6990000152587891,0.032473400235176086,Khvicha Kvaratskhelia,a,7453,OpenPlay,2020,RightFoot,14425,Ural,Rubin Kazan,0,1,2021-04-18 09:00:00,Oleg Shatov,Pass
+424709,58,SavedShot,0.8209999847412109,0.620999984741211,0.062345199286937714,Khvicha Kvaratskhelia,h,7453,OpenPlay,2021,LeftFoot,16139,Rubin Kazan,Spartak Moscow,1,0,2021-07-24 19:00:00,Oliver Abildgaard,BallRecovery
+424711,63,MissedShots,0.9009999847412109,0.6170000076293946,0.09877429902553558,Khvicha Kvaratskhelia,h,7453,OpenPlay,2021,RightFoot,16139,Rubin Kazan,Spartak Moscow,1,0,2021-07-24 19:00:00,,None
+424872,22,BlockedShot,0.7580000305175781,0.539000015258789,0.031596001237630844,Khvicha Kvaratskhelia,a,7453,OpenPlay,2021,RightFoot,16145,Arsenal Tula,Rubin Kazan,0,3,2021-07-30 16:00:00,Ilya Samoshnikov,Pass
+424875,37,MissedShots,0.7559999847412109,0.4929999923706055,0.025010300800204277,Khvicha Kvaratskhelia,a,7453,FromCorner,2021,RightFoot,16145,Arsenal Tula,Rubin Kazan,0,3,2021-07-30 16:00:00,Oleg Shatov,Pass
+424876,39,Goal,0.8019999694824219,0.6090000152587891,0.08353549987077713,Khvicha Kvaratskhelia,a,7453,OpenPlay,2021,RightFoot,16145,Arsenal Tula,Rubin Kazan,0,3,2021-07-30 16:00:00,Sead Haksabanovic,Pass
+424881,43,SavedShot,0.8230000305175781,0.4640000152587891,0.05280650034546852,Khvicha Kvaratskhelia,a,7453,OpenPlay,2021,RightFoot,16145,Arsenal Tula,Rubin Kazan,0,3,2021-07-30 16:00:00,Djorde Despotovic,BallRecovery
+424882,46,BlockedShot,0.8590000152587891,0.7380000305175781,0.04118200019001961,Khvicha Kvaratskhelia,a,7453,OpenPlay,2021,RightFoot,16145,Arsenal Tula,Rubin Kazan,0,3,2021-07-30 16:00:00,Djorde Despotovic,Pass
+424896,65,SavedShot,0.924000015258789,0.6840000152587891,0.10170800238847733,Khvicha Kvaratskhelia,a,7453,OpenPlay,2021,LeftFoot,16145,Arsenal Tula,Rubin Kazan,0,3,2021-07-30 16:00:00,Oleg Shatov,TakeOn
+425426,4,MissedShots,0.885,0.325,0.047391898930072784,Khvicha Kvaratskhelia,h,7453,SetPiece,2021,LeftFoot,16157,Rubin Kazan,FK Akhmat,2,1,2021-08-08 17:00:00,,None
+425438,69,SavedShot,0.8030000305175782,0.7419999694824219,0.02045080065727234,Khvicha Kvaratskhelia,h,7453,OpenPlay,2021,RightFoot,16157,Rubin Kazan,FK Akhmat,2,1,2021-08-08 17:00:00,Oliver Abildgaard,Pass
+425439,74,SavedShot,0.9230000305175782,0.7119999694824218,0.015319200232625008,Khvicha Kvaratskhelia,h,7453,FromCorner,2021,RightFoot,16157,Rubin Kazan,FK Akhmat,2,1,2021-08-08 17:00:00,Darko Jevtic,TakeOn
+425440,78,SavedShot,0.9219999694824219,0.6790000152587891,0.0761537030339241,Khvicha Kvaratskhelia,h,7453,OpenPlay,2021,RightFoot,16157,Rubin Kazan,FK Akhmat,2,1,2021-08-08 17:00:00,Ivan Ignatyev,Pass
+425441,80,MissedShots,0.805,0.675,0.02802469953894615,Khvicha Kvaratskhelia,h,7453,OpenPlay,2021,RightFoot,16157,Rubin Kazan,FK Akhmat,2,1,2021-08-08 17:00:00,Ilya Samoshnikov,Pass
+426558,87,MissedShots,0.8059999847412109,0.675,0.029622700065374374,Khvicha Kvaratskhelia,h,7453,OpenPlay,2021,RightFoot,16165,Rubin Kazan,Krylya Sovetov Samara,1,1,2021-08-15 17:00:00,Vladislav Ignatjev,TakeOn
+430814,17,SavedShot,0.8419999694824218,0.5690000152587891,0.04794260114431381,Khvicha Kvaratskhelia,h,7453,FromCorner,2021,RightFoot,16190,Rubin Kazan,Ural,4,0,2021-09-13 15:30:00,Georgi Zotov,Pass
+432281,55,MissedShots,0.6320000076293946,0.675,0.0066908299922943115,Khvicha Kvaratskhelia,h,7453,OpenPlay,2021,RightFoot,16196,Rubin Kazan,Zenit St. Petersburg,1,3,2021-09-20 15:30:00,,Tackle
+433866,55,MissedShots,0.8130000305175781,0.6179999923706054,0.03623490035533905,Khvicha Kvaratskhelia,a,7453,OpenPlay,2021,RightFoot,16204,Dinamo Moscow,Rubin Kazan,2,0,2021-09-26 11:00:00,,None
+434629,48,SavedShot,0.885,0.5,0.7542750239372253,Khvicha Kvaratskhelia,h,7453,Penalty,2021,RightFoot,16213,Rubin Kazan,Nizhny Novgorod,0,1,2021-10-02 11:00:00,,Standard
+434636,67,MissedShots,0.894000015258789,0.6930000305175781,0.0427170991897583,Khvicha Kvaratskhelia,h,7453,OpenPlay,2021,RightFoot,16213,Rubin Kazan,Nizhny Novgorod,0,1,2021-10-02 11:00:00,,None
+436153,9,MissedShots,0.8969999694824219,0.72,0.04379180073738098,Khvicha Kvaratskhelia,h,7453,OpenPlay,2021,RightFoot,16220,Rubin Kazan,Lokomotiv Moscow,2,2,2021-10-16 13:30:00,Sead Haksabanovic,Pass
+436172,53,SavedShot,0.795,0.835999984741211,0.01743290014564991,Khvicha Kvaratskhelia,h,7453,OpenPlay,2021,RightFoot,16220,Rubin Kazan,Lokomotiv Moscow,2,2,2021-10-16 13:30:00,Hwang In-Beom,Pass
+436175,59,SavedShot,0.8730000305175781,0.7269999694824218,0.04233669862151146,Khvicha Kvaratskhelia,h,7453,OpenPlay,2021,RightFoot,16220,Rubin Kazan,Lokomotiv Moscow,2,2,2021-10-16 13:30:00,Ilya Samoshnikov,Pass
+436187,90,SavedShot,0.8680000305175781,0.6930000305175781,0.0534529983997345,Khvicha Kvaratskhelia,h,7453,OpenPlay,2021,RightFoot,16220,Rubin Kazan,Lokomotiv Moscow,2,2,2021-10-16 13:30:00,Ivan Ignatyev,TakeOn
+438126,92,SavedShot,0.840999984741211,0.18799999237060547,0.011276200413703918,Khvicha Kvaratskhelia,a,7453,SetPiece,2021,LeftFoot,16231,FC Ufa,Rubin Kazan,1,1,2021-10-24 11:00:00,,None
+439354,34,BlockedShot,0.784000015258789,0.41900001525878905,0.03271939978003502,Khvicha Kvaratskhelia,h,7453,OpenPlay,2021,RightFoot,16239,Rubin Kazan,CSKA Moscow,1,0,2021-10-30 11:00:00,,BallRecovery
+439359,43,MissedShots,0.7280000305175781,0.5729999923706055,0.015284700319170952,Khvicha Kvaratskhelia,h,7453,OpenPlay,2021,RightFoot,16239,Rubin Kazan,CSKA Moscow,1,0,2021-10-30 11:00:00,Hwang In-Beom,Pass
+441489,38,MissedShots,0.8530000305175781,0.590999984741211,0.08137129992246628,Khvicha Kvaratskhelia,a,7453,OpenPlay,2021,RightFoot,16241,FC Rostov,Rubin Kazan,5,1,2021-11-07 13:30:00,Oliver Abildgaard,TakeOn
+441513,85,SavedShot,0.835999984741211,0.7030000305175781,0.020816100761294365,Khvicha Kvaratskhelia,a,7453,FromCorner,2021,RightFoot,16241,FC Rostov,Rubin Kazan,5,1,2021-11-07 13:30:00,,None
+444493,40,MissedShots,0.7609999847412109,0.61,0.024269500747323036,Khvicha Kvaratskhelia,h,7453,OpenPlay,2021,RightFoot,16258,Rubin Kazan,Dinamo Moscow,2,3,2021-11-28 13:30:00,Hwang In-Beom,Pass
+444502,69,SavedShot,0.7780000305175782,0.759000015258789,0.015024599619209766,Khvicha Kvaratskhelia,h,7453,OpenPlay,2021,RightFoot,16258,Rubin Kazan,Dinamo Moscow,2,3,2021-11-28 13:30:00,Sead Haksabanovic,Pass
+447406,20,SavedShot,0.740999984741211,0.544000015258789,0.01426950003951788,Khvicha Kvaratskhelia,a,7453,OpenPlay,2021,RightFoot,16274,Krylya Sovetov Samara,Rubin Kazan,2,0,2021-12-11 11:00:00,Anders Dreyer,Chipped
+447418,63,BlockedShot,0.8640000152587891,0.46700000762939453,0.056587301194667816,Khvicha Kvaratskhelia,a,7453,OpenPlay,2021,RightFoot,16274,Krylya Sovetov Samara,Rubin Kazan,2,0,2021-12-11 11:00:00,Soltmurad Bakaev,TakeOn
+460622,63,MissedShots,0.73,0.4879999923706055,0.048586100339889526,Khvicha Kvaratskhelia,a,7453,DirectFreekick,2021,RightFoot,16280,Zenit St. Petersburg,Rubin Kazan,3,2,2022-02-28 16:00:00,,Standard
+463452,4,MissedShots,0.77,0.655,0.022949500009417534,Khvicha Kvaratskhelia,h,7453,OpenPlay,2021,RightFoot,16299,Rubin Kazan,FC Rostov,1,2,2022-03-14 16:00:00,Alexander Lomovitskiy,Pass
+463473,76,Goal,0.8230000305175781,0.87,0.032358601689338684,Khvicha Kvaratskhelia,h,7453,DirectFreekick,2021,RightFoot,16299,Rubin Kazan,FC Rostov,1,2,2022-03-14 16:00:00,,Standard
+463474,79,BlockedShot,0.750999984741211,0.495,0.022286800667643547,Khvicha Kvaratskhelia,h,7453,OpenPlay,2021,RightFoot,16299,Rubin Kazan,FC Rostov,1,2,2022-03-14 16:00:00,German Onugkha,Pass
+463475,91,SavedShot,0.87,0.705,0.034843798726797104,Khvicha Kvaratskhelia,h,7453,OpenPlay,2021,LeftFoot,16299,Rubin Kazan,FC Rostov,1,2,2022-03-14 16:00:00,,BallRecovery
+481345,17,MissedShots,0.8080000305175781,0.4759999847412109,0.04653380066156387,Khvicha Kvaratskhelia,a,7453,OpenPlay,2022,RightFoot,18590,Verona,Napoli,2,5,2022-08-15 16:30:00,Hirving Lozano,Pass
+481347,23,BlockedShot,0.8830000305175781,0.6730000305175782,0.03287449851632118,Khvicha Kvaratskhelia,a,7453,OpenPlay,2022,RightFoot,18590,Verona,Napoli,2,5,2022-08-15 16:30:00,Hirving Lozano,Cross
+481351,29,SavedShot,0.91,0.6780000305175782,0.05753679946064949,Khvicha Kvaratskhelia,a,7453,OpenPlay,2022,LeftFoot,18590,Verona,Napoli,2,5,2022-08-15 16:30:00,Piotr Zielinski,Pass
+481355,36,Goal,0.925,0.5120000076293946,0.3296540081501007,Khvicha Kvaratskhelia,a,7453,OpenPlay,2022,Head,18590,Verona,Napoli,2,5,2022-08-15 16:30:00,Hirving Lozano,Aerial
+482631,34,Goal,0.7709999847412109,0.64,0.022549200803041458,Khvicha Kvaratskhelia,h,7453,OpenPlay,2022,RightFoot,18596,Napoli,Monza,4,0,2022-08-21 16:30:00,Piotr Zielinski,BallTouch
+482635,50,BlockedShot,0.785,0.4829999923706055,0.05206020176410675,Khvicha Kvaratskhelia,h,7453,OpenPlay,2022,RightFoot,18596,Napoli,Monza,4,0,2022-08-21 16:30:00,Piotr Zielinski,Pass
+482639,61,Goal,0.9230000305175782,0.6379999923706055,0.34247100353240967,Khvicha Kvaratskhelia,h,7453,OpenPlay,2022,LeftFoot,18596,Napoli,Monza,4,0,2022-08-21 16:30:00,Stanislav Lobotka,Pass
+485264,79,BlockedShot,0.8680000305175781,0.34099998474121096,0.053651899099349976,Khvicha Kvaratskhelia,h,7453,OpenPlay,2022,LeftFoot,18618,Napoli,Lecce,1,1,2022-08-31 18:45:00,,None
+486252,33,SavedShot,0.8490000152587891,0.63,0.04801889881491661,Khvicha Kvaratskhelia,a,7453,OpenPlay,2022,RightFoot,18624,Lazio,Napoli,1,2,2022-09-03 18:45:00,,BallRecovery
+486253,35,ShotOnPost,0.74,0.49400001525878906,0.019023699685931206,Khvicha Kvaratskhelia,a,7453,OpenPlay,2022,RightFoot,18624,Lazio,Napoli,1,2,2022-09-03 18:45:00,Mário Rui,TakeOn
+486258,46,SavedShot,0.905,0.6029999923706054,0.34342798590660095,Khvicha Kvaratskhelia,a,7453,OpenPlay,2022,RightFoot,18624,Lazio,Napoli,1,2,2022-09-03 18:45:00,Matteo Politano,Pass
+486262,50,MissedShots,0.9259999847412109,0.5370000076293945,0.5197299718856812,Khvicha Kvaratskhelia,a,7453,OpenPlay,2022,RightFoot,18624,Lazio,Napoli,1,2,2022-09-03 18:45:00,Piotr Zielinski,Pass
+486267,60,Goal,0.855,0.45799999237060546,0.05371730029582977,Khvicha Kvaratskhelia,a,7453,FromCorner,2022,RightFoot,18624,Lazio,Napoli,1,2,2022-09-03 18:45:00,Franck Zambo,Pass
+487350,5,BlockedShot,0.8580000305175781,0.5379999923706055,0.0983453020453453,Khvicha Kvaratskhelia,h,7453,OpenPlay,2022,RightFoot,18639,Napoli,Spezia,1,0,2022-09-10 13:00:00,Amir Rrahmani,TakeOn
+487354,14,SavedShot,0.87,0.33,0.042578600347042084,Khvicha Kvaratskhelia,h,7453,SetPiece,2022,RightFoot,18639,Napoli,Spezia,1,0,2022-09-10 13:00:00,Giovanni Di Lorenzo,Pass
+487356,22,SavedShot,0.8919999694824219,0.5879999923706055,0.12503500282764435,Khvicha Kvaratskhelia,h,7453,OpenPlay,2022,RightFoot,18639,Napoli,Spezia,1,0,2022-09-10 13:00:00,Eljif Elmas,TakeOn
+487359,33,BlockedShot,0.8440000152587891,0.5879999923706055,0.07406149804592133,Khvicha Kvaratskhelia,h,7453,OpenPlay,2022,RightFoot,18639,Napoli,Spezia,1,0,2022-09-10 13:00:00,Eljif Elmas,Pass
+487368,49,BlockedShot,0.7559999847412109,0.515,0.009018929675221443,Khvicha Kvaratskhelia,h,7453,FromCorner,2022,RightFoot,18639,Napoli,Spezia,1,0,2022-09-10 13:00:00,Matteo Politano,Chipped
+489630,41,MissedShots,0.9159999847412109,0.4,0.11767099797725677,Khvicha Kvaratskhelia,a,7453,OpenPlay,2022,RightFoot,18645,AC Milan,Napoli,1,2,2022-09-18 18:45:00,Giovanni Di Lorenzo,Pass
+489892,36,Goal,0.8980000305175782,0.654000015258789,0.08502490073442459,Khvicha Kvaratskhelia,h,7453,OpenPlay,2022,LeftFoot,18659,Napoli,Torino,3,1,2022-10-01 13:00:00,Piotr Zielinski,Pass
+492426,30,MissedShots,0.9259999847412109,0.28299999237060547,0.05287649855017662,Khvicha Kvaratskhelia,a,7453,OpenPlay,2022,RightFoot,18663,Cremonese,Napoli,1,4,2022-10-09 16:00:00,Stanislav Lobotka,Pass
+492434,48,MissedShots,0.7859999847412109,0.5740000152587891,0.035811301320791245,Khvicha Kvaratskhelia,a,7453,OpenPlay,2022,RightFoot,18663,Cremonese,Napoli,1,4,2022-10-09 16:00:00,Giacomo Raspadori,Pass
+492446,75,BlockedShot,0.7530000305175781,0.5509999847412109,0.017245499417185783,Khvicha Kvaratskhelia,a,7453,FromCorner,2022,RightFoot,18663,Cremonese,Napoli,1,4,2022-10-09 16:00:00,,None
+493862,4,BlockedShot,0.840999984741211,0.7240000152587891,0.015145800076425076,Khvicha Kvaratskhelia,h,7453,FromCorner,2022,RightFoot,18678,Napoli,Bologna,3,2,2022-10-16 16:00:00,,Aerial
+493866,22,SavedShot,0.9119999694824219,0.705999984741211,0.20172999799251556,Khvicha Kvaratskhelia,h,7453,OpenPlay,2022,LeftFoot,18678,Napoli,Bologna,3,2,2022-10-16 16:00:00,Piotr Zielinski,Pass
+493879,48,SavedShot,0.904000015258789,0.6680000305175782,0.0889659970998764,Khvicha Kvaratskhelia,h,7453,OpenPlay,2022,RightFoot,18678,Napoli,Bologna,3,2,2022-10-16 16:00:00,,TakeOn
+493885,54,BlockedShot,0.7769999694824219,0.5579999923706055,0.03018750064074993,Khvicha Kvaratskhelia,h,7453,OpenPlay,2022,RightFoot,18678,Napoli,Bologna,3,2,2022-10-16 16:00:00,Hirving Lozano,Pass
+495913,36,BlockedShot,0.7480000305175781,0.6370000076293946,0.016604600474238396,Khvicha Kvaratskhelia,a,7453,OpenPlay,2022,RightFoot,18688,Roma,Napoli,0,1,2022-10-23 18:45:00,Piotr Zielinski,Pass
+495916,52,MissedShots,0.875,0.655,0.09819819778203964,Khvicha Kvaratskhelia,a,7453,OpenPlay,2022,LeftFoot,18688,Roma,Napoli,0,1,2022-10-23 18:45:00,Piotr Zielinski,Pass
+496298,3,MissedShots,0.9330000305175781,0.47200000762939454,0.07915399968624115,Khvicha Kvaratskhelia,h,7453,OpenPlay,2022,Head,18699,Napoli,Sassuolo,4,0,2022-10-29 13:00:00,Giovanni Di Lorenzo,Aerial
+496309,35,Goal,0.8719999694824219,0.6190000152587891,0.21860499680042267,Khvicha Kvaratskhelia,h,7453,FromCorner,2022,RightFoot,18699,Napoli,Sassuolo,4,0,2022-10-29 13:00:00,Mário Rui,Chipped
+496310,38,MissedShots,0.7980000305175782,0.624000015258789,0.01735440082848072,Khvicha Kvaratskhelia,h,7453,SetPiece,2022,RightFoot,18699,Napoli,Sassuolo,4,0,2022-10-29 13:00:00,Mário Rui,Chipped
+496311,41,MissedShots,0.750999984741211,0.519000015258789,0.017294500023126602,Khvicha Kvaratskhelia,h,7453,FromCorner,2022,RightFoot,18699,Napoli,Sassuolo,4,0,2022-10-29 13:00:00,,None
+496313,51,BlockedShot,0.860999984741211,0.5070000076293946,0.12499500066041946,Khvicha Kvaratskhelia,h,7453,OpenPlay,2022,RightFoot,18699,Napoli,Sassuolo,4,0,2022-10-29 13:00:00,Kim Min-Jae,Pass
+502479,60,MissedShots,0.9019999694824219,0.7019999694824218,0.054217200726270676,Khvicha Kvaratskhelia,a,7453,OpenPlay,2022,LeftFoot,18734,Inter,Napoli,1,0,2023-01-04 19:45:00,Mathías Olivera,Pass
+502952,20,SavedShot,0.8619999694824219,0.595999984741211,0.13116200268268585,Khvicha Kvaratskhelia,a,7453,OpenPlay,2022,RightFoot,18750,Sampdoria,Napoli,0,2,2023-01-08 17:00:00,Matteo Politano,Throughball
+502956,30,MissedShots,0.88,0.664000015258789,0.060406800359487534,Khvicha Kvaratskhelia,a,7453,OpenPlay,2022,RightFoot,18750,Sampdoria,Napoli,0,2,2023-01-08 17:00:00,Mário Rui,Pass
+502960,46,MissedShots,0.9330000305175781,0.6509999847412109,0.24390999972820282,Khvicha Kvaratskhelia,a,7453,OpenPlay,2022,LeftFoot,18750,Sampdoria,Napoli,0,2,2023-01-08 17:00:00,Matteo Politano,Cross
+503371,13,SavedShot,0.9019999694824219,0.5029999923706054,0.10145699977874756,Khvicha Kvaratskhelia,h,7453,OpenPlay,2022,RightFoot,18757,Napoli,Juventus,5,1,2023-01-13 19:45:00,,None
+503374,24,MissedShots,0.7440000152587891,0.6840000152587891,0.02389479987323284,Khvicha Kvaratskhelia,h,7453,OpenPlay,2022,RightFoot,18757,Napoli,Juventus,5,1,2023-01-13 19:45:00,Mário Rui,TakeOn
+503378,38,Goal,0.8880000305175781,0.6179999923706054,0.3460409939289093,Khvicha Kvaratskhelia,h,7453,OpenPlay,2022,RightFoot,18757,Napoli,Juventus,5,1,2023-01-13 19:45:00,Victor Osimhen,Pass
+503381,45,BlockedShot,0.8969999694824219,0.7469999694824219,0.04204630106687546,Khvicha Kvaratskhelia,h,7453,OpenPlay,2022,RightFoot,18757,Napoli,Juventus,5,1,2023-01-13 19:45:00,Mário Rui,Pass
+503388,68,SavedShot,0.7759999847412109,0.495,0.036700401455163956,Khvicha Kvaratskhelia,h,7453,OpenPlay,2022,LeftFoot,18757,Napoli,Juventus,5,1,2023-01-13 19:45:00,Victor Osimhen,Pass
+506359,4,SavedShot,0.7980000305175782,0.705,0.023313099518418312,Khvicha Kvaratskhelia,h,7453,OpenPlay,2022,RightFoot,18780,Napoli,Roma,2,1,2023-01-29 19:45:00,Piotr Zielinski,Pass
+507476,24,MissedShots,0.865,0.8269999694824218,0.050766199827194214,Khvicha Kvaratskhelia,a,7453,DirectFreekick,2022,RightFoot,18790,Spezia,Napoli,0,3,2023-02-05 11:30:00,,Standard
+507478,36,MissedShots,0.8580000305175781,0.6759999847412109,0.05159280076622963,Khvicha Kvaratskhelia,a,7453,OpenPlay,2022,RightFoot,18790,Spezia,Napoli,0,3,2023-02-05 11:30:00,Franck Zambo,TakeOn
+507480,46,Goal,0.885,0.5,0.7612990140914917,Khvicha Kvaratskhelia,a,7453,Penalty,2022,RightFoot,18790,Spezia,Napoli,0,3,2023-02-05 11:30:00,,Standard
+507484,59,SavedShot,0.86,0.3509999847412109,0.0754861980676651,Khvicha Kvaratskhelia,a,7453,OpenPlay,2022,RightFoot,18790,Spezia,Napoli,0,3,2023-02-05 11:30:00,Giovanni Di Lorenzo,Pass
+509118,20,Goal,0.9059999847412109,0.6480000305175782,0.0670211985707283,Khvicha Kvaratskhelia,h,7453,OpenPlay,2022,RightFoot,18800,Napoli,Cremonese,3,0,2023-02-12 19:45:00,,None
+509120,27,MissedShots,0.8969999694824219,0.5279999923706055,0.26894301176071167,Khvicha Kvaratskhelia,h,7453,OpenPlay,2022,Head,18800,Napoli,Cremonese,3,0,2023-02-12 19:45:00,Giovanni Di Lorenzo,Chipped
+509126,53,MissedShots,0.870999984741211,0.6519999694824219,0.04352770000696182,Khvicha Kvaratskhelia,h,7453,FromCorner,2022,RightFoot,18800,Napoli,Cremonese,3,0,2023-02-12 19:45:00,,None
+509346,11,Goal,0.8380000305175781,0.5029999923706054,0.09941709786653519,Khvicha Kvaratskhelia,a,7453,OpenPlay,2022,RightFoot,18809,Sassuolo,Napoli,0,2,2023-02-17 19:45:00,Mathías Olivera,TakeOn
+509354,48,BlockedShot,0.855,0.7140000152587891,0.05440539866685867,Khvicha Kvaratskhelia,a,7453,OpenPlay,2022,RightFoot,18809,Sassuolo,Napoli,0,2,2023-02-17 19:45:00,Eljif Elmas,Pass
+510930,1,MissedShots,0.7609999847412109,0.5209999847412109,0.018860500305891037,Khvicha Kvaratskhelia,a,7453,FromCorner,2022,RightFoot,18818,Empoli,Napoli,0,2,2023-02-25 17:00:00,,None
+510933,6,MissedShots,0.7619999694824219,0.5790000152587891,0.013346300460398197,Khvicha Kvaratskhelia,a,7453,FromCorner,2022,RightFoot,18818,Empoli,Napoli,0,2,2023-02-25 17:00:00,Hirving Lozano,HeadPass
+510938,27,SavedShot,0.7880000305175782,0.6940000152587891,0.021329300478100777,Khvicha Kvaratskhelia,a,7453,FromCorner,2022,RightFoot,18818,Empoli,Napoli,0,2,2023-02-25 17:00:00,Piotr Zielinski,Pass
+510950,55,BlockedShot,0.7130000305175781,0.495,0.007283580023795366,Khvicha Kvaratskhelia,a,7453,FromCorner,2022,RightFoot,18818,Empoli,Napoli,0,2,2023-02-25 17:00:00,Mário Rui,Chipped
+511799,51,BlockedShot,0.785,0.674000015258789,0.01236219983547926,Khvicha Kvaratskhelia,h,7453,FromCorner,2022,RightFoot,18826,Napoli,Lazio,0,1,2023-03-03 19:45:00,Piotr Zielinski,TakeOn
+511800,56,MissedShots,0.7580000305175781,0.5740000152587891,0.06716260313987732,Khvicha Kvaratskhelia,h,7453,DirectFreekick,2022,RightFoot,18826,Napoli,Lazio,0,1,2023-03-03 19:45:00,,Standard
+513646,19,BlockedShot,0.735999984741211,0.7369999694824219,0.01732729934155941,Khvicha Kvaratskhelia,h,7453,OpenPlay,2022,RightFoot,18839,Napoli,Atalanta,2,0,2023-03-11 17:00:00,Mathías Olivera,Pass
+513649,27,SavedShot,0.9819999694824219,0.5929999923706055,0.0813411995768547,Khvicha Kvaratskhelia,h,7453,OpenPlay,2022,RightFoot,18839,Napoli,Atalanta,2,0,2023-03-11 17:00:00,Giovanni Di Lorenzo,TakeOn
+513656,53,MissedShots,0.8159999847412109,0.47299999237060547,0.05236729979515076,Khvicha Kvaratskhelia,h,7453,OpenPlay,2022,RightFoot,18839,Napoli,Atalanta,2,0,2023-03-11 17:00:00,Matteo Politano,None
+513657,56,MissedShots,0.7930000305175782,0.7130000305175781,0.02276179939508438,Khvicha Kvaratskhelia,h,7453,OpenPlay,2022,RightFoot,18839,Napoli,Atalanta,2,0,2023-03-11 17:00:00,Mathías Olivera,HeadPass
+513659,59,Goal,0.865999984741211,0.5470000076293945,0.1385740041732788,Khvicha Kvaratskhelia,h,7453,OpenPlay,2022,RightFoot,18839,Napoli,Atalanta,2,0,2023-03-11 17:00:00,Victor Osimhen,Pass
+515462,12,MissedShots,0.855,0.705,0.04193880036473274,Khvicha Kvaratskhelia,a,7453,OpenPlay,2022,RightFoot,18850,Torino,Napoli,0,4,2023-03-19 14:00:00,Victor Osimhen,Pass
+515470,34,Goal,0.885,0.5,0.7612990140914917,Khvicha Kvaratskhelia,a,7453,Penalty,2022,RightFoot,18850,Torino,Napoli,0,4,2023-03-19 14:00:00,,Standard
+517244,33,BlockedShot,0.8619999694824219,0.710999984741211,0.03992899879813194,Khvicha Kvaratskhelia,h,7453,OpenPlay,2022,RightFoot,18859,Napoli,AC Milan,0,4,2023-04-02 18:45:00,Stanislav Lobotka,Pass
+517261,75,BlockedShot,0.9369999694824219,0.5979999923706054,0.06647049635648727,Khvicha Kvaratskhelia,h,7453,OpenPlay,2022,Head,18859,Napoli,AC Milan,0,4,2023-04-02 18:45:00,Hirving Lozano,Cross
+517262,75,MissedShots,0.915,0.6079999923706054,0.05260379984974861,Khvicha Kvaratskhelia,h,7453,OpenPlay,2022,RightFoot,18859,Napoli,AC Milan,0,4,2023-04-02 18:45:00,,Aerial
+517606,33,MissedShots,0.8430000305175781,0.629000015258789,0.038174599409103394,Khvicha Kvaratskhelia,a,7453,FromCorner,2022,RightFoot,18866,Lecce,Napoli,1,2,2023-04-07 17:00:00,,None
+521745,38,BlockedShot,0.960999984741211,0.8590000152587891,0.053106408566236496,Khvicha Kvaratskhelia,a,7453,DirectFreekick,2022,RightFoot,18884,Juventus,Napoli,0,1,2023-04-23 18:45:00,,Standard
+521747,49,SavedShot,0.8930000305175781,0.6909999847412109,0.03661317378282547,Khvicha Kvaratskhelia,a,7453,OpenPlay,2022,LeftFoot,18884,Juventus,Napoli,0,1,2023-04-23 18:45:00,Hirving Lozano,Chipped
+521750,54,MissedShots,0.7619999694824219,0.5329999923706055,0.025020653381943703,Khvicha Kvaratskhelia,a,7453,OpenPlay,2022,RightFoot,18884,Juventus,Napoli,0,1,2023-04-23 18:45:00,Victor Osimhen,Pass
+521751,62,BlockedShot,0.7730000305175782,0.605,0.026272837072610855,Khvicha Kvaratskhelia,a,7453,OpenPlay,2022,RightFoot,18884,Juventus,Napoli,0,1,2023-04-23 18:45:00,Stanislav Lobotka,Pass
+523364,50,MissedShots,0.76,0.6990000152587891,0.016221681609749794,Khvicha Kvaratskhelia,h,7453,OpenPlay,2022,RightFoot,18897,Napoli,Salernitana,1,1,2023-04-30 14:00:00,Mathías Olivera,Pass
+523372,79,MissedShots,0.8819999694824219,0.6659999847412109,0.06578762829303741,Khvicha Kvaratskhelia,h,7453,OpenPlay,2022,LeftFoot,18897,Napoli,Salernitana,1,1,2023-04-30 14:00:00,Giacomo Raspadori,Chipped
+523375,86,SavedShot,0.884000015258789,0.6680000305175782,0.06163071468472481,Khvicha Kvaratskhelia,h,7453,OpenPlay,2022,RightFoot,18897,Napoli,Salernitana,1,1,2023-04-30 14:00:00,Giacomo Raspadori,Pass
+523381,95,BlockedShot,0.8519999694824218,0.66,0.039325639605522156,Khvicha Kvaratskhelia,h,7453,OpenPlay,2022,LeftFoot,18897,Napoli,Salernitana,1,1,2023-04-30 14:00:00,Giacomo Raspadori,Rebound
+524284,51,SavedShot,0.8119999694824219,0.6270000076293946,0.026390371844172478,Khvicha Kvaratskhelia,a,7453,FromCorner,2022,RightFoot,18911,Udinese,Napoli,1,1,2023-05-04 18:45:00,,None
+526496,73,SavedShot,0.874000015258789,0.64,0.07272203266620636,Khvicha Kvaratskhelia,a,7453,OpenPlay,2022,RightFoot,18928,Monza,Napoli,2,0,2023-05-14 13:00:00,Piotr Zielinski,Pass
+528191,65,SavedShot,0.8590000152587891,0.705999984741211,0.03916609659790993,Khvicha Kvaratskhelia,h,7453,OpenPlay,2022,RightFoot,18937,Napoli,Inter,3,1,2023-05-21 16:00:00,Piotr Zielinski,Pass
+528194,70,SavedShot,0.850999984741211,0.725999984741211,0.04425676912069321,Khvicha Kvaratskhelia,h,7453,OpenPlay,2022,RightFoot,18937,Napoli,Inter,3,1,2023-05-21 16:00:00,,None
+529617,58,MissedShots,0.71,0.580999984741211,0.029069360345602036,Khvicha Kvaratskhelia,a,7453,OpenPlay,2022,RightFoot,18942,Bologna,Napoli,2,2,2023-05-28 13:00:00,Franck Zambo,TakeOn
+530844,13,BlockedShot,0.8090000152587891,0.6680000305175782,0.031000563874840736,Khvicha Kvaratskhelia,h,7453,OpenPlay,2022,RightFoot,18957,Napoli,Sampdoria,2,0,2023-06-04 16:30:00,Piotr Zielinski,Pass
+530847,20,MissedShots,0.7669999694824219,0.644000015258789,0.020454278215765953,Khvicha Kvaratskhelia,h,7453,FromCorner,2022,RightFoot,18957,Napoli,Sampdoria,2,0,2023-06-04 16:30:00,Piotr Zielinski,Pass
+535612,86,BlockedShot,0.9069999694824219,0.6170000076293946,0.025471363216638565,Khvicha Kvaratskhelia,h,7453,OpenPlay,2023,Head,22322,Napoli,Sassuolo,2,0,2023-08-27 18:45:00,Eljif Elmas,Cross
+536587,2,BlockedShot,0.8809999847412109,0.6630000305175782,0.05834446847438812,Khvicha Kvaratskhelia,h,7453,OpenPlay,2023,RightFoot,22330,Napoli,Lazio,1,2,2023-09-02 18:45:00,Mathías Olivera,Chipped
+536589,3,BlockedShot,0.81,0.539000015258789,0.053182389587163925,Khvicha Kvaratskhelia,h,7453,OpenPlay,2023,RightFoot,22330,Napoli,Lazio,1,2,2023-09-02 18:45:00,Victor Osimhen,Pass
+536594,20,SavedShot,0.745999984741211,0.59,0.01739799603819847,Khvicha Kvaratskhelia,h,7453,OpenPlay,2023,RightFoot,22330,Napoli,Lazio,1,2,2023-09-02 18:45:00,,None
+536600,46,BlockedShot,0.850999984741211,0.580999984741211,0.08515007793903351,Khvicha Kvaratskhelia,h,7453,OpenPlay,2023,RightFoot,22330,Napoli,Lazio,1,2,2023-09-02 18:45:00,Mathías Olivera,Pass
+536603,57,BlockedShot,0.8440000152587891,0.634000015258789,0.03465142101049423,Khvicha Kvaratskhelia,h,7453,FromCorner,2023,RightFoot,22330,Napoli,Lazio,1,2,2023-09-02 18:45:00,Matteo Politano,Cross
+536606,61,BlockedShot,0.8569999694824219,0.6730000305175782,0.035771578550338745,Khvicha Kvaratskhelia,h,7453,OpenPlay,2023,RightFoot,22330,Napoli,Lazio,1,2,2023-09-02 18:45:00,Victor Osimhen,Pass
+537917,33,MissedShots,0.8730000305175781,0.8209999847412109,0.05428518354892731,Khvicha Kvaratskhelia,a,7453,DirectFreekick,2023,RightFoot,22337,Genoa,Napoli,2,2,2023-09-16 18:45:00,,Standard
+537921,42,MissedShots,0.9519999694824218,0.3970000076293945,0.11178576946258545,Khvicha Kvaratskhelia,a,7453,OpenPlay,2023,LeftFoot,22337,Genoa,Napoli,2,2,2023-09-16 18:45:00,Giovanni Di Lorenzo,Pass
+537923,51,BlockedShot,0.925,0.46599998474121096,0.054789867252111435,Khvicha Kvaratskhelia,a,7453,OpenPlay,2023,Head,22337,Genoa,Napoli,2,2,2023-09-16 18:45:00,Matteo Politano,Aerial
+537928,71,SavedShot,0.815,0.6719999694824219,0.04374616965651512,Khvicha Kvaratskhelia,a,7453,OpenPlay,2023,RightFoot,22337,Genoa,Napoli,2,2,2023-09-16 18:45:00,Giacomo Raspadori,TakeOn
+539985,4,MissedShots,0.9619999694824218,0.5690000152587891,0.5301341414451599,Khvicha Kvaratskhelia,a,7453,OpenPlay,2023,RightFoot,22346,Bologna,Napoli,0,0,2023-09-24 16:00:00,,Rebound
+539988,37,SavedShot,0.8719999694824219,0.705,0.03586451709270477,Khvicha Kvaratskhelia,a,7453,OpenPlay,2023,LeftFoot,22346,Bologna,Napoli,0,0,2023-09-24 16:00:00,Franck Zambo,Pass
+539989,43,BlockedShot,0.925,0.7369999694824219,0.035320885479450226,Khvicha Kvaratskhelia,a,7453,OpenPlay,2023,RightFoot,22346,Bologna,Napoli,0,0,2023-09-24 16:00:00,Natan,Pass
+539992,59,SavedShot,0.8690000152587891,0.7280000305175781,0.034328632056713104,Khvicha Kvaratskhelia,a,7453,OpenPlay,2023,RightFoot,22346,Bologna,Napoli,0,0,2023-09-24 16:00:00,Piotr Zielinski,Pass
+540424,0,BlockedShot,0.7180000305175781,0.7169999694824218,0.010187778621912003,Khvicha Kvaratskhelia,h,7453,OpenPlay,2023,RightFoot,22361,Napoli,Udinese,4,1,2023-09-27 18:45:00,Piotr Zielinski,Pass
+540428,12,MissedShots,0.8440000152587891,0.7619999694824219,0.017278481274843216,Khvicha Kvaratskhelia,h,7453,FromCorner,2023,RightFoot,22361,Napoli,Udinese,4,1,2023-09-27 18:45:00,,None
+540431,23,SavedShot,0.85,0.700999984741211,0.05134755000472069,Khvicha Kvaratskhelia,h,7453,OpenPlay,2023,RightFoot,22361,Napoli,Udinese,4,1,2023-09-27 18:45:00,Franck Zambo,Pass
+540444,55,ShotOnPost,0.9730000305175781,0.6140000152587891,0.31863293051719666,Khvicha Kvaratskhelia,h,7453,OpenPlay,2023,LeftFoot,22361,Napoli,Udinese,4,1,2023-09-27 18:45:00,Matteo Politano,Chipped
+540449,67,ShotOnPost,0.8209999847412109,0.6530000305175782,0.041129663586616516,Khvicha Kvaratskhelia,h,7453,FromCorner,2023,RightFoot,22361,Napoli,Udinese,4,1,2023-09-27 18:45:00,Mário Rui,Pass
+540451,73,Goal,0.9780000305175781,0.6090000152587891,0.6465054154396057,Khvicha Kvaratskhelia,h,7453,OpenPlay,2023,RightFoot,22361,Napoli,Udinese,4,1,2023-09-27 18:45:00,,TakeOn
+540903,21,BlockedShot,0.9340000152587891,0.5790000152587891,0.05478396639227867,Khvicha Kvaratskhelia,a,7453,OpenPlay,2023,Head,22367,Lecce,Napoli,0,4,2023-09-30 13:00:00,Giovanni Simeone,Aerial
+540909,32,BlockedShot,0.795,0.5990000152587891,0.04830880090594292,Khvicha Kvaratskhelia,a,7453,OpenPlay,2023,LeftFoot,22367,Lecce,Napoli,0,4,2023-09-30 13:00:00,Franck Zambo,Pass
+540912,45,MissedShots,0.72,0.5579999923706055,0.045250825583934784,Khvicha Kvaratskhelia,a,7453,DirectFreekick,2023,RightFoot,22367,Lecce,Napoli,0,4,2023-09-30 13:00:00,,Standard
+540913,45,MissedShots,0.9219999694824219,0.4,0.3978627920150757,Khvicha Kvaratskhelia,a,7453,OpenPlay,2023,RightFoot,22367,Lecce,Napoli,0,4,2023-09-30 13:00:00,Franck Zambo,Pass
+543503,21,BlockedShot,0.9,0.580999984741211,0.13899320363998413,Khvicha Kvaratskhelia,h,7453,OpenPlay,2023,RightFoot,22384,Napoli,Fiorentina,1,3,2023-10-08 18:45:00,Matteo Politano,Pass
+543512,54,BlockedShot,0.81,0.6090000152587891,0.04601006582379341,Khvicha Kvaratskhelia,h,7453,OpenPlay,2023,RightFoot,22384,Napoli,Fiorentina,1,3,2023-10-08 18:45:00,Matteo Politano,Pass
+543519,81,MissedShots,0.75,0.3029999923706055,0.015696018934249878,Khvicha Kvaratskhelia,h,7453,OpenPlay,2023,LeftFoot,22384,Napoli,Fiorentina,1,3,2023-10-08 18:45:00,Giovanni Di Lorenzo,Pass
+543793,42,Goal,0.9230000305175782,0.6619999694824219,0.11893132328987122,Khvicha Kvaratskhelia,a,7453,OpenPlay,2023,LeftFoot,22387,Verona,Napoli,1,3,2023-10-21 13:00:00,Matteo Politano,Pass
+543796,48,MissedShots,0.794000015258789,0.6430000305175781,0.010265495628118515,Khvicha Kvaratskhelia,a,7453,FromCorner,2023,RightFoot,22387,Verona,Napoli,1,3,2023-10-21 13:00:00,Matteo Politano,Chipped
+543797,54,Goal,0.899000015258789,0.585,0.483554869890213,Khvicha Kvaratskhelia,a,7453,OpenPlay,2023,RightFoot,22387,Verona,Napoli,1,3,2023-10-21 13:00:00,Matteo Politano,Chipped
+546374,59,BlockedShot,0.8830000305175781,0.46700000762939453,0.08473172783851624,Khvicha Kvaratskhelia,h,7453,OpenPlay,2023,RightFoot,22404,Napoli,AC Milan,2,2,2023-10-29 19:45:00,,Rebound
+546385,94,SavedShot,0.9,0.6530000305175782,0.0851583182811737,Khvicha Kvaratskhelia,h,7453,OpenPlay,2023,LeftFoot,22404,Napoli,AC Milan,2,2,2023-10-29 19:45:00,Giacomo Raspadori,Pass
+546651,2,MissedShots,0.8480000305175781,0.66,0.032771579921245575,Khvicha Kvaratskhelia,a,7453,FromCorner,2023,RightFoot,22413,Salernitana,Napoli,0,2,2023-11-04 14:00:00,,None
+546652,4,BlockedShot,0.8080000305175781,0.475,0.08579797297716141,Khvicha Kvaratskhelia,a,7453,OpenPlay,2023,RightFoot,22413,Salernitana,Napoli,0,2,2023-11-04 14:00:00,Giacomo Raspadori,TakeOn
+546666,41,MissedShots,0.789000015258789,0.5659999847412109,0.03567076846957207,Khvicha Kvaratskhelia,a,7453,FromCorner,2023,RightFoot,22413,Salernitana,Napoli,0,2,2023-11-04 14:00:00,Matteo Politano,Pass
+546672,60,BlockedShot,0.8769999694824219,0.7290000152587891,0.04675355553627014,Khvicha Kvaratskhelia,a,7453,OpenPlay,2023,RightFoot,22413,Salernitana,Napoli,0,2,2023-11-04 14:00:00,Piotr Zielinski,Pass
+548726,54,MissedShots,0.955,0.735999984741211,0.045429911464452744,Khvicha Kvaratskhelia,h,7453,OpenPlay,2023,LeftFoot,22422,Napoli,Empoli,0,1,2023-11-12 11:30:00,Mathías Olivera,Pass
+548729,59,BlockedShot,0.89,0.66,0.11967173963785172,Khvicha Kvaratskhelia,h,7453,OpenPlay,2023,RightFoot,22422,Napoli,Empoli,0,1,2023-11-12 11:30:00,Mathías Olivera,TakeOn
+548734,78,SavedShot,0.905,0.7130000305175781,0.04520212113857269,Khvicha Kvaratskhelia,h,7453,OpenPlay,2023,LeftFoot,22422,Napoli,Empoli,0,1,2023-11-12 11:30:00,,None
+548736,88,SavedShot,0.925,0.654000015258789,0.2911781370639801,Khvicha Kvaratskhelia,h,7453,SetPiece,2023,LeftFoot,22422,Napoli,Empoli,0,1,2023-11-12 11:30:00,Jesper Lindstrom,Rebound
+549903,43,Goal,0.960999984741211,0.46900001525878904,0.5795998573303223,Khvicha Kvaratskhelia,a,7453,OpenPlay,2023,Head,22426,Atalanta,Napoli,1,2,2023-11-25 17:00:00,Giovanni Di Lorenzo,Cross
+552040,41,BlockedShot,0.7930000305175782,0.27,0.016947394236922264,Khvicha Kvaratskhelia,h,7453,OpenPlay,2023,RightFoot,22442,Napoli,Inter,0,3,2023-12-03 19:45:00,Matteo Politano,Pass
+552045,57,SavedShot,0.9330000305175781,0.67,0.2687399387359619,Khvicha Kvaratskhelia,h,7453,OpenPlay,2023,LeftFoot,22442,Napoli,Inter,0,3,2023-12-03 19:45:00,Franck Zambo,Pass
+552053,80,BlockedShot,0.919000015258789,0.6819999694824219,0.07264453172683716,Khvicha Kvaratskhelia,h,7453,OpenPlay,2023,LeftFoot,22442,Napoli,Inter,0,3,2023-12-03 19:45:00,Giacomo Raspadori,Pass
+552542,23,MissedShots,0.7759999847412109,0.710999984741211,0.020411016419529915,Khvicha Kvaratskhelia,a,7453,OpenPlay,2023,RightFoot,22451,Juventus,Napoli,1,0,2023-12-08 19:45:00,Natan,Pass
+552544,27,MissedShots,0.8590000152587891,0.5459999847412109,0.434251993894577,Khvicha Kvaratskhelia,a,7453,OpenPlay,2023,RightFoot,22451,Juventus,Napoli,1,0,2023-12-08 19:45:00,Victor Osimhen,Pass
+552554,76,BlockedShot,0.83,0.685,0.023410405963659286,Khvicha Kvaratskhelia,a,7453,FromCorner,2023,RightFoot,22451,Juventus,Napoli,1,0,2023-12-08 19:45:00,,None
+554460,4,MissedShots,0.9590000152587891,0.35,0.06490693986415863,Khvicha Kvaratskhelia,h,7453,SetPiece,2023,RightFoot,22460,Napoli,Cagliari,2,1,2023-12-16 17:00:00,Stanislav Lobotka,Chipped
+554471,29,MissedShots,0.955,0.5379999923706055,0.5248100757598877,Khvicha Kvaratskhelia,h,7453,OpenPlay,2023,Head,22460,Napoli,Cagliari,2,1,2023-12-16 17:00:00,Matteo Politano,Cross
+554474,37,SavedShot,0.9630000305175781,0.575,0.39037996530532837,Khvicha Kvaratskhelia,h,7453,OpenPlay,2023,RightFoot,22460,Napoli,Cagliari,2,1,2023-12-16 17:00:00,Matteo Politano,Cross
+554485,74,Goal,0.91,0.5609999847412109,0.42809274792671204,Khvicha Kvaratskhelia,h,7453,OpenPlay,2023,RightFoot,22460,Napoli,Cagliari,2,1,2023-12-16 17:00:00,Victor Osimhen,Pass
+556414,54,SavedShot,0.8569999694824219,0.7419999694824219,0.0294010192155838,Khvicha Kvaratskhelia,a,7453,OpenPlay,2023,RightFoot,22474,Roma,Napoli,2,0,2023-12-23 19:45:00,Matteo Politano,Pass
+556751,13,BlockedShot,0.9059999847412109,0.34900001525878904,0.09041385352611542,Khvicha Kvaratskhelia,h,7453,OpenPlay,2023,RightFoot,22484,Napoli,Monza,0,0,2023-12-29 17:30:00,Giacomo Raspadori,Pass
+556754,35,MissedShots,0.8669999694824219,0.37799999237060544,0.06198440119624138,Khvicha Kvaratskhelia,h,7453,OpenPlay,2023,LeftFoot,22484,Napoli,Monza,0,0,2023-12-29 17:30:00,,None
+556755,37,BlockedShot,0.7330000305175781,0.649000015258789,0.015536702238023281,Khvicha Kvaratskhelia,h,7453,SetPiece,2023,RightFoot,22484,Napoli,Monza,0,0,2023-12-29 17:30:00,Piotr Zielinski,Pass
+556759,44,MissedShots,0.8430000305175781,0.700999984741211,0.028031695634126663,Khvicha Kvaratskhelia,h,7453,OpenPlay,2023,RightFoot,22484,Napoli,Monza,0,0,2023-12-29 17:30:00,Mário Rui,Pass
+556764,54,SavedShot,0.914000015258789,0.6530000305175782,0.3323914408683777,Khvicha Kvaratskhelia,h,7453,OpenPlay,2023,RightFoot,22484,Napoli,Monza,0,0,2023-12-29 17:30:00,Giacomo Raspadori,Throughball
+556770,68,MissedShots,0.8769999694824219,0.6170000076293946,0.08986283093690872,Khvicha Kvaratskhelia,h,7453,OpenPlay,2023,RightFoot,22484,Napoli,Monza,0,0,2023-12-29 17:30:00,Mário Rui,Pass
+556774,83,BlockedShot,0.9209999847412109,0.74,0.03694477304816246,Khvicha Kvaratskhelia,h,7453,OpenPlay,2023,RightFoot,22484,Napoli,Monza,0,0,2023-12-29 17:30:00,,None
+556775,84,SavedShot,0.8569999694824219,0.69,0.04197924584150314,Khvicha Kvaratskhelia,h,7453,OpenPlay,2023,RightFoot,22484,Napoli,Monza,0,0,2023-12-29 17:30:00,Jesper Lindstrom,Pass
+557675,23,BlockedShot,0.8569999694824219,0.725,0.03203267976641655,Khvicha Kvaratskhelia,a,7453,OpenPlay,2023,RightFoot,22494,Torino,Napoli,3,0,2024-01-07 14:00:00,Mário Rui,Pass
+557969,46,MissedShots,0.715,0.44400001525878907,0.019496696069836617,Khvicha Kvaratskhelia,h,7453,OpenPlay,2023,RightFoot,22501,Napoli,Salernitana,2,1,2024-01-13 14:00:00,Amir Rrahmani,Pass
+557977,71,SavedShot,0.8240000152587891,0.6719999694824219,0.02796117775142193,Khvicha Kvaratskhelia,h,7453,FromCorner,2023,RightFoot,22501,Napoli,Salernitana,2,1,2024-01-13 14:00:00,Giacomo Raspadori,Pass
+557979,81,BlockedShot,0.9069999694824219,0.6,0.08217864483594894,Khvicha Kvaratskhelia,h,7453,OpenPlay,2023,RightFoot,22501,Napoli,Salernitana,2,1,2024-01-13 14:00:00,,None
+557980,93,SavedShot,0.9309999847412109,0.590999984741211,0.4401940703392029,Khvicha Kvaratskhelia,h,7453,OpenPlay,2023,RightFoot,22501,Napoli,Salernitana,2,1,2024-01-13 14:00:00,Alessio Zerbin,Pass
+561679,9,SavedShot,0.8530000305175781,0.67,0.05020353943109512,Khvicha Kvaratskhelia,h,7453,OpenPlay,2023,LeftFoot,22525,Napoli,Verona,2,1,2024-02-04 14:00:00,Stanislav Lobotka,Pass
+561680,12,SavedShot,0.8209999847412109,0.6530000305175782,0.0256400965154171,Khvicha Kvaratskhelia,h,7453,FromCorner,2023,RightFoot,22525,Napoli,Verona,2,1,2024-02-04 14:00:00,,None
+561683,25,MissedShots,0.840999984741211,0.7519999694824219,0.022609882056713104,Khvicha Kvaratskhelia,h,7453,OpenPlay,2023,RightFoot,22525,Napoli,Verona,2,1,2024-02-04 14:00:00,Mário Rui,Pass
+561685,37,BlockedShot,0.7630000305175781,0.5540000152587891,0.027930498123168945,Khvicha Kvaratskhelia,h,7453,OpenPlay,2023,RightFoot,22525,Napoli,Verona,2,1,2024-02-04 14:00:00,Mário Rui,TakeOn
+561693,52,BlockedShot,0.8,0.5629999923706055,0.04209029674530029,Khvicha Kvaratskhelia,h,7453,OpenPlay,2023,RightFoot,22525,Napoli,Verona,2,1,2024-02-04 14:00:00,Jens Cajuste,Pass
+561696,58,MissedShots,0.9380000305175781,0.6809999847412109,0.07039936631917953,Khvicha Kvaratskhelia,h,7453,OpenPlay,2023,LeftFoot,22525,Napoli,Verona,2,1,2024-02-04 14:00:00,,TakeOn
+561700,72,MissedShots,0.815,0.575999984741211,0.054112423211336136,Khvicha Kvaratskhelia,h,7453,OpenPlay,2023,RightFoot,22525,Napoli,Verona,2,1,2024-02-04 14:00:00,Jesper Lindstrom,Pass
+561707,86,Goal,0.7919999694824219,0.590999984741211,0.03740209341049194,Khvicha Kvaratskhelia,h,7453,OpenPlay,2023,RightFoot,22525,Napoli,Verona,2,1,2024-02-04 14:00:00,Pasquale Mazzocchi,Pass
+563257,67,SavedShot,0.759000015258789,0.6220000076293946,0.021634934470057487,Khvicha Kvaratskhelia,a,7453,OpenPlay,2023,RightFoot,22539,AC Milan,Napoli,1,0,2024-02-11 19:45:00,Stanislav Lobotka,Pass
+563665,2,SavedShot,0.870999984741211,0.6,0.11192721128463745,Khvicha Kvaratskhelia,h,7453,OpenPlay,2023,RightFoot,22546,Napoli,Genoa,1,1,2024-02-17 14:00:00,Hamed Junior Traore,TakeOn
+563676,46,BlockedShot,0.9019999694824219,0.33799999237060546,0.0655728280544281,Khvicha Kvaratskhelia,h,7453,OpenPlay,2023,RightFoot,22546,Napoli,Genoa,1,1,2024-02-17 14:00:00,Giovanni Di Lorenzo,Pass
+563681,58,MissedShots,0.805,0.45599998474121095,0.04190154746174812,Khvicha Kvaratskhelia,h,7453,OpenPlay,2023,RightFoot,22546,Napoli,Genoa,1,1,2024-02-17 14:00:00,,None
+563688,86,SavedShot,0.745999984741211,0.669000015258789,0.017446961253881454,Khvicha Kvaratskhelia,h,7453,OpenPlay,2023,RightFoot,22546,Napoli,Genoa,1,1,2024-02-17 14:00:00,Stanislav Lobotka,Pass
+566092,1,BlockedShot,0.8519999694824218,0.6519999694824219,0.05788528919219971,Khvicha Kvaratskhelia,a,7453,OpenPlay,2023,RightFoot,22514,Sassuolo,Napoli,1,6,2024-02-28 17:00:00,Hamed Junior Traore,Pass
+566101,35,MissedShots,0.505,0.5670000076293945,0.010600036941468716,Khvicha Kvaratskhelia,a,7453,OpenPlay,2023,RightFoot,22514,Sassuolo,Napoli,1,6,2024-02-28 17:00:00,,BallRecovery
+566104,42,BlockedShot,0.8390000152587891,0.3029999923706055,0.04412814974784851,Khvicha Kvaratskhelia,a,7453,OpenPlay,2023,LeftFoot,22514,Sassuolo,Napoli,1,6,2024-02-28 17:00:00,Matteo Politano,Pass
+566105,45,SavedShot,0.919000015258789,0.6559999847412109,0.09685508906841278,Khvicha Kvaratskhelia,a,7453,OpenPlay,2023,LeftFoot,22514,Sassuolo,Napoli,1,6,2024-02-28 17:00:00,Hamed Junior Traore,Pass
+566109,50,Goal,0.8430000305175781,0.5670000076293945,0.1412624716758728,Khvicha Kvaratskhelia,a,7453,OpenPlay,2023,RightFoot,22514,Sassuolo,Napoli,1,6,2024-02-28 17:00:00,Victor Osimhen,Chipped
+566116,74,BlockedShot,0.8869999694824219,0.605,0.1199776753783226,Khvicha Kvaratskhelia,a,7453,OpenPlay,2023,RightFoot,22514,Sassuolo,Napoli,1,6,2024-02-28 17:00:00,Giacomo Raspadori,Pass
+566117,74,BlockedShot,0.855,0.705,0.025257069617509842,Khvicha Kvaratskhelia,a,7453,FromCorner,2023,RightFoot,22514,Sassuolo,Napoli,1,6,2024-02-28 17:00:00,,None
+566118,74,Goal,0.8980000305175782,0.6320000076293946,0.050776828080415726,Khvicha Kvaratskhelia,a,7453,FromCorner,2023,LeftFoot,22514,Sassuolo,Napoli,1,6,2024-02-28 17:00:00,,Tackle
+566120,81,BlockedShot,0.73,0.4979999923706055,0.01923196204006672,Khvicha Kvaratskhelia,a,7453,SetPiece,2023,RightFoot,22514,Sassuolo,Napoli,1,6,2024-02-28 17:00:00,Giacomo Raspadori,Pass
+567432,8,BlockedShot,0.774000015258789,0.6959999847412109,0.017487728968262672,Khvicha Kvaratskhelia,h,7453,OpenPlay,2023,RightFoot,22573,Napoli,Juventus,2,1,2024-03-03 19:45:00,Mathías Olivera,Pass
+567443,36,SavedShot,0.894000015258789,0.669000015258789,0.09226375073194504,Khvicha Kvaratskhelia,h,7453,OpenPlay,2023,LeftFoot,22573,Napoli,Juventus,2,1,2024-03-03 19:45:00,Hamed Junior Traore,Pass
+567448,41,Goal,0.8819999694824219,0.6270000076293946,0.06687675416469574,Khvicha Kvaratskhelia,h,7453,OpenPlay,2023,RightFoot,22573,Napoli,Juventus,2,1,2024-03-03 19:45:00,,None
+567643,13,SavedShot,0.9069999694824219,0.385,0.3360525667667389,Khvicha Kvaratskhelia,h,7453,OpenPlay,2023,RightFoot,22584,Napoli,Torino,1,1,2024-03-08 19:45:00,Matteo Politano,Pass
+567650,40,MissedShots,0.4370000076293945,0.5029999923706054,0.011756408028304577,Khvicha Kvaratskhelia,h,7453,OpenPlay,2023,RightFoot,22584,Napoli,Torino,1,1,2024-03-08 19:45:00,Stanislav Lobotka,Pass
+567651,42,SavedShot,0.89,0.515,0.07705768942832947,Khvicha Kvaratskhelia,h,7453,OpenPlay,2023,Head,22584,Napoli,Torino,1,1,2024-03-08 19:45:00,Matteo Politano,Cross
+567656,60,Goal,0.9480000305175781,0.5709999847412109,0.3741483986377716,Khvicha Kvaratskhelia,h,7453,OpenPlay,2023,RightFoot,22584,Napoli,Torino,1,1,2024-03-08 19:45:00,Mário Rui,Cross
+567665,82,BlockedShot,0.9059999847412109,0.6719999694824219,0.07241617888212204,Khvicha Kvaratskhelia,h,7453,OpenPlay,2023,LeftFoot,22584,Napoli,Torino,1,1,2024-03-08 19:45:00,Giacomo Raspadori,Pass
+567668,85,SavedShot,0.725999984741211,0.534000015258789,0.0180863868445158,Khvicha Kvaratskhelia,h,7453,OpenPlay,2023,RightFoot,22584,Napoli,Torino,1,1,2024-03-08 19:45:00,Stanislav Lobotka,Pass
+567669,85,BlockedShot,0.775,0.6,0.019999459385871887,Khvicha Kvaratskhelia,h,7453,OpenPlay,2023,LeftFoot,22584,Napoli,Torino,1,1,2024-03-08 19:45:00,,Rebound
+567673,92,MissedShots,0.8219999694824218,0.30100000381469727,0.02959965169429779,Khvicha Kvaratskhelia,h,7453,OpenPlay,2023,RightFoot,22584,Napoli,Torino,1,1,2024-03-08 19:45:00,Mathías Olivera,Pass
+570131,45,MissedShots,0.8169999694824219,0.645,0.02560264803469181,Khvicha Kvaratskhelia,a,7453,FromCorner,2023,RightFoot,22587,Inter,Napoli,1,1,2024-03-17 19:45:00,,None
+570137,55,SavedShot,0.7869999694824219,0.7659999847412109,0.017355438321828842,Khvicha Kvaratskhelia,a,7453,OpenPlay,2023,RightFoot,22587,Inter,Napoli,1,1,2024-03-17 19:45:00,Mathías Olivera,Pass
+572869,4,BlockedShot,0.8690000152587891,0.3940000152587891,0.08403756469488144,Khvicha Kvaratskhelia,a,7453,OpenPlay,2023,RightFoot,22610,Monza,Napoli,2,4,2024-04-07 13:00:00,Cyril Ngonge,Pass
+572874,31,BlockedShot,0.8169999694824219,0.595999984741211,0.050978947430849075,Khvicha Kvaratskhelia,a,7453,OpenPlay,2023,RightFoot,22610,Monza,Napoli,2,4,2024-04-07 13:00:00,Victor Osimhen,Pass
+572877,39,SavedShot,0.8530000305175781,0.644000015258789,0.2357226014137268,Khvicha Kvaratskhelia,a,7453,OpenPlay,2023,RightFoot,22610,Monza,Napoli,2,4,2024-04-07 13:00:00,,Dispossessed
+572879,44,MissedShots,0.7930000305175782,0.5620000076293945,0.02281651645898819,Khvicha Kvaratskhelia,a,7453,OpenPlay,2023,RightFoot,22610,Monza,Napoli,2,4,2024-04-07 13:00:00,Amir Rrahmani,Chipped
+572886,60,BlockedShot,0.85,0.6359999847412109,0.07565248757600784,Khvicha Kvaratskhelia,a,7453,OpenPlay,2023,RightFoot,22610,Monza,Napoli,2,4,2024-04-07 13:00:00,Victor Osimhen,Pass
+574063,9,MissedShots,0.7619999694824219,0.6309999847412109,0.021839436143636703,Khvicha Kvaratskhelia,h,7453,OpenPlay,2023,RightFoot,22618,Napoli,Frosinone,2,2,2024-04-14 10:30:00,Piotr Zielinski,Pass
+574072,23,SavedShot,0.8019999694824219,0.6519999694824219,0.03801533952355385,Khvicha Kvaratskhelia,h,7453,FromCorner,2023,RightFoot,22618,Napoli,Frosinone,2,2,2024-04-14 10:30:00,Mário Rui,Pass
+574083,54,MissedShots,0.86,0.265,0.02595684491097927,Khvicha Kvaratskhelia,h,7453,OpenPlay,2023,RightFoot,22618,Napoli,Frosinone,2,2,2024-04-14 10:30:00,Piotr Zielinski,Pass
+574086,61,SavedShot,0.8530000305175781,0.710999984741211,0.04278073459863663,Khvicha Kvaratskhelia,h,7453,OpenPlay,2023,RightFoot,22618,Napoli,Frosinone,2,2,2024-04-14 10:30:00,Piotr Zielinski,TakeOn
+574087,62,BlockedShot,0.75,0.6509999847412109,0.01476204488426447,Khvicha Kvaratskhelia,h,7453,FromCorner,2023,RightFoot,22618,Napoli,Frosinone,2,2,2024-04-14 10:30:00,,None
+574090,74,SavedShot,0.830999984741211,0.545,0.10864194482564926,Khvicha Kvaratskhelia,h,7453,OpenPlay,2023,LeftFoot,22618,Napoli,Frosinone,2,2,2024-04-14 10:30:00,Matteo Politano,Pass
+574091,75,SavedShot,0.7480000305175781,0.475,0.02182825468480587,Khvicha Kvaratskhelia,h,7453,OpenPlay,2023,RightFoot,22618,Napoli,Frosinone,2,2,2024-04-14 10:30:00,Amir Rrahmani,Pass
+575100,66,BlockedShot,0.8780000305175781,0.635,0.06704287976026535,Khvicha Kvaratskhelia,a,7453,OpenPlay,2023,LeftFoot,22626,Empoli,Napoli,1,0,2024-04-20 16:00:00,Piotr Zielinski,TakeOn
+577551,21,BlockedShot,0.769000015258789,0.6270000076293946,0.03736274316906929,Khvicha Kvaratskhelia,h,7453,OpenPlay,2023,RightFoot,22636,Napoli,Roma,2,2,2024-04-28 16:00:00,Stanislav Lobotka,TakeOn
+577557,37,BlockedShot,0.7369999694824219,0.49400001525878906,0.021794399246573448,Khvicha Kvaratskhelia,h,7453,OpenPlay,2023,RightFoot,22636,Napoli,Roma,2,2,2024-04-28 16:00:00,Stanislav Lobotka,Pass
+577558,39,SavedShot,0.8490000152587891,0.75,0.027228254824876785,Khvicha Kvaratskhelia,h,7453,OpenPlay,2023,RightFoot,22636,Napoli,Roma,2,2,2024-04-28 16:00:00,Jens Cajuste,BallTouch
+577570,71,MissedShots,0.9119999694824219,0.5579999923706055,0.32361355423927307,Khvicha Kvaratskhelia,h,7453,OpenPlay,2023,RightFoot,22636,Napoli,Roma,2,2,2024-04-28 16:00:00,Victor Osimhen,Cross
+580032,64,SavedShot,0.7959999847412109,0.745999984741211,0.017540080472826958,Khvicha Kvaratskhelia,h,7453,OpenPlay,2023,RightFoot,22662,Napoli,Bologna,0,2,2024-05-11 16:00:00,Mathías Olivera,TakeOn
+581375,12,MissedShots,0.905,0.6279999923706054,0.10616999119520187,Khvicha Kvaratskhelia,a,7453,OpenPlay,2023,LeftFoot,22666,Fiorentina,Napoli,2,2,2024-05-17 16:00:00,Mathías Olivera,Pass
+581376,13,MissedShots,0.7709999847412109,0.7180000305175781,0.023924000561237335,Khvicha Kvaratskhelia,a,7453,OpenPlay,2023,RightFoot,22666,Fiorentina,Napoli,2,2,2024-05-17 16:00:00,Jens Cajuste,Pass
+581377,14,MissedShots,0.7719999694824219,0.53,0.056136056780815125,Khvicha Kvaratskhelia,a,7453,OpenPlay,2023,RightFoot,22666,Fiorentina,Napoli,2,2,2024-05-17 16:00:00,,TakeOn
+581390,49,MissedShots,0.865,0.59,0.07510461658239365,Khvicha Kvaratskhelia,a,7453,OpenPlay,2023,RightFoot,22666,Fiorentina,Napoli,2,2,2024-05-17 16:00:00,Pasquale Mazzocchi,Pass
+581393,56,Goal,0.7569999694824219,0.6170000076293946,0.06025172024965286,Khvicha Kvaratskhelia,a,7453,DirectFreekick,2023,RightFoot,22666,Fiorentina,Napoli,2,2,2024-05-17 16:00:00,,Standard
+583498,10,BlockedShot,0.8640000152587891,0.600999984741211,0.0907806009054184,Khvicha Kvaratskhelia,h,7453,OpenPlay,2023,RightFoot,22684,Napoli,Lecce,0,0,2024-05-26 16:00:00,Giovanni Di Lorenzo,Pass
+583501,17,BlockedShot,0.7440000152587891,0.7819999694824219,0.03181860223412514,Khvicha Kvaratskhelia,h,7453,DirectFreekick,2023,RightFoot,22684,Napoli,Lecce,0,0,2024-05-26 16:00:00,,Standard
+583505,45,BlockedShot,0.8919999694824219,0.6890000152587891,0.0562979131937027,Khvicha Kvaratskhelia,h,7453,OpenPlay,2023,RightFoot,22684,Napoli,Lecce,0,0,2024-05-26 16:00:00,Mathías Olivera,BallTouch
+583509,50,SavedShot,0.9590000152587891,0.6530000305175782,0.1962154358625412,Khvicha Kvaratskhelia,h,7453,OpenPlay,2023,LeftFoot,22684,Napoli,Lecce,0,0,2024-05-26 16:00:00,Giacomo Raspadori,TakeOn
+583512,51,MissedShots,0.91,0.6530000305175782,0.060717638581991196,Khvicha Kvaratskhelia,h,7453,OpenPlay,2023,LeftFoot,22684,Napoli,Lecce,0,0,2024-05-26 16:00:00,,Rebound
+585355,9,SavedShot,0.850999984741211,0.61,0.057496920228004456,Khvicha Kvaratskhelia,a,7453,SetPiece,2024,RightFoot,27366,Verona,Napoli,3,0,2024-08-18 16:30:00,Franck Zambo,Pass
+585361,45,BlockedShot,0.8969999694824219,0.345,0.3219909369945526,Khvicha Kvaratskhelia,a,7453,OpenPlay,2024,RightFoot,27366,Verona,Napoli,3,0,2024-08-18 16:30:00,,BallRecovery
+587011,16,BlockedShot,0.8159999847412109,0.7419999694824219,0.0122916204854846,Khvicha Kvaratskhelia,h,7453,FromCorner,2024,RightFoot,27378,Napoli,Bologna,3,0,2024-08-25 18:45:00,Pasquale Mazzocchi,Chipped
+587016,41,ShotOnPost,0.9619999694824218,0.6559999847412109,0.012850385159254074,Khvicha Kvaratskhelia,h,7453,OpenPlay,2024,Head,27378,Napoli,Bologna,3,0,2024-08-25 18:45:00,Matteo Politano,Cross
+587026,74,Goal,0.799000015258789,0.610999984741211,0.04135841503739357,Khvicha Kvaratskhelia,h,7453,OpenPlay,2024,LeftFoot,27378,Napoli,Bologna,3,0,2024-08-25 18:45:00,Amir Rrahmani,Pass
+589583,3,MissedShots,0.925,0.6990000152587891,0.062480345368385315,Khvicha Kvaratskhelia,h,7453,OpenPlay,2024,LeftFoot,27386,Napoli,Parma Calcio 1913,2,1,2024-08-31 18:45:00,Stanislav Lobotka,Pass
+589592,21,MissedShots,0.950999984741211,0.6830000305175781,0.04972080886363983,Khvicha Kvaratskhelia,h,7453,OpenPlay,2024,LeftFoot,27386,Napoli,Parma Calcio 1913,2,1,2024-08-31 18:45:00,,None
+589594,24,BlockedShot,0.8869999694824219,0.6480000305175782,0.04577247425913811,Khvicha Kvaratskhelia,h,7453,OpenPlay,2024,RightFoot,27386,Napoli,Parma Calcio 1913,2,1,2024-08-31 18:45:00,Matteo Politano,Cross
+589599,39,SavedShot,0.8280000305175781,0.665,0.030091384425759315,Khvicha Kvaratskhelia,h,7453,OpenPlay,2024,RightFoot,27386,Napoli,Parma Calcio 1913,2,1,2024-08-31 18:45:00,Mathías Olivera,Pass
+589600,41,BlockedShot,0.8769999694824219,0.7080000305175781,0.03755292296409607,Khvicha Kvaratskhelia,h,7453,OpenPlay,2024,RightFoot,27386,Napoli,Parma Calcio 1913,2,1,2024-08-31 18:45:00,Stanislav Lobotka,BallTouch
+589603,48,BlockedShot,0.7559999847412109,0.5559999847412109,0.02164725586771965,Khvicha Kvaratskhelia,h,7453,OpenPlay,2024,RightFoot,27386,Napoli,Parma Calcio 1913,2,1,2024-08-31 18:45:00,Giacomo Raspadori,Pass
+589605,50,SavedShot,0.8009999847412109,0.675,0.025699902325868607,Khvicha Kvaratskhelia,h,7453,OpenPlay,2024,RightFoot,27386,Napoli,Parma Calcio 1913,2,1,2024-08-31 18:45:00,Alessandro Buongiorno,HeadPass
+589608,54,SavedShot,0.765,0.700999984741211,0.016623083502054214,Khvicha Kvaratskhelia,h,7453,OpenPlay,2024,RightFoot,27386,Napoli,Parma Calcio 1913,2,1,2024-08-31 18:45:00,Alessandro Buongiorno,Pass
+589611,59,SavedShot,0.8809999847412109,0.6170000076293946,0.07118586450815201,Khvicha Kvaratskhelia,h,7453,OpenPlay,2024,RightFoot,27386,Napoli,Parma Calcio 1913,2,1,2024-08-31 18:45:00,Stanislav Lobotka,Pass
+589615,78,BlockedShot,0.8030000305175782,0.5659999847412109,0.03977511078119278,Khvicha Kvaratskhelia,h,7453,OpenPlay,2024,LeftFoot,27386,Napoli,Parma Calcio 1913,2,1,2024-08-31 18:45:00,,None
+589616,80,MissedShots,0.7659999847412109,0.7959999847412109,0.008110709488391876,Khvicha Kvaratskhelia,h,7453,OpenPlay,2024,RightFoot,27386,Napoli,Parma Calcio 1913,2,1,2024-08-31 18:45:00,Giovanni Di Lorenzo,Chipped
+589617,84,MissedShots,0.7419999694824219,0.5229999923706055,0.05918443575501442,Khvicha Kvaratskhelia,h,7453,DirectFreekick,2024,RightFoot,27386,Napoli,Parma Calcio 1913,2,1,2024-08-31 18:45:00,,Standard
+591643,6,BlockedShot,0.8469999694824218,0.6769999694824219,0.04551199823617935,Khvicha Kvaratskhelia,a,7453,OpenPlay,2024,LeftFoot,27395,Cagliari,Napoli,0,4,2024-09-15 16:00:00,Matteo Politano,Pass
+591657,43,BlockedShot,0.93,0.34200000762939453,0.10231643170118332,Khvicha Kvaratskhelia,a,7453,OpenPlay,2024,RightFoot,27395,Cagliari,Napoli,0,4,2024-09-15 16:00:00,Matteo Politano,Pass
+591668,65,Goal,0.8440000152587891,0.590999984741211,0.13484933972358704,Khvicha Kvaratskhelia,a,7453,OpenPlay,2024,RightFoot,27395,Cagliari,Napoli,0,4,2024-09-15 16:00:00,Romelu Lukaku,Throughball
+592604,31,BlockedShot,0.7919999694824219,0.37200000762939456,0.030393175780773163,Khvicha Kvaratskhelia,a,7453,OpenPlay,2024,RightFoot,27407,Juventus,Napoli,0,0,2024-09-21 16:00:00,Matteo Politano,Pass
+592605,33,BlockedShot,0.7269999694824218,0.4759999847412109,0.013883312232792377,Khvicha Kvaratskhelia,a,7453,OpenPlay,2024,LeftFoot,27407,Juventus,Napoli,0,0,2024-09-21 16:00:00,,None
+592606,37,BlockedShot,0.7959999847412109,0.6680000305175782,0.01765427365899086,Khvicha Kvaratskhelia,a,7453,OpenPlay,2024,RightFoot,27407,Juventus,Napoli,0,0,2024-09-21 16:00:00,Matteo Politano,Cross
+594929,24,BlockedShot,0.9230000305175782,0.6840000152587891,0.038079798221588135,Khvicha Kvaratskhelia,h,7453,SetPiece,2024,LeftFoot,27418,Napoli,Monza,2,0,2024-09-29 18:45:00,Mathías Olivera,Pass
+594931,32,Goal,0.9109999847412109,0.524000015258789,0.46820497512817383,Khvicha Kvaratskhelia,h,7453,OpenPlay,2024,RightFoot,27418,Napoli,Monza,2,0,2024-09-29 18:45:00,Scott McTominay,Rebound
+595083,60,BlockedShot,0.9,0.6819999694824219,0.07919715344905853,Khvicha Kvaratskhelia,h,7453,OpenPlay,2024,LeftFoot,27430,Napoli,Como,3,1,2024-10-04 16:30:00,Franck Zambo,Pass
+595086,74,SavedShot,0.8809999847412109,0.519000015258789,0.14128442108631134,Khvicha Kvaratskhelia,h,7453,OpenPlay,2024,RightFoot,27430,Napoli,Como,3,1,2024-10-04 16:30:00,Stanislav Lobotka,Chipped
+597430,62,Goal,0.885,0.5,0.7612988352775574,Khvicha Kvaratskhelia,a,7453,Penalty,2024,RightFoot,27435,Empoli,Napoli,0,1,2024-10-20 10:30:00,,Standard
+599513,2,BlockedShot,0.9019999694824219,0.4640000152587891,0.12719935178756714,Khvicha Kvaratskhelia,a,7453,SetPiece,2024,RightFoot,27459,AC Milan,Napoli,0,2,2024-10-29 19:45:00,Giovanni Di Lorenzo,Pass
+599524,42,Goal,0.7609999847412109,0.6480000305175782,0.025816481560468674,Khvicha Kvaratskhelia,a,7453,OpenPlay,2024,RightFoot,27459,AC Milan,Napoli,0,2,2024-10-29 19:45:00,Mathías Olivera,Pass
+600513,45,SavedShot,0.769000015258789,0.710999984741211,0.015919428318738937,Khvicha Kvaratskhelia,h,7453,OpenPlay,2024,RightFoot,27464,Napoli,Atalanta,0,3,2024-11-03 11:30:00,Mathías Olivera,Pass
+602402,14,SavedShot,0.895,0.7069999694824218,0.04351218789815903,Khvicha Kvaratskhelia,a,7453,OpenPlay,2024,RightFoot,27473,Inter,Napoli,1,1,2024-11-10 19:45:00,Franck Zambo,Pass
+602416,74,MissedShots,0.91,0.575,0.06615550071001053,Khvicha Kvaratskhelia,a,7453,OpenPlay,2024,Head,27473,Inter,Napoli,1,1,2024-11-10 19:45:00,Franck Zambo,Cross
+603586,1,MissedShots,0.9730000305175781,0.565,0.4757426679134369,Khvicha Kvaratskhelia,h,7453,OpenPlay,2024,Head,27487,Napoli,Roma,1,0,2024-11-24 17:00:00,Giovanni Di Lorenzo,Cross
+603594,28,MissedShots,0.725999984741211,0.655,0.013384703546762466,Khvicha Kvaratskhelia,h,7453,OpenPlay,2024,RightFoot,27487,Napoli,Roma,1,0,2024-11-24 17:00:00,Franck Zambo,BallTouch
+603596,39,MissedShots,0.71,0.625999984741211,0.03719991445541382,Khvicha Kvaratskhelia,h,7453,DirectFreekick,2024,RightFoot,27487,Napoli,Roma,1,0,2024-11-24 17:00:00,,Standard
+604697,17,MissedShots,0.8669999694824219,0.5770000076293945,0.07215072959661484,Khvicha Kvaratskhelia,a,7453,OpenPlay,2024,RightFoot,27500,Torino,Napoli,0,1,2024-12-01 14:00:00,,None
+604698,18,BlockedShot,0.8540000152587891,0.6170000076293946,0.06836573034524918,Khvicha Kvaratskhelia,a,7453,OpenPlay,2024,RightFoot,27500,Torino,Napoli,0,1,2024-12-01 14:00:00,Franck Zambo,BallRecovery
+604700,23,SavedShot,0.8909999847412109,0.4209999847412109,0.0447709783911705,Khvicha Kvaratskhelia,a,7453,OpenPlay,2024,Head,27500,Torino,Napoli,0,1,2024-12-01 14:00:00,Matteo Politano,Cross
+604706,53,BlockedShot,0.8219999694824218,0.41900001525878905,0.061818111687898636,Khvicha Kvaratskhelia,a,7453,OpenPlay,2024,RightFoot,27500,Torino,Napoli,0,1,2024-12-01 14:00:00,Romelu Lukaku,Pass
+606622,3,MissedShots,0.7919999694824219,0.5970000076293945,0.034332118928432465,Khvicha Kvaratskhelia,h,7453,FromCorner,2024,RightFoot,27509,Napoli,Lazio,0,1,2024-12-08 19:45:00,,Rebound
+606627,30,MissedShots,0.7969999694824219,0.6309999847412109,0.028131920844316483,Khvicha Kvaratskhelia,h,7453,OpenPlay,2024,RightFoot,27509,Napoli,Lazio,0,1,2024-12-08 19:45:00,Scott McTominay,Pass
+606631,47,MissedShots,0.7619999694824219,0.5840000152587891,0.06897816807031631,Khvicha Kvaratskhelia,h,7453,DirectFreekick,2024,RightFoot,27509,Napoli,Lazio,0,1,2024-12-08 19:45:00,,Standard
+608458,94,MissedShots,0.9080000305175782,0.33599998474121096,0.07763364166021347,Khvicha Kvaratskhelia,a,7453,OpenPlay,2024,RightFoot,27524,Genoa,Napoli,1,2,2024-12-21 17:00:00,Leonardo Spinazzola,Chipped
+609429,14,SavedShot,0.9209999847412109,0.685,0.05563768744468689,Khvicha Kvaratskhelia,h,7453,OpenPlay,2024,LeftFoot,27539,Napoli,Venezia,1,0,2024-12-29 14:00:00,,None
+609437,53,BlockedShot,0.860999984741211,0.72,0.014908980578184128,Khvicha Kvaratskhelia,h,7453,OpenPlay,2024,RightFoot,27539,Napoli,Venezia,1,0,2024-12-29 14:00:00,Scott McTominay,Aerial
+609439,58,SavedShot,0.8430000305175781,0.6459999847412109,0.05419650301337242,Khvicha Kvaratskhelia,h,7453,OpenPlay,2024,RightFoot,27539,Napoli,Venezia,1,0,2024-12-29 14:00:00,Romelu Lukaku,Pass
+609442,64,MissedShots,0.7909999847412109,0.5570000076293945,0.016590815037488937,Khvicha Kvaratskhelia,h,7453,FromCorner,2024,RightFoot,27539,Napoli,Venezia,1,0,2024-12-29 14:00:00,,Aerial
+609444,70,SavedShot,0.8959999847412109,0.7390000152587891,0.03914366662502289,Khvicha Kvaratskhelia,h,7453,OpenPlay,2024,LeftFoot,27539,Napoli,Venezia,1,0,2024-12-29 14:00:00,David Neres,Pass
+609445,73,MissedShots,0.749000015258789,0.74,0.007917802780866623,Khvicha Kvaratskhelia,h,7453,OpenPlay,2024,LeftFoot,27539,Napoli,Venezia,1,0,2024-12-29 14:00:00,Giacomo Raspadori,Chipped
+613672,27,BlockedShot,0.7880000305175782,0.6409999847412109,0.027853194624185562,Khvicha Kvaratskhelia,h,7453,OpenPlay,2024,RightFoot,28216,Paris Saint Germain,Reims,1,1,2025-01-25 20:05:00,Fabián,Pass
+613684,55,SavedShot,0.9069999694824219,0.740999984741211,0.06847815960645676,Khvicha Kvaratskhelia,h,7453,OpenPlay,2024,LeftFoot,28216,Paris Saint Germain,Reims,1,1,2025-01-25 20:05:00,Désiré Doué,Pass
+615028,12,MissedShots,0.955,0.605999984741211,0.37418508529663086,Khvicha Kvaratskhelia,a,7453,OpenPlay,2024,LeftFoot,28220,Brest,Paris Saint Germain,2,5,2025-02-01 16:00:00,Achraf Hakimi,Pass
+615033,25,MissedShots,0.950999984741211,0.3509999847412109,0.14329750835895538,Khvicha Kvaratskhelia,a,7453,FromCorner,2024,LeftFoot,28220,Brest,Paris Saint Germain,2,5,2025-02-01 16:00:00,Nuno Mendes,Cross
+615041,56,SavedShot,0.860999984741211,0.405,0.06555654108524323,Khvicha Kvaratskhelia,a,7453,OpenPlay,2024,LeftFoot,28220,Brest,Paris Saint Germain,2,5,2025-02-01 16:00:00,,None
+615960,38,BlockedShot,0.8209999847412109,0.43900001525878907,0.05727875605225563,Khvicha Kvaratskhelia,h,7453,OpenPlay,2024,RightFoot,28233,Paris Saint Germain,Monaco,4,1,2025-02-07 20:05:00,Vitinha,Pass
+615962,52,BlockedShot,0.8159999847412109,0.4379999923706055,0.07729513198137283,Khvicha Kvaratskhelia,h,7453,OpenPlay,2024,RightFoot,28233,Paris Saint Germain,Monaco,4,1,2025-02-07 20:05:00,,TakeOn
+615963,53,Goal,0.924000015258789,0.49400001525878906,0.517457127571106,Khvicha Kvaratskhelia,h,7453,OpenPlay,2024,LeftFoot,28233,Paris Saint Germain,Monaco,4,1,2025-02-07 20:05:00,Bradley Barcola,TakeOn
+615964,55,SavedShot,0.86,0.5779999923706055,0.10830840468406677,Khvicha Kvaratskhelia,h,7453,OpenPlay,2024,LeftFoot,28233,Paris Saint Germain,Monaco,4,1,2025-02-07 20:05:00,Bradley Barcola,Pass
+617497,28,SavedShot,0.8280000305175781,0.415,0.08398234844207764,Khvicha Kvaratskhelia,a,7453,OpenPlay,2024,LeftFoot,28237,Toulouse,Paris Saint Germain,0,1,2025-02-15 20:05:00,Achraf Hakimi,TakeOn
+617514,60,MissedShots,0.8490000152587891,0.8180000305175781,0.051817264407873154,Khvicha Kvaratskhelia,a,7453,DirectFreekick,2024,RightFoot,28237,Toulouse,Paris Saint Germain,0,1,2025-02-15 20:05:00,,Standard
+619304,25,MissedShots,0.924000015258789,0.6359999847412109,0.21315549314022064,Khvicha Kvaratskhelia,a,7453,OpenPlay,2024,RightFoot,28254,Lyon,Paris Saint Germain,2,3,2025-02-23 19:45:00,Bradley Barcola,TakeOn
+619311,45,SavedShot,0.755,0.38599998474121094,0.03438020125031471,Khvicha Kvaratskhelia,a,7453,OpenPlay,2024,LeftFoot,28254,Lyon,Paris Saint Germain,2,3,2025-02-23 19:45:00,Achraf Hakimi,TakeOn
+621401,65,MissedShots,0.8109999847412109,0.4809999847412109,0.06923734396696091,Khvicha Kvaratskhelia,a,7453,OpenPlay,2024,RightFoot,28271,Rennes,Paris Saint Germain,1,4,2025-03-08 16:00:00,Vitinha,Pass
+621402,66,MissedShots,0.78,0.28200000762939453,0.02506878785789013,Khvicha Kvaratskhelia,a,7453,OpenPlay,2024,RightFoot,28271,Rennes,Paris Saint Germain,1,4,2025-03-08 16:00:00,Ousmane Dembélé,Pass
+623751,14,BlockedShot,0.8490000152587891,0.5540000152587891,0.05077929049730301,Khvicha Kvaratskhelia,h,7453,OpenPlay,2024,RightFoot,28273,Paris Saint Germain,Marseille,3,1,2025-03-16 19:45:00,Achraf Hakimi,Cross
+624341,28,BlockedShot,0.8690000152587891,0.69,0.042008496820926666,Khvicha Kvaratskhelia,a,7453,OpenPlay,2024,RightFoot,28287,Saint-Etienne,Paris Saint Germain,1,6,2025-03-29 18:00:00,Désiré Doué,Pass
+624344,30,BlockedShot,0.759000015258789,0.5820000076293945,0.020904073491692543,Khvicha Kvaratskhelia,a,7453,OpenPlay,2024,RightFoot,28287,Saint-Etienne,Paris Saint Germain,1,6,2025-03-29 18:00:00,Désiré Doué,Pass
+624352,49,Goal,0.899000015258789,0.3559999847412109,0.3367731273174286,Khvicha Kvaratskhelia,a,7453,OpenPlay,2024,LeftFoot,28287,Saint-Etienne,Paris Saint Germain,1,6,2025-03-29 18:00:00,,BallRecovery
+624356,54,SavedShot,0.8109999847412109,0.35200000762939454,0.05173371359705925,Khvicha Kvaratskhelia,a,7453,OpenPlay,2024,LeftFoot,28287,Saint-Etienne,Paris Saint Germain,1,6,2025-03-29 18:00:00,Désiré Doué,Pass
+624357,56,MissedShots,0.7090000152587891,0.27700000762939453,0.01914520375430584,Khvicha Kvaratskhelia,a,7453,OpenPlay,2024,RightFoot,28287,Saint-Etienne,Paris Saint Germain,1,6,2025-03-29 18:00:00,Désiré Doué,Pass
+625783,47,MissedShots,0.8580000305175781,0.7319999694824219,0.03213537111878395,Khvicha Kvaratskhelia,h,7453,OpenPlay,2024,RightFoot,28297,Paris Saint Germain,Angers,1,0,2025-04-05 15:00:00,Fabián,Pass
+625784,51,BlockedShot,0.769000015258789,0.654000015258789,0.0216427780687809,Khvicha Kvaratskhelia,h,7453,OpenPlay,2024,RightFoot,28297,Paris Saint Germain,Angers,1,0,2025-04-05 15:00:00,Désiré Doué,Pass
+625793,91,SavedShot,0.835999984741211,0.585999984741211,0.07712747901678085,Khvicha Kvaratskhelia,h,7453,OpenPlay,2024,RightFoot,28297,Paris Saint Germain,Angers,1,0,2025-04-05 15:00:00,Bradley Barcola,Pass
+630017,27,SavedShot,0.97,0.63,0.2780953049659729,Khvicha Kvaratskhelia,h,7453,OpenPlay,2024,LeftFoot,28324,Paris Saint Germain,Nice,1,3,2025-04-25 18:45:00,Ousmane Dembélé,TakeOn
+630031,55,MissedShots,0.8719999694824219,0.7030000305175781,0.03922076150774956,Khvicha Kvaratskhelia,h,7453,OpenPlay,2024,LeftFoot,28324,Paris Saint Germain,Nice,1,3,2025-04-25 18:45:00,Nuno Mendes,Pass
+630041,73,BlockedShot,0.8040000152587891,0.24100000381469727,0.016129858791828156,Khvicha Kvaratskhelia,h,7453,OpenPlay,2024,RightFoot,28324,Paris Saint Germain,Nice,1,3,2025-04-25 18:45:00,Vitinha,Pass
+634590,24,SavedShot,0.8130000305175781,0.5309999847412109,0.054291654378175735,Khvicha Kvaratskhelia,h,7453,OpenPlay,2024,LeftFoot,28351,Paris Saint Germain,Auxerre,3,1,2025-05-17 19:00:00,Vitinha,Pass
+634597,47,MissedShots,0.9309999847412109,0.46099998474121096,0.11415599286556244,Khvicha Kvaratskhelia,h,7453,FromCorner,2024,Head,28351,Paris Saint Germain,Auxerre,3,1,2025-05-17 19:00:00,Nuno Mendes,Cross
+634599,51,SavedShot,0.86,0.69,0.04406897351145744,Khvicha Kvaratskhelia,h,7453,FromCorner,2024,RightFoot,28351,Paris Saint Germain,Auxerre,3,1,2025-05-17 19:00:00,Vitinha,Pass
+634601,58,Goal,0.7559999847412109,0.545,0.02417546883225441,Khvicha Kvaratskhelia,h,7453,OpenPlay,2024,RightFoot,28351,Paris Saint Germain,Auxerre,3,1,2025-05-17 19:00:00,Fabián,Pass
+634608,80,SavedShot,0.7390000152587891,0.519000015258789,0.020563269034028053,Khvicha Kvaratskhelia,h,7453,OpenPlay,2024,RightFoot,28351,Paris Saint Germain,Auxerre,3,1,2025-05-17 19:00:00,,Rebound
+634609,83,ShotOnPost,0.805,0.42700000762939455,0.12730436027050018,Khvicha Kvaratskhelia,h,7453,DirectFreekick,2024,RightFoot,28351,Paris Saint Germain,Auxerre,3,1,2025-05-17 19:00:00,,Standard
+634610,87,Goal,0.8719999694824219,0.5259999847412109,0.6810569167137146,Khvicha Kvaratskhelia,h,7453,OpenPlay,2024,RightFoot,28351,Paris Saint Germain,Auxerre,3,1,2025-05-17 19:00:00,Senny Mayulu,TakeOn
+638325,83,SavedShot,0.76,0.64,0.027201522141695023,Khvicha Kvaratskhelia,a,7453,OpenPlay,2025,RightFoot,29546,Nantes,Paris Saint Germain,0,1,2025-08-17 18:45:00,Désiré Doué,Pass
+644054,30,MissedShots,0.865999984741211,0.73,0.02704632095992565,Khvicha Kvaratskhelia,a,7453,OpenPlay,2025,RightFoot,29579,Marseille,Paris Saint Germain,1,0,2025-09-22 18:45:00,Nuno Mendes,Pass
+644057,58,BlockedShot,0.9280000305175782,0.565,0.09964492172002792,Khvicha Kvaratskhelia,a,7453,OpenPlay,2025,RightFoot,29579,Marseille,Paris Saint Germain,1,0,2025-09-22 18:45:00,Warren Zaïre-Emery,Pass
+644062,79,MissedShots,0.720999984741211,0.7019999694824218,0.035541679710149765,Khvicha Kvaratskhelia,a,7453,DirectFreekick,2025,RightFoot,29579,Marseille,Paris Saint Germain,1,0,2025-09-22 18:45:00,,Standard
+645113,3,MissedShots,0.9059999847412109,0.69,0.05592913180589676,Khvicha Kvaratskhelia,h,7453,OpenPlay,2025,LeftFoot,29588,Paris Saint Germain,Auxerre,2,0,2025-09-27 19:05:00,Lee Kang-In,Chipped
+645118,31,SavedShot,0.9169999694824219,0.3240000152587891,0.0575832761824131,Khvicha Kvaratskhelia,h,7453,OpenPlay,2025,RightFoot,29588,Paris Saint Germain,Auxerre,2,0,2025-09-27 19:05:00,Warren Zaïre-Emery,Chipped
+647183,76,BlockedShot,0.8119999694824219,0.29399999618530276,0.024276958778500557,Khvicha Kvaratskhelia,h,7453,OpenPlay,2025,RightFoot,29608,Paris Saint Germain,Strasbourg,3,3,2025-10-17 18:45:00,Lee Kang-In,Pass
+647187,83,MissedShots,0.8159999847412109,0.3079999923706055,0.0308262687176466,Khvicha Kvaratskhelia,h,7453,OpenPlay,2025,LeftFoot,29608,Paris Saint Germain,Strasbourg,3,3,2025-10-17 18:45:00,Quentin Ndjantou,Pass
+647190,94,MissedShots,0.8690000152587891,0.36900001525878906,0.06190727651119232,Khvicha Kvaratskhelia,h,7453,OpenPlay,2025,RightFoot,29608,Paris Saint Germain,Strasbourg,3,3,2025-10-17 18:45:00,,None
+647191,95,SavedShot,0.75,0.3659999847412109,0.017335407435894012,Khvicha Kvaratskhelia,h,7453,OpenPlay,2025,LeftFoot,29608,Paris Saint Germain,Strasbourg,3,3,2025-10-17 18:45:00,Lee Kang-In,Pass
+649019,38,SavedShot,0.9269999694824219,0.56,0.45728743076324463,Khvicha Kvaratskhelia,a,7453,OpenPlay,2025,RightFoot,29613,Brest,Paris Saint Germain,0,3,2025-10-25 15:00:00,Lee Kang-In,TakeOn
+649025,64,SavedShot,0.92,0.3039999961853027,0.04690834507346153,Khvicha Kvaratskhelia,a,7453,FromCorner,2025,RightFoot,29613,Brest,Paris Saint Germain,0,3,2025-10-25 15:00:00,Senny Mayulu,Pass
+650229,88,BlockedShot,0.9390000152587891,0.634000015258789,0.12693192064762115,Khvicha Kvaratskhelia,a,7453,OpenPlay,2025,RightFoot,29621,Lorient,Paris Saint Germain,1,1,2025-10-29 17:00:00,Gonçalo Ramos,TakeOn
+650228,88,SavedShot,0.7730000305175782,0.775,0.016595706343650818,Khvicha Kvaratskhelia,a,7453,OpenPlay,2025,RightFoot,29621,Lorient,Paris Saint Germain,1,1,2025-10-29 17:00:00,Marquinhos,Pass
+650949,17,BlockedShot,0.894000015258789,0.2589999961853027,0.03012070432305336,Khvicha Kvaratskhelia,h,7453,OpenPlay,2025,LeftFoot,29634,Paris Saint Germain,Nice,1,0,2025-11-01 16:00:00,Achraf Hakimi,TakeOn
+650963,60,MissedShots,0.9169999694824219,0.46,0.05852114409208298,Khvicha Kvaratskhelia,h,7453,OpenPlay,2025,Head,29634,Paris Saint Germain,Nice,1,0,2025-11-01 16:00:00,Bradley Barcola,Aerial
+653146,32,Goal,0.8430000305175781,0.5359999847412109,0.34586241841316223,Khvicha Kvaratskhelia,a,7453,OpenPlay,2025,RightFoot,29640,Lyon,Paris Saint Germain,2,3,2025-11-09 19:45:00,Vitinha,BallRecovery
+653149,48,BlockedShot,0.845,0.7580000305175781,0.03175038844347,Khvicha Kvaratskhelia,a,7453,OpenPlay,2025,RightFoot,29640,Lyon,Paris Saint Germain,2,3,2025-11-09 19:45:00,Lucas Hernández,Pass
+654024,74,MissedShots,0.874000015258789,0.6459999847412109,0.09898396581411362,Khvicha Kvaratskhelia,h,7453,OpenPlay,2025,LeftFoot,29652,Paris Saint Germain,Le Havre,3,0,2025-11-22 20:05:00,Bradley Barcola,Pass
+654025,76,BlockedShot,0.8369999694824218,0.5829999923706055,0.09570786356925964,Khvicha Kvaratskhelia,h,7453,OpenPlay,2025,RightFoot,29652,Paris Saint Germain,Le Havre,3,0,2025-11-22 20:05:00,Bradley Barcola,Pass
+654031,88,BlockedShot,0.8580000305175781,0.2620000076293945,0.031095581129193306,Khvicha Kvaratskhelia,h,7453,OpenPlay,2025,LeftFoot,29652,Paris Saint Germain,Le Havre,3,0,2025-11-22 20:05:00,Warren Zaïre-Emery,Pass
+654033,91,SavedShot,0.7909999847412109,0.4859999847412109,0.060359884053468704,Khvicha Kvaratskhelia,h,7453,OpenPlay,2025,RightFoot,29652,Paris Saint Germain,Le Havre,3,0,2025-11-22 20:05:00,Ibrahim Mbaye,Pass
+654034,91,MissedShots,0.8490000152587891,0.7419999694824219,0.04220162704586983,Khvicha Kvaratskhelia,h,7453,OpenPlay,2025,RightFoot,29652,Paris Saint Germain,Le Havre,3,0,2025-11-22 20:05:00,Fabián,Pass
+655139,24,BlockedShot,0.850999984741211,0.710999984741211,0.03143269568681717,Khvicha Kvaratskhelia,a,7453,OpenPlay,2025,RightFoot,29661,Monaco,Paris Saint Germain,1,0,2025-11-29 16:00:00,Lucas Hernández,Pass
+655144,34,SavedShot,0.860999984741211,0.7340000152587891,0.031280819326639175,Khvicha Kvaratskhelia,a,7453,OpenPlay,2025,RightFoot,29661,Monaco,Paris Saint Germain,1,0,2025-11-29 16:00:00,João Neves,Pass
+655150,53,SavedShot,0.950999984741211,0.6120000076293945,0.33225712180137634,Khvicha Kvaratskhelia,a,7453,OpenPlay,2025,RightFoot,29661,Monaco,Paris Saint Germain,1,0,2025-11-29 16:00:00,Senny Mayulu,Pass
+657238,27,Goal,0.8469999694824218,0.48,0.09588561207056046,Khvicha Kvaratskhelia,h,7453,OpenPlay,2025,RightFoot,29671,Paris Saint Germain,Rennes,5,0,2025-12-06 20:05:00,Lucas Hernández,TakeOn
+657244,50,SavedShot,0.7080000305175781,0.45599998474121095,0.015771206468343735,Khvicha Kvaratskhelia,h,7453,OpenPlay,2025,RightFoot,29671,Paris Saint Germain,Rennes,5,0,2025-12-06 20:05:00,Bradley Barcola,BallTouch
+657249,58,MissedShots,0.9130000305175782,0.6480000305175782,0.13207842409610748,Khvicha Kvaratskhelia,h,7453,OpenPlay,2025,LeftFoot,29671,Paris Saint Germain,Rennes,5,0,2025-12-06 20:05:00,,TakeOn
+657251,66,Goal,0.874000015258789,0.4879999923706055,0.46778449416160583,Khvicha Kvaratskhelia,h,7453,OpenPlay,2025,RightFoot,29671,Paris Saint Germain,Rennes,5,0,2025-12-06 20:05:00,Senny Mayulu,Pass
+658396,80,SavedShot,0.865999984741211,0.40900001525878904,0.09578881412744522,Khvicha Kvaratskhelia,a,7453,OpenPlay,2025,LeftFoot,29677,Metz,Paris Saint Germain,2,3,2025-12-13 18:00:00,,BallTouch
+664485,7,BlockedShot,0.8959999847412109,0.4909999847412109,0.20221740007400513,Khvicha Kvaratskhelia,a,7453,OpenPlay,2025,RightFoot,29700,Auxerre,Paris Saint Germain,0,1,2026-01-23 19:00:00,Senny Mayulu,TakeOn
+664489,35,SavedShot,0.9830000305175781,0.5929999923706055,0.07606706023216248,Khvicha Kvaratskhelia,a,7453,SetPiece,2025,RightFoot,29700,Auxerre,Paris Saint Germain,0,1,2026-01-23 19:00:00,,None
+664491,46,BlockedShot,0.8490000152587891,0.5829999923706055,0.06228349357843399,Khvicha Kvaratskhelia,a,7453,OpenPlay,2025,RightFoot,29700,Auxerre,Paris Saint Germain,0,1,2026-01-23 19:00:00,,None
+664495,53,BlockedShot,0.7659999847412109,0.57,0.026866860687732697,Khvicha Kvaratskhelia,a,7453,OpenPlay,2025,LeftFoot,29700,Auxerre,Paris Saint Germain,0,1,2026-01-23 19:00:00,Ibrahim Mbaye,BallTouch
+668006,65,Goal,0.8809999847412109,0.37200000762939456,0.10429776459932327,Khvicha Kvaratskhelia,h,7453,OpenPlay,2025,RightFoot,29726,Paris Saint Germain,Marseille,5,0,2026-02-08 19:45:00,Ousmane Dembélé,Chipped
+668012,88,ShotOnPost,0.9580000305175781,0.505,0.5962828993797302,Khvicha Kvaratskhelia,h,7453,SetPiece,2025,RightFoot,29726,Paris Saint Germain,Marseille,5,0,2026-02-08 19:45:00,Lee Kang-In,Cross
+668447,31,BlockedShot,0.8540000152587891,0.5840000152587891,0.09169307351112366,Khvicha Kvaratskhelia,a,7453,OpenPlay,2025,RightFoot,29735,Rennes,Paris Saint Germain,3,1,2026-02-13 18:00:00,Désiré Doué,TakeOn
+671386,1,BlockedShot,0.9490000152587891,0.5259999847412109,0.1319504678249359,Khvicha Kvaratskhelia,a,7453,FromCorner,2025,Head,29745,Le Havre,Paris Saint Germain,0,1,2026-02-28 20:05:00,Lee Kang-In,Cross
+671390,13,MissedShots,0.875,0.74,0.03169421851634979,Khvicha Kvaratskhelia,a,7453,OpenPlay,2025,RightFoot,29745,Le Havre,Paris Saint Germain,0,1,2026-02-28 20:05:00,Vitinha,Pass
+671398,46,MissedShots,0.840999984741211,0.6170000076293946,0.09017930924892426,Khvicha Kvaratskhelia,a,7453,OpenPlay,2025,LeftFoot,29745,Le Havre,Paris Saint Germain,0,1,2026-02-28 20:05:00,Lucas Hernández,TakeOn
+671399,49,ShotOnPost,0.9169999694824219,0.3110000038146973,0.07530011236667633,Khvicha Kvaratskhelia,a,7453,OpenPlay,2025,RightFoot,29745,Le Havre,Paris Saint Germain,0,1,2026-02-28 20:05:00,Warren Zaïre-Emery,BallRecovery
+671404,58,SavedShot,0.7440000152587891,0.664000015258789,0.023347383365035057,Khvicha Kvaratskhelia,a,7453,OpenPlay,2025,RightFoot,29745,Le Havre,Paris Saint Germain,0,1,2026-02-28 20:05:00,Bradley Barcola,Pass
+671406,66,BlockedShot,0.8440000152587891,0.3170000076293945,0.028099728748202324,Khvicha Kvaratskhelia,a,7453,FromCorner,2025,LeftFoot,29745,Le Havre,Paris Saint Germain,0,1,2026-02-28 20:05:00,,Dispossessed
+671408,69,MissedShots,0.9080000305175782,0.335,0.07751524448394775,Khvicha Kvaratskhelia,a,7453,OpenPlay,2025,RightFoot,29745,Le Havre,Paris Saint Germain,0,1,2026-02-28 20:05:00,Warren Zaïre-Emery,Pass
+672383,23,BlockedShot,0.950999984741211,0.7,0.0760759562253952,Khvicha Kvaratskhelia,h,7453,OpenPlay,2025,LeftFoot,29761,Paris Saint Germain,Monaco,1,3,2026-03-06 19:45:00,Vitinha,Pass
+672388,49,MissedShots,0.899000015258789,0.31799999237060544,0.07163799554109573,Khvicha Kvaratskhelia,h,7453,OpenPlay,2025,RightFoot,29761,Paris Saint Germain,Monaco,1,3,2026-03-06 19:45:00,Désiré Doué,TakeOn
+675613,11,SavedShot,0.909000015258789,0.6709999847412109,0.11985662579536438,Khvicha Kvaratskhelia,a,7453,OpenPlay,2025,LeftFoot,29777,Nice,Paris Saint Germain,0,4,2026-03-21 20:05:00,Désiré Doué,Throughball
+675614,18,SavedShot,0.9340000152587891,0.6419999694824219,0.11126703023910522,Khvicha Kvaratskhelia,a,7453,OpenPlay,2025,LeftFoot,29777,Nice,Paris Saint Germain,0,4,2026-03-21 20:05:00,Nuno Mendes,Pass
+675620,36,BlockedShot,0.8930000305175781,0.53,0.29837122559547424,Khvicha Kvaratskhelia,a,7453,OpenPlay,2025,Head,29777,Nice,Paris Saint Germain,0,4,2026-03-21 20:05:00,Désiré Doué,Chipped
+676288,2,SavedShot,0.7830000305175782,0.6509999847412109,0.04640355333685875,Khvicha Kvaratskhelia,h,7453,OpenPlay,2025,RightFoot,29788,Paris Saint Germain,Toulouse,3,1,2026-04-03 18:45:00,Lee Kang-In,Pass
+676295,32,BlockedShot,0.9259999847412109,0.4129999923706055,0.01976812072098255,Khvicha Kvaratskhelia,h,7453,FromCorner,2025,Head,29788,Paris Saint Germain,Toulouse,3,1,2026-04-03 18:45:00,Lee Kang-In,Aerial
+676298,38,BlockedShot,0.8330000305175781,0.27399999618530274,0.03374949097633362,Khvicha Kvaratskhelia,h,7453,OpenPlay,2025,RightFoot,29788,Paris Saint Germain,Toulouse,3,1,2026-04-03 18:45:00,Ousmane Dembélé,Pass
+676300,50,MissedShots,0.9030000305175782,0.305,0.07216515392065048,Khvicha Kvaratskhelia,h,7453,OpenPlay,2025,RightFoot,29788,Paris Saint Germain,Toulouse,3,1,2026-04-03 18:45:00,Lee Kang-In,TakeOn
+676301,53,MissedShots,0.9180000305175782,0.455,0.0349319651722908,Khvicha Kvaratskhelia,h,7453,FromCorner,2025,Head,29788,Paris Saint Germain,Toulouse,3,1,2026-04-03 18:45:00,Lee Kang-In,Aerial
+676305,65,MissedShots,0.79,0.7580000305175781,0.02259030193090439,Khvicha Kvaratskhelia,h,7453,OpenPlay,2025,RightFoot,29788,Paris Saint Germain,Toulouse,3,1,2026-04-03 18:45:00,Ousmane Dembélé,Pass
+679936,62,SavedShot,0.9259999847412109,0.6709999847412109,0.2436191886663437,Khvicha Kvaratskhelia,h,7453,OpenPlay,2025,LeftFoot,29806,Paris Saint Germain,Lyon,1,2,2026-04-19 18:45:00,Warren Zaïre-Emery,Pass
+679938,63,MissedShots,0.8580000305175781,0.534000015258789,0.01702265255153179,Khvicha Kvaratskhelia,h,7453,OpenPlay,2025,Head,29806,Paris Saint Germain,Lyon,1,2,2026-04-19 18:45:00,Achraf Hakimi,Cross
+679943,81,BlockedShot,0.9209999847412109,0.595,0.15953271090984344,Khvicha Kvaratskhelia,h,7453,OpenPlay,2025,LeftFoot,29806,Paris Saint Germain,Lyon,1,2,2026-04-19 18:45:00,Fabián,TakeOn
+679947,93,Goal,0.815,0.735999984741211,0.015633951872587204,Khvicha Kvaratskhelia,h,7453,OpenPlay,2025,RightFoot,29806,Paris Saint Germain,Lyon,1,2,2026-04-19 18:45:00,Fabián,Pass
+680277,12,Goal,0.885,0.5,0.7600951194763184,Khvicha Kvaratskhelia,h,7453,Penalty,2025,RightFoot,29769,Paris Saint Germain,Nantes,3,0,2026-04-22 18:00:00,,Standard
+680288,49,Goal,0.91,0.545,0.6997448801994324,Khvicha Kvaratskhelia,h,7453,OpenPlay,2025,RightFoot,29769,Paris Saint Germain,Nantes,3,0,2026-04-22 18:00:00,Ousmane Dembélé,TakeOn
+680291,60,SavedShot,0.9430000305175781,0.55,0.12178453803062439,Khvicha Kvaratskhelia,h,7453,FromCorner,2025,Head,29769,Paris Saint Germain,Nantes,3,0,2026-04-22 18:00:00,Ousmane Dembélé,Cross
+684540,88,BlockedShot,0.8369999694824218,0.720999984741211,0.0383983850479126,Khvicha Kvaratskhelia,h,7453,OpenPlay,2025,RightFoot,29832,Paris Saint Germain,Brest,1,0,2026-05-10 19:00:00,João Neves,Pass
+685010,28,Goal,0.895,0.4620000076293945,0.315907746553421,Khvicha Kvaratskhelia,a,7453,OpenPlay,2025,RightFoot,29792,Lens,Paris Saint Germain,0,2,2026-05-13 19:00:00,Ousmane Dembélé,Chipped

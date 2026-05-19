@@ -1,0 +1,7 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+585472,91,BlockedShot,0.7140000152587891,0.3820000076293945,0.03910071402788162,Nicholas Pierini,a,2012,DirectFreekick,2024,RightFoot,27369,Lazio,Venezia,3,1,2024-08-18 18:45:00,,Standard
+645832,62,BlockedShot,0.8190000152587891,0.51,0.17379865050315857,Nicholas Pierini,a,2012,DirectFreekick,2025,RightFoot,29903,Verona,Sassuolo,0,1,2025-10-03 18:45:00,,Standard
+647399,93,BlockedShot,0.8040000152587891,0.605,0.029973546043038368,Nicholas Pierini,a,2012,OpenPlay,2025,RightFoot,29910,Lecce,Sassuolo,0,0,2025-10-18 13:00:00,,Rebound
+661803,83,SavedShot,0.7080000305175781,0.34799999237060547,0.03483174741268158,Nicholas Pierini,h,2012,DirectFreekick,2025,RightFoot,30032,Sassuolo,Juventus,0,3,2026-01-06 19:45:00,,Standard
+665117,90,SavedShot,0.84,0.6379999923706055,0.06549584865570068,Nicholas Pierini,h,2012,OpenPlay,2025,RightFoot,30062,Sassuolo,Cremonese,1,0,2026-01-25 11:30:00,Nemanja Matic,Pass
+665118,92,ShotOnPost,0.875,0.7319999694824219,0.024534612894058228,Nicholas Pierini,h,2012,FromCorner,2025,RightFoot,30062,Sassuolo,Cremonese,1,0,2026-01-25 11:30:00,,BlockedPass

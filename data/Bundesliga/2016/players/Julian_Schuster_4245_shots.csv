@@ -1,0 +1,31 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+24718,24,BlockedShot,0.754000015258789,0.555,0.022508099675178528,Julian Schuster,h,4245,OpenPlay,2014,LeftFoot,5464,Freiburg,Borussia M.Gladbach,0,0,2014-08-31 16:30:00,Christian Günter,Pass
+25607,80,BlockedShot,0.6990000152587891,0.5940000152587891,0.012958699837327003,Julian Schuster,h,4245,OpenPlay,2014,RightFoot,5439,Freiburg,Bayer Leverkusen,0,0,2014-09-27 14:30:00,Christian Günter,Pass
+26061,14,SavedShot,0.7140000152587891,0.43099998474121093,0.01220260001718998,Julian Schuster,h,4245,OpenPlay,2014,RightFoot,5395,Freiburg,Wolfsburg,1,2,2014-10-18 14:30:00,,None
+26072,53,MissedShots,0.9069999694824219,0.585,0.0547184981405735,Julian Schuster,h,4245,OpenPlay,2014,Head,5395,Freiburg,Wolfsburg,1,2,2014-10-18 14:30:00,Mike Frantz,Cross
+28291,60,SavedShot,0.740999984741211,0.42700000762939455,0.01855890080332756,Julian Schuster,h,4245,OpenPlay,2014,RightFoot,5326,Freiburg,Hamburger SV,0,0,2014-12-13 14:30:00,Felix Klaus,Pass
+28549,17,BlockedShot,0.7880000305175782,0.3940000152587891,0.029195299372076988,Julian Schuster,h,4245,FromCorner,2014,RightFoot,5307,Freiburg,Eintracht Frankfurt,4,1,2015-01-31 14:30:00,Felix Klaus,Pass
+30814,29,MissedShots,0.8690000152587891,0.355,0.05824989825487137,Julian Schuster,a,4245,OpenPlay,2014,RightFoot,5206,Schalke 04,Freiburg,0,0,2015-04-11 14:30:00,,None
+30823,57,MissedShots,0.885,0.5,0.7577769756317139,Julian Schuster,a,4245,Penalty,2014,RightFoot,5206,Schalke 04,Freiburg,0,0,2015-04-11 14:30:00,,Standard
+30824,59,SavedShot,0.7480000305175781,0.36400001525878906,0.01654369942843914,Julian Schuster,a,4245,OpenPlay,2014,RightFoot,5206,Schalke 04,Freiburg,0,0,2015-04-11 14:30:00,Karim Guédé,Pass
+32214,37,SavedShot,0.774000015258789,0.5459999847412109,0.014031699858605862,Julian Schuster,h,4245,OpenPlay,2014,RightFoot,5214,Freiburg,Mainz 05,2,3,2015-04-18 14:30:00,,Aerial
+32223,54,SavedShot,0.725999984741211,0.40900001525878904,0.014039999805390835,Julian Schuster,h,4245,OpenPlay,2014,RightFoot,5214,Freiburg,Mainz 05,2,3,2015-04-18 14:30:00,Oliver Sorg,Pass
+32228,61,BlockedShot,0.7119999694824218,0.544000015258789,0.01119960006326437,Julian Schuster,h,4245,OpenPlay,2014,RightFoot,5214,Freiburg,Mainz 05,2,3,2015-04-18 14:30:00,Maximilian Philipp,Pass
+31217,38,MissedShots,0.7930000305175782,0.5979999923706054,0.02750289998948574,Julian Schuster,h,4245,SetPiece,2014,RightFoot,5164,Freiburg,Paderborn,1,2,2015-05-02 14:30:00,Jonathan Schmid,Pass
+131356,69,MissedShots,0.7419999694824219,0.31799999237060544,0.015154600143432617,Julian Schuster,h,4245,OpenPlay,2016,RightFoot,3202,Freiburg,Darmstadt,1,0,2016-12-10 18:30:00,Mike Frantz,Pass
+133391,54,BlockedShot,0.7819999694824219,0.5420000076293945,0.03467930108308792,Julian Schuster,a,4245,OpenPlay,2016,LeftFoot,3783,Eintracht Frankfurt,Freiburg,1,2,2017-03-05 14:30:00,Janik Haberer,Pass
+133466,55,MissedShots,0.7440000152587891,0.41,0.016652299091219902,Julian Schuster,h,4245,OpenPlay,2016,RightFoot,3807,Freiburg,Werder Bremen,2,5,2017-04-01 14:30:00,,Dispossessed
+166895,15,BlockedShot,0.745999984741211,0.67,0.015433499589562416,Julian Schuster,h,4245,OpenPlay,2017,RightFoot,8301,Freiburg,Hannover 96,1,1,2017-09-20 19:30:00,Janik Haberer,Pass
+166903,30,MissedShots,0.6980000305175781,0.49700000762939456,0.03972670063376427,Julian Schuster,h,4245,DirectFreekick,2017,RightFoot,8301,Freiburg,Hannover 96,1,1,2017-09-20 19:30:00,,Standard
+166916,59,MissedShots,0.720999984741211,0.4209999847412109,0.04739430174231529,Julian Schuster,h,4245,DirectFreekick,2017,RightFoot,8301,Freiburg,Hannover 96,1,1,2017-09-20 19:30:00,,Standard
+166921,72,MissedShots,0.75,0.6880000305175781,0.012522299773991108,Julian Schuster,h,4245,FromCorner,2017,RightFoot,8301,Freiburg,Hannover 96,1,1,2017-09-20 19:30:00,,Aerial
+167040,1,BlockedShot,0.6869999694824219,0.455,0.011915300041437149,Julian Schuster,h,4245,OpenPlay,2017,RightFoot,8316,Freiburg,Hoffenheim,3,2,2017-10-01 12:30:00,Nicolas Höfler,Interception
+167069,90,OwnGoal,0.01100000023841858,0.49700000762939456,0,Julian Schuster,h,4245,OpenPlay,2017,LeftFoot,8316,Freiburg,Hoffenheim,3,2,2017-10-01 12:30:00,,None
+167522,7,OwnGoal,0.03299999952316284,0.47,0,Julian Schuster,a,4245,OpenPlay,2017,RightFoot,8322,Bayern Munich,Freiburg,5,0,2017-10-14 14:30:00,,CornerAwarded
+168120,89,SavedShot,0.794000015258789,0.47299999237060547,0.12087500095367432,Julian Schuster,h,4245,DirectFreekick,2017,RightFoot,8333,Freiburg,Hertha Berlin,1,1,2017-10-22 14:30:00,,Standard
+168133,46,BlockedShot,0.6969999694824218,0.46700000762939453,0.03903599828481674,Julian Schuster,a,4245,DirectFreekick,2017,RightFoot,8365,Wolfsburg,Freiburg,3,1,2017-11-18 14:30:00,,Standard
+168389,25,MissedShots,0.6990000152587891,0.5129999923706055,0.04005970060825348,Julian Schuster,h,4245,DirectFreekick,2017,RightFoot,8370,Freiburg,Mainz 05,2,1,2017-11-25 14:30:00,,Standard
+168405,61,MissedShots,0.7519999694824219,0.3629999923706055,0.057603899389505386,Julian Schuster,h,4245,DirectFreekick,2017,RightFoot,8370,Freiburg,Mainz 05,2,1,2017-11-25 14:30:00,,Standard
+168414,88,MissedShots,0.76,0.5929999923706055,0.07017110288143158,Julian Schuster,h,4245,DirectFreekick,2017,RightFoot,8370,Freiburg,Mainz 05,2,1,2017-11-25 14:30:00,,Standard
+209442,75,BlockedShot,0.7169999694824218,0.43400001525878906,0.04626749828457832,Julian Schuster,a,4245,DirectFreekick,2017,RightFoot,8526,Mainz 05,Freiburg,2,0,2018-04-16 18:30:00,,Standard
+209446,92,MissedShots,0.7,0.40099998474121096,0.00954928994178772,Julian Schuster,a,4245,OpenPlay,2017,RightFoot,8526,Mainz 05,Freiburg,2,0,2018-04-16 18:30:00,,BallRecovery

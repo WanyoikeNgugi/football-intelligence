@@ -1,0 +1,47 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+426398,17,MissedShots,0.8869999694824219,0.4520000076293945,0.04070470109581947,Christopher Wooh,h,9631,FromCorner,2021,Head,17840,Lens,Saint-Etienne,2,2,2021-08-15 15:00:00,Jonathan Clauss,Cross
+436981,54,BlockedShot,0.7719999694824219,0.385,0.021643299609422684,Christopher Wooh,a,9631,OpenPlay,2021,RightFoot,17918,Montpellier,Lens,1,0,2021-10-17 15:00:00,,BallRecovery
+436986,69,SavedShot,0.8859999847412109,0.62,0.09120819717645645,Christopher Wooh,a,9631,OpenPlay,2021,LeftFoot,17918,Montpellier,Lens,1,0,2021-10-17 15:00:00,,TakeOn
+450395,28,BlockedShot,0.9890000152587891,0.4879999923706055,0.9669979810714722,Christopher Wooh,a,9631,FromCorner,2021,RightFoot,18009,Nice,Lens,2,1,2021-12-22 19:45:00,,Rebound
+465584,15,MissedShots,0.894000015258789,0.44799999237060545,0.044913601130247116,Christopher Wooh,a,9631,FromCorner,2021,Head,18120,Strasbourg,Lens,1,0,2022-04-03 11:00:00,Jonathan Clauss,Cross
+465606,92,MissedShots,0.885,0.3039999961853027,0.051469601690769196,Christopher Wooh,a,9631,OpenPlay,2021,RightFoot,18120,Strasbourg,Lens,1,0,2022-04-03 11:00:00,Ibrahima Baldé,Pass
+469479,59,BlockedShot,0.7080000305175781,0.545,0.015910599380731583,Christopher Wooh,h,9631,OpenPlay,2021,RightFoot,18145,Lens,Montpellier,2,0,2022-04-20 19:00:00,,None
+471719,49,SavedShot,0.6780000305175782,0.5309999847412109,0.007917310111224651,Christopher Wooh,h,9631,OpenPlay,2021,RightFoot,18162,Lens,Nantes,2,2,2022-04-30 15:00:00,,BallRecovery
+493474,13,MissedShots,0.9319999694824219,0.4490000152587891,0.3127340078353882,Christopher Wooh,h,9631,FromCorner,2022,Head,19755,Rennes,Lyon,3,2,2022-10-16 13:00:00,Benjamin Bourigeaud,Cross
+495328,0,BlockedShot,0.919000015258789,0.5659999847412109,0.07093299925327301,Christopher Wooh,a,9631,FromCorner,2022,Head,19759,Angers,Rennes,1,2,2022-10-23 11:00:00,Benjamin Bourigeaud,Cross
+495345,82,MissedShots,0.865999984741211,0.44099998474121094,0.01940860040485859,Christopher Wooh,a,9631,FromCorner,2022,Head,19759,Angers,Rennes,1,2,2022-10-23 11:00:00,Lovro Majer,Cross
+502127,48,BlockedShot,0.92,0.49,0.10520900040864944,Christopher Wooh,h,9631,FromCorner,2022,Head,19816,Rennes,Nice,2,1,2023-01-02 20:00:00,Benjamin Bourigeaud,Cross
+505604,14,MissedShots,0.9469999694824218,0.48400001525878905,0.5963249802589417,Christopher Wooh,a,9631,OpenPlay,2022,RightFoot,19841,Lorient,Rennes,2,1,2023-01-27 20:00:00,,Rebound
+535159,23,Goal,0.98,0.514000015258789,0.9489544034004211,Christopher Wooh,h,9631,SetPiece,2023,RightFoot,23391,Rennes,Le Havre,2,2,2023-08-27 11:00:00,,Rebound
+550468,33,MissedShots,0.9009999847412109,0.53,0.09324338287115097,Christopher Wooh,h,9631,SetPiece,2023,Head,23481,Rennes,Reims,3,1,2023-11-26 16:05:00,Benjamin Bourigeaud,Cross
+554813,92,SavedShot,0.955,0.495,0.4066721796989441,Christopher Wooh,a,9631,FromCorner,2023,Head,23506,Toulouse,Rennes,0,0,2023-12-17 14:00:00,Désiré Doué,Aerial
+567343,87,MissedShots,0.9230000305175782,0.6029999923706054,0.017663301900029182,Christopher Wooh,h,9631,SetPiece,2023,Head,23578,Rennes,Lorient,1,2,2024-03-03 16:05:00,Benjamin Bourigeaud,Aerial
+568777,96,MissedShots,0.904000015258789,0.39799999237060546,0.011745870113372803,Christopher Wooh,a,9631,SetPiece,2023,Head,23591,Lille,Rennes,2,2,2024-03-10 16:00:00,Ludovic Blas,Aerial
+571402,68,BlockedShot,0.895,0.49,0.024363292381167412,Christopher Wooh,a,9631,FromCorner,2023,Head,23605,Strasbourg,Rennes,2,0,2024-03-31 16:05:00,Benjamin Bourigeaud,Aerial
+571403,69,MissedShots,0.9109999847412109,0.5929999923706055,0.014430208131670952,Christopher Wooh,a,9631,FromCorner,2023,Head,23605,Strasbourg,Rennes,2,0,2024-03-31 16:05:00,Benjamin Bourigeaud,Aerial
+571413,89,MissedShots,0.89,0.39099998474121095,0.026036376133561134,Christopher Wooh,a,9631,OpenPlay,2023,Head,23605,Strasbourg,Rennes,2,0,2024-03-31 16:05:00,Guela Doué,Pass
+575079,57,MissedShots,0.91,0.5659999847412109,0.019164707511663437,Christopher Wooh,a,9631,FromCorner,2023,Head,23638,Nantes,Rennes,0,3,2024-04-20 15:00:00,Ludovic Blas,Aerial
+578691,63,BlockedShot,0.924000015258789,0.5770000076293945,0.0670679435133934,Christopher Wooh,a,9631,FromCorner,2023,Head,23657,Metz,Rennes,2,3,2024-05-04 17:00:00,Désiré Doué,Cross
+586820,77,SavedShot,0.9,0.585,0.03382803127169609,Christopher Wooh,a,9631,FromCorner,2024,Head,28063,Strasbourg,Rennes,3,1,2024-08-25 15:00:00,Ludovic Blas,Cross
+586822,86,OwnGoal,0.08,0.5320000076293945,0,Christopher Wooh,a,9631,OpenPlay,2024,LeftFoot,28063,Strasbourg,Rennes,3,1,2024-08-25 15:00:00,,None
+598114,18,MissedShots,0.9719999694824218,0.555,0.13092739880084991,Christopher Wooh,h,9631,FromCorner,2024,Head,28123,Rennes,Le Havre,1,0,2024-10-25 18:45:00,Ludovic Blas,Cross
+598118,29,BlockedShot,0.8769999694824219,0.5770000076293945,0.0834134966135025,Christopher Wooh,h,9631,OpenPlay,2024,RightFoot,28123,Rennes,Le Havre,1,0,2024-10-25 18:45:00,,Rebound
+602173,30,BlockedShot,0.9580000305175781,0.4829999923706055,0.08587102591991425,Christopher Wooh,h,9631,FromCorner,2024,Head,28138,Rennes,Toulouse,0,2,2024-11-10 16:00:00,Ludovic Blas,Aerial
+612456,8,SavedShot,0.9390000152587891,0.5509999847412109,0.05689862743020058,Christopher Wooh,h,9631,FromCorner,2024,Head,28209,Rennes,Brest,1,2,2025-01-18 18:00:00,Jordan James,Aerial
+612485,95,SavedShot,0.9490000152587891,0.515,0.4378540515899658,Christopher Wooh,h,9631,FromCorner,2024,Head,28209,Rennes,Brest,1,2,2025-01-18 18:00:00,Lorenz Assignon,HeadPass
+613483,44,MissedShots,0.9309999847412109,0.5559999847412109,0.09747336059808731,Christopher Wooh,a,9631,FromCorner,2024,Head,28211,Monaco,Rennes,3,2,2025-01-25 16:00:00,Jordan James,Cross
+613494,68,BlockedShot,0.8019999694824219,0.6279999923706054,0.03642873838543892,Christopher Wooh,a,9631,OpenPlay,2024,RightFoot,28211,Monaco,Rennes,3,2,2025-01-25 16:00:00,Seko Fofana,Pass
+615582,3,SavedShot,0.9330000305175781,0.48200000762939454,0.0683579370379448,Christopher Wooh,h,9631,FromCorner,2024,Head,28226,Rennes,Strasbourg,1,0,2025-02-02 16:15:00,,Aerial
+615587,40,MissedShots,0.9030000305175782,0.47,0.023278802633285522,Christopher Wooh,h,9631,FromCorner,2024,Head,28226,Rennes,Strasbourg,1,0,2025-02-02 16:15:00,Jordan James,Aerial
+647350,77,MissedShots,0.9580000305175781,0.5779999923706055,0.09314633905887604,Christopher Wooh,h,9631,FromCorner,2025,Head,28615,Spartak Moscow,FC Rostov,1,1,2025-10-18 12:15:00,Pablo Solari,Cross
+648703,28,MissedShots,0.955,0.49,0.14825089275836945,Christopher Wooh,h,9631,FromCorner,2025,RightFoot,28623,Spartak Moscow,FC Orenburg,1,0,2025-10-25 11:00:00,Gedson Fernandes,Pass
+648708,65,MissedShots,0.914000015258789,0.49700000762939456,0.03529895842075348,Christopher Wooh,h,9631,FromCorner,2025,Head,28623,Spartak Moscow,FC Orenburg,1,0,2025-10-25 11:00:00,Pablo Solari,Aerial
+673444,40,Goal,0.94,0.46599998474121096,0.11691168695688248,Christopher Wooh,h,9631,FromCorner,2025,Head,28687,Spartak Moscow,Akron,4,3,2026-03-09 16:00:00,Esequiel Barco,Cross
+673455,77,MissedShots,0.915,0.47900001525878905,0.08762398362159729,Christopher Wooh,h,9631,FromCorner,2025,Head,28687,Spartak Moscow,Akron,4,3,2026-03-09 16:00:00,Igor Dmitriev,Cross
+675666,28,BlockedShot,0.8159999847412109,0.4809999847412109,0.06875240057706833,Christopher Wooh,a,9631,OpenPlay,2025,LeftFoot,28698,FC Orenburg,Spartak Moscow,0,2,2026-03-22 10:45:00,Levi García,Pass
+675667,29,SavedShot,0.8109999847412109,0.4540000152587891,0.07931671291589737,Christopher Wooh,a,9631,OpenPlay,2025,LeftFoot,28698,FC Orenburg,Spartak Moscow,0,2,2026-03-22 10:45:00,Esequiel Barco,Pass
+675668,32,MissedShots,0.9019999694824219,0.5159999847412109,0.10837072879076004,Christopher Wooh,a,9631,SetPiece,2025,RightFoot,28698,FC Orenburg,Spartak Moscow,0,2,2026-03-22 10:45:00,Esequiel Barco,Pass
+679673,13,BlockedShot,0.7319999694824219,0.4420000076293945,0.015434406697750092,Christopher Wooh,h,9631,OpenPlay,2025,RightFoot,28729,Spartak Moscow,FK Akhmat,3,1,2026-04-19 14:00:00,Gedson Fernandes,Pass
+681360,87,SavedShot,0.92,0.475,0.12253404408693314,Christopher Wooh,a,9631,SetPiece,2025,Head,28747,Nizhny Novgorod,Spartak Moscow,1,2,2026-04-26 11:00:00,Esequiel Barco,Cross
+684702,3,Goal,0.9580000305175781,0.5720000076293945,0.11385215818881989,Christopher Wooh,h,9631,FromCorner,2025,LeftFoot,28767,Spartak Moscow,Rubin Kazan,2,1,2026-05-11 14:30:00,Manfred Ugalde,HeadPass
+684713,48,MissedShots,0.669000015258789,0.66,0.01292956992983818,Christopher Wooh,h,9631,FromCorner,2025,RightFoot,28767,Spartak Moscow,Rubin Kazan,2,1,2026-05-11 14:30:00,Esequiel Barco,Aerial

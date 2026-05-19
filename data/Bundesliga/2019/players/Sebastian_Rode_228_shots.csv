@@ -1,0 +1,61 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+26890,85,MissedShots,0.865,0.39099998474121095,0.10822699964046478,Sebastian Rode,a,228,OpenPlay,2014,RightFoot,5360,Eintracht Frankfurt,Bayern Munich,0,4,2014-11-08 14:30:00,Arjen Robben,Pass
+26948,85,Goal,0.9159999847412109,0.3940000152587891,0.36836498975753784,Sebastian Rode,h,228,OpenPlay,2014,RightFoot,5365,Bayern Munich,Hoffenheim,4,0,2014-11-22 14:30:00,Bastian Schweinsteiger,Chipped
+26949,88,ShotOnPost,0.8419999694824218,0.6930000305175781,0.058262899518013,Sebastian Rode,h,228,OpenPlay,2014,RightFoot,5365,Bayern Munich,Hoffenheim,4,0,2014-11-22 14:30:00,Xabi Alonso,Pass
+27134,89,MissedShots,0.8619999694824219,0.6930000305175781,0.05711299926042557,Sebastian Rode,a,228,OpenPlay,2014,RightFoot,5378,Hertha Berlin,Bayern Munich,0,1,2014-11-29 14:30:00,Franck Ribéry,Pass
+28040,25,MissedShots,0.8080000305175781,0.575,0.01997469924390316,Sebastian Rode,a,228,OpenPlay,2014,LeftFoot,5324,Augsburg,Bayern Munich,0,4,2014-12-13 14:30:00,Arjen Robben,Chipped
+28047,41,MissedShots,0.8630000305175781,0.3029999923706055,0.042374398559331894,Sebastian Rode,a,228,OpenPlay,2014,RightFoot,5324,Augsburg,Bayern Munich,0,4,2014-12-13 14:30:00,,None
+31394,88,MissedShots,0.8769999694824219,0.33299999237060546,0.08190560340881348,Sebastian Rode,a,228,OpenPlay,2014,RightFoot,5246,Werder Bremen,Bayern Munich,0,4,2015-03-14 14:30:00,Thomas Müller,Pass
+32020,8,BlockedShot,0.750999984741211,0.539000015258789,0.023673800751566887,Sebastian Rode,a,228,OpenPlay,2014,LeftFoot,5215,Hoffenheim,Bayern Munich,0,2,2015-04-18 14:30:00,Rafinha,TakeOn
+32021,16,MissedShots,0.8180000305175781,0.29700000762939455,0.02040169946849346,Sebastian Rode,a,228,FromCorner,2014,RightFoot,5215,Hoffenheim,Bayern Munich,0,2,2015-04-18 14:30:00,,None
+32025,37,Goal,0.85,0.5320000076293945,0.09238039702177048,Sebastian Rode,a,228,OpenPlay,2014,RightFoot,5215,Hoffenheim,Bayern Munich,0,2,2015-04-18 14:30:00,Robert Lewandowski,TakeOn
+32041,85,SavedShot,0.784000015258789,0.754000015258789,0.02230129949748516,Sebastian Rode,a,228,OpenPlay,2014,RightFoot,5215,Hoffenheim,Bayern Munich,0,2,2015-04-18 14:30:00,Robert Lewandowski,Pass
+31041,66,MissedShots,0.8519999694824218,0.28899999618530275,0.06352529674768448,Sebastian Rode,h,228,OpenPlay,2014,LeftFoot,5192,Bayern Munich,Mainz 05,2,0,2015-05-23 14:30:00,Mario Götze,Chipped
+31047,81,BlockedShot,0.9130000305175782,0.37099998474121093,0.11777699738740921,Sebastian Rode,h,228,OpenPlay,2014,RightFoot,5192,Bayern Munich,Mainz 05,2,0,2015-05-23 14:30:00,Claudio Pizarro,Pass
+77203,62,ShotOnPost,0.9209999847412109,0.3370000076293945,0.41601699590682983,Sebastian Rode,a,228,OpenPlay,2015,RightFoot,1058,Darmstadt,Bayern Munich,0,3,2015-09-19 17:30:00,Douglas Costa,Throughball
+77204,62,Goal,0.985999984741211,0.4370000076293945,0.65625,Sebastian Rode,a,228,OpenPlay,2015,RightFoot,1058,Darmstadt,Bayern Munich,0,3,2015-09-19 17:30:00,,Rebound
+79119,68,MissedShots,0.899000015258789,0.5459999847412109,0.031048500910401344,Sebastian Rode,h,228,OpenPlay,2015,Head,1142,Bayern Munich,Hertha Berlin,2,0,2015-11-28 18:30:00,Thomas Müller,Aerial
+79395,77,BlockedShot,0.8080000305175781,0.5659999847412109,0.03345020115375519,Sebastian Rode,a,228,FromCorner,2015,RightFoot,1148,Borussia M.Gladbach,Bayern Munich,3,1,2015-12-05 18:30:00,,None
+80560,87,MissedShots,0.7930000305175782,0.6179999923706054,0.031426798552274704,Sebastian Rode,a,228,OpenPlay,2015,RightFoot,1198,Bayer Leverkusen,Bayern Munich,0,0,2016-02-06 21:30:00,,None
+81949,56,MissedShots,0.825999984741211,0.53,0.06798069924116135,Sebastian Rode,h,228,OpenPlay,2015,LeftFoot,1252,Bayern Munich,Werder Bremen,5,0,2016-03-12 21:30:00,,None
+83795,88,BlockedShot,0.875999984741211,0.624000015258789,0.10783799737691879,Sebastian Rode,h,228,OpenPlay,2015,LeftFoot,1319,Bayern Munich,Hannover 96,3,1,2016-05-14 17:30:00,Franck Ribéry,Chipped
+127616,58,MissedShots,0.885,0.5609999847412109,0.08553510159254074,Sebastian Rode,h,228,OpenPlay,2016,LeftFoot,1332,Borussia Dortmund,Mainz 05,2,1,2016-08-27 17:30:00,André Schürrle,Cross
+127618,65,SavedShot,0.7330000305175781,0.4929999923706055,0.022182900458574295,Sebastian Rode,h,228,OpenPlay,2016,RightFoot,1332,Borussia Dortmund,Mainz 05,2,1,2016-08-27 17:30:00,André Schürrle,Pass
+128098,15,MissedShots,0.6909999847412109,0.4329999923706055,0.012045799754559994,Sebastian Rode,a,228,OpenPlay,2016,RightFoot,1342,RasenBallsport Leipzig,Borussia Dortmund,1,0,2016-09-10 20:30:00,Marcel Schmelzer,Dispossessed
+128103,43,MissedShots,0.7480000305175781,0.435,0.018908200785517693,Sebastian Rode,a,228,OpenPlay,2016,RightFoot,1342,RasenBallsport Leipzig,Borussia Dortmund,1,0,2016-09-10 20:30:00,Gonzalo Castro,Pass
+128212,83,Goal,0.955,0.504000015258789,0.7142670154571533,Sebastian Rode,h,228,OpenPlay,2016,RightFoot,1350,Borussia Dortmund,Darmstadt,6,0,2016-09-17 17:30:00,Gonzalo Castro,Pass
+279018,25,BlockedShot,0.755,0.5690000152587891,0.027555299922823906,Sebastian Rode,a,228,SetPiece,2018,LeftFoot,10519,RasenBallsport Leipzig,Eintracht Frankfurt,0,0,2019-02-09 14:30:00,Sébastien Haller,LayOff
+279629,36,SavedShot,0.855,0.5420000076293945,0.12743400037288666,Sebastian Rode,h,228,OpenPlay,2018,LeftFoot,10547,Eintracht Frankfurt,Hoffenheim,3,2,2019-03-02 14:30:00,Ante Rebic,TakeOn
+279651,78,BlockedShot,0.8180000305175781,0.49700000762939456,0.06361419707536697,Sebastian Rode,h,228,OpenPlay,2018,RightFoot,10547,Eintracht Frankfurt,Hoffenheim,3,2,2019-03-02 14:30:00,Jetro Willems,TakeOn
+288320,25,SavedShot,0.8630000305175781,0.35900001525878905,0.3181670010089874,Sebastian Rode,h,228,OpenPlay,2018,RightFoot,10574,Eintracht Frankfurt,VfB Stuttgart,3,0,2019-03-31 16:00:00,,BallTouch
+311121,84,BlockedShot,0.8330000305175781,0.5629999923706055,0.08097519725561142,Sebastian Rode,h,228,OpenPlay,2019,RightFoot,12410,Eintracht Frankfurt,Hoffenheim,1,0,2019-08-18 14:30:00,Ante Rebic,Pass
+313012,71,BlockedShot,0.7819999694824219,0.49900001525878906,0.032648198306560516,Sebastian Rode,a,228,OpenPlay,2019,RightFoot,12419,RasenBallsport Leipzig,Eintracht Frankfurt,2,1,2019-08-25 14:30:00,,Dispossessed
+324983,8,MissedShots,0.8069999694824219,0.6359999847412109,0.016640400514006615,Sebastian Rode,h,228,FromCorner,2019,LeftFoot,12464,Eintracht Frankfurt,Werder Bremen,2,2,2019-10-06 17:00:00,,Aerial
+325000,54,Goal,0.8430000305175781,0.3390000152587891,0.032661501318216324,Sebastian Rode,h,228,FromCorner,2019,RightFoot,12464,Eintracht Frankfurt,Werder Bremen,2,2,2019-10-06 17:00:00,,None
+325006,79,SavedShot,0.730999984741211,0.5159999847412109,0.014776700176298618,Sebastian Rode,h,228,OpenPlay,2019,RightFoot,12464,Eintracht Frankfurt,Werder Bremen,2,2,2019-10-06 17:00:00,,None
+325185,6,SavedShot,0.9180000305175782,0.5929999923706055,0.13191799819469452,Sebastian Rode,h,228,OpenPlay,2019,RightFoot,12471,Eintracht Frankfurt,Bayer Leverkusen,3,0,2019-10-18 19:30:00,Filip Kostic,Pass
+335311,73,BlockedShot,0.8159999847412109,0.41400001525878904,0.019327199086546898,Sebastian Rode,h,228,FromCorner,2019,LeftFoot,12524,Eintracht Frankfurt,Hertha Berlin,2,2,2019-12-06 19:30:00,,Aerial
+335312,73,MissedShots,0.8480000305175781,0.3659999847412109,0.05344599857926369,Sebastian Rode,h,228,FromCorner,2019,RightFoot,12524,Eintracht Frankfurt,Hertha Berlin,2,2,2019-12-06 19:30:00,,Rebound
+335318,85,Goal,0.9469999694824218,0.4229999923706055,0.465256005525589,Sebastian Rode,h,228,FromCorner,2019,RightFoot,12524,Eintracht Frankfurt,Hertha Berlin,2,2,2019-12-06 19:30:00,Martin Hinteregger,Rebound
+363244,17,MissedShots,0.769000015258789,0.6930000305175781,0.01558700017631054,Sebastian Rode,a,228,OpenPlay,2019,RightFoot,12638,Bayern Munich,Eintracht Frankfurt,5,2,2020-05-23 16:30:00,,None
+363423,33,SavedShot,0.7909999847412109,0.5459999847412109,0.036305200308561325,Sebastian Rode,h,228,OpenPlay,2019,RightFoot,12646,Eintracht Frankfurt,Freiburg,3,3,2020-05-26 18:30:00,Almamy Touré,Pass
+363908,34,MissedShots,0.7709999847412109,0.620999984741211,0.02280309982597828,Sebastian Rode,h,228,OpenPlay,2019,LeftFoot,12667,Eintracht Frankfurt,Mainz 05,0,2,2020-06-06 13:30:00,Daichi Kamada,Pass
+366926,8,Goal,0.7919999694824219,0.5770000076293945,0.03566490113735199,Sebastian Rode,h,228,OpenPlay,2019,RightFoot,12704,Eintracht Frankfurt,Paderborn,3,2,2020-06-27 13:30:00,,None
+377356,20,SavedShot,0.745999984741211,0.37,0.015275799669325352,Sebastian Rode,h,228,FromCorner,2020,RightFoot,14174,Eintracht Frankfurt,Arminia Bielefeld,1,1,2020-09-19 13:30:00,,None
+378567,70,Goal,0.8240000152587891,0.3120000076293945,0.03855049982666969,Sebastian Rode,a,228,OpenPlay,2020,LeftFoot,14182,Hertha Berlin,Eintracht Frankfurt,1,3,2020-09-25 18:30:00,Daichi Kamada,Pass
+383286,35,SavedShot,0.7809999847412109,0.3770000076293945,0.020242299884557724,Sebastian Rode,a,228,FromCorner,2020,LeftFoot,15180,Bayern Munich,Eintracht Frankfurt,5,0,2020-10-24 13:30:00,,None
+438627,56,MissedShots,0.7569999694824219,0.3970000076293945,0.01880759932100773,Sebastian Rode,a,228,OpenPlay,2021,RightFoot,17588,Bochum,Eintracht Frankfurt,2,0,2021-10-24 17:30:00,,BallTouch
+442043,74,Goal,0.8719999694824219,0.5359999847412109,0.37191200256347656,Sebastian Rode,a,228,OpenPlay,2021,RightFoot,17606,Greuther Fuerth,Eintracht Frankfurt,1,2,2021-11-07 18:30:00,Daichi Kamada,Pass
+449361,11,BlockedShot,0.8580000305175781,0.34299999237060547,0.03563569858670235,Sebastian Rode,h,228,FromCorner,2021,RightFoot,17666,Eintracht Frankfurt,Mainz 05,1,0,2021-12-18 14:30:00,Filip Kostic,Cross
+449364,14,BlockedShot,0.7619999694824219,0.43099998474121093,0.022062700241804123,Sebastian Rode,h,228,OpenPlay,2021,LeftFoot,17666,Eintracht Frankfurt,Mainz 05,1,0,2021-12-18 14:30:00,,None
+458439,8,BlockedShot,0.8859999847412109,0.4759999847412109,0.39465901255607605,Sebastian Rode,a,228,OpenPlay,2021,RightFoot,17714,FC Cologne,Eintracht Frankfurt,1,0,2022-02-19 17:30:00,Jesper Lindstrom,Pass
+469891,24,SavedShot,0.8380000305175781,0.43099998474121093,0.05380930006504059,Sebastian Rode,h,228,OpenPlay,2021,RightFoot,17791,Eintracht Frankfurt,Hoffenheim,2,2,2022-04-23 13:30:00,,None
+486182,21,Goal,0.8909999847412109,0.3120000076293945,0.07490520179271698,Sebastian Rode,h,228,OpenPlay,2022,LeftFoot,19384,Eintracht Frankfurt,RasenBallsport Leipzig,4,0,2022-09-03 16:30:00,Randal Kolo Muani,Pass
+488669,5,Goal,0.8590000152587891,0.48,0.01282930001616478,Sebastian Rode,a,228,SetPiece,2022,Head,19400,VfB Stuttgart,Eintracht Frankfurt,1,3,2022-09-17 13:30:00,,Rebound
+496747,63,MissedShots,0.745999984741211,0.6890000152587891,0.013841399922966957,Sebastian Rode,h,228,FromCorner,2022,LeftFoot,19445,Eintracht Frankfurt,Borussia Dortmund,1,2,2022-10-29 16:30:00,,None
+497955,12,Goal,0.9259999847412109,0.54,0.4219509959220886,Sebastian Rode,a,228,OpenPlay,2022,RightFoot,19454,Augsburg,Eintracht Frankfurt,1,2,2022-11-05 14:30:00,Eric Junior Dina Ebimbe,Cross
+513380,54,Goal,0.9180000305175782,0.3129999923706055,0.051583901047706604,Sebastian Rode,h,228,OpenPlay,2022,RightFoot,19553,Eintracht Frankfurt,VfB Stuttgart,1,1,2023-03-11 14:30:00,,Rebound
+515974,23,BlockedShot,0.8719999694824219,0.505,0.11109399795532227,Sebastian Rode,h,228,OpenPlay,2022,RightFoot,19570,Eintracht Frankfurt,Bochum,1,1,2023-03-31 19:30:00,Randal Kolo Muani,Pass
+519697,40,MissedShots,0.7419999694824219,0.5670000076293945,0.017025599256157875,Sebastian Rode,h,228,OpenPlay,2022,RightFoot,19589,Eintracht Frankfurt,Borussia M.Gladbach,1,1,2023-04-15 16:30:00,,None
+519700,45,MissedShots,0.84,0.49700000762939456,0.060596998780965805,Sebastian Rode,h,228,OpenPlay,2022,RightFoot,19589,Eintracht Frankfurt,Borussia M.Gladbach,1,1,2023-04-15 16:30:00,Aurélio Buta,BallTouch
+522639,59,MissedShots,0.7609999847412109,0.710999984741211,0.018481887876987457,Sebastian Rode,h,228,OpenPlay,2022,RightFoot,19607,Eintracht Frankfurt,Augsburg,1,1,2023-04-29 13:30:00,Mario Götze,Pass

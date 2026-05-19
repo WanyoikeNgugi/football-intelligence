@@ -1,0 +1,5 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+617465,9,MissedShots,0.749000015258789,0.23399999618530273,0.01571161486208439,Pau Navarro,h,12914,OpenPlay,2024,RightFoot,27216,Villarreal,Valencia,1,1,2025-02-15 20:00:00,Pape Alassane Gueye,Pass
+643268,50,SavedShot,0.7780000305175782,0.3609999847412109,0.02267860621213913,Pau Navarro,h,12914,OpenPlay,2025,RightFoot,29207,Villarreal,Osasuna,2,1,2025-09-20 16:30:00,,Dispossessed
+677403,45,OwnGoal,0.050999999046325684,0.6419999694824219,0,Pau Navarro,a,12914,OpenPlay,2025,RightFoot,29451,Girona,Villarreal,1,0,2026-04-06 19:00:00,,None
+684947,84,BlockedShot,0.830999984741211,0.355,0.03340344503521919,Pau Navarro,h,12914,FromCorner,2025,RightFoot,29516,Villarreal,Sevilla,2,3,2026-05-13 17:00:00,,None

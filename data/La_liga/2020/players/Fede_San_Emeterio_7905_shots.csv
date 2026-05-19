@@ -1,0 +1,14 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+339092,19,BlockedShot,0.855,0.40599998474121096,0.01443289965391159,Fede San Emeterio,h,7905,FromCorner,2019,Head,12202,Real Valladolid,Valencia,1,1,2019-12-21 20:00:00,Pablo Hervías,Cross
+368320,93,SavedShot,0.7280000305175781,0.40099998474121096,0.012561799958348274,Fede San Emeterio,h,7905,OpenPlay,2019,RightFoot,12352,Real Valladolid,Levante,0,0,2020-07-01 20:00:00,,None
+368322,96,MissedShots,0.7130000305175781,0.4640000152587891,0.010375900194048882,Fede San Emeterio,h,7905,SetPiece,2019,RightFoot,12352,Real Valladolid,Levante,0,0,2020-07-01 20:00:00,,None
+379769,10,MissedShots,0.87,0.4179999923706055,0.06574930250644684,Fede San Emeterio,h,7905,FromCorner,2020,LeftFoot,14162,Real Valladolid,Celta Vigo,1,1,2020-09-27 16:30:00,,None
+380369,10,BlockedShot,0.72,0.6079999923706054,0.016264699399471283,Fede San Emeterio,h,7905,FromCorner,2020,RightFoot,14823,Real Valladolid,Eibar,1,2,2020-10-03 11:00:00,Fabián Orellana,Foul
+402971,67,MissedShots,0.7819999694824219,0.27100000381469724,0.014424700289964676,Fede San Emeterio,a,7905,OpenPlay,2020,RightFoot,14988,Alaves,Real Valladolid,1,0,2021-02-05 20:00:00,,None
+487668,52,MissedShots,0.88,0.5329999923706055,0.07359199970960617,Fede San Emeterio,h,7905,SetPiece,2022,LeftFoot,19010,Cadiz,Barcelona,0,4,2022-09-10 16:30:00,,None
+489863,24,MissedShots,0.749000015258789,0.575,0.013395899906754494,Fede San Emeterio,h,7905,FromCorner,2022,Head,19023,Cadiz,Villarreal,0,0,2022-10-01 12:00:00,,None
+497865,3,MissedShots,0.9790000152587891,0.3220000076293945,0.044400300830602646,Fede San Emeterio,a,7905,FromCorner,2022,RightFoot,19090,Getafe,Cadiz,0,0,2022-11-05 14:00:00,,None
+510533,77,SavedShot,0.8830000305175781,0.5309999847412109,0.04437959939241409,Fede San Emeterio,a,7905,FromCorner,2022,Head,19172,Barcelona,Cadiz,2,0,2023-02-19 20:00:00,Álex Fernández,Cross
+516585,60,BlockedShot,0.7909999847412109,0.5690000152587891,0.03209549933671951,Fede San Emeterio,h,7905,OpenPlay,2022,RightFoot,19225,Cadiz,Sevilla,0,2,2023-04-01 16:30:00,Rubén Sobrino,Pass
+530924,9,BlockedShot,0.8240000152587891,0.44299999237060544,0.053601473569869995,Fede San Emeterio,a,7905,SetPiece,2022,RightFoot,19336,Elche,Cadiz,1,1,2023-06-04 18:00:00,,Goal
+532729,6,Goal,0.97,0.41700000762939454,0.1277366429567337,Fede San Emeterio,h,7905,SetPiece,2023,Head,22693,Cadiz,Alaves,1,0,2023-08-14 17:30:00,Javi Hernández,Cross

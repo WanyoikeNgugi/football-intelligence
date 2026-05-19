@@ -1,0 +1,5 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+92356,25,MissedShots,0.7319999694824219,0.565,0.013589500449597836,Curro,a,2066,OpenPlay,2015,LeftFoot,1755,Espanyol,Sevilla,1,0,2016-05-01 18:00:00,,None
+93032,3,SavedShot,0.855999984741211,0.44099998474121094,0.09088259935379028,Curro,h,2066,OpenPlay,2015,RightFoot,1768,Sevilla,Granada,1,4,2016-05-08 19:00:00,Fernando Llorente,Pass
+93053,89,BlockedShot,0.8719999694824219,0.5940000152587891,0.06189040094614029,Curro,h,2066,OpenPlay,2015,LeftFoot,1768,Sevilla,Granada,1,4,2016-05-08 19:00:00,,None
+481306,84,SavedShot,0.8619999694824219,0.455,0.07372809946537018,Curro,h,2066,OpenPlay,2022,RightFoot,18968,Almeria,Real Madrid,1,2,2022-08-14 20:00:00,,Rebound

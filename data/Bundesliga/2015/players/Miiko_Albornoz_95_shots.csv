@@ -1,0 +1,32 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+24448,54,MissedShots,0.9019999694824219,0.5220000076293946,0.08285819739103317,Miiko Albornoz,h,95,OpenPlay,2014,RightFoot,5449,Hannover 96,Schalke 04,2,1,2014-08-23 14:30:00,,None
+24630,28,BlockedShot,0.7819999694824219,0.6040000152587891,0.025337200611829758,Miiko Albornoz,a,95,OpenPlay,2014,LeftFoot,5463,Mainz 05,Hannover 96,0,0,2014-08-31 14:30:00,Joselu,Pass
+24636,43,SavedShot,0.769000015258789,0.635,0.014038600027561188,Miiko Albornoz,a,95,FromCorner,2014,LeftFoot,5463,Mainz 05,Hannover 96,0,0,2014-08-31 14:30:00,,Aerial
+29308,25,MissedShots,0.87,0.6759999847412109,0.019921500235795975,Miiko Albornoz,h,95,OpenPlay,2014,LeftFoot,5288,Hannover 96,Paderborn,1,2,2015-02-15 16:30:00,,Aerial
+29311,36,BlockedShot,0.7419999694824219,0.67,0.009062879718840122,Miiko Albornoz,h,95,SetPiece,2014,LeftFoot,5288,Hannover 96,Paderborn,1,2,2015-02-15 16:30:00,,Aerial
+29298,64,SavedShot,0.840999984741211,0.6930000305175781,0.03836410120129585,Miiko Albornoz,h,95,OpenPlay,2014,RightFoot,5302,Hannover 96,VfB Stuttgart,1,1,2015-02-28 14:30:00,Jimmy Briand,Pass
+29798,21,MissedShots,0.63,0.5029999923706054,0.007980849593877792,Miiko Albornoz,h,95,OpenPlay,2014,LeftFoot,5223,Hannover 96,Hoffenheim,1,2,2015-04-25 14:30:00,,Aerial
+30516,67,MissedShots,0.8109999847412109,0.8240000152587891,0.020432500168681145,Miiko Albornoz,a,95,FromCorner,2014,LeftFoot,5180,Augsburg,Hannover 96,1,2,2015-05-16 14:30:00,Hiroshi Kiyotake,Cross
+77103,66,BlockedShot,0.7880000305175782,0.7440000152587891,0.022892499342560768,Miiko Albornoz,a,95,FromCorner,2015,LeftFoot,1064,Augsburg,Hannover 96,2,0,2015-09-20 19:30:00,Hiroshi Kiyotake,Cross
+78264,8,BlockedShot,0.735999984741211,0.7019999694824218,0.011131299659609795,Miiko Albornoz,h,95,OpenPlay,2015,LeftFoot,1105,Hannover 96,Eintracht Frankfurt,1,2,2015-10-24 17:30:00,,Rebound
+78903,57,BlockedShot,0.795,0.2979999923706055,0.0680311992764473,Miiko Albornoz,a,95,DirectFreekick,2015,LeftFoot,1133,Borussia M.Gladbach,Hannover 96,2,1,2015-11-21 18:30:00,,Standard
+80010,37,MissedShots,0.779000015258789,0.26,0.014406600035727024,Miiko Albornoz,h,95,FromCorner,2015,RightFoot,1170,Hannover 96,Bayern Munich,0,1,2015-12-19 18:30:00,,None
+82971,80,SavedShot,0.7130000305175781,0.41200000762939454,0.043196901679039,Miiko Albornoz,h,95,DirectFreekick,2015,LeftFoot,1282,Hannover 96,Borussia M.Gladbach,2,0,2016-04-15 22:30:00,,Standard
+83271,20,SavedShot,0.7480000305175781,0.3240000152587891,0.04926159977912903,Miiko Albornoz,a,95,DirectFreekick,2015,LeftFoot,1296,Ingolstadt,Hannover 96,2,2,2016-04-23 17:30:00,,Standard
+83274,46,BlockedShot,0.8590000152587891,0.645,0.1009960025548935,Miiko Albornoz,a,95,OpenPlay,2015,RightFoot,1296,Ingolstadt,Hannover 96,2,2,2016-04-23 17:30:00,Ádám Szalai,Pass
+83285,75,MissedShots,0.7619999694824219,0.34900001525878904,0.027822399511933327,Miiko Albornoz,a,95,OpenPlay,2015,LeftFoot,1296,Ingolstadt,Hannover 96,2,2,2016-04-23 17:30:00,,TakeOn
+168759,88,MissedShots,0.9130000305175782,0.4279999923706055,0.019915100187063217,Miiko Albornoz,a,95,FromCorner,2017,Head,8376,Bayern Munich,Hannover 96,3,1,2017-12-02 14:30:00,Felix Klaus,Aerial
+199867,9,SavedShot,0.875,0.655,0.0663841962814331,Miiko Albornoz,h,95,OpenPlay,2017,RightFoot,8488,Hannover 96,Augsburg,1,3,2018-03-10 14:30:00,Iver Fossum,Pass
+208411,32,MissedShots,0.76,0.6120000076293945,0.017342599108815193,Miiko Albornoz,a,95,FromCorner,2017,LeftFoot,8528,VfB Stuttgart,Hannover 96,1,1,2018-04-14 13:30:00,,None
+210379,2,MissedShots,0.9219999694824219,0.6869999694824219,0.04507359862327576,Miiko Albornoz,h,95,SetPiece,2017,LeftFoot,8536,Hannover 96,Bayern Munich,0,3,2018-04-21 13:30:00,,Rebound
+223408,64,Goal,0.9059999847412109,0.7030000305175781,0.05367819964885712,Miiko Albornoz,a,95,OpenPlay,2018,LeftFoot,10356,RasenBallsport Leipzig,Hannover 96,3,2,2018-09-15 13:30:00,Walace,Pass
+255468,75,SavedShot,0.9009999847412109,0.7559999847412109,0.03967079892754555,Miiko Albornoz,a,95,OpenPlay,2018,LeftFoot,10401,Bayer Leverkusen,Hannover 96,2,2,2018-10-20 13:30:00,Genki Haraguchi,Chipped
+255699,1,MissedShots,0.695,0.515,0.011022300459444523,Miiko Albornoz,h,95,SetPiece,2018,LeftFoot,10413,Hannover 96,Augsburg,1,2,2018-10-27 13:30:00,,Rebound
+255993,0,BlockedShot,0.759000015258789,0.6020000076293945,0.013958700001239777,Miiko Albornoz,a,95,FromCorner,2018,LeftFoot,10423,Schalke 04,Hannover 96,3,1,2018-11-03 14:30:00,,Aerial
+256011,60,MissedShots,0.7180000305175781,0.625,0.013289799913764,Miiko Albornoz,a,95,FromCorner,2018,LeftFoot,10423,Schalke 04,Hannover 96,3,1,2018-11-03 14:30:00,,None
+256018,74,BlockedShot,0.905,0.7069999694824218,0.05060429871082306,Miiko Albornoz,a,95,OpenPlay,2018,RightFoot,10423,Schalke 04,Hannover 96,3,1,2018-11-03 14:30:00,Genki Haraguchi,Pass
+257687,1,MissedShots,0.7630000305175781,0.685,0.00972179975360632,Miiko Albornoz,h,95,SetPiece,2018,LeftFoot,10489,Hannover 96,Fortuna Duesseldorf,0,1,2018-12-22 14:30:00,,Aerial
+257700,41,SavedShot,0.7730000305175782,0.6459999847412109,0.013216200284659863,Miiko Albornoz,h,95,FromCorner,2018,LeftFoot,10489,Hannover 96,Fortuna Duesseldorf,0,1,2018-12-22 14:30:00,Genki Haraguchi,HeadPass
+257701,50,MissedShots,0.7880000305175782,0.7080000305175781,0.01643810048699379,Miiko Albornoz,h,95,FromCorner,2018,LeftFoot,10489,Hannover 96,Fortuna Duesseldorf,0,1,2018-12-22 14:30:00,,None
+278756,3,BlockedShot,0.7530000305175781,0.7080000305175781,0.011368200182914734,Miiko Albornoz,h,95,OpenPlay,2018,LeftFoot,10513,Hannover 96,RasenBallsport Leipzig,0,3,2019-02-01 19:30:00,,None
+286121,83,SavedShot,0.8580000305175781,0.914000015258789,0.014679200015962124,Miiko Albornoz,a,95,OpenPlay,2018,LeftFoot,10567,Augsburg,Hannover 96,3,1,2019-03-16 14:30:00,Uffe Bech,Pass

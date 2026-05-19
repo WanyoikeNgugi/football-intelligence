@@ -1,0 +1,421 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+136,49,MissedShots,0.745,0.49400001525878906,0.01689320057630539,Yannick Carrasco,h,2272,FromCorner,2014,RightFoot,6194,Monaco,Lorient,1,2,2014-08-10 20:00:00,,None
+138,53,SavedShot,0.919000015258789,0.44799999237060545,0.50450199842453,Yannick Carrasco,h,2272,OpenPlay,2014,RightFoot,6194,Monaco,Lorient,1,2,2014-08-10 20:00:00,Dimitar Berbatov,Throughball
+139,54,SavedShot,0.81,0.4929999923706055,0.06910710036754608,Yannick Carrasco,h,2272,OpenPlay,2014,RightFoot,6194,Monaco,Lorient,1,2,2014-08-10 20:00:00,Aymen Abdennour,LayOff
+963,38,MissedShots,0.889000015258789,0.46,0.2615230083465576,Yannick Carrasco,h,2272,OpenPlay,2014,RightFoot,6216,Monaco,Lille,1,1,2014-08-30 16:00:00,Layvin Kurzawa,Chipped
+965,50,BlockedShot,0.8080000305175781,0.31,0.010449999943375587,Yannick Carrasco,h,2272,OpenPlay,2014,LeftFoot,6216,Monaco,Lille,1,1,2014-08-30 16:00:00,João Moutinho,Chipped
+970,65,BlockedShot,0.76,0.3579999923706055,0.016173899173736572,Yannick Carrasco,h,2272,FromCorner,2014,RightFoot,6216,Monaco,Lille,1,1,2014-08-30 16:00:00,,None
+796,21,SavedShot,0.9369999694824219,0.35900001525878905,0.019323699176311493,Yannick Carrasco,a,2272,OpenPlay,2014,Head,6145,Lyon,Monaco,2,1,2014-09-12 19:30:00,Dimitar Berbatov,Cross
+808,61,SavedShot,0.7719999694824219,0.32299999237060545,0.016665900126099586,Yannick Carrasco,a,2272,OpenPlay,2014,LeftFoot,6145,Lyon,Monaco,2,1,2014-09-12 19:30:00,,None
+1252,14,SavedShot,0.795,0.6140000152587891,0.03270930051803589,Yannick Carrasco,h,2272,OpenPlay,2014,LeftFoot,6163,Monaco,Guingamp,1,0,2014-09-21 16:00:00,Anthony Martial,Pass
+1253,18,BlockedShot,0.8340000152587891,0.5179999923706055,0.09899400174617767,Yannick Carrasco,h,2272,OpenPlay,2014,RightFoot,6163,Monaco,Guingamp,1,0,2014-09-21 16:00:00,Dimitar Berbatov,LayOff
+1259,43,MissedShots,0.8719999694824219,0.7280000305175781,0.04616929963231087,Yannick Carrasco,h,2272,OpenPlay,2014,LeftFoot,6163,Monaco,Guingamp,1,0,2014-09-21 16:00:00,Bernardo Silva,Pass
+1261,48,MissedShots,0.884000015258789,0.575,0.09021010249853134,Yannick Carrasco,h,2272,OpenPlay,2014,LeftFoot,6163,Monaco,Guingamp,1,0,2014-09-21 16:00:00,Layvin Kurzawa,Cross
+1262,53,BlockedShot,0.7669999694824219,0.6370000076293946,0.010735499672591686,Yannick Carrasco,h,2272,SetPiece,2014,LeftFoot,6163,Monaco,Guingamp,1,0,2014-09-21 16:00:00,,Aerial
+1264,62,BlockedShot,0.8369999694824218,0.7019999694824218,0.043627601116895676,Yannick Carrasco,h,2272,OpenPlay,2014,RightFoot,6163,Monaco,Guingamp,1,0,2014-09-21 16:00:00,João Moutinho,Pass
+1700,56,BlockedShot,0.845,0.34799999237060547,0.05636899918317795,Yannick Carrasco,a,2272,OpenPlay,2014,RightFoot,6170,Montpellier,Monaco,0,1,2014-09-24 18:00:00,Bernardo Silva,Pass
+2274,41,BlockedShot,0.8330000305175781,0.5720000076293945,0.06138340011239052,Yannick Carrasco,h,2272,OpenPlay,2014,RightFoot,6175,Monaco,Nice,0,1,2014-09-27 13:00:00,Dimitar Berbatov,Pass
+1463,7,BlockedShot,0.7959999847412109,0.7440000152587891,0.02133769914507866,Yannick Carrasco,a,2272,OpenPlay,2014,RightFoot,6123,Paris Saint Germain,Monaco,1,1,2014-10-05 20:00:00,Layvin Kurzawa,Pass
+1464,10,SavedShot,0.7219999694824218,0.5420000076293945,0.015397200360894203,Yannick Carrasco,a,2272,OpenPlay,2014,RightFoot,6123,Paris Saint Germain,Monaco,1,1,2014-10-05 20:00:00,Lucas Ocampos,Pass
+1470,43,SavedShot,0.855999984741211,0.59,0.052936799824237823,Yannick Carrasco,a,2272,FromCorner,2014,LeftFoot,6123,Paris Saint Germain,Monaco,1,1,2014-10-05 20:00:00,João Moutinho,Pass
+1480,91,BlockedShot,0.8680000305175781,0.5520000076293945,0.06569249927997589,Yannick Carrasco,a,2272,OpenPlay,2014,RightFoot,6123,Paris Saint Germain,Monaco,1,1,2014-10-05 20:00:00,Valère Germain,BallTouch
+1483,92,SavedShot,0.8490000152587891,0.705,0.03492949903011322,Yannick Carrasco,a,2272,OpenPlay,2014,RightFoot,6123,Paris Saint Germain,Monaco,1,1,2014-10-05 20:00:00,Geoffrey Kondogbia,Pass
+1811,24,MissedShots,0.875,0.625999984741211,0.09796640276908875,Yannick Carrasco,h,2272,OpenPlay,2014,LeftFoot,6128,Monaco,Evian Thonon Gaillard,2,0,2014-10-18 19:00:00,João Moutinho,Pass
+1821,69,Goal,0.9280000305175782,0.4640000152587891,0.5346639752388,Yannick Carrasco,h,2272,OpenPlay,2014,RightFoot,6128,Monaco,Evian Thonon Gaillard,2,0,2014-10-18 19:00:00,Ricardo Carvalho,Throughball
+2073,3,MissedShots,0.8769999694824219,0.539000015258789,0.08783850073814392,Yannick Carrasco,a,2272,OpenPlay,2014,LeftFoot,6137,SC Bastia,Monaco,1,3,2014-10-25 19:00:00,Valère Germain,Chipped
+2081,33,MissedShots,0.88,0.590999984741211,0.10291299968957901,Yannick Carrasco,a,2272,OpenPlay,2014,LeftFoot,6137,SC Bastia,Monaco,1,3,2014-10-25 19:00:00,Nabil Dirar,Pass
+2088,59,MissedShots,0.8959999847412109,0.28,0.03655020147562027,Yannick Carrasco,a,2272,OpenPlay,2014,RightFoot,6137,SC Bastia,Monaco,1,3,2014-10-25 19:00:00,Lacina Traoré,Pass
+2092,72,MissedShots,0.73,0.47900001525878905,0.02258710004389286,Yannick Carrasco,a,2272,OpenPlay,2014,RightFoot,6137,SC Bastia,Monaco,1,3,2014-10-25 19:00:00,Tiemoué Bakayoko,Pass
+2097,83,Goal,0.8859999847412109,0.515,0.5763289928436279,Yannick Carrasco,a,2272,OpenPlay,2014,RightFoot,6137,SC Bastia,Monaco,1,3,2014-10-25 19:00:00,,TakeOn
+3804,79,SavedShot,0.845999984741211,0.33599998474121096,0.06203629821538925,Yannick Carrasco,h,2272,OpenPlay,2014,RightFoot,6144,Monaco,Reims,1,1,2014-10-31 19:30:00,Jérémy Toulalan,Chipped
+5962,8,BlockedShot,0.8619999694824219,0.38599998474121094,0.057772498577833176,Yannick Carrasco,h,2272,OpenPlay,2014,RightFoot,6100,Monaco,Caen,2,2,2014-11-22 19:00:00,Valère Germain,Cross
+5979,49,SavedShot,0.7730000305175782,0.7140000152587891,0.02613059990108013,Yannick Carrasco,h,2272,OpenPlay,2014,RightFoot,6100,Monaco,Caen,2,2,2014-11-22 19:00:00,Elderson Echiéjilé,Pass
+5983,59,BlockedShot,0.745,0.6530000305175782,0.014151900075376034,Yannick Carrasco,h,2272,OpenPlay,2014,RightFoot,6100,Monaco,Caen,2,2,2014-11-22 19:00:00,,None
+5990,72,ShotOnPost,0.7769999694824219,0.6359999847412109,0.07329720258712769,Yannick Carrasco,h,2272,DirectFreekick,2014,RightFoot,6100,Monaco,Caen,2,2,2014-11-22 19:00:00,,Standard
+3786,74,SavedShot,0.7669999694824219,0.32599998474121095,0.014140499755740166,Yannick Carrasco,a,2272,OpenPlay,2014,RightFoot,6107,Rennes,Monaco,2,0,2014-11-29 19:00:00,Nabil Dirar,Pass
+4936,92,Goal,0.7680000305175781,0.6530000305175782,0.030289599671959877,Yannick Carrasco,h,2272,OpenPlay,2014,RightFoot,6038,Monaco,Lens,2,0,2014-12-02 20:00:00,João Moutinho,TakeOn
+3188,54,MissedShots,0.7580000305175781,0.44400001525878907,0.019707899540662766,Yannick Carrasco,a,2272,OpenPlay,2014,RightFoot,6046,Toulouse,Monaco,0,2,2014-12-05 19:30:00,Dimitar Berbatov,Chipped
+4528,6,BlockedShot,0.7580000305175781,0.705999984741211,0.01443570014089346,Yannick Carrasco,h,2272,OpenPlay,2014,RightFoot,6065,Monaco,Marseille,1,0,2014-12-14 20:00:00,Bernardo Silva,Pass
+4537,30,MissedShots,0.9180000305175782,0.4879999923706055,0.10133200138807297,Yannick Carrasco,h,2272,FromCorner,2014,Head,6065,Monaco,Marseille,1,0,2014-12-14 20:00:00,João Moutinho,Cross
+4539,38,SavedShot,0.750999984741211,0.46299999237060546,0.02220579981803894,Yannick Carrasco,h,2272,OpenPlay,2014,RightFoot,6065,Monaco,Marseille,1,0,2014-12-14 20:00:00,Nabil Dirar,Pass
+5214,54,BlockedShot,0.9209999847412109,0.725,0.04207940027117729,Yannick Carrasco,a,2272,OpenPlay,2014,RightFoot,6068,Metz,Monaco,0,1,2014-12-20 19:00:00,,None
+5221,72,SavedShot,0.8880000305175781,0.425,0.12994100153446198,Yannick Carrasco,a,2272,OpenPlay,2014,RightFoot,6068,Metz,Monaco,0,1,2014-12-20 19:00:00,,TakeOn
+5224,78,Goal,0.8630000305175781,0.6659999847412109,0.322953999042511,Yannick Carrasco,a,2272,OpenPlay,2014,RightFoot,6068,Metz,Monaco,0,1,2014-12-20 19:00:00,Lacina Traoré,Throughball
+3076,4,BlockedShot,0.8380000305175781,0.5170000076293946,0.04621940106153488,Yannick Carrasco,h,2272,FromCorner,2014,RightFoot,6008,Monaco,Bordeaux,0,0,2015-01-11 20:00:00,Tiemoué Bakayoko,HeadPass
+3086,62,BlockedShot,0.74,0.7419999694824219,0.013301200233399868,Yannick Carrasco,h,2272,OpenPlay,2014,RightFoot,6008,Monaco,Bordeaux,0,0,2015-01-11 20:00:00,Dimitar Berbatov,Pass
+4555,40,MissedShots,0.8009999847412109,0.6309999847412109,0.03338349983096123,Yannick Carrasco,h,2272,OpenPlay,2014,RightFoot,6015,Monaco,Nantes,1,0,2015-01-17 19:00:00,Layvin Kurzawa,Pass
+4558,61,BlockedShot,0.970999984741211,0.600999984741211,0.6587730050086975,Yannick Carrasco,h,2272,OpenPlay,2014,RightFoot,6015,Monaco,Nantes,1,0,2015-01-17 19:00:00,,TakeOn
+4569,90,SavedShot,0.7709999847412109,0.38599998474121094,0.03240950033068657,Yannick Carrasco,h,2272,OpenPlay,2014,RightFoot,6015,Monaco,Nantes,1,0,2015-01-17 19:00:00,Bernardo Silva,Pass
+5319,61,MissedShots,0.7340000152587891,0.7919999694824219,0.007674010004848242,Yannick Carrasco,a,2272,OpenPlay,2014,RightFoot,6020,Lille,Monaco,0,1,2015-01-24 16:00:00,Bernardo Silva,TakeOn
+2482,21,BlockedShot,0.8430000305175781,0.6990000152587891,0.0340937003493309,Yannick Carrasco,h,2272,OpenPlay,2014,RightFoot,5962,Monaco,Lyon,0,0,2015-02-01 20:00:00,Nabil Dirar,Pass
+2492,91,MissedShots,0.9109999847412109,0.46900001525878904,0.10645800083875656,Yannick Carrasco,h,2272,OpenPlay,2014,LeftFoot,5962,Monaco,Lyon,0,0,2015-02-01 20:00:00,Bernardo Silva,Chipped
+3010,17,SavedShot,0.7180000305175781,0.46900001525878904,0.01509340014308691,Yannick Carrasco,a,2272,OpenPlay,2014,RightFoot,5970,Guingamp,Monaco,1,0,2015-02-08 13:00:00,Geoffrey Kondogbia,TakeOn
+3014,33,BlockedShot,0.8690000152587891,0.6370000076293946,0.061755698174238205,Yannick Carrasco,a,2272,OpenPlay,2014,RightFoot,5970,Guingamp,Monaco,1,0,2015-02-08 13:00:00,Layvin Kurzawa,Chipped
+3021,72,MissedShots,0.745999984741211,0.625,0.01976029947400093,Yannick Carrasco,a,2272,OpenPlay,2014,RightFoot,5970,Guingamp,Monaco,1,0,2015-02-08 13:00:00,Jérémy Toulalan,Pass
+3718,73,BlockedShot,0.745999984741211,0.625999984741211,0.019114399328827858,Yannick Carrasco,a,2272,OpenPlay,2014,RightFoot,5982,Nice,Monaco,0,1,2015-02-20 19:30:00,Fabinho,TakeOn
+3720,84,BlockedShot,0.8119999694824219,0.6680000305175782,0.09219159930944443,Yannick Carrasco,a,2272,DirectFreekick,2014,RightFoot,5982,Nice,Monaco,0,1,2015-02-20 19:30:00,,Standard
+8016,59,BlockedShot,0.745,0.710999984741211,0.02117910049855709,Yannick Carrasco,a,2272,OpenPlay,2014,RightFoot,5958,Reims,Monaco,1,3,2015-03-22 16:00:00,João Moutinho,Pass
+8611,62,MissedShots,0.7559999847412109,0.6559999847412109,0.02438019961118698,Yannick Carrasco,h,2272,OpenPlay,2014,RightFoot,5885,Monaco,Saint-Etienne,1,1,2015-04-03 19:30:00,,TakeOn
+8616,81,BlockedShot,0.7859999847412109,0.29,0.022235099226236343,Yannick Carrasco,h,2272,OpenPlay,2014,RightFoot,5885,Monaco,Saint-Etienne,1,1,2015-04-03 19:30:00,João Moutinho,Pass
+2623,31,BlockedShot,0.8109999847412109,0.6819999694824219,0.0849267989397049,Yannick Carrasco,h,2272,DirectFreekick,2014,RightFoot,5895,Monaco,Montpellier,0,0,2015-04-07 18:00:00,,Standard
+2626,42,BlockedShot,0.8009999847412109,0.595999984741211,0.027101200073957443,Yannick Carrasco,h,2272,FromCorner,2014,RightFoot,5895,Monaco,Montpellier,0,0,2015-04-07 18:00:00,,None
+8100,53,MissedShots,0.785,0.34400001525878904,0.03649979829788208,Yannick Carrasco,a,2272,OpenPlay,2014,RightFoot,5896,Caen,Monaco,0,3,2015-04-10 19:30:00,,BallRecovery
+8101,59,MissedShots,0.8730000305175781,0.745,0.03928510099649429,Yannick Carrasco,a,2272,OpenPlay,2014,RightFoot,5896,Caen,Monaco,0,3,2015-04-10 19:30:00,Fabinho,Pass
+6314,81,MissedShots,0.924000015258789,0.6329999923706054,0.0697150006890297,Yannick Carrasco,h,2272,OpenPlay,2014,RightFoot,5909,Monaco,Rennes,1,1,2015-04-18 19:00:00,Andrea Raggi,Cross
+6633,32,BlockedShot,0.7769999694824219,0.5820000076293945,0.028054799884557724,Yannick Carrasco,a,2272,OpenPlay,2014,RightFoot,5923,Lens,Monaco,0,3,2015-04-26 16:00:00,,None
+6636,35,Goal,0.889000015258789,0.524000015258789,0.296642005443573,Yannick Carrasco,a,2272,OpenPlay,2014,LeftFoot,5923,Lens,Monaco,0,3,2015-04-26 16:00:00,,TakeOn
+6642,57,SavedShot,0.7759999847412109,0.6170000076293946,0.042482100427150726,Yannick Carrasco,a,2272,OpenPlay,2014,RightFoot,5923,Lens,Monaco,0,3,2015-04-26 16:00:00,Layvin Kurzawa,Pass
+6643,59,MissedShots,0.7809999847412109,0.7040000152587891,0.05844460055232048,Yannick Carrasco,a,2272,DirectFreekick,2014,RightFoot,5923,Lens,Monaco,0,3,2015-04-26 16:00:00,,Standard
+7266,63,SavedShot,0.8059999847412109,0.435,0.10514800250530243,Yannick Carrasco,h,2272,OpenPlay,2014,RightFoot,5853,Monaco,Toulouse,4,1,2015-05-03 16:00:00,Bernardo Silva,Pass
+6329,45,MissedShots,0.745999984741211,0.42700000762939455,0.026451900601387024,Yannick Carrasco,a,2272,OpenPlay,2014,RightFoot,5864,Marseille,Monaco,2,1,2015-05-10 20:00:00,,None
+6337,72,BlockedShot,0.815,0.6090000152587891,0.06156120076775551,Yannick Carrasco,a,2272,OpenPlay,2014,RightFoot,5864,Marseille,Monaco,2,1,2015-05-10 20:00:00,Fabinho,Pass
+6340,79,MissedShots,0.8219999694824218,0.6409999847412109,0.03244449943304062,Yannick Carrasco,a,2272,OpenPlay,2014,RightFoot,5864,Marseille,Monaco,2,1,2015-05-10 20:00:00,Fabinho,Pass
+6862,10,MissedShots,0.8159999847412109,0.5420000076293945,0.05193519964814186,Yannick Carrasco,h,2272,OpenPlay,2014,RightFoot,5871,Monaco,Metz,2,0,2015-05-16 20:00:00,,None
+6868,27,MissedShots,0.9469999694824218,0.715,0.0982661023736,Yannick Carrasco,h,2272,OpenPlay,2014,RightFoot,5871,Monaco,Metz,2,0,2015-05-16 20:00:00,Ricardo Carvalho,BallRecovery
+6876,50,MissedShots,0.965999984741211,0.5640000152587891,0.6448789834976196,Yannick Carrasco,h,2272,OpenPlay,2014,LeftFoot,5871,Monaco,Metz,2,0,2015-05-16 20:00:00,Bernardo Silva,Pass
+7232,19,Goal,0.8730000305175781,0.5940000152587891,0.30233800411224365,Yannick Carrasco,a,2272,OpenPlay,2014,RightFoot,5881,Lorient,Monaco,0,1,2015-05-23 20:00:00,Bernardo Silva,Chipped
+7236,42,BlockedShot,0.815,0.7959999847412109,0.024288399145007133,Yannick Carrasco,a,2272,OpenPlay,2014,RightFoot,5881,Lorient,Monaco,0,1,2015-05-23 20:00:00,João Moutinho,Pass
+7244,50,SavedShot,0.755,0.61,0.04106010124087334,Yannick Carrasco,a,2272,OpenPlay,2014,LeftFoot,5881,Lorient,Monaco,0,1,2015-05-23 20:00:00,João Moutinho,LayOff
+84283,80,SavedShot,0.9,0.6780000305175782,0.06544770300388336,Yannick Carrasco,a,2272,OpenPlay,2015,RightFoot,1415,Sevilla,Atletico Madrid,0,3,2015-08-30 22:30:00,,None
+84293,91,MissedShots,0.889000015258789,0.5579999923706055,0.12058299779891968,Yannick Carrasco,a,2272,OpenPlay,2015,RightFoot,1415,Sevilla,Atletico Madrid,0,3,2015-08-30 22:30:00,,Rebound
+84527,68,SavedShot,0.7909999847412109,0.7,0.024399299174547195,Yannick Carrasco,h,2272,OpenPlay,2015,RightFoot,1422,Atletico Madrid,Barcelona,1,2,2015-09-12 22:30:00,Koke,Pass
+84970,18,MissedShots,0.765,0.215,0.013372600078582764,Yannick Carrasco,h,2272,OpenPlay,2015,RightFoot,1440,Atletico Madrid,Getafe,2,0,2015-09-22 22:00:00,,None
+86166,90,Goal,0.9119999694824219,0.5709999847412109,0.8119040131568909,Yannick Carrasco,a,2272,OpenPlay,2015,LeftFoot,1475,Real Sociedad,Atletico Madrid,0,2,2015-10-18 18:00:00,Fernando Torres,TakeOn
+86625,10,MissedShots,0.8019999694824219,0.685,0.020493099465966225,Yannick Carrasco,h,2272,FromCorner,2015,RightFoot,1487,Atletico Madrid,Valencia,2,1,2015-10-25 23:30:00,,None
+86633,39,Goal,0.7819999694824219,0.5420000076293945,0.12660899758338928,Yannick Carrasco,h,2272,OpenPlay,2015,RightFoot,1487,Atletico Madrid,Valencia,2,1,2015-10-25 23:30:00,,TakeOn
+86636,65,BlockedShot,0.8330000305175781,0.49,0.07776150107383728,Yannick Carrasco,h,2272,OpenPlay,2015,RightFoot,1487,Atletico Madrid,Valencia,2,1,2015-10-25 23:30:00,Juanfran,Cross
+85973,44,BlockedShot,0.8569999694824219,0.5179999923706055,0.10988599807024002,Yannick Carrasco,a,2272,OpenPlay,2015,RightFoot,1489,Deportivo La Coruna,Atletico Madrid,1,1,2015-10-30 23:30:00,Juanfran,Pass
+86486,9,MissedShots,0.7969999694824219,0.639000015258789,0.038281600922346115,Yannick Carrasco,h,2272,OpenPlay,2015,RightFoot,1507,Atletico Madrid,Sporting Gijon,1,0,2015-11-08 21:15:00,Filipe Luis,TakeOn
+86489,33,BlockedShot,0.8090000152587891,0.6140000152587891,0.0396961010992527,Yannick Carrasco,h,2272,OpenPlay,2015,RightFoot,1507,Atletico Madrid,Sporting Gijon,1,0,2015-11-08 21:15:00,Filipe Luis,Pass
+86501,71,MissedShots,0.6969999694824218,0.5029999923706054,0.010562100447714329,Yannick Carrasco,h,2272,OpenPlay,2015,RightFoot,1507,Atletico Madrid,Sporting Gijon,1,0,2015-11-08 21:15:00,,None
+87273,43,MissedShots,0.9359999847412109,0.664000015258789,0.2794950008392334,Yannick Carrasco,a,2272,OpenPlay,2015,LeftFoot,1517,Real Betis,Atletico Madrid,0,1,2015-11-22 23:30:00,Koke,Pass
+88307,67,BlockedShot,0.750999984741211,0.66,0.02400670014321804,Yannick Carrasco,h,2272,OpenPlay,2015,RightFoot,1521,Atletico Madrid,Espanyol,1,0,2015-11-28 21:15:00,Óliver Torres,Pass
+88316,87,MissedShots,0.8830000305175781,0.68,0.06571239978075027,Yannick Carrasco,h,2272,OpenPlay,2015,LeftFoot,1521,Atletico Madrid,Espanyol,1,0,2015-11-28 21:15:00,Antoine Griezmann,Pass
+87353,35,MissedShots,0.7519999694824219,0.6580000305175782,0.02537659928202629,Yannick Carrasco,a,2272,OpenPlay,2015,RightFoot,1530,Granada,Atletico Madrid,0,2,2015-12-05 21:15:00,Filipe Luis,Pass
+88275,1,MissedShots,0.7380000305175781,0.710999984741211,0.01386990025639534,Yannick Carrasco,h,2272,OpenPlay,2015,RightFoot,1547,Atletico Madrid,Athletic Club,2,1,2015-12-13 21:15:00,Filipe Luis,Pass
+88283,45,SavedShot,0.8190000152587891,0.3820000076293945,0.04115299880504608,Yannick Carrasco,h,2272,OpenPlay,2015,RightFoot,1547,Atletico Madrid,Athletic Club,2,1,2015-12-13 21:15:00,,None
+87870,8,MissedShots,0.749000015258789,0.49700000762939456,0.022822299972176552,Yannick Carrasco,a,2272,OpenPlay,2015,RightFoot,1557,Malaga,Atletico Madrid,1,0,2015-12-20 23:30:00,,BallRecovery
+87873,33,SavedShot,0.7380000305175781,0.5820000076293945,0.06014920026063919,Yannick Carrasco,a,2272,DirectFreekick,2015,RightFoot,1557,Malaga,Atletico Madrid,1,0,2015-12-20 23:30:00,,Standard
+87500,13,SavedShot,0.8819999694824219,0.6430000305175781,0.05961190164089203,Yannick Carrasco,a,2272,OpenPlay,2015,LeftFoot,1560,Rayo Vallecano,Atletico Madrid,0,2,2015-12-30 21:15:00,Antoine Griezmann,Chipped
+87503,16,MissedShots,0.965,0.68,0.2824060022830963,Yannick Carrasco,a,2272,OpenPlay,2015,LeftFoot,1560,Rayo Vallecano,Atletico Madrid,0,2,2015-12-30 21:15:00,Koke,Chipped
+86932,71,BlockedShot,0.795,0.63,0.03032810054719448,Yannick Carrasco,h,2272,OpenPlay,2015,RightFoot,1569,Atletico Madrid,Levante,1,0,2016-01-02 23:30:00,Antoine Griezmann,Pass
+87862,61,MissedShots,0.7559999847412109,0.6719999694824219,0.018508199602365494,Yannick Carrasco,a,2272,OpenPlay,2015,RightFoot,1587,Celta Vigo,Atletico Madrid,0,2,2016-01-10 23:30:00,,TakeOn
+87865,79,Goal,0.8669999694824219,0.5640000152587891,0.3250269889831543,Yannick Carrasco,a,2272,OpenPlay,2015,LeftFoot,1587,Celta Vigo,Atletico Madrid,0,2,2016-01-10 23:30:00,Jackson Martínez,TakeOn
+88629,77,SavedShot,0.9569999694824218,0.6780000305175782,0.08124859631061554,Yannick Carrasco,a,2272,OpenPlay,2015,LeftFoot,1595,Las Palmas,Atletico Madrid,0,3,2016-01-17 21:15:00,Filipe Luis,Pass
+88634,82,BlockedShot,0.8480000305175781,0.6719999694824219,0.06528030335903168,Yannick Carrasco,a,2272,OpenPlay,2015,RightFoot,1595,Las Palmas,Atletico Madrid,0,3,2016-01-17 21:15:00,Filipe Luis,Pass
+88637,90,BlockedShot,0.865999984741211,0.67,0.060743298381567,Yannick Carrasco,a,2272,OpenPlay,2015,RightFoot,1595,Las Palmas,Atletico Madrid,0,3,2016-01-17 21:15:00,Koke,TakeOn
+88910,57,BlockedShot,0.8030000305175782,0.649000015258789,0.02870270051062107,Yannick Carrasco,h,2272,OpenPlay,2015,RightFoot,1604,Atletico Madrid,Sevilla,0,0,2016-01-24 19:00:00,,TakeOn
+88913,68,SavedShot,0.9030000305175782,0.34700000762939454,0.21375299990177155,Yannick Carrasco,h,2272,SetPiece,2015,RightFoot,1604,Atletico Madrid,Sevilla,0,0,2016-01-24 19:00:00,Gabi,Pass
+88917,81,MissedShots,0.865999984741211,0.5929999923706055,0.05186140164732933,Yannick Carrasco,h,2272,FromCorner,2015,RightFoot,1604,Atletico Madrid,Sevilla,0,0,2016-01-24 19:00:00,Diego Godín,BallTouch
+88919,92,BlockedShot,0.7759999847412109,0.5129999923706055,0.09975799918174744,Yannick Carrasco,h,2272,DirectFreekick,2015,RightFoot,1604,Atletico Madrid,Sevilla,0,0,2016-01-24 19:00:00,,Standard
+89140,11,MissedShots,0.78,0.40900001525878904,0.05438590049743652,Yannick Carrasco,a,2272,OpenPlay,2015,RightFoot,1608,Barcelona,Atletico Madrid,2,1,2016-01-30 19:00:00,Antoine Griezmann,LayOff
+89239,54,BlockedShot,0.8290000152587891,0.6959999847412109,0.024305399507284164,Yannick Carrasco,h,2272,FromCorner,2015,RightFoot,1619,Atletico Madrid,Eibar,3,1,2016-02-06 19:00:00,,None
+89240,55,BlockedShot,0.840999984741211,0.6329999923706054,0.039896801114082336,Yannick Carrasco,h,2272,FromCorner,2015,LeftFoot,1619,Atletico Madrid,Eibar,3,1,2016-02-06 19:00:00,,None
+89243,69,MissedShots,0.8580000305175781,0.7130000305175781,0.037686098366975784,Yannick Carrasco,h,2272,OpenPlay,2015,RightFoot,1619,Atletico Madrid,Eibar,3,1,2016-02-06 19:00:00,Saúl Ñíguez,Pass
+89541,14,SavedShot,0.8590000152587891,0.76,0.032184500247240067,Yannick Carrasco,a,2272,OpenPlay,2015,RightFoot,1635,Getafe,Atletico Madrid,0,1,2016-02-14 21:15:00,Antoine Griezmann,Pass
+89543,42,BlockedShot,0.8580000305175781,0.7269999694824218,0.02361229993402958,Yannick Carrasco,a,2272,SetPiece,2015,LeftFoot,1635,Getafe,Atletico Madrid,0,1,2016-02-14 21:15:00,,None
+91326,76,ShotOnPost,0.764000015258789,0.5790000152587891,0.03466219827532768,Yannick Carrasco,a,2272,OpenPlay,2015,RightFoot,1677,Valencia,Atletico Madrid,1,3,2016-03-06 23:30:00,Fernando Torres,HeadPass
+91327,84,Goal,0.8830000305175781,0.345,0.10241000354290009,Yannick Carrasco,a,2272,OpenPlay,2015,LeftFoot,1677,Valencia,Atletico Madrid,1,3,2016-03-06 23:30:00,Antoine Griezmann,TakeOn
+91328,91,MissedShots,0.8590000152587891,0.4929999923706055,0.10587900131940842,Yannick Carrasco,a,2272,OpenPlay,2015,RightFoot,1677,Valencia,Atletico Madrid,1,3,2016-03-06 23:30:00,Juanfran,Cross
+90859,22,SavedShot,0.93,0.6270000076293946,0.39379799365997314,Yannick Carrasco,h,2272,OpenPlay,2015,LeftFoot,1682,Atletico Madrid,Deportivo La Coruna,3,0,2016-03-12 23:30:00,,None
+90863,50,ShotOnPost,0.7909999847412109,0.785,0.018291499465703964,Yannick Carrasco,h,2272,OpenPlay,2015,RightFoot,1682,Atletico Madrid,Deportivo La Coruna,3,0,2016-03-12 23:30:00,Koke,Pass
+90864,52,SavedShot,0.775,0.44299999237060544,0.057977598160505295,Yannick Carrasco,h,2272,OpenPlay,2015,RightFoot,1682,Atletico Madrid,Deportivo La Coruna,3,0,2016-03-12 23:30:00,Diego Godín,TakeOn
+90869,64,MissedShots,0.9180000305175782,0.27700000762939453,0.01991889998316765,Yannick Carrasco,h,2272,FromCorner,2015,LeftFoot,1682,Atletico Madrid,Deportivo La Coruna,3,0,2016-03-12 23:30:00,Koke,TakeOn
+91758,21,SavedShot,0.7769999694824219,0.6959999847412109,0.022324400022625923,Yannick Carrasco,a,2272,OpenPlay,2015,RightFoot,1711,Espanyol,Atletico Madrid,1,3,2016-04-09 20:15:00,Koke,Pass
+92047,84,SavedShot,0.860999984741211,0.4279999923706055,0.05090000107884407,Yannick Carrasco,a,2272,OpenPlay,2015,LeftFoot,1733,Athletic Club,Atletico Madrid,0,1,2016-04-20 22:45:00,Filipe Luis,Cross
+92050,93,MissedShots,0.889000015258789,0.48200000762939454,0.4173470139503479,Yannick Carrasco,a,2272,OpenPlay,2015,LeftFoot,1733,Athletic Club,Atletico Madrid,0,1,2016-04-20 22:45:00,Fernando Torres,Pass
+92853,42,SavedShot,0.7140000152587891,0.525,0.02051129937171936,Yannick Carrasco,h,2272,OpenPlay,2015,RightFoot,1741,Atletico Madrid,Malaga,1,0,2016-04-23 20:15:00,Gabi,Pass
+92266,57,MissedShots,0.775,0.67,0.017530199140310287,Yannick Carrasco,a,2272,FromCorner,2015,RightFoot,1761,Levante,Atletico Madrid,2,1,2016-05-08 19:00:00,,None
+92270,75,BlockedShot,0.7559999847412109,0.5540000152587891,0.07616160064935684,Yannick Carrasco,a,2272,DirectFreekick,2015,RightFoot,1761,Levante,Atletico Madrid,2,1,2016-05-08 19:00:00,,Standard
+92273,77,MissedShots,0.805,0.30100000381469727,0.02617410011589527,Yannick Carrasco,a,2272,OpenPlay,2015,RightFoot,1761,Levante,Atletico Madrid,2,1,2016-05-08 19:00:00,Thomas Partey,Pass
+92900,84,MissedShots,0.8090000152587891,0.24,0.034140199422836304,Yannick Carrasco,h,2272,OpenPlay,2015,RightFoot,1773,Atletico Madrid,Celta Vigo,2,0,2016-05-14 21:30:00,Saúl Ñíguez,HeadPass
+92902,92,MissedShots,0.8019999694824219,0.5920000076293945,0.13081499934196472,Yannick Carrasco,h,2272,OpenPlay,2015,LeftFoot,1773,Atletico Madrid,Celta Vigo,2,0,2016-05-14 21:30:00,Koke,TakeOn
+135130,30,BlockedShot,0.779000015258789,0.794000015258789,0.019900299608707428,Yannick Carrasco,h,2272,OpenPlay,2016,RightFoot,1786,Atletico Madrid,Alaves,1,1,2016-08-22 00:15:00,Filipe Luis,Pass
+135133,42,ShotOnPost,0.745999984741211,0.62,0.02732289955019951,Yannick Carrasco,h,2272,OpenPlay,2016,RightFoot,1786,Atletico Madrid,Alaves,1,1,2016-08-22 00:15:00,Filipe Luis,LayOff
+135135,50,MissedShots,0.8480000305175781,0.29700000762939455,0.036025501787662506,Yannick Carrasco,h,2272,FromCorner,2016,LeftFoot,1786,Atletico Madrid,Alaves,1,1,2016-08-22 00:15:00,Gabi,Pass
+135549,92,BlockedShot,0.8109999847412109,0.69,0.02709759958088398,Yannick Carrasco,a,2272,OpenPlay,2016,RightFoot,1794,Leganes,Atletico Madrid,0,0,2016-08-28 00:15:00,Koke,Pass
+135771,7,BlockedShot,0.7959999847412109,0.7230000305175781,0.016373800113797188,Yannick Carrasco,a,2272,OpenPlay,2016,RightFoot,1800,Celta Vigo,Atletico Madrid,0,4,2016-09-10 15:00:00,,None
+136009,6,BlockedShot,0.7469999694824219,0.36700000762939455,0.0420743003487587,Yannick Carrasco,h,2272,OpenPlay,2016,RightFoot,1811,Atletico Madrid,Sporting Gijon,5,0,2016-09-17 18:15:00,Saúl Ñíguez,TakeOn
+136013,10,SavedShot,0.8469999694824218,0.6819999694824219,0.06746009737253189,Yannick Carrasco,h,2272,OpenPlay,2016,RightFoot,1811,Atletico Madrid,Sporting Gijon,5,0,2016-09-17 18:15:00,,TakeOn
+136015,22,MissedShots,0.7319999694824219,0.504000015258789,0.015939800068736076,Yannick Carrasco,h,2272,FromCorner,2016,RightFoot,1811,Atletico Madrid,Sporting Gijon,5,0,2016-09-17 18:15:00,,None
+136019,39,ShotOnPost,0.875,0.7180000305175781,0.04097360000014305,Yannick Carrasco,h,2272,OpenPlay,2016,RightFoot,1811,Atletico Madrid,Sporting Gijon,5,0,2016-09-17 18:15:00,,None
+136066,15,SavedShot,0.8569999694824219,0.73,0.025955799967050552,Yannick Carrasco,a,2272,OpenPlay,2016,RightFoot,1825,Barcelona,Atletico Madrid,1,1,2016-09-22 00:00:00,Antoine Griezmann,Chipped
+136070,30,MissedShots,0.745,0.565,0.023946300148963928,Yannick Carrasco,a,2272,OpenPlay,2016,RightFoot,1825,Barcelona,Atletico Madrid,1,1,2016-09-22 00:00:00,Koke,Pass
+136310,46,SavedShot,0.8159999847412109,0.33599998474121096,0.031536299735307693,Yannick Carrasco,h,2272,OpenPlay,2016,RightFoot,1835,Atletico Madrid,Deportivo La Coruna,1,0,2016-09-25 18:15:00,Ángel Correa,Pass
+136312,52,SavedShot,0.7809999847412109,0.29200000762939454,0.020744500681757927,Yannick Carrasco,h,2272,OpenPlay,2016,RightFoot,1835,Atletico Madrid,Deportivo La Coruna,1,0,2016-09-25 18:15:00,,TakeOn
+136314,56,BlockedShot,0.8109999847412109,0.49700000762939456,0.040738798677921295,Yannick Carrasco,h,2272,OpenPlay,2016,LeftFoot,1835,Atletico Madrid,Deportivo La Coruna,1,0,2016-09-25 18:15:00,Juanfran,Pass
+136315,56,SavedShot,0.9430000305175781,0.6530000305175782,0.08189229667186737,Yannick Carrasco,h,2272,OpenPlay,2016,LeftFoot,1835,Atletico Madrid,Deportivo La Coruna,1,0,2016-09-25 18:15:00,Nicolás Gaitán,Pass
+136591,84,BlockedShot,0.8119999694824219,0.5070000076293946,0.07196889817714691,Yannick Carrasco,a,2272,OpenPlay,2016,RightFoot,1844,Valencia,Atletico Madrid,0,2,2016-10-02 14:00:00,Filipe Luis,Pass
+136906,33,Goal,0.8719999694824219,0.5379999923706055,0.07094520330429077,Yannick Carrasco,h,2272,FromCorner,2016,RightFoot,1852,Atletico Madrid,Granada,7,1,2016-10-15 20:30:00,Stefan Savic,Rebound
+136907,44,Goal,0.8780000305175781,0.7019999694824218,0.04265009984374046,Yannick Carrasco,h,2272,OpenPlay,2016,RightFoot,1852,Atletico Madrid,Granada,7,1,2016-10-15 20:30:00,Ángel Correa,Chipped
+136908,60,Goal,0.865999984741211,0.46,0.11006300151348114,Yannick Carrasco,h,2272,OpenPlay,2016,RightFoot,1852,Atletico Madrid,Granada,7,1,2016-10-15 20:30:00,Antoine Griezmann,Pass
+136921,86,BlockedShot,0.9019999694824219,0.355,0.11699400097131729,Yannick Carrasco,h,2272,OpenPlay,2016,LeftFoot,1852,Atletico Madrid,Granada,7,1,2016-10-15 20:30:00,Fernando Torres,TakeOn
+136977,6,Goal,0.9,0.6329999923706054,0.11512699723243713,Yannick Carrasco,h,2272,OpenPlay,2016,LeftFoot,3311,Atletico Madrid,Malaga,4,2,2016-10-29 20:30:00,Antoine Griezmann,TakeOn
+136984,38,MissedShots,0.7759999847412109,0.415,0.045496199280023575,Yannick Carrasco,h,2272,OpenPlay,2016,RightFoot,3311,Atletico Madrid,Malaga,4,2,2016-10-29 20:30:00,Saúl Ñíguez,BallTouch
+136993,73,ShotOnPost,0.8880000305175781,0.8830000305175781,0.04599380120635033,Yannick Carrasco,h,2272,DirectFreekick,2016,RightFoot,3311,Atletico Madrid,Malaga,4,2,2016-10-29 20:30:00,,Standard
+136996,85,Goal,0.8219999694824218,0.28899999618530275,0.0920334979891777,Yannick Carrasco,h,2272,OpenPlay,2016,RightFoot,3311,Atletico Madrid,Malaga,4,2,2016-10-29 20:30:00,Ángel Correa,Chipped
+137481,51,MissedShots,0.915,0.7090000152587891,0.03865639865398407,Yannick Carrasco,a,2272,OpenPlay,2016,LeftFoot,2778,Real Sociedad,Atletico Madrid,2,0,2016-11-05 19:15:00,Antoine Griezmann,Pass
+137487,77,MissedShots,0.8080000305175781,0.3770000076293945,0.04137749969959259,Yannick Carrasco,a,2272,OpenPlay,2016,LeftFoot,2778,Real Sociedad,Atletico Madrid,2,0,2016-11-05 19:15:00,Antoine Griezmann,Pass
+137790,47,MissedShots,0.754000015258789,0.5940000152587891,0.019095899537205696,Yannick Carrasco,h,2272,OpenPlay,2016,RightFoot,2790,Atletico Madrid,Real Madrid,0,3,2016-11-19 23:45:00,,None
+137796,66,SavedShot,0.730999984741211,0.4759999847412109,0.018082499504089355,Yannick Carrasco,h,2272,OpenPlay,2016,RightFoot,2790,Atletico Madrid,Real Madrid,0,3,2016-11-19 23:45:00,Antoine Griezmann,Pass
+137800,71,SavedShot,0.784000015258789,0.5729999923706055,0.03036930039525032,Yannick Carrasco,h,2272,OpenPlay,2016,RightFoot,2790,Atletico Madrid,Real Madrid,0,3,2016-11-19 23:45:00,Saúl Ñíguez,Pass
+137803,86,SavedShot,0.764000015258789,0.44,0.017607400193810463,Yannick Carrasco,h,2272,SetPiece,2016,RightFoot,2790,Atletico Madrid,Real Madrid,0,3,2016-11-19 23:45:00,,None
+137807,89,BlockedShot,0.8619999694824219,0.5690000152587891,0.06692499667406082,Yannick Carrasco,h,2272,OpenPlay,2016,RightFoot,2790,Atletico Madrid,Real Madrid,0,3,2016-11-19 23:45:00,Filipe Luis,TakeOn
+137808,91,SavedShot,0.915,0.5529999923706055,0.41474199295043945,Yannick Carrasco,h,2272,OpenPlay,2016,RightFoot,2790,Atletico Madrid,Real Madrid,0,3,2016-11-19 23:45:00,Kevin Gameiro,TakeOn
+138296,89,Goal,0.899000015258789,0.3529999923706055,0.09590750187635422,Yannick Carrasco,a,2272,OpenPlay,2016,RightFoot,2802,Osasuna,Atletico Madrid,0,3,2016-11-27 19:15:00,,BallRecovery
+138153,60,MissedShots,0.799000015258789,0.5790000152587891,0.04541980102658272,Yannick Carrasco,h,2272,OpenPlay,2016,RightFoot,3166,Atletico Madrid,Espanyol,0,0,2016-12-03 23:45:00,,Interception
+138535,78,MissedShots,0.7819999694824219,0.68,0.017453400418162346,Yannick Carrasco,a,2272,OpenPlay,2016,RightFoot,3182,Villarreal,Atletico Madrid,3,0,2016-12-12 23:45:00,Antoine Griezmann,Pass
+138710,11,MissedShots,0.8230000305175781,0.555,0.022760899737477303,Yannick Carrasco,h,2272,FromCorner,2016,RightFoot,3185,Atletico Madrid,Las Palmas,1,0,2016-12-17 19:15:00,Antoine Griezmann,HeadPass
+138727,56,MissedShots,0.78,0.779000015258789,0.0141828004270792,Yannick Carrasco,h,2272,OpenPlay,2016,RightFoot,3185,Atletico Madrid,Las Palmas,1,0,2016-12-17 19:15:00,Kevin Gameiro,Pass
+140702,68,SavedShot,0.8780000305175781,0.5879999923706055,0.11407399922609329,Yannick Carrasco,h,2272,OpenPlay,2016,RightFoot,3896,Atletico Madrid,Real Betis,1,0,2017-01-14 21:30:00,Antoine Griezmann,Pass
+138695,25,BlockedShot,0.6909999847412109,0.445,0.013763600029051304,Yannick Carrasco,a,2272,OpenPlay,2016,RightFoot,3910,Athletic Club,Atletico Madrid,2,2,2017-01-22 18:15:00,Koke,LayOff
+138696,28,MissedShots,0.9319999694824219,0.6940000152587891,0.11068999767303467,Yannick Carrasco,a,2272,OpenPlay,2016,LeftFoot,3910,Athletic Club,Atletico Madrid,2,2,2017-01-22 18:15:00,Antoine Griezmann,Chipped
+138700,53,MissedShots,0.9259999847412109,0.5209999847412109,0.06965690106153488,Yannick Carrasco,a,2272,OpenPlay,2016,Head,3910,Athletic Club,Atletico Madrid,2,2,2017-01-22 18:15:00,Kevin Gameiro,Aerial
+138702,63,MissedShots,0.8040000152587891,0.664000015258789,0.09250040352344513,Yannick Carrasco,a,2272,DirectFreekick,2016,RightFoot,3910,Athletic Club,Atletico Madrid,2,2,2017-01-22 18:15:00,,Standard
+140932,88,BlockedShot,0.7480000305175781,0.735,0.043165501207113266,Yannick Carrasco,h,2272,DirectFreekick,2016,RightFoot,3933,Atletico Madrid,Leganes,2,0,2017-02-04 17:30:00,,Standard
+140933,88,SavedShot,0.7709999847412109,0.66,0.022948799654841423,Yannick Carrasco,h,2272,FromCorner,2016,RightFoot,3933,Atletico Madrid,Leganes,2,0,2017-02-04 17:30:00,Filipe Luis,Pass
+138749,30,SavedShot,0.8230000305175781,0.38299999237060545,0.06122159957885742,Yannick Carrasco,h,2272,OpenPlay,2016,RightFoot,3943,Atletico Madrid,Celta Vigo,3,2,2017-02-12 19:45:00,Antoine Griezmann,Pass
+138752,49,BlockedShot,0.7819999694824219,0.7030000305175781,0.06445010006427765,Yannick Carrasco,h,2272,DirectFreekick,2016,RightFoot,3943,Atletico Madrid,Celta Vigo,3,2,2017-02-12 19:45:00,,Standard
+138753,60,BlockedShot,0.8080000305175781,0.750999984741211,0.022760700434446335,Yannick Carrasco,h,2272,OpenPlay,2016,RightFoot,3943,Atletico Madrid,Celta Vigo,3,2,2017-02-12 19:45:00,Antoine Griezmann,Pass
+138755,61,MissedShots,0.8519999694824218,0.515,0.027084099128842354,Yannick Carrasco,h,2272,OpenPlay,2016,Head,3943,Atletico Madrid,Celta Vigo,3,2,2017-02-12 19:45:00,Fernando Torres,Cross
+138759,83,SavedShot,0.9059999847412109,0.3,0.09157030284404755,Yannick Carrasco,h,2272,OpenPlay,2016,RightFoot,3943,Atletico Madrid,Celta Vigo,3,2,2017-02-12 19:45:00,Gabi,Throughball
+138762,85,Goal,0.7659999847412109,0.52,0.021743599325418472,Yannick Carrasco,h,2272,FromCorner,2016,RightFoot,3943,Atletico Madrid,Celta Vigo,3,2,2017-02-12 19:45:00,,None
+139688,45,Goal,0.99,0.5029999923706054,0.9732589721679688,Yannick Carrasco,a,2272,OpenPlay,2016,RightFoot,3953,Sporting Gijon,Atletico Madrid,1,4,2017-02-18 12:00:00,,Rebound
+139687,45,SavedShot,0.8930000305175781,0.45799999237060546,0.3612529933452606,Yannick Carrasco,a,2272,OpenPlay,2016,RightFoot,3953,Sporting Gijon,Atletico Madrid,1,4,2017-02-18 12:00:00,Fernando Torres,HeadPass
+139869,2,MissedShots,0.9219999694824219,0.515,0.09753189980983734,Yannick Carrasco,h,2272,OpenPlay,2016,RightFoot,3956,Atletico Madrid,Barcelona,1,2,2017-02-26 15:15:00,Gabi,Cross
+139875,26,BlockedShot,0.7909999847412109,0.7180000305175781,0.022881699725985527,Yannick Carrasco,h,2272,FromCorner,2016,RightFoot,3956,Atletico Madrid,Barcelona,1,2,2017-02-26 15:15:00,Koke,Pass
+139043,46,BlockedShot,0.7380000305175781,0.49,0.026357999071478844,Yannick Carrasco,h,2272,OpenPlay,2016,RightFoot,3977,Atletico Madrid,Valencia,3,0,2017-03-05 15:15:00,Kevin Gameiro,Pass
+139897,4,MissedShots,0.935,0.505,0.49633699655532837,Yannick Carrasco,a,2272,OpenPlay,2016,Head,3986,Granada,Atletico Madrid,0,1,2017-03-11 19:45:00,Filipe Luis,Cross
+139903,48,BlockedShot,0.805,0.67,0.09089790284633636,Yannick Carrasco,a,2272,DirectFreekick,2016,RightFoot,3986,Granada,Atletico Madrid,0,1,2017-03-11 19:45:00,,Standard
+139904,49,SavedShot,0.7859999847412109,0.575,0.02442770078778267,Yannick Carrasco,a,2272,SetPiece,2016,RightFoot,3986,Granada,Atletico Madrid,0,1,2017-03-11 19:45:00,,None
+139908,58,BlockedShot,0.8119999694824219,0.38599998474121094,0.04305870085954666,Yannick Carrasco,a,2272,OpenPlay,2016,RightFoot,3986,Granada,Atletico Madrid,0,1,2017-03-11 19:45:00,Saúl Ñíguez,TakeOn
+139916,69,MissedShots,0.7480000305175781,0.4929999923706055,0.023763999342918396,Yannick Carrasco,a,2272,OpenPlay,2016,RightFoot,3986,Granada,Atletico Madrid,0,1,2017-03-11 19:45:00,Antoine Griezmann,Pass
+139919,79,SavedShot,0.8959999847412109,0.59,0.1123420000076294,Yannick Carrasco,a,2272,OpenPlay,2016,RightFoot,3986,Granada,Atletico Madrid,0,1,2017-03-11 19:45:00,Filipe Luis,Pass
+141254,48,SavedShot,0.865999984741211,0.3240000152587891,0.062361299991607666,Yannick Carrasco,h,2272,OpenPlay,2016,RightFoot,4001,Atletico Madrid,Sevilla,3,1,2017-03-19 15:15:00,Kevin Gameiro,Pass
+141255,49,BlockedShot,0.7680000305175781,0.534000015258789,0.06341409683227539,Yannick Carrasco,h,2272,OpenPlay,2016,RightFoot,4001,Atletico Madrid,Sevilla,3,1,2017-03-19 15:15:00,Antoine Griezmann,LayOff
+141258,57,MissedShots,0.7140000152587891,0.3970000076293945,0.01830809935927391,Yannick Carrasco,h,2272,OpenPlay,2016,LeftFoot,4001,Atletico Madrid,Sevilla,3,1,2017-03-19 15:15:00,,BallRecovery
+141635,20,BlockedShot,0.81,0.6990000152587891,0.026677099987864494,Yannick Carrasco,h,2272,OpenPlay,2016,RightFoot,4018,Atletico Madrid,Real Sociedad,1,0,2017-04-04 20:30:00,Filipe Luis,Pass
+141647,45,SavedShot,0.904000015258789,0.4759999847412109,0.49335598945617676,Yannick Carrasco,h,2272,OpenPlay,2016,RightFoot,4018,Atletico Madrid,Real Sociedad,1,0,2017-04-04 20:30:00,Antoine Griezmann,Pass
+141960,18,BlockedShot,0.8569999694824219,0.29399999618530276,0.050472501665353775,Yannick Carrasco,a,2272,OpenPlay,2016,LeftFoot,4026,Real Madrid,Atletico Madrid,1,1,2017-04-08 15:15:00,Antoine Griezmann,Pass
+141969,34,BlockedShot,0.845,0.705,0.03245700150728226,Yannick Carrasco,a,2272,OpenPlay,2016,RightFoot,4026,Real Madrid,Atletico Madrid,1,1,2017-04-08 15:15:00,Antoine Griezmann,Pass
+142800,23,BlockedShot,0.75,0.42400001525878905,0.02379699982702732,Yannick Carrasco,h,2272,OpenPlay,2016,RightFoot,4037,Atletico Madrid,Osasuna,3,0,2017-04-15 17:30:00,Thomas Partey,Chipped
+142804,29,Goal,0.735,0.5029999923706054,0.023206299170851707,Yannick Carrasco,h,2272,OpenPlay,2016,RightFoot,4037,Atletico Madrid,Osasuna,3,0,2017-04-15 17:30:00,Filipe Luis,TakeOn
+142807,46,Goal,0.9619999694824218,0.575999984741211,0.38294699788093567,Yannick Carrasco,h,2272,OpenPlay,2016,Head,4037,Atletico Madrid,Osasuna,3,0,2017-04-15 17:30:00,Nicolás Gaitán,Cross
+142811,68,SavedShot,0.7340000152587891,0.639000015258789,0.016973000019788742,Yannick Carrasco,h,2272,OpenPlay,2016,RightFoot,4037,Atletico Madrid,Osasuna,3,0,2017-04-15 17:30:00,Fernando Torres,Pass
+142817,88,SavedShot,0.885,0.5,0.7432780265808105,Yannick Carrasco,h,2272,Penalty,2016,RightFoot,4037,Atletico Madrid,Osasuna,3,0,2017-04-15 17:30:00,,Standard
+142368,13,SavedShot,0.7240000152587891,0.34599998474121096,0.015848999843001366,Yannick Carrasco,a,2272,OpenPlay,2016,RightFoot,4053,Espanyol,Atletico Madrid,0,1,2017-04-22 19:45:00,Saúl Ñíguez,Pass
+142379,62,BlockedShot,0.7719999694824219,0.32,0.020747600123286247,Yannick Carrasco,a,2272,OpenPlay,2016,RightFoot,4053,Espanyol,Atletico Madrid,0,1,2017-04-22 19:45:00,Giménez,Pass
+143158,58,BlockedShot,0.769000015258789,0.6179999923706054,0.0769248977303505,Yannick Carrasco,h,2272,DirectFreekick,2016,RightFoot,4060,Atletico Madrid,Villarreal,0,1,2017-04-25 20:30:00,,Standard
+143162,70,MissedShots,0.8009999847412109,0.705,0.0249330997467041,Yannick Carrasco,h,2272,OpenPlay,2016,RightFoot,4060,Atletico Madrid,Villarreal,0,1,2017-04-25 20:30:00,Kevin Gameiro,TakeOn
+144053,21,BlockedShot,0.7819999694824219,0.5729999923706055,0.024505700916051865,Yannick Carrasco,h,2272,FromCorner,2016,LeftFoot,4081,Atletico Madrid,Eibar,1,0,2017-05-06 15:15:00,,None
+144054,31,MissedShots,0.905,0.655,0.2271299958229065,Yannick Carrasco,h,2272,OpenPlay,2016,RightFoot,4081,Atletico Madrid,Eibar,1,0,2017-05-06 15:15:00,Saúl Ñíguez,TakeOn
+144058,48,MissedShots,0.77,0.485,0.028099700808525085,Yannick Carrasco,h,2272,OpenPlay,2016,RightFoot,4081,Atletico Madrid,Eibar,1,0,2017-05-06 15:15:00,Saúl Ñíguez,Pass
+144060,54,BlockedShot,0.730999984741211,0.585,0.015104999765753746,Yannick Carrasco,h,2272,FromCorner,2016,RightFoot,4081,Atletico Madrid,Eibar,1,0,2017-05-06 15:15:00,,None
+144064,63,SavedShot,0.7869999694824219,0.66,0.026270899921655655,Yannick Carrasco,h,2272,OpenPlay,2016,RightFoot,4081,Atletico Madrid,Eibar,1,0,2017-05-06 15:15:00,Koke,Pass
+143186,57,SavedShot,0.8530000305175781,0.7530000305175781,0.03255020081996918,Yannick Carrasco,a,2272,OpenPlay,2016,RightFoot,4091,Real Betis,Atletico Madrid,1,1,2017-05-14 19:00:00,Giménez,HeadPass
+143744,51,MissedShots,0.89,0.38,0.11548300087451935,Yannick Carrasco,h,2272,OpenPlay,2016,LeftFoot,4101,Atletico Madrid,Athletic Club,3,1,2017-05-21 15:45:00,Thomas Partey,Pass
+143746,55,MissedShots,0.8530000305175781,0.44799999237060545,0.11841599643230438,Yannick Carrasco,h,2272,OpenPlay,2016,RightFoot,4101,Atletico Madrid,Athletic Club,3,1,2017-05-21 15:45:00,Saúl Ñíguez,Pass
+169107,34,SavedShot,0.8009999847412109,0.5579999923706055,0.05215059965848923,Yannick Carrasco,a,2272,OpenPlay,2017,RightFoot,7882,Girona,Atletico Madrid,2,2,2017-08-19 19:15:00,Fernando Torres,Pass
+169112,74,MissedShots,0.86,0.500999984741211,0.0982460007071495,Yannick Carrasco,a,2272,OpenPlay,2017,LeftFoot,7882,Girona,Atletico Madrid,2,2,2017-08-19 19:15:00,Nicolás Gaitán,Pass
+169547,4,Goal,0.8969999694824219,0.6819999694824219,0.06947220116853714,Yannick Carrasco,a,2272,OpenPlay,2017,LeftFoot,7896,Las Palmas,Atletico Madrid,1,5,2017-08-26 21:15:00,Saúl Ñíguez,Pass
+169555,56,MissedShots,0.7519999694824219,0.705,0.02587519958615303,Yannick Carrasco,a,2272,OpenPlay,2017,LeftFoot,7896,Las Palmas,Atletico Madrid,1,5,2017-08-26 21:15:00,,TakeOn
+169783,46,SavedShot,0.7959999847412109,0.44299999237060544,0.0499362014234066,Yannick Carrasco,a,2272,OpenPlay,2017,LeftFoot,7908,Valencia,Atletico Madrid,0,0,2017-09-09 15:15:00,Ángel Correa,HeadPass
+170023,47,MissedShots,0.86,0.715,0.04176679998636246,Yannick Carrasco,h,2272,OpenPlay,2017,RightFoot,7918,Atletico Madrid,Malaga,1,0,2017-09-16 19:45:00,Filipe Luis,TakeOn
+170028,56,MissedShots,0.7659999847412109,0.6179999923706054,0.008652999997138977,Yannick Carrasco,h,2272,FromCorner,2017,RightFoot,7918,Atletico Madrid,Malaga,1,0,2017-09-16 19:45:00,Ángel Correa,Chipped
+170029,58,BlockedShot,0.8719999694824219,0.595999984741211,0.10250700265169144,Yannick Carrasco,h,2272,OpenPlay,2017,RightFoot,7918,Atletico Madrid,Malaga,1,0,2017-09-16 19:45:00,Filipe Luis,TakeOn
+170250,61,MissedShots,0.755,0.6780000305175782,0.015631599351763725,Yannick Carrasco,a,2272,SetPiece,2017,LeftFoot,7927,Athletic Club,Atletico Madrid,1,2,2017-09-20 19:00:00,Saúl Ñíguez,HeadPass
+170252,64,MissedShots,0.7619999694824219,0.6,0.021515000611543655,Yannick Carrasco,a,2272,SetPiece,2017,RightFoot,7927,Athletic Club,Atletico Madrid,1,2,2017-09-20 19:00:00,Koke,Pass
+170253,66,BlockedShot,0.835999984741211,0.3240000152587891,0.07356390357017517,Yannick Carrasco,a,2272,OpenPlay,2017,LeftFoot,7927,Athletic Club,Atletico Madrid,1,2,2017-09-20 19:00:00,Antoine Griezmann,TakeOn
+170255,72,Goal,0.9309999847412109,0.37599998474121094,0.31088900566101074,Yannick Carrasco,a,2272,OpenPlay,2017,RightFoot,7927,Athletic Club,Atletico Madrid,1,2,2017-09-20 19:00:00,Antoine Griezmann,Chipped
+170656,45,Goal,0.855999984741211,0.509000015258789,0.6465229988098145,Yannick Carrasco,h,2272,OpenPlay,2017,RightFoot,7937,Atletico Madrid,Sevilla,2,0,2017-09-23 12:00:00,,TakeOn
+170660,53,BlockedShot,0.720999984741211,0.6519999694824219,0.00965316966176033,Yannick Carrasco,h,2272,SetPiece,2017,RightFoot,7937,Atletico Madrid,Sevilla,2,0,2017-09-23 12:00:00,,None
+170680,46,SavedShot,0.914000015258789,0.7569999694824219,0.03872169926762581,Yannick Carrasco,h,2272,FromCorner,2017,RightFoot,7957,Atletico Madrid,Barcelona,1,1,2017-10-14 19:45:00,Koke,Pass
+172424,62,BlockedShot,0.7180000305175781,0.40200000762939453,0.014560099691152573,Yannick Carrasco,h,2272,OpenPlay,2017,RightFoot,7994,Atletico Madrid,Real Madrid,0,0,2017-11-18 19:45:00,,BallRecovery
+172427,78,BlockedShot,0.8930000305175781,0.5579999923706055,0.08340340107679367,Yannick Carrasco,h,2272,FromCorner,2017,RightFoot,7994,Atletico Madrid,Real Madrid,0,0,2017-11-18 19:45:00,,None
+184337,78,BlockedShot,0.7959999847412109,0.5320000076293945,0.01881450042128563,Yannick Carrasco,h,2272,FromCorner,2017,RightFoot,8034,Atletico Madrid,Alaves,1,0,2017-12-16 19:45:00,,Aerial
+188845,54,BlockedShot,0.8209999847412109,0.5279999923706055,0.04511319845914841,Yannick Carrasco,h,2272,FromCorner,2017,RightFoot,8070,Atletico Madrid,Girona,1,1,2018-01-20 15:15:00,,None
+188847,61,SavedShot,0.9159999847412109,0.595999984741211,0.429421991109848,Yannick Carrasco,h,2272,OpenPlay,2017,RightFoot,8070,Atletico Madrid,Girona,1,1,2018-01-20 15:15:00,Saúl Ñíguez,Throughball
+190413,54,BlockedShot,0.874000015258789,0.639000015258789,0.0922778993844986,Yannick Carrasco,h,2272,OpenPlay,2017,LeftFoot,8086,Atletico Madrid,Las Palmas,3,0,2018-01-28 15:15:00,,TakeOn
+190414,55,SavedShot,0.6969999694824218,0.6309999847412109,0.014694499783217907,Yannick Carrasco,h,2272,OpenPlay,2017,RightFoot,8086,Atletico Madrid,Las Palmas,3,0,2018-01-28 15:15:00,Fernando Torres,Pass
+190417,62,MissedShots,0.8619999694824219,0.5479999923706055,0.11312200129032135,Yannick Carrasco,h,2272,OpenPlay,2017,RightFoot,8086,Atletico Madrid,Las Palmas,3,0,2018-01-28 15:15:00,Antoine Griezmann,Pass
+190419,66,SavedShot,0.865,0.7380000305175781,0.09691999852657318,Yannick Carrasco,h,2272,DirectFreekick,2017,RightFoot,8086,Atletico Madrid,Las Palmas,3,0,2018-01-28 15:15:00,,Standard
+195333,13,BlockedShot,0.7809999847412109,0.31,0.022868800908327103,Yannick Carrasco,h,2272,OpenPlay,2017,RightFoot,8098,Atletico Madrid,Valencia,1,0,2018-02-04 19:45:00,Stefan Savic,TakeOn
+358303,62,SavedShot,0.8630000305175781,0.26899999618530274,0.037258099764585495,Yannick Carrasco,h,2272,OpenPlay,2019,RightFoot,12250,Atletico Madrid,Granada,1,0,2020-02-08 20:00:00,Koke,Pass
+361370,9,BlockedShot,0.8590000152587891,0.6859999847412109,0.042170800268650055,Yannick Carrasco,a,2272,OpenPlay,2019,RightFoot,12275,Espanyol,Atletico Madrid,1,1,2020-03-01 15:00:00,Ángel Correa,Pass
+361791,63,SavedShot,0.7680000305175781,0.585,0.02690579928457737,Yannick Carrasco,h,2272,OpenPlay,2019,LeftFoot,12284,Atletico Madrid,Sevilla,2,2,2020-03-07 15:00:00,Koke,Pass
+361794,69,MissedShots,0.9019999694824219,0.534000015258789,0.08735039830207825,Yannick Carrasco,h,2272,OpenPlay,2019,RightFoot,12284,Atletico Madrid,Sevilla,2,2,2020-03-07 15:00:00,,None
+364363,11,MissedShots,0.7559999847412109,0.3659999847412109,0.11140699684619904,Yannick Carrasco,a,2272,OpenPlay,2019,RightFoot,12293,Athletic Club,Atletico Madrid,1,1,2020-06-14 12:00:00,Marcos Llorente,Pass
+364365,21,BlockedShot,0.8959999847412109,0.7019999694824218,0.06513349711894989,Yannick Carrasco,a,2272,OpenPlay,2019,LeftFoot,12293,Athletic Club,Atletico Madrid,1,1,2020-06-14 12:00:00,Koke,TakeOn
+364372,42,BlockedShot,0.8830000305175781,0.7130000305175781,0.04160039871931076,Yannick Carrasco,a,2272,OpenPlay,2019,RightFoot,12293,Athletic Club,Atletico Madrid,1,1,2020-06-14 12:00:00,Marcos Llorente,Pass
+364894,87,Goal,0.9069999694824219,0.55,0.5106580257415771,Yannick Carrasco,a,2272,OpenPlay,2019,RightFoot,12311,Osasuna,Atletico Madrid,0,5,2020-06-17 20:00:00,Marcos Llorente,Pass
+366141,5,SavedShot,0.775,0.44599998474121094,0.030812399461865425,Yannick Carrasco,a,2272,OpenPlay,2019,RightFoot,12328,Levante,Atletico Madrid,0,1,2020-06-23 17:30:00,Diego Costa,Pass
+366148,41,SavedShot,0.7930000305175782,0.735,0.02789369970560074,Yannick Carrasco,a,2272,OpenPlay,2019,RightFoot,12328,Levante,Atletico Madrid,0,1,2020-06-23 17:30:00,Mario Hermoso,Pass
+367817,47,BlockedShot,0.7780000305175782,0.5729999923706055,0.037721000611782074,Yannick Carrasco,a,2272,OpenPlay,2019,RightFoot,12344,Barcelona,Atletico Madrid,2,2,2020-06-30 20:00:00,Thomas Partey,TakeOn
+368476,13,BlockedShot,0.8030000305175782,0.48900001525878906,0.05108470097184181,Yannick Carrasco,h,2272,OpenPlay,2019,RightFoot,12354,Atletico Madrid,Mallorca,3,0,2020-07-03 20:00:00,Marcos Llorente,Pass
+368478,17,MissedShots,0.905,0.5729999923706055,0.12440100312232971,Yannick Carrasco,h,2272,OpenPlay,2019,RightFoot,12354,Atletico Madrid,Mallorca,3,0,2020-07-03 20:00:00,Álvaro Morata,Pass
+368485,41,BlockedShot,0.8159999847412109,0.5420000076293945,0.07345669716596603,Yannick Carrasco,h,2272,OpenPlay,2019,LeftFoot,12354,Atletico Madrid,Mallorca,3,0,2020-07-03 20:00:00,Manuel Sánchez,Pass
+371953,3,BlockedShot,0.740999984741211,0.6809999847412109,0.04873630031943321,Yannick Carrasco,a,2272,DirectFreekick,2019,RightFoot,12392,Getafe,Atletico Madrid,0,2,2020-07-16 19:00:00,,Standard
+371967,44,MissedShots,0.7709999847412109,0.36700000762939455,0.018039900809526443,Yannick Carrasco,a,2272,OpenPlay,2019,RightFoot,12392,Getafe,Atletico Madrid,0,2,2020-07-16 19:00:00,,Rebound
+372826,84,SavedShot,0.8880000305175781,0.28700000762939454,0.059050701558589935,Yannick Carrasco,h,2272,OpenPlay,2019,RightFoot,12394,Atletico Madrid,Real Sociedad,1,1,2020-07-19 19:00:00,Ángel Correa,Pass
+379567,48,SavedShot,0.9019999694824219,0.7219999694824218,0.06531040370464325,Yannick Carrasco,h,2272,OpenPlay,2020,LeftFoot,14155,Atletico Madrid,Granada,6,1,2020-09-27 14:00:00,João Félix,Pass
+380142,88,BlockedShot,0.7719999694824219,0.710999984741211,0.014063400216400623,Yannick Carrasco,a,2272,OpenPlay,2020,RightFoot,14168,SD Huesca,Atletico Madrid,0,0,2020-09-30 17:00:00,,None
+381933,94,Goal,0.9569999694824218,0.5670000076293945,0.4712570011615753,Yannick Carrasco,a,2272,OpenPlay,2020,Head,14828,Celta Vigo,Atletico Madrid,0,2,2020-10-17 14:00:00,,Rebound
+383588,57,SavedShot,0.9640000152587891,0.6569999694824219,0.03605340048670769,Yannick Carrasco,h,2272,FromCorner,2020,LeftFoot,14835,Atletico Madrid,Real Betis,2,0,2020-10-24 19:00:00,Luis Suárez,Chipped
+383591,75,SavedShot,0.884000015258789,0.38299999237060545,0.32043400406837463,Yannick Carrasco,h,2272,OpenPlay,2020,RightFoot,14835,Atletico Madrid,Real Betis,2,0,2020-10-24 19:00:00,João Félix,Pass
+387616,47,Goal,0.754000015258789,0.764000015258789,0.2725580036640167,Yannick Carrasco,h,2272,OpenPlay,2020,RightFoot,14867,Atletico Madrid,Barcelona,1,0,2020-11-21 20:00:00,Ángel Correa,TakeOn
+387624,72,MissedShots,0.9030000305175782,0.7269999694824218,0.04390890151262283,Yannick Carrasco,h,2272,OpenPlay,2020,RightFoot,14867,Atletico Madrid,Barcelona,1,0,2020-11-21 20:00:00,Koke,Pass
+387629,85,MissedShots,0.8430000305175781,0.5359999847412109,0.05759130045771599,Yannick Carrasco,h,2272,FromCorner,2020,RightFoot,14867,Atletico Madrid,Barcelona,1,0,2020-11-21 20:00:00,,None
+393821,24,MissedShots,0.779000015258789,0.7440000152587891,0.014569800347089767,Yannick Carrasco,h,2272,FromCorner,2020,RightFoot,14908,Atletico Madrid,Elche,3,1,2020-12-19 13:00:00,,None
+393831,55,MissedShots,0.8540000152587891,0.735,0.04109470173716545,Yannick Carrasco,h,2272,OpenPlay,2020,RightFoot,14908,Atletico Madrid,Elche,3,1,2020-12-19 13:00:00,Luis Suárez,Pass
+394979,53,SavedShot,0.924000015258789,0.7019999694824218,0.0779184028506279,Yannick Carrasco,a,2272,OpenPlay,2020,LeftFoot,14926,Real Sociedad,Atletico Madrid,0,2,2020-12-22 18:45:00,Koke,Pass
+396119,5,SavedShot,0.7430000305175781,0.6919999694824219,0.01950169913470745,Yannick Carrasco,h,2272,OpenPlay,2020,RightFoot,14929,Atletico Madrid,Getafe,1,0,2020-12-30 18:15:00,Mario Hermoso,Pass
+396129,58,SavedShot,0.9409999847412109,0.7609999847412109,0.036436498165130615,Yannick Carrasco,h,2272,OpenPlay,2020,RightFoot,14929,Atletico Madrid,Getafe,1,0,2020-12-30 18:15:00,Saúl Ñíguez,TakeOn
+396919,5,SavedShot,0.85,0.695,0.03594290092587471,Yannick Carrasco,a,2272,OpenPlay,2020,LeftFoot,14937,Alaves,Atletico Madrid,1,2,2021-01-03 15:15:00,Luis Suárez,Pass
+400219,83,MissedShots,0.78,0.5520000076293945,0.1008559986948967,Yannick Carrasco,a,2272,DirectFreekick,2020,RightFoot,14962,Eibar,Atletico Madrid,1,2,2021-01-21 20:30:00,,Standard
+401093,50,MissedShots,0.850999984741211,0.34700000762939454,0.04717069864273071,Yannick Carrasco,h,2272,OpenPlay,2020,LeftFoot,14973,Atletico Madrid,Valencia,3,1,2021-01-24 20:00:00,Stefan Savic,Pass
+401094,51,BlockedShot,0.8469999694824218,0.3659999847412109,0.06990920007228851,Yannick Carrasco,h,2272,OpenPlay,2020,RightFoot,14973,Atletico Madrid,Valencia,3,1,2021-01-24 20:00:00,Thomas Lemar,TakeOn
+409048,52,SavedShot,0.9180000305175782,0.6830000305175781,0.2829209864139557,Yannick Carrasco,h,2272,OpenPlay,2020,RightFoot,15029,Atletico Madrid,Real Madrid,1,1,2021-03-07 15:15:00,Luis Suárez,Pass
+409461,23,SavedShot,0.8090000152587891,0.75,0.01977360062301159,Yannick Carrasco,h,2272,OpenPlay,2020,RightFoot,14948,Atletico Madrid,Athletic Club,2,1,2021-03-10 20:00:00,Mario Hermoso,Pass
+409462,33,SavedShot,0.7669999694824219,0.6530000305175782,0.01906530000269413,Yannick Carrasco,h,2272,OpenPlay,2020,RightFoot,14948,Atletico Madrid,Athletic Club,2,1,2021-03-10 20:00:00,,Dispossessed
+409468,64,SavedShot,0.855999984741211,0.7230000305175781,0.04031519964337349,Yannick Carrasco,h,2272,OpenPlay,2020,RightFoot,14948,Atletico Madrid,Athletic Club,2,1,2021-03-10 20:00:00,Luis Suárez,Chipped
+410160,6,SavedShot,0.8859999847412109,0.34700000762939454,0.10854099690914154,Yannick Carrasco,a,2272,OpenPlay,2020,RightFoot,15042,Getafe,Atletico Madrid,0,0,2021-03-13 20:00:00,Ángel Correa,Throughball
+410166,37,SavedShot,0.8280000305175781,0.62,0.04869740083813667,Yannick Carrasco,a,2272,OpenPlay,2020,RightFoot,15042,Getafe,Atletico Madrid,0,0,2021-03-13 20:00:00,,None
+414834,4,Goal,0.9590000152587891,0.5070000076293946,0.573028028011322,Yannick Carrasco,a,2272,OpenPlay,2020,RightFoot,15069,Real Betis,Atletico Madrid,1,1,2021-04-11 19:00:00,Ángel Correa,BallTouch
+414839,36,MissedShots,0.9219999694824219,0.675,0.027053600177168846,Yannick Carrasco,a,2272,OpenPlay,2020,LeftFoot,15069,Real Betis,Atletico Madrid,1,1,2021-04-11 19:00:00,João Félix,Aerial
+415864,33,SavedShot,0.7759999847412109,0.5029999923706054,0.03640279918909073,Yannick Carrasco,h,2272,OpenPlay,2020,RightFoot,15100,Atletico Madrid,Eibar,5,0,2021-04-18 14:15:00,Ángel Correa,BallTouch
+415870,48,Goal,0.9590000152587891,0.4,0.42071598768234253,Yannick Carrasco,h,2272,OpenPlay,2020,RightFoot,15100,Atletico Madrid,Eibar,5,0,2021-04-18 14:15:00,Saúl Ñíguez,TakeOn
+416805,9,SavedShot,0.904000015258789,0.639000015258789,0.31527701020240784,Yannick Carrasco,h,2272,OpenPlay,2020,LeftFoot,15079,Atletico Madrid,SD Huesca,2,0,2021-04-22 17:00:00,Marcos Llorente,Pass
+416808,14,SavedShot,0.7330000305175781,0.54,0.0215636994689703,Yannick Carrasco,h,2272,OpenPlay,2020,RightFoot,15079,Atletico Madrid,SD Huesca,2,0,2021-04-22 17:00:00,Héctor Herrera,Pass
+416809,21,BlockedShot,0.825999984741211,0.4229999923706055,0.06211119890213013,Yannick Carrasco,h,2272,OpenPlay,2020,RightFoot,15079,Atletico Madrid,SD Huesca,2,0,2021-04-22 17:00:00,Ángel Correa,BallTouch
+416821,79,Goal,0.935,0.5,0.6109750270843506,Yannick Carrasco,h,2272,OpenPlay,2020,RightFoot,15079,Atletico Madrid,SD Huesca,2,0,2021-04-22 17:00:00,Marcos Llorente,Pass
+418122,9,SavedShot,0.9280000305175782,0.49,0.12440899759531021,Yannick Carrasco,a,2272,OpenPlay,2020,Head,15088,Athletic Club,Atletico Madrid,2,1,2021-04-25 19:00:00,Ángel Correa,Cross
+418124,16,MissedShots,0.7559999847412109,0.6790000152587891,0.015149099752306938,Yannick Carrasco,a,2272,FromCorner,2020,RightFoot,15088,Athletic Club,Atletico Madrid,2,1,2021-04-25 19:00:00,,None
+418134,54,MissedShots,0.9169999694824219,0.7,0.04417220130562782,Yannick Carrasco,a,2272,OpenPlay,2020,LeftFoot,15088,Athletic Club,Atletico Madrid,2,1,2021-04-25 19:00:00,Marcos Llorente,Pass
+420108,36,SavedShot,0.925,0.6990000152587891,0.04945610091090202,Yannick Carrasco,a,2272,OpenPlay,2020,LeftFoot,15120,Barcelona,Atletico Madrid,0,0,2021-05-08 14:15:00,Ángel Correa,Pass
+420112,42,BlockedShot,0.875,0.654000015258789,0.08054249733686447,Yannick Carrasco,a,2272,OpenPlay,2020,LeftFoot,15120,Barcelona,Atletico Madrid,0,0,2021-05-08 14:15:00,Koke,TakeOn
+420116,54,BlockedShot,0.87,0.6329999923706054,0.05214719846844673,Yannick Carrasco,a,2272,FromCorner,2020,RightFoot,15120,Barcelona,Atletico Madrid,0,0,2021-05-08 14:15:00,,None
+421529,15,Goal,0.8930000305175781,0.585,0.18512000143527985,Yannick Carrasco,h,2272,FromCorner,2020,RightFoot,15128,Atletico Madrid,Real Sociedad,2,1,2021-05-12 20:00:00,Marcos Llorente,Chipped
+421539,59,MissedShots,0.97,0.645,0.09565789997577667,Yannick Carrasco,h,2272,OpenPlay,2020,LeftFoot,15128,Atletico Madrid,Real Sociedad,2,1,2021-05-12 20:00:00,Ángel Correa,Pass
+422565,5,MissedShots,0.8019999694824219,0.4179999923706055,0.0448715016245842,Yannick Carrasco,h,2272,OpenPlay,2020,RightFoot,15140,Atletico Madrid,Osasuna,2,1,2021-05-16 16:30:00,Marcos Llorente,Pass
+422574,21,BlockedShot,0.745999984741211,0.725999984741211,0.010715199634432793,Yannick Carrasco,h,2272,OpenPlay,2020,RightFoot,15140,Atletico Madrid,Osasuna,2,1,2021-05-16 16:30:00,,Rebound
+422585,55,BlockedShot,0.8630000305175781,0.7219999694824218,0.032351698726415634,Yannick Carrasco,h,2272,OpenPlay,2020,RightFoot,15140,Atletico Madrid,Osasuna,2,1,2021-05-16 16:30:00,Mario Hermoso,Pass
+423824,77,MissedShots,0.870999984741211,0.3920000076293945,0.11426900327205658,Yannick Carrasco,a,2272,OpenPlay,2020,RightFoot,15156,Real Valladolid,Atletico Madrid,1,2,2021-05-22 16:00:00,Luis Suárez,Pass
+426463,40,BlockedShot,0.8830000305175781,0.475,0.129831001162529,Yannick Carrasco,a,2272,OpenPlay,2021,RightFoot,17141,Celta Vigo,Atletico Madrid,1,2,2021-08-15 15:30:00,Thomas Lemar,Pass
+426475,94,SavedShot,0.865999984741211,0.3920000076293945,0.3040330111980438,Yannick Carrasco,a,2272,OpenPlay,2021,RightFoot,17141,Celta Vigo,Atletico Madrid,1,2,2021-08-15 15:30:00,Luis Suárez,Pass
+427895,50,SavedShot,0.86,0.485,0.13041499257087708,Yannick Carrasco,h,2272,OpenPlay,2021,RightFoot,17152,Atletico Madrid,Elche,1,0,2021-08-22 17:30:00,Rodrigo de Paul,Throughball
+429518,38,BlockedShot,0.8109999847412109,0.6309999847412109,0.03676310181617737,Yannick Carrasco,h,2272,OpenPlay,2021,RightFoot,17165,Atletico Madrid,Villarreal,2,2,2021-08-29 20:00:00,Ángel Correa,Pass
+429525,59,MissedShots,0.7759999847412109,0.64,0.019275100901722908,Yannick Carrasco,h,2272,FromCorner,2021,RightFoot,17165,Atletico Madrid,Villarreal,2,2,2021-08-29 20:00:00,,None
+430285,41,MissedShots,0.855,0.5779999923706055,0.06062399968504906,Yannick Carrasco,a,2272,OpenPlay,2021,RightFoot,17170,Espanyol,Atletico Madrid,1,2,2021-09-12 12:00:00,Antoine Griezmann,BallTouch
+430287,47,BlockedShot,0.8619999694824219,0.6840000152587891,0.016775300726294518,Yannick Carrasco,a,2272,OpenPlay,2021,RightFoot,17170,Espanyol,Atletico Madrid,1,2,2021-09-12 12:00:00,,Aerial
+430292,78,Goal,0.9480000305175781,0.66,0.20587299764156342,Yannick Carrasco,a,2272,OpenPlay,2021,LeftFoot,17170,Espanyol,Atletico Madrid,1,2,2021-09-12 12:00:00,,Dispossessed
+430295,92,MissedShots,0.9230000305175782,0.34,0.07272519916296005,Yannick Carrasco,a,2272,OpenPlay,2021,RightFoot,17170,Espanyol,Atletico Madrid,1,2,2021-09-12 12:00:00,Koke,Pass
+431426,61,BlockedShot,0.8919999694824219,0.725999984741211,0.03447290137410164,Yannick Carrasco,h,2272,OpenPlay,2021,RightFoot,17177,Atletico Madrid,Athletic Club,0,0,2021-09-18 14:15:00,João Félix,Pass
+432395,7,BlockedShot,0.769000015258789,0.66,0.01725189946591854,Yannick Carrasco,a,2272,FromCorner,2021,RightFoot,17187,Getafe,Atletico Madrid,1,2,2021-09-21 17:30:00,,None
+433188,24,BlockedShot,0.754000015258789,0.6029999923706054,0.021577199921011925,Yannick Carrasco,a,2272,OpenPlay,2021,RightFoot,17197,Alaves,Atletico Madrid,1,0,2021-09-25 12:00:00,Geoffrey Kondogbia,Pass
+438714,56,MissedShots,0.8619999694824219,0.6819999694824219,0.0454012006521225,Yannick Carrasco,h,2272,OpenPlay,2021,RightFoot,17235,Atletico Madrid,Real Sociedad,2,2,2021-10-24 19:00:00,Rodrigo de Paul,TakeOn
+440349,25,Goal,0.9219999694824219,0.67,0.0786643996834755,Yannick Carrasco,h,2272,OpenPlay,2021,LeftFoot,17251,Atletico Madrid,Real Betis,3,0,2021-10-31 15:15:00,Ángel Correa,TakeOn
+441774,31,MissedShots,0.875,0.735,0.03324100002646446,Yannick Carrasco,a,2272,OpenPlay,2021,RightFoot,17264,Valencia,Atletico Madrid,3,3,2021-11-07 15:15:00,Mario Hermoso,Pass
+442800,52,MissedShots,0.8640000152587891,0.6509999847412109,0.055933598428964615,Yannick Carrasco,h,2272,OpenPlay,2021,LeftFoot,17266,Atletico Madrid,Osasuna,1,0,2021-11-20 17:30:00,,None
+442802,67,BlockedShot,0.8419999694824218,0.38299999237060545,0.09706269949674606,Yannick Carrasco,h,2272,OpenPlay,2021,LeftFoot,17266,Atletico Madrid,Osasuna,1,0,2021-11-20 17:30:00,Marcos Llorente,TakeOn
+442805,80,MissedShots,0.9490000152587891,0.6430000305175781,0.10620799660682678,Yannick Carrasco,h,2272,OpenPlay,2021,RightFoot,17266,Atletico Madrid,Osasuna,1,0,2021-11-20 17:30:00,Koke,TakeOn
+442810,91,ShotOnPost,0.5370000076293945,0.7469999694824219,0.1305299997329712,Yannick Carrasco,h,2272,OpenPlay,2021,RightFoot,17266,Atletico Madrid,Osasuna,1,0,2021-11-20 17:30:00,,TakeOn
+444892,9,BlockedShot,0.875,0.605999984741211,0.07778739929199219,Yannick Carrasco,a,2272,OpenPlay,2021,RightFoot,17280,Cadiz,Atletico Madrid,1,4,2021-11-28 17:30:00,Thomas Lemar,Pass
+444903,50,BlockedShot,0.919000015258789,0.69,0.058334801346063614,Yannick Carrasco,a,2272,OpenPlay,2021,LeftFoot,17280,Cadiz,Atletico Madrid,1,4,2021-11-28 17:30:00,Antoine Griezmann,Pass
+449623,45,BlockedShot,0.904000015258789,0.3920000076293945,0.09828270226716995,Yannick Carrasco,a,2272,OpenPlay,2021,RightFoot,17311,Sevilla,Atletico Madrid,2,1,2021-12-18 20:00:00,Koke,Pass
+449631,77,MissedShots,0.8219999694824218,0.655,0.02864300087094307,Yannick Carrasco,a,2272,FromCorner,2021,LeftFoot,17311,Sevilla,Atletico Madrid,2,1,2021-12-18 20:00:00,,None
+451164,66,BlockedShot,0.9,0.32099998474121094,0.10245200246572495,Yannick Carrasco,h,2272,OpenPlay,2021,RightFoot,17320,Atletico Madrid,Rayo Vallecano,2,0,2022-01-02 15:15:00,Ángel Correa,TakeOn
+451166,68,BlockedShot,0.879000015258789,0.47299999237060547,0.13375400006771088,Yannick Carrasco,h,2272,OpenPlay,2021,LeftFoot,17320,Atletico Madrid,Rayo Vallecano,2,0,2022-01-02 15:15:00,Ángel Correa,TakeOn
+452869,56,MissedShots,0.7769999694824219,0.3039999961853027,0.016477499157190323,Yannick Carrasco,a,2272,FromCorner,2021,RightFoot,17335,Villarreal,Atletico Madrid,2,2,2022-01-09 20:00:00,,None
+454851,9,MissedShots,0.8809999847412109,0.33099998474121095,0.023631099611520767,Yannick Carrasco,h,2272,OpenPlay,2021,RightFoot,17347,Atletico Madrid,Valencia,3,2,2022-01-22 20:00:00,Renan Lodi,Cross
+454863,47,MissedShots,0.77,0.47200000762939454,0.028831299394369125,Yannick Carrasco,h,2272,OpenPlay,2021,LeftFoot,17347,Atletico Madrid,Valencia,3,2,2022-01-22 20:00:00,Rodrigo de Paul,Pass
+456292,7,Goal,0.9069999694824219,0.38599998474121094,0.10190500319004059,Yannick Carrasco,a,2272,OpenPlay,2021,RightFoot,17357,Barcelona,Atletico Madrid,4,2,2022-02-06 15:15:00,Luis Suárez,Pass
+456305,60,MissedShots,0.7719999694824219,0.7330000305175781,0.019583599641919136,Yannick Carrasco,a,2272,FromCorner,2021,RightFoot,17357,Barcelona,Atletico Madrid,4,2,2022-02-06 15:15:00,Reinildo,TakeOn
+460095,66,SavedShot,0.815,0.6680000305175782,0.04881250113248825,Yannick Carrasco,h,2272,OpenPlay,2021,RightFoot,17386,Atletico Madrid,Celta Vigo,2,0,2022-02-26 20:00:00,Héctor Herrera,Pass
+462227,25,MissedShots,0.7269999694824218,0.49400001525878906,0.02691500075161457,Yannick Carrasco,h,2272,OpenPlay,2021,RightFoot,17406,Atletico Madrid,Cadiz,2,1,2022-03-11 20:00:00,Rodrigo de Paul,Pass
+465543,77,MissedShots,0.7859999847412109,0.8469999694824218,0.02226400002837181,Yannick Carrasco,h,2272,FromCorner,2021,RightFoot,17427,Atletico Madrid,Alaves,4,1,2022-04-02 19:00:00,Rodrigo de Paul,Pass
+465547,86,SavedShot,0.9159999847412109,0.3370000076293945,0.06862310320138931,Yannick Carrasco,h,2272,OpenPlay,2021,RightFoot,17427,Atletico Madrid,Alaves,4,1,2022-04-02 19:00:00,João Félix,TakeOn
+468812,51,Goal,0.8959999847412109,0.6370000076293946,0.2778719961643219,Yannick Carrasco,h,2272,OpenPlay,2021,RightFoot,17448,Atletico Madrid,Espanyol,2,1,2022-04-17 14:15:00,Matheus Cunha,Pass
+468823,94,SavedShot,0.9309999847412109,0.67,0.08579540252685547,Yannick Carrasco,h,2272,OpenPlay,2021,RightFoot,17448,Atletico Madrid,Espanyol,2,1,2022-04-17 14:15:00,Rodrigo de Paul,TakeOn
+468824,99,Goal,0.885,0.5,0.7432780265808105,Yannick Carrasco,h,2272,Penalty,2021,RightFoot,17448,Atletico Madrid,Espanyol,2,1,2022-04-17 14:15:00,,Standard
+469303,12,BlockedShot,0.8119999694824219,0.47200000762939454,0.05206029862165451,Yannick Carrasco,h,2272,OpenPlay,2021,LeftFoot,17456,Atletico Madrid,Granada,0,0,2022-04-20 17:00:00,,None
+469309,29,MissedShots,0.875,0.7280000305175781,0.03298880159854889,Yannick Carrasco,h,2272,OpenPlay,2021,RightFoot,17456,Atletico Madrid,Granada,0,0,2022-04-20 17:00:00,Koke,Pass
+469315,58,BlockedShot,0.7330000305175781,0.5459999847412109,0.02341819927096367,Yannick Carrasco,h,2272,OpenPlay,2021,RightFoot,17456,Atletico Madrid,Granada,0,0,2022-04-20 17:00:00,Rodrigo de Paul,TakeOn
+469316,58,BlockedShot,0.965999984741211,0.31799999237060544,0.10738500207662582,Yannick Carrasco,h,2272,OpenPlay,2021,RightFoot,17456,Atletico Madrid,Granada,0,0,2022-04-20 17:00:00,Luis Suárez,Throughball
+469329,89,MissedShots,0.875999984741211,0.745999984741211,0.028437500819563866,Yannick Carrasco,h,2272,OpenPlay,2021,RightFoot,17456,Atletico Madrid,Granada,0,0,2022-04-20 17:00:00,,TakeOn
+471910,45,BlockedShot,0.879000015258789,0.46,0.10415499657392502,Yannick Carrasco,a,2272,OpenPlay,2021,LeftFoot,17467,Athletic Club,Atletico Madrid,2,0,2022-04-30 19:00:00,Geoffrey Kondogbia,TakeOn
+474642,6,BlockedShot,0.904000015258789,0.659000015258789,0.07194949686527252,Yannick Carrasco,h,2272,OpenPlay,2021,LeftFoot,17477,Atletico Madrid,Real Madrid,1,0,2022-05-08 19:00:00,,BallRecovery
+474643,7,MissedShots,0.889000015258789,0.639000015258789,0.07046300172805786,Yannick Carrasco,h,2272,OpenPlay,2021,RightFoot,17477,Atletico Madrid,Real Madrid,1,0,2022-05-08 19:00:00,Koke,TakeOn
+474647,39,Goal,0.885,0.5,0.7432780265808105,Yannick Carrasco,h,2272,Penalty,2021,RightFoot,17477,Atletico Madrid,Real Madrid,1,0,2022-05-08 19:00:00,,Standard
+474655,59,MissedShots,0.8580000305175781,0.5840000152587891,0.10118299722671509,Yannick Carrasco,h,2272,OpenPlay,2021,RightFoot,17477,Atletico Madrid,Real Madrid,1,0,2022-05-08 19:00:00,Marcos Llorente,Pass
+474665,76,ShotOnPost,0.9309999847412109,0.6559999847412109,0.2836199998855591,Yannick Carrasco,h,2272,OpenPlay,2021,RightFoot,17477,Atletico Madrid,Real Madrid,1,0,2022-05-08 19:00:00,Matheus Cunha,Pass
+475304,32,MissedShots,0.9459999847412109,0.3370000076293945,0.09000790119171143,Yannick Carrasco,a,2272,OpenPlay,2021,RightFoot,17495,Elche,Atletico Madrid,0,2,2022-05-11 19:30:00,Rodrigo de Paul,Pass
+476599,49,BlockedShot,0.915,0.6509999847412109,0.13369199633598328,Yannick Carrasco,h,2272,OpenPlay,2021,RightFoot,17497,Atletico Madrid,Sevilla,1,1,2022-05-15 17:30:00,Koke,Throughball
+481383,67,BlockedShot,0.7959999847412109,0.28600000381469726,0.024865800514817238,Yannick Carrasco,a,2272,FromCorner,2022,LeftFoot,18970,Getafe,Atletico Madrid,0,3,2022-08-15 17:30:00,,Rebound
+482757,78,SavedShot,0.950999984741211,0.555,0.37562400102615356,Yannick Carrasco,h,2272,OpenPlay,2022,Head,18978,Atletico Madrid,Villarreal,0,2,2022-08-21 17:30:00,,Rebound
+482759,83,MissedShots,0.8380000305175781,0.6880000305175781,0.03784589841961861,Yannick Carrasco,h,2272,FromCorner,2022,RightFoot,18978,Atletico Madrid,Villarreal,0,2,2022-08-21 17:30:00,Ángel Correa,Pass
+484801,70,SavedShot,0.769000015258789,0.7230000305175781,0.024022100493311882,Yannick Carrasco,a,2272,OpenPlay,2022,RightFoot,18991,Valencia,Atletico Madrid,0,1,2022-08-29 20:00:00,Thomas Lemar,Pass
+484804,88,SavedShot,0.9259999847412109,0.7040000152587891,0.31098100543022156,Yannick Carrasco,a,2272,OpenPlay,2022,RightFoot,18991,Valencia,Atletico Madrid,0,1,2022-08-29 20:00:00,Thomas Lemar,Throughball
+486163,43,MissedShots,0.914000015258789,0.66,0.12006500363349915,Yannick Carrasco,a,2272,OpenPlay,2022,LeftFoot,18994,Real Sociedad,Atletico Madrid,1,1,2022-09-03 16:30:00,Rodrigo de Paul,Chipped
+487727,0,SavedShot,0.8519999694824218,0.6120000076293945,0.06467670202255249,Yannick Carrasco,h,2272,OpenPlay,2022,RightFoot,19002,Atletico Madrid,Celta Vigo,4,1,2022-09-10 19:00:00,Rodrigo de Paul,Pass
+487730,7,BlockedShot,0.7369999694824219,0.5940000152587891,0.022881299257278442,Yannick Carrasco,h,2272,OpenPlay,2022,RightFoot,19002,Atletico Madrid,Celta Vigo,4,1,2022-09-10 19:00:00,Thomas Lemar,Pass
+487740,65,Goal,0.914000015258789,0.655,0.09201470017433167,Yannick Carrasco,h,2272,OpenPlay,2022,LeftFoot,19002,Atletico Madrid,Celta Vigo,4,1,2022-09-10 19:00:00,Geoffrey Kondogbia,Pass
+487741,69,BlockedShot,0.9119999694824219,0.675,0.09376779943704605,Yannick Carrasco,h,2272,OpenPlay,2022,RightFoot,19002,Atletico Madrid,Celta Vigo,4,1,2022-09-10 19:00:00,Koke,Chipped
+487746,75,MissedShots,0.89,0.7480000305175781,0.029043100774288177,Yannick Carrasco,h,2272,FromCorner,2022,RightFoot,19002,Atletico Madrid,Celta Vigo,4,1,2022-09-10 19:00:00,Nahuel Molina,Cross
+489676,11,BlockedShot,0.8730000305175781,0.325,0.04058169946074486,Yannick Carrasco,h,2272,OpenPlay,2022,RightFoot,19021,Atletico Madrid,Real Madrid,1,2,2022-09-18 19:00:00,Koke,Pass
+489685,39,SavedShot,0.9290000152587891,0.7030000305175781,0.04961970075964928,Yannick Carrasco,h,2272,OpenPlay,2022,LeftFoot,19021,Atletico Madrid,Real Madrid,1,2,2022-09-18 19:00:00,Antoine Griezmann,Pass
+489687,63,BlockedShot,0.749000015258789,0.4420000076293945,0.021705999970436096,Yannick Carrasco,h,2272,OpenPlay,2022,RightFoot,19021,Atletico Madrid,Real Madrid,1,2,2022-09-18 19:00:00,Koke,Pass
+490361,64,BlockedShot,0.895,0.5520000076293945,0.1260019987821579,Yannick Carrasco,a,2272,OpenPlay,2022,RightFoot,19026,Sevilla,Atletico Madrid,0,2,2022-10-01 16:30:00,Antoine Griezmann,Cross
+491653,38,MissedShots,0.8969999694824219,0.6509999847412109,0.0524447001516819,Yannick Carrasco,h,2272,FromCorner,2022,RightFoot,19032,Atletico Madrid,Girona,2,1,2022-10-08 14:15:00,,TakeOn
+496627,44,MissedShots,0.8719999694824219,0.6619999694824219,0.052946701645851135,Yannick Carrasco,a,2272,SetPiece,2022,RightFoot,19076,Cadiz,Atletico Madrid,3,2,2022-10-29 14:15:00,Stefan Savic,BallTouch
+498458,39,BlockedShot,0.8230000305175781,0.42900001525878906,0.05364440008997917,Yannick Carrasco,h,2272,OpenPlay,2022,RightFoot,19082,Atletico Madrid,Espanyol,1,1,2022-11-06 13:00:00,,None
+498467,60,BlockedShot,0.8080000305175781,0.5309999847412109,0.06418489664793015,Yannick Carrasco,h,2272,FromCorner,2022,RightFoot,19082,Atletico Madrid,Espanyol,1,1,2022-11-06 13:00:00,Antoine Griezmann,TakeOn
+499581,18,SavedShot,0.8059999847412109,0.48200000762939454,0.007014560047537088,Yannick Carrasco,a,2272,OpenPlay,2022,Head,19096,Mallorca,Atletico Madrid,1,0,2022-11-09 20:30:00,Nahuel Molina,Aerial
+499588,57,BlockedShot,0.8219999694824218,0.7030000305175781,0.029115699231624603,Yannick Carrasco,a,2272,OpenPlay,2022,LeftFoot,19096,Mallorca,Atletico Madrid,1,0,2022-11-09 20:30:00,Reinildo,Pass
+501453,34,MissedShots,0.894000015258789,0.6919999694824219,0.049533698707818985,Yannick Carrasco,h,2272,OpenPlay,2022,RightFoot,19102,Atletico Madrid,Elche,2,0,2022-12-29 20:30:00,Álvaro Morata,Pass
+504788,80,SavedShot,0.92,0.605999984741211,0.0994367003440857,Yannick Carrasco,h,2272,OpenPlay,2022,RightFoot,19133,Atletico Madrid,Real Valladolid,3,0,2023-01-21 17:30:00,,None
+504789,82,BlockedShot,0.8590000152587891,0.6480000305175782,0.08480429649353027,Yannick Carrasco,h,2272,OpenPlay,2022,RightFoot,19133,Atletico Madrid,Real Valladolid,3,0,2023-01-21 17:30:00,Memphis Depay,Pass
+504790,82,SavedShot,0.8669999694824219,0.6379999923706055,0.05180349946022034,Yannick Carrasco,h,2272,OpenPlay,2022,LeftFoot,19133,Atletico Madrid,Real Valladolid,3,0,2023-01-21 17:30:00,,Rebound
+504793,88,MissedShots,0.9259999847412109,0.5259999847412109,0.6029289960861206,Yannick Carrasco,h,2272,OpenPlay,2022,RightFoot,19133,Atletico Madrid,Real Valladolid,3,0,2023-01-21 17:30:00,Rodrigo de Paul,Pass
+507339,84,MissedShots,0.8969999694824219,0.6790000152587891,0.07486990094184875,Yannick Carrasco,h,2272,OpenPlay,2022,LeftFoot,19153,Atletico Madrid,Getafe,1,1,2023-02-04 17:30:00,Mario Hermoso,Pass
+507340,87,MissedShots,0.749000015258789,0.7,0.011799000203609467,Yannick Carrasco,h,2272,OpenPlay,2022,RightFoot,19153,Atletico Madrid,Getafe,1,1,2023-02-04 17:30:00,,None
+509001,88,BlockedShot,0.8619999694824219,0.71,0.042630601674318314,Yannick Carrasco,a,2272,OpenPlay,2022,RightFoot,19167,Celta Vigo,Atletico Madrid,0,1,2023-02-12 15:15:00,Mario Hermoso,Chipped
+510414,25,MissedShots,0.955,0.639000015258789,0.025756599381566048,Yannick Carrasco,h,2272,OpenPlay,2022,Head,19179,Atletico Madrid,Athletic Club,1,0,2023-02-19 17:30:00,Antoine Griezmann,Cross
+510416,36,SavedShot,0.909000015258789,0.7069999694824218,0.19641000032424927,Yannick Carrasco,h,2272,OpenPlay,2022,RightFoot,19179,Atletico Madrid,Athletic Club,1,0,2023-02-19 17:30:00,Ángel Correa,Pass
+510420,46,BlockedShot,0.8069999694824219,0.69,0.027307499200105667,Yannick Carrasco,h,2272,OpenPlay,2022,RightFoot,19179,Atletico Madrid,Athletic Club,1,0,2023-02-19 17:30:00,Ángel Correa,Pass
+510421,49,SavedShot,0.905,0.6769999694824219,0.058295898139476776,Yannick Carrasco,h,2272,OpenPlay,2022,RightFoot,19179,Atletico Madrid,Athletic Club,1,0,2023-02-19 17:30:00,,None
+510429,66,BlockedShot,0.7809999847412109,0.6530000305175782,0.07758279889822006,Yannick Carrasco,h,2272,DirectFreekick,2022,RightFoot,19179,Atletico Madrid,Athletic Club,1,0,2023-02-19 17:30:00,,Standard
+510993,21,SavedShot,0.855999984741211,0.77,0.024583499878644943,Yannick Carrasco,a,2272,OpenPlay,2022,RightFoot,19189,Real Madrid,Atletico Madrid,1,1,2023-02-25 17:30:00,Marcos Llorente,Pass
+512455,6,BlockedShot,0.8830000305175781,0.69,0.048720501363277435,Yannick Carrasco,h,2272,OpenPlay,2022,LeftFoot,19192,Atletico Madrid,Sevilla,6,1,2023-03-04 20:00:00,Giménez,Chipped
+512461,13,BlockedShot,0.7480000305175781,0.52,0.022262299433350563,Yannick Carrasco,h,2272,OpenPlay,2022,RightFoot,19192,Atletico Madrid,Sevilla,6,1,2023-03-04 20:00:00,Antoine Griezmann,Pass
+512472,68,Goal,0.96,0.555,0.6450480222702026,Yannick Carrasco,h,2272,OpenPlay,2022,LeftFoot,19192,Atletico Madrid,Sevilla,6,1,2023-03-04 20:00:00,Pablo Barrios Rivas,Rebound
+512478,82,BlockedShot,0.725,0.4909999847412109,0.05595630034804344,Yannick Carrasco,h,2272,DirectFreekick,2022,RightFoot,19192,Atletico Madrid,Sevilla,6,1,2023-03-04 20:00:00,,Standard
+514499,25,SavedShot,0.7669999694824219,0.74,0.011015200056135654,Yannick Carrasco,a,2272,OpenPlay,2022,RightFoot,19207,Girona,Atletico Madrid,0,1,2023-03-13 20:00:00,,None
+514501,39,BlockedShot,0.8430000305175781,0.4859999847412109,0.085459403693676,Yannick Carrasco,a,2272,OpenPlay,2022,RightFoot,19207,Girona,Atletico Madrid,0,1,2023-03-13 20:00:00,Marcos Llorente,Pass
+515296,7,MissedShots,0.855999984741211,0.73,0.026336099952459335,Yannick Carrasco,h,2272,OpenPlay,2022,RightFoot,19212,Atletico Madrid,Valencia,3,0,2023-03-18 20:00:00,Rodrigo de Paul,TakeOn
+515303,38,SavedShot,0.8590000152587891,0.705,0.048604100942611694,Yannick Carrasco,h,2272,OpenPlay,2022,RightFoot,19212,Atletico Madrid,Valencia,3,0,2023-03-18 20:00:00,Nahuel Molina,Pass
+515309,48,Goal,0.9619999694824218,0.610999984741211,0.39516299962997437,Yannick Carrasco,h,2272,OpenPlay,2022,RightFoot,19212,Atletico Madrid,Valencia,3,0,2023-03-18 20:00:00,Rodrigo de Paul,Throughball
+517304,60,SavedShot,0.8969999694824219,0.585999984741211,0.38945600390434265,Yannick Carrasco,h,2272,OpenPlay,2022,RightFoot,19223,Atletico Madrid,Real Betis,1,0,2023-04-02 19:00:00,Marcos Llorente,Pass
+518939,51,MissedShots,0.855999984741211,0.705999984741211,0.028284499421715736,Yannick Carrasco,a,2272,SetPiece,2022,RightFoot,19237,Rayo Vallecano,Atletico Madrid,1,2,2023-04-09 19:00:00,,None
+518942,57,MissedShots,0.8680000305175781,0.7,0.0590583011507988,Yannick Carrasco,a,2272,OpenPlay,2022,LeftFoot,19237,Rayo Vallecano,Atletico Madrid,1,2,2023-04-09 19:00:00,Antoine Griezmann,Pass
+520288,54,BlockedShot,0.7830000305175782,0.6430000305175781,0.042288899421691895,Yannick Carrasco,h,2272,OpenPlay,2022,RightFoot,19251,Atletico Madrid,Almeria,2,1,2023-04-16 16:30:00,Rodrigo de Paul,Chipped
+520290,55,MissedShots,0.885,0.7190000152587891,0.04563150182366371,Yannick Carrasco,h,2272,OpenPlay,2022,LeftFoot,19251,Atletico Madrid,Almeria,2,1,2023-04-16 16:30:00,Koke,Pass
+520291,59,SavedShot,0.8819999694824219,0.6680000305175782,0.07787539809942245,Yannick Carrasco,h,2272,OpenPlay,2022,LeftFoot,19251,Atletico Madrid,Almeria,2,1,2023-04-16 16:30:00,Antoine Griezmann,Pass
+521580,49,MissedShots,0.8340000152587891,0.645,0.036543771624565125,Yannick Carrasco,a,2272,OpenPlay,2022,RightFoot,19255,Barcelona,Atletico Madrid,1,0,2023-04-23 14:15:00,Rodrigo de Paul,Chipped
+521582,57,MissedShots,0.825,0.575999984741211,0.05076151713728905,Yannick Carrasco,a,2272,OpenPlay,2022,RightFoot,19255,Barcelona,Atletico Madrid,1,0,2023-04-23 14:15:00,Thomas Lemar,BallTouch
+521593,85,BlockedShot,0.875999984741211,0.6869999694824219,0.03818262740969658,Yannick Carrasco,a,2272,OpenPlay,2022,LeftFoot,19255,Barcelona,Atletico Madrid,1,0,2023-04-23 14:15:00,Sergio Reguilón,TakeOn
+522021,27,MissedShots,0.784000015258789,0.705999984741211,0.022208191454410553,Yannick Carrasco,h,2272,OpenPlay,2022,LeftFoot,19263,Atletico Madrid,Mallorca,3,1,2023-04-26 17:30:00,Koke,TakeOn
+522025,35,BlockedShot,0.8619999694824219,0.565,0.0826764926314354,Yannick Carrasco,h,2272,OpenPlay,2022,RightFoot,19263,Atletico Madrid,Mallorca,3,1,2023-04-26 17:30:00,Antoine Griezmann,Pass
+522041,76,Goal,0.935,0.455,0.942116916179657,Yannick Carrasco,h,2272,OpenPlay,2022,RightFoot,19263,Atletico Madrid,Mallorca,3,1,2023-04-26 17:30:00,Antoine Griezmann,TakeOn
+524156,30,BlockedShot,0.8919999694824219,0.66,0.1057463139295578,Yannick Carrasco,h,2272,OpenPlay,2022,RightFoot,19283,Atletico Madrid,Cadiz,5,1,2023-05-03 20:00:00,Thomas Lemar,Pass
+524160,38,MissedShots,0.88,0.635,0.1047973781824112,Yannick Carrasco,h,2272,OpenPlay,2022,LeftFoot,19283,Atletico Madrid,Cadiz,5,1,2023-05-03 20:00:00,,Rebound
+524166,56,Goal,0.885,0.5,0.7432776093482971,Yannick Carrasco,h,2272,Penalty,2022,RightFoot,19283,Atletico Madrid,Cadiz,5,1,2023-05-03 20:00:00,,Standard
+526636,17,BlockedShot,0.8619999694824219,0.5729999923706055,0.09366890043020248,Yannick Carrasco,a,2272,OpenPlay,2022,RightFoot,19298,Elche,Atletico Madrid,1,0,2023-05-14 14:15:00,Antoine Griezmann,Pass
+526651,77,BlockedShot,0.879000015258789,0.59,0.07401461899280548,Yannick Carrasco,a,2272,OpenPlay,2022,RightFoot,19298,Elche,Atletico Madrid,1,0,2023-05-14 14:15:00,Antoine Griezmann,Pass
+528066,23,BlockedShot,0.8209999847412109,0.6969999694824218,0.02226901426911354,Yannick Carrasco,h,2272,OpenPlay,2022,RightFoot,19311,Atletico Madrid,Osasuna,3,0,2023-05-21 14:15:00,Koke,TakeOn
+528069,43,Goal,0.9319999694824219,0.549000015258789,0.5425896644592285,Yannick Carrasco,h,2272,OpenPlay,2022,RightFoot,19311,Atletico Madrid,Osasuna,3,0,2023-05-21 14:15:00,Antoine Griezmann,Pass
+528673,35,BlockedShot,0.8719999694824219,0.644000015258789,0.07903482019901276,Yannick Carrasco,a,2272,OpenPlay,2022,LeftFoot,19317,Espanyol,Atletico Madrid,3,3,2023-05-24 20:00:00,Antoine Griezmann,Pass
+528676,43,SavedShot,0.9669999694824218,0.6129999923706054,0.3413991332054138,Yannick Carrasco,a,2272,OpenPlay,2022,LeftFoot,19317,Espanyol,Atletico Madrid,3,3,2023-05-24 20:00:00,,Rebound
+528679,45,Goal,0.905,0.5229999923706055,0.5116682648658752,Yannick Carrasco,a,2272,OpenPlay,2022,RightFoot,19317,Espanyol,Atletico Madrid,3,3,2023-05-24 20:00:00,,Rebound
+530048,20,BlockedShot,0.7969999694824219,0.475,0.047735780477523804,Yannick Carrasco,h,2272,OpenPlay,2022,RightFoot,19323,Atletico Madrid,Real Sociedad,2,1,2023-05-28 17:00:00,Sergio Reguilón,Pass
+535757,32,SavedShot,0.7319999694824219,0.575,0.033611249178647995,Yannick Carrasco,a,2272,OpenPlay,2023,RightFoot,22714,Rayo Vallecano,Atletico Madrid,0,7,2023-08-28 19:30:00,,TakeOn
+535763,50,MissedShots,0.8930000305175781,0.649000015258789,0.03819681331515312,Yannick Carrasco,a,2272,FromCorner,2023,LeftFoot,22714,Rayo Vallecano,Atletico Madrid,0,7,2023-08-28 19:30:00,Antoine Griezmann,Cross

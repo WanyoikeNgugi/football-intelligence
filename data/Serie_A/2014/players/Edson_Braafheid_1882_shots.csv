@@ -1,0 +1,13 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+41831,40,BlockedShot,0.77,0.6909999847412109,0.014168799854815006,Edson Braafheid,h,1882,OpenPlay,2014,LeftFoot,5112,Lazio,Cesena,3,0,2014-09-14 14:00:00,,Aerial
+42364,40,BlockedShot,0.845,0.6880000305175781,0.034112099558115005,Edson Braafheid,h,1882,OpenPlay,2014,RightFoot,5138,Lazio,Udinese,0,1,2014-09-25 19:45:00,,Dispossessed
+42564,1,SavedShot,0.7659999847412109,0.66,0.02048869989812374,Edson Braafheid,a,1882,OpenPlay,2014,LeftFoot,5148,Palermo,Lazio,0,4,2014-09-29 20:00:00,Senad Lulic,Pass
+43881,47,OwnGoal,0.015,0.49,0,Edson Braafheid,h,1882,OpenPlay,2014,OtherBodyPart,5039,Lazio,Cagliari,4,2,2014-11-03 20:00:00,,BallTouch
+44416,31,MissedShots,0.705,0.6580000305175782,0.008218640461564064,Edson Braafheid,h,1882,OpenPlay,2014,RightFoot,5051,Lazio,Juventus,0,3,2014-11-22 19:45:00,Keita,TakeOn
+44431,91,BlockedShot,0.8630000305175781,0.6980000305175781,0.047721900045871735,Edson Braafheid,h,1882,OpenPlay,2014,LeftFoot,5051,Lazio,Juventus,0,3,2014-11-22 19:45:00,Lucas Biglia,Pass
+44615,85,MissedShots,0.7369999694824219,0.6170000076293946,0.014469999819993973,Edson Braafheid,a,1882,FromCorner,2014,LeftFoot,5061,Chievo,Lazio,0,0,2014-11-29 19:45:00,,None
+45002,3,BlockedShot,0.905,0.47,0.026735199615359306,Edson Braafheid,a,1882,SetPiece,2014,Head,5004,Parma,Lazio,1,2,2014-12-07 14:00:00,,Rebound
+45009,28,MissedShots,0.8619999694824219,0.6469999694824219,0.03480859845876694,Edson Braafheid,a,1882,OpenPlay,2014,LeftFoot,5004,Parma,Lazio,1,2,2014-12-07 14:00:00,Senad Lulic,Cross
+49174,35,MissedShots,0.7430000305175781,0.6659999847412109,0.015382600016891956,Edson Braafheid,a,1882,OpenPlay,2014,LeftFoot,4852,Juventus,Lazio,2,0,2015-04-18 19:45:00,Senad Lulic,Pass
+98654,7,BlockedShot,0.745,0.48200000762939454,0.016513800248503685,Edson Braafheid,a,1882,FromCorner,2015,LeftFoot,850,AC Milan,Lazio,1,1,2016-03-20 23:45:00,,None
+98670,65,BlockedShot,0.7140000152587891,0.61,0.013104099780321121,Edson Braafheid,a,1882,FromCorner,2015,LeftFoot,850,AC Milan,Lazio,1,1,2016-03-20 23:45:00,,None

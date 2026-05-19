@@ -1,0 +1,5 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+532272,29,BlockedShot,0.7369999694824219,0.4759999847412109,0.015861650928854942,Joshua Wilson-Esbrand,a,10005,FromCorner,2023,LeftFoot,23372,Marseille,Reims,2,1,2023-08-12 18:00:00,,None
+545552,83,Goal,0.8640000152587891,0.75,0.029552685096859932,Joshua Wilson-Esbrand,h,10005,OpenPlay,2023,RightFoot,23456,Reims,Lorient,1,0,2023-10-28 15:00:00,Mohamed Daramy,Pass
+548464,87,BlockedShot,0.875999984741211,0.664000015258789,0.05273891240358353,Joshua Wilson-Esbrand,h,10005,OpenPlay,2023,RightFoot,23473,Reims,Paris Saint Germain,0,3,2023-11-11 16:00:00,Azor Matusiwa,BallTouch
+560257,58,MissedShots,0.870999984741211,0.39299999237060546,0.09289354830980301,Joshua Wilson-Esbrand,h,10005,OpenPlay,2023,LeftFoot,23540,Reims,Nantes,0,0,2024-01-28 14:00:00,Reda Khadra,LayOff

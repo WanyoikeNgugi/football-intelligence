@@ -1,0 +1,83 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+278939,59,SavedShot,0.9330000305175781,0.524000015258789,0.3807690143585205,Keven Schlotterbeck,a,7401,FromCorner,2018,Head,10509,VfB Stuttgart,Freiburg,2,2,2019-02-03 17:00:00,Christian Günter,Cross
+285899,89,MissedShots,0.9180000305175782,0.5640000152587891,0.0729496031999588,Keven Schlotterbeck,a,7401,FromCorner,2018,Head,10569,Borussia M.Gladbach,Freiburg,1,1,2019-03-15 19:30:00,Jérôme Gondorf,Cross
+312450,40,MissedShots,0.935,0.5129999923706055,0.06776279956102371,Keven Schlotterbeck,a,7401,FromCorner,2019,Head,12417,Augsburg,Union Berlin,1,1,2019-08-24 14:30:00,Christopher Trimmel,Aerial
+325420,60,MissedShots,0.8969999694824219,0.5640000152587891,0.019023200497031212,Keven Schlotterbeck,h,7401,SetPiece,2019,Head,12468,Union Berlin,Freiburg,2,0,2019-10-19 14:30:00,Christopher Trimmel,Aerial
+329460,25,MissedShots,0.9369999694824219,0.6509999847412109,0.007892279885709286,Keven Schlotterbeck,h,7401,SetPiece,2019,Head,12492,Union Berlin,Hertha Berlin,1,0,2019-11-02 17:30:00,Christopher Trimmel,Aerial
+329464,58,MissedShots,0.7190000152587891,0.5120000076293946,0.012949599884450436,Keven Schlotterbeck,h,7401,OpenPlay,2019,RightFoot,12492,Union Berlin,Hertha Berlin,1,0,2019-11-02 17:30:00,,None
+330534,11,BlockedShot,0.7169999694824218,0.6930000305175781,0.010026699863374233,Keven Schlotterbeck,a,7401,OpenPlay,2019,LeftFoot,12495,Mainz 05,Union Berlin,2,3,2019-11-09 14:30:00,,None
+356594,40,MissedShots,0.9290000152587891,0.5420000076293945,0.447299987077713,Keven Schlotterbeck,a,7401,SetPiece,2019,RightFoot,12574,Borussia Dortmund,Union Berlin,5,0,2020-02-01 14:30:00,Christopher Trimmel,Cross
+358953,12,SavedShot,0.925,0.5720000076293945,0.04400720074772835,Keven Schlotterbeck,h,7401,SetPiece,2019,Head,12600,Union Berlin,Bayer Leverkusen,2,3,2020-02-15 14:30:00,Christopher Trimmel,Aerial
+358967,60,BlockedShot,0.924000015258789,0.504000015258789,0.055502600967884064,Keven Schlotterbeck,h,7401,FromCorner,2019,Head,12600,Union Berlin,Bayer Leverkusen,2,3,2020-02-15 14:30:00,Christopher Trimmel,Aerial
+361731,29,BlockedShot,0.7440000152587891,0.649000015258789,0.013418899849057198,Keven Schlotterbeck,a,7401,OpenPlay,2019,RightFoot,12625,Freiburg,Union Berlin,3,1,2020-03-07 14:30:00,,None
+361739,72,MissedShots,0.7019999694824218,0.575,0.014480999670922756,Keven Schlotterbeck,a,7401,OpenPlay,2019,LeftFoot,12625,Freiburg,Union Berlin,3,1,2020-03-07 14:30:00,Robert Andrich,Pass
+363557,44,MissedShots,0.74,0.545,0.018668299540877342,Keven Schlotterbeck,h,7401,OpenPlay,2019,LeftFoot,12651,Union Berlin,Mainz 05,1,1,2020-05-27 18:30:00,Marius Bülter,Pass
+364019,86,SavedShot,0.9719999694824218,0.59,0.21570399403572083,Keven Schlotterbeck,h,7401,FromCorner,2019,LeftFoot,12672,Union Berlin,Schalke 04,1,1,2020-06-07 13:30:00,Florian Hübner,Aerial
+390108,33,MissedShots,0.9490000152587891,0.51,0.47398799657821655,Keven Schlotterbeck,h,7401,FromCorner,2020,Head,15223,Freiburg,Borussia M.Gladbach,2,2,2020-12-05 14:30:00,Vincenzo Grifo,Cross
+391503,34,MissedShots,0.749000015258789,0.215,0.011937900446355343,Keven Schlotterbeck,h,7401,OpenPlay,2020,LeftFoot,15235,Freiburg,Arminia Bielefeld,2,0,2020-12-12 14:30:00,Philipp Lienhart,BlockedPass
+396448,93,MissedShots,0.7340000152587891,0.5579999923706055,0.02215459942817688,Keven Schlotterbeck,a,7401,OpenPlay,2020,LeftFoot,15259,Hoffenheim,Freiburg,1,3,2021-01-02 14:30:00,Nicolas Höfler,BallTouch
+400035,47,MissedShots,0.899000015258789,0.580999984741211,0.05280429869890213,Keven Schlotterbeck,h,7401,SetPiece,2020,LeftFoot,15287,Freiburg,Eintracht Frankfurt,2,2,2021-01-20 19:30:00,Vincenzo Grifo,Cross
+400042,74,OwnGoal,0.012999999523162841,0.4879999923706055,0,Keven Schlotterbeck,h,7401,SetPiece,2020,OtherBodyPart,15287,Freiburg,Eintracht Frankfurt,2,2,2021-01-20 19:30:00,,Clearance
+400427,31,MissedShots,0.9390000152587891,0.34,0.027194399386644363,Keven Schlotterbeck,h,7401,SetPiece,2020,Head,15296,Freiburg,VfB Stuttgart,2,1,2021-01-23 14:30:00,Vincenzo Grifo,Chipped
+402286,50,SavedShot,0.9030000305175782,0.4859999847412109,0.07354419678449631,Keven Schlotterbeck,a,7401,FromCorner,2020,Head,15305,Wolfsburg,Freiburg,3,0,2021-01-31 17:00:00,Christian Günter,Cross
+417148,41,MissedShots,0.9159999847412109,0.49599998474121093,0.10013800114393234,Keven Schlotterbeck,h,7401,FromCorner,2020,Head,15414,Freiburg,Hoffenheim,1,1,2021-04-24 13:30:00,Christian Günter,Cross
+452123,2,BlockedShot,0.855999984741211,0.62,0.04731319844722748,Keven Schlotterbeck,h,7401,FromCorner,2021,LeftFoot,17673,Freiburg,Arminia Bielefeld,2,2,2022-01-08 14:30:00,Christian Günter,Pass
+504535,43,Goal,0.9790000152587891,0.5329999923706055,0.5905699729919434,Keven Schlotterbeck,h,7401,FromCorner,2022,Head,19484,Bochum,Hertha Berlin,3,1,2023-01-21 14:30:00,Philipp Förster,Cross
+505458,23,MissedShots,0.875,0.649000015258789,0.0675664022564888,Keven Schlotterbeck,a,7401,OpenPlay,2022,LeftFoot,19487,Bayer Leverkusen,Bochum,2,0,2023-01-25 19:30:00,Philipp Hofmann,Pass
+505784,77,MissedShots,0.8880000305175781,0.5540000152587891,0.039724599570035934,Keven Schlotterbeck,a,7401,OpenPlay,2022,Head,19499,Mainz 05,Bochum,5,2,2023-01-28 14:30:00,,None
+510795,11,MissedShots,0.8909999847412109,0.5690000152587891,0.08717530220746994,Keven Schlotterbeck,a,7401,OpenPlay,2022,LeftFoot,19539,Werder Bremen,Bochum,3,0,2023-02-25 14:30:00,Vasilios Lampropoulos,HeadPass
+524476,41,SavedShot,0.9290000152587891,0.585,0.08037716895341873,Keven Schlotterbeck,a,7401,SetPiece,2022,LeftFoot,19617,Borussia M.Gladbach,Bochum,2,0,2023-05-06 13:30:00,Erhan Masovic,None
+524500,94,SavedShot,0.8490000152587891,0.544000015258789,0.0580081045627594,Keven Schlotterbeck,a,7401,OpenPlay,2022,RightFoot,19617,Borussia M.Gladbach,Bochum,2,0,2023-05-06 13:30:00,,None
+527386,86,BlockedShot,0.8090000152587891,0.43599998474121093,0.042569849640131,Keven Schlotterbeck,a,7401,OpenPlay,2022,LeftFoot,19636,Hertha Berlin,Bochum,1,1,2023-05-20 13:30:00,,None
+527388,93,Goal,0.9430000305175781,0.534000015258789,0.4120507538318634,Keven Schlotterbeck,a,7401,FromCorner,2022,Head,19636,Hertha Berlin,Bochum,1,1,2023-05-20 13:30:00,Kevin Stöger,Cross
+536084,93,BlockedShot,0.7580000305175781,0.395,0.01866403967142105,Keven Schlotterbeck,a,7401,OpenPlay,2023,LeftFoot,23087,Augsburg,Bochum,2,2,2023-09-02 13:30:00,,None
+545106,58,OwnGoal,0.03,0.5220000076293946,0,Keven Schlotterbeck,h,7401,FromCorner,2023,RightFoot,23143,Bochum,Mainz 05,2,2,2023-10-27 18:30:00,,Clearance
+545112,81,Goal,0.9269999694824219,0.5459999847412109,0.10431577265262604,Keven Schlotterbeck,h,7401,FromCorner,2023,Head,23143,Bochum,Mainz 05,2,2,2023-10-27 18:30:00,Kevin Stöger,Cross
+548618,72,SavedShot,0.9730000305175781,0.504000015258789,0.6220490336418152,Keven Schlotterbeck,h,7401,FromCorner,2023,Head,23160,Bochum,FC Cologne,1,1,2023-11-11 17:30:00,,None
+558561,42,SavedShot,0.8669999694824219,0.45599998474121095,0.04375023767352104,Keven Schlotterbeck,h,7401,SetPiece,2023,Head,23215,Bochum,Werder Bremen,1,1,2024-01-14 14:30:00,Cristian Gamboa,Chipped
+564588,43,Goal,0.9490000152587891,0.445,0.4046015441417694,Keven Schlotterbeck,h,7401,FromCorner,2023,Head,23260,Bochum,Bayern Munich,3,2,2024-02-18 16:30:00,Kevin Stöger,Cross
+565149,86,MissedShots,0.914000015258789,0.5690000152587891,0.021305009722709656,Keven Schlotterbeck,a,7401,FromCorner,2023,Head,23266,Borussia M.Gladbach,Bochum,5,2,2024-02-24 14:30:00,Kevin Stöger,Aerial
+565150,86,Goal,0.935,0.53,0.21553848683834076,Keven Schlotterbeck,a,7401,FromCorner,2023,Head,23266,Borussia M.Gladbach,Bochum,5,2,2024-02-24 14:30:00,Matús Bero,Aerial
+566452,18,MissedShots,0.6559999847412109,0.6419999694824219,0.010813233442604542,Keven Schlotterbeck,h,7401,OpenPlay,2023,LeftFoot,23278,Bochum,RasenBallsport Leipzig,1,4,2024-03-02 14:30:00,Maximilian Wittek,Pass
+566469,81,BlockedShot,0.89,0.504000015258789,0.026274289935827255,Keven Schlotterbeck,h,7401,SetPiece,2023,Head,23278,Bochum,RasenBallsport Leipzig,1,4,2024-03-02 14:30:00,Kevin Stöger,Aerial
+568644,12,SavedShot,0.7230000305175781,0.5790000152587891,0.017369814217090607,Keven Schlotterbeck,h,7401,OpenPlay,2023,RightFoot,23287,Bochum,Freiburg,1,2,2024-03-10 14:30:00,Kevin Stöger,Pass
+568674,89,MissedShots,0.9269999694824219,0.4879999923706055,0.11696252971887589,Keven Schlotterbeck,h,7401,FromCorner,2023,Head,23287,Bochum,Freiburg,1,2,2024-03-10 14:30:00,Kevin Stöger,Cross
+569351,53,MissedShots,0.840999984741211,0.2879999923706055,0.022670622915029526,Keven Schlotterbeck,a,7401,SetPiece,2023,RightFoot,23294,Mainz 05,Bochum,2,0,2024-03-16 14:30:00,,None
+569365,84,BlockedShot,0.915,0.48900001525878906,0.042366545647382736,Keven Schlotterbeck,a,7401,FromCorner,2023,Head,23294,Mainz 05,Bochum,2,0,2024-03-16 14:30:00,Kevin Stöger,Aerial
+572255,82,BlockedShot,0.91,0.3579999923706055,0.008430423215031624,Keven Schlotterbeck,a,7401,SetPiece,2023,Head,23316,FC Cologne,Bochum,2,1,2024-04-06 13:30:00,Maximilian Wittek,Aerial
+573637,46,MissedShots,0.8869999694824219,0.54,0.018337097018957138,Keven Schlotterbeck,h,7401,SetPiece,2023,Head,23322,Bochum,FC Heidenheim,1,1,2024-04-13 13:30:00,Kevin Stöger,Aerial
+573652,80,OwnGoal,0.03799999952316284,0.5379999923706055,0,Keven Schlotterbeck,h,7401,OpenPlay,2023,OtherBodyPart,23322,Bochum,FC Heidenheim,1,1,2024-04-13 13:30:00,,BallTouch
+573655,89,Goal,0.9519999694824218,0.41200000762939454,0.030635211616754532,Keven Schlotterbeck,h,7401,FromCorner,2023,Head,23322,Bochum,FC Heidenheim,1,1,2024-04-13 13:30:00,Kevin Stöger,Aerial
+574980,85,BlockedShot,0.875999984741211,0.3390000152587891,0.04970031604170799,Keven Schlotterbeck,a,7401,SetPiece,2023,RightFoot,23330,Wolfsburg,Bochum,1,0,2024-04-20 13:30:00,,None
+576465,51,SavedShot,0.9269999694824219,0.6959999847412109,0.03378358483314514,Keven Schlotterbeck,h,7401,SetPiece,2023,LeftFoot,23341,Bochum,Hoffenheim,3,2,2024-04-26 18:30:00,Bernardo,Pass
+576468,52,MissedShots,0.879000015258789,0.6370000076293946,0.05618041381239891,Keven Schlotterbeck,h,7401,OpenPlay,2023,LeftFoot,23341,Bochum,Hoffenheim,3,2,2024-04-26 18:30:00,Moritz Broschinski,Rebound
+576481,78,BlockedShot,0.9690000152587891,0.4129999923706055,0.12692111730575562,Keven Schlotterbeck,h,7401,FromCorner,2023,RightFoot,23341,Bochum,Hoffenheim,3,2,2024-04-26 18:30:00,,Rebound
+576480,78,BlockedShot,0.924000015258789,0.4229999923706055,0.06874851137399673,Keven Schlotterbeck,h,7401,FromCorner,2023,Head,23341,Bochum,Hoffenheim,3,2,2024-04-26 18:30:00,Kevin Stöger,Cross
+578945,36,Goal,0.8859999847412109,0.49900001525878906,0.3752751350402832,Keven Schlotterbeck,a,7401,OpenPlay,2023,LeftFoot,23345,Union Berlin,Bochum,3,4,2024-05-05 13:30:00,Felix Passlack,Chipped
+581600,4,SavedShot,0.9319999694824219,0.4909999847412109,0.08757278323173523,Keven Schlotterbeck,a,7401,OpenPlay,2023,LeftFoot,23368,Werder Bremen,Bochum,4,1,2024-05-18 13:30:00,Moritz Broschinski,Aerial
+581631,67,SavedShot,0.9019999694824219,0.37900001525878907,0.05486823245882988,Keven Schlotterbeck,a,7401,OpenPlay,2023,RightFoot,23368,Werder Bremen,Bochum,4,1,2024-05-18 13:30:00,Kevin Stöger,TakeOn
+581651,95,SavedShot,0.9209999847412109,0.5459999847412109,0.03911886736750603,Keven Schlotterbeck,a,7401,FromCorner,2023,Head,23368,Werder Bremen,Bochum,4,1,2024-05-18 13:30:00,Kevin Stöger,Aerial
+589831,26,ShotOnPost,0.9019999694824219,0.54,0.0460418239235878,Keven Schlotterbeck,a,7401,FromCorner,2024,Head,27758,FC Heidenheim,Augsburg,4,0,2024-09-01 13:30:00,Phillip Tietz,HeadPass
+589843,66,MissedShots,0.93,0.4540000152587891,0.05118660256266594,Keven Schlotterbeck,a,7401,FromCorner,2024,Head,27758,FC Heidenheim,Augsburg,4,0,2024-09-01 13:30:00,Arne Maier,Aerial
+591438,21,BlockedShot,0.9480000305175781,0.4229999923706055,0.12411399930715561,Keven Schlotterbeck,h,7401,OpenPlay,2024,Head,27767,Augsburg,St. Pauli,3,1,2024-09-15 13:30:00,Kristijan Jakic,Cross
+591445,35,MissedShots,0.9030000305175782,0.5929999923706055,0.033969637006521225,Keven Schlotterbeck,h,7401,FromCorner,2024,Head,27767,Augsburg,St. Pauli,3,1,2024-09-15 13:30:00,Ruben Vargas,Cross
+591960,24,Goal,0.9259999847412109,0.5529999923706055,0.1331365704536438,Keven Schlotterbeck,h,7401,SetPiece,2024,LeftFoot,27769,Augsburg,Mainz 05,2,3,2024-09-20 18:30:00,Jeffrey Gouweleeuw,Pass
+591962,26,MissedShots,0.91,0.654000015258789,0.011325903236865997,Keven Schlotterbeck,h,7401,FromCorner,2024,Head,27769,Augsburg,Mainz 05,2,3,2024-09-20 18:30:00,Elvis Rexhbecaj,Aerial
+595096,38,Goal,0.8859999847412109,0.5890000152587891,0.07273083180189133,Keven Schlotterbeck,h,7401,FromCorner,2024,RightFoot,27790,Augsburg,Borussia M.Gladbach,2,1,2024-10-04 18:30:00,,None
+595098,44,MissedShots,0.9030000305175782,0.5070000076293946,0.0265522301197052,Keven Schlotterbeck,h,7401,FromCorner,2024,Head,27790,Augsburg,Borussia M.Gladbach,2,1,2024-10-04 18:30:00,Elvis Rexhbecaj,Aerial
+602089,18,SavedShot,0.6329999923706054,0.6120000076293945,0.009223797358572483,Keven Schlotterbeck,h,7401,OpenPlay,2024,LeftFoot,27827,Augsburg,Hoffenheim,0,0,2024-11-10 14:30:00,,BallRecovery
+602093,31,BlockedShot,0.909000015258789,0.5479999923706055,0.07275251299142838,Keven Schlotterbeck,h,7401,FromCorner,2024,Head,27827,Augsburg,Hoffenheim,0,0,2024-11-10 14:30:00,Arne Maier,Cross
+613231,72,ShotOnPost,0.8969999694824219,0.47200000762939454,0.05997186899185181,Keven Schlotterbeck,h,7401,FromCorner,2024,Head,27911,Augsburg,FC Heidenheim,2,1,2025-01-25 14:30:00,Elvis Rexhbecaj,Cross
+613239,91,Goal,0.9390000152587891,0.53,0.4173658490180969,Keven Schlotterbeck,h,7401,FromCorner,2024,Head,27911,Augsburg,FC Heidenheim,2,1,2025-01-25 14:30:00,Mert Kömür,Cross
+642972,62,ShotOnPost,0.9109999847412109,0.555,0.06937679648399353,Keven Schlotterbeck,h,7401,FromCorner,2025,Head,30253,Augsburg,Mainz 05,1,4,2025-09-20 13:30:00,Fabian Rieder,Cross
+642982,89,MissedShots,0.909000015258789,0.545,0.05571238324046135,Keven Schlotterbeck,h,7401,OpenPlay,2025,Head,30253,Augsburg,Mainz 05,1,4,2025-09-20 13:30:00,Fabian Rieder,Aerial
+644648,18,MissedShots,0.9159999847412109,0.5429999923706055,0.05265503004193306,Keven Schlotterbeck,a,7401,SetPiece,2025,Head,30261,FC Heidenheim,Augsburg,2,1,2025-09-27 13:30:00,Alexis Claude Maurice,Aerial
+644658,72,BlockedShot,0.7930000305175782,0.644000015258789,0.02051079459488392,Keven Schlotterbeck,a,7401,OpenPlay,2025,RightFoot,30261,FC Heidenheim,Augsburg,2,1,2025-09-27 13:30:00,,None
+658128,75,MissedShots,0.895,0.35900001525878905,0.008847617544233799,Keven Schlotterbeck,a,7401,SetPiece,2025,Head,30344,Eintracht Frankfurt,Augsburg,1,0,2025-12-13 14:30:00,Dimitris Giannoulis,Aerial
+658132,91,MissedShots,0.9430000305175781,0.6709999847412109,0.06832603365182877,Keven Schlotterbeck,a,7401,OpenPlay,2025,LeftFoot,30344,Eintracht Frankfurt,Augsburg,1,0,2025-12-13 14:30:00,Samuel Essende,Pass
+659234,52,BlockedShot,0.9269999694824219,0.605,0.0167783685028553,Keven Schlotterbeck,h,7401,FromCorner,2025,Head,30350,Augsburg,Werder Bremen,0,0,2025-12-20 14:30:00,Alexis Claude Maurice,Aerial
+663210,48,SavedShot,0.905,0.48,0.07580280303955078,Keven Schlotterbeck,h,7401,FromCorner,2025,Head,30368,Augsburg,Union Berlin,1,1,2026-01-15 19:30:00,Alexis Claude Maurice,Cross
+664192,19,SavedShot,0.865999984741211,0.40900001525878904,0.023967323824763298,Keven Schlotterbeck,h,7401,SetPiece,2025,Head,30377,Augsburg,Freiburg,2,2,2026-01-18 16:30:00,Alexis Claude Maurice,Cross
+664196,32,BlockedShot,0.9130000305175782,0.5429999923706055,0.08061939477920532,Keven Schlotterbeck,h,7401,FromCorner,2025,Head,30377,Augsburg,Freiburg,2,2,2026-01-18 16:30:00,Alexis Claude Maurice,Cross
+670672,80,MissedShots,0.815,0.5079999923706054,0.06981726735830307,Keven Schlotterbeck,h,7401,OpenPlay,2025,LeftFoot,30431,Augsburg,FC Cologne,2,0,2026-02-27 19:30:00,,None
+672617,22,SavedShot,0.885,0.5,0.75777667760849,Keven Schlotterbeck,a,7401,Penalty,2025,LeftFoot,30445,RasenBallsport Leipzig,Augsburg,2,1,2026-03-07 14:30:00,,Standard

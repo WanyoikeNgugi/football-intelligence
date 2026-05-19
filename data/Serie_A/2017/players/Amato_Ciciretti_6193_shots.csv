@@ -1,0 +1,37 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+172740,7,MissedShots,0.9690000152587891,0.3120000076293945,0.029582399874925613,Amato Ciciretti,a,6193,OpenPlay,2017,RightFoot,7505,Sampdoria,Benevento,2,1,2017-08-20 19:45:00,Marco D&#039;Alessandro,Cross
+172743,14,Goal,0.8859999847412109,0.3160000038146973,0.035935599356889725,Amato Ciciretti,a,6193,OpenPlay,2017,LeftFoot,7505,Sampdoria,Benevento,2,1,2017-08-20 19:45:00,Danilo Cataldi,Chipped
+172758,45,BlockedShot,0.8340000152587891,0.345,0.02954450063407421,Amato Ciciretti,a,6193,OpenPlay,2017,LeftFoot,7505,Sampdoria,Benevento,2,1,2017-08-20 19:45:00,Gaetano Letizia,TakeOn
+172762,59,SavedShot,0.715,0.34700000762939454,0.03678809851408005,Amato Ciciretti,a,6193,DirectFreekick,2017,LeftFoot,7505,Sampdoria,Benevento,2,1,2017-08-20 19:45:00,,Standard
+172765,72,MissedShots,0.8240000152587891,0.29100000381469726,0.030069999396800995,Amato Ciciretti,a,6193,OpenPlay,2017,LeftFoot,7505,Sampdoria,Benevento,2,1,2017-08-20 19:45:00,Massimo Coda,Pass
+172827,10,MissedShots,0.9330000305175781,0.34200000762939453,0.05023609846830368,Amato Ciciretti,h,6193,OpenPlay,2017,RightFoot,7515,Benevento,Bologna,0,1,2017-08-26 17:00:00,Marco D&#039;Alessandro,Cross
+172839,54,BlockedShot,0.83,0.5509999847412109,0.07135049998760223,Amato Ciciretti,h,6193,OpenPlay,2017,LeftFoot,7515,Benevento,Bologna,0,1,2017-08-26 17:00:00,Marco D&#039;Alessandro,Pass
+172847,73,MissedShots,0.8009999847412109,0.295,0.02104249969124794,Amato Ciciretti,h,6193,OpenPlay,2017,LeftFoot,7515,Benevento,Bologna,0,1,2017-08-26 17:00:00,,None
+172850,77,SavedShot,0.7169999694824218,0.775,0.011925799772143364,Amato Ciciretti,h,6193,OpenPlay,2017,RightFoot,7515,Benevento,Bologna,0,1,2017-08-26 17:00:00,Gianluca Di Chiara,Foul
+172855,96,SavedShot,0.815,0.21700000762939453,0.04972999915480614,Amato Ciciretti,h,6193,DirectFreekick,2017,LeftFoot,7515,Benevento,Bologna,0,1,2017-08-26 17:00:00,,Standard
+173133,11,MissedShots,0.7419999694824219,0.575,0.019853899255394936,Amato Ciciretti,h,6193,OpenPlay,2017,LeftFoot,7520,Benevento,Torino,0,1,2017-09-10 17:00:00,Marco D&#039;Alessandro,Pass
+173135,21,SavedShot,0.93,0.16100000381469726,0.057283200323581696,Amato Ciciretti,h,6193,DirectFreekick,2017,LeftFoot,7520,Benevento,Torino,0,1,2017-09-10 17:00:00,,Standard
+174558,88,MissedShots,0.7730000305175782,0.38799999237060545,0.023471200838685036,Amato Ciciretti,a,6193,OpenPlay,2017,RightFoot,7573,Verona,Benevento,1,0,2017-10-16 19:45:00,,None
+174560,94,BlockedShot,0.7809999847412109,0.3060000038146973,0.020620500668883324,Amato Ciciretti,a,6193,OpenPlay,2017,RightFoot,7573,Verona,Benevento,1,0,2017-10-16 19:45:00,Danilo Cataldi,Pass
+175226,47,BlockedShot,0.909000015258789,0.425,0.06999269872903824,Amato Ciciretti,h,6193,OpenPlay,2017,LeftFoot,7599,Benevento,Lazio,1,5,2017-10-29 11:30:00,Nicolas Viola,Cross
+175228,49,SavedShot,0.749000015258789,0.43900001525878907,0.01955440081655979,Amato Ciciretti,h,6193,OpenPlay,2017,LeftFoot,7599,Benevento,Lazio,1,5,2017-10-29 11:30:00,Raman Chibsah,Pass
+175231,54,SavedShot,0.740999984741211,0.5509999847412109,0.022824399173259735,Amato Ciciretti,h,6193,OpenPlay,2017,LeftFoot,7599,Benevento,Lazio,1,5,2017-10-29 11:30:00,Nicolas Viola,TakeOn
+175235,69,MissedShots,0.91,0.29200000762939454,0.01626330055296421,Amato Ciciretti,h,6193,OpenPlay,2017,LeftFoot,7599,Benevento,Lazio,1,5,2017-10-29 11:30:00,Nicolas Viola,Cross
+175238,77,SavedShot,0.7369999694824219,0.3189999961853027,0.012248399667441845,Amato Ciciretti,h,6193,OpenPlay,2017,LeftFoot,7599,Benevento,Lazio,1,5,2017-10-29 11:30:00,Raman Chibsah,Pass
+175239,81,MissedShots,0.720999984741211,0.56,0.04562230035662651,Amato Ciciretti,h,6193,DirectFreekick,2017,LeftFoot,7599,Benevento,Lazio,1,5,2017-10-29 11:30:00,,Standard
+175242,83,BlockedShot,0.874000015258789,0.6430000305175781,0.03713100031018257,Amato Ciciretti,h,6193,OpenPlay,2017,RightFoot,7599,Benevento,Lazio,1,5,2017-10-29 11:30:00,,Rebound
+175241,83,SavedShot,0.8730000305175781,0.67,0.09489759802818298,Amato Ciciretti,h,6193,OpenPlay,2017,LeftFoot,7599,Benevento,Lazio,1,5,2017-10-29 11:30:00,Gaetano Letizia,Pass
+175668,18,Goal,0.7240000152587891,0.504000015258789,0.04869629815220833,Amato Ciciretti,a,6193,DirectFreekick,2017,LeftFoot,7616,Juventus,Benevento,2,1,2017-11-05 14:00:00,,Standard
+175691,90,BlockedShot,0.8480000305175781,0.43900001525878907,0.04724479839205742,Amato Ciciretti,a,6193,OpenPlay,2017,RightFoot,7616,Juventus,Benevento,2,1,2017-11-05 14:00:00,Lorenzo Venuti,Cross
+175715,22,MissedShots,0.8480000305175781,0.3240000152587891,0.0642872005701065,Amato Ciciretti,h,6193,OpenPlay,2017,LeftFoot,7619,Benevento,Sassuolo,1,2,2017-11-19 14:00:00,Gaetano Letizia,TakeOn
+175716,30,SavedShot,0.7330000305175781,0.24,0.03181060031056404,Amato Ciciretti,h,6193,DirectFreekick,2017,LeftFoot,7619,Benevento,Sassuolo,1,2,2017-11-19 14:00:00,,Standard
+175726,64,MissedShots,0.8830000305175781,0.37099998474121093,0.06290580332279205,Amato Ciciretti,h,6193,FromCorner,2017,RightFoot,7619,Benevento,Sassuolo,1,2,2017-11-19 14:00:00,,Rebound
+175731,73,SavedShot,0.9730000305175781,0.32099998474121094,0.05960400030016899,Amato Ciciretti,h,6193,OpenPlay,2017,RightFoot,7619,Benevento,Sassuolo,1,2,2017-11-19 14:00:00,Vittorio Parigini,Pass
+180311,80,MissedShots,0.81,0.3039999961853027,0.034477800130844116,Amato Ciciretti,a,6193,OpenPlay,2017,LeftFoot,7658,Udinese,Benevento,2,0,2017-12-10 14:00:00,Ledian Memushaj,TakeOn
+180312,85,BlockedShot,0.7769999694824219,0.4129999923706055,0.03138760104775429,Amato Ciciretti,a,6193,OpenPlay,2017,LeftFoot,7658,Udinese,Benevento,2,0,2017-12-10 14:00:00,George Puscas,Pass
+184732,28,MissedShots,0.715,0.23100000381469726,0.007517729885876179,Amato Ciciretti,h,6193,OpenPlay,2017,LeftFoot,7660,Benevento,SPAL 2013,1,2,2017-12-17 17:00:00,Danilo Cataldi,Chipped
+184741,54,MissedShots,0.9119999694824219,0.3320000076293945,0.03812069818377495,Amato Ciciretti,h,6193,OpenPlay,2017,RightFoot,7660,Benevento,SPAL 2013,1,2,2017-12-17 17:00:00,Vittorio Parigini,Cross
+184755,83,BlockedShot,0.85,0.32,0.04733389988541603,Amato Ciciretti,h,6193,OpenPlay,2017,LeftFoot,7660,Benevento,SPAL 2013,1,2,2017-12-17 17:00:00,Danilo Cataldi,Pass
+185045,45,BlockedShot,0.7190000152587891,0.355,0.03873080015182495,Amato Ciciretti,a,6193,DirectFreekick,2017,LeftFoot,7671,Genoa,Benevento,1,0,2017-12-23 14:00:00,,Standard
+185050,50,BlockedShot,0.7880000305175782,0.33799999237060546,0.025546099990606308,Amato Ciciretti,a,6193,OpenPlay,2017,RightFoot,7671,Genoa,Benevento,1,0,2017-12-23 14:00:00,George Puscas,Pass
+254458,85,BlockedShot,0.8880000305175781,0.57,0.0699222981929779,Amato Ciciretti,a,6193,OpenPlay,2018,LeftFoot,9735,Sampdoria,Parma Calcio 1913,2,0,2018-12-16 14:00:00,,None

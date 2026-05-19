@@ -1,0 +1,27 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+365397,61,BlockedShot,0.955999984741211,0.6179999923706054,0.09201890230178833,Timo Becker,h,8148,FromCorner,2019,RightFoot,12697,Schalke 04,Wolfsburg,1,4,2020-06-20 13:30:00,Weston McKennie,Rebound
+367057,16,MissedShots,0.9269999694824219,0.47200000762939454,0.055010098963975906,Timo Becker,a,8148,FromCorner,2019,Head,12706,Freiburg,Schalke 04,4,0,2020-06-27 13:30:00,Bastian Oczipka,Aerial
+367066,42,MissedShots,0.7719999694824219,0.25,0.01008750032633543,Timo Becker,a,8148,OpenPlay,2019,RightFoot,12706,Freiburg,Schalke 04,4,0,2020-06-27 13:30:00,Rabbi Matondo,Pass
+367067,43,SavedShot,0.975,0.26399999618530273,0.03125869855284691,Timo Becker,a,8148,OpenPlay,2019,RightFoot,12706,Freiburg,Schalke 04,4,0,2020-06-27 13:30:00,Daniel Caligiuri,Pass
+400885,0,SavedShot,0.7719999694824219,0.27100000381469724,0.01723629981279373,Timo Becker,h,8148,OpenPlay,2020,LeftFoot,15298,Schalke 04,Bayern Munich,0,4,2021-01-24 14:30:00,Suat Serdar,Pass
+401545,18,MissedShots,0.749000015258789,0.36700000762939455,0.02051519975066185,Timo Becker,a,8148,OpenPlay,2020,RightFoot,15309,Werder Bremen,Schalke 04,1,1,2021-01-30 14:30:00,Omar Mascarell,Pass
+405662,54,MissedShots,0.9159999847412109,0.5159999847412109,0.05951999872922897,Timo Becker,h,8148,SetPiece,2020,Head,15334,Schalke 04,Borussia Dortmund,0,4,2021-02-20 17:30:00,Amine Harit,Aerial
+405666,64,BlockedShot,0.875,0.4829999923706055,0.02057190053164959,Timo Becker,h,8148,SetPiece,2020,Head,15334,Schalke 04,Borussia Dortmund,0,4,2021-02-20 17:30:00,Amine Harit,Card
+405667,72,MissedShots,0.7919999694824219,0.4129999923706055,0.02854209952056408,Timo Becker,h,8148,OpenPlay,2020,LeftFoot,15334,Schalke 04,Borussia Dortmund,0,4,2021-02-20 17:30:00,,None
+585981,24,SavedShot,0.8959999847412109,0.31799999237060544,0.3127273619174957,Timo Becker,a,8148,OpenPlay,2024,RightFoot,27744,Hoffenheim,Holstein Kiel,3,2,2024-08-24 13:30:00,Alexander Bernhardsson,Throughball
+585982,25,MissedShots,0.975999984741211,0.5570000076293945,0.12945927679538727,Timo Becker,a,8148,FromCorner,2024,Head,27744,Hoffenheim,Holstein Kiel,3,2,2024-08-24 13:30:00,Shuto Machino,Cross
+586007,85,SavedShot,0.8719999694824219,0.3270000076293945,0.04820180684328079,Timo Becker,a,8148,OpenPlay,2024,RightFoot,27744,Hoffenheim,Holstein Kiel,3,2,2024-08-24 13:30:00,Finn Porath,Chipped
+589079,41,MissedShots,0.899000015258789,0.34599998474121096,0.0771729126572609,Timo Becker,h,8148,OpenPlay,2024,RightFoot,27754,Holstein Kiel,Wolfsburg,0,2,2024-08-31 13:30:00,Benedikt Pichler,Pass
+592247,59,BlockedShot,0.7169999694824218,0.3390000152587891,0.010984628461301327,Timo Becker,a,8148,OpenPlay,2024,RightFoot,27771,Bochum,Holstein Kiel,2,2,2024-09-21 13:30:00,,None
+594702,66,MissedShots,0.8190000152587891,0.47099998474121096,0.04235128313302994,Timo Becker,h,8148,FromCorner,2024,LeftFoot,27785,Holstein Kiel,Eintracht Frankfurt,2,4,2024-09-29 13:30:00,,None
+594705,95,BlockedShot,0.7069999694824218,0.5029999923706054,0.01770603470504284,Timo Becker,h,8148,SetPiece,2024,RightFoot,27785,Holstein Kiel,Eintracht Frankfurt,2,4,2024-09-29 13:30:00,Lewis Holtby,Pass
+597596,56,MissedShots,0.8569999694824219,0.295,0.03805529326200485,Timo Becker,h,8148,OpenPlay,2024,LeftFoot,27804,Holstein Kiel,Union Berlin,0,2,2024-10-20 13:30:00,Finn Porath,Pass
+603424,20,SavedShot,0.9640000152587891,0.5659999847412109,0.05658169090747833,Timo Becker,h,8148,FromCorner,2024,Head,27840,Holstein Kiel,Mainz 05,0,3,2024-11-24 14:30:00,Steven Skrzybski,CornerAwarded
+604047,78,BlockedShot,0.715999984741211,0.4420000076293945,0.00936928577721119,Timo Becker,a,8148,OpenPlay,2024,RightFoot,27849,St. Pauli,Holstein Kiel,3,1,2024-11-30 14:30:00,,Aerial
+610676,84,SavedShot,0.945,0.3890000152587891,0.3290631175041199,Timo Becker,a,8148,OpenPlay,2024,RightFoot,27881,Freiburg,Holstein Kiel,3,2,2025-01-11 14:30:00,Jann-Fiete Arp,Pass
+614819,68,MissedShots,0.735,0.5970000076293945,0.014622736722230911,Timo Becker,a,8148,OpenPlay,2024,RightFoot,27918,Bayern Munich,Holstein Kiel,4,3,2025-02-01 14:30:00,Steven Skrzybski,Pass
+621074,4,BlockedShot,0.875,0.3970000076293945,0.05467364564538002,Timo Becker,h,8148,FromCorner,2024,RightFoot,27966,Holstein Kiel,VfB Stuttgart,2,2,2025-03-08 14:30:00,Shuto Machino,Pass
+623538,2,MissedShots,0.6909999847412109,0.20700000762939452,0.009136429987847805,Timo Becker,a,8148,OpenPlay,2024,RightFoot,27969,FC Heidenheim,Holstein Kiel,3,1,2025-03-16 16:30:00,Lasse Rosenboom,Pass
+623539,5,BlockedShot,0.749000015258789,0.34,0.019339798018336296,Timo Becker,a,8148,OpenPlay,2024,RightFoot,27969,FC Heidenheim,Holstein Kiel,3,1,2025-03-16 16:30:00,Magnus Knudsen,Pass
+628447,31,BlockedShot,0.9,0.5259999847412109,0.09656480699777603,Timo Becker,a,8148,FromCorner,2024,RightFoot,28003,RasenBallsport Leipzig,Holstein Kiel,1,1,2025-04-19 13:30:00,,None
+630219,46,MissedShots,0.889000015258789,0.45099998474121095,0.10251031070947647,Timo Becker,h,8148,FromCorner,2024,RightFoot,28020,Holstein Kiel,Borussia M.Gladbach,4,3,2025-04-26 13:30:00,,Rebound

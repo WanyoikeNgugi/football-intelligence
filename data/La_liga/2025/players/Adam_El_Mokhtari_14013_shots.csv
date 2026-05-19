@@ -1,0 +1,6 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+662637,83,MissedShots,0.8819999694824219,0.5159999847412109,0.041726160794496536,Adam El Mokhtari,a,14013,FromCorner,2025,Head,29345,Valencia,Elche,1,1,2026-01-10 20:00:00,,None
+664588,74,BlockedShot,0.785,0.6759999847412109,0.017718659713864326,Adam El Mokhtari,a,14013,OpenPlay,2025,RightFoot,29363,Levante,Elche,3,2,2026-01-23 20:00:00,Aleix Febas,Chipped
+664591,91,Goal,0.8980000305175782,0.544000015258789,0.07984471321105957,Adam El Mokhtari,a,14013,OpenPlay,2025,RightFoot,29363,Levante,Elche,3,2,2026-01-23 20:00:00,Álex Sánchez,HeadPass
+666335,62,MissedShots,0.874000015258789,0.57,0.069215327501297,Adam El Mokhtari,h,14013,OpenPlay,2025,RightFoot,29373,Elche,Barcelona,1,3,2026-01-31 20:00:00,Martim Neto,BallTouch
+666346,90,SavedShot,0.8819999694824219,0.45099998474121095,0.05977391079068184,Adam El Mokhtari,h,14013,SetPiece,2025,Head,29373,Elche,Barcelona,1,3,2026-01-31 20:00:00,Adrià Pedrosa,Cross

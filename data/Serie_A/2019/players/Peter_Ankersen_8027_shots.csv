@@ -1,0 +1,14 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+317777,84,BlockedShot,0.86,0.39799999237060546,0.02355230040848255,Peter Ankersen,h,8027,OpenPlay,2019,RightFoot,13111,Genoa,Atalanta,1,2,2019-09-15 10:30:00,,Aerial
+320045,1,BlockedShot,0.8690000152587891,0.34599998474121096,0.021884800866246223,Peter Ankersen,a,8027,OpenPlay,2019,RightFoot,13121,Cagliari,Genoa,3,1,2019-09-20 18:45:00,,Aerial
+320059,32,MissedShots,0.970999984741211,0.40599998474121096,0.09235040098428726,Peter Ankersen,a,8027,OpenPlay,2019,Head,13121,Cagliari,Genoa,3,1,2019-09-20 18:45:00,Lasse Schöne,Cross
+326553,88,BlockedShot,0.764000015258789,0.23600000381469727,0.01109480019658804,Peter Ankersen,a,8027,OpenPlay,2019,RightFoot,13165,Parma Calcio 1913,Genoa,5,1,2019-10-20 17:00:00,Ivan Radovanovic,Pass
+327564,47,SavedShot,0.7869999694824219,0.7030000305175781,0.022075099870562553,Peter Ankersen,h,8027,OpenPlay,2019,RightFoot,13172,Genoa,Brescia,3,1,2019-10-26 19:45:00,Lasse Schöne,Pass
+328517,55,BlockedShot,0.7390000152587891,0.580999984741211,0.011040099896490574,Peter Ankersen,a,8027,OpenPlay,2019,RightFoot,13181,Juventus,Genoa,2,1,2019-10-30 20:00:00,Kevin Agudelo,TakeOn
+328518,57,MissedShots,0.6909999847412109,0.57,0.012852700427174568,Peter Ankersen,a,8027,OpenPlay,2019,RightFoot,13181,Juventus,Genoa,2,1,2019-10-30 20:00:00,Paolo Ghiglione,Pass
+331032,75,BlockedShot,0.765,0.4209999847412109,0.026387300342321396,Peter Ankersen,a,8027,OpenPlay,2019,LeftFoot,13204,Napoli,Genoa,0,0,2019-11-09 19:45:00,Cristian Romero,Pass
+333793,72,BlockedShot,0.7609999847412109,0.395,0.017102500423789024,Peter Ankersen,h,8027,FromCorner,2019,RightFoot,13222,Genoa,Torino,0,1,2019-11-30 17:00:00,,None
+353877,52,BlockedShot,0.88,0.445,0.07434020191431046,Peter Ankersen,h,8027,OpenPlay,2019,RightFoot,13262,Genoa,Sassuolo,2,1,2020-01-05 17:00:00,Domenico Criscito,Cross
+354528,21,SavedShot,0.7869999694824219,0.4129999923706055,0.0329631008207798,Peter Ankersen,a,8027,OpenPlay,2019,LeftFoot,13271,Verona,Genoa,2,1,2020-01-12 17:00:00,Goran Pandev,Pass
+360194,40,BlockedShot,0.705,0.3609999847412109,0.012380399741232395,Peter Ankersen,h,8027,FromCorner,2019,RightFoot,13333,Genoa,Lazio,2,3,2020-02-23 11:30:00,,None
+373572,27,SavedShot,0.745,0.3290000152587891,0.017048100009560585,Peter Ankersen,h,8027,OpenPlay,2019,LeftFoot,13441,Genoa,Inter,0,3,2020-07-25 17:30:00,Filip Jagiello,Pass

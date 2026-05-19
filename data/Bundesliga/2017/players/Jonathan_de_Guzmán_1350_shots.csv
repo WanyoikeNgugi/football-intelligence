@@ -1,0 +1,76 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+41492,94,Goal,0.9830000305175781,0.5470000076293945,0.6261979937553406,Jonathan de Guzmán,a,1350,OpenPlay,2014,LeftFoot,5155,Genoa,Napoli,1,2,2014-08-31 19:45:00,Juan Zuñiga,Chipped
+42406,92,BlockedShot,0.764000015258789,0.56,0.018771400675177574,Jonathan de Guzmán,h,1350,FromCorner,2014,LeftFoot,5135,Napoli,Palermo,3,3,2014-09-24 19:45:00,,None
+42643,78,MissedShots,0.9,0.5020000076293946,0.10572399944067001,Jonathan de Guzmán,a,1350,OpenPlay,2014,Head,5141,Sassuolo,Napoli,0,1,2014-09-28 11:30:00,Duván Zapata,Cross
+44453,16,MissedShots,0.89,0.38,0.07061120122671127,Jonathan de Guzmán,h,1350,OpenPlay,2014,RightFoot,5054,Napoli,Cagliari,3,3,2014-11-23 14:00:00,Gonzalo Higuaín,Cross
+44456,29,SavedShot,0.905,0.445,0.41870900988578796,Jonathan de Guzmán,h,1350,OpenPlay,2014,RightFoot,5054,Napoli,Cagliari,3,3,2014-11-23 14:00:00,Christian Maggio,Pass
+44467,61,Goal,0.925,0.6229999923706054,0.03059989959001541,Jonathan de Guzmán,h,1350,OpenPlay,2014,Head,5054,Napoli,Cagliari,3,3,2014-11-23 14:00:00,Christian Maggio,Cross
+44994,71,Goal,0.875999984741211,0.545,0.3942050039768219,Jonathan de Guzmán,h,1350,OpenPlay,2014,LeftFoot,5003,Napoli,Empoli,2,2,2014-12-07 11:30:00,,None
+45000,94,SavedShot,0.885,0.5940000152587891,0.09973189979791641,Jonathan de Guzmán,h,1350,OpenPlay,2014,LeftFoot,5003,Napoli,Empoli,2,2,2014-12-07 11:30:00,Walter Gargano,Pass
+45249,48,SavedShot,0.759000015258789,0.24600000381469728,0.015669500455260277,Jonathan de Guzmán,a,1350,OpenPlay,2014,RightFoot,5017,AC Milan,Napoli,2,0,2014-12-14 19:45:00,Jorginho,Pass
+45470,64,MissedShots,0.8230000305175781,0.4929999923706055,0.06576559692621231,Jonathan de Guzmán,h,1350,OpenPlay,2014,RightFoot,5021,Napoli,Parma,2,0,2014-12-18 20:00:00,José Callejón,None
+45478,17,MissedShots,0.885,0.5309999847412109,0.40301498770713806,Jonathan de Guzmán,h,1350,OpenPlay,2014,RightFoot,4976,Napoli,Juventus,1,3,2015-01-11 19:45:00,,None
+45489,71,BlockedShot,0.8380000305175781,0.509000015258789,0.05988239869475365,Jonathan de Guzmán,h,1350,OpenPlay,2014,RightFoot,4976,Napoli,Juventus,1,3,2015-01-11 19:45:00,Gonzalo Higuaín,Pass
+46440,22,MissedShots,0.69,0.46700000762939453,0.017260899767279625,Jonathan de Guzmán,h,1350,OpenPlay,2014,RightFoot,4996,Napoli,Genoa,2,1,2015-01-26 20:00:00,Gonzalo Higuaín,Pass
+46445,37,MissedShots,0.875999984741211,0.5529999923706055,0.42146798968315125,Jonathan de Guzmán,h,1350,OpenPlay,2014,RightFoot,4996,Napoli,Genoa,2,1,2015-01-26 20:00:00,Marek Hamsik,Pass
+46449,48,BlockedShot,0.8680000305175781,0.544000015258789,0.381087988615036,Jonathan de Guzmán,h,1350,OpenPlay,2014,LeftFoot,4996,Napoli,Genoa,2,1,2015-01-26 20:00:00,Marek Hamsik,Pass
+46817,76,MissedShots,0.885,0.5670000076293945,0.11987199634313583,Jonathan de Guzmán,a,1350,OpenPlay,2014,RightFoot,4922,Chievo,Napoli,1,2,2015-02-01 14:00:00,Dries Mertens,Pass
+47139,75,SavedShot,0.765,0.66,0.03229780122637749,Jonathan de Guzmán,h,1350,OpenPlay,2014,RightFoot,4933,Napoli,Udinese,3,1,2015-02-08 14:00:00,Gonzalo Higuaín,TakeOn
+47140,89,MissedShots,0.8480000305175781,0.47099998474121096,0.11796200275421143,Jonathan de Guzmán,h,1350,OpenPlay,2014,RightFoot,4933,Napoli,Udinese,3,1,2015-02-08 14:00:00,Gonzalo Higuaín,Pass
+47461,12,SavedShot,0.77,0.5540000152587891,0.041927799582481384,Jonathan de Guzmán,a,1350,OpenPlay,2014,RightFoot,4938,Palermo,Napoli,3,1,2015-02-14 19:45:00,Marek Hamsik,TakeOn
+47465,29,MissedShots,0.799000015258789,0.5579999923706055,0.037670399993658066,Jonathan de Guzmán,a,1350,OpenPlay,2014,RightFoot,4938,Palermo,Napoli,3,1,2015-02-14 19:45:00,,None
+47974,83,MissedShots,0.8969999694824219,0.445,0.13110899925231934,Jonathan de Guzmán,h,1350,OpenPlay,2014,RightFoot,4953,Napoli,Sassuolo,2,0,2015-02-23 18:00:00,Duván Zapata,Cross
+47613,0,SavedShot,0.735,0.4279999923706055,0.015015799552202225,Jonathan de Guzmán,a,1350,OpenPlay,2014,RightFoot,4887,Torino,Napoli,1,0,2015-03-01 19:45:00,José Callejón,Chipped
+47618,36,SavedShot,0.7380000305175781,0.7090000152587891,0.016797499731183052,Jonathan de Guzmán,a,1350,OpenPlay,2014,RightFoot,4887,Torino,Napoli,1,0,2015-03-01 19:45:00,David López,Pass
+48850,60,ShotOnPost,0.8209999847412109,0.5170000076293946,0.05552300065755844,Jonathan de Guzmán,h,1350,OpenPlay,2014,RightFoot,4917,Napoli,Atalanta,1,1,2015-03-22 19:45:00,,None
+48177,38,BlockedShot,0.8590000152587891,0.435,0.07560080289840698,Jonathan de Guzmán,a,1350,OpenPlay,2014,RightFoot,4829,Roma,Napoli,1,0,2015-04-04 11:30:00,José Callejón,Pass
+98036,89,Goal,0.885,0.5,0.7612590193748474,Jonathan de Guzmán,h,1350,Penalty,2015,RightFoot,836,Carpi,Frosinone,2,1,2016-03-13 18:00:00,,Standard
+101047,73,MissedShots,0.8059999847412109,0.745999984741211,0.024828199297189713,Jonathan de Guzmán,h,1350,OpenPlay,2015,RightFoot,900,Carpi,Empoli,1,0,2016-04-25 21:00:00,,TakeOn
+149032,37,MissedShots,0.7530000305175781,0.5059999847412109,0.021569600328803062,Jonathan de Guzmán,h,1350,OpenPlay,2016,RightFoot,3285,Chievo,Bologna,1,1,2016-10-26 22:45:00,,None
+150120,80,BlockedShot,0.7559999847412109,0.5990000152587891,0.01894490048289299,Jonathan de Guzmán,h,1350,OpenPlay,2016,RightFoot,2750,Chievo,Juventus,1,2,2016-11-06 18:00:00,Antonio Floro Flores,Pass
+150712,55,BlockedShot,0.7780000305175782,0.669000015258789,0.029947100207209587,Jonathan de Guzmán,h,1350,OpenPlay,2016,RightFoot,2756,Chievo,Cagliari,1,0,2016-11-19 18:00:00,Ivan Radovanovic,Chipped
+152443,83,MissedShots,0.7519999694824219,0.4640000152587891,0.024847200140357018,Jonathan de Guzmán,a,1350,OpenPlay,2016,RightFoot,3080,Palermo,Chievo,0,2,2016-12-11 18:00:00,Mariano Izco,Pass
+152787,22,SavedShot,0.925,0.5690000152587891,0.29513901472091675,Jonathan de Guzmán,h,1350,OpenPlay,2016,Head,3094,Chievo,Sampdoria,2,1,2016-12-18 18:00:00,Nicolas Frey,Cross
+153489,21,MissedShots,0.8930000305175781,0.5920000076293945,0.3511979877948761,Jonathan de Guzmán,a,1350,OpenPlay,2016,RightFoot,3100,Roma,Chievo,3,1,2016-12-22 19:45:00,,None
+153496,36,Goal,0.9230000305175782,0.5479999923706055,0.3253509998321533,Jonathan de Guzmán,a,1350,OpenPlay,2016,Head,3100,Roma,Chievo,3,1,2016-12-22 19:45:00,Mariano Izco,Cross
+145160,63,MissedShots,0.7619999694824219,0.36700000762939455,0.013632900081574917,Jonathan de Guzmán,h,1350,OpenPlay,2016,LeftFoot,3540,Chievo,Fiorentina,0,3,2017-01-21 20:00:00,,None
+145654,41,SavedShot,0.725999984741211,0.5059999847412109,0.01650870032608509,Jonathan de Guzmán,a,1350,OpenPlay,2016,RightFoot,3550,Lazio,Chievo,0,1,2017-01-28 20:00:00,Samuel Bastien,BallRecovery
+147393,74,BlockedShot,0.78,0.37599998474121094,0.014131399802863598,Jonathan de Guzmán,h,1350,OpenPlay,2016,RightFoot,3589,Chievo,Napoli,1,3,2017-02-19 14:00:00,,Rebound
+148253,18,MissedShots,0.6780000305175782,0.575,0.01230200007557869,Jonathan de Guzmán,a,1350,OpenPlay,2016,LeftFoot,3602,AC Milan,Chievo,3,1,2017-03-04 19:45:00,Ivan Radovanovic,Pass
+148262,41,Goal,0.885,0.5,0.7612990140914917,Jonathan de Guzmán,a,1350,Penalty,2016,RightFoot,3602,AC Milan,Chievo,3,1,2017-03-04 19:45:00,,Standard
+149919,65,MissedShots,0.8030000305175782,0.64,0.09279070049524307,Jonathan de Guzmán,h,1350,DirectFreekick,2016,RightFoot,3635,Chievo,Crotone,1,2,2017-04-02 14:00:00,,Standard
+154070,14,BlockedShot,0.774000015258789,0.6809999847412109,0.02047020010650158,Jonathan de Guzmán,a,1350,OpenPlay,2016,RightFoot,3712,Atalanta,Chievo,1,0,2017-05-27 17:00:00,Massimo Gobbi,Pass
+165842,34,SavedShot,0.7959999847412109,0.42900001525878906,0.04313800111413002,Jonathan de Guzmán,a,1350,OpenPlay,2017,LeftFoot,8266,Freiburg,Eintracht Frankfurt,0,0,2017-08-20 14:30:00,Mijat Gacinovic,BallRecovery
+166108,43,MissedShots,0.8769999694824219,0.3390000152587891,0.09301169961690903,Jonathan de Guzmán,h,1350,OpenPlay,2017,RightFoot,8270,Eintracht Frankfurt,Wolfsburg,0,1,2017-08-26 14:30:00,Kevin-Prince Boateng,Pass
+166111,54,SavedShot,0.9130000305175782,0.549000015258789,0.08402629941701889,Jonathan de Guzmán,h,1350,OpenPlay,2017,LeftFoot,8270,Eintracht Frankfurt,Wolfsburg,0,1,2017-08-26 14:30:00,,None
+166619,57,MissedShots,0.775,0.36,0.024213800206780434,Jonathan de Guzmán,h,1350,OpenPlay,2017,RightFoot,8288,Eintracht Frankfurt,Augsburg,1,2,2017-09-16 14:30:00,Makoto Hasebe,Pass
+166632,90,SavedShot,0.8119999694824219,0.5479999923706055,0.04503820091485977,Jonathan de Guzmán,h,1350,OpenPlay,2017,LeftFoot,8288,Eintracht Frankfurt,Augsburg,1,2,2017-09-16 14:30:00,,None
+198710,52,SavedShot,0.8969999694824219,0.40900001525878904,0.3787800073623657,Jonathan de Guzmán,h,1350,OpenPlay,2017,RightFoot,8480,Eintracht Frankfurt,Hannover 96,1,0,2018-03-03 14:30:00,Sébastien Haller,Throughball
+198713,58,MissedShots,0.755,0.7080000305175781,0.01736450009047985,Jonathan de Guzmán,h,1350,OpenPlay,2017,RightFoot,8480,Eintracht Frankfurt,Hannover 96,1,0,2018-03-03 14:30:00,,None
+200841,46,BlockedShot,0.725999984741211,0.4809999847412109,0.0527786985039711,Jonathan de Guzmán,a,1350,DirectFreekick,2017,RightFoot,8485,Borussia Dortmund,Eintracht Frankfurt,3,2,2018-03-11 17:00:00,,Standard
+200846,64,MissedShots,0.8569999694824219,0.51,0.06523589789867401,Jonathan de Guzmán,a,1350,OpenPlay,2017,RightFoot,8485,Borussia Dortmund,Eintracht Frankfurt,3,2,2018-03-11 17:00:00,,None
+204543,35,BlockedShot,0.725999984741211,0.5720000076293945,0.05039279907941818,Jonathan de Guzmán,a,1350,DirectFreekick,2017,RightFoot,8504,Werder Bremen,Eintracht Frankfurt,2,1,2018-04-01 14:30:00,,Standard
+210343,31,MissedShots,0.8540000152587891,0.26399999618530273,0.015575500205159187,Jonathan de Guzmán,h,1350,FromCorner,2017,RightFoot,8533,Eintracht Frankfurt,Hertha Berlin,0,3,2018-04-21 13:30:00,,Aerial
+220029,95,MissedShots,0.7780000305175782,0.649000015258789,0.04218899831175804,Jonathan de Guzmán,a,1350,OpenPlay,2018,RightFoot,10342,Freiburg,Eintracht Frankfurt,0,2,2018-08-25 16:30:00,Lucas Torró,Pass
+223165,65,MissedShots,0.750999984741211,0.38,0.017038799822330475,Jonathan de Guzmán,a,1350,OpenPlay,2018,RightFoot,10355,Borussia Dortmund,Eintracht Frankfurt,3,1,2018-09-14 18:30:00,,None
+228639,28,SavedShot,0.7130000305175781,0.43900001525878907,0.014259500429034233,Jonathan de Guzmán,h,1350,OpenPlay,2018,LeftFoot,10389,Eintracht Frankfurt,Hannover 96,4,1,2018-09-30 13:30:00,,Dispossessed
+228644,58,Goal,0.9640000152587891,0.47,0.8399009704589844,Jonathan de Guzmán,h,1350,OpenPlay,2018,RightFoot,10389,Eintracht Frankfurt,Hannover 96,4,1,2018-09-30 13:30:00,Ante Rebic,Pass
+228646,61,BlockedShot,0.8180000305175781,0.47299999237060547,0.08914460241794586,Jonathan de Guzmán,h,1350,OpenPlay,2018,LeftFoot,10389,Eintracht Frankfurt,Hannover 96,4,1,2018-09-30 13:30:00,Luka Jovic,LayOff
+255388,75,BlockedShot,0.8930000305175781,0.4420000076293945,0.1396940052509308,Jonathan de Guzmán,a,1350,OpenPlay,2018,LeftFoot,10392,Hoffenheim,Eintracht Frankfurt,1,2,2018-10-07 13:30:00,Sébastien Haller,Pass
+255438,66,MissedShots,0.769000015258789,0.6309999847412109,0.0698591023683548,Jonathan de Guzmán,h,1350,DirectFreekick,2018,RightFoot,10403,Eintracht Frankfurt,Fortuna Duesseldorf,7,1,2018-10-19 18:30:00,,Standard
+256489,0,Goal,0.8859999847412109,0.38599998474121094,0.2947089970111847,Jonathan de Guzmán,a,1350,OpenPlay,2018,RightFoot,10441,Augsburg,Eintracht Frankfurt,1,3,2018-11-24 14:30:00,Sébastien Haller,Chipped
+256914,13,ShotOnPost,0.86,0.539000015258789,0.09680130332708359,Jonathan de Guzmán,h,1350,OpenPlay,2018,LeftFoot,10449,Eintracht Frankfurt,Wolfsburg,1,2,2018-12-02 17:00:00,Filip Kostic,Pass
+256918,35,MissedShots,0.8630000305175781,0.8369999694824218,0.05069990083575249,Jonathan de Guzmán,h,1350,DirectFreekick,2018,RightFoot,10449,Eintracht Frankfurt,Wolfsburg,1,2,2018-12-02 17:00:00,,Standard
+257140,18,BlockedShot,0.755,0.5629999923706055,0.02592110075056553,Jonathan de Guzmán,a,1350,OpenPlay,2018,RightFoot,10458,Hertha Berlin,Eintracht Frankfurt,1,0,2018-12-08 17:30:00,Ante Rebic,Pass
+257569,40,MissedShots,0.764000015258789,0.44299999237060544,0.02842639945447445,Jonathan de Guzmán,a,1350,OpenPlay,2018,RightFoot,10476,Mainz 05,Eintracht Frankfurt,2,2,2018-12-19 19:30:00,Sébastien Haller,Pass
+278337,89,MissedShots,0.86,0.38799999237060545,0.107853002846241,Jonathan de Guzmán,h,1350,OpenPlay,2018,RightFoot,10492,Eintracht Frankfurt,Freiburg,3,1,2019-01-19 14:30:00,Ante Rebic,Pass
+279304,45,BlockedShot,0.7719999694824219,0.695,0.021814700216054916,Jonathan de Guzmán,h,1350,FromCorner,2018,RightFoot,10529,Eintracht Frankfurt,Borussia M.Gladbach,1,1,2019-02-17 14:30:00,Filip Kostic,Pass
+293098,3,BlockedShot,0.7240000152587891,0.43400001525878906,0.015764299780130386,Jonathan de Guzmán,a,1350,OpenPlay,2018,LeftFoot,10581,Schalke 04,Eintracht Frankfurt,1,2,2019-04-06 14:30:00,,BallRecovery
+296433,77,Goal,0.9530000305175781,0.46799999237060547,0.6407610177993774,Jonathan de Guzmán,a,1350,OpenPlay,2018,LeftFoot,10605,Wolfsburg,Eintracht Frankfurt,1,1,2019-04-22 19:30:00,,Rebound
+297279,33,MissedShots,0.93,0.49,0.44988998770713806,Jonathan de Guzmán,h,1350,OpenPlay,2018,RightFoot,10611,Eintracht Frankfurt,Hertha Berlin,0,0,2019-04-27 14:30:00,Ante Rebic,Cross
+297285,70,SavedShot,0.8590000152587891,0.485,0.07721810042858124,Jonathan de Guzmán,h,1350,OpenPlay,2018,RightFoot,10611,Eintracht Frankfurt,Hertha Berlin,0,0,2019-04-27 14:30:00,,None
+297286,71,MissedShots,0.8809999847412109,0.4,0.0918658971786499,Jonathan de Guzmán,h,1350,OpenPlay,2018,RightFoot,10611,Eintracht Frankfurt,Hertha Berlin,0,0,2019-04-27 14:30:00,Jetro Willems,Pass
+301559,83,SavedShot,0.7630000305175781,0.49599998474121093,0.026241999119520187,Jonathan de Guzmán,h,1350,OpenPlay,2018,RightFoot,10630,Eintracht Frankfurt,Mainz 05,0,2,2019-05-12 17:00:00,Ante Rebic,Pass
+301560,84,BlockedShot,0.799000015258789,0.37,0.03705349937081337,Jonathan de Guzmán,h,1350,OpenPlay,2018,RightFoot,10630,Eintracht Frankfurt,Mainz 05,0,2,2019-05-12 17:00:00,Gonçalo Paciência,LayOff
+302424,11,SavedShot,0.7280000305175781,0.5120000076293946,0.017796499654650688,Jonathan de Guzmán,a,1350,OpenPlay,2018,RightFoot,10635,Bayern Munich,Eintracht Frankfurt,5,1,2019-05-18 13:30:00,Luka Jovic,Pass
+363445,77,MissedShots,0.7930000305175782,0.49700000762939456,0.032219298183918,Jonathan de Guzmán,h,1350,OpenPlay,2019,RightFoot,12646,Eintracht Frankfurt,Freiburg,3,3,2020-05-26 18:30:00,,None

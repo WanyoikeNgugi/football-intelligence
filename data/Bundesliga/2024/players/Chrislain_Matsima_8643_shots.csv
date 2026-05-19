@@ -1,0 +1,39 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+381098,73,MissedShots,0.9180000305175782,0.5879999923706055,0.026380600407719612,Chrislain Matsima,a,8643,SetPiece,2020,Head,15812,Brest,Monaco,1,0,2020-10-04 13:00:00,Enzo Millot,Aerial
+382475,52,BlockedShot,0.7280000305175781,0.41900001525878905,0.016811799257993698,Chrislain Matsima,h,8643,OpenPlay,2020,RightFoot,15820,Monaco,Montpellier,1,1,2020-10-18 13:00:00,Florentino Luís,Pass
+382478,64,MissedShots,0.794000015258789,0.43,0.03523410111665726,Chrislain Matsima,h,8643,OpenPlay,2020,RightFoot,15820,Monaco,Montpellier,1,1,2020-10-18 13:00:00,Stevan Jovetic,None
+384145,74,MissedShots,0.9,0.445,0.017788700759410858,Chrislain Matsima,a,8643,FromCorner,2020,Head,15827,Lyon,Monaco,4,1,2020-10-25 20:00:00,Cesc Fàbregas,Aerial
+430165,33,MissedShots,0.919000015258789,0.4129999923706055,0.0754953995347023,Chrislain Matsima,h,8643,SetPiece,2021,Head,17871,Monaco,Marseille,0,2,2021-09-11 19:00:00,Sofiane Diop,Cross
+503745,26,MissedShots,0.8909999847412109,0.5209999847412109,0.041242800652980804,Chrislain Matsima,a,8643,FromCorner,2022,RightFoot,19833,Marseille,Lorient,3,1,2023-01-14 18:00:00,Yoann Cathline,Aerial
+523037,63,SavedShot,0.9630000305175781,0.4520000076293945,0.5893549919128418,Chrislain Matsima,h,8643,SetPiece,2022,RightFoot,19968,Monaco,Montpellier,0,4,2023-04-30 11:00:00,,None
+527102,17,SavedShot,0.885,0.5209999847412109,0.04212760552763939,Chrislain Matsima,a,8643,FromCorner,2022,Head,20004,Lyon,Monaco,3,1,2023-05-19 19:00:00,Aleksandr Golovin,Cross
+527110,34,BlockedShot,0.8919999694824219,0.515,0.017959505319595337,Chrislain Matsima,a,8643,FromCorner,2022,Head,20004,Lyon,Monaco,3,1,2023-05-19 19:00:00,Caio Henrique,Aerial
+542925,77,MissedShots,0.9180000305175782,0.5029999923706054,0.05224267765879631,Chrislain Matsima,a,8643,FromCorner,2023,Head,23438,Reims,Monaco,1,3,2023-10-07 19:00:00,Wissam Ben Yedder,Aerial
+546051,68,MissedShots,0.925,0.4859999847412109,0.1130833551287651,Chrislain Matsima,a,8643,FromCorner,2023,Head,23454,Lille,Monaco,2,0,2023-10-29 14:00:00,Ismail Jakobs,Cross
+564375,61,Goal,0.919000015258789,0.49700000762939456,0.0479370653629303,Chrislain Matsima,a,8643,FromCorner,2023,Head,23561,Rennes,Clermont Foot,3,1,2024-02-18 14:00:00,Muhammed-Cham Saracevic,Aerial
+568530,34,SavedShot,0.89,0.46,0.021045992150902748,Chrislain Matsima,a,8643,SetPiece,2023,Head,23595,Metz,Clermont Foot,1,0,2024-03-10 14:00:00,Muhammed-Cham Saracevic,Aerial
+568534,43,BlockedShot,0.65,0.4859999847412109,0.011561156250536442,Chrislain Matsima,a,8643,OpenPlay,2023,RightFoot,23595,Metz,Clermont Foot,1,0,2024-03-10 14:00:00,Johan Gastien,Pass
+580763,63,MissedShots,0.7180000305175781,0.49599998474121093,0.016908708959817886,Chrislain Matsima,h,8643,OpenPlay,2023,RightFoot,23664,Clermont Foot,Lyon,0,1,2024-05-12 19:00:00,Neto Borges,Pass
+580764,63,MissedShots,0.715999984741211,0.40900001525878904,0.013036814518272877,Chrislain Matsima,h,8643,OpenPlay,2023,RightFoot,23664,Clermont Foot,Lyon,0,1,2024-05-12 19:00:00,,None
+598333,54,MissedShots,0.7130000305175781,0.5209999847412109,0.019506964832544327,Chrislain Matsima,h,8643,OpenPlay,2024,RightFoot,27809,Augsburg,Borussia Dortmund,2,1,2024-10-26 13:30:00,,BallRecovery
+602107,80,MissedShots,0.965999984741211,0.5870000076293945,0.03388369828462601,Chrislain Matsima,h,8643,FromCorner,2024,Head,27827,Augsburg,Hoffenheim,0,0,2024-11-10 14:30:00,Marius Wolf,Aerial
+602511,32,MissedShots,0.914000015258789,0.56,0.10389944165945053,Chrislain Matsima,a,8643,SetPiece,2024,Head,27834,Bayern Munich,Augsburg,3,0,2024-11-22 19:30:00,Arne Maier,Cross
+608212,47,MissedShots,0.9109999847412109,0.529000015258789,0.12664416432380676,Chrislain Matsima,a,8643,OpenPlay,2024,RightFoot,27876,Holstein Kiel,Augsburg,5,1,2024-12-21 14:30:00,Henri Koudossou,Pass
+611752,67,MissedShots,0.9290000152587891,0.515,0.06042088195681572,Chrislain Matsima,a,8643,FromCorner,2024,Head,27892,Union Berlin,Augsburg,0,2,2025-01-15 19:30:00,Arne Maier,Aerial
+613223,38,MissedShots,0.9109999847412109,0.4909999847412109,0.08786133676767349,Chrislain Matsima,h,8643,FromCorner,2024,Head,27911,Augsburg,FC Heidenheim,2,1,2025-01-25 14:30:00,Dimitris Giannoulis,Cross
+613225,45,Goal,0.9740000152587891,0.5320000076293945,0.6764940619468689,Chrislain Matsima,h,8643,FromCorner,2024,RightFoot,27911,Augsburg,FC Heidenheim,2,1,2025-01-25 14:30:00,Samuel Essende,None
+616869,21,SavedShot,0.950999984741211,0.44799999237060545,0.0757007747888565,Chrislain Matsima,h,8643,SetPiece,2024,Head,27936,Augsburg,RasenBallsport Leipzig,0,0,2025-02-14 19:30:00,Marius Wolf,Aerial
+620624,33,MissedShots,0.9669999694824218,0.5970000076293945,0.061074912548065186,Chrislain Matsima,h,8643,FromCorner,2024,RightFoot,27954,Augsburg,Freiburg,0,0,2025-03-02 16:30:00,Dimitris Giannoulis,Cross
+621109,82,MissedShots,0.950999984741211,0.3609999847412109,0.011517112143337727,Chrislain Matsima,a,8643,FromCorner,2024,Head,27960,Borussia Dortmund,Augsburg,0,1,2025-03-08 14:30:00,Mert Kömür,Aerial
+622591,49,MissedShots,0.8219999694824218,0.26799999237060546,0.021021435037255287,Chrislain Matsima,h,8643,OpenPlay,2024,RightFoot,27971,Augsburg,Wolfsburg,1,0,2025-03-15 14:30:00,,None
+625323,92,OwnGoal,0.085,0.32299999237060545,0,Chrislain Matsima,h,8643,OpenPlay,2024,RightFoot,27989,Augsburg,Bayern Munich,1,3,2025-04-04 18:30:00,,BallTouch
+629182,71,MissedShots,0.9319999694824219,0.5379999923706055,0.06500662118196487,Chrislain Matsima,h,8643,SetPiece,2024,Head,28008,Augsburg,Eintracht Frankfurt,0,0,2025-04-20 13:30:00,Marius Wolf,Aerial
+631978,80,MissedShots,0.9490000152587891,0.4979999923706055,0.6189743280410767,Chrislain Matsima,h,8643,OpenPlay,2024,Head,28025,Augsburg,Holstein Kiel,1,3,2025-05-04 13:30:00,Jeffrey Gouweleeuw,Aerial
+631986,94,MissedShots,0.9109999847412109,0.4809999847412109,0.05368705093860626,Chrislain Matsima,h,8643,SetPiece,2024,Head,28025,Augsburg,Holstein Kiel,1,3,2025-05-04 13:30:00,Arne Maier,Aerial
+638737,41,Goal,0.945,0.49,0.29281583428382874,Chrislain Matsima,a,8643,FromCorner,2025,Head,30229,Freiburg,Augsburg,1,3,2025-08-23 13:30:00,Mert Kömür,Aerial
+642962,20,MissedShots,0.875,0.44299999237060544,0.01561407558619976,Chrislain Matsima,h,8643,FromCorner,2025,Head,30253,Augsburg,Mainz 05,1,4,2025-09-20 13:30:00,,Aerial
+642963,20,MissedShots,0.8909999847412109,0.5720000076293945,0.021497482433915138,Chrislain Matsima,h,8643,OpenPlay,2025,Head,30253,Augsburg,Mainz 05,1,4,2025-09-20 13:30:00,Han-Noah Massengo,Aerial
+648882,45,BlockedShot,0.8540000152587891,0.5540000152587891,0.060473375022411346,Chrislain Matsima,h,8643,OpenPlay,2025,RightFoot,30287,Augsburg,RasenBallsport Leipzig,0,6,2025-10-25 13:30:00,,Rebound
+653571,1,MissedShots,0.9309999847412109,0.6320000076293946,0.06988520175218582,Chrislain Matsima,h,8643,FromCorner,2025,RightFoot,30314,Augsburg,Hamburger SV,1,0,2025-11-22 14:30:00,,None
+658133,94,BlockedShot,0.8619999694824219,0.47700000762939454,0.07038747519254684,Chrislain Matsima,a,8643,FromCorner,2025,RightFoot,30344,Eintracht Frankfurt,Augsburg,1,0,2025-12-13 14:30:00,,None
+682131,39,BlockedShot,0.7530000305175781,0.5020000076293946,0.03453202545642853,Chrislain Matsima,a,8643,OpenPlay,2025,RightFoot,30511,Werder Bremen,Augsburg,1,3,2026-05-02 13:30:00,Anton Kade,HeadPass

@@ -1,0 +1,11 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+65079,67,MissedShots,0.9030000305175782,0.48200000762939454,0.10450000315904617,Matthieu Saunier,h,3609,SetPiece,2015,Head,2022,Troyes,Toulouse,0,3,2015-12-02 22:00:00,Stéphane Darbion,Cross
+65249,88,BlockedShot,0.9590000152587891,0.435,0.5896430015563965,Matthieu Saunier,h,3609,SetPiece,2015,RightFoot,2043,Troyes,SC Bastia,1,1,2015-12-12 23:00:00,,Rebound
+65510,51,MissedShots,0.8959999847412109,0.38599998474121094,0.020402200520038605,Matthieu Saunier,h,3609,FromCorner,2015,Head,2055,Troyes,Monaco,0,0,2015-12-19 23:00:00,Stéphane Darbion,Cross
+65517,87,MissedShots,0.8630000305175781,0.6079999923706054,0.04202619940042496,Matthieu Saunier,h,3609,FromCorner,2015,LeftFoot,2055,Troyes,Monaco,0,0,2015-12-19 23:00:00,Thiago Xavier,Cross
+67262,35,MissedShots,0.8930000305175781,0.4329999923706055,0.1143689975142479,Matthieu Saunier,h,3609,OpenPlay,2015,LeftFoot,2166,Troyes,Paris Saint Germain,0,9,2016-03-13 17:00:00,Fabien Camus,Pass
+67271,57,OwnGoal,0.060999999046325686,0.48700000762939455,0,Matthieu Saunier,h,3609,OpenPlay,2015,RightFoot,2166,Troyes,Paris Saint Germain,0,9,2016-03-13 17:00:00,,None
+67449,89,SavedShot,0.9369999694824219,0.36900001525878906,0.07283040136098862,Matthieu Saunier,h,3609,SetPiece,2015,RightFoot,2183,Troyes,Angers,0,1,2016-04-02 22:00:00,Chaouki Ben Saada,Chipped
+67711,9,MissedShots,0.9359999847412109,0.5179999923706055,0.40248700976371765,Matthieu Saunier,a,3609,FromCorner,2015,Head,2212,Montpellier,Troyes,4,1,2016-04-24 19:00:00,Stéphane Darbion,Cross
+67722,26,OwnGoal,0.04300000190734863,0.43900001525878907,0,Matthieu Saunier,a,3609,OpenPlay,2015,Head,2212,Montpellier,Troyes,4,1,2016-04-24 19:00:00,,None
+67736,78,MissedShots,0.879000015258789,0.47200000762939454,0.06340649724006653,Matthieu Saunier,a,3609,OpenPlay,2015,RightFoot,2212,Montpellier,Troyes,4,1,2016-04-24 19:00:00,Alois Confais,Cross

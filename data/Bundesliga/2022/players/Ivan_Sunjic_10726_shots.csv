@@ -1,0 +1,7 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+490836,39,BlockedShot,0.794000015258789,0.7030000305175781,0.018399199470877647,Ivan Sunjic,h,10726,OpenPlay,2022,LeftFoot,19411,Hertha Berlin,Hoffenheim,1,1,2022-10-02 13:30:00,,None
+490844,55,BlockedShot,0.865999984741211,0.649000015258789,0.08744709938764572,Ivan Sunjic,h,10726,OpenPlay,2022,RightFoot,19411,Hertha Berlin,Hoffenheim,1,1,2022-10-02 13:30:00,,TakeOn
+492599,45,MissedShots,0.870999984741211,0.48700000762939455,0.044527001678943634,Ivan Sunjic,h,10726,OpenPlay,2022,Head,19422,Hertha Berlin,Freiburg,2,2,2022-10-09 15:30:00,Stevan Jovetic,Cross
+499212,66,SavedShot,0.8619999694824219,0.6469999694824219,0.06467930227518082,Ivan Sunjic,a,10726,OpenPlay,2022,LeftFoot,19466,VfB Stuttgart,Hertha Berlin,2,1,2022-11-08 19:30:00,Wilfried Kanga,Pass
+500007,44,SavedShot,0.889000015258789,0.544000015258789,0.0247041005641222,Ivan Sunjic,h,10726,OpenPlay,2022,Head,19474,Hertha Berlin,FC Cologne,2,0,2022-11-12 14:30:00,,Rebound
+500006,44,SavedShot,0.84,0.6140000152587891,0.0823104977607727,Ivan Sunjic,h,10726,OpenPlay,2022,LeftFoot,19474,Hertha Berlin,FC Cologne,2,0,2022-11-12 14:30:00,Dodi Lukebakio,Pass

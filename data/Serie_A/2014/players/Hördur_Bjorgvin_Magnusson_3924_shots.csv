@@ -1,0 +1,64 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+42978,41,MissedShots,0.6769999694824219,0.6659999847412109,0.02769549936056137,Hördur Bjorgvin Magnusson,a,3924,DirectFreekick,2014,LeftFoot,5074,Udinese,Cesena,1,1,2014-10-05 14:00:00,,Standard
+47775,23,BlockedShot,0.7630000305175781,0.7340000152587891,0.02281090058386326,Hördur Bjorgvin Magnusson,h,3924,FromCorner,2014,LeftFoot,4884,Cesena,Udinese,1,0,2015-03-01 14:00:00,Franco Brienza,Pass
+48121,86,SavedShot,0.879000015258789,0.36700000762939455,0.011276500299572945,Hördur Bjorgvin Magnusson,h,3924,FromCorner,2014,Head,4891,Cesena,Palermo,0,0,2015-03-08 11:30:00,Franco Brienza,Cross
+48300,17,MissedShots,0.759000015258789,0.6170000076293946,0.018470099195837975,Hördur Bjorgvin Magnusson,a,3924,OpenPlay,2014,LeftFoot,4905,Inter,Cesena,1,1,2015-03-15 19:45:00,Giuseppe De Feudis,Pass
+48318,70,MissedShots,0.7440000152587891,0.6580000305175782,0.015517599880695343,Hördur Bjorgvin Magnusson,a,3924,OpenPlay,2014,LeftFoot,4905,Inter,Cesena,1,1,2015-03-15 19:45:00,,BallTouch
+49841,87,MissedShots,0.7919999694824219,0.5940000152587891,0.024302300065755844,Hördur Bjorgvin Magnusson,a,3924,OpenPlay,2014,LeftFoot,4827,Torino,Cesena,5,0,2015-05-31 19:45:00,,None
+218982,14,MissedShots,0.9069999694824219,0.4640000152587891,0.09881070256233215,Hördur Bjorgvin Magnusson,a,3924,SetPiece,2018,Head,8952,Krylya Sovetov Samara,CSKA Moscow,0,0,2018-07-31 19:00:00,Kristijan Bistrovic,Cross
+219573,37,MissedShots,0.865999984741211,0.4929999923706055,0.07440610229969025,Hördur Bjorgvin Magnusson,h,3924,SetPiece,2018,RightFoot,8970,CSKA Moscow,Arsenal Tula,3,0,2018-08-18 16:30:00,Timur Zhamaletdinov,HeadPass
+222757,90,SavedShot,0.8519999694824218,0.6020000076293945,0.09502799808979034,Hördur Bjorgvin Magnusson,a,3924,OpenPlay,2018,RightFoot,8979,Rubin Kazan,CSKA Moscow,1,1,2018-08-25 16:30:00,Abel Hernández,LayOff
+222975,6,MissedShots,0.6869999694824219,0.6809999847412109,0.010464400053024292,Hördur Bjorgvin Magnusson,h,3924,OpenPlay,2018,LeftFoot,8987,CSKA Moscow,Ural,4,0,2018-09-01 13:30:00,,BallTouch
+238317,22,SavedShot,0.7830000305175782,0.7230000305175781,0.0213507991284132,Hördur Bjorgvin Magnusson,h,3924,OpenPlay,2018,LeftFoot,9039,CSKA Moscow,FC Krasnodar,1,2,2018-10-28 15:00:00,,TakeOn
+238338,69,SavedShot,0.7819999694824219,0.639000015258789,0.04564930126070976,Hördur Bjorgvin Magnusson,h,3924,OpenPlay,2018,LeftFoot,9039,CSKA Moscow,FC Krasnodar,1,2,2018-10-28 15:00:00,,TakeOn
+238537,87,MissedShots,0.9119999694824219,0.500999984741211,0.03204189985990524,Hördur Bjorgvin Magnusson,a,3924,FromCorner,2018,Head,9047,Dinamo Moscow,CSKA Moscow,0,0,2018-11-03 13:30:00,Ilzat Akhmetov,Aerial
+245242,56,Goal,0.9319999694824219,0.5220000076293946,0.35712599754333496,Hördur Bjorgvin Magnusson,a,3924,FromCorner,2018,Head,9064,FK Akhmat,CSKA Moscow,0,2,2018-11-23 15:00:00,Ivan Oblyakov,Cross
+263267,1,BlockedShot,0.720999984741211,0.5609999847412109,0.015035799704492092,Hördur Bjorgvin Magnusson,h,3924,OpenPlay,2018,LeftFoot,9075,CSKA Moscow,FC Yenisey Krasnoyarsk,2,1,2018-12-08 12:00:00,Kristijan Bistrovic,Pass
+263271,15,MissedShots,0.9259999847412109,0.41200000762939454,0.0785318985581398,Hördur Bjorgvin Magnusson,h,3924,SetPiece,2018,Head,9075,CSKA Moscow,FC Yenisey Krasnoyarsk,2,1,2018-12-08 12:00:00,Nikola Vlasic,Cross
+263296,94,SavedShot,0.7440000152587891,0.3629999923706055,0.046760398894548416,Hördur Bjorgvin Magnusson,h,3924,DirectFreekick,2018,LeftFoot,9075,CSKA Moscow,FC Yenisey Krasnoyarsk,2,1,2018-12-08 12:00:00,,Standard
+285615,74,SavedShot,0.8780000305175781,0.4909999847412109,0.08015760034322739,Hördur Bjorgvin Magnusson,h,3924,SetPiece,2018,LeftFoot,9091,CSKA Moscow,Rubin Kazan,3,0,2019-03-09 13:30:00,,None
+286002,42,BlockedShot,0.7719999694824219,0.5929999923706055,0.023461399599909782,Hördur Bjorgvin Magnusson,a,3924,OpenPlay,2018,LeftFoot,9100,Ural,CSKA Moscow,0,1,2019-03-16 11:00:00,Nikola Vlasic,Pass
+296251,35,MissedShots,0.6780000305175782,0.5529999923706055,0.012334399856626987,Hördur Bjorgvin Magnusson,a,3924,OpenPlay,2018,LeftFoot,9134,Lokomotiv Moscow,CSKA Moscow,1,1,2019-04-20 17:00:00,,Rebound
+296918,40,SavedShot,0.9169999694824219,0.585,0.04410430043935776,Hördur Bjorgvin Magnusson,h,3924,FromCorner,2018,Head,9140,CSKA Moscow,Anzhi Makhachkala,2,0,2019-04-24 17:30:00,Ivan Oblyakov,Cross
+300000,38,SavedShot,0.9409999847412109,0.595999984741211,0.017078999429941177,Hördur Bjorgvin Magnusson,h,3924,FromCorner,2018,Head,9159,CSKA Moscow,Dinamo Moscow,2,2,2019-05-05 14:30:00,Ivan Oblyakov,Aerial
+300006,48,SavedShot,0.9059999847412109,0.4929999923706055,0.06989149749279022,Hördur Bjorgvin Magnusson,h,3924,FromCorner,2018,Head,9159,CSKA Moscow,Dinamo Moscow,2,2,2019-05-05 14:30:00,Ivan Oblyakov,Cross
+300013,71,SavedShot,0.91,0.54,0.06579110026359558,Hördur Bjorgvin Magnusson,h,3924,FromCorner,2018,Head,9159,CSKA Moscow,Dinamo Moscow,2,2,2019-05-05 14:30:00,Ivan Oblyakov,Cross
+304245,37,SavedShot,0.9069999694824219,0.505,0.06969290226697922,Hördur Bjorgvin Magnusson,h,3924,FromCorner,2018,Head,9176,CSKA Moscow,FK Akhmat,1,0,2019-05-18 13:30:00,Ivan Oblyakov,Cross
+304409,13,MissedShots,0.97,0.69,0.05987299978733063,Hördur Bjorgvin Magnusson,h,3924,OpenPlay,2018,LeftFoot,9177,CSKA Moscow,Krylya Sovetov Samara,6,0,2019-05-26 11:00:00,Ilzat Akhmetov,Chipped
+304417,47,Goal,0.965,0.5329999923706055,0.7492210268974304,Hördur Bjorgvin Magnusson,h,3924,OpenPlay,2018,LeftFoot,9177,CSKA Moscow,Krylya Sovetov Samara,6,0,2019-05-26 11:00:00,Arnór Sigurdsson,Pass
+307197,35,MissedShots,0.9159999847412109,0.4759999847412109,0.08394010365009308,Hördur Bjorgvin Magnusson,a,3924,FromCorner,2019,Head,11027,Krylya Sovetov Samara,CSKA Moscow,2,0,2019-07-14 13:30:00,Nikola Vlasic,Cross
+307377,45,MissedShots,0.9,0.3770000076293945,0.05831979960203171,Hördur Bjorgvin Magnusson,h,3924,FromCorner,2019,LeftFoot,11033,CSKA Moscow,FC Orenburg,2,1,2019-07-20 16:00:00,Igor Diveev,HeadPass
+307379,51,BlockedShot,0.735999984741211,0.695,0.013380699791014194,Hördur Bjorgvin Magnusson,h,3924,OpenPlay,2019,LeftFoot,11033,CSKA Moscow,FC Orenburg,2,1,2019-07-20 16:00:00,,Aerial
+308562,33,SavedShot,0.7669999694824219,0.7480000305175781,0.00870748981833458,Hördur Bjorgvin Magnusson,h,3924,OpenPlay,2019,LeftFoot,11060,CSKA Moscow,PFC Sochi,0,0,2019-08-11 17:00:00,Kristijan Bistrovic,Chipped
+308566,46,BlockedShot,0.7780000305175782,0.7390000152587891,0.015392499975860119,Hördur Bjorgvin Magnusson,h,3924,OpenPlay,2019,LeftFoot,11060,CSKA Moscow,PFC Sochi,0,0,2019-08-11 17:00:00,,BallTouch
+308570,58,BlockedShot,0.865999984741211,0.455,0.047495998442173004,Hördur Bjorgvin Magnusson,h,3924,FromCorner,2019,LeftFoot,11060,CSKA Moscow,PFC Sochi,0,0,2019-08-11 17:00:00,Nikola Vlasic,Cross
+308576,69,BlockedShot,0.8690000152587891,0.6519999694824219,0.04821209982037544,Hördur Bjorgvin Magnusson,h,3924,FromCorner,2019,LeftFoot,11060,CSKA Moscow,PFC Sochi,0,0,2019-08-11 17:00:00,,Rebound
+316324,26,SavedShot,0.889000015258789,0.4779999923706055,0.03964630141854286,Hördur Bjorgvin Magnusson,a,3924,FromCorner,2019,Head,11085,Arsenal Tula,CSKA Moscow,1,2,2019-09-01 14:30:00,Ivan Oblyakov,Cross
+317977,15,BlockedShot,0.7180000305175781,0.61,0.01332130003720522,Hördur Bjorgvin Magnusson,a,3924,OpenPlay,2019,LeftFoot,11088,FC Tambov,CSKA Moscow,0,2,2019-09-15 13:30:00,Mario Fernandes,Pass
+318008,93,Goal,0.7609999847412109,0.6780000305175782,0.027956299483776093,Hördur Bjorgvin Magnusson,a,3924,OpenPlay,2019,LeftFoot,11088,FC Tambov,CSKA Moscow,0,2,2019-09-15 13:30:00,Igor Diveev,HeadPass
+323114,16,Goal,0.9169999694824219,0.49400001525878906,0.10326900333166122,Hördur Bjorgvin Magnusson,a,3924,FromCorner,2019,LeftFoot,11105,Ural,CSKA Moscow,0,3,2019-09-29 08:30:00,Nikola Vlasic,Cross
+323120,41,MissedShots,0.7630000305175781,0.745,0.012986100278794765,Hördur Bjorgvin Magnusson,a,3924,OpenPlay,2019,LeftFoot,11105,Ural,CSKA Moscow,0,3,2019-09-29 08:30:00,,Rebound
+326172,17,MissedShots,0.700999984741211,0.6930000305175781,0.01137979980558157,Hördur Bjorgvin Magnusson,a,3924,OpenPlay,2019,LeftFoot,11121,FC Ufa,CSKA Moscow,1,1,2019-10-20 12:00:00,Ivan Oblyakov,Pass
+331253,82,SavedShot,0.87,0.5379999923706055,0.050198301672935486,Hördur Bjorgvin Magnusson,a,3924,FromCorner,2019,LeftFoot,11144,PFC Sochi,CSKA Moscow,2,3,2019-11-10 13:30:00,Nikola Vlasic,Cross
+334668,34,MissedShots,0.705999984741211,0.6329999923706054,0.009855730459094048,Hördur Bjorgvin Magnusson,h,3924,OpenPlay,2019,LeftFoot,11162,CSKA Moscow,Arsenal Tula,0,1,2019-12-02 16:30:00,,Rebound
+360622,37,MissedShots,0.7280000305175781,0.5459999847412109,0.016362400725483894,Hördur Bjorgvin Magnusson,h,3924,OpenPlay,2019,LeftFoot,11178,CSKA Moscow,Ural,1,1,2020-02-29 11:00:00,Alan Dzagoev,Pass
+360627,52,BlockedShot,0.7809999847412109,0.57,0.08416049927473068,Hördur Bjorgvin Magnusson,h,3924,DirectFreekick,2019,LeftFoot,11178,CSKA Moscow,Ural,1,1,2020-02-29 11:00:00,,Standard
+362456,47,MissedShots,0.95,0.3509999847412109,0.1475369930267334,Hördur Bjorgvin Magnusson,a,3924,SetPiece,2019,Head,11184,FC Rostov,CSKA Moscow,3,2,2020-03-09 11:00:00,,None
+362473,85,MissedShots,0.93,0.5629999923706055,0.49637800455093384,Hördur Bjorgvin Magnusson,a,3924,SetPiece,2019,LeftFoot,11184,FC Rostov,CSKA Moscow,3,2,2020-03-09 11:00:00,,Rebound
+362810,19,MissedShots,0.8119999694824219,0.7019999694824218,0.01888979971408844,Hördur Bjorgvin Magnusson,h,3924,OpenPlay,2019,LeftFoot,11194,CSKA Moscow,FC Ufa,0,0,2020-03-15 13:30:00,Georgy Schennikov,Pass
+362813,32,MissedShots,0.7230000305175781,0.5329999923706055,0.014204699546098709,Hördur Bjorgvin Magnusson,h,3924,OpenPlay,2019,LeftFoot,11194,CSKA Moscow,FC Ufa,0,0,2020-03-15 13:30:00,Nikola Vlasic,Pass
+365563,83,MissedShots,0.705,0.56,0.00853968970477581,Hördur Bjorgvin Magnusson,h,3924,OpenPlay,2019,LeftFoot,11200,CSKA Moscow,Zenit St. Petersburg,0,4,2020-06-20 16:00:00,,None
+367166,5,MissedShots,0.95,0.4859999847412109,0.13390600681304932,Hördur Bjorgvin Magnusson,a,3924,SetPiece,2019,Head,11210,Dinamo Moscow,CSKA Moscow,0,0,2020-06-27 16:00:00,Nikola Vlasic,Cross
+367175,37,BlockedShot,0.6859999847412109,0.6519999694824219,0.009793950244784355,Hördur Bjorgvin Magnusson,a,3924,OpenPlay,2019,LeftFoot,11210,Dinamo Moscow,CSKA Moscow,0,0,2020-06-27 16:00:00,Konstantin Maradishvili,Pass
+367704,25,MissedShots,0.9219999694824219,0.580999984741211,0.05283379927277565,Hördur Bjorgvin Magnusson,h,3924,FromCorner,2019,Head,11217,CSKA Moscow,Spartak Moscow,2,0,2020-06-30 17:30:00,Nikola Vlasic,Cross
+369629,18,MissedShots,0.8680000305175781,0.5659999847412109,0.3418689966201782,Hördur Bjorgvin Magnusson,a,3924,OpenPlay,2019,LeftFoot,11238,FC Orenburg,CSKA Moscow,0,4,2020-07-08 15:00:00,Fedor Chalov,Throughball
+371941,61,MissedShots,0.735,0.44799999237060545,0.04998460039496422,Hördur Bjorgvin Magnusson,a,3924,DirectFreekick,2019,LeftFoot,11250,Lokomotiv Moscow,CSKA Moscow,2,1,2020-07-16 17:30:00,,Standard
+375014,81,MissedShots,0.745,0.67,0.010267199948430061,Hördur Bjorgvin Magnusson,h,3924,OpenPlay,2020,LeftFoot,14010,CSKA Moscow,FC Tambov,2,1,2020-08-15 15:00:00,Ivan Oblyakov,Chipped
+375426,10,MissedShots,0.87,0.5429999923706055,0.017649099230766296,Hördur Bjorgvin Magnusson,a,3924,FromCorner,2020,Head,14020,Zenit St. Petersburg,CSKA Moscow,2,1,2020-08-19 17:00:00,Nikola Vlasic,Cross
+375448,88,MissedShots,0.899000015258789,0.5690000152587891,0.014176799915730953,Hördur Bjorgvin Magnusson,a,3924,FromCorner,2020,Head,14020,Zenit St. Petersburg,CSKA Moscow,2,1,2020-08-19 17:00:00,Ivan Oblyakov,Aerial
+375624,20,MissedShots,0.68,0.57,0.00988479983061552,Hördur Bjorgvin Magnusson,h,3924,OpenPlay,2020,LeftFoot,14025,CSKA Moscow,Rubin Kazan,1,2,2020-08-22 17:00:00,,None
+376972,29,Goal,0.9280000305175782,0.4159999847412109,0.07999999821186066,Hördur Bjorgvin Magnusson,h,3924,FromCorner,2020,Head,14230,CSKA Moscow,Spartak Moscow,3,1,2020-09-13 16:00:00,Ivan Oblyakov,Aerial
+386425,11,SavedShot,0.8530000305175781,0.46900001525878904,0.060719601809978485,Hördur Bjorgvin Magnusson,h,3924,FromCorner,2020,LeftFoot,14335,CSKA Moscow,FC Rostov,2,0,2020-11-08 13:30:00,,None
+389241,44,MissedShots,0.8630000305175781,0.3920000076293945,0.013353300280869007,Hördur Bjorgvin Magnusson,a,3924,FromCorner,2020,Head,14349,Rubin Kazan,CSKA Moscow,1,0,2020-11-29 13:30:00,Georgy Schennikov,Cross
+390882,10,SavedShot,0.8969999694824219,0.47200000762939454,0.05025479942560196,Hördur Bjorgvin Magnusson,h,3924,FromCorner,2020,Head,14358,CSKA Moscow,Khimki,2,2,2020-12-06 16:00:00,Nikola Vlasic,Cross
+390885,25,MissedShots,0.6840000152587891,0.4590000152587891,0.010854300111532211,Hördur Bjorgvin Magnusson,h,3924,OpenPlay,2020,LeftFoot,14358,CSKA Moscow,Khimki,2,2,2020-12-06 16:00:00,,None

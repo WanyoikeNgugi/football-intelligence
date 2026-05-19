@@ -1,0 +1,10 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+391485,47,BlockedShot,0.805,0.5409999847412109,0.07049459964036942,Eduardo Henrique,h,8839,OpenPlay,2020,RightFoot,15529,Crotone,Spezia,4,1,2020-12-12 14:00:00,,TakeOn
+391487,55,Goal,0.9580000305175781,0.555,0.6173200011253357,Eduardo Henrique,h,8839,OpenPlay,2020,RightFoot,15529,Crotone,Spezia,4,1,2020-12-12 14:00:00,Pedro Pereira,Pass
+398272,10,BlockedShot,0.705,0.48700000762939455,0.014303100295364857,Eduardo Henrique,a,8839,OpenPlay,2020,RightFoot,15595,Verona,Crotone,2,1,2021-01-10 14:00:00,Milos Vulic,Pass
+399366,75,MissedShots,0.7290000152587891,0.5570000076293945,0.04216820001602173,Eduardo Henrique,h,8839,OpenPlay,2020,RightFoot,15599,Crotone,Benevento,4,1,2021-01-17 14:00:00,Junior Messias,Chipped
+402066,69,MissedShots,0.870999984741211,0.5520000076293945,0.04177739843726158,Eduardo Henrique,h,8839,SetPiece,2020,Head,15616,Crotone,Genoa,0,3,2021-01-31 14:00:00,Junior Messias,Chipped
+403742,87,MissedShots,0.7719999694824219,0.7390000152587891,0.008702079765498638,Eduardo Henrique,a,8839,OpenPlay,2020,RightFoot,15628,AC Milan,Crotone,4,0,2021-02-07 14:00:00,Jacopo Petriccione,Chipped
+403744,88,BlockedShot,0.85,0.7019999694824218,0.02452070079743862,Eduardo Henrique,a,8839,OpenPlay,2020,RightFoot,15628,AC Milan,Crotone,4,0,2021-02-07 14:00:00,,TakeOn
+407291,52,BlockedShot,0.915,0.39299999237060546,0.03065750002861023,Eduardo Henrique,h,8839,OpenPlay,2020,Head,15658,Crotone,Cagliari,0,2,2021-02-28 14:00:00,Junior Messias,Chipped
+407297,85,MissedShots,0.9119999694824219,0.435,0.06863369792699814,Eduardo Henrique,h,8839,FromCorner,2020,Head,15658,Crotone,Cagliari,0,2,2021-02-28 14:00:00,Pedro Pereira,Cross

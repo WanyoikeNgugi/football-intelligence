@@ -1,0 +1,90 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+24928,69,MissedShots,0.9340000152587891,0.455,0.11597000062465668,Robin Knoche,a,161,FromCorner,2014,Head,5412,Hoffenheim,Wolfsburg,1,1,2014-09-13 14:30:00,Kevin De Bruyne,Cross
+26278,79,MissedShots,0.9159999847412109,0.48400001525878905,0.10164400190114975,Robin Knoche,h,161,SetPiece,2014,OtherBodyPart,5408,Wolfsburg,Mainz 05,3,0,2014-10-26 14:30:00,Kevin De Bruyne,Cross
+26616,45,Goal,0.9390000152587891,0.4779999923706055,0.4498179852962494,Robin Knoche,a,161,SetPiece,2014,Head,5350,VfB Stuttgart,Wolfsburg,0,4,2014-11-01 14:30:00,Kevin De Bruyne,Chipped
+27554,11,Goal,0.9780000305175781,0.54,0.6771209836006165,Robin Knoche,h,161,FromCorner,2014,RightFoot,5381,Wolfsburg,Borussia M.Gladbach,1,0,2014-11-30 14:30:00,,None
+28067,4,MissedShots,0.915,0.4779999923706055,0.044826898723840714,Robin Knoche,h,161,FromCorner,2014,Head,5345,Wolfsburg,FC Cologne,2,1,2014-12-20 17:30:00,Ricardo Rodríguez,Aerial
+29033,78,BlockedShot,0.9459999847412109,0.475,0.0785972997546196,Robin Knoche,h,161,FromCorner,2014,Head,5297,Wolfsburg,Hertha Berlin,2,1,2015-02-22 16:30:00,Kevin De Bruyne,Aerial
+30870,54,MissedShots,0.9230000305175782,0.5429999923706055,0.04928160086274147,Robin Knoche,h,161,FromCorner,2014,Head,5249,Wolfsburg,Freiburg,3,0,2015-03-15 14:30:00,Kevin De Bruyne,Aerial
+32315,3,MissedShots,0.92,0.5729999923706055,0.06923429667949677,Robin Knoche,h,161,FromCorner,2014,Head,5200,Wolfsburg,VfB Stuttgart,3,1,2015-04-04 14:30:00,Ricardo Rodríguez,Cross
+31377,85,BlockedShot,0.905,0.5640000152587891,0.018532700836658478,Robin Knoche,a,161,FromCorner,2014,Head,5210,Hamburger SV,Wolfsburg,0,2,2015-04-11 17:30:00,Marcel Schäfer,Aerial
+31760,35,SavedShot,0.8969999694824219,0.45799999237060546,0.01869410090148449,Robin Knoche,a,161,FromCorner,2014,Head,5186,FC Cologne,Wolfsburg,2,2,2015-05-23 14:30:00,Kevin De Bruyne,Aerial
+31768,60,OwnGoal,0.045999999046325686,0.5379999923706055,0,Robin Knoche,a,161,OpenPlay,2014,RightFoot,5186,FC Cologne,Wolfsburg,2,2,2015-05-23 14:30:00,,None
+80776,38,Goal,0.9730000305175781,0.5459999847412109,0.6595039963722229,Robin Knoche,h,161,FromCorner,2015,LeftFoot,1204,Wolfsburg,Ingolstadt,2,0,2016-02-13 18:30:00,,Rebound
+82227,62,MissedShots,0.8669999694824219,0.6179999923706054,0.011109599843621254,Robin Knoche,h,161,OpenPlay,2015,Head,1256,Wolfsburg,Darmstadt,1,1,2016-03-19 18:30:00,Vieirinha,Cross
+127483,82,MissedShots,0.889000015258789,0.55,0.041944101452827454,Robin Knoche,a,161,FromCorner,2016,Head,1328,Augsburg,Wolfsburg,0,2,2016-08-27 17:30:00,Julian Draxler,Cross
+127880,11,MissedShots,0.92,0.5609999847412109,0.046786099672317505,Robin Knoche,h,161,FromCorner,2016,Head,1337,Wolfsburg,FC Cologne,0,0,2016-09-10 17:30:00,,None
+128950,91,MissedShots,0.899000015258789,0.5570000076293945,0.051131900399923325,Robin Knoche,h,161,FromCorner,2016,Head,1379,Wolfsburg,Mainz 05,0,0,2016-10-02 17:30:00,Julian Draxler,Cross
+132581,72,MissedShots,0.8930000305175781,0.5570000076293945,0.0274238009005785,Robin Knoche,h,161,SetPiece,2016,Head,3756,Wolfsburg,Hoffenheim,2,1,2017-02-12 14:30:00,,None
+132136,55,MissedShots,0.914000015258789,0.629000015258789,0.0394493006169796,Robin Knoche,h,161,SetPiece,2016,RightFoot,3767,Wolfsburg,Werder Bremen,1,2,2017-02-24 19:30:00,Maximilian Arnold,Cross
+134538,11,MissedShots,0.9169999694824219,0.40599998474121096,0.03689569979906082,Robin Knoche,h,161,FromCorner,2016,OtherBodyPart,3795,Wolfsburg,Darmstadt,1,0,2017-03-18 14:30:00,Maximilian Arnold,Cross
+134542,30,MissedShots,0.9259999847412109,0.4759999847412109,0.11052899807691574,Robin Knoche,h,161,FromCorner,2016,Head,3795,Wolfsburg,Darmstadt,1,0,2017-03-18 14:30:00,Maximilian Arnold,Cross
+133952,47,MissedShots,0.9059999847412109,0.5429999923706055,0.052764199674129486,Robin Knoche,h,161,OpenPlay,2016,Head,3819,Wolfsburg,Freiburg,0,1,2017-04-05 19:00:00,,Aerial
+133960,72,SavedShot,0.8730000305175781,0.43099998474121093,0.041998300701379776,Robin Knoche,h,161,SetPiece,2016,Head,3819,Wolfsburg,Freiburg,0,1,2017-04-05 19:00:00,Maximilian Arnold,Chipped
+134407,22,SavedShot,0.9290000152587891,0.43599998474121093,0.03740150108933449,Robin Knoche,h,161,FromCorner,2016,Head,3854,Wolfsburg,Bayern Munich,0,6,2017-04-29 17:30:00,Ricardo Rodríguez,Aerial
+127912,22,Goal,0.915,0.46799999237060547,0.3414910137653351,Robin Knoche,a,161,OpenPlay,2016,Head,3879,Hamburger SV,Wolfsburg,2,1,2017-05-20 14:30:00,Sebastian Jung,Cross
+166785,38,MissedShots,0.9309999847412109,0.48700000762939455,0.12266600131988525,Robin Knoche,a,161,FromCorner,2017,Head,8290,VfB Stuttgart,Wolfsburg,1,0,2017-09-16 14:30:00,Maximilian Arnold,Cross
+166793,97,MissedShots,0.9159999847412109,0.585,0.07703989744186401,Robin Knoche,a,161,SetPiece,2017,LeftFoot,8290,VfB Stuttgart,Wolfsburg,1,0,2017-09-16 14:30:00,Maximilian Arnold,Cross
+201673,85,OwnGoal,0.017000000476837158,0.5070000076293946,0,Robin Knoche,h,161,SetPiece,2017,LeftFoot,8499,Wolfsburg,Schalke 04,0,1,2018-03-17 17:30:00,,Challenge
+204523,18,BlockedShot,0.9540000152587891,0.5609999847412109,0.4955739974975586,Robin Knoche,a,161,OpenPlay,2017,RightFoot,8505,Hertha Berlin,Wolfsburg,0,0,2018-03-31 14:30:00,Maximilian Arnold,Aerial
+208104,52,MissedShots,0.9,0.555,0.03334730118513107,Robin Knoche,h,161,SetPiece,2017,Head,8527,Wolfsburg,Augsburg,0,0,2018-04-13 18:30:00,,Aerial
+211624,2,BlockedShot,0.885,0.34200000762939453,0.007973999716341496,Robin Knoche,h,161,SetPiece,2017,Head,8546,Wolfsburg,Hamburger SV,1,3,2018-04-28 13:30:00,Maximilian Arnold,Aerial
+214717,70,Goal,0.9319999694824219,0.62,0.018859099596738815,Robin Knoche,h,161,SetPiece,2017,Head,8564,Wolfsburg,FC Cologne,4,1,2018-05-12 14:30:00,,Aerial
+224981,40,MissedShots,0.915,0.5579999923706055,0.08054420351982117,Robin Knoche,h,161,FromCorner,2018,Head,10368,Wolfsburg,Freiburg,1,3,2018-09-22 13:30:00,Admir Mehmedi,Cross
+226767,52,MissedShots,0.9,0.4420000076293945,0.02201000042259693,Robin Knoche,a,161,FromCorner,2018,Head,10381,Mainz 05,Wolfsburg,0,0,2018-09-26 18:30:00,Jérôme Roussillon,Aerial
+255200,73,SavedShot,0.915,0.5690000152587891,0.0965626984834671,Robin Knoche,a,161,SetPiece,2018,Head,10395,Werder Bremen,Wolfsburg,2,0,2018-10-05 18:30:00,Josip Brekalo,Cross
+256924,57,BlockedShot,0.9319999694824219,0.57,0.08870889991521835,Robin Knoche,a,161,SetPiece,2018,RightFoot,10449,Eintracht Frankfurt,Wolfsburg,1,2,2018-12-02 17:00:00,Maximilian Arnold,Cross
+257233,10,MissedShots,0.9290000152587891,0.6619999694824219,0.011061100289225578,Robin Knoche,a,161,FromCorner,2018,Head,10471,Nuernberg,Wolfsburg,0,2,2018-12-14 19:30:00,Maximilian Arnold,Aerial
+257526,92,MissedShots,0.87,0.545,0.011296899989247322,Robin Knoche,h,161,SetPiece,2018,Head,10477,Wolfsburg,VfB Stuttgart,2,0,2018-12-18 19:30:00,Renato Steffen,Aerial
+257834,44,MissedShots,0.8959999847412109,0.509000015258789,0.21973100304603577,Robin Knoche,a,161,SetPiece,2018,Head,10488,Augsburg,Wolfsburg,2,3,2018-12-23 14:30:00,Wout Weghorst,Cross
+279265,75,Goal,0.93,0.5529999923706055,0.5412359833717346,Robin Knoche,h,161,SetPiece,2018,LeftFoot,10532,Wolfsburg,Mainz 05,3,0,2019-02-16 14:30:00,Yannick Gerhardt,Rebound
+286138,56,Goal,0.9580000305175781,0.5370000076293945,0.5355629920959473,Robin Knoche,h,161,FromCorner,2018,LeftFoot,10566,Wolfsburg,Fortuna Duesseldorf,5,2,2019-03-16 14:30:00,Wout Weghorst,HeadPass
+293456,75,MissedShots,0.9059999847412109,0.4540000152587891,0.07730670273303986,Robin Knoche,a,161,FromCorner,2018,Head,10591,RasenBallsport Leipzig,Wolfsburg,2,0,2019-04-13 14:30:00,Jérôme Roussillon,Cross
+296421,56,ShotOnPost,0.9309999847412109,0.44599998474121094,0.32973799109458923,Robin Knoche,h,161,FromCorner,2018,Head,10605,Wolfsburg,Eintracht Frankfurt,1,1,2019-04-22 19:30:00,Admir Mehmedi,Cross
+296428,65,BlockedShot,0.91,0.48700000762939455,0.03481689840555191,Robin Knoche,h,161,FromCorner,2018,Head,10605,Wolfsburg,Eintracht Frankfurt,1,1,2019-04-22 19:30:00,Admir Mehmedi,Aerial
+298130,26,SavedShot,0.9390000152587891,0.54,0.47348201274871826,Robin Knoche,a,161,SetPiece,2018,Head,10608,Hoffenheim,Wolfsburg,1,4,2019-04-28 14:30:00,Felix Klaus,HeadPass
+302278,40,Goal,0.93,0.504000015258789,0.1220019981265068,Robin Knoche,h,161,FromCorner,2018,Head,10641,Wolfsburg,Augsburg,8,1,2019-05-18 13:30:00,Maximilian Arnold,Cross
+324882,5,BlockedShot,0.8859999847412109,0.5509999847412109,0.08311360329389572,Robin Knoche,h,161,FromCorner,2019,RightFoot,12463,Wolfsburg,Union Berlin,1,0,2019-10-06 14:30:00,,None
+337650,32,SavedShot,0.8930000305175781,0.5670000076293945,0.04905650019645691,Robin Knoche,h,161,FromCorner,2019,Head,12530,Wolfsburg,Borussia M.Gladbach,2,1,2019-12-15 14:30:00,Xaver Schlager,Cross
+355691,34,MissedShots,0.9130000305175782,0.5920000076293945,0.043104398995637894,Robin Knoche,h,161,FromCorner,2019,Head,12569,Wolfsburg,Hertha Berlin,1,2,2020-01-25 14:30:00,Maximilian Arnold,Cross
+357292,25,Goal,0.9219999694824219,0.4640000152587891,0.11547400057315826,Robin Knoche,a,161,SetPiece,2019,Head,12582,Paderborn,Wolfsburg,2,4,2020-02-02 17:00:00,Maximilian Arnold,Cross
+385881,9,MissedShots,0.914000015258789,0.5220000076293946,0.09229850023984909,Robin Knoche,h,161,FromCorner,2020,Head,15197,Union Berlin,Arminia Bielefeld,5,0,2020-11-07 14:30:00,Christopher Trimmel,Cross
+388651,48,MissedShots,0.93,0.5429999923706055,0.10576599836349487,Robin Knoche,h,161,FromCorner,2020,RightFoot,15217,Union Berlin,Eintracht Frankfurt,3,3,2020-11-28 14:30:00,Christopher Trimmel,Cross
+392628,42,BlockedShot,0.884000015258789,0.40599998474121096,0.024425899609923363,Robin Knoche,a,161,OpenPlay,2020,Head,15244,VfB Stuttgart,Union Berlin,2,2,2020-12-15 19:30:00,Christopher Trimmel,Aerial
+398769,25,MissedShots,0.855999984741211,0.49599998474121093,0.04000670090317726,Robin Knoche,h,161,SetPiece,2020,Head,15280,Union Berlin,Bayer Leverkusen,1,0,2021-01-15 19:30:00,Christopher Trimmel,Chipped
+400389,45,SavedShot,0.879000015258789,0.48400001525878905,0.015417899936437607,Robin Knoche,a,161,SetPiece,2020,Head,15300,Augsburg,Union Berlin,2,1,2021-01-23 14:30:00,Christopher Trimmel,Aerial
+401568,30,Goal,0.9,0.45799999237060546,0.06274440139532089,Robin Knoche,h,161,SetPiece,2020,Head,15307,Union Berlin,Borussia M.Gladbach,1,1,2021-01-30 14:30:00,Marcus Ingvartsen,Chipped
+401585,92,MissedShots,0.8569999694824219,0.48200000762939454,0.009767640382051468,Robin Knoche,h,161,SetPiece,2020,Head,15307,Union Berlin,Borussia M.Gladbach,1,1,2021-01-30 14:30:00,Marcus Ingvartsen,Aerial
+403138,38,MissedShots,0.8440000152587891,0.46099998474121096,0.02218559943139553,Robin Knoche,a,161,SetPiece,2020,Head,15317,Mainz 05,Union Berlin,1,0,2021-02-06 14:30:00,Marcus Ingvartsen,Cross
+411338,0,BlockedShot,0.9119999694824219,0.48700000762939455,0.0873216986656189,Robin Knoche,a,161,FromCorner,2020,RightFoot,15368,Eintracht Frankfurt,Union Berlin,5,2,2021-03-20 14:30:00,Christopher Trimmel,Cross
+411371,92,SavedShot,0.96,0.5459999847412109,0.6216859817504883,Robin Knoche,a,161,OpenPlay,2020,LeftFoot,15368,Eintracht Frankfurt,Union Berlin,5,2,2021-03-20 14:30:00,Keita Endo,Pass
+413284,53,MissedShots,0.8519999694824218,0.485,0.027684999629855156,Robin Knoche,h,161,SetPiece,2020,Head,15379,Union Berlin,Hertha Berlin,1,1,2021-04-04 16:00:00,Christopher Trimmel,Cross
+417127,77,SavedShot,0.8569999694824219,0.5209999847412109,0.018387800082564354,Robin Knoche,h,161,FromCorner,2020,Head,15415,Union Berlin,Werder Bremen,3,1,2021-04-24 13:30:00,Christopher Lenz,Cross
+429227,38,BlockedShot,0.8969999694824219,0.49400001525878906,0.02811810001730919,Robin Knoche,h,161,FromCorner,2021,Head,17541,Union Berlin,Borussia M.Gladbach,2,1,2021-08-29 13:30:00,Paul Jäckel,Aerial
+435572,74,MissedShots,0.87,0.539000015258789,0.07190100103616714,Robin Knoche,a,161,SetPiece,2021,RightFoot,17573,Mainz 05,Union Berlin,1,2,2021-10-03 13:30:00,,None
+449056,81,MissedShots,0.840999984741211,0.54,0.008483880199491978,Robin Knoche,h,161,SetPiece,2021,Head,17656,Union Berlin,Freiburg,0,0,2021-12-15 19:30:00,Niko Gießelmann,Aerial
+449456,75,MissedShots,0.8480000305175781,0.4379999923706055,0.01869099959731102,Robin Knoche,a,161,SetPiece,2021,Head,17661,Bochum,Union Berlin,0,1,2021-12-18 14:30:00,Christopher Trimmel,Cross
+460928,50,MissedShots,0.8780000305175781,0.54,0.031241899356245995,Robin Knoche,a,161,FromCorner,2021,Head,17738,Wolfsburg,Union Berlin,1,0,2022-03-05 14:30:00,Bastian Oczipka,Cross
+462429,79,MissedShots,0.92,0.48700000762939455,0.12292099744081497,Robin Knoche,h,161,SetPiece,2021,Head,17746,Union Berlin,VfB Stuttgart,1,1,2022-03-12 14:30:00,Christopher Trimmel,Cross
+464128,20,SavedShot,0.9030000305175782,0.5129999923706055,0.07808709889650345,Robin Knoche,a,161,SetPiece,2021,RightFoot,17758,Bayern Munich,Union Berlin,4,0,2022-03-19 17:30:00,Bastian Oczipka,Cross
+464139,48,MissedShots,0.9059999847412109,0.5029999923706054,0.0921282023191452,Robin Knoche,a,161,FromCorner,2021,RightFoot,17758,Bayern Munich,Union Berlin,4,0,2022-03-19 17:30:00,Paul Jäckel,BallTouch
+464140,51,SavedShot,0.92,0.46599998474121096,0.05925149843096733,Robin Knoche,a,161,SetPiece,2021,Head,17758,Bayern Munich,Union Berlin,4,0,2022-03-19 17:30:00,Bastian Oczipka,Aerial
+475652,66,SavedShot,0.899000015258789,0.5779999923706055,0.014672299847006798,Robin Knoche,h,161,FromCorner,2021,Head,17818,Union Berlin,Bochum,3,2,2022-05-14 13:30:00,Christopher Trimmel,Aerial
+479135,53,Goal,0.8530000305175781,0.590999984741211,0.01278380025178194,Robin Knoche,h,161,FromCorner,2022,Head,19343,Union Berlin,Hertha Berlin,3,1,2022-08-06 13:30:00,Christopher Trimmel,Cross
+488011,8,BlockedShot,0.8769999694824219,0.5779999923706055,0.021916499361395836,Robin Knoche,a,161,FromCorner,2022,Head,19394,FC Cologne,Union Berlin,0,1,2022-09-11 13:30:00,Christopher Trimmel,Cross
+492475,5,MissedShots,0.8909999847412109,0.5640000152587891,0.0355788990855217,Robin Knoche,a,161,FromCorner,2022,RightFoot,19421,VfB Stuttgart,Union Berlin,0,1,2022-10-09 17:30:00,,Aerial
+500804,8,ShotOnPost,0.885,0.5,0.7577769756317139,Robin Knoche,a,161,Penalty,2022,RightFoot,19469,Freiburg,Union Berlin,4,1,2022-11-13 16:30:00,,Standard
+504565,47,BlockedShot,0.875,0.4779999923706055,0.06821580231189728,Robin Knoche,h,161,FromCorner,2022,LeftFoot,19479,Union Berlin,Hoffenheim,3,1,2023-01-21 14:30:00,Genki Haraguchi,Pass
+504574,71,MissedShots,0.9269999694824219,0.635,0.02051050029695034,Robin Knoche,h,161,FromCorner,2022,Head,19479,Union Berlin,Hoffenheim,3,1,2023-01-21 14:30:00,Niko Gießelmann,Cross
+508629,71,Goal,0.885,0.5,0.7577769756317139,Robin Knoche,a,161,Penalty,2022,RightFoot,19514,RasenBallsport Leipzig,Union Berlin,1,2,2023-02-11 17:30:00,,Standard
+514369,73,MissedShots,0.8980000305175782,0.6780000305175782,0.05694510042667389,Robin Knoche,a,161,SetPiece,2022,LeftFoot,19554,Wolfsburg,Union Berlin,1,1,2023-03-12 18:30:00,Josip Juranovic,Chipped
+514375,91,MissedShots,0.8809999847412109,0.6190000152587891,0.06969580054283142,Robin Knoche,a,161,FromCorner,2022,LeftFoot,19554,Wolfsburg,Union Berlin,1,1,2023-03-12 18:30:00,,Rebound
+537513,78,SavedShot,0.8869999694824219,0.28200000762939453,0.007314247079193592,Robin Knoche,a,161,SetPiece,2023,Head,23095,Wolfsburg,Union Berlin,2,1,2023-09-16 13:30:00,Josip Juranovic,Aerial
+545401,37,OwnGoal,0.07,0.49900001525878906,0,Robin Knoche,a,161,SetPiece,2023,Head,23142,Werder Bremen,Union Berlin,2,0,2023-10-28 13:30:00,,Error
+549642,3,SavedShot,0.91,0.4520000076293945,0.29685840010643005,Robin Knoche,h,161,SetPiece,2023,Head,23165,Union Berlin,Augsburg,1,1,2023-11-25 14:30:00,Kevin Volland,Chipped
+549659,57,SavedShot,0.885,0.5,0.75777667760849,Robin Knoche,h,161,Penalty,2023,RightFoot,23165,Union Berlin,Augsburg,1,1,2023-11-25 14:30:00,,Standard
+554221,50,MissedShots,0.9059999847412109,0.455,0.06885587424039841,Robin Knoche,a,161,FromCorner,2023,LeftFoot,23197,Bochum,Union Berlin,3,0,2023-12-16 14:30:00,Josip Juranovic,Cross
+560278,47,BlockedShot,0.9169999694824219,0.5690000152587891,0.12060227990150452,Robin Knoche,h,161,FromCorner,2023,RightFoot,23228,Union Berlin,Darmstadt,1,0,2024-01-28 14:30:00,,Rebound
+577334,69,MissedShots,0.8969999694824219,0.525,0.02010219730436802,Robin Knoche,a,161,FromCorner,2023,Head,23340,Borussia M.Gladbach,Union Berlin,0,0,2024-04-28 13:30:00,Josip Juranovic,Aerial
+579711,14,Goal,0.9130000305175782,0.47,0.08760075271129608,Robin Knoche,a,161,FromCorner,2023,Head,23358,FC Cologne,Union Berlin,3,2,2024-05-11 13:30:00,Christopher Trimmel,Cross
+579732,85,MissedShots,0.8969999694824219,0.42400001525878905,0.0369509682059288,Robin Knoche,a,161,FromCorner,2023,Head,23358,FC Cologne,Union Berlin,3,2,2024-05-11 13:30:00,Josip Juranovic,Cross

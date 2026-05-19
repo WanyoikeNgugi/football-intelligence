@@ -1,0 +1,16 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+544549,7,MissedShots,0.9730000305175781,0.600999984741211,0.13625919818878174,Antoine Makoumbou,a,11957,OpenPlay,2023,RightFoot,22388,Salernitana,Cagliari,2,2,2023-10-22 13:00:00,Gaetano Oristanio,BallTouch
+545820,75,Goal,0.850999984741211,0.5220000076293946,0.3070511519908905,Antoine Makoumbou,h,11957,OpenPlay,2023,RightFoot,22395,Cagliari,Frosinone,4,3,2023-10-29 11:30:00,,BallRecovery
+547321,64,BlockedShot,0.7180000305175781,0.38,0.013385413214564323,Antoine Makoumbou,h,11957,OpenPlay,2023,RightFoot,22407,Cagliari,Genoa,2,1,2023-11-05 14:00:00,Gabriele Zappa,Pass
+559191,83,MissedShots,0.8240000152587891,0.6090000152587891,0.04200351983308792,Antoine Makoumbou,a,11957,OpenPlay,2023,RightFoot,22508,Frosinone,Cagliari,3,1,2024-01-21 11:30:00,Gabriele Zappa,Pass
+562327,45,MissedShots,0.7190000152587891,0.525,0.016315018758177757,Antoine Makoumbou,h,11957,OpenPlay,2023,LeftFoot,22536,Cagliari,Lazio,1,3,2024-02-10 14:00:00,Gianluca Gaetano,Pass
+562335,59,SavedShot,0.865999984741211,0.3340000152587891,0.04184523969888687,Antoine Makoumbou,h,11957,OpenPlay,2023,RightFoot,22536,Cagliari,Lazio,1,3,2024-02-10 14:00:00,Nahitan Nández,Chipped
+573095,32,MissedShots,0.8619999694824219,0.6630000305175782,0.045077186077833176,Antoine Makoumbou,h,11957,OpenPlay,2023,RightFoot,22613,Cagliari,Atalanta,2,1,2024-04-07 16:00:00,,None
+578761,26,MissedShots,0.720999984741211,0.519000015258789,0.020997727289795876,Antoine Makoumbou,h,11957,OpenPlay,2023,RightFoot,22645,Cagliari,Lecce,1,1,2024-05-05 10:30:00,,None
+594991,2,BlockedShot,0.8119999694824219,0.5120000076293946,0.0370190404355526,Antoine Makoumbou,a,11957,FromCorner,2024,RightFoot,27419,Parma Calcio 1913,Cagliari,2,3,2024-09-30 18:45:00,,None
+597800,22,BlockedShot,0.749000015258789,0.725,0.013056835159659386,Antoine Makoumbou,h,11957,OpenPlay,2024,RightFoot,27432,Cagliari,Torino,3,2,2024-10-20 16:00:00,,BallRecovery
+601040,16,MissedShots,0.8290000152587891,0.3029999923706055,0.02809455618262291,Antoine Makoumbou,a,11957,OpenPlay,2024,RightFoot,27471,Lazio,Cagliari,2,1,2024-11-04 19:45:00,Gabriele Zappa,Pass
+601624,40,BlockedShot,0.8019999694824219,0.29399999618530276,0.021510599181056023,Antoine Makoumbou,h,11957,OpenPlay,2024,RightFoot,27478,Cagliari,AC Milan,3,3,2024-11-09 17:00:00,,None
+601632,57,BlockedShot,0.759000015258789,0.3890000152587891,0.01178116723895073,Antoine Makoumbou,h,11957,OpenPlay,2024,RightFoot,27478,Cagliari,AC Milan,3,3,2024-11-09 17:00:00,,Aerial
+606196,10,BlockedShot,0.8440000152587891,0.47400001525878904,0.061667632311582565,Antoine Makoumbou,a,11957,OpenPlay,2024,RightFoot,27504,Fiorentina,Cagliari,1,0,2024-12-08 11:30:00,,Rebound
+619290,35,BlockedShot,0.8080000305175781,0.6990000152587891,0.023101110011339188,Antoine Makoumbou,h,11957,OpenPlay,2024,RightFoot,27621,Cagliari,Juventus,0,1,2025-02-23 19:45:00,Tommaso Augello,Pass

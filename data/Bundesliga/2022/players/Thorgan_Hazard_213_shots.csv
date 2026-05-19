@@ -1,0 +1,361 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+24405,69,SavedShot,0.8780000305175781,0.6930000305175781,0.040745701640844345,Thorgan Hazard,h,213,OpenPlay,2014,LeftFoot,5455,Borussia M.Gladbach,VfB Stuttgart,1,1,2014-08-24 16:30:00,Granit Xhaka,Pass
+24408,73,ShotOnPost,0.8819999694824219,0.3629999923706055,0.2572619915008545,Thorgan Hazard,h,213,OpenPlay,2014,RightFoot,5455,Borussia M.Gladbach,VfB Stuttgart,1,1,2014-08-24 16:30:00,Christoph Kramer,Chipped
+25354,23,BlockedShot,0.6980000305175781,0.6309999847412109,0.011540699750185013,Thorgan Hazard,h,213,OpenPlay,2014,RightFoot,5435,Borussia M.Gladbach,Hamburger SV,1,0,2014-09-24 19:00:00,Max Kruse,Pass
+25364,41,BlockedShot,0.6909999847412109,0.6509999847412109,0.013049899600446224,Thorgan Hazard,h,213,SetPiece,2014,RightFoot,5435,Borussia M.Gladbach,Hamburger SV,1,0,2014-09-24 19:00:00,Raffael,Pass
+25850,84,SavedShot,0.865,0.6659999847412109,0.32652899622917175,Thorgan Hazard,h,213,OpenPlay,2014,RightFoot,5391,Borussia M.Gladbach,Mainz 05,1,1,2014-10-05 16:30:00,Granit Xhaka,Throughball
+27006,79,MissedShots,0.7240000152587891,0.47,0.01509649958461523,Thorgan Hazard,h,213,OpenPlay,2014,LeftFoot,5367,Borussia M.Gladbach,Eintracht Frankfurt,1,3,2014-11-22 14:30:00,Raffael,Pass
+27288,76,BlockedShot,0.895,0.27899999618530275,0.05361609905958176,Thorgan Hazard,h,213,OpenPlay,2014,RightFoot,5313,Borussia M.Gladbach,Hertha Berlin,3,2,2014-12-06 14:30:00,Max Kruse,Pass
+27292,82,Goal,0.97,0.45,0.7502070069313049,Thorgan Hazard,h,213,OpenPlay,2014,LeftFoot,5313,Borussia M.Gladbach,Hertha Berlin,3,2,2014-12-06 14:30:00,,Rebound
+28190,65,SavedShot,0.92,0.28100000381469725,0.0413983017206192,Thorgan Hazard,a,213,OpenPlay,2014,RightFoot,5340,Augsburg,Borussia M.Gladbach,2,1,2014-12-20 14:30:00,Julian Korb,Chipped
+28198,85,BlockedShot,0.9369999694824219,0.43900001525878907,0.5264790058135986,Thorgan Hazard,a,213,OpenPlay,2014,RightFoot,5340,Augsburg,Borussia M.Gladbach,2,1,2014-12-20 14:30:00,Ibrahima Traoré,Pass
+29278,86,BlockedShot,0.8969999694824219,0.41,0.04471629858016968,Thorgan Hazard,a,213,OpenPlay,2014,Head,5271,Schalke 04,Borussia M.Gladbach,1,0,2015-02-06 19:30:00,Tony Jantschke,Cross
+29579,81,MissedShots,0.925,0.8119999694824219,0.07091739773750305,Thorgan Hazard,a,213,DirectFreekick,2014,RightFoot,5296,Hamburger SV,Borussia M.Gladbach,1,1,2015-02-22 14:30:00,,Standard
+29582,87,MissedShots,0.7759999847412109,0.7330000305175781,0.01825989969074726,Thorgan Hazard,a,213,FromCorner,2014,RightFoot,5296,Hamburger SV,Borussia M.Gladbach,1,1,2015-02-22 14:30:00,Håvard Nordtveit,Pass
+30984,54,MissedShots,0.8690000152587891,0.43,0.08098629862070084,Thorgan Hazard,h,213,OpenPlay,2014,RightFoot,5250,Borussia M.Gladbach,Hannover 96,2,0,2015-03-15 16:30:00,Oscar Wendt,Chipped
+30988,59,MissedShots,0.74,0.47900001525878905,0.024003399536013603,Thorgan Hazard,h,213,OpenPlay,2014,RightFoot,5250,Borussia M.Gladbach,Hannover 96,2,0,2015-03-15 16:30:00,Raffael,Pass
+30961,81,SavedShot,0.759000015258789,0.6079999923706054,0.03061950020492077,Thorgan Hazard,h,213,OpenPlay,2014,RightFoot,5207,Borussia M.Gladbach,Borussia Dortmund,3,1,2015-04-11 14:30:00,Max Kruse,TakeOn
+32179,91,SavedShot,0.9169999694824219,0.3629999923706055,0.0909591019153595,Thorgan Hazard,a,213,OpenPlay,2014,RightFoot,5213,Eintracht Frankfurt,Borussia M.Gladbach,0,0,2015-04-17 19:30:00,Ibrahima Traoré,Pass
+31023,91,MissedShots,0.89,0.6179999923706054,0.10355299711227417,Thorgan Hazard,a,213,OpenPlay,2014,RightFoot,5167,Hertha Berlin,Borussia M.Gladbach,1,2,2015-05-03 16:30:00,Max Kruse,Pass
+30714,81,MissedShots,0.825,0.495,0.07203499972820282,Thorgan Hazard,a,213,OpenPlay,2014,RightFoot,5182,Werder Bremen,Borussia M.Gladbach,0,2,2015-05-16 14:30:00,Raffael,TakeOn
+31244,46,BlockedShot,0.7390000152587891,0.5570000076293945,0.05907459929585457,Thorgan Hazard,h,213,DirectFreekick,2014,RightFoot,5191,Borussia M.Gladbach,Augsburg,1,3,2015-05-23 14:30:00,,Standard
+76347,44,MissedShots,0.88,0.4490000152587891,0.3489550054073334,Thorgan Hazard,h,213,OpenPlay,2015,RightFoot,1038,Borussia M.Gladbach,Mainz 05,1,2,2015-08-23 19:30:00,Granit Xhaka,Pass
+76353,64,SavedShot,0.879000015258789,0.6669999694824219,0.1638769954442978,Thorgan Hazard,h,213,OpenPlay,2015,RightFoot,1038,Borussia M.Gladbach,Mainz 05,1,2,2015-08-23 19:30:00,Granit Xhaka,Pass
+76356,74,MissedShots,0.8430000305175781,0.7609999847412109,0.025369200855493546,Thorgan Hazard,h,213,OpenPlay,2015,RightFoot,1038,Borussia M.Gladbach,Mainz 05,1,2,2015-08-23 19:30:00,Patrick Herrmann,Pass
+76834,26,BlockedShot,0.8109999847412109,0.7809999847412109,0.013599200174212456,Thorgan Hazard,h,213,OpenPlay,2015,RightFoot,1048,Borussia M.Gladbach,Hamburger SV,0,3,2015-09-11 22:30:00,Håvard Nordtveit,TakeOn
+76839,36,BlockedShot,0.7040000152587891,0.5990000152587891,0.014559299685060978,Thorgan Hazard,h,213,OpenPlay,2015,RightFoot,1048,Borussia M.Gladbach,Hamburger SV,0,3,2015-09-11 22:30:00,Oscar Wendt,Pass
+78737,89,SavedShot,0.909000015258789,0.47200000762939454,0.10111299902200699,Thorgan Hazard,h,213,OpenPlay,2015,RightFoot,1124,Borussia M.Gladbach,Ingolstadt,0,0,2015-11-07 18:30:00,Oscar Wendt,Cross
+78738,90,MissedShots,0.9690000152587891,0.39599998474121095,0.07870560139417648,Thorgan Hazard,h,213,OpenPlay,2015,RightFoot,1124,Borussia M.Gladbach,Ingolstadt,0,0,2015-11-07 18:30:00,Håvard Nordtveit,Cross
+79280,80,SavedShot,0.785,0.7440000152587891,0.017655599862337112,Thorgan Hazard,a,213,OpenPlay,2015,RightFoot,1141,Hoffenheim,Borussia M.Gladbach,3,3,2015-11-28 18:30:00,Fabian Johnson,Pass
+79870,46,BlockedShot,0.825999984741211,0.2720000076293945,0.02603830024600029,Thorgan Hazard,h,213,OpenPlay,2015,RightFoot,1173,Borussia M.Gladbach,Darmstadt,3,2,2015-12-20 20:30:00,Raffael,Pass
+79873,53,MissedShots,0.68,0.40099998474121096,0.014754300005733967,Thorgan Hazard,h,213,OpenPlay,2015,RightFoot,1173,Borussia M.Gladbach,Darmstadt,3,2,2015-12-20 20:30:00,Lars Stindl,Pass
+80496,83,MissedShots,0.7769999694824219,0.7119999694824218,0.010532800108194351,Thorgan Hazard,a,213,OpenPlay,2015,RightFoot,1183,Mainz 05,Borussia M.Gladbach,1,0,2016-01-29 23:30:00,Håvard Nordtveit,Chipped
+80570,28,MissedShots,0.9459999847412109,0.34299999237060547,0.09742610156536102,Thorgan Hazard,h,213,OpenPlay,2015,LeftFoot,1192,Borussia M.Gladbach,Werder Bremen,5,1,2016-02-05 23:30:00,Mahmoud Dahoud,Pass
+80803,61,BlockedShot,0.87,0.720999984741211,0.03108859993517399,Thorgan Hazard,a,213,OpenPlay,2015,RightFoot,1208,Hamburger SV,Borussia M.Gladbach,3,2,2016-02-14 18:30:00,Ibrahima Traoré,Pass
+80807,73,MissedShots,0.9480000305175781,0.585,0.4701859951019287,Thorgan Hazard,a,213,OpenPlay,2015,RightFoot,1208,Hamburger SV,Borussia M.Gladbach,3,2,2016-02-14 18:30:00,,None
+81074,36,MissedShots,0.8719999694824219,0.6170000076293946,0.09886179864406586,Thorgan Hazard,h,213,OpenPlay,2015,RightFoot,1215,Borussia M.Gladbach,FC Cologne,1,0,2016-02-20 18:30:00,Lars Stindl,Pass
+81324,10,BlockedShot,0.835,0.46,0.0703928992152214,Thorgan Hazard,a,213,OpenPlay,2015,LeftFoot,1224,Augsburg,Borussia M.Gladbach,2,2,2016-02-28 18:30:00,Raffael,BlockedPass
+81328,13,SavedShot,0.9459999847412109,0.5059999847412109,0.6248270273208618,Thorgan Hazard,a,213,OpenPlay,2015,RightFoot,1224,Augsburg,Borussia M.Gladbach,2,2,2016-02-28 18:30:00,,Rebound
+81327,13,SavedShot,0.9369999694824219,0.505,0.5929660201072693,Thorgan Hazard,a,213,OpenPlay,2015,RightFoot,1224,Augsburg,Borussia M.Gladbach,2,2,2016-02-28 18:30:00,Oscar Wendt,Pass
+81339,41,SavedShot,0.875999984741211,0.6519999694824219,0.17928999662399292,Thorgan Hazard,a,213,OpenPlay,2015,LeftFoot,1224,Augsburg,Borussia M.Gladbach,2,2,2016-02-28 18:30:00,Raffael,TakeOn
+81535,5,BlockedShot,0.8930000305175781,0.29200000762939454,0.09935429692268372,Thorgan Hazard,h,213,OpenPlay,2015,LeftFoot,1236,Borussia M.Gladbach,VfB Stuttgart,4,0,2016-03-02 23:00:00,Håvard Nordtveit,Chipped
+81539,15,Goal,0.975,0.4779999923706055,0.8895459771156311,Thorgan Hazard,h,213,OpenPlay,2015,RightFoot,1236,Borussia M.Gladbach,VfB Stuttgart,4,0,2016-03-02 23:00:00,Fabian Johnson,Pass
+81542,42,SavedShot,0.8719999694824219,0.5179999923706055,0.08112409710884094,Thorgan Hazard,h,213,OpenPlay,2015,LeftFoot,1236,Borussia M.Gladbach,VfB Stuttgart,4,0,2016-03-02 23:00:00,Mahmoud Dahoud,Rebound
+81541,42,SavedShot,0.875,0.4809999847412109,0.1032940000295639,Thorgan Hazard,h,213,OpenPlay,2015,RightFoot,1236,Borussia M.Gladbach,VfB Stuttgart,4,0,2016-03-02 23:00:00,,None
+81547,57,MissedShots,0.8630000305175781,0.6990000152587891,0.05387590080499649,Thorgan Hazard,h,213,OpenPlay,2015,RightFoot,1236,Borussia M.Gladbach,VfB Stuttgart,4,0,2016-03-02 23:00:00,Lars Stindl,Pass
+81717,52,BlockedShot,0.7380000305175781,0.28600000381469726,0.015625199303030968,Thorgan Hazard,a,213,OpenPlay,2015,RightFoot,1242,Wolfsburg,Borussia M.Gladbach,2,1,2016-03-05 18:30:00,Raffael,Pass
+81723,70,BlockedShot,0.8930000305175781,0.495,0.060740601271390915,Thorgan Hazard,a,213,SetPiece,2015,RightFoot,1242,Wolfsburg,Borussia M.Gladbach,2,1,2016-03-05 18:30:00,Patrick Herrmann,Aerial
+82010,19,MissedShots,0.9319999694824219,0.20200000762939452,0.02733919955790043,Thorgan Hazard,h,213,OpenPlay,2015,RightFoot,1250,Borussia M.Gladbach,Eintracht Frankfurt,3,0,2016-03-12 18:30:00,Granit Xhaka,Chipped
+82014,28,MissedShots,0.9169999694824219,0.5179999923706055,0.13985100388526917,Thorgan Hazard,h,213,OpenPlay,2015,RightFoot,1250,Borussia M.Gladbach,Eintracht Frankfurt,3,0,2016-03-12 18:30:00,Martin Hinteregger,Rebound
+82018,50,SavedShot,0.92,0.2589999961853027,0.05427980050444603,Thorgan Hazard,h,213,OpenPlay,2015,RightFoot,1250,Borussia M.Gladbach,Eintracht Frankfurt,3,0,2016-03-12 18:30:00,Fabian Johnson,Chipped
+82182,14,SavedShot,0.8490000152587891,0.34799999237060547,0.05462789908051491,Thorgan Hazard,a,213,OpenPlay,2015,LeftFoot,1255,Schalke 04,Borussia M.Gladbach,2,1,2016-03-18 23:30:00,Lars Stindl,Pass
+82183,17,MissedShots,0.8490000152587891,0.33099998474121095,0.04454150050878525,Thorgan Hazard,a,213,OpenPlay,2015,LeftFoot,1255,Schalke 04,Borussia M.Gladbach,2,1,2016-03-18 23:30:00,Raffael,TakeOn
+82194,46,SavedShot,0.8030000305175782,0.4879999923706055,0.043119799345731735,Thorgan Hazard,a,213,OpenPlay,2015,RightFoot,1255,Schalke 04,Borussia M.Gladbach,2,1,2016-03-18 23:30:00,Lars Stindl,Pass
+82476,13,Goal,0.8680000305175781,0.5609999847412109,0.33995500206947327,Thorgan Hazard,h,213,OpenPlay,2015,LeftFoot,1271,Borussia M.Gladbach,Hertha Berlin,5,0,2016-04-03 17:30:00,Mahmoud Dahoud,Pass
+82482,39,BlockedShot,0.86,0.5729999923706055,0.22953100502490997,Thorgan Hazard,h,213,OpenPlay,2015,RightFoot,1271,Borussia M.Gladbach,Hertha Berlin,5,0,2016-04-03 17:30:00,Granit Xhaka,TakeOn
+82483,41,SavedShot,0.8959999847412109,0.67,0.08492279797792435,Thorgan Hazard,h,213,OpenPlay,2015,LeftFoot,1271,Borussia M.Gladbach,Hertha Berlin,5,0,2016-04-03 17:30:00,Lars Stindl,Pass
+82487,57,BlockedShot,0.8059999847412109,0.5359999847412109,0.05509129911661148,Thorgan Hazard,h,213,OpenPlay,2015,RightFoot,1271,Borussia M.Gladbach,Hertha Berlin,5,0,2016-04-03 17:30:00,Granit Xhaka,Pass
+82493,75,SavedShot,0.9319999694824219,0.68,0.13570000231266022,Thorgan Hazard,h,213,OpenPlay,2015,RightFoot,1271,Borussia M.Gladbach,Hertha Berlin,5,0,2016-04-03 17:30:00,Patrick Herrmann,Chipped
+82495,79,Goal,0.865999984741211,0.34,0.07514660060405731,Thorgan Hazard,h,213,OpenPlay,2015,RightFoot,1271,Borussia M.Gladbach,Hertha Berlin,5,0,2016-04-03 17:30:00,Mahmoud Dahoud,Pass
+82823,10,MissedShots,0.935,0.26,0.03820250183343887,Thorgan Hazard,a,213,SetPiece,2015,RightFoot,1274,Ingolstadt,Borussia M.Gladbach,1,0,2016-04-09 17:30:00,Granit Xhaka,Chipped
+82824,19,SavedShot,0.8590000152587891,0.740999984741211,0.05254819989204407,Thorgan Hazard,a,213,OpenPlay,2015,LeftFoot,1274,Ingolstadt,Borussia M.Gladbach,1,0,2016-04-09 17:30:00,Lars Stindl,Pass
+82958,31,SavedShot,0.9790000152587891,0.29700000762939455,0.04115530103445053,Thorgan Hazard,a,213,OpenPlay,2015,RightFoot,1282,Hannover 96,Borussia M.Gladbach,2,0,2016-04-15 22:30:00,Raffael,Pass
+83114,73,BlockedShot,0.9690000152587891,0.45,0.13753899931907654,Thorgan Hazard,h,213,FromCorner,2015,Head,1298,Borussia M.Gladbach,Hoffenheim,3,1,2016-04-24 17:30:00,Ibrahima Traoré,Cross
+83948,30,Goal,0.9469999694824218,0.3340000152587891,0.490882009267807,Thorgan Hazard,a,213,OpenPlay,2015,RightFoot,1326,Darmstadt,Borussia M.Gladbach,0,2,2016-05-14 17:30:00,Granit Xhaka,TakeOn
+83950,40,BlockedShot,0.855999984741211,0.5790000152587891,0.1031780019402504,Thorgan Hazard,a,213,OpenPlay,2015,RightFoot,1326,Darmstadt,Borussia M.Gladbach,0,2,2016-05-14 17:30:00,Granit Xhaka,Pass
+83954,53,MissedShots,0.6909999847412109,0.34900001525878904,0.015298600308597088,Thorgan Hazard,a,213,OpenPlay,2015,RightFoot,1326,Darmstadt,Borussia M.Gladbach,0,2,2016-05-14 17:30:00,Ibrahima Traoré,Pass
+128076,19,SavedShot,0.8219999694824218,0.09199999809265137,0.01569800078868866,Thorgan Hazard,a,213,OpenPlay,2016,RightFoot,1340,Freiburg,Borussia M.Gladbach,3,1,2016-09-10 17:30:00,,None
+128078,34,Goal,0.7480000305175781,0.3579999923706055,0.01764179952442646,Thorgan Hazard,a,213,OpenPlay,2016,LeftFoot,1340,Freiburg,Borussia M.Gladbach,3,1,2016-09-10 17:30:00,Ibrahima Traoré,BlockedPass
+128216,2,MissedShots,0.835999984741211,0.7319999694824219,0.11053500324487686,Thorgan Hazard,h,213,OpenPlay,2016,LeftFoot,1351,Borussia M.Gladbach,Werder Bremen,4,1,2016-09-17 20:30:00,Fabian Johnson,Throughball
+128217,4,BlockedShot,0.9669999694824218,0.42400001525878905,0.8281520009040833,Thorgan Hazard,h,213,OpenPlay,2016,RightFoot,1351,Borussia M.Gladbach,Werder Bremen,4,1,2016-09-17 20:30:00,,TakeOn
+128218,7,SavedShot,0.879000015258789,0.2929999923706055,0.028703099116683006,Thorgan Hazard,h,213,OpenPlay,2016,RightFoot,1351,Borussia M.Gladbach,Werder Bremen,4,1,2016-09-17 20:30:00,Lars Stindl,Chipped
+128219,10,Goal,0.845,0.44099998474121094,0.27253401279449463,Thorgan Hazard,h,213,OpenPlay,2016,RightFoot,1351,Borussia M.Gladbach,Werder Bremen,4,1,2016-09-17 20:30:00,Fabian Johnson,Pass
+128220,16,Goal,0.9,0.3529999923706055,0.2960290014743805,Thorgan Hazard,h,213,OpenPlay,2016,RightFoot,1351,Borussia M.Gladbach,Werder Bremen,4,1,2016-09-17 20:30:00,Jannik Vestergaard,Chipped
+128236,75,ShotOnPost,0.845,0.35200000762939454,0.07246939837932587,Thorgan Hazard,h,213,OpenPlay,2016,RightFoot,1351,Borussia M.Gladbach,Werder Bremen,4,1,2016-09-17 20:30:00,Fabian Johnson,Pass
+128879,50,BlockedShot,0.84,0.5429999923706055,0.08422079682350159,Thorgan Hazard,a,213,OpenPlay,2016,LeftFoot,1380,Schalke 04,Borussia M.Gladbach,4,0,2016-10-02 19:30:00,Lars Stindl,Pass
+128887,72,SavedShot,0.9390000152587891,0.3139999961853027,0.06171200051903725,Thorgan Hazard,a,213,OpenPlay,2016,RightFoot,1380,Schalke 04,Borussia M.Gladbach,4,0,2016-10-02 19:30:00,Ibrahima Traoré,Pass
+128890,76,SavedShot,0.975,0.295,0.028629999607801437,Thorgan Hazard,a,213,OpenPlay,2016,RightFoot,1380,Schalke 04,Borussia M.Gladbach,4,0,2016-10-02 19:30:00,André Hahn,Rebound
+129850,1,BlockedShot,0.945,0.2589999961853027,0.03504540026187897,Thorgan Hazard,h,213,OpenPlay,2016,RightFoot,2816,Borussia M.Gladbach,FC Cologne,1,2,2016-11-19 18:30:00,Ibrahima Traoré,Pass
+129853,4,SavedShot,0.8430000305175781,0.3820000076293945,0.28800898790359497,Thorgan Hazard,h,213,OpenPlay,2016,RightFoot,2816,Borussia M.Gladbach,FC Cologne,1,2,2016-11-19 18:30:00,Ibrahima Traoré,Chipped
+129863,49,MissedShots,0.8959999847412109,0.26799999237060546,0.04465080052614212,Thorgan Hazard,h,213,OpenPlay,2016,RightFoot,2816,Borussia M.Gladbach,FC Cologne,1,2,2016-11-19 18:30:00,Lars Stindl,Pass
+130938,60,MissedShots,0.9440000152587891,0.29100000381469726,0.10989099740982056,Thorgan Hazard,h,213,OpenPlay,2016,RightFoot,2826,Borussia M.Gladbach,Hoffenheim,1,1,2016-11-26 18:30:00,Lars Stindl,Throughball
+130942,67,BlockedShot,0.765,0.605999984741211,0.024703800678253174,Thorgan Hazard,h,213,OpenPlay,2016,RightFoot,2826,Borussia M.Gladbach,Hoffenheim,1,1,2016-11-26 18:30:00,Mahmoud Dahoud,Pass
+130359,50,BlockedShot,0.8719999694824219,0.28600000381469726,0.035403601825237274,Thorgan Hazard,a,213,OpenPlay,2016,LeftFoot,3194,Borussia Dortmund,Borussia M.Gladbach,4,1,2016-12-03 18:30:00,Lars Stindl,BallRecovery
+130969,79,BlockedShot,0.755,0.285,0.04581790044903755,Thorgan Hazard,h,213,DirectFreekick,2016,RightFoot,3208,Borussia M.Gladbach,Mainz 05,1,0,2016-12-11 18:30:00,,Standard
+130118,27,BlockedShot,0.8819999694824219,0.769000015258789,0.025653600692749023,Thorgan Hazard,h,213,OpenPlay,2016,LeftFoot,3220,Borussia M.Gladbach,Wolfsburg,1,2,2016-12-20 23:00:00,,None
+130126,51,Goal,0.9540000152587891,0.47200000762939454,0.624210000038147,Thorgan Hazard,h,213,OpenPlay,2016,RightFoot,3220,Borussia M.Gladbach,Wolfsburg,1,2,2016-12-20 23:00:00,,Rebound
+130127,56,MissedShots,0.8730000305175781,0.6859999847412109,0.04500409960746765,Thorgan Hazard,h,213,OpenPlay,2016,LeftFoot,3220,Borussia M.Gladbach,Wolfsburg,1,2,2016-12-20 23:00:00,Lars Stindl,Pass
+130137,71,MissedShots,0.9359999847412109,0.4209999847412109,0.0907784029841423,Thorgan Hazard,h,213,OpenPlay,2016,Head,3220,Borussia M.Gladbach,Wolfsburg,1,2,2016-12-20 23:00:00,Julian Korb,Cross
+130139,74,MissedShots,0.850999984741211,0.2620000076293945,0.029370300471782684,Thorgan Hazard,h,213,OpenPlay,2016,RightFoot,3220,Borussia M.Gladbach,Wolfsburg,1,2,2016-12-20 23:00:00,Julian Korb,Pass
+130838,65,ShotOnPost,0.885,0.6719999694824219,0.07067800313234329,Thorgan Hazard,a,213,OpenPlay,2016,RightFoot,3727,Darmstadt,Borussia M.Gladbach,0,0,2017-01-21 17:30:00,Raffael,TakeOn
+130844,80,BlockedShot,0.8969999694824219,0.715,0.04157890006899834,Thorgan Hazard,a,213,OpenPlay,2016,LeftFoot,3727,Darmstadt,Borussia M.Gladbach,0,0,2017-01-21 17:30:00,Mahmoud Dahoud,Pass
+131060,49,SavedShot,0.9169999694824219,0.5109999847412109,0.45225799083709717,Thorgan Hazard,a,213,OpenPlay,2016,LeftFoot,3737,Bayer Leverkusen,Borussia M.Gladbach,2,3,2017-01-28 20:30:00,Mahmoud Dahoud,Pass
+131062,51,BlockedShot,0.7519999694824219,0.625,0.017470499500632286,Thorgan Hazard,a,213,OpenPlay,2016,LeftFoot,3737,Bayer Leverkusen,Borussia M.Gladbach,2,3,2017-01-28 20:30:00,Mahmoud Dahoud,Pass
+132673,11,Goal,0.9480000305175781,0.3220000076293945,0.23002299666404724,Thorgan Hazard,a,213,OpenPlay,2016,RightFoot,3754,Werder Bremen,Borussia M.Gladbach,0,1,2017-02-11 14:30:00,Christoph Kramer,Pass
+132681,43,MissedShots,0.9519999694824218,0.62,0.05631459876894951,Thorgan Hazard,a,213,OpenPlay,2016,Head,3754,Werder Bremen,Borussia M.Gladbach,0,1,2017-02-11 14:30:00,Patrick Herrmann,Cross
+131963,10,MissedShots,0.9080000305175782,0.7090000152587891,0.05004759877920151,Thorgan Hazard,h,213,OpenPlay,2016,RightFoot,3765,Borussia M.Gladbach,RasenBallsport Leipzig,1,2,2017-02-19 14:30:00,,TakeOn
+131968,40,MissedShots,0.8159999847412109,0.48900001525878906,0.09365060180425644,Thorgan Hazard,h,213,OpenPlay,2016,LeftFoot,3765,Borussia M.Gladbach,RasenBallsport Leipzig,1,2,2017-02-19 14:30:00,Lars Stindl,Pass
+131969,44,SavedShot,0.885,0.5,0.7577769756317139,Thorgan Hazard,h,213,Penalty,2016,RightFoot,3765,Borussia M.Gladbach,RasenBallsport Leipzig,1,2,2017-02-19 14:30:00,,Standard
+131982,85,BlockedShot,0.7919999694824219,0.7290000152587891,0.016240699216723442,Thorgan Hazard,h,213,OpenPlay,2016,RightFoot,3765,Borussia M.Gladbach,RasenBallsport Leipzig,1,2,2017-02-19 14:30:00,,None
+134394,74,SavedShot,0.88,0.2929999923706055,0.03987640142440796,Thorgan Hazard,h,213,OpenPlay,2016,LeftFoot,3802,Borussia M.Gladbach,Bayern Munich,0,1,2017-03-19 16:30:00,,None
+133372,46,MissedShots,0.88,0.6630000305175782,0.03107829950749874,Thorgan Hazard,a,213,OpenPlay,2016,RightFoot,3809,Eintracht Frankfurt,Borussia M.Gladbach,0,0,2017-04-01 17:30:00,Nico Elvedi,Cross
+133762,0,BlockedShot,0.9230000305175782,0.42900001525878906,0.15065699815750122,Thorgan Hazard,h,213,OpenPlay,2016,LeftFoot,3820,Borussia M.Gladbach,Hertha Berlin,1,0,2017-04-05 19:00:00,Jonas Hofmann,Pass
+133778,48,BlockedShot,0.870999984741211,0.5970000076293945,0.09708920121192932,Thorgan Hazard,h,213,OpenPlay,2016,RightFoot,3820,Borussia M.Gladbach,Hertha Berlin,1,0,2017-04-05 19:00:00,,Dispossessed
+133789,63,SavedShot,0.8930000305175781,0.2929999923706055,0.060293201357126236,Thorgan Hazard,h,213,OpenPlay,2016,RightFoot,3820,Borussia M.Gladbach,Hertha Berlin,1,0,2017-04-05 19:00:00,Mahmoud Dahoud,Pass
+133790,68,MissedShots,0.9059999847412109,0.7140000152587891,0.04958450049161911,Thorgan Hazard,h,213,SetPiece,2016,LeftFoot,3820,Borussia M.Gladbach,Hertha Berlin,1,0,2017-04-05 19:00:00,Jannik Vestergaard,Chipped
+127732,5,SavedShot,0.95,0.7230000305175781,0.04291389882564545,Thorgan Hazard,h,213,OpenPlay,2016,LeftFoot,3876,Borussia M.Gladbach,Darmstadt,2,2,2017-05-20 14:30:00,Raffael,Pass
+127745,39,SavedShot,0.8490000152587891,0.5990000152587891,0.07372719794511795,Thorgan Hazard,h,213,OpenPlay,2016,LeftFoot,3876,Borussia M.Gladbach,Darmstadt,2,2,2017-05-20 14:30:00,Mahmoud Dahoud,Pass
+127748,49,Goal,0.8430000305175781,0.8569999694824219,0.019013099372386932,Thorgan Hazard,h,213,OpenPlay,2016,RightFoot,3876,Borussia M.Gladbach,Darmstadt,2,2,2017-05-20 14:30:00,Nico Schulz,Pass
+165857,5,SavedShot,0.895,0.6819999694824219,0.06542439758777618,Thorgan Hazard,h,213,OpenPlay,2017,LeftFoot,8267,Borussia M.Gladbach,FC Cologne,1,0,2017-08-20 17:00:00,Raffael,Pass
+165871,47,MissedShots,0.9019999694824219,0.4809999847412109,0.11024899780750275,Thorgan Hazard,h,213,OpenPlay,2017,Head,8267,Borussia M.Gladbach,FC Cologne,1,0,2017-08-20 17:00:00,Oscar Wendt,Cross
+165876,59,MissedShots,0.6909999847412109,0.5209999847412109,0.013040199875831604,Thorgan Hazard,h,213,OpenPlay,2017,RightFoot,8267,Borussia M.Gladbach,FC Cologne,1,0,2017-08-20 17:00:00,,None
+166150,34,MissedShots,0.9380000305175781,0.6179999923706054,0.030674699693918228,Thorgan Hazard,a,213,OpenPlay,2017,Head,8272,Augsburg,Borussia M.Gladbach,2,2,2017-08-26 14:30:00,Patrick Herrmann,Aerial
+166153,40,ShotOnPost,0.9269999694824219,0.6580000305175782,0.0835639014840126,Thorgan Hazard,a,213,OpenPlay,2017,RightFoot,8272,Augsburg,Borussia M.Gladbach,2,2,2017-08-26 14:30:00,Oscar Wendt,Pass
+166156,47,BlockedShot,0.7530000305175781,0.3160000038146973,0.02821730077266693,Thorgan Hazard,a,213,OpenPlay,2017,RightFoot,8272,Augsburg,Borussia M.Gladbach,2,2,2017-08-26 14:30:00,Christoph Kramer,TakeOn
+166314,17,MissedShots,0.9369999694824219,0.6029999923706054,0.139956995844841,Thorgan Hazard,h,213,OpenPlay,2017,LeftFoot,8281,Borussia M.Gladbach,Eintracht Frankfurt,0,1,2017-09-09 14:30:00,Patrick Herrmann,Pass
+166320,30,BlockedShot,0.8680000305175781,0.655,0.055368199944496155,Thorgan Hazard,h,213,OpenPlay,2017,RightFoot,8281,Borussia M.Gladbach,Eintracht Frankfurt,0,1,2017-09-09 14:30:00,Lars Stindl,Pass
+166321,35,MissedShots,0.735999984741211,0.7240000152587891,0.014931700192391872,Thorgan Hazard,h,213,OpenPlay,2017,RightFoot,8281,Borussia M.Gladbach,Eintracht Frankfurt,0,1,2017-09-09 14:30:00,Lars Stindl,Pass
+166327,66,BlockedShot,0.9259999847412109,0.37,0.0735907033085823,Thorgan Hazard,h,213,OpenPlay,2017,RightFoot,8281,Borussia M.Gladbach,Eintracht Frankfurt,0,1,2017-09-09 14:30:00,Jonas Hofmann,Pass
+166330,78,MissedShots,0.9019999694824219,0.7169999694824218,0.03691650182008743,Thorgan Hazard,h,213,OpenPlay,2017,RightFoot,8281,Borussia M.Gladbach,Eintracht Frankfurt,0,1,2017-09-09 14:30:00,Oscar Wendt,Pass
+166534,24,Goal,0.885,0.5,0.7577769756317139,Thorgan Hazard,a,213,Penalty,2017,RightFoot,8291,RasenBallsport Leipzig,Borussia M.Gladbach,2,2,2017-09-16 17:30:00,,Standard
+166539,54,MissedShots,0.659000015258789,0.69,0.01346299983561039,Thorgan Hazard,a,213,FromCorner,2017,RightFoot,8291,RasenBallsport Leipzig,Borussia M.Gladbach,2,2,2017-09-16 17:30:00,Lars Stindl,Pass
+167360,9,SavedShot,0.8669999694824219,0.28899999618530275,0.06137090176343918,Thorgan Hazard,a,213,OpenPlay,2017,RightFoot,8310,Borussia Dortmund,Borussia M.Gladbach,6,1,2017-09-23 17:30:00,Lars Stindl,Pass
+167374,42,SavedShot,0.8680000305175781,0.34200000762939453,0.09256879985332489,Thorgan Hazard,a,213,OpenPlay,2017,LeftFoot,8310,Borussia Dortmund,Borussia M.Gladbach,6,1,2017-09-23 17:30:00,Lars Stindl,Pass
+167375,42,MissedShots,0.87,0.39,0.11470799893140793,Thorgan Hazard,a,213,OpenPlay,2017,RightFoot,8310,Borussia Dortmund,Borussia M.Gladbach,6,1,2017-09-23 17:30:00,,Rebound
+167381,56,SavedShot,0.8619999694824219,0.38799999237060545,0.10096000134944916,Thorgan Hazard,a,213,OpenPlay,2017,RightFoot,8310,Borussia Dortmund,Borussia M.Gladbach,6,1,2017-09-23 17:30:00,Lars Stindl,TakeOn
+167114,52,SavedShot,0.86,0.2670000076293945,0.029413899406790733,Thorgan Hazard,h,213,OpenPlay,2017,LeftFoot,8315,Borussia M.Gladbach,Hannover 96,2,1,2017-09-30 14:30:00,Nico Elvedi,Pass
+167132,93,Goal,0.885,0.5,0.7576959729194641,Thorgan Hazard,h,213,Penalty,2017,RightFoot,8315,Borussia M.Gladbach,Hannover 96,2,1,2017-09-30 14:30:00,,Standard
+167731,26,SavedShot,0.9009999847412109,0.37099998474121093,0.3136749863624573,Thorgan Hazard,a,213,OpenPlay,2017,RightFoot,8326,Werder Bremen,Borussia M.Gladbach,0,2,2017-10-15 17:00:00,Lars Stindl,Pass
+167742,48,SavedShot,0.8109999847412109,0.515,0.08092939853668213,Thorgan Hazard,a,213,OpenPlay,2017,RightFoot,8326,Werder Bremen,Borussia M.Gladbach,0,2,2017-10-15 17:00:00,Raffael,Pass
+167743,49,MissedShots,0.7130000305175781,0.49900001525878906,0.020929500460624695,Thorgan Hazard,a,213,OpenPlay,2017,RightFoot,8326,Werder Bremen,Borussia M.Gladbach,0,2,2017-10-15 17:00:00,Denis Zakaria,Pass
+167748,66,SavedShot,0.909000015258789,0.655,0.15084299445152283,Thorgan Hazard,a,213,OpenPlay,2017,LeftFoot,8326,Werder Bremen,Borussia M.Gladbach,0,2,2017-10-15 17:00:00,Lars Stindl,Throughball
+168152,15,SavedShot,0.9790000152587891,0.49400001525878906,0.7079020142555237,Thorgan Hazard,h,213,OpenPlay,2017,LeftFoot,8334,Borussia M.Gladbach,Bayer Leverkusen,1,5,2017-10-21 14:30:00,Fabian Johnson,Cross
+168158,39,BlockedShot,0.78,0.42200000762939455,0.09187930077314377,Thorgan Hazard,h,213,DirectFreekick,2017,RightFoot,8334,Borussia M.Gladbach,Bayer Leverkusen,1,5,2017-10-21 14:30:00,,Standard
+168178,81,MissedShots,0.8430000305175781,0.645,0.05796869844198227,Thorgan Hazard,h,213,OpenPlay,2017,RightFoot,8334,Borussia M.Gladbach,Bayer Leverkusen,1,5,2017-10-21 14:30:00,Lars Stindl,Pass
+168181,89,BlockedShot,0.8830000305175781,0.625999984741211,0.0662589967250824,Thorgan Hazard,h,213,SetPiece,2017,LeftFoot,8334,Borussia M.Gladbach,Bayer Leverkusen,1,5,2017-10-21 14:30:00,,Rebound
+168530,9,MissedShots,0.8619999694824219,0.42400001525878905,0.3776110112667084,Thorgan Hazard,a,213,OpenPlay,2017,RightFoot,8341,Hoffenheim,Borussia M.Gladbach,1,3,2017-10-28 14:30:00,Jonas Hofmann,Pass
+168547,56,BlockedShot,0.784000015258789,0.645,0.03767110034823418,Thorgan Hazard,a,213,OpenPlay,2017,RightFoot,8341,Hoffenheim,Borussia M.Gladbach,1,3,2017-10-28 14:30:00,,TakeOn
+168550,60,Goal,0.9630000305175781,0.39099998474121095,0.07436469942331314,Thorgan Hazard,a,213,OpenPlay,2017,RightFoot,8341,Hoffenheim,Borussia M.Gladbach,1,3,2017-10-28 14:30:00,Vincenzo Grifo,Cross
+168554,76,SavedShot,0.88,0.3370000076293945,0.0579552985727787,Thorgan Hazard,a,213,OpenPlay,2017,RightFoot,8341,Hoffenheim,Borussia M.Gladbach,1,3,2017-10-28 14:30:00,Lars Stindl,Pass
+167497,27,SavedShot,0.8730000305175781,0.2620000076293945,0.2402929961681366,Thorgan Hazard,h,213,OpenPlay,2017,RightFoot,8352,Borussia M.Gladbach,Mainz 05,1,1,2017-11-04 14:30:00,Jannik Vestergaard,Throughball
+167500,52,MissedShots,0.8859999847412109,0.24600000381469728,0.028299300000071526,Thorgan Hazard,h,213,OpenPlay,2017,RightFoot,8352,Borussia M.Gladbach,Mainz 05,1,1,2017-11-04 14:30:00,,Dispossessed
+167856,13,Goal,0.885,0.5,0.7577769756317139,Thorgan Hazard,a,213,Penalty,2017,RightFoot,8360,Hertha Berlin,Borussia M.Gladbach,2,4,2017-11-18 17:30:00,,Standard
+167868,43,SavedShot,0.895,0.3240000152587891,0.11010599881410599,Thorgan Hazard,a,213,OpenPlay,2017,RightFoot,8360,Hertha Berlin,Borussia M.Gladbach,2,4,2017-11-18 17:30:00,Nico Elvedi,Pass
+168451,38,Goal,0.885,0.5,0.7576959729194641,Thorgan Hazard,h,213,Penalty,2017,RightFoot,8371,Borussia M.Gladbach,Bayern Munich,2,1,2017-11-25 17:30:00,,Standard
+169058,13,MissedShots,0.715999984741211,0.5520000076293945,0.013909200206398964,Thorgan Hazard,a,213,FromCorner,2017,RightFoot,8384,Wolfsburg,Borussia M.Gladbach,3,0,2017-12-03 17:00:00,,None
+169064,43,MissedShots,0.85,0.6170000076293946,0.2580769956111908,Thorgan Hazard,a,213,OpenPlay,2017,LeftFoot,8384,Wolfsburg,Borussia M.Gladbach,3,0,2017-12-03 17:00:00,Jannik Vestergaard,Chipped
+169065,45,SavedShot,0.91,0.24,0.029420599341392517,Thorgan Hazard,a,213,OpenPlay,2017,RightFoot,8384,Wolfsburg,Borussia M.Gladbach,3,0,2017-12-03 17:00:00,Nico Elvedi,Pass
+169070,64,SavedShot,0.8859999847412109,0.27899999618530275,0.0399325005710125,Thorgan Hazard,a,213,OpenPlay,2017,RightFoot,8384,Wolfsburg,Borussia M.Gladbach,3,0,2017-12-03 17:00:00,Raffael,Pass
+169072,69,MissedShots,0.86,0.24700000762939453,0.013223900459706783,Thorgan Hazard,a,213,OpenPlay,2017,RightFoot,8384,Wolfsburg,Borussia M.Gladbach,3,0,2017-12-03 17:00:00,Nico Elvedi,HeadPass
+169074,72,BlockedShot,0.9269999694824219,0.34900001525878904,0.08242110162973404,Thorgan Hazard,a,213,OpenPlay,2017,RightFoot,8384,Wolfsburg,Borussia M.Gladbach,3,0,2017-12-03 17:00:00,Lars Stindl,Pass
+179693,22,BlockedShot,0.815,0.445,0.07720299810171127,Thorgan Hazard,h,213,OpenPlay,2017,LeftFoot,8390,Borussia M.Gladbach,Schalke 04,1,1,2017-12-09 17:30:00,Vincenzo Grifo,Pass
+179704,56,MissedShots,0.845,0.26799999237060546,0.04982750117778778,Thorgan Hazard,h,213,OpenPlay,2017,RightFoot,8390,Borussia M.Gladbach,Schalke 04,1,1,2017-12-09 17:30:00,Lars Stindl,Pass
+179708,70,MissedShots,0.98,0.40700000762939453,0.1980230063199997,Thorgan Hazard,h,213,OpenPlay,2017,Head,8390,Borussia M.Gladbach,Schalke 04,1,1,2017-12-09 17:30:00,Oscar Wendt,Cross
+183752,8,Goal,0.9519999694824218,0.39599998474121095,0.4220440089702606,Thorgan Hazard,h,213,OpenPlay,2017,RightFoot,8408,Borussia M.Gladbach,Hamburger SV,3,1,2017-12-15 19:30:00,Raffael,Throughball
+183757,25,MissedShots,0.8340000152587891,0.6,0.07153840363025665,Thorgan Hazard,h,213,OpenPlay,2017,RightFoot,8408,Borussia M.Gladbach,Hamburger SV,3,1,2017-12-15 19:30:00,,None
+183761,51,SavedShot,0.9,0.33299999237060546,0.2706030011177063,Thorgan Hazard,h,213,OpenPlay,2017,RightFoot,8408,Borussia M.Gladbach,Hamburger SV,3,1,2017-12-15 19:30:00,Raffael,Pass
+187860,27,MissedShots,0.9180000305175782,0.27399999618530274,0.0636615976691246,Thorgan Hazard,a,213,OpenPlay,2017,RightFoot,8414,FC Cologne,Borussia M.Gladbach,2,1,2018-01-14 14:30:00,Oscar Wendt,Pass
+187867,66,MissedShots,0.960999984741211,0.56,0.45256900787353516,Thorgan Hazard,a,213,OpenPlay,2017,Head,8414,FC Cologne,Borussia M.Gladbach,2,1,2018-01-14 14:30:00,Raffael,Cross
+188557,22,SavedShot,0.8809999847412109,0.37099998474121093,0.16527700424194336,Thorgan Hazard,h,213,OpenPlay,2017,RightFoot,8425,Borussia M.Gladbach,Augsburg,2,0,2018-01-20 14:30:00,Michaël Cuisance,TakeOn
+188574,66,MissedShots,0.8530000305175781,0.6370000076293946,0.06766189634799957,Thorgan Hazard,h,213,OpenPlay,2017,LeftFoot,8425,Borussia M.Gladbach,Augsburg,2,0,2018-01-20 14:30:00,Michaël Cuisance,Pass
+188576,67,BlockedShot,0.895,0.53,0.4358449876308441,Thorgan Hazard,h,213,OpenPlay,2017,RightFoot,8425,Borussia M.Gladbach,Augsburg,2,0,2018-01-20 14:30:00,Oscar Wendt,Pass
+188583,89,Goal,0.7759999847412109,0.5479999923706055,0.08259440213441849,Thorgan Hazard,h,213,OpenPlay,2017,RightFoot,8425,Borussia M.Gladbach,Augsburg,2,0,2018-01-20 14:30:00,Matthias Ginter,BallRecovery
+189688,44,MissedShots,0.749000015258789,0.30100000381469727,0.009998399764299393,Thorgan Hazard,a,213,OpenPlay,2017,RightFoot,8432,Eintracht Frankfurt,Borussia M.Gladbach,2,0,2018-01-26 19:30:00,Tobias Sippel,Aerial
+189698,71,MissedShots,0.835,0.28299999237060547,0.029673300683498383,Thorgan Hazard,a,213,OpenPlay,2017,RightFoot,8432,Eintracht Frankfurt,Borussia M.Gladbach,2,0,2018-01-26 19:30:00,Christoph Kramer,Pass
+189700,77,ShotOnPost,0.885,0.5,0.7577769756317139,Thorgan Hazard,a,213,Penalty,2017,RightFoot,8432,Eintracht Frankfurt,Borussia M.Gladbach,2,0,2018-01-26 19:30:00,,Standard
+189702,89,MissedShots,0.6990000152587891,0.35400001525878905,0.01756409928202629,Thorgan Hazard,a,213,SetPiece,2017,RightFoot,8432,Eintracht Frankfurt,Borussia M.Gladbach,2,0,2018-01-26 19:30:00,Michaël Cuisance,Pass
+194758,13,BlockedShot,0.9159999847412109,0.34200000762939453,0.16284799575805664,Thorgan Hazard,h,213,OpenPlay,2017,RightFoot,8441,Borussia M.Gladbach,RasenBallsport Leipzig,0,1,2018-02-03 17:30:00,Vincenzo Grifo,TakeOn
+194781,91,SavedShot,0.865,0.38799999237060545,0.11112300306558609,Thorgan Hazard,h,213,OpenPlay,2017,RightFoot,8441,Borussia M.Gladbach,RasenBallsport Leipzig,0,1,2018-02-03 17:30:00,Lars Stindl,Pass
+196831,39,BlockedShot,0.7369999694824219,0.6809999847412109,0.043932098895311356,Thorgan Hazard,h,213,DirectFreekick,2017,RightFoot,8460,Borussia M.Gladbach,Borussia Dortmund,0,1,2018-02-18 17:00:00,,Standard
+196833,45,MissedShots,0.8569999694824219,0.6,0.052944399416446686,Thorgan Hazard,h,213,OpenPlay,2017,RightFoot,8460,Borussia M.Gladbach,Borussia Dortmund,0,1,2018-02-18 17:00:00,Lars Stindl,BallRecovery
+196834,49,MissedShots,0.9069999694824219,0.6659999847412109,0.04015659913420677,Thorgan Hazard,h,213,OpenPlay,2017,RightFoot,8460,Borussia M.Gladbach,Borussia Dortmund,0,1,2018-02-18 17:00:00,Reece Oxford,Cross
+196842,58,MissedShots,0.8590000152587891,0.56,0.09012740105390549,Thorgan Hazard,h,213,OpenPlay,2017,LeftFoot,8460,Borussia M.Gladbach,Borussia Dortmund,0,1,2018-02-18 17:00:00,Raúl Bobadilla,LayOff
+196854,85,BlockedShot,0.8830000305175781,0.49599998474121093,0.09274859726428986,Thorgan Hazard,h,213,OpenPlay,2017,RightFoot,8460,Borussia M.Gladbach,Borussia Dortmund,0,1,2018-02-18 17:00:00,,Rebound
+196860,94,MissedShots,0.8719999694824219,0.7169999694824218,0.025206200778484344,Thorgan Hazard,h,213,SetPiece,2017,RightFoot,8460,Borussia M.Gladbach,Borussia Dortmund,0,1,2018-02-18 17:00:00,,Rebound
+197213,12,MissedShots,0.8519999694824218,0.28200000762939453,0.11663100123405457,Thorgan Hazard,a,213,OpenPlay,2017,RightFoot,8472,Hannover 96,Borussia M.Gladbach,0,1,2018-02-24 14:30:00,Raúl Bobadilla,Throughball
+197214,20,BlockedShot,0.8680000305175781,0.56,0.10209199786186218,Thorgan Hazard,a,213,OpenPlay,2017,LeftFoot,8472,Hannover 96,Borussia M.Gladbach,0,1,2018-02-24 14:30:00,Lars Stindl,Pass
+197215,26,MissedShots,0.7769999694824219,0.6790000152587891,0.020051900297403336,Thorgan Hazard,a,213,OpenPlay,2017,RightFoot,8472,Hannover 96,Borussia M.Gladbach,0,1,2018-02-24 14:30:00,Christoph Kramer,Chipped
+198573,8,SavedShot,0.730999984741211,0.5659999847412109,0.019717099145054817,Thorgan Hazard,h,213,SetPiece,2017,RightFoot,8478,Borussia M.Gladbach,Werder Bremen,2,2,2018-03-02 19:30:00,Jonas Hofmann,Pass
+198576,31,MissedShots,0.955999984741211,0.5890000152587891,0.4829230010509491,Thorgan Hazard,h,213,OpenPlay,2017,LeftFoot,8478,Borussia M.Gladbach,Werder Bremen,2,2,2018-03-02 19:30:00,Lars Stindl,Pass
+200192,84,BlockedShot,0.6469999694824219,0.62,0.008658199571073055,Thorgan Hazard,a,213,SetPiece,2017,RightFoot,8492,Bayer Leverkusen,Borussia M.Gladbach,2,0,2018-03-10 17:30:00,,Dispossessed
+201306,43,MissedShots,0.855999984741211,0.37400001525878906,0.07014550268650055,Thorgan Hazard,h,213,OpenPlay,2017,RightFoot,8496,Borussia M.Gladbach,Hoffenheim,3,3,2018-03-17 14:30:00,Lars Stindl,Pass
+201308,45,MissedShots,0.789000015258789,0.5690000152587891,0.03391420096158981,Thorgan Hazard,h,213,OpenPlay,2017,LeftFoot,8496,Borussia M.Gladbach,Hoffenheim,3,3,2018-03-17 14:30:00,Lars Stindl,Pass
+204418,71,SavedShot,0.9490000152587891,0.4229999923706055,0.19670699536800385,Thorgan Hazard,a,213,OpenPlay,2017,RightFoot,8508,Mainz 05,Borussia M.Gladbach,0,0,2018-04-01 17:00:00,Lars Stindl,TakeOn
+207338,65,MissedShots,0.8580000305175781,0.805,0.01827470026910305,Thorgan Hazard,h,213,OpenPlay,2017,RightFoot,8515,Borussia M.Gladbach,Hertha Berlin,2,1,2018-04-07 13:30:00,Oscar Wendt,TakeOn
+207342,74,Goal,0.9469999694824218,0.61,0.09104619920253754,Thorgan Hazard,h,213,OpenPlay,2017,LeftFoot,8515,Borussia M.Gladbach,Hertha Berlin,2,1,2018-04-07 13:30:00,Josip Drmic,Rebound
+207343,78,Goal,0.885,0.5,0.7577769756317139,Thorgan Hazard,h,213,Penalty,2017,RightFoot,8515,Borussia M.Gladbach,Hertha Berlin,2,1,2018-04-07 13:30:00,,Standard
+208665,11,BlockedShot,0.840999984741211,0.6659999847412109,0.05004949867725372,Thorgan Hazard,a,213,OpenPlay,2017,RightFoot,8520,Bayern Munich,Borussia M.Gladbach,5,1,2018-04-14 16:30:00,Jonas Hofmann,Chipped
+210154,37,MissedShots,0.9009999847412109,0.425,0.28727099299430847,Thorgan Hazard,h,213,SetPiece,2017,RightFoot,8532,Borussia M.Gladbach,Wolfsburg,3,0,2018-04-20 18:30:00,Matthias Ginter,Pass
+211613,54,MissedShots,0.745999984741211,0.685,0.010354000143706799,Thorgan Hazard,a,213,SetPiece,2017,LeftFoot,8543,Schalke 04,Borussia M.Gladbach,1,1,2018-04-28 13:30:00,,None
+211614,56,SavedShot,0.8830000305175781,0.46299999237060546,0.08854249864816666,Thorgan Hazard,a,213,OpenPlay,2017,RightFoot,8543,Schalke 04,Borussia M.Gladbach,1,1,2018-04-28 13:30:00,Jonas Hofmann,Cross
+211622,81,MissedShots,0.9769999694824218,0.6090000152587891,0.051385898143053055,Thorgan Hazard,a,213,OpenPlay,2017,RightFoot,8543,Schalke 04,Borussia M.Gladbach,1,1,2018-04-28 13:30:00,Ibrahima Traoré,Cross
+211623,87,SavedShot,0.92,0.42900001525878906,0.10556700080633163,Thorgan Hazard,a,213,OpenPlay,2017,Head,8543,Schalke 04,Borussia M.Gladbach,1,1,2018-04-28 13:30:00,Michaël Cuisance,Cross
+213220,17,Goal,0.9669999694824218,0.5920000076293945,0.8152049779891968,Thorgan Hazard,h,213,OpenPlay,2017,LeftFoot,8554,Borussia M.Gladbach,Freiburg,3,1,2018-05-05 14:30:00,Tobias Strobl,TakeOn
+213227,43,BlockedShot,0.8909999847412109,0.35200000762939454,0.07443869858980179,Thorgan Hazard,h,213,OpenPlay,2017,RightFoot,8554,Borussia M.Gladbach,Freiburg,3,1,2018-05-05 14:30:00,Raffael,Chipped
+213249,85,SavedShot,0.884000015258789,0.6459999847412109,0.11882200092077255,Thorgan Hazard,h,213,OpenPlay,2017,LeftFoot,8554,Borussia M.Gladbach,Freiburg,3,1,2018-05-05 14:30:00,,TakeOn
+214667,66,BlockedShot,0.8690000152587891,0.7119999694824218,0.03801729902625084,Thorgan Hazard,a,213,OpenPlay,2017,RightFoot,8562,Hamburger SV,Borussia M.Gladbach,2,1,2018-05-12 14:30:00,Michaël Cuisance,Pass
+220315,37,SavedShot,0.885,0.5,0.7577769756317139,Thorgan Hazard,h,213,Penalty,2018,RightFoot,10343,Borussia M.Gladbach,Bayer Leverkusen,2,0,2018-08-25 19:30:00,,Standard
+221562,1,BlockedShot,0.9069999694824219,0.6329999923706054,0.06818349659442902,Thorgan Hazard,a,213,SetPiece,2018,LeftFoot,10349,Augsburg,Borussia M.Gladbach,1,1,2018-09-01 13:30:00,Tobias Strobl,Chipped
+221579,66,BlockedShot,0.9,0.43900001525878907,0.07988999783992767,Thorgan Hazard,a,213,OpenPlay,2018,RightFoot,10349,Augsburg,Borussia M.Gladbach,1,1,2018-09-01 13:30:00,Fabian Johnson,Cross
+221581,71,MissedShots,0.73,0.47900001525878905,0.022525299340486526,Thorgan Hazard,a,213,OpenPlay,2018,LeftFoot,10349,Augsburg,Borussia M.Gladbach,1,1,2018-09-01 13:30:00,Jonas Hofmann,Pass
+223772,21,BlockedShot,0.7609999847412109,0.5690000152587891,0.022632500156760216,Thorgan Hazard,h,213,SetPiece,2018,RightFoot,10361,Borussia M.Gladbach,Schalke 04,2,1,2018-09-15 16:30:00,Jonas Hofmann,Pass
+223773,28,SavedShot,0.7730000305175782,0.6719999694824219,0.02777020074427128,Thorgan Hazard,h,213,OpenPlay,2018,RightFoot,10361,Borussia M.Gladbach,Schalke 04,2,1,2018-09-15 16:30:00,Denis Zakaria,Pass
+223789,75,BlockedShot,0.7480000305175781,0.4879999923706055,0.06772620230913162,Thorgan Hazard,h,213,DirectFreekick,2018,RightFoot,10361,Borussia M.Gladbach,Schalke 04,2,1,2018-09-15 16:30:00,,Standard
+224903,3,MissedShots,0.8830000305175781,0.54,0.11760400235652924,Thorgan Hazard,a,213,OpenPlay,2018,RightFoot,10366,Hertha Berlin,Borussia M.Gladbach,4,2,2018-09-22 13:30:00,Denis Zakaria,Pass
+224908,28,Goal,0.885,0.5,0.7577769756317139,Thorgan Hazard,a,213,Penalty,2018,RightFoot,10366,Hertha Berlin,Borussia M.Gladbach,4,2,2018-09-22 13:30:00,,Standard
+224934,91,MissedShots,0.7559999847412109,0.31,0.014801399782299995,Thorgan Hazard,a,213,OpenPlay,2018,RightFoot,10366,Hertha Berlin,Borussia M.Gladbach,4,2,2018-09-22 13:30:00,Denis Zakaria,Pass
+226738,52,MissedShots,0.8059999847412109,0.7080000305175781,0.07261469960212708,Thorgan Hazard,h,213,DirectFreekick,2018,RightFoot,10380,Borussia M.Gladbach,Eintracht Frankfurt,3,1,2018-09-26 18:30:00,,Standard
+226744,64,Goal,0.9,0.6469999694824219,0.09853649884462357,Thorgan Hazard,h,213,OpenPlay,2018,RightFoot,10380,Borussia M.Gladbach,Eintracht Frankfurt,3,1,2018-09-26 18:30:00,Florian Neuhaus,Pass
+227905,29,MissedShots,0.7619999694824219,0.799000015258789,0.017477799206972122,Thorgan Hazard,a,213,OpenPlay,2018,RightFoot,10386,Wolfsburg,Borussia M.Gladbach,2,2,2018-09-29 13:30:00,Florian Neuhaus,Pass
+227910,47,Goal,0.9069999694824219,0.6179999923706054,0.3459930121898651,Thorgan Hazard,a,213,OpenPlay,2018,RightFoot,10386,Wolfsburg,Borussia M.Gladbach,2,2,2018-09-29 13:30:00,Patrick Herrmann,Pass
+255336,58,MissedShots,0.7440000152587891,0.2520000076293945,0.021021300926804543,Thorgan Hazard,a,213,OpenPlay,2018,RightFoot,10391,Bayern Munich,Borussia M.Gladbach,0,3,2018-10-06 16:30:00,Florian Neuhaus,Pass
+255636,57,Goal,0.9159999847412109,0.38599998474121094,0.38099101185798645,Thorgan Hazard,h,213,OpenPlay,2018,RightFoot,10404,Borussia M.Gladbach,Mainz 05,4,0,2018-10-21 16:00:00,Alassane Pléa,Pass
+255647,11,MissedShots,0.749000015258789,0.7130000305175781,0.02165200002491474,Thorgan Hazard,a,213,FromCorner,2018,RightFoot,10414,Freiburg,Borussia M.Gladbach,3,1,2018-10-26 18:30:00,Oscar Wendt,Pass
+255650,19,Goal,0.885,0.5,0.7577769756317139,Thorgan Hazard,a,213,Penalty,2018,RightFoot,10414,Freiburg,Borussia M.Gladbach,3,1,2018-10-26 18:30:00,,Standard
+255662,71,BlockedShot,0.7880000305175782,0.6819999694824219,0.024430399760603905,Thorgan Hazard,a,213,OpenPlay,2018,RightFoot,10414,Freiburg,Borussia M.Gladbach,3,1,2018-10-26 18:30:00,Jonas Hofmann,Pass
+256094,9,SavedShot,0.745,0.6120000076293945,0.022202400490641594,Thorgan Hazard,h,213,OpenPlay,2018,RightFoot,10426,Borussia M.Gladbach,Fortuna Duesseldorf,3,0,2018-11-04 14:30:00,Jonas Hofmann,Pass
+256100,31,SavedShot,0.9,0.3529999923706055,0.08735279738903046,Thorgan Hazard,h,213,OpenPlay,2018,RightFoot,10426,Borussia M.Gladbach,Fortuna Duesseldorf,3,0,2018-11-04 14:30:00,Florian Neuhaus,Pass
+256110,47,Goal,0.885,0.5,0.7577769756317139,Thorgan Hazard,h,213,Penalty,2018,RightFoot,10426,Borussia M.Gladbach,Fortuna Duesseldorf,3,0,2018-11-04 14:30:00,,Standard
+256122,81,Goal,0.7809999847412109,0.32,0.025110900402069092,Thorgan Hazard,h,213,OpenPlay,2018,RightFoot,10426,Borussia M.Gladbach,Fortuna Duesseldorf,3,0,2018-11-04 14:30:00,Alassane Pléa,Pass
+256224,8,BlockedShot,0.8530000305175781,0.7019999694824218,0.037758998572826385,Thorgan Hazard,a,213,OpenPlay,2018,LeftFoot,10431,Werder Bremen,Borussia M.Gladbach,1,3,2018-11-10 14:30:00,Alassane Pléa,Pass
+256227,23,MissedShots,0.8569999694824219,0.24399999618530274,0.02781059965491295,Thorgan Hazard,a,213,OpenPlay,2018,RightFoot,10431,Werder Bremen,Borussia M.Gladbach,1,3,2018-11-10 14:30:00,Matthias Ginter,Chipped
+256246,71,MissedShots,0.81,0.549000015258789,0.10367599874734879,Thorgan Hazard,a,213,OpenPlay,2018,RightFoot,10431,Werder Bremen,Borussia M.Gladbach,1,3,2018-11-10 14:30:00,Denis Zakaria,Pass
+256645,6,Goal,0.88,0.3220000076293945,0.05847720056772232,Thorgan Hazard,h,213,OpenPlay,2018,LeftFoot,10439,Borussia M.Gladbach,Hannover 96,4,1,2018-11-25 17:00:00,Florian Neuhaus,Pass
+256648,9,BlockedShot,0.87,0.47400001525878904,0.08513890206813812,Thorgan Hazard,h,213,FromCorner,2018,LeftFoot,10439,Borussia M.Gladbach,Hannover 96,4,1,2018-11-25 17:00:00,Michael Lang,LayOff
+256649,9,MissedShots,0.875999984741211,0.52,0.09469710290431976,Thorgan Hazard,h,213,FromCorner,2018,LeftFoot,10439,Borussia M.Gladbach,Hannover 96,4,1,2018-11-25 17:00:00,,Rebound
+256650,10,MissedShots,0.860999984741211,0.8030000305175782,0.06100599840283394,Thorgan Hazard,h,213,DirectFreekick,2018,RightFoot,10439,Borussia M.Gladbach,Hannover 96,4,1,2018-11-25 17:00:00,,Standard
+256657,50,BlockedShot,0.8,0.5970000076293945,0.05302650108933449,Thorgan Hazard,h,213,OpenPlay,2018,RightFoot,10439,Borussia M.Gladbach,Hannover 96,4,1,2018-11-25 17:00:00,,None
+256807,30,BlockedShot,0.96,0.635,0.06742700189352036,Thorgan Hazard,a,213,OpenPlay,2018,LeftFoot,10447,RasenBallsport Leipzig,Borussia M.Gladbach,2,0,2018-12-02 14:30:00,,Rebound
+256818,65,SavedShot,0.7780000305175782,0.7340000152587891,0.015442799776792526,Thorgan Hazard,a,213,OpenPlay,2018,RightFoot,10447,RasenBallsport Leipzig,Borussia M.Gladbach,2,0,2018-12-02 14:30:00,Denis Zakaria,Pass
+257204,24,SavedShot,0.915,0.26600000381469724,0.03581229969859123,Thorgan Hazard,h,213,OpenPlay,2018,RightFoot,10457,Borussia M.Gladbach,VfB Stuttgart,3,0,2018-12-09 17:00:00,Lars Stindl,Pass
+257218,49,BlockedShot,0.785,0.655,0.021293699741363525,Thorgan Hazard,h,213,OpenPlay,2018,RightFoot,10457,Borussia M.Gladbach,VfB Stuttgart,3,0,2018-12-09 17:00:00,Alassane Pléa,Pass
+257252,4,BlockedShot,0.835,0.6309999847412109,0.042442601174116135,Thorgan Hazard,a,213,OpenPlay,2018,RightFoot,10463,Hoffenheim,Borussia M.Gladbach,0,0,2018-12-15 14:30:00,Alassane Pléa,Chipped
+257257,23,MissedShots,0.8919999694824219,0.30100000381469727,0.04639580100774765,Thorgan Hazard,a,213,OpenPlay,2018,RightFoot,10463,Hoffenheim,Borussia M.Gladbach,0,0,2018-12-15 14:30:00,Tobias Strobl,Chipped
+257403,19,BlockedShot,0.7390000152587891,0.36900001525878906,0.05138460174202919,Thorgan Hazard,h,213,DirectFreekick,2018,RightFoot,10479,Borussia M.Gladbach,Nuernberg,2,0,2018-12-18 17:30:00,,Standard
+257407,44,MissedShots,0.885,0.5,0.7577769756317139,Thorgan Hazard,h,213,Penalty,2018,RightFoot,10479,Borussia M.Gladbach,Nuernberg,2,0,2018-12-18 17:30:00,,Standard
+257408,46,Goal,0.96,0.53,0.7737889885902405,Thorgan Hazard,h,213,OpenPlay,2018,LeftFoot,10479,Borussia M.Gladbach,Nuernberg,2,0,2018-12-18 17:30:00,Ibrahima Traoré,Pass
+257416,80,MissedShots,0.8630000305175781,0.2520000076293945,0.043261900544166565,Thorgan Hazard,h,213,OpenPlay,2018,RightFoot,10479,Borussia M.Gladbach,Nuernberg,2,0,2018-12-18 17:30:00,Michaël Cuisance,BlockedPass
+278411,44,MissedShots,0.730999984741211,0.500999984741211,0.025273999199271202,Thorgan Hazard,a,213,FromCorner,2018,RightFoot,10498,Bayer Leverkusen,Borussia M.Gladbach,0,1,2019-01-19 14:30:00,Jonas Hofmann,Pass
+278890,62,MissedShots,0.81,0.4879999923706055,0.152989000082016,Thorgan Hazard,a,213,DirectFreekick,2018,RightFoot,10516,Schalke 04,Borussia M.Gladbach,0,2,2019-02-02 17:30:00,,Standard
+278892,70,SavedShot,0.8669999694824219,0.5370000076293945,0.06814470142126083,Thorgan Hazard,a,213,OpenPlay,2018,LeftFoot,10516,Schalke 04,Borussia M.Gladbach,0,2,2019-02-02 17:30:00,Oscar Wendt,Cross
+281082,1,SavedShot,0.9,0.28299999237060547,0.044519901275634766,Thorgan Hazard,h,213,OpenPlay,2018,RightFoot,10520,Borussia M.Gladbach,Hertha Berlin,0,3,2019-02-09 14:30:00,Alassane Pléa,Pass
+281092,54,SavedShot,0.7880000305175782,0.700999984741211,0.020989999175071716,Thorgan Hazard,h,213,OpenPlay,2018,RightFoot,10520,Borussia M.Gladbach,Hertha Berlin,0,3,2019-02-09 14:30:00,Michaël Cuisance,Pass
+281103,90,MissedShots,0.9369999694824219,0.615999984741211,0.06209449842572212,Thorgan Hazard,h,213,OpenPlay,2018,LeftFoot,10520,Borussia M.Gladbach,Hertha Berlin,0,3,2019-02-09 14:30:00,Alassane Pléa,HeadPass
+279293,7,MissedShots,0.815,0.6179999923706054,0.04240480065345764,Thorgan Hazard,a,213,OpenPlay,2018,RightFoot,10529,Eintracht Frankfurt,Borussia M.Gladbach,1,1,2019-02-17 14:30:00,Patrick Herrmann,Pass
+279295,16,MissedShots,0.775,0.4620000076293945,0.09260209649801254,Thorgan Hazard,a,213,DirectFreekick,2018,RightFoot,10529,Eintracht Frankfurt,Borussia M.Gladbach,1,1,2019-02-17 14:30:00,,Standard
+279298,23,MissedShots,0.784000015258789,0.28299999237060547,0.01967429928481579,Thorgan Hazard,a,213,OpenPlay,2018,RightFoot,10529,Eintracht Frankfurt,Borussia M.Gladbach,1,1,2019-02-17 14:30:00,Christoph Kramer,Chipped
+279311,58,BlockedShot,0.899000015258789,0.3240000152587891,0.09341870248317719,Thorgan Hazard,a,213,OpenPlay,2018,RightFoot,10529,Eintracht Frankfurt,Borussia M.Gladbach,1,1,2019-02-17 14:30:00,Patrick Herrmann,Pass
+279397,74,SavedShot,0.909000015258789,0.5729999923706055,0.3607969880104065,Thorgan Hazard,h,213,OpenPlay,2018,RightFoot,10538,Borussia M.Gladbach,Wolfsburg,0,3,2019-02-23 14:30:00,Lars Stindl,Pass
+279401,91,MissedShots,0.8119999694824219,0.735,0.020847400650382042,Thorgan Hazard,h,213,OpenPlay,2018,LeftFoot,10538,Borussia M.Gladbach,Wolfsburg,0,3,2019-02-23 14:30:00,Christoph Kramer,Pass
+279716,18,BlockedShot,0.7880000305175782,0.7440000152587891,0.015103399753570557,Thorgan Hazard,h,213,OpenPlay,2018,RightFoot,10548,Borussia M.Gladbach,Bayern Munich,1,5,2019-03-02 17:30:00,Jonas Hofmann,Pass
+279719,23,BlockedShot,0.759000015258789,0.585,0.02234569936990738,Thorgan Hazard,h,213,OpenPlay,2018,RightFoot,10548,Borussia M.Gladbach,Bayern Munich,1,5,2019-03-02 17:30:00,Lars Stindl,Pass
+284705,22,BlockedShot,0.8009999847412109,0.24200000762939453,0.02329459972679615,Thorgan Hazard,a,213,FromCorner,2018,RightFoot,10559,Mainz 05,Borussia M.Gladbach,0,1,2019-03-09 17:30:00,Oscar Wendt,Cross
+285889,53,MissedShots,0.7880000305175782,0.3320000076293945,0.03011629916727543,Thorgan Hazard,h,213,OpenPlay,2018,RightFoot,10569,Borussia M.Gladbach,Freiburg,1,1,2019-03-15 19:30:00,Fabian Johnson,TakeOn
+285896,73,MissedShots,0.8619999694824219,0.8059999847412109,0.02005160041153431,Thorgan Hazard,h,213,FromCorner,2018,RightFoot,10569,Borussia M.Gladbach,Freiburg,1,1,2019-03-15 19:30:00,Oscar Wendt,Pass
+292787,2,MissedShots,0.7719999694824219,0.74,0.012397300451993942,Thorgan Hazard,h,213,OpenPlay,2018,LeftFoot,10584,Borussia M.Gladbach,Werder Bremen,1,1,2019-04-07 17:00:00,,None
+292794,37,MissedShots,0.8209999847412109,0.720999984741211,0.022845299914479256,Thorgan Hazard,h,213,OpenPlay,2018,RightFoot,10584,Borussia M.Gladbach,Werder Bremen,1,1,2019-04-07 17:00:00,,None
+292813,91,SavedShot,0.87,0.6719999694824219,0.023801300674676895,Thorgan Hazard,h,213,OpenPlay,2018,RightFoot,10584,Borussia M.Gladbach,Werder Bremen,1,1,2019-04-07 17:00:00,Matthias Ginter,Cross
+293469,18,SavedShot,0.8830000305175781,0.6759999847412109,0.25049200654029846,Thorgan Hazard,a,213,OpenPlay,2018,RightFoot,10595,Hannover 96,Borussia M.Gladbach,0,1,2019-04-13 14:30:00,Alassane Pléa,Pass
+293472,21,SavedShot,0.8959999847412109,0.6120000076293945,0.09728419780731201,Thorgan Hazard,a,213,OpenPlay,2018,RightFoot,10595,Hannover 96,Borussia M.Gladbach,0,1,2019-04-13 14:30:00,Alassane Pléa,Pass
+293476,27,MissedShots,0.755,0.6569999694824219,0.011940100230276585,Thorgan Hazard,a,213,OpenPlay,2018,RightFoot,10595,Hannover 96,Borussia M.Gladbach,0,1,2019-04-13 14:30:00,Florian Neuhaus,Chipped
+295504,36,BlockedShot,0.8380000305175781,0.7190000152587891,0.02767929993569851,Thorgan Hazard,h,213,OpenPlay,2018,RightFoot,10604,Borussia M.Gladbach,RasenBallsport Leipzig,1,2,2019-04-20 17:30:00,,None
+295516,83,SavedShot,0.7730000305175782,0.67,0.02001130022108555,Thorgan Hazard,h,213,OpenPlay,2018,RightFoot,10604,Borussia M.Gladbach,RasenBallsport Leipzig,1,2,2019-04-20 17:30:00,Oscar Wendt,Pass
+297564,28,BlockedShot,0.7680000305175781,0.3120000076293945,0.015484300442039967,Thorgan Hazard,a,213,FromCorner,2018,RightFoot,10610,VfB Stuttgart,Borussia M.Gladbach,1,0,2019-04-27 17:30:00,,None
+297581,66,MissedShots,0.7869999694824219,0.3089999961853027,0.06656370311975479,Thorgan Hazard,a,213,DirectFreekick,2018,RightFoot,10610,VfB Stuttgart,Borussia M.Gladbach,1,0,2019-04-27 17:30:00,,Standard
+299219,58,SavedShot,0.7680000305175781,0.5059999847412109,0.030429299920797348,Thorgan Hazard,h,213,OpenPlay,2018,RightFoot,10619,Borussia M.Gladbach,Hoffenheim,2,2,2019-05-04 14:30:00,Denis Zakaria,Pass
+299229,75,SavedShot,0.9640000152587891,0.6859999847412109,0.28341299295425415,Thorgan Hazard,h,213,OpenPlay,2018,LeftFoot,10619,Borussia M.Gladbach,Hoffenheim,2,2,2019-05-04 14:30:00,Ibrahima Traoré,Rebound
+300625,33,MissedShots,0.76,0.5720000076293945,0.02304459922015667,Thorgan Hazard,a,213,OpenPlay,2018,RightFoot,10633,Nuernberg,Borussia M.Gladbach,0,4,2019-05-11 14:30:00,Yann Sommer,Pass
+300633,57,MissedShots,0.794000015258789,0.19100000381469726,0.02095160074532032,Thorgan Hazard,a,213,OpenPlay,2018,RightFoot,10633,Nuernberg,Borussia M.Gladbach,0,4,2019-05-11 14:30:00,Ibrahima Traoré,Pass
+300635,64,Goal,0.9730000305175781,0.4929999923706055,0.6673960089683533,Thorgan Hazard,a,213,OpenPlay,2018,LeftFoot,10633,Nuernberg,Borussia M.Gladbach,0,4,2019-05-11 14:30:00,Ibrahima Traoré,Cross
+300642,83,MissedShots,0.7859999847412109,0.8530000305175781,0.01586179994046688,Thorgan Hazard,a,213,OpenPlay,2018,RightFoot,10633,Nuernberg,Borussia M.Gladbach,0,4,2019-05-11 14:30:00,Alassane Pléa,Chipped
+302331,3,BlockedShot,0.8730000305175781,0.6419999694824219,0.06814680248498917,Thorgan Hazard,h,213,OpenPlay,2018,RightFoot,10639,Borussia M.Gladbach,Borussia Dortmund,0,2,2019-05-18 13:30:00,,Dispossessed
+321360,69,MissedShots,0.8780000305175781,0.635,0.08824010193347931,Thorgan Hazard,a,213,OpenPlay,2019,LeftFoot,12446,Eintracht Frankfurt,Borussia Dortmund,2,2,2019-09-22 16:00:00,Marco Reus,Pass
+322900,28,MissedShots,0.8209999847412109,0.3120000076293945,0.0309005007147789,Thorgan Hazard,h,213,OpenPlay,2019,RightFoot,12454,Borussia Dortmund,Werder Bremen,2,2,2019-09-28 16:30:00,Jadon Sancho,Pass
+322904,37,MissedShots,0.7619999694824219,0.24700000762939453,0.016722500324249268,Thorgan Hazard,h,213,OpenPlay,2019,RightFoot,12454,Borussia Dortmund,Werder Bremen,2,2,2019-09-28 16:30:00,Jadon Sancho,Pass
+322917,69,BlockedShot,0.8880000305175781,0.34599998474121096,0.05746540054678917,Thorgan Hazard,h,213,OpenPlay,2019,RightFoot,12454,Borussia Dortmund,Werder Bremen,2,2,2019-09-28 16:30:00,,Rebound
+322919,77,SavedShot,0.865,0.28100000381469725,0.03567979857325554,Thorgan Hazard,h,213,OpenPlay,2019,RightFoot,12454,Borussia Dortmund,Werder Bremen,2,2,2019-09-28 16:30:00,Marco Reus,Pass
+324030,46,SavedShot,0.755,0.37099998474121093,0.021795999258756638,Thorgan Hazard,a,213,FromCorner,2019,LeftFoot,12460,Freiburg,Borussia Dortmund,2,2,2019-10-05 14:30:00,Raphael Guerreiro,Pass
+325831,5,BlockedShot,0.860999984741211,0.6309999847412109,0.07191690057516098,Thorgan Hazard,h,213,OpenPlay,2019,RightFoot,12469,Borussia Dortmund,Borussia M.Gladbach,1,0,2019-10-19 17:30:00,Julian Brandt,Pass
+325844,50,BlockedShot,0.8769999694824219,0.41200000762939454,0.10008399933576584,Thorgan Hazard,h,213,OpenPlay,2019,RightFoot,12469,Borussia Dortmund,Borussia M.Gladbach,1,0,2019-10-19 17:30:00,Marco Reus,Pass
+325846,51,BlockedShot,0.8159999847412109,0.5570000076293945,0.05759270116686821,Thorgan Hazard,h,213,OpenPlay,2019,RightFoot,12469,Borussia Dortmund,Borussia M.Gladbach,1,0,2019-10-19 17:30:00,Achraf Hakimi,Pass
+327101,78,BlockedShot,0.8109999847412109,0.4859999847412109,0.049081601202487946,Thorgan Hazard,a,213,OpenPlay,2019,RightFoot,12478,Schalke 04,Borussia Dortmund,0,0,2019-10-26 14:30:00,Jadon Sancho,Pass
+329027,42,BlockedShot,0.805,0.6430000305175781,0.034002501517534256,Thorgan Hazard,h,213,OpenPlay,2019,RightFoot,12484,Borussia Dortmund,Wolfsburg,3,0,2019-11-02 14:30:00,Julian Weigl,Pass
+329032,51,Goal,0.8569999694824219,0.634000015258789,0.063372902572155,Thorgan Hazard,h,213,OpenPlay,2019,RightFoot,12484,Borussia Dortmund,Wolfsburg,3,0,2019-11-02 14:30:00,Achraf Hakimi,Pass
+329040,79,MissedShots,0.835,0.505,0.10612700134515762,Thorgan Hazard,h,213,OpenPlay,2019,RightFoot,12484,Borussia Dortmund,Wolfsburg,3,0,2019-11-02 14:30:00,Achraf Hakimi,Pass
+329044,86,SavedShot,0.9180000305175782,0.590999984741211,0.5071409940719604,Thorgan Hazard,h,213,OpenPlay,2019,LeftFoot,12484,Borussia Dortmund,Wolfsburg,3,0,2019-11-02 14:30:00,,None
+331772,75,SavedShot,0.8980000305175782,0.33299999237060546,0.06552980095148087,Thorgan Hazard,h,213,OpenPlay,2019,RightFoot,12502,Borussia Dortmund,Paderborn,3,3,2019-11-22 19:30:00,Julian Brandt,Pass
+331776,82,SavedShot,0.9019999694824219,0.49,0.07941500097513199,Thorgan Hazard,h,213,OpenPlay,2019,LeftFoot,12502,Borussia Dortmund,Paderborn,3,3,2019-11-22 19:30:00,,None
+333505,16,Goal,0.9209999847412109,0.4420000076293945,0.4814299941062927,Thorgan Hazard,a,213,OpenPlay,2019,RightFoot,12513,Hertha Berlin,Borussia Dortmund,1,2,2019-11-30 14:30:00,Achraf Hakimi,Pass
+333513,39,BlockedShot,0.785,0.395,0.03511689975857735,Thorgan Hazard,a,213,OpenPlay,2019,RightFoot,12513,Hertha Berlin,Borussia Dortmund,1,2,2019-11-30 14:30:00,Marco Reus,Pass
+335581,57,Goal,0.8880000305175781,0.645,0.5184149742126465,Thorgan Hazard,h,213,OpenPlay,2019,RightFoot,12520,Borussia Dortmund,Fortuna Duesseldorf,5,0,2019-12-07 14:30:00,Jadon Sancho,Throughball
+335582,61,BlockedShot,0.87,0.5609999847412109,0.2200160026550293,Thorgan Hazard,h,213,OpenPlay,2019,RightFoot,12520,Borussia Dortmund,Fortuna Duesseldorf,5,0,2019-12-07 14:30:00,Jadon Sancho,TakeOn
+336888,9,BlockedShot,0.875999984741211,0.3890000152587891,0.09010220319032669,Thorgan Hazard,a,213,OpenPlay,2019,LeftFoot,12534,Mainz 05,Borussia Dortmund,0,4,2019-12-14 14:30:00,Marco Reus,Pass
+336891,17,BlockedShot,0.8209999847412109,0.21899999618530275,0.02216929942369461,Thorgan Hazard,a,213,OpenPlay,2019,RightFoot,12534,Mainz 05,Borussia Dortmund,0,4,2019-12-14 14:30:00,Julian Brandt,Pass
+336894,35,BlockedShot,0.75,0.629000015258789,0.026012899354100227,Thorgan Hazard,a,213,OpenPlay,2019,RightFoot,12534,Mainz 05,Borussia Dortmund,0,4,2019-12-14 14:30:00,Dan-Axel Zagadou,Pass
+336905,68,Goal,0.835,0.33,0.060366999357938766,Thorgan Hazard,a,213,OpenPlay,2019,RightFoot,12534,Mainz 05,Borussia Dortmund,0,4,2019-12-14 14:30:00,Marco Reus,Pass
+337999,31,BlockedShot,0.785,0.32599998474121095,0.030096199363470078,Thorgan Hazard,h,213,OpenPlay,2019,RightFoot,12538,Borussia Dortmund,RasenBallsport Leipzig,3,3,2019-12-17 19:30:00,Julian Brandt,Pass
+338316,38,SavedShot,0.8180000305175781,0.29100000381469726,0.03492780029773712,Thorgan Hazard,a,213,OpenPlay,2019,RightFoot,12549,Hoffenheim,Borussia Dortmund,2,1,2019-12-20 19:30:00,Mario Götze,Pass
+354857,3,SavedShot,0.87,0.355,0.3148770034313202,Thorgan Hazard,a,213,OpenPlay,2019,RightFoot,12562,Augsburg,Borussia Dortmund,3,5,2020-01-18 14:30:00,,None
+354880,64,SavedShot,0.785,0.6819999694824219,0.023214099928736687,Thorgan Hazard,a,213,OpenPlay,2019,RightFoot,12562,Augsburg,Borussia Dortmund,3,5,2020-01-18 14:30:00,Jadon Sancho,Pass
+355519,39,SavedShot,0.8830000305175781,0.42700000762939455,0.1303980052471161,Thorgan Hazard,h,213,OpenPlay,2019,RightFoot,12566,Borussia Dortmund,FC Cologne,5,1,2020-01-24 19:30:00,Raphael Guerreiro,Pass
+358714,4,BlockedShot,0.830999984741211,0.7280000305175781,0.04634920135140419,Thorgan Hazard,h,213,OpenPlay,2019,RightFoot,12592,Borussia Dortmund,Eintracht Frankfurt,4,0,2020-02-14 19:30:00,Erling Haaland,Pass
+358716,11,MissedShots,0.8190000152587891,0.29600000381469727,0.02797430008649826,Thorgan Hazard,h,213,OpenPlay,2019,RightFoot,12592,Borussia Dortmund,Eintracht Frankfurt,4,0,2020-02-14 19:30:00,Dan-Axel Zagadou,Pass
+358731,86,SavedShot,0.794000015258789,0.6079999923706054,0.05172419920563698,Thorgan Hazard,h,213,OpenPlay,2019,RightFoot,12592,Borussia Dortmund,Eintracht Frankfurt,4,0,2020-02-14 19:30:00,Raphael Guerreiro,Pass
+359815,23,MissedShots,0.8680000305175781,0.5129999923706055,0.07496029883623123,Thorgan Hazard,a,213,OpenPlay,2019,RightFoot,12606,Werder Bremen,Borussia Dortmund,0,2,2020-02-22 14:30:00,Erling Haaland,Cross
+360729,34,BlockedShot,0.8690000152587891,0.5129999923706055,0.17167599499225616,Thorgan Hazard,h,213,OpenPlay,2019,RightFoot,12610,Borussia Dortmund,Freiburg,1,0,2020-02-29 14:30:00,Julian Brandt,TakeOn
+361824,7,Goal,0.875999984741211,0.3729999923706055,0.11075499653816223,Thorgan Hazard,a,213,OpenPlay,2019,LeftFoot,12621,Borussia M.Gladbach,Borussia Dortmund,1,2,2020-03-07 17:30:00,Erling Haaland,TakeOn
+361836,64,SavedShot,0.899000015258789,0.5320000076293945,0.044531699270009995,Thorgan Hazard,a,213,OpenPlay,2019,Head,12621,Borussia M.Gladbach,Borussia Dortmund,1,2,2020-03-07 17:30:00,Achraf Hakimi,Aerial
+362917,6,MissedShots,0.754000015258789,0.34299999237060547,0.021473299711942673,Thorgan Hazard,h,213,OpenPlay,2019,RightFoot,12628,Borussia Dortmund,Schalke 04,4,0,2020-05-16 13:30:00,Erling Haaland,Pass
+362929,47,Goal,0.8159999847412109,0.40200000762939453,0.10079599916934967,Thorgan Hazard,h,213,OpenPlay,2019,RightFoot,12628,Borussia Dortmund,Schalke 04,4,0,2020-05-16 13:30:00,Julian Brandt,Pass
+363197,15,MissedShots,0.805,0.27600000381469725,0.018859900534152985,Thorgan Hazard,a,213,OpenPlay,2019,LeftFoot,12640,Wolfsburg,Borussia Dortmund,0,2,2020-05-23 13:30:00,Achraf Hakimi,TakeOn
+363200,42,MissedShots,0.8209999847412109,0.5059999847412109,0.0796947032213211,Thorgan Hazard,a,213,OpenPlay,2019,RightFoot,12640,Wolfsburg,Borussia Dortmund,0,2,2020-05-23 13:30:00,Achraf Hakimi,Pass
+363736,16,SavedShot,0.9330000305175781,0.31,0.27928799390792847,Thorgan Hazard,a,213,OpenPlay,2019,RightFoot,12663,Paderborn,Borussia Dortmund,1,6,2020-05-31 16:00:00,Lukasz Piszczek,Chipped
+363746,51,MissedShots,0.9430000305175781,0.47200000762939454,0.60971599817276,Thorgan Hazard,a,213,OpenPlay,2019,RightFoot,12663,Paderborn,Borussia Dortmund,1,6,2020-05-31 16:00:00,Jadon Sancho,Pass
+363747,53,Goal,0.9640000152587891,0.5279999923706055,0.6380919814109802,Thorgan Hazard,a,213,OpenPlay,2019,RightFoot,12663,Paderborn,Borussia Dortmund,1,6,2020-05-31 16:00:00,,None
+363957,20,MissedShots,0.92,0.38799999237060545,0.08160369843244553,Thorgan Hazard,h,213,OpenPlay,2019,RightFoot,12664,Borussia Dortmund,Hertha Berlin,1,0,2020-06-06 16:30:00,,None
+364752,2,MissedShots,0.7119999694824218,0.4779999923706055,0.01691490039229393,Thorgan Hazard,h,213,OpenPlay,2019,RightFoot,12682,Borussia Dortmund,Mainz 05,0,2,2020-06-17 18:30:00,Lukasz Piszczek,Pass
+365252,12,MissedShots,0.825,0.655,0.06610149890184402,Thorgan Hazard,a,213,OpenPlay,2019,RightFoot,12692,RasenBallsport Leipzig,Borussia Dortmund,0,2,2020-06-20 13:30:00,Raphael Guerreiro,Pass
+365255,23,SavedShot,0.8980000305175782,0.33,0.0611862987279892,Thorgan Hazard,a,213,OpenPlay,2019,RightFoot,12692,RasenBallsport Leipzig,Borussia Dortmund,0,2,2020-06-20 13:30:00,Mats Hummels,Chipped
+366827,4,BlockedShot,0.8069999694824219,0.6730000305175782,0.028490599244832993,Thorgan Hazard,h,213,OpenPlay,2019,RightFoot,12700,Borussia Dortmund,Hoffenheim,0,4,2020-06-27 13:30:00,,None
+366835,32,SavedShot,0.7180000305175781,0.524000015258789,0.01439059991389513,Thorgan Hazard,h,213,OpenPlay,2019,RightFoot,12700,Borussia Dortmund,Hoffenheim,0,4,2020-06-27 13:30:00,Raphael Guerreiro,Pass
+366837,46,MissedShots,0.76,0.5970000076293945,0.022828400135040283,Thorgan Hazard,h,213,OpenPlay,2019,RightFoot,12700,Borussia Dortmund,Hoffenheim,0,4,2020-06-27 13:30:00,Giovanni Reyna,Pass
+384564,43,BlockedShot,0.8530000305175781,0.48700000762939455,0.09858780354261398,Thorgan Hazard,a,213,OpenPlay,2020,RightFoot,15188,Arminia Bielefeld,Borussia Dortmund,0,2,2020-10-31 14:30:00,Julian Brandt,Pass
+386135,69,SavedShot,0.9080000305175782,0.3770000076293945,0.08655209839344025,Thorgan Hazard,h,213,OpenPlay,2020,RightFoot,15200,Borussia Dortmund,Bayern Munich,2,3,2020-11-07 17:30:00,Thomas Meunier,Pass
+388702,73,Goal,0.889000015258789,0.65,0.26098498702049255,Thorgan Hazard,h,213,OpenPlay,2020,RightFoot,15212,Borussia Dortmund,FC Cologne,1,2,2020-11-28 14:30:00,Giovanni Reyna,Pass
+408703,46,MissedShots,0.914000015258789,0.33099998474121095,0.02934120036661625,Thorgan Hazard,a,213,OpenPlay,2020,RightFoot,15351,Bayern Munich,Borussia Dortmund,4,2,2021-03-06 17:30:00,Nico Schulz,Cross
+411290,7,BlockedShot,0.9009999847412109,0.47900001525878905,0.1410450041294098,Thorgan Hazard,a,213,OpenPlay,2020,LeftFoot,15371,FC Cologne,Borussia Dortmund,2,2,2021-03-20 14:30:00,Giovanni Reyna,Pass
+411291,8,BlockedShot,0.7169999694824218,0.595999984741211,0.04437270015478134,Thorgan Hazard,a,213,DirectFreekick,2020,RightFoot,15371,FC Cologne,Borussia Dortmund,2,2,2021-03-20 14:30:00,,Standard
+411306,85,MissedShots,0.750999984741211,0.3340000152587891,0.018747100606560707,Thorgan Hazard,a,213,OpenPlay,2020,LeftFoot,15371,FC Cologne,Borussia Dortmund,2,2,2021-03-20 14:30:00,Mats Hummels,Pass
+412541,48,BlockedShot,0.850999984741211,0.5129999923706055,0.09320910274982452,Thorgan Hazard,h,213,OpenPlay,2020,LeftFoot,15374,Borussia Dortmund,Eintracht Frankfurt,1,2,2021-04-03 13:30:00,Nico Schulz,Pass
+416435,13,SavedShot,0.7380000305175781,0.47,0.019008299335837364,Thorgan Hazard,h,213,OpenPlay,2020,LeftFoot,15402,Borussia Dortmund,Union Berlin,2,0,2021-04-21 18:30:00,,BallRecovery
+420031,31,SavedShot,0.955999984741211,0.30100000381469727,0.060461901128292084,Thorgan Hazard,h,213,OpenPlay,2020,RightFoot,15420,Borussia Dortmund,RasenBallsport Leipzig,3,2,2021-05-08 13:30:00,Mahmoud Dahoud,Pass
+426011,7,BlockedShot,0.8690000152587891,0.28600000381469726,0.0358969010412693,Thorgan Hazard,h,213,OpenPlay,2021,RightFoot,17522,Borussia Dortmund,Eintracht Frankfurt,5,2,2021-08-14 16:30:00,Jude Bellingham,Pass
+426016,31,Goal,0.924000015258789,0.345,0.10924199968576431,Thorgan Hazard,h,213,OpenPlay,2021,RightFoot,17522,Borussia Dortmund,Eintracht Frankfurt,5,2,2021-08-14 16:30:00,Erling Haaland,Pass
+433651,88,BlockedShot,0.7559999847412109,0.53,0.07374030351638794,Thorgan Hazard,a,213,DirectFreekick,2021,RightFoot,17567,Borussia M.Gladbach,Borussia Dortmund,1,0,2021-09-25 16:30:00,,Standard
+433652,90,MissedShots,0.9519999694824218,0.40400001525878904,0.2540940046310425,Thorgan Hazard,a,213,OpenPlay,2021,Head,17567,Borussia M.Gladbach,Borussia Dortmund,1,0,2021-09-25 16:30:00,,None
+434763,65,ShotOnPost,0.8130000305175781,0.5640000152587891,0.25885099172592163,Thorgan Hazard,h,213,OpenPlay,2021,LeftFoot,17576,Borussia Dortmund,Augsburg,2,1,2021-10-02 13:30:00,Donyell Malen,Pass
+437701,11,BlockedShot,0.7930000305175782,0.6890000152587891,0.020488200709223747,Thorgan Hazard,a,213,OpenPlay,2021,RightFoot,17590,Arminia Bielefeld,Borussia Dortmund,1,3,2021-10-23 13:30:00,,None
+437709,34,MissedShots,0.970999984741211,0.6569999694824219,0.08059459924697876,Thorgan Hazard,a,213,OpenPlay,2021,LeftFoot,17590,Arminia Bielefeld,Borussia Dortmund,1,3,2021-10-23 13:30:00,Marco Reus,None
+439589,39,Goal,0.935,0.5029999923706054,0.45703598856925964,Thorgan Hazard,h,213,OpenPlay,2021,Head,17605,Borussia Dortmund,FC Cologne,2,0,2021-10-30 13:30:00,Jude Bellingham,Chipped
+441258,77,BlockedShot,0.7430000305175781,0.715,0.01560830045491457,Thorgan Hazard,a,213,OpenPlay,2021,RightFoot,17613,RasenBallsport Leipzig,Borussia Dortmund,2,1,2021-11-06 17:30:00,Jude Bellingham,Pass
+442366,11,BlockedShot,0.8040000152587891,0.6359999847412109,0.03521319851279259,Thorgan Hazard,h,213,OpenPlay,2021,RightFoot,17623,Borussia Dortmund,VfB Stuttgart,2,1,2021-11-20 14:30:00,Jude Bellingham,Pass
+442373,24,BlockedShot,0.904000015258789,0.395,0.08129700273275375,Thorgan Hazard,h,213,OpenPlay,2021,RightFoot,17623,Borussia Dortmund,VfB Stuttgart,2,1,2021-11-20 14:30:00,,None
+442375,36,MissedShots,0.8469999694824218,0.759000015258789,0.020888399332761765,Thorgan Hazard,h,213,OpenPlay,2021,RightFoot,17623,Borussia Dortmund,VfB Stuttgart,2,1,2021-11-20 14:30:00,Jude Bellingham,Pass
+442394,84,SavedShot,0.9169999694824219,0.5879999923706055,0.5458639860153198,Thorgan Hazard,h,213,OpenPlay,2021,RightFoot,17623,Borussia Dortmund,VfB Stuttgart,2,1,2021-11-20 14:30:00,Marco Reus,TakeOn
+448976,2,MissedShots,0.870999984741211,0.7,0.04324420168995857,Thorgan Hazard,h,213,OpenPlay,2021,RightFoot,17659,Borussia Dortmund,Greuther Fuerth,3,0,2021-12-15 19:30:00,,None
+448986,44,BlockedShot,0.7709999847412109,0.725999984741211,0.02369140088558197,Thorgan Hazard,h,213,OpenPlay,2021,RightFoot,17659,Borussia Dortmund,Greuther Fuerth,3,0,2021-12-15 19:30:00,Jude Bellingham,Pass
+452257,70,Goal,0.855999984741211,0.509000015258789,0.29451701045036316,Thorgan Hazard,a,213,OpenPlay,2021,RightFoot,17675,Eintracht Frankfurt,Borussia Dortmund,2,3,2022-01-08 17:30:00,Erling Haaland,Pass
+460446,34,Goal,0.9230000305175782,0.3509999847412109,0.11071000248193741,Thorgan Hazard,a,213,OpenPlay,2021,RightFoot,17725,Augsburg,Borussia Dortmund,1,1,2022-02-27 16:30:00,Mahmoud Dahoud,TakeOn
+463233,30,BlockedShot,0.9290000152587891,0.40400001525878904,0.10978899896144867,Thorgan Hazard,h,213,OpenPlay,2021,RightFoot,17749,Borussia Dortmund,Arminia Bielefeld,1,0,2022-03-13 16:30:00,,None
+463238,45,BlockedShot,0.9690000152587891,0.3870000076293945,0.13217200338840485,Thorgan Hazard,h,213,OpenPlay,2021,RightFoot,17749,Borussia Dortmund,Arminia Bielefeld,1,0,2022-03-13 16:30:00,Mahmoud Dahoud,Throughball
+463245,60,BlockedShot,0.9069999694824219,0.4540000152587891,0.14131200313568115,Thorgan Hazard,h,213,OpenPlay,2021,RightFoot,17749,Borussia Dortmund,Arminia Bielefeld,1,0,2022-03-13 16:30:00,,Rebound
+463548,21,SavedShot,0.9519999694824218,0.700999984741211,0.041698601096868515,Thorgan Hazard,a,213,OpenPlay,2021,LeftFoot,17736,Mainz 05,Borussia Dortmund,0,1,2022-03-16 17:30:00,Nico Schulz,Pass
+463561,73,MissedShots,0.7969999694824219,0.69,0.0731813982129097,Thorgan Hazard,a,213,DirectFreekick,2021,RightFoot,17736,Mainz 05,Borussia Dortmund,0,1,2022-03-16 17:30:00,,Standard
+479418,27,MissedShots,0.9540000152587891,0.6509999847412109,0.03925300016999245,Thorgan Hazard,h,213,FromCorner,2022,RightFoot,19348,Borussia Dortmund,Bayer Leverkusen,1,0,2022-08-06 16:30:00,Donyell Malen,Cross
+479421,49,SavedShot,0.9330000305175781,0.514000015258789,0.5925679802894592,Thorgan Hazard,h,213,OpenPlay,2022,LeftFoot,19348,Borussia Dortmund,Bayer Leverkusen,1,0,2022-08-06 16:30:00,Donyell Malen,Pass
+481714,79,SavedShot,0.7809999847412109,0.705999984741211,0.030797699466347694,Thorgan Hazard,h,213,OpenPlay,2022,RightFoot,19364,Borussia Dortmund,Werder Bremen,2,3,2022-08-20 13:30:00,Marius Wolf,Pass
+485559,60,BlockedShot,0.9290000152587891,0.6969999694824218,0.0684543028473854,Thorgan Hazard,h,213,OpenPlay,2022,RightFoot,19378,Borussia Dortmund,Hoffenheim,1,0,2022-09-02 18:30:00,Marius Wolf,Pass
+485561,66,SavedShot,0.9159999847412109,0.43900001525878907,0.48704200983047485,Thorgan Hazard,h,213,OpenPlay,2022,RightFoot,19378,Borussia Dortmund,Hoffenheim,1,0,2022-09-02 18:30:00,,None
+489950,75,MissedShots,0.9380000305175781,0.5659999847412109,0.4059000015258789,Thorgan Hazard,a,213,OpenPlay,2022,LeftFoot,19408,FC Cologne,Borussia Dortmund,3,2,2022-10-01 13:30:00,,Rebound
+491762,93,MissedShots,0.8280000305175781,0.2510000038146973,0.020274000242352486,Thorgan Hazard,h,213,OpenPlay,2022,RightFoot,19414,Borussia Dortmund,Bayern Munich,2,2,2022-10-08 16:30:00,,None
+499764,56,MissedShots,0.755,0.38299999237060545,0.013328099623322487,Thorgan Hazard,a,213,SetPiece,2022,RightFoot,19472,Borussia M.Gladbach,Borussia Dortmund,4,2,2022-11-11 19:30:00,,None

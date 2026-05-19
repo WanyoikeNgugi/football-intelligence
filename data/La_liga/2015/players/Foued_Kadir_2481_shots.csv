@@ -1,0 +1,11 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+88737,3,MissedShots,0.909000015258789,0.225,0.026918800547719002,Foued Kadir,a,2481,OpenPlay,2015,RightFoot,1590,Villarreal,Real Betis,0,0,2016-01-16 23:30:00,Rubén Castro,Pass
+88738,6,BlockedShot,0.8730000305175781,0.6719999694824219,0.059809401631355286,Foued Kadir,a,2481,OpenPlay,2015,LeftFoot,1590,Villarreal,Real Betis,0,0,2016-01-16 23:30:00,Álvaro Cejudo,BallTouch
+88755,70,MissedShots,0.9,0.29700000762939455,0.09420370310544968,Foued Kadir,a,2481,OpenPlay,2015,RightFoot,1590,Villarreal,Real Betis,0,0,2016-01-16 23:30:00,Fabián,Chipped
+89737,60,MissedShots,0.8769999694824219,0.34599998474121096,0.06518130004405975,Foued Kadir,a,2481,OpenPlay,2015,LeftFoot,1632,Deportivo La Coruna,Real Betis,2,2,2016-02-14 01:05:00,Ricky van Wolfswinkel,Pass
+89998,18,MissedShots,0.7809999847412109,0.524000015258789,0.01711910031735897,Foued Kadir,h,2481,FromCorner,2015,LeftFoot,1642,Real Betis,Sporting Gijon,1,1,2016-02-20 23:30:00,,Aerial
+90001,24,BlockedShot,0.865,0.29700000762939455,0.03731770068407059,Foued Kadir,h,2481,OpenPlay,2015,RightFoot,1642,Real Betis,Sporting Gijon,1,1,2016-02-20 23:30:00,Rubén Castro,Pass
+90012,71,SavedShot,0.8040000152587891,0.225,0.021934600546956062,Foued Kadir,h,2481,OpenPlay,2015,RightFoot,1642,Real Betis,Sporting Gijon,1,1,2016-02-20 23:30:00,,TakeOn
+90903,14,BlockedShot,0.8859999847412109,0.285,0.038221199065446854,Foued Kadir,h,2481,OpenPlay,2015,RightFoot,1694,Real Betis,Malaga,0,1,2016-03-20 01:05:00,Leandro Damião,Pass
+91651,32,BlockedShot,0.764000015258789,0.3729999923706055,0.014676700346171856,Foued Kadir,h,2481,SetPiece,2015,RightFoot,1730,Real Betis,Las Palmas,1,0,2016-04-19 23:00:00,,None
+91653,50,BlockedShot,0.7140000152587891,0.41900001525878905,0.013705000281333923,Foued Kadir,h,2481,FromCorner,2015,LeftFoot,1730,Real Betis,Las Palmas,1,0,2016-04-19 23:00:00,,None

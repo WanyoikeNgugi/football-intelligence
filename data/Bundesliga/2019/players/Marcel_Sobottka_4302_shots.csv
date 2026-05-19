@@ -1,0 +1,14 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+222260,8,BlockedShot,0.769000015258789,0.5640000152587891,0.025649400427937508,Marcel Sobottka,a,4302,OpenPlay,2018,RightFoot,10353,RasenBallsport Leipzig,Fortuna Duesseldorf,1,1,2018-09-02 13:30:00,,None
+223491,54,SavedShot,0.93,0.4779999923706055,0.07354959845542908,Marcel Sobottka,h,4302,SetPiece,2018,Head,10359,Fortuna Duesseldorf,Hoffenheim,2,1,2018-09-15 13:30:00,Niko Gießelmann,Aerial
+224671,51,SavedShot,0.9269999694824219,0.615,0.03349659964442253,Marcel Sobottka,a,4302,FromCorner,2018,Head,10364,VfB Stuttgart,Fortuna Duesseldorf,0,0,2018-09-21 18:30:00,Jean Zimmer,Cross
+255320,69,MissedShots,0.8490000152587891,0.46599998474121096,0.06083599850535393,Marcel Sobottka,h,4302,FromCorner,2018,RightFoot,10399,Fortuna Duesseldorf,Schalke 04,0,2,2018-10-06 13:30:00,,None
+255428,43,MissedShots,0.870999984741211,0.615,0.051377199590206146,Marcel Sobottka,a,4302,FromCorner,2018,LeftFoot,10403,Eintracht Frankfurt,Fortuna Duesseldorf,7,1,2018-10-19 18:30:00,Kevin Stöger,Pass
+257709,81,MissedShots,0.904000015258789,0.4909999847412109,0.10937599837779999,Marcel Sobottka,a,4302,OpenPlay,2018,Head,10489,Hannover 96,Fortuna Duesseldorf,0,1,2018-12-22 14:30:00,Niko Gießelmann,Cross
+332108,84,BlockedShot,0.7909999847412109,0.32799999237060545,0.026148999109864235,Marcel Sobottka,h,4302,OpenPlay,2019,RightFoot,12505,Fortuna Duesseldorf,Bayern Munich,0,4,2019-11-23 14:30:00,Erik Thommy,LayOff
+337206,30,MissedShots,0.7440000152587891,0.6409999847412109,0.02265479974448681,Marcel Sobottka,h,4302,OpenPlay,2019,RightFoot,12532,Fortuna Duesseldorf,RasenBallsport Leipzig,0,3,2019-12-14 17:30:00,,TakeOn
+364207,64,SavedShot,0.8469999694824218,0.5070000076293946,0.09618140012025833,Marcel Sobottka,h,4302,OpenPlay,2019,LeftFoot,12676,Fortuna Duesseldorf,Borussia Dortmund,0,1,2020-06-13 13:30:00,Erik Thommy,Pass
+364209,71,MissedShots,0.7340000152587891,0.635,0.01418600045144558,Marcel Sobottka,h,4302,FromCorner,2019,RightFoot,12676,Fortuna Duesseldorf,Borussia Dortmund,0,1,2020-06-13 13:30:00,,None
+364792,71,MissedShots,0.8519999694824218,0.585,0.06529200077056885,Marcel Sobottka,a,4302,OpenPlay,2019,RightFoot,12683,RasenBallsport Leipzig,Fortuna Duesseldorf,2,2,2020-06-17 18:30:00,Kenan Karaman,BallTouch
+364799,86,MissedShots,0.8669999694824219,0.5359999847412109,0.06369169801473618,Marcel Sobottka,a,4302,OpenPlay,2019,LeftFoot,12683,RasenBallsport Leipzig,Fortuna Duesseldorf,2,2,2020-06-17 18:30:00,,None
+365303,15,MissedShots,0.865,0.36,0.048248399049043655,Marcel Sobottka,h,4302,SetPiece,2019,RightFoot,12694,Fortuna Duesseldorf,Augsburg,1,1,2020-06-20 13:30:00,,Rebound

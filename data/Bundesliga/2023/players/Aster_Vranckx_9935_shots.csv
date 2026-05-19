@@ -1,0 +1,35 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+437695,87,BlockedShot,0.8919999694824219,0.28899999618530275,0.04098000004887581,Aster Vranckx,h,9935,SetPiece,2021,RightFoot,17594,Wolfsburg,Freiburg,0,2,2021-10-23 13:30:00,Maximilian Arnold,TakeOn
+439557,8,SavedShot,0.8059999847412109,0.36,0.03078250028192997,Aster Vranckx,a,9935,OpenPlay,2021,RightFoot,17603,Bayer Leverkusen,Wolfsburg,0,2,2021-10-30 13:30:00,Lukas Nmecha,Pass
+439558,11,BlockedShot,0.7230000305175781,0.4329999923706055,0.017692899331450462,Aster Vranckx,a,9935,OpenPlay,2021,RightFoot,17603,Bayer Leverkusen,Wolfsburg,0,2,2021-10-30 13:30:00,Maximilian Arnold,Pass
+443956,45,MissedShots,0.735999984741211,0.5459999847412109,0.020194200798869133,Aster Vranckx,h,9935,OpenPlay,2021,RightFoot,17630,Wolfsburg,Borussia Dortmund,1,3,2021-11-27 14:30:00,Dodi Lukebakio,Pass
+443958,51,SavedShot,0.775,0.63,0.025176700204610825,Aster Vranckx,h,9935,OpenPlay,2021,RightFoot,17630,Wolfsburg,Borussia Dortmund,1,3,2021-11-27 14:30:00,Dodi Lukebakio,Pass
+446104,5,BlockedShot,0.7830000305175782,0.5720000076293945,0.024907700717449188,Aster Vranckx,a,9935,OpenPlay,2021,RightFoot,17635,Mainz 05,Wolfsburg,3,0,2021-12-04 14:30:00,,None
+446106,7,MissedShots,0.875999984741211,0.47099998474121096,0.054469600319862366,Aster Vranckx,a,9935,SetPiece,2021,Head,17635,Mainz 05,Wolfsburg,3,0,2021-12-04 14:30:00,Maximilian Arnold,Cross
+446111,20,ShotOnPost,0.634000015258789,0.710999984741211,0.022608399391174316,Aster Vranckx,a,9935,DirectFreekick,2021,RightFoot,17635,Mainz 05,Wolfsburg,3,0,2021-12-04 14:30:00,,Standard
+448820,43,MissedShots,0.7440000152587891,0.73,0.039789099246263504,Aster Vranckx,h,9935,DirectFreekick,2021,RightFoot,17658,Wolfsburg,FC Cologne,2,3,2021-12-14 19:30:00,,Standard
+448827,64,MissedShots,0.8209999847412109,0.43099998474121093,0.10289300233125687,Aster Vranckx,h,9935,OpenPlay,2021,RightFoot,17658,Wolfsburg,FC Cologne,2,3,2021-12-14 19:30:00,Dodi Lukebakio,Pass
+455218,38,SavedShot,0.7519999694824219,0.7169999694824218,0.04437309876084328,Aster Vranckx,a,9935,DirectFreekick,2021,RightFoot,17695,RasenBallsport Leipzig,Wolfsburg,2,0,2022-01-23 14:30:00,,Standard
+455220,40,SavedShot,0.9290000152587891,0.5790000152587891,0.4194529950618744,Aster Vranckx,a,9935,OpenPlay,2021,RightFoot,17695,RasenBallsport Leipzig,Wolfsburg,2,0,2022-01-23 14:30:00,Jérôme Roussillon,Rebound
+455223,52,MissedShots,0.7440000152587891,0.6,0.02124919928610325,Aster Vranckx,a,9935,OpenPlay,2021,LeftFoot,17695,RasenBallsport Leipzig,Wolfsburg,2,0,2022-01-23 14:30:00,Maximilian Arnold,Pass
+456336,6,Goal,0.9619999694824218,0.48200000762939454,0.7289360165596008,Aster Vranckx,h,9935,OpenPlay,2021,LeftFoot,17702,Wolfsburg,Greuther Fuerth,4,1,2022-02-06 16:30:00,,Rebound
+456341,27,MissedShots,0.9280000305175782,0.47299999237060547,0.4124079942703247,Aster Vranckx,h,9935,OpenPlay,2021,Head,17702,Wolfsburg,Greuther Fuerth,4,1,2022-02-06 16:30:00,Max Kruse,Cross
+456346,39,MissedShots,0.7619999694824219,0.710999984741211,0.04932419955730438,Aster Vranckx,h,9935,DirectFreekick,2021,RightFoot,17702,Wolfsburg,Greuther Fuerth,4,1,2022-02-06 16:30:00,,Standard
+456350,48,Goal,0.825999984741211,0.6120000076293945,0.05482940003275871,Aster Vranckx,h,9935,OpenPlay,2021,RightFoot,17702,Wolfsburg,Greuther Fuerth,4,1,2022-02-06 16:30:00,Renato Steffen,BallTouch
+456355,78,MissedShots,0.78,0.6379999923706055,0.030229300260543823,Aster Vranckx,h,9935,OpenPlay,2021,RightFoot,17702,Wolfsburg,Greuther Fuerth,4,1,2022-02-06 16:30:00,Bartosz Bialek,Pass
+456954,29,MissedShots,0.725999984741211,0.43400001525878906,0.01957930065691471,Aster Vranckx,a,9935,OpenPlay,2021,RightFoot,17712,Eintracht Frankfurt,Wolfsburg,0,2,2022-02-12 14:30:00,,None
+458123,27,MissedShots,0.8690000152587891,0.4929999923706055,0.032442398369312286,Aster Vranckx,h,9935,FromCorner,2021,RightFoot,17720,Wolfsburg,Hoffenheim,1,2,2022-02-19 14:30:00,,Aerial
+462480,78,BlockedShot,0.8059999847412109,0.4909999847412109,0.06293849647045135,Aster Vranckx,a,9935,OpenPlay,2021,LeftFoot,17744,Freiburg,Wolfsburg,3,2,2022-03-12 14:30:00,Jonas Wind,TakeOn
+468043,69,ShotOnPost,0.8809999847412109,0.500999984741211,0.07668910175561905,Aster Vranckx,a,9935,SetPiece,2021,RightFoot,17785,Borussia Dortmund,Wolfsburg,6,1,2022-04-16 13:30:00,,None
+471519,74,SavedShot,0.7709999847412109,0.3679999923706055,0.03405750170350075,Aster Vranckx,a,9935,OpenPlay,2021,LeftFoot,17799,VfB Stuttgart,Wolfsburg,1,1,2022-04-30 13:30:00,,BallRecovery
+471522,77,SavedShot,0.9259999847412109,0.49900001525878906,0.05789950117468834,Aster Vranckx,a,9935,FromCorner,2021,Head,17799,VfB Stuttgart,Wolfsburg,1,1,2022-04-30 13:30:00,Maximilian Arnold,Aerial
+471525,87,BlockedShot,0.8769999694824219,0.6,0.10441000014543533,Aster Vranckx,a,9935,OpenPlay,2021,RightFoot,17799,VfB Stuttgart,Wolfsburg,1,1,2022-04-30 13:30:00,Maximilian Arnold,Pass
+519239,2,MissedShots,0.7380000305175781,0.3629999923706055,0.014120999723672867,Aster Vranckx,a,9935,OpenPlay,2022,RightFoot,18872,Bologna,AC Milan,1,1,2023-04-15 13:00:00,,BallTouch
+519254,64,MissedShots,0.750999984741211,0.4590000152587891,0.02105109952390194,Aster Vranckx,a,9935,OpenPlay,2022,LeftFoot,18872,Bologna,AC Milan,1,1,2023-04-15 13:00:00,Junior Messias,Pass
+547974,45,SavedShot,0.7809999847412109,0.69,0.017709828913211823,Aster Vranckx,a,9935,OpenPlay,2023,RightFoot,23158,Borussia M.Gladbach,Wolfsburg,4,0,2023-11-10 19:30:00,Kevin Paredes,BlockedPass
+554142,46,MissedShots,0.75,0.425,0.01384461484849453,Aster Vranckx,a,9935,SetPiece,2023,RightFoot,23199,Darmstadt,Wolfsburg,0,1,2023-12-16 14:30:00,,None
+565755,98,SavedShot,0.7980000305175782,0.56,0.02947624772787094,Aster Vranckx,a,9935,FromCorner,2023,LeftFoot,23267,Eintracht Frankfurt,Wolfsburg,2,2,2024-02-25 14:30:00,,None
+566876,93,BlockedShot,0.8080000305175781,0.4909999847412109,0.05000901222229004,Aster Vranckx,h,9935,FromCorner,2023,LeftFoot,23274,Wolfsburg,VfB Stuttgart,2,3,2024-03-02 17:30:00,,Rebound
+645829,52,BlockedShot,0.754000015258789,0.54,0.02185598947107792,Aster Vranckx,a,9935,OpenPlay,2025,RightFoot,29903,Verona,Sassuolo,0,1,2025-10-03 18:45:00,Armand Lauriente,Pass
+647383,21,MissedShots,0.794000015258789,0.6619999694824219,0.024430926889181137,Aster Vranckx,a,9935,OpenPlay,2025,LeftFoot,29910,Lecce,Sassuolo,0,0,2025-10-18 13:00:00,Armand Lauriente,Pass
+663764,35,SavedShot,0.9180000305175782,0.515,0.04228810593485832,Aster Vranckx,a,9935,FromCorner,2025,Head,30047,Napoli,Sassuolo,1,0,2026-01-17 17:00:00,Andrea Pinamonti,Aerial

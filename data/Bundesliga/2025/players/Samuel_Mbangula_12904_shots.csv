@@ -1,0 +1,26 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+585630,22,Goal,0.8419999694824218,0.5729999923706055,0.06100943684577942,Samuel Mbangula,h,12904,OpenPlay,2024,RightFoot,27371,Juventus,Como,3,0,2024-08-19 18:45:00,,None
+595926,18,MissedShots,0.7980000305175782,0.43099998474121093,0.042215496301651,Samuel Mbangula,h,12904,OpenPlay,2024,RightFoot,27429,Juventus,Cagliari,1,1,2024-10-06 10:30:00,Dusan Vlahovic,Pass
+605032,90,BlockedShot,0.8419999694824218,0.7190000152587891,0.05232212319970131,Samuel Mbangula,a,12904,OpenPlay,2024,RightFoot,27492,Lecce,Juventus,1,1,2024-12-01 19:45:00,Diego Pugno,TakeOn
+605985,91,Goal,0.8190000152587891,0.5520000076293945,0.09518115222454071,Samuel Mbangula,h,12904,OpenPlay,2024,RightFoot,27503,Juventus,Bologna,2,2,2024-12-07 17:00:00,Dusan Vlahovic,Pass
+612368,7,MissedShots,0.8519999694824218,0.6909999847412109,0.04136081784963608,Samuel Mbangula,h,12904,OpenPlay,2024,RightFoot,27568,Juventus,AC Milan,2,0,2025-01-18 17:00:00,Kephren Thuram,Pass
+612386,58,Goal,0.865999984741211,0.705999984741211,0.04094422608613968,Samuel Mbangula,h,12904,OpenPlay,2024,RightFoot,27568,Juventus,AC Milan,2,0,2025-01-18 17:00:00,Nicolás González,Pass
+612388,72,SavedShot,0.7519999694824219,0.46,0.014911825768649578,Samuel Mbangula,h,12904,SetPiece,2024,RightFoot,27568,Juventus,AC Milan,2,0,2025-01-18 17:00:00,,None
+619302,95,SavedShot,0.879000015258789,0.7169999694824218,0.05013185366988182,Samuel Mbangula,a,12904,OpenPlay,2024,RightFoot,27621,Cagliari,Juventus,0,1,2025-02-23 19:45:00,Weston McKennie,Chipped
+632273,94,MissedShots,0.9030000305175782,0.590999984741211,0.058431800454854965,Samuel Mbangula,a,12904,SetPiece,2024,RightFoot,27702,Bologna,Juventus,1,1,2025-05-04 18:45:00,Douglas Luiz,Cross
+638766,27,MissedShots,0.905,0.37799999237060544,0.2670634984970093,Samuel Mbangula,a,12904,OpenPlay,2025,RightFoot,30228,Eintracht Frankfurt,Werder Bremen,4,1,2025-08-23 13:30:00,Romano Schmid,Cross
+640205,46,MissedShots,0.7909999847412109,0.725,0.020473724231123924,Samuel Mbangula,h,12904,OpenPlay,2025,RightFoot,30236,Werder Bremen,Bayer Leverkusen,3,3,2025-08-30 13:30:00,Patrice Covic,Pass
+642453,14,Goal,0.860999984741211,0.33599998474121096,0.05836416035890579,Samuel Mbangula,a,12904,OpenPlay,2025,RightFoot,30250,Borussia M.Gladbach,Werder Bremen,0,4,2025-09-14 15:30:00,Yukinari Sugawara,Pass
+646013,1,Goal,0.815,0.465,0.05252408981323242,Samuel Mbangula,h,12904,OpenPlay,2025,RightFoot,30277,Werder Bremen,St. Pauli,1,0,2025-10-04 13:30:00,,None
+651937,93,Goal,0.9309999847412109,0.3870000076293945,0.34120067954063416,Samuel Mbangula,h,12904,OpenPlay,2025,RightFoot,30313,Werder Bremen,Wolfsburg,2,1,2025-11-07 19:30:00,Victor Boniface,Rebound
+654238,81,BlockedShot,0.8130000305175781,0.6730000305175782,0.06316118687391281,Samuel Mbangula,a,12904,OpenPlay,2025,RightFoot,30320,RasenBallsport Leipzig,Werder Bremen,2,0,2025-11-23 14:30:00,Romano Schmid,Pass
+658937,31,SavedShot,0.8830000305175781,0.55,0.08816120028495789,Samuel Mbangula,h,12904,OpenPlay,2025,RightFoot,30349,Werder Bremen,VfB Stuttgart,0,4,2025-12-14 18:30:00,Jens Stage,HeadPass
+665729,78,BlockedShot,0.915,0.605999984741211,0.06905535608530045,Samuel Mbangula,h,12904,OpenPlay,2025,RightFoot,30367,Werder Bremen,Hoffenheim,0,2,2026-01-27 19:30:00,,None
+665742,94,BlockedShot,0.899000015258789,0.6680000305175782,0.11781167984008789,Samuel Mbangula,h,12904,OpenPlay,2025,LeftFoot,30367,Werder Bremen,Hoffenheim,0,2,2026-01-27 19:30:00,Jens Stage,TakeOn
+665744,96,SavedShot,0.8080000305175781,0.47700000762939454,0.036341164261102676,Samuel Mbangula,h,12904,FromCorner,2025,RightFoot,30367,Werder Bremen,Hoffenheim,0,2,2026-01-27 19:30:00,,None
+665920,83,BlockedShot,0.8519999694824218,0.4179999923706055,0.05900184437632561,Samuel Mbangula,h,12904,OpenPlay,2025,RightFoot,30403,Werder Bremen,Borussia M.Gladbach,1,1,2026-01-31 14:30:00,,Rebound
+667191,66,MissedShots,0.9340000152587891,0.5970000076293945,0.45470017194747925,Samuel Mbangula,a,12904,OpenPlay,2025,LeftFoot,30407,Freiburg,Werder Bremen,1,0,2026-02-07 14:30:00,Jens Stage,Cross
+667195,74,BlockedShot,0.774000015258789,0.629000015258789,0.026071052998304367,Samuel Mbangula,a,12904,OpenPlay,2025,RightFoot,30407,Freiburg,Werder Bremen,1,0,2026-02-07 14:30:00,,Rebound
+667199,80,SavedShot,0.8059999847412109,0.7,0.018962649628520012,Samuel Mbangula,a,12904,FromCorner,2025,RightFoot,30407,Freiburg,Werder Bremen,1,0,2026-02-07 14:30:00,,None
+670360,49,SavedShot,0.8580000305175781,0.7419999694824219,0.029258500784635544,Samuel Mbangula,a,12904,OpenPlay,2025,RightFoot,30428,St. Pauli,Werder Bremen,2,1,2026-02-22 16:30:00,Romano Schmid,Pass
+682150,84,MissedShots,0.875,0.465,0.09039411693811417,Samuel Mbangula,h,12904,OpenPlay,2025,LeftFoot,30511,Werder Bremen,Augsburg,1,3,2026-05-02 13:30:00,Romano Schmid,Throughball

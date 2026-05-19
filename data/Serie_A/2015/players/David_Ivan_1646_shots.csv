@@ -1,0 +1,6 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+93857,54,BlockedShot,0.8130000305175781,0.45,0.05558929964900017,David Ivan,h,1646,OpenPlay,2015,LeftFoot,580,Sampdoria,Bologna,2,0,2015-09-14 22:45:00,Luis Muriel,Pass
+101494,75,Goal,0.8569999694824219,0.3039999961853027,0.040699299424886703,David Ivan,h,1646,OpenPlay,2015,RightFoot,716,Sampdoria,Palermo,2,0,2015-12-20 21:00:00,Luis Muriel,Chipped
+94806,89,MissedShots,0.7669999694824219,0.3770000076293945,0.015005599707365036,David Ivan,a,1646,SetPiece,2015,RightFoot,769,Bologna,Sampdoria,3,2,2016-01-31 18:00:00,,None
+95511,27,BlockedShot,0.7480000305175781,0.4229999923706055,0.02033100090920925,David Ivan,h,1646,OpenPlay,2015,RightFoot,778,Sampdoria,Torino,2,2,2016-02-03 23:45:00,Joaquín Correa,LayOff
+96696,59,BlockedShot,0.7719999694824219,0.38,0.0180807001888752,David Ivan,a,1646,FromCorner,2015,RightFoot,803,Inter,Sampdoria,3,1,2016-02-20 23:45:00,,None

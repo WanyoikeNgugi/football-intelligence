@@ -1,0 +1,90 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+286987,69,Goal,0.9019999694824219,0.5029999923706054,0.138372004032135,Alphonso Davies,h,7345,OpenPlay,2018,RightFoot,10565,Bayern Munich,Mainz 05,6,0,2019-03-17 17:00:00,,Rebound
+286988,77,BlockedShot,0.7719999694824219,0.27,0.0428336001932621,Alphonso Davies,h,7345,OpenPlay,2018,LeftFoot,10565,Bayern Munich,Mainz 05,6,0,2019-03-17 17:00:00,Joshua Kimmich,Chipped
+315609,79,Goal,0.955999984741211,0.52,0.7245709896087646,Alphonso Davies,h,7345,OpenPlay,2019,LeftFoot,12425,Bayern Munich,Mainz 05,6,1,2019-08-31 14:30:00,Thomas Müller,Pass
+322661,50,MissedShots,0.8340000152587891,0.7,0.023437200114130974,Alphonso Davies,a,7345,FromCorner,2019,LeftFoot,12449,Paderborn,Bayern Munich,2,3,2019-09-28 13:30:00,,None
+327140,41,BlockedShot,0.7530000305175781,0.625999984741211,0.016075899824500084,Alphonso Davies,h,7345,FromCorner,2019,LeftFoot,12476,Bayern Munich,Union Berlin,2,1,2019-10-26 14:30:00,,None
+329079,13,SavedShot,0.735999984741211,0.69,0.015469400212168694,Alphonso Davies,a,7345,OpenPlay,2019,LeftFoot,12487,Eintracht Frankfurt,Bayern Munich,5,1,2019-11-02 14:30:00,Thomas Müller,Pass
+329093,69,ShotOnPost,0.9369999694824219,0.7,0.2335370033979416,Alphonso Davies,a,7345,OpenPlay,2019,LeftFoot,12487,Eintracht Frankfurt,Bayern Munich,5,1,2019-11-02 14:30:00,,None
+335671,93,BlockedShot,0.7819999694824219,0.735,0.018138600513339043,Alphonso Davies,a,7345,OpenPlay,2019,LeftFoot,12523,Borussia M.Gladbach,Bayern Munich,2,1,2019-12-07 14:30:00,Thomas Müller,Pass
+338559,69,MissedShots,0.74,0.72,0.01159990020096302,Alphonso Davies,h,7345,OpenPlay,2019,LeftFoot,12547,Bayern Munich,Wolfsburg,2,0,2019-12-21 14:30:00,Philippe Coutinho,HeadPass
+358569,65,BlockedShot,0.9319999694824219,0.629000015258789,0.07787899672985077,Alphonso Davies,h,7345,OpenPlay,2019,LeftFoot,12583,Bayern Munich,RasenBallsport Leipzig,0,0,2020-02-09 17:00:00,,None
+359661,69,MissedShots,0.725999984741211,0.669000015258789,0.010892399586737156,Alphonso Davies,h,7345,OpenPlay,2019,LeftFoot,12601,Bayern Munich,Paderborn,3,2,2020-02-21 19:30:00,,None
+360769,35,SavedShot,0.879000015258789,0.6509999847412109,0.28267601132392883,Alphonso Davies,a,7345,OpenPlay,2019,LeftFoot,12613,Hoffenheim,Bayern Munich,0,6,2020-02-29 14:30:00,Philippe Coutinho,Pass
+363260,60,Goal,0.9,0.43900001525878907,0.4476749897003174,Alphonso Davies,h,7345,OpenPlay,2019,RightFoot,12638,Bayern Munich,Eintracht Frankfurt,5,2,2020-05-23 16:30:00,,None
+363693,51,Goal,0.905,0.5509999847412109,0.5074089765548706,Alphonso Davies,h,7345,OpenPlay,2019,RightFoot,12655,Bayern Munich,Fortuna Duesseldorf,5,0,2020-05-30 16:30:00,,TakeOn
+396985,77,SavedShot,0.725999984741211,0.7340000152587891,0.013467700220644474,Alphonso Davies,h,7345,OpenPlay,2020,LeftFoot,15257,Bayern Munich,Mainz 05,5,2,2021-01-03 17:00:00,,BallRecovery
+405076,68,Goal,0.884000015258789,0.615,0.0621647983789444,Alphonso Davies,h,7345,OpenPlay,2020,LeftFoot,15320,Bayern Munich,Arminia Bielefeld,3,3,2021-02-15 19:30:00,,None
+405506,66,MissedShots,0.759000015258789,0.620999984741211,0.023082299157977104,Alphonso Davies,a,7345,OpenPlay,2020,LeftFoot,15332,Eintracht Frankfurt,Bayern Munich,2,1,2021-02-20 14:30:00,David Alaba,Pass
+415247,67,SavedShot,0.815,0.685,0.032118700444698334,Alphonso Davies,a,7345,OpenPlay,2020,RightFoot,15396,Wolfsburg,Bayern Munich,2,3,2021-04-17 13:30:00,Jamal Musiala,TakeOn
+425549,57,SavedShot,0.9230000305175782,0.42900001525878906,0.46720200777053833,Alphonso Davies,a,7345,OpenPlay,2021,RightFoot,17516,Borussia M.Gladbach,Bayern Munich,1,1,2021-08-13 18:30:00,Serge Gnabry,Aerial
+430117,32,BlockedShot,0.7290000152587891,0.4379999923706055,0.010726800188422203,Alphonso Davies,a,7345,FromCorner,2021,LeftFoot,17548,RasenBallsport Leipzig,Bayern Munich,1,4,2021-09-11 16:30:00,Leon Goretzka,HeadPass
+433100,85,BlockedShot,0.855999984741211,0.6419999694824219,0.07677269726991653,Alphonso Davies,a,7345,OpenPlay,2021,RightFoot,17561,Greuther Fuerth,Bayern Munich,1,3,2021-09-24 18:30:00,Lucas Hernández,Pass
+436908,20,SavedShot,0.909000015258789,0.7130000305175781,0.05686030164361,Alphonso Davies,a,7345,OpenPlay,2021,LeftFoot,17585,Bayer Leverkusen,Bayern Munich,1,5,2021-10-17 13:30:00,Thomas Müller,Pass
+440964,4,SavedShot,0.97,0.7040000152587891,0.04445900022983551,Alphonso Davies,h,7345,OpenPlay,2021,LeftFoot,17614,Bayern Munich,Freiburg,2,1,2021-11-06 14:30:00,Dayotchanculle Upamecano,Chipped
+440965,5,SavedShot,0.9219999694824219,0.5420000076293945,0.06963960081338882,Alphonso Davies,h,7345,OpenPlay,2021,OtherBodyPart,17614,Bayern Munich,Freiburg,2,1,2021-11-06 14:30:00,Robert Lewandowski,Aerial
+440981,53,MissedShots,0.894000015258789,0.7440000152587891,0.050151098519563675,Alphonso Davies,h,7345,OpenPlay,2021,LeftFoot,17614,Bayern Munich,Freiburg,2,1,2021-11-06 14:30:00,,None
+442180,72,MissedShots,0.8469999694824218,0.629000015258789,0.053888000547885895,Alphonso Davies,a,7345,OpenPlay,2021,LeftFoot,17616,Augsburg,Bayern Munich,2,1,2021-11-19 19:30:00,Leon Goretzka,Pass
+442182,79,MissedShots,0.9269999694824219,0.69,0.049696099013090134,Alphonso Davies,a,7345,OpenPlay,2021,LeftFoot,17616,Augsburg,Bayern Munich,2,1,2021-11-19 19:30:00,,None
+444277,15,SavedShot,0.9580000305175781,0.6509999847412109,0.3039720058441162,Alphonso Davies,h,7345,OpenPlay,2021,LeftFoot,17632,Bayern Munich,Arminia Bielefeld,1,0,2021-11-27 17:30:00,Thomas Müller,TakeOn
+444283,33,SavedShot,0.909000015258789,0.700999984741211,0.04989460110664368,Alphonso Davies,h,7345,OpenPlay,2021,LeftFoot,17632,Bayern Munich,Arminia Bielefeld,1,0,2021-11-27 17:30:00,,None
+444297,67,MissedShots,0.8469999694824218,0.605999984741211,0.05823170021176338,Alphonso Davies,h,7345,OpenPlay,2021,RightFoot,17632,Bayern Munich,Arminia Bielefeld,1,0,2021-11-27 17:30:00,,None
+447566,5,MissedShots,0.9069999694824219,0.48700000762939455,0.11569300293922424,Alphonso Davies,h,7345,OpenPlay,2021,LeftFoot,17650,Bayern Munich,Mainz 05,2,1,2021-12-11 14:30:00,Benjamin Pavard,Chipped
+447568,9,BlockedShot,0.865999984741211,0.5879999923706055,0.10974500328302383,Alphonso Davies,h,7345,OpenPlay,2021,RightFoot,17650,Bayern Munich,Mainz 05,2,1,2021-12-11 14:30:00,,TakeOn
+447577,42,MissedShots,0.8719999694824219,0.485,0.04351859912276268,Alphonso Davies,h,7345,OpenPlay,2021,Head,17650,Bayern Munich,Mainz 05,2,1,2021-12-11 14:30:00,Thomas Müller,Cross
+449234,37,MissedShots,0.8519999694824218,0.6659999847412109,0.06377039849758148,Alphonso Davies,h,7345,OpenPlay,2021,LeftFoot,17668,Bayern Munich,Wolfsburg,4,0,2021-12-17 19:30:00,,None
+468752,81,MissedShots,0.784000015258789,0.615999984741211,0.026436399668455124,Alphonso Davies,a,7345,OpenPlay,2021,RightFoot,17777,Arminia Bielefeld,Bayern Munich,0,3,2022-04-17 13:30:00,,None
+468757,89,MissedShots,0.705,0.669000015258789,0.01655610091984272,Alphonso Davies,a,7345,OpenPlay,2021,LeftFoot,17777,Arminia Bielefeld,Bayern Munich,0,3,2022-04-17 13:30:00,Gabriel Vidovic,Pass
+483902,41,SavedShot,0.7859999847412109,0.639000015258789,0.03130820021033287,Alphonso Davies,h,7345,OpenPlay,2022,LeftFoot,19375,Bayern Munich,Borussia M.Gladbach,1,1,2022-08-27 16:30:00,Thomas Müller,BallRecovery
+483921,86,SavedShot,0.8580000305175781,0.64,0.06709360331296921,Alphonso Davies,h,7345,OpenPlay,2022,LeftFoot,19375,Bayern Munich,Borussia M.Gladbach,1,1,2022-08-27 16:30:00,Jamal Musiala,Pass
+485834,82,SavedShot,0.8859999847412109,0.6029999923706054,0.09984269738197327,Alphonso Davies,a,7345,OpenPlay,2022,RightFoot,19380,Union Berlin,Bayern Munich,1,1,2022-09-03 13:30:00,Sadio Mané,Pass
+487408,76,MissedShots,0.9109999847412109,0.6959999847412109,0.12138599902391434,Alphonso Davies,h,7345,OpenPlay,2022,LeftFoot,19388,Bayern Munich,VfB Stuttgart,2,2,2022-09-10 13:30:00,,BallRecovery
+488627,41,MissedShots,0.7480000305175781,0.6580000305175782,0.0166631992906332,Alphonso Davies,a,7345,OpenPlay,2022,LeftFoot,19399,Augsburg,Bayern Munich,1,0,2022-09-17 13:30:00,Leon Goretzka,BallTouch
+489719,24,BlockedShot,0.8190000152587891,0.524000015258789,0.08160310238599777,Alphonso Davies,h,7345,OpenPlay,2022,RightFoot,19405,Bayern Munich,Bayer Leverkusen,4,0,2022-09-30 18:30:00,Jamal Musiala,Pass
+493953,4,MissedShots,0.8330000305175781,0.675,0.03693480044603348,Alphonso Davies,h,7345,OpenPlay,2022,LeftFoot,19423,Bayern Munich,Freiburg,5,0,2022-10-16 17:30:00,,None
+507778,20,MissedShots,0.799000015258789,0.63,0.01563809998333454,Alphonso Davies,a,7345,OpenPlay,2022,RightFoot,19509,Wolfsburg,Bayern Munich,2,4,2023-02-05 16:30:00,,Aerial
+509584,14,SavedShot,0.8769999694824219,0.5479999923706055,0.02052750065922737,Alphonso Davies,a,7345,OpenPlay,2022,Head,19525,Borussia M.Gladbach,Bayern Munich,3,2,2023-02-18 14:30:00,,Rebound
+509604,74,MissedShots,0.9269999694824219,0.6909999847412109,0.3117299973964691,Alphonso Davies,a,7345,OpenPlay,2022,LeftFoot,19525,Borussia M.Gladbach,Bayern Munich,3,2,2023-02-18 14:30:00,Jamal Musiala,TakeOn
+511455,47,SavedShot,0.8969999694824219,0.6140000152587891,0.34429100155830383,Alphonso Davies,h,7345,OpenPlay,2022,RightFoot,19531,Bayern Munich,Union Berlin,3,0,2023-02-26 16:30:00,Jamal Musiala,Pass
+511468,85,SavedShot,0.9269999694824219,0.639000015258789,0.3112339973449707,Alphonso Davies,h,7345,OpenPlay,2022,LeftFoot,19531,Bayern Munich,Union Berlin,3,0,2023-02-26 16:30:00,Sadio Mané,Pass
+513460,73,Goal,0.9519999694824218,0.5509999847412109,0.5537779927253723,Alphonso Davies,h,7345,OpenPlay,2022,LeftFoot,19549,Bayern Munich,Augsburg,5,3,2023-03-11 14:30:00,João Cancelo,Chipped
+515763,87,SavedShot,0.7519999694824219,0.605,0.020176000893115997,Alphonso Davies,a,7345,OpenPlay,2022,LeftFoot,19559,Bayer Leverkusen,Bayern Munich,2,1,2023-03-19 16:30:00,,Rebound
+516599,9,BlockedShot,0.850999984741211,0.6379999923706055,0.06585849821567535,Alphonso Davies,h,7345,OpenPlay,2022,RightFoot,19574,Bayern Munich,Borussia Dortmund,4,2,2023-04-01 16:30:00,Thomas Müller,Pass
+517924,79,MissedShots,0.7290000152587891,0.5720000076293945,0.012791099958121777,Alphonso Davies,a,7345,FromCorner,2022,LeftFoot,19578,Freiburg,Bayern Munich,0,1,2023-04-08 13:30:00,,Aerial
+519379,92,BlockedShot,0.845,0.720999984741211,0.030269600450992584,Alphonso Davies,h,7345,OpenPlay,2022,RightFoot,19585,Bayern Munich,Hoffenheim,1,1,2023-04-15 13:30:00,Ryan Gravenberch,Pass
+519380,93,BlockedShot,0.720999984741211,0.5459999847412109,0.02538120001554489,Alphonso Davies,h,7345,FromCorner,2022,LeftFoot,19585,Bayern Munich,Hoffenheim,1,1,2023-04-15 13:30:00,Ryan Gravenberch,Pass
+520702,1,BlockedShot,0.8569999694824219,0.6869999694824219,0.047963932156562805,Alphonso Davies,a,7345,OpenPlay,2022,RightFoot,19597,Mainz 05,Bayern Munich,3,1,2023-04-22 13:30:00,Joshua Kimmich,HeadPass
+536499,47,BlockedShot,0.7580000305175781,0.5690000152587891,0.018288075923919678,Alphonso Davies,a,7345,FromCorner,2023,RightFoot,23089,Borussia M.Gladbach,Bayern Munich,1,2,2023-09-02 16:30:00,,None
+541453,11,MissedShots,0.845,0.5459999847412109,0.05380134657025337,Alphonso Davies,a,7345,FromCorner,2023,LeftFoot,23116,RasenBallsport Leipzig,Bayern Munich,2,2,2023-09-30 16:30:00,Joshua Kimmich,Pass
+543309,8,MissedShots,0.875999984741211,0.624000015258789,0.07440956681966782,Alphonso Davies,h,7345,OpenPlay,2023,LeftFoot,23126,Bayern Munich,Freiburg,3,0,2023-10-08 15:30:00,,Dispossessed
+543320,62,BlockedShot,0.7880000305175782,0.6790000152587891,0.0391598641872406,Alphonso Davies,h,7345,OpenPlay,2023,RightFoot,23126,Bayern Munich,Freiburg,3,0,2023-10-08 15:30:00,Kim Min-Jae,Pass
+545439,12,SavedShot,0.955,0.76,0.030074546113610268,Alphonso Davies,h,7345,OpenPlay,2023,LeftFoot,23137,Bayern Munich,Darmstadt,8,0,2023-10-28 13:30:00,Leroy Sané,Pass
+555656,72,MissedShots,0.775,0.4929999923706055,0.02309095859527588,Alphonso Davies,a,7345,FromCorner,2023,LeftFoot,23204,Wolfsburg,Bayern Munich,1,2,2023-12-20 19:30:00,,None
+557841,59,SavedShot,0.7519999694824219,0.6930000305175781,0.026326913386583328,Alphonso Davies,h,7345,FromCorner,2023,LeftFoot,23209,Bayern Munich,Hoffenheim,3,0,2024-01-12 19:30:00,Joshua Kimmich,Pass
+559782,49,Goal,0.7869999694824219,0.6359999847412109,0.03499031066894531,Alphonso Davies,a,7345,OpenPlay,2023,RightFoot,23234,Augsburg,Bayern Munich,2,3,2024-01-27 14:30:00,Leon Goretzka,Pass
+567980,1,BlockedShot,0.754000015258789,0.37400001525878906,0.023218464106321335,Alphonso Davies,h,7345,FromCorner,2023,LeftFoot,23281,Bayern Munich,Mainz 05,8,1,2024-03-09 14:30:00,Leroy Sané,Pass
+570991,49,MissedShots,0.8619999694824219,0.665,0.05027015134692192,Alphonso Davies,h,7345,OpenPlay,2023,RightFoot,23299,Bayern Munich,Borussia Dortmund,0,2,2024-03-30 17:30:00,Harry Kane,Pass
+576684,73,MissedShots,0.745,0.7169999694824218,0.01969238370656967,Alphonso Davies,h,7345,OpenPlay,2023,RightFoot,23335,Bayern Munich,Eintracht Frankfurt,2,1,2024-04-27 13:30:00,Raphael Guerreiro,Pass
+581728,5,Goal,0.889000015258789,0.5570000076293945,0.4095171391963959,Alphonso Davies,a,7345,OpenPlay,2023,LeftFoot,23367,Hoffenheim,Bayern Munich,4,2,2024-05-18 13:30:00,Mathys Tel,Pass
+581740,52,BlockedShot,0.855999984741211,0.745999984741211,0.03585182502865791,Alphonso Davies,a,7345,OpenPlay,2023,RightFoot,23367,Hoffenheim,Bayern Munich,4,2,2024-05-18 13:30:00,Dayotchanculle Upamecano,Pass
+591050,64,SavedShot,0.8059999847412109,0.6680000305175782,0.03511441871523857,Alphonso Davies,a,7345,OpenPlay,2024,RightFoot,27766,Holstein Kiel,Bayern Munich,1,6,2024-09-14 16:30:00,Kingsley Coman,Pass
+594351,45,BlockedShot,0.8169999694824219,0.624000015258789,0.04353373497724533,Alphonso Davies,h,7345,OpenPlay,2024,RightFoot,27784,Bayern Munich,Bayer Leverkusen,1,1,2024-09-28 16:30:00,Joshua Kimmich,Pass
+594356,59,MissedShots,0.805,0.635,0.024841224774718285,Alphonso Davies,h,7345,FromCorner,2024,LeftFoot,27784,Bayern Munich,Bayer Leverkusen,1,1,2024-09-28 16:30:00,,None
+594359,71,MissedShots,0.8419999694824218,0.5129999923706055,0.0685640200972557,Alphonso Davies,h,7345,SetPiece,2024,RightFoot,27784,Bayern Munich,Bayer Leverkusen,1,1,2024-09-28 16:30:00,Joshua Kimmich,Pass
+594360,74,BlockedShot,0.7830000305175782,0.605999984741211,0.03032246232032776,Alphonso Davies,h,7345,OpenPlay,2024,LeftFoot,27784,Bayern Munich,Bayer Leverkusen,1,1,2024-09-28 16:30:00,Raphael Guerreiro,Pass
+597289,25,BlockedShot,0.7580000305175781,0.5790000152587891,0.018036602064967155,Alphonso Davies,h,7345,FromCorner,2024,LeftFoot,27797,Bayern Munich,VfB Stuttgart,4,0,2024-10-19 16:30:00,,None
+599930,12,BlockedShot,0.8119999694824219,0.605999984741211,0.04638829454779625,Alphonso Davies,h,7345,OpenPlay,2024,LeftFoot,27815,Bayern Munich,Union Berlin,3,0,2024-11-02 14:30:00,Michael Olise,Pass
+602522,58,MissedShots,0.8440000152587891,0.56,0.05899334326386452,Alphonso Davies,h,7345,SetPiece,2024,LeftFoot,27834,Bayern Munich,Augsburg,3,0,2024-11-22 19:30:00,,None
+604374,88,BlockedShot,0.875,0.6029999923706054,0.019836686551570892,Alphonso Davies,a,7345,OpenPlay,2024,Head,27842,Borussia Dortmund,Bayern Munich,1,1,2024-11-30 17:30:00,Michael Olise,Cross
+605743,32,MissedShots,0.7859999847412109,0.4759999847412109,0.048641137778759,Alphonso Davies,h,7345,OpenPlay,2024,RightFoot,27857,Bayern Munich,FC Heidenheim,4,2,2024-12-07 14:30:00,Joshua Kimmich,Pass
+605746,38,ShotOnPost,0.914000015258789,0.6480000305175782,0.3789582848548889,Alphonso Davies,h,7345,OpenPlay,2024,LeftFoot,27857,Bayern Munich,FC Heidenheim,4,2,2024-12-07 14:30:00,Raphael Guerreiro,Throughball
+608084,77,Goal,0.9469999694824218,0.5329999923706055,0.47412124276161194,Alphonso Davies,h,7345,OpenPlay,2024,Head,27870,Bayern Munich,RasenBallsport Leipzig,5,1,2024-12-20 19:30:00,Joshua Kimmich,Cross
+610858,76,BlockedShot,0.8540000152587891,0.72,0.04937169328331947,Alphonso Davies,a,7345,OpenPlay,2024,LeftFoot,27884,Borussia M.Gladbach,Bayern Munich,0,1,2025-01-11 17:30:00,Serge Gnabry,BlockedPass
+610863,87,SavedShot,0.8769999694824219,0.6170000076293946,0.3698173761367798,Alphonso Davies,a,7345,OpenPlay,2024,LeftFoot,27884,Borussia M.Gladbach,Bayern Munich,0,1,2025-01-11 17:30:00,Serge Gnabry,Pass
+611682,18,BlockedShot,0.8619999694824219,0.6329999923706054,0.08847343176603317,Alphonso Davies,h,7345,OpenPlay,2024,LeftFoot,27888,Bayern Munich,Hoffenheim,5,0,2025-01-15 19:30:00,Joshua Kimmich,Pass
+611694,61,BlockedShot,0.855999984741211,0.6359999847412109,0.03037865273654461,Alphonso Davies,h,7345,OpenPlay,2024,Head,27888,Bayern Munich,Hoffenheim,5,0,2025-01-15 19:30:00,Leon Goretzka,Chipped
+611698,71,MissedShots,0.8980000305175782,0.515,0.09131769090890884,Alphonso Davies,h,7345,OpenPlay,2024,Head,27888,Bayern Munich,Hoffenheim,5,0,2025-01-15 19:30:00,Thomas Müller,Cross
+667875,21,MissedShots,0.889000015258789,0.7240000152587891,0.04619216173887253,Alphonso Davies,h,7345,OpenPlay,2025,LeftFoot,30404,Bayern Munich,Hoffenheim,5,1,2026-02-08 16:30:00,Joshua Kimmich,Pass
+667895,76,MissedShots,0.9330000305175781,0.5590000152587891,0.05762684345245361,Alphonso Davies,h,7345,OpenPlay,2025,Head,30404,Bayern Munich,Hoffenheim,5,1,2026-02-08 16:30:00,Luis Díaz,Aerial
+679813,36,Goal,0.8590000152587891,0.5179999923706055,0.11284882575273514,Alphonso Davies,h,7345,OpenPlay,2025,LeftFoot,30486,Bayern Munich,VfB Stuttgart,4,2,2026-04-19 15:30:00,Luis Díaz,Pass
+680878,39,MissedShots,0.97,0.63,0.22463484108448029,Alphonso Davies,a,7345,OpenPlay,2025,LeftFoot,30499,Mainz 05,Bayern Munich,3,4,2026-04-25 13:30:00,Aleksandar Pavlovic,Cross

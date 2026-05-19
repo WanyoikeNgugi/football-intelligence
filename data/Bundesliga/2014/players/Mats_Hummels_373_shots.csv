@@ -1,0 +1,220 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+25765,67,MissedShots,0.9230000305175782,0.34900001525878904,0.011413699947297573,Mats Hummels,h,373,FromCorner,2014,Head,5386,Borussia Dortmund,Hamburger SV,0,1,2014-10-04 14:30:00,Shinji Kagawa,Aerial
+26151,47,MissedShots,0.9080000305175782,0.549000015258789,0.07953889667987823,Mats Hummels,a,373,SetPiece,2014,LeftFoot,5397,FC Cologne,Borussia Dortmund,2,1,2014-10-18 14:30:00,Sebastian Kehl,HeadPass
+26194,17,SavedShot,0.8959999847412109,0.5520000076293945,0.050225600600242615,Mats Hummels,h,373,FromCorner,2014,Head,5406,Borussia Dortmund,Hannover 96,0,1,2014-10-25 14:30:00,Marco Reus,Cross
+27252,26,MissedShots,0.8730000305175781,0.45099998474121095,0.04771000146865845,Mats Hummels,h,373,FromCorner,2014,RightFoot,5312,Borussia Dortmund,Hoffenheim,1,0,2014-12-05 19:30:00,Marcel Schmelzer,Cross
+27263,62,SavedShot,0.91,0.48,0.03426770120859146,Mats Hummels,h,373,FromCorner,2014,Head,5312,Borussia Dortmund,Hoffenheim,1,0,2014-12-05 19:30:00,Henrikh Mkhitaryan,Aerial
+28159,72,SavedShot,0.9059999847412109,0.5940000152587891,0.03289489820599556,Mats Hummels,a,373,FromCorner,2014,Head,5322,Hertha Berlin,Borussia Dortmund,1,0,2014-12-13 14:30:00,Marcel Schmelzer,Cross
+27691,12,MissedShots,0.8590000152587891,0.4370000076293945,0.009450339712202549,Mats Hummels,h,373,SetPiece,2014,Head,5335,Borussia Dortmund,Wolfsburg,2,2,2014-12-17 19:00:00,Ilkay Gündogan,Aerial
+27701,55,BlockedShot,0.885,0.5729999923706055,0.04971820116043091,Mats Hummels,h,373,FromCorner,2014,LeftFoot,5335,Borussia Dortmund,Wolfsburg,2,2,2014-12-17 19:00:00,Marcel Schmelzer,Cross
+28270,68,Goal,0.919000015258789,0.509000015258789,0.10538999736309052,Mats Hummels,a,373,FromCorner,2014,Head,5341,Werder Bremen,Borussia Dortmund,2,1,2014-12-20 14:30:00,Ilkay Gündogan,Cross
+28429,64,MissedShots,0.965999984741211,0.53,0.0955910012125969,Mats Hummels,a,373,FromCorner,2014,Head,5311,Bayer Leverkusen,Borussia Dortmund,0,0,2015-01-31 17:30:00,Marco Reus,Aerial
+28862,22,MissedShots,0.8980000305175782,0.509000015258789,0.03756370022892952,Mats Hummels,h,373,SetPiece,2014,Head,5299,Borussia Dortmund,Schalke 04,3,0,2015-02-28 14:30:00,Ilkay Gündogan,Aerial
+28873,51,BlockedShot,0.965,0.5509999847412109,0.08354339748620987,Mats Hummels,h,373,FromCorner,2014,Head,5299,Borussia Dortmund,Schalke 04,3,0,2015-02-28 14:30:00,Marcel Schmelzer,Aerial
+30356,88,BlockedShot,0.9259999847412109,0.515,0.06075090169906616,Mats Hummels,a,373,FromCorner,2014,Head,5234,Hamburger SV,Borussia Dortmund,0,0,2015-03-07 14:30:00,Oliver Kirch,Aerial
+30357,89,MissedShots,0.89,0.505,0.017748000100255013,Mats Hummels,a,373,FromCorner,2014,Head,5234,Hamburger SV,Borussia Dortmund,0,0,2015-03-07 14:30:00,Marcel Schmelzer,Aerial
+30658,78,SavedShot,0.919000015258789,0.534000015258789,0.05286860093474388,Mats Hummels,h,373,SetPiece,2014,Head,5248,Borussia Dortmund,FC Cologne,0,0,2015-03-14 17:30:00,Marco Reus,Foul
+32258,84,MissedShots,0.8919999694824219,0.605999984741211,0.03652999922633171,Mats Hummels,h,373,OpenPlay,2014,RightFoot,5201,Borussia Dortmund,Bayern Munich,0,1,2015-04-04 17:30:00,,Aerial
+30940,4,SavedShot,0.8690000152587891,0.5379999923706055,0.02488820068538189,Mats Hummels,a,373,FromCorner,2014,Head,5207,Borussia M.Gladbach,Borussia Dortmund,3,1,2015-04-11 14:30:00,Jakub Blaszczykowski,Cross
+30957,73,MissedShots,0.7480000305175781,0.6419999694824219,0.01460960041731596,Mats Hummels,a,373,OpenPlay,2014,LeftFoot,5207,Borussia M.Gladbach,Borussia Dortmund,3,1,2015-04-11 14:30:00,Henrikh Mkhitaryan,Pass
+30884,12,MissedShots,0.879000015258789,0.5459999847412109,0.01394100021570921,Mats Hummels,a,373,FromCorner,2014,Head,5162,Hoffenheim,Borussia Dortmund,1,1,2015-05-02 14:30:00,Jakub Blaszczykowski,Aerial
+30889,34,Goal,0.9430000305175781,0.4470000076293945,0.06054149940609932,Mats Hummels,a,373,FromCorner,2014,Head,5162,Hoffenheim,Borussia Dortmund,1,1,2015-05-02 14:30:00,Henrikh Mkhitaryan,Aerial
+31398,6,MissedShots,0.8919999694824219,0.6,0.023572899401187897,Mats Hummels,h,373,FromCorner,2014,Head,5170,Borussia Dortmund,Hertha Berlin,2,0,2015-05-09 14:30:00,Henrikh Mkhitaryan,Cross
+31131,13,MissedShots,0.9230000305175782,0.5920000076293945,0.01668429933488369,Mats Hummels,h,373,FromCorner,2014,Head,5193,Borussia Dortmund,Werder Bremen,3,2,2015-05-23 14:30:00,Henrikh Mkhitaryan,Aerial
+76095,35,BlockedShot,0.9,0.5459999847412109,0.01904279924929142,Mats Hummels,h,373,FromCorner,2015,Head,1027,Borussia Dortmund,Borussia M.Gladbach,4,0,2015-08-15 20:30:00,Shinji Kagawa,Aerial
+76518,73,SavedShot,0.955999984741211,0.42700000762939455,0.2314620018005371,Mats Hummels,a,373,FromCorner,2015,Head,1037,Ingolstadt,Borussia Dortmund,0,4,2015-08-23 17:30:00,Shinji Kagawa,Aerial
+76550,26,Goal,0.9719999694824218,0.5420000076293945,0.5353440046310425,Mats Hummels,h,373,FromCorner,2015,Head,1046,Borussia Dortmund,Hertha Berlin,3,1,2015-08-30 17:30:00,Shinji Kagawa,Aerial
+77456,68,BlockedShot,0.8630000305175781,0.5129999923706055,0.07166799902915955,Mats Hummels,h,373,FromCorner,2015,RightFoot,1083,Borussia Dortmund,Darmstadt,2,2,2015-09-27 19:30:00,,None
+78554,68,SavedShot,0.9440000152587891,0.47,0.0614423006772995,Mats Hummels,a,373,SetPiece,2015,Head,1115,Werder Bremen,Borussia Dortmund,1,3,2015-10-31 18:30:00,Marco Reus,Challenge
+78961,35,BlockedShot,0.9469999694824218,0.40799999237060547,0.02712330035865307,Mats Hummels,a,373,FromCorner,2015,Head,1129,Hamburger SV,Borussia Dortmund,3,1,2015-11-20 23:45:00,Henrikh Mkhitaryan,Aerial
+78969,54,OwnGoal,0.035,0.5,0,Mats Hummels,a,373,FromCorner,2015,Head,1129,Hamburger SV,Borussia Dortmund,3,1,2015-11-20 23:45:00,,CornerAwarded
+79637,46,SavedShot,0.9169999694824219,0.5179999923706055,0.044492900371551514,Mats Hummels,h,373,FromCorner,2015,Head,1164,Borussia Dortmund,Eintracht Frankfurt,4,1,2015-12-13 20:30:00,Henrikh Mkhitaryan,Aerial
+79642,60,Goal,0.8590000152587891,0.5659999847412109,0.0720273032784462,Mats Hummels,h,373,FromCorner,2015,LeftFoot,1164,Borussia Dortmund,Eintracht Frankfurt,4,1,2015-12-13 20:30:00,,Rebound
+80338,67,MissedShots,0.9469999694824218,0.524000015258789,0.4582599997520447,Mats Hummels,h,373,FromCorner,2015,Head,1185,Borussia Dortmund,Ingolstadt,2,0,2016-01-30 18:30:00,Henrikh Mkhitaryan,Cross
+80681,31,SavedShot,0.9219999694824219,0.59,0.021194899454712868,Mats Hummels,a,373,FromCorner,2015,Head,1196,Hertha Berlin,Borussia Dortmund,0,0,2016-02-06 18:30:00,Ilkay Gündogan,Aerial
+83831,88,MissedShots,0.8,0.62,0.03316489979624748,Mats Hummels,h,373,OpenPlay,2015,RightFoot,1321,Borussia Dortmund,FC Cologne,2,2,2016-05-14 17:30:00,Marco Reus,Pass
+128824,24,MissedShots,0.9259999847412109,0.5270000076293946,0.05395359918475151,Mats Hummels,h,373,FromCorner,2016,Head,1373,Bayern Munich,FC Cologne,1,1,2016-10-01 17:30:00,Arjen Robben,Aerial
+128840,77,MissedShots,0.9169999694824219,0.5540000152587891,0.029999500140547752,Mats Hummels,h,373,FromCorner,2016,Head,1373,Bayern Munich,FC Cologne,1,1,2016-10-01 17:30:00,Arturo Vidal,Aerial
+129263,26,MissedShots,0.9019999694824219,0.5029999923706054,0.025649700313806534,Mats Hummels,a,373,FromCorner,2016,Head,1386,Eintracht Frankfurt,Bayern Munich,2,2,2016-10-15 17:30:00,Xabi Alonso,Aerial
+129275,61,MissedShots,0.9080000305175782,0.49900001525878906,0.13825799524784088,Mats Hummels,a,373,OpenPlay,2016,RightFoot,1386,Eintracht Frankfurt,Bayern Munich,2,2,2016-10-15 17:30:00,Thomas Müller,Pass
+130009,68,SavedShot,0.9269999694824219,0.5529999923706055,0.04262330010533333,Mats Hummels,a,373,FromCorner,2016,Head,3302,Augsburg,Bayern Munich,1,3,2016-10-29 17:30:00,Arjen Robben,Aerial
+130010,71,SavedShot,0.935,0.4909999847412109,0.22933100163936615,Mats Hummels,a,373,FromCorner,2016,Head,3302,Augsburg,Bayern Munich,1,3,2016-10-29 17:30:00,Arjen Robben,Aerial
+130011,71,MissedShots,0.9030000305175782,0.49700000762939456,0.1818609982728958,Mats Hummels,a,373,FromCorner,2016,Head,3302,Augsburg,Bayern Munich,1,3,2016-10-29 17:30:00,Douglas Costa,Aerial
+129545,86,ShotOnPost,0.8619999694824219,0.4929999923706055,0.10918500274419785,Mats Hummels,h,373,OpenPlay,2016,RightFoot,2809,Bayern Munich,Hoffenheim,1,1,2016-11-05 18:30:00,Thomas Müller,Pass
+129547,87,SavedShot,0.919000015258789,0.605999984741211,0.01395030040293932,Mats Hummels,h,373,FromCorner,2016,Head,2809,Bayern Munich,Hoffenheim,1,1,2016-11-05 18:30:00,Douglas Costa,Aerial
+129548,88,MissedShots,0.9,0.4759999847412109,0.02234720066189766,Mats Hummels,h,373,FromCorner,2016,Head,2809,Bayern Munich,Hoffenheim,1,1,2016-11-05 18:30:00,Xabi Alonso,Aerial
+129773,31,SavedShot,0.8719999694824219,0.43,0.010107300244271755,Mats Hummels,a,373,SetPiece,2016,Head,2821,Borussia Dortmund,Bayern Munich,1,0,2016-11-19 21:30:00,Xabi Alonso,Aerial
+129777,45,SavedShot,0.9430000305175781,0.649000015258789,0.010602000169456005,Mats Hummels,a,373,OpenPlay,2016,Head,2821,Borussia Dortmund,Bayern Munich,1,0,2016-11-19 21:30:00,Xabi Alonso,Aerial
+129781,59,BlockedShot,0.8809999847412109,0.43900001525878907,0.07336749881505966,Mats Hummels,a,373,FromCorner,2016,LeftFoot,2821,Borussia Dortmund,Bayern Munich,1,0,2016-11-19 21:30:00,Xabi Alonso,HeadPass
+130851,28,MissedShots,0.9069999694824219,0.4620000076293945,0.07241959869861603,Mats Hummels,h,373,FromCorner,2016,Head,2830,Bayern Munich,Bayer Leverkusen,2,1,2016-11-26 21:30:00,Xabi Alonso,Cross
+130858,55,Goal,0.9069999694824219,0.46599998474121096,0.07053939998149872,Mats Hummels,h,373,FromCorner,2016,Head,2830,Bayern Munich,Bayer Leverkusen,2,1,2016-11-26 21:30:00,Joshua Kimmich,Cross
+130457,79,BlockedShot,0.8580000305175781,0.46599998474121096,0.019201699644327164,Mats Hummels,a,373,FromCorner,2016,Head,3192,Mainz 05,Bayern Munich,1,3,2016-12-02 23:30:00,Douglas Costa,Cross
+131637,39,MissedShots,0.960999984741211,0.5329999923706055,0.5450029969215393,Mats Hummels,a,373,SetPiece,2016,Head,3217,Darmstadt,Bayern Munich,0,1,2016-12-18 18:30:00,Douglas Costa,Cross
+131724,88,SavedShot,0.7559999847412109,0.6,0.029107000678777695,Mats Hummels,h,373,FromCorner,2016,RightFoot,3227,Bayern Munich,RasenBallsport Leipzig,3,0,2016-12-21 23:00:00,Thiago Alcántara,Pass
+130904,15,MissedShots,0.86,0.4779999923706055,0.013112399727106094,Mats Hummels,a,373,FromCorner,2016,Head,3722,Freiburg,Bayern Munich,1,2,2017-01-20 19:30:00,Douglas Costa,Aerial
+130912,59,SavedShot,0.91,0.55,0.05222800001502037,Mats Hummels,a,373,FromCorner,2016,Head,3722,Freiburg,Bayern Munich,1,2,2017-01-20 19:30:00,Arjen Robben,Chipped
+131527,89,SavedShot,0.874000015258789,0.49,0.014242099598050117,Mats Hummels,h,373,FromCorner,2016,Head,3743,Bayern Munich,Schalke 04,1,1,2017-02-04 14:30:00,Douglas Costa,Aerial
+132612,6,MissedShots,0.9359999847412109,0.5379999923706055,0.12142200022935867,Mats Hummels,a,373,FromCorner,2016,Head,3753,Ingolstadt,Bayern Munich,0,2,2017-02-11 14:30:00,Joshua Kimmich,Cross
+132067,23,SavedShot,0.855999984741211,0.49900001525878906,0.040717899799346924,Mats Hummels,a,373,SetPiece,2016,Head,3762,Hertha Berlin,Bayern Munich,1,1,2017-02-18 14:30:00,Arjen Robben,Chipped
+131894,30,MissedShots,0.875999984741211,0.47200000762939454,0.031010199338197708,Mats Hummels,h,373,FromCorner,2016,Head,3772,Bayern Munich,Hamburger SV,8,0,2017-02-25 14:30:00,Thiago Alcántara,Cross
+134375,21,MissedShots,0.92,0.53,0.04539800062775612,Mats Hummels,a,373,FromCorner,2016,Head,3802,Borussia M.Gladbach,Bayern Munich,0,1,2017-03-19 16:30:00,Xabi Alonso,Aerial
+134383,36,MissedShots,0.93,0.544000015258789,0.11021699756383896,Mats Hummels,a,373,FromCorner,2016,Head,3802,Borussia M.Gladbach,Bayern Munich,0,1,2017-03-19 16:30:00,Xabi Alonso,Cross
+134395,77,MissedShots,0.9069999694824219,0.485,0.07975929975509644,Mats Hummels,a,373,FromCorner,2016,Head,3802,Borussia M.Gladbach,Bayern Munich,0,1,2017-03-19 16:30:00,Thiago Alcántara,Cross
+134364,73,BlockedShot,0.904000015258789,0.5690000152587891,0.05078040063381195,Mats Hummels,a,373,FromCorner,2016,Head,3815,Hoffenheim,Bayern Munich,1,0,2017-04-04 19:00:00,Arjen Robben,Cross
+134366,85,BlockedShot,0.8580000305175781,0.544000015258789,0.05752750113606453,Mats Hummels,a,373,OpenPlay,2016,RightFoot,3815,Hoffenheim,Bayern Munich,1,0,2017-04-04 19:00:00,Kingsley Coman,Cross
+134367,90,SavedShot,0.8819999694824219,0.4209999847412109,0.0715164989233017,Mats Hummels,a,373,SetPiece,2016,LeftFoot,3815,Hoffenheim,Bayern Munich,1,0,2017-04-04 19:00:00,,None
+133324,84,SavedShot,0.9159999847412109,0.46099998474121096,0.05406149849295616,Mats Hummels,h,373,SetPiece,2016,Head,3839,Bayern Munich,Mainz 05,2,2,2017-04-22 14:30:00,Thiago Alcántara,Aerial
+165781,61,SavedShot,0.9069999694824219,0.46599998474121096,0.06677819788455963,Mats Hummels,h,373,SetPiece,2017,Head,8259,Bayern Munich,Bayer Leverkusen,3,1,2017-08-18 19:30:00,Sebastian Rudy,Chipped
+166074,1,MissedShots,0.9,0.47,0.021548600867390633,Mats Hummels,a,373,FromCorner,2017,Head,8269,Werder Bremen,Bayern Munich,0,2,2017-08-26 14:30:00,Joshua Kimmich,Aerial
+166228,3,BlockedShot,0.9119999694824219,0.55,0.0748945027589798,Mats Hummels,a,373,FromCorner,2017,Head,8283,Hoffenheim,Bayern Munich,2,0,2017-09-09 17:30:00,Sebastian Rudy,Cross
+166231,9,MissedShots,0.919000015258789,0.545,0.10948000103235245,Mats Hummels,a,373,OpenPlay,2017,LeftFoot,8283,Hoffenheim,Bayern Munich,2,0,2017-09-09 17:30:00,Kingsley Coman,Cross
+166243,58,BlockedShot,0.894000015258789,0.6229999923706054,0.053941600024700165,Mats Hummels,a,373,FromCorner,2017,LeftFoot,8283,Hoffenheim,Bayern Munich,2,0,2017-09-09 17:30:00,,Tackle
+167333,92,MissedShots,0.909000015258789,0.524000015258789,0.031508900225162506,Mats Hummels,h,373,FromCorner,2017,Head,8304,Bayern Munich,Wolfsburg,2,2,2017-09-22 19:30:00,James Rodríguez,Aerial
+166990,3,MissedShots,0.9180000305175782,0.5220000076293946,0.09995830059051514,Mats Hummels,a,373,FromCorner,2017,Head,8317,Hertha Berlin,Bayern Munich,2,2,2017-10-01 14:30:00,Joshua Kimmich,Cross
+166991,9,Goal,0.8780000305175781,0.5109999847412109,0.05982689931988716,Mats Hummels,a,373,SetPiece,2017,Head,8317,Hertha Berlin,Bayern Munich,2,2,2017-10-01 14:30:00,Jérôme Boateng,Cross
+167005,44,MissedShots,0.9169999694824219,0.48700000762939455,0.09999269992113113,Mats Hummels,a,373,FromCorner,2017,Head,8317,Hertha Berlin,Bayern Munich,2,2,2017-10-01 14:30:00,Franck Ribéry,Cross
+168373,76,MissedShots,0.9269999694824219,0.5820000076293945,0.2267179936170578,Mats Hummels,a,373,FromCorner,2017,Head,8338,Hamburger SV,Bayern Munich,0,1,2017-10-21 17:30:00,Arjen Robben,Cross
+168481,14,MissedShots,0.98,0.6120000076293945,0.023106399923563004,Mats Hummels,h,373,FromCorner,2017,Head,8340,Bayern Munich,RasenBallsport Leipzig,2,0,2017-10-28 17:30:00,Joshua Kimmich,Cross
+168489,42,MissedShots,0.904000015258789,0.40900001525878904,0.03662699833512306,Mats Hummels,h,373,FromCorner,2017,Head,8340,Bayern Munich,RasenBallsport Leipzig,2,0,2017-10-28 17:30:00,James Rodríguez,Cross
+167762,5,BlockedShot,0.8909999847412109,0.3629999923706055,0.01394909992814064,Mats Hummels,h,373,FromCorner,2017,Head,8358,Bayern Munich,Augsburg,3,0,2017-11-18 14:30:00,James Rodríguez,Cross
+167765,12,MissedShots,0.91,0.4490000152587891,0.07076989859342575,Mats Hummels,h,373,FromCorner,2017,Head,8358,Bayern Munich,Augsburg,3,0,2017-11-18 14:30:00,James Rodríguez,Cross
+167768,30,BlockedShot,0.899000015258789,0.5320000076293945,0.08034619688987732,Mats Hummels,h,373,SetPiece,2017,RightFoot,8358,Bayern Munich,Augsburg,3,0,2017-11-18 14:30:00,,None
+168462,59,MissedShots,0.8809999847412109,0.5970000076293945,0.010303700342774391,Mats Hummels,a,373,SetPiece,2017,Head,8371,Borussia M.Gladbach,Bayern Munich,2,1,2017-11-25 17:30:00,Joshua Kimmich,Aerial
+168463,61,SavedShot,0.91,0.5370000076293945,0.07851649820804596,Mats Hummels,a,373,FromCorner,2017,Head,8371,Borussia M.Gladbach,Bayern Munich,2,1,2017-11-25 17:30:00,Joshua Kimmich,Cross
+168475,92,BlockedShot,0.7669999694824219,0.5,0.027881400659680367,Mats Hummels,a,373,OpenPlay,2017,LeftFoot,8371,Borussia M.Gladbach,Bayern Munich,2,1,2017-11-25 17:30:00,Corentin Tolisso,Pass
+168741,49,BlockedShot,0.9080000305175782,0.5929999923706055,0.03878580033779144,Mats Hummels,h,373,FromCorner,2017,Head,8376,Bayern Munich,Hannover 96,3,1,2017-12-02 14:30:00,James Rodríguez,Cross
+168750,63,MissedShots,0.9,0.6759999847412109,0.010151900351047516,Mats Hummels,h,373,FromCorner,2017,Head,8376,Bayern Munich,Hannover 96,3,1,2017-12-02 14:30:00,Joshua Kimmich,Cross
+183861,25,MissedShots,0.91,0.3890000152587891,0.011682700365781784,Mats Hummels,a,373,SetPiece,2017,Head,8410,VfB Stuttgart,Bayern Munich,0,1,2017-12-16 14:30:00,James Rodríguez,Aerial
+197273,41,MissedShots,0.9059999847412109,0.6,0.03240570053458214,Mats Hummels,h,373,FromCorner,2017,Head,8466,Bayern Munich,Hertha Berlin,0,0,2018-02-24 14:30:00,Arjen Robben,Cross
+199909,75,MissedShots,0.9180000305175782,0.46599998474121096,0.14632299542427063,Mats Hummels,h,373,OpenPlay,2017,LeftFoot,8484,Bayern Munich,Hamburger SV,6,0,2018-03-10 14:30:00,Thomas Müller,Pass
+202171,61,SavedShot,0.89,0.585,0.0728939026594162,Mats Hummels,a,373,SetPiece,2017,RightFoot,8494,RasenBallsport Leipzig,Bayern Munich,2,1,2018-03-18 17:00:00,,None
+202175,80,MissedShots,0.904000015258789,0.524000015258789,0.10532700270414352,Mats Hummels,a,373,SetPiece,2017,Head,8494,RasenBallsport Leipzig,Bayern Munich,2,1,2018-03-18 17:00:00,Sebastian Rudy,Cross
+202177,83,MissedShots,0.8930000305175781,0.46099998474121096,0.05976729840040207,Mats Hummels,a,373,OpenPlay,2017,Head,8494,RasenBallsport Leipzig,Bayern Munich,2,1,2018-03-18 17:00:00,Franck Ribéry,Cross
+204493,69,MissedShots,0.9119999694824219,0.48700000762939455,0.052859701216220856,Mats Hummels,h,373,FromCorner,2017,OtherBodyPart,8502,Bayern Munich,Borussia Dortmund,6,0,2018-03-31 14:30:00,Arjen Robben,Cross
+221917,40,SavedShot,0.9169999694824219,0.49900001525878906,0.046734899282455444,Mats Hummels,a,373,FromCorner,2018,Head,10352,VfB Stuttgart,Bayern Munich,0,3,2018-09-01 16:30:00,Joshua Kimmich,Aerial
+221924,55,SavedShot,0.9630000305175781,0.565,0.09608829766511917,Mats Hummels,a,373,OpenPlay,2018,Head,10352,VfB Stuttgart,Bayern Munich,0,3,2018-09-01 16:30:00,Arjen Robben,Aerial
+225402,32,MissedShots,0.9080000305175782,0.5370000076293945,0.04528899863362312,Mats Hummels,a,373,SetPiece,2018,Head,10370,Schalke 04,Bayern Munich,0,2,2018-09-22 16:30:00,James Rodríguez,Aerial
+255331,32,MissedShots,0.9259999847412109,0.625,0.04913419857621193,Mats Hummels,h,373,OpenPlay,2018,RightFoot,10391,Bayern Munich,Borussia M.Gladbach,0,3,2018-10-06 16:30:00,,Aerial
+257654,1,MissedShots,0.93,0.47200000762939454,0.05869409814476967,Mats Hummels,h,373,FromCorner,2018,Head,10472,Bayern Munich,RasenBallsport Leipzig,1,0,2018-12-19 19:30:00,Joshua Kimmich,Aerial
+257659,24,MissedShots,0.8219999694824218,0.33599998474121096,0.041024401783943176,Mats Hummels,h,373,FromCorner,2018,RightFoot,10472,Bayern Munich,RasenBallsport Leipzig,1,0,2018-12-19 19:30:00,Serge Gnabry,Pass
+278244,26,BlockedShot,0.9619999694824218,0.4909999847412109,0.46843400597572327,Mats Hummels,a,373,FromCorner,2018,LeftFoot,10497,Hoffenheim,Bayern Munich,1,3,2019-01-18 19:30:00,Robert Lewandowski,BallTouch
+278245,27,SavedShot,0.9740000152587891,0.49900001525878906,0.5419859886169434,Mats Hummels,a,373,FromCorner,2018,RightFoot,10497,Hoffenheim,Bayern Munich,1,3,2019-01-18 19:30:00,Robert Lewandowski,BallTouch
+278726,74,BlockedShot,0.9,0.44299999237060544,0.09257400035858154,Mats Hummels,h,373,FromCorner,2018,RightFoot,10499,Bayern Munich,VfB Stuttgart,4,1,2019-01-27 14:30:00,,TakeOn
+279097,30,MissedShots,0.9359999847412109,0.534000015258789,0.0634268969297409,Mats Hummels,h,373,FromCorner,2018,Head,10517,Bayern Munich,Schalke 04,3,1,2019-02-09 17:30:00,James Rodríguez,Aerial
+279171,5,MissedShots,0.9169999694824219,0.46900001525878904,0.04091769829392433,Mats Hummels,a,373,FromCorner,2018,Head,10531,Augsburg,Bayern Munich,2,3,2019-02-15 19:30:00,James Rodríguez,Aerial
+284444,22,MissedShots,0.9309999847412109,0.51,0.06331770122051239,Mats Hummels,h,373,FromCorner,2018,Head,10553,Bayern Munich,Wolfsburg,6,0,2019-03-09 14:30:00,James Rodríguez,Aerial
+284450,45,MissedShots,0.889000015258789,0.37099998474121093,0.36681801080703735,Mats Hummels,h,373,SetPiece,2018,RightFoot,10553,Bayern Munich,Wolfsburg,6,0,2019-03-09 14:30:00,Thomas Müller,BlockedPass
+287383,26,MissedShots,0.9259999847412109,0.534000015258789,0.06608360260725021,Mats Hummels,a,373,SetPiece,2018,Head,10578,Freiburg,Bayern Munich,1,1,2019-03-30 14:30:00,James Rodríguez,Aerial
+292132,0,MissedShots,0.9319999694824219,0.5690000152587891,0.03639040142297745,Mats Hummels,h,373,FromCorner,2018,Head,10580,Bayern Munich,Borussia Dortmund,5,0,2019-04-06 17:30:00,Thiago Alcántara,Aerial
+292135,9,Goal,0.9490000152587891,0.5220000076293946,0.47088301181793213,Mats Hummels,h,373,FromCorner,2018,Head,10580,Bayern Munich,Borussia Dortmund,5,0,2019-04-06 17:30:00,Thiago Alcántara,Cross
+292141,30,SavedShot,0.9209999847412109,0.49599998474121093,0.051676999777555466,Mats Hummels,h,373,FromCorner,2018,Head,10580,Bayern Munich,Borussia Dortmund,5,0,2019-04-06 17:30:00,Thiago Alcántara,Aerial
+292145,38,MissedShots,0.914000015258789,0.5179999923706055,0.09395390003919601,Mats Hummels,h,373,FromCorner,2018,Head,10580,Bayern Munich,Borussia Dortmund,5,0,2019-04-06 17:30:00,David Alaba,Cross
+294223,50,MissedShots,0.895,0.5779999923706055,0.01414019986987114,Mats Hummels,a,373,FromCorner,2018,Head,10596,Fortuna Duesseldorf,Bayern Munich,1,4,2019-04-14 14:30:00,Joshua Kimmich,Aerial
+310649,10,MissedShots,0.924000015258789,0.534000015258789,0.16276000440120697,Mats Hummels,h,373,FromCorner,2019,Head,12406,Borussia Dortmund,Augsburg,5,1,2019-08-17 14:30:00,Thorgan Hazard,Aerial
+310664,66,MissedShots,0.9380000305175781,0.575,0.05367809906601906,Mats Hummels,h,373,SetPiece,2019,Head,12406,Borussia Dortmund,Augsburg,5,1,2019-08-17 14:30:00,Thorgan Hazard,Aerial
+310670,84,MissedShots,0.9290000152587891,0.33299999237060546,0.010105499997735023,Mats Hummels,h,373,FromCorner,2019,Head,12406,Borussia Dortmund,Augsburg,5,1,2019-08-17 14:30:00,Julian Weigl,Aerial
+312165,13,MissedShots,0.93,0.49400001525878906,0.05594329908490181,Mats Hummels,a,373,FromCorner,2019,OtherBodyPart,12412,FC Cologne,Borussia Dortmund,1,3,2019-08-23 19:30:00,Jadon Sancho,Aerial
+312179,51,MissedShots,0.754000015258789,0.6370000076293946,0.03622499853372574,Mats Hummels,a,373,OpenPlay,2019,RightFoot,12412,FC Cologne,Borussia Dortmund,1,3,2019-08-23 19:30:00,Nico Schulz,TakeOn
+321353,56,MissedShots,0.905,0.519000015258789,0.04050280153751373,Mats Hummels,a,373,FromCorner,2019,Head,12446,Eintracht Frankfurt,Borussia Dortmund,2,2,2019-09-22 16:00:00,Axel Witsel,Rebound
+325838,31,SavedShot,0.8969999694824219,0.45599998474121095,0.018060199916362762,Mats Hummels,h,373,FromCorner,2019,Head,12469,Borussia Dortmund,Borussia M.Gladbach,1,0,2019-10-19 17:30:00,Thorgan Hazard,Aerial
+325849,55,MissedShots,0.9059999847412109,0.5279999923706055,0.02717839926481247,Mats Hummels,h,373,FromCorner,2019,Head,12469,Borussia Dortmund,Borussia M.Gladbach,1,0,2019-10-19 17:30:00,Thorgan Hazard,Aerial
+330903,79,OwnGoal,0.025999999046325682,0.46799999237060547,0,Mats Hummels,a,373,OpenPlay,2019,RightFoot,12493,Bayern Munich,Borussia Dortmund,4,0,2019-11-09 17:30:00,,None
+331767,55,MissedShots,0.9009999847412109,0.5370000076293945,0.06377150118350983,Mats Hummels,h,373,FromCorner,2019,Head,12502,Borussia Dortmund,Paderborn,3,3,2019-11-22 19:30:00,Thorgan Hazard,Cross
+337992,1,MissedShots,0.9269999694824219,0.45799999237060546,0.10723000019788742,Mats Hummels,h,373,FromCorner,2019,Head,12538,Borussia Dortmund,RasenBallsport Leipzig,3,3,2019-12-17 19:30:00,Thorgan Hazard,Cross
+337993,14,SavedShot,0.8969999694824219,0.5929999923706055,0.029800599440932274,Mats Hummels,h,373,FromCorner,2019,Head,12538,Borussia Dortmund,RasenBallsport Leipzig,3,3,2019-12-17 19:30:00,Thorgan Hazard,Cross
+337994,14,MissedShots,0.895,0.545,0.05188389867544174,Mats Hummels,h,373,FromCorner,2019,Head,12538,Borussia Dortmund,RasenBallsport Leipzig,3,3,2019-12-17 19:30:00,Thorgan Hazard,Cross
+338308,14,MissedShots,0.970999984741211,0.5520000076293945,0.10714399814605713,Mats Hummels,a,373,FromCorner,2019,OtherBodyPart,12549,Hoffenheim,Borussia Dortmund,2,1,2019-12-20 19:30:00,Thorgan Hazard,Aerial
+355515,13,ShotOnPost,0.9159999847412109,0.44299999237060544,0.15182499587535858,Mats Hummels,h,373,FromCorner,2019,Head,12566,Borussia Dortmund,FC Cologne,5,1,2020-01-24 19:30:00,Julian Brandt,Aerial
+358137,21,Goal,0.9219999694824219,0.45,0.09242770075798035,Mats Hummels,a,373,FromCorner,2019,Head,12584,Bayer Leverkusen,Borussia Dortmund,4,3,2020-02-08 17:30:00,Jadon Sancho,Cross
+358151,89,MissedShots,0.9209999847412109,0.49400001525878906,0.05157019942998886,Mats Hummels,a,373,FromCorner,2019,Head,12584,Bayer Leverkusen,Borussia Dortmund,4,3,2020-02-08 17:30:00,Thorgan Hazard,Aerial
+360723,9,BlockedShot,0.9059999847412109,0.46,0.06992849707603455,Mats Hummels,h,373,FromCorner,2019,Head,12610,Borussia Dortmund,Freiburg,1,0,2020-02-29 14:30:00,Raphael Guerreiro,Cross
+361829,38,SavedShot,0.9359999847412109,0.4329999923706055,0.04342449828982353,Mats Hummels,a,373,FromCorner,2019,Head,12621,Borussia M.Gladbach,Borussia Dortmund,1,2,2020-03-07 17:30:00,Julian Brandt,Aerial
+363353,31,MissedShots,0.9019999694824219,0.580999984741211,0.027364499866962433,Mats Hummels,h,373,FromCorner,2019,Head,12652,Borussia Dortmund,Bayern Munich,0,1,2020-05-26 16:30:00,,Dispossessed
+363745,49,MissedShots,0.9169999694824219,0.45599998474121095,0.08775140345096588,Mats Hummels,a,373,FromCorner,2019,Head,12663,Paderborn,Borussia Dortmund,1,6,2020-05-31 16:00:00,Jadon Sancho,Cross
+364769,66,MissedShots,0.9069999694824219,0.519000015258789,0.11473599821329117,Mats Hummels,h,373,SetPiece,2019,Head,12682,Borussia Dortmund,Mainz 05,0,2,2020-06-17 18:30:00,Jadon Sancho,Cross
+364775,87,BlockedShot,0.8569999694824219,0.5820000076293945,0.08268310129642487,Mats Hummels,h,373,OpenPlay,2019,RightFoot,12682,Borussia Dortmund,Mainz 05,0,2,2020-06-17 18:30:00,Marcel Schmelzer,Pass
+378806,84,SavedShot,0.904000015258789,0.590999984741211,0.30268600583076477,Mats Hummels,a,373,OpenPlay,2020,RightFoot,14184,Augsburg,Borussia Dortmund,2,0,2020-09-26 13:30:00,Mahmoud Dahoud,Rebound
+378810,92,MissedShots,0.92,0.53,0.045485999435186386,Mats Hummels,a,373,FromCorner,2020,Head,14184,Augsburg,Borussia Dortmund,2,0,2020-09-26 13:30:00,Marco Reus,Aerial
+380492,37,SavedShot,0.9830000305175781,0.539000015258789,0.876587986946106,Mats Hummels,h,373,FromCorner,2020,LeftFoot,15162,Borussia Dortmund,Freiburg,4,0,2020-10-03 13:30:00,,Rebound
+383474,77,Goal,0.9259999847412109,0.5209999847412109,0.178288996219635,Mats Hummels,h,373,FromCorner,2020,Head,15181,Borussia Dortmund,Schalke 04,3,0,2020-10-24 16:30:00,Raphael Guerreiro,Aerial
+384567,52,Goal,0.970999984741211,0.46099998474121096,0.6243910193443298,Mats Hummels,a,373,FromCorner,2020,LeftFoot,15188,Arminia Bielefeld,Borussia Dortmund,0,2,2020-10-31 14:30:00,Thomas Meunier,None
+384571,70,Goal,0.914000015258789,0.45799999237060546,0.08681739866733551,Mats Hummels,a,373,FromCorner,2020,Head,15188,Arminia Bielefeld,Borussia Dortmund,0,2,2020-10-31 14:30:00,Marco Reus,Cross
+384575,83,MissedShots,0.875,0.6880000305175781,0.03537290170788765,Mats Hummels,a,373,FromCorner,2020,RightFoot,15188,Arminia Bielefeld,Borussia Dortmund,0,2,2020-10-31 14:30:00,,None
+388705,85,SavedShot,0.8919999694824219,0.5370000076293945,0.033772800117731094,Mats Hummels,h,373,OpenPlay,2020,Head,15212,Borussia Dortmund,FC Cologne,1,2,2020-11-28 14:30:00,Erling Haaland,Aerial
+388706,86,SavedShot,0.874000015258789,0.5179999923706055,0.3609910011291504,Mats Hummels,h,373,OpenPlay,2020,RightFoot,15212,Borussia Dortmund,FC Cologne,1,2,2020-11-28 14:30:00,Marco Reus,HeadPass
+388708,93,SavedShot,0.9259999847412109,0.4779999923706055,0.12035100162029266,Mats Hummels,h,373,FromCorner,2020,RightFoot,15212,Borussia Dortmund,FC Cologne,1,2,2020-11-28 14:30:00,Manuel Akanji,HeadPass
+390072,2,MissedShots,0.9269999694824219,0.46099998474121096,0.4280790090560913,Mats Hummels,a,373,SetPiece,2020,RightFoot,15224,Eintracht Frankfurt,Borussia Dortmund,1,1,2020-12-05 14:30:00,Jadon Sancho,Cross
+391599,34,SavedShot,0.9,0.545,0.021544000133872032,Mats Hummels,h,373,FromCorner,2020,Head,15230,Borussia Dortmund,VfB Stuttgart,1,5,2020-12-12 14:30:00,Raphael Guerreiro,Aerial
+391603,46,MissedShots,0.9159999847412109,0.49599998474121093,0.100040003657341,Mats Hummels,h,373,FromCorner,2020,Head,15230,Borussia Dortmund,VfB Stuttgart,1,5,2020-12-12 14:30:00,Jadon Sancho,Cross
+392643,11,BlockedShot,0.899000015258789,0.5459999847412109,0.0795091986656189,Mats Hummels,a,373,SetPiece,2020,RightFoot,15242,Werder Bremen,Borussia Dortmund,1,2,2020-12-15 19:30:00,,None
+400233,35,SavedShot,0.919000015258789,0.485,0.04785199835896492,Mats Hummels,a,373,FromCorner,2020,Head,15293,Borussia M.Gladbach,Borussia Dortmund,4,2,2021-01-22 19:30:00,Jadon Sancho,Aerial
+400240,54,MissedShots,0.875999984741211,0.48200000762939454,0.08067800104618073,Mats Hummels,a,373,FromCorner,2020,RightFoot,15293,Borussia M.Gladbach,Borussia Dortmund,4,2,2021-01-22 19:30:00,,None
+401624,46,BlockedShot,0.745999984741211,0.49900001525878906,0.022283900529146194,Mats Hummels,h,373,OpenPlay,2020,RightFoot,15303,Borussia Dortmund,Augsburg,3,1,2021-01-30 14:30:00,Jadon Sancho,Pass
+401625,54,BlockedShot,0.8640000152587891,0.6029999923706054,0.013678399845957756,Mats Hummels,h,373,FromCorner,2020,Head,15303,Borussia Dortmund,Augsburg,3,1,2021-01-30 14:30:00,Jadon Sancho,Cross
+404184,13,BlockedShot,0.8959999847412109,0.43599998474121093,0.07392170280218124,Mats Hummels,h,373,SetPiece,2020,LeftFoot,15321,Borussia Dortmund,Hoffenheim,2,2,2021-02-13 14:30:00,Erling Haaland,Cross
+404196,56,BlockedShot,0.914000015258789,0.5059999847412109,0.0932639017701149,Mats Hummels,h,373,SetPiece,2020,RightFoot,15321,Borussia Dortmund,Hoffenheim,2,2,2021-02-13 14:30:00,,BallTouch
+406706,27,BlockedShot,0.9230000305175782,0.5729999923706055,0.08126279711723328,Mats Hummels,h,373,SetPiece,2020,LeftFoot,15339,Borussia Dortmund,Arminia Bielefeld,3,0,2021-02-27 14:30:00,Giovanni Reyna,None
+406711,38,SavedShot,0.9080000305175782,0.515,0.03795760124921799,Mats Hummels,h,373,FromCorner,2020,Head,15339,Borussia Dortmund,Arminia Bielefeld,3,0,2021-02-27 14:30:00,Marco Reus,Aerial
+406726,82,MissedShots,0.8809999847412109,0.6370000076293946,0.019294900819659233,Mats Hummels,h,373,SetPiece,2020,Head,15339,Borussia Dortmund,Arminia Bielefeld,3,0,2021-02-27 14:30:00,Jadon Sancho,Cross
+412538,37,SavedShot,0.9019999694824219,0.56,0.01758049987256527,Mats Hummels,h,373,FromCorner,2020,Head,15374,Borussia Dortmund,Eintracht Frankfurt,1,2,2021-04-03 13:30:00,Thorgan Hazard,Aerial
+412539,43,Goal,0.950999984741211,0.5120000076293946,0.634788990020752,Mats Hummels,h,373,FromCorner,2020,LeftFoot,15374,Borussia Dortmund,Eintracht Frankfurt,1,2,2021-04-03 13:30:00,Emre Can,Pass
+412558,88,MissedShots,0.915,0.5459999847412109,0.03161890059709549,Mats Hummels,h,373,FromCorner,2020,Head,15374,Borussia Dortmund,Eintracht Frankfurt,1,2,2021-04-03 13:30:00,Giovanni Reyna,Aerial
+415862,86,Goal,0.9359999847412109,0.5179999923706055,0.0569721981883049,Mats Hummels,h,373,FromCorner,2020,Head,15392,Borussia Dortmund,Werder Bremen,4,1,2021-04-18 13:30:00,Thorgan Hazard,End
+416450,77,SavedShot,0.975999984741211,0.5479999923706055,0.6715980172157288,Mats Hummels,h,373,OpenPlay,2020,LeftFoot,15402,Borussia Dortmund,Union Berlin,2,0,2021-04-21 18:30:00,Jadon Sancho,Pass
+416451,77,SavedShot,0.9769999694824218,0.5940000152587891,0.10342299938201904,Mats Hummels,h,373,OpenPlay,2020,RightFoot,15402,Borussia Dortmund,Union Berlin,2,0,2021-04-21 18:30:00,,None
+420036,44,MissedShots,0.875999984741211,0.445,0.0414000004529953,Mats Hummels,h,373,SetPiece,2020,Head,15420,Borussia Dortmund,RasenBallsport Leipzig,3,2,2021-05-08 13:30:00,Marco Reus,Cross
+436145,65,ShotOnPost,0.9419999694824219,0.40700000762939453,0.04202159866690636,Mats Hummels,h,373,FromCorner,2021,OtherBodyPart,17587,Borussia Dortmund,Mainz 05,3,1,2021-10-16 13:30:00,Julian Brandt,Cross
+437711,44,Goal,0.8059999847412109,0.49900001525878906,0.03568520024418831,Mats Hummels,a,373,FromCorner,2021,RightFoot,17590,Arminia Bielefeld,Borussia Dortmund,1,3,2021-10-23 13:30:00,,None
+439603,71,MissedShots,0.955,0.575,0.10807099938392639,Mats Hummels,h,373,FromCorner,2021,Head,17605,Borussia Dortmund,FC Cologne,2,0,2021-10-30 13:30:00,Julian Brandt,Cross
+441259,78,SavedShot,0.905,0.5279999923706055,0.037397000938653946,Mats Hummels,a,373,OpenPlay,2021,Head,17613,RasenBallsport Leipzig,Borussia Dortmund,2,1,2021-11-06 17:30:00,Julian Brandt,Aerial
+443969,84,SavedShot,0.9219999694824219,0.5629999923706055,0.07967299968004227,Mats Hummels,a,373,FromCorner,2021,Head,17630,Wolfsburg,Borussia Dortmund,1,3,2021-11-27 14:30:00,Mahmoud Dahoud,Cross
+447665,65,MissedShots,0.9330000305175781,0.5720000076293945,0.08697199821472168,Mats Hummels,a,373,FromCorner,2021,Head,17643,Bochum,Borussia Dortmund,1,1,2021-12-11 14:30:00,Mahmoud Dahoud,Cross
+448992,77,BlockedShot,0.91,0.4929999923706055,0.11349400132894516,Mats Hummels,h,373,FromCorner,2021,RightFoot,17659,Borussia Dortmund,Greuther Fuerth,3,0,2021-12-15 19:30:00,Emre Can,HeadPass
+452248,46,SavedShot,0.919000015258789,0.5029999923706054,0.0490541011095047,Mats Hummels,a,373,FromCorner,2021,Head,17675,Eintracht Frankfurt,Borussia Dortmund,2,3,2022-01-08 17:30:00,Julian Brandt,Aerial
+452973,27,BlockedShot,0.9319999694824219,0.41900001525878905,0.03524789959192276,Mats Hummels,h,373,FromCorner,2021,Head,17686,Borussia Dortmund,Freiburg,5,1,2022-01-14 19:30:00,Julian Brandt,Dispossessed
+458890,72,BlockedShot,0.924000015258789,0.4809999847412109,0.10955300182104111,Mats Hummels,h,373,FromCorner,2021,RightFoot,17721,Borussia Dortmund,Borussia M.Gladbach,6,0,2022-02-20 16:30:00,,None
+464779,67,MissedShots,0.8909999847412109,0.5479999923706055,0.06834939867258072,Mats Hummels,a,373,SetPiece,2021,Head,17752,FC Cologne,Borussia Dortmund,1,1,2022-03-20 18:30:00,Giovanni Reyna,Cross
+464781,76,MissedShots,0.924000015258789,0.46599998474121096,0.04934230074286461,Mats Hummels,a,373,FromCorner,2021,Head,17752,FC Cologne,Borussia Dortmund,1,1,2022-03-20 18:30:00,Julian Brandt,Aerial
+466383,10,MissedShots,0.9069999694824219,0.475,0.02860810048878193,Mats Hummels,a,373,FromCorner,2021,Head,17772,VfB Stuttgart,Borussia Dortmund,0,2,2022-04-08 18:30:00,Raphael Guerreiro,Aerial
+483483,63,MissedShots,0.93,0.47900001525878905,0.060238998383283615,Mats Hummels,a,373,FromCorner,2022,Head,19373,Hertha Berlin,Borussia Dortmund,0,1,2022-08-27 13:30:00,Julian Brandt,Aerial
+485552,45,MissedShots,0.9619999694824218,0.590999984741211,0.07654470205307007,Mats Hummels,h,373,FromCorner,2022,Head,19378,Borussia Dortmund,Hoffenheim,1,0,2022-09-02 18:30:00,Julian Brandt,Cross
+493820,52,BlockedShot,0.885,0.5520000076293945,0.03622790053486824,Mats Hummels,a,373,FromCorner,2022,Head,19425,Union Berlin,Borussia Dortmund,2,0,2022-10-16 15:30:00,Raphael Guerreiro,Cross
+499025,81,MissedShots,0.915,0.5540000152587891,0.027824699878692627,Mats Hummels,a,373,FromCorner,2022,Head,19464,Wolfsburg,Borussia Dortmund,2,0,2022-11-08 17:30:00,Julian Brandt,Aerial
+499767,65,BlockedShot,0.91,0.5479999923706055,0.07405199855566025,Mats Hummels,a,373,OpenPlay,2022,Head,19472,Borussia M.Gladbach,Borussia Dortmund,4,2,2022-11-11 19:30:00,Julian Brandt,Aerial
+504981,4,MissedShots,0.9259999847412109,0.5320000076293945,0.05229710042476654,Mats Hummels,h,373,FromCorner,2022,Head,19477,Borussia Dortmund,Augsburg,4,3,2023-01-22 14:30:00,Julian Brandt,Aerial
+504983,14,BlockedShot,0.870999984741211,0.535,0.0754351019859314,Mats Hummels,h,373,FromCorner,2022,LeftFoot,19477,Borussia Dortmund,Augsburg,4,3,2023-01-22 14:30:00,,None
+504993,35,MissedShots,0.9269999694824219,0.455,0.36097899079322815,Mats Hummels,h,373,SetPiece,2022,Head,19477,Borussia Dortmund,Augsburg,4,3,2023-01-22 14:30:00,Raphael Guerreiro,Chipped
+504996,44,SavedShot,0.9109999847412109,0.5409999847412109,0.248648002743721,Mats Hummels,h,373,SetPiece,2022,Head,19477,Borussia Dortmund,Augsburg,4,3,2023-01-22 14:30:00,Julian Brandt,Cross
+504997,44,MissedShots,0.9359999847412109,0.534000015258789,0.08739449828863144,Mats Hummels,h,373,SetPiece,2022,RightFoot,19477,Borussia Dortmund,Augsburg,4,3,2023-01-22 14:30:00,,None
+505017,90,MissedShots,0.9009999847412109,0.4379999923706055,0.05124650150537491,Mats Hummels,h,373,FromCorner,2022,Head,19477,Borussia Dortmund,Augsburg,4,3,2023-01-22 14:30:00,Julian Ryerson,Cross
+517953,5,MissedShots,0.9490000152587891,0.519000015258789,0.09124679863452911,Mats Hummels,h,373,FromCorner,2022,Head,19576,Borussia Dortmund,Union Berlin,2,1,2023-04-08 13:30:00,,None
+521050,41,Goal,0.8980000305175782,0.5629999923706055,0.05496235564351082,Mats Hummels,h,373,OpenPlay,2022,Head,19594,Borussia Dortmund,Eintracht Frankfurt,4,0,2023-04-22 16:30:00,Raphael Guerreiro,Cross
+528149,20,MissedShots,0.9119999694824219,0.485,0.08819755166769028,Mats Hummels,a,373,FromCorner,2022,Head,19635,Augsburg,Borussia Dortmund,0,3,2023-05-21 15:30:00,Raphael Guerreiro,Cross
+528150,20,MissedShots,0.9469999694824218,0.4759999847412109,0.07825306802988052,Mats Hummels,a,373,FromCorner,2022,Head,19635,Augsburg,Borussia Dortmund,0,3,2023-05-21 15:30:00,,Rebound
+528886,46,SavedShot,0.7480000305175781,0.41700000762939454,0.016736531630158424,Mats Hummels,h,373,OpenPlay,2022,RightFoot,19639,Borussia Dortmund,Mainz 05,2,2,2023-05-27 13:30:00,Julian Ryerson,Pass
+528904,83,MissedShots,0.93,0.515,0.43433597683906555,Mats Hummels,h,373,SetPiece,2022,Head,19639,Borussia Dortmund,Mainz 05,2,2,2023-05-27 13:30:00,Marco Reus,Cross
+533405,21,MissedShots,0.8959999847412109,0.40700000762939453,0.01269793976098299,Mats Hummels,h,373,SetPiece,2023,Head,23071,Borussia Dortmund,FC Cologne,1,0,2023-08-19 16:30:00,Marco Reus,Aerial
+533411,30,MissedShots,0.965,0.509000015258789,0.5230870246887207,Mats Hummels,h,373,FromCorner,2023,Head,23071,Borussia Dortmund,FC Cologne,1,0,2023-08-19 16:30:00,Marco Reus,None
+533415,53,MissedShots,0.925,0.4329999923706055,0.03071615658700466,Mats Hummels,h,373,FromCorner,2023,Head,23071,Borussia Dortmund,FC Cologne,1,0,2023-08-19 16:30:00,Julian Brandt,Aerial
+533417,62,MissedShots,0.9730000305175781,0.46599998474121096,0.6139765381813049,Mats Hummels,h,373,SetPiece,2023,RightFoot,23071,Borussia Dortmund,FC Cologne,1,0,2023-08-19 16:30:00,Julian Brandt,Chipped
+537545,10,Goal,0.909000015258789,0.5409999847412109,0.2556750178337097,Mats Hummels,a,373,FromCorner,2023,Head,23094,Freiburg,Borussia Dortmund,2,4,2023-09-16 13:30:00,Julian Brandt,Cross
+537568,87,SavedShot,0.9769999694824218,0.509000015258789,0.6458333134651184,Mats Hummels,a,373,SetPiece,2023,LeftFoot,23094,Freiburg,Borussia Dortmund,2,4,2023-09-16 13:30:00,,End
+537569,87,Goal,0.9819999694824219,0.509000015258789,0.9111915230751038,Mats Hummels,a,373,SetPiece,2023,LeftFoot,23094,Freiburg,Borussia Dortmund,2,4,2023-09-16 13:30:00,,None
+546152,51,MissedShots,0.8190000152587891,0.5220000076293946,0.049301568418741226,Mats Hummels,a,373,OpenPlay,2023,RightFoot,23140,Eintracht Frankfurt,Borussia Dortmund,3,3,2023-10-29 14:30:00,,None
+549615,20,BlockedShot,0.7630000305175781,0.42200000762939455,0.026252424344420433,Mats Hummels,h,373,OpenPlay,2023,RightFoot,23164,Borussia Dortmund,Borussia M.Gladbach,4,2,2023-11-25 14:30:00,Julian Brandt,Pass
+555266,44,MissedShots,0.93,0.47,0.11574766039848328,Mats Hummels,h,373,FromCorner,2023,Head,23200,Borussia Dortmund,Mainz 05,1,1,2023-12-19 19:30:00,Julian Brandt,Cross
+568240,81,SavedShot,0.9019999694824219,0.580999984741211,0.04186765104532242,Mats Hummels,a,373,FromCorner,2023,Head,23286,Werder Bremen,Borussia Dortmund,1,2,2024-03-09 17:30:00,Karim Adeyemi,Cross
+570094,76,MissedShots,0.725,0.4209999847412109,0.01819256879389286,Mats Hummels,h,373,OpenPlay,2023,RightFoot,23290,Borussia Dortmund,Eintracht Frankfurt,3,1,2024-03-17 16:30:00,Julian Brandt,Pass
+570095,80,Goal,0.9319999694824219,0.47400001525878904,0.4339408576488495,Mats Hummels,h,373,SetPiece,2023,Head,23290,Borussia Dortmund,Eintracht Frankfurt,3,1,2024-03-17 16:30:00,Julian Brandt,Cross
+570980,17,MissedShots,0.8780000305175781,0.3529999923706055,0.08526544272899628,Mats Hummels,a,373,OpenPlay,2023,RightFoot,23299,Bayern Munich,Borussia Dortmund,0,2,2024-03-30 17:30:00,Jadon Sancho,Pass
+570994,57,SavedShot,0.8009999847412109,0.365,0.046664707362651825,Mats Hummels,a,373,OpenPlay,2023,RightFoot,23299,Bayern Munich,Borussia Dortmund,0,2,2024-03-30 17:30:00,Felix Nmecha,Pass
+572583,40,MissedShots,0.9530000305175781,0.45599998474121095,0.1284172534942627,Mats Hummels,h,373,FromCorner,2023,Head,23308,Borussia Dortmund,VfB Stuttgart,0,1,2024-04-06 16:30:00,Julian Brandt,Cross
+599384,70,OwnGoal,0.08300000190734863,0.48,0,Mats Hummels,a,373,FromCorner,2024,Head,27445,Fiorentina,Roma,5,1,2024-10-27 19:45:00,,CornerAwarded
+603603,82,MissedShots,0.9,0.4279999923706055,0.01472558081150055,Mats Hummels,a,373,FromCorner,2024,Head,27487,Napoli,Roma,1,0,2024-11-24 17:00:00,Angelino,Aerial
+608596,44,MissedShots,0.8880000305175781,0.44799999237060545,0.07144277542829514,Mats Hummels,h,373,FromCorner,2024,RightFoot,27529,Roma,Parma Calcio 1913,5,0,2024-12-22 11:30:00,Gianluca Mancini,BallTouch
+609611,6,SavedShot,0.9290000152587891,0.5620000076293945,0.3143235445022583,Mats Hummels,a,373,SetPiece,2024,Head,27538,AC Milan,Roma,1,1,2024-12-29 19:45:00,Paulo Dybala,Chipped
+609620,40,MissedShots,0.8830000305175781,0.4829999923706055,0.01808324083685875,Mats Hummels,a,373,FromCorner,2024,Head,27538,AC Milan,Roma,1,1,2024-12-29 19:45:00,,Aerial
+610353,13,BlockedShot,0.7869999694824219,0.4109999847412109,0.05733859911561012,Mats Hummels,h,373,OpenPlay,2024,RightFoot,27549,Roma,Lazio,2,0,2025-01-05 19:45:00,Leandro Paredes,TakeOn
+610358,31,MissedShots,0.9330000305175781,0.3970000076293945,0.020702043548226357,Mats Hummels,h,373,SetPiece,2024,Head,27549,Roma,Lazio,2,0,2025-01-05 19:45:00,Paulo Dybala,Aerial
+611979,20,MissedShots,0.730999984741211,0.3579999923706055,0.012361119501292706,Mats Hummels,h,373,OpenPlay,2024,RightFoot,27570,Roma,Genoa,3,1,2025-01-17 19:45:00,,None
+619376,78,MissedShots,0.914000015258789,0.5520000076293945,0.10698816925287247,Mats Hummels,h,373,SetPiece,2024,Head,27617,Roma,Monza,4,0,2025-02-24 19:45:00,Paulo Dybala,Cross

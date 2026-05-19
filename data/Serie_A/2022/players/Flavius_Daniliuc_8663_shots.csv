@@ -1,0 +1,29 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+380868,81,BlockedShot,0.8140000152587891,0.51,0.039487700909376144,Flavius Daniliuc,h,8663,FromCorner,2020,RightFoot,15808,Nice,Nantes,2,1,2020-10-03 19:00:00,Kasper Dolberg,Pass
+390868,47,SavedShot,0.895,0.4470000076293945,0.0894969031214714,Flavius Daniliuc,a,8663,FromCorner,2020,LeftFoot,15884,Reims,Nice,0,0,2020-12-06 16:00:00,,None
+391941,29,BlockedShot,0.9109999847412109,0.605999984741211,0.07852160185575485,Flavius Daniliuc,h,8663,FromCorner,2020,RightFoot,15892,Nice,Rennes,0,1,2020-12-13 12:00:00,Morgan Schneiderlin,None
+399271,85,MissedShots,0.69,0.42700000762939455,0.009107249788939953,Flavius Daniliuc,h,8663,OpenPlay,2020,RightFoot,15954,Nice,Bordeaux,0,3,2021-01-17 14:00:00,Alexis Claude Maurice,Pass
+401959,59,BlockedShot,0.8930000305175781,0.56,0.14547599852085114,Flavius Daniliuc,h,8663,OpenPlay,2020,RightFoot,15974,Nice,Saint-Etienne,0,1,2021-01-31 12:00:00,Hassane Kamara,Pass
+406499,57,Goal,0.8819999694824219,0.425,0.03952620178461075,Flavius Daniliuc,a,8663,SetPiece,2020,Head,16024,Rennes,Nice,1,2,2021-02-26 20:00:00,Amine Gouiri,Cross
+411438,72,MissedShots,0.774000015258789,0.7040000152587891,0.022418299689888954,Flavius Daniliuc,h,8663,OpenPlay,2020,RightFoot,16046,Nice,Marseille,3,0,2021-03-20 20:00:00,,None
+411441,83,BlockedShot,0.9069999694824219,0.6559999847412109,0.05427410081028938,Flavius Daniliuc,h,8663,FromCorner,2020,LeftFoot,16046,Nice,Marseille,3,0,2021-03-20 20:00:00,,None
+420541,35,MissedShots,0.909000015258789,0.515,0.09091269969940186,Flavius Daniliuc,h,8663,FromCorner,2020,Head,16111,Nice,Brest,3,2,2021-05-09 13:00:00,Rony Lopes,Cross
+468503,5,BlockedShot,0.905,0.485,0.07654059678316116,Flavius Daniliuc,h,8663,FromCorner,2021,LeftFoot,18137,Nice,Lorient,2,1,2022-04-17 11:00:00,Justin Kluivert,Cross
+468512,50,MissedShots,0.9280000305175782,0.44099998474121094,0.0925522968173027,Flavius Daniliuc,h,8663,FromCorner,2021,Head,18137,Nice,Lorient,2,1,2022-04-17 11:00:00,Calvin Stengs,Cross
+470650,83,MissedShots,0.9080000305175782,0.5670000076293945,0.08080530166625977,Flavius Daniliuc,h,8663,FromCorner,2021,RightFoot,18157,Nice,Troyes,1,0,2022-04-24 13:00:00,Evann Guessand,Tackle
+477634,80,MissedShots,0.865999984741211,0.5640000152587891,0.017645999789237976,Flavius Daniliuc,a,8663,FromCorner,2021,Head,18198,Reims,Nice,2,3,2022-05-21 19:00:00,Billal Brahimi,Cross
+493371,67,SavedShot,0.705,0.54,0.03955959901213646,Flavius Daniliuc,a,8663,DirectFreekick,2022,RightFoot,18675,Inter,Salernitana,2,0,2022-10-16 10:30:00,,Standard
+494836,91,SavedShot,0.915,0.534000015258789,0.08794669806957245,Flavius Daniliuc,h,8663,FromCorner,2022,Head,18689,Salernitana,Spezia,1,0,2022-10-22 13:00:00,Pasquale Mazzocchi,Cross
+494837,91,SavedShot,0.9340000152587891,0.555,0.10607600212097168,Flavius Daniliuc,h,8663,FromCorner,2022,Head,18689,Salernitana,Spezia,1,0,2022-10-22 13:00:00,Erik Botheim,Cross
+499562,40,BlockedShot,0.85,0.6370000076293946,0.04713819921016693,Flavius Daniliuc,a,8663,OpenPlay,2022,RightFoot,18713,Fiorentina,Salernitana,2,1,2022-11-09 19:45:00,Krzysztof Piatek,BallTouch
+502819,9,MissedShots,0.9290000152587891,0.5840000152587891,0.07227049767971039,Flavius Daniliuc,h,8663,FromCorner,2022,RightFoot,18749,Salernitana,Torino,1,1,2023-01-08 11:30:00,Domagoj Bradaric,Cross
+510058,5,MissedShots,0.9869999694824219,0.6140000152587891,0.016618600115180016,Flavius Daniliuc,h,8663,FromCorner,2022,Head,18807,Salernitana,Lazio,0,2,2023-02-19 14:00:00,Domagoj Bradaric,Cross
+511291,22,MissedShots,0.9280000305175782,0.6120000076293945,0.23650600016117096,Flavius Daniliuc,h,8663,FromCorner,2022,RightFoot,18813,Salernitana,Monza,3,0,2023-02-26 14:00:00,Antonio Candreva,Cross
+516970,46,BlockedShot,0.8780000305175781,0.51,0.09170249849557877,Flavius Daniliuc,a,8663,FromCorner,2022,LeftFoot,18856,Spezia,Salernitana,1,1,2023-04-02 13:00:00,,Rebound
+525432,83,MissedShots,0.865999984741211,0.495,0.06167275086045265,Flavius Daniliuc,a,8663,FromCorner,2022,RightFoot,18914,Empoli,Salernitana,2,1,2023-05-08 16:30:00,Grigoris Kastanos,BallTouch
+525800,86,SavedShot,0.88,0.525,0.03248520568013191,Flavius Daniliuc,h,8663,FromCorner,2022,Head,18929,Salernitana,Atalanta,1,0,2023-05-13 13:00:00,Antonio Candreva,Cross
+549493,21,MissedShots,0.7809999847412109,0.34900001525878904,0.021964672952890396,Flavius Daniliuc,h,8663,OpenPlay,2023,LeftFoot,22431,Salernitana,Lazio,2,1,2023-11-25 14:00:00,Pasquale Mazzocchi,Pass
+555140,20,MissedShots,0.9259999847412109,0.48900001525878906,0.1121968924999237,Flavius Daniliuc,a,8663,FromCorner,2023,Head,22455,Atalanta,Salernitana,4,1,2023-12-18 19:45:00,Antonio Candreva,Cross
+591813,56,MissedShots,0.91,0.4759999847412109,0.0300795566290617,Flavius Daniliuc,a,8663,FromCorner,2024,Head,27396,Lazio,Verona,2,1,2024-09-16 18:45:00,Darko Lazovic,Aerial
+602687,4,SavedShot,0.91,0.4279999923706055,0.08084435760974884,Flavius Daniliuc,h,8663,SetPiece,2024,Head,27485,Verona,Inter,0,5,2024-11-23 14:00:00,Domagoj Bradaric,Cross
+614554,64,MissedShots,0.7069999694824218,0.5159999847412109,0.01635552942752838,Flavius Daniliuc,a,8663,OpenPlay,2024,LeftFoot,27589,Monza,Verona,0,1,2025-02-01 14:00:00,Reda Belahyane,Pass

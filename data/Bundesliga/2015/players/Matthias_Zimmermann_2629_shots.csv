@@ -1,0 +1,34 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+83930,73,MissedShots,0.745,0.3240000152587891,0.009615490213036537,Matthias Zimmermann,a,2629,OpenPlay,2015,RightFoot,1325,Wolfsburg,VfB Stuttgart,3,1,2016-05-14 17:30:00,,Aerial
+166224,87,MissedShots,0.895,0.6480000305175782,0.08035869896411896,Matthias Zimmermann,h,2629,OpenPlay,2017,RightFoot,8273,VfB Stuttgart,Mainz 05,1,0,2017-08-26 14:30:00,,None
+220071,85,SavedShot,0.7369999694824219,0.37599998474121094,0.014280599541962147,Matthias Zimmermann,h,2629,OpenPlay,2018,RightFoot,10339,Fortuna Duesseldorf,Augsburg,1,2,2018-08-25 16:30:00,,None
+222274,46,Goal,0.8180000305175781,0.4620000076293945,0.062034301459789276,Matthias Zimmermann,a,2629,OpenPlay,2018,RightFoot,10353,RasenBallsport Leipzig,Fortuna Duesseldorf,1,1,2018-09-02 13:30:00,Niko Gießelmann,Pass
+223502,82,BlockedShot,0.750999984741211,0.44299999237060544,0.015243499539792538,Matthias Zimmermann,h,2629,OpenPlay,2018,LeftFoot,10359,Fortuna Duesseldorf,Hoffenheim,2,1,2018-09-15 13:30:00,,Aerial
+226423,21,BlockedShot,0.774000015258789,0.18799999237060547,0.011961800046265125,Matthias Zimmermann,h,2629,OpenPlay,2018,LeftFoot,10377,Fortuna Duesseldorf,Bayer Leverkusen,1,2,2018-09-26 16:30:00,,BallRecovery
+257420,4,BlockedShot,0.7519999694824219,0.61,0.016129400581121445,Matthias Zimmermann,h,2629,OpenPlay,2018,RightFoot,10452,Fortuna Duesseldorf,Mainz 05,0,1,2018-11-30 19:30:00,,None
+257442,71,BlockedShot,0.725,0.4229999923706055,0.014375600032508373,Matthias Zimmermann,h,2629,FromCorner,2018,RightFoot,10452,Fortuna Duesseldorf,Mainz 05,0,1,2018-11-30 19:30:00,,None
+257443,71,BlockedShot,0.7559999847412109,0.4640000152587891,0.026971500366926193,Matthias Zimmermann,h,2629,FromCorner,2018,RightFoot,10452,Fortuna Duesseldorf,Mainz 05,0,1,2018-11-30 19:30:00,,Rebound
+256972,13,MissedShots,0.7119999694824218,0.5359999847412109,0.013711799867451191,Matthias Zimmermann,a,2629,FromCorner,2018,RightFoot,10459,Werder Bremen,Fortuna Duesseldorf,3,1,2018-12-07 19:30:00,,None
+279142,19,SavedShot,0.919000015258789,0.3029999923706055,0.059001900255680084,Matthias Zimmermann,h,2629,OpenPlay,2018,RightFoot,10525,Fortuna Duesseldorf,VfB Stuttgart,3,0,2019-02-10 17:00:00,,Dispossessed
+279158,57,BlockedShot,0.8159999847412109,0.47200000762939454,0.08468549698591232,Matthias Zimmermann,h,2629,OpenPlay,2018,RightFoot,10525,Fortuna Duesseldorf,VfB Stuttgart,3,0,2019-02-10 17:00:00,Dodi Lukebakio,Pass
+286154,85,MissedShots,0.655,0.35400001525878905,0.006032160017639399,Matthias Zimmermann,a,2629,OpenPlay,2018,RightFoot,10566,Wolfsburg,Fortuna Duesseldorf,5,2,2019-03-16 14:30:00,Kevin Stöger,Chipped
+291927,22,MissedShots,0.8219999694824218,0.23700000762939452,0.02361530065536499,Matthias Zimmermann,a,2629,OpenPlay,2018,RightFoot,10585,Hertha Berlin,Fortuna Duesseldorf,1,2,2019-04-06 14:30:00,Rouwen Hennings,Pass
+294210,10,SavedShot,0.7780000305175782,0.24100000381469727,0.018104400485754013,Matthias Zimmermann,h,2629,OpenPlay,2018,LeftFoot,10596,Fortuna Duesseldorf,Bayern Munich,1,4,2019-04-14 14:30:00,Benito Raman,Pass
+300032,51,MissedShots,0.7769999694824219,0.26399999618530273,0.0192073006182909,Matthias Zimmermann,a,2629,OpenPlay,2018,RightFoot,10622,Freiburg,Fortuna Duesseldorf,1,1,2019-05-05 14:30:00,Adam Bodzek,Pass
+302312,46,MissedShots,0.85,0.26799999237060546,0.026753200218081474,Matthias Zimmermann,h,2629,OpenPlay,2018,LeftFoot,10640,Fortuna Duesseldorf,Hannover 96,2,1,2019-05-18 13:30:00,Kevin Stöger,Pass
+316491,79,MissedShots,0.749000015258789,0.5370000076293945,0.022771000862121582,Matthias Zimmermann,a,2629,OpenPlay,2019,LeftFoot,12429,Eintracht Frankfurt,Fortuna Duesseldorf,2,1,2019-09-01 17:00:00,Niko Gießelmann,Pass
+316926,24,MissedShots,0.860999984741211,0.29399999618530276,0.0255862008780241,Matthias Zimmermann,h,2629,OpenPlay,2019,RightFoot,12430,Fortuna Duesseldorf,Wolfsburg,1,1,2019-09-13 18:30:00,Rouwen Hennings,Cross
+321135,57,MissedShots,0.8109999847412109,0.29200000762939454,0.03632120043039322,Matthias Zimmermann,a,2629,OpenPlay,2019,LeftFoot,12445,Borussia M.Gladbach,Fortuna Duesseldorf,2,1,2019-09-22 13:30:00,,None
+323742,27,BlockedShot,0.8680000305175781,0.3240000152587891,0.023079700767993927,Matthias Zimmermann,a,2629,OpenPlay,2019,RightFoot,12459,Hertha Berlin,Fortuna Duesseldorf,3,1,2019-10-04 19:30:00,Nana Ampomah,Cross
+325496,39,MissedShots,0.7709999847412109,0.5779999923706055,0.023421799764037132,Matthias Zimmermann,h,2629,OpenPlay,2019,RightFoot,12474,Fortuna Duesseldorf,Mainz 05,1,0,2019-10-19 14:30:00,Kenan Karaman,Pass
+327104,12,BlockedShot,0.7519999694824219,0.35700000762939454,0.017974000424146652,Matthias Zimmermann,a,2629,OpenPlay,2019,RightFoot,12477,Paderborn,Fortuna Duesseldorf,2,0,2019-10-26 14:30:00,,BallTouch
+327105,15,MissedShots,0.7580000305175781,0.5209999847412109,0.022832399234175682,Matthias Zimmermann,a,2629,OpenPlay,2019,RightFoot,12477,Paderborn,Fortuna Duesseldorf,2,0,2019-10-26 14:30:00,Dawid Kownacki,Pass
+330528,70,MissedShots,0.755,0.44799999237060545,0.02382720075547695,Matthias Zimmermann,a,2629,OpenPlay,2019,RightFoot,12497,Schalke 04,Fortuna Duesseldorf,3,3,2019-11-09 14:30:00,Dawid Kownacki,Pass
+332106,78,MissedShots,0.8419999694824218,0.30700000762939456,0.033277399837970734,Matthias Zimmermann,h,2629,OpenPlay,2019,RightFoot,12505,Fortuna Duesseldorf,Bayern Munich,0,4,2019-11-23 14:30:00,Alfredo Morales,Pass
+339311,32,MissedShots,0.78,0.27700000762939453,0.009607840329408646,Matthias Zimmermann,h,2629,OpenPlay,2019,RightFoot,12550,Fortuna Duesseldorf,Union Berlin,2,1,2019-12-22 14:30:00,Nana Ampomah,Chipped
+356639,4,MissedShots,0.8190000152587891,0.26799999237060546,0.023662900552153587,Matthias Zimmermann,h,2629,OpenPlay,2019,RightFoot,12577,Fortuna Duesseldorf,Eintracht Frankfurt,1,1,2020-02-01 14:30:00,Kevin Stöger,Pass
+357916,12,Goal,0.9230000305175782,0.3220000076293945,0.0697551965713501,Matthias Zimmermann,a,2629,OpenPlay,2019,RightFoot,12586,Wolfsburg,Fortuna Duesseldorf,1,1,2020-02-08 14:30:00,Bernard Tekpetey,Pass
+357934,92,MissedShots,0.769000015258789,0.40099998474121096,0.023132700473070145,Matthias Zimmermann,a,2629,SetPiece,2019,RightFoot,12586,Wolfsburg,Fortuna Duesseldorf,1,1,2020-02-08 14:30:00,Kevin Stöger,Pass
+359858,7,MissedShots,0.765,0.3729999923706055,0.014510699547827244,Matthias Zimmermann,a,2629,SetPiece,2019,RightFoot,12608,Freiburg,Fortuna Duesseldorf,0,2,2020-02-22 14:30:00,,None
+362287,3,MissedShots,0.8680000305175781,0.23799999237060546,0.019297199323773384,Matthias Zimmermann,a,2629,OpenPlay,2019,RightFoot,12624,Mainz 05,Fortuna Duesseldorf,1,1,2020-03-08 17:00:00,,Rebound
+362998,13,BlockedShot,0.865,0.415,0.09498800337314606,Matthias Zimmermann,h,2629,OpenPlay,2019,RightFoot,12633,Fortuna Duesseldorf,Paderborn,0,0,2020-05-16 13:30:00,Valon Berisha,Pass

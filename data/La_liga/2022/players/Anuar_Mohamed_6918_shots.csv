@@ -1,0 +1,26 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+224409,11,MissedShots,0.74,0.47299999237060547,0.021218400448560715,Anuar Mohamed,h,6918,OpenPlay,2018,RightFoot,9994,Real Valladolid,Alaves,0,1,2018-09-16 16:30:00,Nacho,Pass
+280675,92,MissedShots,0.9030000305175782,0.5709999847412109,0.39177998900413513,Anuar Mohamed,h,6918,FromCorner,2018,RightFoot,10160,Real Valladolid,Celta Vigo,2,1,2019-01-27 11:00:00,Daniele Verde,Pass
+285420,28,Goal,0.9630000305175781,0.46099998474121096,0.704463005065918,Anuar Mohamed,h,6918,OpenPlay,2018,LeftFoot,10218,Real Valladolid,Real Madrid,1,4,2019-03-10 19:45:00,Sergi Guardiola,Pass
+285425,42,SavedShot,0.9180000305175782,0.3160000038146973,0.05296799913048744,Anuar Mohamed,h,6918,OpenPlay,2018,RightFoot,10218,Real Valladolid,Real Madrid,1,4,2019-03-10 19:45:00,Míchel,Chipped
+285427,48,MissedShots,0.9290000152587891,0.605999984741211,0.30158400535583496,Anuar Mohamed,h,6918,OpenPlay,2018,RightFoot,10218,Real Valladolid,Real Madrid,1,4,2019-03-10 19:45:00,Míchel,Chipped
+286564,17,BlockedShot,0.8769999694824219,0.5840000152587891,0.09903260320425034,Anuar Mohamed,a,6918,OpenPlay,2018,LeftFoot,10235,Eibar,Real Valladolid,1,2,2019-03-17 11:00:00,Sergi Guardiola,Pass
+288344,56,SavedShot,0.965,0.5220000076293946,0.691690981388092,Anuar Mohamed,h,6918,OpenPlay,2018,RightFoot,10242,Real Valladolid,Real Sociedad,1,1,2019-03-31 16:30:00,Óscar Plano,Pass
+288346,63,MissedShots,0.9009999847412109,0.315,0.059272401034832,Anuar Mohamed,h,6918,OpenPlay,2018,RightFoot,10242,Real Valladolid,Real Sociedad,1,1,2019-03-31 16:30:00,Keko,Chipped
+292662,31,SavedShot,0.93,0.5420000076293945,0.5406609773635864,Anuar Mohamed,h,6918,OpenPlay,2018,RightFoot,10262,Real Valladolid,Sevilla,0,2,2019-04-07 15:15:00,,None
+293941,15,BlockedShot,0.855999984741211,0.4909999847412109,0.06691659986972809,Anuar Mohamed,h,6918,FromCorner,2018,LeftFoot,10271,Real Valladolid,Getafe,2,2,2019-04-14 11:00:00,,None
+330396,50,BlockedShot,0.765,0.6859999847412109,0.023048099130392075,Anuar Mohamed,a,6918,FromCorner,2019,RightFoot,12143,Alaves,Real Valladolid,3,0,2019-11-09 12:00:00,Míchel,Pass
+481589,79,Goal,0.8480000305175781,0.555,0.10585799813270569,Anuar Mohamed,a,6918,OpenPlay,2022,RightFoot,18973,Sevilla,Real Valladolid,1,1,2022-08-19 20:00:00,Sergio León,LayOff
+484641,69,MissedShots,0.9019999694824219,0.40200000762939453,0.31869199872016907,Anuar Mohamed,a,6918,OpenPlay,2022,RightFoot,18988,Barcelona,Real Valladolid,4,0,2022-08-28 17:30:00,Roque Mesa,Pass
+487246,14,BlockedShot,0.950999984741211,0.385,0.04044799879193306,Anuar Mohamed,a,6918,FromCorner,2022,Head,19008,Girona,Real Valladolid,2,1,2022-09-09 19:00:00,Monchu,Cross
+595790,84,BlockedShot,0.7430000305175781,0.28299999237060547,0.015443289652466774,Anuar Mohamed,h,6918,OpenPlay,2024,LeftFoot,27070,Real Valladolid,Rayo Vallecano,1,2,2024-10-05 16:30:00,Luis Pérez,Pass
+596692,75,Goal,0.9119999694824219,0.40299999237060546,0.484194815158844,Anuar Mohamed,a,6918,OpenPlay,2024,RightFoot,27078,Alaves,Real Valladolid,2,3,2024-10-18 19:00:00,Mamadou Sylla,Pass
+596694,88,MissedShots,0.914000015258789,0.47900001525878905,0.0627298429608345,Anuar Mohamed,a,6918,OpenPlay,2024,Head,27078,Alaves,Real Valladolid,2,3,2024-10-18 19:00:00,Raul Moro,Aerial
+598219,16,SavedShot,0.9580000305175781,0.3940000152587891,0.03691082075238228,Anuar Mohamed,h,6918,OpenPlay,2024,OtherBodyPart,27089,Real Valladolid,Villarreal,1,2,2024-10-26 12:00:00,Raul Moro,Aerial
+606866,19,Goal,0.905,0.45299999237060545,0.3791442811489105,Anuar Mohamed,h,6918,OpenPlay,2024,RightFoot,27147,Real Valladolid,Valencia,1,0,2024-12-13 20:00:00,Marcos de Sousa,TakeOn
+610738,0,MissedShots,0.8930000305175781,0.40700000762939453,0.3806101977825165,Anuar Mohamed,h,6918,OpenPlay,2024,RightFoot,27168,Real Valladolid,Real Betis,1,0,2025-01-11 15:15:00,Marcos de Sousa,BallTouch
+617723,66,BlockedShot,0.8919999694824219,0.4370000076293945,0.32543689012527466,Anuar Mohamed,h,6918,OpenPlay,2024,RightFoot,27215,Real Valladolid,Sevilla,0,4,2025-02-16 15:15:00,Mario Martín,Pass
+619778,25,SavedShot,0.9259999847412109,0.515,0.11831400543451309,Anuar Mohamed,h,6918,OpenPlay,2024,Head,27239,Real Valladolid,Las Palmas,1,1,2025-02-28 20:00:00,Raul Moro,Cross
+626553,86,MissedShots,0.784000015258789,0.28,0.01726636290550232,Anuar Mohamed,h,6918,OpenPlay,2024,RightFoot,27279,Real Valladolid,Getafe,0,4,2025-04-06 16:30:00,,BallRecovery
+633950,55,SavedShot,0.9280000305175782,0.34799999237060547,0.07853171974420547,Anuar Mohamed,h,6918,OpenPlay,2024,RightFoot,27338,Real Valladolid,Girona,0,1,2025-05-13 17:00:00,Juan Latasa,Pass
+633958,93,MissedShots,0.9290000152587891,0.47,0.3594639003276825,Anuar Mohamed,h,6918,OpenPlay,2024,OtherBodyPart,27338,Real Valladolid,Girona,0,1,2025-05-13 17:00:00,Adam Aznou,Cross

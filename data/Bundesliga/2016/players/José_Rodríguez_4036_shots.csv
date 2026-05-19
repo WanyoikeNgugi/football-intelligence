@@ -1,0 +1,27 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+32500,15,BlockedShot,0.7659999847412109,0.5609999847412109,0.04243350028991699,José Rodríguez,a,4036,OpenPlay,2014,RightFoot,5828,Granada,Deportivo La Coruna,2,1,2014-08-23 20:00:00,,TakeOn
+32727,6,Goal,0.9209999847412109,0.4229999923706055,0.4458720088005066,José Rodríguez,h,4036,OpenPlay,2014,LeftFoot,5843,Deportivo La Coruna,Rayo Vallecano,2,2,2014-08-31 20:00:00,,Foul
+35005,79,MissedShots,0.745,0.445,0.021135900169610977,José Rodríguez,h,4036,OpenPlay,2014,RightFoot,5739,Deportivo La Coruna,Real Sociedad,0,0,2014-11-22 21:00:00,Ivan Cavaleiro,BallTouch
+35006,82,SavedShot,0.874000015258789,0.28299999237060547,0.05214869976043701,José Rodríguez,h,4036,OpenPlay,2014,RightFoot,5739,Deportivo La Coruna,Real Sociedad,0,0,2014-11-22 21:00:00,Juanfran,HeadPass
+35659,86,BlockedShot,0.749000015258789,0.5020000076293946,0.02088169939815998,José Rodríguez,a,4036,OpenPlay,2014,RightFoot,5750,Atletico Madrid,Deportivo La Coruna,2,0,2014-11-30 11:00:00,Isaac Cuenca,Pass
+34623,64,MissedShots,0.675,0.34,0.009982549585402012,José Rodríguez,h,4036,OpenPlay,2014,RightFoot,5706,Deportivo La Coruna,Elche,1,0,2014-12-15 19:45:00,,None
+34624,69,BlockedShot,0.8590000152587891,0.544000015258789,0.104482002556324,José Rodríguez,h,4036,OpenPlay,2014,RightFoot,5706,Deportivo La Coruna,Elche,1,0,2014-12-15 19:45:00,Luisinho,Pass
+34626,74,ShotOnPost,0.7380000305175781,0.41200000762939454,0.022073399275541306,José Rodríguez,h,4036,OpenPlay,2014,RightFoot,5706,Deportivo La Coruna,Elche,1,0,2014-12-15 19:45:00,,None
+34627,78,BlockedShot,0.9109999847412109,0.28200000762939453,0.03397209942340851,José Rodríguez,h,4036,FromCorner,2014,LeftFoot,5706,Deportivo La Coruna,Elche,1,0,2014-12-15 19:45:00,Ivan Cavaleiro,Pass
+34628,78,MissedShots,0.9069999694824219,0.2929999923706055,0.05210300162434578,José Rodríguez,h,4036,FromCorner,2014,RightFoot,5706,Deportivo La Coruna,Elche,1,0,2014-12-15 19:45:00,,Rebound
+35424,61,MissedShots,0.730999984741211,0.39299999237060546,0.019001800566911697,José Rodríguez,a,4036,OpenPlay,2014,RightFoot,5712,Villarreal,Deportivo La Coruna,3,0,2014-12-21 11:00:00,Juan Domínguez,Pass
+38322,9,MissedShots,0.8630000305175781,0.27100000381469724,0.03865480050444603,José Rodríguez,h,4036,OpenPlay,2014,LeftFoot,5645,Deportivo La Coruna,Athletic Club,1,0,2015-01-03 21:00:00,Ivan Cavaleiro,Chipped
+38050,5,BlockedShot,0.855999984741211,0.2720000076293945,0.05570850148797035,José Rodríguez,a,4036,OpenPlay,2014,LeftFoot,5652,Levante,Deportivo La Coruna,0,0,2015-01-09 19:45:00,,None
+37509,47,BlockedShot,0.8830000305175781,0.42700000762939455,0.09648329764604568,José Rodríguez,h,4036,OpenPlay,2014,RightFoot,5669,Deportivo La Coruna,Barcelona,0,4,2015-01-18 18:00:00,Isaac Cuenca,Pass
+37796,33,Goal,0.9640000152587891,0.3940000152587891,0.38825199007987976,José Rodríguez,h,4036,OpenPlay,2014,RightFoot,5677,Deportivo La Coruna,Granada,2,2,2015-01-25 11:00:00,,Rebound
+38534,44,SavedShot,0.8730000305175781,0.5720000076293945,0.3766910135746002,José Rodríguez,a,4036,OpenPlay,2014,RightFoot,5682,Rayo Vallecano,Deportivo La Coruna,1,2,2015-01-30 19:45:00,,Tackle
+38535,44,BlockedShot,0.875,0.5829999923706055,0.0959353968501091,José Rodríguez,a,4036,OpenPlay,2014,RightFoot,5682,Rayo Vallecano,Deportivo La Coruna,1,2,2015-01-30 19:45:00,Lucas Pérez,Pass
+38533,44,SavedShot,0.865,0.2560000038146973,0.02975039929151535,José Rodríguez,a,4036,OpenPlay,2014,RightFoot,5682,Rayo Vallecano,Deportivo La Coruna,1,2,2015-01-30 19:45:00,Juanfran,Pass
+40067,14,MissedShots,0.855,0.3129999923706055,0.04253530129790306,José Rodríguez,a,4036,OpenPlay,2014,RightFoot,5641,Almeria,Deportivo La Coruna,0,0,2015-02-28 19:00:00,,None
+40071,24,MissedShots,0.895,0.28299999237060547,0.04128609970211983,José Rodríguez,a,4036,OpenPlay,2014,RightFoot,5641,Almeria,Deportivo La Coruna,0,0,2015-02-28 19:00:00,Lucas Pérez,Pass
+40074,27,MissedShots,0.8069999694824219,0.675,0.02654780074954033,José Rodríguez,a,4036,FromCorner,2014,RightFoot,5641,Almeria,Deportivo La Coruna,0,0,2015-02-28 19:00:00,Sidnei,Pass
+40076,32,SavedShot,0.9059999847412109,0.35900001525878905,0.2333430051803589,José Rodríguez,a,4036,OpenPlay,2014,RightFoot,5641,Almeria,Deportivo La Coruna,0,0,2015-02-28 19:00:00,Lucas Pérez,TakeOn
+39068,60,MissedShots,0.7730000305175782,0.315,0.021182000637054443,José Rodríguez,a,4036,OpenPlay,2014,RightFoot,5532,Real Sociedad,Deportivo La Coruna,2,2,2015-04-12 18:00:00,Ivan Cavaleiro,Pass
+39070,65,MissedShots,0.9569999694824218,0.38799999237060545,0.04986320063471794,José Rodríguez,a,4036,FromCorner,2014,Head,5532,Real Sociedad,Deportivo La Coruna,2,2,2015-04-12 18:00:00,Ivan Cavaleiro,Cross
+139399,48,SavedShot,0.9219999694824219,0.534000015258789,0.5637829899787903,José Rodríguez,h,4036,OpenPlay,2016,LeftFoot,3950,Malaga,Las Palmas,2,1,2017-02-20 19:45:00,,None
+140646,9,SavedShot,0.8080000305175781,0.355,0.03229210153222084,José Rodríguez,h,4036,OpenPlay,2016,RightFoot,3993,Malaga,Alaves,1,2,2017-03-11 17:30:00,Keko,Pass

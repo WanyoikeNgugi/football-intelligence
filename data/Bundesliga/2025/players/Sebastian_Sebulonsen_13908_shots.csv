@@ -1,0 +1,31 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+639342,27,MissedShots,0.8880000305175781,0.37900001525878907,0.09572658687829971,Sebastian Sebulonsen,a,13908,OpenPlay,2025,RightFoot,30231,Mainz 05,FC Cologne,0,1,2025-08-24 13:30:00,Jakub Kaminski,Pass
+641096,26,BlockedShot,0.735,0.3110000038146973,0.011128470301628113,Sebastian Sebulonsen,h,13908,OpenPlay,2025,RightFoot,30241,FC Cologne,Freiburg,4,1,2025-08-31 17:30:00,,None
+641101,48,MissedShots,0.8540000152587891,0.4570000076293945,0.10693354159593582,Sebastian Sebulonsen,h,13908,OpenPlay,2025,RightFoot,30241,FC Cologne,Freiburg,4,1,2025-08-31 17:30:00,Marius Bülter,Pass
+641116,88,BlockedShot,0.77,0.5059999847412109,0.027274444699287415,Sebastian Sebulonsen,h,13908,OpenPlay,2025,RightFoot,30241,FC Cologne,Freiburg,4,1,2025-08-31 17:30:00,,None
+641625,14,BlockedShot,0.8640000152587891,0.35900001525878905,0.08043376356363297,Sebastian Sebulonsen,a,13908,OpenPlay,2025,RightFoot,30246,Wolfsburg,FC Cologne,3,3,2025-09-13 13:30:00,Joël Schmied,Pass
+643347,67,BlockedShot,0.9080000305175782,0.28,0.04993804544210434,Sebastian Sebulonsen,a,13908,OpenPlay,2025,RightFoot,30256,RasenBallsport Leipzig,FC Cologne,3,1,2025-09-20 16:30:00,Linton Maina,Pass
+645436,46,MissedShots,0.8390000152587891,0.4540000152587891,0.05539735034108162,Sebastian Sebulonsen,h,13908,FromCorner,2025,LeftFoot,30267,FC Cologne,VfB Stuttgart,1,2,2025-09-28 15:30:00,Ísak Bergmann Jóhannesson,LayOff
+645789,62,MissedShots,0.8830000305175781,0.715,0.045971110463142395,Sebastian Sebulonsen,a,13908,OpenPlay,2025,RightFoot,30274,Hoffenheim,FC Cologne,0,1,2025-10-03 18:30:00,,Rebound
+647407,34,MissedShots,0.9669999694824218,0.325,0.05180367827415466,Sebastian Sebulonsen,h,13908,SetPiece,2025,RightFoot,30279,FC Cologne,Augsburg,1,1,2025-10-18 13:30:00,,None
+647412,67,MissedShots,0.8909999847412109,0.4209999847412109,0.042625363916158676,Sebastian Sebulonsen,h,13908,OpenPlay,2025,Head,30279,FC Cologne,Augsburg,1,1,2025-10-18 13:30:00,Marius Bülter,Cross
+652460,76,BlockedShot,0.9419999694824219,0.4420000076293945,0.060348108410835266,Sebastian Sebulonsen,a,13908,FromCorner,2025,Head,30306,Borussia M.Gladbach,FC Cologne,3,1,2025-11-08 17:30:00,,None
+652467,100,BlockedShot,0.8530000305175781,0.4,0.0568760484457016,Sebastian Sebulonsen,a,13908,SetPiece,2025,RightFoot,30306,Borussia M.Gladbach,FC Cologne,3,1,2025-11-08 17:30:00,,None
+654904,72,MissedShots,0.7469999694824219,0.3089999961853027,0.017139149829745293,Sebastian Sebulonsen,a,13908,OpenPlay,2025,RightFoot,30331,Werder Bremen,FC Cologne,1,1,2025-11-29 14:30:00,Eric Martel,Pass
+656771,20,SavedShot,0.9209999847412109,0.31799999237060544,0.05223393067717552,Sebastian Sebulonsen,h,13908,OpenPlay,2025,RightFoot,30336,FC Cologne,St. Pauli,1,1,2025-12-06 14:30:00,,Rebound
+658356,27,MissedShots,0.745999984741211,0.34200000762939453,0.013436105102300644,Sebastian Sebulonsen,a,13908,OpenPlay,2025,RightFoot,30341,Bayer Leverkusen,FC Cologne,2,0,2025-12-13 17:30:00,,Rebound
+658363,52,SavedShot,0.725,0.4229999923706055,0.04952499642968178,Sebastian Sebulonsen,a,13908,DirectFreekick,2025,RightFoot,30341,Bayer Leverkusen,FC Cologne,2,0,2025-12-13 17:30:00,,Standard
+659254,38,MissedShots,0.8640000152587891,0.4370000076293945,0.026379084214568138,Sebastian Sebulonsen,h,13908,OpenPlay,2025,Head,30352,FC Cologne,Union Berlin,0,1,2025-12-20 14:30:00,Jan Thielmann,Cross
+659256,41,BlockedShot,0.7440000152587891,0.36200000762939455,0.011389060877263546,Sebastian Sebulonsen,h,13908,SetPiece,2025,RightFoot,30352,FC Cologne,Union Berlin,0,1,2025-12-20 14:30:00,,None
+659260,65,BlockedShot,0.885,0.6379999923706055,0.05964041128754616,Sebastian Sebulonsen,h,13908,SetPiece,2025,RightFoot,30352,FC Cologne,Union Berlin,0,1,2025-12-20 14:30:00,,None
+659268,92,BlockedShot,0.8880000305175781,0.654000015258789,0.06156151741743088,Sebastian Sebulonsen,h,13908,SetPiece,2025,LeftFoot,30352,FC Cologne,Union Berlin,0,1,2025-12-20 14:30:00,Cenk Özkacar,BallTouch
+662456,70,SavedShot,0.7680000305175781,0.3290000152587891,0.021968550980091095,Sebastian Sebulonsen,a,13908,OpenPlay,2025,RightFoot,30364,FC Heidenheim,FC Cologne,2,2,2026-01-10 14:30:00,Eric Martel,Pass
+665464,54,BlockedShot,0.8640000152587891,0.590999984741211,0.026982765644788742,Sebastian Sebulonsen,a,13908,SetPiece,2025,RightFoot,30390,Freiburg,FC Cologne,2,1,2026-01-25 16:30:00,Alessio Castro-Montes,Cross
+667719,68,BlockedShot,0.879000015258789,0.5709999847412109,0.0957394391298294,Sebastian Sebulonsen,h,13908,OpenPlay,2025,LeftFoot,30406,FC Cologne,RasenBallsport Leipzig,1,2,2026-02-08 14:30:00,Marius Bülter,Pass
+668844,62,BlockedShot,0.9569999694824218,0.590999984741211,0.090129554271698,Sebastian Sebulonsen,a,13908,OpenPlay,2025,RightFoot,30420,VfB Stuttgart,FC Cologne,3,1,2026-02-14 17:30:00,Kristoffer Lund,Cross
+678414,35,BlockedShot,0.8230000305175781,0.3970000076293945,0.04921815171837807,Sebastian Sebulonsen,h,13908,FromCorner,2025,RightFoot,30478,FC Cologne,Werder Bremen,3,1,2026-04-12 13:30:00,,Rebound
+678429,82,BlockedShot,0.764000015258789,0.4159999847412109,0.03550931438803673,Sebastian Sebulonsen,h,13908,OpenPlay,2025,RightFoot,30478,FC Cologne,Werder Bremen,3,1,2026-04-12 13:30:00,,None
+680928,10,SavedShot,0.71,0.5409999847412109,0.04410189017653465,Sebastian Sebulonsen,h,13908,DirectFreekick,2025,RightFoot,30496,FC Cologne,Bayer Leverkusen,1,2,2026-04-25 13:30:00,,Standard
+682278,91,MissedShots,0.8080000305175781,0.34400001525878904,0.023014802485704422,Sebastian Sebulonsen,a,13908,SetPiece,2025,RightFoot,30510,Union Berlin,FC Cologne,2,2,2026-05-02 13:30:00,,None
+684231,9,SavedShot,0.899000015258789,0.29700000762939455,0.04415314644575119,Sebastian Sebulonsen,h,13908,OpenPlay,2025,RightFoot,30514,FC Cologne,FC Heidenheim,1,3,2026-05-10 15:30:00,,None
+684258,94,MissedShots,0.695,0.2589999961853027,0.007078357506543398,Sebastian Sebulonsen,h,13908,OpenPlay,2025,RightFoot,30514,FC Cologne,FC Heidenheim,1,3,2026-05-10 15:30:00,Ísak Bergmann Jóhannesson,Pass

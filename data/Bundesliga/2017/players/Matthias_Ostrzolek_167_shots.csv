@@ -1,0 +1,56 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+25369,58,SavedShot,0.7559999847412109,0.715,0.013616199605166912,Matthias Ostrzolek,a,167,OpenPlay,2014,LeftFoot,5435,Borussia M.Gladbach,Hamburger SV,1,0,2014-09-24 19:00:00,Dennis Diekmeier,BallRecovery
+25385,87,BlockedShot,0.7119999694824218,0.6370000076293946,0.012804900296032429,Matthias Ostrzolek,a,167,FromCorner,2014,LeftFoot,5435,Borussia M.Gladbach,Hamburger SV,1,0,2014-09-24 19:00:00,,None
+26119,7,MissedShots,0.7319999694824219,0.725999984741211,0.008825739845633507,Matthias Ostrzolek,h,167,SetPiece,2014,LeftFoot,5399,Hamburger SV,Hoffenheim,1,1,2014-10-19 14:30:00,,None
+26374,22,MissedShots,0.9259999847412109,0.585,0.36875900626182556,Matthias Ostrzolek,a,167,OpenPlay,2014,LeftFoot,5405,Hertha Berlin,Hamburger SV,3,0,2014-10-25 14:30:00,Marcell Jansen,HeadPass
+26389,72,BlockedShot,0.8480000305175781,0.6730000305175782,0.04805770143866539,Matthias Ostrzolek,a,167,OpenPlay,2014,LeftFoot,5405,Hertha Berlin,Hamburger SV,3,0,2014-10-25 14:30:00,Lewis Holtby,Pass
+27624,57,MissedShots,0.7190000152587891,0.720999984741211,0.013769400306046009,Matthias Ostrzolek,a,167,OpenPlay,2014,LeftFoot,5375,Augsburg,Hamburger SV,3,1,2014-11-29 14:30:00,Johan Djourou,Pass
+27948,5,BlockedShot,0.695,0.779000015258789,0.009858819656074047,Matthias Ostrzolek,a,167,OpenPlay,2014,LeftFoot,5342,Schalke 04,Hamburger SV,0,0,2014-12-20 14:30:00,Mohamed Gouaida,Pass
+27965,55,BlockedShot,0.8090000152587891,0.5259999847412109,0.05009229853749275,Matthias Ostrzolek,a,167,OpenPlay,2014,RightFoot,5342,Schalke 04,Hamburger SV,0,0,2014-12-20 14:30:00,Petr Jirácek,Pass
+27975,86,BlockedShot,0.7559999847412109,0.715,0.01379220001399517,Matthias Ostrzolek,a,167,FromCorner,2014,LeftFoot,5342,Schalke 04,Hamburger SV,0,0,2014-12-20 14:30:00,,None
+32302,57,MissedShots,0.7240000152587891,0.6859999847412109,0.012704899534583092,Matthias Ostrzolek,a,167,FromCorner,2014,LeftFoot,5199,Bayer Leverkusen,Hamburger SV,4,0,2015-04-04 14:30:00,,None
+76667,7,MissedShots,0.7140000152587891,0.6759999847412109,0.012148899957537651,Matthias Ostrzolek,a,167,OpenPlay,2015,LeftFoot,1042,FC Cologne,Hamburger SV,2,1,2015-08-29 17:30:00,Lewis Holtby,Pass
+77511,80,BlockedShot,0.8340000152587891,0.725999984741211,0.029095500707626343,Matthias Ostrzolek,h,167,OpenPlay,2015,LeftFoot,1081,Hamburger SV,Schalke 04,0,1,2015-09-26 20:30:00,Aaron Hunt,Pass
+78294,50,MissedShots,0.89,0.7180000305175781,0.04213479906320572,Matthias Ostrzolek,a,167,OpenPlay,2015,LeftFoot,1102,Hoffenheim,Hamburger SV,0,1,2015-10-23 22:30:00,,None
+80806,71,MissedShots,0.84,0.725999984741211,0.031075600534677505,Matthias Ostrzolek,h,167,OpenPlay,2015,LeftFoot,1208,Hamburger SV,Borussia M.Gladbach,3,2,2016-02-14 18:30:00,Gideon Jung,Chipped
+81098,14,MissedShots,0.7780000305175782,0.785,0.018323900178074837,Matthias Ostrzolek,a,167,OpenPlay,2015,LeftFoot,1210,Eintracht Frankfurt,Hamburger SV,0,0,2016-02-19 23:30:00,Nicolai Müller,Pass
+81106,59,MissedShots,0.8080000305175781,0.7190000152587891,0.024096500128507614,Matthias Ostrzolek,a,167,OpenPlay,2015,LeftFoot,1210,Eintracht Frankfurt,Hamburger SV,0,0,2016-02-19 23:30:00,Aaron Hunt,Pass
+81493,63,BlockedShot,0.789000015258789,0.6580000305175782,0.02637079916894436,Matthias Ostrzolek,a,167,OpenPlay,2015,LeftFoot,1234,Schalke 04,Hamburger SV,3,2,2016-03-02 23:00:00,Lewis Holtby,Pass
+81738,43,MissedShots,0.7190000152587891,0.355,0.016811000183224678,Matthias Ostrzolek,h,167,FromCorner,2015,LeftFoot,1245,Hamburger SV,Hertha Berlin,2,0,2016-03-06 20:30:00,Aaron Hunt,Pass
+81746,92,MissedShots,0.710999984741211,0.5790000152587891,0.02231689915060997,Matthias Ostrzolek,h,167,OpenPlay,2015,LeftFoot,1245,Hamburger SV,Hertha Berlin,2,0,2016-03-06 20:30:00,Cléber,HeadPass
+82263,64,BlockedShot,0.7619999694824219,0.6940000152587891,0.0196468997746706,Matthias Ostrzolek,h,167,OpenPlay,2015,LeftFoot,1257,Hamburger SV,Hoffenheim,1,3,2016-03-19 18:30:00,Lewis Holtby,Pass
+83479,74,MissedShots,0.7780000305175782,0.6759999847412109,0.01311659999191761,Matthias Ostrzolek,a,167,OpenPlay,2015,LeftFoot,1303,Mainz 05,Hamburger SV,0,0,2016-04-30 17:30:00,Aaron Hunt,Chipped
+83754,76,MissedShots,0.8719999694824219,0.705,0.06037919968366623,Matthias Ostrzolek,a,167,OpenPlay,2015,LeftFoot,1318,Augsburg,Hamburger SV,1,3,2016-05-14 17:30:00,,Tackle
+130161,29,BlockedShot,0.7709999847412109,0.6719999694824219,0.04361730068922043,Matthias Ostrzolek,h,167,OpenPlay,2016,LeftFoot,2827,Hamburger SV,Werder Bremen,2,2,2016-11-26 18:30:00,Nicolai Müller,Pass
+130654,85,MissedShots,0.87,0.47200000762939454,0.10494600236415863,Matthias Ostrzolek,a,167,OpenPlay,2016,RightFoot,3199,Darmstadt,Hamburger SV,0,2,2016-12-04 18:30:00,,None
+130657,86,BlockedShot,0.86,0.7280000305175781,0.04487539827823639,Matthias Ostrzolek,a,167,OpenPlay,2016,LeftFoot,3199,Darmstadt,Hamburger SV,0,2,2016-12-04 18:30:00,Dennis Diekmeier,Pass
+130658,89,Goal,0.8519999694824218,0.615999984741211,0.08598670363426208,Matthias Ostrzolek,a,167,OpenPlay,2016,LeftFoot,3199,Darmstadt,Hamburger SV,0,2,2016-12-04 18:30:00,Gotoku Sakai,Pass
+131500,64,MissedShots,0.895,0.3509999847412109,0.056884098798036575,Matthias Ostrzolek,a,167,OpenPlay,2016,LeftFoot,3215,Mainz 05,Hamburger SV,3,1,2016-12-17 18:30:00,,None
+133886,6,SavedShot,0.9269999694824219,0.6969999694824218,0.05343789979815483,Matthias Ostrzolek,h,167,OpenPlay,2016,LeftFoot,3793,Hamburger SV,Borussia M.Gladbach,2,1,2017-03-12 16:30:00,,None
+133906,78,BlockedShot,0.8580000305175781,0.6759999847412109,0.04698929935693741,Matthias Ostrzolek,h,167,OpenPlay,2016,LeftFoot,3793,Hamburger SV,Borussia M.Gladbach,2,1,2017-03-12 16:30:00,Bobby Wood,Pass
+132789,49,BlockedShot,0.764000015258789,0.625,0.022968100383877754,Matthias Ostrzolek,a,167,OpenPlay,2016,RightFoot,3800,Eintracht Frankfurt,Hamburger SV,0,0,2017-03-18 17:30:00,Filip Kostic,Pass
+132959,55,SavedShot,0.9290000152587891,0.705999984741211,0.2730189859867096,Matthias Ostrzolek,a,167,SetPiece,2016,LeftFoot,3832,Werder Bremen,Hamburger SV,2,1,2017-04-16 14:30:00,,None
+134489,34,BlockedShot,0.7859999847412109,0.715,0.021690599620342255,Matthias Ostrzolek,a,167,OpenPlay,2016,LeftFoot,3853,Augsburg,Hamburger SV,4,0,2017-04-30 14:30:00,Lewis Holtby,Pass
+132965,1,BlockedShot,0.835,0.7069999694824218,0.057896699756383896,Matthias Ostrzolek,a,167,OpenPlay,2016,LeftFoot,3867,Schalke 04,Hamburger SV,1,1,2017-05-13 14:30:00,Filip Kostic,Pass
+132978,50,SavedShot,0.7780000305175782,0.5320000076293945,0.030829299241304398,Matthias Ostrzolek,a,167,OpenPlay,2016,LeftFoot,3867,Schalke 04,Hamburger SV,1,1,2017-05-13 14:30:00,,None
+166724,24,BlockedShot,0.8959999847412109,0.66,0.06865829974412918,Matthias Ostrzolek,h,167,OpenPlay,2017,RightFoot,8286,Hannover 96,Hamburger SV,2,0,2017-09-15 19:30:00,Kenan Karaman,Pass
+166850,81,BlockedShot,0.769000015258789,0.590999984741211,0.02726070024073124,Matthias Ostrzolek,h,167,OpenPlay,2017,RightFoot,8311,Hannover 96,FC Cologne,0,0,2017-09-24 14:30:00,Kenan Karaman,BallTouch
+167880,22,BlockedShot,0.975,0.6809999847412109,0.04794910177588463,Matthias Ostrzolek,h,167,OpenPlay,2017,RightFoot,8329,Hannover 96,Eintracht Frankfurt,1,2,2017-10-14 14:30:00,Marvin Bakalorz,Pass
+168322,69,MissedShots,0.710999984741211,0.385,0.01300789974629879,Matthias Ostrzolek,a,167,FromCorner,2017,LeftFoot,8337,Augsburg,Hannover 96,1,2,2017-10-21 14:30:00,,None
+167387,3,SavedShot,0.850999984741211,0.6969999694824218,0.021044600754976273,Matthias Ostrzolek,a,167,OpenPlay,2017,LeftFoot,8349,RasenBallsport Leipzig,Hannover 96,2,1,2017-11-04 14:30:00,Felix Klaus,Cross
+168689,48,MissedShots,0.794000015258789,0.730999984741211,0.020913999527692795,Matthias Ostrzolek,h,167,OpenPlay,2017,LeftFoot,8375,Hannover 96,VfB Stuttgart,1,1,2017-11-24 19:30:00,Felix Klaus,Pass
+187276,5,BlockedShot,0.76,0.6179999923706054,0.013809800148010254,Matthias Ostrzolek,h,167,FromCorner,2017,LeftFoot,8419,Hannover 96,Mainz 05,3,2,2018-01-13 14:30:00,,Aerial
+189427,5,BlockedShot,0.8059999847412109,0.7559999847412109,0.014706499874591827,Matthias Ostrzolek,a,167,OpenPlay,2017,LeftFoot,8426,Schalke 04,Hannover 96,1,1,2018-01-21 17:00:00,,None
+189430,27,MissedShots,0.8590000152587891,0.6,0.05519640073180199,Matthias Ostrzolek,a,167,FromCorner,2017,LeftFoot,8426,Schalke 04,Hannover 96,1,1,2018-01-21 17:00:00,,None
+194849,64,MissedShots,0.88,0.6969999694824218,0.051016200333833694,Matthias Ostrzolek,a,167,OpenPlay,2017,LeftFoot,8444,Hamburger SV,Hannover 96,1,1,2018-02-04 17:00:00,Pirmin Schwegler,Chipped
+196027,19,SavedShot,0.8090000152587891,0.7419999694824219,0.011439699679613113,Matthias Ostrzolek,h,167,OpenPlay,2017,LeftFoot,8449,Hannover 96,Freiburg,2,1,2018-02-10 14:30:00,,Aerial
+196303,17,BlockedShot,0.845,0.6090000152587891,0.05740850046277046,Matthias Ostrzolek,a,167,OpenPlay,2017,LeftFoot,8457,FC Cologne,Hannover 96,1,1,2018-02-17 14:30:00,,None
+197243,89,MissedShots,0.8490000152587891,0.645,0.03320330008864403,Matthias Ostrzolek,h,167,OpenPlay,2017,LeftFoot,8472,Hannover 96,Borussia M.Gladbach,0,1,2018-02-24 14:30:00,Niclas Füllkrug,HeadPass
+204443,72,MissedShots,0.93,0.674000015258789,0.03913930058479309,Matthias Ostrzolek,h,167,OpenPlay,2017,LeftFoot,8509,Hannover 96,RasenBallsport Leipzig,2,3,2018-03-31 14:30:00,Martin Harnik,Cross
+214636,74,MissedShots,0.784000015258789,0.5640000152587891,0.036990899592638016,Matthias Ostrzolek,a,167,OpenPlay,2017,LeftFoot,8561,Bayer Leverkusen,Hannover 96,3,2,2018-05-12 14:30:00,Linton Maina,Pass
+226276,91,SavedShot,0.7519999694824219,0.59,0.01375690009444952,Matthias Ostrzolek,h,167,SetPiece,2018,LeftFoot,10374,Hannover 96,Hoffenheim,1,3,2018-09-25 18:30:00,,None
+257171,32,MissedShots,0.7609999847412109,0.64,0.029013799503445625,Matthias Ostrzolek,a,167,OpenPlay,2018,LeftFoot,10461,Mainz 05,Hannover 96,1,1,2018-12-09 14:30:00,Pirmin Schwegler,BallRecovery
+279052,60,BlockedShot,0.835999984741211,0.695,0.045198798179626465,Matthias Ostrzolek,h,167,OpenPlay,2018,RightFoot,10522,Hannover 96,Nuernberg,2,0,2019-02-09 14:30:00,Walace,Pass
+279217,64,SavedShot,0.755,0.6120000076293945,0.019078899174928665,Matthias Ostrzolek,a,167,OpenPlay,2018,LeftFoot,10526,Hoffenheim,Hannover 96,3,0,2019-02-16 14:30:00,Genki Haraguchi,Pass
+279532,78,MissedShots,0.8619999694824219,0.585,0.05727500095963478,Matthias Ostrzolek,h,167,OpenPlay,2018,LeftFoot,10540,Hannover 96,Eintracht Frankfurt,0,3,2019-02-24 14:30:00,,None
+296073,63,BlockedShot,0.845,0.6669999694824219,0.032000698149204254,Matthias Ostrzolek,a,167,FromCorner,2018,LeftFoot,10603,Hertha Berlin,Hannover 96,0,0,2019-04-21 17:00:00,,None

@@ -1,0 +1,15 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+164607,31,BlockedShot,0.7190000152587891,0.5279999923706055,0.016932299360632896,Brandon,a,6004,OpenPlay,2017,RightFoot,8671,Montpellier,Rennes,0,1,2017-10-28 19:00:00,Adrien Hunou,Pass
+164612,58,Goal,0.8580000305175781,0.3659999847412109,0.11941500008106232,Brandon,a,6004,OpenPlay,2017,RightFoot,8671,Montpellier,Rennes,0,1,2017-10-28 19:00:00,Benjamin Bourigeaud,Throughball
+164613,60,SavedShot,0.9119999694824219,0.33799999237060546,0.334199994802475,Brandon,a,6004,OpenPlay,2017,RightFoot,8671,Montpellier,Rennes,0,1,2017-10-28 19:00:00,Benjamin André,TakeOn
+164934,8,SavedShot,0.855999984741211,0.5120000076293946,0.06992880254983902,Brandon,a,6004,OpenPlay,2017,RightFoot,8694,Strasbourg,Rennes,2,1,2017-11-18 19:00:00,Adrien Hunou,Chipped
+165107,69,MissedShots,0.925,0.3840000152587891,0.027871200814843178,Brandon,h,6004,FromCorner,2017,Head,8720,Rennes,Amiens,2,0,2017-12-02 19:00:00,Benjamin Bourigeaud,Cross
+165112,79,SavedShot,0.950999984741211,0.67,0.011793299578130245,Brandon,h,6004,FromCorner,2017,Head,8720,Rennes,Amiens,2,0,2017-12-02 19:00:00,Benjamin Bourigeaud,Cross
+315906,55,MissedShots,0.855,0.5220000076293946,0.04944320023059845,Brandon,h,6004,OpenPlay,2019,LeftFoot,12043,Osasuna,Barcelona,2,2,2019-08-31 16:00:00,Estupiñán,Cross
+315909,58,SavedShot,0.865999984741211,0.5779999923706055,0.07029630243778229,Brandon,h,6004,OpenPlay,2019,LeftFoot,12043,Osasuna,Barcelona,2,2,2019-08-31 16:00:00,,None
+315912,64,MissedShots,0.9,0.475,0.24839399755001068,Brandon,h,6004,OpenPlay,2019,Head,12043,Osasuna,Barcelona,2,2,2019-08-31 16:00:00,Roberto Torres,Chipped
+318224,12,MissedShots,0.95,0.555,0.5407860279083252,Brandon,a,6004,OpenPlay,2019,RightFoot,12062,Real Valladolid,Osasuna,1,1,2019-09-15 16:30:00,Ezequiel Ávila,TakeOn
+320144,84,SavedShot,0.8969999694824219,0.7280000305175781,0.03629229962825775,Brandon,h,6004,OpenPlay,2019,RightFoot,12067,Osasuna,Real Betis,0,0,2019-09-20 19:00:00,Fran Mérida,Pass
+325248,16,MissedShots,0.789000015258789,0.6669999694824219,0.026576900854706764,Brandon,a,6004,OpenPlay,2019,RightFoot,12109,Granada,Osasuna,1,0,2019-10-18 20:00:00,,BallTouch
+328714,3,MissedShots,0.8690000152587891,0.6469999694824219,0.05064089968800545,Brandon,a,6004,OpenPlay,2019,RightFoot,12129,Mallorca,Osasuna,2,2,2019-10-31 18:00:00,Estupiñán,TakeOn
+328728,66,MissedShots,0.965999984741211,0.5979999923706054,0.06376539915800095,Brandon,a,6004,FromCorner,2019,Head,12129,Mallorca,Osasuna,2,2,2019-10-31 18:00:00,Rubén García,Cross

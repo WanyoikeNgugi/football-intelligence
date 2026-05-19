@@ -1,0 +1,63 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+25086,34,BlockedShot,0.6880000305175781,0.49599998474121093,0.01417009998112917,Sven Bender,a,311,OpenPlay,2014,RightFoot,5426,Mainz 05,Borussia Dortmund,2,0,2014-09-20 17:30:00,,TakeOn
+25518,83,MissedShots,0.710999984741211,0.3940000152587891,0.011639200150966644,Sven Bender,a,311,OpenPlay,2014,RightFoot,5441,Schalke 04,Borussia Dortmund,2,1,2014-09-27 14:30:00,,None
+30351,67,MissedShots,0.965,0.605,0.03416309878230095,Sven Bender,a,311,SetPiece,2014,OtherBodyPart,5234,Hamburger SV,Borussia Dortmund,0,0,2015-03-07 14:30:00,Marco Reus,Cross
+30352,76,SavedShot,0.775,0.2539999961853027,0.011818500235676765,Sven Bender,a,311,OpenPlay,2014,RightFoot,5234,Hamburger SV,Borussia Dortmund,0,0,2015-03-07 14:30:00,,None
+29418,1,MissedShots,0.8630000305175781,0.3120000076293945,0.04433929920196533,Sven Bender,h,311,OpenPlay,2014,LeftFoot,5227,Borussia Dortmund,Eintracht Frankfurt,2,0,2015-04-25 14:30:00,,None
+79405,4,ShotOnPost,0.9530000305175781,0.48700000762939455,0.4810670018196106,Sven Bender,a,311,FromCorner,2015,LeftFoot,1153,Wolfsburg,Borussia Dortmund,1,2,2015-12-05 21:30:00,Henrikh Mkhitaryan,Cross
+82864,2,MissedShots,0.785,0.31799999237060544,0.02140679955482483,Sven Bender,h,311,SetPiece,2015,RightFoot,1289,Borussia Dortmund,Hamburger SV,3,0,2016-04-17 17:30:00,Ilkay Gündogan,Pass
+83316,58,SavedShot,0.8719999694824219,0.6029999923706054,0.12880699336528778,Sven Bender,h,311,OpenPlay,2015,LeftFoot,1306,Borussia Dortmund,Wolfsburg,5,1,2016-04-30 17:30:00,Shinji Kagawa,TakeOn
+131746,51,MissedShots,0.875999984741211,0.44099998474121094,0.04160090163350105,Sven Bender,h,311,SetPiece,2016,Head,3222,Borussia Dortmund,Augsburg,1,1,2016-12-20 23:00:00,Marcel Schmelzer,Cross
+133420,62,SavedShot,0.9180000305175782,0.46700000762939453,0.041422098875045776,Sven Bender,a,311,FromCorner,2016,Head,3840,Borussia M.Gladbach,Borussia Dortmund,2,3,2017-04-22 17:30:00,Ousmane Dembélé,Aerial
+166435,90,MissedShots,0.92,0.4520000076293945,0.05372310057282448,Sven Bender,a,311,SetPiece,2017,Head,8278,Mainz 05,Bayer Leverkusen,3,1,2017-09-09 14:30:00,Wendell,Aerial
+166749,8,BlockedShot,0.9069999694824219,0.4179999923706055,0.08498969674110413,Sven Bender,h,311,OpenPlay,2017,RightFoot,8312,Bayer Leverkusen,Hamburger SV,3,0,2017-09-24 17:00:00,Jonathan Tah,Cross
+166776,86,SavedShot,0.9319999694824219,0.645,0.036739498376846313,Sven Bender,h,311,SetPiece,2017,Head,8312,Bayer Leverkusen,Hamburger SV,3,0,2017-09-24 17:00:00,Wendell,Chipped
+168163,47,BlockedShot,0.9180000305175782,0.57,0.06885699927806854,Sven Bender,a,311,FromCorner,2017,RightFoot,8334,Borussia M.Gladbach,Bayer Leverkusen,1,5,2017-10-21 14:30:00,Leon Bailey,Cross
+168165,47,Goal,0.965,0.5509999847412109,0.5767719745635986,Sven Bender,a,311,FromCorner,2017,RightFoot,8334,Borussia M.Gladbach,Bayer Leverkusen,1,5,2017-10-21 14:30:00,Kai Havertz,None
+168766,30,MissedShots,0.8909999847412109,0.59,0.011610000394284725,Sven Bender,h,311,SetPiece,2017,Head,8345,Bayer Leverkusen,FC Cologne,2,1,2017-10-28 14:30:00,Leon Bailey,Aerial
+168781,72,Goal,0.92,0.5029999923706054,0.10159499943256378,Sven Bender,h,311,FromCorner,2017,RightFoot,8345,Bayer Leverkusen,FC Cologne,2,1,2017-10-28 14:30:00,Jonathan Tah,HeadPass
+168782,76,SavedShot,0.9690000152587891,0.35400001525878905,0.02178190089762211,Sven Bender,h,311,SetPiece,2017,Head,8345,Bayer Leverkusen,FC Cologne,2,1,2017-10-28 14:30:00,Julian Brandt,Cross
+168783,77,MissedShots,0.945,0.6880000305175781,0.03850650042295456,Sven Bender,h,311,OpenPlay,2017,Head,8345,Bayer Leverkusen,FC Cologne,2,1,2017-10-28 14:30:00,Leon Bailey,Cross
+169002,11,SavedShot,0.9219999694824219,0.5840000152587891,0.030366400256752968,Sven Bender,h,311,SetPiece,2017,Head,8382,Bayer Leverkusen,Borussia Dortmund,1,1,2017-12-02 14:30:00,Leon Bailey,Aerial
+187138,54,MissedShots,0.9069999694824219,0.68,0.04507260024547577,Sven Bender,h,311,FromCorner,2017,RightFoot,8417,Bayer Leverkusen,Bayern Munich,1,3,2018-01-12 19:30:00,,None
+187145,73,MissedShots,0.9419999694824219,0.580999984741211,0.03348509967327118,Sven Bender,h,311,FromCorner,2017,Head,8417,Bayer Leverkusen,Bayern Munich,1,3,2018-01-12 19:30:00,Leon Bailey,Aerial
+200173,15,MissedShots,0.9340000152587891,0.6659999847412109,0.007776579819619656,Sven Bender,h,311,SetPiece,2017,Head,8492,Bayer Leverkusen,Borussia M.Gladbach,2,0,2018-03-10 17:30:00,Charles Aránguiz,Aerial
+200190,69,SavedShot,0.8130000305175781,0.715,0.022851699963212013,Sven Bender,h,311,SetPiece,2017,RightFoot,8492,Bayer Leverkusen,Borussia M.Gladbach,2,0,2018-03-10 17:30:00,Wendell,Pass
+202096,71,MissedShots,0.9530000305175781,0.6509999847412109,0.06234300136566162,Sven Bender,a,311,SetPiece,2017,LeftFoot,8498,FC Cologne,Bayer Leverkusen,2,0,2018-03-18 14:30:00,,None
+255351,34,BlockedShot,0.7930000305175782,0.700999984741211,0.011675399728119373,Sven Bender,a,311,OpenPlay,2018,LeftFoot,10397,Freiburg,Bayer Leverkusen,0,0,2018-10-07 11:30:00,,Aerial
+255471,77,MissedShots,0.91,0.5929999923706055,0.10006699711084366,Sven Bender,h,311,FromCorner,2018,LeftFoot,10401,Bayer Leverkusen,Hannover 96,2,2,2018-10-20 13:30:00,Isaac Thelin,Rebound
+256366,24,MissedShots,0.8880000305175781,0.605999984741211,0.02526799961924553,Sven Bender,a,311,SetPiece,2018,OtherBodyPart,10429,RasenBallsport Leipzig,Bayer Leverkusen,3,0,2018-11-11 14:30:00,Julian Brandt,Aerial
+256420,68,MissedShots,0.8959999847412109,0.495,0.020723499357700348,Sven Bender,h,311,FromCorner,2018,Head,10438,Bayer Leverkusen,VfB Stuttgart,2,0,2018-11-23 19:30:00,Julian Brandt,Aerial
+256939,9,ShotOnPost,0.915,0.6179999923706054,0.04721970111131668,Sven Bender,a,311,FromCorner,2018,LeftFoot,10453,Nuernberg,Bayer Leverkusen,1,1,2018-12-03 19:30:00,Julian Brandt,Cross
+278416,61,BlockedShot,0.91,0.48200000762939454,0.03410639986395836,Sven Bender,h,311,FromCorner,2018,Head,10498,Bayer Leverkusen,Borussia M.Gladbach,0,1,2019-01-19 14:30:00,Julian Brandt,Aerial
+278421,70,SavedShot,0.914000015258789,0.5179999923706055,0.05766560137271881,Sven Bender,h,311,SetPiece,2018,Head,10498,Bayer Leverkusen,Borussia M.Gladbach,0,1,2019-01-19 14:30:00,Julian Brandt,Aerial
+278427,91,BlockedShot,0.8490000152587891,0.48,0.06185910105705261,Sven Bender,h,311,FromCorner,2018,RightFoot,10498,Bayer Leverkusen,Borussia M.Gladbach,0,1,2019-01-19 14:30:00,,None
+278428,92,SavedShot,0.914000015258789,0.485,0.040894001722335815,Sven Bender,h,311,FromCorner,2018,Head,10498,Bayer Leverkusen,Borussia M.Gladbach,0,1,2019-01-19 14:30:00,Wendell,Aerial
+278958,12,MissedShots,0.9290000152587891,0.5879999923706055,0.03225089982151985,Sven Bender,a,311,SetPiece,2018,Head,10524,Mainz 05,Bayer Leverkusen,1,5,2019-02-08 19:30:00,Leon Bailey,Aerial
+279539,19,BlockedShot,0.85,0.46799999237060547,0.09619180113077164,Sven Bender,a,311,OpenPlay,2018,RightFoot,10536,Borussia Dortmund,Bayer Leverkusen,3,2,2019-02-24 17:00:00,Julian Brandt,Pass
+287171,50,OwnGoal,0.075,0.5590000152587891,0,Sven Bender,a,311,FromCorner,2018,LeftFoot,10571,Hoffenheim,Bayer Leverkusen,4,1,2019-03-29 19:30:00,,None
+291880,54,MissedShots,0.82,0.539000015258789,0.04766169935464859,Sven Bender,h,311,SetPiece,2018,RightFoot,10582,Bayer Leverkusen,RasenBallsport Leipzig,2,4,2019-04-06 14:30:00,,None
+300769,66,MissedShots,0.92,0.5629999923706055,0.03173710033297539,Sven Bender,h,311,FromCorner,2018,Head,10627,Bayer Leverkusen,Schalke 04,1,1,2019-05-11 14:30:00,Kai Havertz,Aerial
+302356,25,SavedShot,0.909000015258789,0.5970000076293945,0.03673370182514191,Sven Bender,a,311,FromCorner,2018,Head,10638,Hertha Berlin,Bayer Leverkusen,1,5,2019-05-18 13:30:00,Julian Brandt,Cross
+312386,20,BlockedShot,0.9569999694824218,0.435,0.21510900557041168,Sven Bender,a,311,FromCorner,2019,Head,12415,Fortuna Duesseldorf,Bayer Leverkusen,1,3,2019-08-24 14:30:00,Kerem Demirbay,Aerial
+312394,52,BlockedShot,0.885,0.57,0.06605029851198196,Sven Bender,a,311,FromCorner,2019,RightFoot,12415,Fortuna Duesseldorf,Bayer Leverkusen,1,3,2019-08-24 14:30:00,,Foul
+315642,23,MissedShots,0.904000015258789,0.5059999847412109,0.02737170085310936,Sven Bender,h,311,FromCorner,2019,Head,12426,Bayer Leverkusen,Hoffenheim,0,0,2019-08-31 14:30:00,Kerem Demirbay,Aerial
+315654,81,SavedShot,0.9590000152587891,0.6469999694824219,0.05925469845533371,Sven Bender,h,311,FromCorner,2019,LeftFoot,12426,Bayer Leverkusen,Hoffenheim,0,0,2019-08-31 14:30:00,,None
+323978,20,MissedShots,0.92,0.42700000762939455,0.07838699966669083,Sven Bender,h,311,FromCorner,2019,Head,12462,Bayer Leverkusen,RasenBallsport Leipzig,1,1,2019-10-05 14:30:00,Nadiem Amiri,Cross
+329113,54,SavedShot,0.9730000305175781,0.6609999847412109,0.17298799753189087,Sven Bender,h,311,SetPiece,2019,Head,12486,Bayer Leverkusen,Borussia M.Gladbach,1,2,2019-11-02 14:30:00,Kerem Demirbay,Chipped
+335886,40,BlockedShot,0.8780000305175781,0.3629999923706055,0.06298039853572845,Sven Bender,h,311,FromCorner,2019,RightFoot,12522,Bayer Leverkusen,Schalke 04,2,1,2019-12-07 17:30:00,,Rebound
+338067,24,BlockedShot,0.8619999694824219,0.44799999237060545,0.06784410029649734,Sven Bender,h,311,SetPiece,2019,LeftFoot,12539,Bayer Leverkusen,Hertha Berlin,0,1,2019-12-18 17:30:00,,None
+338070,33,MissedShots,0.7630000305175781,0.5179999923706055,0.028467800468206406,Sven Bender,h,311,OpenPlay,2019,RightFoot,12539,Bayer Leverkusen,Hertha Berlin,0,1,2019-12-18 17:30:00,,BallTouch
+338084,90,MissedShots,0.764000015258789,0.6079999923706054,0.020698899403214455,Sven Bender,h,311,OpenPlay,2019,LeftFoot,12539,Bayer Leverkusen,Hertha Berlin,0,1,2019-12-18 17:30:00,Kevin Volland,BallTouch
+360252,41,MissedShots,0.92,0.555,0.03301449865102768,Sven Bender,h,311,FromCorner,2019,Head,12602,Bayer Leverkusen,Augsburg,2,0,2020-02-23 14:30:00,Nadiem Amiri,Aerial
+363170,25,MissedShots,0.879000015258789,0.6170000076293946,0.04911759868264198,Sven Bender,a,311,FromCorner,2019,RightFoot,12639,Borussia M.Gladbach,Bayer Leverkusen,1,3,2020-05-23 13:30:00,Charles Aránguiz,HeadPass
+363192,80,Goal,0.9619999694824218,0.49900001525878906,0.606902003288269,Sven Bender,a,311,SetPiece,2019,Head,12639,Borussia M.Gladbach,Bayer Leverkusen,1,3,2020-05-23 13:30:00,Kerem Demirbay,Cross
+363571,24,MissedShots,0.909000015258789,0.48,0.0325050987303257,Sven Bender,a,311,FromCorner,2019,Head,12660,Freiburg,Bayer Leverkusen,0,1,2020-05-29 18:30:00,Nadiem Amiri,Aerial
+363573,43,MissedShots,0.8780000305175781,0.49700000762939456,0.0157065000385046,Sven Bender,a,311,SetPiece,2019,Head,12660,Freiburg,Bayer Leverkusen,0,1,2020-05-29 18:30:00,Nadiem Amiri,Aerial
+364411,22,MissedShots,0.9540000152587891,0.605,0.05167590081691742,Sven Bender,a,311,FromCorner,2019,Head,12679,Schalke 04,Bayer Leverkusen,1,1,2020-06-14 16:00:00,Kerem Demirbay,Cross
+364429,87,MissedShots,0.9369999694824219,0.5609999847412109,0.10362699627876282,Sven Bender,a,311,FromCorner,2019,Head,12679,Schalke 04,Bayer Leverkusen,1,1,2020-06-14 16:00:00,Moussa Diaby,Cross
+364803,6,Goal,0.9790000152587891,0.4179999923706055,0.081557497382164,Sven Bender,h,311,FromCorner,2019,LeftFoot,12684,Bayer Leverkusen,FC Cologne,3,1,2020-06-17 18:30:00,Leon Bailey,Cross
+380508,2,BlockedShot,0.915,0.38599998474121094,0.04900909960269928,Sven Bender,a,311,FromCorner,2020,RightFoot,15161,VfB Stuttgart,Bayer Leverkusen,1,1,2020-10-03 13:30:00,Kerem Demirbay,Cross
+384235,82,SavedShot,0.8930000305175781,0.3970000076293945,0.02304220013320446,Sven Bender,h,311,FromCorner,2020,Head,15184,Bayer Leverkusen,Augsburg,3,1,2020-10-26 19:30:00,Leon Bailey,Cross
+405864,22,MissedShots,0.9030000305175782,0.69,0.046300701797008514,Sven Bender,a,311,SetPiece,2020,LeftFoot,15336,Augsburg,Bayer Leverkusen,1,1,2021-02-21 12:30:00,,None
+423644,63,SavedShot,0.9219999694824219,0.40099998474121096,0.04422460123896599,Sven Bender,a,311,FromCorner,2020,Head,15438,Borussia Dortmund,Bayer Leverkusen,3,1,2021-05-22 13:30:00,Demarai Gray,Cross

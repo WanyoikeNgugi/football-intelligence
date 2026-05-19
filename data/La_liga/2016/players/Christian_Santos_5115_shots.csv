@@ -1,0 +1,29 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+135374,54,BlockedShot,0.6980000305175781,0.6140000152587891,0.016210900619626045,Christian Santos,h,5115,OpenPlay,2016,LeftFoot,1796,Alaves,Sporting Gijon,0,0,2016-08-28 20:15:00,Daniel Torres,Pass
+135377,59,BlockedShot,0.8690000152587891,0.6020000076293945,0.08961530029773712,Christian Santos,h,5115,OpenPlay,2016,RightFoot,1796,Alaves,Sporting Gijon,0,0,2016-08-28 20:15:00,Edgar Méndez,Pass
+135863,90,SavedShot,0.88,0.47,0.1029909998178482,Christian Santos,h,5115,FromCorner,2016,LeftFoot,1818,Alaves,Deportivo La Coruna,0,0,2016-09-19 22:45:00,Gaizka Toquero,Rebound
+137593,27,MissedShots,0.9259999847412109,0.5129999923706055,0.13900800049304962,Christian Santos,a,5115,SetPiece,2016,Head,2779,Osasuna,Alaves,0,1,2016-11-05 21:30:00,Raúl García,Cross
+137597,37,MissedShots,0.9230000305175782,0.5179999923706055,0.1155799999833107,Christian Santos,a,5115,FromCorner,2016,Head,2779,Osasuna,Alaves,0,1,2016-11-05 21:30:00,Víctor Camarasa,Cross
+137603,76,Goal,0.885,0.5,0.7432780265808105,Christian Santos,a,5115,Penalty,2016,LeftFoot,2779,Osasuna,Alaves,0,1,2016-11-05 21:30:00,,Standard
+137848,88,SavedShot,0.6780000305175782,0.2979999923706055,0.013869600370526314,Christian Santos,h,5115,OpenPlay,2016,LeftFoot,2791,Alaves,Espanyol,0,1,2016-11-20 15:00:00,Kiko Femenía,Pass
+137849,89,MissedShots,0.894000015258789,0.47,0.06061460077762604,Christian Santos,h,5115,FromCorner,2016,Head,2791,Alaves,Espanyol,0,1,2016-11-20 15:00:00,Raúl García,Cross
+140296,43,SavedShot,0.745999984741211,0.29399999618530276,0.019270500168204308,Christian Santos,a,5115,OpenPlay,2016,LeftFoot,3178,Eibar,Alaves,0,0,2016-12-11 15:00:00,Víctor Camarasa,Pass
+139180,89,BlockedShot,0.735999984741211,0.5570000076293945,0.02158609963953495,Christian Santos,h,5115,OpenPlay,2016,LeftFoot,3916,Alaves,Atletico Madrid,0,0,2017-01-28 18:15:00,Deyverson,LayOff
+140027,57,Goal,0.885,0.5,0.7430210113525391,Christian Santos,a,5115,Penalty,2016,LeftFoot,3925,Sporting Gijon,Alaves,2,4,2017-02-05 15:15:00,,Standard
+141283,46,MissedShots,0.9309999847412109,0.4909999847412109,0.3499000072479248,Christian Santos,h,5115,OpenPlay,2016,LeftFoot,3936,Alaves,Barcelona,0,6,2017-02-11 15:15:00,Theo Hernández,Cross
+141286,53,MissedShots,0.875,0.46,0.04828770086169243,Christian Santos,h,5115,FromCorner,2016,LeftFoot,3936,Alaves,Barcelona,0,6,2017-02-11 15:15:00,Aleksandar Katai,Cross
+140075,28,SavedShot,0.7519999694824219,0.6880000305175781,0.015832500532269478,Christian Santos,h,5115,OpenPlay,2016,LeftFoot,3959,Alaves,Valencia,2,1,2017-02-25 12:00:00,Ibai Gómez,Tackle
+140079,50,MissedShots,0.980999984741211,0.5609999847412109,0.1432660073041916,Christian Santos,h,5115,OpenPlay,2016,RightFoot,3959,Alaves,Valencia,2,1,2017-02-25 12:00:00,Ibai Gómez,Pass
+141809,5,SavedShot,0.8969999694824219,0.5509999847412109,0.05594310164451599,Christian Santos,h,5115,FromCorner,2016,Head,4020,Alaves,Osasuna,0,1,2017-04-05 19:30:00,Óscar Romero,Cross
+141821,62,MissedShots,0.91,0.7559999847412109,0.026340199634432793,Christian Santos,h,5115,OpenPlay,2016,LeftFoot,4020,Alaves,Osasuna,0,1,2017-04-05 19:30:00,Óscar Romero,Pass
+143883,57,Goal,0.9590000152587891,0.42700000762939455,0.5555729866027832,Christian Santos,a,5115,OpenPlay,2016,LeftFoot,4074,Real Betis,Alaves,1,4,2017-04-30 15:15:00,Vigaray,Pass
+143780,3,MissedShots,0.919000015258789,0.5520000076293945,0.05566349998116493,Christian Santos,a,5115,OpenPlay,2016,Head,4100,Leganes,Alaves,1,1,2017-05-20 18:00:00,Ibai Gómez,Aerial
+143790,39,SavedShot,0.8219999694824218,0.5790000152587891,0.04379279911518097,Christian Santos,a,5115,OpenPlay,2016,RightFoot,4100,Leganes,Alaves,1,1,2017-05-20 18:00:00,Ibai Gómez,Chipped
+143806,83,MissedShots,0.875,0.515,0.029427800327539444,Christian Santos,a,5115,OpenPlay,2016,Head,4100,Leganes,Alaves,1,1,2017-05-20 18:00:00,Kiko Femenía,Aerial
+169152,30,SavedShot,0.9169999694824219,0.6880000305175781,0.009235209785401821,Christian Santos,a,5115,OpenPlay,2017,Head,7879,Leganes,Alaves,1,0,2017-08-18 19:15:00,Mubarak Wakaso,Pass
+171444,57,SavedShot,0.9030000305175782,0.555,0.08612769842147827,Christian Santos,h,5115,SetPiece,2017,Head,7969,Alaves,Valencia,1,2,2017-10-28 12:00:00,Munir,Cross
+171926,0,Goal,0.874000015258789,0.455,0.07490389794111252,Christian Santos,h,5115,FromCorner,2017,LeftFoot,7979,Alaves,Espanyol,1,0,2017-11-04 17:30:00,,None
+171944,69,MissedShots,0.8230000305175781,0.645,0.054475899785757065,Christian Santos,h,5115,OpenPlay,2017,LeftFoot,7979,Alaves,Espanyol,1,0,2017-11-04 17:30:00,Alfonso,Pass
+172338,80,Goal,0.9169999694824219,0.5790000152587891,0.24810999631881714,Christian Santos,a,5115,OpenPlay,2017,Head,7990,Getafe,Alaves,4,1,2017-11-18 12:00:00,Ibai Gómez,Cross
+171278,29,MissedShots,0.8859999847412109,0.48200000762939454,0.120448999106884,Christian Santos,h,5115,OpenPlay,2017,RightFoot,8000,Alaves,Eibar,1,2,2017-11-25 12:00:00,Rubén Sobrino,Pass
+179902,81,SavedShot,0.899000015258789,0.4909999847412109,0.5354120135307312,Christian Santos,h,5115,OpenPlay,2017,RightFoot,8021,Alaves,Las Palmas,2,0,2017-12-08 20:00:00,,None

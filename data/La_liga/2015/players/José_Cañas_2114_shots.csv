@@ -1,0 +1,10 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+34110,90,MissedShots,0.9230000305175782,0.4370000076293945,0.11993300169706345,José Cañas,h,2114,OpenPlay,2014,Head,5762,Espanyol,Real Sociedad,2,0,2014-10-05 18:00:00,Lucas Vázquez,Cross
+34898,86,MissedShots,0.9569999694824218,0.5790000152587891,0.1013450026512146,José Cañas,a,2114,FromCorner,2014,Head,5769,Atletico Madrid,Espanyol,2,0,2014-10-19 11:00:00,Javi López,Cross
+33679,62,MissedShots,0.7930000305175782,0.36900001525878906,0.023382199928164482,José Cañas,a,2114,FromCorner,2014,RightFoot,5723,Elche,Espanyol,2,1,2014-11-02 20:00:00,Fuentes,None
+33683,76,BlockedShot,0.745999984741211,0.5879999923706055,0.018184300512075424,José Cañas,a,2114,OpenPlay,2014,LeftFoot,5723,Elche,Espanyol,2,1,2014-11-02 20:00:00,,BallTouch
+33686,83,BlockedShot,0.8090000152587891,0.5070000076293946,0.03895140066742897,José Cañas,a,2114,FromCorner,2014,RightFoot,5723,Elche,Espanyol,2,1,2014-11-02 20:00:00,,None
+37536,36,BlockedShot,0.765,0.46599998474121096,0.021300099790096283,José Cañas,a,2114,FromCorner,2014,LeftFoot,5653,Real Madrid,Espanyol,3,0,2015-01-10 15:00:00,,None
+38402,4,MissedShots,0.755,0.5870000076293945,0.018218599259853363,José Cañas,h,2114,OpenPlay,2014,RightFoot,5666,Espanyol,Celta Vigo,1,0,2015-01-17 21:00:00,,None
+40700,11,MissedShots,0.7980000305175782,0.32799999237060545,0.02319210022687912,José Cañas,a,2114,SetPiece,2014,RightFoot,5597,Deportivo La Coruna,Espanyol,0,0,2015-03-22 11:00:00,Salva Sevilla,Pass
+38873,87,MissedShots,0.7719999694824219,0.539000015258789,0.016095299273729324,José Cañas,a,2114,FromCorner,2014,RightFoot,5524,Villarreal,Espanyol,0,3,2015-04-09 21:00:00,,Aerial

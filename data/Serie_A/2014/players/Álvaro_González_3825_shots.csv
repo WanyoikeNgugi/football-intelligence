@@ -1,0 +1,4 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+45215,26,MissedShots,0.8030000305175782,0.5070000076293946,0.03228820115327835,Álvaro González,h,3825,FromCorner,2014,LeftFoot,5011,Lazio,Atalanta,3,0,2014-12-13 19:45:00,,None
+45227,61,SavedShot,0.740999984741211,0.2879999923706055,0.014823299832642078,Álvaro González,h,3825,FromCorner,2014,LeftFoot,5011,Lazio,Atalanta,3,0,2014-12-13 19:45:00,Cristian Ledesma,Pass
+45229,77,BlockedShot,0.879000015258789,0.4370000076293945,0.13158400356769562,Álvaro González,h,3825,OpenPlay,2014,LeftFoot,5011,Lazio,Atalanta,3,0,2014-12-13 19:45:00,Dusan Basta,Pass

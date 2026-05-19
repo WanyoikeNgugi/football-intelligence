@@ -1,0 +1,14 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+357612,88,MissedShots,0.879000015258789,0.5379999923706055,0.04594000056385994,Janis Antiste,h,8311,OpenPlay,2019,Head,12930,Toulouse,Strasbourg,0,1,2020-02-05 18:00:00,Steven Moreira,Cross
+430378,5,MissedShots,0.9440000152587891,0.645,0.01712539978325367,Janis Antiste,h,8311,OpenPlay,2021,Head,16784,Spezia,Udinese,0,1,2021-09-12 13:00:00,Simone Bastoni,Cross
+430380,15,MissedShots,0.925,0.44,0.07422039657831192,Janis Antiste,h,8311,SetPiece,2021,Head,16784,Spezia,Udinese,0,1,2021-09-12 13:00:00,Simone Bastoni,Chipped
+431808,18,SavedShot,0.9290000152587891,0.2620000076293945,0.04719480127096176,Janis Antiste,a,8311,OpenPlay,2021,RightFoot,16795,Venezia,Spezia,1,2,2021-09-19 13:00:00,Kelvin Adou,Pass
+432507,48,Goal,0.86,0.5870000076293945,0.1165430024266243,Janis Antiste,h,8311,OpenPlay,2021,RightFoot,16804,Spezia,Juventus,2,3,2021-09-22 16:30:00,Giulio Maggiore,Chipped
+432516,64,BlockedShot,0.9219999694824219,0.524000015258789,0.38860198855400085,Janis Antiste,h,8311,OpenPlay,2021,RightFoot,16804,Spezia,Juventus,2,3,2021-09-22 16:30:00,Simone Bastoni,Cross
+435448,47,MissedShots,0.975999984741211,0.48400001525878905,0.147025004029274,Janis Antiste,a,8311,FromCorner,2021,Head,16820,Verona,Spezia,4,0,2021-10-03 13:00:00,Daniele Verde,Cross
+436011,14,MissedShots,0.9059999847412109,0.49599998474121093,0.09185919910669327,Janis Antiste,h,8311,FromCorner,2021,LeftFoot,16833,Spezia,Salernitana,2,1,2021-10-16 13:00:00,Petko Hristov,BallTouch
+436025,54,MissedShots,0.975,0.605999984741211,0.035993799567222595,Janis Antiste,h,8311,OpenPlay,2021,OtherBodyPart,16833,Spezia,Salernitana,2,1,2021-10-16 13:00:00,Salvador Ferrer,Aerial
+436040,92,BlockedShot,0.9309999847412109,0.3559999847412109,0.21562199294567108,Janis Antiste,h,8311,OpenPlay,2021,RightFoot,16833,Spezia,Salernitana,2,1,2021-10-16 13:00:00,Giulio Maggiore,TakeOn
+444514,16,MissedShots,0.8680000305175781,0.32599998474121095,0.029182400554418564,Janis Antiste,h,8311,OpenPlay,2021,LeftFoot,16893,Spezia,Bologna,0,1,2021-11-28 14:00:00,Simone Bastoni,Cross
+444517,24,MissedShots,0.9069999694824219,0.534000015258789,0.056835200637578964,Janis Antiste,h,8311,OpenPlay,2021,Head,16893,Spezia,Bologna,0,1,2021-11-28 14:00:00,Arkadiusz Reca,HeadPass
+490760,91,Goal,0.8490000152587891,0.465,0.06282489746809006,Janis Antiste,h,8311,OpenPlay,2022,LeftFoot,18661,Sassuolo,Salernitana,5,0,2022-10-02 13:00:00,,Rebound

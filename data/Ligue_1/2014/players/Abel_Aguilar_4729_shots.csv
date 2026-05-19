@@ -1,0 +1,11 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+437,47,MissedShots,0.9169999694824219,0.580999984741211,0.02852959930896759,Abel Aguilar,h,4729,SetPiece,2014,Head,6198,Toulouse,Lyon,2,1,2014-08-16 19:00:00,Wissam Ben Yedder,Aerial
+1728,65,BlockedShot,0.8859999847412109,0.39799999237060546,0.04548740014433861,Abel Aguilar,a,4729,FromCorner,2014,RightFoot,6131,Marseille,Toulouse,2,0,2014-10-19 13:00:00,Adrien Regattin,Cross
+2849,14,BlockedShot,0.6819999694824219,0.5979999923706054,0.013109000399708748,Abel Aguilar,h,4729,OpenPlay,2014,RightFoot,6134,Toulouse,Lens,0,2,2014-10-24 19:30:00,Aleksandar Pesic,Pass
+2860,51,MissedShots,0.879000015258789,0.42700000762939455,0.03218130022287369,Abel Aguilar,h,4729,FromCorner,2014,Head,6134,Toulouse,Lens,0,2,2014-10-24 19:30:00,Wissam Ben Yedder,Cross
+2996,64,MissedShots,0.7390000152587891,0.3920000076293945,0.014822299592196941,Abel Aguilar,a,4729,OpenPlay,2014,RightFoot,6083,Bordeaux,Toulouse,2,1,2014-11-02 16:00:00,Adrien Regattin,Pass
+5276,18,MissedShots,0.9030000305175782,0.455,0.06198050081729889,Abel Aguilar,h,4729,FromCorner,2014,Head,6087,Toulouse,Metz,3,0,2014-11-08 19:00:00,Wissam Ben Yedder,Cross
+5288,68,BlockedShot,0.799000015258789,0.375,0.03549309819936752,Abel Aguilar,h,4729,OpenPlay,2014,RightFoot,6087,Toulouse,Metz,3,0,2014-11-08 19:00:00,Wissam Ben Yedder,Pass
+3925,51,MissedShots,0.8669999694824219,0.5640000152587891,0.36950400471687317,Abel Aguilar,h,4729,OpenPlay,2014,RightFoot,6108,Toulouse,Lorient,2,3,2014-11-29 19:00:00,Aleksandar Pesic,Pass
+5590,11,BlockedShot,0.774000015258789,0.40400001525878904,0.024839499965310097,Abel Aguilar,h,4729,OpenPlay,2014,RightFoot,6071,Toulouse,Guingamp,1,1,2014-12-20 19:00:00,,None
+3837,40,SavedShot,0.879000015258789,0.575,0.03539489954710007,Abel Aguilar,a,4729,OpenPlay,2014,Head,5983,Paris Saint Germain,Toulouse,3,1,2015-02-21 16:00:00,Étienne Didot,Cross

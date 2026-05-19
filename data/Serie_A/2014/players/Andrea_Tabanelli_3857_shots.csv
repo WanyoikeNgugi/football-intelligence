@@ -1,0 +1,22 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+44591,65,BlockedShot,0.755,0.534000015258789,0.06843890249729156,Andrea Tabanelli,h,3857,DirectFreekick,2014,RightFoot,5066,Cesena,Genoa,0,3,2014-11-30 14:00:00,,Standard
+44592,65,MissedShots,0.759000015258789,0.5529999923706055,0.01635349914431572,Andrea Tabanelli,h,3857,SetPiece,2014,LeftFoot,5066,Cesena,Genoa,0,3,2014-11-30 14:00:00,,Rebound
+44594,73,SavedShot,0.7859999847412109,0.555,0.01899610087275505,Andrea Tabanelli,h,3857,OpenPlay,2014,RightFoot,5066,Cesena,Genoa,0,3,2014-11-30 14:00:00,,Rebound
+44843,87,MissedShots,0.7519999694824219,0.48,0.023419199511408806,Andrea Tabanelli,a,3857,OpenPlay,2014,RightFoot,5006,Atalanta,Cesena,3,2,2014-12-07 14:00:00,Francesco Renzetti,Pass
+51279,82,SavedShot,0.9469999694824218,0.4229999923706055,0.4317820072174072,Andrea Tabanelli,h,3857,OpenPlay,2014,RightFoot,4794,Cesena,Sassuolo,2,3,2015-05-10 14:00:00,Milan Djuric,HeadPass
+51280,85,SavedShot,0.855999984741211,0.435,0.018741099163889885,Andrea Tabanelli,h,3857,SetPiece,2014,Head,4794,Cesena,Sassuolo,2,3,2015-05-10 14:00:00,Franco Brienza,Cross
+51281,87,BlockedShot,0.6969999694824218,0.5279999923706055,0.015419400297105312,Andrea Tabanelli,h,3857,OpenPlay,2014,RightFoot,4794,Cesena,Sassuolo,2,3,2015-05-10 14:00:00,Franco Brienza,Pass
+50793,19,MissedShots,0.6990000152587891,0.769000015258789,0.026200100779533386,Andrea Tabanelli,h,3857,DirectFreekick,2014,RightFoot,4813,Cesena,Cagliari,0,1,2015-05-24 14:00:00,,Standard
+50796,31,MissedShots,0.7180000305175781,0.27,0.014158600009977818,Andrea Tabanelli,h,3857,OpenPlay,2014,LeftFoot,4813,Cesena,Cagliari,0,1,2015-05-24 14:00:00,Stefano Lucchini,Pass
+49817,3,MissedShots,0.7419999694824219,0.48700000762939455,0.015481900423765182,Andrea Tabanelli,a,3857,OpenPlay,2014,RightFoot,4827,Torino,Cesena,5,0,2015-05-31 19:45:00,Gregoire Defrel,HeadPass
+318414,67,MissedShots,0.8769999694824219,0.595999984741211,0.01851709932088852,Andrea Tabanelli,a,3857,OpenPlay,2019,Head,13118,Torino,Lecce,1,2,2019-09-16 18:45:00,Filippo Falco,Aerial
+321011,66,BlockedShot,0.915,0.625,0.02085929922759533,Andrea Tabanelli,h,3857,OpenPlay,2019,Head,13124,Lecce,Napoli,1,4,2019-09-22 13:00:00,Marco Mancosu,Cross
+321017,83,BlockedShot,0.8640000152587891,0.6880000305175781,0.0519724003970623,Andrea Tabanelli,h,3857,OpenPlay,2019,RightFoot,13124,Lecce,Napoli,1,4,2019-09-22 13:00:00,Marco Mancosu,Pass
+321018,84,SavedShot,0.875999984741211,0.5179999923706055,0.06975279748439789,Andrea Tabanelli,h,3857,OpenPlay,2019,LeftFoot,13124,Lecce,Napoli,1,4,2019-09-22 13:00:00,Marco Calderoni,Cross
+322142,51,MissedShots,0.6780000305175782,0.62,0.012784699909389019,Andrea Tabanelli,a,3857,OpenPlay,2019,RightFoot,13137,SPAL 2013,Lecce,1,3,2019-09-25 19:00:00,Jacopo Petriccione,Pass
+328571,11,MissedShots,0.9019999694824219,0.624000015258789,0.028918100520968437,Andrea Tabanelli,a,3857,OpenPlay,2019,Head,13186,Sampdoria,Lecce,1,1,2019-10-30 20:00:00,Filippo Falco,Chipped
+333190,49,BlockedShot,0.8480000305175781,0.6659999847412109,0.036758601665496826,Andrea Tabanelli,h,3857,OpenPlay,2019,RightFoot,13212,Lecce,Cagliari,2,2,2019-11-25 15:00:00,Gianluca Lapadula,Pass
+333195,61,MissedShots,0.764000015258789,0.720999984741211,0.04534649848937988,Andrea Tabanelli,h,3857,DirectFreekick,2019,RightFoot,13212,Lecce,Cagliari,2,2,2019-11-25 15:00:00,,Standard
+333198,78,MissedShots,0.8530000305175781,0.36900001525878906,0.04226379841566086,Andrea Tabanelli,h,3857,FromCorner,2019,RightFoot,13212,Lecce,Cagliari,2,2,2019-11-25 15:00:00,,None
+333205,88,MissedShots,0.9430000305175781,0.4759999847412109,0.5553150177001953,Andrea Tabanelli,h,3857,OpenPlay,2019,LeftFoot,13212,Lecce,Cagliari,2,2,2019-11-25 15:00:00,Diego Farias,Pass
+336135,69,Goal,0.9290000152587891,0.5790000152587891,0.039733801037073135,Andrea Tabanelli,h,3857,OpenPlay,2019,Head,13233,Lecce,Genoa,2,2,2019-12-08 11:30:00,Filippo Falco,Aerial

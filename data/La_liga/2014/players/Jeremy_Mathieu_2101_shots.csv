@@ -1,0 +1,26 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+32775,34,MissedShots,0.845,0.745,0.01534540019929409,Jeremy Mathieu,a,2101,FromCorner,2014,LeftFoot,5842,Villarreal,Barcelona,0,1,2014-08-31 18:00:00,,Aerial
+33690,1,BlockedShot,0.9330000305175781,0.435,0.09889540076255798,Jeremy Mathieu,a,2101,FromCorner,2014,LeftFoot,5804,Levante,Barcelona,0,5,2014-09-21 20:00:00,,None
+33713,76,SavedShot,0.8540000152587891,0.7180000305175781,0.05368899926543236,Jeremy Mathieu,a,2101,OpenPlay,2014,RightFoot,5804,Levante,Barcelona,0,5,2014-09-21 20:00:00,Lionel Messi,Pass
+35901,55,SavedShot,0.759000015258789,0.7709999847412109,0.010339300148189068,Jeremy Mathieu,a,2101,OpenPlay,2014,LeftFoot,5776,Real Madrid,Barcelona,3,1,2014-10-25 17:00:00,,None
+33944,10,SavedShot,0.7280000305175781,0.575,0.012954499572515488,Jeremy Mathieu,h,2101,OpenPlay,2014,LeftFoot,5718,Barcelona,Celta Vigo,0,1,2014-11-01 19:00:00,,None
+33959,60,MissedShots,0.9280000305175782,0.46299999237060546,0.11814399808645248,Jeremy Mathieu,h,2101,FromCorner,2014,Head,5718,Barcelona,Celta Vigo,0,1,2014-11-01 19:00:00,Ivan Rakitic,Cross
+40146,18,Goal,0.9219999694824219,0.52,0.06706699728965759,Jeremy Mathieu,h,2101,SetPiece,2014,Head,5600,Barcelona,Real Madrid,2,1,2015-03-22 23:00:00,Lionel Messi,Aerial
+38658,57,BlockedShot,0.8009999847412109,0.5179999923706055,0.03456680104136467,Jeremy Mathieu,a,2101,FromCorner,2014,LeftFoot,5513,Celta Vigo,Barcelona,0,1,2015-04-05 20:00:00,,None
+38664,72,Goal,0.98,0.435,0.509456992149353,Jeremy Mathieu,a,2101,SetPiece,2014,Head,5513,Celta Vigo,Barcelona,0,1,2015-04-05 20:00:00,Xavi,Cross
+39177,55,SavedShot,0.8919999694824219,0.5729999923706055,0.051142800599336624,Jeremy Mathieu,a,2101,FromCorner,2014,LeftFoot,5527,Sevilla,Barcelona,2,2,2015-04-11 19:00:00,Lionel Messi,Cross
+36901,34,MissedShots,0.86,0.7090000152587891,0.054747000336647034,Jeremy Mathieu,h,2101,OpenPlay,2014,LeftFoot,5496,Barcelona,Deportivo La Coruna,2,2,2015-05-23 17:30:00,,None
+84517,35,BlockedShot,0.915,0.515,0.047252900898456573,Jeremy Mathieu,a,2101,FromCorner,2015,Head,1422,Atletico Madrid,Barcelona,1,2,2015-09-12 22:30:00,Ivan Rakitic,Card
+85821,39,SavedShot,0.749000015258789,0.24299999237060546,0.04019840061664581,Jeremy Mathieu,a,2101,DirectFreekick,2015,LeftFoot,1493,Getafe,Barcelona,0,2,2015-10-31 23:30:00,,Standard
+86214,21,SavedShot,0.895,0.5279999923706055,0.02593350037932396,Jeremy Mathieu,h,2101,FromCorner,2015,Head,1506,Barcelona,Villarreal,3,0,2015-11-08 19:00:00,Andrés Iniesta,Aerial
+86218,26,SavedShot,0.879000015258789,0.6819999694824219,0.07402379810810089,Jeremy Mathieu,h,2101,OpenPlay,2015,LeftFoot,1506,Barcelona,Villarreal,3,0,2015-11-08 19:00:00,Luis Suárez,Pass
+90036,54,MissedShots,0.919000015258789,0.5979999923706054,0.01586429961025715,Jeremy Mathieu,h,2101,FromCorner,2015,Head,1658,Barcelona,Sevilla,2,1,2016-02-28 23:30:00,Lionel Messi,Aerial
+90257,26,BlockedShot,0.865,0.45599998474121095,0.0738091990351677,Jeremy Mathieu,a,2101,SetPiece,2015,RightFoot,1668,Rayo Vallecano,Barcelona,1,5,2016-03-04 00:00:00,Gerard Piqué,BallTouch
+91514,62,OwnGoal,0.060999999046325686,0.5070000076293946,0,Jeremy Mathieu,a,2101,FromCorner,2015,OtherBodyPart,1696,Villarreal,Barcelona,2,2,2016-03-20 19:00:00,,CornerAwarded
+91521,92,MissedShots,0.9440000152587891,0.49700000762939456,0.13721300661563873,Jeremy Mathieu,a,2101,SetPiece,2015,OtherBodyPart,1696,Villarreal,Barcelona,2,2,2016-03-20 19:00:00,Lionel Messi,Cross
+135610,45,Goal,0.9169999694824219,0.44299999237060544,0.08124230057001114,Jeremy Mathieu,h,2101,FromCorner,2016,Head,1804,Barcelona,Alaves,1,2,2016-09-10 22:30:00,Neymar,Cross
+135612,48,MissedShots,0.925,0.5179999923706055,0.3188920021057129,Jeremy Mathieu,h,2101,FromCorner,2016,LeftFoot,1804,Barcelona,Alaves,1,2,2016-09-10 22:30:00,,BallTouch
+136789,5,MissedShots,0.6980000305175781,0.740999984741211,0.01454589981585741,Jeremy Mathieu,a,2101,OpenPlay,2016,LeftFoot,1848,Celta Vigo,Barcelona,4,3,2016-10-02 22:45:00,Sergio Busquets,TakeOn
+136799,32,OwnGoal,0.08199999809265136,0.4929999923706055,0,Jeremy Mathieu,a,2101,OpenPlay,2016,LeftFoot,1848,Celta Vigo,Barcelona,4,3,2016-10-02 22:45:00,,Tackle
+142724,70,MissedShots,0.9330000305175781,0.5270000076293946,0.11595000326633453,Jeremy Mathieu,a,2101,FromCorner,2016,LeftFoot,4014,Granada,Barcelona,1,4,2017-04-02 19:45:00,Neymar,Cross
+141764,15,MissedShots,0.925,0.5579999923706055,0.04050400108098984,Jeremy Mathieu,a,2101,FromCorner,2016,Head,4028,Malaga,Barcelona,2,0,2017-04-08 19:45:00,Neymar,Aerial

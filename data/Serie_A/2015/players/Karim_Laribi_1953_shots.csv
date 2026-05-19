@@ -1,0 +1,11 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+96265,75,BlockedShot,0.8130000305175781,0.5729999923706055,0.04732939973473549,Karim Laribi,a,1953,OpenPlay,2015,LeftFoot,613,Empoli,Sassuolo,1,0,2015-10-04 14:30:00,,None
+97386,6,SavedShot,0.8019999694824219,0.3089999961853027,0.018118200823664665,Karim Laribi,a,1953,OpenPlay,2015,RightFoot,636,AC Milan,Sassuolo,2,1,2015-10-25 18:00:00,,Rebound
+97947,91,SavedShot,0.7390000152587891,0.49400001525878906,0.026465799659490585,Karim Laribi,h,1953,OpenPlay,2015,RightFoot,648,Sassuolo,Juventus,1,0,2015-10-28 23:45:00,Paolo Cannavaro,BallRecovery
+99943,8,MissedShots,0.754000015258789,0.39799999237060546,0.01831739954650402,Karim Laribi,h,1953,OpenPlay,2015,RightFoot,689,Sassuolo,Fiorentina,1,1,2015-11-30 22:00:00,Gregoire Defrel,Pass
+99945,16,BlockedShot,0.7919999694824219,0.5420000076293945,0.03452900052070618,Karim Laribi,h,1953,OpenPlay,2015,RightFoot,689,Sassuolo,Fiorentina,1,1,2015-11-30 22:00:00,,BallTouch
+99955,48,SavedShot,0.7240000152587891,0.500999984741211,0.017618199810385704,Karim Laribi,h,1953,OpenPlay,2015,RightFoot,689,Sassuolo,Fiorentina,1,1,2015-11-30 22:00:00,Simone Missiroli,Pass
+100433,6,ShotOnPost,0.93,0.4640000152587891,0.4042840003967285,Karim Laribi,a,1953,OpenPlay,2015,Head,699,Sampdoria,Sassuolo,1,3,2015-12-06 21:00:00,Sergio Floccari,Cross
+101987,10,MissedShots,0.8040000152587891,0.49900001525878906,0.038097601383924484,Karim Laribi,h,1953,FromCorner,2015,RightFoot,724,Sassuolo,Frosinone,2,2,2016-01-06 18:00:00,Antonio Floro Flores,Pass
+101998,45,BlockedShot,0.799000015258789,0.32,0.022260399535298347,Karim Laribi,h,1953,OpenPlay,2015,RightFoot,724,Sassuolo,Frosinone,2,2,2016-01-06 18:00:00,Lorenzo Pellegrini,BallRecovery
+93941,5,MissedShots,0.8130000305175781,0.45,0.04239580035209656,Karim Laribi,h,1953,SetPiece,2015,RightFoot,756,Sassuolo,Bologna,0,2,2016-01-24 18:00:00,,None

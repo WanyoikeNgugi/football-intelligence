@@ -1,0 +1,4 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+441042,75,MissedShots,0.885,0.5,0.7577769756317139,Manuel Riemann,h,9702,Penalty,2021,RightFoot,17607,Bochum,Hoffenheim,2,0,2021-11-06 14:30:00,,Standard
+512051,44,OwnGoal,0.03900000095367431,0.47900001525878905,0,Manuel Riemann,h,9702,OpenPlay,2022,OtherBodyPart,19546,Bochum,Schalke 04,0,2,2023-03-04 14:30:00,,None
+518808,92,BlockedShot,0.9,0.4570000076293945,0.01967640034854412,Manuel Riemann,h,9702,FromCorner,2022,Head,19582,Bochum,VfB Stuttgart,2,3,2023-04-09 15:30:00,Philipp Förster,Aerial

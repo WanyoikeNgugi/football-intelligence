@@ -1,0 +1,21 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+256445,65,MissedShots,0.9259999847412109,0.4540000152587891,0.4036940038204193,Oliver Fink,a,7255,SetPiece,2018,Head,10436,Bayern Munich,Fortuna Duesseldorf,3,3,2018-11-24 14:30:00,,None
+257432,37,BlockedShot,0.7559999847412109,0.505,0.02304299920797348,Oliver Fink,h,7255,OpenPlay,2018,RightFoot,10452,Fortuna Duesseldorf,Mainz 05,0,1,2018-11-30 19:30:00,Kevin Stöger,Pass
+257441,70,BlockedShot,0.9430000305175781,0.6840000152587891,0.036688998341560364,Oliver Fink,h,7255,FromCorner,2018,RightFoot,10452,Fortuna Duesseldorf,Mainz 05,0,1,2018-11-30 19:30:00,Kevin Stöger,Cross
+257304,73,MissedShots,0.9540000152587891,0.580999984741211,0.11972899734973907,Oliver Fink,h,7255,OpenPlay,2018,RightFoot,10470,Fortuna Duesseldorf,Freiburg,2,0,2018-12-15 14:30:00,Niko Gießelmann,Cross
+257309,91,MissedShots,0.755,0.425,0.02976050041615963,Oliver Fink,h,7255,OpenPlay,2018,LeftFoot,10470,Fortuna Duesseldorf,Freiburg,2,0,2018-12-15 14:30:00,,Interception
+257715,91,Goal,0.795,0.66,0.0439625009894371,Oliver Fink,a,7255,OpenPlay,2018,LeftFoot,10489,Hannover 96,Fortuna Duesseldorf,0,1,2018-12-22 14:30:00,Rouwen Hennings,LayOff
+278740,27,MissedShots,0.879000015258789,0.5729999923706055,0.03219829872250557,Oliver Fink,h,7255,OpenPlay,2018,Head,10507,Fortuna Duesseldorf,RasenBallsport Leipzig,0,4,2019-01-27 17:00:00,Benito Raman,Cross
+280834,78,MissedShots,0.895,0.32799999237060545,0.05647449940443039,Oliver Fink,a,7255,OpenPlay,2018,LeftFoot,10515,Hoffenheim,Fortuna Duesseldorf,1,1,2019-02-02 14:30:00,,None
+279154,48,Goal,0.7930000305175782,0.6020000076293945,0.06326089799404144,Oliver Fink,h,7255,OpenPlay,2018,RightFoot,10525,Fortuna Duesseldorf,VfB Stuttgart,3,0,2019-02-10 17:00:00,Jean Zimmer,TakeOn
+279706,74,MissedShots,0.815,0.5479999923706055,0.07745440304279327,Oliver Fink,a,7255,OpenPlay,2018,LeftFoot,10544,Schalke 04,Fortuna Duesseldorf,0,4,2019-03-02 14:30:00,Dodi Lukebakio,Pass
+287481,22,MissedShots,0.9469999694824218,0.7169999694824218,0.07728789746761322,Oliver Fink,h,7255,OpenPlay,2018,LeftFoot,10579,Fortuna Duesseldorf,Borussia M.Gladbach,3,1,2019-03-30 14:30:00,Rouwen Hennings,HeadPass
+300736,46,Goal,0.919000015258789,0.575,0.07143809646368027,Oliver Fink,a,7255,OpenPlay,2018,Head,10626,Borussia Dortmund,Fortuna Duesseldorf,3,2,2019-05-11 14:30:00,Markus Suttner,Cross
+316478,42,BlockedShot,0.8919999694824219,0.6880000305175781,0.08022280037403107,Oliver Fink,a,7255,OpenPlay,2019,LeftFoot,12429,Eintracht Frankfurt,Fortuna Duesseldorf,2,1,2019-09-01 17:00:00,,TakeOn
+323743,27,MissedShots,0.8119999694824219,0.54,0.04982699826359749,Oliver Fink,a,7255,OpenPlay,2019,RightFoot,12459,Hertha Berlin,Fortuna Duesseldorf,3,1,2019-10-04 19:30:00,,None
+323757,69,MissedShots,0.925,0.580999984741211,0.08396290242671967,Oliver Fink,a,7255,OpenPlay,2019,Head,12459,Hertha Berlin,Fortuna Duesseldorf,3,1,2019-10-04 19:30:00,Niko Gießelmann,Cross
+332083,12,MissedShots,0.7630000305175781,0.43099998474121093,0.031177999451756477,Oliver Fink,h,7255,FromCorner,2019,RightFoot,12505,Fortuna Duesseldorf,Bayern Munich,0,4,2019-11-23 14:30:00,Adam Bodzek,Pass
+332100,60,MissedShots,0.85,0.3659999847412109,0.049290601164102554,Oliver Fink,h,7255,OpenPlay,2019,RightFoot,12505,Fortuna Duesseldorf,Bayern Munich,0,4,2019-11-23 14:30:00,Adam Bodzek,Pass
+335587,76,MissedShots,0.9159999847412109,0.67,0.06223149970173836,Oliver Fink,a,7255,OpenPlay,2019,LeftFoot,12520,Borussia Dortmund,Fortuna Duesseldorf,5,0,2019-12-07 14:30:00,Rouwen Hennings,TakeOn
+339304,9,MissedShots,0.92,0.6519999694824219,0.06854890286922455,Oliver Fink,h,7255,OpenPlay,2019,LeftFoot,12550,Fortuna Duesseldorf,Union Berlin,2,1,2019-12-22 14:30:00,,Rebound
+356358,62,MissedShots,0.9619999694824218,0.6140000152587891,0.03372139856219292,Oliver Fink,a,7255,FromCorner,2019,Head,12567,Bayer Leverkusen,Fortuna Duesseldorf,3,0,2020-01-26 17:00:00,Markus Suttner,Cross

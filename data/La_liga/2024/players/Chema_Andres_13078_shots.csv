@@ -1,0 +1,13 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+640143,78,Goal,0.9230000305175782,0.505,0.1146472692489624,Chema Andres,h,13078,FromCorner,2025,Head,30237,VfB Stuttgart,Borussia M.Gladbach,1,0,2025-08-30 13:30:00,Jamie Leweling,Cross
+642723,35,MissedShots,0.9109999847412109,0.46700000762939453,0.05729570984840393,Chema Andres,h,13078,FromCorner,2025,Head,30251,VfB Stuttgart,St. Pauli,2,0,2025-09-19 18:30:00,Maximilian Mittelstädt,Chipped
+647464,25,SavedShot,0.9259999847412109,0.4640000152587891,0.35658955574035645,Chema Andres,a,13078,FromCorner,2025,Head,30286,Wolfsburg,VfB Stuttgart,0,3,2025-10-18 13:30:00,Angelo Stiller,Cross
+647475,58,MissedShots,0.884000015258789,0.4879999923706055,0.14005723595619202,Chema Andres,a,13078,OpenPlay,2025,RightFoot,30286,Wolfsburg,VfB Stuttgart,0,3,2025-10-18 13:30:00,Bilal El Khannouss,Pass
+653533,73,BlockedShot,0.9769999694824218,0.41200000762939454,0.023997552692890167,Chema Andres,a,13078,FromCorner,2025,Head,30316,Borussia Dortmund,VfB Stuttgart,3,3,2025-11-22 14:30:00,Angelo Stiller,Aerial
+655733,43,BlockedShot,0.840999984741211,0.47400001525878904,0.05819138139486313,Chema Andres,a,13078,OpenPlay,2025,RightFoot,30328,Hamburger SV,VfB Stuttgart,2,1,2025-11-30 14:30:00,,None
+655747,87,SavedShot,0.9,0.49900001525878906,0.050246600061655045,Chema Andres,a,13078,OpenPlay,2025,Head,30328,Hamburger SV,VfB Stuttgart,2,1,2025-11-30 14:30:00,Maximilian Mittelstädt,Aerial
+656856,49,MissedShots,0.8690000152587891,0.46099998474121096,0.0939747765660286,Chema Andres,h,13078,OpenPlay,2025,RightFoot,30332,VfB Stuttgart,Bayern Munich,0,5,2025-12-06 14:30:00,Nikolas Nartey,Pass
+667140,89,BlockedShot,0.8190000152587891,0.4640000152587891,0.04479726403951645,Chema Andres,a,13078,OpenPlay,2025,RightFoot,30410,St. Pauli,VfB Stuttgart,2,1,2026-02-07 14:30:00,,None
+668841,56,MissedShots,0.759000015258789,0.4779999923706055,0.03151042014360428,Chema Andres,h,13078,OpenPlay,2025,RightFoot,30420,VfB Stuttgart,FC Cologne,3,1,2026-02-14 17:30:00,Jamie Leweling,Pass
+678558,47,MissedShots,0.8869999694824219,0.38299999237060545,0.06363376975059509,Chema Andres,h,13078,FromCorner,2025,RightFoot,30483,VfB Stuttgart,Hamburger SV,4,0,2026-04-12 15:30:00,,None
+679834,87,Goal,0.8209999847412109,0.51,0.03837334364652634,Chema Andres,a,13078,OpenPlay,2025,RightFoot,30486,Bayern Munich,VfB Stuttgart,4,2,2026-04-19 15:30:00,Atakan Karazor,HeadPass

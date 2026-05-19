@@ -1,0 +1,86 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+174432,81,BlockedShot,0.8580000305175781,0.5029999923706054,0.09968960285186768,Dawid Kownacki,a,6190,OpenPlay,2017,RightFoot,7568,Udinese,Sampdoria,4,0,2017-09-30 17:00:00,Karol Linetty,Pass
+174433,81,BlockedShot,0.8480000305175781,0.5129999923706055,0.05429999902844429,Dawid Kownacki,a,6190,OpenPlay,2017,LeftFoot,7568,Udinese,Sampdoria,4,0,2017-09-30 17:00:00,,Rebound
+174880,75,Goal,0.8969999694824219,0.6179999923706054,0.101173996925354,Dawid Kownacki,h,6190,OpenPlay,2017,RightFoot,7585,Sampdoria,Crotone,5,0,2017-10-21 17:00:00,,BallRecovery
+175141,63,Goal,0.970999984741211,0.5990000152587891,0.05807439982891083,Dawid Kownacki,a,6190,OpenPlay,2017,LeftFoot,7595,Inter,Sampdoria,3,2,2017-10-24 19:45:00,Fabio Quagliarella,Cross
+185968,82,SavedShot,0.9230000305175782,0.5179999923706055,0.0540912002325058,Dawid Kownacki,h,6190,FromCorner,2017,Head,7687,Sampdoria,SPAL 2013,2,0,2017-12-30 14:00:00,Dennis Praet,Aerial
+186760,93,Goal,0.9730000305175781,0.6020000076293945,0.10408499836921692,Dawid Kownacki,a,6190,OpenPlay,2017,LeftFoot,7696,Benevento,Sampdoria,3,2,2018-01-06 14:00:00,Karol Linetty,Pass
+189200,16,SavedShot,0.955999984741211,0.5109999847412109,0.6371279954910278,Dawid Kownacki,h,6190,FromCorner,2017,RightFoot,7702,Sampdoria,Fiorentina,3,1,2018-01-21 14:00:00,,Rebound
+189202,26,SavedShot,0.9019999694824219,0.639000015258789,0.11698699742555618,Dawid Kownacki,h,6190,OpenPlay,2017,RightFoot,7702,Sampdoria,Fiorentina,3,1,2018-01-21 14:00:00,Lucas Torreira,Throughball
+190568,83,SavedShot,0.9080000305175782,0.4640000152587891,0.09625569730997086,Dawid Kownacki,a,6190,SetPiece,2017,RightFoot,7717,Roma,Sampdoria,0,1,2018-01-28 14:00:00,Matías Silvestre,HeadPass
+195806,71,SavedShot,0.8830000305175781,0.5279999923706055,0.019375400617718697,Dawid Kownacki,h,6190,SetPiece,2017,Head,7728,Sampdoria,Torino,1,1,2018-02-03 17:00:00,Fabio Quagliarella,Aerial
+195945,91,MissedShots,0.9590000152587891,0.6530000305175782,0.11739300191402435,Dawid Kownacki,h,6190,OpenPlay,2017,LeftFoot,7734,Sampdoria,Verona,2,0,2018-02-11 14:00:00,Karol Linetty,Pass
+209302,65,MissedShots,0.95,0.6179999923706054,0.013248699717223644,Dawid Kownacki,a,6190,FromCorner,2017,Head,7815,Juventus,Sampdoria,3,0,2018-04-15 16:00:00,Lucas Torreira,Aerial
+209766,13,MissedShots,0.894000015258789,0.6780000305175782,0.1175599992275238,Dawid Kownacki,h,6190,OpenPlay,2017,LeftFoot,7820,Sampdoria,Bologna,1,0,2018-04-18 18:45:00,Fabio Quagliarella,Throughball
+209771,43,MissedShots,0.785,0.6790000152587891,0.02455810084939003,Dawid Kownacki,h,6190,FromCorner,2017,RightFoot,7820,Sampdoria,Bologna,1,0,2018-04-18 18:45:00,Gianluca Caprari,Pass
+209776,56,MissedShots,0.89,0.75,0.030661100521683693,Dawid Kownacki,h,6190,OpenPlay,2017,RightFoot,7820,Sampdoria,Bologna,1,0,2018-04-18 18:45:00,Dennis Praet,Chipped
+210939,61,SavedShot,0.779000015258789,0.6930000305175781,0.020852599292993546,Dawid Kownacki,a,6190,OpenPlay,2017,RightFoot,7837,Lazio,Sampdoria,4,0,2018-04-22 13:00:00,Dennis Praet,TakeOn
+212218,2,MissedShots,0.8480000305175781,0.3940000152587891,0.058779601007699966,Dawid Kownacki,h,6190,OpenPlay,2017,LeftFoot,7839,Sampdoria,Cagliari,4,1,2018-04-29 13:00:00,,None
+212226,48,Goal,0.92,0.4779999923706055,0.47724199295043945,Dawid Kownacki,h,6190,OpenPlay,2017,LeftFoot,7839,Sampdoria,Cagliari,4,1,2018-04-29 13:00:00,Bartosz Bereszynski,Cross
+215911,60,MissedShots,0.7619999694824219,0.4129999923706055,0.0237806998193264,Dawid Kownacki,h,6190,OpenPlay,2017,LeftFoot,7865,Sampdoria,Napoli,0,2,2018-05-13 19:45:00,,TakeOn
+215913,67,BlockedShot,0.87,0.5879999923706055,0.09337829798460007,Dawid Kownacki,h,6190,OpenPlay,2017,LeftFoot,7865,Sampdoria,Napoli,0,2,2018-05-13 19:45:00,Karol Linetty,Pass
+216457,65,Goal,0.870999984741211,0.51,0.07736209779977798,Dawid Kownacki,a,6190,SetPiece,2017,RightFoot,7877,SPAL 2013,Sampdoria,3,1,2018-05-20 14:00:00,Leonardo Capezzi,HeadPass
+221017,76,MissedShots,0.8469999694824218,0.57,0.056116800755262375,Dawid Kownacki,a,6190,OpenPlay,2018,RightFoot,9590,Udinese,Sampdoria,1,0,2018-08-26 21:30:00,,None
+221023,87,MissedShots,0.9030000305175782,0.445,0.06481239944696426,Dawid Kownacki,a,6190,FromCorner,2018,RightFoot,9590,Udinese,Sampdoria,1,0,2018-08-26 21:30:00,Riccardo Saponara,Cross
+223931,82,Goal,0.885,0.5,0.7611770033836365,Dawid Kownacki,a,6190,Penalty,2018,RightFoot,9609,Frosinone,Sampdoria,0,5,2018-09-15 18:30:00,,Standard
+226849,91,SavedShot,0.885,0.5,0.7612990140914917,Dawid Kownacki,a,6190,Penalty,2018,RightFoot,9628,Cagliari,Sampdoria,0,0,2018-09-26 19:00:00,,Standard
+226850,93,SavedShot,0.8059999847412109,0.3189999961853027,0.031956300139427185,Dawid Kownacki,a,6190,OpenPlay,2018,LeftFoot,9628,Cagliari,Sampdoria,0,0,2018-09-26 19:00:00,Bartosz Bereszynski,TakeOn
+252756,90,MissedShots,0.8830000305175781,0.48900001525878906,0.08218249678611755,Dawid Kownacki,a,6190,OpenPlay,2018,LeftFoot,9672,AC Milan,Sampdoria,3,2,2018-10-28 16:00:00,Jacopo Sala,Cross
+279491,20,MissedShots,0.8059999847412109,0.32599998474121095,0.02658490091562271,Dawid Kownacki,h,6190,OpenPlay,2018,RightFoot,10543,Fortuna Duesseldorf,Nuernberg,2,1,2019-02-23 17:30:00,,None
+279501,47,SavedShot,0.855999984741211,0.5159999847412109,0.08822789788246155,Dawid Kownacki,h,6190,OpenPlay,2018,RightFoot,10543,Fortuna Duesseldorf,Nuernberg,2,1,2019-02-23 17:30:00,Kenan Karaman,Pass
+279500,48,MissedShots,0.8909999847412109,0.515,0.06589420139789581,Dawid Kownacki,h,6190,OpenPlay,2018,Head,10543,Fortuna Duesseldorf,Nuernberg,2,1,2019-02-23 17:30:00,Kaan Ayhan,Cross
+279692,12,BlockedShot,0.9119999694824219,0.5940000152587891,0.03677630051970482,Dawid Kownacki,a,6190,OpenPlay,2018,Head,10544,Schalke 04,Fortuna Duesseldorf,0,4,2019-03-02 14:30:00,,Aerial
+279701,61,Goal,0.8690000152587891,0.55,0.3974669873714447,Dawid Kownacki,a,6190,OpenPlay,2018,LeftFoot,10544,Schalke 04,Fortuna Duesseldorf,0,4,2019-03-02 14:30:00,Benito Raman,Pass
+279709,83,Goal,0.8859999847412109,0.5420000076293945,0.432233989238739,Dawid Kownacki,a,6190,OpenPlay,2018,RightFoot,10544,Schalke 04,Fortuna Duesseldorf,0,4,2019-03-02 14:30:00,,Rebound
+294215,25,BlockedShot,0.8430000305175781,0.6940000152587891,0.03382439911365509,Dawid Kownacki,h,6190,OpenPlay,2018,RightFoot,10596,Fortuna Duesseldorf,Bayern Munich,1,4,2019-04-14 14:30:00,,None
+295094,12,MissedShots,0.7630000305175781,0.7669999694824219,0.008515629917383194,Dawid Kownacki,a,6190,OpenPlay,2018,RightFoot,10606,Mainz 05,Fortuna Duesseldorf,3,1,2019-04-20 14:30:00,Kevin Stöger,Chipped
+295110,52,MissedShots,0.8519999694824218,0.5520000076293945,0.08035100251436234,Dawid Kownacki,a,6190,OpenPlay,2018,RightFoot,10606,Mainz 05,Fortuna Duesseldorf,3,1,2019-04-20 14:30:00,Alfredo Morales,Pass
+300028,30,Goal,0.879000015258789,0.664000015258789,0.07828280329704285,Dawid Kownacki,a,6190,OpenPlay,2018,LeftFoot,10622,Freiburg,Fortuna Duesseldorf,1,1,2019-05-05 14:30:00,Kevin Stöger,Pass
+300732,26,MissedShots,0.919000015258789,0.5179999923706055,0.06638029962778091,Dawid Kownacki,a,6190,OpenPlay,2018,Head,10626,Borussia Dortmund,Fortuna Duesseldorf,3,2,2019-05-11 14:30:00,Matthias Zimmermann,Aerial
+300748,94,Goal,0.919000015258789,0.5640000152587891,0.43485701084136963,Dawid Kownacki,a,6190,FromCorner,2018,RightFoot,10626,Borussia Dortmund,Fortuna Duesseldorf,3,2,2019-05-11 14:30:00,Kaan Ayhan,Throughball
+312398,63,BlockedShot,0.9069999694824219,0.34299999237060547,0.013117499649524689,Dawid Kownacki,h,6190,FromCorner,2019,Head,12415,Fortuna Duesseldorf,Bayer Leverkusen,1,3,2019-08-24 14:30:00,Erik Thommy,Cross
+312403,80,SavedShot,0.9340000152587891,0.25,0.03079890087246895,Dawid Kownacki,h,6190,OpenPlay,2019,RightFoot,12415,Fortuna Duesseldorf,Bayer Leverkusen,1,3,2019-08-24 14:30:00,Rouwen Hennings,Pass
+316920,0,MissedShots,0.7080000305175781,0.700999984741211,0.016985200345516205,Dawid Kownacki,h,6190,OpenPlay,2019,RightFoot,12430,Fortuna Duesseldorf,Wolfsburg,1,1,2019-09-13 18:30:00,Niko Gießelmann,Pass
+316932,46,SavedShot,0.899000015258789,0.5309999847412109,0.27477699518203735,Dawid Kownacki,h,6190,OpenPlay,2019,Head,12430,Fortuna Duesseldorf,Wolfsburg,1,1,2019-09-13 18:30:00,Matthias Zimmermann,Chipped
+321126,33,SavedShot,0.7780000305175782,0.6759999847412109,0.03087560087442398,Dawid Kownacki,a,6190,OpenPlay,2019,RightFoot,12445,Borussia M.Gladbach,Fortuna Duesseldorf,2,1,2019-09-22 13:30:00,,BallRecovery
+323322,27,SavedShot,0.9230000305175782,0.485,0.4606750011444092,Dawid Kownacki,h,6190,OpenPlay,2019,OtherBodyPart,12455,Fortuna Duesseldorf,Freiburg,1,2,2019-09-29 13:30:00,,None
+325506,73,BlockedShot,0.7319999694824219,0.33299999237060546,0.01685749925673008,Dawid Kownacki,h,6190,FromCorner,2019,LeftFoot,12474,Fortuna Duesseldorf,Mainz 05,1,0,2019-10-19 14:30:00,Jean Zimmer,Pass
+325511,86,MissedShots,0.914000015258789,0.46599998474121096,0.2818399965763092,Dawid Kownacki,h,6190,SetPiece,2019,Head,12474,Fortuna Duesseldorf,Mainz 05,1,0,2019-10-19 14:30:00,Erik Thommy,Cross
+327116,45,SavedShot,0.845,0.5690000152587891,0.057140201330184937,Dawid Kownacki,a,6190,OpenPlay,2019,RightFoot,12477,Paderborn,Fortuna Duesseldorf,2,0,2019-10-26 14:30:00,Bernard Tekpetey,BallTouch
+327130,85,SavedShot,0.9259999847412109,0.49,0.1382399946451187,Dawid Kownacki,a,6190,SetPiece,2019,Head,12477,Paderborn,Fortuna Duesseldorf,2,0,2019-10-26 14:30:00,Erik Thommy,Cross
+330517,36,MissedShots,0.9,0.605999984741211,0.06087319925427437,Dawid Kownacki,a,6190,OpenPlay,2019,RightFoot,12497,Schalke 04,Fortuna Duesseldorf,3,3,2019-11-09 14:30:00,Niko Gießelmann,Cross
+332090,28,BlockedShot,0.7269999694824218,0.4370000076293945,0.013005100190639496,Dawid Kownacki,h,6190,OpenPlay,2019,RightFoot,12505,Fortuna Duesseldorf,Bayern Munich,0,4,2019-11-23 14:30:00,,Dispossessed
+332096,46,SavedShot,0.730999984741211,0.5629999923706055,0.03741550073027611,Dawid Kownacki,h,6190,OpenPlay,2019,RightFoot,12505,Fortuna Duesseldorf,Bayern Munich,0,4,2019-11-23 14:30:00,Zack Steffen,Pass
+337208,43,ShotOnPost,0.7680000305175781,0.500999984741211,0.02894599922001362,Dawid Kownacki,h,6190,OpenPlay,2019,RightFoot,12532,Fortuna Duesseldorf,RasenBallsport Leipzig,0,3,2019-12-14 17:30:00,Erik Thommy,Pass
+337211,51,SavedShot,0.9569999694824218,0.40299999237060546,0.06446529924869537,Dawid Kownacki,h,6190,FromCorner,2019,Head,12532,Fortuna Duesseldorf,RasenBallsport Leipzig,0,3,2019-12-14 17:30:00,Erik Thommy,Cross
+337216,60,BlockedShot,0.9590000152587891,0.4620000076293945,0.13377299904823303,Dawid Kownacki,h,6190,OpenPlay,2019,Head,12532,Fortuna Duesseldorf,RasenBallsport Leipzig,0,3,2019-12-14 17:30:00,Kaan Ayhan,SubstitutionOn
+338028,57,MissedShots,0.9130000305175782,0.49,0.26493000984191895,Dawid Kownacki,a,6190,OpenPlay,2019,Head,12545,Augsburg,Fortuna Duesseldorf,3,0,2019-12-17 19:30:00,Erik Thommy,Aerial
+339303,9,SavedShot,0.7280000305175781,0.29399999618530276,0.015295100398361683,Dawid Kownacki,h,6190,OpenPlay,2019,RightFoot,12550,Fortuna Duesseldorf,Union Berlin,2,1,2019-12-22 14:30:00,Nana Ampomah,Pass
+339307,19,SavedShot,0.8780000305175781,0.525,0.11571499705314636,Dawid Kownacki,h,6190,OpenPlay,2019,LeftFoot,12550,Fortuna Duesseldorf,Union Berlin,2,1,2019-12-22 14:30:00,Markus Suttner,Pass
+339327,62,BlockedShot,0.87,0.27899999618530275,0.03530219942331314,Dawid Kownacki,h,6190,OpenPlay,2019,RightFoot,12550,Fortuna Duesseldorf,Union Berlin,2,1,2019-12-22 14:30:00,Rouwen Hennings,Pass
+339328,67,BlockedShot,0.9019999694824219,0.34799999237060547,0.08208309859037399,Dawid Kownacki,h,6190,OpenPlay,2019,LeftFoot,12550,Fortuna Duesseldorf,Union Berlin,2,1,2019-12-22 14:30:00,Matthias Zimmermann,Pass
+339336,82,MissedShots,0.9369999694824219,0.4929999923706055,0.1284549981355667,Dawid Kownacki,h,6190,FromCorner,2019,Head,12550,Fortuna Duesseldorf,Union Berlin,2,1,2019-12-22 14:30:00,Erik Thommy,Cross
+354801,47,MissedShots,0.9269999694824219,0.534000015258789,0.07089000195264816,Dawid Kownacki,h,6190,OpenPlay,2019,Head,12558,Fortuna Duesseldorf,Werder Bremen,0,1,2020-01-18 14:30:00,Matthias Zimmermann,Aerial
+354803,53,MissedShots,0.9440000152587891,0.674000015258789,0.3050999939441681,Dawid Kownacki,h,6190,OpenPlay,2019,LeftFoot,12558,Fortuna Duesseldorf,Werder Bremen,0,1,2020-01-18 14:30:00,,None
+356365,70,MissedShots,0.715,0.5779999923706055,0.009264440275728703,Dawid Kownacki,a,6190,OpenPlay,2019,RightFoot,12567,Bayer Leverkusen,Fortuna Duesseldorf,3,0,2020-01-26 17:00:00,Rouwen Hennings,Chipped
+356368,76,SavedShot,0.9490000152587891,0.6969999694824218,0.047502998262643814,Dawid Kownacki,a,6190,OpenPlay,2019,RightFoot,12567,Bayer Leverkusen,Fortuna Duesseldorf,3,0,2020-01-26 17:00:00,,None
+367025,78,MissedShots,0.8919999694824219,0.5790000152587891,0.032235901802778244,Dawid Kownacki,a,6190,FromCorner,2019,Head,12708,Union Berlin,Fortuna Duesseldorf,3,0,2020-06-27 13:30:00,Jean Zimmer,Cross
+536099,41,MissedShots,0.89,0.6959999847412109,0.03917694836854935,Dawid Kownacki,h,6190,OpenPlay,2023,LeftFoot,23086,Werder Bremen,Mainz 05,4,0,2023-09-02 13:30:00,Jens Stage,HeadPass
+536104,60,MissedShots,0.8569999694824219,0.4929999923706055,0.036670491099357605,Dawid Kownacki,h,6190,OpenPlay,2023,Head,23086,Werder Bremen,Mainz 05,4,0,2023-09-02 13:30:00,Anthony Jung,Cross
+538282,20,MissedShots,0.870999984741211,0.700999984741211,0.038560137152671814,Dawid Kownacki,a,6190,OpenPlay,2023,LeftFoot,23099,FC Heidenheim,Werder Bremen,4,2,2023-09-17 13:30:00,Nick Woltemade,Pass
+541847,86,SavedShot,0.9180000305175782,0.47900001525878905,0.06386817991733551,Dawid Kownacki,a,6190,OpenPlay,2023,Head,23117,Darmstadt,Werder Bremen,4,2,2023-10-01 13:30:00,Justin Njinmah,Aerial
+551288,92,SavedShot,0.9069999694824219,0.53,0.0811428502202034,Dawid Kownacki,a,6190,FromCorner,2023,Head,23180,VfB Stuttgart,Werder Bremen,2,0,2023-12-02 17:30:00,Mitchell Weiser,Cross
+553991,94,MissedShots,0.8469999694824218,0.514000015258789,0.035898298025131226,Dawid Kownacki,a,6190,SetPiece,2023,Head,23196,Borussia M.Gladbach,Werder Bremen,2,2,2023-12-15 19:30:00,Marvin Ducksch,Chipped
+558574,75,MissedShots,0.9340000152587891,0.3870000076293945,0.014891077764332294,Dawid Kownacki,a,6190,FromCorner,2023,Head,23215,Bochum,Werder Bremen,1,1,2024-01-14 14:30:00,Marvin Ducksch,Aerial
+558575,80,MissedShots,0.914000015258789,0.6079999923706054,0.07386791706085205,Dawid Kownacki,a,6190,SetPiece,2023,LeftFoot,23215,Bochum,Werder Bremen,1,1,2024-01-14 14:30:00,,None
+558578,86,MissedShots,0.9269999694824219,0.48900001525878906,0.11803974211215973,Dawid Kownacki,a,6190,FromCorner,2023,Head,23215,Bochum,Werder Bremen,1,1,2024-01-14 14:30:00,Marvin Ducksch,Cross
+562408,90,ShotOnPost,0.904000015258789,0.4640000152587891,0.08212816715240479,Dawid Kownacki,h,6190,OpenPlay,2023,Head,23249,Werder Bremen,FC Heidenheim,1,2,2024-02-10 14:30:00,Anthony Jung,Cross
+562409,90,BlockedShot,0.8340000152587891,0.3509999847412109,0.038991779088974,Dawid Kownacki,h,6190,OpenPlay,2023,RightFoot,23249,Werder Bremen,FC Heidenheim,1,2,2024-02-10 14:30:00,Romano Schmid,Pass
+565090,81,BlockedShot,0.7980000305175782,0.475,0.09186091274023056,Dawid Kownacki,h,6190,OpenPlay,2023,LeftFoot,23265,Werder Bremen,Darmstadt,1,1,2024-02-24 14:30:00,Marvin Ducksch,HeadPass
+568242,84,BlockedShot,0.879000015258789,0.5929999923706055,0.01175699569284916,Dawid Kownacki,h,6190,OpenPlay,2023,Head,23286,Werder Bremen,Borussia Dortmund,1,2,2024-03-09 17:30:00,Milos Veljkovic,Aerial
+568246,93,MissedShots,0.8859999847412109,0.5029999923706054,0.082532599568367,Dawid Kownacki,h,6190,OpenPlay,2023,RightFoot,23286,Werder Bremen,Borussia Dortmund,1,2,2024-03-09 17:30:00,Milos Veljkovic,HeadPass
+569308,79,BlockedShot,0.8719999694824219,0.6659999847412109,0.0466720275580883,Dawid Kownacki,a,6190,SetPiece,2023,RightFoot,23291,Union Berlin,Werder Bremen,2,1,2024-03-16 14:30:00,,None
+569310,96,BlockedShot,0.845999984741211,0.605,0.010366297326982021,Dawid Kownacki,a,6190,OpenPlay,2023,Head,23291,Union Berlin,Werder Bremen,2,1,2024-03-16 14:30:00,Nick Woltemade,Aerial
+578298,93,SavedShot,0.99,0.5990000152587891,0.07915763556957245,Dawid Kownacki,h,6190,OpenPlay,2023,LeftFoot,23350,Werder Bremen,Borussia M.Gladbach,2,2,2024-05-04 13:30:00,,Rebound
+579786,94,MissedShots,0.39599998474121095,0.5679999923706055,0.006465347483754158,Dawid Kownacki,a,6190,OpenPlay,2023,RightFoot,23354,RasenBallsport Leipzig,Werder Bremen,1,1,2024-05-11 13:30:00,Jens Stage,Pass
+581636,80,SavedShot,0.875,0.415,0.42047062516212463,Dawid Kownacki,h,6190,OpenPlay,2023,RightFoot,23368,Werder Bremen,Bochum,4,1,2024-05-18 13:30:00,Felix Agu,BallTouch

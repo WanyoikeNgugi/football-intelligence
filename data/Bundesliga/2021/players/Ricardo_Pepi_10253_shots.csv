@@ -1,0 +1,10 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+452114,67,MissedShots,0.9169999694824219,0.5570000076293945,0.09274130314588547,Ricardo Pepi,a,10253,OpenPlay,2021,RightFoot,17672,Hoffenheim,Augsburg,3,1,2022-01-08 14:30:00,Iago,Cross
+453738,39,BlockedShot,0.9069999694824219,0.5029999923706054,0.09857679903507233,Ricardo Pepi,h,10253,OpenPlay,2021,RightFoot,17680,Augsburg,Eintracht Frankfurt,1,1,2022-01-16 14:30:00,,None
+453740,45,SavedShot,0.9259999847412109,0.5459999847412109,0.10484100133180618,Ricardo Pepi,h,10253,OpenPlay,2021,LeftFoot,17680,Augsburg,Eintracht Frankfurt,1,1,2022-01-16 14:30:00,Mads Pedersen,Cross
+454472,5,MissedShots,0.914000015258789,0.49400001525878906,0.06884080171585083,Ricardo Pepi,a,10253,OpenPlay,2021,Head,17693,Bayer Leverkusen,Augsburg,5,1,2022-01-22 14:30:00,Jeffrey Gouweleeuw,Chipped
+454487,52,SavedShot,0.845,0.6709999847412109,0.04084860160946846,Ricardo Pepi,a,10253,OpenPlay,2021,RightFoot,17693,Bayer Leverkusen,Augsburg,5,1,2022-01-22 14:30:00,Lasse Günther,BallTouch
+458199,81,SavedShot,0.895,0.3220000076293945,0.0514100007712841,Ricardo Pepi,h,10253,OpenPlay,2021,RightFoot,17717,Augsburg,Freiburg,1,2,2022-02-19 14:30:00,,Dispossessed
+465843,43,BlockedShot,0.8909999847412109,0.305,0.08420869708061218,Ricardo Pepi,h,10253,OpenPlay,2021,RightFoot,17760,Augsburg,Wolfsburg,3,0,2022-04-03 13:30:00,Daniel Caligiuri,Pass
+465845,46,SavedShot,0.9290000152587891,0.6,0.5300279855728149,Ricardo Pepi,h,10253,OpenPlay,2021,LeftFoot,17760,Augsburg,Wolfsburg,3,0,2022-04-03 13:30:00,Mads Pedersen,Pass
+479241,81,MissedShots,0.88,0.3160000038146973,0.059269800782203674,Ricardo Pepi,h,10253,OpenPlay,2022,RightFoot,19347,Augsburg,Freiburg,0,4,2022-08-06 13:30:00,Fredrik Jensen,Pass

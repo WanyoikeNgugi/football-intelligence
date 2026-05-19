@@ -1,0 +1,31 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+378764,82,BlockedShot,0.87,0.3579999923706055,0.05928749963641167,Hannes Wolf,h,8171,OpenPlay,2020,RightFoot,14186,Borussia M.Gladbach,Union Berlin,1,1,2020-09-26 13:30:00,,None
+384775,59,Goal,0.8819999694824219,0.6170000076293946,0.08811619877815247,Hannes Wolf,h,8171,OpenPlay,2020,RightFoot,15190,Borussia M.Gladbach,RasenBallsport Leipzig,1,0,2020-10-31 17:30:00,Patrick Herrmann,Pass
+386807,66,MissedShots,0.9319999694824219,0.4540000152587891,0.512004017829895,Hannes Wolf,a,8171,OpenPlay,2020,RightFoot,15202,Bayer Leverkusen,Borussia M.Gladbach,4,3,2020-11-08 17:00:00,,Rebound
+387247,49,SavedShot,0.9080000305175782,0.44299999237060544,0.09252669662237167,Hannes Wolf,h,8171,OpenPlay,2020,Head,15204,Borussia M.Gladbach,Augsburg,1,1,2020-11-21 14:30:00,Stefan Lainer,Cross
+387256,91,MissedShots,0.93,0.40400001525878904,0.1270499974489212,Hannes Wolf,h,8171,OpenPlay,2020,RightFoot,15204,Borussia M.Gladbach,Augsburg,1,1,2020-11-21 14:30:00,Valentino Lazaro,Pass
+388919,79,Goal,0.9059999847412109,0.63,0.10743000358343124,Hannes Wolf,h,8171,OpenPlay,2020,LeftFoot,15214,Borussia M.Gladbach,Schalke 04,4,1,2020-11-28 17:30:00,Alassane Pléa,Pass
+391545,41,SavedShot,0.7390000152587891,0.5309999847412109,0.020335599780082703,Hannes Wolf,h,8171,OpenPlay,2020,LeftFoot,15232,Borussia M.Gladbach,Hertha Berlin,1,1,2020-12-12 14:30:00,Breel Embolo,Pass
+391550,58,MissedShots,0.8969999694824219,0.6730000305175782,0.05126279965043068,Hannes Wolf,h,8171,OpenPlay,2020,LeftFoot,15232,Borussia M.Gladbach,Hertha Berlin,1,1,2020-12-12 14:30:00,,None
+399666,15,BlockedShot,0.879000015258789,0.61,0.08766579627990723,Hannes Wolf,h,8171,OpenPlay,2020,LeftFoot,15285,Borussia M.Gladbach,Werder Bremen,1,0,2021-01-19 17:30:00,Alassane Pléa,Pass
+399678,54,SavedShot,0.805,0.5659999847412109,0.04990829899907112,Hannes Wolf,h,8171,OpenPlay,2020,LeftFoot,15285,Borussia M.Gladbach,Werder Bremen,1,0,2021-01-19 17:30:00,Patrick Herrmann,Pass
+408481,23,BlockedShot,0.84,0.46599998474121096,0.06497400254011154,Hannes Wolf,h,8171,OpenPlay,2020,LeftFoot,15352,Borussia M.Gladbach,Bayer Leverkusen,0,1,2021-03-06 14:30:00,,None
+408486,53,BlockedShot,0.8780000305175781,0.36400001525878906,0.09321170300245285,Hannes Wolf,h,8171,OpenPlay,2020,RightFoot,15352,Borussia M.Gladbach,Bayer Leverkusen,0,1,2021-03-06 14:30:00,,TakeOn
+415365,94,Goal,0.8719999694824219,0.5570000076293945,0.30740299820899963,Hannes Wolf,h,8171,OpenPlay,2020,LeftFoot,15394,Borussia M.Gladbach,Eintracht Frankfurt,4,0,2021-04-17 13:30:00,Patrick Herrmann,Pass
+417952,42,MissedShots,0.914000015258789,0.3370000076293945,0.08548290282487869,Hannes Wolf,h,8171,OpenPlay,2020,RightFoot,15411,Borussia M.Gladbach,Arminia Bielefeld,5,0,2021-04-25 16:00:00,Breel Embolo,BallTouch
+417954,48,MissedShots,0.9019999694824219,0.6709999847412109,0.0743303969502449,Hannes Wolf,h,8171,OpenPlay,2020,LeftFoot,15411,Borussia M.Gladbach,Arminia Bielefeld,5,0,2021-04-25 16:00:00,Denis Zakaria,Pass
+417965,85,SavedShot,0.9109999847412109,0.685,0.10964799672365189,Hannes Wolf,h,8171,OpenPlay,2020,LeftFoot,15411,Borussia M.Gladbach,Arminia Bielefeld,5,0,2021-04-25 16:00:00,,TakeOn
+425554,70,SavedShot,0.8280000305175781,0.6229999923706054,0.038645800203084946,Hannes Wolf,h,8171,FromCorner,2021,RightFoot,17516,Borussia M.Gladbach,Bayern Munich,1,1,2021-08-13 18:30:00,Nico Elvedi,Pass
+429226,35,SavedShot,0.92,0.654000015258789,0.07472030073404312,Hannes Wolf,a,8171,OpenPlay,2021,LeftFoot,17541,Union Berlin,Borussia M.Gladbach,2,1,2021-08-29 13:30:00,Florian Neuhaus,Pass
+430706,49,BlockedShot,0.775,0.41,0.019735699519515038,Hannes Wolf,h,8171,OpenPlay,2021,LeftFoot,17551,Borussia M.Gladbach,Arminia Bielefeld,3,1,2021-09-12 17:30:00,Alassane Pléa,Cross
+430715,62,MissedShots,0.8530000305175781,0.475,0.05777290090918541,Hannes Wolf,h,8171,SetPiece,2021,RightFoot,17551,Borussia M.Gladbach,Arminia Bielefeld,3,1,2021-09-12 17:30:00,Lars Stindl,HeadPass
+431292,62,BlockedShot,0.8080000305175781,0.265,0.06445389986038208,Hannes Wolf,a,8171,DirectFreekick,2021,LeftFoot,17553,Augsburg,Borussia M.Gladbach,1,0,2021-09-18 13:30:00,,Standard
+433654,94,BlockedShot,0.85,0.5420000076293945,0.08875159919261932,Hannes Wolf,h,8171,OpenPlay,2021,LeftFoot,17567,Borussia M.Gladbach,Borussia Dortmund,1,0,2021-09-25 16:30:00,,None
+505060,57,MissedShots,0.8819999694824219,0.42400001525878905,0.10065600275993347,Hannes Wolf,h,8171,OpenPlay,2022,RightFoot,19481,Borussia M.Gladbach,Bayer Leverkusen,2,3,2023-01-22 16:30:00,Lars Stindl,Pass
+505734,90,Goal,0.9730000305175781,0.455,0.9419230222702026,Hannes Wolf,a,8171,OpenPlay,2022,LeftFoot,19500,Hoffenheim,Borussia M.Gladbach,1,4,2023-01-28 14:30:00,Luca Netz,Pass
+508968,49,MissedShots,0.8730000305175781,0.325,0.049761898815631866,Hannes Wolf,a,8171,OpenPlay,2022,RightFoot,19519,Hertha Berlin,Borussia M.Gladbach,4,1,2023-02-12 14:30:00,Joe Scally,Pass
+508972,59,SavedShot,0.945,0.674000015258789,0.05821400135755539,Hannes Wolf,a,8171,OpenPlay,2022,LeftFoot,19519,Hertha Berlin,Borussia M.Gladbach,4,1,2023-02-12 14:30:00,Kouadio Kone,Pass
+509599,56,BlockedShot,0.89,0.59,0.1179409995675087,Hannes Wolf,h,8171,OpenPlay,2022,LeftFoot,19525,Borussia M.Gladbach,Bayern Munich,3,2,2023-02-18 14:30:00,Alassane Pléa,Pass
+510605,51,SavedShot,0.8390000152587891,0.37900001525878907,0.06810639798641205,Hannes Wolf,a,8171,OpenPlay,2022,RightFoot,19535,Mainz 05,Borussia M.Gladbach,4,0,2023-02-24 19:30:00,Lars Stindl,TakeOn
+526200,21,BlockedShot,0.845,0.37799999237060544,0.06987282633781433,Hannes Wolf,a,8171,OpenPlay,2022,LeftFoot,19622,Borussia Dortmund,Borussia M.Gladbach,5,2,2023-05-13 16:30:00,Florian Neuhaus,Pass
+529103,89,MissedShots,0.799000015258789,0.41200000762939454,0.05844199284911156,Hannes Wolf,h,8171,OpenPlay,2022,LeftFoot,19643,Borussia M.Gladbach,Augsburg,2,0,2023-05-27 13:30:00,Jonas Hofmann,Pass

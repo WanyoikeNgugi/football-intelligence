@@ -1,0 +1,5 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+420792,44,MissedShots,0.735,0.664000015258789,0.013507899828255177,Ebrima Darboe,h,8130,FromCorner,2020,RightFoot,15769,Roma,Crotone,5,0,2021-05-09 16:00:00,,None
+421452,55,BlockedShot,0.7969999694824219,0.5270000076293946,0.03934260085225105,Ebrima Darboe,a,8130,OpenPlay,2020,LeftFoot,15782,Inter,Roma,3,1,2021-05-12 18:45:00,Stephan El Shaarawy,Pass
+421457,67,BlockedShot,0.735999984741211,0.6480000305175782,0.01646910049021244,Ebrima Darboe,a,8130,OpenPlay,2020,RightFoot,15782,Inter,Roma,3,1,2021-05-12 18:45:00,Davide Santon,Pass
+435674,18,MissedShots,0.84,0.46099998474121096,0.0630452036857605,Ebrima Darboe,h,8130,OpenPlay,2021,RightFoot,16821,Roma,Empoli,2,0,2021-10-03 16:00:00,,None

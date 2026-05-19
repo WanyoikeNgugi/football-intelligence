@@ -1,0 +1,12 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+385536,19,MissedShots,0.9340000152587891,0.5870000076293945,0.02185470052063465,Matteo Lovato,h,8522,FromCorner,2020,Head,15485,Verona,Benevento,3,1,2020-11-02 19:45:00,Federico Dimarco,Aerial
+439448,55,MissedShots,0.950999984741211,0.61,0.02449899911880493,Matteo Lovato,h,8522,FromCorner,2021,Head,16856,Atalanta,Lazio,2,2,2021-10-30 13:00:00,Josip Ilicic,Foul
+452921,45,MissedShots,0.9159999847412109,0.47900001525878905,0.038921698927879333,Matteo Lovato,h,8522,FromCorner,2021,Head,16956,Cagliari,Bologna,2,1,2022-01-11 19:45:00,Charalampos Lykogiannis,Aerial
+457558,9,SavedShot,0.850999984741211,0.46599998474121096,0.021428100764751434,Matteo Lovato,a,8522,FromCorner,2021,Head,16997,Empoli,Cagliari,1,1,2022-02-13 14:00:00,Raoul Bellanova,Cross
+461339,78,MissedShots,0.710999984741211,0.4259999847412109,0.012408300302922726,Matteo Lovato,h,8522,FromCorner,2021,RightFoot,17027,Cagliari,Lazio,0,3,2022-03-05 19:45:00,,Aerial
+464210,87,MissedShots,0.9430000305175781,0.49599998474121093,0.07454279810190201,Matteo Lovato,h,8522,FromCorner,2021,Head,17047,Cagliari,AC Milan,0,1,2022-03-19 19:45:00,Razvan Marin,Aerial
+478221,63,MissedShots,0.9319999694824219,0.5329999923706055,0.11379799991846085,Matteo Lovato,a,8522,FromCorner,2021,Head,17135,Venezia,Cagliari,0,0,2022-05-22 19:00:00,Razvan Marin,Cross
+478233,86,MissedShots,0.8819999694824219,0.5729999923706055,0.10852199792861938,Matteo Lovato,a,8522,OpenPlay,2021,RightFoot,17135,Venezia,Cagliari,0,0,2022-05-22 19:00:00,Raoul Bellanova,Pass
+504736,29,MissedShots,0.8190000152587891,0.27700000762939453,0.022106600925326347,Matteo Lovato,h,8522,OpenPlay,2022,RightFoot,18769,Salernitana,Napoli,0,2,2023-01-21 17:00:00,,None
+559402,41,BlockedShot,0.9009999847412109,0.47299999237060547,0.023898297920823097,Matteo Lovato,h,8522,FromCorner,2023,Head,22509,Salernitana,Genoa,1,2,2024-01-21 17:00:00,Antonio Candreva,Aerial
+561500,95,MissedShots,0.8919999694824219,0.5209999847412109,0.030521158128976822,Matteo Lovato,h,8522,SetPiece,2023,Head,22529,Torino,Salernitana,0,0,2024-02-04 11:30:00,Ivan Ilic,Aerial

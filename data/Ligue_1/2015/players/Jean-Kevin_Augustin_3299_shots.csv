@@ -1,0 +1,79 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+61671,31,MissedShots,0.9219999694824219,0.52,0.05910860002040863,Jean-Kevin Augustin,h,3299,OpenPlay,2015,Head,1888,Paris Saint Germain,GFC Ajaccio,2,0,2015-08-16 23:00:00,Maxwell,Aerial
+61681,64,MissedShots,0.955999984741211,0.2989999961853027,0.09410180151462555,Jean-Kevin Augustin,h,3299,OpenPlay,2015,RightFoot,1888,Paris Saint Germain,GFC Ajaccio,2,0,2015-08-16 23:00:00,Marco Verratti,Chipped
+61929,79,SavedShot,0.9059999847412109,0.3609999847412109,0.36628100275993347,Jean-Kevin Augustin,a,3299,OpenPlay,2015,RightFoot,1889,Montpellier,Paris Saint Germain,0,1,2015-08-21 22:30:00,Lucas Moura,Throughball
+64807,83,Goal,0.745,0.405,0.023744000121951103,Jean-Kevin Augustin,h,3299,OpenPlay,2015,RightFoot,2010,Paris Saint Germain,Troyes,4,1,2015-11-28 20:00:00,Ángel Di María,Pass
+69149,23,SavedShot,0.87,0.615999984741211,0.11862699687480927,Jean-Kevin Augustin,h,3299,OpenPlay,2015,RightFoot,2107,Paris Saint Germain,Lorient,3,1,2016-02-04 00:00:00,Zlatan Ibrahimovic,Throughball
+69584,8,SavedShot,0.8590000152587891,0.5829999923706055,0.34043800830841064,Jean-Kevin Augustin,h,3299,OpenPlay,2015,RightFoot,2120,Paris Saint Germain,Lille,0,0,2016-02-13 20:00:00,Ángel Di María,Throughball
+67194,86,MissedShots,0.914000015258789,0.46700000762939453,0.3228209912776947,Jean-Kevin Augustin,h,3299,OpenPlay,2015,RightFoot,2178,Paris Saint Germain,Monaco,0,2,2016-03-21 00:00:00,Zlatan Ibrahimovic,HeadPass
+67637,47,SavedShot,0.815,0.45,0.06261879950761795,Jean-Kevin Augustin,a,3299,OpenPlay,2015,RightFoot,2190,Guingamp,Paris Saint Germain,0,2,2016-04-09 19:00:00,Blaise Matuidi,Pass
+68517,84,MissedShots,0.9540000152587891,0.5709999847412109,0.10259000211954117,Jean-Kevin Augustin,a,3299,FromCorner,2015,LeftFoot,2238,Bordeaux,Paris Saint Germain,1,1,2016-05-11 22:30:00,Serge Aurier,Challenge
+104215,63,BlockedShot,0.8680000305175781,0.44299999237060544,0.10500500351190567,Jean-Kevin Augustin,a,3299,OpenPlay,2016,LeftFoot,2289,Caen,Paris Saint Germain,0,6,2016-09-16 22:45:00,Lucas Moura,Pass
+104223,77,Goal,0.8180000305175781,0.49700000762939456,0.08892370015382767,Jean-Kevin Augustin,a,3299,OpenPlay,2016,RightFoot,2289,Caen,Paris Saint Germain,0,6,2016-09-16 22:45:00,Adrien Rabiot,Pass
+104224,82,BlockedShot,0.9319999694824219,0.3940000152587891,0.12036000192165375,Jean-Kevin Augustin,a,3299,OpenPlay,2016,RightFoot,2289,Caen,Paris Saint Germain,0,6,2016-09-16 22:45:00,Lucas Moura,Cross
+104306,82,BlockedShot,0.755,0.645,0.019052399322390556,Jean-Kevin Augustin,a,3299,OpenPlay,2016,RightFoot,2309,Toulouse,Paris Saint Germain,2,0,2016-09-23 22:45:00,Thiago Motta,Pass
+107639,81,MissedShots,0.9669999694824218,0.695,0.45832398533821106,Jean-Kevin Augustin,h,3299,OpenPlay,2016,RightFoot,3228,Paris Saint Germain,Angers,2,0,2016-12-01 00:00:00,Hatem Ben Arfa,TakeOn
+107640,81,BlockedShot,0.8490000152587891,0.34900001525878904,0.13397200405597687,Jean-Kevin Augustin,h,3299,OpenPlay,2016,RightFoot,3228,Paris Saint Germain,Angers,2,0,2016-12-01 00:00:00,Hatem Ben Arfa,Throughball
+107645,87,BlockedShot,0.8859999847412109,0.38599998474121094,0.12114399671554565,Jean-Kevin Augustin,h,3299,OpenPlay,2016,RightFoot,3228,Paris Saint Germain,Angers,2,0,2016-12-01 00:00:00,Thomas Meunier,Pass
+108520,72,SavedShot,0.754000015258789,0.5970000076293945,0.01963059976696968,Jean-Kevin Augustin,a,3299,OpenPlay,2016,RightFoot,3250,Guingamp,Paris Saint Germain,2,1,2016-12-17 20:00:00,Blaise Matuidi,Pass
+108525,92,BlockedShot,0.8919999694824219,0.5779999923706055,0.0840407982468605,Jean-Kevin Augustin,a,3299,OpenPlay,2016,RightFoot,3250,Guingamp,Paris Saint Germain,2,1,2016-12-17 20:00:00,,Rebound
+106056,88,MissedShots,0.745,0.24799999237060547,0.02509409934282303,Jean-Kevin Augustin,h,3299,OpenPlay,2016,RightFoot,3263,Paris Saint Germain,Lorient,5,0,2016-12-21 23:50:00,Marco Verratti,Pass
+165909,76,BlockedShot,0.935,0.6680000305175782,0.08494199812412262,Jean-Kevin Augustin,a,3299,OpenPlay,2017,RightFoot,8265,Schalke 04,RasenBallsport Leipzig,2,0,2017-08-19 17:30:00,Naby Keita,Throughball
+166009,8,SavedShot,0.865,0.42200000762939455,0.13035300374031067,Jean-Kevin Augustin,h,3299,OpenPlay,2017,LeftFoot,8275,RasenBallsport Leipzig,Freiburg,4,1,2017-08-27 14:30:00,Lukas Klostermann,TakeOn
+166013,20,MissedShots,0.8209999847412109,0.5690000152587891,0.05575690045952797,Jean-Kevin Augustin,h,3299,OpenPlay,2017,RightFoot,8275,RasenBallsport Leipzig,Freiburg,4,1,2017-08-27 14:30:00,Naby Keita,Pass
+166015,30,SavedShot,0.9130000305175782,0.39799999237060546,0.2810780107975006,Jean-Kevin Augustin,h,3299,OpenPlay,2017,RightFoot,8275,RasenBallsport Leipzig,Freiburg,4,1,2017-08-27 14:30:00,Diego Demme,Chipped
+166027,50,BlockedShot,0.965999984741211,0.6409999847412109,0.0934389978647232,Jean-Kevin Augustin,h,3299,OpenPlay,2017,LeftFoot,8275,RasenBallsport Leipzig,Freiburg,4,1,2017-08-27 14:30:00,Marcel Halstenberg,TakeOn
+166382,5,ShotOnPost,0.92,0.534000015258789,0.1378069967031479,Jean-Kevin Augustin,a,3299,OpenPlay,2017,LeftFoot,8277,Hamburger SV,RasenBallsport Leipzig,0,2,2017-09-08 19:30:00,Timo Werner,Pass
+166389,29,MissedShots,0.9219999694824219,0.5129999923706055,0.13888199627399445,Jean-Kevin Augustin,a,3299,OpenPlay,2017,RightFoot,8277,Hamburger SV,RasenBallsport Leipzig,0,2,2017-09-08 19:30:00,Timo Werner,Pass
+166531,15,BlockedShot,0.8040000152587891,0.6580000305175782,0.030577899888157845,Jean-Kevin Augustin,h,3299,OpenPlay,2017,RightFoot,8291,RasenBallsport Leipzig,Borussia M.Gladbach,2,2,2017-09-16 17:30:00,Timo Werner,Pass
+166535,30,Goal,0.8209999847412109,0.425,0.3348200023174286,Jean-Kevin Augustin,h,3299,OpenPlay,2017,RightFoot,8291,RasenBallsport Leipzig,Borussia M.Gladbach,2,2,2017-09-16 17:30:00,Naby Keita,Throughball
+166549,27,Goal,0.9669999694824218,0.5709999847412109,0.5335050225257874,Jean-Kevin Augustin,h,3299,OpenPlay,2017,RightFoot,8308,RasenBallsport Leipzig,Eintracht Frankfurt,2,1,2017-09-23 14:30:00,,Rebound
+167578,7,SavedShot,0.8369999694824218,0.69,0.035530801862478256,Jean-Kevin Augustin,a,3299,OpenPlay,2017,RightFoot,8323,Borussia Dortmund,RasenBallsport Leipzig,2,3,2017-10-14 17:30:00,,TakeOn
+167587,48,Goal,0.885,0.5,0.7577769756317139,Jean-Kevin Augustin,a,3299,Penalty,2017,RightFoot,8323,Borussia Dortmund,RasenBallsport Leipzig,2,3,2017-10-14 17:30:00,,Standard
+168010,89,MissedShots,0.9590000152587891,0.6859999847412109,0.12560699880123138,Jean-Kevin Augustin,h,3299,OpenPlay,2017,LeftFoot,8331,RasenBallsport Leipzig,VfB Stuttgart,1,0,2017-10-21 14:30:00,Diego Demme,Throughball
+184183,74,MissedShots,0.935,0.5670000076293945,0.4264509975910187,Jean-Kevin Augustin,h,3299,OpenPlay,2017,Head,8404,RasenBallsport Leipzig,Hertha Berlin,2,3,2017-12-17 17:00:00,,None
+184186,79,SavedShot,0.93,0.6580000305175782,0.08033020049333572,Jean-Kevin Augustin,h,3299,OpenPlay,2017,LeftFoot,8404,RasenBallsport Leipzig,Hertha Berlin,2,3,2017-12-17 17:00:00,Naby Keita,TakeOn
+187597,36,SavedShot,0.885,0.5,0.7577769756317139,Jean-Kevin Augustin,h,3299,Penalty,2017,RightFoot,8413,RasenBallsport Leipzig,Schalke 04,3,1,2018-01-13 17:30:00,,Standard
+188709,67,SavedShot,0.9059999847412109,0.5120000076293946,0.057261399924755096,Jean-Kevin Augustin,a,3299,OpenPlay,2017,Head,8424,Freiburg,RasenBallsport Leipzig,2,1,2018-01-20 14:30:00,,None
+189841,1,BlockedShot,0.8980000305175782,0.36700000762939455,0.05358079820871353,Jean-Kevin Augustin,h,3299,OpenPlay,2017,RightFoot,8435,RasenBallsport Leipzig,Hamburger SV,1,1,2018-01-27 14:30:00,Marcel Sabitzer,Cross
+189845,15,MissedShots,0.8540000152587891,0.5509999847412109,0.3698129951953888,Jean-Kevin Augustin,h,3299,OpenPlay,2017,LeftFoot,8435,RasenBallsport Leipzig,Hamburger SV,1,1,2018-01-27 14:30:00,,None
+196989,12,Goal,0.8880000305175781,0.4159999847412109,0.3813430070877075,Jean-Kevin Augustin,a,3299,OpenPlay,2017,RightFoot,8462,Eintracht Frankfurt,RasenBallsport Leipzig,2,1,2018-02-19 19:30:00,Konrad Laimer,Pass
+196992,22,MissedShots,0.875,0.68,0.04357380047440529,Jean-Kevin Augustin,a,3299,OpenPlay,2017,LeftFoot,8462,Eintracht Frankfurt,RasenBallsport Leipzig,2,1,2018-02-19 19:30:00,Ademola Lookman,Pass
+198009,4,Goal,0.9330000305175781,0.4540000152587891,0.5244259834289551,Jean-Kevin Augustin,h,3299,OpenPlay,2017,RightFoot,8468,RasenBallsport Leipzig,FC Cologne,1,2,2018-02-25 17:00:00,,Rebound
+198011,19,MissedShots,0.9490000152587891,0.34,0.37302398681640625,Jean-Kevin Augustin,h,3299,OpenPlay,2017,RightFoot,8468,RasenBallsport Leipzig,FC Cologne,1,2,2018-02-25 17:00:00,Lukas Klostermann,TakeOn
+198012,28,SavedShot,0.840999984741211,0.48200000762939454,0.11723300069570541,Jean-Kevin Augustin,h,3299,OpenPlay,2017,RightFoot,8468,RasenBallsport Leipzig,FC Cologne,1,2,2018-02-25 17:00:00,Marcel Sabitzer,Pass
+198024,58,MissedShots,0.8980000305175782,0.6370000076293946,0.060131900012493134,Jean-Kevin Augustin,h,3299,FromCorner,2017,LeftFoot,8468,RasenBallsport Leipzig,FC Cologne,1,2,2018-02-25 17:00:00,,None
+198027,67,SavedShot,0.8419999694824218,0.5879999923706055,0.07806809991598129,Jean-Kevin Augustin,h,3299,OpenPlay,2017,LeftFoot,8468,RasenBallsport Leipzig,FC Cologne,1,2,2018-02-25 17:00:00,,None
+199049,28,Goal,0.884000015258789,0.6819999694824219,0.3056589961051941,Jean-Kevin Augustin,h,3299,OpenPlay,2017,RightFoot,8475,RasenBallsport Leipzig,Borussia Dortmund,1,1,2018-03-03 17:30:00,Naby Keita,Throughball
+204431,43,BlockedShot,0.8819999694824219,0.7140000152587891,0.056320298463106155,Jean-Kevin Augustin,a,3299,OpenPlay,2017,LeftFoot,8509,Hannover 96,RasenBallsport Leipzig,2,3,2018-03-31 14:30:00,Diego Demme,Chipped
+204432,43,BlockedShot,0.89,0.55,0.12921300530433655,Jean-Kevin Augustin,a,3299,OpenPlay,2017,RightFoot,8509,Hannover 96,RasenBallsport Leipzig,2,3,2018-03-31 14:30:00,Emil Forsberg,Pass
+210335,78,MissedShots,0.735,0.500999984741211,0.01792459934949875,Jean-Kevin Augustin,h,3299,OpenPlay,2017,RightFoot,8530,RasenBallsport Leipzig,Hoffenheim,2,5,2018-04-21 13:30:00,Diego Demme,Pass
+213163,44,BlockedShot,0.7319999694824219,0.41,0.027286000549793243,Jean-Kevin Augustin,h,3299,OpenPlay,2017,RightFoot,8551,RasenBallsport Leipzig,Wolfsburg,4,1,2018-05-05 14:30:00,Kevin Kampl,Pass
+213170,62,Goal,0.8190000152587891,0.4929999923706055,0.13828299939632416,Jean-Kevin Augustin,h,3299,OpenPlay,2017,RightFoot,8551,RasenBallsport Leipzig,Wolfsburg,4,1,2018-05-05 14:30:00,Diego Demme,Throughball
+214553,15,BlockedShot,0.9390000152587891,0.69,0.07900170236825943,Jean-Kevin Augustin,a,3299,OpenPlay,2017,LeftFoot,8558,Hertha Berlin,RasenBallsport Leipzig,2,6,2018-05-12 14:30:00,Ademola Lookman,Pass
+214554,18,MissedShots,0.8530000305175781,0.4779999923706055,0.05501469969749451,Jean-Kevin Augustin,a,3299,FromCorner,2017,RightFoot,8558,Hertha Berlin,RasenBallsport Leipzig,2,6,2018-05-12 14:30:00,Kevin Kampl,Pass
+214555,21,Goal,0.81,0.4929999923706055,0.06777630001306534,Jean-Kevin Augustin,a,3299,OpenPlay,2017,RightFoot,8558,Hertha Berlin,RasenBallsport Leipzig,2,6,2018-05-12 14:30:00,Ademola Lookman,Pass
+214562,53,Goal,0.8830000305175781,0.6719999694824219,0.25745299458503723,Jean-Kevin Augustin,a,3299,OpenPlay,2017,RightFoot,8558,Hertha Berlin,RasenBallsport Leipzig,2,6,2018-05-12 14:30:00,Ademola Lookman,Pass
+214570,81,SavedShot,0.8859999847412109,0.30100000381469727,0.10510899871587753,Jean-Kevin Augustin,a,3299,OpenPlay,2017,RightFoot,8558,Hertha Berlin,RasenBallsport Leipzig,2,6,2018-05-12 14:30:00,Kevin Kampl,Pass
+220743,0,Goal,0.8930000305175781,0.4640000152587891,0.42736101150512695,Jean-Kevin Augustin,a,3299,OpenPlay,2018,RightFoot,10345,Borussia Dortmund,RasenBallsport Leipzig,4,1,2018-08-26 19:00:00,,None
+220749,27,SavedShot,0.875,0.645,0.3391770124435425,Jean-Kevin Augustin,a,3299,OpenPlay,2018,RightFoot,10345,Borussia Dortmund,RasenBallsport Leipzig,4,1,2018-08-26 19:00:00,Emil Forsberg,Throughball
+222264,16,MissedShots,0.7780000305175782,0.3240000152587891,0.023411499336361885,Jean-Kevin Augustin,h,3299,OpenPlay,2018,RightFoot,10353,RasenBallsport Leipzig,Fortuna Duesseldorf,1,1,2018-09-02 13:30:00,Diego Demme,Pass
+222280,67,SavedShot,0.9469999694824218,0.534000015258789,0.43730100989341736,Jean-Kevin Augustin,h,3299,OpenPlay,2018,RightFoot,10353,RasenBallsport Leipzig,Fortuna Duesseldorf,1,1,2018-09-02 13:30:00,Marcel Sabitzer,Goal
+222281,67,Goal,0.955999984741211,0.5379999923706055,0.4542030096054077,Jean-Kevin Augustin,h,3299,OpenPlay,2018,RightFoot,10353,RasenBallsport Leipzig,Fortuna Duesseldorf,1,1,2018-09-02 13:30:00,,BallTouch
+226721,75,ShotOnPost,0.96,0.4779999923706055,0.6228470206260681,Jean-Kevin Augustin,h,3299,OpenPlay,2018,RightFoot,10379,RasenBallsport Leipzig,VfB Stuttgart,2,0,2018-09-26 18:30:00,Marcel Sabitzer,Cross
+226723,79,Goal,0.8619999694824219,0.48,0.11857900023460388,Jean-Kevin Augustin,h,3299,OpenPlay,2018,RightFoot,10379,RasenBallsport Leipzig,VfB Stuttgart,2,0,2018-09-26 18:30:00,Marcel Halstenberg,TakeOn
+227857,71,BlockedShot,0.875,0.3039999961853027,0.10773199796676636,Jean-Kevin Augustin,a,3299,OpenPlay,2018,RightFoot,10385,Hoffenheim,RasenBallsport Leipzig,1,2,2018-09-29 13:30:00,,None
+255476,17,SavedShot,0.8090000152587891,0.6819999694824219,0.029507799074053764,Jean-Kevin Augustin,a,3299,OpenPlay,2018,RightFoot,10406,Augsburg,RasenBallsport Leipzig,0,0,2018-10-20 13:30:00,Kevin Kampl,Pass
+255481,42,SavedShot,0.9430000305175781,0.42900001525878906,0.10405600070953369,Jean-Kevin Augustin,a,3299,OpenPlay,2018,RightFoot,10406,Augsburg,RasenBallsport Leipzig,0,0,2018-10-20 13:30:00,Nordi Mukiele,Cross
+255486,46,MissedShots,0.909000015258789,0.33,0.06264299899339676,Jean-Kevin Augustin,a,3299,OpenPlay,2018,RightFoot,10406,Augsburg,RasenBallsport Leipzig,0,0,2018-10-20 13:30:00,Kevin Kampl,Chipped
+255488,51,MissedShots,0.96,0.3160000038146973,0.060753799974918365,Jean-Kevin Augustin,a,3299,OpenPlay,2018,RightFoot,10406,Augsburg,RasenBallsport Leipzig,0,0,2018-10-20 13:30:00,Timo Werner,Pass
+255843,83,SavedShot,0.9030000305175782,0.37099998474121093,0.14434599876403809,Jean-Kevin Augustin,h,3299,OpenPlay,2018,RightFoot,10411,RasenBallsport Leipzig,Schalke 04,0,0,2018-10-28 13:30:00,Yussuf Poulsen,TakeOn
+318314,74,MissedShots,0.905,0.46099998474121096,0.10573799908161163,Jean-Kevin Augustin,h,3299,OpenPlay,2019,Head,12753,Monaco,Marseille,3,4,2019-09-15 19:00:00,Gelson Martins,Cross
+321635,6,SavedShot,0.855999984741211,0.67,0.053141798824071884,Jean-Kevin Augustin,h,3299,OpenPlay,2019,RightFoot,12769,Monaco,Nice,3,1,2019-09-24 19:00:00,Gil Dias,Pass
+330075,83,MissedShots,0.855,0.4,0.06163860112428665,Jean-Kevin Augustin,a,3299,OpenPlay,2019,RightFoot,12822,Saint-Etienne,Monaco,1,0,2019-11-03 20:00:00,Aleksandr Golovin,HeadPass
+330935,82,SavedShot,0.9169999694824219,0.5620000076293945,0.14161799848079681,Jean-Kevin Augustin,h,3299,OpenPlay,2019,LeftFoot,12832,Monaco,Dijon,1,0,2019-11-09 19:00:00,,Rebound
+334958,17,BlockedShot,0.860999984741211,0.6809999847412109,0.04586929827928543,Jean-Kevin Augustin,a,3299,SetPiece,2019,RightFoot,12867,Toulouse,Monaco,1,2,2019-12-04 18:00:00,Ruben Aguilar,Chipped
+334967,53,BlockedShot,0.9059999847412109,0.32799999237060545,0.07096680253744125,Jean-Kevin Augustin,a,3299,OpenPlay,2019,LeftFoot,12867,Toulouse,Monaco,1,2,2019-12-04 18:00:00,Ruben Aguilar,Pass
+335921,85,SavedShot,0.9209999847412109,0.685,0.08712460100650787,Jean-Kevin Augustin,h,3299,OpenPlay,2019,LeftFoot,12877,Monaco,Amiens,3,0,2019-12-07 19:00:00,Gelson Martins,Pass
+453040,88,BlockedShot,0.965999984741211,0.62,0.059881098568439484,Jean-Kevin Augustin,a,3299,OpenPlay,2021,LeftFoot,18025,Nice,Nantes,2,1,2022-01-14 20:00:00,Fabio,Cross
+457456,90,BlockedShot,0.7380000305175781,0.59,0.026419000700116158,Jean-Kevin Augustin,h,3299,OpenPlay,2021,RightFoot,18053,Nantes,Reims,1,0,2022-02-13 14:00:00,Pedro Chirivella,Pass

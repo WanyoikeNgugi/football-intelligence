@@ -1,0 +1,15 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+504590,20,MissedShots,0.9169999694824219,0.30100000381469727,0.05073599889874458,Soichiro Kozuki,a,11312,OpenPlay,2022,RightFoot,19482,Eintracht Frankfurt,Schalke 04,3,0,2023-01-21 14:30:00,Marius Bülter,Chipped
+504595,31,ShotOnPost,0.9540000152587891,0.36700000762939455,0.08535029739141464,Soichiro Kozuki,a,11312,OpenPlay,2022,RightFoot,19482,Eintracht Frankfurt,Schalke 04,3,0,2023-01-21 14:30:00,Simon Terodde,Pass
+504601,46,SavedShot,0.9430000305175781,0.4570000076293945,0.4592350125312805,Soichiro Kozuki,a,11312,SetPiece,2022,Head,19482,Eintracht Frankfurt,Schalke 04,3,0,2023-01-21 14:30:00,Jere Uronen,Cross
+505316,46,MissedShots,0.7340000152587891,0.46700000762939453,0.012846900150179863,Soichiro Kozuki,h,11312,OpenPlay,2022,RightFoot,19493,Schalke 04,RasenBallsport Leipzig,1,6,2023-01-24 17:30:00,Michael Frey,HeadPass
+505319,55,Goal,0.894000015258789,0.625,0.27859699726104736,Soichiro Kozuki,h,11312,OpenPlay,2022,RightFoot,19493,Schalke 04,RasenBallsport Leipzig,1,6,2023-01-24 17:30:00,Michael Frey,Pass
+506222,53,MissedShots,0.8530000305175781,0.524000015258789,0.020887300372123718,Soichiro Kozuki,h,11312,OpenPlay,2022,Head,19502,Schalke 04,FC Cologne,0,0,2023-01-29 14:30:00,Jere Uronen,Cross
+506223,54,BlockedShot,0.8830000305175781,0.23600000381469727,0.029183000326156616,Soichiro Kozuki,h,11312,OpenPlay,2022,RightFoot,19502,Schalke 04,FC Cologne,0,0,2023-01-29 14:30:00,Tom Krauß,Pass
+506224,57,SavedShot,0.685,0.34700000762939454,0.013052799738943577,Soichiro Kozuki,h,11312,OpenPlay,2022,RightFoot,19502,Schalke 04,FC Cologne,0,0,2023-01-29 14:30:00,Marius Bülter,Pass
+506228,70,BlockedShot,0.9409999847412109,0.34200000762939453,0.1173200011253357,Soichiro Kozuki,h,11312,OpenPlay,2022,RightFoot,19502,Schalke 04,FC Cologne,0,0,2023-01-29 14:30:00,Rodrigo Zalazar,Throughball
+507344,17,MissedShots,0.8490000152587891,0.5370000076293945,0.05127739906311035,Soichiro Kozuki,a,11312,OpenPlay,2022,RightFoot,19507,Borussia M.Gladbach,Schalke 04,0,0,2023-02-04 17:30:00,Tim Skarke,Cross
+507345,23,MissedShots,0.7680000305175781,0.33299999237060546,0.02304919995367527,Soichiro Kozuki,a,11312,OpenPlay,2022,LeftFoot,19507,Borussia M.Gladbach,Schalke 04,0,0,2023-02-04 17:30:00,Tom Krauß,Pass
+507355,41,SavedShot,0.7559999847412109,0.32,0.02089410088956356,Soichiro Kozuki,a,11312,OpenPlay,2022,LeftFoot,19507,Borussia M.Gladbach,Schalke 04,0,0,2023-02-04 17:30:00,Éder Balanta,Pass
+508089,1,SavedShot,0.8219999694824218,0.6370000076293946,0.05035249888896942,Soichiro Kozuki,h,11312,OpenPlay,2022,LeftFoot,19520,Schalke 04,Wolfsburg,0,0,2023-02-10 19:30:00,Michael Frey,BallRecovery
+508092,14,SavedShot,0.7680000305175781,0.62,0.015436099842190742,Soichiro Kozuki,h,11312,SetPiece,2022,RightFoot,19520,Schalke 04,Wolfsburg,0,0,2023-02-10 19:30:00,,None

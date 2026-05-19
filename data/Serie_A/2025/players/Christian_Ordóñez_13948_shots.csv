@@ -1,0 +1,9 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+643647,90,BlockedShot,0.9009999847412109,0.5679999923706055,0.1251951903104782,Christian Ordóñez,a,13948,OpenPlay,2025,LeftFoot,29878,Cremonese,Parma Calcio 1913,0,0,2025-09-21 13:00:00,Gaetano Oristanio,Cross
+650168,35,SavedShot,0.865,0.5990000152587891,0.06672285497188568,Christian Ordóñez,a,13948,OpenPlay,2025,RightFoot,29933,Roma,Parma Calcio 1913,2,1,2025-10-29 16:30:00,,None
+662663,87,MissedShots,0.475,0.3089999961853027,0.010136935859918594,Christian Ordóñez,a,13948,OpenPlay,2025,RightFoot,30040,Lecce,Parma Calcio 1913,1,2,2026-01-11 11:30:00,,BallRecovery
+667627,94,Goal,0.7290000152587891,0.5259999847412109,0.017761414870619774,Christian Ordóñez,a,13948,OpenPlay,2025,RightFoot,30078,Bologna,Parma Calcio 1913,0,1,2026-02-08 11:30:00,Hans Nicolussi Caviglia,Pass
+670680,13,MissedShots,0.89,0.29100000381469726,0.022658467292785645,Christian Ordóñez,h,13948,OpenPlay,2025,RightFoot,30106,Parma Calcio 1913,Cagliari,1,1,2026-02-27 19:45:00,Emanuele Valeri,Cross
+673096,91,MissedShots,0.7630000305175781,0.47099998474121096,0.014646296389400959,Christian Ordóñez,a,13948,FromCorner,2025,RightFoot,30117,Fiorentina,Parma Calcio 1913,0,0,2026-03-08 14:00:00,,Aerial
+678329,76,BlockedShot,0.8019999694824219,0.485,0.02988205850124359,Christian Ordóñez,h,13948,FromCorner,2025,LeftFoot,30161,Parma Calcio 1913,Napoli,1,1,2026-04-12 13:00:00,Oliver Sørensen,BallTouch
+684271,58,MissedShots,0.700999984741211,0.544000015258789,0.00931953638792038,Christian Ordóñez,h,13948,SetPiece,2025,RightFoot,30202,Parma Calcio 1913,Roma,2,3,2026-05-10 16:00:00,,None

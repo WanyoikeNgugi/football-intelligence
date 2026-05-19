@@ -1,0 +1,11 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+667991,28,MissedShots,0.8640000152587891,0.5520000076293945,0.08412803709506989,Quinten Timber,a,14376,OpenPlay,2025,RightFoot,29726,Paris Saint Germain,Marseille,5,0,2026-02-08 19:45:00,Mason Greenwood,Pass
+668773,49,MissedShots,0.9580000305175781,0.5409999847412109,0.6948176622390747,Quinten Timber,h,14376,OpenPlay,2025,RightFoot,29731,Marseille,Strasbourg,2,2,2026-02-14 16:00:00,Pierre-Emerick Aubameyang,Pass
+669489,26,MissedShots,0.9830000305175781,0.40900001525878904,0.05748997628688812,Quinten Timber,a,14376,OpenPlay,2025,RightFoot,29738,Brest,Marseille,2,0,2026-02-20 19:45:00,Amine Gouiri,Foul
+669501,58,SavedShot,0.774000015258789,0.505,0.07169019430875778,Quinten Timber,a,14376,OpenPlay,2025,RightFoot,29738,Brest,Marseille,2,0,2026-02-20 19:45:00,,Dispossessed
+671921,18,BlockedShot,0.725999984741211,0.3970000076293945,0.01732568070292473,Quinten Timber,h,14376,OpenPlay,2025,RightFoot,29748,Marseille,Lyon,3,2,2026-03-01 19:45:00,Hamed Junior Traore,Pass
+676062,51,BlockedShot,0.815,0.515,0.04834524542093277,Quinten Timber,h,14376,FromCorner,2025,RightFoot,29775,Marseille,Lille,1,2,2026-03-22 16:15:00,Igor Paixão,Pass
+677211,56,BlockedShot,0.7680000305175781,0.57,0.02413945458829403,Quinten Timber,a,14376,OpenPlay,2025,RightFoot,29787,Monaco,Marseille,2,1,2026-04-05 18:45:00,,None
+677217,71,SavedShot,0.73,0.5179999923706055,0.017296694219112396,Quinten Timber,a,14376,SetPiece,2025,RightFoot,29787,Monaco,Marseille,2,1,2026-04-05 18:45:00,Amine Gouiri,Pass
+677218,71,MissedShots,0.715,0.3890000152587891,0.014453423209488392,Quinten Timber,a,14376,SetPiece,2025,RightFoot,29787,Monaco,Marseille,2,1,2026-04-05 18:45:00,Timothy Weah,Pass
+677578,68,MissedShots,0.805,0.4929999923706055,0.1052073985338211,Quinten Timber,h,14376,OpenPlay,2025,LeftFoot,29794,Marseille,Metz,3,1,2026-04-10 19:05:00,Benjamin Pavard,TakeOn

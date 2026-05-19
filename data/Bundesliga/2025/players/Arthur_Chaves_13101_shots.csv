@@ -1,0 +1,18 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+602734,68,BlockedShot,0.895,0.509000015258789,0.06085812672972679,Arthur Chaves,h,13101,FromCorner,2024,Head,27837,Hoffenheim,RasenBallsport Leipzig,4,3,2024-11-23 14:30:00,Tom Bischof,Cross
+602738,85,MissedShots,0.9080000305175782,0.5479999923706055,0.0694931223988533,Arthur Chaves,h,13101,FromCorner,2024,Head,27837,Hoffenheim,RasenBallsport Leipzig,4,3,2024-11-23 14:30:00,Umut Tohumcu,Cross
+606538,43,MissedShots,0.915,0.5159999847412109,0.09603213518857956,Arthur Chaves,h,13101,FromCorner,2024,Head,27852,Hoffenheim,Freiburg,1,1,2024-12-08 16:30:00,Andrej Kramaric,Cross
+610603,8,MissedShots,0.8959999847412109,0.5579999923706055,0.04627949744462967,Arthur Chaves,h,13101,FromCorner,2024,Head,27879,Hoffenheim,Wolfsburg,0,1,2025-01-11 14:30:00,Tom Bischof,Cross
+610612,46,BlockedShot,0.6959999847412109,0.5629999923706055,0.011221501044929028,Arthur Chaves,h,13101,OpenPlay,2024,RightFoot,27879,Hoffenheim,Wolfsburg,0,1,2025-01-11 14:30:00,,None
+610622,78,MissedShots,0.9180000305175782,0.4620000076293945,0.0457998663187027,Arthur Chaves,h,13101,OpenPlay,2024,Head,27879,Hoffenheim,Wolfsburg,0,1,2025-01-11 14:30:00,Andrej Kramaric,Aerial
+615642,91,MissedShots,0.874000015258789,0.46799999237060547,0.04616054892539978,Arthur Chaves,a,13101,OpenPlay,2024,Head,27916,Bayer Leverkusen,Hoffenheim,3,1,2025-02-02 16:30:00,Tom Bischof,Cross
+617690,39,MissedShots,0.95,0.5029999923706054,0.133957639336586,Arthur Chaves,a,13101,FromCorner,2024,Head,27935,Werder Bremen,Hoffenheim,1,3,2025-02-16 14:30:00,Tom Bischof,Cross
+622069,83,BlockedShot,0.8919999694824219,0.519000015258789,0.10939201712608337,Arthur Chaves,h,13101,FromCorner,2024,RightFoot,27962,Hoffenheim,FC Heidenheim,1,1,2025-03-09 16:30:00,Haris Tabakovic,LayOff
+627096,54,SavedShot,0.9119999694824219,0.41900001525878905,0.016830265522003174,Arthur Chaves,h,13101,FromCorner,2024,Head,27998,Hoffenheim,Mainz 05,2,0,2025-04-12 13:30:00,Tom Bischof,Aerial
+631354,42,Goal,0.9619999694824218,0.46,0.6185426712036133,Arthur Chaves,a,13101,FromCorner,2024,RightFoot,28027,Borussia M.Gladbach,Hoffenheim,4,4,2025-05-03 13:30:00,,Rebound
+645311,34,BlockedShot,0.9459999847412109,0.6669999694824219,0.013305079191923141,Arthur Chaves,a,13101,OpenPlay,2025,Head,30266,Freiburg,Hoffenheim,1,1,2025-09-28 13:30:00,Bernardo,Pass
+664758,74,Goal,0.9269999694824219,0.495,0.11848755925893784,Arthur Chaves,a,13101,FromCorner,2025,Head,30387,Bayern Munich,Augsburg,1,2,2026-01-24 14:30:00,Mert Kömür,Cross
+667209,25,BlockedShot,0.8669999694824219,0.46900001525878904,0.07312025129795074,Arthur Chaves,a,13101,FromCorner,2025,RightFoot,30409,Mainz 05,Augsburg,2,0,2026-02-07 14:30:00,Han-Noah Massengo,None
+672634,60,MissedShots,0.9269999694824219,0.4829999923706055,0.11621087044477463,Arthur Chaves,a,13101,FromCorner,2025,Head,30445,RasenBallsport Leipzig,Augsburg,2,1,2026-03-07 14:30:00,Fabian Rieder,Cross
+672645,91,OwnGoal,0.07,0.515,0,Arthur Chaves,a,13101,OpenPlay,2025,OtherBodyPart,30445,RasenBallsport Leipzig,Augsburg,2,1,2026-03-07 14:30:00,,Clearance
+676611,21,Goal,0.975999984741211,0.5320000076293945,0.7256415486335754,Arthur Chaves,a,13101,SetPiece,2025,RightFoot,30471,Hamburger SV,Augsburg,1,1,2026-04-04 13:30:00,,None

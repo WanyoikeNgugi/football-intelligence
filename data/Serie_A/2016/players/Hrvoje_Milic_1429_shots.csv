@@ -1,0 +1,11 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+9212,86,SavedShot,0.9019999694824219,0.6990000152587891,0.03377779945731163,Hrvoje Milic,a,1429,OpenPlay,2014,LeftFoot,6438,Lokomotiv Moscow,FC Rostov,2,1,2014-08-14 15:30:00,Aleksandru Gatcan,TakeOn
+9303,41,SavedShot,0.885,0.5,0.7542750239372253,Hrvoje Milic,h,1429,Penalty,2014,LeftFoot,6446,FC Rostov,FC Krasnodar,0,2,2014-08-17 18:00:00,,Standard
+11373,46,MissedShots,0.6880000305175781,0.5779999923706055,0.010063299909234047,Hrvoje Milic,h,1429,OpenPlay,2014,LeftFoot,6456,FC Rostov,Mordovya,2,1,2014-08-24 18:30:00,Dmitriy Poloz,Pass
+12256,47,MissedShots,0.7190000152587891,0.685,0.012386499904096127,Hrvoje Milic,h,1429,OpenPlay,2014,LeftFoot,6310,FC Rostov,Lokomotiv Moscow,0,1,2015-03-08 15:30:00,Dmitri Torbinski,Pass
+459306,69,BlockedShot,0.740999984741211,0.6630000305175782,0.012375599704682827,Hrvoje Milic,h,1429,OpenPlay,2014,LeftFoot,6226,FC Rostov,FK Akhmat,0,1,2015-05-02 17:00:00,,None
+145907,47,SavedShot,0.9390000152587891,0.67,0.04095330089330673,Hrvoje Milic,h,1429,OpenPlay,2016,LeftFoot,969,Fiorentina,Roma,1,0,2016-09-18 22:45:00,Cristian Tello,Cross
+147904,69,MissedShots,0.8730000305175781,0.745,0.017416000366210938,Hrvoje Milic,a,1429,OpenPlay,2016,LeftFoot,997,Torino,Fiorentina,2,1,2016-10-02 20:00:00,Nikola Kalinic,HeadPass
+147998,16,BlockedShot,0.8219999694824218,0.710999984741211,0.019300399348139763,Hrvoje Milic,h,1429,FromCorner,2016,LeftFoot,1003,Fiorentina,Atalanta,0,0,2016-10-16 14:30:00,,None
+150147,51,MissedShots,0.960999984741211,0.6959999847412109,0.06619170308113098,Hrvoje Milic,h,1429,OpenPlay,2016,LeftFoot,2754,Fiorentina,Sampdoria,1,1,2016-11-06 21:00:00,,None
+149844,1,MissedShots,0.865,0.675,0.04769539833068848,Hrvoje Milic,h,1429,OpenPlay,2016,LeftFoot,3633,Fiorentina,Bologna,1,0,2017-04-02 14:00:00,,None

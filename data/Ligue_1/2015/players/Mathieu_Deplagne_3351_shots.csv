@@ -1,0 +1,27 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+845,43,BlockedShot,0.874000015258789,0.21700000762939453,0.02414420060813427,Mathieu Deplagne,h,3351,OpenPlay,2014,RightFoot,6149,Montpellier,Lorient,1,0,2014-09-13 19:00:00,Morgan Sanson,Pass
+1280,44,MissedShots,0.7,0.22299999237060547,0.010582299903035164,Mathieu Deplagne,a,3351,OpenPlay,2014,RightFoot,6116,Nice,Montpellier,1,1,2014-10-04 19:00:00,Jonas Martin,Pass
+2325,5,SavedShot,0.7709999847412109,0.24799999237060547,0.01157590001821518,Mathieu Deplagne,a,3351,OpenPlay,2014,RightFoot,6136,Reims,Montpellier,1,0,2014-10-25 19:00:00,,None
+6006,33,MissedShots,0.7980000305175782,0.3290000152587891,0.024167200550436974,Mathieu Deplagne,h,3351,OpenPlay,2014,RightFoot,6102,Montpellier,Toulouse,2,0,2014-11-23 16:00:00,,None
+6009,41,BlockedShot,0.735999984741211,0.35900001525878905,0.012334099970757961,Mathieu Deplagne,h,3351,SetPiece,2014,RightFoot,6102,Montpellier,Toulouse,2,0,2014-11-23 16:00:00,,Rebound
+3427,30,SavedShot,0.91,0.2929999923706055,0.06692919880151749,Mathieu Deplagne,a,3351,OpenPlay,2014,RightFoot,5987,Guingamp,Montpellier,0,2,2015-02-22 13:00:00,Kévin Berigaud,Pass
+3441,91,MissedShots,0.935,0.34200000762939453,0.063338503241539,Mathieu Deplagne,a,3351,SetPiece,2014,RightFoot,5987,Guingamp,Montpellier,0,2,2015-02-22 13:00:00,,Rebound
+8595,72,SavedShot,0.8690000152587891,0.28,0.03388170152902603,Mathieu Deplagne,a,3351,OpenPlay,2014,RightFoot,5898,Toulouse,Montpellier,1,0,2015-04-12 16:00:00,,BallTouch
+6278,14,MissedShots,0.9619999694824218,0.6120000076293945,0.3717069923877716,Mathieu Deplagne,a,3351,SetPiece,2014,LeftFoot,5862,Lens,Montpellier,0,1,2015-05-10 13:00:00,,Rebound
+61497,70,MissedShots,0.8819999694824219,0.2929999923706055,0.04728810116648674,Mathieu Deplagne,h,3351,OpenPlay,2015,RightFoot,1872,Montpellier,Angers,0,2,2015-08-08 23:00:00,Bryan Dabo,Pass
+62481,27,BlockedShot,0.7480000305175781,0.27399999618530274,0.011773799546062946,Mathieu Deplagne,h,3351,OpenPlay,2015,RightFoot,1911,Montpellier,Saint-Etienne,1,2,2015-09-12 22:00:00,,None
+63930,78,BlockedShot,0.705999984741211,0.6480000305175782,0.015234899707138538,Mathieu Deplagne,h,3351,SetPiece,2015,LeftFoot,1972,Montpellier,SC Bastia,2,0,2015-10-24 22:00:00,Jonas Martin,Pass
+65586,7,MissedShots,0.76,0.3890000152587891,0.019032999873161316,Mathieu Deplagne,a,3351,OpenPlay,2015,RightFoot,2036,Marseille,Montpellier,2,2,2015-12-06 17:00:00,,None
+65597,64,MissedShots,0.7480000305175781,0.47400001525878904,0.03117009997367859,Mathieu Deplagne,a,3351,OpenPlay,2015,RightFoot,2036,Marseille,Montpellier,2,2,2015-12-06 17:00:00,Ryad Boudebouz,TakeOn
+68014,67,SavedShot,0.855,0.39599998474121095,0.07292140275239944,Mathieu Deplagne,h,3351,OpenPlay,2015,RightFoot,2234,Montpellier,Rennes,2,0,2016-05-07 23:00:00,,Rebound
+68557,48,SavedShot,0.705999984741211,0.6129999923706054,0.009960809722542763,Mathieu Deplagne,a,3351,OpenPlay,2015,RightFoot,2239,Monaco,Montpellier,2,0,2016-05-14 23:00:00,Souleymane Camara,Pass
+107929,76,SavedShot,0.9169999694824219,0.39799999237060546,0.4705269932746887,Mathieu Deplagne,h,3351,OpenPlay,2016,RightFoot,3255,Montpellier,Bordeaux,4,0,2016-12-17 23:00:00,Stéphane Sessegnon,Pass
+106417,16,BlockedShot,0.685,0.3220000076293945,0.011546299792826176,Mathieu Deplagne,a,3351,OpenPlay,2016,RightFoot,3267,Nantes,Montpellier,1,0,2016-12-21 23:50:00,Morgan Sanson,Pass
+106929,23,BlockedShot,0.7780000305175782,0.31,0.01785939931869507,Mathieu Deplagne,h,3351,OpenPlay,2016,RightFoot,4107,Montpellier,Dijon,1,1,2017-01-14 23:00:00,Stéphane Sessegnon,Pass
+108632,85,MissedShots,0.9390000152587891,0.52,0.5641229748725891,Mathieu Deplagne,a,3351,OpenPlay,2016,RightFoot,4155,Nancy,Montpellier,0,3,2017-02-11 19:00:00,Jérôme Roussillon,Cross
+161906,18,BlockedShot,0.7180000305175781,0.42900001525878906,0.013837999664247036,Mathieu Deplagne,h,3351,FromCorner,2017,RightFoot,8570,Troyes,Rennes,1,1,2017-08-05 19:00:00,,None
+165430,57,MissedShots,0.7580000305175781,0.085,0.010905100032687187,Mathieu Deplagne,h,3351,OpenPlay,2017,RightFoot,8699,Troyes,Angers,3,0,2017-11-25 19:00:00,,BallRecovery
+179570,69,OwnGoal,0.03,0.3609999847412109,0,Mathieu Deplagne,a,3351,OpenPlay,2017,OtherBodyPart,8731,Monaco,Troyes,3,2,2017-12-09 19:00:00,,Save
+183488,19,SavedShot,0.764000015258789,0.35900001525878905,0.013649200089275837,Mathieu Deplagne,h,3351,FromCorner,2017,RightFoot,8744,Troyes,Amiens,1,0,2017-12-16 19:00:00,,Aerial
+194397,62,MissedShots,0.8730000305175781,0.355,0.07146230340003967,Mathieu Deplagne,a,3351,OpenPlay,2017,LeftFoot,8807,Strasbourg,Troyes,2,1,2018-02-11 14:00:00,Adama Niane,Pass
+197073,81,MissedShots,0.905,0.40599998474121096,0.07608400285243988,Mathieu Deplagne,h,3351,OpenPlay,2017,RightFoot,8803,Troyes,Dijon,0,0,2018-02-20 17:30:00,Karim Azamoum,Cross

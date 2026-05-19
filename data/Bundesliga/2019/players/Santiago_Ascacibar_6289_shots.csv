@@ -1,0 +1,68 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+166357,88,MissedShots,0.7559999847412109,0.375,0.0161374993622303,Santiago Ascacibar,a,6289,OpenPlay,2017,RightFoot,8285,Schalke 04,VfB Stuttgart,3,1,2017-09-10 17:00:00,Christian Gentner,Pass
+166788,68,MissedShots,0.7319999694824219,0.54,0.025292599573731422,Santiago Ascacibar,h,6289,OpenPlay,2017,LeftFoot,8290,VfB Stuttgart,Wolfsburg,1,0,2017-09-16 14:30:00,Timo Baumgartl,Pass
+166879,55,MissedShots,0.7440000152587891,0.3340000152587891,0.012632000260055065,Santiago Ascacibar,h,6289,OpenPlay,2017,LeftFoot,8305,VfB Stuttgart,Augsburg,0,0,2017-09-23 14:30:00,,None
+166888,75,MissedShots,0.7709999847412109,0.26399999618530273,0.018295200541615486,Santiago Ascacibar,h,6289,OpenPlay,2017,RightFoot,8305,VfB Stuttgart,Augsburg,0,0,2017-09-23 14:30:00,Daniel Ginczek,Pass
+168000,61,BlockedShot,0.8119999694824219,0.2879999923706055,0.02270529977977276,Santiago Ascacibar,a,6289,OpenPlay,2017,RightFoot,8331,RasenBallsport Leipzig,VfB Stuttgart,1,0,2017-10-21 14:30:00,,None
+168845,81,BlockedShot,0.7340000152587891,0.54,0.016007499769330025,Santiago Ascacibar,h,6289,OpenPlay,2017,RightFoot,8348,VfB Stuttgart,Freiburg,3,0,2017-10-29 17:00:00,,Rebound
+168948,15,BlockedShot,0.6469999694824219,0.4909999847412109,0.008135570213198662,Santiago Ascacibar,a,6289,OpenPlay,2017,RightFoot,8380,Werder Bremen,VfB Stuttgart,1,0,2017-12-02 14:30:00,,None
+183920,26,SavedShot,0.8119999694824219,0.37,0.030908700078725815,Santiago Ascacibar,a,6289,OpenPlay,2017,RightFoot,8395,Hoffenheim,VfB Stuttgart,1,0,2017-12-13 17:30:00,,Rebound
+195144,87,MissedShots,0.7680000305175781,0.5609999847412109,0.04113980010151863,Santiago Ascacibar,h,6289,OpenPlay,2017,LeftFoot,8450,VfB Stuttgart,Borussia M.Gladbach,1,0,2018-02-11 14:30:00,,Interception
+196775,67,SavedShot,0.76,0.5720000076293945,0.016366999596357346,Santiago Ascacibar,a,6289,SetPiece,2017,RightFoot,8463,Augsburg,VfB Stuttgart,0,1,2018-02-18 14:30:00,,Rebound
+197251,20,MissedShots,0.710999984741211,0.6140000152587891,0.01579130068421364,Santiago Ascacibar,h,6289,OpenPlay,2017,LeftFoot,8471,VfB Stuttgart,Eintracht Frankfurt,1,0,2018-02-24 14:30:00,Mario Gomez,Pass
+224330,39,BlockedShot,0.8159999847412109,0.5459999847412109,0.0648064985871315,Santiago Ascacibar,a,6289,OpenPlay,2018,RightFoot,10363,Freiburg,VfB Stuttgart,3,3,2018-09-16 16:00:00,Gonzalo Castro,LayOff
+224340,61,SavedShot,0.7669999694824219,0.37599998474121094,0.033775199204683304,Santiago Ascacibar,a,6289,OpenPlay,2018,RightFoot,10363,Freiburg,VfB Stuttgart,3,3,2018-09-16 16:00:00,Andreas Beck,BallTouch
+227882,52,MissedShots,0.7319999694824219,0.524000015258789,0.02222679927945137,Santiago Ascacibar,h,6289,OpenPlay,2018,RightFoot,10383,VfB Stuttgart,Werder Bremen,2,1,2018-09-29 13:30:00,Gonzalo Castro,Pass
+255514,51,SavedShot,0.909000015258789,0.4909999847412109,0.10301300138235092,Santiago Ascacibar,h,6289,FromCorner,2018,LeftFoot,10402,VfB Stuttgart,Borussia Dortmund,0,4,2018-10-20 13:30:00,,None
+256322,40,BlockedShot,0.779000015258789,0.44,0.032416798174381256,Santiago Ascacibar,a,6289,OpenPlay,2018,RightFoot,10435,Nuernberg,VfB Stuttgart,0,2,2018-11-10 14:30:00,Christian Gentner,Pass
+256323,41,MissedShots,0.7190000152587891,0.425,0.014322499744594097,Santiago Ascacibar,a,6289,OpenPlay,2018,RightFoot,10435,Nuernberg,VfB Stuttgart,0,2,2018-11-10 14:30:00,Mario Gomez,HeadPass
+256410,36,MissedShots,0.7619999694824219,0.4229999923706055,0.022405700758099556,Santiago Ascacibar,a,6289,OpenPlay,2018,RightFoot,10438,Bayer Leverkusen,VfB Stuttgart,2,0,2018-11-23 19:30:00,Pablo Maffeo,Pass
+256713,9,BlockedShot,0.8680000305175781,0.30100000381469727,0.04495690017938614,Santiago Ascacibar,h,6289,OpenPlay,2018,RightFoot,10448,VfB Stuttgart,Augsburg,1,0,2018-12-01 14:30:00,Anastasios Donis,HeadPass
+256738,78,MissedShots,0.875999984741211,0.2720000076293945,0.04595490172505379,Santiago Ascacibar,h,6289,OpenPlay,2018,RightFoot,10448,VfB Stuttgart,Augsburg,1,0,2018-12-01 14:30:00,Nicolás González,Pass
+278275,16,MissedShots,0.905,0.3890000152587891,0.07392159849405289,Santiago Ascacibar,h,6289,OpenPlay,2018,LeftFoot,10491,VfB Stuttgart,Mainz 05,2,3,2019-01-19 14:30:00,Alexander Esswein,Cross
+278279,21,OwnGoal,0.11399999618530274,0.40200000762939453,0,Santiago Ascacibar,h,6289,OpenPlay,2018,RightFoot,10491,VfB Stuttgart,Mainz 05,2,3,2019-01-19 14:30:00,,None
+278280,22,BlockedShot,0.8680000305175781,0.46,0.03749439865350723,Santiago Ascacibar,h,6289,OpenPlay,2018,LeftFoot,10491,VfB Stuttgart,Mainz 05,2,3,2019-01-19 14:30:00,,Aerial
+278287,37,SavedShot,0.9159999847412109,0.6329999923706054,0.09310659766197205,Santiago Ascacibar,h,6289,OpenPlay,2018,LeftFoot,10491,VfB Stuttgart,Mainz 05,2,3,2019-01-19 14:30:00,Christian Gentner,Throughball
+279165,87,MissedShots,0.735999984741211,0.3509999847412109,0.009673809632658958,Santiago Ascacibar,a,6289,OpenPlay,2018,RightFoot,10525,Fortuna Duesseldorf,VfB Stuttgart,3,0,2019-02-10 17:00:00,,None
+279238,63,SavedShot,0.865999984741211,0.4420000076293945,0.3673880100250244,Santiago Ascacibar,h,6289,OpenPlay,2018,RightFoot,10528,VfB Stuttgart,RasenBallsport Leipzig,1,3,2019-02-16 14:30:00,Mario Gomez,Pass
+279742,5,MissedShots,0.8180000305175781,0.355,0.05367770045995712,Santiago Ascacibar,h,6289,OpenPlay,2018,LeftFoot,10546,VfB Stuttgart,Hannover 96,5,1,2019-03-03 14:30:00,Mario Gomez,Pass
+279747,44,SavedShot,0.84,0.605999984741211,0.08770769834518433,Santiago Ascacibar,h,6289,OpenPlay,2018,RightFoot,10546,VfB Stuttgart,Hannover 96,5,1,2019-03-03 14:30:00,Alexander Esswein,Pass
+279750,51,MissedShots,0.835999984741211,0.36400001525878906,0.06835450232028961,Santiago Ascacibar,h,6289,OpenPlay,2018,LeftFoot,10546,VfB Stuttgart,Hannover 96,5,1,2019-03-03 14:30:00,Alexander Esswein,Pass
+286226,92,MissedShots,0.9769999694824218,0.41,0.09429360181093216,Santiago Ascacibar,h,6289,OpenPlay,2018,RightFoot,10562,VfB Stuttgart,Hoffenheim,1,1,2019-03-16 14:30:00,Daniel Didavi,Cross
+291893,22,BlockedShot,0.750999984741211,0.3970000076293945,0.01784070022404194,Santiago Ascacibar,h,6289,OpenPlay,2018,RightFoot,10583,VfB Stuttgart,Nuernberg,1,1,2019-04-06 14:30:00,Andreas Beck,Pass
+359848,52,MissedShots,0.7240000152587891,0.5179999923706055,0.010190900415182114,Santiago Ascacibar,h,6289,OpenPlay,2019,RightFoot,12607,Hertha Berlin,FC Cologne,0,5,2020-02-22 14:30:00,,None
+359857,84,MissedShots,0.735999984741211,0.46299999237060546,0.012052100151777267,Santiago Ascacibar,h,6289,OpenPlay,2019,RightFoot,12607,Hertha Berlin,FC Cologne,0,5,2020-02-22 14:30:00,,None
+408453,15,MissedShots,0.8009999847412109,0.6559999847412109,0.027754100039601326,Santiago Ascacibar,h,6289,OpenPlay,2020,LeftFoot,15347,Hertha Berlin,Augsburg,2,1,2021-03-06 14:30:00,,None
+408455,20,SavedShot,0.8580000305175781,0.6079999923706054,0.05592310056090355,Santiago Ascacibar,h,6289,OpenPlay,2020,RightFoot,15347,Hertha Berlin,Augsburg,2,1,2021-03-06 14:30:00,,None
+413807,22,Goal,0.7730000305175782,0.36400001525878906,0.020955000072717667,Santiago Ascacibar,h,6289,OpenPlay,2020,RightFoot,15386,Hertha Berlin,Borussia M.Gladbach,2,2,2021-04-10 13:30:00,Jhon Córdoba,Pass
+413820,48,SavedShot,0.7119999694824218,0.629000015258789,0.015157300047576427,Santiago Ascacibar,h,6289,OpenPlay,2020,RightFoot,15386,Hertha Berlin,Borussia M.Gladbach,2,2,2021-04-10 13:30:00,Matteo Guendouzi,Pass
+413824,54,MissedShots,0.909000015258789,0.5309999847412109,0.0782093033194542,Santiago Ascacibar,h,6289,FromCorner,2020,Head,15386,Hertha Berlin,Borussia M.Gladbach,2,2,2021-04-10 13:30:00,Márton Dárdai,Cross
+419593,86,BlockedShot,0.9330000305175781,0.3729999923706055,0.025821400806307793,Santiago Ascacibar,h,6289,FromCorner,2020,Head,15405,Hertha Berlin,Freiburg,3,0,2021-05-06 16:30:00,Matheus Cunha,Cross
+420771,41,BlockedShot,0.740999984741211,0.52,0.02919510006904602,Santiago Ascacibar,h,6289,FromCorner,2020,RightFoot,15424,Hertha Berlin,Arminia Bielefeld,0,0,2021-05-09 16:00:00,Deyovaisio Zeefuik,Pass
+426484,14,BlockedShot,0.8580000305175781,0.53,0.1853400021791458,Santiago Ascacibar,a,6289,OpenPlay,2021,LeftFoot,17524,FC Cologne,Hertha Berlin,3,1,2021-08-15 15:30:00,Suat Serdar,TakeOn
+426934,79,MissedShots,0.8980000305175782,0.6359999847412109,0.08671829849481583,Santiago Ascacibar,h,6289,OpenPlay,2021,RightFoot,17528,Hertha Berlin,Wolfsburg,1,2,2021-08-21 13:30:00,Stevan Jovetic,Pass
+436118,36,MissedShots,0.8109999847412109,0.56,0.060896098613739014,Santiago Ascacibar,a,6289,OpenPlay,2021,RightFoot,17586,Eintracht Frankfurt,Hertha Berlin,1,2,2021-10-16 13:30:00,Vladimir Darida,Pass
+437933,43,SavedShot,0.955999984741211,0.4470000076293945,0.5659710168838501,Santiago Ascacibar,h,6289,SetPiece,2021,RightFoot,17591,Hertha Berlin,Borussia M.Gladbach,1,0,2021-10-23 16:30:00,,None
+443985,38,MissedShots,0.875999984741211,0.44,0.013235099613666534,Santiago Ascacibar,h,6289,FromCorner,2021,Head,17627,Hertha Berlin,Augsburg,1,1,2021-11-27 14:30:00,Marvin Plattenhardt,Aerial
+449549,6,BlockedShot,0.825,0.6129999923706054,0.05417810007929802,Santiago Ascacibar,h,6289,OpenPlay,2021,RightFoot,17663,Hertha Berlin,Borussia Dortmund,3,2,2021-12-18 17:30:00,Jurgen Ekkelenkamp,Pass
+453095,48,MissedShots,0.78,0.46599998474121096,0.016270000487565994,Santiago Ascacibar,a,6289,FromCorner,2021,RightFoot,17685,Wolfsburg,Hertha Berlin,0,0,2022-01-15 14:30:00,,Aerial
+455545,14,MissedShots,0.8109999847412109,0.5270000076293946,0.037821900099515915,Santiago Ascacibar,h,6289,FromCorner,2021,RightFoot,17698,Hertha Berlin,Bochum,1,1,2022-02-04 19:30:00,,None
+466932,57,BlockedShot,0.7809999847412109,0.6930000305175781,0.01755340024828911,Santiago Ascacibar,h,6289,OpenPlay,2021,RightFoot,17771,Hertha Berlin,Union Berlin,1,4,2022-04-09 16:30:00,,None
+471487,77,MissedShots,0.8440000152587891,0.5179999923706055,0.09190739691257477,Santiago Ascacibar,a,6289,OpenPlay,2021,LeftFoot,17795,Arminia Bielefeld,Hertha Berlin,1,1,2022-04-30 13:30:00,Suat Serdar,Pass
+474836,49,BlockedShot,0.89,0.63,0.0266720000654459,Santiago Ascacibar,h,6289,FromCorner,2021,RightFoot,17807,Hertha Berlin,Mainz 05,1,2,2022-05-07 16:30:00,,Aerial
+474844,94,MissedShots,0.845999984741211,0.5179999923706055,0.04107129946351051,Santiago Ascacibar,h,6289,SetPiece,2021,RightFoot,17807,Hertha Berlin,Mainz 05,1,2,2022-05-07 16:30:00,Davie Selke,Cross
+475577,70,BlockedShot,0.850999984741211,0.6659999847412109,0.05526550114154816,Santiago Ascacibar,a,6289,OpenPlay,2021,RightFoot,17821,Borussia Dortmund,Hertha Berlin,2,1,2022-05-14 13:30:00,Dedryck Boyata,Pass
+483020,48,SavedShot,0.7230000305175781,0.5,0.01062059961259365,Santiago Ascacibar,a,6289,OpenPlay,2022,LeftFoot,18600,Roma,Cremonese,1,0,2022-08-22 16:30:00,,Aerial
+487797,77,SavedShot,0.740999984741211,0.48700000762939455,0.021172799170017242,Santiago Ascacibar,a,6289,OpenPlay,2022,RightFoot,18632,Atalanta,Cremonese,1,1,2022-09-11 10:30:00,Felix Afena-Gyan,Pass
+489174,59,BlockedShot,0.6890000152587891,0.5540000152587891,0.012273699976503849,Santiago Ascacibar,h,6289,FromCorner,2022,LeftFoot,18643,Cremonese,Lazio,0,4,2022-09-18 13:00:00,,None
+489175,59,MissedShots,0.765,0.5570000076293945,0.027396999299526215,Santiago Ascacibar,h,6289,FromCorner,2022,LeftFoot,18643,Cremonese,Lazio,0,4,2022-09-18 13:00:00,,Rebound
+489180,70,BlockedShot,0.7630000305175781,0.625999984741211,0.015706399455666542,Santiago Ascacibar,h,6289,OpenPlay,2022,RightFoot,18643,Cremonese,Lazio,0,4,2022-09-18 13:00:00,Johan Vásquez,Pass
+490784,48,BlockedShot,0.7680000305175781,0.42700000762939455,0.02474210038781166,Santiago Ascacibar,a,6289,OpenPlay,2022,RightFoot,18658,Lecce,Cremonese,1,1,2022-10-02 13:00:00,,None
+492432,46,BlockedShot,0.7240000152587891,0.549000015258789,0.017866099253296852,Santiago Ascacibar,h,6289,OpenPlay,2022,LeftFoot,18663,Cremonese,Napoli,1,4,2022-10-09 16:00:00,Leonardo Sernicola,Pass
+493609,55,SavedShot,0.7280000305175781,0.475,0.01756340079009533,Santiago Ascacibar,a,6289,OpenPlay,2022,RightFoot,18680,Spezia,Cremonese,2,2,2022-10-16 13:00:00,David Okereke,Pass
+493628,93,MissedShots,0.7330000305175781,0.24600000381469728,0.011922799982130527,Santiago Ascacibar,a,6289,FromCorner,2022,RightFoot,18680,Spezia,Cremonese,2,2,2022-10-16 13:00:00,,None
+495968,23,MissedShots,0.755,0.5120000076293946,0.017917800694704056,Santiago Ascacibar,h,6289,FromCorner,2022,LeftFoot,18684,Cremonese,Sampdoria,0,1,2022-10-24 16:30:00,,None
+495977,51,MissedShots,0.7869999694824219,0.28399999618530275,0.0188485998660326,Santiago Ascacibar,h,6289,OpenPlay,2022,RightFoot,18684,Cremonese,Sampdoria,0,1,2022-10-24 16:30:00,Luka Lochoshvili,BallTouch
+495981,57,BlockedShot,0.775,0.3390000152587891,0.018265899270772934,Santiago Ascacibar,h,6289,OpenPlay,2022,RightFoot,18684,Cremonese,Sampdoria,0,1,2022-10-24 16:30:00,Soualiho Meité,Pass
+497173,44,MissedShots,0.8190000152587891,0.38,0.029745999723672867,Santiago Ascacibar,h,6289,FromCorner,2022,RightFoot,18692,Cremonese,Udinese,0,0,2022-10-30 14:00:00,,None
+497184,93,BlockedShot,0.885,0.6120000076293945,0.08049830049276352,Santiago Ascacibar,h,6289,OpenPlay,2022,RightFoot,18692,Cremonese,Udinese,0,0,2022-10-30 14:00:00,,BallTouch

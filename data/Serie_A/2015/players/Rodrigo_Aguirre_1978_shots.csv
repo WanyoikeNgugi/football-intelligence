@@ -1,0 +1,12 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+47314,28,BlockedShot,0.925,0.635,0.07407990097999573,Rodrigo Aguirre,a,1978,OpenPlay,2014,LeftFoot,4839,Parma,Udinese,1,0,2015-04-08 17:30:00,,None
+51156,72,SavedShot,0.860999984741211,0.5940000152587891,0.012054099701344967,Rodrigo Aguirre,h,1978,OpenPlay,2014,Head,4792,Udinese,Sampdoria,1,4,2015-05-10 14:00:00,Cyril Théréau,Cross
+50870,37,BlockedShot,0.93,0.4879999923706055,0.0591173991560936,Rodrigo Aguirre,a,1978,FromCorner,2014,Head,4821,Cagliari,Udinese,4,3,2015-05-31 17:00:00,Bruno Fernandes,Aerial
+50874,43,Goal,0.9159999847412109,0.3940000152587891,0.05739939957857132,Rodrigo Aguirre,a,1978,OpenPlay,2014,LeftFoot,4821,Cagliari,Udinese,4,3,2015-05-31 17:00:00,Bruno Fernandes,Chipped
+93821,89,MissedShots,0.905,0.8040000152587891,0.01767130009829998,Rodrigo Aguirre,a,1978,OpenPlay,2015,LeftFoot,578,Lazio,Udinese,2,0,2015-09-13 20:00:00,Ali Adnan,Pass
+95286,80,MissedShots,0.95,0.6880000305175781,0.06564609706401825,Rodrigo Aguirre,h,1978,OpenPlay,2015,LeftFoot,581,Udinese,Empoli,1,2,2015-09-19 20:00:00,Marquinho,Pass
+97485,86,MissedShots,0.9030000305175782,0.445,0.5792099833488464,Rodrigo Aguirre,h,1978,OpenPlay,2015,RightFoot,635,Udinese,Frosinone,1,0,2015-10-25 18:00:00,Emmanuel Badu,Pass
+97889,68,MissedShots,0.8390000152587891,0.5979999923706054,0.08285629749298096,Rodrigo Aguirre,a,1978,OpenPlay,2015,LeftFoot,646,Roma,Udinese,3,1,2015-10-28 23:45:00,Emmanuel Badu,Throughball
+98837,58,MissedShots,0.7169999694824218,0.47400001525878904,0.017528599128127098,Rodrigo Aguirre,a,1978,OpenPlay,2015,LeftFoot,669,Napoli,Udinese,1,0,2015-11-08 21:00:00,Francesco Lodi,Pass
+99734,8,MissedShots,0.889000015258789,0.415,0.03118949942290783,Rodrigo Aguirre,a,1978,OpenPlay,2015,Head,686,Chievo,Udinese,2,3,2015-11-29 18:00:00,Edenilson,Cross
+101006,91,SavedShot,0.9530000305175781,0.6580000305175782,0.07184000313282013,Rodrigo Aguirre,h,1978,OpenPlay,2015,LeftFoot,703,Udinese,Inter,0,4,2015-12-12 23:45:00,Marquinho,Pass

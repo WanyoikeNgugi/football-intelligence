@@ -1,0 +1,31 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+24401,60,SavedShot,0.9590000152587891,0.47400001525878904,0.5969460010528564,Tony Jantschke,h,201,FromCorner,2014,LeftFoot,5455,Borussia M.Gladbach,VfB Stuttgart,1,1,2014-08-24 16:30:00,,None
+25207,7,SavedShot,0.9390000152587891,0.5940000152587891,0.020201699808239937,Tony Jantschke,a,201,FromCorner,2014,Head,5428,FC Cologne,Borussia M.Gladbach,0,0,2014-09-21 16:30:00,Max Kruse,Aerial
+25360,33,MissedShots,0.91,0.4809999847412109,0.08761580288410187,Tony Jantschke,h,201,FromCorner,2014,Head,5435,Borussia M.Gladbach,Hamburger SV,1,0,2014-09-24 19:00:00,Max Kruse,Cross
+25379,77,MissedShots,0.8819999694824219,0.475,0.015054400078952312,Tony Jantschke,h,201,FromCorner,2014,Head,5435,Borussia M.Gladbach,Hamburger SV,1,0,2014-09-24 19:00:00,Max Kruse,Aerial
+26050,56,MissedShots,0.8730000305175781,0.585,0.03467079997062683,Tony Jantschke,a,201,FromCorner,2014,Head,5394,Hannover 96,Borussia M.Gladbach,0,3,2014-10-18 14:30:00,,None
+27585,90,BlockedShot,0.9119999694824219,0.5220000076293946,0.11202199757099152,Tony Jantschke,a,201,FromCorner,2014,LeftFoot,5381,Wolfsburg,Borussia M.Gladbach,1,0,2014-11-30 14:30:00,Branimir Hrgota,Pass
+27272,8,Goal,0.915,0.46,0.08029960095882416,Tony Jantschke,h,201,SetPiece,2014,Head,5313,Borussia M.Gladbach,Hertha Berlin,3,2,2014-12-06 14:30:00,Thorgan Hazard,Chipped
+27290,77,SavedShot,0.875,0.4779999923706055,0.0796457976102829,Tony Jantschke,h,201,FromCorner,2014,LeftFoot,5313,Borussia M.Gladbach,Hertha Berlin,3,2,2014-12-06 14:30:00,,None
+27869,59,MissedShots,0.9059999847412109,0.5129999923706055,0.07929729670286179,Tony Jantschke,a,201,FromCorner,2014,Head,5328,Bayer Leverkusen,Borussia M.Gladbach,1,1,2014-12-14 14:30:00,Max Kruse,Cross
+29400,9,MissedShots,0.9069999694824219,0.43,0.054364800453186035,Tony Jantschke,a,201,FromCorner,2014,Head,5308,VfB Stuttgart,Borussia M.Gladbach,0,1,2015-01-31 14:30:00,Max Kruse,Cross
+29058,25,MissedShots,0.9059999847412109,0.7,0.008778329938650131,Tony Jantschke,h,201,FromCorner,2014,Head,5231,Borussia M.Gladbach,Paderborn,2,0,2015-03-01 14:30:00,Ibrahima Traoré,Cross
+30694,34,MissedShots,0.9030000305175782,0.49900001525878906,0.07373840361833572,Tony Jantschke,a,201,FromCorner,2014,Head,5182,Werder Bremen,Borussia M.Gladbach,0,2,2015-05-16 14:30:00,Max Kruse,Cross
+76087,4,MissedShots,0.8680000305175781,0.38,0.013677200302481651,Tony Jantschke,a,201,FromCorner,2015,Head,1027,Borussia Dortmund,Borussia M.Gladbach,4,0,2015-08-15 20:30:00,Granit Xhaka,Aerial
+76344,33,MissedShots,0.9030000305175782,0.45799999237060546,0.021668799221515656,Tony Jantschke,h,201,FromCorner,2015,Head,1038,Borussia M.Gladbach,Mainz 05,1,2,2015-08-23 19:30:00,Thorgan Hazard,Aerial
+76835,28,SavedShot,0.765,0.46,0.029708800837397575,Tony Jantschke,h,201,OpenPlay,2015,RightFoot,1048,Borussia M.Gladbach,Hamburger SV,0,3,2015-09-11 22:30:00,Raffael,Pass
+76838,35,SavedShot,0.8930000305175781,0.47200000762939454,0.02666579931974411,Tony Jantschke,h,201,SetPiece,2015,Head,1048,Borussia M.Gladbach,Hamburger SV,0,3,2015-09-11 22:30:00,Thorgan Hazard,Aerial
+130825,4,BlockedShot,0.9640000152587891,0.6120000076293945,0.037225499749183655,Tony Jantschke,a,201,FromCorner,2016,Head,3727,Darmstadt,Borussia M.Gladbach,0,0,2017-01-21 17:30:00,Oscar Wendt,Cross
+134373,4,BlockedShot,0.9569999694824218,0.44099998474121094,0.11474800109863281,Tony Jantschke,h,201,FromCorner,2016,LeftFoot,3802,Borussia M.Gladbach,Bayern Munich,0,1,2017-03-19 16:30:00,,None
+201295,2,MissedShots,0.9280000305175782,0.6,0.057643499225378036,Tony Jantschke,h,201,FromCorner,2017,RightFoot,8496,Borussia M.Gladbach,Hoffenheim,3,3,2018-03-17 14:30:00,Michaël Cuisance,Cross
+256119,69,MissedShots,0.909000015258789,0.500999984741211,0.03460390120744705,Tony Jantschke,h,201,FromCorner,2018,Head,10426,Borussia M.Gladbach,Fortuna Duesseldorf,3,0,2018-11-04 14:30:00,Thorgan Hazard,Aerial
+257211,35,BlockedShot,0.9259999847412109,0.57,0.07861579954624176,Tony Jantschke,h,201,FromCorner,2018,Head,10457,Borussia M.Gladbach,VfB Stuttgart,3,0,2018-12-09 17:00:00,Thorgan Hazard,Cross
+257215,42,BlockedShot,0.9230000305175782,0.59,0.0293745007365942,Tony Jantschke,h,201,FromCorner,2018,Head,10457,Borussia M.Gladbach,VfB Stuttgart,3,0,2018-12-09 17:00:00,Ibrahima Traoré,Foul
+295514,75,MissedShots,0.8930000305175781,0.61,0.010144200176000595,Tony Jantschke,h,201,SetPiece,2018,Head,10604,Borussia M.Gladbach,RasenBallsport Leipzig,1,2,2019-04-20 17:30:00,Patrick Herrmann,Aerial
+325830,4,BlockedShot,0.9569999694824218,0.51,0.5259249806404114,Tony Jantschke,a,201,FromCorner,2019,Head,12469,Borussia Dortmund,Borussia M.Gladbach,1,0,2019-10-19 17:30:00,Alassane Pléa,Pass
+325842,48,BlockedShot,0.899000015258789,0.4829999923706055,0.04420839995145798,Tony Jantschke,a,201,FromCorner,2019,Head,12469,Borussia Dortmund,Borussia M.Gladbach,1,0,2019-10-19 17:30:00,,None
+328064,6,MissedShots,0.915,0.4879999923706055,0.042508501559495926,Tony Jantschke,h,201,FromCorner,2019,Head,12479,Borussia M.Gladbach,Eintracht Frankfurt,4,2,2019-10-27 17:00:00,László Bénes,Aerial
+338136,81,MissedShots,0.8230000305175781,0.4809999847412109,0.0554421991109848,Tony Jantschke,h,201,SetPiece,2019,RightFoot,12540,Borussia M.Gladbach,Paderborn,2,0,2019-12-18 19:30:00,Jonas Hofmann,Pass
+388907,38,MissedShots,0.9130000305175782,0.4209999847412109,0.3938319981098175,Tony Jantschke,h,201,FromCorner,2020,LeftFoot,15214,Borussia M.Gladbach,Schalke 04,4,1,2020-11-28 17:30:00,,Rebound
+403347,53,SavedShot,0.8730000305175781,0.5709999847412109,0.08056209981441498,Tony Jantschke,h,201,FromCorner,2020,LeftFoot,15311,Borussia M.Gladbach,FC Cologne,1,2,2021-02-06 17:30:00,Florian Neuhaus,Rebound
+453384,36,BlockedShot,0.8630000305175781,0.5220000076293946,0.07027699798345566,Tony Jantschke,h,201,SetPiece,2021,LeftFoot,17683,Borussia M.Gladbach,Bayer Leverkusen,1,2,2022-01-15 17:30:00,,None

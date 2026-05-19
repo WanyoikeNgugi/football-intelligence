@@ -1,0 +1,21 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+34228,32,ShotOnPost,0.8340000152587891,0.6359999847412109,0.03638020157814026,Benoît Trémoulinas,h,2510,FromCorner,2014,LeftFoot,5760,Sevilla,Deportivo La Coruna,4,1,2014-10-05 11:00:00,Coke,Pass
+35771,63,SavedShot,0.78,0.7680000305175781,0.020457899197936058,Benoît Trémoulinas,h,2510,OpenPlay,2014,LeftFoot,5782,Sevilla,Villarreal,2,1,2014-10-26 18:00:00,Denis Suárez,Pass
+33833,58,MissedShots,0.815,0.6930000305175781,0.027283400297164917,Benoît Trémoulinas,a,2510,OpenPlay,2014,RightFoot,5720,Athletic Club,Sevilla,1,0,2014-11-02 11:00:00,Éver Banega,TakeOn
+34552,19,MissedShots,0.795,0.6329999923706054,0.029908500611782074,Benoît Trémoulinas,h,2510,FromCorner,2014,LeftFoot,5731,Sevilla,Levante,1,1,2014-11-09 11:00:00,Éver Banega,Cross
+38495,77,MissedShots,0.8969999694824219,0.674000015258789,0.08148469775915146,Benoît Trémoulinas,h,2510,OpenPlay,2014,LeftFoot,5643,Sevilla,Celta Vigo,1,0,2015-01-03 17:00:00,Kevin Gameiro,Pass
+41331,35,BlockedShot,0.6780000305175782,0.6359999847412109,0.009530579671263695,Benoît Trémoulinas,a,2510,OpenPlay,2014,LeftFoot,5633,Real Sociedad,Sevilla,4,3,2015-02-22 11:00:00,,BallRecovery
+40492,19,MissedShots,0.9440000152587891,0.6859999847412109,0.08022879809141159,Benoît Trémoulinas,h,2510,OpenPlay,2014,LeftFoot,5588,Sevilla,Elche,3,0,2015-03-15 18:00:00,,Dispossessed
+36302,3,MissedShots,0.8159999847412109,0.7069999694824218,0.02846739999949932,Benoît Trémoulinas,h,2510,OpenPlay,2014,LeftFoot,5552,Sevilla,Rayo Vallecano,2,0,2015-04-26 18:00:00,Kevin Gameiro,BallTouch
+84261,31,SavedShot,0.98,0.6659999847412109,0.02275569923222065,Benoît Trémoulinas,h,2510,OpenPlay,2015,LeftFoot,1415,Sevilla,Atletico Madrid,0,3,2015-08-30 22:30:00,Coke,Cross
+84280,75,BlockedShot,0.745999984741211,0.5070000076293946,0.01785000041127205,Benoît Trémoulinas,h,2510,FromCorner,2015,LeftFoot,1415,Sevilla,Atletico Madrid,0,3,2015-08-30 22:30:00,,None
+85406,9,BlockedShot,0.975999984741211,0.705,0.048804499208927155,Benoît Trémoulinas,h,2510,OpenPlay,2015,RightFoot,1452,Sevilla,Rayo Vallecano,3,2,2015-09-26 22:30:00,,None
+86457,8,SavedShot,0.8490000152587891,0.6940000152587891,0.03911919891834259,Benoît Trémoulinas,h,2510,OpenPlay,2015,RightFoot,1482,Sevilla,Getafe,5,0,2015-10-24 22:30:00,,None
+86483,88,SavedShot,0.9419999694824219,0.710999984741211,0.03500330075621605,Benoît Trémoulinas,h,2510,OpenPlay,2015,LeftFoot,1482,Sevilla,Getafe,5,0,2015-10-24 22:30:00,Mariano,Cross
+86274,42,BlockedShot,0.9119999694824219,0.6229999923706054,0.09786669909954071,Benoît Trémoulinas,h,2510,OpenPlay,2015,LeftFoot,1508,Sevilla,Real Madrid,3,2,2015-11-08 23:30:00,Vitolo,Pass
+88649,47,MissedShots,0.9119999694824219,0.5270000076293946,0.04426179826259613,Benoît Trémoulinas,h,2510,FromCorner,2015,Head,1588,Sevilla,Malaga,2,1,2016-01-16 19:00:00,Daniel Carriço,BallTouch
+89114,41,SavedShot,0.8280000305175781,0.47400001525878904,0.0783575028181076,Benoît Trémoulinas,h,2510,OpenPlay,2015,RightFoot,1613,Sevilla,Levante,3,1,2016-01-31 15:00:00,Mariano,Pass
+89124,68,MissedShots,0.8590000152587891,0.6,0.08962929993867874,Benoît Trémoulinas,h,2510,OpenPlay,2015,RightFoot,1613,Sevilla,Levante,3,1,2016-01-31 15:00:00,,Dispossessed
+89129,76,SavedShot,0.9390000152587891,0.6840000152587891,0.08499719947576523,Benoît Trémoulinas,h,2510,OpenPlay,2015,LeftFoot,1613,Sevilla,Levante,3,1,2016-01-31 15:00:00,Michael Krohn-Dehli,Pass
+89408,91,MissedShots,0.8830000305175781,0.605,0.08970469981431961,Benoît Trémoulinas,h,2510,OpenPlay,2015,LeftFoot,1634,Sevilla,Las Palmas,2,0,2016-02-14 19:00:00,Michael Krohn-Dehli,HeadPass
+90378,89,MissedShots,0.889000015258789,0.62,0.03840000182390213,Benoît Trémoulinas,a,2510,OpenPlay,2015,LeftFoot,1698,Real Madrid,Sevilla,4,0,2016-03-20 23:30:00,Mariano,Cross

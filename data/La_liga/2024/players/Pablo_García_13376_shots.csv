@@ -1,0 +1,14 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+638611,66,SavedShot,0.8240000152587891,0.605,0.06485871225595474,Pablo García,h,13376,OpenPlay,2025,LeftFoot,29168,Real Betis,Alaves,1,0,2025-08-22 19:30:00,Pablo Fornals,Pass
+638616,91,MissedShots,0.8690000152587891,0.5720000076293945,0.21812961995601654,Pablo García,h,13376,OpenPlay,2025,RightFoot,29168,Real Betis,Alaves,1,0,2025-08-22 19:30:00,Pablo Fornals,TakeOn
+641034,20,MissedShots,0.8640000152587891,0.3729999923706055,0.07195956259965897,Pablo García,h,13376,OpenPlay,2025,LeftFoot,29186,Real Betis,Athletic Club,1,2,2025-08-31 17:00:00,Juan Camilo Hernández,Pass
+641037,30,BlockedShot,0.805,0.495,0.042343318462371826,Pablo García,h,13376,SetPiece,2025,LeftFoot,29186,Real Betis,Athletic Club,1,2,2025-08-31 17:00:00,Natan,Pass
+642827,94,MissedShots,0.9519999694824218,0.42700000762939455,0.5930035710334778,Pablo García,h,13376,OpenPlay,2025,LeftFoot,29200,Real Betis,Real Sociedad,3,1,2025-09-19 19:00:00,Abdessamad Ezzalzouli,Pass
+651810,88,SavedShot,0.889000015258789,0.33,0.08054789155721664,Pablo García,h,13376,OpenPlay,2025,LeftFoot,29261,Real Betis,Mallorca,3,0,2025-11-02 20:00:00,Aitor Ruibal,Pass
+651812,92,MissedShots,0.8169999694824219,0.18,0.04759232699871063,Pablo García,h,13376,DirectFreekick,2025,LeftFoot,29261,Real Betis,Mallorca,3,0,2025-11-02 20:00:00,,Standard
+655614,20,MissedShots,0.74,0.3559999847412109,0.01582365855574608,Pablo García,a,13376,OpenPlay,2025,LeftFoot,29296,Sevilla,Real Betis,0,2,2025-11-30 15:15:00,,BallRecovery
+655622,56,SavedShot,0.970999984741211,0.32799999237060545,0.06569434702396393,Pablo García,a,13376,OpenPlay,2025,LeftFoot,29296,Sevilla,Real Betis,0,2,2025-11-30 15:15:00,Pablo Fornals,Pass
+659055,88,SavedShot,0.97,0.720999984741211,0.03921372443437576,Pablo García,a,13376,OpenPlay,2025,LeftFoot,29313,Rayo Vallecano,Real Betis,0,0,2025-12-15 20:00:00,Giovani Lo Celso,Pass
+665614,91,BlockedShot,0.9169999694824219,0.3390000152587891,0.06368643045425415,Pablo García,a,13376,OpenPlay,2025,LeftFoot,29359,Alaves,Real Betis,2,1,2026-01-25 20:00:00,Ezequiel Ávila,BallTouch
+676759,79,ShotOnPost,0.919000015258789,0.3890000152587891,0.0770498737692833,Pablo García,h,13376,FromCorner,2025,LeftFoot,29450,Real Betis,Espanyol,0,0,2026-04-04 16:30:00,,None
+676764,93,MissedShots,0.8569999694824219,0.28,0.031531378626823425,Pablo García,h,13376,OpenPlay,2025,LeftFoot,29450,Real Betis,Espanyol,0,0,2026-04-04 16:30:00,Pablo Fornals,Pass

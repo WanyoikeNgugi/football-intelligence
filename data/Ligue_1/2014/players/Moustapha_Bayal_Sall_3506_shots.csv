@@ -1,0 +1,30 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+410,55,SavedShot,0.9269999694824219,0.39099998474121095,0.023834099993109703,Moustapha Bayal Sall,h,3506,SetPiece,2014,Head,6203,Saint-Etienne,Reims,3,1,2014-08-17 16:00:00,Franck Tabanou,Goal
+662,82,MissedShots,0.655,0.40599998474121096,0.010038199834525585,Moustapha Bayal Sall,h,3506,OpenPlay,2014,RightFoot,6213,Saint-Etienne,Rennes,0,0,2014-08-24 16:00:00,,BallTouch
+1091,82,BlockedShot,0.9,0.4520000076293945,0.06123549863696098,Moustapha Bayal Sall,a,3506,OpenPlay,2014,Head,6224,Paris Saint Germain,Saint-Etienne,5,0,2014-08-31 20:00:00,Renaud Cohade,Cross
+1024,26,MissedShots,0.9690000152587891,0.42700000762939455,0.38402700424194336,Moustapha Bayal Sall,h,3506,SetPiece,2014,Head,6147,Saint-Etienne,Caen,1,0,2014-09-13 19:00:00,Romain Hamouma,Aerial
+1880,6,MissedShots,0.894000015258789,0.5529999923706055,0.04791110008955002,Moustapha Bayal Sall,h,3506,FromCorner,2014,Head,6174,Saint-Etienne,Bordeaux,1,1,2014-09-25 20:00:00,Fabien Lemoine,Cross
+1887,28,MissedShots,0.9180000305175782,0.5179999923706055,0.0447877012193203,Moustapha Bayal Sall,h,3506,FromCorner,2014,Head,6174,Saint-Etienne,Bordeaux,1,1,2014-09-25 20:00:00,Max Gradel,Aerial
+1423,30,MissedShots,0.8959999847412109,0.5559999847412109,0.02268099971115589,Moustapha Bayal Sall,h,3506,SetPiece,2014,Head,6120,Saint-Etienne,Toulouse,0,1,2014-10-05 13:00:00,Max Gradel,Aerial
+2724,60,MissedShots,0.9030000305175782,0.56,0.01750810071825981,Moustapha Bayal Sall,h,3506,FromCorner,2014,Head,6141,Saint-Etienne,Metz,1,0,2014-10-26 16:00:00,Romain Hamouma,Aerial
+5169,67,BlockedShot,0.7609999847412109,0.49700000762939456,0.019469700753688812,Moustapha Bayal Sall,h,3506,FromCorner,2014,RightFoot,6093,Saint-Etienne,Monaco,1,1,2014-11-09 16:00:00,,None
+6059,28,MissedShots,0.9080000305175782,0.47400001525878904,0.3071190118789673,Moustapha Bayal Sall,a,3506,SetPiece,2014,Head,6101,Nantes,Saint-Etienne,0,0,2014-11-23 13:00:00,Romain Hamouma,Cross
+6071,85,MissedShots,0.915,0.515,0.12030500173568726,Moustapha Bayal Sall,a,3506,SetPiece,2014,Head,6101,Nantes,Saint-Etienne,0,0,2014-11-23 13:00:00,Romain Hamouma,Cross
+4062,17,Goal,0.9459999847412109,0.515,0.46458500623703003,Moustapha Bayal Sall,h,3506,FromCorner,2014,Head,6113,Saint-Etienne,Lyon,3,0,2014-11-30 20:00:00,Max Gradel,Cross
+6658,33,MissedShots,0.6880000305175781,0.47200000762939454,0.014957900159060955,Moustapha Bayal Sall,a,3506,OpenPlay,2014,LeftFoot,5867,Evian Thonon Gaillard,Saint-Etienne,1,2,2015-05-16 20:00:00,,Dispossessed
+7467,8,BlockedShot,0.89,0.43599998474121093,0.014955800026655197,Moustapha Bayal Sall,h,3506,FromCorner,2014,Head,5882,Saint-Etienne,Guingamp,2,1,2015-05-23 20:00:00,Yohan Mollo,Aerial
+62479,23,Goal,0.9019999694824219,0.44400001525878907,0.12167999893426895,Moustapha Bayal Sall,a,3506,SetPiece,2015,RightFoot,1911,Montpellier,Saint-Etienne,1,2,2015-09-12 22:00:00,Kévin Monnet-Paquet,Pass
+62483,33,MissedShots,0.99,0.5940000152587891,0.02932089939713478,Moustapha Bayal Sall,a,3506,FromCorner,2015,Head,1911,Montpellier,Saint-Etienne,1,2,2015-09-12 22:00:00,Valentin Eysseric,Cross
+65449,44,BlockedShot,0.9019999694824219,0.4109999847412109,0.03377699851989746,Moustapha Bayal Sall,h,3506,FromCorner,2015,Head,2056,Saint-Etienne,Angers,1,0,2015-12-20 17:00:00,Valentin Eysseric,Cross
+69203,72,Goal,0.9619999694824218,0.6040000152587891,0.24639199674129486,Moustapha Bayal Sall,a,3506,SetPiece,2015,Head,2108,Rennes,Saint-Etienne,0,1,2016-02-05 00:00:00,Renaud Cohade,Aerial
+69256,29,SavedShot,0.9069999694824219,0.55,0.25172901153564453,Moustapha Bayal Sall,a,3506,SetPiece,2015,Head,2117,Bordeaux,Saint-Etienne,1,4,2016-02-07 20:00:00,Oussama Tannane,Chipped
+69433,11,SavedShot,0.9469999694824218,0.46900001525878904,0.3941720128059387,Moustapha Bayal Sall,h,3506,FromCorner,2015,Head,2127,Saint-Etienne,Monaco,1,1,2016-02-14 20:00:00,Vincent Pajot,Pass
+69443,36,MissedShots,0.9119999694824219,0.47,0.08524449914693832,Moustapha Bayal Sall,h,3506,FromCorner,2015,Head,2127,Saint-Etienne,Monaco,1,1,2016-02-14 20:00:00,Renaud Cohade,Cross
+69448,56,Goal,0.9330000305175781,0.5259999847412109,0.4771980047225952,Moustapha Bayal Sall,h,3506,SetPiece,2015,Head,2127,Saint-Etienne,Monaco,1,1,2016-02-14 20:00:00,Renaud Cohade,Cross
+69454,88,MissedShots,0.71,0.49,0.015237400308251381,Moustapha Bayal Sall,h,3506,OpenPlay,2015,RightFoot,2127,Saint-Etienne,Monaco,1,1,2016-02-14 20:00:00,Valentin Eysseric,Pass
+69939,27,MissedShots,0.9,0.515,0.4578610062599182,Moustapha Bayal Sall,h,3506,FromCorner,2015,RightFoot,2145,Saint-Etienne,Caen,1,2,2016-02-28 20:00:00,,None
+66652,18,MissedShots,0.9319999694824219,0.47299999237060547,0.5333619713783264,Moustapha Bayal Sall,a,3506,SetPiece,2015,LeftFoot,2150,Angers,Saint-Etienne,0,0,2016-03-05 23:00:00,Kévin Monnet-Paquet,HeadPass
+67218,76,MissedShots,0.6719999694824219,0.34200000762939453,0.007356880232691765,Moustapha Bayal Sall,a,3506,OpenPlay,2015,RightFoot,2162,Guingamp,Saint-Etienne,2,0,2016-03-12 23:00:00,Vincent Pajot,Pass
+66946,49,MissedShots,0.9069999694824219,0.6079999923706054,0.026406200602650642,Moustapha Bayal Sall,h,3506,FromCorner,2015,Head,2170,Saint-Etienne,Montpellier,3,0,2016-03-19 20:00:00,Valentin Eysseric,Cross
+67605,17,MissedShots,0.919000015258789,0.4540000152587891,0.08723489940166473,Moustapha Bayal Sall,h,3506,FromCorner,2015,Head,2192,Saint-Etienne,Troyes,1,0,2016-04-09 22:00:00,Oussama Tannane,Cross
+68340,54,MissedShots,0.9390000152587891,0.5209999847412109,0.11280299723148346,Moustapha Bayal Sall,h,3506,FromCorner,2015,Head,2213,Saint-Etienne,Lorient,2,0,2016-04-24 19:00:00,Fabien Lemoine,Cross

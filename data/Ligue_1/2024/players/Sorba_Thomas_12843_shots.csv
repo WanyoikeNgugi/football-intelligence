@@ -1,0 +1,10 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+585244,21,ShotOnPost,0.94,0.3129999923706055,0.054970335215330124,Sorba Thomas,a,12843,OpenPlay,2024,RightFoot,28054,Toulouse,Nantes,0,0,2024-08-18 15:00:00,,None
+586827,29,MissedShots,0.9259999847412109,0.47,0.5819138288497925,Sorba Thomas,h,12843,OpenPlay,2024,RightFoot,28064,Nantes,Auxerre,2,0,2024-08-25 15:00:00,Moses Simon,Cross
+591517,84,MissedShots,0.7169999694824218,0.5929999923706055,0.014230906032025814,Sorba Thomas,h,12843,OpenPlay,2024,RightFoot,28081,Nantes,Reims,1,2,2024-09-15 15:00:00,Moses Simon,Pass
+593069,70,BlockedShot,0.8469999694824218,0.345,0.04678395390510559,Sorba Thomas,a,12843,OpenPlay,2024,RightFoot,28088,Angers,Nantes,1,1,2024-09-22 15:00:00,,None
+594741,42,BlockedShot,0.7730000305175782,0.6990000152587891,0.015357879921793938,Sorba Thomas,h,12843,FromCorner,2024,RightFoot,28097,Nantes,Saint-Etienne,2,2,2024-09-29 15:00:00,,None
+594742,48,Goal,0.9590000152587891,0.5320000076293945,0.6498414278030396,Sorba Thomas,h,12843,OpenPlay,2024,RightFoot,28097,Nantes,Saint-Etienne,2,2,2024-09-29 15:00:00,Johann Lepenant,Pass
+610421,42,BlockedShot,0.7580000305175781,0.5309999847412109,0.02026073820888996,Sorba Thomas,h,12843,SetPiece,2024,RightFoot,28193,Nantes,Monaco,2,2,2025-01-10 18:00:00,Jean-Charles Castelletto,BallTouch
+622718,9,MissedShots,0.8980000305175782,0.28200000762939453,0.042348023504018784,Sorba Thomas,h,12843,OpenPlay,2024,RightFoot,28280,Nantes,Lille,1,0,2025-03-15 16:00:00,,None
+622732,68,ShotOnPost,0.9309999847412109,0.4909999847412109,0.437221497297287,Sorba Thomas,h,12843,OpenPlay,2024,RightFoot,28280,Nantes,Lille,1,0,2025-03-15 16:00:00,Pedro Chirivella,Chipped

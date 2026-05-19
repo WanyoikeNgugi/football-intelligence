@@ -1,0 +1,21 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+33356,90,BlockedShot,0.825,0.44299999237060544,0.061484500765800476,Juanfran,h,2262,OpenPlay,2014,RightFoot,5799,Atletico Madrid,Celta Vigo,2,2,2014-09-20 19:00:00,Tiago,Pass
+34881,31,BlockedShot,0.88,0.30700000762939456,0.04219450056552887,Juanfran,h,2262,FromCorner,2014,RightFoot,5769,Atletico Madrid,Espanyol,2,0,2014-10-19 11:00:00,Koke,Pass
+34930,35,MissedShots,0.830999984741211,0.30100000381469727,0.04699990153312683,Juanfran,h,2262,OpenPlay,2014,LeftFoot,5736,Atletico Madrid,Malaga,3,1,2014-11-22 15:00:00,,None
+38508,44,MissedShots,0.735,0.455,0.010239499621093273,Juanfran,h,2262,SetPiece,2014,RightFoot,5642,Atletico Madrid,Levante,3,1,2015-01-03 15:00:00,,Aerial
+41030,66,MissedShots,0.875999984741211,0.35200000762939454,0.059502799063920975,Juanfran,a,2262,OpenPlay,2014,RightFoot,5626,Celta Vigo,Atletico Madrid,2,0,2015-02-15 20:00:00,Mario Mandzukic,Pass
+36518,82,BlockedShot,0.7130000305175781,0.3559999847412109,0.009904559701681137,Juanfran,a,2262,FromCorner,2014,RightFoot,5562,Villarreal,Atletico Madrid,0,1,2015-04-29 21:00:00,Saúl Ñíguez,HeadPass
+36519,85,MissedShots,0.7769999694824219,0.34799999237060547,0.032551299780607224,Juanfran,a,2262,OpenPlay,2014,RightFoot,5562,Villarreal,Atletico Madrid,0,1,2015-04-29 21:00:00,,None
+84257,16,BlockedShot,0.8159999847412109,0.4,0.03882170096039772,Juanfran,a,2262,OpenPlay,2015,RightFoot,1415,Sevilla,Atletico Madrid,0,3,2015-08-30 22:30:00,,Rebound
+86641,76,SavedShot,0.91,0.40900001525878904,0.13458900153636932,Juanfran,h,2262,OpenPlay,2015,RightFoot,1487,Atletico Madrid,Valencia,2,1,2015-10-25 23:30:00,Tiago,Throughball
+88296,37,MissedShots,0.789000015258789,0.3129999923706055,0.015608999878168106,Juanfran,h,2262,OpenPlay,2015,RightFoot,1521,Atletico Madrid,Espanyol,1,0,2015-11-28 21:15:00,,Aerial
+88298,45,SavedShot,0.8119999694824219,0.32,0.04700950160622597,Juanfran,h,2262,OpenPlay,2015,RightFoot,1521,Atletico Madrid,Espanyol,1,0,2015-11-28 21:15:00,,BallRecovery
+86921,33,MissedShots,0.7709999847412109,0.365,0.01872139982879162,Juanfran,h,2262,FromCorner,2015,RightFoot,1569,Atletico Madrid,Levante,1,0,2016-01-02 23:30:00,,None
+90526,56,BlockedShot,0.76,0.49400001525878906,0.0151765001937747,Juanfran,h,2262,FromCorner,2015,RightFoot,1700,Atletico Madrid,Real Betis,5,1,2016-04-02 18:00:00,,Aerial
+90528,64,Goal,0.965999984741211,0.445,0.6622859835624695,Juanfran,h,2262,OpenPlay,2015,RightFoot,1700,Atletico Madrid,Real Betis,5,1,2016-04-02 18:00:00,Ángel Correa,Throughball
+135783,61,MissedShots,0.7140000152587891,0.49900001525878906,0.010543599724769592,Juanfran,a,2262,SetPiece,2016,RightFoot,1800,Celta Vigo,Atletico Madrid,0,4,2016-09-10 15:00:00,,None
+136979,17,SavedShot,0.7269999694824218,0.24399999618530274,0.01761459931731224,Juanfran,h,2262,OpenPlay,2016,RightFoot,3311,Atletico Madrid,Malaga,4,2,2016-10-29 20:30:00,Antoine Griezmann,Pass
+142798,8,MissedShots,0.7669999694824219,0.34599998474121096,0.01691889949142933,Juanfran,h,2262,OpenPlay,2016,RightFoot,4037,Atletico Madrid,Osasuna,3,0,2017-04-15 17:30:00,,None
+169100,1,BlockedShot,0.765,0.43099998474121093,0.023090599104762077,Juanfran,a,2262,OpenPlay,2017,RightFoot,7882,Girona,Atletico Madrid,2,2,2017-08-19 19:15:00,,None
+171727,17,BlockedShot,0.7340000152587891,0.24700000762939453,0.016123300418257713,Juanfran,h,2262,OpenPlay,2017,RightFoot,7975,Atletico Madrid,Villarreal,1,1,2017-10-28 17:30:00,Thomas Partey,Pass
+195346,57,MissedShots,0.794000015258789,0.33599998474121096,0.028922900557518005,Juanfran,h,2262,OpenPlay,2017,LeftFoot,8098,Atletico Madrid,Valencia,1,0,2018-02-04 19:45:00,Koke,TakeOn

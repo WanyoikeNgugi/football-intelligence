@@ -1,0 +1,38 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+323555,84,MissedShots,0.7440000152587891,0.4570000076293945,0.027331899851560593,Aridane Hernández,a,7856,FromCorner,2019,RightFoot,12090,Levante,Osasuna,1,1,2019-09-29 16:30:00,Oier,Pass
+339157,7,ShotOnPost,0.98,0.6359999847412109,0.02560029923915863,Aridane Hernández,h,7856,FromCorner,2019,Head,12199,Osasuna,Real Sociedad,3,4,2019-12-22 13:00:00,Roberto Torres,HeadPass
+339170,45,Goal,0.9540000152587891,0.53,0.49897098541259766,Aridane Hernández,h,7856,SetPiece,2019,Head,12199,Osasuna,Real Sociedad,3,4,2019-12-22 13:00:00,Roberto Torres,Chipped
+339186,92,MissedShots,0.8680000305175781,0.34700000762939454,0.02327439934015274,Aridane Hernández,h,7856,SetPiece,2019,Head,12199,Osasuna,Real Sociedad,3,4,2019-12-22 13:00:00,Fran Mérida,Chipped
+354982,79,MissedShots,0.9430000305175781,0.45599998474121095,0.07062049955129623,Aridane Hernández,h,7856,FromCorner,2019,Head,12220,Osasuna,Real Valladolid,0,0,2020-01-18 17:30:00,Rubén García,Aerial
+354985,87,MissedShots,0.92,0.519000015258789,0.11020100116729736,Aridane Hernández,h,7856,FromCorner,2019,Head,12220,Osasuna,Real Valladolid,0,0,2020-01-18 17:30:00,Rubén García,Cross
+357367,46,MissedShots,0.889000015258789,0.39,0.0094793401658535,Aridane Hernández,a,7856,SetPiece,2019,Head,12241,Villarreal,Osasuna,3,1,2020-02-02 17:30:00,Rubén García,Aerial
+357368,47,Goal,0.97,0.44599998474121094,0.46391499042510986,Aridane Hernández,a,7856,FromCorner,2019,Head,12241,Villarreal,Osasuna,3,1,2020-02-02 17:30:00,Roberto Torres,Cross
+361212,63,Goal,0.9490000152587891,0.46599998474121096,0.5266079902648926,Aridane Hernández,a,7856,SetPiece,2019,Head,12281,Sevilla,Osasuna,3,2,2020-03-01 11:00:00,Roberto Torres,Cross
+362008,2,MissedShots,0.9330000305175781,0.46900001525878904,0.06465139985084534,Aridane Hernández,h,7856,FromCorner,2019,Head,12292,Osasuna,Espanyol,1,0,2020-03-08 11:00:00,Rubén García,Aerial
+364888,66,MissedShots,0.9319999694824219,0.485,0.12579800188541412,Aridane Hernández,h,7856,FromCorner,2019,Head,12311,Osasuna,Atletico Madrid,0,5,2020-06-17 20:00:00,Iñigo Pérez,Cross
+366376,61,MissedShots,0.9590000152587891,0.5,0.5765720009803772,Aridane Hernández,a,7856,SetPiece,2019,RightFoot,12323,Alaves,Osasuna,0,1,2020-06-24 17:30:00,Roberto Torres,Cross
+396196,30,MissedShots,0.9259999847412109,0.48200000762939454,0.06302429735660553,Aridane Hernández,h,7856,FromCorner,2020,Head,14936,Osasuna,Alaves,1,1,2020-12-31 15:15:00,,Aerial
+416363,77,MissedShots,0.8690000152587891,0.585,0.01264249999076128,Aridane Hernández,h,7856,FromCorner,2020,Head,15085,Osasuna,Valencia,3,1,2021-04-21 17:00:00,Roberto Torres,Aerial
+428086,56,MissedShots,0.8430000305175781,0.45799999237060546,0.0721902996301651,Aridane Hernández,h,7856,SetPiece,2021,RightFoot,17155,Osasuna,Celta Vigo,0,0,2021-08-23 20:00:00,Darko Brasanac,Pass
+430503,11,MissedShots,0.9119999694824219,0.38,0.02723659947514534,Aridane Hernández,h,7856,FromCorner,2021,Head,17172,Osasuna,Valencia,1,4,2021-09-12 14:15:00,Rubén García,Cross
+430516,49,OwnGoal,0.07900000095367432,0.31799999237060544,0,Aridane Hernández,h,7856,OpenPlay,2021,RightFoot,17172,Osasuna,Valencia,1,4,2021-09-12 14:15:00,,None
+509105,82,BlockedShot,0.8909999847412109,0.40599998474121096,0.01340670045465231,Aridane Hernández,a,7856,FromCorner,2022,Head,19171,Real Valladolid,Osasuna,0,0,2023-02-12 17:30:00,Rubén García,Aerial
+513065,14,MissedShots,0.915,0.41,0.01660659909248352,Aridane Hernández,h,7856,FromCorner,2022,Head,19198,Osasuna,Celta Vigo,0,0,2023-03-06 20:00:00,Moi Gómez,Aerial
+519112,39,OwnGoal,0.060999999046325686,0.5590000152587891,0,Aridane Hernández,a,7856,OpenPlay,2022,RightFoot,19249,Rayo Vallecano,Osasuna,2,1,2023-04-14 19:00:00,,None
+519117,56,MissedShots,0.9230000305175782,0.41200000762939454,0.01954060047864914,Aridane Hernández,a,7856,FromCorner,2022,Head,19249,Rayo Vallecano,Osasuna,2,1,2023-04-14 19:00:00,Kike Barja,Aerial
+528767,79,MissedShots,0.919000015258789,0.500999984741211,0.05252552032470703,Aridane Hernández,h,7856,FromCorner,2022,Head,19316,Osasuna,Athletic Club,2,0,2023-05-25 19:30:00,Rubén García,Aerial
+530113,55,SavedShot,0.8909999847412109,0.4570000076293945,0.05211184546351433,Aridane Hernández,a,7856,FromCorner,2022,Head,19325,Getafe,Osasuna,2,1,2023-05-28 17:00:00,Rubén García,Cross
+534249,49,MissedShots,0.9109999847412109,0.54,0.074470654129982,Aridane Hernández,a,7856,FromCorner,2023,RightFoot,22704,Granada,Rayo Vallecano,0,2,2023-08-21 19:30:00,Óscar Trejo,Cross
+535766,53,BlockedShot,0.899000015258789,0.5359999847412109,0.0677495151758194,Aridane Hernández,h,7856,SetPiece,2023,Head,22714,Rayo Vallecano,Atletico Madrid,0,7,2023-08-28 19:30:00,Isi Palazón,Chipped
+562098,20,MissedShots,0.9230000305175782,0.49200000762939455,0.29050031304359436,Aridane Hernández,h,7856,FromCorner,2023,LeftFoot,22908,Rayo Vallecano,Sevilla,1,2,2024-02-05 20:00:00,Unai López,Cross
+562125,95,MissedShots,0.675,0.47,0.01325132418423891,Aridane Hernández,h,7856,OpenPlay,2023,RightFoot,22908,Rayo Vallecano,Sevilla,1,2,2024-02-05 20:00:00,Óscar Valentín,Pass
+583334,92,MissedShots,0.915,0.47900001525878905,0.09650810807943344,Aridane Hernández,h,7856,FromCorner,2023,RightFoot,23060,Rayo Vallecano,Athletic Club,0,1,2024-05-25 16:30:00,Isi Palazón,BallTouch
+598546,85,MissedShots,0.9830000305175781,0.5620000076293945,0.44885700941085815,Aridane Hernández,h,7856,FromCorner,2024,Head,27090,Rayo Vallecano,Alaves,1,0,2024-10-26 14:15:00,Gerard Gumbau,Cross
+601190,43,SavedShot,0.8380000305175781,0.4109999847412109,0.023195620626211166,Aridane Hernández,h,7856,FromCorner,2024,RightFoot,27110,Rayo Vallecano,Las Palmas,1,3,2024-11-08 20:00:00,Florian Lejeune,Aerial
+601202,61,OwnGoal,0.030999999046325683,0.415,0,Aridane Hernández,h,7856,FromCorner,2024,Head,27110,Rayo Vallecano,Las Palmas,1,3,2024-11-08 20:00:00,,None
+621876,6,MissedShots,0.9630000305175781,0.44299999237060544,0.4315744936466217,Aridane Hernández,a,7856,FromCorner,2024,Head,27251,Real Madrid,Rayo Vallecano,2,1,2025-03-09 15:15:00,Pedro Díaz,Cross
+621902,91,SavedShot,0.895,0.5479999923706055,0.017873018980026245,Aridane Hernández,a,7856,FromCorner,2024,Head,27251,Real Madrid,Rayo Vallecano,2,1,2025-03-09 15:15:00,Unai López,Aerial
+624304,80,MissedShots,0.955999984741211,0.5979999923706054,0.06316520273685455,Aridane Hernández,a,7856,FromCorner,2024,RightFoot,27266,Alaves,Rayo Vallecano,0,2,2025-03-29 17:30:00,Unai López,Cross
+631185,51,MissedShots,0.9419999694824219,0.4809999847412109,0.07851127535104752,Aridane Hernández,h,7856,FromCorner,2024,Head,27318,Rayo Vallecano,Getafe,1,0,2025-05-02 19:00:00,Adrián Embarba,Aerial
+631189,60,MissedShots,0.960999984741211,0.37,0.02511199563741684,Aridane Hernández,h,7856,FromCorner,2024,Head,27318,Rayo Vallecano,Getafe,1,0,2025-05-02 19:00:00,Adrián Embarba,Cross
+634144,57,MissedShots,0.9309999847412109,0.5579999923706055,0.050149254500865936,Aridane Hernández,h,7856,FromCorner,2024,Head,27336,Rayo Vallecano,Real Betis,2,2,2025-05-15 17:00:00,Isi Palazón,Aerial

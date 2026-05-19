@@ -1,0 +1,27 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+41414,61,MissedShots,0.769000015258789,0.6769999694824219,0.015881400555372238,Rolando Bianchi,h,3906,OpenPlay,2014,RightFoot,5151,Atalanta,Verona,0,0,2014-08-31 17:00:00,,None
+41961,93,MissedShots,0.91,0.6120000076293945,0.027553599327802658,Rolando Bianchi,h,3906,OpenPlay,2014,Head,5126,Atalanta,Fiorentina,0,1,2014-09-21 17:00:00,,None
+42968,93,SavedShot,0.9530000305175781,0.3509999847412109,0.020122500136494637,Rolando Bianchi,a,3906,OpenPlay,2014,Head,5073,Sampdoria,Atalanta,1,0,2014-10-05 14:00:00,Germán Denis,Aerial
+43004,61,MissedShots,0.8530000305175781,0.41200000762939454,0.013507899828255177,Rolando Bianchi,h,3906,OpenPlay,2014,Head,5084,Atalanta,Parma,1,0,2014-10-19 14:00:00,Davide Zappacosta,Cross
+43008,81,MissedShots,0.970999984741211,0.3609999847412109,0.054686401039361954,Rolando Bianchi,h,3906,OpenPlay,2014,RightFoot,5084,Atalanta,Parma,1,0,2014-10-19 14:00:00,Davide Zappacosta,Cross
+43010,86,MissedShots,0.8930000305175781,0.5520000076293945,0.3130069971084595,Rolando Bianchi,h,3906,OpenPlay,2014,RightFoot,5084,Atalanta,Parma,1,0,2014-10-19 14:00:00,Daniele Baselli,Cross
+43503,12,MissedShots,0.92,0.5790000152587891,0.08973819762468338,Rolando Bianchi,a,3906,OpenPlay,2014,RightFoot,5092,Udinese,Atalanta,2,0,2014-10-26 14:00:00,Maximiliano Moralez,Cross
+43515,37,SavedShot,0.875999984741211,0.5479999923706055,0.039444699883461,Rolando Bianchi,a,3906,OpenPlay,2014,Head,5092,Udinese,Atalanta,2,0,2014-10-26 14:00:00,Luca Cigarini,Cross
+44014,74,MissedShots,0.65,0.26399999618530273,0.006886209826916456,Rolando Bianchi,a,3906,OpenPlay,2014,RightFoot,5034,Torino,Atalanta,0,0,2014-11-02 14:00:00,Carlos Carmona,HeadPass
+44832,47,MissedShots,0.935,0.44099998474121094,0.11348599940538406,Rolando Bianchi,h,3906,OpenPlay,2014,Head,5006,Atalanta,Cesena,3,2,2014-12-07 14:00:00,Germán Denis,Cross
+44833,49,SavedShot,0.955,0.56,0.12890300154685974,Rolando Bianchi,h,3906,SetPiece,2014,Head,5006,Atalanta,Cesena,3,2,2014-12-07 14:00:00,Luca Cigarini,Cross
+44838,77,MissedShots,0.9290000152587891,0.39099998474121095,0.23021499812602997,Rolando Bianchi,h,3906,OpenPlay,2014,Head,5006,Atalanta,Cesena,3,2,2014-12-07 14:00:00,Maximiliano Moralez,Cross
+44844,88,SavedShot,0.9259999847412109,0.4779999923706055,0.14013899862766266,Rolando Bianchi,h,3906,OpenPlay,2014,Head,5006,Atalanta,Cesena,3,2,2014-12-07 14:00:00,Maximiliano Moralez,Cross
+45210,18,MissedShots,0.7090000152587891,0.46299999237060546,0.019109200686216354,Rolando Bianchi,a,3906,OpenPlay,2014,RightFoot,5011,Lazio,Atalanta,3,0,2014-12-13 19:45:00,Carlos Carmona,Pass
+45212,19,MissedShots,0.779000015258789,0.53,0.08816760033369064,Rolando Bianchi,a,3906,OpenPlay,2014,RightFoot,5011,Lazio,Atalanta,3,0,2014-12-13 19:45:00,Maximiliano Moralez,Chipped
+45350,68,BlockedShot,0.6780000305175782,0.39599998474121095,0.01218860037624836,Rolando Bianchi,h,3906,OpenPlay,2014,RightFoot,5027,Atalanta,Palermo,3,3,2014-12-21 14:00:00,Germán Denis,Pass
+45351,71,SavedShot,0.9130000305175782,0.425,0.20821399986743927,Rolando Bianchi,h,3906,OpenPlay,2014,Head,5027,Atalanta,Palermo,3,3,2014-12-21 14:00:00,Alejandro Gomez,Chipped
+46023,92,SavedShot,0.769000015258789,0.26799999237060546,0.038304198533296585,Rolando Bianchi,a,3906,OpenPlay,2014,RightFoot,4980,AC Milan,Atalanta,0,1,2015-01-18 14:00:00,Daniele Baselli,Pass
+48340,77,BlockedShot,0.8859999847412109,0.3990000152587891,0.0796056017279625,Rolando Bianchi,h,3906,OpenPlay,2014,RightFoot,4833,Atalanta,Torino,1,2,2015-04-04 14:00:00,Marco D&#039;Alessandro,Pass
+48342,84,MissedShots,0.909000015258789,0.5170000076293946,0.03024359978735447,Rolando Bianchi,h,3906,FromCorner,2014,Head,4833,Atalanta,Torino,1,2,2015-04-04 14:00:00,Maximiliano Moralez,Aerial
+48344,86,MissedShots,0.8390000152587891,0.49900001525878906,0.07864949852228165,Rolando Bianchi,h,3906,OpenPlay,2014,RightFoot,4833,Atalanta,Torino,1,2,2015-04-04 14:00:00,Giulio Migliaccio,LayOff
+50970,73,BlockedShot,0.8290000152587891,0.6419999694824219,0.032485101372003555,Rolando Bianchi,h,3906,FromCorner,2014,RightFoot,4863,Atalanta,Empoli,2,2,2015-04-26 11:30:00,Maximiliano Moralez,Cross
+50972,80,MissedShots,0.915,0.5740000152587891,0.10038399696350098,Rolando Bianchi,h,3906,OpenPlay,2014,RightFoot,4863,Atalanta,Empoli,2,2,2015-04-26 11:30:00,Maximiliano Moralez,Chipped
+50977,91,BlockedShot,0.8630000305175781,0.45799999237060546,0.011575000360608101,Rolando Bianchi,h,3906,FromCorner,2014,Head,4863,Atalanta,Empoli,2,2,2015-04-26 11:30:00,Boukary Dramé,Aerial
+49926,93,MissedShots,0.8180000305175781,0.5629999923706055,0.07075150310993195,Rolando Bianchi,a,3906,OpenPlay,2014,RightFoot,4875,Cesena,Atalanta,2,2,2015-04-29 19:45:00,Andrea Masiello,Pass
+49745,73,BlockedShot,0.835999984741211,0.544000015258789,0.07814230024814606,Rolando Bianchi,h,3906,OpenPlay,2014,RightFoot,4784,Atalanta,Lazio,1,1,2015-05-03 14:00:00,Davide Zappacosta,Pass

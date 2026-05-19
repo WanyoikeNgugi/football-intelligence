@@ -1,0 +1,412 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+24364,0,Goal,0.87,0.585,0.3359290063381195,Karim Bellarabi,a,186,OpenPlay,2014,RightFoot,5453,Borussia Dortmund,Bayer Leverkusen,0,2,2014-08-23 17:30:00,Sebastian Boenisch,Pass
+24370,23,MissedShots,0.8209999847412109,0.3120000076293945,0.013096500188112259,Karim Bellarabi,a,186,SetPiece,2014,RightFoot,5453,Borussia Dortmund,Bayer Leverkusen,0,2,2014-08-23 17:30:00,,Aerial
+24578,14,MissedShots,0.9630000305175781,0.649000015258789,0.07720330357551575,Karim Bellarabi,h,186,OpenPlay,2014,RightFoot,5460,Bayer Leverkusen,Hertha Berlin,4,2,2014-08-30 14:30:00,Son Heung-Min,Pass
+24579,16,SavedShot,0.7880000305175782,0.43400001525878906,0.025182999670505524,Karim Bellarabi,h,186,OpenPlay,2014,LeftFoot,5460,Bayer Leverkusen,Hertha Berlin,4,2,2014-08-30 14:30:00,Hakan Calhanoglu,TakeOn
+24580,18,SavedShot,0.855,0.6120000076293945,0.28870999813079834,Karim Bellarabi,h,186,OpenPlay,2014,RightFoot,5460,Bayer Leverkusen,Hertha Berlin,4,2,2014-08-30 14:30:00,Son Heung-Min,Chipped
+24585,37,SavedShot,0.8030000305175782,0.49700000762939456,0.01323730032891035,Karim Bellarabi,h,186,OpenPlay,2014,RightFoot,5460,Bayer Leverkusen,Hertha Berlin,4,2,2014-08-30 14:30:00,Stefan Kießling,Aerial
+24588,41,MissedShots,0.8569999694824219,0.28,0.029312999919056892,Karim Bellarabi,h,186,OpenPlay,2014,RightFoot,5460,Bayer Leverkusen,Hertha Berlin,4,2,2014-08-30 14:30:00,Tin Jedvaj,Pass
+24598,73,ShotOnPost,0.955,0.34200000762939453,0.0674000009894371,Karim Bellarabi,h,186,OpenPlay,2014,RightFoot,5460,Bayer Leverkusen,Hertha Berlin,4,2,2014-08-30 14:30:00,Giulio Donati,TakeOn
+24601,79,BlockedShot,0.7919999694824219,0.29100000381469726,0.025309499353170395,Karim Bellarabi,h,186,FromCorner,2014,RightFoot,5460,Bayer Leverkusen,Hertha Berlin,4,2,2014-08-30 14:30:00,Hakan Calhanoglu,Cross
+24602,85,Goal,0.9030000305175782,0.34799999237060547,0.30280500650405884,Karim Bellarabi,h,186,OpenPlay,2014,RightFoot,5460,Bayer Leverkusen,Hertha Berlin,4,2,2014-08-30 14:30:00,Hakan Calhanoglu,Cross
+24836,20,SavedShot,0.794000015258789,0.28600000381469726,0.029552500694990158,Karim Bellarabi,h,186,OpenPlay,2014,RightFoot,5411,Bayer Leverkusen,Werder Bremen,3,3,2014-09-12 19:30:00,Gonzalo Castro,BallRecovery
+24843,32,SavedShot,0.92,0.36,0.2977930009365082,Karim Bellarabi,h,186,OpenPlay,2014,LeftFoot,5411,Bayer Leverkusen,Werder Bremen,3,3,2014-09-12 19:30:00,Lars Bender,Pass
+24846,34,MissedShots,0.8169999694824219,0.46,0.06125950068235397,Karim Bellarabi,h,186,OpenPlay,2014,RightFoot,5411,Bayer Leverkusen,Werder Bremen,3,3,2014-09-12 19:30:00,,Rebound
+25051,13,MissedShots,0.799000015258789,0.3089999961853027,0.011537300422787666,Karim Bellarabi,a,186,OpenPlay,2014,RightFoot,5427,Wolfsburg,Bayer Leverkusen,4,1,2014-09-21 14:30:00,,Aerial
+25071,64,BlockedShot,0.8080000305175781,0.29700000762939455,0.024911200627684593,Karim Bellarabi,a,186,OpenPlay,2014,LeftFoot,5427,Wolfsburg,Bayer Leverkusen,4,1,2014-09-21 14:30:00,Josip Drmic,Pass
+25072,64,MissedShots,0.76,0.355,0.0229652002453804,Karim Bellarabi,a,186,OpenPlay,2014,RightFoot,5427,Wolfsburg,Bayer Leverkusen,4,1,2014-09-21 14:30:00,Tin Jedvaj,TakeOn
+25340,57,BlockedShot,0.9009999847412109,0.3970000076293945,0.07521689683198929,Karim Bellarabi,h,186,FromCorner,2014,RightFoot,5434,Bayer Leverkusen,Augsburg,1,0,2014-09-24 19:00:00,,None
+25598,63,SavedShot,0.8580000305175781,0.48,0.19277900457382202,Karim Bellarabi,a,186,OpenPlay,2014,LeftFoot,5439,Freiburg,Bayer Leverkusen,0,0,2014-09-27 14:30:00,Stefan Reinartz,TakeOn
+25605,72,SavedShot,0.8219999694824218,0.4229999923706055,0.05799010023474693,Karim Bellarabi,a,186,OpenPlay,2014,RightFoot,5439,Freiburg,Bayer Leverkusen,0,0,2014-09-27 14:30:00,Lars Bender,Interception
+25785,39,SavedShot,0.7859999847412109,0.32799999237060545,0.014231500215828419,Karim Bellarabi,h,186,FromCorner,2014,RightFoot,5387,Bayer Leverkusen,Paderborn,2,2,2014-10-04 14:30:00,,Aerial
+25788,41,SavedShot,0.764000015258789,0.3920000076293945,0.039481598883867264,Karim Bellarabi,h,186,OpenPlay,2014,RightFoot,5387,Bayer Leverkusen,Paderborn,2,2,2014-10-04 14:30:00,Son Heung-Min,Pass
+25790,45,SavedShot,0.7380000305175781,0.45799999237060546,0.0424887016415596,Karim Bellarabi,h,186,OpenPlay,2014,RightFoot,5387,Bayer Leverkusen,Paderborn,2,2,2014-10-04 14:30:00,Lars Bender,Pass
+25793,55,BlockedShot,0.9159999847412109,0.649000015258789,0.06762830168008804,Karim Bellarabi,h,186,OpenPlay,2014,RightFoot,5387,Bayer Leverkusen,Paderborn,2,2,2014-10-04 14:30:00,,None
+25797,67,BlockedShot,0.8219999694824218,0.325,0.03410949930548668,Karim Bellarabi,h,186,OpenPlay,2014,RightFoot,5387,Bayer Leverkusen,Paderborn,2,2,2014-10-04 14:30:00,Levin Öztunali,Pass
+25805,88,BlockedShot,0.865999984741211,0.735999984741211,0.029641300439834595,Karim Bellarabi,h,186,OpenPlay,2014,RightFoot,5387,Bayer Leverkusen,Paderborn,2,2,2014-10-04 14:30:00,Wendell,Pass
+25806,89,Goal,0.92,0.33599998474121096,0.07212790101766586,Karim Bellarabi,h,186,OpenPlay,2014,RightFoot,5387,Bayer Leverkusen,Paderborn,2,2,2014-10-04 14:30:00,Robbie Kruse,Pass
+26094,25,SavedShot,0.8030000305175782,0.41,0.06899569928646088,Karim Bellarabi,a,186,OpenPlay,2014,RightFoot,5396,VfB Stuttgart,Bayer Leverkusen,3,3,2014-10-18 14:30:00,Stefan Kießling,HeadPass
+26100,37,MissedShots,0.845999984741211,0.3370000076293945,0.38017699122428894,Karim Bellarabi,a,186,OpenPlay,2014,RightFoot,5396,VfB Stuttgart,Bayer Leverkusen,3,3,2014-10-18 14:30:00,Stefan Reinartz,Throughball
+26101,40,Goal,0.8580000305175781,0.37900001525878907,0.125232994556427,Karim Bellarabi,a,186,OpenPlay,2014,LeftFoot,5396,VfB Stuttgart,Bayer Leverkusen,3,3,2014-10-18 14:30:00,Son Heung-Min,TakeOn
+26102,41,BlockedShot,0.894000015258789,0.3039999961853027,0.07389789819717407,Karim Bellarabi,a,186,OpenPlay,2014,RightFoot,5396,VfB Stuttgart,Bayer Leverkusen,3,3,2014-10-18 14:30:00,Julian Brandt,Pass
+26106,59,BlockedShot,0.879000015258789,0.4809999847412109,0.1371619999408722,Karim Bellarabi,a,186,OpenPlay,2014,RightFoot,5396,VfB Stuttgart,Bayer Leverkusen,3,3,2014-10-18 14:30:00,Stefan Kießling,Pass
+26215,2,BlockedShot,0.9119999694824219,0.255,0.041645199060440063,Karim Bellarabi,h,186,OpenPlay,2014,LeftFoot,5407,Bayer Leverkusen,Schalke 04,1,0,2014-10-25 17:30:00,Giulio Donati,BallRecovery
+26218,11,MissedShots,0.7169999694824218,0.19799999237060548,0.007876349613070488,Karim Bellarabi,h,186,OpenPlay,2014,RightFoot,5407,Bayer Leverkusen,Schalke 04,1,0,2014-10-25 17:30:00,Ömer Toprak,HeadPass
+26225,44,SavedShot,0.740999984741211,0.40599998474121096,0.020440800115466118,Karim Bellarabi,h,186,OpenPlay,2014,RightFoot,5407,Bayer Leverkusen,Schalke 04,1,0,2014-10-25 17:30:00,Son Heung-Min,Pass
+26230,54,MissedShots,0.865999984741211,0.7780000305175782,0.030017200857400894,Karim Bellarabi,h,186,OpenPlay,2014,RightFoot,5407,Bayer Leverkusen,Schalke 04,1,0,2014-10-25 17:30:00,Lars Bender,Pass
+26232,62,BlockedShot,0.895,0.7080000305175781,0.051876001060009,Karim Bellarabi,h,186,OpenPlay,2014,RightFoot,5407,Bayer Leverkusen,Schalke 04,1,0,2014-10-25 17:30:00,Son Heung-Min,Chipped
+26238,75,MissedShots,0.7909999847412109,0.6759999847412109,0.03673819825053215,Karim Bellarabi,h,186,OpenPlay,2014,RightFoot,5407,Bayer Leverkusen,Schalke 04,1,0,2014-10-25 17:30:00,Wendell,TakeOn
+26241,89,BlockedShot,0.7959999847412109,0.5779999923706055,0.05281839892268181,Karim Bellarabi,h,186,OpenPlay,2014,RightFoot,5407,Bayer Leverkusen,Schalke 04,1,0,2014-10-25 17:30:00,Stefan Kießling,Pass
+26645,93,ShotOnPost,0.9069999694824219,0.6079999923706054,0.14674699306488037,Karim Bellarabi,a,186,OpenPlay,2014,RightFoot,5351,Hamburger SV,Bayer Leverkusen,1,0,2014-11-01 14:30:00,Hakan Calhanoglu,TakeOn
+26717,9,MissedShots,0.895,0.24399999618530274,0.029471799731254578,Karim Bellarabi,h,186,OpenPlay,2014,RightFoot,5359,Bayer Leverkusen,Mainz 05,0,0,2014-11-08 14:30:00,Son Heung-Min,Pass
+26721,28,BlockedShot,0.835999984741211,0.6869999694824219,0.030575599521398544,Karim Bellarabi,h,186,FromCorner,2014,RightFoot,5359,Bayer Leverkusen,Mainz 05,0,0,2014-11-08 14:30:00,Hakan Calhanoglu,Cross
+26724,34,MissedShots,0.9069999694824219,0.7090000152587891,0.033200401812791824,Karim Bellarabi,h,186,FromCorner,2014,RightFoot,5359,Bayer Leverkusen,Mainz 05,0,0,2014-11-08 14:30:00,Julian Brandt,Pass
+26734,58,MissedShots,0.835999984741211,0.4470000076293945,0.05442040041089058,Karim Bellarabi,h,186,FromCorner,2014,RightFoot,5359,Bayer Leverkusen,Mainz 05,0,0,2014-11-08 14:30:00,Stefan Kießling,LayOff
+26737,62,SavedShot,0.8719999694824219,0.41900001525878905,0.454257994890213,Karim Bellarabi,h,186,OpenPlay,2014,LeftFoot,5359,Bayer Leverkusen,Mainz 05,0,0,2014-11-08 14:30:00,,TakeOn
+26741,80,BlockedShot,0.89,0.3270000076293945,0.044099099934101105,Karim Bellarabi,h,186,FromCorner,2014,RightFoot,5359,Bayer Leverkusen,Mainz 05,0,0,2014-11-08 14:30:00,,None
+27036,24,MissedShots,0.860999984741211,0.539000015258789,0.3152160048484802,Karim Bellarabi,a,186,OpenPlay,2014,LeftFoot,5369,Hannover 96,Bayer Leverkusen,1,3,2014-11-22 14:30:00,Stefan Kießling,Pass
+27048,55,BlockedShot,0.885,0.27700000762939453,0.05172260105609894,Karim Bellarabi,a,186,OpenPlay,2014,RightFoot,5369,Hannover 96,Bayer Leverkusen,1,3,2014-11-22 14:30:00,Sebastian Boenisch,Chipped
+27049,57,BlockedShot,0.7619999694824219,0.5940000152587891,0.03070960007607937,Karim Bellarabi,a,186,OpenPlay,2014,RightFoot,5369,Hannover 96,Bayer Leverkusen,1,3,2014-11-22 14:30:00,Sebastian Boenisch,Pass
+27054,62,BlockedShot,0.8780000305175781,0.40799999237060547,0.1028050035238266,Karim Bellarabi,a,186,OpenPlay,2014,LeftFoot,5369,Hannover 96,Bayer Leverkusen,1,3,2014-11-22 14:30:00,,BallTouch
+27058,70,Goal,0.8419999694824218,0.40200000762939453,0.49718600511550903,Karim Bellarabi,a,186,OpenPlay,2014,RightFoot,5369,Hannover 96,Bayer Leverkusen,1,3,2014-11-22 14:30:00,Roberto Hilbert,Throughball
+27503,25,Goal,0.9330000305175781,0.47,0.5847390294075012,Karim Bellarabi,h,186,SetPiece,2014,RightFoot,5377,Bayer Leverkusen,FC Cologne,5,1,2014-11-29 14:30:00,,Rebound
+27511,42,MissedShots,0.7759999847412109,0.565,0.02949099987745285,Karim Bellarabi,h,186,FromCorner,2014,RightFoot,5377,Bayer Leverkusen,FC Cologne,5,1,2014-11-29 14:30:00,Hakan Calhanoglu,Cross
+27518,65,SavedShot,0.870999984741211,0.6790000152587891,0.08159829676151276,Karim Bellarabi,h,186,OpenPlay,2014,RightFoot,5377,Bayer Leverkusen,FC Cologne,5,1,2014-11-29 14:30:00,Lars Bender,TakeOn
+27526,89,Goal,0.9530000305175781,0.6409999847412109,0.2930159866809845,Karim Bellarabi,h,186,OpenPlay,2014,RightFoot,5377,Bayer Leverkusen,FC Cologne,5,1,2014-11-29 14:30:00,Josip Drmic,Pass
+27235,2,BlockedShot,0.8580000305175781,0.500999984741211,0.368492990732193,Karim Bellarabi,a,186,OpenPlay,2014,RightFoot,5318,Bayern Munich,Bayer Leverkusen,1,0,2014-12-06 17:30:00,,None
+27239,26,MissedShots,0.740999984741211,0.840999984741211,0.00788808986544609,Karim Bellarabi,a,186,OpenPlay,2014,RightFoot,5318,Bayern Munich,Bayer Leverkusen,1,0,2014-12-06 17:30:00,Gonzalo Castro,Chipped
+27853,9,SavedShot,0.7730000305175782,0.639000015258789,0.0199350006878376,Karim Bellarabi,h,186,SetPiece,2014,RightFoot,5328,Bayer Leverkusen,Borussia M.Gladbach,1,1,2014-12-14 14:30:00,Tin Jedvaj,Pass
+27854,10,MissedShots,0.855,0.40599998474121096,0.10426399856805801,Karim Bellarabi,h,186,OpenPlay,2014,LeftFoot,5328,Bayer Leverkusen,Borussia M.Gladbach,1,1,2014-12-14 14:30:00,Stefan Kießling,LayOff
+27860,35,SavedShot,0.799000015258789,0.6990000152587891,0.030580200254917145,Karim Bellarabi,h,186,OpenPlay,2014,RightFoot,5328,Bayer Leverkusen,Borussia M.Gladbach,1,1,2014-12-14 14:30:00,Hakan Calhanoglu,Pass
+27875,77,BlockedShot,0.8730000305175781,0.7419999694824219,0.025122100487351418,Karim Bellarabi,h,186,FromCorner,2014,RightFoot,5328,Bayer Leverkusen,Borussia M.Gladbach,1,1,2014-12-14 14:30:00,Stefan Kießling,BallTouch
+27748,77,SavedShot,0.865999984741211,0.639000015258789,0.21668200194835663,Karim Bellarabi,a,186,OpenPlay,2014,RightFoot,5337,Hoffenheim,Bayer Leverkusen,0,1,2014-12-17 19:00:00,Stefan Kießling,Pass
+27754,91,BlockedShot,0.37799999237060544,0.5820000076293945,0.008782549761235714,Karim Bellarabi,a,186,OpenPlay,2014,RightFoot,5337,Hoffenheim,Bayer Leverkusen,0,1,2014-12-17 19:00:00,Stefan Kießling,HeadPass
+28021,61,MissedShots,0.7240000152587891,0.5429999923706055,0.01789739914238453,Karim Bellarabi,h,186,OpenPlay,2014,RightFoot,5343,Bayer Leverkusen,Eintracht Frankfurt,1,1,2014-12-20 14:30:00,Hakan Calhanoglu,Pass
+28027,82,Goal,0.8680000305175781,0.31,0.042450301349163055,Karim Bellarabi,h,186,OpenPlay,2014,RightFoot,5343,Bayer Leverkusen,Eintracht Frankfurt,1,1,2014-12-20 14:30:00,Lars Bender,Pass
+28028,86,BlockedShot,0.7559999847412109,0.6120000076293945,0.024666400626301765,Karim Bellarabi,h,186,OpenPlay,2014,RightFoot,5343,Bayer Leverkusen,Eintracht Frankfurt,1,1,2014-12-20 14:30:00,Wendell,TakeOn
+29716,24,MissedShots,0.8040000152587891,0.3340000152587891,0.015447399578988552,Karim Bellarabi,a,186,FromCorner,2014,RightFoot,5278,Werder Bremen,Bayer Leverkusen,2,1,2015-02-08 14:30:00,,Aerial
+29721,34,BlockedShot,0.8290000152587891,0.44299999237060544,0.04591260105371475,Karim Bellarabi,a,186,FromCorner,2014,RightFoot,5278,Werder Bremen,Bayer Leverkusen,2,1,2015-02-08 14:30:00,,None
+29729,56,BlockedShot,0.8680000305175781,0.3770000076293945,0.07182169705629349,Karim Bellarabi,a,186,OpenPlay,2014,LeftFoot,5278,Werder Bremen,Bayer Leverkusen,2,1,2015-02-08 14:30:00,Son Heung-Min,Pass
+29730,56,BlockedShot,0.889000015258789,0.36900001525878906,0.06160169839859009,Karim Bellarabi,a,186,OpenPlay,2014,RightFoot,5278,Werder Bremen,Bayer Leverkusen,2,1,2015-02-08 14:30:00,Son Heung-Min,BallTouch
+29732,71,MissedShots,0.9630000305175781,0.38599998474121094,0.08317259699106216,Karim Bellarabi,a,186,OpenPlay,2014,RightFoot,5278,Werder Bremen,Bayer Leverkusen,2,1,2015-02-08 14:30:00,,Rebound
+28988,2,SavedShot,0.8419999694824218,0.41900001525878905,0.10102800279855728,Karim Bellarabi,h,186,OpenPlay,2014,LeftFoot,5282,Bayer Leverkusen,Wolfsburg,4,5,2015-02-14 14:30:00,Stefan Kießling,Pass
+28993,18,MissedShots,0.8959999847412109,0.34,0.23628300428390503,Karim Bellarabi,h,186,OpenPlay,2014,RightFoot,5282,Bayer Leverkusen,Wolfsburg,4,5,2015-02-14 14:30:00,Hakan Calhanoglu,Pass
+29000,54,MissedShots,0.754000015258789,0.7330000305175781,0.009802370332181454,Karim Bellarabi,h,186,OpenPlay,2014,RightFoot,5282,Bayer Leverkusen,Wolfsburg,4,5,2015-02-14 14:30:00,Julian Brandt,Pass
+29001,56,SavedShot,0.875,0.33,0.06554149836301804,Karim Bellarabi,h,186,OpenPlay,2014,RightFoot,5282,Bayer Leverkusen,Wolfsburg,4,5,2015-02-14 14:30:00,Simon Rolfes,Pass
+29009,71,Goal,0.8719999694824219,0.45799999237060546,0.3916020095348358,Karim Bellarabi,h,186,OpenPlay,2014,RightFoot,5282,Bayer Leverkusen,Wolfsburg,4,5,2015-02-14 14:30:00,,None
+29228,3,MissedShots,0.8930000305175781,0.29100000381469726,0.04569900035858154,Karim Bellarabi,a,186,OpenPlay,2014,RightFoot,5291,Augsburg,Bayer Leverkusen,2,2,2015-02-21 14:30:00,,TakeOn
+29229,6,SavedShot,0.7469999694824219,0.6,0.019731000065803528,Karim Bellarabi,a,186,OpenPlay,2014,RightFoot,5291,Augsburg,Bayer Leverkusen,2,2,2015-02-21 14:30:00,Simon Rolfes,Pass
+29232,10,SavedShot,0.8930000305175781,0.6719999694824219,0.07817240059375763,Karim Bellarabi,a,186,OpenPlay,2014,RightFoot,5291,Augsburg,Bayer Leverkusen,2,2,2015-02-21 14:30:00,,TakeOn
+29233,21,SavedShot,0.88,0.57,0.37011098861694336,Karim Bellarabi,a,186,OpenPlay,2014,RightFoot,5291,Augsburg,Bayer Leverkusen,2,2,2015-02-21 14:30:00,Son Heung-Min,Throughball
+29243,54,SavedShot,0.8719999694824219,0.33,0.07155299931764603,Karim Bellarabi,a,186,OpenPlay,2014,RightFoot,5291,Augsburg,Bayer Leverkusen,2,2,2015-02-21 14:30:00,Simon Rolfes,TakeOn
+29245,59,SavedShot,0.755,0.46099998474121096,0.02318679913878441,Karim Bellarabi,a,186,OpenPlay,2014,RightFoot,5291,Augsburg,Bayer Leverkusen,2,2,2015-02-21 14:30:00,Wendell,Pass
+29255,79,MissedShots,0.875999984741211,0.3189999961853027,0.05176300182938576,Karim Bellarabi,a,186,OpenPlay,2014,LeftFoot,5291,Augsburg,Bayer Leverkusen,2,2,2015-02-21 14:30:00,Simon Rolfes,Pass
+28980,46,MissedShots,0.6270000076293946,0.27700000762939453,0.00980393961071968,Karim Bellarabi,h,186,OpenPlay,2014,RightFoot,5300,Bayer Leverkusen,Freiburg,1,0,2015-02-28 14:30:00,,BallRecovery
+30550,0,MissedShots,0.9309999847412109,0.23,0.030629800632596016,Karim Bellarabi,a,186,OpenPlay,2014,RightFoot,5241,Paderborn,Bayer Leverkusen,0,3,2015-03-08 16:30:00,Stefan Reinartz,Pass
+30557,52,SavedShot,0.9690000152587891,0.9419999694824219,0.015844399109482765,Karim Bellarabi,a,186,FromCorner,2014,RightFoot,5241,Paderborn,Bayer Leverkusen,0,3,2015-03-08 16:30:00,Son Heung-Min,Pass
+30562,76,BlockedShot,0.8930000305175781,0.7469999694824219,0.04527590051293373,Karim Bellarabi,a,186,OpenPlay,2014,RightFoot,5241,Paderborn,Bayer Leverkusen,0,3,2015-03-08 16:30:00,Stefan Kießling,Pass
+30747,49,Goal,0.8619999694824219,0.3120000076293945,0.07450670003890991,Karim Bellarabi,h,186,OpenPlay,2014,RightFoot,5242,Bayer Leverkusen,VfB Stuttgart,4,0,2015-03-13 19:30:00,Gonzalo Castro,TakeOn
+30749,52,MissedShots,0.8880000305175781,0.635,0.06052539870142937,Karim Bellarabi,h,186,OpenPlay,2014,RightFoot,5242,Bayer Leverkusen,VfB Stuttgart,4,0,2015-03-13 19:30:00,,Rebound
+31672,16,SavedShot,0.8530000305175781,0.3220000076293945,0.04529089853167534,Karim Bellarabi,a,186,OpenPlay,2014,RightFoot,5257,Schalke 04,Bayer Leverkusen,0,1,2015-03-21 17:30:00,Julian Brandt,Pass
+31674,26,BlockedShot,0.799000015258789,0.38799999237060545,0.03504829853773117,Karim Bellarabi,a,186,OpenPlay,2014,RightFoot,5257,Schalke 04,Bayer Leverkusen,0,1,2015-03-21 17:30:00,Simon Rolfes,Pass
+31677,34,Goal,0.9569999694824218,0.67,0.06170149892568588,Karim Bellarabi,a,186,OpenPlay,2014,RightFoot,5257,Schalke 04,Bayer Leverkusen,0,1,2015-03-21 17:30:00,Simon Rolfes,Pass
+31679,39,BlockedShot,0.799000015258789,0.565,0.05580189824104309,Karim Bellarabi,a,186,OpenPlay,2014,RightFoot,5257,Schalke 04,Bayer Leverkusen,0,1,2015-03-21 17:30:00,Wendell,Pass
+31693,82,MissedShots,0.85,0.5459999847412109,0.3672490119934082,Karim Bellarabi,a,186,OpenPlay,2014,RightFoot,5257,Schalke 04,Bayer Leverkusen,0,1,2015-03-21 17:30:00,Gonzalo Castro,Pass
+31696,91,MissedShots,0.8769999694824219,0.39799999237060546,0.07421760261058807,Karim Bellarabi,a,186,SetPiece,2014,RightFoot,5257,Schalke 04,Bayer Leverkusen,0,1,2015-03-21 17:30:00,,Rebound
+32289,16,BlockedShot,0.85,0.49,0.06838420033454895,Karim Bellarabi,h,186,OpenPlay,2014,RightFoot,5199,Bayer Leverkusen,Hamburger SV,4,0,2015-04-04 14:30:00,Gonzalo Castro,Cross
+32290,27,SavedShot,0.815,0.375,0.0511430986225605,Karim Bellarabi,h,186,OpenPlay,2014,RightFoot,5199,Bayer Leverkusen,Hamburger SV,4,0,2015-04-04 14:30:00,Gonzalo Castro,Pass
+32309,74,MissedShots,0.7080000305175781,0.5209999847412109,0.008720080368220806,Karim Bellarabi,h,186,SetPiece,2014,RightFoot,5199,Bayer Leverkusen,Hamburger SV,4,0,2015-04-04 14:30:00,,Aerial
+31746,85,BlockedShot,0.89,0.3340000152587891,0.11341500282287598,Karim Bellarabi,h,186,OpenPlay,2014,RightFoot,5218,Bayer Leverkusen,Hannover 96,4,0,2015-04-18 14:30:00,Gonzalo Castro,Pass
+30485,31,BlockedShot,0.76,0.649000015258789,0.033615998923778534,Karim Bellarabi,h,186,OpenPlay,2014,RightFoot,5165,Bayer Leverkusen,Bayern Munich,2,0,2015-05-02 17:30:00,,None
+30188,43,MissedShots,0.7919999694824219,0.4159999847412109,0.03636439889669418,Karim Bellarabi,h,186,OpenPlay,2014,RightFoot,5178,Bayer Leverkusen,Hoffenheim,2,0,2015-05-16 14:30:00,Simon Rolfes,TakeOn
+30201,93,MissedShots,0.8580000305175781,0.40599998474121096,0.11014000326395035,Karim Bellarabi,h,186,OpenPlay,2014,RightFoot,5178,Bayer Leverkusen,Hoffenheim,2,0,2015-05-16 14:30:00,Sebastian Boenisch,Pass
+31526,5,Goal,0.715999984741211,0.3920000076293945,0.016670800745487213,Karim Bellarabi,a,186,OpenPlay,2014,RightFoot,5188,Eintracht Frankfurt,Bayer Leverkusen,2,1,2015-05-23 14:30:00,Julian Brandt,Pass
+31531,24,MissedShots,0.855,0.639000015258789,0.055590301752090454,Karim Bellarabi,a,186,OpenPlay,2014,RightFoot,5188,Eintracht Frankfurt,Bayer Leverkusen,2,1,2015-05-23 14:30:00,Hakan Calhanoglu,Chipped
+31550,91,MissedShots,0.884000015258789,0.57,0.07100860029459,Karim Bellarabi,a,186,OpenPlay,2014,RightFoot,5188,Eintracht Frankfurt,Bayer Leverkusen,2,1,2015-05-23 14:30:00,,None
+76530,41,BlockedShot,0.740999984741211,0.4570000076293945,0.017387500032782555,Karim Bellarabi,a,186,OpenPlay,2015,RightFoot,1045,Bayern Munich,Bayer Leverkusen,3,0,2015-08-29 20:30:00,,None
+76534,52,SavedShot,0.8569999694824219,0.7240000152587891,0.053391799330711365,Karim Bellarabi,a,186,OpenPlay,2015,RightFoot,1045,Bayern Munich,Bayer Leverkusen,3,0,2015-08-29 20:30:00,Stefan Kießling,Pass
+76544,86,BlockedShot,0.850999984741211,0.44299999237060544,0.10666699707508087,Karim Bellarabi,a,186,OpenPlay,2015,RightFoot,1045,Bayern Munich,Bayer Leverkusen,3,0,2015-08-29 20:30:00,,BallRecovery
+76812,30,MissedShots,0.9119999694824219,0.315,0.05036479979753494,Karim Bellarabi,h,186,OpenPlay,2015,RightFoot,1053,Bayer Leverkusen,Darmstadt,0,1,2015-09-12 17:30:00,Wendell,Rebound
+76817,47,SavedShot,0.8030000305175782,0.715,0.023839300498366356,Karim Bellarabi,h,186,OpenPlay,2015,RightFoot,1053,Bayer Leverkusen,Darmstadt,0,1,2015-09-12 17:30:00,Kyriakos Papadopoulos,Pass
+76825,82,SavedShot,0.81,0.46,0.05142569914460182,Karim Bellarabi,h,186,OpenPlay,2015,RightFoot,1053,Bayer Leverkusen,Darmstadt,0,1,2015-09-12 17:30:00,Wendell,TakeOn
+76984,38,MissedShots,0.6819999694824219,0.44299999237060544,0.015078900381922722,Karim Bellarabi,a,186,OpenPlay,2015,RightFoot,1065,Borussia Dortmund,Bayer Leverkusen,3,0,2015-09-20 19:30:00,Jonathan Tah,Pass
+76991,67,MissedShots,0.7880000305175782,0.41700000762939454,0.043932098895311356,Karim Bellarabi,a,186,OpenPlay,2015,RightFoot,1065,Borussia Dortmund,Bayer Leverkusen,3,0,2015-09-20 19:30:00,Kevin Kampl,TakeOn
+77275,37,SavedShot,0.895,0.27299999237060546,0.03940830007195473,Karim Bellarabi,h,186,OpenPlay,2015,RightFoot,1072,Bayer Leverkusen,Mainz 05,1,0,2015-09-23 22:00:00,Hakan Calhanoglu,Pass
+77597,49,SavedShot,0.855,0.27100000381469724,0.03990690037608147,Karim Bellarabi,a,186,OpenPlay,2015,LeftFoot,1079,Werder Bremen,Bayer Leverkusen,0,3,2015-09-26 17:30:00,Christoph Kramer,Pass
+77751,38,Goal,0.9169999694824219,0.445,0.4569869935512543,Karim Bellarabi,h,186,OpenPlay,2015,RightFoot,1091,Bayer Leverkusen,Augsburg,1,1,2015-10-04 19:30:00,,Rebound
+77759,53,MissedShots,0.7440000152587891,0.49700000762939456,0.021050600335001945,Karim Bellarabi,h,186,OpenPlay,2015,RightFoot,1091,Bayer Leverkusen,Augsburg,1,1,2015-10-04 19:30:00,,BallTouch
+77984,26,BlockedShot,0.865999984741211,0.3270000076293945,0.053131598979234695,Karim Bellarabi,a,186,OpenPlay,2015,LeftFoot,1098,Hamburger SV,Bayer Leverkusen,0,0,2015-10-17 17:30:00,Julian Brandt,Pass
+78213,56,Goal,0.9,0.33,0.05308390036225319,Karim Bellarabi,h,186,SetPiece,2015,RightFoot,1106,Bayer Leverkusen,VfB Stuttgart,4,3,2015-10-24 17:30:00,,None
+78215,60,SavedShot,0.740999984741211,0.605,0.011272599920630455,Karim Bellarabi,h,186,OpenPlay,2015,RightFoot,1106,Bayer Leverkusen,VfB Stuttgart,4,3,2015-10-24 17:30:00,,None
+78217,61,MissedShots,0.9119999694824219,0.38,0.2962769865989685,Karim Bellarabi,h,186,OpenPlay,2015,LeftFoot,1106,Bayer Leverkusen,VfB Stuttgart,4,3,2015-10-24 17:30:00,,Rebound
+78424,28,MissedShots,0.9259999847412109,0.2620000076293945,0.05628969892859459,Karim Bellarabi,a,186,OpenPlay,2015,RightFoot,1117,Wolfsburg,Bayer Leverkusen,2,1,2015-10-31 21:30:00,Kevin Kampl,Pass
+78443,87,SavedShot,0.965999984741211,0.325,0.05809750035405159,Karim Bellarabi,a,186,OpenPlay,2015,RightFoot,1117,Wolfsburg,Bayer Leverkusen,2,1,2015-10-31 21:30:00,Julian Brandt,TakeOn
+78444,90,MissedShots,0.7219999694824218,0.6630000305175782,0.015601900406181812,Karim Bellarabi,a,186,OpenPlay,2015,RightFoot,1117,Wolfsburg,Bayer Leverkusen,2,1,2015-10-31 21:30:00,Ömer Toprak,Pass
+78690,15,MissedShots,0.9019999694824219,0.27100000381469724,0.027987100183963776,Karim Bellarabi,h,186,SetPiece,2015,RightFoot,1123,Bayer Leverkusen,FC Cologne,1,2,2015-11-07 18:30:00,Ömer Toprak,HeadPass
+78693,21,SavedShot,0.9640000152587891,0.35700000762939454,0.05638030171394348,Karim Bellarabi,h,186,OpenPlay,2015,RightFoot,1123,Bayer Leverkusen,FC Cologne,1,2,2015-11-07 18:30:00,Sebastian Boenisch,Pass
+78694,22,BlockedShot,0.6990000152587891,0.5029999923706054,0.01920589990913868,Karim Bellarabi,h,186,FromCorner,2015,RightFoot,1123,Bayer Leverkusen,FC Cologne,1,2,2015-11-07 18:30:00,Admir Mehmedi,Pass
+79027,50,MissedShots,0.779000015258789,0.2670000076293945,0.04722119867801666,Karim Bellarabi,a,186,OpenPlay,2015,RightFoot,1131,Eintracht Frankfurt,Bayer Leverkusen,1,3,2015-11-21 18:30:00,Ömer Toprak,BallRecovery
+79156,31,ShotOnPost,0.965999984741211,0.345,0.3468579947948456,Karim Bellarabi,h,186,OpenPlay,2015,RightFoot,1145,Bayer Leverkusen,Schalke 04,1,1,2015-11-29 20:30:00,Kevin Kampl,TakeOn
+79161,42,MissedShots,0.9619999694824218,0.4620000076293945,0.6077510118484497,Karim Bellarabi,h,186,OpenPlay,2015,RightFoot,1145,Bayer Leverkusen,Schalke 04,1,1,2015-11-29 20:30:00,Kevin Kampl,Cross
+79163,54,BlockedShot,0.8159999847412109,0.595999984741211,0.06922519952058792,Karim Bellarabi,h,186,OpenPlay,2015,RightFoot,1145,Bayer Leverkusen,Schalke 04,1,1,2015-11-29 20:30:00,Admir Mehmedi,Pass
+79655,32,SavedShot,0.85,0.4520000076293945,0.06311559677124023,Karim Bellarabi,h,186,SetPiece,2015,RightFoot,1162,Bayer Leverkusen,Borussia M.Gladbach,5,0,2015-12-12 21:30:00,,None
+79661,55,MissedShots,0.9440000152587891,0.31,0.07221420109272003,Karim Bellarabi,h,186,OpenPlay,2015,RightFoot,1162,Bayer Leverkusen,Borussia M.Gladbach,5,0,2015-12-12 21:30:00,Stefan Kießling,HeadPass
+79668,87,MissedShots,0.8069999694824219,0.43900001525878907,0.10281900316476822,Karim Bellarabi,h,186,OpenPlay,2015,RightFoot,1162,Bayer Leverkusen,Borussia M.Gladbach,5,0,2015-12-12 21:30:00,Stefan Kießling,Pass
+79669,90,BlockedShot,0.7580000305175781,0.42200000762939455,0.053960900753736496,Karim Bellarabi,h,186,OpenPlay,2015,RightFoot,1162,Bayer Leverkusen,Borussia M.Gladbach,5,0,2015-12-12 21:30:00,Christoph Kramer,Chipped
+80048,64,MissedShots,0.769000015258789,0.355,0.014266599901020527,Karim Bellarabi,a,186,SetPiece,2015,RightFoot,1166,Ingolstadt,Bayer Leverkusen,0,1,2015-12-19 18:30:00,,None
+80343,1,MissedShots,0.7919999694824219,0.4279999923706055,0.02395780012011528,Karim Bellarabi,h,186,SetPiece,2015,RightFoot,1186,Bayer Leverkusen,Hannover 96,3,0,2016-01-30 18:30:00,,Rebound
+80356,51,MissedShots,0.8380000305175781,0.59,0.04027159884572029,Karim Bellarabi,h,186,FromCorner,2015,LeftFoot,1186,Bayer Leverkusen,Hannover 96,3,0,2016-01-30 18:30:00,Christoph Kramer,Pass
+80357,53,MissedShots,0.795,0.38599998474121094,0.024107500910758972,Karim Bellarabi,h,186,SetPiece,2015,RightFoot,1186,Bayer Leverkusen,Hannover 96,3,0,2016-01-30 18:30:00,,None
+80957,35,MissedShots,0.8959999847412109,0.6090000152587891,0.05947339907288551,Karim Bellarabi,a,186,OpenPlay,2015,RightFoot,1202,Darmstadt,Bayer Leverkusen,1,2,2016-02-13 18:30:00,Tin Jedvaj,Cross
+80959,44,BlockedShot,0.9030000305175782,0.6840000152587891,0.059380900114774704,Karim Bellarabi,a,186,OpenPlay,2015,RightFoot,1202,Darmstadt,Bayer Leverkusen,1,2,2016-02-13 18:30:00,Admir Mehmedi,Pass
+80961,46,MissedShots,0.895,0.685,0.02104179933667183,Karim Bellarabi,a,186,FromCorner,2015,LeftFoot,1202,Darmstadt,Bayer Leverkusen,1,2,2016-02-13 18:30:00,,Aerial
+80967,70,MissedShots,0.9269999694824219,0.30700000762939456,0.055464599281549454,Karim Bellarabi,a,186,OpenPlay,2015,RightFoot,1202,Darmstadt,Bayer Leverkusen,1,2,2016-02-13 18:30:00,Admir Mehmedi,Chipped
+81053,15,BlockedShot,0.8769999694824219,0.6730000305175782,0.059765301644802094,Karim Bellarabi,h,186,OpenPlay,2015,RightFoot,1216,Bayer Leverkusen,Borussia Dortmund,0,1,2016-02-21 18:30:00,,BallRecovery
+81059,50,BlockedShot,0.8569999694824219,0.6090000152587891,0.07798899710178375,Karim Bellarabi,h,186,OpenPlay,2015,RightFoot,1216,Bayer Leverkusen,Borussia Dortmund,0,1,2016-02-21 18:30:00,Chicharito,Pass
+81430,20,BlockedShot,0.76,0.5779999923706055,0.025398900732398033,Karim Bellarabi,a,186,OpenPlay,2015,RightFoot,1226,Mainz 05,Bayer Leverkusen,3,1,2016-02-28 20:30:00,Wendell,Pass
+81433,26,BlockedShot,0.7709999847412109,0.35700000762939454,0.022942999377846718,Karim Bellarabi,a,186,OpenPlay,2015,RightFoot,1226,Mainz 05,Bayer Leverkusen,3,1,2016-02-28 20:30:00,Julian Brandt,Pass
+81434,30,SavedShot,0.8969999694824219,0.825999984741211,0.022059500217437744,Karim Bellarabi,a,186,OpenPlay,2015,RightFoot,1226,Mainz 05,Bayer Leverkusen,3,1,2016-02-28 20:30:00,Wendell,Pass
+81448,82,SavedShot,0.86,0.295,0.04165500029921532,Karim Bellarabi,a,186,OpenPlay,2015,RightFoot,1226,Mainz 05,Bayer Leverkusen,3,1,2016-02-28 20:30:00,Roberto Hilbert,Pass
+81791,34,SavedShot,0.775,0.4879999923706055,0.02246999926865101,Karim Bellarabi,a,186,SetPiece,2015,LeftFoot,1238,Augsburg,Bayer Leverkusen,3,3,2016-03-05 18:30:00,,None
+81799,59,Goal,0.914000015258789,0.29700000762939455,0.04998920112848282,Karim Bellarabi,a,186,OpenPlay,2015,RightFoot,1238,Augsburg,Bayer Leverkusen,3,3,2016-03-05 18:30:00,Admir Mehmedi,Pass
+81800,62,BlockedShot,0.805,0.5179999923706055,0.05806560069322586,Karim Bellarabi,a,186,OpenPlay,2015,LeftFoot,1238,Augsburg,Bayer Leverkusen,3,3,2016-03-05 18:30:00,Julian Brandt,Pass
+82280,8,SavedShot,0.8019999694824219,0.25299999237060544,0.040929000824689865,Karim Bellarabi,a,186,OpenPlay,2015,RightFoot,1262,VfB Stuttgart,Bayer Leverkusen,0,2,2016-03-20 18:30:00,Chicharito,Pass
+82290,48,Goal,0.875,0.3370000076293945,0.3203819990158081,Karim Bellarabi,a,186,OpenPlay,2015,RightFoot,1262,VfB Stuttgart,Bayer Leverkusen,0,2,2016-03-20 18:30:00,Julian Brandt,Pass
+82294,64,BlockedShot,0.9019999694824219,0.3270000076293945,0.08415369689464569,Karim Bellarabi,a,186,OpenPlay,2015,RightFoot,1262,VfB Stuttgart,Bayer Leverkusen,0,2,2016-03-20 18:30:00,,BallRecovery
+82453,2,MissedShots,0.87,0.29700000762939455,0.039222799241542816,Karim Bellarabi,h,186,OpenPlay,2015,RightFoot,1264,Bayer Leverkusen,Wolfsburg,3,0,2016-04-01 22:30:00,Hakan Calhanoglu,Chipped
+82454,5,MissedShots,0.6990000152587891,0.5070000076293946,0.01278650015592575,Karim Bellarabi,h,186,OpenPlay,2015,RightFoot,1264,Bayer Leverkusen,Wolfsburg,3,0,2016-04-01 22:30:00,Jonathan Tah,HeadPass
+82456,9,BlockedShot,0.8980000305175782,0.27399999618530274,0.14157100021839142,Karim Bellarabi,h,186,OpenPlay,2015,RightFoot,1264,Bayer Leverkusen,Wolfsburg,3,0,2016-04-01 22:30:00,Julian Brandt,Throughball
+82766,7,MissedShots,0.8530000305175781,0.3120000076293945,0.037916600704193115,Karim Bellarabi,a,186,OpenPlay,2015,RightFoot,1281,FC Cologne,Bayer Leverkusen,0,2,2016-04-10 19:30:00,Hakan Calhanoglu,Chipped
+82771,23,BlockedShot,0.85,0.23700000762939452,0.02597990073263645,Karim Bellarabi,a,186,OpenPlay,2015,RightFoot,1281,FC Cologne,Bayer Leverkusen,0,2,2016-04-10 19:30:00,Vladlen Yurchenko,Pass
+82885,28,SavedShot,0.725,0.46900001525878904,0.014759999699890614,Karim Bellarabi,h,186,FromCorner,2015,RightFoot,1285,Bayer Leverkusen,Eintracht Frankfurt,3,0,2016-04-16 17:30:00,,None
+82888,40,SavedShot,0.7480000305175781,0.6079999923706054,0.06672780215740204,Karim Bellarabi,h,186,OpenPlay,2015,RightFoot,1285,Bayer Leverkusen,Eintracht Frankfurt,3,0,2016-04-16 17:30:00,Julian Brandt,Chipped
+82894,66,MissedShots,0.7859999847412109,0.6659999847412109,0.0488923005759716,Karim Bellarabi,h,186,OpenPlay,2015,RightFoot,1285,Bayer Leverkusen,Eintracht Frankfurt,3,0,2016-04-16 17:30:00,Vladlen Yurchenko,Pass
+82901,89,Goal,0.8090000152587891,0.6170000076293946,0.07788889855146408,Karim Bellarabi,h,186,OpenPlay,2015,RightFoot,1285,Bayer Leverkusen,Eintracht Frankfurt,3,0,2016-04-16 17:30:00,Charles Aránguiz,Chipped
+82902,92,BlockedShot,0.84,0.6580000305175782,0.06932110339403152,Karim Bellarabi,h,186,OpenPlay,2015,RightFoot,1285,Bayer Leverkusen,Eintracht Frankfurt,3,0,2016-04-16 17:30:00,Julian Brandt,Pass
+83059,39,MissedShots,0.745999984741211,0.5870000076293945,0.01624779962003231,Karim Bellarabi,a,186,FromCorner,2015,LeftFoot,1297,Schalke 04,Bayer Leverkusen,2,3,2016-04-23 20:30:00,,None
+83061,50,SavedShot,0.850999984741211,0.705,0.03989139944314957,Karim Bellarabi,a,186,OpenPlay,2015,RightFoot,1297,Schalke 04,Bayer Leverkusen,2,3,2016-04-23 20:30:00,Charles Aránguiz,BallRecovery
+83064,55,Goal,0.93,0.750999984741211,0.03184939920902252,Karim Bellarabi,a,186,OpenPlay,2015,RightFoot,1297,Schalke 04,Bayer Leverkusen,2,3,2016-04-23 20:30:00,Benjamin Henrichs,Chipped
+83072,73,SavedShot,0.8530000305175781,0.6790000152587891,0.07040739804506302,Karim Bellarabi,a,186,OpenPlay,2015,RightFoot,1297,Schalke 04,Bayer Leverkusen,2,3,2016-04-23 20:30:00,Charles Aránguiz,Pass
+83342,51,SavedShot,0.919000015258789,0.31799999237060544,0.12360899895429611,Karim Bellarabi,h,186,OpenPlay,2015,RightFoot,1307,Bayer Leverkusen,Hertha Berlin,2,1,2016-04-30 20:30:00,Hakan Calhanoglu,BallRecovery
+83345,60,MissedShots,0.8230000305175781,0.534000015258789,0.07743710279464722,Karim Bellarabi,h,186,OpenPlay,2015,RightFoot,1307,Bayer Leverkusen,Hertha Berlin,2,1,2016-04-30 20:30:00,Charles Aránguiz,Chipped
+83348,65,SavedShot,0.875,0.4,0.25512200593948364,Karim Bellarabi,h,186,OpenPlay,2015,Head,1307,Bayer Leverkusen,Hertha Berlin,2,1,2016-04-30 20:30:00,Chicharito,Chipped
+83351,75,MissedShots,0.7469999694824219,0.41200000762939454,0.025951800867915154,Karim Bellarabi,h,186,OpenPlay,2015,RightFoot,1307,Bayer Leverkusen,Hertha Berlin,2,1,2016-04-30 20:30:00,,None
+83352,79,SavedShot,0.89,0.43099998474121093,0.4463219940662384,Karim Bellarabi,h,186,OpenPlay,2015,RightFoot,1307,Bayer Leverkusen,Hertha Berlin,2,1,2016-04-30 20:30:00,Chicharito,Pass
+83873,45,MissedShots,0.9080000305175782,0.3729999923706055,0.1360429972410202,Karim Bellarabi,h,186,OpenPlay,2015,RightFoot,1323,Bayer Leverkusen,Ingolstadt,3,2,2016-05-14 17:30:00,Julian Brandt,Pass
+83884,78,BlockedShot,0.9480000305175781,0.5870000076293945,0.1462700068950653,Karim Bellarabi,h,186,OpenPlay,2015,RightFoot,1323,Bayer Leverkusen,Ingolstadt,3,2,2016-05-14 17:30:00,,Rebound
+83883,78,BlockedShot,0.9480000305175781,0.5870000076293945,0.8612170219421387,Karim Bellarabi,h,186,OpenPlay,2015,LeftFoot,1323,Bayer Leverkusen,Ingolstadt,3,2,2016-05-14 17:30:00,Hakan Calhanoglu,TakeOn
+83888,82,SavedShot,0.94,0.5829999923706055,0.23732499778270721,Karim Bellarabi,h,186,FromCorner,2015,Head,1323,Bayer Leverkusen,Ingolstadt,3,2,2016-05-14 17:30:00,Admir Mehmedi,Rebound
+127631,32,SavedShot,0.8090000152587891,0.5659999847412109,0.06974100321531296,Karim Bellarabi,a,186,OpenPlay,2016,RightFoot,1333,Borussia M.Gladbach,Bayer Leverkusen,2,1,2016-08-27 20:30:00,Julian Baumgartlinger,TakeOn
+127639,48,SavedShot,0.925,0.3029999923706055,0.04122890159487724,Karim Bellarabi,a,186,OpenPlay,2016,RightFoot,1333,Borussia M.Gladbach,Bayer Leverkusen,2,1,2016-08-27 20:30:00,Kevin Volland,Chipped
+127641,51,SavedShot,0.899000015258789,0.3160000038146973,0.07431820034980774,Karim Bellarabi,a,186,OpenPlay,2016,RightFoot,1333,Borussia M.Gladbach,Bayer Leverkusen,2,1,2016-08-27 20:30:00,Hakan Calhanoglu,Pass
+130463,16,MissedShots,0.8490000152587891,0.27700000762939453,0.04024050012230873,Karim Bellarabi,h,186,OpenPlay,2016,RightFoot,3729,Bayer Leverkusen,Hertha Berlin,3,1,2017-01-22 17:30:00,Hakan Calhanoglu,Chipped
+130468,42,SavedShot,0.774000015258789,0.4540000152587891,0.04171749949455261,Karim Bellarabi,h,186,OpenPlay,2016,LeftFoot,3729,Bayer Leverkusen,Hertha Berlin,3,1,2017-01-22 17:30:00,Jonathan Tah,BallRecovery
+131058,42,MissedShots,0.9059999847412109,0.27,0.0642085000872612,Karim Bellarabi,h,186,OpenPlay,2016,RightFoot,3737,Bayer Leverkusen,Borussia M.Gladbach,2,3,2017-01-28 20:30:00,Benjamin Henrichs,Pass
+131069,76,MissedShots,0.845999984741211,0.59,0.06914310157299042,Karim Bellarabi,h,186,OpenPlay,2016,RightFoot,3737,Bayer Leverkusen,Borussia M.Gladbach,2,3,2017-01-28 20:30:00,Julian Brandt,Pass
+132425,30,SavedShot,0.8090000152587891,0.415,0.012086999602615833,Karim Bellarabi,h,186,SetPiece,2016,Head,3750,Bayer Leverkusen,Eintracht Frankfurt,3,0,2017-02-11 14:30:00,,None
+132426,33,MissedShots,0.96,0.33799999237060546,0.07609079778194427,Karim Bellarabi,h,186,OpenPlay,2016,RightFoot,3750,Bayer Leverkusen,Eintracht Frankfurt,3,0,2017-02-11 14:30:00,Lars Bender,Chipped
+132430,48,SavedShot,0.9819999694824219,0.705,0.0357276014983654,Karim Bellarabi,h,186,FromCorner,2016,RightFoot,3750,Bayer Leverkusen,Eintracht Frankfurt,3,0,2017-02-11 14:30:00,,None
+132438,72,MissedShots,0.7169999694824218,0.46,0.02149610035121441,Karim Bellarabi,h,186,OpenPlay,2016,RightFoot,3750,Bayer Leverkusen,Eintracht Frankfurt,3,0,2017-02-11 14:30:00,Kevin Kampl,Pass
+132290,22,Goal,0.9319999694824219,0.4779999923706055,0.6681410074234009,Karim Bellarabi,a,186,OpenPlay,2016,RightFoot,3758,Augsburg,Bayer Leverkusen,1,3,2017-02-17 19:30:00,Kai Havertz,Pass
+132293,31,SavedShot,0.955,0.40099998474121096,0.11339099705219269,Karim Bellarabi,a,186,OpenPlay,2016,RightFoot,3758,Augsburg,Bayer Leverkusen,1,3,2017-02-17 19:30:00,Kai Havertz,Chipped
+132305,62,BlockedShot,0.8159999847412109,0.775,0.028407499194145203,Karim Bellarabi,a,186,OpenPlay,2016,RightFoot,3758,Augsburg,Bayer Leverkusen,1,3,2017-02-17 19:30:00,Wendell,TakeOn
+132308,73,SavedShot,0.895,0.695,0.07781659811735153,Karim Bellarabi,a,186,OpenPlay,2016,RightFoot,3758,Augsburg,Bayer Leverkusen,1,3,2017-02-17 19:30:00,Kevin Volland,Pass
+132310,82,MissedShots,0.874000015258789,0.28600000381469726,0.05951929837465286,Karim Bellarabi,a,186,OpenPlay,2016,RightFoot,3758,Augsburg,Bayer Leverkusen,1,3,2017-02-17 19:30:00,Benjamin Henrichs,Pass
+131948,19,BlockedShot,0.9230000305175782,0.3129999923706055,0.045524898916482925,Karim Bellarabi,h,186,OpenPlay,2016,RightFoot,3771,Bayer Leverkusen,Mainz 05,0,2,2017-02-25 14:30:00,,None
+133602,32,BlockedShot,0.7980000305175782,0.31,0.034170400351285934,Karim Bellarabi,h,186,OpenPlay,2016,RightFoot,3785,Bayer Leverkusen,Werder Bremen,1,1,2017-03-10 19:30:00,,None
+133605,39,MissedShots,0.875999984741211,0.325,0.0659267008304596,Karim Bellarabi,h,186,OpenPlay,2016,RightFoot,3785,Bayer Leverkusen,Werder Bremen,1,1,2017-03-10 19:30:00,Chicharito,Chipped
+133607,48,SavedShot,0.875999984741211,0.33599998474121096,0.09712409973144531,Karim Bellarabi,h,186,OpenPlay,2016,RightFoot,3785,Bayer Leverkusen,Werder Bremen,1,1,2017-03-10 19:30:00,Julian Brandt,Pass
+132720,4,MissedShots,0.7240000152587891,0.500999984741211,0.016852999106049538,Karim Bellarabi,a,186,OpenPlay,2016,RightFoot,3799,Hoffenheim,Bayer Leverkusen,1,0,2017-03-18 14:30:00,Julian Baumgartlinger,Pass
+132723,10,SavedShot,0.8430000305175781,0.29200000762939454,0.11337699741125107,Karim Bellarabi,a,186,OpenPlay,2016,RightFoot,3799,Hoffenheim,Bayer Leverkusen,1,0,2017-03-18 14:30:00,Kevin Volland,Throughball
+132729,21,BlockedShot,0.815,0.44299999237060544,0.059519100934267044,Karim Bellarabi,a,186,OpenPlay,2016,LeftFoot,3799,Hoffenheim,Bayer Leverkusen,1,0,2017-03-18 14:30:00,Admir Mehmedi,Pass
+132735,38,SavedShot,0.9030000305175782,0.35700000762939454,0.08903229981660843,Karim Bellarabi,a,186,OpenPlay,2016,RightFoot,3799,Hoffenheim,Bayer Leverkusen,1,0,2017-03-18 14:30:00,Julian Brandt,Pass
+132926,33,SavedShot,0.745,0.43900001525878907,0.016868000850081444,Karim Bellarabi,h,186,OpenPlay,2016,RightFoot,3811,Bayer Leverkusen,Wolfsburg,3,3,2017-04-02 16:30:00,,None
+132928,39,Goal,0.9269999694824219,0.355,0.2457990050315857,Karim Bellarabi,h,186,OpenPlay,2016,RightFoot,3811,Bayer Leverkusen,Wolfsburg,3,3,2017-04-02 16:30:00,Charles Aránguiz,Cross
+134271,68,MissedShots,0.8669999694824219,0.2979999923706055,0.0631512999534607,Karim Bellarabi,a,186,OpenPlay,2016,RightFoot,3816,Darmstadt,Bayer Leverkusen,0,2,2017-04-05 19:00:00,Roberto Hilbert,Pass
+134914,33,MissedShots,0.865,0.325,0.03374379873275757,Karim Bellarabi,a,186,FromCorner,2016,RightFoot,3823,RasenBallsport Leipzig,Bayer Leverkusen,1,0,2017-04-08 14:30:00,Wendell,Cross
+134918,39,MissedShots,0.8969999694824219,0.295,0.03751489892601967,Karim Bellarabi,a,186,OpenPlay,2016,RightFoot,3823,RasenBallsport Leipzig,Bayer Leverkusen,1,0,2017-04-08 14:30:00,,Rebound
+134920,43,MissedShots,0.8690000152587891,0.2560000038146973,0.029417699202895164,Karim Bellarabi,a,186,OpenPlay,2016,RightFoot,3823,RasenBallsport Leipzig,Bayer Leverkusen,1,0,2017-04-08 14:30:00,Julian Brandt,Pass
+135030,73,MissedShots,0.73,0.3160000038146973,0.012990499846637249,Karim Bellarabi,h,186,OpenPlay,2016,RightFoot,3831,Bayer Leverkusen,Bayern Munich,0,0,2017-04-15 17:30:00,,BallRecovery
+134241,45,MissedShots,0.8590000152587891,0.27399999618530274,0.03404470160603523,Karim Bellarabi,h,186,OpenPlay,2016,RightFoot,3856,Bayer Leverkusen,Schalke 04,1,4,2017-04-28 19:30:00,Kevin Volland,Pass
+134243,51,BlockedShot,0.8130000305175781,0.48200000762939454,0.05333780124783516,Karim Bellarabi,h,186,OpenPlay,2016,RightFoot,3856,Bayer Leverkusen,Schalke 04,1,4,2017-04-28 19:30:00,Stefan Kießling,BallTouch
+134247,61,SavedShot,0.8219999694824218,0.54,0.05065219849348068,Karim Bellarabi,h,186,OpenPlay,2016,RightFoot,3856,Bayer Leverkusen,Schalke 04,1,4,2017-04-28 19:30:00,Julian Brandt,Pass
+134248,66,BlockedShot,0.8830000305175781,0.6719999694824219,0.06534619629383087,Karim Bellarabi,h,186,OpenPlay,2016,RightFoot,3856,Bayer Leverkusen,Schalke 04,1,4,2017-04-28 19:30:00,Wendell,Pass
+165763,11,MissedShots,0.8619999694824219,0.4779999923706055,0.07169900089502335,Karim Bellarabi,a,186,OpenPlay,2017,RightFoot,8259,Bayern Munich,Bayer Leverkusen,3,1,2017-08-18 19:30:00,,Rebound
+165768,23,MissedShots,0.7880000305175782,0.42400001525878905,0.029868800193071365,Karim Bellarabi,a,186,OpenPlay,2017,RightFoot,8259,Bayern Munich,Bayer Leverkusen,3,1,2017-08-18 19:30:00,Dominik Kohr,Pass
+165771,36,MissedShots,0.795,0.44299999237060544,0.04453660175204277,Karim Bellarabi,a,186,OpenPlay,2017,RightFoot,8259,Bayern Munich,Bayer Leverkusen,3,1,2017-08-18 19:30:00,Leon Bailey,Pass
+165775,45,MissedShots,0.9790000152587891,0.3940000152587891,0.03487899899482727,Karim Bellarabi,a,186,FromCorner,2017,Head,8259,Bayern Munich,Bayer Leverkusen,3,1,2017-08-18 19:30:00,,None
+165776,47,MissedShots,0.899000015258789,0.365,0.015263699926435947,Karim Bellarabi,a,186,OpenPlay,2017,Head,8259,Bayern Munich,Bayer Leverkusen,3,1,2017-08-18 19:30:00,Admir Mehmedi,Cross
+165790,90,BlockedShot,0.7530000305175781,0.7230000305175781,0.01320740021765232,Karim Bellarabi,a,186,OpenPlay,2017,RightFoot,8259,Bayern Munich,Bayer Leverkusen,3,1,2017-08-18 19:30:00,Kevin Kampl,Pass
+166116,8,BlockedShot,0.9119999694824219,0.39599998474121095,0.11268500238656998,Karim Bellarabi,h,186,OpenPlay,2017,RightFoot,8271,Bayer Leverkusen,Hoffenheim,2,2,2017-08-26 14:30:00,Dominik Kohr,Pass
+166117,13,MissedShots,0.7819999694824219,0.31,0.021758299320936203,Karim Bellarabi,h,186,OpenPlay,2017,RightFoot,8271,Bayer Leverkusen,Hoffenheim,2,2,2017-08-26 14:30:00,Admir Mehmedi,Pass
+166123,35,BlockedShot,0.795,0.3920000076293945,0.016421999782323837,Karim Bellarabi,h,186,FromCorner,2017,LeftFoot,8271,Bayer Leverkusen,Hoffenheim,2,2,2017-08-26 14:30:00,,Aerial
+166126,40,MissedShots,0.8180000305175781,0.42200000762939455,0.06573499739170074,Karim Bellarabi,h,186,OpenPlay,2017,RightFoot,8271,Bayer Leverkusen,Hoffenheim,2,2,2017-08-26 14:30:00,,None
+166129,48,Goal,0.8980000305175782,0.3390000152587891,0.06693489849567413,Karim Bellarabi,h,186,OpenPlay,2017,RightFoot,8271,Bayer Leverkusen,Hoffenheim,2,2,2017-08-26 14:30:00,Admir Mehmedi,Pass
+166131,57,MissedShots,0.86,0.27100000381469724,0.10600300133228302,Karim Bellarabi,h,186,OpenPlay,2017,RightFoot,8271,Bayer Leverkusen,Hoffenheim,2,2,2017-08-26 14:30:00,Kevin Volland,HeadPass
+166139,85,MissedShots,0.6890000152587891,0.655,0.011418100446462631,Karim Bellarabi,h,186,OpenPlay,2017,RightFoot,8271,Bayer Leverkusen,Hoffenheim,2,2,2017-08-26 14:30:00,Wendell,Pass
+166425,66,SavedShot,0.755,0.6329999923706054,0.020240100100636482,Karim Bellarabi,a,186,OpenPlay,2017,RightFoot,8278,Mainz 05,Bayer Leverkusen,3,1,2017-09-09 14:30:00,Kai Havertz,HeadPass
+166430,74,MissedShots,0.7769999694824219,0.6869999694824219,0.01636040024459362,Karim Bellarabi,a,186,OpenPlay,2017,RightFoot,8278,Mainz 05,Bayer Leverkusen,3,1,2017-09-09 14:30:00,Admir Mehmedi,Pass
+166664,4,SavedShot,0.9080000305175782,0.33299999237060546,0.08196789771318436,Karim Bellarabi,h,186,OpenPlay,2017,RightFoot,8293,Bayer Leverkusen,Freiburg,4,0,2017-09-17 14:30:00,Julian Brandt,Pass
+166678,47,MissedShots,0.889000015258789,0.2520000076293945,0.051983900368213654,Karim Bellarabi,h,186,OpenPlay,2017,RightFoot,8293,Bayer Leverkusen,Freiburg,4,0,2017-09-17 14:30:00,Kai Havertz,Pass
+166681,62,BlockedShot,0.9390000152587891,0.3089999961853027,0.08354350179433823,Karim Bellarabi,h,186,OpenPlay,2017,RightFoot,8293,Bayer Leverkusen,Freiburg,4,0,2017-09-17 14:30:00,Kevin Volland,Pass
+166682,65,MissedShots,0.8219999694824218,0.35900001525878905,0.06107189878821373,Karim Bellarabi,h,186,OpenPlay,2017,RightFoot,8293,Bayer Leverkusen,Freiburg,4,0,2017-09-17 14:30:00,Panagiotis Retsos,Pass
+166683,67,MissedShots,0.8419999694824218,0.5129999923706055,0.11283700168132782,Karim Bellarabi,h,186,OpenPlay,2017,RightFoot,8293,Bayer Leverkusen,Freiburg,4,0,2017-09-17 14:30:00,Julian Brandt,Pass
+166855,11,SavedShot,0.6869999694824219,0.515,0.012991700321435928,Karim Bellarabi,a,186,OpenPlay,2017,RightFoot,8300,Hertha Berlin,Bayer Leverkusen,2,1,2017-09-20 19:30:00,Julian Brandt,Pass
+166858,25,MissedShots,0.7130000305175781,0.15600000381469725,0.0067870100028812885,Karim Bellarabi,a,186,OpenPlay,2017,RightFoot,8300,Hertha Berlin,Bayer Leverkusen,2,1,2017-09-20 19:30:00,Lars Bender,Pass
+184027,27,SavedShot,0.9630000305175781,0.31799999237060544,0.07674899697303772,Karim Bellarabi,h,186,OpenPlay,2017,RightFoot,8399,Bayer Leverkusen,Werder Bremen,1,0,2017-12-13 19:30:00,Lucas Alario,HeadPass
+184031,45,SavedShot,0.7659999847412109,0.5790000152587891,0.036847300827503204,Karim Bellarabi,h,186,OpenPlay,2017,RightFoot,8399,Bayer Leverkusen,Werder Bremen,1,0,2017-12-13 19:30:00,,None
+184033,47,SavedShot,0.774000015258789,0.4229999923706055,0.03622860088944435,Karim Bellarabi,h,186,OpenPlay,2017,RightFoot,8399,Bayer Leverkusen,Werder Bremen,1,0,2017-12-13 19:30:00,Sven Bender,Pass
+184037,81,SavedShot,0.7809999847412109,0.5279999923706055,0.045566901564598083,Karim Bellarabi,h,186,OpenPlay,2017,RightFoot,8399,Bayer Leverkusen,Werder Bremen,1,0,2017-12-13 19:30:00,Julian Brandt,Pass
+184041,88,MissedShots,0.960999984741211,0.4490000152587891,0.6330519914627075,Karim Bellarabi,h,186,OpenPlay,2017,RightFoot,8399,Bayer Leverkusen,Werder Bremen,1,0,2017-12-13 19:30:00,Julian Brandt,Pass
+184043,90,SavedShot,0.8569999694824219,0.34799999237060547,0.3151310086250305,Karim Bellarabi,h,186,OpenPlay,2017,RightFoot,8399,Bayer Leverkusen,Werder Bremen,1,0,2017-12-13 19:30:00,Julian Brandt,Pass
+183831,42,BlockedShot,0.8519999694824218,0.26799999237060546,0.02823610045015812,Karim Bellarabi,a,186,OpenPlay,2017,LeftFoot,8411,Hannover 96,Bayer Leverkusen,4,4,2017-12-17 14:30:00,Admir Mehmedi,Pass
+183834,46,MissedShots,0.8909999847412109,0.2670000076293945,0.04074560105800629,Karim Bellarabi,a,186,OpenPlay,2017,RightFoot,8411,Hannover 96,Bayer Leverkusen,4,4,2017-12-17 14:30:00,Julian Brandt,TakeOn
+183850,74,SavedShot,0.7730000305175782,0.4279999923706055,0.03817269951105118,Karim Bellarabi,a,186,OpenPlay,2017,RightFoot,8411,Hannover 96,Bayer Leverkusen,4,4,2017-12-17 14:30:00,Julian Brandt,Pass
+194748,63,MissedShots,0.740999984741211,0.3970000076293945,0.014883800409734249,Karim Bellarabi,a,186,SetPiece,2017,RightFoot,8440,Freiburg,Bayer Leverkusen,0,0,2018-02-03 14:30:00,,Tackle
+194750,73,MissedShots,0.7330000305175781,0.48700000762939455,0.012156699784100056,Karim Bellarabi,a,186,SetPiece,2017,RightFoot,8440,Freiburg,Bayer Leverkusen,0,0,2018-02-03 14:30:00,,None
+194753,79,SavedShot,0.950999984741211,0.6659999847412109,0.019701799377799034,Karim Bellarabi,a,186,OpenPlay,2017,Head,8440,Freiburg,Bayer Leverkusen,0,0,2018-02-03 14:30:00,Kevin Volland,Chipped
+195119,66,SavedShot,0.7659999847412109,0.524000015258789,0.024698400869965553,Karim Bellarabi,h,186,OpenPlay,2017,LeftFoot,8448,Bayer Leverkusen,Hertha Berlin,0,2,2018-02-10 14:30:00,,BallRecovery
+198729,15,SavedShot,0.9540000152587891,0.740999984741211,0.032733600586652756,Karim Bellarabi,a,186,OpenPlay,2017,RightFoot,8483,Wolfsburg,Bayer Leverkusen,1,2,2018-03-03 14:30:00,Kevin Volland,Chipped
+198737,40,BlockedShot,0.845,0.425,0.0759660005569458,Karim Bellarabi,a,186,OpenPlay,2017,LeftFoot,8483,Wolfsburg,Bayer Leverkusen,1,2,2018-03-03 14:30:00,,Rebound
+198736,40,BlockedShot,0.855,0.3820000076293945,0.0838128998875618,Karim Bellarabi,a,186,OpenPlay,2017,RightFoot,8483,Wolfsburg,Bayer Leverkusen,1,2,2018-03-03 14:30:00,Kevin Volland,Pass
+202099,89,MissedShots,0.8730000305175781,0.7419999694824219,0.018624499440193176,Karim Bellarabi,a,186,FromCorner,2017,RightFoot,8498,FC Cologne,Bayer Leverkusen,2,0,2018-03-18 14:30:00,Benjamin Henrichs,Chipped
+210586,69,MissedShots,0.7959999847412109,0.27700000762939453,0.020270800217986107,Karim Bellarabi,a,186,OpenPlay,2017,LeftFoot,8529,Borussia Dortmund,Bayer Leverkusen,4,0,2018-04-21 16:30:00,Dominik Kohr,Pass
+210590,87,SavedShot,0.75,0.57,0.020842500030994415,Karim Bellarabi,a,186,OpenPlay,2017,RightFoot,8529,Borussia Dortmund,Bayer Leverkusen,4,0,2018-04-21 16:30:00,Julian Brandt,Pass
+211936,34,MissedShots,0.784000015258789,0.3,0.022205999121069908,Karim Bellarabi,h,186,OpenPlay,2017,LeftFoot,8544,Bayer Leverkusen,VfB Stuttgart,0,1,2018-04-28 16:30:00,Tin Jedvaj,Pass
+211948,65,SavedShot,0.85,0.43900001525878907,0.3529970049858093,Karim Bellarabi,h,186,OpenPlay,2017,RightFoot,8544,Bayer Leverkusen,VfB Stuttgart,0,1,2018-04-28 16:30:00,,BallRecovery
+214640,85,MissedShots,0.8209999847412109,0.22299999237060547,0.03534020110964775,Karim Bellarabi,h,186,OpenPlay,2017,RightFoot,8561,Bayer Leverkusen,Hannover 96,3,2,2018-05-12 14:30:00,Julian Brandt,Pass
+255474,93,Goal,0.884000015258789,0.3240000152587891,0.0546565018594265,Karim Bellarabi,h,186,OpenPlay,2018,LeftFoot,10401,Bayer Leverkusen,Hannover 96,2,2,2018-10-20 13:30:00,Lars Bender,Pass
+255851,27,MissedShots,0.865999984741211,0.38799999237060545,0.41543400287628174,Karim Bellarabi,a,186,OpenPlay,2018,RightFoot,10412,Werder Bremen,Bayer Leverkusen,2,6,2018-10-28 16:00:00,Kevin Volland,BallRecovery
+255855,36,BlockedShot,0.885,0.3160000038146973,0.06870400160551071,Karim Bellarabi,a,186,OpenPlay,2018,RightFoot,10412,Werder Bremen,Bayer Leverkusen,2,6,2018-10-28 16:00:00,,None
+255856,37,BlockedShot,0.8519999694824218,0.3920000076293945,0.04667000100016594,Karim Bellarabi,a,186,FromCorner,2018,RightFoot,10412,Werder Bremen,Bayer Leverkusen,2,6,2018-10-28 16:00:00,Julian Brandt,Pass
+255859,44,Goal,0.874000015258789,0.34299999237060547,0.47213101387023926,Karim Bellarabi,a,186,OpenPlay,2018,RightFoot,10412,Werder Bremen,Bayer Leverkusen,2,6,2018-10-28 16:00:00,Kevin Volland,Throughball
+255860,50,BlockedShot,0.8669999694824219,0.6519999694824219,0.09951949864625931,Karim Bellarabi,a,186,OpenPlay,2018,RightFoot,10412,Werder Bremen,Bayer Leverkusen,2,6,2018-10-28 16:00:00,,None
+256034,29,Goal,0.955,0.29700000762939455,0.04241979867219925,Karim Bellarabi,h,186,OpenPlay,2018,RightFoot,10424,Bayer Leverkusen,Hoffenheim,1,4,2018-11-03 14:30:00,Mitchell Weiser,Pass
+256037,36,SavedShot,0.8009999847412109,0.41900001525878905,0.06450189650058746,Karim Bellarabi,h,186,OpenPlay,2018,RightFoot,10424,Bayer Leverkusen,Hoffenheim,1,4,2018-11-03 14:30:00,Julian Brandt,Pass
+256423,78,BlockedShot,0.8130000305175781,0.5320000076293945,0.08448140323162079,Karim Bellarabi,h,186,OpenPlay,2018,RightFoot,10438,Bayer Leverkusen,VfB Stuttgart,2,0,2018-11-23 19:30:00,Wendell,Pass
+256937,5,MissedShots,0.7580000305175781,0.415,0.019982099533081055,Karim Bellarabi,a,186,OpenPlay,2018,RightFoot,10453,Nuernberg,Bayer Leverkusen,1,1,2018-12-03 19:30:00,,None
+256938,8,SavedShot,0.9640000152587891,0.3039999961853027,0.1073710024356842,Karim Bellarabi,a,186,OpenPlay,2018,RightFoot,10453,Nuernberg,Bayer Leverkusen,1,1,2018-12-03 19:30:00,Julian Brandt,Throughball
+256941,16,BlockedShot,0.7380000305175781,0.3129999923706055,0.017691299319267273,Karim Bellarabi,a,186,OpenPlay,2018,RightFoot,10453,Nuernberg,Bayer Leverkusen,1,1,2018-12-03 19:30:00,Julian Brandt,Pass
+256959,74,MissedShots,0.6809999847412109,0.415,0.011819399893283844,Karim Bellarabi,a,186,FromCorner,2018,RightFoot,10453,Nuernberg,Bayer Leverkusen,1,1,2018-12-03 19:30:00,,None
+256964,83,MissedShots,0.6309999847412109,0.42200000762939455,0.007122249808162451,Karim Bellarabi,a,186,SetPiece,2018,RightFoot,10453,Nuernberg,Bayer Leverkusen,1,1,2018-12-03 19:30:00,,None
+257055,33,MissedShots,0.769000015258789,0.37900001525878907,0.018293799832463264,Karim Bellarabi,h,186,FromCorner,2018,RightFoot,10456,Bayer Leverkusen,Augsburg,1,0,2018-12-08 14:30:00,,None
+257063,54,MissedShots,0.865,0.39799999237060546,0.0679209977388382,Karim Bellarabi,h,186,OpenPlay,2018,LeftFoot,10456,Bayer Leverkusen,Augsburg,1,0,2018-12-08 14:30:00,Charles Aránguiz,Chipped
+257064,60,BlockedShot,0.759000015258789,0.3579999923706055,0.02255230024456978,Karim Bellarabi,h,186,OpenPlay,2018,LeftFoot,10456,Bayer Leverkusen,Augsburg,1,0,2018-12-08 14:30:00,Jonathan Tah,TakeOn
+257065,71,MissedShots,0.8519999694824218,0.27700000762939453,0.028125500306487083,Karim Bellarabi,h,186,OpenPlay,2018,RightFoot,10456,Bayer Leverkusen,Augsburg,1,0,2018-12-08 14:30:00,Lars Bender,Pass
+257072,79,SavedShot,0.8009999847412109,0.505,0.03103560023009777,Karim Bellarabi,h,186,SetPiece,2018,RightFoot,10456,Bayer Leverkusen,Augsburg,1,0,2018-12-08 14:30:00,,Rebound
+257372,18,BlockedShot,0.764000015258789,0.44099998474121094,0.022161899134516716,Karim Bellarabi,a,186,FromCorner,2018,RightFoot,10467,Eintracht Frankfurt,Bayer Leverkusen,2,1,2018-12-16 17:00:00,,Foul
+257379,44,BlockedShot,0.7819999694824219,0.3390000152587891,0.024054300040006638,Karim Bellarabi,a,186,OpenPlay,2018,RightFoot,10467,Eintracht Frankfurt,Bayer Leverkusen,2,1,2018-12-16 17:00:00,Charles Aránguiz,Pass
+257380,44,MissedShots,0.755,0.4370000076293945,0.017948400229215622,Karim Bellarabi,a,186,FromCorner,2018,RightFoot,10467,Eintracht Frankfurt,Bayer Leverkusen,2,1,2018-12-16 17:00:00,,None
+257389,64,Goal,0.9440000152587891,0.3220000076293945,0.1879040002822876,Karim Bellarabi,a,186,OpenPlay,2018,RightFoot,10467,Eintracht Frankfurt,Bayer Leverkusen,2,1,2018-12-16 17:00:00,Leon Bailey,Cross
+257532,25,MissedShots,0.789000015258789,0.6819999694824219,0.015203599818050861,Karim Bellarabi,a,186,SetPiece,2018,RightFoot,10473,Schalke 04,Bayer Leverkusen,1,2,2018-12-19 17:30:00,,None
+257911,81,MissedShots,0.860999984741211,0.27100000381469724,0.050969198346138,Karim Bellarabi,h,186,OpenPlay,2018,RightFoot,10484,Bayer Leverkusen,Hertha Berlin,3,1,2018-12-22 14:30:00,Lucas Alario,Pass
+278412,45,BlockedShot,0.86,0.6480000305175782,0.058280400931835175,Karim Bellarabi,h,186,OpenPlay,2018,RightFoot,10498,Bayer Leverkusen,Borussia M.Gladbach,0,1,2019-01-19 14:30:00,Kai Havertz,Pass
+278419,67,ShotOnPost,0.9319999694824219,0.32,0.22465799748897552,Karim Bellarabi,h,186,OpenPlay,2018,RightFoot,10498,Bayer Leverkusen,Borussia M.Gladbach,0,1,2019-01-19 14:30:00,Julian Brandt,Pass
+278424,78,MissedShots,0.7959999847412109,0.3240000152587891,0.019326400011777878,Karim Bellarabi,h,186,FromCorner,2018,RightFoot,10498,Bayer Leverkusen,Borussia M.Gladbach,0,1,2019-01-19 14:30:00,,None
+278645,4,ShotOnPost,0.8590000152587891,0.5590000152587891,0.09322749823331833,Karim Bellarabi,a,186,OpenPlay,2018,LeftFoot,10506,Wolfsburg,Bayer Leverkusen,0,3,2019-01-26 14:30:00,Julian Brandt,Pass
+278646,9,MissedShots,0.8009999847412109,0.6370000076293946,0.032075099647045135,Karim Bellarabi,a,186,OpenPlay,2018,RightFoot,10506,Wolfsburg,Bayer Leverkusen,0,3,2019-01-26 14:30:00,Leon Bailey,Pass
+278648,23,MissedShots,0.8959999847412109,0.710999984741211,0.04464380070567131,Karim Bellarabi,a,186,OpenPlay,2018,RightFoot,10506,Wolfsburg,Bayer Leverkusen,0,3,2019-01-26 14:30:00,Charles Aránguiz,Chipped
+278650,27,SavedShot,0.8080000305175781,0.6780000305175782,0.027608999982476234,Karim Bellarabi,a,186,OpenPlay,2018,RightFoot,10506,Wolfsburg,Bayer Leverkusen,0,3,2019-01-26 14:30:00,Julian Brandt,Pass
+278659,47,SavedShot,0.855,0.5670000076293945,0.12198799848556519,Karim Bellarabi,a,186,OpenPlay,2018,RightFoot,10506,Wolfsburg,Bayer Leverkusen,0,3,2019-01-26 14:30:00,Julian Brandt,Pass
+278667,59,BlockedShot,0.909000015258789,0.44,0.1388390064239502,Karim Bellarabi,a,186,OpenPlay,2018,RightFoot,10506,Wolfsburg,Bayer Leverkusen,0,3,2019-01-26 14:30:00,,Rebound
+278792,49,BlockedShot,0.7809999847412109,0.45799999237060546,0.030121199786663055,Karim Bellarabi,h,186,OpenPlay,2018,LeftFoot,10508,Bayer Leverkusen,Bayern Munich,3,1,2019-02-02 14:30:00,Julian Brandt,Pass
+278951,4,BlockedShot,0.935,0.3609999847412109,0.12121699750423431,Karim Bellarabi,a,186,OpenPlay,2018,RightFoot,10524,Mainz 05,Bayer Leverkusen,1,5,2019-02-08 19:30:00,Kevin Volland,Chipped
+278965,28,ShotOnPost,0.9030000305175782,0.6179999923706054,0.10547000169754028,Karim Bellarabi,a,186,OpenPlay,2018,LeftFoot,10524,Mainz 05,Bayer Leverkusen,1,5,2019-02-08 19:30:00,Leon Bailey,Pass
+278970,42,Goal,0.8519999694824218,0.2720000076293945,0.09387890249490738,Karim Bellarabi,a,186,OpenPlay,2018,RightFoot,10524,Mainz 05,Bayer Leverkusen,1,5,2019-02-08 19:30:00,Julian Brandt,Pass
+278975,51,BlockedShot,0.7680000305175781,0.24200000762939453,0.02731879986822605,Karim Bellarabi,a,186,OpenPlay,2018,RightFoot,10524,Mainz 05,Bayer Leverkusen,1,5,2019-02-08 19:30:00,Kai Havertz,Pass
+278977,62,BlockedShot,0.85,0.34900001525878904,0.07676149904727936,Karim Bellarabi,a,186,OpenPlay,2018,LeftFoot,10524,Mainz 05,Bayer Leverkusen,1,5,2019-02-08 19:30:00,Leon Bailey,Pass
+285301,78,SavedShot,0.8040000152587891,0.2620000076293945,0.022617600858211517,Karim Bellarabi,a,186,OpenPlay,2018,RightFoot,10561,Hannover 96,Bayer Leverkusen,2,3,2019-03-10 17:00:00,Tin Jedvaj,Pass
+285304,83,MissedShots,0.9430000305175781,0.33,0.05569060146808624,Karim Bellarabi,a,186,OpenPlay,2018,RightFoot,10561,Hannover 96,Bayer Leverkusen,2,3,2019-03-10 17:00:00,Julian Brandt,Chipped
+287162,19,BlockedShot,0.91,0.355,0.08628129959106445,Karim Bellarabi,a,186,OpenPlay,2018,RightFoot,10571,Hoffenheim,Bayer Leverkusen,4,1,2019-03-29 19:30:00,Julian Brandt,Pass
+312384,6,BlockedShot,0.9590000152587891,0.30700000762939456,0.07443690299987793,Karim Bellarabi,a,186,OpenPlay,2019,RightFoot,12415,Fortuna Duesseldorf,Bayer Leverkusen,1,3,2019-08-24 14:30:00,,Dispossessed
+312392,38,Goal,0.9309999847412109,0.46,0.5773440003395081,Karim Bellarabi,a,186,OpenPlay,2019,LeftFoot,12415,Fortuna Duesseldorf,Bayer Leverkusen,1,3,2019-08-24 14:30:00,Kevin Volland,Pass
+312393,45,SavedShot,0.8969999694824219,0.3579999923706055,0.27698400616645813,Karim Bellarabi,a,186,OpenPlay,2019,RightFoot,12415,Fortuna Duesseldorf,Bayer Leverkusen,1,3,2019-08-24 14:30:00,Leon Bailey,Pass
+312399,63,SavedShot,0.9319999694824219,0.3240000152587891,0.2673940062522888,Karim Bellarabi,a,186,OpenPlay,2019,RightFoot,12415,Fortuna Duesseldorf,Bayer Leverkusen,1,3,2019-08-24 14:30:00,Kevin Volland,Pass
+315635,2,BlockedShot,0.8319999694824218,0.3120000076293945,0.024728799238801003,Karim Bellarabi,h,186,FromCorner,2019,RightFoot,12426,Bayer Leverkusen,Hoffenheim,0,0,2019-08-31 14:30:00,,None
+315651,67,MissedShots,0.8530000305175781,0.2989999961853027,0.027087099850177765,Karim Bellarabi,h,186,FromCorner,2019,RightFoot,12426,Bayer Leverkusen,Hoffenheim,0,0,2019-08-31 14:30:00,,None
+315656,84,MissedShots,0.865999984741211,0.27399999618530274,0.03203050047159195,Karim Bellarabi,h,186,OpenPlay,2019,RightFoot,12426,Bayer Leverkusen,Hoffenheim,0,0,2019-08-31 14:30:00,Charles Aránguiz,Chipped
+317102,0,BlockedShot,0.725999984741211,0.7609999847412109,0.016206499189138412,Karim Bellarabi,a,186,OpenPlay,2019,RightFoot,12435,Borussia Dortmund,Bayer Leverkusen,4,0,2019-09-14 13:30:00,Charles Aránguiz,Pass
+317104,21,MissedShots,0.7090000152587891,0.7119999694824218,0.015593299642205238,Karim Bellarabi,a,186,OpenPlay,2019,RightFoot,12435,Borussia Dortmund,Bayer Leverkusen,4,0,2019-09-14 13:30:00,Nadiem Amiri,Pass
+317107,24,BlockedShot,0.875999984741211,0.6790000152587891,0.07524169981479645,Karim Bellarabi,a,186,OpenPlay,2019,LeftFoot,12435,Borussia Dortmund,Bayer Leverkusen,4,0,2019-09-14 13:30:00,Nadiem Amiri,Pass
+317114,48,MissedShots,0.904000015258789,0.3820000076293945,0.5826770067214966,Karim Bellarabi,a,186,OpenPlay,2019,RightFoot,12435,Borussia Dortmund,Bayer Leverkusen,4,0,2019-09-14 13:30:00,Kai Havertz,Throughball
+325196,52,SavedShot,0.8480000305175781,0.25,0.023513099178671837,Karim Bellarabi,a,186,OpenPlay,2019,RightFoot,12471,Eintracht Frankfurt,Bayer Leverkusen,3,0,2019-10-18 19:30:00,Kerem Demirbay,Pass
+325198,55,SavedShot,0.8569999694824219,0.34799999237060547,0.04109819978475571,Karim Bellarabi,a,186,OpenPlay,2019,RightFoot,12471,Eintracht Frankfurt,Bayer Leverkusen,3,0,2019-10-18 19:30:00,,None
+325204,67,SavedShot,0.785,0.3039999961853027,0.020326100289821625,Karim Bellarabi,a,186,OpenPlay,2019,RightFoot,12471,Eintracht Frankfurt,Bayer Leverkusen,3,0,2019-10-18 19:30:00,Nadiem Amiri,Pass
+325205,68,SavedShot,0.89,0.355,0.07984340190887451,Karim Bellarabi,a,186,OpenPlay,2019,RightFoot,12471,Eintracht Frankfurt,Bayer Leverkusen,3,0,2019-10-18 19:30:00,Nadiem Amiri,Pass
+327387,0,MissedShots,0.9469999694824218,0.3340000152587891,0.024524100124835968,Karim Bellarabi,h,186,OpenPlay,2019,RightFoot,12475,Bayer Leverkusen,Werder Bremen,2,2,2019-10-26 17:30:00,Mitchell Weiser,Cross
+327403,42,BlockedShot,0.7780000305175782,0.34,0.025233399122953415,Karim Bellarabi,h,186,FromCorner,2019,RightFoot,12475,Bayer Leverkusen,Werder Bremen,2,2,2019-10-26 17:30:00,,Rebound
+327419,74,MissedShots,0.7140000152587891,0.295,0.011517399922013283,Karim Bellarabi,h,186,OpenPlay,2019,RightFoot,12475,Bayer Leverkusen,Werder Bremen,2,2,2019-10-26 17:30:00,Aleksandar Dragovic,BallRecovery
+329106,28,SavedShot,0.8019999694824219,0.305,0.04702010005712509,Karim Bellarabi,h,186,OpenPlay,2019,RightFoot,12486,Bayer Leverkusen,Borussia M.Gladbach,1,2,2019-11-02 14:30:00,Kai Havertz,Pass
+329119,61,SavedShot,0.9209999847412109,0.28600000381469726,0.03526829928159714,Karim Bellarabi,h,186,OpenPlay,2019,RightFoot,12486,Bayer Leverkusen,Borussia M.Gladbach,1,2,2019-11-02 14:30:00,Kerem Demirbay,Pass
+329121,63,BlockedShot,0.7769999694824219,0.5840000152587891,0.021463200449943542,Karim Bellarabi,h,186,FromCorner,2019,LeftFoot,12486,Bayer Leverkusen,Borussia M.Gladbach,1,2,2019-11-02 14:30:00,,None
+329123,68,SavedShot,0.879000015258789,0.285,0.039329301565885544,Karim Bellarabi,h,186,OpenPlay,2019,RightFoot,12486,Bayer Leverkusen,Borussia M.Gladbach,1,2,2019-11-02 14:30:00,Kai Havertz,Pass
+329128,82,BlockedShot,0.855999984741211,0.47200000762939454,0.055530399084091187,Karim Bellarabi,h,186,FromCorner,2019,RightFoot,12486,Bayer Leverkusen,Borussia M.Gladbach,1,2,2019-11-02 14:30:00,,BallTouch
+331445,5,MissedShots,0.865,0.28200000762939453,0.03497229889035225,Karim Bellarabi,a,186,OpenPlay,2019,RightFoot,12501,Wolfsburg,Bayer Leverkusen,0,2,2019-11-10 14:30:00,Kai Havertz,Pass
+331447,24,Goal,0.955,0.37799999237060544,0.09087009727954865,Karim Bellarabi,a,186,OpenPlay,2019,LeftFoot,12501,Wolfsburg,Bayer Leverkusen,0,2,2019-11-10 14:30:00,,Dispossessed
+332112,2,MissedShots,0.8419999694824218,0.539000015258789,0.061466898769140244,Karim Bellarabi,h,186,SetPiece,2019,RightFoot,12503,Bayer Leverkusen,Freiburg,1,1,2019-11-23 14:30:00,,Rebound
+332114,6,BlockedShot,0.8119999694824219,0.38799999237060545,0.029875200241804123,Karim Bellarabi,h,186,FromCorner,2019,RightFoot,12503,Bayer Leverkusen,Freiburg,1,1,2019-11-23 14:30:00,,None
+332117,23,SavedShot,0.8440000152587891,0.325,0.04684529826045036,Karim Bellarabi,h,186,OpenPlay,2019,LeftFoot,12503,Bayer Leverkusen,Freiburg,1,1,2019-11-23 14:30:00,Nadiem Amiri,HeadPass
+332123,39,SavedShot,0.799000015258789,0.3890000152587891,0.03521230071783066,Karim Bellarabi,h,186,OpenPlay,2019,RightFoot,12503,Bayer Leverkusen,Freiburg,1,1,2019-11-23 14:30:00,Nadiem Amiri,Pass
+332125,42,BlockedShot,0.8680000305175781,0.41200000762939454,0.08102429658174515,Karim Bellarabi,h,186,OpenPlay,2019,LeftFoot,12503,Bayer Leverkusen,Freiburg,1,1,2019-11-23 14:30:00,Charles Aránguiz,BallTouch
+332127,46,SavedShot,0.9280000305175782,0.34799999237060547,0.0819339007139206,Karim Bellarabi,h,186,OpenPlay,2019,RightFoot,12503,Bayer Leverkusen,Freiburg,1,1,2019-11-23 14:30:00,Nadiem Amiri,Pass
+332141,86,BlockedShot,0.9569999694824218,0.48400001525878905,0.6265450119972229,Karim Bellarabi,h,186,OpenPlay,2019,LeftFoot,12503,Bayer Leverkusen,Freiburg,1,1,2019-11-23 14:30:00,,None
+333872,74,MissedShots,0.8719999694824219,0.33099998474121095,0.0737013965845108,Karim Bellarabi,a,186,OpenPlay,2019,RightFoot,12512,Bayern Munich,Bayer Leverkusen,1,2,2019-11-30 17:30:00,Nadiem Amiri,Pass
+335874,2,MissedShots,0.924000015258789,0.36900001525878906,0.0815725028514862,Karim Bellarabi,h,186,OpenPlay,2019,RightFoot,12522,Bayer Leverkusen,Schalke 04,2,1,2019-12-07 17:30:00,Kai Havertz,Chipped
+335877,17,SavedShot,0.889000015258789,0.27299999237060546,0.1998489946126938,Karim Bellarabi,h,186,OpenPlay,2019,RightFoot,12522,Bayer Leverkusen,Schalke 04,2,1,2019-12-07 17:30:00,Kai Havertz,Pass
+335887,40,MissedShots,0.750999984741211,0.41900001525878905,0.042264800518751144,Karim Bellarabi,h,186,FromCorner,2019,RightFoot,12522,Bayer Leverkusen,Schalke 04,2,1,2019-12-07 17:30:00,,TakeOn
+335891,67,SavedShot,0.845999984741211,0.2610000038146973,0.09533949941396713,Karim Bellarabi,h,186,OpenPlay,2019,RightFoot,12522,Bayer Leverkusen,Schalke 04,2,1,2019-12-07 17:30:00,Wendell,Chipped
+355307,2,BlockedShot,0.8719999694824219,0.285,0.045768000185489655,Karim Bellarabi,a,186,OpenPlay,2019,RightFoot,12564,Paderborn,Bayer Leverkusen,1,4,2020-01-19 17:00:00,Julian Baumgartlinger,HeadPass
+356341,26,BlockedShot,0.9059999847412109,0.6120000076293945,0.07355710119009018,Karim Bellarabi,h,186,OpenPlay,2019,RightFoot,12567,Bayer Leverkusen,Fortuna Duesseldorf,3,0,2020-01-26 17:00:00,Moussa Diaby,Cross
+356342,29,MissedShots,0.9130000305175782,0.710999984741211,0.05385980010032654,Karim Bellarabi,h,186,OpenPlay,2019,RightFoot,12567,Bayer Leverkusen,Fortuna Duesseldorf,3,0,2020-01-26 17:00:00,Kai Havertz,BallTouch
+356350,53,MissedShots,0.8909999847412109,0.31,0.05811209976673126,Karim Bellarabi,h,186,OpenPlay,2019,RightFoot,12567,Bayer Leverkusen,Fortuna Duesseldorf,3,0,2020-01-26 17:00:00,Kerem Demirbay,Chipped
+356356,61,SavedShot,0.9259999847412109,0.34900001525878904,0.09479080140590668,Karim Bellarabi,h,186,OpenPlay,2019,RightFoot,12567,Bayer Leverkusen,Fortuna Duesseldorf,3,0,2020-01-26 17:00:00,Kevin Volland,BallTouch
+356612,27,ShotOnPost,0.815,0.33799999237060546,0.0346653014421463,Karim Bellarabi,a,186,OpenPlay,2019,RightFoot,12576,Hoffenheim,Bayer Leverkusen,2,1,2020-02-01 14:30:00,Kevin Volland,Pass
+356615,32,BlockedShot,0.9690000152587891,0.48200000762939454,0.9069690108299255,Karim Bellarabi,a,186,OpenPlay,2019,RightFoot,12576,Hoffenheim,Bayer Leverkusen,2,1,2020-02-01 14:30:00,Moussa Diaby,Pass
+356618,33,SavedShot,0.8209999847412109,0.48200000762939454,0.0688956007361412,Karim Bellarabi,a,186,OpenPlay,2019,RightFoot,12576,Hoffenheim,Bayer Leverkusen,2,1,2020-02-01 14:30:00,Moussa Diaby,Pass
+356619,38,MissedShots,0.9669999694824218,0.6759999847412109,0.050207700580358505,Karim Bellarabi,a,186,OpenPlay,2019,RightFoot,12576,Hoffenheim,Bayer Leverkusen,2,1,2020-02-01 14:30:00,Moussa Diaby,Chipped
+358974,88,SavedShot,0.915,0.34,0.291500985622406,Karim Bellarabi,a,186,OpenPlay,2019,RightFoot,12600,Union Berlin,Bayer Leverkusen,2,3,2020-02-15 14:30:00,Kai Havertz,Pass
+358978,91,BlockedShot,0.8780000305175781,0.27899999618530275,0.0377935990691185,Karim Bellarabi,a,186,OpenPlay,2019,RightFoot,12600,Union Berlin,Bayer Leverkusen,2,3,2020-02-15 14:30:00,Kevin Volland,Pass
+358979,93,Goal,0.9769999694824218,0.3940000152587891,0.10667499899864197,Karim Bellarabi,a,186,OpenPlay,2019,RightFoot,12600,Union Berlin,Bayer Leverkusen,2,3,2020-02-15 14:30:00,Charles Aránguiz,Pass
+361651,13,Goal,0.9690000152587891,0.46299999237060546,0.7494490146636963,Karim Bellarabi,h,186,OpenPlay,2019,LeftFoot,12620,Bayer Leverkusen,Eintracht Frankfurt,4,0,2020-03-07 14:30:00,Paulinho,Pass
+361653,36,SavedShot,0.85,0.2979999923706055,0.056403998285532,Karim Bellarabi,h,186,OpenPlay,2019,RightFoot,12620,Bayer Leverkusen,Eintracht Frankfurt,4,0,2020-03-07 14:30:00,Charles Aránguiz,Pass
+361668,86,BlockedShot,0.8080000305175781,0.27600000381469725,0.03338589891791344,Karim Bellarabi,h,186,OpenPlay,2019,RightFoot,12620,Bayer Leverkusen,Eintracht Frankfurt,4,0,2020-03-07 14:30:00,Leon Bailey,Pass
+363105,63,SavedShot,0.9159999847412109,0.25,0.05664470046758652,Karim Bellarabi,a,186,OpenPlay,2019,RightFoot,12631,Werder Bremen,Bayer Leverkusen,1,4,2020-05-18 18:30:00,Kai Havertz,Pass
+363113,92,MissedShots,0.92,0.6990000152587891,0.07422740012407303,Karim Bellarabi,a,186,OpenPlay,2019,RightFoot,12631,Werder Bremen,Bayer Leverkusen,1,4,2020-05-18 18:30:00,Paulinho,Pass
+363171,27,SavedShot,0.9359999847412109,0.26799999237060546,0.05756929889321327,Karim Bellarabi,a,186,OpenPlay,2019,RightFoot,12639,Borussia M.Gladbach,Bayer Leverkusen,1,3,2020-05-23 13:30:00,Kai Havertz,Pass
+378704,41,MissedShots,0.8569999694824219,0.3270000076293945,0.04802750051021576,Karim Bellarabi,h,186,OpenPlay,2020,LeftFoot,14187,Bayer Leverkusen,RasenBallsport Leipzig,1,1,2020-09-26 13:30:00,Charles Aránguiz,Pass
+380515,30,MissedShots,0.720999984741211,0.48200000762939454,0.019307700917124748,Karim Bellarabi,a,186,OpenPlay,2020,RightFoot,15161,VfB Stuttgart,Bayer Leverkusen,1,1,2020-10-03 13:30:00,,None
+380516,38,MissedShots,0.965,0.59,0.11626599729061127,Karim Bellarabi,a,186,OpenPlay,2020,Head,15161,VfB Stuttgart,Bayer Leverkusen,1,1,2020-10-03 13:30:00,Moussa Diaby,Cross
+380517,45,BlockedShot,0.8969999694824219,0.3220000076293945,0.07665450125932693,Karim Bellarabi,a,186,OpenPlay,2020,RightFoot,15161,VfB Stuttgart,Bayer Leverkusen,1,1,2020-10-03 13:30:00,Santiago Arias,BallRecovery
+380525,63,SavedShot,0.8909999847412109,0.3340000152587891,0.0810685008764267,Karim Bellarabi,a,186,OpenPlay,2020,RightFoot,15161,VfB Stuttgart,Bayer Leverkusen,1,1,2020-10-03 13:30:00,,BallRecovery
+380528,71,MissedShots,0.7390000152587891,0.385,0.014973600395023823,Karim Bellarabi,a,186,FromCorner,2020,RightFoot,15161,VfB Stuttgart,Bayer Leverkusen,1,1,2020-10-03 13:30:00,,None
+390997,87,SavedShot,0.870999984741211,0.3220000076293945,0.07372839748859406,Karim Bellarabi,a,186,OpenPlay,2020,RightFoot,15226,Schalke 04,Bayer Leverkusen,0,3,2020-12-06 17:00:00,Moussa Diaby,Pass
+390998,87,MissedShots,0.8969999694824219,0.40400001525878904,0.09793870151042938,Karim Bellarabi,a,186,OpenPlay,2020,RightFoot,15226,Schalke 04,Bayer Leverkusen,0,3,2020-12-06 17:00:00,,Rebound
+392378,90,BlockedShot,0.8580000305175781,0.3089999961853027,0.06828829646110535,Karim Bellarabi,h,186,OpenPlay,2020,RightFoot,15233,Bayer Leverkusen,Hoffenheim,4,1,2020-12-13 17:00:00,,TakeOn
+393178,75,SavedShot,0.8519999694824218,0.36400001525878906,0.07986369729042053,Karim Bellarabi,a,186,OpenPlay,2020,RightFoot,15241,FC Cologne,Bayer Leverkusen,0,4,2020-12-16 19:30:00,,BallRecovery
+401794,63,MissedShots,0.860999984741211,0.29700000762939455,0.03541170060634613,Karim Bellarabi,a,186,OpenPlay,2020,RightFoot,15304,RasenBallsport Leipzig,Bayer Leverkusen,1,0,2021-01-30 17:30:00,Florian Wirtz,Pass
+407487,84,MissedShots,0.960999984741211,0.3629999923706055,0.058699898421764374,Karim Bellarabi,h,186,OpenPlay,2020,RightFoot,15341,Bayer Leverkusen,Freiburg,1,2,2021-02-28 17:00:00,Edmond Tapsoba,Chipped
+407490,89,MissedShots,0.879000015258789,0.669000015258789,0.019031500443816185,Karim Bellarabi,h,186,OpenPlay,2020,LeftFoot,15341,Bayer Leverkusen,Freiburg,1,2,2021-02-28 17:00:00,,Aerial
+407493,93,MissedShots,0.7869999694824219,0.5720000076293945,0.023270299658179283,Karim Bellarabi,h,186,OpenPlay,2020,RightFoot,15341,Bayer Leverkusen,Freiburg,1,2,2021-02-28 17:00:00,Leon Bailey,TakeOn
+412464,1,SavedShot,0.8780000305175781,0.30100000381469727,0.0449008010327816,Karim Bellarabi,h,186,OpenPlay,2020,RightFoot,15377,Bayer Leverkusen,Schalke 04,2,1,2021-04-03 13:30:00,Jonathan Tah,Chipped
+412466,13,MissedShots,0.8,0.2520000076293945,0.01478820014744997,Karim Bellarabi,h,186,OpenPlay,2020,RightFoot,15377,Bayer Leverkusen,Schalke 04,2,1,2021-04-03 13:30:00,,None
+416220,68,ShotOnPost,0.9640000152587891,0.3940000152587891,0.30787599086761475,Karim Bellarabi,a,186,OpenPlay,2020,RightFoot,15401,Bayern Munich,Bayer Leverkusen,2,0,2021-04-20 18:30:00,Leon Bailey,Pass
+416221,69,MissedShots,0.905,0.31799999237060544,0.04239780083298683,Karim Bellarabi,a,186,OpenPlay,2020,RightFoot,15401,Bayern Munich,Bayer Leverkusen,2,0,2021-04-20 18:30:00,,None
+416224,75,SavedShot,0.865,0.22100000381469725,0.024748699739575386,Karim Bellarabi,a,186,FromCorner,2020,RightFoot,15401,Bayern Munich,Bayer Leverkusen,2,0,2021-04-20 18:30:00,Kerem Demirbay,Pass
+417396,8,SavedShot,0.945,0.32799999237060545,0.2687230110168457,Karim Bellarabi,h,186,OpenPlay,2020,RightFoot,15412,Bayer Leverkusen,Eintracht Frankfurt,3,1,2021-04-24 16:30:00,Patrik Schick,Pass
+417397,17,MissedShots,0.89,0.32799999237060545,0.05622889846563339,Karim Bellarabi,h,186,OpenPlay,2020,RightFoot,15412,Bayer Leverkusen,Eintracht Frankfurt,3,1,2021-04-24 16:30:00,,None
+417403,34,MissedShots,0.8490000152587891,0.3120000076293945,0.03969930112361908,Karim Bellarabi,h,186,OpenPlay,2020,RightFoot,15412,Bayer Leverkusen,Eintracht Frankfurt,3,1,2021-04-24 16:30:00,Patrik Schick,None
+417411,52,MissedShots,0.8919999694824219,0.47,0.12775999307632446,Karim Bellarabi,h,186,OpenPlay,2020,LeftFoot,15412,Bayer Leverkusen,Eintracht Frankfurt,3,1,2021-04-24 16:30:00,Leon Bailey,Pass
+419949,13,BlockedShot,0.69,0.5629999923706055,0.019854500889778137,Karim Bellarabi,a,186,FromCorner,2020,RightFoot,15426,Werder Bremen,Bayer Leverkusen,0,0,2021-05-08 13:30:00,Exequiel Palacios,Pass
+423634,26,BlockedShot,0.7730000305175782,0.2520000076293945,0.016886800527572632,Karim Bellarabi,a,186,OpenPlay,2020,RightFoot,15438,Borussia Dortmund,Bayer Leverkusen,3,1,2021-05-22 13:30:00,Florian Wirtz,Pass
+423639,41,SavedShot,0.8030000305175782,0.25799999237060545,0.018721800297498703,Karim Bellarabi,a,186,OpenPlay,2020,RightFoot,15438,Borussia Dortmund,Bayer Leverkusen,3,1,2021-05-22 13:30:00,Florian Wirtz,Pass
+423646,65,MissedShots,0.8719999694824219,0.25799999237060545,0.03178679943084717,Karim Bellarabi,a,186,OpenPlay,2020,LeftFoot,15438,Borussia Dortmund,Bayer Leverkusen,3,1,2021-05-22 13:30:00,Florian Wirtz,Pass
+423648,69,SavedShot,0.9269999694824219,0.32799999237060545,0.08530859649181366,Karim Bellarabi,a,186,OpenPlay,2020,RightFoot,15438,Borussia Dortmund,Bayer Leverkusen,3,1,2021-05-22 13:30:00,Demarai Gray,Pass
+429799,79,BlockedShot,0.850999984741211,0.27600000381469725,0.028619199991226196,Karim Bellarabi,h,186,OpenPlay,2021,RightFoot,17547,Bayer Leverkusen,Borussia Dortmund,3,4,2021-09-11 13:30:00,Amine Adli,Pass
+429800,80,MissedShots,0.9669999694824218,0.36400001525878906,0.0410705991089344,Karim Bellarabi,h,186,FromCorner,2021,RightFoot,17547,Bayer Leverkusen,Borussia Dortmund,3,4,2021-09-11 13:30:00,Florian Wirtz,Cross
+433246,48,MissedShots,0.9009999847412109,0.3940000152587891,0.034853000193834305,Karim Bellarabi,h,186,OpenPlay,2021,Head,17563,Bayer Leverkusen,Mainz 05,1,0,2021-09-25 13:30:00,Jeremie Frimpong,Cross
+433250,52,SavedShot,0.82,0.29700000762939455,0.029152700677514076,Karim Bellarabi,h,186,OpenPlay,2021,RightFoot,17563,Bayer Leverkusen,Mainz 05,1,0,2021-09-25 13:30:00,Florian Wirtz,Pass
+435826,89,SavedShot,0.8980000305175782,0.295,0.07042200118303299,Karim Bellarabi,a,186,OpenPlay,2021,RightFoot,17571,Arminia Bielefeld,Bayer Leverkusen,0,4,2021-10-03 17:30:00,Amine Adli,Pass
+438382,16,Goal,0.9290000152587891,0.42900001525878906,0.45492300391197205,Karim Bellarabi,a,186,OpenPlay,2021,RightFoot,17589,FC Cologne,Bayer Leverkusen,2,2,2021-10-24 13:30:00,,Rebound
+446072,73,BlockedShot,0.885,0.41200000762939454,0.09856180101633072,Karim Bellarabi,h,186,OpenPlay,2021,LeftFoot,17640,Bayer Leverkusen,Greuther Fuerth,7,1,2021-12-04 14:30:00,Patrik Schick,None
+446076,80,ShotOnPost,0.8880000305175781,0.3729999923706055,0.1123649999499321,Karim Bellarabi,h,186,OpenPlay,2021,RightFoot,17640,Bayer Leverkusen,Greuther Fuerth,7,1,2021-12-04 14:30:00,Lucas Alario,Pass
+448488,82,BlockedShot,0.745,0.40400001525878904,0.014273500069975853,Karim Bellarabi,a,186,OpenPlay,2021,LeftFoot,17647,Eintracht Frankfurt,Bayer Leverkusen,5,2,2021-12-12 16:30:00,Kerem Demirbay,Chipped
+448489,83,BlockedShot,0.7419999694824219,0.5129999923706055,0.013600500300526619,Karim Bellarabi,a,186,FromCorner,2021,RightFoot,17647,Eintracht Frankfurt,Bayer Leverkusen,5,2,2021-12-12 16:30:00,,Aerial
+448494,89,BlockedShot,0.7909999847412109,0.6959999847412109,0.014666499570012093,Karim Bellarabi,a,186,OpenPlay,2021,RightFoot,17647,Eintracht Frankfurt,Bayer Leverkusen,5,2,2021-12-12 16:30:00,,None
+449014,58,SavedShot,0.9019999694824219,0.37,0.06897509843111038,Karim Bellarabi,h,186,OpenPlay,2021,RightFoot,17657,Bayer Leverkusen,Hoffenheim,2,2,2021-12-15 19:30:00,Moussa Diaby,Cross
+452183,82,BlockedShot,0.8380000305175781,0.34900001525878904,0.04441450163722038,Karim Bellarabi,h,186,FromCorner,2021,RightFoot,17674,Bayer Leverkusen,Union Berlin,2,2,2022-01-08 14:30:00,Moussa Diaby,Pass
+452185,85,BlockedShot,0.7619999694824219,0.25299999237060544,0.015982599928975105,Karim Bellarabi,h,186,OpenPlay,2021,RightFoot,17674,Bayer Leverkusen,Union Berlin,2,2,2022-01-08 14:30:00,Jonathan Tah,Pass
+453369,10,BlockedShot,0.8819999694824219,0.2510000038146973,0.02969289943575859,Karim Bellarabi,a,186,OpenPlay,2021,LeftFoot,17683,Borussia M.Gladbach,Bayer Leverkusen,1,2,2022-01-15 17:30:00,Kerem Demirbay,TakeOn
+453377,21,BlockedShot,0.7609999847412109,0.6179999923706054,0.02386070042848587,Karim Bellarabi,a,186,OpenPlay,2021,RightFoot,17683,Borussia M.Gladbach,Bayer Leverkusen,1,2,2022-01-15 17:30:00,Kerem Demirbay,Pass
+453397,71,MissedShots,0.8069999694824219,0.40900001525878904,0.05724930018186569,Karim Bellarabi,a,186,OpenPlay,2021,RightFoot,17683,Borussia M.Gladbach,Bayer Leverkusen,1,2,2022-01-15 17:30:00,Moussa Diaby,Pass
+453401,78,SavedShot,0.9469999694824218,0.35,0.10440400242805481,Karim Bellarabi,a,186,OpenPlay,2021,RightFoot,17683,Borussia M.Gladbach,Bayer Leverkusen,1,2,2022-01-15 17:30:00,Florian Wirtz,Pass
+454473,8,Goal,0.9680000305175781,0.345,0.28651100397109985,Karim Bellarabi,h,186,OpenPlay,2021,RightFoot,17693,Bayer Leverkusen,Augsburg,5,1,2022-01-22 14:30:00,Mitchel Bakker,Pass
+454474,11,SavedShot,0.710999984741211,0.5509999847412109,0.018814699724316597,Karim Bellarabi,h,186,OpenPlay,2021,RightFoot,17693,Bayer Leverkusen,Augsburg,5,1,2022-01-22 14:30:00,Florian Wirtz,Pass
+454490,56,SavedShot,0.8859999847412109,0.6809999847412109,0.07597679644823074,Karim Bellarabi,h,186,OpenPlay,2021,RightFoot,17693,Bayer Leverkusen,Augsburg,5,1,2022-01-22 14:30:00,,BallRecovery
+454493,59,MissedShots,0.87,0.6819999694824219,0.07083020359277725,Karim Bellarabi,h,186,OpenPlay,2021,RightFoot,17693,Bayer Leverkusen,Augsburg,5,1,2022-01-22 14:30:00,Florian Wirtz,Pass
+454502,73,MissedShots,0.9290000152587891,0.6480000305175782,0.01528719998896122,Karim Bellarabi,h,186,FromCorner,2021,Head,17693,Bayer Leverkusen,Augsburg,5,1,2022-01-22 14:30:00,Florian Wirtz,Cross
+456270,23,SavedShot,0.919000015258789,0.3609999847412109,0.017727000638842583,Karim Bellarabi,a,186,FromCorner,2021,Head,17703,Borussia Dortmund,Bayer Leverkusen,2,5,2022-02-06 14:30:00,Kerem Demirbay,Cross
+464692,47,MissedShots,0.865999984741211,0.43900001525878907,0.39173001050949097,Karim Bellarabi,a,186,OpenPlay,2021,RightFoot,17756,Wolfsburg,Bayer Leverkusen,0,2,2022-03-20 16:30:00,Moussa Diaby,Pass
+464694,49,BlockedShot,0.9209999847412109,0.3110000038146973,0.028517799451947212,Karim Bellarabi,a,186,OpenPlay,2021,RightFoot,17756,Wolfsburg,Bayer Leverkusen,0,2,2022-03-20 16:30:00,Amine Adli,Cross
+465079,8,MissedShots,0.7659999847412109,0.385,0.018084300681948662,Karim Bellarabi,h,186,FromCorner,2021,RightFoot,17765,Bayer Leverkusen,Hertha Berlin,2,1,2022-04-02 13:30:00,,None
+465080,20,SavedShot,0.855,0.38799999237060545,0.060759201645851135,Karim Bellarabi,h,186,OpenPlay,2021,RightFoot,17765,Bayer Leverkusen,Hertha Berlin,2,1,2022-04-02 13:30:00,,None
+465086,39,Goal,0.8669999694824219,0.48400001525878905,0.12179099768400192,Karim Bellarabi,h,186,OpenPlay,2021,RightFoot,17765,Bayer Leverkusen,Hertha Berlin,2,1,2022-04-02 13:30:00,Moussa Diaby,Pass

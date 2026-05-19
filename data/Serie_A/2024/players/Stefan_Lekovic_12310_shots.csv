@@ -1,0 +1,5 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+614543,12,OwnGoal,0.017000000476837158,0.5079999923706054,0,Stefan Lekovic,h,12310,OpenPlay,2024,LeftFoot,27589,Monza,Verona,0,1,2025-02-01 14:00:00,,None
+614561,91,MissedShots,0.9119999694824219,0.4979999923706055,0.03679097443819046,Stefan Lekovic,h,12310,FromCorner,2024,Head,27589,Monza,Verona,0,1,2025-02-01 14:00:00,Patrick Ciurria,Aerial
+621618,93,BlockedShot,0.7469999694824219,0.335,0.01696593500673771,Stefan Lekovic,a,12310,OpenPlay,2024,LeftFoot,27636,Inter,Monza,3,2,2025-03-08 19:45:00,Georgios Kyriakopoulos,Pass
+631831,71,MissedShots,0.865999984741211,0.5,0.011422167532145977,Stefan Lekovic,h,12310,SetPiece,2024,Head,27708,Monza,Atalanta,0,4,2025-05-04 13:00:00,Omari Forson,Aerial

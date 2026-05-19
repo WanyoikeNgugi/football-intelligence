@@ -1,0 +1,143 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+312449,40,BlockedShot,0.8919999694824219,0.6719999694824219,0.06000300124287605,Marcus Ingvartsen,a,7883,OpenPlay,2019,LeftFoot,12417,Augsburg,Union Berlin,1,1,2019-08-24 14:30:00,Anthony Ujah,Pass
+320250,51,BlockedShot,0.7559999847412109,0.36900001525878906,0.017393000423908234,Marcus Ingvartsen,a,7883,OpenPlay,2019,LeftFoot,12443,Bayer Leverkusen,Union Berlin,2,0,2019-09-21 13:30:00,Akaki Gogia,Pass
+325406,9,ShotOnPost,0.795,0.37,0.04700930044054985,Marcus Ingvartsen,h,7883,OpenPlay,2019,LeftFoot,12468,Union Berlin,Freiburg,2,0,2019-10-19 14:30:00,Robert Andrich,BallTouch
+325414,44,SavedShot,0.8969999694824219,0.545,0.22613300383090973,Marcus Ingvartsen,h,7883,OpenPlay,2019,Head,12468,Union Berlin,Freiburg,2,0,2019-10-19 14:30:00,Christian Gentner,Cross
+325416,53,BlockedShot,0.8630000305175781,0.40700000762939453,0.06857740134000778,Marcus Ingvartsen,h,7883,SetPiece,2019,LeftFoot,12468,Union Berlin,Freiburg,2,0,2019-10-19 14:30:00,,BallTouch
+325428,83,Goal,0.78,0.33599998474121096,0.03162069991230965,Marcus Ingvartsen,h,7883,OpenPlay,2019,LeftFoot,12468,Union Berlin,Freiburg,2,0,2019-10-19 14:30:00,Robert Andrich,Pass
+327138,28,MissedShots,0.7230000305175781,0.5520000076293945,0.009904489852488041,Marcus Ingvartsen,a,7883,OpenPlay,2019,LeftFoot,12476,Bayern Munich,Union Berlin,2,1,2019-10-26 14:30:00,Sebastian Andersson,Aerial
+329456,5,SavedShot,0.895,0.51,0.0805445984005928,Marcus Ingvartsen,h,7883,OpenPlay,2019,OtherBodyPart,12492,Union Berlin,Hertha Berlin,1,0,2019-11-02 17:30:00,Christian Gentner,Cross
+329463,45,SavedShot,0.725,0.29200000762939454,0.013750899583101273,Marcus Ingvartsen,h,7883,OpenPlay,2019,LeftFoot,12492,Union Berlin,Hertha Berlin,1,0,2019-11-02 17:30:00,Christopher Trimmel,Pass
+329472,76,SavedShot,0.7340000152587891,0.33,0.015302900224924088,Marcus Ingvartsen,h,7883,OpenPlay,2019,LeftFoot,12492,Union Berlin,Hertha Berlin,1,0,2019-11-02 17:30:00,Sebastian Andersson,Pass
+330533,9,MissedShots,0.8830000305175781,0.3770000076293945,0.09426730126142502,Marcus Ingvartsen,a,7883,OpenPlay,2019,LeftFoot,12495,Mainz 05,Union Berlin,2,3,2019-11-09 14:30:00,Christopher Trimmel,Pass
+330542,32,BlockedShot,0.7659999847412109,0.48900001525878906,0.03728089854121208,Marcus Ingvartsen,a,7883,OpenPlay,2019,LeftFoot,12495,Mainz 05,Union Berlin,2,3,2019-11-09 14:30:00,Sebastian Polter,Pass
+330546,38,SavedShot,0.8119999694824219,0.315,0.02822910062968731,Marcus Ingvartsen,a,7883,OpenPlay,2019,LeftFoot,12495,Mainz 05,Union Berlin,2,3,2019-11-09 14:30:00,Rafal Gikiewicz,Pass
+330548,46,MissedShots,0.8809999847412109,0.5579999923706055,0.03773849830031395,Marcus Ingvartsen,a,7883,OpenPlay,2019,Head,12495,Mainz 05,Union Berlin,2,3,2019-11-09 14:30:00,Christopher Lenz,Cross
+330553,53,BlockedShot,0.7580000305175781,0.5179999923706055,0.04409259930253029,Marcus Ingvartsen,a,7883,OpenPlay,2019,LeftFoot,12495,Mainz 05,Union Berlin,2,3,2019-11-09 14:30:00,Christian Gentner,Pass
+332000,3,MissedShots,0.9009999847412109,0.5659999847412109,0.03866890072822571,Marcus Ingvartsen,h,7883,FromCorner,2019,LeftFoot,12509,Union Berlin,Borussia M.Gladbach,2,0,2019-11-23 14:30:00,,Aerial
+332006,20,ShotOnPost,0.8190000152587891,0.4490000152587891,0.06946379691362381,Marcus Ingvartsen,h,7883,OpenPlay,2019,RightFoot,12509,Union Berlin,Borussia M.Gladbach,2,0,2019-11-23 14:30:00,,None
+332007,26,MissedShots,0.7340000152587891,0.54,0.02330780029296875,Marcus Ingvartsen,h,7883,OpenPlay,2019,LeftFoot,12509,Union Berlin,Borussia M.Gladbach,2,0,2019-11-23 14:30:00,,None
+333270,3,BlockedShot,0.879000015258789,0.47200000762939454,0.0969981998205185,Marcus Ingvartsen,a,7883,OpenPlay,2019,LeftFoot,12515,Schalke 04,Union Berlin,2,1,2019-11-29 19:30:00,,BallRecovery
+333272,6,BlockedShot,0.7580000305175781,0.395,0.021954499185085297,Marcus Ingvartsen,a,7883,OpenPlay,2019,LeftFoot,12515,Schalke 04,Union Berlin,2,1,2019-11-29 19:30:00,Christian Gentner,BallRecovery
+333277,35,Goal,0.885,0.5,0.7576959729194641,Marcus Ingvartsen,a,7883,Penalty,2019,LeftFoot,12515,Schalke 04,Union Berlin,2,1,2019-11-29 19:30:00,,Standard
+333294,70,MissedShots,0.8490000152587891,0.34200000762939453,0.05438530072569847,Marcus Ingvartsen,a,7883,OpenPlay,2019,RightFoot,12515,Schalke 04,Union Berlin,2,1,2019-11-29 19:30:00,,Dispossessed
+333295,72,BlockedShot,0.8019999694824219,0.29700000762939455,0.025510000064969063,Marcus Ingvartsen,a,7883,OpenPlay,2019,RightFoot,12515,Schalke 04,Union Berlin,2,1,2019-11-29 19:30:00,Christian Gentner,Pass
+333303,94,SavedShot,0.7340000152587891,0.39799999237060546,0.016900600865483284,Marcus Ingvartsen,a,7883,OpenPlay,2019,LeftFoot,12515,Schalke 04,Union Berlin,2,1,2019-11-29 19:30:00,Florian Hübner,Pass
+336400,33,MissedShots,0.909000015258789,0.7559999847412109,0.06323909759521484,Marcus Ingvartsen,h,7883,OpenPlay,2019,LeftFoot,12528,Union Berlin,FC Cologne,2,0,2019-12-08 14:30:00,Sebastian Polter,Pass
+336401,42,MissedShots,0.9030000305175782,0.5209999847412109,0.10573100298643112,Marcus Ingvartsen,h,7883,OpenPlay,2019,Head,12528,Union Berlin,FC Cologne,2,0,2019-12-08 14:30:00,Christopher Lenz,Cross
+336838,6,Goal,0.7759999847412109,0.43400001525878906,0.02806450054049492,Marcus Ingvartsen,a,7883,OpenPlay,2019,LeftFoot,12537,Paderborn,Union Berlin,1,1,2019-12-14 14:30:00,,None
+336856,63,MissedShots,0.9269999694824219,0.49900001525878906,0.431753009557724,Marcus Ingvartsen,a,7883,OpenPlay,2019,LeftFoot,12537,Paderborn,Union Berlin,1,1,2019-12-14 14:30:00,Christopher Trimmel,Cross
+336859,74,BlockedShot,0.889000015258789,0.5170000076293946,0.08638659864664078,Marcus Ingvartsen,a,7883,OpenPlay,2019,RightFoot,12537,Paderborn,Union Berlin,1,1,2019-12-14 14:30:00,Sebastian Andersson,Cross
+338041,22,MissedShots,0.915,0.5609999847412109,0.09821189939975739,Marcus Ingvartsen,h,7883,FromCorner,2019,RightFoot,12546,Union Berlin,Hoffenheim,0,2,2019-12-17 19:30:00,,None
+339313,35,BlockedShot,0.815,0.27399999618530274,0.020174499601125717,Marcus Ingvartsen,a,7883,OpenPlay,2019,LeftFoot,12550,Fortuna Duesseldorf,Union Berlin,2,1,2019-12-22 14:30:00,Christopher Trimmel,Pass
+339314,37,MissedShots,0.904000015258789,0.5370000076293945,0.09979529678821564,Marcus Ingvartsen,a,7883,OpenPlay,2019,Head,12550,Fortuna Duesseldorf,Union Berlin,2,1,2019-12-22 14:30:00,Marius Bülter,Cross
+355781,19,BlockedShot,0.7980000305175782,0.26,0.02272460050880909,Marcus Ingvartsen,h,7883,OpenPlay,2019,LeftFoot,12573,Union Berlin,Augsburg,2,0,2020-01-25 14:30:00,Christian Gentner,Pass
+355795,60,Goal,0.9030000305175782,0.5659999847412109,0.1364389955997467,Marcus Ingvartsen,h,7883,OpenPlay,2019,LeftFoot,12573,Union Berlin,Augsburg,2,0,2020-01-25 14:30:00,Robert Andrich,Pass
+358980,96,BlockedShot,0.9369999694824219,0.7090000152587891,0.04795829951763153,Marcus Ingvartsen,h,7883,OpenPlay,2019,LeftFoot,12600,Union Berlin,Bayer Leverkusen,2,3,2020-02-15 14:30:00,Sebastian Polter,Pass
+360500,63,SavedShot,0.9119999694824219,0.6179999923706054,0.027408499270677567,Marcus Ingvartsen,a,7883,OpenPlay,2019,Head,12605,Eintracht Frankfurt,Union Berlin,1,2,2020-02-24 19:30:00,Christopher Lenz,Aerial
+361237,70,SavedShot,0.9119999694824219,0.48900001525878906,0.3388789892196655,Marcus Ingvartsen,h,7883,OpenPlay,2019,Head,12618,Union Berlin,Wolfsburg,2,2,2020-03-01 12:30:00,Robert Andrich,Cross
+361741,78,MissedShots,0.88,0.47,0.046131398528814316,Marcus Ingvartsen,a,7883,OpenPlay,2019,Head,12625,Freiburg,Union Berlin,3,1,2020-03-07 14:30:00,Sebastian Polter,HeadPass
+361746,86,MissedShots,0.9030000305175782,0.6,0.03402959927916527,Marcus Ingvartsen,a,7883,OpenPlay,2019,Head,12625,Freiburg,Union Berlin,3,1,2020-03-07 14:30:00,Sebastian Andersson,HeadPass
+363122,38,BlockedShot,0.7080000305175781,0.45799999237060546,0.01061089988797903,Marcus Ingvartsen,a,7883,OpenPlay,2019,LeftFoot,12641,Hertha Berlin,Union Berlin,4,0,2020-05-22 18:30:00,,None
+363555,32,Goal,0.7819999694824219,0.34599998474121096,0.07378509640693665,Marcus Ingvartsen,h,7883,DirectFreekick,2019,LeftFoot,12651,Union Berlin,Mainz 05,1,1,2020-05-27 18:30:00,,Standard
+363730,78,MissedShots,0.7140000152587891,0.5070000076293946,0.017103200778365135,Marcus Ingvartsen,a,7883,OpenPlay,2019,LeftFoot,12656,Borussia M.Gladbach,Union Berlin,4,1,2020-05-31 13:30:00,Christian Gentner,Pass
+364237,4,MissedShots,0.8980000305175782,0.629000015258789,0.0722402036190033,Marcus Ingvartsen,a,7883,OpenPlay,2019,LeftFoot,12680,FC Cologne,Union Berlin,1,2,2020-06-13 13:30:00,,None
+364656,75,SavedShot,0.77,0.33099998474121095,0.02913689985871315,Marcus Ingvartsen,h,7883,OpenPlay,2019,LeftFoot,12690,Union Berlin,Paderborn,1,0,2020-06-16 18:30:00,Robert Andrich,Pass
+364660,94,BlockedShot,0.8819999694824219,0.455,0.10733799636363983,Marcus Ingvartsen,h,7883,OpenPlay,2019,LeftFoot,12690,Union Berlin,Paderborn,1,0,2020-06-16 18:30:00,,None
+377386,18,MissedShots,0.93,0.42900001525878906,0.10897199809551239,Marcus Ingvartsen,h,7883,OpenPlay,2020,RightFoot,14175,Union Berlin,Augsburg,1,3,2020-09-19 13:30:00,Christian Gentner,Cross
+377394,63,MissedShots,0.9019999694824219,0.5570000076293945,0.07803419977426529,Marcus Ingvartsen,h,7883,OpenPlay,2020,Head,14175,Union Berlin,Augsburg,1,3,2020-09-19 13:30:00,Marius Bülter,Cross
+377401,85,MissedShots,0.705999984741211,0.37,0.015287700109183788,Marcus Ingvartsen,h,7883,OpenPlay,2020,LeftFoot,14175,Union Berlin,Augsburg,1,3,2020-09-19 13:30:00,Marius Bülter,Pass
+378762,81,BlockedShot,0.7130000305175781,0.40599998474121096,0.042812298983335495,Marcus Ingvartsen,a,7883,DirectFreekick,2020,LeftFoot,14186,Borussia M.Gladbach,Union Berlin,1,1,2020-09-26 13:30:00,,Standard
+380275,48,Goal,0.93,0.565,0.3575870096683502,Marcus Ingvartsen,h,7883,OpenPlay,2020,LeftFoot,15158,Union Berlin,Mainz 05,4,0,2020-10-02 18:30:00,Christopher Trimmel,Cross
+380279,77,BlockedShot,0.779000015258789,0.4929999923706055,0.0997575968503952,Marcus Ingvartsen,h,7883,DirectFreekick,2020,LeftFoot,15158,Union Berlin,Mainz 05,4,0,2020-10-02 18:30:00,,Standard
+383197,5,SavedShot,0.74,0.5159999847412109,0.021685099229216576,Marcus Ingvartsen,h,7883,OpenPlay,2020,RightFoot,15177,Union Berlin,Freiburg,1,1,2020-10-24 13:30:00,Sheraldo Becker,Pass
+383204,24,MissedShots,0.9290000152587891,0.6079999923706054,0.03107449971139431,Marcus Ingvartsen,h,7883,OpenPlay,2020,Head,15177,Union Berlin,Freiburg,1,1,2020-10-24 13:30:00,Christopher Trimmel,Aerial
+383212,48,SavedShot,0.9080000305175782,0.725999984741211,0.045308299362659454,Marcus Ingvartsen,h,7883,OpenPlay,2020,LeftFoot,15177,Union Berlin,Freiburg,1,1,2020-10-24 13:30:00,Max Kruse,Pass
+388125,8,MissedShots,0.8590000152587891,0.5070000076293946,0.3369159996509552,Marcus Ingvartsen,a,7883,OpenPlay,2020,RightFoot,15211,FC Cologne,Union Berlin,1,2,2020-11-22 17:00:00,Marvin Friedrich,Throughball
+388135,65,BlockedShot,0.86,0.47900001525878905,0.10758800059556961,Marcus Ingvartsen,a,7883,OpenPlay,2020,LeftFoot,15211,FC Cologne,Union Berlin,1,2,2020-11-22 17:00:00,Taiwo Awoniyi,LayOff
+391736,11,SavedShot,0.789000015258789,0.40400001525878904,0.04299819841980934,Marcus Ingvartsen,h,7883,OpenPlay,2020,LeftFoot,15236,Union Berlin,Bayern Munich,1,1,2020-12-12 17:30:00,Christopher Lenz,Pass
+397836,35,SavedShot,0.779000015258789,0.575999984741211,0.025578700006008148,Marcus Ingvartsen,h,7883,SetPiece,2020,LeftFoot,15270,Union Berlin,Wolfsburg,2,2,2021-01-09 14:30:00,Robert Andrich,Pass
+400050,13,MissedShots,0.6869999694824219,0.43400001525878906,0.017463600262999535,Marcus Ingvartsen,a,7883,OpenPlay,2020,LeftFoot,15284,RasenBallsport Leipzig,Union Berlin,1,0,2021-01-20 19:30:00,Robert Andrich,Pass
+400059,79,MissedShots,0.8869999694824219,0.624000015258789,0.061234001070261,Marcus Ingvartsen,a,7883,OpenPlay,2020,RightFoot,15284,RasenBallsport Leipzig,Union Berlin,1,0,2021-01-20 19:30:00,,None
+400062,84,MissedShots,0.794000015258789,0.6379999923706055,0.029092099517583847,Marcus Ingvartsen,a,7883,OpenPlay,2020,LeftFoot,15284,RasenBallsport Leipzig,Union Berlin,1,0,2021-01-20 19:30:00,Robert Andrich,Pass
+400385,24,Goal,0.8519999694824218,0.6170000076293946,0.05393489822745323,Marcus Ingvartsen,a,7883,OpenPlay,2020,LeftFoot,15300,Augsburg,Union Berlin,2,1,2021-01-23 14:30:00,Taiwo Awoniyi,Pass
+400393,55,SavedShot,0.885,0.5,0.7576959729194641,Marcus Ingvartsen,a,7883,Penalty,2020,LeftFoot,15300,Augsburg,Union Berlin,2,1,2021-01-23 14:30:00,,Standard
+401564,6,MissedShots,0.7580000305175781,0.595999984741211,0.033087100833654404,Marcus Ingvartsen,h,7883,OpenPlay,2020,LeftFoot,15307,Union Berlin,Borussia M.Gladbach,1,1,2021-01-30 14:30:00,Cedric Teuchert,LayOff
+401580,72,BlockedShot,0.8480000305175781,0.519000015258789,0.09258630126714706,Marcus Ingvartsen,h,7883,OpenPlay,2020,RightFoot,15307,Union Berlin,Borussia M.Gladbach,1,1,2021-01-30 14:30:00,Marvin Friedrich,Pass
+403135,9,BlockedShot,0.860999984741211,0.4179999923706055,0.04826670140028,Marcus Ingvartsen,a,7883,OpenPlay,2020,LeftFoot,15317,Mainz 05,Union Berlin,1,0,2021-02-06 14:30:00,Christopher Trimmel,Cross
+403147,68,SavedShot,0.8,0.6819999694824219,0.025580300018191338,Marcus Ingvartsen,a,7883,OpenPlay,2020,LeftFoot,15317,Mainz 05,Union Berlin,1,0,2021-02-06 14:30:00,Taiwo Awoniyi,Pass
+404396,45,BlockedShot,0.85,0.55,0.09130319952964783,Marcus Ingvartsen,h,7883,OpenPlay,2020,RightFoot,15326,Union Berlin,Schalke 04,0,0,2021-02-13 17:30:00,Robert Andrich,Pass
+404399,52,BlockedShot,0.8040000152587891,0.6780000305175782,0.028151700273156166,Marcus Ingvartsen,h,7883,OpenPlay,2020,LeftFoot,15326,Union Berlin,Schalke 04,0,0,2021-02-13 17:30:00,Taiwo Awoniyi,Pass
+404404,66,SavedShot,0.8269999694824218,0.5509999847412109,0.1042810007929802,Marcus Ingvartsen,h,7883,OpenPlay,2020,LeftFoot,15326,Union Berlin,Schalke 04,0,0,2021-02-13 17:30:00,Taiwo Awoniyi,Pass
+404406,72,BlockedShot,0.85,0.6329999923706054,0.05826859921216965,Marcus Ingvartsen,h,7883,OpenPlay,2020,LeftFoot,15326,Union Berlin,Schalke 04,0,0,2021-02-13 17:30:00,Taiwo Awoniyi,Pass
+404409,84,SavedShot,0.9640000152587891,0.555,0.1482439935207367,Marcus Ingvartsen,h,7883,OpenPlay,2020,Head,15326,Union Berlin,Schalke 04,0,0,2021-02-13 17:30:00,Grischa Prömel,Cross
+405531,67,MissedShots,0.855999984741211,0.5720000076293945,0.05976109951734543,Marcus Ingvartsen,a,7883,FromCorner,2020,RightFoot,15331,Freiburg,Union Berlin,0,1,2021-02-20 14:30:00,,None
+405539,92,SavedShot,0.7240000152587891,0.4909999847412109,0.051790401339530945,Marcus Ingvartsen,a,7883,DirectFreekick,2020,LeftFoot,15331,Freiburg,Union Berlin,0,1,2021-02-20 14:30:00,,Standard
+407129,46,BlockedShot,0.879000015258789,0.5209999847412109,0.10971999913454056,Marcus Ingvartsen,h,7883,SetPiece,2020,RightFoot,15343,Union Berlin,Hoffenheim,1,1,2021-02-28 12:30:00,Marvin Friedrich,Pass
+407133,55,MissedShots,0.9459999847412109,0.6020000076293945,0.037892598658800125,Marcus Ingvartsen,h,7883,OpenPlay,2020,Head,15343,Union Berlin,Hoffenheim,1,1,2021-02-28 12:30:00,Max Kruse,Aerial
+411344,17,MissedShots,0.8980000305175782,0.595999984741211,0.08069449663162231,Marcus Ingvartsen,a,7883,OpenPlay,2020,LeftFoot,15368,Eintracht Frankfurt,Union Berlin,5,2,2021-03-20 14:30:00,Julian Ryerson,Cross
+413852,84,Goal,0.9580000305175781,0.5459999847412109,0.5672829747200012,Marcus Ingvartsen,a,7883,OpenPlay,2020,LeftFoot,15383,Bayern Munich,Union Berlin,1,1,2021-04-10 13:30:00,Robert Andrich,Pass
+416431,0,ShotOnPost,0.799000015258789,0.2989999961853027,0.02323310077190399,Marcus Ingvartsen,a,7883,OpenPlay,2020,LeftFoot,15402,Borussia Dortmund,Union Berlin,2,0,2021-04-21 18:30:00,,BallRecovery
+421824,10,SavedShot,0.8440000152587891,0.5520000076293945,0.0903749018907547,Marcus Ingvartsen,a,7883,OpenPlay,2020,LeftFoot,15430,Bayer Leverkusen,Union Berlin,1,1,2021-05-15 13:30:00,Christopher Lenz,Pass
+421833,43,MissedShots,0.7140000152587891,0.56,0.01601099967956543,Marcus Ingvartsen,a,7883,OpenPlay,2020,LeftFoot,15430,Bayer Leverkusen,Union Berlin,1,1,2021-05-15 13:30:00,Robert Andrich,HeadPass
+423509,27,SavedShot,0.749000015258789,0.67,0.013728500343859196,Marcus Ingvartsen,h,7883,SetPiece,2020,LeftFoot,15442,Union Berlin,RasenBallsport Leipzig,2,1,2021-05-22 13:30:00,Christian Gentner,BallTouch
+423521,59,BlockedShot,0.85,0.46099998474121096,0.026886699721217155,Marcus Ingvartsen,h,7883,FromCorner,2020,LeftFoot,15442,Union Berlin,RasenBallsport Leipzig,2,1,2021-05-22 13:30:00,,Aerial
+425686,5,SavedShot,0.8490000152587891,0.5690000152587891,0.07884220033884048,Marcus Ingvartsen,h,7883,OpenPlay,2021,LeftFoot,17520,Union Berlin,Bayer Leverkusen,1,1,2021-08-14 13:30:00,Taiwo Awoniyi,Pass
+429679,76,Goal,0.85,0.445,0.09500610083341599,Marcus Ingvartsen,a,7883,OpenPlay,2021,LeftFoot,17544,Hoffenheim,Mainz 05,0,2,2021-09-11 13:30:00,Anton Stach,Pass
+429682,90,MissedShots,0.884000015258789,0.649000015258789,0.11564599722623825,Marcus Ingvartsen,a,7883,OpenPlay,2021,LeftFoot,17544,Hoffenheim,Mainz 05,0,2,2021-09-11 13:30:00,Jeremiah St. Juste,Pass
+431272,60,MissedShots,0.705,0.39599998474121095,0.011407500132918358,Marcus Ingvartsen,h,7883,SetPiece,2021,LeftFoot,17554,Mainz 05,Freiburg,0,0,2021-09-18 13:30:00,Alexander Hack,BallTouch
+433259,88,SavedShot,0.9319999694824219,0.500999984741211,0.11595900356769562,Marcus Ingvartsen,a,7883,OpenPlay,2021,Head,17563,Bayer Leverkusen,Mainz 05,1,0,2021-09-25 13:30:00,Anton Stach,Cross
+435556,38,Goal,0.8730000305175781,0.534000015258789,0.38652101159095764,Marcus Ingvartsen,h,7883,OpenPlay,2021,LeftFoot,17573,Mainz 05,Union Berlin,1,2,2021-10-03 13:30:00,Karim Onisiwo,Pass
+435568,65,MissedShots,0.7340000152587891,0.700999984741211,0.040323201566934586,Marcus Ingvartsen,h,7883,DirectFreekick,2021,LeftFoot,17573,Mainz 05,Union Berlin,1,2,2021-10-03 13:30:00,,Standard
+437388,89,SavedShot,0.8530000305175781,0.35200000762939454,0.06766059994697571,Marcus Ingvartsen,h,7883,OpenPlay,2021,RightFoot,17592,Mainz 05,Augsburg,4,1,2021-10-22 18:30:00,Daniel Brosinski,Pass
+447590,78,MissedShots,0.8769999694824219,0.7169999694824218,0.03506749868392944,Marcus Ingvartsen,a,7883,OpenPlay,2021,LeftFoot,17650,Bayern Munich,Mainz 05,2,1,2021-12-11 14:30:00,Leandro Barreiro Martins,Pass
+448858,66,SavedShot,0.8780000305175781,0.48900001525878906,0.10548999905586243,Marcus Ingvartsen,h,7883,OpenPlay,2021,LeftFoot,17653,Mainz 05,Hertha Berlin,4,0,2021-12-14 19:30:00,Jonathan Burkardt,BallTouch
+457975,87,Goal,0.9080000305175782,0.580999984741211,0.08964280039072037,Marcus Ingvartsen,h,7883,OpenPlay,2021,LeftFoot,17718,Mainz 05,Bayer Leverkusen,3,2,2022-02-18 19:30:00,,None
+459680,73,MissedShots,0.8669999694824219,0.3120000076293945,0.04651020094752312,Marcus Ingvartsen,a,7883,OpenPlay,2021,RightFoot,17729,Union Berlin,Mainz 05,3,1,2022-02-26 14:30:00,Jonathan Burkardt,Pass
+459682,86,BlockedShot,0.73,0.37099998474121093,0.01657550036907196,Marcus Ingvartsen,a,7883,OpenPlay,2021,LeftFoot,17729,Union Berlin,Mainz 05,3,1,2022-02-26 14:30:00,Kevin Stöger,Pass
+463973,78,Goal,0.885,0.5,0.7577769756317139,Marcus Ingvartsen,h,7883,Penalty,2021,LeftFoot,17754,Mainz 05,Arminia Bielefeld,4,0,2022-03-19 14:30:00,,Standard
+465953,11,SavedShot,0.7659999847412109,0.4640000152587891,0.02582249976694584,Marcus Ingvartsen,a,7883,OpenPlay,2021,LeftFoot,17763,Borussia M.Gladbach,Mainz 05,1,1,2022-04-03 15:30:00,Leandro Barreiro Martins,Pass
+466349,81,SavedShot,0.845,0.5570000076293945,0.05904160067439079,Marcus Ingvartsen,a,7883,OpenPlay,2021,LeftFoot,17742,Augsburg,Mainz 05,2,1,2022-04-06 16:30:00,Karim Onisiwo,Chipped
+466352,94,MissedShots,0.8390000152587891,0.435,0.05047779902815819,Marcus Ingvartsen,a,7883,OpenPlay,2021,RightFoot,17742,Augsburg,Mainz 05,2,1,2022-04-06 16:30:00,Stefan Bell,HeadPass
+466666,91,MissedShots,0.9359999847412109,0.509000015258789,0.1346839964389801,Marcus Ingvartsen,a,7883,OpenPlay,2021,LeftFoot,17770,FC Cologne,Mainz 05,3,2,2022-04-09 13:30:00,,Rebound
+468087,80,MissedShots,0.8919999694824219,0.4879999923706055,0.1052590012550354,Marcus Ingvartsen,h,7883,OpenPlay,2021,RightFoot,17779,Mainz 05,VfB Stuttgart,0,0,2022-04-16 13:30:00,Jonathan Burkardt,BallTouch
+474843,89,SavedShot,0.779000015258789,0.4229999923706055,0.041153401136398315,Marcus Ingvartsen,a,7883,OpenPlay,2021,LeftFoot,17807,Hertha Berlin,Mainz 05,1,2,2022-05-07 16:30:00,Anton Stach,Pass
+475727,6,BlockedShot,0.9569999694824218,0.5970000076293945,0.06620139628648758,Marcus Ingvartsen,h,7883,FromCorner,2021,LeftFoot,17815,Mainz 05,Eintracht Frankfurt,2,2,2022-05-14 13:30:00,Daniel Brosinski,Cross
+475731,9,Goal,0.9319999694824219,0.4129999923706055,0.12722499668598175,Marcus Ingvartsen,h,7883,OpenPlay,2021,RightFoot,17815,Mainz 05,Eintracht Frankfurt,2,2,2022-05-14 13:30:00,,Rebound
+475742,48,Goal,0.9080000305175782,0.45799999237060546,0.11374899744987488,Marcus Ingvartsen,h,7883,OpenPlay,2021,RightFoot,17815,Mainz 05,Eintracht Frankfurt,2,2,2022-05-14 13:30:00,Anton Stach,Pass
+488363,92,MissedShots,0.8630000305175781,0.5,0.0648099035024643,Marcus Ingvartsen,h,7883,FromCorner,2022,LeftFoot,19396,Mainz 05,Hertha Berlin,1,1,2022-09-16 18:30:00,Robin Zentner,Pass
+491520,20,MissedShots,0.865,0.5609999847412109,0.024684300646185875,Marcus Ingvartsen,h,7883,OpenPlay,2022,Head,19416,Mainz 05,RasenBallsport Leipzig,1,1,2022-10-08 13:30:00,Aarón Martín,Cross
+491526,44,Goal,0.9540000152587891,0.34799999237060547,0.32245901226997375,Marcus Ingvartsen,h,7883,OpenPlay,2022,RightFoot,19416,Mainz 05,RasenBallsport Leipzig,1,1,2022-10-08 13:30:00,Anton Stach,Throughball
+493030,26,BlockedShot,0.754000015258789,0.46,0.024812599644064903,Marcus Ingvartsen,a,7883,OpenPlay,2022,RightFoot,19431,Werder Bremen,Mainz 05,0,2,2022-10-15 13:30:00,Alexander Hack,Chipped
+493034,35,Goal,0.93,0.47,0.4169119894504547,Marcus Ingvartsen,a,7883,OpenPlay,2022,Head,19431,Werder Bremen,Mainz 05,0,2,2022-10-15 13:30:00,Danny da Costa,Cross
+494661,10,Goal,0.885,0.5,0.7577769756317139,Marcus Ingvartsen,h,7883,Penalty,2022,LeftFoot,19435,Mainz 05,FC Cologne,5,0,2022-10-21 18:30:00,,Standard
+494665,25,SavedShot,0.740999984741211,0.49400001525878906,0.03863690048456192,Marcus Ingvartsen,h,7883,OpenPlay,2022,RightFoot,19435,Mainz 05,FC Cologne,5,0,2022-10-21 18:30:00,Jae-Sung Lee,HeadPass
+496445,81,Goal,0.855,0.5429999923706055,0.08183900266885757,Marcus Ingvartsen,a,7883,OpenPlay,2022,RightFoot,19441,Bayern Munich,Mainz 05,6,2,2022-10-29 13:30:00,Delano Burgzorg,Pass
+498005,20,SavedShot,0.9390000152587891,0.6819999694824219,0.192781001329422,Marcus Ingvartsen,h,7883,OpenPlay,2022,LeftFoot,19451,Mainz 05,Wolfsburg,0,3,2022-11-05 14:30:00,Aarón Martín,Pass
+498006,24,BlockedShot,0.845,0.47,0.07625669986009598,Marcus Ingvartsen,h,7883,OpenPlay,2022,LeftFoot,19451,Mainz 05,Wolfsburg,0,3,2022-11-05 14:30:00,Karim Onisiwo,Pass
+498016,57,BlockedShot,0.905,0.48200000762939454,0.4870019853115082,Marcus Ingvartsen,h,7883,OpenPlay,2022,RightFoot,19451,Mainz 05,Wolfsburg,0,3,2022-11-05 14:30:00,,TakeOn
+498018,59,MissedShots,0.7769999694824219,0.6329999923706054,0.026945099234580994,Marcus Ingvartsen,h,7883,OpenPlay,2022,RightFoot,19451,Mainz 05,Wolfsburg,0,3,2022-11-05 14:30:00,Anton Stach,Pass
+498019,61,MissedShots,0.9259999847412109,0.4640000152587891,0.10734699666500092,Marcus Ingvartsen,h,7883,FromCorner,2022,Head,19451,Mainz 05,Wolfsburg,0,3,2022-11-05 14:30:00,Aarón Martín,Cross
+499419,16,BlockedShot,0.8380000305175781,0.4909999847412109,0.07015959918498993,Marcus Ingvartsen,a,7883,OpenPlay,2022,RightFoot,19467,Schalke 04,Mainz 05,1,0,2022-11-09 19:30:00,Danny da Costa,Pass
+499422,24,MissedShots,0.905,0.5720000076293945,0.08487290143966675,Marcus Ingvartsen,a,7883,OpenPlay,2022,LeftFoot,19467,Schalke 04,Mainz 05,1,0,2022-11-09 19:30:00,Karim Onisiwo,Cross
+499432,53,MissedShots,0.9,0.5070000076293946,0.08764220029115677,Marcus Ingvartsen,a,7883,OpenPlay,2022,LeftFoot,19467,Schalke 04,Mainz 05,1,0,2022-11-09 19:30:00,Anthony Caci,Cross
+504506,33,BlockedShot,0.8469999694824218,0.45799999237060546,0.06888460367918015,Marcus Ingvartsen,a,7883,OpenPlay,2022,RightFoot,19485,VfB Stuttgart,Mainz 05,1,1,2023-01-21 14:30:00,,None
+504510,39,Goal,0.885,0.5,0.7577769756317139,Marcus Ingvartsen,a,7883,Penalty,2022,LeftFoot,19485,VfB Stuttgart,Mainz 05,1,1,2023-01-21 14:30:00,,Standard
+505438,49,MissedShots,0.8859999847412109,0.4929999923706055,0.07487549632787704,Marcus Ingvartsen,h,7883,OpenPlay,2022,Head,19489,Mainz 05,Borussia Dortmund,1,2,2023-01-25 17:30:00,Aymen Barkok,Cross
+505442,59,MissedShots,0.9490000152587891,0.5029999923706054,0.1412860006093979,Marcus Ingvartsen,h,7883,OpenPlay,2022,Head,19489,Mainz 05,Borussia Dortmund,1,2,2023-01-25 17:30:00,,Aerial
+507011,78,Goal,0.885,0.5,0.7577769756317139,Marcus Ingvartsen,a,7883,Penalty,2022,LeftFoot,19505,Union Berlin,Mainz 05,2,1,2023-02-04 14:30:00,,Standard
+507017,89,BlockedShot,0.855,0.49400001525878906,0.06448949873447418,Marcus Ingvartsen,a,7883,OpenPlay,2022,RightFoot,19505,Union Berlin,Mainz 05,2,1,2023-02-04 14:30:00,,None
+510462,81,Goal,0.885,0.5,0.7576959729194641,Marcus Ingvartsen,a,7883,Penalty,2022,LeftFoot,19523,Bayer Leverkusen,Mainz 05,2,3,2023-02-19 18:30:00,,Standard
+510465,94,SavedShot,0.889000015258789,0.5159999847412109,0.08922570198774338,Marcus Ingvartsen,a,7883,OpenPlay,2022,Head,19523,Bayer Leverkusen,Mainz 05,2,3,2023-02-19 18:30:00,Aarón Martín,Cross
+510598,40,MissedShots,0.8590000152587891,0.3320000076293945,0.31640198826789856,Marcus Ingvartsen,h,7883,OpenPlay,2022,LeftFoot,19535,Mainz 05,Borussia M.Gladbach,4,0,2023-02-24 19:30:00,,None
+510604,48,Goal,0.9730000305175781,0.4570000076293945,0.7177029848098755,Marcus Ingvartsen,h,7883,OpenPlay,2022,RightFoot,19535,Mainz 05,Borussia M.Gladbach,4,0,2023-02-24 19:30:00,,Rebound
+512098,59,BlockedShot,0.8830000305175781,0.395,0.08315049856901169,Marcus Ingvartsen,h,7883,OpenPlay,2022,RightFoot,19543,Mainz 05,Hoffenheim,1,0,2023-03-04 14:30:00,Danny da Costa,HeadPass
+515842,36,SavedShot,0.765,0.3039999961853027,0.053578998893499374,Marcus Ingvartsen,h,7883,DirectFreekick,2022,LeftFoot,19561,Mainz 05,Freiburg,1,1,2023-03-19 18:30:00,,Standard
+515843,36,MissedShots,0.9330000305175781,0.44,0.31390199065208435,Marcus Ingvartsen,h,7883,FromCorner,2022,Head,19561,Mainz 05,Freiburg,1,1,2023-03-19 18:30:00,Edimilson Fernandes,Cross
+516151,8,Goal,0.97,0.46799999237060547,0.7119250297546387,Marcus Ingvartsen,a,7883,OpenPlay,2022,RightFoot,19575,RasenBallsport Leipzig,Mainz 05,0,3,2023-04-01 13:30:00,,Rebound
+516154,24,SavedShot,0.9119999694824219,0.645,0.3554919958114624,Marcus Ingvartsen,a,7883,OpenPlay,2022,LeftFoot,19575,RasenBallsport Leipzig,Mainz 05,0,3,2023-04-01 13:30:00,Ludovic Ajorque,TakeOn
+516169,61,SavedShot,0.8690000152587891,0.5529999923706055,0.09614299982786179,Marcus Ingvartsen,a,7883,OpenPlay,2022,RightFoot,19575,RasenBallsport Leipzig,Mainz 05,0,3,2023-04-01 13:30:00,,None
+517875,17,SavedShot,0.879000015258789,0.539000015258789,0.07782019674777985,Marcus Ingvartsen,h,7883,OpenPlay,2022,LeftFoot,19579,Mainz 05,Werder Bremen,2,2,2023-04-08 13:30:00,Silvan Widmer,Cross
+520721,77,BlockedShot,0.8090000152587891,0.5329999923706055,0.06955743581056595,Marcus Ingvartsen,h,7883,OpenPlay,2022,LeftFoot,19597,Mainz 05,Bayern Munich,3,1,2023-04-22 13:30:00,Aymen Barkok,Pass
+525887,34,BlockedShot,0.8719999694824219,0.6120000076293945,0.059304554015398026,Marcus Ingvartsen,a,7883,OpenPlay,2022,LeftFoot,19626,Eintracht Frankfurt,Mainz 05,3,0,2023-05-13 13:30:00,,None
+528019,22,Goal,0.9890000152587891,0.49599998474121093,0.949497640132904,Marcus Ingvartsen,h,7883,FromCorner,2022,LeftFoot,19633,Mainz 05,VfB Stuttgart,1,4,2023-05-21 13:30:00,,None

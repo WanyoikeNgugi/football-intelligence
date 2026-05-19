@@ -1,0 +1,45 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+41722,90,SavedShot,0.8169999694824219,0.4129999923706055,0.03765549883246422,Gonzalo Rodríguez,h,1418,FromCorner,2014,RightFoot,5114,Fiorentina,Genoa,0,0,2014-09-14 14:00:00,David Pizarro,Pass
+42233,5,MissedShots,0.855999984741211,0.47900001525878905,0.023614300414919853,Gonzalo Rodríguez,h,1418,FromCorner,2014,Head,5130,Fiorentina,Sassuolo,0,0,2014-09-24 19:45:00,Borja Valero,Cross
+42253,88,MissedShots,0.925,0.38799999237060545,0.029992999508976936,Gonzalo Rodríguez,h,1418,FromCorner,2014,Head,5130,Fiorentina,Sassuolo,0,0,2014-09-24 19:45:00,Jasmin Kurtic,Cross
+42749,29,BlockedShot,0.6969999694824218,0.44799999237060545,0.013547100126743317,Gonzalo Rodríguez,h,1418,OpenPlay,2014,RightFoot,5077,Fiorentina,Inter,3,0,2014-10-05 19:45:00,,BallRecovery
+43971,31,SavedShot,0.885,0.5,0.7612990140914917,Gonzalo Rodríguez,a,1418,Penalty,2014,RightFoot,5033,Sampdoria,Fiorentina,3,1,2014-11-02 14:00:00,,Standard
+44388,15,Goal,0.9769999694824218,0.48700000762939455,0.7362509965896606,Gonzalo Rodríguez,a,1418,FromCorner,2014,RightFoot,5057,Verona,Fiorentina,1,2,2014-11-23 14:00:00,Marcos Alonso,HeadPass
+44390,19,SavedShot,0.9569999694824218,0.43400001525878906,0.1182280033826828,Gonzalo Rodríguez,a,1418,FromCorner,2014,Head,5057,Verona,Fiorentina,1,2,2014-11-23 14:00:00,Matías Fernández,Cross
+45083,7,MissedShots,0.9790000152587891,0.585,0.12234199792146683,Gonzalo Rodríguez,a,1418,SetPiece,2014,LeftFoot,5016,Cesena,Fiorentina,1,4,2014-12-14 17:00:00,,Rebound
+45095,78,Goal,0.915,0.5690000152587891,0.07184430211782455,Gonzalo Rodríguez,a,1418,FromCorner,2014,Head,5016,Cesena,Fiorentina,1,4,2014-12-14 17:00:00,David Pizarro,Cross
+45403,47,MissedShots,0.975999984741211,0.5420000076293945,0.13901199400424957,Gonzalo Rodríguez,h,1418,FromCorner,2014,Head,5026,Fiorentina,Empoli,1,1,2014-12-21 14:00:00,Matías Fernández,Cross
+45733,34,Goal,0.9930000305175781,0.46,0.9109749794006348,Gonzalo Rodríguez,a,1418,FromCorner,2014,RightFoot,4982,Chievo,Fiorentina,1,2,2015-01-18 14:00:00,Nenad Tomovic,HeadPass
+46682,53,Goal,0.98,0.565,0.07807940244674683,Gonzalo Rodríguez,a,1418,FromCorner,2014,Head,4997,Genoa,Fiorentina,1,1,2015-01-31 17:00:00,,None
+46684,62,MissedShots,0.9130000305175782,0.5059999847412109,0.044020701199769974,Gonzalo Rodríguez,a,1418,FromCorner,2014,Head,4997,Genoa,Fiorentina,1,1,2015-01-31 17:00:00,Matías Fernández,Aerial
+48590,82,Goal,0.9440000152587891,0.5170000076293946,0.4370400011539459,Gonzalo Rodríguez,h,1418,OpenPlay,2014,Head,4907,Fiorentina,AC Milan,2,1,2015-03-16 18:00:00,Joaquín,Cross
+48273,21,ShotOnPost,0.82,0.32,0.02313080057501793,Gonzalo Rodríguez,h,1418,FromCorner,2014,RightFoot,4837,Fiorentina,Sampdoria,2,0,2015-04-04 17:30:00,Mohamed Salah,Pass
+50143,32,Goal,0.885,0.5,0.7612990140914917,Gonzalo Rodríguez,a,1418,Penalty,2014,RightFoot,4877,Juventus,Fiorentina,3,2,2015-04-29 19:45:00,,Standard
+50155,66,MissedShots,0.885,0.5,0.7612990140914917,Gonzalo Rodríguez,a,1418,Penalty,2014,RightFoot,4877,Juventus,Fiorentina,3,2,2015-04-29 19:45:00,,Standard
+50464,12,Goal,0.9419999694824219,0.509000015258789,0.10954300314188004,Gonzalo Rodríguez,h,1418,SetPiece,2014,Head,4807,Fiorentina,Parma,3,0,2015-05-18 18:00:00,,Aerial
+50469,25,MissedShots,0.75,0.43599998474121093,0.01888740062713623,Gonzalo Rodríguez,h,1418,FromCorner,2014,RightFoot,4807,Fiorentina,Parma,3,0,2015-05-18 18:00:00,Stefan Savic,Pass
+49940,32,SavedShot,0.909000015258789,0.515,0.030528400093317032,Gonzalo Rodríguez,h,1418,FromCorner,2014,Head,4828,Fiorentina,Chievo,3,0,2015-05-31 19:45:00,Josip Ilicic,Aerial
+95621,16,BlockedShot,0.6919999694824219,0.3609999847412109,0.009300890378654003,Gonzalo Rodríguez,h,1418,OpenPlay,2015,RightFoot,597,Fiorentina,Bologna,2,0,2015-09-23 22:45:00,,None
+96920,56,MissedShots,0.8880000305175781,0.6090000152587891,0.0662359967827797,Gonzalo Rodríguez,a,1418,FromCorner,2015,RightFoot,629,Napoli,Fiorentina,2,1,2015-10-18 17:00:00,,None
+98292,28,Goal,0.9469999694824218,0.6040000152587891,0.07367140054702759,Gonzalo Rodríguez,h,1418,SetPiece,2015,RightFoot,653,Fiorentina,Frosinone,4,1,2015-11-01 15:30:00,Matías Fernández,Cross
+98905,48,MissedShots,0.889000015258789,0.41200000762939454,0.034891899675130844,Gonzalo Rodríguez,a,1418,SetPiece,2015,Head,670,Sampdoria,Fiorentina,0,2,2015-11-08 23:45:00,Milan Badelj,Cross
+100339,85,Goal,0.9359999847412109,0.45599998474121095,0.05593070015311241,Gonzalo Rodríguez,h,1418,FromCorner,2015,Head,696,Fiorentina,Udinese,3,0,2015-12-06 18:00:00,Manuel Pasqual,Aerial
+101968,30,MissedShots,0.914000015258789,0.46,0.08444750308990479,Gonzalo Rodríguez,a,1418,FromCorner,2015,Head,723,Palermo,Fiorentina,1,3,2016-01-06 18:00:00,Borja Valero,Cross
+94338,82,Goal,0.94,0.5609999847412109,0.10587900131940842,Gonzalo Rodríguez,h,1418,FromCorner,2015,Head,753,Fiorentina,Torino,2,0,2016-01-24 15:30:00,Manuel Pasqual,Cross
+95365,43,SavedShot,0.955999984741211,0.385,0.03234349936246872,Gonzalo Rodríguez,h,1418,FromCorner,2015,Head,773,Fiorentina,Carpi,2,1,2016-02-03 23:45:00,Josip Ilicic,Cross
+94849,21,BlockedShot,0.9540000152587891,0.3820000076293945,0.02940550073981285,Gonzalo Rodríguez,a,1418,FromCorner,2015,Head,781,Bologna,Fiorentina,1,1,2016-02-06 21:00:00,Manuel Pasqual,Cross
+96557,13,MissedShots,0.925,0.545,0.287678986787796,Gonzalo Rodríguez,a,1418,SetPiece,2015,Head,806,Atalanta,Fiorentina,2,3,2016-02-21 18:00:00,Manuel Pasqual,Cross
+100198,9,Goal,0.93,0.4879999923706055,0.3616890013217926,Gonzalo Rodríguez,h,1418,FromCorner,2015,Head,875,Fiorentina,Sassuolo,3,1,2016-04-17 17:00:00,Milan Badelj,Cross
+144380,54,MissedShots,0.8859999847412109,0.5879999923706055,0.035182200372219086,Gonzalo Rodríguez,a,1418,SetPiece,2016,Head,932,Juventus,Fiorentina,2,1,2016-08-20 22:45:00,Josip Ilicic,Cross
+148017,79,MissedShots,0.8730000305175781,0.5129999923706055,0.014737499877810478,Gonzalo Rodríguez,h,1418,SetPiece,2016,Head,1003,Fiorentina,Atalanta,0,0,2016-10-16 14:30:00,Federico Bernardeschi,Aerial
+150127,4,MissedShots,0.6940000152587891,0.4540000152587891,0.01999950036406517,Gonzalo Rodríguez,h,1418,OpenPlay,2016,RightFoot,2754,Fiorentina,Sampdoria,1,1,2016-11-06 21:00:00,,TakeOn
+150142,46,MissedShots,0.9440000152587891,0.41700000762939454,0.07845470309257507,Gonzalo Rodríguez,h,1418,FromCorner,2016,Head,2754,Fiorentina,Sampdoria,1,1,2016-11-06 21:00:00,Josip Ilicic,Cross
+150153,75,BlockedShot,0.845,0.445,0.01880520023405552,Gonzalo Rodríguez,h,1418,SetPiece,2016,Head,2754,Fiorentina,Sampdoria,1,1,2016-11-06 21:00:00,Josip Ilicic,Cross
+150155,81,MissedShots,0.9280000305175782,0.4879999923706055,0.3561190068721771,Gonzalo Rodríguez,h,1418,FromCorner,2016,Head,2754,Fiorentina,Sampdoria,1,1,2016-11-06 21:00:00,Federico Bernardeschi,Cross
+145431,50,BlockedShot,0.91,0.49900001525878906,0.08268369734287262,Gonzalo Rodríguez,a,1418,FromCorner,2016,Head,3086,Genoa,Fiorentina,1,0,2016-12-15 23:00:00,Federico Bernardeschi,Cross
+145155,49,BlockedShot,0.9290000152587891,0.43599998474121093,0.0849405974149704,Gonzalo Rodríguez,a,1418,FromCorner,2016,Head,3540,Chievo,Fiorentina,0,3,2017-01-21 20:00:00,Borja Valero,Cross
+147183,41,MissedShots,0.9119999694824219,0.524000015258789,0.0518920011818409,Gonzalo Rodríguez,a,1418,SetPiece,2016,Head,3591,AC Milan,Fiorentina,2,1,2017-02-19 19:45:00,Josip Ilicic,Aerial
+148288,29,MissedShots,0.8640000152587891,0.5359999847412109,0.041764698922634125,Gonzalo Rodríguez,a,1418,SetPiece,2016,Head,3603,Atalanta,Fiorentina,0,0,2017-03-05 11:30:00,Milan Badelj,Chipped
+148848,82,MissedShots,0.919000015258789,0.42900001525878906,0.06222439929842949,Gonzalo Rodríguez,h,1418,FromCorner,2016,Head,3614,Fiorentina,Cagliari,1,0,2017-03-12 14:00:00,Federico Chiesa,Cross
+150443,59,Goal,0.9730000305175781,0.5990000152587891,0.015924900770187378,Gonzalo Rodríguez,a,1418,FromCorner,2016,Head,3643,Sampdoria,Fiorentina,2,2,2017-04-09 11:30:00,Borja Valero,Aerial
+153702,79,MissedShots,0.8959999847412109,0.355,0.012272999621927738,Gonzalo Rodríguez,a,1418,FromCorner,2016,Head,3706,Napoli,Fiorentina,4,1,2017-05-20 19:45:00,Federico Bernardeschi,Cross

@@ -1,0 +1,21 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+374363,80,BlockedShot,0.7930000305175782,0.265,0.01670980080962181,Luca Zanimacchia,a,1631,OpenPlay,2019,LeftFoot,13449,Cagliari,Juventus,2,0,2020-07-29 19:45:00,Federico Bernardeschi,CornerAwarded
+374367,93,SavedShot,0.6780000305175782,0.3629999923706055,0.008037719875574112,Luca Zanimacchia,a,1631,OpenPlay,2019,RightFoot,13449,Cagliari,Juventus,2,0,2020-07-29 19:45:00,,BallRecovery
+481110,25,BlockedShot,0.7069999694824218,0.5720000076293945,0.009751450270414352,Luca Zanimacchia,a,1631,OpenPlay,2022,RightFoot,18587,Fiorentina,Cremonese,3,2,2022-08-14 16:30:00,,Aerial
+481119,47,MissedShots,0.7869999694824219,0.6890000152587891,0.06318429857492447,Luca Zanimacchia,a,1631,DirectFreekick,2022,RightFoot,18587,Fiorentina,Cremonese,3,2,2022-08-14 16:30:00,,Standard
+481124,55,SavedShot,0.865999984741211,0.515,0.07356320321559906,Luca Zanimacchia,a,1631,OpenPlay,2022,LeftFoot,18587,Fiorentina,Cremonese,3,2,2022-08-14 16:30:00,,Rebound
+481123,55,SavedShot,0.885,0.555,0.08321010321378708,Luca Zanimacchia,a,1631,OpenPlay,2022,LeftFoot,18587,Fiorentina,Cremonese,3,2,2022-08-14 16:30:00,,Rebound
+484879,58,MissedShots,0.7659999847412109,0.5409999847412109,0.026073800399899483,Luca Zanimacchia,a,1631,OpenPlay,2022,LeftFoot,18614,Inter,Cremonese,3,1,2022-08-30 18:45:00,David Okereke,Dispossessed
+484884,67,BlockedShot,0.8819999694824219,0.5179999923706055,0.0703406035900116,Luca Zanimacchia,a,1631,OpenPlay,2022,LeftFoot,18614,Inter,Cremonese,3,1,2022-08-30 18:45:00,,None
+484885,67,BlockedShot,0.8780000305175781,0.555,0.07121539860963821,Luca Zanimacchia,a,1631,OpenPlay,2022,LeftFoot,18614,Inter,Cremonese,3,1,2022-08-30 18:45:00,,Rebound
+486321,7,MissedShots,0.7519999694824219,0.6359999847412109,0.054289400577545166,Luca Zanimacchia,h,1631,DirectFreekick,2022,RightFoot,18625,Cremonese,Sassuolo,0,0,2022-09-04 10:30:00,,Standard
+486323,14,MissedShots,0.88,0.42200000762939455,0.10707899928092957,Luca Zanimacchia,h,1631,OpenPlay,2022,RightFoot,18625,Cremonese,Sassuolo,0,0,2022-09-04 10:30:00,Cyriel Dessers,LayOff
+490780,24,MissedShots,0.7469999694824219,0.3729999923706055,0.015075399540364742,Luca Zanimacchia,a,1631,FromCorner,2022,LeftFoot,18658,Lecce,Cremonese,1,1,2022-10-02 13:00:00,,None
+490782,36,SavedShot,0.8680000305175781,0.32099998474121094,0.08118429780006409,Luca Zanimacchia,a,1631,OpenPlay,2022,RightFoot,18658,Lecce,Cremonese,1,1,2022-10-02 13:00:00,Michele Castagnetti,Pass
+492425,28,BlockedShot,0.825,0.5059999847412109,0.06277749687433243,Luca Zanimacchia,h,1631,OpenPlay,2022,RightFoot,18663,Cremonese,Napoli,1,4,2022-10-09 16:00:00,Giacomo Quagliata,Pass
+493602,37,SavedShot,0.8430000305175781,0.7169999694824218,0.0252275001257658,Luca Zanimacchia,a,1631,FromCorner,2022,RightFoot,18680,Spezia,Cremonese,2,2,2022-10-16 13:00:00,Michele Castagnetti,HeadPass
+497857,83,MissedShots,0.8919999694824219,0.5790000152587891,0.07637859880924225,Luca Zanimacchia,a,1631,OpenPlay,2022,RightFoot,18709,Salernitana,Cremonese,2,2,2022-11-05 14:00:00,Emanuele Valeri,Cross
+497860,91,MissedShots,0.865,0.5570000076293945,0.025070400908589363,Luca Zanimacchia,a,1631,OpenPlay,2022,Head,18709,Salernitana,Cremonese,2,2,2022-11-05 14:00:00,Leonardo Sernicola,Cross
+499791,71,BlockedShot,0.8569999694824219,0.29700000762939455,0.04000610113143921,Luca Zanimacchia,a,1631,OpenPlay,2022,LeftFoot,18724,Empoli,Cremonese,2,0,2022-11-11 19:45:00,David Okereke,Pass
+499796,82,MissedShots,0.8440000152587891,0.34700000762939454,0.05092509835958481,Luca Zanimacchia,a,1631,OpenPlay,2022,LeftFoot,18724,Empoli,Cremonese,2,0,2022-11-11 19:45:00,David Okereke,Pass
+505901,92,MissedShots,0.7440000152587891,0.365,0.011385399848222733,Luca Zanimacchia,h,1631,SetPiece,2022,RightFoot,18774,Cremonese,Inter,1,2,2023-01-28 17:00:00,,None

@@ -1,0 +1,9 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+105449,86,MissedShots,0.764000015258789,0.545,0.03609199821949005,Arnaud Lusamba,h,5777,OpenPlay,2016,LeftFoot,3325,Nice,Nantes,4,1,2016-10-30 18:00:00,Mathieu Bodmer,Pass
+107026,21,BlockedShot,0.759000015258789,0.5879999923706055,0.02542790025472641,Arnaud Lusamba,h,5777,OpenPlay,2016,RightFoot,4112,Nice,Metz,0,0,2017-01-15 18:00:00,Ricardo Pereira,Pass
+315340,45,MissedShots,0.7280000305175781,0.53,0.015730900689959526,Arnaud Lusamba,h,5777,OpenPlay,2019,RightFoot,12734,Nice,Marseille,1,2,2019-08-28 20:00:00,,None
+320713,81,SavedShot,0.8219999694824218,0.34900001525878904,0.05326240137219429,Arnaud Lusamba,h,5777,OpenPlay,2019,LeftFoot,12768,Nice,Dijon,2,1,2019-09-21 18:00:00,Patrick Burner,Pass
+333890,38,Goal,0.9080000305175782,0.48700000762939455,0.09827619791030884,Arnaud Lusamba,h,5777,OpenPlay,2019,OtherBodyPart,12858,Nice,Angers,3,1,2019-11-30 19:00:00,Myziane Maolida,Chipped
+333896,64,SavedShot,0.8680000305175781,0.53,0.11812900006771088,Arnaud Lusamba,h,5777,OpenPlay,2019,LeftFoot,12858,Nice,Angers,3,1,2019-11-30 19:00:00,Myziane Maolida,Pass
+359165,68,MissedShots,0.9230000305175782,0.49700000762939456,0.18113499879837036,Arnaud Lusamba,a,5777,OpenPlay,2019,OtherBodyPart,12953,Toulouse,Nice,0,2,2020-02-15 19:00:00,Pierre Lees-Melou,Cross
+359641,72,BlockedShot,0.8090000152587891,0.534000015258789,0.04899889975786209,Arnaud Lusamba,h,5777,OpenPlay,2019,RightFoot,12961,Nice,Brest,2,2,2020-02-21 18:00:00,,None

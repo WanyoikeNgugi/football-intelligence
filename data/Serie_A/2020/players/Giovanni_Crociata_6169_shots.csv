@@ -1,0 +1,11 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+172899,80,SavedShot,0.9440000152587891,0.3240000152587891,0.05954379960894585,Giovanni Crociata,h,6169,SetPiece,2017,RightFoot,7517,Crotone,Verona,0,0,2017-08-27 19:45:00,Rolando Mandragora,Chipped
+173199,83,MissedShots,0.740999984741211,0.40700000762939453,0.018722599372267723,Giovanni Crociata,a,6169,OpenPlay,2017,RightFoot,7522,Cagliari,Crotone,1,0,2017-09-10 14:00:00,Oliver Kragl,HeadPass
+174881,84,MissedShots,0.875999984741211,0.28600000381469726,0.05946889892220497,Giovanni Crociata,a,6169,OpenPlay,2017,RightFoot,7585,Sampdoria,Crotone,5,0,2017-10-21 17:00:00,Rolando Mandragora,LayOff
+185800,76,SavedShot,0.7140000152587891,0.5770000076293945,0.011334200389683247,Giovanni Crociata,h,6169,OpenPlay,2017,RightFoot,7682,Crotone,Napoli,0,1,2017-12-29 19:45:00,Marcus Rohden,TakeOn
+186801,63,BlockedShot,0.8919999694824219,0.4640000152587891,0.1119690015912056,Giovanni Crociata,a,6169,OpenPlay,2017,LeftFoot,7691,AC Milan,Crotone,1,0,2018-01-06 14:00:00,Ante Budimir,Pass
+189193,80,MissedShots,0.9080000305175782,0.7469999694824219,0.06050939857959747,Giovanni Crociata,a,6169,OpenPlay,2017,RightFoot,7701,Verona,Crotone,0,3,2018-01-21 14:00:00,Ante Budimir,HeadPass
+196725,10,Goal,0.9869999694824219,0.5359999847412109,0.9653909802436829,Giovanni Crociata,a,6169,OpenPlay,2017,RightFoot,7742,Benevento,Crotone,3,2,2018-02-18 14:00:00,Andrea Nalini,Pass
+196737,46,BlockedShot,0.69,0.43099998474121093,0.00933058001101017,Giovanni Crociata,a,6169,OpenPlay,2017,RightFoot,7742,Benevento,Crotone,3,2,2018-02-18 14:00:00,,Aerial
+202076,79,BlockedShot,0.7190000152587891,0.745,0.006696760188788176,Giovanni Crociata,h,6169,OpenPlay,2017,RightFoot,7787,Crotone,Roma,0,2,2018-03-18 14:00:00,,None
+427402,83,BlockedShot,0.924000015258789,0.41900001525878905,0.12483599781990051,Giovanni Crociata,h,6169,OpenPlay,2021,RightFoot,16759,Empoli,Lazio,1,3,2021-08-21 18:45:00,Riccardo Fiamozzi,Pass

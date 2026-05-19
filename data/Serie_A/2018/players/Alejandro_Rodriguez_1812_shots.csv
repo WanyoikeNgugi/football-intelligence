@@ -1,0 +1,29 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+41423,37,Goal,0.925,0.48900001525878906,0.3815869987010956,Alejandro Rodriguez,h,1812,OpenPlay,2014,Head,5154,Cesena,Parma,1,0,2014-08-31 19:45:00,Franco Brienza,Cross
+41425,48,SavedShot,0.885,0.2520000076293945,0.03891700133681297,Alejandro Rodriguez,h,1812,OpenPlay,2014,RightFoot,5154,Cesena,Parma,1,0,2014-08-31 19:45:00,Franco Brienza,Pass
+41434,84,MissedShots,0.9440000152587891,0.44299999237060544,0.4695029854774475,Alejandro Rodriguez,h,1812,OpenPlay,2014,Head,5154,Cesena,Parma,1,0,2014-08-31 19:45:00,,Rebound
+41830,31,MissedShots,0.9330000305175781,0.6559999847412109,0.04722040146589279,Alejandro Rodriguez,a,1812,OpenPlay,2014,RightFoot,5112,Lazio,Cesena,3,0,2014-09-14 14:00:00,Guido Marilungo,Cross
+42984,73,SavedShot,0.9259999847412109,0.41200000762939454,0.433010995388031,Alejandro Rodriguez,a,1812,OpenPlay,2014,RightFoot,5074,Udinese,Cesena,1,1,2014-10-05 14:00:00,Franco Brienza,Throughball
+43163,59,SavedShot,0.924000015258789,0.34700000762939454,0.2917569875717163,Alejandro Rodriguez,a,1812,OpenPlay,2014,RightFoot,5082,Palermo,Cesena,2,1,2014-10-19 14:00:00,Luigi Giorgi,Pass
+43164,60,Goal,0.885,0.5,0.7612990140914917,Alejandro Rodriguez,a,1812,Penalty,2014,RightFoot,5082,Palermo,Cesena,2,1,2014-10-19 14:00:00,,Standard
+43166,68,MissedShots,0.8390000152587891,0.3529999923706055,0.050944000482559204,Alejandro Rodriguez,a,1812,OpenPlay,2014,RightFoot,5082,Palermo,Cesena,2,1,2014-10-19 14:00:00,Hördur Bjorgvin Magnusson,Chipped
+44593,73,MissedShots,0.9180000305175782,0.47900001525878905,0.06354189664125443,Alejandro Rodriguez,h,1812,OpenPlay,2014,Head,5066,Cesena,Genoa,0,3,2014-11-30 14:00:00,Emmanuel Cascione,Aerial
+44596,81,SavedShot,0.8219999694824218,0.355,0.04686420038342476,Alejandro Rodriguez,h,1812,OpenPlay,2014,RightFoot,5066,Cesena,Genoa,0,3,2014-11-30 14:00:00,Luigi Giorgi,Pass
+45712,56,BlockedShot,0.9080000305175782,0.62,0.09617509692907333,Alejandro Rodriguez,h,1812,OpenPlay,2014,RightFoot,4965,Cesena,Napoli,1,4,2015-01-06 17:00:00,Zé Eduardo,Pass
+46237,33,MissedShots,0.919000015258789,0.39,0.032182399183511734,Alejandro Rodriguez,a,1812,OpenPlay,2014,Head,4971,Cagliari,Cesena,2,1,2015-01-11 14:00:00,Luca Valzania,Cross
+46243,58,MissedShots,0.9159999847412109,0.455,0.10449399799108505,Alejandro Rodriguez,a,1812,OpenPlay,2014,Head,4971,Cagliari,Cesena,2,1,2015-01-11 14:00:00,Luigi Giorgi,Cross
+46387,69,BlockedShot,0.87,0.45599998474121095,0.3835510015487671,Alejandro Rodriguez,a,1812,OpenPlay,2014,RightFoot,4991,Parma,Cesena,1,2,2015-01-25 14:00:00,Franco Brienza,Pass
+46395,88,Goal,0.8919999694824219,0.4470000076293945,0.07974819839000702,Alejandro Rodriguez,a,1812,SetPiece,2014,RightFoot,4991,Parma,Cesena,1,2,2015-01-25 14:00:00,,None
+46787,80,SavedShot,0.925,0.3139999961853027,0.1114870011806488,Alejandro Rodriguez,h,1812,OpenPlay,2014,RightFoot,4921,Cesena,Lazio,2,1,2015-02-01 14:00:00,Gregoire Defrel,Pass
+46935,93,BlockedShot,0.879000015258789,0.41,0.06961999833583832,Alejandro Rodriguez,a,1812,SetPiece,2014,RightFoot,4930,Empoli,Cesena,2,0,2015-02-08 14:00:00,,None
+47792,75,Goal,0.9490000152587891,0.5479999923706055,0.4593009948730469,Alejandro Rodriguez,h,1812,OpenPlay,2014,Head,4884,Cesena,Udinese,1,0,2015-03-01 14:00:00,Franco Brienza,Cross
+48322,86,MissedShots,0.9,0.33299999237060546,0.07064930349588394,Alejandro Rodriguez,a,1812,OpenPlay,2014,RightFoot,4905,Inter,Cesena,1,1,2015-03-15 19:45:00,Carlos Carbonero,Pass
+48522,93,MissedShots,0.9109999847412109,0.4979999923706055,0.04649319872260094,Alejandro Rodriguez,h,1812,OpenPlay,2014,Head,4843,Cesena,Chievo,0,1,2015-04-12 11:30:00,Luigi Giorgi,Aerial
+49010,19,SavedShot,0.7959999847412109,0.2720000076293945,0.022352300584316254,Alejandro Rodriguez,a,1812,OpenPlay,2014,RightFoot,4851,Sampdoria,Cesena,0,0,2015-04-18 17:00:00,Franco Brienza,Pass
+49015,29,SavedShot,0.8669999694824219,0.36700000762939455,0.06652019917964935,Alejandro Rodriguez,a,1812,OpenPlay,2014,RightFoot,4851,Sampdoria,Cesena,0,0,2015-04-18 17:00:00,Luigi Giorgi,Pass
+49922,84,MissedShots,0.88,0.46799999237060547,0.5318790078163147,Alejandro Rodriguez,h,1812,OpenPlay,2014,RightFoot,4875,Cesena,Atalanta,2,2,2015-04-29 19:45:00,Gregoire Defrel,Pass
+51115,50,MissedShots,0.9030000305175782,0.355,0.2910880148410797,Alejandro Rodriguez,a,1812,OpenPlay,2014,RightFoot,4785,Fiorentina,Cesena,3,1,2015-05-03 14:00:00,Emmanuel Cascione,Throughball
+51116,53,MissedShots,0.965999984741211,0.40700000762939453,0.04358160123229027,Alejandro Rodriguez,a,1812,FromCorner,2014,Head,4785,Fiorentina,Cesena,3,1,2015-05-03 14:00:00,Franco Brienza,Chipped
+51119,58,Goal,0.8280000305175781,0.7069999694824218,0.02756349928677082,Alejandro Rodriguez,a,1812,OpenPlay,2014,RightFoot,4785,Fiorentina,Cesena,3,1,2015-05-03 14:00:00,Gregoire Defrel,Pass
+51269,43,MissedShots,0.845999984741211,0.40900001525878904,0.10528600215911865,Alejandro Rodriguez,h,1812,OpenPlay,2014,RightFoot,4794,Cesena,Sassuolo,2,3,2015-05-10 14:00:00,Franco Brienza,Pass
+276550,84,BlockedShot,0.9119999694824219,0.544000015258789,0.1280840039253235,Alejandro Rodriguez,a,1812,OpenPlay,2018,RightFoot,9767,Cagliari,Empoli,2,2,2019-01-20 17:00:00,,BallTouch

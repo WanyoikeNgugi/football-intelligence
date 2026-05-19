@@ -1,0 +1,30 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+599705,74,MissedShots,0.895,0.53,0.33876603841781616,Yannick Engelhardt,h,10497,OpenPlay,2024,LeftFoot,27454,Como,Lazio,1,5,2024-10-31 19:45:00,Patrick Cutrone,Pass
+599709,85,BlockedShot,0.745999984741211,0.605999984741211,0.02042895369231701,Yannick Engelhardt,h,10497,OpenPlay,2024,RightFoot,27454,Como,Lazio,1,5,2024-10-31 19:45:00,Marc-Oliver Kempf,Pass
+603994,35,Goal,0.9680000305175781,0.5690000152587891,0.329183965921402,Yannick Engelhardt,h,10497,FromCorner,2024,Head,27496,Como,Monza,1,1,2024-11-30 14:00:00,,None
+606561,31,BlockedShot,0.9669999694824218,0.624000015258789,0.04485517740249634,Yannick Engelhardt,a,10497,FromCorner,2024,RightFoot,27511,Venezia,Como,2,2,2024-12-08 17:00:00,Gabriel Strefezza,Cross
+607673,48,MissedShots,0.7319999694824219,0.49700000762939456,0.013175930827856064,Yannick Engelhardt,h,10497,FromCorner,2024,RightFoot,27512,Como,Roma,2,0,2024-12-15 17:00:00,,Aerial
+607676,56,MissedShots,0.9769999694824218,0.6320000076293946,0.040109019726514816,Yannick Engelhardt,h,10497,FromCorner,2024,RightFoot,27512,Como,Roma,2,0,2024-12-15 17:00:00,Lucas Da Cunha,Cross
+610476,51,MissedShots,0.8769999694824219,0.37,0.018377702683210373,Yannick Engelhardt,a,10497,SetPiece,2024,Head,27559,Lazio,Como,1,1,2025-01-10 19:45:00,Gabriel Strefezza,Cross
+613201,13,SavedShot,0.9530000305175781,0.32599998474121095,0.009335733018815517,Yannick Engelhardt,h,10497,FromCorner,2024,Head,27581,Como,Atalanta,1,2,2025-01-25 14:00:00,Lucas Da Cunha,Chipped
+643829,12,BlockedShot,0.8440000152587891,0.515,0.08979533612728119,Yannick Engelhardt,a,10497,OpenPlay,2025,RightFoot,30258,Bayer Leverkusen,Borussia M.Gladbach,1,1,2025-09-21 15:30:00,Shuto Machino,Pass
+645004,82,Goal,0.97,0.5120000076293946,0.6908177137374878,Yannick Engelhardt,h,10497,FromCorner,2025,RightFoot,30265,Borussia M.Gladbach,Eintracht Frankfurt,4,6,2025-09-27 16:30:00,,None
+647039,28,SavedShot,0.8959999847412109,0.5129999923706055,0.05624961853027344,Yannick Engelhardt,h,10497,OpenPlay,2025,Head,30270,Borussia M.Gladbach,Freiburg,0,0,2025-10-05 17:30:00,Kevin Diks,HeadPass
+647141,17,BlockedShot,0.9019999694824219,0.4229999923706055,0.0728653073310852,Yannick Engelhardt,a,10497,FromCorner,2025,RightFoot,30285,Union Berlin,Borussia M.Gladbach,3,1,2025-10-17 18:30:00,Rocco Reitz,Pass
+650653,50,MissedShots,0.7419999694824219,0.4590000152587891,0.01934797689318657,Yannick Engelhardt,a,10497,OpenPlay,2025,RightFoot,30302,St. Pauli,Borussia M.Gladbach,0,4,2025-11-01 14:30:00,,None
+650665,71,SavedShot,0.830999984741211,0.3579999923706055,0.09770730137825012,Yannick Engelhardt,a,10497,OpenPlay,2025,RightFoot,30302,St. Pauli,Borussia M.Gladbach,0,4,2025-11-01 14:30:00,Florian Neuhaus,Pass
+653488,7,MissedShots,0.775,0.5279999923706055,0.013785970397293568,Yannick Engelhardt,a,10497,OpenPlay,2025,RightFoot,30318,FC Heidenheim,Borussia M.Gladbach,0,3,2025-11-22 14:30:00,Franck Honorat,Chipped
+658152,78,ShotOnPost,0.8780000305175781,0.5479999923706055,0.08121008425951004,Yannick Engelhardt,h,10497,OpenPlay,2025,RightFoot,30343,Borussia M.Gladbach,Wolfsburg,1,3,2025-12-13 14:30:00,Grant-Leon Ranos,BallTouch
+662704,49,MissedShots,0.9290000152587891,0.28,0.02313418872654438,Yannick Engelhardt,h,10497,OpenPlay,2025,RightFoot,30361,Borussia M.Gladbach,Augsburg,4,0,2026-01-11 14:30:00,Philipp Sander,Aerial
+662709,64,MissedShots,0.8680000305175781,0.37200000762939456,0.0878545343875885,Yannick Engelhardt,h,10497,OpenPlay,2025,RightFoot,30361,Borussia M.Gladbach,Augsburg,4,0,2026-01-11 14:30:00,Haris Tabakovic,Pass
+663076,40,SavedShot,0.875,0.605999984741211,0.027184104546904564,Yannick Engelhardt,a,10497,FromCorner,2025,RightFoot,30372,Hoffenheim,Borussia M.Gladbach,5,1,2026-01-14 19:30:00,,Aerial
+665916,79,MissedShots,0.8030000305175782,0.5279999923706055,0.09252005815505981,Yannick Engelhardt,a,10497,OpenPlay,2025,RightFoot,30403,Werder Bremen,Borussia M.Gladbach,1,1,2026-01-31 14:30:00,Kevin Stöger,Pass
+667416,9,Goal,0.9569999694824218,0.40900001525878904,0.40509477257728577,Yannick Engelhardt,h,10497,OpenPlay,2025,RightFoot,30405,Borussia M.Gladbach,Bayer Leverkusen,1,1,2026-02-07 17:30:00,,Rebound
+668637,38,MissedShots,0.7290000152587891,0.4779999923706055,0.01603567600250244,Yannick Engelhardt,a,10497,OpenPlay,2025,RightFoot,30416,Eintracht Frankfurt,Borussia M.Gladbach,3,0,2026-02-14 14:30:00,Franck Honorat,LayOff
+668657,87,MissedShots,0.9640000152587891,0.67,0.013783265836536884,Yannick Engelhardt,a,10497,SetPiece,2025,Head,30416,Eintracht Frankfurt,Borussia M.Gladbach,3,0,2026-02-14 14:30:00,Rocco Reitz,Cross
+671057,85,MissedShots,0.8440000152587891,0.47900001525878905,0.0661095678806305,Yannick Engelhardt,h,10497,OpenPlay,2025,RightFoot,30433,Borussia M.Gladbach,Union Berlin,1,0,2026-02-28 14:30:00,,Rebound
+673538,12,BlockedShot,0.8640000152587891,0.4570000076293945,0.06956127285957336,Yannick Engelhardt,h,10497,OpenPlay,2025,RightFoot,30450,Borussia M.Gladbach,St. Pauli,2,0,2026-03-13 19:30:00,Philipp Sander,Cross
+683018,28,MissedShots,0.9490000152587891,0.5420000076293945,0.09421472251415253,Yannick Engelhardt,h,10497,OpenPlay,2025,Head,30505,Borussia M.Gladbach,Borussia Dortmund,1,0,2026-05-03 15:30:00,Philipp Sander,Aerial
+683020,41,MissedShots,0.975999984741211,0.44400001525878907,0.3592557907104492,Yannick Engelhardt,h,10497,FromCorner,2025,Head,30505,Borussia M.Gladbach,Borussia Dortmund,1,0,2026-05-03 15:30:00,Franck Honorat,Aerial
+683029,80,MissedShots,0.774000015258789,0.5029999923706054,0.03001263365149498,Yannick Engelhardt,h,10497,OpenPlay,2025,RightFoot,30505,Borussia M.Gladbach,Borussia Dortmund,1,0,2026-05-03 15:30:00,,None
+683577,66,BlockedShot,0.7319999694824219,0.41700000762939454,0.009144198149442673,Yannick Engelhardt,a,10497,OpenPlay,2025,RightFoot,30512,Augsburg,Borussia M.Gladbach,3,1,2026-05-09 13:30:00,,Rebound

@@ -1,0 +1,69 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+30483,26,MissedShots,0.9059999847412109,0.425,0.01653200015425682,Javi Martínez,a,225,FromCorner,2014,Head,5165,Bayer Leverkusen,Bayern Munich,2,0,2015-05-02 17:30:00,Mario Götze,Aerial
+77205,69,MissedShots,0.9169999694824219,0.49599998474121093,0.05835239961743355,Javi Martínez,a,225,OpenPlay,2015,Head,1058,Darmstadt,Bayern Munich,0,3,2015-09-19 17:30:00,Thomas Müller,Aerial
+77704,59,MissedShots,0.8919999694824219,0.45,0.016157200559973717,Javi Martínez,h,225,FromCorner,2015,Head,1092,Bayern Munich,Borussia Dortmund,5,1,2015-10-04 19:30:00,Xabi Alonso,Aerial
+78562,29,MissedShots,0.885,0.45,0.053548600524663925,Javi Martínez,a,225,SetPiece,2015,Head,1111,Eintracht Frankfurt,Bayern Munich,0,0,2015-10-30 23:30:00,Arjen Robben,Chipped
+78881,68,Goal,0.925,0.5179999923706055,0.40246400237083435,Javi Martínez,a,225,OpenPlay,2015,Head,1135,Schalke 04,Bayern Munich,1,3,2015-11-21 21:30:00,Arjen Robben,Cross
+79108,38,BlockedShot,0.905,0.415,0.040247298777103424,Javi Martínez,h,225,FromCorner,2015,Head,1142,Bayern Munich,Hertha Berlin,2,0,2015-11-28 18:30:00,Xabi Alonso,Cross
+79113,40,MissedShots,0.9490000152587891,0.45799999237060546,0.1432490050792694,Javi Martínez,h,225,FromCorner,2015,RightFoot,1142,Bayern Munich,Hertha Berlin,2,0,2015-11-28 18:30:00,,Rebound
+79368,9,MissedShots,0.9219999694824219,0.49,0.05251869931817055,Javi Martínez,a,225,FromCorner,2015,Head,1148,Borussia M.Gladbach,Bayern Munich,3,1,2015-12-05 18:30:00,Xabi Alonso,Aerial
+79376,24,SavedShot,0.899000015258789,0.5320000076293945,0.1332249939441681,Javi Martínez,a,225,OpenPlay,2015,LeftFoot,1148,Borussia M.Gladbach,Bayern Munich,3,1,2015-12-05 18:30:00,Arturo Vidal,Pass
+79392,66,MissedShots,0.8830000305175781,0.524000015258789,0.042660199105739594,Javi Martínez,a,225,FromCorner,2015,Head,1148,Borussia M.Gladbach,Bayern Munich,3,1,2015-12-05 18:30:00,Arturo Vidal,Cross
+79399,85,MissedShots,0.884000015258789,0.515,0.018735000863671303,Javi Martínez,a,225,SetPiece,2015,Head,1148,Borussia M.Gladbach,Bayern Munich,3,1,2015-12-05 18:30:00,Arturo Vidal,Aerial
+80017,56,MissedShots,0.879000015258789,0.5329999923706055,0.10571400076150894,Javi Martínez,a,225,SetPiece,2015,RightFoot,1170,Hannover 96,Bayern Munich,0,1,2015-12-19 18:30:00,Thomas Müller,Pass
+82402,32,MissedShots,0.919000015258789,0.5670000076293945,0.07191889733076096,Javi Martínez,h,225,FromCorner,2015,Head,1265,Bayern Munich,Eintracht Frankfurt,1,0,2016-04-02 17:30:00,Thiago Alcántara,Cross
+82712,40,MissedShots,0.8969999694824219,0.47200000762939454,0.11315400153398514,Javi Martínez,a,225,OpenPlay,2015,RightFoot,1276,VfB Stuttgart,Bayern Munich,1,3,2016-04-09 17:30:00,Franck Ribéry,Cross
+127441,35,SavedShot,0.874000015258789,0.41200000762939454,0.019371699541807175,Javi Martínez,h,225,FromCorner,2016,Head,1327,Bayern Munich,Werder Bremen,6,0,2016-08-26 22:30:00,Thiago Alcántara,Cross
+128402,14,BlockedShot,0.9519999694824218,0.5259999847412109,0.13719800114631653,Javi Martínez,h,225,FromCorner,2016,Head,1360,Bayern Munich,Hertha Berlin,3,0,2016-09-21 22:00:00,Franck Ribéry,Cross
+128705,57,BlockedShot,0.8930000305175781,0.5770000076293945,0.08458100259304047,Javi Martínez,a,225,OpenPlay,2016,RightFoot,1366,Hamburger SV,Bayern Munich,0,1,2016-09-24 17:30:00,,None
+128834,54,ShotOnPost,0.899000015258789,0.5209999847412109,0.0651312991976738,Javi Martínez,h,225,FromCorner,2016,Head,1373,Bayern Munich,FC Cologne,1,1,2016-10-01 17:30:00,Xabi Alonso,Cross
+129293,25,MissedShots,0.919000015258789,0.5479999923706055,0.035432398319244385,Javi Martínez,h,225,FromCorner,2016,Head,1396,Bayern Munich,Borussia M.Gladbach,2,0,2016-10-22 20:30:00,Xabi Alonso,Aerial
+131525,85,MissedShots,0.889000015258789,0.37099998474121093,0.29861000180244446,Javi Martínez,h,225,OpenPlay,2016,RightFoot,3743,Bayern Munich,Schalke 04,1,1,2017-02-04 14:30:00,David Alaba,Chipped
+132632,82,MissedShots,0.9219999694824219,0.509000015258789,0.052184898406267166,Javi Martínez,a,225,FromCorner,2016,Head,3753,Ingolstadt,Bayern Munich,0,2,2017-02-11 14:30:00,Douglas Costa,Aerial
+132590,16,MissedShots,0.9459999847412109,0.49700000762939456,0.10754799842834473,Javi Martínez,a,225,FromCorner,2016,Head,3778,FC Cologne,Bayern Munich,0,3,2017-03-04 14:30:00,Arturo Vidal,HeadPass
+132598,24,Goal,0.95,0.4570000076293945,0.4350450038909912,Javi Martínez,a,225,FromCorner,2016,RightFoot,3778,FC Cologne,Bayern Munich,0,3,2017-03-04 14:30:00,Arturo Vidal,Cross
+132609,63,MissedShots,0.9219999694824219,0.4540000152587891,0.09315460175275803,Javi Martínez,a,225,FromCorner,2016,Head,3778,FC Cologne,Bayern Munich,0,3,2017-03-04 14:30:00,Thiago Alcántara,Cross
+135014,32,BlockedShot,0.8190000152587891,0.485,0.062141600996255875,Javi Martínez,a,225,OpenPlay,2016,RightFoot,3831,Bayer Leverkusen,Bayern Munich,0,0,2017-04-15 17:30:00,Joshua Kimmich,Tackle
+166251,79,SavedShot,0.9130000305175782,0.5259999847412109,0.0547374002635479,Javi Martínez,a,225,SetPiece,2017,Head,8283,Hoffenheim,Bayern Munich,2,0,2017-09-09 17:30:00,James Rodríguez,Aerial
+167016,2,MissedShots,0.9330000305175781,0.4879999923706055,0.12378600239753723,Javi Martínez,a,225,FromCorner,2017,Head,8296,Schalke 04,Bayern Munich,0,3,2017-09-19 19:30:00,James Rodríguez,Cross
+167019,10,MissedShots,0.8980000305175782,0.5609999847412109,0.061567001044750214,Javi Martínez,a,225,FromCorner,2017,Head,8296,Schalke 04,Bayern Munich,0,3,2017-09-19 19:30:00,Joshua Kimmich,Cross
+166996,30,MissedShots,0.9030000305175782,0.5579999923706055,0.0557916983962059,Javi Martínez,a,225,FromCorner,2017,Head,8317,Hertha Berlin,Bayern Munich,2,2,2017-10-01 14:30:00,Franck Ribéry,Cross
+167525,11,MissedShots,0.904000015258789,0.4370000076293945,0.01775529980659485,Javi Martínez,h,225,FromCorner,2017,Head,8322,Bayern Munich,Freiburg,5,0,2017-10-14 14:30:00,Joshua Kimmich,Aerial
+167529,27,MissedShots,0.9080000305175782,0.685,0.023259999230504036,Javi Martínez,h,225,OpenPlay,2017,Head,8322,Bayern Munich,Freiburg,5,0,2017-10-14 14:30:00,Thiago Alcántara,Chipped
+167533,36,MissedShots,0.88,0.5779999923706055,0.012934300117194653,Javi Martínez,h,225,FromCorner,2017,Head,8322,Bayern Munich,Freiburg,5,0,2017-10-14 14:30:00,Joshua Kimmich,Aerial
+168477,2,MissedShots,0.9159999847412109,0.45799999237060546,0.034736499190330505,Javi Martínez,h,225,FromCorner,2017,Head,8340,Bayern Munich,RasenBallsport Leipzig,2,0,2017-10-28 17:30:00,Joshua Kimmich,Aerial
+168479,8,MissedShots,0.9209999847412109,0.56,0.08147100359201431,Javi Martínez,h,225,FromCorner,2017,Head,8340,Bayern Munich,RasenBallsport Leipzig,2,0,2017-10-28 17:30:00,James Rodríguez,Cross
+168498,79,MissedShots,0.685,0.56,0.01842140033841133,Javi Martínez,h,225,OpenPlay,2017,RightFoot,8340,Bayern Munich,RasenBallsport Leipzig,2,0,2017-10-28 17:30:00,Mats Hummels,Pass
+167772,36,MissedShots,0.745999984741211,0.4759999847412109,0.017144599929451942,Javi Martínez,h,225,FromCorner,2017,RightFoot,8358,Bayern Munich,Augsburg,3,0,2017-11-18 14:30:00,,None
+168444,11,MissedShots,0.8490000152587891,0.5609999847412109,0.008491500280797482,Javi Martínez,a,225,SetPiece,2017,Head,8371,Borussia M.Gladbach,Bayern Munich,2,1,2017-11-25 17:30:00,Joshua Kimmich,Aerial
+168450,35,BlockedShot,0.7709999847412109,0.54,0.03194209933280945,Javi Martínez,a,225,OpenPlay,2017,LeftFoot,8371,Borussia M.Gladbach,Bayern Munich,2,1,2017-11-25 17:30:00,,Tackle
+168464,62,MissedShots,0.784000015258789,0.555,0.036358099430799484,Javi Martínez,a,225,OpenPlay,2017,LeftFoot,8371,Borussia M.Gladbach,Bayern Munich,2,1,2017-11-25 17:30:00,Arturo Vidal,Pass
+168467,70,MissedShots,0.7169999694824218,0.6120000076293945,0.009037690237164497,Javi Martínez,a,225,OpenPlay,2017,RightFoot,8371,Borussia M.Gladbach,Bayern Munich,2,1,2017-11-25 17:30:00,,Aerial
+179721,33,BlockedShot,0.87,0.425,0.07426699995994568,Javi Martínez,a,225,SetPiece,2017,LeftFoot,8391,Eintracht Frankfurt,Bayern Munich,0,1,2017-12-09 14:30:00,Jérôme Boateng,BallTouch
+187131,31,Goal,0.97,0.5990000152587891,0.371302992105484,Javi Martínez,a,225,FromCorner,2017,LeftFoot,8417,Bayer Leverkusen,Bayern Munich,1,3,2018-01-12 19:30:00,,Rebound
+187133,37,MissedShots,0.93,0.45799999237060546,0.05321180075407028,Javi Martínez,a,225,FromCorner,2017,Head,8417,Bayer Leverkusen,Bayern Munich,1,3,2018-01-12 19:30:00,James Rodríguez,Aerial
+194940,85,BlockedShot,0.7519999694824219,0.5879999923706055,0.028525400906801224,Javi Martínez,h,225,OpenPlay,2017,RightFoot,8451,Bayern Munich,Schalke 04,2,1,2018-02-10 17:30:00,,None
+196277,4,BlockedShot,0.9169999694824219,0.5179999923706055,0.06321270018815994,Javi Martínez,a,225,FromCorner,2017,RightFoot,8465,Wolfsburg,Bayern Munich,1,2,2018-02-17 14:30:00,,Aerial
+213176,8,MissedShots,0.9309999847412109,0.42700000762939455,0.03185280039906502,Javi Martínez,a,225,FromCorner,2017,Head,8552,FC Cologne,Bayern Munich,1,3,2018-05-05 14:30:00,James Rodríguez,Aerial
+214734,46,SavedShot,0.9209999847412109,0.34900001525878904,0.05441879853606224,Javi Martínez,h,225,OpenPlay,2017,RightFoot,8556,Bayern Munich,VfB Stuttgart,1,4,2018-05-12 14:30:00,Thomas Müller,HeadPass
+255538,54,SavedShot,0.9319999694824219,0.5970000076293945,0.02056019939482212,Javi Martínez,a,225,FromCorner,2018,Head,10407,Wolfsburg,Bayern Munich,1,3,2018-10-20 13:30:00,Mats Hummels,Aerial
+255738,43,MissedShots,0.9459999847412109,0.544000015258789,0.10478399693965912,Javi Martínez,a,225,SetPiece,2018,Head,10415,Mainz 05,Bayern Munich,1,2,2018-10-27 13:30:00,Leon Goretzka,HeadPass
+255744,58,BlockedShot,0.740999984741211,0.5279999923706055,0.017642099410295486,Javi Martínez,a,225,OpenPlay,2018,RightFoot,10415,Mainz 05,Bayern Munich,1,2,2018-10-27 13:30:00,Thiago Alcántara,Pass
+255750,76,SavedShot,0.7269999694824218,0.4129999923706055,0.022855199873447418,Javi Martínez,a,225,OpenPlay,2018,RightFoot,10415,Mainz 05,Bayern Munich,1,2,2018-10-27 13:30:00,Thiago Alcántara,Pass
+257803,12,SavedShot,0.9169999694824219,0.509000015258789,0.3148050010204315,Javi Martínez,a,225,FromCorner,2018,Head,10487,Eintracht Frankfurt,Bayern Munich,0,3,2018-12-22 17:30:00,Joshua Kimmich,Cross
+278256,49,BlockedShot,0.9130000305175782,0.49900001525878906,0.05482880026102066,Javi Martínez,a,225,FromCorner,2018,Head,10497,Hoffenheim,Bayern Munich,1,3,2019-01-18 19:30:00,Thomas Müller,HeadPass
+278263,60,MissedShots,0.750999984741211,0.425,0.02974030002951622,Javi Martínez,a,225,OpenPlay,2018,RightFoot,10497,Hoffenheim,Bayern Munich,1,3,2019-01-18 19:30:00,,None
+278264,67,BlockedShot,0.895,0.4909999847412109,0.08115579932928085,Javi Martínez,a,225,FromCorner,2018,RightFoot,10497,Hoffenheim,Bayern Munich,1,3,2019-01-18 19:30:00,Mats Hummels,BallTouch
+278714,34,MissedShots,0.9569999694824218,0.44599998474121094,0.11581599712371826,Javi Martínez,h,225,OpenPlay,2018,Head,10499,Bayern Munich,VfB Stuttgart,4,1,2019-01-27 14:30:00,Kingsley Coman,Aerial
+279410,22,MissedShots,0.919000015258789,0.45099998474121095,0.08677700161933899,Javi Martínez,h,225,FromCorner,2018,Head,10535,Bayern Munich,Hertha Berlin,1,0,2019-02-23 14:30:00,James Rodríguez,Cross
+279416,61,Goal,0.9369999694824219,0.485,0.06978669762611389,Javi Martínez,h,225,FromCorner,2018,Head,10535,Bayern Munich,Hertha Berlin,1,0,2019-02-23 14:30:00,James Rodríguez,Aerial
+279711,1,Goal,0.9530000305175781,0.5029999923706054,0.48343101143836975,Javi Martínez,a,225,FromCorner,2018,Head,10548,Borussia M.Gladbach,Bayern Munich,1,5,2019-03-02 17:30:00,James Rodríguez,Cross
+279725,40,SavedShot,0.925,0.5359999847412109,0.04902150109410286,Javi Martínez,a,225,FromCorner,2018,Head,10548,Borussia M.Gladbach,Bayern Munich,1,5,2019-03-02 17:30:00,James Rodríguez,Aerial
+292148,40,Goal,0.8230000305175781,0.5459999847412109,0.043638598173856735,Javi Martínez,h,225,SetPiece,2018,RightFoot,10580,Bayern Munich,Borussia Dortmund,5,0,2019-04-06 17:30:00,,Rebound
+294212,18,BlockedShot,0.8369999694824218,0.6719999694824219,0.05884850025177002,Javi Martínez,a,225,OpenPlay,2018,RightFoot,10596,Fortuna Duesseldorf,Bayern Munich,1,4,2019-04-14 14:30:00,,BallRecovery
+294220,46,SavedShot,0.9009999847412109,0.5570000076293945,0.05451250076293945,Javi Martínez,a,225,FromCorner,2018,Head,10596,Fortuna Duesseldorf,Bayern Munich,1,4,2019-04-14 14:30:00,Joshua Kimmich,Cross
+295165,7,MissedShots,0.914000015258789,0.5120000076293946,0.041005101054906845,Javi Martínez,h,225,FromCorner,2018,Head,10598,Bayern Munich,Werder Bremen,1,0,2019-04-20 14:30:00,Thiago Alcántara,Aerial
+298299,36,MissedShots,0.7530000305175781,0.41900001525878905,0.01834609918296337,Javi Martínez,a,225,OpenPlay,2018,RightFoot,10615,Nuernberg,Bayern Munich,1,1,2019-04-28 17:00:00,,None
+333848,6,MissedShots,0.9690000152587891,0.43099998474121093,0.13120900094509125,Javi Martínez,h,225,SetPiece,2019,Head,12512,Bayern Munich,Bayer Leverkusen,1,2,2019-11-30 17:30:00,Joshua Kimmich,Cross
+382063,78,ShotOnPost,0.9309999847412109,0.5429999923706055,0.06083890050649643,Javi Martínez,a,225,FromCorner,2020,Head,15172,Arminia Bielefeld,Bayern Munich,1,4,2020-10-17 16:30:00,Thomas Müller,HeadPass
+405516,90,MissedShots,0.8859999847412109,0.625999984741211,0.008261550217866898,Javi Martínez,a,225,SetPiece,2020,Head,15332,Eintracht Frankfurt,Bayern Munich,2,1,2021-02-20 14:30:00,Joshua Kimmich,Aerial

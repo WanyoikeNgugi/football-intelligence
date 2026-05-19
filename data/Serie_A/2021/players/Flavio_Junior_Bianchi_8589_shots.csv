@@ -1,0 +1,11 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+427220,62,SavedShot,0.735,0.6,0.04021440073847771,Flavio Junior Bianchi,a,8589,OpenPlay,2021,RightFoot,16757,Inter,Genoa,4,0,2021-08-21 16:30:00,Goran Pandev,Pass
+427227,81,SavedShot,0.7980000305175782,0.40599998474121096,0.07866039872169495,Flavio Junior Bianchi,a,8589,OpenPlay,2021,LeftFoot,16757,Inter,Genoa,4,0,2021-08-21 16:30:00,Goran Pandev,Pass
+434716,5,MissedShots,0.870999984741211,0.3089999961853027,0.051819998770952225,Flavio Junior Bianchi,a,8589,OpenPlay,2021,RightFoot,16822,Salernitana,Genoa,1,0,2021-10-02 13:00:00,Stefano Sabelli,Pass
+434722,23,MissedShots,0.950999984741211,0.654000015258789,0.07434649765491486,Flavio Junior Bianchi,a,8589,OpenPlay,2021,LeftFoot,16822,Salernitana,Genoa,1,0,2021-10-02 13:00:00,Yayah Kallon,BallTouch
+434730,48,MissedShots,0.840999984741211,0.485,0.09037379920482635,Flavio Junior Bianchi,a,8589,OpenPlay,2021,RightFoot,16822,Salernitana,Genoa,1,0,2021-10-02 13:00:00,Yayah Kallon,Pass
+440723,86,MissedShots,0.815,0.47,0.03818479925394058,Flavio Junior Bianchi,a,8589,SetPiece,2021,RightFoot,16867,Empoli,Genoa,2,2,2021-11-05 19:45:00,,Rebound
+440724,88,Goal,0.9069999694824219,0.620999984741211,0.3240790069103241,Flavio Junior Bianchi,a,8589,OpenPlay,2021,LeftFoot,16867,Empoli,Genoa,2,2,2021-11-05 19:45:00,Felipe Caicedo,Pass
+444401,5,BlockedShot,0.8040000152587891,0.41900001525878905,0.041376300156116486,Flavio Junior Bianchi,a,8589,OpenPlay,2021,LeftFoot,16894,Udinese,Genoa,0,0,2021-11-28 11:30:00,,None
+444402,11,BlockedShot,0.845,0.7530000305175781,0.024980999529361725,Flavio Junior Bianchi,a,8589,OpenPlay,2021,RightFoot,16894,Udinese,Genoa,0,0,2021-11-28 11:30:00,,Card
+445456,43,MissedShots,0.885,0.40400001525878904,0.0628226026892662,Flavio Junior Bianchi,h,8589,OpenPlay,2021,RightFoot,16899,Genoa,AC Milan,0,3,2021-12-01 19:45:00,Paolo Ghiglione,Cross

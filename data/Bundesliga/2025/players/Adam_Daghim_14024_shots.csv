@@ -1,0 +1,25 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+644584,50,MissedShots,0.785,0.27299999237060546,0.020014144480228424,Adam Daghim,h,14024,OpenPlay,2025,LeftFoot,30264,Wolfsburg,RasenBallsport Leipzig,0,1,2025-09-27 13:30:00,Mattias Svanberg,Pass
+644592,64,BlockedShot,0.894000015258789,0.37599998474121094,0.0790979340672493,Adam Daghim,h,14024,OpenPlay,2025,LeftFoot,30264,Wolfsburg,RasenBallsport Leipzig,0,1,2025-09-27 13:30:00,Kilian Fischer,TakeOn
+644607,82,MissedShots,0.9069999694824219,0.345,0.014177806675434113,Adam Daghim,h,14024,OpenPlay,2025,Head,30264,Wolfsburg,RasenBallsport Leipzig,0,1,2025-09-27 13:30:00,Joakim Maehle,Cross
+646046,33,MissedShots,0.909000015258789,0.5179999923706055,0.08392242342233658,Adam Daghim,a,14024,FromCorner,2025,Head,30276,Augsburg,Wolfsburg,3,1,2025-10-04 13:30:00,Maximilian Arnold,Cross
+646053,59,BlockedShot,0.9309999847412109,0.685,0.054527685046195984,Adam Daghim,a,14024,OpenPlay,2025,LeftFoot,30276,Augsburg,Wolfsburg,3,1,2025-10-04 13:30:00,,BallTouch
+646057,64,Goal,0.879000015258789,0.4370000076293945,0.31780099868774414,Adam Daghim,a,14024,OpenPlay,2025,LeftFoot,30276,Augsburg,Wolfsburg,3,1,2025-10-04 13:30:00,Mohammed Amoura,Pass
+648817,14,Goal,0.889000015258789,0.33299999237060546,0.056813713163137436,Adam Daghim,a,14024,OpenPlay,2025,LeftFoot,30292,Hamburger SV,Wolfsburg,0,1,2025-10-25 13:30:00,Christian Eriksen,Pass
+648843,83,MissedShots,0.67,0.9030000305175782,0.012427224777638912,Adam Daghim,a,14024,OpenPlay,2025,LeftFoot,30292,Hamburger SV,Wolfsburg,0,1,2025-10-25 13:30:00,Bence Dárdai,Pass
+651913,12,SavedShot,0.9359999847412109,0.67,0.06398767232894897,Adam Daghim,a,14024,OpenPlay,2025,LeftFoot,30313,Werder Bremen,Wolfsburg,2,1,2025-11-07 19:30:00,Aaron Zehnter,Pass
+663038,74,SavedShot,0.8480000305175781,0.37400001525878906,0.05496465414762497,Adam Daghim,h,14024,OpenPlay,2025,LeftFoot,30376,Wolfsburg,St. Pauli,2,1,2026-01-14 17:30:00,Aaron Zehnter,Pass
+663415,83,BlockedShot,0.7980000305175782,0.285,0.021860826760530472,Adam Daghim,h,14024,OpenPlay,2025,LeftFoot,30385,Wolfsburg,FC Heidenheim,1,1,2026-01-17 14:30:00,,Dispossessed
+664688,88,BlockedShot,0.8780000305175781,0.22899999618530273,0.01767551526427269,Adam Daghim,a,14024,OpenPlay,2025,RightFoot,30392,Mainz 05,Wolfsburg,3,1,2026-01-24 14:30:00,,None
+665762,52,BlockedShot,0.9480000305175781,0.4490000152587891,0.06788930296897888,Adam Daghim,a,14024,FromCorner,2025,Head,30398,FC Cologne,Wolfsburg,1,0,2026-01-30 19:30:00,Christian Eriksen,Aerial
+665765,72,BlockedShot,0.88,0.45,0.07226833701133728,Adam Daghim,a,14024,OpenPlay,2025,LeftFoot,30398,FC Cologne,Wolfsburg,1,0,2026-01-30 19:30:00,,None
+665767,75,MissedShots,0.9269999694824219,0.4490000152587891,0.04667651280760765,Adam Daghim,a,14024,OpenPlay,2025,Head,30398,FC Cologne,Wolfsburg,1,0,2026-01-30 19:30:00,Yannick Gerhardt,Aerial
+665773,94,SavedShot,0.905,0.38,0.2777503430843353,Adam Daghim,a,14024,OpenPlay,2025,RightFoot,30398,FC Cologne,Wolfsburg,1,0,2026-01-30 19:30:00,Jesper Lindstrom,Cross
+669221,78,BlockedShot,0.805,0.49700000762939456,0.06710641086101532,Adam Daghim,a,14024,OpenPlay,2025,LeftFoot,30419,RasenBallsport Leipzig,Wolfsburg,2,2,2026-02-15 16:30:00,,BallRecovery
+672665,86,MissedShots,0.855999984741211,0.43,0.05014042183756828,Adam Daghim,h,14024,OpenPlay,2025,LeftFoot,30448,Wolfsburg,Hamburger SV,1,2,2026-03-07 14:30:00,Konstantinos Koulierakis,Cross
+679084,79,MissedShots,0.874000015258789,0.7030000305175781,0.10550500452518463,Adam Daghim,a,14024,OpenPlay,2025,LeftFoot,30492,Union Berlin,Wolfsburg,1,2,2026-04-18 13:30:00,Christian Eriksen,BallRecovery
+683131,32,BlockedShot,0.8590000152587891,0.3240000152587891,0.047962259501218796,Adam Daghim,a,14024,OpenPlay,2025,LeftFoot,30507,Freiburg,Wolfsburg,1,1,2026-05-03 17:30:00,Sael Kumbedi,Pass
+683132,41,MissedShots,0.875,0.4929999923706055,0.05416522175073624,Adam Daghim,a,14024,OpenPlay,2025,Head,30507,Freiburg,Wolfsburg,1,1,2026-05-03 17:30:00,Konstantinos Koulierakis,Cross
+683136,50,SavedShot,0.7819999694824219,0.544000015258789,0.04825115576386452,Adam Daghim,a,14024,OpenPlay,2025,LeftFoot,30507,Freiburg,Wolfsburg,1,1,2026-05-03 17:30:00,Sael Kumbedi,TakeOn
+683143,76,MissedShots,0.855,0.27600000381469725,0.0878494456410408,Adam Daghim,a,14024,OpenPlay,2025,LeftFoot,30507,Freiburg,Wolfsburg,1,1,2026-05-03 17:30:00,Dzenan Pejcinovic,Chipped
+683834,10,BlockedShot,0.9580000305175781,0.6569999694824219,0.09509275108575821,Adam Daghim,h,14024,OpenPlay,2025,LeftFoot,30520,Wolfsburg,Bayern Munich,0,1,2026-05-09 16:30:00,Patrick Wimmer,Pass

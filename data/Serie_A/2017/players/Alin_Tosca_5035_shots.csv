@@ -1,0 +1,10 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+139427,54,MissedShots,0.9730000305175781,0.6120000076293945,0.04557250067591667,Alin Tosca,h,5035,FromCorner,2016,LeftFoot,3981,Real Betis,Real Sociedad,2,3,2017-03-03 19:45:00,Dani Ceballos,Cross
+142353,32,BlockedShot,0.8780000305175781,0.4520000076293945,0.07219730317592621,Alin Tosca,a,5035,SetPiece,2016,RightFoot,4034,Las Palmas,Real Betis,4,1,2017-04-09 19:45:00,,None
+144090,91,BlockedShot,0.9359999847412109,0.7030000305175781,0.06741580367088318,Alin Tosca,a,5035,OpenPlay,2016,LeftFoot,4082,Leganes,Real Betis,4,0,2017-05-08 19:45:00,,TakeOn
+169204,35,OwnGoal,0.075,0.6430000305175781,0,Alin Tosca,a,5035,OpenPlay,2017,RightFoot,7885,Barcelona,Real Betis,2,0,2017-08-20 19:15:00,,End
+170829,31,MissedShots,0.7190000152587891,0.6880000305175781,0.02090430073440075,Alin Tosca,h,5035,OpenPlay,2017,LeftFoot,7959,Real Betis,Alaves,2,0,2017-10-21 15:15:00,Jordi Amat,Pass
+171488,48,BlockedShot,0.9469999694824218,0.685,0.05307840183377266,Alin Tosca,a,5035,OpenPlay,2017,LeftFoot,7970,Espanyol,Real Betis,1,0,2017-10-30 20:00:00,,Rebound
+196744,70,MissedShots,0.925,0.5029999923706054,0.11148200184106827,Alin Tosca,h,5035,FromCorner,2017,Head,7742,Benevento,Crotone,3,2,2018-02-18 14:00:00,Nicolas Viola,Cross
+201995,51,MissedShots,0.9280000305175782,0.504000015258789,0.11509300023317337,Alin Tosca,h,5035,FromCorner,2017,Head,7781,Benevento,Cagliari,1,2,2018-03-18 14:00:00,Nicolas Viola,Cross
+209630,32,MissedShots,0.7480000305175781,0.705,0.015224800445139408,Alin Tosca,h,5035,OpenPlay,2017,LeftFoot,7819,Benevento,Atalanta,0,3,2018-04-18 16:00:00,Nicolas Viola,Pass

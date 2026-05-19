@@ -1,0 +1,37 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+1404,75,SavedShot,0.8340000152587891,0.4370000076293945,0.0850687026977539,Thiago Motta,h,3292,OpenPlay,2014,LeftFoot,6164,Paris Saint Germain,Lyon,1,1,2014-09-21 20:00:00,Lucas Moura,Pass
+2290,40,BlockedShot,0.8830000305175781,0.645,0.062070101499557495,Thiago Motta,h,3292,OpenPlay,2014,LeftFoot,6135,Paris Saint Germain,Bordeaux,3,0,2014-10-25 16:00:00,,None
+3384,49,SavedShot,0.9490000152587891,0.54,0.14373399317264557,Thiago Motta,a,3292,FromCorner,2014,RightFoot,6076,Lorient,Paris Saint Germain,1,2,2014-11-01 16:00:00,,Rebound
+8396,11,MissedShots,0.9309999847412109,0.48700000762939455,0.1214350014925003,Thiago Motta,h,3292,FromCorner,2014,Head,5950,Paris Saint Germain,Lorient,3,1,2015-03-20 19:30:00,Ezequiel Lavezzi,Cross
+61673,32,BlockedShot,0.710999984741211,0.4229999923706055,0.014642500318586826,Thiago Motta,h,3292,OpenPlay,2015,LeftFoot,1888,Paris Saint Germain,GFC Ajaccio,2,0,2015-08-16 23:00:00,,None
+63019,38,MissedShots,0.9490000152587891,0.4209999847412109,0.04849369823932648,Thiago Motta,h,3292,FromCorner,2015,Head,1909,Paris Saint Germain,Bordeaux,2,2,2015-09-11 22:30:00,Blaise Matuidi,Aerial
+63041,20,MissedShots,0.91,0.45799999237060546,0.07467830181121826,Thiago Motta,h,3292,FromCorner,2015,Head,1930,Paris Saint Germain,Guingamp,3,0,2015-09-22 23:00:00,Ángel Di María,Cross
+63945,5,MissedShots,0.9540000152587891,0.5359999847412109,0.47007501125335693,Thiago Motta,h,3292,FromCorner,2015,Head,1977,Paris Saint Germain,Saint-Etienne,4,1,2015-10-26 00:00:00,Ángel Di María,Cross
+65619,53,MissedShots,0.925,0.500999984741211,0.3534409999847412,Thiago Motta,a,3292,FromCorner,2015,Head,2029,Nice,Paris Saint Germain,0,3,2015-12-04 23:30:00,Ángel Di María,Cross
+65326,18,MissedShots,0.87,0.495,0.06827809661626816,Thiago Motta,a,3292,FromCorner,2015,RightFoot,2050,Caen,Paris Saint Germain,0,3,2015-12-19 20:00:00,Thiago Silva,Pass
+65938,28,Goal,0.9930000305175781,0.48900001525878906,0.9601569771766663,Thiago Motta,h,3292,FromCorner,2015,LeftFoot,2059,Paris Saint Germain,SC Bastia,2,0,2016-01-08 23:30:00,Thiago Silva,None
+66192,49,MissedShots,0.96,0.5929999923706055,0.024799499660730362,Thiago Motta,a,3292,FromCorner,2015,Head,2070,Toulouse,Paris Saint Germain,0,1,2016-01-16 20:00:00,Lucas Moura,Aerial
+66450,41,MissedShots,0.91,0.45599998474121095,0.0732446014881134,Thiago Motta,a,3292,FromCorner,2015,Head,2098,Saint-Etienne,Paris Saint Germain,0,2,2016-02-01 00:00:00,Ángel Di María,Cross
+69348,54,MissedShots,0.7080000305175781,0.41900001525878905,0.019374100491404533,Thiago Motta,a,3292,OpenPlay,2015,LeftFoot,2118,Marseille,Paris Saint Germain,1,2,2016-02-08 00:00:00,Adrien Rabiot,Pass
+69855,6,SavedShot,0.9080000305175782,0.38299999237060545,0.02280060015618801,Thiago Motta,h,3292,FromCorner,2015,Head,2130,Paris Saint Germain,Reims,4,1,2016-02-20 20:00:00,Ángel Di María,Cross
+69868,53,MissedShots,0.7519999694824219,0.44799999237060545,0.023210899904370308,Thiago Motta,h,3292,OpenPlay,2015,LeftFoot,2130,Paris Saint Germain,Reims,4,1,2016-02-20 20:00:00,Lucas Moura,Pass
+68912,75,MissedShots,0.9669999694824218,0.445,0.080560103058815,Thiago Motta,h,3292,FromCorner,2015,Head,2244,Paris Saint Germain,Nantes,4,0,2016-05-14 23:00:00,Ángel Di María,Aerial
+103248,9,BlockedShot,0.7619999694824219,0.634000015258789,0.017930500209331512,Thiago Motta,h,3292,OpenPlay,2016,LeftFoot,2268,Paris Saint Germain,Metz,3,0,2016-08-21 22:45:00,Layvin Kurzawa,Pass
+105367,91,ShotOnPost,0.9019999694824219,0.46599998474121096,0.232805997133255,Thiago Motta,h,3292,OpenPlay,2016,Head,2842,Paris Saint Germain,Rennes,4,0,2016-11-06 23:45:00,Maxwell,Cross
+106459,13,MissedShots,0.9259999847412109,0.5120000076293946,0.11445900052785873,Thiago Motta,a,3292,FromCorner,2016,Head,2862,Lyon,Paris Saint Germain,1,2,2016-11-27 23:45:00,Hatem Ben Arfa,Cross
+107288,35,BlockedShot,0.725,0.68,0.014784899540245533,Thiago Motta,h,3292,OpenPlay,2016,LeftFoot,3248,Paris Saint Germain,Nice,2,2,2016-12-11 23:45:00,Layvin Kurzawa,Pass
+106046,56,MissedShots,0.755,0.47700000762939454,0.026576200500130653,Thiago Motta,h,3292,OpenPlay,2016,LeftFoot,3263,Paris Saint Germain,Lorient,5,0,2016-12-21 23:50:00,Christopher Nkunku,Pass
+107432,41,MissedShots,0.904000015258789,0.46299999237060546,0.10065300017595291,Thiago Motta,a,3292,OpenPlay,2016,RightFoot,4139,Dijon,Paris Saint Germain,1,3,2017-02-04 19:00:00,Layvin Kurzawa,Cross
+107444,80,SavedShot,0.9219999694824219,0.49700000762939456,0.05182110145688057,Thiago Motta,a,3292,FromCorner,2016,Head,4139,Dijon,Paris Saint Germain,1,3,2017-02-04 19:00:00,Julian Draxler,Aerial
+108484,33,MissedShots,0.7530000305175781,0.4640000152587891,0.021316800266504288,Thiago Motta,h,3292,OpenPlay,2016,LeftFoot,4150,Paris Saint Germain,Lille,2,1,2017-02-07 23:00:00,Julian Draxler,Pass
+111199,55,MissedShots,0.8109999847412109,0.525,0.050118401646614075,Thiago Motta,h,3292,OpenPlay,2016,LeftFoot,4170,Paris Saint Germain,Toulouse,0,0,2017-02-19 20:00:00,,None
+109491,23,MissedShots,0.924000015258789,0.4759999847412109,0.10810799896717072,Thiago Motta,a,3292,FromCorner,2016,Head,4223,Metz,Paris Saint Germain,2,3,2017-04-18 17:30:00,Ángel Di María,Cross
+110539,44,MissedShots,0.8040000152587891,0.49400001525878906,0.04352010041475296,Thiago Motta,a,3292,OpenPlay,2016,RightFoot,4256,Nice,Paris Saint Germain,3,1,2017-04-30 20:00:00,,Rebound
+110547,75,BlockedShot,0.8859999847412109,0.55,0.0970086008310318,Thiago Motta,a,3292,FromCorner,2016,LeftFoot,4256,Nice,Paris Saint Germain,3,1,2017-04-30 20:00:00,,Rebound
+162105,13,MissedShots,0.799000015258789,0.710999984741211,0.019076799973845482,Thiago Motta,a,3292,OpenPlay,2017,LeftFoot,8584,Guingamp,Paris Saint Germain,0,3,2017-08-13 20:00:00,Edinson Cavani,Pass
+162733,50,Goal,0.9219999694824219,0.4909999847412109,0.49686399102211,Thiago Motta,h,3292,SetPiece,2017,RightFoot,8602,Paris Saint Germain,Saint-Etienne,3,0,2017-08-25 19:45:00,Marquinhos,LayOff
+163635,16,MissedShots,0.7580000305175781,0.5459999847412109,0.018600700423121452,Thiago Motta,a,3292,OpenPlay,2017,LeftFoot,8631,Montpellier,Paris Saint Germain,0,0,2017-09-23 16:00:00,,Rebound
+164105,5,BlockedShot,0.850999984741211,0.49700000762939456,0.032125700265169144,Thiago Motta,a,3292,SetPiece,2017,LeftFoot,8664,Marseille,Paris Saint Germain,2,2,2017-10-22 20:00:00,,Aerial
+199000,63,SavedShot,0.75,0.355,0.021761199459433556,Thiago Motta,a,3292,OpenPlay,2017,LeftFoot,8835,Troyes,Paris Saint Germain,0,2,2018-03-03 16:00:00,Dani Alves,Pass
+216090,31,SavedShot,0.8519999694824218,0.6329999923706054,0.06333500146865845,Thiago Motta,a,3292,OpenPlay,2017,LeftFoot,8938,Caen,Paris Saint Germain,0,0,2018-05-19 19:00:00,Javier Pastore,Pass
+216096,71,MissedShots,0.8780000305175781,0.53,0.03009440004825592,Thiago Motta,a,3292,OpenPlay,2017,Head,8938,Caen,Paris Saint Germain,0,0,2018-05-19 19:00:00,Thomas Meunier,Aerial

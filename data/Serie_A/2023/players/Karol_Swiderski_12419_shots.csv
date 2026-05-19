@@ -1,0 +1,16 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+561708,91,MissedShots,0.9030000305175782,0.5279999923706055,0.07986103743314743,Karol Swiderski,a,12419,OpenPlay,2023,Head,22525,Napoli,Verona,2,1,2024-02-04 14:00:00,Rúben Vinagre,Cross
+562948,5,SavedShot,0.8280000305175781,0.475,0.07688501477241516,Karol Swiderski,a,12419,OpenPlay,2023,LeftFoot,22543,Monza,Verona,0,0,2024-02-11 14:00:00,Michael Folorunsho,Pass
+566978,78,Goal,0.8109999847412109,0.48,0.27975255250930786,Karol Swiderski,h,12419,OpenPlay,2023,LeftFoot,22567,Verona,Sassuolo,1,0,2024-03-03 11:30:00,Federico Bonazzoli,Pass
+569857,61,SavedShot,0.8280000305175781,0.5559999847412109,0.07322777062654495,Karol Swiderski,h,12419,OpenPlay,2023,LeftFoot,22588,Verona,AC Milan,1,3,2024-03-17 14:00:00,Tijjani Noslin,Pass
+569869,90,MissedShots,0.884000015258789,0.6769999694824219,0.04010571911931038,Karol Swiderski,h,12419,OpenPlay,2023,LeftFoot,22588,Verona,AC Milan,1,3,2024-03-17 14:00:00,Ondrej Duda,Chipped
+569868,90,SavedShot,0.8830000305175781,0.6630000305175782,0.035046327859163284,Karol Swiderski,h,12419,OpenPlay,2023,LeftFoot,22588,Verona,AC Milan,1,3,2024-03-17 14:00:00,Tijjani Noslin,TakeOn
+573081,64,SavedShot,0.8909999847412109,0.36900001525878906,0.269968181848526,Karol Swiderski,h,12419,OpenPlay,2023,LeftFoot,22606,Verona,Genoa,1,2,2024-04-07 16:00:00,Dani Silva,Chipped
+573086,85,MissedShots,0.7780000305175782,0.5729999923706055,0.03242000192403793,Karol Swiderski,h,12419,OpenPlay,2023,LeftFoot,22606,Verona,Genoa,1,2,2024-04-07 16:00:00,Michael Folorunsho,Pass
+574575,80,MissedShots,0.9009999847412109,0.515,0.02493373304605484,Karol Swiderski,a,12419,FromCorner,2023,Head,22624,Atalanta,Verona,2,2,2024-04-15 18:45:00,Rúben Vinagre,Aerial
+575234,80,MissedShots,0.9080000305175782,0.5509999847412109,0.08937347680330276,Karol Swiderski,h,12419,OpenPlay,2023,Head,22628,Verona,Udinese,1,0,2024-04-20 18:45:00,Fabien Centonze,Cross
+577044,31,MissedShots,0.915,0.38299999237060545,0.01718473806977272,Karol Swiderski,a,12419,OpenPlay,2023,Head,22635,Lazio,Verona,1,0,2024-04-27 18:45:00,Stefan Mitrovic,Aerial
+577046,34,MissedShots,0.8530000305175781,0.509000015258789,0.3222562074661255,Karol Swiderski,a,12419,OpenPlay,2023,LeftFoot,22635,Lazio,Verona,1,0,2024-04-27 18:45:00,Tijjani Noslin,HeadPass
+578897,71,MissedShots,0.9259999847412109,0.5379999923706055,0.13577143847942352,Karol Swiderski,h,12419,OpenPlay,2023,RightFoot,22649,Verona,Fiorentina,2,1,2024-05-05 13:00:00,Suat Serdar,BlockedPass
+580332,66,Goal,0.96,0.575,0.5258276462554932,Karol Swiderski,h,12419,OpenPlay,2023,RightFoot,22659,Verona,Torino,1,2,2024-05-12 13:00:00,Suat Serdar,Pass
+580340,88,BlockedShot,0.9159999847412109,0.5879999923706055,0.0786195695400238,Karol Swiderski,h,12419,OpenPlay,2023,LeftFoot,22659,Verona,Torino,1,2,2024-05-12 13:00:00,Diego Coppola,None

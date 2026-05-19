@@ -1,0 +1,8 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+180302,60,MissedShots,0.7659999847412109,0.48900001525878906,0.0289721991866827,Lorenzo Del Pinto,a,6194,FromCorner,2017,RightFoot,7658,Udinese,Benevento,2,0,2017-12-10 14:00:00,,Rebound
+180313,89,MissedShots,0.9469999694824218,0.6680000305175782,0.011409600265324116,Lorenzo Del Pinto,a,6194,FromCorner,2017,Head,7658,Udinese,Benevento,2,0,2017-12-10 14:00:00,Gaetano Letizia,Cross
+185046,45,BlockedShot,0.955,0.40099998474121096,0.028909699991345406,Lorenzo Del Pinto,a,6194,FromCorner,2017,Head,7671,Genoa,Benevento,1,0,2017-12-23 14:00:00,Amato Ciciretti,End
+185049,48,MissedShots,0.7730000305175782,0.37400001525878906,0.022145599126815796,Lorenzo Del Pinto,a,6194,OpenPlay,2017,RightFoot,7671,Genoa,Benevento,1,0,2017-12-23 14:00:00,,None
+195859,92,SavedShot,0.8969999694824219,0.35400001525878905,0.07675070315599442,Lorenzo Del Pinto,a,6194,OpenPlay,2017,RightFoot,7730,Roma,Benevento,5,2,2018-02-11 19:45:00,Guilherme,Pass
+205148,3,SavedShot,0.7569999694824219,0.6869999694824219,0.015355899930000305,Lorenzo Del Pinto,h,6194,OpenPlay,2017,RightFoot,7763,Benevento,Verona,3,0,2018-04-04 16:00:00,Gaetano Letizia,Pass
+208043,83,MissedShots,0.749000015258789,0.5559999847412109,0.01991420052945614,Lorenzo Del Pinto,h,6194,OpenPlay,2017,RightFoot,7806,Benevento,Juventus,2,4,2018-04-07 13:00:00,Pietro Iemmello,LayOff

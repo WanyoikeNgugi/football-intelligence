@@ -1,0 +1,34 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+128365,72,ShotOnPost,0.905,0.4759999847412109,0.07351280003786087,Jeffrey Bruma,a,5327,FromCorner,2016,Head,1347,Hoffenheim,Wolfsburg,0,0,2016-09-17 17:30:00,Ricardo Rodríguez,Cross
+128926,5,MissedShots,0.915,0.4909999847412109,0.29330798983573914,Jeffrey Bruma,h,5327,FromCorner,2016,RightFoot,1379,Wolfsburg,Mainz 05,0,0,2016-10-02 17:30:00,Julian Draxler,Cross
+128946,88,BlockedShot,0.6730000305175782,0.5159999847412109,0.012230499647557735,Jeffrey Bruma,h,5327,OpenPlay,2016,RightFoot,1379,Wolfsburg,Mainz 05,0,0,2016-10-02 17:30:00,Josip Brekalo,Pass
+129694,9,MissedShots,0.9219999694824219,0.48900001525878906,0.10976099967956543,Jeffrey Bruma,a,5327,FromCorner,2016,Head,2811,Freiburg,Wolfsburg,0,3,2016-11-05 18:30:00,Ricardo Rodríguez,Cross
+129969,8,MissedShots,0.8919999694824219,0.5770000076293945,0.01423959992825985,Jeffrey Bruma,h,5327,FromCorner,2016,Head,2818,Wolfsburg,Schalke 04,0,1,2016-11-19 18:30:00,Ricardo Rodríguez,Aerial
+130206,33,MissedShots,0.7430000305175781,0.325,0.012488000094890594,Jeffrey Bruma,a,5327,SetPiece,2016,RightFoot,2828,Ingolstadt,Wolfsburg,1,1,2016-11-26 18:30:00,Maximilian Arnold,HeadPass
+130219,76,MissedShots,0.9259999847412109,0.52,0.11544699966907501,Jeffrey Bruma,a,5327,FromCorner,2016,Head,2828,Ingolstadt,Wolfsburg,1,1,2016-11-26 18:30:00,Ricardo Rodríguez,Cross
+131538,32,Goal,0.91,0.46599998474121096,0.08044999837875366,Jeffrey Bruma,h,5327,FromCorner,2016,Head,3216,Wolfsburg,Eintracht Frankfurt,1,0,2016-12-17 21:30:00,Julian Draxler,Cross
+130621,68,SavedShot,0.9319999694824219,0.47400001525878904,0.08609329909086227,Jeffrey Bruma,h,5327,FromCorner,2016,OtherBodyPart,3724,Wolfsburg,Hamburger SV,1,0,2017-01-21 17:30:00,Ricardo Rodríguez,Cross
+131915,19,OwnGoal,0.04099999904632568,0.47,0,Jeffrey Bruma,a,5327,FromCorner,2016,Head,3763,Borussia Dortmund,Wolfsburg,3,0,2017-02-18 14:30:00,,None
+131930,72,MissedShots,0.9019999694824219,0.56,0.04081989824771881,Jeffrey Bruma,a,5327,FromCorner,2016,RightFoot,3763,Borussia Dortmund,Wolfsburg,3,0,2017-02-18 14:30:00,Yunus Malli,Aerial
+132551,36,SavedShot,0.9280000305175782,0.43,0.08101650327444077,Jeffrey Bruma,a,5327,FromCorner,2016,Head,3777,Mainz 05,Wolfsburg,1,1,2017-03-04 14:30:00,Yunus Malli,Cross
+184210,77,SavedShot,0.8819999694824219,0.4640000152587891,0.08303520083427429,Jeffrey Bruma,a,5327,FromCorner,2017,RightFoot,8405,FC Cologne,Wolfsburg,1,0,2017-12-16 14:30:00,,None
+194914,74,MissedShots,0.765,0.580999984741211,0.07625170052051544,Jeffrey Bruma,h,5327,DirectFreekick,2017,RightFoot,8446,Wolfsburg,VfB Stuttgart,1,1,2018-02-03 14:30:00,,Standard
+279091,10,OwnGoal,0.12699999809265136,0.555,0,Jeffrey Bruma,a,5327,OpenPlay,2018,RightFoot,10517,Bayern Munich,Schalke 04,3,1,2019-02-09 17:30:00,,None
+279106,53,ShotOnPost,0.870999984741211,0.5520000076293945,0.013131299987435341,Jeffrey Bruma,a,5327,FromCorner,2018,Head,10517,Bayern Munich,Schalke 04,3,1,2019-02-09 17:30:00,Daniel Caligiuri,Aerial
+286192,92,MissedShots,0.860999984741211,0.29200000762939454,0.03461889922618866,Jeffrey Bruma,h,5327,SetPiece,2018,RightFoot,10564,Schalke 04,RasenBallsport Leipzig,0,1,2019-03-16 14:30:00,Breel Embolo,BallTouch
+324898,65,SavedShot,0.8959999847412109,0.46900001525878904,0.029447199776768684,Jeffrey Bruma,h,5327,SetPiece,2019,Head,12463,Wolfsburg,Union Berlin,1,0,2019-10-06 14:30:00,Maximilian Arnold,Aerial
+327889,55,MissedShots,0.9390000152587891,0.639000015258789,0.019630400463938713,Jeffrey Bruma,h,5327,FromCorner,2019,Head,12480,Wolfsburg,Augsburg,0,0,2019-10-27 14:30:00,Josip Brekalo,Cross
+329023,24,MissedShots,0.7830000305175782,0.42400001525878905,0.0320563018321991,Jeffrey Bruma,a,5327,OpenPlay,2019,RightFoot,12484,Borussia Dortmund,Wolfsburg,3,0,2019-11-02 14:30:00,John Brooks,Pass
+329029,49,MissedShots,0.9869999694824219,0.5770000076293945,0.4175820052623749,Jeffrey Bruma,a,5327,FromCorner,2019,RightFoot,12484,Borussia Dortmund,Wolfsburg,3,0,2019-11-02 14:30:00,John Brooks,Rebound
+329031,51,MissedShots,0.895,0.47,0.056402698159217834,Jeffrey Bruma,a,5327,FromCorner,2019,Head,12484,Borussia Dortmund,Wolfsburg,3,0,2019-11-02 14:30:00,William,Cross
+331461,92,MissedShots,0.9230000305175782,0.51,0.1117670014500618,Jeffrey Bruma,h,5327,FromCorner,2019,Head,12501,Wolfsburg,Bayer Leverkusen,0,2,2019-11-10 14:30:00,Maximilian Arnold,Cross
+332035,52,SavedShot,0.9180000305175782,0.46099998474121096,0.3463920056819916,Jeffrey Bruma,a,5327,SetPiece,2019,Head,12508,Eintracht Frankfurt,Wolfsburg,0,2,2019-11-23 14:30:00,Maximilian Arnold,Cross
+335640,79,MissedShots,0.9280000305175782,0.46700000762939453,0.1137859970331192,Jeffrey Bruma,a,5327,FromCorner,2019,Head,12526,Freiburg,Wolfsburg,1,0,2019-12-07 14:30:00,Josip Brekalo,Cross
+335642,79,BlockedShot,0.865999984741211,0.4470000076293945,0.07957260310649872,Jeffrey Bruma,a,5327,FromCorner,2019,RightFoot,12526,Freiburg,Wolfsburg,1,0,2019-12-07 14:30:00,,Rebound
+359485,70,MissedShots,0.9219999694824219,0.49700000762939456,0.11102599650621414,Jeffrey Bruma,h,5327,FromCorner,2019,Head,12596,Mainz 05,Schalke 04,0,0,2020-02-16 17:00:00,Daniel Brosinski,Cross
+360326,1,BlockedShot,0.9169999694824219,0.5129999923706055,0.046758100390434265,Jeffrey Bruma,a,5327,FromCorner,2019,Head,12604,Wolfsburg,Mainz 05,4,0,2020-02-23 17:00:00,Daniel Brosinski,CornerAwarded
+360334,38,BlockedShot,0.879000015258789,0.47200000762939454,0.037522200495004654,Jeffrey Bruma,a,5327,FromCorner,2019,Head,12604,Wolfsburg,Mainz 05,4,0,2020-02-23 17:00:00,Daniel Brosinski,Cross
+360356,80,BlockedShot,0.754000015258789,0.4470000076293945,0.017983699217438698,Jeffrey Bruma,a,5327,FromCorner,2019,RightFoot,12604,Wolfsburg,Mainz 05,4,0,2020-02-23 17:00:00,,None
+360782,18,BlockedShot,0.705999984741211,0.4420000076293945,0.041807301342487335,Jeffrey Bruma,h,5327,DirectFreekick,2019,RightFoot,12615,Mainz 05,Paderborn,2,0,2020-02-29 14:30:00,,Standard
+360783,19,BlockedShot,0.94,0.534000015258789,0.13113899528980255,Jeffrey Bruma,h,5327,SetPiece,2019,Head,12615,Mainz 05,Paderborn,2,0,2020-02-29 14:30:00,Philipp Mwene,Cross
+363645,53,MissedShots,0.9369999694824219,0.445,0.05349250137805939,Jeffrey Bruma,h,5327,FromCorner,2019,Head,12659,Mainz 05,Hoffenheim,0,1,2020-05-30 13:30:00,Daniel Brosinski,Aerial

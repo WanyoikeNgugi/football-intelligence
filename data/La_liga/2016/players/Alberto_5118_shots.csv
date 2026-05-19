@@ -1,0 +1,5 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+135320,62,MissedShots,0.845999984741211,0.4759999847412109,0.07645600289106369,Alberto,a,5118,OpenPlay,2016,RightFoot,1787,Celta Vigo,Leganes,0,1,2016-08-22 22:00:00,,BallRecovery
+135600,91,MissedShots,0.9130000305175782,0.48200000762939454,0.055878400802612305,Alberto,a,5118,FromCorner,2016,LeftFoot,1805,Sporting Gijon,Leganes,2,1,2016-09-11 14:00:00,,Aerial
+138328,35,MissedShots,0.789000015258789,0.45,0.027743300423026085,Alberto,a,5118,SetPiece,2016,LeftFoot,2799,Espanyol,Leganes,3,0,2016-11-26 21:30:00,,None
+143786,20,MissedShots,0.7040000152587891,0.5,0.011607400141656399,Alberto,h,5118,OpenPlay,2016,RightFoot,4100,Leganes,Alaves,1,1,2017-05-20 18:00:00,,Rebound

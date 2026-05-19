@@ -1,0 +1,452 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+24599,73,Goal,0.8919999694824219,0.5070000076293946,0.3980120122432709,Julian Brandt,h,261,OpenPlay,2014,RightFoot,5460,Bayer Leverkusen,Hertha Berlin,4,2,2014-08-30 14:30:00,,Rebound
+26723,34,MissedShots,0.9819999694824219,0.5570000076293945,0.14701099693775177,Julian Brandt,h,261,FromCorner,2014,RightFoot,5359,Bayer Leverkusen,Mainz 05,0,0,2014-11-08 14:30:00,Ömer Toprak,Pass
+27874,77,BlockedShot,0.9059999847412109,0.40700000762939453,0.11061300337314606,Julian Brandt,h,261,OpenPlay,2014,RightFoot,5328,Bayer Leverkusen,Borussia M.Gladbach,1,1,2014-12-14 14:30:00,Gonzalo Castro,Pass
+27756,93,SavedShot,0.850999984741211,0.629000015258789,0.0739877000451088,Julian Brandt,a,261,OpenPlay,2014,LeftFoot,5337,Hoffenheim,Bayer Leverkusen,0,1,2014-12-17 19:00:00,Son Heung-Min,Pass
+28030,89,SavedShot,0.8530000305175781,0.46599998474121096,0.2955949902534485,Julian Brandt,h,261,OpenPlay,2014,RightFoot,5343,Bayer Leverkusen,Eintracht Frankfurt,1,1,2014-12-20 14:30:00,Emir Spahic,Chipped
+28852,69,MissedShots,0.7469999694824219,0.44299999237060544,0.016912400722503662,Julian Brandt,a,261,FromCorner,2014,RightFoot,5269,Hertha Berlin,Bayer Leverkusen,0,1,2015-02-04 19:00:00,,None
+29722,39,MissedShots,0.914000015258789,0.5970000076293945,0.03813499957323074,Julian Brandt,a,261,OpenPlay,2014,Head,5278,Werder Bremen,Bayer Leverkusen,2,1,2015-02-08 14:30:00,Wendell,Aerial
+30564,81,SavedShot,0.88,0.5370000076293945,0.10464800149202347,Julian Brandt,a,261,OpenPlay,2014,LeftFoot,5241,Paderborn,Bayer Leverkusen,0,3,2015-03-08 16:30:00,Roberto Hilbert,Chipped
+31673,22,MissedShots,0.8030000305175782,0.45799999237060546,0.03159260004758835,Julian Brandt,a,261,SetPiece,2014,LeftFoot,5257,Schalke 04,Bayer Leverkusen,0,1,2015-03-21 17:30:00,Simon Rolfes,HeadPass
+32296,47,SavedShot,0.875999984741211,0.6809999847412109,0.04332929849624634,Julian Brandt,h,261,OpenPlay,2014,RightFoot,5199,Bayer Leverkusen,Hamburger SV,4,0,2015-04-04 14:30:00,Gonzalo Castro,Cross
+32307,69,SavedShot,0.8919999694824219,0.595999984741211,0.1202550008893013,Julian Brandt,h,261,OpenPlay,2014,RightFoot,5199,Bayer Leverkusen,Hamburger SV,4,0,2015-04-04 14:30:00,Gonzalo Castro,Pass
+32308,72,MissedShots,0.7219999694824218,0.475,0.02931700088083744,Julian Brandt,h,261,OpenPlay,2014,RightFoot,5199,Bayer Leverkusen,Hamburger SV,4,0,2015-04-04 14:30:00,Simon Rolfes,Pass
+31733,39,Goal,0.879000015258789,0.6469999694824219,0.09083379805088043,Julian Brandt,h,261,OpenPlay,2014,LeftFoot,5218,Bayer Leverkusen,Hannover 96,4,0,2015-04-18 14:30:00,Stefan Kießling,Pass
+30165,59,Goal,0.835,0.42700000762939455,0.07045689970254898,Julian Brandt,a,261,OpenPlay,2014,RightFoot,5226,FC Cologne,Bayer Leverkusen,1,1,2015-04-25 14:30:00,Karim Bellarabi,Pass
+30501,80,Goal,0.870999984741211,0.39099998474121095,0.12049400061368942,Julian Brandt,h,261,OpenPlay,2014,RightFoot,5165,Bayer Leverkusen,Bayern Munich,2,0,2015-05-02 17:30:00,Karim Bellarabi,Pass
+30504,92,MissedShots,0.8880000305175781,0.6519999694824219,0.05802160128951073,Julian Brandt,h,261,SetPiece,2014,LeftFoot,5165,Bayer Leverkusen,Bayern Munich,2,0,2015-05-02 17:30:00,Tin Jedvaj,Chipped
+31502,26,MissedShots,0.8059999847412109,0.500999984741211,0.05297569930553436,Julian Brandt,a,261,OpenPlay,2014,LeftFoot,5171,Borussia M.Gladbach,Bayer Leverkusen,3,0,2015-05-09 14:30:00,Hakan Calhanoglu,Pass
+31507,36,BlockedShot,0.730999984741211,0.3920000076293945,0.012580799870193005,Julian Brandt,a,261,SetPiece,2014,RightFoot,5171,Borussia M.Gladbach,Bayer Leverkusen,3,0,2015-05-09 14:30:00,,Rebound
+31527,6,ShotOnPost,0.85,0.43599998474121093,0.10524100065231323,Julian Brandt,a,261,OpenPlay,2014,RightFoot,5188,Eintracht Frankfurt,Bayer Leverkusen,2,1,2015-05-23 14:30:00,Karim Bellarabi,Pass
+31532,35,BlockedShot,0.8580000305175781,0.5640000152587891,0.09556759893894196,Julian Brandt,a,261,OpenPlay,2014,LeftFoot,5188,Eintracht Frankfurt,Bayer Leverkusen,2,1,2015-05-23 14:30:00,Son Heung-Min,Pass
+76132,70,Goal,0.8730000305175781,0.655,0.08764459937810898,Julian Brandt,h,261,OpenPlay,2015,LeftFoot,1022,Bayer Leverkusen,Hoffenheim,2,1,2015-08-15 17:30:00,Admir Mehmedi,Pass
+76138,92,BlockedShot,0.8809999847412109,0.6309999847412109,0.12095999717712402,Julian Brandt,h,261,OpenPlay,2015,LeftFoot,1022,Bayer Leverkusen,Hoffenheim,2,1,2015-08-15 17:30:00,Admir Mehmedi,Pass
+76438,9,MissedShots,0.8540000152587891,0.5120000076293946,0.07120300084352493,Julian Brandt,a,261,OpenPlay,2015,RightFoot,1035,Hannover 96,Bayer Leverkusen,0,1,2015-08-22 17:30:00,Lars Bender,Chipped
+76818,49,MissedShots,0.7980000305175782,0.8159999847412109,0.016385000199079514,Julian Brandt,h,261,FromCorner,2015,RightFoot,1053,Bayer Leverkusen,Darmstadt,0,1,2015-09-12 17:30:00,Wendell,Pass
+76821,69,BlockedShot,0.8690000152587891,0.605999984741211,0.04845049977302551,Julian Brandt,h,261,OpenPlay,2015,RightFoot,1053,Bayer Leverkusen,Darmstadt,0,1,2015-09-12 17:30:00,Lars Bender,HeadPass
+77598,57,Goal,0.8059999847412109,0.5370000076293945,0.14098100364208221,Julian Brandt,a,261,DirectFreekick,2015,RightFoot,1079,Werder Bremen,Bayer Leverkusen,0,3,2015-09-26 17:30:00,,Standard
+77764,87,MissedShots,0.870999984741211,0.629000015258789,0.07743869721889496,Julian Brandt,h,261,OpenPlay,2015,LeftFoot,1091,Bayer Leverkusen,Augsburg,1,1,2015-10-04 19:30:00,Admir Mehmedi,Pass
+77989,40,SavedShot,0.875,0.49,0.1745939999818802,Julian Brandt,a,261,OpenPlay,2015,RightFoot,1098,Hamburger SV,Bayer Leverkusen,0,0,2015-10-17 17:30:00,Giulio Donati,TakeOn
+80559,85,MissedShots,0.9259999847412109,0.3240000152587891,0.049451299011707306,Julian Brandt,h,261,OpenPlay,2015,RightFoot,1198,Bayer Leverkusen,Bayern Munich,0,0,2016-02-06 21:30:00,Chicharito,HeadPass
+80969,76,Goal,0.9540000152587891,0.46299999237060546,0.6865720152854919,Julian Brandt,a,261,OpenPlay,2015,RightFoot,1202,Darmstadt,Bayer Leverkusen,1,2,2016-02-13 18:30:00,Stefan Kießling,Rebound
+81513,30,MissedShots,0.754000015258789,0.5540000152587891,0.023384999483823776,Julian Brandt,h,261,OpenPlay,2015,RightFoot,1235,Bayer Leverkusen,Werder Bremen,1,4,2016-03-02 23:00:00,Chicharito,Pass
+81788,21,BlockedShot,0.785,0.29200000762939454,0.02727700024843216,Julian Brandt,a,261,OpenPlay,2015,RightFoot,1238,Augsburg,Bayer Leverkusen,3,3,2016-03-05 18:30:00,,TakeOn
+82281,10,Goal,0.865,0.54,0.12433700263500214,Julian Brandt,a,261,OpenPlay,2015,RightFoot,1262,VfB Stuttgart,Bayer Leverkusen,0,2,2016-03-20 18:30:00,Karim Bellarabi,Pass
+82283,28,SavedShot,0.8430000305175781,0.6880000305175781,0.01479410007596016,Julian Brandt,a,261,SetPiece,2015,LeftFoot,1262,VfB Stuttgart,Bayer Leverkusen,0,2,2016-03-20 18:30:00,,Aerial
+82292,56,SavedShot,0.855999984741211,0.46700000762939453,0.33748000860214233,Julian Brandt,a,261,OpenPlay,2015,RightFoot,1262,VfB Stuttgart,Bayer Leverkusen,0,2,2016-03-20 18:30:00,Vladlen Yurchenko,TakeOn
+82305,76,SavedShot,0.8490000152587891,0.519000015258789,0.2871040105819702,Julian Brandt,a,261,OpenPlay,2015,LeftFoot,1262,VfB Stuttgart,Bayer Leverkusen,0,2,2016-03-20 18:30:00,Chicharito,Pass
+82459,26,Goal,0.875,0.485,0.1082409992814064,Julian Brandt,h,261,OpenPlay,2015,RightFoot,1264,Bayer Leverkusen,Wolfsburg,3,0,2016-04-01 22:30:00,Hakan Calhanoglu,Pass
+82461,36,SavedShot,0.8369999694824218,0.7230000305175781,0.0370509997010231,Julian Brandt,h,261,OpenPlay,2015,RightFoot,1264,Bayer Leverkusen,Wolfsburg,3,0,2016-04-01 22:30:00,Wendell,Pass
+82773,38,Goal,0.8980000305175782,0.43599998474121093,0.31943899393081665,Julian Brandt,a,261,OpenPlay,2015,RightFoot,1281,FC Cologne,Bayer Leverkusen,0,2,2016-04-10 19:30:00,Karim Bellarabi,Chipped
+82789,82,MissedShots,0.7680000305175781,0.63,0.01777449995279312,Julian Brandt,a,261,FromCorner,2015,RightFoot,1281,FC Cologne,Bayer Leverkusen,0,2,2016-04-10 19:30:00,,None
+82887,39,SavedShot,0.879000015258789,0.625,0.021629199385643005,Julian Brandt,h,261,SetPiece,2015,Head,1285,Bayer Leverkusen,Eintracht Frankfurt,3,0,2016-04-16 17:30:00,Hakan Calhanoglu,Cross
+82897,71,BlockedShot,0.8490000152587891,0.544000015258789,0.12582999467849731,Julian Brandt,h,261,OpenPlay,2015,RightFoot,1285,Bayer Leverkusen,Eintracht Frankfurt,3,0,2016-04-16 17:30:00,,None
+82900,75,Goal,0.8959999847412109,0.505,0.590686023235321,Julian Brandt,h,261,OpenPlay,2015,RightFoot,1285,Bayer Leverkusen,Eintracht Frankfurt,3,0,2016-04-16 17:30:00,Karim Bellarabi,Pass
+83050,9,MissedShots,0.7909999847412109,0.33,0.025127999484539032,Julian Brandt,a,261,OpenPlay,2015,RightFoot,1297,Schalke 04,Bayer Leverkusen,2,3,2016-04-23 20:30:00,Ömer Toprak,Pass
+83054,14,BlockedShot,0.8690000152587891,0.7119999694824218,0.04052560031414032,Julian Brandt,a,261,OpenPlay,2015,LeftFoot,1297,Schalke 04,Bayer Leverkusen,2,3,2016-04-23 20:30:00,Kevin Kampl,Pass
+83062,53,Goal,0.915,0.6840000152587891,0.06550759822130203,Julian Brandt,a,261,OpenPlay,2015,RightFoot,1297,Schalke 04,Bayer Leverkusen,2,3,2016-04-23 20:30:00,Karim Bellarabi,Pass
+83073,73,SavedShot,0.9290000152587891,0.64,0.13110800087451935,Julian Brandt,a,261,OpenPlay,2015,RightFoot,1297,Schalke 04,Bayer Leverkusen,2,3,2016-04-23 20:30:00,Chicharito,Pass
+83076,76,BlockedShot,0.8969999694824219,0.38599998474121094,0.09205439686775208,Julian Brandt,a,261,OpenPlay,2015,RightFoot,1297,Schalke 04,Bayer Leverkusen,2,3,2016-04-23 20:30:00,,None
+83330,1,Goal,0.9119999694824219,0.5920000076293945,0.4126780033111572,Julian Brandt,h,261,OpenPlay,2015,LeftFoot,1307,Bayer Leverkusen,Hertha Berlin,2,1,2016-04-30 20:30:00,,None
+83886,81,SavedShot,0.92,0.40299999237060546,0.4325929880142212,Julian Brandt,h,261,OpenPlay,2015,RightFoot,1323,Bayer Leverkusen,Ingolstadt,3,2,2016-05-14 17:30:00,Hakan Calhanoglu,Cross
+127717,40,MissedShots,0.86,0.2929999923706055,0.04092729836702347,Julian Brandt,h,261,OpenPlay,2016,RightFoot,1341,Bayer Leverkusen,Hamburger SV,3,1,2016-09-10 17:30:00,Benjamin Henrichs,Pass
+127723,69,BlockedShot,0.8019999694824219,0.580999984741211,0.044116098433732986,Julian Brandt,h,261,OpenPlay,2016,RightFoot,1341,Bayer Leverkusen,Hamburger SV,3,1,2016-09-10 17:30:00,Kevin Kampl,Pass
+128431,76,MissedShots,0.9519999694824218,0.2989999961853027,0.049545399844646454,Julian Brandt,h,261,OpenPlay,2016,RightFoot,1361,Bayer Leverkusen,Augsburg,0,0,2016-09-21 22:00:00,Kevin Volland,Pass
+128432,88,SavedShot,0.765,0.38799999237060545,0.025256499648094177,Julian Brandt,h,261,OpenPlay,2016,LeftFoot,1361,Bayer Leverkusen,Augsburg,0,0,2016-09-21 22:00:00,Benjamin Henrichs,Pass
+128669,67,MissedShots,0.850999984741211,0.6880000305175781,0.044332198798656464,Julian Brandt,a,261,OpenPlay,2016,LeftFoot,1365,Mainz 05,Bayer Leverkusen,2,3,2016-09-24 17:30:00,Chicharito,Pass
+129209,11,MissedShots,0.7859999847412109,0.4,0.03156530112028122,Julian Brandt,a,261,OpenPlay,2016,RightFoot,1387,Werder Bremen,Bayer Leverkusen,2,1,2016-10-15 20:30:00,Charles Aránguiz,Pass
+129225,64,BlockedShot,0.9269999694824219,0.6580000305175782,0.06816869974136353,Julian Brandt,a,261,OpenPlay,2016,LeftFoot,1387,Werder Bremen,Bayer Leverkusen,2,1,2016-10-15 20:30:00,Chicharito,Pass
+129308,23,MissedShots,0.93,0.6469999694824219,0.3421880006790161,Julian Brandt,h,261,OpenPlay,2016,RightFoot,1395,Bayer Leverkusen,Hoffenheim,0,3,2016-10-22 17:30:00,Charles Aránguiz,Throughball
+129309,25,BlockedShot,0.9159999847412109,0.3240000152587891,0.046776801347732544,Julian Brandt,h,261,FromCorner,2016,LeftFoot,1395,Bayer Leverkusen,Hoffenheim,0,3,2016-10-22 17:30:00,Admir Mehmedi,Pass
+129320,74,SavedShot,0.8680000305175781,0.34700000762939454,0.04135869815945625,Julian Brandt,h,261,OpenPlay,2016,LeftFoot,1395,Bayer Leverkusen,Hoffenheim,0,3,2016-10-22 17:30:00,Kevin Kampl,Chipped
+129895,61,MissedShots,0.919000015258789,0.695,0.0948135033249855,Julian Brandt,a,261,OpenPlay,2016,RightFoot,3301,Wolfsburg,Bayer Leverkusen,1,2,2016-10-29 17:30:00,Lars Bender,Throughball
+129554,13,MissedShots,0.8180000305175781,0.48900001525878906,0.04244619980454445,Julian Brandt,h,261,FromCorner,2016,RightFoot,2810,Bayer Leverkusen,Darmstadt,3,2,2016-11-05 18:30:00,,None
+129562,51,BlockedShot,0.7519999694824219,0.47200000762939454,0.015154199674725533,Julian Brandt,h,261,SetPiece,2016,RightFoot,2810,Bayer Leverkusen,Darmstadt,3,2,2016-11-05 18:30:00,,None
+129563,51,MissedShots,0.7780000305175782,0.475,0.028412800282239914,Julian Brandt,h,261,OpenPlay,2016,LeftFoot,2810,Bayer Leverkusen,Darmstadt,3,2,2016-11-05 18:30:00,Chicharito,Pass
+129564,55,Goal,0.935,0.4329999923706055,0.2790350019931793,Julian Brandt,h,261,OpenPlay,2016,Head,2810,Bayer Leverkusen,Darmstadt,3,2,2016-11-05 18:30:00,Julian Baumgartlinger,Chipped
+129565,64,ShotOnPost,0.88,0.6809999847412109,0.0700140967965126,Julian Brandt,h,261,OpenPlay,2016,LeftFoot,2810,Bayer Leverkusen,Darmstadt,3,2,2016-11-05 18:30:00,Hakan Calhanoglu,Pass
+129809,27,MissedShots,0.7559999847412109,0.5779999923706055,0.017759500071406364,Julian Brandt,h,261,FromCorner,2016,RightFoot,2815,Bayer Leverkusen,RasenBallsport Leipzig,2,3,2016-11-18 23:30:00,,None
+129813,46,Goal,0.9269999694824219,0.6819999694824219,0.10968799889087677,Julian Brandt,h,261,OpenPlay,2016,LeftFoot,2815,Bayer Leverkusen,RasenBallsport Leipzig,2,3,2016-11-18 23:30:00,Hakan Calhanoglu,Chipped
+131042,74,MissedShots,0.8119999694824219,0.6780000305175782,0.02459079958498478,Julian Brandt,a,261,SetPiece,2016,LeftFoot,3209,Schalke 04,Bayer Leverkusen,0,1,2016-12-11 20:30:00,Aleksandar Dragovic,Pass
+131405,50,SavedShot,0.94,0.6659999847412109,0.06754449754953384,Julian Brandt,h,261,OpenPlay,2016,LeftFoot,3218,Bayer Leverkusen,Ingolstadt,1,2,2016-12-18 20:30:00,Wendell,Pass
+130251,76,SavedShot,0.8109999847412109,0.33,0.03073189966380596,Julian Brandt,a,261,OpenPlay,2016,LeftFoot,3226,FC Cologne,Bayer Leverkusen,1,1,2016-12-21 23:00:00,Benjamin Henrichs,Pass
+131057,37,BlockedShot,0.9080000305175782,0.6819999694824219,0.08303230255842209,Julian Brandt,h,261,OpenPlay,2016,LeftFoot,3737,Bayer Leverkusen,Borussia M.Gladbach,2,3,2017-01-28 20:30:00,Hakan Calhanoglu,Pass
+132428,47,MissedShots,0.8819999694824219,0.5709999847412109,0.10400299727916718,Julian Brandt,h,261,OpenPlay,2016,RightFoot,3750,Bayer Leverkusen,Eintracht Frankfurt,3,0,2017-02-11 14:30:00,Benjamin Henrichs,End
+132432,49,BlockedShot,0.895,0.41900001525878905,0.09488960355520248,Julian Brandt,h,261,FromCorner,2016,LeftFoot,3750,Bayer Leverkusen,Eintracht Frankfurt,3,0,2017-02-11 14:30:00,,Rebound
+132444,81,SavedShot,0.9080000305175782,0.5879999923706055,0.3787589967250824,Julian Brandt,h,261,OpenPlay,2016,RightFoot,3750,Bayer Leverkusen,Eintracht Frankfurt,3,0,2017-02-11 14:30:00,Kevin Kampl,Pass
+131960,70,MissedShots,0.7319999694824219,0.5570000076293945,0.054730501025915146,Julian Brandt,h,261,DirectFreekick,2016,RightFoot,3771,Bayer Leverkusen,Mainz 05,0,2,2017-02-25 14:30:00,,Standard
+133595,5,SavedShot,0.7680000305175781,0.40599998474121096,0.019818399101495743,Julian Brandt,h,261,OpenPlay,2016,RightFoot,3785,Bayer Leverkusen,Werder Bremen,1,1,2017-03-10 19:30:00,,TakeOn
+132722,8,SavedShot,0.8430000305175781,0.4209999847412109,0.07506439834833145,Julian Brandt,a,261,OpenPlay,2016,LeftFoot,3799,Hoffenheim,Bayer Leverkusen,1,0,2017-03-18 14:30:00,Admir Mehmedi,Pass
+134254,5,BlockedShot,0.7759999847412109,0.5029999923706054,0.03288169950246811,Julian Brandt,a,261,OpenPlay,2016,RightFoot,3816,Darmstadt,Bayer Leverkusen,0,2,2017-04-05 19:00:00,Kevin Volland,Pass
+134255,14,Goal,0.9130000305175782,0.46599998474121096,0.470770001411438,Julian Brandt,a,261,OpenPlay,2016,RightFoot,3816,Darmstadt,Bayer Leverkusen,0,2,2017-04-05 19:00:00,Kevin Volland,Pass
+134262,43,BlockedShot,0.87,0.6459999847412109,0.08569569885730743,Julian Brandt,a,261,OpenPlay,2016,LeftFoot,3816,Darmstadt,Bayer Leverkusen,0,2,2017-04-05 19:00:00,Kevin Volland,Pass
+134274,75,SavedShot,0.855,0.534000015258789,0.3772299885749817,Julian Brandt,a,261,OpenPlay,2016,RightFoot,3816,Darmstadt,Bayer Leverkusen,0,2,2017-04-05 19:00:00,Kevin Volland,Pass
+134932,81,SavedShot,0.8430000305175781,0.51,0.08853170275688171,Julian Brandt,a,261,OpenPlay,2016,RightFoot,3823,RasenBallsport Leipzig,Bayer Leverkusen,1,0,2017-04-08 14:30:00,Leon Bailey,Pass
+135011,29,MissedShots,0.899000015258789,0.5479999923706055,0.12705500423908234,Julian Brandt,h,261,OpenPlay,2016,LeftFoot,3831,Bayer Leverkusen,Bayern Munich,0,0,2017-04-15 17:30:00,Kevin Volland,Pass
+134075,26,MissedShots,0.764000015258789,0.4209999847412109,0.026660200208425522,Julian Brandt,a,261,OpenPlay,2016,RightFoot,3847,Freiburg,Bayer Leverkusen,2,1,2017-04-23 14:30:00,Kevin Kampl,Pass
+134229,0,SavedShot,0.899000015258789,0.35200000762939454,0.08423089981079102,Julian Brandt,h,261,OpenPlay,2016,RightFoot,3856,Bayer Leverkusen,Schalke 04,1,4,2017-04-28 19:30:00,Karim Bellarabi,Pass
+134233,10,MissedShots,0.81,0.6630000305175782,0.03203969821333885,Julian Brandt,h,261,OpenPlay,2016,RightFoot,3856,Bayer Leverkusen,Schalke 04,1,4,2017-04-28 19:30:00,Charles Aránguiz,Pass
+134246,59,MissedShots,0.870999984741211,0.5509999847412109,0.07904619723558426,Julian Brandt,h,261,OpenPlay,2016,LeftFoot,3856,Bayer Leverkusen,Schalke 04,1,4,2017-04-28 19:30:00,Karim Bellarabi,BallTouch
+134250,71,BlockedShot,0.865,0.41900001525878905,0.09565020352602005,Julian Brandt,h,261,OpenPlay,2016,RightFoot,3856,Bayer Leverkusen,Schalke 04,1,4,2017-04-28 19:30:00,Wendell,Pass
+134252,78,MissedShots,0.8009999847412109,0.53,0.050293900072574615,Julian Brandt,h,261,OpenPlay,2016,RightFoot,3856,Bayer Leverkusen,Schalke 04,1,4,2017-04-28 19:30:00,Kevin Volland,Pass
+132902,42,BlockedShot,0.764000015258789,0.6329999923706054,0.010982099920511246,Julian Brandt,h,261,OpenPlay,2016,RightFoot,3866,Bayer Leverkusen,FC Cologne,2,2,2017-05-13 14:30:00,Wendell,Aerial
+132904,46,BlockedShot,0.8580000305175781,0.509000015258789,0.06090020015835762,Julian Brandt,h,261,OpenPlay,2016,LeftFoot,3866,Bayer Leverkusen,FC Cologne,2,2,2017-05-13 14:30:00,Charles Aránguiz,TakeOn
+132917,86,MissedShots,0.9159999847412109,0.3340000152587891,0.05192609876394272,Julian Brandt,h,261,OpenPlay,2016,RightFoot,3866,Bayer Leverkusen,FC Cologne,2,2,2017-05-13 14:30:00,,TakeOn
+127796,13,SavedShot,0.9119999694824219,0.34,0.07689610123634338,Julian Brandt,a,261,OpenPlay,2016,RightFoot,3877,Hertha Berlin,Bayer Leverkusen,2,6,2017-05-20 14:30:00,Charles Aránguiz,Chipped
+127799,21,BlockedShot,0.865,0.6020000076293945,0.08834079653024673,Julian Brandt,a,261,OpenPlay,2016,RightFoot,3877,Hertha Berlin,Bayer Leverkusen,2,6,2017-05-20 14:30:00,Wendell,Pass
+127802,27,SavedShot,0.9540000152587891,0.6580000305175782,0.12645600736141205,Julian Brandt,a,261,OpenPlay,2016,LeftFoot,3877,Hertha Berlin,Bayer Leverkusen,2,6,2017-05-20 14:30:00,Charles Aránguiz,Chipped
+165778,55,MissedShots,0.8109999847412109,0.355,0.08739469945430756,Julian Brandt,a,261,OpenPlay,2017,RightFoot,8259,Bayern Munich,Bayer Leverkusen,3,1,2017-08-18 19:30:00,Dominik Kohr,Throughball
+165779,56,SavedShot,0.9219999694824219,0.42700000762939455,0.3612929880619049,Julian Brandt,a,261,OpenPlay,2017,RightFoot,8259,Bayern Munich,Bayer Leverkusen,3,1,2017-08-18 19:30:00,Karim Bellarabi,Pass
+165789,87,MissedShots,0.91,0.62,0.3418479859828949,Julian Brandt,a,261,FromCorner,2017,RightFoot,8259,Bayern Munich,Bayer Leverkusen,3,1,2017-08-18 19:30:00,,Rebound
+166130,52,MissedShots,0.8430000305175781,0.40099998474121096,0.08095069974660873,Julian Brandt,h,261,OpenPlay,2017,LeftFoot,8271,Bayer Leverkusen,Hoffenheim,2,2,2017-08-26 14:30:00,Karim Bellarabi,Pass
+166669,23,BlockedShot,0.765,0.5479999923706055,0.014905700460076332,Julian Brandt,h,261,FromCorner,2017,RightFoot,8293,Bayer Leverkusen,Freiburg,4,0,2017-09-17 14:30:00,,Aerial
+166689,85,Goal,0.8719999694824219,0.5709999847412109,0.3991219997406006,Julian Brandt,h,261,SetPiece,2017,LeftFoot,8293,Bayer Leverkusen,Freiburg,4,0,2017-09-17 14:30:00,Charles Aránguiz,Throughball
+166853,1,SavedShot,0.9030000305175782,0.7030000305175781,0.05618090182542801,Julian Brandt,a,261,OpenPlay,2017,LeftFoot,8300,Hertha Berlin,Bayer Leverkusen,2,1,2017-09-20 19:30:00,Kevin Volland,Pass
+166867,83,Goal,0.7469999694824219,0.5729999923706055,0.017903700470924377,Julian Brandt,a,261,OpenPlay,2017,RightFoot,8300,Hertha Berlin,Bayer Leverkusen,2,1,2017-09-20 19:30:00,Panagiotis Retsos,Pass
+167167,44,SavedShot,0.8730000305175781,0.635,0.055248599499464035,Julian Brandt,a,261,OpenPlay,2017,RightFoot,8314,Schalke 04,Bayer Leverkusen,1,1,2017-09-29 19:30:00,,None
+167801,51,SavedShot,0.7719999694824219,0.3579999923706055,0.025767900049686432,Julian Brandt,h,261,OpenPlay,2017,LeftFoot,8327,Bayer Leverkusen,Wolfsburg,2,2,2017-10-15 14:30:00,Dominik Kohr,Pass
+168170,60,Goal,0.915,0.705,0.08589369803667068,Julian Brandt,a,261,OpenPlay,2017,LeftFoot,8334,Borussia M.Gladbach,Bayer Leverkusen,1,5,2017-10-21 14:30:00,Kai Havertz,Pass
+168761,7,BlockedShot,0.8619999694824219,0.4909999847412109,0.06949889659881592,Julian Brandt,h,261,OpenPlay,2017,RightFoot,8345,Bayer Leverkusen,FC Cologne,2,1,2017-10-28 14:30:00,Leon Bailey,Cross
+168776,66,SavedShot,0.8719999694824219,0.6609999847412109,0.057889100164175034,Julian Brandt,h,261,OpenPlay,2017,LeftFoot,8345,Bayer Leverkusen,FC Cologne,2,1,2017-10-28 14:30:00,Leon Bailey,Pass
+168019,37,MissedShots,0.8719999694824219,0.41200000762939454,0.3279399871826172,Julian Brandt,h,261,OpenPlay,2017,RightFoot,8363,Bayer Leverkusen,RasenBallsport Leipzig,2,2,2017-11-18 14:30:00,Wendell,Pass
+168508,30,MissedShots,0.9069999694824219,0.4179999923706055,0.3146679997444153,Julian Brandt,a,261,OpenPlay,2017,RightFoot,8372,Eintracht Frankfurt,Bayer Leverkusen,0,1,2017-11-25 14:30:00,Kevin Volland,Chipped
+169003,13,SavedShot,0.7530000305175781,0.44,0.01476529985666275,Julian Brandt,h,261,SetPiece,2017,RightFoot,8382,Bayer Leverkusen,Borussia Dortmund,1,1,2017-12-02 14:30:00,,None
+179791,16,BlockedShot,0.895,0.6759999847412109,0.11479499936103821,Julian Brandt,a,261,OpenPlay,2017,LeftFoot,8393,VfB Stuttgart,Bayer Leverkusen,0,2,2017-12-08 19:30:00,Kevin Volland,Throughball
+183821,10,Goal,0.8719999694824219,0.46900001525878904,0.07902129739522934,Julian Brandt,a,261,OpenPlay,2017,RightFoot,8411,Hannover 96,Bayer Leverkusen,4,4,2017-12-17 14:30:00,Lars Bender,Cross
+187137,53,BlockedShot,0.7469999694824219,0.6519999694824219,0.05251830071210861,Julian Brandt,h,261,DirectFreekick,2017,RightFoot,8417,Bayer Leverkusen,Bayern Munich,1,3,2018-01-12 19:30:00,,Standard
+188649,18,BlockedShot,0.919000015258789,0.4209999847412109,0.1179480031132698,Julian Brandt,a,261,OpenPlay,2017,LeftFoot,8422,Hoffenheim,Bayer Leverkusen,1,4,2018-01-20 14:30:00,Leon Bailey,Pass
+188662,62,MissedShots,0.85,0.519000015258789,0.5132250189781189,Julian Brandt,a,261,OpenPlay,2017,RightFoot,8422,Hoffenheim,Bayer Leverkusen,1,4,2018-01-20 14:30:00,Kevin Volland,Throughball
+190393,52,MissedShots,0.7519999694824219,0.6930000305175781,0.022086000069975853,Julian Brandt,h,261,OpenPlay,2017,RightFoot,8438,Bayer Leverkusen,Mainz 05,2,0,2018-01-28 14:30:00,Charles Aránguiz,Pass
+196267,66,MissedShots,0.8180000305175781,0.6179999923706054,0.04411419853568077,Julian Brandt,a,261,OpenPlay,2017,RightFoot,8464,Hamburger SV,Bayer Leverkusen,1,2,2018-02-17 14:30:00,Kai Havertz,None
+197966,59,SavedShot,0.9340000152587891,0.7169999694824218,0.03094559907913208,Julian Brandt,h,261,OpenPlay,2017,RightFoot,8474,Bayer Leverkusen,Schalke 04,0,2,2018-02-25 14:30:00,Kai Havertz,Cross
+198744,77,Goal,0.919000015258789,0.43900001525878907,0.4943470060825348,Julian Brandt,a,261,OpenPlay,2017,RightFoot,8483,Wolfsburg,Bayer Leverkusen,1,2,2018-03-03 14:30:00,Lucas Alario,Pass
+200197,92,Goal,0.899000015258789,0.555,0.32188400626182556,Julian Brandt,h,261,OpenPlay,2017,RightFoot,8492,Bayer Leverkusen,Borussia M.Gladbach,2,0,2018-03-10 17:30:00,Lucas Alario,Chipped
+202089,46,SavedShot,0.9130000305175782,0.28899999618530275,0.040795598179101944,Julian Brandt,a,261,OpenPlay,2017,RightFoot,8498,FC Cologne,Bayer Leverkusen,2,0,2018-03-18 14:30:00,Kai Havertz,Pass
+202097,78,MissedShots,0.6980000305175781,0.7,0.012539600022137165,Julian Brandt,a,261,OpenPlay,2017,RightFoot,8498,FC Cologne,Bayer Leverkusen,2,0,2018-03-18 14:30:00,Sven Bender,Pass
+204381,29,MissedShots,0.7430000305175781,0.7019999694824218,0.011515500023961067,Julian Brandt,h,261,OpenPlay,2017,RightFoot,8507,Bayer Leverkusen,Augsburg,0,0,2018-03-31 14:30:00,,None
+204383,37,SavedShot,0.7719999694824219,0.36400001525878906,0.025316400453448296,Julian Brandt,h,261,OpenPlay,2017,LeftFoot,8507,Bayer Leverkusen,Augsburg,0,0,2018-03-31 14:30:00,Julian Baumgartlinger,Pass
+204395,63,BlockedShot,0.8619999694824219,0.6409999847412109,0.06884709745645523,Julian Brandt,h,261,OpenPlay,2017,LeftFoot,8507,Bayer Leverkusen,Augsburg,0,0,2018-03-31 14:30:00,Leon Bailey,Pass
+207472,30,SavedShot,0.8590000152587891,0.544000015258789,0.3745259940624237,Julian Brandt,a,261,OpenPlay,2017,RightFoot,8512,RasenBallsport Leipzig,Bayer Leverkusen,1,4,2018-04-09 18:30:00,Kai Havertz,Throughball
+207480,50,Goal,0.879000015258789,0.46799999237060547,0.11029499769210815,Julian Brandt,a,261,SetPiece,2017,LeftFoot,8512,RasenBallsport Leipzig,Bayer Leverkusen,1,4,2018-04-09 18:30:00,,TakeOn
+208386,19,Goal,0.924000015258789,0.41200000762939454,0.2988789975643158,Julian Brandt,h,261,OpenPlay,2017,Head,8525,Bayer Leverkusen,Eintracht Frankfurt,4,1,2018-04-14 13:30:00,Kai Havertz,Cross
+208388,33,MissedShots,0.7430000305175781,0.625999984741211,0.016872400417923927,Julian Brandt,h,261,OpenPlay,2017,RightFoot,8525,Bayer Leverkusen,Eintracht Frankfurt,4,1,2018-04-14 13:30:00,Leon Bailey,BallRecovery
+210573,25,MissedShots,0.7140000152587891,0.5129999923706055,0.016620099544525146,Julian Brandt,a,261,OpenPlay,2017,RightFoot,8529,Borussia Dortmund,Bayer Leverkusen,4,0,2018-04-21 16:30:00,Lucas Alario,Pass
+211953,89,SavedShot,0.9630000305175781,0.6719999694824219,0.05709569901227951,Julian Brandt,h,261,OpenPlay,2017,LeftFoot,8544,Bayer Leverkusen,VfB Stuttgart,0,1,2018-04-28 16:30:00,Stefan Kießling,HeadPass
+213282,30,SavedShot,0.909000015258789,0.5509999847412109,0.09404069930315018,Julian Brandt,a,261,OpenPlay,2017,LeftFoot,8553,Werder Bremen,Bayer Leverkusen,0,0,2018-05-05 14:30:00,Wendell,Cross
+214615,16,MissedShots,0.9080000305175782,0.6020000076293945,0.08876969665288925,Julian Brandt,h,261,OpenPlay,2017,LeftFoot,8561,Bayer Leverkusen,Hannover 96,3,2,2018-05-12 14:30:00,Lars Bender,Cross
+214619,31,MissedShots,0.9280000305175782,0.31799999237060544,0.0833773985505104,Julian Brandt,h,261,OpenPlay,2017,LeftFoot,8561,Bayer Leverkusen,Hannover 96,3,2,2018-05-12 14:30:00,Kai Havertz,Pass
+214621,45,SavedShot,0.9619999694824218,0.35200000762939454,0.10569699853658676,Julian Brandt,h,261,OpenPlay,2017,RightFoot,8561,Bayer Leverkusen,Hannover 96,3,2,2018-05-12 14:30:00,Dominik Kohr,Chipped
+214627,54,Goal,0.8419999694824218,0.43900001525878907,0.40369200706481934,Julian Brandt,h,261,OpenPlay,2017,RightFoot,8561,Bayer Leverkusen,Hannover 96,3,2,2018-05-12 14:30:00,Lars Bender,Throughball
+214630,58,BlockedShot,0.875999984741211,0.5109999847412109,0.12487299740314484,Julian Brandt,h,261,OpenPlay,2017,LeftFoot,8561,Bayer Leverkusen,Hannover 96,3,2,2018-05-12 14:30:00,Leon Bailey,Pass
+221623,4,MissedShots,0.78,0.40299999237060546,0.0299018993973732,Julian Brandt,h,261,OpenPlay,2018,LeftFoot,10351,Bayer Leverkusen,Wolfsburg,1,3,2018-09-01 13:30:00,Lucas Alario,Pass
+225832,1,BlockedShot,0.8719999694824219,0.5309999847412109,0.02814910002052784,Julian Brandt,h,261,OpenPlay,2018,Head,10371,Bayer Leverkusen,Mainz 05,1,0,2018-09-23 13:30:00,Kai Havertz,Chipped
+225836,13,MissedShots,0.789000015258789,0.6730000305175782,0.01779410056769848,Julian Brandt,h,261,OpenPlay,2018,RightFoot,10371,Bayer Leverkusen,Mainz 05,1,0,2018-09-23 13:30:00,,Rebound
+226432,69,MissedShots,0.850999984741211,0.35400001525878905,0.07983239740133286,Julian Brandt,a,261,OpenPlay,2018,LeftFoot,10377,Fortuna Duesseldorf,Bayer Leverkusen,1,2,2018-09-26 16:30:00,Mitchell Weiser,Pass
+228241,49,SavedShot,0.8369999694824218,0.31799999237060544,0.05667160078883171,Julian Brandt,h,261,OpenPlay,2018,RightFoot,10388,Bayer Leverkusen,Borussia Dortmund,2,4,2018-09-29 16:30:00,Lars Bender,Pass
+255352,36,BlockedShot,0.7980000305175782,0.6780000305175782,0.07804939895868301,Julian Brandt,a,261,DirectFreekick,2018,RightFoot,10397,Freiburg,Bayer Leverkusen,0,0,2018-10-07 11:30:00,,Standard
+255357,56,BlockedShot,0.749000015258789,0.555,0.01156460028141737,Julian Brandt,a,261,OpenPlay,2018,LeftFoot,10397,Freiburg,Bayer Leverkusen,0,0,2018-10-07 11:30:00,,Aerial
+255457,36,MissedShots,0.9159999847412109,0.4209999847412109,0.08156970143318176,Julian Brandt,h,261,OpenPlay,2018,Head,10401,Bayer Leverkusen,Hannover 96,2,2,2018-10-20 13:30:00,Kevin Volland,Cross
+255461,51,MissedShots,0.9290000152587891,0.5129999923706055,0.43097400665283203,Julian Brandt,h,261,OpenPlay,2018,Head,10401,Bayer Leverkusen,Hannover 96,2,2,2018-10-20 13:30:00,Mitchell Weiser,Cross
+255857,37,Goal,0.8530000305175781,0.4329999923706055,0.4870609939098358,Julian Brandt,a,261,OpenPlay,2018,RightFoot,10412,Werder Bremen,Bayer Leverkusen,2,6,2018-10-28 16:00:00,,None
+255870,73,SavedShot,0.875999984741211,0.38299999237060545,0.10169100016355515,Julian Brandt,a,261,OpenPlay,2018,RightFoot,10412,Werder Bremen,Bayer Leverkusen,2,6,2018-10-28 16:00:00,Dominik Kohr,Pass
+255876,84,SavedShot,0.755,0.4929999923706055,0.023414699360728264,Julian Brandt,a,261,OpenPlay,2018,RightFoot,10412,Werder Bremen,Bayer Leverkusen,2,6,2018-10-28 16:00:00,,None
+256038,36,MissedShots,0.9009999847412109,0.6309999847412109,0.11674399673938751,Julian Brandt,h,261,OpenPlay,2018,RightFoot,10424,Bayer Leverkusen,Hoffenheim,1,4,2018-11-03 14:30:00,,Rebound
+256040,49,MissedShots,0.9130000305175782,0.5159999847412109,0.41561099886894226,Julian Brandt,h,261,OpenPlay,2018,LeftFoot,10424,Bayer Leverkusen,Hoffenheim,1,4,2018-11-03 14:30:00,Wendell,Pass
+256378,79,SavedShot,0.7559999847412109,0.5670000076293945,0.012255599722266197,Julian Brandt,a,261,OpenPlay,2018,RightFoot,10429,RasenBallsport Leipzig,Bayer Leverkusen,3,0,2018-11-11 14:30:00,Leon Bailey,Chipped
+256406,24,BlockedShot,0.8769999694824219,0.35400001525878905,0.03393999859690666,Julian Brandt,h,261,OpenPlay,2018,RightFoot,10438,Bayer Leverkusen,VfB Stuttgart,2,0,2018-11-23 19:30:00,Karim Bellarabi,Cross
+256409,35,MissedShots,0.8519999694824218,0.3820000076293945,0.07098379731178284,Julian Brandt,h,261,OpenPlay,2018,LeftFoot,10438,Bayer Leverkusen,VfB Stuttgart,2,0,2018-11-23 19:30:00,Kai Havertz,Pass
+256426,86,MissedShots,0.86,0.3039999961853027,0.08198320120573044,Julian Brandt,h,261,OpenPlay,2018,RightFoot,10438,Bayer Leverkusen,VfB Stuttgart,2,0,2018-11-23 19:30:00,Kai Havertz,Chipped
+256951,49,SavedShot,0.8440000152587891,0.519000015258789,0.12512700259685516,Julian Brandt,a,261,OpenPlay,2018,RightFoot,10453,Nuernberg,Bayer Leverkusen,1,1,2018-12-03 19:30:00,Karim Bellarabi,Pass
+256955,62,MissedShots,0.9380000305175781,0.7180000305175781,0.045970700681209564,Julian Brandt,a,261,OpenPlay,2018,LeftFoot,10453,Nuernberg,Bayer Leverkusen,1,1,2018-12-03 19:30:00,,None
+257369,14,SavedShot,0.8390000152587891,0.6309999847412109,0.07391110062599182,Julian Brandt,a,261,OpenPlay,2018,RightFoot,10467,Eintracht Frankfurt,Bayer Leverkusen,2,1,2018-12-16 17:00:00,Karim Bellarabi,Pass
+257370,17,SavedShot,0.9019999694824219,0.6469999694824219,0.10725399851799011,Julian Brandt,a,261,OpenPlay,2018,LeftFoot,10467,Eintracht Frankfurt,Bayer Leverkusen,2,1,2018-12-16 17:00:00,Karim Bellarabi,Pass
+257888,22,SavedShot,0.7269999694824218,0.7730000305175782,0.03105200082063675,Julian Brandt,h,261,DirectFreekick,2018,RightFoot,10484,Bayer Leverkusen,Hertha Berlin,3,1,2018-12-22 14:30:00,,Standard
+257892,34,SavedShot,0.8219999694824218,0.33599998474121096,0.04582050070166588,Julian Brandt,h,261,OpenPlay,2018,LeftFoot,10484,Bayer Leverkusen,Hertha Berlin,3,1,2018-12-22 14:30:00,Kai Havertz,Pass
+257896,43,MissedShots,0.815,0.7090000152587891,0.01943260058760643,Julian Brandt,h,261,FromCorner,2018,RightFoot,10484,Bayer Leverkusen,Hertha Berlin,3,1,2018-12-22 14:30:00,,None
+257903,62,MissedShots,0.8580000305175781,0.674000015258789,0.07141370326280594,Julian Brandt,h,261,OpenPlay,2018,LeftFoot,10484,Bayer Leverkusen,Hertha Berlin,3,1,2018-12-22 14:30:00,Kevin Volland,Pass
+278405,21,MissedShots,0.779000015258789,0.315,0.018147999420762062,Julian Brandt,h,261,OpenPlay,2018,LeftFoot,10498,Bayer Leverkusen,Borussia M.Gladbach,0,1,2019-01-19 14:30:00,Leon Bailey,Pass
+278415,56,MissedShots,0.794000015258789,0.2610000038146973,0.020464299246668816,Julian Brandt,h,261,OpenPlay,2018,LeftFoot,10498,Bayer Leverkusen,Borussia M.Gladbach,0,1,2019-01-19 14:30:00,Leon Bailey,Pass
+278661,49,SavedShot,0.9669999694824218,0.345,0.3088270127773285,Julian Brandt,a,261,OpenPlay,2018,RightFoot,10506,Wolfsburg,Bayer Leverkusen,0,3,2019-01-26 14:30:00,Leon Bailey,Pass
+278677,80,SavedShot,0.909000015258789,0.649000015258789,0.11958499997854233,Julian Brandt,a,261,OpenPlay,2018,LeftFoot,10506,Wolfsburg,Bayer Leverkusen,0,3,2019-01-26 14:30:00,Kai Havertz,Pass
+278678,87,Goal,0.9469999694824218,0.5359999847412109,0.556647002696991,Julian Brandt,a,261,OpenPlay,2018,LeftFoot,10506,Wolfsburg,Bayer Leverkusen,0,3,2019-01-26 14:30:00,Karim Bellarabi,Cross
+278779,11,MissedShots,0.7780000305175782,0.5990000152587891,0.026114700362086296,Julian Brandt,h,261,OpenPlay,2018,RightFoot,10508,Bayer Leverkusen,Bayern Munich,3,1,2019-02-02 14:30:00,,None
+278789,42,BlockedShot,0.8090000152587891,0.5109999847412109,0.045716699212789536,Julian Brandt,h,261,OpenPlay,2018,RightFoot,10508,Bayer Leverkusen,Bayern Munich,3,1,2019-02-02 14:30:00,,BallRecovery
+278794,59,SavedShot,0.7859999847412109,0.5929999923706055,0.014038500376045704,Julian Brandt,h,261,OpenPlay,2018,RightFoot,10508,Bayer Leverkusen,Bayern Munich,3,1,2019-02-02 14:30:00,,Aerial
+278960,15,MissedShots,0.8230000305175781,0.6530000305175782,0.04052339866757393,Julian Brandt,a,261,OpenPlay,2018,RightFoot,10524,Mainz 05,Bayer Leverkusen,1,5,2019-02-08 19:30:00,Leon Bailey,Pass
+278966,29,Goal,0.9369999694824219,0.62,0.3713589906692505,Julian Brandt,a,261,OpenPlay,2018,LeftFoot,10524,Mainz 05,Bayer Leverkusen,1,5,2019-02-08 19:30:00,Kevin Volland,Throughball
+278978,63,Goal,0.865999984741211,0.509000015258789,0.36953499913215637,Julian Brandt,a,261,OpenPlay,2018,RightFoot,10524,Mainz 05,Bayer Leverkusen,1,5,2019-02-08 19:30:00,Kevin Volland,Pass
+279323,28,BlockedShot,0.7559999847412109,0.585,0.015498200431466103,Julian Brandt,h,261,OpenPlay,2018,LeftFoot,10527,Bayer Leverkusen,Fortuna Duesseldorf,2,0,2019-02-17 17:00:00,,Aerial
+279670,40,BlockedShot,0.815,0.45799999237060546,0.07523810118436813,Julian Brandt,h,261,OpenPlay,2018,RightFoot,10545,Bayer Leverkusen,Freiburg,2,0,2019-03-02 14:30:00,Kevin Volland,Pass
+279678,61,BlockedShot,0.7709999847412109,0.580999984741211,0.034113798290491104,Julian Brandt,h,261,OpenPlay,2018,LeftFoot,10545,Bayer Leverkusen,Freiburg,2,0,2019-03-02 14:30:00,Julian Baumgartlinger,Pass
+279682,72,BlockedShot,0.9390000152587891,0.3729999923706055,0.3530929982662201,Julian Brandt,h,261,OpenPlay,2018,RightFoot,10545,Bayer Leverkusen,Freiburg,2,0,2019-03-02 14:30:00,Kai Havertz,Goal
+285282,12,SavedShot,0.9180000305175782,0.5970000076293945,0.4002079963684082,Julian Brandt,a,261,OpenPlay,2018,LeftFoot,10561,Hannover 96,Bayer Leverkusen,2,3,2019-03-10 17:00:00,Leon Bailey,Pass
+285284,20,MissedShots,0.860999984741211,0.35700000762939454,0.0782821998000145,Julian Brandt,a,261,OpenPlay,2018,RightFoot,10561,Hannover 96,Bayer Leverkusen,2,3,2019-03-10 17:00:00,Kevin Volland,BallTouch
+285292,47,BlockedShot,0.7569999694824219,0.6140000152587891,0.01968429982662201,Julian Brandt,a,261,FromCorner,2018,LeftFoot,10561,Hannover 96,Bayer Leverkusen,2,3,2019-03-10 17:00:00,,CornerAwarded
+287167,41,MissedShots,0.8959999847412109,0.3529999923706055,0.4445599913597107,Julian Brandt,a,261,OpenPlay,2018,LeftFoot,10571,Hoffenheim,Bayer Leverkusen,4,1,2019-03-29 19:30:00,,None
+287172,56,BlockedShot,0.8190000152587891,0.5690000152587891,0.057223498821258545,Julian Brandt,a,261,OpenPlay,2018,LeftFoot,10571,Hoffenheim,Bayer Leverkusen,4,1,2019-03-29 19:30:00,Kevin Volland,Pass
+287177,64,BlockedShot,0.7659999847412109,0.47,0.02105559967458248,Julian Brandt,a,261,OpenPlay,2018,RightFoot,10571,Hoffenheim,Bayer Leverkusen,4,1,2019-03-29 19:30:00,,None
+287182,81,BlockedShot,0.7519999694824219,0.33299999237060546,0.014467500150203705,Julian Brandt,a,261,OpenPlay,2018,RightFoot,10571,Hoffenheim,Bayer Leverkusen,4,1,2019-03-29 19:30:00,Kai Havertz,Pass
+291879,38,MissedShots,0.875,0.41,0.10815200209617615,Julian Brandt,h,261,OpenPlay,2018,LeftFoot,10582,Bayer Leverkusen,RasenBallsport Leipzig,2,4,2019-04-06 14:30:00,Mitchell Weiser,Pass
+293412,26,MissedShots,0.980999984741211,0.30700000762939456,0.04426079988479614,Julian Brandt,a,261,OpenPlay,2018,RightFoot,10592,VfB Stuttgart,Bayer Leverkusen,0,1,2019-04-13 14:30:00,Kai Havertz,Pass
+293422,49,MissedShots,0.8780000305175781,0.42400001525878905,0.07333160191774368,Julian Brandt,a,261,OpenPlay,2018,RightFoot,10592,VfB Stuttgart,Bayer Leverkusen,0,1,2019-04-13 14:30:00,Kai Havertz,Cross
+295152,54,MissedShots,0.735999984741211,0.629000015258789,0.018727999180555344,Julian Brandt,h,261,OpenPlay,2018,LeftFoot,10599,Bayer Leverkusen,Nuernberg,2,0,2019-04-20 14:30:00,Kai Havertz,Pass
+297121,59,SavedShot,0.895,0.8119999694824219,0.06584800034761429,Julian Brandt,a,261,DirectFreekick,2018,RightFoot,10612,Augsburg,Bayer Leverkusen,1,4,2019-04-26 19:30:00,,Standard
+297123,65,SavedShot,0.7780000305175782,0.42700000762939455,0.045952800661325455,Julian Brandt,a,261,OpenPlay,2018,LeftFoot,10612,Augsburg,Bayer Leverkusen,1,4,2019-04-26 19:30:00,Lucas Alario,Pass
+297126,87,Goal,0.955999984741211,0.45799999237060546,0.6258940100669861,Julian Brandt,a,261,OpenPlay,2018,RightFoot,10612,Augsburg,Bayer Leverkusen,1,4,2019-04-26 19:30:00,Dominik Kohr,None
+300195,12,Goal,0.9219999694824219,0.544000015258789,0.48215898871421814,Julian Brandt,h,261,OpenPlay,2018,RightFoot,10618,Bayer Leverkusen,Eintracht Frankfurt,6,1,2019-05-05 17:00:00,Charles Aránguiz,Rebound
+300207,38,MissedShots,0.825999984741211,0.41200000762939454,0.08369360119104385,Julian Brandt,h,261,OpenPlay,2018,RightFoot,10618,Bayer Leverkusen,Eintracht Frankfurt,6,1,2019-05-05 17:00:00,Lars Bender,Pass
+300208,42,SavedShot,0.7240000152587891,0.555,0.024427499622106552,Julian Brandt,h,261,OpenPlay,2018,RightFoot,10618,Bayer Leverkusen,Eintracht Frankfurt,6,1,2019-05-05 17:00:00,Charles Aránguiz,Pass
+300213,84,SavedShot,0.7619999694824219,0.555,0.028445500880479813,Julian Brandt,h,261,OpenPlay,2018,RightFoot,10618,Bayer Leverkusen,Eintracht Frankfurt,6,1,2019-05-05 17:00:00,Kevin Volland,Pass
+300752,11,ShotOnPost,0.825999984741211,0.41900001525878905,0.046625301241874695,Julian Brandt,h,261,OpenPlay,2018,RightFoot,10627,Bayer Leverkusen,Schalke 04,1,1,2019-05-11 14:30:00,,Rebound
+300756,21,MissedShots,0.9159999847412109,0.40400001525878904,0.30596598982810974,Julian Brandt,h,261,OpenPlay,2018,RightFoot,10627,Bayer Leverkusen,Schalke 04,1,1,2019-05-11 14:30:00,Kai Havertz,Chipped
+300766,59,BlockedShot,0.74,0.36700000762939455,0.02198130078613758,Julian Brandt,h,261,OpenPlay,2018,RightFoot,10627,Bayer Leverkusen,Schalke 04,1,1,2019-05-11 14:30:00,Charles Aránguiz,Pass
+300767,59,MissedShots,0.87,0.585,0.07396549731492996,Julian Brandt,h,261,OpenPlay,2018,RightFoot,10627,Bayer Leverkusen,Schalke 04,1,1,2019-05-11 14:30:00,,None
+302361,37,SavedShot,0.9580000305175781,0.6719999694824219,0.0691806972026825,Julian Brandt,a,261,OpenPlay,2018,LeftFoot,10638,Hertha Berlin,Bayer Leverkusen,1,5,2019-05-18 13:30:00,Wendell,TakeOn
+302364,53,Goal,0.8190000152587891,0.3529999923706055,0.04913970082998276,Julian Brandt,a,261,OpenPlay,2018,RightFoot,10638,Hertha Berlin,Bayer Leverkusen,1,5,2019-05-18 13:30:00,Charles Aránguiz,Pass
+310668,81,Goal,0.9290000152587891,0.47,0.4989989995956421,Julian Brandt,h,261,OpenPlay,2019,LeftFoot,12406,Borussia Dortmund,Augsburg,5,1,2019-08-17 14:30:00,Axel Witsel,Chipped
+312182,66,MissedShots,0.774000015258789,0.33599998474121096,0.022644300013780594,Julian Brandt,a,261,OpenPlay,2019,LeftFoot,12412,FC Cologne,Borussia Dortmund,1,3,2019-08-23 19:30:00,Lukasz Piszczek,Pass
+317106,23,SavedShot,0.97,0.6,0.360588014125824,Julian Brandt,h,261,OpenPlay,2019,LeftFoot,12435,Borussia Dortmund,Bayer Leverkusen,4,0,2019-09-14 13:30:00,,Rebound
+322920,77,BlockedShot,0.7480000305175781,0.41,0.01473969966173172,Julian Brandt,h,261,OpenPlay,2019,RightFoot,12454,Borussia Dortmund,Werder Bremen,2,2,2019-09-28 16:30:00,,Rebound
+324024,15,MissedShots,0.9430000305175781,0.6459999847412109,0.22928300499916077,Julian Brandt,a,261,OpenPlay,2019,LeftFoot,12460,Freiburg,Borussia Dortmund,2,2,2019-10-05 14:30:00,Achraf Hakimi,Cross
+324028,33,MissedShots,0.9209999847412109,0.5520000076293945,0.3149479925632477,Julian Brandt,a,261,OpenPlay,2019,Head,12460,Freiburg,Borussia Dortmund,2,2,2019-10-05 14:30:00,Mario Götze,Chipped
+324034,65,SavedShot,0.7430000305175781,0.63,0.017806699499487877,Julian Brandt,a,261,OpenPlay,2019,RightFoot,12460,Freiburg,Borussia Dortmund,2,2,2019-10-05 14:30:00,Mario Götze,Pass
+325833,11,SavedShot,0.8690000152587891,0.7030000305175781,0.03899950161576271,Julian Brandt,h,261,OpenPlay,2019,LeftFoot,12469,Borussia Dortmund,Borussia M.Gladbach,1,0,2019-10-19 17:30:00,Marco Reus,Pass
+325841,47,MissedShots,0.7980000305175782,0.3,0.02532370015978813,Julian Brandt,h,261,FromCorner,2019,LeftFoot,12469,Borussia Dortmund,Borussia M.Gladbach,1,0,2019-10-19 17:30:00,Axel Witsel,Pass
+325845,50,MissedShots,0.8830000305175781,0.4520000076293945,0.09601090103387833,Julian Brandt,h,261,OpenPlay,2019,RightFoot,12469,Borussia Dortmund,Borussia M.Gladbach,1,0,2019-10-19 17:30:00,Marco Reus,BallTouch
+325855,81,SavedShot,0.840999984741211,0.3189999961853027,0.2876020073890686,Julian Brandt,h,261,OpenPlay,2019,RightFoot,12469,Borussia Dortmund,Borussia M.Gladbach,1,0,2019-10-19 17:30:00,Julian Weigl,Chipped
+331774,75,SavedShot,0.815,0.37900001525878907,0.04253289848566055,Julian Brandt,h,261,OpenPlay,2019,RightFoot,12502,Borussia Dortmund,Paderborn,3,3,2019-11-22 19:30:00,Jadon Sancho,Pass
+335574,34,MissedShots,0.775,0.38599998474121094,0.03143719956278801,Julian Brandt,h,261,OpenPlay,2019,RightFoot,12520,Borussia Dortmund,Fortuna Duesseldorf,5,0,2019-12-07 14:30:00,Axel Witsel,TakeOn
+336895,36,MissedShots,0.97,0.629000015258789,0.019145799800753593,Julian Brandt,a,261,FromCorner,2019,Head,12534,Mainz 05,Borussia Dortmund,0,4,2019-12-14 14:30:00,Jadon Sancho,Cross
+336896,37,BlockedShot,0.779000015258789,0.385,0.03075830079615116,Julian Brandt,a,261,OpenPlay,2019,RightFoot,12534,Mainz 05,Borussia Dortmund,0,4,2019-12-14 14:30:00,Jadon Sancho,Pass
+336897,47,SavedShot,0.870999984741211,0.6029999923706054,0.025256900116801262,Julian Brandt,a,261,SetPiece,2019,Head,12534,Mainz 05,Borussia Dortmund,0,4,2019-12-14 14:30:00,Marco Reus,Cross
+336908,77,SavedShot,0.945,0.3370000076293945,0.03902440145611763,Julian Brandt,a,261,FromCorner,2019,RightFoot,12534,Mainz 05,Borussia Dortmund,0,4,2019-12-14 14:30:00,Achraf Hakimi,Cross
+338000,33,Goal,0.955999984741211,0.610999984741211,0.40070998668670654,Julian Brandt,h,261,OpenPlay,2019,LeftFoot,12538,Borussia Dortmund,RasenBallsport Leipzig,3,3,2019-12-17 19:30:00,Jadon Sancho,Pass
+338017,92,BlockedShot,0.9180000305175782,0.3129999923706055,0.054255299270153046,Julian Brandt,h,261,OpenPlay,2019,RightFoot,12538,Borussia Dortmund,RasenBallsport Leipzig,3,3,2019-12-17 19:30:00,Thorgan Hazard,Pass
+338318,44,BlockedShot,0.8680000305175781,0.3770000076293945,0.045194100588560104,Julian Brandt,a,261,FromCorner,2019,LeftFoot,12549,Hoffenheim,Borussia Dortmund,2,1,2019-12-20 19:30:00,Dan-Axel Zagadou,BallTouch
+338321,49,SavedShot,0.9159999847412109,0.39099998474121095,0.38411998748779297,Julian Brandt,a,261,OpenPlay,2019,RightFoot,12549,Hoffenheim,Borussia Dortmund,2,1,2019-12-20 19:30:00,Jadon Sancho,Pass
+354871,48,Goal,0.8680000305175781,0.41200000762939454,0.087295301258564,Julian Brandt,a,261,OpenPlay,2019,LeftFoot,12562,Augsburg,Borussia Dortmund,3,5,2020-01-18 14:30:00,Thorgan Hazard,TakeOn
+358136,20,SavedShot,0.875999984741211,0.35200000762939454,0.053155601024627686,Julian Brandt,a,261,OpenPlay,2019,RightFoot,12584,Bayer Leverkusen,Borussia Dortmund,4,3,2020-02-08 17:30:00,,None
+360727,31,MissedShots,0.775,0.5670000076293945,0.03810359910130501,Julian Brandt,h,261,OpenPlay,2019,RightFoot,12610,Borussia Dortmund,Freiburg,1,0,2020-02-29 14:30:00,Emre Can,Pass
+360739,60,MissedShots,0.8009999847412109,0.4179999923706055,0.046252500265836716,Julian Brandt,h,261,OpenPlay,2019,RightFoot,12610,Borussia Dortmund,Freiburg,1,0,2020-02-29 14:30:00,Raphael Guerreiro,TakeOn
+363344,3,SavedShot,0.8680000305175781,0.75,0.026540199294686317,Julian Brandt,h,261,OpenPlay,2019,RightFoot,12652,Borussia Dortmund,Bayern Munich,0,1,2020-05-26 16:30:00,Raphael Guerreiro,Pass
+363742,44,MissedShots,0.8430000305175781,0.5609999847412109,0.08316870033740997,Julian Brandt,a,261,OpenPlay,2019,RightFoot,12663,Paderborn,Borussia Dortmund,1,6,2020-05-31 16:00:00,Achraf Hakimi,Pass
+363958,22,MissedShots,0.8180000305175781,0.46,0.058905601501464844,Julian Brandt,h,261,OpenPlay,2019,RightFoot,12664,Borussia Dortmund,Hertha Berlin,1,0,2020-06-06 16:30:00,Manuel Akanji,Pass
+364204,28,SavedShot,0.9069999694824219,0.6309999847412109,0.09685169905424118,Julian Brandt,a,261,OpenPlay,2019,LeftFoot,12676,Fortuna Duesseldorf,Borussia Dortmund,0,1,2020-06-13 13:30:00,Thorgan Hazard,Pass
+364753,7,MissedShots,0.8809999847412109,0.40700000762939453,0.032392099499702454,Julian Brandt,h,261,SetPiece,2019,Head,12682,Borussia Dortmund,Mainz 05,0,2,2020-06-17 18:30:00,Thorgan Hazard,Cross
+364767,59,MissedShots,0.759000015258789,0.40200000762939453,0.01986050046980381,Julian Brandt,h,261,OpenPlay,2019,RightFoot,12682,Borussia Dortmund,Mainz 05,0,2,2020-06-17 18:30:00,Jadon Sancho,Pass
+365254,15,SavedShot,0.885,0.605,0.09550199657678604,Julian Brandt,a,261,OpenPlay,2019,LeftFoot,12692,RasenBallsport Leipzig,Borussia Dortmund,0,2,2020-06-20 13:30:00,Raphael Guerreiro,Pass
+366828,4,SavedShot,0.955,0.36,0.018179500475525856,Julian Brandt,h,261,FromCorner,2019,Head,12700,Borussia Dortmund,Hoffenheim,0,4,2020-06-27 13:30:00,Raphael Guerreiro,Cross
+366843,58,SavedShot,0.7390000152587891,0.3970000076293945,0.013453000225126743,Julian Brandt,h,261,OpenPlay,2019,LeftFoot,12700,Borussia Dortmund,Hoffenheim,0,4,2020-06-27 13:30:00,Lukasz Piszczek,BallRecovery
+380505,82,MissedShots,0.8419999694824218,0.43099998474121093,0.09168080240488052,Julian Brandt,h,261,OpenPlay,2020,RightFoot,15162,Borussia Dortmund,Freiburg,4,0,2020-10-03 13:30:00,Raphael Guerreiro,Pass
+380506,88,BlockedShot,0.7190000152587891,0.3579999923706055,0.04136969894170761,Julian Brandt,h,261,DirectFreekick,2020,RightFoot,15162,Borussia Dortmund,Freiburg,4,0,2020-10-03 13:30:00,,Standard
+384557,17,BlockedShot,0.855,0.6519999694824219,0.051702000200748444,Julian Brandt,a,261,OpenPlay,2020,RightFoot,15188,Arminia Bielefeld,Borussia Dortmund,0,2,2020-10-31 14:30:00,,None
+384558,22,BlockedShot,0.805,0.38799999237060545,0.04333660006523132,Julian Brandt,a,261,OpenPlay,2020,RightFoot,15188,Arminia Bielefeld,Borussia Dortmund,0,2,2020-10-31 14:30:00,Thorgan Hazard,Dispossessed
+384574,83,SavedShot,0.8930000305175781,0.655,0.25964099168777466,Julian Brandt,a,261,OpenPlay,2020,LeftFoot,15188,Arminia Bielefeld,Borussia Dortmund,0,2,2020-10-31 14:30:00,Axel Witsel,Pass
+390083,52,MissedShots,0.8480000305175781,0.32799999237060545,0.046334799379110336,Julian Brandt,a,261,OpenPlay,2020,RightFoot,15224,Eintracht Frankfurt,Borussia Dortmund,1,1,2020-12-05 14:30:00,Mateu Morey,Pass
+390087,63,MissedShots,0.995,0.345,0.06794390082359314,Julian Brandt,a,261,OpenPlay,2020,RightFoot,15224,Eintracht Frankfurt,Borussia Dortmund,1,1,2020-12-05 14:30:00,Jadon Sancho,Pass
+398971,22,SavedShot,0.8780000305175781,0.5920000076293945,0.08405250310897827,Julian Brandt,h,261,OpenPlay,2020,RightFoot,15276,Borussia Dortmund,Mainz 05,1,1,2021-01-16 14:30:00,Erling Haaland,BallRecovery
+398976,31,SavedShot,0.825999984741211,0.664000015258789,0.03795669972896576,Julian Brandt,h,261,OpenPlay,2020,RightFoot,15276,Borussia Dortmund,Mainz 05,1,1,2021-01-16 14:30:00,Jadon Sancho,Pass
+398988,79,MissedShots,0.875,0.47400001525878904,0.05307349935173988,Julian Brandt,h,261,SetPiece,2020,Head,15276,Borussia Dortmund,Mainz 05,1,1,2021-01-16 14:30:00,Jadon Sancho,Cross
+399789,2,BlockedShot,0.8690000152587891,0.649000015258789,0.06455469876527786,Julian Brandt,a,261,OpenPlay,2020,RightFoot,15286,Bayer Leverkusen,Borussia Dortmund,2,1,2021-01-19 19:30:00,Jadon Sancho,Pass
+399795,24,MissedShots,0.875,0.6790000152587891,0.04574590176343918,Julian Brandt,a,261,OpenPlay,2020,RightFoot,15286,Bayer Leverkusen,Borussia Dortmund,2,1,2021-01-19 19:30:00,,None
+399805,47,MissedShots,0.7619999694824219,0.700999984741211,0.01694989949464798,Julian Brandt,a,261,OpenPlay,2020,RightFoot,15286,Bayer Leverkusen,Borussia Dortmund,2,1,2021-01-19 19:30:00,Raphael Guerreiro,Pass
+399812,66,Goal,0.7930000305175782,0.6780000305175782,0.018334800377488136,Julian Brandt,a,261,OpenPlay,2020,RightFoot,15286,Bayer Leverkusen,Borussia Dortmund,2,1,2021-01-19 19:30:00,Raphael Guerreiro,BlockedPass
+399813,67,BlockedShot,0.975999984741211,0.42700000762939455,0.5608999729156494,Julian Brandt,a,261,OpenPlay,2020,RightFoot,15286,Bayer Leverkusen,Borussia Dortmund,2,1,2021-01-19 19:30:00,Jude Bellingham,Pass
+401614,7,SavedShot,0.8880000305175781,0.35200000762939454,0.32509100437164307,Julian Brandt,h,261,OpenPlay,2020,RightFoot,15303,Borussia Dortmund,Augsburg,3,1,2021-01-30 14:30:00,Marco Reus,Throughball
+401622,34,BlockedShot,0.815,0.46799999237060547,0.06361620128154755,Julian Brandt,h,261,OpenPlay,2020,RightFoot,15303,Borussia Dortmund,Augsburg,3,1,2021-01-30 14:30:00,Giovanni Reyna,Pass
+403089,38,SavedShot,0.725,0.5159999847412109,0.019617099314928055,Julian Brandt,a,261,OpenPlay,2020,RightFoot,15314,Freiburg,Borussia Dortmund,2,1,2021-02-06 14:30:00,Raphael Guerreiro,Pass
+406727,88,MissedShots,0.7859999847412109,0.5970000076293945,0.05120629817247391,Julian Brandt,h,261,OpenPlay,2020,RightFoot,15339,Borussia Dortmund,Arminia Bielefeld,3,0,2021-02-27 14:30:00,Jadon Sancho,Pass
+410103,53,Goal,0.7090000152587891,0.5579999923706055,0.018490299582481384,Julian Brandt,h,261,OpenPlay,2020,RightFoot,15356,Borussia Dortmund,Hertha Berlin,2,0,2021-03-13 17:30:00,Marco Reus,Pass
+415840,15,MissedShots,0.904000015258789,0.6029999923706054,0.032704200595617294,Julian Brandt,h,261,FromCorner,2020,LeftFoot,15392,Borussia Dortmund,Werder Bremen,4,1,2021-04-18 13:30:00,,Aerial
+424617,79,Goal,0.9430000305175781,0.5709999847412109,0.8467829823493958,Julian Brandt,a,261,OpenPlay,2020,LeftFoot,15434,Mainz 05,Borussia Dortmund,1,3,2021-05-16 16:00:00,Erling Haaland,TakeOn
+429780,10,MissedShots,0.8690000152587891,0.4279999923706055,0.3524630069732666,Julian Brandt,a,261,OpenPlay,2021,RightFoot,17547,Bayer Leverkusen,Borussia Dortmund,3,4,2021-09-11 13:30:00,Erling Haaland,Pass
+429789,48,Goal,0.9330000305175781,0.35,0.307873010635376,Julian Brandt,a,261,OpenPlay,2021,RightFoot,17547,Bayer Leverkusen,Borussia Dortmund,3,4,2021-09-11 13:30:00,Erling Haaland,Pass
+434753,50,Goal,0.8159999847412109,0.39799999237060546,0.04348570108413696,Julian Brandt,h,261,OpenPlay,2021,LeftFoot,17576,Borussia Dortmund,Augsburg,2,1,2021-10-02 13:30:00,Marco Reus,Pass
+434768,82,BlockedShot,0.945,0.725,0.04021989926695824,Julian Brandt,h,261,OpenPlay,2021,LeftFoot,17576,Borussia Dortmund,Augsburg,2,1,2021-10-02 13:30:00,Thorgan Hazard,Chipped
+436139,30,MissedShots,0.78,0.39799999237060546,0.04210620000958443,Julian Brandt,h,261,OpenPlay,2021,LeftFoot,17587,Borussia Dortmund,Mainz 05,3,1,2021-10-16 13:30:00,,None
+437710,43,SavedShot,0.9469999694824218,0.3370000076293945,0.09550339728593826,Julian Brandt,a,261,OpenPlay,2021,RightFoot,17590,Arminia Bielefeld,Borussia Dortmund,1,3,2021-10-23 13:30:00,Donyell Malen,Pass
+442385,65,MissedShots,0.8580000305175781,0.624000015258789,0.06656110286712646,Julian Brandt,h,261,OpenPlay,2021,LeftFoot,17623,Borussia Dortmund,VfB Stuttgart,2,1,2021-11-20 14:30:00,Marco Reus,Pass
+442386,66,BlockedShot,0.784000015258789,0.62,0.032187800854444504,Julian Brandt,h,261,OpenPlay,2021,RightFoot,17623,Borussia Dortmund,VfB Stuttgart,2,1,2021-11-20 14:30:00,Thorgan Hazard,TakeOn
+443952,30,BlockedShot,0.8119999694824219,0.5329999923706055,0.04621820151805878,Julian Brandt,a,261,OpenPlay,2021,LeftFoot,17630,Wolfsburg,Borussia Dortmund,1,3,2021-11-27 14:30:00,Mahmoud Dahoud,BlockedPass
+446351,4,Goal,0.9069999694824219,0.49700000762939456,0.4217529892921448,Julian Brandt,h,261,OpenPlay,2021,RightFoot,17641,Borussia Dortmund,Bayern Munich,2,3,2021-12-04 17:30:00,Jude Bellingham,TakeOn
+446364,37,BlockedShot,0.8069999694824219,0.34900001525878904,0.03331879898905754,Julian Brandt,h,261,OpenPlay,2021,RightFoot,17641,Borussia Dortmund,Bayern Munich,2,3,2021-12-04 17:30:00,Emre Can,Pass
+446370,57,BlockedShot,0.8180000305175781,0.5029999923706054,0.04722040146589279,Julian Brandt,h,261,OpenPlay,2021,LeftFoot,17641,Borussia Dortmund,Bayern Munich,2,3,2021-12-04 17:30:00,,Rebound
+447671,84,Goal,0.9669999694824218,0.40700000762939453,0.311504989862442,Julian Brandt,a,261,OpenPlay,2021,RightFoot,17643,Bochum,Borussia Dortmund,1,1,2021-12-11 14:30:00,Erling Haaland,Chipped
+449556,30,Goal,0.9430000305175781,0.6580000305175782,0.07458549737930298,Julian Brandt,a,261,OpenPlay,2021,LeftFoot,17663,Hertha Berlin,Borussia Dortmund,3,2,2021-12-18 17:30:00,,BallTouch
+452247,42,MissedShots,0.8159999847412109,0.5690000152587891,0.03603870049118996,Julian Brandt,a,261,FromCorner,2021,LeftFoot,17675,Eintracht Frankfurt,Borussia Dortmund,2,3,2022-01-08 17:30:00,Donyell Malen,Pass
+452253,62,MissedShots,0.8580000305175781,0.3840000152587891,0.07012730091810226,Julian Brandt,a,261,OpenPlay,2021,LeftFoot,17675,Eintracht Frankfurt,Borussia Dortmund,2,3,2022-01-08 17:30:00,Marco Reus,Pass
+452994,79,MissedShots,0.8209999847412109,0.49,0.08023340255022049,Julian Brandt,h,261,OpenPlay,2021,RightFoot,17686,Borussia Dortmund,Freiburg,5,1,2022-01-14 19:30:00,Erling Haaland,Pass
+456273,49,SavedShot,0.6959999847412109,0.39599998474121095,0.009437629953026772,Julian Brandt,h,261,OpenPlay,2021,RightFoot,17703,Borussia Dortmund,Bayer Leverkusen,2,5,2022-02-06 14:30:00,Donyell Malen,Pass
+456278,61,MissedShots,0.87,0.7340000152587891,0.027471400797367096,Julian Brandt,h,261,OpenPlay,2021,RightFoot,17703,Borussia Dortmund,Bayer Leverkusen,2,5,2022-02-06 14:30:00,Donyell Malen,Pass
+456283,71,MissedShots,0.7080000305175781,0.535,0.012049700133502483,Julian Brandt,h,261,OpenPlay,2021,RightFoot,17703,Borussia Dortmund,Bayer Leverkusen,2,5,2022-02-06 14:30:00,Donyell Malen,Pass
+458892,78,SavedShot,0.7880000305175782,0.6229999923706054,0.04215160012245178,Julian Brandt,h,261,OpenPlay,2021,RightFoot,17721,Borussia Dortmund,Borussia M.Gladbach,6,0,2022-02-20 16:30:00,Marco Reus,Pass
+458895,86,MissedShots,0.9059999847412109,0.700999984741211,0.0777248963713646,Julian Brandt,h,261,OpenPlay,2021,RightFoot,17721,Borussia Dortmund,Borussia M.Gladbach,6,0,2022-02-20 16:30:00,Mahmoud Dahoud,Pass
+460448,46,SavedShot,0.78,0.415,0.046016499400138855,Julian Brandt,a,261,OpenPlay,2021,LeftFoot,17725,Augsburg,Borussia Dortmund,1,1,2022-02-27 16:30:00,Donyell Malen,BallTouch
+463255,90,SavedShot,0.909000015258789,0.27399999618530274,0.06400199979543686,Julian Brandt,h,261,OpenPlay,2021,RightFoot,17749,Borussia Dortmund,Arminia Bielefeld,1,0,2022-03-13 16:30:00,Jude Bellingham,HeadPass
+463560,69,BlockedShot,0.9430000305175781,0.305,0.033451300114393234,Julian Brandt,a,261,FromCorner,2021,LeftFoot,17736,Mainz 05,Borussia Dortmund,0,1,2022-03-16 17:30:00,Giovanni Reyna,Cross
+463566,94,MissedShots,0.9730000305175781,0.585,0.3481920063495636,Julian Brandt,a,261,OpenPlay,2021,RightFoot,17736,Mainz 05,Borussia Dortmund,0,1,2022-03-16 17:30:00,Erling Haaland,Cross
+466384,11,Goal,0.97,0.46599998474121096,0.7944560050964355,Julian Brandt,a,261,OpenPlay,2021,RightFoot,17772,VfB Stuttgart,Borussia Dortmund,0,2,2022-04-08 18:30:00,Erling Haaland,Pass
+466400,70,Goal,0.774000015258789,0.405,0.03633100166916847,Julian Brandt,a,261,OpenPlay,2021,RightFoot,17772,VfB Stuttgart,Borussia Dortmund,0,2,2022-04-08 18:30:00,Marco Reus,Pass
+468029,20,MissedShots,0.7559999847412109,0.5720000076293945,0.024701200425624847,Julian Brandt,h,261,OpenPlay,2021,RightFoot,17785,Borussia Dortmund,Wolfsburg,6,1,2022-04-16 13:30:00,Axel Witsel,Pass
+471536,20,SavedShot,0.88,0.5270000076293946,0.15308600664138794,Julian Brandt,h,261,OpenPlay,2021,RightFoot,17803,Borussia Dortmund,Bochum,3,4,2022-04-30 13:30:00,Jude Bellingham,TakeOn
+471551,66,BlockedShot,0.775,0.4329999923706055,0.03888789936900139,Julian Brandt,h,261,OpenPlay,2021,LeftFoot,17803,Borussia Dortmund,Bochum,3,4,2022-04-30 13:30:00,Erling Haaland,Pass
+474869,25,Goal,0.9690000152587891,0.40400001525878904,0.3683669865131378,Julian Brandt,a,261,OpenPlay,2021,RightFoot,17804,Greuther Fuerth,Borussia Dortmund,1,3,2022-05-07 13:30:00,,Rebound
+474877,71,Goal,0.919000015258789,0.5979999923706054,0.3251110017299652,Julian Brandt,a,261,OpenPlay,2021,LeftFoot,17804,Greuther Fuerth,Borussia Dortmund,1,3,2022-05-07 13:30:00,Nico Schulz,TakeOn
+475572,43,MissedShots,0.8819999694824219,0.37200000762939456,0.07550639659166336,Julian Brandt,h,261,OpenPlay,2021,LeftFoot,17821,Borussia Dortmund,Hertha Berlin,2,1,2022-05-14 13:30:00,Marius Wolf,TakeOn
+481707,46,Goal,0.8190000152587891,0.3120000076293945,0.03088649921119213,Julian Brandt,h,261,OpenPlay,2022,LeftFoot,19364,Borussia Dortmund,Werder Bremen,2,3,2022-08-20 13:30:00,Marco Reus,Pass
+483469,18,SavedShot,0.8580000305175781,0.6930000305175781,0.040275901556015015,Julian Brandt,a,261,OpenPlay,2022,RightFoot,19373,Hertha Berlin,Borussia Dortmund,0,1,2022-08-27 13:30:00,Salih Özcan,Pass
+485549,38,MissedShots,0.9530000305175781,0.2979999923706055,0.027053700760006905,Julian Brandt,h,261,OpenPlay,2022,RightFoot,19378,Borussia Dortmund,Hoffenheim,1,0,2022-09-02 18:30:00,Anthony Modeste,Aerial
+489922,30,Goal,0.8819999694824219,0.5029999923706054,0.3406769931316376,Julian Brandt,a,261,OpenPlay,2022,RightFoot,19408,FC Cologne,Borussia Dortmund,3,2,2022-10-01 13:30:00,Jude Bellingham,Tackle
+489939,62,SavedShot,0.85,0.4909999847412109,0.08426280319690704,Julian Brandt,a,261,OpenPlay,2022,RightFoot,19408,FC Cologne,Borussia Dortmund,3,2,2022-10-01 13:30:00,Jude Bellingham,Pass
+494992,19,SavedShot,0.9359999847412109,0.68,0.07327999919652939,Julian Brandt,h,261,OpenPlay,2022,LeftFoot,19432,Borussia Dortmund,VfB Stuttgart,5,0,2022-10-22 13:30:00,Giovanni Reyna,Pass
+496730,14,MissedShots,0.8980000305175782,0.2989999961853027,0.05428459867835045,Julian Brandt,a,261,OpenPlay,2022,RightFoot,19445,Eintracht Frankfurt,Borussia Dortmund,1,2,2022-10-29 16:30:00,Karim Adeyemi,Pass
+496731,19,Goal,0.8780000305175781,0.44299999237060544,0.07301650196313858,Julian Brandt,a,261,OpenPlay,2022,RightFoot,19445,Eintracht Frankfurt,Borussia Dortmund,1,2,2022-10-29 16:30:00,Donyell Malen,Cross
+497945,55,MissedShots,0.77,0.6569999694824219,0.06473039835691452,Julian Brandt,h,261,DirectFreekick,2022,RightFoot,19457,Borussia Dortmund,Bochum,3,0,2022-11-05 14:30:00,,Standard
+499006,38,MissedShots,0.8580000305175781,0.46799999237060547,0.026389500126242638,Julian Brandt,a,261,OpenPlay,2022,Head,19464,Wolfsburg,Borussia Dortmund,2,0,2022-11-08 17:30:00,Donyell Malen,Cross
+499745,13,MissedShots,0.915,0.6409999847412109,0.07184469699859619,Julian Brandt,a,261,OpenPlay,2022,LeftFoot,19472,Borussia M.Gladbach,Borussia Dortmund,4,2,2022-11-11 19:30:00,Youssoufa Moukoko,Pass
+499748,18,Goal,0.9180000305175782,0.5,0.4823809862136841,Julian Brandt,a,261,OpenPlay,2022,LeftFoot,19472,Borussia M.Gladbach,Borussia Dortmund,4,2,2022-11-11 19:30:00,Jude Bellingham,Throughball
+499760,49,MissedShots,0.7530000305175781,0.40400001525878904,0.020171400159597397,Julian Brandt,a,261,OpenPlay,2022,RightFoot,19472,Borussia M.Gladbach,Borussia Dortmund,4,2,2022-11-11 19:30:00,Jude Bellingham,Pass
+504986,20,SavedShot,0.769000015258789,0.61,0.02468479983508587,Julian Brandt,h,261,OpenPlay,2022,LeftFoot,19477,Borussia Dortmund,Augsburg,4,3,2023-01-22 14:30:00,Jude Bellingham,Pass
+505004,59,BlockedShot,0.8430000305175781,0.3270000076293945,0.039744000881910324,Julian Brandt,h,261,OpenPlay,2022,RightFoot,19477,Borussia Dortmund,Augsburg,4,3,2023-01-22 14:30:00,Karim Adeyemi,Pass
+505433,13,BlockedShot,0.7980000305175782,0.5359999847412109,0.04492039978504181,Julian Brandt,a,261,OpenPlay,2022,LeftFoot,19489,Mainz 05,Borussia Dortmund,1,2,2023-01-25 17:30:00,Donyell Malen,Pass
+506293,25,BlockedShot,0.9059999847412109,0.68,0.07030250132083893,Julian Brandt,a,261,OpenPlay,2022,LeftFoot,19496,Bayer Leverkusen,Borussia Dortmund,0,2,2023-01-29 16:30:00,Sébastien Haller,Pass
+506304,71,SavedShot,0.7269999694824218,0.4540000152587891,0.021436799317598343,Julian Brandt,a,261,OpenPlay,2022,RightFoot,19496,Bayer Leverkusen,Borussia Dortmund,0,2,2023-01-29 16:30:00,Anthony Modeste,Pass
+506970,12,BlockedShot,0.775,0.6959999847412109,0.012449800036847591,Julian Brandt,h,261,SetPiece,2022,LeftFoot,19504,Borussia Dortmund,Freiburg,5,1,2023-02-04 14:30:00,,None
+506990,68,Goal,0.74,0.5159999847412109,0.032891400158405304,Julian Brandt,h,261,OpenPlay,2022,RightFoot,19504,Borussia Dortmund,Freiburg,5,1,2023-02-04 14:30:00,Raphael Guerreiro,Pass
+508273,76,MissedShots,0.92,0.47400001525878904,0.7463340163230896,Julian Brandt,a,261,OpenPlay,2022,LeftFoot,19521,Werder Bremen,Borussia Dortmund,0,2,2023-02-11 14:30:00,Niklas Süle,TakeOn
+508277,83,Goal,0.8909999847412109,0.6480000305175782,0.15179400146007538,Julian Brandt,a,261,OpenPlay,2022,RightFoot,19521,Werder Bremen,Borussia Dortmund,0,2,2023-02-11 14:30:00,Raphael Guerreiro,Throughball
+510349,89,Goal,0.9,0.5129999923706055,0.580070972442627,Julian Brandt,h,261,OpenPlay,2022,LeftFoot,19522,Borussia Dortmund,Hertha Berlin,4,1,2023-02-19 16:30:00,Jamie Bynoe-Gittens,Throughball
+510738,42,Goal,0.95,0.555,0.1459590047597885,Julian Brandt,a,261,SetPiece,2022,OtherBodyPart,19536,Hoffenheim,Borussia Dortmund,0,1,2023-02-25 14:30:00,Marco Reus,Cross
+510751,75,SavedShot,0.805,0.6419999694824219,0.04295499995350838,Julian Brandt,a,261,OpenPlay,2022,RightFoot,19536,Hoffenheim,Borussia Dortmund,0,1,2023-02-25 14:30:00,Raphael Guerreiro,Pass
+510756,90,SavedShot,0.794000015258789,0.6419999694824219,0.0462195985019207,Julian Brandt,a,261,OpenPlay,2022,RightFoot,19536,Hoffenheim,Borussia Dortmund,0,1,2023-02-25 14:30:00,Salih Özcan,BallRecovery
+511770,17,BlockedShot,0.8880000305175781,0.28299999237060547,0.035578399896621704,Julian Brandt,h,261,OpenPlay,2022,RightFoot,19540,Borussia Dortmund,RasenBallsport Leipzig,2,1,2023-03-03 19:30:00,Jude Bellingham,Pass
+516611,38,MissedShots,0.9130000305175782,0.5590000152587891,0.07448670268058777,Julian Brandt,a,261,OpenPlay,2022,Head,19574,Bayern Munich,Borussia Dortmund,4,2,2023-04-01 16:30:00,Marco Reus,Cross
+517967,62,BlockedShot,0.7659999847412109,0.515,0.02571759931743145,Julian Brandt,h,261,OpenPlay,2022,RightFoot,19576,Borussia Dortmund,Union Berlin,2,1,2023-04-08 13:30:00,,None
+519315,9,SavedShot,0.775,0.6730000305175782,0.018147600814700127,Julian Brandt,a,261,OpenPlay,2022,RightFoot,19591,VfB Stuttgart,Borussia Dortmund,3,3,2023-04-15 13:30:00,,None
+522467,36,SavedShot,0.9669999694824218,0.6179999923706054,0.10598057508468628,Julian Brandt,a,261,OpenPlay,2022,RightFoot,19609,Bochum,Borussia Dortmund,1,1,2023-04-28 18:30:00,Karim Adeyemi,Pass
+525182,48,SavedShot,0.8030000305175782,0.31,0.019316524267196655,Julian Brandt,h,261,FromCorner,2022,LeftFoot,19612,Borussia Dortmund,Wolfsburg,6,0,2023-05-07 15:30:00,,None
+525193,77,BlockedShot,0.8580000305175781,0.46099998474121096,0.12523561716079712,Julian Brandt,h,261,OpenPlay,2022,RightFoot,19612,Borussia Dortmund,Wolfsburg,6,0,2023-05-07 15:30:00,Youssoufa Moukoko,Pass
+526222,67,MissedShots,0.8569999694824219,0.615,0.08810827136039734,Julian Brandt,h,261,OpenPlay,2022,LeftFoot,19622,Borussia Dortmund,Borussia M.Gladbach,5,2,2023-05-13 16:30:00,Jude Bellingham,Pass
+528154,28,SavedShot,0.8859999847412109,0.639000015258789,0.2941102087497711,Julian Brandt,a,261,OpenPlay,2022,LeftFoot,19635,Augsburg,Borussia Dortmund,0,3,2023-05-21 15:30:00,Raphael Guerreiro,Chipped
+528155,32,SavedShot,0.789000015258789,0.665,0.28482383489608765,Julian Brandt,a,261,OpenPlay,2022,LeftFoot,19635,Augsburg,Borussia Dortmund,0,3,2023-05-21 15:30:00,Emre Can,Throughball
+528161,45,SavedShot,0.7519999694824219,0.700999984741211,0.01696271449327469,Julian Brandt,a,261,OpenPlay,2022,LeftFoot,19635,Augsburg,Borussia Dortmund,0,3,2023-05-21 15:30:00,Karim Adeyemi,Pass
+528171,81,SavedShot,0.7830000305175782,0.639000015258789,0.03425298258662224,Julian Brandt,a,261,OpenPlay,2022,RightFoot,19635,Augsburg,Borussia Dortmund,0,3,2023-05-21 15:30:00,Salih Özcan,Pass
+528174,92,Goal,0.9080000305175782,0.63,0.36806073784828186,Julian Brandt,a,261,OpenPlay,2022,LeftFoot,19635,Augsburg,Borussia Dortmund,0,3,2023-05-21 15:30:00,Nico Schlotterbeck,Pass
+528881,33,SavedShot,0.925,0.32799999237060545,0.04439352825284004,Julian Brandt,h,261,OpenPlay,2022,RightFoot,19639,Borussia Dortmund,Mainz 05,2,2,2023-05-27 13:30:00,Niklas Süle,Chipped
+528885,43,SavedShot,0.885,0.5879999923706055,0.2781310975551605,Julian Brandt,h,261,OpenPlay,2022,RightFoot,19639,Borussia Dortmund,Mainz 05,2,2,2023-05-27 13:30:00,Marco Reus,TakeOn
+528890,52,SavedShot,0.735999984741211,0.7419999694824219,0.011516326107084751,Julian Brandt,h,261,OpenPlay,2022,RightFoot,19639,Borussia Dortmund,Mainz 05,2,2,2023-05-27 13:30:00,Raphael Guerreiro,Pass
+533407,29,SavedShot,0.9419999694824219,0.6880000305175781,0.0789312943816185,Julian Brandt,h,261,OpenPlay,2023,LeftFoot,23071,Borussia Dortmund,FC Cologne,1,0,2023-08-19 16:30:00,Emre Can,TakeOn
+533406,29,BlockedShot,0.8209999847412109,0.6359999847412109,0.04373856633901596,Julian Brandt,h,261,OpenPlay,2023,RightFoot,23071,Borussia Dortmund,FC Cologne,1,0,2023-08-19 16:30:00,Marco Reus,Pass
+534574,2,MissedShots,0.9059999847412109,0.605999984741211,0.11400957405567169,Julian Brandt,a,261,OpenPlay,2023,RightFoot,23077,Bochum,Borussia Dortmund,1,1,2023-08-26 13:30:00,Ramy Bensebaini,Pass
+534588,37,MissedShots,0.9030000305175782,0.6809999847412109,0.04620840400457382,Julian Brandt,a,261,OpenPlay,2023,LeftFoot,23077,Bochum,Borussia Dortmund,1,1,2023-08-26 13:30:00,Marcel Sabitzer,Chipped
+534607,94,MissedShots,0.9469999694824218,0.7040000152587891,0.06267934292554855,Julian Brandt,a,261,OpenPlay,2023,LeftFoot,23077,Bochum,Borussia Dortmund,1,1,2023-08-26 13:30:00,Ramy Bensebaini,TakeOn
+535803,6,Goal,0.8569999694824219,0.4329999923706055,0.07945840805768967,Julian Brandt,h,261,OpenPlay,2023,LeftFoot,23083,Borussia Dortmund,FC Heidenheim,2,2,2023-09-01 18:30:00,Emre Can,BallTouch
+537549,23,MissedShots,0.7669999694824219,0.6480000305175782,0.02640208601951599,Julian Brandt,a,261,OpenPlay,2023,RightFoot,23094,Freiburg,Borussia Dortmund,2,4,2023-09-16 13:30:00,Marcel Sabitzer,BallRecovery
+537559,53,MissedShots,0.8780000305175781,0.28200000762939453,0.03300555795431137,Julian Brandt,a,261,OpenPlay,2023,RightFoot,23094,Freiburg,Borussia Dortmund,2,4,2023-09-16 13:30:00,Emre Can,Pass
+538991,53,MissedShots,0.935,0.5720000076293945,0.46972233057022095,Julian Brandt,h,261,OpenPlay,2023,LeftFoot,23105,Borussia Dortmund,Wolfsburg,1,0,2023-09-23 13:30:00,Salih Özcan,Throughball
+538999,67,SavedShot,0.889000015258789,0.69,0.3177019953727722,Julian Brandt,h,261,OpenPlay,2023,LeftFoot,23105,Borussia Dortmund,Wolfsburg,1,0,2023-09-23 13:30:00,Marco Reus,Throughball
+542602,47,SavedShot,0.7519999694824219,0.38599998474121094,0.017350275069475174,Julian Brandt,h,261,OpenPlay,2023,RightFoot,23120,Borussia Dortmund,Union Berlin,4,2,2023-10-07 13:30:00,,None
+542606,53,Goal,0.8909999847412109,0.375,0.3518444895744324,Julian Brandt,h,261,OpenPlay,2023,RightFoot,23120,Borussia Dortmund,Union Berlin,4,2,2023-10-07 13:30:00,Marco Reus,Pass
+543594,52,BlockedShot,0.7709999847412109,0.24700000762939453,0.019562911242246628,Julian Brandt,h,261,OpenPlay,2023,LeftFoot,23128,Borussia Dortmund,Werder Bremen,1,0,2023-10-20 18:30:00,Marius Wolf,Pass
+543600,66,Goal,0.879000015258789,0.5020000076293946,0.4024060368537903,Julian Brandt,h,261,OpenPlay,2023,RightFoot,23128,Borussia Dortmund,Werder Bremen,1,0,2023-10-20 18:30:00,Emre Can,Throughball
+546159,81,Goal,0.9640000152587891,0.5209999847412109,0.5960274934768677,Julian Brandt,a,261,OpenPlay,2023,RightFoot,23140,Eintracht Frankfurt,Borussia Dortmund,3,3,2023-10-29 14:30:00,Karim Adeyemi,Cross
+547018,22,MissedShots,0.71,0.4809999847412109,0.008993322029709816,Julian Brandt,h,261,OpenPlay,2023,RightFoot,23146,Borussia Dortmund,Bayern Munich,0,4,2023-11-04 17:30:00,Mats Hummels,Chipped
+551949,53,SavedShot,0.7319999694824219,0.2989999961853027,0.021363168954849243,Julian Brandt,a,261,OpenPlay,2023,RightFoot,23175,Bayer Leverkusen,Borussia Dortmund,1,1,2023-12-03 16:30:00,Nico Schlotterbeck,Pass
+551948,53,BlockedShot,0.85,0.495,0.08834247291088104,Julian Brandt,a,261,OpenPlay,2023,RightFoot,23175,Bayer Leverkusen,Borussia Dortmund,1,1,2023-12-03 16:30:00,,None
+554172,43,MissedShots,0.874000015258789,0.4540000152587891,0.11170993745326996,Julian Brandt,a,261,OpenPlay,2023,RightFoot,23198,Augsburg,Borussia Dortmund,1,1,2023-12-16 14:30:00,Jamie Bynoe-Gittens,Pass
+555259,23,MissedShots,0.8040000152587891,0.33599998474121096,0.029254019260406494,Julian Brandt,h,261,OpenPlay,2023,RightFoot,23200,Borussia Dortmund,Mainz 05,1,1,2023-12-19 19:30:00,Mats Hummels,Pass
+555260,28,Goal,0.7969999694824219,0.6990000152587891,0.07019385695457458,Julian Brandt,h,261,DirectFreekick,2023,RightFoot,23200,Borussia Dortmund,Mainz 05,1,1,2023-12-19 19:30:00,,Standard
+558243,19,SavedShot,0.9369999694824219,0.5359999847412109,0.45171111822128296,Julian Brandt,a,261,OpenPlay,2023,RightFoot,23217,Darmstadt,Borussia Dortmund,0,3,2024-01-13 17:30:00,Ian Maatsen,Cross
+558245,23,Goal,0.8980000305175782,0.36700000762939455,0.5345807671546936,Julian Brandt,a,261,OpenPlay,2023,RightFoot,23217,Darmstadt,Borussia Dortmund,0,3,2024-01-13 17:30:00,Jamie Bynoe-Gittens,Throughball
+558920,3,SavedShot,0.845999984741211,0.4570000076293945,0.09069324284791946,Julian Brandt,a,261,OpenPlay,2023,RightFoot,23223,FC Cologne,Borussia Dortmund,0,4,2024-01-20 14:30:00,Jadon Sancho,Pass
+563739,98,MissedShots,0.7959999847412109,0.7,0.06926131993532181,Julian Brandt,a,261,DirectFreekick,2023,RightFoot,23256,Wolfsburg,Borussia Dortmund,1,1,2024-02-17 14:30:00,,Standard
+566520,63,SavedShot,0.7730000305175782,0.32299999237060545,0.03784731402993202,Julian Brandt,a,261,OpenPlay,2023,LeftFoot,23272,Union Berlin,Borussia Dortmund,0,2,2024-03-02 14:30:00,Niclas Füllkrug,HeadPass
+568223,20,SavedShot,0.7290000152587891,0.40099998474121096,0.021352993324398994,Julian Brandt,a,261,OpenPlay,2023,RightFoot,23286,Werder Bremen,Borussia Dortmund,1,2,2024-03-09 17:30:00,Niklas Süle,Pass
+570076,8,MissedShots,0.7319999694824219,0.3110000038146973,0.017319530248641968,Julian Brandt,h,261,OpenPlay,2023,RightFoot,23290,Borussia Dortmund,Eintracht Frankfurt,3,1,2024-03-17 16:30:00,Niclas Füllkrug,Pass
+570092,71,BlockedShot,0.8869999694824219,0.544000015258789,0.13363169133663177,Julian Brandt,h,261,OpenPlay,2023,RightFoot,23290,Borussia Dortmund,Eintracht Frankfurt,3,1,2024-03-17 16:30:00,Jamie Bynoe-Gittens,BallTouch
+570990,43,BlockedShot,0.795,0.31,0.029823699966073036,Julian Brandt,a,261,OpenPlay,2023,RightFoot,23299,Bayern Munich,Borussia Dortmund,0,2,2024-03-30 17:30:00,Niclas Füllkrug,Pass
+576692,17,SavedShot,0.735999984741211,0.4329999923706055,0.022040827199816704,Julian Brandt,a,261,OpenPlay,2023,RightFoot,23336,RasenBallsport Leipzig,Borussia Dortmund,4,1,2024-04-27 13:30:00,Niclas Füllkrug,Pass
+576719,89,BlockedShot,0.764000015258789,0.3089999961853027,0.01853610947728157,Julian Brandt,a,261,OpenPlay,2023,RightFoot,23336,RasenBallsport Leipzig,Borussia Dortmund,4,1,2024-04-27 13:30:00,Niclas Füllkrug,Pass
+581479,71,Goal,0.93,0.6559999847412109,0.41806092858314514,Julian Brandt,h,261,OpenPlay,2023,LeftFoot,23362,Borussia Dortmund,Darmstadt,4,0,2024-05-18 13:30:00,Jadon Sancho,Throughball
+586328,40,SavedShot,0.8540000152587891,0.7469999694824219,0.028114479035139084,Julian Brandt,h,261,OpenPlay,2024,RightFoot,27748,Borussia Dortmund,Eintracht Frankfurt,2,0,2024-08-24 16:30:00,Nico Schlotterbeck,Pass
+586330,48,MissedShots,0.7569999694824219,0.2720000076293945,0.019434256479144096,Julian Brandt,h,261,OpenPlay,2024,RightFoot,27748,Borussia Dortmund,Eintracht Frankfurt,2,0,2024-08-24 16:30:00,Niklas Süle,Pass
+586335,61,BlockedShot,0.8080000305175781,0.624000015258789,0.038674045354127884,Julian Brandt,h,261,OpenPlay,2024,RightFoot,27748,Borussia Dortmund,Eintracht Frankfurt,2,0,2024-08-24 16:30:00,Pascal Groß,Pass
+589099,39,MissedShots,0.7140000152587891,0.47200000762939454,0.01892523467540741,Julian Brandt,a,261,OpenPlay,2024,RightFoot,27753,Werder Bremen,Borussia Dortmund,0,0,2024-08-31 13:30:00,Jamie Bynoe-Gittens,Pass
+589101,44,MissedShots,0.8959999847412109,0.4379999923706055,0.09391158074140549,Julian Brandt,a,261,OpenPlay,2024,RightFoot,27753,Werder Bremen,Borussia Dortmund,0,0,2024-08-31 13:30:00,Julian Ryerson,Cross
+593111,50,BlockedShot,0.88,0.595999984741211,0.0895698070526123,Julian Brandt,a,261,OpenPlay,2024,RightFoot,27776,VfB Stuttgart,Borussia Dortmund,5,1,2024-09-22 15:30:00,Ramy Bensebaini,Pass
+593113,54,BlockedShot,0.735,0.46900001525878904,0.017273975536227226,Julian Brandt,a,261,OpenPlay,2024,RightFoot,27776,VfB Stuttgart,Borussia Dortmund,5,1,2024-09-22 15:30:00,Marcel Sabitzer,Pass
+593650,13,SavedShot,0.8130000305175781,0.43599998474121093,0.05085662007331848,Julian Brandt,h,261,OpenPlay,2024,RightFoot,27778,Borussia Dortmund,Bochum,4,2,2024-09-27 18:30:00,Pascal Groß,Pass
+593659,38,MissedShots,0.93,0.6859999847412109,0.2834467589855194,Julian Brandt,h,261,OpenPlay,2024,RightFoot,27778,Borussia Dortmund,Bochum,4,2,2024-09-27 18:30:00,Serhou Guirassy,Throughball
+596641,45,MissedShots,0.9259999847412109,0.46799999237060547,0.40435150265693665,Julian Brandt,h,261,OpenPlay,2024,Head,27798,Borussia Dortmund,St. Pauli,2,1,2024-10-18 18:30:00,Nico Schlotterbeck,Cross
+596644,57,SavedShot,0.8,0.34200000762939453,0.03701421245932579,Julian Brandt,h,261,OpenPlay,2024,RightFoot,27798,Borussia Dortmund,St. Pauli,2,1,2024-10-18 18:30:00,Marcel Sabitzer,Pass
+596653,86,SavedShot,0.9169999694824219,0.3270000076293945,0.3245900273323059,Julian Brandt,h,261,OpenPlay,2024,RightFoot,27798,Borussia Dortmund,St. Pauli,2,1,2024-10-18 18:30:00,Julian Ryerson,Pass
+598341,70,BlockedShot,0.7530000305175781,0.669000015258789,0.012845170684158802,Julian Brandt,a,261,FromCorner,2024,LeftFoot,27809,Augsburg,Borussia Dortmund,2,1,2024-10-26 13:30:00,,Aerial
+600274,23,BlockedShot,0.87,0.4540000152587891,0.09873951226472855,Julian Brandt,h,261,OpenPlay,2024,RightFoot,27816,Borussia Dortmund,RasenBallsport Leipzig,2,1,2024-11-02 17:30:00,Maximilian Beier,Pass
+600285,48,BlockedShot,0.79,0.26299999237060545,0.055598191916942596,Julian Brandt,h,261,DirectFreekick,2024,RightFoot,27816,Borussia Dortmund,RasenBallsport Leipzig,2,1,2024-11-02 17:30:00,,Standard
+600292,71,SavedShot,0.895,0.4829999923706055,0.4601327180862427,Julian Brandt,h,261,OpenPlay,2024,LeftFoot,27816,Borussia Dortmund,RasenBallsport Leipzig,2,1,2024-11-02 17:30:00,Ramy Bensebaini,Cross
+600293,71,SavedShot,0.895,0.4829999923706055,0.15662534534931183,Julian Brandt,h,261,OpenPlay,2024,LeftFoot,27816,Borussia Dortmund,RasenBallsport Leipzig,2,1,2024-11-02 17:30:00,,Rebound
+602759,50,MissedShots,0.9219999694824219,0.49599998474121093,0.06631338596343994,Julian Brandt,h,261,OpenPlay,2024,Head,27835,Borussia Dortmund,Freiburg,4,0,2024-11-23 14:30:00,,Aerial
+602763,65,Goal,0.76,0.49,0.07819968461990356,Julian Brandt,h,261,DirectFreekick,2024,RightFoot,27835,Borussia Dortmund,Freiburg,4,0,2024-11-23 14:30:00,,Standard
+608827,1,MissedShots,0.9640000152587891,0.52,0.15551291406154633,Julian Brandt,a,261,OpenPlay,2024,RightFoot,27874,Wolfsburg,Borussia Dortmund,1,3,2024-12-22 16:30:00,Maximilian Beier,Rebound
+608830,14,MissedShots,0.9159999847412109,0.5409999847412109,0.13355189561843872,Julian Brandt,a,261,OpenPlay,2024,LeftFoot,27874,Wolfsburg,Borussia Dortmund,1,3,2024-12-22 16:30:00,Serhou Guirassy,Rebound
+608834,29,Goal,0.8430000305175781,0.4879999923706055,0.11362570524215698,Julian Brandt,a,261,OpenPlay,2024,RightFoot,27874,Wolfsburg,Borussia Dortmund,1,3,2024-12-22 16:30:00,Maximilian Beier,Pass
+610448,41,BlockedShot,0.7969999694824219,0.6769999694824219,0.02709190733730793,Julian Brandt,h,261,FromCorner,2024,RightFoot,27878,Borussia Dortmund,Bayer Leverkusen,2,3,2025-01-10 19:30:00,Serhou Guirassy,LayOff
+611969,62,MissedShots,0.924000015258789,0.695,0.05207609012722969,Julian Brandt,a,261,OpenPlay,2024,LeftFoot,27898,Eintracht Frankfurt,Borussia Dortmund,2,0,2025-01-17 19:30:00,Jamie Bynoe-Gittens,Pass
+613299,38,BlockedShot,0.8169999694824219,0.4420000076293945,0.11445777118206024,Julian Brandt,h,261,OpenPlay,2024,RightFoot,27905,Borussia Dortmund,Werder Bremen,2,2,2025-01-25 14:30:00,,None
+613302,58,SavedShot,0.8430000305175781,0.4129999923706055,0.11482225358486176,Julian Brandt,h,261,OpenPlay,2024,LeftFoot,27905,Borussia Dortmund,Werder Bremen,2,2,2025-01-25 14:30:00,Karim Adeyemi,Pass
+614777,35,MissedShots,0.8809999847412109,0.48400001525878905,0.0640915110707283,Julian Brandt,a,261,SetPiece,2024,Head,27920,FC Heidenheim,Borussia Dortmund,1,2,2025-02-01 14:30:00,Julian Ryerson,Cross
+616006,29,MissedShots,0.725,0.610999984741211,0.04674362763762474,Julian Brandt,h,261,DirectFreekick,2024,RightFoot,27924,Borussia Dortmund,VfB Stuttgart,1,2,2025-02-08 14:30:00,,Standard
+616020,80,Goal,0.9069999694824219,0.749000015258789,0.028945613652467728,Julian Brandt,h,261,FromCorner,2024,RightFoot,27924,Borussia Dortmund,VfB Stuttgart,1,2,2025-02-08 14:30:00,Pascal Groß,Pass
+617065,14,MissedShots,0.7709999847412109,0.585,0.024954281747341156,Julian Brandt,a,261,OpenPlay,2024,RightFoot,27938,Bochum,Borussia Dortmund,2,0,2025-02-15 14:30:00,Emre Can,TakeOn
+617068,28,BlockedShot,0.8119999694824219,0.754000015258789,0.06024814397096634,Julian Brandt,a,261,DirectFreekick,2024,RightFoot,27938,Bochum,Borussia Dortmund,2,0,2025-02-15 14:30:00,,Standard
+617076,50,BlockedShot,0.7440000152587891,0.43400001525878906,0.06169019266963005,Julian Brandt,a,261,DirectFreekick,2024,RightFoot,27938,Bochum,Borussia Dortmund,2,0,2025-02-15 14:30:00,,Standard
+617077,51,SavedShot,0.91,0.5690000152587891,0.11925709247589111,Julian Brandt,a,261,OpenPlay,2024,RightFoot,27938,Bochum,Borussia Dortmund,2,0,2025-02-15 14:30:00,Jamie Bynoe-Gittens,Pass
+621101,41,MissedShots,0.8490000152587891,0.46299999237060546,0.08144006133079529,Julian Brandt,h,261,OpenPlay,2024,RightFoot,27960,Borussia Dortmund,Augsburg,0,1,2025-03-08 14:30:00,Karim Adeyemi,Pass
+622872,59,MissedShots,0.8119999694824219,0.519000015258789,0.05219905823469162,Julian Brandt,a,261,OpenPlay,2024,RightFoot,27968,RasenBallsport Leipzig,Borussia Dortmund,2,0,2025-03-15 17:30:00,Serhou Guirassy,Pass
+624764,13,SavedShot,0.8209999847412109,0.5520000076293945,0.06405079364776611,Julian Brandt,h,261,OpenPlay,2024,LeftFoot,27979,Borussia Dortmund,Mainz 05,3,1,2025-03-30 16:30:00,Maximilian Beier,Pass
+625609,31,BlockedShot,0.7709999847412109,0.705,0.016238154843449593,Julian Brandt,a,261,OpenPlay,2024,RightFoot,27988,Freiburg,Borussia Dortmund,1,4,2025-04-05 13:30:00,Daniel Svensson,Pass
+627327,6,MissedShots,0.899000015258789,0.7130000305175781,0.04292575642466545,Julian Brandt,a,261,OpenPlay,2024,LeftFoot,27996,Bayern Munich,Borussia Dortmund,2,2,2025-04-12 16:30:00,Maximilian Beier,Pass
+630241,8,SavedShot,0.835999984741211,0.500999984741211,0.10084977000951767,Julian Brandt,a,261,OpenPlay,2024,LeftFoot,28016,Hoffenheim,Borussia Dortmund,2,3,2025-04-26 13:30:00,Emre Can,Pass
+630260,73,Goal,0.9309999847412109,0.325,0.056018490344285965,Julian Brandt,a,261,OpenPlay,2024,RightFoot,28016,Hoffenheim,Borussia Dortmund,2,3,2025-04-26 13:30:00,Daniel Svensson,Chipped
+631583,60,MissedShots,0.8619999694824219,0.3679999923706055,0.10330691188573837,Julian Brandt,h,261,OpenPlay,2024,RightFoot,28022,Borussia Dortmund,Wolfsburg,4,0,2025-05-03 16:30:00,Pascal Groß,Chipped
+633549,32,Goal,0.919000015258789,0.47,0.4956224858760834,Julian Brandt,a,261,OpenPlay,2024,RightFoot,28030,Bayer Leverkusen,Borussia Dortmund,2,4,2025-05-11 13:30:00,Karim Adeyemi,Pass
+633550,35,MissedShots,0.7919999694824219,0.7119999694824218,0.020848847925662994,Julian Brandt,a,261,OpenPlay,2024,RightFoot,28030,Bayer Leverkusen,Borussia Dortmund,2,4,2025-05-11 13:30:00,,BallTouch
+634438,54,MissedShots,0.875,0.41900001525878905,0.09466935694217682,Julian Brandt,h,261,OpenPlay,2024,RightFoot,28040,Borussia Dortmund,Holstein Kiel,3,0,2025-05-17 13:30:00,,None
+639003,46,SavedShot,0.7980000305175782,0.6029999923706054,0.04090199992060661,Julian Brandt,a,261,OpenPlay,2025,LeftFoot,30230,St. Pauli,Borussia Dortmund,3,3,2025-08-23 16:30:00,Daniel Svensson,Pass
+639008,73,Goal,0.8980000305175782,0.36,0.29798123240470886,Julian Brandt,a,261,OpenPlay,2025,RightFoot,30230,St. Pauli,Borussia Dortmund,3,3,2025-08-23 16:30:00,Pascal Groß,Chipped
+644640,69,BlockedShot,0.7609999847412109,0.7090000152587891,0.04927666857838631,Julian Brandt,a,261,DirectFreekick,2025,RightFoot,30262,Mainz 05,Borussia Dortmund,0,2,2025-09-27 13:30:00,,Standard
+644644,87,MissedShots,0.8430000305175781,0.43200000762939456,0.10687120258808136,Julian Brandt,a,261,OpenPlay,2025,RightFoot,30262,Mainz 05,Borussia Dortmund,0,2,2025-09-27 13:30:00,Fabio Silva,Pass
+644645,91,SavedShot,0.8630000305175781,0.45599998474121095,0.1179347038269043,Julian Brandt,a,261,OpenPlay,2025,RightFoot,30262,Mainz 05,Borussia Dortmund,0,2,2025-09-27 13:30:00,Fabio Silva,Pass
+646090,87,MissedShots,0.9269999694824219,0.38299999237060545,0.036440808326005936,Julian Brandt,h,261,OpenPlay,2025,Head,30271,Borussia Dortmund,RasenBallsport Leipzig,1,1,2025-10-04 13:30:00,Daniel Svensson,Chipped
+647840,83,Goal,0.9630000305175781,0.48400001525878905,0.600712776184082,Julian Brandt,a,261,SetPiece,2025,LeftFoot,30278,Bayern Munich,Borussia Dortmund,2,1,2025-10-18 16:30:00,Julian Ryerson,Cross
+649138,89,SavedShot,0.779000015258789,0.6519999694824219,0.02693428099155426,Julian Brandt,h,261,FromCorner,2025,RightFoot,30290,Borussia Dortmund,FC Cologne,1,0,2025-10-25 16:30:00,Maximilian Beier,Pass
+649143,95,BlockedShot,0.7819999694824219,0.6519999694824219,0.022857485339045525,Julian Brandt,h,261,OpenPlay,2025,RightFoot,30290,Borussia Dortmund,FC Cologne,1,0,2025-10-25 16:30:00,Maximilian Beier,Pass
+650568,54,MissedShots,0.774000015258789,0.6969999694824218,0.025661079213023186,Julian Brandt,a,261,OpenPlay,2025,RightFoot,30296,Augsburg,Borussia Dortmund,0,1,2025-10-31 19:30:00,Carney Chukwuemeka,Pass
+653524,43,BlockedShot,0.9030000305175782,0.720999984741211,0.08049827814102173,Julian Brandt,h,261,OpenPlay,2025,LeftFoot,30316,Borussia Dortmund,VfB Stuttgart,3,3,2025-11-22 14:30:00,Felix Nmecha,TakeOn
+655250,71,MissedShots,0.860999984741211,0.3990000152587891,0.2845241129398346,Julian Brandt,a,261,OpenPlay,2025,RightFoot,30323,Bayer Leverkusen,Borussia Dortmund,1,2,2025-11-29 17:30:00,Felix Nmecha,Pass
+655252,74,SavedShot,0.895,0.53,0.13919180631637573,Julian Brandt,a,261,OpenPlay,2025,LeftFoot,30323,Bayer Leverkusen,Borussia Dortmund,1,2,2025-11-29 17:30:00,Fabio Silva,Pass
+657599,21,SavedShot,0.8980000305175782,0.7580000305175781,0.03011084534227848,Julian Brandt,h,261,OpenPlay,2025,RightFoot,30335,Borussia Dortmund,Hoffenheim,2,0,2025-12-07 16:30:00,Serhou Guirassy,Pass
+657604,42,Goal,0.9309999847412109,0.4859999847412109,0.5650978684425354,Julian Brandt,h,261,OpenPlay,2025,RightFoot,30335,Borussia Dortmund,Hoffenheim,2,0,2025-12-07 16:30:00,Yan Couto,Pass
+659086,9,Goal,0.945,0.6480000305175782,0.23617535829544067,Julian Brandt,h,261,OpenPlay,2025,RightFoot,30351,Borussia Dortmund,Borussia M.Gladbach,2,0,2025-12-19 19:30:00,Niklas Süle,Cross
+659094,54,MissedShots,0.870999984741211,0.5670000076293945,0.03364794701337814,Julian Brandt,h,261,FromCorner,2025,Head,30351,Borussia Dortmund,Borussia M.Gladbach,2,0,2025-12-19 19:30:00,Karim Adeyemi,Cross
+662288,25,SavedShot,0.8690000152587891,0.5259999847412109,0.07501251995563507,Julian Brandt,a,261,FromCorner,2025,LeftFoot,30362,Eintracht Frankfurt,Borussia Dortmund,3,3,2026-01-09 19:30:00,,None
+662292,46,MissedShots,0.865,0.33799999237060546,0.05984073877334595,Julian Brandt,a,261,OpenPlay,2025,RightFoot,30362,Eintracht Frankfurt,Borussia Dortmund,3,3,2026-01-09 19:30:00,Niklas Süle,Pass
+663510,12,BlockedShot,0.884000015258789,0.5520000076293945,0.40033745765686035,Julian Brandt,h,261,OpenPlay,2025,RightFoot,30378,Borussia Dortmund,St. Pauli,3,2,2026-01-17 14:30:00,,None
+663513,25,MissedShots,0.8109999847412109,0.47299999237060547,0.15319229662418365,Julian Brandt,h,261,DirectFreekick,2025,RightFoot,30378,Borussia Dortmund,St. Pauli,3,2,2026-01-17 14:30:00,,Standard
+663516,45,Goal,0.9419999694824219,0.5359999847412109,0.4871618449687958,Julian Brandt,h,261,OpenPlay,2025,LeftFoot,30378,Borussia Dortmund,St. Pauli,3,2,2026-01-17 14:30:00,Karim Adeyemi,Cross
+666716,26,BlockedShot,0.884000015258789,0.52,0.12197858095169067,Julian Brandt,h,261,OpenPlay,2025,RightFoot,30396,Borussia Dortmund,FC Heidenheim,3,2,2026-02-01 16:30:00,Daniel Svensson,Pass
+667100,37,Goal,0.9590000152587891,0.5929999923706055,0.0725967139005661,Julian Brandt,a,261,FromCorner,2025,Head,30412,Wolfsburg,Borussia Dortmund,1,2,2026-02-07 14:30:00,Julian Ryerson,Cross
+668483,57,SavedShot,0.8680000305175781,0.48,0.12705086171627045,Julian Brandt,h,261,OpenPlay,2025,LeftFoot,30415,Borussia Dortmund,Mainz 05,4,0,2026-02-13 19:30:00,Maximilian Beier,Pass
+669963,97,SavedShot,0.9130000305175782,0.295,0.10955306142568588,Julian Brandt,a,261,OpenPlay,2025,RightFoot,30427,RasenBallsport Leipzig,Borussia Dortmund,2,2,2026-02-21 17:30:00,Fabio Silva,Throughball
+676782,95,Goal,0.914000015258789,0.33799999237060546,0.12349792569875717,Julian Brandt,a,261,OpenPlay,2025,RightFoot,30473,VfB Stuttgart,Borussia Dortmund,0,2,2026-04-04 16:30:00,Fabio Silva,Chipped
+677758,16,MissedShots,0.8519999694824218,0.4979999923706055,0.07737158983945847,Julian Brandt,h,261,OpenPlay,2025,RightFoot,30477,Borussia Dortmund,Bayer Leverkusen,0,1,2026-04-11 13:30:00,Waldemar Anton,HeadPass
+677765,37,MissedShots,0.7559999847412109,0.5479999923706055,0.02608022280037403,Julian Brandt,h,261,OpenPlay,2025,RightFoot,30477,Borussia Dortmund,Bayer Leverkusen,0,1,2026-04-11 13:30:00,Ramy Bensebaini,Pass
+677769,52,MissedShots,0.7969999694824219,0.7269999694824218,0.061542946845293045,Julian Brandt,h,261,DirectFreekick,2025,RightFoot,30477,Borussia Dortmund,Bayer Leverkusen,0,1,2026-04-11 13:30:00,,Standard
+677779,92,MissedShots,0.894000015258789,0.39,0.06605282425880432,Julian Brandt,h,261,OpenPlay,2025,LeftFoot,30477,Borussia Dortmund,Bayer Leverkusen,0,1,2026-04-11 13:30:00,,None
+679162,102,MissedShots,0.8030000305175782,0.47700000762939454,0.13756293058395386,Julian Brandt,a,261,DirectFreekick,2025,RightFoot,30490,Hoffenheim,Borussia Dortmund,2,1,2026-04-18 13:30:00,,Standard
+681574,22,MissedShots,0.8440000152587891,0.245,0.024387985467910767,Julian Brandt,h,261,OpenPlay,2025,RightFoot,30495,Borussia Dortmund,Freiburg,4,0,2026-04-26 15:30:00,,None
+681582,50,MissedShots,0.8780000305175781,0.3970000076293945,0.0896209180355072,Julian Brandt,h,261,OpenPlay,2025,LeftFoot,30495,Borussia Dortmund,Freiburg,4,0,2026-04-26 15:30:00,,None
+683023,51,MissedShots,0.8719999694824219,0.69,0.05012420937418938,Julian Brandt,a,261,OpenPlay,2025,LeftFoot,30505,Borussia M.Gladbach,Borussia Dortmund,1,0,2026-05-03 15:30:00,Serhou Guirassy,TakeOn
+683365,24,SavedShot,0.7919999694824219,0.40599998474121096,0.032438620924949646,Julian Brandt,h,261,OpenPlay,2025,RightFoot,30513,Borussia Dortmund,Eintracht Frankfurt,3,2,2026-05-08 18:30:00,Marcel Sabitzer,BallRecovery
+683372,55,MissedShots,0.9680000305175781,0.6,0.054507382214069366,Julian Brandt,h,261,FromCorner,2025,Head,30513,Borussia Dortmund,Eintracht Frankfurt,3,2,2026-05-08 18:30:00,Julian Ryerson,Cross
+683376,67,SavedShot,0.9580000305175781,0.4,0.0595187246799469,Julian Brandt,h,261,FromCorner,2025,Head,30513,Borussia Dortmund,Eintracht Frankfurt,3,2,2026-05-08 18:30:00,Nico Schlotterbeck,Cross

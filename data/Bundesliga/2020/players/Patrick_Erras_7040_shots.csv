@@ -1,0 +1,16 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+256953,55,BlockedShot,0.93,0.48200000762939454,0.05555320158600807,Patrick Erras,h,7040,FromCorner,2018,Head,10453,Nuernberg,Bayer Leverkusen,1,1,2018-12-03 19:30:00,Sebastian Kerk,Goal
+285143,19,MissedShots,0.7130000305175781,0.64,0.009807109832763672,Patrick Erras,a,7040,OpenPlay,2018,RightFoot,10554,Hoffenheim,Nuernberg,2,1,2019-03-10 14:30:00,,None
+285163,91,BlockedShot,0.8619999694824219,0.5179999923706055,0.06699959933757782,Patrick Erras,a,7040,OpenPlay,2018,LeftFoot,10554,Hoffenheim,Nuernberg,2,1,2019-03-10 14:30:00,,None
+286801,87,MissedShots,0.8019999694824219,0.5840000152587891,0.03760470077395439,Patrick Erras,a,7040,OpenPlay,2018,RightFoot,10570,Eintracht Frankfurt,Nuernberg,1,0,2019-03-17 14:30:00,Eduard Löwen,None
+293173,46,SavedShot,0.9469999694824218,0.5459999847412109,0.12785999476909637,Patrick Erras,h,7040,FromCorner,2018,Head,10597,Nuernberg,Schalke 04,1,1,2019-04-12 19:30:00,Sebastian Kerk,Cross
+295163,88,BlockedShot,0.8180000305175781,0.48700000762939455,0.0562564991414547,Patrick Erras,a,7040,OpenPlay,2018,RightFoot,10599,Bayer Leverkusen,Nuernberg,2,0,2019-04-20 14:30:00,Virgil Misidjan,Pass
+302393,20,MissedShots,0.955999984741211,0.4640000152587891,0.08524720370769501,Patrick Erras,a,7040,SetPiece,2018,Head,10636,Freiburg,Nuernberg,5,1,2019-05-18 13:30:00,Robert Bauer,Aerial
+586008,86,MissedShots,0.9180000305175782,0.5970000076293945,0.018515517935156822,Patrick Erras,a,7040,FromCorner,2024,Head,27744,Hoffenheim,Holstein Kiel,3,2,2024-08-24 13:30:00,,Aerial
+589089,74,MissedShots,0.9119999694824219,0.47900001525878905,0.06068616732954979,Patrick Erras,h,7040,OpenPlay,2024,Head,27754,Holstein Kiel,Wolfsburg,0,2,2024-08-31 13:30:00,Max Geschwill,OffsidePass
+598382,39,BlockedShot,0.874000015258789,0.41200000762939454,0.01844600774347782,Patrick Erras,a,7040,FromCorner,2024,Head,27805,VfB Stuttgart,Holstein Kiel,2,1,2024-10-26 13:30:00,Marvin Schulz,Cross
+598393,77,MissedShots,0.9009999847412109,0.524000015258789,0.023007873445749283,Patrick Erras,a,7040,FromCorner,2024,Head,27805,VfB Stuttgart,Holstein Kiel,2,1,2024-10-26 13:30:00,Tymoteusz Puchacz,Aerial
+599904,19,BlockedShot,0.924000015258789,0.54,0.05024325102567673,Patrick Erras,h,7040,FromCorner,2024,Head,27822,Holstein Kiel,FC Heidenheim,1,0,2024-11-02 14:30:00,Phil Harres,Aerial
+599908,27,Goal,0.9430000305175781,0.5070000076293946,0.46459048986434937,Patrick Erras,h,7040,SetPiece,2024,Head,27822,Holstein Kiel,FC Heidenheim,1,0,2024-11-02 14:30:00,Max Geschwill,HeadPass
+604043,46,BlockedShot,0.9519999694824218,0.55,0.13046231865882874,Patrick Erras,a,7040,FromCorner,2024,RightFoot,27849,St. Pauli,Holstein Kiel,3,1,2024-11-30 14:30:00,Jann-Fiete Arp,Cross
+604049,88,MissedShots,0.855,0.5259999847412109,0.06397095322608948,Patrick Erras,a,7040,OpenPlay,2024,LeftFoot,27849,St. Pauli,Holstein Kiel,3,1,2024-11-30 14:30:00,Benedikt Pichler,HeadPass

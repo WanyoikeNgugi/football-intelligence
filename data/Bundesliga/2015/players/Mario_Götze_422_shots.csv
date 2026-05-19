@@ -1,0 +1,196 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+24347,42,MissedShots,0.895,0.6630000305175782,0.03674669936299324,Mario Götze,h,422,FromCorner,2014,RightFoot,5447,Bayern Munich,Wolfsburg,2,1,2014-08-22 19:30:00,Arjen Robben,Cross
+24793,14,SavedShot,0.875,0.6680000305175782,0.053643301129341125,Mario Götze,h,422,OpenPlay,2014,RightFoot,5413,Bayern Munich,VfB Stuttgart,2,0,2014-09-13 14:30:00,,None
+24796,26,Goal,0.889000015258789,0.35900001525878905,0.07759150117635727,Mario Götze,h,422,SetPiece,2014,RightFoot,5413,Bayern Munich,VfB Stuttgart,2,0,2014-09-13 14:30:00,,TakeOn
+25260,7,Goal,0.8619999694824219,0.42700000762939455,0.3615579903125763,Mario Götze,h,422,OpenPlay,2014,RightFoot,5430,Bayern Munich,Paderborn,4,0,2014-09-23 19:00:00,Thomas Müller,Pass
+25264,12,SavedShot,0.865999984741211,0.53,0.11478699743747711,Mario Götze,h,422,OpenPlay,2014,RightFoot,5430,Bayern Munich,Paderborn,4,0,2014-09-23 19:00:00,David Alaba,Pass
+25270,28,MissedShots,0.884000015258789,0.37900001525878907,0.060941100120544434,Mario Götze,h,422,FromCorner,2014,LeftFoot,5430,Bayern Munich,Paderborn,4,0,2014-09-23 19:00:00,,None
+25274,41,BlockedShot,0.8590000152587891,0.4209999847412109,0.11885099858045578,Mario Götze,h,422,OpenPlay,2014,RightFoot,5430,Bayern Munich,Paderborn,4,0,2014-09-23 19:00:00,Arjen Robben,Pass
+25279,61,MissedShots,0.875999984741211,0.46799999237060547,0.06540039926767349,Mario Götze,h,422,FromCorner,2014,RightFoot,5430,Bayern Munich,Paderborn,4,0,2014-09-23 19:00:00,Arjen Robben,Pass
+25285,77,Goal,0.9719999694824218,0.44299999237060544,0.6786590218544006,Mario Götze,h,422,OpenPlay,2014,RightFoot,5430,Bayern Munich,Paderborn,4,0,2014-09-23 19:00:00,,Rebound
+25286,83,MissedShots,0.825,0.7169999694824218,0.01384539995342493,Mario Götze,h,422,OpenPlay,2014,RightFoot,5430,Bayern Munich,Paderborn,4,0,2014-09-23 19:00:00,,Aerial
+25662,18,Goal,0.9080000305175782,0.53,0.4712890088558197,Mario Götze,a,422,OpenPlay,2014,RightFoot,5442,FC Cologne,Bayern Munich,0,2,2014-09-27 14:30:00,Thomas Müller,Pass
+25672,37,SavedShot,0.9319999694824219,0.415,0.46674299240112305,Mario Götze,a,422,OpenPlay,2014,RightFoot,5442,FC Cologne,Bayern Munich,0,2,2014-09-27 14:30:00,Arjen Robben,Pass
+25674,39,MissedShots,0.779000015258789,0.33799999237060546,0.031238000839948654,Mario Götze,a,422,OpenPlay,2014,RightFoot,5442,FC Cologne,Bayern Munich,0,2,2014-09-27 14:30:00,Xabi Alonso,Pass
+25686,80,BlockedShot,0.845,0.5429999923706055,0.16159899532794952,Mario Götze,a,422,OpenPlay,2014,RightFoot,5442,FC Cologne,Bayern Munich,0,2,2014-09-27 14:30:00,David Alaba,TakeOn
+25687,80,BlockedShot,0.875999984741211,0.539000015258789,0.10763700306415558,Mario Götze,a,422,OpenPlay,2014,RightFoot,5442,FC Cologne,Bayern Munich,0,2,2014-09-27 14:30:00,Robert Lewandowski,BallTouch
+25971,4,MissedShots,0.710999984741211,0.42700000762939455,0.018343999981880188,Mario Götze,h,422,OpenPlay,2014,RightFoot,5392,Bayern Munich,Werder Bremen,6,0,2014-10-18 14:30:00,David Alaba,Pass
+25978,44,Goal,0.860999984741211,0.615,0.08974750339984894,Mario Götze,h,422,OpenPlay,2014,RightFoot,5392,Bayern Munich,Werder Bremen,6,0,2014-10-18 14:30:00,David Alaba,Pass
+25989,85,Goal,0.805,0.5790000152587891,0.05990289896726608,Mario Götze,h,422,OpenPlay,2014,RightFoot,5392,Bayern Munich,Werder Bremen,6,0,2014-10-18 14:30:00,,Dispossessed
+26297,54,BlockedShot,0.9159999847412109,0.6509999847412109,0.06770029664039612,Mario Götze,a,422,OpenPlay,2014,RightFoot,5409,Borussia M.Gladbach,Bayern Munich,0,0,2014-10-26 16:30:00,,Rebound
+26302,64,MissedShots,0.895,0.35700000762939454,0.056818198412656784,Mario Götze,a,422,FromCorner,2014,LeftFoot,5409,Borussia M.Gladbach,Bayern Munich,0,0,2014-10-26 16:30:00,Robert Lewandowski,None
+26309,82,BlockedShot,0.8930000305175781,0.6669999694824219,0.051285699009895325,Mario Götze,a,422,OpenPlay,2014,LeftFoot,5409,Borussia M.Gladbach,Bayern Munich,0,0,2014-10-26 16:30:00,Philipp Lahm,Chipped
+26874,34,MissedShots,0.9119999694824219,0.285,0.00936248991638422,Mario Götze,a,422,FromCorner,2014,Head,5360,Eintracht Frankfurt,Bayern Munich,0,4,2014-11-08 14:30:00,Franck Ribéry,Cross
+26882,72,BlockedShot,0.899000015258789,0.37599998474121094,0.05635650083422661,Mario Götze,a,422,FromCorner,2014,RightFoot,5360,Eintracht Frankfurt,Bayern Munich,0,4,2014-11-08 14:30:00,Arjen Robben,Pass
+26887,83,SavedShot,0.9640000152587891,0.6759999847412109,0.11102200299501419,Mario Götze,a,422,OpenPlay,2014,LeftFoot,5360,Eintracht Frankfurt,Bayern Munich,0,4,2014-11-08 14:30:00,,TakeOn
+26927,22,Goal,0.7219999694824218,0.415,0.020921099931001663,Mario Götze,h,422,OpenPlay,2014,RightFoot,5365,Bayern Munich,Hoffenheim,4,0,2014-11-22 14:30:00,Xabi Alonso,Pass
+26930,32,MissedShots,0.8319999694824218,0.575,0.07214990258216858,Mario Götze,h,422,OpenPlay,2014,RightFoot,5365,Bayern Munich,Hoffenheim,4,0,2014-11-22 14:30:00,,None
+26938,55,SavedShot,0.915,0.664000015258789,0.09916020184755325,Mario Götze,h,422,OpenPlay,2014,LeftFoot,5365,Bayern Munich,Hoffenheim,4,0,2014-11-22 14:30:00,Jérôme Boateng,Chipped
+28334,24,SavedShot,0.865999984741211,0.5779999923706055,0.29564398527145386,Mario Götze,h,422,OpenPlay,2014,RightFoot,5333,Bayern Munich,Freiburg,2,0,2014-12-16 19:00:00,Xabi Alonso,Chipped
+29644,6,MissedShots,0.9030000305175782,0.5420000076293945,0.06686309725046158,Mario Götze,h,422,FromCorner,2014,RightFoot,5264,Bayern Munich,Schalke 04,1,1,2015-02-03 19:00:00,Xabi Alonso,Cross
+28801,22,Goal,0.9630000305175781,0.45799999237060546,0.6805580258369446,Mario Götze,h,422,OpenPlay,2014,RightFoot,5285,Bayern Munich,Hamburger SV,8,0,2015-02-14 14:30:00,,Rebound
+28813,54,BlockedShot,0.7959999847412109,0.4329999923706055,0.06284189969301224,Mario Götze,h,422,OpenPlay,2014,RightFoot,5285,Bayern Munich,Hamburger SV,8,0,2015-02-14 14:30:00,Robert Lewandowski,Pass
+28815,55,BlockedShot,0.799000015258789,0.44299999237060544,0.06220899894833565,Mario Götze,h,422,OpenPlay,2014,RightFoot,5285,Bayern Munich,Hamburger SV,8,0,2015-02-14 14:30:00,Robert Lewandowski,Pass
+28827,87,Goal,0.845,0.7069999694824218,0.04234819859266281,Mario Götze,h,422,OpenPlay,2014,RightFoot,5285,Bayern Munich,Hamburger SV,8,0,2015-02-14 14:30:00,Claudio Pizarro,Pass
+28790,82,MissedShots,0.915,0.51,0.05472410097718239,Mario Götze,h,422,OpenPlay,2014,Head,5298,Bayern Munich,FC Cologne,4,1,2015-02-27 19:30:00,Rafinha,Aerial
+31380,7,BlockedShot,0.7780000305175782,0.35900001525878905,0.024330999702215195,Mario Götze,a,422,OpenPlay,2014,RightFoot,5246,Werder Bremen,Bayern Munich,0,4,2015-03-14 14:30:00,Jérôme Boateng,TakeOn
+31581,2,BlockedShot,0.9130000305175782,0.539000015258789,0.11021500080823898,Mario Götze,h,422,OpenPlay,2014,LeftFoot,5259,Bayern Munich,Borussia M.Gladbach,0,2,2015-03-22 16:30:00,Robert Lewandowski,BallTouch
+31584,13,BlockedShot,0.785,0.41200000762939454,0.02890859916806221,Mario Götze,h,422,OpenPlay,2014,RightFoot,5259,Bayern Munich,Borussia M.Gladbach,0,2,2015-03-22 16:30:00,Robert Lewandowski,Pass
+32257,79,BlockedShot,0.725999984741211,0.5629999923706055,0.027348799630999565,Mario Götze,a,422,OpenPlay,2014,LeftFoot,5201,Borussia Dortmund,Bayern Munich,0,1,2015-04-04 17:30:00,Thiago Alcántara,HeadPass
+30723,29,SavedShot,0.855,0.3840000152587891,0.0604592002928257,Mario Götze,h,422,OpenPlay,2014,RightFoot,5205,Bayern Munich,Eintracht Frankfurt,3,0,2015-04-11 14:30:00,Thomas Müller,Chipped
+30731,61,ShotOnPost,0.8590000152587891,0.655,0.08170519769191742,Mario Götze,h,422,OpenPlay,2014,RightFoot,5205,Bayern Munich,Eintracht Frankfurt,3,0,2015-04-11 14:30:00,Thiago Alcántara,TakeOn
+30733,65,BlockedShot,0.8830000305175781,0.5379999923706055,0.41206198930740356,Mario Götze,h,422,OpenPlay,2014,RightFoot,5205,Bayern Munich,Eintracht Frankfurt,3,0,2015-04-11 14:30:00,Thomas Müller,Pass
+30737,78,BlockedShot,0.7830000305175782,0.610999984741211,0.08683840185403824,Mario Götze,h,422,DirectFreekick,2014,RightFoot,5205,Bayern Munich,Eintracht Frankfurt,3,0,2015-04-11 14:30:00,,Standard
+32028,48,BlockedShot,0.7780000305175782,0.664000015258789,0.030717400833964348,Mario Götze,a,422,OpenPlay,2014,RightFoot,5215,Hoffenheim,Bayern Munich,0,2,2015-04-18 14:30:00,Rafinha,Pass
+32029,49,BlockedShot,0.8319999694824218,0.3729999923706055,0.06399139761924744,Mario Götze,a,422,OpenPlay,2014,LeftFoot,5215,Hoffenheim,Bayern Munich,0,2,2015-04-18 14:30:00,Mitchell Weiser,Pass
+32038,73,BlockedShot,0.85,0.674000015258789,0.055520299822092056,Mario Götze,a,422,OpenPlay,2014,RightFoot,5215,Hoffenheim,Bayern Munich,0,2,2015-04-18 14:30:00,Sebastian Rode,Pass
+32269,31,BlockedShot,0.8319999694824218,0.27899999618530275,0.028855599462985992,Mario Götze,h,422,OpenPlay,2014,RightFoot,5228,Bayern Munich,Hertha Berlin,1,0,2015-04-25 17:30:00,Philipp Lahm,Pass
+30477,5,SavedShot,0.8590000152587891,0.7480000305175781,0.028034700080752373,Mario Götze,a,422,OpenPlay,2014,RightFoot,5165,Bayer Leverkusen,Bayern Munich,2,0,2015-05-02 17:30:00,Bastian Schweinsteiger,Pass
+30482,26,BlockedShot,0.91,0.3120000076293945,0.4942539930343628,Mario Götze,a,422,OpenPlay,2014,RightFoot,5165,Bayer Leverkusen,Bayern Munich,2,0,2015-05-02 17:30:00,Gianluca Gaudino,TakeOn
+30499,75,SavedShot,0.8819999694824219,0.27,0.18152500689029694,Mario Götze,a,422,OpenPlay,2014,RightFoot,5165,Bayer Leverkusen,Bayern Munich,2,0,2015-05-02 17:30:00,Lukas Görtler,Pass
+31312,2,BlockedShot,0.7419999694824219,0.46599998474121096,0.019041499122977257,Mario Götze,h,422,OpenPlay,2014,RightFoot,5169,Bayern Munich,Augsburg,0,1,2015-05-09 14:30:00,Thomas Müller,HeadPass
+31313,4,SavedShot,0.925,0.6459999847412109,0.07137049734592438,Mario Götze,h,422,OpenPlay,2014,RightFoot,5169,Bayern Munich,Augsburg,0,1,2015-05-09 14:30:00,Bastian Schweinsteiger,Chipped
+31314,8,ShotOnPost,0.8480000305175781,0.36900001525878906,0.06537490338087082,Mario Götze,h,422,OpenPlay,2014,RightFoot,5169,Bayern Munich,Augsburg,0,1,2015-05-09 14:30:00,Robert Lewandowski,Pass
+31321,29,MissedShots,0.805,0.34900001525878904,0.032731398940086365,Mario Götze,h,422,OpenPlay,2014,RightFoot,5169,Bayern Munich,Augsburg,0,1,2015-05-09 14:30:00,Robert Lewandowski,Pass
+31334,80,SavedShot,0.7480000305175781,0.7480000305175781,0.014884799718856812,Mario Götze,h,422,OpenPlay,2014,RightFoot,5169,Bayern Munich,Augsburg,0,1,2015-05-09 14:30:00,Bastian Schweinsteiger,Pass
+30782,0,BlockedShot,0.845999984741211,0.66,0.04288569837808609,Mario Götze,a,422,OpenPlay,2014,RightFoot,5185,Freiburg,Bayern Munich,2,1,2015-05-16 14:30:00,Jérôme Boateng,Pass
+30783,2,SavedShot,0.8009999847412109,0.5670000076293945,0.04241890087723732,Mario Götze,a,422,OpenPlay,2014,RightFoot,5185,Freiburg,Bayern Munich,2,1,2015-05-16 14:30:00,,None
+30795,50,SavedShot,0.9340000152587891,0.575,0.23671600222587585,Mario Götze,a,422,SetPiece,2014,Head,5185,Freiburg,Bayern Munich,2,1,2015-05-16 14:30:00,Xabi Alonso,Cross
+30804,77,MissedShots,0.9059999847412109,0.495,0.47824200987815857,Mario Götze,a,422,OpenPlay,2014,RightFoot,5185,Freiburg,Bayern Munich,2,1,2015-05-16 14:30:00,Robert Lewandowski,Pass
+31039,54,BlockedShot,0.825999984741211,0.6990000152587891,0.046977698802948,Mario Götze,h,422,OpenPlay,2014,RightFoot,5192,Bayern Munich,Mainz 05,2,0,2015-05-23 14:30:00,Philipp Lahm,Pass
+31042,73,BlockedShot,0.7559999847412109,0.6359999847412109,0.030383799225091934,Mario Götze,h,422,OpenPlay,2014,RightFoot,5192,Bayern Munich,Mainz 05,2,0,2015-05-23 14:30:00,Claudio Pizarro,Pass
+76543,78,ShotOnPost,0.960999984741211,0.4,0.48894399404525757,Mario Götze,h,422,OpenPlay,2015,RightFoot,1045,Bayern Munich,Bayer Leverkusen,3,0,2015-08-29 20:30:00,Thomas Müller,Pass
+77200,55,MissedShots,0.8640000152587891,0.7330000305175781,0.036858100444078445,Mario Götze,a,422,OpenPlay,2015,RightFoot,1058,Darmstadt,Bayern Munich,0,3,2015-09-19 17:30:00,Joshua Kimmich,Chipped
+77226,67,SavedShot,0.9490000152587891,0.3770000076293945,0.34427300095558167,Mario Götze,h,422,SetPiece,2015,RightFoot,1066,Bayern Munich,Wolfsburg,5,1,2015-09-22 22:00:00,Javi Martínez,HeadPass
+77701,54,MissedShots,0.9519999694824218,0.5309999847412109,0.6760259866714478,Mario Götze,h,422,OpenPlay,2015,RightFoot,1092,Bayern Munich,Borussia Dortmund,5,1,2015-10-04 19:30:00,Thomas Müller,Pass
+77708,65,Goal,0.870999984741211,0.47299999237060547,0.11035999655723572,Mario Götze,h,422,OpenPlay,2015,RightFoot,1092,Bayern Munich,Borussia Dortmund,5,1,2015-10-04 19:30:00,Thiago Alcántara,Dispossessed
+81940,23,SavedShot,0.8219999694824218,0.38599998474121094,0.040619298815727234,Mario Götze,h,422,OpenPlay,2015,RightFoot,1252,Bayern Munich,Werder Bremen,5,0,2016-03-12 21:30:00,Kingsley Coman,HeadPass
+81948,48,SavedShot,0.9430000305175781,0.33,0.08334500342607498,Mario Götze,h,422,OpenPlay,2015,RightFoot,1252,Bayern Munich,Werder Bremen,5,0,2016-03-12 21:30:00,Philipp Lahm,Pass
+82396,14,MissedShots,0.97,0.54,0.14722000062465668,Mario Götze,h,422,FromCorner,2015,RightFoot,1265,Bayern Munich,Eintracht Frankfurt,1,0,2016-04-02 17:30:00,Franck Ribéry,Pass
+82398,19,SavedShot,0.794000015258789,0.40400001525878904,0.03357610106468201,Mario Götze,h,422,OpenPlay,2015,RightFoot,1265,Bayern Munich,Eintracht Frankfurt,1,0,2016-04-02 17:30:00,Xabi Alonso,Pass
+82400,23,SavedShot,0.8959999847412109,0.42200000762939455,0.04686420038342476,Mario Götze,h,422,OpenPlay,2015,Head,1265,Bayern Munich,Eintracht Frankfurt,1,0,2016-04-02 17:30:00,Philipp Lahm,Chipped
+82417,83,BlockedShot,0.8090000152587891,0.6480000305175782,0.046830300241708755,Mario Götze,h,422,OpenPlay,2015,RightFoot,1265,Bayern Munich,Eintracht Frankfurt,1,0,2016-04-02 17:30:00,Franck Ribéry,Pass
+82708,28,SavedShot,0.86,0.46799999237060547,0.10528100281953812,Mario Götze,a,422,OpenPlay,2015,RightFoot,1276,VfB Stuttgart,Bayern Munich,1,3,2016-04-09 17:30:00,Thomas Müller,Pass
+82716,67,SavedShot,0.7780000305175782,0.34,0.030038800090551376,Mario Götze,a,422,OpenPlay,2015,RightFoot,1276,VfB Stuttgart,Bayern Munich,1,3,2016-04-09 17:30:00,Xabi Alonso,Pass
+82851,49,SavedShot,0.840999984741211,0.7030000305175781,0.03446749970316887,Mario Götze,h,422,OpenPlay,2015,RightFoot,1288,Bayern Munich,Schalke 04,3,0,2016-04-16 20:30:00,Philipp Lahm,Pass
+83764,19,SavedShot,0.89,0.6020000076293945,0.3104189932346344,Mario Götze,h,422,OpenPlay,2015,RightFoot,1319,Bayern Munich,Hannover 96,3,1,2016-05-14 17:30:00,Kingsley Coman,TakeOn
+83768,27,Goal,0.9359999847412109,0.3940000152587891,0.42214199900627136,Mario Götze,h,422,OpenPlay,2015,RightFoot,1319,Bayern Munich,Hannover 96,3,1,2016-05-14 17:30:00,Kingsley Coman,Pass
+83776,53,Goal,0.845,0.62,0.043133001774549484,Mario Götze,h,422,FromCorner,2015,RightFoot,1319,Bayern Munich,Hannover 96,3,1,2016-05-14 17:30:00,,None
+83792,83,SavedShot,0.8540000152587891,0.3579999923706055,0.32447299361228943,Mario Götze,h,422,OpenPlay,2015,RightFoot,1319,Bayern Munich,Hannover 96,3,1,2016-05-14 17:30:00,Thiago Alcántara,Chipped
+128468,32,SavedShot,0.86,0.610999984741211,0.10087800025939941,Mario Götze,a,422,OpenPlay,2016,RightFoot,1354,Wolfsburg,Borussia Dortmund,1,5,2016-09-20 22:00:00,Raphael Guerreiro,Pass
+129417,85,SavedShot,0.9359999847412109,0.425,0.47995099425315857,Mario Götze,a,422,OpenPlay,2016,RightFoot,1391,Ingolstadt,Borussia Dortmund,3,3,2016-10-22 17:30:00,Adrián Ramos,Pass
+129758,72,SavedShot,0.9590000152587891,0.5940000152587891,0.1278589963912964,Mario Götze,h,422,OpenPlay,2016,RightFoot,3305,Borussia Dortmund,Schalke 04,0,0,2016-10-29 20:30:00,Ousmane Dembélé,Pass
+131657,10,Goal,0.855999984741211,0.5259999847412109,0.3656899929046631,Mario Götze,a,422,OpenPlay,2016,RightFoot,3210,Hoffenheim,Borussia Dortmund,2,2,2016-12-16 19:30:00,Ousmane Dembélé,Pass
+131728,8,ShotOnPost,0.85,0.6969999694824218,0.0381028987467289,Mario Götze,h,422,OpenPlay,2016,RightFoot,3222,Borussia Dortmund,Augsburg,1,1,2016-12-20 23:00:00,,None
+131735,28,BlockedShot,0.8159999847412109,0.4909999847412109,0.05376189947128296,Mario Götze,h,422,OpenPlay,2016,RightFoot,3222,Borussia Dortmund,Augsburg,1,1,2016-12-20 23:00:00,,None
+165972,39,SavedShot,0.7530000305175781,0.63,0.024635400623083115,Mario Götze,a,422,OpenPlay,2017,RightFoot,8264,Wolfsburg,Borussia Dortmund,0,3,2017-08-19 14:30:00,Gonzalo Castro,Pass
+165973,49,SavedShot,0.7390000152587891,0.5209999847412109,0.02303590066730976,Mario Götze,a,422,OpenPlay,2017,RightFoot,8264,Wolfsburg,Borussia Dortmund,0,3,2017-08-19 14:30:00,Pierre-Emerick Aubameyang,Pass
+166277,8,BlockedShot,0.87,0.5970000076293945,0.07149100303649902,Mario Götze,a,422,OpenPlay,2017,RightFoot,8280,Freiburg,Borussia Dortmund,0,0,2017-09-09 14:30:00,,None
+166284,47,BlockedShot,0.8430000305175781,0.4279999923706055,0.07936049997806549,Mario Götze,a,422,OpenPlay,2017,RightFoot,8280,Freiburg,Borussia Dortmund,0,0,2017-09-09 14:30:00,Nuri Sahin,Pass
+166295,63,BlockedShot,0.775,0.515,0.031140200793743134,Mario Götze,a,422,OpenPlay,2017,RightFoot,8280,Freiburg,Borussia Dortmund,0,0,2017-09-09 14:30:00,Nuri Sahin,Pass
+167379,51,BlockedShot,0.8419999694824218,0.5729999923706055,0.06451539695262909,Mario Götze,h,422,OpenPlay,2017,RightFoot,8310,Borussia Dortmund,Borussia M.Gladbach,6,1,2017-09-23 17:30:00,Pierre-Emerick Aubameyang,Chipped
+168249,17,BlockedShot,0.865,0.669000015258789,0.050059299916028976,Mario Götze,a,422,OpenPlay,2017,RightFoot,8336,Eintracht Frankfurt,Borussia Dortmund,2,2,2017-10-21 14:30:00,Maximilian Philipp,Pass
+168255,37,BlockedShot,0.7769999694824219,0.3129999923706055,0.019175799563527107,Mario Götze,a,422,FromCorner,2017,RightFoot,8336,Eintracht Frankfurt,Borussia Dortmund,2,2,2017-10-21 14:30:00,,BallTouch
+168869,78,BlockedShot,0.8,0.35700000762939454,0.032254498451948166,Mario Götze,h,422,OpenPlay,2017,RightFoot,8357,Borussia Dortmund,Bayern Munich,1,3,2017-11-04 17:30:00,Christian Pulisic,Pass
+168188,27,SavedShot,0.8319999694824218,0.575,0.05135500058531761,Mario Götze,a,422,OpenPlay,2017,RightFoot,8366,VfB Stuttgart,Borussia Dortmund,2,1,2017-11-17 19:30:00,,Dispossessed
+168189,34,SavedShot,0.8159999847412109,0.49900001525878906,0.05877560004591942,Mario Götze,a,422,OpenPlay,2017,RightFoot,8366,VfB Stuttgart,Borussia Dortmund,2,1,2017-11-17 19:30:00,Andriy Yarmolenko,Pass
+168229,19,Goal,0.9619999694824218,0.5720000076293945,0.3745410144329071,Mario Götze,h,422,OpenPlay,2017,Head,8367,Borussia Dortmund,Schalke 04,4,4,2017-11-25 14:30:00,Pierre-Emerick Aubameyang,Cross
+194959,91,Goal,0.915,0.435,0.6483280062675476,Mario Götze,h,422,OpenPlay,2017,RightFoot,8452,Borussia Dortmund,Hamburger SV,2,0,2018-02-10 14:30:00,André Schürrle,Throughball
+201896,0,BlockedShot,0.8630000305175781,0.47200000762939454,0.08393780142068863,Mario Götze,h,422,OpenPlay,2017,RightFoot,8493,Borussia Dortmund,Hannover 96,1,0,2018-03-18 12:30:00,,Rebound
+201910,40,SavedShot,0.865999984741211,0.705,0.04901370033621788,Mario Götze,h,422,OpenPlay,2017,RightFoot,8493,Borussia Dortmund,Hannover 96,1,0,2018-03-18 12:30:00,Marcel Schmelzer,Pass
+201916,51,BlockedShot,0.870999984741211,0.34900001525878904,0.07325860112905502,Mario Götze,h,422,OpenPlay,2017,RightFoot,8493,Borussia Dortmund,Hannover 96,1,0,2018-03-18 12:30:00,Lukasz Piszczek,Pass
+204474,3,MissedShots,0.8209999847412109,0.48700000762939455,0.044228099286556244,Mario Götze,a,422,FromCorner,2017,RightFoot,8502,Bayern Munich,Borussia Dortmund,6,0,2018-03-31 14:30:00,,None
+204480,16,BlockedShot,0.85,0.649000015258789,0.053022198379039764,Mario Götze,a,422,OpenPlay,2017,RightFoot,8502,Bayern Munich,Borussia Dortmund,6,0,2018-03-31 14:30:00,André Schürrle,Pass
+204492,66,ShotOnPost,0.7959999847412109,0.565,0.04616120085120201,Mario Götze,a,422,OpenPlay,2017,LeftFoot,8502,Bayern Munich,Borussia Dortmund,6,0,2018-03-31 14:30:00,Mahmoud Dahoud,Pass
+210566,8,BlockedShot,0.8169999694824219,0.6140000152587891,0.048602499067783356,Mario Götze,h,422,OpenPlay,2017,RightFoot,8529,Borussia Dortmund,Bayer Leverkusen,4,0,2018-04-21 16:30:00,Marco Reus,BallTouch
+210578,50,BlockedShot,0.9119999694824219,0.37599998474121094,0.1390099972486496,Mario Götze,h,422,OpenPlay,2017,LeftFoot,8529,Borussia Dortmund,Bayer Leverkusen,4,0,2018-04-21 16:30:00,Jadon Sancho,Pass
+213136,11,BlockedShot,0.84,0.42400001525878905,0.023310799151659012,Mario Götze,h,422,FromCorner,2017,RightFoot,8550,Borussia Dortmund,Mainz 05,1,2,2018-05-05 14:30:00,,Aerial
+213147,60,BlockedShot,0.91,0.6759999847412109,0.05842920020222664,Mario Götze,h,422,OpenPlay,2017,RightFoot,8550,Borussia Dortmund,Mainz 05,1,2,2018-05-05 14:30:00,Jadon Sancho,Pass
+255231,83,Goal,0.9630000305175781,0.3509999847412109,0.32949501276016235,Mario Götze,h,422,OpenPlay,2018,RightFoot,10393,Borussia Dortmund,Augsburg,4,3,2018-10-06 13:30:00,Achraf Hakimi,Throughball
+255676,38,BlockedShot,0.8059999847412109,0.4909999847412109,0.0685352012515068,Mario Götze,h,422,OpenPlay,2018,RightFoot,10410,Borussia Dortmund,Hertha Berlin,2,2,2018-10-27 13:30:00,Raphael Guerreiro,BallTouch
+256671,11,MissedShots,0.919000015258789,0.4809999847412109,0.066634401679039,Mario Götze,h,422,OpenPlay,2018,Head,10446,Borussia Dortmund,Freiburg,2,0,2018-12-01 14:30:00,Jadon Sancho,Aerial
+256674,23,MissedShots,0.9369999694824219,0.500999984741211,0.5903800129890442,Mario Götze,h,422,OpenPlay,2018,RightFoot,10446,Borussia Dortmund,Freiburg,2,0,2018-12-01 14:30:00,,None
+257487,31,SavedShot,0.845,0.44,0.358227014541626,Mario Götze,a,422,OpenPlay,2018,RightFoot,10478,Fortuna Duesseldorf,Borussia Dortmund,2,1,2018-12-18 19:30:00,Jacob Bruun Larsen,None
+257494,70,BlockedShot,0.89,0.4759999847412109,0.07277879863977432,Mario Götze,a,422,OpenPlay,2018,RightFoot,10478,Fortuna Duesseldorf,Borussia Dortmund,2,1,2018-12-18 19:30:00,,None
+278556,61,Goal,0.9119999694824219,0.34200000762939453,0.279011994600296,Mario Götze,h,422,OpenPlay,2018,RightFoot,10500,Borussia Dortmund,Hannover 96,5,1,2019-01-26 14:30:00,Jadon Sancho,Pass
+278991,42,Goal,0.9630000305175781,0.44599998474121094,0.6267250180244446,Mario Götze,h,422,OpenPlay,2018,RightFoot,10518,Borussia Dortmund,Hoffenheim,3,3,2019-02-09 14:30:00,,Rebound
+278997,61,SavedShot,0.8180000305175781,0.6459999847412109,0.04629819840192795,Mario Götze,h,422,OpenPlay,2018,RightFoot,10518,Borussia Dortmund,Hoffenheim,3,3,2019-02-09 14:30:00,Mahmoud Dahoud,Pass
+279342,33,SavedShot,0.8930000305175781,0.415,0.09305760264396667,Mario Götze,a,422,OpenPlay,2018,RightFoot,10533,Nuernberg,Borussia Dortmund,0,0,2019-02-18 19:30:00,Jadon Sancho,BallTouch
+279343,33,SavedShot,0.885,0.4229999923706055,0.08258400112390518,Mario Götze,a,422,OpenPlay,2018,RightFoot,10533,Nuernberg,Borussia Dortmund,0,0,2019-02-18 19:30:00,,None
+279344,34,SavedShot,0.799000015258789,0.45,0.04235770180821419,Mario Götze,a,422,OpenPlay,2018,RightFoot,10533,Nuernberg,Borussia Dortmund,0,0,2019-02-18 19:30:00,,None
+279348,44,SavedShot,0.9369999694824219,0.5879999923706055,0.06862790137529373,Mario Götze,a,422,FromCorner,2018,Head,10533,Nuernberg,Borussia Dortmund,0,0,2019-02-18 19:30:00,Jadon Sancho,Cross
+279350,52,SavedShot,0.8690000152587891,0.664000015258789,0.055305201560258865,Mario Götze,a,422,OpenPlay,2018,RightFoot,10533,Nuernberg,Borussia Dortmund,0,0,2019-02-18 19:30:00,Jadon Sancho,Pass
+279352,61,MissedShots,0.8130000305175781,0.415,0.050931401550769806,Mario Götze,a,422,OpenPlay,2018,RightFoot,10533,Nuernberg,Borussia Dortmund,0,0,2019-02-18 19:30:00,Maximilian Philipp,Pass
+279550,59,Goal,0.8169999694824219,0.524000015258789,0.0712570995092392,Mario Götze,h,422,OpenPlay,2018,RightFoot,10536,Borussia Dortmund,Bayer Leverkusen,3,2,2019-02-24 17:00:00,,None
+279602,85,BlockedShot,0.89,0.6759999847412109,0.04909919947385788,Mario Götze,a,422,OpenPlay,2018,RightFoot,10550,Augsburg,Borussia Dortmund,2,1,2019-03-01 19:30:00,Abdou Diallo,TakeOn
+279603,86,SavedShot,0.7809999847412109,0.5879999923706055,0.030102699995040894,Mario Götze,a,422,OpenPlay,2018,RightFoot,10550,Augsburg,Borussia Dortmund,2,1,2019-03-01 19:30:00,Paco Alcácer,Pass
+284423,28,MissedShots,0.7619999694824219,0.565,0.022178100422024727,Mario Götze,h,422,OpenPlay,2018,RightFoot,10555,Borussia Dortmund,VfB Stuttgart,3,1,2019-03-09 14:30:00,Achraf Hakimi,Pass
+292151,64,BlockedShot,0.8780000305175781,0.5829999923706055,0.05314730107784271,Mario Götze,a,422,OpenPlay,2018,RightFoot,10580,Bayern Munich,Borussia Dortmund,5,0,2019-04-06 17:30:00,Lukasz Piszczek,Cross
+295928,78,Goal,0.955999984741211,0.4779999923706055,0.839339017868042,Mario Götze,a,422,OpenPlay,2018,RightFoot,10601,Freiburg,Borussia Dortmund,0,4,2019-04-21 14:30:00,Marco Reus,Pass
+297354,13,Goal,0.9009999847412109,0.539000015258789,0.2820119857788086,Mario Götze,h,422,OpenPlay,2018,Head,10607,Borussia Dortmund,Schalke 04,2,4,2019-04-27 14:30:00,Jadon Sancho,Chipped
+297357,22,BlockedShot,0.8669999694824219,0.625999984741211,0.05679180100560188,Mario Götze,h,422,SetPiece,2018,RightFoot,10607,Borussia Dortmund,Schalke 04,2,4,2019-04-27 14:30:00,,None
+299420,13,SavedShot,0.8730000305175781,0.415,0.2786180078983307,Mario Götze,a,422,OpenPlay,2018,RightFoot,10621,Werder Bremen,Borussia Dortmund,2,2,2019-05-04 17:30:00,Manuel Akanji,Cross
+299433,44,BlockedShot,0.9159999847412109,0.35900001525878905,0.10754600167274475,Mario Götze,a,422,OpenPlay,2018,RightFoot,10621,Werder Bremen,Borussia Dortmund,2,2,2019-05-04 17:30:00,Jadon Sancho,Pass
+299440,65,MissedShots,0.8130000305175781,0.3529999923706055,0.02565550059080124,Mario Götze,a,422,FromCorner,2018,LeftFoot,10621,Werder Bremen,Borussia Dortmund,2,2,2019-05-04 17:30:00,,None
+300742,59,BlockedShot,0.9290000152587891,0.34900001525878904,0.08926849812269211,Mario Götze,h,422,OpenPlay,2018,RightFoot,10626,Borussia Dortmund,Fortuna Duesseldorf,3,2,2019-05-11 14:30:00,Christian Pulisic,Pass
+300747,91,Goal,0.865,0.46,0.10256800055503845,Mario Götze,h,422,OpenPlay,2018,RightFoot,10626,Borussia Dortmund,Fortuna Duesseldorf,3,2,2019-05-11 14:30:00,,Rebound
+310669,83,BlockedShot,0.9269999694824219,0.6819999694824219,0.0375789999961853,Mario Götze,h,422,FromCorner,2019,RightFoot,12406,Borussia Dortmund,Augsburg,5,1,2019-08-17 14:30:00,Jadon Sancho,Cross
+322895,0,BlockedShot,0.865,0.3970000076293945,0.06534049659967422,Mario Götze,h,422,OpenPlay,2019,RightFoot,12454,Borussia Dortmund,Werder Bremen,2,2,2019-09-28 16:30:00,Mahmoud Dahoud,Rebound
+322898,8,Goal,0.9580000305175781,0.580999984741211,0.22851799428462982,Mario Götze,h,422,OpenPlay,2019,Head,12454,Borussia Dortmund,Werder Bremen,2,2,2019-09-28 16:30:00,Lukasz Piszczek,Cross
+322915,63,SavedShot,0.899000015258789,0.5520000076293945,0.31696900725364685,Mario Götze,h,422,OpenPlay,2019,RightFoot,12454,Borussia Dortmund,Werder Bremen,2,2,2019-09-28 16:30:00,Lukasz Piszczek,Cross
+329045,87,Goal,0.885,0.5,0.7575340270996094,Mario Götze,h,422,Penalty,2019,RightFoot,12484,Borussia Dortmund,Wolfsburg,3,0,2019-11-02 14:30:00,,Standard
+335592,87,BlockedShot,0.8819999694824219,0.3920000076293945,0.12606100738048553,Mario Götze,h,422,OpenPlay,2019,RightFoot,12520,Borussia Dortmund,Fortuna Duesseldorf,5,0,2019-12-07 14:30:00,Mahmoud Dahoud,Pass
+338309,16,Goal,0.9469999694824218,0.4520000076293945,0.5940520167350769,Mario Götze,a,422,OpenPlay,2019,RightFoot,12549,Hoffenheim,Borussia Dortmund,2,1,2019-12-20 19:30:00,Achraf Hakimi,Pass
+338319,44,BlockedShot,0.914000015258789,0.6609999847412109,0.04557029902935028,Mario Götze,a,422,FromCorner,2019,RightFoot,12549,Hoffenheim,Borussia Dortmund,2,1,2019-12-20 19:30:00,Dan-Axel Zagadou,BallTouch
+484503,1,Goal,0.8059999847412109,0.49599998474121093,0.051217399537563324,Mario Götze,a,422,OpenPlay,2022,RightFoot,19377,Werder Bremen,Eintracht Frankfurt,3,4,2022-08-28 15:30:00,Randal Kolo Muani,Pass
+486181,18,MissedShots,0.735,0.4179999923706055,0.015182999894022942,Mario Götze,h,422,FromCorner,2022,RightFoot,19384,Eintracht Frankfurt,RasenBallsport Leipzig,4,0,2022-09-03 16:30:00,,None
+486190,58,SavedShot,0.8590000152587891,0.505,0.45188000798225403,Mario Götze,h,422,OpenPlay,2022,LeftFoot,19384,Eintracht Frankfurt,RasenBallsport Leipzig,4,0,2022-09-03 16:30:00,,None
+486193,66,SavedShot,0.8590000152587891,0.5879999923706055,0.053275398910045624,Mario Götze,h,422,FromCorner,2022,LeftFoot,19384,Eintracht Frankfurt,RasenBallsport Leipzig,4,0,2022-09-03 16:30:00,Christopher Lenz,Pass
+488667,3,MissedShots,0.7930000305175782,0.6409999847412109,0.015406300313770771,Mario Götze,a,422,FromCorner,2022,RightFoot,19400,VfB Stuttgart,Eintracht Frankfurt,1,3,2022-09-17 13:30:00,,Aerial
+488683,66,BlockedShot,0.8569999694824219,0.6630000305175782,0.07593519985675812,Mario Götze,a,422,OpenPlay,2022,RightFoot,19400,VfB Stuttgart,Eintracht Frankfurt,1,3,2022-09-17 13:30:00,Randal Kolo Muani,Pass
+489958,11,Goal,0.9180000305175782,0.455,0.46890899538993835,Mario Götze,h,422,OpenPlay,2022,RightFoot,19409,Eintracht Frankfurt,Union Berlin,2,0,2022-10-01 13:30:00,Randal Kolo Muani,Pass
+491436,42,MissedShots,0.754000015258789,0.5,0.028945500031113625,Mario Götze,a,422,FromCorner,2022,RightFoot,19419,Bochum,Eintracht Frankfurt,3,0,2022-10-08 13:30:00,Luca Pellegrini,Pass
+491439,54,MissedShots,0.835,0.615,0.05861499905586243,Mario Götze,a,422,OpenPlay,2022,RightFoot,19419,Bochum,Eintracht Frankfurt,3,0,2022-10-08 13:30:00,,BallTouch
+493047,4,MissedShots,0.7530000305175781,0.629000015258789,0.017124999314546585,Mario Götze,h,422,OpenPlay,2022,RightFoot,19427,Eintracht Frankfurt,Bayer Leverkusen,5,1,2022-10-15 13:30:00,,None
+495195,27,BlockedShot,0.875999984741211,0.5990000152587891,0.10775099694728851,Mario Götze,a,422,OpenPlay,2022,RightFoot,19437,Borussia M.Gladbach,Eintracht Frankfurt,1,3,2022-10-22 16:30:00,Randal Kolo Muani,Pass
+495204,89,MissedShots,0.89,0.5109999847412109,0.05753539875149727,Mario Götze,a,422,OpenPlay,2022,Head,19437,Borussia M.Gladbach,Eintracht Frankfurt,1,3,2022-10-22 16:30:00,Sebastian Rode,Chipped
+496736,29,BlockedShot,0.8959999847412109,0.415,0.11342500150203705,Mario Götze,h,422,OpenPlay,2022,RightFoot,19445,Eintracht Frankfurt,Borussia Dortmund,1,2,2022-10-29 16:30:00,Jesper Lindstrom,Pass
+496744,56,BlockedShot,0.9,0.43099998474121093,0.10764800012111664,Mario Götze,h,422,OpenPlay,2022,RightFoot,19445,Eintracht Frankfurt,Borussia Dortmund,1,2,2022-10-29 16:30:00,Jesper Lindstrom,Pass
+500732,73,SavedShot,0.7130000305175781,0.6840000152587891,0.014973499812185764,Mario Götze,a,422,OpenPlay,2022,RightFoot,19470,Mainz 05,Eintracht Frankfurt,1,1,2022-11-13 14:30:00,Luca Pellegrini,Pass
+507057,84,SavedShot,0.870999984741211,0.6079999923706054,0.31664299964904785,Mario Götze,h,422,OpenPlay,2022,RightFoot,19508,Eintracht Frankfurt,Hertha Berlin,3,0,2023-02-04 14:30:00,Makoto Hasebe,Chipped
+507059,85,MissedShots,0.899000015258789,0.36200000762939455,0.28969699144363403,Mario Götze,h,422,OpenPlay,2022,RightFoot,19508,Eintracht Frankfurt,Hertha Berlin,3,0,2023-02-04 14:30:00,Christopher Lenz,Pass
+513385,70,BlockedShot,0.895,0.47200000762939454,0.1233299970626831,Mario Götze,h,422,OpenPlay,2022,RightFoot,19553,Eintracht Frankfurt,VfB Stuttgart,1,1,2023-03-11 14:30:00,Randal Kolo Muani,BlockedPass
+521041,21,BlockedShot,0.914000015258789,0.6329999923706054,0.07025375217199326,Mario Götze,a,422,OpenPlay,2022,LeftFoot,19594,Borussia Dortmund,Eintracht Frankfurt,4,0,2023-04-22 16:30:00,Ansgar Knauff,Chipped
+521043,26,BlockedShot,0.875999984741211,0.5479999923706055,0.06569116562604904,Mario Götze,a,422,FromCorner,2022,RightFoot,19594,Borussia Dortmund,Eintracht Frankfurt,4,0,2023-04-22 16:30:00,Christopher Lenz,Pass
+521049,36,MissedShots,0.899000015258789,0.3270000076293945,0.0736282542347908,Mario Götze,a,422,OpenPlay,2022,RightFoot,19594,Borussia Dortmund,Eintracht Frankfurt,4,0,2023-04-22 16:30:00,Aurélio Buta,Pass
+524587,36,BlockedShot,0.9330000305175781,0.40400001525878904,0.08117461949586868,Mario Götze,a,422,OpenPlay,2022,RightFoot,19616,Hoffenheim,Eintracht Frankfurt,3,1,2023-05-06 13:30:00,Aurélio Buta,Cross
+524594,53,Goal,0.9780000305175781,0.5790000152587891,0.46061262488365173,Mario Götze,a,422,FromCorner,2022,RightFoot,19616,Hoffenheim,Eintracht Frankfurt,3,1,2023-05-06 13:30:00,,Rebound
+525891,51,MissedShots,0.8619999694824219,0.43400001525878906,0.08134816586971283,Mario Götze,h,422,OpenPlay,2022,RightFoot,19626,Eintracht Frankfurt,Mainz 05,3,0,2023-05-13 13:30:00,Randal Kolo Muani,HeadPass
+529136,38,BlockedShot,0.8680000305175781,0.6359999847412109,0.07480675727128983,Mario Götze,h,422,OpenPlay,2022,RightFoot,19644,Eintracht Frankfurt,Freiburg,2,1,2023-05-27 13:30:00,Daichi Kamada,TakeOn
+529145,78,BlockedShot,0.88,0.6959999847412109,0.04125010967254639,Mario Götze,h,422,OpenPlay,2022,RightFoot,19644,Eintracht Frankfurt,Freiburg,2,1,2023-05-27 13:30:00,Philipp Max,Pass
+540985,48,SavedShot,0.8,0.669000015258789,0.025138655677437782,Mario Götze,a,422,OpenPlay,2023,RightFoot,23113,Wolfsburg,Eintracht Frankfurt,2,0,2023-09-30 13:30:00,Omar Marmoush,Pass
+549158,86,BlockedShot,0.935,0.40400001525878904,0.05856633558869362,Mario Götze,a,422,FromCorner,2023,Head,23159,Werder Bremen,Eintracht Frankfurt,2,2,2023-11-12 16:30:00,Omar Marmoush,Cross
+558095,56,MissedShots,0.924000015258789,0.519000015258789,0.5280526876449585,Mario Götze,a,422,OpenPlay,2023,RightFoot,23210,RasenBallsport Leipzig,Eintracht Frankfurt,0,1,2024-01-13 14:30:00,Niels Nkounkou,Rebound
+559570,71,SavedShot,0.9,0.49700000762939456,0.4441004991531372,Mario Götze,h,422,OpenPlay,2023,RightFoot,23230,Eintracht Frankfurt,Mainz 05,1,0,2024-01-26 19:30:00,William Pacho,BallTouch
+559571,71,Goal,0.9490000152587891,0.5,0.5289193987846375,Mario Götze,h,422,OpenPlay,2023,Head,23230,Eintracht Frankfurt,Mainz 05,1,0,2024-01-26 19:30:00,,Rebound
+568794,63,Goal,0.9169999694824219,0.46599998474121096,0.5198583602905273,Mario Götze,h,422,OpenPlay,2023,RightFoot,23284,Eintracht Frankfurt,Hoffenheim,3,1,2024-03-10 16:30:00,Ansgar Knauff,Pass
+570079,12,Goal,0.81,0.53,0.07870279997587204,Mario Götze,a,422,OpenPlay,2023,RightFoot,23290,Borussia Dortmund,Eintracht Frankfurt,3,1,2024-03-17 16:30:00,,Rebound
+570598,61,BlockedShot,0.93,0.629000015258789,0.08812448382377625,Mario Götze,h,422,OpenPlay,2023,LeftFoot,23302,Eintracht Frankfurt,Union Berlin,0,0,2024-03-30 14:30:00,Hugo Ekitike,BallTouch
+570606,84,BlockedShot,0.84,0.4370000076293945,0.06748880445957184,Mario Götze,h,422,OpenPlay,2023,RightFoot,23302,Eintracht Frankfurt,Union Berlin,0,0,2024-03-30 14:30:00,Ellyes Skhiri,Pass
+570609,91,SavedShot,0.779000015258789,0.40900001525878904,0.030629782006144524,Mario Götze,h,422,FromCorner,2023,RightFoot,23302,Eintracht Frankfurt,Union Berlin,0,0,2024-03-30 14:30:00,,TakeOn
+572062,57,MissedShots,0.925,0.4490000152587891,0.3194394111633301,Mario Götze,h,422,OpenPlay,2023,Head,23311,Eintracht Frankfurt,Werder Bremen,1,1,2024-04-05 18:30:00,Philipp Max,Chipped
+579077,59,BlockedShot,0.8680000305175781,0.38799999237060545,0.05651110038161278,Mario Götze,h,422,FromCorner,2023,RightFoot,23346,Eintracht Frankfurt,Bayer Leverkusen,1,5,2024-05-05 15:30:00,,None
+579084,81,BlockedShot,0.8240000152587891,0.4209999847412109,0.04012433439493179,Mario Götze,h,422,FromCorner,2023,RightFoot,23346,Eintracht Frankfurt,Bayer Leverkusen,1,5,2024-05-05 15:30:00,,None
+589013,50,SavedShot,0.9290000152587891,0.4420000076293945,0.13578134775161743,Mario Götze,h,422,OpenPlay,2024,RightFoot,27756,Eintracht Frankfurt,Hoffenheim,3,1,2024-08-31 13:30:00,Hugo Ekitike,Cross
+599039,13,Goal,0.980999984741211,0.47200000762939454,0.9113978147506714,Mario Götze,a,422,FromCorner,2024,RightFoot,27811,Union Berlin,Eintracht Frankfurt,1,1,2024-10-27 16:30:00,,Rebound
+603060,44,Goal,0.86,0.5079999923706054,0.30979812145233154,Mario Götze,h,422,OpenPlay,2024,RightFoot,27836,Eintracht Frankfurt,Werder Bremen,1,0,2024-11-23 17:30:00,Hugo Ekitike,LayOff
+611429,12,SavedShot,0.88,0.285,0.04043810814619064,Mario Götze,h,422,OpenPlay,2024,LeftFoot,27889,Eintracht Frankfurt,Freiburg,4,1,2025-01-14 19:30:00,,None
+611432,25,BlockedShot,0.8530000305175781,0.4809999847412109,0.02811824530363083,Mario Götze,h,422,FromCorner,2024,RightFoot,27889,Eintracht Frankfurt,Freiburg,4,1,2025-01-14 19:30:00,,Aerial
+615506,77,MissedShots,0.9519999694824218,0.37200000762939456,0.055406853556632996,Mario Götze,h,422,FromCorner,2024,RightFoot,27919,Eintracht Frankfurt,Wolfsburg,1,1,2025-02-02 14:30:00,Can Uzun,OffsidePass
+624321,56,MissedShots,0.9340000152587891,0.5229999923706055,0.655861496925354,Mario Götze,h,422,OpenPlay,2024,RightFoot,27978,Eintracht Frankfurt,VfB Stuttgart,1,0,2025-03-29 17:30:00,,Rebound
+624327,69,Goal,0.9690000152587891,0.5059999847412109,0.8353608250617981,Mario Götze,h,422,OpenPlay,2024,RightFoot,27978,Eintracht Frankfurt,VfB Stuttgart,1,0,2025-03-29 17:30:00,,Rebound
+644993,61,BlockedShot,0.874000015258789,0.5379999923706055,0.11342283338308334,Mario Götze,a,422,OpenPlay,2025,RightFoot,30265,Borussia M.Gladbach,Eintracht Frankfurt,4,6,2025-09-27 16:30:00,,BallTouch
+650750,40,BlockedShot,0.840999984741211,0.549000015258789,0.05677879601716995,Mario Götze,a,422,OpenPlay,2025,RightFoot,30299,FC Heidenheim,Eintracht Frankfurt,1,1,2025-11-01 14:30:00,Ansgar Knauff,BallTouch
+655668,11,MissedShots,0.8830000305175781,0.590999984741211,0.10424846410751343,Mario Götze,h,422,OpenPlay,2025,RightFoot,30326,Eintracht Frankfurt,Wolfsburg,1,1,2025-11-30 16:30:00,Jean Négoce,Pass
+669720,94,MissedShots,0.9309999847412109,0.6120000076293945,0.07046488672494888,Mario Götze,a,422,OpenPlay,2025,RightFoot,30422,Bayern Munich,Eintracht Frankfurt,3,2,2026-02-21 14:30:00,Nathaniel Brown,Cross
+671836,58,BlockedShot,0.8419999694824218,0.5,0.08970287442207336,Mario Götze,h,422,OpenPlay,2025,LeftFoot,30435,Eintracht Frankfurt,Freiburg,2,0,2026-03-01 16:30:00,Arnaud Kalimuendo Muinga,Pass

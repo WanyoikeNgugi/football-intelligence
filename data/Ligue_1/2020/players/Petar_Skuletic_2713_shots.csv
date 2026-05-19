@@ -1,0 +1,113 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+12251,12,SavedShot,0.9490000152587891,0.785,0.02766829915344715,Petar Skuletic,a,2713,OpenPlay,2014,LeftFoot,6310,FC Rostov,Lokomotiv Moscow,0,1,2015-03-08 15:30:00,Renat Yanbayev,Pass
+12259,63,Goal,0.89,0.46799999237060547,0.05485279858112335,Petar Skuletic,a,2713,OpenPlay,2014,Head,6310,FC Rostov,Lokomotiv Moscow,0,1,2015-03-08 15:30:00,Aleksandr Samedov,Cross
+13317,3,SavedShot,0.8519999694824218,0.5670000076293945,0.06477879732847214,Petar Skuletic,h,2713,OpenPlay,2014,LeftFoot,6317,Lokomotiv Moscow,Arsenal Tula,0,1,2015-03-14 16:00:00,,None
+13318,3,MissedShots,0.9269999694824219,0.5229999923706055,0.1217769980430603,Petar Skuletic,h,2713,FromCorner,2014,LeftFoot,6317,Lokomotiv Moscow,Arsenal Tula,0,1,2015-03-14 16:00:00,,None
+13319,9,BlockedShot,0.8290000152587891,0.505,0.08436880260705948,Petar Skuletic,h,2713,OpenPlay,2014,LeftFoot,6317,Lokomotiv Moscow,Arsenal Tula,0,1,2015-03-14 16:00:00,Alan Kasaev,Pass
+13326,25,SavedShot,0.92,0.5640000152587891,0.4164159893989563,Petar Skuletic,h,2713,OpenPlay,2014,LeftFoot,6317,Lokomotiv Moscow,Arsenal Tula,0,1,2015-03-14 16:00:00,Alan Kasaev,Pass
+13790,10,SavedShot,0.8719999694824219,0.5609999847412109,0.10214299708604813,Petar Skuletic,a,2713,SetPiece,2014,LeftFoot,6328,Mordovya,Lokomotiv Moscow,0,0,2015-03-22 13:00:00,Vedran Corluka,Pass
+13927,43,Goal,0.8640000152587891,0.61,0.07447049766778946,Petar Skuletic,a,2713,OpenPlay,2014,LeftFoot,6266,Dinamo Moscow,Lokomotiv Moscow,2,2,2015-04-04 12:15:00,Manuel Fernandes,Pass
+13928,45,SavedShot,0.8480000305175781,0.5359999847412109,0.09218359738588333,Petar Skuletic,a,2713,OpenPlay,2014,LeftFoot,6266,Dinamo Moscow,Lokomotiv Moscow,2,2,2015-04-04 12:15:00,Alan Kasaev,Pass
+12205,35,SavedShot,0.9080000305175782,0.5420000076293945,0.04615139961242676,Petar Skuletic,h,2713,OpenPlay,2014,Head,6277,Lokomotiv Moscow,Torpedo Moscow,2,0,2015-04-08 18:00:00,Aleksandr Samedov,Aerial
+12207,41,MissedShots,0.9219999694824219,0.5120000076293946,0.1114019975066185,Petar Skuletic,h,2713,FromCorner,2014,LeftFoot,6277,Lokomotiv Moscow,Torpedo Moscow,2,0,2015-04-08 18:00:00,Mbark Boussoufa,Cross
+13101,37,MissedShots,0.86,0.47900001525878905,0.024796100333333015,Petar Skuletic,a,2713,OpenPlay,2014,Head,6285,Ural,Lokomotiv Moscow,2,0,2015-04-13 13:00:00,Mbark Boussoufa,Cross
+70385,39,MissedShots,0.905,0.5940000152587891,0.022664200514554977,Petar Skuletic,a,2713,OpenPlay,2015,Head,2353,Mordovya,Lokomotiv Moscow,0,1,2015-07-19 19:00:00,Vedran Corluka,Aerial
+70390,59,Goal,0.91,0.655,0.010691200383007526,Petar Skuletic,a,2713,OpenPlay,2015,Head,2353,Mordovya,Lokomotiv Moscow,0,1,2015-07-19 19:00:00,Roman Shishkin,Cross
+70391,65,MissedShots,0.8859999847412109,0.6270000076293946,0.06442330032587051,Petar Skuletic,a,2713,OpenPlay,2015,RightFoot,2353,Mordovya,Lokomotiv Moscow,0,1,2015-07-19 19:00:00,Roman Shishkin,Cross
+70408,18,Goal,0.9230000305175782,0.49900001525878906,0.3607650101184845,Petar Skuletic,a,2713,OpenPlay,2015,Head,2364,Anzhi Makhachkala,Lokomotiv Moscow,1,3,2015-07-27 21:00:00,Aleksandr Samedov,Cross
+70799,26,SavedShot,0.865999984741211,0.55,0.01736520044505596,Petar Skuletic,h,2713,OpenPlay,2015,Head,2369,Lokomotiv Moscow,Dinamo Moscow,1,1,2015-08-02 14:30:00,Alan Kasaev,Aerial
+71221,82,SavedShot,0.8780000305175781,0.3659999847412109,0.06136459857225418,Petar Skuletic,h,2713,OpenPlay,2015,LeftFoot,2385,Lokomotiv Moscow,FK Akhmat,0,0,2015-08-16 14:30:00,,None
+72129,11,MissedShots,0.894000015258789,0.669000015258789,0.0710579976439476,Petar Skuletic,h,2713,OpenPlay,2015,LeftFoot,2418,Lokomotiv Moscow,Krylya Sovetov Samara,2,0,2015-09-20 20:30:00,Aleksandr Kolomejtsev,Pass
+72130,14,MissedShots,0.889000015258789,0.4,0.0723394975066185,Petar Skuletic,h,2713,OpenPlay,2015,RightFoot,2418,Lokomotiv Moscow,Krylya Sovetov Samara,2,0,2015-09-20 20:30:00,Roman Shishkin,Cross
+72143,49,SavedShot,0.9130000305175782,0.5670000076293945,0.04554330185055733,Petar Skuletic,h,2713,OpenPlay,2015,Head,2418,Lokomotiv Moscow,Krylya Sovetov Samara,2,0,2015-09-20 20:30:00,Roman Shishkin,Aerial
+72144,50,MissedShots,0.784000015258789,0.7440000152587891,0.10108800232410431,Petar Skuletic,h,2713,OpenPlay,2015,LeftFoot,2418,Lokomotiv Moscow,Krylya Sovetov Samara,2,0,2015-09-20 20:30:00,Vitaliy Denisov,Throughball
+71806,87,SavedShot,0.9269999694824219,0.655,0.05225389823317528,Petar Skuletic,h,2713,OpenPlay,2015,LeftFoot,2452,Lokomotiv Moscow,FC Rostov,0,2,2015-10-26 20:30:00,Roman Shishkin,Chipped
+71807,90,BlockedShot,0.745,0.5479999923706055,0.01828560046851635,Petar Skuletic,h,2713,OpenPlay,2015,LeftFoot,2452,Lokomotiv Moscow,FC Rostov,0,2,2015-10-26 20:30:00,Oumar Niasse,Pass
+73977,21,MissedShots,0.8819999694824219,0.5779999923706055,0.08151689916849136,Petar Skuletic,h,2713,OpenPlay,2015,LeftFoot,2472,Lokomotiv Moscow,Anzhi Makhachkala,0,2,2015-11-21 20:00:00,Maicón,Cross
+73982,44,MissedShots,0.8969999694824219,0.45,0.09515690058469772,Petar Skuletic,h,2713,OpenPlay,2015,LeftFoot,2472,Lokomotiv Moscow,Anzhi Makhachkala,0,2,2015-11-21 20:00:00,Maicón,Cross
+73040,1,SavedShot,0.7369999694824219,0.6609999847412109,0.01876549981534481,Petar Skuletic,h,2713,OpenPlay,2015,LeftFoot,2521,Lokomotiv Moscow,Rubin Kazan,1,0,2016-04-03 18:00:00,Aleksandr Kolomejtsev,Pass
+73044,12,BlockedShot,0.894000015258789,0.59,0.01239859964698553,Petar Skuletic,h,2713,SetPiece,2015,Head,2521,Lokomotiv Moscow,Rubin Kazan,1,0,2016-04-03 18:00:00,Aleksandr Samedov,Aerial
+73047,24,SavedShot,0.8640000152587891,0.4279999923706055,0.06720569729804993,Petar Skuletic,h,2713,OpenPlay,2015,LeftFoot,2521,Lokomotiv Moscow,Rubin Kazan,1,0,2016-04-03 18:00:00,Aleksandr Kolomejtsev,Cross
+73049,34,SavedShot,0.845,0.3820000076293945,0.06606429815292358,Petar Skuletic,h,2713,OpenPlay,2015,LeftFoot,2521,Lokomotiv Moscow,Rubin Kazan,1,0,2016-04-03 18:00:00,Aleksandr Kolomejtsev,Pass
+73057,83,Goal,0.925,0.5259999847412109,0.394991010427475,Petar Skuletic,h,2713,OpenPlay,2015,RightFoot,2521,Lokomotiv Moscow,Rubin Kazan,1,0,2016-04-03 18:00:00,Aleksandr Samedov,Cross
+73679,12,MissedShots,0.7430000305175781,0.6959999847412109,0.01809000037610531,Petar Skuletic,a,2713,OpenPlay,2015,LeftFoot,2532,Krylya Sovetov Samara,Lokomotiv Moscow,0,0,2016-04-11 19:00:00,Aleksandr Kolomejtsev,Pass
+73682,57,MissedShots,0.785,0.6329999923706054,0.10943300276994705,Petar Skuletic,a,2713,OpenPlay,2015,LeftFoot,2532,Krylya Sovetov Samara,Lokomotiv Moscow,0,0,2016-04-11 19:00:00,Aleksandr Kolomejtsev,Throughball
+75491,2,BlockedShot,0.8480000305175781,0.355,0.052769698202610016,Petar Skuletic,a,2713,OpenPlay,2015,RightFoot,2544,Amkar,Lokomotiv Moscow,0,1,2016-04-24 13:00:00,,BallRecovery
+75495,18,Goal,0.9019999694824219,0.47400001525878904,0.30431199073791504,Petar Skuletic,a,2713,OpenPlay,2015,LeftFoot,2544,Amkar,Lokomotiv Moscow,0,1,2016-04-24 13:00:00,Nemanja Pejcinovic,Chipped
+75257,70,MissedShots,0.8919999694824219,0.53,0.025737900286912918,Petar Skuletic,h,2713,OpenPlay,2015,Head,2552,Lokomotiv Moscow,Spartak Moscow,0,2,2016-04-30 20:30:00,Vedran Corluka,Aerial
+75258,72,MissedShots,0.9030000305175782,0.57,0.05444199964404106,Petar Skuletic,h,2713,OpenPlay,2015,Head,2552,Lokomotiv Moscow,Spartak Moscow,0,2,2016-04-30 20:30:00,Nemanja Pejcinovic,Cross
+75263,93,MissedShots,0.8959999847412109,0.67,0.04082620143890381,Petar Skuletic,h,2713,OpenPlay,2015,LeftFoot,2552,Lokomotiv Moscow,Spartak Moscow,0,2,2016-04-30 20:30:00,,None
+75479,10,MissedShots,0.9080000305175782,0.5429999923706055,0.06822259724140167,Petar Skuletic,a,2713,OpenPlay,2015,Head,2558,FC Rostov,Lokomotiv Moscow,2,1,2016-05-06 20:30:00,Alan Kasaev,Cross
+75486,51,Goal,0.9319999694824219,0.5420000076293945,0.10437099635601044,Petar Skuletic,a,2713,FromCorner,2015,Head,2558,FC Rostov,Lokomotiv Moscow,2,1,2016-05-06 20:30:00,Aleksandr Samedov,Cross
+75490,82,MissedShots,0.9380000305175781,0.5540000152587891,0.04902610182762146,Petar Skuletic,a,2713,FromCorner,2015,Head,2558,FC Rostov,Lokomotiv Moscow,2,1,2016-05-06 20:30:00,Aleksandr Samedov,Aerial
+76035,41,SavedShot,0.9259999847412109,0.555,0.05420359969139099,Petar Skuletic,h,2713,OpenPlay,2015,Head,2569,Lokomotiv Moscow,Kuban Krasnodar,0,1,2016-05-11 20:30:00,Vitaliy Denisov,Aerial
+75180,13,MissedShots,0.700999984741211,0.4,0.01288019958883524,Petar Skuletic,h,2713,OpenPlay,2015,LeftFoot,2588,Lokomotiv Moscow,Mordovya,3,0,2016-05-21 14:30:00,Rifat Zhemaletdinov,Pass
+75183,20,SavedShot,0.904000015258789,0.49,0.10533999651670456,Petar Skuletic,h,2713,OpenPlay,2015,Head,2588,Lokomotiv Moscow,Mordovya,3,0,2016-05-21 14:30:00,Vitaliy Denisov,Cross
+75190,41,MissedShots,0.9440000152587891,0.6719999694824219,0.08848030120134354,Petar Skuletic,h,2713,OpenPlay,2015,LeftFoot,2588,Lokomotiv Moscow,Mordovya,3,0,2016-05-21 14:30:00,Aleksandr Kolomejtsev,Pass
+75192,44,SavedShot,0.7619999694824219,0.37099998474121093,0.026950400322675705,Petar Skuletic,h,2713,OpenPlay,2015,RightFoot,2588,Lokomotiv Moscow,Mordovya,3,0,2016-05-21 14:30:00,Rifat Zhemaletdinov,BallRecovery
+75200,54,Goal,0.779000015258789,0.595999984741211,0.03924030065536499,Petar Skuletic,h,2713,OpenPlay,2015,LeftFoot,2588,Lokomotiv Moscow,Mordovya,3,0,2016-05-21 14:30:00,Ezekiel Henty,None
+127343,25,MissedShots,0.9009999847412109,0.45099998474121095,0.037567101418972015,Petar Skuletic,a,2713,OpenPlay,2016,Head,2589,Zenit St. Petersburg,Lokomotiv Moscow,0,0,2016-07-30 18:30:00,Roman Shishkin,Aerial
+127347,56,BlockedShot,0.765,0.5609999847412109,0.025567200034856796,Petar Skuletic,a,2713,OpenPlay,2016,LeftFoot,2589,Zenit St. Petersburg,Lokomotiv Moscow,0,0,2016-07-30 18:30:00,,BallRecovery
+122197,12,Goal,0.885,0.5,0.7542750239372253,Petar Skuletic,h,2713,Penalty,2016,LeftFoot,2601,Lokomotiv Moscow,Tom Tomsk,2,2,2016-08-07 20:00:00,,Standard
+122198,17,SavedShot,0.895,0.54,0.09344319999217987,Petar Skuletic,h,2713,OpenPlay,2016,Head,2601,Lokomotiv Moscow,Tom Tomsk,2,2,2016-08-07 20:00:00,Vitaliy Denisov,Cross
+122200,24,SavedShot,0.885,0.5690000152587891,0.08763449639081955,Petar Skuletic,h,2713,OpenPlay,2016,LeftFoot,2601,Lokomotiv Moscow,Tom Tomsk,2,2,2016-08-07 20:00:00,Roman Shishkin,Cross
+122207,51,MissedShots,0.7809999847412109,0.385,0.039023399353027344,Petar Skuletic,h,2713,OpenPlay,2016,LeftFoot,2601,Lokomotiv Moscow,Tom Tomsk,2,2,2016-08-07 20:00:00,Aleksandr Samedov,Pass
+122355,29,MissedShots,0.909000015258789,0.4329999923706055,0.07793570309877396,Petar Skuletic,a,2713,SetPiece,2016,Head,2611,FK Akhmat,Lokomotiv Moscow,1,1,2016-08-14 21:30:00,Aleksandr Samedov,Cross
+122356,34,Goal,0.9309999847412109,0.5209999847412109,0.13409100472927094,Petar Skuletic,a,2713,SetPiece,2016,Head,2611,FK Akhmat,Lokomotiv Moscow,1,1,2016-08-14 21:30:00,Aleksandr Samedov,Cross
+122359,55,MissedShots,0.8859999847412109,0.475,0.04792039841413498,Petar Skuletic,a,2713,OpenPlay,2016,Head,2611,FK Akhmat,Lokomotiv Moscow,1,1,2016-08-14 21:30:00,Aleksandr Samedov,Cross
+122361,57,MissedShots,0.92,0.5640000152587891,0.05580440163612366,Petar Skuletic,a,2713,OpenPlay,2016,Head,2611,FK Akhmat,Lokomotiv Moscow,1,1,2016-08-14 21:30:00,Vitaliy Denisov,Pass
+122900,31,SavedShot,0.875999984741211,0.48200000762939454,0.028209000825881958,Petar Skuletic,h,2713,OpenPlay,2016,Head,2619,Lokomotiv Moscow,Krylya Sovetov Samara,0,0,2016-08-21 21:30:00,Aleksandr Samedov,Aerial
+122904,47,MissedShots,0.8730000305175781,0.575,0.09822440147399902,Petar Skuletic,h,2713,OpenPlay,2016,LeftFoot,2619,Lokomotiv Moscow,Krylya Sovetov Samara,0,0,2016-08-21 21:30:00,Aleksey Miranchuk,Pass
+122844,87,MissedShots,0.8809999847412109,0.6869999694824219,0.06093820184469223,Petar Skuletic,a,2713,OpenPlay,2016,LeftFoot,2627,FC Krasnodar,Lokomotiv Moscow,1,2,2016-08-28 20:15:00,,None
+123301,15,MissedShots,0.9009999847412109,0.515,0.0813819020986557,Petar Skuletic,h,2713,OpenPlay,2016,Head,2641,Lokomotiv Moscow,FC Ufa,0,1,2016-09-17 20:00:00,Roman Shishkin,Cross
+123304,25,MissedShots,0.9169999694824219,0.590999984741211,0.05245890095829964,Petar Skuletic,h,2713,OpenPlay,2016,Head,2641,Lokomotiv Moscow,FC Ufa,0,1,2016-09-17 20:00:00,Vitaliy Denisov,Cross
+123305,26,SavedShot,0.89,0.515,0.03130489960312843,Petar Skuletic,h,2713,OpenPlay,2016,Head,2641,Lokomotiv Moscow,FC Ufa,0,1,2016-09-17 20:00:00,Roman Shishkin,Interception
+123306,27,MissedShots,0.8969999694824219,0.40700000762939453,0.021409399807453156,Petar Skuletic,h,2713,FromCorner,2016,Head,2641,Lokomotiv Moscow,FC Ufa,0,1,2016-09-17 20:00:00,Aleksey Miranchuk,Cross
+220383,92,MissedShots,0.9309999847412109,0.5570000076293945,0.060120001435279846,Petar Skuletic,h,2713,SetPiece,2018,Head,10667,Montpellier,Saint-Etienne,0,0,2018-08-25 21:00:00,Andy Delort,Aerial
+226515,23,ShotOnPost,0.9069999694824219,0.505,0.05374019965529442,Petar Skuletic,a,2713,OpenPlay,2018,Head,10705,Caen,Montpellier,2,2,2018-09-26 17:00:00,Andy Delort,HeadPass
+226519,32,MissedShots,0.9119999694824219,0.5120000076293946,0.04795210063457489,Petar Skuletic,a,2713,OpenPlay,2018,Head,10705,Caen,Montpellier,2,2,2018-09-26 17:00:00,Andy Delort,Aerial
+226520,36,BlockedShot,0.885,0.4279999923706055,0.026784900575876236,Petar Skuletic,a,2713,FromCorner,2018,Head,10705,Caen,Montpellier,2,2,2018-09-26 17:00:00,Florent Mollet,Cross
+260578,89,SavedShot,0.825999984741211,0.4779999923706055,0.24626600742340088,Petar Skuletic,a,2713,OpenPlay,2018,RightFoot,10726,Guingamp,Montpellier,1,1,2018-10-06 18:00:00,Gaetan Laborde,Pass
+260579,91,SavedShot,0.85,0.5029999923706054,0.00919428002089262,Petar Skuletic,a,2713,SetPiece,2018,Head,10726,Guingamp,Montpellier,1,1,2018-10-06 18:00:00,Paul Lasne,Aerial
+260894,81,SavedShot,0.705,0.5320000076293945,0.026450200006365776,Petar Skuletic,h,2713,OpenPlay,2018,LeftFoot,10736,Montpellier,Bordeaux,2,0,2018-10-21 13:00:00,Junior Sambia,Pass
+260898,89,MissedShots,0.5929999923706055,0.5629999923706055,0.015416200272738934,Petar Skuletic,h,2713,OpenPlay,2018,LeftFoot,10736,Montpellier,Bordeaux,2,0,2018-10-21 13:00:00,Benjamin Lecomte,Pass
+262018,72,SavedShot,0.93,0.5779999923706055,0.03641210123896599,Petar Skuletic,a,2713,OpenPlay,2018,Head,10786,Monaco,Montpellier,1,2,2018-12-01 19:00:00,Gaetan Laborde,Aerial
+262020,77,MissedShots,0.845,0.4759999847412109,0.05354350060224533,Petar Skuletic,a,2713,OpenPlay,2018,LeftFoot,10786,Monaco,Montpellier,1,2,2018-12-01 19:00:00,Junior Sambia,Cross
+262025,85,Goal,0.9030000305175782,0.5029999923706054,0.561680018901825,Petar Skuletic,a,2713,OpenPlay,2018,LeftFoot,10786,Monaco,Montpellier,1,2,2018-12-01 19:00:00,Andy Delort,TakeOn
+282046,84,MissedShots,0.919000015258789,0.4909999847412109,0.36597898602485657,Petar Skuletic,a,2713,SetPiece,2018,Head,10819,Nantes,Montpellier,2,0,2019-01-08 18:00:00,Florent Mollet,Aerial
+282254,29,SavedShot,0.9359999847412109,0.4759999847412109,0.5855969786643982,Petar Skuletic,a,2713,OpenPlay,2018,RightFoot,10841,Dijon,Montpellier,1,1,2019-01-13 16:00:00,,Rebound
+282256,37,SavedShot,0.765,0.42900001525878906,0.02723100036382675,Petar Skuletic,a,2713,OpenPlay,2018,LeftFoot,10841,Dijon,Montpellier,1,1,2019-01-13 16:00:00,Florent Mollet,Pass
+282266,66,MissedShots,0.865,0.585,0.056485600769519806,Petar Skuletic,a,2713,OpenPlay,2018,LeftFoot,10841,Dijon,Montpellier,1,1,2019-01-13 16:00:00,Ambroise Oyongo,Cross
+282269,87,SavedShot,0.8109999847412109,0.5129999923706055,0.0433460995554924,Petar Skuletic,a,2713,SetPiece,2018,RightFoot,10841,Dijon,Montpellier,1,1,2019-01-13 16:00:00,,None
+282271,91,BlockedShot,0.7980000305175782,0.6969999694824218,0.02525229938328266,Petar Skuletic,a,2713,OpenPlay,2018,LeftFoot,10841,Dijon,Montpellier,1,1,2019-01-13 16:00:00,Paul Lasne,Pass
+283036,64,SavedShot,0.779000015258789,0.47400001525878904,0.03225630149245262,Petar Skuletic,a,2713,OpenPlay,2018,LeftFoot,10866,Nimes,Montpellier,1,1,2019-02-03 14:00:00,Damien Le Tallec,HeadPass
+283039,72,SavedShot,0.870999984741211,0.6179999923706054,0.0742494985461235,Petar Skuletic,a,2713,OpenPlay,2018,LeftFoot,10866,Nimes,Montpellier,1,1,2019-02-03 14:00:00,Junior Sambia,Pass
+283551,23,MissedShots,0.9119999694824219,0.5270000076293946,0.033803001046180725,Petar Skuletic,a,2713,FromCorner,2018,Head,10886,Lille,Montpellier,0,0,2019-02-17 14:00:00,Florent Mollet,Aerial
+283552,26,BlockedShot,0.895,0.44099998474121094,0.10059799998998642,Petar Skuletic,a,2713,OpenPlay,2018,LeftFoot,10886,Lille,Montpellier,0,0,2019-02-17 14:00:00,Mihailo Ristic,CornerAwarded
+283556,43,BlockedShot,0.9219999694824219,0.5420000076293945,0.05809469893574715,Petar Skuletic,a,2713,SetPiece,2018,Head,10886,Lille,Montpellier,0,0,2019-02-17 14:00:00,Florent Mollet,Aerial
+283559,51,MissedShots,0.8719999694824219,0.525,0.37864598631858826,Petar Skuletic,a,2713,OpenPlay,2018,LeftFoot,10886,Lille,Montpellier,0,0,2019-02-17 14:00:00,,None
+283630,7,SavedShot,0.8630000305175781,0.4929999923706055,0.08897610008716583,Petar Skuletic,a,2713,OpenPlay,2018,LeftFoot,10808,Paris Saint Germain,Montpellier,5,1,2019-02-20 20:00:00,,Dispossessed
+283652,75,SavedShot,0.9,0.4540000152587891,0.10440099984407425,Petar Skuletic,a,2713,OpenPlay,2018,LeftFoot,10808,Paris Saint Germain,Montpellier,5,1,2019-02-20 20:00:00,,Rebound
+283656,82,MissedShots,0.8080000305175781,0.6179999923706054,0.029227299615740776,Petar Skuletic,a,2713,OpenPlay,2018,LeftFoot,10808,Paris Saint Germain,Montpellier,5,1,2019-02-20 20:00:00,,None
+283833,90,SavedShot,0.9069999694824219,0.4620000076293945,0.07019209861755371,Petar Skuletic,h,2713,SetPiece,2018,OtherBodyPart,10896,Montpellier,Reims,2,4,2019-02-24 14:00:00,Andy Delort,Cross
+284101,85,BlockedShot,0.8430000305175781,0.46799999237060547,0.09804149717092514,Petar Skuletic,a,2713,OpenPlay,2018,LeftFoot,10905,Bordeaux,Montpellier,1,2,2019-03-05 18:00:00,Gaetan Laborde,Pass
+284106,91,MissedShots,0.7809999847412109,0.48,0.09977059811353683,Petar Skuletic,a,2713,OpenPlay,2018,LeftFoot,10905,Bordeaux,Montpellier,1,2,2019-03-05 18:00:00,Gaetan Laborde,TakeOn
+284994,89,MissedShots,0.93,0.45,0.13925699889659882,Petar Skuletic,h,2713,OpenPlay,2018,Head,10919,Montpellier,Angers,2,2,2019-03-10 14:00:00,Andy Delort,Cross
+292711,91,MissedShots,0.915,0.565,0.08427300304174423,Petar Skuletic,a,2713,OpenPlay,2018,LeftFoot,10952,Nice,Montpellier,1,0,2019-04-07 16:00:00,Souleymane Camara,HeadPass
+302894,86,BlockedShot,0.9290000152587891,0.6020000076293945,0.030482500791549683,Petar Skuletic,h,2713,OpenPlay,2018,Head,11008,Montpellier,Nantes,1,1,2019-05-18 19:00:00,Florent Mollet,Aerial
+302895,88,MissedShots,0.905,0.49700000762939456,0.050849299877882004,Petar Skuletic,h,2713,OpenPlay,2018,Head,11008,Montpellier,Nantes,1,1,2019-05-18 19:00:00,Andy Delort,Aerial
+323308,45,SavedShot,0.885,0.5,0.7600950002670288,Petar Skuletic,a,2713,Penalty,2019,LeftFoot,12785,Strasbourg,Montpellier,1,0,2019-09-29 13:00:00,,Standard
+323310,46,MissedShots,0.8030000305175782,0.6959999847412109,0.02589460089802742,Petar Skuletic,a,2713,OpenPlay,2019,LeftFoot,12785,Strasbourg,Montpellier,1,0,2019-09-29 13:00:00,,Rebound
+323311,49,MissedShots,0.8719999694824219,0.475,0.07091160118579865,Petar Skuletic,a,2713,OpenPlay,2019,LeftFoot,12785,Strasbourg,Montpellier,1,0,2019-09-29 13:00:00,,None
+325953,87,MissedShots,0.9230000305175782,0.5120000076293946,0.05248149856925011,Petar Skuletic,a,2713,FromCorner,2019,Head,12799,Reims,Montpellier,1,0,2019-10-19 19:00:00,Téji Savanier,Aerial
+336741,80,SavedShot,0.9469999694824218,0.6959999847412109,0.053672999143600464,Petar Skuletic,a,2713,OpenPlay,2019,LeftFoot,12885,Lille,Montpellier,2,1,2019-12-13 19:45:00,Mihailo Ristic,None
+376118,93,SavedShot,0.8730000305175781,0.445,0.016784900799393654,Petar Skuletic,a,2713,OpenPlay,2020,Head,13994,Rennes,Montpellier,2,1,2020-08-29 15:00:00,Joris Chotard,Aerial
+384942,83,BlockedShot,0.8780000305175781,0.534000015258789,0.05193290114402771,Petar Skuletic,a,2713,SetPiece,2020,Head,15843,Saint-Etienne,Montpellier,0,1,2020-11-01 12:00:00,Andy Delort,Cross
+384943,83,MissedShots,0.8569999694824219,0.6569999694824219,0.07257650047540665,Petar Skuletic,a,2713,OpenPlay,2020,RightFoot,15843,Saint-Etienne,Montpellier,0,1,2020-11-01 12:00:00,Gaetan Laborde,Pass
+389361,78,Goal,0.8440000152587891,0.5570000076293945,0.11724600195884705,Petar Skuletic,a,2713,OpenPlay,2020,LeftFoot,15868,Lorient,Montpellier,0,1,2020-11-29 14:00:00,Andy Delort,Pass
+390444,92,MissedShots,0.925,0.715,0.02597299963235855,Petar Skuletic,h,2713,OpenPlay,2020,LeftFoot,15881,Montpellier,Paris Saint Germain,1,3,2020-12-05 20:00:00,,Rebound
+402595,78,MissedShots,0.8930000305175781,0.545,0.030924199149012566,Petar Skuletic,a,2713,OpenPlay,2020,Head,15979,Metz,Montpellier,1,1,2021-02-03 18:00:00,Arnaud Souquet,Aerial
+403645,90,Goal,0.955,0.4759999847412109,0.6568970084190369,Petar Skuletic,h,2713,SetPiece,2020,RightFoot,15986,Montpellier,Dijon,4,2,2021-02-07 14:00:00,,Rebound
+403646,93,SavedShot,0.9319999694824219,0.5270000076293946,0.49787700176239014,Petar Skuletic,h,2713,OpenPlay,2020,Head,15986,Montpellier,Dijon,4,2,2021-02-07 14:00:00,Gaetan Laborde,HeadPass
+407201,27,MissedShots,0.7,0.5779999923706055,0.010617700405418873,Petar Skuletic,a,2713,OpenPlay,2020,LeftFoot,16023,Reims,Montpellier,0,0,2021-02-28 14:00:00,,None
+408139,93,MissedShots,0.9180000305175782,0.5529999923706055,0.05024790018796921,Petar Skuletic,h,2713,OpenPlay,2020,Head,16031,Montpellier,Lorient,1,1,2021-03-03 20:00:00,Arnaud Souquet,End

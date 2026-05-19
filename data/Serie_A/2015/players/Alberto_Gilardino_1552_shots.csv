@@ -1,0 +1,75 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+46693,93,SavedShot,0.925,0.6719999694824219,0.10236600041389465,Alberto Gilardino,a,1552,OpenPlay,2014,LeftFoot,4997,Genoa,Fiorentina,1,1,2015-01-31 17:00:00,Matías Fernández,Pass
+47304,89,BlockedShot,0.875,0.4420000076293945,0.11086700111627579,Alberto Gilardino,h,1552,OpenPlay,2014,LeftFoot,4952,Fiorentina,Torino,1,1,2015-02-22 19:45:00,Mohamed Salah,Pass
+48592,84,MissedShots,0.925,0.49900001525878906,0.11146699637174606,Alberto Gilardino,h,1552,FromCorner,2014,Head,4907,Fiorentina,AC Milan,2,1,2015-03-16 18:00:00,Manuel Pasqual,Cross
+49113,28,SavedShot,0.8909999847412109,0.669000015258789,0.010140899568796158,Alberto Gilardino,h,1552,OpenPlay,2014,Head,4860,Fiorentina,Verona,0,1,2015-04-20 19:45:00,Andrea Lazzari,Cross
+49128,71,MissedShots,0.9019999694824219,0.40400001525878904,0.026272300630807877,Alberto Gilardino,h,1552,FromCorner,2014,Head,4860,Fiorentina,Verona,0,1,2015-04-20 19:45:00,Alessandro Diamanti,Cross
+49470,32,MissedShots,0.9230000305175782,0.61,0.04665819928050041,Alberto Gilardino,h,1552,OpenPlay,2014,Head,4869,Fiorentina,Cagliari,1,3,2015-04-26 17:00:00,Manuel Pasqual,Cross
+49475,54,SavedShot,0.9209999847412109,0.5170000076293946,0.35085299611091614,Alberto Gilardino,h,1552,OpenPlay,2014,Head,4869,Fiorentina,Cagliari,1,3,2015-04-26 17:00:00,Juan Vargas,Cross
+49484,73,Goal,0.924000015258789,0.5179999923706055,0.4264270067214966,Alberto Gilardino,h,1552,OpenPlay,2014,LeftFoot,4869,Fiorentina,Cagliari,1,3,2015-04-26 17:00:00,Juan Vargas,Rebound
+51117,55,Goal,0.919000015258789,0.505,0.47189798951148987,Alberto Gilardino,h,1552,OpenPlay,2014,RightFoot,4785,Fiorentina,Cesena,3,1,2015-05-03 14:00:00,Jasmin Kurtic,Cross
+50473,29,Goal,0.9740000152587891,0.565,0.1261969953775406,Alberto Gilardino,h,1552,FromCorner,2014,Head,4807,Fiorentina,Parma,3,0,2015-05-18 18:00:00,Matías Fernández,Cross
+50475,43,MissedShots,0.9340000152587891,0.48700000762939455,0.44153499603271484,Alberto Gilardino,h,1552,FromCorner,2014,RightFoot,4807,Fiorentina,Parma,3,0,2015-05-18 18:00:00,Josip Ilicic,Cross
+50487,60,SavedShot,0.91,0.4929999923706055,0.12137600034475327,Alberto Gilardino,h,1552,OpenPlay,2014,Head,4807,Fiorentina,Parma,3,0,2015-05-18 18:00:00,Manuel Pasqual,Cross
+50931,32,Goal,0.9319999694824219,0.495,0.5703920125961304,Alberto Gilardino,a,1552,OpenPlay,2014,RightFoot,4814,Palermo,Fiorentina,2,3,2015-05-24 14:00:00,Matías Fernández,Rebound
+49927,1,BlockedShot,0.8040000152587891,0.4929999923706055,0.04986349865794182,Alberto Gilardino,h,1552,OpenPlay,2014,RightFoot,4828,Fiorentina,Chievo,3,0,2015-05-31 19:45:00,Mohamed Salah,Pass
+49950,49,SavedShot,0.9230000305175782,0.3940000152587891,0.276172012090683,Alberto Gilardino,h,1552,OpenPlay,2014,RightFoot,4828,Fiorentina,Chievo,3,0,2015-05-31 19:45:00,Borja Valero,TakeOn
+49961,80,SavedShot,0.914000015258789,0.29600000381469727,0.07836350053548813,Alberto Gilardino,h,1552,OpenPlay,2014,RightFoot,4828,Fiorentina,Chievo,3,0,2015-05-31 19:45:00,Nenad Tomovic,Pass
+96053,93,MissedShots,0.8919999694824219,0.5579999923706055,0.05045409873127937,Alberto Gilardino,a,1552,OpenPlay,2015,Head,606,Torino,Palermo,2,1,2015-09-27 17:00:00,Achraf Lazaar,Cross
+96408,57,Goal,0.889000015258789,0.385,0.2950359880924225,Alberto Gilardino,h,1552,OpenPlay,2015,LeftFoot,614,Palermo,Roma,2,4,2015-10-04 17:00:00,Franco Vázquez,TakeOn
+96414,70,SavedShot,0.9519999694824218,0.5529999923706055,0.12466300278902054,Alberto Gilardino,h,1552,FromCorner,2015,Head,614,Palermo,Roma,2,4,2015-10-04 17:00:00,Robin Quaison,Cross
+96776,25,ShotOnPost,0.91,0.544000015258789,0.11840300261974335,Alberto Gilardino,a,1552,OpenPlay,2015,Head,623,Bologna,Palermo,0,1,2015-10-18 14:30:00,Achraf Lazaar,Cross
+96778,28,MissedShots,0.9269999694824219,0.39599998474121095,0.04264720156788826,Alberto Gilardino,a,1552,OpenPlay,2015,Head,623,Bologna,Palermo,0,1,2015-10-18 14:30:00,Andrea Rispoli,Aerial
+96781,40,BlockedShot,0.9069999694824219,0.6409999847412109,0.025473900139331818,Alberto Gilardino,a,1552,OpenPlay,2015,Head,623,Bologna,Palermo,0,1,2015-10-18 14:30:00,Franco Vázquez,Cross
+96782,43,BlockedShot,0.9830000305175781,0.40799999237060547,0.22732099890708923,Alberto Gilardino,a,1552,OpenPlay,2015,Head,623,Bologna,Palermo,0,1,2015-10-18 14:30:00,Achraf Lazaar,Cross
+96789,83,BlockedShot,0.9680000305175781,0.38799999237060545,0.03013419918715954,Alberto Gilardino,a,1552,FromCorner,2015,Head,623,Bologna,Palermo,0,1,2015-10-18 14:30:00,Franco Vázquez,Cross
+96790,87,BlockedShot,0.915,0.48700000762939455,0.50873202085495,Alberto Gilardino,a,1552,OpenPlay,2015,RightFoot,623,Bologna,Palermo,0,1,2015-10-18 14:30:00,Franco Vázquez,Pass
+97410,4,MissedShots,0.899000015258789,0.5259999847412109,0.0877574011683464,Alberto Gilardino,h,1552,OpenPlay,2015,Head,633,Palermo,Inter,1,1,2015-10-24 22:45:00,Achraf Lazaar,Cross
+97412,25,MissedShots,0.9209999847412109,0.43599998474121093,0.10777200013399124,Alberto Gilardino,h,1552,OpenPlay,2015,Head,633,Palermo,Inter,1,1,2015-10-24 22:45:00,Andrea Rispoli,Cross
+97426,65,Goal,0.9580000305175781,0.47200000762939454,0.6260240077972412,Alberto Gilardino,h,1552,FromCorner,2015,RightFoot,633,Palermo,Inter,1,1,2015-10-24 22:45:00,,Rebound
+97857,46,MissedShots,0.9259999847412109,0.41,0.01817370019853115,Alberto Gilardino,a,1552,FromCorner,2015,Head,645,Napoli,Palermo,2,0,2015-10-28 23:45:00,Oscar Hiljemark,Aerial
+98430,48,ShotOnPost,0.7959999847412109,0.544000015258789,0.04545219987630844,Alberto Gilardino,h,1552,OpenPlay,2015,RightFoot,660,Palermo,Empoli,0,1,2015-11-03 00:00:00,Oscar Hiljemark,Pass
+98444,94,MissedShots,0.885,0.4879999923706055,0.06195969879627228,Alberto Gilardino,h,1552,OpenPlay,2015,Head,660,Palermo,Empoli,0,1,2015-11-03 00:00:00,Franco Vázquez,Cross
+98855,46,SavedShot,0.8730000305175781,0.4179999923706055,0.1009569987654686,Alberto Gilardino,h,1552,OpenPlay,2015,LeftFoot,665,Palermo,Chievo,1,0,2015-11-08 18:00:00,Enzo Maresca,Pass
+98857,51,MissedShots,0.895,0.5309999847412109,0.029517000541090965,Alberto Gilardino,h,1552,SetPiece,2015,Head,665,Palermo,Chievo,1,0,2015-11-08 18:00:00,Franco Vázquez,Aerial
+98863,70,Goal,0.95,0.500999984741211,0.39406800270080566,Alberto Gilardino,h,1552,FromCorner,2015,Head,665,Palermo,Chievo,1,0,2015-11-08 18:00:00,Sinisa Andjelkovic,HeadPass
+98868,82,MissedShots,0.9740000152587891,0.3529999923706055,0.03812029957771301,Alberto Gilardino,h,1552,FromCorner,2015,RightFoot,665,Palermo,Chievo,1,0,2015-11-08 18:00:00,Franco Vázquez,Cross
+99441,65,SavedShot,0.9259999847412109,0.515,0.1329360008239746,Alberto Gilardino,a,1552,OpenPlay,2015,LeftFoot,674,Lazio,Palermo,1,1,2015-11-22 18:00:00,Ivaylo Chochev,Cross
+99899,28,MissedShots,0.9680000305175781,0.34400001525878904,0.05558209866285324,Alberto Gilardino,h,1552,OpenPlay,2015,RightFoot,688,Palermo,Juventus,0,3,2015-11-29 23:45:00,,Rebound
+100250,62,MissedShots,0.9690000152587891,0.664000015258789,0.06057479977607727,Alberto Gilardino,a,1552,OpenPlay,2015,LeftFoot,695,Atalanta,Palermo,3,0,2015-12-06 18:00:00,Gastón Brugman,Pass
+100257,87,MissedShots,0.95,0.5770000076293945,0.12533000111579895,Alberto Gilardino,a,1552,OpenPlay,2015,Head,695,Atalanta,Palermo,3,0,2015-12-06 18:00:00,Giuseppe Pezzella,Cross
+100944,70,MissedShots,0.8069999694824219,0.4909999847412109,0.06543230265378952,Alberto Gilardino,h,1552,OpenPlay,2015,LeftFoot,702,Palermo,Frosinone,4,1,2015-12-12 21:00:00,Ivaylo Chochev,Pass
+100951,85,Goal,0.985999984741211,0.47,0.8785549998283386,Alberto Gilardino,h,1552,OpenPlay,2015,Head,702,Palermo,Frosinone,4,1,2015-12-12 21:00:00,,Rebound
+101479,16,MissedShots,0.9169999694824219,0.5940000152587891,0.089547298848629,Alberto Gilardino,a,1552,OpenPlay,2015,RightFoot,716,Sampdoria,Palermo,2,0,2015-12-20 21:00:00,,None
+101483,31,SavedShot,0.865999984741211,0.41,0.05231250077486038,Alberto Gilardino,a,1552,OpenPlay,2015,RightFoot,716,Sampdoria,Palermo,2,0,2015-12-20 21:00:00,Aleksandar Trajkovski,Cross
+101489,52,MissedShots,0.884000015258789,0.644000015258789,0.015147999860346317,Alberto Gilardino,a,1552,SetPiece,2015,Head,716,Sampdoria,Palermo,2,0,2015-12-20 21:00:00,Aleksandar Trajkovski,Cross
+101978,76,Goal,0.9459999847412109,0.4520000076293945,0.14966599643230438,Alberto Gilardino,h,1552,OpenPlay,2015,Head,723,Palermo,Fiorentina,1,3,2016-01-06 18:00:00,Franco Vázquez,Cross
+94315,77,MissedShots,0.9280000305175782,0.3559999847412109,0.03774169832468033,Alberto Gilardino,a,1552,OpenPlay,2015,RightFoot,743,Genoa,Palermo,4,0,2016-01-17 15:30:00,Franco Vázquez,Cross
+94364,9,MissedShots,0.9669999694824218,0.5979999923706054,0.054600898176431656,Alberto Gilardino,h,1552,FromCorner,2015,Head,759,Palermo,Udinese,4,1,2016-01-24 18:00:00,Oscar Hiljemark,Cross
+94368,26,MissedShots,0.89,0.7030000305175781,0.279789000749588,Alberto Gilardino,h,1552,OpenPlay,2015,RightFoot,759,Palermo,Udinese,4,1,2016-01-24 18:00:00,Achraf Lazaar,Chipped
+94371,30,MissedShots,0.9230000305175782,0.43400001525878906,0.04795460030436516,Alberto Gilardino,h,1552,OpenPlay,2015,Head,759,Palermo,Udinese,4,1,2016-01-24 18:00:00,Ivaylo Chochev,Aerial
+94752,23,Goal,0.9059999847412109,0.46599998474121096,0.4468750059604645,Alberto Gilardino,a,1552,OpenPlay,2015,LeftFoot,761,Carpi,Palermo,1,1,2016-01-30 18:00:00,Oscar Hiljemark,Pass
+95436,38,MissedShots,0.935,0.4329999923706055,0.2938089966773987,Alberto Gilardino,h,1552,OpenPlay,2015,Head,776,Palermo,AC Milan,0,2,2016-02-03 23:45:00,Robin Quaison,Cross
+95897,1,Goal,0.899000015258789,0.445,0.40378299355506897,Alberto Gilardino,h,1552,OpenPlay,2015,LeftFoot,797,Palermo,Torino,1,3,2016-02-14 18:00:00,Michel Morganella,Pass
+95900,8,BlockedShot,0.8719999694824219,0.34700000762939454,0.06122089922428131,Alberto Gilardino,h,1552,OpenPlay,2015,RightFoot,797,Palermo,Torino,1,3,2016-02-14 18:00:00,,Rebound
+95921,54,SavedShot,0.9290000152587891,0.34700000762939454,0.042735300958156586,Alberto Gilardino,h,1552,OpenPlay,2015,RightFoot,797,Palermo,Torino,1,3,2016-02-14 18:00:00,Franco Vázquez,Cross
+95923,58,MissedShots,0.8769999694824219,0.4329999923706055,0.06823360174894333,Alberto Gilardino,h,1552,OpenPlay,2015,LeftFoot,797,Palermo,Torino,1,3,2016-02-14 18:00:00,,Dispossessed
+99071,2,MissedShots,0.97,0.4209999847412109,0.11499900370836258,Alberto Gilardino,a,1552,OpenPlay,2015,RightFoot,854,Chievo,Palermo,3,1,2016-04-03 17:00:00,Franco Vázquez,Cross
+99074,8,MissedShots,0.769000015258789,0.41900001525878905,0.017276300117373466,Alberto Gilardino,a,1552,OpenPlay,2015,LeftFoot,854,Chievo,Palermo,3,1,2016-04-03 17:00:00,Aleksandar Trajkovski,Chipped
+99077,18,SavedShot,0.9159999847412109,0.36900001525878906,0.05499880015850067,Alberto Gilardino,a,1552,OpenPlay,2015,RightFoot,854,Chievo,Palermo,3,1,2016-04-03 17:00:00,Franco Vázquez,Cross
+99080,27,Goal,0.935,0.53,0.7505120038986206,Alberto Gilardino,a,1552,OpenPlay,2015,RightFoot,854,Chievo,Palermo,3,1,2016-04-03 17:00:00,Gastón Brugman,TakeOn
+100493,86,MissedShots,0.935,0.46599998474121096,0.14043700695037842,Alberto Gilardino,h,1552,FromCorner,2015,LeftFoot,884,Palermo,Atalanta,2,2,2016-04-20 22:45:00,Giancarlo Gonzalez,Rebound
+101189,16,BlockedShot,0.9269999694824219,0.38,0.07684200257062912,Alberto Gilardino,a,1552,OpenPlay,2015,RightFoot,892,Frosinone,Palermo,0,2,2016-04-24 14:30:00,Andrea Rispoli,Cross
+101200,55,Goal,0.9330000305175781,0.49700000762939456,0.4558759927749634,Alberto Gilardino,a,1552,OpenPlay,2015,Head,892,Frosinone,Palermo,0,2,2016-04-24 14:30:00,Andrea Rispoli,Cross
+101753,74,SavedShot,0.9080000305175782,0.590999984741211,0.3881610035896301,Alberto Gilardino,h,1552,OpenPlay,2015,LeftFoot,904,Palermo,Sampdoria,2,0,2016-05-01 17:00:00,Franco Vázquez,Pass
+102276,46,MissedShots,0.919000015258789,0.3609999847412109,0.06435190141201019,Alberto Gilardino,a,1552,OpenPlay,2015,RightFoot,915,Fiorentina,Palermo,0,0,2016-05-08 17:00:00,Andrea Rispoli,Cross
+102789,63,Goal,0.955999984741211,0.5229999923706055,0.6062449812889099,Alberto Gilardino,h,1552,OpenPlay,2015,Head,930,Palermo,Verona,3,2,2016-05-15 22:45:00,Andrea Rispoli,Cross
+145082,64,SavedShot,0.9169999694824219,0.43400001525878906,0.07298310101032257,Alberto Gilardino,a,1552,FromCorner,2016,Head,947,Udinese,Empoli,2,0,2016-08-28 22:45:00,Giuseppe Bellusci,Cross
+147036,42,SavedShot,0.9390000152587891,0.519000015258789,0.4828130006790161,Alberto Gilardino,a,1552,OpenPlay,2016,Head,986,Lazio,Empoli,2,0,2016-09-25 17:00:00,Manuel Pucciarelli,Cross
+148024,26,MissedShots,0.855999984741211,0.315,0.04308430105447769,Alberto Gilardino,a,1552,OpenPlay,2016,RightFoot,1004,Genoa,Empoli,0,0,2016-10-16 17:00:00,Manuel Pucciarelli,Pass
+148027,38,SavedShot,0.8980000305175782,0.30100000381469727,0.05162990093231201,Alberto Gilardino,a,1552,OpenPlay,2016,RightFoot,1004,Genoa,Empoli,0,0,2016-10-16 17:00:00,Riccardo Saponara,Pass
+149649,3,MissedShots,0.9319999694824219,0.5720000076293945,0.10562299937009811,Alberto Gilardino,h,1552,OpenPlay,2016,RightFoot,3296,Empoli,Roma,0,0,2016-10-30 18:00:00,Manuel Pasqual,Cross
+152319,73,SavedShot,0.89,0.47,0.04397759959101677,Alberto Gilardino,a,1552,FromCorner,2016,Head,3082,Bologna,Empoli,0,0,2016-12-11 18:00:00,Manuel Pasqual,Cross
+144789,66,MissedShots,0.9030000305175782,0.3629999923706055,0.2616960108280182,Alberto Gilardino,a,1552,OpenPlay,2016,RightFoot,3535,Napoli,Pescara,3,1,2017-01-15 18:00:00,,None
+153246,92,MissedShots,0.9740000152587891,0.5879999923706055,0.1270660012960434,Alberto Gilardino,a,1552,OpenPlay,2016,RightFoot,3699,Bologna,Pescara,3,1,2017-05-14 14:00:00,Ledian Memushaj,Pass
+153247,94,MissedShots,0.9530000305175781,0.544000015258789,0.1270429939031601,Alberto Gilardino,a,1552,FromCorner,2016,Head,3699,Bologna,Pescara,3,1,2017-05-14 14:00:00,Ledian Memushaj,Cross

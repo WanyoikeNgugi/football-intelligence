@@ -1,0 +1,89 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+80326,14,SavedShot,0.7090000152587891,0.5879999923706055,0.028021300211548805,Darío Lezcano,a,2636,OpenPlay,2015,RightFoot,1185,Borussia Dortmund,Ingolstadt,2,0,2016-01-30 18:30:00,Moritz Hartmann,BallRecovery
+80722,30,MissedShots,0.93,0.6120000076293945,0.023855900391936302,Darío Lezcano,h,2636,OpenPlay,2015,Head,1197,Ingolstadt,Augsburg,2,1,2016-02-06 18:30:00,Pascal Groß,Aerial
+80728,37,MissedShots,0.9269999694824219,0.415,0.06355380266904831,Darío Lezcano,h,2636,FromCorner,2015,Head,1197,Ingolstadt,Augsburg,2,1,2016-02-06 18:30:00,Pascal Groß,Cross
+80731,38,MissedShots,0.7380000305175781,0.5520000076293945,0.020679200068116188,Darío Lezcano,h,2636,OpenPlay,2015,LeftFoot,1197,Ingolstadt,Augsburg,2,1,2016-02-06 18:30:00,Pascal Groß,Pass
+80742,67,MissedShots,0.894000015258789,0.5659999847412109,0.08421769738197327,Darío Lezcano,h,2636,OpenPlay,2015,RightFoot,1197,Ingolstadt,Augsburg,2,1,2016-02-06 18:30:00,,None
+80741,67,BlockedShot,0.774000015258789,0.47400001525878904,0.09249970316886902,Darío Lezcano,h,2636,DirectFreekick,2015,RightFoot,1197,Ingolstadt,Augsburg,2,1,2016-02-06 18:30:00,,Standard
+80769,16,BlockedShot,0.8690000152587891,0.41700000762939454,0.03360069915652275,Darío Lezcano,a,2636,SetPiece,2015,LeftFoot,1204,Wolfsburg,Ingolstadt,2,0,2016-02-13 18:30:00,Pascal Groß,Cross
+80785,83,BlockedShot,0.860999984741211,0.625999984741211,0.045159898698329926,Darío Lezcano,a,2636,OpenPlay,2015,RightFoot,1204,Wolfsburg,Ingolstadt,2,0,2016-02-13 18:30:00,Benjamin Hübner,Chipped
+81189,11,SavedShot,0.9569999694824218,0.5279999923706055,0.6593660116195679,Darío Lezcano,h,2636,SetPiece,2015,RightFoot,1214,Ingolstadt,Werder Bremen,2,0,2016-02-20 18:30:00,,Rebound
+81282,53,SavedShot,0.86,0.55,0.01750430092215538,Darío Lezcano,a,2636,SetPiece,2015,Head,1222,Hamburger SV,Ingolstadt,1,1,2016-02-27 18:30:00,Pascal Groß,Pass
+81286,68,MissedShots,0.8880000305175781,0.46599998474121096,0.03834310173988342,Darío Lezcano,a,2636,OpenPlay,2015,Head,1222,Hamburger SV,Ingolstadt,1,1,2016-02-27 18:30:00,Mathew Leckie,Aerial
+81638,3,SavedShot,0.8780000305175781,0.6090000152587891,0.00858341995626688,Darío Lezcano,h,2636,SetPiece,2015,Head,1229,Ingolstadt,FC Cologne,1,1,2016-03-01 23:00:00,Pascal Groß,Aerial
+82122,22,SavedShot,0.7909999847412109,0.54,0.11415699869394302,Darío Lezcano,h,2636,DirectFreekick,2015,RightFoot,1248,Ingolstadt,VfB Stuttgart,3,3,2016-03-12 18:30:00,,Standard
+82123,27,BlockedShot,0.909000015258789,0.30100000381469727,0.06842979788780212,Darío Lezcano,h,2636,OpenPlay,2015,LeftFoot,1248,Ingolstadt,VfB Stuttgart,3,3,2016-03-12 18:30:00,Max Christiansen,TakeOn
+82136,52,MissedShots,0.74,0.6940000152587891,0.043333400040864944,Darío Lezcano,h,2636,DirectFreekick,2015,RightFoot,1248,Ingolstadt,VfB Stuttgart,3,3,2016-03-12 18:30:00,,Standard
+82138,57,MissedShots,0.73,0.740999984741211,0.011983700096607208,Darío Lezcano,h,2636,OpenPlay,2015,RightFoot,1248,Ingolstadt,VfB Stuttgart,3,3,2016-03-12 18:30:00,,None
+82139,60,Goal,0.755,0.5820000076293945,0.06788980215787888,Darío Lezcano,h,2636,DirectFreekick,2015,RightFoot,1248,Ingolstadt,VfB Stuttgart,3,3,2016-03-12 18:30:00,,Standard
+82143,74,MissedShots,0.870999984741211,0.5990000152587891,0.41822999715805054,Darío Lezcano,h,2636,OpenPlay,2015,RightFoot,1248,Ingolstadt,VfB Stuttgart,3,3,2016-03-12 18:30:00,,None
+82386,46,MissedShots,0.7969999694824219,0.5520000076293945,0.03851480036973953,Darío Lezcano,a,2636,OpenPlay,2015,RightFoot,1260,Hertha Berlin,Ingolstadt,2,1,2016-03-19 18:30:00,Moritz Hartmann,HeadPass
+82583,6,BlockedShot,0.9290000152587891,0.28600000381469726,0.05839730054140091,Darío Lezcano,h,2636,OpenPlay,2015,RightFoot,1267,Ingolstadt,Schalke 04,3,0,2016-04-02 17:30:00,Lukas Hinterseer,HeadPass
+82596,64,Goal,0.904000015258789,0.504000015258789,0.4647989869117737,Darío Lezcano,h,2636,OpenPlay,2015,LeftFoot,1267,Ingolstadt,Schalke 04,3,0,2016-04-02 17:30:00,Danny da Costa,BlockedPass
+83039,48,BlockedShot,0.7019999694824218,0.639000015258789,0.03591199964284897,Darío Lezcano,a,2636,DirectFreekick,2015,RightFoot,1284,Darmstadt,Ingolstadt,2,0,2016-04-16 17:30:00,,Standard
+83043,64,SavedShot,0.8619999694824219,0.6329999923706054,0.07156900316476822,Darío Lezcano,a,2636,OpenPlay,2015,RightFoot,1284,Darmstadt,Ingolstadt,2,0,2016-04-16 17:30:00,Marvin Matip,TakeOn
+83442,10,SavedShot,0.905,0.4520000076293945,0.46119800209999084,Darío Lezcano,a,2636,OpenPlay,2015,LeftFoot,1302,Hoffenheim,Ingolstadt,2,1,2016-04-30 17:30:00,,None
+83449,41,MissedShots,0.9259999847412109,0.5770000076293945,0.0896247997879982,Darío Lezcano,a,2636,OpenPlay,2015,Head,1302,Hoffenheim,Ingolstadt,2,1,2016-04-30 17:30:00,Alfredo Morales,Cross
+83716,37,MissedShots,0.8919999694824219,0.5359999847412109,0.02387630008161068,Darío Lezcano,h,2636,SetPiece,2015,Head,1317,Ingolstadt,Bayern Munich,1,2,2016-05-07 17:30:00,Pascal Groß,Aerial
+83717,39,MissedShots,0.9290000152587891,0.48200000762939454,0.13794299960136414,Darío Lezcano,h,2636,SetPiece,2015,Head,1317,Ingolstadt,Bayern Munich,1,2,2016-05-07 17:30:00,Markus Suttner,Cross
+83879,70,MissedShots,0.9069999694824219,0.5820000076293945,0.3962230086326599,Darío Lezcano,a,2636,OpenPlay,2015,RightFoot,1323,Bayer Leverkusen,Ingolstadt,3,2,2016-05-14 17:30:00,,Rebound
+83881,72,BlockedShot,0.89,0.555,0.07663939893245697,Darío Lezcano,a,2636,SetPiece,2015,RightFoot,1323,Bayer Leverkusen,Ingolstadt,3,2,2016-05-14 17:30:00,Moritz Hartmann,None
+127931,34,SavedShot,0.9330000305175781,0.4470000076293945,0.5125640034675598,Darío Lezcano,h,2636,OpenPlay,2016,RightFoot,1338,Ingolstadt,Hertha Berlin,0,2,2016-09-10 17:30:00,,None
+128168,7,Goal,0.915,0.6430000305175781,0.30791398882865906,Darío Lezcano,a,2636,OpenPlay,2016,RightFoot,1349,Bayern Munich,Ingolstadt,3,1,2016-09-17 17:30:00,Mathew Leckie,Pass
+128169,10,MissedShots,0.905,0.5479999923706055,0.03702870011329651,Darío Lezcano,a,2636,SetPiece,2016,Head,1349,Bayern Munich,Ingolstadt,3,1,2016-09-17 17:30:00,Pascal Groß,Aerial
+128497,43,BlockedShot,0.8680000305175781,0.5879999923706055,0.09299159795045853,Darío Lezcano,h,2636,OpenPlay,2016,RightFoot,1355,Ingolstadt,Eintracht Frankfurt,0,2,2016-09-20 22:00:00,Pascal Groß,Pass
+128509,86,MissedShots,0.7859999847412109,0.5129999923706055,0.10940399765968323,Darío Lezcano,h,2636,DirectFreekick,2016,RightFoot,1355,Ingolstadt,Eintracht Frankfurt,0,2,2016-09-20 22:00:00,,Standard
+128638,18,MissedShots,0.6969999694824218,0.5609999847412109,0.03829190135002136,Darío Lezcano,a,2636,DirectFreekick,2016,RightFoot,1364,Borussia M.Gladbach,Ingolstadt,2,0,2016-09-24 17:30:00,,Standard
+128648,80,SavedShot,0.9130000305175782,0.485,0.06398870050907135,Darío Lezcano,a,2636,OpenPlay,2016,Head,1364,Borussia M.Gladbach,Ingolstadt,2,0,2016-09-24 17:30:00,Tobias Levels,Aerial
+128973,70,BlockedShot,0.874000015258789,0.42200000762939455,0.05164169892668724,Darío Lezcano,h,2636,OpenPlay,2016,RightFoot,1375,Ingolstadt,Hoffenheim,1,2,2016-10-01 17:30:00,Stefan Lex,Cross
+128977,79,BlockedShot,0.95,0.5940000152587891,0.0876862034201622,Darío Lezcano,h,2636,OpenPlay,2016,Head,1375,Ingolstadt,Hoffenheim,1,2,2016-10-01 17:30:00,Tobias Levels,Cross
+128978,79,BlockedShot,0.9159999847412109,0.6430000305175781,0.0586497001349926,Darío Lezcano,h,2636,OpenPlay,2016,RightFoot,1375,Ingolstadt,Hoffenheim,1,2,2016-10-01 17:30:00,,Rebound
+129394,23,Goal,0.8780000305175781,0.48200000762939454,0.015113200061023235,Darío Lezcano,h,2636,SetPiece,2016,Head,1391,Ingolstadt,Borussia Dortmund,3,3,2016-10-22 17:30:00,Markus Suttner,Aerial
+129404,43,SavedShot,0.95,0.355,0.14397099614143372,Darío Lezcano,h,2636,OpenPlay,2016,RightFoot,1391,Ingolstadt,Borussia Dortmund,3,3,2016-10-22 17:30:00,Moritz Hartmann,TakeOn
+129410,59,Goal,0.895,0.435,0.14987300336360931,Darío Lezcano,h,2636,OpenPlay,2016,RightFoot,1391,Ingolstadt,Borussia Dortmund,3,3,2016-10-22 17:30:00,Florent Hadergjonaj,Pass
+129668,75,BlockedShot,0.855999984741211,0.5670000076293945,0.06678439676761627,Darío Lezcano,h,2636,OpenPlay,2016,RightFoot,2808,Ingolstadt,Augsburg,0,2,2016-11-05 18:30:00,Marvin Matip,HeadPass
+130222,81,BlockedShot,0.8209999847412109,0.46,0.17236299812793732,Darío Lezcano,h,2636,DirectFreekick,2016,RightFoot,2828,Ingolstadt,Wolfsburg,1,1,2016-11-26 18:30:00,,Standard
+130223,81,SavedShot,0.815,0.48200000762939454,0.0397426001727581,Darío Lezcano,h,2636,SetPiece,2016,LeftFoot,2828,Ingolstadt,Wolfsburg,1,1,2016-11-26 18:30:00,,Rebound
+130225,86,BlockedShot,0.7759999847412109,0.5220000076293946,0.03254299983382225,Darío Lezcano,h,2636,OpenPlay,2016,RightFoot,2828,Ingolstadt,Wolfsburg,1,1,2016-11-26 18:30:00,Mathew Leckie,Pass
+131395,1,MissedShots,0.895,0.445,0.03738750144839287,Darío Lezcano,a,2636,OpenPlay,2016,Head,3218,Bayer Leverkusen,Ingolstadt,1,2,2016-12-18 20:30:00,Florent Hadergjonaj,Aerial
+131397,11,MissedShots,0.9269999694824219,0.5420000076293945,0.061243899166584015,Darío Lezcano,a,2636,OpenPlay,2016,Head,3218,Bayer Leverkusen,Ingolstadt,1,2,2016-12-18 20:30:00,Pascal Groß,Aerial
+131399,16,MissedShots,0.97,0.710999984741211,0.02662700042128563,Darío Lezcano,a,2636,OpenPlay,2016,LeftFoot,3218,Bayer Leverkusen,Ingolstadt,1,2,2016-12-18 20:30:00,Martin Hansen,Pass
+131402,33,BlockedShot,0.86,0.48,0.08441609889268875,Darío Lezcano,a,2636,OpenPlay,2016,RightFoot,3218,Bayer Leverkusen,Ingolstadt,1,2,2016-12-18 20:30:00,Pascal Groß,Chipped
+130515,13,SavedShot,0.8930000305175781,0.17299999237060548,0.014775100164115429,Darío Lezcano,a,2636,OpenPlay,2016,RightFoot,3723,Schalke 04,Ingolstadt,1,0,2017-01-21 17:30:00,,None
+132034,52,BlockedShot,0.92,0.45799999237060546,0.04719360172748566,Darío Lezcano,a,2636,OpenPlay,2016,Head,3745,Hertha Berlin,Ingolstadt,1,0,2017-02-04 14:30:00,Pascal Groß,Aerial
+132036,63,MissedShots,0.914000015258789,0.605,0.050797201693058014,Darío Lezcano,a,2636,SetPiece,2016,Head,3745,Hertha Berlin,Ingolstadt,1,0,2017-02-04 14:30:00,Pascal Groß,Chipped
+131834,6,SavedShot,0.855999984741211,0.500999984741211,0.10139500349760056,Darío Lezcano,a,2636,OpenPlay,2016,RightFoot,3759,Eintracht Frankfurt,Ingolstadt,0,2,2017-02-18 14:30:00,Mathew Leckie,Pass
+131842,46,SavedShot,0.8059999847412109,0.6569999694824219,0.06331589818000793,Darío Lezcano,a,2636,OpenPlay,2016,RightFoot,3759,Eintracht Frankfurt,Ingolstadt,0,2,2017-02-18 14:30:00,,TakeOn
+131843,47,SavedShot,0.9359999847412109,0.31799999237060544,0.08124840259552002,Darío Lezcano,a,2636,OpenPlay,2016,RightFoot,3759,Eintracht Frankfurt,Ingolstadt,0,2,2017-02-18 14:30:00,Alfredo Morales,Pass
+132187,29,BlockedShot,0.9069999694824219,0.515,0.10672099888324738,Darío Lezcano,h,2636,OpenPlay,2016,LeftFoot,3774,Ingolstadt,Borussia M.Gladbach,0,2,2017-02-26 14:30:00,Markus Suttner,Cross
+132204,91,BlockedShot,0.825,0.41900001525878905,0.05425029993057251,Darío Lezcano,h,2636,OpenPlay,2016,LeftFoot,3774,Ingolstadt,Borussia M.Gladbach,0,2,2017-02-26 14:30:00,Lukas Hinterseer,Dispossessed
+133273,1,MissedShots,0.755,0.6040000152587891,0.021361900493502617,Darío Lezcano,a,2636,OpenPlay,2016,RightFoot,3780,Hoffenheim,Ingolstadt,5,2,2017-03-04 14:30:00,Markus Suttner,Pass
+133289,69,SavedShot,0.8919999694824219,0.40299999237060546,0.08460909873247147,Darío Lezcano,a,2636,FromCorner,2016,RightFoot,3780,Hoffenheim,Ingolstadt,5,2,2017-03-04 14:30:00,,Rebound
+133980,41,Goal,0.9119999694824219,0.425,0.33703601360321045,Darío Lezcano,h,2636,OpenPlay,2016,RightFoot,3791,Ingolstadt,FC Cologne,2,2,2017-03-11 17:30:00,Sonny Kittel,Chipped
+133986,57,BlockedShot,0.7930000305175782,0.4640000152587891,0.05792919918894768,Darío Lezcano,h,2636,OpenPlay,2016,RightFoot,3791,Ingolstadt,FC Cologne,2,2,2017-03-11 17:30:00,Alfredo Morales,LayOff
+133989,63,MissedShots,0.914000015258789,0.5879999923706055,0.025146499276161194,Darío Lezcano,h,2636,OpenPlay,2016,Head,3791,Ingolstadt,FC Cologne,2,2,2017-03-11 17:30:00,Markus Suttner,Aerial
+133993,70,SavedShot,0.9069999694824219,0.41200000762939454,0.029017100110650063,Darío Lezcano,h,2636,OpenPlay,2016,Head,3791,Ingolstadt,FC Cologne,2,2,2017-03-11 17:30:00,Markus Suttner,Aerial
+134283,17,BlockedShot,0.815,0.504000015258789,0.039862100034952164,Darío Lezcano,a,2636,OpenPlay,2016,RightFoot,3794,Borussia Dortmund,Ingolstadt,1,0,2017-03-17 19:30:00,Romain Brègerie,Pass
+133254,37,MissedShots,0.9159999847412109,0.625999984741211,0.3564780056476593,Darío Lezcano,h,2636,OpenPlay,2016,RightFoot,3810,Ingolstadt,Mainz 05,2,1,2017-04-02 14:30:00,,None
+134105,52,MissedShots,0.805,0.7809999847412109,0.01614459976553917,Darío Lezcano,a,2636,OpenPlay,2016,RightFoot,3817,Augsburg,Ingolstadt,2,3,2017-04-05 19:00:00,Markus Suttner,Pass
+134754,16,BlockedShot,0.7859999847412109,0.5879999923706055,0.03965869918465614,Darío Lezcano,h,2636,OpenPlay,2016,RightFoot,3829,Ingolstadt,Darmstadt,3,2,2017-04-09 16:30:00,Markus Suttner,HeadPass
+134755,17,BlockedShot,0.9319999694824219,0.5259999847412109,0.5719249844551086,Darío Lezcano,h,2636,OpenPlay,2016,RightFoot,3829,Ingolstadt,Darmstadt,3,2,2017-04-09 16:30:00,,None
+134765,44,SavedShot,0.9290000152587891,0.53,0.512112021446228,Darío Lezcano,h,2636,OpenPlay,2016,RightFoot,3829,Ingolstadt,Darmstadt,3,2,2017-04-09 16:30:00,Sonny Kittel,Pass
+134772,63,BlockedShot,0.95,0.45799999237060546,0.1420229971408844,Darío Lezcano,h,2636,OpenPlay,2016,RightFoot,3829,Ingolstadt,Darmstadt,3,2,2017-04-09 16:30:00,Pascal Groß,Pass
+134773,63,SavedShot,0.9519999694824218,0.4520000076293945,0.13615800440311432,Darío Lezcano,h,2636,OpenPlay,2016,RightFoot,3829,Ingolstadt,Darmstadt,3,2,2017-04-09 16:30:00,,Rebound
+134779,89,BlockedShot,0.865,0.48,0.09650970250368118,Darío Lezcano,h,2636,OpenPlay,2016,LeftFoot,3829,Ingolstadt,Darmstadt,3,2,2017-04-09 16:30:00,Almog Cohen,Chipped
+132799,29,SavedShot,0.9119999694824219,0.40099998474121096,0.03621729835867882,Darío Lezcano,a,2636,FromCorner,2016,Head,3836,Wolfsburg,Ingolstadt,3,0,2017-04-15 14:30:00,Pascal Groß,Cross
+132806,56,BlockedShot,0.7819999694824219,0.6179999923706054,0.029436100274324417,Darío Lezcano,a,2636,OpenPlay,2016,RightFoot,3836,Wolfsburg,Ingolstadt,3,0,2017-04-15 14:30:00,Alfredo Morales,Pass
+133912,17,MissedShots,0.8569999694824219,0.23399999618530273,0.04516780003905296,Darío Lezcano,h,2636,OpenPlay,2016,RightFoot,3846,Ingolstadt,Werder Bremen,2,4,2017-04-22 14:30:00,Pascal Groß,Pass
+133917,31,Goal,0.9169999694824219,0.475,0.3452720046043396,Darío Lezcano,h,2636,OpenPlay,2016,LeftFoot,3846,Ingolstadt,Werder Bremen,2,4,2017-04-22 14:30:00,Marcel Tisserand,Chipped
+133920,39,MissedShots,0.8019999694824219,0.6,0.04911220073699951,Darío Lezcano,h,2636,OpenPlay,2016,RightFoot,3846,Ingolstadt,Werder Bremen,2,4,2017-04-22 14:30:00,Mathew Leckie,Pass
+135073,89,MissedShots,0.8209999847412109,0.3029999923706055,0.025248199701309204,Darío Lezcano,h,2636,OpenPlay,2016,RightFoot,3865,Ingolstadt,Bayer Leverkusen,1,1,2017-05-06 14:30:00,Stefan Lex,Pass
+133526,4,MissedShots,0.8059999847412109,0.22200000762939454,0.021523399278521538,Darío Lezcano,a,2636,OpenPlay,2016,RightFoot,3873,Freiburg,Ingolstadt,1,1,2017-05-13 14:30:00,Florent Hadergjonaj,Pass
+133527,5,BlockedShot,0.8809999847412109,0.5220000076293946,0.11932899802923203,Darío Lezcano,a,2636,OpenPlay,2016,RightFoot,3873,Freiburg,Ingolstadt,1,1,2017-05-13 14:30:00,Pascal Groß,Pass
+133536,42,Goal,0.8430000305175781,0.46700000762939453,0.013899199664592743,Darío Lezcano,a,2636,OpenPlay,2016,Head,3873,Freiburg,Ingolstadt,1,1,2017-05-13 14:30:00,,Rebound
+127947,5,SavedShot,0.894000015258789,0.3060000038146973,0.06701420247554779,Darío Lezcano,h,2636,OpenPlay,2016,RightFoot,3880,Ingolstadt,Schalke 04,1,1,2017-05-20 14:30:00,Pascal Groß,Pass
+127953,24,BlockedShot,0.8219999694824218,0.37400001525878906,0.041213199496269226,Darío Lezcano,h,2636,OpenPlay,2016,LeftFoot,3880,Ingolstadt,Schalke 04,1,1,2017-05-20 14:30:00,Pascal Groß,Pass
+127960,51,SavedShot,0.925,0.41700000762939454,0.13225699961185455,Darío Lezcano,h,2636,OpenPlay,2016,RightFoot,3880,Ingolstadt,Schalke 04,1,1,2017-05-20 14:30:00,Sonny Kittel,Pass
+127962,63,SavedShot,0.885,0.5,0.7577769756317139,Darío Lezcano,h,2636,Penalty,2016,RightFoot,3880,Ingolstadt,Schalke 04,1,1,2017-05-20 14:30:00,,Standard
+127966,74,BlockedShot,0.879000015258789,0.3240000152587891,0.0619083009660244,Darío Lezcano,h,2636,OpenPlay,2016,RightFoot,3880,Ingolstadt,Schalke 04,1,1,2017-05-20 14:30:00,Florent Hadergjonaj,Pass
+127970,87,SavedShot,0.755,0.5370000076293945,0.02659500017762184,Darío Lezcano,h,2636,OpenPlay,2016,RightFoot,3880,Ingolstadt,Schalke 04,1,1,2017-05-20 14:30:00,Romain Brègerie,Pass

@@ -1,0 +1,30 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+398960,63,BlockedShot,0.855,0.705,0.035467199981212616,Felix Agu,h,8804,OpenPlay,2020,RightFoot,15282,Werder Bremen,Augsburg,2,0,2021-01-16 14:30:00,Jean-Manuel Mbom,Pass
+398965,86,Goal,0.909000015258789,0.5429999923706055,0.34780699014663696,Felix Agu,h,8804,OpenPlay,2020,RightFoot,15282,Werder Bremen,Augsburg,2,0,2021-01-16 14:30:00,Romano Schmid,Cross
+399667,20,BlockedShot,0.745999984741211,0.6419999694824219,0.013542200438678265,Felix Agu,a,8804,OpenPlay,2020,RightFoot,15285,Borussia M.Gladbach,Werder Bremen,1,0,2021-01-19 17:30:00,,None
+399673,36,BlockedShot,0.8440000152587891,0.6329999923706054,0.32254499197006226,Felix Agu,a,8804,OpenPlay,2020,RightFoot,15285,Borussia M.Gladbach,Werder Bremen,1,0,2021-01-19 17:30:00,Joshua Sargent,BallTouch
+494921,71,BlockedShot,0.8859999847412109,0.30200000762939455,0.045102499425411224,Felix Agu,a,8804,OpenPlay,2022,RightFoot,19434,Freiburg,Werder Bremen,2,0,2022-10-22 13:30:00,Romano Schmid,Pass
+551278,66,MissedShots,0.889000015258789,0.62,0.06258843094110489,Felix Agu,a,8804,OpenPlay,2023,RightFoot,23180,VfB Stuttgart,Werder Bremen,2,0,2023-12-02 17:30:00,,None
+559722,86,MissedShots,0.8490000152587891,0.5640000152587891,0.09658113867044449,Felix Agu,h,8804,OpenPlay,2023,LeftFoot,23233,Werder Bremen,Freiburg,3,1,2024-01-27 14:30:00,Nick Woltemade,Pass
+565078,27,BlockedShot,0.7909999847412109,0.6509999847412109,0.03413732349872589,Felix Agu,h,8804,OpenPlay,2023,RightFoot,23265,Werder Bremen,Darmstadt,1,1,2024-02-24 14:30:00,Romano Schmid,Pass
+567354,21,MissedShots,0.9419999694824219,0.644000015258789,0.252187579870224,Felix Agu,a,8804,OpenPlay,2023,LeftFoot,23277,Hoffenheim,Werder Bremen,2,1,2024-03-03 16:30:00,Mitchell Weiser,Chipped
+567362,51,MissedShots,0.8669999694824219,0.6120000076293945,0.28150030970573425,Felix Agu,a,8804,OpenPlay,2023,LeftFoot,23277,Hoffenheim,Werder Bremen,2,1,2024-03-03 16:30:00,Jens Stage,Pass
+569302,65,BlockedShot,0.7659999847412109,0.6719999694824219,0.016337569802999496,Felix Agu,a,8804,OpenPlay,2023,RightFoot,23291,Union Berlin,Werder Bremen,2,1,2024-03-16 14:30:00,,None
+569307,77,MissedShots,0.7030000305175781,0.625999984741211,0.010370592586696148,Felix Agu,a,8804,OpenPlay,2023,RightFoot,23291,Union Berlin,Werder Bremen,2,1,2024-03-16 14:30:00,,None
+578276,32,MissedShots,0.705,0.534000015258789,0.020066943019628525,Felix Agu,h,8804,FromCorner,2023,RightFoot,23350,Werder Bremen,Borussia M.Gladbach,2,2,2024-05-04 13:30:00,Leonardo Bittencourt,Pass
+578291,79,MissedShots,0.8780000305175781,0.5990000152587891,0.1106342300772667,Felix Agu,h,8804,OpenPlay,2023,RightFoot,23350,Werder Bremen,Borussia M.Gladbach,2,2,2024-05-04 13:30:00,Romano Schmid,Pass
+579774,57,MissedShots,0.9119999694824219,0.4909999847412109,0.13854540884494781,Felix Agu,a,8804,OpenPlay,2023,Head,23354,RasenBallsport Leipzig,Werder Bremen,1,1,2024-05-11 13:30:00,Mitchell Weiser,Cross
+581639,81,MissedShots,0.730999984741211,0.6179999923706054,0.027385564520955086,Felix Agu,h,8804,OpenPlay,2023,RightFoot,23368,Werder Bremen,Bochum,4,1,2024-05-18 13:30:00,Anthony Jung,Pass
+585932,11,Goal,0.9269999694824219,0.6840000152587891,0.289446085691452,Felix Agu,a,8804,OpenPlay,2024,RightFoot,27746,Augsburg,Werder Bremen,2,2,2024-08-24 13:30:00,Mitchell Weiser,Chipped
+595407,16,SavedShot,0.8869999694824219,0.505,0.34384018182754517,Felix Agu,h,8804,OpenPlay,2024,LeftFoot,27789,Werder Bremen,Freiburg,0,1,2024-10-05 13:30:00,Marvin Ducksch,HeadPass
+597730,50,Goal,0.9109999847412109,0.66,0.2857362627983093,Felix Agu,a,8804,OpenPlay,2024,RightFoot,27801,Wolfsburg,Werder Bremen,2,4,2024-10-20 15:30:00,,Rebound
+598649,0,SavedShot,0.89,0.6480000305175782,0.06201843544840813,Felix Agu,h,8804,OpenPlay,2024,RightFoot,27808,Werder Bremen,Bayer Leverkusen,2,2,2024-10-26 16:30:00,Marco Grüll,None
+598671,76,OwnGoal,0.1,0.5059999847412109,0,Felix Agu,h,8804,OpenPlay,2024,RightFoot,27808,Werder Bremen,Bayer Leverkusen,2,2,2024-10-26 16:30:00,,None
+622564,39,MissedShots,0.985,0.5970000076293945,0.3470308184623718,Felix Agu,h,8804,OpenPlay,2024,RightFoot,27970,Werder Bremen,Borussia M.Gladbach,2,4,2025-03-15 14:30:00,Oliver Burke,Rebound
+624079,58,Goal,0.784000015258789,0.6359999847412109,0.03843214362859726,Felix Agu,a,8804,OpenPlay,2024,RightFoot,27984,Holstein Kiel,Werder Bremen,0,3,2025-03-29 14:30:00,,None
+627781,71,MissedShots,0.8830000305175781,0.549000015258789,0.05297255516052246,Felix Agu,a,8804,OpenPlay,2024,Head,27995,VfB Stuttgart,Werder Bremen,1,2,2025-04-13 13:30:00,Mitchell Weiser,Cross
+632685,45,MissedShots,0.9209999847412109,0.5879999923706055,0.4347549080848694,Felix Agu,h,8804,OpenPlay,2024,RightFoot,28034,Werder Bremen,RasenBallsport Leipzig,0,0,2025-05-10 13:30:00,Romano Schmid,Pass
+632686,47,BlockedShot,0.895,0.46,0.323612242937088,Felix Agu,h,8804,OpenPlay,2024,RightFoot,28034,Werder Bremen,RasenBallsport Leipzig,0,0,2025-05-10 13:30:00,Mitchell Weiser,Cross
+634384,45,BlockedShot,0.870999984741211,0.7319999694824219,0.05274614691734314,Felix Agu,a,8804,OpenPlay,2024,RightFoot,28042,FC Heidenheim,Werder Bremen,1,4,2025-05-17 13:30:00,Romano Schmid,Pass
+638768,39,SavedShot,0.725,0.6769999694824219,0.0074889217503368855,Felix Agu,a,8804,OpenPlay,2025,RightFoot,30228,Eintracht Frankfurt,Werder Bremen,4,1,2025-08-23 13:30:00,,None
+668731,39,MissedShots,0.870999984741211,0.6969999694824218,0.074439138174057,Felix Agu,h,8804,OpenPlay,2025,RightFoot,30421,Werder Bremen,Bayern Munich,0,3,2026-02-14 14:30:00,Romano Schmid,Pass

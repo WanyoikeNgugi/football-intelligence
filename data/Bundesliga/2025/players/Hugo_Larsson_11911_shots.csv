@@ -1,0 +1,45 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+537865,21,SavedShot,0.865,0.6609999847412109,0.21221919357776642,Hugo Larsson,a,11911,OpenPlay,2023,RightFoot,23098,Bochum,Eintracht Frankfurt,1,1,2023-09-16 16:30:00,Eric Junior Dina Ebimbe,Pass
+539919,19,BlockedShot,0.845,0.27700000762939453,0.03041146695613861,Hugo Larsson,h,11911,OpenPlay,2023,RightFoot,23109,Eintracht Frankfurt,Freiburg,0,0,2023-09-24 15:30:00,Robin Koch,Pass
+543477,8,MissedShots,0.7440000152587891,0.3920000076293945,0.022109653800725937,Hugo Larsson,h,11911,OpenPlay,2023,RightFoot,23127,Eintracht Frankfurt,FC Heidenheim,2,0,2023-10-08 17:30:00,Farès Chaïbi,Pass
+543484,38,Goal,0.8059999847412109,0.325,0.0448334775865078,Hugo Larsson,h,11911,OpenPlay,2023,RightFoot,23127,Eintracht Frankfurt,FC Heidenheim,2,0,2023-10-08 17:30:00,,TakeOn
+546137,4,SavedShot,0.919000015258789,0.47400001525878904,0.49576449394226074,Hugo Larsson,h,11911,OpenPlay,2023,RightFoot,23140,Eintracht Frankfurt,Borussia Dortmund,3,3,2023-10-29 14:30:00,Farès Chaïbi,Pass
+546156,61,MissedShots,0.76,0.47299999237060547,0.025814015418291092,Hugo Larsson,h,11911,OpenPlay,2023,RightFoot,23140,Eintracht Frankfurt,Borussia Dortmund,3,3,2023-10-29 14:30:00,Ellyes Skhiri,Pass
+550002,68,MissedShots,0.8069999694824219,0.595999984741211,0.038557857275009155,Hugo Larsson,h,11911,OpenPlay,2023,RightFoot,23167,Eintracht Frankfurt,VfB Stuttgart,1,2,2023-11-25 17:30:00,,None
+552832,15,BlockedShot,0.7530000305175781,0.37,0.02525774948298931,Hugo Larsson,h,11911,OpenPlay,2023,RightFoot,23184,Eintracht Frankfurt,Bayern Munich,5,1,2023-12-09 14:30:00,,None
+552842,35,Goal,0.9119999694824219,0.5690000152587891,0.14773154258728027,Hugo Larsson,h,11911,OpenPlay,2023,LeftFoot,23184,Eintracht Frankfurt,Bayern Munich,5,1,2023-12-09 14:30:00,Omar Marmoush,Pass
+561397,53,BlockedShot,0.8769999694824219,0.3270000076293945,0.036500636488199234,Hugo Larsson,a,11911,FromCorner,2023,RightFoot,23241,FC Cologne,Eintracht Frankfurt,2,0,2024-02-03 17:30:00,,Dispossessed
+586324,27,MissedShots,0.8190000152587891,0.6630000305175782,0.016622671857476234,Hugo Larsson,a,11911,FromCorner,2024,RightFoot,27748,Borussia Dortmund,Eintracht Frankfurt,2,0,2024-08-24 16:30:00,,Aerial
+589009,32,Goal,0.9059999847412109,0.48200000762939454,0.49142158031463623,Hugo Larsson,h,11911,OpenPlay,2024,RightFoot,27756,Eintracht Frankfurt,Hoffenheim,3,1,2024-08-31 13:30:00,Hugo Ekitike,Throughball
+592670,29,Goal,0.9309999847412109,0.5359999847412109,0.5119145512580872,Hugo Larsson,h,11911,OpenPlay,2024,RightFoot,27774,Eintracht Frankfurt,Borussia M.Gladbach,2,0,2024-09-21 16:30:00,Ansgar Knauff,BallTouch
+594697,59,SavedShot,0.8680000305175781,0.5940000152587891,0.06933747231960297,Hugo Larsson,a,11911,OpenPlay,2024,RightFoot,27785,Holstein Kiel,Eintracht Frankfurt,2,4,2024-09-29 13:30:00,,None
+594700,63,BlockedShot,0.7630000305175781,0.5579999923706055,0.017119156196713448,Hugo Larsson,a,11911,SetPiece,2024,RightFoot,27785,Holstein Kiel,Eintracht Frankfurt,2,4,2024-09-29 13:30:00,,None
+599979,92,BlockedShot,0.72,0.37599998474121094,0.015789920464158058,Hugo Larsson,h,11911,OpenPlay,2024,RightFoot,27817,Eintracht Frankfurt,Bochum,7,2,2024-11-02 14:30:00,,BallRecovery
+607809,29,SavedShot,0.8619999694824219,0.5320000076293945,0.057902704924345016,Hugo Larsson,a,11911,OpenPlay,2024,RightFoot,27859,RasenBallsport Leipzig,Eintracht Frankfurt,2,1,2024-12-15 18:30:00,Hugo Ekitike,HeadPass
+608276,70,BlockedShot,0.9519999694824218,0.4470000076293945,0.142103910446167,Hugo Larsson,h,11911,FromCorner,2024,RightFoot,27871,Eintracht Frankfurt,Mainz 05,1,3,2024-12-21 14:30:00,,Rebound
+610733,66,BlockedShot,0.7769999694824219,0.5579999923706055,0.047027625143527985,Hugo Larsson,a,11911,OpenPlay,2024,RightFoot,27885,St. Pauli,Eintracht Frankfurt,0,1,2025-01-11 14:30:00,Hugo Ekitike,BallTouch
+611951,0,SavedShot,0.9080000305175782,0.33599998474121096,0.2643028795719147,Hugo Larsson,h,11911,OpenPlay,2024,RightFoot,27898,Eintracht Frankfurt,Borussia Dortmund,2,0,2025-01-17 19:30:00,Ellyes Skhiri,Pass
+613873,47,BlockedShot,0.9159999847412109,0.6559999847412109,0.09625205397605896,Hugo Larsson,a,11911,OpenPlay,2024,RightFoot,27906,Hoffenheim,Eintracht Frankfurt,2,2,2025-01-26 14:30:00,Can Uzun,Pass
+616211,30,SavedShot,0.8240000152587891,0.5409999847412109,0.052518077194690704,Hugo Larsson,a,11911,OpenPlay,2024,RightFoot,27929,Borussia M.Gladbach,Eintracht Frankfurt,1,1,2025-02-08 17:30:00,Nathaniel Brown,Pass
+617839,11,SavedShot,0.9180000305175782,0.38099998474121094,0.044437017291784286,Hugo Larsson,h,11911,SetPiece,2024,Head,27933,Eintracht Frankfurt,Holstein Kiel,3,1,2025-02-16 16:30:00,Nathaniel Brown,Chipped
+617843,17,Goal,0.9309999847412109,0.5629999923706055,0.4282782971858978,Hugo Larsson,h,11911,OpenPlay,2024,RightFoot,27933,Eintracht Frankfurt,Holstein Kiel,3,1,2025-02-16 16:30:00,Nathaniel Brown,HeadPass
+621863,62,MissedShots,0.9580000305175781,0.34799999237060547,0.29685482382774353,Hugo Larsson,h,11911,OpenPlay,2024,RightFoot,27961,Eintracht Frankfurt,Union Berlin,1,2,2025-03-09 14:30:00,Mario Götze,Chipped
+624326,69,SavedShot,0.8580000305175781,0.5709999847412109,0.297783225774765,Hugo Larsson,h,11911,OpenPlay,2024,RightFoot,27978,Eintracht Frankfurt,VfB Stuttgart,1,0,2025-03-29 17:30:00,Hugo Ekitike,LayOff
+624329,74,BlockedShot,0.785,0.5770000076293945,0.03636333718895912,Hugo Larsson,h,11911,OpenPlay,2024,RightFoot,27978,Eintracht Frankfurt,VfB Stuttgart,1,0,2025-03-29 17:30:00,Mario Götze,Pass
+625913,48,MissedShots,0.8119999694824219,0.46900001525878904,0.0471121184527874,Hugo Larsson,a,11911,OpenPlay,2024,RightFoot,27987,Werder Bremen,Eintracht Frankfurt,2,0,2025-04-05 16:30:00,,BallTouch
+625916,60,MissedShots,0.775,0.6619999694824219,0.02129848301410675,Hugo Larsson,a,11911,OpenPlay,2024,RightFoot,27987,Werder Bremen,Eintracht Frankfurt,2,0,2025-04-05 16:30:00,Mario Götze,Pass
+632247,51,MissedShots,0.8490000152587891,0.654000015258789,0.06438937038183212,Hugo Larsson,a,11911,OpenPlay,2024,RightFoot,28026,Mainz 05,Eintracht Frankfurt,1,1,2025-05-04 17:30:00,,None
+633630,5,SavedShot,0.7980000305175782,0.5370000076293945,0.03873341530561447,Hugo Larsson,h,11911,OpenPlay,2024,RightFoot,28033,Eintracht Frankfurt,St. Pauli,2,2,2025-05-11 15:30:00,Hugo Ekitike,Pass
+643712,59,SavedShot,0.8819999694824219,0.4179999923706055,0.10269736498594284,Hugo Larsson,h,11911,OpenPlay,2025,RightFoot,30257,Eintracht Frankfurt,Union Berlin,3,4,2025-09-21 13:30:00,,TakeOn
+650754,53,BlockedShot,0.7419999694824219,0.5559999847412109,0.01298443041741848,Hugo Larsson,a,11911,SetPiece,2025,RightFoot,30299,FC Heidenheim,Eintracht Frankfurt,1,1,2025-11-01 14:30:00,,None
+650756,62,MissedShots,0.740999984741211,0.37,0.018603956326842308,Hugo Larsson,a,11911,OpenPlay,2025,RightFoot,30299,FC Heidenheim,Eintracht Frankfurt,1,1,2025-11-01 14:30:00,Robin Koch,Pass
+659208,25,Goal,0.9209999847412109,0.4859999847412109,0.4825340807437897,Hugo Larsson,a,11911,OpenPlay,2025,RightFoot,30353,Hamburger SV,Eintracht Frankfurt,1,1,2025-12-20 14:30:00,Nathaniel Brown,Pass
+659216,56,BlockedShot,0.8540000152587891,0.4590000152587891,0.08297412842512131,Hugo Larsson,a,11911,OpenPlay,2025,LeftFoot,30353,Hamburger SV,Eintracht Frankfurt,1,1,2025-12-20 14:30:00,Oscar Højlund,Pass
+664785,63,MissedShots,0.7669999694824219,0.40099998474121096,0.03355637937784195,Hugo Larsson,h,11911,FromCorner,2025,RightFoot,30389,Eintracht Frankfurt,Hoffenheim,1,3,2026-01-24 14:30:00,Nathaniel Brown,Pass
+668643,49,SavedShot,0.795,0.545,0.05345574766397476,Hugo Larsson,h,11911,OpenPlay,2025,RightFoot,30416,Eintracht Frankfurt,Borussia M.Gladbach,3,0,2026-02-14 14:30:00,Jean Négoce,Pass
+673754,12,SavedShot,0.870999984741211,0.32299999237060545,0.053834881633520126,Hugo Larsson,h,11911,OpenPlay,2025,RightFoot,30452,Eintracht Frankfurt,FC Heidenheim,1,0,2026-03-14 14:30:00,Arnaud Kalimuendo Muinga,Pass
+677107,15,BlockedShot,0.8159999847412109,0.519000015258789,0.0599399209022522,Hugo Larsson,h,11911,OpenPlay,2025,LeftFoot,30469,Eintracht Frankfurt,FC Cologne,2,2,2026-04-05 15:30:00,Arnaud Kalimuendo Muinga,Pass
+677116,48,MissedShots,0.905,0.39799999237060546,0.06916717439889908,Hugo Larsson,h,11911,FromCorner,2025,RightFoot,30469,Eintracht Frankfurt,FC Cologne,2,2,2026-04-05 15:30:00,Robin Koch,Pass
+679373,33,Goal,0.9440000152587891,0.534000015258789,0.403910756111145,Hugo Larsson,h,11911,OpenPlay,2025,Head,30488,Eintracht Frankfurt,RasenBallsport Leipzig,1,3,2026-04-18 16:30:00,Ayoube Amaimouni-Echghouyab,Rebound
+680977,61,MissedShots,0.475,0.39299999237060546,0.010348323732614517,Hugo Larsson,a,11911,OpenPlay,2025,RightFoot,30494,Augsburg,Eintracht Frankfurt,1,1,2026-04-25 13:30:00,,TakeOn
+680987,79,SavedShot,0.8130000305175781,0.35200000762939454,0.03805537521839142,Hugo Larsson,a,11911,OpenPlay,2025,RightFoot,30494,Augsburg,Eintracht Frankfurt,1,1,2026-04-25 13:30:00,Aurèle Amenda,Pass

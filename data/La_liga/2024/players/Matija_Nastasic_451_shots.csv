@@ -1,0 +1,73 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+28404,61,SavedShot,0.91,0.47200000762939454,0.3094879984855652,Matija Nastasic,h,451,SetPiece,2014,Head,5310,Schalke 04,Hannover 96,1,0,2015-01-31 14:30:00,Christian Fuchs,Chipped
+28928,34,MissedShots,0.899000015258789,0.49900001525878906,0.022725999355316162,Matija Nastasic,h,451,FromCorner,2014,Head,5293,Schalke 04,Werder Bremen,1,1,2015-02-21 14:30:00,Tranquillo Barnetta,Aerial
+29740,9,SavedShot,0.950999984741211,0.47,0.46558600664138794,Matija Nastasic,h,451,FromCorner,2014,Head,5238,Schalke 04,Hoffenheim,3,1,2015-03-07 14:30:00,Christian Fuchs,Cross
+31694,88,SavedShot,0.8730000305175781,0.56,0.021300600841641426,Matija Nastasic,h,451,SetPiece,2014,Head,5257,Schalke 04,Bayer Leverkusen,0,1,2015-03-21 17:30:00,Christian Fuchs,Pass
+30833,77,BlockedShot,0.8969999694824219,0.46700000762939453,0.05852590128779411,Matija Nastasic,h,451,FromCorner,2014,Head,5206,Schalke 04,Freiburg,0,0,2015-04-11 14:30:00,Jefferson Farfán,Cross
+31666,89,BlockedShot,0.9230000305175782,0.39799999237060546,0.014757700264453888,Matija Nastasic,a,451,FromCorner,2014,Head,5187,Hamburger SV,Schalke 04,2,0,2015-05-23 14:30:00,Julian Draxler,Aerial
+128875,43,MissedShots,0.88,0.61,0.016742099076509476,Matija Nastasic,h,451,FromCorner,2016,Head,1380,Schalke 04,Borussia M.Gladbach,4,0,2016-10-02 19:30:00,Johannes Geis,Cross
+129578,25,MissedShots,0.9269999694824219,0.6409999847412109,0.00908156018704176,Matija Nastasic,h,451,SetPiece,2016,Head,2814,Schalke 04,Werder Bremen,3,1,2016-11-06 20:30:00,Johannes Geis,Aerial
+132501,24,MissedShots,0.715999984741211,0.5329999923706055,0.016993699595332146,Matija Nastasic,a,451,OpenPlay,2016,LeftFoot,3782,Borussia M.Gladbach,Schalke 04,4,2,2017-03-04 17:30:00,Leon Goretzka,Pass
+166180,20,BlockedShot,0.8959999847412109,0.5920000076293945,0.029019799083471298,Matija Nastasic,a,451,FromCorner,2017,Head,8276,Hannover 96,Schalke 04,1,0,2017-08-27 17:00:00,Daniel Caligiuri,Cross
+166350,69,BlockedShot,0.9019999694824219,0.5259999847412109,0.08122760057449341,Matija Nastasic,h,451,SetPiece,2017,RightFoot,8285,Schalke 04,VfB Stuttgart,3,1,2017-09-10 17:00:00,,None
+166662,91,MissedShots,0.919000015258789,0.47,0.04381350055336952,Matija Nastasic,a,451,FromCorner,2017,Head,8309,Hoffenheim,Schalke 04,2,0,2017-09-23 14:30:00,Yevhen Konoplyanka,Aerial
+184018,80,MissedShots,0.919000015258789,0.47400001525878904,0.059644199907779694,Matija Nastasic,h,451,SetPiece,2017,Head,8398,Schalke 04,Augsburg,3,2,2017-12-13 19:30:00,Bastian Oczipka,Aerial
+183786,76,MissedShots,0.8109999847412109,0.46099998474121096,0.15060199797153473,Matija Nastasic,a,451,DirectFreekick,2017,LeftFoot,8407,Eintracht Frankfurt,Schalke 04,2,2,2017-12-16 14:30:00,,Standard
+187594,28,MissedShots,0.9069999694824219,0.4779999923706055,0.03914619982242584,Matija Nastasic,a,451,FromCorner,2017,OtherBodyPart,8413,RasenBallsport Leipzig,Schalke 04,3,1,2018-01-13 17:30:00,Bastian Oczipka,Aerial
+189890,34,BlockedShot,0.8580000305175781,0.6509999847412109,0.020871900022029877,Matija Nastasic,a,451,FromCorner,2017,RightFoot,8436,VfB Stuttgart,Schalke 04,0,2,2018-01-27 14:30:00,,Aerial
+201658,40,SavedShot,0.9209999847412109,0.47,0.5560979843139648,Matija Nastasic,a,451,SetPiece,2017,RightFoot,8499,Wolfsburg,Schalke 04,0,1,2018-03-17 17:30:00,Guido Burgstaller,Pass
+220031,8,BlockedShot,0.7719999694824219,0.2979999923706055,0.0556768998503685,Matija Nastasic,a,451,DirectFreekick,2018,LeftFoot,10338,Wolfsburg,Schalke 04,2,1,2018-08-25 16:30:00,,Standard
+264257,45,MissedShots,0.92,0.4759999847412109,0.0986907035112381,Matija Nastasic,a,451,FromCorner,2018,LeftFoot,10375,Freiburg,Schalke 04,1,0,2018-09-25 18:30:00,Yevhen Konoplyanka,Cross
+264264,62,MissedShots,0.749000015258789,0.43400001525878906,0.06523240357637405,Matija Nastasic,a,451,DirectFreekick,2018,LeftFoot,10375,Freiburg,Schalke 04,1,0,2018-09-25 18:30:00,,Standard
+255829,27,BlockedShot,0.9209999847412109,0.549000015258789,0.09227500110864639,Matija Nastasic,a,451,SetPiece,2018,LeftFoot,10411,RasenBallsport Leipzig,Schalke 04,0,0,2018-10-28 13:30:00,Mark Uth,BallTouch
+256020,79,BlockedShot,0.7909999847412109,0.4929999923706055,0.11744099855422974,Matija Nastasic,h,451,DirectFreekick,2018,LeftFoot,10423,Schalke 04,Hannover 96,3,1,2018-11-03 14:30:00,,Standard
+257033,27,BlockedShot,0.904000015258789,0.5029999923706054,0.07647249847650528,Matija Nastasic,h,451,FromCorner,2018,Head,10455,Schalke 04,Borussia Dortmund,1,2,2018-12-08 14:30:00,Bastian Oczipka,Cross
+257542,66,SavedShot,0.865,0.4640000152587891,0.03302939981222153,Matija Nastasic,h,451,OpenPlay,2018,Head,10473,Schalke 04,Bayer Leverkusen,1,2,2018-12-19 17:30:00,Salif Sané,Cross
+278491,38,MissedShots,0.9259999847412109,0.585,0.31394800543785095,Matija Nastasic,h,451,SetPiece,2018,LeftFoot,10496,Schalke 04,Wolfsburg,2,1,2019-01-20 17:00:00,Daniel Caligiuri,Cross
+278523,50,BlockedShot,0.9030000305175782,0.4329999923706055,0.05860479921102524,Matija Nastasic,a,451,FromCorner,2018,LeftFoot,10502,Hertha Berlin,Schalke 04,2,2,2019-01-25 19:30:00,Bastian Oczipka,Cross
+278875,19,BlockedShot,0.9019999694824219,0.6309999847412109,0.09176389873027802,Matija Nastasic,h,451,OpenPlay,2018,LeftFoot,10516,Schalke 04,Borussia M.Gladbach,0,2,2019-02-02 17:30:00,Bastian Oczipka,Pass
+278879,36,SavedShot,0.865999984741211,0.49900001525878906,0.04308909922838211,Matija Nastasic,h,451,SetPiece,2018,Head,10516,Schalke 04,Borussia M.Gladbach,0,2,2019-02-02 17:30:00,Daniel Caligiuri,Cross
+281330,55,BlockedShot,0.8040000152587891,0.34,0.08997470140457153,Matija Nastasic,h,451,DirectFreekick,2018,LeftFoot,10534,Schalke 04,Freiburg,0,0,2019-02-16 14:30:00,,Standard
+281343,92,MissedShots,0.9130000305175782,0.495,0.09467340260744095,Matija Nastasic,h,451,FromCorner,2018,Head,10534,Schalke 04,Freiburg,0,0,2019-02-16 14:30:00,Bastian Oczipka,Cross
+279468,42,SavedShot,0.9419999694824219,0.45,0.3955160081386566,Matija Nastasic,a,451,SetPiece,2018,Head,10542,Mainz 05,Schalke 04,3,0,2019-02-23 14:30:00,Bastian Oczipka,Chipped
+284208,19,SavedShot,0.9030000305175782,0.39,0.0713248997926712,Matija Nastasic,a,451,SetPiece,2018,RightFoot,10557,Werder Bremen,Schalke 04,4,2,2019-03-08 19:30:00,Breel Embolo,None
+284210,24,MissedShots,0.925,0.6179999923706054,0.013004399836063385,Matija Nastasic,a,451,FromCorner,2018,Head,10557,Werder Bremen,Schalke 04,4,2,2019-03-08 19:30:00,Bastian Oczipka,Aerial
+288173,11,MissedShots,0.9169999694824219,0.509000015258789,0.3413900136947632,Matija Nastasic,a,451,SetPiece,2018,Head,10577,Hannover 96,Schalke 04,0,1,2019-03-31 13:30:00,Sebastian Rudy,Aerial
+293192,84,Goal,0.925,0.39799999237060546,0.1030530035495758,Matija Nastasic,a,451,FromCorner,2018,RightFoot,10597,Nuernberg,Schalke 04,1,1,2019-04-12 19:30:00,Omar Mascarell,Rebound
+297361,44,MissedShots,0.9169999694824219,0.4779999923706055,0.043377701193094254,Matija Nastasic,a,451,FromCorner,2018,Head,10607,Borussia Dortmund,Schalke 04,2,4,2019-04-27 14:30:00,Bastian Oczipka,Aerial
+299730,46,MissedShots,0.9330000305175781,0.4909999847412109,0.06590910255908966,Matija Nastasic,h,451,FromCorner,2018,Head,10617,Schalke 04,Augsburg,0,0,2019-05-05 12:30:00,Bastian Oczipka,Aerial
+299736,80,MissedShots,0.879000015258789,0.5259999847412109,0.035217300057411194,Matija Nastasic,h,451,FromCorner,2018,Head,10617,Schalke 04,Augsburg,0,0,2019-05-05 12:30:00,Daniel Caligiuri,Cross
+310803,15,MissedShots,0.9080000305175782,0.555,0.08550009876489639,Matija Nastasic,a,451,SetPiece,2019,LeftFoot,12409,Borussia M.Gladbach,Schalke 04,0,0,2019-08-17 17:30:00,Daniel Caligiuri,Chipped
+310813,58,SavedShot,0.8680000305175781,0.515,0.07477760314941406,Matija Nastasic,a,451,FromCorner,2019,RightFoot,12409,Borussia M.Gladbach,Schalke 04,0,0,2019-08-17 17:30:00,Weston McKennie,HeadPass
+312687,55,BlockedShot,0.9340000152587891,0.49900001525878906,0.12575200200080872,Matija Nastasic,h,451,FromCorner,2019,Head,12418,Schalke 04,Bayern Munich,0,3,2019-08-24 17:30:00,Daniel Caligiuri,Cross
+312691,63,MissedShots,0.9330000305175781,0.5159999847412109,0.3916339874267578,Matija Nastasic,h,451,FromCorner,2019,Head,12418,Schalke 04,Bayern Munich,0,3,2019-08-24 17:30:00,Daniel Caligiuri,Cross
+332056,24,MissedShots,0.9259999847412109,0.49900001525878906,0.05790549889206886,Matija Nastasic,a,451,FromCorner,2019,Head,12507,Werder Bremen,Schalke 04,1,2,2019-11-23 14:30:00,Bastian Oczipka,Aerial
+333274,21,BlockedShot,0.885,0.39099998474121095,0.025079000741243362,Matija Nastasic,h,451,SetPiece,2019,Head,12515,Schalke 04,Union Berlin,2,1,2019-11-29 19:30:00,Bastian Oczipka,Cross
+354692,28,MissedShots,0.91,0.45799999237060546,0.027493199333548546,Matija Nastasic,h,451,FromCorner,2019,Head,12561,Schalke 04,Borussia M.Gladbach,2,0,2020-01-17 19:30:00,Bastian Oczipka,Aerial
+358025,50,MissedShots,0.9319999694824219,0.5879999923706055,0.021346500143408775,Matija Nastasic,h,451,FromCorner,2019,Head,12591,Schalke 04,Paderborn,1,1,2020-02-08 14:30:00,Bastian Oczipka,Aerial
+358030,58,MissedShots,0.8640000152587891,0.34299999237060547,0.040921401232481,Matija Nastasic,h,451,OpenPlay,2019,RightFoot,12591,Schalke 04,Paderborn,1,1,2020-02-08 14:30:00,Weston McKennie,HeadPass
+359475,33,SavedShot,0.9019999694824219,0.524000015258789,0.09860999882221222,Matija Nastasic,a,451,SetPiece,2019,Head,12596,Mainz 05,Schalke 04,0,0,2020-02-16 17:00:00,Bastian Oczipka,Cross
+360007,65,SavedShot,0.9080000305175782,0.44,0.1803320050239563,Matija Nastasic,h,451,SetPiece,2019,Head,12609,Schalke 04,RasenBallsport Leipzig,0,5,2020-02-22 17:30:00,Amine Harit,Cross
+363517,76,MissedShots,0.914000015258789,0.4370000076293945,0.03994910046458244,Matija Nastasic,a,451,SetPiece,2019,Head,12649,Fortuna Duesseldorf,Schalke 04,2,1,2020-05-27 18:30:00,Ahmed Kutucu,Aerial
+382726,88,SavedShot,0.899000015258789,0.5270000076293946,0.03783499822020531,Matija Nastasic,h,451,SetPiece,2020,Head,15175,Schalke 04,Union Berlin,1,1,2020-10-18 16:00:00,Omar Mascarell,Aerial
+383460,24,MissedShots,0.925,0.519000015258789,0.11317399889230728,Matija Nastasic,a,451,FromCorner,2020,Head,15181,Borussia Dortmund,Schalke 04,3,0,2020-10-24 16:30:00,Amine Harit,Cross
+385925,83,MissedShots,0.8959999847412109,0.4779999923706055,0.05966790020465851,Matija Nastasic,a,451,FromCorner,2020,Head,15198,Mainz 05,Schalke 04,2,2,2020-11-07 14:30:00,Mark Uth,Cross
+387306,26,BlockedShot,0.8819999694824219,0.52,0.0393717996776104,Matija Nastasic,h,451,FromCorner,2020,Head,15206,Schalke 04,Wolfsburg,0,2,2020-11-21 14:30:00,Mark Uth,Cross
+397807,31,SavedShot,0.875999984741211,0.4929999923706055,0.03343920037150383,Matija Nastasic,h,451,FromCorner,2020,Head,15271,Schalke 04,Hoffenheim,4,0,2021-01-09 14:30:00,Mark Uth,Cross
+400905,51,MissedShots,0.8880000305175781,0.5640000152587891,0.03504659980535507,Matija Nastasic,h,451,FromCorner,2020,Head,15298,Schalke 04,Bayern Munich,0,4,2021-01-24 14:30:00,Amine Harit,Cross
+401548,34,MissedShots,0.8869999694824219,0.475,0.021636299788951874,Matija Nastasic,a,451,SetPiece,2020,Head,15309,Werder Bremen,Schalke 04,1,1,2021-01-30 14:30:00,Amine Harit,Aerial
+455988,79,SavedShot,0.9390000152587891,0.5220000076293946,0.07294020056724548,Matija Nastasic,h,451,FromCorner,2021,Head,16988,Fiorentina,Lazio,0,3,2022-02-05 19:45:00,Riccardo Sottil,Aerial
+494385,95,MissedShots,0.885,0.5840000152587891,0.0690544992685318,Matija Nastasic,a,451,OpenPlay,2022,RightFoot,19060,Real Sociedad,Mallorca,1,0,2022-10-19 18:00:00,,None
+498884,72,SavedShot,0.8569999694824219,0.475,0.02560329996049404,Matija Nastasic,a,451,SetPiece,2022,OtherBodyPart,19089,Villarreal,Mallorca,0,2,2022-11-06 17:30:00,Inigo Ruiz de Galarreta,Aerial
+510682,14,BlockedShot,0.865,0.55,0.03659839928150177,Matija Nastasic,a,451,FromCorner,2022,Head,19187,Espanyol,Mallorca,2,1,2023-02-25 13:00:00,Pablo Maffeo,Cross
+522017,19,Goal,0.965999984741211,0.4520000076293945,0.4742478132247925,Matija Nastasic,a,451,FromCorner,2022,Head,19263,Atletico Madrid,Mallorca,3,1,2023-04-26 17:30:00,Dani Rodríguez,Cross
+540211,78,BlockedShot,0.865999984741211,0.6409999847412109,0.04631369560956955,Matija Nastasic,h,451,SetPiece,2023,LeftFoot,22749,Mallorca,Barcelona,2,2,2023-09-26 19:30:00,Vedat Muriqi,HeadPass
+554661,69,MissedShots,0.970999984741211,0.5659999847412109,0.08959678560495377,Matija Nastasic,a,451,SetPiece,2023,RightFoot,22845,Almeria,Mallorca,0,0,2023-12-17 13:00:00,Sergi Darder,Cross
+555931,11,Goal,0.914000015258789,0.4879999923706055,0.31679436564445496,Matija Nastasic,h,451,FromCorner,2023,Head,22859,Mallorca,Osasuna,3,2,2023-12-21 20:30:00,Dani Rodríguez,Cross
+557389,89,MissedShots,0.9359999847412109,0.5,0.07402856647968292,Matija Nastasic,a,451,FromCorner,2023,Head,22873,Real Madrid,Mallorca,1,0,2024-01-03 18:15:00,Sergi Darder,Aerial
+559006,54,MissedShots,0.975999984741211,0.62,0.06962811946868896,Matija Nastasic,a,451,SetPiece,2023,LeftFoot,22893,Villarreal,Mallorca,1,1,2024-01-20 15:15:00,Samú Costa,HeadPass
+565381,87,Goal,0.9590000152587891,0.549000015258789,0.6017279028892517,Matija Nastasic,a,451,OpenPlay,2023,RightFoot,22943,Alaves,Mallorca,1,1,2024-02-24 17:30:00,,Rebound
+573900,65,MissedShots,0.9180000305175782,0.4909999847412109,0.12719155848026276,Matija Nastasic,h,451,SetPiece,2023,Head,22988,Mallorca,Real Madrid,0,1,2024-04-13 16:30:00,Sergi Darder,Cross
+577158,67,BlockedShot,0.799000015258789,0.4979999923706055,0.018772223964333534,Matija Nastasic,a,451,FromCorner,2023,RightFoot,23008,Cadiz,Mallorca,1,1,2024-04-28 12:00:00,Vedat Muriqi,HeadPass
+610812,5,MissedShots,0.8980000305175782,0.5840000152587891,0.03836071491241455,Matija Nastasic,a,451,FromCorner,2024,Head,27171,Espanyol,Leganes,1,1,2025-01-11 17:30:00,Raba,Cross
+612335,48,Goal,0.895,0.4809999847412109,0.10602948814630508,Matija Nastasic,h,451,FromCorner,2024,Head,27176,Leganes,Atletico Madrid,1,0,2025-01-18 15:15:00,Raba,Aerial

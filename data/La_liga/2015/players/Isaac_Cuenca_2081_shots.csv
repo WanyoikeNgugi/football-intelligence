@@ -1,0 +1,57 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+32513,78,BlockedShot,0.9540000152587891,0.29100000381469726,0.04902990162372589,Isaac Cuenca,a,2081,OpenPlay,2014,LeftFoot,5828,Granada,Deportivo La Coruna,2,1,2014-08-23 20:00:00,José Rodríguez,TakeOn
+32515,85,BlockedShot,0.865999984741211,0.3320000076293945,0.05323620140552521,Isaac Cuenca,a,2081,OpenPlay,2014,LeftFoot,5828,Granada,Deportivo La Coruna,2,1,2014-08-23 20:00:00,Ivan Cavaleiro,Pass
+32728,16,MissedShots,0.91,0.24399999618530274,0.033531900495290756,Isaac Cuenca,h,2081,SetPiece,2014,RightFoot,5843,Deportivo La Coruna,Rayo Vallecano,2,2,2014-08-31 20:00:00,Haris Medunjanin,Chipped
+32733,35,SavedShot,0.9119999694824219,0.34,0.08512529730796814,Isaac Cuenca,h,2081,OpenPlay,2014,LeftFoot,5843,Deportivo La Coruna,Rayo Vallecano,2,2,2014-08-31 20:00:00,Laure,Pass
+32744,76,MissedShots,0.7909999847412109,0.3940000152587891,0.028961699455976486,Isaac Cuenca,h,2081,OpenPlay,2014,RightFoot,5843,Deportivo La Coruna,Rayo Vallecano,2,2,2014-08-31 20:00:00,Luis Fariña,Pass
+32747,94,Goal,0.885,0.5,0.7432780265808105,Isaac Cuenca,h,2081,Penalty,2014,RightFoot,5843,Deportivo La Coruna,Rayo Vallecano,2,2,2014-08-31 20:00:00,,Standard
+33403,8,MissedShots,0.845999984741211,0.75,0.013215400278568268,Isaac Cuenca,h,2081,OpenPlay,2014,RightFoot,5797,Deportivo La Coruna,Real Madrid,2,8,2014-09-20 15:00:00,,Aerial
+33417,49,BlockedShot,0.8919999694824219,0.5109999847412109,0.08541779965162277,Isaac Cuenca,h,2081,OpenPlay,2014,Head,5797,Deportivo La Coruna,Real Madrid,2,8,2014-09-20 15:00:00,Luisinho,Cross
+33419,51,BlockedShot,0.8480000305175781,0.27399999618530274,0.028074700385332108,Isaac Cuenca,h,2081,OpenPlay,2014,LeftFoot,5797,Deportivo La Coruna,Real Madrid,2,8,2014-09-20 15:00:00,Laure,Pass
+33037,54,Goal,0.8780000305175781,0.47200000762939454,0.09976570308208466,Isaac Cuenca,a,2081,OpenPlay,2014,RightFoot,5807,Celta Vigo,Deportivo La Coruna,2,1,2014-09-23 21:00:00,Juanfran,Pass
+33208,9,MissedShots,0.87,0.7319999694824219,0.03214989975094795,Isaac Cuenca,h,2081,OpenPlay,2014,RightFoot,5823,Deportivo La Coruna,Almeria,0,1,2014-09-28 16:00:00,Hélder Postiga,Pass
+33211,24,MissedShots,0.91,0.31,0.06374909728765488,Isaac Cuenca,h,2081,OpenPlay,2014,RightFoot,5823,Deportivo La Coruna,Almeria,0,1,2014-09-28 16:00:00,Juanfran,Pass
+34946,24,BlockedShot,0.7609999847412109,0.285,0.01954220049083233,Isaac Cuenca,h,2081,OpenPlay,2014,LeftFoot,5770,Deportivo La Coruna,Valencia,3,0,2014-10-19 16:00:00,Luis Fariña,Pass
+34958,70,BlockedShot,0.7619999694824219,0.595999984741211,0.044902700930833817,Isaac Cuenca,h,2081,OpenPlay,2014,LeftFoot,5770,Deportivo La Coruna,Valencia,3,0,2014-10-19 16:00:00,Toché,HeadPass
+33611,47,MissedShots,0.9130000305175782,0.27,0.03663089871406555,Isaac Cuenca,h,2081,FromCorner,2014,RightFoot,5784,Deportivo La Coruna,Getafe,1,2,2014-10-31 19:45:00,Haris Medunjanin,Pass
+33870,74,BlockedShot,0.7480000305175781,0.44099998474121094,0.022382400929927826,Isaac Cuenca,h,2081,OpenPlay,2014,RightFoot,5690,Deportivo La Coruna,Malaga,0,1,2014-12-06 21:00:00,José Rodríguez,TakeOn
+38052,13,SavedShot,0.855999984741211,0.61,0.06255590170621872,Isaac Cuenca,a,2081,OpenPlay,2014,RightFoot,5652,Levante,Deportivo La Coruna,0,0,2015-01-09 19:45:00,,None
+38065,59,SavedShot,0.764000015258789,0.5179999923706055,0.027584100142121315,Isaac Cuenca,a,2081,OpenPlay,2014,RightFoot,5652,Levante,Deportivo La Coruna,0,0,2015-01-09 19:45:00,Ivan Cavaleiro,Pass
+38068,78,BlockedShot,0.78,0.500999984741211,0.05075389891862869,Isaac Cuenca,a,2081,OpenPlay,2014,RightFoot,5652,Levante,Deportivo La Coruna,0,0,2015-01-09 19:45:00,Ivan Cavaleiro,Pass
+37507,33,MissedShots,0.899000015258789,0.45299999237060545,0.26797598600387573,Isaac Cuenca,h,2081,OpenPlay,2014,RightFoot,5669,Deportivo La Coruna,Barcelona,0,4,2015-01-18 18:00:00,Juanfran,Cross
+38544,79,SavedShot,0.9530000305175781,0.649000015258789,0.11187700182199478,Isaac Cuenca,a,2081,OpenPlay,2014,LeftFoot,5682,Rayo Vallecano,Deportivo La Coruna,1,2,2015-01-30 19:45:00,Álex Bergantiños,TakeOn
+38546,85,BlockedShot,0.8530000305175781,0.6359999847412109,0.06946080178022385,Isaac Cuenca,a,2081,OpenPlay,2014,RightFoot,5682,Rayo Vallecano,Deportivo La Coruna,1,2,2015-01-30 19:45:00,Celso Borges,Pass
+41101,5,SavedShot,0.9490000152587891,0.7030000305175781,0.10533600300550461,Isaac Cuenca,a,2081,OpenPlay,2014,LeftFoot,5620,Real Madrid,Deportivo La Coruna,2,0,2015-02-14 17:00:00,Lucas Pérez,Throughball
+41102,5,MissedShots,0.7780000305175782,0.5320000076293945,0.03196610137820244,Isaac Cuenca,a,2081,OpenPlay,2014,RightFoot,5620,Real Madrid,Deportivo La Coruna,2,0,2015-02-14 17:00:00,,None
+41112,29,MissedShots,0.7659999847412109,0.5120000076293946,0.02544810064136982,Isaac Cuenca,a,2081,OpenPlay,2014,RightFoot,5620,Real Madrid,Deportivo La Coruna,2,0,2015-02-14 17:00:00,Álex Bergantiños,Pass
+40080,38,SavedShot,0.8230000305175781,0.7380000305175781,0.024892600253224373,Isaac Cuenca,a,2081,OpenPlay,2014,RightFoot,5641,Almeria,Deportivo La Coruna,0,0,2015-02-28 19:00:00,Celso Borges,Pass
+40082,42,SavedShot,0.865,0.725999984741211,0.03198640048503876,Isaac Cuenca,a,2081,OpenPlay,2014,RightFoot,5641,Almeria,Deportivo La Coruna,0,0,2015-02-28 19:00:00,Luisinho,Pass
+39627,14,BlockedShot,0.7480000305175781,0.35200000762939454,0.01872199960052967,Isaac Cuenca,h,2081,OpenPlay,2014,RightFoot,5572,Deportivo La Coruna,Sevilla,3,4,2015-03-07 15:00:00,Lucas Pérez,Pass
+38805,4,MissedShots,0.7959999847412109,0.27700000762939453,0.020646199584007263,Isaac Cuenca,h,2081,OpenPlay,2014,RightFoot,5519,Deportivo La Coruna,Cordoba,1,1,2015-04-08 19:00:00,Juanfran,Pass
+90738,14,BlockedShot,0.870999984741211,0.649000015258789,0.08044960349798203,Isaac Cuenca,a,2081,OpenPlay,2015,RightFoot,1704,Athletic Club,Granada,1,1,2016-04-03 14:00:00,,TakeOn
+91257,36,BlockedShot,0.8580000305175781,0.75,0.027851900085806847,Isaac Cuenca,a,2081,OpenPlay,2015,RightFoot,1726,Atletico Madrid,Granada,3,0,2016-04-17 20:15:00,Cristiano Biraghi,Pass
+91890,28,BlockedShot,0.8469999694824218,0.7759999847412109,0.02945679984986782,Isaac Cuenca,h,2081,OpenPlay,2015,RightFoot,1738,Granada,Levante,5,1,2016-04-21 23:00:00,Youssef El-Arabi,None
+91909,77,MissedShots,0.8469999694824218,0.425,0.1075500026345253,Isaac Cuenca,h,2081,OpenPlay,2015,RightFoot,1738,Granada,Levante,5,1,2016-04-21 23:00:00,Abdoulaye Doucouré,Pass
+92682,6,ShotOnPost,0.995,0.6430000305175781,0.04715560004115105,Isaac Cuenca,a,2081,OpenPlay,2015,LeftFoot,1748,Celta Vigo,Granada,2,1,2016-04-25 22:30:00,Abdoulaye Doucouré,Pass
+92705,87,BlockedShot,0.76,0.624000015258789,0.021800199523568153,Isaac Cuenca,a,2081,OpenPlay,2015,RightFoot,1748,Celta Vigo,Granada,2,1,2016-04-25 22:30:00,Robert Ibáñez,Pass
+93041,45,Goal,0.9219999694824219,0.5259999847412109,0.5390200018882751,Isaac Cuenca,a,2081,OpenPlay,2015,RightFoot,1768,Sevilla,Granada,1,4,2016-05-08 19:00:00,Youssef El-Arabi,Chipped
+93047,73,SavedShot,0.835999984741211,0.59,0.0671268031001091,Isaac Cuenca,a,2081,OpenPlay,2015,LeftFoot,1768,Sevilla,Granada,1,4,2016-05-08 19:00:00,Adalberto Peñaranda,Pass
+93048,75,MissedShots,0.875,0.6329999923706054,0.07194030284881592,Isaac Cuenca,a,2081,OpenPlay,2015,LeftFoot,1768,Sevilla,Granada,1,4,2016-05-08 19:00:00,Adalberto Peñaranda,SubstitutionOn
+93052,87,Goal,0.87,0.5459999847412109,0.4593980014324188,Isaac Cuenca,a,2081,OpenPlay,2015,LeftFoot,1768,Sevilla,Granada,1,4,2016-05-08 19:00:00,,None
+135190,69,MissedShots,0.7340000152587891,0.39599998474121095,0.019345799461007118,Isaac Cuenca,h,2081,OpenPlay,2016,RightFoot,1782,Granada,Villarreal,1,1,2016-08-20 22:15:00,Rene Krhin,Pass
+135457,2,BlockedShot,0.799000015258789,0.4779999923706055,0.04806799814105034,Isaac Cuenca,a,2081,OpenPlay,2016,RightFoot,1795,Las Palmas,Granada,5,1,2016-08-28 20:15:00,Ezequiel Ponce,Pass
+136899,17,Goal,0.825,0.28700000762939454,0.027957500889897346,Isaac Cuenca,a,2081,OpenPlay,2016,RightFoot,1852,Atletico Madrid,Granada,7,1,2016-10-15 20:30:00,Tito,Pass
+137409,31,MissedShots,0.75,0.504000015258789,0.0189472995698452,Isaac Cuenca,h,2081,OpenPlay,2016,RightFoot,1863,Granada,Sporting Gijon,0,0,2016-10-22 22:45:00,,None
+137411,41,MissedShots,0.7480000305175781,0.315,0.01504919957369566,Isaac Cuenca,h,2081,OpenPlay,2016,RightFoot,1863,Granada,Sporting Gijon,0,0,2016-10-22 22:45:00,Rúben Vezo,BallRecovery
+138059,87,SavedShot,0.8930000305175781,0.35200000762939454,0.4343940019607544,Isaac Cuenca,h,2081,OpenPlay,2016,RightFoot,3163,Granada,Sevilla,2,1,2016-12-03 16:00:00,Mehdi Carcela-González,Throughball
+140439,79,BlockedShot,0.840999984741211,0.25,0.035648100078105927,Isaac Cuenca,h,2081,OpenPlay,2016,LeftFoot,3929,Granada,Las Palmas,1,0,2017-02-06 22:45:00,Uche,Chipped
+139218,92,SavedShot,0.7919999694824219,0.725999984741211,0.03591910004615784,Isaac Cuenca,h,2081,OpenPlay,2016,RightFoot,3948,Granada,Real Betis,4,1,2017-02-17 19:45:00,Uche,Pass
+141206,52,Goal,0.745,0.44,0.028819000348448753,Isaac Cuenca,h,2081,OpenPlay,2016,RightFoot,3971,Granada,Alaves,2,1,2017-03-01 20:30:00,,None
+139918,77,BlockedShot,0.8630000305175781,0.695,0.041878800839185715,Isaac Cuenca,h,2081,OpenPlay,2016,LeftFoot,3986,Granada,Atletico Madrid,0,1,2017-03-11 19:45:00,Uche,Chipped
+141124,4,SavedShot,0.8730000305175781,0.75,0.0351594015955925,Isaac Cuenca,a,2081,OpenPlay,2016,RightFoot,4002,Sporting Gijon,Granada,3,1,2017-03-19 17:30:00,Gastón Silva,TakeOn
+141126,11,SavedShot,0.7809999847412109,0.7909999847412109,0.018345899879932404,Isaac Cuenca,a,2081,OpenPlay,2016,RightFoot,4002,Sporting Gijon,Granada,3,1,2017-03-19 17:30:00,Jeremie Boga,Pass
+142868,33,BlockedShot,0.8540000152587891,0.42400001525878905,0.06964869797229767,Isaac Cuenca,a,2081,OpenPlay,2016,RightFoot,4024,Deportivo La Coruna,Granada,0,0,2017-04-05 19:30:00,,Rebound
+142670,26,BlockedShot,0.7169999694824218,0.5120000076293946,0.014398000203073025,Isaac Cuenca,a,2081,FromCorner,2016,RightFoot,4051,Sevilla,Granada,2,0,2017-04-21 20:00:00,,None
+142676,39,MissedShots,0.7219999694824218,0.7280000305175781,0.013544900342822075,Isaac Cuenca,a,2081,OpenPlay,2016,RightFoot,4051,Sevilla,Granada,2,0,2017-04-21 20:00:00,Héctor,Pass
+143947,42,BlockedShot,0.8430000305175781,0.6509999847412109,0.04158049821853638,Isaac Cuenca,h,2081,OpenPlay,2016,RightFoot,4077,Granada,Real Madrid,0,4,2017-05-06 19:45:00,Uche,Pass
+143525,80,SavedShot,0.9669999694824218,0.3940000152587891,0.0851036012172699,Isaac Cuenca,h,2081,OpenPlay,2016,RightFoot,4097,Granada,Espanyol,1,2,2017-05-19 19:45:00,Adrián Ramos,Pass

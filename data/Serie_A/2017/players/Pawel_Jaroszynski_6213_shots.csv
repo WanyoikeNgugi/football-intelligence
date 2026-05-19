@@ -1,0 +1,10 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+197876,71,BlockedShot,0.774000015258789,0.5129999923706055,0.03809579834342003,Pawel Jaroszynski,a,6213,OpenPlay,2017,LeftFoot,7758,Fiorentina,Chievo,1,0,2018-02-25 14:00:00,,TakeOn
+254805,59,MissedShots,0.8230000305175781,0.6140000152587891,0.041636399924755096,Pawel Jaroszynski,h,6213,OpenPlay,2018,RightFoot,9743,Chievo,Inter,1,1,2018-12-22 17:00:00,,None
+277630,90,SavedShot,0.7269999694824218,0.635,0.008810300379991531,Pawel Jaroszynski,a,6213,SetPiece,2018,LeftFoot,9816,Udinese,Chievo,1,0,2019-02-17 14:00:00,,Aerial
+277891,31,SavedShot,0.755,0.6990000152587891,0.010443899780511856,Pawel Jaroszynski,h,6213,OpenPlay,2018,LeftFoot,9818,Chievo,Genoa,0,0,2019-02-24 14:00:00,,Aerial
+278084,32,BlockedShot,0.7859999847412109,0.575,0.07509239763021469,Pawel Jaroszynski,a,6213,OpenPlay,2018,LeftFoot,9828,Torino,Chievo,3,0,2019-03-03 11:30:00,,BallRecovery
+286698,49,MissedShots,0.7030000305175781,0.6990000152587891,0.01141900010406971,Pawel Jaroszynski,a,6213,OpenPlay,2018,LeftFoot,9847,Atalanta,Chievo,1,1,2019-03-17 14:00:00,,None
+286706,92,MissedShots,0.78,0.620999984741211,0.019297700375318527,Pawel Jaroszynski,a,6213,FromCorner,2018,LeftFoot,9847,Atalanta,Chievo,1,1,2019-03-17 14:00:00,,None
+446028,92,SavedShot,0.8769999694824219,0.6890000152587891,0.03514470160007477,Pawel Jaroszynski,a,6213,OpenPlay,2021,LeftFoot,16910,AC Milan,Salernitana,2,0,2021-12-04 14:00:00,,None
+452831,93,MissedShots,0.8190000152587891,0.7630000305175781,0.027000999078154564,Pawel Jaroszynski,a,6213,OpenPlay,2021,LeftFoot,16959,Verona,Salernitana,1,2,2022-01-09 19:45:00,Grigoris Kastanos,Pass

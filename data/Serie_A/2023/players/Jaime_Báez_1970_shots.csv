@@ -1,0 +1,12 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+483868,20,BlockedShot,0.7240000152587891,0.38599998474121094,0.01325289998203516,Jaime Báez,h,1970,OpenPlay,2022,RightFoot,18605,Cremonese,Torino,1,2,2022-08-27 16:30:00,,BallRecovery
+483872,40,MissedShots,0.8619999694824219,0.40599998474121096,0.05785239860415459,Jaime Báez,h,1970,OpenPlay,2022,RightFoot,18605,Cremonese,Torino,1,2,2022-08-27 16:30:00,,Rebound
+533384,31,MissedShots,0.874000015258789,0.34,0.0344986692070961,Jaime Báez,h,1970,OpenPlay,2023,RightFoot,22306,Frosinone,Napoli,1,3,2023-08-19 16:30:00,Riccardo Marchizza,Cross
+533392,56,ShotOnPost,0.725,0.6990000152587891,0.035650838166475296,Jaime Báez,h,1970,DirectFreekick,2023,RightFoot,22306,Frosinone,Napoli,1,3,2023-08-19 16:30:00,,Standard
+534846,10,BlockedShot,0.7340000152587891,0.5540000152587891,0.023521624505519867,Jaime Báez,h,1970,OpenPlay,2023,RightFoot,22315,Frosinone,Atalanta,2,1,2023-08-26 16:30:00,Abdou Harroui,Pass
+534855,46,SavedShot,0.7569999694824219,0.6669999694824219,0.01767558418214321,Jaime Báez,h,1970,OpenPlay,2023,RightFoot,22315,Frosinone,Atalanta,2,1,2023-08-26 16:30:00,,None
+536443,71,BlockedShot,0.7730000305175782,0.7680000305175781,0.015005374327301979,Jaime Báez,a,1970,OpenPlay,2023,RightFoot,22327,Udinese,Frosinone,0,0,2023-09-02 16:30:00,Walid Cheddira,Pass
+540527,57,BlockedShot,0.885,0.5690000152587891,0.041882339864969254,Jaime Báez,h,1970,OpenPlay,2023,Head,22364,Frosinone,Fiorentina,1,1,2023-09-28 16:30:00,Matìas Soulè Malvano,Cross
+541976,32,MissedShots,0.8880000305175781,0.825999984741211,0.01800939254462719,Jaime Báez,a,1970,OpenPlay,2023,RightFoot,22369,Roma,Frosinone,2,0,2023-10-01 18:45:00,Marvin Çuni,TakeOn
+545810,47,MissedShots,0.7769999694824219,0.7809999847412109,0.0186610110104084,Jaime Báez,a,1970,OpenPlay,2023,RightFoot,22395,Cagliari,Frosinone,4,3,2023-10-29 11:30:00,Reinier,Chipped
+556103,50,Goal,0.9230000305175782,0.3079999923706055,0.23274530470371246,Jaime Báez,h,1970,OpenPlay,2023,RightFoot,22466,Frosinone,Juventus,1,2,2023-12-23 11:30:00,Ilario Monterisi,Throughball

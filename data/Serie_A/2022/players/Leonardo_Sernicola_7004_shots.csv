@@ -1,0 +1,26 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+483887,79,Goal,0.8830000305175781,0.36700000762939455,0.06545510143041611,Leonardo Sernicola,h,7004,OpenPlay,2022,LeftFoot,18605,Cremonese,Torino,1,2,2022-08-27 16:30:00,Cyriel Dessers,BallTouch
+487787,29,MissedShots,0.9,0.315,0.05015150085091591,Leonardo Sernicola,a,7004,FromCorner,2022,RightFoot,18632,Atalanta,Cremonese,1,1,2022-09-11 10:30:00,,Rebound
+489168,48,BlockedShot,0.889000015258789,0.5209999847412109,0.11703799664974213,Leonardo Sernicola,h,7004,OpenPlay,2022,RightFoot,18643,Cremonese,Lazio,0,4,2022-09-18 13:00:00,Emanuele Valeri,Pass
+489176,60,MissedShots,0.945,0.355,0.0925706997513771,Leonardo Sernicola,h,7004,OpenPlay,2022,RightFoot,18643,Cremonese,Lazio,0,4,2022-09-18 13:00:00,Luca Zanimacchia,Pass
+489179,68,BlockedShot,0.7669999694824219,0.34099998474121096,0.014008400030434132,Leonardo Sernicola,h,7004,OpenPlay,2022,LeftFoot,18643,Cremonese,Lazio,0,4,2022-09-18 13:00:00,Charles Pickel,TakeOn
+493621,80,BlockedShot,0.78,0.3170000076293945,0.01757670007646084,Leonardo Sernicola,a,7004,OpenPlay,2022,RightFoot,18680,Spezia,Cremonese,2,2,2022-10-16 13:00:00,Daniel Ciofani,Pass
+495963,3,MissedShots,0.8540000152587891,0.4329999923706055,0.06873130053281784,Leonardo Sernicola,h,7004,OpenPlay,2022,LeftFoot,18684,Cremonese,Sampdoria,0,1,2022-10-24 16:30:00,,None
+495973,39,SavedShot,0.899000015258789,0.57,0.05102989822626114,Leonardo Sernicola,h,7004,OpenPlay,2022,Head,18684,Cremonese,Sampdoria,0,1,2022-10-24 16:30:00,Emanuele Valeri,Cross
+495985,67,BlockedShot,0.759000015258789,0.44799999237060545,0.021786000579595566,Leonardo Sernicola,h,7004,OpenPlay,2022,RightFoot,18684,Cremonese,Sampdoria,0,1,2022-10-24 16:30:00,David Okereke,Pass
+497178,67,BlockedShot,0.8209999847412109,0.500999984741211,0.03455460071563721,Leonardo Sernicola,h,7004,OpenPlay,2022,RightFoot,18692,Cremonese,Udinese,0,0,2022-10-30 14:00:00,Charles Pickel,HeadPass
+497183,82,BlockedShot,0.8480000305175781,0.4179999923706055,0.08645109832286835,Leonardo Sernicola,h,7004,OpenPlay,2022,RightFoot,18692,Cremonese,Udinese,0,0,2022-10-30 14:00:00,Luka Lochoshvili,Pass
+499784,51,SavedShot,0.870999984741211,0.29,0.04442429915070534,Leonardo Sernicola,a,7004,OpenPlay,2022,RightFoot,18724,Empoli,Cremonese,2,0,2022-11-11 19:45:00,Charles Pickel,Pass
+499802,92,BlockedShot,0.9030000305175782,0.27299999237060546,0.05160199850797653,Leonardo Sernicola,a,7004,OpenPlay,2022,LeftFoot,18724,Empoli,Cremonese,2,0,2022-11-11 19:45:00,,TakeOn
+502426,38,MissedShots,0.7530000305175781,0.4520000076293945,0.03870169818401337,Leonardo Sernicola,h,7004,OpenPlay,2022,LeftFoot,18732,Cremonese,Juventus,0,1,2023-01-04 17:30:00,,None
+503065,70,SavedShot,0.735999984741211,0.4779999923706055,0.01159720029681921,Leonardo Sernicola,a,7004,OpenPlay,2022,LeftFoot,18744,Verona,Cremonese,2,0,2023-01-09 17:30:00,Frank Tsadjout,HeadPass
+505218,87,MissedShots,0.6830000305175781,0.46099998474121096,0.00851983018219471,Leonardo Sernicola,a,7004,SetPiece,2022,RightFoot,18762,Bologna,Cremonese,1,1,2023-01-23 17:30:00,,None
+505888,52,BlockedShot,0.805,0.23100000381469726,0.016311300918459892,Leonardo Sernicola,h,7004,OpenPlay,2022,LeftFoot,18774,Cremonese,Inter,1,2,2023-01-28 17:00:00,Daniel Ciofani,Pass
+506936,59,BlockedShot,0.7919999694824219,0.28899999618530275,0.02232939936220646,Leonardo Sernicola,h,7004,OpenPlay,2022,RightFoot,18782,Cremonese,Lecce,0,2,2023-02-04 14:00:00,Marco Benassi,Pass
+510546,19,MissedShots,0.6780000305175782,0.36200000762939455,0.008821399882435799,Leonardo Sernicola,a,7004,OpenPlay,2022,RightFoot,18811,Torino,Cremonese,2,2,2023-02-20 19:45:00,,Aerial
+510550,29,MissedShots,0.81,0.315,0.02980789914727211,Leonardo Sernicola,a,7004,OpenPlay,2022,LeftFoot,18811,Torino,Cremonese,2,2,2023-02-20 19:45:00,Charles Pickel,Pass
+514005,32,BlockedShot,0.765,0.27700000762939453,0.017267199233174324,Leonardo Sernicola,h,7004,OpenPlay,2022,LeftFoot,18833,Cremonese,Fiorentina,0,2,2023-03-12 14:00:00,Pablo Galdames,Pass
+518189,75,MissedShots,0.7380000305175781,0.38599998474121094,0.01746170036494732,Leonardo Sernicola,a,7004,OpenPlay,2022,RightFoot,18869,Sampdoria,Cremonese,2,3,2023-04-08 14:30:00,Emanuele Valeri,Pass
+518197,94,Goal,0.8319999694824218,0.4570000076293945,0.05212229862809181,Leonardo Sernicola,a,7004,OpenPlay,2022,LeftFoot,18869,Sampdoria,Cremonese,2,3,2023-04-08 14:30:00,,Rebound
+519008,26,BlockedShot,0.8230000305175781,0.30100000381469727,0.041471999138593674,Leonardo Sernicola,h,7004,OpenPlay,2022,LeftFoot,18873,Cremonese,Empoli,1,0,2023-04-14 16:30:00,,None
+519021,59,MissedShots,0.9130000305175782,0.34200000762939453,0.094377301633358,Leonardo Sernicola,h,7004,OpenPlay,2022,RightFoot,18873,Cremonese,Empoli,1,0,2023-04-14 16:30:00,Frank Tsadjout,Pass

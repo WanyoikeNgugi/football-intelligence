@@ -1,0 +1,87 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+425756,48,SavedShot,0.9380000305175781,0.7280000305175781,0.05311959981918335,David Raum,a,9724,OpenPlay,2021,LeftFoot,17518,Augsburg,Hoffenheim,0,4,2021-08-14 13:30:00,Jacob Bruun Larsen,Pass
+427684,41,MissedShots,0.7040000152587891,0.6809999847412109,0.018038799986243248,David Raum,h,9724,OpenPlay,2021,LeftFoot,17532,Hoffenheim,Union Berlin,2,2,2021-08-22 13:30:00,Angelo Stiller,Pass
+427692,82,BlockedShot,0.7140000152587891,0.51,0.012235400266945362,David Raum,h,9724,OpenPlay,2021,RightFoot,17532,Hoffenheim,Union Berlin,2,2,2021-08-22 13:30:00,,None
+431229,87,MissedShots,0.7580000305175781,0.6359999847412109,0.02186729945242405,David Raum,a,9724,OpenPlay,2021,LeftFoot,17555,Arminia Bielefeld,Hoffenheim,0,0,2021-09-18 13:30:00,Robert Skov,Pass
+433308,80,ShotOnPost,0.7869999694824219,0.265,0.054805900901556015,David Raum,h,9724,DirectFreekick,2021,LeftFoot,17566,Hoffenheim,Wolfsburg,3,1,2021-09-25 13:30:00,,Standard
+437628,39,MissedShots,0.7930000305175782,0.649000015258789,0.028282100334763527,David Raum,a,9724,OpenPlay,2021,LeftFoot,17596,Bayern Munich,Hoffenheim,4,0,2021-10-23 13:30:00,Dennis Geiger,Pass
+442460,20,SavedShot,0.8930000305175781,0.655,0.07728909701108932,David Raum,h,9724,OpenPlay,2021,RightFoot,17618,Hoffenheim,RasenBallsport Leipzig,2,0,2021-11-20 14:30:00,,None
+444035,3,BlockedShot,0.7919999694824219,0.32,0.018482200801372528,David Raum,a,9724,FromCorner,2021,LeftFoot,17624,Greuther Fuerth,Hoffenheim,3,6,2021-11-27 14:30:00,,None
+447624,2,Goal,0.9590000152587891,0.665,0.23543600738048553,David Raum,a,9724,OpenPlay,2021,LeftFoot,17646,Freiburg,Hoffenheim,1,2,2021-12-11 14:30:00,Munas Dabbur,Pass
+447635,58,MissedShots,0.7290000152587891,0.6459999847412109,0.04494649916887283,David Raum,a,9724,DirectFreekick,2021,LeftFoot,17646,Freiburg,Hoffenheim,1,2,2021-12-11 14:30:00,,Standard
+449009,47,BlockedShot,0.825999984741211,0.7,0.03128470107913017,David Raum,a,9724,OpenPlay,2021,LeftFoot,17657,Bayer Leverkusen,Hoffenheim,2,2,2021-12-15 19:30:00,Florian Grillitsch,Pass
+449415,27,SavedShot,0.98,0.3039999961853027,0.043452199548482895,David Raum,h,9724,FromCorner,2021,LeftFoot,17664,Hoffenheim,Borussia M.Gladbach,1,1,2021-12-18 14:30:00,Florian Grillitsch,Pass
+449430,70,BlockedShot,0.749000015258789,0.47900001525878905,0.01759679988026619,David Raum,h,9724,FromCorner,2021,LeftFoot,17664,Hoffenheim,Borussia M.Gladbach,1,1,2021-12-18 14:30:00,,None
+452120,92,Goal,0.9640000152587891,0.5770000076293945,0.6262459754943848,David Raum,h,9724,OpenPlay,2021,LeftFoot,17672,Hoffenheim,Augsburg,3,1,2022-01-08 14:30:00,,None
+453193,4,MissedShots,0.850999984741211,0.6890000152587891,0.041232600808143616,David Raum,a,9724,OpenPlay,2021,LeftFoot,17684,Union Berlin,Hoffenheim,2,1,2022-01-15 14:30:00,Munas Dabbur,Pass
+454552,23,BlockedShot,0.8109999847412109,0.6940000152587891,0.027053600177168846,David Raum,h,9724,OpenPlay,2021,LeftFoot,17690,Hoffenheim,Borussia Dortmund,2,3,2022-01-22 14:30:00,Munas Dabbur,Pass
+454559,49,MissedShots,0.8069999694824219,0.19100000381469726,0.0442936010658741,David Raum,h,9724,DirectFreekick,2021,LeftFoot,17690,Hoffenheim,Borussia Dortmund,2,3,2022-01-22 14:30:00,,Standard
+454563,65,OwnGoal,0.017999999523162842,0.5259999847412109,0,David Raum,h,9724,OpenPlay,2021,LeftFoot,17690,Hoffenheim,Borussia Dortmund,2,3,2022-01-22 14:30:00,,Card
+455726,7,SavedShot,0.9280000305175782,0.26600000381469724,0.04344470053911209,David Raum,a,9724,FromCorner,2021,LeftFoot,17700,Mainz 05,Hoffenheim,2,0,2022-02-05 14:30:00,Munas Dabbur,Pass
+455747,93,SavedShot,0.9009999847412109,0.7440000152587891,0.03323009982705116,David Raum,a,9724,OpenPlay,2021,LeftFoot,17700,Mainz 05,Hoffenheim,2,0,2022-02-05 14:30:00,Dennis Geiger,Pass
+459331,4,BlockedShot,0.8719999694824219,0.63,0.03603019937872887,David Raum,h,9724,OpenPlay,2021,RightFoot,17726,Hoffenheim,VfB Stuttgart,2,1,2022-02-25 19:30:00,Christoph Baumgartner,Cross
+463989,48,MissedShots,0.720999984741211,0.43400001525878906,0.04820669814944267,David Raum,a,9724,DirectFreekick,2021,LeftFoot,17753,Hertha Berlin,Hoffenheim,3,0,2022-03-19 14:30:00,,Standard
+465128,25,MissedShots,0.9319999694824219,0.6079999923706054,0.11252699792385101,David Raum,h,9724,OpenPlay,2021,LeftFoot,17761,Hoffenheim,Bochum,1,2,2022-04-02 13:30:00,Christoph Baumgartner,Cross
+465136,53,Goal,0.8380000305175781,0.545,0.07016299664974213,David Raum,h,9724,OpenPlay,2021,LeftFoot,17761,Hoffenheim,Bochum,1,2,2022-04-02 13:30:00,Andrej Kramaric,Pass
+465147,81,BlockedShot,0.9009999847412109,0.18899999618530272,0.06743589788675308,David Raum,h,9724,DirectFreekick,2021,LeftFoot,17761,Hoffenheim,Bochum,1,2,2022-04-02 13:30:00,,Standard
+479772,74,BlockedShot,0.705999984741211,0.6659999847412109,0.015125200152397156,David Raum,a,9724,OpenPlay,2022,LeftFoot,19349,VfB Stuttgart,RasenBallsport Leipzig,1,1,2022-08-07 13:30:00,Dani Olmo,Pass
+487417,24,MissedShots,0.9,0.7119999694824218,0.055225301533937454,David Raum,h,9724,OpenPlay,2022,LeftFoot,19389,RasenBallsport Leipzig,Borussia Dortmund,3,0,2022-09-10 13:30:00,Dominik Szoboszlai,Pass
+487418,34,BlockedShot,0.759000015258789,0.3579999923706055,0.025314800441265106,David Raum,h,9724,FromCorner,2022,LeftFoot,19389,RasenBallsport Leipzig,Borussia Dortmund,3,0,2022-09-10 13:30:00,Dominik Szoboszlai,Pass
+487431,78,BlockedShot,0.78,0.669000015258789,0.02392989955842495,David Raum,h,9724,OpenPlay,2022,LeftFoot,19389,RasenBallsport Leipzig,Borussia Dortmund,3,0,2022-09-10 13:30:00,Dominik Szoboszlai,Cross
+488896,53,SavedShot,0.77,0.5690000152587891,0.014408299699425697,David Raum,a,9724,OpenPlay,2022,LeftFoot,19401,Borussia M.Gladbach,RasenBallsport Leipzig,3,0,2022-09-17 16:30:00,,Rebound
+493224,29,Goal,0.9480000305175781,0.514000015258789,0.12126100063323975,David Raum,h,9724,FromCorner,2022,RightFoot,19424,RasenBallsport Leipzig,Hertha Berlin,3,2,2022-10-15 16:30:00,,None
+496332,47,SavedShot,0.735999984741211,0.7419999694824219,0.015581600368022919,David Raum,h,9724,OpenPlay,2022,LeftFoot,19442,RasenBallsport Leipzig,Bayer Leverkusen,2,0,2022-10-29 13:30:00,,BallRecovery
+497997,80,MissedShots,0.8590000152587891,0.64,0.07312530279159546,David Raum,a,9724,OpenPlay,2022,RightFoot,19452,Hoffenheim,RasenBallsport Leipzig,1,3,2022-11-05 14:30:00,Dominik Szoboszlai,Pass
+507031,38,MissedShots,0.8630000305175781,0.695,0.04326159879565239,David Raum,a,9724,OpenPlay,2022,LeftFoot,19506,FC Cologne,RasenBallsport Leipzig,0,0,2023-02-04 14:30:00,Xaver Schlager,Pass
+509533,38,SavedShot,0.845,0.6719999694824219,0.0786043033003807,David Raum,a,9724,OpenPlay,2022,LeftFoot,19527,Wolfsburg,RasenBallsport Leipzig,0,3,2023-02-18 14:30:00,Emil Forsberg,Pass
+513421,53,MissedShots,0.7630000305175781,0.6869999694824219,0.019778799265623093,David Raum,h,9724,OpenPlay,2022,LeftFoot,19550,RasenBallsport Leipzig,Borussia M.Gladbach,3,0,2023-03-11 14:30:00,Dominik Szoboszlai,Pass
+518316,68,SavedShot,0.9269999694824219,0.705,0.0670304000377655,David Raum,a,9724,OpenPlay,2022,LeftFoot,19584,Hertha Berlin,RasenBallsport Leipzig,0,1,2023-04-08 16:30:00,Dani Olmo,Pass
+522594,25,BlockedShot,0.9169999694824219,0.66,0.0733739361166954,David Raum,h,9724,OpenPlay,2022,LeftFoot,19604,RasenBallsport Leipzig,Hoffenheim,1,0,2023-04-29 13:30:00,Mohamed Simakan,Pass
+528931,66,SavedShot,0.7809999847412109,0.715,0.01886747032403946,David Raum,h,9724,OpenPlay,2022,LeftFoot,19640,RasenBallsport Leipzig,Schalke 04,4,2,2023-05-27 13:30:00,Emil Forsberg,Pass
+537579,26,Goal,0.975999984741211,0.6680000305175782,0.08438673615455627,David Raum,h,9724,OpenPlay,2023,LeftFoot,23093,RasenBallsport Leipzig,Augsburg,3,0,2023-09-16 13:30:00,Yussuf Poulsen,Pass
+537584,54,SavedShot,0.8819999694824219,0.7440000152587891,0.05501245707273483,David Raum,h,9724,OpenPlay,2023,LeftFoot,23093,RasenBallsport Leipzig,Augsburg,3,0,2023-09-16 13:30:00,Emil Forsberg,TakeOn
+541467,81,MissedShots,0.7869999694824219,0.6930000305175781,0.018136989325284958,David Raum,h,9724,OpenPlay,2023,LeftFoot,23116,RasenBallsport Leipzig,Bayern Munich,2,2,2023-09-30 16:30:00,Christoph Baumgartner,None
+542566,4,BlockedShot,0.7830000305175782,0.23700000762939452,0.04690780118107796,David Raum,h,9724,DirectFreekick,2023,LeftFoot,23121,RasenBallsport Leipzig,Bochum,0,0,2023-10-07 13:30:00,,Standard
+543867,71,MissedShots,0.7919999694824219,0.7290000152587891,0.058595504611730576,David Raum,a,9724,DirectFreekick,2023,LeftFoot,23133,Darmstadt,RasenBallsport Leipzig,1,3,2023-10-21 13:30:00,,Standard
+545608,23,BlockedShot,0.735,0.48700000762939455,0.058383017778396606,David Raum,h,9724,DirectFreekick,2023,LeftFoot,23138,RasenBallsport Leipzig,FC Cologne,6,0,2023-10-28 16:30:00,,Standard
+545614,42,Goal,0.9630000305175781,0.55,0.530724823474884,David Raum,h,9724,OpenPlay,2023,Head,23138,RasenBallsport Leipzig,FC Cologne,6,0,2023-10-28 16:30:00,Benjamin Henrichs,Cross
+551152,20,BlockedShot,0.799000015258789,0.6780000305175782,0.027888918295502663,David Raum,h,9724,OpenPlay,2023,LeftFoot,23174,RasenBallsport Leipzig,FC Heidenheim,2,1,2023-12-02 14:30:00,Amadou Haidara,Pass
+553145,46,MissedShots,0.79,0.7169999694824218,0.02627212181687355,David Raum,a,9724,OpenPlay,2023,LeftFoot,23182,Borussia Dortmund,RasenBallsport Leipzig,2,3,2023-12-09 17:30:00,Christoph Baumgartner,Pass
+553159,72,SavedShot,0.8919999694824219,0.6940000152587891,0.07007525861263275,David Raum,a,9724,OpenPlay,2023,LeftFoot,23182,Borussia Dortmund,RasenBallsport Leipzig,2,3,2023-12-09 17:30:00,,Tackle
+555221,49,BlockedShot,0.9130000305175782,0.2589999961853027,0.042615655809640884,David Raum,a,9724,OpenPlay,2023,LeftFoot,23206,Werder Bremen,RasenBallsport Leipzig,1,1,2023-12-19 17:30:00,Benjamin Henrichs,Pass
+558078,0,BlockedShot,0.84,0.7559999847412109,0.020210061222314835,David Raum,h,9724,OpenPlay,2023,LeftFoot,23210,RasenBallsport Leipzig,Eintracht Frankfurt,0,1,2024-01-13 14:30:00,,None
+561878,6,BlockedShot,0.8019999694824219,0.23700000762939452,0.05370152369141579,David Raum,h,9724,DirectFreekick,2023,LeftFoot,23237,RasenBallsport Leipzig,Union Berlin,2,0,2024-02-04 16:30:00,,Standard
+567943,5,MissedShots,0.9209999847412109,0.6959999847412109,0.07084665447473526,David Raum,h,9724,OpenPlay,2023,LeftFoot,23282,RasenBallsport Leipzig,Darmstadt,2,0,2024-03-09 14:30:00,Xavi Simons,Pass
+586034,87,BlockedShot,0.9569999694824218,0.6840000152587891,0.09455784410238266,David Raum,h,9724,OpenPlay,2024,LeftFoot,27743,RasenBallsport Leipzig,Bochum,1,0,2024-08-24 13:30:00,Yussuf Poulsen,Pass
+590665,91,SavedShot,0.7430000305175781,0.710999984741211,0.04206604138016701,David Raum,h,9724,DirectFreekick,2024,LeftFoot,27763,RasenBallsport Leipzig,Union Berlin,0,0,2024-09-14 13:30:00,,Standard
+593251,43,MissedShots,0.885,0.6919999694824219,0.285140722990036,David Raum,a,9724,OpenPlay,2024,LeftFoot,27777,St. Pauli,RasenBallsport Leipzig,0,0,2024-09-22 17:30:00,Nicolas Seiwald,Chipped
+612161,74,MissedShots,0.9059999847412109,0.6819999694824219,0.07062795758247375,David Raum,a,9724,OpenPlay,2024,LeftFoot,27902,Bochum,RasenBallsport Leipzig,3,3,2025-01-18 14:30:00,Xavi Simons,Pass
+613284,40,Goal,0.7559999847412109,0.35400001525878905,0.05839942395687103,David Raum,h,9724,DirectFreekick,2024,LeftFoot,27904,RasenBallsport Leipzig,Bayer Leverkusen,2,2,2025-01-25 14:30:00,,Standard
+616871,27,SavedShot,0.9459999847412109,0.7380000305175781,0.03668895736336708,David Raum,a,9724,OpenPlay,2024,LeftFoot,27936,Augsburg,RasenBallsport Leipzig,0,0,2025-02-14 19:30:00,Kevin Kampl,Chipped
+616874,41,BlockedShot,0.93,0.685,0.05608341470360756,David Raum,a,9724,OpenPlay,2024,LeftFoot,27936,Augsburg,RasenBallsport Leipzig,0,0,2025-02-14 19:30:00,,None
+622855,16,SavedShot,0.8780000305175781,0.67,0.0779295563697815,David Raum,h,9724,OpenPlay,2024,LeftFoot,27968,RasenBallsport Leipzig,Borussia Dortmund,2,0,2025-03-15 17:30:00,Xavi Simons,Pass
+625649,59,BlockedShot,0.784000015258789,0.34599998474121096,0.07529713213443756,David Raum,h,9724,DirectFreekick,2024,LeftFoot,27985,RasenBallsport Leipzig,Hoffenheim,3,1,2025-04-05 13:30:00,,Standard
+638518,28,MissedShots,0.9419999694824219,0.6990000152587891,0.0502757802605629,David Raum,a,9724,OpenPlay,2025,LeftFoot,30224,Bayern Munich,RasenBallsport Leipzig,6,0,2025-08-22 18:30:00,Nicolas Seiwald,Chipped
+641465,1,MissedShots,0.75,0.44400001525878907,0.06691265851259232,David Raum,a,9724,DirectFreekick,2025,LeftFoot,30245,Mainz 05,RasenBallsport Leipzig,0,1,2025-09-13 13:30:00,,Standard
+641472,20,BlockedShot,0.6919999694824219,0.35200000762939454,0.03269048407673836,David Raum,a,9724,DirectFreekick,2025,LeftFoot,30245,Mainz 05,RasenBallsport Leipzig,0,1,2025-09-13 13:30:00,,Standard
+643338,48,Goal,0.805,0.3509999847412109,0.09567852318286896,David Raum,h,9724,DirectFreekick,2025,LeftFoot,30256,RasenBallsport Leipzig,FC Cologne,3,1,2025-09-20 16:30:00,,Standard
+644589,59,MissedShots,0.8219999694824218,0.5070000076293946,0.18105214834213257,David Raum,a,9724,DirectFreekick,2025,LeftFoot,30264,Wolfsburg,RasenBallsport Leipzig,0,1,2025-09-27 13:30:00,,Standard
+646072,45,MissedShots,0.9719999694824218,0.705999984741211,0.01781594753265381,David Raum,a,9724,OpenPlay,2025,LeftFoot,30271,Borussia Dortmund,RasenBallsport Leipzig,1,1,2025-10-04 13:30:00,Johan Bakayoko,Cross
+647487,5,MissedShots,0.7669999694824219,0.705999984741211,0.05247915908694267,David Raum,h,9724,DirectFreekick,2025,LeftFoot,30283,RasenBallsport Leipzig,Hamburger SV,2,1,2025-10-18 13:30:00,,Standard
+650674,2,SavedShot,0.9209999847412109,0.64,0.2754645049571991,David Raum,h,9724,OpenPlay,2025,LeftFoot,30301,RasenBallsport Leipzig,VfB Stuttgart,3,1,2025-11-01 14:30:00,Assan Ouédraogo,Pass
+652193,46,ShotOnPost,0.81,0.6559999847412109,0.033518385142087936,David Raum,a,9724,OpenPlay,2025,LeftFoot,30310,Hoffenheim,RasenBallsport Leipzig,3,1,2025-11-08 14:30:00,Bote Baku,Pass
+652198,59,BlockedShot,0.8219999694824218,0.6459999847412109,0.034261755645275116,David Raum,a,9724,OpenPlay,2025,LeftFoot,30310,Hoffenheim,RasenBallsport Leipzig,3,1,2025-11-08 14:30:00,Antonio Nusa,Pass
+654215,19,MissedShots,0.754000015258789,0.29100000381469726,0.04642973467707634,David Raum,h,9724,DirectFreekick,2025,LeftFoot,30320,RasenBallsport Leipzig,Werder Bremen,2,0,2025-11-23 14:30:00,,Standard
+654223,39,SavedShot,0.9769999694824218,0.6819999694824219,0.03741408884525299,David Raum,h,9724,FromCorner,2025,RightFoot,30320,RasenBallsport Leipzig,Werder Bremen,2,0,2025-11-23 14:30:00,,BallTouch
+654680,9,MissedShots,0.769000015258789,0.66,0.06342557072639465,David Raum,a,9724,DirectFreekick,2025,LeftFoot,30325,Borussia M.Gladbach,RasenBallsport Leipzig,0,0,2025-11-28 19:30:00,,Standard
+654700,79,ShotOnPost,0.919000015258789,0.68,0.23323017358779907,David Raum,a,9724,OpenPlay,2025,LeftFoot,30325,Borussia M.Gladbach,RasenBallsport Leipzig,0,0,2025-11-28 19:30:00,Yan Diomande,Pass
+657172,61,Goal,0.885,0.5,0.75777667760849,David Raum,h,9724,Penalty,2025,LeftFoot,30340,RasenBallsport Leipzig,Eintracht Frankfurt,6,0,2025-12-06 17:30:00,,Standard
+657895,38,MissedShots,0.799000015258789,0.6780000305175782,0.07879134267568588,David Raum,a,9724,DirectFreekick,2025,LeftFoot,30348,Union Berlin,RasenBallsport Leipzig,3,1,2025-12-12 19:30:00,,Standard
+664708,69,Goal,0.9319999694824219,0.6919999694824219,0.08602164685726166,David Raum,a,9724,OpenPlay,2025,LeftFoot,30391,FC Heidenheim,RasenBallsport Leipzig,0,3,2026-01-24 14:30:00,Yan Diomande,Pass
+665695,36,MissedShots,0.7969999694824219,0.6020000076293945,0.03508484736084938,David Raum,a,9724,OpenPlay,2025,LeftFoot,30365,St. Pauli,RasenBallsport Leipzig,1,1,2026-01-27 19:30:00,Christoph Baumgartner,None
+672614,1,BlockedShot,0.8190000152587891,0.515,0.044571373611688614,David Raum,h,9724,FromCorner,2025,LeftFoot,30445,RasenBallsport Leipzig,Augsburg,2,1,2026-03-07 14:30:00,Antonio Nusa,Pass
+672619,27,SavedShot,0.830999984741211,0.6790000152587891,0.03581209480762482,David Raum,h,9724,OpenPlay,2025,RightFoot,30445,RasenBallsport Leipzig,Augsburg,2,1,2026-03-07 14:30:00,Antonio Nusa,Pass
+672623,37,MissedShots,0.749000015258789,0.4209999847412109,0.020217208191752434,David Raum,h,9724,OpenPlay,2025,LeftFoot,30445,RasenBallsport Leipzig,Augsburg,2,1,2026-03-07 14:30:00,Nicolas Seiwald,Pass
+677814,47,MissedShots,0.9080000305175782,0.6809999847412109,0.05989217385649681,David Raum,h,9724,OpenPlay,2025,LeftFoot,30481,RasenBallsport Leipzig,Borussia M.Gladbach,1,0,2026-04-11 13:30:00,Antonio Nusa,Pass
+677815,50,SavedShot,0.7480000305175781,0.39099998474121095,0.017520366236567497,David Raum,h,9724,OpenPlay,2025,LeftFoot,30481,RasenBallsport Leipzig,Borussia M.Gladbach,1,0,2026-04-11 13:30:00,Rômulo,Pass
+677822,72,SavedShot,0.94,0.705999984741211,0.045529741793870926,David Raum,h,9724,OpenPlay,2025,LeftFoot,30481,RasenBallsport Leipzig,Borussia M.Gladbach,1,0,2026-04-11 13:30:00,Yan Diomande,Pass

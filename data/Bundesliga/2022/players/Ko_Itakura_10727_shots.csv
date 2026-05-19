@@ -1,0 +1,53 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+481545,79,BlockedShot,0.7180000305175781,0.4809999847412109,0.019581299275159836,Ko Itakura,h,10727,OpenPlay,2022,RightFoot,19360,Borussia M.Gladbach,Hertha Berlin,1,0,2022-08-19 18:30:00,Alassane Pléa,Pass
+483907,59,SavedShot,0.8809999847412109,0.5640000152587891,0.013477000407874584,Ko Itakura,a,10727,FromCorner,2022,Head,19375,Bayern Munich,Borussia M.Gladbach,1,1,2022-08-27 16:30:00,Jonas Hofmann,Aerial
+505045,10,BlockedShot,0.92,0.34900001525878904,0.014843200333416462,Ko Itakura,h,10727,FromCorner,2022,Head,19481,Borussia M.Gladbach,Bayer Leverkusen,2,3,2023-01-22 16:30:00,Jonas Hofmann,Cross
+507347,26,SavedShot,0.825999984741211,0.425,0.06047249957919121,Ko Itakura,h,10727,OpenPlay,2022,RightFoot,19507,Borussia M.Gladbach,Schalke 04,0,0,2023-02-04 17:30:00,Jonas Omlin,Pass
+507350,30,SavedShot,0.8969999694824219,0.34900001525878904,0.011362499557435513,Ko Itakura,h,10727,FromCorner,2022,Head,19507,Borussia M.Gladbach,Schalke 04,0,0,2023-02-04 17:30:00,Jonas Hofmann,Aerial
+507357,43,SavedShot,0.8719999694824219,0.575,0.06860029697418213,Ko Itakura,h,10727,FromCorner,2022,RightFoot,19507,Borussia M.Gladbach,Schalke 04,0,0,2023-02-04 17:30:00,,None
+509580,6,MissedShots,0.9569999694824218,0.605999984741211,0.0671250969171524,Ko Itakura,h,10727,SetPiece,2022,Head,19525,Borussia M.Gladbach,Bayern Munich,3,2,2023-02-18 14:30:00,Jonas Hofmann,Cross
+509594,38,MissedShots,0.86,0.5870000076293945,0.014287100173532963,Ko Itakura,h,10727,FromCorner,2022,Head,19525,Borussia M.Gladbach,Bayern Munich,3,2,2023-02-18 14:30:00,Jonas Hofmann,Cross
+514591,44,MissedShots,0.9219999694824219,0.4929999923706055,0.17423400282859802,Ko Itakura,h,10727,FromCorner,2022,Head,19563,Borussia M.Gladbach,Werder Bremen,2,2,2023-03-17 19:30:00,Jonas Hofmann,Aerial
+522723,76,BlockedShot,0.7230000305175781,0.38,0.01615476980805397,Ko Itakura,a,10727,OpenPlay,2022,RightFoot,19610,VfB Stuttgart,Borussia M.Gladbach,2,1,2023-04-29 13:30:00,Lars Stindl,Pass
+529094,50,MissedShots,0.9280000305175782,0.53,0.1104847714304924,Ko Itakura,h,10727,FromCorner,2022,Head,19643,Borussia M.Gladbach,Augsburg,2,0,2023-05-27 13:30:00,Florian Neuhaus,Cross
+533014,12,Goal,0.9130000305175782,0.5729999923706055,0.059385158121585846,Ko Itakura,a,10727,FromCorner,2023,Head,23069,Augsburg,Borussia M.Gladbach,4,4,2023-08-19 13:30:00,Franck Honorat,Cross
+533032,66,BlockedShot,0.885,0.5690000152587891,0.030078133568167686,Ko Itakura,a,10727,FromCorner,2023,Head,23069,Augsburg,Borussia M.Gladbach,4,4,2023-08-19 13:30:00,Franck Honorat,Cross
+534942,67,SavedShot,0.9080000305175782,0.5259999847412109,0.2678612172603607,Ko Itakura,h,10727,FromCorner,2023,Head,23080,Borussia M.Gladbach,Bayer Leverkusen,0,3,2023-08-26 16:30:00,Franck Honorat,Cross
+536493,29,Goal,0.93,0.5629999923706055,0.05393592268228531,Ko Itakura,h,10727,FromCorner,2023,Head,23089,Borussia M.Gladbach,Bayern Munich,1,2,2023-09-02 16:30:00,Maximilian Wöber,HeadPass
+539055,90,MissedShots,0.7980000305175782,0.46599998474121096,0.06334217637777328,Ko Itakura,h,10727,OpenPlay,2023,LeftFoot,23103,Borussia M.Gladbach,RasenBallsport Leipzig,0,1,2023-09-23 13:30:00,Alassane Pléa,LayOff
+541068,18,MissedShots,0.8819999694824219,0.549000015258789,0.03405090793967247,Ko Itakura,a,10727,FromCorner,2023,Head,23111,Bochum,Borussia M.Gladbach,1,3,2023-09-30 13:30:00,Franck Honorat,Cross
+542262,68,SavedShot,0.91,0.47,0.08168052136898041,Ko Itakura,h,10727,FromCorner,2023,Head,23119,Borussia M.Gladbach,Mainz 05,2,2,2023-10-06 18:30:00,Franck Honorat,Cross
+542269,78,MissedShots,0.9480000305175781,0.535,0.5784778594970703,Ko Itakura,h,10727,FromCorner,2023,LeftFoot,23119,Borussia M.Gladbach,Mainz 05,2,2,2023-10-06 18:30:00,,Rebound
+562436,80,MissedShots,0.735,0.36700000762939455,0.01709940657019615,Ko Itakura,h,10727,OpenPlay,2023,RightFoot,23245,Borussia M.Gladbach,Darmstadt,0,0,2024-02-10 14:30:00,Kouadio Kone,Pass
+566496,82,MissedShots,0.8809999847412109,0.524000015258789,0.038333188742399216,Ko Itakura,a,10727,FromCorner,2023,Head,23275,Mainz 05,Borussia M.Gladbach,1,1,2024-03-02 14:30:00,Franck Honorat,Cross
+569390,86,MissedShots,0.88,0.5629999923706055,0.06479934602975845,Ko Itakura,a,10727,FromCorner,2023,RightFoot,23297,FC Heidenheim,Borussia M.Gladbach,1,1,2024-03-16 14:30:00,Marvin Friedrich,BallTouch
+570560,22,MissedShots,0.7959999847412109,0.375,0.03211718052625656,Ko Itakura,h,10727,OpenPlay,2023,RightFoot,23303,Borussia M.Gladbach,Freiburg,0,3,2024-03-30 14:30:00,Florian Neuhaus,Pass
+570583,84,SavedShot,0.9630000305175781,0.40900001525878904,0.02702539600431919,Ko Itakura,h,10727,FromCorner,2023,Head,23303,Borussia M.Gladbach,Freiburg,0,3,2024-03-30 14:30:00,Franck Honorat,Aerial
+573055,51,Goal,0.7419999694824219,0.629000015258789,0.018881354480981827,Ko Itakura,a,10727,OpenPlay,2023,RightFoot,23312,Wolfsburg,Borussia M.Gladbach,1,3,2024-04-07 15:30:00,Luca Netz,Pass
+573525,55,MissedShots,0.9840000152587891,0.6329999923706054,0.06245436519384384,Ko Itakura,h,10727,SetPiece,2023,LeftFoot,23321,Borussia M.Gladbach,Borussia Dortmund,1,2,2024-04-13 13:30:00,Maximilian Wöber,Rebound
+573537,91,BlockedShot,0.7219999694824218,0.6469999694824219,0.015250848606228828,Ko Itakura,h,10727,OpenPlay,2023,RightFoot,23321,Borussia M.Gladbach,Borussia Dortmund,1,2,2024-04-13 13:30:00,Robin Hack,Pass
+577320,22,MissedShots,0.8440000152587891,0.43,0.08360621333122253,Ko Itakura,h,10727,OpenPlay,2023,RightFoot,23340,Borussia M.Gladbach,Union Berlin,0,0,2024-04-28 13:30:00,Robin Hack,Pass
+577327,44,MissedShots,0.9119999694824219,0.625,0.20320618152618408,Ko Itakura,h,10727,SetPiece,2023,RightFoot,23340,Borussia M.Gladbach,Union Berlin,0,0,2024-04-28 13:30:00,Robin Hack,Cross
+577340,92,BlockedShot,0.9019999694824219,0.7130000305175781,0.047854434698820114,Ko Itakura,h,10727,OpenPlay,2023,LeftFoot,23340,Borussia M.Gladbach,Union Berlin,0,0,2024-04-28 13:30:00,Kouadio Kone,Pass
+578269,11,SavedShot,0.905,0.4779999923706055,0.0753604918718338,Ko Itakura,a,10727,FromCorner,2023,Head,23350,Werder Bremen,Borussia M.Gladbach,2,2,2024-05-04 13:30:00,Franck Honorat,Cross
+590593,30,BlockedShot,0.970999984741211,0.3870000076293945,0.045018889009952545,Ko Itakura,h,10727,FromCorner,2024,RightFoot,27765,Borussia M.Gladbach,VfB Stuttgart,1,3,2024-09-14 13:30:00,Franck Honorat,Cross
+592671,35,BlockedShot,0.855,0.43900001525878907,0.012358695268630981,Ko Itakura,a,10727,FromCorner,2024,Head,27774,Eintracht Frankfurt,Borussia M.Gladbach,2,0,2024-09-21 16:30:00,Kevin Stöger,Aerial
+592699,82,SavedShot,0.914000015258789,0.44799999237060545,0.0763557180762291,Ko Itakura,a,10727,FromCorner,2024,Head,27774,Eintracht Frankfurt,Borussia M.Gladbach,2,0,2024-09-21 16:30:00,Kevin Stöger,Cross
+595090,10,BlockedShot,0.845999984741211,0.3770000076293945,0.048351388424634933,Ko Itakura,a,10727,SetPiece,2024,LeftFoot,27790,Augsburg,Borussia M.Gladbach,2,1,2024-10-04 18:30:00,,None
+596835,2,MissedShots,0.9069999694824219,0.395,0.07701552659273148,Ko Itakura,h,10727,FromCorner,2024,LeftFoot,27803,Borussia M.Gladbach,FC Heidenheim,3,2,2024-10-19 13:30:00,,None
+596839,21,Goal,0.8969999694824219,0.40700000762939453,0.07722289860248566,Ko Itakura,h,10727,FromCorner,2024,RightFoot,27803,Borussia M.Gladbach,FC Heidenheim,3,2,2024-10-19 13:30:00,,None
+598083,94,MissedShots,0.9080000305175782,0.5870000076293945,0.10471466928720474,Ko Itakura,a,10727,SetPiece,2024,LeftFoot,27810,Mainz 05,Borussia M.Gladbach,1,1,2024-10-25 18:30:00,,Rebound
+600755,53,MissedShots,0.875999984741211,0.46700000762939453,0.07427512109279633,Ko Itakura,h,10727,SetPiece,2024,RightFoot,27821,Borussia M.Gladbach,Werder Bremen,4,1,2024-11-03 16:30:00,,None
+603557,10,MissedShots,0.97,0.38299999237060545,0.043998800218105316,Ko Itakura,h,10727,FromCorner,2024,RightFoot,27839,Borussia M.Gladbach,St. Pauli,2,0,2024-11-24 16:30:00,Franck Honorat,Cross
+606044,53,MissedShots,0.9180000305175782,0.625999984741211,0.012284921482205391,Ko Itakura,h,10727,FromCorner,2024,Head,27854,Borussia M.Gladbach,Borussia Dortmund,1,1,2024-12-07 17:30:00,Kevin Stöger,Aerial
+612449,69,BlockedShot,0.8869999694824219,0.610999984741211,0.01859196648001671,Ko Itakura,a,10727,FromCorner,2024,Head,27895,Bayer Leverkusen,Borussia M.Gladbach,3,1,2025-01-18 17:30:00,Philipp Sander,Cross
+616223,73,MissedShots,0.860999984741211,0.45099998474121095,0.019401080906391144,Ko Itakura,h,10727,FromCorner,2024,Head,27929,Borussia M.Gladbach,Eintracht Frankfurt,1,1,2025-02-08 17:30:00,Florian Neuhaus,Chipped
+618332,35,SavedShot,0.975999984741211,0.43,0.19330660998821259,Ko Itakura,h,10727,FromCorner,2024,Head,27947,Borussia M.Gladbach,Augsburg,0,3,2025-02-22 14:30:00,Robin Hack,Aerial
+624187,55,SavedShot,0.8780000305175781,0.534000015258789,0.060133788734674454,Ko Itakura,h,10727,FromCorner,2024,RightFoot,27980,Borussia M.Gladbach,RasenBallsport Leipzig,1,0,2025-03-29 14:30:00,Robin Hack,Goal
+626343,46,Goal,0.894000015258789,0.5970000076293945,0.025884948670864105,Ko Itakura,a,10727,FromCorner,2024,Head,27993,St. Pauli,Borussia M.Gladbach,1,1,2025-04-06 13:30:00,Franck Honorat,Cross
+627062,26,BlockedShot,0.8919999694824219,0.3340000152587891,0.04717148467898369,Ko Itakura,h,10727,FromCorner,2024,LeftFoot,28000,Borussia M.Gladbach,Freiburg,1,2,2025-04-12 13:30:00,,None
+627080,86,BlockedShot,0.759000015258789,0.49400001525878906,0.022970056161284447,Ko Itakura,h,10727,OpenPlay,2024,RightFoot,28000,Borussia M.Gladbach,Freiburg,1,2,2025-04-12 13:30:00,,None
+629329,23,Goal,0.850999984741211,0.4879999923706055,0.35924115777015686,Ko Itakura,a,10727,OpenPlay,2024,RightFoot,28004,Borussia Dortmund,Borussia M.Gladbach,3,2,2025-04-20 15:30:00,,None
+630205,16,SavedShot,0.885,0.4490000152587891,0.25873926281929016,Ko Itakura,a,10727,SetPiece,2024,Head,28020,Holstein Kiel,Borussia M.Gladbach,4,3,2025-04-26 13:30:00,Robin Hack,Chipped
+631339,7,MissedShots,0.8619999694824219,0.5640000152587891,0.054608553647994995,Ko Itakura,h,10727,FromCorner,2024,RightFoot,28027,Borussia M.Gladbach,Hoffenheim,4,4,2025-05-03 13:30:00,Robin Hack,BallTouch
+634343,88,MissedShots,0.7180000305175781,0.34599998474121096,0.011264178901910782,Ko Itakura,h,10727,OpenPlay,2024,RightFoot,28046,Borussia M.Gladbach,Wolfsburg,0,1,2025-05-17 13:30:00,,None

@@ -1,0 +1,9 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+595910,54,MissedShots,0.8119999694824219,0.48700000762939455,0.03998613357543945,Mikayil Faye,h,12530,FromCorner,2024,LeftFoot,28103,Rennes,Monaco,1,2,2024-10-05 19:00:00,Alidu Seidu,Pass
+597188,25,SavedShot,0.87,0.40400001525878904,0.014097373001277447,Mikayil Faye,a,12530,FromCorner,2024,Head,28118,Brest,Rennes,1,1,2024-10-19 15:00:00,,Aerial
+598115,21,BlockedShot,0.915,0.519000015258789,0.04127941653132439,Mikayil Faye,h,12530,FromCorner,2024,Head,28123,Rennes,Le Havre,1,0,2024-10-25 18:45:00,Ludovic Blas,Aerial
+606480,25,SavedShot,0.8490000152587891,0.44299999237060544,0.048487428575754166,Mikayil Faye,a,12530,FromCorner,2024,LeftFoot,28172,Nantes,Rennes,1,0,2024-12-08 16:00:00,Lorenz Assignon,BallTouch
+623010,59,SavedShot,0.7369999694824219,0.700999984741211,0.011697201989591122,Mikayil Faye,a,12530,OpenPlay,2024,LeftFoot,28278,Lens,Rennes,1,0,2025-03-15 20:05:00,,None
+623013,77,BlockedShot,0.9080000305175782,0.6630000305175782,0.05776162073016167,Mikayil Faye,a,12530,OpenPlay,2024,LeftFoot,28278,Lens,Rennes,1,0,2025-03-15 20:05:00,,BallRecovery
+651149,77,BlockedShot,0.8580000305175781,0.7380000305175781,0.01791239343583584,Mikayil Faye,h,12530,OpenPlay,2025,LeftFoot,29934,Cremonese,Juventus,1,2,2025-11-01 19:45:00,Franco Vázquez,Chipped
+651948,42,BlockedShot,0.8240000152587891,0.665,0.027342036366462708,Mikayil Faye,a,12530,SetPiece,2025,RightFoot,29952,Pisa,Cremonese,1,0,2025-11-07 19:45:00,Jari Vandeputte,Pass

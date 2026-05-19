@@ -1,0 +1,20 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+92063,42,MissedShots,0.759000015258789,0.555,0.02417919971048832,Sebastián Cristóforo,a,1436,OpenPlay,2015,RightFoot,1734,Sporting Gijon,Sevilla,2,1,2016-04-20 22:45:00,Yevhen Konoplyanka,Pass
+92070,56,BlockedShot,0.865,0.47200000762939454,0.07711569964885712,Sebastián Cristóforo,a,1436,OpenPlay,2015,LeftFoot,1734,Sporting Gijon,Sevilla,2,1,2016-04-20 22:45:00,,None
+92754,74,SavedShot,0.6840000152587891,0.7580000305175781,0.007645660080015659,Sebastián Cristóforo,a,1436,OpenPlay,2015,RightFoot,1772,Athletic Club,Sevilla,3,1,2016-05-14 21:30:00,Sergio Escudero,Aerial
+149600,85,SavedShot,0.9459999847412109,0.33599998474121096,0.1290699988603592,Sebastián Cristóforo,a,1436,OpenPlay,2016,RightFoot,3290,Bologna,Fiorentina,0,1,2016-10-29 20:00:00,Cristian Tello,Throughball
+150791,88,MissedShots,0.7519999694824219,0.39099998474121095,0.033456601202487946,Sebastián Cristóforo,a,1436,OpenPlay,2016,RightFoot,2762,Empoli,Fiorentina,0,4,2016-11-20 18:00:00,Borja Valero,Pass
+144700,86,SavedShot,0.7530000305175781,0.6940000152587891,0.01895499974489212,Sebastián Cristóforo,h,1436,OpenPlay,2016,RightFoot,3538,Fiorentina,Juventus,2,1,2017-01-15 23:45:00,Maximiliano Olivera,Pass
+145716,71,MissedShots,0.8219999694824218,0.29700000762939455,0.04003880172967911,Sebastián Cristóforo,h,1436,OpenPlay,2016,RightFoot,3556,Fiorentina,Genoa,3,3,2017-01-29 17:00:00,,BallRecovery
+153678,29,MissedShots,0.8119999694824219,0.5590000152587891,0.018878700211644173,Sebastián Cristóforo,a,1436,FromCorner,2016,RightFoot,3706,Napoli,Fiorentina,4,1,2017-05-20 19:45:00,,Aerial
+153682,39,BlockedShot,0.730999984741211,0.45799999237060546,0.00977777037769556,Sebastián Cristóforo,a,1436,OpenPlay,2016,RightFoot,3706,Napoli,Fiorentina,4,1,2017-05-20 19:45:00,Josip Ilicic,Chipped
+172670,58,BlockedShot,0.789000015258789,0.385,0.02056110091507435,Sebastián Cristóforo,a,1436,OpenPlay,2017,LeftFoot,7503,Inter,Fiorentina,3,0,2017-08-20 19:45:00,Gil Dias,Pass
+172684,91,MissedShots,0.7469999694824219,0.34900001525878904,0.04948370158672333,Sebastián Cristóforo,a,1436,DirectFreekick,2017,RightFoot,7503,Inter,Fiorentina,3,0,2017-08-20 19:45:00,,Standard
+280165,9,SavedShot,0.8780000305175781,0.25799999237060545,0.034793101251125336,Sebastián Cristóforo,a,1436,OpenPlay,2018,LeftFoot,10137,Villarreal,Getafe,1,2,2019-01-12 19:45:00,Dimitri Foulquier,Pass
+360652,17,SavedShot,0.7859999847412109,0.3039999961853027,0.016891300678253174,Sebastián Cristóforo,h,1436,OpenPlay,2019,RightFoot,12274,Eibar,Levante,3,0,2020-02-29 12:00:00,,None
+360657,35,BlockedShot,0.8430000305175781,0.3659999847412109,0.07368049770593643,Sebastián Cristóforo,h,1436,OpenPlay,2019,LeftFoot,12274,Eibar,Levante,3,0,2020-02-29 12:00:00,Fabián Orellana,Pass
+364432,11,SavedShot,0.7919999694824219,0.27700000762939453,0.020797699689865112,Sebastián Cristóforo,a,1436,OpenPlay,2019,LeftFoot,12296,Real Madrid,Eibar,3,1,2020-06-14 17:30:00,Rober Correa,Pass
+365611,1,MissedShots,0.7040000152587891,0.4929999923706055,0.009538199752569199,Sebastián Cristóforo,a,1436,OpenPlay,2019,RightFoot,12317,Getafe,Eibar,1,1,2020-06-20 17:30:00,,Aerial
+369351,14,SavedShot,0.7569999694824219,0.77,0.04055500030517578,Sebastián Cristóforo,a,1436,DirectFreekick,2019,RightFoot,12360,Sevilla,Eibar,1,0,2020-07-06 20:00:00,,Standard
+370720,2,BlockedShot,0.76,0.45099998474121095,0.026818599551916122,Sebastián Cristóforo,a,1436,OpenPlay,2019,RightFoot,12379,Espanyol,Eibar,0,2,2020-07-12 12:00:00,Sergio Álvarez,BallRecovery
+370721,8,MissedShots,0.7980000305175782,0.674000015258789,0.08377750217914581,Sebastián Cristóforo,a,1436,DirectFreekick,2019,RightFoot,12379,Espanyol,Eibar,0,2,2020-07-12 12:00:00,,Standard

@@ -1,0 +1,30 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+328249,50,MissedShots,0.759000015258789,0.6020000076293945,0.02448279969394207,Héctor Herrera,a,7893,OpenPlay,2019,RightFoot,12123,Alaves,Atletico Madrid,1,1,2019-10-29 18:00:00,Thomas Partey,Pass
+331464,7,MissedShots,0.9590000152587891,0.40299999237060546,0.022904599085450172,Héctor Herrera,h,7893,FromCorner,2019,Head,12145,Atletico Madrid,Espanyol,3,1,2019-11-10 15:00:00,Kieran Trippier,Aerial
+331472,37,BlockedShot,0.730999984741211,0.40700000762939453,0.019375300034880638,Héctor Herrera,h,7893,OpenPlay,2019,RightFoot,12145,Atletico Madrid,Espanyol,3,1,2019-11-10 15:00:00,Koke,Pass
+331475,45,MissedShots,0.9619999694824218,0.4829999923706055,0.10507699847221375,Héctor Herrera,h,7893,OpenPlay,2019,Head,12145,Atletico Madrid,Espanyol,3,1,2019-11-10 15:00:00,Ángel Correa,Aerial
+331483,61,MissedShots,0.8130000305175781,0.45799999237060546,0.03023410029709339,Héctor Herrera,h,7893,OpenPlay,2019,LeftFoot,12145,Atletico Madrid,Espanyol,3,1,2019-11-10 15:00:00,Ángel Correa,TakeOn
+331487,78,BlockedShot,0.8919999694824219,0.40599998474121096,0.1135220006108284,Héctor Herrera,h,7893,OpenPlay,2019,LeftFoot,12145,Atletico Madrid,Espanyol,3,1,2019-11-10 15:00:00,Ángel Correa,Pass
+332433,49,BlockedShot,0.805,0.48700000762939455,0.04994560033082962,Héctor Herrera,a,7893,OpenPlay,2019,RightFoot,12156,Granada,Atletico Madrid,1,1,2019-11-23 17:30:00,Koke,Pass
+334634,24,MissedShots,0.8490000152587891,0.59,0.07154820114374161,Héctor Herrera,h,7893,OpenPlay,2019,RightFoot,12165,Atletico Madrid,Barcelona,0,1,2019-12-01 20:00:00,,BallRecovery
+339285,50,BlockedShot,0.774000015258789,0.3390000152587891,0.017855599522590637,Héctor Herrera,a,7893,FromCorner,2019,RightFoot,12194,Real Betis,Atletico Madrid,1,2,2019-12-22 15:00:00,,None
+353710,59,MissedShots,0.784000015258789,0.47,0.051914799958467484,Héctor Herrera,h,7893,OpenPlay,2019,RightFoot,12204,Atletico Madrid,Levante,2,1,2020-01-04 17:30:00,,None
+355045,13,BlockedShot,0.8130000305175781,0.45599998474121095,0.04683230072259903,Héctor Herrera,a,7893,OpenPlay,2019,LeftFoot,12216,Eibar,Atletico Madrid,2,0,2020-01-18 20:00:00,,None
+356118,85,SavedShot,0.8059999847412109,0.17399999618530274,0.02517230063676834,Héctor Herrera,h,7893,FromCorner,2019,LeftFoot,12224,Atletico Madrid,Leganes,0,0,2020-01-26 11:00:00,Thomas Partey,Pass
+365678,33,MissedShots,0.8169999694824219,0.33599998474121096,0.025926699861884117,Héctor Herrera,h,7893,FromCorner,2019,RightFoot,12314,Atletico Madrid,Real Valladolid,1,0,2020-06-20 20:00:00,,None
+365683,49,BlockedShot,0.7859999847412109,0.36900001525878906,0.026465900242328644,Héctor Herrera,h,7893,OpenPlay,2019,LeftFoot,12314,Atletico Madrid,Real Valladolid,1,0,2020-06-20 20:00:00,Kieran Trippier,Pass
+383587,57,ShotOnPost,0.7909999847412109,0.73,0.02188820019364357,Héctor Herrera,h,7893,FromCorner,2020,RightFoot,14835,Atletico Madrid,Real Betis,2,0,2020-10-24 19:00:00,Yannick Carrasco,Pass
+414840,42,MissedShots,0.73,0.3820000076293945,0.017433099448680878,Héctor Herrera,a,7893,OpenPlay,2020,LeftFoot,15069,Real Betis,Atletico Madrid,1,1,2021-04-11 19:00:00,Kieran Trippier,Pass
+415866,39,SavedShot,0.7630000305175781,0.4759999847412109,0.02586429938673973,Héctor Herrera,h,7893,OpenPlay,2020,LeftFoot,15100,Atletico Madrid,Eibar,5,0,2021-04-18 14:15:00,Marcos Llorente,Pass
+415867,41,MissedShots,0.9480000305175781,0.43099998474121093,0.11508399993181229,Héctor Herrera,h,7893,FromCorner,2020,Head,15100,Atletico Madrid,Eibar,5,0,2021-04-18 14:15:00,Kieran Trippier,Cross
+416807,11,MissedShots,0.9,0.34,0.0783941000699997,Héctor Herrera,h,7893,OpenPlay,2020,LeftFoot,15079,Atletico Madrid,SD Huesca,2,0,2021-04-22 17:00:00,Kieran Trippier,TakeOn
+418119,4,MissedShots,0.885,0.3729999923706055,0.009534250013530254,Héctor Herrera,a,7893,SetPiece,2020,Head,15088,Athletic Club,Atletico Madrid,2,1,2021-04-25 19:00:00,Kieran Trippier,Rebound
+418123,15,BlockedShot,0.89,0.710999984741211,0.040662601590156555,Héctor Herrera,a,7893,OpenPlay,2020,RightFoot,15088,Athletic Club,Atletico Madrid,2,1,2021-04-25 19:00:00,Ángel Correa,Pass
+431425,56,BlockedShot,0.7430000305175781,0.509000015258789,0.017386099323630333,Héctor Herrera,h,7893,FromCorner,2021,LeftFoot,17177,Atletico Madrid,Athletic Club,0,0,2021-09-18 14:15:00,Rodrigo de Paul,None
+432408,74,BlockedShot,0.6830000305175781,0.4809999847412109,0.01428959984332323,Héctor Herrera,a,7893,OpenPlay,2021,RightFoot,17187,Getafe,Atletico Madrid,1,2,2021-09-21 17:30:00,Yannick Carrasco,Pass
+439255,11,MissedShots,0.855999984741211,0.685,0.03284379839897156,Héctor Herrera,a,7893,FromCorner,2021,LeftFoot,17242,Levante,Atletico Madrid,2,2,2021-10-28 19:30:00,,None
+448680,79,SavedShot,0.955999984741211,0.4759999847412109,0.14109599590301514,Héctor Herrera,a,7893,SetPiece,2021,Head,17303,Real Madrid,Atletico Madrid,2,0,2021-12-12 20:00:00,Thomas Lemar,Cross
+450241,93,MissedShots,0.909000015258789,0.37400001525878906,0.04246139898896217,Héctor Herrera,a,7893,FromCorner,2021,LeftFoot,17219,Granada,Atletico Madrid,2,1,2021-12-22 20:00:00,João Félix,Cross
+460079,4,SavedShot,0.774000015258789,0.26299999237060545,0.01792900077998638,Héctor Herrera,h,7893,FromCorner,2021,LeftFoot,17386,Atletico Madrid,Celta Vigo,2,0,2022-02-26 20:00:00,Ángel Correa,BallTouch
+462232,51,SavedShot,0.6730000305175782,0.48700000762939455,0.014099899679422379,Héctor Herrera,h,7893,OpenPlay,2021,RightFoot,17406,Atletico Madrid,Cadiz,2,1,2022-03-11 20:00:00,Rodrigo de Paul,Pass
+471916,64,BlockedShot,0.74,0.5409999847412109,0.018762199208140373,Héctor Herrera,a,7893,OpenPlay,2021,LeftFoot,17467,Athletic Club,Atletico Madrid,2,0,2022-04-30 19:00:00,Mario Hermoso,BallTouch

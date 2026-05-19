@@ -1,0 +1,109 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+316,39,BlockedShot,0.805,0.36400001525878906,0.02510960027575493,Romain Alessandrini,h,3394,SetPiece,2014,LeftFoot,6202,Marseille,Montpellier,0,2,2014-08-17 16:00:00,,None
+317,41,MissedShots,0.899000015258789,0.5940000152587891,0.020927099511027336,Romain Alessandrini,h,3394,OpenPlay,2014,Head,6202,Marseille,Montpellier,0,2,2014-08-17 16:00:00,Florian Thauvin,Aerial
+327,70,ShotOnPost,0.9059999847412109,0.6759999847412109,0.043180301785469055,Romain Alessandrini,h,3394,OpenPlay,2014,LeftFoot,6202,Marseille,Montpellier,0,2,2014-08-17 16:00:00,,None
+328,73,BlockedShot,0.8590000152587891,0.43400001525878906,0.07157120108604431,Romain Alessandrini,h,3394,OpenPlay,2014,RightFoot,6202,Marseille,Montpellier,0,2,2014-08-17 16:00:00,,End
+507,90,MissedShots,0.8019999694824219,0.2979999923706055,0.02636530064046383,Romain Alessandrini,a,3394,FromCorner,2014,LeftFoot,6206,Guingamp,Marseille,0,1,2014-08-23 16:00:00,Abdel Barrada,Cross
+884,74,BlockedShot,0.8640000152587891,0.39099998474121095,0.06364189833402634,Romain Alessandrini,h,3394,FromCorner,2014,LeftFoot,6215,Marseille,Nice,4,0,2014-08-29 19:30:00,,Rebound
+887,85,MissedShots,0.875,0.4420000076293945,0.4238150119781494,Romain Alessandrini,h,3394,OpenPlay,2014,LeftFoot,6215,Marseille,Nice,4,0,2014-08-29 19:30:00,,Dispossessed
+2127,93,Goal,0.775,0.37099998474121093,0.07345219701528549,Romain Alessandrini,h,3394,DirectFreekick,2014,LeftFoot,6156,Marseille,Rennes,3,0,2014-09-20 16:00:00,,Standard
+2188,67,BlockedShot,0.8930000305175781,0.40400001525878904,0.07224269956350327,Romain Alessandrini,h,3394,SetPiece,2014,LeftFoot,6184,Marseille,Saint-Etienne,2,1,2014-09-28 20:00:00,André Ayew,None
+2190,71,SavedShot,0.8919999694824219,0.32799999237060545,0.08080460131168365,Romain Alessandrini,h,3394,OpenPlay,2014,LeftFoot,6184,Marseille,Saint-Etienne,2,1,2014-09-28 20:00:00,Dimitri Payet,TakeOn
+2462,89,SavedShot,0.9669999694824218,0.41700000762939454,0.31413498520851135,Romain Alessandrini,a,3394,OpenPlay,2014,Head,6115,Caen,Marseille,1,2,2014-10-04 16:00:00,André Ayew,Chipped
+2028,83,BlockedShot,0.9080000305175782,0.6090000152587891,0.04064619913697243,Romain Alessandrini,a,3394,OpenPlay,2014,Head,6143,Lyon,Marseille,1,0,2014-10-26 20:00:00,André-Pierre Gignac,Cross
+5370,6,MissedShots,0.850999984741211,0.4520000076293945,0.04690060019493103,Romain Alessandrini,a,3394,OpenPlay,2014,LeftFoot,6094,Paris Saint Germain,Marseille,2,0,2014-11-09 20:00:00,Benjamin Mendy,Cross
+5380,29,SavedShot,0.775,0.29100000381469726,0.019005000591278076,Romain Alessandrini,a,3394,OpenPlay,2014,LeftFoot,6094,Paris Saint Germain,Marseille,2,0,2014-11-09 20:00:00,Brice Dja Djédjé,Pass
+5386,50,BlockedShot,0.8059999847412109,0.30700000762939456,0.022936800494790077,Romain Alessandrini,a,3394,OpenPlay,2014,LeftFoot,6094,Paris Saint Germain,Marseille,2,0,2014-11-09 20:00:00,,BallTouch
+3365,89,MissedShots,0.7609999847412109,0.43900001525878907,0.04082849994301796,Romain Alessandrini,h,3394,OpenPlay,2014,RightFoot,6104,Marseille,Nantes,2,0,2014-11-28 19:30:00,Benjamin Mendy,Pass
+4298,13,MissedShots,0.8780000305175781,0.5529999923706055,0.06510820239782333,Romain Alessandrini,h,3394,OpenPlay,2014,RightFoot,6018,Marseille,Guingamp,2,1,2015-01-18 20:00:00,Dimitri Payet,Cross
+4305,35,MissedShots,0.7680000305175781,0.674000015258789,0.017363499850034714,Romain Alessandrini,h,3394,OpenPlay,2014,LeftFoot,6018,Marseille,Guingamp,2,1,2015-01-18 20:00:00,Benjamin Mendy,Pass
+6122,26,BlockedShot,0.8580000305175781,0.6409999847412109,0.05532030016183853,Romain Alessandrini,h,3394,OpenPlay,2014,RightFoot,6030,Marseille,Evian Thonon Gaillard,1,0,2015-01-31 15:30:00,,None
+6124,28,BlockedShot,0.7130000305175781,0.4420000076293945,0.04384240135550499,Romain Alessandrini,h,3394,DirectFreekick,2014,LeftFoot,6030,Marseille,Evian Thonon Gaillard,1,0,2015-01-31 15:30:00,,Standard
+3685,23,BlockedShot,0.720999984741211,0.6680000305175782,0.009526720270514488,Romain Alessandrini,a,3394,OpenPlay,2014,RightFoot,5964,Rennes,Marseille,1,1,2015-02-07 15:00:00,,Aerial
+3687,32,MissedShots,0.855,0.745,0.023240000009536743,Romain Alessandrini,a,3394,OpenPlay,2014,LeftFoot,5964,Rennes,Marseille,1,1,2015-02-07 15:00:00,André-Pierre Gignac,Pass
+4265,69,MissedShots,0.909000015258789,0.5929999923706055,0.024601200595498085,Romain Alessandrini,a,3394,SetPiece,2014,Head,5990,Saint-Etienne,Marseille,2,2,2015-02-22 20:00:00,,Aerial
+4270,79,MissedShots,0.6990000152587891,0.6790000152587891,0.014463500119745731,Romain Alessandrini,a,3394,OpenPlay,2014,LeftFoot,5990,Saint-Etienne,Marseille,2,2,2015-02-22 20:00:00,Rod Fanni,Pass
+4276,89,MissedShots,0.909000015258789,0.7069999694824218,0.062324900180101395,Romain Alessandrini,a,3394,OpenPlay,2014,LeftFoot,5990,Saint-Etienne,Marseille,2,2,2015-02-22 20:00:00,Benjamin Mendy,Pass
+4881,93,MissedShots,0.89,0.30100000381469727,0.023698100820183754,Romain Alessandrini,h,3394,OpenPlay,2014,OtherBodyPart,5991,Marseille,Caen,2,3,2015-02-27 19:30:00,Jacques-Alaixys Romao,Chipped
+8031,18,ShotOnPost,0.965999984741211,0.32099998474121094,0.048739898949861526,Romain Alessandrini,a,3394,OpenPlay,2014,RightFoot,5903,Bordeaux,Marseille,1,0,2015-04-12 20:00:00,André-Pierre Gignac,Chipped
+8035,28,BlockedShot,0.899000015258789,0.5359999847412109,0.07414170354604721,Romain Alessandrini,a,3394,OpenPlay,2014,Head,5903,Bordeaux,Marseille,1,0,2015-04-12 20:00:00,Florian Thauvin,Cross
+8036,30,MissedShots,0.87,0.26299999237060545,0.02585900016129017,Romain Alessandrini,a,3394,OpenPlay,2014,LeftFoot,5903,Bordeaux,Marseille,1,0,2015-04-12 20:00:00,Dimitri Payet,Chipped
+8039,40,SavedShot,0.860999984741211,0.3629999923706055,0.0674256980419159,Romain Alessandrini,a,3394,OpenPlay,2014,LeftFoot,5903,Bordeaux,Marseille,1,0,2015-04-12 20:00:00,Dimitri Payet,Pass
+8044,55,BlockedShot,0.784000015258789,0.24,0.04683079943060875,Romain Alessandrini,a,3394,DirectFreekick,2014,LeftFoot,5903,Bordeaux,Marseille,1,0,2015-04-12 20:00:00,,Standard
+6403,44,MissedShots,0.85,0.4520000076293945,0.061469800770282745,Romain Alessandrini,a,3394,OpenPlay,2014,LeftFoot,5905,Nantes,Marseille,1,0,2015-04-17 19:30:00,Jérémy Morel,Chipped
+6702,78,MissedShots,0.889000015258789,0.7390000152587891,0.03380100056529045,Romain Alessandrini,h,3394,OpenPlay,2014,LeftFoot,5915,Marseille,Lorient,3,5,2015-04-24 19:30:00,,None
+6706,86,MissedShots,0.9419999694824219,0.48700000762939455,0.4945569932460785,Romain Alessandrini,h,3394,OpenPlay,2014,Head,5915,Marseille,Lorient,3,5,2015-04-24 19:30:00,Lucas Ocampos,Cross
+7215,64,MissedShots,0.735999984741211,0.32,0.030419399961829185,Romain Alessandrini,a,3394,OpenPlay,2014,LeftFoot,5845,Metz,Marseille,0,2,2015-05-01 19:30:00,,None
+6323,23,SavedShot,0.8680000305175781,0.3290000152587891,0.05392089858651161,Romain Alessandrini,h,3394,OpenPlay,2014,LeftFoot,5864,Marseille,Monaco,2,1,2015-05-10 20:00:00,André Ayew,Pass
+6324,23,MissedShots,0.7930000305175782,0.38799999237060545,0.03223999962210655,Romain Alessandrini,h,3394,OpenPlay,2014,LeftFoot,5864,Marseille,Monaco,2,1,2015-05-10 20:00:00,,Rebound
+6336,69,BlockedShot,0.9,0.26600000381469724,0.02989239990711212,Romain Alessandrini,h,3394,SetPiece,2014,LeftFoot,5864,Marseille,Monaco,2,1,2015-05-10 20:00:00,Nicolas N&#039;Koulou,None
+6342,86,Goal,0.8719999694824219,0.485,0.3669680058956146,Romain Alessandrini,h,3394,OpenPlay,2014,RightFoot,5864,Marseille,Monaco,2,1,2015-05-10 20:00:00,Dimitri Payet,Pass
+6757,6,MissedShots,0.8780000305175781,0.36400001525878906,0.06895259767770767,Romain Alessandrini,a,3394,OpenPlay,2014,LeftFoot,5869,Lille,Marseille,0,4,2015-05-16 20:00:00,André Ayew,HeadPass
+6758,11,MissedShots,0.8009999847412109,0.325,0.07988850027322769,Romain Alessandrini,a,3394,DirectFreekick,2014,LeftFoot,5869,Lille,Marseille,0,4,2015-05-16 20:00:00,,Standard
+6771,60,MissedShots,0.775,0.34,0.02129399962723255,Romain Alessandrini,a,3394,OpenPlay,2014,LeftFoot,5869,Lille,Marseille,0,4,2015-05-16 20:00:00,André-Pierre Gignac,Pass
+6776,69,Goal,0.855,0.5420000076293945,0.5189679861068726,Romain Alessandrini,a,3394,OpenPlay,2014,LeftFoot,5869,Lille,Marseille,0,4,2015-05-16 20:00:00,André Ayew,Throughball
+7289,62,MissedShots,0.7719999694824219,0.42900001525878906,0.03231000155210495,Romain Alessandrini,h,3394,OpenPlay,2014,LeftFoot,5880,Marseille,SC Bastia,3,0,2015-05-23 20:00:00,Dimitri Payet,Pass
+61463,41,MissedShots,0.749000015258789,0.24600000381469728,0.015697000548243523,Romain Alessandrini,h,3394,OpenPlay,2015,LeftFoot,1871,Marseille,Caen,0,1,2015-08-08 23:00:00,Florian Thauvin,Pass
+61672,9,BlockedShot,0.835999984741211,0.5029999923706054,0.0512303002178669,Romain Alessandrini,a,3394,OpenPlay,2015,LeftFoot,1886,Reims,Marseille,1,0,2015-08-16 16:00:00,Benjamin Mendy,Cross
+61674,11,MissedShots,0.815,0.365,0.041985999792814255,Romain Alessandrini,a,3394,OpenPlay,2015,LeftFoot,1886,Reims,Marseille,1,0,2015-08-16 16:00:00,Florian Thauvin,Pass
+61678,16,SavedShot,0.7819999694824219,0.16100000381469726,0.014194600284099579,Romain Alessandrini,a,3394,OpenPlay,2015,LeftFoot,1886,Reims,Marseille,1,0,2015-08-16 16:00:00,Mario Lemina,Pass
+61697,54,BlockedShot,0.7140000152587891,0.495,0.04559339955449104,Romain Alessandrini,a,3394,DirectFreekick,2015,LeftFoot,1886,Reims,Marseille,1,0,2015-08-16 16:00:00,,Standard
+61699,54,BlockedShot,0.7380000305175781,0.639000015258789,0.012504699639976025,Romain Alessandrini,a,3394,SetPiece,2015,LeftFoot,1886,Reims,Marseille,1,0,2015-08-16 16:00:00,,Rebound
+61893,7,MissedShots,0.8819999694824219,0.3770000076293945,0.03973869979381561,Romain Alessandrini,h,3394,OpenPlay,2015,LeftFoot,1898,Marseille,Troyes,6,0,2015-08-23 23:00:00,Benjamin Mendy,Cross
+61915,86,Goal,0.9259999847412109,0.5529999923706055,0.5651580095291138,Romain Alessandrini,h,3394,OpenPlay,2015,LeftFoot,1898,Marseille,Troyes,6,0,2015-08-23 23:00:00,Michy Batshuayi,Pass
+62676,30,MissedShots,0.8869999694824219,0.37799999237060544,0.08070290088653564,Romain Alessandrini,a,3394,OpenPlay,2015,LeftFoot,1899,Guingamp,Marseille,2,0,2015-08-28 22:30:00,Rémy Cabella,Dispossessed
+62682,44,MissedShots,0.840999984741211,0.32299999237060545,0.02888990007340908,Romain Alessandrini,a,3394,FromCorner,2015,RightFoot,1899,Guingamp,Marseille,2,0,2015-08-28 22:30:00,Rémy Cabella,LayOff
+62683,46,MissedShots,0.9340000152587891,0.22899999618530273,0.03310190141201019,Romain Alessandrini,a,3394,OpenPlay,2015,LeftFoot,1899,Guingamp,Marseille,2,0,2015-08-28 22:30:00,Javier Manquillo,Pass
+62689,49,MissedShots,0.7319999694824219,0.3609999847412109,0.01812640018761158,Romain Alessandrini,a,3394,OpenPlay,2015,LeftFoot,1899,Guingamp,Marseille,2,0,2015-08-28 22:30:00,Abdel Barrada,Pass
+62699,68,BlockedShot,0.845,0.54,0.05550599843263626,Romain Alessandrini,a,3394,OpenPlay,2015,LeftFoot,1899,Guingamp,Marseille,2,0,2015-08-28 22:30:00,Benjamin Mendy,Cross
+62401,20,SavedShot,0.8859999847412109,0.32,0.046188998967409134,Romain Alessandrini,h,3394,SetPiece,2015,RightFoot,1918,Marseille,SC Bastia,4,1,2015-09-13 23:00:00,,None
+62412,45,Goal,0.8219999694824218,0.49700000762939456,0.29534101486206055,Romain Alessandrini,h,3394,OpenPlay,2015,LeftFoot,1918,Marseille,SC Bastia,4,1,2015-09-13 23:00:00,Michy Batshuayi,LayOff
+62416,65,Goal,0.89,0.3629999923706055,0.08129099756479263,Romain Alessandrini,h,3394,OpenPlay,2015,LeftFoot,1918,Marseille,SC Bastia,4,1,2015-09-13 23:00:00,,None
+62213,9,MissedShots,0.9290000152587891,0.35900001525878905,0.0978010967373848,Romain Alessandrini,h,3394,OpenPlay,2015,RightFoot,1928,Marseille,Lyon,1,1,2015-09-20 23:00:00,Michy Batshuayi,Pass
+62230,28,MissedShots,0.8440000152587891,0.27,0.027135200798511505,Romain Alessandrini,h,3394,OpenPlay,2015,LeftFoot,1928,Marseille,Lyon,1,1,2015-09-20 23:00:00,Javier Manquillo,Pass
+63192,5,BlockedShot,0.855999984741211,0.4640000152587891,0.06237329915165901,Romain Alessandrini,a,3394,OpenPlay,2015,LeftFoot,1957,Paris Saint Germain,Marseille,2,1,2015-10-04 23:00:00,Abdel Barrada,Cross
+63196,12,SavedShot,0.735999984741211,0.27799999237060546,0.01836170069873333,Romain Alessandrini,a,3394,OpenPlay,2015,LeftFoot,1957,Paris Saint Germain,Marseille,2,1,2015-10-04 23:00:00,Lass Diarra,Pass
+63240,68,MissedShots,0.9119999694824219,0.47700000762939454,0.04200059920549393,Romain Alessandrini,a,3394,OpenPlay,2015,Head,1957,Paris Saint Germain,Marseille,2,1,2015-10-04 23:00:00,Abdel Barrada,Aerial
+63391,41,BlockedShot,0.7519999694824219,0.4829999923706055,0.02399430051445961,Romain Alessandrini,h,3394,OpenPlay,2015,LeftFoot,1965,Marseille,Lorient,1,1,2015-10-18 16:00:00,Lucas Silva,Pass
+63397,54,MissedShots,0.81,0.4759999847412109,0.05800069868564606,Romain Alessandrini,h,3394,OpenPlay,2015,LeftFoot,1965,Marseille,Lorient,1,1,2015-10-18 16:00:00,Rémy Cabella,Pass
+63406,76,BlockedShot,0.860999984741211,0.30700000762939456,0.040631700307130814,Romain Alessandrini,h,3394,OpenPlay,2015,LeftFoot,1965,Marseille,Lorient,1,1,2015-10-18 16:00:00,Rémy Cabella,Pass
+63407,76,SavedShot,0.7880000305175782,0.3870000076293945,0.02632799930870533,Romain Alessandrini,h,3394,OpenPlay,2015,LeftFoot,1965,Marseille,Lorient,1,1,2015-10-18 16:00:00,Rémy Cabella,Pass
+63679,21,MissedShots,0.85,0.639000015258789,0.0618911013007164,Romain Alessandrini,a,3394,OpenPlay,2015,LeftFoot,1975,Lille,Marseille,1,2,2015-10-25 20:00:00,Benjamin Mendy,Pass
+63684,36,ShotOnPost,0.885,0.5540000152587891,0.37896299362182617,Romain Alessandrini,a,3394,OpenPlay,2015,LeftFoot,1975,Lille,Marseille,1,2,2015-10-25 20:00:00,Lucas Silva,Throughball
+63693,54,SavedShot,0.7669999694824219,0.47700000762939454,0.050518698990345,Romain Alessandrini,a,3394,OpenPlay,2015,LeftFoot,1975,Lille,Marseille,1,2,2015-10-25 20:00:00,Rolando,TakeOn
+63696,55,Goal,0.825,0.345,0.05292050167918205,Romain Alessandrini,a,3394,OpenPlay,2015,LeftFoot,1975,Lille,Marseille,1,2,2015-10-25 20:00:00,Michy Batshuayi,Pass
+63704,77,BlockedShot,0.7809999847412109,0.43599998474121093,0.09436590224504471,Romain Alessandrini,a,3394,DirectFreekick,2015,LeftFoot,1975,Lille,Marseille,1,2,2015-10-25 20:00:00,,Standard
+64559,24,MissedShots,0.7340000152587891,0.40900001525878904,0.01707479916512966,Romain Alessandrini,a,3394,OpenPlay,2015,LeftFoot,1987,Nantes,Marseille,0,1,2015-11-02 00:00:00,Rémy Cabella,Pass
+64560,25,SavedShot,0.805,0.3170000076293945,0.04065459966659546,Romain Alessandrini,a,3394,OpenPlay,2015,LeftFoot,1987,Nantes,Marseille,0,1,2015-11-02 00:00:00,,TakeOn
+64563,33,MissedShots,0.9390000152587891,0.2929999923706055,0.04290840029716492,Romain Alessandrini,a,3394,OpenPlay,2015,LeftFoot,1987,Nantes,Marseille,0,1,2015-11-02 00:00:00,Michy Batshuayi,TakeOn
+64593,11,Goal,0.9130000305175782,0.57,0.4297730028629303,Romain Alessandrini,h,3394,OpenPlay,2015,LeftFoot,2018,Marseille,Monaco,3,3,2015-11-30 00:00:00,,BallTouch
+64597,33,BlockedShot,0.76,0.25799999237060545,0.017161900177598,Romain Alessandrini,h,3394,OpenPlay,2015,LeftFoot,2018,Marseille,Monaco,3,3,2015-11-30 00:00:00,Lass Diarra,Pass
+64605,42,SavedShot,0.7780000305175782,0.38299999237060545,0.07895150035619736,Romain Alessandrini,h,3394,DirectFreekick,2015,LeftFoot,2018,Marseille,Monaco,3,3,2015-11-30 00:00:00,,Standard
+64607,49,SavedShot,0.7130000305175781,0.425,0.0430154986679554,Romain Alessandrini,h,3394,DirectFreekick,2015,LeftFoot,2018,Marseille,Monaco,3,3,2015-11-30 00:00:00,,Standard
+65016,11,SavedShot,0.7080000305175781,0.42900001525878906,0.04116399958729744,Romain Alessandrini,a,3394,DirectFreekick,2015,LeftFoot,2028,Rennes,Marseille,0,1,2015-12-04 00:00:00,,Standard
+69353,73,SavedShot,0.795,0.39299999237060546,0.03220750018954277,Romain Alessandrini,h,3394,OpenPlay,2015,LeftFoot,2118,Marseille,Paris Saint Germain,1,2,2016-02-08 00:00:00,,None
+69354,80,BlockedShot,0.785,0.5879999923706055,0.032951198518276215,Romain Alessandrini,h,3394,OpenPlay,2015,LeftFoot,2118,Marseille,Paris Saint Germain,1,2,2016-02-08 00:00:00,Mauricio Isla,Pass
+69358,91,MissedShots,0.7519999694824219,0.3579999923706055,0.012845800258219242,Romain Alessandrini,h,3394,OpenPlay,2015,RightFoot,2118,Marseille,Paris Saint Germain,1,2,2016-02-08 00:00:00,Lass Diarra,TakeOn
+66776,85,SavedShot,0.9719999694824218,0.165,0.06407999992370605,Romain Alessandrini,h,3394,DirectFreekick,2015,LeftFoot,2154,Marseille,Toulouse,1,1,2016-03-06 17:00:00,,Standard
+67096,66,BlockedShot,0.769000015258789,0.6680000305175782,0.009024029597640038,Romain Alessandrini,h,3394,FromCorner,2015,LeftFoot,2169,Marseille,Rennes,2,5,2016-03-18 23:30:00,Florian Thauvin,Chipped
+67099,74,SavedShot,0.9119999694824219,0.6969999694824218,0.039320699870586395,Romain Alessandrini,h,3394,OpenPlay,2015,LeftFoot,2169,Marseille,Rennes,2,5,2016-03-18 23:30:00,,None
+67557,77,MissedShots,0.7440000152587891,0.3340000152587891,0.04789640009403229,Romain Alessandrini,a,3394,DirectFreekick,2015,LeftFoot,2187,SC Bastia,Marseille,2,1,2016-04-03 19:00:00,,Standard
+67558,81,SavedShot,0.7559999847412109,0.43599998474121093,0.06942079961299896,Romain Alessandrini,a,3394,DirectFreekick,2015,LeftFoot,2187,SC Bastia,Marseille,2,1,2016-04-03 19:00:00,,Standard
+68048,5,MissedShots,0.8619999694824219,0.54,0.06917759776115417,Romain Alessandrini,a,3394,SetPiece,2015,LeftFoot,2227,Angers,Marseille,0,1,2016-05-01 19:00:00,,None
+68060,52,MissedShots,0.8019999694824219,0.74,0.0398888997733593,Romain Alessandrini,a,3394,OpenPlay,2015,LeftFoot,2227,Angers,Marseille,0,1,2016-05-01 19:00:00,Abdel Barrada,Pass
+68154,19,SavedShot,0.830999984741211,0.7169999694824218,0.028174299746751785,Romain Alessandrini,h,3394,OpenPlay,2015,RightFoot,2229,Marseille,Reims,1,0,2016-05-07 23:00:00,Abdel Barrada,Pass
+68158,35,MissedShots,0.84,0.40799999237060547,0.03701610118150711,Romain Alessandrini,h,3394,FromCorner,2015,RightFoot,2229,Marseille,Reims,1,0,2016-05-07 23:00:00,Abdel Barrada,Cross
+68160,42,BlockedShot,0.8780000305175781,0.685,0.05231909826397896,Romain Alessandrini,h,3394,OpenPlay,2015,RightFoot,2229,Marseille,Reims,1,0,2016-05-07 23:00:00,Steven Fletcher,Pass
+68162,43,MissedShots,0.7040000152587891,0.580999984741211,0.018714599311351776,Romain Alessandrini,h,3394,OpenPlay,2015,LeftFoot,2229,Marseille,Reims,1,0,2016-05-07 23:00:00,Steven Fletcher,Pass
+68166,51,MissedShots,0.9269999694824219,0.40700000762939453,0.20550699532032013,Romain Alessandrini,h,3394,FromCorner,2015,Head,2229,Marseille,Reims,1,0,2016-05-07 23:00:00,Abdel Barrada,Cross
+68171,60,BlockedShot,0.8119999694824219,0.695,0.03473740071058273,Romain Alessandrini,h,3394,OpenPlay,2015,LeftFoot,2229,Marseille,Reims,1,0,2016-05-07 23:00:00,Abdel Barrada,Pass
+68777,5,MissedShots,0.8730000305175781,0.664000015258789,0.05590960010886192,Romain Alessandrini,a,3394,OpenPlay,2015,LeftFoot,2242,Troyes,Marseille,1,1,2016-05-14 23:00:00,Javier Manquillo,Pass
+68781,14,BlockedShot,0.7959999847412109,0.6669999694824219,0.014805500395596027,Romain Alessandrini,a,3394,FromCorner,2015,RightFoot,2242,Troyes,Marseille,1,1,2016-05-14 23:00:00,,Aerial
+68786,36,BlockedShot,0.845,0.7280000305175781,0.028416400775313377,Romain Alessandrini,a,3394,OpenPlay,2015,LeftFoot,2242,Troyes,Marseille,1,1,2016-05-14 23:00:00,Rémy Cabella,Pass
+68792,54,BlockedShot,0.7780000305175782,0.4759999847412109,0.023357300087809563,Romain Alessandrini,a,3394,FromCorner,2015,RightFoot,2242,Troyes,Marseille,1,1,2016-05-14 23:00:00,,None
+105263,82,MissedShots,0.91,0.565,0.06574559956789017,Romain Alessandrini,a,3394,OpenPlay,2016,LeftFoot,2833,Montpellier,Marseille,3,1,2016-11-04 23:45:00,Hiroki Sakai,Cross
+108278,18,BlockedShot,0.9569999694824218,0.6020000076293945,0.044923100620508194,Romain Alessandrini,h,3394,OpenPlay,2016,Head,2851,Marseille,Caen,1,0,2016-11-20 20:00:00,,Aerial
+108282,40,MissedShots,0.9469999694824218,0.6140000152587891,0.11899299919605255,Romain Alessandrini,h,3394,OpenPlay,2016,LeftFoot,2851,Marseille,Caen,1,0,2016-11-20 20:00:00,Bafétimbi Gomis,Pass
+108284,41,MissedShots,0.919000015258789,0.5670000076293945,0.1302500069141388,Romain Alessandrini,h,3394,OpenPlay,2016,LeftFoot,2851,Marseille,Caen,1,0,2016-11-20 20:00:00,Bafétimbi Gomis,Rebound
+108288,67,BlockedShot,0.8930000305175781,0.6309999847412109,0.12050700187683105,Romain Alessandrini,h,3394,OpenPlay,2016,LeftFoot,2851,Marseille,Caen,1,0,2016-11-20 20:00:00,Florian Thauvin,Throughball
+107323,89,MissedShots,0.7819999694824219,0.2620000076293945,0.010954000055789948,Romain Alessandrini,a,3394,OpenPlay,2016,LeftFoot,2871,Saint-Etienne,Marseille,0,0,2016-11-30 22:00:00,Hiroki Sakai,HeadPass

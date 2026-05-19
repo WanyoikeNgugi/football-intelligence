@@ -1,0 +1,11 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+382045,29,BlockedShot,0.7180000305175781,0.5829999923706055,0.013788199983537197,Christian Gebauer,h,8796,FromCorner,2020,RightFoot,15172,Arminia Bielefeld,Bayern Munich,1,4,2020-10-17 16:30:00,,None
+382052,46,SavedShot,0.9290000152587891,0.325,0.2842999994754791,Christian Gebauer,h,8796,OpenPlay,2020,RightFoot,15172,Arminia Bielefeld,Bayern Munich,1,4,2020-10-17 16:30:00,Ritsu Doan,Throughball
+393858,18,MissedShots,0.9290000152587891,0.5670000076293945,0.13627199828624725,Christian Gebauer,a,8796,OpenPlay,2020,RightFoot,15254,Schalke 04,Arminia Bielefeld,0,1,2020-12-19 14:30:00,Ritsu Doan,Rebound
+393863,38,SavedShot,0.7809999847412109,0.629000015258789,0.024476800113916397,Christian Gebauer,a,8796,OpenPlay,2020,RightFoot,15254,Schalke 04,Arminia Bielefeld,0,1,2020-12-19 14:30:00,,None
+400375,67,MissedShots,0.8680000305175781,0.6869999694824219,0.03631969913840294,Christian Gebauer,h,8796,OpenPlay,2020,RightFoot,15301,Arminia Bielefeld,Eintracht Frankfurt,1,5,2021-01-23 14:30:00,,None
+405067,48,Goal,0.975999984741211,0.48200000762939454,0.9242780208587646,Christian Gebauer,a,8796,OpenPlay,2020,RightFoot,15320,Bayern Munich,Arminia Bielefeld,3,3,2021-02-15 19:30:00,Andreas Voglsammer,Pass
+405268,77,MissedShots,0.815,0.56,0.042482201009988785,Christian Gebauer,h,8796,SetPiece,2020,LeftFoot,15337,Arminia Bielefeld,Wolfsburg,0,3,2021-02-19 19:30:00,,None
+405270,83,BlockedShot,0.86,0.4370000076293945,0.08933019638061523,Christian Gebauer,h,8796,OpenPlay,2020,LeftFoot,15337,Arminia Bielefeld,Wolfsburg,0,3,2021-02-19 19:30:00,Sergio Córdova,Pass
+417957,60,SavedShot,0.9209999847412109,0.5359999847412109,0.30043500661849976,Christian Gebauer,a,8796,OpenPlay,2020,LeftFoot,15411,Borussia M.Gladbach,Arminia Bielefeld,5,0,2021-04-25 16:00:00,Nathan de Medina,Cross
+417961,75,MissedShots,0.885,0.5670000076293945,0.06294350326061249,Christian Gebauer,a,8796,OpenPlay,2020,RightFoot,15411,Borussia M.Gladbach,Arminia Bielefeld,5,0,2021-04-25 16:00:00,Anderson-Lenda Lucoqui,Cross

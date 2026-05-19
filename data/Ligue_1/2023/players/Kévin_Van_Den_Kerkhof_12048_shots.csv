@@ -1,0 +1,21 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+544754,89,SavedShot,0.8680000305175781,0.3820000076293945,0.056798432022333145,Kévin Van Den Kerkhof,a,12048,OpenPlay,2023,RightFoot,23446,Monaco,Metz,2,1,2023-10-22 15:05:00,,None
+546019,26,SavedShot,0.8030000305175782,0.225,0.07770495116710663,Kévin Van Den Kerkhof,h,12048,OpenPlay,2023,RightFoot,23458,Metz,Le Havre,0,0,2023-10-29 14:00:00,Maxime Colin,TakeOn
+546020,26,SavedShot,0.945,0.40900001525878904,0.055320754647254944,Kévin Van Den Kerkhof,h,12048,OpenPlay,2023,Head,23458,Metz,Le Havre,0,0,2023-10-29 14:00:00,Cheick Tidiane Sabaly,Chipped
+547214,19,BlockedShot,0.765,0.4909999847412109,0.01874282956123352,Kévin Van Den Kerkhof,a,12048,SetPiece,2023,RightFoot,23467,Lyon,Metz,1,1,2023-11-05 12:00:00,,None
+548970,2,Goal,0.9440000152587891,0.375,0.27497607469558716,Kévin Van Den Kerkhof,h,12048,OpenPlay,2023,RightFoot,23476,Metz,Nantes,3,1,2023-11-12 14:00:00,Matthieu Udol,Cross
+548981,56,MissedShots,0.799000015258789,0.41,0.039445340633392334,Kévin Van Den Kerkhof,h,12048,OpenPlay,2023,LeftFoot,23476,Metz,Nantes,3,1,2023-11-12 14:00:00,,Rebound
+548988,73,SavedShot,0.76,0.21,0.012613723054528236,Kévin Van Den Kerkhof,h,12048,OpenPlay,2023,RightFoot,23476,Metz,Nantes,3,1,2023-11-12 14:00:00,Papa Amadou Diallo,Chipped
+554713,62,SavedShot,0.9169999694824219,0.105,0.01628229208290577,Kévin Van Den Kerkhof,h,12048,OpenPlay,2023,RightFoot,23514,Metz,Montpellier,0,1,2023-12-17 14:00:00,Joel Asoro,Pass
+554721,82,BlockedShot,0.78,0.28200000762939453,0.020165598019957542,Kévin Van Den Kerkhof,h,12048,OpenPlay,2023,LeftFoot,23514,Metz,Montpellier,0,1,2023-12-17 14:00:00,Maxime Colin,Pass
+554723,95,BlockedShot,0.7719999694824219,0.41900001525878905,0.02853172831237316,Kévin Van Den Kerkhof,h,12048,OpenPlay,2023,RightFoot,23514,Metz,Montpellier,0,1,2023-12-17 14:00:00,Cheick Tidiane Sabaly,Pass
+561647,81,MissedShots,0.960999984741211,0.38099998474121094,0.039921361953020096,Kévin Van Den Kerkhof,h,12048,OpenPlay,2023,Head,23549,Metz,Lorient,1,2,2024-02-04 14:00:00,Arthur Atta,Cross
+562224,46,BlockedShot,0.8230000305175781,0.34299999237060547,0.03362313285470009,Kévin Van Den Kerkhof,a,12048,FromCorner,2023,RightFoot,23553,Marseille,Metz,1,1,2024-02-09 20:00:00,Lamine Camara,Pass
+567156,18,BlockedShot,0.745,0.36400001525878906,0.016960231587290764,Kévin Van Den Kerkhof,a,12048,OpenPlay,2023,RightFoot,23584,Nantes,Metz,0,2,2024-03-03 14:00:00,,BallRecovery
+568537,45,BlockedShot,0.9019999694824219,0.28399999618530275,0.0583813302218914,Kévin Van Den Kerkhof,h,12048,OpenPlay,2023,RightFoot,23595,Metz,Clermont Foot,1,0,2024-03-10 14:00:00,,None
+575415,24,MissedShots,0.9740000152587891,0.580999984741211,0.09551766514778137,Kévin Van Den Kerkhof,a,12048,OpenPlay,2023,RightFoot,23639,Le Havre,Metz,0,1,2024-04-21 13:00:00,,None
+575417,28,BlockedShot,0.759000015258789,0.4570000076293945,0.02481779269874096,Kévin Van Den Kerkhof,a,12048,OpenPlay,2023,RightFoot,23639,Le Havre,Metz,0,1,2024-04-21 13:00:00,Georges Mikautadze,Pass
+577132,25,SavedShot,0.8180000305175781,0.29200000762939454,0.07439588755369186,Kévin Van Den Kerkhof,h,12048,OpenPlay,2023,RightFoot,23648,Metz,Lille,1,2,2024-04-28 11:00:00,,None
+580681,26,MissedShots,0.815,0.6179999923706054,0.029635397717356682,Kévin Van Den Kerkhof,a,12048,FromCorner,2023,LeftFoot,23660,Strasbourg,Metz,2,1,2024-05-12 19:00:00,,None
+580694,79,MissedShots,0.945,0.31,0.12209996581077576,Kévin Van Den Kerkhof,a,12048,OpenPlay,2023,RightFoot,23660,Strasbourg,Metz,2,1,2024-05-12 19:00:00,,BallRecovery
+580695,87,MissedShots,0.845,0.355,0.0982205867767334,Kévin Van Den Kerkhof,a,12048,OpenPlay,2023,RightFoot,23660,Strasbourg,Metz,2,1,2024-05-12 19:00:00,Georges Mikautadze,Pass

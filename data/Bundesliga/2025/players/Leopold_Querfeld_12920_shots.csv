@@ -1,0 +1,46 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+599945,65,BlockedShot,0.93,0.53,0.05778270959854126,Leopold Querfeld,a,12920,FromCorner,2024,Head,27815,Bayern Munich,Union Berlin,3,0,2024-11-02 14:30:00,Christopher Trimmel,Aerial
+605483,8,BlockedShot,0.9680000305175781,0.455,0.08853801339864731,Leopold Querfeld,a,12920,FromCorner,2024,Head,27851,VfB Stuttgart,Union Berlin,3,2,2024-12-06 19:30:00,Robert Skov,Aerial
+605490,43,MissedShots,0.865,0.4520000076293945,0.019277730956673622,Leopold Querfeld,a,12920,SetPiece,2024,Head,27851,VfB Stuttgart,Union Berlin,3,2,2024-12-06 19:30:00,Tim Skarke,BallTouch
+605493,53,MissedShots,0.9230000305175782,0.49700000762939456,0.3433248698711395,Leopold Querfeld,a,12920,FromCorner,2024,Head,27851,VfB Stuttgart,Union Berlin,3,2,2024-12-06 19:30:00,Robert Skov,Cross
+608312,75,SavedShot,0.7169999694824218,0.40900001525878904,0.011434669606387615,Leopold Querfeld,a,12920,OpenPlay,2024,RightFoot,27873,Werder Bremen,Union Berlin,4,1,2024-12-21 14:30:00,,BallTouch
+620491,13,MissedShots,0.9340000152587891,0.4520000076293945,0.05455566197633743,Leopold Querfeld,h,12920,FromCorner,2024,Head,27955,Union Berlin,Holstein Kiel,0,1,2025-03-02 14:30:00,Josip Juranovic,Aerial
+621862,61,Goal,0.914000015258789,0.5420000076293945,0.08255302906036377,Leopold Querfeld,a,12920,FromCorner,2024,Head,27961,Eintracht Frankfurt,Union Berlin,1,2,2025-03-09 14:30:00,Christopher Trimmel,Cross
+621864,64,MissedShots,0.9209999847412109,0.5540000152587891,0.08603560924530029,Leopold Querfeld,a,12920,FromCorner,2024,Head,27961,Eintracht Frankfurt,Union Berlin,1,2,2025-03-09 14:30:00,Christopher Trimmel,Cross
+622511,80,MissedShots,0.9330000305175781,0.5070000076293946,0.09037917107343674,Leopold Querfeld,h,12920,SetPiece,2024,Head,27973,Union Berlin,Bayern Munich,1,1,2025-03-15 14:30:00,,Aerial
+626490,1,BlockedShot,0.914000015258789,0.55,0.07704313844442368,Leopold Querfeld,h,12920,FromCorner,2024,Head,27991,Union Berlin,Wolfsburg,1,0,2025-04-06 15:30:00,Josip Juranovic,Cross
+626508,67,BlockedShot,0.7280000305175781,0.44799999237060545,0.01768707111477852,Leopold Querfeld,h,12920,SetPiece,2024,RightFoot,27991,Union Berlin,Wolfsburg,1,0,2025-04-06 15:30:00,Rani Khedira,Pass
+627114,13,SavedShot,0.9059999847412109,0.5209999847412109,0.027969371527433395,Leopold Querfeld,a,12920,FromCorner,2024,Head,27994,Bayer Leverkusen,Union Berlin,0,0,2025-04-12 13:30:00,Christopher Trimmel,Aerial
+628834,37,Goal,0.6909999847412109,0.6379999923706055,0.011901717633008957,Leopold Querfeld,h,12920,OpenPlay,2024,RightFoot,28010,Union Berlin,VfB Stuttgart,4,4,2025-04-19 16:30:00,Diogo Leite,Pass
+628849,89,MissedShots,0.9180000305175782,0.4929999923706055,0.13086356222629547,Leopold Querfeld,h,12920,SetPiece,2024,Head,28010,Union Berlin,VfB Stuttgart,4,4,2025-04-19 16:30:00,Christopher Trimmel,Cross
+631317,33,MissedShots,0.8819999694824219,0.5,0.0155038395896554,Leopold Querfeld,h,12920,FromCorner,2024,Head,28028,Union Berlin,Werder Bremen,2,2,2025-05-03 13:30:00,Christopher Trimmel,Aerial
+631334,75,BlockedShot,0.8569999694824219,0.4129999923706055,0.05867540463805199,Leopold Querfeld,h,12920,OpenPlay,2024,RightFoot,28028,Union Berlin,Werder Bremen,2,2,2025-05-03 13:30:00,,None
+638810,94,MissedShots,0.915,0.505,0.09793679416179657,Leopold Querfeld,h,12920,FromCorner,2025,Head,30227,Union Berlin,VfB Stuttgart,2,1,2025-08-23 13:30:00,Josip Juranovic,Cross
+640979,83,SavedShot,0.915,0.42700000762939455,0.02014651708304882,Leopold Querfeld,a,12920,FromCorner,2025,Head,30240,Borussia Dortmund,Union Berlin,3,0,2025-08-31 15:30:00,Aljoscha Kemlein,Aerial
+640980,91,MissedShots,0.7019999694824218,0.5879999923706055,0.038927748799324036,Leopold Querfeld,a,12920,DirectFreekick,2025,RightFoot,30240,Borussia Dortmund,Union Berlin,3,0,2025-08-31 15:30:00,,Standard
+643719,89,BlockedShot,0.685,0.47900001525878905,0.013328748755156994,Leopold Querfeld,a,12920,OpenPlay,2025,RightFoot,30257,Eintracht Frankfurt,Union Berlin,3,4,2025-09-21 13:30:00,,None
+650704,1,MissedShots,0.9130000305175782,0.629000015258789,0.06846410036087036,Leopold Querfeld,h,12920,SetPiece,2025,RightFoot,30303,Union Berlin,Freiburg,0,0,2025-11-01 14:30:00,,None
+650716,46,MissedShots,0.9569999694824218,0.5709999847412109,0.10968615859746933,Leopold Querfeld,h,12920,FromCorner,2025,LeftFoot,30303,Union Berlin,Freiburg,0,0,2025-11-01 14:30:00,,None
+652155,8,MissedShots,0.9569999694824218,0.43,0.0539170578122139,Leopold Querfeld,h,12920,FromCorner,2025,Head,30312,Union Berlin,Bayern Munich,2,2,2025-11-08 14:30:00,Diogo Leite,Goal
+654378,28,SavedShot,0.9169999694824219,0.575999984741211,0.01992674358189106,Leopold Querfeld,a,12920,FromCorner,2025,Head,30321,St. Pauli,Union Berlin,0,1,2025-11-23 16:30:00,Christopher Trimmel,Aerial
+656823,38,SavedShot,0.8859999847412109,0.4420000076293945,0.054624006152153015,Leopold Querfeld,a,12920,FromCorner,2025,Head,30333,Wolfsburg,Union Berlin,3,1,2025-12-06 14:30:00,Derrick Köhn,Cross
+656824,38,ShotOnPost,0.9230000305175782,0.4809999847412109,0.05417774245142937,Leopold Querfeld,a,12920,FromCorner,2025,Head,30333,Wolfsburg,Union Berlin,3,1,2025-12-06 14:30:00,Christopher Trimmel,Aerial
+656836,90,SavedShot,0.885,0.5,0.75777667760849,Leopold Querfeld,a,12920,Penalty,2025,RightFoot,30333,Wolfsburg,Union Berlin,3,1,2025-12-06 14:30:00,,Standard
+656837,91,BlockedShot,0.885,0.39,0.07330659031867981,Leopold Querfeld,a,12920,OpenPlay,2025,RightFoot,30333,Wolfsburg,Union Berlin,3,1,2025-12-06 14:30:00,Oliver Burke,BallTouch
+656840,101,SavedShot,0.9219999694824219,0.475,0.06508894264698029,Leopold Querfeld,a,12920,FromCorner,2025,OtherBodyPart,30333,Wolfsburg,Union Berlin,3,1,2025-12-06 14:30:00,Janik Haberer,Cross
+659261,66,SavedShot,0.9069999694824219,0.5120000076293946,0.08124320209026337,Leopold Querfeld,a,12920,FromCorner,2025,Head,30352,FC Cologne,Union Berlin,0,1,2025-12-20 14:30:00,Christopher Trimmel,Cross
+663220,67,BlockedShot,0.7369999694824219,0.6819999694824219,0.0438011959195137,Leopold Querfeld,a,12920,DirectFreekick,2025,RightFoot,30368,Augsburg,Union Berlin,1,1,2026-01-15 19:30:00,,Standard
+663221,70,MissedShots,0.9180000305175782,0.485,0.10202643275260925,Leopold Querfeld,a,12920,FromCorner,2025,Head,30368,Augsburg,Union Berlin,1,1,2026-01-15 19:30:00,Christopher Trimmel,Cross
+664113,37,BlockedShot,0.8959999847412109,0.66,0.061854299157857895,Leopold Querfeld,a,12920,OpenPlay,2025,RightFoot,30383,VfB Stuttgart,Union Berlin,1,1,2026-01-18 14:30:00,,None
+664114,42,MissedShots,0.9,0.485,0.06802557408809662,Leopold Querfeld,a,12920,FromCorner,2025,Head,30383,VfB Stuttgart,Union Berlin,1,1,2026-01-18 14:30:00,Josip Juranovic,Cross
+665956,8,BlockedShot,0.8930000305175781,0.5279999923706055,0.017908038571476936,Leopold Querfeld,a,12920,FromCorner,2025,Head,30400,Hoffenheim,Union Berlin,3,1,2026-01-31 14:30:00,Janik Haberer,Aerial
+665957,9,MissedShots,0.88,0.5359999847412109,0.014392894692718983,Leopold Querfeld,a,12920,FromCorner,2025,Head,30400,Hoffenheim,Union Berlin,3,1,2026-01-31 14:30:00,Janik Haberer,Aerial
+665978,91,MissedShots,0.925,0.54,0.04809940233826637,Leopold Querfeld,a,12920,FromCorner,2025,Head,30400,Hoffenheim,Union Berlin,3,1,2026-01-31 14:30:00,Janik Haberer,Aerial
+666948,63,SavedShot,0.9059999847412109,0.43,0.05495816469192505,Leopold Querfeld,h,12920,OpenPlay,2025,Head,30411,Union Berlin,Eintracht Frankfurt,1,1,2026-02-06 19:30:00,Christopher Trimmel,Chipped
+666951,86,Goal,0.885,0.5,0.75777667760849,Leopold Querfeld,h,12920,Penalty,2025,RightFoot,30411,Union Berlin,Eintracht Frankfurt,1,1,2026-02-06 19:30:00,,Standard
+668667,27,Goal,0.885,0.5,0.75777667760849,Leopold Querfeld,a,12920,Penalty,2025,RightFoot,30417,Hamburger SV,Union Berlin,3,2,2026-02-14 14:30:00,,Standard
+673282,6,MissedShots,0.865999984741211,0.38599998474121094,0.06474880874156952,Leopold Querfeld,h,12920,OpenPlay,2025,RightFoot,30447,Union Berlin,Werder Bremen,1,4,2026-03-08 16:30:00,,None
+673291,41,MissedShots,0.8919999694824219,0.6170000076293946,0.026594191789627075,Leopold Querfeld,h,12920,OpenPlay,2025,Head,30447,Union Berlin,Werder Bremen,1,4,2026-03-08 16:30:00,Derrick Köhn,Cross
+675272,57,BlockedShot,0.6859999847412109,0.4979999923706055,0.010624113492667675,Leopold Querfeld,a,12920,OpenPlay,2025,RightFoot,30459,Bayern Munich,Union Berlin,4,0,2026-03-21 14:30:00,Danilho Doekhi,Pass
+676998,28,MissedShots,0.9119999694824219,0.3290000152587891,0.013283458538353443,Leopold Querfeld,h,12920,FromCorner,2025,Head,30474,Union Berlin,St. Pauli,1,1,2026-04-05 13:30:00,,Aerial
+677790,74,Goal,0.9330000305175781,0.5429999923706055,0.3428408205509186,Leopold Querfeld,a,12920,FromCorner,2025,RightFoot,30479,FC Heidenheim,Union Berlin,3,1,2026-04-11 13:30:00,Rani Khedira,BallTouch

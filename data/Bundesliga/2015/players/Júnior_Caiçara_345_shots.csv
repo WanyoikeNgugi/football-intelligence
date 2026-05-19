@@ -1,0 +1,14 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+76311,26,BlockedShot,0.8059999847412109,0.30100000381469727,0.022818800061941147,Júnior Caiçara,h,345,OpenPlay,2015,LeftFoot,1032,Schalke 04,Darmstadt,1,1,2015-08-22 17:30:00,,None
+78235,12,MissedShots,0.7619999694824219,0.3729999923706055,0.018095700070261955,Júnior Caiçara,a,345,OpenPlay,2015,LeftFoot,1110,Borussia M.Gladbach,Schalke 04,3,1,2015-10-25 20:30:00,,None
+78251,60,BlockedShot,0.9009999847412109,0.2979999923706055,0.04670000076293945,Júnior Caiçara,a,345,OpenPlay,2015,RightFoot,1110,Borussia M.Gladbach,Schalke 04,3,1,2015-10-25 20:30:00,Max Meyer,Pass
+78252,61,SavedShot,0.7230000305175781,0.5359999847412109,0.01269530039280653,Júnior Caiçara,a,345,FromCorner,2015,RightFoot,1110,Borussia M.Gladbach,Schalke 04,3,1,2015-10-25 20:30:00,,Aerial
+78256,66,MissedShots,0.7090000152587891,0.345,0.00884556956589222,Júnior Caiçara,a,345,SetPiece,2015,RightFoot,1110,Borussia M.Gladbach,Schalke 04,3,1,2015-10-25 20:30:00,,None
+78402,32,MissedShots,0.7269999694824218,0.45,0.035849399864673615,Júnior Caiçara,h,345,OpenPlay,2015,RightFoot,1116,Schalke 04,Ingolstadt,1,1,2015-10-31 18:30:00,Leon Goretzka,Pass
+78409,68,ShotOnPost,0.8109999847412109,0.37,0.03542900085449219,Júnior Caiçara,h,345,OpenPlay,2015,RightFoot,1116,Schalke 04,Ingolstadt,1,1,2015-10-31 18:30:00,,None
+80089,90,SavedShot,0.88,0.27700000762939453,0.027271199971437454,Júnior Caiçara,h,345,OpenPlay,2015,LeftFoot,1182,Schalke 04,Werder Bremen,1,3,2016-01-24 20:30:00,Eric Maxim Choupo-Moting,Chipped
+81501,82,BlockedShot,0.9480000305175781,0.33,0.23995499312877655,Júnior Caiçara,h,345,OpenPlay,2015,RightFoot,1234,Schalke 04,Hamburger SV,3,2,2016-03-02 23:00:00,Dennis Aogo,OffsidePass
+81881,16,BlockedShot,0.710999984741211,0.4909999847412109,0.010073100216686726,Júnior Caiçara,a,345,SetPiece,2015,RightFoot,1241,FC Cologne,Schalke 04,1,3,2016-03-05 18:30:00,,None
+82067,44,BlockedShot,0.779000015258789,0.5429999923706055,0.0969017967581749,Júnior Caiçara,a,345,DirectFreekick,2015,RightFoot,1246,Hertha Berlin,Schalke 04,2,0,2016-03-11 23:30:00,,Standard
+82584,7,MissedShots,0.7019999694824218,0.36900001525878906,0.012383099645376205,Júnior Caiçara,a,345,FromCorner,2015,RightFoot,1267,Ingolstadt,Schalke 04,3,0,2016-04-02 17:30:00,,None
+82633,39,MissedShots,0.8680000305175781,0.2620000076293945,0.1111920028924942,Júnior Caiçara,h,345,OpenPlay,2015,RightFoot,1280,Schalke 04,Borussia Dortmund,2,2,2016-04-10 17:30:00,Younès Belhanda,Throughball

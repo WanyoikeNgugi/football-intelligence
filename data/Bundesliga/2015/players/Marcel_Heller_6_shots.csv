@@ -1,0 +1,86 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+76286,30,Goal,0.875,0.6270000076293946,0.16227799654006958,Marcel Heller,h,6,OpenPlay,2015,RightFoot,1026,Darmstadt,Hannover 96,2,2,2015-08-15 17:30:00,Marco Sailer,TakeOn
+76292,53,Goal,0.9169999694824219,0.3120000076293945,0.5297269821166992,Marcel Heller,h,6,OpenPlay,2015,RightFoot,1026,Darmstadt,Hannover 96,2,2,2015-08-15 17:30:00,,TakeOn
+76321,47,BlockedShot,0.9359999847412109,0.325,0.07438129931688309,Marcel Heller,a,6,OpenPlay,2015,LeftFoot,1032,Schalke 04,Darmstadt,1,1,2015-08-22 17:30:00,Peter Niemeyer,TakeOn
+77191,31,MissedShots,0.96,0.3340000152587891,0.05245799943804741,Marcel Heller,h,6,OpenPlay,2015,RightFoot,1058,Darmstadt,Bayern Munich,0,3,2015-09-19 17:30:00,Jérôme Gondorf,Cross
+77445,16,Goal,0.870999984741211,0.44599998474121094,0.35244300961494446,Marcel Heller,a,6,OpenPlay,2015,RightFoot,1083,Borussia Dortmund,Darmstadt,2,2,2015-09-27 19:30:00,Jérôme Gondorf,Cross
+77903,26,Goal,0.84,0.56,0.048063501715660095,Marcel Heller,h,6,OpenPlay,2015,RightFoot,1084,Darmstadt,Mainz 05,2,3,2015-10-02 22:30:00,Jérôme Gondorf,HeadPass
+77916,69,MissedShots,0.840999984741211,0.545,0.05699240043759346,Marcel Heller,h,6,OpenPlay,2015,RightFoot,1084,Darmstadt,Mainz 05,2,3,2015-10-02 22:30:00,,None
+78476,30,SavedShot,0.8119999694824219,0.5129999923706055,0.061872698366642,Marcel Heller,a,6,OpenPlay,2015,LeftFoot,1118,VfB Stuttgart,Darmstadt,2,0,2015-11-01 18:30:00,,TakeOn
+78487,58,SavedShot,0.8780000305175781,0.40599998474121096,0.0626882016658783,Marcel Heller,a,6,OpenPlay,2015,RightFoot,1118,VfB Stuttgart,Darmstadt,2,0,2015-11-01 18:30:00,Jan Rosenthal,Cross
+78493,70,MissedShots,0.8819999694824219,0.6359999847412109,0.07108379900455475,Marcel Heller,a,6,OpenPlay,2015,LeftFoot,1118,VfB Stuttgart,Darmstadt,2,0,2015-11-01 18:30:00,Tobias Kempe,Pass
+78497,82,SavedShot,0.9169999694824219,0.6370000076293946,0.4219219982624054,Marcel Heller,a,6,OpenPlay,2015,LeftFoot,1118,VfB Stuttgart,Darmstadt,2,0,2015-11-01 18:30:00,Tobias Kempe,Pass
+78846,46,Goal,0.9369999694824219,0.47,0.42961400747299194,Marcel Heller,h,6,OpenPlay,2015,Head,1126,Darmstadt,Hamburger SV,1,1,2015-11-07 21:30:00,Jérôme Gondorf,Cross
+78858,89,SavedShot,0.9209999847412109,0.47900001525878905,0.09962140023708344,Marcel Heller,h,6,OpenPlay,2015,RightFoot,1126,Darmstadt,Hamburger SV,1,1,2015-11-07 21:30:00,,None
+79084,44,MissedShots,0.88,0.34200000762939453,0.109436996281147,Marcel Heller,a,6,OpenPlay,2015,LeftFoot,1137,Ingolstadt,Darmstadt,3,1,2015-11-22 20:40:00,Jérôme Gondorf,BallRecovery
+79503,46,MissedShots,0.705,0.40299999237060546,0.014547900296747684,Marcel Heller,a,6,FromCorner,2015,RightFoot,1155,Eintracht Frankfurt,Darmstadt,0,1,2015-12-06 20:30:00,,Rebound
+79515,81,SavedShot,0.9469999694824218,0.5829999923706055,0.4708609879016876,Marcel Heller,a,6,OpenPlay,2015,RightFoot,1155,Eintracht Frankfurt,Darmstadt,0,1,2015-12-06 20:30:00,Jérôme Gondorf,TakeOn
+79866,27,Goal,0.924000015258789,0.4929999923706055,0.11023999750614166,Marcel Heller,a,6,OpenPlay,2015,RightFoot,1173,Borussia M.Gladbach,Darmstadt,3,2,2015-12-20 20:30:00,Sandro Wagner,HeadPass
+79879,63,SavedShot,0.9669999694824218,0.3089999961853027,0.02421109937131405,Marcel Heller,a,6,OpenPlay,2015,RightFoot,1173,Borussia M.Gladbach,Darmstadt,3,2,2015-12-20 20:30:00,Tobias Kempe,Cross
+79882,71,SavedShot,0.904000015258789,0.35200000762939454,0.33442699909210205,Marcel Heller,a,6,OpenPlay,2015,RightFoot,1173,Borussia M.Gladbach,Darmstadt,3,2,2015-12-20 20:30:00,Sandro Wagner,Throughball
+80208,18,MissedShots,0.73,0.5840000152587891,0.019468899816274643,Marcel Heller,a,6,FromCorner,2015,RightFoot,1176,Hannover 96,Darmstadt,1,2,2016-01-23 18:30:00,Konstantin Rausch,Pass
+80228,85,MissedShots,0.8669999694824219,0.39799999237060546,0.3461560010910034,Marcel Heller,a,6,OpenPlay,2015,RightFoot,1176,Hannover 96,Darmstadt,1,2,2016-01-23 18:30:00,Tobias Kempe,Pass
+80705,56,MissedShots,0.8830000305175781,0.415,0.11525200307369232,Marcel Heller,a,6,OpenPlay,2015,RightFoot,1200,Hoffenheim,Darmstadt,0,2,2016-02-07 20:30:00,Jan Rosenthal,Pass
+80717,94,MissedShots,0.8580000305175781,0.5379999923706055,0.322625994682312,Marcel Heller,a,6,OpenPlay,2015,RightFoot,1200,Hoffenheim,Darmstadt,0,2,2016-02-07 20:30:00,Luca Caldirola,Pass
+80962,57,SavedShot,0.899000015258789,0.25,0.013967899605631828,Marcel Heller,h,6,SetPiece,2015,RightFoot,1202,Darmstadt,Bayer Leverkusen,1,2,2016-02-13 18:30:00,,Aerial
+82158,26,SavedShot,0.885,0.3160000038146973,0.04442879930138588,Marcel Heller,h,6,SetPiece,2015,RightFoot,1249,Darmstadt,Augsburg,2,2,2016-03-12 18:30:00,,None
+82209,3,BlockedShot,0.9390000152587891,0.34700000762939454,0.06855200231075287,Marcel Heller,a,6,OpenPlay,2015,RightFoot,1256,Wolfsburg,Darmstadt,1,1,2016-03-19 18:30:00,Sandro Wagner,Rebound
+82221,36,MissedShots,0.8769999694824219,0.325,0.05151209980249405,Marcel Heller,a,6,OpenPlay,2015,RightFoot,1256,Wolfsburg,Darmstadt,1,1,2016-03-19 18:30:00,,None
+82606,5,BlockedShot,0.8859999847412109,0.2879999923706055,0.029003800824284554,Marcel Heller,h,6,SetPiece,2015,RightFoot,1268,Darmstadt,VfB Stuttgart,2,2,2016-04-02 17:30:00,,Rebound
+82698,65,MissedShots,0.7440000152587891,0.36,0.021568600088357925,Marcel Heller,a,6,OpenPlay,2015,RightFoot,1275,Hamburger SV,Darmstadt,1,2,2016-04-09 17:30:00,Mario Vrancic,Chipped
+83240,60,BlockedShot,0.8640000152587891,0.26399999618530273,0.03425399959087372,Marcel Heller,a,6,FromCorner,2015,RightFoot,1294,FC Cologne,Darmstadt,4,1,2016-04-23 17:30:00,,Rebound
+83498,56,SavedShot,0.8690000152587891,0.41900001525878905,0.017961999401450157,Marcel Heller,h,6,OpenPlay,2015,Head,1304,Darmstadt,Eintracht Frankfurt,1,2,2016-04-30 17:30:00,Mario Vrancic,Cross
+83682,19,MissedShots,0.955999984741211,0.33799999237060546,0.05801200121641159,Marcel Heller,a,6,SetPiece,2015,RightFoot,1316,Hertha Berlin,Darmstadt,1,2,2016-05-07 17:30:00,Sandro Wagner,None
+127567,7,MissedShots,0.769000015258789,0.6659999847412109,0.016423799097537994,Marcel Heller,a,6,FromCorner,2016,RightFoot,1331,FC Cologne,Darmstadt,2,0,2016-08-27 17:30:00,,None
+127571,15,MissedShots,0.7609999847412109,0.585,0.02976600080728531,Marcel Heller,a,6,OpenPlay,2016,RightFoot,1331,FC Cologne,Darmstadt,2,0,2016-08-27 17:30:00,,TakeOn
+128552,63,BlockedShot,0.9019999694824219,0.42700000762939455,0.10490500181913376,Marcel Heller,h,6,OpenPlay,2016,LeftFoot,1356,Darmstadt,Hoffenheim,1,1,2016-09-20 22:00:00,Jérôme Gondorf,Pass
+128734,47,MissedShots,0.8769999694824219,0.62,0.022935599088668823,Marcel Heller,a,6,SetPiece,2016,RightFoot,1367,Augsburg,Darmstadt,1,0,2016-09-24 17:30:00,Florian Jungwirth,Aerial
+128995,45,BlockedShot,0.8719999694824219,0.24100000381469727,0.04402809962630272,Marcel Heller,h,6,OpenPlay,2016,RightFoot,1376,Darmstadt,Werder Bremen,2,2,2016-10-01 17:30:00,Jérôme Gondorf,Chipped
+129555,22,MissedShots,0.865,0.36700000762939455,0.03847000002861023,Marcel Heller,a,6,OpenPlay,2016,RightFoot,2810,Bayer Leverkusen,Darmstadt,3,2,2016-11-05 18:30:00,Änis Ben-Hatira,Cross
+129568,83,BlockedShot,0.935,0.2929999923706055,0.028156399726867676,Marcel Heller,a,6,SetPiece,2016,RightFoot,2810,Bayer Leverkusen,Darmstadt,3,2,2016-11-05 18:30:00,Jérôme Gondorf,Pass
+130700,63,MissedShots,0.7769999694824219,0.7440000152587891,0.020220600068569183,Marcel Heller,h,6,OpenPlay,2016,RightFoot,2820,Darmstadt,Ingolstadt,0,1,2016-11-19 18:30:00,Leon Guwara,Pass
+130709,88,SavedShot,0.8319999694824218,0.6329999923706054,0.042879801243543625,Marcel Heller,h,6,OpenPlay,2016,RightFoot,2820,Darmstadt,Ingolstadt,0,1,2016-11-19 18:30:00,,None
+130715,90,BlockedShot,0.7730000305175782,0.5159999847412109,0.022475700825452805,Marcel Heller,h,6,FromCorner,2016,RightFoot,2820,Darmstadt,Ingolstadt,0,1,2016-11-19 18:30:00,,None
+130995,5,Goal,0.9230000305175782,0.45799999237060546,0.9310939908027649,Marcel Heller,a,6,OpenPlay,2016,RightFoot,2831,Schalke 04,Darmstadt,3,1,2016-11-27 18:30:00,Sandro Sirigu,TakeOn
+131015,54,MissedShots,0.765,0.6840000152587891,0.036319300532341,Marcel Heller,a,6,OpenPlay,2016,RightFoot,2831,Schalke 04,Darmstadt,3,1,2016-11-27 18:30:00,Victor Obinna,Pass
+131023,90,MissedShots,0.875999984741211,0.26600000381469724,0.03543350100517273,Marcel Heller,a,6,OpenPlay,2016,RightFoot,2831,Schalke 04,Darmstadt,3,1,2016-11-27 18:30:00,,BlockedPass
+131632,4,BlockedShot,0.875999984741211,0.7140000152587891,0.023097600787878036,Marcel Heller,h,6,OpenPlay,2016,RightFoot,3217,Darmstadt,Bayern Munich,0,1,2016-12-18 18:30:00,Sandro Sirigu,Chipped
+130829,25,BlockedShot,0.8119999694824219,0.5129999923706055,0.05823630094528198,Marcel Heller,h,6,OpenPlay,2016,LeftFoot,3727,Darmstadt,Borussia M.Gladbach,0,0,2017-01-21 17:30:00,,BallTouch
+130835,58,SavedShot,0.7880000305175782,0.31,0.02458829991519451,Marcel Heller,h,6,OpenPlay,2016,RightFoot,3727,Darmstadt,Borussia M.Gladbach,0,0,2017-01-21 17:30:00,Antonio-Mirko Colak,Pass
+130841,74,BlockedShot,0.8080000305175781,0.645,0.034983500838279724,Marcel Heller,h,6,OpenPlay,2016,RightFoot,3727,Darmstadt,Borussia M.Gladbach,0,0,2017-01-21 17:30:00,Leon Guwara,Pass
+131760,15,SavedShot,0.8930000305175781,0.6270000076293946,0.07395409792661667,Marcel Heller,h,6,OpenPlay,2016,RightFoot,3751,Darmstadt,Borussia Dortmund,2,1,2017-02-11 14:30:00,Jérôme Gondorf,Chipped
+131767,35,MissedShots,0.784000015258789,0.7659999847412109,0.016801200807094574,Marcel Heller,h,6,OpenPlay,2016,RightFoot,3751,Darmstadt,Borussia Dortmund,2,1,2017-02-11 14:30:00,Fabian Holland,Pass
+131783,88,SavedShot,0.7069999694824218,0.5579999923706055,0.0179383996874094,Marcel Heller,h,6,OpenPlay,2016,RightFoot,3751,Darmstadt,Borussia Dortmund,2,1,2017-02-11 14:30:00,,BallRecovery
+131787,4,SavedShot,0.9630000305175781,0.6370000076293946,0.08008009940385818,Marcel Heller,a,6,OpenPlay,2016,LeftFoot,3760,Hoffenheim,Darmstadt,2,0,2017-02-18 14:30:00,Sidney Sam,BallTouch
+131790,14,SavedShot,0.915,0.6869999694824219,0.08265840262174606,Marcel Heller,a,6,OpenPlay,2016,RightFoot,3760,Hoffenheim,Darmstadt,2,0,2017-02-18 14:30:00,Jan Rosenthal,Pass
+132262,46,Goal,0.9359999847412109,0.5570000076293945,0.5155140161514282,Marcel Heller,h,6,OpenPlay,2016,RightFoot,3768,Darmstadt,Augsburg,1,2,2017-02-25 14:30:00,Jérôme Gondorf,Pass
+132269,69,MissedShots,0.77,0.6719999694824219,0.023311300203204155,Marcel Heller,h,6,OpenPlay,2016,RightFoot,3768,Darmstadt,Augsburg,1,2,2017-02-25 14:30:00,Jérôme Gondorf,Pass
+133184,13,MissedShots,0.8009999847412109,0.649000015258789,0.03004870004951954,Marcel Heller,a,6,OpenPlay,2016,RightFoot,3779,Werder Bremen,Darmstadt,2,0,2017-03-04 14:30:00,,None
+133186,17,BlockedShot,0.735999984741211,0.6930000305175781,0.013578499667346478,Marcel Heller,a,6,OpenPlay,2016,RightFoot,3779,Werder Bremen,Darmstadt,2,0,2017-03-04 14:30:00,Fabian Holland,Pass
+133188,18,BlockedShot,0.8919999694824219,0.6659999847412109,0.05393730103969574,Marcel Heller,a,6,OpenPlay,2016,RightFoot,3779,Werder Bremen,Darmstadt,2,0,2017-03-04 14:30:00,,Rebound
+133187,18,BlockedShot,0.9,0.6819999694824219,0.029861100018024445,Marcel Heller,a,6,OpenPlay,2016,RightFoot,3779,Werder Bremen,Darmstadt,2,0,2017-03-04 14:30:00,Sandro Sirigu,Cross
+133196,63,SavedShot,0.8419999694824218,0.664000015258789,0.04395129904150963,Marcel Heller,a,6,OpenPlay,2016,RightFoot,3779,Werder Bremen,Darmstadt,2,0,2017-03-04 14:30:00,Fabian Holland,Pass
+133574,35,MissedShots,0.8519999694824218,0.5279999923706055,0.0818805992603302,Marcel Heller,a,6,OpenPlay,2016,RightFoot,3808,RasenBallsport Leipzig,Darmstadt,4,0,2017-04-01 14:30:00,Sandro Sirigu,Pass
+134256,18,MissedShots,0.749000015258789,0.6959999847412109,0.012485000304877758,Marcel Heller,h,6,FromCorner,2016,RightFoot,3816,Darmstadt,Bayer Leverkusen,0,2,2017-04-05 19:00:00,Sidney Sam,Aerial
+133024,37,MissedShots,0.8180000305175781,0.649000015258789,0.046640001237392426,Marcel Heller,h,6,OpenPlay,2016,RightFoot,3833,Darmstadt,Schalke 04,2,1,2017-04-16 16:30:00,Mario Vrancic,Pass
+134629,53,MissedShots,0.7030000305175781,0.64,0.020312000066041946,Marcel Heller,h,6,OpenPlay,2016,RightFoot,3849,Darmstadt,Freiburg,3,0,2017-04-29 14:30:00,Mario Vrancic,Pass
+134640,76,MissedShots,0.9,0.13199999809265137,0.06164820119738579,Marcel Heller,h,6,OpenPlay,2016,RightFoot,3849,Darmstadt,Freiburg,3,0,2017-04-29 14:30:00,Markus Steinhöfer,Pass
+133427,4,MissedShots,0.855999984741211,0.7080000305175781,0.040230199694633484,Marcel Heller,h,6,FromCorner,2016,RightFoot,3872,Darmstadt,Hertha Berlin,0,2,2017-05-13 14:30:00,Mario Vrancic,Pass
+133439,60,SavedShot,0.93,0.36900001525878906,0.265951007604599,Marcel Heller,h,6,OpenPlay,2016,LeftFoot,3872,Darmstadt,Hertha Berlin,0,2,2017-05-13 14:30:00,,None
+127736,15,MissedShots,0.9619999694824218,0.6759999847412109,0.057763099670410156,Marcel Heller,a,6,OpenPlay,2016,RightFoot,3876,Borussia M.Gladbach,Darmstadt,2,2,2017-05-20 14:30:00,,None
+127741,29,BlockedShot,0.97,0.649000015258789,0.012628000229597092,Marcel Heller,a,6,OpenPlay,2016,Head,3876,Borussia M.Gladbach,Darmstadt,2,2,2017-05-20 14:30:00,Sidney Sam,Cross
+127746,46,MissedShots,0.82,0.705,0.026910599321126938,Marcel Heller,a,6,OpenPlay,2016,RightFoot,3876,Borussia M.Gladbach,Darmstadt,2,2,2017-05-20 14:30:00,Hamit Altintop,Pass
+127754,69,SavedShot,0.879000015258789,0.725999984741211,0.025695400312542915,Marcel Heller,a,6,OpenPlay,2016,RightFoot,3876,Borussia M.Gladbach,Darmstadt,2,2,2017-05-20 14:30:00,Sven Schipplock,Cross
+127762,89,BlockedShot,0.8130000305175781,0.720999984741211,0.024383999407291412,Marcel Heller,a,6,OpenPlay,2016,RightFoot,3876,Borussia M.Gladbach,Darmstadt,2,2,2017-05-20 14:30:00,Leon Guwara,Pass
+127763,89,Goal,0.9569999694824218,0.41200000762939454,0.1003739982843399,Marcel Heller,a,6,FromCorner,2016,RightFoot,3876,Borussia M.Gladbach,Darmstadt,2,2,2017-05-20 14:30:00,,None
+166172,86,SavedShot,0.9290000152587891,0.38799999237060545,0.051899198442697525,Marcel Heller,h,6,OpenPlay,2017,Head,8272,Augsburg,Borussia M.Gladbach,2,2,2017-08-26 14:30:00,Caiuby,Cross
+166174,88,SavedShot,0.8730000305175781,0.40799999237060547,0.06835529953241348,Marcel Heller,h,6,OpenPlay,2017,LeftFoot,8272,Augsburg,Borussia M.Gladbach,2,2,2017-08-26 14:30:00,,Rebound
+167094,83,MissedShots,0.9069999694824219,0.5629999923706055,0.2923339903354645,Marcel Heller,h,6,OpenPlay,2017,Head,8297,Augsburg,RasenBallsport Leipzig,1,0,2017-09-19 19:30:00,Daniel Opare,Cross
+168668,72,MissedShots,0.945,0.6359999847412109,0.09380210191011429,Marcel Heller,a,6,OpenPlay,2017,LeftFoot,8343,Werder Bremen,Augsburg,0,3,2017-10-29 14:30:00,Daniel Baier,Pass
+179740,32,ShotOnPost,0.8819999694824219,0.3729999923706055,0.04943409934639931,Marcel Heller,h,6,OpenPlay,2017,RightFoot,8392,Augsburg,Hertha Berlin,1,1,2017-12-10 17:00:00,Raphael Framberger,Cross
+183804,49,MissedShots,0.93,0.5790000152587891,0.09201540052890778,Marcel Heller,h,6,OpenPlay,2017,RightFoot,8406,Augsburg,Freiburg,3,3,2017-12-16 14:30:00,Caiuby,Cross
+189877,66,MissedShots,0.8269999694824218,0.66,0.03610510006546974,Marcel Heller,a,6,OpenPlay,2017,RightFoot,8434,FC Cologne,Augsburg,1,1,2018-01-27 14:30:00,Rani Khedira,Tackle
+194809,4,BlockedShot,0.874000015258789,0.3,0.03378929942846298,Marcel Heller,h,6,OpenPlay,2017,RightFoot,8443,Augsburg,Eintracht Frankfurt,3,0,2018-02-04 14:30:00,Philipp Max,Cross
+194824,50,SavedShot,0.9059999847412109,0.40099998474121096,0.3835279941558838,Marcel Heller,h,6,OpenPlay,2017,RightFoot,8443,Augsburg,Eintracht Frankfurt,3,0,2018-02-04 14:30:00,Caiuby,Cross
+196757,1,MissedShots,0.8880000305175781,0.6990000152587891,0.05505950003862381,Marcel Heller,h,6,OpenPlay,2017,RightFoot,8463,Augsburg,VfB Stuttgart,0,1,2018-02-18 14:30:00,Ja-Cheol Koo,Pass
+211053,88,SavedShot,0.919000015258789,0.3370000076293945,0.13151299953460693,Marcel Heller,h,6,OpenPlay,2017,RightFoot,8534,Augsburg,Mainz 05,2,0,2018-04-22 13:30:00,,BallRecovery

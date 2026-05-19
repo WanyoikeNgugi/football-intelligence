@@ -1,0 +1,19 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+41818,83,MissedShots,0.9080000305175782,0.485,0.02939699962735176,Thomas Heurtaux,a,1149,FromCorner,2014,Head,5110,Juventus,Udinese,2,0,2014-09-13 19:45:00,Silvan Widmer,Aerial
+42697,57,Goal,0.915,0.49,0.11670999974012375,Thomas Heurtaux,h,1149,OpenPlay,2014,RightFoot,5147,Udinese,Parma,4,2,2014-09-29 18:00:00,Silvan Widmer,Cross
+42975,27,MissedShots,0.8640000152587891,0.54,0.040534600615501404,Thomas Heurtaux,h,1149,SetPiece,2014,Head,5074,Udinese,Cesena,1,1,2014-10-05 14:00:00,Antonio Di Natale,Chipped
+43229,29,SavedShot,0.914000015258789,0.40400001525878904,0.05547900125384331,Thomas Heurtaux,a,1149,FromCorner,2014,RightFoot,5086,Torino,Udinese,1,0,2014-10-19 14:00:00,Antonio Di Natale,Cross
+44539,81,MissedShots,0.8480000305175781,0.6079999923706054,0.024608299136161804,Thomas Heurtaux,h,1149,FromCorner,2014,RightFoot,5053,Udinese,Chievo,1,1,2014-11-23 14:00:00,Silvan Widmer,HeadPass
+44941,7,MissedShots,0.8569999694824219,0.46700000762939453,0.0230592992156744,Thomas Heurtaux,a,1149,OpenPlay,2014,Head,5007,Inter,Udinese,1,2,2014-12-07 19:45:00,Bruno Fernandes,Cross
+46151,81,MissedShots,0.865999984741211,0.47400001525878904,0.04746609926223755,Thomas Heurtaux,h,1149,FromCorner,2014,RightFoot,4985,Udinese,Cagliari,2,2,2015-01-18 14:00:00,Panagiotis Kone,Cross
+46611,79,SavedShot,0.9159999847412109,0.47200000762939454,0.0889011025428772,Thomas Heurtaux,a,1149,FromCorner,2014,Head,4995,Empoli,Udinese,1,2,2015-01-26 18:00:00,Melker Hallberg,Cross
+48391,29,SavedShot,0.909000015258789,0.505,0.031420499086380005,Thomas Heurtaux,a,1149,FromCorner,2014,Head,4834,Genoa,Udinese,1,1,2015-04-04 14:00:00,Panagiotis Kone,Aerial
+48392,31,MissedShots,0.8930000305175781,0.580999984741211,0.012903599999845028,Thomas Heurtaux,a,1149,SetPiece,2014,Head,4834,Genoa,Udinese,1,1,2015-04-04 14:00:00,Panagiotis Kone,Aerial
+50871,37,MissedShots,0.9480000305175781,0.49599998474121093,0.10818000137805939,Thomas Heurtaux,a,1149,FromCorner,2014,Head,4821,Cagliari,Udinese,4,3,2015-05-31 17:00:00,Rodrigo Aguirre,HeadPass
+50877,52,SavedShot,0.924000015258789,0.46599998474121096,0.10029000043869019,Thomas Heurtaux,a,1149,FromCorner,2014,Head,4821,Cagliari,Udinese,4,3,2015-05-31 17:00:00,Rodrigo Aguirre,Cross
+99722,72,MissedShots,0.7580000305175781,0.54,0.02084369957447052,Thomas Heurtaux,a,1149,OpenPlay,2015,RightFoot,868,Sampdoria,Udinese,2,0,2016-04-10 17:00:00,,BallRecovery
+101773,51,MissedShots,0.7859999847412109,0.28299999237060547,0.016006600111722946,Thomas Heurtaux,h,1149,OpenPlay,2015,RightFoot,901,Udinese,Torino,1,5,2016-04-30 20:00:00,Bruno Fernandes,LayOff
+146594,44,MissedShots,0.9319999694824219,0.49,0.17515599727630615,Thomas Heurtaux,h,1149,FromCorner,2016,Head,978,Udinese,Fiorentina,2,2,2016-09-21 22:45:00,Rodrigo de Paul,End
+147102,84,MissedShots,0.9219999694824219,0.49900001525878906,0.04844129830598831,Thomas Heurtaux,a,1149,FromCorner,2016,Head,983,Sassuolo,Udinese,1,0,2016-09-25 17:00:00,Sven Kums,Challenge
+149502,79,SavedShot,0.95,0.519000015258789,0.5812219977378845,Thomas Heurtaux,h,1149,OpenPlay,2016,Head,3629,Udinese,Palermo,4,1,2017-03-19 17:00:00,Stipe Perica,Cross
+173757,20,SavedShot,0.8480000305175781,0.6509999847412109,0.011413199827075005,Thomas Heurtaux,h,1149,SetPiece,2017,Head,7544,Verona,Sampdoria,0,0,2017-09-20 19:45:00,Rômulo,Cross

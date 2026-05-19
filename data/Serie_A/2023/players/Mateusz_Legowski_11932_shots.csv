@@ -1,0 +1,8 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+541526,50,MissedShots,0.74,0.3039999961853027,0.013808065094053745,Mateusz Legowski,h,11932,OpenPlay,2023,RightFoot,22372,Salernitana,Inter,0,4,2023-09-30 18:45:00,Flavius Daniliuc,Pass
+546662,35,MissedShots,0.789000015258789,0.6830000305175781,0.023576440289616585,Mateusz Legowski,h,11932,OpenPlay,2023,RightFoot,22413,Salernitana,Napoli,0,2,2023-11-04 14:00:00,Domagoj Bradaric,Pass
+546664,36,SavedShot,0.8430000305175781,0.595,0.05195903405547142,Mateusz Legowski,h,11932,OpenPlay,2023,RightFoot,22413,Salernitana,Napoli,0,2,2023-11-04 14:00:00,,Rebound
+556042,67,BlockedShot,0.870999984741211,0.6480000305175782,0.037912823259830475,Mateusz Legowski,h,11932,FromCorner,2023,LeftFoot,22473,Salernitana,AC Milan,2,2,2023-12-22 19:45:00,Grigoris Kastanos,Cross
+557713,18,MissedShots,0.8959999847412109,0.3270000076293945,0.056511152535676956,Mateusz Legowski,h,11932,OpenPlay,2023,RightFoot,22492,Salernitana,Juventus,1,2,2024-01-07 17:00:00,,None
+557732,79,BlockedShot,0.825,0.4379999923706055,0.0747218206524849,Mateusz Legowski,h,11932,SetPiece,2023,LeftFoot,22492,Salernitana,Juventus,1,2,2024-01-07 17:00:00,Federico Fazio,LayOff
+580521,85,MissedShots,0.7759999847412109,0.539000015258789,0.044777315109968185,Mateusz Legowski,a,11932,OpenPlay,2023,RightFoot,22660,Juventus,Salernitana,1,1,2024-05-12 16:00:00,,None

@@ -1,0 +1,142 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+25256,89,BlockedShot,0.9369999694824219,0.6819999694824219,0.03629159927368164,Kenan Karaman,a,98,OpenPlay,2014,RightFoot,5424,Paderborn,Hannover 96,2,0,2014-09-20 14:30:00,Ron-Robert Zieler,TakeOn
+29809,71,SavedShot,0.8730000305175781,0.44099998474121094,0.10077299922704697,Kenan Karaman,h,98,OpenPlay,2014,LeftFoot,5223,Hannover 96,Hoffenheim,1,2,2015-04-25 14:30:00,Didier Ya Konan,Pass
+30582,50,BlockedShot,0.795,0.295,0.01974179968237877,Kenan Karaman,a,98,OpenPlay,2014,LeftFoot,5160,Wolfsburg,Hannover 96,2,2,2015-05-02 14:30:00,Jimmy Briand,Pass
+30603,92,SavedShot,0.7030000305175781,0.46900001525878904,0.018693100661039352,Kenan Karaman,a,98,OpenPlay,2014,RightFoot,5160,Wolfsburg,Hannover 96,2,2,2015-05-02 14:30:00,Salif Sané,Pass
+31618,82,SavedShot,0.7480000305175781,0.48900001525878906,0.024031899869441986,Kenan Karaman,h,98,OpenPlay,2014,LeftFoot,5172,Hannover 96,Werder Bremen,1,1,2015-05-09 14:30:00,Lars Stindl,TakeOn
+31428,69,MissedShots,0.71,0.7,0.016061600297689438,Kenan Karaman,h,98,OpenPlay,2014,RightFoot,5189,Hannover 96,Freiburg,2,1,2015-05-23 14:30:00,Miiko Albornoz,Pass
+76281,5,MissedShots,0.779000015258789,0.5570000076293945,0.02642890065908432,Kenan Karaman,a,98,SetPiece,2015,RightFoot,1026,Darmstadt,Hannover 96,2,2,2015-08-15 17:30:00,Felix Klaus,HeadPass
+76284,27,ShotOnPost,0.9269999694824219,0.49700000762939456,0.37122100591659546,Kenan Karaman,a,98,FromCorner,2015,Head,1026,Darmstadt,Hannover 96,2,2,2015-08-15 17:30:00,Miiko Albornoz,Cross
+76449,52,SavedShot,0.9219999694824219,0.13699999809265137,0.01854730024933815,Kenan Karaman,h,98,OpenPlay,2015,RightFoot,1035,Hannover 96,Bayer Leverkusen,0,1,2015-08-22 17:30:00,Manuel Schmiedebach,Pass
+76713,87,SavedShot,0.8180000305175781,0.54,0.05181010067462921,Kenan Karaman,a,98,OpenPlay,2015,LeftFoot,1043,Mainz 05,Hannover 96,3,0,2015-08-29 17:30:00,Hiroki Sakai,BallRecovery
+77111,86,BlockedShot,0.7880000305175782,0.3629999923706055,0.027689699083566666,Kenan Karaman,a,98,OpenPlay,2015,LeftFoot,1064,Augsburg,Hannover 96,2,0,2015-09-20 19:30:00,Leon Andreasen,Pass
+77323,13,Goal,0.945,0.5329999923706055,0.6056110262870789,Kenan Karaman,h,98,OpenPlay,2015,LeftFoot,1074,Hannover 96,VfB Stuttgart,1,3,2015-09-23 22:00:00,Hiroshi Kiyotake,Cross
+77790,6,BlockedShot,0.7809999847412109,0.6040000152587891,0.025948600843548775,Kenan Karaman,h,98,OpenPlay,2015,RightFoot,1086,Hannover 96,Werder Bremen,1,0,2015-10-03 17:30:00,Artur Sobiech,Pass
+77794,16,SavedShot,0.7080000305175781,0.5690000152587891,0.01606130041182041,Kenan Karaman,h,98,OpenPlay,2015,RightFoot,1086,Hannover 96,Werder Bremen,1,0,2015-10-03 17:30:00,Miiko Albornoz,Pass
+77808,62,BlockedShot,0.8819999694824219,0.6959999847412109,0.05404270067811012,Kenan Karaman,h,98,OpenPlay,2015,RightFoot,1086,Hannover 96,Werder Bremen,1,0,2015-10-03 17:30:00,Manuel Schmiedebach,Pass
+77818,85,BlockedShot,0.875,0.6780000305175782,0.11719399690628052,Kenan Karaman,h,98,OpenPlay,2015,LeftFoot,1086,Hannover 96,Werder Bremen,1,0,2015-10-03 17:30:00,Marcelo,BallRecovery
+78100,14,MissedShots,0.740999984741211,0.6990000152587891,0.009914110414683819,Kenan Karaman,a,98,OpenPlay,2015,RightFoot,1100,FC Cologne,Hannover 96,0,1,2015-10-18 17:30:00,Manuel Schmiedebach,Chipped
+78898,40,BlockedShot,0.8090000152587891,0.4909999847412109,0.035523198544979095,Kenan Karaman,a,98,OpenPlay,2015,LeftFoot,1133,Borussia M.Gladbach,Hannover 96,2,1,2015-11-21 18:30:00,Salif Sané,Cross
+78899,40,SavedShot,0.884000015258789,0.5779999923706055,0.06956010311841965,Kenan Karaman,a,98,OpenPlay,2015,RightFoot,1133,Borussia M.Gladbach,Hannover 96,2,1,2015-11-21 18:30:00,Miiko Albornoz,Cross
+79237,23,Goal,0.7719999694824219,0.5459999847412109,0.07891140133142471,Kenan Karaman,h,98,OpenPlay,2015,RightFoot,1140,Hannover 96,Ingolstadt,4,0,2015-11-28 18:30:00,Uffe Bech,Pass
+79353,53,MissedShots,0.875999984741211,0.509000015258789,0.021163800731301308,Kenan Karaman,a,98,OpenPlay,2015,Head,1147,Schalke 04,Hannover 96,3,1,2015-12-04 23:30:00,Ceyhun Gülselam,Aerial
+79354,61,MissedShots,0.7269999694824218,0.5070000076293946,0.012464899569749832,Kenan Karaman,a,98,OpenPlay,2015,RightFoot,1147,Schalke 04,Hannover 96,3,1,2015-12-04 23:30:00,Charlison Benschop,TakeOn
+79363,79,ShotOnPost,0.8540000152587891,0.34200000762939453,0.05909169837832451,Kenan Karaman,a,98,OpenPlay,2015,LeftFoot,1147,Schalke 04,Hannover 96,3,1,2015-12-04 23:30:00,Allan Saint-Maximin,Pass
+79755,4,MissedShots,0.7919999694824219,0.435,0.017076000571250916,Kenan Karaman,a,98,FromCorner,2015,RightFoot,1160,Hoffenheim,Hannover 96,1,0,2015-12-12 18:30:00,,Aerial
+79762,30,MissedShots,0.9230000305175782,0.425,0.08696340024471283,Kenan Karaman,a,98,OpenPlay,2015,RightFoot,1160,Hoffenheim,Hannover 96,1,0,2015-12-12 18:30:00,Miiko Albornoz,Cross
+79767,47,MissedShots,0.919000015258789,0.4,0.01737770065665245,Kenan Karaman,a,98,SetPiece,2015,Head,1160,Hoffenheim,Hannover 96,1,0,2015-12-12 18:30:00,Leon Andreasen,Aerial
+79777,67,BlockedShot,0.94,0.6840000152587891,0.05174519866704941,Kenan Karaman,a,98,OpenPlay,2015,LeftFoot,1160,Hoffenheim,Hannover 96,1,0,2015-12-12 18:30:00,Allan Saint-Maximin,BallRecovery
+80665,68,BlockedShot,0.7859999847412109,0.485,0.027745699509978294,Kenan Karaman,h,98,SetPiece,2015,RightFoot,1195,Hannover 96,Mainz 05,0,1,2016-02-06 18:30:00,,None
+80759,44,MissedShots,0.775,0.56,0.030102599412202835,Kenan Karaman,a,98,OpenPlay,2015,LeftFoot,1203,Borussia Dortmund,Hannover 96,1,0,2016-02-13 18:30:00,Salif Sané,Pass
+81123,45,SavedShot,0.789000015258789,0.7609999847412109,0.018550299108028412,Kenan Karaman,h,98,OpenPlay,2015,RightFoot,1217,Hannover 96,Augsburg,0,1,2016-02-21 20:30:00,Miiko Albornoz,Pass
+81131,78,SavedShot,0.9130000305175782,0.6680000305175782,0.038080599159002304,Kenan Karaman,h,98,FromCorner,2015,LeftFoot,1217,Hannover 96,Augsburg,0,1,2016-02-21 20:30:00,Ceyhun Gülselam,HeadPass
+81136,88,MissedShots,0.894000015258789,0.62,0.0637957975268364,Kenan Karaman,h,98,OpenPlay,2015,RightFoot,1217,Hannover 96,Augsburg,0,1,2016-02-21 20:30:00,,None
+81139,92,MissedShots,0.86,0.634000015258789,0.0578853003680706,Kenan Karaman,h,98,OpenPlay,2015,RightFoot,1217,Hannover 96,Augsburg,0,1,2016-02-21 20:30:00,Ceyhun Gülselam,HeadPass
+81290,8,SavedShot,0.750999984741211,0.435,0.044589899480342865,Kenan Karaman,a,98,OpenPlay,2015,LeftFoot,1223,VfB Stuttgart,Hannover 96,1,2,2016-02-27 18:30:00,Andre Hoffmann,Pass
+81292,13,BlockedShot,0.9059999847412109,0.41,0.08154089748859406,Kenan Karaman,a,98,OpenPlay,2015,RightFoot,1223,VfB Stuttgart,Hannover 96,1,2,2016-02-27 18:30:00,Hiroshi Kiyotake,Cross
+81297,29,MissedShots,0.764000015258789,0.485,0.02481829933822155,Kenan Karaman,a,98,OpenPlay,2015,RightFoot,1223,VfB Stuttgart,Hannover 96,1,2,2016-02-27 18:30:00,Christian Schulz,Pass
+81307,57,BlockedShot,0.8119999694824219,0.28700000762939454,0.026732899248600006,Kenan Karaman,a,98,OpenPlay,2015,LeftFoot,1223,VfB Stuttgart,Hannover 96,1,2,2016-02-27 18:30:00,Hotaru Yamaguchi,Pass
+81312,68,SavedShot,0.7319999694824219,0.4909999847412109,0.06071719899773598,Kenan Karaman,a,98,OpenPlay,2015,RightFoot,1223,VfB Stuttgart,Hannover 96,1,2,2016-02-27 18:30:00,Hiroshi Kiyotake,Chipped
+81561,14,SavedShot,0.8230000305175781,0.664000015258789,0.11294899880886078,Kenan Karaman,h,98,OpenPlay,2015,RightFoot,1228,Hannover 96,Wolfsburg,0,4,2016-03-01 23:00:00,Hiroshi Kiyotake,Throughball
+81584,87,SavedShot,0.9030000305175782,0.345,0.13634000718593597,Kenan Karaman,h,98,OpenPlay,2015,RightFoot,1228,Hannover 96,Wolfsburg,0,4,2016-03-01 23:00:00,Ádám Szalai,TakeOn
+81822,32,MissedShots,0.764000015258789,0.585,0.017004799097776413,Kenan Karaman,a,98,OpenPlay,2015,LeftFoot,1239,Werder Bremen,Hannover 96,4,1,2016-03-05 18:30:00,Hiroshi Kiyotake,None
+81824,41,MissedShots,0.9219999694824219,0.435,0.028392499312758446,Kenan Karaman,a,98,FromCorner,2015,Head,1239,Werder Bremen,Hannover 96,4,1,2016-03-05 18:30:00,Hiroshi Kiyotake,Aerial
+81828,44,Goal,0.9740000152587891,0.46799999237060547,0.6764940023422241,Kenan Karaman,a,98,FromCorner,2015,RightFoot,1239,Werder Bremen,Hannover 96,4,1,2016-03-05 18:30:00,,None
+81829,53,MissedShots,0.86,0.3940000152587891,0.06830210238695145,Kenan Karaman,a,98,OpenPlay,2015,RightFoot,1239,Werder Bremen,Hannover 96,4,1,2016-03-05 18:30:00,Ádám Szalai,Pass
+81839,89,SavedShot,0.9330000305175781,0.4229999923706055,0.10900299996137619,Kenan Karaman,a,98,OpenPlay,2015,RightFoot,1239,Werder Bremen,Hannover 96,4,1,2016-03-05 18:30:00,Ceyhun Gülselam,Pass
+82033,12,SavedShot,0.7330000305175781,0.44599998474121094,0.01905599981546402,Kenan Karaman,h,98,OpenPlay,2015,LeftFoot,1251,Hannover 96,FC Cologne,0,2,2016-03-12 18:30:00,Manuel Schmiedebach,Pass
+82350,7,SavedShot,0.8230000305175781,0.43900001525878907,0.06355080008506775,Kenan Karaman,a,98,OpenPlay,2015,LeftFoot,1261,Eintracht Frankfurt,Hannover 96,1,0,2016-03-19 21:30:00,Hugo Almeida,TakeOn
+82964,55,SavedShot,0.8190000152587891,0.5179999923706055,0.06700730323791504,Kenan Karaman,h,98,OpenPlay,2015,RightFoot,1282,Hannover 96,Borussia M.Gladbach,2,0,2016-04-15 22:30:00,Hiroshi Kiyotake,Chipped
+82966,59,ShotOnPost,0.8430000305175781,0.61,0.07364380359649658,Kenan Karaman,h,98,OpenPlay,2015,LeftFoot,1282,Hannover 96,Borussia M.Gladbach,2,0,2016-04-15 22:30:00,,None
+82973,83,SavedShot,0.9330000305175781,0.3340000152587891,0.09111960232257843,Kenan Karaman,h,98,OpenPlay,2015,RightFoot,1282,Hannover 96,Borussia M.Gladbach,2,0,2016-04-15 22:30:00,Hiroshi Kiyotake,Pass
+165946,48,MissedShots,0.825999984741211,0.5359999847412109,0.0577148012816906,Kenan Karaman,a,98,OpenPlay,2017,RightFoot,8263,Mainz 05,Hannover 96,0,1,2017-08-19 14:30:00,,None
+166731,54,BlockedShot,0.9259999847412109,0.41900001525878905,0.11798200011253357,Kenan Karaman,h,98,OpenPlay,2017,RightFoot,8286,Hannover 96,Hamburger SV,2,0,2017-09-15 19:30:00,Ihlas Bebou,Cross
+166927,90,BlockedShot,0.8569999694824219,0.5429999923706055,0.07251589745283127,Kenan Karaman,a,98,OpenPlay,2017,LeftFoot,8301,Freiburg,Hannover 96,1,1,2017-09-20 19:30:00,,None
+166842,62,MissedShots,0.9269999694824219,0.66,0.031085999682545662,Kenan Karaman,h,98,SetPiece,2017,RightFoot,8311,Hannover 96,FC Cologne,0,0,2017-09-24 14:30:00,Pirmin Schwegler,Cross
+166844,64,BlockedShot,0.925,0.5829999923706055,0.0876384973526001,Kenan Karaman,h,98,SetPiece,2017,RightFoot,8311,Hannover 96,FC Cologne,0,0,2017-09-24 14:30:00,,CornerAwarded
+166852,92,BlockedShot,0.860999984741211,0.725999984741211,0.030770499259233475,Kenan Karaman,h,98,OpenPlay,2017,RightFoot,8311,Hannover 96,FC Cologne,0,0,2017-09-24 14:30:00,Salif Sané,Pass
+167100,19,MissedShots,0.730999984741211,0.5179999923706055,0.020671699196100235,Kenan Karaman,a,98,OpenPlay,2017,LeftFoot,8315,Borussia M.Gladbach,Hannover 96,2,1,2017-09-30 14:30:00,Marvin Bakalorz,Pass
+167104,27,MissedShots,0.875,0.5729999923706055,0.022691400721669197,Kenan Karaman,a,98,FromCorner,2017,Head,8315,Borussia M.Gladbach,Hannover 96,2,1,2017-09-30 14:30:00,Pirmin Schwegler,Cross
+167879,15,MissedShots,0.7609999847412109,0.4929999923706055,0.02369529940187931,Kenan Karaman,h,98,OpenPlay,2017,LeftFoot,8329,Hannover 96,Eintracht Frankfurt,1,2,2017-10-14 14:30:00,Pirmin Schwegler,Interception
+168699,78,BlockedShot,0.7380000305175781,0.41,0.019691599532961845,Kenan Karaman,h,98,OpenPlay,2017,LeftFoot,8375,Hannover 96,VfB Stuttgart,1,1,2017-11-24 19:30:00,Julian Korb,Pass
+187304,76,MissedShots,0.8440000152587891,0.5029999923706054,0.10391899943351746,Kenan Karaman,h,98,OpenPlay,2017,LeftFoot,8419,Hannover 96,Mainz 05,3,2,2018-01-13 14:30:00,Niclas Füllkrug,Pass
+196314,67,SavedShot,0.8119999694824219,0.5670000076293945,0.055357400327920914,Kenan Karaman,a,98,OpenPlay,2017,LeftFoot,8457,FC Cologne,Hannover 96,1,1,2018-02-17 14:30:00,Niclas Füllkrug,Pass
+199892,87,BlockedShot,0.7780000305175782,0.35400001525878905,0.015610399655997753,Kenan Karaman,h,98,OpenPlay,2017,RightFoot,8488,Hannover 96,Augsburg,1,3,2018-03-10 14:30:00,,None
+211385,23,Goal,0.9540000152587891,0.48,0.6101130247116089,Kenan Karaman,a,98,OpenPlay,2017,LeftFoot,8539,Hoffenheim,Hannover 96,3,1,2018-04-27 18:30:00,Pirmin Schwegler,Pass
+211387,32,SavedShot,0.915,0.664000015258789,0.062280699610710144,Kenan Karaman,a,98,OpenPlay,2017,LeftFoot,8539,Hoffenheim,Hannover 96,3,1,2018-04-27 18:30:00,Pirmin Schwegler,Chipped
+211409,87,BlockedShot,0.9059999847412109,0.5570000076293945,0.09441089630126953,Kenan Karaman,a,98,FromCorner,2017,RightFoot,8539,Hoffenheim,Hannover 96,3,1,2018-04-27 18:30:00,,None
+213084,22,BlockedShot,0.8430000305175781,0.605999984741211,0.06565439701080322,Kenan Karaman,h,98,OpenPlay,2017,LeftFoot,8548,Hannover 96,Hertha Berlin,3,1,2018-05-05 14:30:00,,Rebound
+220072,87,MissedShots,0.919000015258789,0.47900001525878905,0.10213799774646759,Kenan Karaman,h,98,FromCorner,2018,Head,10339,Fortuna Duesseldorf,Augsburg,1,2,2018-08-25 16:30:00,Jean Zimmer,Cross
+256307,78,SavedShot,0.855999984741211,0.345,0.07027149945497513,Kenan Karaman,h,98,OpenPlay,2018,LeftFoot,10434,Fortuna Duesseldorf,Hertha Berlin,4,1,2018-11-10 14:30:00,Kevin Stöger,Pass
+257449,88,BlockedShot,0.8969999694824219,0.41700000762939454,0.0147257000207901,Kenan Karaman,h,98,FromCorner,2018,Head,10452,Fortuna Duesseldorf,Mainz 05,0,1,2018-11-30 19:30:00,Takashi Usami,Aerial
+257452,91,MissedShots,0.9359999847412109,0.49700000762939456,0.4162769913673401,Kenan Karaman,h,98,FromCorner,2018,Head,10452,Fortuna Duesseldorf,Mainz 05,0,1,2018-11-30 19:30:00,Kevin Stöger,Cross
+257287,17,SavedShot,0.815,0.6669999694824219,0.03204359859228134,Kenan Karaman,h,98,OpenPlay,2018,RightFoot,10470,Fortuna Duesseldorf,Freiburg,2,0,2018-12-15 14:30:00,Benito Raman,Pass
+257290,30,BlockedShot,0.8909999847412109,0.6370000076293946,0.07500220090150833,Kenan Karaman,h,98,OpenPlay,2018,RightFoot,10470,Fortuna Duesseldorf,Freiburg,2,0,2018-12-15 14:30:00,Benito Raman,BallRecovery
+257696,35,SavedShot,0.9319999694824219,0.7419999694824219,0.03384599834680557,Kenan Karaman,a,98,OpenPlay,2018,LeftFoot,10489,Hannover 96,Fortuna Duesseldorf,0,1,2018-12-22 14:30:00,Takashi Usami,Pass
+257704,64,SavedShot,0.879000015258789,0.3220000076293945,0.06470129638910294,Kenan Karaman,a,98,OpenPlay,2018,RightFoot,10489,Hannover 96,Fortuna Duesseldorf,0,1,2018-12-22 14:30:00,Dodi Lukebakio,TakeOn
+257710,81,BlockedShot,0.8619999694824219,0.5790000152587891,0.12705600261688232,Kenan Karaman,a,98,OpenPlay,2018,RightFoot,10489,Hannover 96,Fortuna Duesseldorf,0,1,2018-12-22 14:30:00,Rouwen Hennings,TakeOn
+279143,23,MissedShots,0.9280000305175782,0.40099998474121096,0.12363599985837936,Kenan Karaman,h,98,OpenPlay,2018,RightFoot,10525,Fortuna Duesseldorf,VfB Stuttgart,3,0,2019-02-10 17:00:00,Oliver Fink,Pass
+279146,26,MissedShots,0.915,0.4809999847412109,0.041256800293922424,Kenan Karaman,h,98,FromCorner,2018,Head,10525,Fortuna Duesseldorf,VfB Stuttgart,3,0,2019-02-10 17:00:00,Jean Zimmer,Aerial
+279149,33,Goal,0.919000015258789,0.4779999923706055,0.41206300258636475,Kenan Karaman,h,98,OpenPlay,2018,Head,10525,Fortuna Duesseldorf,VfB Stuttgart,3,0,2019-02-10 17:00:00,Dodi Lukebakio,Aerial
+279319,2,MissedShots,0.9259999847412109,0.47,0.1119839996099472,Kenan Karaman,a,98,FromCorner,2018,Head,10527,Bayer Leverkusen,Fortuna Duesseldorf,2,0,2019-02-17 17:00:00,Jean Zimmer,Cross
+297212,4,BlockedShot,0.78,0.3129999923706055,0.027995599433779716,Kenan Karaman,h,98,OpenPlay,2018,RightFoot,10614,Fortuna Duesseldorf,Werder Bremen,4,1,2019-04-27 14:30:00,Rouwen Hennings,Pass
+297214,21,Goal,0.89,0.42700000762939455,0.5029659867286682,Kenan Karaman,h,98,OpenPlay,2018,LeftFoot,10614,Fortuna Duesseldorf,Werder Bremen,4,1,2019-04-27 14:30:00,Adam Bodzek,TakeOn
+300025,16,MissedShots,0.919000015258789,0.48200000762939454,0.06449019908905029,Kenan Karaman,a,98,OpenPlay,2018,OtherBodyPart,10622,Freiburg,Fortuna Duesseldorf,1,1,2019-05-05 14:30:00,Dawid Kownacki,Aerial
+300750,97,MissedShots,0.97,0.4370000076293945,0.5344030261039734,Kenan Karaman,a,98,SetPiece,2018,RightFoot,10626,Borussia Dortmund,Fortuna Duesseldorf,3,2,2019-05-11 14:30:00,Kevin Stöger,Cross
+302307,23,SavedShot,0.874000015258789,0.575,0.09787029772996902,Kenan Karaman,h,98,OpenPlay,2018,RightFoot,10640,Fortuna Duesseldorf,Hannover 96,2,1,2019-05-18 13:30:00,Dodi Lukebakio,Pass
+302322,59,Goal,0.9869999694824219,0.509000015258789,0.9725959897041321,Kenan Karaman,h,98,OpenPlay,2018,LeftFoot,10640,Fortuna Duesseldorf,Hannover 96,2,1,2019-05-18 13:30:00,,Rebound
+302324,63,SavedShot,0.9130000305175782,0.4929999923706055,0.11858399957418442,Kenan Karaman,h,98,OpenPlay,2018,Head,10640,Fortuna Duesseldorf,Hannover 96,2,1,2019-05-18 13:30:00,Matthias Zimmermann,Cross
+302325,75,BlockedShot,0.8590000152587891,0.4370000076293945,0.12122199684381485,Kenan Karaman,h,98,OpenPlay,2018,RightFoot,10640,Fortuna Duesseldorf,Hannover 96,2,1,2019-05-18 13:30:00,Benito Raman,Pass
+310585,51,Goal,0.874000015258789,0.46599998474121096,0.12244299799203873,Kenan Karaman,a,98,OpenPlay,2019,RightFoot,12404,Werder Bremen,Fortuna Duesseldorf,1,3,2019-08-17 14:30:00,Erik Thommy,LayOff
+312391,35,BlockedShot,0.8190000152587891,0.33599998474121096,0.0502144992351532,Kenan Karaman,h,98,OpenPlay,2019,LeftFoot,12415,Fortuna Duesseldorf,Bayer Leverkusen,1,3,2019-08-24 14:30:00,Erik Thommy,TakeOn
+321145,75,BlockedShot,0.8119999694824219,0.34,0.04544780030846596,Kenan Karaman,a,98,OpenPlay,2019,RightFoot,12445,Borussia M.Gladbach,Fortuna Duesseldorf,2,1,2019-09-22 13:30:00,,TakeOn
+321152,93,MissedShots,0.8130000305175781,0.4779999923706055,0.042761001735925674,Kenan Karaman,a,98,OpenPlay,2019,LeftFoot,12445,Borussia M.Gladbach,Fortuna Duesseldorf,2,1,2019-09-22 13:30:00,Erik Thommy,Chipped
+323328,45,BlockedShot,0.8630000305175781,0.66,0.049363698810338974,Kenan Karaman,h,98,OpenPlay,2019,RightFoot,12455,Fortuna Duesseldorf,Freiburg,1,2,2019-09-29 13:30:00,Rouwen Hennings,Pass
+323338,71,SavedShot,0.9169999694824219,0.3920000076293945,0.09407559782266617,Kenan Karaman,h,98,OpenPlay,2019,RightFoot,12455,Fortuna Duesseldorf,Freiburg,1,2,2019-09-29 13:30:00,,BallTouch
+323339,72,MissedShots,0.904000015258789,0.435,0.39241600036621094,Kenan Karaman,h,98,OpenPlay,2019,LeftFoot,12455,Fortuna Duesseldorf,Freiburg,1,2,2019-09-29 13:30:00,,Rebound
+325492,26,BlockedShot,0.845,0.6880000305175781,0.056276701390743256,Kenan Karaman,h,98,OpenPlay,2019,RightFoot,12474,Fortuna Duesseldorf,Mainz 05,1,0,2019-10-19 14:30:00,Kasim Nuhu,TakeOn
+325497,41,MissedShots,0.8490000152587891,0.595999984741211,0.07860709726810455,Kenan Karaman,h,98,OpenPlay,2019,LeftFoot,12474,Fortuna Duesseldorf,Mainz 05,1,0,2019-10-19 14:30:00,Niko Gießelmann,Pass
+325508,78,MissedShots,0.7559999847412109,0.545,0.024932799860835075,Kenan Karaman,h,98,OpenPlay,2019,LeftFoot,12474,Fortuna Duesseldorf,Mainz 05,1,0,2019-10-19 14:30:00,Jean Zimmer,Pass
+359872,79,MissedShots,0.7480000305175781,0.41200000762939454,0.032160498201847076,Kenan Karaman,a,98,OpenPlay,2019,RightFoot,12608,Freiburg,Fortuna Duesseldorf,0,2,2020-02-22 14:30:00,Kevin Stöger,Pass
+360540,5,Goal,0.9330000305175781,0.6509999847412109,0.2910029888153076,Kenan Karaman,h,98,OpenPlay,2019,LeftFoot,12614,Fortuna Duesseldorf,Hertha Berlin,3,3,2020-02-28 19:30:00,Kevin Stöger,Throughball
+360552,45,Goal,0.91,0.48900001525878906,0.5472019910812378,Kenan Karaman,h,98,OpenPlay,2019,RightFoot,12614,Fortuna Duesseldorf,Hertha Berlin,3,3,2020-02-28 19:30:00,Matthias Zimmermann,Pass
+362304,72,MissedShots,0.8930000305175781,0.580999984741211,0.051916200667619705,Kenan Karaman,a,98,SetPiece,2019,Head,12624,Mainz 05,Fortuna Duesseldorf,1,1,2020-03-08 17:00:00,Kevin Stöger,Cross
+362306,84,Goal,0.97,0.43099998474121093,0.5255709886550903,Kenan Karaman,a,98,OpenPlay,2019,RightFoot,12624,Mainz 05,Fortuna Duesseldorf,1,1,2020-03-08 17:00:00,,None
+363009,59,BlockedShot,0.7859999847412109,0.3609999847412109,0.03294150158762932,Kenan Karaman,h,98,OpenPlay,2019,LeftFoot,12633,Fortuna Duesseldorf,Paderborn,0,0,2020-05-16 13:30:00,Valon Berisha,TakeOn
+363319,20,SavedShot,0.879000015258789,0.37099998474121093,0.09251239895820618,Kenan Karaman,a,98,OpenPlay,2019,RightFoot,12645,FC Cologne,Fortuna Duesseldorf,2,2,2020-05-24 16:00:00,Kevin Stöger,LayOff
+363324,40,Goal,0.88,0.3629999923706055,0.07931660115718842,Kenan Karaman,a,98,OpenPlay,2019,RightFoot,12645,FC Cologne,Fortuna Duesseldorf,2,2,2020-05-24 16:00:00,Steven Skrzybski,Pass
+363502,11,SavedShot,0.8430000305175781,0.28600000381469726,0.028758099302649498,Kenan Karaman,h,98,OpenPlay,2019,LeftFoot,12649,Fortuna Duesseldorf,Schalke 04,2,1,2020-05-27 18:30:00,Kaan Ayhan,Pass
+363515,67,Goal,0.9890000152587891,0.545,0.7057939767837524,Kenan Karaman,h,98,FromCorner,2019,Head,12649,Fortuna Duesseldorf,Schalke 04,2,1,2020-05-27 18:30:00,,None
+363519,81,BlockedShot,0.885,0.44599998474121094,0.035014599561691284,Kenan Karaman,h,98,OpenPlay,2019,Head,12649,Fortuna Duesseldorf,Schalke 04,2,1,2020-05-27 18:30:00,Matthias Zimmermann,Aerial
+363686,32,BlockedShot,0.894000015258789,0.509000015258789,0.27803099155426025,Kenan Karaman,a,98,OpenPlay,2019,LeftFoot,12655,Bayern Munich,Fortuna Duesseldorf,5,0,2020-05-30 16:30:00,Erik Thommy,Cross
+363697,60,BlockedShot,0.894000015258789,0.27100000381469724,0.03623969852924347,Kenan Karaman,a,98,OpenPlay,2019,RightFoot,12655,Bayern Munich,Fortuna Duesseldorf,5,0,2020-05-30 16:30:00,Steven Skrzybski,Pass
+363930,27,SavedShot,0.9069999694824219,0.5479999923706055,0.0716898962855339,Kenan Karaman,h,98,FromCorner,2019,RightFoot,12669,Fortuna Duesseldorf,Hoffenheim,2,2,2020-06-06 13:30:00,Erik Thommy,Cross
+364205,49,SavedShot,0.86,0.5790000152587891,0.07827650010585785,Kenan Karaman,h,98,OpenPlay,2019,RightFoot,12676,Fortuna Duesseldorf,Borussia Dortmund,0,1,2020-06-13 13:30:00,,Dispossessed
+365307,46,MissedShots,0.870999984741211,0.5059999847412109,0.08510740101337433,Kenan Karaman,h,98,OpenPlay,2019,RightFoot,12694,Fortuna Duesseldorf,Augsburg,1,1,2020-06-20 13:30:00,Florian Kastenmeier,Pass
+366998,15,MissedShots,0.8640000152587891,0.6530000305175782,0.05593990162014961,Kenan Karaman,a,98,OpenPlay,2019,RightFoot,12708,Union Berlin,Fortuna Duesseldorf,3,0,2020-06-27 13:30:00,Rouwen Hennings,Pass
+367005,36,MissedShots,0.885,0.40299999237060546,0.015003600157797337,Kenan Karaman,a,98,SetPiece,2019,Head,12708,Union Berlin,Fortuna Duesseldorf,3,0,2020-06-27 13:30:00,,Aerial
+367008,43,BlockedShot,0.860999984741211,0.545,0.009366359561681747,Kenan Karaman,a,98,SetPiece,2019,Head,12708,Union Berlin,Fortuna Duesseldorf,3,0,2020-06-27 13:30:00,Kevin Stöger,Aerial
+367010,45,BlockedShot,0.85,0.4779999923706055,0.0948823019862175,Kenan Karaman,a,98,OpenPlay,2019,LeftFoot,12708,Union Berlin,Fortuna Duesseldorf,3,0,2020-06-27 13:30:00,Rouwen Hennings,LayOff
+367014,59,MissedShots,0.825,0.37599998474121094,0.06215069815516472,Kenan Karaman,a,98,OpenPlay,2019,RightFoot,12708,Union Berlin,Fortuna Duesseldorf,3,0,2020-06-27 13:30:00,Rouwen Hennings,TakeOn
+367017,67,MissedShots,0.8159999847412109,0.529000015258789,0.05882610008120537,Kenan Karaman,a,98,OpenPlay,2019,LeftFoot,12708,Union Berlin,Fortuna Duesseldorf,3,0,2020-06-27 13:30:00,Kevin Stöger,Pass
+488742,61,BlockedShot,0.865,0.43,0.05748629942536354,Kenan Karaman,a,98,OpenPlay,2022,LeftFoot,19397,Borussia Dortmund,Schalke 04,1,0,2022-09-17 13:30:00,Marius Bülter,Cross
+490915,83,MissedShots,0.9630000305175781,0.46599998474121096,0.4956429898738861,Kenan Karaman,h,98,FromCorner,2022,Head,19412,Schalke 04,Augsburg,2,3,2022-10-02 15:30:00,Mehmet Can Aydin,Rebound
+490916,94,BlockedShot,0.8869999694824219,0.40599998474121096,0.026216600090265274,Kenan Karaman,h,98,FromCorner,2022,Head,19412,Schalke 04,Augsburg,2,3,2022-10-02 15:30:00,Tobias Mohr,Cross
+497397,18,SavedShot,0.89,0.6990000152587891,0.042769599705934525,Kenan Karaman,h,98,OpenPlay,2022,LeftFoot,19448,Schalke 04,Freiburg,0,2,2022-10-30 16:30:00,Alex Kral,Pass
+498206,14,BlockedShot,0.8040000152587891,0.5120000076293946,0.05479229986667633,Kenan Karaman,a,98,OpenPlay,2022,LeftFoot,19456,Werder Bremen,Schalke 04,2,1,2022-11-05 17:30:00,Simon Terodde,Pass
+498223,63,MissedShots,0.92,0.5059999847412109,0.10696999728679657,Kenan Karaman,a,98,OpenPlay,2022,Head,19456,Werder Bremen,Schalke 04,2,1,2022-11-05 17:30:00,Cédric Brunner,Cross
+499423,26,SavedShot,0.8719999694824219,0.4590000152587891,0.04734890162944794,Kenan Karaman,h,98,SetPiece,2022,Head,19467,Schalke 04,Mainz 05,1,0,2022-11-09 19:30:00,Tobias Mohr,Chipped
+499426,36,BlockedShot,0.9080000305175782,0.6580000305175782,0.024539200589060783,Kenan Karaman,h,98,OpenPlay,2022,Head,19467,Schalke 04,Mainz 05,1,0,2022-11-09 19:30:00,,None
+499433,55,SavedShot,0.9009999847412109,0.42900001525878906,0.2927519977092743,Kenan Karaman,h,98,OpenPlay,2022,Head,19467,Schalke 04,Mainz 05,1,0,2022-11-09 19:30:00,Simon Terodde,Chipped
+500288,3,MissedShots,0.899000015258789,0.4490000152587891,0.04142320156097412,Kenan Karaman,h,98,OpenPlay,2022,Head,19475,Schalke 04,Bayern Munich,0,2,2022-11-12 17:30:00,Tobias Mohr,Aerial
+500293,20,MissedShots,0.8159999847412109,0.49,0.06244179978966713,Kenan Karaman,h,98,OpenPlay,2022,LeftFoot,19475,Schalke 04,Bayern Munich,0,2,2022-11-12 17:30:00,Alex Kral,Pass
+504612,94,MissedShots,0.9480000305175781,0.5659999847412109,0.1402219980955124,Kenan Karaman,a,98,OpenPlay,2022,Head,19482,Eintracht Frankfurt,Schalke 04,3,0,2023-01-21 14:30:00,Cédric Brunner,Cross
+513735,78,Goal,0.8959999847412109,0.4779999923706055,0.07464870065450668,Kenan Karaman,h,98,OpenPlay,2022,Head,19556,Schalke 04,Borussia Dortmund,2,2,2023-03-11 17:30:00,Marius Bülter,Cross
+519054,82,BlockedShot,0.875999984741211,0.53,0.13535800576210022,Kenan Karaman,h,98,OpenPlay,2022,RightFoot,19592,Schalke 04,Hertha Berlin,5,2,2023-04-14 18:30:00,Simon Terodde,Pass
+519056,87,BlockedShot,0.899000015258789,0.6509999847412109,0.2766039967536926,Kenan Karaman,h,98,OpenPlay,2022,LeftFoot,19592,Schalke 04,Hertha Berlin,5,2,2023-04-14 18:30:00,Tom Krauß,Pass
+521538,70,SavedShot,0.7619999694824219,0.3170000076293945,0.01546188909560442,Kenan Karaman,a,98,OpenPlay,2022,LeftFoot,19596,Freiburg,Schalke 04,4,0,2023-04-23 13:30:00,Alex Kral,Pass
+522898,11,MissedShots,0.845999984741211,0.34099998474121096,0.1416972130537033,Kenan Karaman,h,98,OpenPlay,2022,RightFoot,19611,Schalke 04,Werder Bremen,2,1,2023-04-29 16:30:00,Rodrigo Zalazar,Throughball
+522916,72,SavedShot,0.9009999847412109,0.5540000152587891,0.06849794834852219,Kenan Karaman,h,98,OpenPlay,2022,Head,19611,Schalke 04,Werder Bremen,2,1,2023-04-29 16:30:00,Jere Uronen,Cross
+524405,34,ShotOnPost,0.8109999847412109,0.46099998474121096,0.07237903028726578,Kenan Karaman,a,98,OpenPlay,2022,LeftFoot,19615,Mainz 05,Schalke 04,2,3,2023-05-05 18:30:00,Simon Terodde,Pass
+527349,40,SavedShot,0.955999984741211,0.6509999847412109,0.07980953902006149,Kenan Karaman,h,98,OpenPlay,2022,LeftFoot,19637,Schalke 04,Eintracht Frankfurt,2,2,2023-05-20 13:30:00,Simon Terodde,Pass
+528943,92,SavedShot,0.8569999694824219,0.6229999923706054,0.05683399364352226,Kenan Karaman,a,98,OpenPlay,2022,RightFoot,19640,RasenBallsport Leipzig,Schalke 04,4,2,2023-05-27 13:30:00,Alex Kral,Pass

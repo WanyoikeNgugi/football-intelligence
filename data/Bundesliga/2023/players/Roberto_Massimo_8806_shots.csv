@@ -1,0 +1,36 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+377437,1,MissedShots,0.8719999694824219,0.22399999618530272,0.0236005000770092,Roberto Massimo,h,8806,OpenPlay,2020,RightFoot,14178,VfB Stuttgart,Freiburg,2,3,2020-09-19 13:30:00,Marc-Oliver Kempf,Chipped
+377450,46,SavedShot,0.9019999694824219,0.3509999847412109,0.04642219841480255,Roberto Massimo,h,8806,OpenPlay,2020,RightFoot,14178,VfB Stuttgart,Freiburg,2,3,2020-09-19 13:30:00,Daniel Didavi,Chipped
+377459,72,BlockedShot,0.9180000305175782,0.40900001525878904,0.04654489830136299,Roberto Massimo,h,8806,OpenPlay,2020,Head,14178,VfB Stuttgart,Freiburg,2,3,2020-09-19 13:30:00,Waldemar Anton,Aerial
+378837,85,ShotOnPost,0.904000015258789,0.3679999923706055,0.33527401089668274,Roberto Massimo,a,8806,OpenPlay,2020,RightFoot,14183,Mainz 05,VfB Stuttgart,1,4,2020-09-26 13:30:00,Sasa Kalajdzic,Pass
+394747,63,SavedShot,0.865,0.38299999237060545,0.05697539821267128,Roberto Massimo,a,8806,OpenPlay,2020,RightFoot,15251,Wolfsburg,VfB Stuttgart,1,0,2020-12-20 17:00:00,Mateo Klimowicz,BallTouch
+399991,69,MissedShots,0.8809999847412109,0.40299999237060546,0.04880350083112717,Roberto Massimo,a,8806,OpenPlay,2020,LeftFoot,15292,Arminia Bielefeld,VfB Stuttgart,3,0,2021-01-20 19:30:00,Mateo Klimowicz,Chipped
+401463,67,BlockedShot,0.8909999847412109,0.29,0.04224260151386261,Roberto Massimo,h,8806,OpenPlay,2020,LeftFoot,15310,VfB Stuttgart,Mainz 05,2,0,2021-01-29 18:30:00,Orel Mangala,TakeOn
+403183,14,BlockedShot,0.875999984741211,0.325,0.05758630111813545,Roberto Massimo,a,8806,OpenPlay,2020,RightFoot,15312,Bayer Leverkusen,VfB Stuttgart,5,2,2021-02-06 14:30:00,Wataru Endo,Pass
+415268,81,BlockedShot,0.9059999847412109,0.29100000381469726,0.042775001376867294,Roberto Massimo,a,8806,OpenPlay,2020,RightFoot,15398,Union Berlin,VfB Stuttgart,2,1,2021-04-17 13:30:00,Mateo Klimowicz,Pass
+415270,89,MissedShots,0.8169999694824219,0.4279999923706055,0.03489449992775917,Roberto Massimo,a,8806,FromCorner,2020,RightFoot,15398,Union Berlin,VfB Stuttgart,2,1,2021-04-17 13:30:00,Philipp Förster,Cross
+416536,79,ShotOnPost,0.8819999694824219,0.5379999923706055,0.10189799964427948,Roberto Massimo,h,8806,OpenPlay,2020,LeftFoot,15409,VfB Stuttgart,Wolfsburg,1,3,2021-04-21 18:30:00,Daniel Didavi,Pass
+419666,2,SavedShot,0.845999984741211,0.445,0.07081399857997894,Roberto Massimo,h,8806,OpenPlay,2020,LeftFoot,15427,VfB Stuttgart,Augsburg,2,1,2021-05-07 18:30:00,Sasa Kalajdzic,Pass
+421815,72,SavedShot,0.915,0.3320000076293945,0.0695279985666275,Roberto Massimo,a,8806,OpenPlay,2020,RightFoot,15429,Borussia M.Gladbach,VfB Stuttgart,1,2,2021-05-15 13:30:00,Sasa Kalajdzic,BallTouch
+423426,8,MissedShots,0.884000015258789,0.3890000152587891,0.07165239751338959,Roberto Massimo,h,8806,OpenPlay,2020,RightFoot,15445,VfB Stuttgart,Arminia Bielefeld,0,2,2021-05-22 13:30:00,,None
+423429,15,BlockedShot,0.8719999694824219,0.47099998474121096,0.1068589985370636,Roberto Massimo,h,8806,OpenPlay,2020,LeftFoot,15445,VfB Stuttgart,Arminia Bielefeld,0,2,2021-05-22 13:30:00,Philipp Förster,Pass
+425729,60,SavedShot,0.7959999847412109,0.30100000381469727,0.03751720115542412,Roberto Massimo,h,8806,OpenPlay,2021,LeftFoot,17519,VfB Stuttgart,Greuther Fuerth,5,1,2021-08-14 13:30:00,Philipp Förster,Pass
+425740,77,SavedShot,0.9319999694824219,0.6359999847412109,0.3103399872779846,Roberto Massimo,h,8806,OpenPlay,2021,RightFoot,17519,VfB Stuttgart,Greuther Fuerth,5,1,2021-08-14 13:30:00,Daniel Didavi,TakeOn
+425741,79,MissedShots,0.8590000152587891,0.43099998474121093,0.0949283018708229,Roberto Massimo,h,8806,OpenPlay,2021,RightFoot,17519,VfB Stuttgart,Greuther Fuerth,5,1,2021-08-14 13:30:00,Philipp Förster,Pass
+425743,83,MissedShots,0.8490000152587891,0.5609999847412109,0.31740400195121765,Roberto Massimo,h,8806,OpenPlay,2021,LeftFoot,17519,VfB Stuttgart,Greuther Fuerth,5,1,2021-08-14 13:30:00,Daniel Didavi,Pass
+426685,8,SavedShot,0.7390000152587891,0.49900001525878906,0.01631009951233864,Roberto Massimo,a,8806,FromCorner,2021,RightFoot,17525,RasenBallsport Leipzig,VfB Stuttgart,4,0,2021-08-20 18:30:00,,None
+426709,59,SavedShot,0.885,0.36700000762939455,0.08824390172958374,Roberto Massimo,a,8806,OpenPlay,2021,RightFoot,17525,RasenBallsport Leipzig,VfB Stuttgart,4,0,2021-08-20 18:30:00,Philipp Klement,Throughball
+426716,83,BlockedShot,0.8590000152587891,0.3729999923706055,0.04593060165643692,Roberto Massimo,a,8806,OpenPlay,2021,LeftFoot,17525,RasenBallsport Leipzig,VfB Stuttgart,4,0,2021-08-20 18:30:00,,None
+428497,9,SavedShot,0.7830000305175782,0.30100000381469727,0.02083509974181652,Roberto Massimo,h,8806,OpenPlay,2021,LeftFoot,17539,VfB Stuttgart,Freiburg,2,3,2021-08-28 13:30:00,Hamadi Al Ghaddioui,Pass
+428506,37,MissedShots,0.715999984741211,0.5220000076293946,0.014054600149393082,Roberto Massimo,h,8806,FromCorner,2021,RightFoot,17539,VfB Stuttgart,Freiburg,2,3,2021-08-28 13:30:00,,None
+454266,33,SavedShot,0.9009999847412109,0.2720000076293945,0.03543490171432495,Roberto Massimo,a,8806,OpenPlay,2021,RightFoot,17549,Eintracht Frankfurt,VfB Stuttgart,1,1,2021-09-12 13:30:00,Omar Marmoush,Pass
+434127,86,MissedShots,0.7559999847412109,0.4779999923706055,0.025940900668501854,Roberto Massimo,a,8806,OpenPlay,2021,RightFoot,17568,Bochum,VfB Stuttgart,0,0,2021-09-26 13:30:00,Borna Sosa,TakeOn
+434825,80,Goal,0.8490000152587891,0.385,0.08758799731731415,Roberto Massimo,h,8806,OpenPlay,2021,RightFoot,17574,VfB Stuttgart,Hoffenheim,3,1,2021-10-02 13:30:00,Tanguy Coulibaly,Pass
+441004,14,BlockedShot,0.8619999694824219,0.44299999237060544,0.14448000490665436,Roberto Massimo,h,8806,OpenPlay,2021,LeftFoot,17611,VfB Stuttgart,Arminia Bielefeld,0,1,2021-11-06 14:30:00,Daniel Didavi,LayOff
+441018,64,SavedShot,0.899000015258789,0.73,0.05192910134792328,Roberto Massimo,h,8806,OpenPlay,2021,RightFoot,17611,VfB Stuttgart,Arminia Bielefeld,0,1,2021-11-06 14:30:00,Daniel Didavi,LayOff
+442372,21,SavedShot,0.6940000152587891,0.32599998474121095,0.01131839957088232,Roberto Massimo,a,8806,OpenPlay,2021,RightFoot,17623,Borussia Dortmund,VfB Stuttgart,2,1,2021-11-20 14:30:00,Wataru Endo,BallTouch
+442384,62,Goal,0.8390000152587891,0.46700000762939453,0.3582170009613037,Roberto Massimo,a,8806,OpenPlay,2021,LeftFoot,17623,Borussia Dortmund,VfB Stuttgart,2,1,2021-11-20 14:30:00,Atakan Karazor,TakeOn
+443657,66,BlockedShot,0.8540000152587891,0.28,0.04153740033507347,Roberto Massimo,h,8806,OpenPlay,2021,LeftFoot,17628,VfB Stuttgart,Mainz 05,2,1,2021-11-26 19:30:00,Wataru Endo,Pass
+452080,44,BlockedShot,0.8469999694824218,0.5370000076293945,0.03263559937477112,Roberto Massimo,a,8806,OpenPlay,2021,LeftFoot,17669,Greuther Fuerth,VfB Stuttgart,0,0,2022-01-08 14:30:00,,Aerial
+453191,82,SavedShot,0.9,0.37400001525878906,0.09028729796409607,Roberto Massimo,h,8806,OpenPlay,2021,RightFoot,17682,VfB Stuttgart,RasenBallsport Leipzig,0,2,2022-01-15 14:30:00,Lilian Egloff,Pass
+466405,84,MissedShots,0.9590000152587891,0.49599998474121093,0.6405100226402283,Roberto Massimo,h,8806,OpenPlay,2021,Head,17772,VfB Stuttgart,Borussia Dortmund,0,2,2022-04-08 18:30:00,,None

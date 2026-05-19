@@ -1,0 +1,13 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+427386,12,MissedShots,0.860999984741211,0.5509999847412109,0.3099670112133026,Leonardo Mancuso,h,9852,OpenPlay,2021,RightFoot,16759,Empoli,Lazio,1,3,2021-08-21 18:45:00,Petar Stojanovic,Throughball
+427387,21,SavedShot,0.8619999694824219,0.62,0.04973449930548668,Leonardo Mancuso,h,9852,FromCorner,2021,RightFoot,16759,Empoli,Lazio,1,3,2021-08-21 18:45:00,,None
+428964,20,Goal,0.9580000305175781,0.4809999847412109,0.6922240257263184,Leonardo Mancuso,a,9852,OpenPlay,2021,LeftFoot,16771,Juventus,Empoli,0,1,2021-08-28 18:45:00,,Rebound
+428968,34,BlockedShot,0.8590000152587891,0.2620000076293945,0.0393529012799263,Leonardo Mancuso,a,9852,OpenPlay,2021,LeftFoot,16771,Juventus,Empoli,0,1,2021-08-28 18:45:00,Petar Stojanovic,Pass
+428969,34,BlockedShot,0.8880000305175781,0.7630000305175781,0.04127049818634987,Leonardo Mancuso,a,9852,OpenPlay,2021,RightFoot,16771,Juventus,Empoli,0,1,2021-08-28 18:45:00,,Dispossessed
+429627,35,BlockedShot,0.8619999694824219,0.5170000076293946,0.09014300256967545,Leonardo Mancuso,h,9852,OpenPlay,2021,LeftFoot,16779,Empoli,Venezia,1,2,2021-09-11 13:00:00,Filippo Bandinelli,Pass
+431649,1,SavedShot,0.9580000305175781,0.5129999923706055,0.15261699259281158,Leonardo Mancuso,h,9852,OpenPlay,2021,LeftFoot,16786,Empoli,Sampdoria,0,3,2021-09-19 10:30:00,Patrick Cutrone,Pass
+431657,39,MissedShots,0.9319999694824219,0.41900001525878905,0.3291879892349243,Leonardo Mancuso,h,9852,OpenPlay,2021,RightFoot,16786,Empoli,Sampdoria,0,3,2021-09-19 10:30:00,Riccardo Marchizza,Cross
+431667,53,MissedShots,0.9119999694824219,0.4470000076293945,0.08243799954652786,Leonardo Mancuso,h,9852,OpenPlay,2021,RightFoot,16786,Empoli,Sampdoria,0,3,2021-09-19 10:30:00,,None
+435681,37,SavedShot,0.7130000305175781,0.25299999237060544,0.01329519972205162,Leonardo Mancuso,a,9852,OpenPlay,2021,RightFoot,16821,Roma,Empoli,2,0,2021-10-03 16:00:00,Liam Henderson,Pass
+435690,67,MissedShots,0.8669999694824219,0.48400001525878905,0.05245229974389076,Leonardo Mancuso,a,9852,OpenPlay,2021,RightFoot,16821,Roma,Empoli,2,0,2021-10-03 16:00:00,Petar Stojanovic,Cross
+439114,75,SavedShot,0.8440000152587891,0.41200000762939454,0.02452550083398819,Leonardo Mancuso,h,9852,SetPiece,2021,RightFoot,16847,Empoli,Inter,0,2,2021-10-27 18:45:00,Liam Henderson,Cross

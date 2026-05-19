@@ -1,0 +1,89 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+385371,56,BlockedShot,0.850999984741211,0.5620000076293945,0.05726290121674538,Lucas Martínez Quarta,a,9019,FromCorner,2020,LeftFoot,15480,Roma,Fiorentina,2,0,2020-11-01 17:00:00,,None
+397257,27,BlockedShot,0.8719999694824219,0.3940000152587891,0.01173780020326376,Lucas Martínez Quarta,a,9019,FromCorner,2020,Head,15580,Lazio,Fiorentina,2,1,2021-01-06 14:00:00,Cristiano Biraghi,Aerial
+397261,46,MissedShots,0.9290000152587891,0.4759999847412109,0.15580999851226807,Lucas Martínez Quarta,a,9019,FromCorner,2020,Head,15580,Lazio,Fiorentina,2,1,2021-01-06 14:00:00,Cristiano Biraghi,End
+397263,60,BlockedShot,0.874000015258789,0.4279999923706055,0.012673200108110905,Lucas Martínez Quarta,a,9019,FromCorner,2020,Head,15580,Lazio,Fiorentina,2,1,2021-01-06 14:00:00,Cristiano Biraghi,Aerial
+400626,78,BlockedShot,0.8909999847412109,0.4640000152587891,0.01602119952440262,Lucas Martínez Quarta,h,9019,FromCorner,2020,Head,15607,Fiorentina,Crotone,2,1,2021-01-23 19:45:00,Giacomo Bonaventura,Aerial
+402928,4,MissedShots,0.899000015258789,0.4779999923706055,0.020385699346661568,Lucas Martínez Quarta,h,9019,FromCorner,2020,Head,15629,Fiorentina,Inter,0,2,2021-02-05 19:45:00,Cristiano Biraghi,Aerial
+402938,40,MissedShots,0.6890000152587891,0.4159999847412109,0.011904099956154823,Lucas Martínez Quarta,h,9019,OpenPlay,2020,RightFoot,15629,Fiorentina,Inter,0,2,2021-02-05 19:45:00,Germán Pezzella,HeadPass
+402953,85,BlockedShot,0.855999984741211,0.47200000762939454,0.0728738009929657,Lucas Martínez Quarta,h,9019,OpenPlay,2020,RightFoot,15629,Fiorentina,Inter,0,2,2021-02-05 19:45:00,,Dispossessed
+404736,53,ShotOnPost,0.92,0.4779999923706055,0.060047298669815063,Lucas Martínez Quarta,a,9019,SetPiece,2020,Head,15638,Sampdoria,Fiorentina,2,1,2021-02-14 14:00:00,Cristiano Biraghi,Aerial
+404745,79,SavedShot,0.779000015258789,0.7230000305175781,0.01781580038368702,Lucas Martínez Quarta,a,9019,OpenPlay,2020,RightFoot,15638,Sampdoria,Fiorentina,2,1,2021-02-14 14:00:00,Gaetano Castrovilli,Pass
+407189,45,SavedShot,0.6709999847412109,0.51,0.010995900258421898,Lucas Martínez Quarta,a,9019,OpenPlay,2020,RightFoot,15659,Udinese,Fiorentina,1,0,2021-02-28 14:00:00,,BallRecovery
+408040,42,BlockedShot,0.7980000305175782,0.5690000152587891,0.04388739913702011,Lucas Martínez Quarta,h,9019,OpenPlay,2020,RightFoot,15668,Fiorentina,Roma,1,2,2021-03-03 19:45:00,,BallRecovery
+408933,27,Goal,0.9269999694824219,0.4929999923706055,0.3624579906463623,Lucas Martínez Quarta,h,9019,FromCorner,2020,Head,15683,Fiorentina,Parma Calcio 1913,3,3,2021-03-07 14:00:00,Erick Pulgar,Cross
+408941,89,ShotOnPost,0.875999984741211,0.5990000152587891,0.09713330119848251,Lucas Martínez Quarta,h,9019,OpenPlay,2020,RightFoot,15683,Fiorentina,Parma Calcio 1913,3,3,2021-03-07 14:00:00,Valentin Eysseric,Pass
+410044,12,MissedShots,0.95,0.500999984741211,0.5849499702453613,Lucas Martínez Quarta,a,9019,OpenPlay,2020,RightFoot,15687,Benevento,Fiorentina,1,4,2021-03-13 17:00:00,Lorenzo Venuti,Cross
+416290,94,SavedShot,0.8480000305175781,0.4370000076293945,0.10180100053548813,Lucas Martínez Quarta,a,9019,OpenPlay,2020,LeftFoot,15739,Verona,Fiorentina,1,2,2021-04-20 18:45:00,Dusan Vlahovic,Pass
+423864,87,MissedShots,0.909000015258789,0.5459999847412109,0.06904800236225128,Lucas Martínez Quarta,a,9019,FromCorner,2020,Head,15797,Crotone,Fiorentina,0,0,2021-05-22 18:45:00,Valentin Eysseric,Cross
+431165,48,MissedShots,0.9019999694824219,0.5459999847412109,0.019196700304746628,Lucas Martínez Quarta,a,9019,FromCorner,2021,Head,16787,Genoa,Fiorentina,1,2,2021-09-18 13:00:00,Cristiano Biraghi,Aerial
+435742,27,Goal,0.9,0.5379999923706055,0.09052480012178421,Lucas Martínez Quarta,h,9019,FromCorner,2021,RightFoot,16819,Fiorentina,Napoli,1,2,2021-10-03 16:00:00,Dusan Vlahovic,Pass
+438216,14,MissedShots,0.9,0.47900001525878905,0.249207004904747,Lucas Martínez Quarta,h,9019,SetPiece,2021,Head,16838,Fiorentina,Cagliari,3,0,2021-10-24 13:00:00,Cristiano Biraghi,Cross
+438225,39,SavedShot,0.845,0.4759999847412109,0.01260400004684925,Lucas Martínez Quarta,h,9019,FromCorner,2021,Head,16838,Fiorentina,Cagliari,3,0,2021-10-24 13:00:00,Cristiano Biraghi,Cross
+439125,22,MissedShots,0.93,0.4179999923706055,0.07274939864873886,Lucas Martínez Quarta,a,9019,FromCorner,2021,Head,16849,Lazio,Fiorentina,1,0,2021-10-27 18:45:00,Alfred Duncan,Cross
+439127,28,SavedShot,0.9169999694824219,0.6079999923706054,0.01351580023765564,Lucas Martínez Quarta,a,9019,FromCorner,2021,Head,16849,Lazio,Fiorentina,1,0,2021-10-27 18:45:00,Lorenzo Venuti,Aerial
+439134,61,MissedShots,0.955,0.40299999237060546,0.08836670219898224,Lucas Martínez Quarta,a,9019,SetPiece,2021,Head,16849,Lazio,Fiorentina,1,0,2021-10-27 18:45:00,Cristiano Biraghi,Cross
+443858,30,MissedShots,0.8969999694824219,0.5520000076293945,0.08070570230484009,Lucas Martínez Quarta,a,9019,FromCorner,2021,RightFoot,16887,Empoli,Fiorentina,2,1,2021-11-27 14:00:00,José Callejón,Pass
+447521,45,SavedShot,0.9019999694824219,0.62,0.03656600043177605,Lucas Martínez Quarta,h,9019,SetPiece,2021,Head,16916,Fiorentina,Salernitana,4,0,2021-12-11 14:00:00,José Callejón,Chipped
+449644,26,MissedShots,0.914000015258789,0.4570000076293945,0.05744810029864311,Lucas Martínez Quarta,h,9019,OpenPlay,2021,Head,16929,Fiorentina,Sassuolo,2,2,2021-12-19 11:30:00,,Aerial
+449646,30,MissedShots,0.769000015258789,0.40599998474121096,0.028620000928640366,Lucas Martínez Quarta,h,9019,OpenPlay,2021,RightFoot,16929,Fiorentina,Sassuolo,2,2,2021-12-19 11:30:00,,TakeOn
+449655,47,BlockedShot,0.909000015258789,0.5509999847412109,0.06438189744949341,Lucas Martínez Quarta,h,9019,FromCorner,2021,Head,16929,Fiorentina,Sassuolo,2,2,2021-12-19 11:30:00,José Callejón,Cross
+460071,77,MissedShots,0.91,0.5459999847412109,0.02431979961693287,Lucas Martínez Quarta,a,9019,FromCorner,2021,Head,17023,Sassuolo,Fiorentina,2,1,2022-02-26 19:45:00,Cristiano Biraghi,Aerial
+471029,31,MissedShots,0.9130000305175782,0.4759999847412109,0.03502529859542847,Lucas Martínez Quarta,h,9019,FromCorner,2021,Head,16948,Fiorentina,Udinese,0,4,2022-04-27 16:00:00,Cristiano Biraghi,Aerial
+471042,55,MissedShots,0.9540000152587891,0.5259999847412109,0.4585239887237549,Lucas Martínez Quarta,h,9019,FromCorner,2021,Head,16948,Fiorentina,Udinese,0,4,2022-04-27 16:00:00,Álvaro Odriozola,Cross
+472127,85,MissedShots,0.794000015258789,0.4859999847412109,0.04351929947733879,Lucas Martínez Quarta,a,9019,OpenPlay,2021,RightFoot,17100,AC Milan,Fiorentina,1,0,2022-05-01 13:00:00,Arthur Cabral,HeadPass
+482659,90,MissedShots,0.7369999694824219,0.645,0.01899459958076477,Lucas Martínez Quarta,a,9019,OpenPlay,2022,RightFoot,18597,Empoli,Fiorentina,0,0,2022-08-21 16:30:00,Nikola Milenkovic,Pass
+484969,32,SavedShot,0.909000015258789,0.534000015258789,0.07283899933099747,Lucas Martínez Quarta,a,9019,FromCorner,2022,Head,18617,Udinese,Fiorentina,1,0,2022-08-31 16:30:00,Rolando Mandragora,Cross
+484972,39,BlockedShot,0.909000015258789,0.46599998474121096,0.02670319937169552,Lucas Martínez Quarta,a,9019,FromCorner,2022,Head,18617,Udinese,Fiorentina,1,0,2022-08-31 16:30:00,Rolando Mandragora,Aerial
+487979,23,SavedShot,0.86,0.4490000152587891,0.026105200871825218,Lucas Martínez Quarta,a,9019,SetPiece,2022,Head,18633,Bologna,Fiorentina,2,1,2022-09-11 13:00:00,Cristiano Biraghi,Cross
+487987,53,Goal,0.9669999694824218,0.48700000762939455,0.5762400031089783,Lucas Martínez Quarta,a,9019,FromCorner,2022,RightFoot,18633,Bologna,Fiorentina,2,1,2022-09-11 13:00:00,Riccardo Saponara,Cross
+487993,74,MissedShots,0.9119999694824219,0.5579999923706055,0.024432199075818062,Lucas Martínez Quarta,a,9019,FromCorner,2022,Head,18633,Bologna,Fiorentina,2,1,2022-09-11 13:00:00,Sofyan Amrabat,Aerial
+489279,30,SavedShot,0.9080000305175782,0.37,0.011667300015687943,Lucas Martínez Quarta,h,9019,FromCorner,2022,Head,18644,Fiorentina,Verona,2,0,2022-09-18 13:00:00,Cristiano Biraghi,Aerial
+491010,75,BlockedShot,0.8930000305175781,0.5609999847412109,0.03684369847178459,Lucas Martínez Quarta,a,9019,FromCorner,2022,Head,18652,Atalanta,Fiorentina,1,0,2022-10-02 16:00:00,Cristiano Biraghi,Cross
+492624,45,SavedShot,0.9209999847412109,0.53,0.044187501072883606,Lucas Martínez Quarta,h,9019,FromCorner,2022,Head,18664,Fiorentina,Lazio,0,4,2022-10-10 18:45:00,Luka Jovic,Aerial
+494142,61,BlockedShot,0.9169999694824219,0.515,0.042427100241184235,Lucas Martínez Quarta,a,9019,FromCorner,2022,Head,18677,Lecce,Fiorentina,1,1,2022-10-17 18:45:00,Nikola Milenkovic,Aerial
+494144,70,SavedShot,0.7090000152587891,0.6759999847412109,0.011149900034070015,Lucas Martínez Quarta,a,9019,OpenPlay,2022,RightFoot,18677,Lecce,Fiorentina,1,1,2022-10-17 18:45:00,Cristiano Biraghi,Pass
+497238,37,MissedShots,0.895,0.41200000762939454,0.014160599559545517,Lucas Martínez Quarta,a,9019,SetPiece,2022,Head,18700,Spezia,Fiorentina,1,2,2022-10-30 14:00:00,,Rebound
+502400,50,MissedShots,0.8869999694824219,0.5170000076293946,0.04200569912791252,Lucas Martínez Quarta,h,9019,FromCorner,2022,Head,18733,Fiorentina,Monza,1,1,2023-01-04 17:30:00,Cristiano Biraghi,Cross
+502404,64,MissedShots,0.9169999694824219,0.5259999847412109,0.12224499881267548,Lucas Martínez Quarta,h,9019,SetPiece,2022,Head,18733,Fiorentina,Monza,1,1,2023-01-04 17:30:00,Cristiano Biraghi,Cross
+502411,80,SavedShot,0.955999984741211,0.47400001525878904,0.12951000034809113,Lucas Martínez Quarta,h,9019,OpenPlay,2022,Head,18733,Fiorentina,Monza,1,1,2023-01-04 17:30:00,Cristiano Biraghi,Pass
+502414,89,SavedShot,0.8580000305175781,0.5070000076293946,0.18943899869918823,Lucas Martínez Quarta,h,9019,OpenPlay,2022,Head,18733,Fiorentina,Monza,1,1,2023-01-04 17:30:00,Cristiano Biraghi,Chipped
+507827,92,BlockedShot,0.9,0.7,0.03501550108194351,Lucas Martínez Quarta,h,9019,SetPiece,2022,RightFoot,18783,Fiorentina,Bologna,1,2,2023-02-05 17:00:00,Sofyan Amrabat,Pass
+510238,49,BlockedShot,0.9319999694824219,0.49,0.061647601425647736,Lucas Martínez Quarta,h,9019,FromCorner,2022,Head,18803,Fiorentina,Empoli,1,1,2023-02-19 14:00:00,Rolando Mandragora,Aerial
+510242,66,SavedShot,0.914000015258789,0.549000015258789,0.4455069899559021,Lucas Martínez Quarta,h,9019,SetPiece,2022,RightFoot,18803,Fiorentina,Empoli,1,1,2023-02-19 14:00:00,Nicolás González,HeadPass
+510254,92,MissedShots,0.9330000305175781,0.5540000152587891,0.05124710127711296,Lucas Martínez Quarta,h,9019,FromCorner,2022,Head,18803,Fiorentina,Empoli,1,1,2023-02-19 14:00:00,Jonathan Ikone,Aerial
+510256,95,MissedShots,0.870999984741211,0.46700000762939453,0.013109300285577774,Lucas Martínez Quarta,h,9019,FromCorner,2022,Head,18803,Fiorentina,Empoli,1,1,2023-02-19 14:00:00,Rolando Mandragora,Aerial
+514007,35,MissedShots,0.9259999847412109,0.5529999923706055,0.03854979947209358,Lucas Martínez Quarta,a,9019,FromCorner,2022,Head,18833,Cremonese,Fiorentina,0,2,2023-03-12 14:00:00,Cristiano Biraghi,Aerial
+516498,35,MissedShots,0.794000015258789,0.595999984741211,0.03413550183176994,Lucas Martínez Quarta,a,9019,OpenPlay,2022,LeftFoot,18855,Inter,Fiorentina,0,1,2023-04-01 16:00:00,,None
+517814,14,MissedShots,0.7090000152587891,0.620999984741211,0.013621300458908081,Lucas Martínez Quarta,h,9019,OpenPlay,2022,RightFoot,18863,Fiorentina,Spezia,1,1,2023-04-08 12:30:00,Cristiano Biraghi,Pass
+517821,54,SavedShot,0.9009999847412109,0.5209999847412109,0.07928819954395294,Lucas Martínez Quarta,h,9019,OpenPlay,2022,Head,18863,Fiorentina,Spezia,1,1,2023-04-08 12:30:00,Dodô,Cross
+517833,93,MissedShots,0.7090000152587891,0.515,0.014996900223195553,Lucas Martínez Quarta,h,9019,OpenPlay,2022,RightFoot,18863,Fiorentina,Spezia,1,1,2023-04-08 12:30:00,Josip Brekalo,Pass
+520396,1,MissedShots,0.9169999694824219,0.4520000076293945,0.04969630017876625,Lucas Martínez Quarta,h,9019,SetPiece,2022,Head,18874,Fiorentina,Atalanta,1,1,2023-04-17 18:45:00,Rolando Mandragora,Aerial
+530294,53,MissedShots,0.9109999847412109,0.4570000076293945,0.24825172126293182,Lucas Martínez Quarta,a,9019,FromCorner,2022,Head,18959,Sassuolo,Fiorentina,1,3,2023-06-02 18:30:00,Alfred Duncan,Cross
+538454,38,SavedShot,0.8859999847412109,0.6569999694824219,0.0713634118437767,Lucas Martínez Quarta,h,9019,OpenPlay,2023,LeftFoot,22341,Fiorentina,Atalanta,3,2,2023-09-17 16:00:00,Alfred Duncan,Pass
+538457,44,Goal,0.899000015258789,0.5120000076293946,0.09469743072986603,Lucas Martínez Quarta,h,9019,OpenPlay,2023,Head,22341,Fiorentina,Atalanta,3,2,2023-09-17 16:00:00,Alfred Duncan,Cross
+538464,65,BlockedShot,0.9080000305175782,0.4779999923706055,0.04759667441248894,Lucas Martínez Quarta,h,9019,SetPiece,2023,Head,22341,Fiorentina,Atalanta,3,2,2023-09-17 16:00:00,Dodô,Aerial
+539764,31,Goal,0.8780000305175781,0.4109999847412109,0.07196582853794098,Lucas Martínez Quarta,a,9019,OpenPlay,2023,RightFoot,22349,Udinese,Fiorentina,0,2,2023-09-24 13:00:00,Giacomo Bonaventura,Chipped
+543496,4,BlockedShot,0.9119999694824219,0.5179999923706055,0.09755431860685349,Lucas Martínez Quarta,a,9019,SetPiece,2023,RightFoot,22384,Napoli,Fiorentina,1,3,2023-10-08 18:45:00,Nikola Milenkovic,HeadPass
+543499,6,ShotOnPost,0.91,0.5209999847412109,0.10401882976293564,Lucas Martínez Quarta,a,9019,OpenPlay,2023,RightFoot,22384,Napoli,Fiorentina,1,3,2023-10-08 18:45:00,Giacomo Bonaventura,Cross
+545011,17,MissedShots,0.9069999694824219,0.524000015258789,0.09630683064460754,Lucas Martínez Quarta,h,9019,SetPiece,2023,RightFoot,22389,Fiorentina,Empoli,0,2,2023-10-23 18:45:00,M&#039;Bala Nzola,HeadPass
+547665,64,BlockedShot,0.8780000305175781,0.5540000152587891,0.09544038772583008,Lucas Martínez Quarta,h,9019,OpenPlay,2023,RightFoot,22408,Fiorentina,Juventus,0,1,2023-11-05 19:45:00,M&#039;Bala Nzola,Pass
+553770,58,BlockedShot,0.915,0.5640000152587891,0.03865960240364075,Lucas Martínez Quarta,a,9019,SetPiece,2023,Head,22453,Roma,Fiorentina,1,1,2023-12-10 19:45:00,Arthur,Aerial
+553773,65,Goal,0.9159999847412109,0.5470000076293945,0.11310344934463501,Lucas Martínez Quarta,a,9019,SetPiece,2023,Head,22453,Roma,Fiorentina,1,1,2023-12-10 19:45:00,Christian Kouamé,Cross
+553776,81,SavedShot,0.9119999694824219,0.49,0.03505329787731171,Lucas Martínez Quarta,a,9019,FromCorner,2023,Head,22453,Roma,Fiorentina,1,1,2023-12-10 19:45:00,Cristiano Biraghi,Aerial
+557639,96,BlockedShot,0.905,0.5109999847412109,0.03686084970831871,Lucas Martínez Quarta,a,9019,OpenPlay,2023,Head,22490,Sassuolo,Fiorentina,1,0,2024-01-06 19:45:00,Cristiano Biraghi,Aerial
+560411,17,MissedShots,0.9830000305175781,0.4109999847412109,0.05893395096063614,Lucas Martínez Quarta,h,9019,FromCorner,2023,LeftFoot,22522,Fiorentina,Inter,0,1,2024-01-28 19:45:00,Alfred Duncan,Cross
+562820,11,MissedShots,0.9540000152587891,0.519000015258789,0.09274543821811676,Lucas Martínez Quarta,h,9019,FromCorner,2023,Head,22537,Fiorentina,Frosinone,5,1,2024-02-11 11:30:00,,None
+562832,42,Goal,0.914000015258789,0.47400001525878904,0.08526691794395447,Lucas Martínez Quarta,h,9019,FromCorner,2023,Head,22537,Fiorentina,Frosinone,5,1,2024-02-11 11:30:00,Cristiano Biraghi,Cross
+564313,42,ShotOnPost,0.9540000152587891,0.4640000152587891,0.5100498199462891,Lucas Martínez Quarta,a,9019,SetPiece,2023,Head,22553,Empoli,Fiorentina,1,1,2024-02-18 14:00:00,Cristiano Biraghi,Cross
+571017,38,BlockedShot,0.9159999847412109,0.42700000762939455,0.08717332780361176,Lucas Martínez Quarta,h,9019,SetPiece,2023,RightFoot,22601,Fiorentina,AC Milan,1,2,2024-03-30 19:45:00,Nikola Milenkovic,HeadPass
+574528,18,MissedShots,0.860999984741211,0.4490000152587891,0.057656180113554,Lucas Martínez Quarta,h,9019,OpenPlay,2023,LeftFoot,22623,Fiorentina,Genoa,1,1,2024-04-15 16:30:00,Fabiano Parisi,Cross
+574545,74,BlockedShot,0.9459999847412109,0.43599998474121093,0.0751679539680481,Lucas Martínez Quarta,h,9019,OpenPlay,2023,Head,22623,Fiorentina,Genoa,1,1,2024-04-15 16:30:00,Nicolás González,Aerial
+574548,81,MissedShots,0.874000015258789,0.37599998474121094,0.016887623816728592,Lucas Martínez Quarta,h,9019,SetPiece,2023,Head,22623,Fiorentina,Genoa,1,1,2024-04-15 16:30:00,Rolando Mandragora,Cross
+577741,50,MissedShots,0.885,0.5790000152587891,0.07535098493099213,Lucas Martínez Quarta,h,9019,FromCorner,2023,LeftFoot,22643,Fiorentina,Sassuolo,5,1,2024-04-28 18:45:00,,None
+577744,53,Goal,0.9180000305175782,0.5559999847412109,0.08238561451435089,Lucas Martínez Quarta,h,9019,FromCorner,2023,Head,22643,Fiorentina,Sassuolo,5,1,2024-04-28 18:45:00,Arthur,Cross
+580863,46,MissedShots,0.9630000305175781,0.54,0.5493179559707642,Lucas Martínez Quarta,h,9019,OpenPlay,2023,Head,22656,Fiorentina,Monza,2,1,2024-05-13 18:45:00,Antonin Barak,Cross
+582992,81,MissedShots,0.9230000305175782,0.4329999923706055,0.026131276041269302,Lucas Martínez Quarta,a,9019,FromCorner,2023,Head,22676,Cagliari,Fiorentina,2,3,2024-05-24 16:00:00,Cristiano Biraghi,Aerial
+584954,9,MissedShots,0.7519999694824219,0.3729999923706055,0.018672769889235497,Lucas Martínez Quarta,a,9019,OpenPlay,2024,RightFoot,27363,Parma Calcio 1913,Fiorentina,1,1,2024-08-17 16:30:00,Christian Kouamé,BallTouch
+590229,85,MissedShots,0.9480000305175781,0.515,0.129531592130661,Lucas Martínez Quarta,h,9019,FromCorner,2024,Head,27388,Fiorentina,Monza,2,2,2024-09-01 16:30:00,Cristiano Biraghi,Cross
+591380,14,Goal,0.9669999694824218,0.5059999847412109,0.7608193755149841,Lucas Martínez Quarta,a,9019,FromCorner,2024,LeftFoot,27393,Atalanta,Fiorentina,3,2,2024-09-15 13:00:00,,Rebound

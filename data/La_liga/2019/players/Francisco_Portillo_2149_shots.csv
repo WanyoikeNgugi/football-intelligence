@@ -1,0 +1,43 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+84132,72,MissedShots,0.76,0.5370000076293945,0.01719590090215206,Francisco Portillo,h,2149,SetPiece,2015,RightFoot,1407,Real Betis,Villarreal,1,1,2015-08-24 00:30:00,,None
+86362,29,MissedShots,0.8580000305175781,0.445,0.07509879767894745,Francisco Portillo,h,2149,SetPiece,2015,RightFoot,1473,Real Betis,Espanyol,1,3,2015-10-18 00:05:00,,Rebound
+87319,87,MissedShots,0.779000015258789,0.5479999923706055,0.02318890020251274,Francisco Portillo,a,2149,SetPiece,2015,RightFoot,1580,Getafe,Real Betis,1,0,2016-01-09 21:15:00,,None
+89474,9,BlockedShot,0.8159999847412109,0.47200000762939454,0.04223160073161125,Francisco Portillo,a,2149,FromCorner,2015,RightFoot,1612,Real Sociedad,Real Betis,2,1,2016-01-31 01:05:00,,None
+90625,83,MissedShots,0.855,0.625,0.08315949887037277,Francisco Portillo,a,2149,OpenPlay,2015,RightFoot,1667,Espanyol,Real Betis,0,3,2016-03-03 23:30:00,Joaquín,HeadPass
+170934,65,SavedShot,0.925,0.66,0.10267399996519089,Francisco Portillo,a,2149,OpenPlay,2017,RightFoot,7962,Levante,Getafe,1,1,2017-10-21 12:00:00,Jorge Molina,TakeOn
+171979,33,Goal,0.8469999694824218,0.33099998474121095,0.061364300549030304,Francisco Portillo,a,2149,OpenPlay,2017,RightFoot,7980,Real Betis,Getafe,2,2,2017-11-03 20:00:00,,None
+172331,61,SavedShot,0.884000015258789,0.4809999847412109,0.4684720039367676,Francisco Portillo,h,2149,OpenPlay,2017,RightFoot,7990,Getafe,Alaves,4,1,2017-11-18 12:00:00,Jorge Molina,Pass
+171703,8,BlockedShot,0.7909999847412109,0.3220000076293945,0.0192841999232769,Francisco Portillo,h,2149,FromCorner,2017,RightFoot,8009,Getafe,Valencia,1,0,2017-12-03 15:15:00,,None
+171710,32,BlockedShot,0.7430000305175781,0.5540000152587891,0.013493799604475498,Francisco Portillo,h,2149,SetPiece,2017,RightFoot,8009,Getafe,Valencia,1,0,2017-12-03 15:15:00,,None
+187176,25,BlockedShot,0.715,0.15,0.007451309822499752,Francisco Portillo,h,2149,OpenPlay,2017,RightFoot,8068,Getafe,Malaga,1,0,2018-01-12 20:00:00,,None
+188447,34,MissedShots,0.7930000305175782,0.385,0.02328290045261383,Francisco Portillo,h,2149,SetPiece,2017,RightFoot,8073,Getafe,Athletic Club,2,2,2018-01-19 20:00:00,,None
+188459,87,BlockedShot,0.7469999694824219,0.43599998474121093,0.017382899299263954,Francisco Portillo,h,2149,FromCorner,2017,RightFoot,8073,Getafe,Athletic Club,2,2,2018-01-19 20:00:00,,None
+195257,40,MissedShots,0.9030000305175782,0.32799999237060545,0.035815898329019547,Francisco Portillo,h,2149,FromCorner,2017,RightFoot,8094,Getafe,Leganes,0,0,2018-02-04 11:00:00,Vitorino Antunes,Cross
+197056,79,BlockedShot,0.8619999694824219,0.5770000076293945,0.11955700069665909,Francisco Portillo,h,2149,OpenPlay,2017,RightFoot,8113,Getafe,Celta Vigo,3,0,2018-02-19 20:00:00,Amath Diedhiou,Pass
+199220,64,Goal,0.885,0.5,0.7432780265808105,Francisco Portillo,a,2149,Penalty,2017,RightFoot,8142,Real Madrid,Getafe,3,1,2018-03-03 19:45:00,,Standard
+201683,36,BlockedShot,0.8680000305175781,0.3039999961853027,0.03886549919843674,Francisco Portillo,a,2149,OpenPlay,2017,RightFoot,8161,Real Sociedad,Getafe,1,2,2018-03-17 17:30:00,Jorge Molina,Pass
+201689,65,SavedShot,0.965,0.41200000762939454,0.10989999771118164,Francisco Portillo,a,2149,OpenPlay,2017,RightFoot,8161,Real Sociedad,Getafe,1,2,2018-03-17 17:30:00,Faycal Fajr,Chipped
+204615,64,SavedShot,0.885,0.5,0.7432780265808105,Francisco Portillo,h,2149,Penalty,2017,RightFoot,8170,Getafe,Real Betis,0,1,2018-04-02 20:00:00,,Standard
+204616,64,SavedShot,0.9490000152587891,0.5129999923706055,0.6371340155601501,Francisco Portillo,h,2149,SetPiece,2017,RightFoot,8170,Getafe,Real Betis,0,1,2018-04-02 20:00:00,,Rebound
+209309,31,BlockedShot,0.8590000152587891,0.580999984741211,0.0874515026807785,Francisco Portillo,h,2149,OpenPlay,2017,RightFoot,8189,Getafe,Espanyol,1,0,2018-04-15 16:30:00,Amath Diedhiou,Pass
+209315,44,MissedShots,0.7919999694824219,0.40599998474121096,0.026212500408291817,Francisco Portillo,h,2149,FromCorner,2017,RightFoot,8189,Getafe,Espanyol,1,0,2018-04-15 16:30:00,,None
+209732,67,BlockedShot,0.919000015258789,0.37400001525878906,0.09411049634218216,Francisco Portillo,a,2149,OpenPlay,2017,RightFoot,8200,Valencia,Getafe,1,2,2018-04-18 17:30:00,Leandro Cabrera,Cross
+214092,76,MissedShots,0.9569999694824218,0.5420000076293945,0.11060000211000443,Francisco Portillo,a,2149,OpenPlay,2017,RightFoot,8230,Las Palmas,Getafe,0,1,2018-05-06 17:30:00,Vitorino Antunes,Cross
+214753,66,SavedShot,0.9269999694824219,0.30700000762939456,0.03287519887089729,Francisco Portillo,h,2149,OpenPlay,2017,RightFoot,8241,Getafe,Atletico Madrid,0,1,2018-05-12 17:30:00,Damián Suárez,Cross
+224490,43,SavedShot,0.97,0.5690000152587891,0.6121960282325745,Francisco Portillo,a,2149,OpenPlay,2018,RightFoot,9995,Sevilla,Getafe,0,2,2018-09-16 18:45:00,Jorge Molina,Pass
+259381,91,MissedShots,0.8130000305175781,0.455,0.04240569844841957,Francisco Portillo,a,2149,SetPiece,2018,LeftFoot,10085,Athletic Club,Getafe,1,1,2018-11-25 11:00:00,,None
+280167,11,SavedShot,0.9419999694824219,0.4640000152587891,0.46484899520874023,Francisco Portillo,a,2149,OpenPlay,2018,RightFoot,10137,Villarreal,Getafe,1,2,2019-01-12 19:45:00,Dimitri Foulquier,Cross
+280318,13,BlockedShot,0.914000015258789,0.615,0.10615299642086029,Francisco Portillo,h,2149,OpenPlay,2018,LeftFoot,10151,Getafe,Alaves,4,0,2019-01-18 20:00:00,Leandro Cabrera,Pass
+281946,37,SavedShot,0.9830000305175781,0.32599998474121095,0.08156809955835342,Francisco Portillo,a,2149,OpenPlay,2018,RightFoot,10215,Real Betis,Getafe,1,2,2019-03-03 15:15:00,Damián Suárez,TakeOn
+281951,68,SavedShot,0.845,0.7319999694824219,0.029167400673031807,Francisco Portillo,a,2149,OpenPlay,2018,RightFoot,10215,Real Betis,Getafe,1,2,2019-03-03 15:15:00,,None
+302501,12,Goal,0.905,0.5629999923706055,0.2999269962310791,Francisco Portillo,h,2149,OpenPlay,2018,LeftFoot,10333,Getafe,Villarreal,2,2,2019-05-18 14:15:00,Jorge Molina,TakeOn
+302503,27,BlockedShot,0.795,0.5590000152587891,0.03303080052137375,Francisco Portillo,h,2149,SetPiece,2018,RightFoot,10333,Getafe,Villarreal,2,2,2019-05-18 14:15:00,Jorge Molina,Pass
+302512,62,MissedShots,0.7869999694824219,0.36700000762939455,0.02182910032570362,Francisco Portillo,h,2149,FromCorner,2018,LeftFoot,10333,Getafe,Villarreal,2,2,2019-05-18 14:15:00,,None
+312892,82,MissedShots,0.8059999847412109,0.36400001525878906,0.03221520036458969,Francisco Portillo,h,2149,OpenPlay,2019,RightFoot,12038,Getafe,Athletic Club,1,1,2019-08-24 20:00:00,Jaime Mata,Pass
+316101,87,BlockedShot,0.86,0.46099998474121096,0.0978756994009018,Francisco Portillo,h,2149,OpenPlay,2019,RightFoot,12044,Getafe,Alaves,1,1,2019-08-31 18:00:00,Ángel,Pass
+330003,13,SavedShot,0.8380000305175781,0.40200000762939453,0.05706949904561043,Francisco Portillo,a,2149,OpenPlay,2019,RightFoot,12133,Celta Vigo,Getafe,0,1,2019-11-03 17:30:00,Nyom,Pass
+502860,80,MissedShots,0.9019999694824219,0.5720000076293945,0.06971420347690582,Francisco Portillo,h,2149,OpenPlay,2022,LeftFoot,19116,Almeria,Real Sociedad,0,2,2023-01-08 13:00:00,Sergio Akieme,Cross
+505277,74,Goal,0.8530000305175781,0.47400001525878904,0.0840872973203659,Francisco Portillo,a,2149,OpenPlay,2022,RightFoot,19140,Valencia,Almeria,2,2,2023-01-23 20:00:00,El Bilal Touré,Pass
+505644,76,Goal,0.935,0.34799999237060547,0.2781040072441101,Francisco Portillo,h,2149,OpenPlay,2022,RightFoot,19144,Almeria,Espanyol,3,1,2023-01-27 20:00:00,Gonzalo Melero,Pass
+514172,67,BlockedShot,0.78,0.325,0.018254999071359634,Francisco Portillo,a,2149,OpenPlay,2022,RightFoot,19211,Sevilla,Almeria,2,1,2023-03-12 15:15:00,,None
+522878,37,MissedShots,0.7680000305175781,0.6569999694824219,0.020046701654791832,Francisco Portillo,a,2149,OpenPlay,2022,RightFoot,19280,Real Madrid,Almeria,4,2,2023-04-29 16:30:00,Sergio Akieme,Pass

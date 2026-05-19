@@ -1,0 +1,13 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+365261,46,MissedShots,0.9059999847412109,0.5209999847412109,0.49399301409721375,Mateu Morey,a,8070,OpenPlay,2019,LeftFoot,12692,RasenBallsport Leipzig,Borussia Dortmund,0,2,2020-06-20 13:30:00,Erling Haaland,Pass
+365267,68,SavedShot,0.7859999847412109,0.29100000381469726,0.026069900020956993,Mateu Morey,a,8070,OpenPlay,2019,RightFoot,12692,RasenBallsport Leipzig,Borussia Dortmund,0,2,2020-06-20 13:30:00,Raphael Guerreiro,Pass
+391605,47,BlockedShot,0.85,0.4279999923706055,0.08239959925413132,Mateu Morey,h,8070,OpenPlay,2020,RightFoot,15230,Borussia Dortmund,VfB Stuttgart,1,5,2020-12-12 14:30:00,Giovanni Reyna,Pass
+392654,54,MissedShots,0.695,0.46299999237060546,0.009045779705047607,Mateu Morey,a,8070,SetPiece,2020,RightFoot,15242,Werder Bremen,Borussia Dortmund,1,2,2020-12-15 19:30:00,,None
+580103,26,SavedShot,0.769000015258789,0.6630000305175782,0.01718301512300968,Mateu Morey,a,8070,OpenPlay,2023,RightFoot,23356,Mainz 05,Borussia Dortmund,3,0,2024-05-11 16:30:00,,BallRecovery
+615098,0,BlockedShot,0.795,0.49,0.045338038355112076,Mateu Morey,a,8070,OpenPlay,2024,LeftFoot,27192,Atletico Madrid,Mallorca,2,0,2025-02-01 17:30:00,Cyle Larin,Pass
+632437,88,BlockedShot,0.8159999847412109,0.5170000076293946,0.04960266128182411,Mateu Morey,a,8070,OpenPlay,2024,LeftFoot,27312,Girona,Mallorca,1,0,2025-05-05 19:00:00,Marc Domenech,None
+634091,68,SavedShot,0.865999984741211,0.3970000076293945,0.34648260474205017,Mateu Morey,a,8070,OpenPlay,2024,RightFoot,27339,Real Madrid,Mallorca,2,1,2025-05-14 19:30:00,,None
+638891,86,Goal,0.8680000305175781,0.4490000152587891,0.06736478209495544,Mateu Morey,h,8070,OpenPlay,2025,RightFoot,29169,Mallorca,Celta Vigo,1,1,2025-08-23 15:00:00,,None
+642688,12,BlockedShot,0.825,0.44,0.06291744112968445,Mateu Morey,a,8070,OpenPlay,2025,LeftFoot,29198,Espanyol,Mallorca,3,2,2025-09-15 19:00:00,,BallTouch
+642693,32,MissedShots,0.8380000305175781,0.4,0.02066667377948761,Mateu Morey,a,8070,OpenPlay,2025,RightFoot,29198,Espanyol,Mallorca,3,2,2025-09-15 19:00:00,,Aerial
+644971,83,BlockedShot,0.9159999847412109,0.27399999618530274,0.03276420384645462,Mateu Morey,h,8070,FromCorner,2025,RightFoot,29224,Mallorca,Alaves,1,0,2025-09-27 16:30:00,,None

@@ -1,0 +1,112 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+429245,85,MissedShots,0.8980000305175782,0.5690000152587891,0.043913599103689194,Kevin Behrens,h,9712,FromCorner,2021,Head,17541,Union Berlin,Borussia M.Gladbach,2,1,2021-08-29 13:30:00,Christopher Trimmel,Cross
+432017,87,MissedShots,0.9159999847412109,0.5659999847412109,0.26684701442718506,Kevin Behrens,a,9712,FromCorner,2021,Head,17559,Borussia Dortmund,Union Berlin,4,2,2021-09-19 15:30:00,Niko Gießelmann,Cross
+433285,87,Goal,0.955,0.6190000152587891,0.11741200089454651,Kevin Behrens,h,9712,OpenPlay,2021,LeftFoot,17562,Union Berlin,Arminia Bielefeld,1,0,2021-09-25 13:30:00,Sheraldo Becker,LayOff
+433286,88,ShotOnPost,0.855,0.27299999237060546,0.06150529906153679,Kevin Behrens,h,9712,OpenPlay,2021,RightFoot,17562,Union Berlin,Arminia Bielefeld,1,0,2021-09-25 13:30:00,Sheraldo Becker,Pass
+445860,82,SavedShot,0.9209999847412109,0.4640000152587891,0.3521699905395508,Kevin Behrens,h,9712,OpenPlay,2021,Head,17639,Union Berlin,RasenBallsport Leipzig,2,1,2021-12-03 19:30:00,Julian Ryerson,Cross
+448376,57,SavedShot,0.935,0.495,0.36473599076271057,Kevin Behrens,a,9712,OpenPlay,2021,Head,17642,Greuther Fuerth,Union Berlin,1,0,2021-12-12 14:30:00,Timo Baumgartl,Aerial
+449055,77,BlockedShot,0.8190000152587891,0.5420000076293945,0.06556300073862076,Kevin Behrens,h,9712,OpenPlay,2021,RightFoot,17656,Union Berlin,Freiburg,0,0,2021-12-15 19:30:00,Rani Khedira,Pass
+452163,44,SavedShot,0.925,0.49400001525878906,0.3220269978046417,Kevin Behrens,a,9712,FromCorner,2021,Head,17674,Bayer Leverkusen,Union Berlin,2,2,2022-01-08 14:30:00,,Rebound
+455775,90,SavedShot,0.9469999694824218,0.48900001525878906,0.5641149878501892,Kevin Behrens,a,9712,SetPiece,2021,RightFoot,17699,Augsburg,Union Berlin,2,0,2022-02-05 14:30:00,Bastian Oczipka,Cross
+457605,86,MissedShots,0.885,0.4759999847412109,0.05888979882001877,Kevin Behrens,h,9712,OpenPlay,2021,Head,17710,Union Berlin,Borussia Dortmund,0,3,2022-02-13 14:30:00,Julian Ryerson,Cross
+458224,90,SavedShot,0.9080000305175782,0.4370000076293945,0.07230470329523087,Kevin Behrens,a,9712,OpenPlay,2021,Head,17715,Arminia Bielefeld,Union Berlin,1,0,2022-02-19 14:30:00,Julian Ryerson,Cross
+469855,88,Goal,0.8859999847412109,0.44099998474121094,0.3918060064315796,Kevin Behrens,a,9712,OpenPlay,2021,LeftFoot,17793,RasenBallsport Leipzig,Union Berlin,1,2,2022-04-23 13:30:00,Sven Michel,Pass
+473086,84,MissedShots,0.8930000305175781,0.34299999237060547,0.201992005109787,Kevin Behrens,a,9712,OpenPlay,2021,RightFoot,17809,Freiburg,Union Berlin,1,4,2022-05-07 13:30:00,Sven Michel,TakeOn
+473089,92,MissedShots,0.879000015258789,0.5309999847412109,0.056369598954916,Kevin Behrens,a,9712,OpenPlay,2021,Head,17809,Freiburg,Union Berlin,1,4,2022-05-07 13:30:00,Christopher Trimmel,Cross
+475656,85,MissedShots,0.9690000152587891,0.3609999847412109,0.289683997631073,Kevin Behrens,h,9712,OpenPlay,2021,RightFoot,17818,Union Berlin,Bochum,3,2,2022-05-14 13:30:00,Christopher Trimmel,Throughball
+475660,92,BlockedShot,0.855999984741211,0.3940000152587891,0.127020001411438,Kevin Behrens,h,9712,OpenPlay,2021,LeftFoot,17818,Union Berlin,Bochum,3,2,2022-05-14 13:30:00,,TakeOn
+480917,88,SavedShot,0.8059999847412109,0.5359999847412109,0.047747399657964706,Kevin Behrens,a,9712,OpenPlay,2022,RightFoot,19358,Mainz 05,Union Berlin,0,0,2022-08-14 13:30:00,Rani Khedira,Pass
+493830,85,MissedShots,0.925,0.5309999847412109,0.10836199671030045,Kevin Behrens,h,9712,FromCorner,2022,Head,19425,Union Berlin,Borussia Dortmund,2,0,2022-10-16 15:30:00,Christopher Trimmel,Cross
+497276,78,Goal,0.9480000305175781,0.42700000762939455,0.29604899883270264,Kevin Behrens,h,9712,OpenPlay,2022,Head,19443,Union Berlin,Borussia M.Gladbach,2,1,2022-10-30 14:30:00,Diogo Leite,Aerial
+497278,81,MissedShots,0.905,0.43900001525878907,0.09273199737071991,Kevin Behrens,h,9712,FromCorner,2022,RightFoot,19443,Union Berlin,Borussia M.Gladbach,2,1,2022-10-30 14:30:00,,None
+499475,21,Goal,0.9440000152587891,0.51,0.5379819869995117,Kevin Behrens,h,9712,SetPiece,2022,Head,19461,Union Berlin,Augsburg,2,2,2022-11-09 19:30:00,Niko Gießelmann,Cross
+499484,56,MissedShots,0.8830000305175781,0.44599998474121094,0.01429080031812191,Kevin Behrens,h,9712,SetPiece,2022,Head,19461,Union Berlin,Augsburg,2,2,2022-11-09 19:30:00,Niko Gießelmann,Aerial
+499485,67,ShotOnPost,0.9269999694824219,0.5,0.5384500026702881,Kevin Behrens,h,9712,OpenPlay,2022,Head,19461,Union Berlin,Augsburg,2,2,2022-11-09 19:30:00,Paul Seguin,Cross
+499487,77,SavedShot,0.89,0.44799999237060545,0.06538829952478409,Kevin Behrens,h,9712,OpenPlay,2022,Head,19461,Union Berlin,Augsburg,2,2,2022-11-09 19:30:00,Julian Ryerson,Cross
+504577,74,MissedShots,0.865999984741211,0.4,0.021097300574183464,Kevin Behrens,h,9712,OpenPlay,2022,Head,19479,Union Berlin,Hoffenheim,3,1,2023-01-21 14:30:00,Christopher Trimmel,Cross
+505519,45,Goal,0.9359999847412109,0.45599998474121095,0.11579299718141556,Kevin Behrens,a,9712,FromCorner,2022,Head,19494,Werder Bremen,Union Berlin,1,2,2023-01-25 19:30:00,Josip Juranovic,Cross
+507004,31,Goal,0.9680000305175781,0.5159999847412109,0.6313589811325073,Kevin Behrens,h,9712,OpenPlay,2022,RightFoot,19505,Union Berlin,Mainz 05,2,1,2023-02-04 14:30:00,Paul Seguin,Cross
+508626,47,SavedShot,0.8019999694824219,0.3060000038146973,0.022129999473690987,Kevin Behrens,a,9712,OpenPlay,2022,RightFoot,19514,RasenBallsport Leipzig,Union Berlin,1,2,2023-02-11 17:30:00,,BallRecovery
+512062,3,SavedShot,0.8219999694824218,0.415,0.05713700130581856,Kevin Behrens,h,9712,OpenPlay,2022,RightFoot,19542,Union Berlin,FC Cologne,0,0,2023-03-04 14:30:00,,BallRecovery
+512066,38,BlockedShot,0.92,0.4109999847412109,0.059251900762319565,Kevin Behrens,h,9712,OpenPlay,2022,OtherBodyPart,19542,Union Berlin,FC Cologne,0,0,2023-03-04 14:30:00,Sheraldo Becker,Aerial
+515670,74,Goal,0.94,0.6859999847412109,0.07578969746828079,Kevin Behrens,h,9712,OpenPlay,2022,LeftFoot,19560,Union Berlin,Eintracht Frankfurt,2,0,2023-03-19 14:30:00,,TakeOn
+516241,17,MissedShots,0.88,0.46,0.021376999095082283,Kevin Behrens,h,9712,OpenPlay,2022,Head,19567,Union Berlin,VfB Stuttgart,3,0,2023-04-01 13:30:00,Jérôme Roussillon,Aerial
+516243,30,MissedShots,0.925,0.4179999923706055,0.021487999707460403,Kevin Behrens,h,9712,FromCorner,2022,Head,19567,Union Berlin,VfB Stuttgart,3,0,2023-04-01 13:30:00,Christopher Trimmel,Aerial
+516258,64,Goal,0.9590000152587891,0.54,0.6224430203437805,Kevin Behrens,h,9712,OpenPlay,2022,LeftFoot,19567,Union Berlin,VfB Stuttgart,3,0,2023-04-01 13:30:00,,None
+517966,60,Goal,0.8690000152587891,0.46,0.39170798659324646,Kevin Behrens,a,9712,OpenPlay,2022,RightFoot,19576,Borussia Dortmund,Union Berlin,2,1,2023-04-08 13:30:00,Sheraldo Becker,Pass
+520205,19,MissedShots,0.925,0.48400001525878905,0.0682206004858017,Kevin Behrens,h,9712,OpenPlay,2022,Head,19587,Union Berlin,Bochum,1,1,2023-04-16 15:30:00,Josip Juranovic,Aerial
+520214,56,MissedShots,0.925,0.4179999923706055,0.06524299830198288,Kevin Behrens,h,9712,FromCorner,2022,Head,19587,Union Berlin,Bochum,1,1,2023-04-16 15:30:00,Josip Juranovic,Cross
+520220,73,MissedShots,0.904000015258789,0.38299999237060545,0.021619899198412895,Kevin Behrens,h,9712,FromCorner,2022,Head,19587,Union Berlin,Bochum,1,1,2023-04-16 15:30:00,Josip Juranovic,Cross
+520222,78,MissedShots,0.8009999847412109,0.5070000076293946,0.05143100023269653,Kevin Behrens,h,9712,OpenPlay,2022,LeftFoot,19587,Union Berlin,Bochum,1,1,2023-04-16 15:30:00,Sheraldo Becker,Pass
+520225,84,MissedShots,0.9540000152587891,0.49400001525878906,0.5798140168190002,Kevin Behrens,h,9712,OpenPlay,2022,Head,19587,Union Berlin,Bochum,1,1,2023-04-16 15:30:00,Sheraldo Becker,Chipped
+521720,21,BlockedShot,0.905,0.3220000076293945,0.09114153683185577,Kevin Behrens,a,9712,OpenPlay,2022,RightFoot,19599,Borussia M.Gladbach,Union Berlin,0,1,2023-04-23 17:30:00,Sheraldo Becker,Pass
+521728,53,MissedShots,0.9159999847412109,0.5429999923706055,0.045558441430330276,Kevin Behrens,a,9712,OpenPlay,2022,Head,19599,Borussia M.Gladbach,Union Berlin,0,1,2023-04-23 17:30:00,Josip Juranovic,Rebound
+521729,54,BlockedShot,0.914000015258789,0.6270000076293946,0.12221735715866089,Kevin Behrens,a,9712,OpenPlay,2022,LeftFoot,19599,Borussia M.Gladbach,Union Berlin,0,1,2023-04-23 17:30:00,,TakeOn
+524557,15,MissedShots,0.8930000305175781,0.4540000152587891,0.08130287379026413,Kevin Behrens,a,9712,OpenPlay,2022,Head,19618,Augsburg,Union Berlin,1,0,2023-05-06 13:30:00,Josip Juranovic,Cross
+524558,21,SavedShot,0.875999984741211,0.5690000152587891,0.010405405424535275,Kevin Behrens,a,9712,SetPiece,2022,Head,19618,Augsburg,Union Berlin,1,0,2023-05-06 13:30:00,Josip Juranovic,Aerial
+524567,56,SavedShot,0.875999984741211,0.415,0.06969701498746872,Kevin Behrens,a,9712,OpenPlay,2022,RightFoot,19618,Augsburg,Union Berlin,1,0,2023-05-06 13:30:00,Josip Juranovic,HeadPass
+525936,4,Goal,0.860999984741211,0.54,0.15511871874332428,Kevin Behrens,h,9712,OpenPlay,2022,LeftFoot,19624,Union Berlin,Freiburg,4,2,2023-05-13 13:30:00,Sheraldo Becker,TakeOn
+527390,19,MissedShots,0.91,0.3659999847412109,0.029106078669428825,Kevin Behrens,a,9712,SetPiece,2022,Head,19634,Hoffenheim,Union Berlin,4,2,2023-05-20 13:30:00,Christopher Trimmel,Cross
+527392,27,MissedShots,0.9,0.61,0.023114582523703575,Kevin Behrens,a,9712,FromCorner,2022,Head,19634,Hoffenheim,Union Berlin,4,2,2023-05-20 13:30:00,Christopher Trimmel,Cross
+527412,91,MissedShots,0.94,0.549000015258789,0.09382466971874237,Kevin Behrens,a,9712,OpenPlay,2022,Head,19634,Hoffenheim,Union Berlin,4,2,2023-05-20 13:30:00,Jérôme Roussillon,Aerial
+529111,36,MissedShots,0.9259999847412109,0.4540000152587891,0.10269808769226074,Kevin Behrens,h,9712,FromCorner,2022,Head,19641,Union Berlin,Werder Bremen,1,0,2023-05-27 13:30:00,Christopher Trimmel,Cross
+533776,0,Goal,0.9309999847412109,0.5670000076293945,0.3349338173866272,Kevin Behrens,h,9712,OpenPlay,2023,Head,23072,Union Berlin,Mainz 05,4,1,2023-08-20 13:30:00,Jérôme Roussillon,Cross
+533778,8,Goal,0.92,0.49599998474121093,0.07491189241409302,Kevin Behrens,h,9712,OpenPlay,2023,Head,23072,Union Berlin,Mainz 05,4,1,2023-08-20 13:30:00,Aissa Laidouni,Aerial
+533789,51,MissedShots,0.9080000305175782,0.48700000762939455,0.03211553394794464,Kevin Behrens,h,9712,FromCorner,2023,Head,23072,Union Berlin,Mainz 05,4,1,2023-08-20 13:30:00,Christopher Trimmel,Aerial
+533793,69,Goal,0.9519999694824218,0.4759999847412109,0.6144255995750427,Kevin Behrens,h,9712,OpenPlay,2023,Head,23072,Union Berlin,Mainz 05,4,1,2023-08-20 13:30:00,Sheraldo Becker,Aerial
+534485,17,MissedShots,0.9380000305175781,0.5129999923706055,0.42042097449302673,Kevin Behrens,a,9712,FromCorner,2023,Head,23079,Darmstadt,Union Berlin,1,4,2023-08-26 13:30:00,Josip Juranovic,Cross
+534489,32,BlockedShot,0.91,0.5359999847412109,0.05447413772344589,Kevin Behrens,a,9712,OpenPlay,2023,Head,23079,Darmstadt,Union Berlin,1,4,2023-08-26 13:30:00,Robin Gosens,Aerial
+534492,38,Goal,0.9730000305175781,0.5279999923706055,0.5644329190254211,Kevin Behrens,a,9712,FromCorner,2023,Head,23079,Darmstadt,Union Berlin,1,4,2023-08-26 13:30:00,,None
+537506,49,MissedShots,0.92,0.3940000152587891,0.049206048250198364,Kevin Behrens,a,9712,OpenPlay,2023,Head,23095,Wolfsburg,Union Berlin,2,1,2023-09-16 13:30:00,Christopher Trimmel,Cross
+537508,61,MissedShots,0.879000015258789,0.41,0.031219620257616043,Kevin Behrens,a,9712,OpenPlay,2023,OtherBodyPart,23095,Wolfsburg,Union Berlin,2,1,2023-09-16 13:30:00,Christopher Trimmel,Cross
+537514,79,MissedShots,0.9109999847412109,0.5179999923706055,0.035574160516262054,Kevin Behrens,a,9712,FromCorner,2023,Head,23095,Wolfsburg,Union Berlin,2,1,2023-09-16 13:30:00,Josip Juranovic,Aerial
+537518,96,MissedShots,0.950999984741211,0.5729999923706055,0.0490560308098793,Kevin Behrens,a,9712,FromCorner,2023,Head,23095,Wolfsburg,Union Berlin,2,1,2023-09-16 13:30:00,,BallTouch
+538954,26,MissedShots,0.919000015258789,0.4809999847412109,0.07438448816537857,Kevin Behrens,h,9712,OpenPlay,2023,RightFoot,23106,Union Berlin,Hoffenheim,0,2,2023-09-23 13:30:00,,Aerial
+538963,58,MissedShots,0.7430000305175781,0.4540000152587891,0.19763095676898956,Kevin Behrens,h,9712,OpenPlay,2023,LeftFoot,23106,Union Berlin,Hoffenheim,0,2,2023-09-23 13:30:00,,None
+538964,60,SavedShot,0.884000015258789,0.36700000762939455,0.05337425321340561,Kevin Behrens,h,9712,OpenPlay,2023,RightFoot,23106,Union Berlin,Hoffenheim,0,2,2023-09-23 13:30:00,,None
+538977,86,MissedShots,0.909000015258789,0.48900001525878906,0.033764149993658066,Kevin Behrens,h,9712,FromCorner,2023,Head,23106,Union Berlin,Hoffenheim,0,2,2023-09-23 13:30:00,Josip Juranovic,Aerial
+541031,3,MissedShots,0.9319999694824219,0.4640000152587891,0.11063521355390549,Kevin Behrens,a,9712,OpenPlay,2023,RightFoot,23112,FC Heidenheim,Union Berlin,1,0,2023-09-30 13:30:00,Sheraldo Becker,Cross
+541040,21,MissedShots,0.9290000152587891,0.66,0.06018884479999542,Kevin Behrens,a,9712,SetPiece,2023,LeftFoot,23112,FC Heidenheim,Union Berlin,1,0,2023-09-30 13:30:00,,None
+541042,33,SavedShot,0.8009999847412109,0.5570000076293945,0.041583430022001266,Kevin Behrens,a,9712,OpenPlay,2023,RightFoot,23112,FC Heidenheim,Union Berlin,1,0,2023-09-30 13:30:00,Lucas Tousart,Pass
+541046,43,MissedShots,0.925,0.5029999923706054,0.056958939880132675,Kevin Behrens,a,9712,FromCorner,2023,Head,23112,FC Heidenheim,Union Berlin,1,0,2023-09-30 13:30:00,Christopher Trimmel,Aerial
+541049,47,SavedShot,0.975999984741211,0.5379999923706055,0.769980788230896,Kevin Behrens,a,9712,OpenPlay,2023,RightFoot,23112,FC Heidenheim,Union Berlin,1,0,2023-09-30 13:30:00,,Rebound
+541048,47,SavedShot,0.9130000305175782,0.504000015258789,0.060658007860183716,Kevin Behrens,a,9712,OpenPlay,2023,Head,23112,FC Heidenheim,Union Berlin,1,0,2023-09-30 13:30:00,Sheraldo Becker,Aerial
+541050,50,BlockedShot,0.899000015258789,0.5579999923706055,0.017425715923309326,Kevin Behrens,a,9712,FromCorner,2023,Head,23112,FC Heidenheim,Union Berlin,1,0,2023-09-30 13:30:00,Christopher Trimmel,Aerial
+541056,62,BlockedShot,0.8869999694824219,0.5120000076293946,0.047623660415410995,Kevin Behrens,a,9712,FromCorner,2023,Head,23112,FC Heidenheim,Union Berlin,1,0,2023-09-30 13:30:00,Christopher Trimmel,Cross
+542591,4,MissedShots,0.8909999847412109,0.42400001525878905,0.013807606883347034,Kevin Behrens,a,9712,SetPiece,2023,Head,23120,Borussia Dortmund,Union Berlin,4,2,2023-10-07 13:30:00,Christopher Trimmel,Aerial
+542607,54,SavedShot,0.8619999694824219,0.5640000152587891,0.02635178156197071,Kevin Behrens,a,9712,OpenPlay,2023,Head,23120,Borussia Dortmund,Union Berlin,4,2,2023-10-07 13:30:00,Robin Gosens,Cross
+545406,51,MissedShots,0.860999984741211,0.485,0.02799401804804802,Kevin Behrens,a,9712,OpenPlay,2023,Head,23142,Werder Bremen,Union Berlin,2,0,2023-10-28 13:30:00,Christopher Trimmel,Cross
+546802,56,MissedShots,0.8980000305175782,0.5990000152587891,0.05905698984861374,Kevin Behrens,h,9712,OpenPlay,2023,LeftFoot,23147,Union Berlin,Eintracht Frankfurt,0,3,2023-11-04 14:30:00,Sheraldo Becker,Cross
+546804,67,MissedShots,0.895,0.57,0.22855527698993683,Kevin Behrens,h,9712,OpenPlay,2023,Head,23147,Union Berlin,Eintracht Frankfurt,0,3,2023-11-04 14:30:00,Aissa Laidouni,Cross
+549644,9,SavedShot,0.899000015258789,0.6090000152587891,0.3676415979862213,Kevin Behrens,h,9712,OpenPlay,2023,LeftFoot,23165,Union Berlin,Augsburg,1,1,2023-11-25 14:30:00,,BallTouch
+549648,26,MissedShots,0.9,0.5270000076293946,0.02182619273662567,Kevin Behrens,h,9712,FromCorner,2023,Head,23165,Union Berlin,Augsburg,1,1,2023-11-25 14:30:00,Robin Gosens,Aerial
+552789,19,MissedShots,0.8619999694824219,0.4329999923706055,0.30160826444625854,Kevin Behrens,h,9712,OpenPlay,2023,RightFoot,23183,Union Berlin,Borussia M.Gladbach,3,1,2023-12-09 14:30:00,Robin Gosens,HeadPass
+552801,56,SavedShot,0.92,0.5570000076293945,0.12226232141256332,Kevin Behrens,h,9712,OpenPlay,2023,Head,23183,Union Berlin,Borussia M.Gladbach,3,1,2023-12-09 14:30:00,Jérôme Roussillon,Cross
+554222,50,MissedShots,0.8919999694824219,0.5029999923706054,0.11389687657356262,Kevin Behrens,a,9712,FromCorner,2023,RightFoot,23197,Bochum,Union Berlin,3,0,2023-12-16 14:30:00,Robin Knoche,Rebound
+554227,67,BlockedShot,0.815,0.485,0.04265952482819557,Kevin Behrens,a,9712,OpenPlay,2023,RightFoot,23197,Bochum,Union Berlin,3,0,2023-12-16 14:30:00,,None
+555379,37,MissedShots,0.9490000152587891,0.4329999923706055,0.07385135442018509,Kevin Behrens,h,9712,OpenPlay,2023,Head,23201,Union Berlin,FC Cologne,2,0,2023-12-20 17:30:00,Kevin Volland,Aerial
+558073,69,SavedShot,0.914000015258789,0.44400001525878907,0.07738041132688522,Kevin Behrens,a,9712,FromCorner,2023,Head,23211,Freiburg,Union Berlin,0,0,2024-01-13 14:30:00,Josip Juranovic,Cross
+559549,50,BlockedShot,0.86,0.5409999847412109,0.07515307515859604,Kevin Behrens,a,9712,OpenPlay,2023,RightFoot,23173,Bayern Munich,Union Berlin,1,0,2024-01-24 18:30:00,Robin Gosens,Pass
+560265,17,MissedShots,0.9580000305175781,0.40599998474121096,0.43603575229644775,Kevin Behrens,h,9712,OpenPlay,2023,RightFoot,23228,Union Berlin,Darmstadt,1,0,2024-01-28 14:30:00,Benedict Hollerbach,Pass
+560269,34,MissedShots,0.9690000152587891,0.6179999923706054,0.2929265797138214,Kevin Behrens,h,9712,OpenPlay,2023,LeftFoot,23228,Union Berlin,Darmstadt,1,0,2024-01-28 14:30:00,Robin Gosens,Chipped
+560289,75,MissedShots,0.9790000152587891,0.4759999847412109,0.7928248643875122,Kevin Behrens,h,9712,SetPiece,2023,Head,23228,Union Berlin,Darmstadt,1,0,2024-01-28 14:30:00,Andras Schafer,Aerial
+560295,83,SavedShot,0.8980000305175782,0.35,0.37292128801345825,Kevin Behrens,h,9712,OpenPlay,2023,RightFoot,23228,Union Berlin,Darmstadt,1,0,2024-01-28 14:30:00,Brenden Aaronson,Pass
+561741,14,MissedShots,0.94,0.45,0.05886178836226463,Kevin Behrens,h,9712,OpenPlay,2023,Head,23239,Wolfsburg,Hoffenheim,2,2,2024-02-04 14:30:00,Maximilian Arnold,Aerial
+561746,25,SavedShot,0.9,0.3039999961853027,0.07302442193031311,Kevin Behrens,h,9712,OpenPlay,2023,RightFoot,23239,Wolfsburg,Hoffenheim,2,2,2024-02-04 14:30:00,Joakim Maehle,Pass
+562557,93,BlockedShot,0.904000015258789,0.38,0.021856971085071564,Kevin Behrens,a,9712,OpenPlay,2023,Head,23248,Union Berlin,Wolfsburg,1,0,2024-02-10 14:30:00,Václav Cerny,CornerAwarded
+563718,3,SavedShot,0.784000015258789,0.715,0.019310401752591133,Kevin Behrens,h,9712,OpenPlay,2023,RightFoot,23256,Wolfsburg,Borussia Dortmund,1,1,2024-02-17 14:30:00,Kevin Paredes,Pass
+563727,48,MissedShots,0.975,0.4520000076293945,0.1403094232082367,Kevin Behrens,h,9712,FromCorner,2023,Head,23256,Wolfsburg,Borussia Dortmund,1,1,2024-02-17 14:30:00,Jonas Wind,Cross
+563728,52,SavedShot,0.914000015258789,0.4129999923706055,0.34223297238349915,Kevin Behrens,h,9712,OpenPlay,2023,RightFoot,23256,Wolfsburg,Borussia Dortmund,1,1,2024-02-17 14:30:00,Bote Baku,Pass
+565738,20,SavedShot,0.795,0.53,0.046970855444669724,Kevin Behrens,a,9712,OpenPlay,2023,LeftFoot,23267,Eintracht Frankfurt,Wolfsburg,2,2,2024-02-25 14:30:00,Kevin Paredes,BallTouch
+565743,35,Goal,0.9459999847412109,0.49700000762939456,0.10943591594696045,Kevin Behrens,a,9712,SetPiece,2023,Head,23267,Eintracht Frankfurt,Wolfsburg,2,2,2024-02-25 14:30:00,Joakim Maehle,Aerial
+570541,47,MissedShots,0.905,0.4379999923706055,0.13726761937141418,Kevin Behrens,a,9712,OpenPlay,2023,RightFoot,23304,Werder Bremen,Wolfsburg,0,2,2024-03-30 14:30:00,Bote Baku,Pass
+573062,91,BlockedShot,0.93,0.47200000762939454,0.08834719657897949,Kevin Behrens,h,9712,OpenPlay,2023,Head,23312,Wolfsburg,Borussia M.Gladbach,1,3,2024-04-07 15:30:00,Joakim Maehle,Aerial
+573065,94,SavedShot,0.92,0.4829999923706055,0.05248060077428818,Kevin Behrens,h,9712,FromCorner,2023,Head,23312,Wolfsburg,Borussia M.Gladbach,1,3,2024-04-07 15:30:00,Joakim Maehle,Aerial
+586706,71,MissedShots,0.84,0.3220000076293945,0.0356275737285614,Kevin Behrens,h,9712,OpenPlay,2024,RightFoot,27749,Wolfsburg,Bayern Munich,2,3,2024-08-25 13:30:00,Bote Baku,Pass
+590638,93,BlockedShot,0.9119999694824219,0.345,0.0702345222234726,Kevin Behrens,h,9712,OpenPlay,2024,RightFoot,27764,Wolfsburg,Eintracht Frankfurt,1,2,2024-09-14 13:30:00,Jonas Wind,Pass
+598322,92,MissedShots,0.9290000152587891,0.5220000076293946,0.058875925838947296,Kevin Behrens,a,9712,FromCorner,2024,Head,27813,St. Pauli,Wolfsburg,0,0,2024-10-26 13:30:00,Jakub Kaminski,Aerial
+602444,81,SavedShot,0.8440000152587891,0.46599998474121096,0.09150046110153198,Kevin Behrens,a,9712,OpenPlay,2024,LeftFoot,27825,FC Heidenheim,Wolfsburg,1,3,2024-11-10 18:30:00,,Dispossessed
+604029,90,Goal,0.9480000305175781,0.485,0.6709425449371338,Kevin Behrens,a,9712,OpenPlay,2024,RightFoot,27841,RasenBallsport Leipzig,Wolfsburg,1,5,2024-11-30 14:30:00,Mattias Svanberg,Pass
+622604,90,SavedShot,0.885,0.6559999847412109,0.09541237354278564,Kevin Behrens,a,9712,OpenPlay,2024,LeftFoot,27971,Augsburg,Wolfsburg,1,0,2025-03-15 14:30:00,Mohammed Amoura,Pass
+626512,88,MissedShots,0.9890000152587891,0.485,0.9514235258102417,Kevin Behrens,a,9712,OpenPlay,2024,LeftFoot,27991,Union Berlin,Wolfsburg,1,0,2025-04-06 15:30:00,,None
+634341,83,MissedShots,0.9169999694824219,0.7019999694824218,0.06414002180099487,Kevin Behrens,a,9712,OpenPlay,2024,LeftFoot,28046,Borussia M.Gladbach,Wolfsburg,0,1,2025-05-17 13:30:00,Bence Dárdai,Pass

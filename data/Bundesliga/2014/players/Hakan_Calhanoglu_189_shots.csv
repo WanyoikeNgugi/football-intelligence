@@ -1,0 +1,892 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+24368,17,MissedShots,0.7669999694824219,0.7319999694824219,0.04735499992966652,Hakan Calhanoglu,a,189,DirectFreekick,2014,RightFoot,5453,Borussia Dortmund,Bayer Leverkusen,0,2,2014-08-23 17:30:00,,Standard
+24369,19,MissedShots,0.7319999694824219,0.44299999237060544,0.03323100134730339,Hakan Calhanoglu,a,189,OpenPlay,2014,RightFoot,5453,Borussia Dortmund,Bayer Leverkusen,0,2,2014-08-23 17:30:00,Simon Rolfes,TakeOn
+24371,28,BlockedShot,0.9430000305175781,0.815,0.07162889838218689,Hakan Calhanoglu,a,189,DirectFreekick,2014,RightFoot,5453,Borussia Dortmund,Bayer Leverkusen,0,2,2014-08-23 17:30:00,,Standard
+24582,34,BlockedShot,0.8080000305175781,0.8569999694824219,0.03566979989409447,Hakan Calhanoglu,h,189,DirectFreekick,2014,RightFoot,5460,Bayer Leverkusen,Hertha Berlin,4,2,2014-08-30 14:30:00,,Standard
+24592,53,BlockedShot,0.865,0.6819999694824219,0.05429619923233986,Hakan Calhanoglu,h,189,OpenPlay,2014,RightFoot,5460,Bayer Leverkusen,Hertha Berlin,4,2,2014-08-30 14:30:00,Karim Bellarabi,TakeOn
+24596,65,BlockedShot,0.7340000152587891,0.4909999847412109,0.0577894002199173,Hakan Calhanoglu,h,189,DirectFreekick,2014,RightFoot,5460,Bayer Leverkusen,Hertha Berlin,4,2,2014-08-30 14:30:00,,Standard
+24597,72,ShotOnPost,0.9080000305175782,0.6840000152587891,0.059793900698423386,Hakan Calhanoglu,h,189,OpenPlay,2014,LeftFoot,5460,Bayer Leverkusen,Hertha Berlin,4,2,2014-08-30 14:30:00,Stefan Kießling,Pass
+24841,30,SavedShot,0.7430000305175781,0.5879999923706055,0.03251110017299652,Hakan Calhanoglu,h,189,OpenPlay,2014,RightFoot,5411,Bayer Leverkusen,Werder Bremen,3,3,2014-09-12 19:30:00,Ömer Toprak,TakeOn
+24844,34,BlockedShot,0.75,0.33299999237060546,0.051639001816511154,Hakan Calhanoglu,h,189,DirectFreekick,2014,RightFoot,5411,Bayer Leverkusen,Werder Bremen,3,3,2014-09-12 19:30:00,,Standard
+24854,62,Goal,0.7609999847412109,0.639000015258789,0.06273379921913147,Hakan Calhanoglu,h,189,DirectFreekick,2014,RightFoot,5411,Bayer Leverkusen,Werder Bremen,3,3,2014-09-12 19:30:00,,Standard
+24863,89,BlockedShot,0.789000015258789,0.34799999237060547,0.0798783004283905,Hakan Calhanoglu,h,189,DirectFreekick,2014,RightFoot,5411,Bayer Leverkusen,Werder Bremen,3,3,2014-09-12 19:30:00,,Standard
+25053,20,BlockedShot,0.855999984741211,0.75,0.02678859978914261,Hakan Calhanoglu,a,189,OpenPlay,2014,LeftFoot,5427,Wolfsburg,Bayer Leverkusen,4,1,2014-09-21 14:30:00,Karim Bellarabi,Pass
+25056,26,BlockedShot,0.845,0.6480000305175782,0.05046109855175018,Hakan Calhanoglu,a,189,OpenPlay,2014,RightFoot,5427,Wolfsburg,Bayer Leverkusen,4,1,2014-09-21 14:30:00,Gonzalo Castro,Pass
+25067,53,BlockedShot,0.86,0.8030000305175782,0.06072859838604927,Hakan Calhanoglu,a,189,DirectFreekick,2014,RightFoot,5427,Wolfsburg,Bayer Leverkusen,4,1,2014-09-21 14:30:00,,Standard
+25325,1,MissedShots,0.7769999694824219,0.4570000076293945,0.04015669971704483,Hakan Calhanoglu,h,189,OpenPlay,2014,LeftFoot,5434,Bayer Leverkusen,Augsburg,1,0,2014-09-24 19:00:00,Stefan Kießling,LayOff
+25329,11,MissedShots,0.795,0.2879999923706055,0.06495950371026993,Hakan Calhanoglu,h,189,DirectFreekick,2014,RightFoot,5434,Bayer Leverkusen,Augsburg,1,0,2014-09-24 19:00:00,,Standard
+25589,14,MissedShots,0.7559999847412109,0.700999984741211,0.010615499690175056,Hakan Calhanoglu,a,189,SetPiece,2014,RightFoot,5439,Freiburg,Bayer Leverkusen,0,0,2014-09-27 14:30:00,,None
+25596,48,MissedShots,0.750999984741211,0.13399999618530273,0.014960999600589275,Hakan Calhanoglu,a,189,OpenPlay,2014,RightFoot,5439,Freiburg,Bayer Leverkusen,0,0,2014-09-27 14:30:00,Tin Jedvaj,Pass
+25597,53,MissedShots,0.580999984741211,0.075,0.006119099911302328,Hakan Calhanoglu,a,189,OpenPlay,2014,RightFoot,5439,Freiburg,Bayer Leverkusen,0,0,2014-09-27 14:30:00,,None
+25792,53,MissedShots,0.789000015258789,0.3220000076293945,0.02630559913814068,Hakan Calhanoglu,h,189,OpenPlay,2014,LeftFoot,5387,Bayer Leverkusen,Paderborn,2,2,2014-10-04 14:30:00,Stefan Reinartz,Pass
+26096,30,MissedShots,0.725,0.53,0.019246699288487434,Hakan Calhanoglu,a,189,OpenPlay,2014,RightFoot,5396,VfB Stuttgart,Bayer Leverkusen,3,3,2014-10-18 14:30:00,Tin Jedvaj,Pass
+26220,16,SavedShot,0.6769999694824219,0.5220000076293946,0.03293760120868683,Hakan Calhanoglu,h,189,DirectFreekick,2014,RightFoot,5407,Bayer Leverkusen,Schalke 04,1,0,2014-10-25 17:30:00,,Standard
+26221,27,SavedShot,0.7680000305175781,0.6519999694824219,0.024535300210118294,Hakan Calhanoglu,h,189,OpenPlay,2014,RightFoot,5407,Bayer Leverkusen,Schalke 04,1,0,2014-10-25 17:30:00,Lars Bender,Pass
+26222,29,MissedShots,0.7430000305175781,0.5640000152587891,0.019114900380373,Hakan Calhanoglu,h,189,OpenPlay,2014,LeftFoot,5407,Bayer Leverkusen,Schalke 04,1,0,2014-10-25 17:30:00,Giulio Donati,Chipped
+26226,47,BlockedShot,0.774000015258789,0.25299999237060544,0.014955700375139713,Hakan Calhanoglu,h,189,OpenPlay,2014,RightFoot,5407,Bayer Leverkusen,Schalke 04,1,0,2014-10-25 17:30:00,,BallRecovery
+26227,48,SavedShot,0.7969999694824219,0.2589999961853027,0.05758360028266907,Hakan Calhanoglu,h,189,DirectFreekick,2014,RightFoot,5407,Bayer Leverkusen,Schalke 04,1,0,2014-10-25 17:30:00,,Standard
+26229,52,Goal,0.7969999694824219,0.7969999694824219,0.04412920027971268,Hakan Calhanoglu,h,189,DirectFreekick,2014,RightFoot,5407,Bayer Leverkusen,Schalke 04,1,0,2014-10-25 17:30:00,,Standard
+26234,65,BlockedShot,0.75,0.27,0.017260799184441566,Hakan Calhanoglu,h,189,OpenPlay,2014,LeftFoot,5407,Bayer Leverkusen,Schalke 04,1,0,2014-10-25 17:30:00,Giulio Donati,Pass
+26237,70,MissedShots,0.675,0.54,0.03222129866480827,Hakan Calhanoglu,h,189,DirectFreekick,2014,RightFoot,5407,Bayer Leverkusen,Schalke 04,1,0,2014-10-25 17:30:00,,Standard
+26630,0,SavedShot,0.6969999694824218,0.40599998474121096,0.01827079989016056,Hakan Calhanoglu,a,189,OpenPlay,2014,LeftFoot,5351,Hamburger SV,Bayer Leverkusen,1,0,2014-11-01 14:30:00,Stefan Kießling,Pass
+26634,26,MissedShots,0.63,0.5359999847412109,0.02462409995496273,Hakan Calhanoglu,a,189,DirectFreekick,2014,RightFoot,5351,Hamburger SV,Bayer Leverkusen,1,0,2014-11-01 14:30:00,,Standard
+26639,55,BlockedShot,0.750999984741211,0.3139999961853027,0.017597299069166183,Hakan Calhanoglu,a,189,OpenPlay,2014,RightFoot,5351,Hamburger SV,Bayer Leverkusen,1,0,2014-11-01 14:30:00,Karim Bellarabi,Pass
+26643,67,MissedShots,0.6480000305175782,0.4370000076293945,0.01153669971972704,Hakan Calhanoglu,a,189,OpenPlay,2014,RightFoot,5351,Hamburger SV,Bayer Leverkusen,1,0,2014-11-01 14:30:00,Lars Bender,Pass
+26728,42,BlockedShot,0.6459999847412109,0.23600000381469727,0.008962489664554596,Hakan Calhanoglu,h,189,OpenPlay,2014,RightFoot,5359,Bayer Leverkusen,Mainz 05,0,0,2014-11-08 14:30:00,Wendell,Pass
+26730,48,MissedShots,0.64,0.605,0.02506590075790882,Hakan Calhanoglu,h,189,DirectFreekick,2014,RightFoot,5359,Bayer Leverkusen,Mainz 05,0,0,2014-11-08 14:30:00,,Standard
+26732,50,MissedShots,0.7530000305175781,0.40700000762939453,0.06493879854679108,Hakan Calhanoglu,h,189,DirectFreekick,2014,RightFoot,5359,Bayer Leverkusen,Mainz 05,0,0,2014-11-08 14:30:00,,Standard
+26733,52,MissedShots,0.7919999694824219,0.6680000305175782,0.03152799978852272,Hakan Calhanoglu,h,189,OpenPlay,2014,RightFoot,5359,Bayer Leverkusen,Mainz 05,0,0,2014-11-08 14:30:00,Stefan Kießling,TakeOn
+26736,60,MissedShots,0.7919999694824219,0.26399999618530273,0.014828899875283241,Hakan Calhanoglu,h,189,OpenPlay,2014,LeftFoot,5359,Bayer Leverkusen,Mainz 05,0,0,2014-11-08 14:30:00,,None
+26740,79,SavedShot,0.745999984741211,0.3890000152587891,0.02189590036869049,Hakan Calhanoglu,h,189,OpenPlay,2014,RightFoot,5359,Bayer Leverkusen,Mainz 05,0,0,2014-11-08 14:30:00,Josip Drmic,Pass
+27032,2,BlockedShot,0.775,0.24799999237060547,0.01378559973090887,Hakan Calhanoglu,a,189,FromCorner,2014,RightFoot,5369,Hannover 96,Bayer Leverkusen,1,3,2014-11-22 14:30:00,,None
+27043,45,BlockedShot,0.7880000305175782,0.645,0.038153499364852905,Hakan Calhanoglu,a,189,OpenPlay,2014,LeftFoot,5369,Hannover 96,Bayer Leverkusen,1,3,2014-11-22 14:30:00,Simon Rolfes,HeadPass
+27045,47,MissedShots,0.7240000152587891,0.23899999618530274,0.014070499688386917,Hakan Calhanoglu,a,189,OpenPlay,2014,LeftFoot,5369,Hannover 96,Bayer Leverkusen,1,3,2014-11-22 14:30:00,Karim Bellarabi,Pass
+27056,66,MissedShots,0.6680000305175782,0.4809999847412109,0.03078179992735386,Hakan Calhanoglu,a,189,DirectFreekick,2014,RightFoot,5369,Hannover 96,Bayer Leverkusen,1,3,2014-11-22 14:30:00,,Standard
+27059,72,SavedShot,0.8490000152587891,0.575999984741211,0.10807999968528748,Hakan Calhanoglu,a,189,OpenPlay,2014,RightFoot,5369,Hannover 96,Bayer Leverkusen,1,3,2014-11-22 14:30:00,Roberto Hilbert,Pass
+27060,76,MissedShots,0.8069999694824219,0.595999984741211,0.05152430012822151,Hakan Calhanoglu,a,189,OpenPlay,2014,RightFoot,5369,Hannover 96,Bayer Leverkusen,1,3,2014-11-22 14:30:00,Son Heung-Min,Pass
+27062,88,BlockedShot,0.865999984741211,0.2620000076293945,0.025651900097727776,Hakan Calhanoglu,a,189,OpenPlay,2014,LeftFoot,5369,Hannover 96,Bayer Leverkusen,1,3,2014-11-22 14:30:00,Stefan Kießling,TakeOn
+27500,12,BlockedShot,0.785,0.33599998474121096,0.024735700339078903,Hakan Calhanoglu,h,189,OpenPlay,2014,RightFoot,5377,Bayer Leverkusen,FC Cologne,5,1,2014-11-29 14:30:00,Gonzalo Castro,Pass
+27502,25,SavedShot,0.7090000152587891,0.5729999923706055,0.04237240180373192,Hakan Calhanoglu,h,189,DirectFreekick,2014,RightFoot,5377,Bayer Leverkusen,FC Cologne,5,1,2014-11-29 14:30:00,,Standard
+27509,41,BlockedShot,0.755,0.69,0.012722699902951717,Hakan Calhanoglu,h,189,OpenPlay,2014,RightFoot,5377,Bayer Leverkusen,FC Cologne,5,1,2014-11-29 14:30:00,,None
+27516,60,Goal,0.750999984741211,0.5690000152587891,0.06640850007534027,Hakan Calhanoglu,h,189,DirectFreekick,2014,RightFoot,5377,Bayer Leverkusen,FC Cologne,5,1,2014-11-29 14:30:00,,Standard
+27519,71,BlockedShot,0.9830000305175781,0.615999984741211,0.09755849838256836,Hakan Calhanoglu,h,189,OpenPlay,2014,RightFoot,5377,Bayer Leverkusen,FC Cologne,5,1,2014-11-29 14:30:00,,Interception
+27521,76,BlockedShot,0.7440000152587891,0.3120000076293945,0.021943900734186172,Hakan Calhanoglu,h,189,OpenPlay,2014,RightFoot,5377,Bayer Leverkusen,FC Cologne,5,1,2014-11-29 14:30:00,Karim Bellarabi,Pass
+27237,7,BlockedShot,0.725999984741211,0.6880000305175781,0.012863599695265293,Hakan Calhanoglu,a,189,OpenPlay,2014,RightFoot,5318,Bayern Munich,Bayer Leverkusen,1,0,2014-12-06 17:30:00,Wendell,Pass
+27855,17,Goal,0.8,0.33299999237060546,0.04036249965429306,Hakan Calhanoglu,h,189,OpenPlay,2014,RightFoot,5328,Bayer Leverkusen,Borussia M.Gladbach,1,1,2014-12-14 14:30:00,Stefan Kießling,HeadPass
+27866,53,SavedShot,0.7680000305175781,0.715,0.020943500101566315,Hakan Calhanoglu,h,189,OpenPlay,2014,RightFoot,5328,Bayer Leverkusen,Borussia M.Gladbach,1,1,2014-12-14 14:30:00,Lars Bender,Pass
+27870,63,BlockedShot,0.7380000305175781,0.7330000305175781,0.03764750063419342,Hakan Calhanoglu,h,189,DirectFreekick,2014,RightFoot,5328,Bayer Leverkusen,Borussia M.Gladbach,1,1,2014-12-14 14:30:00,,Standard
+27871,65,MissedShots,0.7719999694824219,0.7240000152587891,0.05093729868531227,Hakan Calhanoglu,h,189,DirectFreekick,2014,RightFoot,5328,Bayer Leverkusen,Borussia M.Gladbach,1,1,2014-12-14 14:30:00,,Standard
+27730,4,BlockedShot,0.7069999694824218,0.74,0.03000500053167343,Hakan Calhanoglu,a,189,DirectFreekick,2014,RightFoot,5337,Hoffenheim,Bayer Leverkusen,0,1,2014-12-17 19:00:00,,Standard
+27735,24,SavedShot,0.995,0.9919999694824219,0.013092299923300743,Hakan Calhanoglu,a,189,FromCorner,2014,RightFoot,5337,Hoffenheim,Bayer Leverkusen,0,1,2014-12-17 19:00:00,,CornerAwarded
+27741,50,BlockedShot,0.9219999694824219,0.639000015258789,0.09056419879198074,Hakan Calhanoglu,a,189,OpenPlay,2014,LeftFoot,5337,Hoffenheim,Bayer Leverkusen,0,1,2014-12-17 19:00:00,Son Heung-Min,Pass
+27747,74,BlockedShot,0.8169999694824219,0.655,0.10541299730539322,Hakan Calhanoglu,a,189,DirectFreekick,2014,RightFoot,5337,Hoffenheim,Bayer Leverkusen,0,1,2014-12-17 19:00:00,,Standard
+28009,20,BlockedShot,0.755,0.6179999923706054,0.02184480056166649,Hakan Calhanoglu,h,189,OpenPlay,2014,LeftFoot,5343,Bayer Leverkusen,Eintracht Frankfurt,1,1,2014-12-20 14:30:00,Karim Bellarabi,Pass
+28018,50,BlockedShot,0.754000015258789,0.7419999694824219,0.0411715991795063,Hakan Calhanoglu,h,189,DirectFreekick,2014,RightFoot,5343,Bayer Leverkusen,Eintracht Frankfurt,1,1,2014-12-20 14:30:00,,Standard
+28019,50,BlockedShot,0.779000015258789,0.6840000152587891,0.014666300266981125,Hakan Calhanoglu,h,189,SetPiece,2014,RightFoot,5343,Bayer Leverkusen,Eintracht Frankfurt,1,1,2014-12-20 14:30:00,,Rebound
+28421,9,BlockedShot,0.730999984741211,0.575,0.018053200095891953,Hakan Calhanoglu,h,189,OpenPlay,2014,RightFoot,5311,Bayer Leverkusen,Borussia Dortmund,0,0,2015-01-31 17:30:00,Roberto Hilbert,Pass
+28424,31,SavedShot,0.7909999847412109,0.35700000762939454,0.08456909656524658,Hakan Calhanoglu,h,189,DirectFreekick,2014,RightFoot,5311,Bayer Leverkusen,Borussia Dortmund,0,0,2015-01-31 17:30:00,,Standard
+28844,0,MissedShots,0.7,0.3340000152587891,0.016157599166035652,Hakan Calhanoglu,a,189,OpenPlay,2014,RightFoot,5269,Hertha Berlin,Bayer Leverkusen,0,1,2015-02-04 19:00:00,Roberto Hilbert,Pass
+28846,24,BlockedShot,0.715,0.6029999923706054,0.04301830008625984,Hakan Calhanoglu,a,189,DirectFreekick,2014,RightFoot,5269,Hertha Berlin,Bayer Leverkusen,0,1,2015-02-04 19:00:00,,Standard
+28847,37,SavedShot,0.7440000152587891,0.455,0.019707899540662766,Hakan Calhanoglu,a,189,OpenPlay,2014,RightFoot,5269,Hertha Berlin,Bayer Leverkusen,0,1,2015-02-04 19:00:00,Julian Brandt,Pass
+29715,18,MissedShots,0.8519999694824218,0.67,0.03130749985575676,Hakan Calhanoglu,a,189,OpenPlay,2014,RightFoot,5278,Werder Bremen,Bayer Leverkusen,2,1,2015-02-08 14:30:00,Julian Brandt,HeadPass
+29725,42,Goal,0.980999984741211,0.509000015258789,0.9532480239868164,Hakan Calhanoglu,a,189,OpenPlay,2014,Head,5278,Werder Bremen,Bayer Leverkusen,2,1,2015-02-08 14:30:00,,Rebound
+29726,44,BlockedShot,0.7530000305175781,0.769000015258789,0.014090100303292274,Hakan Calhanoglu,a,189,OpenPlay,2014,RightFoot,5278,Werder Bremen,Bayer Leverkusen,2,1,2015-02-08 14:30:00,Lars Bender,Pass
+28994,26,MissedShots,0.7609999847412109,0.47,0.07832170277833939,Hakan Calhanoglu,h,189,DirectFreekick,2014,RightFoot,5282,Bayer Leverkusen,Wolfsburg,4,5,2015-02-14 14:30:00,,Standard
+29253,76,SavedShot,0.7730000305175782,0.6809999847412109,0.021612299606204033,Hakan Calhanoglu,a,189,OpenPlay,2014,RightFoot,5291,Augsburg,Bayer Leverkusen,2,2,2015-02-21 14:30:00,Roberto Hilbert,Pass
+29258,90,SavedShot,0.9409999847412109,0.720999984741211,0.06545359641313553,Hakan Calhanoglu,a,189,OpenPlay,2014,RightFoot,5291,Augsburg,Bayer Leverkusen,2,2,2015-02-21 14:30:00,,BallRecovery
+28975,23,SavedShot,0.710999984741211,0.59,0.014224899932742119,Hakan Calhanoglu,h,189,OpenPlay,2014,RightFoot,5300,Bayer Leverkusen,Freiburg,1,0,2015-02-28 14:30:00,Son Heung-Min,Pass
+28982,69,MissedShots,0.8930000305175781,0.785,0.03709990158677101,Hakan Calhanoglu,h,189,OpenPlay,2014,LeftFoot,5300,Bayer Leverkusen,Freiburg,1,0,2015-02-28 14:30:00,,None
+30757,69,BlockedShot,0.7819999694824219,0.580999984741211,0.05062349885702133,Hakan Calhanoglu,h,189,OpenPlay,2014,RightFoot,5242,Bayer Leverkusen,VfB Stuttgart,4,0,2015-03-13 19:30:00,Stefan Reinartz,TakeOn
+30758,86,BlockedShot,0.765,0.25799999237060545,0.0447922982275486,Hakan Calhanoglu,h,189,DirectFreekick,2014,RightFoot,5242,Bayer Leverkusen,VfB Stuttgart,4,0,2015-03-13 19:30:00,,Standard
+31680,48,SavedShot,0.7619999694824219,0.639000015258789,0.025448400527238846,Hakan Calhanoglu,a,189,OpenPlay,2014,RightFoot,5257,Schalke 04,Bayer Leverkusen,0,1,2015-03-21 17:30:00,Julian Brandt,Pass
+32312,82,MissedShots,0.825999984741211,0.6790000152587891,0.08940950036048889,Hakan Calhanoglu,h,189,OpenPlay,2014,LeftFoot,5199,Bayer Leverkusen,Hamburger SV,4,0,2015-04-04 14:30:00,Josip Drmic,Pass
+32313,83,MissedShots,0.9309999847412109,0.555,0.14808499813079834,Hakan Calhanoglu,h,189,OpenPlay,2014,RightFoot,5199,Bayer Leverkusen,Hamburger SV,4,0,2015-04-04 14:30:00,Wendell,Pass
+31055,17,SavedShot,0.7230000305175781,0.5840000152587891,0.0480181984603405,Hakan Calhanoglu,a,189,DirectFreekick,2014,RightFoot,5208,Mainz 05,Bayer Leverkusen,2,3,2015-04-11 14:30:00,,Standard
+31061,72,Goal,0.7569999694824219,0.6090000152587891,0.06537479907274246,Hakan Calhanoglu,a,189,DirectFreekick,2014,RightFoot,5208,Mainz 05,Bayer Leverkusen,2,3,2015-04-11 14:30:00,,Standard
+31721,14,BlockedShot,0.759000015258789,0.69,0.05191640183329582,Hakan Calhanoglu,h,189,DirectFreekick,2014,RightFoot,5218,Bayer Leverkusen,Hannover 96,4,0,2015-04-18 14:30:00,,Standard
+31724,19,BlockedShot,0.6780000305175782,0.5109999847412109,0.03327279910445213,Hakan Calhanoglu,h,189,DirectFreekick,2014,RightFoot,5218,Bayer Leverkusen,Hannover 96,4,0,2015-04-18 14:30:00,,Standard
+31727,31,MissedShots,0.7580000305175781,0.6580000305175782,0.057363398373126984,Hakan Calhanoglu,h,189,DirectFreekick,2014,RightFoot,5218,Bayer Leverkusen,Hannover 96,4,0,2015-04-18 14:30:00,,Standard
+31731,37,BlockedShot,0.7440000152587891,0.5209999847412109,0.06444460153579712,Hakan Calhanoglu,h,189,DirectFreekick,2014,RightFoot,5218,Bayer Leverkusen,Hannover 96,4,0,2015-04-18 14:30:00,,Standard
+31739,61,BlockedShot,0.8190000152587891,0.8109999847412109,0.04700610041618347,Hakan Calhanoglu,h,189,DirectFreekick,2014,RightFoot,5218,Bayer Leverkusen,Hannover 96,4,0,2015-04-18 14:30:00,,Standard
+31740,64,SavedShot,0.9390000152587891,0.9209999847412109,0.039046600461006165,Hakan Calhanoglu,h,189,DirectFreekick,2014,RightFoot,5218,Bayer Leverkusen,Hannover 96,4,0,2015-04-18 14:30:00,,Standard
+30153,9,SavedShot,0.7930000305175782,0.64,0.025040900334715843,Hakan Calhanoglu,a,189,OpenPlay,2014,RightFoot,5226,FC Cologne,Bayer Leverkusen,1,1,2015-04-25 14:30:00,,Rebound
+30158,32,BlockedShot,0.8519999694824218,0.5779999923706055,0.08393099904060364,Hakan Calhanoglu,a,189,OpenPlay,2014,LeftFoot,5226,FC Cologne,Bayer Leverkusen,1,1,2015-04-25 14:30:00,Son Heung-Min,Pass
+30160,41,SavedShot,0.885,0.5,0.7577769756317139,Hakan Calhanoglu,a,189,Penalty,2014,RightFoot,5226,FC Cologne,Bayer Leverkusen,1,1,2015-04-25 14:30:00,,Standard
+30493,54,Goal,0.7480000305175781,0.5840000152587891,0.06258309632539749,Hakan Calhanoglu,h,189,DirectFreekick,2014,RightFoot,5165,Bayer Leverkusen,Bayern Munich,2,0,2015-05-02 17:30:00,,Standard
+30494,57,SavedShot,0.9969999694824219,0.995,0.010853099636733532,Hakan Calhanoglu,h,189,FromCorner,2014,RightFoot,5165,Bayer Leverkusen,Bayern Munich,2,0,2015-05-02 17:30:00,,None
+31506,36,BlockedShot,0.634000015258789,0.5420000076293945,0.02504670061171055,Hakan Calhanoglu,a,189,DirectFreekick,2014,RightFoot,5171,Borussia M.Gladbach,Bayer Leverkusen,3,0,2015-05-09 14:30:00,,Standard
+31517,77,BlockedShot,0.8809999847412109,0.8319999694824218,0.025331100448966026,Hakan Calhanoglu,a,189,FromCorner,2014,RightFoot,5171,Borussia M.Gladbach,Bayer Leverkusen,3,0,2015-05-09 14:30:00,Stefan Reinartz,Pass
+31520,81,BlockedShot,0.8680000305175781,0.355,0.06919360160827637,Hakan Calhanoglu,a,189,OpenPlay,2014,RightFoot,5171,Borussia M.Gladbach,Bayer Leverkusen,3,0,2015-05-09 14:30:00,Julian Brandt,Pass
+30178,22,SavedShot,0.7519999694824219,0.654000015258789,0.054799698293209076,Hakan Calhanoglu,h,189,DirectFreekick,2014,RightFoot,5178,Bayer Leverkusen,Hoffenheim,2,0,2015-05-16 14:30:00,,Standard
+30183,29,MissedShots,0.67,0.04,0.019558899104595184,Hakan Calhanoglu,h,189,DirectFreekick,2014,RightFoot,5178,Bayer Leverkusen,Hoffenheim,2,0,2015-05-16 14:30:00,,Standard
+30189,45,Goal,0.700999984741211,0.595999984741211,0.03816629946231842,Hakan Calhanoglu,h,189,DirectFreekick,2014,RightFoot,5178,Bayer Leverkusen,Hoffenheim,2,0,2015-05-16 14:30:00,,Standard
+31530,21,MissedShots,0.750999984741211,0.9080000305175782,0.024468500167131424,Hakan Calhanoglu,a,189,DirectFreekick,2014,RightFoot,5188,Eintracht Frankfurt,Bayer Leverkusen,2,1,2015-05-23 14:30:00,,Standard
+31538,49,BlockedShot,0.7709999847412109,0.6359999847412109,0.07021179795265198,Hakan Calhanoglu,a,189,DirectFreekick,2014,RightFoot,5188,Eintracht Frankfurt,Bayer Leverkusen,2,1,2015-05-23 14:30:00,,Standard
+31543,64,SavedShot,0.7869999694824219,0.41,0.03146570175886154,Hakan Calhanoglu,a,189,OpenPlay,2014,LeftFoot,5188,Eintracht Frankfurt,Bayer Leverkusen,2,1,2015-05-23 14:30:00,Karim Bellarabi,Pass
+31548,75,SavedShot,0.8180000305175781,0.6580000305175782,0.034023698419332504,Hakan Calhanoglu,a,189,OpenPlay,2014,LeftFoot,5188,Eintracht Frankfurt,Bayer Leverkusen,2,1,2015-05-23 14:30:00,Gonzalo Castro,Chipped
+76109,15,BlockedShot,0.73,0.6969999694824218,0.03948640078306198,Hakan Calhanoglu,h,189,DirectFreekick,2015,RightFoot,1022,Bayer Leverkusen,Hoffenheim,2,1,2015-08-15 17:30:00,,Standard
+76115,37,SavedShot,0.8369999694824218,0.7330000305175781,0.024476900696754456,Hakan Calhanoglu,h,189,OpenPlay,2015,RightFoot,1022,Bayer Leverkusen,Hoffenheim,2,1,2015-08-15 17:30:00,Wendell,Pass
+76117,38,SavedShot,0.9209999847412109,0.37,0.36973899602890015,Hakan Calhanoglu,h,189,OpenPlay,2015,RightFoot,1022,Bayer Leverkusen,Hoffenheim,2,1,2015-08-15 17:30:00,Lars Bender,Pass
+76119,41,MissedShots,0.730999984741211,0.4540000152587891,0.054760001599788666,Hakan Calhanoglu,h,189,DirectFreekick,2015,RightFoot,1022,Bayer Leverkusen,Hoffenheim,2,1,2015-08-15 17:30:00,,Standard
+76126,58,SavedShot,0.9369999694824219,0.35200000762939454,0.07060330361127853,Hakan Calhanoglu,h,189,OpenPlay,2015,RightFoot,1022,Bayer Leverkusen,Hoffenheim,2,1,2015-08-15 17:30:00,,None
+76441,17,Goal,0.7419999694824219,0.5479999923706055,0.0617033988237381,Hakan Calhanoglu,a,189,DirectFreekick,2015,RightFoot,1035,Hannover 96,Bayer Leverkusen,0,1,2015-08-22 17:30:00,,Standard
+76447,46,ShotOnPost,0.7119999694824218,0.48200000762939454,0.04553399980068207,Hakan Calhanoglu,a,189,DirectFreekick,2015,RightFoot,1035,Hannover 96,Bayer Leverkusen,0,1,2015-08-22 17:30:00,,Standard
+76453,87,BlockedShot,0.7419999694824219,0.34200000762939453,0.024643100798130035,Hakan Calhanoglu,a,189,OpenPlay,2015,LeftFoot,1035,Hannover 96,Bayer Leverkusen,0,1,2015-08-22 17:30:00,Lars Bender,Pass
+76527,36,SavedShot,0.725999984741211,0.7269999694824218,0.03511729836463928,Hakan Calhanoglu,a,189,DirectFreekick,2015,RightFoot,1045,Bayern Munich,Bayer Leverkusen,3,0,2015-08-29 20:30:00,,Standard
+76533,49,MissedShots,0.8230000305175781,0.47900001525878905,0.041099101305007935,Hakan Calhanoglu,a,189,FromCorner,2015,RightFoot,1045,Bayern Munich,Bayer Leverkusen,3,0,2015-08-29 20:30:00,Kyriakos Papadopoulos,Pass
+76813,32,SavedShot,0.905,0.5429999923706055,0.10028599947690964,Hakan Calhanoglu,h,189,OpenPlay,2015,RightFoot,1053,Bayer Leverkusen,Darmstadt,0,1,2015-09-12 17:30:00,Stefan Kießling,Pass
+76819,54,MissedShots,0.7919999694824219,0.615,0.09511300176382065,Hakan Calhanoglu,h,189,DirectFreekick,2015,RightFoot,1053,Bayer Leverkusen,Darmstadt,0,1,2015-09-12 17:30:00,,Standard
+76990,61,SavedShot,0.7869999694824219,0.3089999961853027,0.06656370311975479,Hakan Calhanoglu,a,189,DirectFreekick,2015,RightFoot,1065,Borussia Dortmund,Bayer Leverkusen,3,0,2015-09-20 19:30:00,,Standard
+77266,7,SavedShot,0.889000015258789,0.7440000152587891,0.036558300256729126,Hakan Calhanoglu,h,189,OpenPlay,2015,LeftFoot,1072,Bayer Leverkusen,Mainz 05,1,0,2015-09-23 22:00:00,Wendell,TakeOn
+77272,23,MissedShots,0.6480000305175782,0.645,0.02524759992957115,Hakan Calhanoglu,h,189,DirectFreekick,2015,RightFoot,1072,Bayer Leverkusen,Mainz 05,1,0,2015-09-23 22:00:00,,Standard
+77273,34,BlockedShot,0.8430000305175781,0.555,0.06545010209083557,Hakan Calhanoglu,h,189,OpenPlay,2015,LeftFoot,1072,Bayer Leverkusen,Mainz 05,1,0,2015-09-23 22:00:00,,None
+77279,56,SavedShot,0.8009999847412109,0.5259999847412109,0.05185620114207268,Hakan Calhanoglu,h,189,OpenPlay,2015,LeftFoot,1072,Bayer Leverkusen,Mainz 05,1,0,2015-09-23 22:00:00,Chicharito,Pass
+77285,82,BlockedShot,0.879000015258789,0.575,0.02451390027999878,Hakan Calhanoglu,h,189,OpenPlay,2015,Head,1072,Bayer Leverkusen,Mainz 05,1,0,2015-09-23 22:00:00,Giulio Donati,Aerial
+77607,78,MissedShots,0.6719999694824219,0.4909999847412109,0.031754400581121445,Hakan Calhanoglu,a,189,DirectFreekick,2015,RightFoot,1079,Werder Bremen,Bayer Leverkusen,0,3,2015-09-26 17:30:00,,Standard
+77611,86,SavedShot,0.840999984741211,0.73,0.02967900037765503,Hakan Calhanoglu,a,189,OpenPlay,2015,RightFoot,1079,Werder Bremen,Bayer Leverkusen,0,3,2015-09-26 17:30:00,Sebastian Boenisch,Pass
+77749,30,BlockedShot,0.755,0.705,0.04750309884548187,Hakan Calhanoglu,h,189,DirectFreekick,2015,RightFoot,1091,Bayer Leverkusen,Augsburg,1,1,2015-10-04 19:30:00,,Standard
+77755,46,MissedShots,0.755,0.624000015258789,0.01940299943089485,Hakan Calhanoglu,h,189,OpenPlay,2015,RightFoot,1091,Bayer Leverkusen,Augsburg,1,1,2015-10-04 19:30:00,Karim Bellarabi,Pass
+77756,48,MissedShots,0.879000015258789,0.610999984741211,0.09597630053758621,Hakan Calhanoglu,h,189,OpenPlay,2015,RightFoot,1091,Bayer Leverkusen,Augsburg,1,1,2015-10-04 19:30:00,Karim Bellarabi,Pass
+77761,70,MissedShots,0.885,0.5,0.7577769756317139,Hakan Calhanoglu,h,189,Penalty,2015,RightFoot,1091,Bayer Leverkusen,Augsburg,1,1,2015-10-04 19:30:00,,Standard
+77762,72,SavedShot,0.7090000152587891,0.3820000076293945,0.03963030129671097,Hakan Calhanoglu,h,189,DirectFreekick,2015,RightFoot,1091,Bayer Leverkusen,Augsburg,1,1,2015-10-04 19:30:00,,Standard
+77995,77,BlockedShot,0.6840000152587891,0.5179999923706055,0.0349263995885849,Hakan Calhanoglu,a,189,DirectFreekick,2015,RightFoot,1098,Hamburger SV,Bayer Leverkusen,0,0,2015-10-17 17:30:00,,Standard
+78207,39,MissedShots,0.8059999847412109,0.4929999923706055,0.05124950036406517,Hakan Calhanoglu,h,189,OpenPlay,2015,RightFoot,1106,Bayer Leverkusen,VfB Stuttgart,4,3,2015-10-24 17:30:00,Julian Brandt,Pass
+78221,69,BlockedShot,0.779000015258789,0.47900001525878905,0.017643699422478676,Hakan Calhanoglu,h,189,OpenPlay,2015,RightFoot,1106,Bayer Leverkusen,VfB Stuttgart,4,3,2015-10-24 17:30:00,,Rebound
+78227,80,MissedShots,0.7730000305175782,0.48700000762939455,0.0920218974351883,Hakan Calhanoglu,h,189,DirectFreekick,2015,RightFoot,1106,Bayer Leverkusen,VfB Stuttgart,4,3,2015-10-24 17:30:00,,Standard
+78426,38,SavedShot,0.855,0.46599998474121096,0.06324359774589539,Hakan Calhanoglu,a,189,OpenPlay,2015,RightFoot,1117,Wolfsburg,Bayer Leverkusen,2,1,2015-10-31 21:30:00,,None
+78688,4,BlockedShot,0.7780000305175782,0.3659999847412109,0.025954600423574448,Hakan Calhanoglu,h,189,OpenPlay,2015,RightFoot,1123,Bayer Leverkusen,FC Cologne,1,2,2015-11-07 18:30:00,Karim Bellarabi,Pass
+78700,49,BlockedShot,0.745,0.4329999923706055,0.020476799458265305,Hakan Calhanoglu,h,189,OpenPlay,2015,RightFoot,1123,Bayer Leverkusen,FC Cologne,1,2,2015-11-07 18:30:00,Admir Mehmedi,Pass
+78711,87,BlockedShot,0.7290000152587891,0.655,0.043938301503658295,Hakan Calhanoglu,h,189,DirectFreekick,2015,RightFoot,1123,Bayer Leverkusen,FC Cologne,1,2,2015-11-07 18:30:00,,Standard
+79019,16,SavedShot,0.7819999694824219,0.754000015258789,0.018536599352955818,Hakan Calhanoglu,a,189,OpenPlay,2015,RightFoot,1131,Eintracht Frankfurt,Bayer Leverkusen,1,3,2015-11-21 18:30:00,Kevin Kampl,Pass
+79032,64,MissedShots,0.8009999847412109,0.49900001525878906,0.024149199947714806,Hakan Calhanoglu,a,189,OpenPlay,2015,RightFoot,1131,Eintracht Frankfurt,Bayer Leverkusen,1,3,2015-11-21 18:30:00,,Aerial
+79033,71,Goal,0.8080000305175781,0.66,0.03985640034079552,Hakan Calhanoglu,a,189,OpenPlay,2015,RightFoot,1131,Eintracht Frankfurt,Bayer Leverkusen,1,3,2015-11-21 18:30:00,Kevin Kampl,Pass
+79036,78,BlockedShot,0.8859999847412109,0.39599998474121095,0.12448299676179886,Hakan Calhanoglu,a,189,OpenPlay,2015,LeftFoot,1131,Eintracht Frankfurt,Bayer Leverkusen,1,3,2015-11-21 18:30:00,Karim Bellarabi,Pass
+79147,3,BlockedShot,0.7169999694824218,0.5279999923706055,0.047763001173734665,Hakan Calhanoglu,h,189,DirectFreekick,2015,RightFoot,1145,Bayer Leverkusen,Schalke 04,1,1,2015-11-29 20:30:00,,Standard
+79159,38,BlockedShot,0.8690000152587891,0.20299999237060548,0.06546919792890549,Hakan Calhanoglu,h,189,DirectFreekick,2015,RightFoot,1145,Bayer Leverkusen,Schalke 04,1,1,2015-11-29 20:30:00,,Standard
+79652,18,MissedShots,0.7419999694824219,0.69,0.044649701565504074,Hakan Calhanoglu,h,189,DirectFreekick,2015,RightFoot,1162,Bayer Leverkusen,Borussia M.Gladbach,5,0,2015-12-12 21:30:00,,Standard
+79658,40,ShotOnPost,0.8919999694824219,0.870999984741211,0.04636760056018829,Hakan Calhanoglu,h,189,DirectFreekick,2015,RightFoot,1162,Bayer Leverkusen,Borussia M.Gladbach,5,0,2015-12-12 21:30:00,,Standard
+79663,58,MissedShots,0.8180000305175781,0.6309999847412109,0.05751970037817955,Hakan Calhanoglu,h,189,OpenPlay,2015,RightFoot,1162,Bayer Leverkusen,Borussia M.Gladbach,5,0,2015-12-12 21:30:00,,None
+80037,23,MissedShots,0.695,0.5820000076293945,0.012814500369131565,Hakan Calhanoglu,a,189,OpenPlay,2015,RightFoot,1166,Ingolstadt,Bayer Leverkusen,0,1,2015-12-19 18:30:00,Stefan Kießling,Pass
+80046,59,BlockedShot,0.8069999694824219,0.3220000076293945,0.0849905014038086,Hakan Calhanoglu,a,189,DirectFreekick,2015,RightFoot,1166,Ingolstadt,Bayer Leverkusen,0,1,2015-12-19 18:30:00,,Standard
+80256,22,MissedShots,0.7769999694824219,0.7230000305175781,0.020524300634860992,Hakan Calhanoglu,a,189,OpenPlay,2015,RightFoot,1178,Hoffenheim,Bayer Leverkusen,1,1,2016-01-23 18:30:00,Kevin Kampl,Pass
+80261,50,SavedShot,0.904000015258789,0.6869999694824219,0.04973189905285835,Hakan Calhanoglu,a,189,OpenPlay,2015,LeftFoot,1178,Hoffenheim,Bayer Leverkusen,1,1,2016-01-23 18:30:00,,BallRecovery
+80266,74,MissedShots,0.8209999847412109,0.39,0.033861201256513596,Hakan Calhanoglu,a,189,FromCorner,2015,RightFoot,1178,Hoffenheim,Bayer Leverkusen,1,1,2016-01-23 18:30:00,,None
+80346,13,SavedShot,0.7580000305175781,0.54,0.024515699595212936,Hakan Calhanoglu,h,189,OpenPlay,2015,RightFoot,1186,Bayer Leverkusen,Hannover 96,3,0,2016-01-30 18:30:00,Wendell,Pass
+80351,25,SavedShot,0.7130000305175781,0.4279999923706055,0.04412649944424629,Hakan Calhanoglu,h,189,DirectFreekick,2015,RightFoot,1186,Bayer Leverkusen,Hannover 96,3,0,2016-01-30 18:30:00,,Standard
+80352,32,MissedShots,0.69,0.5129999923706055,0.03684680163860321,Hakan Calhanoglu,h,189,DirectFreekick,2015,RightFoot,1186,Bayer Leverkusen,Hannover 96,3,0,2016-01-30 18:30:00,,Standard
+80358,56,ShotOnPost,0.935,0.649000015258789,0.10292799770832062,Hakan Calhanoglu,h,189,OpenPlay,2015,LeftFoot,1186,Bayer Leverkusen,Hannover 96,3,0,2016-01-30 18:30:00,Karim Bellarabi,Pass
+80549,53,BlockedShot,0.8930000305175781,0.6329999923706054,0.0890263020992279,Hakan Calhanoglu,h,189,OpenPlay,2015,LeftFoot,1198,Bayer Leverkusen,Bayern Munich,0,0,2016-02-06 21:30:00,Wendell,Pass
+80552,62,SavedShot,0.845999984741211,0.7669999694824219,0.01715659908950329,Hakan Calhanoglu,h,189,OpenPlay,2015,RightFoot,1198,Bayer Leverkusen,Bayern Munich,0,0,2016-02-06 21:30:00,Christoph Kramer,Chipped
+80973,92,SavedShot,0.700999984741211,0.5309999847412109,0.04058950021862984,Hakan Calhanoglu,a,189,DirectFreekick,2015,RightFoot,1202,Darmstadt,Bayer Leverkusen,1,2,2016-02-13 18:30:00,,Standard
+81432,22,SavedShot,0.9640000152587891,0.9740000152587891,0.020160499960184097,Hakan Calhanoglu,a,189,FromCorner,2015,RightFoot,1226,Mainz 05,Bayer Leverkusen,3,1,2016-02-28 20:30:00,Karim Bellarabi,Pass
+81444,75,BlockedShot,0.745,0.48,0.012760099954903126,Hakan Calhanoglu,a,189,OpenPlay,2015,RightFoot,1226,Mainz 05,Bayer Leverkusen,3,1,2016-02-28 20:30:00,André Ramalho,HeadPass
+81445,75,SavedShot,0.995,0.995,0.013024800457060337,Hakan Calhanoglu,a,189,FromCorner,2015,RightFoot,1226,Mainz 05,Bayer Leverkusen,3,1,2016-02-28 20:30:00,,CornerAwarded
+81447,78,BlockedShot,0.73,0.49,0.014301899820566177,Hakan Calhanoglu,a,189,OpenPlay,2015,RightFoot,1226,Mainz 05,Bayer Leverkusen,3,1,2016-02-28 20:30:00,Chicharito,BallTouch
+81507,17,BlockedShot,0.805,0.495,0.05109519883990288,Hakan Calhanoglu,h,189,OpenPlay,2015,RightFoot,1235,Bayer Leverkusen,Werder Bremen,1,4,2016-03-02 23:00:00,Karim Bellarabi,Pass
+81515,43,BlockedShot,0.765,0.555,0.07990609854459763,Hakan Calhanoglu,h,189,DirectFreekick,2015,RightFoot,1235,Bayer Leverkusen,Werder Bremen,1,4,2016-03-02 23:00:00,,Standard
+81516,43,BlockedShot,0.7730000305175782,0.794000015258789,0.021365299820899963,Hakan Calhanoglu,h,189,FromCorner,2015,RightFoot,1235,Bayer Leverkusen,Werder Bremen,1,4,2016-03-02 23:00:00,Karim Bellarabi,Pass
+81518,48,SavedShot,0.765,0.655,0.021052999421954155,Hakan Calhanoglu,h,189,OpenPlay,2015,LeftFoot,1235,Bayer Leverkusen,Werder Bremen,1,4,2016-03-02 23:00:00,Chicharito,Pass
+81523,55,SavedShot,0.96,0.30700000762939456,0.04125849902629852,Hakan Calhanoglu,h,189,OpenPlay,2015,RightFoot,1235,Bayer Leverkusen,Werder Bremen,1,4,2016-03-02 23:00:00,Robbie Kruse,None
+81529,85,SavedShot,0.7119999694824218,0.82,0.006569220218807459,Hakan Calhanoglu,h,189,OpenPlay,2015,RightFoot,1235,Bayer Leverkusen,Werder Bremen,1,4,2016-03-02 23:00:00,Wendell,Pass
+81533,90,SavedShot,0.8590000152587891,0.35200000762939454,0.06174739822745323,Hakan Calhanoglu,h,189,OpenPlay,2015,LeftFoot,1235,Bayer Leverkusen,Werder Bremen,1,4,2016-03-02 23:00:00,Benjamin Henrichs,Pass
+81785,8,MissedShots,0.7559999847412109,0.28700000762939454,0.015897700563073158,Hakan Calhanoglu,a,189,OpenPlay,2015,RightFoot,1238,Augsburg,Bayer Leverkusen,3,3,2016-03-05 18:30:00,Christoph Kramer,Pass
+81789,21,BlockedShot,0.775,0.56,0.028795400634407997,Hakan Calhanoglu,a,189,OpenPlay,2015,RightFoot,1238,Augsburg,Bayer Leverkusen,3,3,2016-03-05 18:30:00,,Rebound
+81807,83,SavedShot,0.8480000305175781,0.7709999847412109,0.017481399700045586,Hakan Calhanoglu,a,189,OpenPlay,2015,RightFoot,1238,Augsburg,Bayer Leverkusen,3,3,2016-03-05 18:30:00,Admir Mehmedi,Cross
+81808,87,BlockedShot,0.740999984741211,0.4640000152587891,0.019054900854825974,Hakan Calhanoglu,a,189,OpenPlay,2015,RightFoot,1238,Augsburg,Bayer Leverkusen,3,3,2016-03-05 18:30:00,Karim Bellarabi,TakeOn
+81811,92,Goal,0.885,0.5,0.7576149702072144,Hakan Calhanoglu,a,189,Penalty,2015,RightFoot,1238,Augsburg,Bayer Leverkusen,3,3,2016-03-05 18:30:00,,Standard
+81987,12,BlockedShot,0.985,0.914000015258789,0.04219850152730942,Hakan Calhanoglu,h,189,DirectFreekick,2015,RightFoot,1253,Bayer Leverkusen,Hamburger SV,1,0,2016-03-13 18:30:00,,Standard
+82001,74,BlockedShot,0.7609999847412109,0.5609999847412109,0.07548049837350845,Hakan Calhanoglu,h,189,DirectFreekick,2015,RightFoot,1253,Bayer Leverkusen,Hamburger SV,1,0,2016-03-13 18:30:00,,Standard
+82462,42,BlockedShot,0.8480000305175781,0.68,0.0538908988237381,Hakan Calhanoglu,h,189,OpenPlay,2015,RightFoot,1264,Bayer Leverkusen,Wolfsburg,3,0,2016-04-01 22:30:00,Karim Bellarabi,Pass
+82463,48,MissedShots,0.795,0.6229999923706054,0.041391801089048386,Hakan Calhanoglu,h,189,OpenPlay,2015,RightFoot,1264,Bayer Leverkusen,Wolfsburg,3,0,2016-04-01 22:30:00,Julian Brandt,Pass
+82767,13,SavedShot,0.855,0.8269999694824218,0.05181020125746727,Hakan Calhanoglu,a,189,DirectFreekick,2015,RightFoot,1281,FC Cologne,Bayer Leverkusen,0,2,2016-04-10 19:30:00,,Standard
+82788,81,BlockedShot,0.7619999694824219,0.72,0.01653119921684265,Hakan Calhanoglu,a,189,OpenPlay,2015,RightFoot,1281,FC Cologne,Bayer Leverkusen,0,2,2016-04-10 19:30:00,Julian Brandt,Pass
+82793,93,ShotOnPost,0.7530000305175781,0.5420000076293945,0.07041429728269577,Hakan Calhanoglu,a,189,DirectFreekick,2015,RightFoot,1281,FC Cologne,Bayer Leverkusen,0,2,2016-04-10 19:30:00,,Standard
+82794,97,MissedShots,0.759000015258789,0.705,0.049164898693561554,Hakan Calhanoglu,a,189,DirectFreekick,2015,RightFoot,1281,FC Cologne,Bayer Leverkusen,0,2,2016-04-10 19:30:00,,Standard
+83336,38,SavedShot,0.7680000305175781,0.725999984741211,0.048900701105594635,Hakan Calhanoglu,h,189,DirectFreekick,2015,RightFoot,1307,Bayer Leverkusen,Hertha Berlin,2,1,2016-04-30 20:30:00,,Standard
+83341,46,SavedShot,0.74,0.534000015258789,0.06109609827399254,Hakan Calhanoglu,h,189,DirectFreekick,2015,RightFoot,1307,Bayer Leverkusen,Hertha Berlin,2,1,2016-04-30 20:30:00,,Standard
+83350,68,MissedShots,0.8380000305175781,0.5770000076293945,0.1159679964184761,Hakan Calhanoglu,h,189,OpenPlay,2015,LeftFoot,1307,Bayer Leverkusen,Hertha Berlin,2,1,2016-04-30 20:30:00,Karim Bellarabi,Pass
+83537,12,MissedShots,0.720999984741211,0.754000015258789,0.011629399843513966,Hakan Calhanoglu,a,189,OpenPlay,2015,RightFoot,1310,Borussia M.Gladbach,Bayer Leverkusen,2,1,2016-05-07 17:30:00,Robbie Kruse,Pass
+83540,32,BlockedShot,0.845999984741211,0.8919999694824219,0.012030400335788727,Hakan Calhanoglu,a,189,FromCorner,2015,RightFoot,1310,Borussia M.Gladbach,Bayer Leverkusen,2,1,2016-05-07 17:30:00,,None
+83550,58,BlockedShot,0.875999984741211,0.555,0.11209599673748016,Hakan Calhanoglu,a,189,OpenPlay,2015,RightFoot,1310,Borussia M.Gladbach,Bayer Leverkusen,2,1,2016-05-07 17:30:00,Robbie Kruse,Cross
+83551,58,SavedShot,0.889000015258789,0.580999984741211,0.1421470046043396,Hakan Calhanoglu,a,189,OpenPlay,2015,RightFoot,1310,Borussia M.Gladbach,Bayer Leverkusen,2,1,2016-05-07 17:30:00,,Rebound
+83557,71,SavedShot,0.8819999694824219,0.9569999694824218,0.029825199395418167,Hakan Calhanoglu,a,189,DirectFreekick,2015,RightFoot,1310,Borussia M.Gladbach,Bayer Leverkusen,2,1,2016-05-07 17:30:00,,Standard
+83885,80,MissedShots,0.735,0.779000015258789,0.03198599815368652,Hakan Calhanoglu,h,189,DirectFreekick,2015,RightFoot,1323,Bayer Leverkusen,Ingolstadt,3,2,2016-05-14 17:30:00,,Standard
+127719,55,MissedShots,0.8640000152587891,0.3039999961853027,0.04062490165233612,Hakan Calhanoglu,h,189,OpenPlay,2016,RightFoot,1341,Bayer Leverkusen,Hamburger SV,3,1,2016-09-10 17:30:00,Kevin Kampl,Pass
+127726,74,SavedShot,0.7380000305175781,0.875999984741211,0.010336600244045258,Hakan Calhanoglu,h,189,FromCorner,2016,RightFoot,1341,Bayer Leverkusen,Hamburger SV,3,1,2016-09-10 17:30:00,,None
+127728,81,BlockedShot,0.7559999847412109,0.7419999694824219,0.04180220142006874,Hakan Calhanoglu,h,189,DirectFreekick,2016,RightFoot,1341,Bayer Leverkusen,Hamburger SV,3,1,2016-09-10 17:30:00,,Standard
+127729,84,MissedShots,0.8590000152587891,0.6509999847412109,0.03164970129728317,Hakan Calhanoglu,h,189,OpenPlay,2016,RightFoot,1341,Bayer Leverkusen,Hamburger SV,3,1,2016-09-10 17:30:00,Benjamin Henrichs,Cross
+128386,62,SavedShot,0.85,0.675,0.042354799807071686,Hakan Calhanoglu,a,189,OpenPlay,2016,LeftFoot,1348,Eintracht Frankfurt,Bayer Leverkusen,2,1,2016-09-17 17:30:00,Chicharito,Pass
+128427,55,SavedShot,0.6990000152587891,0.49,0.04008080065250397,Hakan Calhanoglu,h,189,DirectFreekick,2016,RightFoot,1361,Bayer Leverkusen,Augsburg,0,0,2016-09-21 22:00:00,,Standard
+128847,2,MissedShots,0.740999984741211,0.754000015258789,0.035934798419475555,Hakan Calhanoglu,h,189,DirectFreekick,2016,RightFoot,1378,Bayer Leverkusen,Borussia Dortmund,2,0,2016-10-01 20:30:00,,Standard
+128862,72,SavedShot,0.8,0.5820000076293945,0.14133399724960327,Hakan Calhanoglu,h,189,OpenPlay,2016,RightFoot,1378,Bayer Leverkusen,Borussia Dortmund,2,0,2016-10-01 20:30:00,Kevin Kampl,TakeOn
+129208,10,MissedShots,0.749000015258789,0.5940000152587891,0.062040600925683975,Hakan Calhanoglu,a,189,DirectFreekick,2016,RightFoot,1387,Werder Bremen,Bayer Leverkusen,2,1,2016-10-15 20:30:00,,Standard
+129212,25,BlockedShot,0.8159999847412109,0.46900001525878904,0.05772490054368973,Hakan Calhanoglu,a,189,OpenPlay,2016,RightFoot,1387,Werder Bremen,Bayer Leverkusen,2,1,2016-10-15 20:30:00,Wendell,Pass
+129213,26,Goal,0.915,0.5359999847412109,0.08613879978656769,Hakan Calhanoglu,a,189,OpenPlay,2016,Head,1387,Werder Bremen,Bayer Leverkusen,2,1,2016-10-15 20:30:00,Kevin Kampl,Cross
+129214,27,SavedShot,0.7819999694824219,0.6020000076293945,0.029582399874925613,Hakan Calhanoglu,a,189,OpenPlay,2016,LeftFoot,1387,Werder Bremen,Bayer Leverkusen,2,1,2016-10-15 20:30:00,Kevin Volland,Pass
+129219,36,MissedShots,0.7780000305175782,0.5609999847412109,0.029063299298286438,Hakan Calhanoglu,a,189,OpenPlay,2016,RightFoot,1387,Werder Bremen,Bayer Leverkusen,2,1,2016-10-15 20:30:00,Charles Aránguiz,Pass
+129220,42,SavedShot,0.720999984741211,0.38799999237060545,0.013719599694013596,Hakan Calhanoglu,a,189,OpenPlay,2016,RightFoot,1387,Werder Bremen,Bayer Leverkusen,2,1,2016-10-15 20:30:00,Kevin Volland,LayOff
+129553,9,BlockedShot,0.7080000305175781,0.6759999847412109,0.009566379711031914,Hakan Calhanoglu,h,189,OpenPlay,2016,RightFoot,2810,Bayer Leverkusen,Darmstadt,3,2,2016-11-05 18:30:00,,None
+129557,31,Goal,0.784000015258789,0.27100000381469724,0.020050199702382088,Hakan Calhanoglu,h,189,OpenPlay,2016,RightFoot,2810,Bayer Leverkusen,Darmstadt,3,2,2016-11-05 18:30:00,Julian Brandt,Pass
+129560,47,BlockedShot,0.7230000305175781,0.7119999694824218,0.01260439958423376,Hakan Calhanoglu,h,189,OpenPlay,2016,RightFoot,2810,Bayer Leverkusen,Darmstadt,3,2,2016-11-05 18:30:00,Julian Brandt,Pass
+129561,48,BlockedShot,0.759000015258789,0.5109999847412109,0.026231199502944946,Hakan Calhanoglu,h,189,OpenPlay,2016,LeftFoot,2810,Bayer Leverkusen,Darmstadt,3,2,2016-11-05 18:30:00,Julian Baumgartlinger,Pass
+129807,8,SavedShot,0.6809999847412109,0.395,0.03201029822230339,Hakan Calhanoglu,h,189,DirectFreekick,2016,RightFoot,2815,Bayer Leverkusen,RasenBallsport Leipzig,2,3,2016-11-18 23:30:00,,Standard
+129815,53,SavedShot,0.885,0.5,0.7577769756317139,Hakan Calhanoglu,h,189,Penalty,2016,RightFoot,2815,Bayer Leverkusen,RasenBallsport Leipzig,2,3,2016-11-18 23:30:00,,Standard
+130847,6,MissedShots,0.899000015258789,0.7069999694824218,0.046932999044656754,Hakan Calhanoglu,a,189,OpenPlay,2016,LeftFoot,2830,Bayern Munich,Bayer Leverkusen,2,1,2016-11-26 21:30:00,,None
+130850,25,SavedShot,0.7759999847412109,0.6229999923706054,0.023838700726628304,Hakan Calhanoglu,a,189,OpenPlay,2016,LeftFoot,2830,Bayern Munich,Bayer Leverkusen,2,1,2016-11-26 21:30:00,Admir Mehmedi,Pass
+130855,34,Goal,0.93,0.6530000305175782,0.34105899930000305,Hakan Calhanoglu,a,189,OpenPlay,2016,LeftFoot,2830,Bayern Munich,Bayer Leverkusen,2,1,2016-11-26 21:30:00,Julian Brandt,Throughball
+130859,59,BlockedShot,0.8230000305175781,0.63,0.044763099402189255,Hakan Calhanoglu,a,189,OpenPlay,2016,RightFoot,2830,Bayern Munich,Bayer Leverkusen,2,1,2016-11-26 21:30:00,Charles Aránguiz,Pass
+130861,61,BlockedShot,0.75,0.6480000305175782,0.017746200785040855,Hakan Calhanoglu,a,189,OpenPlay,2016,RightFoot,2830,Bayern Munich,Bayer Leverkusen,2,1,2016-11-26 21:30:00,Kevin Volland,Pass
+130869,87,BlockedShot,0.735999984741211,0.6509999847412109,0.016150599345564842,Hakan Calhanoglu,a,189,OpenPlay,2016,RightFoot,2830,Bayern Munich,Bayer Leverkusen,2,1,2016-11-26 21:30:00,Wendell,Pass
+130871,93,SavedShot,0.7340000152587891,0.28,0.03804929926991463,Hakan Calhanoglu,a,189,DirectFreekick,2016,RightFoot,2830,Bayern Munich,Bayer Leverkusen,2,1,2016-11-26 21:30:00,,Standard
+130404,59,Goal,0.899000015258789,0.3920000076293945,0.3829289972782135,Hakan Calhanoglu,h,189,OpenPlay,2016,RightFoot,3195,Bayer Leverkusen,Freiburg,1,1,2016-12-03 18:30:00,Julian Brandt,Pass
+130405,73,SavedShot,0.740999984741211,0.6459999847412109,0.016180599108338356,Hakan Calhanoglu,h,189,OpenPlay,2016,RightFoot,3195,Bayer Leverkusen,Freiburg,1,1,2016-12-03 18:30:00,Julian Brandt,BallRecovery
+130411,80,BlockedShot,0.8380000305175781,0.2520000076293945,0.04657530039548874,Hakan Calhanoglu,h,189,OpenPlay,2016,RightFoot,3195,Bayer Leverkusen,Freiburg,1,1,2016-12-03 18:30:00,Chicharito,Pass
+130415,90,MissedShots,0.7530000305175781,0.29399999618530276,0.016184000298380852,Hakan Calhanoglu,h,189,OpenPlay,2016,RightFoot,3195,Bayer Leverkusen,Freiburg,1,1,2016-12-03 18:30:00,Joel Pohjanpalo,Pass
+131024,4,BlockedShot,0.8030000305175782,0.509000015258789,0.1388310045003891,Hakan Calhanoglu,a,189,DirectFreekick,2016,RightFoot,3209,Schalke 04,Bayer Leverkusen,0,1,2016-12-11 20:30:00,,Standard
+131038,65,BlockedShot,0.774000015258789,0.7030000305175781,0.016872800886631012,Hakan Calhanoglu,a,189,OpenPlay,2016,RightFoot,3209,Schalke 04,Bayer Leverkusen,0,1,2016-12-11 20:30:00,Julian Brandt,Pass
+130228,2,BlockedShot,0.95,0.27700000762939453,0.05017530173063278,Hakan Calhanoglu,a,189,OpenPlay,2016,RightFoot,3226,FC Cologne,Bayer Leverkusen,1,1,2016-12-21 23:00:00,,Interception
+130232,12,SavedShot,0.7809999847412109,0.6659999847412109,0.02488820068538189,Hakan Calhanoglu,a,189,OpenPlay,2016,LeftFoot,3226,FC Cologne,Bayer Leverkusen,1,1,2016-12-21 23:00:00,Wendell,Pass
+130234,23,SavedShot,0.7709999847412109,0.73,0.016984300687909126,Hakan Calhanoglu,a,189,OpenPlay,2016,RightFoot,3226,FC Cologne,Bayer Leverkusen,1,1,2016-12-21 23:00:00,Kai Havertz,Pass
+130239,30,MissedShots,0.92,0.55,0.13044700026512146,Hakan Calhanoglu,a,189,FromCorner,2016,LeftFoot,3226,FC Cologne,Bayer Leverkusen,1,1,2016-12-21 23:00:00,Kai Havertz,Rebound
+130242,42,SavedShot,0.92,0.5729999923706055,0.43293100595474243,Hakan Calhanoglu,a,189,OpenPlay,2016,RightFoot,3226,FC Cologne,Bayer Leverkusen,1,1,2016-12-21 23:00:00,Wendell,Pass
+130250,75,BlockedShot,0.795,0.66,0.023333100602030754,Hakan Calhanoglu,a,189,OpenPlay,2016,RightFoot,3226,FC Cologne,Bayer Leverkusen,1,1,2016-12-21 23:00:00,Admir Mehmedi,Pass
+130255,85,BlockedShot,0.655,0.7340000152587891,0.023736100643873215,Hakan Calhanoglu,a,189,DirectFreekick,2016,RightFoot,3226,FC Cologne,Bayer Leverkusen,1,1,2016-12-21 23:00:00,,Standard
+130466,29,MissedShots,0.9390000152587891,0.34200000762939453,0.09329839795827866,Hakan Calhanoglu,h,189,OpenPlay,2016,RightFoot,3729,Bayer Leverkusen,Hertha Berlin,3,1,2017-01-22 17:30:00,Karim Bellarabi,Pass
+130467,35,Goal,0.885,0.5,0.7576959729194641,Hakan Calhanoglu,h,189,Penalty,2016,RightFoot,3729,Bayer Leverkusen,Hertha Berlin,3,1,2017-01-22 17:30:00,,Standard
+130476,67,SavedShot,0.7819999694824219,0.46799999237060547,0.04953639954328537,Hakan Calhanoglu,h,189,OpenPlay,2016,RightFoot,3729,Bayer Leverkusen,Hertha Berlin,3,1,2017-01-22 17:30:00,,None
+130479,83,SavedShot,0.8640000152587891,0.6930000305175781,0.054475799202919006,Hakan Calhanoglu,h,189,OpenPlay,2016,RightFoot,3729,Bayer Leverkusen,Hertha Berlin,3,1,2017-01-22 17:30:00,Wendell,Pass
+130481,87,Goal,0.8969999694824219,0.580999984741211,0.10426899790763855,Hakan Calhanoglu,h,189,OpenPlay,2016,RightFoot,3729,Bayer Leverkusen,Hertha Berlin,3,1,2017-01-22 17:30:00,Kevin Kampl,Chipped
+130483,91,SavedShot,0.905,0.22899999618530273,0.04809889942407608,Hakan Calhanoglu,h,189,OpenPlay,2016,RightFoot,3729,Bayer Leverkusen,Hertha Berlin,3,1,2017-01-22 17:30:00,Kevin Kampl,Pass
+131071,91,MissedShots,0.87,0.8430000305175781,0.01887499913573265,Hakan Calhanoglu,h,189,FromCorner,2016,RightFoot,3737,Bayer Leverkusen,Borussia M.Gladbach,2,3,2017-01-28 20:30:00,Julian Brandt,Pass
+172617,92,SavedShot,0.7240000152587891,0.495,0.04869209975004196,Hakan Calhanoglu,a,189,DirectFreekick,2017,RightFoot,7508,Crotone,AC Milan,0,3,2017-08-20 19:45:00,,Standard
+172982,52,MissedShots,0.815,0.7909999847412109,0.023426299914717674,Hakan Calhanoglu,h,189,OpenPlay,2017,RightFoot,7513,AC Milan,Cagliari,2,1,2017-08-27 19:45:00,Fabio Borini,Pass
+173314,55,BlockedShot,0.6909999847412109,0.4620000076293945,0.034892600029706955,Hakan Calhanoglu,a,189,DirectFreekick,2017,RightFoot,7526,Lazio,AC Milan,4,1,2017-09-10 15:00:00,,Standard
+173315,55,BlockedShot,0.740999984741211,0.455,0.014105400070548058,Hakan Calhanoglu,a,189,SetPiece,2017,LeftFoot,7526,Lazio,AC Milan,4,1,2017-09-10 15:00:00,,Rebound
+173319,65,BlockedShot,0.845999984741211,0.5259999847412109,0.0689741000533104,Hakan Calhanoglu,a,189,OpenPlay,2017,RightFoot,7526,Lazio,AC Milan,4,1,2017-09-10 15:00:00,Nikola Kalinic,BallTouch
+173465,76,MissedShots,0.909000015258789,0.645,0.09547439962625504,Hakan Calhanoglu,h,189,OpenPlay,2017,LeftFoot,7533,AC Milan,Udinese,2,1,2017-09-17 14:00:00,Patrick Cutrone,Pass
+173828,6,BlockedShot,0.6890000152587891,0.5609999847412109,0.03382189944386482,Hakan Calhanoglu,h,189,DirectFreekick,2017,RightFoot,7547,AC Milan,SPAL 2013,2,0,2017-09-20 19:45:00,,Standard
+173843,45,MissedShots,0.7919999694824219,0.649000015258789,0.03918420150876045,Hakan Calhanoglu,h,189,OpenPlay,2017,RightFoot,7547,AC Milan,SPAL 2013,2,0,2017-09-20 19:45:00,,None
+174291,17,BlockedShot,0.7809999847412109,0.705,0.022867999970912933,Hakan Calhanoglu,h,189,OpenPlay,2017,RightFoot,7564,AC Milan,Roma,0,2,2017-10-01 17:00:00,Nikola Kalinic,Pass
+174295,32,MissedShots,0.7859999847412109,0.5690000152587891,0.033950500190258026,Hakan Calhanoglu,h,189,OpenPlay,2017,RightFoot,7564,AC Milan,Roma,0,2,2017-10-01 17:00:00,Ricardo Rodríguez,Pass
+174298,40,MissedShots,0.769000015258789,0.66,0.02023239992558956,Hakan Calhanoglu,h,189,OpenPlay,2017,RightFoot,7564,AC Milan,Roma,0,2,2017-10-01 17:00:00,André Silva,Pass
+174300,43,BlockedShot,0.7780000305175782,0.6309999847412109,0.02220180071890354,Hakan Calhanoglu,h,189,OpenPlay,2017,RightFoot,7564,AC Milan,Roma,0,2,2017-10-01 17:00:00,Nikola Kalinic,Pass
+174304,53,BlockedShot,0.8109999847412109,0.515,0.05569550022482872,Hakan Calhanoglu,h,189,OpenPlay,2017,RightFoot,7564,AC Milan,Roma,0,2,2017-10-01 17:00:00,André Silva,Pass
+174308,67,BlockedShot,0.8130000305175781,0.48,0.048868101090192795,Hakan Calhanoglu,h,189,OpenPlay,2017,RightFoot,7564,AC Milan,Roma,0,2,2017-10-01 17:00:00,André Silva,Pass
+174821,1,MissedShots,0.89,0.4159999847412109,0.038307201117277145,Hakan Calhanoglu,h,189,OpenPlay,2017,Head,7583,AC Milan,Genoa,0,0,2017-10-22 14:00:00,Giacomo Bonaventura,Cross
+174829,17,SavedShot,0.8480000305175781,0.27700000762939453,0.028667600825428963,Hakan Calhanoglu,h,189,OpenPlay,2017,LeftFoot,7583,AC Milan,Genoa,0,0,2017-10-22 14:00:00,,None
+175040,11,MissedShots,0.759000015258789,0.555,0.02733430080115795,Hakan Calhanoglu,a,189,OpenPlay,2017,LeftFoot,7592,Chievo,AC Milan,1,4,2017-10-25 19:45:00,Nikola Kalinic,LayOff
+175042,16,BlockedShot,0.95,0.41,0.13703100383281708,Hakan Calhanoglu,a,189,OpenPlay,2017,RightFoot,7592,Chievo,AC Milan,1,4,2017-10-25 19:45:00,Suso,Pass
+175052,52,MissedShots,0.7380000305175781,0.4159999847412109,0.028919100761413574,Hakan Calhanoglu,a,189,OpenPlay,2017,RightFoot,7592,Chievo,AC Milan,1,4,2017-10-25 19:45:00,Lucas Biglia,Pass
+175053,54,Goal,0.850999984741211,0.639000015258789,0.26971301436424255,Hakan Calhanoglu,a,189,OpenPlay,2017,LeftFoot,7592,Chievo,AC Milan,1,4,2017-10-25 19:45:00,Franck Kessié,Pass
+175058,66,MissedShots,0.745,0.82,0.012001699768006802,Hakan Calhanoglu,a,189,OpenPlay,2017,RightFoot,7592,Chievo,AC Milan,1,4,2017-10-25 19:45:00,,None
+175301,8,BlockedShot,0.769000015258789,0.28299999237060547,0.01753300055861473,Hakan Calhanoglu,h,189,OpenPlay,2017,RightFoot,7602,AC Milan,Juventus,0,2,2017-10-28 17:00:00,Suso,Pass
+175311,45,BlockedShot,0.9019999694824219,0.5609999847412109,0.031747400760650635,Hakan Calhanoglu,h,189,OpenPlay,2017,Head,7602,AC Milan,Juventus,0,2,2017-10-28 17:00:00,,Rebound
+175317,65,SavedShot,0.759000015258789,0.6759999847412109,0.010943599976599216,Hakan Calhanoglu,h,189,OpenPlay,2017,RightFoot,7602,AC Milan,Juventus,0,2,2017-10-28 17:00:00,,None
+175692,1,SavedShot,0.7430000305175781,0.3820000076293945,0.05188370123505592,Hakan Calhanoglu,a,189,DirectFreekick,2017,RightFoot,7618,Sassuolo,AC Milan,0,2,2017-11-05 19:45:00,,Standard
+175696,19,SavedShot,0.7580000305175781,0.6959999847412109,0.015739699825644493,Hakan Calhanoglu,a,189,OpenPlay,2017,RightFoot,7618,Sassuolo,AC Milan,0,2,2017-11-05 19:45:00,Suso,Pass
+176176,74,MissedShots,0.8490000152587891,0.55,0.06703309714794159,Hakan Calhanoglu,h,189,OpenPlay,2017,RightFoot,7636,AC Milan,Torino,0,0,2017-11-26 14:00:00,,None
+176177,75,BlockedShot,0.754000015258789,0.62,0.02206519991159439,Hakan Calhanoglu,h,189,OpenPlay,2017,RightFoot,7636,AC Milan,Torino,0,0,2017-11-26 14:00:00,Nikola Kalinic,Pass
+176183,91,SavedShot,0.8730000305175781,0.6090000152587891,0.07710489630699158,Hakan Calhanoglu,h,189,OpenPlay,2017,RightFoot,7636,AC Milan,Torino,0,0,2017-11-26 14:00:00,André Silva,BlockedPass
+185819,62,BlockedShot,0.86,0.6609999847412109,0.05591069906949997,Hakan Calhanoglu,a,189,OpenPlay,2017,LeftFoot,7683,Fiorentina,AC Milan,1,1,2017-12-30 11:30:00,,Interception
+185823,73,Goal,0.960999984741211,0.5429999923706055,0.6214249730110168,Hakan Calhanoglu,a,189,OpenPlay,2017,RightFoot,7683,Fiorentina,AC Milan,1,1,2017-12-30 11:30:00,,Rebound
+185828,85,BlockedShot,0.7559999847412109,0.6079999923706054,0.01834459975361824,Hakan Calhanoglu,a,189,OpenPlay,2017,RightFoot,7683,Fiorentina,AC Milan,1,1,2017-12-30 11:30:00,,None
+186779,2,BlockedShot,0.87,0.6840000152587891,0.04912229999899864,Hakan Calhanoglu,h,189,OpenPlay,2017,RightFoot,7691,AC Milan,Crotone,1,0,2018-01-06 14:00:00,Giacomo Bonaventura,Pass
+186781,9,BlockedShot,0.9580000305175781,0.605,0.09232550114393234,Hakan Calhanoglu,h,189,OpenPlay,2017,LeftFoot,7691,AC Milan,Crotone,1,0,2018-01-06 14:00:00,Patrick Cutrone,None
+186786,24,SavedShot,0.88,0.6990000152587891,0.06446570158004761,Hakan Calhanoglu,h,189,OpenPlay,2017,LeftFoot,7691,AC Milan,Crotone,1,0,2018-01-06 14:00:00,,TakeOn
+186793,41,SavedShot,0.91,0.41,0.03156210109591484,Hakan Calhanoglu,h,189,OpenPlay,2017,Head,7691,AC Milan,Crotone,1,0,2018-01-06 14:00:00,Suso,End
+186803,72,BlockedShot,0.889000015258789,0.41700000762939454,0.12164299935102463,Hakan Calhanoglu,h,189,OpenPlay,2017,RightFoot,7691,AC Milan,Crotone,1,0,2018-01-06 14:00:00,Davide Calabria,Pass
+186806,77,MissedShots,0.745999984741211,0.34,0.02233560010790825,Hakan Calhanoglu,h,189,OpenPlay,2017,RightFoot,7691,AC Milan,Crotone,1,0,2018-01-06 14:00:00,Giacomo Bonaventura,Pass
+189417,60,MissedShots,0.985,0.7019999694824218,0.06257130205631256,Hakan Calhanoglu,a,189,OpenPlay,2017,LeftFoot,7704,Cagliari,AC Milan,1,2,2018-01-21 17:00:00,Suso,Pass
+189422,83,MissedShots,0.7319999694824219,0.5790000152587891,0.049923598766326904,Hakan Calhanoglu,a,189,DirectFreekick,2017,RightFoot,7704,Cagliari,AC Milan,1,2,2018-01-21 17:00:00,,Standard
+190467,9,SavedShot,0.7619999694824219,0.4129999923706055,0.02983039990067482,Hakan Calhanoglu,h,189,OpenPlay,2017,RightFoot,7716,AC Milan,Lazio,2,1,2018-01-28 14:00:00,Luca Antonelli,TakeOn
+190473,40,SavedShot,0.8059999847412109,0.635,0.03417620062828064,Hakan Calhanoglu,h,189,OpenPlay,2017,RightFoot,7716,AC Milan,Lazio,2,1,2018-01-28 14:00:00,Suso,Pass
+195662,17,BlockedShot,0.755,0.6759999847412109,0.04936160147190094,Hakan Calhanoglu,a,189,DirectFreekick,2017,RightFoot,7723,Udinese,AC Milan,1,1,2018-02-04 14:00:00,,Standard
+195665,26,MissedShots,0.779000015258789,0.3770000076293945,0.025907399132847786,Hakan Calhanoglu,a,189,OpenPlay,2017,RightFoot,7723,Udinese,AC Milan,1,1,2018-02-04 14:00:00,André Silva,BallTouch
+195672,57,BlockedShot,0.8830000305175781,0.2539999961853027,0.06156479939818382,Hakan Calhanoglu,a,189,OpenPlay,2017,RightFoot,7723,Udinese,AC Milan,1,1,2018-02-04 14:00:00,,TakeOn
+195675,66,BlockedShot,0.8109999847412109,0.47200000762939454,0.0598641000688076,Hakan Calhanoglu,a,189,OpenPlay,2017,LeftFoot,7723,Udinese,AC Milan,1,1,2018-02-04 14:00:00,Suso,Pass
+195955,32,MissedShots,0.76,0.5879999923706055,0.037302300333976746,Hakan Calhanoglu,a,189,OpenPlay,2017,RightFoot,7737,SPAL 2013,AC Milan,0,4,2018-02-10 14:00:00,Giacomo Bonaventura,LayOff
+195973,72,SavedShot,0.9159999847412109,0.5629999923706055,0.043856799602508545,Hakan Calhanoglu,a,189,OpenPlay,2017,Head,7737,SPAL 2013,AC Milan,0,4,2018-02-10 14:00:00,Suso,Aerial
+196952,29,BlockedShot,0.8030000305175782,0.500999984741211,0.06542419642210007,Hakan Calhanoglu,h,189,OpenPlay,2017,RightFoot,7748,AC Milan,Sampdoria,1,0,2018-02-18 19:45:00,Giacomo Bonaventura,Pass
+196954,35,SavedShot,0.765,0.6270000076293946,0.03520959988236427,Hakan Calhanoglu,h,189,OpenPlay,2017,RightFoot,7748,AC Milan,Sampdoria,1,0,2018-02-18 19:45:00,Giacomo Bonaventura,TakeOn
+196958,51,ShotOnPost,0.8019999694824219,0.485,0.05770599842071533,Hakan Calhanoglu,h,189,OpenPlay,2017,RightFoot,7748,AC Milan,Sampdoria,1,0,2018-02-18 19:45:00,Giacomo Bonaventura,Pass
+196960,61,BlockedShot,0.6890000152587891,0.615999984741211,0.0319398008286953,Hakan Calhanoglu,h,189,DirectFreekick,2017,RightFoot,7748,AC Milan,Sampdoria,1,0,2018-02-18 19:45:00,,Standard
+196961,68,MissedShots,0.9119999694824219,0.7480000305175781,0.06581559777259827,Hakan Calhanoglu,h,189,OpenPlay,2017,LeftFoot,7748,AC Milan,Sampdoria,1,0,2018-02-18 19:45:00,Giacomo Bonaventura,Pass
+196963,75,SavedShot,0.8209999847412109,0.5129999923706055,0.07112950086593628,Hakan Calhanoglu,h,189,OpenPlay,2017,RightFoot,7748,AC Milan,Sampdoria,1,0,2018-02-18 19:45:00,,None
+196965,83,SavedShot,0.775,0.779000015258789,0.03897269815206528,Hakan Calhanoglu,h,189,DirectFreekick,2017,RightFoot,7748,AC Milan,Sampdoria,1,0,2018-02-18 19:45:00,,Standard
+196968,90,MissedShots,0.7980000305175782,0.7609999847412109,0.016807299107313156,Hakan Calhanoglu,h,189,FromCorner,2017,RightFoot,7748,AC Milan,Sampdoria,1,0,2018-02-18 19:45:00,Manuel Locatelli,Pass
+198089,54,SavedShot,0.8109999847412109,0.634000015258789,0.01654439978301525,Hakan Calhanoglu,a,189,FromCorner,2017,LeftFoot,7753,Roma,AC Milan,0,2,2018-02-25 19:45:00,,Aerial
+198090,56,MissedShots,0.9119999694824219,0.7090000152587891,0.06179559975862503,Hakan Calhanoglu,a,189,OpenPlay,2017,LeftFoot,7753,Roma,AC Milan,0,2,2018-02-25 19:45:00,Suso,Pass
+198094,75,MissedShots,0.9669999694824218,0.5929999923706055,0.13254499435424805,Hakan Calhanoglu,a,189,OpenPlay,2017,RightFoot,7753,Roma,AC Milan,0,2,2018-02-25 19:45:00,Suso,Cross
+200857,28,SavedShot,0.769000015258789,0.5209999847412109,0.027682900428771973,Hakan Calhanoglu,a,189,OpenPlay,2017,LeftFoot,7773,Genoa,AC Milan,0,1,2018-03-11 17:00:00,Suso,Pass
+200858,35,SavedShot,0.745,0.5109999847412109,0.06156139820814133,Hakan Calhanoglu,a,189,DirectFreekick,2017,RightFoot,7773,Genoa,AC Milan,0,1,2018-03-11 17:00:00,,Standard
+200862,44,MissedShots,0.8180000305175781,0.5370000076293945,0.05209439992904663,Hakan Calhanoglu,a,189,OpenPlay,2017,RightFoot,7773,Genoa,AC Milan,0,1,2018-03-11 17:00:00,,None
+200868,61,BlockedShot,0.8130000305175781,0.72,0.025520499795675278,Hakan Calhanoglu,a,189,OpenPlay,2017,RightFoot,7773,Genoa,AC Milan,0,1,2018-03-11 17:00:00,Alessio Romagnoli,Pass
+202009,9,Goal,0.9180000305175782,0.5629999923706055,0.4738380014896393,Hakan Calhanoglu,h,189,OpenPlay,2017,RightFoot,7782,AC Milan,Chievo,3,2,2018-03-18 14:00:00,,None
+202015,35,MissedShots,0.765,0.3659999847412109,0.022324200719594955,Hakan Calhanoglu,h,189,OpenPlay,2017,RightFoot,7782,AC Milan,Chievo,3,2,2018-03-18 14:00:00,Leonardo Bonucci,Pass
+202025,68,BlockedShot,0.9269999694824219,0.7140000152587891,0.07675330340862274,Hakan Calhanoglu,h,189,OpenPlay,2017,LeftFoot,7782,AC Milan,Chievo,3,2,2018-03-18 14:00:00,André Silva,Pass
+202027,73,SavedShot,0.769000015258789,0.7169999694824218,0.041909798979759216,Hakan Calhanoglu,h,189,OpenPlay,2017,RightFoot,7782,AC Milan,Chievo,3,2,2018-03-18 14:00:00,Suso,TakeOn
+202031,89,BlockedShot,0.919000015258789,0.6990000152587891,0.11412400007247925,Hakan Calhanoglu,h,189,OpenPlay,2017,RightFoot,7782,AC Milan,Chievo,3,2,2018-03-18 14:00:00,Mateo Musacchio,Chipped
+204990,8,MissedShots,0.794000015258789,0.6869999694824219,0.01590150035917759,Hakan Calhanoglu,a,189,OpenPlay,2017,RightFoot,7792,Juventus,AC Milan,3,1,2018-03-31 19:45:00,Franck Kessié,Chipped
+204997,54,ShotOnPost,0.7680000305175781,0.720999984741211,0.017719300463795662,Hakan Calhanoglu,a,189,OpenPlay,2017,RightFoot,7792,Juventus,AC Milan,3,1,2018-03-31 19:45:00,André Silva,Pass
+204999,56,SavedShot,0.750999984741211,0.7169999694824218,0.010443000122904778,Hakan Calhanoglu,a,189,OpenPlay,2017,RightFoot,7792,Juventus,AC Milan,3,1,2018-03-31 19:45:00,Alessio Romagnoli,Chipped
+207810,12,SavedShot,0.7230000305175781,0.6270000076293946,0.016118399798870087,Hakan Calhanoglu,h,189,OpenPlay,2017,RightFoot,7808,AC Milan,Sassuolo,1,1,2018-04-08 18:45:00,Suso,Pass
+207822,48,BlockedShot,0.765,0.3840000152587891,0.017268899828195572,Hakan Calhanoglu,h,189,FromCorner,2017,RightFoot,7808,AC Milan,Sassuolo,1,1,2018-04-08 18:45:00,,None
+207828,69,MissedShots,0.7290000152587891,0.580999984741211,0.020447799935936928,Hakan Calhanoglu,h,189,OpenPlay,2017,RightFoot,7808,AC Milan,Sassuolo,1,1,2018-04-08 18:45:00,Ricardo Rodríguez,Pass
+207835,91,MissedShots,0.815,0.345,0.0292665995657444,Hakan Calhanoglu,h,189,FromCorner,2017,RightFoot,7808,AC Milan,Sassuolo,1,1,2018-04-08 18:45:00,Franck Kessié,Pass
+209081,1,BlockedShot,0.7569999694824219,0.624000015258789,0.021477099508047104,Hakan Calhanoglu,h,189,OpenPlay,2017,RightFoot,7813,AC Milan,Napoli,0,0,2018-04-15 13:00:00,Giacomo Bonaventura,TakeOn
+209089,25,MissedShots,0.909000015258789,0.6020000076293945,0.037125200033187866,Hakan Calhanoglu,h,189,OpenPlay,2017,Head,7813,AC Milan,Napoli,0,0,2018-04-15 13:00:00,,None
+209093,38,SavedShot,0.784000015258789,0.40400001525878904,0.01539700012654066,Hakan Calhanoglu,h,189,FromCorner,2017,RightFoot,7813,AC Milan,Napoli,0,0,2018-04-15 13:00:00,,Aerial
+212268,33,Goal,0.8009999847412109,0.3970000076293945,0.03876959905028343,Hakan Calhanoglu,a,189,OpenPlay,2017,RightFoot,7844,Bologna,AC Milan,1,2,2018-04-29 13:00:00,Patrick Cutrone,Pass
+213431,9,Goal,0.85,0.5220000076293946,0.08823160082101822,Hakan Calhanoglu,h,189,OpenPlay,2017,RightFoot,7854,AC Milan,Verona,4,1,2018-05-05 17:00:00,Suso,Pass
+213432,14,MissedShots,0.8530000305175781,0.5529999923706055,0.12055999785661697,Hakan Calhanoglu,h,189,OpenPlay,2017,RightFoot,7854,AC Milan,Verona,4,1,2018-05-05 17:00:00,Ignazio Abate,TakeOn
+213433,17,SavedShot,0.775,0.6270000076293946,0.03099999949336052,Hakan Calhanoglu,h,189,OpenPlay,2017,RightFoot,7854,AC Milan,Verona,4,1,2018-05-05 17:00:00,Giacomo Bonaventura,Pass
+213440,37,MissedShots,0.9030000305175782,0.6659999847412109,0.056291598826646805,Hakan Calhanoglu,h,189,FromCorner,2017,LeftFoot,7854,AC Milan,Verona,4,1,2018-05-05 17:00:00,,Rebound
+215834,52,BlockedShot,0.92,0.66,0.08073370158672333,Hakan Calhanoglu,a,189,OpenPlay,2017,RightFoot,7864,Atalanta,AC Milan,1,1,2018-05-13 17:00:00,Riccardo Montolivo,Pass
+216566,22,Goal,0.769000015258789,0.33299999237060546,0.05817050114274025,Hakan Calhanoglu,h,189,DirectFreekick,2017,RightFoot,7873,AC Milan,Fiorentina,5,1,2018-05-20 14:00:00,,Standard
+216576,50,MissedShots,0.8680000305175781,0.655,0.08493340015411377,Hakan Calhanoglu,h,189,OpenPlay,2017,RightFoot,7873,AC Milan,Fiorentina,5,1,2018-05-20 14:00:00,Franck Kessié,Chipped
+221296,8,SavedShot,0.7769999694824219,0.8019999694824219,0.035980500280857086,Hakan Calhanoglu,h,189,DirectFreekick,2018,RightFoot,9597,AC Milan,Roma,2,1,2018-08-31 21:30:00,,Standard
+221302,23,MissedShots,0.7480000305175781,0.62,0.014310799539089203,Hakan Calhanoglu,h,189,OpenPlay,2018,RightFoot,9597,AC Milan,Roma,2,1,2018-08-31 21:30:00,,Rebound
+221313,65,SavedShot,0.889000015258789,0.7280000305175781,0.040850698947906494,Hakan Calhanoglu,h,189,OpenPlay,2018,RightFoot,9597,AC Milan,Roma,2,1,2018-08-31 21:30:00,Giacomo Bonaventura,Pass
+221314,65,MissedShots,0.8969999694824219,0.6990000152587891,0.037536200135946274,Hakan Calhanoglu,h,189,OpenPlay,2018,RightFoot,9597,AC Milan,Roma,2,1,2018-08-31 21:30:00,,Rebound
+224438,10,MissedShots,0.8930000305175781,0.715999984741211,0.045348599553108215,Hakan Calhanoglu,a,189,OpenPlay,2018,RightFoot,9607,Cagliari,AC Milan,1,1,2018-09-16 18:30:00,Giacomo Bonaventura,Pass
+225993,67,MissedShots,0.975,0.5570000076293945,0.5848489999771118,Hakan Calhanoglu,h,189,OpenPlay,2018,RightFoot,9622,AC Milan,Atalanta,2,2,2018-09-23 16:00:00,Suso,Cross
+225994,70,MissedShots,0.7809999847412109,0.3029999923706055,0.026577599346637726,Hakan Calhanoglu,h,189,OpenPlay,2018,RightFoot,9622,AC Milan,Atalanta,2,2,2018-09-23 16:00:00,Suso,Pass
+225997,81,BlockedShot,0.8619999694824219,0.5429999923706055,0.07170350104570389,Hakan Calhanoglu,h,189,OpenPlay,2018,LeftFoot,9622,AC Milan,Atalanta,2,2,2018-09-23 16:00:00,Gonzalo Higuaín,Cross
+227519,3,MissedShots,0.7619999694824219,0.23299999237060548,0.017451999709010124,Hakan Calhanoglu,a,189,OpenPlay,2018,RightFoot,9629,Empoli,AC Milan,1,1,2018-09-27 19:00:00,Suso,Pass
+227536,62,BlockedShot,0.855,0.6840000152587891,0.059404101222753525,Hakan Calhanoglu,a,189,OpenPlay,2018,RightFoot,9629,Empoli,AC Milan,1,1,2018-09-27 19:00:00,Giacomo Bonaventura,Pass
+228891,52,SavedShot,0.8190000152587891,0.23700000762939452,0.029436299577355385,Hakan Calhanoglu,a,189,OpenPlay,2018,RightFoot,9639,Sassuolo,AC Milan,1,4,2018-09-30 18:30:00,Gianluigi Donnarumma,Pass
+228895,59,BlockedShot,0.785,0.634000015258789,0.021881500259041786,Hakan Calhanoglu,a,189,OpenPlay,2018,RightFoot,9639,Sassuolo,AC Milan,1,4,2018-09-30 18:30:00,Samu Castillejo,TakeOn
+252232,4,BlockedShot,0.9,0.6329999923706054,0.05532659962773323,Hakan Calhanoglu,h,189,OpenPlay,2018,RightFoot,9652,AC Milan,Chievo,3,1,2018-10-07 13:00:00,Ignazio Abate,Cross
+252239,18,BlockedShot,0.94,0.6509999847412109,0.29510998725891113,Hakan Calhanoglu,h,189,OpenPlay,2018,LeftFoot,9652,AC Milan,Chievo,3,1,2018-10-07 13:00:00,,Rebound
+252256,53,MissedShots,0.745999984741211,0.45,0.030000200495123863,Hakan Calhanoglu,h,189,OpenPlay,2018,LeftFoot,9652,AC Milan,Chievo,3,1,2018-10-07 13:00:00,Gonzalo Higuaín,TakeOn
+252505,8,MissedShots,0.7880000305175782,0.710999984741211,0.01614999957382679,Hakan Calhanoglu,a,189,OpenPlay,2018,RightFoot,9666,Inter,AC Milan,1,0,2018-10-21 18:30:00,,None
+252508,22,MissedShots,0.6840000152587891,0.675,0.02844120003283024,Hakan Calhanoglu,a,189,DirectFreekick,2018,RightFoot,9666,Inter,AC Milan,1,0,2018-10-21 18:30:00,,Standard
+252518,48,MissedShots,0.750999984741211,0.605,0.01367419958114624,Hakan Calhanoglu,a,189,OpenPlay,2018,RightFoot,9666,Inter,AC Milan,1,0,2018-10-21 18:30:00,Franck Kessié,Chipped
+252530,67,MissedShots,0.8080000305175781,0.8240000152587891,0.01091070007532835,Hakan Calhanoglu,a,189,OpenPlay,2018,RightFoot,9666,Inter,AC Milan,1,0,2018-10-21 18:30:00,,Rebound
+252839,28,SavedShot,0.6830000305175781,0.7469999694824219,0.025399599224328995,Hakan Calhanoglu,h,189,DirectFreekick,2018,RightFoot,9581,AC Milan,Genoa,2,1,2018-10-31 18:30:00,,Standard
+252855,68,BlockedShot,0.7780000305175782,0.6569999694824219,0.023861799389123917,Hakan Calhanoglu,h,189,OpenPlay,2018,RightFoot,9581,AC Milan,Genoa,2,1,2018-10-31 18:30:00,Gonzalo Higuaín,Pass
+252858,71,MissedShots,0.81,0.49400001525878906,0.05935490131378174,Hakan Calhanoglu,h,189,OpenPlay,2018,RightFoot,9581,AC Milan,Genoa,2,1,2018-10-31 18:30:00,Suso,Pass
+252860,77,BlockedShot,0.8009999847412109,0.67,0.02223690040409565,Hakan Calhanoglu,h,189,OpenPlay,2018,RightFoot,9581,AC Milan,Genoa,2,1,2018-10-31 18:30:00,Patrick Cutrone,Pass
+253437,48,MissedShots,0.745,0.7419999694824219,0.013576500117778778,Hakan Calhanoglu,h,189,OpenPlay,2018,RightFoot,9696,AC Milan,Juventus,0,2,2018-11-11 19:30:00,Samu Castillejo,Pass
+253664,10,BlockedShot,0.9030000305175782,0.2989999961853027,0.04964369907975197,Hakan Calhanoglu,a,189,OpenPlay,2018,RightFoot,9703,Lazio,AC Milan,1,1,2018-11-25 17:00:00,Suso,Pass
+253667,15,SavedShot,0.8809999847412109,0.639000015258789,0.061500899493694305,Hakan Calhanoglu,a,189,OpenPlay,2018,RightFoot,9703,Lazio,AC Milan,1,1,2018-11-25 17:00:00,,None
+253672,34,MissedShots,0.889000015258789,0.3529999923706055,0.08113480359315872,Hakan Calhanoglu,a,189,OpenPlay,2018,RightFoot,9703,Lazio,AC Milan,1,1,2018-11-25 17:00:00,Davide Calabria,Pass
+253687,68,BlockedShot,0.7019999694824218,0.5879999923706055,0.01520409993827343,Hakan Calhanoglu,a,189,OpenPlay,2018,RightFoot,9703,Lazio,AC Milan,1,1,2018-11-25 17:00:00,Tiemoué Bakayoko,Pass
+253827,11,MissedShots,0.855,0.7440000152587891,0.02861979976296425,Hakan Calhanoglu,h,189,OpenPlay,2018,LeftFoot,9711,AC Milan,Parma Calcio 1913,2,1,2018-12-02 11:30:00,Franck Kessié,Pass
+253835,46,MissedShots,0.7290000152587891,0.725999984741211,0.013552200049161911,Hakan Calhanoglu,h,189,OpenPlay,2018,RightFoot,9711,AC Milan,Parma Calcio 1913,2,1,2018-12-02 11:30:00,Ricardo Rodríguez,Pass
+254280,33,SavedShot,0.8919999694824219,0.34700000762939454,0.058172598481178284,Hakan Calhanoglu,h,189,FromCorner,2018,LeftFoot,9719,AC Milan,Torino,0,0,2018-12-09 19:30:00,,Rebound
+254288,60,MissedShots,0.87,0.6759999847412109,0.05933289974927902,Hakan Calhanoglu,h,189,OpenPlay,2018,LeftFoot,9719,AC Milan,Torino,0,0,2018-12-09 19:30:00,Gonzalo Higuaín,Pass
+254523,16,MissedShots,0.8080000305175781,0.34,0.030751900747418404,Hakan Calhanoglu,a,189,OpenPlay,2018,RightFoot,9729,Bologna,AC Milan,0,0,2018-12-18 19:30:00,,None
+254524,19,MissedShots,0.7369999694824219,0.4929999923706055,0.016611900180578232,Hakan Calhanoglu,a,189,OpenPlay,2018,RightFoot,9729,Bologna,AC Milan,0,0,2018-12-18 19:30:00,Gonzalo Higuaín,Pass
+254534,53,MissedShots,0.7930000305175782,0.5309999847412109,0.05793220177292824,Hakan Calhanoglu,a,189,OpenPlay,2018,RightFoot,9729,Bologna,AC Milan,0,0,2018-12-18 19:30:00,Gonzalo Higuaín,LayOff
+254541,71,BlockedShot,0.720999984741211,0.48700000762939455,0.016100600361824036,Hakan Calhanoglu,a,189,OpenPlay,2018,RightFoot,9729,Bologna,AC Milan,0,0,2018-12-18 19:30:00,Suso,Pass
+254606,2,SavedShot,0.75,0.6359999847412109,0.01913749985396862,Hakan Calhanoglu,h,189,OpenPlay,2018,RightFoot,9738,AC Milan,Fiorentina,0,1,2018-12-22 14:00:00,Suso,Pass
+254607,6,MissedShots,0.7380000305175781,0.6170000076293946,0.015239099971950054,Hakan Calhanoglu,h,189,OpenPlay,2018,RightFoot,9738,AC Milan,Fiorentina,0,1,2018-12-22 14:00:00,Gianluigi Donnarumma,Chipped
+254610,17,MissedShots,0.865999984741211,0.6370000076293946,0.31513699889183044,Hakan Calhanoglu,h,189,OpenPlay,2018,RightFoot,9738,AC Milan,Fiorentina,0,1,2018-12-22 14:00:00,,BallTouch
+254613,42,BlockedShot,0.875999984741211,0.6630000305175782,0.06180519983172417,Hakan Calhanoglu,h,189,OpenPlay,2018,LeftFoot,9738,AC Milan,Fiorentina,0,1,2018-12-22 14:00:00,Davide Calabria,Pass
+254905,14,MissedShots,0.7169999694824218,0.3920000076293945,0.040921300649642944,Hakan Calhanoglu,a,189,DirectFreekick,2018,RightFoot,9751,Frosinone,AC Milan,0,0,2018-12-26 11:30:00,,Standard
+254928,76,MissedShots,0.7930000305175782,0.67,0.02315320074558258,Hakan Calhanoglu,a,189,OpenPlay,2018,RightFoot,9751,Frosinone,AC Milan,0,0,2018-12-26 11:30:00,,None
+254940,93,BlockedShot,0.7559999847412109,0.3160000038146973,0.015967899933457375,Hakan Calhanoglu,a,189,OpenPlay,2018,RightFoot,9751,Frosinone,AC Milan,0,0,2018-12-26 11:30:00,Franck Kessié,Pass
+263706,6,BlockedShot,0.825,0.49,0.07625129818916321,Hakan Calhanoglu,h,189,OpenPlay,2018,RightFoot,9762,AC Milan,SPAL 2013,2,1,2018-12-29 19:30:00,Franck Kessié,Pass
+263708,7,BlockedShot,0.795,0.8219999694824218,0.014434400014579296,Hakan Calhanoglu,h,189,FromCorner,2018,RightFoot,9762,AC Milan,SPAL 2013,2,1,2018-12-29 19:30:00,Samu Castillejo,Pass
+263717,40,MissedShots,0.7809999847412109,0.509000015258789,0.03725440055131912,Hakan Calhanoglu,h,189,OpenPlay,2018,RightFoot,9762,AC Milan,SPAL 2013,2,1,2018-12-29 19:30:00,Tiemoué Bakayoko,Pass
+263719,44,BlockedShot,0.745,0.5629999923706055,0.022380400449037552,Hakan Calhanoglu,h,189,OpenPlay,2018,RightFoot,9762,AC Milan,SPAL 2013,2,1,2018-12-29 19:30:00,Suso,Pass
+263720,45,BlockedShot,0.8930000305175781,0.4179999923706055,0.11749400198459625,Hakan Calhanoglu,h,189,OpenPlay,2018,RightFoot,9762,AC Milan,SPAL 2013,2,1,2018-12-29 19:30:00,Franck Kessié,Pass
+263726,69,MissedShots,0.89,0.6179999923706054,0.3285660147666931,Hakan Calhanoglu,h,189,OpenPlay,2018,RightFoot,9762,AC Milan,SPAL 2013,2,1,2018-12-29 19:30:00,Suso,Pass
+276600,23,BlockedShot,0.8080000305175781,0.5,0.04759019985795021,Hakan Calhanoglu,a,189,OpenPlay,2018,RightFoot,9770,Genoa,AC Milan,0,2,2019-01-21 14:00:00,,None
+276605,41,MissedShots,0.8180000305175781,0.5220000076293946,0.16952499747276306,Hakan Calhanoglu,a,189,DirectFreekick,2018,RightFoot,9770,Genoa,AC Milan,0,2,2019-01-21 14:00:00,,Standard
+276721,23,SavedShot,0.7019999694824218,0.6140000152587891,0.011838899925351143,Hakan Calhanoglu,h,189,OpenPlay,2018,RightFoot,9777,AC Milan,Napoli,0,0,2019-01-26 19:30:00,Patrick Cutrone,Pass
+276724,36,SavedShot,0.764000015258789,0.29100000381469726,0.020794499665498734,Hakan Calhanoglu,h,189,OpenPlay,2018,RightFoot,9777,AC Milan,Napoli,0,0,2019-01-26 19:30:00,Tiemoué Bakayoko,Pass
+276739,86,BlockedShot,0.7780000305175782,0.7630000305175781,0.04252859950065613,Hakan Calhanoglu,h,189,DirectFreekick,2018,RightFoot,9777,AC Milan,Napoli,0,0,2019-01-26 19:30:00,,Standard
+277428,7,SavedShot,0.789000015258789,0.7080000305175781,0.01671450026333332,Hakan Calhanoglu,h,189,OpenPlay,2018,RightFoot,9802,AC Milan,Cagliari,3,0,2019-02-10 19:30:00,Suso,TakeOn
+277436,30,SavedShot,0.749000015258789,0.5990000152587891,0.02080800011754036,Hakan Calhanoglu,h,189,OpenPlay,2018,RightFoot,9802,AC Milan,Cagliari,3,0,2019-02-10 19:30:00,Ricardo Rodríguez,Pass
+277441,52,MissedShots,0.745999984741211,0.5940000152587891,0.018368400633335114,Hakan Calhanoglu,h,189,OpenPlay,2018,RightFoot,9802,AC Milan,Cagliari,3,0,2019-02-10 19:30:00,Lucas Paquetá,Pass
+277445,61,SavedShot,0.8059999847412109,0.53,0.06198539957404137,Hakan Calhanoglu,h,189,OpenPlay,2018,RightFoot,9802,AC Milan,Cagliari,3,0,2019-02-10 19:30:00,,BallRecovery
+277450,69,SavedShot,0.8909999847412109,0.4540000152587891,0.13880999386310577,Hakan Calhanoglu,h,189,OpenPlay,2018,RightFoot,9802,AC Milan,Cagliari,3,0,2019-02-10 19:30:00,Suso,Pass
+277523,37,MissedShots,0.7169999694824218,0.355,0.014264999888837337,Hakan Calhanoglu,a,189,OpenPlay,2018,RightFoot,9807,Atalanta,AC Milan,1,3,2019-02-16 19:30:00,Krzysztof Piatek,Pass
+277527,54,Goal,0.7859999847412109,0.6819999694824219,0.01896199956536293,Hakan Calhanoglu,a,189,OpenPlay,2018,RightFoot,9807,Atalanta,AC Milan,1,3,2019-02-16 19:30:00,,None
+277765,91,MissedShots,0.7240000152587891,0.46299999237060546,0.019901800900697708,Hakan Calhanoglu,h,189,OpenPlay,2018,LeftFoot,9822,AC Milan,Empoli,3,0,2019-02-22 19:30:00,Mateo Musacchio,Pass
+278029,31,BlockedShot,0.7330000305175781,0.4779999923706055,0.053488899022340775,Hakan Calhanoglu,h,189,DirectFreekick,2018,RightFoot,9835,AC Milan,Sassuolo,1,0,2019-03-02 17:00:00,,Standard
+278042,75,SavedShot,0.7830000305175782,0.3120000076293945,0.01919260062277317,Hakan Calhanoglu,h,189,FromCorner,2018,LeftFoot,9835,AC Milan,Sassuolo,1,0,2019-03-02 17:00:00,Suso,Pass
+284833,91,BlockedShot,0.815,0.4929999923706055,0.07138039916753769,Hakan Calhanoglu,a,189,OpenPlay,2018,RightFoot,9838,Chievo,AC Milan,1,2,2019-03-09 19:30:00,,BallTouch
+287034,23,SavedShot,0.8009999847412109,0.7390000152587891,0.020428499206900597,Hakan Calhanoglu,h,189,OpenPlay,2018,RightFoot,9856,AC Milan,Inter,2,3,2019-03-17 19:30:00,Tiemoué Bakayoko,Pass
+287037,31,BlockedShot,0.8469999694824218,0.500999984741211,0.062400899827480316,Hakan Calhanoglu,h,189,OpenPlay,2018,RightFoot,9856,AC Milan,Inter,2,3,2019-03-17 19:30:00,,Rebound
+287036,31,BlockedShot,0.745,0.52,0.02304849959909916,Hakan Calhanoglu,h,189,OpenPlay,2018,LeftFoot,9856,AC Milan,Inter,2,3,2019-03-17 19:30:00,Tiemoué Bakayoko,Pass
+290930,27,BlockedShot,0.7909999847412109,0.7180000305175781,0.019190600141882896,Hakan Calhanoglu,h,189,OpenPlay,2018,RightFoot,9872,AC Milan,Udinese,1,1,2019-04-02 18:00:00,,BallRecovery
+290941,73,MissedShots,0.895,0.3609999847412109,0.04687879979610443,Hakan Calhanoglu,h,189,OpenPlay,2018,RightFoot,9872,AC Milan,Udinese,1,1,2019-04-02 18:00:00,Davide Calabria,Cross
+292107,25,MissedShots,0.7440000152587891,0.2989999961853027,0.013280400075018406,Hakan Calhanoglu,a,189,FromCorner,2018,LeftFoot,9886,Juventus,AC Milan,2,1,2019-04-06 17:00:00,,None
+292119,64,MissedShots,0.7390000152587891,0.3659999847412109,0.04791729897260666,Hakan Calhanoglu,a,189,DirectFreekick,2018,RightFoot,9886,Juventus,AC Milan,2,1,2019-04-06 17:00:00,,Standard
+292127,83,MissedShots,0.7619999694824219,0.67,0.05381010100245476,Hakan Calhanoglu,a,189,DirectFreekick,2018,RightFoot,9886,Juventus,AC Milan,2,1,2019-04-06 17:00:00,,Standard
+292130,89,BlockedShot,0.8219999694824218,0.4470000076293945,0.048120200634002686,Hakan Calhanoglu,a,189,OpenPlay,2018,LeftFoot,9886,Juventus,AC Milan,2,1,2019-04-06 17:00:00,,None
+292131,89,SavedShot,0.8480000305175781,0.48,0.06178810074925423,Hakan Calhanoglu,a,189,OpenPlay,2018,LeftFoot,9886,Juventus,AC Milan,2,1,2019-04-06 17:00:00,,Rebound
+293884,4,BlockedShot,0.7269999694824218,0.5790000152587891,0.047376200556755066,Hakan Calhanoglu,h,189,DirectFreekick,2018,RightFoot,9891,AC Milan,Lazio,1,0,2019-04-13 19:30:00,,Standard
+293885,10,BlockedShot,0.785,0.40599998474121096,0.03366909921169281,Hakan Calhanoglu,h,189,OpenPlay,2018,RightFoot,9891,AC Milan,Lazio,1,0,2019-04-13 19:30:00,Suso,BallTouch
+293889,26,BlockedShot,0.730999984741211,0.5359999847412109,0.01698560081422329,Hakan Calhanoglu,h,189,OpenPlay,2018,RightFoot,9891,AC Milan,Lazio,1,0,2019-04-13 19:30:00,Davide Calabria,BallRecovery
+293898,41,SavedShot,0.759000015258789,0.40900001525878904,0.023466600105166435,Hakan Calhanoglu,h,189,OpenPlay,2018,RightFoot,9891,AC Milan,Lazio,1,0,2019-04-13 19:30:00,Suso,Pass
+293903,50,BlockedShot,0.775,0.544000015258789,0.024298399686813354,Hakan Calhanoglu,h,189,OpenPlay,2018,RightFoot,9891,AC Milan,Lazio,1,0,2019-04-13 19:30:00,Krzysztof Piatek,Pass
+293908,75,BlockedShot,0.9390000152587891,0.3240000152587891,0.07170020043849945,Hakan Calhanoglu,h,189,OpenPlay,2018,RightFoot,9891,AC Milan,Lazio,1,0,2019-04-13 19:30:00,Fabio Borini,Pass
+293913,95,BlockedShot,0.8490000152587891,0.5779999923706055,0.11570099741220474,Hakan Calhanoglu,h,189,OpenPlay,2018,LeftFoot,9891,AC Milan,Lazio,1,0,2019-04-13 19:30:00,Tiemoué Bakayoko,Pass
+294832,7,MissedShots,0.73,0.5570000076293945,0.017302099615335464,Hakan Calhanoglu,a,189,OpenPlay,2018,RightFoot,9904,Parma Calcio 1913,AC Milan,1,1,2019-04-20 11:30:00,Krzysztof Piatek,Pass
+294833,11,BlockedShot,0.855,0.36900001525878906,0.06540030241012573,Hakan Calhanoglu,a,189,OpenPlay,2018,RightFoot,9904,Parma Calcio 1913,AC Milan,1,1,2019-04-20 11:30:00,Franck Kessié,Pass
+294846,51,SavedShot,0.7859999847412109,0.3270000076293945,0.023488199338316917,Hakan Calhanoglu,a,189,OpenPlay,2018,LeftFoot,9904,Parma Calcio 1913,AC Milan,1,1,2019-04-20 11:30:00,Franck Kessié,Pass
+298351,18,BlockedShot,0.73,0.5420000076293945,0.016815699636936188,Hakan Calhanoglu,a,189,OpenPlay,2018,RightFoot,9911,Torino,AC Milan,2,0,2019-04-28 19:30:00,Lucas Paquetá,Pass
+298359,43,SavedShot,0.96,0.635,0.09816379845142365,Hakan Calhanoglu,a,189,OpenPlay,2018,RightFoot,9911,Torino,AC Milan,2,0,2019-04-28 19:30:00,Patrick Cutrone,Pass
+300334,9,SavedShot,0.730999984741211,0.5179999923706055,0.01970520056784153,Hakan Calhanoglu,h,189,OpenPlay,2018,RightFoot,9924,AC Milan,Bologna,2,1,2019-05-06 19:30:00,Suso,Pass
+300349,51,MissedShots,0.7819999694824219,0.610999984741211,0.03834209963679314,Hakan Calhanoglu,h,189,OpenPlay,2018,RightFoot,9924,AC Milan,Bologna,2,1,2019-05-06 19:30:00,Lucas Paquetá,Pass
+300353,55,BlockedShot,0.8069999694824219,0.6819999694824219,0.05190569907426834,Hakan Calhanoglu,h,189,OpenPlay,2018,RightFoot,9924,AC Milan,Bologna,2,1,2019-05-06 19:30:00,Suso,Pass
+301004,23,SavedShot,0.8390000152587891,0.3629999923706055,0.05658150091767311,Hakan Calhanoglu,a,189,OpenPlay,2018,RightFoot,9933,Fiorentina,AC Milan,0,1,2019-05-11 19:30:00,Suso,Pass
+301005,25,BlockedShot,0.8859999847412109,0.4540000152587891,0.06063010171055794,Hakan Calhanoglu,a,189,OpenPlay,2018,Head,9933,Fiorentina,AC Milan,0,1,2019-05-11 19:30:00,Suso,Cross
+301009,34,Goal,0.8969999694824219,0.40799999237060547,0.03993010148406029,Hakan Calhanoglu,a,189,OpenPlay,2018,Head,9933,Fiorentina,AC Milan,0,1,2019-05-11 19:30:00,Suso,Cross
+301020,72,BlockedShot,0.85,0.49,0.0990104004740715,Hakan Calhanoglu,a,189,OpenPlay,2018,RightFoot,9933,Fiorentina,AC Milan,0,1,2019-05-11 19:30:00,Suso,Pass
+303255,32,BlockedShot,0.7280000305175781,0.5640000152587891,0.04886249825358391,Hakan Calhanoglu,h,189,DirectFreekick,2018,RightFoot,9942,AC Milan,Frosinone,2,0,2019-05-19 16:00:00,,Standard
+303259,42,MissedShots,0.7930000305175782,0.67,0.014453199692070484,Hakan Calhanoglu,h,189,FromCorner,2018,RightFoot,9942,AC Milan,Frosinone,2,0,2019-05-19 16:00:00,,Aerial
+303268,63,BlockedShot,0.7980000305175782,0.355,0.04109380021691322,Hakan Calhanoglu,h,189,OpenPlay,2018,RightFoot,9942,AC Milan,Frosinone,2,0,2019-05-19 16:00:00,Fabio Borini,Pass
+303271,80,MissedShots,0.7190000152587891,0.534000015258789,0.019183600321412086,Hakan Calhanoglu,h,189,OpenPlay,2018,RightFoot,9942,AC Milan,Frosinone,2,0,2019-05-19 16:00:00,Fabio Borini,Pass
+304094,10,SavedShot,0.7390000152587891,0.355,0.01686830073595047,Hakan Calhanoglu,a,189,OpenPlay,2018,RightFoot,9955,SPAL 2013,AC Milan,2,3,2019-05-26 18:30:00,Krzysztof Piatek,Pass
+304096,17,Goal,0.8430000305175781,0.42700000762939455,0.0762069970369339,Hakan Calhanoglu,a,189,OpenPlay,2018,RightFoot,9955,SPAL 2013,AC Milan,2,3,2019-05-26 18:30:00,Franck Kessié,Pass
+304103,43,MissedShots,0.7680000305175781,0.33599998474121096,0.025250699371099472,Hakan Calhanoglu,a,189,OpenPlay,2018,RightFoot,9955,SPAL 2013,AC Milan,2,3,2019-05-26 18:30:00,Krzysztof Piatek,Pass
+304108,58,MissedShots,0.8719999694824219,0.3729999923706055,0.07444159686565399,Hakan Calhanoglu,a,189,OpenPlay,2018,LeftFoot,9955,SPAL 2013,AC Milan,2,3,2019-05-26 18:30:00,Tiemoué Bakayoko,Pass
+313194,7,BlockedShot,0.7130000305175781,0.62,0.03861049935221672,Hakan Calhanoglu,a,189,DirectFreekick,2019,RightFoot,13091,Udinese,AC Milan,1,0,2019-08-25 17:00:00,,Standard
+313199,31,MissedShots,0.7909999847412109,0.48900001525878906,0.04326159879565239,Hakan Calhanoglu,a,189,OpenPlay,2019,RightFoot,13091,Udinese,AC Milan,1,0,2019-08-25 17:00:00,Suso,Pass
+315952,11,Goal,0.925,0.5690000152587891,0.30218198895454407,Hakan Calhanoglu,h,189,OpenPlay,2019,Head,13100,AC Milan,Brescia,1,0,2019-08-31 17:00:00,Suso,Cross
+315956,27,MissedShots,0.794000015258789,0.62,0.03715759888291359,Hakan Calhanoglu,h,189,OpenPlay,2019,RightFoot,13100,AC Milan,Brescia,1,0,2019-08-31 17:00:00,Ismael Bennacer,Pass
+318281,48,MissedShots,0.735999984741211,0.48200000762939454,0.016644200310111046,Hakan Calhanoglu,a,189,OpenPlay,2019,LeftFoot,13112,Verona,AC Milan,0,1,2019-09-15 18:45:00,Suso,None
+318287,63,BlockedShot,0.8540000152587891,0.4779999923706055,0.1073089987039566,Hakan Calhanoglu,a,189,OpenPlay,2019,RightFoot,13112,Verona,AC Milan,0,1,2019-09-15 18:45:00,Krzysztof Piatek,LayOff
+318290,74,SavedShot,0.91,0.8180000305175781,0.06228870153427124,Hakan Calhanoglu,a,189,DirectFreekick,2019,RightFoot,13112,Verona,AC Milan,0,1,2019-09-15 18:45:00,,Standard
+318291,82,SavedShot,0.8530000305175781,0.595999984741211,0.09764809906482697,Hakan Calhanoglu,a,189,OpenPlay,2019,LeftFoot,13112,Verona,AC Milan,0,1,2019-09-15 18:45:00,Davide Calabria,TakeOn
+320805,25,BlockedShot,0.7340000152587891,0.5940000152587891,0.018763000145554543,Hakan Calhanoglu,h,189,OpenPlay,2019,RightFoot,13125,AC Milan,Inter,0,2,2019-09-21 18:45:00,Lucas Biglia,Pass
+320807,39,MissedShots,0.8719999694824219,0.345,0.04069619998335838,Hakan Calhanoglu,h,189,OpenPlay,2019,RightFoot,13125,AC Milan,Inter,0,2,2019-09-21 18:45:00,Krzysztof Piatek,Chipped
+322226,8,MissedShots,0.774000015258789,0.7019999694824218,0.0532337985932827,Hakan Calhanoglu,a,189,DirectFreekick,2019,RightFoot,13138,Torino,AC Milan,2,1,2019-09-26 19:00:00,,Standard
+322230,23,SavedShot,0.7219999694824218,0.48200000762939454,0.021908899769186974,Hakan Calhanoglu,a,189,OpenPlay,2019,RightFoot,13138,Torino,AC Milan,2,1,2019-09-26 19:00:00,Ismael Bennacer,Pass
+322238,51,MissedShots,0.914000015258789,0.5840000152587891,0.04557650163769722,Hakan Calhanoglu,a,189,OpenPlay,2019,Head,13138,Torino,AC Milan,2,1,2019-09-26 19:00:00,Rafael Leão,Chipped
+323572,41,SavedShot,0.7519999694824219,0.8069999694824219,0.0124123003333807,Hakan Calhanoglu,h,189,OpenPlay,2019,RightFoot,13143,AC Milan,Fiorentina,1,3,2019-09-29 18:45:00,Rafael Leão,Pass
+323575,59,BlockedShot,0.769000015258789,0.6719999694824219,0.022696800529956818,Hakan Calhanoglu,h,189,OpenPlay,2019,RightFoot,13143,AC Milan,Fiorentina,1,3,2019-09-29 18:45:00,Rafael Leão,LayOff
+326588,10,MissedShots,0.9069999694824219,0.3139999961853027,0.06203410029411316,Hakan Calhanoglu,h,189,OpenPlay,2019,RightFoot,13163,AC Milan,Lecce,2,2,2019-10-20 19:45:00,Suso,Pass
+326590,12,MissedShots,0.784000015258789,0.6,0.03161780163645744,Hakan Calhanoglu,h,189,OpenPlay,2019,LeftFoot,13163,AC Milan,Lecce,2,2,2019-10-20 19:45:00,Alessio Romagnoli,Pass
+326593,19,Goal,0.9340000152587891,0.3029999923706055,0.05318870022892952,Hakan Calhanoglu,h,189,OpenPlay,2019,RightFoot,13163,AC Milan,Lecce,2,2,2019-10-20 19:45:00,Lucas Biglia,Chipped
+326599,30,BlockedShot,0.7040000152587891,0.47200000762939454,0.017596300691366196,Hakan Calhanoglu,h,189,OpenPlay,2019,RightFoot,13163,AC Milan,Lecce,2,2,2019-10-20 19:45:00,,BallRecovery
+326604,55,BlockedShot,0.8030000305175782,0.39099998474121095,0.05309540033340454,Hakan Calhanoglu,h,189,OpenPlay,2019,RightFoot,13163,AC Milan,Lecce,2,2,2019-10-20 19:45:00,,BallRecovery
+326613,71,MissedShots,0.8080000305175781,0.44,0.03182530030608177,Hakan Calhanoglu,h,189,OpenPlay,2019,RightFoot,13163,AC Milan,Lecce,2,2,2019-10-20 19:45:00,Rade Krunic,HeadPass
+328092,5,MissedShots,0.7380000305175781,0.4779999923706055,0.019656900316476822,Hakan Calhanoglu,a,189,OpenPlay,2019,RightFoot,13176,Roma,AC Milan,2,1,2019-10-27 17:00:00,Suso,Pass
+328096,27,SavedShot,0.775,0.7119999694824218,0.02191529981791973,Hakan Calhanoglu,a,189,OpenPlay,2019,RightFoot,13176,Roma,AC Milan,2,1,2019-10-27 17:00:00,Franck Kessié,Pass
+328109,66,BlockedShot,0.9009999847412109,0.4420000076293945,0.09376320242881775,Hakan Calhanoglu,a,189,FromCorner,2019,LeftFoot,13176,Roma,AC Milan,2,1,2019-10-27 17:00:00,,None
+328114,87,MissedShots,0.8909999847412109,0.3509999847412109,0.06746439635753632,Hakan Calhanoglu,a,189,OpenPlay,2019,RightFoot,13176,Roma,AC Milan,2,1,2019-10-27 17:00:00,Krzysztof Piatek,Pass
+328115,91,MissedShots,0.8119999694824219,0.8330000305175781,0.038224998861551285,Hakan Calhanoglu,a,189,DirectFreekick,2019,RightFoot,13176,Roma,AC Milan,2,1,2019-10-27 17:00:00,,Standard
+328742,29,SavedShot,0.9080000305175782,0.6930000305175781,0.055667098611593246,Hakan Calhanoglu,h,189,OpenPlay,2019,LeftFoot,13183,AC Milan,SPAL 2013,1,0,2019-10-31 20:00:00,Franck Kessié,Pass
+328749,54,BlockedShot,0.860999984741211,0.3060000038146973,0.04281120002269745,Hakan Calhanoglu,h,189,OpenPlay,2019,RightFoot,13183,AC Milan,SPAL 2013,1,0,2019-10-31 20:00:00,Krzysztof Piatek,Pass
+330037,15,MissedShots,0.7609999847412109,0.37400001525878906,0.06132990121841431,Hakan Calhanoglu,h,189,DirectFreekick,2019,RightFoot,13195,AC Milan,Lazio,1,2,2019-11-03 19:45:00,,Standard
+330049,57,BlockedShot,0.8280000305175781,0.3609999847412109,0.042788900434970856,Hakan Calhanoglu,h,189,OpenPlay,2019,LeftFoot,13195,AC Milan,Lazio,1,2,2019-11-03 19:45:00,Ante Rebic,Pass
+330052,65,SavedShot,0.7240000152587891,0.4929999923706055,0.04868080094456673,Hakan Calhanoglu,h,189,DirectFreekick,2019,RightFoot,13195,AC Milan,Lazio,1,2,2019-11-03 19:45:00,,Standard
+331658,30,BlockedShot,0.8919999694824219,0.6809999847412109,0.06653759628534317,Hakan Calhanoglu,a,189,OpenPlay,2019,RightFoot,13202,Juventus,AC Milan,1,0,2019-11-10 19:45:00,Suso,Pass
+331669,74,SavedShot,0.74,0.6959999847412109,0.04052799940109253,Hakan Calhanoglu,a,189,DirectFreekick,2019,RightFoot,13202,Juventus,AC Milan,1,0,2019-11-10 19:45:00,,Standard
+331671,78,SavedShot,0.755,0.575999984741211,0.02205209992825985,Hakan Calhanoglu,a,189,OpenPlay,2019,RightFoot,13202,Juventus,AC Milan,1,0,2019-11-10 19:45:00,Suso,Pass
+331674,83,SavedShot,0.7759999847412109,0.6969999694824218,0.02173290029168129,Hakan Calhanoglu,a,189,OpenPlay,2019,RightFoot,13202,Juventus,AC Milan,1,0,2019-11-10 19:45:00,Theo Hernández,Pass
+331675,86,BlockedShot,0.7859999847412109,0.3820000076293945,0.03293680027127266,Hakan Calhanoglu,a,189,FromCorner,2019,RightFoot,13202,Juventus,AC Milan,1,0,2019-11-10 19:45:00,Ismael Bennacer,Pass
+334228,1,MissedShots,0.879000015258789,0.40400001525878904,0.1004749983549118,Hakan Calhanoglu,a,189,OpenPlay,2019,RightFoot,13228,Parma Calcio 1913,AC Milan,0,1,2019-12-01 14:00:00,Krzysztof Piatek,Pass
+334232,13,BlockedShot,0.7230000305175781,0.5640000152587891,0.013691100291907787,Hakan Calhanoglu,a,189,OpenPlay,2019,RightFoot,13228,Parma Calcio 1913,AC Milan,0,1,2019-12-01 14:00:00,Giacomo Bonaventura,Pass
+334237,32,SavedShot,0.9440000152587891,0.3079999923706055,0.05740709975361824,Hakan Calhanoglu,a,189,OpenPlay,2019,RightFoot,13228,Parma Calcio 1913,AC Milan,0,1,2019-12-01 14:00:00,Suso,Pass
+334242,50,SavedShot,0.7769999694824219,0.5120000076293946,0.033101800829172134,Hakan Calhanoglu,a,189,OpenPlay,2019,RightFoot,13228,Parma Calcio 1913,AC Milan,0,1,2019-12-01 14:00:00,Suso,Pass
+334243,55,SavedShot,0.7369999694824219,0.685,0.014416100457310677,Hakan Calhanoglu,a,189,OpenPlay,2019,RightFoot,13228,Parma Calcio 1913,AC Milan,0,1,2019-12-01 14:00:00,Giacomo Bonaventura,Pass
+334246,66,BlockedShot,0.8680000305175781,0.3189999961853027,0.0753846988081932,Hakan Calhanoglu,a,189,OpenPlay,2019,RightFoot,13228,Parma Calcio 1913,AC Milan,0,1,2019-12-01 14:00:00,Rafael Leão,Pass
+334253,81,SavedShot,0.88,0.42400001525878905,0.11161799728870392,Hakan Calhanoglu,a,189,OpenPlay,2019,LeftFoot,13228,Parma Calcio 1913,AC Milan,0,1,2019-12-01 14:00:00,Alessio Romagnoli,Pass
+336603,26,MissedShots,0.7959999847412109,0.40099998474121096,0.042354099452495575,Hakan Calhanoglu,a,189,OpenPlay,2019,RightFoot,13230,Bologna,AC Milan,2,3,2019-12-08 19:45:00,Franck Kessié,Pass
+336611,56,SavedShot,0.8909999847412109,0.710999984741211,0.07204460352659225,Hakan Calhanoglu,a,189,OpenPlay,2019,RightFoot,13230,Bologna,AC Milan,2,3,2019-12-08 19:45:00,Franck Kessié,Chipped
+337519,27,MissedShots,0.9319999694824219,0.5570000076293945,0.14186899363994598,Hakan Calhanoglu,h,189,OpenPlay,2019,RightFoot,13246,AC Milan,Sassuolo,0,0,2019-12-15 14:00:00,Theo Hernández,Pass
+337533,54,SavedShot,0.785,0.6079999923706054,0.029848599806427956,Hakan Calhanoglu,h,189,OpenPlay,2019,RightFoot,13246,AC Milan,Sassuolo,0,0,2019-12-15 14:00:00,Giacomo Bonaventura,Pass
+337536,57,MissedShots,0.7580000305175781,0.525,0.024973200634121895,Hakan Calhanoglu,h,189,OpenPlay,2019,RightFoot,13246,AC Milan,Sassuolo,0,0,2019-12-15 14:00:00,Giacomo Bonaventura,Pass
+337540,69,SavedShot,0.855,0.355,0.06479360163211823,Hakan Calhanoglu,h,189,OpenPlay,2019,RightFoot,13246,AC Milan,Sassuolo,0,0,2019-12-15 14:00:00,Krzysztof Piatek,Pass
+339138,34,MissedShots,0.749000015258789,0.4370000076293945,0.02229429967701435,Hakan Calhanoglu,a,189,OpenPlay,2019,RightFoot,13249,Atalanta,AC Milan,5,0,2019-12-22 11:30:00,Franck Kessié,Pass
+354050,46,SavedShot,0.8090000152587891,0.42400001525878905,0.036869000643491745,Hakan Calhanoglu,h,189,SetPiece,2019,LeftFoot,13265,AC Milan,Sampdoria,0,0,2020-01-06 14:00:00,,None
+354056,62,SavedShot,0.7480000305175781,0.5279999923706055,0.014630899764597416,Hakan Calhanoglu,h,189,OpenPlay,2019,RightFoot,13265,AC Milan,Sampdoria,0,0,2020-01-06 14:00:00,,TakeOn
+354063,76,BlockedShot,0.8109999847412109,0.4879999923706055,0.01938210055232048,Hakan Calhanoglu,h,189,OpenPlay,2019,RightFoot,13265,AC Milan,Sampdoria,0,0,2020-01-06 14:00:00,,Aerial
+354153,35,MissedShots,0.754000015258789,0.39799999237060546,0.018661100417375565,Hakan Calhanoglu,a,189,OpenPlay,2019,RightFoot,13269,Cagliari,AC Milan,0,2,2020-01-11 14:00:00,Samu Castillejo,Pass
+355541,13,BlockedShot,0.845,0.605999984741211,0.0634768009185791,Hakan Calhanoglu,a,189,OpenPlay,2019,LeftFoot,13289,Brescia,AC Milan,0,1,2020-01-24 19:45:00,,BallTouch
+355560,63,MissedShots,0.765,0.7759999847412109,0.017304299399256706,Hakan Calhanoglu,a,189,OpenPlay,2019,RightFoot,13289,Brescia,AC Milan,0,1,2020-01-24 19:45:00,Theo Hernández,Pass
+355565,73,BlockedShot,0.789000015258789,0.445,0.050081200897693634,Hakan Calhanoglu,a,189,OpenPlay,2019,RightFoot,13289,Brescia,AC Milan,0,1,2020-01-24 19:45:00,Franck Kessié,Pass
+357180,28,Goal,0.7709999847412109,0.6370000076293946,0.06590209901332855,Hakan Calhanoglu,h,189,DirectFreekick,2019,RightFoot,13305,AC Milan,Verona,1,1,2020-02-02 14:00:00,,Standard
+357187,44,BlockedShot,0.8069999694824219,0.5220000076293946,0.03895289823412895,Hakan Calhanoglu,h,189,OpenPlay,2019,LeftFoot,13305,AC Milan,Verona,1,1,2020-02-02 14:00:00,,Rebound
+357191,55,MissedShots,0.860999984741211,0.22700000762939454,0.021728700026869774,Hakan Calhanoglu,h,189,OpenPlay,2019,RightFoot,13305,AC Milan,Verona,1,1,2020-02-02 14:00:00,Samu Castillejo,Pass
+357207,95,MissedShots,0.725,0.5220000076293946,0.018267400562763214,Hakan Calhanoglu,h,189,OpenPlay,2019,RightFoot,13305,AC Milan,Verona,1,1,2020-02-02 14:00:00,Theo Hernández,Pass
+358643,8,ShotOnPost,0.7559999847412109,0.36900001525878906,0.020320499315857887,Hakan Calhanoglu,a,189,OpenPlay,2019,RightFoot,13312,Inter,AC Milan,4,2,2020-02-09 19:45:00,Franck Kessié,Pass
+358653,26,BlockedShot,0.7830000305175782,0.6029999923706054,0.030130699276924133,Hakan Calhanoglu,a,189,OpenPlay,2019,LeftFoot,13312,Inter,AC Milan,4,2,2020-02-09 19:45:00,Ante Rebic,Pass
+358654,32,BlockedShot,0.8959999847412109,0.38,0.11288700252771378,Hakan Calhanoglu,a,189,OpenPlay,2019,LeftFoot,13312,Inter,AC Milan,4,2,2020-02-09 19:45:00,,TakeOn
+360127,67,MissedShots,0.8080000305175781,0.69,0.02635899931192398,Hakan Calhanoglu,a,189,OpenPlay,2019,RightFoot,13332,Fiorentina,AC Milan,1,1,2020-02-22 19:45:00,,Rebound
+362128,5,BlockedShot,0.7759999847412109,0.7440000152587891,0.013964000158011913,Hakan Calhanoglu,h,189,OpenPlay,2019,RightFoot,13343,AC Milan,Genoa,1,2,2020-03-08 14:00:00,Theo Hernández,Pass
+362136,19,SavedShot,0.94,0.5970000076293945,0.4253790080547333,Hakan Calhanoglu,h,189,OpenPlay,2019,LeftFoot,13343,AC Milan,Genoa,1,2,2020-03-08 14:00:00,Zlatan Ibrahimovic,Throughball
+362148,51,MissedShots,0.899000015258789,0.6909999847412109,0.03856299817562103,Hakan Calhanoglu,h,189,OpenPlay,2019,LeftFoot,13343,AC Milan,Genoa,1,2,2020-03-08 14:00:00,,None
+365944,47,BlockedShot,0.7709999847412109,0.6179999923706054,0.03292040154337883,Hakan Calhanoglu,a,189,OpenPlay,2019,RightFoot,13354,Lecce,AC Milan,1,4,2020-06-22 17:30:00,Samu Castillejo,Pass
+365947,54,SavedShot,0.8080000305175781,0.35200000762939454,0.03446720167994499,Hakan Calhanoglu,a,189,OpenPlay,2019,RightFoot,13354,Lecce,AC Milan,1,4,2020-06-22 17:30:00,Samu Castillejo,Pass
+365953,74,BlockedShot,0.730999984741211,0.6730000305175782,0.014602200128138065,Hakan Calhanoglu,a,189,OpenPlay,2019,RightFoot,13354,Lecce,AC Milan,1,4,2020-06-22 17:30:00,Alexis Saelemaekers,Pass
+367384,38,MissedShots,0.950999984741211,0.43,0.35145801305770874,Hakan Calhanoglu,h,189,OpenPlay,2019,Head,13363,AC Milan,Roma,2,0,2020-06-28 15:15:00,Theo Hernández,Cross
+367386,52,BlockedShot,0.7969999694824219,0.5990000152587891,0.03606589883565903,Hakan Calhanoglu,h,189,OpenPlay,2019,RightFoot,13363,AC Milan,Roma,2,0,2020-06-28 15:15:00,Giacomo Bonaventura,Pass
+367389,64,SavedShot,0.9719999694824218,0.624000015258789,0.09299399703741074,Hakan Calhanoglu,h,189,OpenPlay,2019,LeftFoot,13363,AC Milan,Roma,2,0,2020-06-28 15:15:00,Alexis Saelemaekers,Pass
+367396,88,Goal,0.885,0.5,0.7612590193748474,Hakan Calhanoglu,h,189,Penalty,2019,RightFoot,13363,AC Milan,Roma,2,0,2020-06-28 15:15:00,,Standard
+368237,16,SavedShot,0.8430000305175781,0.5929999923706055,0.06317470222711563,Hakan Calhanoglu,a,189,OpenPlay,2019,RightFoot,13375,SPAL 2013,AC Milan,2,2,2020-07-01 19:45:00,Lucas Paquetá,Pass
+368239,21,MissedShots,0.7630000305175781,0.595999984741211,0.022193899378180504,Hakan Calhanoglu,a,189,OpenPlay,2019,RightFoot,13375,SPAL 2013,AC Milan,2,2,2020-07-01 19:45:00,Theo Hernández,Pass
+368246,43,ShotOnPost,0.6909999847412109,0.5509999847412109,0.015181800350546837,Hakan Calhanoglu,a,189,SetPiece,2019,RightFoot,13375,SPAL 2013,AC Milan,2,2,2020-07-01 19:45:00,Ismael Bennacer,Pass
+368261,63,MissedShots,0.7980000305175782,0.56,0.03399069979786873,Hakan Calhanoglu,a,189,OpenPlay,2019,LeftFoot,13375,SPAL 2013,AC Milan,2,2,2020-07-01 19:45:00,Rafael Leão,Pass
+368265,71,BlockedShot,0.7869999694824219,0.3820000076293945,0.030849400907754898,Hakan Calhanoglu,a,189,OpenPlay,2019,RightFoot,13375,SPAL 2013,AC Milan,2,2,2020-07-01 19:45:00,Giacomo Bonaventura,Pass
+368266,72,BlockedShot,0.775,0.3659999847412109,0.016420800238847733,Hakan Calhanoglu,a,189,OpenPlay,2019,RightFoot,13375,SPAL 2013,AC Milan,2,2,2020-07-01 19:45:00,,None
+368831,22,Goal,0.7869999694824219,0.644000015258789,0.02847909927368164,Hakan Calhanoglu,a,189,OpenPlay,2019,RightFoot,13379,Lazio,AC Milan,0,3,2020-07-04 19:45:00,Zlatan Ibrahimovic,Pass
+369564,56,BlockedShot,0.7430000305175781,0.43599998474121093,0.0175136998295784,Hakan Calhanoglu,h,189,OpenPlay,2019,RightFoot,13394,AC Milan,Juventus,4,2,2020-07-07 19:45:00,Ante Rebic,Pass
+369576,89,SavedShot,0.6630000305175782,0.75,0.023523300886154175,Hakan Calhanoglu,h,189,DirectFreekick,2019,RightFoot,13394,AC Milan,Juventus,4,2,2020-07-07 19:45:00,,Standard
+371565,12,MissedShots,0.745,0.5529999923706055,0.021583400666713715,Hakan Calhanoglu,h,189,OpenPlay,2019,LeftFoot,13416,AC Milan,Parma Calcio 1913,3,1,2020-07-15 17:30:00,Zlatan Ibrahimovic,LayOff
+371583,50,MissedShots,0.7330000305175781,0.7319999694824219,0.013691100291907787,Hakan Calhanoglu,h,189,OpenPlay,2019,RightFoot,13416,AC Milan,Parma Calcio 1913,3,1,2020-07-15 17:30:00,Zlatan Ibrahimovic,Pass
+371594,76,Goal,0.8009999847412109,0.4159999847412109,0.054795801639556885,Hakan Calhanoglu,h,189,OpenPlay,2019,RightFoot,13416,AC Milan,Parma Calcio 1913,3,1,2020-07-15 17:30:00,Giacomo Bonaventura,Pass
+371595,79,BlockedShot,0.7240000152587891,0.7440000152587891,0.03144869953393936,Hakan Calhanoglu,h,189,DirectFreekick,2019,RightFoot,13416,AC Milan,Parma Calcio 1913,3,1,2020-07-15 17:30:00,,Standard
+372396,6,MissedShots,0.7969999694824219,0.610999984741211,0.032339099794626236,Hakan Calhanoglu,h,189,OpenPlay,2019,LeftFoot,13424,AC Milan,Bologna,5,1,2020-07-18 19:45:00,Ante Rebic,Pass
+372398,13,SavedShot,0.8930000305175781,0.5420000076293945,0.42280399799346924,Hakan Calhanoglu,h,189,OpenPlay,2019,LeftFoot,13424,AC Milan,Bologna,5,1,2020-07-18 19:45:00,Ante Rebic,Pass
+372399,16,BlockedShot,0.8690000152587891,0.35400001525878905,0.07281170040369034,Hakan Calhanoglu,h,189,OpenPlay,2019,RightFoot,13424,AC Milan,Bologna,5,1,2020-07-18 19:45:00,,None
+372401,23,Goal,0.9,0.5209999847412109,0.4729419946670532,Hakan Calhanoglu,h,189,OpenPlay,2019,RightFoot,13424,AC Milan,Bologna,5,1,2020-07-18 19:45:00,,None
+373062,42,MissedShots,0.5270000076293946,0.4520000076293945,0.007841819897294044,Hakan Calhanoglu,a,189,OpenPlay,2019,RightFoot,13435,Sassuolo,AC Milan,1,2,2020-07-21 19:45:00,Zlatan Ibrahimovic,Pass
+373063,44,BlockedShot,0.84,0.34599998474121096,0.04954669997096062,Hakan Calhanoglu,a,189,OpenPlay,2019,RightFoot,13435,Sassuolo,AC Milan,1,2,2020-07-21 19:45:00,Alexis Saelemaekers,Pass
+373066,48,BlockedShot,0.8109999847412109,0.3529999923706055,0.045345500111579895,Hakan Calhanoglu,a,189,OpenPlay,2019,RightFoot,13435,Sassuolo,AC Milan,1,2,2020-07-21 19:45:00,Alexis Saelemaekers,Pass
+373518,13,Goal,0.8930000305175781,0.8569999694824219,0.04720969870686531,Hakan Calhanoglu,h,189,DirectFreekick,2019,RightFoot,13440,AC Milan,Atalanta,1,1,2020-07-24 19:45:00,,Standard
+373529,55,BlockedShot,0.8530000305175781,0.5279999923706055,0.06349760293960571,Hakan Calhanoglu,h,189,OpenPlay,2019,RightFoot,13440,AC Milan,Atalanta,1,1,2020-07-24 19:45:00,Zlatan Ibrahimovic,HeadPass
+374164,35,MissedShots,0.775,0.764000015258789,0.04145960137248039,Hakan Calhanoglu,a,189,DirectFreekick,2019,RightFoot,13456,Sampdoria,AC Milan,1,4,2020-07-29 17:30:00,,Standard
+374167,44,MissedShots,0.785,0.759000015258789,0.021253900602459908,Hakan Calhanoglu,a,189,OpenPlay,2019,RightFoot,13456,Sampdoria,AC Milan,1,4,2020-07-29 17:30:00,Zlatan Ibrahimovic,Pass
+374171,51,Goal,0.9540000152587891,0.43900001525878907,0.52053302526474,Hakan Calhanoglu,a,189,OpenPlay,2019,RightFoot,13456,Sampdoria,AC Milan,1,4,2020-07-29 17:30:00,Zlatan Ibrahimovic,HeadPass
+374437,47,MissedShots,0.9269999694824219,0.4470000076293945,0.5044299960136414,Hakan Calhanoglu,h,189,OpenPlay,2019,RightFoot,13464,AC Milan,Cagliari,3,0,2020-08-01 18:45:00,Zlatan Ibrahimovic,Pass
+378498,13,MissedShots,0.815,0.4540000152587891,0.06013869866728783,Hakan Calhanoglu,h,189,OpenPlay,2020,RightFoot,14122,AC Milan,Bologna,2,0,2020-09-21 18:45:00,Theo Hernández,Pass
+378505,43,MissedShots,0.8419999694824218,0.365,0.0687078982591629,Hakan Calhanoglu,h,189,OpenPlay,2020,RightFoot,14122,AC Milan,Bologna,2,0,2020-09-21 18:45:00,Ante Rebic,Pass
+379651,7,SavedShot,0.765,0.6419999694824219,0.022132299840450287,Hakan Calhanoglu,a,189,OpenPlay,2020,RightFoot,14130,Crotone,AC Milan,0,2,2020-09-27 16:00:00,Brahim Diaz,Pass
+379655,15,SavedShot,0.8669999694824219,0.3,0.046365201473236084,Hakan Calhanoglu,a,189,OpenPlay,2020,RightFoot,14130,Crotone,AC Milan,0,2,2020-09-27 16:00:00,Ante Rebic,Pass
+379659,31,BlockedShot,0.7380000305175781,0.5840000152587891,0.05278399959206581,Hakan Calhanoglu,a,189,DirectFreekick,2020,RightFoot,14130,Crotone,AC Milan,0,2,2020-09-27 16:00:00,,Standard
+379660,31,MissedShots,0.7480000305175781,0.59,0.014198600314557552,Hakan Calhanoglu,a,189,SetPiece,2020,RightFoot,14130,Crotone,AC Milan,0,2,2020-09-27 16:00:00,,Rebound
+381398,71,MissedShots,0.89,0.355,0.05943150073289871,Hakan Calhanoglu,h,189,OpenPlay,2020,RightFoot,15454,AC Milan,Spezia,3,0,2020-10-04 16:00:00,Theo Hernández,Cross
+384241,21,SavedShot,0.7880000305175782,0.654000015258789,0.02107200026512146,Hakan Calhanoglu,h,189,FromCorner,2020,RightFoot,15473,AC Milan,Roma,3,3,2020-10-26 19:45:00,Zlatan Ibrahimovic,Pass
+384247,42,SavedShot,0.7630000305175781,0.4490000152587891,0.07402800023555756,Hakan Calhanoglu,h,189,DirectFreekick,2020,RightFoot,15473,AC Milan,Roma,3,3,2020-10-26 19:45:00,,Standard
+384257,75,BlockedShot,0.9019999694824219,0.35400001525878905,0.0935807004570961,Hakan Calhanoglu,h,189,OpenPlay,2020,RightFoot,15473,AC Milan,Roma,3,3,2020-10-26 19:45:00,Rade Krunic,Pass
+384915,37,BlockedShot,0.7730000305175782,0.46700000762939453,0.03538300096988678,Hakan Calhanoglu,a,189,OpenPlay,2020,RightFoot,15484,Udinese,AC Milan,1,2,2020-11-01 11:30:00,Franck Kessié,Pass
+384922,65,MissedShots,0.6790000152587891,0.5329999923706055,0.031760700047016144,Hakan Calhanoglu,a,189,DirectFreekick,2020,RightFoot,15484,Udinese,AC Milan,1,2,2020-11-01 11:30:00,,Standard
+386926,15,MissedShots,0.7819999694824219,0.6359999847412109,0.022930599749088287,Hakan Calhanoglu,h,189,OpenPlay,2020,RightFoot,15492,AC Milan,Verona,2,2,2020-11-08 19:45:00,Alexis Saelemaekers,Pass
+386938,44,BlockedShot,0.7619999694824219,0.534000015258789,0.027107099071145058,Hakan Calhanoglu,h,189,OpenPlay,2020,RightFoot,15492,AC Milan,Verona,2,2,2020-11-08 19:45:00,Alexis Saelemaekers,Pass
+386944,57,MissedShots,0.74,0.38599998474121094,0.014756700024008751,Hakan Calhanoglu,h,189,FromCorner,2020,RightFoot,15492,AC Milan,Verona,2,2,2020-11-08 19:45:00,,None
+388206,9,SavedShot,0.7519999694824219,0.5840000152587891,0.02136930078268051,Hakan Calhanoglu,a,189,OpenPlay,2020,RightFoot,15500,Napoli,AC Milan,1,3,2020-11-22 19:45:00,Alexis Saelemaekers,Pass
+389370,19,MissedShots,0.899000015258789,0.5329999923706055,0.04705069959163666,Hakan Calhanoglu,h,189,OpenPlay,2020,Head,15512,AC Milan,Fiorentina,2,0,2020-11-29 14:00:00,Alexis Saelemaekers,Chipped
+389374,30,MissedShots,0.82,0.6719999694824219,0.05153290182352066,Hakan Calhanoglu,h,189,OpenPlay,2020,LeftFoot,15512,AC Milan,Fiorentina,2,0,2020-11-29 14:00:00,Sandro Tonali,Pass
+389379,52,ShotOnPost,0.86,0.659000015258789,0.06982509791851044,Hakan Calhanoglu,h,189,OpenPlay,2020,LeftFoot,15512,AC Milan,Fiorentina,2,0,2020-11-29 14:00:00,Theo Hernández,Pass
+389382,56,MissedShots,0.7669999694824219,0.69,0.02865860052406788,Hakan Calhanoglu,h,189,OpenPlay,2020,RightFoot,15512,AC Milan,Fiorentina,2,0,2020-11-29 14:00:00,Theo Hernández,Pass
+389384,67,BlockedShot,0.765,0.4540000152587891,0.03179299831390381,Hakan Calhanoglu,h,189,OpenPlay,2020,RightFoot,15512,AC Milan,Fiorentina,2,0,2020-11-29 14:00:00,Alexis Saelemaekers,Pass
+391049,51,BlockedShot,0.73,0.6140000152587891,0.045889001339673996,Hakan Calhanoglu,a,189,DirectFreekick,2020,RightFoot,15522,Sampdoria,AC Milan,1,2,2020-12-06 19:45:00,,Standard
+391051,65,BlockedShot,0.6909999847412109,0.6409999847412109,0.013674099929630756,Hakan Calhanoglu,a,189,OpenPlay,2020,RightFoot,15522,Sampdoria,AC Milan,1,2,2020-12-06 19:45:00,Jens Petter Hauge,Pass
+392459,13,BlockedShot,0.7719999694824219,0.5459999847412109,0.027468200773000717,Hakan Calhanoglu,h,189,OpenPlay,2020,RightFoot,15532,AC Milan,Parma Calcio 1913,2,2,2020-12-13 19:45:00,Davide Calabria,BallRecovery
+392469,39,ShotOnPost,0.8809999847412109,0.32799999237060545,0.05034850165247917,Hakan Calhanoglu,h,189,FromCorner,2020,RightFoot,15532,AC Milan,Parma Calcio 1913,2,2,2020-12-13 19:45:00,,Rebound
+392471,45,ShotOnPost,0.705,0.34,0.03350989893078804,Hakan Calhanoglu,h,189,DirectFreekick,2020,RightFoot,15532,AC Milan,Parma Calcio 1913,2,2,2020-12-13 19:45:00,,Standard
+392474,50,ShotOnPost,0.93,0.3220000076293945,0.05942770093679428,Hakan Calhanoglu,h,189,OpenPlay,2020,RightFoot,15532,AC Milan,Parma Calcio 1913,2,2,2020-12-13 19:45:00,Rafael Leão,Pass
+392479,64,SavedShot,0.789000015258789,0.7969999694824219,0.03949020057916641,Hakan Calhanoglu,h,189,DirectFreekick,2020,RightFoot,15532,AC Milan,Parma Calcio 1913,2,2,2020-12-13 19:45:00,,Standard
+392481,76,SavedShot,0.74,0.44599998474121094,0.01944809965789318,Hakan Calhanoglu,h,189,OpenPlay,2020,LeftFoot,15532,AC Milan,Parma Calcio 1913,2,2,2020-12-13 19:45:00,Davide Calabria,Pass
+393186,21,SavedShot,0.7669999694824219,0.3890000152587891,0.06832209974527359,Hakan Calhanoglu,a,189,DirectFreekick,2020,RightFoot,15538,Genoa,AC Milan,2,2,2020-12-16 19:45:00,,Standard
+393197,81,BlockedShot,0.8140000152587891,0.519000015258789,0.04221700131893158,Hakan Calhanoglu,a,189,OpenPlay,2020,RightFoot,15538,Genoa,AC Milan,2,2,2020-12-16 19:45:00,Brahim Diaz,Pass
+393199,87,BlockedShot,0.715,0.4859999847412109,0.044210899621248245,Hakan Calhanoglu,a,189,DirectFreekick,2020,RightFoot,15538,Genoa,AC Milan,2,2,2020-12-16 19:45:00,,Standard
+394460,37,SavedShot,0.6980000305175781,0.515,0.03743460029363632,Hakan Calhanoglu,a,189,DirectFreekick,2020,RightFoot,15554,Sassuolo,AC Milan,1,2,2020-12-20 14:00:00,,Standard
+395365,4,MissedShots,0.8569999694824219,0.5329999923706055,0.09885410219430923,Hakan Calhanoglu,h,189,OpenPlay,2020,LeftFoot,15559,AC Milan,Lazio,3,2,2020-12-23 19:45:00,Ante Rebic,Pass
+395366,5,BlockedShot,0.7519999694824219,0.6270000076293946,0.021667299792170525,Hakan Calhanoglu,h,189,OpenPlay,2020,RightFoot,15559,AC Milan,Lazio,3,2,2020-12-23 19:45:00,Theo Hernández,Pass
+395372,16,Goal,0.885,0.5,0.7612990140914917,Hakan Calhanoglu,h,189,Penalty,2020,RightFoot,15559,AC Milan,Lazio,3,2,2020-12-23 19:45:00,,Standard
+396993,28,BlockedShot,0.7380000305175781,0.6120000076293945,0.04996350035071373,Hakan Calhanoglu,a,189,DirectFreekick,2020,RightFoot,15567,Benevento,AC Milan,0,2,2021-01-03 17:00:00,,Standard
+397011,71,ShotOnPost,0.75,0.415,0.03169789910316467,Hakan Calhanoglu,a,189,OpenPlay,2020,RightFoot,15567,Benevento,AC Milan,0,2,2021-01-03 17:00:00,Samu Castillejo,Pass
+397523,30,BlockedShot,0.8019999694824219,0.705,0.019145699217915535,Hakan Calhanoglu,h,189,OpenPlay,2020,RightFoot,15581,AC Milan,Juventus,1,3,2021-01-06 19:45:00,Davide Calabria,Chipped
+397526,33,SavedShot,0.7619999694824219,0.33599998474121096,0.01821569912135601,Hakan Calhanoglu,h,189,OpenPlay,2020,RightFoot,15581,AC Milan,Juventus,1,3,2021-01-06 19:45:00,Diogo Dalot,Pass
+397527,34,SavedShot,0.730999984741211,0.45599998474121095,0.01729479990899563,Hakan Calhanoglu,h,189,OpenPlay,2020,RightFoot,15581,AC Milan,Juventus,1,3,2021-01-06 19:45:00,Rafael Leão,Pass
+397535,72,MissedShots,0.7340000152587891,0.5520000076293945,0.05285460129380226,Hakan Calhanoglu,h,189,DirectFreekick,2020,RightFoot,15581,AC Milan,Juventus,1,3,2021-01-06 19:45:00,,Standard
+397538,83,SavedShot,0.7480000305175781,0.6040000152587891,0.012313200160861015,Hakan Calhanoglu,h,189,OpenPlay,2020,RightFoot,15581,AC Milan,Juventus,1,3,2021-01-06 19:45:00,,None
+397540,87,MissedShots,0.745,0.6140000152587891,0.015367300249636173,Hakan Calhanoglu,h,189,OpenPlay,2020,RightFoot,15581,AC Milan,Juventus,1,3,2021-01-06 19:45:00,Theo Hernández,Pass
+404490,50,BlockedShot,0.784000015258789,0.3770000076293945,0.07981240004301071,Hakan Calhanoglu,a,189,DirectFreekick,2020,RightFoot,15642,Spezia,AC Milan,2,0,2021-02-13 19:45:00,,Standard
+404499,81,BlockedShot,0.8159999847412109,0.5540000152587891,0.03807799890637398,Hakan Calhanoglu,a,189,OpenPlay,2020,LeftFoot,15642,Spezia,AC Milan,2,0,2021-02-13 19:45:00,,None
+405930,14,MissedShots,0.9030000305175782,0.28600000381469726,0.04051019996404648,Hakan Calhanoglu,h,189,OpenPlay,2020,RightFoot,15648,AC Milan,Inter,0,3,2021-02-21 14:00:00,,None
+405943,47,BlockedShot,0.7519999694824219,0.5279999923706055,0.01956940069794655,Hakan Calhanoglu,h,189,OpenPlay,2020,RightFoot,15648,AC Milan,Inter,0,3,2021-02-21 14:00:00,Zlatan Ibrahimovic,Pass
+405954,81,BlockedShot,0.8180000305175781,0.6,0.046778999269008636,Hakan Calhanoglu,h,189,OpenPlay,2020,RightFoot,15648,AC Milan,Inter,0,3,2021-02-21 14:00:00,Ante Rebic,Pass
+405955,82,MissedShots,0.9030000305175782,0.6959999847412109,0.04806689918041229,Hakan Calhanoglu,h,189,OpenPlay,2020,RightFoot,15648,AC Milan,Inter,0,3,2021-02-21 14:00:00,Ante Rebic,Tackle
+410711,10,MissedShots,0.879000015258789,0.6530000305175782,0.07461609691381454,Hakan Calhanoglu,h,189,OpenPlay,2020,RightFoot,15690,AC Milan,Napoli,0,1,2021-03-14 19:45:00,Theo Hernández,Pass
+410720,34,MissedShots,0.8130000305175781,0.5209999847412109,0.0703314021229744,Hakan Calhanoglu,h,189,OpenPlay,2020,LeftFoot,15690,AC Milan,Napoli,0,1,2021-03-14 19:45:00,Rade Krunic,TakeOn
+411997,39,MissedShots,0.799000015258789,0.5820000076293945,0.04348380118608475,Hakan Calhanoglu,a,189,OpenPlay,2020,RightFoot,15701,Fiorentina,AC Milan,2,3,2021-03-21 17:00:00,Franck Kessié,Pass
+412002,64,MissedShots,0.7669999694824219,0.6120000076293945,0.017793800681829453,Hakan Calhanoglu,a,189,OpenPlay,2020,RightFoot,15701,Fiorentina,AC Milan,2,3,2021-03-21 17:00:00,,Rebound
+412004,67,BlockedShot,0.7669999694824219,0.40700000762939453,0.023401599377393723,Hakan Calhanoglu,a,189,OpenPlay,2020,RightFoot,15701,Fiorentina,AC Milan,2,3,2021-03-21 17:00:00,Samu Castillejo,Pass
+412005,72,Goal,0.8619999694824219,0.65,0.062224600464105606,Hakan Calhanoglu,a,189,OpenPlay,2020,RightFoot,15701,Fiorentina,AC Milan,2,3,2021-03-21 17:00:00,Franck Kessié,Pass
+412132,32,BlockedShot,0.7430000305175781,0.59,0.05509829893708229,Hakan Calhanoglu,h,189,DirectFreekick,2020,RightFoot,15712,AC Milan,Sampdoria,1,1,2021-04-03 10:30:00,,Standard
+412138,74,BlockedShot,0.78,0.565,0.02553820051252842,Hakan Calhanoglu,h,189,OpenPlay,2020,RightFoot,15712,AC Milan,Sampdoria,1,1,2021-04-03 10:30:00,Zlatan Ibrahimovic,Pass
+412143,87,SavedShot,0.730999984741211,0.4759999847412109,0.017955200746655464,Hakan Calhanoglu,h,189,OpenPlay,2020,RightFoot,15712,AC Milan,Sampdoria,1,1,2021-04-03 10:30:00,Sandro Tonali,Pass
+412145,92,BlockedShot,0.875999984741211,0.7019999694824218,0.04658589884638786,Hakan Calhanoglu,h,189,OpenPlay,2020,RightFoot,15712,AC Milan,Sampdoria,1,1,2021-04-03 10:30:00,Franck Kessié,Pass
+413984,48,BlockedShot,0.7280000305175781,0.4279999923706055,0.02006489969789982,Hakan Calhanoglu,a,189,OpenPlay,2020,RightFoot,15722,Parma Calcio 1913,AC Milan,1,3,2021-04-10 16:00:00,Ante Rebic,Pass
+415526,30,BlockedShot,0.7480000305175781,0.40400001525878904,0.02519270032644272,Hakan Calhanoglu,h,189,OpenPlay,2020,RightFoot,15728,AC Milan,Genoa,2,1,2021-04-18 10:30:00,Alexis Saelemaekers,Pass
+415534,49,BlockedShot,0.7040000152587891,0.509000015258789,0.039650898426771164,Hakan Calhanoglu,h,189,DirectFreekick,2020,RightFoot,15728,AC Milan,Genoa,2,1,2021-04-18 10:30:00,,Standard
+415535,54,MissedShots,0.9169999694824219,0.655,0.07720330357551575,Hakan Calhanoglu,h,189,OpenPlay,2020,LeftFoot,15728,AC Milan,Genoa,2,1,2021-04-18 10:30:00,Alexis Saelemaekers,Pass
+415546,81,SavedShot,0.799000015258789,0.6680000305175782,0.028882699087262154,Hakan Calhanoglu,h,189,OpenPlay,2020,RightFoot,15728,AC Milan,Genoa,2,1,2021-04-18 10:30:00,Ante Rebic,Pass
+416309,3,BlockedShot,0.8430000305175781,0.555,0.08633019775152206,Hakan Calhanoglu,h,189,OpenPlay,2020,LeftFoot,15744,AC Milan,Sassuolo,1,2,2021-04-21 16:30:00,Ante Rebic,Pass
+416310,4,SavedShot,0.759000015258789,0.4229999923706055,0.025530699640512466,Hakan Calhanoglu,h,189,OpenPlay,2020,RightFoot,15744,AC Milan,Sassuolo,1,2,2021-04-21 16:30:00,Alexis Saelemaekers,Pass
+416319,29,Goal,0.855999984741211,0.7190000152587891,0.02712550014257431,Hakan Calhanoglu,h,189,OpenPlay,2020,RightFoot,15744,AC Milan,Sassuolo,1,2,2021-04-21 16:30:00,Alexis Saelemaekers,Chipped
+416328,60,SavedShot,0.8119999694824219,0.6179999923706054,0.049425698816776276,Hakan Calhanoglu,h,189,OpenPlay,2020,RightFoot,15744,AC Milan,Sassuolo,1,2,2021-04-21 16:30:00,Diogo Dalot,Pass
+418208,0,SavedShot,0.8209999847412109,0.6329999923706054,0.04600619897246361,Hakan Calhanoglu,a,189,OpenPlay,2020,RightFoot,15749,Lazio,AC Milan,3,0,2021-04-26 18:45:00,Mario Mandzukic,Pass
+418215,19,BlockedShot,0.7140000152587891,0.49400001525878906,0.04381990060210228,Hakan Calhanoglu,a,189,DirectFreekick,2020,RightFoot,15749,Lazio,AC Milan,3,0,2021-04-26 18:45:00,,Standard
+418220,30,SavedShot,0.9030000305175782,0.620999984741211,0.26327699422836304,Hakan Calhanoglu,a,189,OpenPlay,2020,LeftFoot,15749,Lazio,AC Milan,3,0,2021-04-26 18:45:00,,Dispossessed
+418226,62,BlockedShot,0.7709999847412109,0.7169999694824218,0.01775749959051609,Hakan Calhanoglu,a,189,OpenPlay,2020,RightFoot,15749,Lazio,AC Milan,3,0,2021-04-26 18:45:00,Franck Kessié,Pass
+418228,72,BlockedShot,0.8319999694824218,0.46799999237060547,0.03291109949350357,Hakan Calhanoglu,a,189,OpenPlay,2020,RightFoot,15749,Lazio,AC Milan,3,0,2021-04-26 18:45:00,Ante Rebic,Cross
+418744,5,Goal,0.8569999694824219,0.5120000076293946,0.3278050124645233,Hakan Calhanoglu,h,189,OpenPlay,2020,RightFoot,15757,AC Milan,Benevento,2,0,2021-05-01 18:45:00,Alexis Saelemaekers,Pass
+418764,52,MissedShots,0.8540000152587891,0.6,0.09329730272293091,Hakan Calhanoglu,h,189,OpenPlay,2020,RightFoot,15757,AC Milan,Benevento,2,0,2021-05-01 18:45:00,Diogo Dalot,Pass
+421383,18,BlockedShot,0.7769999694824219,0.6419999694824219,0.02333739958703518,Hakan Calhanoglu,a,189,FromCorner,2020,RightFoot,15780,Torino,AC Milan,0,7,2021-05-12 18:45:00,Franck Kessié,Pass
+421396,57,MissedShots,0.7480000305175781,0.355,0.01777080073952675,Hakan Calhanoglu,a,189,OpenPlay,2020,RightFoot,15780,Torino,AC Milan,0,7,2021-05-12 18:45:00,Brahim Diaz,Pass
+422827,46,BlockedShot,0.8030000305175782,0.5070000076293946,0.13585300743579865,Hakan Calhanoglu,h,189,DirectFreekick,2020,RightFoot,15788,AC Milan,Cagliari,0,0,2021-05-16 18:45:00,,Standard
+422829,47,SavedShot,0.78,0.34299999237060547,0.023742899298667908,Hakan Calhanoglu,h,189,OpenPlay,2020,RightFoot,15788,AC Milan,Cagliari,0,0,2021-05-16 18:45:00,Brahim Diaz,Pass
+422839,66,MissedShots,0.74,0.7280000305175781,0.013686100021004677,Hakan Calhanoglu,h,189,FromCorner,2020,RightFoot,15788,AC Milan,Cagliari,0,0,2021-05-16 18:45:00,,Rebound
+422840,71,BlockedShot,0.92,0.255,0.04047200083732605,Hakan Calhanoglu,h,189,OpenPlay,2020,RightFoot,15788,AC Milan,Cagliari,0,0,2021-05-16 18:45:00,,BallTouch
+424255,15,BlockedShot,0.794000015258789,0.46900001525878904,0.04568159952759743,Hakan Calhanoglu,a,189,OpenPlay,2020,LeftFoot,15801,Atalanta,AC Milan,0,2,2021-05-23 18:45:00,Brahim Diaz,Pass
+424270,90,BlockedShot,0.9009999847412109,0.36700000762939455,0.06764429807662964,Hakan Calhanoglu,a,189,OpenPlay,2020,RightFoot,15801,Atalanta,AC Milan,0,2,2021-05-23 18:45:00,Diogo Dalot,Cross
+427208,13,Goal,0.7530000305175781,0.595999984741211,0.029416199773550034,Hakan Calhanoglu,h,189,OpenPlay,2021,RightFoot,16757,Inter,Genoa,4,0,2021-08-21 16:30:00,Edin Dzeko,Pass
+428396,10,BlockedShot,0.7419999694824219,0.6079999923706054,0.021461699157953262,Hakan Calhanoglu,a,189,OpenPlay,2021,RightFoot,16767,Verona,Inter,1,3,2021-08-27 18:45:00,Edin Dzeko,Pass
+428413,70,SavedShot,0.784000015258789,0.6480000305175782,0.024614699184894562,Hakan Calhanoglu,a,189,OpenPlay,2021,LeftFoot,16767,Verona,Inter,1,3,2021-08-27 18:45:00,Federico Dimarco,Pass
+430206,23,MissedShots,0.7469999694824219,0.4329999923706055,0.027974599972367287,Hakan Calhanoglu,a,189,OpenPlay,2021,RightFoot,16783,Sampdoria,Inter,2,2,2021-09-12 10:30:00,,Dispossessed
+430216,54,MissedShots,0.8169999694824219,0.5329999923706055,0.05394019931554794,Hakan Calhanoglu,a,189,OpenPlay,2021,RightFoot,16783,Sampdoria,Inter,2,2,2021-09-12 10:30:00,Nicolò Barella,Pass
+432421,29,SavedShot,0.8040000152587891,0.669000015258789,0.08162710070610046,Hakan Calhanoglu,a,189,DirectFreekick,2021,RightFoot,16799,Fiorentina,Inter,1,3,2021-09-21 18:45:00,,Standard
+432426,45,MissedShots,0.865999984741211,0.5609999847412109,0.08458209782838821,Hakan Calhanoglu,a,189,OpenPlay,2021,RightFoot,16799,Fiorentina,Inter,1,3,2021-09-21 18:45:00,Ivan Perisic,Pass
+433598,21,BlockedShot,0.7519999694824219,0.27299999237060546,0.04029100015759468,Hakan Calhanoglu,h,189,DirectFreekick,2021,RightFoot,16808,Inter,Atalanta,2,2,2021-09-25 16:00:00,,Standard
+433603,34,BlockedShot,0.654000015258789,0.9380000305175781,0.007184680085629225,Hakan Calhanoglu,h,189,OpenPlay,2021,RightFoot,16808,Inter,Atalanta,2,2,2021-09-25 16:00:00,,BallRecovery
+433611,48,MissedShots,0.745,0.6580000305175782,0.01858600042760372,Hakan Calhanoglu,h,189,OpenPlay,2021,RightFoot,16808,Inter,Atalanta,2,2,2021-09-25 16:00:00,Nicolò Barella,Pass
+438651,16,MissedShots,0.7269999694824218,0.40299999237060546,0.017145300284028053,Hakan Calhanoglu,h,189,OpenPlay,2021,RightFoot,16840,Inter,Juventus,1,1,2021-10-24 18:45:00,Milan Skriniar,Pass
+438661,57,BlockedShot,0.735999984741211,0.32599998474121095,0.020105499774217606,Hakan Calhanoglu,h,189,OpenPlay,2021,RightFoot,16840,Inter,Juventus,1,1,2021-10-24 18:45:00,Lautaro Martínez,Pass
+442086,3,BlockedShot,0.750999984741211,0.6909999847412109,0.03613249957561493,Hakan Calhanoglu,a,189,OpenPlay,2021,LeftFoot,16870,AC Milan,Inter,1,1,2021-11-07 19:45:00,Nicolò Barella,Pass
+442087,10,Goal,0.885,0.5,0.7612990140914917,Hakan Calhanoglu,a,189,Penalty,2021,RightFoot,16870,AC Milan,Inter,1,1,2021-11-07 19:45:00,,Standard
+442097,43,BlockedShot,0.7090000152587891,0.46900001525878904,0.011137500405311584,Hakan Calhanoglu,a,189,OpenPlay,2021,RightFoot,16870,AC Milan,Inter,1,1,2021-11-07 19:45:00,,Rebound
+442101,55,MissedShots,0.9390000152587891,0.35200000762939454,0.04170690104365349,Hakan Calhanoglu,a,189,FromCorner,2021,RightFoot,16870,AC Milan,Inter,1,1,2021-11-07 19:45:00,Ivan Perisic,Cross
+442102,66,MissedShots,0.7559999847412109,0.649000015258789,0.019307099282741547,Hakan Calhanoglu,a,189,OpenPlay,2021,RightFoot,16870,AC Milan,Inter,1,1,2021-11-07 19:45:00,Alessandro Bastoni,Pass
+443469,24,Goal,0.885,0.5,0.7612990140914917,Hakan Calhanoglu,h,189,Penalty,2021,RightFoot,16881,Inter,Napoli,3,2,2021-11-21 17:00:00,,Standard
+443470,26,BlockedShot,0.885,0.3060000038146973,0.05597959831357002,Hakan Calhanoglu,h,189,OpenPlay,2021,RightFoot,16881,Inter,Napoli,3,2,2021-11-21 17:00:00,Matteo Darmian,Pass
+444303,9,BlockedShot,0.8959999847412109,0.625,0.09341759979724884,Hakan Calhanoglu,a,189,OpenPlay,2021,LeftFoot,16895,Venezia,Inter,0,2,2021-11-27 19:45:00,Joaquín Correa,Pass
+444304,11,BlockedShot,0.7290000152587891,0.4520000076293945,0.01873609982430935,Hakan Calhanoglu,a,189,OpenPlay,2021,RightFoot,16895,Venezia,Inter,0,2,2021-11-27 19:45:00,Federico Dimarco,Pass
+444308,17,MissedShots,0.8019999694824219,0.66,0.08351539820432663,Hakan Calhanoglu,a,189,DirectFreekick,2021,RightFoot,16895,Venezia,Inter,0,2,2021-11-27 19:45:00,,Standard
+444311,33,Goal,0.7440000152587891,0.53,0.01957160048186779,Hakan Calhanoglu,a,189,OpenPlay,2021,RightFoot,16895,Venezia,Inter,0,2,2021-11-27 19:45:00,,None
+445237,53,SavedShot,0.8159999847412109,0.46599998474121096,0.03841729834675789,Hakan Calhanoglu,h,189,FromCorner,2021,RightFoot,16901,Inter,Spezia,2,0,2021-12-01 17:30:00,,None
+445241,59,SavedShot,0.865999984741211,0.44299999237060544,0.34510499238967896,Hakan Calhanoglu,h,189,OpenPlay,2021,RightFoot,16901,Inter,Spezia,2,0,2021-12-01 17:30:00,Lautaro Martínez,Pass
+445243,67,BlockedShot,0.725999984741211,0.5209999847412109,0.04955499991774559,Hakan Calhanoglu,h,189,DirectFreekick,2021,RightFoot,16901,Inter,Spezia,2,0,2021-12-01 17:30:00,,Standard
+446310,14,Goal,0.995,0.995,0.012556299567222595,Hakan Calhanoglu,a,189,FromCorner,2021,RightFoot,16912,Roma,Inter,0,3,2021-12-04 17:00:00,,BallTouch
+446319,43,MissedShots,0.875999984741211,0.6780000305175782,0.07281839847564697,Hakan Calhanoglu,a,189,OpenPlay,2021,RightFoot,16912,Roma,Inter,0,3,2021-12-04 17:00:00,Edin Dzeko,BallTouch
+448623,19,MissedShots,0.8059999847412109,0.40599998474121096,0.040453098714351654,Hakan Calhanoglu,h,189,OpenPlay,2021,RightFoot,16919,Inter,Cagliari,4,0,2021-12-12 19:45:00,,None
+448632,43,MissedShots,0.9640000152587891,0.5820000076293945,0.5105389952659607,Hakan Calhanoglu,h,189,SetPiece,2021,LeftFoot,16919,Inter,Cagliari,4,0,2021-12-12 19:45:00,,Rebound
+448637,65,Goal,0.7580000305175781,0.51,0.03586219996213913,Hakan Calhanoglu,h,189,OpenPlay,2021,RightFoot,16919,Inter,Cagliari,4,0,2021-12-12 19:45:00,Alexis Sánchez,Pass
+449273,58,BlockedShot,0.875,0.4159999847412109,0.1262120008468628,Hakan Calhanoglu,a,189,OpenPlay,2021,RightFoot,16932,Salernitana,Inter,0,5,2021-12-17 19:45:00,Lautaro Martínez,LayOff
+449289,89,SavedShot,0.715999984741211,0.6029999923706054,0.016051100566983223,Hakan Calhanoglu,a,189,OpenPlay,2021,RightFoot,16932,Salernitana,Inter,0,5,2021-12-17 19:45:00,,BallRecovery
+450190,40,MissedShots,0.845,0.8280000305175781,0.012795300222933292,Hakan Calhanoglu,h,189,FromCorner,2021,RightFoot,16939,Inter,Torino,1,0,2021-12-22 17:30:00,Arturo Vidal,LayOff
+450194,51,BlockedShot,0.779000015258789,0.3240000152587891,0.06188670173287392,Hakan Calhanoglu,h,189,DirectFreekick,2021,RightFoot,16939,Inter,Torino,1,0,2021-12-22 17:30:00,,Standard
+454713,2,MissedShots,0.8130000305175781,0.5079999923706054,0.06483530253171921,Hakan Calhanoglu,h,189,OpenPlay,2021,LeftFoot,16980,Inter,Venezia,2,1,2022-01-22 17:00:00,Nicolò Barella,Pass
+454714,5,BlockedShot,0.7519999694824219,0.6619999694824219,0.05022450163960457,Hakan Calhanoglu,h,189,DirectFreekick,2021,RightFoot,16980,Inter,Venezia,2,1,2022-01-22 17:00:00,,Standard
+454721,23,SavedShot,0.7290000152587891,0.5529999923706055,0.01834929920732975,Hakan Calhanoglu,h,189,OpenPlay,2021,RightFoot,16980,Inter,Venezia,2,1,2022-01-22 17:00:00,Marcelo Brozovic,Pass
+454735,73,BlockedShot,0.7819999694824219,0.544000015258789,0.027514299377799034,Hakan Calhanoglu,h,189,OpenPlay,2021,LeftFoot,16980,Inter,Venezia,2,1,2022-01-22 17:00:00,Ivan Perisic,Pass
+454737,90,BlockedShot,0.8980000305175782,0.5729999923706055,0.11790300160646439,Hakan Calhanoglu,h,189,OpenPlay,2021,RightFoot,16980,Inter,Venezia,2,1,2022-01-22 17:00:00,Matías Vecino,BallTouch
+458942,15,MissedShots,0.754000015258789,0.6079999923706054,0.018051400780677795,Hakan Calhanoglu,h,189,OpenPlay,2021,LeftFoot,17009,Inter,Sassuolo,0,2,2022-02-20 17:00:00,,BallRecovery
+458949,34,BlockedShot,0.88,0.705,0.02220029942691326,Hakan Calhanoglu,h,189,OpenPlay,2021,RightFoot,17009,Inter,Sassuolo,0,2,2022-02-20 17:00:00,,Rebound
+458959,59,BlockedShot,0.7880000305175782,0.34900001525878904,0.01893090084195137,Hakan Calhanoglu,h,189,FromCorner,2021,RightFoot,17009,Inter,Sassuolo,0,2,2022-02-20 17:00:00,,None
+459438,5,MissedShots,0.8730000305175781,0.485,0.11698199808597565,Hakan Calhanoglu,a,189,OpenPlay,2021,RightFoot,17018,Genoa,Inter,0,0,2022-02-25 20:00:00,Nicolò Barella,Pass
+459444,37,BlockedShot,0.8190000152587891,0.5029999923706054,0.054387498646974564,Hakan Calhanoglu,a,189,OpenPlay,2021,RightFoot,17018,Genoa,Inter,0,0,2022-02-25 20:00:00,,None
+459452,58,BlockedShot,0.9569999694824218,0.3509999847412109,0.06348449736833572,Hakan Calhanoglu,a,189,OpenPlay,2021,RightFoot,17018,Genoa,Inter,0,0,2022-02-25 20:00:00,Edin Dzeko,Rebound
+459455,64,MissedShots,0.7030000305175781,0.5359999847412109,0.03890620172023773,Hakan Calhanoglu,a,189,DirectFreekick,2021,RightFoot,17018,Genoa,Inter,0,0,2022-02-25 20:00:00,,Standard
+460757,24,SavedShot,0.8980000305175782,0.5,0.4012160003185272,Hakan Calhanoglu,h,189,OpenPlay,2021,RightFoot,17030,Inter,Salernitana,5,0,2022-03-04 19:45:00,,Rebound
+464093,3,BlockedShot,0.8090000152587891,0.325,0.025731999427080154,Hakan Calhanoglu,h,189,OpenPlay,2021,LeftFoot,17050,Inter,Fiorentina,1,1,2022-03-19 17:00:00,Lautaro Martínez,Pass
+466127,31,BlockedShot,0.8619999694824219,0.4809999847412109,0.08824329823255539,Hakan Calhanoglu,a,189,OpenPlay,2021,RightFoot,17059,Juventus,Inter,0,1,2022-04-03 18:45:00,Lautaro Martínez,BallTouch
+466128,49,Goal,0.885,0.5,0.7612990140914917,Hakan Calhanoglu,a,189,Penalty,2021,RightFoot,17059,Juventus,Inter,0,1,2022-04-03 18:45:00,,Standard
+466819,6,BlockedShot,0.755,0.5840000152587891,0.06365209817886353,Hakan Calhanoglu,h,189,DirectFreekick,2021,RightFoot,17070,Inter,Verona,2,0,2022-04-09 16:00:00,,Standard
+466836,67,MissedShots,0.7669999694824219,0.750999984741211,0.02761000022292137,Hakan Calhanoglu,h,189,OpenPlay,2021,RightFoot,17070,Inter,Verona,2,0,2022-04-09 16:00:00,Alessandro Bastoni,Chipped
+467782,19,MissedShots,0.7130000305175781,0.285,0.011587800458073616,Hakan Calhanoglu,a,189,OpenPlay,2021,RightFoot,17084,Spezia,Inter,1,3,2022-04-15 17:00:00,Denzel Dumfries,Pass
+467785,26,MissedShots,0.7680000305175781,0.4909999847412109,0.025419700890779495,Hakan Calhanoglu,a,189,OpenPlay,2021,RightFoot,17084,Spezia,Inter,1,3,2022-04-15 17:00:00,Joaquín Correa,Pass
+467786,29,BlockedShot,0.7219999694824218,0.4129999923706055,0.016963500529527664,Hakan Calhanoglu,a,189,OpenPlay,2021,RightFoot,17084,Spezia,Inter,1,3,2022-04-15 17:00:00,Marcelo Brozovic,Pass
+470087,17,SavedShot,0.7230000305175781,0.654000015258789,0.01623610034584999,Hakan Calhanoglu,h,189,OpenPlay,2021,RightFoot,17090,Inter,Roma,3,1,2022-04-23 16:00:00,Ivan Perisic,Pass
+470091,37,BlockedShot,0.9059999847412109,0.8080000305175781,0.0655599981546402,Hakan Calhanoglu,h,189,DirectFreekick,2021,RightFoot,17090,Inter,Roma,3,1,2022-04-23 16:00:00,,Standard
+471071,44,MissedShots,0.725,0.44099998474121094,0.016394799575209618,Hakan Calhanoglu,a,189,OpenPlay,2021,RightFoot,16947,Bologna,Inter,2,1,2022-04-27 18:15:00,Marcelo Brozovic,Pass
+472697,30,MissedShots,0.7909999847412109,0.5870000076293945,0.024567600339651108,Hakan Calhanoglu,h,189,OpenPlay,2021,RightFoot,17109,Inter,Empoli,4,2,2022-05-06 16:45:00,,None
+472713,61,SavedShot,0.795,0.30700000762939456,0.02121789939701557,Hakan Calhanoglu,h,189,OpenPlay,2021,RightFoot,17109,Inter,Empoli,4,2,2022-05-06 16:45:00,Nicolò Barella,Pass
+472715,61,MissedShots,0.899000015258789,0.38299999237060545,0.07350330054759979,Hakan Calhanoglu,h,189,FromCorner,2021,RightFoot,17109,Inter,Empoli,4,2,2022-05-06 16:45:00,,Rebound
+476800,5,SavedShot,0.769000015258789,0.6719999694824219,0.020854299888014793,Hakan Calhanoglu,a,189,OpenPlay,2021,RightFoot,17117,Cagliari,Inter,1,3,2022-05-15 18:45:00,Matteo Darmian,Pass
+478016,8,SavedShot,0.8219999694824218,0.7030000305175781,0.02425290085375309,Hakan Calhanoglu,h,189,OpenPlay,2021,LeftFoot,17129,Inter,Sampdoria,3,0,2022-05-22 16:00:00,Ivan Perisic,Pass
+478027,32,BlockedShot,0.8830000305175781,0.5529999923706055,0.05274840071797371,Hakan Calhanoglu,h,189,OpenPlay,2021,RightFoot,17129,Inter,Sampdoria,3,0,2022-05-22 16:00:00,,Aerial
+480668,9,SavedShot,0.7219999694824218,0.53,0.020790399983525276,Hakan Calhanoglu,a,189,OpenPlay,2022,RightFoot,18585,Lecce,Inter,1,2,2022-08-13 18:45:00,Marcelo Brozovic,Pass
+482145,51,Goal,0.86,0.4209999847412109,0.08909130096435547,Hakan Calhanoglu,h,189,OpenPlay,2022,RightFoot,18594,Inter,Spezia,3,0,2022-08-20 18:45:00,,None
+482146,64,BlockedShot,0.8190000152587891,0.46700000762939453,0.08506929874420166,Hakan Calhanoglu,h,189,OpenPlay,2022,RightFoot,18594,Inter,Spezia,3,0,2022-08-20 18:45:00,Lautaro Martínez,Pass
+483333,79,BlockedShot,0.794000015258789,0.3120000076293945,0.021488500759005547,Hakan Calhanoglu,a,189,OpenPlay,2022,RightFoot,18603,Lazio,Inter,3,1,2022-08-26 18:45:00,Milan Skriniar,Pass
+483340,91,SavedShot,0.7430000305175781,0.624000015258789,0.016940899193286896,Hakan Calhanoglu,a,189,OpenPlay,2022,RightFoot,18603,Lazio,Inter,3,1,2022-08-26 18:45:00,Lautaro Martínez,Pass
+484870,16,MissedShots,0.9009999847412109,0.6630000305175782,0.06843259930610657,Hakan Calhanoglu,h,189,OpenPlay,2022,RightFoot,18614,Inter,Cremonese,3,1,2022-08-30 18:45:00,Nicolò Barella,Pass
+486115,44,BlockedShot,0.7119999694824218,0.6719999694824219,0.01192769967019558,Hakan Calhanoglu,a,189,OpenPlay,2022,RightFoot,18623,AC Milan,Inter,3,2,2022-09-03 16:00:00,Matteo Darmian,Pass
+486118,52,BlockedShot,0.81,0.5159999847412109,0.1507139950990677,Hakan Calhanoglu,a,189,DirectFreekick,2022,RightFoot,18623,AC Milan,Inter,3,2,2022-09-03 16:00:00,,Standard
+486127,74,MissedShots,0.8730000305175781,0.585999984741211,0.064028799533844,Hakan Calhanoglu,a,189,OpenPlay,2022,RightFoot,18623,AC Milan,Inter,3,2,2022-09-03 16:00:00,,Rebound
+486129,76,SavedShot,0.749000015258789,0.36400001525878906,0.01827079989016056,Hakan Calhanoglu,a,189,OpenPlay,2022,RightFoot,18623,AC Milan,Inter,3,2,2022-09-03 16:00:00,Edin Dzeko,Pass
+487590,52,BlockedShot,0.725999984741211,0.515,0.04965990036725998,Hakan Calhanoglu,h,189,DirectFreekick,2022,RightFoot,18635,Inter,Torino,1,0,2022-09-10 16:00:00,,Standard
+490292,17,BlockedShot,0.754000015258789,0.639000015258789,0.013635000213980675,Hakan Calhanoglu,h,189,OpenPlay,2022,RightFoot,18655,Inter,Roma,1,2,2022-10-01 16:00:00,Lautaro Martínez,HeadPass
+490294,20,MissedShots,0.73,0.41400001525878904,0.017286699265241623,Hakan Calhanoglu,h,189,OpenPlay,2022,RightFoot,18655,Inter,Roma,1,2,2022-10-01 16:00:00,Nicolò Barella,Pass
+490304,62,ShotOnPost,0.785,0.6680000305175782,0.06776879727840424,Hakan Calhanoglu,h,189,DirectFreekick,2022,RightFoot,18655,Inter,Roma,1,2,2022-10-01 16:00:00,,Standard
+491406,26,BlockedShot,0.7369999694824219,0.705,0.01180769968777895,Hakan Calhanoglu,a,189,OpenPlay,2022,RightFoot,18669,Sassuolo,Inter,1,2,2022-10-08 13:00:00,Federico Dimarco,Pass
+491420,66,MissedShots,0.8209999847412109,0.9169999694824219,0.02834869921207428,Hakan Calhanoglu,a,189,DirectFreekick,2022,RightFoot,18669,Sassuolo,Inter,1,2,2022-10-08 13:00:00,,Standard
+493376,87,MissedShots,0.879000015258789,0.62,0.10884899646043777,Hakan Calhanoglu,h,189,OpenPlay,2022,RightFoot,18675,Inter,Salernitana,2,0,2022-10-16 10:30:00,Robin Gosens,Pass
+496824,52,SavedShot,0.7019999694824218,0.57,0.03752340003848076,Hakan Calhanoglu,h,189,DirectFreekick,2022,RightFoot,18695,Inter,Sampdoria,3,0,2022-10-29 18:45:00,,Standard
+498909,9,SavedShot,0.7190000152587891,0.26799999237060546,0.01130369957536459,Hakan Calhanoglu,a,189,OpenPlay,2022,RightFoot,18705,Juventus,Inter,2,0,2022-11-06 19:45:00,,BallRecovery
+498919,46,SavedShot,0.785,0.35700000762939454,0.01459440030157566,Hakan Calhanoglu,a,189,FromCorner,2022,RightFoot,18705,Juventus,Inter,2,0,2022-11-06 19:45:00,,Aerial
+498922,71,BlockedShot,0.9340000152587891,0.28200000762939453,0.04642929881811142,Hakan Calhanoglu,a,189,OpenPlay,2022,LeftFoot,18705,Juventus,Inter,2,0,2022-11-06 19:45:00,Edin Dzeko,Pass
+499532,16,MissedShots,0.765,0.40400001525878904,0.021878400817513466,Hakan Calhanoglu,h,189,OpenPlay,2022,RightFoot,18715,Inter,Bologna,6,1,2022-11-09 19:45:00,Lautaro Martínez,Pass
+499546,58,Goal,0.885,0.5,0.7612990140914917,Hakan Calhanoglu,h,189,Penalty,2022,RightFoot,18715,Inter,Bologna,6,1,2022-11-09 19:45:00,,Standard
+500444,35,BlockedShot,0.755,0.6580000305175782,0.05235470086336136,Hakan Calhanoglu,a,189,DirectFreekick,2022,RightFoot,18722,Atalanta,Inter,2,3,2022-11-13 11:30:00,,Standard
+502776,37,BlockedShot,0.7780000305175782,0.4859999847412109,0.022710399702191353,Hakan Calhanoglu,a,189,FromCorner,2022,RightFoot,18748,Monza,Inter,2,2,2023-01-07 19:45:00,,None
+505231,25,BlockedShot,0.8219999694824218,0.49599998474121093,0.05494629964232445,Hakan Calhanoglu,h,189,OpenPlay,2022,RightFoot,18765,Inter,Empoli,0,1,2023-01-23 19:45:00,,None
+505252,93,BlockedShot,0.740999984741211,0.36900001525878906,0.01025179959833622,Hakan Calhanoglu,h,189,OpenPlay,2022,RightFoot,18765,Inter,Empoli,0,1,2023-01-23 19:45:00,,Aerial
+507857,7,MissedShots,0.7319999694824219,0.48900001525878906,0.0165570005774498,Hakan Calhanoglu,h,189,OpenPlay,2022,RightFoot,18785,Inter,AC Milan,1,0,2023-02-05 19:45:00,Lautaro Martínez,Pass
+507871,87,BlockedShot,0.7869999694824219,0.6930000305175781,0.02180749922990799,Hakan Calhanoglu,h,189,OpenPlay,2022,RightFoot,18785,Inter,AC Milan,1,0,2023-02-05 19:45:00,Romelu Lukaku,Pass
+509202,11,MissedShots,0.7819999694824219,0.5070000076293946,0.03595690056681633,Hakan Calhanoglu,a,189,OpenPlay,2022,RightFoot,18801,Sampdoria,Inter,0,0,2023-02-13 19:45:00,Henrikh Mkhitaryan,Pass
+509212,44,BlockedShot,0.6969999694824218,0.435,0.015639400109648705,Hakan Calhanoglu,a,189,OpenPlay,2022,RightFoot,18801,Sampdoria,Inter,0,0,2023-02-13 19:45:00,Milan Skriniar,Pass
+509224,76,SavedShot,0.860999984741211,0.6659999847412109,0.049869101494550705,Hakan Calhanoglu,a,189,OpenPlay,2022,RightFoot,18801,Sampdoria,Inter,0,0,2023-02-13 19:45:00,,None
+509226,82,MissedShots,0.7669999694824219,0.5840000152587891,0.02081960067152977,Hakan Calhanoglu,a,189,OpenPlay,2022,RightFoot,18801,Sampdoria,Inter,0,0,2023-02-13 19:45:00,Edin Dzeko,Pass
+509912,67,BlockedShot,0.7669999694824219,0.5259999847412109,0.023492300882935524,Hakan Calhanoglu,h,189,OpenPlay,2022,RightFoot,18804,Inter,Udinese,3,1,2023-02-18 19:45:00,Denzel Dumfries,Pass
+509918,75,BlockedShot,0.77,0.5559999847412109,0.030107000842690468,Hakan Calhanoglu,h,189,OpenPlay,2022,RightFoot,18804,Inter,Udinese,3,1,2023-02-18 19:45:00,Lautaro Martínez,Pass
+511143,38,SavedShot,0.6909999847412109,0.505,0.012316999956965446,Hakan Calhanoglu,a,189,OpenPlay,2022,RightFoot,18812,Bologna,Inter,1,0,2023-02-26 11:30:00,Matteo Darmian,BlockedPass
+511148,47,MissedShots,0.9130000305175782,0.5720000076293945,0.13244600594043732,Hakan Calhanoglu,a,189,OpenPlay,2022,RightFoot,18812,Bologna,Inter,1,0,2023-02-26 11:30:00,Robin Gosens,Pass
+512887,2,SavedShot,0.7719999694824219,0.30100000381469727,0.01602170057594776,Hakan Calhanoglu,h,189,OpenPlay,2022,RightFoot,18824,Inter,Lecce,2,0,2023-03-05 17:00:00,Denzel Dumfries,Pass
+512893,26,BlockedShot,0.735999984741211,0.6040000152587891,0.0497777983546257,Hakan Calhanoglu,h,189,DirectFreekick,2022,RightFoot,18824,Inter,Lecce,2,0,2023-03-05 17:00:00,,Standard
+512894,26,MissedShots,0.75,0.610999984741211,0.01395840011537075,Hakan Calhanoglu,h,189,SetPiece,2022,RightFoot,18824,Inter,Lecce,2,0,2023-03-05 17:00:00,,Rebound
+513167,69,MissedShots,0.745999984741211,0.655,0.018397899344563484,Hakan Calhanoglu,a,189,OpenPlay,2022,RightFoot,18841,Spezia,Inter,2,1,2023-03-10 19:45:00,Alessandro Bastoni,Pass
+515861,19,MissedShots,0.795,0.8219999694824218,0.014341400004923344,Hakan Calhanoglu,h,189,FromCorner,2022,RightFoot,18844,Inter,Juventus,0,1,2023-03-19 19:45:00,Nicolò Barella,BallTouch
+515868,56,BlockedShot,0.860999984741211,0.48400001525878905,0.13291099667549133,Hakan Calhanoglu,h,189,OpenPlay,2022,RightFoot,18844,Inter,Juventus,0,1,2023-03-19 19:45:00,Nicolò Barella,Pass
+515873,71,SavedShot,0.705,0.5940000152587891,0.037459198385477066,Hakan Calhanoglu,h,189,DirectFreekick,2022,RightFoot,18844,Inter,Juventus,0,1,2023-03-19 19:45:00,,Standard
+515880,89,BlockedShot,0.7369999694824219,0.5120000076293946,0.0561445988714695,Hakan Calhanoglu,h,189,DirectFreekick,2022,RightFoot,18844,Inter,Juventus,0,1,2023-03-19 19:45:00,,Standard
+521223,7,MissedShots,0.7680000305175781,0.715,0.014136684127151966,Hakan Calhanoglu,a,189,OpenPlay,2022,RightFoot,18886,Empoli,Inter,0,3,2023-04-23 10:30:00,Joaquín Correa,Pass
+521234,55,MissedShots,0.7119999694824218,0.7030000305175781,0.01326402835547924,Hakan Calhanoglu,a,189,OpenPlay,2022,RightFoot,18886,Empoli,Inter,0,3,2023-04-23 10:30:00,Francesco Acerbi,Pass
+521237,66,SavedShot,0.8569999694824219,0.6580000305175782,0.11598002165555954,Hakan Calhanoglu,a,189,OpenPlay,2022,LeftFoot,18886,Empoli,Inter,0,3,2023-04-23 10:30:00,Joaquín Correa,Chipped
+523001,65,BlockedShot,0.8109999847412109,0.545,0.05195455998182297,Hakan Calhanoglu,h,189,OpenPlay,2022,LeftFoot,18895,Inter,Lazio,3,1,2023-04-30 10:30:00,Federico Dimarco,Pass
+523002,68,MissedShots,0.82,0.6930000305175781,0.02177046239376068,Hakan Calhanoglu,h,189,OpenPlay,2022,RightFoot,18895,Inter,Lazio,3,1,2023-04-30 10:30:00,Romelu Lukaku,HeadPass
+524041,35,Goal,0.7180000305175781,0.47200000762939454,0.01764565519988537,Hakan Calhanoglu,a,189,OpenPlay,2022,RightFoot,18904,Verona,Inter,0,6,2023-05-03 19:00:00,Marcelo Brozovic,Pass
+524746,6,BlockedShot,0.730999984741211,0.500999984741211,0.015725046396255493,Hakan Calhanoglu,a,189,OpenPlay,2022,RightFoot,18918,Roma,Inter,0,2,2023-05-06 16:00:00,Romelu Lukaku,Pass
+524751,27,SavedShot,0.720999984741211,0.39599998474121095,0.01895713433623314,Hakan Calhanoglu,a,189,FromCorner,2022,RightFoot,18918,Roma,Inter,0,2,2023-05-06 16:00:00,Nicolò Barella,Pass
+529259,33,MissedShots,0.7219999694824218,0.634000015258789,0.01537439227104187,Hakan Calhanoglu,h,189,SetPiece,2022,RightFoot,18945,Inter,Atalanta,3,2,2023-05-27 18:45:00,Federico Dimarco,Pass
+529266,55,SavedShot,0.745,0.48,0.024769384413957596,Hakan Calhanoglu,h,189,FromCorner,2022,RightFoot,18945,Inter,Atalanta,3,2,2023-05-27 18:45:00,Marcelo Brozovic,Pass
+530503,52,SavedShot,0.750999984741211,0.51,0.026558812707662582,Hakan Calhanoglu,a,189,OpenPlay,2022,RightFoot,18960,Torino,Inter,0,1,2023-06-03 16:30:00,Romelu Lukaku,Pass
+533534,59,MissedShots,0.7719999694824219,0.6079999923706054,0.0729275494813919,Hakan Calhanoglu,h,189,DirectFreekick,2023,RightFoot,22307,Inter,Monza,2,0,2023-08-19 18:45:00,,Standard
+533538,71,BlockedShot,0.7880000305175782,0.41900001525878905,0.03793396055698395,Hakan Calhanoglu,h,189,OpenPlay,2023,RightFoot,22307,Inter,Monza,2,0,2023-08-19 18:45:00,Juan Cuadrado,Pass
+533540,78,BlockedShot,0.7240000152587891,0.28600000381469726,0.013435015454888344,Hakan Calhanoglu,h,189,OpenPlay,2023,RightFoot,22307,Inter,Monza,2,0,2023-08-19 18:45:00,Marko Arnautovic,Pass
+535732,41,MissedShots,0.76,0.6370000076293946,0.019803853705525398,Hakan Calhanoglu,a,189,OpenPlay,2023,LeftFoot,22324,Cagliari,Inter,0,2,2023-08-28 18:45:00,,None
+535739,85,BlockedShot,0.8119999694824219,0.49900001525878906,0.078745037317276,Hakan Calhanoglu,a,189,OpenPlay,2023,RightFoot,22324,Cagliari,Inter,0,2,2023-08-28 18:45:00,Juan Cuadrado,Pass
+537033,40,SavedShot,0.76,0.6320000076293946,0.059634018689394,Hakan Calhanoglu,h,189,DirectFreekick,2023,RightFoot,22332,Inter,Fiorentina,4,0,2023-09-03 16:30:00,,Standard
+537042,57,Goal,0.885,0.5,0.7612988352775574,Hakan Calhanoglu,h,189,Penalty,2023,RightFoot,22332,Inter,Fiorentina,4,0,2023-09-03 16:30:00,,Standard
+537786,78,Goal,0.885,0.5,0.7612988352775574,Hakan Calhanoglu,h,189,Penalty,2023,RightFoot,22336,Inter,AC Milan,5,1,2023-09-16 16:00:00,,Standard
+539455,0,MissedShots,0.7630000305175781,0.4420000076293945,0.02431066334247589,Hakan Calhanoglu,a,189,OpenPlay,2023,RightFoot,22347,Empoli,Inter,0,1,2023-09-24 10:30:00,Henrikh Mkhitaryan,Pass
+539462,12,MissedShots,0.754000015258789,0.5520000076293945,0.02062959596514702,Hakan Calhanoglu,a,189,OpenPlay,2023,RightFoot,22347,Empoli,Inter,0,1,2023-09-24 10:30:00,Alessandro Bastoni,Pass
+539475,52,BlockedShot,0.8809999847412109,0.445,0.1248144879937172,Hakan Calhanoglu,a,189,OpenPlay,2023,LeftFoot,22347,Empoli,Inter,0,1,2023-09-24 10:30:00,Marcus Thuram,Pass
+541508,2,MissedShots,0.7930000305175782,0.610999984741211,0.01127648912370205,Hakan Calhanoglu,a,189,OpenPlay,2023,RightFoot,22372,Salernitana,Inter,0,4,2023-09-30 18:45:00,Alexis Sánchez,Chipped
+541522,38,BlockedShot,0.8680000305175781,0.46799999237060547,0.11244504153728485,Hakan Calhanoglu,a,189,OpenPlay,2023,LeftFoot,22372,Salernitana,Inter,0,4,2023-09-30 18:45:00,Davy Klaassen,Pass
+541523,38,BlockedShot,0.8530000305175781,0.49700000762939456,0.08240114897489548,Hakan Calhanoglu,a,189,OpenPlay,2023,RightFoot,22372,Salernitana,Inter,0,4,2023-09-30 18:45:00,,BallTouch
+542474,77,BlockedShot,0.7619999694824219,0.7130000305175781,0.04598703980445862,Hakan Calhanoglu,h,189,DirectFreekick,2023,RightFoot,22383,Inter,Bologna,2,2,2023-10-07 13:00:00,,Standard
+544183,7,BlockedShot,0.755,0.315,0.015201210044324398,Hakan Calhanoglu,a,189,OpenPlay,2023,RightFoot,22390,Torino,Inter,0,3,2023-10-21 16:00:00,Nicolò Barella,Pass
+544187,28,MissedShots,0.7340000152587891,0.6370000076293946,0.04530039429664612,Hakan Calhanoglu,a,189,DirectFreekick,2023,RightFoot,22390,Torino,Inter,0,3,2023-10-21 16:00:00,,Standard
+544202,94,Goal,0.885,0.5,0.7612988352775574,Hakan Calhanoglu,a,189,Penalty,2023,RightFoot,22390,Torino,Inter,0,3,2023-10-21 16:00:00,,Standard
+546304,5,ShotOnPost,0.7959999847412109,0.7319999694824219,0.01709822379052639,Hakan Calhanoglu,h,189,OpenPlay,2023,RightFoot,22397,Inter,Roma,1,0,2023-10-29 17:00:00,,None
+546320,65,BlockedShot,0.7330000305175781,0.4929999923706055,0.02794540487229824,Hakan Calhanoglu,h,189,OpenPlay,2023,RightFoot,22397,Inter,Roma,1,0,2023-10-29 17:00:00,Lautaro Martínez,Pass
+546993,39,Goal,0.885,0.5,0.7612988352775574,Hakan Calhanoglu,a,189,Penalty,2023,RightFoot,22405,Atalanta,Inter,1,2,2023-11-04 17:00:00,,Standard
+546994,41,SavedShot,0.6759999847412109,0.26600000381469724,0.011182072572410107,Hakan Calhanoglu,a,189,OpenPlay,2023,RightFoot,22405,Atalanta,Inter,1,2,2023-11-04 17:00:00,,BallRecovery
+549279,47,Goal,0.885,0.5,0.7612988352775574,Hakan Calhanoglu,h,189,Penalty,2023,RightFoot,22424,Inter,Frosinone,2,0,2023-11-12 20:45:00,,Standard
+549282,53,MissedShots,0.725999984741211,0.6179999923706054,0.018063124269247055,Hakan Calhanoglu,h,189,OpenPlay,2023,RightFoot,22424,Inter,Frosinone,2,0,2023-11-12 20:45:00,Francesco Acerbi,Pass
+550592,19,MissedShots,0.7269999694824218,0.34900001525878904,0.015121890231966972,Hakan Calhanoglu,a,189,OpenPlay,2023,RightFoot,22432,Juventus,Inter,1,1,2023-11-26 19:45:00,Matteo Darmian,Pass
+552032,4,MissedShots,0.745999984741211,0.38599998474121094,0.015267636626958847,Hakan Calhanoglu,a,189,FromCorner,2023,LeftFoot,22442,Napoli,Inter,0,3,2023-12-03 19:45:00,,None
+552042,43,Goal,0.775,0.4640000152587891,0.025614170357584953,Hakan Calhanoglu,a,189,OpenPlay,2023,RightFoot,22442,Napoli,Inter,0,3,2023-12-03 19:45:00,Nicolò Barella,Pass
+553182,24,MissedShots,0.7569999694824219,0.555,0.023915249854326248,Hakan Calhanoglu,h,189,OpenPlay,2023,RightFoot,22450,Inter,Udinese,4,0,2023-12-09 19:45:00,Nicolò Barella,LayOff
+553184,27,BlockedShot,0.7659999847412109,0.3270000076293945,0.018379902467131615,Hakan Calhanoglu,h,189,OpenPlay,2023,RightFoot,22450,Inter,Udinese,4,0,2023-12-09 19:45:00,Matteo Darmian,Pass
+553186,36,Goal,0.885,0.5,0.7612988352775574,Hakan Calhanoglu,h,189,Penalty,2023,RightFoot,22450,Inter,Udinese,4,0,2023-12-09 19:45:00,,Standard
+555066,19,BlockedShot,0.7130000305175781,0.5270000076293946,0.04311453923583031,Hakan Calhanoglu,a,189,DirectFreekick,2023,RightFoot,22463,Lazio,Inter,0,2,2023-12-17 19:45:00,,Standard
+555071,38,MissedShots,0.8159999847412109,0.5209999847412109,0.050753045827150345,Hakan Calhanoglu,a,189,SetPiece,2023,RightFoot,22463,Lazio,Inter,0,2,2023-12-17 19:45:00,Federico Dimarco,Pass
+556354,39,BlockedShot,0.7140000152587891,0.5120000076293946,0.04377851262688637,Hakan Calhanoglu,h,189,DirectFreekick,2023,RightFoot,22467,Inter,Lecce,2,0,2023-12-23 17:00:00,,Standard
+556828,35,SavedShot,0.73,0.3559999847412109,0.01205284520983696,Hakan Calhanoglu,a,189,OpenPlay,2023,RightFoot,22478,Genoa,Inter,1,1,2023-12-29 19:45:00,,None
+556847,76,MissedShots,0.7780000305175782,0.3270000076293945,0.020307062193751335,Hakan Calhanoglu,a,189,OpenPlay,2023,RightFoot,22478,Genoa,Inter,1,1,2023-12-29 19:45:00,Nicolò Barella,Pass
+557564,65,MissedShots,0.7780000305175782,0.49,0.04481067508459091,Hakan Calhanoglu,h,189,OpenPlay,2023,RightFoot,22491,Inter,Verona,2,1,2024-01-06 11:30:00,Lautaro Martínez,Pass
+557576,101,MissedShots,0.6190000152587891,0.28,0.009352918714284897,Hakan Calhanoglu,h,189,OpenPlay,2023,RightFoot,22491,Inter,Verona,2,1,2024-01-06 11:30:00,Alexis Sánchez,BallTouch
+558270,5,MissedShots,0.6730000305175782,0.615,0.028722286224365234,Hakan Calhanoglu,a,189,DirectFreekick,2023,RightFoot,22504,Monza,Inter,1,5,2024-01-13 19:45:00,,Standard
+558276,11,Goal,0.885,0.5,0.7612988352775574,Hakan Calhanoglu,a,189,Penalty,2023,RightFoot,22504,Monza,Inter,1,5,2024-01-13 19:45:00,,Standard
+558286,57,SavedShot,0.75,0.425,0.023194221779704094,Hakan Calhanoglu,a,189,OpenPlay,2023,RightFoot,22504,Monza,Inter,1,5,2024-01-13 19:45:00,Henrikh Mkhitaryan,BallTouch
+558287,59,Goal,0.8569999694824219,0.52,0.48417702317237854,Hakan Calhanoglu,a,189,OpenPlay,2023,RightFoot,22504,Monza,Inter,1,5,2024-01-13 19:45:00,Marcus Thuram,Pass
+561963,56,ShotOnPost,0.83,0.39099998474121095,0.026072178035974503,Hakan Calhanoglu,h,189,OpenPlay,2023,RightFoot,22532,Inter,Juventus,1,0,2024-02-04 19:45:00,,Aerial
+561969,63,MissedShots,0.765,0.6079999923706054,0.02642848715186119,Hakan Calhanoglu,h,189,OpenPlay,2023,RightFoot,22532,Inter,Juventus,1,0,2024-02-04 19:45:00,Nicolò Barella,Pass
+562669,11,BlockedShot,0.725,0.6379999923706055,0.014694211073219776,Hakan Calhanoglu,a,189,OpenPlay,2023,LeftFoot,22544,Roma,Inter,2,4,2024-02-10 17:00:00,Nicolò Barella,Pass
+562676,47,SavedShot,0.7680000305175781,0.6990000152587891,0.05109668895602226,Hakan Calhanoglu,a,189,DirectFreekick,2023,RightFoot,22544,Roma,Inter,2,4,2024-02-10 17:00:00,,Standard
+563568,50,SavedShot,0.845999984741211,0.47900001525878905,0.0825205072760582,Hakan Calhanoglu,h,189,OpenPlay,2023,RightFoot,22550,Inter,Salernitana,4,0,2024-02-16 20:00:00,,None
+571701,43,BlockedShot,0.700999984741211,0.54,0.020141564309597015,Hakan Calhanoglu,h,189,OpenPlay,2023,RightFoot,22599,Inter,Empoli,2,0,2024-04-01 18:45:00,Nicolò Barella,Pass
+571708,60,BlockedShot,0.750999984741211,0.34099998474121096,0.01827511005103588,Hakan Calhanoglu,h,189,OpenPlay,2023,RightFoot,22599,Inter,Empoli,2,0,2024-04-01 18:45:00,Nicolò Barella,Pass
+573255,20,SavedShot,0.79,0.6580000305175782,0.027906596660614014,Hakan Calhanoglu,a,189,OpenPlay,2023,RightFoot,22607,Udinese,Inter,1,2,2024-04-08 18:45:00,Marcus Thuram,Pass
+573256,23,MissedShots,0.785,0.3390000152587891,0.026507897302508354,Hakan Calhanoglu,a,189,OpenPlay,2023,RightFoot,22607,Udinese,Inter,1,2,2024-04-08 18:45:00,Marcus Thuram,Pass
+573257,29,SavedShot,0.8159999847412109,0.3940000152587891,0.0467848964035511,Hakan Calhanoglu,a,189,OpenPlay,2023,RightFoot,22607,Udinese,Inter,1,2,2024-04-08 18:45:00,Lautaro Martínez,Pass
+573264,54,Goal,0.885,0.5,0.7612988352775574,Hakan Calhanoglu,a,189,Penalty,2023,RightFoot,22607,Udinese,Inter,1,2,2024-04-08 18:45:00,,Standard
+574451,61,SavedShot,0.72,0.6409999847412109,0.0394161157310009,Hakan Calhanoglu,h,189,DirectFreekick,2023,RightFoot,22616,Inter,Cagliari,2,2,2024-04-14 18:45:00,,Standard
+574457,73,Goal,0.885,0.5,0.7612988352775574,Hakan Calhanoglu,h,189,Penalty,2023,RightFoot,22616,Inter,Cagliari,2,2,2024-04-14 18:45:00,,Standard
+577082,33,BlockedShot,0.710999984741211,0.4620000076293945,0.013828088529407978,Hakan Calhanoglu,h,189,OpenPlay,2023,RightFoot,22641,Inter,Torino,2,0,2024-04-28 10:30:00,Henrikh Mkhitaryan,Pass
+577083,35,BlockedShot,0.740999984741211,0.799000015258789,0.029806047677993774,Hakan Calhanoglu,h,189,DirectFreekick,2023,RightFoot,22641,Inter,Torino,2,0,2024-04-28 10:30:00,,Standard
+577087,49,MissedShots,0.78,0.39,0.07957638055086136,Hakan Calhanoglu,h,189,DirectFreekick,2023,RightFoot,22641,Inter,Torino,2,0,2024-04-28 10:30:00,,Standard
+577089,55,Goal,0.8919999694824219,0.654000015258789,0.08037611842155457,Hakan Calhanoglu,h,189,OpenPlay,2023,LeftFoot,22641,Inter,Torino,2,0,2024-04-28 10:30:00,Henrikh Mkhitaryan,Pass
+577090,59,Goal,0.885,0.5,0.7612988352775574,Hakan Calhanoglu,h,189,Penalty,2023,RightFoot,22641,Inter,Torino,2,0,2024-04-28 10:30:00,,Standard
+582315,49,MissedShots,0.71,0.5729999923706055,0.015477675013244152,Hakan Calhanoglu,h,189,OpenPlay,2023,RightFoot,22667,Inter,Lazio,1,1,2024-05-19 16:00:00,Francesco Acerbi,Pass
+583615,30,MissedShots,0.7180000305175781,0.46799999237060547,0.04526987671852112,Hakan Calhanoglu,a,189,DirectFreekick,2023,RightFoot,22679,Verona,Inter,2,2,2024-05-26 18:45:00,,Standard
+583629,70,SavedShot,0.765,0.33099998474121095,0.02248239330947399,Hakan Calhanoglu,a,189,FromCorner,2023,RightFoot,22679,Verona,Inter,2,2,2024-05-26 18:45:00,Juan Cuadrado,Pass
+584921,14,MissedShots,0.754000015258789,0.6869999694824219,0.01977250911295414,Hakan Calhanoglu,a,189,OpenPlay,2024,RightFoot,27362,Genoa,Inter,2,2,2024-08-17 16:30:00,Alessandro Bastoni,Pass
+586492,69,Goal,0.885,0.5,0.7612988352775574,Hakan Calhanoglu,h,189,Penalty,2024,RightFoot,27375,Inter,Lecce,2,0,2024-08-24 18:45:00,,Standard
+588921,7,SavedShot,0.740999984741211,0.56,0.019009148702025414,Hakan Calhanoglu,h,189,SetPiece,2024,RightFoot,27383,Inter,Atalanta,4,0,2024-08-30 18:45:00,Federico Dimarco,Pass
+593277,54,SavedShot,0.725,0.5109999847412109,0.013149792328476906,Hakan Calhanoglu,h,189,OpenPlay,2024,RightFoot,27406,Inter,AC Milan,1,2,2024-09-22 18:45:00,,Rebound
+593917,54,BlockedShot,0.7419999694824219,0.46099998474121096,0.021426241844892502,Hakan Calhanoglu,a,189,OpenPlay,2024,RightFoot,27413,Udinese,Inter,2,3,2024-09-28 13:00:00,Marcus Thuram,Pass
+595851,38,BlockedShot,0.87,0.315,0.062233760952949524,Hakan Calhanoglu,h,189,OpenPlay,2024,RightFoot,27428,Inter,Torino,3,2,2024-10-05 18:45:00,,None
+595863,55,MissedShots,0.700999984741211,0.605999984741211,0.01492348127067089,Hakan Calhanoglu,h,189,OpenPlay,2024,RightFoot,27428,Inter,Torino,3,2,2024-10-05 18:45:00,Alessandro Bastoni,Pass
+595867,64,BlockedShot,0.749000015258789,0.36200000762939455,0.017290549352765083,Hakan Calhanoglu,h,189,OpenPlay,2024,RightFoot,27428,Inter,Torino,3,2,2024-10-05 18:45:00,Benjamin Pavard,Pass
+600931,76,BlockedShot,0.7969999694824219,0.6179999923706054,0.047237008810043335,Hakan Calhanoglu,h,189,OpenPlay,2024,RightFoot,27463,Inter,Venezia,1,0,2024-11-03 19:45:00,,None
+600934,87,SavedShot,0.720999984741211,0.46,0.018995244055986404,Hakan Calhanoglu,h,189,OpenPlay,2024,RightFoot,27463,Inter,Venezia,1,0,2024-11-03 19:45:00,,None
+602401,7,BlockedShot,0.7140000152587891,0.40599998474121096,0.014559467323124409,Hakan Calhanoglu,h,189,OpenPlay,2024,RightFoot,27473,Inter,Napoli,1,1,2024-11-10 19:45:00,Henrikh Mkhitaryan,Pass
+602407,26,BlockedShot,0.8009999847412109,0.6140000152587891,0.10153425484895706,Hakan Calhanoglu,h,189,DirectFreekick,2024,RightFoot,27473,Inter,Napoli,1,1,2024-11-10 19:45:00,,Standard
+602410,42,Goal,0.7090000152587891,0.6179999923706054,0.015104662626981735,Hakan Calhanoglu,h,189,OpenPlay,2024,RightFoot,27473,Inter,Napoli,1,1,2024-11-10 19:45:00,Alessandro Bastoni,Pass
+602415,73,ShotOnPost,0.885,0.5,0.7612988352775574,Hakan Calhanoglu,h,189,Penalty,2024,RightFoot,27473,Inter,Napoli,1,1,2024-11-10 19:45:00,,Standard
+605443,4,MissedShots,0.6709999847412109,0.7969999694824219,0.008635258302092552,Hakan Calhanoglu,h,189,OpenPlay,2024,RightFoot,27507,Inter,Parma Calcio 1913,3,1,2024-12-06 17:30:00,Federico Dimarco,Pass
+605444,10,BlockedShot,0.7530000305175781,0.6359999847412109,0.0171051062643528,Hakan Calhanoglu,h,189,SetPiece,2024,RightFoot,27507,Inter,Parma Calcio 1913,3,1,2024-12-06 17:30:00,Federico Dimarco,Pass
+605452,37,MissedShots,0.779000015258789,0.2720000076293945,0.014514091424643993,Hakan Calhanoglu,h,189,FromCorner,2024,RightFoot,27507,Inter,Parma Calcio 1913,3,1,2024-12-06 17:30:00,,None
+605453,39,SavedShot,0.8440000152587891,0.6090000152587891,0.07049521058797836,Hakan Calhanoglu,h,189,OpenPlay,2024,RightFoot,27507,Inter,Parma Calcio 1913,3,1,2024-12-06 17:30:00,Henrikh Mkhitaryan,Pass
+607914,34,BlockedShot,0.750999984741211,0.7330000305175781,0.039151012897491455,Hakan Calhanoglu,a,189,DirectFreekick,2024,RightFoot,27515,Lazio,Inter,0,6,2024-12-16 19:45:00,,Standard
+607916,40,Goal,0.885,0.5,0.7612988352775574,Hakan Calhanoglu,a,189,Penalty,2024,RightFoot,27515,Lazio,Inter,0,6,2024-12-16 19:45:00,,Standard
+607919,47,SavedShot,0.705,0.33099998474121095,0.015548796392977238,Hakan Calhanoglu,a,189,OpenPlay,2024,RightFoot,27515,Lazio,Inter,0,6,2024-12-16 19:45:00,Nicolò Barella,Pass
+609350,77,Goal,0.885,0.5,0.7612988352775574,Hakan Calhanoglu,a,189,Penalty,2024,RightFoot,27534,Cagliari,Inter,0,3,2024-12-28 17:00:00,,Standard
+615859,39,BlockedShot,0.919000015258789,0.8030000305175782,0.06980375200510025,Hakan Calhanoglu,a,189,DirectFreekick,2024,RightFoot,27497,Fiorentina,Inter,3,0,2025-02-06 19:30:00,,Standard
+616790,7,SavedShot,0.7319999694824219,0.40900001525878904,0.017173372209072113,Hakan Calhanoglu,h,189,OpenPlay,2024,RightFoot,27596,Inter,Fiorentina,2,1,2025-02-10 19:45:00,Henrikh Mkhitaryan,Pass
+620140,19,BlockedShot,0.775,0.47700000762939454,0.033699825406074524,Hakan Calhanoglu,a,189,OpenPlay,2024,RightFoot,27629,Napoli,Inter,1,1,2025-03-01 17:00:00,Denzel Dumfries,BallTouch
+620142,27,MissedShots,0.725,0.5309999847412109,0.020147070288658142,Hakan Calhanoglu,a,189,OpenPlay,2024,RightFoot,27629,Napoli,Inter,1,1,2025-03-01 17:00:00,,None
+621580,0,BlockedShot,0.8440000152587891,0.38299999237060545,0.06992989778518677,Hakan Calhanoglu,h,189,OpenPlay,2024,LeftFoot,27636,Inter,Monza,3,2,2025-03-08 19:45:00,Marko Arnautovic,Pass
+621583,13,MissedShots,0.9080000305175782,0.6359999847412109,0.016955439001321793,Hakan Calhanoglu,h,189,OpenPlay,2024,Head,27636,Inter,Monza,3,2,2025-03-08 19:45:00,Alessandro Bastoni,Cross
+621588,22,BlockedShot,0.8519999694824218,0.710999984741211,0.03643130883574486,Hakan Calhanoglu,h,189,OpenPlay,2024,LeftFoot,27636,Inter,Monza,3,2,2025-03-08 19:45:00,Nicolò Barella,Pass
+621599,46,BlockedShot,0.784000015258789,0.4229999923706055,0.027527818456292152,Hakan Calhanoglu,h,189,OpenPlay,2024,RightFoot,27636,Inter,Monza,3,2,2025-03-08 19:45:00,Lautaro Martínez,Pass
+621607,63,Goal,0.8109999847412109,0.4929999923706055,0.05525090917944908,Hakan Calhanoglu,h,189,OpenPlay,2024,RightFoot,27636,Inter,Monza,3,2,2025-03-08 19:45:00,Yann Bisseck,Pass
+621615,87,SavedShot,0.7769999694824219,0.61,0.034527670592069626,Hakan Calhanoglu,h,189,OpenPlay,2024,RightFoot,27636,Inter,Monza,3,2,2025-03-08 19:45:00,Joaquín Correa,Pass
+623735,63,SavedShot,0.7369999694824219,0.4929999923706055,0.021893924102187157,Hakan Calhanoglu,a,189,OpenPlay,2024,RightFoot,27643,Atalanta,Inter,0,2,2025-03-16 19:45:00,Lautaro Martínez,Pass
+624789,0,MissedShots,0.7859999847412109,0.6229999923706054,0.02506939321756363,Hakan Calhanoglu,h,189,OpenPlay,2024,RightFoot,27655,Inter,Udinese,2,1,2025-03-30 17:00:00,Marcus Thuram,Pass
+625835,23,MissedShots,0.7319999694824219,0.6070000076293945,0.014260353520512581,Hakan Calhanoglu,a,189,FromCorner,2024,LeftFoot,27670,Parma Calcio 1913,Inter,2,2,2025-04-05 16:00:00,,None
+625836,28,BlockedShot,0.9169999694824219,0.84,0.055481918156147,Hakan Calhanoglu,a,189,DirectFreekick,2024,RightFoot,27670,Parma Calcio 1913,Inter,2,2,2025-04-05 16:00:00,,Standard
+625837,28,MissedShots,0.8809999847412109,0.7380000305175781,0.021890753880143166,Hakan Calhanoglu,a,189,SetPiece,2024,RightFoot,27670,Parma Calcio 1913,Inter,2,2,2025-04-05 16:00:00,,Rebound
+625839,34,MissedShots,0.7240000152587891,0.5109999847412109,0.014457734301686287,Hakan Calhanoglu,a,189,FromCorner,2024,RightFoot,27670,Parma Calcio 1913,Inter,2,2,2025-04-05 16:00:00,,None
+625843,64,MissedShots,0.7340000152587891,0.27799999237060546,0.030100880190730095,Hakan Calhanoglu,a,189,OpenPlay,2024,RightFoot,27670,Parma Calcio 1913,Inter,2,2,2025-04-05 16:00:00,Marcus Thuram,Pass
+630655,38,MissedShots,0.7319999694824219,0.4640000152587891,0.01871560513973236,Hakan Calhanoglu,h,189,OpenPlay,2024,RightFoot,27697,Inter,Roma,0,1,2025-04-27 13:00:00,Matteo Darmian,Pass
+630662,62,MissedShots,0.74,0.6129999923706054,0.016831960529088974,Hakan Calhanoglu,h,189,OpenPlay,2024,RightFoot,27697,Inter,Roma,0,1,2025-04-27 13:00:00,Davide Frattesi,Pass
+630670,74,MissedShots,0.7469999694824219,0.5279999923706055,0.01935834437608719,Hakan Calhanoglu,h,189,SetPiece,2024,RightFoot,27697,Inter,Roma,0,1,2025-04-27 13:00:00,Nicola Zalewski,Pass
+633665,68,SavedShot,0.8719999694824219,0.6029999923706054,0.10813333839178085,Hakan Calhanoglu,a,189,OpenPlay,2024,RightFoot,27719,Torino,Inter,0,2,2025-05-11 16:00:00,,Rebound
+633672,88,MissedShots,0.8180000305175781,0.28200000762939453,0.03600544482469559,Hakan Calhanoglu,a,189,OpenPlay,2024,RightFoot,27719,Torino,Inter,0,2,2025-05-11 16:00:00,Nicolò Barella,Pass
+635562,29,MissedShots,0.8159999847412109,0.26399999618530273,0.0195779912173748,Hakan Calhanoglu,h,189,OpenPlay,2024,RightFoot,27726,Inter,Lazio,2,2,2025-05-18 18:45:00,,None
+635730,48,SavedShot,0.8040000152587891,0.7480000305175781,0.05509982630610466,Hakan Calhanoglu,a,189,DirectFreekick,2024,RightFoot,27735,Como,Inter,0,2,2025-05-23 18:45:00,,Standard
+641175,54,MissedShots,0.7969999694824219,0.30100000381469727,0.023196153342723846,Hakan Calhanoglu,h,189,OpenPlay,2025,RightFoot,29862,Inter,Udinese,1,2,2025-08-31 18:45:00,Federico Dimarco,Pass
+641838,29,Goal,0.7809999847412109,0.5559999847412109,0.031056271865963936,Hakan Calhanoglu,a,189,OpenPlay,2025,LeftFoot,29865,Juventus,Inter,4,3,2025-09-13 16:00:00,Carlos Augusto,Pass
+641839,34,SavedShot,0.7809999847412109,0.519000015258789,0.03336036577820778,Hakan Calhanoglu,a,189,OpenPlay,2025,RightFoot,29865,Juventus,Inter,4,3,2025-09-13 16:00:00,,None
+641841,36,MissedShots,0.6880000305175781,0.5309999847412109,0.012141715735197067,Hakan Calhanoglu,a,189,OpenPlay,2025,RightFoot,29865,Juventus,Inter,4,3,2025-09-13 16:00:00,Francesco Acerbi,Pass
+641847,53,MissedShots,0.8209999847412109,0.26799999237060546,0.026352526620030403,Hakan Calhanoglu,a,189,OpenPlay,2025,RightFoot,29865,Juventus,Inter,4,3,2025-09-13 16:00:00,,TakeOn
+641849,64,Goal,0.825,0.36400001525878906,0.023946387693285942,Hakan Calhanoglu,a,189,OpenPlay,2025,RightFoot,29865,Juventus,Inter,4,3,2025-09-13 16:00:00,Piotr Zielinski,HeadPass
+641850,70,BlockedShot,0.7669999694824219,0.79,0.03548600897192955,Hakan Calhanoglu,a,189,DirectFreekick,2025,RightFoot,29865,Juventus,Inter,4,3,2025-09-13 16:00:00,,Standard
+643976,24,MissedShots,0.8159999847412109,0.44400001525878907,0.07321701943874359,Hakan Calhanoglu,h,189,OpenPlay,2025,RightFoot,29880,Inter,Sassuolo,2,1,2025-09-21 18:45:00,Petar Sucic,Pass
+645039,19,BlockedShot,0.7619999694824219,0.32,0.021536286920309067,Hakan Calhanoglu,a,189,OpenPlay,2025,RightFoot,29884,Cagliari,Inter,0,2,2025-09-27 18:45:00,Luis Henrique,Pass
+645045,46,BlockedShot,0.7380000305175781,0.57,0.053974512964487076,Hakan Calhanoglu,a,189,DirectFreekick,2025,RightFoot,29884,Cagliari,Inter,0,2,2025-09-27 18:45:00,,Standard
+645046,52,ShotOnPost,0.8130000305175781,0.46700000762939453,0.06772440671920776,Hakan Calhanoglu,a,189,OpenPlay,2025,RightFoot,29884,Cagliari,Inter,0,2,2025-09-27 18:45:00,Nicolò Barella,Pass
+647937,9,SavedShot,0.715,0.5270000076293946,0.019144808873534203,Hakan Calhanoglu,a,189,OpenPlay,2025,RightFoot,29913,Roma,Inter,0,1,2025-10-18 18:45:00,Nicolò Barella,BallTouch
+647943,27,MissedShots,0.7390000152587891,0.664000015258789,0.018685877323150635,Hakan Calhanoglu,a,189,OpenPlay,2025,LeftFoot,29913,Roma,Inter,0,1,2025-10-18 18:45:00,Ange-Yoan Bonny,Pass
+649062,12,MissedShots,0.74,0.45799999237060546,0.01852041482925415,Hakan Calhanoglu,a,189,OpenPlay,2025,RightFoot,29920,Napoli,Inter,3,1,2025-10-25 16:00:00,Nicolò Barella,Pass
+649070,45,SavedShot,0.8190000152587891,0.6279999923706054,0.03825799748301506,Hakan Calhanoglu,a,189,OpenPlay,2025,LeftFoot,29920,Napoli,Inter,3,1,2025-10-25 16:00:00,,None
+649074,47,MissedShots,0.799000015258789,0.46,0.04333128035068512,Hakan Calhanoglu,a,189,OpenPlay,2025,RightFoot,29920,Napoli,Inter,3,1,2025-10-25 16:00:00,Piotr Zielinski,Pass
+649077,58,Goal,0.885,0.5,0.7612988352775574,Hakan Calhanoglu,a,189,Penalty,2025,RightFoot,29920,Napoli,Inter,3,1,2025-10-25 16:00:00,,Standard
+650318,45,MissedShots,0.8019999694824219,0.3870000076293945,0.06231988966464996,Hakan Calhanoglu,h,189,OpenPlay,2025,RightFoot,29929,Inter,Fiorentina,3,0,2025-10-29 18:45:00,Petar Sucic,Pass
+650328,65,Goal,0.76,0.405,0.021262314170598984,Hakan Calhanoglu,h,189,OpenPlay,2025,RightFoot,29929,Inter,Fiorentina,3,0,2025-10-29 18:45:00,Nicolò Barella,Pass
+650336,87,Goal,0.885,0.5,0.7612988352775574,Hakan Calhanoglu,h,189,Penalty,2025,RightFoot,29929,Inter,Fiorentina,3,0,2025-10-29 18:45:00,,Standard
+651259,52,MissedShots,0.875,0.6370000076293946,0.025694560259580612,Hakan Calhanoglu,a,189,OpenPlay,2025,RightFoot,29943,Verona,Inter,1,2,2025-11-02 11:30:00,,Aerial
+651260,65,BlockedShot,0.7269999694824218,0.34400001525878904,0.04050856828689575,Hakan Calhanoglu,a,189,DirectFreekick,2025,RightFoot,29943,Verona,Inter,1,2,2025-11-02 11:30:00,,Standard
+651261,65,BlockedShot,0.7659999847412109,0.40200000762939453,0.01627187430858612,Hakan Calhanoglu,a,189,SetPiece,2025,RightFoot,29943,Verona,Inter,1,2,2025-11-02 11:30:00,,Rebound
+651264,81,BlockedShot,0.720999984741211,0.36400001525878906,0.01512660551816225,Hakan Calhanoglu,a,189,OpenPlay,2025,RightFoot,29943,Verona,Inter,1,2,2025-11-02 11:30:00,Nicolò Barella,Pass
+651266,84,BlockedShot,0.7330000305175781,0.4109999847412109,0.01459160353988409,Hakan Calhanoglu,a,189,FromCorner,2025,RightFoot,29943,Verona,Inter,1,2,2025-11-02 11:30:00,,None
+654512,28,MissedShots,0.8019999694824219,0.3870000076293945,0.031955499202013016,Hakan Calhanoglu,h,189,OpenPlay,2025,LeftFoot,29958,Inter,AC Milan,0,1,2025-11-23 19:45:00,Marcus Thuram,Pass
+654521,58,BlockedShot,0.6959999847412109,0.395,0.010584183037281036,Hakan Calhanoglu,h,189,OpenPlay,2025,RightFoot,29958,Inter,AC Milan,0,1,2025-11-23 19:45:00,,None
+654524,73,SavedShot,0.885,0.5,0.7612988352775574,Hakan Calhanoglu,h,189,Penalty,2025,RightFoot,29958,Inter,AC Milan,0,1,2025-11-23 19:45:00,,Standard
+655549,6,MissedShots,0.759000015258789,0.39299999237060546,0.02026517689228058,Hakan Calhanoglu,a,189,OpenPlay,2025,RightFoot,29972,Pisa,Inter,0,2,2025-11-30 14:00:00,Nicolò Barella,Pass
+657089,79,Goal,0.7859999847412109,0.41200000762939454,0.030730845406651497,Hakan Calhanoglu,h,189,OpenPlay,2025,RightFoot,29976,Inter,Como,4,0,2025-12-06 17:00:00,,None
+660476,24,MissedShots,0.6969999694824218,0.46900001525878904,0.013571903109550476,Hakan Calhanoglu,a,189,OpenPlay,2025,RightFoot,30013,Atalanta,Inter,0,1,2025-12-28 19:45:00,Federico Dimarco,Pass
+661692,23,SavedShot,0.785,0.5379999923706055,0.035167790949344635,Hakan Calhanoglu,h,189,OpenPlay,2025,LeftFoot,30019,Inter,Bologna,3,1,2026-01-04 19:45:00,,None
+661995,7,BlockedShot,0.6730000305175782,0.45799999237060546,0.012154143303632736,Hakan Calhanoglu,a,189,OpenPlay,2025,RightFoot,30030,Parma Calcio 1913,Inter,0,2,2026-01-07 19:45:00,Carlos Augusto,Pass
+662001,20,BlockedShot,0.7530000305175781,0.6120000076293945,0.018376359716057777,Hakan Calhanoglu,a,189,OpenPlay,2025,RightFoot,30030,Parma Calcio 1913,Inter,0,2,2026-01-07 19:45:00,Henrikh Mkhitaryan,Pass
+662003,28,MissedShots,0.715999984741211,0.62,0.0144279096275568,Hakan Calhanoglu,a,189,OpenPlay,2025,RightFoot,30030,Parma Calcio 1913,Inter,0,2,2026-01-07 19:45:00,Federico Dimarco,Pass
+662006,32,BlockedShot,0.9009999847412109,0.5770000076293945,0.12302347272634506,Hakan Calhanoglu,a,189,OpenPlay,2025,RightFoot,30030,Parma Calcio 1913,Inter,0,2,2026-01-07 19:45:00,Lautaro Martínez,Pass
+662007,37,MissedShots,0.764000015258789,0.40400001525878904,0.021973073482513428,Hakan Calhanoglu,a,189,OpenPlay,2025,RightFoot,30030,Parma Calcio 1913,Inter,0,2,2026-01-07 19:45:00,,None
+662830,16,MissedShots,0.6909999847412109,0.48900001525878906,0.01635369472205639,Hakan Calhanoglu,h,189,OpenPlay,2025,RightFoot,30038,Inter,Napoli,2,2,2026-01-11 19:45:00,Piotr Zielinski,Pass
+662842,65,BlockedShot,0.7759999847412109,0.285,0.016661562025547028,Hakan Calhanoglu,h,189,OpenPlay,2025,RightFoot,30038,Inter,Napoli,2,2,2026-01-11 19:45:00,Nicolò Barella,Pass
+662843,72,Goal,0.885,0.5,0.7612988352775574,Hakan Calhanoglu,h,189,Penalty,2025,RightFoot,30038,Inter,Napoli,2,2,2026-01-11 19:45:00,,Standard
+668898,66,SavedShot,0.789000015258789,0.3220000076293945,0.01752348244190216,Hakan Calhanoglu,h,189,FromCorner,2025,RightFoot,30087,Inter,Juventus,3,2,2026-02-14 19:45:00,,None
+668900,67,BlockedShot,0.715999984741211,0.40099998474121096,0.014937185682356358,Hakan Calhanoglu,h,189,OpenPlay,2025,RightFoot,30087,Inter,Juventus,3,2,2026-02-14 19:45:00,Andy Diouf,Pass
+668908,86,SavedShot,0.8230000305175781,0.504000015258789,0.06517036259174347,Hakan Calhanoglu,h,189,OpenPlay,2025,LeftFoot,30087,Inter,Juventus,3,2,2026-02-14 19:45:00,Andy Diouf,Pass
+668910,88,MissedShots,0.7390000152587891,0.56,0.018717514351010323,Hakan Calhanoglu,h,189,OpenPlay,2025,RightFoot,30087,Inter,Juventus,3,2,2026-02-14 19:45:00,Piotr Zielinski,Pass
+671324,69,Goal,0.885,0.5,0.7612988352775574,Hakan Calhanoglu,h,189,Penalty,2025,RightFoot,30105,Inter,Genoa,2,0,2026-02-28 19:45:00,,Standard
+677226,4,SavedShot,0.73,0.5940000152587891,0.026083994656801224,Hakan Calhanoglu,h,189,OpenPlay,2025,RightFoot,30145,Inter,Roma,5,2,2026-04-05 18:45:00,Federico Dimarco,TakeOn
+677238,46,Goal,0.7140000152587891,0.51,0.016287829726934433,Hakan Calhanoglu,h,189,OpenPlay,2025,RightFoot,30145,Inter,Roma,5,2,2026-04-05 18:45:00,Piotr Zielinski,Pass
+678683,51,MissedShots,0.745999984741211,0.57,0.016744090244174004,Hakan Calhanoglu,a,189,OpenPlay,2025,LeftFoot,30157,Como,Inter,3,4,2026-04-12 18:45:00,,None
+678955,46,MissedShots,0.750999984741211,0.629000015258789,0.022763269022107124,Hakan Calhanoglu,h,189,OpenPlay,2025,LeftFoot,30164,Inter,Cagliari,3,0,2026-04-17 18:45:00,Nicolò Barella,Pass
+678961,59,MissedShots,0.71,0.4859999847412109,0.04201972484588623,Hakan Calhanoglu,h,189,DirectFreekick,2025,RightFoot,30164,Inter,Cagliari,3,0,2026-04-17 18:45:00,,Standard

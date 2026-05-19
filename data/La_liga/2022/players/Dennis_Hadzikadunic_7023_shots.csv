@@ -1,0 +1,39 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+240278,16,MissedShots,0.9069999694824219,0.4129999923706055,0.0452273003757,Dennis Hadzikadunic,h,7023,OpenPlay,2018,Head,9055,FC Rostov,Dinamo Moscow,0,0,2018-11-10 16:00:00,Dmitrii Skopintcev,Cross
+273567,41,BlockedShot,0.9869999694824219,0.40400001525878904,0.019091099500656128,Dennis Hadzikadunic,a,7023,FromCorner,2018,Head,9082,FC Yenisey Krasnoyarsk,FC Rostov,1,1,2019-03-03 11:00:00,Roman Eremenko,Cross
+292368,56,BlockedShot,0.9640000152587891,0.3729999923706055,0.023064900189638138,Dennis Hadzikadunic,a,7023,SetPiece,2018,Head,9114,FC Ufa,FC Rostov,1,0,2019-04-07 09:30:00,Roman Eremenko,Cross
+298603,72,MissedShots,0.9019999694824219,0.455,0.05180300027132034,Dennis Hadzikadunic,a,7023,FromCorner,2018,Head,9146,Anzhi Makhachkala,FC Rostov,1,1,2019-04-27 14:30:00,Evgeniy Chernov,Cross
+298611,91,BlockedShot,0.879000015258789,0.49400001525878906,0.06895659863948822,Dennis Hadzikadunic,a,7023,FromCorner,2018,LeftFoot,9146,Anzhi Makhachkala,FC Rostov,1,1,2019-04-27 14:30:00,Baktiyor Zainutdinov,BallTouch
+298613,92,SavedShot,0.9,0.5829999923706055,0.032034799456596375,Dennis Hadzikadunic,a,7023,FromCorner,2018,Head,9146,Anzhi Makhachkala,FC Rostov,1,1,2019-04-27 14:30:00,Ivan Novoseltsev,Rebound
+309590,87,SavedShot,0.674000015258789,0.34299999237060547,0.007397729903459549,Dennis Hadzikadunic,a,7023,OpenPlay,2019,RightFoot,11068,FC Ufa,FC Rostov,2,0,2019-08-18 14:30:00,Roman Eremenko,Pass
+330449,73,BlockedShot,0.8009999847412109,0.5159999847412109,0.03435570001602173,Dennis Hadzikadunic,h,7023,FromCorner,2019,RightFoot,11143,FC Rostov,FC Tambov,1,2,2019-11-09 13:30:00,Baktiyor Zainutdinov,Pass
+369732,26,Goal,0.8690000152587891,0.46,0.012826099991798401,Dennis Hadzikadunic,h,7023,FromCorner,2019,Head,11233,FC Rostov,FC Ufa,1,2,2020-07-08 17:30:00,Evgeniy Chernov,Aerial
+369752,79,BlockedShot,0.895,0.455,0.0406888984143734,Dennis Hadzikadunic,h,7023,FromCorner,2019,Head,11233,FC Rostov,FC Ufa,1,2,2020-07-08 17:30:00,Pavel Mamaev,Cross
+370876,54,SavedShot,0,0,0.005191079806536436,Dennis Hadzikadunic,a,7023,OpenPlay,2019,RightFoot,11246,FC Orenburg,FC Rostov,0,0,2020-07-12 15:30:00,Evgeniy Chernov,Pass
+371782,9,SavedShot,0.9030000305175782,0.425,0.08960840106010437,Dennis Hadzikadunic,a,7023,FromCorner,2019,RightFoot,11251,Rubin Kazan,FC Rostov,0,0,2020-07-16 15:00:00,,None
+376012,58,BlockedShot,0.87,0.4,0.07142239809036255,Dennis Hadzikadunic,h,7023,OpenPlay,2020,RightFoot,14035,FC Rostov,Ural,1,0,2020-08-26 17:30:00,Roman Eremenko,Goal
+377130,48,MissedShots,0.8809999847412109,0.590999984741211,0.018572600558400154,Dennis Hadzikadunic,h,7023,OpenPlay,2020,Head,14232,FC Rostov,Lokomotiv Moscow,0,0,2020-09-14 17:30:00,Aleksey Ionov,Cross
+382677,13,MissedShots,0.6680000305175782,0.4229999923706055,0.009588410146534443,Dennis Hadzikadunic,h,7023,OpenPlay,2020,RightFoot,14307,FC Rostov,FK Akhmat,3,0,2020-10-18 16:00:00,Denis Terentjev,Pass
+383747,65,SavedShot,0.725999984741211,0.4,0.012218499556183815,Dennis Hadzikadunic,h,7023,OpenPlay,2020,LeftFoot,14319,FC Rostov,Khimki,0,2,2020-10-25 13:30:00,Aleksei Kozlov,Pass
+390512,45,BlockedShot,0.635,0.4590000152587891,0.008571989834308624,Dennis Hadzikadunic,h,7023,OpenPlay,2020,RightFoot,14353,FC Rostov,FC Ufa,0,1,2020-12-06 11:00:00,Mathias Normann,Pass
+406624,79,MissedShots,0.8859999847412109,0.5129999923706055,0.03655879944562912,Dennis Hadzikadunic,a,7023,FromCorner,2020,Head,14377,Zenit St. Petersburg,FC Rostov,2,2,2021-02-27 13:30:00,Roman Tugarev,Cross
+410857,40,SavedShot,0.9259999847412109,0.495,0.08557560294866562,Dennis Hadzikadunic,a,7023,FromCorner,2020,RightFoot,14402,FC Rotor Volgograd,FC Rostov,0,4,2021-03-17 15:00:00,Maksim Osipenko,Aerial
+410858,40,BlockedShot,0.92,0.505,0.13434100151062012,Dennis Hadzikadunic,a,7023,FromCorner,2020,RightFoot,14402,FC Rotor Volgograd,FC Rostov,0,4,2021-03-17 15:00:00,,Rebound
+413951,23,MissedShots,0.6759999847412109,0.6020000076293945,0.010242599993944168,Dennis Hadzikadunic,h,7023,OpenPlay,2020,RightFoot,14424,FC Rostov,Rubin Kazan,0,1,2021-04-10 16:00:00,Armin Gigovic,Pass
+413973,90,MissedShots,0.875999984741211,0.515,0.07293179631233215,Dennis Hadzikadunic,h,7023,OpenPlay,2020,RightFoot,14424,FC Rostov,Rubin Kazan,0,1,2021-04-10 16:00:00,,None
+415315,32,Goal,0.925,0.605999984741211,0.08631490170955658,Dennis Hadzikadunic,a,7023,FromCorner,2020,RightFoot,14431,Lokomotiv Moscow,FC Rostov,4,1,2021-04-17 13:30:00,Kento Hashimoto,Rebound
+415326,78,SavedShot,0.8590000152587891,0.590999984741211,0.027503399178385735,Dennis Hadzikadunic,a,7023,SetPiece,2020,Head,14431,Lokomotiv Moscow,FC Rostov,4,1,2021-04-17 13:30:00,Nikolay Poyarkov,Chipped
+417884,19,MissedShots,0.9469999694824218,0.445,0.056710999459028244,Dennis Hadzikadunic,h,7023,FromCorner,2020,Head,14438,FC Rostov,Arsenal Tula,1,0,2021-04-25 13:30:00,Nikolay Poyarkov,Aerial
+417886,29,SavedShot,0.894000015258789,0.40400001525878904,0.107634998857975,Dennis Hadzikadunic,h,7023,OpenPlay,2020,RightFoot,14438,FC Rostov,Arsenal Tula,1,0,2021-04-25 13:30:00,Pontus Almqvist,Pass
+419155,28,MissedShots,0.9030000305175782,0.46599998474121096,0.04030349850654602,Dennis Hadzikadunic,h,7023,OpenPlay,2020,Head,14442,FC Rostov,FC Tambov,2,0,2021-05-02 13:30:00,Denis Terentjev,Aerial
+422182,44,BlockedShot,0.7190000152587891,0.37599998474121094,0.01089869998395443,Dennis Hadzikadunic,h,7023,OpenPlay,2020,LeftFoot,14461,FC Rostov,FC Krasnodar,1,3,2021-05-16 11:00:00,,None
+424998,38,MissedShots,0.86,0.525,0.01965869963169098,Dennis Hadzikadunic,h,7023,OpenPlay,2021,Head,16149,FC Rostov,Zenit St. Petersburg,2,4,2021-08-01 17:00:00,Pavel Mamaev,Cross
+425393,79,SavedShot,0.875999984741211,0.49700000762939456,0.03052080050110817,Dennis Hadzikadunic,a,7023,FromCorner,2021,Head,16156,Khimki,FC Rostov,1,1,2021-08-08 14:30:00,Danil Glebov,Chipped
+430845,68,SavedShot,0.7380000305175781,0.3139999961853027,0.015404400415718555,Dennis Hadzikadunic,h,7023,OpenPlay,2021,RightFoot,16186,FC Rostov,FC Krasnodar,1,1,2021-09-13 16:30:00,Bastos,Pass
+442929,16,BlockedShot,0.909000015258789,0.46599998474121096,0.024586200714111328,Dennis Hadzikadunic,h,7023,FromCorner,2021,Head,16249,FC Rostov,FC Ufa,2,2,2021-11-21 11:00:00,Dmitriy Poloz,Aerial
+442933,30,MissedShots,0.855999984741211,0.45099998474121095,0.01837039925158024,Dennis Hadzikadunic,h,7023,FromCorner,2021,Head,16249,FC Rostov,FC Ufa,2,2,2021-11-21 11:00:00,Nikolay Poyarkov,Cross
+518494,11,SavedShot,0.6790000152587891,0.7280000305175781,0.010230599902570248,Dennis Hadzikadunic,a,7023,OpenPlay,2022,RightFoot,19240,Real Valladolid,Mallorca,3,3,2023-04-09 12:00:00,Jaume Costa,Pass
+518499,47,MissedShots,0.915,0.49900001525878906,0.07460059970617294,Dennis Hadzikadunic,a,7023,SetPiece,2022,Head,19240,Real Valladolid,Mallorca,3,3,2023-04-09 12:00:00,Pablo Maffeo,Chipped
+520458,69,MissedShots,0.909000015258789,0.4929999923706055,0.0547339990735054,Dennis Hadzikadunic,a,7023,SetPiece,2022,Head,19244,Celta Vigo,Mallorca,0,1,2023-04-17 19:00:00,Lee Kang-In,Aerial
+520459,74,MissedShots,0.8880000305175781,0.49400001525878906,0.055446699261665344,Dennis Hadzikadunic,a,7023,FromCorner,2022,Head,19244,Celta Vigo,Mallorca,0,1,2023-04-17 19:00:00,Lee Kang-In,Cross
+522035,60,MissedShots,0.92,0.40299999237060546,0.061081741005182266,Dennis Hadzikadunic,a,7023,FromCorner,2022,Head,19263,Atletico Madrid,Mallorca,3,1,2023-04-26 17:30:00,Dani Rodríguez,Cross

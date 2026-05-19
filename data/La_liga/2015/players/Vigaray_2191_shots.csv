@@ -1,0 +1,13 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+39732,29,MissedShots,0.7780000305175782,0.2539999961853027,0.018196800723671913,Vigaray,h,2191,OpenPlay,2014,LeftFoot,5512,Getafe,Deportivo La Coruna,2,1,2015-04-05 18:00:00,Pablo Sarabia,BallRecovery
+86647,10,SavedShot,0.850999984741211,0.27600000381469725,0.029871700331568718,Vigaray,h,2191,OpenPlay,2015,RightFoot,1518,Getafe,Rayo Vallecano,1,1,2015-11-23 23:30:00,Álvaro Vázquez,Pass
+86667,74,SavedShot,0.8690000152587891,0.515,0.03736159950494766,Vigaray,h,2191,OpenPlay,2015,Head,1518,Getafe,Rayo Vallecano,1,1,2015-11-23 23:30:00,Pablo Sarabia,Cross
+92180,84,Goal,0.9690000152587891,0.61,0.04842650145292282,Vigaray,a,2191,FromCorner,2015,RightFoot,1756,Deportivo La Coruna,Getafe,0,2,2016-05-01 20:15:00,Pedro León,Cross
+92181,86,MissedShots,0.875,0.45099998474121095,0.10316000133752823,Vigaray,a,2191,OpenPlay,2015,RightFoot,1756,Deportivo La Coruna,Getafe,0,2,2016-05-01 20:15:00,Stefan Scepovic,Cross
+140951,79,MissedShots,0.759000015258789,0.33799999237060546,0.014235000126063824,Vigaray,a,2191,OpenPlay,2016,RightFoot,3899,Celta Vigo,Alaves,1,0,2017-01-15 19:15:00,,Rebound
+138806,53,BlockedShot,0.9309999847412109,0.34799999237060547,0.060144100338220596,Vigaray,h,2191,FromCorner,2016,LeftFoot,3907,Alaves,Leganes,2,2,2017-01-21 20:30:00,,None
+169879,10,MissedShots,0.705,0.34200000762939453,0.01197350025177002,Vigaray,h,2191,OpenPlay,2017,RightFoot,7912,Alaves,Villarreal,0,3,2017-09-17 11:00:00,,BallTouch
+170835,57,MissedShots,0.9430000305175781,0.43099998474121093,0.10583200305700302,Vigaray,a,2191,OpenPlay,2017,Head,7959,Real Betis,Alaves,2,0,2017-10-21 15:15:00,Alfonso,Cross
+172323,33,SavedShot,0.92,0.29200000762939454,0.006882410030812025,Vigaray,a,2191,SetPiece,2017,Head,7990,Getafe,Alaves,4,1,2017-11-18 12:00:00,Alexis,Aerial
+171277,26,MissedShots,0.9,0.47200000762939454,0.12896999716758728,Vigaray,h,2191,OpenPlay,2017,RightFoot,8000,Alaves,Eibar,1,2,2017-11-25 12:00:00,Rubén Sobrino,Pass
+281868,65,MissedShots,0.754000015258789,0.325,0.013220399618148804,Vigaray,a,2191,OpenPlay,2018,RightFoot,10211,Villarreal,Alaves,1,2,2019-03-02 15:15:00,,None

@@ -1,0 +1,175 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+76252,83,MissedShots,0.8440000152587891,0.5059999847412109,0.026235299184918404,Florian Grillitsch,h,116,FromCorner,2015,LeftFoot,1024,Werder Bremen,Schalke 04,0,3,2015-08-15 17:30:00,,Aerial
+77797,20,MissedShots,0.68,0.485,0.012237300164997578,Florian Grillitsch,a,116,OpenPlay,2015,RightFoot,1086,Hannover 96,Werder Bremen,1,0,2015-10-03 17:30:00,Anthony Ujah,Pass
+78336,79,MissedShots,0.81,0.7119999694824218,0.020517900586128235,Florian Grillitsch,a,116,SetPiece,2015,RightFoot,1103,Mainz 05,Werder Bremen,1,3,2015-10-24 17:30:00,Theodor Gebre Selassie,Pass
+78545,31,BlockedShot,0.9130000305175782,0.42700000762939455,0.11803799867630005,Florian Grillitsch,h,116,OpenPlay,2015,RightFoot,1115,Werder Bremen,Borussia Dortmund,1,3,2015-10-31 18:30:00,Fin Bartels,Pass
+78932,39,BlockedShot,0.8240000152587891,0.7609999847412109,0.01649329997599125,Florian Grillitsch,a,116,FromCorner,2015,LeftFoot,1134,Wolfsburg,Werder Bremen,6,0,2015-11-21 18:30:00,,None
+79213,34,BlockedShot,0.7680000305175781,0.3340000152587891,0.01998789981007576,Florian Grillitsch,h,116,OpenPlay,2015,RightFoot,1139,Werder Bremen,Hamburger SV,1,3,2015-11-28 18:30:00,Theodor Gebre Selassie,Pass
+79219,51,MissedShots,0.725,0.5459999847412109,0.012743799947202206,Florian Grillitsch,h,116,FromCorner,2015,RightFoot,1139,Werder Bremen,Hamburger SV,1,3,2015-11-28 18:30:00,,Aerial
+79226,63,BlockedShot,0.805,0.6430000305175781,0.023980500176548958,Florian Grillitsch,h,116,SetPiece,2015,LeftFoot,1139,Werder Bremen,Hamburger SV,1,3,2015-11-28 18:30:00,,None
+79738,51,SavedShot,0.909000015258789,0.5870000076293945,0.13069100677967072,Florian Grillitsch,h,116,OpenPlay,2015,RightFoot,1159,Werder Bremen,FC Cologne,1,1,2015-12-12 18:30:00,Levin Öztunali,Pass
+79960,68,BlockedShot,0.825999984741211,0.4620000076293945,0.06376879662275314,Florian Grillitsch,a,116,OpenPlay,2015,RightFoot,1168,Eintracht Frankfurt,Werder Bremen,2,1,2015-12-19 18:30:00,Janek Sternberg,Pass
+80067,36,BlockedShot,0.8090000152587891,0.549000015258789,0.016565099358558655,Florian Grillitsch,a,116,OpenPlay,2015,RightFoot,1182,Schalke 04,Werder Bremen,1,3,2016-01-24 20:30:00,,Aerial
+80068,36,BlockedShot,0.8080000305175781,0.5609999847412109,0.04409459978342056,Florian Grillitsch,a,116,OpenPlay,2015,RightFoot,1182,Schalke 04,Werder Bremen,1,3,2016-01-24 20:30:00,,Rebound
+80069,37,MissedShots,0.8580000305175781,0.6959999847412109,0.02853119932115078,Florian Grillitsch,a,116,OpenPlay,2015,RightFoot,1182,Schalke 04,Werder Bremen,1,3,2016-01-24 20:30:00,Claudio Pizarro,Chipped
+80448,12,BlockedShot,0.860999984741211,0.5579999923706055,0.0986303985118866,Florian Grillitsch,h,116,OpenPlay,2015,LeftFoot,1188,Werder Bremen,Hertha Berlin,3,3,2016-01-30 18:30:00,Claudio Pizarro,Pass
+80450,19,SavedShot,0.9459999847412109,0.31799999237060544,0.06480590254068375,Florian Grillitsch,h,116,OpenPlay,2015,RightFoot,1188,Werder Bremen,Hertha Berlin,3,3,2016-01-30 18:30:00,Levin Öztunali,Pass
+80465,51,BlockedShot,0.7919999694824219,0.4229999923706055,0.02787869982421398,Florian Grillitsch,h,116,OpenPlay,2015,RightFoot,1188,Werder Bremen,Hertha Berlin,3,3,2016-01-30 18:30:00,,None
+81369,62,BlockedShot,0.6909999847412109,0.4620000076293945,0.01246820017695427,Florian Grillitsch,h,116,FromCorner,2015,RightFoot,1220,Werder Bremen,Darmstadt,2,2,2016-02-27 18:30:00,,None
+81532,88,MissedShots,0.725,0.715,0.012285799719393253,Florian Grillitsch,a,116,FromCorner,2015,RightFoot,1235,Bayer Leverkusen,Werder Bremen,1,4,2016-03-02 23:00:00,,None
+81837,81,MissedShots,0.9119999694824219,0.534000015258789,0.5405539870262146,Florian Grillitsch,h,116,OpenPlay,2015,RightFoot,1239,Werder Bremen,Hannover 96,4,1,2016-03-05 18:30:00,Santiago García,Pass
+81942,32,MissedShots,0.899000015258789,0.6930000305175781,0.03332370147109032,Florian Grillitsch,a,116,OpenPlay,2015,LeftFoot,1252,Bayern Munich,Werder Bremen,5,0,2016-03-12 21:30:00,Levin Öztunali,Chipped
+82439,67,SavedShot,0.8469999694824218,0.6170000076293946,0.0448312982916832,Florian Grillitsch,a,116,FromCorner,2015,RightFoot,1270,Borussia Dortmund,Werder Bremen,3,2,2016-04-02 20:30:00,,None
+82733,42,Goal,0.794000015258789,0.69,0.026542499661445618,Florian Grillitsch,h,116,FromCorner,2015,RightFoot,1277,Werder Bremen,Augsburg,1,2,2016-04-09 17:30:00,Zlatko Junuzovic,Cross
+82926,18,SavedShot,0.8919999694824219,0.5829999923706055,0.3939090073108673,Florian Grillitsch,h,116,OpenPlay,2015,RightFoot,1287,Werder Bremen,Wolfsburg,3,2,2016-04-16 17:30:00,Fin Bartels,Throughball
+82943,55,MissedShots,0.815,0.3160000038146973,0.02986060082912445,Florian Grillitsch,h,116,FromCorner,2015,RightFoot,1287,Werder Bremen,Wolfsburg,3,2,2016-04-16 17:30:00,Zlatko Junuzovic,Pass
+83154,23,SavedShot,0.899000015258789,0.3509999847412109,0.3915649950504303,Florian Grillitsch,a,116,OpenPlay,2015,RightFoot,1291,Hamburger SV,Werder Bremen,2,1,2016-04-22 22:30:00,Fin Bartels,Pass
+83166,62,SavedShot,0.7240000152587891,0.43400001525878906,0.01022650022059679,Florian Grillitsch,a,116,OpenPlay,2015,RightFoot,1291,Hamburger SV,Werder Bremen,2,1,2016-04-22 22:30:00,,None
+83178,78,MissedShots,0.8690000152587891,0.4759999847412109,0.08080869913101196,Florian Grillitsch,a,116,OpenPlay,2015,RightFoot,1291,Hamburger SV,Werder Bremen,2,1,2016-04-22 22:30:00,Theodor Gebre Selassie,Chipped
+83396,59,BlockedShot,0.7619999694824219,0.46599998474121096,0.037704501301050186,Florian Grillitsch,h,116,OpenPlay,2015,LeftFoot,1308,Werder Bremen,VfB Stuttgart,6,2,2016-05-02 22:15:00,,None
+83399,62,BlockedShot,0.745,0.45599998474121095,0.022798199206590652,Florian Grillitsch,h,116,OpenPlay,2015,LeftFoot,1308,Werder Bremen,VfB Stuttgart,6,2,2016-05-02 22:15:00,Zlatko Junuzovic,Pass
+127988,63,MissedShots,0.7090000152587891,0.46700000762939453,0.015193399973213673,Florian Grillitsch,h,116,OpenPlay,2016,RightFoot,1343,Werder Bremen,Augsburg,1,2,2016-09-11 17:30:00,Fin Bartels,Pass
+128232,69,SavedShot,0.775,0.4370000076293945,0.035447098314762115,Florian Grillitsch,a,116,OpenPlay,2016,RightFoot,1351,Borussia M.Gladbach,Werder Bremen,4,1,2016-09-17 20:30:00,Serge Gnabry,TakeOn
+128997,52,SavedShot,0.8230000305175781,0.74,0.020075500011444092,Florian Grillitsch,a,116,OpenPlay,2016,RightFoot,1376,Darmstadt,Werder Bremen,2,2,2016-10-01 17:30:00,Zlatko Junuzovic,Pass
+130072,37,Goal,0.875,0.3609999847412109,0.28703999519348145,Florian Grillitsch,h,116,OpenPlay,2016,RightFoot,2823,Werder Bremen,Eintracht Frankfurt,1,2,2016-11-20 20:30:00,Niklas Moisander,Chipped
+133606,44,BlockedShot,0.8219999694824218,0.27700000762939453,0.026772599667310715,Florian Grillitsch,a,116,OpenPlay,2016,RightFoot,3785,Bayer Leverkusen,Werder Bremen,1,1,2017-03-10 19:30:00,Fin Bartels,Pass
+133609,57,MissedShots,0.9269999694824219,0.41700000762939454,0.08165399730205536,Florian Grillitsch,a,116,OpenPlay,2016,RightFoot,3785,Bayer Leverkusen,Werder Bremen,1,1,2017-03-10 19:30:00,,None
+133610,62,MissedShots,0.740999984741211,0.5509999847412109,0.02247060090303421,Florian Grillitsch,a,116,OpenPlay,2016,RightFoot,3785,Bayer Leverkusen,Werder Bremen,1,1,2017-03-10 19:30:00,Niklas Moisander,Pass
+132660,43,BlockedShot,0.9440000152587891,0.38,0.0308998990803957,Florian Grillitsch,h,116,OpenPlay,2016,Head,3798,Werder Bremen,RasenBallsport Leipzig,3,0,2017-03-18 14:30:00,Niklas Moisander,Aerial
+132663,58,Goal,0.8619999694824219,0.5359999847412109,0.08934289962053299,Florian Grillitsch,h,116,SetPiece,2016,LeftFoot,3798,Werder Bremen,RasenBallsport Leipzig,3,0,2017-03-18 14:30:00,Zlatko Junuzovic,Pass
+133458,27,BlockedShot,0.784000015258789,0.750999984741211,0.049848198890686035,Florian Grillitsch,a,116,DirectFreekick,2016,RightFoot,3807,Freiburg,Werder Bremen,2,5,2017-04-01 14:30:00,,Standard
+134190,44,SavedShot,0.8080000305175781,0.5129999923706055,0.06139390170574188,Florian Grillitsch,h,116,OpenPlay,2016,RightFoot,3814,Werder Bremen,Schalke 04,3,0,2017-04-04 19:00:00,Claudio Pizarro,Pass
+134828,44,BlockedShot,0.795,0.28100000381469725,0.05363430082798004,Florian Grillitsch,a,116,OpenPlay,2016,RightFoot,3821,Eintracht Frankfurt,Werder Bremen,2,2,2017-04-07 19:30:00,Maximilian Eggestein,Chipped
+134832,56,BlockedShot,0.8669999694824219,0.24299999237060546,0.034923698753118515,Florian Grillitsch,a,116,OpenPlay,2016,RightFoot,3821,Eintracht Frankfurt,Werder Bremen,2,2,2017-04-07 19:30:00,Zlatko Junuzovic,Pass
+134834,75,SavedShot,0.87,0.40900001525878904,0.07166880369186401,Florian Grillitsch,a,116,OpenPlay,2016,RightFoot,3821,Eintracht Frankfurt,Werder Bremen,2,2,2017-04-07 19:30:00,Theodor Gebre Selassie,HeadPass
+132950,17,MissedShots,0.874000015258789,0.44799999237060545,0.09496840089559555,Florian Grillitsch,h,116,OpenPlay,2016,RightFoot,3832,Werder Bremen,Hamburger SV,2,1,2017-04-16 14:30:00,Max Kruse,Pass
+132957,52,SavedShot,0.8680000305175781,0.44299999237060544,0.1034889966249466,Florian Grillitsch,h,116,OpenPlay,2016,RightFoot,3832,Werder Bremen,Hamburger SV,2,1,2017-04-16 14:30:00,Theodor Gebre Selassie,Pass
+132958,53,MissedShots,0.8680000305175781,0.355,0.06116440147161484,Florian Grillitsch,h,116,OpenPlay,2016,LeftFoot,3832,Werder Bremen,Hamburger SV,2,1,2017-04-16 14:30:00,Fin Bartels,Pass
+127685,24,MissedShots,0.8809999847412109,0.3270000076293945,0.06382109969854355,Florian Grillitsch,a,116,OpenPlay,2016,RightFoot,3875,Borussia Dortmund,Werder Bremen,4,3,2017-05-20 14:30:00,Fin Bartels,Pass
+166136,75,SavedShot,0.735,0.515,0.011002999730408192,Florian Grillitsch,a,116,OpenPlay,2017,LeftFoot,8271,Bayer Leverkusen,Hoffenheim,2,2,2017-08-26 14:30:00,,Aerial
+168417,2,SavedShot,0.8830000305175781,0.4540000152587891,0.4443590044975281,Florian Grillitsch,a,116,OpenPlay,2017,RightFoot,8339,Wolfsburg,Hoffenheim,1,1,2017-10-22 17:00:00,Mark Uth,Pass
+167828,89,SavedShot,0.7559999847412109,0.5979999923706054,0.023183999583125114,Florian Grillitsch,h,116,OpenPlay,2017,RightFoot,8359,Hoffenheim,Eintracht Frankfurt,1,1,2017-11-18 14:30:00,Nadiem Amiri,Pass
+188654,35,BlockedShot,0.730999984741211,0.4779999923706055,0.021463099867105484,Florian Grillitsch,h,116,OpenPlay,2017,RightFoot,8422,Hoffenheim,Bayer Leverkusen,1,4,2018-01-20 14:30:00,Dennis Geiger,Pass
+188658,49,BlockedShot,0.7319999694824219,0.36400001525878906,0.012888399884104729,Florian Grillitsch,h,116,OpenPlay,2017,RightFoot,8422,Hoffenheim,Bayer Leverkusen,1,4,2018-01-20 14:30:00,,None
+194708,13,BlockedShot,0.94,0.3509999847412109,0.07208610326051712,Florian Grillitsch,a,116,OpenPlay,2017,RightFoot,8439,Hertha Berlin,Hoffenheim,1,1,2018-02-03 14:30:00,Ádám Szalai,HeadPass
+195003,46,BlockedShot,0.7609999847412109,0.6309999847412109,0.017696300521492958,Florian Grillitsch,h,116,OpenPlay,2017,LeftFoot,8454,Hoffenheim,Mainz 05,4,2,2018-02-10 14:30:00,,None
+195005,48,BlockedShot,0.7190000152587891,0.34200000762939453,0.01098680030554533,Florian Grillitsch,h,116,OpenPlay,2017,RightFoot,8454,Hoffenheim,Mainz 05,4,2,2018-02-10 14:30:00,,Rebound
+195020,77,MissedShots,0.7680000305175781,0.5109999847412109,0.0288137998431921,Florian Grillitsch,h,116,OpenPlay,2017,RightFoot,8454,Hoffenheim,Mainz 05,4,2,2018-02-10 14:30:00,,None
+197290,10,MissedShots,0.740999984741211,0.555,0.011075800284743309,Florian Grillitsch,h,116,OpenPlay,2017,RightFoot,8469,Hoffenheim,Freiburg,1,1,2018-02-24 14:30:00,,Aerial
+197303,83,SavedShot,0.765,0.25799999237060545,0.017419299110770226,Florian Grillitsch,h,116,OpenPlay,2017,RightFoot,8469,Hoffenheim,Freiburg,1,1,2018-02-24 14:30:00,Lukas Rupp,Pass
+197307,93,MissedShots,0.799000015258789,0.3940000152587891,0.015139900147914886,Florian Grillitsch,h,116,OpenPlay,2017,LeftFoot,8469,Hoffenheim,Freiburg,1,1,2018-02-24 14:30:00,,Aerial
+198797,34,MissedShots,0.935,0.4,0.05377189815044403,Florian Grillitsch,a,116,FromCorner,2017,Head,8481,Augsburg,Hoffenheim,0,2,2018-03-03 14:30:00,Andrej Kramaric,Cross
+199919,22,BlockedShot,0.8819999694824219,0.5259999847412109,0.06279720366001129,Florian Grillitsch,h,116,SetPiece,2017,Head,8486,Hoffenheim,Wolfsburg,3,0,2018-03-10 14:30:00,Andrej Kramaric,Cross
+201297,11,BlockedShot,0.8619999694824219,0.5929999923706055,0.07619810104370117,Florian Grillitsch,a,116,OpenPlay,2017,RightFoot,8496,Borussia M.Gladbach,Hoffenheim,3,3,2018-03-17 14:30:00,Serge Gnabry,Pass
+201316,72,Goal,0.865,0.40900001525878904,0.09233500063419342,Florian Grillitsch,a,116,OpenPlay,2017,RightFoot,8496,Borussia M.Gladbach,Hoffenheim,3,3,2018-03-17 14:30:00,Mark Uth,Pass
+204501,10,SavedShot,0.6759999847412109,0.42400001525878905,0.01590310037136078,Florian Grillitsch,h,116,OpenPlay,2017,RightFoot,8506,Hoffenheim,FC Cologne,6,0,2018-03-31 14:30:00,Benjamin Hübner,Pass
+207351,18,MissedShots,0.8959999847412109,0.47900001525878905,0.12198399752378464,Florian Grillitsch,a,116,OpenPlay,2017,RightFoot,8516,Eintracht Frankfurt,Hoffenheim,1,1,2018-04-08 16:00:00,,Rebound
+214538,40,BlockedShot,0.72,0.5729999923706055,0.020543299615383148,Florian Grillitsch,h,116,OpenPlay,2017,RightFoot,8557,Hoffenheim,Borussia Dortmund,3,1,2018-05-12 14:30:00,Nico Schulz,BallTouch
+219802,23,BlockedShot,0.7869999694824219,0.5659999847412109,0.03562059998512268,Florian Grillitsch,a,116,OpenPlay,2018,LeftFoot,10337,Bayern Munich,Hoffenheim,3,1,2018-08-24 21:30:00,Ádám Szalai,Pass
+219807,46,SavedShot,0.730999984741211,0.545,0.015133200213313103,Florian Grillitsch,a,116,OpenPlay,2018,RightFoot,10337,Bayern Munich,Hoffenheim,3,1,2018-08-24 21:30:00,,None
+221613,70,MissedShots,0.759000015258789,0.34200000762939453,0.026057500392198563,Florian Grillitsch,h,116,OpenPlay,2018,RightFoot,10350,Hoffenheim,Freiburg,3,1,2018-09-01 13:30:00,Joelinton,TakeOn
+223482,28,SavedShot,0.715,0.629000015258789,0.013427799567580223,Florian Grillitsch,a,116,OpenPlay,2018,RightFoot,10359,Fortuna Duesseldorf,Hoffenheim,2,1,2018-09-15 13:30:00,Nico Schulz,Pass
+223490,47,BlockedShot,0.799000015258789,0.47,0.040004000067710876,Florian Grillitsch,a,116,OpenPlay,2018,RightFoot,10359,Fortuna Duesseldorf,Hoffenheim,2,1,2018-09-15 13:30:00,,None
+223498,78,ShotOnPost,0.7469999694824219,0.6229999923706054,0.01591539941728115,Florian Grillitsch,a,116,OpenPlay,2018,RightFoot,10359,Fortuna Duesseldorf,Hoffenheim,2,1,2018-09-15 13:30:00,,None
+226259,38,MissedShots,0.830999984741211,0.29100000381469726,0.043871600180864334,Florian Grillitsch,a,116,OpenPlay,2018,RightFoot,10374,Hannover 96,Hoffenheim,1,3,2018-09-25 18:30:00,,None
+226265,67,MissedShots,0.6909999847412109,0.45099998474121095,0.012803999707102776,Florian Grillitsch,a,116,OpenPlay,2018,RightFoot,10374,Hannover 96,Hoffenheim,1,3,2018-09-25 18:30:00,,None
+227836,18,SavedShot,0.8919999694824219,0.6229999923706054,0.05631930008530617,Florian Grillitsch,h,116,OpenPlay,2018,RightFoot,10385,Hoffenheim,RasenBallsport Leipzig,1,2,2018-09-29 13:30:00,Pavel Kaderábek,Cross
+227851,55,SavedShot,0.7530000305175781,0.5179999923706055,0.01487990003079176,Florian Grillitsch,h,116,OpenPlay,2018,LeftFoot,10385,Hoffenheim,RasenBallsport Leipzig,1,2,2018-09-29 13:30:00,Andrej Kramaric,HeadPass
+255376,38,BlockedShot,0.764000015258789,0.3240000152587891,0.014242500066757202,Florian Grillitsch,h,116,OpenPlay,2018,RightFoot,10392,Hoffenheim,Eintracht Frankfurt,1,2,2018-10-07 13:30:00,,Rebound
+255778,11,MissedShots,0.754000015258789,0.6530000305175782,0.016396500170230865,Florian Grillitsch,h,116,OpenPlay,2018,RightFoot,10409,Hoffenheim,VfB Stuttgart,4,0,2018-10-27 16:30:00,Joshua Brenet,Pass
+256030,14,MissedShots,0.8519999694824218,0.6229999923706054,0.06926579773426056,Florian Grillitsch,a,116,OpenPlay,2018,RightFoot,10424,Bayer Leverkusen,Hoffenheim,1,4,2018-11-03 14:30:00,Reiss Nelson,Pass
+256041,50,MissedShots,0.914000015258789,0.5629999923706055,0.14528900384902954,Florian Grillitsch,a,116,OpenPlay,2018,LeftFoot,10424,Bayer Leverkusen,Hoffenheim,1,4,2018-11-03 14:30:00,Nico Schulz,Pass
+257118,56,BlockedShot,0.8190000152587891,0.5690000152587891,0.04638570174574852,Florian Grillitsch,a,116,OpenPlay,2018,RightFoot,10462,Wolfsburg,Hoffenheim,2,2,2018-12-08 14:30:00,,None
+257848,16,BlockedShot,0.6969999694824218,0.365,0.013691400177776814,Florian Grillitsch,h,116,OpenPlay,2018,RightFoot,10482,Hoffenheim,Mainz 05,1,1,2018-12-23 17:00:00,,TakeOn
+257878,77,MissedShots,0.7569999694824219,0.4879999923706055,0.024226199835538864,Florian Grillitsch,h,116,OpenPlay,2018,LeftFoot,10482,Hoffenheim,Mainz 05,1,1,2018-12-23 17:00:00,Pavel Kaderábek,Pass
+278590,32,MissedShots,0.764000015258789,0.590999984741211,0.02230899967253208,Florian Grillitsch,a,116,SetPiece,2018,RightFoot,10504,Freiburg,Hoffenheim,2,4,2019-01-26 14:30:00,Kerem Demirbay,Pass
+279008,81,BlockedShot,0.789000015258789,0.585,0.01640399917960167,Florian Grillitsch,a,116,FromCorner,2018,LeftFoot,10518,Borussia Dortmund,Hoffenheim,3,3,2019-02-09 14:30:00,,Aerial
+279632,39,SavedShot,0.769000015258789,0.31799999237060544,0.016408400610089302,Florian Grillitsch,a,116,OpenPlay,2018,LeftFoot,10547,Eintracht Frankfurt,Hoffenheim,3,2,2019-03-02 14:30:00,,None
+279633,39,MissedShots,0.845,0.5709999847412109,0.07054679840803146,Florian Grillitsch,a,116,OpenPlay,2018,RightFoot,10547,Eintracht Frankfurt,Hoffenheim,3,2,2019-03-02 14:30:00,Joelinton,Pass
+285140,14,BlockedShot,0.8580000305175781,0.5509999847412109,0.09270620346069336,Florian Grillitsch,h,116,OpenPlay,2018,RightFoot,10554,Hoffenheim,Nuernberg,2,1,2019-03-10 14:30:00,Joelinton,TakeOn
+285149,32,SavedShot,0.8009999847412109,0.27899999618530275,0.04136760160326958,Florian Grillitsch,h,116,OpenPlay,2018,LeftFoot,10554,Hoffenheim,Nuernberg,2,1,2019-03-10 14:30:00,,TakeOn
+286201,16,SavedShot,0.9069999694824219,0.4909999847412109,0.03666190057992935,Florian Grillitsch,a,116,FromCorner,2018,Head,10562,VfB Stuttgart,Hoffenheim,1,1,2019-03-16 14:30:00,,Aerial
+286221,73,MissedShots,0.95,0.580999984741211,0.09283199906349182,Florian Grillitsch,a,116,FromCorner,2018,Head,10562,VfB Stuttgart,Hoffenheim,1,1,2019-03-16 14:30:00,Kerem Demirbay,Cross
+292623,46,SavedShot,0.754000015258789,0.435,0.030219299718737602,Florian Grillitsch,a,116,OpenPlay,2018,LeftFoot,10586,Augsburg,Hoffenheim,0,4,2019-04-07 14:30:00,Kerem Demirbay,Pass
+295642,18,MissedShots,0.7580000305175781,0.44799999237060545,0.025924500077962875,Florian Grillitsch,a,116,OpenPlay,2018,RightFoot,10600,Schalke 04,Hoffenheim,2,5,2019-04-20 19:30:00,Kerem Demirbay,HeadPass
+298125,18,MissedShots,0.7609999847412109,0.5670000076293945,0.01630139909684658,Florian Grillitsch,h,116,SetPiece,2018,RightFoot,10608,Hoffenheim,Wolfsburg,1,4,2019-04-28 14:30:00,,None
+298141,54,SavedShot,0.764000015258789,0.4520000076293945,0.027820199728012085,Florian Grillitsch,h,116,OpenPlay,2018,RightFoot,10608,Hoffenheim,Wolfsburg,1,4,2019-04-28 14:30:00,,Dispossessed
+299217,53,MissedShots,0.7469999694824219,0.5659999847412109,0.024465300142765045,Florian Grillitsch,a,116,OpenPlay,2018,RightFoot,10619,Borussia M.Gladbach,Hoffenheim,2,2,2019-05-04 14:30:00,Nico Schulz,Pass
+302259,72,BlockedShot,0.835,0.47400001525878904,0.05723150074481964,Florian Grillitsch,a,116,SetPiece,2018,RightFoot,10642,Mainz 05,Hoffenheim,4,2,2019-05-18 13:30:00,,None
+302260,74,SavedShot,0.7190000152587891,0.41,0.023514399304986,Florian Grillitsch,a,116,OpenPlay,2018,RightFoot,10642,Mainz 05,Hoffenheim,4,2,2019-05-18 13:30:00,Nico Schulz,Pass
+312375,77,BlockedShot,0.865,0.445,0.11716599762439728,Florian Grillitsch,h,116,OpenPlay,2019,RightFoot,12414,Hoffenheim,Werder Bremen,3,2,2019-08-24 14:30:00,Ishak Belfodil,Pass
+312380,88,MissedShots,0.9180000305175782,0.445,0.04880160093307495,Florian Grillitsch,h,116,SetPiece,2019,Head,12414,Hoffenheim,Werder Bremen,3,2,2019-08-24 14:30:00,Konstantinos Stafylidis,Aerial
+318015,24,MissedShots,0.7819999694824219,0.7169999694824218,0.015842299908399582,Florian Grillitsch,h,116,OpenPlay,2019,RightFoot,12437,Hoffenheim,Freiburg,0,3,2019-09-15 13:30:00,,None
+318016,26,MissedShots,0.740999984741211,0.45,0.018510200083255768,Florian Grillitsch,h,116,OpenPlay,2019,RightFoot,12437,Hoffenheim,Freiburg,0,3,2019-09-15 13:30:00,Ihlas Bebou,Pass
+330256,74,MissedShots,0.754000015258789,0.67,0.014902000315487385,Florian Grillitsch,a,116,FromCorner,2019,RightFoot,12498,FC Cologne,Hoffenheim,1,2,2019-11-08 19:30:00,,None
+333069,47,BlockedShot,0.7759999847412109,0.654000015258789,0.026086000725626945,Florian Grillitsch,h,116,FromCorner,2019,RightFoot,12506,Hoffenheim,Mainz 05,1,5,2019-11-24 17:00:00,Sebastian Rudy,Pass
+333080,84,MissedShots,0.9530000305175781,0.5059999847412109,0.15445299446582794,Florian Grillitsch,h,116,OpenPlay,2019,Head,12506,Hoffenheim,Mainz 05,1,5,2019-11-24 17:00:00,Robert Skov,Cross
+336701,40,MissedShots,0.72,0.3659999847412109,0.012126799672842026,Florian Grillitsch,h,116,FromCorner,2019,RightFoot,12531,Hoffenheim,Augsburg,2,4,2019-12-13 19:30:00,,Aerial
+336703,42,BlockedShot,0.8380000305175781,0.4540000152587891,0.039413899183273315,Florian Grillitsch,h,116,FromCorner,2019,RightFoot,12531,Hoffenheim,Augsburg,2,4,2019-12-13 19:30:00,Sebastian Rudy,Cross
+357994,43,MissedShots,0.75,0.6120000076293945,0.01821170002222061,Florian Grillitsch,a,116,OpenPlay,2019,RightFoot,12590,Freiburg,Hoffenheim,1,0,2020-02-08 14:30:00,Diadie Samassékou,Pass
+359778,13,SavedShot,0.909000015258789,0.4209999847412109,0.05036250129342079,Florian Grillitsch,a,116,FromCorner,2019,Head,12603,Borussia M.Gladbach,Hoffenheim,1,1,2020-02-22 14:30:00,Robert Skov,Cross
+359786,42,MissedShots,0.725,0.3820000076293945,0.017428500577807426,Florian Grillitsch,a,116,OpenPlay,2019,RightFoot,12603,Borussia M.Gladbach,Hoffenheim,1,1,2020-02-22 14:30:00,Ihlas Bebou,Pass
+359789,48,BlockedShot,0.879000015258789,0.3629999923706055,0.07192260026931763,Florian Grillitsch,a,116,OpenPlay,2019,RightFoot,12603,Borussia M.Gladbach,Hoffenheim,1,1,2020-02-22 14:30:00,Christoph Baumgartner,Pass
+359802,65,MissedShots,0.7480000305175781,0.41,0.018990499898791313,Florian Grillitsch,a,116,OpenPlay,2019,RightFoot,12603,Borussia M.Gladbach,Hoffenheim,1,1,2020-02-22 14:30:00,Ihlas Bebou,Pass
+360755,10,BlockedShot,0.8019999694824219,0.41200000762939454,0.04414450004696846,Florian Grillitsch,h,116,OpenPlay,2019,RightFoot,12613,Hoffenheim,Bayern Munich,0,6,2020-02-29 14:30:00,Jacob Bruun Larsen,Pass
+362987,70,BlockedShot,0.899000015258789,0.4909999847412109,0.36851099133491516,Florian Grillitsch,h,116,OpenPlay,2019,RightFoot,12632,Hoffenheim,Hertha Berlin,0,3,2020-05-16 13:30:00,Jacob Bruun Larsen,Pass
+363154,56,BlockedShot,0.8530000305175781,0.6020000076293945,0.07084870338439941,Florian Grillitsch,a,116,OpenPlay,2019,LeftFoot,12637,Paderborn,Hoffenheim,1,1,2020-05-23 13:30:00,Steven Zuber,Pass
+385522,42,MissedShots,0.8169999694824219,0.509000015258789,0.06719700247049332,Florian Grillitsch,h,116,OpenPlay,2020,RightFoot,15193,Hoffenheim,Union Berlin,1,3,2020-11-02 19:30:00,Sebastian Rudy,Pass
+386648,45,MissedShots,0.894000015258789,0.4879999923706055,0.09263960272073746,Florian Grillitsch,a,116,OpenPlay,2020,Head,15201,Wolfsburg,Hoffenheim,2,1,2020-11-08 14:30:00,Sebastian Rudy,Cross
+386649,47,MissedShots,0.904000015258789,0.4570000076293945,0.038766998797655106,Florian Grillitsch,a,116,SetPiece,2020,Head,15201,Wolfsburg,Hoffenheim,2,1,2020-11-08 14:30:00,Sebastian Rudy,Aerial
+391124,16,Goal,0.97,0.425,0.3588460087776184,Florian Grillitsch,h,116,OpenPlay,2020,Head,15222,Hoffenheim,Augsburg,3,1,2020-12-07 19:30:00,Christoph Baumgartner,Chipped
+391125,19,MissedShots,0.8530000305175781,0.3579999923706055,0.07117660343647003,Florian Grillitsch,h,116,OpenPlay,2020,RightFoot,15222,Hoffenheim,Augsburg,3,1,2020-12-07 19:30:00,Ihlas Bebou,Pass
+391135,45,Goal,0.8440000152587891,0.34400001525878904,0.24241599440574646,Florian Grillitsch,h,116,OpenPlay,2020,LeftFoot,15222,Hoffenheim,Augsburg,3,1,2020-12-07 19:30:00,Ihlas Bebou,TakeOn
+392356,0,MissedShots,0.93,0.495,0.42635399103164673,Florian Grillitsch,a,116,OpenPlay,2020,Head,15233,Bayer Leverkusen,Hoffenheim,4,1,2020-12-13 17:00:00,Andrej Kramaric,Cross
+392368,51,SavedShot,0.7919999694824219,0.4,0.013126499950885773,Florian Grillitsch,a,116,OpenPlay,2020,LeftFoot,15233,Bayer Leverkusen,Hoffenheim,4,1,2020-12-13 17:00:00,,Aerial
+393873,8,MissedShots,0.9159999847412109,0.5,0.06085029989480972,Florian Grillitsch,a,116,OpenPlay,2020,Head,15249,Borussia M.Gladbach,Hoffenheim,1,2,2020-12-19 14:30:00,Ishak Belfodil,Aerial
+393885,36,MissedShots,0.715,0.5029999923706054,0.01614619977772236,Florian Grillitsch,a,116,OpenPlay,2020,RightFoot,15249,Borussia M.Gladbach,Hoffenheim,1,2,2020-12-19 14:30:00,Dennis Geiger,Pass
+393895,64,SavedShot,0.93,0.40900001525878904,0.08688689768314362,Florian Grillitsch,a,116,OpenPlay,2020,RightFoot,15249,Borussia M.Gladbach,Hoffenheim,1,2,2020-12-19 14:30:00,Stefan Posch,Chipped
+407122,12,SavedShot,0.7390000152587891,0.740999984741211,0.015398100018501282,Florian Grillitsch,a,116,FromCorner,2020,RightFoot,15343,Union Berlin,Hoffenheim,1,1,2021-02-28 12:30:00,Marco John,Pass
+410621,54,SavedShot,0.69,0.5020000076293946,0.010437400080263615,Florian Grillitsch,a,116,OpenPlay,2020,RightFoot,15364,VfB Stuttgart,Hoffenheim,2,0,2021-03-14 17:00:00,,None
+416479,92,SavedShot,0.8680000305175781,0.40900001525878904,0.12667199969291687,Florian Grillitsch,h,116,OpenPlay,2020,RightFoot,15403,Hoffenheim,Borussia M.Gladbach,3,2,2021-04-21 18:30:00,Sargis Adamyan,Pass
+417138,21,SavedShot,0.6859999847412109,0.515,0.013378500007092953,Florian Grillitsch,a,116,OpenPlay,2020,RightFoot,15414,Freiburg,Hoffenheim,1,1,2021-04-24 13:30:00,Chris Richards,Pass
+417143,29,BlockedShot,0.860999984741211,0.47900001525878905,0.0681706964969635,Florian Grillitsch,a,116,OpenPlay,2020,RightFoot,15414,Freiburg,Hoffenheim,1,1,2021-04-24 13:30:00,Pavel Kaderábek,Cross
+417155,62,BlockedShot,0.67,0.610999984741211,0.012981600128114223,Florian Grillitsch,a,116,OpenPlay,2020,RightFoot,15414,Freiburg,Hoffenheim,1,1,2021-04-24 13:30:00,Christoph Baumgartner,Pass
+421957,9,BlockedShot,0.7330000305175781,0.720999984741211,0.016245700418949127,Florian Grillitsch,a,116,FromCorner,2020,RightFoot,15436,Arminia Bielefeld,Hoffenheim,1,1,2021-05-15 13:30:00,Robert Skov,Pass
+421958,13,SavedShot,0.9630000305175781,0.5879999923706055,0.38030800223350525,Florian Grillitsch,a,116,OpenPlay,2020,RightFoot,15436,Arminia Bielefeld,Hoffenheim,1,1,2021-05-15 13:30:00,Sargis Adamyan,TakeOn
+421976,88,MissedShots,0.755,0.42400001525878905,0.026050999760627747,Florian Grillitsch,a,116,OpenPlay,2020,RightFoot,15436,Arminia Bielefeld,Hoffenheim,1,1,2021-05-15 13:30:00,Ihlas Bebou,LayOff
+431221,41,BlockedShot,0.6569999694824219,0.6079999923706054,0.013719599694013596,Florian Grillitsch,a,116,FromCorner,2021,RightFoot,17555,Arminia Bielefeld,Hoffenheim,0,0,2021-09-18 13:30:00,David Raum,Pass
+434817,46,MissedShots,0.735,0.5659999847412109,0.015580699779093266,Florian Grillitsch,a,116,OpenPlay,2021,LeftFoot,17574,VfB Stuttgart,Hoffenheim,3,1,2021-10-02 13:30:00,,None
+441031,27,MissedShots,0.7190000152587891,0.4759999847412109,0.015471000224351883,Florian Grillitsch,a,116,OpenPlay,2021,RightFoot,17607,Bochum,Hoffenheim,2,0,2021-11-06 14:30:00,,BallRecovery
+441033,52,SavedShot,0.6409999847412109,0.645,0.010454099625349045,Florian Grillitsch,a,116,SetPiece,2021,RightFoot,17607,Bochum,Hoffenheim,2,0,2021-11-06 14:30:00,Robert Skov,Pass
+442477,77,ShotOnPost,0.985999984741211,0.5529999923706055,0.8580809831619263,Florian Grillitsch,h,116,OpenPlay,2021,LeftFoot,17618,Hoffenheim,RasenBallsport Leipzig,2,0,2021-11-20 14:30:00,,Rebound
+444065,72,BlockedShot,0.7730000305175782,0.6530000305175782,0.017442800104618073,Florian Grillitsch,a,116,FromCorner,2021,RightFoot,17624,Greuther Fuerth,Hoffenheim,3,6,2021-11-27 14:30:00,,None
+457706,80,SavedShot,0.8880000305175781,0.5359999847412109,0.5166590213775635,Florian Grillitsch,h,116,OpenPlay,2021,RightFoot,17707,Hoffenheim,Arminia Bielefeld,2,0,2022-02-13 16:30:00,Christoph Baumgartner,Throughball
+461771,5,MissedShots,0.7119999694824218,0.4909999847412109,0.016968199983239174,Florian Grillitsch,a,116,SetPiece,2021,RightFoot,17733,FC Cologne,Hoffenheim,0,1,2022-03-06 16:30:00,Andrej Kramaric,Pass
+533063,49,BlockedShot,0.78,0.6329999923706054,0.025128185749053955,Florian Grillitsch,h,116,FromCorner,2023,RightFoot,23068,Hoffenheim,Freiburg,1,2,2023-08-19 13:30:00,Andrej Kramaric,Pass
+534521,18,MissedShots,0.7580000305175781,0.5020000076293946,0.02478424273431301,Florian Grillitsch,a,116,OpenPlay,2023,RightFoot,23078,FC Heidenheim,Hoffenheim,2,3,2023-08-26 13:30:00,Grischa Prömel,Pass
+534537,55,SavedShot,0.8480000305175781,0.675,0.07138288766145706,Florian Grillitsch,a,116,OpenPlay,2023,RightFoot,23078,FC Heidenheim,Hoffenheim,2,3,2023-08-26 13:30:00,Robert Skov,TakeOn
+536116,28,MissedShots,0.7559999847412109,0.6580000305175782,0.02173483930528164,Florian Grillitsch,h,116,FromCorner,2023,RightFoot,23085,Hoffenheim,Wolfsburg,3,1,2023-09-02 13:30:00,Andrej Kramaric,Pass
+536124,54,ShotOnPost,0.8859999847412109,0.39799999237060546,0.29135197401046753,Florian Grillitsch,h,116,OpenPlay,2023,RightFoot,23085,Hoffenheim,Wolfsburg,3,1,2023-09-02 13:30:00,Attila Szalai,Chipped
+537435,21,BlockedShot,0.7569999694824219,0.365,0.01623966358602047,Florian Grillitsch,a,116,FromCorner,2023,RightFoot,23097,FC Cologne,Hoffenheim,1,3,2023-09-16 13:30:00,,None
+537436,27,Goal,0.46099998474121096,0.674000015258789,0.007684499956667423,Florian Grillitsch,a,116,OpenPlay,2023,RightFoot,23097,FC Cologne,Hoffenheim,1,3,2023-09-16 13:30:00,,Clearance
+540712,26,MissedShots,0.7669999694824219,0.6880000305175781,0.016663704067468643,Florian Grillitsch,h,116,OpenPlay,2023,RightFoot,23110,Hoffenheim,Borussia Dortmund,1,3,2023-09-29 18:30:00,Maximilian Beier,Pass
+542881,79,MissedShots,0.845,0.39,0.10381371527910233,Florian Grillitsch,a,116,OpenPlay,2023,RightFoot,23124,Werder Bremen,Hoffenheim,2,3,2023-10-07 16:30:00,Wout Weghorst,Pass
+543903,90,MissedShots,0.7040000152587891,0.4879999923706055,0.010641252622008324,Florian Grillitsch,h,116,OpenPlay,2023,RightFoot,23132,Hoffenheim,Eintracht Frankfurt,1,3,2023-10-21 13:30:00,Robert Skov,Pass
+550541,94,BlockedShot,0.7619999694824219,0.5109999847412109,0.01953243464231491,Florian Grillitsch,h,116,OpenPlay,2023,LeftFoot,23170,Hoffenheim,Mainz 05,1,1,2023-11-26 16:30:00,,Rebound
+550540,94,BlockedShot,0.754000015258789,0.3940000152587891,0.01823471300303936,Florian Grillitsch,h,116,OpenPlay,2023,RightFoot,23170,Hoffenheim,Mainz 05,1,1,2023-11-26 16:30:00,Wout Weghorst,Pass
+558905,71,MissedShots,0.720999984741211,0.475,0.02300107106566429,Florian Grillitsch,a,116,FromCorner,2023,RightFoot,23220,Freiburg,Hoffenheim,3,2,2024-01-20 14:30:00,Umut Tohumcu,Pass
+559818,47,SavedShot,0.7630000305175781,0.6709999847412109,0.013382243923842907,Florian Grillitsch,h,116,OpenPlay,2023,RightFoot,23232,Hoffenheim,FC Heidenheim,1,1,2024-01-27 14:30:00,Maximilian Beier,TakeOn
+563785,63,BlockedShot,0.7030000305175781,0.4829999923706055,0.014727020636200905,Florian Grillitsch,h,116,OpenPlay,2023,RightFoot,23259,Hoffenheim,Union Berlin,0,1,2024-02-17 14:30:00,Pavel Kaderábek,Pass
+567363,55,BlockedShot,0.76,0.6659999847412109,0.013147290796041489,Florian Grillitsch,h,116,FromCorner,2023,RightFoot,23277,Hoffenheim,Werder Bremen,2,1,2024-03-03 16:30:00,,Aerial
+567365,59,SavedShot,0.9209999847412109,0.7130000305175781,0.0664617121219635,Florian Grillitsch,h,116,OpenPlay,2023,LeftFoot,23277,Hoffenheim,Werder Bremen,2,1,2024-03-03 16:30:00,Maximilian Beier,Pass
+568793,62,SavedShot,0.8640000152587891,0.51,0.09878665208816528,Florian Grillitsch,a,116,OpenPlay,2023,LeftFoot,23284,Eintracht Frankfurt,Hoffenheim,3,1,2024-03-10 16:30:00,,None
+569619,69,BlockedShot,0.8009999847412109,0.76,0.016795683652162552,Florian Grillitsch,h,116,SetPiece,2023,RightFoot,23296,Hoffenheim,VfB Stuttgart,0,3,2024-03-16 17:30:00,Andrej Kramaric,Pass
+574907,45,BlockedShot,0.6990000152587891,0.4420000076293945,0.01373766828328371,Florian Grillitsch,h,116,OpenPlay,2023,RightFoot,23332,Hoffenheim,Borussia M.Gladbach,4,3,2024-04-20 13:30:00,Tim Drexler,Pass
+580397,73,SavedShot,0.73,0.7140000152587891,0.013479411602020264,Florian Grillitsch,a,116,OpenPlay,2023,RightFoot,23361,Darmstadt,Hoffenheim,0,6,2024-05-12 13:30:00,,None
+585993,44,BlockedShot,0.7869999694824219,0.28700000762939454,0.029056305065751076,Florian Grillitsch,h,116,FromCorner,2024,RightFoot,27744,Hoffenheim,Holstein Kiel,3,2,2024-08-24 13:30:00,Alexander Prass,Pass
+586001,56,MissedShots,0.740999984741211,0.5520000076293945,0.02197493240237236,Florian Grillitsch,h,116,OpenPlay,2024,RightFoot,27744,Hoffenheim,Holstein Kiel,3,2,2024-08-24 13:30:00,Alexander Prass,Pass
+590716,33,MissedShots,0.7669999694824219,0.315,0.01457273494452238,Florian Grillitsch,h,116,OpenPlay,2024,LeftFoot,27761,Hoffenheim,Bayer Leverkusen,1,4,2024-09-14 13:30:00,Pavel Kaderábek,Pass
+599271,16,BlockedShot,0.8880000305175781,0.6229999923706054,0.054219771176576614,Florian Grillitsch,a,116,FromCorner,2024,RightFoot,27807,FC Heidenheim,Hoffenheim,0,0,2024-10-27 18:30:00,Tom Bischof,Pass
+599279,47,MissedShots,0.8019999694824219,0.5690000152587891,0.04634309932589531,Florian Grillitsch,a,116,OpenPlay,2024,RightFoot,27807,FC Heidenheim,Hoffenheim,0,0,2024-10-27 18:30:00,Tom Bischof,Pass
+600012,47,SavedShot,0.7819999694824219,0.7240000152587891,0.017903294414281845,Florian Grillitsch,h,116,OpenPlay,2024,RightFoot,27818,Hoffenheim,St. Pauli,0,2,2024-11-02 14:30:00,Tom Bischof,Pass
+617711,6,SavedShot,0.874000015258789,0.6669999694824219,0.04972601681947708,Florian Grillitsch,h,116,OpenPlay,2024,RightFoot,27215,Real Valladolid,Sevilla,0,4,2025-02-16 15:15:00,,None
+619787,65,MissedShots,0.9290000152587891,0.515,0.1256970316171646,Florian Grillitsch,h,116,FromCorner,2024,Head,27239,Real Valladolid,Las Palmas,1,1,2025-02-28 20:00:00,Raul Moro,Cross
+619795,78,MissedShots,0.8209999847412109,0.4379999923706055,0.0422721691429615,Florian Grillitsch,h,116,FromCorner,2024,RightFoot,27239,Real Valladolid,Las Palmas,1,1,2025-02-28 20:00:00,,None
+623957,84,SavedShot,0.6840000152587891,0.3729999923706055,0.008111709728837013,Florian Grillitsch,a,116,OpenPlay,2024,LeftFoot,27265,Real Sociedad,Real Valladolid,2,1,2025-03-29 13:00:00,Juan Latasa,BallRecovery

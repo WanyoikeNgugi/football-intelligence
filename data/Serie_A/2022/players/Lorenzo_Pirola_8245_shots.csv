@@ -1,0 +1,29 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+499558,26,BlockedShot,0.91,0.5270000076293946,0.07745389640331268,Lorenzo Pirola,a,8245,FromCorner,2022,Head,18713,Fiorentina,Salernitana,2,1,2022-11-09 19:45:00,Pasquale Mazzocchi,Cross
+504742,55,MissedShots,0.9269999694824219,0.5479999923706055,0.2728370130062103,Lorenzo Pirola,h,8245,FromCorner,2022,Head,18769,Salernitana,Napoli,0,2,2023-01-21 17:00:00,Antonio Candreva,Cross
+510080,65,BlockedShot,0.9119999694824219,0.6079999923706054,0.026859400793910027,Lorenzo Pirola,h,8245,FromCorner,2022,Head,18807,Salernitana,Lazio,0,2,2023-02-19 14:00:00,Antonio Candreva,Cross
+512740,79,BlockedShot,0.89,0.5129999923706055,0.061371199786663055,Lorenzo Pirola,a,8245,FromCorner,2022,RightFoot,18828,Sampdoria,Salernitana,0,0,2023-03-05 14:00:00,Pasquale Mazzocchi,Cross
+515160,6,Goal,0.9380000305175781,0.4640000152587891,0.06226310133934021,Lorenzo Pirola,h,8245,FromCorner,2022,Head,18847,Salernitana,Bologna,2,2,2023-03-18 17:00:00,Antonio Candreva,Aerial
+515173,63,MissedShots,0.9009999847412109,0.41200000762939454,0.051614001393318176,Lorenzo Pirola,h,8245,FromCorner,2022,LeftFoot,18847,Salernitana,Bologna,2,2,2023-03-18 17:00:00,Antonio Candreva,Cross
+516971,46,BlockedShot,0.9169999694824219,0.5359999847412109,0.1303730010986328,Lorenzo Pirola,a,8245,FromCorner,2022,RightFoot,18856,Spezia,Salernitana,1,1,2023-04-02 13:00:00,,Rebound
+520039,4,MissedShots,0.855,0.54,0.025085899978876114,Lorenzo Pirola,a,8245,SetPiece,2022,Head,18881,Torino,Salernitana,1,1,2023-04-16 13:00:00,Antonio Candreva,Cross
+520061,92,MissedShots,0.9159999847412109,0.5120000076293946,0.09680759906768799,Lorenzo Pirola,a,8245,FromCorner,2022,LeftFoot,18881,Torino,Salernitana,1,1,2023-04-16 13:00:00,Antonio Candreva,Cross
+520679,8,Goal,0.95,0.46099998474121096,0.39158475399017334,Lorenzo Pirola,h,8245,FromCorner,2022,Head,18889,Salernitana,Sassuolo,3,0,2023-04-22 13:00:00,Norbert Gyömbér,Rebound
+520688,41,MissedShots,0.9159999847412109,0.62,0.03625604510307312,Lorenzo Pirola,h,8245,SetPiece,2022,Head,18889,Salernitana,Sassuolo,3,0,2023-04-22 13:00:00,Antonio Candreva,Cross
+528372,25,MissedShots,0.7169999694824218,0.7280000305175781,0.013609359040856361,Lorenzo Pirola,a,8245,OpenPlay,2022,LeftFoot,18938,Roma,Salernitana,2,2,2023-05-22 16:30:00,,BallRecovery
+530822,30,BlockedShot,0.9330000305175781,0.3920000076293945,0.0388031005859375,Lorenzo Pirola,a,8245,FromCorner,2022,Head,18953,Cremonese,Salernitana,2,0,2023-06-03 19:00:00,Antonio Candreva,Cross
+535669,17,MissedShots,0.735,0.6070000076293945,0.017215998843312263,Lorenzo Pirola,h,8245,OpenPlay,2023,LeftFoot,22323,Salernitana,Udinese,1,1,2023-08-28 16:30:00,Lassana Coulibaly,Pass
+538739,46,MissedShots,0.914000015258789,0.5159999847412109,0.09353899955749512,Lorenzo Pirola,h,8245,FromCorner,2023,Head,22350,Salernitana,Frosinone,1,1,2023-09-22 16:30:00,Matteo Lovato,Cross
+542967,34,MissedShots,0.695,0.6930000305175781,0.008069007657468319,Lorenzo Pirola,a,8245,OpenPlay,2023,LeftFoot,22381,Monza,Salernitana,3,0,2023-10-08 10:30:00,Antonio Candreva,Pass
+542974,74,MissedShots,0.9419999694824219,0.445,0.05557345226407051,Lorenzo Pirola,a,8245,FromCorner,2023,Head,22381,Monza,Salernitana,3,0,2023-10-08 10:30:00,Antonio Candreva,Aerial
+546654,7,SavedShot,0.919000015258789,0.6020000076293945,0.03573594242334366,Lorenzo Pirola,h,8245,FromCorner,2023,Head,22413,Salernitana,Napoli,0,2,2023-11-04 14:00:00,Antonio Candreva,Cross
+549499,32,MissedShots,0.8959999847412109,0.524000015258789,0.019530480727553368,Lorenzo Pirola,h,8245,FromCorner,2023,Head,22431,Salernitana,Lazio,2,1,2023-11-25 14:00:00,Grigoris Kastanos,Aerial
+553732,72,BlockedShot,0.85,0.4640000152587891,0.012329843826591969,Lorenzo Pirola,h,8245,FromCorner,2023,Head,22452,Salernitana,Bologna,1,2,2023-12-10 17:00:00,Antonio Candreva,Aerial
+553734,94,MissedShots,0.8980000305175782,0.445,0.195454940199852,Lorenzo Pirola,h,8245,SetPiece,2023,Head,22452,Salernitana,Bologna,1,2,2023-12-10 17:00:00,Loum Tchaouna,Cross
+555136,9,Goal,0.9030000305175782,0.535,0.09059077501296997,Lorenzo Pirola,a,8245,SetPiece,2023,Head,22455,Atalanta,Salernitana,4,1,2023-12-18 19:45:00,Antonio Candreva,Cross
+556026,28,BlockedShot,0.9009999847412109,0.6129999923706054,0.07153506577014923,Lorenzo Pirola,h,8245,OpenPlay,2023,LeftFoot,22473,Salernitana,AC Milan,2,2,2023-12-22 19:45:00,,Rebound
+562205,64,SavedShot,0.9,0.5629999923706055,0.01570325344800949,Lorenzo Pirola,h,8245,FromCorner,2023,Head,22541,Salernitana,Empoli,1,3,2024-02-09 19:45:00,Antonio Candreva,Aerial
+569531,13,SavedShot,0.9219999694824219,0.47200000762939454,0.04945516958832741,Lorenzo Pirola,h,8245,FromCorner,2023,Head,22594,Salernitana,Lecce,0,1,2024-03-16 17:00:00,Toma Basic,Aerial
+569537,20,MissedShots,0.9080000305175782,0.47900001525878905,0.04000944644212723,Lorenzo Pirola,h,8245,FromCorner,2023,Head,22594,Salernitana,Lecce,0,1,2024-03-16 17:00:00,Domagoj Bradaric,Aerial
+576511,79,MissedShots,0.8859999847412109,0.5609999847412109,0.06711751967668533,Lorenzo Pirola,a,8245,OpenPlay,2023,LeftFoot,22640,Frosinone,Salernitana,3,0,2024-04-26 18:45:00,Chukwubuikem Ikwuemesi,HeadPass
+579340,34,MissedShots,0.875999984741211,0.4590000152587891,0.013448021374642849,Lorenzo Pirola,h,8245,FromCorner,2023,Head,22647,Salernitana,Atalanta,1,2,2024-05-06 16:00:00,Domagoj Bradaric,Aerial

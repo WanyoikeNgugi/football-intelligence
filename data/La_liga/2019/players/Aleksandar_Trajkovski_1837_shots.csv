@@ -1,0 +1,55 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+93277,65,SavedShot,0.914000015258789,0.39099998474121095,0.03883130103349686,Aleksandar Trajkovski,h,1837,OpenPlay,2015,Head,554,Palermo,Genoa,1,0,2015-08-23 22:45:00,Franco Vázquez,Cross
+93283,88,SavedShot,0.7819999694824219,0.6880000305175781,0.022455699741840363,Aleksandar Trajkovski,h,1837,OpenPlay,2015,RightFoot,554,Palermo,Genoa,1,0,2015-08-23 22:45:00,Franco Vázquez,Pass
+93586,14,BlockedShot,0.8730000305175781,0.66,0.07770519703626633,Aleksandar Trajkovski,a,1837,OpenPlay,2015,RightFoot,565,Udinese,Palermo,0,1,2015-08-30 22:45:00,Robin Quaison,Pass
+95144,80,MissedShots,0.8880000305175781,0.47099998474121096,0.05495209991931915,Aleksandar Trajkovski,a,1837,SetPiece,2015,Head,582,AC Milan,Palermo,3,2,2015-09-19 22:45:00,Mato Jajalo,Chipped
+95146,93,MissedShots,0.685,0.5179999923706055,0.013495299965143204,Aleksandar Trajkovski,a,1837,OpenPlay,2015,RightFoot,582,AC Milan,Palermo,3,2,2015-09-19 22:45:00,Franco Vázquez,Pass
+96039,39,ShotOnPost,0.7430000305175781,0.3170000076293945,0.04329260066151619,Aleksandar Trajkovski,a,1837,DirectFreekick,2015,RightFoot,606,Torino,Palermo,2,1,2015-09-27 17:00:00,,Standard
+96400,34,MissedShots,0.735,0.4979999923706055,0.0549749992787838,Aleksandar Trajkovski,h,1837,DirectFreekick,2015,RightFoot,614,Palermo,Roma,2,4,2015-10-04 17:00:00,,Standard
+96407,53,MissedShots,0.735999984741211,0.5929999923706055,0.010416300036013126,Aleksandar Trajkovski,h,1837,OpenPlay,2015,RightFoot,614,Palermo,Roma,2,4,2015-10-04 17:00:00,,None
+98437,74,SavedShot,0.9819999694824219,0.605999984741211,0.23878799378871918,Aleksandar Trajkovski,h,1837,OpenPlay,2015,LeftFoot,660,Palermo,Empoli,0,1,2015-11-03 00:00:00,Luca Rigoni,BallTouch
+98440,86,SavedShot,0.9580000305175781,0.39599998474121095,0.09414459764957428,Aleksandar Trajkovski,h,1837,OpenPlay,2015,RightFoot,660,Palermo,Empoli,0,1,2015-11-03 00:00:00,,Rebound
+99916,68,MissedShots,0.9230000305175782,0.5729999923706055,0.0968886986374855,Aleksandar Trajkovski,h,1837,OpenPlay,2015,RightFoot,688,Palermo,Juventus,0,3,2015-11-29 23:45:00,Aljaz Struna,Chipped
+100258,89,MissedShots,0.8730000305175781,0.32,0.060033198446035385,Aleksandar Trajkovski,a,1837,OpenPlay,2015,RightFoot,695,Atalanta,Palermo,3,0,2015-12-06 18:00:00,Gastón Brugman,Pass
+100925,13,BlockedShot,0.8130000305175781,0.5370000076293945,0.06419529765844345,Aleksandar Trajkovski,h,1837,OpenPlay,2015,LeftFoot,702,Palermo,Frosinone,4,1,2015-12-12 21:00:00,,None
+100935,43,SavedShot,0.7819999694824219,0.5259999847412109,0.04737519845366478,Aleksandar Trajkovski,h,1837,OpenPlay,2015,RightFoot,702,Palermo,Frosinone,4,1,2015-12-12 21:00:00,Oscar Hiljemark,Pass
+100940,59,Goal,0.87,0.765,0.033750999718904495,Aleksandar Trajkovski,h,1837,OpenPlay,2015,RightFoot,702,Palermo,Frosinone,4,1,2015-12-12 21:00:00,Ivaylo Chochev,Pass
+100941,61,BlockedShot,0.735999984741211,0.5470000076293945,0.03453030064702034,Aleksandar Trajkovski,h,1837,OpenPlay,2015,RightFoot,702,Palermo,Frosinone,4,1,2015-12-12 21:00:00,Mato Jajalo,Pass
+101477,12,SavedShot,0.78,0.45299999237060545,0.03740699961781502,Aleksandar Trajkovski,a,1837,OpenPlay,2015,RightFoot,716,Sampdoria,Palermo,2,0,2015-12-20 21:00:00,Franco Vázquez,BallRecovery
+101478,15,MissedShots,0.7730000305175782,0.6020000076293945,0.0277623999863863,Aleksandar Trajkovski,a,1837,OpenPlay,2015,RightFoot,716,Sampdoria,Palermo,2,0,2015-12-20 21:00:00,Franco Vázquez,Pass
+101493,65,SavedShot,0.9,0.8630000305175781,0.046539001166820526,Aleksandar Trajkovski,a,1837,DirectFreekick,2015,RightFoot,716,Sampdoria,Palermo,2,0,2015-12-20 21:00:00,,Standard
+101496,84,SavedShot,0.8859999847412109,0.6140000152587891,0.27141499519348145,Aleksandar Trajkovski,a,1837,OpenPlay,2015,RightFoot,716,Sampdoria,Palermo,2,0,2015-12-20 21:00:00,Mato Jajalo,Chipped
+101972,58,MissedShots,0.77,0.735999984741211,0.013474799692630768,Aleksandar Trajkovski,h,1837,OpenPlay,2015,RightFoot,723,Palermo,Fiorentina,1,3,2016-01-06 18:00:00,Achraf Lazaar,Pass
+101974,65,BlockedShot,0.740999984741211,0.7140000152587891,0.00721355015411973,Aleksandar Trajkovski,h,1837,OpenPlay,2015,RightFoot,723,Palermo,Fiorentina,1,3,2016-01-06 18:00:00,Achraf Lazaar,TakeOn
+102493,53,MissedShots,0.9409999847412109,0.39299999237060546,0.06279250234365463,Aleksandar Trajkovski,a,1837,SetPiece,2015,Head,738,Verona,Palermo,0,1,2016-01-10 18:00:00,Oscar Hiljemark,Cross
+102495,58,MissedShots,0.845,0.24399999618530274,0.02336289919912815,Aleksandar Trajkovski,a,1837,OpenPlay,2015,RightFoot,738,Verona,Palermo,0,1,2016-01-10 18:00:00,,TakeOn
+94394,86,Goal,0.8319999694824218,0.6840000152587891,0.059001799672842026,Aleksandar Trajkovski,h,1837,OpenPlay,2015,RightFoot,759,Palermo,Udinese,4,1,2016-01-24 18:00:00,Uros Djurdjevic,Pass
+94396,89,SavedShot,0.8719999694824219,0.6580000305175782,0.09613630175590515,Aleksandar Trajkovski,h,1837,OpenPlay,2015,RightFoot,759,Palermo,Udinese,4,1,2016-01-24 18:00:00,Franco Vázquez,Chipped
+95444,63,BlockedShot,0.9169999694824219,0.295,0.03443169966340065,Aleksandar Trajkovski,h,1837,OpenPlay,2015,RightFoot,776,Palermo,AC Milan,0,2,2016-02-03 23:45:00,Uros Djurdjevic,Chipped
+95057,57,BlockedShot,0.6969999694824218,0.7119999694824218,0.015097499825060368,Aleksandar Trajkovski,a,1837,OpenPlay,2015,RightFoot,785,Sassuolo,Palermo,2,2,2016-02-07 18:00:00,Achraf Lazaar,Pass
+97033,76,SavedShot,0.9290000152587891,0.32599998474121095,0.06736209988594055,Aleksandar Trajkovski,h,1837,OpenPlay,2015,RightFoot,813,Palermo,Bologna,0,0,2016-02-28 15:30:00,Oscar Hiljemark,Pass
+98690,38,MissedShots,0.7130000305175781,0.5229999923706055,0.043188899755477905,Aleksandar Trajkovski,a,1837,DirectFreekick,2015,RightFoot,841,Empoli,Palermo,0,0,2016-03-19 21:00:00,,Standard
+98697,69,MissedShots,0.8059999847412109,0.7090000152587891,0.06807950139045715,Aleksandar Trajkovski,a,1837,DirectFreekick,2015,RightFoot,841,Empoli,Palermo,0,0,2016-03-19 21:00:00,,Standard
+100147,30,BlockedShot,0.9259999847412109,0.5690000152587891,0.4477370083332062,Aleksandar Trajkovski,a,1837,OpenPlay,2015,RightFoot,876,Juventus,Palermo,4,0,2016-04-17 17:00:00,Franco Vázquez,Throughball
+100150,43,SavedShot,0.8009999847412109,0.7280000305175781,0.03269070014357567,Aleksandar Trajkovski,a,1837,FromCorner,2015,RightFoot,876,Juventus,Palermo,4,0,2016-04-17 17:00:00,Ivaylo Chochev,Pass
+100480,45,BlockedShot,0.915,0.40900001525878904,0.09654369950294495,Aleksandar Trajkovski,h,1837,OpenPlay,2015,LeftFoot,884,Palermo,Atalanta,2,2,2016-04-20 22:45:00,Aljaz Struna,Cross
+100489,84,SavedShot,0.82,0.7559999847412109,0.05923590064048767,Aleksandar Trajkovski,h,1837,DirectFreekick,2015,RightFoot,884,Palermo,Atalanta,2,2,2016-04-20 22:45:00,,Standard
+101207,83,MissedShots,0.7140000152587891,0.785,0.008392799645662308,Aleksandar Trajkovski,a,1837,OpenPlay,2015,RightFoot,892,Frosinone,Palermo,0,2,2016-04-24 14:30:00,Alberto Gilardino,Chipped
+101209,91,Goal,0.8430000305175781,0.44299999237060544,0.2108139991760254,Aleksandar Trajkovski,a,1837,OpenPlay,2015,RightFoot,892,Frosinone,Palermo,0,2,2016-04-24 14:30:00,Thiago Cionek,BallRecovery
+101738,6,BlockedShot,0.7330000305175781,0.41700000762939454,0.05013370141386986,Aleksandar Trajkovski,h,1837,DirectFreekick,2015,RightFoot,904,Palermo,Sampdoria,2,0,2016-05-01 17:00:00,,Standard
+152858,89,Goal,0.8530000305175781,0.39599998474121095,0.11044300347566605,Aleksandar Trajkovski,a,1837,OpenPlay,2016,RightFoot,3096,Genoa,Palermo,3,4,2016-12-18 23:45:00,Ilija Nestorovski,Pass
+146137,62,BlockedShot,0.7719999694824219,0.620999984741211,0.016170600429177284,Aleksandar Trajkovski,h,1837,SetPiece,2016,RightFoot,3567,Palermo,Crotone,1,0,2017-02-05 17:00:00,,None
+146615,15,BlockedShot,0.7569999694824219,0.5270000076293946,0.07050760090351105,Aleksandar Trajkovski,h,1837,DirectFreekick,2016,RightFoot,3578,Palermo,Atalanta,1,3,2017-02-12 14:00:00,,Standard
+149870,18,BlockedShot,0.88,0.7169999694824218,0.04279650002717972,Aleksandar Trajkovski,h,1837,OpenPlay,2016,RightFoot,3634,Palermo,Cagliari,1,3,2017-04-02 14:00:00,Giuseppe Pezzella,Pass
+150955,4,BlockedShot,0.815,0.6969999694824218,0.0220125000923872,Aleksandar Trajkovski,h,1837,OpenPlay,2016,RightFoot,3653,Palermo,Bologna,0,0,2017-04-15 14:00:00,Ilija Nestorovski,Pass
+150959,32,BlockedShot,0.8809999847412109,0.575,0.10072200000286102,Aleksandar Trajkovski,h,1837,OpenPlay,2016,RightFoot,3653,Palermo,Bologna,0,0,2017-04-15 14:00:00,Bruno Henrique,TakeOn
+310977,81,MissedShots,0.87,0.3629999923706055,0.08431559801101685,Aleksandar Trajkovski,h,1837,OpenPlay,2019,RightFoot,12025,Mallorca,Eibar,2,1,2019-08-17 19:00:00,Joan Sastre,Pass
+313076,69,BlockedShot,0.8430000305175781,0.49900001525878906,0.03218879923224449,Aleksandar Trajkovski,h,1837,OpenPlay,2019,RightFoot,12040,Mallorca,Real Sociedad,0,1,2019-08-25 16:00:00,,Aerial
+327241,92,MissedShots,0.894000015258789,0.3729999923706055,0.06319580227136612,Aleksandar Trajkovski,a,1837,OpenPlay,2019,RightFoot,12117,Leganes,Mallorca,1,0,2019-10-26 15:00:00,Raíllo,HeadPass
+366826,94,SavedShot,0.9390000152587891,0.6940000152587891,0.05996000021696091,Aleksandar Trajkovski,a,1837,OpenPlay,2019,RightFoot,12333,Athletic Club,Mallorca,3,1,2020-06-27 16:30:00,Salva Sevilla,TakeOn
+368489,49,BlockedShot,0.7980000305175782,0.455,0.04865289852023125,Aleksandar Trajkovski,a,1837,OpenPlay,2019,RightFoot,12354,Atletico Madrid,Mallorca,3,0,2020-07-03 20:00:00,Takefusa Kubo,Pass
+371165,72,SavedShot,0.73,0.4179999923706055,0.013679799623787403,Aleksandar Trajkovski,a,1837,OpenPlay,2019,RightFoot,12381,Sevilla,Mallorca,2,0,2020-07-12 20:00:00,,None
+371169,87,SavedShot,0.7719999694824219,0.4879999923706055,0.030111700296401978,Aleksandar Trajkovski,a,1837,OpenPlay,2019,RightFoot,12381,Sevilla,Mallorca,2,0,2020-07-12 20:00:00,Aleksander Sedlar,Pass
+371172,96,SavedShot,0.6980000305175781,0.29200000762939454,0.011622400023043156,Aleksandar Trajkovski,a,1837,OpenPlay,2019,RightFoot,12381,Sevilla,Mallorca,2,0,2020-07-12 20:00:00,Señé,Pass
+372233,91,MissedShots,0.825999984741211,0.6959999847412109,0.027685800567269325,Aleksandar Trajkovski,h,1837,OpenPlay,2019,RightFoot,12391,Mallorca,Granada,1,2,2020-07-16 19:00:00,Lago Junior,Pass
+372234,93,BlockedShot,0.909000015258789,0.6819999694824219,0.02144020050764084,Aleksandar Trajkovski,h,1837,OpenPlay,2019,LeftFoot,12391,Mallorca,Granada,1,2,2020-07-16 19:00:00,Ante Budimir,Aerial

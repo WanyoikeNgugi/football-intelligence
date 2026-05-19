@@ -1,0 +1,7 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+309890,89,BlockedShot,0.8859999847412109,0.47900001525878905,0.07547400146722794,Jonathan Panzo,h,7247,FromCorner,2019,LeftFoot,12709,Monaco,Lyon,0,3,2019-08-09 19:45:00,Moussa Sylla,BallTouch
+383628,83,SavedShot,0.889000015258789,0.5129999923706055,0.017005199566483498,Jonathan Panzo,a,7247,FromCorner,2020,Head,15831,Paris Saint Germain,Dijon,4,0,2020-10-24 19:00:00,Mounir Chouiar,Aerial
+385072,22,SavedShot,0.765,0.7369999694824219,0.014804000034928322,Jonathan Panzo,h,7247,OpenPlay,2020,LeftFoot,15837,Dijon,Lorient,0,0,2020-11-01 14:00:00,,BallRecovery
+390721,52,MissedShots,0.9030000305175782,0.48200000762939454,0.025063099339604378,Jonathan Panzo,h,7247,FromCorner,2020,Head,15878,Dijon,Saint-Etienne,0,0,2020-12-06 14:00:00,Bersant Celina,Aerial
+392101,81,MissedShots,0.8980000305175782,0.48400001525878905,0.043127499520778656,Jonathan Panzo,a,7247,FromCorner,2020,Head,15891,Nantes,Dijon,1,1,2020-12-13 14:00:00,,None
+420581,17,BlockedShot,0.9030000305175782,0.425,0.05604590103030205,Jonathan Panzo,a,7247,FromCorner,2020,LeftFoot,16106,Angers,Dijon,3,0,2021-05-09 13:00:00,Frederic Sammaritano,Cross

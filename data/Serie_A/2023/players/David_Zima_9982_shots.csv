@@ -1,0 +1,10 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+435067,71,MissedShots,0.874000015258789,0.4829999923706055,0.06664180010557175,David Zima,h,9982,FromCorner,2021,RightFoot,16825,Torino,Juventus,0,1,2021-10-02 16:00:00,,BlockedPass
+435070,92,MissedShots,0.9009999847412109,0.6430000305175781,0.010660200379788876,David Zima,h,9982,OpenPlay,2021,Head,16825,Torino,Juventus,0,1,2021-10-02 16:00:00,Tomás Rincón,Aerial
+448037,61,SavedShot,0.9169999694824219,0.654000015258789,0.3451479971408844,David Zima,h,9982,OpenPlay,2021,LeftFoot,16923,Torino,Bologna,2,1,2021-12-12 11:30:00,Sasa Lukic,Throughball
+455037,33,SavedShot,0.93,0.44799999237060545,0.09620379656553268,David Zima,h,9982,FromCorner,2021,Head,16985,Torino,Sassuolo,1,1,2022-01-23 14:00:00,Josip Brekalo,Cross
+455044,55,SavedShot,0.8909999847412109,0.51,0.08041849732398987,David Zima,h,9982,SetPiece,2021,LeftFoot,16985,Torino,Sassuolo,1,1,2022-01-23 14:00:00,Rolando Mandragora,Cross
+495310,28,MissedShots,0.9569999694824218,0.535,0.1322609931230545,David Zima,a,9982,FromCorner,2022,Head,18691,Udinese,Torino,1,2,2022-10-23 10:30:00,Valentino Lazaro,Cross
+499523,79,SavedShot,0.885,0.48,0.01515750028192997,David Zima,h,9982,FromCorner,2022,Head,18721,Torino,Sampdoria,2,0,2022-11-09 19:45:00,Nemanja Radonjic,Aerial
+502816,7,MissedShots,0.7659999847412109,0.29100000381469726,0.01585960015654564,David Zima,a,9982,OpenPlay,2022,LeftFoot,18749,Salernitana,Torino,1,1,2023-01-08 11:30:00,Nikola Vlasic,Pass
+502818,8,SavedShot,0.965999984741211,0.47400001525878904,0.4727970063686371,David Zima,a,9982,FromCorner,2022,RightFoot,18749,Salernitana,Torino,1,1,2023-01-08 11:30:00,Antonio Sanabria,BallTouch

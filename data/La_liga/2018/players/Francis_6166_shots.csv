@@ -1,0 +1,15 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+170088,54,MissedShots,0.8490000152587891,0.33,0.11993899941444397,Francis,a,6166,OpenPlay,2017,RightFoot,7920,Real Madrid,Real Betis,0,1,2017-09-20 21:00:00,Antonio Adán,Pass
+198200,91,BlockedShot,0.7390000152587891,0.4570000076293945,0.03756549954414368,Francis,a,6166,OpenPlay,2017,LeftFoot,8121,Levante,Real Betis,0,2,2018-02-26 20:00:00,Javi García,Pass
+201794,68,Goal,0.9019999694824219,0.295,0.06874080002307892,Francis,h,6166,OpenPlay,2017,RightFoot,8160,Real Betis,Espanyol,3,0,2018-03-17 19:45:00,Fabián,Pass
+216002,81,MissedShots,0.8490000152587891,0.28299999237060547,0.028223499655723572,Francis,a,6166,OpenPlay,2017,LeftFoot,8254,Leganes,Real Betis,3,2,2018-05-19 00:00:00,Aissa Mandi,Pass
+220251,2,SavedShot,0.8719999694824219,0.355,0.07174090296030045,Francis,a,6166,OpenPlay,2018,RightFoot,9969,Alaves,Real Betis,0,0,2018-08-25 19:15:00,Takashi Inui,Pass
+227563,78,MissedShots,0.8580000305175781,0.24299999237060546,0.03344409912824631,Francis,a,6166,OpenPlay,2018,LeftFoot,10012,Girona,Real Betis,0,1,2018-09-27 20:00:00,Giovani Lo Celso,Pass
+258396,30,BlockedShot,0.8480000305175781,0.27899999618530275,0.030772000551223755,Francis,h,6166,OpenPlay,2018,LeftFoot,10045,Real Betis,Real Valladolid,0,1,2018-10-21 18:45:00,Ryad Boudebouz,Pass
+258401,48,MissedShots,0.9180000305175782,0.38,0.03973200172185898,Francis,h,6166,OpenPlay,2018,Head,10045,Real Betis,Real Valladolid,0,1,2018-10-21 18:45:00,Sergio Canales,Cross
+259453,19,MissedShots,0.8219999694824218,0.3340000152587891,0.030371099710464478,Francis,a,6166,OpenPlay,2018,LeftFoot,10079,Villarreal,Real Betis,2,1,2018-11-25 19:45:00,Joaquín,Chipped
+259457,31,SavedShot,0.975,0.34,0.0504768006503582,Francis,a,6166,OpenPlay,2018,RightFoot,10079,Villarreal,Real Betis,2,1,2018-11-25 19:45:00,William Carvalho,Chipped
+260161,62,SavedShot,0.88,0.37,0.07789409905672073,Francis,a,6166,OpenPlay,2018,LeftFoot,10109,Espanyol,Real Betis,1,3,2018-12-16 15:15:00,Sergio Canales,Pass
+279908,18,BlockedShot,0.9309999847412109,0.24899999618530275,0.0363973006606102,Francis,a,6166,OpenPlay,2018,RightFoot,10129,SD Huesca,Real Betis,2,1,2019-01-05 19:45:00,Loren Morón,Pass
+279921,77,BlockedShot,0.8059999847412109,0.6969999694824218,0.0252337995916605,Francis,a,6166,OpenPlay,2018,RightFoot,10129,SD Huesca,Real Betis,2,1,2019-01-05 19:45:00,William Carvalho,Pass
+281718,6,BlockedShot,0.695,0.49700000762939456,0.012797200120985508,Francis,a,6166,FromCorner,2018,RightFoot,10206,Real Valladolid,Real Betis,0,2,2019-02-24 17:30:00,,None

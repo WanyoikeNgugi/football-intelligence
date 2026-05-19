@@ -1,0 +1,19 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+418394,33,BlockedShot,0.7319999694824219,0.5690000152587891,0.011849300004541874,Alejandro Cantero,a,9496,SetPiece,2020,LeftFoot,15113,Celta Vigo,Levante,2,0,2021-04-30 19:00:00,,None
+418395,36,MissedShots,0.8619999694824219,0.6890000152587891,0.07799819856882095,Alejandro Cantero,a,9496,OpenPlay,2020,RightFoot,15113,Celta Vigo,Levante,2,0,2021-04-30 19:00:00,Rúben Vezo,TakeOn
+422639,27,MissedShots,0.9119999694824219,0.6480000305175782,0.3524959981441498,Alejandro Cantero,a,9496,OpenPlay,2020,LeftFoot,15143,Getafe,Levante,2,1,2021-05-16 16:30:00,Morales,Throughball
+427964,81,ShotOnPost,0.8859999847412109,0.27700000762939453,0.42552199959754944,Alejandro Cantero,h,9496,OpenPlay,2021,RightFoot,17153,Levante,Real Madrid,3,3,2021-08-22 20:00:00,Mickaël Malsa,TakeOn
+434171,82,SavedShot,0.915,0.46599998474121096,0.4308919906616211,Alejandro Cantero,a,9496,OpenPlay,2021,RightFoot,17196,Barcelona,Levante,3,0,2021-09-26 14:15:00,Pablo Martínez,Throughball
+434176,92,SavedShot,0.774000015258789,0.8330000305175781,0.09304840117692947,Alejandro Cantero,a,9496,OpenPlay,2021,RightFoot,17196,Barcelona,Levante,3,0,2021-09-26 14:15:00,Pablo Martínez,Pass
+434178,92,MissedShots,0.9690000152587891,0.6659999847412109,0.0582134984433651,Alejandro Cantero,a,9496,OpenPlay,2021,LeftFoot,17196,Barcelona,Levante,3,0,2021-09-26 14:15:00,Pablo Martínez,Pass
+436456,86,MissedShots,0.894000015258789,0.425,0.07563000172376633,Alejandro Cantero,h,9496,OpenPlay,2021,RightFoot,17221,Levante,Getafe,0,0,2021-10-16 16:30:00,Jorge Miramón,Cross
+441237,87,SavedShot,0.9209999847412109,0.32799999237060545,0.0838627964258194,Alejandro Cantero,a,9496,OpenPlay,2021,RightFoot,17256,Alaves,Levante,2,1,2021-11-06 17:30:00,Dani Gómez,Pass
+459140,90,BlockedShot,0.9309999847412109,0.32299999237060545,0.06606770306825638,Alejandro Cantero,a,9496,OpenPlay,2021,RightFoot,17378,Celta Vigo,Levante,1,1,2022-02-21 20:00:00,Jorge Miramón,Pass
+464173,77,SavedShot,0.9419999694824219,0.5720000076293945,0.45206400752067566,Alejandro Cantero,a,9496,OpenPlay,2021,LeftFoot,17421,Osasuna,Levante,3,1,2022-03-19 17:30:00,Roger,Pass
+467690,79,MissedShots,0.895,0.23899999618530274,0.02859649993479252,Alejandro Cantero,h,9496,OpenPlay,2021,RightFoot,17439,Levante,Barcelona,2,3,2022-04-10 19:00:00,Gonzalo Melero,Pass
+467692,85,MissedShots,0.919000015258789,0.46599998474121096,0.10268799960613251,Alejandro Cantero,h,9496,FromCorner,2021,Head,17439,Levante,Barcelona,2,3,2022-04-10 19:00:00,Morales,Cross
+468553,93,SavedShot,0.9219999694824219,0.59,0.1368270069360733,Alejandro Cantero,a,9496,OpenPlay,2021,LeftFoot,17451,Granada,Levante,1,4,2022-04-17 12:00:00,Mickaël Malsa,Pass
+475422,60,MissedShots,0.8430000305175781,0.3340000152587891,0.04239970073103905,Alejandro Cantero,a,9496,OpenPlay,2021,RightFoot,17490,Real Madrid,Levante,6,0,2022-05-12 19:30:00,Pepelu,Pass
+476759,11,MissedShots,0.845,0.6229999923706054,0.06250389665365219,Alejandro Cantero,h,9496,OpenPlay,2021,RightFoot,17504,Levante,Alaves,3,1,2022-05-15 17:30:00,Morales,Pass
+477065,22,MissedShots,0.8040000152587891,0.33799999237060546,0.032203998416662216,Alejandro Cantero,a,9496,OpenPlay,2021,LeftFoot,17514,Rayo Vallecano,Levante,2,4,2022-05-20 19:00:00,Coke,Pass
+477078,70,MissedShots,0.8290000152587891,0.730999984741211,0.03454349935054779,Alejandro Cantero,a,9496,OpenPlay,2021,RightFoot,17514,Rayo Vallecano,Levante,2,4,2022-05-20 19:00:00,Morales,Pass

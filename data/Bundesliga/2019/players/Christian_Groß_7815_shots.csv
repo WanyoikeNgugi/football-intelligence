@@ -1,0 +1,19 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+317133,36,MissedShots,0.8490000152587891,0.33799999237060546,0.03424369916319847,Christian Groß,a,7815,FromCorner,2019,LeftFoot,12434,Union Berlin,Werder Bremen,1,2,2019-09-14 13:30:00,Nuri Sahin,Cross
+325470,26,BlockedShot,0.875999984741211,0.47900001525878905,0.083406001329422,Christian Groß,h,7815,FromCorner,2019,LeftFoot,12472,Werder Bremen,Hertha Berlin,1,1,2019-10-19 14:30:00,,TakeOn
+325471,26,BlockedShot,0.8730000305175781,0.49900001525878906,0.09259799867868423,Christian Groß,h,7815,FromCorner,2019,LeftFoot,12472,Werder Bremen,Hertha Berlin,1,1,2019-10-19 14:30:00,,Rebound
+379008,88,BlockedShot,0.745,0.37099998474121093,0.01775049977004528,Christian Groß,a,7815,OpenPlay,2020,RightFoot,14188,Schalke 04,Werder Bremen,1,3,2020-09-26 16:30:00,Johannes Eggestein,Pass
+384580,2,MissedShots,0.8130000305175781,0.5129999923706055,0.0434345006942749,Christian Groß,a,7815,FromCorner,2020,RightFoot,15189,Eintracht Frankfurt,Werder Bremen,1,1,2020-10-31 14:30:00,Maximilian Eggestein,Pass
+384591,56,BlockedShot,0.96,0.605999984741211,0.016814200207591057,Christian Groß,a,7815,FromCorner,2020,Head,15189,Eintracht Frankfurt,Werder Bremen,1,1,2020-10-31 14:30:00,Marco Friedl,Aerial
+415856,73,MissedShots,0.9019999694824219,0.5790000152587891,0.03655879944562912,Christian Groß,a,7815,FromCorner,2020,RightFoot,15392,Borussia Dortmund,Werder Bremen,4,1,2021-04-18 13:30:00,,Aerial
+419962,67,BlockedShot,0.7880000305175782,0.5259999847412109,0.027078600600361824,Christian Groß,h,7815,FromCorner,2020,RightFoot,15426,Werder Bremen,Bayer Leverkusen,0,0,2021-05-08 13:30:00,,None
+419965,79,BlockedShot,0.8180000305175781,0.505,0.05767330154776573,Christian Groß,h,7815,OpenPlay,2020,LeftFoot,15426,Werder Bremen,Bayer Leverkusen,0,0,2021-05-08 13:30:00,Joshua Sargent,Pass
+421930,29,SavedShot,0.7569999694824219,0.575,0.02017120085656643,Christian Groß,a,7815,OpenPlay,2020,RightFoot,15435,Augsburg,Werder Bremen,2,0,2021-05-15 13:30:00,,None
+481703,32,BlockedShot,0.715,0.46099998474121096,0.013912100344896317,Christian Groß,a,7815,FromCorner,2022,RightFoot,19364,Borussia Dortmund,Werder Bremen,2,3,2022-08-20 13:30:00,,None
+493038,58,BlockedShot,0.745999984741211,0.5209999847412109,0.01439059991389513,Christian Groß,h,7815,OpenPlay,2022,RightFoot,19431,Werder Bremen,Mainz 05,0,2,2022-10-15 13:30:00,Anthony Jung,HeadPass
+499980,56,Goal,0.855999984741211,0.740999984741211,0.028703799471259117,Christian Groß,h,7815,OpenPlay,2022,RightFoot,19476,Werder Bremen,RasenBallsport Leipzig,1,2,2022-11-12 14:30:00,Romano Schmid,Pass
+524796,29,BlockedShot,0.7290000152587891,0.415,0.012955388985574245,Christian Groß,h,7815,OpenPlay,2022,RightFoot,19620,Werder Bremen,Bayern Munich,1,2,2023-05-06 16:30:00,,None
+524799,34,MissedShots,0.8690000152587891,0.595999984741211,0.3220817446708679,Christian Groß,h,7815,OpenPlay,2022,LeftFoot,19620,Werder Bremen,Bayern Munich,1,2,2023-05-06 16:30:00,,TakeOn
+536097,39,BlockedShot,0.8190000152587891,0.43099998474121093,0.07317027449607849,Christian Groß,h,7815,OpenPlay,2023,RightFoot,23086,Werder Bremen,Mainz 05,4,0,2023-09-02 13:30:00,Dawid Kownacki,Pass
+567368,62,SavedShot,0.8290000152587891,0.5129999923706055,0.011489307507872581,Christian Groß,a,7815,FromCorner,2023,Head,23277,Hoffenheim,Werder Bremen,2,1,2024-03-03 16:30:00,Marvin Ducksch,Cross
+576744,83,MissedShots,0.74,0.43200000762939456,0.027377469465136528,Christian Groß,a,7815,OpenPlay,2023,RightFoot,23342,Augsburg,Werder Bremen,0,3,2024-04-27 13:30:00,Senne Lynen,Pass

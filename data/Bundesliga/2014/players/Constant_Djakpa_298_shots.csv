@@ -1,0 +1,7 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+24603,9,MissedShots,0.7319999694824219,0.3139999961853027,0.04145219922065735,Constant Djakpa,a,298,DirectFreekick,2014,LeftFoot,5461,Wolfsburg,Eintracht Frankfurt,2,2,2014-08-30 14:30:00,,Standard
+25025,1,BlockedShot,0.725999984741211,0.585,0.016548700630664825,Constant Djakpa,a,298,OpenPlay,2014,LeftFoot,5423,Schalke 04,Eintracht Frankfurt,2,2,2014-09-20 14:30:00,Alexander Meier,Pass
+78265,14,BlockedShot,0.6530000305175782,0.620999984741211,0.007406449876725674,Constant Djakpa,a,298,SetPiece,2015,LeftFoot,1105,Hannover 96,Eintracht Frankfurt,1,2,2015-10-24 17:30:00,,None
+79628,22,SavedShot,0.695,0.5379999923706055,0.0174879003316164,Constant Djakpa,a,298,OpenPlay,2015,LeftFoot,1164,Borussia Dortmund,Eintracht Frankfurt,4,1,2015-12-13 20:30:00,Slobodan Medojevic,Pass
+79646,72,MissedShots,0.9030000305175782,0.6430000305175781,0.08295659720897675,Constant Djakpa,a,298,OpenPlay,2015,LeftFoot,1164,Borussia Dortmund,Eintracht Frankfurt,4,1,2015-12-13 20:30:00,Alexander Meier,Pass
+82364,83,BlockedShot,0.765,0.7080000305175781,0.024326400831341743,Constant Djakpa,h,298,OpenPlay,2015,RightFoot,1261,Eintracht Frankfurt,Hannover 96,1,0,2016-03-19 21:30:00,David Abraham,Pass

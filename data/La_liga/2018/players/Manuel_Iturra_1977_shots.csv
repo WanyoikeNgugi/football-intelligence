@@ -1,0 +1,18 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+34700,11,BlockedShot,0.7440000152587891,0.5320000076293945,0.02003210037946701,Manuel Iturra,a,1977,OpenPlay,2014,RightFoot,5730,Celta Vigo,Granada,0,0,2014-11-08 21:00:00,Abdoul Sissoko,Pass
+35451,57,MissedShots,0.669000015258789,0.615,0.011038199998438358,Manuel Iturra,h,1977,OpenPlay,2014,RightFoot,5744,Granada,Almeria,0,0,2014-11-24 19:45:00,Rubén Rochina,Pass
+33591,57,BlockedShot,0.8080000305175781,0.46700000762939453,0.04012279957532883,Manuel Iturra,a,1977,SetPiece,2014,LeftFoot,5751,Sevilla,Granada,5,1,2014-11-30 16:00:00,,None
+34314,58,SavedShot,0.71,0.5020000076293946,0.014444700442254543,Manuel Iturra,h,1977,OpenPlay,2014,RightFoot,5694,Granada,Valencia,1,1,2014-12-07 20:00:00,,BallRecovery
+38470,80,MissedShots,0.8059999847412109,0.28299999237060547,0.028776999562978745,Manuel Iturra,h,1977,OpenPlay,2014,RightFoot,5659,Granada,Real Sociedad,1,1,2015-01-11 18:00:00,Lass,LayOff
+37669,28,SavedShot,0.785,0.67,0.024978000670671463,Manuel Iturra,a,1977,OpenPlay,2014,RightFoot,5668,Atletico Madrid,Granada,2,0,2015-01-18 16:00:00,,BallRecovery
+40212,75,MissedShots,0.7709999847412109,0.23399999618530273,0.008675259537994862,Manuel Iturra,h,1977,OpenPlay,2014,RightFoot,5639,Granada,Barcelona,1,3,2015-02-28 15:00:00,Dimitri Foulquier,Cross
+39191,6,SavedShot,0.9769999694824218,0.52,0.7633060216903687,Manuel Iturra,a,1977,FromCorner,2014,RightFoot,5528,Almeria,Granada,3,0,2015-04-11 21:00:00,Robert Ibáñez,None
+36719,52,BlockedShot,0.8619999694824219,0.58,0.09744290262460709,Manuel Iturra,h,1977,OpenPlay,2014,LeftFoot,5564,Granada,Espanyol,1,2,2015-04-30 21:00:00,Javi Márquez,Throughball
+36474,4,BlockedShot,0.7569999694824219,0.5359999847412109,0.022563500329852104,Manuel Iturra,a,1977,OpenPlay,2014,RightFoot,5489,Real Sociedad,Granada,0,3,2015-05-17 18:00:00,Youssef El-Arabi,Pass
+36475,7,MissedShots,0.779000015258789,0.3629999923706055,0.017025800421833992,Manuel Iturra,a,1977,SetPiece,2014,RightFoot,5489,Real Sociedad,Granada,0,3,2015-05-17 18:00:00,,None
+99455,25,MissedShots,0.8059999847412109,0.6120000076293945,0.02881689928472042,Manuel Iturra,h,1977,OpenPlay,2015,RightFoot,675,Udinese,Sampdoria,1,0,2015-11-22 18:00:00,,Rebound
+99747,45,MissedShots,0.889000015258789,0.45799999237060546,0.1230119988322258,Manuel Iturra,a,1977,OpenPlay,2015,RightFoot,686,Chievo,Udinese,2,3,2015-11-29 18:00:00,Rodrigo Aguirre,Pass
+100997,68,MissedShots,0.91,0.4209999847412109,0.3093689978122711,Manuel Iturra,h,1977,OpenPlay,2015,RightFoot,703,Udinese,Inter,0,4,2015-12-12 23:45:00,,None
+102053,80,SavedShot,0.91,0.36900001525878906,0.09384609758853912,Manuel Iturra,h,1977,OpenPlay,2015,RightFoot,721,Udinese,Atalanta,2,1,2016-01-06 15:30:00,Emmanuel Badu,HeadPass
+189601,90,MissedShots,0.895,0.3609999847412109,0.11816400289535522,Manuel Iturra,a,1977,OpenPlay,2017,RightFoot,8071,Eibar,Malaga,1,1,2018-01-22 20:00:00,,Rebound
+209365,43,SavedShot,0.850999984741211,0.49900001525878906,0.2824459969997406,Manuel Iturra,h,1977,OpenPlay,2017,RightFoot,8194,Malaga,Real Madrid,1,2,2018-04-15 18:45:00,,BallRecovery

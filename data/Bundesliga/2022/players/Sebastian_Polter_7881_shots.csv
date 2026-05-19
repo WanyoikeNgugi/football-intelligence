@@ -1,0 +1,87 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+311214,75,MissedShots,0.7709999847412109,0.7019999694824218,0.0398624986410141,Sebastian Polter,h,7881,OpenPlay,2019,RightFoot,12411,Union Berlin,RasenBallsport Leipzig,0,4,2019-08-18 17:00:00,Sheraldo Becker,Pass
+312462,81,MissedShots,0.875999984741211,0.5420000076293945,0.023870199918746948,Sebastian Polter,a,7881,OpenPlay,2019,Head,12417,Augsburg,Union Berlin,1,1,2019-08-24 14:30:00,Christopher Trimmel,Aerial
+317148,86,BlockedShot,0.9519999694824218,0.5690000152587891,0.09817779809236526,Sebastian Polter,h,7881,OpenPlay,2019,RightFoot,12434,Union Berlin,Werder Bremen,1,2,2019-09-14 13:30:00,Akaki Gogia,Cross
+317149,87,MissedShots,0.9219999694824219,0.45599998474121095,0.09558500349521637,Sebastian Polter,h,7881,FromCorner,2019,Head,12434,Union Berlin,Werder Bremen,1,2,2019-09-14 13:30:00,Christopher Trimmel,Cross
+327157,85,Goal,0.885,0.5,0.7577769756317139,Sebastian Polter,a,7881,Penalty,2019,RightFoot,12476,Bayern Munich,Union Berlin,2,1,2019-10-26 14:30:00,,Standard
+329474,89,Goal,0.885,0.5,0.7577769756317139,Sebastian Polter,h,7881,Penalty,2019,RightFoot,12492,Union Berlin,Hertha Berlin,1,0,2019-11-02 17:30:00,,Standard
+330544,35,MissedShots,0.919000015258789,0.295,0.05200180038809776,Sebastian Polter,a,7881,OpenPlay,2019,RightFoot,12495,Mainz 05,Union Berlin,2,3,2019-11-09 14:30:00,Christian Gentner,Pass
+338058,91,MissedShots,0.9780000305175781,0.6569999694824219,0.058364398777484894,Sebastian Polter,h,7881,OpenPlay,2019,LeftFoot,12546,Union Berlin,Hoffenheim,0,2,2019-12-17 19:30:00,Marius Bülter,BallTouch
+361747,88,SavedShot,0.915,0.6530000305175782,0.02008100040256977,Sebastian Polter,a,7881,OpenPlay,2019,Head,12625,Freiburg,Union Berlin,3,1,2020-03-07 14:30:00,Robert Andrich,Chipped
+426956,55,Goal,0.935,0.5029999923706054,0.5231599807739258,Sebastian Polter,h,7881,OpenPlay,2021,Head,17527,Bochum,Mainz 05,2,0,2021-08-21 13:30:00,Simon Zoller,Aerial
+428617,33,MissedShots,0.9119999694824219,0.45799999237060546,0.13562600314617157,Sebastian Polter,a,7881,OpenPlay,2021,LeftFoot,17535,FC Cologne,Bochum,2,1,2021-08-28 13:30:00,Simon Zoller,Pass
+428625,50,MissedShots,0.8969999694824219,0.4809999847412109,0.1304599940776825,Sebastian Polter,a,7881,OpenPlay,2021,Head,17535,FC Cologne,Bochum,2,1,2021-08-28 13:30:00,Simon Zoller,Cross
+434110,29,BlockedShot,0.9580000305175781,0.5429999923706055,0.14170999825000763,Sebastian Polter,h,7881,SetPiece,2021,Head,17568,Bochum,VfB Stuttgart,0,0,2021-09-26 13:30:00,Eduard Löwen,Cross
+434112,33,MissedShots,0.6730000305175782,0.5729999923706055,0.010854000225663185,Sebastian Polter,h,7881,OpenPlay,2021,RightFoot,17568,Bochum,VfB Stuttgart,0,0,2021-09-26 13:30:00,Anthony Losilla,BlockedPass
+434118,58,MissedShots,0.924000015258789,0.4520000076293945,0.09744430333375931,Sebastian Polter,h,7881,FromCorner,2021,Head,17568,Bochum,VfB Stuttgart,0,0,2021-09-26 13:30:00,Eduard Löwen,Cross
+434128,86,BlockedShot,0.8969999694824219,0.644000015258789,0.01792689971625805,Sebastian Polter,h,7881,OpenPlay,2021,Head,17568,Bochum,VfB Stuttgart,0,0,2021-09-26 13:30:00,Danilo Soares,Cross
+435138,81,MissedShots,0.904000015258789,0.595,0.09787389636039734,Sebastian Polter,a,7881,OpenPlay,2021,LeftFoot,17577,RasenBallsport Leipzig,Bochum,3,0,2021-10-02 16:30:00,Danny Blum,Pass
+435139,84,MissedShots,0.9219999694824219,0.41700000762939454,0.4924049973487854,Sebastian Polter,a,7881,OpenPlay,2021,RightFoot,17577,RasenBallsport Leipzig,Bochum,3,0,2021-10-02 16:30:00,Eduard Löwen,TakeOn
+435141,90,BlockedShot,0.9719999694824218,0.519000015258789,0.6395379900932312,Sebastian Polter,a,7881,OpenPlay,2021,Head,17577,RasenBallsport Leipzig,Bochum,3,0,2021-10-02 16:30:00,Milos Pantovic,Cross
+435142,90,SavedShot,0.879000015258789,0.4470000076293945,0.1026260033249855,Sebastian Polter,a,7881,OpenPlay,2021,RightFoot,17577,RasenBallsport Leipzig,Bochum,3,0,2021-10-02 16:30:00,Eduard Löwen,Pass
+436072,28,MissedShots,0.905,0.545,0.339123010635376,Sebastian Polter,a,7881,OpenPlay,2021,LeftFoot,17579,Greuther Fuerth,Bochum,0,1,2021-10-16 13:30:00,Milos Pantovic,Cross
+436089,88,SavedShot,0.9109999847412109,0.68,0.07406239956617355,Sebastian Polter,a,7881,OpenPlay,2021,LeftFoot,17579,Greuther Fuerth,Bochum,0,1,2021-10-16 13:30:00,,None
+438618,23,SavedShot,0.914000015258789,0.43900001525878907,0.11184900254011154,Sebastian Polter,h,7881,OpenPlay,2021,Head,17588,Bochum,Eintracht Frankfurt,2,0,2021-10-24 17:30:00,Cristian Gamboa,Cross
+438621,40,MissedShots,0.8730000305175781,0.44299999237060544,0.010643599554896355,Sebastian Polter,h,7881,SetPiece,2021,Head,17588,Bochum,Eintracht Frankfurt,2,0,2021-10-24 17:30:00,Danny Blum,Aerial
+438625,53,MissedShots,0.919000015258789,0.5690000152587891,0.11740399897098541,Sebastian Polter,h,7881,OpenPlay,2021,RightFoot,17588,Bochum,Eintracht Frankfurt,2,0,2021-10-24 17:30:00,Danny Blum,Cross
+438636,77,BlockedShot,0.9,0.38799999237060545,0.35308998823165894,Sebastian Polter,h,7881,OpenPlay,2021,RightFoot,17588,Bochum,Eintracht Frankfurt,2,0,2021-10-24 17:30:00,Takuma Asano,Pass
+438645,91,Goal,0.904000015258789,0.40400001525878904,0.35723599791526794,Sebastian Polter,h,7881,OpenPlay,2021,RightFoot,17588,Bochum,Eintracht Frankfurt,2,0,2021-10-24 17:30:00,,Rebound
+440444,32,SavedShot,0.8969999694824219,0.5520000076293945,0.0269118994474411,Sebastian Polter,a,7881,OpenPlay,2021,Head,17601,Borussia M.Gladbach,Bochum,2,1,2021-10-31 16:30:00,Eduard Löwen,Aerial
+441028,2,MissedShots,0.8490000152587891,0.42400001525878905,0.06535589694976807,Sebastian Polter,h,7881,OpenPlay,2021,RightFoot,17607,Bochum,Hoffenheim,2,0,2021-11-06 14:30:00,,None
+442415,48,MissedShots,0.8680000305175781,0.4879999923706055,0.03559369966387749,Sebastian Polter,a,7881,OpenPlay,2021,Head,17622,Bayer Leverkusen,Bochum,1,0,2021-11-20 14:30:00,Takuma Asano,Cross
+443929,53,Goal,0.9159999847412109,0.3320000076293945,0.3040359914302826,Sebastian Polter,h,7881,OpenPlay,2021,RightFoot,17625,Bochum,Freiburg,2,1,2021-11-27 14:30:00,Gerrit Holtmann,Throughball
+446133,14,MissedShots,0.7730000305175782,0.5329999923706055,0.03001509979367256,Sebastian Polter,a,7881,OpenPlay,2021,RightFoot,17634,Augsburg,Bochum,2,3,2021-12-04 14:30:00,Elvis Rexhbecaj,Pass
+446135,22,Goal,0.8119999694824219,0.37900001525878907,0.4357450008392334,Sebastian Polter,a,7881,OpenPlay,2021,RightFoot,17634,Augsburg,Bochum,2,3,2021-12-04 14:30:00,Gerrit Holtmann,Throughball
+446141,43,MissedShots,0.960999984741211,0.5540000152587891,0.07808300107717514,Sebastian Polter,a,7881,FromCorner,2021,Head,17634,Augsburg,Bochum,2,3,2021-12-04 14:30:00,Eduard Löwen,Aerial
+446142,46,Goal,0.9690000152587891,0.48400001525878905,0.5542929768562317,Sebastian Polter,a,7881,FromCorner,2021,Head,17634,Augsburg,Bochum,2,3,2021-12-04 14:30:00,Eduard Löwen,Cross
+447658,39,Goal,0.885,0.5,0.7577769756317139,Sebastian Polter,h,7881,Penalty,2021,RightFoot,17643,Bochum,Borussia Dortmund,1,1,2021-12-11 14:30:00,,Standard
+448872,33,BlockedShot,0.8819999694824219,0.46299999237060546,0.02017199993133545,Sebastian Polter,a,7881,SetPiece,2021,Head,17651,Arminia Bielefeld,Bochum,2,0,2021-12-14 19:30:00,Milos Pantovic,Aerial
+449440,6,MissedShots,0.8159999847412109,0.46299999237060546,0.052995700389146805,Sebastian Polter,h,7881,OpenPlay,2021,LeftFoot,17661,Bochum,Union Berlin,0,1,2021-12-18 14:30:00,,None
+449459,79,SavedShot,0.9359999847412109,0.575,0.04646480083465576,Sebastian Polter,h,7881,OpenPlay,2021,Head,17661,Bochum,Union Berlin,0,1,2021-12-18 14:30:00,,Aerial
+453143,31,SavedShot,0.885,0.5,0.7577769756317139,Sebastian Polter,a,7881,Penalty,2021,RightFoot,17681,Mainz 05,Bochum,1,0,2022-01-15 14:30:00,,Standard
+453158,68,BlockedShot,0.875,0.4159999847412109,0.05675020068883896,Sebastian Polter,a,7881,OpenPlay,2021,RightFoot,17681,Mainz 05,Bochum,1,0,2022-01-15 14:30:00,Cristian Gamboa,Cross
+454808,64,MissedShots,0.92,0.5529999923706055,0.09668459743261337,Sebastian Polter,h,7881,OpenPlay,2021,LeftFoot,17688,Bochum,FC Cologne,2,2,2022-01-22 17:30:00,Danilo Soares,Cross
+455555,47,Goal,0.9490000152587891,0.4490000152587891,0.5760719776153564,Sebastian Polter,a,7881,OpenPlay,2021,RightFoot,17698,Hertha Berlin,Bochum,1,1,2022-02-04 19:30:00,,Rebound
+458160,69,MissedShots,0.9540000152587891,0.6,0.08179619908332825,Sebastian Polter,a,7881,OpenPlay,2021,RightFoot,17719,VfB Stuttgart,Bochum,1,1,2022-02-19 14:30:00,Takuma Asano,Cross
+458166,82,ShotOnPost,0.955,0.5940000152587891,0.09040019661188126,Sebastian Polter,a,7881,OpenPlay,2021,Head,17719,VfB Stuttgart,Bochum,1,1,2022-02-19 14:30:00,Eduard Löwen,Cross
+460363,50,MissedShots,0.750999984741211,0.4279999923706055,0.022106900811195374,Sebastian Polter,h,7881,OpenPlay,2021,RightFoot,17724,Bochum,RasenBallsport Leipzig,0,1,2022-02-27 14:30:00,Eduard Löwen,BallRecovery
+461031,85,BlockedShot,0.89,0.49,0.10417299717664719,Sebastian Polter,h,7881,OpenPlay,2021,RightFoot,17732,Bochum,Greuther Fuerth,2,1,2022-03-05 14:30:00,Konstantinos Stafylidis,Cross
+463204,0,BlockedShot,0.8209999847412109,0.37599998474121094,0.04942550137639046,Sebastian Polter,a,7881,OpenPlay,2021,RightFoot,17748,Eintracht Frankfurt,Bochum,2,1,2022-03-13 16:30:00,Elvis Rexhbecaj,Chipped
+463210,18,Goal,0.93,0.47,0.3940249979496002,Sebastian Polter,a,7881,SetPiece,2021,Head,17748,Eintracht Frankfurt,Bochum,2,1,2022-03-13 16:30:00,Konstantinos Stafylidis,Cross
+463221,64,SavedShot,0.9259999847412109,0.5570000076293945,0.0915450006723404,Sebastian Polter,a,7881,FromCorner,2021,Head,17748,Eintracht Frankfurt,Bochum,2,1,2022-03-13 16:30:00,Konstantinos Stafylidis,Cross
+472896,46,SavedShot,0.9130000305175782,0.5309999847412109,0.10624299943447113,Sebastian Polter,h,7881,OpenPlay,2021,LeftFoot,17751,Bochum,Borussia M.Gladbach,0,2,2022-03-18 17:30:00,Gerrit Holtmann,Cross
+472902,57,SavedShot,0.9680000305175781,0.395,0.36708301305770874,Sebastian Polter,h,7881,OpenPlay,2021,RightFoot,17751,Bochum,Borussia M.Gladbach,0,2,2022-03-18 17:30:00,,Rebound
+465131,37,MissedShots,0.8980000305175782,0.43599998474121093,0.01651890017092228,Sebastian Polter,a,7881,FromCorner,2021,Head,17761,Hoffenheim,Bochum,1,2,2022-04-02 13:30:00,Milos Pantovic,Aerial
+465133,45,BlockedShot,0.9459999847412109,0.3340000152587891,0.12166500091552734,Sebastian Polter,a,7881,OpenPlay,2021,RightFoot,17761,Hoffenheim,Bochum,1,2,2022-04-02 13:30:00,Milos Pantovic,Chipped
+467388,46,SavedShot,0.9309999847412109,0.43599998474121093,0.41606101393699646,Sebastian Polter,h,7881,OpenPlay,2021,Head,17769,Bochum,Bayer Leverkusen,0,0,2022-04-10 13:30:00,Danilo Soares,Aerial
+467394,70,MissedShots,0.8780000305175781,0.6630000305175782,0.11354299634695053,Sebastian Polter,h,7881,OpenPlay,2021,LeftFoot,17769,Bochum,Bayer Leverkusen,0,0,2022-04-10 13:30:00,Takuma Asano,Throughball
+468002,10,MissedShots,0.965999984741211,0.39599998474121095,0.06457819789648056,Sebastian Polter,a,7881,OpenPlay,2021,Head,17781,Freiburg,Bochum,3,0,2022-04-16 13:30:00,Takuma Asano,Cross
+470676,80,MissedShots,0.89,0.509000015258789,0.060658399015665054,Sebastian Polter,h,7881,SetPiece,2021,Head,17787,Bochum,Augsburg,0,2,2022-04-24 13:30:00,Eduard Löwen,Chipped
+470679,83,SavedShot,0.9130000305175782,0.4329999923706055,0.09673400223255157,Sebastian Polter,h,7881,OpenPlay,2021,Head,17787,Bochum,Augsburg,0,2,2022-04-24 13:30:00,Eduard Löwen,Cross
+471530,2,Goal,0.9019999694824219,0.43599998474121093,0.28878098726272583,Sebastian Polter,a,7881,OpenPlay,2021,Head,17803,Borussia Dortmund,Bochum,3,4,2022-04-30 13:30:00,Takuma Asano,Cross
+471543,44,MissedShots,0.909000015258789,0.45799999237060546,0.07486960291862488,Sebastian Polter,a,7881,FromCorner,2021,Head,17803,Borussia Dortmund,Bochum,3,4,2022-04-30 13:30:00,Milos Pantovic,Cross
+471550,63,MissedShots,0.9030000305175782,0.6020000076293945,0.07049500197172165,Sebastian Polter,a,7881,OpenPlay,2021,LeftFoot,17803,Borussia Dortmund,Bochum,3,4,2022-04-30 13:30:00,Herbert Bockhorn,Cross
+472729,1,SavedShot,0.8959999847412109,0.46700000762939453,0.019038699567317963,Sebastian Polter,h,7881,FromCorner,2021,Head,17805,Bochum,Arminia Bielefeld,2,1,2022-05-06 18:30:00,Milos Pantovic,Aerial
+472741,20,Goal,0.9830000305175781,0.5529999923706055,0.5984320044517517,Sebastian Polter,h,7881,OpenPlay,2021,Head,17805,Bochum,Arminia Bielefeld,2,1,2022-05-06 18:30:00,Milos Pantovic,Chipped
+472748,54,SavedShot,0.8809999847412109,0.31,0.04262550175189972,Sebastian Polter,h,7881,OpenPlay,2021,RightFoot,17805,Bochum,Arminia Bielefeld,2,1,2022-05-06 18:30:00,Cristian Gamboa,Pass
+481786,72,SavedShot,0.850999984741211,0.6309999847412109,0.049876898527145386,Sebastian Polter,a,7881,OpenPlay,2022,RightFoot,19361,Wolfsburg,Schalke 04,0,0,2022-08-20 13:30:00,,Rebound
+483461,81,SavedShot,0.9319999694824219,0.42900001525878906,0.059922199696302414,Sebastian Polter,h,7881,OpenPlay,2022,Head,19374,Schalke 04,Union Berlin,1,6,2022-08-27 13:30:00,Cédric Brunner,Aerial
+483464,89,SavedShot,0.91,0.44,0.0759195014834404,Sebastian Polter,h,7881,OpenPlay,2022,RightFoot,19374,Schalke 04,Union Berlin,1,6,2022-08-27 13:30:00,,None
+487635,95,Goal,0.87,0.4779999923706055,0.20901499688625336,Sebastian Polter,h,7881,SetPiece,2022,Head,19393,Schalke 04,Bochum,3,1,2022-09-10 16:30:00,Tobias Mohr,Chipped
+490896,17,BlockedShot,0.9130000305175782,0.49400001525878906,0.0938664972782135,Sebastian Polter,h,7881,FromCorner,2022,Head,19412,Schalke 04,Augsburg,2,3,2022-10-02 15:30:00,Thomas Ouwejan,Cross
+495761,82,MissedShots,0.914000015258789,0.5359999847412109,0.1022619977593422,Sebastian Polter,a,7881,OpenPlay,2022,Head,19440,Hertha Berlin,Schalke 04,2,1,2022-10-23 15:30:00,Florent Mollet,Cross
+522919,77,SavedShot,0.915,0.49400001525878906,0.045879002660512924,Sebastian Polter,h,7881,OpenPlay,2022,Head,19611,Schalke 04,Werder Bremen,2,1,2023-04-29 16:30:00,Dominick Drexler,Aerial
+524419,82,SavedShot,0.9740000152587891,0.55,0.7598204612731934,Sebastian Polter,a,7881,OpenPlay,2022,RightFoot,19615,Mainz 05,Schalke 04,2,3,2023-05-05 18:30:00,Marius Bülter,Pass
+525927,70,MissedShots,0.9080000305175782,0.475,0.057382982224226,Sebastian Polter,a,7881,OpenPlay,2022,Head,19621,Bayern Munich,Schalke 04,6,0,2023-05-13 13:30:00,Alex Kral,Aerial
+527354,78,BlockedShot,0.924000015258789,0.654000015258789,0.05923044681549072,Sebastian Polter,h,7881,OpenPlay,2022,LeftFoot,19637,Schalke 04,Eintracht Frankfurt,2,2,2023-05-20 13:30:00,,None
+527357,84,Goal,0.95,0.5159999847412109,0.5733136534690857,Sebastian Polter,h,7881,OpenPlay,2022,RightFoot,19637,Schalke 04,Eintracht Frankfurt,2,2,2023-05-20 13:30:00,Tobias Mohr,Cross
+528929,60,MissedShots,0.9080000305175782,0.43,0.09117349237203598,Sebastian Polter,a,7881,OpenPlay,2022,RightFoot,19640,RasenBallsport Leipzig,Schalke 04,4,2,2023-05-27 13:30:00,Cédric Brunner,Cross
+563805,49,BlockedShot,0.905,0.38799999237060545,0.0712372288107872,Sebastian Polter,h,7881,OpenPlay,2023,RightFoot,23262,Darmstadt,VfB Stuttgart,1,2,2024-02-17 14:30:00,Matthias Bader,Cross
+563808,60,MissedShots,0.9119999694824219,0.6170000076293946,0.06638511270284653,Sebastian Polter,h,7881,OpenPlay,2023,LeftFoot,23262,Darmstadt,VfB Stuttgart,1,2,2024-02-17 14:30:00,Julian Justvan,Cross
+563821,80,MissedShots,0.9219999694824219,0.5990000152587891,0.21255098283290863,Sebastian Polter,h,7881,OpenPlay,2023,Head,23262,Darmstadt,VfB Stuttgart,1,2,2024-02-17 14:30:00,Julian Justvan,Cross
+563822,83,MissedShots,0.855,0.4490000152587891,0.06383313238620758,Sebastian Polter,h,7881,OpenPlay,2023,RightFoot,23262,Darmstadt,VfB Stuttgart,1,2,2024-02-17 14:30:00,Aaron Seydel,BallTouch
+565073,10,MissedShots,0.9569999694824218,0.49900001525878906,0.090131476521492,Sebastian Polter,a,7881,FromCorner,2023,Head,23265,Werder Bremen,Darmstadt,1,1,2024-02-24 14:30:00,Julian Justvan,Aerial
+565079,31,SavedShot,0.860999984741211,0.5870000076293945,0.08001050353050232,Sebastian Polter,a,7881,OpenPlay,2023,LeftFoot,23265,Werder Bremen,Darmstadt,1,1,2024-02-24 14:30:00,Marvin Mehlem,Pass
+565087,77,SavedShot,0.9530000305175781,0.6120000076293945,0.386011004447937,Sebastian Polter,a,7881,OpenPlay,2023,LeftFoot,23265,Werder Bremen,Darmstadt,1,1,2024-02-24 14:30:00,,None
+566402,44,SavedShot,0.8519999694824218,0.4859999847412109,0.08539001643657684,Sebastian Polter,h,7881,OpenPlay,2023,RightFoot,23280,Darmstadt,Augsburg,0,6,2024-03-02 14:30:00,Tim Skarke,Pass
+569426,87,ShotOnPost,0.8540000152587891,0.6070000076293945,0.06926979869604111,Sebastian Polter,h,7881,OpenPlay,2023,LeftFoot,23298,Darmstadt,Bayern Munich,2,5,2024-03-16 14:30:00,Aaron Seydel,Pass

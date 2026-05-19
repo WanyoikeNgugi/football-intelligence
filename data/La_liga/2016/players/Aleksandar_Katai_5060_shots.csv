@@ -1,0 +1,25 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+136113,20,BlockedShot,0.785,0.705999984741211,0.0239121001213789,Aleksandar Katai,a,5060,OpenPlay,2016,RightFoot,1828,Valencia,Alaves,2,1,2016-09-23 00:00:00,Nenad Krsticic,Pass
+136117,43,BlockedShot,0.735,0.655,0.010515100322663784,Aleksandar Katai,a,5060,SetPiece,2016,LeftFoot,1828,Valencia,Alaves,2,1,2016-09-23 00:00:00,,None
+136126,68,MissedShots,0.7830000305175782,0.27899999618530275,0.019862299785017967,Aleksandar Katai,a,5060,OpenPlay,2016,RightFoot,1828,Valencia,Alaves,2,1,2016-09-23 00:00:00,Víctor Laguardia,TakeOn
+140021,27,BlockedShot,0.7469999694824219,0.6179999923706054,0.0613803006708622,Aleksandar Katai,a,5060,DirectFreekick,2016,RightFoot,3925,Sporting Gijon,Alaves,2,4,2017-02-05 15:15:00,,Standard
+140024,45,BlockedShot,0.81,0.33099998474121095,0.052223898470401764,Aleksandar Katai,a,5060,OpenPlay,2016,LeftFoot,3925,Sporting Gijon,Alaves,2,4,2017-02-05 15:15:00,Zouhair Feddal,Chipped
+141287,56,BlockedShot,0.88,0.55,0.11571799963712692,Aleksandar Katai,h,5060,OpenPlay,2016,RightFoot,3936,Alaves,Barcelona,0,6,2017-02-11 15:15:00,Rubén Sobrino,Pass
+140085,85,Goal,0.9590000152587891,0.39799999237060546,0.3908109962940216,Aleksandar Katai,h,5060,OpenPlay,2016,RightFoot,3959,Alaves,Valencia,2,1,2017-02-25 12:00:00,Rubén Sobrino,Throughball
+140087,89,MissedShots,0.925,0.445,0.09830079972743988,Aleksandar Katai,h,5060,FromCorner,2016,Head,3959,Alaves,Valencia,2,1,2017-02-25 12:00:00,Ibai Gómez,Cross
+141195,16,SavedShot,0.889000015258789,0.6270000076293946,0.06416869908571243,Aleksandar Katai,a,5060,OpenPlay,2016,RightFoot,3971,Granada,Alaves,2,1,2017-03-01 20:30:00,Óscar Romero,Chipped
+141202,45,MissedShots,0.825999984741211,0.43099998474121093,0.03390650078654289,Aleksandar Katai,a,5060,OpenPlay,2016,LeftFoot,3971,Granada,Alaves,2,1,2017-03-01 20:30:00,Fernando Pacheco,Pass
+139237,74,Goal,0.9890000152587891,0.49700000762939456,0.9500759840011597,Aleksandar Katai,h,5060,OpenPlay,2016,LeftFoot,3979,Alaves,Sevilla,1,1,2017-03-06 19:45:00,,None
+139239,83,SavedShot,0.7909999847412109,0.7569999694824219,0.0546317994594574,Aleksandar Katai,h,5060,DirectFreekick,2016,RightFoot,3979,Alaves,Sevilla,1,1,2017-03-06 19:45:00,,Standard
+141810,7,MissedShots,0.879000015258789,0.7290000152587891,0.036031801253557205,Aleksandar Katai,h,5060,OpenPlay,2016,LeftFoot,4020,Alaves,Osasuna,0,1,2017-04-05 19:30:00,,None
+141815,42,BlockedShot,0.754000015258789,0.30100000381469727,0.01954220049083233,Aleksandar Katai,h,5060,SetPiece,2016,RightFoot,4020,Alaves,Osasuna,0,1,2017-04-05 19:30:00,Óscar Romero,Pass
+141818,54,MissedShots,0.975999984741211,0.6719999694824219,0.052434101700782776,Aleksandar Katai,h,5060,OpenPlay,2016,RightFoot,4020,Alaves,Osasuna,0,1,2017-04-05 19:30:00,Rodrigo Ely,Chipped
+141819,55,MissedShots,0.8109999847412109,0.8959999847412109,0.012926300056278706,Aleksandar Katai,h,5060,OpenPlay,2016,RightFoot,4020,Alaves,Osasuna,0,1,2017-04-05 19:30:00,,TakeOn
+141827,89,ShotOnPost,0.9540000152587891,0.6880000305175781,0.056930698454380035,Aleksandar Katai,h,5060,OpenPlay,2016,RightFoot,4020,Alaves,Osasuna,0,1,2017-04-05 19:30:00,Deyverson,HeadPass
+141706,88,MissedShots,0.749000015258789,0.37599998474121094,0.024845799431204796,Aleksandar Katai,h,5060,OpenPlay,2016,LeftFoot,4041,Alaves,Villarreal,2,1,2017-04-17 19:45:00,Vigaray,Pass
+141708,90,BlockedShot,0.9,0.6370000076293946,0.10156899690628052,Aleksandar Katai,h,5060,OpenPlay,2016,LeftFoot,4041,Alaves,Villarreal,2,1,2017-04-17 19:45:00,Manu García,Pass
+143256,91,SavedShot,0.775,0.6659999847412109,0.02225540019571781,Aleksandar Katai,h,5060,OpenPlay,2016,LeftFoot,4062,Alaves,Eibar,0,0,2017-04-27 18:30:00,Deyverson,Pass
+143889,93,Goal,0.9209999847412109,0.515,0.9036369919776917,Aleksandar Katai,a,5060,OpenPlay,2016,RightFoot,4074,Real Betis,Alaves,1,4,2017-04-30 15:15:00,Christian Santos,TakeOn
+143807,85,SavedShot,0.6990000152587891,0.48400001525878905,0.018135100603103638,Aleksandar Katai,a,5060,OpenPlay,2016,RightFoot,4100,Leganes,Alaves,1,1,2017-05-20 18:00:00,,BallRecovery
+170823,88,MissedShots,0.6909999847412109,0.475,0.03957270085811615,Aleksandar Katai,a,5060,DirectFreekick,2017,RightFoot,7940,Levante,Alaves,0,2,2017-09-30 17:30:00,,Standard
+171311,92,MissedShots,0.7380000305175781,0.33,0.010313300415873528,Aleksandar Katai,h,5060,OpenPlay,2017,RightFoot,7950,Alaves,Real Sociedad,0,2,2017-10-14 17:30:00,Vigaray,TakeOn

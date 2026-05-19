@@ -1,0 +1,8 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+66546,49,BlockedShot,0.9009999847412109,0.22100000381469725,0.04053480178117752,Alassane Toure,h,3386,OpenPlay,2015,LeftFoot,2093,GFC Ajaccio,Montpellier,0,4,2016-01-30 23:00:00,David Ducourtioux,TakeOn
+66556,73,SavedShot,0.855,0.23899999618530274,0.023921199142932892,Alassane Toure,h,3386,OpenPlay,2015,RightFoot,2093,GFC Ajaccio,Montpellier,0,4,2016-01-30 23:00:00,David Ducourtioux,Pass
+69292,59,BlockedShot,0.84,0.3609999847412109,0.07929430156946182,Alassane Toure,h,3386,OpenPlay,2015,LeftFoot,2112,GFC Ajaccio,Guingamp,0,0,2016-02-06 23:00:00,Jacques Zoua,LayOff
+69303,90,BlockedShot,0.764000015258789,0.29100000381469726,0.1296830028295517,Alassane Toure,h,3386,FromCorner,2015,RightFoot,2112,GFC Ajaccio,Guingamp,0,0,2016-02-06 23:00:00,Khalid Boutaib,HeadPass
+67044,49,MissedShots,0.715,0.34200000762939453,0.012660600244998932,Alassane Toure,a,3386,FromCorner,2015,RightFoot,2177,Nice,GFC Ajaccio,3,0,2016-03-20 20:00:00,Pablo Martinez,None
+67973,85,Goal,0.93,0.46299999237060546,0.12994399666786194,Alassane Toure,h,3386,SetPiece,2015,Head,2204,GFC Ajaccio,Lille,2,4,2016-04-16 22:00:00,Damjan Djokovic,Cross
+67976,92,MissedShots,0.84,0.40599998474121096,0.045791398733854294,Alassane Toure,h,3386,FromCorner,2015,LeftFoot,2204,GFC Ajaccio,Lille,2,4,2016-04-16 22:00:00,Khalid Boutaib,Pass

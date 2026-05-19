@@ -1,0 +1,71 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+26878,59,MissedShots,0.8830000305175781,0.47299999237060547,0.05788170173764229,Marc Stendera,h,289,OpenPlay,2014,Head,5360,Eintracht Frankfurt,Bayern Munich,0,4,2014-11-08 14:30:00,Bastian Oczipka,Cross
+26982,18,MissedShots,0.7819999694824219,0.34599998474121096,0.024925099685788155,Marc Stendera,a,289,OpenPlay,2014,RightFoot,5367,Borussia M.Gladbach,Eintracht Frankfurt,1,3,2014-11-22 14:30:00,Stefan Aigner,Pass
+26993,50,SavedShot,0.904000015258789,0.62,0.07058999687433243,Marc Stendera,a,289,OpenPlay,2014,RightFoot,5367,Borussia M.Gladbach,Eintracht Frankfurt,1,3,2014-11-22 14:30:00,Takashi Inui,Rebound
+26996,53,Goal,0.815,0.6780000305175782,0.03418949991464615,Marc Stendera,a,289,OpenPlay,2014,RightFoot,5367,Borussia M.Gladbach,Eintracht Frankfurt,1,3,2014-11-22 14:30:00,Haris Seferovic,Pass
+27188,45,BlockedShot,0.9119999694824219,0.42700000762939455,0.11709500104188919,Marc Stendera,h,289,OpenPlay,2014,RightFoot,5382,Eintracht Frankfurt,Borussia Dortmund,2,0,2014-11-30 16:30:00,,None
+27358,33,ShotOnPost,0.889000015258789,0.375,0.0832538977265358,Marc Stendera,h,289,OpenPlay,2014,RightFoot,5320,Eintracht Frankfurt,Werder Bremen,5,2,2014-12-07 16:30:00,Haris Seferovic,Pass
+27375,79,Goal,0.8119999694824219,0.5529999923706055,0.07491829991340637,Marc Stendera,h,289,OpenPlay,2014,RightFoot,5320,Eintracht Frankfurt,Werder Bremen,5,2,2014-12-07 16:30:00,Takashi Inui,Pass
+27781,26,MissedShots,0.7580000305175781,0.36900001525878906,0.01642250083386898,Marc Stendera,h,289,SetPiece,2014,RightFoot,5334,Eintracht Frankfurt,Hertha Berlin,4,4,2014-12-17 19:00:00,,Interception
+27790,55,BlockedShot,0.799000015258789,0.629000015258789,0.02723749913275242,Marc Stendera,h,289,OpenPlay,2014,RightFoot,5334,Eintracht Frankfurt,Hertha Berlin,4,4,2014-12-17 19:00:00,Takashi Inui,Pass
+28555,38,BlockedShot,0.7330000305175781,0.375,0.019248099997639656,Marc Stendera,a,289,OpenPlay,2014,RightFoot,5307,Freiburg,Eintracht Frankfurt,4,1,2015-01-31 14:30:00,Stefan Aigner,BallTouch
+28557,42,SavedShot,0.749000015258789,0.515,0.03932520002126694,Marc Stendera,a,289,OpenPlay,2014,RightFoot,5307,Freiburg,Eintracht Frankfurt,4,1,2015-01-31 14:30:00,Haris Seferovic,LayOff
+29122,25,BlockedShot,0.754000015258789,0.6309999847412109,0.020409099757671356,Marc Stendera,a,289,OpenPlay,2014,RightFoot,5292,Mainz 05,Eintracht Frankfurt,3,1,2015-02-21 14:30:00,Bastian Oczipka,Pass
+29136,76,MissedShots,0.899000015258789,0.3890000152587891,0.05166130140423775,Marc Stendera,a,289,OpenPlay,2014,RightFoot,5292,Mainz 05,Eintracht Frankfurt,3,1,2015-02-21 14:30:00,Sonny Kittel,Chipped
+29634,73,SavedShot,0.8059999847412109,0.37099998474121093,0.0414436012506485,Marc Stendera,h,289,OpenPlay,2014,LeftFoot,5304,Eintracht Frankfurt,Hamburger SV,2,1,2015-02-28 17:30:00,Lucas Piazon,Pass
+30460,48,BlockedShot,0.8530000305175781,0.23299999237060548,0.014348399825394154,Marc Stendera,a,289,FromCorner,2014,RightFoot,5240,FC Cologne,Eintracht Frankfurt,4,2,2015-03-08 14:30:00,,Aerial
+31488,39,MissedShots,0.7180000305175781,0.544000015258789,0.019256899133324623,Marc Stendera,h,289,FromCorner,2014,RightFoot,5247,Eintracht Frankfurt,Paderborn,4,0,2015-03-14 14:30:00,Takashi Inui,Pass
+31489,41,Goal,0.885,0.34900001525878904,0.327892005443573,Marc Stendera,h,289,OpenPlay,2014,RightFoot,5247,Eintracht Frankfurt,Paderborn,4,0,2015-03-14 14:30:00,Alexander Meier,Pass
+32058,54,SavedShot,0.705,0.4640000152587891,0.015587099827826023,Marc Stendera,a,289,OpenPlay,2014,RightFoot,5256,VfB Stuttgart,Eintracht Frankfurt,3,1,2015-03-21 14:30:00,Stefan Aigner,Pass
+30547,76,BlockedShot,0.8430000305175781,0.315,0.04622520133852959,Marc Stendera,h,289,OpenPlay,2014,RightFoot,5196,Eintracht Frankfurt,Hannover 96,2,2,2015-04-04 14:30:00,Stefan Aigner,Pass
+29436,70,BlockedShot,0.755,0.3529999923706055,0.014398300088942051,Marc Stendera,a,289,OpenPlay,2014,RightFoot,5227,Borussia Dortmund,Eintracht Frankfurt,2,0,2015-04-25 14:30:00,Makoto Hasebe,Pass
+31107,48,BlockedShot,0.7169999694824218,0.6020000076293945,0.04393260180950165,Marc Stendera,a,289,DirectFreekick,2014,RightFoot,5163,Werder Bremen,Eintracht Frankfurt,1,0,2015-05-02 14:30:00,,Standard
+31123,92,SavedShot,0.745,0.639000015258789,0.016985399648547173,Marc Stendera,a,289,OpenPlay,2014,RightFoot,5163,Werder Bremen,Eintracht Frankfurt,1,0,2015-05-02 14:30:00,Takashi Inui,Pass
+31706,46,MissedShots,0.749000015258789,0.44299999237060544,0.024087099358439445,Marc Stendera,h,289,OpenPlay,2014,RightFoot,5173,Eintracht Frankfurt,Hoffenheim,3,1,2015-05-09 14:30:00,Timothy Chandler,Pass
+30608,37,MissedShots,0.7909999847412109,0.8059999847412109,0.040806498378515244,Marc Stendera,a,289,DirectFreekick,2014,RightFoot,5183,Hertha Berlin,Eintracht Frankfurt,0,0,2015-05-16 14:30:00,,Standard
+76587,1,SavedShot,0.8219999694824218,0.534000015258789,0.0702207013964653,Marc Stendera,a,289,OpenPlay,2015,RightFoot,1040,VfB Stuttgart,Eintracht Frankfurt,1,4,2015-08-29 17:30:00,Stefan Aigner,Pass
+76865,39,MissedShots,0.93,0.36700000762939455,0.016597600653767586,Marc Stendera,h,289,OpenPlay,2015,Head,1054,Eintracht Frankfurt,FC Cologne,6,2,2015-09-12 20:30:00,,Aerial
+76868,54,SavedShot,0.8880000305175781,0.42200000762939455,0.019074799492955208,Marc Stendera,h,289,SetPiece,2015,Head,1054,Eintracht Frankfurt,FC Cologne,6,2,2015-09-12 20:30:00,,Aerial
+76870,60,SavedShot,0.7559999847412109,0.4809999847412109,0.038318999111652374,Marc Stendera,h,289,OpenPlay,2015,RightFoot,1054,Eintracht Frankfurt,FC Cologne,6,2,2015-09-12 20:30:00,Haris Seferovic,Pass
+77240,27,MissedShots,0.7469999694824219,0.3579999923706055,0.015581400133669376,Marc Stendera,a,289,OpenPlay,2015,RightFoot,1071,Schalke 04,Eintracht Frankfurt,2,0,2015-09-23 22:00:00,,TakeOn
+77251,68,BlockedShot,0.7480000305175781,0.4759999847412109,0.06738200038671494,Marc Stendera,a,289,DirectFreekick,2015,RightFoot,1071,Schalke 04,Eintracht Frankfurt,2,0,2015-09-23 22:00:00,,Standard
+77259,81,SavedShot,0.8530000305175781,0.28299999237060547,0.027961300686001778,Marc Stendera,a,289,OpenPlay,2015,RightFoot,1071,Schalke 04,Eintracht Frankfurt,2,0,2015-09-23 22:00:00,Gian-Luca Waldschmidt,Pass
+77620,23,BlockedShot,0.8080000305175781,0.485,0.025971800088882446,Marc Stendera,h,289,OpenPlay,2015,RightFoot,1082,Eintracht Frankfurt,Hertha Berlin,1,1,2015-09-27 17:30:00,,Aerial
+77624,38,BlockedShot,0.8130000305175781,0.565,0.07080680131912231,Marc Stendera,h,289,OpenPlay,2015,LeftFoot,1082,Eintracht Frankfurt,Hertha Berlin,1,1,2015-09-27 17:30:00,Stefan Reinartz,Pass
+77625,41,ShotOnPost,0.745999984741211,0.42900001525878906,0.025882700458168983,Marc Stendera,h,289,OpenPlay,2015,RightFoot,1082,Eintracht Frankfurt,Hertha Berlin,1,1,2015-09-27 17:30:00,Alexander Meier,Pass
+77875,14,MissedShots,0.7390000152587891,0.7959999847412109,0.01177580002695322,Marc Stendera,a,289,OpenPlay,2015,RightFoot,1089,Ingolstadt,Eintracht Frankfurt,2,0,2015-10-03 17:30:00,Stefan Aigner,Pass
+78073,2,SavedShot,0.7319999694824219,0.5579999923706055,0.05466749891638756,Marc Stendera,h,289,DirectFreekick,2015,RightFoot,1099,Eintracht Frankfurt,Borussia M.Gladbach,1,5,2015-10-17 20:30:00,,Standard
+78272,56,Goal,0.8519999694824218,0.5279999923706055,0.08220510184764862,Marc Stendera,a,289,OpenPlay,2015,LeftFoot,1105,Hannover 96,Eintracht Frankfurt,1,2,2015-10-24 17:30:00,Alexander Meier,TakeOn
+78276,64,Goal,0.9069999694824219,0.38799999237060545,0.1106249988079071,Marc Stendera,a,289,OpenPlay,2015,RightFoot,1105,Hannover 96,Eintracht Frankfurt,1,2,2015-10-24 17:30:00,Stefan Aigner,TakeOn
+78566,53,SavedShot,0.8490000152587891,0.54,0.06822949647903442,Marc Stendera,h,289,OpenPlay,2015,LeftFoot,1111,Eintracht Frankfurt,Bayern Munich,0,0,2015-10-30 23:30:00,,None
+78568,62,MissedShots,0.8209999847412109,0.28299999237060547,0.03060469962656498,Marc Stendera,h,289,OpenPlay,2015,RightFoot,1111,Eintracht Frankfurt,Bayern Munich,0,0,2015-10-30 23:30:00,Makoto Hasebe,TakeOn
+78799,21,SavedShot,0.794000015258789,0.46099998474121096,0.04085719957947731,Marc Stendera,a,289,OpenPlay,2015,LeftFoot,1121,Hoffenheim,Eintracht Frankfurt,0,0,2015-11-07 18:30:00,,None
+78803,30,SavedShot,0.8819999694824219,0.29700000762939455,0.03356890007853508,Marc Stendera,a,289,OpenPlay,2015,RightFoot,1121,Hoffenheim,Eintracht Frankfurt,0,0,2015-11-07 18:30:00,Haris Seferovic,Chipped
+78812,72,SavedShot,0.9469999694824218,0.9080000305175782,0.04229680076241493,Marc Stendera,a,289,DirectFreekick,2015,RightFoot,1121,Hoffenheim,Eintracht Frankfurt,0,0,2015-11-07 18:30:00,,Standard
+79029,59,BlockedShot,0.8540000152587891,0.3659999847412109,0.049988601356744766,Marc Stendera,h,289,OpenPlay,2015,RightFoot,1131,Eintracht Frankfurt,Bayer Leverkusen,1,3,2015-11-21 18:30:00,,None
+79035,77,BlockedShot,0.89,0.5979999923706054,0.09761500358581543,Marc Stendera,h,289,OpenPlay,2015,RightFoot,1131,Eintracht Frankfurt,Bayer Leverkusen,1,3,2015-11-21 18:30:00,Gian-Luca Waldschmidt,Pass
+79493,19,BlockedShot,0.785,0.33299999237060546,0.0357016995549202,Marc Stendera,h,289,FromCorner,2015,RightFoot,1155,Eintracht Frankfurt,Darmstadt,0,1,2015-12-06 20:30:00,Makoto Hasebe,Pass
+79499,31,MissedShots,0.955999984741211,0.6179999923706054,0.0635479986667633,Marc Stendera,h,289,OpenPlay,2015,RightFoot,1155,Eintracht Frankfurt,Darmstadt,0,1,2015-12-06 20:30:00,Makoto Hasebe,Cross
+79506,55,BlockedShot,0.8430000305175781,0.7269999694824218,0.02633100003004074,Marc Stendera,h,289,FromCorner,2015,RightFoot,1155,Eintracht Frankfurt,Darmstadt,0,1,2015-12-06 20:30:00,Gian-Luca Waldschmidt,Pass
+80162,69,MissedShots,0.8719999694824219,0.3370000076293945,0.06144120171666145,Marc Stendera,h,289,OpenPlay,2015,RightFoot,1181,Eintracht Frankfurt,Wolfsburg,3,2,2016-01-24 18:30:00,Marco Fabián,BallTouch
+80434,54,BlockedShot,0.775,0.46799999237060547,0.04984689876437187,Marc Stendera,a,289,OpenPlay,2015,RightFoot,1187,Augsburg,Eintracht Frankfurt,0,0,2016-01-30 18:30:00,Marco Fabián,TakeOn
+80445,84,BlockedShot,0.8009999847412109,0.4520000076293945,0.04323200136423111,Marc Stendera,a,289,OpenPlay,2015,LeftFoot,1187,Augsburg,Eintracht Frankfurt,0,0,2016-01-30 18:30:00,,None
+80630,36,BlockedShot,0.754000015258789,0.25799999237060545,0.01179210003465414,Marc Stendera,h,289,SetPiece,2015,LeftFoot,1194,Eintracht Frankfurt,VfB Stuttgart,2,4,2016-02-06 18:30:00,,Tackle
+80896,7,BlockedShot,0.8059999847412109,0.49900001525878906,0.03568520024418831,Marc Stendera,a,289,FromCorner,2015,LeftFoot,1207,FC Cologne,Eintracht Frankfurt,3,1,2016-02-13 21:30:00,,None
+80909,47,BlockedShot,0.76,0.37099998474121093,0.01677750051021576,Marc Stendera,a,289,FromCorner,2015,RightFoot,1207,FC Cologne,Eintracht Frankfurt,3,1,2016-02-13 21:30:00,,None
+81096,11,SavedShot,0.789000015258789,0.655,0.026127299293875694,Marc Stendera,h,289,OpenPlay,2015,LeftFoot,1210,Eintracht Frankfurt,Hamburger SV,0,0,2016-02-19 23:30:00,Marco Fabián,Pass
+81383,16,SavedShot,0.8719999694824219,0.3089999961853027,0.0446631982922554,Marc Stendera,h,289,OpenPlay,2015,RightFoot,1227,Eintracht Frankfurt,Schalke 04,0,0,2016-02-28 22:30:00,Marco Fabián,Chipped
+81590,26,MissedShots,0.8430000305175781,0.7080000305175781,0.02883020043373108,Marc Stendera,a,289,OpenPlay,2015,RightFoot,1231,Hertha Berlin,Eintracht Frankfurt,2,0,2016-03-02 23:00:00,Szabolcs Huszti,Pass
+81844,8,SavedShot,0.9769999694824218,0.5329999923706055,0.556306004524231,Marc Stendera,h,289,OpenPlay,2015,Head,1240,Eintracht Frankfurt,Ingolstadt,1,1,2016-03-05 18:30:00,Makoto Hasebe,Chipped
+81847,30,BlockedShot,0.795,0.7330000305175781,0.023184500634670258,Marc Stendera,h,289,FromCorner,2015,RightFoot,1240,Eintracht Frankfurt,Ingolstadt,1,1,2016-03-05 18:30:00,David Abraham,Pass
+81854,41,MissedShots,0.8430000305175781,0.7440000152587891,0.027132399380207062,Marc Stendera,h,289,OpenPlay,2015,RightFoot,1240,Eintracht Frankfurt,Ingolstadt,1,1,2016-03-05 18:30:00,Bastian Oczipka,TakeOn
+82360,67,SavedShot,0.7469999694824219,0.46,0.02888539992272854,Marc Stendera,h,289,OpenPlay,2015,RightFoot,1261,Eintracht Frankfurt,Hannover 96,1,0,2016-03-19 21:30:00,,None
+82753,34,MissedShots,0.7340000152587891,0.5570000076293945,0.01672220043838024,Marc Stendera,h,289,OpenPlay,2015,LeftFoot,1278,Eintracht Frankfurt,Hoffenheim,0,2,2016-04-09 17:30:00,Makoto Hasebe,Pass
+82882,4,SavedShot,0.750999984741211,0.3729999923706055,0.01583850011229515,Marc Stendera,a,289,FromCorner,2015,LeftFoot,1285,Bayer Leverkusen,Eintracht Frankfurt,3,0,2016-04-16 17:30:00,,None
+168785,1,MissedShots,0.8540000152587891,0.39799999237060546,0.10403899848461151,Marc Stendera,a,289,OpenPlay,2017,RightFoot,8346,Mainz 05,Eintracht Frankfurt,1,1,2017-10-27 19:30:00,Ante Rebic,Pass
+168793,48,BlockedShot,0.8119999694824219,0.5059999847412109,0.07205600291490555,Marc Stendera,a,289,OpenPlay,2017,RightFoot,8346,Mainz 05,Eintracht Frankfurt,1,1,2017-10-27 19:30:00,Kevin-Prince Boateng,Pass
+167548,11,BlockedShot,0.769000015258789,0.5279999923706055,0.025171900168061256,Marc Stendera,h,289,OpenPlay,2017,RightFoot,8353,Eintracht Frankfurt,Werder Bremen,2,1,2017-11-03 19:30:00,Sébastien Haller,Pass
+167817,28,SavedShot,0.825,0.4779999923706055,0.110166996717453,Marc Stendera,a,289,OpenPlay,2017,RightFoot,8359,Hoffenheim,Eintracht Frankfurt,1,1,2017-11-18 14:30:00,Ante Rebic,Pass
+168502,5,MissedShots,0.8059999847412109,0.44299999237060544,0.05273640155792236,Marc Stendera,h,289,OpenPlay,2017,RightFoot,8372,Eintracht Frankfurt,Bayer Leverkusen,0,1,2017-11-25 14:30:00,Sébastien Haller,Pass
+168504,17,MissedShots,0.6919999694824219,0.6519999694824219,0.008945359848439693,Marc Stendera,h,289,OpenPlay,2017,RightFoot,8372,Eintracht Frankfurt,Bayer Leverkusen,0,1,2017-11-25 14:30:00,Ante Rebic,HeadPass
+168505,19,BlockedShot,0.8319999694824218,0.6359999847412109,0.04603990167379379,Marc Stendera,h,289,OpenPlay,2017,RightFoot,8372,Eintracht Frankfurt,Bayer Leverkusen,0,1,2017-11-25 14:30:00,,None

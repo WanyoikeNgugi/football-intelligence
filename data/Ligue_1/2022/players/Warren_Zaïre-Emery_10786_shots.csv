@@ -1,0 +1,60 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+503292,81,MissedShots,0.7219999694824218,0.43900001525878907,0.02404320053756237,Warren Zaïre-Emery,h,10786,OpenPlay,2022,RightFoot,19824,Paris Saint Germain,Angers,2,0,2023-01-11 20:00:00,Danilo Pereira,Pass
+506703,75,SavedShot,0.919000015258789,0.63,0.325203001499176,Warren Zaïre-Emery,a,10786,OpenPlay,2022,LeftFoot,19852,Montpellier,Paris Saint Germain,1,3,2023-02-01 20:00:00,Danilo Pereira,Chipped
+506710,91,Goal,0.9019999694824219,0.35400001525878905,0.12060199677944183,Warren Zaïre-Emery,a,10786,OpenPlay,2022,RightFoot,19852,Montpellier,Paris Saint Germain,1,3,2023-02-01 20:00:00,Achraf Hakimi,Pass
+508537,38,Goal,0.9569999694824218,0.46599998474121096,0.6184499859809875,Warren Zaïre-Emery,a,10786,OpenPlay,2022,RightFoot,19868,Monaco,Paris Saint Germain,3,1,2023-02-11 16:00:00,Juan Bernat,Pass
+512446,73,SavedShot,0.899000015258789,0.654000015258789,0.09161669760942459,Warren Zaïre-Emery,h,10786,OpenPlay,2022,LeftFoot,19901,Paris Saint Germain,Nantes,4,2,2023-03-04 20:00:00,Lionel Messi,Pass
+513794,66,MissedShots,0.725999984741211,0.47200000762939454,0.01800440065562725,Warren Zaïre-Emery,a,10786,OpenPlay,2022,RightFoot,19917,Brest,Paris Saint Germain,1,2,2023-03-11 20:00:00,Marco Verratti,Pass
+525334,54,MissedShots,0.78,0.46299999237060546,0.05000830814242363,Warren Zaïre-Emery,a,10786,OpenPlay,2022,RightFoot,19987,Troyes,Paris Saint Germain,1,3,2023-05-07 18:45:00,,None
+526288,87,BlockedShot,0.855,0.41,0.07688044011592865,Warren Zaïre-Emery,h,10786,OpenPlay,2022,LeftFoot,19992,Paris Saint Germain,Ajaccio,5,0,2023-05-13 19:00:00,,None
+526289,87,MissedShots,0.93,0.39599998474121095,0.11213057488203049,Warren Zaïre-Emery,h,10786,OpenPlay,2022,RightFoot,19992,Paris Saint Germain,Ajaccio,5,0,2023-05-13 19:00:00,,None
+535095,4,BlockedShot,0.8490000152587891,0.5940000152587891,0.07696816325187683,Warren Zaïre-Emery,h,10786,OpenPlay,2023,LeftFoot,23389,Paris Saint Germain,Lens,3,1,2023-08-26 19:00:00,Kylian Mbappe-Lottin,Pass
+535111,63,BlockedShot,0.8780000305175781,0.43900001525878907,0.13419194519519806,Warren Zaïre-Emery,h,10786,OpenPlay,2023,LeftFoot,23389,Paris Saint Germain,Lens,3,1,2023-08-26 19:00:00,Ousmane Dembélé,Pass
+540075,55,MissedShots,0.7869999694824219,0.68,0.02501453086733818,Warren Zaïre-Emery,h,10786,OpenPlay,2023,RightFoot,23416,Paris Saint Germain,Marseille,4,0,2023-09-24 18:45:00,,None
+540078,64,BlockedShot,0.7830000305175782,0.6559999847412109,0.03063747100532055,Warren Zaïre-Emery,h,10786,OpenPlay,2023,LeftFoot,23416,Paris Saint Germain,Marseille,4,0,2023-09-24 18:45:00,Ousmane Dembélé,Pass
+543551,86,MissedShots,0.8019999694824219,0.67,0.04633478820323944,Warren Zaïre-Emery,a,10786,OpenPlay,2023,RightFoot,23435,Rennes,Paris Saint Germain,1,3,2023-10-08 18:45:00,Lucas Hernández,Pass
+545830,4,SavedShot,0.815,0.5629999923706055,0.04733092710375786,Warren Zaïre-Emery,a,10786,OpenPlay,2023,RightFoot,23460,Brest,Paris Saint Germain,2,3,2023-10-29 12:00:00,Bradley Barcola,Pass
+545834,15,Goal,0.775,0.36200000762939455,0.026698702946305275,Warren Zaïre-Emery,a,10786,OpenPlay,2023,RightFoot,23460,Brest,Paris Saint Germain,2,3,2023-10-29 12:00:00,Bradley Barcola,TakeOn
+546530,48,SavedShot,0.8880000305175781,0.5629999923706055,0.14577215909957886,Warren Zaïre-Emery,h,10786,OpenPlay,2023,RightFoot,23461,Paris Saint Germain,Montpellier,3,0,2023-11-03 20:00:00,Manuel Ugarte,TakeOn
+546534,57,Goal,0.8969999694824219,0.345,0.07731901109218597,Warren Zaïre-Emery,h,10786,OpenPlay,2023,RightFoot,23461,Paris Saint Germain,Montpellier,3,0,2023-11-03 20:00:00,Ousmane Dembélé,Pass
+548466,92,MissedShots,0.884000015258789,0.544000015258789,0.468734472990036,Warren Zaïre-Emery,a,10786,OpenPlay,2023,LeftFoot,23473,Reims,Paris Saint Germain,0,3,2023-11-11 16:00:00,Bradley Barcola,TakeOn
+570175,87,ShotOnPost,0.9309999847412109,0.41900001525878905,0.467912882566452,Warren Zaïre-Emery,a,10786,OpenPlay,2023,RightFoot,23603,Montpellier,Paris Saint Germain,2,6,2024-03-17 19:45:00,Achraf Hakimi,Pass
+575855,16,BlockedShot,0.9540000152587891,0.6029999923706054,0.1388765573501587,Warren Zaïre-Emery,h,10786,OpenPlay,2023,RightFoot,23632,Paris Saint Germain,Lyon,4,1,2024-04-21 19:00:00,Beraldo,Pass
+575871,49,BlockedShot,0.8369999694824218,0.3729999923706055,0.05821508169174194,Warren Zaïre-Emery,h,10786,OpenPlay,2023,LeftFoot,23632,Paris Saint Germain,Lyon,4,1,2024-04-21 19:00:00,,None
+576984,12,BlockedShot,0.7559999847412109,0.4379999923706055,0.043110769242048264,Warren Zaïre-Emery,h,10786,OpenPlay,2023,RightFoot,23641,Paris Saint Germain,Le Havre,3,3,2024-04-27 19:00:00,Marco Asensio,Pass
+585771,43,SavedShot,0.730999984741211,0.29200000762939454,0.017788490280508995,Warren Zaïre-Emery,h,10786,OpenPlay,2024,RightFoot,28057,Paris Saint Germain,Montpellier,6,0,2024-08-23 18:45:00,João Neves,Pass
+585777,59,Goal,0.8859999847412109,0.40900001525878904,0.43938690423965454,Warren Zaïre-Emery,h,10786,OpenPlay,2024,RightFoot,28057,Paris Saint Germain,Montpellier,6,0,2024-08-23 18:45:00,Ousmane Dembélé,TakeOn
+596500,28,MissedShots,0.7219999694824218,0.46299999237060546,0.014382128603756428,Warren Zaïre-Emery,a,10786,FromCorner,2024,RightFoot,28104,Nice,Paris Saint Germain,1,1,2024-10-06 18:45:00,,None
+597383,74,BlockedShot,0.9669999694824218,0.34700000762939454,0.09235947579145432,Warren Zaïre-Emery,h,10786,OpenPlay,2024,RightFoot,28119,Paris Saint Germain,Strasbourg,4,2,2024-10-19 19:00:00,João Neves,Pass
+600266,75,SavedShot,0.7859999847412109,0.6730000305175782,0.02332189306616783,Warren Zaïre-Emery,h,10786,FromCorner,2024,RightFoot,28130,Paris Saint Germain,Lens,1,0,2024-11-02 16:00:00,Désiré Doué,Pass
+602557,21,SavedShot,0.8619999694824219,0.295,0.03854948654770851,Warren Zaïre-Emery,h,10786,OpenPlay,2024,RightFoot,28147,Paris Saint Germain,Toulouse,3,0,2024-11-22 20:00:00,Ousmane Dembélé,Pass
+604476,74,SavedShot,0.9230000305175782,0.44,0.453168660402298,Warren Zaïre-Emery,h,10786,OpenPlay,2024,LeftFoot,28161,Paris Saint Germain,Nantes,1,1,2024-11-30 20:00:00,Gonçalo Ramos,Pass
+607888,4,BlockedShot,0.8009999847412109,0.4909999847412109,0.046294841915369034,Warren Zaïre-Emery,h,10786,OpenPlay,2024,LeftFoot,28182,Paris Saint Germain,Lyon,3,1,2024-12-15 19:45:00,,None
+607898,49,SavedShot,0.8280000305175781,0.4620000076293945,0.08185973763465881,Warren Zaïre-Emery,h,10786,OpenPlay,2024,RightFoot,28182,Paris Saint Germain,Lyon,3,1,2024-12-15 19:45:00,Ousmane Dembélé,Pass
+612364,83,BlockedShot,0.7469999694824219,0.3559999847412109,0.014644800685346127,Warren Zaïre-Emery,a,10786,OpenPlay,2024,RightFoot,28202,Lens,Paris Saint Germain,1,2,2025-01-18 16:00:00,,None
+620333,92,BlockedShot,0.7969999694824219,0.33799999237060546,0.020220914855599403,Warren Zaïre-Emery,h,10786,FromCorner,2024,RightFoot,28255,Paris Saint Germain,Lille,4,1,2025-03-01 20:05:00,,None
+621382,23,BlockedShot,0.815,0.49900001525878906,0.05339248478412628,Warren Zaïre-Emery,a,10786,OpenPlay,2024,LeftFoot,28271,Rennes,Paris Saint Germain,1,4,2025-03-08 16:00:00,,None
+623753,19,MissedShots,0.855,0.5120000076293946,0.10904891788959503,Warren Zaïre-Emery,h,10786,OpenPlay,2024,RightFoot,28273,Paris Saint Germain,Marseille,3,1,2025-03-16 19:45:00,Khvicha Kvaratskhelia,Pass
+623766,61,SavedShot,0.8630000305175781,0.675,0.32783564925193787,Warren Zaïre-Emery,h,10786,OpenPlay,2024,LeftFoot,28273,Paris Saint Germain,Marseille,3,1,2025-03-16 19:45:00,Ousmane Dembélé,Throughball
+630037,62,BlockedShot,0.8640000152587891,0.5209999847412109,0.38325774669647217,Warren Zaïre-Emery,h,10786,OpenPlay,2024,RightFoot,28324,Paris Saint Germain,Nice,1,3,2025-04-25 18:45:00,Fabián,Pass
+630042,82,BlockedShot,0.8190000152587891,0.68,0.026798797771334648,Warren Zaïre-Emery,h,10786,OpenPlay,2024,RightFoot,28324,Paris Saint Germain,Nice,1,3,2025-04-25 18:45:00,Bradley Barcola,Pass
+631519,48,BlockedShot,0.76,0.665,0.01585957035422325,Warren Zaïre-Emery,a,10786,OpenPlay,2024,RightFoot,28328,Strasbourg,Paris Saint Germain,2,1,2025-05-03 15:00:00,Désiré Doué,BallRecovery
+638559,68,MissedShots,0.8930000305175781,0.30700000762939456,0.09631796926259995,Warren Zaïre-Emery,h,10786,OpenPlay,2025,RightFoot,29547,Paris Saint Germain,Angers,1,0,2025-08-22 18:45:00,Ousmane Dembélé,LayOff
+645114,4,SavedShot,0.835999984741211,0.36,0.04781457409262657,Warren Zaïre-Emery,h,10786,OpenPlay,2025,RightFoot,29588,Paris Saint Germain,Auxerre,2,0,2025-09-27 19:05:00,Ibrahim Mbaye,Pass
+647074,61,BlockedShot,0.784000015258789,0.4229999923706055,0.03536021709442139,Warren Zaïre-Emery,a,10786,OpenPlay,2025,LeftFoot,29595,Lille,Paris Saint Germain,1,1,2025-10-05 18:45:00,Lee Kang-In,BallTouch
+649015,23,MissedShots,0.9069999694824219,0.48900001525878906,0.08581261336803436,Warren Zaïre-Emery,a,10786,FromCorner,2025,Head,29613,Brest,Paris Saint Germain,0,3,2025-10-25 15:00:00,Senny Mayulu,Cross
+649018,35,SavedShot,0.7759999847412109,0.6869999694824219,0.02628258988261223,Warren Zaïre-Emery,a,10786,OpenPlay,2025,RightFoot,29613,Brest,Paris Saint Germain,0,3,2025-10-25 15:00:00,Vitinha,Pass
+650221,56,BlockedShot,0.7669999694824219,0.3039999961853027,0.01952662132680416,Warren Zaïre-Emery,a,10786,OpenPlay,2025,RightFoot,29621,Lorient,Paris Saint Germain,1,1,2025-10-29 17:00:00,Vitinha,Pass
+650950,17,BlockedShot,0.8690000152587891,0.34200000762939453,0.05434639751911163,Warren Zaïre-Emery,h,10786,OpenPlay,2025,RightFoot,29634,Paris Saint Germain,Nice,1,0,2025-11-01 16:00:00,,None
+650961,56,SavedShot,0.7290000152587891,0.40700000762939453,0.015909438952803612,Warren Zaïre-Emery,h,10786,OpenPlay,2025,RightFoot,29634,Paris Saint Germain,Nice,1,0,2025-11-01 16:00:00,,BallRecovery
+653144,25,Goal,0.955999984741211,0.33,0.2851252853870392,Warren Zaïre-Emery,a,10786,OpenPlay,2025,RightFoot,29640,Lyon,Paris Saint Germain,2,3,2025-11-09 19:45:00,Vitinha,Throughball
+663292,75,MissedShots,0.8030000305175782,0.3120000076293945,0.07686562091112137,Warren Zaïre-Emery,h,10786,OpenPlay,2025,RightFoot,29696,Paris Saint Germain,Lille,3,0,2026-01-16 20:00:00,Ousmane Dembélé,Pass
+664492,46,BlockedShot,0.7680000305175781,0.40900001525878904,0.014557299204170704,Warren Zaïre-Emery,a,10786,FromCorner,2025,RightFoot,29700,Auxerre,Paris Saint Germain,0,1,2026-01-23 19:00:00,,Aerial
+666797,64,BlockedShot,0.7869999694824219,0.3170000076293945,0.016818584874272346,Warren Zaïre-Emery,a,10786,OpenPlay,2025,RightFoot,29716,Strasbourg,Paris Saint Germain,1,2,2026-02-01 19:45:00,,Rebound
+668451,46,MissedShots,0.769000015258789,0.4379999923706055,0.02826717682182789,Warren Zaïre-Emery,a,10786,OpenPlay,2025,RightFoot,29735,Rennes,Paris Saint Germain,3,1,2026-02-13 18:00:00,Khvicha Kvaratskhelia,Pass
+668458,64,BlockedShot,0.9259999847412109,0.539000015258789,0.10198400169610977,Warren Zaïre-Emery,a,10786,FromCorner,2025,RightFoot,29735,Rennes,Paris Saint Germain,3,1,2026-02-13 18:00:00,Ousmane Dembélé,Cross
+670082,78,SavedShot,0.9419999694824219,0.395,0.41402947902679443,Warren Zaïre-Emery,h,10786,OpenPlay,2025,RightFoot,29742,Paris Saint Germain,Metz,3,0,2026-02-21 20:05:00,João Neves,Pass
+671392,29,MissedShots,0.9019999694824219,0.47200000762939454,0.10636366158723831,Warren Zaïre-Emery,a,10786,OpenPlay,2025,Head,29745,Le Havre,Paris Saint Germain,0,1,2026-02-28 20:05:00,Lee Kang-In,Cross
+675612,8,BlockedShot,0.8119999694824219,0.4370000076293945,0.052602797746658325,Warren Zaïre-Emery,a,10786,OpenPlay,2025,RightFoot,29777,Nice,Paris Saint Germain,0,4,2026-03-21 20:05:00,Désiré Doué,Pass
+675632,84,Goal,0.9119999694824219,0.49599998474121093,0.5705392360687256,Warren Zaïre-Emery,a,10786,OpenPlay,2025,RightFoot,29777,Nice,Paris Saint Germain,0,4,2026-03-21 20:05:00,,None
+682707,61,Goal,0.7559999847412109,0.415,0.02101401425898075,Warren Zaïre-Emery,h,10786,SetPiece,2025,RightFoot,29824,Paris Saint Germain,Lorient,2,2,2026-05-03 13:00:00,Désiré Doué,Pass

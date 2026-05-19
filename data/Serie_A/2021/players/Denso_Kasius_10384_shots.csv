@@ -1,0 +1,7 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+456119,82,BlockedShot,0.825999984741211,0.525,0.07446610182523727,Denso Kasius,h,10384,OpenPlay,2021,LeftFoot,16987,Bologna,Empoli,0,0,2022-02-06 14:00:00,Michel Aebischer,Pass
+456123,93,SavedShot,0.7830000305175782,0.365,0.026403699070215225,Denso Kasius,h,10384,OpenPlay,2021,RightFoot,16987,Bologna,Empoli,0,0,2022-02-06 14:00:00,Musa Barrow,Pass
+482897,8,BlockedShot,0.855,0.28399999618530275,0.03739919885993004,Denso Kasius,h,10384,OpenPlay,2022,RightFoot,18598,Bologna,Verona,1,1,2022-08-21 18:45:00,Lorenzo De Silvestri,TakeOn
+482906,34,MissedShots,0.7419999694824219,0.3579999923706055,0.032802801579236984,Denso Kasius,h,10384,FromCorner,2022,RightFoot,18598,Bologna,Verona,1,1,2022-08-21 18:45:00,,TakeOn
+482920,55,MissedShots,0.74,0.504000015258789,0.01596839912235737,Denso Kasius,h,10384,FromCorner,2022,LeftFoot,18598,Bologna,Verona,1,1,2022-08-21 18:45:00,,None
+483982,26,BlockedShot,0.91,0.2570000076293945,0.04077079892158508,Denso Kasius,a,10384,OpenPlay,2022,RightFoot,18606,AC Milan,Bologna,2,0,2022-08-27 18:45:00,Marko Arnautovic,Pass

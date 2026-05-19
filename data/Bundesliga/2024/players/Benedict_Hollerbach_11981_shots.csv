@@ -1,0 +1,133 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+538978,88,BlockedShot,0.8030000305175782,0.6780000305175782,0.023614661768078804,Benedict Hollerbach,h,11981,SetPiece,2023,RightFoot,23106,Union Berlin,Hoffenheim,0,2,2023-09-23 13:30:00,Aissa Laidouni,Pass
+549665,90,MissedShots,0.8540000152587891,0.49700000762939456,0.07372433692216873,Benedict Hollerbach,h,11981,OpenPlay,2023,LeftFoot,23165,Union Berlin,Augsburg,1,1,2023-11-25 14:30:00,Kevin Behrens,HeadPass
+552792,36,BlockedShot,0.7759999847412109,0.549000015258789,0.04794609546661377,Benedict Hollerbach,h,11981,OpenPlay,2023,RightFoot,23183,Union Berlin,Borussia M.Gladbach,3,1,2023-12-09 14:30:00,Jérôme Roussillon,None
+552797,49,Goal,0.7869999694824219,0.66,0.014557677321135998,Benedict Hollerbach,h,11981,FromCorner,2023,RightFoot,23183,Union Berlin,Borussia M.Gladbach,3,1,2023-12-09 14:30:00,,Aerial
+552798,51,MissedShots,0.9109999847412109,0.3129999923706055,0.39350426197052,Benedict Hollerbach,h,11981,OpenPlay,2023,RightFoot,23183,Union Berlin,Borussia M.Gladbach,3,1,2023-12-09 14:30:00,Josip Juranovic,Throughball
+554214,39,BlockedShot,0.8519999694824218,0.6990000152587891,0.05433660000562668,Benedict Hollerbach,a,11981,OpenPlay,2023,LeftFoot,23197,Bochum,Union Berlin,3,0,2023-12-16 14:30:00,Sheraldo Becker,Pass
+554225,62,BlockedShot,0.8980000305175782,0.655,0.07162975519895554,Benedict Hollerbach,a,11981,OpenPlay,2023,LeftFoot,23197,Bochum,Union Berlin,3,0,2023-12-16 14:30:00,Aissa Laidouni,Pass
+555390,54,Goal,0.93,0.66,0.08829838782548904,Benedict Hollerbach,h,11981,OpenPlay,2023,LeftFoot,23201,Union Berlin,FC Cologne,2,0,2023-12-20 17:30:00,Kevin Volland,TakeOn
+555391,56,SavedShot,0.8630000305175781,0.38,0.14833958446979523,Benedict Hollerbach,h,11981,OpenPlay,2023,LeftFoot,23201,Union Berlin,FC Cologne,2,0,2023-12-20 17:30:00,David Datro Fofana,TakeOn
+560276,47,SavedShot,0.855,0.5459999847412109,0.3580833971500397,Benedict Hollerbach,h,11981,OpenPlay,2023,RightFoot,23228,Union Berlin,Darmstadt,1,0,2024-01-28 14:30:00,,BallTouch
+560284,61,Goal,0.9,0.6029999923706054,0.38012781739234924,Benedict Hollerbach,h,11981,OpenPlay,2023,RightFoot,23228,Union Berlin,Darmstadt,1,0,2024-01-28 14:30:00,Andras Schafer,Pass
+560287,68,BlockedShot,0.9169999694824219,0.5579999923706055,0.12447202205657959,Benedict Hollerbach,h,11981,OpenPlay,2023,LeftFoot,23228,Union Berlin,Darmstadt,1,0,2024-01-28 14:30:00,Robin Gosens,Chipped
+561882,21,BlockedShot,0.7969999694824219,0.35400001525878905,0.028095053508877754,Benedict Hollerbach,a,11981,OpenPlay,2023,RightFoot,23237,RasenBallsport Leipzig,Union Berlin,2,0,2024-02-04 16:30:00,,None
+561884,33,BlockedShot,0.884000015258789,0.6359999847412109,0.06283817440271378,Benedict Hollerbach,a,11981,OpenPlay,2023,LeftFoot,23237,RasenBallsport Leipzig,Union Berlin,2,0,2024-02-04 16:30:00,Yorbe Vertessen,Pass
+561899,61,MissedShots,0.775,0.46799999237060547,0.022769693285226822,Benedict Hollerbach,a,11981,FromCorner,2023,RightFoot,23237,RasenBallsport Leipzig,Union Berlin,2,0,2024-02-04 16:30:00,,None
+561901,72,BlockedShot,0.8490000152587891,0.49900001525878906,0.09039824455976486,Benedict Hollerbach,a,11981,OpenPlay,2023,RightFoot,23237,RasenBallsport Leipzig,Union Berlin,2,0,2024-02-04 16:30:00,Robin Gosens,Pass
+563344,2,SavedShot,0.7809999847412109,0.5970000076293945,0.03249092772603035,Benedict Hollerbach,a,11981,OpenPlay,2023,LeftFoot,23221,Mainz 05,Union Berlin,1,1,2024-02-07 17:30:00,Kevin Volland,BallTouch
+563345,3,MissedShots,0.9290000152587891,0.675,0.05574537441134453,Benedict Hollerbach,a,11981,OpenPlay,2023,LeftFoot,23221,Mainz 05,Union Berlin,1,1,2024-02-07 17:30:00,,Rebound
+563363,30,BlockedShot,0.9009999847412109,0.4979999923706055,0.15808354318141937,Benedict Hollerbach,a,11981,OpenPlay,2023,LeftFoot,23221,Mainz 05,Union Berlin,1,1,2024-02-07 17:30:00,,Rebound
+562544,59,MissedShots,0.85,0.3370000076293945,0.05325429514050484,Benedict Hollerbach,h,11981,OpenPlay,2023,LeftFoot,23248,Union Berlin,Wolfsburg,1,0,2024-02-10 14:30:00,,BallTouch
+563773,17,ShotOnPost,0.894000015258789,0.4159999847412109,0.3951937258243561,Benedict Hollerbach,a,11981,OpenPlay,2023,RightFoot,23259,Hoffenheim,Union Berlin,0,1,2024-02-17 14:30:00,,None
+565111,68,BlockedShot,0.759000015258789,0.265,0.017424825578927994,Benedict Hollerbach,h,11981,OpenPlay,2023,LeftFoot,23269,Union Berlin,FC Heidenheim,2,2,2024-02-24 14:30:00,Rani Khedira,Chipped
+566505,7,BlockedShot,0.7859999847412109,0.5209999847412109,0.04172424226999283,Benedict Hollerbach,h,11981,OpenPlay,2023,LeftFoot,23272,Union Berlin,Borussia Dortmund,0,2,2024-03-02 14:30:00,,BallRecovery
+566517,55,BlockedShot,0.8719999694824219,0.4520000076293945,0.0703335702419281,Benedict Hollerbach,h,11981,OpenPlay,2023,LeftFoot,23272,Union Berlin,Borussia Dortmund,0,2,2024-03-02 14:30:00,,Dispossessed
+570605,77,MissedShots,0.799000015258789,0.605,0.03900885581970215,Benedict Hollerbach,a,11981,FromCorner,2023,RightFoot,23302,Eintracht Frankfurt,Union Berlin,0,0,2024-03-30 14:30:00,,Rebound
+573277,11,SavedShot,0.8809999847412109,0.645,0.1379360854625702,Benedict Hollerbach,a,11981,OpenPlay,2023,RightFoot,23323,Augsburg,Union Berlin,2,0,2024-04-12 18:30:00,Diogo Leite,Foul
+573286,71,MissedShots,0.9580000305175781,0.5579999923706055,0.12828117609024048,Benedict Hollerbach,a,11981,OpenPlay,2023,LeftFoot,23323,Augsburg,Union Berlin,2,0,2024-04-12 18:30:00,Kevin Volland,Pass
+578958,64,BlockedShot,0.889000015258789,0.33599998474121096,0.04637489095330238,Benedict Hollerbach,h,11981,FromCorner,2023,RightFoot,23345,Union Berlin,Bochum,3,4,2024-05-05 13:30:00,Josip Juranovic,Pass
+578961,73,Goal,0.9340000152587891,0.49900001525878906,0.5663231015205383,Benedict Hollerbach,h,11981,OpenPlay,2023,RightFoot,23345,Union Berlin,Bochum,3,4,2024-05-05 13:30:00,Brenden Aaronson,Pass
+579731,82,SavedShot,0.919000015258789,0.51,0.08714794367551804,Benedict Hollerbach,a,11981,SetPiece,2023,RightFoot,23358,FC Cologne,Union Berlin,3,2,2024-05-11 13:30:00,Robin Knoche,HeadPass
+581502,67,Goal,0.8190000152587891,0.40599998474121096,0.052952323108911514,Benedict Hollerbach,h,11981,OpenPlay,2023,LeftFoot,23363,Union Berlin,Freiburg,2,1,2024-05-18 13:30:00,Brenden Aaronson,Pass
+581504,79,BlockedShot,0.914000015258789,0.27899999618530275,0.054142531007528305,Benedict Hollerbach,h,11981,OpenPlay,2023,RightFoot,23363,Union Berlin,Freiburg,2,1,2024-05-18 13:30:00,Janik Haberer,Pass
+581505,82,BlockedShot,0.9,0.6480000305175782,0.11101102083921432,Benedict Hollerbach,h,11981,OpenPlay,2023,LeftFoot,23363,Union Berlin,Freiburg,2,1,2024-05-18 13:30:00,Aissa Laidouni,Pass
+581512,95,BlockedShot,0.9309999847412109,0.624000015258789,0.11514793336391449,Benedict Hollerbach,h,11981,OpenPlay,2023,LeftFoot,23363,Union Berlin,Freiburg,2,1,2024-05-18 13:30:00,Robin Gosens,Pass
+585904,18,SavedShot,0.8340000152587891,0.6120000076293945,0.05174428969621658,Benedict Hollerbach,a,11981,OpenPlay,2024,LeftFoot,27747,Mainz 05,Union Berlin,1,1,2024-08-24 13:30:00,,None
+585908,41,SavedShot,0.9369999694824219,0.6969999694824218,0.04089232161641121,Benedict Hollerbach,a,11981,FromCorner,2024,LeftFoot,27747,Mainz 05,Union Berlin,1,1,2024-08-24 13:30:00,,None
+588873,33,Goal,0.8109999847412109,0.44400001525878907,0.03585655614733696,Benedict Hollerbach,h,11981,FromCorner,2024,RightFoot,27751,Union Berlin,St. Pauli,1,0,2024-08-30 18:30:00,,None
+592218,23,MissedShots,0.8590000152587891,0.6630000305175782,0.11010368168354034,Benedict Hollerbach,h,11981,OpenPlay,2024,RightFoot,27770,Union Berlin,Hoffenheim,2,1,2024-09-21 13:30:00,Diogo Leite,Pass
+592220,35,BlockedShot,0.8140000152587891,0.32299999237060545,0.02961263433098793,Benedict Hollerbach,h,11981,OpenPlay,2024,LeftFoot,27770,Union Berlin,Hoffenheim,2,1,2024-09-21 13:30:00,,None
+593971,8,MissedShots,0.93,0.635,0.09822402894496918,Benedict Hollerbach,a,11981,OpenPlay,2024,RightFoot,27782,Borussia M.Gladbach,Union Berlin,1,0,2024-09-28 13:30:00,Tom Rothe,Cross
+593972,10,SavedShot,0.91,0.575999984741211,0.3238208293914795,Benedict Hollerbach,a,11981,OpenPlay,2024,LeftFoot,27782,Borussia M.Gladbach,Union Berlin,1,0,2024-09-28 13:30:00,Tom Rothe,Cross
+595382,9,MissedShots,0.8930000305175781,0.539000015258789,0.07399144768714905,Benedict Hollerbach,h,11981,OpenPlay,2024,Head,27791,Union Berlin,Borussia Dortmund,2,1,2024-10-05 13:30:00,Woo-Yeong Jeong,Cross
+595401,75,MissedShots,0.9380000305175781,0.6940000152587891,0.09493780881166458,Benedict Hollerbach,h,11981,OpenPlay,2024,LeftFoot,27791,Union Berlin,Borussia Dortmund,2,1,2024-10-05 13:30:00,Jordan Siebatcheu,Pass
+597584,0,MissedShots,0.9269999694824219,0.5129999923706055,0.08858606219291687,Benedict Hollerbach,a,11981,OpenPlay,2024,Head,27804,Holstein Kiel,Union Berlin,0,2,2024-10-20 13:30:00,Yorbe Vertessen,Aerial
+599054,58,SavedShot,0.875,0.5570000076293945,0.2761878967285156,Benedict Hollerbach,h,11981,OpenPlay,2024,LeftFoot,27811,Union Berlin,Eintracht Frankfurt,1,1,2024-10-27 16:30:00,Danilho Doekhi,Cross
+599055,65,Goal,0.8569999694824219,0.5740000152587891,0.42726585268974304,Benedict Hollerbach,h,11981,OpenPlay,2024,LeftFoot,27811,Union Berlin,Eintracht Frankfurt,1,1,2024-10-27 16:30:00,Robert Skov,Pass
+599934,30,MissedShots,0.9009999847412109,0.620999984741211,0.018056781962513924,Benedict Hollerbach,a,11981,OpenPlay,2024,Head,27815,Bayern Munich,Union Berlin,3,0,2024-11-02 14:30:00,Woo-Yeong Jeong,Aerial
+601153,14,BlockedShot,0.8490000152587891,0.5359999847412109,0.09122519940137863,Benedict Hollerbach,h,11981,OpenPlay,2024,RightFoot,27829,Union Berlin,Freiburg,0,0,2024-11-08 19:30:00,Aljoscha Kemlein,Pass
+601152,14,BlockedShot,0.8159999847412109,0.455,0.05918421596288681,Benedict Hollerbach,h,11981,OpenPlay,2024,LeftFoot,27829,Union Berlin,Freiburg,0,0,2024-11-08 19:30:00,Yorbe Vertessen,BallRecovery
+604061,54,BlockedShot,0.7909999847412109,0.705,0.0223353523761034,Benedict Hollerbach,h,11981,OpenPlay,2024,LeftFoot,27848,Union Berlin,Bayer Leverkusen,1,2,2024-11-30 14:30:00,Aljoscha Kemlein,Pass
+604064,69,BlockedShot,0.9080000305175782,0.7030000305175781,0.05104311183094978,Benedict Hollerbach,h,11981,OpenPlay,2024,LeftFoot,27848,Union Berlin,Bayer Leverkusen,1,2,2024-11-30 14:30:00,Tom Rothe,Pass
+605494,56,BlockedShot,0.84,0.3390000152587891,0.03266531229019165,Benedict Hollerbach,a,11981,FromCorner,2024,LeftFoot,27851,VfB Stuttgart,Union Berlin,3,2,2024-12-06 19:30:00,Robert Skov,Cross
+607055,15,MissedShots,0.9480000305175781,0.46099998474121096,0.5730944871902466,Benedict Hollerbach,h,11981,FromCorner,2024,LeftFoot,27866,Union Berlin,Bochum,1,1,2024-12-14 14:30:00,Danilho Doekhi,Rebound
+607056,16,BlockedShot,0.955,0.3390000152587891,0.07355242967605591,Benedict Hollerbach,h,11981,OpenPlay,2024,RightFoot,27866,Union Berlin,Bochum,1,1,2024-12-14 14:30:00,Tim Skarke,TakeOn
+607064,32,Goal,0.874000015258789,0.4759999847412109,0.0976313129067421,Benedict Hollerbach,h,11981,OpenPlay,2024,LeftFoot,27866,Union Berlin,Bochum,1,1,2024-12-14 14:30:00,Robert Skov,Pass
+607067,45,MissedShots,0.9159999847412109,0.41900001525878905,0.43789446353912354,Benedict Hollerbach,h,11981,OpenPlay,2024,RightFoot,27866,Union Berlin,Bochum,1,1,2024-12-14 14:30:00,Andras Schafer,TakeOn
+607079,78,BlockedShot,0.8669999694824219,0.46099998474121096,0.10048425942659378,Benedict Hollerbach,h,11981,OpenPlay,2024,LeftFoot,27866,Union Berlin,Bochum,1,1,2024-12-14 14:30:00,Jordan Siebatcheu,Pass
+607085,90,MissedShots,0.875,0.524000015258789,0.02190502919256687,Benedict Hollerbach,h,11981,OpenPlay,2024,Head,27866,Union Berlin,Bochum,1,1,2024-12-14 14:30:00,László Bénes,Aerial
+608298,27,MissedShots,0.845,0.57,0.014123636297881603,Benedict Hollerbach,a,11981,OpenPlay,2024,Head,27873,Werder Bremen,Union Berlin,4,1,2024-12-21 14:30:00,Christopher Trimmel,Foul
+608306,48,MissedShots,0.8769999694824219,0.46299999237060546,0.28890034556388855,Benedict Hollerbach,a,11981,OpenPlay,2024,RightFoot,27873,Werder Bremen,Union Berlin,4,1,2024-12-21 14:30:00,,None
+610630,5,SavedShot,0.764000015258789,0.6609999847412109,0.017008565366268158,Benedict Hollerbach,a,11981,OpenPlay,2024,RightFoot,27880,FC Heidenheim,Union Berlin,2,0,2025-01-11 14:30:00,Jordan Siebatcheu,HeadPass
+610632,10,BlockedShot,0.9330000305175781,0.44299999237060544,0.10826205462217331,Benedict Hollerbach,a,11981,OpenPlay,2024,RightFoot,27880,FC Heidenheim,Union Berlin,2,0,2025-01-11 14:30:00,Danilho Doekhi,HeadPass
+610640,39,BlockedShot,0.9290000152587891,0.4229999923706055,0.08199060708284378,Benedict Hollerbach,a,11981,OpenPlay,2024,RightFoot,27880,FC Heidenheim,Union Berlin,2,0,2025-01-11 14:30:00,Jordan Siebatcheu,None
+611738,10,MissedShots,0.7719999694824219,0.509000015258789,0.022265788167715073,Benedict Hollerbach,h,11981,FromCorner,2024,LeftFoot,27892,Union Berlin,Augsburg,0,2,2025-01-15 19:30:00,,None
+611741,16,BlockedShot,0.8519999694824218,0.5479999923706055,0.07484327256679535,Benedict Hollerbach,h,11981,OpenPlay,2024,LeftFoot,27892,Union Berlin,Augsburg,0,2,2025-01-15 19:30:00,Woo-Yeong Jeong,Pass
+612741,0,Goal,0.9180000305175782,0.6419999694824219,0.34406498074531555,Benedict Hollerbach,h,11981,OpenPlay,2024,RightFoot,27901,Union Berlin,Mainz 05,2,1,2025-01-19 14:30:00,,BallRecovery
+612756,34,BlockedShot,0.905,0.5420000076293945,0.1396624743938446,Benedict Hollerbach,h,11981,OpenPlay,2024,RightFoot,27901,Union Berlin,Mainz 05,2,1,2025-01-19 14:30:00,Jordan Siebatcheu,Rebound
+614015,32,SavedShot,0.8919999694824219,0.6509999847412109,0.06035852059721947,Benedict Hollerbach,a,11981,OpenPlay,2024,LeftFoot,27907,St. Pauli,Union Berlin,3,0,2025-01-26 16:30:00,Leopold Querfeld,Chipped
+614021,43,MissedShots,0.8930000305175781,0.31799999237060544,0.07622750103473663,Benedict Hollerbach,a,11981,OpenPlay,2024,RightFoot,27907,St. Pauli,Union Berlin,3,0,2025-01-26 16:30:00,Aljoscha Kemlein,TakeOn
+614027,57,MissedShots,0.9580000305175781,0.6730000305175782,0.04232325032353401,Benedict Hollerbach,a,11981,OpenPlay,2024,LeftFoot,27907,St. Pauli,Union Berlin,3,0,2025-01-26 16:30:00,Diogo Leite,Chipped
+614029,68,BlockedShot,0.9009999847412109,0.4229999923706055,0.11572003364562988,Benedict Hollerbach,a,11981,OpenPlay,2024,RightFoot,27907,St. Pauli,Union Berlin,3,0,2025-01-26 16:30:00,Yorbe Vertessen,Pass
+614036,84,MissedShots,0.7559999847412109,0.590999984741211,0.017423035576939583,Benedict Hollerbach,a,11981,FromCorner,2024,RightFoot,27907,St. Pauli,Union Berlin,3,0,2025-01-26 16:30:00,,None
+615125,11,MissedShots,0.8030000305175782,0.48200000762939454,0.0505850687623024,Benedict Hollerbach,h,11981,OpenPlay,2024,LeftFoot,27913,Union Berlin,RasenBallsport Leipzig,0,0,2025-02-01 17:30:00,Tim Skarke,Pass
+615130,23,MissedShots,0.7480000305175781,0.4909999847412109,0.023862749338150024,Benedict Hollerbach,h,11981,OpenPlay,2024,RightFoot,27913,Union Berlin,RasenBallsport Leipzig,0,0,2025-02-01 17:30:00,Josip Juranovic,Pass
+615137,52,BlockedShot,0.7609999847412109,0.6459999847412109,0.016311636194586754,Benedict Hollerbach,h,11981,FromCorner,2024,RightFoot,27913,Union Berlin,RasenBallsport Leipzig,0,0,2025-02-01 17:30:00,,None
+615145,66,SavedShot,0.855,0.48700000762939455,0.3597809076309204,Benedict Hollerbach,h,11981,OpenPlay,2024,RightFoot,27913,Union Berlin,RasenBallsport Leipzig,0,0,2025-02-01 17:30:00,Tim Skarke,BlockedPass
+616028,23,Goal,0.8919999694824219,0.5420000076293945,0.3797385096549988,Benedict Hollerbach,a,11981,OpenPlay,2024,LeftFoot,27925,Hoffenheim,Union Berlin,0,4,2025-02-08 14:30:00,,Rebound
+616034,42,BlockedShot,0.8209999847412109,0.519000015258789,0.07290448248386383,Benedict Hollerbach,a,11981,OpenPlay,2024,RightFoot,27925,Hoffenheim,Union Berlin,0,4,2025-02-08 14:30:00,,None
+616035,43,BlockedShot,0.7769999694824219,0.5509999847412109,0.022800263017416,Benedict Hollerbach,a,11981,FromCorner,2024,LeftFoot,27925,Hoffenheim,Union Berlin,0,4,2025-02-08 14:30:00,,None
+616039,52,MissedShots,0.925,0.69,0.11903812736272812,Benedict Hollerbach,a,11981,OpenPlay,2024,LeftFoot,27925,Hoffenheim,Union Berlin,0,4,2025-02-08 14:30:00,,None
+616050,82,BlockedShot,0.889000015258789,0.654000015258789,0.09870356321334839,Benedict Hollerbach,a,11981,OpenPlay,2024,LeftFoot,27925,Hoffenheim,Union Berlin,0,4,2025-02-08 14:30:00,Andrej Ilic,Pass
+616051,86,Goal,0.8540000152587891,0.5579999923706055,0.12127147614955902,Benedict Hollerbach,a,11981,OpenPlay,2024,LeftFoot,27925,Hoffenheim,Union Berlin,0,4,2025-02-08 14:30:00,Marin Ljubicic,Pass
+617108,54,BlockedShot,0.855999984741211,0.5270000076293946,0.09019521623849869,Benedict Hollerbach,h,11981,OpenPlay,2024,RightFoot,27937,Union Berlin,Borussia M.Gladbach,1,2,2025-02-15 14:30:00,Woo-Yeong Jeong,Pass
+617116,85,BlockedShot,0.855999984741211,0.36700000762939455,0.054656900465488434,Benedict Hollerbach,h,11981,OpenPlay,2024,RightFoot,27937,Union Berlin,Borussia M.Gladbach,1,2,2025-02-15 14:30:00,László Bénes,Pass
+618629,26,BlockedShot,0.9159999847412109,0.6809999847412109,0.08049743622541428,Benedict Hollerbach,a,11981,SetPiece,2024,LeftFoot,27942,Borussia Dortmund,Union Berlin,6,0,2025-02-22 17:30:00,,TakeOn
+618635,34,SavedShot,0.925,0.6669999694824219,0.06282296031713486,Benedict Hollerbach,a,11981,OpenPlay,2024,LeftFoot,27942,Borussia Dortmund,Union Berlin,6,0,2025-02-22 17:30:00,Andras Schafer,Pass
+618643,60,MissedShots,0.9169999694824219,0.515,0.06522542238235474,Benedict Hollerbach,a,11981,OpenPlay,2024,Head,27942,Borussia Dortmund,Union Berlin,6,0,2025-02-22 17:30:00,Tom Rothe,Aerial
+621867,67,BlockedShot,0.9169999694824219,0.5870000076293945,0.09502364695072174,Benedict Hollerbach,a,11981,OpenPlay,2024,LeftFoot,27961,Eintracht Frankfurt,Union Berlin,1,2,2025-03-09 14:30:00,Andras Schafer,HeadPass
+622510,75,MissedShots,0.779000015258789,0.6730000305175782,0.027271389961242676,Benedict Hollerbach,h,11981,OpenPlay,2024,RightFoot,27973,Union Berlin,Bayern Munich,1,1,2025-03-15 14:30:00,Danilho Doekhi,HeadPass
+622512,82,Goal,0.9359999847412109,0.5120000076293946,0.5469949245452881,Benedict Hollerbach,h,11981,OpenPlay,2024,RightFoot,27973,Union Berlin,Bayern Munich,1,1,2025-03-15 14:30:00,,None
+624643,34,SavedShot,0.92,0.5820000076293945,0.12195709347724915,Benedict Hollerbach,a,11981,OpenPlay,2024,LeftFoot,27982,Freiburg,Union Berlin,1,2,2025-03-30 14:30:00,,Rebound
+624647,71,SavedShot,0.8930000305175781,0.6790000152587891,0.12348909676074982,Benedict Hollerbach,a,11981,OpenPlay,2024,LeftFoot,27982,Freiburg,Union Berlin,1,2,2025-03-30 14:30:00,,BallRecovery
+626495,24,MissedShots,0.899000015258789,0.7180000305175781,0.06954681873321533,Benedict Hollerbach,h,11981,OpenPlay,2024,LeftFoot,27991,Union Berlin,Wolfsburg,1,0,2025-04-06 15:30:00,Rani Khedira,Pass
+626507,62,Goal,0.905,0.515,0.4168922007083893,Benedict Hollerbach,h,11981,OpenPlay,2024,RightFoot,27991,Union Berlin,Wolfsburg,1,0,2025-04-06 15:30:00,Leopold Querfeld,HeadPass
+627127,71,SavedShot,0.914000015258789,0.38,0.21584057807922363,Benedict Hollerbach,a,11981,OpenPlay,2024,RightFoot,27994,Bayer Leverkusen,Union Berlin,0,0,2025-04-12 13:30:00,Danilho Doekhi,Pass
+628840,55,MissedShots,0.7730000305175782,0.4490000152587891,0.05585794523358345,Benedict Hollerbach,h,11981,OpenPlay,2024,RightFoot,28010,Union Berlin,VfB Stuttgart,4,4,2025-04-19 16:30:00,Andrej Ilic,Pass
+628846,80,BlockedShot,0.755,0.315,0.015129095874726772,Benedict Hollerbach,h,11981,OpenPlay,2024,LeftFoot,28010,Union Berlin,VfB Stuttgart,4,4,2025-04-19 16:30:00,Danilho Doekhi,Chipped
+630630,16,Goal,0.779000015258789,0.3559999847412109,0.018725909292697906,Benedict Hollerbach,a,11981,FromCorner,2024,RightFoot,28019,Bochum,Union Berlin,1,1,2025-04-27 13:30:00,,None
+630633,46,MissedShots,0.9219999694824219,0.539000015258789,0.060141731053590775,Benedict Hollerbach,a,11981,SetPiece,2024,Head,28019,Bochum,Union Berlin,1,1,2025-04-27 13:30:00,Christopher Trimmel,Aerial
+630639,76,BlockedShot,0.8809999847412109,0.4540000152587891,0.09807630628347397,Benedict Hollerbach,a,11981,OpenPlay,2024,RightFoot,28019,Bochum,Union Berlin,1,1,2025-04-27 13:30:00,Danilho Doekhi,Pass
+630640,77,MissedShots,0.8540000152587891,0.43599998474121093,0.06002020463347435,Benedict Hollerbach,a,11981,FromCorner,2024,LeftFoot,28019,Bochum,Union Berlin,1,1,2025-04-27 13:30:00,,None
+631318,33,SavedShot,0.7169999694824218,0.20299999237060548,0.013430633582174778,Benedict Hollerbach,h,11981,FromCorner,2024,LeftFoot,28028,Union Berlin,Werder Bremen,2,2,2025-05-03 13:30:00,Christopher Trimmel,Pass
+631322,39,MissedShots,0.8569999694824219,0.7230000305175781,0.028638582676649094,Benedict Hollerbach,h,11981,OpenPlay,2024,RightFoot,28028,Union Berlin,Werder Bremen,2,2,2025-05-03 13:30:00,Kevin Vogt,Pass
+631326,49,BlockedShot,0.889000015258789,0.2929999923706055,0.05057325214147568,Benedict Hollerbach,h,11981,OpenPlay,2024,RightFoot,28028,Union Berlin,Werder Bremen,2,2,2025-05-03 13:30:00,Janik Haberer,TakeOn
+631327,50,MissedShots,0.7809999847412109,0.5729999923706055,0.029546059668064117,Benedict Hollerbach,h,11981,OpenPlay,2024,LeftFoot,28028,Union Berlin,Werder Bremen,2,2,2025-05-03 13:30:00,,None
+631329,53,SavedShot,0.935,0.5020000076293946,0.4612925052642822,Benedict Hollerbach,h,11981,OpenPlay,2024,Head,28028,Union Berlin,Werder Bremen,2,2,2025-05-03 13:30:00,Janik Haberer,Cross
+631337,86,SavedShot,0.8480000305175781,0.6020000076293945,0.09100998193025589,Benedict Hollerbach,h,11981,OpenPlay,2024,LeftFoot,28028,Union Berlin,Werder Bremen,2,2,2025-05-03 13:30:00,Kevin Volland,Pass
+632663,64,MissedShots,0.8540000152587891,0.6129999923706054,0.08510076254606247,Benedict Hollerbach,h,11981,OpenPlay,2024,LeftFoot,28036,Union Berlin,FC Heidenheim,0,3,2025-05-10 13:30:00,,TakeOn
+632672,90,BlockedShot,0.8530000305175781,0.39099998474121095,0.06699907034635544,Benedict Hollerbach,h,11981,OpenPlay,2024,RightFoot,28036,Union Berlin,FC Heidenheim,0,3,2025-05-10 13:30:00,Andras Schafer,Pass
+634359,67,SavedShot,0.9480000305175781,0.695,0.07705159485340118,Benedict Hollerbach,a,11981,OpenPlay,2024,LeftFoot,28044,Augsburg,Union Berlin,1,2,2025-05-17 13:30:00,Andrej Ilic,Pass
+646945,36,BlockedShot,0.9319999694824219,0.710999984741211,0.04828043282032013,Benedict Hollerbach,a,11981,OpenPlay,2025,LeftFoot,30273,Hamburger SV,Mainz 05,4,0,2025-10-05 15:30:00,Kaishu Sano,Pass
+646951,55,MissedShots,0.8640000152587891,0.535,0.024914558976888657,Benedict Hollerbach,a,11981,SetPiece,2025,Head,30273,Hamburger SV,Mainz 05,4,0,2025-10-05 15:30:00,Arnaud Nordin,Cross
+647522,25,MissedShots,0.9330000305175781,0.5309999847412109,0.06181612238287926,Benedict Hollerbach,h,11981,FromCorner,2025,Head,30282,Mainz 05,Bayer Leverkusen,3,4,2025-10-18 13:30:00,Paul Nebel,Aerial
+649774,9,BlockedShot,0.774000015258789,0.7030000305175781,0.014834625646471977,Benedict Hollerbach,a,11981,OpenPlay,2025,LeftFoot,30294,VfB Stuttgart,Mainz 05,2,1,2025-10-26 15:30:00,,None
+650738,56,SavedShot,0.7809999847412109,0.7030000305175781,0.02638142555952072,Benedict Hollerbach,h,11981,OpenPlay,2025,RightFoot,30300,Mainz 05,Werder Bremen,1,1,2025-11-01 14:30:00,Jae-Sung Lee,LayOff
+653258,9,MissedShots,0.905,0.39299999237060546,0.39107823371887207,Benedict Hollerbach,h,11981,OpenPlay,2025,RightFoot,30319,Mainz 05,Hoffenheim,1,1,2025-11-21 19:30:00,Jae-Sung Lee,Pass
+653261,28,BlockedShot,0.8480000305175781,0.529000015258789,0.06301704049110413,Benedict Hollerbach,h,11981,OpenPlay,2025,LeftFoot,30319,Mainz 05,Hoffenheim,1,1,2025-11-21 19:30:00,,BallTouch
+653263,33,BlockedShot,0.9269999694824219,0.6940000152587891,0.04818757623434067,Benedict Hollerbach,h,11981,OpenPlay,2025,RightFoot,30319,Mainz 05,Hoffenheim,1,1,2025-11-21 19:30:00,Philipp Mwene,Pass
+653265,44,MissedShots,0.8859999847412109,0.519000015258789,0.03397069498896599,Benedict Hollerbach,h,11981,SetPiece,2025,OtherBodyPart,30319,Mainz 05,Hoffenheim,1,1,2025-11-21 19:30:00,Nadiem Amiri,Cross
+653267,54,MissedShots,0.9180000305175782,0.6809999847412109,0.058750610798597336,Benedict Hollerbach,h,11981,OpenPlay,2025,LeftFoot,30319,Mainz 05,Hoffenheim,1,1,2025-11-21 19:30:00,Jae-Sung Lee,Pass
+653278,68,BlockedShot,0.8869999694824219,0.695,0.04589269310235977,Benedict Hollerbach,h,11981,SetPiece,2025,RightFoot,30319,Mainz 05,Hoffenheim,1,1,2025-11-21 19:30:00,Nadiem Amiri,TakeOn
+653279,70,BlockedShot,0.835999984741211,0.47,0.07445573806762695,Benedict Hollerbach,h,11981,OpenPlay,2025,LeftFoot,30319,Mainz 05,Hoffenheim,1,1,2025-11-21 19:30:00,Paul Nebel,TakeOn
+653282,75,BlockedShot,0.914000015258789,0.48700000762939455,0.09758423268795013,Benedict Hollerbach,h,11981,FromCorner,2025,RightFoot,30319,Mainz 05,Hoffenheim,1,1,2025-11-21 19:30:00,,BallTouch
+662572,15,SavedShot,0.899000015258789,0.30100000381469727,0.05041957646608353,Benedict Hollerbach,a,11981,OpenPlay,2025,LeftFoot,30366,Union Berlin,Mainz 05,2,2,2026-01-10 14:30:00,,None
+662586,68,Goal,0.9390000152587891,0.4759999847412109,0.6018481254577637,Benedict Hollerbach,a,11981,OpenPlay,2025,RightFoot,30366,Union Berlin,Mainz 05,2,2,2026-01-10 14:30:00,Nikolas Veratschnig,Pass
+662587,71,ShotOnPost,0.9309999847412109,0.33599998474121096,0.09098823368549347,Benedict Hollerbach,a,11981,OpenPlay,2025,RightFoot,30366,Union Berlin,Mainz 05,2,2,2026-01-10 14:30:00,Nadiem Amiri,Pass
+664668,16,BlockedShot,0.8040000152587891,0.5109999847412109,0.03454289585351944,Benedict Hollerbach,h,11981,FromCorner,2025,RightFoot,30392,Mainz 05,Wolfsburg,3,1,2026-01-24 14:30:00,,None
+664671,29,SavedShot,0.924000015258789,0.385,0.34440481662750244,Benedict Hollerbach,h,11981,OpenPlay,2025,RightFoot,30392,Mainz 05,Wolfsburg,3,1,2026-01-24 14:30:00,Stefan Bell,HeadPass
+664675,39,MissedShots,0.93,0.4229999923706055,0.22641657292842865,Benedict Hollerbach,h,11981,OpenPlay,2025,Head,30392,Mainz 05,Wolfsburg,3,1,2026-01-24 14:30:00,Silvan Widmer,Chipped
+664678,49,BlockedShot,0.9069999694824219,0.45,0.4543461203575134,Benedict Hollerbach,h,11981,OpenPlay,2025,RightFoot,30392,Mainz 05,Wolfsburg,3,1,2026-01-24 14:30:00,,None
+664683,72,MissedShots,0.955,0.445,0.08031415194272995,Benedict Hollerbach,h,11981,FromCorner,2025,Head,30392,Mainz 05,Wolfsburg,3,1,2026-01-24 14:30:00,,Aerial
+665928,3,MissedShots,0.8690000152587891,0.35200000762939454,0.10664493590593338,Benedict Hollerbach,a,11981,OpenPlay,2025,RightFoot,30401,RasenBallsport Leipzig,Mainz 05,1,2,2026-01-31 14:30:00,Jae-Sung Lee,Chipped

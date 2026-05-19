@@ -1,0 +1,62 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+25867,24,BlockedShot,0.7390000152587891,0.3970000076293945,0.013747300021350384,Pirmin Schwegler,h,80,OpenPlay,2014,RightFoot,5388,Hoffenheim,Schalke 04,2,1,2014-10-04 14:30:00,,Aerial
+25874,35,MissedShots,0.8159999847412109,0.28700000762939454,0.01894349977374077,Pirmin Schwegler,h,80,OpenPlay,2014,RightFoot,5388,Hoffenheim,Schalke 04,2,1,2014-10-04 14:30:00,,Rebound
+25879,44,MissedShots,0.7430000305175781,0.67,0.04793449863791466,Pirmin Schwegler,h,80,DirectFreekick,2014,RightFoot,5388,Hoffenheim,Schalke 04,2,1,2014-10-04 14:30:00,,Standard
+25887,77,BlockedShot,0.7780000305175782,0.395,0.027387799695134163,Pirmin Schwegler,h,80,FromCorner,2014,LeftFoot,5388,Hoffenheim,Schalke 04,2,1,2014-10-04 14:30:00,Sebastian Rudy,Cross
+26364,75,MissedShots,0.7390000152587891,0.6609999847412109,0.017545299604535103,Pirmin Schwegler,h,80,OpenPlay,2014,RightFoot,5404,Hoffenheim,Paderborn,1,0,2014-10-25 14:30:00,,None
+26943,72,MissedShots,0.759000015258789,0.629000015258789,0.016832299530506134,Pirmin Schwegler,a,80,OpenPlay,2014,LeftFoot,5365,Bayern Munich,Hoffenheim,4,0,2014-11-22 14:30:00,Roberto Firmino,BallTouch
+27661,18,Goal,0.8230000305175781,0.6609999847412109,0.10855600237846375,Pirmin Schwegler,h,80,DirectFreekick,2014,RightFoot,5380,Hoffenheim,Hannover 96,4,3,2014-11-29 17:30:00,,Standard
+27670,47,BlockedShot,0.745999984741211,0.6659999847412109,0.049891699105501175,Pirmin Schwegler,h,80,DirectFreekick,2014,RightFoot,5380,Hoffenheim,Hannover 96,4,3,2014-11-29 17:30:00,,Standard
+27678,67,BlockedShot,0.86,0.545,0.09682939946651459,Pirmin Schwegler,h,80,OpenPlay,2014,RightFoot,5380,Hoffenheim,Hannover 96,4,3,2014-11-29 17:30:00,Tarik Elyounoussi,BallTouch
+27249,14,BlockedShot,0.710999984741211,0.6329999923706054,0.03923359885811806,Pirmin Schwegler,a,80,DirectFreekick,2014,RightFoot,5312,Borussia Dortmund,Hoffenheim,1,0,2014-12-05 19:30:00,,Standard
+28089,10,MissedShots,0.7240000152587891,0.585,0.013979299925267696,Pirmin Schwegler,h,80,OpenPlay,2014,RightFoot,5321,Hoffenheim,Eintracht Frankfurt,3,2,2014-12-12 19:30:00,,None
+28096,33,MissedShots,0.7080000305175781,0.6020000076293945,0.040328800678253174,Pirmin Schwegler,h,80,DirectFreekick,2014,RightFoot,5321,Hoffenheim,Eintracht Frankfurt,3,2,2014-12-12 19:30:00,,Standard
+28112,64,SavedShot,0.9219999694824219,0.6309999847412109,0.0657707005739212,Pirmin Schwegler,h,80,FromCorner,2014,RightFoot,5321,Hoffenheim,Eintracht Frankfurt,3,2,2014-12-12 19:30:00,Kevin Volland,HeadPass
+27751,86,BlockedShot,0.7369999694824219,0.40700000762939453,0.015287999995052814,Pirmin Schwegler,h,80,OpenPlay,2014,RightFoot,5337,Hoffenheim,Bayer Leverkusen,0,1,2014-12-17 19:00:00,,None
+28629,43,SavedShot,0.695,0.49700000762939456,0.012189799919724464,Pirmin Schwegler,h,80,OpenPlay,2014,RightFoot,5270,Hoffenheim,Werder Bremen,1,2,2015-02-04 19:00:00,Ádám Szalai,Pass
+28639,66,SavedShot,0.8569999694824219,0.5609999847412109,0.06189969927072525,Pirmin Schwegler,h,80,OpenPlay,2014,LeftFoot,5270,Hoffenheim,Werder Bremen,1,2,2015-02-04 19:00:00,,None
+29354,12,MissedShots,0.925,0.52,0.05520619824528694,Pirmin Schwegler,a,80,OpenPlay,2014,Head,5276,Wolfsburg,Hoffenheim,3,0,2015-02-07 14:30:00,Andreas Beck,Aerial
+29358,26,MissedShots,0.7280000305175781,0.5770000076293945,0.014068299904465675,Pirmin Schwegler,a,80,OpenPlay,2014,RightFoot,5276,Wolfsburg,Hoffenheim,3,0,2015-02-07 14:30:00,,None
+29198,86,MissedShots,0.6759999847412109,0.6430000305175781,0.01401390042155981,Pirmin Schwegler,h,80,OpenPlay,2014,RightFoot,5301,Hoffenheim,Mainz 05,2,0,2015-02-28 14:30:00,Roberto Firmino,Pass
+29742,17,SavedShot,0.73,0.77,0.03187210112810135,Pirmin Schwegler,a,80,DirectFreekick,2014,RightFoot,5238,Schalke 04,Hoffenheim,3,1,2015-03-07 14:30:00,,Standard
+29805,47,BlockedShot,0.8630000305175781,0.345,0.06589160114526749,Pirmin Schwegler,a,80,OpenPlay,2014,RightFoot,5223,Hannover 96,Hoffenheim,1,2,2015-04-25 14:30:00,Anthony Modeste,Pass
+30194,78,MissedShots,0.9330000305175781,0.285,0.04873349890112877,Pirmin Schwegler,a,80,FromCorner,2014,RightFoot,5178,Bayer Leverkusen,Hoffenheim,2,0,2015-05-16 14:30:00,Andreas Beck,TakeOn
+31345,50,BlockedShot,0.715999984741211,0.580999984741211,0.019215300679206848,Pirmin Schwegler,h,80,OpenPlay,2014,LeftFoot,5190,Hoffenheim,Hertha Berlin,2,1,2015-05-23 14:30:00,,OffsidePass
+76721,17,BlockedShot,0.925,0.8380000305175781,0.0607650987803936,Pirmin Schwegler,a,80,DirectFreekick,2015,RightFoot,1044,Darmstadt,Hoffenheim,0,0,2015-08-29 17:30:00,,Standard
+77382,24,MissedShots,0.9130000305175782,0.42700000762939455,0.08873630315065384,Pirmin Schwegler,h,80,FromCorner,2015,RightFoot,1070,Hoffenheim,Borussia Dortmund,1,1,2015-09-23 22:00:00,Kevin Volland,Pass
+78282,5,SavedShot,0.8119999694824219,0.5729999923706055,0.044273700565099716,Pirmin Schwegler,h,80,OpenPlay,2015,LeftFoot,1102,Hoffenheim,Hamburger SV,0,1,2015-10-23 22:30:00,Jonathan Schmid,Pass
+78290,34,BlockedShot,0.8830000305175781,0.34900001525878904,0.07287739962339401,Pirmin Schwegler,h,80,OpenPlay,2015,RightFoot,1102,Hoffenheim,Hamburger SV,0,1,2015-10-23 22:30:00,Ádám Szalai,Pass
+78587,60,SavedShot,0.835,0.34700000762939454,0.04029159992933273,Pirmin Schwegler,a,80,OpenPlay,2015,RightFoot,1112,FC Cologne,Hoffenheim,0,0,2015-10-31 18:30:00,Sebastian Rudy,Pass
+79270,48,BlockedShot,0.8180000305175781,0.38,0.034283898770809174,Pirmin Schwegler,h,80,SetPiece,2015,RightFoot,1141,Hoffenheim,Borussia M.Gladbach,3,3,2015-11-28 18:30:00,,None
+79773,60,BlockedShot,0.7659999847412109,0.509000015258789,0.03008130006492138,Pirmin Schwegler,h,80,OpenPlay,2015,RightFoot,1160,Hoffenheim,Hannover 96,1,0,2015-12-12 18:30:00,,Rebound
+79782,82,SavedShot,0.950999984741211,0.3579999923706055,0.10496799647808075,Pirmin Schwegler,h,80,OpenPlay,2015,RightFoot,1160,Hoffenheim,Hannover 96,1,0,2015-12-12 18:30:00,Tarik Elyounoussi,Pass
+81242,89,BlockedShot,0.975999984741211,0.31,0.05687259882688522,Pirmin Schwegler,a,80,OpenPlay,2015,RightFoot,1225,Borussia Dortmund,Hoffenheim,3,1,2016-02-28 20:30:00,Pavel Kaderábek,Pass
+83839,15,BlockedShot,0.9359999847412109,0.295,0.021102100610733032,Pirmin Schwegler,h,80,OpenPlay,2015,RightFoot,1322,Hoffenheim,Schalke 04,1,4,2016-05-14 17:30:00,Tarik Elyounoussi,Cross
+127561,93,MissedShots,0.815,0.3,0.012200199998915195,Pirmin Schwegler,h,80,SetPiece,2016,RightFoot,1335,Hoffenheim,RasenBallsport Leipzig,2,2,2016-08-28 19:30:00,,Aerial
+127838,58,BlockedShot,0.8519999694824218,0.4540000152587891,0.07013359665870667,Pirmin Schwegler,a,80,SetPiece,2016,LeftFoot,1344,Mainz 05,Hoffenheim,4,4,2016-09-11 19:30:00,,Rebound
+134724,88,MissedShots,0.9530000305175781,0.33599998474121096,0.05771259963512421,Pirmin Schwegler,a,80,SetPiece,2016,RightFoot,3826,Hamburger SV,Hoffenheim,2,1,2017-04-08 14:30:00,,None
+128024,85,BlockedShot,0.86,0.32099998474121094,0.05072050169110298,Pirmin Schwegler,h,80,OpenPlay,2016,RightFoot,3881,Hoffenheim,Augsburg,0,0,2017-05-20 14:30:00,Sebastian Rudy,Pass
+165942,15,BlockedShot,0.7709999847412109,0.35400001525878905,0.02360060065984726,Pirmin Schwegler,a,80,OpenPlay,2017,RightFoot,8263,Mainz 05,Hannover 96,0,1,2017-08-19 14:30:00,Julian Korb,Pass
+165953,80,MissedShots,0.7909999847412109,0.20700000762939452,0.04327140003442764,Pirmin Schwegler,a,80,DirectFreekick,2017,RightFoot,8263,Mainz 05,Hannover 96,0,1,2017-08-19 14:30:00,,Standard
+166727,45,MissedShots,0.7780000305175782,0.6170000076293946,0.02500079944729805,Pirmin Schwegler,h,80,OpenPlay,2017,LeftFoot,8286,Hannover 96,Hamburger SV,2,0,2017-09-15 19:30:00,,None
+167386,1,MissedShots,0.9290000152587891,0.86,0.053877100348472595,Pirmin Schwegler,a,80,DirectFreekick,2017,RightFoot,8349,RasenBallsport Leipzig,Hannover 96,2,1,2017-11-04 14:30:00,,Standard
+167912,30,MissedShots,0.8690000152587891,0.64,0.06724320352077484,Pirmin Schwegler,a,80,OpenPlay,2017,RightFoot,8361,Werder Bremen,Hannover 96,4,0,2017-11-19 17:00:00,Marvin Bakalorz,Pass
+168688,39,BlockedShot,0.8109999847412109,0.6680000305175782,0.0928409993648529,Pirmin Schwegler,h,80,DirectFreekick,2017,RightFoot,8375,Hannover 96,VfB Stuttgart,1,1,2017-11-24 19:30:00,,Standard
+179784,68,BlockedShot,0.7680000305175781,0.395,0.018789399415254593,Pirmin Schwegler,h,80,FromCorner,2017,RightFoot,8388,Hannover 96,Hoffenheim,2,0,2017-12-10 14:30:00,,None
+183826,26,MissedShots,0.7719999694824219,0.555,0.0251499991863966,Pirmin Schwegler,h,80,OpenPlay,2017,LeftFoot,8411,Hannover 96,Bayer Leverkusen,4,4,2017-12-17 14:30:00,Niclas Füllkrug,Pass
+194855,82,MissedShots,0.7480000305175781,0.534000015258789,0.022163599729537964,Pirmin Schwegler,a,80,OpenPlay,2017,RightFoot,8444,Hamburger SV,Hannover 96,1,1,2018-02-04 17:00:00,,Rebound
+198714,60,BlockedShot,0.7390000152587891,0.629000015258789,0.017255999147892,Pirmin Schwegler,a,80,OpenPlay,2017,RightFoot,8480,Eintracht Frankfurt,Hannover 96,1,0,2018-03-03 14:30:00,Iver Fossum,Pass
+201909,39,SavedShot,0.9219999694824219,0.425,0.3390510082244873,Pirmin Schwegler,a,80,OpenPlay,2017,RightFoot,8493,Borussia Dortmund,Hannover 96,1,0,2018-03-18 12:30:00,Matthias Ostrzolek,Cross
+204448,81,MissedShots,0.7580000305175781,0.30700000762939456,0.014535600319504738,Pirmin Schwegler,h,80,FromCorner,2017,RightFoot,8509,Hannover 96,RasenBallsport Leipzig,2,3,2018-03-31 14:30:00,,None
+219974,19,BlockedShot,0.7240000152587891,0.580999984741211,0.012535899877548218,Pirmin Schwegler,a,80,OpenPlay,2018,LeftFoot,10341,Werder Bremen,Hannover 96,1,1,2018-08-25 16:30:00,,None
+225000,2,SavedShot,0.84,0.6179999923706054,0.048413898795843124,Pirmin Schwegler,a,80,OpenPlay,2018,RightFoot,10369,Nuernberg,Hannover 96,2,0,2018-09-22 13:30:00,,Rebound
+255240,7,MissedShots,0.8419999694824218,0.30100000381469727,0.03468339890241623,Pirmin Schwegler,h,80,OpenPlay,2018,RightFoot,10396,Hannover 96,VfB Stuttgart,3,1,2018-10-06 13:30:00,,None
+255449,18,MissedShots,0.674000015258789,0.655,0.011726099997758865,Pirmin Schwegler,a,80,OpenPlay,2018,RightFoot,10401,Bayer Leverkusen,Hannover 96,2,2,2018-10-20 13:30:00,Waldemar Anton,Pass
+255698,1,MissedShots,0.7240000152587891,0.43,0.010771799832582474,Pirmin Schwegler,h,80,SetPiece,2018,RightFoot,10413,Hannover 96,Augsburg,1,2,2018-10-27 13:30:00,,None
+255704,15,MissedShots,0.7569999694824219,0.49400001525878906,0.02722639963030815,Pirmin Schwegler,h,80,OpenPlay,2018,RightFoot,10413,Hannover 96,Augsburg,1,2,2018-10-27 13:30:00,Josip Elez,Pass
+256754,53,BlockedShot,0.7959999847412109,0.6079999923706054,0.03204130008816719,Pirmin Schwegler,h,80,OpenPlay,2018,RightFoot,10451,Hannover 96,Hertha Berlin,0,2,2018-12-01 14:30:00,,None
+257605,58,MissedShots,0.7219999694824218,0.5790000152587891,0.01324320025742054,Pirmin Schwegler,a,80,OpenPlay,2018,RightFoot,10475,Freiburg,Hannover 96,1,1,2018-12-19 19:30:00,Hendrik Weydandt,HeadPass
+257713,89,BlockedShot,0.7630000305175781,0.3970000076293945,0.016868099570274353,Pirmin Schwegler,h,80,OpenPlay,2018,RightFoot,10489,Hannover 96,Fortuna Duesseldorf,0,1,2018-12-22 14:30:00,,Rebound
+279220,69,BlockedShot,0.8080000305175781,0.3039999961853027,0.028722399845719337,Pirmin Schwegler,a,80,FromCorner,2018,LeftFoot,10526,Hoffenheim,Hannover 96,3,0,2019-02-16 14:30:00,,Rebound
+288192,80,BlockedShot,0.7809999847412109,0.725999984741211,0.017943300306797028,Pirmin Schwegler,h,80,OpenPlay,2018,RightFoot,10577,Hannover 96,Schalke 04,0,1,2019-03-31 13:30:00,Marvin Bakalorz,Pass
+300660,45,MissedShots,0.7340000152587891,0.39099998474121095,0.01972699910402298,Pirmin Schwegler,h,80,OpenPlay,2018,RightFoot,10632,Hannover 96,Freiburg,3,0,2019-05-11 14:30:00,,None

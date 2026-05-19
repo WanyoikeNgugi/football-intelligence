@@ -1,0 +1,12 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+43272,73,MissedShots,0.7959999847412109,0.6869999694824219,0.020321300253272057,Luigi Giorgi,h,3862,OpenPlay,2014,RightFoot,5097,Cesena,Inter,0,1,2014-10-26 17:00:00,Guido Marilungo,Pass
+44354,90,BlockedShot,0.8819999694824219,0.6359999847412109,0.06239030137658119,Luigi Giorgi,h,3862,OpenPlay,2014,LeftFoot,5056,Cesena,Sampdoria,1,1,2014-11-23 14:00:00,,None
+46372,14,SavedShot,0.8,0.25299999237060544,0.016184499487280846,Luigi Giorgi,a,3862,OpenPlay,2014,LeftFoot,4991,Parma,Cesena,1,2,2015-01-25 14:00:00,Gregoire Defrel,LayOff
+46768,12,BlockedShot,0.8690000152587891,0.35200000762939454,0.06533370167016983,Luigi Giorgi,h,3862,OpenPlay,2014,LeftFoot,4921,Cesena,Lazio,2,1,2015-02-01 14:00:00,Gregoire Defrel,Pass
+46775,25,BlockedShot,0.8030000305175782,0.2670000076293945,0.017201999202370644,Luigi Giorgi,h,3862,OpenPlay,2014,RightFoot,4921,Cesena,Lazio,2,1,2015-02-01 14:00:00,,None
+46916,15,MissedShots,0.7440000152587891,0.33799999237060546,0.016148800030350685,Luigi Giorgi,a,3862,OpenPlay,2014,RightFoot,4930,Empoli,Cesena,2,0,2015-02-08 14:00:00,Gregoire Defrel,Pass
+48302,20,BlockedShot,0.779000015258789,0.23100000381469726,0.011330300010740757,Luigi Giorgi,a,3862,OpenPlay,2014,RightFoot,4905,Inter,Cesena,1,1,2015-03-15 19:45:00,,None
+49199,21,MissedShots,0.755,0.4829999923706055,0.024463700130581856,Luigi Giorgi,h,3862,OpenPlay,2014,LeftFoot,4915,Cesena,Roma,0,1,2015-03-22 19:45:00,Gregoire Defrel,LayOff
+48498,27,MissedShots,0.8230000305175781,0.21700000762939453,0.022735999897122383,Luigi Giorgi,h,3862,FromCorner,2014,RightFoot,4843,Cesena,Chievo,0,1,2015-04-12 11:30:00,Franco Brienza,Cross
+48508,49,MissedShots,0.765,0.6070000076293945,0.015428399667143822,Luigi Giorgi,h,3862,SetPiece,2014,RightFoot,4843,Cesena,Chievo,0,1,2015-04-12 11:30:00,,None
+51109,41,MissedShots,0.93,0.7559999847412109,0.02883090078830719,Luigi Giorgi,a,3862,OpenPlay,2014,LeftFoot,4785,Fiorentina,Cesena,3,1,2015-05-03 14:00:00,Franco Brienza,Chipped

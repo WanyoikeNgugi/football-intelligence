@@ -1,0 +1,138 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+76257,4,MissedShots,0.7630000305175781,0.575,0.020200999453663826,Mathew Leckie,a,241,SetPiece,2015,RightFoot,1025,Mainz 05,Ingolstadt,0,1,2015-08-15 17:30:00,,BallTouch
+76260,10,BlockedShot,0.710999984741211,0.4759999847412109,0.009257059544324875,Mathew Leckie,a,241,OpenPlay,2015,LeftFoot,1025,Mainz 05,Ingolstadt,0,1,2015-08-15 17:30:00,Lukas Hinterseer,TakeOn
+76625,62,Goal,0.7580000305175781,0.27700000762939453,0.0201725997030735,Mathew Leckie,a,241,OpenPlay,2015,LeftFoot,1041,Augsburg,Ingolstadt,0,1,2015-08-29 17:30:00,Pascal Groß,Pass
+76634,90,MissedShots,0.8519999694824218,0.28,0.04276059940457344,Mathew Leckie,a,241,OpenPlay,2015,RightFoot,1041,Augsburg,Ingolstadt,0,1,2015-08-29 17:30:00,Alfredo Morales,Pass
+77124,47,MissedShots,0.735999984741211,0.3770000076293945,0.017620500177145004,Mathew Leckie,a,241,OpenPlay,2015,RightFoot,1061,Werder Bremen,Ingolstadt,0,1,2015-09-19 17:30:00,Roger,Chipped
+77133,73,BlockedShot,0.9419999694824219,0.710999984741211,0.047419801354408264,Mathew Leckie,a,241,OpenPlay,2015,RightFoot,1061,Werder Bremen,Ingolstadt,0,1,2015-09-19 17:30:00,Alfredo Morales,None
+77134,79,SavedShot,0.765,0.2720000076293945,0.015378200449049473,Mathew Leckie,a,241,OpenPlay,2015,RightFoot,1061,Werder Bremen,Ingolstadt,0,1,2015-09-19 17:30:00,Tobias Levels,BallRecovery
+77402,5,MissedShots,0.9280000305175782,0.43400001525878906,0.034668099135160446,Mathew Leckie,h,241,FromCorner,2015,Head,1068,Ingolstadt,Hamburger SV,0,1,2015-09-22 22:00:00,Markus Suttner,Aerial
+77403,10,BlockedShot,0.7469999694824219,0.385,0.037884801626205444,Mathew Leckie,h,241,OpenPlay,2015,RightFoot,1068,Ingolstadt,Hamburger SV,0,1,2015-09-22 22:00:00,Lukas Hinterseer,Pass
+77407,16,MissedShots,0.845,0.3029999923706055,0.031629499047994614,Mathew Leckie,h,241,OpenPlay,2015,RightFoot,1068,Ingolstadt,Hamburger SV,0,1,2015-09-22 22:00:00,Pascal Groß,TakeOn
+77662,78,MissedShots,0.86,0.5420000076293945,0.01818940043449402,Mathew Leckie,a,241,OpenPlay,2015,Head,1075,FC Cologne,Ingolstadt,1,1,2015-09-25 22:30:00,Moritz Hartmann,Aerial
+77663,79,BlockedShot,0.740999984741211,0.51,0.019899800419807434,Mathew Leckie,a,241,OpenPlay,2015,RightFoot,1075,FC Cologne,Ingolstadt,1,1,2015-09-25 22:30:00,,TakeOn
+77871,3,BlockedShot,0.915,0.5640000152587891,0.07056210190057755,Mathew Leckie,h,241,FromCorner,2015,LeftFoot,1089,Ingolstadt,Eintracht Frankfurt,2,0,2015-10-03 17:30:00,Pascal Groß,Cross
+77997,3,SavedShot,0.885,0.5,0.7577769756317139,Mathew Leckie,a,241,Penalty,2015,RightFoot,1101,VfB Stuttgart,Ingolstadt,1,0,2015-10-18 19:30:00,,Standard
+78349,39,BlockedShot,0.7559999847412109,0.47200000762939454,0.018667099997401237,Mathew Leckie,h,241,FromCorner,2015,LeftFoot,1108,Ingolstadt,Hertha Berlin,0,1,2015-10-24 20:30:00,,None
+78354,57,MissedShots,0.91,0.4209999847412109,0.08512239903211594,Mathew Leckie,h,241,OpenPlay,2015,LeftFoot,1108,Ingolstadt,Hertha Berlin,0,1,2015-10-24 20:30:00,Pascal Groß,Cross
+78359,72,MissedShots,0.7609999847412109,0.5979999923706054,0.01793779991567135,Mathew Leckie,h,241,FromCorner,2015,RightFoot,1108,Ingolstadt,Hertha Berlin,0,1,2015-10-24 20:30:00,,None
+79598,87,MissedShots,0.8719999694824219,0.3659999847412109,0.12398199737071991,Mathew Leckie,h,241,OpenPlay,2015,RightFoot,1152,Ingolstadt,Hoffenheim,1,1,2015-12-05 18:30:00,Pascal Groß,Chipped
+80053,86,MissedShots,0.8009999847412109,0.34299999237060547,0.02493239939212799,Mathew Leckie,h,241,SetPiece,2015,RightFoot,1166,Ingolstadt,Bayer Leverkusen,0,1,2015-12-19 18:30:00,Moritz Hartmann,Pass
+80279,18,BlockedShot,0.8859999847412109,0.509000015258789,0.016327399760484695,Mathew Leckie,h,241,FromCorner,2015,Head,1179,Ingolstadt,Mainz 05,1,0,2016-01-23 18:30:00,Pascal Groß,Aerial
+80281,18,SavedShot,0.92,0.5690000152587891,0.09962169826030731,Mathew Leckie,h,241,OpenPlay,2015,LeftFoot,1179,Ingolstadt,Mainz 05,1,0,2016-01-23 18:30:00,Alfredo Morales,HeadPass
+80737,56,BlockedShot,0.875,0.345,0.06526210159063339,Mathew Leckie,h,241,OpenPlay,2015,RightFoot,1197,Ingolstadt,Augsburg,2,1,2016-02-06 18:30:00,Danny da Costa,Pass
+80745,71,BlockedShot,0.78,0.649000015258789,0.02594969980418682,Mathew Leckie,h,241,OpenPlay,2015,RightFoot,1197,Ingolstadt,Augsburg,2,1,2016-02-06 18:30:00,Darío Lezcano,Pass
+81197,43,MissedShots,0.749000015258789,0.5609999847412109,0.041634701192379,Mathew Leckie,h,241,OpenPlay,2015,RightFoot,1214,Ingolstadt,Werder Bremen,2,0,2016-02-20 18:30:00,,TakeOn
+81201,57,BlockedShot,0.7919999694824219,0.6020000076293945,0.039639998227357864,Mathew Leckie,h,241,OpenPlay,2015,RightFoot,1214,Ingolstadt,Werder Bremen,2,0,2016-02-20 18:30:00,Moritz Hartmann,Pass
+81273,17,BlockedShot,0.8630000305175781,0.6,0.07631509751081467,Mathew Leckie,a,241,OpenPlay,2015,LeftFoot,1222,Hamburger SV,Ingolstadt,1,1,2016-02-27 18:30:00,Darío Lezcano,Pass
+81275,20,MissedShots,0.855999984741211,0.585,0.06994249671697617,Mathew Leckie,a,241,OpenPlay,2015,RightFoot,1222,Hamburger SV,Ingolstadt,1,1,2016-02-27 18:30:00,Darío Lezcano,Pass
+81646,32,MissedShots,0.705999984741211,0.4329999923706055,0.017007499933242798,Mathew Leckie,h,241,OpenPlay,2015,RightFoot,1229,Ingolstadt,FC Cologne,1,1,2016-03-01 23:00:00,Roger,Pass
+82121,21,BlockedShot,0.7340000152587891,0.5120000076293946,0.020484700798988342,Mathew Leckie,h,241,OpenPlay,2015,RightFoot,1248,Ingolstadt,VfB Stuttgart,3,3,2016-03-12 18:30:00,Robert Bauer,Pass
+82137,55,Goal,0.9590000152587891,0.49700000762939456,0.5860369801521301,Mathew Leckie,h,241,SetPiece,2015,Head,1248,Ingolstadt,VfB Stuttgart,3,3,2016-03-12 18:30:00,Max Christiansen,Cross
+82388,62,MissedShots,0.8969999694824219,0.5970000076293945,0.01833060011267662,Mathew Leckie,a,241,OpenPlay,2015,Head,1260,Hertha Berlin,Ingolstadt,2,1,2016-03-19 18:30:00,Moritz Hartmann,Aerial
+82394,83,BlockedShot,0.9,0.534000015258789,0.06599070131778717,Mathew Leckie,a,241,FromCorner,2015,Head,1260,Hertha Berlin,Ingolstadt,2,1,2016-03-19 18:30:00,Pascal Groß,Cross
+83044,71,MissedShots,0.9359999847412109,0.3820000076293945,0.04748950153589249,Mathew Leckie,a,241,SetPiece,2015,Head,1284,Darmstadt,Ingolstadt,2,0,2016-04-16 17:30:00,Pascal Groß,Cross
+83276,56,SavedShot,0.9069999694824219,0.3729999923706055,0.15195900201797485,Mathew Leckie,h,241,OpenPlay,2015,LeftFoot,1296,Ingolstadt,Hannover 96,2,2,2016-04-23 17:30:00,Markus Suttner,TakeOn
+83708,25,SavedShot,0.8480000305175781,0.639000015258789,0.07703539729118347,Mathew Leckie,h,241,OpenPlay,2015,LeftFoot,1317,Ingolstadt,Bayern Munich,1,2,2016-05-07 17:30:00,Pascal Groß,TakeOn
+83714,33,SavedShot,0.975999984741211,0.5640000152587891,0.14707200229167938,Mathew Leckie,h,241,OpenPlay,2015,RightFoot,1317,Ingolstadt,Bayern Munich,1,2,2016-05-07 17:30:00,Pascal Groß,Rebound
+83721,46,MissedShots,0.914000015258789,0.4129999923706055,0.055761098861694336,Mathew Leckie,h,241,SetPiece,2015,Head,1317,Ingolstadt,Bayern Munich,1,2,2016-05-07 17:30:00,Markus Suttner,Chipped
+83864,11,MissedShots,0.9219999694824219,0.59,0.043494999408721924,Mathew Leckie,a,241,OpenPlay,2015,Head,1323,Bayer Leverkusen,Ingolstadt,3,2,2016-05-14 17:30:00,Darío Lezcano,Chipped
+83865,15,Goal,0.9490000152587891,0.5690000152587891,0.5492920279502869,Mathew Leckie,a,241,OpenPlay,2015,LeftFoot,1323,Bayer Leverkusen,Ingolstadt,3,2,2016-05-14 17:30:00,Darío Lezcano,Pass
+127488,20,BlockedShot,0.9069999694824219,0.3609999847412109,0.0645747035741806,Mathew Leckie,a,241,SetPiece,2016,LeftFoot,1329,Hamburger SV,Ingolstadt,1,1,2016-08-27 17:30:00,,None
+127499,52,SavedShot,0.9230000305175782,0.4179999923706055,0.07623250037431717,Mathew Leckie,a,241,OpenPlay,2016,Head,1329,Hamburger SV,Ingolstadt,1,1,2016-08-27 17:30:00,Markus Suttner,Cross
+127501,63,MissedShots,0.7630000305175781,0.5729999923706055,0.029135800898075104,Mathew Leckie,a,241,OpenPlay,2016,RightFoot,1329,Hamburger SV,Ingolstadt,1,1,2016-08-27 17:30:00,Darío Lezcano,LayOff
+127503,82,MissedShots,0.9830000305175781,0.595999984741211,0.051789600402116776,Mathew Leckie,a,241,SetPiece,2016,Head,1329,Hamburger SV,Ingolstadt,1,1,2016-08-27 17:30:00,Markus Suttner,Cross
+127932,34,MissedShots,0.92,0.6840000152587891,0.05097290128469467,Mathew Leckie,h,241,OpenPlay,2016,LeftFoot,1338,Ingolstadt,Hertha Berlin,0,2,2016-09-10 17:30:00,,None
+127938,68,SavedShot,0.845999984741211,0.3629999923706055,0.0551672987639904,Mathew Leckie,h,241,OpenPlay,2016,RightFoot,1338,Ingolstadt,Hertha Berlin,0,2,2016-09-10 17:30:00,Lukas Hinterseer,Pass
+128173,35,MissedShots,0.8569999694824219,0.38599998474121094,0.07964880019426346,Mathew Leckie,a,241,OpenPlay,2016,RightFoot,1349,Bayern Munich,Ingolstadt,3,1,2016-09-17 17:30:00,Darío Lezcano,Pass
+128174,36,SavedShot,0.7809999847412109,0.38,0.04796750098466873,Mathew Leckie,a,241,OpenPlay,2016,RightFoot,1349,Bayern Munich,Ingolstadt,3,1,2016-09-17 17:30:00,Pascal Groß,Pass
+128178,52,SavedShot,0.895,0.385,0.13394199311733246,Mathew Leckie,a,241,OpenPlay,2016,LeftFoot,1349,Bayern Munich,Ingolstadt,3,1,2016-09-17 17:30:00,Darío Lezcano,TakeOn
+128506,71,MissedShots,0.9019999694824219,0.500999984741211,0.025745199993252754,Mathew Leckie,h,241,FromCorner,2016,Head,1355,Ingolstadt,Eintracht Frankfurt,0,2,2016-09-20 22:00:00,Pascal Groß,Aerial
+128967,56,SavedShot,0.8769999694824219,0.27899999618530275,0.040470998734235764,Mathew Leckie,h,241,OpenPlay,2016,RightFoot,1375,Ingolstadt,Hoffenheim,1,2,2016-10-01 17:30:00,Moritz Hartmann,Pass
+129173,57,MissedShots,0.924000015258789,0.5690000152587891,0.07694839686155319,Mathew Leckie,a,241,FromCorner,2016,Head,1383,FC Cologne,Ingolstadt,2,1,2016-10-15 17:30:00,Pascal Groß,Cross
+129657,34,SavedShot,0.905,0.3029999923706055,0.07511530071496964,Mathew Leckie,h,241,OpenPlay,2016,RightFoot,2808,Ingolstadt,Augsburg,0,2,2016-11-05 18:30:00,Pascal Groß,Pass
+130696,50,MissedShots,0.879000015258789,0.5179999923706055,0.059247300028800964,Mathew Leckie,a,241,OpenPlay,2016,Head,2820,Darmstadt,Ingolstadt,0,1,2016-11-19 18:30:00,Anthony Jung,Cross
+130707,84,BlockedShot,0.8490000152587891,0.46900001525878904,0.10832100361585617,Mathew Leckie,a,241,OpenPlay,2016,LeftFoot,2820,Darmstadt,Ingolstadt,0,1,2016-11-19 18:30:00,Sonny Kittel,Pass
+130202,27,MissedShots,0.899000015258789,0.40400001525878904,0.3790929913520813,Mathew Leckie,h,241,OpenPlay,2016,RightFoot,2828,Ingolstadt,Wolfsburg,1,1,2016-11-26 18:30:00,Florent Hadergjonaj,Pass
+130209,38,SavedShot,0.874000015258789,0.56,0.3081809878349304,Mathew Leckie,h,241,OpenPlay,2016,LeftFoot,2828,Ingolstadt,Wolfsburg,1,1,2016-11-26 18:30:00,Moritz Hartmann,BallRecovery
+130210,44,MissedShots,0.895,0.40900001525878904,0.1445769965648651,Mathew Leckie,h,241,OpenPlay,2016,RightFoot,2828,Ingolstadt,Wolfsburg,1,1,2016-11-26 18:30:00,Moritz Hartmann,Pass
+130216,63,MissedShots,0.7780000305175782,0.5359999847412109,0.01606830023229122,Mathew Leckie,h,241,FromCorner,2016,LeftFoot,2828,Ingolstadt,Wolfsburg,1,1,2016-11-26 18:30:00,,Aerial
+130224,84,ShotOnPost,0.879000015258789,0.43900001525878907,0.38211700320243835,Mathew Leckie,h,241,OpenPlay,2016,RightFoot,2828,Ingolstadt,Wolfsburg,1,1,2016-11-26 18:30:00,Lukas Hinterseer,Pass
+130595,62,MissedShots,0.879000015258789,0.2589999961853027,0.030962999910116196,Mathew Leckie,a,241,OpenPlay,2016,RightFoot,3197,Werder Bremen,Ingolstadt,2,1,2016-12-03 18:30:00,Pascal Groß,Pass
+130602,78,SavedShot,0.91,0.5640000152587891,0.09206639975309372,Mathew Leckie,a,241,SetPiece,2016,Head,3197,Werder Bremen,Ingolstadt,2,1,2016-12-03 18:30:00,Markus Suttner,Cross
+130604,89,MissedShots,0.9359999847412109,0.6179999923706054,0.17279599606990814,Mathew Leckie,a,241,OpenPlay,2016,LeftFoot,3197,Werder Bremen,Ingolstadt,2,1,2016-12-03 18:30:00,Markus Suttner,Pass
+131266,77,BlockedShot,0.9069999694824219,0.40400001525878904,0.035436201840639114,Mathew Leckie,h,241,FromCorner,2016,Head,3205,Ingolstadt,RasenBallsport Leipzig,1,0,2016-12-10 18:30:00,Pascal Groß,Cross
+130330,26,BlockedShot,0.8590000152587891,0.3890000152587891,0.08066059648990631,Mathew Leckie,h,241,OpenPlay,2016,LeftFoot,3223,Ingolstadt,Freiburg,1,2,2016-12-21 23:00:00,Marcel Tisserand,Pass
+130531,81,MissedShots,0.860999984741211,0.33,0.0495218001306057,Mathew Leckie,a,241,OpenPlay,2016,RightFoot,3723,Schalke 04,Ingolstadt,1,0,2017-01-21 17:30:00,Darío Lezcano,Pass
+130532,83,SavedShot,0.905,0.6469999694824219,0.08766499906778336,Mathew Leckie,a,241,OpenPlay,2016,RightFoot,3723,Schalke 04,Ingolstadt,1,0,2017-01-21 17:30:00,Markus Suttner,Pass
+131281,23,SavedShot,0.8119999694824219,0.28899999618530275,0.04246849939227104,Mathew Leckie,h,241,OpenPlay,2016,RightFoot,3734,Ingolstadt,Hamburger SV,3,1,2017-01-28 17:30:00,Darío Lezcano,HeadPass
+132628,53,MissedShots,0.9319999694824219,0.5259999847412109,0.14014799892902374,Mathew Leckie,h,241,FromCorner,2016,LeftFoot,3753,Ingolstadt,Bayern Munich,0,2,2017-02-11 14:30:00,Romain Brègerie,Rebound
+131831,2,SavedShot,0.874000015258789,0.36400001525878906,0.009339350275695324,Mathew Leckie,a,241,SetPiece,2016,Head,3759,Eintracht Frankfurt,Ingolstadt,0,2,2017-02-18 14:30:00,Markus Suttner,Aerial
+131849,61,SavedShot,0.8909999847412109,0.4929999923706055,0.04747600108385086,Mathew Leckie,a,241,OpenPlay,2016,Head,3759,Eintracht Frankfurt,Ingolstadt,0,2,2017-02-18 14:30:00,Markus Suttner,Aerial
+131850,64,SavedShot,0.700999984741211,0.4329999923706055,0.02122350037097931,Mathew Leckie,a,241,OpenPlay,2016,RightFoot,3759,Eintracht Frankfurt,Ingolstadt,0,2,2017-02-18 14:30:00,Romain Brègerie,Pass
+133969,7,BlockedShot,0.8119999694824219,0.3390000152587891,0.01450129970908165,Mathew Leckie,h,241,OpenPlay,2016,RightFoot,3791,Ingolstadt,FC Cologne,2,2,2017-03-11 17:30:00,Markus Suttner,Chipped
+133985,54,SavedShot,0.8009999847412109,0.39799999237060546,0.0499362014234066,Mathew Leckie,h,241,OpenPlay,2016,RightFoot,3791,Ingolstadt,FC Cologne,2,2,2017-03-11 17:30:00,Darío Lezcano,LayOff
+133991,67,SavedShot,0.91,0.47,0.0411125011742115,Mathew Leckie,h,241,OpenPlay,2016,Head,3791,Ingolstadt,FC Cologne,2,2,2017-03-11 17:30:00,Florent Hadergjonaj,Aerial
+133995,76,BlockedShot,0.899000015258789,0.4929999923706055,0.04650529846549034,Mathew Leckie,h,241,OpenPlay,2016,Head,3791,Ingolstadt,FC Cologne,2,2,2017-03-11 17:30:00,Pascal Groß,Aerial
+134284,18,SavedShot,0.9540000152587891,0.549000015258789,0.4421600103378296,Mathew Leckie,a,241,FromCorner,2016,Head,3794,Borussia Dortmund,Ingolstadt,1,0,2017-03-17 19:30:00,Markus Suttner,Cross
+134292,33,MissedShots,0.7630000305175781,0.47299999237060547,0.04477189853787422,Mathew Leckie,a,241,OpenPlay,2016,RightFoot,3794,Borussia Dortmund,Ingolstadt,1,0,2017-03-17 19:30:00,Florent Hadergjonaj,Pass
+134297,45,MissedShots,0.855,0.515,0.37672099471092224,Mathew Leckie,a,241,OpenPlay,2016,LeftFoot,3794,Borussia Dortmund,Ingolstadt,1,0,2017-03-17 19:30:00,,None
+134304,94,MissedShots,0.889000015258789,0.46900001525878904,0.07743830233812332,Mathew Leckie,a,241,OpenPlay,2016,LeftFoot,3794,Borussia Dortmund,Ingolstadt,1,0,2017-03-17 19:30:00,,None
+133257,43,BlockedShot,0.870999984741211,0.5220000076293946,0.11857199668884277,Mathew Leckie,h,241,OpenPlay,2016,RightFoot,3810,Ingolstadt,Mainz 05,2,1,2017-04-02 14:30:00,Alfredo Morales,Pass
+134748,0,MissedShots,0.9330000305175781,0.45799999237060546,0.11843899637460709,Mathew Leckie,h,241,FromCorner,2016,Head,3829,Ingolstadt,Darmstadt,3,2,2017-04-09 16:30:00,Pascal Groß,Cross
+134753,14,MissedShots,0.879000015258789,0.30100000381469727,0.042794398963451385,Mathew Leckie,h,241,OpenPlay,2016,RightFoot,3829,Ingolstadt,Darmstadt,3,2,2017-04-09 16:30:00,Pascal Groß,Pass
+134761,31,BlockedShot,0.9019999694824219,0.5120000076293946,0.07217550277709961,Mathew Leckie,h,241,FromCorner,2016,Head,3829,Ingolstadt,Darmstadt,3,2,2017-04-09 16:30:00,Pascal Groß,Cross
+133916,24,MissedShots,0.9069999694824219,0.5320000076293945,0.07597610354423523,Mathew Leckie,h,241,FromCorner,2016,Head,3846,Ingolstadt,Werder Bremen,2,4,2017-04-22 14:30:00,Pascal Groß,Cross
+135055,2,MissedShots,0.9119999694824219,0.40400001525878904,0.05467920005321503,Mathew Leckie,h,241,OpenPlay,2016,Head,3865,Ingolstadt,Bayer Leverkusen,1,1,2017-05-06 14:30:00,Florent Hadergjonaj,Cross
+133530,18,SavedShot,0.9769999694824218,0.7140000152587891,0.07140970230102539,Mathew Leckie,a,241,OpenPlay,2016,RightFoot,3873,Freiburg,Ingolstadt,1,1,2017-05-13 14:30:00,,TakeOn
+133531,20,MissedShots,0.87,0.4929999923706055,0.08858650177717209,Mathew Leckie,a,241,OpenPlay,2016,OtherBodyPart,3873,Freiburg,Ingolstadt,1,1,2017-05-13 14:30:00,Pascal Groß,Chipped
+133543,52,SavedShot,0.93,0.3609999847412109,0.336557000875473,Mathew Leckie,a,241,OpenPlay,2016,RightFoot,3873,Freiburg,Ingolstadt,1,1,2017-05-13 14:30:00,,None
+165820,13,MissedShots,0.9319999694824219,0.4159999847412109,0.0976916030049324,Mathew Leckie,h,241,OpenPlay,2017,Head,8261,Hertha Berlin,VfB Stuttgart,2,0,2017-08-19 14:30:00,Mitchell Weiser,Cross
+165821,18,MissedShots,0.7440000152587891,0.425,0.016216300427913666,Mathew Leckie,h,241,OpenPlay,2017,RightFoot,8261,Hertha Berlin,VfB Stuttgart,2,0,2017-08-19 14:30:00,,None
+165825,45,Goal,0.9069999694824219,0.285,0.04612009972333908,Mathew Leckie,h,241,OpenPlay,2017,LeftFoot,8261,Hertha Berlin,VfB Stuttgart,2,0,2017-08-19 14:30:00,Vedad Ibisevic,TakeOn
+165831,61,Goal,0.95,0.5770000076293945,0.10547000169754028,Mathew Leckie,h,241,FromCorner,2017,LeftFoot,8261,Hertha Berlin,VfB Stuttgart,2,0,2017-08-19 14:30:00,,None
+166005,91,SavedShot,0.8930000305175781,0.46900001525878904,0.017952099442481995,Mathew Leckie,a,241,FromCorner,2017,Head,8274,Borussia Dortmund,Hertha Berlin,2,0,2017-08-26 17:30:00,Mitchell Weiser,Aerial
+166262,37,Goal,0.9319999694824219,0.3220000076293945,0.08854310214519501,Mathew Leckie,h,241,OpenPlay,2017,RightFoot,8284,Hertha Berlin,Werder Bremen,1,1,2017-09-10 14:30:00,Vladimir Darida,TakeOn
+167196,88,BlockedShot,0.754000015258789,0.515,0.023316100239753723,Mathew Leckie,a,241,OpenPlay,2017,LeftFoot,8292,Hoffenheim,Hertha Berlin,1,1,2017-09-17 12:30:00,Valentin Stocker,Pass
+167197,88,BlockedShot,0.8969999694824219,0.695,0.05171310156583786,Mathew Leckie,a,241,OpenPlay,2017,RightFoot,8292,Hoffenheim,Hertha Berlin,1,1,2017-09-17 12:30:00,Genki Haraguchi,Pass
+166856,15,Goal,0.85,0.34200000762939453,0.05146490037441254,Mathew Leckie,h,241,OpenPlay,2017,LeftFoot,8300,Hertha Berlin,Bayer Leverkusen,2,1,2017-09-20 19:30:00,Vedad Ibisevic,Pass
+168100,30,BlockedShot,0.8569999694824219,0.7090000152587891,0.016015300527215004,Mathew Leckie,a,241,SetPiece,2017,RightFoot,8333,Freiburg,Hertha Berlin,1,1,2017-10-22 14:30:00,Mitchell Weiser,Cross
+168912,85,MissedShots,0.8769999694824219,0.575999984741211,0.01570039987564087,Mathew Leckie,h,241,OpenPlay,2017,Head,8378,Hertha Berlin,Eintracht Frankfurt,1,2,2017-12-03 14:30:00,Mitchell Weiser,Aerial
+179731,2,BlockedShot,0.725,0.345,0.009531309828162193,Mathew Leckie,a,241,OpenPlay,2017,RightFoot,8392,Augsburg,Hertha Berlin,1,1,2017-12-10 17:00:00,,Aerial
+187344,81,BlockedShot,0.855,0.7090000152587891,0.030945800244808197,Mathew Leckie,a,241,OpenPlay,2017,RightFoot,8420,VfB Stuttgart,Hertha Berlin,1,0,2018-01-13 14:30:00,Mitchell Weiser,Pass
+198703,73,BlockedShot,0.749000015258789,0.46700000762939453,0.02308019995689392,Mathew Leckie,a,241,OpenPlay,2017,LeftFoot,8479,Schalke 04,Hertha Berlin,1,0,2018-03-03 14:30:00,,Rebound
+204520,4,ShotOnPost,0.9390000152587891,0.48900001525878906,0.13267900049686432,Mathew Leckie,h,241,FromCorner,2017,Head,8505,Hertha Berlin,Wolfsburg,0,0,2018-03-31 14:30:00,Mitchell Weiser,Cross
+208365,45,MissedShots,0.8069999694824219,0.634000015258789,0.030334899201989174,Mathew Leckie,h,241,OpenPlay,2017,LeftFoot,8522,Hertha Berlin,FC Cologne,2,1,2018-04-14 13:30:00,Davie Selke,Pass
+208369,58,SavedShot,0.914000015258789,0.45099998474121095,0.1327729970216751,Mathew Leckie,h,241,OpenPlay,2017,Head,8522,Hertha Berlin,FC Cologne,2,1,2018-04-14 13:30:00,Valentino Lazaro,Cross
+210354,76,Goal,0.87,0.4640000152587891,0.597923994064331,Mathew Leckie,a,241,OpenPlay,2017,RightFoot,8533,Eintracht Frankfurt,Hertha Berlin,0,3,2018-04-21 13:30:00,Salomon Kalou,Throughball
+211565,33,BlockedShot,0.885,0.5509999847412109,0.0817326009273529,Mathew Leckie,h,241,OpenPlay,2017,LeftFoot,8540,Hertha Berlin,Augsburg,2,2,2018-04-28 13:30:00,Davie Selke,Cross
+211567,34,MissedShots,0.92,0.42200000762939455,0.06289009749889374,Mathew Leckie,h,241,FromCorner,2017,Head,8540,Hertha Berlin,Augsburg,2,2,2018-04-28 13:30:00,Valentino Lazaro,Cross
+213090,34,BlockedShot,0.9019999694824219,0.46,0.09576970338821411,Mathew Leckie,a,241,FromCorner,2017,RightFoot,8548,Hannover 96,Hertha Berlin,3,1,2018-05-05 14:30:00,Vladimir Darida,None
+213105,78,SavedShot,0.9569999694824218,0.34900001525878904,0.029878100380301476,Mathew Leckie,a,241,OpenPlay,2017,RightFoot,8548,Hannover 96,Hertha Berlin,3,1,2018-05-05 14:30:00,Marvin Plattenhardt,Cross
+214564,63,ShotOnPost,0.825,0.36,0.03214779868721962,Mathew Leckie,h,241,OpenPlay,2017,RightFoot,8558,Hertha Berlin,RasenBallsport Leipzig,2,6,2018-05-12 14:30:00,,None
+255613,82,SavedShot,0.875999984741211,0.5640000152587891,0.017959700897336006,Mathew Leckie,h,241,OpenPlay,2018,Head,10405,Hertha Berlin,Freiburg,1,1,2018-10-21 13:30:00,Ondrej Duda,Aerial
+256082,73,MissedShots,0.9259999847412109,0.6530000305175782,0.02367350086569786,Mathew Leckie,h,241,OpenPlay,2018,Head,10418,Hertha Berlin,RasenBallsport Leipzig,0,3,2018-11-03 17:30:00,Javairo Dilrosun,Aerial
+256086,80,SavedShot,0.8880000305175781,0.45099998474121095,0.06548850238323212,Mathew Leckie,h,241,OpenPlay,2018,Head,10418,Hertha Berlin,RasenBallsport Leipzig,0,3,2018-11-03 17:30:00,Valentino Lazaro,Cross
+256091,90,SavedShot,0.9869999694824219,0.645,0.028804399073123932,Mathew Leckie,h,241,OpenPlay,2018,LeftFoot,10418,Hertha Berlin,RasenBallsport Leipzig,0,3,2018-11-03 17:30:00,,Aerial
+256459,14,MissedShots,0.905,0.38799999237060545,0.02362610027194023,Mathew Leckie,h,241,FromCorner,2018,Head,10440,Hertha Berlin,Hoffenheim,3,3,2018-11-24 14:30:00,Marvin Plattenhardt,Cross
+256467,33,MissedShots,0.88,0.44299999237060544,0.09907899796962738,Mathew Leckie,h,241,OpenPlay,2018,LeftFoot,10440,Hertha Berlin,Hoffenheim,3,3,2018-11-24 14:30:00,Marko Grujic,Pass
+256471,49,SavedShot,0.77,0.6079999923706054,0.023302100598812103,Mathew Leckie,h,241,OpenPlay,2018,RightFoot,10440,Hertha Berlin,Hoffenheim,3,3,2018-11-24 14:30:00,Marko Grujic,Pass
+256478,61,MissedShots,0.8780000305175781,0.5379999923706055,0.03253540024161339,Mathew Leckie,h,241,FromCorner,2018,Head,10440,Hertha Berlin,Hoffenheim,3,3,2018-11-24 14:30:00,Valentino Lazaro,Cross
+256482,70,Goal,0.98,0.54,0.6456130146980286,Mathew Leckie,h,241,OpenPlay,2018,RightFoot,10440,Hertha Berlin,Hoffenheim,3,3,2018-11-24 14:30:00,,None
+256483,72,BlockedShot,0.8630000305175781,0.5670000076293945,0.08170969784259796,Mathew Leckie,h,241,OpenPlay,2018,LeftFoot,10440,Hertha Berlin,Hoffenheim,3,3,2018-11-24 14:30:00,Vedad Ibisevic,TakeOn
+257138,13,MissedShots,0.879000015258789,0.41200000762939454,0.026482999324798584,Mathew Leckie,h,241,OpenPlay,2018,Head,10458,Hertha Berlin,Eintracht Frankfurt,1,0,2018-12-08 17:30:00,Valentino Lazaro,Cross
+256895,30,MissedShots,0.9130000305175782,0.44,0.10144200176000595,Mathew Leckie,a,241,OpenPlay,2018,Head,10466,VfB Stuttgart,Hertha Berlin,2,1,2018-12-15 14:30:00,Maximilian Mittelstädt,Cross
+257464,27,Goal,0.8969999694824219,0.5940000152587891,0.3934229910373688,Mathew Leckie,h,241,OpenPlay,2018,LeftFoot,10480,Hertha Berlin,Augsburg,2,2,2018-12-18 19:30:00,Davie Selke,Pass
+257893,39,SavedShot,0.855999984741211,0.49900001525878906,0.015413500368595123,Mathew Leckie,a,241,OpenPlay,2018,Head,10484,Bayer Leverkusen,Hertha Berlin,3,1,2018-12-22 14:30:00,Maximilian Mittelstädt,Aerial
+291923,9,BlockedShot,0.875999984741211,0.4470000076293945,0.07201430201530457,Mathew Leckie,h,241,OpenPlay,2018,LeftFoot,10585,Hertha Berlin,Fortuna Duesseldorf,1,2,2019-04-06 14:30:00,Maximilian Mittelstädt,Cross
+291924,9,MissedShots,0.9590000152587891,0.3340000152587891,0.03544799983501434,Mathew Leckie,h,241,FromCorner,2018,RightFoot,10585,Hertha Berlin,Fortuna Duesseldorf,1,2,2019-04-06 14:30:00,Ondrej Duda,Cross
+291926,20,MissedShots,0.740999984741211,0.3509999847412109,0.010441900230944157,Mathew Leckie,h,241,OpenPlay,2018,RightFoot,10585,Hertha Berlin,Fortuna Duesseldorf,1,2,2019-04-06 14:30:00,Marko Grujic,Chipped
+291936,56,MissedShots,0.9669999694824218,0.5940000152587891,0.3879599869251251,Mathew Leckie,h,241,OpenPlay,2018,LeftFoot,10585,Hertha Berlin,Fortuna Duesseldorf,1,2,2019-04-06 14:30:00,,Rebound
+296058,13,SavedShot,0.9719999694824218,0.3240000152587891,0.05385800078511238,Mathew Leckie,h,241,OpenPlay,2018,RightFoot,10603,Hertha Berlin,Hannover 96,0,0,2019-04-21 17:00:00,Karim Rekik,Chipped
+296061,28,BlockedShot,0.855,0.46099998474121096,0.0728532001376152,Mathew Leckie,h,241,OpenPlay,2018,RightFoot,10603,Hertha Berlin,Hannover 96,0,0,2019-04-21 17:00:00,,None
+299178,39,SavedShot,0.87,0.4759999847412109,0.04205000028014183,Mathew Leckie,h,241,OpenPlay,2018,Head,10620,Hertha Berlin,VfB Stuttgart,3,1,2019-05-04 14:30:00,Marvin Plattenhardt,Cross
+299186,62,MissedShots,0.9359999847412109,0.6090000152587891,0.12108699977397919,Mathew Leckie,h,241,OpenPlay,2018,LeftFoot,10620,Hertha Berlin,VfB Stuttgart,3,1,2019-05-04 14:30:00,Marko Grujic,Chipped
+366883,54,MissedShots,0.9130000305175782,0.2989999961853027,0.047446899116039276,Mathew Leckie,a,241,OpenPlay,2019,RightFoot,12702,Borussia M.Gladbach,Hertha Berlin,2,1,2020-06-27 13:30:00,Arne Maier,Chipped
+366894,89,MissedShots,0.8769999694824219,0.47200000762939454,0.03939519822597504,Mathew Leckie,a,241,FromCorner,2019,Head,12702,Borussia M.Gladbach,Hertha Berlin,2,1,2020-06-27 13:30:00,Jordan Torunarigha,Cross
+381746,46,SavedShot,0.865999984741211,0.34900001525878904,0.024778399616479874,Mathew Leckie,h,241,SetPiece,2020,Head,15169,Hertha Berlin,VfB Stuttgart,0,2,2020-10-17 13:30:00,Maximilian Mittelstädt,Chipped
+421216,54,MissedShots,0.9230000305175782,0.5059999847412109,0.054095201194286346,Mathew Leckie,a,241,FromCorner,2020,Head,15416,Schalke 04,Hertha Berlin,1,2,2021-05-12 16:00:00,Vladimir Darida,Aerial

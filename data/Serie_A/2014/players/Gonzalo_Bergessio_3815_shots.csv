@@ -1,0 +1,20 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+42128,93,SavedShot,0.8590000152587891,0.620999984741211,0.08958149701356888,Gonzalo Bergessio,a,3815,OpenPlay,2014,LeftFoot,5124,Sassuolo,Sampdoria,0,0,2014-09-21 14:00:00,,TakeOn
+42428,32,SavedShot,0.8330000305175781,0.5320000076293945,0.07752099633216858,Gonzalo Bergessio,h,3815,OpenPlay,2014,LeftFoot,5137,Sampdoria,Chievo,2,1,2014-09-24 19:45:00,Roberto Soriano,Pass
+42436,49,MissedShots,0.8490000152587891,0.3320000076293945,0.06495989859104156,Gonzalo Bergessio,h,3815,OpenPlay,2014,LeftFoot,5137,Sampdoria,Chievo,2,1,2014-09-24 19:45:00,Fabrizio Cacciatore,Pass
+42438,59,BlockedShot,0.755,0.47200000762939454,0.0313790999352932,Gonzalo Bergessio,h,3815,OpenPlay,2014,RightFoot,5137,Sampdoria,Chievo,2,1,2014-09-24 19:45:00,Roberto Soriano,Pass
+43979,46,MissedShots,0.885,0.4979999923706055,0.10909000039100647,Gonzalo Bergessio,h,3815,OpenPlay,2014,LeftFoot,5033,Sampdoria,Fiorentina,3,1,2014-11-02 14:00:00,Stefano Okaka,HeadPass
+44352,85,SavedShot,0.905,0.5179999923706055,0.4614500105381012,Gonzalo Bergessio,a,3815,OpenPlay,2014,RightFoot,5056,Cesena,Sampdoria,1,1,2014-11-23 14:00:00,Stefano Okaka,Pass
+45527,38,BlockedShot,0.8930000305175781,0.24399999618530274,0.029728399589657784,Gonzalo Bergessio,h,3815,OpenPlay,2014,RightFoot,4975,Sampdoria,Empoli,1,0,2015-01-11 14:00:00,Roberto Soriano,Pass
+45528,40,MissedShots,0.82,0.49900001525878906,0.06670760363340378,Gonzalo Bergessio,h,3815,OpenPlay,2014,LeftFoot,4975,Sampdoria,Empoli,1,0,2015-01-11 14:00:00,Éder,Pass
+46098,53,Goal,0.9480000305175781,0.5259999847412109,0.6188910007476807,Gonzalo Bergessio,a,3815,OpenPlay,2014,LeftFoot,4984,Parma,Sampdoria,0,2,2015-01-18 14:00:00,Éder,Pass
+46102,69,ShotOnPost,0.9569999694824218,0.5379999923706055,0.5258370041847229,Gonzalo Bergessio,a,3815,OpenPlay,2014,RightFoot,4984,Parma,Sampdoria,0,2,2015-01-18 14:00:00,Alfred Duncan,Goal
+46865,44,MissedShots,0.7030000305175781,0.315,0.009557469747960567,Gonzalo Bergessio,a,3815,OpenPlay,2014,RightFoot,4925,Torino,Sampdoria,5,1,2015-02-01 14:00:00,Roberto Soriano,Pass
+48296,90,MissedShots,0.879000015258789,0.6769999694824219,0.06290879845619202,Gonzalo Bergessio,a,3815,OpenPlay,2014,LeftFoot,4837,Fiorentina,Sampdoria,2,0,2015-04-04 17:30:00,Éder,Pass
+49685,84,BlockedShot,0.755,0.46099998474121096,0.024203499779105186,Gonzalo Bergessio,a,3815,OpenPlay,2014,LeftFoot,4870,Napoli,Sampdoria,4,2,2015-04-26 19:45:00,Alfred Duncan,Pass
+50393,59,BlockedShot,0.91,0.6819999694824219,0.06336569786071777,Gonzalo Bergessio,h,3815,OpenPlay,2014,LeftFoot,4879,Sampdoria,Verona,1,1,2015-04-29 19:45:00,Alfred Duncan,Pass
+50400,72,MissedShots,0.8780000305175781,0.48700000762939455,0.043634701520204544,Gonzalo Bergessio,h,3815,OpenPlay,2014,Head,4879,Sampdoria,Verona,1,1,2015-04-29 19:45:00,Lorenzo De Silvestri,Cross
+49612,62,BlockedShot,0.8369999694824218,0.48,0.05608769878745079,Gonzalo Bergessio,h,3815,OpenPlay,2014,LeftFoot,4779,Sampdoria,Juventus,0,1,2015-05-02 17:00:00,Roberto Soriano,BallTouch
+49613,63,BlockedShot,0.8819999694824219,0.40599998474121096,0.07686629891395569,Gonzalo Bergessio,h,3815,OpenPlay,2014,RightFoot,4779,Sampdoria,Juventus,0,1,2015-05-02 17:00:00,Samuel Eto&#039;o,Pass
+49614,64,SavedShot,0.9180000305175782,0.5690000152587891,0.06418289989233017,Gonzalo Bergessio,h,3815,FromCorner,2014,Head,4779,Sampdoria,Juventus,0,1,2015-05-02 17:00:00,Luis Muriel,Cross
+50134,87,MissedShots,0.9080000305175782,0.6519999694824219,0.016796600073575974,Gonzalo Bergessio,h,3815,SetPiece,2014,Head,4800,Sampdoria,Lazio,0,1,2015-05-16 19:45:00,Roberto Soriano,Cross

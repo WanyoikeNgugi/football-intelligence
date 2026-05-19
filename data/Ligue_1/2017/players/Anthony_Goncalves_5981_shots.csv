@@ -1,0 +1,36 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+162242,71,BlockedShot,0.8280000305175781,0.29700000762939455,0.02168549969792366,Anthony Goncalves,h,5981,OpenPlay,2017,RightFoot,8582,Strasbourg,Lille,3,0,2017-08-13 14:00:00,,Rebound
+163100,84,MissedShots,0.8959999847412109,0.4209999847412109,0.4230310022830963,Anthony Goncalves,a,5981,SetPiece,2017,RightFoot,8622,Monaco,Strasbourg,3,0,2017-09-16 16:00:00,,None
+163823,89,SavedShot,0.93,0.33799999237060546,0.058433499187231064,Anthony Goncalves,h,5981,OpenPlay,2017,LeftFoot,8634,Strasbourg,Nantes,1,2,2017-09-24 16:00:00,,Rebound
+163999,11,SavedShot,0.7680000305175781,0.3770000076293945,0.02423750050365925,Anthony Goncalves,h,5981,OpenPlay,2017,RightFoot,8646,Strasbourg,Marseille,3,3,2017-10-15 20:00:00,Dmitri Lienard,Pass
+164001,19,BlockedShot,0.7980000305175782,0.36400001525878906,0.02925880067050457,Anthony Goncalves,h,5981,OpenPlay,2017,RightFoot,8646,Strasbourg,Marseille,3,3,2017-10-15 20:00:00,,None
+164702,8,SavedShot,0.725,0.48700000762939455,0.051169298589229584,Anthony Goncalves,h,5981,DirectFreekick,2017,RightFoot,8673,Strasbourg,Angers,2,2,2017-10-28 19:00:00,,Standard
+164713,70,MissedShots,0.8380000305175781,0.5220000076293946,0.08109340071678162,Anthony Goncalves,h,5981,OpenPlay,2017,LeftFoot,8673,Strasbourg,Angers,2,2,2017-10-28 19:00:00,Martin Terrier,Pass
+164496,59,BlockedShot,0.7169999694824218,0.40400001525878904,0.01352659985423088,Anthony Goncalves,a,5981,FromCorner,2017,RightFoot,8679,Troyes,Strasbourg,3,0,2017-11-04 19:00:00,,None
+183464,6,BlockedShot,0.785,0.3729999923706055,0.025985900312662125,Anthony Goncalves,h,5981,OpenPlay,2017,LeftFoot,8743,Strasbourg,Toulouse,2,1,2017-12-16 19:00:00,,None
+183477,59,SavedShot,0.8190000152587891,0.28600000381469726,0.42423900961875916,Anthony Goncalves,h,5981,OpenPlay,2017,RightFoot,8743,Strasbourg,Toulouse,2,1,2017-12-16 19:00:00,Jonas Martin,Throughball
+187163,53,BlockedShot,0.755,0.40599998474121096,0.013527999632060528,Anthony Goncalves,h,5981,OpenPlay,2017,RightFoot,8763,Strasbourg,Guingamp,0,2,2018-01-12 19:45:00,,None
+187172,88,SavedShot,0.845999984741211,0.47900001525878905,0.08663179725408554,Anthony Goncalves,h,5981,OpenPlay,2017,RightFoot,8763,Strasbourg,Guingamp,0,2,2018-01-12 19:45:00,Jérémy Blayac,Pass
+194390,45,MissedShots,0.7969999694824219,0.3120000076293945,0.01747019961476326,Anthony Goncalves,h,5981,OpenPlay,2017,RightFoot,8807,Strasbourg,Troyes,2,1,2018-02-11 14:00:00,,Rebound
+196391,61,MissedShots,0.7380000305175781,0.62,0.014685899950563908,Anthony Goncalves,a,5981,FromCorner,2017,RightFoot,8821,Paris Saint Germain,Strasbourg,5,2,2018-02-17 16:00:00,,None
+196395,68,BlockedShot,0.7030000305175781,0.53,0.04052840173244476,Anthony Goncalves,a,5981,DirectFreekick,2017,RightFoot,8821,Paris Saint Germain,Strasbourg,5,2,2018-02-17 16:00:00,,Standard
+196398,78,MissedShots,0.7919999694824219,0.30700000762939456,0.020883699879050255,Anthony Goncalves,a,5981,OpenPlay,2017,RightFoot,8821,Paris Saint Germain,Strasbourg,5,2,2018-02-17 16:00:00,Ernest Seka,Pass
+204346,88,MissedShots,0.779000015258789,0.7340000152587891,0.05054460093379021,Anthony Goncalves,h,5981,DirectFreekick,2017,RightFoot,8873,Strasbourg,Metz,2,2,2018-04-01 16:00:00,,Standard
+207123,65,MissedShots,0.89,0.43099998474121093,0.024326400831341743,Anthony Goncalves,a,5981,OpenPlay,2017,Head,8883,Angers,Strasbourg,1,1,2018-04-07 18:00:00,Benjamin Corgnet,Aerial
+208811,55,MissedShots,0.8930000305175781,0.3370000076293945,0.06794849783182144,Anthony Goncalves,h,5981,OpenPlay,2017,RightFoot,8892,Strasbourg,Saint-Etienne,0,1,2018-04-14 18:00:00,Stéphane Bahoken,Pass
+208820,88,BlockedShot,0.7709999847412109,0.725999984741211,0.02040190063416958,Anthony Goncalves,h,5981,FromCorner,2017,RightFoot,8892,Strasbourg,Saint-Etienne,0,1,2018-04-14 18:00:00,Jonas Martin,Pass
+216219,49,BlockedShot,0.78,0.325,0.01964000053703785,Anthony Goncalves,a,5981,OpenPlay,2017,RightFoot,8943,Nantes,Strasbourg,1,0,2018-05-19 19:00:00,,None
+217705,90,SavedShot,0.9009999847412109,0.26399999618530273,0.05324549973011017,Anthony Goncalves,a,5981,OpenPlay,2018,RightFoot,10651,Bordeaux,Strasbourg,0,2,2018-08-12 18:00:00,Jeremy Grimm,Pass
+218498,54,Goal,0.899000015258789,0.385,0.053541600704193115,Anthony Goncalves,h,5981,OpenPlay,2018,LeftFoot,10660,Strasbourg,Saint-Etienne,1,1,2018-08-19 16:00:00,Anthony Caci,Cross
+218503,73,SavedShot,0.889000015258789,0.22899999618530273,0.02545749954879284,Anthony Goncalves,h,5981,OpenPlay,2018,RightFoot,10660,Strasbourg,Saint-Etienne,1,1,2018-08-19 16:00:00,Dmitri Lienard,Chipped
+283708,67,Goal,0.9540000152587891,0.355,0.060570500791072845,Anthony Goncalves,h,5981,OpenPlay,2018,RightFoot,10900,Strasbourg,Lille,1,1,2019-02-22 19:45:00,Adrien Thomasson,TakeOn
+291153,42,SavedShot,0.925,0.2929999923706055,0.046506401151418686,Anthony Goncalves,h,5981,OpenPlay,2018,RightFoot,10942,Strasbourg,Reims,4,0,2019-04-03 18:00:00,Kenny Lala,Chipped
+291156,45,Goal,0.9469999694824218,0.49700000762939456,0.6392030119895935,Anthony Goncalves,h,5981,OpenPlay,2018,RightFoot,10942,Strasbourg,Reims,4,0,2019-04-03 18:00:00,Lebo Mothiba,Pass
+291160,68,Goal,0.8630000305175781,0.6580000305175782,0.2557860016822815,Anthony Goncalves,h,5981,OpenPlay,2018,RightFoot,10942,Strasbourg,Reims,4,0,2019-04-03 18:00:00,Kenny Lala,Pass
+292946,37,Goal,0.7819999694824219,0.3840000152587891,0.02051989920437336,Anthony Goncalves,a,5981,FromCorner,2018,RightFoot,10946,Paris Saint Germain,Strasbourg,2,2,2019-04-07 20:00:00,,None
+298057,79,BlockedShot,0.7980000305175782,0.4759999847412109,0.0491379015147686,Anthony Goncalves,a,5981,OpenPlay,2018,RightFoot,10973,Amiens,Strasbourg,0,0,2019-04-28 14:00:00,Adrien Thomasson,Pass
+300907,56,SavedShot,0.7340000152587891,0.5309999847412109,0.012205099686980247,Anthony Goncalves,a,5981,OpenPlay,2018,RightFoot,10996,Dijon,Strasbourg,2,1,2019-05-11 19:00:00,Ludovic Ajorque,Chipped
+300911,72,MissedShots,0.740999984741211,0.415,0.015596199780702591,Anthony Goncalves,a,5981,FromCorner,2018,RightFoot,10996,Dijon,Strasbourg,2,1,2019-05-11 19:00:00,,None
+300915,74,SavedShot,0.815,0.3629999923706055,0.037981100380420685,Anthony Goncalves,a,5981,OpenPlay,2018,RightFoot,10996,Dijon,Strasbourg,2,1,2019-05-11 19:00:00,,None
+302956,11,BlockedShot,0.860999984741211,0.3940000152587891,0.04341040179133415,Anthony Goncalves,h,5981,OpenPlay,2018,RightFoot,11011,Strasbourg,Rennes,0,2,2019-05-18 19:00:00,Dmitri Lienard,Cross
+303570,83,BlockedShot,0.764000015258789,0.3770000076293945,0.028240099549293518,Anthony Goncalves,a,5981,OpenPlay,2018,RightFoot,11018,Nantes,Strasbourg,0,1,2019-05-24 19:05:00,Lebo Mothiba,Pass

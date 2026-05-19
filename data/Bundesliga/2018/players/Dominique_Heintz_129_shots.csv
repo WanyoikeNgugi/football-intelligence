@@ -1,0 +1,49 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+76878,80,Goal,0.8969999694824219,0.534000015258789,0.05873019993305206,Dominique Heintz,a,129,FromCorner,2015,Head,1054,Eintracht Frankfurt,FC Cologne,6,2,2015-09-12 20:30:00,Jonas Hector,Cross
+78687,3,SavedShot,0.8859999847412109,0.5179999923706055,0.016469499096274376,Dominique Heintz,a,129,FromCorner,2015,Head,1123,Bayer Leverkusen,FC Cologne,1,2,2015-11-07 18:30:00,Jonas Hector,Aerial
+78692,20,MissedShots,0.874000015258789,0.5159999847412109,0.07434950023889542,Dominique Heintz,a,129,SetPiece,2015,LeftFoot,1123,Bayer Leverkusen,FC Cologne,1,2,2015-11-07 18:30:00,,None
+79055,60,MissedShots,0.9059999847412109,0.48400001525878905,0.02916489914059639,Dominique Heintz,h,129,FromCorner,2015,Head,1132,FC Cologne,Mainz 05,0,0,2015-11-21 18:30:00,Marcel Risse,Aerial
+79563,90,BlockedShot,0.904000015258789,0.675,0.0647215023636818,Dominique Heintz,h,129,OpenPlay,2015,LeftFoot,1150,FC Cologne,Augsburg,0,1,2015-12-05 18:30:00,Milos Jojic,Pass
+80198,89,SavedShot,0.8909999847412109,0.580999984741211,0.029399100691080093,Dominique Heintz,h,129,FromCorner,2015,Head,1175,FC Cologne,VfB Stuttgart,1,3,2016-01-23 18:30:00,Milos Jojic,Cross
+80615,81,BlockedShot,0.889000015258789,0.5159999847412109,0.050707001239061356,Dominique Heintz,a,129,FromCorner,2015,Head,1199,Hamburger SV,FC Cologne,1,1,2016-02-07 18:30:00,Marcel Risse,Cross
+80910,56,Goal,0.9209999847412109,0.5540000152587891,0.28930601477622986,Dominique Heintz,h,129,SetPiece,2015,Head,1207,FC Cologne,Eintracht Frankfurt,3,1,2016-02-13 21:30:00,Filip Mladenovic,Cross
+81093,90,MissedShots,0.8059999847412109,0.5,0.044993698596954346,Dominique Heintz,a,129,OpenPlay,2015,LeftFoot,1215,Borussia M.Gladbach,FC Cologne,1,0,2016-02-20 18:30:00,,Dispossessed
+81650,59,MissedShots,0.895,0.5520000076293945,0.016405299305915833,Dominique Heintz,a,129,FromCorner,2015,Head,1229,Ingolstadt,FC Cologne,1,1,2016-03-01 23:00:00,Marcel Risse,Aerial
+83243,67,MissedShots,0.8730000305175781,0.7609999847412109,0.04932760074734688,Dominique Heintz,h,129,OpenPlay,2015,LeftFoot,1294,FC Cologne,Darmstadt,4,1,2016-04-23 17:30:00,Yannick Gerhardt,HeadPass
+83249,83,MissedShots,0.94,0.44099998474121094,0.11245500296354294,Dominique Heintz,h,129,FromCorner,2015,Head,1294,FC Cologne,Darmstadt,4,1,2016-04-23 17:30:00,Milos Jojic,Cross
+131622,56,SavedShot,0.8190000152587891,0.6840000152587891,0.07008589804172516,Dominique Heintz,a,129,OpenPlay,2016,LeftFoot,3212,Werder Bremen,FC Cologne,1,1,2016-12-17 18:30:00,,BallRecovery
+131388,79,MissedShots,0.6509999847412109,0.775,0.010133800096809864,Dominique Heintz,a,129,OpenPlay,2016,LeftFoot,3736,Darmstadt,FC Cologne,1,6,2017-01-28 17:30:00,Thomas Kessler,TakeOn
+132160,70,BlockedShot,0.78,0.750999984741211,0.017844300717115402,Dominique Heintz,h,129,OpenPlay,2016,LeftFoot,3766,FC Cologne,Schalke 04,1,1,2017-02-19 16:30:00,Jonas Hector,Pass
+133997,86,MissedShots,0.715,0.66,0.012831700034439564,Dominique Heintz,a,129,OpenPlay,2016,LeftFoot,3791,Ingolstadt,FC Cologne,2,2,2017-03-11 17:30:00,,TakeOn
+134032,9,MissedShots,0.9730000305175781,0.42700000762939455,0.5738930106163025,Dominique Heintz,h,129,SetPiece,2016,LeftFoot,3813,FC Cologne,Eintracht Frankfurt,1,0,2017-04-04 19:00:00,Anthony Modeste,Rebound
+133746,39,ShotOnPost,0.970999984741211,0.5640000152587891,0.07781369984149933,Dominique Heintz,h,129,FromCorner,2016,Head,3842,FC Cologne,Hoffenheim,1,1,2017-04-21 19:30:00,Yuya Osako,Aerial
+167963,76,Goal,0.7909999847412109,0.3920000076293945,0.03520829975605011,Dominique Heintz,a,129,OpenPlay,2017,LeftFoot,8330,VfB Stuttgart,FC Cologne,2,1,2017-10-13 19:30:00,Simon Zoller,Pass
+168042,9,MissedShots,0.845999984741211,0.485,0.05589919909834862,Dominique Heintz,h,129,SetPiece,2017,LeftFoot,8332,FC Cologne,Werder Bremen,0,0,2017-10-22 12:30:00,Salih Özcan,HeadPass
+168067,92,MissedShots,0.749000015258789,0.655,0.017789099365472794,Dominique Heintz,h,129,OpenPlay,2017,LeftFoot,8332,FC Cologne,Werder Bremen,0,0,2017-10-22 12:30:00,Konstantin Rausch,Pass
+184201,63,MissedShots,0.92,0.515,0.04925379902124405,Dominique Heintz,h,129,FromCorner,2017,Head,8405,FC Cologne,Wolfsburg,1,0,2017-12-16 14:30:00,Christian Clemens,Aerial
+195086,59,SavedShot,0.8080000305175781,0.6530000305175782,0.056703999638557434,Dominique Heintz,h,129,OpenPlay,2017,LeftFoot,8447,FC Cologne,Borussia Dortmund,2,3,2018-02-02 19:30:00,Simon Terodde,Pass
+196317,96,BlockedShot,0.8519999694824218,0.29200000762939454,0.04667919874191284,Dominique Heintz,h,129,SetPiece,2017,LeftFoot,8457,FC Cologne,Hannover 96,1,1,2018-02-17 14:30:00,,TakeOn
+204509,36,SavedShot,0.909000015258789,0.4909999847412109,0.08274710178375244,Dominique Heintz,a,129,FromCorner,2017,LeftFoot,8506,Hoffenheim,FC Cologne,6,0,2018-03-31 14:30:00,Marcel Risse,Cross
+211591,61,BlockedShot,0.755,0.735,0.011388200335204601,Dominique Heintz,a,129,OpenPlay,2017,LeftFoot,8541,Freiburg,FC Cologne,3,2,2018-04-28 13:30:00,Jonas Hector,Pass
+221600,35,Goal,0.924000015258789,0.4759999847412109,0.534529983997345,Dominique Heintz,a,129,SetPiece,2018,LeftFoot,10350,Hoffenheim,Freiburg,3,1,2018-09-01 13:30:00,,None
+264268,78,SavedShot,0.9009999847412109,0.539000015258789,0.1945369988679886,Dominique Heintz,h,129,SetPiece,2018,Head,10375,Freiburg,Schalke 04,1,0,2018-09-25 18:30:00,Jérôme Gondorf,Cross
+255356,54,BlockedShot,0.7440000152587891,0.44099998474121094,0.02024259977042675,Dominique Heintz,h,129,OpenPlay,2018,LeftFoot,10397,Freiburg,Bayer Leverkusen,0,0,2018-10-07 11:30:00,,BallRecovery
+255606,46,SavedShot,0.914000015258789,0.3189999961853027,0.03691060096025467,Dominique Heintz,a,129,FromCorner,2018,LeftFoot,10405,Hertha Berlin,Freiburg,1,1,2018-10-21 13:30:00,Gian-Luca Waldschmidt,Cross
+256274,61,SavedShot,0.914000015258789,0.45799999237060546,0.26819199323654175,Dominique Heintz,h,129,FromCorner,2018,Head,10433,Freiburg,Mainz 05,1,3,2018-11-10 14:30:00,Christian Günter,Cross
+256679,41,MissedShots,0.8569999694824219,0.64,0.04365289956331253,Dominique Heintz,a,129,SetPiece,2018,LeftFoot,10446,Borussia Dortmund,Freiburg,2,0,2018-12-01 14:30:00,,Rebound
+279673,47,MissedShots,0.9009999847412109,0.5870000076293945,0.014122400432825089,Dominique Heintz,a,129,FromCorner,2018,Head,10545,Bayer Leverkusen,Freiburg,2,0,2019-03-02 14:30:00,Christian Günter,Aerial
+285898,88,BlockedShot,0.9259999847412109,0.3509999847412109,0.05327960103750229,Dominique Heintz,a,129,FromCorner,2018,LeftFoot,10569,Borussia M.Gladbach,Freiburg,1,1,2019-03-15 19:30:00,Janik Haberer,HeadPass
+295930,83,BlockedShot,0.750999984741211,0.6780000305175782,0.012992599979043007,Dominique Heintz,h,129,OpenPlay,2018,LeftFoot,10601,Freiburg,Borussia Dortmund,0,4,2019-04-21 14:30:00,Vincenzo Grifo,Pass
+302388,2,MissedShots,0.9130000305175782,0.5329999923706055,0.07794830203056335,Dominique Heintz,h,129,SetPiece,2018,Head,10636,Freiburg,Nuernberg,5,1,2019-05-18 13:30:00,Christian Günter,Chipped
+318044,76,SavedShot,0.7980000305175782,0.675,0.03321420028805733,Dominique Heintz,a,129,OpenPlay,2019,LeftFoot,12437,Hoffenheim,Freiburg,0,3,2019-09-15 13:30:00,Gian-Luca Waldschmidt,Pass
+334384,91,BlockedShot,0.8730000305175781,0.7440000152587891,0.022856099531054497,Dominique Heintz,a,129,FromCorner,2019,LeftFoot,12511,Borussia M.Gladbach,Freiburg,4,2,2019-12-01 14:30:00,,None
+338491,60,BlockedShot,0.8780000305175781,0.5259999847412109,0.06934759765863419,Dominique Heintz,a,129,SetPiece,2019,RightFoot,12553,Schalke 04,Freiburg,2,2,2019-12-21 14:30:00,Nils Petersen,Cross
+360728,32,SavedShot,0.889000015258789,0.6969999694824218,0.04652969911694527,Dominique Heintz,a,129,OpenPlay,2019,LeftFoot,12610,Borussia Dortmund,Freiburg,1,0,2020-02-29 14:30:00,Vincenzo Grifo,TakeOn
+379689,73,SavedShot,0.755,0.6079999923706054,0.013674300163984299,Dominique Heintz,h,129,FromCorner,2020,LeftFoot,14190,Freiburg,Wolfsburg,1,1,2020-09-27 16:00:00,,Aerial
+387998,53,MissedShots,0.93,0.5309999847412109,0.05748699977993965,Dominique Heintz,h,129,FromCorner,2020,Head,15210,Freiburg,Mainz 05,1,3,2020-11-22 14:30:00,Vincenzo Grifo,Aerial
+415299,55,BlockedShot,0.795,0.5670000076293945,0.017355000600218773,Dominique Heintz,h,129,FromCorner,2020,LeftFoot,15397,Freiburg,Schalke 04,4,0,2021-04-17 13:30:00,,Aerial
+460918,13,SavedShot,0.96,0.5070000076293946,0.6154549717903137,Dominique Heintz,a,129,FromCorner,2021,RightFoot,17738,Wolfsburg,Union Berlin,1,0,2022-03-05 14:30:00,,None
+496355,44,MissedShots,0.9259999847412109,0.524000015258789,0.1351960003376007,Dominique Heintz,a,129,OpenPlay,2022,Head,19446,Wolfsburg,Bochum,4,0,2022-10-29 13:30:00,Kevin Stöger,Cross
+520209,42,MissedShots,0.965,0.5990000152587891,0.09068959951400757,Dominique Heintz,a,129,FromCorner,2022,LeftFoot,19587,Union Berlin,Bochum,1,1,2023-04-16 15:30:00,,None
+525810,12,SavedShot,0.749000015258789,0.6719999694824219,0.02228916808962822,Dominique Heintz,h,129,OpenPlay,2022,LeftFoot,19628,Bochum,Augsburg,3,2,2023-05-13 13:30:00,Philipp Förster,Pass
+527380,68,BlockedShot,0.7469999694824219,0.36,0.020498614758253098,Dominique Heintz,a,129,OpenPlay,2022,LeftFoot,19636,Hertha Berlin,Bochum,1,1,2023-05-20 13:30:00,Kevin Stöger,Pass

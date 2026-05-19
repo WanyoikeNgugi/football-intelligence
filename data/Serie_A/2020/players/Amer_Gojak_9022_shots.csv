@@ -1,0 +1,9 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+396822,94,Goal,0.8969999694824219,0.39299999237060546,0.4586330056190491,Amer Gojak,a,9022,OpenPlay,2020,RightFoot,15573,Parma Calcio 1913,Torino,0,3,2021-01-03 14:00:00,Andrea Belotti,Throughball
+399069,93,BlockedShot,0.919000015258789,0.48400001525878905,0.12015099823474884,Amer Gojak,h,9022,OpenPlay,2020,RightFoot,15605,Torino,Spezia,0,0,2021-01-16 17:00:00,Simone Zaza,BallTouch
+409000,77,MissedShots,0.87,0.4179999923706055,0.06682330369949341,Amer Gojak,a,9022,OpenPlay,2020,RightFoot,15685,Crotone,Torino,4,2,2021-03-07 14:00:00,Simone Verdi,Chipped
+409003,85,SavedShot,0.7680000305175781,0.6669999694824219,0.02105329930782318,Amer Gojak,a,9022,OpenPlay,2020,RightFoot,15685,Crotone,Torino,4,2,2021-03-07 14:00:00,Simone Verdi,Pass
+410847,85,SavedShot,0.725,0.774000015258789,0.012086699716746807,Amer Gojak,h,9022,OpenPlay,2020,RightFoot,15665,Torino,Sassuolo,3,2,2021-03-17 14:00:00,Antonio Sanabria,Pass
+411646,62,MissedShots,0.735,0.7090000152587891,0.014453999698162079,Amer Gojak,a,9022,OpenPlay,2020,RightFoot,15705,Sampdoria,Torino,1,0,2021-03-21 14:00:00,Simone Verdi,Pass
+411650,78,BlockedShot,0.845,0.68,0.03648820146918297,Amer Gojak,a,9022,FromCorner,2020,RightFoot,15705,Sampdoria,Torino,1,0,2021-03-21 14:00:00,,TakeOn
+411651,78,BlockedShot,0.8619999694824219,0.565,0.06403239816427231,Amer Gojak,a,9022,OpenPlay,2020,RightFoot,15705,Sampdoria,Torino,1,0,2021-03-21 14:00:00,,Rebound

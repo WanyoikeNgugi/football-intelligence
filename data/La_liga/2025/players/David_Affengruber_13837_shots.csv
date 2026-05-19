@@ -1,0 +1,15 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+654785,95,SavedShot,0.8430000305175781,0.485,0.060333576053380966,David Affengruber,a,13837,OpenPlay,2025,RightFoot,29297,Getafe,Elche,1,0,2025-11-28 20:00:00,,None
+657330,68,MissedShots,0.9580000305175781,0.39299999237060546,0.4180593490600586,David Affengruber,h,13837,OpenPlay,2025,RightFoot,29300,Elche,Girona,3,0,2025-12-07 13:00:00,Rafa Mir,Pass
+658240,75,MissedShots,0.8669999694824219,0.4829999923706055,0.012465364299714565,David Affengruber,a,13837,SetPiece,2025,Head,29314,Mallorca,Elche,3,1,2025-12-13 15:15:00,German Valera,Aerial
+659866,40,MissedShots,0.9130000305175782,0.5329999923706055,0.09170842915773392,David Affengruber,h,13837,FromCorner,2025,Head,29320,Elche,Rayo Vallecano,4,0,2025-12-21 17:30:00,Álvaro Núñez,Cross
+662633,69,MissedShots,0.9219999694824219,0.56,0.09046100825071335,David Affengruber,a,13837,FromCorner,2025,Head,29345,Valencia,Elche,1,1,2026-01-10 20:00:00,Martim Neto,Cross
+667583,80,MissedShots,0.909000015258789,0.644000015258789,0.017382914200425148,David Affengruber,a,13837,FromCorner,2025,Head,29383,Real Sociedad,Elche,3,1,2026-02-07 20:00:00,Lucas Cepeda,Cross
+671482,46,SavedShot,0.8730000305175781,0.37,0.031623583287000656,David Affengruber,h,13837,SetPiece,2025,Head,29410,Elche,Espanyol,2,2,2026-03-01 13:00:00,Lucas Cepeda,Chipped
+673029,71,MissedShots,0.8930000305175781,0.4109999847412109,0.03139181807637215,David Affengruber,a,13837,FromCorner,2025,Head,29424,Villarreal,Elche,2,1,2026-03-08 13:00:00,Josan,Cross
+680259,17,Goal,0.9,0.5059999847412109,0.38552597165107727,David Affengruber,h,13837,FromCorner,2025,RightFoot,29484,Elche,Atletico Madrid,3,2,2026-04-22 17:00:00,Tete Morente,HeadPass
+680269,74,MissedShots,0.9519999694824218,0.395,0.018769579008221626,David Affengruber,h,13837,FromCorner,2025,Head,29484,Elche,Atletico Madrid,3,2,2026-04-22 17:00:00,Lucas Cepeda,Aerial
+681536,78,SavedShot,0.92,0.325,0.007602118421345949,David Affengruber,a,13837,SetPiece,2025,Head,29471,Real Oviedo,Elche,1,2,2026-04-26 14:15:00,Adrià Pedrosa,Aerial
+682630,31,MissedShots,0.915,0.5609999847412109,0.08122891932725906,David Affengruber,a,13837,FromCorner,2025,Head,29493,Celta Vigo,Elche,3,1,2026-05-03 12:00:00,Adrià Pedrosa,Cross
+683519,80,MissedShots,0.9130000305175782,0.5059999847412109,0.05430636182427406,David Affengruber,h,13837,FromCorner,2025,Head,29503,Elche,Alaves,1,1,2026-05-09 12:00:00,,None
+684859,46,BlockedShot,0.7959999847412109,0.34400001525878904,0.02693668194115162,David Affengruber,a,13837,OpenPlay,2025,RightFoot,29509,Real Betis,Elche,2,1,2026-05-12 18:00:00,Marc Aguado,Pass

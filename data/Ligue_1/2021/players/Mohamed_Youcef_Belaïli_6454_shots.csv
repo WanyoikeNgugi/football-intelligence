@@ -1,0 +1,60 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+456310,1,BlockedShot,0.7519999694824219,0.6229999923706054,0.05855869874358177,Mohamed Youcef Belaïli,a,6454,DirectFreekick,2021,RightFoot,18050,Rennes,Brest,2,0,2022-02-06 16:00:00,,Standard
+458715,7,BlockedShot,0.860999984741211,0.42400001525878905,0.05319960042834282,Mohamed Youcef Belaïli,a,6454,OpenPlay,2021,RightFoot,18064,Reims,Brest,1,1,2022-02-20 14:00:00,Romain Del Castillo,Cross
+458721,52,SavedShot,0.885,0.5,0.7600950002670288,Mohamed Youcef Belaïli,a,6454,Penalty,2021,RightFoot,18064,Reims,Brest,1,1,2022-02-20 14:00:00,,Standard
+458723,52,BlockedShot,0.96,0.495,0.1569029986858368,Mohamed Youcef Belaïli,a,6454,SetPiece,2021,LeftFoot,18064,Reims,Brest,1,1,2022-02-20 14:00:00,,Rebound
+463383,27,MissedShots,0.8209999847412109,0.595999984741211,0.05144159868359566,Mohamed Youcef Belaïli,h,6454,OpenPlay,2021,RightFoot,18093,Brest,Marseille,1,4,2022-03-13 19:45:00,Haris Belkebla,Pass
+464486,54,MissedShots,0.9159999847412109,0.47900001525878905,0.08663100004196167,Mohamed Youcef Belaïli,a,6454,OpenPlay,2021,RightFoot,18102,Angers,Brest,1,0,2022-03-20 14:00:00,,None
+470569,12,BlockedShot,0.8830000305175781,0.4470000076293945,0.11601399630308151,Mohamed Youcef Belaïli,a,6454,OpenPlay,2021,RightFoot,18155,Metz,Brest,0,1,2022-04-24 13:00:00,Jean-Kevin Duverne,Pass
+470572,17,ShotOnPost,0.850999984741211,0.5870000076293945,0.059587400406599045,Mohamed Youcef Belaïli,a,6454,OpenPlay,2021,RightFoot,18155,Metz,Brest,0,1,2022-04-24 13:00:00,Christophe Herelle,BallRecovery
+470574,26,Goal,0.9590000152587891,0.5179999923706055,0.7042850255966187,Mohamed Youcef Belaïli,a,6454,OpenPlay,2021,RightFoot,18155,Metz,Brest,0,1,2022-04-24 13:00:00,Irvin Cardona,Pass
+473492,64,SavedShot,0.865,0.7759999847412109,0.026031600311398506,Mohamed Youcef Belaïli,h,6454,OpenPlay,2021,RightFoot,18181,Brest,Strasbourg,0,1,2022-05-07 15:00:00,Steve Mounie,Pass
+476118,22,Goal,0.9669999694824218,0.649000015258789,0.3587630093097687,Mohamed Youcef Belaïli,a,6454,OpenPlay,2021,RightFoot,18189,Monaco,Brest,4,2,2022-05-14 19:00:00,Jean-Kevin Duverne,TakeOn
+476136,67,MissedShots,0.865,0.73,0.027136599645018578,Mohamed Youcef Belaïli,a,6454,OpenPlay,2021,RightFoot,18189,Monaco,Brest,4,2,2022-05-14 19:00:00,Haris Belkebla,Pass
+477680,24,SavedShot,0.8480000305175781,0.6020000076293945,0.071663998067379,Mohamed Youcef Belaïli,h,6454,OpenPlay,2021,RightFoot,18200,Brest,Bordeaux,2,4,2022-05-21 19:00:00,Romain Del Castillo,Pass
+477685,33,Goal,0.925,0.41200000762939454,0.05701129883527756,Mohamed Youcef Belaïli,h,6454,FromCorner,2021,Head,18200,Brest,Bordeaux,2,4,2022-05-21 19:00:00,Romain Del Castillo,Cross
+477686,35,SavedShot,0.9540000152587891,0.6659999847412109,0.07267069816589355,Mohamed Youcef Belaïli,h,6454,OpenPlay,2021,RightFoot,18200,Brest,Bordeaux,2,4,2022-05-21 19:00:00,Jean-Kevin Duverne,TakeOn
+477698,78,MissedShots,0.7609999847412109,0.6379999923706055,0.06159399822354317,Mohamed Youcef Belaïli,h,6454,DirectFreekick,2021,RightFoot,18200,Brest,Bordeaux,2,4,2022-05-21 19:00:00,,Standard
+477699,81,BlockedShot,0.8059999847412109,0.6719999694824219,0.027881300076842308,Mohamed Youcef Belaïli,h,6454,OpenPlay,2021,RightFoot,18200,Brest,Bordeaux,2,4,2022-05-21 19:00:00,Lilian Brassier,Pass
+481258,52,MissedShots,0.8919999694824219,0.48400001525878905,0.05327580124139786,Mohamed Youcef Belaïli,h,6454,FromCorner,2022,Head,19667,Brest,Marseille,1,1,2022-08-14 18:45:00,Franck Honorat,Cross
+482381,10,MissedShots,0.899000015258789,0.700999984741211,0.05504930019378662,Mohamed Youcef Belaïli,a,6454,OpenPlay,2022,RightFoot,19669,Angers,Brest,1,3,2022-08-21 13:00:00,Pereira Lage,Pass
+482389,57,SavedShot,0.924000015258789,0.6320000076293946,0.11128900200128555,Mohamed Youcef Belaïli,a,6454,OpenPlay,2022,RightFoot,19669,Angers,Brest,1,3,2022-08-21 13:00:00,Pereira Lage,Chipped
+484284,66,BlockedShot,0.740999984741211,0.34799999237060547,0.048487599939107895,Mohamed Youcef Belaïli,h,6454,DirectFreekick,2022,RightFoot,19685,Brest,Montpellier,0,7,2022-08-28 13:00:00,,Standard
+485405,32,MissedShots,0.7780000305175782,0.7390000152587891,0.01947060041129589,Mohamed Youcef Belaïli,a,6454,OpenPlay,2022,RightFoot,19696,Rennes,Brest,3,1,2022-08-31 19:00:00,Franck Honorat,Pass
+486494,75,MissedShots,0.8680000305175781,0.720999984741211,0.03036849945783615,Mohamed Youcef Belaïli,h,6454,FromCorner,2022,RightFoot,19705,Brest,Strasbourg,1,1,2022-09-04 13:00:00,Franck Honorat,Cross
+486496,80,BlockedShot,0.9169999694824219,0.7390000152587891,0.02989640086889267,Mohamed Youcef Belaïli,h,6454,FromCorner,2022,RightFoot,19705,Brest,Strasbourg,1,1,2022-09-04 13:00:00,Franck Honorat,Cross
+486497,84,MissedShots,0.9069999694824219,0.6120000076293945,0.0702178031206131,Mohamed Youcef Belaïli,h,6454,OpenPlay,2022,RightFoot,19705,Brest,Strasbourg,1,1,2022-09-04 13:00:00,Franck Honorat,Cross
+486499,92,MissedShots,0.8980000305175782,0.6170000076293946,0.06679459661245346,Mohamed Youcef Belaïli,h,6454,OpenPlay,2022,RightFoot,19705,Brest,Strasbourg,1,1,2022-09-04 13:00:00,Franck Honorat,Cross
+494713,17,BlockedShot,0.8069999694824219,0.8340000152587891,0.03851490095257759,Mohamed Youcef Belaïli,h,6454,DirectFreekick,2022,RightFoot,19758,Ajaccio,Paris Saint Germain,0,3,2022-10-21 19:00:00,,Standard
+494727,70,SavedShot,0.7269999694824218,0.6969999694824218,0.015384499914944172,Mohamed Youcef Belaïli,h,6454,OpenPlay,2022,RightFoot,19758,Ajaccio,Paris Saint Germain,0,3,2022-10-21 19:00:00,Mathieu Coutadeur,Pass
+498148,32,Goal,0.885,0.5,0.7600950002670288,Mohamed Youcef Belaïli,h,6454,Penalty,2022,RightFoot,19778,Ajaccio,Strasbourg,4,2,2022-11-05 16:00:00,,Standard
+498150,36,SavedShot,0.8590000152587891,0.39799999237060546,0.28392499685287476,Mohamed Youcef Belaïli,h,6454,OpenPlay,2022,RightFoot,19778,Ajaccio,Strasbourg,4,2,2022-11-05 16:00:00,Vincent Marchetti,Pass
+498151,39,Goal,0.885,0.5,0.7600950002670288,Mohamed Youcef Belaïli,h,6454,Penalty,2022,RightFoot,19778,Ajaccio,Strasbourg,4,2,2022-11-05 16:00:00,,Standard
+498155,52,BlockedShot,0.9530000305175781,0.36700000762939455,0.02061319909989834,Mohamed Youcef Belaïli,h,6454,FromCorner,2022,Head,19778,Ajaccio,Strasbourg,4,2,2022-11-05 16:00:00,Romain Hamouma,Cross
+498157,58,MissedShots,0.5270000076293946,0.54,0.009019150398671627,Mohamed Youcef Belaïli,h,6454,OpenPlay,2022,RightFoot,19778,Ajaccio,Strasbourg,4,2,2022-11-05 16:00:00,,BallRecovery
+498159,62,MissedShots,0.885,0.5,0.7600950002670288,Mohamed Youcef Belaïli,h,6454,Penalty,2022,RightFoot,19778,Ajaccio,Strasbourg,4,2,2022-11-05 16:00:00,,Standard
+500605,8,SavedShot,0.7969999694824219,0.590999984741211,0.036553800106048584,Mohamed Youcef Belaïli,a,6454,OpenPlay,2022,RightFoot,19789,Nantes,Ajaccio,2,2,2022-11-13 14:00:00,,None
+500608,26,MissedShots,0.8969999694824219,0.6609999847412109,0.05285010114312172,Mohamed Youcef Belaïli,a,6454,OpenPlay,2022,LeftFoot,19789,Nantes,Ajaccio,2,2,2022-11-13 14:00:00,Romain Hamouma,Cross
+500610,30,BlockedShot,0.925,0.41,0.018476000055670738,Mohamed Youcef Belaïli,a,6454,FromCorner,2022,Head,19789,Nantes,Ajaccio,2,2,2022-11-13 14:00:00,Romain Hamouma,Aerial
+500618,42,MissedShots,0.9019999694824219,0.5620000076293945,0.059982798993587494,Mohamed Youcef Belaïli,a,6454,FromCorner,2022,RightFoot,19789,Nantes,Ajaccio,2,2,2022-11-13 14:00:00,Riad Nouri,Cross
+500623,56,Goal,0.885,0.5,0.7600950002670288,Mohamed Youcef Belaïli,a,6454,Penalty,2022,RightFoot,19789,Nantes,Ajaccio,2,2,2022-11-13 14:00:00,,Standard
+501156,19,SavedShot,0.8469999694824218,0.705999984741211,0.04031990095973015,Mohamed Youcef Belaïli,h,6454,FromCorner,2022,RightFoot,19798,Ajaccio,Angers,1,0,2022-12-28 14:00:00,Mathieu Coutadeur,Pass
+501160,39,Goal,0.885,0.5,0.7600950002670288,Mohamed Youcef Belaïli,h,6454,Penalty,2022,RightFoot,19798,Ajaccio,Angers,1,0,2022-12-28 14:00:00,,Standard
+501835,38,MissedShots,0.9390000152587891,0.654000015258789,0.04450089856982231,Mohamed Youcef Belaïli,a,6454,OpenPlay,2022,RightFoot,19817,Toulouse,Ajaccio,2,0,2023-01-01 14:00:00,Riad Nouri,Cross
+504190,10,Goal,0.8540000152587891,0.46,0.09418720006942749,Mohamed Youcef Belaïli,a,6454,OpenPlay,2022,RightFoot,19828,Monaco,Ajaccio,7,1,2023-01-15 16:05:00,Cyrille Bayala,Pass
+506277,50,ShotOnPost,0.9130000305175782,0.57,0.0584523007273674,Mohamed Youcef Belaïli,h,6454,FromCorner,2022,Head,19838,Ajaccio,Lyon,0,2,2023-01-29 16:05:00,Thomas Mangani,Cross
+506283,72,BlockedShot,0.9,0.7140000152587891,0.051709000021219254,Mohamed Youcef Belaïli,h,6454,OpenPlay,2022,RightFoot,19838,Ajaccio,Lyon,0,2,2023-01-29 16:05:00,Jean Botué,Pass
+506630,18,BlockedShot,0.759000015258789,0.5220000076293946,0.07534729689359665,Mohamed Youcef Belaïli,a,6454,DirectFreekick,2022,RightFoot,19849,Angers,Ajaccio,1,2,2023-02-01 18:00:00,,Standard
+506636,52,MissedShots,0.8769999694824219,0.3110000038146973,0.045191001147031784,Mohamed Youcef Belaïli,a,6454,OpenPlay,2022,RightFoot,19849,Angers,Ajaccio,1,2,2023-02-01 18:00:00,Vincent Marchetti,Chipped
+507597,10,BlockedShot,0.8009999847412109,0.5729999923706055,0.03921769931912422,Mohamed Youcef Belaïli,h,6454,OpenPlay,2022,RightFoot,19858,Ajaccio,Nantes,0,2,2023-02-05 14:00:00,Cyrille Bayala,Pass
+507603,37,SavedShot,0.784000015258789,0.28899999618530275,0.019635599106550217,Mohamed Youcef Belaïli,h,6454,OpenPlay,2022,RightFoot,19858,Ajaccio,Nantes,0,2,2023-02-05 14:00:00,Mounaim El Idrissy,Pass
+507606,59,MissedShots,0.884000015258789,0.6840000152587891,0.05282370001077652,Mohamed Youcef Belaïli,h,6454,OpenPlay,2022,RightFoot,19858,Ajaccio,Nantes,0,2,2023-02-05 14:00:00,Ismael Diallo,Chipped
+511354,36,SavedShot,0.8219999694824218,0.3529999923706055,0.036152299493551254,Mohamed Youcef Belaïli,h,6454,OpenPlay,2022,RightFoot,19888,Ajaccio,Troyes,2,1,2023-02-26 14:00:00,,None
+511362,61,Goal,0.885,0.5,0.7600950002670288,Mohamed Youcef Belaïli,h,6454,Penalty,2022,RightFoot,19888,Ajaccio,Troyes,2,1,2023-02-26 14:00:00,,Standard
+512694,67,BlockedShot,0.774000015258789,0.5,0.09188040345907211,Mohamed Youcef Belaïli,a,6454,DirectFreekick,2022,RightFoot,19905,Reims,Ajaccio,1,0,2023-03-05 14:00:00,,Standard
+512698,93,MissedShots,0.71,0.34,0.03604879975318909,Mohamed Youcef Belaïli,a,6454,DirectFreekick,2022,RightFoot,19905,Reims,Ajaccio,1,0,2023-03-05 14:00:00,,Standard
+514055,0,MissedShots,0.47,0.5370000076293945,0.006326030008494854,Mohamed Youcef Belaïli,h,6454,OpenPlay,2022,RightFoot,19908,Ajaccio,Montpellier,0,1,2023-03-12 14:00:00,Mounaim El Idrissy,Pass
+514057,13,SavedShot,0.695,0.549000015258789,0.010027900338172913,Mohamed Youcef Belaïli,h,6454,OpenPlay,2022,RightFoot,19908,Ajaccio,Montpellier,0,1,2023-03-12 14:00:00,,None
+514067,77,MissedShots,0.7809999847412109,0.38799999237060545,0.02517000027000904,Mohamed Youcef Belaïli,h,6454,OpenPlay,2022,RightFoot,19908,Ajaccio,Montpellier,0,1,2023-03-12 14:00:00,,BallRecovery
+515373,48,MissedShots,0.7340000152587891,0.5329999923706055,0.01742370054125786,Mohamed Youcef Belaïli,h,6454,OpenPlay,2022,RightFoot,19918,Ajaccio,Monaco,0,2,2023-03-19 12:00:00,Moussa Soumano,Pass
+521306,43,SavedShot,0.9209999847412109,0.6719999694824219,0.05958179011940956,Mohamed Youcef Belaïli,h,6454,OpenPlay,2022,RightFoot,19958,Ajaccio,Brest,0,0,2023-04-23 13:00:00,,None

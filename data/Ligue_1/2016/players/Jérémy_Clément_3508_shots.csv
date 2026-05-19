@@ -1,0 +1,8 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+1033,71,MissedShots,0.8109999847412109,0.35200000762939454,0.037128299474716187,Jérémy Clément,h,3508,OpenPlay,2014,LeftFoot,6147,Saint-Etienne,Caen,1,0,2014-09-13 19:00:00,Kévin Monnet-Paquet,Pass
+1682,65,MissedShots,0.7759999847412109,0.49900001525878906,0.03105809912085533,Jérémy Clément,a,3508,OpenPlay,2014,LeftFoot,6125,Lorient,Saint-Etienne,0,1,2014-10-18 16:00:00,,None
+6042,64,MissedShots,0.8080000305175781,0.5320000076293945,0.05609529837965965,Jérémy Clément,a,3508,OpenPlay,2014,LeftFoot,5960,Caen,Saint-Etienne,1,0,2015-02-01 13:00:00,Ricky van Wolfswinkel,LayOff
+6521,39,Goal,0.825,0.5179999923706055,0.032106101512908936,Jérémy Clément,h,3508,OpenPlay,2014,RightFoot,5863,Saint-Etienne,Nice,5,0,2015-05-10 16:00:00,,Aerial
+6668,57,MissedShots,0.725,0.49400001525878906,0.01063739974051714,Jérémy Clément,a,3508,OpenPlay,2014,LeftFoot,5867,Evian Thonon Gaillard,Saint-Etienne,1,2,2015-05-16 20:00:00,,Aerial
+66460,87,SavedShot,0.8190000152587891,0.5070000076293946,0.07363119721412659,Jérémy Clément,h,3508,OpenPlay,2015,LeftFoot,2098,Saint-Etienne,Paris Saint Germain,0,2,2016-02-01 00:00:00,Alexander Søderlund,LayOff
+103148,0,MissedShots,0.8769999694824219,0.6179999923706054,0.03910600021481514,Jérémy Clément,h,3508,FromCorner,2016,RightFoot,2267,Saint-Etienne,Montpellier,3,1,2016-08-21 19:00:00,Nolan Roux,HeadPass

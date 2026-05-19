@@ -1,0 +1,13 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+168823,12,MissedShots,0.7580000305175781,0.6419999694824219,0.06030530110001564,Berkay Özcan,h,6092,DirectFreekick,2017,RightFoot,8348,VfB Stuttgart,Freiburg,3,0,2017-10-29 17:00:00,,Standard
+168827,23,MissedShots,0.735,0.645,0.014066499657928944,Berkay Özcan,h,6092,FromCorner,2017,RightFoot,8348,VfB Stuttgart,Freiburg,3,0,2017-10-29 17:00:00,,None
+168197,70,MissedShots,0.874000015258789,0.5470000076293945,0.08588340133428574,Berkay Özcan,h,6092,OpenPlay,2017,RightFoot,8366,VfB Stuttgart,Borussia Dortmund,2,1,2017-11-17 19:30:00,Takuma Asano,Cross
+168683,30,SavedShot,0.8480000305175781,0.6409999847412109,0.07188670337200165,Berkay Özcan,a,6092,OpenPlay,2017,RightFoot,8375,Hannover 96,VfB Stuttgart,1,1,2017-11-24 19:30:00,Takuma Asano,Pass
+168950,23,SavedShot,0.7930000305175782,0.6459999847412109,0.026424799114465714,Berkay Özcan,a,6092,OpenPlay,2017,LeftFoot,8380,Werder Bremen,VfB Stuttgart,1,0,2017-12-02 14:30:00,,None
+179798,55,SavedShot,0.875,0.6680000305175782,0.04841089993715286,Berkay Özcan,h,6092,OpenPlay,2017,LeftFoot,8393,VfB Stuttgart,Bayer Leverkusen,0,2,2017-12-08 19:30:00,,None
+179813,80,SavedShot,0.8519999694824218,0.595999984741211,0.08343850076198578,Berkay Özcan,h,6092,OpenPlay,2017,RightFoot,8393,VfB Stuttgart,Bayer Leverkusen,0,2,2017-12-08 19:30:00,Anastasios Donis,Pass
+183917,3,SavedShot,0.875,0.3820000076293945,0.07932890206575394,Berkay Özcan,a,6092,OpenPlay,2017,RightFoot,8395,Hoffenheim,VfB Stuttgart,1,0,2017-12-13 17:30:00,Chadrac Akolo,Pass
+183862,28,MissedShots,0.7030000305175781,0.5329999923706055,0.013285700231790543,Berkay Özcan,h,6092,OpenPlay,2017,RightFoot,8410,VfB Stuttgart,Bayern Munich,0,1,2017-12-16 14:30:00,Chadrac Akolo,Pass
+188590,10,SavedShot,0.9080000305175782,0.5270000076293946,0.319362998008728,Berkay Özcan,a,6092,OpenPlay,2017,Head,8428,Mainz 05,VfB Stuttgart,3,2,2018-01-20 14:30:00,Christian Gentner,Cross
+207460,77,BlockedShot,0.8930000305175781,0.5320000076293945,0.1206590011715889,Berkay Özcan,a,6092,OpenPlay,2017,RightFoot,8511,Borussia Dortmund,VfB Stuttgart,3,0,2018-04-08 13:30:00,Mario Gomez,Pass
+210415,90,Goal,0.8930000305175781,0.46,0.5412700176239014,Berkay Özcan,h,6092,OpenPlay,2017,RightFoot,8537,VfB Stuttgart,Werder Bremen,2,0,2018-04-21 13:30:00,Anastasios Donis,Pass

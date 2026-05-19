@@ -1,0 +1,13 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+254157,35,MissedShots,0.769000015258789,0.6819999694824219,0.016427699476480484,Matteo Scozzarella,h,7227,OpenPlay,2018,RightFoot,9721,Parma Calcio 1913,Chievo,1,1,2018-12-09 14:00:00,,None
+254165,48,BlockedShot,0.7290000152587891,0.7280000305175781,0.009299679659307003,Matteo Scozzarella,h,7227,OpenPlay,2018,RightFoot,9721,Parma Calcio 1913,Chievo,1,1,2018-12-09 14:00:00,,Aerial
+254168,56,SavedShot,0.7269999694824218,0.445,0.014183999970555305,Matteo Scozzarella,h,7227,OpenPlay,2018,RightFoot,9721,Parma Calcio 1913,Chievo,1,1,2018-12-09 14:00:00,Jonathan Biabiany,Pass
+254181,88,MissedShots,0.750999984741211,0.69,0.012338600121438503,Matteo Scozzarella,h,7227,OpenPlay,2018,RightFoot,9721,Parma Calcio 1913,Chievo,1,1,2018-12-09 14:00:00,,None
+255096,66,BlockedShot,0.7809999847412109,0.6430000305175781,0.07176580280065536,Matteo Scozzarella,a,7227,DirectFreekick,2018,RightFoot,9750,Fiorentina,Parma Calcio 1913,0,1,2018-12-26 14:00:00,,Standard
+276790,41,MissedShots,0.7280000305175781,0.6120000076293945,0.024253400042653084,Matteo Scozzarella,h,7227,OpenPlay,2018,RightFoot,9778,Parma Calcio 1913,SPAL 2013,2,3,2019-01-27 14:00:00,,TakeOn
+277007,4,BlockedShot,0.710999984741211,0.4909999847412109,0.019964899867773056,Matteo Scozzarella,a,7227,OpenPlay,2018,RightFoot,9794,Juventus,Parma Calcio 1913,3,3,2019-02-02 19:30:00,,Rebound
+294836,13,MissedShots,0.740999984741211,0.6880000305175781,0.013727400451898575,Matteo Scozzarella,h,7227,OpenPlay,2018,RightFoot,9904,Parma Calcio 1913,AC Milan,1,1,2019-04-20 11:30:00,Gervinho,Pass
+322111,8,SavedShot,0.745,0.5690000152587891,0.0149082001298666,Matteo Scozzarella,h,7227,OpenPlay,2019,RightFoot,13135,Parma Calcio 1913,Sassuolo,1,0,2019-09-25 19:00:00,,Rebound
+323691,30,MissedShots,0.7780000305175782,0.6630000305175782,0.023005399852991104,Matteo Scozzarella,h,7227,OpenPlay,2019,RightFoot,13145,Parma Calcio 1913,Torino,3,2,2019-09-30 18:45:00,,None
+326524,24,BlockedShot,0.7230000305175781,0.475,0.04789670184254646,Matteo Scozzarella,h,7227,DirectFreekick,2019,RightFoot,13165,Parma Calcio 1913,Genoa,5,1,2019-10-20 17:00:00,,Standard
+326537,48,MissedShots,0.740999984741211,0.415,0.021712200716137886,Matteo Scozzarella,h,7227,OpenPlay,2019,RightFoot,13165,Parma Calcio 1913,Genoa,5,1,2019-10-20 17:00:00,Juraj Kucka,Pass

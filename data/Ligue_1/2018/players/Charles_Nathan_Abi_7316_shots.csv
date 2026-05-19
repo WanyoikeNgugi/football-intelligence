@@ -1,0 +1,26 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+303469,75,BlockedShot,0.8640000152587891,0.42700000762939455,0.07369089871644974,Charles Nathan Abi,a,7316,OpenPlay,2018,LeftFoot,11014,Angers,Saint-Etienne,1,1,2019-05-24 19:05:00,,Rebound
+326238,35,MissedShots,0.7619999694824219,0.345,0.015782099217176437,Charles Nathan Abi,a,7316,OpenPlay,2019,LeftFoot,12804,Bordeaux,Saint-Etienne,0,1,2019-10-20 14:00:00,,None
+338816,94,BlockedShot,0.9169999694824219,0.44,0.06260760128498077,Charles Nathan Abi,a,7316,OpenPlay,2019,RightFoot,12892,Strasbourg,Saint-Etienne,2,1,2019-12-21 19:45:00,Bilal Benkhedim,Aerial
+358407,83,BlockedShot,0.7480000305175781,0.46799999237060547,0.021378599107265472,Charles Nathan Abi,a,7316,OpenPlay,2019,LeftFoot,12941,Montpellier,Saint-Etienne,1,0,2020-02-09 14:00:00,Wesley Fofana,Pass
+359441,34,MissedShots,0.8959999847412109,0.519000015258789,0.10381899774074554,Charles Nathan Abi,a,7316,OpenPlay,2019,LeftFoot,12951,Brest,Saint-Etienne,3,2,2020-02-16 16:00:00,Denis Bouanga,Pass
+362124,83,BlockedShot,0.9769999694824218,0.645,0.08386950194835663,Charles Nathan Abi,h,7316,OpenPlay,2019,LeftFoot,12983,Saint-Etienne,Bordeaux,1,1,2020-03-08 13:00:00,Timothée Kolodziejczak,Pass
+377227,27,MissedShots,0.950999984741211,0.44299999237060544,0.06369540095329285,Charles Nathan Abi,a,7316,FromCorner,2020,Head,14203,Marseille,Saint-Etienne,0,2,2020-09-17 19:00:00,Adil Aouchiche,Aerial
+377236,60,SavedShot,0.9319999694824219,0.45599998474121095,0.05379040166735649,Charles Nathan Abi,a,7316,FromCorner,2020,Head,14203,Marseille,Saint-Etienne,0,2,2020-09-17 19:00:00,Arnaud Nordin,Aerial
+386966,9,BlockedShot,0.9030000305175782,0.46299999237060546,0.045924000442028046,Charles Nathan Abi,a,7316,OpenPlay,2020,Head,15855,Lyon,Saint-Etienne,2,1,2020-11-08 20:00:00,Zaydou Youssef,Aerial
+398159,71,Goal,0.9230000305175782,0.42700000762939455,0.12054900079965591,Charles Nathan Abi,a,7316,SetPiece,2020,LeftFoot,15944,Reims,Saint-Etienne,3,1,2021-01-09 20:00:00,Mathieu Debuchy,Rebound
+401066,8,MissedShots,0.8490000152587891,0.7090000152587891,0.05057299882173538,Charles Nathan Abi,h,7316,OpenPlay,2020,LeftFoot,15965,Saint-Etienne,Lyon,0,5,2021-01-24 20:00:00,Romain Hamouma,Pass
+401965,87,Goal,0.914000015258789,0.4779999923706055,0.5006710290908813,Charles Nathan Abi,a,7316,OpenPlay,2020,LeftFoot,15974,Nice,Saint-Etienne,0,1,2021-01-31 12:00:00,Miguel Trauco,Pass
+402688,19,MissedShots,0.875999984741211,0.40299999237060546,0.013815900310873985,Charles Nathan Abi,h,7316,OpenPlay,2020,Head,15984,Saint-Etienne,Nantes,1,1,2021-02-03 20:00:00,Mathieu Debuchy,Aerial
+402690,34,BlockedShot,0.7819999694824219,0.455,0.04044120013713837,Charles Nathan Abi,h,7316,OpenPlay,2020,LeftFoot,15984,Saint-Etienne,Nantes,1,1,2021-02-03 20:00:00,Adil Aouchiche,TakeOn
+405406,88,Goal,0.899000015258789,0.5429999923706055,0.4425539970397949,Charles Nathan Abi,h,7316,SetPiece,2020,LeftFoot,16014,Saint-Etienne,Reims,1,1,2021-02-20 12:00:00,,Rebound
+407248,66,MissedShots,0.865999984741211,0.4759999847412109,0.04343859851360321,Charles Nathan Abi,a,7316,SetPiece,2020,Head,16020,Lorient,Saint-Etienne,2,1,2021-02-28 14:00:00,Miguel Trauco,Chipped
+407812,9,MissedShots,0.8690000152587891,0.5520000076293945,0.03359830006957054,Charles Nathan Abi,h,7316,OpenPlay,2020,OtherBodyPart,16034,Saint-Etienne,Lens,2,3,2021-03-03 18:00:00,Mathieu Debuchy,Aerial
+407821,35,MissedShots,0.9030000305175782,0.4520000076293945,0.0720703974366188,Charles Nathan Abi,h,7316,FromCorner,2020,Head,16034,Saint-Etienne,Lens,2,3,2021-03-03 18:00:00,Adil Aouchiche,Cross
+407823,52,BlockedShot,0.8080000305175781,0.33099998474121095,0.02701440081000328,Charles Nathan Abi,h,7316,OpenPlay,2020,LeftFoot,16034,Saint-Etienne,Lens,2,3,2021-03-03 18:00:00,Mathieu Debuchy,BallRecovery
+407828,71,MissedShots,0.9169999694824219,0.605999984741211,0.10251300036907196,Charles Nathan Abi,h,7316,OpenPlay,2020,LeftFoot,16034,Saint-Etienne,Lens,2,3,2021-03-03 18:00:00,Denis Bouanga,Pass
+409756,34,BlockedShot,0.924000015258789,0.345,0.040978699922561646,Charles Nathan Abi,a,7316,FromCorner,2020,LeftFoot,16036,Angers,Saint-Etienne,0,1,2021-03-13 12:00:00,Adil Aouchiche,Cross
+411194,50,MissedShots,0.914000015258789,0.4159999847412109,0.06146809831261635,Charles Nathan Abi,h,7316,OpenPlay,2020,Head,16054,Saint-Etienne,Monaco,0,4,2021-03-19 16:05:00,Mathieu Debuchy,Cross
+411196,56,MissedShots,0.9119999694824219,0.5159999847412109,0.11906299740076065,Charles Nathan Abi,h,7316,OpenPlay,2020,Head,16054,Saint-Etienne,Monaco,0,4,2021-03-19 16:05:00,Wahbi Khazri,Cross
+413192,45,MissedShots,0.919000015258789,0.49,0.32128098607063293,Charles Nathan Abi,a,7316,FromCorner,2020,RightFoot,16065,Nimes,Saint-Etienne,0,2,2021-04-04 15:05:00,Adil Aouchiche,Cross
+414310,84,MissedShots,0.9119999694824219,0.69,0.11083199828863144,Charles Nathan Abi,h,7316,OpenPlay,2020,LeftFoot,16074,Saint-Etienne,Bordeaux,4,1,2021-04-11 13:00:00,Kévin Monnet-Paquet,Pass

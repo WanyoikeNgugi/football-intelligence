@@ -1,0 +1,417 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+220635,8,SavedShot,0.865999984741211,0.68,0.05126800015568733,Nicolás González,a,7074,OpenPlay,2018,LeftFoot,10344,Mainz 05,VfB Stuttgart,1,0,2018-08-26 16:30:00,Mario Gomez,Chipped
+220640,23,MissedShots,0.9130000305175782,0.524000015258789,0.05591389909386635,Nicolás González,a,7074,OpenPlay,2018,Head,10344,Mainz 05,VfB Stuttgart,1,0,2018-08-26 16:30:00,,Aerial
+220643,39,SavedShot,0.8440000152587891,0.655,0.05271349847316742,Nicolás González,a,7074,OpenPlay,2018,RightFoot,10344,Mainz 05,VfB Stuttgart,1,0,2018-08-26 16:30:00,Erik Thommy,Tackle
+224327,24,BlockedShot,0.7580000305175781,0.2720000076293945,0.012991799972951412,Nicolás González,a,7074,OpenPlay,2018,LeftFoot,10363,Freiburg,VfB Stuttgart,3,3,2018-09-16 16:00:00,,BallRecovery
+224664,19,MissedShots,0.7390000152587891,0.7030000305175781,0.016955899074673653,Nicolás González,h,7074,OpenPlay,2018,RightFoot,10364,VfB Stuttgart,Fortuna Duesseldorf,0,0,2018-09-21 18:30:00,Emiliano Insúa,Pass
+224673,57,MissedShots,0.919000015258789,0.4540000152587891,0.3101170063018799,Nicolás González,h,7074,OpenPlay,2018,Head,10364,VfB Stuttgart,Fortuna Duesseldorf,0,0,2018-09-21 18:30:00,Andreas Beck,Cross
+224682,68,MissedShots,0.889000015258789,0.5509999847412109,0.21265000104904175,Nicolás González,h,7074,OpenPlay,2018,Head,10364,VfB Stuttgart,Fortuna Duesseldorf,0,0,2018-09-21 18:30:00,Emiliano Insúa,Cross
+227890,80,SavedShot,0.9009999847412109,0.41200000762939454,0.39059901237487793,Nicolás González,h,7074,OpenPlay,2018,LeftFoot,10383,VfB Stuttgart,Werder Bremen,2,1,2018-09-29 13:30:00,,None
+227893,83,SavedShot,0.8480000305175781,0.5029999923706054,0.34947800636291504,Nicolás González,h,7074,OpenPlay,2018,LeftFoot,10383,VfB Stuttgart,Werder Bremen,2,1,2018-09-29 13:30:00,Mario Gomez,Pass
+227897,90,MissedShots,0.9159999847412109,0.664000015258789,0.28966501355171204,Nicolás González,h,7074,OpenPlay,2018,LeftFoot,10383,VfB Stuttgart,Werder Bremen,2,1,2018-09-29 13:30:00,Erik Thommy,Pass
+255252,51,SavedShot,0.95,0.4329999923706055,0.05583300068974495,Nicolás González,a,7074,FromCorner,2018,Head,10396,Hannover 96,VfB Stuttgart,3,1,2018-10-06 13:30:00,Daniel Didavi,Aerial
+255258,65,MissedShots,0.9069999694824219,0.5279999923706055,0.0928874984383583,Nicolás González,a,7074,OpenPlay,2018,RightFoot,10396,Hannover 96,VfB Stuttgart,3,1,2018-10-06 13:30:00,Daniel Didavi,Cross
+255508,47,SavedShot,0.8419999694824218,0.4759999847412109,0.01428959984332323,Nicolás González,h,7074,OpenPlay,2018,Head,10402,VfB Stuttgart,Borussia Dortmund,0,4,2018-10-20 13:30:00,Timo Baumgartl,Cross
+255509,47,BlockedShot,0.919000015258789,0.43900001525878907,0.07686629891395569,Nicolás González,h,7074,FromCorner,2018,Head,10402,VfB Stuttgart,Borussia Dortmund,0,4,2018-10-20 13:30:00,Emiliano Insúa,Cross
+255777,11,MissedShots,0.865999984741211,0.43099998474121093,0.00933151040226221,Nicolás González,a,7074,SetPiece,2018,Head,10409,Hoffenheim,VfB Stuttgart,4,0,2018-10-27 16:30:00,Erik Thommy,Aerial
+255781,26,ShotOnPost,0.9259999847412109,0.45599998474121095,0.047346100211143494,Nicolás González,a,7074,FromCorner,2018,Head,10409,Hoffenheim,VfB Stuttgart,4,0,2018-10-27 16:30:00,Erik Thommy,Aerial
+255788,49,BlockedShot,0.774000015258789,0.415,0.029490599408745766,Nicolás González,a,7074,OpenPlay,2018,RightFoot,10409,Hoffenheim,VfB Stuttgart,4,0,2018-10-27 16:30:00,Mario Gomez,Pass
+255883,24,MissedShots,0.9530000305175781,0.555,0.10854300111532211,Nicolás González,h,7074,OpenPlay,2018,RightFoot,10425,VfB Stuttgart,Eintracht Frankfurt,0,3,2018-11-02 19:30:00,Dennis Aogo,Cross
+255888,40,MissedShots,0.91,0.49,0.08749309927225113,Nicolás González,h,7074,FromCorner,2018,Head,10425,VfB Stuttgart,Eintracht Frankfurt,0,3,2018-11-02 19:30:00,Erik Thommy,Cross
+255892,49,BlockedShot,0.769000015258789,0.7280000305175781,0.013062899932265282,Nicolás González,h,7074,OpenPlay,2018,LeftFoot,10425,VfB Stuttgart,Eintracht Frankfurt,0,3,2018-11-02 19:30:00,Benjamin Pavard,Pass
+255893,51,MissedShots,0.7290000152587891,0.46599998474121096,0.015523799695074558,Nicolás González,h,7074,OpenPlay,2018,LeftFoot,10425,VfB Stuttgart,Eintracht Frankfurt,0,3,2018-11-02 19:30:00,Santiago Ascacibar,Pass
+256318,27,MissedShots,0.915,0.5329999923706055,0.12715700268745422,Nicolás González,a,7074,OpenPlay,2018,Head,10435,Nuernberg,VfB Stuttgart,0,2,2018-11-10 14:30:00,Andreas Beck,Cross
+256330,63,BlockedShot,0.799000015258789,0.7280000305175781,0.023182399570941925,Nicolás González,a,7074,OpenPlay,2018,LeftFoot,10435,Nuernberg,VfB Stuttgart,0,2,2018-11-10 14:30:00,Marc-Oliver Kempf,Pass
+256710,4,MissedShots,0.9319999694824219,0.5529999923706055,0.08482149988412857,Nicolás González,h,7074,SetPiece,2018,RightFoot,10448,VfB Stuttgart,Augsburg,1,0,2018-12-01 14:30:00,,None
+256714,10,MissedShots,0.9369999694824219,0.4329999923706055,0.04362739995121956,Nicolás González,h,7074,FromCorner,2018,Head,10448,VfB Stuttgart,Augsburg,1,0,2018-12-01 14:30:00,Dennis Aogo,Aerial
+256733,66,MissedShots,0.735,0.5879999923706055,0.024963200092315674,Nicolás González,h,7074,OpenPlay,2018,LeftFoot,10448,VfB Stuttgart,Augsburg,1,0,2018-12-01 14:30:00,Santiago Ascacibar,Pass
+257200,3,MissedShots,0.9069999694824219,0.45799999237060546,0.10417299717664719,Nicolás González,a,7074,OpenPlay,2018,LeftFoot,10457,Borussia M.Gladbach,VfB Stuttgart,3,0,2018-12-09 17:00:00,Mario Gomez,HeadPass
+256891,20,BlockedShot,0.755,0.639000015258789,0.01860390044748783,Nicolás González,h,7074,OpenPlay,2018,LeftFoot,10466,VfB Stuttgart,Hertha Berlin,2,1,2018-12-15 14:30:00,Chadrac Akolo,TakeOn
+256897,41,MissedShots,0.8769999694824219,0.9380000305175781,0.007845140062272549,Nicolás González,h,7074,OpenPlay,2018,LeftFoot,10466,VfB Stuttgart,Hertha Berlin,2,1,2018-12-15 14:30:00,Timo Baumgartl,Chipped
+257507,30,BlockedShot,0.7980000305175782,0.6880000305175781,0.025053400546312332,Nicolás González,a,7074,OpenPlay,2018,LeftFoot,10477,Wolfsburg,VfB Stuttgart,2,0,2018-12-18 19:30:00,Santiago Ascacibar,Pass
+257508,30,MissedShots,0.8469999694824218,0.6930000305175781,0.0345722995698452,Nicolás González,a,7074,OpenPlay,2018,RightFoot,10477,Wolfsburg,VfB Stuttgart,2,0,2018-12-18 19:30:00,Christian Gentner,Pass
+257512,49,MissedShots,0.9409999847412109,0.7090000152587891,0.020222600549459457,Nicolás González,a,7074,OpenPlay,2018,LeftFoot,10477,Wolfsburg,VfB Stuttgart,2,0,2018-12-18 19:30:00,Emiliano Insúa,Cross
+257734,47,ShotOnPost,0.8009999847412109,0.3340000152587891,0.1832129955291748,Nicolás González,h,7074,OpenPlay,2018,RightFoot,10486,VfB Stuttgart,Schalke 04,1,3,2018-12-22 14:30:00,,BallRecovery
+257740,75,Goal,0.9080000305175782,0.46099998474121096,0.2601830065250397,Nicolás González,h,7074,OpenPlay,2018,Head,10486,VfB Stuttgart,Schalke 04,1,3,2018-12-22 14:30:00,Chadrac Akolo,Cross
+278294,53,MissedShots,0.879000015258789,0.46900001525878904,0.051392000168561935,Nicolás González,h,7074,SetPiece,2018,Head,10491,VfB Stuttgart,Mainz 05,2,3,2019-01-19 14:30:00,Gonzalo Castro,Chipped
+278295,56,MissedShots,0.9180000305175782,0.5370000076293945,0.06472089886665344,Nicolás González,h,7074,OpenPlay,2018,Head,10491,VfB Stuttgart,Mainz 05,2,3,2019-01-19 14:30:00,Emiliano Insúa,Aerial
+278296,56,MissedShots,0.9690000152587891,0.4159999847412109,0.07822529971599579,Nicolás González,h,7074,OpenPlay,2018,LeftFoot,10491,VfB Stuttgart,Mainz 05,2,3,2019-01-19 14:30:00,Alexander Esswein,Cross
+278298,59,MissedShots,0.9119999694824219,0.43900001525878907,0.06661540269851685,Nicolás González,h,7074,FromCorner,2018,Head,10491,VfB Stuttgart,Mainz 05,2,3,2019-01-19 14:30:00,Gonzalo Castro,Cross
+278300,64,MissedShots,0.9009999847412109,0.5309999847412109,0.05443830043077469,Nicolás González,h,7074,OpenPlay,2018,Head,10491,VfB Stuttgart,Mainz 05,2,3,2019-01-19 14:30:00,Emiliano Insúa,Aerial
+278303,76,SavedShot,0.9290000152587891,0.5590000152587891,0.271712988615036,Nicolás González,h,7074,FromCorner,2018,OtherBodyPart,10491,VfB Stuttgart,Mainz 05,2,3,2019-01-19 14:30:00,Emiliano Insúa,Cross
+278306,82,Goal,0.9259999847412109,0.5420000076293945,0.5072050094604492,Nicolás González,h,7074,OpenPlay,2018,Head,10491,VfB Stuttgart,Mainz 05,2,3,2019-01-19 14:30:00,Christian Gentner,Aerial
+278706,5,MissedShots,0.87,0.415,0.022908199578523636,Nicolás González,a,7074,OpenPlay,2018,Head,10499,Bayern Munich,VfB Stuttgart,4,1,2019-01-27 14:30:00,Andreas Beck,Cross
+278710,22,MissedShots,0.9130000305175782,0.46799999237060547,0.08614560216665268,Nicolás González,a,7074,OpenPlay,2018,LeftFoot,10499,Bayern Munich,VfB Stuttgart,4,1,2019-01-27 14:30:00,,None
+278722,63,BlockedShot,0.8909999847412109,0.46099998474121096,0.08457410335540771,Nicolás González,a,7074,OpenPlay,2018,LeftFoot,10499,Bayern Munich,VfB Stuttgart,4,1,2019-01-27 14:30:00,Steven Zuber,Chipped
+278938,54,SavedShot,0.8680000305175781,0.580999984741211,0.08418700098991394,Nicolás González,h,7074,OpenPlay,2018,RightFoot,10509,VfB Stuttgart,Freiburg,2,2,2019-02-03 17:00:00,Alexander Esswein,Pass
+278944,81,MissedShots,0.9180000305175782,0.5309999847412109,0.05813249945640564,Nicolás González,h,7074,OpenPlay,2018,Head,10509,VfB Stuttgart,Freiburg,2,2,2019-02-03 17:00:00,Alexander Esswein,Aerial
+279145,24,SavedShot,0.8430000305175781,0.500999984741211,0.11570700258016586,Nicolás González,a,7074,OpenPlay,2018,RightFoot,10525,Fortuna Duesseldorf,VfB Stuttgart,3,0,2019-02-10 17:00:00,Daniel Didavi,Throughball
+279153,46,MissedShots,0.9219999694824219,0.54,0.06007450073957443,Nicolás González,a,7074,SetPiece,2018,Head,10525,Fortuna Duesseldorf,VfB Stuttgart,3,0,2019-02-10 17:00:00,,None
+279156,51,MissedShots,0.955,0.5279999923706055,0.085377998650074,Nicolás González,a,7074,FromCorner,2018,Head,10525,Fortuna Duesseldorf,VfB Stuttgart,3,0,2019-02-10 17:00:00,Daniel Didavi,Aerial
+279160,59,MissedShots,0.92,0.5220000076293946,0.33253398537635803,Nicolás González,a,7074,SetPiece,2018,Head,10525,Fortuna Duesseldorf,VfB Stuttgart,3,0,2019-02-10 17:00:00,Daniel Didavi,Cross
+284424,30,MissedShots,0.8569999694824219,0.49900001525878906,0.3518750071525574,Nicolás González,a,7074,OpenPlay,2018,LeftFoot,10555,Borussia Dortmund,VfB Stuttgart,3,1,2019-03-09 14:30:00,Steven Zuber,Throughball
+291912,74,BlockedShot,0.8640000152587891,0.5570000076293945,0.021087300032377243,Nicolás González,h,7074,OpenPlay,2018,Head,10583,VfB Stuttgart,Nuernberg,1,1,2019-04-06 14:30:00,Marc-Oliver Kempf,BallTouch
+297560,10,MissedShots,0.7140000152587891,0.575,0.009685220196843147,Nicolás González,h,7074,OpenPlay,2018,LeftFoot,10610,VfB Stuttgart,Borussia M.Gladbach,1,0,2019-04-27 17:30:00,,Aerial
+297577,59,MissedShots,0.899000015258789,0.6079999923706054,0.010912200435996056,Nicolás González,h,7074,SetPiece,2018,Head,10610,VfB Stuttgart,Borussia M.Gladbach,1,0,2019-04-27 17:30:00,Borna Sosa,Aerial
+299172,22,MissedShots,0.8380000305175781,0.705,0.03048430010676384,Nicolás González,a,7074,OpenPlay,2018,LeftFoot,10620,Hertha Berlin,VfB Stuttgart,3,1,2019-05-04 14:30:00,Daniel Didavi,Pass
+299176,35,BlockedShot,0.909000015258789,0.500999984741211,0.0343519002199173,Nicolás González,a,7074,FromCorner,2018,Head,10620,Hertha Berlin,VfB Stuttgart,3,1,2019-05-04 14:30:00,Daniel Didavi,Aerial
+299180,41,MissedShots,0.9580000305175781,0.72,0.23507699370384216,Nicolás González,a,7074,OpenPlay,2018,LeftFoot,10620,Hertha Berlin,VfB Stuttgart,3,1,2019-05-04 14:30:00,Borna Sosa,TakeOn
+300814,73,BlockedShot,0.875999984741211,0.6990000152587891,0.06818299740552902,Nicolás González,h,7074,OpenPlay,2018,LeftFoot,10629,VfB Stuttgart,Wolfsburg,3,0,2019-05-11 14:30:00,Gonzalo Castro,Pass
+302472,76,MissedShots,0.9030000305175782,0.6140000152587891,0.03455980122089386,Nicolás González,a,7074,OpenPlay,2018,Head,10634,Schalke 04,VfB Stuttgart,0,0,2019-05-18 13:30:00,Borna Sosa,Cross
+382965,73,MissedShots,0.81,0.73,0.023446600884199142,Nicolás González,h,7074,OpenPlay,2020,LeftFoot,15176,VfB Stuttgart,FC Cologne,1,1,2020-10-23 18:30:00,Gonzalo Castro,Pass
+384322,53,BlockedShot,0.8930000305175781,0.5170000076293946,0.08563149720430374,Nicolás González,a,7074,SetPiece,2020,Head,15185,Schalke 04,VfB Stuttgart,1,1,2020-10-30 19:30:00,Borna Sosa,Cross
+384323,55,Goal,0.885,0.5,0.7576959729194641,Nicolás González,a,7074,Penalty,2020,LeftFoot,15185,Schalke 04,VfB Stuttgart,1,1,2020-10-30 19:30:00,,Standard
+384327,68,MissedShots,0.9069999694824219,0.590999984741211,0.05916009843349457,Nicolás González,a,7074,OpenPlay,2020,Head,15185,Schalke 04,VfB Stuttgart,1,1,2020-10-30 19:30:00,Borna Sosa,Cross
+384330,84,SavedShot,0.8959999847412109,0.4370000076293945,0.04370829835534096,Nicolás González,a,7074,FromCorner,2020,Head,15185,Schalke 04,VfB Stuttgart,1,1,2020-10-30 19:30:00,Philipp Klement,Cross
+385953,16,Goal,0.885,0.5,0.7576149702072144,Nicolás González,h,7074,Penalty,2020,LeftFoot,15195,VfB Stuttgart,Eintracht Frankfurt,2,2,2020-11-07 14:30:00,,Standard
+385955,19,BlockedShot,0.8830000305175781,0.7169999694824218,0.032522499561309814,Nicolás González,h,7074,FromCorner,2020,LeftFoot,15195,VfB Stuttgart,Eintracht Frankfurt,2,2,2020-11-07 14:30:00,Gonzalo Castro,Pass
+385959,30,MissedShots,0.895,0.5170000076293946,0.1374029964208603,Nicolás González,h,7074,OpenPlay,2020,LeftFoot,15195,VfB Stuttgart,Eintracht Frankfurt,2,2,2020-11-07 14:30:00,Borna Sosa,Pass
+385966,50,MissedShots,0.9180000305175782,0.5829999923706055,0.3215549886226654,Nicolás González,h,7074,SetPiece,2020,LeftFoot,15195,VfB Stuttgart,Eintracht Frankfurt,2,2,2020-11-07 14:30:00,Gonzalo Castro,Chipped
+385975,80,BlockedShot,0.8490000152587891,0.500999984741211,0.09735540300607681,Nicolás González,h,7074,OpenPlay,2020,LeftFoot,15195,VfB Stuttgart,Eintracht Frankfurt,2,2,2020-11-07 14:30:00,Mateo Klimowicz,Pass
+387259,6,BlockedShot,0.7909999847412109,0.3079999923706055,0.02211260050535202,Nicolás González,a,7074,OpenPlay,2020,LeftFoot,15205,Hoffenheim,VfB Stuttgart,3,3,2020-11-21 14:30:00,Tanguy Coulibaly,Pass
+387260,8,MissedShots,0.789000015258789,0.575,0.024164799600839615,Nicolás González,a,7074,OpenPlay,2020,LeftFoot,15205,Hoffenheim,VfB Stuttgart,3,3,2020-11-21 14:30:00,Orel Mangala,HeadPass
+387264,17,Goal,0.879000015258789,0.40099998474121096,0.0645843967795372,Nicolás González,a,7074,OpenPlay,2020,LeftFoot,15205,Hoffenheim,VfB Stuttgart,3,3,2020-11-21 14:30:00,Wataru Endo,TakeOn
+387268,26,ShotOnPost,0.9209999847412109,0.4420000076293945,0.05362340062856674,Nicolás González,a,7074,OpenPlay,2020,Head,15205,Hoffenheim,VfB Stuttgart,3,3,2020-11-21 14:30:00,Daniel Didavi,Aerial
+391614,78,MissedShots,0.7609999847412109,0.6029999923706054,0.08142080157995224,Nicolás González,a,7074,OpenPlay,2020,LeftFoot,15230,Borussia Dortmund,VfB Stuttgart,1,5,2020-12-12 14:30:00,Mateo Klimowicz,Pass
+391617,90,Goal,0.8819999694824219,0.5259999847412109,0.32034099102020264,Nicolás González,a,7074,OpenPlay,2020,LeftFoot,15230,Borussia Dortmund,VfB Stuttgart,1,5,2020-12-12 14:30:00,Orel Mangala,Pass
+392617,15,MissedShots,0.925,0.4179999923706055,0.08463390171527863,Nicolás González,h,7074,OpenPlay,2020,LeftFoot,15244,VfB Stuttgart,Union Berlin,2,2,2020-12-15 19:30:00,Philipp Förster,Cross
+392623,26,MissedShots,0.7780000305175782,0.610999984741211,0.024642199277877808,Nicolás González,h,7074,OpenPlay,2020,RightFoot,15244,VfB Stuttgart,Union Berlin,2,2,2020-12-15 19:30:00,Gonzalo Castro,Pass
+392630,47,ShotOnPost,0.919000015258789,0.5840000152587891,0.08861680328845978,Nicolás González,h,7074,OpenPlay,2020,LeftFoot,15244,VfB Stuttgart,Union Berlin,2,2,2020-12-15 19:30:00,Daniel Didavi,Chipped
+392632,50,MissedShots,0.9290000152587891,0.4929999923706055,0.6090350151062012,Nicolás González,h,7074,OpenPlay,2020,Head,15244,VfB Stuttgart,Union Berlin,2,2,2020-12-15 19:30:00,Tanguy Coulibaly,Chipped
+394749,69,MissedShots,0.93,0.5,0.557345986366272,Nicolás González,a,7074,OpenPlay,2020,RightFoot,15251,Wolfsburg,VfB Stuttgart,1,0,2020-12-20 17:00:00,Roberto Massimo,Pass
+394756,88,MissedShots,0.9309999847412109,0.575999984741211,0.029435399919748306,Nicolás González,a,7074,FromCorner,2020,Head,15251,Wolfsburg,VfB Stuttgart,1,0,2020-12-20 17:00:00,Philipp Klement,Aerial
+396565,7,MissedShots,0.885,0.40700000762939453,0.03614550083875656,Nicolás González,h,7074,SetPiece,2020,Head,15265,VfB Stuttgart,RasenBallsport Leipzig,0,1,2021-01-02 19:30:00,Gonzalo Castro,Cross
+396568,13,BlockedShot,0.870999984741211,0.5629999923706055,0.042417701333761215,Nicolás González,h,7074,OpenPlay,2020,RightFoot,15265,VfB Stuttgart,RasenBallsport Leipzig,0,1,2021-01-02 19:30:00,,Aerial
+396570,14,MissedShots,0.8440000152587891,0.46700000762939453,0.0760674998164177,Nicolás González,h,7074,OpenPlay,2020,LeftFoot,15265,VfB Stuttgart,RasenBallsport Leipzig,0,1,2021-01-02 19:30:00,Gonzalo Castro,BallTouch
+396588,81,BlockedShot,0.8019999694824219,0.500999984741211,0.04892139881849289,Nicolás González,h,7074,OpenPlay,2020,LeftFoot,15265,VfB Stuttgart,RasenBallsport Leipzig,0,1,2021-01-02 19:30:00,Wataru Endo,Pass
+398358,1,MissedShots,0.9,0.555,0.05465489998459816,Nicolás González,a,7074,FromCorner,2020,Head,15273,Augsburg,VfB Stuttgart,1,4,2021-01-10 14:30:00,Waldemar Anton,Cross
+398362,9,Goal,0.885,0.5,0.7577769756317139,Nicolás González,a,7074,Penalty,2020,LeftFoot,15273,Augsburg,VfB Stuttgart,1,4,2021-01-10 14:30:00,,Standard
+398377,42,SavedShot,0.8119999694824219,0.48900001525878906,0.30992400646209717,Nicolás González,a,7074,OpenPlay,2020,RightFoot,15273,Augsburg,VfB Stuttgart,1,4,2021-01-10 14:30:00,Wataru Endo,Chipped
+398381,51,MissedShots,0.8619999694824219,0.31,0.05428149923682213,Nicolás González,a,7074,OpenPlay,2020,LeftFoot,15273,Augsburg,VfB Stuttgart,1,4,2021-01-10 14:30:00,Orel Mangala,Pass
+398382,55,SavedShot,0.7919999694824219,0.53,0.05525999888777733,Nicolás González,a,7074,OpenPlay,2020,LeftFoot,15273,Augsburg,VfB Stuttgart,1,4,2021-01-10 14:30:00,Orel Mangala,Pass
+398384,59,SavedShot,0.895,0.5529999923706055,0.10743000358343124,Nicolás González,a,7074,FromCorner,2020,LeftFoot,15273,Augsburg,VfB Stuttgart,1,4,2021-01-10 14:30:00,,Rebound
+399073,16,MissedShots,0.885,0.7019999694824218,0.045100100338459015,Nicolás González,h,7074,OpenPlay,2020,LeftFoot,15283,VfB Stuttgart,Borussia M.Gladbach,2,2,2021-01-16 17:30:00,Borna Sosa,Pass
+399077,29,MissedShots,0.9590000152587891,0.4540000152587891,0.11751700192689896,Nicolás González,h,7074,OpenPlay,2020,RightFoot,15283,VfB Stuttgart,Borussia M.Gladbach,2,2,2021-01-16 17:30:00,Borna Sosa,Cross
+399080,47,BlockedShot,0.905,0.5279999923706055,0.03689270094037056,Nicolás González,h,7074,OpenPlay,2020,Head,15283,VfB Stuttgart,Borussia M.Gladbach,2,2,2021-01-16 17:30:00,Borna Sosa,CornerAwarded
+399084,57,Goal,0.8909999847412109,0.5479999923706055,0.06195409968495369,Nicolás González,h,7074,OpenPlay,2020,Head,15283,VfB Stuttgart,Borussia M.Gladbach,2,2,2021-01-16 17:30:00,Borna Sosa,Cross
+399086,63,MissedShots,0.7269999694824218,0.5059999847412109,0.014782199636101723,Nicolás González,h,7074,OpenPlay,2020,LeftFoot,15283,VfB Stuttgart,Borussia M.Gladbach,2,2,2021-01-16 17:30:00,,None
+400424,19,MissedShots,0.544000015258789,0.48700000762939455,0.007748569827526808,Nicolás González,a,7074,OpenPlay,2020,LeftFoot,15296,Freiburg,VfB Stuttgart,2,1,2021-01-23 14:30:00,,BallRecovery
+400430,36,SavedShot,0.8059999847412109,0.5,0.05557269975543022,Nicolás González,a,7074,OpenPlay,2020,LeftFoot,15296,Freiburg,VfB Stuttgart,2,1,2021-01-23 14:30:00,Tanguy Coulibaly,Pass
+400435,44,SavedShot,0.885,0.5,0.7577769756317139,Nicolás González,a,7074,Penalty,2020,LeftFoot,15296,Freiburg,VfB Stuttgart,2,1,2021-01-23 14:30:00,,Standard
+400442,50,BlockedShot,0.795,0.5609999847412109,0.03659600019454956,Nicolás González,a,7074,OpenPlay,2020,LeftFoot,15296,Freiburg,VfB Stuttgart,2,1,2021-01-23 14:30:00,,None
+400443,54,MissedShots,0.8919999694824219,0.669000015258789,0.06206430122256279,Nicolás González,a,7074,OpenPlay,2020,LeftFoot,15296,Freiburg,VfB Stuttgart,2,1,2021-01-23 14:30:00,Daniel Didavi,Pass
+400450,84,SavedShot,0.7390000152587891,0.7519999694824219,0.01586199924349785,Nicolás González,a,7074,OpenPlay,2020,RightFoot,15296,Freiburg,VfB Stuttgart,2,1,2021-01-23 14:30:00,Erik Thommy,Pass
+400453,89,MissedShots,0.8690000152587891,0.605,0.07654310017824173,Nicolás González,a,7074,OpenPlay,2020,LeftFoot,15296,Freiburg,VfB Stuttgart,2,1,2021-01-23 14:30:00,Philipp Klement,Pass
+401450,12,MissedShots,0.865,0.6719999694824219,0.04213690012693405,Nicolás González,h,7074,SetPiece,2020,LeftFoot,15310,VfB Stuttgart,Mainz 05,2,0,2021-01-29 18:30:00,,None
+401456,30,MissedShots,0.8830000305175781,0.49,0.05940699949860573,Nicolás González,h,7074,OpenPlay,2020,Head,15310,VfB Stuttgart,Mainz 05,2,0,2021-01-29 18:30:00,Borna Sosa,Cross
+401457,46,MissedShots,0.7230000305175781,0.605999984741211,0.01869110018014908,Nicolás González,h,7074,OpenPlay,2020,LeftFoot,15310,VfB Stuttgart,Mainz 05,2,0,2021-01-29 18:30:00,Sasa Kalajdzic,Pass
+401459,58,MissedShots,0.8859999847412109,0.49599998474121093,0.04707549884915352,Nicolás González,h,7074,FromCorner,2020,Head,15310,VfB Stuttgart,Mainz 05,2,0,2021-01-29 18:30:00,Philipp Förster,Cross
+401462,62,SavedShot,0.735,0.4879999923706055,0.01404810044914484,Nicolás González,h,7074,OpenPlay,2020,LeftFoot,15310,VfB Stuttgart,Mainz 05,2,0,2021-01-29 18:30:00,,Aerial
+411385,45,BlockedShot,0.7680000305175781,0.6940000152587891,0.01907760091125965,Nicolás González,a,7074,OpenPlay,2020,RightFoot,15365,Bayern Munich,VfB Stuttgart,4,0,2021-03-20 14:30:00,Marc-Oliver Kempf,Pass
+428945,4,MissedShots,0.8680000305175781,0.53,0.10575699806213379,Nicolás González,h,7074,OpenPlay,2021,RightFoot,16770,Fiorentina,Torino,2,1,2021-08-28 18:45:00,Giacomo Bonaventura,Pass
+428951,40,Goal,0.8480000305175781,0.5829999923706055,0.0880265012383461,Nicolás González,h,7074,OpenPlay,2021,LeftFoot,16770,Fiorentina,Torino,2,1,2021-08-28 18:45:00,Gaetano Castrovilli,Pass
+431155,31,BlockedShot,0.9319999694824219,0.645,0.09503120183944702,Nicolás González,a,7074,OpenPlay,2021,LeftFoot,16787,Genoa,Fiorentina,1,2,2021-09-18 13:00:00,Giacomo Bonaventura,Pass
+431156,34,BlockedShot,0.8109999847412109,0.425,0.04999990016222,Nicolás González,a,7074,OpenPlay,2021,LeftFoot,16787,Genoa,Fiorentina,1,2,2021-09-18 13:00:00,Giacomo Bonaventura,Pass
+431157,34,BlockedShot,0.8119999694824219,0.43099998474121093,0.04329939931631088,Nicolás González,a,7074,OpenPlay,2021,LeftFoot,16787,Genoa,Fiorentina,1,2,2021-09-18 13:00:00,,Rebound
+432413,1,SavedShot,0.9780000305175781,0.5279999923706055,0.7225980162620544,Nicolás González,h,7074,OpenPlay,2021,LeftFoot,16799,Fiorentina,Inter,1,3,2021-09-21 18:45:00,,None
+432422,33,SavedShot,0.725,0.5209999847412109,0.019260600209236145,Nicolás González,h,7074,OpenPlay,2021,LeftFoot,16799,Fiorentina,Inter,1,3,2021-09-21 18:45:00,Dusan Vlahovic,LayOff
+432425,44,SavedShot,0.7809999847412109,0.639000015258789,0.03480520099401474,Nicolás González,h,7074,OpenPlay,2021,RightFoot,16799,Fiorentina,Inter,1,3,2021-09-21 18:45:00,Lucas Torreira,Chipped
+432437,73,MissedShots,0.7859999847412109,0.355,0.024876700714230537,Nicolás González,h,7074,OpenPlay,2021,LeftFoot,16799,Fiorentina,Inter,1,3,2021-09-21 18:45:00,Riccardo Sottil,Pass
+437252,83,SavedShot,0.9219999694824219,0.5029999923706054,0.11113499850034714,Nicolás González,a,7074,FromCorner,2021,Head,16835,Venezia,Fiorentina,1,0,2021-10-18 18:45:00,Marco Benassi,Cross
+438215,9,MissedShots,0.904000015258789,0.36,0.09651970118284225,Nicolás González,h,7074,OpenPlay,2021,RightFoot,16838,Fiorentina,Cagliari,3,0,2021-10-24 13:00:00,Giacomo Bonaventura,Pass
+438217,17,BlockedShot,0.909000015258789,0.5420000076293945,0.06914989650249481,Nicolás González,h,7074,FromCorner,2021,Head,16838,Fiorentina,Cagliari,3,0,2021-10-24 13:00:00,Cristiano Biraghi,Cross
+438220,31,MissedShots,0.8909999847412109,0.46,0.24939100444316864,Nicolás González,h,7074,OpenPlay,2021,Head,16838,Fiorentina,Cagliari,3,0,2021-10-24 13:00:00,Riccardo Saponara,Cross
+438226,41,Goal,0.9390000152587891,0.46099998474121096,0.7132760286331177,Nicolás González,h,7074,OpenPlay,2021,LeftFoot,16838,Fiorentina,Cagliari,3,0,2021-10-24 13:00:00,Riccardo Saponara,Pass
+438236,86,MissedShots,0.915,0.47,0.0351330004632473,Nicolás González,h,7074,FromCorner,2021,Head,16838,Fiorentina,Cagliari,3,0,2021-10-24 13:00:00,Alfred Duncan,Aerial
+446557,10,MissedShots,0.7719999694824219,0.31,0.020820600911974907,Nicolás González,a,7074,OpenPlay,2021,LeftFoot,16906,Bologna,Fiorentina,2,3,2021-12-05 11:30:00,Lucas Torreira,Pass
+446567,76,MissedShots,0.754000015258789,0.37799999237060544,0.03568290174007416,Nicolás González,a,7074,OpenPlay,2021,LeftFoot,16906,Bologna,Fiorentina,2,3,2021-12-05 11:30:00,Lucas Torreira,Pass
+447513,27,MissedShots,0.9290000152587891,0.4620000076293945,0.381523996591568,Nicolás González,h,7074,OpenPlay,2021,Head,16916,Fiorentina,Salernitana,4,0,2021-12-11 14:00:00,José Callejón,Cross
+447535,91,MissedShots,0.9169999694824219,0.42400001525878905,0.03265170007944107,Nicolás González,h,7074,OpenPlay,2021,Head,16916,Fiorentina,Salernitana,4,0,2021-12-11 14:00:00,Aleksa Terzic,Aerial
+449638,3,MissedShots,0.8909999847412109,0.710999984741211,0.0982275977730751,Nicolás González,h,7074,OpenPlay,2021,LeftFoot,16929,Fiorentina,Sassuolo,2,2,2021-12-19 11:30:00,Dusan Vlahovic,Chipped
+449640,15,MissedShots,0.925,0.46099998474121096,0.12546899914741516,Nicolás González,h,7074,OpenPlay,2021,RightFoot,16929,Fiorentina,Sassuolo,2,2,2021-12-19 11:30:00,Álvaro Odriozola,Cross
+449641,21,BlockedShot,0.905,0.5879999923706055,0.0856190025806427,Nicolás González,h,7074,OpenPlay,2021,LeftFoot,16929,Fiorentina,Sassuolo,2,2,2021-12-19 11:30:00,Álvaro Odriozola,Cross
+449658,49,MissedShots,0.86,0.35200000762939454,0.07497239857912064,Nicolás González,h,7074,OpenPlay,2021,LeftFoot,16929,Fiorentina,Sassuolo,2,2,2021-12-19 11:30:00,Giacomo Bonaventura,Pass
+452882,24,MissedShots,0.965999984741211,0.764000015258789,0.02702759951353073,Nicolás González,a,7074,OpenPlay,2021,LeftFoot,16963,Torino,Fiorentina,4,0,2022-01-10 16:00:00,Cristiano Biraghi,Chipped
+452883,25,BlockedShot,0.9180000305175782,0.5540000152587891,0.07629580050706863,Nicolás González,a,7074,FromCorner,2021,Head,16963,Torino,Fiorentina,4,0,2022-01-10 16:00:00,Cristiano Biraghi,Cross
+452884,25,MissedShots,0.9209999847412109,0.57,0.023639900609850883,Nicolás González,a,7074,FromCorner,2021,Head,16963,Torino,Fiorentina,4,0,2022-01-10 16:00:00,Cristiano Biraghi,Aerial
+452891,55,MissedShots,0.7880000305175782,0.39799999237060546,0.03623159974813461,Nicolás González,a,7074,OpenPlay,2021,LeftFoot,16963,Torino,Fiorentina,4,0,2022-01-10 16:00:00,Lucas Torreira,Pass
+452894,70,SavedShot,0.9030000305175782,0.43099998474121093,0.07043380290269852,Nicolás González,a,7074,OpenPlay,2021,Head,16963,Torino,Fiorentina,4,0,2022-01-10 16:00:00,Cristiano Biraghi,Cross
+452895,74,MissedShots,0.789000015258789,0.4909999847412109,0.027372300624847412,Nicolás González,a,7074,OpenPlay,2021,LeftFoot,16963,Torino,Fiorentina,4,0,2022-01-10 16:00:00,,None
+454877,23,MissedShots,0.8369999694824218,0.6469999694824219,0.16549600660800934,Nicolás González,a,7074,OpenPlay,2021,LeftFoot,16976,Cagliari,Fiorentina,1,1,2022-01-23 11:30:00,Lucas Torreira,TakeOn
+454879,24,SavedShot,0.8130000305175781,0.5220000076293946,0.07465360313653946,Nicolás González,a,7074,OpenPlay,2021,LeftFoot,16976,Cagliari,Fiorentina,1,1,2022-01-23 11:30:00,Krzysztof Piatek,TakeOn
+454884,42,MissedShots,0.8930000305175781,0.6,0.031137600541114807,Nicolás González,a,7074,OpenPlay,2021,Head,16976,Cagliari,Fiorentina,1,1,2022-01-23 11:30:00,Cristiano Biraghi,Cross
+455984,69,MissedShots,0.8059999847412109,0.5129999923706055,0.051210999488830566,Nicolás González,h,7074,OpenPlay,2021,LeftFoot,16988,Fiorentina,Lazio,0,3,2022-02-05 19:45:00,Riccardo Sottil,Pass
+455991,83,MissedShots,0.8919999694824219,0.5840000152587891,0.06444759666919708,Nicolás González,h,7074,OpenPlay,2021,LeftFoot,16988,Fiorentina,Lazio,0,3,2022-02-05 19:45:00,Cristiano Biraghi,Cross
+457864,50,MissedShots,0.7669999694824219,0.3220000076293945,0.028134699910879135,Nicolás González,a,7074,OpenPlay,2021,LeftFoot,17004,Spezia,Fiorentina,1,2,2022-02-14 19:45:00,,TakeOn
+457867,70,SavedShot,0.7140000152587891,0.40700000762939453,0.01556089986115694,Nicolás González,a,7074,OpenPlay,2021,LeftFoot,17004,Spezia,Fiorentina,1,2,2022-02-14 19:45:00,,None
+457868,72,SavedShot,0.8469999694824218,0.2720000076293945,0.038129400461912155,Nicolás González,a,7074,OpenPlay,2021,LeftFoot,17004,Spezia,Fiorentina,1,2,2022-02-14 19:45:00,Álvaro Odriozola,Pass
+457869,73,MissedShots,0.9119999694824219,0.5379999923706055,0.07664299756288528,Nicolás González,a,7074,FromCorner,2021,Head,17004,Spezia,Fiorentina,1,2,2022-02-14 19:45:00,Cristiano Biraghi,Cross
+458583,5,MissedShots,0.915,0.425,0.09494359791278839,Nicolás González,h,7074,OpenPlay,2021,LeftFoot,17008,Fiorentina,Atalanta,1,0,2022-02-20 11:30:00,Cristiano Biraghi,Cross
+458584,19,SavedShot,0.914000015258789,0.5629999923706055,0.08008170127868652,Nicolás González,h,7074,OpenPlay,2021,Head,17008,Fiorentina,Atalanta,1,0,2022-02-20 11:30:00,Riccardo Sottil,Cross
+462837,67,BlockedShot,0.909000015258789,0.5459999847412109,0.4573430120944977,Nicolás González,h,7074,OpenPlay,2021,LeftFoot,17037,Fiorentina,Bologna,1,0,2022-03-13 11:30:00,,None
+464094,6,SavedShot,0.7569999694824219,0.3820000076293945,0.016816599294543266,Nicolás González,a,7074,OpenPlay,2021,LeftFoot,17050,Inter,Fiorentina,1,1,2022-03-19 17:00:00,Riccardo Saponara,Pass
+464097,20,BlockedShot,0.904000015258789,0.3820000076293945,0.10580699890851974,Nicolás González,a,7074,OpenPlay,2021,LeftFoot,17050,Inter,Fiorentina,1,1,2022-03-19 17:00:00,Gaetano Castrovilli,Pass
+464105,41,BlockedShot,0.860999984741211,0.41200000762939454,0.12424600124359131,Nicolás González,a,7074,OpenPlay,2021,LeftFoot,17050,Inter,Fiorentina,1,1,2022-03-19 17:00:00,Riccardo Saponara,Pass
+464115,62,MissedShots,0.795,0.2610000038146973,0.014288200065493584,Nicolás González,a,7074,OpenPlay,2021,LeftFoot,17050,Inter,Fiorentina,1,1,2022-03-19 17:00:00,Riccardo Saponara,Chipped
+465552,3,SavedShot,0.884000015258789,0.28,0.04336019977927208,Nicolás González,h,7074,OpenPlay,2021,LeftFoot,17057,Fiorentina,Empoli,1,0,2022-04-03 10:30:00,Gaetano Castrovilli,Pass
+465561,34,BlockedShot,0.905,0.41,0.030958399176597595,Nicolás González,h,7074,FromCorner,2021,Head,17057,Fiorentina,Empoli,1,0,2022-04-03 10:30:00,Gaetano Castrovilli,Cross
+465569,50,SavedShot,0.8490000152587891,0.3160000038146973,0.09626729786396027,Nicolás González,h,7074,OpenPlay,2021,LeftFoot,17057,Fiorentina,Empoli,1,0,2022-04-03 10:30:00,Riccardo Saponara,Chipped
+465571,57,Goal,0.9480000305175781,0.5079999923706054,0.569923996925354,Nicolás González,h,7074,SetPiece,2021,OtherBodyPart,17057,Fiorentina,Empoli,1,0,2022-04-03 10:30:00,Cristiano Biraghi,Cross
+465572,62,SavedShot,0.885,0.43400001525878906,0.030941199511289597,Nicolás González,h,7074,OpenPlay,2021,Head,17057,Fiorentina,Empoli,1,0,2022-04-03 10:30:00,Cristiano Biraghi,Aerial
+467169,1,MissedShots,0.8540000152587891,0.515,0.07354020327329636,Nicolás González,a,7074,OpenPlay,2021,RightFoot,17071,Napoli,Fiorentina,2,3,2022-04-10 13:00:00,,None
+467177,28,Goal,0.9009999847412109,0.4859999847412109,0.46980300545692444,Nicolás González,a,7074,OpenPlay,2021,LeftFoot,17071,Napoli,Fiorentina,2,3,2022-04-10 13:00:00,,Aerial
+467179,40,MissedShots,0.6859999847412109,0.4,0.016160599887371063,Nicolás González,a,7074,OpenPlay,2021,LeftFoot,17071,Napoli,Fiorentina,2,3,2022-04-10 13:00:00,Alfred Duncan,Pass
+468247,4,BlockedShot,0.875,0.2570000076293945,0.04722769930958748,Nicolás González,h,7074,OpenPlay,2021,LeftFoot,17078,Fiorentina,Venezia,1,0,2022-04-16 14:30:00,,TakeOn
+468251,17,SavedShot,0.9430000305175781,0.51,0.6151130199432373,Nicolás González,h,7074,OpenPlay,2021,LeftFoot,17078,Fiorentina,Venezia,1,0,2022-04-16 14:30:00,Jonathan Ikone,Rebound
+468256,24,MissedShots,0.9109999847412109,0.4829999923706055,0.11749300360679626,Nicolás González,h,7074,SetPiece,2021,Head,17078,Fiorentina,Venezia,1,0,2022-04-16 14:30:00,Cristiano Biraghi,Cross
+468265,52,MissedShots,0.855999984741211,0.28399999618530275,0.04441609978675842,Nicolás González,h,7074,OpenPlay,2021,LeftFoot,17078,Fiorentina,Venezia,1,0,2022-04-16 14:30:00,Lorenzo Venuti,Pass
+470295,14,MissedShots,0.915,0.48700000762939455,0.08692699670791626,Nicolás González,a,7074,OpenPlay,2021,Head,17092,Salernitana,Fiorentina,2,1,2022-04-24 10:30:00,Cristiano Biraghi,Cross
+470303,60,MissedShots,0.91,0.5029999923706054,0.10045699775218964,Nicolás González,a,7074,OpenPlay,2021,RightFoot,17092,Salernitana,Fiorentina,2,1,2022-04-24 10:30:00,Álvaro Odriozola,Cross
+471024,7,SavedShot,0.88,0.41900001525878905,0.14376899600028992,Nicolás González,h,7074,OpenPlay,2021,LeftFoot,16948,Fiorentina,Udinese,0,4,2022-04-27 16:00:00,Lucas Torreira,TakeOn
+471046,62,MissedShots,0.9169999694824219,0.52,0.040744099766016006,Nicolás González,h,7074,FromCorner,2021,Head,16948,Fiorentina,Udinese,0,4,2022-04-27 16:00:00,Cristiano Biraghi,Aerial
+472113,23,BlockedShot,0.9,0.48400001525878905,0.13367299735546112,Nicolás González,a,7074,OpenPlay,2021,LeftFoot,17100,AC Milan,Fiorentina,1,0,2022-05-01 13:00:00,Youssef Maleh,Pass
+472119,45,BlockedShot,0.659000015258789,0.4,0.011263599619269371,Nicolás González,a,7074,OpenPlay,2021,LeftFoot,17100,AC Milan,Fiorentina,1,0,2022-05-01 13:00:00,Sofyan Amrabat,Pass
+474954,4,Goal,0.885,0.5,0.7612990140914917,Nicolás González,h,7074,Penalty,2021,LeftFoot,17106,Fiorentina,Roma,2,0,2022-05-09 18:45:00,,Standard
+474958,22,MissedShots,0.9369999694824219,0.7090000152587891,0.05200539901852608,Nicolás González,h,7074,OpenPlay,2021,RightFoot,17106,Fiorentina,Roma,2,0,2022-05-09 18:45:00,,None
+476829,10,BlockedShot,0.9009999847412109,0.66,0.07884269952774048,Nicolás González,a,7074,OpenPlay,2021,LeftFoot,17124,Sampdoria,Fiorentina,4,1,2022-05-16 16:30:00,Lucas Torreira,Pass
+476835,25,MissedShots,0.919000015258789,0.5309999847412109,0.04038110002875328,Nicolás González,a,7074,FromCorner,2021,Head,17124,Sampdoria,Fiorentina,4,1,2022-05-16 16:30:00,Cristiano Biraghi,Aerial
+476840,46,MissedShots,0.88,0.6959999847412109,0.05332620069384575,Nicolás González,a,7074,OpenPlay,2021,LeftFoot,17124,Sampdoria,Fiorentina,4,1,2022-05-16 16:30:00,Arthur Cabral,Pass
+476848,88,Goal,0.885,0.5,0.7612990140914917,Nicolás González,a,7074,Penalty,2021,LeftFoot,17124,Sampdoria,Fiorentina,4,1,2022-05-16 16:30:00,,Standard
+477405,47,MissedShots,0.860999984741211,0.5159999847412109,0.08295360207557678,Nicolás González,h,7074,OpenPlay,2021,LeftFoot,17127,Fiorentina,Juventus,2,0,2022-05-21 18:45:00,Cristiano Biraghi,Cross
+477406,52,MissedShots,0.7659999847412109,0.27399999618530274,0.02403940074145794,Nicolás González,h,7074,OpenPlay,2021,LeftFoot,17127,Fiorentina,Juventus,2,0,2022-05-21 18:45:00,Lorenzo Venuti,Pass
+477411,91,Goal,0.885,0.5,0.7612990140914917,Nicolás González,h,7074,Penalty,2021,LeftFoot,17127,Fiorentina,Juventus,2,0,2022-05-21 18:45:00,,Standard
+481138,87,MissedShots,0.95,0.38,0.047297701239585876,Nicolás González,h,7074,OpenPlay,2022,RightFoot,18587,Fiorentina,Cremonese,3,2,2022-08-14 16:30:00,,Aerial
+482656,84,MissedShots,0.8809999847412109,0.37599998474121094,0.013244099915027618,Nicolás González,a,7074,OpenPlay,2022,Head,18597,Empoli,Fiorentina,0,0,2022-08-21 16:30:00,Aleksa Terzic,Cross
+482657,86,MissedShots,0.885,0.375,0.008335449732840061,Nicolás González,a,7074,SetPiece,2022,Head,18597,Empoli,Fiorentina,0,0,2022-08-21 16:30:00,Cristiano Biraghi,Aerial
+482660,93,BlockedShot,0.7780000305175782,0.3320000076293945,0.024331599473953247,Nicolás González,a,7074,OpenPlay,2022,LeftFoot,18597,Empoli,Fiorentina,0,0,2022-08-21 16:30:00,Dodô,Pass
+482664,100,BlockedShot,0.8719999694824219,0.5120000076293946,0.013651500456035137,Nicolás González,a,7074,FromCorner,2022,Head,18597,Empoli,Fiorentina,0,0,2022-08-21 16:30:00,Cristiano Biraghi,Aerial
+482665,100,BlockedShot,0.8719999694824219,0.5509999847412109,0.013333899900317192,Nicolás González,a,7074,FromCorner,2022,Head,18597,Empoli,Fiorentina,0,0,2022-08-21 16:30:00,Cristiano Biraghi,Aerial
+489286,89,Goal,0.9490000152587891,0.49900001525878906,0.6516119837760925,Nicolás González,h,7074,OpenPlay,2022,RightFoot,18644,Fiorentina,Verona,2,0,2022-09-18 13:00:00,Rolando Mandragora,Pass
+492627,46,MissedShots,0.779000015258789,0.36400001525878906,0.012503400444984436,Nicolás González,h,7074,OpenPlay,2022,LeftFoot,18664,Fiorentina,Lazio,0,4,2022-10-10 18:45:00,Christian Kouamé,Chipped
+492639,89,MissedShots,0.91,0.34,0.276529997587204,Nicolás González,h,7074,OpenPlay,2022,LeftFoot,18664,Fiorentina,Lazio,0,4,2022-10-10 18:45:00,Riccardo Saponara,TakeOn
+494148,79,SavedShot,0.730999984741211,0.544000015258789,0.01949699968099594,Nicolás González,a,7074,OpenPlay,2022,LeftFoot,18677,Lecce,Fiorentina,1,1,2022-10-17 18:45:00,Christian Kouamé,Pass
+502685,85,SavedShot,0.9369999694824219,0.4640000152587891,0.41908198595046997,Nicolás González,h,7074,OpenPlay,2022,Head,18743,Fiorentina,Sassuolo,2,1,2023-01-07 14:00:00,Riccardo Saponara,Cross
+502688,90,Goal,0.885,0.5,0.7612990140914917,Nicolás González,h,7074,Penalty,2022,LeftFoot,18743,Fiorentina,Sassuolo,2,1,2023-01-07 14:00:00,,Standard
+506318,16,MissedShots,0.769000015258789,0.43099998474121093,0.023620199412107468,Nicolás González,a,7074,OpenPlay,2022,LeftFoot,18777,Lazio,Fiorentina,1,1,2023-01-29 17:00:00,Giacomo Bonaventura,BallTouch
+506324,48,Goal,0.7580000305175781,0.5279999923706055,0.024114999920129776,Nicolás González,a,7074,OpenPlay,2022,LeftFoot,18777,Lazio,Fiorentina,1,1,2023-01-29 17:00:00,,None
+506327,58,MissedShots,0.8230000305175781,0.3629999923706055,0.045263100415468216,Nicolás González,a,7074,OpenPlay,2022,LeftFoot,18777,Lazio,Fiorentina,1,1,2023-01-29 17:00:00,Antonin Barak,BlockedPass
+507806,16,SavedShot,0.9230000305175782,0.5129999923706055,0.10713499784469604,Nicolás González,h,7074,FromCorner,2022,Head,18783,Fiorentina,Bologna,1,2,2023-02-05 17:00:00,Cristiano Biraghi,Cross
+507807,18,MissedShots,0.815,0.37799999237060544,0.03648329898715019,Nicolás González,h,7074,OpenPlay,2022,LeftFoot,18783,Fiorentina,Bologna,1,2,2023-02-05 17:00:00,Luka Jovic,BallTouch
+507816,35,SavedShot,0.9309999847412109,0.395,0.025211099535226822,Nicolás González,h,7074,OpenPlay,2022,Head,18783,Fiorentina,Bologna,1,2,2023-02-05 17:00:00,,Rebound
+507822,58,BlockedShot,0.9069999694824219,0.41700000762939454,0.09009639918804169,Nicolás González,h,7074,OpenPlay,2022,LeftFoot,18783,Fiorentina,Bologna,1,2,2023-02-05 17:00:00,Luka Jovic,Rebound
+507831,94,SavedShot,0.8730000305175781,0.3370000076293945,0.043448399752378464,Nicolás González,h,7074,OpenPlay,2022,LeftFoot,18783,Fiorentina,Bologna,1,2,2023-02-05 17:00:00,Josip Brekalo,Chipped
+509062,4,BlockedShot,0.9290000152587891,0.5220000076293946,0.059408798813819885,Nicolás González,a,7074,FromCorner,2022,Head,18796,Juventus,Fiorentina,1,0,2023-02-12 17:00:00,,None
+509075,72,MissedShots,0.875,0.3970000076293945,0.0610164999961853,Nicolás González,a,7074,OpenPlay,2022,LeftFoot,18796,Juventus,Fiorentina,1,0,2023-02-12 17:00:00,,None
+510228,13,MissedShots,0.92,0.25,0.014057000167667866,Nicolás González,h,7074,SetPiece,2022,LeftFoot,18803,Fiorentina,Empoli,1,1,2023-02-19 14:00:00,,Aerial
+510240,55,MissedShots,0.91,0.525,0.045085400342941284,Nicolás González,h,7074,OpenPlay,2022,Head,18803,Fiorentina,Empoli,1,1,2023-02-19 14:00:00,Aleksa Terzic,Aerial
+510251,88,MissedShots,0.905,0.5629999923706055,0.10245499759912491,Nicolás González,h,7074,OpenPlay,2022,LeftFoot,18803,Fiorentina,Empoli,1,1,2023-02-19 14:00:00,Aleksa Terzic,Cross
+511596,9,MissedShots,0.795,0.700999984741211,0.023679299280047417,Nicolás González,a,7074,OpenPlay,2022,LeftFoot,18819,Verona,Fiorentina,0,3,2023-02-27 17:30:00,Aleksa Terzic,Pass
+511610,59,BlockedShot,0.86,0.5520000076293945,0.09334170073270798,Nicolás González,a,7074,OpenPlay,2022,LeftFoot,18819,Verona,Fiorentina,0,3,2023-02-27 17:30:00,Arthur Cabral,BallTouch
+511618,90,SavedShot,0.8930000305175781,0.5359999847412109,0.11786799877882004,Nicolás González,a,7074,OpenPlay,2022,LeftFoot,18819,Verona,Fiorentina,0,3,2023-02-27 17:30:00,,None
+511617,90,BlockedShot,0.8569999694824219,0.55,0.1726990044116974,Nicolás González,a,7074,OpenPlay,2022,LeftFoot,18819,Verona,Fiorentina,0,3,2023-02-27 17:30:00,,TakeOn
+512409,17,SavedShot,0.7280000305175781,0.5070000076293946,0.01693670079112053,Nicolás González,h,7074,OpenPlay,2022,LeftFoot,18823,Fiorentina,AC Milan,2,1,2023-03-04 19:45:00,,BallRecovery
+512410,19,SavedShot,0.8340000152587891,0.7419999694824219,0.02593179978430271,Nicolás González,h,7074,OpenPlay,2022,LeftFoot,18823,Fiorentina,AC Milan,2,1,2023-03-04 19:45:00,Rolando Mandragora,Pass
+512413,37,MissedShots,0.9230000305175782,0.524000015258789,0.06257720291614532,Nicolás González,h,7074,SetPiece,2022,Head,18823,Fiorentina,AC Milan,2,1,2023-03-04 19:45:00,Giacomo Bonaventura,Aerial
+512415,48,Goal,0.885,0.5,0.7612990140914917,Nicolás González,h,7074,Penalty,2022,LeftFoot,18823,Fiorentina,AC Milan,2,1,2023-03-04 19:45:00,,Standard
+515557,44,MissedShots,0.9019999694824219,0.43900001525878907,0.11591000109910965,Nicolás González,h,7074,OpenPlay,2022,LeftFoot,18843,Fiorentina,Lecce,1,0,2023-03-19 14:00:00,Christian Kouamé,HeadPass
+515564,59,MissedShots,0.7290000152587891,0.46099998474121096,0.020245499908924103,Nicolás González,h,7074,OpenPlay,2022,LeftFoot,18843,Fiorentina,Lecce,1,0,2023-03-19 14:00:00,Christian Kouamé,Pass
+517826,62,BlockedShot,0.8119999694824219,0.33599998474121096,0.05524739995598793,Nicolás González,h,7074,OpenPlay,2022,LeftFoot,18863,Fiorentina,Spezia,1,1,2023-04-08 12:30:00,Josip Brekalo,Pass
+517828,66,SavedShot,0.92,0.5,0.06772369891405106,Nicolás González,h,7074,OpenPlay,2022,Head,18863,Fiorentina,Spezia,1,1,2023-04-08 12:30:00,,None
+520400,19,MissedShots,0.7369999694824219,0.2570000076293945,0.01137479953467846,Nicolás González,h,7074,OpenPlay,2022,LeftFoot,18874,Fiorentina,Atalanta,1,1,2023-04-17 18:45:00,Jonathan Ikone,Pass
+520403,23,SavedShot,0.9619999694824218,0.5029999923706054,0.5385379791259766,Nicolás González,h,7074,FromCorner,2022,Head,18874,Fiorentina,Atalanta,1,1,2023-04-17 18:45:00,,Rebound
+520404,28,SavedShot,0.7759999847412109,0.33799999237060546,0.01847190037369728,Nicolás González,h,7074,OpenPlay,2022,LeftFoot,18874,Fiorentina,Atalanta,1,1,2023-04-17 18:45:00,Antonin Barak,Pass
+520414,76,MissedShots,0.7319999694824219,0.475,0.013566000387072563,Nicolás González,h,7074,OpenPlay,2022,LeftFoot,18874,Fiorentina,Atalanta,1,1,2023-04-17 18:45:00,Riccardo Sottil,TakeOn
+523483,39,MissedShots,0.7719999694824219,0.425,0.02941400744020939,Nicolás González,h,7074,OpenPlay,2022,LeftFoot,18894,Fiorentina,Sampdoria,5,0,2023-04-30 16:00:00,Alfred Duncan,Pass
+523487,45,BlockedShot,0.75,0.34900001525878904,0.016835490241646767,Nicolás González,h,7074,OpenPlay,2022,LeftFoot,18894,Fiorentina,Sampdoria,5,0,2023-04-30 16:00:00,Dodô,Pass
+523490,45,BlockedShot,0.7909999847412109,0.40700000762939453,0.047156378626823425,Nicolás González,h,7074,OpenPlay,2022,LeftFoot,18894,Fiorentina,Sampdoria,5,0,2023-04-30 16:00:00,Luka Jovic,Pass
+523491,50,SavedShot,0.7719999694824219,0.4779999923706055,0.04038118198513985,Nicolás González,h,7074,OpenPlay,2022,LeftFoot,18894,Fiorentina,Sampdoria,5,0,2023-04-30 16:00:00,Alfred Duncan,Pass
+523930,4,BlockedShot,0.84,0.3890000152587891,0.04820410534739494,Nicolás González,a,7074,SetPiece,2022,LeftFoot,18909,Salernitana,Fiorentina,3,3,2023-05-03 16:00:00,,None
+523932,24,BlockedShot,0.8469999694824218,0.6359999847412109,0.017060449346899986,Nicolás González,a,7074,OpenPlay,2022,RightFoot,18909,Salernitana,Fiorentina,3,3,2023-05-03 16:00:00,Arthur Cabral,Aerial
+523934,32,MissedShots,0.955,0.6940000152587891,0.19641585648059845,Nicolás González,a,7074,OpenPlay,2022,LeftFoot,18909,Salernitana,Fiorentina,3,3,2023-05-03 16:00:00,Jonathan Ikone,Pass
+523935,35,Goal,0.9359999847412109,0.5070000076293946,0.3486436605453491,Nicolás González,a,7074,OpenPlay,2022,Head,18909,Salernitana,Fiorentina,3,3,2023-05-03 16:00:00,Dodô,Aerial
+523939,65,MissedShots,0.885,0.7280000305175781,0.02228032983839512,Nicolás González,a,7074,OpenPlay,2022,LeftFoot,18909,Salernitana,Fiorentina,3,3,2023-05-03 16:00:00,Dodô,Cross
+525219,79,MissedShots,0.8730000305175781,0.46599998474121096,0.09633861482143402,Nicolás González,a,7074,OpenPlay,2022,LeftFoot,18917,Napoli,Fiorentina,1,0,2023-05-07 16:00:00,Lorenzo Venuti,Pass
+525223,89,MissedShots,0.904000015258789,0.3529999923706055,0.009497184306383133,Nicolás González,a,7074,OpenPlay,2022,Head,18917,Napoli,Fiorentina,1,0,2023-05-07 16:00:00,Aleksa Terzic,Aerial
+526462,46,MissedShots,0.7819999694824219,0.3079999923706055,0.027490144595503807,Nicolás González,h,7074,OpenPlay,2022,RightFoot,18923,Fiorentina,Udinese,2,0,2023-05-14 13:00:00,Alfred Duncan,Pass
+526465,51,MissedShots,0.9069999694824219,0.5179999923706055,0.04722966253757477,Nicolás González,h,7074,SetPiece,2022,Head,18923,Fiorentina,Udinese,2,0,2023-05-14 13:00:00,Gaetano Castrovilli,Aerial
+526468,67,MissedShots,0.745999984741211,0.46099998474121096,0.015051009133458138,Nicolás González,h,7074,OpenPlay,2022,LeftFoot,18923,Fiorentina,Udinese,2,0,2023-05-14 13:00:00,,Aerial
+526471,79,MissedShots,0.9280000305175782,0.31,0.06928463280200958,Nicolás González,h,7074,OpenPlay,2022,LeftFoot,18923,Fiorentina,Udinese,2,0,2023-05-14 13:00:00,,None
+526472,86,BlockedShot,0.8830000305175781,0.6379999923706055,0.2956681549549103,Nicolás González,h,7074,OpenPlay,2022,LeftFoot,18923,Fiorentina,Udinese,2,0,2023-05-14 13:00:00,Josip Brekalo,Pass
+526474,92,SavedShot,0.9269999694824219,0.30200000762939455,0.13309518992900848,Nicolás González,h,7074,OpenPlay,2022,RightFoot,18923,Fiorentina,Udinese,2,0,2023-05-14 13:00:00,Giacomo Bonaventura,Chipped
+530300,82,Goal,0.9669999694824218,0.4370000076293945,0.4935837686061859,Nicolás González,a,7074,OpenPlay,2022,Head,18959,Sassuolo,Fiorentina,1,3,2023-06-02 18:30:00,Riccardo Saponara,Cross
+530301,92,MissedShots,0.774000015258789,0.29,0.05152612179517746,Nicolás González,a,7074,DirectFreekick,2022,LeftFoot,18959,Sassuolo,Fiorentina,1,3,2023-06-02 18:30:00,,Standard
+533561,10,SavedShot,0.7630000305175781,0.3120000076293945,0.024473264813423157,Nicolás González,a,7074,OpenPlay,2023,LeftFoot,22308,Genoa,Fiorentina,1,4,2023-08-19 18:45:00,Josip Brekalo,Pass
+533564,39,Goal,0.9180000305175782,0.5529999923706055,0.07683327794075012,Nicolás González,a,7074,FromCorner,2023,Head,22308,Genoa,Fiorentina,1,4,2023-08-19 18:45:00,Cristiano Biraghi,Cross
+535503,2,Goal,0.9219999694824219,0.519000015258789,0.047985028475522995,Nicolás González,h,7074,FromCorner,2023,Head,22319,Fiorentina,Lecce,2,2,2023-08-27 16:30:00,Alfred Duncan,Aerial
+535510,50,MissedShots,0.915,0.46099998474121096,0.05843136087059975,Nicolás González,h,7074,OpenPlay,2023,Head,22319,Fiorentina,Lecce,2,2,2023-08-27 16:30:00,Alfred Duncan,Aerial
+535511,52,MissedShots,0.9369999694824219,0.44599998474121094,0.07637040317058563,Nicolás González,h,7074,OpenPlay,2023,Head,22319,Fiorentina,Lecce,2,2,2023-08-27 16:30:00,Alfred Duncan,Aerial
+535512,52,BlockedShot,0.8730000305175781,0.23399999618530273,0.02691040374338627,Nicolás González,h,7074,OpenPlay,2023,LeftFoot,22319,Fiorentina,Lecce,2,2,2023-08-27 16:30:00,Lucas Beltrán,Pass
+538461,50,MissedShots,0.7859999847412109,0.4,0.04034107178449631,Nicolás González,h,7074,OpenPlay,2023,LeftFoot,22341,Fiorentina,Atalanta,3,2,2023-09-17 16:00:00,Alfred Duncan,Pass
+538463,59,MissedShots,0.92,0.35700000762939454,0.29330241680145264,Nicolás González,h,7074,OpenPlay,2023,LeftFoot,22341,Fiorentina,Atalanta,3,2,2023-09-17 16:00:00,Dodô,Chipped
+540509,7,MissedShots,0.7419999694824219,0.5459999847412109,0.022949213162064552,Nicolás González,a,7074,OpenPlay,2023,LeftFoot,22364,Frosinone,Fiorentina,1,1,2023-09-28 16:30:00,Arthur,Pass
+540513,17,BlockedShot,0.865999984741211,0.4779999923706055,0.10013746470212936,Nicolás González,a,7074,OpenPlay,2023,LeftFoot,22364,Frosinone,Fiorentina,1,1,2023-09-28 16:30:00,M&#039;Bala Nzola,Pass
+540515,18,Goal,0.915,0.34700000762939454,0.024466032162308693,Nicolás González,a,7074,OpenPlay,2023,Head,22364,Frosinone,Fiorentina,1,1,2023-09-28 16:30:00,Alfred Duncan,Chipped
+542111,2,Goal,0.9330000305175781,0.46,0.48802611231803894,Nicolás González,h,7074,SetPiece,2023,LeftFoot,22368,Fiorentina,Cagliari,3,0,2023-10-02 18:45:00,Lucas Beltrán,BallTouch
+542112,7,MissedShots,0.7519999694824219,0.30100000381469727,0.02243025228381157,Nicolás González,h,7074,OpenPlay,2023,LeftFoot,22368,Fiorentina,Cagliari,3,0,2023-10-02 18:45:00,Lucas Martínez Quarta,Chipped
+542114,12,BlockedShot,0.845999984741211,0.4929999923706055,0.09218057245016098,Nicolás González,h,7074,OpenPlay,2023,LeftFoot,22368,Fiorentina,Cagliari,3,0,2023-10-02 18:45:00,Arthur,BallTouch
+542115,17,MissedShots,0.855999984741211,0.24899999618530275,0.048343025147914886,Nicolás González,h,7074,OpenPlay,2023,LeftFoot,22368,Fiorentina,Cagliari,3,0,2023-10-02 18:45:00,Michael Kayode,TakeOn
+542118,26,MissedShots,0.9259999847412109,0.42200000762939455,0.04418462514877319,Nicolás González,h,7074,OpenPlay,2023,Head,22368,Fiorentina,Cagliari,3,0,2023-10-02 18:45:00,Giacomo Bonaventura,Aerial
+542123,43,MissedShots,0.850999984741211,0.28200000762939453,0.03984753042459488,Nicolás González,h,7074,OpenPlay,2023,RightFoot,22368,Fiorentina,Cagliari,3,0,2023-10-02 18:45:00,Giacomo Bonaventura,Pass
+543523,92,Goal,0.9269999694824219,0.524000015258789,0.6731283068656921,Nicolás González,a,7074,OpenPlay,2023,RightFoot,22384,Napoli,Fiorentina,1,3,2023-10-08 18:45:00,Fabiano Parisi,Pass
+545008,11,MissedShots,0.9569999694824218,0.34900001525878904,0.06672408431768417,Nicolás González,h,7074,OpenPlay,2023,LeftFoot,22389,Fiorentina,Empoli,0,2,2023-10-23 18:45:00,,None
+545007,11,SavedShot,0.9519999694824218,0.41700000762939454,0.0531301349401474,Nicolás González,h,7074,OpenPlay,2023,Head,22389,Fiorentina,Empoli,0,2,2023-10-23 18:45:00,Giacomo Bonaventura,Aerial
+545025,77,MissedShots,0.870999984741211,0.4590000152587891,0.023453455418348312,Nicolás González,h,7074,OpenPlay,2023,Head,22389,Fiorentina,Empoli,0,2,2023-10-23 18:45:00,Giacomo Bonaventura,Foul
+545029,94,SavedShot,0.89,0.535,0.04509399086236954,Nicolás González,h,7074,OpenPlay,2023,Head,22389,Fiorentina,Empoli,0,2,2023-10-23 18:45:00,Giacomo Bonaventura,Aerial
+546436,36,SavedShot,0.960999984741211,0.66,0.11954909563064575,Nicolás González,a,7074,OpenPlay,2023,LeftFoot,22402,Lazio,Fiorentina,1,0,2023-10-30 19:45:00,Jonathan Ikone,Throughball
+546441,64,MissedShots,0.8919999694824219,0.6959999847412109,0.05591200292110443,Nicolás González,a,7074,OpenPlay,2023,LeftFoot,22402,Lazio,Fiorentina,1,0,2023-10-30 19:45:00,Fabiano Parisi,Pass
+547649,22,SavedShot,0.8580000305175781,0.27,0.03500174731016159,Nicolás González,h,7074,OpenPlay,2023,LeftFoot,22408,Fiorentina,Juventus,0,1,2023-11-05 19:45:00,Arthur,Pass
+547650,28,SavedShot,0.7930000305175782,0.63,0.012179904617369175,Nicolás González,h,7074,OpenPlay,2023,LeftFoot,22408,Fiorentina,Juventus,0,1,2023-11-05 19:45:00,,Aerial
+547652,33,BlockedShot,0.759000015258789,0.325,0.0185378585010767,Nicolás González,h,7074,OpenPlay,2023,LeftFoot,22408,Fiorentina,Juventus,0,1,2023-11-05 19:45:00,Arthur,Pass
+547669,71,BlockedShot,0.7909999847412109,0.425,0.03428078442811966,Nicolás González,h,7074,OpenPlay,2023,LeftFoot,22408,Fiorentina,Juventus,0,1,2023-11-05 19:45:00,Fabiano Parisi,Pass
+547672,86,BlockedShot,0.8240000152587891,0.27299999237060546,0.02508767880499363,Nicolás González,h,7074,OpenPlay,2023,LeftFoot,22408,Fiorentina,Juventus,0,1,2023-11-05 19:45:00,Giacomo Bonaventura,Pass
+548787,6,BlockedShot,0.7090000152587891,0.3039999961853027,0.014135830104351044,Nicolás González,h,7074,OpenPlay,2023,LeftFoot,22420,Fiorentina,Bologna,2,1,2023-11-12 14:00:00,Arthur,Pass
+548789,13,SavedShot,0.8530000305175781,0.33599998474121096,0.053576186299324036,Nicolás González,h,7074,OpenPlay,2023,LeftFoot,22420,Fiorentina,Bologna,2,1,2023-11-12 14:00:00,Nikola Milenkovic,TakeOn
+548798,47,Goal,0.885,0.5,0.7612988352775574,Nicolás González,h,7074,Penalty,2023,LeftFoot,22420,Fiorentina,Bologna,2,1,2023-11-12 14:00:00,,Standard
+548799,50,BlockedShot,0.9009999847412109,0.649000015258789,0.08925449848175049,Nicolás González,h,7074,OpenPlay,2023,LeftFoot,22420,Fiorentina,Bologna,2,1,2023-11-12 14:00:00,Cristiano Biraghi,Pass
+548804,81,MissedShots,0.9590000152587891,0.3870000076293945,0.38043245673179626,Nicolás González,h,7074,OpenPlay,2023,RightFoot,22420,Fiorentina,Bologna,2,1,2023-11-12 14:00:00,Christian Kouamé,Throughball
+550011,39,MissedShots,0.784000015258789,0.37799999237060544,0.02894752472639084,Nicolás González,a,7074,OpenPlay,2023,LeftFoot,22433,AC Milan,Fiorentina,1,0,2023-11-25 19:45:00,Alfred Duncan,Pass
+550017,53,MissedShots,0.7980000305175782,0.4779999923706055,0.04793019965291023,Nicolás González,a,7074,OpenPlay,2023,LeftFoot,22433,AC Milan,Fiorentina,1,0,2023-11-25 19:45:00,Lucas Beltrán,Pass
+550020,61,BlockedShot,0.935,0.30100000381469727,0.0524190291762352,Nicolás González,a,7074,OpenPlay,2023,RightFoot,22433,AC Milan,Fiorentina,1,0,2023-11-25 19:45:00,Lucas Beltrán,Pass
+550021,61,SavedShot,0.855,0.5920000076293945,0.06909001618623734,Nicolás González,a,7074,OpenPlay,2023,LeftFoot,22433,AC Milan,Fiorentina,1,0,2023-11-25 19:45:00,Lucas Beltrán,Pass
+550022,62,MissedShots,0.914000015258789,0.4420000076293945,0.032252855598926544,Nicolás González,a,7074,OpenPlay,2023,Head,22433,AC Milan,Fiorentina,1,0,2023-11-25 19:45:00,Alfred Duncan,Aerial
+550028,85,SavedShot,0.9080000305175782,0.46299999237060546,0.08707643300294876,Nicolás González,a,7074,OpenPlay,2023,LeftFoot,22433,AC Milan,Fiorentina,1,0,2023-11-25 19:45:00,,None
+550033,94,BlockedShot,0.8730000305175781,0.674000015258789,0.04608013853430748,Nicolás González,a,7074,OpenPlay,2023,LeftFoot,22433,AC Milan,Fiorentina,1,0,2023-11-25 19:45:00,,Rebound
+553774,72,SavedShot,0.965,0.39299999237060546,0.0341009795665741,Nicolás González,a,7074,OpenPlay,2023,Head,22453,Roma,Fiorentina,1,1,2023-12-10 19:45:00,Giacomo Bonaventura,Chipped
+560425,75,SavedShot,0.885,0.5,0.7612988352775574,Nicolás González,h,7074,Penalty,2023,LeftFoot,22522,Fiorentina,Inter,0,1,2024-01-28 19:45:00,,Standard
+560427,84,MissedShots,0.799000015258789,0.24899999618530275,0.019192637875676155,Nicolás González,h,7074,OpenPlay,2023,LeftFoot,22522,Fiorentina,Inter,0,1,2024-01-28 19:45:00,Lucas Martínez Quarta,Pass
+562818,11,MissedShots,0.9369999694824219,0.5209999847412109,0.398965448141098,Nicolás González,h,7074,FromCorner,2023,Head,22537,Fiorentina,Frosinone,5,1,2024-02-11 11:30:00,Cristiano Biraghi,Cross
+562829,36,MissedShots,0.914000015258789,0.585,0.13625375926494598,Nicolás González,h,7074,OpenPlay,2023,LeftFoot,22537,Fiorentina,Frosinone,5,1,2024-02-11 11:30:00,Jonathan Ikone,Pass
+562834,52,Goal,0.88,0.6029999923706054,0.10089289397001266,Nicolás González,h,7074,OpenPlay,2023,RightFoot,22537,Fiorentina,Frosinone,5,1,2024-02-11 11:30:00,Alfred Duncan,HeadPass
+563448,9,MissedShots,0.9680000305175781,0.705999984741211,0.04215134680271149,Nicolás González,a,7074,OpenPlay,2023,LeftFoot,22505,Bologna,Fiorentina,2,0,2024-02-14 18:00:00,Rolando Mandragora,Chipped
+565989,17,SavedShot,0.8680000305175781,0.3609999847412109,0.28673309087753296,Nicolás González,h,7074,OpenPlay,2023,LeftFoot,22557,Fiorentina,Lazio,2,1,2024-02-26 19:45:00,Lucas Beltrán,Pass
+565994,40,ShotOnPost,0.9919999694824219,0.4229999923706055,0.08662727475166321,Nicolás González,h,7074,FromCorner,2023,Head,22557,Fiorentina,Lazio,2,1,2024-02-26 19:45:00,Cristiano Biraghi,KeeperPickup
+565997,54,BlockedShot,0.8819999694824219,0.5579999923706055,0.03352668881416321,Nicolás González,h,7074,SetPiece,2023,Head,22557,Fiorentina,Lazio,2,1,2024-02-26 19:45:00,Lucas Beltrán,Cross
+565999,55,MissedShots,0.775,0.37400001525878906,0.02425217255949974,Nicolás González,h,7074,OpenPlay,2023,LeftFoot,22557,Fiorentina,Lazio,2,1,2024-02-26 19:45:00,Lucas Beltrán,Pass
+566002,66,ShotOnPost,0.885,0.5,0.7612988352775574,Nicolás González,h,7074,Penalty,2023,LeftFoot,22557,Fiorentina,Lazio,2,1,2024-02-26 19:45:00,,Standard
+566006,93,BlockedShot,0.8540000152587891,0.3579999923706055,0.09865082055330276,Nicolás González,h,7074,OpenPlay,2023,LeftFoot,22557,Fiorentina,Lazio,2,1,2024-02-26 19:45:00,Giacomo Bonaventura,Pass
+566883,24,MissedShots,0.894000015258789,0.5529999923706055,0.06095350906252861,Nicolás González,a,7074,OpenPlay,2023,Head,22571,Torino,Fiorentina,0,0,2024-03-02 19:45:00,Cristiano Biraghi,Cross
+566884,33,MissedShots,0.904000015258789,0.4909999847412109,0.07092294096946716,Nicolás González,a,7074,FromCorner,2023,Head,22571,Torino,Fiorentina,0,0,2024-03-02 19:45:00,Cristiano Biraghi,Cross
+566893,75,SavedShot,0.7280000305175781,0.4620000076293945,0.017832109704613686,Nicolás González,a,7074,OpenPlay,2023,LeftFoot,22571,Torino,Fiorentina,0,0,2024-03-02 19:45:00,Jonathan Ikone,Pass
+566898,91,SavedShot,0.7819999694824219,0.3729999923706055,0.020379016175866127,Nicolás González,a,7074,OpenPlay,2023,LeftFoot,22571,Torino,Fiorentina,0,0,2024-03-02 19:45:00,Maxime Lopez,TakeOn
+568888,17,BlockedShot,0.7609999847412109,0.47299999237060547,0.022854067385196686,Nicolás González,h,7074,OpenPlay,2023,LeftFoot,22577,Fiorentina,Roma,2,2,2024-03-10 19:45:00,,None
+568892,23,MissedShots,0.9290000152587891,0.5579999923706055,0.09154104441404343,Nicolás González,h,7074,FromCorner,2023,Head,22577,Fiorentina,Roma,2,2,2024-03-10 19:45:00,Cristiano Biraghi,Cross
+571032,69,BlockedShot,0.885,0.44599998474121094,0.06901805847883224,Nicolás González,h,7074,FromCorner,2023,RightFoot,22601,Fiorentina,AC Milan,1,2,2024-03-30 19:45:00,Rolando Mandragora,BallTouch
+571034,92,SavedShot,0.925,0.4490000152587891,0.3086847960948944,Nicolás González,h,7074,SetPiece,2023,Head,22601,Fiorentina,AC Milan,1,2,2024-03-30 19:45:00,Cristiano Biraghi,Cross
+573186,73,SavedShot,0.7859999847412109,0.29700000762939455,0.021176747977733612,Nicolás González,a,7074,OpenPlay,2023,LeftFoot,22605,Juventus,Fiorentina,1,0,2024-04-07 18:45:00,Maxime Lopez,Pass
+573192,89,MissedShots,0.9109999847412109,0.4379999923706055,0.06562867760658264,Nicolás González,a,7074,OpenPlay,2023,Head,22605,Juventus,Fiorentina,1,0,2024-04-07 18:45:00,Cristiano Biraghi,Cross
+573193,90,MissedShots,0.915,0.445,0.037433307617902756,Nicolás González,a,7074,OpenPlay,2023,Head,22605,Juventus,Fiorentina,1,0,2024-04-07 18:45:00,Cristiano Biraghi,Aerial
+574543,58,BlockedShot,0.77,0.36400001525878906,0.06542351841926575,Nicolás González,h,7074,DirectFreekick,2023,LeftFoot,22623,Fiorentina,Genoa,1,1,2024-04-15 16:30:00,,Standard
+574549,84,MissedShots,0.9109999847412109,0.659000015258789,0.06160948798060417,Nicolás González,h,7074,OpenPlay,2023,LeftFoot,22623,Fiorentina,Genoa,1,1,2024-04-15 16:30:00,,None
+577743,53,SavedShot,0.84,0.34200000762939453,0.060188744217157364,Nicolás González,h,7074,OpenPlay,2023,LeftFoot,22643,Fiorentina,Sassuolo,5,1,2024-04-28 18:45:00,Antonin Barak,Pass
+577746,57,Goal,0.9640000152587891,0.5029999923706054,0.6701382994651794,Nicolás González,h,7074,OpenPlay,2023,Head,22643,Fiorentina,Sassuolo,5,1,2024-04-28 18:45:00,Riccardo Sottil,Cross
+577748,65,Goal,0.8859999847412109,0.46599998474121096,0.13772070407867432,Nicolás González,h,7074,OpenPlay,2023,LeftFoot,22643,Fiorentina,Sassuolo,5,1,2024-04-28 18:45:00,Antonin Barak,Pass
+577752,71,MissedShots,0.91,0.5540000152587891,0.40587204694747925,Nicolás González,h,7074,OpenPlay,2023,LeftFoot,22643,Fiorentina,Sassuolo,5,1,2024-04-28 18:45:00,Riccardo Sottil,Cross
+577754,87,MissedShots,0.7130000305175781,0.57,0.02102060802280903,Nicolás González,h,7074,OpenPlay,2023,LeftFoot,22643,Fiorentina,Sassuolo,5,1,2024-04-28 18:45:00,Fabiano Parisi,Pass
+580853,4,SavedShot,0.8109999847412109,0.5279999923706055,0.0548093356192112,Nicolás González,h,7074,OpenPlay,2023,LeftFoot,22656,Fiorentina,Monza,2,1,2024-05-13 18:45:00,M&#039;Bala Nzola,BallRecovery
+580859,31,Goal,0.960999984741211,0.5520000076293945,0.40038979053497314,Nicolás González,h,7074,OpenPlay,2023,Head,22656,Fiorentina,Monza,2,1,2024-05-13 18:45:00,Antonin Barak,Cross
+580862,35,SavedShot,0.9159999847412109,0.3039999961853027,0.12148285657167435,Nicolás González,h,7074,OpenPlay,2023,LeftFoot,22656,Fiorentina,Monza,2,1,2024-05-13 18:45:00,,TakeOn
+580864,51,SavedShot,0.754000015258789,0.30700000762939456,0.015136424452066422,Nicolás González,h,7074,OpenPlay,2023,LeftFoot,22656,Fiorentina,Monza,2,1,2024-05-13 18:45:00,Arthur,BallRecovery
+580865,51,MissedShots,0.7569999694824219,0.445,0.025681065395474434,Nicolás González,h,7074,OpenPlay,2023,LeftFoot,22656,Fiorentina,Monza,2,1,2024-05-13 18:45:00,Gaetano Castrovilli,LayOff
+581381,24,BlockedShot,0.8080000305175781,0.3679999923706055,0.03394655883312225,Nicolás González,h,7074,OpenPlay,2023,LeftFoot,22666,Fiorentina,Napoli,2,2,2024-05-17 16:00:00,,None
+581387,45,MissedShots,0.9119999694824219,0.4520000076293945,0.06035114452242851,Nicolás González,h,7074,OpenPlay,2023,Head,22666,Fiorentina,Napoli,2,2,2024-05-17 16:00:00,Cristiano Biraghi,Aerial
+581388,47,SavedShot,0.7680000305175781,0.27,0.016961630433797836,Nicolás González,h,7074,OpenPlay,2023,LeftFoot,22666,Fiorentina,Napoli,2,2,2024-05-17 16:00:00,Dodô,Pass
+581396,73,MissedShots,0.785,0.6509999847412109,0.07260280847549438,Nicolás González,h,7074,DirectFreekick,2023,LeftFoot,22666,Fiorentina,Napoli,2,2,2024-05-17 16:00:00,,Standard
+582994,88,Goal,0.9669999694824218,0.5279999923706055,0.6184802055358887,Nicolás González,a,7074,SetPiece,2023,LeftFoot,22676,Cagliari,Fiorentina,2,3,2024-05-24 16:00:00,Cristiano Biraghi,Cross
+583725,18,Goal,0.860999984741211,0.43900001525878907,0.06262139230966568,Nicolás González,a,7074,OpenPlay,2023,LeftFoot,22585,Atalanta,Fiorentina,2,3,2024-06-02 16:00:00,Cristiano Biraghi,Cross
+583736,71,SavedShot,0.7809999847412109,0.49900001525878906,0.013936684466898441,Nicolás González,a,7074,OpenPlay,2023,Head,22585,Atalanta,Fiorentina,2,3,2024-06-02 16:00:00,Cristiano Biraghi,Chipped
+583738,78,MissedShots,0.795,0.4229999923706055,0.014282703399658203,Nicolás González,a,7074,FromCorner,2023,LeftFoot,22585,Atalanta,Fiorentina,2,3,2024-06-02 16:00:00,Andrea Belotti,HeadPass
+590925,26,BlockedShot,0.8569999694824219,0.33,0.052299920469522476,Nicolás González,a,7074,OpenPlay,2024,LeftFoot,27392,Empoli,Juventus,0,0,2024-09-14 16:00:00,Pierre Kalulu Kyatengwa,Pass
+592607,47,MissedShots,0.700999984741211,0.3659999847412109,0.016900019720196724,Nicolás González,h,7074,OpenPlay,2024,RightFoot,27407,Juventus,Napoli,0,0,2024-09-21 16:00:00,Nicolò Savona,Pass
+608919,5,SavedShot,0.81,0.5120000076293946,0.05152539163827896,Nicolás González,a,7074,OpenPlay,2024,LeftFoot,27528,Monza,Juventus,1,2,2024-12-22 19:45:00,Dusan Vlahovic,Pass
+608921,12,SavedShot,0.8980000305175782,0.5029999923706054,0.04194729030132294,Nicolás González,a,7074,FromCorner,2024,Head,27528,Monza,Juventus,1,2,2024-12-22 19:45:00,,None
+608925,38,Goal,0.9619999694824218,0.48200000762939454,0.587627112865448,Nicolás González,a,7074,OpenPlay,2024,RightFoot,27528,Monza,Juventus,1,2,2024-12-22 19:45:00,Manuel Locatelli,BallTouch
+608935,53,SavedShot,0.7469999694824219,0.3870000076293945,0.024407701566815376,Nicolás González,a,7074,OpenPlay,2024,LeftFoot,27528,Monza,Juventus,1,2,2024-12-22 19:45:00,Francisco Conceição,Pass
+608936,53,MissedShots,0.9430000305175781,0.495,0.2968806028366089,Nicolás González,a,7074,FromCorner,2024,Head,27528,Monza,Juventus,1,2,2024-12-22 19:45:00,Kenan Yildiz,Aerial
+608937,54,SavedShot,0.7630000305175781,0.415,0.030794842168688774,Nicolás González,a,7074,OpenPlay,2024,LeftFoot,27528,Monza,Juventus,1,2,2024-12-22 19:45:00,Francisco Conceição,Pass
+609576,82,MissedShots,0.8959999847412109,0.7169999694824218,0.0816221758723259,Nicolás González,h,7074,OpenPlay,2024,LeftFoot,27537,Juventus,Fiorentina,2,2,2024-12-29 17:00:00,Kenan Yildiz,Pass
+610798,54,SavedShot,0.8819999694824219,0.4779999923706055,0.08786506950855255,Nicolás González,a,7074,OpenPlay,2024,LeftFoot,27555,Torino,Juventus,1,1,2025-01-11 17:00:00,Samuel Mbangula,Chipped
+610802,75,SavedShot,0.8880000305175781,0.4420000076293945,0.07850714027881622,Nicolás González,a,7074,OpenPlay,2024,LeftFoot,27555,Torino,Juventus,1,1,2025-01-11 17:00:00,Samuel Mbangula,Cross
+610809,87,SavedShot,0.8969999694824219,0.47299999237060547,0.09933511167764664,Nicolás González,a,7074,OpenPlay,2024,LeftFoot,27555,Torino,Juventus,1,1,2025-01-11 17:00:00,Andrea Cambiaso,Cross
+611550,43,ShotOnPost,0.8230000305175781,0.53,0.0473281629383564,Nicolás González,a,7074,OpenPlay,2024,LeftFoot,27542,Atalanta,Juventus,1,1,2025-01-14 19:45:00,,Rebound
+611553,46,SavedShot,0.830999984741211,0.4909999847412109,0.03496568650007248,Nicolás González,a,7074,FromCorner,2024,LeftFoot,27542,Atalanta,Juventus,1,1,2025-01-14 19:45:00,Kephren Thuram,HeadPass
+611557,49,SavedShot,0.9309999847412109,0.5329999923706055,0.05809520184993744,Nicolás González,a,7074,FromCorner,2024,Head,27542,Atalanta,Juventus,1,1,2025-01-14 19:45:00,,Aerial
+612375,26,BlockedShot,0.9080000305175782,0.37,0.11870530247688293,Nicolás González,h,7074,OpenPlay,2024,LeftFoot,27568,Juventus,AC Milan,2,0,2025-01-18 17:00:00,Kenan Yildiz,Pass
+612379,42,MissedShots,0.9059999847412109,0.5929999923706055,0.030415821820497513,Nicolás González,h,7074,OpenPlay,2024,Head,27568,Juventus,AC Milan,2,0,2025-01-18 17:00:00,Samuel Mbangula,Aerial
+613506,29,MissedShots,0.715,0.47900001525878905,0.014538668096065521,Nicolás González,a,7074,OpenPlay,2024,LeftFoot,27577,Napoli,Juventus,2,1,2025-01-25 17:00:00,,BallRecovery
+615328,23,SavedShot,0.8880000305175781,0.5129999923706055,0.09272054582834244,Nicolás González,h,7074,OpenPlay,2024,LeftFoot,27582,Juventus,Empoli,4,1,2025-02-02 11:30:00,Weston McKennie,Cross
+615330,25,MissedShots,0.9,0.5309999847412109,0.0354808084666729,Nicolás González,h,7074,SetPiece,2024,Head,27582,Juventus,Empoli,4,1,2025-02-02 11:30:00,Teun Koopmeiners,Aerial
+615342,54,MissedShots,0.909000015258789,0.45799999237060546,0.0686822161078453,Nicolás González,h,7074,FromCorner,2024,Head,27582,Juventus,Empoli,4,1,2025-02-02 11:30:00,Kenan Yildiz,Cross
+615343,55,SavedShot,0.8980000305175782,0.5059999847412109,0.03645460680127144,Nicolás González,h,7074,SetPiece,2024,Head,27582,Juventus,Empoli,4,1,2025-02-02 11:30:00,Teun Koopmeiners,Aerial
+616520,28,MissedShots,0.8519999694824218,0.33099998474121095,0.050241224467754364,Nicolás González,a,7074,OpenPlay,2024,LeftFoot,27592,Como,Juventus,1,2,2025-02-07 17:00:00,Weston McKennie,Pass
+616531,69,MissedShots,0.7430000305175781,0.3089999961853027,0.01401557307690382,Nicolás González,a,7074,OpenPlay,2024,LeftFoot,27592,Como,Juventus,1,2,2025-02-07 17:00:00,Weston McKennie,BallTouch
+616532,75,MissedShots,0.8980000305175782,0.695,0.04349355399608612,Nicolás González,a,7074,SetPiece,2024,LeftFoot,27592,Como,Juventus,1,2,2025-02-07 17:00:00,,None
+617946,2,MissedShots,0.8969999694824219,0.605,0.10980761051177979,Nicolás González,h,7074,OpenPlay,2024,LeftFoot,27610,Juventus,Inter,1,0,2025-02-16 19:45:00,Weston McKennie,Pass
+617952,21,SavedShot,0.865,0.7390000152587891,0.03138657659292221,Nicolás González,h,7074,OpenPlay,2024,LeftFoot,27610,Juventus,Inter,1,0,2025-02-16 19:45:00,Timothy Weah,Chipped
+620839,32,MissedShots,0.94,0.5690000152587891,0.04310135543346405,Nicolás González,h,7074,FromCorner,2024,Head,27626,Juventus,Verona,2,0,2025-03-03 19:45:00,,Foul
+620850,58,SavedShot,0.8919999694824219,0.5109999847412109,0.0679631233215332,Nicolás González,h,7074,OpenPlay,2024,Head,27626,Juventus,Verona,2,0,2025-03-03 19:45:00,Timothy Weah,Cross
+623612,42,BlockedShot,0.9,0.48200000762939454,0.0845387876033783,Nicolás González,a,7074,SetPiece,2024,RightFoot,27644,Fiorentina,Juventus,3,0,2025-03-16 17:00:00,,None
+624270,18,MissedShots,0.970999984741211,0.6170000076293946,0.014473446644842625,Nicolás González,h,7074,FromCorner,2024,Head,27659,Juventus,Genoa,1,0,2025-03-29 17:00:00,,Aerial
+626581,26,SavedShot,0.9059999847412109,0.485,0.31904155015945435,Nicolás González,a,7074,OpenPlay,2024,Head,27662,Roma,Juventus,1,1,2025-04-06 18:45:00,Timothy Weah,Cross
+626584,33,BlockedShot,0.76,0.415,0.022599581629037857,Nicolás González,a,7074,OpenPlay,2024,LeftFoot,27662,Roma,Juventus,1,1,2025-04-06 18:45:00,Kenan Yildiz,Chipped
+627437,35,MissedShots,0.909000015258789,0.3340000152587891,0.10201995074748993,Nicolás González,h,7074,OpenPlay,2024,LeftFoot,27673,Juventus,Lecce,2,1,2025-04-12 18:45:00,Manuel Locatelli,Chipped
+629692,35,BlockedShot,0.815,0.47200000762939454,0.04940519854426384,Nicolás González,a,7074,OpenPlay,2024,LeftFoot,27689,Parma Calcio 1913,Juventus,1,0,2025-04-23 16:30:00,Randal Kolo Muani,Pass
+630893,10,Goal,0.725999984741211,0.49,0.020340394228696823,Nicolás González,h,7074,OpenPlay,2024,LeftFoot,27692,Juventus,Monza,2,0,2025-04-27 16:00:00,Renato Veiga,Pass
+630903,57,SavedShot,0.919000015258789,0.37799999237060544,0.3874046802520752,Nicolás González,h,7074,OpenPlay,2024,LeftFoot,27692,Juventus,Monza,2,0,2025-04-27 16:00:00,Randal Kolo Muani,TakeOn
+632267,56,SavedShot,0.870999984741211,0.33299999237060546,0.058111291378736496,Nicolás González,a,7074,OpenPlay,2024,LeftFoot,27702,Bologna,Juventus,1,1,2025-05-04 18:45:00,Weston McKennie,Pass
+632857,15,SavedShot,0.9,0.51,0.022103002294898033,Nicolás González,a,7074,FromCorner,2024,Head,27716,Lazio,Juventus,1,1,2025-05-10 16:00:00,Manuel Locatelli,Aerial
+635462,42,MissedShots,0.9280000305175782,0.48400001525878905,0.34702563285827637,Nicolás González,h,7074,FromCorner,2024,Head,27731,Juventus,Udinese,2,0,2025-05-18 18:45:00,Andrea Cambiaso,Cross
+635464,46,SavedShot,0.7859999847412109,0.30100000381469727,0.016861937940120697,Nicolás González,h,7074,OpenPlay,2024,LeftFoot,27731,Juventus,Udinese,2,0,2025-05-18 18:45:00,Francisco Conceição,Pass
+635469,60,Goal,0.9009999847412109,0.4209999847412109,0.3862937092781067,Nicolás González,h,7074,OpenPlay,2024,LeftFoot,27731,Juventus,Udinese,2,0,2025-05-18 18:45:00,Kenan Yildiz,Pass
+636517,49,BlockedShot,0.8469999694824218,0.46,0.1168137714266777,Nicolás González,a,7074,OpenPlay,2024,LeftFoot,27732,Venezia,Juventus,2,3,2025-05-25 18:45:00,,TakeOn
+636520,53,BlockedShot,0.9390000152587891,0.4620000076293945,0.06148170679807663,Nicolás González,a,7074,FromCorner,2024,Head,27732,Venezia,Juventus,2,3,2025-05-25 18:45:00,Kenan Yildiz,Aerial
+636524,66,MissedShots,0.8059999847412109,0.34900001525878904,0.03303908929228783,Nicolás González,a,7074,OpenPlay,2024,LeftFoot,27732,Venezia,Juventus,2,3,2025-05-25 18:45:00,Francisco Conceição,Pass
+639733,80,MissedShots,0.96,0.5670000076293945,0.059472788125276566,Nicolás González,h,7074,FromCorner,2025,Head,29851,Juventus,Parma Calcio 1913,2,0,2025-08-24 18:45:00,Andrea Cambiaso,Aerial
+641000,87,BlockedShot,0.7240000152587891,0.6609999847412109,0.022318733856081963,Nicolás González,a,7074,OpenPlay,2025,LeftFoot,29860,Genoa,Juventus,0,1,2025-08-31 16:30:00,Lloyd Kelly,Pass
+642024,51,Goal,0.92,0.5570000076293945,0.5648157596588135,Nicolás González,h,7074,OpenPlay,2025,Head,29193,Atletico Madrid,Villarreal,2,0,2025-09-13 19:00:00,Marcos Llorente,Aerial
+643742,2,MissedShots,0.9,0.49700000762939456,0.07512589544057846,Nicolás González,a,7074,FromCorner,2025,Head,29204,Mallorca,Atletico Madrid,1,1,2025-09-21 14:15:00,Giacomo Raspadori,Cross
+643747,39,SavedShot,0.765,0.5220000076293946,0.029023852199316025,Nicolás González,a,7074,OpenPlay,2025,RightFoot,29204,Mallorca,Atletico Madrid,1,1,2025-09-21 14:15:00,Koke,TakeOn
+644265,55,SavedShot,0.85,0.49400001525878906,0.03136148303747177,Nicolás González,h,7074,SetPiece,2025,Head,29216,Atletico Madrid,Rayo Vallecano,3,2,2025-09-24 19:30:00,Antoine Griezmann,Cross
+644267,58,MissedShots,0.9119999694824219,0.5320000076293945,0.3159268796443939,Nicolás González,h,7074,OpenPlay,2025,Head,29216,Atletico Madrid,Rayo Vallecano,3,2,2025-09-24 19:30:00,Conor Gallagher,Cross
+644274,79,BlockedShot,0.9730000305175781,0.655,0.14517390727996826,Nicolás González,h,7074,OpenPlay,2025,LeftFoot,29216,Atletico Madrid,Rayo Vallecano,3,2,2025-09-24 19:30:00,Marc Pubill,Cross
+644278,82,BlockedShot,0.8130000305175781,0.4859999847412109,0.05263811722397804,Nicolás González,h,7074,OpenPlay,2025,LeftFoot,29216,Atletico Madrid,Rayo Vallecano,3,2,2025-09-24 19:30:00,,None
+644792,22,BlockedShot,0.7719999694824219,0.47400001525878904,0.05839183181524277,Nicolás González,h,7074,OpenPlay,2025,LeftFoot,29219,Atletico Madrid,Real Madrid,5,2,2025-09-27 14:15:00,Julián Álvarez,Pass
+647117,38,MissedShots,0.8930000305175781,0.6619999694824219,0.12642742693424225,Nicolás González,a,7074,OpenPlay,2025,LeftFoot,29232,Celta Vigo,Atletico Madrid,1,1,2025-10-05 19:00:00,Koke,Throughball
+647126,70,BlockedShot,0.8119999694824219,0.7559999847412109,0.022138040512800217,Nicolás González,a,7074,OpenPlay,2025,LeftFoot,29232,Celta Vigo,Atletico Madrid,1,1,2025-10-05 19:00:00,Koke,Pass
+650015,13,SavedShot,0.9180000305175782,0.6969999694824218,0.06294295936822891,Nicolás González,a,7074,OpenPlay,2025,LeftFoot,29253,Real Betis,Atletico Madrid,0,2,2025-10-27 20:00:00,Álex Baena,Pass
+650016,14,SavedShot,0.7709999847412109,0.5320000076293945,0.02284822054207325,Nicolás González,a,7074,FromCorner,2025,RightFoot,29253,Real Betis,Atletico Madrid,0,2,2025-10-27 20:00:00,,None
+650021,31,MissedShots,0.7080000305175781,0.495,0.015960494056344032,Nicolás González,a,7074,OpenPlay,2025,LeftFoot,29253,Real Betis,Atletico Madrid,0,2,2025-10-27 20:00:00,,None
+650928,36,ShotOnPost,0.8730000305175781,0.4570000076293945,0.07869812101125717,Nicolás González,h,7074,OpenPlay,2025,RightFoot,29259,Atletico Madrid,Sevilla,3,0,2025-11-01 15:15:00,Alexander Sørloth,None
+650929,44,SavedShot,0.8969999694824219,0.36900001525878906,0.29219916462898254,Nicolás González,h,7074,OpenPlay,2025,RightFoot,29259,Atletico Madrid,Sevilla,3,0,2025-11-01 15:15:00,Alexander Sørloth,HeadPass
+650930,45,MissedShots,0.9,0.6220000076293946,0.11372118443250656,Nicolás González,h,7074,OpenPlay,2025,LeftFoot,29259,Atletico Madrid,Sevilla,3,0,2025-11-01 15:15:00,Álex Baena,Pass
+650935,58,SavedShot,0.9280000305175782,0.49200000762939455,0.1228010505437851,Nicolás González,h,7074,FromCorner,2025,Head,29259,Atletico Madrid,Sevilla,3,0,2025-11-01 15:15:00,Álex Baena,Cross
+654460,5,SavedShot,0.9740000152587891,0.44599998474121094,0.4618060290813446,Nicolás González,a,7074,FromCorner,2025,Head,29285,Getafe,Atletico Madrid,0,1,2025-11-23 17:30:00,Koke,Cross
+654461,5,SavedShot,0.98,0.3940000152587891,0.09182249754667282,Nicolás González,a,7074,FromCorner,2025,LeftFoot,29285,Getafe,Atletico Madrid,0,1,2025-11-23 17:30:00,,Rebound
+655341,64,SavedShot,0.8159999847412109,0.6840000152587891,0.04747692868113518,Nicolás González,h,7074,OpenPlay,2025,LeftFoot,29288,Atletico Madrid,Real Oviedo,2,0,2025-11-29 20:00:00,Pablo Barrios Rivas,Pass
+657223,50,MissedShots,0.924000015258789,0.5790000152587891,0.048294637352228165,Nicolás González,a,7074,OpenPlay,2025,Head,29299,Athletic Club,Atletico Madrid,1,0,2025-12-06 20:00:00,Nahuel Molina,Aerial
+658013,16,BlockedShot,0.9359999847412109,0.37,0.04521196335554123,Nicolás González,h,7074,FromCorner,2025,LeftFoot,29309,Atletico Madrid,Valencia,2,1,2025-12-13 13:00:00,Julián Álvarez,Cross
+658024,50,SavedShot,0.8919999694824219,0.5229999923706055,0.13109013438224792,Nicolás González,h,7074,OpenPlay,2025,Head,29309,Atletico Madrid,Valencia,2,1,2025-12-13 13:00:00,Giuliano Simeone,Cross
+659672,8,MissedShots,0.8209999847412109,0.6459999847412109,0.05889059603214264,Nicolás González,a,7074,OpenPlay,2025,LeftFoot,29324,Girona,Atletico Madrid,0,3,2025-12-21 13:00:00,Julián Álvarez,Pass
+665140,86,MissedShots,0.914000015258789,0.3870000076293945,0.03289058804512024,Nicolás González,h,7074,FromCorner,2025,Head,29360,Atletico Madrid,Mallorca,3,0,2026-01-25 13:00:00,Julián Álvarez,Cross
+665143,92,MissedShots,0.9369999694824219,0.43099998474121093,0.04524993523955345,Nicolás González,h,7074,FromCorner,2025,Head,29360,Atletico Madrid,Mallorca,3,0,2026-01-25 13:00:00,Robin Le Normand,Aerial
+666174,1,SavedShot,0.9640000152587891,0.3970000076293945,0.05655047670006752,Nicolás González,a,7074,FromCorner,2025,Head,29372,Levante,Atletico Madrid,0,0,2026-01-31 17:30:00,Nahuel Molina,Cross
+666176,18,MissedShots,0.924000015258789,0.4209999847412109,0.02457399293780327,Nicolás González,a,7074,FromCorner,2025,Head,29372,Levante,Atletico Madrid,0,0,2026-01-31 17:30:00,Nahuel Molina,Aerial
+666180,41,MissedShots,0.8930000305175781,0.664000015258789,0.059004951268434525,Nicolás González,a,7074,OpenPlay,2025,LeftFoot,29372,Levante,Atletico Madrid,0,0,2026-01-31 17:30:00,,Rebound
+666185,63,SavedShot,0.7559999847412109,0.295,0.016246741637587547,Nicolás González,a,7074,OpenPlay,2025,LeftFoot,29372,Levante,Atletico Madrid,0,0,2026-01-31 17:30:00,Nahuel Molina,Pass
+669140,37,MissedShots,0.9359999847412109,0.6320000076293946,0.07573714852333069,Nicolás González,a,7074,OpenPlay,2025,LeftFoot,29394,Rayo Vallecano,Atletico Madrid,3,0,2026-02-15 15:15:00,,None
+669145,48,BlockedShot,0.9109999847412109,0.6029999923706054,0.03352736309170723,Nicolás González,a,7074,FromCorner,2025,LeftFoot,29394,Rayo Vallecano,Atletico Madrid,3,0,2026-02-15 15:15:00,,Aerial
+669147,58,SavedShot,0.9340000152587891,0.7219999694824218,0.03927610442042351,Nicolás González,a,7074,OpenPlay,2025,LeftFoot,29394,Rayo Vallecano,Atletico Madrid,3,0,2026-02-15 15:15:00,Thiago Almada,Pass
+669149,61,SavedShot,0.960999984741211,0.605,0.2826835513114929,Nicolás González,a,7074,OpenPlay,2025,LeftFoot,29394,Rayo Vallecano,Atletico Madrid,3,0,2026-02-15 15:15:00,Thiago Almada,TakeOn
+672805,62,MissedShots,0.889000015258789,0.4379999923706055,0.08250349760055542,Nicolás González,h,7074,OpenPlay,2025,LeftFoot,29419,Atletico Madrid,Real Sociedad,3,2,2026-03-07 17:30:00,,None
+672807,65,MissedShots,0.915,0.505,0.5372573137283325,Nicolás González,h,7074,OpenPlay,2025,LeftFoot,29419,Atletico Madrid,Real Sociedad,3,2,2026-03-07 17:30:00,Julián Álvarez,Pass
+672808,66,Goal,0.914000015258789,0.43900001525878907,0.4707472622394562,Nicolás González,h,7074,OpenPlay,2025,LeftFoot,29419,Atletico Madrid,Real Sociedad,3,2,2026-03-07 17:30:00,Antoine Griezmann,Pass
+672810,70,SavedShot,0.8580000305175781,0.5770000076293945,0.08802824467420578,Nicolás González,h,7074,OpenPlay,2025,LeftFoot,29419,Atletico Madrid,Real Sociedad,3,2,2026-03-07 17:30:00,Antoine Griezmann,Pass
+672814,80,Goal,0.9030000305175782,0.4909999847412109,0.03996140509843826,Nicolás González,h,7074,FromCorner,2025,Head,29419,Atletico Madrid,Real Sociedad,3,2,2026-03-07 17:30:00,Matteo Ruggeri,Aerial
+673920,24,MissedShots,0.8769999694824219,0.6730000305175782,0.021786116063594818,Nicolás González,h,7074,FromCorner,2025,LeftFoot,29429,Atletico Madrid,Getafe,1,0,2026-03-14 15:15:00,,Aerial
+680257,7,MissedShots,0.7519999694824219,0.45,0.024269074201583862,Nicolás González,a,7074,OpenPlay,2025,LeftFoot,29484,Elche,Atletico Madrid,3,2,2026-04-22 17:00:00,Javier Boñar,TakeOn
+680258,9,Goal,0.8640000152587891,0.5320000076293945,0.4248616099357605,Nicolás González,a,7074,OpenPlay,2025,LeftFoot,29484,Elche,Atletico Madrid,3,2,2026-04-22 17:00:00,Rodrigo Mendoza,Pass
+680261,33,Goal,0.955999984741211,0.47200000762939454,0.2965554893016815,Nicolás González,a,7074,OpenPlay,2025,Head,29484,Elche,Atletico Madrid,3,2,2026-04-22 17:00:00,Robin Le Normand,Chipped

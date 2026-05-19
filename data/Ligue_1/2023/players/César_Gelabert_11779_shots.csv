@@ -1,0 +1,15 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+539559,25,MissedShots,0.78,0.6780000305175782,0.020929478108882904,César Gelabert,a,11779,OpenPlay,2023,RightFoot,23419,Lens,Toulouse,2,1,2023-09-24 13:00:00,Gabriel Suazo,Pass
+539560,32,Goal,0.9159999847412109,0.6079999923706054,0.37273913621902466,César Gelabert,a,11779,OpenPlay,2023,LeftFoot,23419,Lens,Toulouse,2,1,2023-09-24 13:00:00,Thijs Dallinga,Pass
+541757,8,BlockedShot,0.8480000305175781,0.2989999961853027,0.03564094007015228,César Gelabert,h,11779,OpenPlay,2023,RightFoot,23427,Toulouse,Metz,3,0,2023-10-01 13:00:00,Aron Dønnum,Pass
+541767,40,SavedShot,0.8680000305175781,0.4159999847412109,0.063843734562397,César Gelabert,h,11779,FromCorner,2023,RightFoot,23427,Toulouse,Metz,3,0,2023-10-01 13:00:00,Stijn Spierings,None
+541768,41,SavedShot,0.7909999847412109,0.5029999923706054,0.054889947175979614,César Gelabert,h,11779,OpenPlay,2023,RightFoot,23427,Toulouse,Metz,3,0,2023-10-01 13:00:00,Aron Dønnum,Pass
+545983,18,BlockedShot,0.86,0.5609999847412109,0.06460992246866226,César Gelabert,a,11779,OpenPlay,2023,LeftFoot,23459,Montpellier,Toulouse,3,0,2023-10-29 14:00:00,Cristian Cásseres Jr.,BallTouch
+546001,66,BlockedShot,0.889000015258789,0.5479999923706055,0.1227879673242569,César Gelabert,a,11779,OpenPlay,2023,RightFoot,23459,Montpellier,Toulouse,3,0,2023-10-29 14:00:00,Yanis Begraoui,TakeOn
+548812,48,MissedShots,0.725999984741211,0.504000015258789,0.011330466717481613,César Gelabert,a,11779,SetPiece,2023,RightFoot,23471,Lille,Toulouse,1,1,2023-11-12 14:00:00,,None
+550190,90,BlockedShot,0.8009999847412109,0.69,0.02199811302125454,César Gelabert,a,11779,OpenPlay,2023,RightFoot,23484,Nice,Toulouse,1,0,2023-11-26 12:00:00,Ibrahim Cissoko,Pass
+550191,91,SavedShot,0.8,0.6370000076293946,0.030441509559750557,César Gelabert,a,11779,OpenPlay,2023,RightFoot,23484,Nice,Toulouse,1,0,2023-11-26 12:00:00,,None
+554795,21,MissedShots,0.8630000305175781,0.659000015258789,0.053003232926130295,César Gelabert,h,11779,OpenPlay,2023,LeftFoot,23506,Toulouse,Rennes,0,0,2023-12-17 14:00:00,Thijs Dallinga,Pass
+554804,66,BlockedShot,0.7519999694824219,0.515,0.042721908539533615,César Gelabert,h,11779,OpenPlay,2023,RightFoot,23506,Toulouse,Rennes,0,0,2023-12-17 14:00:00,Frank Magri,Pass
+560340,90,MissedShots,0.855999984741211,0.515,0.06388502568006516,César Gelabert,h,11779,OpenPlay,2023,RightFoot,23534,Toulouse,Lens,0,2,2024-01-28 16:05:00,,Rebound
+565714,39,MissedShots,0.794000015258789,0.539000015258789,0.03983067721128464,César Gelabert,h,11779,OpenPlay,2023,RightFoot,23576,Toulouse,Lille,3,1,2024-02-25 14:00:00,,None

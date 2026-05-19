@@ -1,0 +1,7 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+135529,89,SavedShot,0.875999984741211,0.5379999923706055,0.0396278016269207,Miguel Flaño,h,5205,FromCorner,2016,Head,1791,Osasuna,Real Sociedad,0,2,2016-08-27 20:15:00,,None
+135558,38,BlockedShot,0.8930000305175781,0.5570000076293945,0.016431700438261032,Miguel Flaño,a,5205,FromCorner,2016,Head,1801,Real Madrid,Osasuna,5,2,2016-09-10 18:00:00,De las Cuevas,Aerial
+138288,66,MissedShots,0.8859999847412109,0.45599998474121095,0.0826001986861229,Miguel Flaño,h,5205,FromCorner,2016,RightFoot,2802,Osasuna,Atletico Madrid,0,3,2016-11-27 19:15:00,Oriol Riera,HeadPass
+138291,85,MissedShots,0.9269999694824219,0.3770000076293945,0.03808470070362091,Miguel Flaño,h,5205,SetPiece,2016,Head,2802,Osasuna,Atletico Madrid,0,3,2016-11-27 19:15:00,De las Cuevas,Cross
+138121,21,BlockedShot,0.7340000152587891,0.4809999847412109,0.01870889961719513,Miguel Flaño,a,5205,OpenPlay,2016,LeftFoot,3169,Sporting Gijon,Osasuna,3,1,2016-12-04 21:30:00,Roberto Torres,BallRecovery
+138139,85,Goal,0.960999984741211,0.45799999237060546,0.6364910006523132,Miguel Flaño,a,5205,OpenPlay,2016,RightFoot,3169,Sporting Gijon,Osasuna,3,1,2016-12-04 21:30:00,Alex Berenguer,Pass

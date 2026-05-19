@@ -1,0 +1,9 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+25228,2,MissedShots,0.785,0.654000015258789,0.019086599349975586,Daniel Brückner,h,4259,FromCorner,2014,LeftFoot,5424,Paderborn,Hannover 96,2,0,2014-09-20 14:30:00,,None
+26172,53,BlockedShot,0.7430000305175781,0.5540000152587891,0.015298799611628056,Daniel Brückner,h,4259,OpenPlay,2014,LeftFoot,5400,Paderborn,Eintracht Frankfurt,3,1,2014-10-19 16:30:00,,Rebound
+26681,46,MissedShots,0.6990000152587891,0.44099998474121094,0.011402799747884274,Daniel Brückner,h,4259,SetPiece,2014,LeftFoot,5355,Paderborn,Hertha Berlin,3,1,2014-11-02 16:30:00,,BallTouch
+26685,69,BlockedShot,0.8680000305175781,0.754000015258789,0.034866999834775925,Daniel Brückner,h,4259,OpenPlay,2014,LeftFoot,5355,Paderborn,Hertha Berlin,3,1,2014-11-02 16:30:00,Mario Vrancic,Pass
+28372,24,BlockedShot,0.7090000152587891,0.7569999694824219,0.009761080145835876,Daniel Brückner,a,4259,OpenPlay,2014,LeftFoot,5344,VfB Stuttgart,Paderborn,0,0,2014-12-20 14:30:00,Mario Vrancic,BallRecovery
+28685,42,BlockedShot,0.7569999694824219,0.6,0.017308199778199196,Daniel Brückner,a,4259,FromCorner,2014,RightFoot,5272,FC Cologne,Paderborn,0,0,2015-02-07 14:30:00,,None
+32191,53,MissedShots,0.8030000305175782,0.7030000305175781,0.01835869997739792,Daniel Brückner,h,4259,FromCorner,2014,LeftFoot,5253,Paderborn,Hoffenheim,0,0,2015-03-21 14:30:00,,None
+30276,56,BlockedShot,0.7580000305175781,0.629000015258789,0.022879699245095253,Daniel Brückner,h,4259,OpenPlay,2014,LeftFoot,5229,Paderborn,Werder Bremen,2,2,2015-04-26 14:30:00,Moritz Stoppelkamp,Pass

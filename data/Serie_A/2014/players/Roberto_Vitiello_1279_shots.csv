@@ -1,0 +1,7 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+50979,9,Goal,0.980999984741211,0.534000015258789,0.7835100293159485,Roberto Vitiello,h,1279,FromCorner,2014,RightFoot,4874,Palermo,Torino,2,2,2015-04-29 19:45:00,,None
+51007,90,BlockedShot,0.8130000305175781,0.6409999847412109,0.033391501754522324,Roberto Vitiello,h,1279,SetPiece,2014,LeftFoot,4874,Palermo,Torino,2,2,2015-04-29 19:45:00,Andrea Rispoli,BallTouch
+49973,32,MissedShots,0.9330000305175781,0.435,0.054000500589609146,Roberto Vitiello,a,1279,OpenPlay,2014,Head,4780,Sassuolo,Palermo,0,0,2015-05-02 19:45:00,Paulo Dybala,Aerial
+93272,50,SavedShot,0.905,0.5740000152587891,0.0526295006275177,Roberto Vitiello,h,1279,FromCorner,2015,Head,554,Palermo,Genoa,1,0,2015-08-23 22:45:00,Robin Quaison,Cross
+93827,22,OwnGoal,0.030999999046325683,0.5879999923706055,0,Roberto Vitiello,h,1279,OpenPlay,2015,LeftFoot,575,Palermo,Carpi,2,2,2015-09-13 17:00:00,,Challenge
+97024,46,SavedShot,0.8680000305175781,0.415,0.06632310152053833,Roberto Vitiello,h,1279,SetPiece,2015,LeftFoot,813,Palermo,Bologna,0,0,2016-02-28 15:30:00,,None

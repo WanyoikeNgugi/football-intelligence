@@ -1,0 +1,64 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+32436,1,BlockedShot,0.725,0.52,0.013593600131571293,Joaquín Larrivey,h,4038,OpenPlay,2014,RightFoot,5832,Celta Vigo,Getafe,3,1,2014-08-24 20:00:00,,None
+32438,2,SavedShot,0.885,0.5590000152587891,0.019143100827932358,Joaquín Larrivey,h,4038,OpenPlay,2014,Head,5832,Celta Vigo,Getafe,3,1,2014-08-24 20:00:00,,Rebound
+32461,66,BlockedShot,0.8919999694824219,0.5120000076293946,0.06152530014514923,Joaquín Larrivey,h,4038,FromCorner,2014,Head,5832,Celta Vigo,Getafe,3,1,2014-08-24 20:00:00,Fabián Orellana,Cross
+32462,69,Goal,0.8719999694824219,0.46799999237060547,0.38137099146842957,Joaquín Larrivey,h,4038,OpenPlay,2014,RightFoot,5832,Celta Vigo,Getafe,3,1,2014-08-24 20:00:00,Nolito,Throughball
+32660,18,SavedShot,0.9119999694824219,0.509000015258789,0.09382829815149307,Joaquín Larrivey,a,4038,OpenPlay,2014,RightFoot,5838,Cordoba,Celta Vigo,1,1,2014-08-30 18:00:00,,None
+32890,41,MissedShots,0.9059999847412109,0.4909999847412109,0.032784998416900635,Joaquín Larrivey,h,4038,FromCorner,2014,Head,5790,Celta Vigo,Real Sociedad,2,2,2014-09-13 21:00:00,Fabián Orellana,Aerial
+32892,47,ShotOnPost,0.9269999694824219,0.4929999923706055,0.4669950008392334,Joaquín Larrivey,h,4038,OpenPlay,2014,RightFoot,5790,Celta Vigo,Real Sociedad,2,2,2014-09-13 21:00:00,Jonny,Cross
+32893,47,Goal,0.9969999694824219,0.5020000076293946,0.9762799739837646,Joaquín Larrivey,h,4038,OpenPlay,2014,LeftFoot,5790,Celta Vigo,Real Sociedad,2,2,2014-09-13 21:00:00,,Rebound
+32895,55,SavedShot,0.8969999694824219,0.500999984741211,0.09628330171108246,Joaquín Larrivey,h,4038,SetPiece,2014,Head,5790,Celta Vigo,Real Sociedad,2,2,2014-09-13 21:00:00,Fabián Orellana,Cross
+33349,70,SavedShot,0.8630000305175781,0.5209999847412109,0.03941379860043526,Joaquín Larrivey,a,4038,OpenPlay,2014,Head,5799,Atletico Madrid,Celta Vigo,2,2,2014-09-20 19:00:00,Michael Krohn-Dehli,Cross
+33041,71,Goal,0.9530000305175781,0.500999984741211,0.35992398858070374,Joaquín Larrivey,h,4038,FromCorner,2014,Head,5807,Celta Vigo,Deportivo La Coruna,2,1,2014-09-23 21:00:00,Nolito,Aerial
+33043,79,SavedShot,0.8819999694824219,0.5920000076293945,0.37068700790405273,Joaquín Larrivey,h,4038,OpenPlay,2014,RightFoot,5807,Celta Vigo,Deportivo La Coruna,2,1,2014-09-23 21:00:00,Michael Krohn-Dehli,Throughball
+34361,43,Goal,0.8719999694824219,0.4,0.30459699034690857,Joaquín Larrivey,h,4038,OpenPlay,2014,RightFoot,5761,Celta Vigo,Villarreal,1,3,2014-10-05 16:00:00,Nolito,BallRecovery
+34372,87,SavedShot,0.9419999694824219,0.5220000076293946,0.07612939924001694,Joaquín Larrivey,h,4038,OpenPlay,2014,Head,5761,Celta Vigo,Villarreal,1,3,2014-10-05 16:00:00,Charles,Aerial
+35866,26,Goal,0.889000015258789,0.555,0.39896100759506226,Joaquín Larrivey,h,4038,OpenPlay,2014,LeftFoot,5774,Celta Vigo,Levante,3,0,2014-10-24 20:00:00,Pablo Hernández,Throughball
+35869,40,MissedShots,0.9,0.6830000305175781,0.147024005651474,Joaquín Larrivey,h,4038,OpenPlay,2014,LeftFoot,5774,Celta Vigo,Levante,3,0,2014-10-24 20:00:00,Nolito,Throughball
+35877,82,Goal,0.9430000305175781,0.500999984741211,0.34704500436782837,Joaquín Larrivey,h,4038,OpenPlay,2014,Head,5774,Celta Vigo,Levante,3,0,2014-10-24 20:00:00,,SubstitutionOn
+33947,26,BlockedShot,0.8769999694824219,0.42700000762939455,0.10503900051116943,Joaquín Larrivey,a,4038,OpenPlay,2014,RightFoot,5718,Barcelona,Celta Vigo,0,1,2014-11-01 19:00:00,Fabián Orellana,Pass
+33957,54,Goal,0.865,0.47400001525878904,0.3774699866771698,Joaquín Larrivey,a,4038,OpenPlay,2014,RightFoot,5718,Barcelona,Celta Vigo,0,1,2014-11-01 19:00:00,Nolito,Throughball
+34711,56,MissedShots,0.875999984741211,0.5129999923706055,0.11927799880504608,Joaquín Larrivey,h,4038,OpenPlay,2014,RightFoot,5730,Celta Vigo,Granada,0,0,2014-11-08 21:00:00,Michael Krohn-Dehli,Throughball
+34712,58,MissedShots,0.91,0.555,0.11981000006198883,Joaquín Larrivey,h,4038,OpenPlay,2014,RightFoot,5730,Celta Vigo,Granada,0,0,2014-11-08 21:00:00,Michael Krohn-Dehli,Pass
+35486,16,MissedShots,0.7390000152587891,0.44,0.021239200606942177,Joaquín Larrivey,a,4038,OpenPlay,2014,RightFoot,5740,Rayo Vallecano,Celta Vigo,1,0,2014-11-23 11:00:00,Sergio Álvarez,Pass
+35492,32,MissedShots,0.91,0.5940000152587891,0.04448309913277626,Joaquín Larrivey,a,4038,FromCorner,2014,Head,5740,Rayo Vallecano,Celta Vigo,1,0,2014-11-23 11:00:00,Álex López,Cross
+35496,40,MissedShots,0.9130000305175782,0.445,0.09670040011405945,Joaquín Larrivey,a,4038,SetPiece,2014,Head,5740,Rayo Vallecano,Celta Vigo,1,0,2014-11-23 11:00:00,Nolito,Cross
+33716,2,SavedShot,0.8830000305175781,0.700999984741211,0.03785540163516998,Joaquín Larrivey,h,4038,OpenPlay,2014,LeftFoot,5749,Celta Vigo,Eibar,0,1,2014-11-29 21:00:00,Nolito,Pass
+33718,4,BlockedShot,0.9059999847412109,0.5420000076293945,0.09329749643802643,Joaquín Larrivey,h,4038,OpenPlay,2014,RightFoot,5749,Celta Vigo,Eibar,0,1,2014-11-29 21:00:00,Michael Krohn-Dehli,Cross
+33733,49,SavedShot,0.925,0.5459999847412109,0.05222570151090622,Joaquín Larrivey,h,4038,OpenPlay,2014,Head,5749,Celta Vigo,Eibar,0,1,2014-11-29 21:00:00,Michael Krohn-Dehli,Aerial
+33744,71,MissedShots,0.895,0.5379999923706055,0.07387469708919525,Joaquín Larrivey,h,4038,OpenPlay,2014,Head,5749,Celta Vigo,Eibar,0,1,2014-11-29 21:00:00,Jonny,Cross
+33749,89,BlockedShot,0.845999984741211,0.5070000076293946,0.06889510154724121,Joaquín Larrivey,h,4038,OpenPlay,2014,RightFoot,5749,Celta Vigo,Eibar,0,1,2014-11-29 21:00:00,Fontàs,Pass
+33751,90,SavedShot,0.8680000305175781,0.48,0.017202699556946754,Joaquín Larrivey,h,4038,OpenPlay,2014,Head,5749,Celta Vigo,Eibar,0,1,2014-11-29 21:00:00,Michael Krohn-Dehli,Aerial
+38405,35,BlockedShot,0.8930000305175781,0.69,0.053278498351573944,Joaquín Larrivey,a,4038,OpenPlay,2014,LeftFoot,5666,Espanyol,Celta Vigo,1,0,2015-01-17 21:00:00,Nolito,Chipped
+38409,50,SavedShot,0.8819999694824219,0.6040000152587891,0.08832810074090958,Joaquín Larrivey,a,4038,OpenPlay,2014,LeftFoot,5666,Espanyol,Celta Vigo,1,0,2015-01-17 21:00:00,Nolito,Pass
+38413,64,SavedShot,0.915,0.46799999237060547,0.0931243970990181,Joaquín Larrivey,a,4038,OpenPlay,2014,LeftFoot,5666,Espanyol,Celta Vigo,1,0,2015-01-17 21:00:00,Nolito,Chipped
+37936,3,MissedShots,0.96,0.48,0.12051299959421158,Joaquín Larrivey,h,4038,FromCorner,2014,Head,5601,Celta Vigo,Cordoba,1,0,2015-01-31 21:00:00,Fontàs,Aerial
+37938,7,SavedShot,0.8590000152587891,0.5220000076293946,0.07459110021591187,Joaquín Larrivey,h,4038,OpenPlay,2014,RightFoot,5601,Celta Vigo,Cordoba,1,0,2015-01-31 21:00:00,,None
+37945,25,BlockedShot,0.9390000152587891,0.68,0.0645420029759407,Joaquín Larrivey,h,4038,OpenPlay,2014,LeftFoot,5601,Celta Vigo,Cordoba,1,0,2015-01-31 21:00:00,Nolito,Pass
+37949,38,SavedShot,0.9169999694824219,0.555,0.36872398853302,Joaquín Larrivey,h,4038,OpenPlay,2014,Head,5601,Celta Vigo,Cordoba,1,0,2015-01-31 21:00:00,Michael Krohn-Dehli,Throughball
+37950,42,SavedShot,0.8569999694824219,0.41,0.009983710013329983,Joaquín Larrivey,h,4038,OpenPlay,2014,Head,5601,Celta Vigo,Cordoba,1,0,2015-01-31 21:00:00,Fontàs,Aerial
+37951,46,SavedShot,0.875999984741211,0.61,0.5000849962234497,Joaquín Larrivey,h,4038,OpenPlay,2014,LeftFoot,5601,Celta Vigo,Cordoba,1,0,2015-01-31 21:00:00,Michael Krohn-Dehli,Throughball
+37958,94,SavedShot,0.8690000152587891,0.6819999694824219,0.06230960041284561,Joaquín Larrivey,h,4038,OpenPlay,2014,RightFoot,5601,Celta Vigo,Cordoba,1,0,2015-01-31 21:00:00,Nolito,Pass
+41293,67,MissedShots,0.8880000305175781,0.4620000076293945,0.021091699600219727,Joaquín Larrivey,a,4038,SetPiece,2014,Head,5612,Real Sociedad,Celta Vigo,1,1,2015-02-07 21:00:00,Álex López,Aerial
+41027,61,MissedShots,0.9590000152587891,0.56,0.5942850112915039,Joaquín Larrivey,h,4038,OpenPlay,2014,LeftFoot,5626,Celta Vigo,Atletico Madrid,2,0,2015-02-15 20:00:00,Nolito,Rebound
+41394,81,Goal,0.94,0.5470000076293945,0.7847809791564941,Joaquín Larrivey,a,4038,OpenPlay,2014,LeftFoot,5632,Deportivo La Coruna,Celta Vigo,0,2,2015-02-21 21:00:00,,TakeOn
+39849,30,MissedShots,0.8680000305175781,0.5479999923706055,0.016826199367642403,Joaquín Larrivey,h,4038,OpenPlay,2014,Head,5585,Celta Vigo,Athletic Club,1,2,2015-03-14 21:00:00,Jonny,Aerial
+39859,63,Goal,0.97,0.47200000762939454,0.6412019729614258,Joaquín Larrivey,h,4038,SetPiece,2014,Head,5585,Celta Vigo,Athletic Club,1,2,2015-03-14 21:00:00,Fabián Orellana,Cross
+39870,93,MissedShots,0.9,0.5820000076293945,0.04118699952960014,Joaquín Larrivey,h,4038,OpenPlay,2014,Head,5585,Celta Vigo,Athletic Club,1,2,2015-03-14 21:00:00,Michael Krohn-Dehli,Chipped
+39940,12,MissedShots,0.8380000305175781,0.47099998474121096,0.06137140095233917,Joaquín Larrivey,a,4038,OpenPlay,2014,LeftFoot,5594,Levante,Celta Vigo,0,1,2015-03-21 19:00:00,Jonny,Chipped
+39941,22,BlockedShot,0.895,0.555,0.05276999995112419,Joaquín Larrivey,a,4038,FromCorner,2014,Head,5594,Levante,Celta Vigo,0,1,2015-03-21 19:00:00,Michael Krohn-Dehli,Cross
+38649,10,SavedShot,0.9130000305175782,0.700999984741211,0.1087850034236908,Joaquín Larrivey,h,4038,OpenPlay,2014,LeftFoot,5513,Celta Vigo,Barcelona,0,1,2015-04-05 20:00:00,Nolito,Throughball
+38654,41,MissedShots,0.8959999847412109,0.5359999847412109,0.4227510094642639,Joaquín Larrivey,h,4038,OpenPlay,2014,LeftFoot,5513,Celta Vigo,Barcelona,0,1,2015-04-05 20:00:00,Fabián Orellana,Pass
+38966,82,MissedShots,0.899000015258789,0.3160000038146973,0.09294480085372925,Joaquín Larrivey,a,4038,OpenPlay,2014,RightFoot,5520,Granada,Celta Vigo,1,1,2015-04-08 21:00:00,Nolito,Throughball
+39221,5,Goal,0.9269999694824219,0.529000015258789,0.539991021156311,Joaquín Larrivey,h,4038,OpenPlay,2014,RightFoot,5529,Celta Vigo,Rayo Vallecano,6,1,2015-04-11 21:00:00,Nolito,Pass
+39229,36,Goal,0.9780000305175781,0.529000015258789,0.7933779954910278,Joaquín Larrivey,h,4038,OpenPlay,2014,RightFoot,5529,Celta Vigo,Rayo Vallecano,6,1,2015-04-11 21:00:00,,None
+39233,51,SavedShot,0.865,0.5129999923706055,0.48951101303100586,Joaquín Larrivey,h,4038,OpenPlay,2014,RightFoot,5529,Celta Vigo,Rayo Vallecano,6,1,2015-04-11 21:00:00,Nolito,Throughball
+39236,60,SavedShot,0.93,0.5609999847412109,0.3146980106830597,Joaquín Larrivey,h,4038,OpenPlay,2014,Head,5529,Celta Vigo,Rayo Vallecano,6,1,2015-04-11 21:00:00,Nolito,Cross
+39240,70,MissedShots,0.914000015258789,0.5120000076293946,0.5571669936180115,Joaquín Larrivey,h,4038,OpenPlay,2014,LeftFoot,5529,Celta Vigo,Rayo Vallecano,6,1,2015-04-11 21:00:00,,Rebound
+36405,38,SavedShot,0.830999984741211,0.4520000076293945,0.06240899860858917,Joaquín Larrivey,h,4038,OpenPlay,2014,RightFoot,5553,Celta Vigo,Real Madrid,2,4,2015-04-26 20:00:00,Fabián Orellana,Pass
+36408,41,MissedShots,0.8880000305175781,0.6120000076293945,0.08242929726839066,Joaquín Larrivey,h,4038,OpenPlay,2014,LeftFoot,5553,Celta Vigo,Real Madrid,2,4,2015-04-26 20:00:00,Jonny,BallTouch
+36410,44,BlockedShot,0.9390000152587891,0.6040000152587891,0.10066399723291397,Joaquín Larrivey,h,4038,OpenPlay,2014,LeftFoot,5553,Celta Vigo,Real Madrid,2,4,2015-04-26 20:00:00,Nolito,Throughball
+36415,54,BlockedShot,0.8919999694824219,0.5529999923706055,0.0743940994143486,Joaquín Larrivey,h,4038,OpenPlay,2014,RightFoot,5553,Celta Vigo,Real Madrid,2,4,2015-04-26 20:00:00,,None
+36418,59,BlockedShot,0.8830000305175781,0.5479999923706055,0.0615667998790741,Joaquín Larrivey,h,4038,SetPiece,2014,Head,5553,Celta Vigo,Real Madrid,2,4,2015-04-26 20:00:00,Nolito,Cross
+36681,10,MissedShots,0.879000015258789,0.7069999694824218,0.0449955016374588,Joaquín Larrivey,a,4038,OpenPlay,2014,LeftFoot,5493,Valencia,Celta Vigo,1,1,2015-05-17 18:00:00,Nolito,Pass
+36704,73,MissedShots,0.9080000305175782,0.555,0.050224099308252335,Joaquín Larrivey,a,4038,OpenPlay,2014,Head,5493,Valencia,Celta Vigo,1,1,2015-05-17 18:00:00,Nolito,Aerial

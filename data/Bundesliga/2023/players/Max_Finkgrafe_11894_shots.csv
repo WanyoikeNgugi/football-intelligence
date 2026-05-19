@@ -1,0 +1,17 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+533424,96,MissedShots,0.9490000152587891,0.6509999847412109,0.049597207456827164,Max Finkgrafe,a,11894,FromCorner,2023,LeftFoot,23071,Borussia Dortmund,FC Cologne,1,0,2023-08-19 16:30:00,Luca Kilian,BallTouch
+543256,84,SavedShot,0.925,0.565,0.28618335723876953,Max Finkgrafe,a,11894,OpenPlay,2023,Head,23125,Bayer Leverkusen,FC Cologne,3,0,2023-10-08 13:30:00,Dejan Ljubicic,Cross
+550836,93,SavedShot,0.8519999694824218,0.5570000076293945,0.34224066138267517,Max Finkgrafe,a,11894,OpenPlay,2023,LeftFoot,23181,Darmstadt,FC Cologne,0,1,2023-12-01 18:30:00,Mark Uth,Pass
+559842,57,BlockedShot,0.7680000305175781,0.5840000152587891,0.019587423652410507,Max Finkgrafe,a,11894,FromCorner,2023,LeftFoot,23231,Wolfsburg,FC Cologne,1,1,2024-01-27 14:30:00,,None
+563177,44,BlockedShot,0.8419999694824218,0.7290000152587891,0.01257320772856474,Max Finkgrafe,a,11894,SetPiece,2023,LeftFoot,23247,Hoffenheim,FC Cologne,1,1,2024-02-11 16:30:00,,Aerial
+563186,78,Goal,0.7290000152587891,0.47299999237060547,0.054330356419086456,Max Finkgrafe,a,11894,DirectFreekick,2023,LeftFoot,23247,Hoffenheim,FC Cologne,1,1,2024-02-11 16:30:00,,Standard
+563516,86,BlockedShot,0.7140000152587891,0.5629999923706055,0.045032765716314316,Max Finkgrafe,h,11894,DirectFreekick,2023,LeftFoot,23258,FC Cologne,Werder Bremen,0,1,2024-02-16 19:30:00,,Standard
+569100,13,MissedShots,0.7880000305175782,0.580999984741211,0.0764206200838089,Max Finkgrafe,h,11894,OpenPlay,2023,LeftFoot,23295,FC Cologne,RasenBallsport Leipzig,1,5,2024-03-15 19:30:00,Sargis Adamyan,BallRecovery
+569115,57,MissedShots,0.8009999847412109,0.6559999847412109,0.021819088608026505,Max Finkgrafe,h,11894,FromCorner,2023,LeftFoot,23295,FC Cologne,RasenBallsport Leipzig,1,5,2024-03-15 19:30:00,,None
+572253,68,MissedShots,0.759000015258789,0.5229999923706055,0.02250615879893303,Max Finkgrafe,h,11894,OpenPlay,2023,LeftFoot,23316,FC Cologne,Bochum,2,1,2024-04-06 13:30:00,Dejan Ljubicic,BallTouch
+578661,56,BlockedShot,0.754000015258789,0.3679999923706055,0.020920487120747566,Max Finkgrafe,h,11894,FromCorner,2023,LeftFoot,23348,FC Cologne,Freiburg,0,0,2024-05-04 16:30:00,Gian-Luca Waldschmidt,Pass
+579737,90,SavedShot,0.8880000305175781,0.6309999847412109,0.08668636530637741,Max Finkgrafe,h,11894,OpenPlay,2023,LeftFoot,23358,FC Cologne,Union Berlin,3,2,2024-05-11 13:30:00,Linton Maina,Pass
+667725,95,MissedShots,0.9119999694824219,0.66,0.09081710875034332,Max Finkgrafe,a,11894,OpenPlay,2025,LeftFoot,30406,FC Cologne,RasenBallsport Leipzig,1,2,2026-02-08 14:30:00,Ezechiel Banzuzi,Pass
+680574,21,Goal,0.8390000152587891,0.5429999923706055,0.06443066895008087,Max Finkgrafe,h,11894,OpenPlay,2025,LeftFoot,30500,RasenBallsport Leipzig,Union Berlin,3,1,2026-04-24 18:30:00,,None
+682506,38,MissedShots,0.8619999694824219,0.6919999694824219,0.04449125751852989,Max Finkgrafe,a,11894,OpenPlay,2025,LeftFoot,30503,Bayer Leverkusen,RasenBallsport Leipzig,4,1,2026-05-02 16:30:00,Xaver Schlager,Pass
+682507,40,SavedShot,0.8540000152587891,0.7430000305175781,0.02618546225130558,Max Finkgrafe,a,11894,OpenPlay,2025,LeftFoot,30503,Bayer Leverkusen,RasenBallsport Leipzig,4,1,2026-05-02 16:30:00,,None

@@ -1,0 +1,49 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+312459,77,ShotOnPost,0.730999984741211,0.77,0.013644199818372726,Christopher Lenz,a,7876,OpenPlay,2019,LeftFoot,12417,Augsburg,Union Berlin,1,1,2019-08-24 14:30:00,Marius Bülter,Pass
+317131,30,MissedShots,0.715999984741211,0.720999984741211,0.013596000149846077,Christopher Lenz,h,7876,OpenPlay,2019,LeftFoot,12434,Union Berlin,Werder Bremen,1,2,2019-09-14 13:30:00,Anthony Ujah,Pass
+325413,40,MissedShots,0.815,0.620999984741211,0.052852898836135864,Christopher Lenz,h,7876,OpenPlay,2019,LeftFoot,12468,Union Berlin,Freiburg,2,0,2019-10-19 14:30:00,Christian Gentner,Chipped
+327142,48,SavedShot,0.8480000305175781,0.7609999847412109,0.02619360014796257,Christopher Lenz,a,7876,OpenPlay,2019,LeftFoot,12476,Bayern Munich,Union Berlin,2,1,2019-10-26 14:30:00,Christian Gentner,Pass
+329455,2,ShotOnPost,0.9640000152587891,0.605999984741211,0.20471499860286713,Christopher Lenz,h,7876,OpenPlay,2019,Head,12492,Union Berlin,Hertha Berlin,1,0,2019-11-02 17:30:00,Sebastian Andersson,Cross
+330537,18,MissedShots,0.9030000305175782,0.5609999847412109,0.10398600250482559,Christopher Lenz,a,7876,OpenPlay,2019,RightFoot,12495,Mainz 05,Union Berlin,2,3,2019-11-09 14:30:00,Sebastian Polter,BallTouch
+333299,80,BlockedShot,0.7659999847412109,0.7090000152587891,0.019348200410604477,Christopher Lenz,a,7876,OpenPlay,2019,LeftFoot,12515,Schalke 04,Union Berlin,2,1,2019-11-29 19:30:00,Sebastian Andersson,Pass
+336388,4,MissedShots,0.7559999847412109,0.625999984741211,0.021953899413347244,Christopher Lenz,h,7876,OpenPlay,2019,LeftFoot,12528,Union Berlin,FC Cologne,2,0,2019-12-08 14:30:00,Marcus Ingvartsen,Pass
+339317,43,BlockedShot,0.6940000152587891,0.5129999923706055,0.01416619960218668,Christopher Lenz,a,7876,FromCorner,2019,LeftFoot,12550,Fortuna Duesseldorf,Union Berlin,2,1,2019-12-22 14:30:00,,Rebound
+355776,4,SavedShot,0.740999984741211,0.629000015258789,0.0195716992020607,Christopher Lenz,h,7876,OpenPlay,2019,RightFoot,12573,Union Berlin,Augsburg,2,0,2020-01-25 14:30:00,Robert Andrich,Pass
+355783,19,MissedShots,0.8180000305175781,0.7130000305175781,0.019640199840068817,Christopher Lenz,h,7876,OpenPlay,2019,LeftFoot,12573,Union Berlin,Augsburg,2,0,2020-01-25 14:30:00,,Rebound
+357948,65,MissedShots,0.8159999847412109,0.735,0.030094599351286888,Christopher Lenz,a,7876,OpenPlay,2019,RightFoot,12588,Werder Bremen,Union Berlin,0,2,2020-02-08 14:30:00,Robert Andrich,Pass
+358966,59,BlockedShot,0.7340000152587891,0.5929999923706055,0.016767099499702454,Christopher Lenz,h,7876,OpenPlay,2019,LeftFoot,12600,Union Berlin,Bayer Leverkusen,2,3,2020-02-15 14:30:00,Marius Bülter,BallTouch
+361727,12,MissedShots,0.7040000152587891,0.4520000076293945,0.04134869948029518,Christopher Lenz,a,7876,DirectFreekick,2019,LeftFoot,12625,Freiburg,Union Berlin,3,1,2020-03-07 14:30:00,,Standard
+377395,68,BlockedShot,0.759000015258789,0.7380000305175781,0.016168799251317978,Christopher Lenz,h,7876,OpenPlay,2020,LeftFoot,14175,Union Berlin,Augsburg,1,3,2020-09-19 13:30:00,Sheraldo Becker,Pass
+377398,78,SavedShot,0.6809999847412109,0.5429999923706055,0.011990999802947044,Christopher Lenz,h,7876,FromCorner,2020,LeftFoot,14175,Union Berlin,Augsburg,1,3,2020-09-19 13:30:00,,None
+378760,73,MissedShots,0.8119999694824219,0.5309999847412109,0.04569999873638153,Christopher Lenz,a,7876,OpenPlay,2020,RightFoot,14186,Borussia M.Gladbach,Union Berlin,1,1,2020-09-26 13:30:00,,None
+380267,11,MissedShots,0.685,0.7230000305175781,0.011902299709618092,Christopher Lenz,h,7876,OpenPlay,2020,LeftFoot,15158,Union Berlin,Mainz 05,4,0,2020-10-02 18:30:00,Grischa Prömel,Pass
+382716,46,SavedShot,0.9440000152587891,0.5870000076293945,0.44655799865722656,Christopher Lenz,a,7876,OpenPlay,2020,LeftFoot,15175,Schalke 04,Union Berlin,1,1,2020-10-18 16:00:00,,None
+382718,59,SavedShot,0.815,0.6809999847412109,0.03794730082154274,Christopher Lenz,a,7876,OpenPlay,2020,RightFoot,15175,Schalke 04,Union Berlin,1,1,2020-10-18 16:00:00,Robert Andrich,Pass
+383208,37,BlockedShot,0.825,0.715,0.027052000164985657,Christopher Lenz,h,7876,OpenPlay,2020,LeftFoot,15177,Union Berlin,Freiburg,1,1,2020-10-24 13:30:00,Marcus Ingvartsen,Pass
+385523,45,SavedShot,0.889000015258789,0.7319999694824219,0.03524630144238472,Christopher Lenz,a,7876,OpenPlay,2020,LeftFoot,15193,Hoffenheim,Union Berlin,1,3,2020-11-02 19:30:00,Florian Hübner,Pass
+388639,14,BlockedShot,0.7369999694824219,0.620999984741211,0.02284199930727482,Christopher Lenz,h,7876,OpenPlay,2020,LeftFoot,15217,Union Berlin,Eintracht Frankfurt,3,3,2020-11-28 14:30:00,Max Kruse,Pass
+389863,11,BlockedShot,0.730999984741211,0.75,0.01368580013513565,Christopher Lenz,a,7876,OpenPlay,2020,LeftFoot,15225,Hertha Berlin,Union Berlin,3,1,2020-12-04 19:30:00,Robert Andrich,Pass
+392624,27,MissedShots,0.875999984741211,0.6120000076293945,0.08934489637613297,Christopher Lenz,a,7876,OpenPlay,2020,LeftFoot,15244,VfB Stuttgart,Union Berlin,2,2,2020-12-15 19:30:00,,None
+405530,65,MissedShots,0.875,0.735999984741211,0.03777129948139191,Christopher Lenz,a,7876,OpenPlay,2020,LeftFoot,15331,Freiburg,Union Berlin,0,1,2021-02-20 14:30:00,Marcus Ingvartsen,Pass
+405532,69,MissedShots,0.92,0.5659999847412109,0.06270399689674377,Christopher Lenz,a,7876,OpenPlay,2020,Head,15331,Freiburg,Union Berlin,0,1,2021-02-20 14:30:00,Christopher Trimmel,Aerial
+421823,8,SavedShot,0.86,0.575,0.09507690370082855,Christopher Lenz,a,7876,OpenPlay,2020,RightFoot,15430,Bayer Leverkusen,Union Berlin,1,1,2021-05-15 13:30:00,Max Kruse,Pass
+421830,27,SavedShot,0.865999984741211,0.7269999694824218,0.030921999365091324,Christopher Lenz,a,7876,OpenPlay,2020,RightFoot,15430,Bayer Leverkusen,Union Berlin,1,1,2021-05-15 13:30:00,Robert Andrich,Pass
+423512,36,MissedShots,0.7709999847412109,0.6930000305175781,0.01914150081574917,Christopher Lenz,h,7876,FromCorner,2020,LeftFoot,15442,Union Berlin,RasenBallsport Leipzig,2,1,2021-05-22 13:30:00,Marvin Friedrich,Pass
+426874,49,MissedShots,0.8930000305175781,0.625,0.030533000826835632,Christopher Lenz,h,7876,SetPiece,2021,RightFoot,17530,Eintracht Frankfurt,Augsburg,0,0,2021-08-21 13:30:00,Ajdin Hrustic,Cross
+454281,92,BlockedShot,0.7469999694824219,0.5420000076293945,0.01378680020570755,Christopher Lenz,h,7876,FromCorner,2021,RightFoot,17549,Eintracht Frankfurt,VfB Stuttgart,1,1,2021-09-12 13:30:00,,Aerial
+456948,14,MissedShots,0.7680000305175781,0.675,0.01932789944112301,Christopher Lenz,h,7876,OpenPlay,2021,LeftFoot,17712,Eintracht Frankfurt,Wolfsburg,0,2,2022-02-12 14:30:00,Santos Borré,Pass
+456950,19,BlockedShot,0.7769999694824219,0.6170000076293946,0.02850870043039322,Christopher Lenz,h,7876,OpenPlay,2021,RightFoot,17712,Eintracht Frankfurt,Wolfsburg,0,2,2022-02-12 14:30:00,,Dispossessed
+456962,45,BlockedShot,0.835999984741211,0.24600000381469728,0.023365799337625504,Christopher Lenz,h,7876,OpenPlay,2021,LeftFoot,17712,Eintracht Frankfurt,Wolfsburg,0,2,2022-02-12 14:30:00,Daichi Kamada,Pass
+459967,60,MissedShots,0.8009999847412109,0.730999984741211,0.02095930092036724,Christopher Lenz,h,7876,OpenPlay,2021,LeftFoot,17731,Eintracht Frankfurt,Bayern Munich,0,1,2022-02-26 17:30:00,Djibril Sow,Pass
+480193,65,MissedShots,0.9019999694824219,0.5570000076293945,0.01806280016899109,Christopher Lenz,a,7876,FromCorner,2022,Head,19356,Hertha Berlin,Eintracht Frankfurt,1,1,2022-08-13 13:30:00,Mario Götze,Aerial
+486183,40,SavedShot,0.879000015258789,0.7419999694824219,0.054087501019239426,Christopher Lenz,h,7876,OpenPlay,2022,LeftFoot,19384,Eintracht Frankfurt,RasenBallsport Leipzig,4,0,2022-09-03 16:30:00,Djibril Sow,Pass
+493061,61,BlockedShot,0.7819999694824219,0.5129999923706055,0.02519039995968342,Christopher Lenz,h,7876,FromCorner,2022,RightFoot,19427,Eintracht Frankfurt,Bayer Leverkusen,5,1,2022-10-15 13:30:00,,None
+495194,26,BlockedShot,0.9230000305175782,0.6840000152587891,0.056491900235414505,Christopher Lenz,a,7876,FromCorner,2022,LeftFoot,19437,Borussia M.Gladbach,Eintracht Frankfurt,1,3,2022-10-22 16:30:00,,Rebound
+495205,89,SavedShot,0.8209999847412109,0.49700000762939456,0.03824469819664955,Christopher Lenz,a,7876,OpenPlay,2022,RightFoot,19437,Borussia M.Gladbach,Eintracht Frankfurt,1,3,2022-10-22 16:30:00,,Rebound
+495206,98,MissedShots,0.58,0.9369999694824219,0.016016999259591103,Christopher Lenz,a,7876,OpenPlay,2022,LeftFoot,19437,Borussia M.Gladbach,Eintracht Frankfurt,1,3,2022-10-22 16:30:00,Djibril Sow,Pass
+507058,84,MissedShots,0.795,0.6459999847412109,0.04065860062837601,Christopher Lenz,h,7876,OpenPlay,2022,RightFoot,19508,Eintracht Frankfurt,Hertha Berlin,3,0,2023-02-04 14:30:00,Santos Borré,BallRecovery
+515644,3,BlockedShot,0.7859999847412109,0.6569999694824219,0.02728169970214367,Christopher Lenz,a,7876,OpenPlay,2022,RightFoot,19560,Union Berlin,Eintracht Frankfurt,2,0,2023-03-19 14:30:00,Djibril Sow,Pass
+515649,17,MissedShots,0.8919999694824219,0.624000015258789,0.07080979645252228,Christopher Lenz,a,7876,OpenPlay,2022,LeftFoot,19560,Union Berlin,Eintracht Frankfurt,2,0,2023-03-19 14:30:00,,None
+519707,67,BlockedShot,0.695,0.5220000076293946,0.014679599553346634,Christopher Lenz,h,7876,OpenPlay,2022,LeftFoot,19589,Eintracht Frankfurt,Borussia M.Gladbach,1,1,2023-04-15 16:30:00,Daichi Kamada,Pass
+519710,77,MissedShots,0.774000015258789,0.30100000381469727,0.057345200330019,Christopher Lenz,h,7876,DirectFreekick,2022,LeftFoot,19589,Eintracht Frankfurt,Borussia M.Gladbach,1,1,2023-04-15 16:30:00,,Standard
+524595,55,BlockedShot,0.8180000305175781,0.695,0.0295607540756464,Christopher Lenz,a,7876,OpenPlay,2022,LeftFoot,19616,Hoffenheim,Eintracht Frankfurt,3,1,2023-05-06 13:30:00,Randal Kolo Muani,Pass

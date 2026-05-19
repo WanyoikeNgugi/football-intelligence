@@ -1,0 +1,38 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+504531,15,BlockedShot,0.8190000152587891,0.52,0.06212040036916733,Derry Scherhant,a,10860,OpenPlay,2022,RightFoot,19484,Bochum,Hertha Berlin,3,1,2023-01-21 14:30:00,Wilfried Kanga,BallTouch
+504540,55,BlockedShot,0.89,0.44599998474121094,0.07222539931535721,Derry Scherhant,a,10860,FromCorner,2022,RightFoot,19484,Bochum,Hertha Berlin,3,1,2023-01-21 14:30:00,Wilfried Kanga,Pass
+504541,55,BlockedShot,0.9130000305175782,0.33,0.060325898230075836,Derry Scherhant,a,10860,FromCorner,2022,RightFoot,19484,Bochum,Hertha Berlin,3,1,2023-01-21 14:30:00,,Rebound
+508976,90,Goal,0.8430000305175781,0.4209999847412109,0.07763169705867767,Derry Scherhant,h,10860,OpenPlay,2022,RightFoot,19519,Hertha Berlin,Borussia M.Gladbach,4,1,2023-02-12 14:30:00,Lucas Tousart,HeadPass
+641515,85,Goal,0.9619999694824218,0.644000015258789,0.0698995441198349,Derry Scherhant,h,10860,OpenPlay,2025,RightFoot,30243,Freiburg,VfB Stuttgart,3,1,2025-09-13 13:30:00,,Rebound
+641514,85,SavedShot,0.8909999847412109,0.715,0.04333293065428734,Derry Scherhant,h,10860,OpenPlay,2025,RightFoot,30243,Freiburg,VfB Stuttgart,3,1,2025-09-13 13:30:00,Johan Manzambi,Pass
+643030,74,SavedShot,0.9390000152587891,0.725999984741211,0.08236818015575409,Derry Scherhant,a,10860,OpenPlay,2025,LeftFoot,30252,Werder Bremen,Freiburg,0,3,2025-09-20 13:30:00,Maximilian Eggestein,Chipped
+643037,94,MissedShots,0.7569999694824219,0.549000015258789,0.031137699261307716,Derry Scherhant,a,10860,OpenPlay,2025,RightFoot,30252,Werder Bremen,Freiburg,0,3,2025-09-20 13:30:00,Lucas Höler,BallTouch
+647053,82,SavedShot,0.9640000152587891,0.805,0.07743966579437256,Derry Scherhant,a,10860,DirectFreekick,2025,RightFoot,30270,Borussia M.Gladbach,Freiburg,0,0,2025-10-05 17:30:00,,Standard
+647055,85,BlockedShot,0.8430000305175781,0.62,0.08300183713436127,Derry Scherhant,a,10860,OpenPlay,2025,RightFoot,30270,Borussia M.Gladbach,Freiburg,0,0,2025-10-05 17:30:00,Patrick Osterhage,Pass
+648154,1,Goal,0.8930000305175781,0.644000015258789,0.23377074301242828,Derry Scherhant,h,10860,OpenPlay,2025,LeftFoot,30280,Freiburg,Eintracht Frankfurt,2,2,2025-10-19 13:30:00,Johan Manzambi,Pass
+648165,57,MissedShots,0.8530000305175781,0.65,0.0704108253121376,Derry Scherhant,h,10860,OpenPlay,2025,RightFoot,30280,Freiburg,Eintracht Frankfurt,2,2,2025-10-19 13:30:00,Lucas Höler,LayOff
+648167,61,MissedShots,0.870999984741211,0.54,0.0689917728304863,Derry Scherhant,h,10860,OpenPlay,2025,RightFoot,30280,Freiburg,Eintracht Frankfurt,2,2,2025-10-19 13:30:00,Jan-Niklas Beste,Cross
+649606,1,SavedShot,0.835,0.705999984741211,0.029609117656946182,Derry Scherhant,a,10860,OpenPlay,2025,RightFoot,30288,Bayer Leverkusen,Freiburg,2,0,2025-10-26 13:30:00,Philipp Lienhart,Pass
+649617,39,MissedShots,0.7709999847412109,0.4329999923706055,0.08421928435564041,Derry Scherhant,a,10860,DirectFreekick,2025,RightFoot,30288,Bayer Leverkusen,Freiburg,2,0,2025-10-26 13:30:00,,Standard
+649618,48,MissedShots,0.904000015258789,0.8240000152587891,0.06289824098348618,Derry Scherhant,a,10860,DirectFreekick,2025,RightFoot,30288,Bayer Leverkusen,Freiburg,2,0,2025-10-26 13:30:00,,Standard
+649627,69,BlockedShot,0.86,0.7030000305175781,0.035503797233104706,Derry Scherhant,a,10860,OpenPlay,2025,RightFoot,30288,Bayer Leverkusen,Freiburg,2,0,2025-10-26 13:30:00,Philipp Lienhart,Pass
+650727,93,BlockedShot,0.8369999694824218,0.6840000152587891,0.03315475955605507,Derry Scherhant,a,10860,SetPiece,2025,LeftFoot,30303,Union Berlin,Freiburg,0,0,2025-11-01 14:30:00,Philipp Treu,BallTouch
+652851,66,BlockedShot,0.76,0.544000015258789,0.013428731821477413,Derry Scherhant,h,10860,OpenPlay,2025,RightFoot,30308,Freiburg,St. Pauli,2,1,2025-11-09 14:30:00,,Aerial
+653546,34,BlockedShot,0.7680000305175781,0.685,0.023215685039758682,Derry Scherhant,a,10860,OpenPlay,2025,RightFoot,30315,Bayern Munich,Freiburg,6,2,2025-11-22 14:30:00,Lucas Höler,Pass
+659197,77,Goal,0.935,0.275,0.04410519823431969,Derry Scherhant,a,10860,OpenPlay,2025,RightFoot,30358,Wolfsburg,Freiburg,3,4,2025-12-20 14:30:00,Johan Manzambi,Pass
+659196,77,BlockedShot,0.840999984741211,0.37799999237060544,0.06556204706430435,Derry Scherhant,a,10860,OpenPlay,2025,RightFoot,30358,Wolfsburg,Freiburg,3,4,2025-12-20 14:30:00,Johan Manzambi,Pass
+659200,89,BlockedShot,0.914000015258789,0.3220000076293945,0.11995736509561539,Derry Scherhant,a,10860,OpenPlay,2025,RightFoot,30358,Wolfsburg,Freiburg,3,4,2025-12-20 14:30:00,Maximilian Eggestein,TakeOn
+665450,10,Goal,0.9309999847412109,0.4209999847412109,0.45889994502067566,Derry Scherhant,h,10860,OpenPlay,2025,RightFoot,30390,Freiburg,FC Cologne,2,1,2026-01-25 16:30:00,Yuito Suzuki,Throughball
+665466,62,MissedShots,0.7980000305175782,0.22899999618530273,0.05024949088692665,Derry Scherhant,h,10860,DirectFreekick,2025,RightFoot,30390,Freiburg,FC Cologne,2,1,2026-01-25 16:30:00,,Standard
+666557,0,BlockedShot,0.8019999694824219,0.6480000305175782,0.03686485439538956,Derry Scherhant,a,10860,OpenPlay,2025,LeftFoot,30402,VfB Stuttgart,Freiburg,1,0,2026-02-01 14:30:00,Igor Matanovic,HeadPass
+666570,42,MissedShots,0.875,0.610999984741211,0.287991464138031,Derry Scherhant,a,10860,OpenPlay,2025,RightFoot,30402,VfB Stuttgart,Freiburg,1,0,2026-02-01 14:30:00,Igor Matanovic,CornerAwarded
+667200,86,BlockedShot,0.9169999694824219,0.24100000381469727,0.0404546745121479,Derry Scherhant,h,10860,OpenPlay,2025,RightFoot,30407,Freiburg,Werder Bremen,1,0,2026-02-07 14:30:00,Yuito Suzuki,Pass
+668694,30,SavedShot,0.8380000305175781,0.6480000305175782,0.04842892661690712,Derry Scherhant,a,10860,OpenPlay,2025,RightFoot,30418,Hoffenheim,Freiburg,3,0,2026-02-14 14:30:00,Maximilian Eggestein,Pass
+671843,85,SavedShot,0.9419999694824219,0.625,0.07436402887105942,Derry Scherhant,a,10860,OpenPlay,2025,LeftFoot,30435,Eintracht Frankfurt,Freiburg,2,0,2026-03-01 16:30:00,,Rebound
+672554,72,BlockedShot,0.8009999847412109,0.6320000076293946,0.031028203666210175,Derry Scherhant,h,10860,OpenPlay,2025,RightFoot,30442,Freiburg,Bayer Leverkusen,3,3,2026-03-07 14:30:00,Maximilian Eggestein,Pass
+674600,21,SavedShot,0.7769999694824219,0.67,0.018405450507998466,Derry Scherhant,h,10860,OpenPlay,2025,RightFoot,30453,Freiburg,Union Berlin,0,1,2026-03-15 16:30:00,Johan Manzambi,TakeOn
+674606,53,MissedShots,0.8219999694824218,0.4859999847412109,0.18043707311153412,Derry Scherhant,h,10860,DirectFreekick,2025,RightFoot,30453,Freiburg,Union Berlin,0,1,2026-03-15 16:30:00,,Standard
+678640,71,BlockedShot,0.795,0.7169999694824218,0.021288778632879257,Derry Scherhant,a,10860,SetPiece,2025,RightFoot,30480,Mainz 05,Freiburg,0,1,2026-04-12 17:30:00,Lucas Höler,Pass
+679650,40,BlockedShot,0.9109999847412109,0.3659999847412109,0.10438960790634155,Derry Scherhant,h,10860,OpenPlay,2025,RightFoot,30489,Freiburg,FC Heidenheim,2,1,2026-04-19 13:30:00,Lucas Höler,Pass
+679653,45,SavedShot,0.94,0.700999984741211,0.06423795968294144,Derry Scherhant,h,10860,OpenPlay,2025,LeftFoot,30489,Freiburg,FC Heidenheim,2,1,2026-04-19 13:30:00,Lucas Höler,Pass
+681569,14,MissedShots,0.9280000305175782,0.355,0.05900036171078682,Derry Scherhant,a,10860,OpenPlay,2025,RightFoot,30495,Borussia Dortmund,Freiburg,4,0,2026-04-26 15:30:00,Igor Matanovic,HeadPass

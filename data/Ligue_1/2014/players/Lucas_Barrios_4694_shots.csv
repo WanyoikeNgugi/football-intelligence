@@ -1,0 +1,48 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+10717,88,Goal,0.9840000152587891,0.5379999923706055,0.9356499910354614,Lucas Barrios,a,4694,SetPiece,2014,RightFoot,6417,Rubin Kazan,Spartak Moscow,0,4,2014-08-01 17:00:00,,Rebound
+320,54,MissedShots,0.8919999694824219,0.39799999237060546,0.08297909796237946,Lucas Barrios,a,4694,OpenPlay,2014,RightFoot,6202,Marseille,Montpellier,0,2,2014-08-17 16:00:00,Mathieu Deplagne,Cross
+557,24,MissedShots,0.895,0.5370000076293945,0.053147800266742706,Lucas Barrios,h,4694,FromCorner,2014,Head,6210,Montpellier,Metz,2,0,2014-08-23 19:00:00,Morgan Sanson,Cross
+566,72,MissedShots,0.8540000152587891,0.6980000305175781,0.056420501321554184,Lucas Barrios,h,4694,OpenPlay,2014,RightFoot,6210,Montpellier,Metz,2,0,2014-08-23 19:00:00,,BallTouch
+1010,41,MissedShots,0.765,0.385,0.019800400361418724,Lucas Barrios,a,4694,OpenPlay,2014,RightFoot,6217,Nantes,Montpellier,1,0,2014-08-30 19:00:00,,None
+1018,71,MissedShots,0.73,0.49,0.017232099547982216,Lucas Barrios,a,4694,OpenPlay,2014,RightFoot,6217,Nantes,Montpellier,1,0,2014-08-30 19:00:00,Anthony Mounier,BallRecovery
+843,31,BlockedShot,0.8519999694824218,0.33099998474121095,0.04750179871916771,Lucas Barrios,h,4694,OpenPlay,2014,RightFoot,6149,Montpellier,Lorient,1,0,2014-09-13 19:00:00,Abdelhamid El Kaoutari,Chipped
+848,47,BlockedShot,0.8140000152587891,0.415,0.0628432035446167,Lucas Barrios,h,4694,OpenPlay,2014,LeftFoot,6149,Montpellier,Lorient,1,0,2014-09-13 19:00:00,,None
+7690,7,MissedShots,0.8690000152587891,0.675,0.32808399200439453,Lucas Barrios,a,4694,OpenPlay,2014,RightFoot,6133,Lyon,Montpellier,5,1,2014-10-19 20:00:00,Anthony Mounier,Throughball
+7697,32,SavedShot,0.9119999694824219,0.515,0.055123601108789444,Lucas Barrios,a,4694,OpenPlay,2014,Head,6133,Lyon,Montpellier,5,1,2014-10-19 20:00:00,Daniel Congré,Aerial
+3941,18,BlockedShot,0.9180000305175782,0.4470000076293945,0.09763380140066147,Lucas Barrios,h,4694,OpenPlay,2014,RightFoot,6080,Montpellier,Evian Thonon Gaillard,2,0,2014-11-01 19:00:00,,None
+2914,18,BlockedShot,0.879000015258789,0.5629999923706055,0.37385401129722595,Lucas Barrios,a,4694,OpenPlay,2014,RightFoot,6048,Rennes,Montpellier,0,4,2014-12-06 19:00:00,Jonas Martin,Throughball
+2924,57,MissedShots,0.8469999694824218,0.6229999923706054,0.0857900008559227,Lucas Barrios,a,4694,OpenPlay,2014,LeftFoot,6048,Rennes,Montpellier,0,4,2014-12-06 19:00:00,Anthony Mounier,Pass
+2925,59,Goal,0.9580000305175781,0.5979999923706054,0.5190160274505615,Lucas Barrios,a,4694,OpenPlay,2014,LeftFoot,6048,Rennes,Montpellier,0,4,2014-12-06 19:00:00,,None
+4015,15,Goal,0.899000015258789,0.4,0.4047139883041382,Lucas Barrios,h,4694,OpenPlay,2014,RightFoot,6058,Montpellier,Lens,3,3,2014-12-13 19:00:00,Jonas Martin,Pass
+4436,16,Goal,0.885,0.5,0.7600950002670288,Lucas Barrios,a,4694,Penalty,2014,RightFoot,6014,Metz,Montpellier,2,3,2015-01-17 19:00:00,,Standard
+4442,52,Goal,0.825999984741211,0.49900001525878906,0.3164930045604706,Lucas Barrios,a,4694,OpenPlay,2014,RightFoot,6014,Metz,Montpellier,2,3,2015-01-17 19:00:00,Bryan Dabo,Throughball
+4447,68,Goal,0.9590000152587891,0.47400001525878904,0.6771969795227051,Lucas Barrios,a,4694,OpenPlay,2014,RightFoot,6014,Metz,Montpellier,2,3,2015-01-17 19:00:00,,Rebound
+5528,81,Goal,0.749000015258789,0.5790000152587891,0.023255599662661552,Lucas Barrios,h,4694,OpenPlay,2014,RightFoot,6022,Montpellier,Nantes,4,0,2015-01-24 19:00:00,Morgan Sanson,Pass
+6102,15,MissedShots,0.8280000305175781,0.4620000076293945,0.007449170108884573,Lucas Barrios,a,4694,SetPiece,2014,Head,6032,Lorient,Montpellier,0,0,2015-01-31 19:00:00,Abdelhamid El Kaoutari,Aerial
+3257,16,BlockedShot,0.8540000152587891,0.345,0.0772688016295433,Lucas Barrios,h,4694,OpenPlay,2014,LeftFoot,5969,Montpellier,Lille,1,2,2015-02-07 19:00:00,Morgan Sanson,Pass
+3258,21,SavedShot,0.6980000305175781,0.6619999694824219,0.010840799659490585,Lucas Barrios,h,4694,OpenPlay,2014,RightFoot,5969,Montpellier,Lille,1,2,2015-02-07 19:00:00,Kévin Berigaud,LayOff
+3261,28,SavedShot,0.955999984741211,0.3290000152587891,0.09668949991464615,Lucas Barrios,h,4694,OpenPlay,2014,RightFoot,5969,Montpellier,Lille,1,2,2015-02-07 19:00:00,Joris Marveaux,Throughball
+3264,39,SavedShot,0.879000015258789,0.46,0.046282801777124405,Lucas Barrios,h,4694,OpenPlay,2014,Head,5969,Montpellier,Lille,1,2,2015-02-07 19:00:00,Bryan Dabo,Cross
+5183,41,MissedShots,0.9030000305175782,0.5709999847412109,0.06199349835515022,Lucas Barrios,h,4694,OpenPlay,2014,Head,5927,Montpellier,Nice,2,1,2015-03-01 16:00:00,Anthony Mounier,Cross
+5191,65,Goal,0.860999984741211,0.385,0.2881790101528168,Lucas Barrios,h,4694,OpenPlay,2014,RightFoot,5927,Montpellier,Nice,2,1,2015-03-01 16:00:00,,Rebound
+1852,5,Goal,0.9169999694824219,0.5459999847412109,0.479638010263443,Lucas Barrios,h,4694,OpenPlay,2014,RightFoot,5939,Montpellier,Lyon,1,5,2015-03-08 20:00:00,Bryan Dabo,Pass
+1864,68,SavedShot,0.8230000305175781,0.5570000076293945,0.05734910070896149,Lucas Barrios,h,4694,SetPiece,2014,RightFoot,5939,Montpellier,Lyon,1,5,2015-03-08 20:00:00,Hilton,HeadPass
+1868,80,SavedShot,0.885,0.5,0.7600950002670288,Lucas Barrios,h,4694,Penalty,2014,RightFoot,5939,Montpellier,Lyon,1,5,2015-03-08 20:00:00,,Standard
+7970,3,Goal,0.82,0.4640000152587891,0.07786879688501358,Lucas Barrios,h,4694,OpenPlay,2014,RightFoot,5944,Montpellier,Reims,3,1,2015-03-14 19:00:00,Kévin Berigaud,TakeOn
+7991,72,Goal,0.935,0.45299999237060545,0.5274720191955566,Lucas Barrios,h,4694,OpenPlay,2014,RightFoot,5944,Montpellier,Reims,3,1,2015-03-14 19:00:00,,Rebound
+8308,36,MissedShots,0.725,0.509000015258789,0.01602339930832386,Lucas Barrios,a,4694,OpenPlay,2014,RightFoot,5956,Evian Thonon Gaillard,Montpellier,1,0,2015-03-21 19:00:00,Kévin Berigaud,Pass
+8633,41,BlockedShot,0.8669999694824219,0.45299999237060545,0.0758695974946022,Lucas Barrios,h,4694,OpenPlay,2014,RightFoot,5889,Montpellier,SC Bastia,3,1,2015-04-04 19:00:00,Djamel Bakar,Pass
+8634,46,MissedShots,0.885,0.4909999847412109,0.027440199628472328,Lucas Barrios,h,4694,OpenPlay,2014,Head,5889,Montpellier,SC Bastia,3,1,2015-04-04 19:00:00,Anthony Mounier,Aerial
+8638,68,Goal,0.885,0.5,0.7600950002670288,Lucas Barrios,h,4694,Penalty,2014,RightFoot,5889,Montpellier,SC Bastia,3,1,2015-04-04 19:00:00,,Standard
+2622,27,MissedShots,0.9059999847412109,0.44,0.40212899446487427,Lucas Barrios,a,4694,OpenPlay,2014,RightFoot,5895,Monaco,Montpellier,0,0,2015-04-07 18:00:00,,Rebound
+2627,51,MissedShots,0.885,0.5,0.7600950002670288,Lucas Barrios,a,4694,Penalty,2014,RightFoot,5895,Monaco,Montpellier,0,0,2015-04-07 18:00:00,,Standard
+6350,37,ShotOnPost,0.914000015258789,0.5529999923706055,0.11872600018978119,Lucas Barrios,h,4694,OpenPlay,2014,Head,5913,Montpellier,Caen,1,0,2015-04-19 16:00:00,Anthony Mounier,Cross
+6351,54,SavedShot,0.7140000152587891,0.7140000152587891,0.0177800003439188,Lucas Barrios,h,4694,OpenPlay,2014,RightFoot,5913,Montpellier,Caen,1,0,2015-04-19 16:00:00,Anthony Mounier,Pass
+6359,78,MissedShots,0.9380000305175781,0.5640000152587891,0.10010500252246857,Lucas Barrios,h,4694,FromCorner,2014,RightFoot,5913,Montpellier,Caen,1,0,2015-04-19 16:00:00,Anthony Mounier,Cross
+6894,26,SavedShot,0.894000015258789,0.6869999694824219,0.314985990524292,Lucas Barrios,a,4694,OpenPlay,2014,LeftFoot,5922,Saint-Etienne,Montpellier,1,0,2015-04-26 13:00:00,Anthony Mounier,Throughball
+6283,31,BlockedShot,0.8719999694824219,0.44799999237060545,0.03239480033516884,Lucas Barrios,a,4694,OpenPlay,2014,Head,5862,Lens,Montpellier,0,1,2015-05-10 13:00:00,Joris Marveaux,Cross
+6284,46,BlockedShot,0.870999984741211,0.4420000076293945,0.06900220364332199,Lucas Barrios,a,4694,OpenPlay,2014,RightFoot,5862,Lens,Montpellier,0,1,2015-05-10 13:00:00,Joris Marveaux,Cross
+6285,47,MissedShots,0.9019999694824219,0.4209999847412109,0.07738880068063736,Lucas Barrios,a,4694,SetPiece,2014,RightFoot,5862,Lens,Montpellier,0,1,2015-05-10 13:00:00,Anthony Mounier,HeadPass
+6288,55,MissedShots,0.874000015258789,0.43200000762939456,0.09762319922447205,Lucas Barrios,a,4694,SetPiece,2014,LeftFoot,5862,Lens,Montpellier,0,1,2015-05-10 13:00:00,Jonas Martin,Pass
+7081,46,MissedShots,0.9230000305175782,0.5259999847412109,0.10685700178146362,Lucas Barrios,a,4694,FromCorner,2014,Head,5875,Bordeaux,Montpellier,2,1,2015-05-23 20:00:00,Jonas Martin,Cross
+7082,49,MissedShots,0.89,0.2929999923706055,0.0847816988825798,Lucas Barrios,a,4694,OpenPlay,2014,RightFoot,5875,Bordeaux,Montpellier,2,1,2015-05-23 20:00:00,Bryan Dabo,Throughball

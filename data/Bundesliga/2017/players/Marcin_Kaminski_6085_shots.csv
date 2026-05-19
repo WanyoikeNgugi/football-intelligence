@@ -1,0 +1,19 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+166212,56,MissedShots,0.88,0.575999984741211,0.013870899565517902,Marcin Kaminski,h,6085,SetPiece,2017,Head,8273,VfB Stuttgart,Mainz 05,1,0,2017-08-26 14:30:00,Orel Mangala,Aerial
+166781,26,BlockedShot,0.8959999847412109,0.500999984741211,0.11894500255584717,Marcin Kaminski,h,6085,SetPiece,2017,RightFoot,8290,VfB Stuttgart,Wolfsburg,1,0,2017-09-16 14:30:00,Chadrac Akolo,Pass
+187341,64,MissedShots,0.755,0.56,0.015169399790465832,Marcin Kaminski,h,6085,SetPiece,2017,RightFoot,8420,VfB Stuttgart,Hertha Berlin,1,0,2018-01-13 14:30:00,,None
+189894,46,MissedShots,0.9030000305175782,0.5279999923706055,0.06988859921693802,Marcin Kaminski,h,6085,FromCorner,2017,Head,8436,VfB Stuttgart,Schalke 04,0,2,2018-01-27 14:30:00,Emiliano Insúa,Cross
+222259,5,MissedShots,0.769000015258789,0.6609999847412109,0.017183899879455566,Marcin Kaminski,a,6085,OpenPlay,2018,LeftFoot,10353,RasenBallsport Leipzig,Fortuna Duesseldorf,1,1,2018-09-02 13:30:00,,None
+224680,66,BlockedShot,0.8480000305175781,0.4640000152587891,0.06784550100564957,Marcin Kaminski,a,6085,SetPiece,2018,LeftFoot,10364,VfB Stuttgart,Fortuna Duesseldorf,0,0,2018-09-21 18:30:00,,Rebound
+224687,86,BlockedShot,0.9719999694824218,0.33599998474121096,0.05883549898862839,Marcin Kaminski,a,6085,FromCorner,2018,RightFoot,10364,VfB Stuttgart,Fortuna Duesseldorf,0,0,2018-09-21 18:30:00,,Rebound
+257436,52,MissedShots,0.909000015258789,0.46099998474121096,0.07514329999685287,Marcin Kaminski,h,6085,FromCorner,2018,Head,10452,Fortuna Duesseldorf,Mainz 05,0,1,2018-11-30 19:30:00,Jean Zimmer,Cross
+256980,39,BlockedShot,0.879000015258789,0.5790000152587891,0.023571399971842766,Marcin Kaminski,a,6085,FromCorner,2018,Head,10459,Werder Bremen,Fortuna Duesseldorf,3,1,2018-12-07 19:30:00,Kevin Stöger,Cross
+278350,30,SavedShot,0.7069999694824218,0.504000015258789,0.043389398604631424,Marcin Kaminski,a,6085,DirectFreekick,2018,LeftFoot,10493,Augsburg,Fortuna Duesseldorf,1,2,2019-01-19 14:30:00,,Standard
+287483,27,MissedShots,0.745,0.33,0.04882809892296791,Marcin Kaminski,h,6085,DirectFreekick,2018,LeftFoot,10579,Fortuna Duesseldorf,Borussia M.Gladbach,3,1,2019-03-30 14:30:00,,Standard
+291931,28,MissedShots,0.95,0.48900001525878906,0.580892026424408,Marcin Kaminski,a,6085,FromCorner,2018,LeftFoot,10585,Hertha Berlin,Fortuna Duesseldorf,1,2,2019-04-06 14:30:00,,None
+382963,69,MissedShots,0.924000015258789,0.41200000762939454,0.060061100870370865,Marcin Kaminski,h,6085,SetPiece,2020,RightFoot,15176,VfB Stuttgart,FC Cologne,1,1,2020-10-23 18:30:00,,Aerial
+415269,83,SavedShot,0.9069999694824219,0.49400001525878906,0.050243400037288666,Marcin Kaminski,a,6085,SetPiece,2020,Head,15398,Union Berlin,VfB Stuttgart,2,1,2021-04-17 13:30:00,Philipp Förster,Aerial
+519048,53,MissedShots,0.9419999694824219,0.42400001525878905,0.03889809921383858,Marcin Kaminski,h,6085,FromCorner,2022,Head,19592,Schalke 04,Hertha Berlin,5,2,2023-04-14 18:30:00,Dominick Drexler,Aerial
+519057,91,Goal,0.795,0.655,0.08391539752483368,Marcin Kaminski,h,6085,DirectFreekick,2022,LeftFoot,19592,Schalke 04,Hertha Berlin,5,2,2023-04-14 18:30:00,,Standard
+522901,28,BlockedShot,0.7230000305175781,0.33799999237060546,0.04089880362153053,Marcin Kaminski,h,6085,DirectFreekick,2022,LeftFoot,19611,Schalke 04,Werder Bremen,2,1,2023-04-29 16:30:00,,Standard
+528915,27,Goal,0.9630000305175781,0.5420000076293945,0.1354120820760727,Marcin Kaminski,a,6085,FromCorner,2022,Head,19640,RasenBallsport Leipzig,Schalke 04,4,2,2023-05-27 13:30:00,Rodrigo Zalazar,Cross

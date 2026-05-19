@@ -1,0 +1,52 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+76952,6,MissedShots,0.9359999847412109,0.3840000152587891,0.049070000648498535,Marvin Matip,h,236,SetPiece,2015,Head,1052,Ingolstadt,Wolfsburg,0,0,2015-09-12 17:30:00,Pascal Groß,Chipped
+77125,49,MissedShots,0.865,0.565,0.038130901753902435,Marvin Matip,a,236,SetPiece,2015,Head,1061,Werder Bremen,Ingolstadt,0,1,2015-09-19 17:30:00,Markus Suttner,Chipped
+77642,20,Goal,0.909000015258789,0.48900001525878906,0.0854485034942627,Marvin Matip,a,236,FromCorner,2015,Head,1075,FC Cologne,Ingolstadt,1,1,2015-09-25 22:30:00,Pascal Groß,Cross
+78019,93,MissedShots,0.9280000305175782,0.7080000305175781,0.05022279918193817,Marvin Matip,a,236,OpenPlay,2015,LeftFoot,1101,VfB Stuttgart,Ingolstadt,1,0,2015-10-18 19:30:00,Benjamin Hübner,HeadPass
+78344,5,MissedShots,0.8769999694824219,0.5429999923706055,0.01382909994572401,Marvin Matip,h,236,FromCorner,2015,Head,1108,Ingolstadt,Hertha Berlin,0,1,2015-10-24 20:30:00,Pascal Groß,Aerial
+78355,59,MissedShots,0.8519999694824218,0.56,0.05946259945631027,Marvin Matip,h,236,FromCorner,2015,RightFoot,1108,Ingolstadt,Hertha Berlin,0,1,2015-10-24 20:30:00,,None
+78414,81,MissedShots,0.8640000152587891,0.36,0.007626920007169247,Marvin Matip,a,236,SetPiece,2015,Head,1116,Schalke 04,Ingolstadt,1,1,2015-10-31 18:30:00,Pascal Groß,Aerial
+78716,12,MissedShots,0.895,0.5129999923706055,0.26708298921585083,Marvin Matip,a,236,SetPiece,2015,Head,1124,Borussia M.Gladbach,Ingolstadt,0,0,2015-11-07 18:30:00,Pascal Groß,Chipped
+79077,28,MissedShots,0.8859999847412109,0.355,0.045066699385643005,Marvin Matip,h,236,FromCorner,2015,RightFoot,1137,Ingolstadt,Darmstadt,3,1,2015-11-22 20:40:00,Romain Brègerie,BallTouch
+79603,35,MissedShots,0.925,0.59,0.05693700164556503,Marvin Matip,a,236,FromCorner,2015,Head,1161,Bayern Munich,Ingolstadt,2,0,2015-12-12 18:30:00,Pascal Groß,Cross
+80035,6,MissedShots,0.8530000305175781,0.37400001525878906,0.05738469958305359,Marvin Matip,h,236,OpenPlay,2015,RightFoot,1166,Ingolstadt,Bayer Leverkusen,0,1,2015-12-19 18:30:00,,None
+80052,79,SavedShot,0.8959999847412109,0.6630000305175782,0.02555900067090988,Marvin Matip,h,236,SetPiece,2015,Head,1166,Ingolstadt,Bayer Leverkusen,0,1,2015-12-19 18:30:00,Pascal Groß,Chipped
+80729,37,BlockedShot,0.9180000305175782,0.5879999923706055,0.10952699929475784,Marvin Matip,h,236,FromCorner,2015,RightFoot,1197,Ingolstadt,Augsburg,2,1,2016-02-06 18:30:00,Darío Lezcano,Rebound
+80732,46,MissedShots,0.9059999847412109,0.4490000152587891,0.03972040116786957,Marvin Matip,h,236,SetPiece,2015,Head,1197,Ingolstadt,Augsburg,2,1,2016-02-06 18:30:00,Pascal Groß,Aerial
+80739,58,Goal,0.9669999694824218,0.46900001525878904,0.5358390212059021,Marvin Matip,h,236,FromCorner,2015,Head,1197,Ingolstadt,Augsburg,2,1,2016-02-06 18:30:00,Roger,Rebound
+80778,48,MissedShots,0.9119999694824219,0.5109999847412109,0.09115950018167496,Marvin Matip,a,236,FromCorner,2015,Head,1204,Wolfsburg,Ingolstadt,2,0,2016-02-13 18:30:00,Pascal Groß,Cross
+80781,66,SavedShot,0.91,0.4909999847412109,0.08755040168762207,Marvin Matip,a,236,FromCorner,2015,Head,1204,Wolfsburg,Ingolstadt,2,0,2016-02-13 18:30:00,Pascal Groß,Cross
+80786,83,BlockedShot,0.7809999847412109,0.2989999961853027,0.01245190016925335,Marvin Matip,a,236,OpenPlay,2015,RightFoot,1204,Wolfsburg,Ingolstadt,2,0,2016-02-13 18:30:00,,None
+81655,79,MissedShots,0.9519999694824218,0.5070000076293946,0.5409420132637024,Marvin Matip,h,236,SetPiece,2015,Head,1229,Ingolstadt,FC Cologne,1,1,2016-03-01 23:00:00,Pascal Groß,Cross
+81864,64,MissedShots,0.9059999847412109,0.39,0.11191000044345856,Marvin Matip,a,236,OpenPlay,2015,LeftFoot,1240,Eintracht Frankfurt,Ingolstadt,1,1,2016-03-05 18:30:00,Robert Bauer,Pass
+82598,72,MissedShots,0.8969999694824219,0.41,0.031098200008273125,Marvin Matip,h,236,FromCorner,2015,Head,1267,Ingolstadt,Schalke 04,3,0,2016-04-02 17:30:00,Pascal Groß,Cross
+82599,80,MissedShots,0.850999984741211,0.36400001525878906,0.04731760174036026,Marvin Matip,h,236,SetPiece,2015,LeftFoot,1267,Ingolstadt,Schalke 04,3,0,2016-04-02 17:30:00,,None
+83443,12,MissedShots,0.8930000305175781,0.509000015258789,0.028491200879216194,Marvin Matip,a,236,SetPiece,2015,Head,1302,Hoffenheim,Ingolstadt,2,1,2016-04-30 17:30:00,Pascal Groß,Aerial
+83458,59,BlockedShot,0.8980000305175782,0.7140000152587891,0.04339750111103058,Marvin Matip,a,236,FromCorner,2015,LeftFoot,1302,Hoffenheim,Ingolstadt,2,1,2016-04-30 17:30:00,Stefan Lex,Pass
+83890,85,MissedShots,0.9,0.36400001525878906,0.06739789992570877,Marvin Matip,a,236,SetPiece,2015,RightFoot,1323,Bayer Leverkusen,Ingolstadt,3,2,2016-05-14 17:30:00,Pascal Groß,Chipped
+127487,16,MissedShots,0.9019999694824219,0.575,0.0454167015850544,Marvin Matip,a,236,FromCorner,2016,Head,1329,Hamburger SV,Ingolstadt,1,1,2016-08-27 17:30:00,Pascal Groß,Cross
+127935,48,SavedShot,0.915,0.5920000076293945,0.04472609981894493,Marvin Matip,h,236,FromCorner,2016,Head,1338,Ingolstadt,Hertha Berlin,0,2,2016-09-10 17:30:00,Pascal Groß,Cross
+128182,74,MissedShots,0.88,0.4329999923706055,0.028335200622677803,Marvin Matip,a,236,FromCorner,2016,Head,1349,Bayern Munich,Ingolstadt,3,1,2016-09-17 17:30:00,Pascal Groß,Cross
+128644,48,MissedShots,0.9130000305175782,0.509000015258789,0.039886701852083206,Marvin Matip,a,236,FromCorner,2016,Head,1364,Borussia M.Gladbach,Ingolstadt,2,0,2016-09-24 17:30:00,Pascal Groß,Aerial
+128953,13,MissedShots,0.914000015258789,0.4540000152587891,0.030396299436688423,Marvin Matip,h,236,FromCorner,2016,Head,1375,Ingolstadt,Hoffenheim,1,2,2016-10-01 17:30:00,Anthony Jung,Aerial
+128955,15,SavedShot,0.9340000152587891,0.4759999847412109,0.5444729924201965,Marvin Matip,h,236,FromCorner,2016,LeftFoot,1375,Ingolstadt,Hoffenheim,1,2,2016-10-01 17:30:00,Tobias Levels,Rebound
+129169,41,MissedShots,0.8959999847412109,0.435,0.04227359965443611,Marvin Matip,a,236,FromCorner,2016,Head,1383,FC Cologne,Ingolstadt,2,1,2016-10-15 17:30:00,Pascal Groß,Cross
+129175,59,MissedShots,0.8630000305175781,0.3920000076293945,0.03280229866504669,Marvin Matip,a,236,SetPiece,2016,Head,1383,FC Cologne,Ingolstadt,2,1,2016-10-15 17:30:00,Pascal Groß,Chipped
+129669,76,MissedShots,0.895,0.534000015258789,0.02925639972090721,Marvin Matip,h,236,FromCorner,2016,Head,2808,Ingolstadt,Augsburg,0,2,2016-11-05 18:30:00,Pascal Groß,BallRecovery
+130685,6,BlockedShot,0.89,0.515,0.05132539942860603,Marvin Matip,a,236,FromCorner,2016,Head,2820,Darmstadt,Ingolstadt,0,1,2016-11-19 18:30:00,Pascal Groß,Cross
+130693,39,MissedShots,0.9169999694824219,0.42400001525878905,0.0607306994497776,Marvin Matip,a,236,FromCorner,2016,Head,2820,Darmstadt,Ingolstadt,0,1,2016-11-19 18:30:00,Pascal Groß,Cross
+130701,64,MissedShots,0.89,0.6020000076293945,0.012277999892830849,Marvin Matip,a,236,FromCorner,2016,Head,2820,Darmstadt,Ingolstadt,0,1,2016-11-19 18:30:00,Pascal Groß,Aerial
+130586,39,MissedShots,0.924000015258789,0.33099998474121095,0.05552719905972481,Marvin Matip,a,236,OpenPlay,2016,RightFoot,3197,Werder Bremen,Ingolstadt,2,1,2016-12-03 18:30:00,Anthony Jung,Pass
+130593,58,SavedShot,0.8959999847412109,0.59,0.04661279916763306,Marvin Matip,a,236,SetPiece,2016,Head,3197,Werder Bremen,Ingolstadt,2,1,2016-12-03 18:30:00,Florent Hadergjonaj,Chipped
+131260,21,MissedShots,0.935,0.47200000762939454,0.06458120048046112,Marvin Matip,h,236,FromCorner,2016,Head,3205,Ingolstadt,RasenBallsport Leipzig,1,0,2016-12-10 18:30:00,Pascal Groß,Aerial
+132027,5,MissedShots,0.88,0.61,0.011748800054192543,Marvin Matip,a,236,FromCorner,2016,Head,3745,Hertha Berlin,Ingolstadt,1,0,2017-02-04 14:30:00,Pascal Groß,Aerial
+132035,62,BlockedShot,0.8640000152587891,0.40099998474121096,0.011986300349235535,Marvin Matip,a,236,FromCorner,2016,Head,3745,Hertha Berlin,Ingolstadt,1,0,2017-02-04 14:30:00,Markus Suttner,Aerial
+132045,85,SavedShot,0.875999984741211,0.5670000076293945,0.013047399930655956,Marvin Matip,a,236,FromCorner,2016,Head,3745,Hertha Berlin,Ingolstadt,1,0,2017-02-04 14:30:00,Pascal Groß,Aerial
+131844,51,SavedShot,0.9030000305175782,0.5320000076293945,0.024092700332403183,Marvin Matip,a,236,FromCorner,2016,Head,3759,Eintracht Frankfurt,Ingolstadt,0,2,2017-02-18 14:30:00,Markus Suttner,Aerial
+132194,55,SavedShot,0.93,0.4909999847412109,0.122639000415802,Marvin Matip,h,236,FromCorner,2016,Head,3774,Ingolstadt,Borussia M.Gladbach,0,2,2017-02-26 14:30:00,Pascal Groß,Cross
+134303,87,MissedShots,0.85,0.3609999847412109,0.046489499509334564,Marvin Matip,a,236,OpenPlay,2016,LeftFoot,3794,Borussia Dortmund,Ingolstadt,1,0,2017-03-17 19:30:00,Darío Lezcano,Pass
+133266,70,OwnGoal,0.03700000047683716,0.47,0,Marvin Matip,h,236,SetPiece,2016,Head,3810,Ingolstadt,Mainz 05,2,1,2017-04-02 14:30:00,,SubstitutionOn
+134731,20,MissedShots,0.9030000305175782,0.52,0.06739860028028488,Marvin Matip,a,236,FromCorner,2016,Head,3851,RasenBallsport Leipzig,Ingolstadt,0,0,2017-04-29 14:30:00,Sonny Kittel,Cross
+135068,74,MissedShots,0.9030000305175782,0.5729999923706055,0.047538600862026215,Marvin Matip,h,236,FromCorner,2016,Head,3865,Ingolstadt,Bayer Leverkusen,1,1,2017-05-06 14:30:00,Pascal Groß,Cross
+133553,82,BlockedShot,0.92,0.45799999237060546,0.0935186967253685,Marvin Matip,a,236,FromCorner,2016,Head,3873,Freiburg,Ingolstadt,1,1,2017-05-13 14:30:00,Markus Suttner,Cross
+127948,8,MissedShots,0.9130000305175782,0.6079999923706054,0.04692009836435318,Marvin Matip,h,236,SetPiece,2016,Head,3880,Ingolstadt,Schalke 04,1,1,2017-05-20 14:30:00,Markus Suttner,Cross

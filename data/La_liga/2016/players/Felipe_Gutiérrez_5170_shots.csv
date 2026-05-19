@@ -1,0 +1,8 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+135423,75,MissedShots,0.9030000305175782,0.6609999847412109,0.06620600074529648,Felipe Gutiérrez,h,5170,FromCorner,2016,LeftFoot,1789,Real Betis,Deportivo La Coruna,0,0,2016-08-26 22:45:00,,Rebound
+135673,82,BlockedShot,0.7880000305175782,0.7230000305175781,0.02324650064110756,Felipe Gutiérrez,a,5170,OpenPlay,2016,LeftFoot,1806,Valencia,Real Betis,2,3,2016-09-11 18:00:00,Germán Pezzella,Pass
+136173,67,BlockedShot,0.879000015258789,0.649000015258789,0.06403079628944397,Felipe Gutiérrez,a,5170,OpenPlay,2016,LeftFoot,1820,Sevilla,Real Betis,1,0,2016-09-21 00:00:00,Rubén Castro,Pass
+136409,51,MissedShots,0.715999984741211,0.539000015258789,0.014208200387656689,Felipe Gutiérrez,h,5170,FromCorner,2016,LeftFoot,1829,Real Betis,Malaga,1,0,2016-09-23 22:45:00,,None
+137629,85,SavedShot,0.909000015258789,0.7809999847412109,0.03256480023264885,Felipe Gutiérrez,a,5170,FromCorner,2016,LeftFoot,1859,Osasuna,Real Betis,1,2,2016-10-21 22:45:00,,Rebound
+137631,90,Goal,0.6969999694824218,0.46299999237060546,0.04164909943938255,Felipe Gutiérrez,a,5170,DirectFreekick,2016,LeftFoot,1859,Osasuna,Real Betis,1,2,2016-10-21 22:45:00,,Standard
+137120,25,MissedShots,0.7480000305175781,0.6580000305175782,0.019614899531006813,Felipe Gutiérrez,h,5170,OpenPlay,2016,LeftFoot,3315,Real Betis,Espanyol,0,1,2016-10-30 21:30:00,Antonio Sanabria,Pass

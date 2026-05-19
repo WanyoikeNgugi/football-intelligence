@@ -1,0 +1,13 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+149052,34,MissedShots,0.6559999847412109,0.49599998474121093,0.009113229811191559,Carlos Salcedo,h,1417,OpenPlay,2016,RightFoot,3286,Fiorentina,Crotone,1,1,2016-10-26 22:45:00,,None
+152397,89,SavedShot,0.8719999694824219,0.295,0.31775400042533875,Carlos Salcedo,h,1417,OpenPlay,2016,RightFoot,3084,Fiorentina,Sassuolo,2,1,2016-12-12 22:00:00,Nikola Kalinic,Throughball
+147180,25,BlockedShot,0.909000015258789,0.7290000152587891,0.03705019876360893,Carlos Salcedo,a,1417,OpenPlay,2016,LeftFoot,3591,AC Milan,Fiorentina,2,1,2017-02-19 19:45:00,Josip Ilicic,Chipped
+166324,41,SavedShot,0.7340000152587891,0.3629999923706055,0.018165400251746178,Carlos Salcedo,a,1417,OpenPlay,2017,LeftFoot,8281,Borussia M.Gladbach,Eintracht Frankfurt,0,1,2017-09-09 14:30:00,,None
+168257,46,SavedShot,0.769000015258789,0.37,0.02039019949734211,Carlos Salcedo,h,1417,OpenPlay,2017,LeftFoot,8336,Eintracht Frankfurt,Borussia Dortmund,2,2,2017-10-21 14:30:00,,None
+179730,86,BlockedShot,0.720999984741211,0.34,0.012960299849510193,Carlos Salcedo,h,1417,FromCorner,2017,RightFoot,8391,Eintracht Frankfurt,Bayern Munich,0,1,2017-12-09 14:30:00,,None
+184073,81,MissedShots,0.8580000305175781,0.46,0.06604920327663422,Carlos Salcedo,a,1417,FromCorner,2017,RightFoot,8400,Hamburger SV,Eintracht Frankfurt,1,2,2017-12-12 19:30:00,,None
+187237,10,MissedShots,0.9719999694824218,0.5870000076293945,0.031066499650478363,Carlos Salcedo,h,1417,FromCorner,2017,Head,8416,Eintracht Frankfurt,Freiburg,1,1,2018-01-13 14:30:00,Marius Wolf,Aerial
+194820,36,MissedShots,0.87,0.5479999923706055,0.01102910004556179,Carlos Salcedo,a,1417,SetPiece,2017,Head,8443,Augsburg,Eintracht Frankfurt,3,0,2018-02-04 14:30:00,Mijat Gacinovic,Aerial
+257154,66,MissedShots,0.7659999847412109,0.5729999923706055,0.014737999998033047,Carlos Salcedo,a,1417,FromCorner,2018,RightFoot,10458,Hertha Berlin,Eintracht Frankfurt,1,0,2018-12-08 17:30:00,,Aerial
+257384,48,MissedShots,0.875999984741211,0.47,0.031249599531292915,Carlos Salcedo,h,1417,FromCorner,2018,Head,10467,Eintracht Frankfurt,Bayer Leverkusen,2,1,2018-12-16 17:00:00,Jetro Willems,Cross
+257392,75,SavedShot,0.5529999923706055,0.26799999237060546,0.008397350087761879,Carlos Salcedo,h,1417,OpenPlay,2018,RightFoot,10467,Eintracht Frankfurt,Bayer Leverkusen,2,1,2018-12-16 17:00:00,,BallRecovery

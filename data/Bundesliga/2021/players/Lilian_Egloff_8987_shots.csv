@@ -1,0 +1,12 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+480273,89,MissedShots,0.899000015258789,0.29600000381469727,0.0598473995923996,Lilian Egloff,a,8987,OpenPlay,2022,RightFoot,19354,Werder Bremen,VfB Stuttgart,2,2,2022-08-13 13:30:00,Wataru Endo,Pass
+481743,91,MissedShots,0.7909999847412109,0.28600000381469726,0.01772579923272133,Lilian Egloff,h,8987,OpenPlay,2022,RightFoot,19363,VfB Stuttgart,Freiburg,0,1,2022-08-20 13:30:00,,None
+485796,26,BlockedShot,0.855,0.32799999237060545,0.043107498437166214,Lilian Egloff,h,8987,OpenPlay,2022,RightFoot,19381,VfB Stuttgart,Schalke 04,1,1,2022-09-03 13:30:00,Joshua Vagnoman,Pass
+485797,31,BlockedShot,0.88,0.3120000076293945,0.01984970085322857,Lilian Egloff,h,8987,FromCorner,2022,RightFoot,19381,VfB Stuttgart,Schalke 04,1,1,2022-09-03 13:30:00,,Aerial
+485803,57,MissedShots,0.769000015258789,0.38,0.023559799417853355,Lilian Egloff,h,8987,OpenPlay,2022,RightFoot,19381,VfB Stuttgart,Schalke 04,1,1,2022-09-03 13:30:00,Joshua Vagnoman,Pass
+485804,60,BlockedShot,0.8209999847412109,0.46700000762939453,0.04330940172076225,Lilian Egloff,h,8987,FromCorner,2022,RightFoot,19381,VfB Stuttgart,Schalke 04,1,1,2022-09-03 13:30:00,,None
+496402,80,MissedShots,0.74,0.4420000076293945,0.015755200758576393,Lilian Egloff,h,8987,OpenPlay,2022,RightFoot,19447,VfB Stuttgart,Augsburg,2,1,2022-10-29 13:30:00,,None
+499205,47,MissedShots,0.855999984741211,0.3770000076293945,0.07751359790563583,Lilian Egloff,h,8987,OpenPlay,2022,RightFoot,19466,VfB Stuttgart,Hertha Berlin,2,1,2022-11-08 19:30:00,Naouirou Ahamada,Pass
+533008,86,MissedShots,0.759000015258789,0.39799999237060546,0.014547180384397507,Lilian Egloff,h,8987,SetPiece,2023,RightFoot,23070,VfB Stuttgart,Bochum,5,0,2023-08-19 13:30:00,,None
+534341,68,MissedShots,0.774000015258789,0.41900001525878905,0.012476561591029167,Lilian Egloff,a,8987,OpenPlay,2023,RightFoot,23074,RasenBallsport Leipzig,VfB Stuttgart,5,1,2023-08-25 18:30:00,,Aerial
+547574,85,BlockedShot,0.9630000305175781,0.5790000152587891,0.09514759480953217,Lilian Egloff,a,8987,OpenPlay,2023,RightFoot,23153,FC Heidenheim,VfB Stuttgart,2,0,2023-11-05 16:30:00,Jamie Leweling,CornerAwarded

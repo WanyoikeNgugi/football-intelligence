@@ -1,0 +1,44 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+27067,19,SavedShot,0.9219999694824219,0.5459999847412109,0.05730139836668968,Timo Baumgartl,h,71,SetPiece,2014,Head,5373,VfB Stuttgart,Augsburg,0,1,2014-11-23 16:30:00,Filip Kostic,Aerial
+29450,30,BlockedShot,0.97,0.47400001525878904,0.16078899800777435,Timo Baumgartl,h,71,FromCorner,2014,RightFoot,5289,VfB Stuttgart,Borussia Dortmund,2,3,2015-02-20 19:30:00,Timo Werner,Rebound
+32323,17,MissedShots,0.9569999694824218,0.5829999923706055,0.08742529898881912,Timo Baumgartl,a,71,FromCorner,2014,RightFoot,5200,Wolfsburg,VfB Stuttgart,3,1,2015-04-04 14:30:00,Filip Kostic,Cross
+30927,61,SavedShot,0.9230000305175782,0.4759999847412109,0.3104049861431122,Timo Baumgartl,h,71,FromCorner,2014,Head,5184,VfB Stuttgart,Hamburger SV,2,1,2015-05-16 14:30:00,Daniel Schwaab,Chipped
+76603,63,MissedShots,0.9890000152587891,0.6120000076293945,0.10887400060892105,Timo Baumgartl,h,71,SetPiece,2015,Head,1040,VfB Stuttgart,Eintracht Frankfurt,1,4,2015-08-29 17:30:00,Daniel Didavi,Cross
+77047,17,MissedShots,0.980999984741211,0.47200000762939454,0.7245370149612427,Timo Baumgartl,h,71,OpenPlay,2015,Head,1063,VfB Stuttgart,Schalke 04,0,1,2015-09-20 17:30:00,Filip Kostic,Chipped
+77066,61,MissedShots,0.965999984741211,0.4929999923706055,0.12039999663829803,Timo Baumgartl,h,71,SetPiece,2015,LeftFoot,1063,VfB Stuttgart,Schalke 04,0,1,2015-09-20 17:30:00,Daniel Ginczek,HeadPass
+78209,49,BlockedShot,0.8909999847412109,0.5179999923706055,0.10988199710845947,Timo Baumgartl,a,71,SetPiece,2015,RightFoot,1106,Bayer Leverkusen,VfB Stuttgart,4,3,2015-10-24 17:30:00,Timo Werner,Pass
+78992,16,OwnGoal,0.12699999809265136,0.54,0,Timo Baumgartl,h,71,FromCorner,2015,LeftFoot,1130,VfB Stuttgart,Augsburg,0,4,2015-11-21 18:30:00,,None
+79002,43,MissedShots,0.9180000305175782,0.45799999237060546,0.05443520098924637,Timo Baumgartl,h,71,SetPiece,2015,Head,1130,VfB Stuttgart,Augsburg,0,4,2015-11-21 18:30:00,Filip Kostic,Aerial
+79473,14,MissedShots,0.924000015258789,0.4759999847412109,0.06842450052499771,Timo Baumgartl,h,71,OpenPlay,2015,Head,1154,VfB Stuttgart,Werder Bremen,1,1,2015-12-06 18:30:00,Daniel Schwaab,Aerial
+83935,79,SavedShot,0.914000015258789,0.3029999923706055,0.010079200379550457,Timo Baumgartl,a,71,FromCorner,2015,Head,1325,Wolfsburg,VfB Stuttgart,3,1,2016-05-14 17:30:00,Christian Gentner,Aerial
+166356,86,BlockedShot,0.875999984741211,0.39,0.05808969959616661,Timo Baumgartl,a,71,OpenPlay,2017,RightFoot,8285,Schalke 04,VfB Stuttgart,3,1,2017-09-10 17:00:00,,None
+167958,64,MissedShots,0.8909999847412109,0.37,0.040675900876522064,Timo Baumgartl,h,71,FromCorner,2017,RightFoot,8330,VfB Stuttgart,FC Cologne,2,1,2017-10-13 19:30:00,Dennis Aogo,Cross
+168834,42,MissedShots,0.924000015258789,0.4809999847412109,0.11232499778270721,Timo Baumgartl,h,71,FromCorner,2017,Head,8348,VfB Stuttgart,Freiburg,3,0,2017-10-29 17:00:00,Berkay Özcan,Cross
+168195,58,MissedShots,0.8830000305175781,0.57,0.07416269928216934,Timo Baumgartl,h,71,FromCorner,2017,RightFoot,8366,VfB Stuttgart,Borussia Dortmund,2,1,2017-11-17 19:30:00,Benjamin Pavard,HeadPass
+183877,87,BlockedShot,0.9159999847412109,0.40299999237060546,0.0148091996088624,Timo Baumgartl,h,71,FromCorner,2017,Head,8410,VfB Stuttgart,Bayern Munich,0,1,2017-12-16 14:30:00,Josip Brekalo,Aerial
+188608,70,SavedShot,0.7340000152587891,0.33599998474121096,0.012840799987316132,Timo Baumgartl,a,71,OpenPlay,2017,RightFoot,8428,Mainz 05,VfB Stuttgart,3,2,2018-01-20 14:30:00,Berkay Özcan,Pass
+195133,33,MissedShots,0.9230000305175782,0.5220000076293946,0.06909310072660446,Timo Baumgartl,h,71,FromCorner,2017,Head,8450,VfB Stuttgart,Borussia M.Gladbach,1,0,2018-02-11 14:30:00,Christian Gentner,Chipped
+224342,69,BlockedShot,0.909000015258789,0.585,0.0190287996083498,Timo Baumgartl,a,71,SetPiece,2018,Head,10363,Freiburg,VfB Stuttgart,3,3,2018-09-16 16:00:00,Dennis Aogo,Aerial
+256329,59,MissedShots,0.875999984741211,0.5940000152587891,0.014083599671721458,Timo Baumgartl,a,71,OpenPlay,2018,Head,10435,Nuernberg,VfB Stuttgart,0,2,2018-11-10 14:30:00,Pablo Maffeo,Aerial
+256331,67,Goal,0.8640000152587891,0.47299999237060547,0.07143790274858475,Timo Baumgartl,a,71,FromCorner,2018,LeftFoot,10435,Nuernberg,VfB Stuttgart,0,2,2018-11-10 14:30:00,,None
+257725,21,SavedShot,0.9219999694824219,0.43099998474121093,0.09908030182123184,Timo Baumgartl,h,71,FromCorner,2018,RightFoot,10486,VfB Stuttgart,Schalke 04,1,3,2018-12-22 14:30:00,,None
+302455,17,MissedShots,0.8969999694824219,0.5720000076293945,0.014897000044584274,Timo Baumgartl,a,71,FromCorner,2018,Head,10634,Schalke 04,VfB Stuttgart,0,0,2019-05-18 13:30:00,Daniel Didavi,Aerial
+429722,45,BlockedShot,0.905,0.6980000305175781,0.0508618988096714,Timo Baumgartl,h,71,OpenPlay,2021,RightFoot,17546,Union Berlin,Augsburg,0,0,2021-09-11 13:30:00,,None
+431998,17,SavedShot,0.904000015258789,0.5520000076293945,0.0606658011674881,Timo Baumgartl,a,71,FromCorner,2021,Head,17559,Borussia Dortmund,Union Berlin,4,2,2021-09-19 15:30:00,Max Kruse,Cross
+442817,42,BlockedShot,0.8630000305175781,0.48400001525878905,0.014504799619317055,Timo Baumgartl,h,71,SetPiece,2021,Head,17621,Union Berlin,Hertha Berlin,2,0,2021-11-20 17:30:00,Christopher Trimmel,Aerial
+442828,74,MissedShots,0.9719999694824218,0.66,0.060531798750162125,Timo Baumgartl,h,71,SetPiece,2021,LeftFoot,17621,Union Berlin,Hertha Berlin,2,0,2021-11-20 17:30:00,Marvin Friedrich,BallTouch
+445839,5,MissedShots,0.9219999694824219,0.5920000076293945,0.019365699961781502,Timo Baumgartl,h,71,FromCorner,2021,Head,17639,Union Berlin,RasenBallsport Leipzig,2,1,2021-12-03 19:30:00,Julian Ryerson,Aerial
+445852,56,Goal,0.9690000152587891,0.5279999923706055,0.6441460251808167,Timo Baumgartl,h,71,FromCorner,2021,RightFoot,17639,Union Berlin,RasenBallsport Leipzig,2,1,2021-12-03 19:30:00,,None
+449048,65,BlockedShot,0.9230000305175782,0.47900001525878905,0.5203080177307129,Timo Baumgartl,h,71,FromCorner,2021,RightFoot,17656,Union Berlin,Freiburg,0,0,2021-12-15 19:30:00,,None
+449050,65,BlockedShot,0.9259999847412109,0.4779999923706055,0.05143579840660095,Timo Baumgartl,h,71,FromCorner,2021,Head,17656,Union Berlin,Freiburg,0,0,2021-12-15 19:30:00,,Rebound
+453195,15,OwnGoal,0.02799999952316284,0.5940000152587891,0,Timo Baumgartl,h,71,OpenPlay,2021,Head,17684,Union Berlin,Hoffenheim,2,1,2022-01-15 14:30:00,,Challenge
+455760,30,MissedShots,0.975999984741211,0.509000015258789,0.15593799948692322,Timo Baumgartl,a,71,FromCorner,2021,RightFoot,17699,Augsburg,Union Berlin,2,0,2022-02-05 14:30:00,,None
+455772,82,SavedShot,0.9180000305175782,0.455,0.0360523983836174,Timo Baumgartl,a,71,FromCorner,2021,Head,17699,Augsburg,Union Berlin,2,0,2022-02-05 14:30:00,Bastian Oczipka,Aerial
+462417,37,SavedShot,0.8209999847412109,0.5320000076293945,0.09671559929847717,Timo Baumgartl,h,71,OpenPlay,2021,RightFoot,17746,Union Berlin,VfB Stuttgart,1,1,2022-03-12 14:30:00,,TakeOn
+464903,62,MissedShots,0.970999984741211,0.6029999923706054,0.01893259957432747,Timo Baumgartl,h,71,SetPiece,2021,Head,17764,Union Berlin,FC Cologne,1,0,2022-04-01 18:30:00,Rani Khedira,Aerial
+466915,3,SavedShot,0.92,0.5520000076293945,0.03618919849395752,Timo Baumgartl,a,71,FromCorner,2021,Head,17771,Hertha Berlin,Union Berlin,1,4,2022-04-09 16:30:00,Christopher Trimmel,Aerial
+466928,48,OwnGoal,0.050999999046325684,0.48900001525878906,0,Timo Baumgartl,a,71,OpenPlay,2021,OtherBodyPart,17771,Hertha Berlin,Union Berlin,1,4,2022-04-09 16:30:00,,None
+489393,32,SavedShot,0.8959999847412109,0.524000015258789,0.020583199337124825,Timo Baumgartl,h,71,FromCorner,2022,Head,19402,Union Berlin,Wolfsburg,2,0,2022-09-18 13:30:00,Sheraldo Becker,Aerial
+493809,9,MissedShots,0.889000015258789,0.4540000152587891,0.015879500657320023,Timo Baumgartl,h,71,FromCorner,2022,Head,19425,Union Berlin,Borussia Dortmund,2,0,2022-10-16 15:30:00,Christopher Trimmel,Aerial
+493821,55,SavedShot,0.9019999694824219,0.5329999923706055,0.09341280162334442,Timo Baumgartl,h,71,OpenPlay,2022,Head,19425,Union Berlin,Borussia Dortmund,2,0,2022-10-16 15:30:00,Janik Haberer,Cross
+498738,61,MissedShots,0.895,0.475,0.023576000705361366,Timo Baumgartl,a,71,FromCorner,2022,Head,19458,Bayer Leverkusen,Union Berlin,5,0,2022-11-06 14:30:00,,Aerial

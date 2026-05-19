@@ -1,0 +1,43 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+515293,72,MissedShots,0.945,0.35200000762939454,0.28233298659324646,Jean Négoce,a,10830,OpenPlay,2022,RightFoot,19923,Lens,Angers,3,0,2023-03-18 20:00:00,,BallRecovery
+520505,15,MissedShots,0.8969999694824219,0.5779999923706055,0.04902049899101257,Jean Négoce,h,10830,OpenPlay,2022,RightFoot,19960,Angers,Paris Saint Germain,1,2,2023-04-21 19:00:00,,Aerial
+520509,33,MissedShots,0.909000015258789,0.5720000076293945,0.06580659747123718,Jean Négoce,h,10830,OpenPlay,2022,Head,19960,Angers,Paris Saint Germain,1,2,2023-04-21 19:00:00,Abdoulaye Bamba,Cross
+520522,69,MissedShots,0.7619999694824219,0.43099998474121093,0.018702149391174316,Jean Négoce,h,10830,FromCorner,2022,RightFoot,19960,Angers,Paris Saint Germain,1,2,2023-04-21 19:00:00,,None
+599964,46,BlockedShot,0.8669999694824219,0.57,0.10665541142225266,Jean Négoce,h,10830,OpenPlay,2024,RightFoot,27817,Eintracht Frankfurt,Bochum,7,2,2024-11-02 14:30:00,Ellyes Skhiri,Pass
+605737,91,SavedShot,0.875,0.6279999923706054,0.046999454498291016,Jean Négoce,h,10830,OpenPlay,2024,RightFoot,27858,Eintracht Frankfurt,Augsburg,2,2,2024-12-07 14:30:00,Can Uzun,Cross
+608273,69,BlockedShot,0.765,0.6509999847412109,0.027914369478821754,Jean Négoce,h,10830,FromCorner,2024,RightFoot,27871,Eintracht Frankfurt,Mainz 05,1,3,2024-12-21 14:30:00,,TakeOn
+621855,25,BlockedShot,0.774000015258789,0.49,0.03444689139723778,Jean Négoce,h,10830,FromCorner,2024,LeftFoot,27961,Eintracht Frankfurt,Union Berlin,1,2,2025-03-09 14:30:00,,Rebound
+623471,31,Goal,0.9290000152587891,0.4979999923706055,0.5938750505447388,Jean Négoce,a,10830,OpenPlay,2024,LeftFoot,27974,Bochum,Eintracht Frankfurt,1,3,2025-03-16 15:30:00,Hugo Ekitike,Pass
+623472,32,BlockedShot,0.855,0.4620000076293945,0.13096889853477478,Jean Négoce,a,10830,OpenPlay,2024,RightFoot,27974,Bochum,Eintracht Frankfurt,1,3,2025-03-16 15:30:00,Hugo Ekitike,Pass
+624328,74,BlockedShot,0.8340000152587891,0.5970000076293945,0.07011767476797104,Jean Négoce,h,10830,OpenPlay,2024,RightFoot,27978,Eintracht Frankfurt,VfB Stuttgart,1,0,2025-03-29 17:30:00,Nathaniel Brown,Pass
+627891,9,Goal,0.945,0.534000015258789,0.6643946170806885,Jean Négoce,h,10830,OpenPlay,2024,LeftFoot,27997,Eintracht Frankfurt,FC Heidenheim,3,0,2025-04-13 15:30:00,Farès Chaïbi,Pass
+627896,34,BlockedShot,0.8440000152587891,0.5070000076293946,0.08653896301984787,Jean Négoce,h,10830,OpenPlay,2024,RightFoot,27997,Eintracht Frankfurt,FC Heidenheim,3,0,2025-04-13 15:30:00,Farès Chaïbi,None
+633637,33,MissedShots,0.7830000305175782,0.6609999847412109,0.02125406637787819,Jean Négoce,h,10830,OpenPlay,2024,RightFoot,28033,Eintracht Frankfurt,St. Pauli,2,2,2025-05-11 15:30:00,,BallTouch
+638759,4,MissedShots,0.874000015258789,0.655,0.022190775722265244,Jean Négoce,h,10830,FromCorner,2025,LeftFoot,30228,Eintracht Frankfurt,Werder Bremen,4,1,2025-08-23 13:30:00,,Aerial
+638765,24,Goal,0.924000015258789,0.5259999847412109,0.36288249492645264,Jean Négoce,h,10830,OpenPlay,2025,Head,30228,Eintracht Frankfurt,Werder Bremen,4,1,2025-08-23 13:30:00,Can Uzun,Chipped
+638767,37,BlockedShot,0.9130000305175782,0.64,0.07938982546329498,Jean Négoce,h,10830,OpenPlay,2025,RightFoot,30228,Eintracht Frankfurt,Werder Bremen,4,1,2025-08-23 13:30:00,Rasmus Kristensen,Cross
+638770,46,Goal,0.904000015258789,0.555,0.48141375184059143,Jean Négoce,h,10830,OpenPlay,2025,RightFoot,30228,Eintracht Frankfurt,Werder Bremen,4,1,2025-08-23 13:30:00,Can Uzun,Pass
+640180,43,SavedShot,0.8819999694824219,0.674000015258789,0.061050426214933395,Jean Négoce,a,10830,OpenPlay,2025,RightFoot,30234,Hoffenheim,Eintracht Frankfurt,1,3,2025-08-30 13:30:00,,None
+641299,37,BlockedShot,0.8,0.6129999923706054,0.032962556928396225,Jean Négoce,a,10830,OpenPlay,2025,LeftFoot,30242,Bayer Leverkusen,Eintracht Frankfurt,3,1,2025-09-12 18:30:00,Robin Koch,BallRecovery
+643702,30,BlockedShot,0.9019999694824219,0.28,0.059746310114860535,Jean Négoce,h,10830,OpenPlay,2025,RightFoot,30257,Eintracht Frankfurt,Union Berlin,3,4,2025-09-21 13:30:00,Ritsu Doan,Pass
+643706,45,BlockedShot,0.8809999847412109,0.40900001525878904,0.1000707820057869,Jean Négoce,h,10830,OpenPlay,2025,RightFoot,30257,Eintracht Frankfurt,Union Berlin,3,4,2025-09-21 13:30:00,Can Uzun,Pass
+646335,39,MissedShots,0.7709999847412109,0.7080000305175781,0.014395532198250294,Jean Négoce,h,10830,OpenPlay,2025,RightFoot,30272,Eintracht Frankfurt,Bayern Munich,0,3,2025-10-04 16:30:00,Jonathan Burkardt,BallRecovery
+653126,45,BlockedShot,0.8419999694824218,0.6659999847412109,0.047083497047424316,Jean Négoce,h,10830,OpenPlay,2025,RightFoot,30307,Eintracht Frankfurt,Mainz 05,1,0,2025-11-09 18:30:00,Nathaniel Brown,Pass
+653136,77,MissedShots,0.8530000305175781,0.6630000305175782,0.043425142765045166,Jean Négoce,h,10830,OpenPlay,2025,LeftFoot,30307,Eintracht Frankfurt,Mainz 05,1,0,2025-11-09 18:30:00,Mahmoud Dahoud,Pass
+657167,50,SavedShot,0.8,0.69,0.023693537339568138,Jean Négoce,a,10830,OpenPlay,2025,LeftFoot,30340,RasenBallsport Leipzig,Eintracht Frankfurt,6,0,2025-12-06 17:30:00,Farès Chaïbi,Pass
+664788,72,MissedShots,0.9280000305175782,0.43599998474121093,0.08765218406915665,Jean Négoce,h,10830,FromCorner,2025,Head,30389,Eintracht Frankfurt,Hoffenheim,1,3,2026-01-24 14:30:00,Ritsu Doan,Cross
+668648,60,BlockedShot,0.8090000152587891,0.6759999847412109,0.04554353654384613,Jean Négoce,h,10830,OpenPlay,2025,RightFoot,30416,Eintracht Frankfurt,Borussia M.Gladbach,3,0,2026-02-14 14:30:00,Mario Götze,HeadPass
+669698,38,SavedShot,0.865999984741211,0.644000015258789,0.0398322269320488,Jean Négoce,a,10830,OpenPlay,2025,LeftFoot,30422,Bayern Munich,Eintracht Frankfurt,3,2,2026-02-21 14:30:00,Hugo Larsson,Chipped
+671833,48,BlockedShot,0.8980000305175782,0.28399999618530275,0.03566601872444153,Jean Négoce,h,10830,SetPiece,2025,LeftFoot,30435,Eintracht Frankfurt,Freiburg,2,0,2026-03-01 16:30:00,Aurèle Amenda,None
+671840,80,Goal,0.8909999847412109,0.6840000152587891,0.0718100517988205,Jean Négoce,h,10830,OpenPlay,2025,LeftFoot,30435,Eintracht Frankfurt,Freiburg,2,0,2026-03-01 16:30:00,Farès Chaïbi,Chipped
+671845,87,SavedShot,0.879000015258789,0.63,0.026913238689303398,Jean Négoce,h,10830,FromCorner,2025,Head,30435,Eintracht Frankfurt,Freiburg,2,0,2026-03-01 16:30:00,Aurèle Amenda,HeadPass
+671846,93,BlockedShot,0.8680000305175781,0.705,0.07489766925573349,Jean Négoce,h,10830,OpenPlay,2025,RightFoot,30435,Eintracht Frankfurt,Freiburg,2,0,2026-03-01 16:30:00,Ritsu Doan,Chipped
+673139,45,SavedShot,0.8569999694824219,0.7019999694824218,0.05837702378630638,Jean Négoce,a,10830,OpenPlay,2025,RightFoot,30446,St. Pauli,Eintracht Frankfurt,0,0,2026-03-08 14:30:00,Oscar Højlund,Pass
+673140,59,BlockedShot,0.899000015258789,0.7080000305175781,0.04379862919449806,Jean Négoce,a,10830,OpenPlay,2025,RightFoot,30446,St. Pauli,Eintracht Frankfurt,0,0,2026-03-08 14:30:00,Oscar Højlund,Pass
+673148,90,BlockedShot,0.89,0.655,0.06022157520055771,Jean Négoce,a,10830,OpenPlay,2025,RightFoot,30446,St. Pauli,Eintracht Frankfurt,0,0,2026-03-08 14:30:00,,None
+673755,42,BlockedShot,0.894000015258789,0.685,0.01081735547631979,Jean Négoce,h,10830,OpenPlay,2025,Head,30452,Eintracht Frankfurt,FC Heidenheim,1,0,2026-03-14 14:30:00,Ayoube Amaimouni-Echghouyab,Aerial
+673756,43,BlockedShot,0.7190000152587891,0.49700000762939456,0.012588657438755035,Jean Négoce,h,10830,FromCorner,2025,RightFoot,30452,Eintracht Frankfurt,FC Heidenheim,1,0,2026-03-14 14:30:00,,Aerial
+673757,43,BlockedShot,0.8090000152587891,0.5129999923706055,0.07198724895715714,Jean Négoce,h,10830,FromCorner,2025,RightFoot,30452,Eintracht Frankfurt,FC Heidenheim,1,0,2026-03-14 14:30:00,,TakeOn
+682222,96,BlockedShot,0.860999984741211,0.6919999694824219,0.043768685311079025,Jean Négoce,h,10830,OpenPlay,2025,RightFoot,30506,Eintracht Frankfurt,Hamburger SV,1,2,2026-05-02 13:30:00,Farès Chaïbi,Pass
+683375,61,MissedShots,0.7569999694824219,0.669000015258789,0.02692757174372673,Jean Négoce,a,10830,FromCorner,2025,RightFoot,30513,Borussia Dortmund,Eintracht Frankfurt,3,2,2026-05-08 18:30:00,Nathaniel Brown,Pass
+683381,87,MissedShots,0.8490000152587891,0.6229999923706054,0.057029303163290024,Jean Négoce,a,10830,OpenPlay,2025,RightFoot,30513,Borussia Dortmund,Eintracht Frankfurt,3,2,2026-05-08 18:30:00,Jonathan Burkardt,Pass

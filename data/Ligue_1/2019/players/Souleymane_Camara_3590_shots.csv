@@ -1,0 +1,156 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction
+166,74,BlockedShot,0.7659999847412109,0.5820000076293945,0.03633509948849678,Souleymane Camara,h,3590,OpenPlay,2014,LeftFoot,6190,Montpellier,Bordeaux,0,1,2014-08-09 20:00:00,,TakeOn
+335,84,MissedShots,0.845999984741211,0.44400001525878907,0.15421700477600098,Souleymane Camara,a,3590,OpenPlay,2014,LeftFoot,6202,Marseille,Montpellier,0,2,2014-08-17 16:00:00,Jonas Martin,TakeOn
+564,64,MissedShots,0.95,0.36700000762939455,0.020295700058341026,Souleymane Camara,h,3590,FromCorner,2014,Head,6210,Montpellier,Metz,2,0,2014-08-23 19:00:00,Morgan Sanson,Cross
+570,80,BlockedShot,0.9059999847412109,0.485,0.1434900015592575,Souleymane Camara,h,3590,OpenPlay,2014,RightFoot,6210,Montpellier,Metz,2,0,2014-08-23 19:00:00,Jamel Saihi,Pass
+571,81,MissedShots,0.92,0.4620000076293945,0.13891200721263885,Souleymane Camara,h,3590,OpenPlay,2014,Head,6210,Montpellier,Metz,2,0,2014-08-23 19:00:00,Jamel Saihi,Cross
+574,88,Goal,0.914000015258789,0.46299999237060546,0.32464799284935,Souleymane Camara,h,3590,OpenPlay,2014,Head,6210,Montpellier,Metz,2,0,2014-08-23 19:00:00,Morgan Sanson,Cross
+854,65,MissedShots,0.865999984741211,0.534000015258789,0.032005198299884796,Souleymane Camara,h,3590,SetPiece,2014,Head,6149,Montpellier,Lorient,1,0,2014-09-13 19:00:00,Morgan Sanson,Cross
+1988,80,MissedShots,0.9519999694824218,0.5670000076293945,0.11566399782896042,Souleymane Camara,a,3590,FromCorner,2014,Head,6161,Lille,Montpellier,0,0,2014-09-21 13:00:00,Siaka Tiéné,Cross
+1702,66,BlockedShot,0.9230000305175782,0.5570000076293945,0.05584689974784851,Souleymane Camara,h,3590,OpenPlay,2014,Head,6170,Montpellier,Monaco,0,1,2014-09-24 18:00:00,Anthony Mounier,Aerial
+1704,67,SavedShot,0.8269999694824218,0.6379999923706055,0.025175699964165688,Souleymane Camara,h,3590,FromCorner,2014,RightFoot,6170,Montpellier,Monaco,0,1,2014-09-24 18:00:00,Jonas Martin,HeadPass
+1707,77,MissedShots,0.8980000305175782,0.54,0.04423290118575096,Souleymane Camara,h,3590,OpenPlay,2014,Head,6170,Montpellier,Monaco,0,1,2014-09-24 18:00:00,Anthony Mounier,Aerial
+1708,79,SavedShot,0.7880000305175782,0.6359999847412109,0.028452599421143532,Souleymane Camara,h,3590,OpenPlay,2014,RightFoot,6170,Montpellier,Monaco,0,1,2014-09-24 18:00:00,Víctor Hugo Montaño,Pass
+2311,17,SavedShot,0.8430000305175781,0.5070000076293946,0.06815700232982635,Souleymane Camara,h,3590,OpenPlay,2014,RightFoot,6177,Montpellier,Guingamp,2,1,2014-09-27 19:00:00,,None
+2317,47,Goal,0.895,0.585,0.37620899081230164,Souleymane Camara,h,3590,OpenPlay,2014,RightFoot,6177,Montpellier,Guingamp,2,1,2014-09-27 19:00:00,Jonas Martin,Pass
+1276,22,MissedShots,0.875999984741211,0.40099998474121096,0.02083590067923069,Souleymane Camara,a,3590,OpenPlay,2014,Head,6116,Nice,Montpellier,1,1,2014-10-04 19:00:00,Mathieu Deplagne,Cross
+1281,51,SavedShot,0.8869999694824219,0.6229999923706054,0.29749900102615356,Souleymane Camara,a,3590,OpenPlay,2014,RightFoot,6116,Nice,Montpellier,1,1,2014-10-04 19:00:00,Morgan Sanson,Pass
+1283,62,BlockedShot,0.779000015258789,0.5229999923706055,0.029944099485874176,Souleymane Camara,a,3590,OpenPlay,2014,RightFoot,6116,Nice,Montpellier,1,1,2014-10-04 19:00:00,Lucas Barrios,Pass
+3954,69,MissedShots,0.765,0.34200000762939453,0.022166799753904343,Souleymane Camara,h,3590,OpenPlay,2014,LeftFoot,6080,Montpellier,Evian Thonon Gaillard,2,0,2014-11-01 19:00:00,Kévin Berigaud,Pass
+6002,18,SavedShot,0.8930000305175781,0.24200000762939453,0.03154100105166435,Souleymane Camara,h,3590,OpenPlay,2014,RightFoot,6102,Montpellier,Toulouse,2,0,2014-11-23 16:00:00,Anthony Mounier,Pass
+6011,47,BlockedShot,0.845999984741211,0.415,0.0720686987042427,Souleymane Camara,h,3590,OpenPlay,2014,LeftFoot,6102,Montpellier,Toulouse,2,0,2014-11-23 16:00:00,,Rebound
+6012,48,MissedShots,0.855,0.28,0.04035219922661781,Souleymane Camara,h,3590,OpenPlay,2014,RightFoot,6102,Montpellier,Toulouse,2,0,2014-11-23 16:00:00,Jonas Martin,Chipped
+6013,51,MissedShots,0.9180000305175782,0.6469999694824219,0.014971300028264523,Souleymane Camara,h,3590,FromCorner,2014,Head,6102,Montpellier,Toulouse,2,0,2014-11-23 16:00:00,Anthony Mounier,Cross
+6014,56,SavedShot,0.7630000305175781,0.35200000762939454,0.04228299856185913,Souleymane Camara,h,3590,OpenPlay,2014,RightFoot,6102,Montpellier,Toulouse,2,0,2014-11-23 16:00:00,Morgan Sanson,LayOff
+6023,82,MissedShots,0.74,0.41700000762939454,0.026861200109124184,Souleymane Camara,h,3590,OpenPlay,2014,RightFoot,6102,Montpellier,Toulouse,2,0,2014-11-23 16:00:00,Joris Marveaux,Pass
+6024,86,Goal,0.92,0.3729999923706055,0.3613690137863159,Souleymane Camara,h,3590,OpenPlay,2014,RightFoot,6102,Montpellier,Toulouse,2,0,2014-11-23 16:00:00,Djamel Bakar,Throughball
+2961,15,SavedShot,0.6869999694824219,0.35700000762939454,0.016620900481939316,Souleymane Camara,a,3590,OpenPlay,2014,RightFoot,6110,Caen,Montpellier,1,1,2014-11-29 19:00:00,Joris Marveaux,Pass
+2965,27,BlockedShot,0.9080000305175782,0.5470000076293945,0.1411210000514984,Souleymane Camara,a,3590,OpenPlay,2014,RightFoot,6110,Caen,Montpellier,1,1,2014-11-29 19:00:00,Anthony Mounier,Pass
+5041,1,BlockedShot,0.850999984741211,0.32299999237060545,0.049396999180316925,Souleymane Camara,h,3590,OpenPlay,2014,RightFoot,6039,Montpellier,Saint-Etienne,0,2,2014-12-03 18:00:00,Morgan Sanson,Pass
+5043,15,MissedShots,0.7580000305175781,0.425,0.03136130049824715,Souleymane Camara,h,3590,OpenPlay,2014,LeftFoot,6039,Montpellier,Saint-Etienne,0,2,2014-12-03 18:00:00,Kévin Berigaud,LayOff
+2929,73,SavedShot,0.955,0.5529999923706055,0.7111390233039856,Souleymane Camara,a,3590,OpenPlay,2014,LeftFoot,6048,Rennes,Montpellier,0,4,2014-12-06 19:00:00,Anthony Mounier,Pass
+2930,74,SavedShot,0.9580000305175781,0.455,0.6413099765777588,Souleymane Camara,a,3590,OpenPlay,2014,RightFoot,6048,Rennes,Montpellier,0,4,2014-12-06 19:00:00,Anthony Mounier,Pass
+2932,78,SavedShot,0.865999984741211,0.6959999847412109,0.05996669828891754,Souleymane Camara,a,3590,OpenPlay,2014,LeftFoot,6048,Rennes,Montpellier,0,4,2014-12-06 19:00:00,Anthony Mounier,Pass
+4024,43,MissedShots,0.915,0.4590000152587891,0.11872900277376175,Souleymane Camara,h,3590,OpenPlay,2014,Head,6058,Montpellier,Lens,3,3,2014-12-13 19:00:00,Anthony Mounier,Cross
+4027,56,SavedShot,0.9819999694824219,0.34700000762939454,0.0679062008857727,Souleymane Camara,h,3590,OpenPlay,2014,RightFoot,6058,Montpellier,Lens,3,3,2014-12-13 19:00:00,Djamel Bakar,Pass
+4029,60,MissedShots,0.799000015258789,0.30200000762939455,0.020569199696183205,Souleymane Camara,h,3590,OpenPlay,2014,LeftFoot,6058,Montpellier,Lens,3,3,2014-12-13 19:00:00,,None
+4452,92,SavedShot,0.8969999694824219,0.52,0.57014000415802,Souleymane Camara,a,3590,OpenPlay,2014,LeftFoot,6014,Metz,Montpellier,2,3,2015-01-17 19:00:00,Anthony Mounier,Pass
+6113,69,MissedShots,0.9130000305175782,0.5720000076293945,0.041835200041532516,Souleymane Camara,a,3590,OpenPlay,2014,Head,6032,Lorient,Montpellier,0,0,2015-01-31 19:00:00,Anthony Mounier,Aerial
+6114,71,MissedShots,0.9590000152587891,0.3129999923706055,0.035982999950647354,Souleymane Camara,a,3590,OpenPlay,2014,RightFoot,6032,Lorient,Montpellier,0,0,2015-01-31 19:00:00,Hilton,Pass
+3269,66,SavedShot,0.93,0.46,0.05991249904036522,Souleymane Camara,h,3590,FromCorner,2014,Head,5969,Montpellier,Lille,1,2,2015-02-07 19:00:00,Daniel Congré,HeadPass
+3270,71,MissedShots,0.905,0.4229999923706055,0.016670700162649155,Souleymane Camara,h,3590,FromCorner,2014,Head,5969,Montpellier,Lille,1,2,2015-02-07 19:00:00,Morgan Sanson,Aerial
+3430,35,MissedShots,0.71,0.385,0.01292600017040968,Souleymane Camara,a,3590,OpenPlay,2014,RightFoot,5987,Guingamp,Montpellier,0,2,2015-02-22 13:00:00,,Rebound
+3432,43,SavedShot,0.879000015258789,0.4520000076293945,0.07017940282821655,Souleymane Camara,a,3590,OpenPlay,2014,Head,5987,Guingamp,Montpellier,0,2,2015-02-22 13:00:00,Kévin Berigaud,Cross
+3434,57,SavedShot,0.845,0.6769999694824219,0.3617840111255646,Souleymane Camara,a,3590,OpenPlay,2014,LeftFoot,5987,Guingamp,Montpellier,0,2,2015-02-22 13:00:00,Morgan Sanson,Throughball
+5190,65,SavedShot,0.8819999694824219,0.34400001525878904,0.3337239921092987,Souleymane Camara,h,3590,OpenPlay,2014,RightFoot,5927,Montpellier,Nice,2,1,2015-03-01 16:00:00,Lucas Barrios,Throughball
+5193,70,SavedShot,0.8640000152587891,0.6819999694824219,0.08003000169992447,Souleymane Camara,h,3590,OpenPlay,2014,LeftFoot,5927,Montpellier,Nice,2,1,2015-03-01 16:00:00,Joris Marveaux,Pass
+5197,84,SavedShot,0.9069999694824219,0.41200000762939454,0.39676499366760254,Souleymane Camara,h,3590,OpenPlay,2014,LeftFoot,5927,Montpellier,Nice,2,1,2015-03-01 16:00:00,Djamel Bakar,Pass
+5199,86,MissedShots,0.8140000152587891,0.46099998474121096,0.07330690324306488,Souleymane Camara,h,3590,OpenPlay,2014,LeftFoot,5927,Montpellier,Nice,2,1,2015-03-01 16:00:00,Djamel Bakar,Pass
+1874,92,BlockedShot,0.855,0.4470000076293945,0.07123769819736481,Souleymane Camara,h,3590,OpenPlay,2014,LeftFoot,5939,Montpellier,Lyon,1,5,2015-03-08 20:00:00,,BallRecovery
+1875,92,MissedShots,0.9159999847412109,0.3770000076293945,0.021462399512529373,Souleymane Camara,h,3590,FromCorner,2014,Head,5939,Montpellier,Lyon,1,5,2015-03-08 20:00:00,Morgan Sanson,Cross
+7993,81,MissedShots,0.8919999694824219,0.5479999923706055,0.4763379991054535,Souleymane Camara,h,3590,OpenPlay,2014,RightFoot,5944,Montpellier,Reims,3,1,2015-03-14 19:00:00,Paul Lasne,Pass
+6906,88,MissedShots,0.735999984741211,0.34799999237060547,0.012699400074779987,Souleymane Camara,a,3590,OpenPlay,2014,LeftFoot,5922,Saint-Etienne,Montpellier,1,0,2015-04-26 13:00:00,Bryan Dabo,TakeOn
+6925,83,BlockedShot,0.8540000152587891,0.325,0.025687800720334053,Souleymane Camara,h,3590,OpenPlay,2014,LeftFoot,5872,Montpellier,Paris Saint Germain,1,2,2015-05-16 20:00:00,Paul Lasne,Cross
+7092,81,MissedShots,0.8830000305175781,0.5129999923706055,0.060505498200654984,Souleymane Camara,a,3590,OpenPlay,2014,Head,5875,Bordeaux,Montpellier,2,1,2015-05-23 20:00:00,Abdelhamid El Kaoutari,Cross
+61490,51,MissedShots,0.9059999847412109,0.8,0.023148899897933006,Souleymane Camara,h,3590,OpenPlay,2015,LeftFoot,1872,Montpellier,Angers,0,2,2015-08-08 23:00:00,Kévin Berigaud,Pass
+61493,56,SavedShot,0.8190000152587891,0.48700000762939455,0.04228129982948303,Souleymane Camara,h,3590,OpenPlay,2015,RightFoot,1872,Montpellier,Angers,0,2,2015-08-08 23:00:00,Kévin Berigaud,Chipped
+61931,91,MissedShots,0.8669999694824219,0.5729999923706055,0.06878069788217545,Souleymane Camara,h,3590,FromCorner,2015,RightFoot,1889,Montpellier,Paris Saint Germain,0,1,2015-08-21 22:30:00,Djamel Bakar,HeadPass
+62207,8,BlockedShot,0.7390000152587891,0.505,0.020275099202990532,Souleymane Camara,a,3590,OpenPlay,2015,RightFoot,1902,Troyes,Montpellier,0,0,2015-08-29 22:00:00,Kévin Berigaud,Pass
+62216,43,MissedShots,0.7559999847412109,0.49700000762939456,0.01620510034263134,Souleymane Camara,a,3590,SetPiece,2015,LeftFoot,1902,Troyes,Montpellier,0,0,2015-08-29 22:00:00,,None
+62943,78,MissedShots,0.7980000305175782,0.3529999923706055,0.02775619924068451,Souleymane Camara,h,3590,OpenPlay,2015,LeftFoot,1937,Montpellier,Monaco,2,3,2015-09-24 20:55:00,Ryad Boudebouz,Chipped
+65713,67,MissedShots,0.88,0.4470000076293945,0.060404300689697266,Souleymane Camara,h,3590,OpenPlay,2015,Head,1945,Montpellier,Lorient,2,1,2015-09-27 19:00:00,Kévin Berigaud,Cross
+65716,73,BlockedShot,0.8830000305175781,0.7230000305175781,0.040570199489593506,Souleymane Camara,h,3590,OpenPlay,2015,RightFoot,1945,Montpellier,Lorient,2,1,2015-09-27 19:00:00,Jonas Martin,Pass
+62898,36,MissedShots,0.8930000305175781,0.5679999923706055,0.08565320074558258,Souleymane Camara,a,3590,SetPiece,2015,LeftFoot,1949,Lille,Montpellier,2,0,2015-10-02 22:30:00,Ellyes Skhiri,Chipped
+62908,65,SavedShot,0.8080000305175781,0.485,0.056439198553562164,Souleymane Camara,a,3590,OpenPlay,2015,RightFoot,1949,Lille,Montpellier,2,0,2015-10-02 22:30:00,Ryad Boudebouz,Pass
+63931,82,MissedShots,0.8390000152587891,0.41,0.0572349987924099,Souleymane Camara,h,3590,OpenPlay,2015,LeftFoot,1972,Montpellier,SC Bastia,2,0,2015-10-24 22:00:00,Ramy Bensebaini,TakeOn
+63670,48,BlockedShot,0.909000015258789,0.610999984741211,0.07692810148000717,Souleymane Camara,a,3590,SetPiece,2015,LeftFoot,1984,Toulouse,Montpellier,1,1,2015-10-31 23:00:00,Hilton,HeadPass
+63792,68,Goal,0.89,0.6580000305175782,0.5570849776268005,Souleymane Camara,h,3590,OpenPlay,2015,LeftFoot,2002,Montpellier,Reims,3,1,2015-11-21 23:00:00,,TakeOn
+64495,69,SavedShot,0.8630000305175781,0.495,0.4305570125579834,Souleymane Camara,a,3590,OpenPlay,2015,RightFoot,2009,Lyon,Montpellier,2,4,2015-11-27 23:30:00,Casimir Ninga,Throughball
+64500,79,Goal,0.9,0.5420000076293945,0.47189798951148987,Souleymane Camara,a,3590,OpenPlay,2015,LeftFoot,2009,Lyon,Montpellier,2,4,2015-11-27 23:30:00,,Rebound
+64499,79,SavedShot,0.870999984741211,0.580999984741211,0.36979299783706665,Souleymane Camara,a,3590,OpenPlay,2015,RightFoot,2009,Lyon,Montpellier,2,4,2015-11-27 23:30:00,Ryad Boudebouz,Pass
+64936,76,SavedShot,0.909000015258789,0.5279999923706055,0.029010599479079247,Souleymane Camara,h,3590,FromCorner,2015,Head,2024,Montpellier,GFC Ajaccio,0,2,2015-12-02 22:00:00,Ryad Boudebouz,Aerial
+64938,80,SavedShot,0.9009999847412109,0.5129999923706055,0.2600710093975067,Souleymane Camara,h,3590,OpenPlay,2015,OtherBodyPart,2024,Montpellier,GFC Ajaccio,0,2,2015-12-02 22:00:00,Ryad Boudebouz,Cross
+65005,53,Goal,0.915,0.485,0.2797189950942993,Souleymane Camara,h,3590,OpenPlay,2015,Head,2042,Montpellier,Guingamp,2,1,2015-12-12 23:00:00,Ryad Boudebouz,Cross
+65867,56,SavedShot,0.9530000305175781,0.509000015258789,0.5308889746665955,Souleymane Camara,h,3590,OpenPlay,2015,RightFoot,2061,Montpellier,Bordeaux,0,1,2016-01-09 23:00:00,Jérôme Roussillon,Cross
+65876,81,BlockedShot,0.749000015258789,0.5729999923706055,0.023454699665308,Souleymane Camara,h,3590,OpenPlay,2015,RightFoot,2061,Montpellier,Bordeaux,0,1,2016-01-09 23:00:00,Bryan Dabo,Pass
+66311,79,SavedShot,0.955999984741211,0.5570000076293945,0.569612979888916,Souleymane Camara,h,3590,OpenPlay,2015,LeftFoot,2084,Montpellier,Caen,1,2,2016-01-23 23:00:00,,Rebound
+66542,38,BlockedShot,0.8569999694824219,0.7380000305175781,0.12357500195503235,Souleymane Camara,a,3590,OpenPlay,2015,LeftFoot,2093,GFC Ajaccio,Montpellier,0,4,2016-01-30 23:00:00,Bryan Dabo,Throughball
+66554,69,MissedShots,0.8809999847412109,0.495,0.1115799993276596,Souleymane Camara,a,3590,OpenPlay,2015,RightFoot,2093,GFC Ajaccio,Montpellier,0,4,2016-01-30 23:00:00,,None
+69085,53,BlockedShot,0.855999984741211,0.6320000076293946,0.14400799572467804,Souleymane Camara,h,3590,OpenPlay,2015,LeftFoot,2100,Montpellier,Marseille,0,1,2016-02-03 00:00:00,Hilton,Throughball
+69283,86,SavedShot,0.9730000305175781,0.3940000152587891,0.036624301224946976,Souleymane Camara,a,3590,FromCorner,2015,Head,2111,Lorient,Montpellier,1,1,2016-02-06 23:00:00,Ryad Boudebouz,Cross
+69525,87,Goal,0.96,0.580999984741211,0.3094489872455597,Souleymane Camara,h,3590,FromCorner,2015,Head,2124,Montpellier,Toulouse,2,0,2016-02-13 23:00:00,Ryad Boudebouz,Cross
+69653,33,Goal,0.94,0.5359999847412109,0.41589000821113586,Souleymane Camara,a,3590,FromCorner,2015,Head,2133,Angers,Montpellier,2,3,2016-02-20 23:00:00,Ryad Boudebouz,Cross
+66809,3,SavedShot,0.9590000152587891,0.505,0.7248439788818359,Souleymane Camara,h,3590,OpenPlay,2015,LeftFoot,2163,Montpellier,Nice,0,2,2016-03-12 23:00:00,Ryad Boudebouz,Pass
+66817,22,SavedShot,0.8530000305175781,0.39,0.06771370023488998,Souleymane Camara,h,3590,OpenPlay,2015,RightFoot,2163,Montpellier,Nice,0,2,2016-03-12 23:00:00,,BallRecovery
+66942,15,SavedShot,0.7780000305175782,0.45799999237060546,0.03551270067691803,Souleymane Camara,a,3590,OpenPlay,2015,LeftFoot,2170,Saint-Etienne,Montpellier,3,0,2016-03-19 20:00:00,Ellyes Skhiri,BallTouch
+66943,22,MissedShots,0.9590000152587891,0.3920000076293945,0.04392850026488304,Souleymane Camara,a,3590,FromCorner,2015,Head,2170,Saint-Etienne,Montpellier,3,0,2016-03-19 20:00:00,Ryad Boudebouz,Cross
+66947,51,MissedShots,0.935,0.580999984741211,0.2929219901561737,Souleymane Camara,a,3590,SetPiece,2015,Head,2170,Saint-Etienne,Montpellier,3,0,2016-03-19 20:00:00,Ryad Boudebouz,Cross
+67388,58,BlockedShot,0.879000015258789,0.345,0.06700500100851059,Souleymane Camara,a,3590,OpenPlay,2015,RightFoot,2182,Guingamp,Montpellier,2,2,2016-04-02 22:00:00,Ryad Boudebouz,Pass
+68365,62,MissedShots,0.9209999847412109,0.6270000076293946,0.25240400433540344,Souleymane Camara,h,3590,OpenPlay,2015,LeftFoot,2189,Montpellier,Lyon,0,2,2016-04-08 22:30:00,Jonas Martin,TakeOn
+67881,19,SavedShot,0.7469999694824219,0.3509999847412109,0.020773200318217278,Souleymane Camara,a,3590,OpenPlay,2015,RightFoot,2206,Nantes,Montpellier,0,2,2016-04-17 16:00:00,Ellyes Skhiri,Pass
+67708,0,MissedShots,0.6990000152587891,0.4620000076293945,0.011480400338768959,Souleymane Camara,h,3590,OpenPlay,2015,RightFoot,2212,Montpellier,Troyes,4,1,2016-04-24 19:00:00,Casimir Ninga,LayOff
+67713,12,MissedShots,0.914000015258789,0.49400001525878906,0.35443100333213806,Souleymane Camara,h,3590,OpenPlay,2015,Head,2212,Montpellier,Troyes,4,1,2016-04-24 19:00:00,Casimir Ninga,Cross
+67718,23,SavedShot,0.85,0.33599998474121096,0.011873699724674225,Souleymane Camara,h,3590,SetPiece,2015,Head,2212,Montpellier,Troyes,4,1,2016-04-24 19:00:00,Ryad Boudebouz,Cross
+67720,24,MissedShots,0.7930000305175782,0.28100000381469725,0.022440999746322632,Souleymane Camara,h,3590,OpenPlay,2015,RightFoot,2212,Montpellier,Troyes,4,1,2016-04-24 19:00:00,Ryad Boudebouz,Chipped
+67721,26,MissedShots,0.9540000152587891,0.5770000076293945,0.13266800343990326,Souleymane Camara,h,3590,OpenPlay,2015,Head,2212,Montpellier,Troyes,4,1,2016-04-24 19:00:00,Ryad Boudebouz,Cross
+67731,54,Goal,0.889000015258789,0.43099998474121093,0.35063600540161133,Souleymane Camara,h,3590,OpenPlay,2015,LeftFoot,2212,Montpellier,Troyes,4,1,2016-04-24 19:00:00,,Rebound
+67685,29,BlockedShot,0.879000015258789,0.43400001525878906,0.08546730130910873,Souleymane Camara,a,3590,OpenPlay,2015,LeftFoot,2223,Reims,Montpellier,2,3,2016-04-30 21:00:00,Ryad Boudebouz,Chipped
+67687,37,Goal,0.9490000152587891,0.54,0.5200200080871582,Souleymane Camara,a,3590,OpenPlay,2015,Head,2223,Reims,Montpellier,2,3,2016-04-30 21:00:00,Ryad Boudebouz,Cross
+68002,11,MissedShots,0.8819999694824219,0.46,0.08109070360660553,Souleymane Camara,h,3590,OpenPlay,2015,RightFoot,2234,Montpellier,Rennes,2,0,2016-05-07 23:00:00,Bryan Dabo,Cross
+68011,59,SavedShot,0.865,0.3129999923706055,0.060840800404548645,Souleymane Camara,h,3590,OpenPlay,2015,RightFoot,2234,Montpellier,Rennes,2,0,2016-05-07 23:00:00,,None
+102984,54,MissedShots,0.9159999847412109,0.695,0.05923379957675934,Souleymane Camara,h,3590,OpenPlay,2016,LeftFoot,2252,Montpellier,Angers,1,0,2016-08-13 22:00:00,,Rebound
+102995,93,MissedShots,0.7659999847412109,0.375,0.028317399322986603,Souleymane Camara,h,3590,OpenPlay,2016,LeftFoot,2252,Montpellier,Angers,1,0,2016-08-13 22:00:00,Ryad Boudebouz,Pass
+103152,22,SavedShot,0.8369999694824218,0.49599998474121093,0.06617199629545212,Souleymane Camara,a,3590,OpenPlay,2016,RightFoot,2267,Saint-Etienne,Montpellier,3,1,2016-08-21 19:00:00,Anthony Vanden Borre,Chipped
+103157,40,MissedShots,0.6980000305175781,0.509000015258789,0.0189690999686718,Souleymane Camara,a,3590,OpenPlay,2016,RightFoot,2267,Saint-Etienne,Montpellier,3,1,2016-08-21 19:00:00,Morgan Sanson,Pass
+103164,62,MissedShots,0.905,0.4570000076293945,0.03785239905118942,Souleymane Camara,a,3590,OpenPlay,2016,Head,2267,Saint-Etienne,Montpellier,3,1,2016-08-21 19:00:00,Morgan Sanson,Aerial
+103919,87,SavedShot,0.955999984741211,0.5129999923706055,0.7012979984283447,Souleymane Camara,h,3590,OpenPlay,2016,RightFoot,2296,Montpellier,Nice,1,1,2016-09-18 17:00:00,Steve Mounie,Pass
+104380,71,MissedShots,0.8930000305175781,0.52,0.0634097009897232,Souleymane Camara,a,3590,OpenPlay,2016,Head,2307,Lyon,Montpellier,5,1,2016-09-21 21:00:00,Jérôme Roussillon,Cross
+104150,81,MissedShots,0.889000015258789,0.525,0.4254710078239441,Souleymane Camara,h,3590,OpenPlay,2016,LeftFoot,2312,Montpellier,Metz,0,1,2016-09-24 22:00:00,Anthony Vanden Borre,Pass
+105060,4,MissedShots,0.73,0.509000015258789,0.019086699932813644,Souleymane Camara,a,3590,OpenPlay,2016,RightFoot,2339,Monaco,Montpellier,6,2,2016-10-21 22:45:00,Morgan Sanson,Pass
+105064,34,BlockedShot,0.87,0.6930000305175781,0.06384780257940292,Souleymane Camara,a,3590,OpenPlay,2016,RightFoot,2339,Monaco,Montpellier,6,2,2016-10-21 22:45:00,,Dispossessed
+105066,40,MissedShots,0.8730000305175781,0.43599998474121093,0.016621699556708336,Souleymane Camara,a,3590,OpenPlay,2016,Head,2339,Monaco,Montpellier,6,2,2016-10-21 22:45:00,Mathieu Deplagne,Aerial
+105322,11,MissedShots,0.845,0.3139999961853027,0.044012200087308884,Souleymane Camara,a,3590,OpenPlay,2016,LeftFoot,3324,Lorient,Montpellier,2,2,2016-10-29 22:00:00,,BallRecovery
+105328,46,Goal,0.9390000152587891,0.4759999847412109,0.567031979560852,Souleymane Camara,a,3590,OpenPlay,2016,LeftFoot,3324,Lorient,Montpellier,2,2,2016-10-29 22:00:00,Morgan Sanson,Pass
+105334,58,MissedShots,0.9419999694824219,0.37,0.02293970063328743,Souleymane Camara,a,3590,FromCorner,2016,Head,3324,Lorient,Montpellier,2,2,2016-10-29 22:00:00,Morgan Sanson,Cross
+105339,72,SavedShot,0.87,0.295,0.10907399654388428,Souleymane Camara,a,3590,OpenPlay,2016,RightFoot,3324,Lorient,Montpellier,2,2,2016-10-29 22:00:00,Stéphane Sessegnon,Throughball
+105819,56,MissedShots,0.7040000152587891,0.42900001525878906,0.009895210154354572,Souleymane Camara,a,3590,OpenPlay,2016,LeftFoot,2846,SC Bastia,Montpellier,1,1,2016-11-19 23:00:00,,TakeOn
+107107,53,BlockedShot,0.9309999847412109,0.5209999847412109,0.10169699788093567,Souleymane Camara,a,3590,SetPiece,2016,RightFoot,3241,Lille,Montpellier,2,1,2016-12-10 23:00:00,Ellyes Skhiri,HeadPass
+107920,53,BlockedShot,0.8390000152587891,0.629000015258789,0.03682649880647659,Souleymane Camara,h,3590,SetPiece,2016,LeftFoot,3255,Montpellier,Bordeaux,4,0,2016-12-17 23:00:00,,Rebound
+106918,9,MissedShots,0.9269999694824219,0.6430000305175781,0.01639460027217865,Souleymane Camara,h,3590,FromCorner,2016,Head,4107,Montpellier,Dijon,1,1,2017-01-14 23:00:00,Morgan Sanson,Cross
+106924,20,BlockedShot,0.9219999694824219,0.4209999847412109,0.020890699699521065,Souleymane Camara,h,3590,FromCorner,2016,Head,4107,Montpellier,Dijon,1,1,2017-01-14 23:00:00,Paul Lasne,Aerial
+106931,25,MissedShots,0.789000015258789,0.28700000762939454,0.017066000029444695,Souleymane Camara,h,3590,OpenPlay,2016,LeftFoot,4107,Montpellier,Dijon,1,1,2017-01-14 23:00:00,Morgan Sanson,Pass
+106936,43,MissedShots,0.9119999694824219,0.42700000762939455,0.018907999619841576,Souleymane Camara,h,3590,FromCorner,2016,Head,4107,Montpellier,Dijon,1,1,2017-01-14 23:00:00,Paul Lasne,Aerial
+106937,47,MissedShots,0.86,0.524000015258789,0.028959499672055244,Souleymane Camara,h,3590,OpenPlay,2016,Head,4107,Montpellier,Dijon,1,1,2017-01-14 23:00:00,Paul Lasne,Cross
+108169,94,BlockedShot,0.91,0.6120000076293945,0.023586399853229523,Souleymane Camara,h,3590,FromCorner,2016,Head,4146,Montpellier,Monaco,1,2,2017-02-07 21:00:00,Ryad Boudebouz,Cross
+110984,84,MissedShots,0.91,0.654000015258789,0.0927886962890625,Souleymane Camara,h,3590,OpenPlay,2016,RightFoot,4167,Montpellier,Saint-Etienne,2,1,2017-02-19 16:00:00,Ryad Boudebouz,Pass
+161959,57,Goal,0.9440000152587891,0.4209999847412109,0.2786880135536194,Souleymane Camara,h,3590,OpenPlay,2017,Head,8571,Montpellier,Caen,1,0,2017-08-05 19:00:00,Kévin Berigaud,Cross
+162268,72,BlockedShot,0.909000015258789,0.32599998474121095,0.06070290133357048,Souleymane Camara,a,3590,OpenPlay,2017,RightFoot,8581,Toulouse,Montpellier,1,0,2017-08-12 19:00:00,Ellyes Skhiri,Pass
+163381,91,Goal,0.9180000305175782,0.509000015258789,0.2794319987297058,Souleymane Camara,a,3590,OpenPlay,2017,Head,8641,Monaco,Montpellier,1,1,2017-09-29 19:45:00,Kévin Berigaud,HeadPass
+163931,36,SavedShot,0.7909999847412109,0.6819999694824219,0.02491910010576248,Souleymane Camara,h,3590,OpenPlay,2017,RightFoot,8648,Montpellier,Nice,2,0,2017-10-15 16:00:00,Jérôme Roussillon,Pass
+163935,48,MissedShots,0.89,0.4520000076293945,0.06792210042476654,Souleymane Camara,h,3590,OpenPlay,2017,Head,8648,Montpellier,Nice,2,0,2017-10-15 16:00:00,Ruben Aguilar,Cross
+164614,75,SavedShot,0.895,0.6079999923706054,0.36939701437950134,Souleymane Camara,h,3590,OpenPlay,2017,RightFoot,8671,Montpellier,Rennes,0,1,2017-10-28 19:00:00,Casimir Ninga,Pass
+164288,81,SavedShot,0.9119999694824219,0.43900001525878907,0.3359540104866028,Souleymane Camara,h,3590,OpenPlay,2017,RightFoot,8675,Montpellier,Amiens,1,1,2017-11-04 19:00:00,Giovanni Sio,Cross
+165029,51,MissedShots,0.8690000152587891,0.5970000076293945,0.019825199618935585,Souleymane Camara,h,3590,SetPiece,2017,Head,8718,Montpellier,Marseille,1,1,2017-12-03 20:00:00,Jérôme Roussillon,Cross
+165035,86,MissedShots,0.855999984741211,0.63,0.014857999980449677,Souleymane Camara,h,3590,SetPiece,2017,Head,8718,Montpellier,Marseille,1,1,2017-12-03 20:00:00,Junior Sambia,Cross
+183352,30,MissedShots,0.9530000305175781,0.34200000762939453,0.01325989980250597,Souleymane Camara,h,3590,FromCorner,2017,Head,8738,Montpellier,Metz,1,3,2017-12-16 19:00:00,Isaac Mbenza,Cross
+189956,66,MissedShots,0.909000015258789,0.41200000762939454,0.3155910074710846,Souleymane Camara,a,3590,OpenPlay,2017,RightFoot,8790,Paris Saint Germain,Montpellier,4,0,2018-01-27 19:00:00,,Rebound
+189958,79,MissedShots,0.7530000305175781,0.624000015258789,0.016851700842380524,Souleymane Camara,a,3590,OpenPlay,2017,LeftFoot,8790,Paris Saint Germain,Montpellier,4,0,2018-01-27 19:00:00,Ellyes Skhiri,Pass
+189960,83,MissedShots,0.9369999694824219,0.6029999923706054,0.048386100679636,Souleymane Camara,a,3590,FromCorner,2017,Head,8790,Paris Saint Germain,Montpellier,4,0,2018-01-27 19:00:00,Keagan Dolly,Cross
+194559,57,MissedShots,0.9119999694824219,0.5570000076293945,0.06776779890060425,Souleymane Camara,h,3590,FromCorner,2017,Head,8799,Montpellier,Angers,2,1,2018-02-03 19:00:00,Keagan Dolly,Cross
+194560,63,MissedShots,0.8319999694824218,0.4470000076293945,0.01704319939017296,Souleymane Camara,h,3590,SetPiece,2017,Head,8799,Montpellier,Angers,2,1,2018-02-03 19:00:00,Junior Sambia,Cross
+196565,77,MissedShots,0.9159999847412109,0.5279999923706055,0.10203400254249573,Souleymane Camara,h,3590,OpenPlay,2017,RightFoot,8823,Montpellier,Guingamp,1,1,2018-02-17 19:00:00,,None
+200320,5,SavedShot,0.9009999847412109,0.35400001525878905,0.25782400369644165,Souleymane Camara,a,3590,OpenPlay,2017,RightFoot,8848,Lille,Montpellier,1,1,2018-03-10 19:00:00,Ruben Aguilar,Pass
+209032,90,SavedShot,0.885,0.5,0.7600290179252625,Souleymane Camara,h,3590,Penalty,2017,RightFoot,8890,Montpellier,Bordeaux,1,3,2018-04-15 13:00:00,,Standard
+209033,94,MissedShots,0.9209999847412109,0.539000015258789,0.12743599712848663,Souleymane Camara,h,3590,SetPiece,2017,Head,8890,Montpellier,Bordeaux,1,3,2018-04-15 13:00:00,Keagan Dolly,Cross
+217475,82,BlockedShot,0.9330000305175781,0.49,0.13046200573444366,Souleymane Camara,h,3590,OpenPlay,2018,RightFoot,10646,Montpellier,Dijon,1,2,2018-08-11 21:00:00,Ruben Aguilar,End
+287125,90,Goal,0.9119999694824219,0.4640000152587891,0.30135300755500793,Souleymane Camara,a,3590,OpenPlay,2018,Head,10926,Lyon,Montpellier,3,2,2019-03-17 13:30:00,Andy Delort,Chipped
+291189,81,SavedShot,0.835,0.715,0.14755100011825562,Souleymane Camara,h,3590,OpenPlay,2018,LeftFoot,10940,Montpellier,Guingamp,2,0,2019-04-03 18:00:00,Paul Lasne,TakeOn
+292709,87,MissedShots,0.88,0.46,0.03555240109562874,Souleymane Camara,a,3590,OpenPlay,2018,Head,10952,Nice,Montpellier,1,0,2019-04-07 16:00:00,Hilton,Chipped
+292710,91,SavedShot,0.7190000152587891,0.4279999923706055,0.017496900632977486,Souleymane Camara,a,3590,OpenPlay,2018,RightFoot,10952,Nice,Montpellier,1,0,2019-04-07 16:00:00,Florent Mollet,Pass
+294420,76,Goal,0.9159999847412109,0.4520000076293945,0.11677300184965134,Souleymane Camara,h,3590,OpenPlay,2018,Head,10958,Montpellier,Toulouse,2,1,2019-04-14 14:00:00,Ruben Aguilar,Cross
+294422,88,SavedShot,0.9130000305175782,0.43900001525878907,0.11403299868106842,Souleymane Camara,h,3590,OpenPlay,2018,RightFoot,10958,Montpellier,Toulouse,2,1,2019-04-14 14:00:00,Andy Delort,Cross
+298578,83,BlockedShot,0.9630000305175781,0.39099998474121095,0.0407974012196064,Souleymane Camara,h,3590,FromCorner,2018,Head,10977,Montpellier,Paris Saint Germain,3,2,2019-04-30 18:00:00,Junior Sambia,Cross
+298580,84,Goal,0.8630000305175781,0.53,0.10766799747943878,Souleymane Camara,h,3590,OpenPlay,2018,LeftFoot,10977,Montpellier,Paris Saint Germain,3,2,2019-04-30 18:00:00,Ellyes Skhiri,Pass
+323319,89,SavedShot,0.905,0.4909999847412109,0.10809499770402908,Souleymane Camara,a,3590,OpenPlay,2019,RightFoot,12785,Strasbourg,Montpellier,1,0,2019-09-29 13:00:00,Florent Mollet,Pass
+329563,74,SavedShot,0.850999984741211,0.3820000076293945,0.05269870162010193,Souleymane Camara,a,3590,OpenPlay,2019,RightFoot,12823,Metz,Montpellier,2,2,2019-11-02 19:00:00,,Rebound
+358758,88,MissedShots,0.9359999847412109,0.539000015258789,0.06606809794902802,Souleymane Camara,a,3590,OpenPlay,2019,Head,12955,Monaco,Montpellier,1,0,2020-02-14 19:45:00,,Aerial
