@@ -1,15 +1,11 @@
-import os
+import pandas as pd
 
-# check top level
-for item in os.listdir('data/FPL/2025'):
-    print(item)
+players_df = pd.read_csv('data/FPL/2025/players/players_raw.csv')
+players_df['player_name'] = players_df['first_name'] + ' ' + players_df['second_name']
+players_df = players_df[['id', 'player_name']]
 
-# check one manager folder
-managers = os.listdir('data/FPL/2025/managers')
-print(f"\nTotal managers: {len(managers)}")
+gw_df = pd.read_csv('data/FPL/2025/managers/44/gw_1.csv')[['element', 'position', 'multiplier']]
 
-# check one manager's files
-sample = managers[0]
-print(f"\nFiles for manager {sample}:")
-for f in os.listdir(f'data/FPL/2025/managers/{sample}'):
-    print(f" {f}")
+merged = gw_df.merge(players_df, left_on='element', right_on='id', how='left')
+print(merged.columns.tolist())
+print(merged.head())

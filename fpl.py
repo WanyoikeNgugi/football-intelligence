@@ -4,7 +4,8 @@ from concurrent.futures import ThreadPoolExecutor, as_completed
 from tqdm import tqdm
 import os
 import pandas as pd
-
+import re
+from pathlib import Path
 OUTPUT_DIR = os.path.join('data', 'FPL', '2025')
 OVERALL_LEAGUE_ID = 314
 TOP_MANAGERS = 1000
@@ -96,20 +97,36 @@ def run_manager_pipeline(output_dir, completed_gws):
             os.path.join(output_dir, 'managers', 'failed_managers.csv'), index=False
         )
 
+def merge_player_names(output_dir):
+    players_df = pd.read_csv(os.path.join(output_dir, 'players', 'players_raw.csv'))
+    players_df['player_name'] = players_df['first_name'] + ' ' + players_df['second_name']
+    players_df = players_df[['id', 'player_name']] 
+    root_dir = Path(os.path.join(output_dir, 'managers'))
+    pattern = re.compile(r"gw_\d+\.csv$")
+    for gw_file in root_dir.rglob("*.csv"):
+        if pattern.search(gw_file.name):
+            gw_df = pd.read_csv(gw_file)[['element', 'position', 'multiplier']]  # ← this line is missing
+            merged_df = gw_df.merge(players_df, left_on='element', right_on='id', how='left')
+            merged_df = merged_df[['element', 'position', 'multiplier', 'player_name']]
+            merged_df.to_csv(gw_file, index=False)
+
+
+
 def main():
-    os.makedirs(OUTPUT_DIR, exist_ok=True)
+    # os.makedirs(OUTPUT_DIR, exist_ok=True)
 
-    bootstrap = fetch_bootstrap()
+    # bootstrap = fetch_bootstrap()
 
-    players = bootstrap['elements']
-    events = bootstrap['events']
-    teams = bootstrap['teams']
-    completed_gws = get_completed_gws(events)
+    # players = bootstrap['elements']
+    # events = bootstrap['events']
+    # teams = bootstrap['teams']
+    # completed_gws = get_completed_gws(events)
 
-    save_teams(teams, OUTPUT_DIR)
-    save_fixtures(fetch_fixtures(), OUTPUT_DIR)
-    run_player_pipeline(players, events, OUTPUT_DIR)
-    run_manager_pipeline(OUTPUT_DIR, completed_gws)
+    # save_teams(teams, OUTPUT_DIR)
+    # save_fixtures(fetch_fixtures(), OUTPUT_DIR)
+    # run_player_pipeline(players, events, OUTPUT_DIR)
+    # run_manager_pipeline(OUTPUT_DIR, completed_gws)
+    merge_player_names(OUTPUT_DIR)
 
 if __name__ == '__main__':
     main()
