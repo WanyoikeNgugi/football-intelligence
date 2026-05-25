@@ -94,5 +94,33 @@ def save_manager_leagues(data, entry_id, output_dir):
     except KeyError:
         print(f"No cup data for manager {entry_id}")
 
+def save_xp(bootstrap, output_dir):
+    # find current GW number
+    gw_num  = None
+    for event in bootstrap['events']:
+        if event['is_current']:
+            gw_num = event['id']
+            break
 
+    if gw_num is None:
+        print("No current GW found")
+        return
+    
+    rows = [{'id': p['id'], 'xP': p['ep_this']} for p in bootstrap['elements']]
+    gws_folder = os.path.join(output_dir, 'gws')
+    os.makedirs(gws_folder, exist_ok=True)
+    pd.DataFrame(rows).to_csv(os.path.join(gws_folder, f'xP_{gw_num}.csv'), index=False)
+
+
+def save_cleaned_players(output_dir):
+    players_df = pd.read_csv(os.path.join(output_dir, 'players', 'players_raw.csv'))
+    position_mapped = {1: 'GKP', 2: 'DEF', 3: 'MID', 4: 'FWD'}
+    players_df['element_type'] = players_df['element_type'].map(position_mapped)
+    players_df['value_per_m'] = players_df['total_points'] / (players_df['now_cost']/10)
+    cols = ['first_name', 'second_name', 'goals_scored', 'assists', 'total_points', 
+        'minutes', 'goals_conceded', 'creativity', 'influence', 'threat', 'bonus', 
+        'bps', 'ict_index', 'clean_sheets', 'red_cards', 'yellow_cards', 
+        'selected_by_percent', 'now_cost', 'element_type', 'value_per_m']
+    players_df = players_df[cols]
+    players_df.to_csv(os.path.join(output_dir, 'players','cleaned_players.csv'), index=False)
 

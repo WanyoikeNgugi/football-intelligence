@@ -105,17 +105,53 @@ def merge_player_names(output_dir):
     pattern = re.compile(r"gw_\d+\.csv$")
     for gw_file in root_dir.rglob("*.csv"):
         if pattern.search(gw_file.name):
-            gw_df = pd.read_csv(gw_file)[['element', 'position', 'multiplier']]  # ← this line is missing
+            gw_df = pd.read_csv(gw_file)[['element', 'position', 'multiplier']]
             merged_df = gw_df.merge(players_df, left_on='element', right_on='id', how='left')
             merged_df = merged_df[['element', 'position', 'multiplier', 'player_name']]
             merged_df.to_csv(gw_file, index=False)
 
+def build_gw_files(output_dir):
+    players_df = pd.read_csv(os.path.join(output_dir, 'players', 'players_raw.csv'))
+    players_df['name'] = players_df['first_name'] + ' ' + players_df['second_name']
+    teams_df = pd.read_csv(os.path.join(output_dir, 'teams', 'teams.csv'))
+    teams_df = teams_df[['id', 'name']].rename(columns={'name': 'team_name'})
+    players_df= players_df.merge(teams_df, left_on='team', right_on= 'id', how='left')
+    position_mapped = {1: 'GKP', 2: 'DEF', 3: 'MID', 4: 'FWD'}
+    players_df['position'] = players_df['element_type'].map(position_mapped)
+    players_df = players_df[['id_x', 'position','name', 'team_name']].rename(columns={'id_x': 'id', 'team_name':'team'})
+    # print(players_df.columns.tolist())
+    # print(players_df.head())
+    root_dir = Path(os.path.join(output_dir, 'players'))
+    pattern = re.compile(r"gw\.csv$")
+    all_gws = []
+    for gw_file in root_dir.rglob("*.csv"):
+        if pattern.search(gw_file.name):
+            gw_df = pd.read_csv(gw_file)
+            gw_df = gw_df.merge(players_df, left_on='element', right_on='id', how='left')
+            all_gws.append(gw_df)
+    combined_df = pd.concat(all_gws, ignore_index=True)
+    gws_folder = os.path.join(output_dir, 'gws')
+    os.makedirs(gws_folder, exist_ok=True)
+    for round_num, group in combined_df.groupby('round'):
+        group.to_csv(os.path.join(gws_folder, f'gw_{round_num}.csv'), index=False)
+
+def get_current_gw(events):
+    for event in events:
+        if event['is_current']:
+            return event['id']
+    return None
+
+
+
+
+
+
 
 
 def main():
-    # os.makedirs(OUTPUT_DIR, exist_ok=True)
+    os.makedirs(OUTPUT_DIR, exist_ok=True)
 
-    # bootstrap = fetch_bootstrap()
+    bootstrap = fetch_bootstrap()
 
     # players = bootstrap['elements']
     # events = bootstrap['events']
@@ -126,7 +162,11 @@ def main():
     # save_fixtures(fetch_fixtures(), OUTPUT_DIR)
     # run_player_pipeline(players, events, OUTPUT_DIR)
     # run_manager_pipeline(OUTPUT_DIR, completed_gws)
-    merge_player_names(OUTPUT_DIR)
+    # merge_player_names(OUTPUT_DIR)
+    build_gw_files(OUTPUT_DIR)
+    #save_xp(bootstrap, OUTPUT_DIR)
+    save_cleaned_players(OUTPUT_DIR)      # add this
+    save_xp(bootstrap, OUTPUT_DIR)
 
 if __name__ == '__main__':
     main()
