@@ -1,6 +1,6 @@
-import pandas as pd
 import os
+import pandas as pd
 
-print(pd.read_csv('data/FPL/2025/players/cleaned_players.csv').head())
-print(os.listdir('data/FPL/2025/gws'))
-print(pd.read_csv('data/FPL/2025/gws/gw_1.csv').columns.tolist())
+fbref_dir = 'data/FPL/2025/fbref'
+print(os.listdir(fbref_dir))
+print(pd.read_csv(f'{fbref_dir}/standard.csv').head())
