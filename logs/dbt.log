@@ -1,0 +1,30 @@
+[0m09:25:11.598942 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'start', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000022FE7F2F4D0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000022FEA48BD90>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000022FEA48B9D0>]}
+
+
+============================== 09:25:11.761881 | 97b71b86-f2c2-465b-a84d-a5a8301ebbea ==============================
+[0m09:25:11.761881 [info ] [MainThread]: Running with dbt=1.11.11
+[0m09:25:11.764624 [debug] [MainThread]: running dbt with arguments {'static_parser': 'True', 'no_print': 'None', 'version_check': 'True', 'target_path': 'None', 'warn_error_options': 'WarnErrorOptionsV2(error=[], warn=[], silence=[])', 'printer_width': '80', 'write_json': 'True', 'empty': 'None', 'log_cache_events': 'False', 'introspect': 'True', 'cache_selected_only': 'False', 'log_format': 'default', 'debug': 'False', 'fail_fast': 'False', 'partial_parse': 'True', 'send_anonymous_usage_stats': 'True', 'quiet': 'False', 'warn_error': 'None', 'profiles_dir': 'C:\\Users\\Dell\\.dbt', 'indirect_selection': 'eager', 'invocation_command': 'dbt init football_dbt', 'use_colors': 'True', 'use_experimental_parser': 'False', 'log_path': 'logs'}
+[0m09:25:12.201450 [info ] [MainThread]: Creating dbt configuration folder at C:\Users\Dell\.dbt
+[0m09:25:12.216992 [debug] [MainThread]: Starter project path: C:\Users\Dell\Desktop\projects\fantasy-football-project\.venv\Lib\site-packages\dbt\include\starter_project
+[0m09:25:12.335762 [info ] [MainThread]: 
+Your new dbt project "football_dbt" was created!
+
+For more information on how to configure the profiles.yml file,
+please consult the dbt documentation here:
+
+  https://docs.getdbt.com/docs/configure-your-profile
+
+One more thing:
+
+Need help? Don't hesitate to reach out to us via GitHub issues or on Slack:
+
+  https://community.getdbt.com/
+
+Happy modeling!
+
+[0m09:25:12.338322 [info ] [MainThread]: Setting up your profile.
+[0m09:29:13.577893 [info ] [MainThread]: Profile football_dbt written to C:\Users\Dell\.dbt\profiles.yml using target's profile_template.yml and your supplied values. Run 'dbt debug' to validate the connection.
+[0m09:29:13.612398 [debug] [MainThread]: Command `dbt init` succeeded at 09:29:13.580063 after 242.85 seconds
+[0m09:29:13.614229 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'end', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000022FEA655480>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000022FEA65D6D0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000022FEA2156A0>]}
+[0m09:29:13.615535 [debug] [MainThread]: Flushing usage events
+[0m09:29:15.525408 [debug] [MainThread]: An error was encountered while trying to flush usage events
