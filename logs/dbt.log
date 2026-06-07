@@ -28,3 +28,18 @@ Happy modeling!
 [0m09:29:13.614229 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'end', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000022FEA655480>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000022FEA65D6D0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x0000022FEA2156A0>]}
 [0m09:29:13.615535 [debug] [MainThread]: Flushing usage events
 [0m09:29:15.525408 [debug] [MainThread]: An error was encountered while trying to flush usage events
+[0m09:54:31.012873 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'start', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x00000299BC6D4C20>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x00000299BEA8BD90>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x00000299BEA8B9D0>]}
+
+
+============================== 09:54:31.023153 | b8e8920f-f6db-4563-b968-8412d850d7b9 ==============================
+[0m09:54:31.023153 [info ] [MainThread]: Running with dbt=1.11.11
+[0m09:54:31.024933 [debug] [MainThread]: running dbt with arguments {'static_parser': 'True', 'no_print': 'None', 'version_check': 'True', 'warn_error_options': 'WarnErrorOptionsV2(error=[], warn=[], silence=[])', 'target_path': 'None', 'printer_width': '80', 'write_json': 'True', 'empty': 'False', 'log_cache_events': 'False', 'introspect': 'True', 'cache_selected_only': 'False', 'log_format': 'default', 'debug': 'False', 'fail_fast': 'False', 'partial_parse': 'True', 'send_anonymous_usage_stats': 'True', 'quiet': 'False', 'warn_error': 'None', 'profiles_dir': 'C:\\Users\\Dell\\.dbt', 'invocation_command': 'dbt run --select stg_understat_players', 'indirect_selection': 'eager', 'use_colors': 'True', 'use_experimental_parser': 'False', 'log_path': 'logs'}
+[0m09:54:31.026109 [error] [MainThread]: Encountered an error:
+Runtime Error
+  No dbt_project.yml found at expected path C:\Users\Dell\Desktop\projects\fantasy-football-project\dbt_project.yml
+  Verify that each entry within packages.yml (and their transitive dependencies) contains a file named dbt_project.yml
+  
+[0m09:54:31.027822 [debug] [MainThread]: Command `dbt run` failed at 09:54:31.027558 after 0.28 seconds
+[0m09:54:31.028483 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'end', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x00000299BEA135C0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x00000299BEB184D0>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0x00000299BEAA29C0>]}
+[0m09:54:31.029133 [debug] [MainThread]: Flushing usage events
+[0m09:54:32.231895 [debug] [MainThread]: An error was encountered while trying to flush usage events

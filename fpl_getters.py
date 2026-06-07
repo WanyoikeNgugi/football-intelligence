@@ -8,12 +8,14 @@ HEADERS = {
     "Accept": "application/json, text/javascript, */*; q=0.01",
 }
 
+
 def fetch_bootstrap():
     url = f"{BASE_URL}/bootstrap-static/"
     headers = {**HEADERS, "Referer": url}
-    r = requests.get(url, headers = headers, timeout = 30)
+    r = requests.get(url, headers=headers, timeout=30)
     r.raise_for_status()
     return r.json()
+
 
 def fetch_fixtures():
     url = f"{BASE_URL}/fixtures/"
@@ -22,6 +24,7 @@ def fetch_fixtures():
     r.raise_for_status()
     return r.json()
 
+
 def fetch_player_summary(player_id):
     url = f"{BASE_URL}/element-summary/{player_id}/"
     headers = {**HEADERS, "Referer": url}
@@ -29,18 +32,22 @@ def fetch_player_summary(player_id):
     r.raise_for_status()
     return r.json()
 
+
 def fetch_manager_history(entry_id):
     url = f"{BASE_URL}/entry/{entry_id}/history/"
     headers = {**HEADERS, "Referer": url}
     r = requests.get(url, headers=headers, timeout=30)
     r.raise_for_status()
     return r.json()
+
+
 def fetch_manager_transfers(entry_id):
     url = f"{BASE_URL}/entry/{entry_id}/transfers/"
     headers = {**HEADERS, "Referer": url}
     r = requests.get(url, headers=headers, timeout=30)
     r.raise_for_status()
     return r.json()
+
 
 def fetch_manager_gw_picks(entry_id, gw):
     url = f"{BASE_URL}/entry/{entry_id}/event/{gw}/picks/"
@@ -49,12 +56,14 @@ def fetch_manager_gw_picks(entry_id, gw):
     r.raise_for_status()
     return r.json()
 
+
 def fetch_manager_standings(league_id, page):
     url = f"{BASE_URL}/leagues-classic/{league_id}/standings/?page_standings={page}"
     headers = {**HEADERS, "Referer": url}
     r = requests.get(url, headers=headers, timeout=30)
     r.raise_for_status()
     return r.json()
+
 
 def fetch_manager_personal_data(entry_id):
     url = f"{BASE_URL}/entry/{entry_id}/"

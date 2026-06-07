@@ -1,0 +1,19 @@
+version: 2
+
+sources:
+  - name: raw
+    database: football_db
+    schema: public
+    tables:
+       - name: fpl_players_raw
+       - name: fpl_cleaned_players
+       - name: fpl_gw
+       - name: fpl_fixtures
+       - name: fpl_teams
+       - name: fpl_managers
+       - name: understat_players
+       - name: fbref_standard
+       - name: fbref_shooting
+       - name: fbref_misc
+       - name: fbref_keeper
+       - name: fbref_player_time
