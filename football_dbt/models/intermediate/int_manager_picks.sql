@@ -22,7 +22,7 @@ joined as (
         gw.was_home,
         gw.team,
         gw.position,
-        gw.name                     as player_name,
+        gw.name as player_name,
         --gw.multiplier,
         players.price,
         players.selected_by_percent,

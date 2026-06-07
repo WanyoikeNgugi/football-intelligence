@@ -1,0 +1,14 @@
+[sqlfluff]
+templater = jinja
+dialect = postgres
+project_dir = ./football_dbt
+
+[sqlfluff:templater:jinja]
+apply_dbt_builtins = true
+project_dir = ./football_dbt
+profiles_dir = C:\Users\Dell\.dbt
+profile = football_dbt
+
+[sqlfluff:rules:references.special_chars]
+allow_space_in_identifier = true
+quoted_identifiers_policy = all

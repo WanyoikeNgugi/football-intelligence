@@ -10,15 +10,15 @@ historical_aggregated as (
     select
         player_name,
         position,
-        avg(avg_points_per_gw)          as career_avg_points_per_gw,
-        avg(avg_xg)                     as career_avg_xg,
-        avg(avg_xa)                     as career_avg_xa,
-        avg(avg_xgi)                    as career_avg_xgi,
-        avg(avg_ict_index)              as career_avg_ict,
-        sum(total_goals)                as career_goals,
-        sum(total_assists)              as career_assists,
-        sum(total_clean_sheets)         as career_clean_sheets,
-        count(season)                   as seasons_played
+        avg(avg_points_per_gw) as career_avg_points_per_gw,
+        avg(avg_xg) as career_avg_xg,
+        avg(avg_xa) as career_avg_xa,
+        avg(avg_xgi) as career_avg_xgi,
+        avg(avg_ict_index) as career_avg_ict,
+        sum(total_goals) as career_goals,
+        sum(total_assists) as career_assists,
+        sum(total_clean_sheets) as career_clean_sheets,
+        count(season) as seasons_played
     from historical
     group by player_name, position
 ),
@@ -50,8 +50,8 @@ final as (
         h.career_assists,
         h.career_clean_sheets,
         h.seasons_played
-    from current c
-    left join historical_aggregated h
+    from current as c
+    left join historical_aggregated as h
         on c.player_name = h.player_name
 )
 

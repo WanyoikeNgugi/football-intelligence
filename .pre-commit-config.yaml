@@ -6,6 +6,14 @@ repos:
         args: [--fix]
       - id: ruff-format
 
+  - repo: https://github.com/sqlfluff/sqlfluff
+    rev: 3.0.0
+    hooks:
+      - id: sqlfluff-lint
+        args: [--dialect, postgres, --templater, jinja]
+      - id: sqlfluff-fix
+        args: [--dialect, postgres, --templater, jinja]
+
   - repo: local
     hooks:
       - id: sqlglot
