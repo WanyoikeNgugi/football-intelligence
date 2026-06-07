@@ -1,3 +1,9 @@
+{{
+    config(
+        materialized='table'
+    )
+}}
+
 with gw as (
     select * from {{ ref('int_manager_picks') }}
 ),
@@ -23,10 +29,8 @@ aggregated as (
         avg(expected_assists) as avg_xa,
         sum(case when was_home then total_points else 0 end) as home_points,
         sum(case when not was_home then total_points else 0 end) as away_points,
-        avg(case when was_home then total_points end)
-        as avg_home_points,
-        avg(case when not was_home then total_points end)
-        as avg_away_points
+        avg(case when was_home then total_points end) as avg_home_points,
+        avg(case when not was_home then total_points end) as avg_away_points
     from gw
     group by
         player_id,

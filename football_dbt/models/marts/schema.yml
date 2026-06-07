@@ -1,0 +1,38 @@
+version: 2
+
+models:
+  - name: mart_player_value
+    description: "Player value metrics for undervalued player analysis"
+    columns:
+      - name: player_id
+        data_tests:
+          - unique
+          - not_null
+      - name: price
+        data_tests:
+          - not_null
+      - name: total_points
+        data_tests:
+          - not_null
+      - name: is_undervalued
+        data_tests:
+          - not_null
+
+  - name: mart_player_points
+    description: "Aggregated player points data for ML features"
+    columns:
+      - name: player_id
+        data_tests:
+          - unique
+          - not_null
+      - name: total_points
+        data_tests:
+          - not_null
+
+  - name: mart_historical_player_performance
+    description: "Combined current and historical player performance"
+    columns:
+      - name: player_id
+        data_tests:
+          - unique
+          - not_null

@@ -1,0 +1,61 @@
+version: 2
+
+models:
+  - name: stg_fpl_players
+    description: "Staged FPL player data with standardized column names"
+    columns:
+      - name: player_id
+        description: "Unique FPL player ID"
+        data_tests:
+          - unique
+          - not_null
+      - name: player_position
+        description: "Player position"
+        data_tests:
+          - not_null
+          - accepted_values:
+              arguments:
+                 values: ['GKP', 'DEF', 'MID', 'FWD']
+      - name: price
+        description: "Player price in millions"
+        data_tests:
+          - not_null
+
+  - name: stg_fpl_gw
+    description: "Staged FPL gameweek data"
+    columns:
+      - name: player_id
+        data_tests:
+          - not_null
+      - name: gw
+        data_tests:
+          - not_null
+      - name: total_points
+        data_tests:
+          - not_null
+  - name: stg_understat_players
+    description: "Staged Understat player data"
+    columns:
+      - name: player_id
+        data_tests:
+          - unique
+          - not_null
+      - name: xg
+        data_tests:
+          - not_null
+      - name: xa
+        data_tests:
+        - not_null
+
+  - name: stg_vaastav_gw
+    descritpion: "Staged Vaastav historical GW data"
+    columns:
+      - name: player_name
+        data_tests:
+          - not_null
+      - name: season
+        data_tests:
+          - not_null
+      - name: gw
+        data_tests:
+          - not_null

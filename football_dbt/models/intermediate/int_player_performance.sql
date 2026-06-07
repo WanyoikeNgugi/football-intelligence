@@ -10,11 +10,28 @@ fbref as (
     select * from {{ ref('stg_fbref_standard') }}
 ),
 
+fbref_agg as (
+    select
+        player,
+        sum(goals) as goals,
+        sum(assists) as assists,
+        sum(goals_assists) as goals_assists,
+        sum(non_penalty_goals) as non_penalty_goals,
+        sum(matches_played) as total_matches,
+        sum(matches_started) as total_starts,
+        sum(minutes) as total_minutes,
+        avg(goals_per90) as goals_per90,
+        avg(assists_per90) as assists_per90,
+        avg(goals_assists_per90) as goals_assists_per90
+    from fbref
+    group by player
+),
+
 joined as (
     select
         fpl.player_id,
         fpl.player_name,
-        fpl.position,
+        fpl.player_position,
         fpl.team_id,
         fpl.price,
         fpl.total_points,
@@ -42,11 +59,11 @@ joined as (
         fbref.goals_per90,
         fbref.assists_per90,
         fbref.goals_assists_per90,
-        fbref.starts
+        fbref.total_starts
     from fpl
     left join understat
         on fpl.player_name = understat.player_name
-    left join fbref
+    left join fbref_agg as fbref
         on fpl.player_name = fbref.player
 )
 

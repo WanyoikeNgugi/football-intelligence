@@ -1,0 +1,32 @@
+version: 2
+
+models:
+  - name: int_player_performance
+    description: "Joins FPL, Understat and FBref data for comprehensive player performance view"
+    columns:
+      - name: player_id
+        description: "Unique FPL player ID"
+      - name: player_name
+        description: "Full player name"
+      - name: fpl_xg
+        description: "Expected goals from FPL data"
+      - name: us_xg
+        description: "Expected goals from Understat data"
+      - name: npxg
+        description: "Non-penalty expected goals from Understat"
+
+  - name: int_manager_picks
+    description: "GW level player data joined with current FPL player info"
+    columns:
+      - name: player_id
+        description: "Unique FPL player ID"
+      - name: gw
+        description: "Gameweek number"
+
+  - name: int_vaastav_player_history
+    description: "Historical player performance aggregated by season from Vaastav data"
+    columns:
+      - name: player_name
+        description: "Player name"
+      - name: season
+        description: "FPL season e.g. 2023-24"

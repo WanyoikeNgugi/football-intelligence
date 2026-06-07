@@ -6,7 +6,7 @@ final as (
     select
         player_id,
         player_name,
-        position,
+        player_position,
         price,
         total_points,
         minutes,
@@ -25,12 +25,12 @@ final as (
         npxg,
         shots,
         -- value metrics
-        total_points / nullif(price, 0) as points_per_million,
+       {{ points_per_million('total_points', 'price') }} as points_per_million,  -- noqa
         us_xg / nullif(price, 0) as xg_per_million,
         fpl_xgi / nullif(price, 0) as xgi_per_million,
         -- efficiency metrics
-        total_points / nullif(minutes, 0) * 90 as points_per90,
-        us_xg / nullif(minutes, 0) * 90 as xg_per90,
+        {{ per_90('total_points', 'minutes') }} as points_per90,  -- noqa
+        {{ per_90('us_xg', 'minutes') }} as xg_per90,  -- noqa
         -- value flag
         coalesce(
             total_points / nullif(price, 0)

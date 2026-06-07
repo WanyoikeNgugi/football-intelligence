@@ -9,8 +9,8 @@ renamed as (
         pos as player_position,
         age,
         "Playing Time_MP" as matches_played,
-        "Playing Time_Starts" as matches_started,
-        "Playing Time_Min" as minutes_played,
+        "Playing Time_Starts" as matches_started, -- noqa: RF05
+        "Playing Time_Min" as minutes,
         "Playing Time_90s" as nineties,
         "Performance_Gls" as goals,
         "Performance_Ast" as assists,

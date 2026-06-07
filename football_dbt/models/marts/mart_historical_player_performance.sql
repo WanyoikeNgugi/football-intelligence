@@ -7,20 +7,24 @@ historical as (
 ),
 
 historical_aggregated as (
-    select
+    select distinct on (player_name)
         player_name,
         position,
-        avg(avg_points_per_gw) as career_avg_points_per_gw,
-        avg(avg_xg) as career_avg_xg,
-        avg(avg_xa) as career_avg_xa,
-        avg(avg_xgi) as career_avg_xgi,
-        avg(avg_ict_index) as career_avg_ict,
-        sum(total_goals) as career_goals,
-        sum(total_assists) as career_assists,
-        sum(total_clean_sheets) as career_clean_sheets,
-        count(season) as seasons_played
+        avg(avg_points_per_gw)
+            over (partition by player_name)
+        as career_avg_points_per_gw,
+        avg(avg_xg) over (partition by player_name) as career_avg_xg,
+        avg(avg_xa) over (partition by player_name) as career_avg_xa,
+        avg(avg_xgi) over (partition by player_name) as career_avg_xgi,
+        avg(avg_ict_index) over (partition by player_name) as career_avg_ict,
+        sum(total_goals) over (partition by player_name) as career_goals,
+        sum(total_assists) over (partition by player_name) as career_assists,
+        sum(total_clean_sheets)
+            over (partition by player_name)
+        as career_clean_sheets,
+        count(season) over (partition by player_name) as seasons_played
     from historical
-    group by player_name, position
+    order by player_name asc, season desc  -- most recent season first
 ),
 
 final as (
