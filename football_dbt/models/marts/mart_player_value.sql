@@ -29,7 +29,7 @@ final as (
         us_xg / nullif(price, 0) as xg_per_million,
         fpl_xgi / nullif(price, 0) as xgi_per_million,
         -- efficiency metrics
-        {{ per_90('total_points', 'minutes') }} as points_per90,  -- noqa
+        {{ per_90('total_points::float', 'minutes') }} as points_per90,  -- noqa
         {{ per_90('us_xg', 'minutes') }} as xg_per90,  -- noqa
         -- value flag
         coalesce(
