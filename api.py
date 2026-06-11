@@ -25,9 +25,27 @@ def root():
 
 
 @app.get("/players")
-def get_players():
+def get_players(page: int = 1, limit: int = 100):
+    offset = (page - 1) * limit
     with engine.connect() as conn:
-        df = pd.read_sql("select * from mart_player_value", conn)
+        df = pd.read_sql(
+            text("select * from mart_player_value limit :limit offset :offset"),
+            conn,
+            params={"limit": limit, "offset": offset},
+        )
+    return df_to_json(df)
+
+
+@app.get("/players/search")
+def get_player_by_name(name: str):
+    with engine.connect() as conn:
+        df = pd.read_sql(
+            text("select * from mart_player_value where player_name ILIKE :name"),
+            conn,
+            params={"name": f"%{name}%"},
+        )
+    if df.empty:
+        raise HTTPException(status_code=404, detail="Player not found")
     return df_to_json(df)
 
 
@@ -38,6 +56,10 @@ def players_position(position: str):
             text("select * from mart_player_value where player_position = :position"),
             conn,
             params={"position": position.upper()},
+        )
+    if df.empty:
+        raise HTTPException(
+            status_code=404, detail=f"No players found for position {position}"
         )
     return df_to_json(df)
 
@@ -77,4 +99,28 @@ def get_player_historical(player_name: str):
         )
     if df.empty:
         raise HTTPException(status_code=404, detail="Player not found")
+    return df_to_json(df)
+
+
+@app.get("/top-players")
+def get_top_players(limit: int = 10):
+    with engine.connect() as conn:
+        df = pd.read_sql(
+            text(
+                "select * from mart_player_value order by total_points desc limit :limit"
+            ),
+            conn,
+            params={"limit": limit},
+        )
+    return df_to_json(df)
+
+
+@app.get("/gw/{gw}")
+def get_gameweek(gw: int):
+    with engine.connect() as conn:
+        df = pd.read_sql(
+            text("select * from stg_fpl_gw where gw = :gw"), conn, params={"gw": gw}
+        )
+    if df.empty:
+        raise HTTPException(status_code=404, detail="game week not found")
     return df_to_json(df)
