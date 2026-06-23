@@ -12,6 +12,7 @@ dependencies = [
     "pandas>=3.0.2",
     "psycopg2-binary>=2.9.12",
     "requests>=2.33.1",
+    "scikit-learn>=1.9.0",
     "soccerdata>=1.9.0",
     "sqlalchemy>=2.0.50",
     "tdqm>=0.0.1",

@@ -2,31 +2,152 @@ version: 2
 
 models:
   - name: int_player_performance
-    description: "Joins FPL, Understat and FBref data for comprehensive player performance view"
+    description: "One row per current-season player, joining FPL season totals with Understat's shot-based xG metrics and FBref's per-90 stats. The core enriched player table that downstream marts build on."
     columns:
       - name: player_id
-        description: "Unique FPL player ID"
+        description: "FPL player ID."
+        data_tests:
+          - unique
+          - not_null
       - name: player_name
-        description: "Full player name"
+        description: "Player's full name, used to join across FPL, Understat and FBref."
+      - name: player_position
+        description: "Player position abbreviation (GKP/DEF/MID/FWD) from FPL."
+      - name: team_id
+        description: "FPL numeric team ID."
+      - name: price
+        description: "Current player price in millions."
+      - name: total_points
+        description: "Total FPL points scored this season."
+      - name: minutes
+        description: "Total minutes played this season (from FPL)."
+      - name: goals_scored
+        description: "Total goals scored this season (from FPL)."
+      - name: assists
+        description: "Total assists this season (from FPL)."
+      - name: clean_sheets
+        description: "Total clean sheets this season."
+      - name: bonus
+        description: "Total bonus points earned this season."
+      - name: bps
+        description: "Cumulative Bonus Points System score this season."
+      - name: ict_index
+        description: "FPL's combined Influence, Creativity, Threat index."
+      - name: selected_by_percent
+        description: "Percentage of FPL managers who currently own this player."
       - name: fpl_xg
-        description: "Expected goals from FPL data"
+        description: "FPL's own expected goals for the season."
+      - name: fpl_xa
+        description: "FPL's own expected assists for the season."
+      - name: fpl_xgi
+        description: "FPL's expected goal involvements (xG + xA)."
+      - name: form
+        description: "FPL's rolling average points over recent gameweeks."
+      - name: points_per_game
+        description: "Average FPL points per game played."
+      - name: value_season
+        description: "FPL's own points-per-cost value metric."
       - name: us_xg
-        description: "Expected goals from Understat data"
+        description: "Understat's expected goals — generally more precise than FPL's own xG, based on shot quality modeling."
+      - name: us_xa
+        description: "Understat's expected assists."
+      - name: xg_chain
+        description: "Expected goals from every possession chain the player touched, including the pass before a shot."
+      - name: xg_buildup
+        description: "Expected goals from buildup play only, excluding the player's own shots and key passes."
+      - name: shots
+        description: "Total shots taken this season (from Understat)."
+      - name: key_passes
+        description: "Total key passes leading to a shot (from Understat)."
       - name: npxg
-        description: "Non-penalty expected goals from Understat"
+        description: "Non-penalty expected goals — open-play scoring threat with penalties excluded."
+      - name: goals_per90
+        description: "Goals scored per 90 minutes (from FBref, summed across clubs if the player transferred mid-season)."
+      - name: assists_per90
+        description: "Assists per 90 minutes (from FBref)."
+      - name: goals_assists_per90
+        description: "Goals plus assists per 90 minutes (from FBref)."
+      - name: total_starts
+        description: "Total matches started this season, summed across all clubs played for (from FBref)."
 
   - name: int_manager_picks
-    description: "GW level player data joined with current FPL player info"
+    description: "One row per player per gameweek, joining gameweek performance with current FPL pricing and ownership. Foundation for gameweek-level points aggregation in mart_player_points."
     columns:
       - name: player_id
-        description: "Unique FPL player ID"
+        description: "FPL player ID."
       - name: gw
-        description: "Gameweek number"
+        description: "Gameweek number."
+      - name: fixture_id
+        description: "FPL fixture ID for this gameweek's match."
+      - name: total_points
+        description: "FPL points scored in this gameweek."
+      - name: minutes
+        description: "Minutes played this gameweek."
+      - name: goals_scored
+        description: "Goals scored this gameweek."
+      - name: assists
+        description: "Assists made this gameweek."
+      - name: clean_sheets
+        description: "Whether a clean sheet was kept this gameweek."
+      - name: bonus
+        description: "Bonus points earned this gameweek."
+      - name: expected_goals
+        description: "Expected goals for this gameweek's match."
+      - name: expected_assists
+        description: "Expected assists for this gameweek's match."
+      - name: was_home
+        description: "True if the player's team played at home this gameweek."
+      - name: team
+        description: "Player's team name for this gameweek."
+      - name: position
+        description: "Player position for this gameweek."
+      - name: player_name
+        description: "Player's full name."
+      - name: price
+        description: "Current player price in millions (from stg_fpl_players, not historical price at that gameweek)."
+      - name: selected_by_percent
+        description: "Current percentage of FPL managers who own this player."
 
   - name: int_vaastav_player_history
-    description: "Historical player performance aggregated by season from Vaastav data"
+    description: "One row per player per historical season, aggregating gameweek-level Vaastav data into season totals and averages. Used to build career-level stats in mart_historical_player_performance."
     columns:
       - name: player_name
-        description: "Player name"
+        description: "Player's full name as recorded that season."
+      - name: position
+        description: "Player position for that season."
       - name: season
-        description: "FPL season e.g. 2023-24"
+        description: "FPL season identifier, e.g. '2022-23'."
+      - name: games_played
+        description: "Number of gameweeks with data that season."
+      - name: total_points
+        description: "Total FPL points scored that season."
+      - name: avg_points_per_gw
+        description: "Average FPL points per gameweek that season."
+      - name: total_minutes
+        description: "Total minutes played that season."
+      - name: total_goals
+        description: "Total goals scored that season."
+      - name: total_assists
+        description: "Total assists that season."
+      - name: total_clean_sheets
+        description: "Total clean sheets that season."
+      - name: total_bonus
+        description: "Total bonus points earned that season."
+      - name: avg_ict_index
+        description: "Average ICT index per gameweek that season."
+      - name: avg_price
+        description: "Average player price that season, in millions."
+      - name: total_transfers_in
+        description: "Total transfers-in across all gameweeks that season."
+      - name: total_transfers_out
+        description: "Total transfers-out across all gameweeks that season."
+      - name: avg_xg
+        description: "Average expected goals per gameweek that season."
+      - name: avg_xa
+        description: "Average expected assists per gameweek that season."
+      - name: avg_xgi
+        description: "Average expected goal involvements per gameweek that season."
+      - name: home_points
+        description: "Total points scored in home fixtures that season."
+      - name: away_points
+        description: "Total points scored in away fixtures that season."

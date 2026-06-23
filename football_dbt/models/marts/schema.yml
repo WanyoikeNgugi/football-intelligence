@@ -2,37 +2,174 @@ version: 2
 
 models:
   - name: mart_player_value
-    description: "Player value metrics for undervalued player analysis"
+    description: "Final analysis-ready table of current-season player value metrics, combining FPL, Understat and FBref data. Flags players as undervalued based on points-per-million relative to the league average, filtered to ownership under 20%. Use this to answer 'which players are good value' or 'who is undervalued' questions."
     columns:
       - name: player_id
+        description: "FPL player ID."
         data_tests:
           - unique
           - not_null
+      - name: player_name
+        description: "Player's full name."
+      - name: player_position
+        description: "Player position (GKP/DEF/MID/FWD)."
       - name: price
+        description: "Current player price in millions."
         data_tests:
           - not_null
       - name: total_points
+        description: "Total FPL points scored this season."
         data_tests:
           - not_null
+      - name: minutes
+        description: "Total minutes played this season."
+      - name: goals_scored
+        description: "Total goals scored this season."
+      - name: assists
+        description: "Total assists this season."
+      - name: clean_sheets
+        description: "Total clean sheets this season."
+      - name: bonus
+        description: "Total bonus points earned this season."
+      - name: selected_by_percent
+        description: "Percentage of FPL managers who currently own this player."
+      - name: form
+        description: "FPL's rolling average points over recent gameweeks."
+      - name: points_per_game
+        description: "Average FPL points per game played."
+      - name: fpl_xg
+        description: "FPL's own expected goals this season."
+      - name: fpl_xa
+        description: "FPL's own expected assists this season."
+      - name: fpl_xgi
+        description: "FPL's expected goal involvements (xG + xA)."
+      - name: us_xg
+        description: "Understat's expected goals — more precise shot-quality based xG. Null for players not matched in Understat data."
+      - name: us_xa
+        description: "Understat's expected assists. Null for players not matched in Understat data."
+      - name: npxg
+        description: "Non-penalty expected goals from Understat."
+      - name: shots
+        description: "Total shots taken this season, from Understat."
+      - name: points_per_million
+        description: "Total points divided by price — the core points-for-money value metric."
+      - name: xg_per_million
+        description: "Understat xG divided by price — goal threat relative to cost."
+      - name: xgi_per_million
+        description: "FPL expected goal involvements divided by price — combined goal threat relative to cost."
+      - name: points_per90
+        description: "Points scored per 90 minutes played."
+      - name: xg_per90
+        description: "Understat xG per 90 minutes played."
       - name: is_undervalued
+        description: "True if points_per_million is above the league average AND selected_by_percent is under 20% — flags cheap, productive, low-ownership players."
         data_tests:
           - not_null
 
   - name: mart_player_points
-    description: "Aggregated player points data for ML features"
+    description: "One row per player, aggregating this season's gameweek-by-gameweek FPL performance into season totals and per-gameweek averages, including home/away splits. Primary feature table for points-prediction ML models."
     columns:
       - name: player_id
+        description: "FPL player ID."
         data_tests:
           - unique
           - not_null
+      - name: player_name
+        description: "Player's full name."
+      - name: position
+        description: "Player position (GKP/DEF/MID/FWD)."
+      - name: team
+        description: "Player's current team."
+      - name: price
+        description: "Current player price in millions."
+      - name: selected_by_percent
+        description: "Percentage of FPL managers who currently own this player."
+      - name: games_played
+        description: "Number of gameweeks with recorded data this season."
       - name: total_points
+        description: "Total FPL points scored this season, summed across gameweeks."
         data_tests:
           - not_null
+      - name: avg_points_per_gw
+        description: "Average FPL points per gameweek this season."
+      - name: total_minutes
+        description: "Total minutes played this season, summed across gameweeks."
+      - name: avg_minutes
+        description: "Average minutes played per gameweek."
+      - name: total_goals
+        description: "Total goals scored this season."
+      - name: total_assists
+        description: "Total assists this season."
+      - name: total_clean_sheets
+        description: "Total clean sheets this season."
+      - name: total_bonus
+        description: "Total bonus points earned this season."
+      - name: avg_xg
+        description: "Average expected goals per gameweek this season."
+      - name: avg_xa
+        description: "Average expected assists per gameweek this season."
+      - name: home_points
+        description: "Total points scored in home fixtures this season."
+      - name: away_points
+        description: "Total points scored in away fixtures this season."
+      - name: avg_home_points
+        description: "Average points per home fixture this season."
+      - name: avg_away_points
+        description: "Average points per away fixture this season."
 
   - name: mart_historical_player_performance
-    description: "Combined current and historical player performance"
+    description: "One row per player, combining this season's points aggregation (mart_player_points) with career-level stats from past FPL seasons (Vaastav archive, 2016-17 through 2024-25). Uses the player's most recent historical season to resolve position when it changed across seasons. Use this for questions about player consistency and career trends, e.g. 'who has the best multi-season average'."
     columns:
       - name: player_id
+        description: "FPL player ID."
         data_tests:
           - unique
           - not_null
+      - name: player_name
+        description: "Player's full name."
+      - name: position
+        description: "Current FPL position (GKP/DEF/MID/FWD)."
+      - name: team
+        description: "Player's current team."
+      - name: price
+        description: "Current player price in millions."
+      - name: total_points
+        description: "Total FPL points scored this season."
+      - name: avg_points_per_gw
+        description: "Average FPL points per gameweek this season."
+      - name: total_goals
+        description: "Total goals scored this season."
+      - name: total_assists
+        description: "Total assists this season."
+      - name: total_clean_sheets
+        description: "Total clean sheets this season."
+      - name: avg_xg
+        description: "Average expected goals per gameweek this season."
+      - name: avg_xa
+        description: "Average expected assists per gameweek this season."
+      - name: home_points
+        description: "Total points scored in home fixtures this season."
+      - name: away_points
+        description: "Total points scored in away fixtures this season."
+      - name: avg_home_points
+        description: "Average points per home fixture this season."
+      - name: avg_away_points
+        description: "Average points per away fixture this season."
+      - name: career_avg_points_per_gw
+        description: "Average points per gameweek across all historical seasons found for this player in the Vaastav archive (may be null if no historical match found, e.g. for new signings)."
+      - name: career_avg_xg
+        description: "Average expected goals per gameweek across all historical seasons."
+      - name: career_avg_xa
+        description: "Average expected assists per gameweek across all historical seasons."
+      - name: career_avg_xgi
+        description: "Average expected goal involvements per gameweek across all historical seasons."
+      - name: career_avg_ict
+        description: "Average ICT index per gameweek across all historical seasons."
+      - name: career_goals
+        description: "Total goals scored across all historical seasons found in the archive."
+      - name: career_assists
+        description: "Total assists across all historical seasons found in the archive."
+      - name: career_clean_sheets
+        description: "Total clean sheets across all historical seasons found in the archive."
+      - name: seasons_played
+        description: "Number of historical seasons found for this player in the Vaastav archive (does not include the current season)."
