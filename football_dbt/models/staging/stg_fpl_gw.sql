@@ -19,7 +19,13 @@ renamed as (
         was_home,
         team,
         name,
-        position
+        position,
+        ict_index,
+        value,
+        selected,
+        opponent_team,
+        transfers_in,
+        transfers_out
     from source
 )
 

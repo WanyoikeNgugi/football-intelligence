@@ -2,7 +2,12 @@ from fastapi import FastAPI, HTTPException
 from sqlalchemy import create_engine, text
 import pandas as pd
 import math
+from ml import load_model, predict_next3
+from datetime import datetime
 
+artifact = load_model()
+PREDICTIONS = predict_next3(artifact)
+PREDICTIONS_AT = datetime.now()
 app = FastAPI(title="Football Intelligence API", version="1.0.0")
 DB_URL = "postgresql://football:football@localhost:5432/football_db"
 engine = create_engine(DB_URL)
@@ -124,3 +129,67 @@ def get_gameweek(gw: int):
     if df.empty:
         raise HTTPException(status_code=404, detail="game week not found")
     return df_to_json(df)
+
+
+@app.get("/predict/points")
+def predict_points(limit: int = 20, position: str | None = None):
+    preds = PREDICTIONS
+
+    if position:
+        preds = preds[preds["position"] == position.upper()]
+        if preds.empty:
+            raise HTTPException(
+                status_code=404, detail=f"No predictions for position {position}"
+            )
+    return df_to_json(preds.head(limit))
+
+
+@app.get("/predict/points/{player_id}")
+def predict_player_points(player_id: int):
+    row = PREDICTIONS[PREDICTIONS["player_id"] == player_id]
+
+    if row.empty:
+        raise HTTPException(
+            status_code=404,
+            detail="Player not found in predictions — may be injured or below the minutes threshold",
+        )
+    return df_to_json(row)[0]
+
+
+@app.get("/model/info")
+@app.post("/predict/refresh")
+def refresh_predictions():
+    global PREDICTIONS, PREDICTIONS_AT
+
+    try:
+        fresh = predict_next3(artifact)
+    except Exception as e:
+        raise HTTPException(
+            status_code=500,
+            detail=f"Refresh failed, serving previous predictions: {e}",
+        )
+    if fresh.empty:
+        raise HTTPException(
+            status_code=500,
+            detail="Refresh produced zero predictions, keeping previous",
+        )
+    PREDICTIONS = fresh
+    PREDICTIONS_AT = datetime.now()
+    return {
+        "status": "refreshed",
+        "rows": len(PREDICTIONS),
+        "gw": int(PREDICTIONS["gw"].iloc[0]),
+        "refreshed_at": PREDICTIONS_AT.isoformat(),
+    }
+
+
+@app.get("/model/info")
+def model_info():
+    return {
+        "target": artifact["target"],
+        "trained_at": artifact["trained_at"],
+        "metrics": artifact["metrics"],
+        "features": artifact["features"],
+        "predictions_refreshed_at": PREDICTIONS_AT.isoformat(),
+        "predictions_rows": len(PREDICTIONS),
+    }
