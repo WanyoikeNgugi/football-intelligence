@@ -2,7 +2,7 @@ from fastapi import FastAPI, HTTPException
 from sqlalchemy import create_engine, text
 import pandas as pd
 import math
-from ml import load_model, predict_next3
+from ml import load_model, predict_next3, save_predictions
 from datetime import datetime
 
 artifact = load_model()
@@ -175,11 +175,14 @@ def refresh_predictions():
         )
     PREDICTIONS = fresh
     PREDICTIONS_AT = datetime.now()
+    saved = save_predictions(PREDICTIONS, artifact)
     return {
         "status": "refreshed",
         "rows": len(PREDICTIONS),
+        "saved_to_db": saved,
         "gw": int(PREDICTIONS["gw"].iloc[0]),
         "refreshed_at": PREDICTIONS_AT.isoformat(),
+        "calibration": artifact.get("calibration"),
     }
 
 

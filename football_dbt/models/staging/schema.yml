@@ -106,6 +106,18 @@ models:
         description: "Player's full name (denormalized for convenience)."
       - name: position
         description: "Player position abbreviation (GKP/DEF/MID/FWD) for this gameweek."
+      - name: ict_index
+        description: "FPL's combined Influence, Creativity and Threat index for this gameweek — a single score summarizing overall match impact."
+      - name: value
+        description: "Player price at the time of this gameweek, in tenths of a million (e.g. 95 = £9.5m)."
+      - name: selected
+        description: "Number of FPL managers who owned this player going into this gameweek."
+      - name: opponent_team
+        description: "Numeric ID of the opposing team this gameweek."
+      - name: transfers_in
+        description: "Number of FPL managers who transferred this player in before this gameweek."
+      - name: transfers_out
+        description: "Number of FPL managers who transferred this player out before this gameweek."
 
   - name: stg_understat_players
     description: "One row per player per season from Understat, providing advanced shot-based expected-goals (xG) metrics not available in the FPL API. Used to cross-validate FPL's own xG figures."

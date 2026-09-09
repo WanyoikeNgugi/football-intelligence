@@ -18,7 +18,7 @@ renamed as (
         expected_assists,
         was_home,
         team,
-        name,
+        name as player_name,
         position,
         ict_index,
         value,
