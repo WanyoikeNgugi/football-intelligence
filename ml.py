@@ -31,7 +31,7 @@ def load_current_gw_data():
         df = pd.read_sql(
             """
             select
-                player_id, name as player_name, position, team,
+                player_id, player_name, position, team,
                 gw, total_points, minutes, bps, ict_index,
                 expected_goals, expected_assists, value, selected,
                 was_home, opponent_team

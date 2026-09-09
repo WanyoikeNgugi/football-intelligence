@@ -4,10 +4,12 @@ import pandas as pd
 import math
 from ml import load_model, predict_next3, save_predictions
 from datetime import datetime
+from nl_query import ask, build_schema_context
 
 artifact = load_model()
 PREDICTIONS = predict_next3(artifact)
 PREDICTIONS_AT = datetime.now()
+SCHEMA_CONTEXT = build_schema_context()
 app = FastAPI(title="Football Intelligence API", version="1.0.0")
 DB_URL = "postgresql://football:football@localhost:5432/football_db"
 engine = create_engine(DB_URL)
@@ -195,4 +197,22 @@ def model_info():
         "features": artifact["features"],
         "predictions_refreshed_at": PREDICTIONS_AT.isoformat(),
         "predictions_rows": len(PREDICTIONS),
+    }
+
+
+@app.get("/ask")
+def ask_question(q: str):
+    result = ask(q, schema=SCHEMA_CONTEXT, verbose=False)
+
+    if "error" in result:
+        raise HTTPException(
+            status_code=400,
+            detail={"error": result["error"], "sql": result.get("sql")},
+        )
+
+    return {
+        "question": result["question"],
+        "sql": result["sql"],
+        "rows": result["rows"],
+        "data": df_to_json(result["data"]),
     }
