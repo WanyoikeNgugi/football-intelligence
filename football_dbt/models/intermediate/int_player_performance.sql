@@ -10,6 +10,10 @@ fbref as (
     select * from {{ ref('stg_fbref_standard') }}
 ),
 
+teams as (
+    select * from {{ ref('stg_fpl_teams') }}
+),
+
 fbref_agg as (
     select
         player,
@@ -59,12 +63,15 @@ joined as (
         fbref.goals_per90,
         fbref.assists_per90,
         fbref.goals_assists_per90,
-        fbref.total_starts
+        fbref.total_starts,
+        teams.team_name as team
     from fpl
     left join understat
         on fpl.player_name = understat.player_name
     left join fbref_agg as fbref
         on fpl.player_name = fbref.player
+    left join teams
+        on fpl.team_id = teams.team_id
 )
 
 select * from joined

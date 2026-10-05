@@ -7,6 +7,7 @@ final as (
         player_id,
         player_name,
         player_position,
+        team,
         price,
         total_points,
         minutes,

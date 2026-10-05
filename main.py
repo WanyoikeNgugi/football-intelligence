@@ -1,10 +1,18 @@
 from sqlalchemy import create_engine, text
 
-ro = create_engine("postgresql://football_ro:football_ro@localhost:5432/football_db")
+engine = create_engine("postgresql://football:football@localhost:5432/football_db")
 
-with ro.connect() as conn:
-    try:
-        r = conn.execute(text("select * from customer_transactions limit 1")).fetchall()
-        print("PROBLEM: readable —", r)
-    except Exception as e:
-        print(f"correctly refused: {type(e).__name__}")
+tables = [
+    "mart_player_value",
+    "mart_player_points",
+    "mart_historical_player_performance",
+    "stg_fpl_gw",
+    "stg_vaastav_gw",
+    "stg_fpl_teams",
+]
+
+with engine.connect() as conn:
+    for t in tables:
+        conn.execute(text(f"grant select on {t} to football_ro"))
+    conn.execute(text("commit"))
+    print("granted")

@@ -23,6 +23,7 @@ ALLOWED_MODELS = {
     "mart_historical_player_performance",
     "stg_fpl_gw",
     "stg_vaastav_gw",
+    "stg_fpl_teams",
 }
 
 FORBIDDEN = {
