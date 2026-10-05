@@ -102,7 +102,7 @@ models:
         description: "True if the player's team played at home this gameweek."
       - name: team
         description: "Name of the player's team for this gameweek."
-      - name: name
+      - name: player_name
         description: "Player's full name (denormalized for convenience)."
       - name: position
         description: "Player position abbreviation (GKP/DEF/MID/FWD) for this gameweek."
